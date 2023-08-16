@@ -1,0 +1,31 @@
+api.boliga.dk
+
+
+
+GET api/v2/indexv2/areas/{region}
+F.eks.: api.boliga.dk/api/v2/indexv2/regions
+
+
+
+https://api.boliga.dk/api/v2/indexv2/areas/hovedstaden
+
+
+Find data fra kommunerne uden for København. Det hedder "Københavns omegn". 
+AreaID er det vigtige.
+
+GET api/v2/indexv2/municipalities/{areaId}
+f.eks.: https://api.boliga.dk/api/v2/indexv2/municipalities/2
+Dette giver AreaID'er for kommunnerne i Københavns Omegn.
+
+
+api/v2/indexv2/zipcities/{municipalityId} giver by og postnummer
+F.eks. https://api.boliga.dk/api/v2/indexv2/zipcities/175
+Det giver Rødovre og postnummer.
+
+
+https://api.boliga.dk/api/v2/promotiondba/14days
+
+
+
+https://api.statbank.dk/console#subjects
+
