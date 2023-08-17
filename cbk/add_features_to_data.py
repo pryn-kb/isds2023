@@ -13,8 +13,7 @@ to the dataset, merged on muni_code and year.
 Args: df
 returns:
     df with added features
-    num_cols - list of numerical columns in the dataframe
-    cat_cols - list of categorical columns in the dataframe
+
 '''
 
 def add_features_to_data(df):
@@ -53,6 +52,5 @@ def add_features_to_data(df):
     cols_to_drop = [col for col in df.columns if col.startswith('Unnamed')]
     df.drop(columns=cols_to_drop, inplace=True)
     df.drop(columns="count", inplace =True)
-    num_cols  = df.select_dtypes(include=["number"]).columns.tolist()
-    cat_cols  = df.select_dtypes(include=["category"]).columns.tolist()
-    return (df, num_cols, cat_cols)
+
+    return (df)
