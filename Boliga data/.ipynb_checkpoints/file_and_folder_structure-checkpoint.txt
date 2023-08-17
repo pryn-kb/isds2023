@@ -1,0 +1,19 @@
+1. Scraping data:		Daniel
+	Filename:	sales_1992_2022_{municipality_code}.csv
+	Save folder:	data
+
+2. Tidying/Cleaning data:	Lars
+	Filename:	tidy_sales_1992_2022_{municipality_code}.csv
+	Save folder:	tidy_data
+
+3. Removing double sales:	Daniel
+	Filename:	unique_ sales_1992_2022_{municipality_code}.csv
+Save folder:	unique_data
+
+4. Removing outliers:		Lars
+	Filename:	inlier_ sales_1992_2022_{municipality_code}.csv
+	Save folder:	inlier_data
+
+5. Aggregating data:		Daniel (/Christian)
+	Filename:	agg_ sales_1992_2022_{municipality_code}.csv
+	Save folder:	agg_data
