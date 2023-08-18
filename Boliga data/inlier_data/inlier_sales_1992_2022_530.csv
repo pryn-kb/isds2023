@@ -99,7 +99,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 530,Villa,Kirkegade 15,6623, Vorbasse,1435000 ,14-08-2022,Alm. Salg,160,8969,7,1973,
 530,Villa,Østergaardsvej 18,7200, Grindsted,595000 ,11-08-2022,Alm. Salg,126,4722,4,1912,
 530,Villa,Gammel Hejnsvigvej 5,7190, Billund,995000 ,11-08-2022,Alm. Salg,120,8292,4,1958,
-530,Villa,Markskellet 26,7190, Billund,1740000 ,11-08-2022,Alm. Salg,107,16262,4,1990,0%
 530,Villa,Dalbo 63,7200, Grindsted,1100000 ,10-08-2022,Alm. Salg,112,9821,4,1979,
 530,Villa,Grønlandsvej 2,7200, Grindsted,1900000 ,10-08-2022,Alm. Salg,224,8482,8,1974,-5%
 530,Villa,Sønderkær 193,7190, Billund,2200000 ,10-08-2022,Alm. Salg,175,12571,6,1978,-2%
@@ -164,13 +163,11 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 530,Villa,Skovbrynet 4,7260, Sønder Omme,1500000 ,17-06-2022,Alm. Salg,222,6757,8,1973,-4%
 530,Villa,Søndermarksvej 106,7190, Billund,2050000 ,17-06-2022,Alm. Salg,180,11389,4,1970,8%
 530,Villa,Engsøparken 27,7200, Grindsted,3150000 ,14-06-2022,Alm. Salg,236,13347,4,1952,-4%
-530,Villa,Ådalen 7,7200, Grindsted,3400000 ,13-06-2022,Alm. Salg,207,16425,7,1963,
 530,Villa,Ansager Landevej 38,7200, Grindsted,1375000 ,10-06-2022,Alm. Salg,238,5777,8,1893,
 530,Villa,Bækkevej 21,6623, Vorbasse,1410000 ,08-06-2022,Alm. Salg,140,10071,6,1902,
 530,Villa,Lillesøvej 2,7200, Grindsted,2075000 ,08-06-2022,Alm. Salg,157,13217,5,1973,
 530,Villa,Vesterled 15,7260, Sønder Omme,512500 ,08-06-2022,Alm. Salg,108,4745,4,1967,-2%
 530,Villa,Tranevej 10,7200, Grindsted,644500 ,07-06-2022,Fam. Salg,142,4539,5,1976,
-530,Villa,Søndervold 131,7200, Grindsted,2600000 ,07-06-2022,Alm. Salg,158,16456,6,2004,-2%
 530,Villa,Fyrrevænget 108,7190, Billund,2845000 ,06-06-2022,Alm. Salg,208,13678,7,1969,-2%
 530,Villa,Mølleparken 170,7190, Billund,1600000 ,06-06-2022,Fam. Salg,131,12214,4,1975,
 530,Villa,Dalsøvej 65,7200, Grindsted,850000 ,02-06-2022,Alm. Salg,138,6159,4,1976,
@@ -187,7 +184,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 530,Villa,Daugårdvej 17,7250, Hejnsvig,52000 ,24-05-2022,Alm. Salg,85,612,4,1959,
 530,Villa,Storegade 16,7200, Grindsted,234983 ,23-05-2022,Alm. Salg,143,1643,5,1928,
 530,Villa,Klosterhedevej 3,7200, Grindsted,1450000 ,23-05-2022,Alm. Salg,149,9732,5,1972,-2%
-530,Villa,Mølleparken 318,7190, Billund,3665000 ,23-05-2022,Alm. Salg,225,16289,6,1984,1%
 530,Villa,Hovborgvej 26,6623, Vorbasse,300000 ,23-05-2022,Alm. Salg,95,3158,3,1877,
 530,Villa,Præstevænget 12,7250, Hejnsvig,1550000 ,22-05-2022,Alm. Salg,183,8470,6,1919,-3%
 530,Villa,Færøvej 5,7200, Grindsted,1995000 ,19-05-2022,Alm. Salg,152,13125,5,1970,
@@ -227,7 +223,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 530,Villa,Hovedgaden 28,7260, Sønder Omme,150000 ,01-05-2022,Alm. Salg,167,691,9,1939,-39%
 530,Villa,Nebelvej 43,6623, Vorbasse,995000 ,01-05-2022,Alm. Salg,283,3516,8,1901,
 530,Villa,Bygvænget 15,7200, Grindsted,2017500 ,01-05-2022,Alm. Salg,153,13186,5,1963,
-530,Villa,Tværvej 6,7190, Billund,2240000 ,01-05-2022,Alm. Salg,138,16232,6,1972,1%
 530,Villa,Birkevej 10,6623, Vorbasse,845000 ,30-04-2022,Alm. Salg,98,8622,3,1968,
 530,Villa,Vestre Boulevard 32,7200, Grindsted,1075000 ,28-04-2022,Alm. Salg,102,10539,4,1960,-10%
 530,Villa,Gammel Bøvlvej 11,7260, Sønder Omme,510000 ,28-04-2022,Alm. Salg,137,3723,5,1932,-6%
@@ -269,7 +264,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 530,Rækkehus,Krogagervej 44,7200, Grindsted,750000 ,16-03-2022,Alm. Salg,99,7576,4,1957,
 530,Villa,Bredgade 2,7250, Hejnsvig,1009499 ,15-03-2022,Andet,313,3225,12,1876,
 530,Villa,Pilealle 2,7200, Grindsted,450000 ,15-03-2022,Alm. Salg,106,4245,4,1962,
-530,Rækkehus,Sønderkær 355,7190, Billund,1415000 ,14-03-2022,Alm. Salg,87,16264,3,1985,
 530,Villa,Dalagervej 5,6623, Vorbasse,780000 ,12-03-2022,Fam. Salg,115,6783,4,1965,
 530,Villa,Dalbo 65,7200, Grindsted,1198000 ,10-03-2022,Alm. Salg,114,10509,5,1978,
 530,Villa,Ravnsøvej 10,7200, Grindsted,1475000 ,10-03-2022,Alm. Salg,162,9105,4,1974,-5%
@@ -347,7 +341,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 530,Rækkehus,Dalsvinget 20A,7200, Grindsted,725000 ,21-12-2021,Alm. Salg,75,9667,3,1978,
 530,Villa,Præstevænget 1,6623, Vorbasse,1045000 ,21-12-2021,Alm. Salg,131,7977,4,1927,
 530,Villa,Birksøvej 11,7200, Grindsted,1575000 ,21-12-2021,Alm. Salg,143,11014,5,1974,
-530,Villa,Kobjergvej 5A,7190, Billund,2750000 ,20-12-2021,Alm. Salg,169,16272,4,1910,-2%
 530,Villa,Lysningen 14,7190, Billund,1520000 ,20-12-2021,Alm. Salg,130,11692,5,1987,-5%
 530,Villa,Grindstedvej 22A,7190, Billund,2250000 ,20-12-2021,Alm. Salg,191,11780,8,1975,-2%
 530,Villa,Rugvænget 15,7200, Grindsted,650000 ,20-12-2021,Alm. Salg,120,5417,5,1963,-13%
@@ -370,7 +363,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 530,Villa,Svalevænget 5,6623, Vorbasse,1575000 ,06-12-2021,Alm. Salg,151,10430,6,1994,
 530,Villa,Fanøvej 18,7200, Grindsted,1755000 ,05-12-2021,Alm. Salg,148,11858,5,1972,-2%
 530,Villa,Dalsvinget 52,7200, Grindsted,1380000 ,02-12-2021,Alm. Salg,152,9079,6,1977,-5%
-530,Villa,Vandmosevej 22B,6623, Vorbasse,2395000 ,02-12-2021,Alm. Salg,146,16404,5,1961,-4%
 530,Rækkehus,Jørgen Glavinds Vej 36,7200, Grindsted,725000 ,01-12-2021,Alm. Salg,71,10211,4,1955,
 530,Villa,Hovedgaden 8,7260, Sønder Omme,2400000 ,01-12-2021,Alm. Salg,511,2348,22,1906,
 530,Villa,Søndervold 133,7200, Grindsted,2500000 ,01-12-2021,Alm. Salg,156,16026,6,2004,
@@ -495,7 +487,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 530,Villa,Fynsgade 27,7200, Grindsted,342570 ,29-08-2021,Fam. Salg,123,2785,4,1959,
 530,Villa,Dalsøvej 60,7200, Grindsted,2100000 ,28-08-2021,Alm. Salg,185,11351,6,1977,
 530,Villa,Hybenvej 7,7200, Grindsted,1850000 ,28-08-2021,Alm. Salg,150,12333,5,1967,
-530,Villa,Lillevang 98,7190, Billund,3255000 ,25-08-2021,Alm. Salg,201,16194,5,2008,3%
 530,Villa,Søllingdalvej 56,7250, Hejnsvig,1140000 ,24-08-2021,Alm. Salg,133,8571,6,1977,4%
 530,Villa,Egebjerg Landevej 88,7250, Hejnsvig,500000 ,24-08-2021,Alm. Salg,146,3425,5,1930,
 530,Villa,Grønvang 12,7260, Sønder Omme,1200000 ,23-08-2021,Alm. Salg,244,4918,7,1968,-4%
@@ -551,7 +542,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 530,Villa,Vestervej 2,7200, Grindsted,565000 ,29-06-2021,Alm. Salg,112,5045,4,1930,
 530,Villa,Kærvej 207,7190, Billund,1775000 ,27-06-2021,Alm. Salg,153,11601,5,1972,-1%
 530,Villa,Mariehønen 1,7190, Billund,762000 ,27-06-2021,Alm. Salg,172,4430,6,2022,
-530,Villa,Tingstedet 35,7190, Billund,2625000 ,24-06-2021,Alm. Salg,161,16304,6,1994,-1%
 530,Villa,Søndervold 301,7200, Grindsted,486338 ,24-06-2021,Andet,161,3021,5,1995,
 530,Villa,Østre Alle 2,7200, Grindsted,538000 ,22-06-2021,Alm. Salg,103,5223,4,1935,-10%
 530,Villa,Fittingvej 30,6623, Vorbasse,995000 ,22-06-2021,Alm. Salg,125,7960,3,1924,
@@ -678,7 +668,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 530,Villa,Rahbæksparken 446,7260, Sønder Omme,1225000 ,16-03-2021,Alm. Salg,140,8750,5,2021,
 530,Villa,Lupinvænget 24,7200, Grindsted,1050000 ,15-03-2021,Fam. Salg,94,11170,3,1963,
 530,Villa,Markskellet 47,7190, Billund,1500000 ,14-03-2021,Alm. Salg,108,13889,5,1988,-6%
-530,Villa,Hyldestien 226,7190, Billund,1847000 ,14-03-2021,Alm. Salg,112,16491,4,2008,-3%
 530,Villa,Gøglervej 5,6623, Vorbasse,322500 ,14-03-2021,Alm. Salg,199,1621,7,2022,
 530,Rækkehus,Vestre Boulevard 2,7200, Grindsted,1040000 ,13-03-2021,Alm. Salg,81,12840,3,1938,-4%
 530,Villa,Kulsøvej 6,7200, Grindsted,1575000 ,13-03-2021,Alm. Salg,152,10362,6,1975,
@@ -693,7 +682,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 530,Villa,Nebelvej 44,6623, Vorbasse,1285000 ,03-03-2021,Alm. Salg,191,6728,3,1932,-1%
 530,Villa,Primulavej 33,7200, Grindsted,769467 ,03-03-2021,Fam. Salg,139,5536,5,1964,
 530,Ejerlejlighed,"Grønningen 7, 2. th",7200, Grindsted,500000 ,02-03-2021,Alm. Salg,88,5682,3,1967,
-530,Villa,Tingstedet 20,7190, Billund,2705000 ,02-03-2021,Alm. Salg,167,16198,6,1994,8%
 530,Villa,Nørregade 39,6623, Vorbasse,805000 ,02-03-2021,Alm. Salg,135,5963,5,1974,
 530,Villa,Mølleparken 136,7190, Billund,2151000 ,02-03-2021,Alm. Salg,161,13360,5,1975,-2%
 530,Rækkehus,Svinget 21,7200, Grindsted,725000 ,01-03-2021,Alm. Salg,117,6197,3,0,-9%
@@ -702,7 +690,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 530,Villa,Enghaven 12,7260, Sønder Omme,315000 ,28-02-2021,Alm. Salg,108,2917,3,1943,
 530,Ejerlejlighed,"Vesterbrogade 19, st",7200, Grindsted,1350000 ,24-02-2021,Andet,134,10075,4,1925,
 530,Villa,Markskellet 75,7190, Billund,1635000 ,24-02-2021,Alm. Salg,118,13856,4,1987,-2%
-530,Villa,Lillevang 47,7190, Billund,2987500 ,24-02-2021,Alm. Salg,184,16236,6,2003,
 530,Villa,Hovedgaden 34,7260, Sønder Omme,435000 ,24-02-2021,Alm. Salg,263,1654,10,1954,-11%
 530,Villa,Jorden Rundt 33,7200, Grindsted,2200000 ,24-02-2021,Fam. Salg,262,8397,8,1972,
 530,Rækkehus,Søndervold 2,7200, Grindsted,1275000 ,23-02-2021,Alm. Salg,102,12500,4,1989,
@@ -909,10 +896,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 530,Villa,Urupvej 24,7200, Grindsted,1095000 ,04-10-2020,Alm. Salg,201,5448,6,1980,
 530,Villa,Søllingdalvej 12,7250, Hejnsvig,1100000 ,04-10-2020,Alm. Salg,163,6748,5,1976,
 530,Villa,Tuen 9B,7190, Billund,1770000 ,04-10-2020,Fam. Salg,121,14628,5,2012,
-530,Rækkehus,Grønningen 2A,7190, Billund,1335000 ,03-10-2020,Alm. Salg,81,16481,3,1987,-3%
 530,Villa,Ravnsøvej 8,7200, Grindsted,1345000 ,03-10-2020,Alm. Salg,160,8406,4,1973,
 530,Villa,Stenvej 16,7200, Grindsted,995000 ,30-09-2020,Alm. Salg,150,6633,4,1955,
-530,Villa,Kolonivej 3,6623, Vorbasse,2795000 ,30-09-2020,Alm. Salg,172,16250,5,2000,
 530,Villa,Sønderkær 261,7190, Billund,1795000 ,29-09-2020,Alm. Salg,166,10813,6,1979,
 530,Villa,Samsøvej 12,7200, Grindsted,1380000 ,29-09-2020,Alm. Salg,108,12778,4,1969,-1%
 530,Villa,Dalbo 65,7200, Grindsted,965000 ,29-09-2020,Alm. Salg,114,8465,5,1978,-3%
@@ -953,13 +938,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 530,Villa,Sorgenfrivej 5,6623, Vorbasse,2625000 ,07-09-2020,Alm. Salg,201,13060,8,2006,-7%
 530,Villa,Søndermarksvej 210,7190, Billund,1625000 ,06-09-2020,Alm. Salg,168,9673,6,1972,-4%
 530,Villa,Finlandsvej 8,7200, Grindsted,1390000 ,03-09-2020,Alm. Salg,162,8580,6,1968,-4%
-530,Ejerlejlighed,"Hovedgaden 2, 1",7260, Sønder Omme,1100000 ,02-09-2020,Alm. Salg,109,10092,3,1913,
-530,Ejerlejlighed,"Hovedgaden 43, st",7260, Sønder Omme,1000000 ,02-09-2020,Alm. Salg,73,13699,2,1930,
-530,Ejerlejlighed,"Gammel Bøvlvej 1, st",7260, Sønder Omme,1100000 ,02-09-2020,Alm. Salg,68,16176,2,1913,
-530,Ejerlejlighed,"Gammel Bøvlvej 1, 1",7260, Sønder Omme,1100000 ,02-09-2020,Alm. Salg,68,16176,2,1913,
-530,Ejerlejlighed,"Sønderbro 4, 1",7260, Sønder Omme,1000000 ,02-09-2020,Alm. Salg,67,14925,2,1930,
-530,Ejerlejlighed,"Sønderbro 2, 1",7260, Sønder Omme,1000000 ,02-09-2020,Alm. Salg,96,10417,3,1930,
-530,Ejerlejlighed,"Sønderbro 6, st",7260, Sønder Omme,1000000 ,02-09-2020,Alm. Salg,74,13514,2,1930,
 530,Villa,Søgårdvej 53,7250, Hejnsvig,405000 ,02-09-2020,Fam. Salg,147,2755,4,1979,
 530,Villa,Læsøvej 19,7200, Grindsted,1025000 ,02-09-2020,Alm. Salg,169,6065,5,1969,-6%
 530,Villa,Morsbølvej 91,7200, Grindsted,506560 ,02-09-2020,Alm. Salg,205,2471,7,0,
@@ -992,7 +970,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 530,Villa,Nørager 21,7260, Sønder Omme,1270000 ,12-08-2020,Alm. Salg,133,9549,6,1986,-2%
 530,Villa,Ribersvej 128,7200, Grindsted,1390000 ,11-08-2020,Alm. Salg,142,9789,5,1979,0%
 530,Rækkehus,Grønningen 30,7190, Billund,1000000 ,10-08-2020,Alm. Salg,71,14085,2,1988,
-530,Villa,Morsbølvej 69,7200, Grindsted,2700000 ,05-08-2020,Alm. Salg,164,16463,5,2018,-2%
 530,Villa,Solvej 8,7200, Grindsted,500000 ,04-08-2020,Alm. Salg,138,3623,6,1936,-28%
 530,Villa,Rungborgvej 7,7250, Hejnsvig,825000 ,04-08-2020,Alm. Salg,134,6157,6,1916,4%
 530,Villa,Blåhøjvej 2,7200, Grindsted,615000 ,03-08-2020,Alm. Salg,84,7321,3,1955,
@@ -1044,7 +1021,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 530,Villa,Amtsvejen 25A,7200, Grindsted,978000 ,29-06-2020,Fam. Salg,124,7887,4,1999,
 530,Rækkehus,Søndervold 72,7200, Grindsted,710000 ,28-06-2020,Alm. Salg,61,11639,2,1993,
 530,Villa,Smutten 4,7190, Billund,1787000 ,28-06-2020,Alm. Salg,174,10270,5,1974,
-530,Villa,Fyrrevænget 414,7190, Billund,2495000 ,25-06-2020,Alm. Salg,153,16307,5,1971,
 530,Rækkehus,Lysningen 24,7190, Billund,960000 ,24-06-2020,Fam. Salg,95,10105,4,1987,
 530,Villa,Sommerfuglen 31,7190, Billund,805000 ,24-06-2020,Alm. Salg,173,4653,6,2021,
 530,Ejerlejlighed,"Banegårdsvej 17, 1",7200, Grindsted,695000 ,23-06-2020,Alm. Salg,64,10859,2,1987,
@@ -1091,16 +1067,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 530,Villa,Søgårdvej 20,7250, Hejnsvig,1550000 ,21-05-2020,Alm. Salg,186,8333,6,1972,-3%
 530,Villa,Mølleparken 424,7190, Billund,1024000 ,19-05-2020,Auktion,140,7314,6,1984,
 530,Villa,Mølleparken 160,7190, Billund,850000 ,18-05-2020,Andet,150,5667,5,1975,
-530,Ejerlejlighed,"Hovedgaden 9D, st. 1",7260, Sønder Omme,850000 ,17-05-2020,Alm. Salg,90,9444,3,1900,
-530,Ejerlejlighed,"Hovedgaden 9D, st. 3",7260, Sønder Omme,850000 ,17-05-2020,Alm. Salg,153,5556,4,1900,
-530,Ejerlejlighed,"Hovedgaden 9D, 1. 1",7260, Sønder Omme,850000 ,17-05-2020,Alm. Salg,90,9444,3,1900,
-530,Ejerlejlighed,Linde Alle 1D,7260, Sønder Omme,850000 ,17-05-2020,Alm. Salg,69,12319,2,1900,
-530,Ejerlejlighed,"Hovedgaden 9D, 1. 2",7260, Sønder Omme,850000 ,17-05-2020,Alm. Salg,146,5822,4,1900,
-530,Ejerlejlighed,"Hovedgaden 9D, 1. 3",7260, Sønder Omme,850000 ,17-05-2020,Alm. Salg,111,7658,4,1900,
-530,Ejerlejlighed,"Hovedgaden 9D, st. 2",7260, Sønder Omme,850000 ,17-05-2020,Alm. Salg,89,9551,2,1900,
 530,Villa,Fyrrevænget 412,7190, Billund,1600000 ,17-05-2020,Alm. Salg,203,7882,8,1971,
 530,Villa,Sommerfuglen 23,7190, Billund,874170 ,17-05-2020,Alm. Salg,275,3179,9,2021,
-530,Villa,Sjællandsgade 14,7200, Grindsted,2250000 ,14-05-2020,Alm. Salg,138,16304,5,1955,-2%
 530,Villa,Købmandsvej 8,6623, Vorbasse,80000 ,14-05-2020,Alm. Salg,160,500,6,2021,
 530,Villa,Sommerfuglen 15,7190, Billund,860001 ,14-05-2020,Alm. Salg,200,4300,6,2021,
 530,Villa,Gribsøvej 7,7200, Grindsted,931000 ,13-05-2020,Andet,180,5172,7,1975,
@@ -1163,7 +1131,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 530,Villa,Bygvænget 33,7200, Grindsted,450000 ,09-03-2020,Alm. Salg,90,5000,3,1962,
 530,Villa,Markskellet 54,7190, Billund,2150000 ,05-03-2020,Alm. Salg,154,13961,6,1993,-1%
 530,Villa,Toften 17,7200, Grindsted,1175000 ,04-03-2020,Alm. Salg,113,10398,4,1974,
-530,Villa,Jørgen Glavinds Vej 6,7200, Grindsted,1200000 ,02-03-2020,Alm. Salg,73,16438,3,1957,
 530,Villa,Staruphøjevej 16,7250, Hejnsvig,1150000 ,02-03-2020,Alm. Salg,179,6425,5,1874,-8%
 530,Villa,Tingstedet 1,7190, Billund,2100000 ,02-03-2020,Alm. Salg,141,14894,6,1997,-2%
 530,Villa,Fyrrevænget 403,7190, Billund,1425000 ,27-02-2020,Alm. Salg,109,13073,4,1971,-5%
@@ -1190,7 +1157,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 530,Rækkehus,Systemvej 36A,7190, Billund,800000 ,11-02-2020,Alm. Salg,99,8081,4,1964,
 530,Villa,Lillevang 14,7190, Billund,4000000 ,11-02-2020,Alm. Salg,314,12739,8,2004,-5%
 530,Villa,Søndervold 103,7200, Grindsted,2357000 ,09-02-2020,Alm. Salg,155,15206,6,2009,
-530,Villa,Heimdalsvej 12,7200, Grindsted,3000000 ,06-02-2020,Alm. Salg,174,16304,5,1976,152%
 530,Villa,Flintemarken 61,7190, Billund,2100000 ,06-02-2020,Alm. Salg,148,14189,5,1988,-3%
 530,Villa,Egevangen 4,7200, Grindsted,650000 ,05-02-2020,Alm. Salg,160,4063,5,2021,-21%
 530,Villa,Morsbøl Søvej 90,7200, Grindsted,420000 ,04-02-2020,Alm. Salg,192,2188,6,2020,
@@ -1236,7 +1202,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 530,Villa,Kærvej 313,7190, Billund,1750000 ,29-12-2019,Alm. Salg,156,11218,7,1974,-3%
 530,Villa,Kærvej 321,7190, Billund,1575000 ,26-12-2019,Alm. Salg,137,11496,5,1972,
 530,Ejerlejlighed,Nørregade 4D,6623, Vorbasse,460000 ,18-12-2019,Alm. Salg,87,5287,3,1902,-16%
-530,Villa,Lillevang 17,7190, Billund,2520000 ,18-12-2019,Alm. Salg,155,16258,6,2001,-3%
 530,Villa,Lysningen 6,7190, Billund,1475000 ,18-12-2019,Alm. Salg,106,13915,3,1987,
 530,Villa,Tribinivej 12,6623, Vorbasse,975000 ,18-12-2019,Fam. Salg,173,5636,6,2010,
 530,Villa,Engsøparken 193,7200, Grindsted,2715000 ,17-12-2019,Alm. Salg,177,15339,4,2009,
@@ -1249,7 +1214,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 530,Villa,Engsøparken 97,7200, Grindsted,2000000 ,13-12-2019,Fam. Salg,173,11561,4,2000,
 530,Villa,Søndergade 18,6623, Vorbasse,600000 ,12-12-2019,Andet,161,3727,7,1930,
 530,Villa,Søndre Boulevard 235,7200, Grindsted,2375000 ,12-12-2019,Alm. Salg,157,15127,5,1994,-1%
-530,Rækkehus,Bekkasinvej 10A,7200, Grindsted,1425000 ,11-12-2019,Alm. Salg,88,16193,3,2001,
 530,Villa,Kirkegade 6,6623, Vorbasse,930000 ,11-12-2019,Alm. Salg,147,6327,6,1956,
 530,Villa,Nørregade 54,7200, Grindsted,1125000 ,10-12-2019,Alm. Salg,104,10817,3,1937,-6%
 530,Villa,Rødsøvej 6,7200, Grindsted,995000 ,09-12-2019,Alm. Salg,128,7773,4,1973,-9%
@@ -1304,7 +1268,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 530,Villa,Julsøvej 7,7200, Grindsted,987500 ,21-10-2019,Fam. Salg,208,4748,6,1973,
 530,Rækkehus,Søndervold 121,7200, Grindsted,1675000 ,20-10-2019,Alm. Salg,110,15227,3,2007,
 530,Ejerlejlighed,"Grønningen 11, st. tv",7200, Grindsted,480000 ,20-10-2019,Alm. Salg,76,6316,2,1967,
-530,Villa,Engsøvænget 16,7200, Grindsted,4100000 ,20-10-2019,Alm. Salg,253,16206,7,2010,-9%
 530,Villa,Glentevej 34,7200, Grindsted,1255000 ,17-10-2019,Alm. Salg,111,11306,4,1959,-3%
 530,Villa,Tarm Landevej 16,7260, Sønder Omme,2665000 ,16-10-2019,Alm. Salg,236,11292,8,1935,
 530,Villa,Mølleparken 406,7190, Billund,922500 ,16-10-2019,Andet,130,7096,6,1985,
@@ -1500,7 +1463,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 530,Villa,Jørgen Glavinds Vej 3,7200, Grindsted,475000 ,09-04-2019,Alm. Salg,134,3545,4,2019,
 530,Villa,Sønderkær 191,7190, Billund,1510000 ,08-04-2019,Alm. Salg,143,10559,5,1977,-2%
 530,Villa,Havrevænget 27,7200, Grindsted,870000 ,07-04-2019,Alm. Salg,118,7373,4,1961,-10%
-530,Villa,Morsbølvej 93,7200, Grindsted,3450000 ,06-04-2019,Alm. Salg,209,16507,7,2018,-1%
 530,Villa,Nørrevej 18,7200, Grindsted,600000 ,04-04-2019,Alm. Salg,93,6452,3,1948,
 530,Villa,Egevænget 112,7190, Billund,2000000 ,04-04-2019,Alm. Salg,188,10638,7,1972,
 530,Villa,Engsøparken 51,7200, Grindsted,2200000 ,03-04-2019,Alm. Salg,145,15172,5,2005,
@@ -1544,11 +1506,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 530,Rækkehus,Grønningen 26,7190, Billund,930000 ,21-02-2019,Alm. Salg,71,13099,2,1988,-7%
 530,Villa,Stadion Alle 26,7260, Sønder Omme,530000 ,21-02-2019,Alm. Salg,109,4862,4,1948,-9%
 530,Rækkehus,Grønningen 4B,7190, Billund,1070000 ,20-02-2019,Alm. Salg,79,13544,3,1987,
-530,Villa,Lillevang 124,7190, Billund,2910000 ,18-02-2019,Alm. Salg,177,16441,5,2010,-3%
 530,Villa,Enghaven 27,7260, Sønder Omme,850000 ,16-02-2019,Alm. Salg,251,3386,8,1947,
 530,Villa,Højene 15,7250, Hejnsvig,850000 ,13-02-2019,Alm. Salg,162,5247,5,1973,
 530,Ejerlejlighed,"Grønningen 7, 2. tv",7200, Grindsted,635000 ,12-02-2019,Alm. Salg,88,7216,3,1967,-6%
-530,Villa,Nørreled 22,7200, Grindsted,2330000 ,12-02-2019,Alm. Salg,144,16181,5,2018,4%
 530,Villa,Søllingdalvej 14,7250, Hejnsvig,860000 ,11-02-2019,Alm. Salg,143,6014,6,1974,-2%
 530,Villa,Kærtoften 16,7200, Grindsted,1095000 ,10-02-2019,Alm. Salg,164,6677,7,1972,
 530,Villa,Solsortvej 13,7200, Grindsted,995000 ,10-02-2019,Alm. Salg,142,7007,4,1959,
@@ -1562,7 +1522,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 530,Villa,Amtsvejen 53,7200, Grindsted,1485000 ,31-01-2019,Alm. Salg,133,11165,3,1936,-4%
 530,Ejerlejlighed,"Nørregade 9, 1",7200, Grindsted,950000 ,30-01-2019,Alm. Salg,91,10440,3,1954,
 530,Ejerlejlighed,"Nørregade 13, 1",7200, Grindsted,1700000 ,30-01-2019,Alm. Salg,132,12879,5,1963,
-530,Villa,Lillevang 20,7190, Billund,2400000 ,30-01-2019,Alm. Salg,146,16438,5,2002,-2%
 530,Villa,Tingstedet 5,7190, Billund,2485000 ,30-01-2019,Alm. Salg,176,14119,7,1994,-6%
 530,Villa,Grønvang 30,7260, Sønder Omme,1000000 ,28-01-2019,Alm. Salg,175,5714,5,1951,-9%
 530,Ejerlejlighed,"Grønningen 5, 1. tv",7200, Grindsted,450000 ,27-01-2019,Alm. Salg,76,5921,2,1967,-9%
@@ -1604,7 +1563,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 530,Villa,Mølleparken 215,7190, Billund,1850000 ,11-12-2018,Alm. Salg,142,13028,5,1976,
 530,Villa,Mølleparken 204,7190, Billund,1495000 ,09-12-2018,Alm. Salg,125,11960,4,1975,
 530,Villa,Skovparken 406,7190, Billund,2425000 ,05-12-2018,Alm. Salg,171,14181,5,1966,-3%
-530,Villa,Tingstedet 9,7190, Billund,2995000 ,05-12-2018,Alm. Salg,184,16277,6,1997,
 530,Villa,Pilevej 9,7200, Grindsted,975000 ,04-12-2018,Alm. Salg,127,7677,4,1961,-2%
 530,Villa,Søgårdparken 11,7250, Hejnsvig,180000 ,04-12-2018,Alm. Salg,181,994,6,2019,
 530,Ejerlejlighed,"Banegårdsvej 3B, 1. th",7200, Grindsted,800000 ,03-12-2018,Alm. Salg,87,9195,3,1988,
@@ -1732,7 +1690,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 530,Villa,Storegade 11,7200, Grindsted,990000 ,14-08-2018,Alm. Salg,136,7279,5,1938,
 530,Villa,Præstevang 5,7190, Billund,1730000 ,11-08-2018,Alm. Salg,141,12270,6,1961,-4%
 530,Villa,Lærkevej 1,7190, Billund,1100000 ,09-08-2018,Alm. Salg,115,9565,4,1959,-8%
-530,Rækkehus,Lysningen 46,7190, Billund,1450000 ,08-08-2018,Alm. Salg,88,16477,2,2008,
 530,Villa,Vejlevej 37,7260, Sønder Omme,160996 ,08-08-2018,Auktion,127,1268,5,1955,
 530,Villa,Vestervej 14,7200, Grindsted,330000 ,08-08-2018,Alm. Salg,149,2215,6,1955,-16%
 530,Villa,Daugårdvej 14,7250, Hejnsvig,375000 ,08-08-2018,Alm. Salg,92,4076,4,1924,
@@ -1859,7 +1816,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 530,Villa,Ribersvej 34,7200, Grindsted,1650000 ,06-05-2018,Alm. Salg,171,9649,6,1978,-3%
 530,Villa,Engsøparken 215,7200, Grindsted,2275000 ,03-05-2018,Alm. Salg,150,15167,4,2008,
 530,Ejerlejlighed,"Solvej 58, 4",7200, Grindsted,816666 ,02-05-2018,Alm. Salg,103,7929,3,2003,
-530,Villa,Søndervold 189,7200, Grindsted,2795000 ,02-05-2018,Alm. Salg,171,16345,5,2004,
 530,Villa,Løvlund Stationsvej 1,7190, Billund,543000 ,02-05-2018,Auktion,142,3824,4,1916,
 530,Villa,Tusindbenet 40,7190, Billund,601800 ,02-05-2018,Alm. Salg,193,3118,5,2020,
 530,Rækkehus,Grønningen 24,7190, Billund,1125000 ,01-05-2018,Alm. Salg,73,15411,2,1988,-10%
@@ -2096,7 +2052,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 530,Villa,Birkebæk Alle 9,7260, Sønder Omme,467500 ,03-09-2017,Fam. Salg,113,4137,4,1966,
 530,Villa,Kærvej 421,7190, Billund,847500 ,03-09-2017,Fam. Salg,193,4391,5,1972,
 530,Villa,Fyrrevænget 315,7190, Billund,1200000 ,30-08-2017,Alm. Salg,136,8824,5,1972,-8%
-530,Villa,Lillevang 106,7190, Billund,3150000 ,29-08-2017,Alm. Salg,194,16237,6,2014,-4%
 530,Villa,Amtsvejen 56,7200, Grindsted,900000 ,28-08-2017,Alm. Salg,143,6294,5,1979,-10%
 530,Villa,Jasminvej 7,7200, Grindsted,1950000 ,28-08-2017,Alm. Salg,164,11890,4,1995,-2%
 530,Villa,Skærsigvej 8,7260, Sønder Omme,440000 ,28-08-2017,Alm. Salg,145,3034,4,1948,-11%
@@ -2143,7 +2098,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 530,Villa,Anemonevej 22,7200, Grindsted,1760000 ,10-07-2017,Alm. Salg,137,12847,4,1963,-2%
 530,Villa,Morsbølvej 79,7200, Grindsted,448750 ,10-07-2017,Alm. Salg,152,2952,5,2017,
 530,Villa,Enevej 8,7200, Grindsted,1650000 ,09-07-2017,Alm. Salg,165,8168,6,1978,-8%
-530,Villa,Hedegårdsvej 20,7190, Billund,2650000 ,06-07-2017,Alm. Salg,161,16460,6,1998,
 530,Villa,Amtsvejen 28,7200, Grindsted,25000 ,05-07-2017,Alm. Salg,149,168,5,1912,
 530,Villa,Pilevej 3,7200, Grindsted,1000000 ,04-07-2017,Alm. Salg,148,6757,5,1961,-13%
 530,Villa,Markskellet 47,7190, Billund,1455000 ,04-07-2017,Alm. Salg,108,13472,5,1988,-1%
@@ -2174,7 +2128,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 530,Villa,Morsbølvej 87,7200, Grindsted,468750 ,19-06-2017,Alm. Salg,170,2757,5,2018,
 530,Villa,Møllevænget 41,7190, Billund,1925000 ,15-06-2017,Alm. Salg,134,14366,5,1966,
 530,Rækkehus,Markskellet 33,7190, Billund,1125000 ,14-06-2017,Alm. Salg,81,13889,3,1988,-6%
-530,Villa,Grenevej 1,7190, Billund,3700000 ,14-06-2017,Alm. Salg,227,16300,7,2000,-5%
 530,Villa,Svinget 1,7200, Grindsted,1400000 ,14-06-2017,Alm. Salg,117,11966,4,2003,-12%
 530,Villa,Primulavej 33,7200, Grindsted,1125000 ,14-06-2017,Alm. Salg,139,8094,5,1964,
 530,Villa,Lindevej 1,7200, Grindsted,1350000 ,12-06-2017,Alm. Salg,114,11842,4,1961,-3%
@@ -2328,7 +2281,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 530,Villa,Dalsøvej 119,7200, Grindsted,1050000 ,01-02-2017,Alm. Salg,123,8537,5,1980,-4%
 530,Villa,Engsøparken 237,7200, Grindsted,925000 ,01-02-2017,Alm. Salg,192,4818,5,2019,
 530,Rækkehus,Sønderkær 335,7190, Billund,1100000 ,31-01-2017,Fam. Salg,91,12088,3,1980,
-530,Villa,Lillevang 110,7190, Billund,3400000 ,31-01-2017,Alm. Salg,210,16190,6,2012,-3%
 530,Villa,Primulavej 13,7200, Grindsted,650000 ,30-01-2017,Fam. Salg,181,3591,5,1964,
 530,Villa,Søndervold 274,7200, Grindsted,1495000 ,29-01-2017,Alm. Salg,142,10528,5,1997,
 530,Villa,Daltoften 33,7200, Grindsted,512500 ,29-01-2017,Fam. Salg,149,3440,6,1977,
@@ -2569,7 +2521,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 530,Villa,Lillevang 48,7190, Billund,3060000 ,12-06-2016,Alm. Salg,200,15300,6,2007,-4%
 530,Villa,Flintemarken 2,7190, Billund,1645000 ,09-06-2016,Alm. Salg,157,10478,5,1987,
 530,Villa,Grindstedvej 40,7260, Sønder Omme,150000 ,07-06-2016,Alm. Salg,92,1630,3,1946,
-530,Villa,Lillevang 87,7190, Billund,3237500 ,07-06-2016,Alm. Salg,197,16434,6,2007,-5%
 530,Villa,Tiphedevej 11,7200, Grindsted,950000 ,06-06-2016,Alm. Salg,166,5723,7,1973,-13%
 530,Villa,Birkevej 9,6623, Vorbasse,745000 ,05-06-2016,Alm. Salg,120,6208,4,1972,-11%
 530,Villa,Skovbrynet 5,7260, Sønder Omme,900000 ,02-06-2016,Alm. Salg,159,5660,6,1975,
@@ -2581,7 +2532,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 530,Villa,Dalsøvej 32,7200, Grindsted,1295000 ,26-05-2016,Alm. Salg,123,10528,4,1976,
 530,Villa,Nørre Alle 11,7200, Grindsted,610000 ,24-05-2016,Alm. Salg,109,5596,4,1931,-12%
 530,Villa,Lillevang 133,7190, Billund,510000 ,24-05-2016,Alm. Salg,200,2550,7,2017,
-530,Villa,Morsbøl Søvej 62,7200, Grindsted,2695000 ,24-05-2016,Alm. Salg,166,16235,6,2009,1%
 530,Villa,Mølleparken 414,7190, Billund,1500000 ,23-05-2016,Alm. Salg,141,10638,4,1985,-3%
 530,Villa,Tiphedevej 8,7200, Grindsted,895000 ,23-05-2016,Alm. Salg,131,6832,4,1973,
 530,Villa,Nygade 15,7200, Grindsted,1240000 ,21-05-2016,Alm. Salg,123,10081,5,1938,-4%
@@ -2653,8 +2603,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 530,Villa,Granvej 5,7190, Billund,1225000 ,30-03-2016,Alm. Salg,150,8167,5,1959,
 530,Villa,Møllevænget 21,7190, Billund,1448000 ,28-03-2016,Alm. Salg,110,13164,4,1964,
 530,Villa,Hønseringen 15,7190, Billund,341400 ,28-03-2016,Alm. Salg,207,1649,5,2017,
-530,Ejerlejlighed,"Bredgade 69, 1",7250, Hejnsvig,530000 ,27-03-2016,Alm. Salg,53,10000,3,1918,-3%
-530,Villa,"Bredgade 69, st",7250, Hejnsvig,530000 ,27-03-2016,Alm. Salg,146,3630,5,1918,-3%
 530,Villa,Flintemarken 6,7190, Billund,666750 ,26-03-2016,Andet,136,4903,5,1989,
 530,Villa,Grønvang 15,7260, Sønder Omme,555000 ,23-03-2016,Fam. Salg,125,4440,4,1974,
 530,Villa,Jørgen Glavinds Vej 8,7200, Grindsted,600000 ,23-03-2016,Fam. Salg,78,7692,3,1959,
@@ -3249,7 +3197,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 530,Villa,Sorgenfrivej 7,6623, Vorbasse,650000 ,09-07-2014,Alm. Salg,216,3009,6,2015,-6%
 530,Villa,Kirkehusvej 30,7200, Grindsted,120000 ,07-07-2014,Alm. Salg,170,706,6,2023,
 530,Rækkehus,Sønderkær 453,7190, Billund,1100000 ,06-07-2014,Alm. Salg,135,8148,5,1983,-8%
-530,Ejerlejlighed,"Nørre Torv 8, 5. 1",7200, Grindsted,2570000 ,06-07-2014,Alm. Salg,157,16369,3,2014,
 530,Villa,Åhavevej 40,7200, Grindsted,1575000 ,06-07-2014,Alm. Salg,158,9968,4,1972,-6%
 530,Ejerlejlighed,"Grønningen 17, 2. tv",7200, Grindsted,510000 ,03-07-2014,Alm. Salg,88,5795,3,1968,
 530,Ejerlejlighed,"Nørre Torv 8, 1. 1",7200, Grindsted,2320000 ,03-07-2014,Alm. Salg,157,14777,3,2014,
@@ -3668,9 +3615,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 530,Villa,Toften 41,7190, Billund,1330000 ,30-10-2012,Alm. Salg,94,14149,3,1970,11%
 530,Ejerlejlighed,Nørregade 4A,6623, Vorbasse,600000 ,29-10-2012,Alm. Salg,179,3352,6,1902,-20%
 530,Villa,Åvej 19,7260, Sønder Omme,340000 ,25-10-2012,Alm. Salg,82,4146,2,1917,
-530,Ejerlejlighed,"Hovedgaden 12, 1",7260, Sønder Omme,1575000 ,24-10-2012,Auktion,104,15144,3,1919,
-530,Ejerlejlighed,"Hovedgaden 12, 2",7260, Sønder Omme,1575000 ,24-10-2012,Auktion,150,10500,6,1919,
-530,Ejerlejlighed,"Nørre Torv 8, 3. 2",7200, Grindsted,2600000 ,24-10-2012,Alm. Salg,158,16456,4,2014,
 530,Villa,Fromssejervej 7,6623, Vorbasse,387500 ,24-10-2012,Alm. Salg,104,3726,4,1965,
 530,Villa,Søllingdalvej 44,7250, Hejnsvig,675000 ,23-10-2012,Alm. Salg,128,5273,5,1975,
 530,Rækkehus,Nørager 87,7260, Sønder Omme,400000 ,21-10-2012,Alm. Salg,77,5195,2,1982,-11%
@@ -4374,7 +4318,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 530,Villa,Herningvej 1,7260, Sønder Omme,603500 ,18-06-2010,Fam. Salg,128,4715,5,1957,
 530,Rækkehus,Rønnebærvej 9,7200, Grindsted,700000 ,17-06-2010,Alm. Salg,86,8140,4,1967,-12%
 530,Villa,Bygvænget 11,7200, Grindsted,815000 ,17-06-2010,Alm. Salg,115,7087,4,1963,-9%
-530,Rækkehus,Borgergade 23C,7200, Grindsted,2250000 ,16-06-2010,Alm. Salg,260,8654,3,1904,
 530,Villa,Sønderkær 385,7190, Billund,1245000 ,16-06-2010,Alm. Salg,130,9577,4,1985,-4%
 530,Villa,Morsbøl Søvej 42,7200, Grindsted,295000 ,16-06-2010,Alm. Salg,233,1266,8,2011,
 530,Villa,Mølleparken 134,7190, Billund,363027 ,15-06-2010,Fam. Salg,142,2557,5,1975,
@@ -4458,7 +4401,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 530,Villa,Kirkehusvej 11,7200, Grindsted,231300 ,16-03-2010,Alm. Salg,154,1502,5,2010,
 530,Villa,Tribinivej 9,6623, Vorbasse,220625 ,16-03-2010,Alm. Salg,127,1737,4,2010,
 530,Villa,Morsbøl Søvej 38,7200, Grindsted,320000 ,16-03-2010,Alm. Salg,195,1641,6,2010,
-530,Ejerlejlighed,"Nørre Torv 4, 5. 5",7200, Grindsted,2695000 ,14-03-2010,Alm. Salg,164,16433,4,2011,
 530,Villa,Grønvang 5,7260, Sønder Omme,432700 ,14-03-2010,Alm. Salg,132,3278,5,1971,
 530,Villa,Poppelvej 8,7200, Grindsted,1470000 ,14-03-2010,Alm. Salg,127,11575,4,1960,
 530,Villa,Tyttebærvej 4,7200, Grindsted,430000 ,07-03-2010,Alm. Salg,209,2057,5,2011,-13%
@@ -4702,7 +4644,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 530,Villa,Nollundvej 184,7200, Grindsted,1395000 ,14-05-2009,Alm. Salg,235,5936,8,1961,
 530,Villa,Vejlevej 41,7190, Billund,1975000 ,12-05-2009,Alm. Salg,150,13167,7,1911,
 530,Villa,Lillevang 80,7190, Billund,2750000 ,11-05-2009,Alm. Salg,203,13547,5,2009,-8%
-530,Ejerlejlighed,"Solvej 54, 3",7200, Grindsted,1750000 ,09-05-2009,Alm. Salg,107,16355,3,2003,
 530,Villa,Lyngvej 8,7200, Grindsted,1345000 ,09-05-2009,Alm. Salg,108,12454,4,1967,
 530,Villa,Storegade 9,7200, Grindsted,1200000 ,06-05-2009,Alm. Salg,162,7407,5,1935,-4%
 530,Villa,Søndre Boulevard 255,7200, Grindsted,877000 ,06-05-2009,Andet,142,6176,5,1993,
@@ -4786,13 +4727,11 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 530,Villa,Morsbølvej 55,7200, Grindsted,400000 ,17-02-2009,Alm. Salg,159,2516,5,2010,
 530,Rækkehus,Sydtoften 155,7200, Grindsted,1100000 ,16-02-2009,Alm. Salg,86,12791,3,1984,-4%
 530,Villa,Dalsvinget 25,7200, Grindsted,1190000 ,15-02-2009,Alm. Salg,118,10085,4,1976,-1%
-530,Villa,Nørregade 30B,6623, Vorbasse,860000 ,10-02-2009,Auktion,58,14828,2,1915,
 530,Villa,Krarupvej 10,7200, Grindsted,447500 ,10-02-2009,Andet,101,4431,3,1952,
 530,Villa,Lillevang 29,7190, Billund,800000 ,09-02-2009,Alm. Salg,161,4969,5,2008,
 530,Villa,Juellingsholmsvej 25,7200, Grindsted,950000 ,05-02-2009,Alm. Salg,228,4167,8,1950,-10%
 530,Rækkehus,Meldhedevej 5,7200, Grindsted,850000 ,04-02-2009,Alm. Salg,100,8500,4,1986,-15%
 530,Villa,Ølgodvej 49,7200, Grindsted,800000 ,02-02-2009,Alm. Salg,164,4878,5,1910,-6%
-530,Ejerlejlighed,"Solvej 64, 4",7200, Grindsted,1675000 ,29-01-2009,Alm. Salg,103,16262,3,2003,
 530,Villa,Fasanvej 8,7190, Billund,705243 ,28-01-2009,Alm. Salg,144,4898,6,1959,
 530,Villa,Vejlevej 41,7190, Billund,300000 ,27-01-2009,Alm. Salg,150,2000,7,1911,-85%
 530,Villa,Refshøjvej 27,7200, Grindsted,215000 ,26-01-2009,Auktion,291,739,7,1925,
@@ -4874,7 +4813,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 530,Villa,Nørregade 39,6623, Vorbasse,468000 ,15-10-2008,Auktion,135,3467,5,1974,
 530,Villa,Fyrrevænget 106,7190, Billund,1650000 ,14-10-2008,Alm. Salg,271,6089,6,1969,-6%
 530,Villa,Tværvej 4,7190, Billund,1275000 ,11-10-2008,Fam. Salg,220,5795,5,1974,
-530,Villa,Søndervold 276,7200, Grindsted,2500000 ,08-10-2008,Alm. Salg,154,16234,5,2000,-2%
 530,Villa,Søndre Boulevard 313,7200, Grindsted,1850000 ,07-10-2008,Alm. Salg,136,13603,6,1987,-2%
 530,Villa,Krogagergårdvej 37,7200, Grindsted,46281 ,07-10-2008,Alm. Salg,144,321,4,2009,
 530,Villa,Morsbøl Søvej 50,7200, Grindsted,295000 ,07-10-2008,Alm. Salg,211,1398,6,2010,
@@ -5010,7 +4948,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 530,Villa,Lillevang 84,7190, Billund,321100 ,10-06-2008,Alm. Salg,192,1672,5,2009,
 530,Villa,Lillevang 119,7190, Billund,386500 ,10-06-2008,Alm. Salg,164,2357,5,2009,
 530,Villa,Morsbølvej 41,7200, Grindsted,340000 ,10-06-2008,Alm. Salg,176,1932,5,2009,
-530,Ejerlejlighed,"Solvej 62, 4",7200, Grindsted,1675000 ,09-06-2008,Alm. Salg,103,16262,3,2003,-6%
 530,Villa,Engsøparken 199,7200, Grindsted,565000 ,09-06-2008,Alm. Salg,200,2825,7,2011,26%
 530,Villa,Morsbølvej 49,7200, Grindsted,430000 ,09-06-2008,Alm. Salg,214,2009,7,2009,
 530,Rækkehus,Grønningen 32,7190, Billund,1000000 ,08-06-2008,Alm. Salg,71,14085,2,1988,-5%
@@ -5295,7 +5232,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 530,Villa,Lillevang 95,7190, Billund,272054 ,18-11-2007,Alm. Salg,190,1432,5,2009,
 530,Villa,Søndervang 7,7200, Grindsted,850000 ,17-11-2007,Alm. Salg,152,5592,5,1950,
 530,Villa,Tingstedet 116,7190, Billund,2342500 ,16-11-2007,Alm. Salg,183,12801,6,1998,-2%
-530,Rækkehus,Vestergade 29A,7200, Grindsted,1900000 ,15-11-2007,Alm. Salg,117,16239,3,2006,
 530,Villa,Søndergade 4,6623, Vorbasse,875000 ,15-11-2007,Alm. Salg,139,6295,4,1934,
 530,Villa,Jorden Rundt 11,7200, Grindsted,1325000 ,14-11-2007,Alm. Salg,98,13520,4,1961,-7%
 530,Rækkehus,Grønningen 10A,7190, Billund,800000 ,13-11-2007,Alm. Salg,79,10127,3,1987,
@@ -5460,9 +5396,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 530,Villa,Simmelbrovej 33,7260, Sønder Omme,1195000 ,31-07-2007,Alm. Salg,181,6602,8,1840,
 530,Villa,Sønderkær 416,7190, Billund,1710000 ,30-07-2007,Alm. Salg,202,8465,8,1979,
 530,Villa,Søndergaardsvej 3,7200, Grindsted,675000 ,27-07-2007,Alm. Salg,144,4688,6,1933,
-530,Ejerlejlighed,"Hovedgaden 12, 1",7260, Sønder Omme,1375000 ,26-07-2007,Alm. Salg,104,13221,3,1919,
-530,Ejerlejlighed,"Hovedgaden 12, 2",7260, Sønder Omme,1375000 ,26-07-2007,Alm. Salg,150,9167,6,1919,
-530,Ejerlejlighed,"Kirke Alle 1, 1",7260, Sønder Omme,1375000 ,26-07-2007,Alm. Salg,90,15278,3,1919,
 530,Villa,Nørhedevej 8,7200, Grindsted,1265000 ,25-07-2007,Alm. Salg,155,8161,6,1976,
 530,Villa,Brombærvej 14,7200, Grindsted,1425000 ,25-07-2007,Alm. Salg,150,9500,4,1970,-1%
 530,Villa,Egeparken 7,7260, Sønder Omme,183360 ,25-07-2007,Alm. Salg,170,1079,6,2009,
@@ -5501,7 +5434,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 530,Villa,Skovparken 406,7190, Billund,1495000 ,05-07-2007,Alm. Salg,171,8743,5,1966,
 530,Villa,Dalsøvej 30,7200, Grindsted,1095000 ,05-07-2007,Alm. Salg,128,8555,4,1976,
 530,Villa,Kærvej 129,7190, Billund,1075000 ,04-07-2007,Alm. Salg,117,9188,4,1973,
-530,Villa,Engsøparken 145,7200, Grindsted,2850000 ,03-07-2007,Alm. Salg,176,16193,4,2007,
 530,Villa,Daltoften 1,7200, Grindsted,950000 ,02-07-2007,Fam. Salg,153,6209,6,1979,
 530,Villa,Lillevang 64,7190, Billund,282132 ,02-07-2007,Alm. Salg,163,1731,5,2008,
 530,Villa,Tuen 15,7190, Billund,372273 ,02-07-2007,Alm. Salg,226,1647,7,2007,
@@ -5560,7 +5492,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 530,Villa,Hjortlundvej 3,7200, Grindsted,945000 ,31-05-2007,Alm. Salg,166,5693,6,1964,
 530,Villa,Aakjærsvej 12,7200, Grindsted,1245000 ,31-05-2007,Alm. Salg,134,9291,5,1973,
 530,Villa,Ribersvej 28,7200, Grindsted,995000 ,31-05-2007,Alm. Salg,137,7263,5,1978,
-530,Ejerlejlighed,"Hovedgaden 2, 1",7260, Sønder Omme,1200000 ,30-05-2007,Alm. Salg,109,11009,3,1913,
 530,Ejerlejlighed,"Grønningen 23, 2. th",7200, Grindsted,385000 ,30-05-2007,Alm. Salg,52,7404,2,1968,-4%
 530,Villa,Solbakken 2,7260, Sønder Omme,995000 ,30-05-2007,Alm. Salg,146,6815,6,1979,
 530,Villa,Tværvej 6,7260, Sønder Omme,1250000 ,30-05-2007,Alm. Salg,141,8865,4,1936,
@@ -5609,10 +5540,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 530,Villa,Lillevang 52,7190, Billund,323983 ,01-05-2007,Alm. Salg,201,1612,5,2008,
 530,Villa,Morsbøl Søvej 70,7200, Grindsted,365000 ,01-05-2007,Alm. Salg,183,1995,5,2008,
 530,Villa,Toften 3,7200, Grindsted,805000 ,01-05-2007,Alm. Salg,156,5160,5,1967,16%
-530,Ejerlejlighed,"Hovedgaden 43, st",7260, Sønder Omme,1025000 ,30-04-2007,Alm. Salg,73,14041,2,1930,
-530,Ejerlejlighed,"Sønderbro 4, 1",7260, Sønder Omme,1025000 ,30-04-2007,Alm. Salg,67,15299,2,1930,
-530,Ejerlejlighed,"Sønderbro 2, 1",7260, Sønder Omme,1025000 ,30-04-2007,Alm. Salg,96,10677,3,1930,
-530,Ejerlejlighed,"Sønderbro 6, st",7260, Sønder Omme,1025000 ,30-04-2007,Alm. Salg,74,13851,2,1930,
 530,Villa,Mølleparken 406,7190, Billund,1330000 ,30-04-2007,Alm. Salg,130,10231,6,1985,
 530,Villa,Ribersvej 46,7200, Grindsted,1100000 ,30-04-2007,Alm. Salg,127,8661,5,1978,
 530,Villa,Grønvang 14,7260, Sønder Omme,550000 ,29-04-2007,Alm. Salg,88,6250,4,1950,
@@ -5659,7 +5586,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 530,Rækkehus,Rønnebærvej 25,7200, Grindsted,775000 ,29-03-2007,Alm. Salg,86,9012,4,1967,
 530,Villa,Elmevangen 7,7200, Grindsted,965000 ,29-03-2007,Alm. Salg,105,9190,4,1962,
 530,Villa,Tårngade 1,6623, Vorbasse,575000 ,29-03-2007,Alm. Salg,99,5808,3,1911,-3%
-530,Villa,Storegade 66,7200, Grindsted,1810000 ,29-03-2007,Alm. Salg,110,16455,6,1900,
 530,Villa,Skole Alle 6,7260, Sønder Omme,750000 ,28-03-2007,Alm. Salg,129,5814,5,1915,
 530,Villa,Grindstedvej 64,7260, Sønder Omme,770000 ,28-03-2007,Alm. Salg,269,2862,6,1954,
 530,Rækkehus,Rønnebærvej 19,7200, Grindsted,895000 ,27-03-2007,Alm. Salg,109,8211,4,1000,
@@ -6206,7 +6132,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 530,Villa,Bekkasinvej 4,7200, Grindsted,740000 ,21-02-2006,Alm. Salg,98,7551,4,1961,
 530,Villa,Søllingdalvej 18,7250, Hejnsvig,1350000 ,21-02-2006,Alm. Salg,206,6553,4,1975,
 530,Villa,Amtsvejen 2,7200, Grindsted,975000 ,20-02-2006,Alm. Salg,168,5804,4,1938,
-530,Villa,Nørregade 30B,6623, Vorbasse,850000 ,15-02-2006,Andet,58,14655,2,1915,
 530,Villa,Æblevej 3,7250, Hejnsvig,775000 ,15-02-2006,Alm. Salg,105,7381,4,1966,
 530,Villa,Markskellet 1,7190, Billund,1495000 ,15-02-2006,Alm. Salg,149,10034,6,1997,
 530,Villa,Grindstedvej 31,7260, Sønder Omme,495000 ,14-02-2006,Alm. Salg,99,5000,2,1937,
@@ -6731,8 +6656,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 530,Villa,Grønnegade 6,6623, Vorbasse,655000 ,06-02-2005,Alm. Salg,108,6065,4,1981,
 530,Villa,Engsøparken 141,7200, Grindsted,310000 ,06-02-2005,Alm. Salg,179,1732,5,2006,
 530,Villa,Fanøvej 15,7200, Grindsted,1156000 ,05-02-2005,Alm. Salg,181,6387,5,1970,
-530,Ejerlejlighed,"Bredgade 69, 1",7250, Hejnsvig,485000 ,04-02-2005,Alm. Salg,53,9151,3,1918,
-530,Villa,"Bredgade 69, st",7250, Hejnsvig,485000 ,04-02-2005,Alm. Salg,146,3322,5,1918,
 530,Villa,Markskellet 96,7190, Billund,1450000 ,01-02-2005,Alm. Salg,216,6713,6,1988,
 530,Villa,Søgårdparken 20,7250, Hejnsvig,179200 ,01-02-2005,Alm. Salg,172,1042,5,2005,
 530,Villa,Storegade 58,7200, Grindsted,750000 ,01-02-2005,Alm. Salg,153,4902,5,1935,
@@ -7206,11 +7129,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 530,Villa,Skovgårdsvej 4,7200, Grindsted,2700000 ,04-01-2004,Alm. Salg,213,12676,6,1960,
 530,Villa,Jorden Rundt 11,7200, Grindsted,517646 ,03-01-2004,Alm. Salg,98,5282,4,1961,
 530,Villa,Nørregade 8,6623, Vorbasse,200000 ,01-01-2004,Alm. Salg,258,775,6,1922,
-530,Ejerlejlighed,"Hovedgaden 43, st",7260, Sønder Omme,1025000 ,28-12-2003,Alm. Salg,73,14041,2,1930,
 530,Ejerlejlighed,"Grønningen 23, 2. tv",7200, Grindsted,450000 ,28-12-2003,Alm. Salg,88,5114,3,1968,
-530,Ejerlejlighed,"Sønderbro 4, 1",7260, Sønder Omme,1025000 ,28-12-2003,Alm. Salg,67,15299,2,1930,
-530,Ejerlejlighed,"Sønderbro 2, 1",7260, Sønder Omme,1025000 ,28-12-2003,Alm. Salg,96,10677,3,1930,
-530,Ejerlejlighed,"Sønderbro 6, st",7260, Sønder Omme,1025000 ,28-12-2003,Alm. Salg,74,13851,2,1930,
 530,Villa,Granvej 6,7200, Grindsted,830000 ,22-12-2003,Alm. Salg,192,4323,5,1915,
 530,Ejerlejlighed,"Solvej 24, 1",7200, Grindsted,1000000 ,21-12-2003,Alm. Salg,103,9709,3,2003,
 530,Villa,Høstvej 3,7250, Hejnsvig,570000 ,21-12-2003,Fam. Salg,136,4191,5,1968,
@@ -7351,7 +7270,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 530,Villa,Grønningen 42,7190, Billund,1350000 ,09-09-2003,Fam. Salg,147,9184,6,1998,
 530,Villa,Klosterhedevej 5,7200, Grindsted,940000 ,09-09-2003,Alm. Salg,123,7642,4,1973,
 530,Villa,Lupinvænget 3,7200, Grindsted,477735 ,09-09-2003,Fam. Salg,138,3462,5,1964,
-530,Villa,Fynsgade 5,7200, Grindsted,880000 ,09-09-2003,Fam. Salg,130,6769,5,1960,
 530,Villa,Nebelvej 3,6623, Vorbasse,300000 ,08-09-2003,Alm. Salg,124,2419,4,2016,
 530,Ejerlejlighed,"Solvej 62, 4",7200, Grindsted,1075000 ,07-09-2003,Alm. Salg,103,10437,3,2003,
 530,Rækkehus,Søndervold 20,7200, Grindsted,563000 ,05-09-2003,Alm. Salg,59,9542,2,1989,
@@ -7425,7 +7343,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 530,Villa,Sønderkær 229,7190, Billund,1675000 ,02-07-2003,Alm. Salg,151,11093,4,1981,
 530,Villa,Solbakken 3,7260, Sønder Omme,410000 ,01-07-2003,Alm. Salg,150,2733,5,2021,
 530,Rækkehus,Søndervold 10,7200, Grindsted,470000 ,30-06-2003,Alm. Salg,115,4087,5,1992,
-530,Ejerlejlighed,"Hovedgaden 2, 1",7260, Sønder Omme,1580000 ,30-06-2003,Alm. Salg,109,14495,3,1913,
 530,Villa,Nørrevej 27,7200, Grindsted,610000 ,30-06-2003,Alm. Salg,110,5545,3,1986,
 530,Villa,Fasanvej 8,7190, Billund,850000 ,30-06-2003,Fam. Salg,144,5903,6,1959,
 530,Villa,Sønderkær 175,7190, Billund,855000 ,29-06-2003,Alm. Salg,141,6064,5,1977,
@@ -7807,7 +7724,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 530,Villa,Granvej 1,7200, Grindsted,425000 ,15-08-2002,Fam. Salg,132,3220,4,1925,
 530,Villa,Fitting Stationsvej 8,6623, Vorbasse,950000 ,15-08-2002,Alm. Salg,159,5975,6,1925,
 530,Villa,Præstevænget 10,7250, Hejnsvig,375000 ,14-08-2002,Alm. Salg,112,3348,3,1927,
-530,Villa,Okslundvej 82,6623, Vorbasse,3750000 ,13-08-2002,Alm. Salg,228,16447,6,1995,
 530,Villa,Vestervang 8,7190, Billund,524480 ,13-08-2002,Andet,140,3746,6,1987,
 530,Villa,Sønderkær 122,7190, Billund,1025000 ,13-08-2002,Alm. Salg,145,7069,4,1977,
 530,Villa,Engvangen 4,7200, Grindsted,850000 ,11-08-2002,Alm. Salg,180,4722,6,1974,
@@ -7933,8 +7849,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 530,Villa,Lillevang 11,7190, Billund,1695000 ,22-04-2002,Alm. Salg,152,11151,6,1999,
 530,Villa,Mandøvej 17,7200, Grindsted,810000 ,21-04-2002,Alm. Salg,135,6000,5,1969,
 530,Villa,Dalsvinget 58,7200, Grindsted,1020000 ,16-04-2002,Alm. Salg,142,7183,6,1976,
-530,Rækkehus,Søndre Boulevard 361,7200, Grindsted,695000 ,15-04-2002,Alm. Salg,80,8688,3,1986,
-530,Villa,Midtgårdvej 23,7200, Grindsted,695000 ,15-04-2002,Alm. Salg,116,5991,4,1985,
 530,Villa,Lillevang 4,7190, Billund,298869 ,14-04-2002,Alm. Salg,122,2450,6,2003,
 530,Villa,Hovedgaden 34,7260, Sønder Omme,900000 ,12-04-2002,Fam. Salg,263,3422,10,1954,
 530,Villa,Skovvang 9,7260, Sønder Omme,898672 ,12-04-2002,Alm. Salg,166,5414,4,1952,
@@ -7985,8 +7899,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 530,Villa,Østerbrogade 17,7200, Grindsted,750000 ,01-03-2002,Alm. Salg,137,5474,5,1920,
 530,Villa,Mølleparken 143,7190, Billund,832500 ,27-02-2002,Alm. Salg,117,7115,4,1976,
 530,Villa,Markskellet 43,7190, Billund,1250000 ,27-02-2002,Alm. Salg,132,9470,5,1989,
-530,Rækkehus,Nørregade 3B,6623, Vorbasse,390000 ,26-02-2002,Alm. Salg,55,7091,2,1930,
-530,Ejerlejlighed,"Hovedgaden 2, 1",7260, Sønder Omme,1340000 ,26-02-2002,Alm. Salg,109,12294,3,1913,
 530,Villa,Skjoldbjergvej 5,6623, Vorbasse,1000000 ,26-02-2002,Alm. Salg,183,5464,6,1975,
 530,Villa,Vestergade 68,7200, Grindsted,795098 ,25-02-2002,Alm. Salg,75,10601,3,1959,
 530,Villa,Kirkebyvej 140,7260, Sønder Omme,490000 ,24-02-2002,Alm. Salg,148,3311,6,1927,
@@ -8398,7 +8310,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 530,Rækkehus,Søndre Boulevard 339,7200, Grindsted,800000 ,26-02-2001,Alm. Salg,103,7767,4,1988,
 530,Villa,Nørrevej 23,7200, Grindsted,949434 ,25-02-2001,Alm. Salg,155,6125,6,1986,
 530,Villa,Holdgårdsvej 11,7260, Sønder Omme,475000 ,21-02-2001,Alm. Salg,93,5108,2,1935,
-530,Ejerlejlighed,"Hovedgaden 2, 1",7260, Sønder Omme,1400000 ,19-02-2001,Alm. Salg,109,12844,3,1913,
 530,Villa,Nyvej 20,7250, Hejnsvig,450000 ,18-02-2001,Alm. Salg,98,4592,3,1962,
 530,Villa,Mølleparken 226,7190, Billund,1370000 ,17-02-2001,Alm. Salg,191,7173,6,1978,
 530,Ejerlejlighed,Nørregade 4D,6623, Vorbasse,450000 ,15-02-2001,Alm. Salg,87,5172,3,1902,
@@ -8888,7 +8799,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 530,Villa,Mølleparken 338,7190, Billund,807500 ,01-11-1999,Fam. Salg,133,6071,5,1981,
 530,Villa,Chr. Lundsgaards Vej 18,7200, Grindsted,595000 ,28-10-1999,Alm. Salg,90,6611,4,1930,
 530,Villa,Aakjærsvej 2,7200, Grindsted,475000 ,28-10-1999,Auktion,94,5053,2,1942,
-530,Villa,Nørregade 30B,6623, Vorbasse,871560 ,27-10-1999,Alm. Salg,58,15027,2,1915,
 530,Villa,Skovgårdsvej 15,7200, Grindsted,809328 ,26-10-1999,Alm. Salg,235,3444,9,1916,
 530,Villa,Poppelvej 3,7200, Grindsted,550000 ,26-10-1999,Alm. Salg,111,4955,4,1963,
 530,Villa,Åhavevej 22,7200, Grindsted,1280657 ,26-10-1999,Auktion,209,5821,5,1972,
@@ -9198,7 +9108,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 530,Villa,Klosterhedevej 13,7200, Grindsted,1019912 ,14-02-1999,Alm. Salg,150,6799,6,1972,
 530,Villa,Sønderkær 182,7190, Billund,850000 ,14-02-1999,Alm. Salg,124,6855,4,1977,
 530,Villa,Langgade 37,7250, Hejnsvig,280000 ,11-02-1999,Fam. Salg,148,1892,3,1929,
-530,Rækkehus,Amtsvejen 39B,7200, Grindsted,229000 ,10-02-1999,Alm. Salg,79,2899,3,1914,
 530,Villa,Mølleparken 320,7190, Billund,1200000 ,10-02-1999,Alm. Salg,157,7643,5,1984,
 530,Villa,Søvangvej 1,7200, Grindsted,1512500 ,06-02-1999,Alm. Salg,140,10804,5,1939,
 530,Villa,Ribersvej 102,7200, Grindsted,897539 ,05-02-1999,Alm. Salg,153,5866,6,1979,
@@ -9495,10 +9404,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 530,Villa,Dalsøvej 54,7200, Grindsted,875000 ,07-06-1998,Alm. Salg,118,7415,4,1977,
 530,Villa,Søndermarksvej 208,7190, Billund,1751695 ,05-06-1998,Alm. Salg,171,5491,6,1980,
 530,Villa,Spurvevej 9,7200, Grindsted,600000 ,04-06-1998,Fam. Salg,120,5000,2,1959,
-530,Ejerlejlighed,"Bredgade 69, 1",7250, Hejnsvig,516823 ,03-06-1998,Alm. Salg,53,9751,3,1918,
 530,Villa,Mølleparken 136,7190, Billund,1137948 ,03-06-1998,Alm. Salg,161,7068,5,1975,
 530,Villa,Ølgodvej 48,7200, Grindsted,704860 ,03-06-1998,Alm. Salg,269,2620,8,1969,
-530,Villa,"Bredgade 69, st",7250, Hejnsvig,516823 ,03-06-1998,Alm. Salg,146,3540,5,1918,
 530,Rækkehus,Svinget 15,7200, Grindsted,764118 ,01-06-1998,Alm. Salg,117,6531,3,0,
 530,Ejerlejlighed,"Nørregade 5, 1",7200, Grindsted,2200000 ,01-06-1998,Alm. Salg,234,9402,7,1915,
 530,Villa,Langagervej 1,7190, Billund,480000 ,31-05-1998,Fam. Salg,102,4706,3,1980,
@@ -9847,7 +9754,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 530,Villa,Torvegade 1,7250, Hejnsvig,145000 ,29-09-1997,Alm. Salg,143,1014,5,1921,
 530,Villa,Labrivej 11,6623, Vorbasse,116737 ,29-09-1997,Alm. Salg,159,734,6,1998,
 530,Ejerlejlighed,"Hovedgaden 1, 1",7260, Sønder Omme,400000 ,28-09-1997,Alm. Salg,111,3604,5,1877,
-530,Villa,Nørregade 30B,6623, Vorbasse,515000 ,28-09-1997,Alm. Salg,58,8879,2,1915,
 530,Villa,Bredgade 4,7250, Hejnsvig,1635288 ,28-09-1997,Alm. Salg,119,13742,2,2012,
 530,Villa,Tingstedet 109,7190, Billund,221104 ,28-09-1997,Alm. Salg,150,1474,6,1998,
 530,Villa,Hybenvej 8,7200, Grindsted,705800 ,26-09-1997,Alm. Salg,108,6535,4,1967,
@@ -10153,10 +10059,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 530,Rækkehus,Grønningen 24,7190, Billund,529808 ,13-04-1997,Alm. Salg,73,7258,2,1988,
 530,Villa,Hørlycks Alle 24,7200, Grindsted,525000 ,12-04-1997,Alm. Salg,83,6325,4,1947,
 530,Villa,Nebelvej 50,6623, Vorbasse,170000 ,11-04-1997,Fam. Salg,147,1156,6,1928,
-530,Ejerlejlighed,"Hovedgaden 12, 1",7260, Sønder Omme,875000 ,10-04-1997,Alm. Salg,104,8413,3,1919,
-530,Ejerlejlighed,"Hovedgaden 12, 2",7260, Sønder Omme,875000 ,10-04-1997,Alm. Salg,150,5833,6,1919,
-530,Ejerlejlighed,"Kirke Alle 1, 1",7260, Sønder Omme,875000 ,10-04-1997,Alm. Salg,90,9722,3,1919,
-530,Ejerlejlighed,"Kirke Alle 1, st",7260, Sønder Omme,875000 ,10-04-1997,Alm. Salg,60,14583,2,1919,
 530,Villa,Mølleparken 350,7190, Billund,1154340 ,10-04-1997,Alm. Salg,156,7400,6,1980,
 530,Villa,Skovparken 202,7190, Billund,1800000 ,09-04-1997,Alm. Salg,230,4663,14,1965,
 530,Villa,Markskellet 10,7190, Billund,150079 ,09-04-1997,Alm. Salg,163,921,6,1997,
@@ -10218,11 +10120,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 530,Villa,Boldingvej 3,7250, Hejnsvig,414255 ,06-03-1997,Alm. Salg,129,3211,5,2004,
 530,Villa,Irisvej 2,7200, Grindsted,425000 ,06-03-1997,Alm. Salg,116,3664,4,1972,
 530,Ejerlejlighed,"Urupvej 12, 1",7200, Grindsted,350000 ,05-03-1997,Alm. Salg,115,3043,3,1940,
-530,Ejerlejlighed,"Bredgade 69, 1",7250, Hejnsvig,399000 ,04-03-1997,Alm. Salg,53,7528,3,1918,
 530,Villa,Lysningen 10,7190, Billund,325000 ,04-03-1997,Alm. Salg,100,3250,4,1987,
 530,Villa,Fælledvej 16,7200, Grindsted,750000 ,04-03-1997,Fam. Salg,153,4902,6,1966,
 530,Villa,Sognegårdsvej 6,7200, Grindsted,50750 ,04-03-1997,Alm. Salg,134,379,5,1997,
-530,Villa,"Bredgade 69, st",7250, Hejnsvig,399000 ,04-03-1997,Alm. Salg,146,2733,5,1918,
 530,Villa,Sommers Alle 8,7200, Grindsted,702704 ,03-03-1997,Alm. Salg,138,5092,5,1917,
 530,Villa,Æblevej 11,7250, Hejnsvig,296241 ,03-03-1997,Alm. Salg,65,4558,3,1961,
 530,Villa,Nollundvej 111,7200, Grindsted,508400 ,02-03-1997,Alm. Salg,124,4100,4,1961,
@@ -10495,9 +10395,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 530,Villa,Nebelvej 31,6623, Vorbasse,600000 ,28-08-1996,Alm. Salg,228,2632,6,1910,
 530,Villa,Markskellet 11,7190, Billund,120402 ,28-08-1996,Alm. Salg,159,757,6,1997,
 530,Rækkehus,Østre Alle 10,7200, Grindsted,735386 ,27-08-1996,Alm. Salg,80,9192,3,1937,
-530,Ejerlejlighed,"Bredgade 69, 1",7250, Hejnsvig,300000 ,27-08-1996,Alm. Salg,53,5660,3,1918,
 530,Villa,Drivvejen 16,6623, Vorbasse,290000 ,27-08-1996,Alm. Salg,137,2117,5,1980,
-530,Villa,"Bredgade 69, st",7250, Hejnsvig,300000 ,27-08-1996,Alm. Salg,146,2055,5,1918,
 530,Rækkehus,Sydtoften 151,7200, Grindsted,542435 ,26-08-1996,Alm. Salg,105,5166,4,1984,
 530,Villa,Kirkevænget 26,6623, Vorbasse,90000 ,26-08-1996,Alm. Salg,148,608,5,1998,
 530,Villa,Bygvænget 13,7200, Grindsted,847985 ,26-08-1996,Alm. Salg,172,4930,5,1964,
@@ -10713,7 +10611,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 530,Villa,Tingstedet 72,7190, Billund,167114 ,18-03-1996,Alm. Salg,169,989,6,1997,
 530,Villa,Lærkevang 1,7200, Grindsted,600000 ,18-03-1996,Alm. Salg,122,4918,3,1961,
 530,Ejerlejlighed,"Grønningen 19, 2. tv",7200, Grindsted,380000 ,17-03-1996,Alm. Salg,88,4318,3,1968,
-530,Rækkehus,Amtsvejen 39B,7200, Grindsted,340000 ,14-03-1996,Alm. Salg,79,4304,3,1914,
 530,Villa,Birkevangen 6,7200, Grindsted,515000 ,14-03-1996,Alm. Salg,79,6519,3,1960,
 530,Villa,Tingstedet 67,7190, Billund,188652 ,13-03-1996,Alm. Salg,180,1048,8,1997,
 530,Villa,Tingstedet 86,7190, Billund,156968 ,13-03-1996,Alm. Salg,139,1129,6,1997,
@@ -12262,7 +12159,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 530,Villa,Skødevej 4,6623, Vorbasse,350000 ,09-10-1992,Alm. Salg,103,3398,4,1930,
 530,Villa,Fittingvej 34,6623, Vorbasse,320000 ,09-10-1992,Alm. Salg,217,1475,8,1931,
 530,Rækkehus,Sønderkær 351,7190, Billund,565000 ,08-10-1992,Alm. Salg,87,6494,3,1985,
-530,Rækkehus,Amtsvejen 39B,7200, Grindsted,300000 ,08-10-1992,Alm. Salg,79,3797,3,1914,
 530,Villa,Ribersvej 180,7200, Grindsted,665000 ,08-10-1992,Alm. Salg,131,5076,5,1980,
 530,Villa,Plougslundvej 223,7190, Billund,900000 ,08-10-1992,Fam. Salg,179,5028,5,1973,
 530,Villa,Mølleparken 266,7190, Billund,605000 ,08-10-1992,Fam. Salg,160,3781,6,1975,

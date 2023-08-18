@@ -47,7 +47,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Ranunkelvej 2,8500, Grenaa,500000 ,27-11-2022,Fam. Salg,151,3311.0,4,1979,
 707,Villa,Skyttevej 20,8950, Ørsted,1200000 ,27-11-2022,Alm. Salg,180,6667.0,7,1977,
 707,Villa,Grenaavej 30,8500, Grenaa,2450000 ,27-11-2022,Alm. Salg,254,9646.0,6,1920,
-707,Villa,Robstrupvej 24,8500, Grenaa,2017000 ,27-11-2022,Alm. Salg,146,13815.0,8,1904,
 707,Villa,Ahornvej 4,8963, Auning,900000 ,24-11-2022,Alm. Salg,146,6164.0,5,1970,
 707,Villa,Møllevangen 38,8585, Glesborg,1100000 ,23-11-2022,Alm. Salg,128,8594.0,4,1986,-4%
 707,Villa,Åvangen 11,8500, Grenaa,700000 ,23-11-2022,Alm. Salg,92,7609.0,3,1954,-12%
@@ -61,7 +60,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Tjørnegårdsparken 11B,8570, Trustrup,606200 ,17-11-2022,Fam. Salg,118,5137.0,3,1976,
 707,Villa,Skovsvinget 12,8500, Grenaa,1745000 ,15-11-2022,Fam. Salg,189,9233.0,6,1960,
 707,Villa,Tjørnegårdsparken 7,8570, Trustrup,575000 ,15-11-2022,Alm. Salg,136,4228.0,5,1976,
-707,Villa,Linde Alle 39,8963, Auning,1975000 ,14-11-2022,Alm. Salg,144,13715.0,5,1974,
 707,Villa,Plantagevej 10,8500, Grenaa,400000 ,14-11-2022,Alm. Salg,109,3670.0,5,1917,-20%
 707,Villa,Vintergækvej 4,8500, Grenaa,1640000 ,12-11-2022,Alm. Salg,128,12813.0,5,1978,-2%
 707,Villa,Glatved Strandvej 3,8444, Balle,486000 ,10-11-2022,Alm. Salg,74,6568.0,3,1877,
@@ -192,7 +190,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Kølvej 4,8500, Grenaa,675000 ,03-08-2022,Alm. Salg,88,7670.0,3,1953,-9%
 707,Villa,Langgade 13,8961, Allingåbro,700000 ,02-08-2022,Alm. Salg,110,6364.0,4,1917,-6%
 707,Villa,Havet 26,8585, Glesborg,510389 ,31-07-2022,Fam. Salg,118,4325.0,4,1950,
-707,Villa,Udsigten 25,8500, Grenaa,2600000 ,31-07-2022,Alm. Salg,191,13613.0,7,2003,
 707,Villa,Hybenbakken 2,8500, Grenaa,1100000 ,31-07-2022,Alm. Salg,124,8871.0,5,1959,-15%
 707,Rækkehus,Gerstrømsvej 4,8963, Auning,550000 ,28-07-2022,Alm. Salg,83,6627.0,3,1905,-8%
 707,Villa,Havnevej 143,8500, Grenaa,629650 ,28-07-2022,Fam. Salg,187,3367.0,6,1910,
@@ -312,7 +309,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Ndr Fælledvej 47,8963, Auning,1000000 ,17-05-2022,Alm. Salg,137,7299.0,5,1974,-5%
 707,Villa,Stokkebro 87A,8500, Grenaa,800000 ,16-05-2022,Alm. Salg,140,5714.0,4,1975,-5%
 707,Villa,Strandvejen 20,8585, Glesborg,445000 ,16-05-2022,Alm. Salg,88,5057.0,6,1964,-10%
-707,Villa,Stendalen 3,8585, Glesborg,2500000 ,16-05-2022,Alm. Salg,180,13889.0,5,2008,
 707,Villa,Pilevej 2,8963, Auning,1150000 ,15-05-2022,Alm. Salg,150,7667.0,7,1968,
 707,Villa,Åvej 1,8500, Grenaa,365000 ,12-05-2022,Alm. Salg,126,2897.0,6,1960,-8%
 707,Villa,Ludvig Holbergs Vej 13,8500, Grenaa,1665000 ,12-05-2022,Alm. Salg,175,9514.0,5,1972,-2%
@@ -387,7 +383,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Ejerlejlighed,"Langgade 12B, st. 1",8961, Allingåbro,275000 ,31-03-2022,Alm. Salg,87,3161.0,3,1902,-21%
 707,Villa,Halvej 1,8961, Allingåbro,485000 ,31-03-2022,Alm. Salg,152,3191.0,5,1900,-2%
 707,Villa,Århusvej 191B,8570, Trustrup,1030000 ,31-03-2022,Alm. Salg,183,5628.0,5,1934,-1%
-707,Villa,Kvædevej 33,8500, Grenaa,1470000 ,31-03-2022,Alm. Salg,108,13611.0,4,1982,-2%
 707,Villa,Vinkelvej 1,8500, Grenaa,1198000 ,30-03-2022,Alm. Salg,126,9508.0,5,1934,
 707,Villa,Hegedal 16,8585, Glesborg,500000 ,30-03-2022,Andet,125,4000.0,4,1964,
 707,Villa,Solvangs Allé 3,8500, Grenaa,820000 ,30-03-2022,Alm. Salg,100,8200.0,5,1948,-3%
@@ -533,9 +528,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Pilevej 6,8963, Auning,1050000 ,12-01-2022,Alm. Salg,160,6563.0,6,1970,-13%
 707,Villa,Ringsøvej 57,8963, Auning,510000 ,12-01-2022,Andet,101,5050.0,3,1870,
 707,Villa,Østergade 34B,8963, Auning,1375000 ,11-01-2022,Alm. Salg,113,12168.0,3,1964,
-707,Villa,Stenvadvej 16,8586, Ørum Djurs,2510000 ,11-01-2022,Alm. Salg,182,13791.0,6,1928,-3%
 707,Villa,Herman Bangs Vej 14,8500, Grenaa,1685000 ,11-01-2022,Alm. Salg,183,9208.0,4,1972,-4%
-707,Villa,Ahornvej 3,8963, Auning,2198000 ,10-01-2022,Alm. Salg,160,13738.0,5,1967,
 707,Villa,Gyvelskrænten 4,8961, Allingåbro,2245000 ,10-01-2022,Alm. Salg,258,8702.0,8,1980,-2%
 707,Ejerlejlighed,"Blichersvej 9, st. tv",8500, Grenaa,450000 ,09-01-2022,Alm. Salg,79,5696.0,3,1962,-9%
 707,Villa,Svalevej 14,8500, Grenaa,1156000 ,09-01-2022,Alm. Salg,156,7410.0,5,1968,6%
@@ -563,13 +556,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Lundkærsvej 8,8963, Auning,1400000 ,15-12-2021,Alm. Salg,140,10000.0,5,1963,-6%
 707,Villa,Krokusvej 15,8500, Grenaa,699750 ,15-12-2021,Fam. Salg,158,4429.0,5,1969,
 707,Villa,Debildvej 4,8500, Grenaa,1650000 ,14-12-2021,Alm. Salg,171,9649.0,7,1924,-3%
-707,Villa,Østergade 6A,8963, Auning,549333 ,14-12-2021,Alm. Salg,62,8860.0,3,1907,
 707,Villa,Hyacintvej 11,8585, Glesborg,950000 ,13-12-2021,Alm. Salg,122,7787.0,4,1978,-5%
 707,Villa,Georgsmindevej 1,8961, Allingåbro,1800000 ,12-12-2021,Fam. Salg,210,8571.0,6,1933,
-707,Villa,Rolighedsvej 8B,8963, Auning,1745000 ,09-12-2021,Alm. Salg,128,13633.0,5,1977,
 707,Villa,Østervangs Alle 11,8963, Auning,541133 ,09-12-2021,Alm. Salg,152,3560.0,6,1972,
 707,Villa,Allingvej 1,8963, Auning,1050000 ,09-12-2021,Alm. Salg,103,10194.0,5,1959,
-707,Villa,Duevej 24,8500, Grenaa,1250000 ,07-12-2021,Alm. Salg,90,13889.0,3,1972,-3%
 707,Villa,Sønderstrandvej 16,8592, Anholt,6700 ,07-12-2021,Fam. Salg,153,44.0,4,0,
 707,Villa,Vestre Skovvej 6,8500, Grenaa,940000 ,06-12-2021,Alm. Salg,180,5222.0,5,1963,-6%
 707,Villa,Østervej 18,8592, Anholt,525000 ,06-12-2021,Alm. Salg,75,7000.0,3,1950,-19%
@@ -614,7 +604,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Rækkehus,Djursgade 9,8500, Grenaa,728588 ,14-11-2021,Fam. Salg,100,7286.0,5,1917,
 707,Villa,Åboulevarden 8,8500, Grenaa,620000 ,14-11-2021,Alm. Salg,117,5299.0,3,1954,-11%
 707,Villa,Teglværksvej 78,8963, Auning,465000 ,14-11-2021,Alm. Salg,171,2719.0,5,0,
-707,Villa,Stadion Allé 7,8500, Grenaa,1700000 ,11-11-2021,Alm. Salg,123,13821.0,4,1988,
 707,Rækkehus,Fuglsangparken 99,8500, Grenaa,1075000 ,10-11-2021,Alm. Salg,92,11685.0,4,1979,
 707,Ejerlejlighed,Havnevej 136E,8500, Grenaa,480000 ,10-11-2021,Alm. Salg,83,5783.0,3,1964,-9%
 707,Villa,Savværksvej 10,8586, Ørum Djurs,497500 ,10-11-2021,Fam. Salg,144,3455.0,6,1916,
@@ -646,7 +635,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Glatvedvej 72,8444, Balle,800000 ,19-10-2021,Alm. Salg,72,11111.0,3,1942,
 707,Villa,Overbrovej 42,8586, Ørum Djurs,175000 ,19-10-2021,Alm. Salg,130,1346.0,3,1946,
 707,Villa,Langgade 18,8961, Allingåbro,375000 ,19-10-2021,Alm. Salg,193,1943.0,10,1878,
-707,Rækkehus,Sønder Alle 2B. 1,8961, Allingåbro,650000 ,18-10-2021,Alm. Salg,91,7143.0,3,1988,
 707,Rækkehus,Sygehusvej 28,8950, Ørsted,150000 ,18-10-2021,Alm. Salg,86,1744.0,3,1935,
 707,Villa,Hovedgaden 33,8963, Auning,568648 ,18-10-2021,Alm. Salg,202,2815.0,5,1963,
 707,Villa,Rougsøvej 37,8961, Allingåbro,168000 ,18-10-2021,Alm. Salg,63,2667.0,4,1909,
@@ -674,7 +662,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Rugvej 9,8586, Ørum Djurs,925000 ,05-10-2021,Alm. Salg,120,7708.0,4,1976,-5%
 707,Rækkehus,Kølvej 38,8500, Grenaa,1075000 ,04-10-2021,Alm. Salg,87,12356.0,4,1951,
 707,Villa,Søndermarksvej 13,8961, Allingåbro,510000 ,04-10-2021,Alm. Salg,108,4722.0,4,1965,-7%
-707,Villa,Åstrupparken 69,8500, Grenaa,1637500 ,03-10-2021,Alm. Salg,120,13646.0,4,1984,-1%
 707,Villa,Stenvad Bygade 50,8586, Ørum Djurs,920000 ,03-10-2021,Alm. Salg,100,9200.0,4,1935,
 707,Villa,Ådalsvej 10,8961, Allingåbro,1053571 ,02-10-2021,Alm. Salg,165,6385.0,5,2018,
 707,Villa,Gl Grundvej 1,8961, Allingåbro,855000 ,01-10-2021,Alm. Salg,142,6021.0,3,1900,-4%
@@ -755,7 +742,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Bakkesvinget 32,8963, Auning,2875000 ,18-08-2021,Alm. Salg,234,12286.0,8,2008,-2%
 707,Rækkehus,Knudsvej 2,8586, Ørum Djurs,650000 ,17-08-2021,Alm. Salg,82,7927.0,3,1982,-2%
 707,Villa,Hollandsbjergvej 43,8950, Ørsted,595000 ,17-08-2021,Alm. Salg,106,5613.0,3,1880,
-707,Villa,Ørumgårdvej 22,8586, Ørum Djurs,1995000 ,17-08-2021,Alm. Salg,144,13854.0,6,2013,
 707,Villa,Kanalvej 64,8500, Grenaa,845000 ,16-08-2021,Alm. Salg,85,9941.0,4,1875,
 707,Villa,Gyvelbakken 23,8500, Grenaa,1348000 ,16-08-2021,Alm. Salg,120,11233.0,4,1964,
 707,Villa,Fyrreparken 37,8961, Allingåbro,1150000 ,15-08-2021,Alm. Salg,160,7188.0,4,1972,
@@ -772,10 +758,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Skansevej 13,8560, Kolind,585000 ,09-08-2021,Alm. Salg,153,3824.0,5,1947,-16%
 707,Villa,Klostervej 11,8500, Grenaa,850000 ,09-08-2021,Alm. Salg,91,9341.0,4,1958,-5%
 707,Villa,Fredensgade 2,8500, Grenaa,900000 ,09-08-2021,Alm. Salg,130,6923.0,5,1952,-10%
-707,Villa,Sommerlyst 57,8500, Grenaa,1598000 ,06-08-2021,Alm. Salg,115,13896.0,4,1972,
 707,Rækkehus,Østergade 32A,8500, Grenaa,980000 ,04-08-2021,Alm. Salg,98,10000.0,4,1895,-2%
 707,Ejerlejlighed,"Blichersvej 15, 1. tv",8500, Grenaa,545000 ,04-08-2021,Alm. Salg,78,6987.0,3,1962,
-707,Villa,Syrenvej 16,8500, Grenaa,2850000 ,04-08-2021,Alm. Salg,204,13971.0,7,1965,-4%
 707,Villa,Jernbanegade 34,8961, Allingåbro,1850000 ,04-08-2021,Alm. Salg,251,7371.0,8,1917,-6%
 707,Villa,Solbakkevej 34,8500, Grenaa,1425000 ,03-08-2021,Alm. Salg,155,9194.0,4,1975,-1%
 707,Villa,Veggerslevvej 68,8500, Grenaa,1950000 ,02-08-2021,Alm. Salg,161,12112.0,6,1973,
@@ -845,8 +829,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Teglværksvej 86,8963, Auning,463500 ,24-06-2021,Alm. Salg,170,2726.0,5,2022,
 707,Villa,Sangstrupvej 1B,8500, Grenaa,1434000 ,23-06-2021,Alm. Salg,170,8435.0,6,1880,-1%
 707,Villa,Vestervangsvej 12,8961, Allingåbro,1350000 ,23-06-2021,Alm. Salg,168,8036.0,6,1914,8%
-707,Ejerlejlighed,"Århusvej 177, st",8570, Trustrup,1400000 ,22-06-2021,Alm. Salg,152,9211.0,5,1932,
-707,Ejerlejlighed,"Århusvej 177, 1",8570, Trustrup,1400000 ,22-06-2021,Alm. Salg,120,11667.0,3,1932,
 707,Villa,Elmevej 3,8570, Trustrup,500000 ,22-06-2021,Alm. Salg,102,4902.0,4,1965,-16%
 707,Villa,Århusvej 92B,8500, Grenaa,495801 ,22-06-2021,Auktion,121,4098.0,4,1987,
 707,Villa,Langgade 18,8961, Allingåbro,90994 ,22-06-2021,Auktion,193,471.0,10,1878,
@@ -874,7 +856,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Stokkebro 35,8500, Grenaa,690000 ,14-06-2021,Alm. Salg,96,7188.0,5,1969,
 707,Ejerlejlighed,Havnevej 144A,8500, Grenaa,400000 ,13-06-2021,Alm. Salg,68,5882.0,2,1964,
 707,Villa,"Vestervej 5, st",8500, Grenaa,600000 ,13-06-2021,Alm. Salg,153,3922.0,6,1933,-25%
-707,Villa,Hestehaven 37,8500, Grenaa,1970000 ,13-06-2021,Alm. Salg,144,13681.0,4,2000,
 707,Villa,Rougsøvej 310,8950, Ørsted,1695000 ,13-06-2021,Alm. Salg,180,9417.0,7,1903,
 707,Villa,Lyngdalvej 75,8500, Grenaa,1300000 ,13-06-2021,Alm. Salg,158,8228.0,4,1969,-7%
 707,Villa,Holtskær 1,8500, Grenaa,450000 ,12-06-2021,Alm. Salg,120,3750.0,5,1875,-6%
@@ -1120,7 +1101,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Odinsvej 23,8500, Grenaa,1048000 ,01-02-2021,Alm. Salg,84,12476.0,3,1962,
 707,Villa,Moselunden 8,8963, Auning,652566 ,01-02-2021,Fam. Salg,202,3231.0,6,2008,
 707,Villa,Kanneshøjvej 46,8585, Glesborg,550000 ,01-02-2021,Alm. Salg,121,4545.0,4,1964,11%
-707,Villa,"Storegade 13F, st. tv",8500, Grenaa,3000000 ,01-02-2021,Alm. Salg,273,10989.0,7,1875,
 707,Villa,Bygaden 5,8592, Anholt,950000 ,31-01-2021,Alm. Salg,170,5588.0,5,1880,
 707,Villa,Veggerslevvej 19B,8500, Grenaa,750000 ,31-01-2021,Alm. Salg,129,5814.0,4,1978,-6%
 707,Ejerlejlighed,"Bavnehøjvej 1, 1. tv",8500, Grenaa,590000 ,30-01-2021,Alm. Salg,72,8194.0,3,1943,
@@ -1196,7 +1176,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Grønhøjvej 4,8500, Grenaa,995000 ,15-12-2020,Auktion,329,3024.0,10,1900,
 707,Villa,Ringsøvej 57,8963, Auning,138200 ,15-12-2020,Auktion,101,1368.0,3,1870,
 707,Villa,Østbakken 16,8586, Ørum Djurs,374643 ,15-12-2020,Andet,158,2371.0,6,1964,
-707,Ejerlejlighed,Hovedgaden 27,8961, Allingåbro,1200000 ,13-12-2020,Alm. Salg,117,10256.0,3,1900,
 707,Villa,Holmbergsvej 7,8963, Auning,1550000 ,13-12-2020,Alm. Salg,134,11567.0,5,1975,
 707,Villa,Neergårdsdalvej 9,8500, Grenaa,800000 ,13-12-2020,Alm. Salg,243,3292.0,8,1976,-5%
 707,Villa,Havnevej 199,8500, Grenaa,500000 ,13-12-2020,Alm. Salg,156,3205.0,5,1899,-25%
@@ -1216,7 +1195,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Ådalsvej 14,8963, Auning,1000000 ,06-12-2020,Alm. Salg,160,6250.0,10,1907,
 707,Villa,Ørumvej 3,8586, Ørum Djurs,525000 ,06-12-2020,Alm. Salg,144,3646.0,8,1934,-4%
 707,Villa,Industrivej 13,8963, Auning,816893 ,05-12-2020,Alm. Salg,161,5074.0,4,2008,
-707,Villa,Stendalen 3,8585, Glesborg,2450000 ,05-12-2020,Alm. Salg,180,13611.0,5,2008,
 707,Villa,Primulavej 13,8500, Grenaa,1875000 ,04-12-2020,Alm. Salg,144,13021.0,4,1974,
 707,Villa,Nyvej 5,8500, Grenaa,816000 ,04-12-2020,Alm. Salg,112,7286.0,4,1963,-9%
 707,Villa,Tjørnevej 2,8963, Auning,768000 ,03-12-2020,Alm. Salg,113,6796.0,4,1900,-4%
@@ -1293,7 +1271,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Vestergade 5,8961, Allingåbro,325000 ,03-11-2020,Auktion,97,3351.0,5,1876,-34%
 707,Villa,Grønnegade 34,8500, Grenaa,835000 ,02-11-2020,Alm. Salg,108,7731.0,4,1964,-5%
 707,Villa,Åbrovej 49,8586, Ørum Djurs,530000 ,01-11-2020,Alm. Salg,189,2804.0,6,1879,-11%
-707,Ejerlejlighed,Lystrupvej 13A,8961, Allingåbro,1040000 ,29-10-2020,Alm. Salg,75,13867.0,4,1912,-13%
 707,Villa,Enghavevej 29,8500, Grenaa,1350000 ,28-10-2020,Alm. Salg,100,13500.0,4,1963,-1%
 707,Villa,Bådsdal 2,8500, Grenaa,940000 ,28-10-2020,Alm. Salg,165,5697.0,4,2012,
 707,Rækkehus,Sygehusvej 26,8950, Ørsted,65000 ,27-10-2020,Auktion,110,591.0,3,1935,
@@ -1310,7 +1287,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Ahornvej 4,8963, Auning,1195000 ,21-10-2020,Alm. Salg,146,8185.0,5,1970,-8%
 707,Villa,Lokesvej 2A,8500, Grenaa,954187 ,21-10-2020,Alm. Salg,131,7284.0,6,1950,
 707,Villa,Vesterbro 34,8570, Trustrup,975000 ,20-10-2020,Alm. Salg,126,7738.0,4,1973,-7%
-707,Villa,Kølvej 6,8500, Grenaa,1675000 ,19-10-2020,Alm. Salg,123,13618.0,3,1934,
 707,Villa,Nordstrandvej 3,8592, Anholt,1330000 ,18-10-2020,Alm. Salg,133,10000.0,5,1987,
 707,Villa,Rougsøvej 111,8950, Ørsted,325000 ,18-10-2020,Alm. Salg,102,3186.0,4,1920,-16%
 707,Villa,Rimsti Bakken 9,8500, Grenaa,291232 ,18-10-2020,Alm. Salg,164,1776.0,5,2021,
@@ -1326,7 +1302,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Glesborg Kærvej 26,8585, Glesborg,1475000 ,10-10-2020,Alm. Salg,177,8333.0,4,1930,-2%
 707,Villa,Havet 68A,8585, Glesborg,875000 ,07-10-2020,Alm. Salg,135,6481.0,5,1975,-2%
 707,Villa,Lyngdalvej 37,8500, Grenaa,1040000 ,07-10-2020,Alm. Salg,120,8667.0,4,1973,-5%
-707,Villa,Koralvej 24,8585, Glesborg,1480000 ,07-10-2020,Alm. Salg,109,13578.0,4,2007,-1%
 707,Villa,Hevring Møllevej 28,8950, Ørsted,928388 ,06-10-2020,Alm. Salg,217,4278.0,5,1920,
 707,Villa,Glesborg Bygade 94,8585, Glesborg,686500 ,04-10-2020,Alm. Salg,175,3923.0,5,1974,
 707,Villa,Primulavej 11,8500, Grenaa,1965000 ,03-10-2020,Alm. Salg,215,9140.0,7,1960,-2%
@@ -1436,15 +1411,11 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Møllevangen 48,8585, Glesborg,725000 ,10-08-2020,Alm. Salg,110,6591.0,4,1987,
 707,Villa,Snerlevej 10,8500, Grenaa,1350000 ,10-08-2020,Alm. Salg,148,9122.0,4,1974,-7%
 707,Rækkehus,Kølvej 14,8500, Grenaa,788000 ,06-08-2020,Alm. Salg,87,9057.0,4,1949,-1%
-707,Ejerlejlighed,Hovedgaden 53B,8961, Allingåbro,700000 ,06-08-2020,Alm. Salg,86,7527.0,3,1953,-3%
 707,Villa,Skovvænget 18,8963, Auning,630000 ,06-08-2020,Alm. Salg,135,4667.0,3,1973,
 707,Villa,Veggerslevvej 1,8500, Grenaa,790000 ,06-08-2020,Alm. Salg,114,6930.0,3,1893,-1%
-707,Villa,Hovedgaden 53B,8961, Allingåbro,700000 ,06-08-2020,Alm. Salg,188,2527.0,10,1953,-3%
 707,Villa,Rugvej 7,8586, Ørum Djurs,912500 ,06-08-2020,Alm. Salg,145,6293.0,7,1973,-1%
 707,Villa,Havnevej 177,8500, Grenaa,450000 ,05-08-2020,Alm. Salg,80,5625.0,3,1915,
 707,Villa,Rosenbakken 5,8500, Grenaa,1950000 ,05-08-2020,Alm. Salg,155,12581.0,7,1961,-2%
-707,Rækkehus,Engvangen 5,8500, Grenaa,800000 ,04-08-2020,Alm. Salg,107,7477.0,4,1950,-3%
-707,Villa,De Lichtenbergs Vej 8,8500, Grenaa,800000 ,04-08-2020,Alm. Salg,72,11111.0,4,1949,-6%
 707,Villa,Åvangen 14,8500, Grenaa,850000 ,03-08-2020,Alm. Salg,79,10759.0,3,1953,-5%
 707,Villa,Møgelbjerg 55,8500, Grenaa,375000 ,03-08-2020,Alm. Salg,174,2155.0,5,2021,
 707,Rækkehus,Dr Louise Vej 18,8500, Grenaa,1170000 ,02-08-2020,Alm. Salg,132,8864.0,4,1910,-2%
@@ -1525,7 +1496,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Markedsgade 56,8500, Grenaa,630000 ,08-06-2020,Alm. Salg,91,6923.0,4,1934,-25%
 707,Villa,Østervangs Alle 18,8963, Auning,1925000 ,08-06-2020,Alm. Salg,149,12919.0,7,1988,-4%
 707,Villa,Nørgaardsvej 13,8963, Auning,550000 ,08-06-2020,Alm. Salg,165,3333.0,5,2021,
-707,Villa,Voer Færgevej 9C,8950, Ørsted,712500 ,08-06-2020,Alm. Salg,73,9760.0,3,2009,-20%
 707,Villa,Havet 66D,8585, Glesborg,1650000 ,08-06-2020,Alm. Salg,203,8128.0,7,2009,-6%
 707,Rækkehus,Forsythiavej 46,8500, Grenaa,1100000 ,07-06-2020,Alm. Salg,130,8462.0,4,1982,-15%
 707,Ejerlejlighed,Havnevej 138E,8500, Grenaa,410000 ,07-06-2020,Alm. Salg,83,4940.0,3,1964,-8%
@@ -1535,9 +1505,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Hegedal 5,8585, Glesborg,123473 ,07-06-2020,Alm. Salg,73,1691.0,4,1970,-93%
 707,Villa,Stokkebro 76,8500, Grenaa,1045000 ,06-06-2020,Alm. Salg,126,8294.0,5,1725,-5%
 707,Villa,Klostervej 17,8500, Grenaa,340000 ,04-06-2020,Andet,70,4857.0,4,1951,
-707,Ejerlejlighed,"Bredgade 26, st",8500, Grenaa,795000 ,03-06-2020,Alm. Salg,101,7871.0,4,1934,
 707,Villa,Rådmandsvej 8B,8500, Grenaa,1300000 ,03-06-2020,Alm. Salg,129,10078.0,4,1985,
-707,Villa,Dolmer Vænge 10,8500, Grenaa,795000 ,03-06-2020,Alm. Salg,201,3955.0,7,1904,
 707,Villa,Åstrupskrænten 27,8500, Grenaa,1756000 ,03-06-2020,Alm. Salg,241,7286.0,7,1976,-5%
 707,Villa,Selkærvej 19,8585, Glesborg,1244000 ,02-06-2020,Alm. Salg,185,6724.0,5,1913,-8%
 707,Villa,Peitergyde 8,8950, Ørsted,370000 ,02-06-2020,Alm. Salg,86,4302.0,3,1962,-14%
@@ -1560,9 +1528,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,De Lichtenbergs Vej 12,8500, Grenaa,875000 ,22-05-2020,Alm. Salg,178,4916.0,8,1961,-3%
 707,Villa,Østervej 55,8592, Anholt,500000 ,18-05-2020,Andet,130,3846.0,5,1922,
 707,Villa,Granbakkevej 13,8961, Allingåbro,737500 ,18-05-2020,Fam. Salg,189,3902.0,7,1985,
-707,Ejerlejlighed,A L Pedersens Vej 1A,8961, Allingåbro,1250000 ,17-05-2020,Alm. Salg,94,13298.0,3,1907,
-707,Ejerlejlighed,"A L Pedersens Vej 1, 1",8961, Allingåbro,1250000 ,17-05-2020,Alm. Salg,94,13298.0,2,1907,
-707,Ejerlejlighed,Hovedgaden 51,8961, Allingåbro,1250000 ,17-05-2020,Alm. Salg,166,7530.0,9,1907,
 707,Villa,Huldremosevej 11,8586, Ørum Djurs,575000 ,17-05-2020,Alm. Salg,117,4915.0,5,1960,-17%
 707,Villa,Glatved Strandvej 27,8444, Balle,729550 ,16-05-2020,Fam. Salg,128,5700.0,3,1927,
 707,Villa,Solvangs Allé 17,8500, Grenaa,609000 ,15-05-2020,Alm. Salg,156,3904.0,6,1950,
@@ -1596,7 +1561,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Estruplundvej 9,8950, Ørsted,2000000 ,24-04-2020,Alm. Salg,175,11429.0,7,1998,0%
 707,Villa,Hollandsbjergvej 5,8950, Ørsted,435000 ,23-04-2020,Alm. Salg,108,4028.0,4,1963,-12%
 707,Villa,Nørrevang 18,8500, Grenaa,1745000 ,23-04-2020,Alm. Salg,139,12554.0,4,1996,
-707,Villa,Hovedgaden 17,8961, Allingåbro,1053049 ,22-04-2020,Alm. Salg,130,8100.0,3,1905,
 707,Villa,Plantagevej 18,8961, Allingåbro,1550000 ,22-04-2020,Alm. Salg,240,6458.0,6,1972,-3%
 707,Villa,Gartnervænget 12,8500, Grenaa,642570 ,22-04-2020,Andet,157,4093.0,6,1974,
 707,Villa,Kornblomstvej 5,8500, Grenaa,1570000 ,21-04-2020,Alm. Salg,177,8870.0,6,1983,-7%
@@ -1863,7 +1827,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Frejasvej 10A,8500, Grenaa,1415000 ,16-10-2019,Alm. Salg,141,10035.0,5,1969,-1%
 707,Villa,Rosenvang 1,8500, Grenaa,1925000 ,16-10-2019,Alm. Salg,230,8370.0,8,1952,-4%
 707,Villa,Glesborg Bygade 47,8585, Glesborg,665000 ,15-10-2019,Alm. Salg,80,8313.0,3,1967,-1%
-707,Villa,Langgade 31A,8961, Allingåbro,1250000 ,14-10-2019,Alm. Salg,136,9191.0,5,1903,-9%
 707,Villa,Hovedvejen 14,8500, Grenaa,230000 ,10-10-2019,Alm. Salg,112,2054.0,4,1890,-21%
 707,Rækkehus,Kirkevej 3,8963, Auning,455000 ,08-10-2019,Alm. Salg,101,4505.0,3,1919,-8%
 707,Villa,Lykkesholmvej 8,8570, Trustrup,1070000 ,08-10-2019,Alm. Salg,152,7039.0,5,1963,-3%
@@ -1885,7 +1848,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Skovlæet 8,8500, Grenaa,1010000 ,26-09-2019,Fam. Salg,159,6352.0,6,1964,
 707,Villa,Neergårdsdalvej 6,8500, Grenaa,1297000 ,25-09-2019,Alm. Salg,156,8314.0,6,1977,9%
 707,Villa,Gl Ringvej 16,8963, Auning,1375000 ,25-09-2019,Alm. Salg,140,9821.0,5,1969,-2%
-707,Villa,Østervangs Alle 83,8963, Auning,2450000 ,25-09-2019,Alm. Salg,177,13842.0,6,2001,-2%
 707,Villa,Tårupvej 34,8963, Auning,1600000 ,24-09-2019,Alm. Salg,146,10959.0,4,1978,
 707,Villa,Stenalt Markvej 4,8950, Ørsted,1150000 ,24-09-2019,Fam. Salg,133,8647.0,4,1942,
 707,Villa,Svalevej 25,8500, Grenaa,450000 ,24-09-2019,Alm. Salg,85,5294.0,3,1963,
@@ -2075,7 +2037,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Bønnerupvej 24,8585, Glesborg,850000 ,30-05-2019,Alm. Salg,208,4087.0,9,1980,-5%
 707,Villa,Skovvænget 5,8963, Auning,181370 ,28-05-2019,Andet,130,1395.0,4,1972,
 707,Villa,Sandbakkevej 45,8500, Grenaa,1003728 ,28-05-2019,Andet,182,5515.0,7,1979,
-707,Villa,Rosenbakken 11,8500, Grenaa,2100000 ,28-05-2019,Alm. Salg,152,13816.0,6,1957,-6%
 707,Villa,Ågade 13,8500, Grenaa,1875000 ,28-05-2019,Alm. Salg,175,10714.0,7,1922,-11%
 707,Villa,Bodevej 8,8950, Ørsted,825000 ,27-05-2019,Alm. Salg,275,3000.0,7,1902,-8%
 707,Villa,Huldremosevej 50,8586, Ørum Djurs,750000 ,27-05-2019,Alm. Salg,103,7282.0,2,1937,-6%
@@ -2083,7 +2044,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Møgelbjerg 10,8500, Grenaa,402215 ,25-05-2019,Alm. Salg,165,2438.0,5,2020,
 707,Villa,De Lichtenbergs Vej 48,8500, Grenaa,735000 ,22-05-2019,Alm. Salg,111,6622.0,5,1962,-8%
 707,Villa,Solvej 2,8950, Ørsted,1195000 ,22-05-2019,Alm. Salg,118,10127.0,4,1952,
-707,Rækkehus,Middelgade 1A,8963, Auning,1285000 ,21-05-2019,Alm. Salg,93,13817.0,3,2020,
 707,Villa,Åstrupkrogen 1,8500, Grenaa,1425000 ,21-05-2019,Alm. Salg,151,9437.0,4,1969,-5%
 707,Villa,Vestervangsvej 4,8961, Allingåbro,200000 ,20-05-2019,Alm. Salg,164,1220.0,7,1800,
 707,Villa,Klostervej 6,8500, Grenaa,750000 ,20-05-2019,Alm. Salg,130,5769.0,3,1950,-6%
@@ -2160,7 +2120,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Fuglebækvej 3,8570, Trustrup,590000 ,27-03-2019,Alm. Salg,154,3831.0,5,1910,-6%
 707,Villa,Stendyssevej 2,8586, Ørum Djurs,345000 ,27-03-2019,Alm. Salg,89,3876.0,4,1920,-8%
 707,Ejerlejlighed,"Bavnehøjvej 4A, 1. th",8500, Grenaa,10000 ,26-03-2019,Alm. Salg,38,263.0,1,1949,
-707,Villa,Møllevænget 14,8963, Auning,875000 ,26-03-2019,Alm. Salg,63,13889.0,3,1954,-12%
 707,Villa,Ålsrodevej 40,8500, Grenaa,1450000 ,26-03-2019,Alm. Salg,232,6250.0,7,1924,
 707,Villa,Stenvad Bygade 45,8586, Ørum Djurs,104496 ,25-03-2019,Fam. Salg,98,1066.0,1,1975,
 707,Villa,Grønningen 1,8500, Grenaa,550000 ,24-03-2019,Fam. Salg,130,4231.0,5,1956,
@@ -2189,8 +2148,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Ndr Fælledvej 33,8963, Auning,1350000 ,07-03-2019,Alm. Salg,108,12500.0,4,1966,
 707,Villa,Åstruphegnet 7,8500, Grenaa,955000 ,07-03-2019,Alm. Salg,140,6821.0,4,1946,-7%
 707,Villa,Emmelev Kærvej 4A,8500, Grenaa,650000 ,06-03-2019,Alm. Salg,192,3385.0,5,1979,
-707,Villa,Ådalen 15,8961, Allingåbro,2550000 ,05-03-2019,Alm. Salg,184,13859.0,5,2005,
-707,Villa,Århusvej 6A,8963, Auning,650000 ,05-03-2019,Alm. Salg,90,4483.0,4,1904,-6%
 707,Villa,Hornsleths Allé 31,8500, Grenaa,1550000 ,05-03-2019,Alm. Salg,146,10616.0,5,1974,-9%
 707,Villa,Jeppe Aakjærs Vej 22,8500, Grenaa,700000 ,05-03-2019,Alm. Salg,112,6250.0,4,1965,-12%
 707,Villa,Hevring Møllevej 5,8950, Ørsted,750000 ,05-03-2019,Fam. Salg,92,8152.0,4,1875,
@@ -2255,7 +2212,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Bakkegårdsvej 8,8500, Grenaa,30001 ,15-01-2019,Auktion,74,405.0,3,1900,
 707,Villa,Århusvej 57,8500, Grenaa,525000 ,14-01-2019,Alm. Salg,108,4861.0,3,1957,
 707,Villa,Østergade 55B,8963, Auning,672270 ,14-01-2019,Fam. Salg,123,5466.0,4,1954,
-707,Villa,Møgelbjerg 45,8500, Grenaa,2375000 ,14-01-2019,Alm. Salg,174,13649.0,4,2013,
 707,Villa,Møgelbjerg 49,8500, Grenaa,386331 ,13-01-2019,Alm. Salg,232,1665.0,5,2020,
 707,Villa,Kanalvej 2,8500, Grenaa,459875 ,12-01-2019,Alm. Salg,182,2527.0,5,1935,
 707,Ejerlejlighed,"Skolestræde 5, st. mf",8500, Grenaa,590000 ,10-01-2019,Alm. Salg,74,7973.0,2,1908,-9%
@@ -2269,7 +2225,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Dæmningen 42,8560, Kolind,88000 ,06-01-2019,Alm. Salg,94,936.0,4,1900,
 707,Villa,Spurvevej 10,8961, Allingåbro,200000 ,03-01-2019,Alm. Salg,115,1739.0,3,2022,
 707,Villa,Overbrovej 16,8586, Ørum Djurs,450000 ,03-01-2019,Alm. Salg,143,3147.0,6,1947,-9%
-707,Villa,Kyvsbjergvej 1,8444, Balle,2700000 ,27-12-2018,Alm. Salg,196,13776.0,4,1963,-7%
 707,Villa,Sandstumpvej 14,8500, Grenaa,745000 ,26-12-2018,Alm. Salg,72,10347.0,3,1959,
 707,Villa,Udsigten 25,8500, Grenaa,2550000 ,22-12-2018,Alm. Salg,191,13351.0,7,2003,-5%
 707,Villa,Lavendelvej 11,8500, Grenaa,1222000 ,20-12-2018,Alm. Salg,178,6865.0,6,1995,
@@ -2391,7 +2346,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Vintergækvej 21,8500, Grenaa,1370000 ,30-09-2018,Alm. Salg,144,9514.0,7,1979,-2%
 707,Villa,Åsbjergvej 11,8585, Glesborg,698000 ,30-09-2018,Alm. Salg,133,5248.0,4,1922,
 707,Villa,Møllevangen 32,8585, Glesborg,1299555 ,30-09-2018,Alm. Salg,198,6563.0,5,1986,
-707,Villa,Solsikkevej 26,8500, Grenaa,3700000 ,30-09-2018,Alm. Salg,269,13755.0,7,2009,-5%
 707,Villa,Knigaardvej 8,8586, Ørum Djurs,561041 ,26-09-2018,Fam. Salg,232,2418.0,6,1921,
 707,Villa,Møgelbjerg 23,8500, Grenaa,467850 ,26-09-2018,Alm. Salg,185,2529.0,5,2019,
 707,Villa,Møgelbjerg 14,8500, Grenaa,466651 ,26-09-2018,Alm. Salg,186,2509.0,5,2021,
@@ -2458,7 +2412,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Kastbjergvej 19,8585, Glesborg,1950000 ,09-08-2018,Alm. Salg,230,8478.0,8,1873,-2%
 707,Villa,Nørregade 3,8961, Allingåbro,575000 ,07-08-2018,Alm. Salg,152,3783.0,6,1896,
 707,Villa,Århusvej 4,8500, Grenaa,436382 ,07-08-2018,Auktion,169,2582.0,3,1910,
-707,Villa,Udbygårdevej 10,8961, Allingåbro,2350000 ,07-08-2018,Alm. Salg,168,13988.0,5,1977,-6%
 707,Ejerlejlighed,Fuglevænget 74E,8500, Grenaa,339000 ,06-08-2018,Alm. Salg,53,6396.0,2,1967,
 707,Villa,Åboulevarden 20,8500, Grenaa,1125000 ,06-08-2018,Alm. Salg,106,10613.0,4,1961,-6%
 707,Villa,Porsbakkevej 19,8963, Auning,547500 ,06-08-2018,Alm. Salg,166,3298.0,6,2020,
@@ -2738,7 +2691,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Nygårdsvej 8,8570, Trustrup,350000 ,25-01-2018,Alm. Salg,230,1522.0,7,1877,-11%
 707,Villa,Ørkenvej 4,8592, Anholt,295700 ,24-01-2018,Fam. Salg,70,4224.0,4,1887,
 707,Villa,Vestergade 42,8963, Auning,637500 ,24-01-2018,Fam. Salg,124,5141.0,4,1934,
-707,Ejerlejlighed,"Lillegade 23, 1",8500, Grenaa,1500000 ,23-01-2018,Alm. Salg,107,14019.0,4,1884,
 707,Villa,Bakken 9,8500, Grenaa,1255000 ,23-01-2018,Auktion,138,9094.0,4,2008,
 707,Ejerlejlighed,"Bavnehøjvej 4, 2. tv",8500, Grenaa,260000 ,22-01-2018,Alm. Salg,61,4262.0,3,1949,-26%
 707,Villa,Havneplads 5,8500, Grenaa,650000 ,22-01-2018,Alm. Salg,160,4063.0,5,1912,-16%
@@ -2778,7 +2730,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Rækkehus,Henrik Ibsens Vej 16,8500, Grenaa,935000 ,18-12-2017,Alm. Salg,104,8990.0,3,1973,
 707,Villa,Frejasvej 46,8500, Grenaa,650000 ,18-12-2017,Alm. Salg,96,6771.0,4,1962,
 707,Villa,Constantiavej 8,8586, Ørum Djurs,300000 ,18-12-2017,Alm. Salg,190,1579.0,4,1914,-13%
-707,Rækkehus,Åholmen 15,8500, Grenaa,1400000 ,17-12-2017,Alm. Salg,101,13861.0,3,2010,
 707,Villa,Hovedgaden 60,8963, Auning,350000 ,17-12-2017,Alm. Salg,128,2734.0,4,1958,-18%
 707,Rækkehus,Hovedgaden 38A,8963, Auning,375000 ,14-12-2017,Alm. Salg,136,2757.0,4,1880,
 707,Ejerlejlighed,"Vestervej 1, st. 4",8500, Grenaa,450000 ,14-12-2017,Fam. Salg,53,8491.0,2,1890,
@@ -3152,7 +3103,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Ejerlejlighed,"Engdalen 8, 1. th",8500, Grenaa,650000 ,29-03-2017,Alm. Salg,89,7303.0,3,1965,-6%
 707,Ejerlejlighed,"Blichersvej 19, st. tv",8500, Grenaa,400000 ,29-03-2017,Fam. Salg,93,4301.0,4,1962,
 707,Ejerlejlighed,"Blichersvej 19, st. th",8500, Grenaa,390000 ,29-03-2017,Fam. Salg,78,5000.0,3,1962,
-707,Villa,Østergade 6A,8963, Auning,525333 ,29-03-2017,Alm. Salg,62,8473.0,3,1907,
 707,Villa,Østerled 9,8961, Allingåbro,427999 ,28-03-2017,Fam. Salg,110,3891.0,5,1949,
 707,Villa,Svalevej 8,8500, Grenaa,1050000 ,28-03-2017,Alm. Salg,143,7343.0,5,1967,6%
 707,Rækkehus,Henrik Ibsens Vej 9,8500, Grenaa,998000 ,23-03-2017,Alm. Salg,130,7677.0,4,1976,
@@ -3196,7 +3146,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Tøjstrupvej 11,8961, Allingåbro,560000 ,19-02-2017,Alm. Salg,93,6022.0,3,1957,-7%
 707,Villa,Enghegnet 10,8500, Grenaa,716000 ,17-02-2017,Alm. Salg,102,7020.0,4,1965,
 707,Villa,Rådmandsvej 18,8500, Grenaa,1435000 ,13-02-2017,Alm. Salg,230,6239.0,8,1977,-3%
-707,Villa,Humlebakken 2,8500, Grenaa,2135000 ,13-02-2017,Alm. Salg,153,13954.0,6,2009,-3%
 707,Villa,Grønland 32,8500, Grenaa,1300000 ,12-02-2017,Alm. Salg,170,7647.0,7,1900,-4%
 707,Villa,Kløvervangen 8,8961, Allingåbro,1125000 ,11-02-2017,Alm. Salg,161,6988.0,6,1998,-6%
 707,Villa,Sommerlyst 1,8500, Grenaa,1360000 ,08-02-2017,Alm. Salg,122,11148.0,4,1981,-5%
@@ -3276,7 +3225,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Åstrupparken 4,8500, Grenaa,646000 ,24-11-2016,Andet,169,3822.0,5,1980,
 707,Rækkehus,Østerbrogade 37,8500, Grenaa,1150000 ,23-11-2016,Alm. Salg,97,11856.0,3,1904,-23%
 707,Ejerlejlighed,Fuglevænget 72D,8500, Grenaa,325000 ,23-11-2016,Alm. Salg,53,6132.0,2,1967,-6%
-707,Villa,Østervangs Alle 80,8963, Auning,2245000 ,23-11-2016,Alm. Salg,160,14031.0,5,2005,-2%
 707,Villa,Toftevej 9,8500, Grenaa,300000 ,23-11-2016,Alm. Salg,105,2857.0,3,1967,
 707,Villa,Glesborg Bygade 69,8585, Glesborg,1045000 ,23-11-2016,Alm. Salg,156,6699.0,5,1915,-5%
 707,Rækkehus,Åholmen 3,8500, Grenaa,1114500 ,22-11-2016,Fam. Salg,101,11035.0,3,2010,
@@ -3349,7 +3297,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Skovkanten 11,8500, Grenaa,1795000 ,10-10-2016,Alm. Salg,244,7357.0,6,1962,-14%
 707,Villa,Fyrreparken 10,8961, Allingåbro,1075000 ,09-10-2016,Alm. Salg,169,6361.0,4,1965,-2%
 707,Villa,Æblerosevej 47,8500, Grenaa,1425000 ,08-10-2016,Alm. Salg,120,11875.0,5,1987,
-707,Villa,Bellisvej 12,8500, Grenaa,1975000 ,08-10-2016,Alm. Salg,144,13715.0,3,1966,
 707,Villa,Vestvej 6,8950, Ørsted,1095000 ,07-10-2016,Alm. Salg,175,6257.0,7,1976,-4%
 707,Villa,Allelev Sund 10A,8570, Trustrup,450000 ,06-10-2016,Alm. Salg,125,3600.0,3,1930,
 707,Villa,Søndergade 87,8961, Allingåbro,98670 ,05-10-2016,Alm. Salg,132,748.0,4,2017,
@@ -3407,7 +3354,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Hybenbakken 10,8500, Grenaa,820000 ,30-08-2016,Alm. Salg,110,7455.0,2,1961,-7%
 707,Villa,Lillegade 17,8950, Ørsted,430000 ,29-08-2016,Alm. Salg,83,5181.0,5,1907,-8%
 707,Villa,Sønderbro 3,8500, Grenaa,1285000 ,29-08-2016,Andet,175,7343.0,4,1992,
-707,Villa,Humlebakken 3,8500, Grenaa,2850000 ,29-08-2016,Alm. Salg,205,13902.0,6,2009,-2%
 707,Villa,Ndr Fælledvej 16,8963, Auning,1100000 ,28-08-2016,Alm. Salg,112,9821.0,4,1965,-8%
 707,Villa,Hvedemarksvej 4,8950, Ørsted,335000 ,26-08-2016,Alm. Salg,124,2702.0,4,1976,-4%
 707,Ejerlejlighed,"Bavnehøjvej 4, st. th",8500, Grenaa,300000 ,25-08-2016,Alm. Salg,67,4478.0,3,1949,-24%
@@ -3504,7 +3450,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Djursgade 53,8500, Grenaa,585132 ,20-06-2016,Alm. Salg,101,5793.0,3,1950,
 707,Villa,Dr Louise Vej 20,8500, Grenaa,995000 ,20-06-2016,Alm. Salg,110,9045.0,5,1910,
 707,Villa,Rosenbakken 15,8500, Grenaa,1950000 ,20-06-2016,Alm. Salg,240,8125.0,8,1954,-2%
-707,Villa,Ålsrodevej 66,8500, Grenaa,2000000 ,19-06-2016,Alm. Salg,146,13699.0,4,1928,
 707,Villa,Rolighedsvej 5,8500, Grenaa,995000 ,19-06-2016,Alm. Salg,150,6633.0,5,1961,-9%
 707,Villa,Myntevej 28,8500, Grenaa,734000 ,19-06-2016,Alm. Salg,146,5027.0,5,2006,
 707,Villa,Skolestræde 3,8500, Grenaa,915000 ,16-06-2016,Alm. Salg,81,11296.0,3,1908,-3%
@@ -3557,7 +3502,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Østervangsvej 11A,8961, Allingåbro,995000 ,15-05-2016,Alm. Salg,179,5559.0,5,1934,
 707,Villa,Glesborg Bygade 50,8585, Glesborg,550000 ,14-05-2016,Alm. Salg,129,4264.0,4,1974,-8%
 707,Rækkehus,Baldursvej 31,8500, Grenaa,995000 ,11-05-2016,Alm. Salg,118,8432.0,4,1978,-9%
-707,Villa,Moselunden 53,8963, Auning,3000000 ,09-05-2016,Alm. Salg,219,13699.0,5,2013,
 707,Villa,Ndr Fælledvej 33,8963, Auning,680799 ,08-05-2016,Fam. Salg,108,6304.0,4,1966,
 707,Ejerlejlighed,Fuglevænget 74E,8500, Grenaa,340000 ,03-05-2016,Alm. Salg,53,6415.0,2,1967,-3%
 707,Villa,Havnevej 139,8500, Grenaa,235000 ,03-05-2016,Alm. Salg,99,2374.0,3,2017,-20%
@@ -3799,7 +3743,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Åsbjergvej 9,8585, Glesborg,350000 ,18-10-2015,Alm. Salg,122,2869.0,5,1912,-29%
 707,Villa,Sandstumpvej 26,8500, Grenaa,1180000 ,18-10-2015,Alm. Salg,150,7867.0,5,1960,-2%
 707,Villa,Østerbro 7,8570, Trustrup,435000 ,18-10-2015,Alm. Salg,107,4065.0,3,1967,-8%
-707,Villa,Østervangs Alle 34,8963, Auning,1495000 ,17-10-2015,Alm. Salg,107,13972.0,4,1988,
 707,Villa,Gl Kirkevej 13,8961, Allingåbro,800000 ,14-10-2015,Alm. Salg,115,6957.0,4,1953,-6%
 707,Villa,Skovgårdevej 10,8961, Allingåbro,360000 ,12-10-2015,Fam. Salg,130,2769.0,5,1962,
 707,Ejerlejlighed,Fuglevænget 82D,8500, Grenaa,198000 ,11-10-2015,Alm. Salg,40,4950.0,1,1967,
@@ -3891,7 +3834,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Østervangs Alle 32,8963, Auning,1075000 ,04-08-2015,Alm. Salg,113,9513.0,5,1987,-4%
 707,Villa,Øster Allé 15,8500, Grenaa,1285000 ,03-08-2015,Alm. Salg,120,10708.0,4,1927,
 707,Villa,Huldremosevej 19,8586, Ørum Djurs,700000 ,03-08-2015,Alm. Salg,115,6087.0,6,1925,
-707,Villa,Nordkystvejen 1F,8961, Allingåbro,1220000 ,02-08-2015,Alm. Salg,145,8414.0,6,1916,-4%
 707,Rækkehus,Rougsøvej 278,8950, Ørsted,690000 ,30-07-2015,Fam. Salg,138,5000.0,5,1777,
 707,Rækkehus,Havneplads 9,8500, Grenaa,885000 ,28-07-2015,Alm. Salg,139,6367.0,3,1900,-1%
 707,Villa,Mågevej 7,8500, Grenaa,825000 ,26-07-2015,Fam. Salg,85,9706.0,3,1964,
@@ -3940,7 +3882,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Havrevej 3,8586, Ørum Djurs,740000 ,24-06-2015,Alm. Salg,129,5736.0,4,1979,-5%
 707,Villa,Østervangs Alle 19,8963, Auning,704487 ,24-06-2015,Andet,171,4120.0,6,1970,
 707,Villa,De Lichtenbergs Vej 30,8500, Grenaa,925000 ,24-06-2015,Alm. Salg,111,8333.0,5,1962,-3%
-707,Villa,Sommerlyst 93,8500, Grenaa,2860000 ,20-06-2015,Alm. Salg,203,14089.0,6,1995,-5%
 707,Villa,Århusvej 52,8963, Auning,350000 ,17-06-2015,Alm. Salg,107,3271.0,4,1940,-11%
 707,Villa,Birkebakken 6,8963, Auning,417500 ,16-06-2015,Fam. Salg,273,1382.0,9,1966,
 707,Villa,Østervangsvej 23,8961, Allingåbro,250000 ,16-06-2015,Alm. Salg,126,1984.0,4,1830,
@@ -4062,7 +4003,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Ahornvej 3,8963, Auning,550000 ,16-03-2015,Alm. Salg,160,3438.0,5,1967,-39%
 707,Villa,Østervangs Alle 25,8963, Auning,1385000 ,16-03-2015,Alm. Salg,128,10820.0,4,1972,-1%
 707,Villa,Nordkystvejen 42,8961, Allingåbro,2100000 ,16-03-2015,Alm. Salg,160,13125.0,5,1850,-24%
-707,Rækkehus,Hovedgaden 19,8961, Allingåbro,300000 ,15-03-2015,Alm. Salg,76,3947.0,2,2016,
 707,Villa,Strandvejen 12,8585, Glesborg,450000 ,15-03-2015,Alm. Salg,96,4688.0,2,1969,
 707,Villa,Toften 5,8500, Grenaa,774000 ,12-03-2015,Andet,183,4230.0,7,1972,
 707,Villa,Engdalen 23,8500, Grenaa,1125000 ,12-03-2015,Alm. Salg,148,7601.0,5,1966,-6%
@@ -4249,7 +4189,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Niels Juels Vej 11,8500, Grenaa,450000 ,09-10-2014,Alm. Salg,122,3689.0,5,1962,-9%
 707,Villa,Gjesingvej 5A,8963, Auning,720000 ,09-10-2014,Alm. Salg,122,5902.0,5,1956,-9%
 707,Ejerlejlighed,"Fuglevænget 29, 2. tv",8500, Grenaa,625000 ,08-10-2014,Alm. Salg,88,7102.0,4,1968,-4%
-707,Villa,Klitvej 120,8585, Glesborg,2700000 ,08-10-2014,Alm. Salg,193,13990.0,5,1906,-15%
 707,Villa,Hjortebakken 8,8500, Grenaa,567500 ,06-10-2014,Alm. Salg,117,4850.0,4,2005,
 707,Villa,Engdraget 15,8500, Grenaa,425000 ,06-10-2014,Alm. Salg,64,6641.0,2,1949,-6%
 707,Villa,Lundenvej 13,8585, Glesborg,825000 ,05-10-2014,Alm. Salg,170,4853.0,5,1909,
@@ -4299,7 +4238,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Hovedgaden 12,8963, Auning,1000000 ,26-08-2014,Alm. Salg,104,9615.0,4,1920,
 707,Villa,Slettenvej 7,8560, Kolind,595000 ,26-08-2014,Alm. Salg,200,2975.0,6,1914,-6%
 707,Villa,Lillegade 51,8500, Grenaa,620000 ,26-08-2014,Alm. Salg,106,5849.0,3,1800,-11%
-707,Villa,Hovedgaden 30,8961, Allingåbro,2000000 ,26-08-2014,Alm. Salg,175,11429.0,8,1912,
 707,Ejerlejlighed,"Havnevej 152A, st. th",8500, Grenaa,530000 ,24-08-2014,Alm. Salg,101,5248.0,4,1960,-8%
 707,Villa,Askhøjvej 9,8570, Trustrup,465000 ,24-08-2014,Alm. Salg,118,3941.0,5,1964,
 707,Villa,Fjellerup Bygade 8,8585, Glesborg,225000 ,22-08-2014,Alm. Salg,97,2320.0,5,1900,
@@ -4581,7 +4519,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Vesterled 5,8950, Ørsted,790000 ,24-11-2013,Alm. Salg,117,6752.0,4,1977,-4%
 707,Villa,Liltvedvej 36,8963, Auning,87001 ,21-11-2013,Andet,100,870.0,3,1880,
 707,Villa,Århusvej 92A,8500, Grenaa,527000 ,21-11-2013,Fam. Salg,145,3634.0,5,1946,
-707,Rækkehus,Hovedgaden 19,8961, Allingåbro,300000 ,20-11-2013,Alm. Salg,76,3947.0,2,2016,
 707,Rækkehus,Østervangsvej 20,8961, Allingåbro,230000 ,20-11-2013,Fam. Salg,72,3194.0,3,1850,
 707,Villa,Hjorteengen 4,8500, Grenaa,1395000 ,19-11-2013,Alm. Salg,104,13413.0,4,2013,
 707,Villa,Veggerslevvej 71,8500, Grenaa,825000 ,18-11-2013,Alm. Salg,180,4583.0,6,1907,
@@ -4691,7 +4628,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Laenvej 2,8585, Glesborg,250000 ,22-07-2013,Alm. Salg,102,2451.0,4,1935,-15%
 707,Villa,Veggerslevvej 1,8500, Grenaa,900000 ,21-07-2013,Alm. Salg,114,7895.0,3,1893,-5%
 707,Ejerlejlighed,"Havnevej 154, 1. th",8500, Grenaa,535000 ,17-07-2013,Alm. Salg,101,5297.0,4,1960,-10%
-707,Villa,Kare Engvej 9,8950, Ørsted,1800000 ,17-07-2013,Fam. Salg,253,7115.0,3,1994,
 707,Villa,Sandvej 1,8963, Auning,1150000 ,17-07-2013,Fam. Salg,130,8846.0,4,1968,
 707,Villa,Niels Juels Vej 39,8500, Grenaa,630000 ,16-07-2013,Alm. Salg,110,5727.0,3,1934,-7%
 707,Villa,Fjellerup Bygade 30,8585, Glesborg,795281 ,15-07-2013,Alm. Salg,177,4493.0,6,2011,
@@ -4911,7 +4847,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Hesselager 3,8500, Grenaa,1050000 ,08-01-2013,Auktion,228,4605.0,5,1927,
 707,Villa,Neergårdsdalvej 13,8500, Grenaa,770500 ,08-01-2013,Alm. Salg,172,4480.0,5,1978,-41%
 707,Villa,Firhøjevej 13,8963, Auning,900000 ,07-01-2013,Alm. Salg,240,3750.0,8,1884,
-707,Villa,Storegade 37,8500, Grenaa,450000 ,07-01-2013,Alm. Salg,130,3462.0,3,1904,
 707,Villa,Primulavej 25,8500, Grenaa,1850000 ,03-01-2013,Alm. Salg,185,10000.0,5,1972,-5%
 707,Villa,Vestervænget 4,8963, Auning,900000 ,02-01-2013,Alm. Salg,125,7200.0,4,1978,
 707,Villa,Laenvej 55,8585, Glesborg,239000 ,02-01-2013,Alm. Salg,223,996.0,6,1900,
@@ -5034,7 +4969,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Hemmedvej 61,8585, Glesborg,3100 ,23-09-2012,Alm. Salg,132,23.0,3,1775,
 707,Villa,Skovlundsvej 3,8963, Auning,800000 ,21-09-2012,Alm. Salg,224,3571.0,8,2008,
 707,Ejerlejlighed,Havnevej 140F,8500, Grenaa,375000 ,20-09-2012,Alm. Salg,85,4412.0,3,1964,-5%
-707,Villa,Kirkevej 4,8963, Auning,2240000 ,20-09-2012,Alm. Salg,420,5333.0,11,2022,-16%
 707,Villa,Hasselbakken 29,8500, Grenaa,1585000 ,20-09-2012,Alm. Salg,134,11828.0,4,1984,
 707,Villa,Rougsøvej 159,8950, Ørsted,550000 ,19-09-2012,Alm. Salg,106,5189.0,4,1967,-8%
 707,Villa,Gjerrild Bygade 25,8500, Grenaa,175000 ,18-09-2012,Alm. Salg,108,1620.0,3,1904,-30%
@@ -5058,7 +4992,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Toftevej 1,8961, Allingåbro,725000 ,01-09-2012,Alm. Salg,124,5847.0,5,1972,-13%
 707,Villa,Lykkesholmvej 2B,8570, Trustrup,290000 ,30-08-2012,Alm. Salg,108,2685.0,4,1921,-23%
 707,Villa,Stenvadvej 6,8586, Ørum Djurs,529000 ,30-08-2012,Fam. Salg,79,6696.0,2,1981,
-707,Villa,Glatvedvej 28,8444, Balle,2750000 ,30-08-2012,Alm. Salg,285,9649.0,7,2011,
 707,Villa,Århusvej 23,8500, Grenaa,700000 ,29-08-2012,Alm. Salg,114,6140.0,4,1968,-6%
 707,Villa,Sølystvej 2,8961, Allingåbro,850000 ,29-08-2012,Alm. Salg,137,6204.0,6,1900,-2%
 707,Ejerlejlighed,"Åkrogen 2J, st",8500, Grenaa,255000 ,28-08-2012,Alm. Salg,38,6711.0,1,1964,-2%
@@ -5168,7 +5101,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Glentevej 1,8500, Grenaa,950000 ,05-06-2012,Alm. Salg,137,6934.0,5,1940,-13%
 707,Villa,Hjortebakken 5,8500, Grenaa,1815000 ,05-06-2012,Alm. Salg,221,8213.0,5,2008,
 707,Ejerlejlighed,"Havnevej 152, 1",8500, Grenaa,530000 ,04-06-2012,Alm. Salg,101,5248.0,3,1960,-11%
-707,Villa,Nellikevej 40,8500, Grenaa,1800000 ,03-06-2012,Alm. Salg,128,14063.0,4,1988,-5%
 707,Villa,Birkholmvej 2,8585, Glesborg,937500 ,31-05-2012,Alm. Salg,73,12842.0,3,1993,-4%
 707,Villa,"Paradiset 8, st",8585, Glesborg,343800 ,29-05-2012,Alm. Salg,269,1278.0,8,2014,
 707,Villa,Ymersvej 2,8500, Grenaa,1020000 ,28-05-2012,Alm. Salg,167,6108.0,7,1969,
@@ -5244,7 +5176,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Erantisvej 13,8500, Grenaa,1775000 ,14-03-2012,Alm. Salg,151,11755.0,6,1971,-4%
 707,Villa,Sommerlyst 8C,8500, Grenaa,830000 ,14-03-2012,Alm. Salg,196,4235.0,8,1908,-10%
 707,Villa,Ådalen 1,8961, Allingåbro,1525000 ,14-03-2012,Alm. Salg,130,11731.0,5,2007,-8%
-707,Villa,Århusvej 6A,8963, Auning,762500 ,12-03-2012,Fam. Salg,90,5259.0,4,1904,
 707,Villa,Duevej 6,8500, Grenaa,1535000 ,11-03-2012,Alm. Salg,144,10660.0,4,1967,
 707,Villa,Ellebjergvej 7,8500, Grenaa,650000 ,11-03-2012,Alm. Salg,144,4514.0,4,1969,-52%
 707,Villa,Laenvej 11,8585, Glesborg,1520000 ,09-03-2012,Alm. Salg,179,8492.0,6,1950,-5%
@@ -5292,7 +5223,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,August Kroghs Vej 117,8500, Grenaa,1450000 ,08-02-2012,Alm. Salg,165,8788.0,5,1971,-3%
 707,Rækkehus,Henrik Ibsens Vej 24,8500, Grenaa,1440000 ,06-02-2012,Alm. Salg,120,12000.0,4,1972,-10%
 707,Villa,Fægangsvej 41,8585, Glesborg,625000 ,05-02-2012,Alm. Salg,104,6010.0,4,1969,-16%
-707,Villa,Åstrupvej 5,8500, Grenaa,1725000 ,02-02-2012,Alm. Salg,124,13911.0,5,1939,-3%
 707,Villa,Bygaden 26,8592, Anholt,1045000 ,02-02-2012,Alm. Salg,101,10347.0,5,1948,
 707,Villa,Buevej 2,8961, Allingåbro,690000 ,01-02-2012,Alm. Salg,150,4600.0,4,1954,
 707,Villa,Ågade 11,8500, Grenaa,1400000 ,31-01-2012,Alm. Salg,162,8642.0,6,1949,
@@ -5347,8 +5277,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Langgade 2,8961, Allingåbro,920000 ,11-12-2011,Alm. Salg,246,3740.0,8,1938,
 707,Villa,Tranehusevej 10,8585, Glesborg,420000 ,08-12-2011,Fam. Salg,126,3333.0,5,1953,
 707,Villa,Bendsvej 3,8950, Ørsted,835000 ,08-12-2011,Alm. Salg,180,4639.0,6,2013,-12%
-707,Ejerlejlighed,Havet 38,8585, Glesborg,775000 ,07-12-2011,Alm. Salg,59,13136.0,2,1914,-43%
-707,Villa,Havet 40,8585, Glesborg,775000 ,07-12-2011,Alm. Salg,100,7750.0,3,1914,-43%
 707,Villa,Stadion Allé 7,8500, Grenaa,396981 ,07-12-2011,Alm. Salg,123,3227.0,4,1988,
 707,Villa,Sorvadgårdvej 6,8961, Allingåbro,897500 ,07-12-2011,Fam. Salg,136,6599.0,6,1930,
 707,Villa,Pilevænget 28,8961, Allingåbro,1285000 ,06-12-2011,Alm. Salg,124,10363.0,4,1986,-8%
@@ -5479,7 +5407,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Rækkehus,Fuglsangparken 1,8500, Grenaa,845000 ,23-08-2011,Alm. Salg,85,9941.0,4,1979,
 707,Ejerlejlighed,"Blichersvej 15, st. th",8500, Grenaa,425000 ,23-08-2011,Alm. Salg,93,4570.0,4,1962,-6%
 707,Villa,Stenvad Bygade 54,8586, Ørum Djurs,377330 ,23-08-2011,Fam. Salg,111,3399.0,4,1925,
-707,Villa,Østervangs Alle 75,8963, Auning,2100000 ,23-08-2011,Alm. Salg,151,13907.0,5,2001,0%
 707,Villa,Skolegade 4,8570, Trustrup,310000 ,18-08-2011,Alm. Salg,132,2348.0,9,1950,-22%
 707,Villa,Søndergade 47,8961, Allingåbro,705000 ,17-08-2011,Alm. Salg,112,6295.0,4,1986,
 707,Villa,Klibovænget 48,8963, Auning,1300000 ,17-08-2011,Alm. Salg,120,10833.0,4,1986,
@@ -5534,7 +5461,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Hestehavevej 22,8500, Grenaa,1460000 ,06-07-2011,Alm. Salg,256,5448.0,8,1974,-13%
 707,Villa,Tøjstrupvej 6,8961, Allingåbro,2794050 ,06-07-2011,Alm. Salg,289,9668.0,6,0,
 707,Villa,Brovej 10,8585, Glesborg,1149000 ,06-07-2011,Alm. Salg,117,9821.0,3,1981,
-707,Rækkehus,Havnevej 42A,8500, Grenaa,1305000 ,05-07-2011,Auktion,120,10875.0,4,1911,
 707,Villa,Annexvej 2,8500, Grenaa,560500 ,05-07-2011,Fam. Salg,160,3503.0,7,1939,
 707,Villa,Humlevej 43,8500, Grenaa,1500000 ,05-07-2011,Alm. Salg,129,11628.0,4,1987,-9%
 707,Villa,Århusvej 196,8570, Trustrup,663024 ,04-07-2011,Alm. Salg,197,3366.0,6,1927,
@@ -5651,7 +5577,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Svanegårdsvej 5,8586, Ørum Djurs,960000 ,25-03-2011,Alm. Salg,138,6957.0,4,1978,-4%
 707,Villa,Kanalvej 10,8500, Grenaa,900000 ,22-03-2011,Auktion,156,5769.0,9,1887,
 707,Villa,Lillegade 23,8950, Ørsted,445000 ,22-03-2011,Alm. Salg,90,4944.0,3,1900,-10%
-707,Villa,Bolthersvej 8,8585, Glesborg,1295000 ,22-03-2011,Alm. Salg,95,13632.0,3,2006,
 707,Villa,Fjordvej 9,8950, Ørsted,675000 ,22-03-2011,Alm. Salg,125,5400.0,5,1968,
 707,Villa,Stokkebro 69,8500, Grenaa,1120000 ,21-03-2011,Alm. Salg,145,7724.0,4,1917,-5%
 707,Villa,Birkedalvej 7,8500, Grenaa,610000 ,21-03-2011,Alm. Salg,77,7922.0,3,1900,-11%
@@ -5857,7 +5782,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Stadion Alle 6,8963, Auning,1495000 ,10-10-2010,Alm. Salg,179,8352.0,5,1969,
 707,Villa,Tingvej 7,8950, Ørsted,1025000 ,07-10-2010,Alm. Salg,116,8836.0,3,1984,
 707,Villa,Århusvej 200,8570, Trustrup,675000 ,07-10-2010,Alm. Salg,111,6081.0,2,1943,-3%
-707,Ejerlejlighed,Hovedgaden 51,8961, Allingåbro,1650536 ,05-10-2010,Andet,166,9943.0,9,1907,
 707,Villa,Hollandsbjergvej 18,8950, Ørsted,700000 ,05-10-2010,Alm. Salg,108,6481.0,3,1968,-12%
 707,Villa,Kirkebakken 22,8500, Grenaa,1275000 ,04-10-2010,Alm. Salg,128,9961.0,5,1998,-2%
 707,Villa,Åstrupvænget 3,8500, Grenaa,2070000 ,04-10-2010,Alm. Salg,240,8625.0,7,1972,-6%
@@ -6046,7 +5970,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Engvangen 15,8500, Grenaa,1300000 ,17-05-2010,Alm. Salg,190,6842.0,3,1965,-4%
 707,Rækkehus,Djursgade 9,8500, Grenaa,1000000 ,16-05-2010,Alm. Salg,100,10000.0,5,1917,-13%
 707,Villa,Bønnerupvej 75,8585, Glesborg,625000 ,16-05-2010,Andet,161,3882.0,6,1980,
-707,Villa,Åboulevarden 20,8500, Grenaa,1450000 ,16-05-2010,Alm. Salg,106,13679.0,4,1961,
 707,Villa,Duevej 30,8500, Grenaa,1075000 ,15-05-2010,Alm. Salg,118,9110.0,4,1968,-4%
 707,Villa,Engdraget 25,8500, Grenaa,1645000 ,13-05-2010,Alm. Salg,189,8704.0,6,1954,-3%
 707,Villa,Park Allé 3,8570, Trustrup,475000 ,11-05-2010,Auktion,101,4703.0,3,1901,-32%
@@ -6054,12 +5977,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Rækkehus,Nygade 11,8500, Grenaa,523231 ,10-05-2010,Alm. Salg,150,3488.0,6,1904,-56%
 707,Villa,Nørre Alle 10A,8950, Ørsted,775000 ,10-05-2010,Alm. Salg,115,6739.0,3,1984,-3%
 707,Villa,Vestervænget 16,8963, Auning,950000 ,09-05-2010,Alm. Salg,117,8120.0,4,1979,-5%
-707,Rækkehus,Henrik Ibsens Vej 50,8500, Grenaa,1600000 ,06-05-2010,Alm. Salg,115,13913.0,4,1972,-4%
 707,Villa,Hvedemarksvej 1,8950, Ørsted,150000 ,06-05-2010,Alm. Salg,245,612.0,7,1979,
 707,Villa,Toftevangen 20,8500, Grenaa,411000 ,06-05-2010,Alm. Salg,170,2418.0,5,2011,
 707,Villa,Hevringvej 18,8950, Ørsted,1300000 ,05-05-2010,Alm. Salg,165,7879.0,5,1775,-7%
 707,Villa,Solhøj 6,8961, Allingåbro,123000 ,05-05-2010,Alm. Salg,199,618.0,6,1973,
-707,Villa,Sommerlyst 91,8500, Grenaa,2200000 ,04-05-2010,Alm. Salg,158,13924.0,6,1969,-6%
 707,Rækkehus,Vinkelvej 29,8500, Grenaa,1090000 ,03-05-2010,Alm. Salg,90,12111.0,4,1971,-1%
 707,Ejerlejlighed,"Æblerosevej 17, 1. th",8500, Grenaa,900000 ,02-05-2010,Alm. Salg,98,9184.0,4,1981,-13%
 707,Villa,Mortensensvej 35,8963, Auning,1440000 ,02-05-2010,Alm. Salg,179,8045.0,6,1966,-3%
@@ -6109,7 +6030,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Lyngtoppen 4,8585, Glesborg,950000 ,21-03-2010,Alm. Salg,112,8482.0,4,1980,-5%
 707,Villa,Pilevej 12,8963, Auning,925000 ,18-03-2010,Alm. Salg,115,8043.0,5,1972,-3%
 707,Villa,Langgade 2,8961, Allingåbro,1840000 ,18-03-2010,Alm. Salg,246,7480.0,8,1938,-3%
-707,Villa,Firhøjevej 14,8963, Auning,2100000 ,17-03-2010,Alm. Salg,154,13636.0,5,1951,
 707,Villa,Lystrupvej 10,8961, Allingåbro,235000 ,15-03-2010,Alm. Salg,200,1175.0,6,1900,-20%
 707,Villa,Nellikevej 7,8500, Grenaa,2400000 ,15-03-2010,Alm. Salg,190,12632.0,6,1994,-8%
 707,Villa,Allingvej 3,8963, Auning,505700 ,15-03-2010,Alm. Salg,208,2431.0,7,1887,
@@ -6156,7 +6076,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Nyvangsvej 38,8963, Auning,1410000 ,12-02-2010,Alm. Salg,192,7344.0,5,1973,-3%
 707,Villa,Estruplundvej 62,8950, Ørsted,400000 ,11-02-2010,Alm. Salg,91,4396.0,3,1875,-6%
 707,Villa,Fjellerup Bygade 6,8585, Glesborg,366000 ,10-02-2010,Alm. Salg,81,4519.0,3,1937,-8%
-707,Rækkehus,Kølvej 40,8500, Grenaa,1200000 ,09-02-2010,Alm. Salg,87,13793.0,5,1951,
 707,Villa,Bønnerupvej 16,8585, Glesborg,900000 ,09-02-2010,Auktion,209,4306.0,5,1946,-18%
 707,Villa,Rougsøvej 160,8950, Ørsted,600000 ,09-02-2010,Alm. Salg,94,6383.0,3,1949,-14%
 707,Villa,Glesborg Bygade 24,8585, Glesborg,540000 ,08-02-2010,Auktion,196,2755.0,5,1920,-26%
@@ -6175,7 +6094,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Ådalsvej 10,8963, Auning,799000 ,28-01-2010,Alm. Salg,183,4366.0,6,1967,
 707,Villa,Havnevej 147,8500, Grenaa,530434 ,27-01-2010,Alm. Salg,122,4348.0,4,1907,
 707,Villa,Nordvej 12,8950, Ørsted,710000 ,27-01-2010,Alm. Salg,175,4057.0,6,1930,-11%
-707,Rækkehus,Henrik Ibsens Vej 43,8500, Grenaa,1770000 ,26-01-2010,Alm. Salg,130,13615.0,4,1975,
 707,Villa,Havet 34,8585, Glesborg,685000 ,26-01-2010,Alm. Salg,222,3086.0,3,2014,-31%
 707,Villa,Kvædevej 33,8500, Grenaa,1450000 ,25-01-2010,Alm. Salg,108,13426.0,4,1982,-2%
 707,Villa,Mortensensvej 6,8963, Auning,700000 ,24-01-2010,Fam. Salg,106,6604.0,4,1962,
@@ -6227,7 +6145,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Allestrupvej 14,8961, Allingåbro,154000 ,13-12-2009,Andet,157,981.0,5,2010,
 707,Villa,Markedsgade 32,8500, Grenaa,1100000 ,13-12-2009,Alm. Salg,120,9167.0,5,1921,-8%
 707,Villa,Sønder Homåvej 2,8570, Trustrup,950000 ,13-12-2009,Alm. Salg,112,8482.0,4,1927,-4%
-707,Villa,Åstrupvej 13,8500, Grenaa,2100000 ,12-12-2009,Alm. Salg,152,13816.0,7,1934,-9%
 707,Villa,Hovedgaden 42,8961, Allingåbro,850000 ,10-12-2009,Alm. Salg,110,7727.0,4,1908,-2%
 707,Villa,Ålsrodevej 2,8500, Grenaa,350000 ,09-12-2009,Alm. Salg,110,3182.0,4,1827,-11%
 707,Villa,Ndr Fælledvej 25,8963, Auning,400594 ,09-12-2009,Alm. Salg,117,3424.0,5,1962,
@@ -6279,7 +6196,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Rækkehus,Fuglsangparken 89,8500, Grenaa,651667 ,26-10-2009,Alm. Salg,85,7667.0,4,1979,
 707,Villa,Mølletoften 7,8570, Trustrup,715596 ,26-10-2009,Andet,135,5301.0,2,1852,
 707,Villa,Åboulevarden 1A,8500, Grenaa,1195000 ,26-10-2009,Alm. Salg,105,11381.0,4,1975,-8%
-707,Villa,Askhøjvej 4C,8570, Trustrup,750000 ,26-10-2009,Alm. Salg,106,7075.0,3,1919,
 707,Ejerlejlighed,"Rosengade 20, 1",8500, Grenaa,520000 ,25-10-2009,Alm. Salg,75,6933.0,3,1924,-10%
 707,Villa,Nordbakken 17,8570, Trustrup,330000 ,25-10-2009,Alm. Salg,175,1886.0,5,2010,
 707,Rækkehus,Østerbrogade 5A,8500, Grenaa,550000 ,22-10-2009,Alm. Salg,123,4472.0,4,1885,-8%
@@ -6464,7 +6380,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Pilevænget 49,8961, Allingåbro,1117500 ,12-05-2009,Auktion,143,7815.0,5,2006,
 707,Ejerlejlighed,Havnevej 146B,8500, Grenaa,625000 ,11-05-2009,Alm. Salg,83,7530.0,3,1964,
 707,Villa,Hyttenvej 5,8585, Glesborg,300000 ,11-05-2009,Alm. Salg,52,5769.0,2,1875,
-707,Villa,Firhøjevej 14,8963, Auning,2100000 ,11-05-2009,Fam. Salg,154,13636.0,5,1951,
 707,Villa,Havnevej 52,8500, Grenaa,1650000 ,11-05-2009,Alm. Salg,150,11000.0,4,1935,-8%
 707,Villa,Kanneshøjvej 35,8585, Glesborg,250000 ,11-05-2009,Alm. Salg,110,2273.0,3,1900,-17%
 707,Villa,Kanalvej 70,8500, Grenaa,1025000 ,10-05-2009,Alm. Salg,152,6743.0,4,1875,-5%
@@ -6556,10 +6471,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Århusvej 14,8961, Allingåbro,526783 ,02-03-2009,Alm. Salg,112,4703.0,4,1963,
 707,Villa,Møgelbjerg 75,8500, Grenaa,390316 ,01-03-2009,Alm. Salg,303,1288.0,6,2010,
 707,Villa,Skovsvinget 23,8500, Grenaa,1928003 ,27-02-2009,Alm. Salg,188,10255.0,8,1977,
-707,Villa,Hevringholmvej 18,8961, Allingåbro,1275000 ,25-02-2009,Fam. Salg,143,8916.0,4,1775,
 707,Villa,Søstien 6,8950, Ørsted,785000 ,25-02-2009,Alm. Salg,150,5233.0,4,1877,
 707,Villa,Jasminvej 8,8500, Grenaa,794061 ,25-02-2009,Andet,154,5156.0,5,1976,
-707,Rækkehus,Hovedgaden 19,8961, Allingåbro,250000 ,24-02-2009,Auktion,76,3289.0,2,2016,
 707,Villa,Rougsøvej 212,8950, Ørsted,407500 ,24-02-2009,Auktion,106,3844.0,3,1897,
 707,Villa,Langgade 11,8961, Allingåbro,335000 ,24-02-2009,Auktion,105,3190.0,3,1902,
 707,Villa,Glatved Strandvej 25,8444, Balle,825000 ,23-02-2009,Alm. Salg,93,8871.0,3,1877,
@@ -6663,7 +6576,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Laenvej 7,8585, Glesborg,700000 ,25-11-2008,Auktion,162,4321.0,5,2014,-39%
 707,Villa,Enghavevej 10,8500, Grenaa,1250000 ,25-11-2008,Alm. Salg,112,11161.0,5,1963,
 707,Villa,Moselunden 26,8963, Auning,358502 ,24-11-2008,Andet,200,1793.0,6,2011,
-707,Rækkehus,Henrik Ibsens Vej 53,8500, Grenaa,1660000 ,23-11-2008,Alm. Salg,122,13607.0,4,1974,-5%
 707,Villa,Vestervej 2,8961, Allingåbro,720000 ,23-11-2008,Alm. Salg,182,3956.0,6,1973,
 707,Villa,Bakkegårdsvej 21,8500, Grenaa,2500000 ,23-11-2008,Alm. Salg,194,12887.0,6,1916,
 707,Villa,Havnevej 103,8500, Grenaa,1100000 ,23-11-2008,Alm. Salg,113,9735.0,6,1890,
@@ -6766,7 +6678,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Mortensensvej 26A,8963, Auning,1800000 ,14-09-2008,Alm. Salg,167,10778.0,5,1987,
 707,Villa,Voer Færgevej 6,8950, Ørsted,480000 ,13-09-2008,Alm. Salg,80,6000.0,4,1877,
 707,Villa,Lyngbyvej 95,8570, Trustrup,615000 ,11-09-2008,Alm. Salg,131,4695.0,4,1867,
-707,Villa,Østervangs Alle 24,8963, Auning,1775000 ,11-09-2008,Alm. Salg,127,13976.0,4,1987,
 707,Villa,Solbakkevej 5,8500, Grenaa,571828 ,11-09-2008,Fam. Salg,106,5395.0,4,1937,
 707,Villa,Glesborg Bygade 32,8585, Glesborg,325000 ,10-09-2008,Alm. Salg,100,2642.0,5,1907,
 707,Villa,Ålsø Stationsvej 5,8500, Grenaa,1195000 ,10-09-2008,Alm. Salg,246,4858.0,7,1923,
@@ -6835,7 +6746,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Skyttevej 7,8950, Ørsted,747639 ,04-08-2008,Alm. Salg,142,5265.0,5,1967,
 707,Villa,Fjellerup Bygade 5,8585, Glesborg,1147500 ,02-08-2008,Fam. Salg,197,5825.0,6,1750,
 707,Rækkehus,Bredgade 27,8500, Grenaa,1075000 ,31-07-2008,Alm. Salg,140,7679.0,6,1919,
-707,Rækkehus,Storegade 33,8500, Grenaa,1375000 ,30-07-2008,Alm. Salg,166,8283.0,6,1876,
 707,Villa,Tårupvej 6,8963, Auning,1525000 ,29-07-2008,Alm. Salg,210,6517.0,9,1975,-4%
 707,Villa,Brombærvænget 27,8961, Allingåbro,244850 ,29-07-2008,Alm. Salg,150,1632.0,5,2009,
 707,Villa,Sønder Allé 42,8500, Grenaa,1575000 ,28-07-2008,Alm. Salg,149,10570.0,4,1969,
@@ -6865,7 +6775,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Thorsvej 3,8500, Grenaa,1550000 ,08-07-2008,Alm. Salg,122,12705.0,5,1962,
 707,Villa,Abildgårdsvej 6,8570, Trustrup,588000 ,07-07-2008,Fam. Salg,142,4141.0,3,1973,
 707,Villa,Voer Færgevej 1,8961, Allingåbro,578549 ,07-07-2008,Alm. Salg,191,3029.0,8,1910,
-707,Villa,Koralvej 18,8585, Glesborg,1200000 ,06-07-2008,Alm. Salg,87,13793.0,3,1986,-4%
 707,Villa,Rougsøvej 215B,8950, Ørsted,500000 ,03-07-2008,Alm. Salg,110,4545.0,6,1942,
 707,Villa,Gennem Landet 66,8592, Anholt,603500 ,02-07-2008,Fam. Salg,130,4642.0,4,1932,
 707,Villa,Niels Juels Vej 15,8500, Grenaa,1200000 ,02-07-2008,Alm. Salg,170,7059.0,5,1935,-4%
@@ -6878,7 +6787,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Møgelbjerg 38,8500, Grenaa,426501 ,30-06-2008,Alm. Salg,184,2318.0,5,2013,
 707,Rækkehus,Mikkel Vævers Vej 8,8500, Grenaa,400000 ,29-06-2008,Alm. Salg,100,4000.0,4,1911,-30%
 707,Ejerlejlighed,"Blichersvej 13, st. th",8500, Grenaa,755000 ,29-06-2008,Alm. Salg,91,8297.0,4,1962,-3%
-707,Villa,Dalstrupvej 13,8500, Grenaa,106460 ,29-06-2008,Alm. Salg,220,484.0,8,1909,
 707,Villa,Rougsøvej 38,8961, Allingåbro,525000 ,29-06-2008,Alm. Salg,120,4375.0,3,1876,-12%
 707,Villa,Humlevej 37,8500, Grenaa,1950000 ,29-06-2008,Alm. Salg,158,12342.0,4,1977,
 707,Villa,Møgelbjerg 63,8500, Grenaa,365200 ,29-06-2008,Alm. Salg,173,2111.0,6,2011,
@@ -6921,7 +6829,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Ejerlejlighed,Havnevej 136D,8500, Grenaa,435000 ,05-06-2008,Alm. Salg,68,6397.0,2,1964,
 707,Villa,Vestervej 6,8500, Grenaa,1850000 ,05-06-2008,Alm. Salg,189,9788.0,5,1914,
 707,Villa,Porsvej 5,8963, Auning,1380000 ,05-06-2008,Alm. Salg,202,6832.0,6,1942,
-707,Villa,Æblerosevej 55,8500, Grenaa,1450000 ,04-06-2008,Alm. Salg,104,13942.0,4,1987,
 707,Villa,Bybjergvej 1B,8961, Allingåbro,500000 ,04-06-2008,Alm. Salg,138,3623.0,5,1945,
 707,Villa,Rugvænget 20,8500, Grenaa,2300000 ,03-06-2008,Alm. Salg,295,7797.0,7,1977,
 707,Villa,Nordkystvejen 8A,8961, Allingåbro,935000 ,03-06-2008,Alm. Salg,167,5599.0,5,1890,
@@ -6980,7 +6887,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Parcelvej 12,8963, Auning,500000 ,11-05-2008,Andet,175,2703.0,6,1974,
 707,Villa,Moselunden 20,8963, Auning,357445 ,11-05-2008,Alm. Salg,150,2383.0,4,2009,
 707,Villa,Åparken 23,8500, Grenaa,1272500 ,09-05-2008,Alm. Salg,163,7807.0,6,1984,-2%
-707,Villa,Hestehaven 54,8500, Grenaa,1793000 ,07-05-2008,Alm. Salg,128,14008.0,5,1997,
 707,Villa,Æblerosevej 30,8500, Grenaa,1799000 ,06-05-2008,Alm. Salg,173,10399.0,5,1976,-5%
 707,Villa,Stenvad Bygade 2,8586, Ørum Djurs,900000 ,06-05-2008,Alm. Salg,250,3600.0,7,1893,
 707,Rækkehus,Grønland 29,8500, Grenaa,825000 ,05-05-2008,Alm. Salg,92,8967.0,4,1900,
@@ -6990,7 +6896,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Præstevænget 13,8961, Allingåbro,1015000 ,01-05-2008,Alm. Salg,131,7748.0,5,1978,-6%
 707,Villa,Åbrovej 31,8586, Ørum Djurs,675000 ,28-04-2008,Alm. Salg,70,9643.0,3,1907,-8%
 707,Villa,Solsikkevej 3,8961, Allingåbro,1020000 ,28-04-2008,Fam. Salg,122,8361.0,5,1986,
-707,Ejerlejlighed,Hovedgaden 27,8961, Allingåbro,1085000 ,27-04-2008,Alm. Salg,117,9274.0,3,1900,
 707,Villa,Potetevej 7,8963, Auning,584496 ,27-04-2008,Andet,138,4235.0,4,1976,
 707,Villa,Parcelvej 3,8963, Auning,518500 ,27-04-2008,Alm. Salg,120,4321.0,3,1974,
 707,Villa,Hasselbakken 27,8500, Grenaa,727500 ,27-04-2008,Alm. Salg,128,5684.0,4,1986,
@@ -7049,7 +6954,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Gartnervænget 1,8961, Allingåbro,1185000 ,03-04-2008,Alm. Salg,112,10580.0,4,1973,-1%
 707,Villa,Skrænten 1,8961, Allingåbro,1635000 ,03-04-2008,Alm. Salg,171,9561.0,4,1975,-4%
 707,Villa,Åstrupskrænten 15,8500, Grenaa,890065 ,03-04-2008,Alm. Salg,140,6358.0,5,1975,
-707,Ejerlejlighed,Hovedgaden 51,8961, Allingåbro,1600000 ,02-04-2008,Alm. Salg,166,9639.0,9,1907,
 707,Villa,Århusvej 72,8500, Grenaa,408890 ,02-04-2008,Alm. Salg,165,2478.0,6,1940,
 707,Villa,Tjørnegårdsparken 30,8570, Trustrup,653789 ,02-04-2008,Alm. Salg,208,3143.0,7,1977,
 707,Villa,Nygade 2H,8963, Auning,200000 ,02-04-2008,Alm. Salg,130,1538.0,4,1900,
@@ -7136,7 +7040,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Havnevej 11,8500, Grenaa,1400000 ,14-02-2008,Alm. Salg,112,12500.0,3,1902,-2%
 707,Villa,Lillegade 25,8950, Ørsted,775000 ,14-02-2008,Alm. Salg,85,9118.0,4,1963,-6%
 707,Villa,Næsgårdvej 10,8500, Grenaa,875000 ,14-02-2008,Alm. Salg,100,8750.0,2,1877,-2%
-707,Villa,Egernvej 7,8963, Auning,2300000 ,12-02-2008,Alm. Salg,167,13772.0,6,1987,
 707,Villa,Sandstumpvej 10,8500, Grenaa,900000 ,12-02-2008,Alm. Salg,78,11538.0,2,1961,-8%
 707,Villa,Hovedgaden 75,8961, Allingåbro,950000 ,11-02-2008,Alm. Salg,123,7724.0,6,1920,
 707,Villa,Odinsvej 22,8500, Grenaa,1030000 ,11-02-2008,Alm. Salg,93,11075.0,3,1966,-1%
@@ -7236,7 +7139,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Hemmed Kirkevej 5,8585, Glesborg,800000 ,27-12-2007,Fam. Salg,110,7273.0,4,1925,
 707,Villa,Stenvad Bygade 22,8586, Ørum Djurs,815000 ,26-12-2007,Alm. Salg,98,8316.0,3,1965,-1%
 707,Villa,Bygaden 5,8592, Anholt,800000 ,22-12-2007,Alm. Salg,170,4706.0,5,1880,
-707,Villa,Gustav Wieds Vej 3,8500, Grenaa,1957500 ,21-12-2007,Alm. Salg,143,13689.0,6,1972,-1%
 707,Villa,Hjembækvej 33,8500, Grenaa,1550000 ,20-12-2007,Alm. Salg,281,5516.0,3,1920,
 707,Villa,Østervangs Alle 46,8963, Auning,1885000 ,20-12-2007,Alm. Salg,146,12911.0,5,1989,
 707,Villa,Stenvad Bygade 24,8586, Ørum Djurs,1050000 ,20-12-2007,Alm. Salg,80,13125.0,3,1951,-2%
@@ -7262,7 +7164,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Ejerlejlighed,"Engdalen 8, 1. th",8500, Grenaa,700000 ,12-12-2007,Fam. Salg,89,7865.0,3,1965,
 707,Villa,H C Elgårds Vej 15,8961, Allingåbro,1100000 ,12-12-2007,Alm. Salg,137,8029.0,4,1979,
 707,Villa,Havet 50,8585, Glesborg,5000 ,11-12-2007,Alm. Salg,141,35.0,5,1880,
-707,Villa,Rosenbakken 11,8500, Grenaa,2090000 ,11-12-2007,Alm. Salg,152,13750.0,6,1957,-5%
 707,Villa,Herman Bangs Vej 10,8500, Grenaa,850000 ,11-12-2007,Fam. Salg,193,4404.0,8,1972,
 707,Ejerlejlighed,"Åkrogen 4D, st",8500, Grenaa,240000 ,10-12-2007,Alm. Salg,38,6316.0,1,1964,
 707,Villa,Gl Kirkevej 31,8961, Allingåbro,975000 ,10-12-2007,Alm. Salg,127,7677.0,5,1932,-2%
@@ -7368,7 +7269,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Strædet 1,8961, Allingåbro,600000 ,19-10-2007,Alm. Salg,130,4615.0,5,1880,-11%
 707,Rækkehus,Åkrogen 16,8500, Grenaa,1150000 ,17-10-2007,Alm. Salg,125,9200.0,6,1965,5%
 707,Villa,Hemmed Kirkevej 32,8500, Grenaa,750000 ,16-10-2007,Andet,157,4777.0,7,1932,-44%
-707,Villa,Rosenbakken 17,8500, Grenaa,2525000 ,16-10-2007,Alm. Salg,186,13575.0,6,1951,
 707,Villa,Voer Gade 10,8950, Ørsted,937186 ,15-10-2007,Alm. Salg,122,7682.0,3,1887,5%
 707,Villa,Århusvej 94,8500, Grenaa,245000 ,15-10-2007,Alm. Salg,150,1633.0,5,2010,
 707,Villa,Koralvej 32,8585, Glesborg,1350000 ,15-10-2007,Alm. Salg,109,12385.0,4,2008,
@@ -7422,7 +7322,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Sønder Allé 8,8500, Grenaa,1975000 ,20-09-2007,Alm. Salg,148,13345.0,5,1952,
 707,Villa,Rolighedsvej 2,8963, Auning,1375000 ,19-09-2007,Alm. Salg,110,12500.0,4,1925,
 707,Villa,Søren Quists Vej 5,8500, Grenaa,1250000 ,19-09-2007,Fam. Salg,145,8621.0,5,1885,
-707,Villa,Holbækgårdsvej 16,8950, Ørsted,2095000 ,19-09-2007,Alm. Salg,154,13604.0,6,1932,
 707,Villa,Århusvej 8,8500, Grenaa,1432000 ,17-09-2007,Alm. Salg,151,9483.0,5,1964,0%
 707,Villa,Bakken 9,8500, Grenaa,300000 ,17-09-2007,Alm. Salg,138,2174.0,4,2008,
 707,Ejerlejlighed,"Mellemstræde 5, st. th",8500, Grenaa,498000 ,14-09-2007,Alm. Salg,74,6730.0,2,1930,
@@ -7462,7 +7361,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Rougsøvej 237,8950, Ørsted,795000 ,02-09-2007,Alm. Salg,235,3383.0,6,1912,-11%
 707,Villa,Stokkebro 61,8500, Grenaa,1650000 ,01-09-2007,Alm. Salg,228,7237.0,6,1929,-11%
 707,Villa,Tingparken 81,8950, Ørsted,1210000 ,01-09-2007,Alm. Salg,113,10708.0,4,1989,-5%
-707,Villa,Fægangsvej 36,8585, Glesborg,510000 ,31-08-2007,Fam. Salg,37,13784.0,3,1960,
 707,Villa,Gjesingvej 16,8963, Auning,526795 ,30-08-2007,Alm. Salg,92,5726.0,3,1902,
 707,Villa,Soltoftevej 1,8963, Auning,1050000 ,30-08-2007,Alm. Salg,146,7192.0,5,1971,
 707,Villa,Mosevej 4,8950, Ørsted,1200000 ,29-08-2007,Fam. Salg,261,4598.0,8,2015,
@@ -7618,7 +7516,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Vanghavevej 3,8950, Ørsted,675000 ,17-06-2007,Alm. Salg,100,6750.0,4,1986,
 707,Villa,Estruplundvej 9,8950, Ørsted,950000 ,16-06-2007,Alm. Salg,175,5429.0,7,1998,
 707,Villa,Humlevej 23,8500, Grenaa,1995000 ,16-06-2007,Alm. Salg,190,10500.0,6,1977,
-707,Villa,Sygehusvej 4,8500, Grenaa,1565000 ,16-06-2007,Alm. Salg,113,13850.0,6,1934,
 707,Villa,Fladstrupvej 41,8570, Trustrup,700000 ,16-06-2007,Alm. Salg,92,7609.0,4,1907,
 707,Ejerlejlighed,"Æblerosevej 9, st. th",8500, Grenaa,850000 ,14-06-2007,Alm. Salg,84,10119.0,3,1978,-5%
 707,Villa,Hovedgaden 96,8961, Allingåbro,500000 ,14-06-2007,Alm. Salg,80,6250.0,2,1924,
@@ -7665,7 +7562,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Ryderne 2,8950, Ørsted,495000 ,20-05-2007,Alm. Salg,90,5500.0,3,1890,
 707,Villa,Hyacintvej 3,8585, Glesborg,1195000 ,20-05-2007,Alm. Salg,219,5457.0,6,1977,-5%
 707,Villa,Voer Færgevej 99,8950, Ørsted,290000 ,20-05-2007,Alm. Salg,117,2479.0,5,1877,-42%
-707,Villa,Nellikevej 5,8500, Grenaa,2150000 ,19-05-2007,Alm. Salg,155,13871.0,5,1995,-2%
 707,Villa,Moselunden 4,8963, Auning,309248 ,18-05-2007,Alm. Salg,181,1709.0,6,2011,
 707,Villa,Toften 15,8500, Grenaa,1100000 ,17-05-2007,Alm. Salg,126,8730.0,5,1975,
 707,Villa,Troldhøjvej 4,8500, Grenaa,800000 ,15-05-2007,Alm. Salg,99,8081.0,3,1775,-5%
@@ -7712,7 +7608,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Solhøj 18,8961, Allingåbro,1280000 ,30-04-2007,Alm. Salg,180,7111.0,6,1975,0%
 707,Villa,Ahornvej 15,8963, Auning,1170000 ,30-04-2007,Alm. Salg,152,7697.0,4,1971,-10%
 707,Villa,Solbakkevej 34,8500, Grenaa,1775000 ,30-04-2007,Alm. Salg,155,11452.0,4,1975,
-707,Rækkehus,Havnevej 42A,8500, Grenaa,1150000 ,29-04-2007,Alm. Salg,120,9583.0,4,1911,
 707,Rækkehus,Åhaven 12,8586, Ørum Djurs,100000 ,29-04-2007,Alm. Salg,83,1205.0,2,2008,
 707,Villa,Vestbakken 5,8586, Ørum Djurs,145000 ,29-04-2007,Alm. Salg,64,2266.0,2,1962,
 707,Villa,Hovedvejen 22,8500, Grenaa,1300000 ,28-04-2007,Alm. Salg,109,11927.0,2,1875,
@@ -7720,7 +7615,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Gartnerstien 6,8500, Grenaa,145000 ,27-04-2007,Alm. Salg,134,1082.0,4,2009,
 707,Villa,Gyvelbakken 19,8500, Grenaa,1175000 ,26-04-2007,Alm. Salg,110,10682.0,3,1951,
 707,Villa,Markvangen 4B,8963, Auning,1225000 ,26-04-2007,Alm. Salg,137,8942.0,6,1955,
-707,Villa,Sønder Allé 20,8500, Grenaa,1134955 ,25-04-2007,Alm. Salg,81,14012.0,4,1938,0%
 707,Villa,Tranehusevej 2,8585, Glesborg,1135000 ,25-04-2007,Alm. Salg,226,5022.0,7,1914,
 707,Villa,Energivej 18,8500, Grenaa,1700000 ,24-04-2007,Alm. Salg,169,7763.0,8,1983,
 707,Villa,Lillegade 16,8950, Ørsted,650000 ,24-04-2007,Alm. Salg,122,5328.0,5,1906,
@@ -7755,9 +7649,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Ejerlejlighed,Fuglevænget 78C,8500, Grenaa,245000 ,11-04-2007,Alm. Salg,40,6125.0,1,1967,-8%
 707,Villa,Søndervang 5,8570, Trustrup,1245000 ,11-04-2007,Alm. Salg,106,11745.0,4,1966,
 707,Villa,Østervangs Alle 59,8963, Auning,2350000 ,11-04-2007,Alm. Salg,189,12434.0,5,2004,-6%
-707,Rækkehus,Villavej 3A,8500, Grenaa,750000 ,10-04-2007,Alm. Salg,82,9146.0,4,1900,
 707,Ejerlejlighed,"Havnevej 152, 1",8500, Grenaa,650000 ,10-04-2007,Alm. Salg,101,6436.0,3,1960,
-707,Villa,Villavej 3B,8500, Grenaa,750000 ,10-04-2007,Alm. Salg,55,13636.0,3,1900,
 707,Villa,Udbygårdevej 7,8961, Allingåbro,500000 ,10-04-2007,Alm. Salg,96,5208.0,3,1953,
 707,Ejerlejlighed,"Vestergade 2A, 1",8961, Allingåbro,615000 ,09-04-2007,Alm. Salg,132,4659.0,4,1971,-2%
 707,Villa,Tingvej 3,8950, Ørsted,810000 ,08-04-2007,Alm. Salg,113,7168.0,5,1982,-5%
@@ -7773,7 +7665,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Solvej 1,8950, Ørsted,520000 ,02-04-2007,Fam. Salg,97,5361.0,4,1961,
 707,Villa,Dystrupvej 31,8586, Ørum Djurs,1265000 ,02-04-2007,Alm. Salg,154,8214.0,7,1910,
 707,Villa,Skovgårdevej 21,8961, Allingåbro,280000 ,01-04-2007,Alm. Salg,71,3944.0,3,1887,
-707,Villa,Ågade 13,8500, Grenaa,2380000 ,01-04-2007,Alm. Salg,175,13600.0,7,1922,
 707,Villa,Hardersmindevej 1,8963, Auning,1650000 ,01-04-2007,Alm. Salg,186,8871.0,5,1907,-11%
 707,Villa,Andkærvej 15,8570, Trustrup,475000 ,01-04-2007,Alm. Salg,90,5278.0,4,1893,
 707,Villa,Bodevej 24,8950, Ørsted,490000 ,31-03-2007,Alm. Salg,81,6049.0,3,1915,
@@ -7791,9 +7682,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Grenaavej 69,8500, Grenaa,1450000 ,27-03-2007,Alm. Salg,235,6170.0,6,1914,
 707,Villa,Vestersmindevej 13,8570, Trustrup,740000 ,27-03-2007,Alm. Salg,92,8043.0,3,1910,
 707,Villa,Digevej 1A,8950, Ørsted,1050000 ,27-03-2007,Alm. Salg,124,8468.0,5,1980,
-707,Rækkehus,Tværvejen 11,8961, Allingåbro,535000 ,25-03-2007,Alm. Salg,68,7868.0,1,1920,
 707,Rækkehus,Åhaven 5,8586, Ørum Djurs,100000 ,25-03-2007,Alm. Salg,108,926.0,3,2006,
-707,Ejerlejlighed,"Tværvejen 11, 1",8961, Allingåbro,535000 ,25-03-2007,Alm. Salg,46,11630.0,2,1920,
 707,Villa,Gjesingvej 16,8963, Auning,290000 ,25-03-2007,Fam. Salg,92,3152.0,3,1902,
 707,Villa,De Lichtenbergs Vej 48,8500, Grenaa,1200000 ,25-03-2007,Alm. Salg,111,10811.0,5,1962,
 707,Villa,Reimersvej 92,8963, Auning,1500000 ,23-03-2007,Alm. Salg,126,11905.0,4,1989,-5%
@@ -7879,7 +7768,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Ejerlejlighed,"Langgade 12B, st. 1",8961, Allingåbro,500000 ,04-02-2007,Alm. Salg,87,5747.0,3,1902,
 707,Villa,Telefonvejen 30,8585, Glesborg,500000 ,04-02-2007,Fam. Salg,85,5882.0,4,1945,
 707,Villa,Åparken 49,8500, Grenaa,475000 ,04-02-2007,Alm. Salg,136,3493.0,5,1984,
-707,Rækkehus,Storegade 33,8500, Grenaa,850000 ,03-02-2007,Fam. Salg,166,5120.0,6,1876,
 707,Villa,Grønnegade 24,8500, Grenaa,1075000 ,02-02-2007,Alm. Salg,124,8669.0,5,1949,
 707,Villa,Tolstrupvej 2,8500, Grenaa,940000 ,01-02-2007,Alm. Salg,121,7769.0,6,1954,-10%
 707,Villa,Rougsøvej 9,8961, Allingåbro,404754 ,31-01-2007,Fam. Salg,164,2468.0,6,1919,
@@ -8041,10 +7929,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Bavnehøjvej 7,8500, Grenaa,3350000 ,30-10-2006,Alm. Salg,277,12094.0,4,1936,
 707,Villa,Grenaavej 35,8500, Grenaa,310000 ,30-10-2006,Alm. Salg,156,1987.0,6,1905,
 707,Villa,Lasborgvej 5,8586, Ørum Djurs,1870000 ,30-10-2006,Alm. Salg,299,6254.0,6,1875,
-707,Rækkehus,Storegade 33,8500, Grenaa,205000 ,29-10-2006,Andet,166,1235.0,6,1876,
 707,Villa,Engvej 11A,8950, Ørsted,380000 ,29-10-2006,Alm. Salg,45,8444.0,3,1799,
 707,Villa,Gyvelskrænten 6,8961, Allingåbro,1350000 ,29-10-2006,Alm. Salg,124,10887.0,4,1985,
-707,Villa,Vestergade 2A,8500, Grenaa,205000 ,29-10-2006,Andet,45,4556.0,1,1876,
 707,Ejerlejlighed,"Bavnehøjvej 1, 2. th",8500, Grenaa,570000 ,26-10-2006,Alm. Salg,70,8143.0,3,1943,
 707,Ejerlejlighed,"Åkrogen 2E, st",8500, Grenaa,230000 ,26-10-2006,Alm. Salg,38,6053.0,1,1964,
 707,Ejerlejlighed,Fuglevænget 76F,8500, Grenaa,350000 ,26-10-2006,Alm. Salg,53,6604.0,2,1967,
@@ -8412,7 +8298,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Østervangs Alle 69,8963, Auning,1855000 ,27-05-2006,Alm. Salg,161,11522.0,7,2001,
 707,Ejerlejlighed,"Engdalen 8, 1. th",8500, Grenaa,680000 ,25-05-2006,Alm. Salg,89,7640.0,3,1965,
 707,Villa,Rougsøvej 32,8961, Allingåbro,2255000 ,24-05-2006,Alm. Salg,273,8260.0,12,1916,
-707,Villa,Estruplundvej 30,8950, Ørsted,1375000 ,24-05-2006,Alm. Salg,180,7639.0,7,1943,
 707,Villa,Lillegade 17,8950, Ørsted,530000 ,23-05-2006,Alm. Salg,83,6386.0,5,1907,
 707,Ejerlejlighed,"Fuglevænget 21, st. tv",8500, Grenaa,560000 ,21-05-2006,Alm. Salg,76,7368.0,3,1968,
 707,Villa,Søndermarksvej 3,8961, Allingåbro,830000 ,21-05-2006,Alm. Salg,120,6917.0,4,1962,
@@ -8589,9 +8474,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Skyttevej 23,8950, Ørsted,480250 ,13-03-2006,Andet,239,2009.0,6,1972,
 707,Villa,Hollandsbjergvej 60,8950, Ørsted,810000 ,13-03-2006,Alm. Salg,152,5329.0,4,1890,
 707,Ejerlejlighed,"Skolestræde 5, 1. tv",8500, Grenaa,525000 ,12-03-2006,Alm. Salg,78,6731.0,2,1908,
-707,Ejerlejlighed,"Rougsøvej 132, st",8950, Ørsted,1280000 ,12-03-2006,Alm. Salg,109,11743.0,3,1902,
-707,Ejerlejlighed,"Rougsøvej 132, 1",8950, Ørsted,1280000 ,12-03-2006,Alm. Salg,120,10667.0,3,1902,
-707,Ejerlejlighed,Storegade 2,8950, Ørsted,1280000 ,12-03-2006,Alm. Salg,109,11743.0,3,1902,
 707,Villa,Århusvej 114,8500, Grenaa,510927 ,12-03-2006,Fam. Salg,162,1950.0,8,1956,
 707,Villa,Birkedalvej 11,8500, Grenaa,280000 ,12-03-2006,Alm. Salg,172,1628.0,3,1914,
 707,Villa,Bavnehøjvej 7,8500, Grenaa,3050000 ,12-03-2006,Alm. Salg,277,11011.0,4,1936,
@@ -8638,7 +8520,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Århusvej 1,8500, Grenaa,1787500 ,26-02-2006,Alm. Salg,204,8762.0,6,1918,
 707,Villa,Pilevej 13,8963, Auning,130000 ,25-02-2006,Alm. Salg,112,1161.0,4,2006,
 707,Ejerlejlighed,Fuglevænget 68B,8500, Grenaa,336125 ,24-02-2006,Alm. Salg,53,6342.0,2,1967,
-707,Villa,Århusvej 76,8500, Grenaa,1425000 ,24-02-2006,Alm. Salg,120,11875.0,5,1939,
 707,Villa,Revnvej 21,8500, Grenaa,360000 ,24-02-2006,Fam. Salg,142,2535.0,4,1827,
 707,Villa,Klitvej 96,8585, Glesborg,520000 ,24-02-2006,Fam. Salg,66,7879.0,3,1905,
 707,Villa,Storegade 17,8950, Ørsted,372000 ,23-02-2006,Andet,120,3100.0,6,1900,
@@ -8951,9 +8832,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Solsikkevej 12,8961, Allingåbro,805000 ,16-10-2005,Alm. Salg,103,7816.0,4,1991,
 707,Villa,Østervangs Alle 102,8963, Auning,241073 ,16-10-2005,Alm. Salg,156,1545.0,6,2006,
 707,Villa,Nordkanalvej 8,8500, Grenaa,365000 ,14-10-2005,Fam. Salg,219,1667.0,6,1906,
-707,Rækkehus,Storegade 33,8500, Grenaa,435000 ,13-10-2005,Alm. Salg,166,2620.0,6,1876,
 707,Villa,Østervangs Alle 114,8963, Auning,226569 ,13-10-2005,Alm. Salg,188,1205.0,6,2006,
-707,Villa,Vestergade 2A,8500, Grenaa,435000 ,13-10-2005,Alm. Salg,45,9667.0,1,1876,
 707,Villa,Kare Engvej 2,8950, Ørsted,475000 ,12-10-2005,Alm. Salg,139,3417.0,5,1932,
 707,Villa,Fuglebækvej 15,8570, Trustrup,1250000 ,12-10-2005,Alm. Salg,235,5319.0,6,1859,
 707,Villa,Stationsgade 19,8570, Trustrup,166834 ,12-10-2005,Alm. Salg,81,2060.0,4,1969,
@@ -8980,7 +8859,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Grønnegade 12,8500, Grenaa,585000 ,29-09-2005,Alm. Salg,103,5680.0,4,1930,
 707,Villa,Villersø Kærvej 6,8500, Grenaa,495000 ,29-09-2005,Alm. Salg,80,6188.0,3,1870,
 707,Villa,Ålsrodevej 35,8500, Grenaa,420000 ,29-09-2005,Alm. Salg,76,5526.0,3,1936,
-707,Villa,Ålsrodevej 57A,8500, Grenaa,860000 ,29-09-2005,Alm. Salg,138,6232.0,6,1939,
 707,Villa,Ålsrodevej 56,8500, Grenaa,670000 ,29-09-2005,Alm. Salg,140,4786.0,4,1950,
 707,Villa,Toftevej 2,8500, Grenaa,470000 ,29-09-2005,Alm. Salg,99,4747.0,4,1938,
 707,Villa,Kirkebakken 4,8500, Grenaa,105400 ,29-09-2005,Alm. Salg,170,620.0,5,2014,
@@ -9092,7 +8970,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Primulavej 6,8500, Grenaa,660000 ,17-08-2005,Alm. Salg,150,4400.0,5,1956,
 707,Villa,Lykkevej 4,8500, Grenaa,1290000 ,17-08-2005,Alm. Salg,131,9847.0,5,1927,
 707,Villa,Grenaavej 129,8500, Grenaa,1225000 ,17-08-2005,Alm. Salg,147,8333.0,5,1975,
-707,Rækkehus,Hovedgaden 19,8961, Allingåbro,937649 ,16-08-2005,Alm. Salg,76,12337.0,2,2016,
 707,Villa,Slettenvej 9,8560, Kolind,1500000 ,16-08-2005,Alm. Salg,157,9554.0,6,1965,
 707,Villa,Østervangs Alle 90,8963, Auning,276989 ,16-08-2005,Alm. Salg,219,1265.0,7,2006,
 707,Villa,Bavnehøjvej 18,8500, Grenaa,1200000 ,15-08-2005,Alm. Salg,195,6154.0,8,1936,
@@ -9995,7 +9872,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Sønderstrandvej 39G,8592, Anholt,1295000 ,03-05-2004,Alm. Salg,130,9962.0,3,2000,
 707,Ejerlejlighed,"Ågade 21, 1",8500, Grenaa,570000 ,02-05-2004,Alm. Salg,100,5700.0,3,1959,
 707,Villa,Skolegade 5,8570, Trustrup,439401 ,02-05-2004,Fam. Salg,150,2929.0,5,1900,
-707,Ejerlejlighed,"Østergade 19, 1",8500, Grenaa,1800000 ,29-04-2004,Alm. Salg,110,13636.0,6,1908,
 707,Villa,Lyngbyvej 108,8570, Trustrup,725000 ,29-04-2004,Alm. Salg,220,3295.0,7,1977,
 707,Villa,Overbrovej 23,8586, Ørum Djurs,265000 ,28-04-2004,Fam. Salg,147,1803.0,5,1937,
 707,Villa,Hemming Nielsens Vej 23,8585, Glesborg,1895000 ,28-04-2004,Alm. Salg,164,11555.0,5,1930,
@@ -10188,7 +10064,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Vestervej 12,8500, Grenaa,975000 ,17-01-2004,Alm. Salg,164,5945.0,4,1899,
 707,Villa,Fjeldholmvej 11,8500, Grenaa,400000 ,17-01-2004,Fam. Salg,135,2963.0,4,1798,
 707,Villa,Gl Kirkevej 25,8961, Allingåbro,287500 ,15-01-2004,Alm. Salg,135,2130.0,5,1925,
-707,Rækkehus,Havnevej 42A,8500, Grenaa,1120000 ,14-01-2004,Alm. Salg,120,9333.0,4,1911,
 707,Villa,Glentevej 7,8500, Grenaa,810000 ,14-01-2004,Alm. Salg,156,5192.0,7,1962,
 707,Villa,Plantagevej 9,8961, Allingåbro,190000 ,14-01-2004,Alm. Salg,146,1301.0,5,1933,
 707,Villa,Kirke Allé 24,8500, Grenaa,550000 ,14-01-2004,Alm. Salg,170,3235.0,6,1904,
@@ -10381,9 +10256,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Ejerlejlighed,"Engdalen 6B, 1. tv",8500, Grenaa,460000 ,10-09-2003,Alm. Salg,93,4946.0,3,1965,
 707,Villa,Industrivej 117,8963, Auning,900000 ,10-09-2003,Alm. Salg,165,5455.0,8,1973,
 707,Villa,Ludvig Holbergs Vej 4,8500, Grenaa,1120424 ,09-09-2003,Alm. Salg,198,5659.0,6,1973,
-707,Rækkehus,Engdraget 5B,8500, Grenaa,775000 ,08-09-2003,Alm. Salg,95,8158.0,4,1983,
 707,Villa,Mølletorvet 3,8963, Auning,1030000 ,08-09-2003,Alm. Salg,151,6821.0,5,1980,
-707,Villa,Duevej 16,8500, Grenaa,775000 ,08-09-2003,Alm. Salg,105,7381.0,4,1968,
 707,Villa,Stenaltvej 15,8950, Ørsted,375000 ,08-09-2003,Fam. Salg,118,3178.0,4,1947,
 707,Villa,Baldursvej 4,8500, Grenaa,600000 ,08-09-2003,Alm. Salg,128,4688.0,3,1964,
 707,Villa,Voer Færgevej 18,8950, Ørsted,295000 ,07-09-2003,Alm. Salg,70,4214.0,3,1860,
@@ -10635,10 +10508,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Søbyvej 29,8570, Trustrup,395000 ,21-04-2003,Alm. Salg,131,3015.0,5,1877,
 707,Villa,Grundvej 34,8961, Allingåbro,825000 ,21-04-2003,Alm. Salg,160,5156.0,5,1880,
 707,Villa,Grønningen 18,8500, Grenaa,357000 ,15-04-2003,Alm. Salg,149,2396.0,5,1964,
-707,Ejerlejlighed,"Markedsgade 30, 1",8500, Grenaa,812500 ,13-04-2003,Alm. Salg,98,8291.0,3,1917,
-707,Ejerlejlighed,"Øster Allé 18, st",8500, Grenaa,812500 ,13-04-2003,Alm. Salg,76,10691.0,3,1946,
-707,Ejerlejlighed,"Øster Allé 18, kl",8500, Grenaa,812500 ,13-04-2003,Alm. Salg,63,12897.0,3,1946,
-707,Ejerlejlighed,"Øster Allé 18, 1",8500, Grenaa,812500 ,13-04-2003,Alm. Salg,70,11607.0,2,1946,
 707,Villa,Ålsrodevej 63,8500, Grenaa,264000 ,13-04-2003,Auktion,100,2640.0,4,1880,
 707,Villa,Ndr Fælledvej 25,8963, Auning,177338 ,13-04-2003,Alm. Salg,117,1516.0,5,1962,
 707,Villa,Overbrovej 14,8586, Ørum Djurs,450000 ,12-04-2003,Alm. Salg,134,3358.0,7,1942,
@@ -10702,9 +10571,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Åstrupkrogen 2,8500, Grenaa,850000 ,04-03-2003,Alm. Salg,158,5380.0,5,1977,
 707,Rækkehus,Søren Kannes Vej 5,8500, Grenaa,525000 ,02-03-2003,Fam. Salg,123,4268.0,4,1943,
 707,Villa,Fasanvej 1,8500, Grenaa,450000 ,02-03-2003,Fam. Salg,156,2885.0,5,1951,
-707,Ejerlejlighed,A L Pedersens Vej 1A,8961, Allingåbro,911000 ,27-02-2003,Alm. Salg,94,9691.0,3,1907,
-707,Ejerlejlighed,"A L Pedersens Vej 1, 1",8961, Allingåbro,911000 ,27-02-2003,Alm. Salg,94,9691.0,2,1907,
-707,Ejerlejlighed,Hovedgaden 51,8961, Allingåbro,911000 ,27-02-2003,Alm. Salg,166,5488.0,9,1907,
 707,Villa,Havet 26,8585, Glesborg,675000 ,27-02-2003,Fam. Salg,118,5720.0,4,1950,
 707,Villa,Kirkestien 16,8961, Allingåbro,1150000 ,27-02-2003,Alm. Salg,158,7278.0,5,1977,
 707,Villa,Åbrovej 58,8586, Ørum Djurs,465000 ,27-02-2003,Fam. Salg,133,3496.0,5,1913,
@@ -10953,8 +10819,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Århusvej 82,8500, Grenaa,595000 ,08-09-2002,Alm. Salg,145,4103.0,5,1877,
 707,Villa,Jernbanegade 32,8961, Allingåbro,800000 ,08-09-2002,Alm. Salg,185,4324.0,6,1930,
 707,Villa,Fyrreparken 32,8961, Allingåbro,800000 ,07-09-2002,Alm. Salg,146,5479.0,5,1972,
-707,Ejerlejlighed,Niels Bohrs Vej 43,8500, Grenaa,375000 ,05-09-2002,Alm. Salg,68,5515.0,2,1968,
-707,Ejerlejlighed,De Lichtenbergs Vej 27E,8500, Grenaa,375000 ,05-09-2002,Alm. Salg,68,5515.0,2,1968,
 707,Ejerlejlighed,De Lichtenbergs Vej 27N,8500, Grenaa,350000 ,05-09-2002,Alm. Salg,68,5147.0,2,1968,
 707,Villa,Bodevej 11,8950, Ørsted,170000 ,05-09-2002,Alm. Salg,73,2329.0,3,1727,
 707,Villa,Kastbjerg Byvej 8,8585, Glesborg,635000 ,05-09-2002,Alm. Salg,108,5880.0,4,1971,
@@ -11203,7 +11067,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Rækkehus,Kølvej 46,8500, Grenaa,540000 ,11-04-2002,Alm. Salg,87,6207.0,5,1951,
 707,Ejerlejlighed,Petersborgvej 24A,8570, Trustrup,375586 ,11-04-2002,Alm. Salg,70,5366.0,3,1973,
 707,Villa,Stensmarkvej 21,8500, Grenaa,1114000 ,11-04-2002,Alm. Salg,137,8131.0,4,1930,
-707,Villa,Løkkenvej 2,8586, Ørum Djurs,2150000 ,11-04-2002,Alm. Salg,153,14052.0,7,1850,
 707,Villa,Kanalvej 41,8500, Grenaa,936000 ,10-04-2002,Alm. Salg,169,5538.0,3,1929,
 707,Villa,Dybdalvej 7,8586, Ørum Djurs,600000 ,10-04-2002,Andet,282,2128.0,8,1910,
 707,Villa,Sønderled 6,8500, Grenaa,804815 ,10-04-2002,Alm. Salg,268,3003.0,10,1957,
@@ -11372,9 +11235,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Nellikevej 30,8500, Grenaa,163600 ,18-12-2001,Alm. Salg,146,1121.0,5,2002,
 707,Villa,Bygaden 32,8592, Anholt,475000 ,18-12-2001,Alm. Salg,183,2596.0,6,1905,
 707,Villa,Engvangen 14,8500, Grenaa,796000 ,18-12-2001,Alm. Salg,105,7581.0,4,1965,
-707,Rækkehus,Henrik Ibsens Vej 49,8500, Grenaa,895000 ,17-12-2001,Alm. Salg,122,7336.0,4,1975,
 707,Villa,Markedsgade 23,8500, Grenaa,283333 ,17-12-2001,Fam. Salg,205,1382.0,7,1900,
-707,Villa,Sandbakkevej 18,8500, Grenaa,895000 ,17-12-2001,Alm. Salg,124,7218.0,4,1979,
 707,Rækkehus,Nygade 21,8500, Grenaa,500000 ,16-12-2001,Alm. Salg,89,5618.0,4,1906,
 707,Villa,Dr Louise Vej 10,8500, Grenaa,850000 ,16-12-2001,Alm. Salg,150,5667.0,5,1929,
 707,Villa,Duevej 20,8500, Grenaa,838000 ,16-12-2001,Alm. Salg,108,7759.0,4,1969,
@@ -11596,7 +11457,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Rugvangen 3,8961, Allingåbro,150365 ,15-08-2001,Alm. Salg,166,906.0,6,2001,
 707,Villa,Potetevej 10,8963, Auning,800000 ,15-08-2001,Alm. Salg,137,5839.0,4,1944,
 707,Villa,Voer Færgevej 95,8950, Ørsted,435000 ,15-08-2001,Alm. Salg,89,4888.0,3,1932,
-707,Ejerlejlighed,"Lillegade 37A, 1",8500, Grenaa,1780000 ,13-08-2001,Alm. Salg,131,13588.0,4,1877,
 707,Villa,Vesterled 2,8950, Ørsted,890000 ,13-08-2001,Fam. Salg,155,5742.0,5,1980,
 707,Villa,Fladstrupvej 31,8570, Trustrup,647000 ,13-08-2001,Alm. Salg,214,3023.0,7,1900,
 707,Villa,Jasminvej 3,8500, Grenaa,1073000 ,12-08-2001,Alm. Salg,149,7201.0,4,1976,
@@ -11906,7 +11766,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Skovvejen 2,8961, Allingåbro,1250000 ,23-02-2001,Alm. Salg,211,5924.0,9,1934,
 707,Rækkehus,Fuglsangparken 95,8500, Grenaa,628000 ,22-02-2001,Alm. Salg,85,7388.0,4,1979,
 707,Ejerlejlighed,"Engdalen 8, 1. th",8500, Grenaa,425000 ,22-02-2001,Alm. Salg,89,4775.0,3,1965,
-707,Villa,Havnevej 163A,8500, Grenaa,578000 ,22-02-2001,Alm. Salg,129,4481.0,4,2002,
 707,Villa,Grundvej 33,8961, Allingåbro,300000 ,22-02-2001,Fam. Salg,107,2804.0,3,1830,
 707,Villa,Grønnegade 40,8500, Grenaa,760000 ,21-02-2001,Alm. Salg,165,4606.0,6,1966,
 707,Ejerlejlighed,"Langgade 12B, st. 1",8961, Allingåbro,275000 ,20-02-2001,Alm. Salg,87,3161.0,3,1902,
@@ -12082,8 +11941,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Aksel H Hansens Gade 4,8500, Grenaa,540000 ,22-10-2000,Alm. Salg,82,6585.0,4,1900,
 707,Villa,Ludvig Holbergs Vej 20,8500, Grenaa,1010000 ,22-10-2000,Alm. Salg,195,5179.0,6,1973,
 707,Rækkehus,Tværvejen 7,8961, Allingåbro,300000 ,19-10-2000,Alm. Salg,127,2362.0,6,1922,
-707,Ejerlejlighed,Nordkystvejen 1E,8961, Allingåbro,900000 ,19-10-2000,Alm. Salg,76,11842.0,2,1950,
-707,Villa,Nordkystvejen 1F,8961, Allingåbro,900000 ,19-10-2000,Alm. Salg,145,6207.0,6,1916,
 707,Villa,Langbyvej 5,8581, Nimtofte,1135000 ,18-10-2000,Alm. Salg,228,4978.0,9,1920,
 707,Villa,Havet 102,8585, Glesborg,1620000 ,17-10-2000,Alm. Salg,185,8757.0,6,1923,
 707,Villa,Bakken 6,8500, Grenaa,440000 ,17-10-2000,Alm. Salg,126,3492.0,3,1874,
@@ -12112,9 +11969,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Glatvedvej 37,8444, Balle,305000 ,04-10-2000,Alm. Salg,119,2563.0,5,1857,
 707,Villa,Havnevej 44A,8500, Grenaa,540000 ,04-10-2000,Alm. Salg,120,4500.0,5,1912,
 707,Villa,Lykkevej 13,8500, Grenaa,620000 ,01-10-2000,Alm. Salg,79,7848.0,2,1961,
-707,Ejerlejlighed,"Rougsøvej 132, st",8950, Ørsted,406975 ,29-09-2000,Alm. Salg,109,3734.0,3,1902,
-707,Ejerlejlighed,"Rougsøvej 132, 1",8950, Ørsted,406975 ,29-09-2000,Alm. Salg,120,3391.0,3,1902,
-707,Ejerlejlighed,Storegade 2,8950, Ørsted,406975 ,29-09-2000,Alm. Salg,109,3734.0,3,1902,
 707,Villa,Kyvsbjergvej 10,8444, Balle,652800 ,29-09-2000,Fam. Salg,140,4663.0,4,1913,
 707,Villa,Askhøjvej 18,8570, Trustrup,526000 ,28-09-2000,Alm. Salg,160,3288.0,5,1899,
 707,Villa,Hovedgaden 43,8961, Allingåbro,190000 ,28-09-2000,Alm. Salg,90,2111.0,3,1958,
@@ -12187,9 +12041,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Birkevænget 3,8585, Glesborg,765000 ,23-08-2000,Alm. Salg,180,4250.0,6,1980,
 707,Villa,Birkedalvej 12,8500, Grenaa,1040000 ,22-08-2000,Alm. Salg,240,4333.0,13,1903,
 707,Villa,Voer Færgevej 36,8950, Ørsted,200000 ,22-08-2000,Alm. Salg,112,1786.0,5,1900,
-707,Ejerlejlighed,"Århusvej 177, st",8570, Trustrup,440000 ,21-08-2000,Fam. Salg,152,2895.0,5,1932,
-707,Ejerlejlighed,"Århusvej 177, 1",8570, Trustrup,440000 ,21-08-2000,Fam. Salg,120,3667.0,3,1932,
-707,Ejerlejlighed,Lykkesholmvej 2,8570, Trustrup,440000 ,21-08-2000,Fam. Salg,64,6875.0,1,1932,
 707,Villa,Neergårdsdalvej 7,8500, Grenaa,375500 ,21-08-2000,Alm. Salg,85,4418.0,3,1985,
 707,Villa,Rougsøvej 143,8950, Ørsted,481245 ,20-08-2000,Alm. Salg,110,4375.0,3,1945,
 707,Villa,Hemmedvej 45,8585, Glesborg,409778 ,20-08-2000,Alm. Salg,88,4657.0,3,1971,
@@ -12343,12 +12194,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Lærkelunden 5,8963, Auning,765508 ,07-06-2000,Alm. Salg,109,7023.0,5,1960,
 707,Villa,Bakken 8,8500, Grenaa,965000 ,07-06-2000,Alm. Salg,161,5994.0,5,1777,
 707,Rækkehus,Kølvej 22,8500, Grenaa,656863 ,06-06-2000,Alm. Salg,87,7550.0,5,1951,
-707,Ejerlejlighed,"Markedsgade 30, st. tv",8500, Grenaa,600000 ,06-06-2000,Alm. Salg,56,10714.0,2,1917,
-707,Ejerlejlighed,"Markedsgade 30, 1",8500, Grenaa,600000 ,06-06-2000,Alm. Salg,98,6122.0,3,1917,
-707,Ejerlejlighed,"Markedsgade 30, st. th",8500, Grenaa,600000 ,06-06-2000,Alm. Salg,56,10714.0,2,1917,
-707,Ejerlejlighed,"Øster Allé 18, st",8500, Grenaa,600000 ,06-06-2000,Alm. Salg,76,7895.0,3,1946,
-707,Ejerlejlighed,"Øster Allé 18, kl",8500, Grenaa,600000 ,06-06-2000,Alm. Salg,63,9524.0,3,1946,
-707,Ejerlejlighed,"Øster Allé 18, 1",8500, Grenaa,600000 ,06-06-2000,Alm. Salg,70,8571.0,2,1946,
 707,Villa,Skovbrynet 10,8581, Nimtofte,1375000 ,06-06-2000,Alm. Salg,202,6807.0,5,1926,
 707,Villa,Vibevej 21,8500, Grenaa,1032583 ,06-06-2000,Alm. Salg,163,6335.0,5,1971,
 707,Villa,Østervangsvej 11B,8961, Allingåbro,749500 ,06-06-2000,Alm. Salg,125,5996.0,4,1977,
@@ -12521,9 +12366,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Ejerlejlighed,"Fuglevænget 17, 2. tv",8500, Grenaa,440000 ,09-03-2000,Fam. Salg,76,5789.0,3,1968,
 707,Villa,Lokesvej 11,8500, Grenaa,610223 ,09-03-2000,Alm. Salg,138,4422.0,5,1973,
 707,Ejerlejlighed,"Rosengade 3, 1",8500, Grenaa,650000 ,08-03-2000,Alm. Salg,126,5159.0,4,1937,
-707,Ejerlejlighed,"Rougsøvej 132, st",8950, Ørsted,843020 ,07-03-2000,Alm. Salg,109,7734.0,3,1902,
-707,Ejerlejlighed,"Rougsøvej 132, 1",8950, Ørsted,843020 ,07-03-2000,Alm. Salg,120,7025.0,3,1902,
-707,Ejerlejlighed,Storegade 2,8950, Ørsted,843020 ,07-03-2000,Alm. Salg,109,7734.0,3,1902,
 707,Villa,Hasselbakken 131,8500, Grenaa,908000 ,07-03-2000,Alm. Salg,163,5571.0,7,1987,
 707,Villa,Anemonevej 17,8500, Grenaa,1217500 ,07-03-2000,Alm. Salg,171,7120.0,5,1979,
 707,Villa,Vestergade 56,8963, Auning,303991 ,06-03-2000,Alm. Salg,151,2013.0,5,1949,
@@ -12989,11 +12831,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Hammelev Kirkevej 8,8500, Grenaa,947005 ,30-06-1999,Alm. Salg,149,6356.0,4,1977,
 707,Villa,Møllevangen 36,8585, Glesborg,1050000 ,30-06-1999,Alm. Salg,131,8015.0,4,1999,
 707,Villa,Løvenholmvej 46,8963, Auning,778000 ,30-06-1999,Alm. Salg,144,5403.0,5,1967,
-707,Ejerlejlighed,"Lillegade 46A, 1",8500, Grenaa,1125000 ,29-06-1999,Alm. Salg,91,12363.0,3,1930,
-707,Ejerlejlighed,"Lillegade 46A, st",8500, Grenaa,1125000 ,29-06-1999,Alm. Salg,85,13235.0,3,1930,
-707,Ejerlejlighed,"Lillegade 46A, 2",8500, Grenaa,1125000 ,29-06-1999,Alm. Salg,82,13720.0,3,1930,
-707,Ejerlejlighed,Markedsgade 35B,8500, Grenaa,1125000 ,29-06-1999,Alm. Salg,106,10613.0,3,1900,
-707,Ejerlejlighed,Markedsgade 35D,8500, Grenaa,1125000 ,29-06-1999,Alm. Salg,93,12097.0,3,1900,
 707,Villa,Rougsøvej 12,8961, Allingåbro,775000 ,29-06-1999,Alm. Salg,134,5784.0,5,1955,
 707,Villa,Grønnevej 6,8500, Grenaa,960500 ,29-06-1999,Alm. Salg,192,5003.0,6,1914,
 707,Villa,Sandbakkevej 2,8500, Grenaa,709509 ,29-06-1999,Alm. Salg,150,4730.0,4,1962,
@@ -13055,9 +12892,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Kirkesvinget 20,8500, Grenaa,1376233 ,03-06-1999,Alm. Salg,192,7168.0,6,1916,
 707,Villa,Hovedgaden 94,8961, Allingåbro,569500 ,03-06-1999,Alm. Salg,96,5932.0,4,1924,
 707,Villa,Hasselbakken 53,8500, Grenaa,1100000 ,03-06-1999,Alm. Salg,127,8661.0,4,1986,
-707,Ejerlejlighed,"I P Farsøhts Alle 2A, 1",8961, Allingåbro,400000 ,02-06-1999,Alm. Salg,66,6061.0,2,1900,
-707,Ejerlejlighed,"I P Farsøhts Alle 2B, st",8961, Allingåbro,400000 ,02-06-1999,Alm. Salg,46,8696.0,3,1900,
-707,Ejerlejlighed,Hovedgaden 27,8961, Allingåbro,400000 ,02-06-1999,Alm. Salg,117,3419.0,3,1900,
 707,Villa,Havnevej 131B,8500, Grenaa,830000 ,02-06-1999,Alm. Salg,105,7905.0,4,1990,
 707,Villa,Skovbrynet 18,8500, Grenaa,736031 ,02-06-1999,Alm. Salg,100,7360.0,4,1964,
 707,Villa,Rougsøvej 40,8961, Allingåbro,490482 ,02-06-1999,Alm. Salg,145,3383.0,5,1900,
@@ -13315,7 +13149,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Hollandsbjergvej 50,8950, Ørsted,485000 ,02-02-1999,Alm. Salg,234,2073.0,7,1902,
 707,Villa,Myntevej 38,8500, Grenaa,185800 ,02-02-1999,Alm. Salg,127,1463.0,4,1999,
 707,Rækkehus,Baldursvej 39,8500, Grenaa,820000 ,01-02-1999,Alm. Salg,118,6949.0,4,1978,
-707,Rækkehus,Vestergade 33C,8963, Auning,635372 ,01-02-1999,Alm. Salg,47,13519.0,2,1966,
 707,Ejerlejlighed,Havnevej 138B,8500, Grenaa,330988 ,01-02-1999,Alm. Salg,83,3988.0,3,1964,
 707,Villa,Nørrevang 14,8500, Grenaa,874999 ,01-02-1999,Alm. Salg,144,6076.0,7,1954,
 707,Villa,Toften 37,8500, Grenaa,650000 ,01-02-1999,Alm. Salg,135,4815.0,4,1974,
@@ -13414,7 +13247,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Rækkehus,Markedsgade 22,8500, Grenaa,940000 ,08-12-1998,Alm. Salg,111,8468.0,5,1921,
 707,Villa,Hovedgaden 79,8961, Allingåbro,495000 ,08-12-1998,Alm. Salg,148,3345.0,5,1931,
 707,Villa,Sommerlyst 2,8500, Grenaa,1011000 ,08-12-1998,Alm. Salg,193,5238.0,5,1976,
-707,Villa,Estruplundvej 30,8950, Ørsted,858273 ,08-12-1998,Andet,180,4768.0,7,1943,
 707,Villa,Østervangs Alle 25,8963, Auning,800000 ,08-12-1998,Alm. Salg,128,6250.0,4,1972,
 707,Ejerlejlighed,"Engdalen 6B, 1. th",8500, Grenaa,347875 ,07-12-1998,Alm. Salg,79,4403.0,2,1965,
 707,Villa,Gjesingvej 18,8963, Auning,1127000 ,07-12-1998,Alm. Salg,172,6552.0,6,1901,
@@ -13509,7 +13341,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Sønderled 4,8500, Grenaa,910000 ,19-10-1998,Alm. Salg,160,5688.0,6,1971,
 707,Rækkehus,Hasselbakken 85,8500, Grenaa,844524 ,18-10-1998,Alm. Salg,153,5520.0,6,1983,
 707,Villa,Lyngdalvej 74,8500, Grenaa,1198000 ,18-10-1998,Alm. Salg,177,6768.0,6,1971,
-707,Villa,Homåvej 4,8500, Grenaa,1286000 ,17-10-1998,Alm. Salg,141,9121.0,4,1912,
 707,Villa,Dalsgårdevej 1,8500, Grenaa,756000 ,15-10-1998,Alm. Salg,227,3330.0,6,1880,
 707,Rækkehus,Baldursvej 35,8500, Grenaa,746000 ,14-10-1998,Alm. Salg,118,6322.0,4,1978,
 707,Villa,Stenvad Bygade 54,8586, Ørum Djurs,235000 ,14-10-1998,Alm. Salg,111,2117.0,4,1925,
@@ -14135,8 +13966,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Åvej 4,8500, Grenaa,749000 ,05-01-1998,Alm. Salg,148,5061.0,5,1939,
 707,Villa,Glesborg Bygade 49,8585, Glesborg,414000 ,05-01-1998,Alm. Salg,80,5175.0,3,1967,
 707,Rækkehus,Kølvej 34,8500, Grenaa,305944 ,04-01-1998,Alm. Salg,87,3517.0,5,1951,
-707,Ejerlejlighed,"Mølletorvet 6, 2",8963, Auning,770000 ,04-01-1998,Alm. Salg,235,3277.0,6,1910,
-707,Ejerlejlighed,Torvegade 2D,8963, Auning,770000 ,04-01-1998,Alm. Salg,142,5423.0,5,1910,
 707,Villa,Århusvej 133,8570, Trustrup,341000 ,04-01-1998,Alm. Salg,160,2131.0,7,1907,
 707,Villa,Sønderled 6,8500, Grenaa,814000 ,04-01-1998,Alm. Salg,268,3037.0,10,1957,
 707,Villa,Gjerrild Bygade 9,8500, Grenaa,898000 ,02-01-1998,Alm. Salg,300,2993.0,10,1905,
@@ -14483,8 +14312,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Lyngdalvej 36,8500, Grenaa,1060000 ,08-07-1997,Alm. Salg,150,7067.0,5,1973,
 707,Villa,Dybdalvej 2,8586, Ørum Djurs,349000 ,07-07-1997,Alm. Salg,73,4781.0,4,1947,
 707,Villa,Århusvej 8,8500, Grenaa,777820 ,07-07-1997,Alm. Salg,151,5151.0,5,1964,
-707,Rækkehus,Hasselbakken 89,8500, Grenaa,575000 ,06-07-1997,Fam. Salg,89,6461.0,4,1983,
-707,Villa,Grønningen 5,8500, Grenaa,575000 ,06-07-1997,Alm. Salg,111,5180.0,4,1956,
 707,Villa,Århusvej 130,8500, Grenaa,810000 ,06-07-1997,Alm. Salg,126,6429.0,4,1966,
 707,Villa,Kløvhøjvej 24,8500, Grenaa,295000 ,06-07-1997,Alm. Salg,136,2169.0,5,1954,
 707,Villa,Kanalvej 78,8500, Grenaa,519000 ,05-07-1997,Alm. Salg,150,3460.0,4,1900,
@@ -14595,9 +14422,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Rækkehus,Havnevej 15,8500, Grenaa,390000 ,25-05-1997,Alm. Salg,107,3645.0,4,1890,
 707,Ejerlejlighed,"Bavnehøjvej 1, 3. th",8500, Grenaa,283000 ,25-05-1997,Alm. Salg,77,3675.0,3,1943,
 707,Ejerlejlighed,"Æblerosevej 9, st. th",8500, Grenaa,425000 ,25-05-1997,Alm. Salg,84,5060.0,3,1978,
-707,Ejerlejlighed,"Rougsøvej 132, st",8950, Ørsted,784841 ,25-05-1997,Alm. Salg,109,7200.0,3,1902,
-707,Ejerlejlighed,"Rougsøvej 132, 1",8950, Ørsted,784841 ,25-05-1997,Alm. Salg,120,6540.0,3,1902,
-707,Ejerlejlighed,Storegade 2,8950, Ørsted,784841 ,25-05-1997,Alm. Salg,109,7200.0,3,1902,
 707,Villa,Linde Alle 2,8963, Auning,455000 ,25-05-1997,Alm. Salg,92,4946.0,4,1964,
 707,Villa,Linde Alle 3,8963, Auning,532840 ,25-05-1997,Alm. Salg,64,8326.0,2,1950,
 707,Villa,Cikorievej 16,8500, Grenaa,1033000 ,25-05-1997,Alm. Salg,144,7174.0,4,1976,
@@ -14745,7 +14569,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Mogenstrupvej 7,8961, Allingåbro,450000 ,23-03-1997,Alm. Salg,178,2528.0,7,1900,
 707,Villa,Chr Winthers Vej 5,8500, Grenaa,624500 ,23-03-1997,Alm. Salg,120,5204.0,4,1964,
 707,Villa,Strandparken 18,8585, Glesborg,32000 ,23-03-1997,Alm. Salg,185,173.0,7,1997,
-707,Villa,Vestergade 15,8963, Auning,750000 ,23-03-1997,Alm. Salg,159,4717.0,8,1908,
 707,Villa,Bønnerupvej 16,8585, Glesborg,159509 ,23-03-1997,Alm. Salg,209,763.0,5,1946,
 707,Villa,Stenvad Bygade 29,8586, Ørum Djurs,407000 ,23-03-1997,Alm. Salg,148,2750.0,5,1928,
 707,Ejerlejlighed,Åstruphegnet 22D,8500, Grenaa,393000 ,21-03-1997,Fam. Salg,85,4624.0,3,1885,
@@ -15083,7 +14906,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Gl Kirkevej 8,8961, Allingåbro,600000 ,11-10-1996,Alm. Salg,251,2390.0,8,1877,
 707,Villa,Øster Allé 20,8500, Grenaa,630000 ,11-10-1996,Alm. Salg,138,4565.0,5,1933,
 707,Villa,Langbjergvej 7,8961, Allingåbro,400000 ,11-10-1996,Alm. Salg,345,1159.0,12,1922,
-707,Ejerlejlighed,"Søgade 6, st. th",8500, Grenaa,1100000 ,10-10-1996,Alm. Salg,123,8943.0,4,1905,
 707,Villa,Constantiavej 9,8586, Ørum Djurs,685000 ,10-10-1996,Alm. Salg,154,4448.0,5,1914,
 707,Villa,Åstrup Bygade 53,8500, Grenaa,750000 ,09-10-1996,Alm. Salg,108,6944.0,5,1920,
 707,Ejerlejlighed,"Mellemstræde 3, 1",8500, Grenaa,242000 ,08-10-1996,Auktion,90,2689.0,3,1930,
@@ -15107,12 +14929,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Århusvej 140,8500, Grenaa,520000 ,29-09-1996,Fam. Salg,139,3741.0,4,1964,
 707,Villa,Dalsgårdevej 3,8500, Grenaa,230000 ,29-09-1996,Fam. Salg,130,1769.0,4,1890,
 707,Villa,Voer Færgevej 93,8950, Ørsted,192000 ,28-09-1996,Alm. Salg,118,1627.0,4,1931,
-707,Ejerlejlighed,"Lillegade 46A, 1",8500, Grenaa,675000 ,27-09-1996,Alm. Salg,91,7418.0,3,1930,
-707,Ejerlejlighed,"Lillegade 46A, st",8500, Grenaa,675000 ,27-09-1996,Alm. Salg,85,7941.0,3,1930,
-707,Ejerlejlighed,"Lillegade 46A, 2",8500, Grenaa,675000 ,27-09-1996,Alm. Salg,82,8232.0,3,1930,
-707,Ejerlejlighed,Markedsgade 35C,8500, Grenaa,675000 ,27-09-1996,Alm. Salg,65,10385.0,3,1900,
-707,Ejerlejlighed,Markedsgade 35B,8500, Grenaa,675000 ,27-09-1996,Alm. Salg,106,6368.0,3,1900,
-707,Ejerlejlighed,Markedsgade 35D,8500, Grenaa,675000 ,27-09-1996,Alm. Salg,93,7258.0,3,1900,
 707,Villa,Møgelbjergparken 53,8500, Grenaa,1065000 ,26-09-1996,Alm. Salg,133,8008.0,4,1987,
 707,Villa,August Kroghs Vej 3,8500, Grenaa,788000 ,26-09-1996,Alm. Salg,190,4147.0,6,1961,
 707,Villa,Gammeljord 8,8950, Ørsted,550000 ,26-09-1996,Alm. Salg,198,2778.0,7,1916,
@@ -15308,10 +15124,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Frejasvej 28,8500, Grenaa,495000 ,20-06-1996,Alm. Salg,168,2946.0,5,1953,
 707,Villa,Ålsrodevej 64,8500, Grenaa,100000 ,20-06-1996,Alm. Salg,117,855.0,3,1877,
 707,Villa,Århusvej 3,8500, Grenaa,465000 ,20-06-1996,Alm. Salg,110,4227.0,4,1935,
-707,Ejerlejlighed,"Lillegade 46B, st",8500, Grenaa,835498 ,18-06-1996,Alm. Salg,78,10712.0,3,1929,
-707,Ejerlejlighed,"Lillegade 46B, 1",8500, Grenaa,835498 ,18-06-1996,Alm. Salg,78,10712.0,3,1929,
-707,Ejerlejlighed,"Lillegade 46B, 2",8500, Grenaa,835498 ,18-06-1996,Alm. Salg,64,13055.0,2,1929,
-707,Ejerlejlighed,Markstræde 2,8500, Grenaa,835498 ,18-06-1996,Alm. Salg,60,13925.0,3,1929,
 707,Villa,Solhøjvej 37,8570, Trustrup,72505 ,18-06-1996,Alm. Salg,116,625.0,4,1997,
 707,Villa,Strandparken 22,8585, Glesborg,540000 ,18-06-1996,Alm. Salg,149,3624.0,5,1988,
 707,Villa,Ymersvej 26,8500, Grenaa,696000 ,17-06-1996,Fam. Salg,108,6444.0,4,1949,
@@ -15957,7 +15769,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Skovbrynet 10,8581, Nimtofte,563000 ,28-08-1995,Alm. Salg,202,2787.0,5,1926,
 707,Villa,Havagervej 4,8950, Ørsted,80000 ,28-08-1995,Alm. Salg,131,611.0,3,1777,
 707,Villa,Banevej 2,8570, Trustrup,245000 ,27-08-1995,Alm. Salg,86,2849.0,3,1877,
-707,Villa,Estruplundvej 30,8950, Ørsted,1538500 ,27-08-1995,Alm. Salg,180,8547.0,7,1943,
 707,Villa,Nørgaardsvej 1C,8963, Auning,340519 ,27-08-1995,Alm. Salg,216,1527.0,6,1975,
 707,Villa,Skippershovedvej 6,8586, Ørum Djurs,360000 ,25-08-1995,Alm. Salg,130,2769.0,5,1931,
 707,Villa,Nellikevej 38,8500, Grenaa,224400 ,24-08-1995,Alm. Salg,179,1254.0,5,1996,
@@ -15970,7 +15781,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Askhøjvej 7,8570, Trustrup,290000 ,21-08-1995,Alm. Salg,148,1959.0,5,1877,
 707,Villa,Sønder Allé 39,8500, Grenaa,560000 ,20-08-1995,Alm. Salg,97,5773.0,4,1981,
 707,Villa,Havnevej 55,8500, Grenaa,338000 ,20-08-1995,Alm. Salg,120,2817.0,6,1870,
-707,Rækkehus,Hovedgaden 19,8961, Allingåbro,800000 ,19-08-1995,Alm. Salg,76,10526.0,2,2016,
 707,Villa,Sommerlyst 85,8500, Grenaa,759000 ,18-08-1995,Alm. Salg,151,5026.0,4,1974,
 707,Villa,Stokkebro 89,8500, Grenaa,269000 ,17-08-1995,Alm. Salg,129,2085.0,4,1954,
 707,Villa,Århusvej 15,8961, Allingåbro,500000 ,17-08-1995,Alm. Salg,144,3472.0,5,1961,
@@ -16156,7 +15966,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Storegade 36,8950, Ørsted,217500 ,31-05-1995,Alm. Salg,72,3021.0,2,1887,
 707,Villa,Katholmvej 8,8500, Grenaa,658000 ,30-05-1995,Alm. Salg,185,3557.0,4,1963,
 707,Villa,Salbovej 9,8585, Glesborg,600000 ,30-05-1995,Fam. Salg,120,5000.0,4,1986,
-707,Villa,Kirkevej 4,8963, Auning,1595000 ,29-05-1995,Alm. Salg,420,3798.0,11,2022,
 707,Ejerlejlighed,Fuglevænget 74I,8500, Grenaa,280000 ,28-05-1995,Alm. Salg,53,5283.0,2,1967,
 707,Villa,Åstrupparken 16,8500, Grenaa,825000 ,27-05-1995,Alm. Salg,129,6395.0,5,1981,
 707,Villa,Havnevej 233,8500, Grenaa,695000 ,27-05-1995,Alm. Salg,152,4572.0,4,1938,
@@ -16253,7 +16062,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Ålykkevej 4,8961, Allingåbro,375000 ,07-04-1995,Alm. Salg,80,4688.0,3,1961,
 707,Villa,Duevej 2,8500, Grenaa,820000 ,07-04-1995,Alm. Salg,214,3832.0,7,1969,
 707,Ejerlejlighed,"Østergade 19, 1",8500, Grenaa,650000 ,05-04-1995,Alm. Salg,110,4924.0,6,1908,
-707,Villa,Munkhusevej 36,8581, Nimtofte,1098858 ,05-04-1995,Alm. Salg,80,13736.0,4,1900,
 707,Villa,Cikorievej 14,8500, Grenaa,675000 ,05-04-1995,Alm. Salg,128,5273.0,4,1976,
 707,Villa,Grønhøjvej 10,8500, Grenaa,140000 ,05-04-1995,Alm. Salg,143,979.0,4,2003,
 707,Villa,Mortensensvej 35,8963, Auning,691000 ,04-04-1995,Alm. Salg,179,3860.0,6,1966,
@@ -16371,7 +16179,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Åstrupbakken 7,8500, Grenaa,795000 ,06-02-1995,Alm. Salg,214,3715.0,6,1971,
 707,Villa,Åbrovej 20,8586, Ørum Djurs,413430 ,05-02-1995,Alm. Salg,139,2974.0,6,1932,
 707,Villa,Glesborg Bygade 39,8585, Glesborg,400000 ,05-02-1995,Alm. Salg,290,1379.0,6,1917,
-707,Villa,Langgade 31A,8961, Allingåbro,500000 ,03-02-1995,Alm. Salg,136,3676.0,5,1903,
 707,Villa,Øster Allé 10,8500, Grenaa,556000 ,02-02-1995,Alm. Salg,141,3943.0,7,1933,
 707,Villa,Myntevej 12,8500, Grenaa,875000 ,02-02-1995,Alm. Salg,120,7292.0,4,1988,
 707,Ejerlejlighed,"Dr Louise Vej 6, st. tv",8500, Grenaa,270965 ,01-02-1995,Alm. Salg,82,3304.0,3,1960,
@@ -16624,11 +16431,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Vestervangsvej 1,8586, Ørum Djurs,515000 ,11-09-1994,Alm. Salg,138,3732.0,4,1974,
 707,Villa,Møllevangen 32,8585, Glesborg,500000 ,11-09-1994,Alm. Salg,198,2525.0,5,1986,
 707,Villa,Ålsø Stationsvej 2,8500, Grenaa,550000 ,09-09-1994,Alm. Salg,202,2723.0,5,1917,
-707,Ejerlejlighed,"Søndergade 2D, 2. 3",8500, Grenaa,150000 ,08-09-1994,Alm. Salg,62,2419.0,2,1867,
 707,Ejerlejlighed,"Strandgade 32, 1",8500, Grenaa,355000 ,08-09-1994,Alm. Salg,108,3287.0,3,1910,
-707,Ejerlejlighed,"Strandgade 32, 2",8500, Grenaa,150000 ,08-09-1994,Alm. Salg,49,3061.0,1,1910,
-707,Ejerlejlighed,"Søndergade 2G, 3",8500, Grenaa,150000 ,08-09-1994,Alm. Salg,72,2083.0,3,1867,
-707,Ejerlejlighed,"Søndergade 2D, 2. 1",8500, Grenaa,150000 ,08-09-1994,Alm. Salg,88,1705.0,2,1867,
 707,Rækkehus,"Østergade 29, st. tv",8500, Grenaa,26780 ,07-09-1994,Alm. Salg,162,165.0,5,1892,
 707,Rækkehus,Fælledvej 1G,8585, Glesborg,111000 ,07-09-1994,Alm. Salg,41,2707.0,2,1979,
 707,Villa,Bodevej 13,8950, Ørsted,475177 ,07-09-1994,Alm. Salg,178,2670.0,4,1870,
@@ -16667,7 +16470,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Voer Færgevej 2,8950, Ørsted,743000 ,28-08-1994,Alm. Salg,508,1463.0,13,1920,
 707,Villa,Bondhøjvej 34,8950, Ørsted,765100 ,27-08-1994,Alm. Salg,242,3162.0,8,1857,
 707,Rækkehus,Henrik Ibsens Vej 41,8500, Grenaa,612600 ,25-08-1994,Alm. Salg,122,5021.0,4,1975,
-707,Villa,Århusvej 76,8500, Grenaa,630000 ,24-08-1994,Alm. Salg,120,5250.0,5,1939,
 707,Villa,Ålsrodevej 35,8500, Grenaa,60000 ,24-08-1994,Alm. Salg,76,789.0,3,1936,
 707,Villa,Hjortebakken 4,8500, Grenaa,1000000 ,24-08-1994,Alm. Salg,168,5952.0,5,1959,
 707,Villa,Hasselbakken 127,8500, Grenaa,733000 ,24-08-1994,Alm. Salg,179,4095.0,7,1987,
@@ -16764,9 +16566,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Hoedvej 25,8500, Grenaa,175000 ,04-07-1994,Alm. Salg,125,1400.0,4,1902,
 707,Villa,Salbovej 7,8585, Glesborg,712996 ,04-07-1994,Andet,143,4986.0,5,1985,
 707,Rækkehus,Fuglsangparken 95,8500, Grenaa,425000 ,02-07-1994,Alm. Salg,85,5000.0,4,1979,
-707,Ejerlejlighed,"Gl Kirkevej 1, st. th",8961, Allingåbro,228554 ,30-06-1994,Fam. Salg,62,3686.0,2,1907,
-707,Ejerlejlighed,"Gl Kirkevej 1, st. tv",8961, Allingåbro,228554 ,30-06-1994,Fam. Salg,70,3265.0,3,1907,
-707,Ejerlejlighed,Bybjergvej 1A,8961, Allingåbro,228554 ,30-06-1994,Fam. Salg,75,3047.0,2,1907,
 707,Villa,Georgsmindevej 2,8961, Allingåbro,212217 ,30-06-1994,Fam. Salg,100,2122.0,3,1910,
 707,Ejerlejlighed,"Vestervej 1, st. 4",8500, Grenaa,210000 ,29-06-1994,Alm. Salg,53,3962.0,2,1890,
 707,Villa,Dalstrupvej 1,8500, Grenaa,350000 ,29-06-1994,Alm. Salg,217,1613.0,6,1850,
@@ -16863,11 +16662,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Andkærvej 13,8570, Trustrup,190805 ,19-05-1994,Alm. Salg,192,994.0,5,1900,
 707,Villa,Hulvej 9,8950, Ørsted,160000 ,18-05-1994,Alm. Salg,143,1119.0,5,1877,
 707,Villa,Rougsøvej 195,8950, Ørsted,227000 ,18-05-1994,Alm. Salg,88,2580.0,4,1920,
-707,Villa,Askhøjvej 4C,8570, Trustrup,500000 ,18-05-1994,Alm. Salg,106,4717.0,3,1919,
 707,Villa,H P Rosenvinges Pl 2,8500, Grenaa,640000 ,17-05-1994,Alm. Salg,153,4183.0,8,1885,
-707,Ejerlejlighed,"Århusvej 177, st",8570, Trustrup,330000 ,16-05-1994,Alm. Salg,152,2171.0,5,1932,
-707,Ejerlejlighed,"Århusvej 177, 1",8570, Trustrup,330000 ,16-05-1994,Alm. Salg,120,2750.0,3,1932,
-707,Ejerlejlighed,Lykkesholmvej 2,8570, Trustrup,330000 ,16-05-1994,Alm. Salg,64,5156.0,1,1932,
 707,Villa,Kirkevej 4,8500, Grenaa,270000 ,16-05-1994,Alm. Salg,127,2126.0,4,1880,
 707,Villa,Bakken 6,8500, Grenaa,147003 ,15-05-1994,Alm. Salg,126,1167.0,3,1874,
 707,Villa,Stokkebro 19,8500, Grenaa,325000 ,15-05-1994,Fam. Salg,190,1711.0,5,1917,
@@ -16911,9 +16706,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Jernbanegade 14,8961, Allingåbro,208493 ,21-04-1994,Alm. Salg,129,1616.0,5,1870,
 707,Villa,Solbakkevej 31,8500, Grenaa,253588 ,21-04-1994,Andet,128,1981.0,5,1967,
 707,Villa,Humlevej 6,8500, Grenaa,695000 ,20-04-1994,Alm. Salg,126,5516.0,4,1977,
-707,Rækkehus,"Voer Færgevej 33, st",8950, Ørsted,150000 ,19-04-1994,Alm. Salg,148,1014.0,3,1906,
 707,Rækkehus,Bredgade 11,8500, Grenaa,515000 ,19-04-1994,Alm. Salg,102,5049.0,3,1920,
-707,Villa,Hevringvej 21,8950, Ørsted,150000 ,19-04-1994,Alm. Salg,271,554.0,7,1906,
 707,Villa,Hovedgaden 69,8961, Allingåbro,370000 ,19-04-1994,Alm. Salg,158,2342.0,6,1917,
 707,Villa,Søren Kannes Vej 8,8500, Grenaa,400000 ,19-04-1994,Alm. Salg,140,2857.0,4,1947,
 707,Villa,Ndr Fælledvej 15,8963, Auning,320000 ,19-04-1994,Fam. Salg,120,2667.0,3,1900,
@@ -16952,8 +16745,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Dolmervej 10,8500, Grenaa,263490 ,05-04-1994,Fam. Salg,130,2027.0,4,1964,
 707,Villa,Åstruphaven 8,8500, Grenaa,780000 ,04-04-1994,Alm. Salg,127,6142.0,4,1984,
 707,Ejerlejlighed,"Vestvej 2, st",8950, Ørsted,170000 ,03-04-1994,Alm. Salg,48,3542.0,2,1955,
-707,Ejerlejlighed,"Rougsøvej 77, st. 1",8950, Ørsted,240000 ,03-04-1994,Alm. Salg,80,3000.0,2,1955,
-707,Ejerlejlighed,"Vestvej 2, 1. tv",8950, Ørsted,240000 ,03-04-1994,Alm. Salg,64,3750.0,2,1955,
 707,Villa,Neergårdsdalvej 3,8500, Grenaa,548000 ,03-04-1994,Alm. Salg,195,2810.0,7,1977,
 707,Rækkehus,Fuglsangparken 79,8500, Grenaa,491143 ,02-04-1994,Alm. Salg,85,5778.0,4,1979,
 707,Villa,Brovej 11,8585, Glesborg,515000 ,01-04-1994,Alm. Salg,76,6776.0,4,1946,
@@ -17074,8 +16865,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Åstrup Mark 9,8500, Grenaa,309300 ,02-02-1994,Alm. Salg,199,1554.0,10,1800,
 707,Villa,Møgelbjergparken 38,8500, Grenaa,825000 ,01-02-1994,Alm. Salg,140,5893.0,4,1987,
 707,Villa,Ålsrodevej 62,8500, Grenaa,290000 ,01-02-1994,Alm. Salg,156,1859.0,5,1890,
-707,Rækkehus,Villavej 3A,8500, Grenaa,255000 ,31-01-1994,Alm. Salg,82,3110.0,4,1900,
-707,Villa,Villavej 3B,8500, Grenaa,255000 ,31-01-1994,Alm. Salg,55,4636.0,3,1900,
 707,Villa,Selkærvej 18,8585, Glesborg,229500 ,31-01-1994,Fam. Salg,148,1551.0,5,1918,
 707,Villa,Hollandsbjergvej 6,8950, Ørsted,500000 ,30-01-1994,Fam. Salg,110,4545.0,4,1961,
 707,Villa,Østervangs Alle 12,8963, Auning,565000 ,30-01-1994,Alm. Salg,109,5183.0,4,1987,
@@ -17122,7 +16911,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Hovedgaden 56,8963, Auning,345000 ,10-01-1994,Alm. Salg,92,3750.0,4,1963,
 707,Villa,Glesborg Bygade 43,8585, Glesborg,297800 ,10-01-1994,Alm. Salg,104,2863.0,4,1959,
 707,Villa,Fjellerup Bygade 13,8585, Glesborg,242500 ,10-01-1994,Alm. Salg,202,1200.0,7,1923,
-707,Rækkehus,Vestergade 33C,8963, Auning,330000 ,09-01-1994,Alm. Salg,47,7021.0,2,1966,
 707,Ejerlejlighed,"Åkrogen 4F, 1",8500, Grenaa,75000 ,09-01-1994,Alm. Salg,36,2083.0,1,1964,
 707,Villa,Veggerslev Kærvej 15,8500, Grenaa,210000 ,09-01-1994,Alm. Salg,166,1265.0,4,1885,
 707,Villa,Fjellerup Bygade 44,8585, Glesborg,225000 ,06-01-1994,Alm. Salg,138,1630.0,5,1900,
@@ -17310,7 +17098,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Fjellerup Bygade 9,8585, Glesborg,370000 ,04-10-1993,Auktion,397,867.0,10,1900,
 707,Villa,Lyngbyvej 75,8570, Trustrup,270000 ,04-10-1993,Alm. Salg,115,2348.0,4,1933,
 707,Villa,Glatved Strandvej 33,8444, Balle,550000 ,04-10-1993,Alm. Salg,117,4701.0,4,1900,
-707,Villa,Askhøjvej 4C,8570, Trustrup,310000 ,04-10-1993,Auktion,106,2925.0,3,1919,
 707,Ejerlejlighed,"Bavnehøjvej 3, 1. tv",8500, Grenaa,322000 ,03-10-1993,Alm. Salg,70,4600.0,3,1943,
 707,Ejerlejlighed,"Fuglevænget 25, st. th",8500, Grenaa,325000 ,03-10-1993,Alm. Salg,76,4276.0,3,1968,
 707,Villa,Allestrupvej 7,8961, Allingåbro,156797 ,03-10-1993,Alm. Salg,110,1425.0,4,1885,
@@ -17843,7 +17630,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Nellikevej 20,8500, Grenaa,541844 ,14-10-1992,Alm. Salg,92,5890.0,4,1992,
 707,Villa,Nellikevej 14,8500, Grenaa,543798 ,14-10-1992,Alm. Salg,95,5724.0,4,1991,
 707,Villa,Nellikevej 24,8500, Grenaa,548524 ,14-10-1992,Alm. Salg,92,5962.0,4,1992,
-707,Ejerlejlighed,"Søgade 6, st. th",8500, Grenaa,1350000 ,13-10-1992,Alm. Salg,123,10976.0,4,1905,
 707,Villa,Løkkeagrene 8,8950, Ørsted,485000 ,13-10-1992,Alm. Salg,137,3540.0,5,1975,
 707,Villa,Slåenbakken 6,8500, Grenaa,1100000 ,12-10-1992,Alm. Salg,187,5882.0,5,1964,
 707,Ejerlejlighed,"Æblerosevej 11, 1. th",8500, Grenaa,327500 ,11-10-1992,Alm. Salg,84,3899.0,3,1981,
@@ -17900,7 +17686,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Hornsleths Allé 1,8500, Grenaa,599000 ,14-09-1992,Alm. Salg,179,3346.0,4,1935,
 707,Villa,Lundbyvej 3,8961, Allingåbro,75739 ,14-09-1992,Alm. Salg,145,522.0,5,2001,
 707,Villa,Søgade 9,8500, Grenaa,306000 ,14-09-1992,Fam. Salg,160,1913.0,4,1907,
-707,Rækkehus,Havnevej 42A,8500, Grenaa,481000 ,13-09-1992,Alm. Salg,120,4008.0,4,1911,
 707,Villa,Villersø Kærvej 3,8500, Grenaa,250000 ,13-09-1992,Alm. Salg,60,4167.0,2,1900,
 707,Villa,Klintevej 9,8500, Grenaa,791304 ,13-09-1992,Alm. Salg,251,3153.0,7,1964,
 707,Villa,Sandstumpvej 19,8500, Grenaa,675000 ,13-09-1992,Alm. Salg,132,5114.0,4,1962,
@@ -18194,7 +17979,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Åvej 8,8500, Grenaa,475000 ,06-04-1992,Alm. Salg,132,3598.0,4,1933,
 707,Rækkehus,Doktorparken 5,8963, Auning,435582 ,05-04-1992,Alm. Salg,85,5124.0,3,1989,
 707,Villa,Møgelbjergparken 43,8500, Grenaa,814000 ,04-04-1992,Alm. Salg,144,5653.0,6,1987,
-707,Villa,Hovedgaden 17,8961, Allingåbro,776000 ,04-04-1992,Andet,130,5969.0,3,1905,
 707,Villa,Porsvej 2,8963, Auning,598000 ,03-04-1992,Alm. Salg,234,2556.0,7,1945,
 707,Villa,Allelev Sund 6,8570, Trustrup,330000 ,03-04-1992,Alm. Salg,124,2661.0,4,1904,
 707,Rækkehus,Havnevej 7,8500, Grenaa,375000 ,02-04-1992,Alm. Salg,179,2095.0,5,1900,
@@ -18208,9 +17992,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Villa,Nellikevej 22,8500, Grenaa,546962 ,31-03-1992,Alm. Salg,92,5945.0,4,1992,
 707,Ejerlejlighed,"Æblerosevej 15, 1. th",8500, Grenaa,372000 ,30-03-1992,Alm. Salg,84,4429.0,3,1981,
 707,Villa,Villavej 4,8963, Auning,398000 ,30-03-1992,Alm. Salg,128,3109.0,5,1965,
-707,Ejerlejlighed,A L Pedersens Vej 1A,8961, Allingåbro,450000 ,29-03-1992,Alm. Salg,94,4787.0,3,1907,
-707,Ejerlejlighed,"A L Pedersens Vej 1, 1",8961, Allingåbro,450000 ,29-03-1992,Alm. Salg,94,4787.0,2,1907,
-707,Ejerlejlighed,Hovedgaden 51,8961, Allingåbro,450000 ,29-03-1992,Alm. Salg,166,2711.0,9,1907,
 707,Villa,Lyngbyvej 16,8570, Trustrup,419455 ,29-03-1992,Alm. Salg,168,2497.0,7,1939,
 707,Villa,Bondhøjvej 34,8950, Ørsted,730000 ,29-03-1992,Alm. Salg,242,3017.0,8,1857,
 707,Villa,Østbakken 5,8586, Ørum Djurs,520550 ,29-03-1992,Alm. Salg,200,2603.0,6,1970,
@@ -18338,7 +18119,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 707,Ejerlejlighed,"Fuglevænget 21, st. th",8500, Grenaa,312000 ,28-01-1992,Alm. Salg,76,4105.0,3,1968,
 707,Villa,Skyttevej 20,8950, Ørsted,569587 ,28-01-1992,Alm. Salg,180,3164.0,7,1977,
 707,Villa,Hollandsbjergvej 29,8950, Ørsted,252118 ,28-01-1992,Auktion,139,1814.0,6,1855,
-707,Villa,Århusvej 6A,8963, Auning,337000 ,28-01-1992,Fam. Salg,90,2324.0,4,1904,
 707,Villa,Nordvej 5,8950, Ørsted,102000 ,28-01-1992,Auktion,125,816.0,3,1942,
 707,Villa,Nordvej 6,8950, Ørsted,330000 ,28-01-1992,Alm. Salg,175,1886.0,5,1928,
 707,Villa,Langgade 46,8961, Allingåbro,300000 ,27-01-1992,Alm. Salg,250,1200.0,5,1907,

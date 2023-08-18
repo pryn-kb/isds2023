@@ -221,9 +221,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Rækkehus,Amorbuen 103,3400, Hillerød,2875000 ,20-07-2022,Alm. Salg,133,21617.0,4,0,
 219,Rækkehus,Amorbuen 19,3400, Hillerød,3375000 ,19-07-2022,Alm. Salg,148,22804.0,5,2023,
 219,Villa,Ullerødvej 20,3400, Hillerød,1827500 ,19-07-2022,Fam. Salg,124,14738.0,5,1927,
-219,Rækkehus,Sophienlund 78,3400, Hillerød,3150000 ,18-07-2022,Alm. Salg,102,30882.0,4,2005,-1%
 219,Ejerlejlighed,"Mathilde Parken 13, 1. th",3400, Hillerød,2200000 ,18-07-2022,Alm. Salg,82,26829.0,3,2007,-4%
-219,Ejerlejlighed,"Slangerupgade 25B, 3",3400, Hillerød,3150000 ,18-07-2022,Alm. Salg,102,30882.0,3,1960,-1%
 219,Villa,Violvej 4,3400, Hillerød,3395000 ,18-07-2022,Alm. Salg,170,19971.0,5,1967,-3%
 219,Rækkehus,Kildedalen 60,3400, Hillerød,3950000 ,17-07-2022,Alm. Salg,134,29478.0,4,1978,
 219,Rækkehus,Amorbuen 97,3400, Hillerød,3562500 ,17-07-2022,Alm. Salg,133,26786.0,4,0,
@@ -277,8 +275,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Rækkehus,Amorbuen 115,3400, Hillerød,2500000 ,15-06-2022,Alm. Salg,111,22523.0,4,2023,
 219,Villa,Skovledet 57,3400, Hillerød,5975000 ,15-06-2022,Alm. Salg,250,23900.0,10,1961,0%
 219,Villa,Gadevænget 15,3320, Skævinge,3825000 ,15-06-2022,Alm. Salg,157,24363.0,5,1967,-1%
-219,Rækkehus,Solbuen 36,3400, Hillerød,4300000 ,14-06-2022,Alm. Salg,124,34677.0,4,2008,-2%
-219,Villa,Brødeskovparken 3,3400, Hillerød,4300000 ,14-06-2022,Alm. Salg,166,25904.0,7,2003,-7%
 219,Villa,Ålholmparken 95,3400, Hillerød,1428500 ,14-06-2022,Alm. Salg,184,7764.0,7,1970,
 219,Villa,Birkevej 24,3320, Skævinge,4000000 ,14-06-2022,Alm. Salg,202,19802.0,7,1966,-10%
 219,Rækkehus,Uvelse Park 37,3550, Slangerup,2630000 ,13-06-2022,Alm. Salg,82,32073.0,3,2006,-2%
@@ -401,7 +397,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Kaalundsvej 6,3400, Hillerød,4285000 ,12-04-2022,Alm. Salg,140,30607.0,5,1973,2%
 219,Villa,Ravnsbjergvej 8,3400, Hillerød,1750000 ,12-04-2022,Alm. Salg,239,7322.0,3,1897,
 219,Ejerlejlighed,"Allékredsen 1, 4. 4",3400, Hillerød,2605000 ,11-04-2022,Alm. Salg,73,35685.0,2,2017,0%
-219,Ejerlejlighed,"Trollesvej 2, 1. 1",3400, Hillerød,4295000 ,11-04-2022,Alm. Salg,107,40140.0,3,2009,
 219,Villa,Dyrehavevej 30,3400, Hillerød,5600000 ,10-04-2022,Fam. Salg,147,38095.0,6,1938,
 219,Rækkehus,Solbuen 21,3400, Hillerød,3795000 ,06-04-2022,Alm. Salg,108,35139.0,4,2015,
 219,Rækkehus,Regnbuen 28,3400, Hillerød,3595000 ,06-04-2022,Alm. Salg,114,31535.0,4,2011,
@@ -414,8 +409,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Hjortespringet 12,3400, Hillerød,1083750 ,04-04-2022,Fam. Salg,198,5473.0,5,1968,
 219,Villa,Egevej 11,3400, Hillerød,4445000 ,04-04-2022,Alm. Salg,115,38652.0,4,1961,-1%
 219,Rækkehus,Uvelse Have 18,3550, Slangerup,1825000 ,03-04-2022,Alm. Salg,68,26838.0,2,1989,-4%
-219,Ejerlejlighed,Nyhusevej 1S,3400, Hillerød,2250000 ,03-04-2022,Alm. Salg,64,35156.0,2,2006,
-219,Villa,Nordvestvej 12,3400, Hillerød,2250000 ,03-04-2022,Fam. Salg,147,15306.0,4,1916,
 219,Villa,Skovledet 69,3400, Hillerød,2066567 ,03-04-2022,Andet,114,18128.0,5,1936,
 219,Ejerlejlighed,"Slangerupgade 14B, 1. th",3400, Hillerød,2675000 ,31-03-2022,Alm. Salg,82,32622.0,3,1927,
 219,Villa,Smedievej 61,3400, Hillerød,4065000 ,31-03-2022,Alm. Salg,133,30564.0,5,1976,-3%
@@ -516,7 +509,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Gribskovvænget 48,3400, Hillerød,7100000 ,20-02-2022,Alm. Salg,253,28063.0,6,1970,
 219,Ejerlejlighed,Slotsgade 24C,3400, Hillerød,2900000 ,18-02-2022,Alm. Salg,82,35366.0,2,1890,-3%
 219,Rækkehus,Maltevang 26,3400, Hillerød,3600000 ,17-02-2022,Alm. Salg,120,30000.0,4,1990,
-219,Rækkehus,Cirkelbuen 119,3400, Hillerød,3651989 ,17-02-2022,Alm. Salg,91,40132.0,3,2022,
 219,Villa,Møllevænget 2,3400, Hillerød,6700000 ,17-02-2022,Alm. Salg,225,29778.0,7,1954,-4%
 219,Villa,Tornskadevej 15,3400, Hillerød,4175000 ,17-02-2022,Alm. Salg,114,36623.0,4,1967,-5%
 219,Villa,Falkevej 15,3400, Hillerød,5000000 ,17-02-2022,Alm. Salg,144,34722.0,5,1970,
@@ -577,7 +569,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Dyremosen 11,3320, Skævinge,1300000 ,30-01-2022,Alm. Salg,175,7429.0,5,2023,
 219,Villa,Jægerbakken 5,3600, Frederikssund,3425000 ,29-01-2022,Alm. Salg,159,21541.0,6,1998,
 219,Villa,Bombakken 7,3320, Skævinge,3950000 ,29-01-2022,Alm. Salg,141,28014.0,5,2006,
-219,Villa,Cirkelbuen 52,3400, Hillerød,6995000 ,29-01-2022,Alm. Salg,175,39971.0,5,2022,
 219,Rækkehus,Cirkelbuen 95,3400, Hillerød,3597988 ,27-01-2022,Alm. Salg,116,31017.0,4,2022,
 219,Rækkehus,Cirkelbuen 99,3400, Hillerød,3824097 ,27-01-2022,Alm. Salg,124,30839.0,4,2022,
 219,Villa,Cirkelbuen 20,3400, Hillerød,6495000 ,27-01-2022,Alm. Salg,166,39127.0,6,2021,
@@ -776,7 +767,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Hillerødvej 37A,3400, Hillerød,2675000 ,02-11-2021,Alm. Salg,184,14538.0,6,1960,-4%
 219,Villa,Præstevænget 1,3400, Hillerød,4150000 ,02-11-2021,Alm. Salg,184,22554.0,5,1972,-3%
 219,Villa,Kongens Vænge 155,3400, Hillerød,4695000 ,02-11-2021,Alm. Salg,197,23832.0,6,1975,
-219,Rækkehus,Slettebjerget 2,3400, Hillerød,3000000 ,01-11-2021,Alm. Salg,128,23438.0,3,1976,
 219,Rækkehus,Regnbuen 48,3400, Hillerød,3575000 ,01-11-2021,Alm. Salg,123,29065.0,4,2011,-1%
 219,Rækkehus,Amorbuen 75,3400, Hillerød,3875000 ,01-11-2021,Alm. Salg,133,29135.0,4,2023,
 219,Rækkehus,Nonnebuen 32,3400, Hillerød,1750000 ,01-11-2021,Alm. Salg,108,16204.0,4,2015,
@@ -784,7 +774,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Rækkehus,Amorbuen 91,3400, Hillerød,2375000 ,01-11-2021,Alm. Salg,113,21018.0,4,2022,
 219,Rækkehus,Amorbuen 53,3400, Hillerød,2750000 ,01-11-2021,Alm. Salg,135,20370.0,4,2023,
 219,Villa,Lille Lyngbyvej 11B,3320, Skævinge,3625000 ,01-11-2021,Alm. Salg,250,14500.0,7,1900,
-219,Villa,Agertoften 24A,3400, Hillerød,3000000 ,01-11-2021,Alm. Salg,207,14493.0,6,2023,
 219,Rækkehus,Amorbuen 49,3400, Hillerød,2625000 ,31-10-2021,Alm. Salg,133,19737.0,4,2023,
 219,Villa,Æblekrogen 13,3480, Fredensborg,4250000 ,31-10-2021,Alm. Salg,132,32197.0,4,1967,-1%
 219,Villa,Søbredden 5,3480, Fredensborg,3127834 ,31-10-2021,Fam. Salg,200,15639.0,7,2011,
@@ -836,8 +825,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Travegårdsvej 1,3320, Skævinge,2525000 ,14-10-2021,Alm. Salg,126,20040.0,4,1973,-1%
 219,Villa,Tvedåsvej 11,3320, Skævinge,3215000 ,14-10-2021,Alm. Salg,210,15310.0,5,1978,
 219,Ejerlejlighed,"Gl. Holmegårdsvej 7, st. th",3400, Hillerød,1800000 ,13-10-2021,Alm. Salg,85,21176.0,3,1970,-6%
-219,Ejerlejlighed,"Slotsgade 43, 2",3400, Hillerød,2300000 ,13-10-2021,Alm. Salg,85,27059.0,4,1870,
-219,Ejerlejlighed,Markedspladsen 15B,3400, Hillerød,2300000 ,13-10-2021,Alm. Salg,124,18548.0,3,1870,
 219,Villa,Torpegårdsvej 2,3320, Skævinge,3150000 ,13-10-2021,Alm. Salg,139,22662.0,4,1969,
 219,Villa,Tjærebyvej 8,3400, Hillerød,2625000 ,13-10-2021,Alm. Salg,110,23864.0,4,1966,-2%
 219,Rækkehus,Slettebjerget 159,3400, Hillerød,964977 ,12-10-2021,Alm. Salg,113,8540.0,4,1980,
@@ -923,9 +910,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Hovedgaden 44,3320, Skævinge,2000000 ,09-09-2021,Alm. Salg,167,11976.0,4,1942,-9%
 219,Rækkehus,Løngangsgade 34B,3400, Hillerød,3225000 ,08-09-2021,Alm. Salg,153,21078.0,5,1958,-2%
 219,Rækkehus,P. Mogensensvej 67A,3400, Hillerød,2995000 ,08-09-2021,Alm. Salg,130,23038.0,5,1983,
-219,Rækkehus,Favrholmvænget 50,3400, Hillerød,3250000 ,08-09-2021,Alm. Salg,122,26639.0,4,1976,
 219,Ejerlejlighed,"Gl. Holmegårdsvej 33, 1. tv",3400, Hillerød,1900000 ,08-09-2021,Fam. Salg,96,19792.0,4,1970,
-219,Ejerlejlighed,"Hostrupsvej 30, 3. 308",3400, Hillerød,3250000 ,08-09-2021,Alm. Salg,84,38690.0,3,2009,-4%
 219,Villa,Sporemagervej 9,3400, Hillerød,3950000 ,08-09-2021,Alm. Salg,161,24534.0,5,1966,
 219,Villa,Brødeskovparken 65,3400, Hillerød,4850000 ,08-09-2021,Alm. Salg,195,24872.0,7,2001,1%
 219,Rækkehus,Baunetoften 44,3320, Skævinge,2400000 ,07-09-2021,Alm. Salg,137,17518.0,4,1990,
@@ -1129,8 +1114,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Skansevej 62,3400, Hillerød,2900000 ,20-06-2021,Alm. Salg,74,39189.0,3,1936,-11%
 219,Rækkehus,Bombakken 20,3320, Skævinge,1807541 ,17-06-2021,Alm. Salg,107,16893.0,4,2007,
 219,Ejerlejlighed,"Allékredsen 5, 4. 3",3400, Hillerød,2960000 ,17-06-2021,Alm. Salg,89,33258.0,3,2017,
-219,Ejerlejlighed,"Frederiksværksgade 1A, 1",3400, Hillerød,4600000 ,16-06-2021,Alm. Salg,168,27381.0,7,1912,-8%
-219,Villa,Hjortevænget 4,3400, Hillerød,4600000 ,16-06-2021,Alm. Salg,122,37705.0,5,1946,-4%
 219,Rækkehus,Bolværket 123,3400, Hillerød,3595000 ,15-06-2021,Alm. Salg,123,29228.0,4,1988,
 219,Ejerlejlighed,"Bakkegade 7B, 1. th",3400, Hillerød,1890000 ,15-06-2021,Alm. Salg,63,30000.0,2,1944,-2%
 219,Villa,Jespervej 121,3400, Hillerød,2225000 ,15-06-2021,Alm. Salg,79,28165.0,2,1929,-3%
@@ -1227,9 +1210,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Ejerlejlighed,"Fredskovhellet 22, 2. th",3400, Hillerød,2320000 ,12-05-2021,Alm. Salg,109,21284.0,4,1963,3%
 219,Villa,Skovledet 141,3400, Hillerød,3225000 ,12-05-2021,Alm. Salg,98,32908.0,4,1958,1%
 219,Villa,Amalievej 29,3330, Gørløse,2150000 ,12-05-2021,Alm. Salg,101,21287.0,3,1967,-6%
-219,Rækkehus,Sophienlund 119,3400, Hillerød,3300000 ,11-05-2021,Alm. Salg,98,33673.0,4,2005,10%
 219,Villa,Smedievej 117,3400, Hillerød,3750000 ,11-05-2021,Alm. Salg,143,26224.0,5,1970,7%
-219,Villa,Gulspurvevej 6,3400, Hillerød,3300000 ,11-05-2021,Alm. Salg,132,25000.0,5,1963,-2%
 219,Villa,Bombakken 144,3320, Skævinge,3925000 ,11-05-2021,Alm. Salg,138,28442.0,5,2006,-2%
 219,Villa,Fangekrogen 19,3400, Hillerød,4910000 ,10-05-2021,Alm. Salg,164,29939.0,6,1969,
 219,Villa,Kulsviervej 8,3400, Hillerød,2200000 ,10-05-2021,Alm. Salg,121,18182.0,5,1775,-8%
@@ -1359,7 +1340,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Ådalen 6,3400, Hillerød,3775000 ,05-04-2021,Alm. Salg,150,25167.0,4,1962,-2%
 219,Villa,Åbuen 21,3400, Hillerød,5000000 ,05-04-2021,Alm. Salg,199,25126.0,9,2008,
 219,Villa,Nødebo Skovvænge 28,3480, Fredensborg,871250 ,04-04-2021,Fam. Salg,113,7710.0,5,1973,
-219,Villa,Hammersholt Byvej 37,3400, Hillerød,4165000 ,04-04-2021,Alm. Salg,104,40048.0,4,1929,-1%
 219,Ejerlejlighed,"Fredskovhellet 35, st. th",3400, Hillerød,1975000 ,03-04-2021,Alm. Salg,109,18119.0,4,1963,
 219,Villa,Tamsborgvej 50,3400, Hillerød,2775000 ,02-04-2021,Alm. Salg,183,15164.0,7,2023,-1%
 219,Villa,Rosenvej 11,3400, Hillerød,2100000 ,31-03-2021,Alm. Salg,124,16935.0,4,1968,5%
@@ -1581,7 +1561,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Ålholmparken 122,3400, Hillerød,4150000 ,06-02-2021,Alm. Salg,150,27667.0,5,1969,-2%
 219,Villa,Rytterstien 4,3400, Hillerød,3695000 ,05-02-2021,Alm. Salg,131,28206.0,5,1948,
 219,Rækkehus,Kildedalen 51,3400, Hillerød,3295000 ,04-02-2021,Alm. Salg,134,24590.0,4,1978,
-219,Villa,Hovmosevej 15,3400, Hillerød,6000000 ,04-02-2021,Alm. Salg,149,40268.0,5,2004,-4%
 219,Villa,Åhaven 14,3400, Hillerød,4495000 ,04-02-2021,Alm. Salg,131,34313.0,5,2000,
 219,Villa,Salpetermosevej 13,3400, Hillerød,3910000 ,04-02-2021,Alm. Salg,143,27343.0,5,1977,-1%
 219,Villa,Kongens Vænge 183,3400, Hillerød,2000000 ,04-02-2021,Fam. Salg,179,11173.0,6,1984,
@@ -1647,8 +1626,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Ejerlejlighed,"Slangerupgade 18, 1. tv",3400, Hillerød,1905000 ,19-01-2021,Alm. Salg,92,20707.0,3,1890,-7%
 219,Villa,Kløvervej 4,3400, Hillerød,2495000 ,19-01-2021,Alm. Salg,115,21696.0,4,1967,
 219,Villa,Bakkesvinget 27,3400, Hillerød,2695000 ,19-01-2021,Alm. Salg,185,14568.0,6,1965,-4%
-219,Rækkehus,Føllegårdsvej 8,3320, Skævinge,2495000 ,18-01-2021,Alm. Salg,95,26263.0,3,2020,
-219,Villa,Borupvej 9A,3320, Skævinge,2495000 ,18-01-2021,Alm. Salg,142,17570.0,6,1905,
 219,Villa,Helsingørsgade 23B,3400, Hillerød,3000000 ,18-01-2021,Alm. Salg,178,16854.0,3,0,
 219,Rækkehus,Søbuen 23,3400, Hillerød,4195000 ,17-01-2021,Alm. Salg,122,34385.0,3,2016,
 219,Ejerlejlighed,"Slangerupgade 2, 1. 20",3400, Hillerød,1640000 ,17-01-2021,Alm. Salg,62,26452.0,2,1979,-3%
@@ -1675,7 +1652,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Skrænten 5,3400, Hillerød,4675000 ,12-01-2021,Alm. Salg,166,28163.0,5,1965,-2%
 219,Villa,Hvedevangen 2,3400, Hillerød,3637500 ,12-01-2021,Alm. Salg,112,32478.0,4,2000,
 219,Villa,Kildeportvej 3A,3480, Fredensborg,4725000 ,12-01-2021,Alm. Salg,162,29167.0,6,2019,-1%
-219,Villa,Løngangsgade 21B,3400, Hillerød,750000 ,12-01-2021,Alm. Salg,209,3589.0,5,2021,
 219,Rækkehus,Bakkegade 2C,3400, Hillerød,3343350 ,11-01-2021,Alm. Salg,108,30957.0,3,2003,-4%
 219,Rækkehus,Søbuen 17,3400, Hillerød,4712500 ,11-01-2021,Alm. Salg,155,30403.0,3,2017,-2%
 219,Ejerlejlighed,"Møllebakken 22, kl. th",3400, Hillerød,1100000 ,11-01-2021,Alm. Salg,44,25000.0,1,1961,-8%
@@ -1737,11 +1713,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Rahbeksvej 5,3400, Hillerød,4575000 ,15-12-2020,Alm. Salg,154,29708.0,4,1973,
 219,Villa,P. Mogensensvej 77,3400, Hillerød,4850000 ,15-12-2020,Alm. Salg,235,20638.0,8,1922,-3%
 219,Villa,Brødeskovparken 23,3400, Hillerød,3600000 ,15-12-2020,Alm. Salg,158,22785.0,4,2000,0%
-219,Rækkehus,Sophienlund 71,3400, Hillerød,2850000 ,14-12-2020,Alm. Salg,102,27941.0,4,2005,-2%
 219,Villa,Folemestervej 6,3400, Hillerød,1400000 ,14-12-2020,Alm. Salg,105,13333.0,4,1967,
 219,Villa,Fuglebjergvej 3,3400, Hillerød,3425000 ,14-12-2020,Alm. Salg,192,17839.0,4,1969,5%
 219,Villa,Ravnsbjergvej 1A,3400, Hillerød,1800000 ,14-12-2020,Fam. Salg,105,17143.0,4,1985,
-219,Villa,Kongens Vænge 151,3400, Hillerød,2850000 ,14-12-2020,Alm. Salg,155,18387.0,4,1975,-3%
 219,Rækkehus,Kongens Vænge 261,3400, Hillerød,2910000 ,13-12-2020,Alm. Salg,98,29694.0,4,2006,-3%
 219,Rækkehus,Føllegårdsvej 32,3320, Skævinge,2550000 ,13-12-2020,Alm. Salg,95,26842.0,3,2020,-2%
 219,Rækkehus,Regnbuen 67,3400, Hillerød,3985000 ,13-12-2020,Alm. Salg,125,31880.0,5,2017,
@@ -1799,8 +1773,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Rækkehus,Baunetoften 17,3320, Skævinge,950000 ,25-11-2020,Fam. Salg,110,8636.0,4,1990,
 219,Ejerlejlighed,"Fredskovhellet 28, 1. tv",3400, Hillerød,2275000 ,25-11-2020,Alm. Salg,109,20872.0,4,1963,-1%
 219,Rækkehus,Føllegårdsvej 34,3320, Skævinge,2495000 ,24-11-2020,Alm. Salg,95,26263.0,3,2020,
-219,Ejerlejlighed,"Slotsgade 43, 2",3400, Hillerød,2200000 ,24-11-2020,Alm. Salg,85,25882.0,4,1870,
-219,Ejerlejlighed,Markedspladsen 15B,3400, Hillerød,2200000 ,24-11-2020,Alm. Salg,124,17742.0,3,1870,
 219,Ejerlejlighed,"Slangerupgade 25A, 2. th",3400, Hillerød,2398000 ,23-11-2020,Alm. Salg,80,29975.0,3,1960,
 219,Villa,Ålholmparken 66,3400, Hillerød,3500000 ,23-11-2020,Alm. Salg,140,25000.0,5,1969,-3%
 219,Villa,Fangekrogen 23,3400, Hillerød,3100000 ,23-11-2020,Alm. Salg,116,26724.0,4,1970,-3%
@@ -1932,7 +1904,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Mellemvangen 6,3400, Hillerød,5795000 ,15-10-2020,Alm. Salg,164,35335.0,5,1947,
 219,Villa,Sommersvej 17,3400, Hillerød,2115000 ,15-10-2020,Alm. Salg,117,18077.0,4,1962,
 219,Villa,Åvænget 28,3550, Slangerup,4333065 ,15-10-2020,Alm. Salg,185,23422.0,6,2021,190%
-219,Villa,Løngangsgade 21B,3400, Hillerød,750000 ,15-10-2020,Alm. Salg,209,3589.0,5,2021,
 219,Villa,Smedievej 239,3400, Hillerød,4400000 ,14-10-2020,Alm. Salg,177,24859.0,5,2000,-2%
 219,Villa,Sangagervej 13,3400, Hillerød,1175000 ,14-10-2020,Alm. Salg,170,6912.0,4,2021,-2%
 219,Villa,Jensensvej 9,3400, Hillerød,2550000 ,14-10-2020,Alm. Salg,116,21983.0,5,1916,-2%
@@ -2592,7 +2563,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Trollesmindevænget 6,3400, Hillerød,4625000 ,27-01-2020,Alm. Salg,174,26580.0,6,1941,
 219,Villa,Smedievej 2,3400, Hillerød,3000000 ,27-01-2020,Alm. Salg,136,22059.0,5,1974,-8%
 219,Villa,Cirkelbuen 50,3400, Hillerød,2095000 ,27-01-2020,Alm. Salg,162,12932.0,5,2020,
-219,Villa,Teglgårdslund 18A,3400, Hillerød,3000000 ,26-01-2020,Alm. Salg,128,23438.0,5,1904,-8%
 219,Villa,Bag Vænget 2,3400, Hillerød,5325000 ,26-01-2020,Alm. Salg,178,29916.0,6,1965,-3%
 219,Villa,Munkebuen 8,3400, Hillerød,5500000 ,25-01-2020,Alm. Salg,174,31609.0,7,2015,
 219,Rækkehus,Solbuen 37,3400, Hillerød,3675000 ,22-01-2020,Alm. Salg,125,29400.0,5,2015,-1%
@@ -2823,8 +2793,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Borupvej 9B,3320, Skævinge,2445000 ,30-09-2019,Alm. Salg,133,18383.0,6,2000,-2%
 219,Villa,Tjærebyvej 9,3400, Hillerød,2950000 ,30-09-2019,Alm. Salg,192,15365.0,6,1840,
 219,Rækkehus,Ved Skansebakken 123,3400, Hillerød,1750000 ,29-09-2019,Alm. Salg,53,33019.0,2,1972,-3%
-219,Rækkehus,Frederiksværksgade 95C,3400, Hillerød,2700000 ,29-09-2019,Alm. Salg,105,25714.0,4,1930,
-219,Ejerlejlighed,Frederiksværksgade 95B,3400, Hillerød,2700000 ,29-09-2019,Alm. Salg,125,21600.0,1,1930,
 219,Villa,Jensensvej 11B,3400, Hillerød,4000000 ,29-09-2019,Alm. Salg,140,28571.0,5,1975,
 219,Rækkehus,Regnbuen 82,3400, Hillerød,3795000 ,28-09-2019,Alm. Salg,140,27107.0,5,2015,
 219,Villa,Hyttebakken 6,3400, Hillerød,3100000 ,28-09-2019,Alm. Salg,147,21088.0,5,1965,0%
@@ -2915,8 +2883,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Vænget 11,3400, Hillerød,2200000 ,25-08-2019,Alm. Salg,150,14667.0,4,1967,-12%
 219,Villa,Holmegårdsvænget 1,3320, Skævinge,2875000 ,25-08-2019,Alm. Salg,157,18312.0,5,1978,-4%
 219,Villa,Enghavegårdsvej 39,3400, Hillerød,2400000 ,24-08-2019,Alm. Salg,156,15385.0,4,1971,-4%
-219,Rækkehus,Regnbuen 74,3400, Hillerød,3400000 ,23-08-2019,Alm. Salg,126,26984.0,4,2011,-3%
-219,Villa,Brombærhaven 38,3400, Hillerød,3400000 ,23-08-2019,Alm. Salg,166,20482.0,5,1996,-6%
 219,Ejerlejlighed,"Mathilde Parken 23, 1. th",3400, Hillerød,1950000 ,22-08-2019,Alm. Salg,77,25325.0,3,2007,-4%
 219,Villa,Fiskemestervej 9,3400, Hillerød,3325000 ,22-08-2019,Alm. Salg,164,20274.0,5,1966,-5%
 219,Villa,Jagtvej 6,3600, Frederikssund,3150000 ,22-08-2019,Alm. Salg,177,17797.0,6,2004,-1%
@@ -3391,9 +3357,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Triumfbuen 3,3400, Hillerød,1900000 ,03-02-2019,Alm. Salg,214,8879.0,7,2021,
 219,Ejerlejlighed,"Gl. Holmegårdsvej 25, 2. tv",3400, Hillerød,1610000 ,02-02-2019,Alm. Salg,82,19634.0,3,1970,-4%
 219,Villa,Hovedgaden 22,3320, Skævinge,1750000 ,02-02-2019,Alm. Salg,136,12868.0,4,1902,-10%
-219,Ejerlejlighed,"Helsingørsgade 20, 1",3400, Hillerød,2500000 ,31-01-2019,Alm. Salg,109,22936.0,3,1906,-4%
 219,Villa,Ternevej 15,3400, Hillerød,2320000 ,31-01-2019,Alm. Salg,116,20000.0,4,1987,-7%
-219,Villa,Søndre Jernbanevej 7,3400, Hillerød,2500000 ,31-01-2019,Alm. Salg,109,22936.0,3,1912,
 219,Ejerlejlighed,"Østergade 18, st",3400, Hillerød,2295000 ,30-01-2019,Alm. Salg,111,20676.0,3,1986,-1%
 219,Villa,Viemosevej 47,3400, Hillerød,828750 ,30-01-2019,Fam. Salg,118,7023.0,4,2006,
 219,Villa,Triumfbuen 14,3400, Hillerød,1900000 ,30-01-2019,Alm. Salg,159,11950.0,5,2020,
@@ -3914,7 +3878,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Gribskovvænget 40E,3400, Hillerød,5595000 ,21-06-2018,Alm. Salg,186,30081.0,6,1984,
 219,Villa,Hulvejen 18,3400, Hillerød,3750000 ,20-06-2018,Alm. Salg,204,18382.0,6,1931,-6%
 219,Villa,Nyvej 51,3320, Skævinge,1625000 ,20-06-2018,Alm. Salg,91,17857.0,4,1965,2%
-219,Villa,Strølillevej 32,3320, Skævinge,4900000 ,20-06-2018,Alm. Salg,339,14454.0,6,1974,-7%
 219,Villa,Nøddehegnet 34,3480, Fredensborg,2475000 ,20-06-2018,Alm. Salg,110,22500.0,4,1965,-5%
 219,Rækkehus,Åbuen 41,3400, Hillerød,3250000 ,19-06-2018,Alm. Salg,108,30093.0,4,2012,
 219,Ejerlejlighed,"Fredskovhellet 2J, st. 100",3400, Hillerød,1050000 ,19-06-2018,Alm. Salg,60,17500.0,1,1972,-4%
@@ -4097,9 +4060,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Triumfbuen 36,3400, Hillerød,2000000 ,16-04-2018,Alm. Salg,192,10417.0,5,2019,
 219,Rækkehus,Egebakken 1,3480, Fredensborg,3700000 ,15-04-2018,Alm. Salg,127,29134.0,3,2005,
 219,Rækkehus,Bombakken 84,3320, Skævinge,2500000 ,15-04-2018,Alm. Salg,106,23585.0,4,2007,
-219,Ejerlejlighed,Skansevej 77,3400, Hillerød,1600000 ,15-04-2018,Andet,76,21053.0,4,1959,
 219,Villa,Sophienborgvænget 11,3400, Hillerød,2320000 ,15-04-2018,Alm. Salg,160,14500.0,5,1970,-4%
-219,Villa,Skansevej 77A,3400, Hillerød,1600000 ,15-04-2018,Andet,159,10063.0,7,1959,
 219,Villa,Vangeledet 43,3400, Hillerød,3115000 ,15-04-2018,Alm. Salg,180,17306.0,5,1968,
 219,Villa,Helledammen 10,3400, Hillerød,2875000 ,15-04-2018,Alm. Salg,113,25442.0,5,1969,
 219,Villa,Tvedåsvej 10,3320, Skævinge,1775000 ,15-04-2018,Alm. Salg,136,13051.0,6,1978,-11%
@@ -4140,7 +4101,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Milnersvej 28A,3400, Hillerød,3150000 ,02-04-2018,Alm. Salg,98,32143.0,4,1961,-6%
 219,Villa,Strøvej 57,3320, Skævinge,4887500 ,02-04-2018,Fam. Salg,265,18443.0,5,2019,
 219,Villa,Triumfbuen 40,3400, Hillerød,2000000 ,02-04-2018,Alm. Salg,193,10363.0,6,2019,
-219,Villa,Løngangsgade 21B,3400, Hillerød,4100000 ,02-04-2018,Alm. Salg,209,19617.0,5,2021,
 219,Ejerlejlighed,"Ved Egedam 9, 1. 62",3400, Hillerød,765000 ,30-03-2018,Fam. Salg,75,10200.0,2,1975,
 219,Ejerlejlighed,"Langesvej 28, 1",3400, Hillerød,1955000 ,30-03-2018,Alm. Salg,113,17301.0,3,1935,-2%
 219,Rækkehus,Sophienlund 119,3400, Hillerød,2495000 ,28-03-2018,Alm. Salg,98,25459.0,4,2005,
@@ -4598,8 +4558,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Toftevangen 4,3320, Skævinge,2832500 ,12-09-2017,Alm. Salg,222,12759.0,5,1965,-1%
 219,Rækkehus,Kaj Sommers Vej 14,3320, Skævinge,1950000 ,11-09-2017,Alm. Salg,87,22414.0,3,2008,
 219,Ejerlejlighed,"Ved Skovgærdet 39, st. th",3400, Hillerød,1850000 ,11-09-2017,Alm. Salg,79,23418.0,4,1949,
-219,Ejerlejlighed,"Mathilde Parken 23, 4. mf",3400, Hillerød,2800000 ,10-09-2017,Alm. Salg,129,21705.0,3,2007,-3%
-219,Villa,Roskildevej 147A,3400, Hillerød,2800000 ,10-09-2017,Alm. Salg,125,22400.0,6,1983,-5%
 219,Villa,Langevang 4A,3400, Hillerød,2725000 ,10-09-2017,Alm. Salg,100,27250.0,4,1905,-1%
 219,Villa,Hammersholt Byvej 4,3400, Hillerød,3850000 ,10-09-2017,Alm. Salg,216,17824.0,6,1900,-1%
 219,Villa,Ålholmparken 151,3400, Hillerød,3145000 ,10-09-2017,Alm. Salg,117,26880.0,4,1985,
@@ -4662,8 +4620,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Fredensborgvej 31,3400, Hillerød,1070000 ,22-08-2017,Alm. Salg,83,11146.0,4,1923,
 219,Villa,P. Mogensensvej 65,3400, Hillerød,1775000 ,22-08-2017,Fam. Salg,124,14315.0,5,1933,
 219,Rækkehus,Sophienlund 29,3400, Hillerød,2250000 ,21-08-2017,Alm. Salg,98,22959.0,4,2005,
-219,Ejerlejlighed,"Slangerupgade 25D, 2. tv",3400, Hillerød,1650000 ,21-08-2017,Alm. Salg,80,20625.0,3,1960,-2%
-219,Ejerlejlighed,"Hostrupsvej 23, 2. tv",3400, Hillerød,1650000 ,21-08-2017,Alm. Salg,77,21429.0,3,1936,
 219,Ejerlejlighed,"Arresvej 8, st",3400, Hillerød,2595000 ,21-08-2017,Alm. Salg,86,30174.0,3,1936,
 219,Villa,Utkesvej 21,3400, Hillerød,3050000 ,21-08-2017,Fam. Salg,199,15327.0,7,1964,
 219,Ejerlejlighed,Nyhusevej 1A,3400, Hillerød,2700000 ,20-08-2017,Alm. Salg,90,30000.0,3,2006,
@@ -4682,9 +4638,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Krokusvej 21,3400, Hillerød,2295000 ,15-08-2017,Alm. Salg,119,19286.0,4,1978,
 219,Villa,Tulstrup Have 13,3400, Hillerød,2800000 ,15-08-2017,Alm. Salg,168,16667.0,5,1972,-2%
 219,Villa,Nejedevej 1,3400, Hillerød,3315000 ,15-08-2017,Alm. Salg,235,14106.0,4,1959,-5%
-219,Rækkehus,Sættedammen 15,3400, Hillerød,3500000 ,14-08-2017,Alm. Salg,176,19886.0,7,1972,
 219,Ejerlejlighed,"Fredskovhellet 28, 1. tv",3400, Hillerød,1745000 ,14-08-2017,Alm. Salg,109,16009.0,4,1963,-3%
-219,Villa,Teglgårdslund 12,3400, Hillerød,3500000 ,14-08-2017,Alm. Salg,145,24138.0,5,1906,0%
 219,Villa,Rideknægtsvej 11,3400, Hillerød,3200000 ,14-08-2017,Alm. Salg,128,25000.0,5,1966,7%
 219,Ejerlejlighed,"Møllebakken 20, kl. tv",3400, Hillerød,850000 ,13-08-2017,Alm. Salg,44,19318.0,1,1961,
 219,Villa,Kærvej 3,3550, Slangerup,2150000 ,13-08-2017,Alm. Salg,127,16929.0,4,1968,-6%
@@ -5230,14 +5184,11 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Herluf Trollesvej 12,3400, Hillerød,2750000 ,18-12-2016,Alm. Salg,188,14628.0,6,1971,-15%
 219,Villa,Travegårdsvej 11,3320, Skævinge,1175000 ,18-12-2016,Fam. Salg,174,6753.0,6,1971,
 219,Villa,Kulsviervej 5,3400, Hillerød,1200000 ,16-12-2016,Alm. Salg,72,16667.0,3,1939,
-219,Rækkehus,Solbakken 8B,3400, Hillerød,1250000 ,15-12-2016,Fam. Salg,39,32051.0,2,1914,
 219,Rækkehus,Slettebjerget 85,3400, Hillerød,3000000 ,15-12-2016,Alm. Salg,134,22388.0,6,1979,-8%
-219,Villa,Solbakken 8A,3400, Hillerød,1250000 ,15-12-2016,Fam. Salg,168,7440.0,7,1914,
 219,Villa,Tammosevej 13,3320, Skævinge,1300000 ,14-12-2016,Alm. Salg,105,12381.0,4,1966,-18%
 219,Villa,Ingemannsvej 4,3400, Hillerød,2175000 ,14-12-2016,Alm. Salg,154,14123.0,5,1973,
 219,Ejerlejlighed,"Bakkegade 29, st. tv",3400, Hillerød,1600000 ,13-12-2016,Alm. Salg,73,21918.0,3,1890,-3%
 219,Villa,Holmegårdsvej 21,3400, Hillerød,6200000 ,13-12-2016,Alm. Salg,321,19315.0,7,1911,-9%
-219,Villa,Frederiksværksgade 23F,3400, Hillerød,467500 ,13-12-2016,Fam. Salg,55,8500.0,2,1720,
 219,Villa,Jespervej 216,3400, Hillerød,1700000 ,12-12-2016,Fam. Salg,102,16667.0,3,1944,
 219,Villa,Gammelvej 8,3400, Hillerød,1918073 ,12-12-2016,Alm. Salg,172,11152.0,5,1978,
 219,Rækkehus,Slåenbækken 19,3400, Hillerød,1760000 ,11-12-2016,Alm. Salg,114,15439.0,5,1980,-2%
@@ -5529,15 +5480,12 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Ejerlejlighed,"Allékredsen 5, 1. 4",3400, Hillerød,1550000 ,24-08-2016,Alm. Salg,73,21233.0,2,2017,-14%
 219,Villa,Solbuen 107,3400, Hillerød,3920000 ,24-08-2016,Alm. Salg,163,24049.0,7,2009,
 219,Ejerlejlighed,"Ved Egedam 13, st. 85",3400, Hillerød,1295000 ,23-08-2016,Alm. Salg,80,16188.0,3,1975,-7%
-219,Villa,Skansevej 91,3400, Hillerød,2920000 ,23-08-2016,Alm. Salg,73,40000.0,2,1933,
 219,Villa,Kulsvier Huse 14,3400, Hillerød,3835000 ,23-08-2016,Alm. Salg,137,27993.0,5,1989,-3%
 219,Villa,Rideknægtsvej 14,3400, Hillerød,3250000 ,23-08-2016,Alm. Salg,122,26639.0,4,1967,-1%
 219,Villa,Munkebuen 17,3400, Hillerød,1575000 ,23-08-2016,Alm. Salg,161,9783.0,6,2017,
 219,Villa,Hvilegårdsparken 50,3320, Skævinge,2295000 ,22-08-2016,Alm. Salg,154,14903.0,5,1973,
-219,Rækkehus,Søbuen 55,3400, Hillerød,3295000 ,21-08-2016,Alm. Salg,135,24407.0,4,2016,
 219,Rækkehus,Regnbuen 66,3400, Hillerød,2700000 ,21-08-2016,Alm. Salg,117,23077.0,4,2011,-3%
 219,Ejerlejlighed,"Allékredsen 3, 3. 4",3400, Hillerød,1760893 ,21-08-2016,Alm. Salg,73,24122.0,2,2017,
-219,Villa,Frederiksværksgade 60,3400, Hillerød,3295000 ,21-08-2016,Alm. Salg,137,24051.0,5,1930,
 219,Villa,Åbuen 13,3400, Hillerød,1725000 ,21-08-2016,Fam. Salg,178,9691.0,6,2014,
 219,Villa,Stengårdsalle 9,3480, Fredensborg,2895000 ,21-08-2016,Alm. Salg,131,22099.0,4,2017,
 219,Ejerlejlighed,"Søndre Jernbanevej 3A, 3. th",3400, Hillerød,1995000 ,20-08-2016,Alm. Salg,93,21452.0,4,1934,
@@ -5736,7 +5684,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Ejerlejlighed,"Møllebakken 16, 1. th",3400, Hillerød,1500000 ,29-05-2016,Fam. Salg,83,18072.0,3,1961,
 219,Ejerlejlighed,"Hostrupsvej 27, 5. th",3400, Hillerød,1325000 ,29-05-2016,Alm. Salg,60,22083.0,2,1936,
 219,Villa,Humlegårdsvej 12,3400, Hillerød,2095000 ,29-05-2016,Alm. Salg,170,12324.0,6,2017,
-219,Villa,Harløsevej 256,3400, Hillerød,2595000 ,29-05-2016,Alm. Salg,158,16424.0,5,1986,
 219,Villa,Ålholmparken 147,3400, Hillerød,2062500 ,29-05-2016,Alm. Salg,195,10577.0,8,1986,-54%
 219,Ejerlejlighed,"Møllebakken 24, kl. tv",3400, Hillerød,755000 ,28-05-2016,Alm. Salg,39,19359.0,1,1961,
 219,Villa,Selskovvej 66,3400, Hillerød,1900000 ,28-05-2016,Alm. Salg,124,15323.0,4,1927,-21%
@@ -6258,12 +6205,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Humlevænget 2,3480, Fredensborg,2620000 ,04-10-2015,Alm. Salg,189,13862.0,7,1964,
 219,Villa,Gørløsegårdsvej 13,3330, Gørløse,845000 ,04-10-2015,Alm. Salg,150,5633.0,6,2016,
 219,Villa,Herlevgårdsvej 23,3400, Hillerød,1650000 ,03-10-2015,Alm. Salg,121,13636.0,5,1969,-6%
-219,Ejerlejlighed,"Markedsstræde 8, 2. tv",3400, Hillerød,700000 ,01-10-2015,Alm. Salg,74,9459.0,2,1991,
-219,Ejerlejlighed,"Markedsstræde 8, 2. th",3400, Hillerød,700000 ,01-10-2015,Alm. Salg,77,9091.0,2,1991,
-219,Ejerlejlighed,"Markedsstræde 10, 2",3400, Hillerød,700000 ,01-10-2015,Alm. Salg,93,7527.0,3,1991,
 219,Ejerlejlighed,"Bakkegade 33, 1. tv",3400, Hillerød,1290000 ,01-10-2015,Alm. Salg,61,21148.0,2,1938,-8%
-219,Ejerlejlighed,"Slotsgade 27A, 2. th",3400, Hillerød,700000 ,01-10-2015,Alm. Salg,75,9333.0,2,1991,
-219,Ejerlejlighed,"Slotsgade 27A, 2. tv",3400, Hillerød,700000 ,01-10-2015,Alm. Salg,78,8974.0,2,1991,
 219,Villa,Kulsviervej 11,3400, Hillerød,2900000 ,01-10-2015,Alm. Salg,193,15026.0,7,1900,-3%
 219,Ejerlejlighed,"Langesvej 39, 2",3400, Hillerød,1460000 ,30-09-2015,Alm. Salg,95,15368.0,4,1916,-3%
 219,Ejerlejlighed,"Brickasvej 5, kl. th",3400, Hillerød,1100000 ,30-09-2015,Alm. Salg,58,18966.0,2,1945,
@@ -6583,11 +6525,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Rækkehus,Nonnebuen 8,3400, Hillerød,2775000 ,09-05-2015,Alm. Salg,125,22200.0,4,2015,
 219,Rækkehus,Slettebjerget 62,3400, Hillerød,1200000 ,07-05-2015,Fam. Salg,112,10714.0,4,1977,
 219,Rækkehus,Baunetoften 36,3320, Skævinge,1400000 ,07-05-2015,Alm. Salg,86,16279.0,3,1990,-6%
-219,Rækkehus,Nonnebuen 20,3400, Hillerød,2375000 ,07-05-2015,Alm. Salg,108,21991.0,3,2015,
 219,Ejerlejlighed,Allékredsen 141,3400, Hillerød,1735000 ,07-05-2015,Alm. Salg,79,21962.0,3,2009,
 219,Villa,Tamsborgvej 16,3400, Hillerød,4100000 ,07-05-2015,Alm. Salg,195,21026.0,7,1945,-3%
 219,Villa,Kærstykket 4,3550, Slangerup,1930000 ,07-05-2015,Alm. Salg,124,15565.0,5,1969,-3%
-219,Villa,Bøgevej 4,3400, Hillerød,2375000 ,07-05-2015,Alm. Salg,151,15728.0,5,1955,-5%
 219,Villa,Hjortholmvej 11,3400, Hillerød,2350000 ,06-05-2015,Alm. Salg,70,33571.0,3,1939,
 219,Villa,Amtmandsvej 38,3400, Hillerød,2825000 ,06-05-2015,Alm. Salg,202,13985.0,7,1984,-2%
 219,Ejerlejlighed,"Fredskovhellet 2G, 1. 32",3400, Hillerød,755000 ,05-05-2015,Alm. Salg,79,9557.0,2,1972,-5%
@@ -6886,7 +6826,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Ved Skoven 14,3480, Fredensborg,1050000 ,10-12-2014,Alm. Salg,128,8203.0,4,2016,-14%
 219,Rækkehus,Solbuen 35,3400, Hillerød,2725000 ,09-12-2014,Alm. Salg,125,21800.0,5,2014,
 219,Villa,Brødeskovparken 57,3400, Hillerød,2895000 ,09-12-2014,Alm. Salg,194,14923.0,7,2001,
-219,Villa,Harløsevej 210A,3400, Hillerød,2000000 ,09-12-2014,Alm. Salg,88,22727.0,3,1957,
 219,Ejerlejlighed,"Slangerupgade 4, 1. 5",3400, Hillerød,1400000 ,08-12-2014,Alm. Salg,91,15385.0,3,1979,-10%
 219,Villa,Ålholmparken 55,3400, Hillerød,1800000 ,08-12-2014,Fam. Salg,204,8824.0,6,1971,
 219,Villa,Kingosvej 15,3400, Hillerød,2695000 ,08-12-2014,Alm. Salg,185,14568.0,4,1974,-4%
@@ -7395,7 +7334,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Byvej 38,3320, Skævinge,1300000 ,10-03-2014,Alm. Salg,196,6633.0,6,1938,13%
 219,Villa,Holmegårdsvej 56,3400, Hillerød,2000000 ,10-03-2014,Alm. Salg,155,12903.0,6,1960,-9%
 219,Ejerlejlighed,"Milnersvej 12, 1. tv",3400, Hillerød,1995000 ,08-03-2014,Alm. Salg,86,23198.0,3,2003,
-219,Villa,Vinkelvænget 29,3330, Gørløse,2350000 ,07-03-2014,Alm. Salg,147,15986.0,6,1946,
 219,Rækkehus,Sophienlund 27,3400, Hillerød,1571534 ,06-03-2014,Andet,98,16036.0,4,2005,
 219,Rækkehus,Bolværket 121,3400, Hillerød,807553 ,06-03-2014,Andet,123,6565.0,4,1988,
 219,Rækkehus,Baunehøjen 35,3320, Skævinge,1330000 ,05-03-2014,Alm. Salg,86,15465.0,4,1986,-5%
@@ -7413,8 +7351,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Vangeledet 11,3400, Hillerød,3350000 ,01-03-2014,Alm. Salg,161,20807.0,5,1975,
 219,Villa,Fredensvej 15,3400, Hillerød,3095000 ,27-02-2014,Alm. Salg,182,17005.0,6,1964,-3%
 219,Rækkehus,Utkesvej 8,3400, Hillerød,1865000 ,26-02-2014,Alm. Salg,85,21941.0,4,1968,-1%
-219,Rækkehus,Bolværket 115,3400, Hillerød,2050000 ,26-02-2014,Alm. Salg,123,16667.0,4,1988,-7%
-219,Ejerlejlighed,"Frederiksværksgade 30, 1",3400, Hillerød,2050000 ,26-02-2014,Alm. Salg,72,28472.0,3,1917,-7%
 219,Villa,Vænget 26,3400, Hillerød,1945000 ,26-02-2014,Alm. Salg,175,11114.0,5,1971,-3%
 219,Villa,Funkevej 31,3400, Hillerød,350000 ,26-02-2014,Fam. Salg,167,2096.0,6,2012,
 219,Rækkehus,Granbakken 10,3400, Hillerød,2425000 ,25-02-2014,Alm. Salg,115,21087.0,3,1963,-3%
@@ -7616,7 +7552,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Rækkehus,Granbakken 10,3330, Gørløse,1400000 ,22-10-2013,Alm. Salg,134,10448.0,4,1955,-14%
 219,Ejerlejlighed,Humlehaven 12,3400, Hillerød,1250000 ,22-10-2013,Alm. Salg,52,24038.0,2,1989,
 219,Villa,Roskildevej 86,3400, Hillerød,935000 ,22-10-2013,Fam. Salg,85,11000.0,2,1825,
-219,Villa,Vinkelvænget 29,3330, Gørløse,2225000 ,22-10-2013,Alm. Salg,147,15136.0,6,1946,
 219,Villa,Selskovvej 36A,3400, Hillerød,1700000 ,22-10-2013,Alm. Salg,199,8543.0,7,2018,
 219,Rækkehus,Favrholmvænget 58,3400, Hillerød,2010000 ,21-10-2013,Alm. Salg,122,16475.0,4,1975,-8%
 219,Villa,Skovduevej 13,3400, Hillerød,2175000 ,21-10-2013,Alm. Salg,107,20327.0,4,1966,-5%
@@ -7718,9 +7653,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Smedievej 5,3400, Hillerød,2550000 ,15-08-2013,Alm. Salg,160,15938.0,6,1972,-5%
 219,Rækkehus,Arresøvej 7,3310, Ølsted,900000 ,14-08-2013,Alm. Salg,88,10227.0,3,1965,-5%
 219,Rækkehus,Hvidkløvervej 6,3400, Hillerød,1650000 ,13-08-2013,Alm. Salg,111,14865.0,5,1962,-7%
-219,Ejerlejlighed,"Frederiksgade 4, 3. tv",3400, Hillerød,3250000 ,13-08-2013,Alm. Salg,133,24436.0,4,1918,
 219,Ejerlejlighed,"Stutmestervej 21B, 2. th",3400, Hillerød,1245000 ,13-08-2013,Alm. Salg,65,19154.0,2,1941,-4%
-219,Villa,Brødeskovparken 75,3400, Hillerød,3250000 ,13-08-2013,Fam. Salg,173,18786.0,7,2000,
 219,Villa,Hyldevang 22,3400, Hillerød,2100000 ,13-08-2013,Alm. Salg,95,22105.0,4,1984,-4%
 219,Rækkehus,Gl. Holmegårdsvej 4K,3400, Hillerød,1350000 ,12-08-2013,Alm. Salg,80,16875.0,3,1975,
 219,Ejerlejlighed,"Slangerupgade 12A, 1. 4",3400, Hillerød,835000 ,12-08-2013,Alm. Salg,41,20366.0,1,1959,-3%
@@ -8114,14 +8047,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Ejerlejlighed,"Mathilde Parken 21, 4. mf",3400, Hillerød,2300000 ,28-10-2012,Alm. Salg,129,17829.0,4,2007,-6%
 219,Villa,Birkehaven 76,3400, Hillerød,2175000 ,28-10-2012,Alm. Salg,112,19420.0,4,1976,-4%
 219,Villa,Løngangsgade 43,3400, Hillerød,1150000 ,25-10-2012,Alm. Salg,113,10177.0,5,1917,
-219,Rækkehus,Vinkelvænget 2C,3330, Gørløse,1050000 ,24-10-2012,Alm. Salg,64,16406.0,3,1979,-16%
 219,Ejerlejlighed,Fruervadvej 12,3320, Skævinge,1749000 ,24-10-2012,Auktion,734,2383.0,17,1930,
-219,Ejerlejlighed,Lystrupvej 6B,3330, Gørløse,1050000 ,24-10-2012,Alm. Salg,70,15000.0,2,1939,-16%
-219,Ejerlejlighed,Lystrupvej 6A,3330, Gørløse,1050000 ,24-10-2012,Alm. Salg,95,11053.0,3,1939,-16%
-219,Ejerlejlighed,Vinkelvænget 2A,3330, Gørløse,1050000 ,24-10-2012,Alm. Salg,70,15000.0,2,1939,-16%
-219,Ejerlejlighed,Vinkelvænget 2B,3330, Gørløse,1050000 ,24-10-2012,Alm. Salg,95,11053.0,3,1939,-16%
 219,Villa,Frederiksværksgade 46,3400, Hillerød,2995000 ,24-10-2012,Alm. Salg,122,24549.0,4,1928,
-219,Villa,Fruervadvej 14A,3320, Skævinge,3520000 ,24-10-2012,Auktion,187,18824.0,5,1960,
 219,Ejerlejlighed,"Slangerupgade 14B, 2. th",3400, Hillerød,1585000 ,23-10-2012,Alm. Salg,82,19329.0,3,1927,-4%
 219,Ejerlejlighed,"Hostrupsvej 20, st",3400, Hillerød,2075000 ,22-10-2012,Alm. Salg,161,12888.0,5,1930,-8%
 219,Villa,Brødeskovvej 27,3400, Hillerød,1200000 ,22-10-2012,Alm. Salg,159,7547.0,6,1955,
@@ -8152,8 +8079,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Rækkehus,Bombakken 42,3320, Skævinge,1845000 ,06-10-2012,Alm. Salg,107,17243.0,4,2008,
 219,Ejerlejlighed,"Bakkegade 33, st",3400, Hillerød,1075000 ,03-10-2012,Alm. Salg,61,17623.0,2,1938,
 219,Villa,Baunevej 7,3400, Hillerød,1600000 ,03-10-2012,Alm. Salg,131,12214.0,4,1977,-16%
-219,Ejerlejlighed,"Christianshave 3, 1. tv",3400, Hillerød,2900000 ,02-10-2012,Alm. Salg,136,21324.0,4,2007,-2%
-219,Villa,Smedievej 55,3400, Hillerød,2900000 ,02-10-2012,Alm. Salg,180,16111.0,6,1973,-5%
 219,Villa,Bolandsvang 19,3400, Hillerød,182500 ,02-10-2012,Andet,128,1426.0,5,1981,-93%
 219,Ejerlejlighed,Nordre Jernbanevej 17B,3400, Hillerød,1450000 ,01-10-2012,Alm. Salg,64,22656.0,2,1912,
 219,Ejerlejlighed,"Solbakken 2B, 1. tv",3400, Hillerød,1800000 ,30-09-2012,Alm. Salg,98,18367.0,3,1988,-5%
@@ -8177,10 +8102,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Ålholmparken 67,3400, Hillerød,946943 ,18-09-2012,Alm. Salg,127,7456.0,4,1969,
 219,Villa,Syrenvej 3,3400, Hillerød,950000 ,18-09-2012,Alm. Salg,140,6786.0,5,1966,-27%
 219,Villa,Petersborgvej 15,3400, Hillerød,2595000 ,18-09-2012,Alm. Salg,99,26212.0,3,1929,
-219,Rækkehus,Bolværket 71,3400, Hillerød,1000000 ,17-09-2012,Fam. Salg,89,11236.0,3,1988,
 219,Rækkehus,Allékredsen 100,3400, Hillerød,2195000 ,17-09-2012,Alm. Salg,106,20708.0,4,2009,-2%
 219,Ejerlejlighed,"Ved Egedam 17, st. 112",3400, Hillerød,999000 ,17-09-2012,Alm. Salg,68,14691.0,3,1975,
-219,Ejerlejlighed,"Stutmestervej 27, st. th",3400, Hillerød,1000000 ,17-09-2012,Alm. Salg,68,14706.0,2,1941,-5%
 219,Ejerlejlighed,"Møllebakken 38, 1. tv",3400, Hillerød,1410000 ,17-09-2012,Alm. Salg,77,18312.0,3,1961,-6%
 219,Villa,Brombærhaven 23,3400, Hillerød,1362093 ,17-09-2012,Alm. Salg,134,10165.0,6,1997,
 219,Villa,Nødebovej 22,3480, Fredensborg,2750000 ,17-09-2012,Alm. Salg,178,15449.0,6,2001,-8%
@@ -8383,97 +8306,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Ejerlejlighed,"Hostrupsvej 29, st. tv",3400, Hillerød,1245000 ,23-04-2012,Alm. Salg,65,19154.0,2,1936,-4%
 219,Villa,Kulsvier Huse 19,3400, Hillerød,2720000 ,23-04-2012,Alm. Salg,169,16095.0,6,1987,
 219,Villa,Solbuen 93,3400, Hillerød,3695000 ,23-04-2012,Alm. Salg,164,22530.0,5,2011,
-219,Ejerlejlighed,"Søndre Jernbanevej 25, st. th",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,150,8925.0,6,1900,
-219,Ejerlejlighed,"Søndre Jernbanevej 25, 1. th",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,150,8925.0,6,1900,
-219,Ejerlejlighed,"Søndre Jernbanevej 25, 2. th",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,140,9563.0,5,1900,
-219,Ejerlejlighed,"Søndre Jernbanevej 25, st. tv",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,150,8925.0,5,1900,
-219,Ejerlejlighed,"Søndre Jernbanevej 25, 1. tv",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,130,10298.0,5,1900,
-219,Ejerlejlighed,"Søndre Jernbanevej 25, 2. tv",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,120,11156.0,4,1900,
-219,Ejerlejlighed,"Vibekevej 7B, 2. 2",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,75,17850.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 2. 3",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,74,18091.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 4. 3",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,74,18091.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7A, 1. 3",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,82,16326.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7E, 2. 3",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,94,14242.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7D, st. 2",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,65,20596.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 1. 1",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,77,17386.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7D, 3. 3",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,92,14552.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7C, 2. 1",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,74,18091.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7C, st. 3",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,84,15938.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7B, st. 2",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,75,17850.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7C, st. 2",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,72,18594.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7A, st. 3",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,72,18594.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7D, 1. 4",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,93,14395.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 2. 4",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,77,17386.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, st. 4",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,77,17386.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7E, st. 4",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,73,18339.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7E, st. 3",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,94,14242.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7D, st. 1",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,91,14712.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7E, 4. 4",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,90,14875.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7D, 2. 3",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,92,14552.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7D, st. 4",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,86,15567.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 4. 2",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,78,17163.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7D, 2. 1",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,89,15042.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7D, 3. 4",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,93,14395.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 1. 3",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,74,18091.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7E, 1. 4",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,73,18339.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7E, 2. 4",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,73,18339.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7A, st. 2",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,72,18594.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7D, 5",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,113,11847.0,4,2020,
-219,Ejerlejlighed,"Vibekevej 7D, 4. 3",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,93,14395.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7C, 1. 3",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,84,15938.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 1. 2",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,75,17850.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 3. 3",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,74,18091.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 3. 4",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,77,17386.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7A, 3",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,94,14242.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7C, st. 4",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,71,18856.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 1. 4",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,77,17386.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 3. 5",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,70,19125.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 3. 2",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,75,17850.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7C, 4",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,88,15213.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7A, 1. 1",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,71,18856.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 5",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,90,14875.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7D, 3. 2",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,65,20596.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7E, 2. 1",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,76,17615.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7D, 1. 1",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,89,15042.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7C, st. 1",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,74,18091.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 2. 1",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,77,17386.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7C, 3. 4",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,73,18339.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 2. 5",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,70,19125.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 1. 5",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,70,19125.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7E, 1. 2",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,68,19688.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, st. 1",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,77,17386.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7C, 1. 4",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,71,18856.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7A, 1. 2",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,72,18594.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7A, st. 1",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,73,18339.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7C, 1. 1",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,74,18091.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 4. 5",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,70,19125.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 3. 1",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,77,17386.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7D, 1. 2",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,65,20596.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7C, 3. 2",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,72,18594.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7E, 3. 4",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,74,18091.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7C, 3. 1",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,74,18091.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 4. 4",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,77,17386.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7E, 1. 1",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,76,17615.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, st. 3",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,74,18091.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, st. 5",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,70,19125.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7C, 1. 2",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,72,18594.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7D, 4. 4",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,93,14395.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7D, 2. 2",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,65,20596.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7A, 2. 3",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,82,16326.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7D, 3. 1",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,89,15042.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7A, 2. 1",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,74,18091.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7E, 3. 2",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,72,18594.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7D, 2. 4",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,93,14395.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7E, 1. 3",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,95,14092.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7C, 2. 4",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,71,18856.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7C, 2. 3",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,84,15938.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7D, st. 3",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,92,14552.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7C, 2. 2",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,72,18594.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7D, 1. 3",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,92,14552.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7E, st. 1",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,76,17615.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7E, st. 2",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,68,19688.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7E, 2. 2",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,68,19688.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7D, 4. 1",3400, Hillerød,1338750 ,22-04-2012,Alm. Salg,91,14712.0,3,2020,
 219,Villa,Granbakken 56,3400, Hillerød,2800000 ,22-04-2012,Alm. Salg,124,22581.0,3,1967,-7%
 219,Rækkehus,Petersborgvej 25A,3400, Hillerød,2000000 ,21-04-2012,Alm. Salg,104,19231.0,3,1990,
 219,Rækkehus,Allékredsen 64,3400, Hillerød,2750000 ,20-04-2012,Alm. Salg,125,22000.0,4,2011,
@@ -8642,8 +8474,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Ejerlejlighed,"Fredskovhellet 26, 1. tv",3400, Hillerød,1250000 ,14-12-2011,Alm. Salg,110,11364.0,4,1963,-3%
 219,Villa,Tvedåsvej 20,3320, Skævinge,1600000 ,14-12-2011,Alm. Salg,133,12030.0,5,1977,
 219,Villa,Fuglekæret 1,3400, Hillerød,5335500 ,14-12-2011,Alm. Salg,328,16267.0,10,2012,
-219,Ejerlejlighed,"Slotsgade 52B, 1. th",3400, Hillerød,1500000 ,13-12-2011,Alm. Salg,80,18750.0,2,1830,-16%
-219,Ejerlejlighed,"Langesvej 11C, 1",3400, Hillerød,1500000 ,13-12-2011,Alm. Salg,113,13274.0,4,1900,
 219,Villa,Rønnebærvej 12,3400, Hillerød,2650000 ,13-12-2011,Alm. Salg,168,15774.0,7,1962,-10%
 219,Rækkehus,Kongens Vænge 277,3400, Hillerød,2100000 ,12-12-2011,Alm. Salg,98,21429.0,4,2006,-6%
 219,Ejerlejlighed,"Slotsgade 52B, 1. th",3400, Hillerød,1500000 ,12-12-2011,Alm. Salg,80,18750.0,2,1830,-16%
@@ -8686,7 +8516,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Gadekærsvej 5,3330, Gørløse,1495000 ,13-11-2011,Alm. Salg,189,7910.0,6,1967,
 219,Villa,Lundholmvænget 6,3400, Hillerød,3540000 ,10-11-2011,Alm. Salg,175,20229.0,5,1978,-2%
 219,Villa,Heibergsvej 10,3400, Hillerød,2200000 ,10-11-2011,Alm. Salg,140,15714.0,5,1973,-8%
-219,Villa,Lystrupvej 51,3550, Slangerup,79254 ,10-11-2011,Alm. Salg,180,440.0,6,2018,
 219,Ejerlejlighed,"Fredskovhellet 23, 1. tv",3400, Hillerød,920000 ,08-11-2011,Alm. Salg,109,8440.0,4,1963,-23%
 219,Villa,Under Bakken 7,3400, Hillerød,2995000 ,08-11-2011,Alm. Salg,155,19323.0,5,1967,
 219,Villa,Bremerholmen 34B,3320, Skævinge,2200000 ,06-11-2011,Alm. Salg,136,16176.0,3,2004,-8%
@@ -8979,8 +8808,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Ejerlejlighed,"Stutmestervej 19C, 2. tv",3400, Hillerød,1333325 ,01-04-2011,Alm. Salg,73,18265.0,2,1941,-10%
 219,Villa,Skovduevej 2,3400, Hillerød,2800000 ,31-03-2011,Alm. Salg,182,15385.0,6,1968,-3%
 219,Villa,Hyldevang 16,3400, Hillerød,975000 ,31-03-2011,Alm. Salg,95,10263.0,4,1985,
-219,Rækkehus,Granbakken 25,3400, Hillerød,1850000 ,30-03-2011,Alm. Salg,108,17130.0,4,1962,
-219,Villa,Højager 36,3400, Hillerød,1850000 ,30-03-2011,Alm. Salg,242,7645.0,7,1977,
 219,Rækkehus,Sophienlund 68,3400, Hillerød,2150000 ,29-03-2011,Alm. Salg,98,21939.0,4,2005,-4%
 219,Ejerlejlighed,"Fredskovhellet 2H, 1. 68",3400, Hillerød,770000 ,29-03-2011,Alm. Salg,79,9747.0,2,1972,-3%
 219,Villa,Hovsmedevej 10,3400, Hillerød,2600000 ,29-03-2011,Alm. Salg,152,17105.0,6,1970,
@@ -9095,8 +8922,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Herluf Trollesvej 9,3400, Hillerød,1620500 ,17-01-2011,Alm. Salg,137,11828.0,5,1954,
 219,Ejerlejlighed,"Københavnsvej 14, 1. th",3400, Hillerød,1645000 ,16-01-2011,Alm. Salg,99,16616.0,4,1890,
 219,Villa,Svanevej 3,3400, Hillerød,2350000 ,16-01-2011,Alm. Salg,146,16096.0,4,1973,-12%
-219,Ejerlejlighed,"Slotsgade 43, 2",3400, Hillerød,1740000 ,12-01-2011,Alm. Salg,85,20471.0,4,1870,
-219,Ejerlejlighed,Markedspladsen 15B,3400, Hillerød,1740000 ,12-01-2011,Alm. Salg,124,14032.0,3,1870,
 219,Villa,Brunebjerg 7,3400, Hillerød,1115086 ,12-01-2011,Fam. Salg,187,5963.0,8,1986,
 219,Ejerlejlighed,"Hostrupsvej 18, 2",3400, Hillerød,1750000 ,11-01-2011,Alm. Salg,105,16667.0,3,1936,
 219,Villa,Engsvinget 41,3400, Hillerød,2675000 ,10-01-2011,Alm. Salg,136,19669.0,5,1976,-4%
@@ -9167,8 +8992,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Hyrdebakken 2,3400, Hillerød,2650000 ,18-11-2010,Alm. Salg,211,12559.0,7,1924,-5%
 219,Villa,Meløsevej 6,3320, Skævinge,1500000 ,18-11-2010,Alm. Salg,100,15000.0,4,1900,-3%
 219,Ejerlejlighed,"Slangerupgade 14A, 1. 2",3400, Hillerød,650000 ,17-11-2010,Alm. Salg,40,16250.0,1,1959,-12%
-219,Ejerlejlighed,"Slangerupgade 27E, st. th",3400, Hillerød,1225000 ,17-11-2010,Alm. Salg,75,16333.0,2,1960,
-219,Ejerlejlighed,"Ved Egedam 11, 1. 76",3400, Hillerød,1225000 ,17-11-2010,Alm. Salg,75,16333.0,2,1975,
 219,Villa,Bredevang 1,3400, Hillerød,2600000 ,16-11-2010,Alm. Salg,72,36111.0,3,1937,-4%
 219,Villa,Baunevænget 42,3480, Fredensborg,4000000 ,15-11-2010,Alm. Salg,186,21505.0,7,1985,-5%
 219,Villa,Nordskrænten 9,3400, Hillerød,1625000 ,15-11-2010,Alm. Salg,117,13889.0,4,1965,-9%
@@ -9337,9 +9160,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Rækkehus,Bombakken 94,3320, Skævinge,2300000 ,07-08-2010,Alm. Salg,130,17692.0,4,2007,
 219,Ejerlejlighed,"Ved Egedam 19, 1. 133",3400, Hillerød,1145000 ,07-08-2010,Alm. Salg,65,17615.0,2,1975,-4%
 219,Rækkehus,Åbuen 16,3400, Hillerød,2295000 ,04-08-2010,Alm. Salg,108,21250.0,3,2011,
-219,Rækkehus,Regnbuen 64,3400, Hillerød,2395000 ,04-08-2010,Alm. Salg,114,21009.0,4,2011,-4%
 219,Ejerlejlighed,"Slangerupgade 27B, 1. th",3400, Hillerød,1285000 ,04-08-2010,Alm. Salg,72,17847.0,2,1960,-1%
-219,Villa,Amtmandsvej 8,3400, Hillerød,2395000 ,04-08-2010,Alm. Salg,145,16517.0,5,1902,
 219,Villa,Egevej 15,3400, Hillerød,3275000 ,04-08-2010,Alm. Salg,186,17608.0,6,1962,-6%
 219,Villa,Stenvænget 2,3400, Hillerød,2214000 ,03-08-2010,Alm. Salg,115,19252.0,4,1960,
 219,Villa,Hyacintvej 1,3400, Hillerød,2450000 ,03-08-2010,Alm. Salg,155,15806.0,7,1986,-6%
@@ -9874,12 +9695,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Rækkehus,Ålholmparken 12,3400, Hillerød,1750000 ,11-09-2009,Alm. Salg,130,13462.0,4,1973,-11%
 219,Villa,Smedievej 269,3400, Hillerød,3900000 ,10-09-2009,Alm. Salg,151,25828.0,5,2001,-2%
 219,Ejerlejlighed,Nyhusevej 1X,3400, Hillerød,1775000 ,09-09-2009,Alm. Salg,85,20882.0,3,2006,-5%
-219,Ejerlejlighed,"Nordre Jernbanevej 3E, 1. th",3400, Hillerød,1225000 ,07-09-2009,Alm. Salg,82,14939.0,3,1949,-5%
 219,Ejerlejlighed,"Mathilde Parken 19, 2. tv",3400, Hillerød,1800000 ,07-09-2009,Alm. Salg,116,15517.0,4,2007,
 219,Villa,Ullerødvej 57B,3400, Hillerød,1425000 ,07-09-2009,Alm. Salg,194,7345.0,7,2011,2%
 219,Villa,Kildeportvej 1D,3480, Fredensborg,1600000 ,07-09-2009,Alm. Salg,120,13333.0,4,1959,
 219,Villa,Bæverdalen 14,3400, Hillerød,1600000 ,07-09-2009,Auktion,218,7339.0,8,1965,-41%
-219,Villa,Søbuen 86,3400, Hillerød,1225000 ,07-09-2009,Alm. Salg,160,7656.0,5,2010,-65%
 219,Villa,Hansensvej 9,3400, Hillerød,3195000 ,05-09-2009,Alm. Salg,170,18794.0,7,1907,-14%
 219,Ejerlejlighed,"Slangerupgade 14A, 2. 1",3400, Hillerød,580000 ,03-09-2009,Alm. Salg,29,20000.0,1,1959,
 219,Villa,Jespervej 287,3400, Hillerød,1800000 ,03-09-2009,Alm. Salg,90,20000.0,3,1960,
@@ -10137,8 +9956,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Engvej 47,3330, Gørløse,2252500 ,03-03-2009,Fam. Salg,165,13652.0,5,1992,
 219,Villa,Tammosevej 19,3320, Skævinge,1950000 ,28-02-2009,Alm. Salg,151,12914.0,5,1972,-10%
 219,Rækkehus,Favrholmvænget 64,3400, Hillerød,1181225 ,25-02-2009,Alm. Salg,122,9682.0,4,1975,
-219,Ejerlejlighed,Skansevej 77,3400, Hillerød,1550000 ,24-02-2009,Alm. Salg,76,20395.0,4,1959,-22%
-219,Villa,Skansevej 77A,3400, Hillerød,1550000 ,24-02-2009,Alm. Salg,159,9748.0,7,1959,-22%
 219,Rækkehus,Favrholmvænget 90,3400, Hillerød,1900000 ,23-02-2009,Alm. Salg,122,15574.0,4,1976,-4%
 219,Ejerlejlighed,Humlehaven 30,3400, Hillerød,1800000 ,23-02-2009,Alm. Salg,87,20690.0,3,1989,-5%
 219,Villa,Smedievej 271,3400, Hillerød,4000000 ,18-02-2009,Alm. Salg,161,24845.0,6,2000,-18%
@@ -10313,12 +10130,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Rækkehus,Kaj Sommers Vej 50,3320, Skævinge,2470000 ,22-09-2008,Alm. Salg,113,21858.0,4,2008,
 219,Rækkehus,Egebakken 17,3480, Fredensborg,3500000 ,21-09-2008,Alm. Salg,127,27559.0,3,2005,-11%
 219,Rækkehus,Kaj Sommers Vej 47,3320, Skævinge,2495000 ,21-09-2008,Alm. Salg,113,22080.0,4,2007,
-219,Ejerlejlighed,"Mathilde Parken 15, 4. mf",3400, Hillerød,2500000 ,21-09-2008,Alm. Salg,130,19231.0,4,2007,-11%
 219,Ejerlejlighed,"Hammersholtvej 22, 1",3400, Hillerød,1825000 ,21-09-2008,Alm. Salg,100,18250.0,3,1935,-13%
-219,Villa,Lindevej 7,3400, Hillerød,2500000 ,21-09-2008,Alm. Salg,118,21186.0,6,1958,
 219,Villa,Smedievej 247,3400, Hillerød,4400000 ,21-09-2008,Alm. Salg,209,21053.0,7,2007,-7%
 219,Villa,Bakkedraget 29,3400, Hillerød,2500000 ,20-09-2008,Alm. Salg,83,30120.0,3,1953,-9%
-219,Villa,Frederiksværksgade 85C,3400, Hillerød,1261281 ,18-09-2008,Fam. Salg,128,9854.0,5,1937,
 219,Ejerlejlighed,"Fredskovhellet 2G, 1. 16",3400, Hillerød,1250000 ,17-09-2008,Alm. Salg,117,10684.0,3,1972,-10%
 219,Villa,Skovledet 62,3400, Hillerød,2300000 ,17-09-2008,Alm. Salg,156,14744.0,6,1958,-8%
 219,Rækkehus,Kaj Sommers Vej 54,3320, Skævinge,2485000 ,16-09-2008,Alm. Salg,113,21991.0,4,2008,
@@ -10423,10 +10237,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Ejerlejlighed,"Christianshave 15, 1. tv",3400, Hillerød,4170000 ,01-07-2008,Alm. Salg,141,29574.0,4,2007,
 219,Ejerlejlighed,"Helsingørsgade 50, st",3400, Hillerød,3165624 ,30-06-2008,Alm. Salg,163,19421.0,5,1890,
 219,Villa,Allékredsen 247,3400, Hillerød,2021635 ,30-06-2008,Alm. Salg,168,12034.0,6,2009,
-219,Rækkehus,Frederiksværksgade 95C,3400, Hillerød,1830000 ,29-06-2008,Alm. Salg,105,17429.0,4,1930,
 219,Ejerlejlighed,"Møllebakken 24, kl. tv",3400, Hillerød,787000 ,29-06-2008,Alm. Salg,39,20179.0,1,1961,
 219,Ejerlejlighed,"Gl. Holmegårdsvej 35, 2. th",3400, Hillerød,1570000 ,29-06-2008,Alm. Salg,74,21216.0,3,1970,-2%
-219,Ejerlejlighed,Frederiksværksgade 95B,3400, Hillerød,1830000 ,29-06-2008,Alm. Salg,125,14640.0,1,1930,
 219,Villa,Fruervadvej 5,3320, Skævinge,5250000 ,29-06-2008,Alm. Salg,214,24533.0,5,1923,-5%
 219,Villa,Krogvej 3A,3320, Skævinge,791275 ,26-06-2008,Fam. Salg,201,3937.0,6,2008,
 219,Villa,Hyrdebakken 2,3400, Hillerød,1207000 ,26-06-2008,Fam. Salg,211,5720.0,7,1924,
@@ -10518,7 +10330,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Ejerlejlighed,"Horsevænget 23, 1. th",3400, Hillerød,1000000 ,29-04-2008,Fam. Salg,57,17544.0,2,1937,
 219,Ejerlejlighed,"Fredskovhellet 18, 1. th",3400, Hillerød,1750000 ,29-04-2008,Alm. Salg,109,16055.0,4,1963,-12%
 219,Villa,Jagtvej 5,3400, Hillerød,1800000 ,29-04-2008,Alm. Salg,189,9524.0,5,2014,-7%
-219,Villa,Frejasvej 1,3400, Hillerød,2434331 ,29-04-2008,Fam. Salg,74,32896.0,3,1859,
 219,Villa,Folevang 11,3400, Hillerød,1550000 ,29-04-2008,Alm. Salg,160,9688.0,6,1951,
 219,Ejerlejlighed,"Jespervej 124B, st. th",3400, Hillerød,1080000 ,28-04-2008,Alm. Salg,52,20769.0,2,1945,
 219,Ejerlejlighed,"Gl. Holmegårdsvej 63, 2. th",3400, Hillerød,1575000 ,28-04-2008,Alm. Salg,82,19207.0,3,1970,-3%
@@ -10624,11 +10435,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Granbakken 50,3400, Hillerød,3850000 ,11-03-2008,Alm. Salg,181,21271.0,6,1967,-8%
 219,Villa,Dyrelunden 12,3320, Skævinge,2450000 ,11-03-2008,Alm. Salg,132,18561.0,4,1984,-6%
 219,Villa,Køgemestervej 2,3400, Hillerød,2897000 ,11-03-2008,Alm. Salg,153,18935.0,6,1971,-2%
-219,Rækkehus,Bombakken 46,3320, Skævinge,2495000 ,10-03-2008,Alm. Salg,110,22682.0,4,2008,
 219,Ejerlejlighed,"Møllebakken 24, 1. th",3400, Hillerød,1870000 ,10-03-2008,Alm. Salg,83,22530.0,3,1961,-1%
 219,Ejerlejlighed,"Frederiksgade 4, 3. tv",3400, Hillerød,3500000 ,10-03-2008,Alm. Salg,133,26316.0,4,1918,-10%
 219,Villa,P. Mogensensvej 27,3400, Hillerød,2082500 ,10-03-2008,Alm. Salg,148,14071.0,5,1929,
-219,Villa,Åvej 1,3320, Skævinge,2495000 ,10-03-2008,Alm. Salg,125,19960.0,4,1948,
 219,Villa,Søbuen 66,3400, Hillerød,1172500 ,10-03-2008,Fam. Salg,168,6979.0,6,2008,
 219,Villa,Kaj Sommers Vej 33,3320, Skævinge,1135000 ,10-03-2008,Alm. Salg,134,8470.0,6,2009,
 219,Ejerlejlighed,Humlehaven 30,3400, Hillerød,2715000 ,09-03-2008,Alm. Salg,87,31207.0,3,1989,
@@ -11147,8 +10956,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Lyngbakken 49,3400, Hillerød,3865000 ,15-05-2007,Alm. Salg,158,24462.0,6,1999,-7%
 219,Rækkehus,Sophienlund 107,3400, Hillerød,1870000 ,13-05-2007,Andet,98,19082.0,4,2005,
 219,Rækkehus,Uvelse Park 56,3550, Slangerup,2250000 ,13-05-2007,Alm. Salg,82,27439.0,3,2005,
-219,Ejerlejlighed,"Ved Egedam 15, 2. 107",3400, Hillerød,1475000 ,13-05-2007,Alm. Salg,60,24583.0,2,1975,
-219,Ejerlejlighed,"Møllebakken 22, 1. tv",3400, Hillerød,1475000 ,13-05-2007,Alm. Salg,67,22015.0,2,1961,-8%
 219,Ejerlejlighed,"Mathilde Parken 21, st. 2",3400, Hillerød,1525000 ,13-05-2007,Alm. Salg,48,31771.0,2,2007,
 219,Villa,Ådalen 4,3400, Hillerød,2750000 ,13-05-2007,Alm. Salg,140,19643.0,3,1962,
 219,Villa,Damvejen 15,3400, Hillerød,3200000 ,13-05-2007,Alm. Salg,88,36364.0,4,1827,2%
@@ -11262,10 +11069,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Kastaniehaven 2,3400, Hillerød,1895000 ,18-03-2007,Alm. Salg,208,9111.0,8,2009,
 219,Ejerlejlighed,"Søndre Jernbanevej 3B, 1. tv",3400, Hillerød,1050000 ,17-03-2007,Fam. Salg,58,18103.0,2,1934,
 219,Ejerlejlighed,"Frederiksgade 3, 2. tv",3400, Hillerød,1475000 ,16-03-2007,Alm. Salg,64,23047.0,2,2009,
-219,Rækkehus,Bolværket 131,3400, Hillerød,3000000 ,15-03-2007,Alm. Salg,123,24390.0,4,1988,
 219,Ejerlejlighed,"Langesvej 23, 2. tv",3400, Hillerød,1830000 ,15-03-2007,Alm. Salg,74,24730.0,3,1938,
 219,Ejerlejlighed,Nordre Jernbanevej 17B,3400, Hillerød,1995000 ,15-03-2007,Alm. Salg,64,31172.0,2,1912,
-219,Villa,Skovledet 29,3400, Hillerød,3000000 ,15-03-2007,Alm. Salg,104,28846.0,4,1959,
 219,Villa,Frederiksværksgade 70,3400, Hillerød,3490000 ,15-03-2007,Alm. Salg,138,25290.0,6,1930,
 219,Villa,Allékredsen 239,3400, Hillerød,2375000 ,15-03-2007,Alm. Salg,149,15940.0,6,2008,
 219,Villa,Hulebækvej 2,3320, Skævinge,2193450 ,14-03-2007,Fam. Salg,105,20890.0,5,1954,
@@ -11378,7 +11183,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Kalvehavevej 4,3400, Hillerød,9700000 ,21-01-2007,Andet,354,27401.0,10,1880,
 219,Villa,Kulsviervej 22,3400, Hillerød,2995000 ,19-01-2007,Alm. Salg,164,18262.0,5,1800,
 219,Ejerlejlighed,"Søndre Jernbanevej 3A, 4. tv",3400, Hillerød,475000 ,18-01-2007,Alm. Salg,67,7090.0,3,1934,
-219,Villa,Hostrupsvej 6C,3400, Hillerød,1650000 ,18-01-2007,Alm. Salg,83,19880.0,3,1919,
 219,Ejerlejlighed,"Strøvej 4, st",3320, Skævinge,1460000 ,17-01-2007,Alm. Salg,87,16782.0,3,1905,
 219,Ejerlejlighed,"Mathilde Parken 21, 4. tv",3400, Hillerød,2495000 ,16-01-2007,Alm. Salg,83,30060.0,2,2007,
 219,Villa,Pibe Møllevej 5,3400, Hillerød,2920000 ,15-01-2007,Alm. Salg,136,21471.0,5,1938,-3%
@@ -11414,9 +11218,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Rækkehus,Baunetoften 28,3320, Skævinge,1800000 ,02-01-2007,Alm. Salg,86,20930.0,4,1990,
 219,Villa,Kildevænget 32,3320, Skævinge,1500000 ,02-01-2007,Alm. Salg,193,7772.0,5,1978,
 219,Ejerlejlighed,"Ved Egedam 11, 2. 79",3400, Hillerød,1100000 ,01-01-2007,Fam. Salg,60,18333.0,2,1975,
-219,Ejerlejlighed,"Slotsgade 43, 2",3400, Hillerød,2100000 ,31-12-2006,Alm. Salg,85,24706.0,4,1870,
 219,Ejerlejlighed,"Brickasvej 5, st. tv",3400, Hillerød,1230971 ,31-12-2006,Fam. Salg,58,21224.0,2,1945,
-219,Ejerlejlighed,Markedspladsen 15B,3400, Hillerød,2100000 ,31-12-2006,Alm. Salg,124,16935.0,3,1870,
 219,Ejerlejlighed,"Slotsgade 32, 2",3400, Hillerød,3888750 ,30-12-2006,Fam. Salg,100,38888.0,3,1900,
 219,Villa,Føllegårdsvej 9,3320, Skævinge,3495000 ,28-12-2006,Alm. Salg,131,26679.0,6,2003,
 219,Villa,Hillerødsholmsalle 1,3400, Hillerød,1325000 ,26-12-2006,Fam. Salg,211,6280.0,6,1929,
@@ -11457,7 +11259,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Ejerlejlighed,"Slangerupgade 14A, 1. 2",3400, Hillerød,1100000 ,05-12-2006,Alm. Salg,40,27500.0,1,1959,
 219,Ejerlejlighed,Ellekildevej 10,3320, Skævinge,1875000 ,05-12-2006,Alm. Salg,79,23734.0,3,2006,
 219,Villa,Smedievej 275,3400, Hillerød,4465000 ,05-12-2006,Andet,174,25661.0,7,2001,
-219,Villa,Fruervadvej 14A,3320, Skævinge,4950000 ,05-12-2006,Alm. Salg,187,26471.0,5,1960,
 219,Rækkehus,Strøvej 63B,3320, Skævinge,2350000 ,04-12-2006,Alm. Salg,114,20614.0,5,1910,
 219,Villa,Nygade 11,3320, Skævinge,1200000 ,04-12-2006,Fam. Salg,131,9160.0,6,1935,
 219,Villa,Tvedåsvej 19,3320, Skævinge,2654000 ,03-12-2006,Alm. Salg,120,22117.0,4,1977,
@@ -11572,7 +11373,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Gammelvej 2B,3400, Hillerød,4400000 ,01-10-2006,Alm. Salg,178,24719.0,4,1969,
 219,Villa,Havremarken 3,3320, Skævinge,1365000 ,01-10-2006,Alm. Salg,163,8374.0,8,2006,
 219,Villa,Ålholmparken 151,3400, Hillerød,3300000 ,01-10-2006,Alm. Salg,117,28205.0,4,1985,
-219,Villa,Solvænget 4,3320, Skævinge,6390043 ,28-09-2006,Alm. Salg,160,39938.0,6,1972,
 219,Villa,Hovedvejen 12,3330, Gørløse,3535000 ,28-09-2006,Alm. Salg,170,20794.0,6,1946,
 219,Villa,Rosenvej 3,3330, Gørløse,1349209 ,27-09-2006,Andet,158,8539.0,5,1961,
 219,Villa,Holmegårdsvej 6,3400, Hillerød,6200000 ,27-09-2006,Alm. Salg,277,22383.0,8,1910,
@@ -11923,10 +11723,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Ejerlejlighed,"Slangerupgade 14A, 1. 4",3400, Hillerød,1125000 ,02-04-2006,Alm. Salg,36,31250.0,1,1959,
 219,Ejerlejlighed,"Bag Haver 3, st. mf",3400, Hillerød,1995000 ,02-04-2006,Alm. Salg,85,23471.0,3,2007,
 219,Ejerlejlighed,"Gl. Holmegårdsvej 9, 2. th",3400, Hillerød,1710000 ,02-04-2006,Alm. Salg,82,20854.0,3,1970,
-219,Ejerlejlighed,"Solbakken 2H, 1. th",3400, Hillerød,2195000 ,02-04-2006,Alm. Salg,98,22398.0,3,1988,
 219,Ejerlejlighed,"Hostrupsvej 23, 1. th",3400, Hillerød,1925000 ,02-04-2006,Alm. Salg,84,22917.0,3,1936,
 219,Ejerlejlighed,"Fredskovhellet 32, st. th",3400, Hillerød,1785000 ,02-04-2006,Alm. Salg,88,20284.0,3,1963,
-219,Ejerlejlighed,"Mathilde Parken 25, 3. th",3400, Hillerød,2195000 ,02-04-2006,Alm. Salg,77,28506.0,3,2007,
 219,Villa,Brickasvej 23A,3400, Hillerød,1055000 ,02-04-2006,Alm. Salg,95,11105.0,2,1927,
 219,Villa,Viemosevej 33,3400, Hillerød,2250000 ,02-04-2006,Alm. Salg,113,19912.0,4,2006,
 219,Villa,Toftevang 18,3400, Hillerød,3100000 ,02-04-2006,Alm. Salg,196,15816.0,8,1979,
@@ -12000,10 +11798,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Rækkehus,Roskildevej 135D,3400, Hillerød,2455000 ,05-03-2006,Alm. Salg,90,27278.0,3,2006,
 219,Ejerlejlighed,"Slangerupgade 20, 1. tv",3400, Hillerød,1825000 ,05-03-2006,Alm. Salg,86,21221.0,3,1900,
 219,Ejerlejlighed,"Ved Egedam 3, 2. 25",3400, Hillerød,1390000 ,05-03-2006,Alm. Salg,70,19857.0,2,1975,
-219,Ejerlejlighed,"Bag Haver 3, 2. th",3400, Hillerød,1925000 ,05-03-2006,Alm. Salg,89,21629.0,3,2007,
 219,Ejerlejlighed,"Bag Haver 3, 2. tv",3400, Hillerød,2025000 ,05-03-2006,Alm. Salg,88,23011.0,3,2007,
-219,Ejerlejlighed,"Eberlinsvej 12, st",3400, Hillerød,1925000 ,05-03-2006,Alm. Salg,108,17824.0,3,1939,
-219,Ejerlejlighed,"Eberlinsvej 12, 1",3400, Hillerød,1925000 ,05-03-2006,Alm. Salg,86,22384.0,3,1939,
 219,Ejerlejlighed,"Søndre Jernbanevej 5, 5. tv",3400, Hillerød,825000 ,05-03-2006,Alm. Salg,30,27500.0,2,1934,
 219,Ejerlejlighed,"Møllestræde 14, st",3400, Hillerød,725000 ,05-03-2006,Andet,84,8631.0,3,1906,
 219,Ejerlejlighed,"Hostrupsvej 27, 3. th",3400, Hillerød,1400000 ,05-03-2006,Fam. Salg,59,23729.0,2,1936,
@@ -12046,8 +11841,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Ejerlejlighed,"Fredskovhellet 2H, st. 64",3400, Hillerød,995000 ,19-02-2006,Alm. Salg,60,16583.0,1,1972,
 219,Ejerlejlighed,"Bag Haver 3, st. th",3400, Hillerød,2050000 ,19-02-2006,Alm. Salg,92,22283.0,3,2007,
 219,Ejerlejlighed,"Bakkegade 28, 1. th",3400, Hillerød,1550000 ,19-02-2006,Alm. Salg,56,27679.0,2,1896,
-219,Ejerlejlighed,"Bag Haver 3, 2. mf",3400, Hillerød,1995000 ,19-02-2006,Alm. Salg,83,24036.0,3,2007,
-219,Ejerlejlighed,"Slotsgade 41, 1. tv",3400, Hillerød,1995000 ,19-02-2006,Alm. Salg,87,22931.0,3,1900,
 219,Villa,P. Mogensensvej 10,3400, Hillerød,3595000 ,19-02-2006,Alm. Salg,154,23344.0,6,1928,
 219,Villa,Gadevangsvej 131B,3400, Hillerød,1615000 ,19-02-2006,Fam. Salg,108,14954.0,4,1965,
 219,Villa,Funkevej 24,3400, Hillerød,2950000 ,19-02-2006,Alm. Salg,133,22180.0,5,1922,
@@ -12241,9 +12034,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Ejerlejlighed,"Gl. Holmegårdsvej 43, 2. th",3400, Hillerød,1455000 ,20-11-2005,Alm. Salg,72,20208.0,3,1970,
 219,Ejerlejlighed,"Slangerupgade 12A, 2. 3",3400, Hillerød,950000 ,20-11-2005,Alm. Salg,41,23171.0,1,1959,
 219,Ejerlejlighed,"Frederiksværksgade 9, 2",3400, Hillerød,1620000 ,20-11-2005,Alm. Salg,72,22500.0,3,1899,
-219,Ejerlejlighed,"Slotsgade 43, 2",3400, Hillerød,1575000 ,20-11-2005,Alm. Salg,85,18529.0,4,1870,
 219,Ejerlejlighed,"Gl. Holmegårdsvej 33, 1. tv",3400, Hillerød,1598000 ,20-11-2005,Andet,96,16646.0,4,1970,
-219,Ejerlejlighed,Markedspladsen 15B,3400, Hillerød,1575000 ,20-11-2005,Alm. Salg,124,12702.0,3,1870,
 219,Ejerlejlighed,"Slangerupgade 27B, 1. th",3400, Hillerød,700000 ,20-11-2005,Andet,72,9722.0,2,1960,
 219,Villa,Rosenvej 12,3400, Hillerød,1750000 ,20-11-2005,Alm. Salg,111,15766.0,4,1967,
 219,Villa,Vangeledet 14,3400, Hillerød,1525000 ,20-11-2005,Fam. Salg,161,9472.0,5,1974,
@@ -12365,9 +12156,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Harløsevej 284,3400, Hillerød,2500000 ,06-10-2005,Alm. Salg,210,11905.0,6,2009,
 219,Villa,Kighusbakken 14,3400, Hillerød,2525000 ,06-10-2005,Alm. Salg,95,26579.0,4,1985,
 219,Villa,Smedievej 44,3400, Hillerød,2645000 ,06-10-2005,Alm. Salg,120,22042.0,4,1978,
-219,Ejerlejlighed,Jernbanevej 2A,3320, Skævinge,3050000 ,05-10-2005,Alm. Salg,78,39103.0,4,1924,
 219,Ejerlejlighed,"Ved Egedam 7, st. 43",3400, Hillerød,1445000 ,05-10-2005,Alm. Salg,80,18063.0,2,1975,
-219,Ejerlejlighed,"Hovedgaden 9, st",3320, Skævinge,3050000 ,05-10-2005,Alm. Salg,89,34270.0,3,1924,
 219,Villa,Kirkebakken 4,3480, Fredensborg,1750000 ,05-10-2005,Fam. Salg,125,14000.0,4,1964,
 219,Rækkehus,Kildedalen 48,3400, Hillerød,2385000 ,04-10-2005,Alm. Salg,134,17799.0,4,1978,
 219,Rækkehus,Uvelse Park 37,3550, Slangerup,1730000 ,04-10-2005,Alm. Salg,82,21098.0,3,2006,
@@ -12403,7 +12192,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Bombakken 150,3320, Skævinge,1050000 ,28-09-2005,Alm. Salg,161,6522.0,5,2006,
 219,Rækkehus,Margrethevej 19,3400, Hillerød,1795000 ,26-09-2005,Alm. Salg,94,19096.0,2,1932,
 219,Villa,Kaalundsvej 11,3400, Hillerød,3385000 ,26-09-2005,Alm. Salg,169,20030.0,7,1973,
-219,Rækkehus,Dyrehavevej 72,3400, Hillerød,2450000 ,25-09-2005,Alm. Salg,132,18561.0,6,1948,
 219,Rækkehus,Ellekildevej 7,3320, Skævinge,1745000 ,25-09-2005,Alm. Salg,99,17626.0,3,2006,
 219,Ejerlejlighed,Gl. Holmegårdsvej 71E,3400, Hillerød,925000 ,25-09-2005,Alm. Salg,41,22561.0,1,1970,
 219,Ejerlejlighed,"Solbakken 2E, 1. th",3400, Hillerød,1895000 ,25-09-2005,Alm. Salg,106,17877.0,3,1988,
@@ -12413,7 +12201,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Herlevgårdsvej 8,3400, Hillerød,2305000 ,25-09-2005,Alm. Salg,140,16464.0,5,1969,
 219,Villa,Engsvinget 34,3400, Hillerød,2400000 ,25-09-2005,Andet,127,18898.0,5,1944,
 219,Villa,Mågevej 13,3400, Hillerød,2395000 ,25-09-2005,Alm. Salg,148,16182.0,5,1973,
-219,Villa,Tolvkarlevej 36,3400, Hillerød,2450000 ,25-09-2005,Alm. Salg,157,15605.0,5,1973,
 219,Villa,Højager 88,3400, Hillerød,3295000 ,25-09-2005,Alm. Salg,143,23042.0,5,1975,
 219,Villa,Tolvkarlevej 68B,3400, Hillerød,3700000 ,25-09-2005,Alm. Salg,203,18227.0,7,2007,
 219,Villa,Kornvænget 9,3550, Slangerup,2365000 ,25-09-2005,Alm. Salg,154,15357.0,5,1969,
@@ -12752,10 +12539,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Ejerlejlighed,"Mathilde Parken 17, 2. tv",3400, Hillerød,2370000 ,13-06-2005,Alm. Salg,116,20431.0,4,2007,
 219,Villa,Skåret 4,3320, Skævinge,4850000 ,13-06-2005,Alm. Salg,200,24250.0,8,1827,
 219,Rækkehus,Kongens Vænge 267,3400, Hillerød,1941625 ,12-06-2005,Alm. Salg,98,19813.0,4,2006,
-219,Ejerlejlighed,"Slangerupgade 16G, 1. tv",3400, Hillerød,1695000 ,12-06-2005,Alm. Salg,85,19941.0,3,1988,
 219,Ejerlejlighed,"Slangerupgade 18, 2. th",3400, Hillerød,1495000 ,12-06-2005,Alm. Salg,80,18688.0,3,1890,
 219,Ejerlejlighed,"Frederiksværksgade 11A, st. 2",3400, Hillerød,1329876 ,12-06-2005,Alm. Salg,62,21450.0,2,2005,
-219,Ejerlejlighed,"Møllestræde 1, 2",3400, Hillerød,1695000 ,12-06-2005,Alm. Salg,88,19261.0,3,1875,
 219,Ejerlejlighed,"Frederiksværksgade 11A, 3. 12",3400, Hillerød,3223258 ,12-06-2005,Alm. Salg,143,22540.0,4,2005,
 219,Villa,Friborgvej 54,3400, Hillerød,1350000 ,12-06-2005,Fam. Salg,77,17532.0,2,1932,
 219,Villa,Baunevænget 4,3480, Fredensborg,1965000 ,12-06-2005,Alm. Salg,107,18364.0,4,1960,
@@ -12784,11 +12569,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Th. Petersens Vej 2,3330, Gørløse,2950000 ,09-06-2005,Alm. Salg,175,16857.0,7,2006,
 219,Rækkehus,Kongens Vænge 263,3400, Hillerød,1925000 ,08-06-2005,Alm. Salg,98,19643.0,4,2006,
 219,Rækkehus,Baunetoften 49,3320, Skævinge,1100000 ,08-06-2005,Alm. Salg,86,12791.0,3,1990,
-219,Rækkehus,Slettebjerget 55,3400, Hillerød,1995000 ,07-06-2005,Alm. Salg,118,16907.0,4,1977,
 219,Ejerlejlighed,"Mathilde Parken 19, 2. th",3400, Hillerød,1620000 ,07-06-2005,Alm. Salg,80,20250.0,3,2007,
 219,Ejerlejlighed,"Mathilde Parken 15, st. 3",3400, Hillerød,995000 ,07-06-2005,Alm. Salg,47,21170.0,2,2007,
 219,Ejerlejlighed,"Mathilde Parken 15, 4. tv",3400, Hillerød,1795000 ,07-06-2005,Alm. Salg,85,21118.0,2,2007,
-219,Villa,Jespervej 244,3400, Hillerød,1995000 ,07-06-2005,Alm. Salg,65,30692.0,3,1942,
 219,Rækkehus,Bolværket 71,3400, Hillerød,1800000 ,06-06-2005,Alm. Salg,89,20225.0,3,1988,
 219,Rækkehus,Baunetoften 42,3320, Skævinge,1470000 ,06-06-2005,Alm. Salg,86,17093.0,3,1990,
 219,Ejerlejlighed,Gl. Holmegårdsvej 71J,3400, Hillerød,590000 ,06-06-2005,Fam. Salg,41,14390.0,1,1970,
@@ -12881,7 +12664,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Mosevej 1,3400, Hillerød,900000 ,11-05-2005,Andet,140,6429.0,4,1952,
 219,Ejerlejlighed,"Slangerupgade 12A, st. 1",3400, Hillerød,1575000 ,10-05-2005,Alm. Salg,106,14858.0,3,1959,
 219,Villa,Jægerbakken 8,3600, Frederikssund,2750000 ,10-05-2005,Alm. Salg,190,14474.0,6,2000,
-219,Villa,Solbakken 8A,3400, Hillerød,3250000 ,09-05-2005,Alm. Salg,168,19345.0,7,1914,
 219,Villa,Kurreholmvej 4,3330, Gørløse,1625000 ,08-05-2005,Alm. Salg,130,12500.0,4,1961,
 219,Villa,Borupvej 86,3330, Gørløse,1785000 ,08-05-2005,Alm. Salg,156,11442.0,5,1964,
 219,Villa,Nyvej 9,3320, Skævinge,1650000 ,08-05-2005,Alm. Salg,147,11224.0,5,1967,
@@ -12922,13 +12704,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Rækkehus,Granbakken 48,3400, Hillerød,2100000 ,24-04-2005,Alm. Salg,105,20000.0,5,1962,
 219,Rækkehus,Ved Skansebakken 113,3400, Hillerød,1320000 ,24-04-2005,Alm. Salg,51,25882.0,2,1972,
 219,Rækkehus,Trekløvervej 20,3400, Hillerød,894123 ,24-04-2005,Alm. Salg,81,11039.0,4,1961,
-219,Rækkehus,Sættedammen 8,3400, Hillerød,2500000 ,24-04-2005,Alm. Salg,246,10163.0,10,1972,
 219,Ejerlejlighed,"Gl. Holmegårdsvej 39, 1. tv",3400, Hillerød,1275000 ,24-04-2005,Alm. Salg,82,15549.0,3,1970,
 219,Ejerlejlighed,"Fredskovhellet 35, st. th",3400, Hillerød,1695000 ,24-04-2005,Alm. Salg,109,15550.0,4,1963,
-219,Ejerlejlighed,"Stutmestervej 25, 1. tv",3400, Hillerød,1325000 ,24-04-2005,Alm. Salg,65,20385.0,2,1941,
 219,Ejerlejlighed,"Slangerupgade 14A, 1. 1",3400, Hillerød,595000 ,24-04-2005,Alm. Salg,29,20517.0,1,1959,
 219,Ejerlejlighed,Gl. Holmegårdsvej 71B,3400, Hillerød,767000 ,24-04-2005,Alm. Salg,41,18707.0,1,1970,
-219,Ejerlejlighed,"Slangerupgade 16G, 1. tv",3400, Hillerød,1325000 ,24-04-2005,Fam. Salg,85,15588.0,3,1988,
 219,Ejerlejlighed,"Fredskovhellet 20, 2. th",3400, Hillerød,1495000 ,24-04-2005,Alm. Salg,109,13716.0,4,1963,
 219,Ejerlejlighed,Gl. Holmegårdsvej 75L,3400, Hillerød,851241 ,24-04-2005,Alm. Salg,41,20762.0,1,1970,
 219,Ejerlejlighed,"Ved Egedam 5, st. 27",3400, Hillerød,1165000 ,24-04-2005,Alm. Salg,68,17132.0,2,1975,
@@ -12937,7 +12716,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Ejerlejlighed,"Slotsvænget 43, 1",3400, Hillerød,1645000 ,24-04-2005,Alm. Salg,88,18693.0,4,1924,
 219,Villa,Åhaven 8,3400, Hillerød,2080000 ,24-04-2005,Andet,156,13333.0,6,1967,
 219,Villa,Sophienborgvænget 15,3400, Hillerød,2995000 ,24-04-2005,Alm. Salg,186,16102.0,8,2004,
-219,Villa,Ingemannsvej 3,3400, Hillerød,2500000 ,24-04-2005,Alm. Salg,140,17857.0,5,1973,
 219,Villa,Engsvinget 35,3400, Hillerød,2585000 ,24-04-2005,Alm. Salg,136,19007.0,3,1989,
 219,Villa,Åvang 88,3400, Hillerød,2230000 ,24-04-2005,Alm. Salg,140,15929.0,5,1971,
 219,Villa,Humlegårdsvej 14,3400, Hillerød,2700000 ,24-04-2005,Alm. Salg,167,16168.0,5,1974,
@@ -13204,7 +12982,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Ravnsbjergvej 20,3400, Hillerød,3910000 ,16-01-2005,Alm. Salg,376,10399.0,9,1850,
 219,Villa,Carl Zahlmannsvej 14,3400, Hillerød,2195000 ,16-01-2005,Alm. Salg,118,18602.0,4,1954,
 219,Villa,Brødeskovparken 87,3400, Hillerød,2799000 ,16-01-2005,Alm. Salg,188,14888.0,5,2001,
-219,Villa,Pibe Møllevej 13C,3400, Hillerød,5900000 ,16-01-2005,Alm. Salg,156,37821.0,3,2018,
 219,Rækkehus,Arresøgårdsvej 1,3320, Skævinge,1740000 ,15-01-2005,Alm. Salg,100,17400.0,3,2001,
 219,Ejerlejlighed,"Fredskovhellet 2H, st. 44",3400, Hillerød,950000 ,14-01-2005,Alm. Salg,71,13380.0,2,1972,
 219,Villa,Jægervænget 9,3480, Fredensborg,2595000 ,13-01-2005,Alm. Salg,160,16219.0,5,1970,
@@ -13458,8 +13235,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Brickasvej 23B,3400, Hillerød,1450000 ,19-09-2004,Alm. Salg,110,13182.0,3,1927,
 219,Villa,Birkevej 7,3320, Skævinge,1955000 ,18-09-2004,Alm. Salg,108,18102.0,4,1954,
 219,Villa,Ved Skoven 3,3480, Fredensborg,1250000 ,18-09-2004,Alm. Salg,164,7622.0,5,2009,
-219,Ejerlejlighed,"Hostrupsvej 10A, 1. th",3400, Hillerød,2450000 ,16-09-2004,Alm. Salg,91,26923.0,3,1943,
-219,Ejerlejlighed,"Bag Haver 1, 1",3400, Hillerød,2450000 ,16-09-2004,Alm. Salg,68,36029.0,3,1943,
 219,Villa,Tulstrup Have 39,3400, Hillerød,2125000 ,16-09-2004,Alm. Salg,134,15858.0,5,1977,
 219,Villa,Skanselyet 8,3400, Hillerød,2275000 ,16-09-2004,Alm. Salg,138,16486.0,5,1966,
 219,Villa,Borupvej 25,3320, Skævinge,1545000 ,15-09-2004,Alm. Salg,163,9479.0,5,1961,
@@ -13586,8 +13361,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Ejerlejlighed,Humlehaven 30,3400, Hillerød,1560000 ,20-06-2004,Alm. Salg,87,17931.0,3,1989,
 219,Ejerlejlighed,"Østergade 16, 2. tv",3400, Hillerød,1335000 ,20-06-2004,Alm. Salg,71,18803.0,3,1986,
 219,Ejerlejlighed,"Bakkegade 35, 1. tv",3400, Hillerød,1150000 ,20-06-2004,Alm. Salg,62,18548.0,2,1938,
-219,Ejerlejlighed,"Gl. Holmegårdsvej 27, 1. tv",3400, Hillerød,1195000 ,20-06-2004,Alm. Salg,84,14226.0,3,1970,
-219,Ejerlejlighed,"Hostrupsvej 25, 3. th",3400, Hillerød,1195000 ,20-06-2004,Alm. Salg,60,19917.0,2,1936,
 219,Ejerlejlighed,"Københavnsvej 41C, 1",3400, Hillerød,1350000 ,20-06-2004,Alm. Salg,73,18493.0,3,1902,
 219,Ejerlejlighed,"Slangerupgade 79, st. tv",3400, Hillerød,1000000 ,20-06-2004,Alm. Salg,63,15873.0,2,1935,
 219,Villa,Brickasvej 23A,3400, Hillerød,1600000 ,20-06-2004,Alm. Salg,95,16842.0,2,1927,
@@ -13879,7 +13652,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Rækkehus,Margrethevej 7C,3400, Hillerød,1875000 ,15-02-2004,Alm. Salg,108,17361.0,4,1982,
 219,Ejerlejlighed,"Skovledet 97A, st. tv",3400, Hillerød,899000 ,15-02-2004,Alm. Salg,57,15772.0,1,1964,
 219,Ejerlejlighed,"Gl. Holmegårdsvej 5, 1. tv",3400, Hillerød,1125000 ,15-02-2004,Alm. Salg,84,13393.0,3,1970,
-219,Ejerlejlighed,"Københavnsvej 35, 1",3400, Hillerød,2892946 ,15-02-2004,Alm. Salg,72,40180.0,3,1929,
 219,Ejerlejlighed,"Gl. Holmegårdsvej 31, 1. tv",3400, Hillerød,1195000 ,15-02-2004,Alm. Salg,82,14573.0,3,1970,
 219,Villa,Sødalen 6,3400, Hillerød,1600000 ,15-02-2004,Alm. Salg,157,10191.0,5,1960,
 219,Villa,Bakkesvinget 11B,3400, Hillerød,1500000 ,15-02-2004,Alm. Salg,168,8929.0,6,2015,
@@ -14485,7 +14257,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Ejerlejlighed,Gl. Holmegårdsvej 77A,3400, Hillerød,775000 ,20-04-2003,Alm. Salg,43,18023.0,1,1970,
 219,Ejerlejlighed,"Bakkegade 29, st. th",3400, Hillerød,925000 ,20-04-2003,Alm. Salg,51,18137.0,2,1890,
 219,Ejerlejlighed,"Bakkegade 33, 2. th",3400, Hillerød,1025000 ,20-04-2003,Alm. Salg,46,22283.0,2,1938,
-219,Villa,Strøvej 102A,3330, Gørløse,1500000 ,20-04-2003,Alm. Salg,73,20548.0,3,1900,
 219,Villa,Nørresøvej 13,3400, Hillerød,1499999 ,20-04-2003,Alm. Salg,235,6383.0,6,1922,
 219,Villa,Skansevej 35,3400, Hillerød,1850000 ,20-04-2003,Alm. Salg,148,12500.0,6,1927,
 219,Villa,Dyrehavevej 36,3400, Hillerød,2150000 ,20-04-2003,Alm. Salg,136,15809.0,5,1965,
@@ -14754,7 +14525,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Slotsvænget 41,3400, Hillerød,1050000 ,10-11-2002,Andet,107,9813.0,6,1930,
 219,Villa,Skrænten 7,3400, Hillerød,2779554 ,10-11-2002,Alm. Salg,208,13363.0,6,1900,
 219,Villa,Skovvej 2,3400, Hillerød,1765000 ,10-11-2002,Alm. Salg,105,16810.0,4,1930,
-219,Villa,Løngangsgade 21B,3400, Hillerød,1939000 ,10-11-2002,Alm. Salg,209,9278.0,5,2021,
 219,Ejerlejlighed,"Slangerupgade 6, 1. th",3400, Hillerød,1475000 ,09-11-2002,Alm. Salg,104,14183.0,4,1936,
 219,Villa,Bolandsvang 61,3400, Hillerød,1740000 ,09-11-2002,Alm. Salg,124,14032.0,5,1986,
 219,Rækkehus,Rosenalle 36,3320, Skævinge,1279990 ,07-11-2002,Alm. Salg,96,13333.0,3,2002,
@@ -14890,8 +14660,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Gribskovvænget 32,3400, Hillerød,280000 ,15-09-2002,Alm. Salg,182,1538.0,3,1984,
 219,Villa,Hovedvejen 6,3330, Gørløse,1110320 ,15-09-2002,Alm. Salg,89,12476.0,3,1952,
 219,Villa,Hyrdebakken 1,3400, Hillerød,1895000 ,15-09-2002,Alm. Salg,108,17546.0,3,1910,
-219,Ejerlejlighed,Jernbanevej 2A,3320, Skævinge,2885000 ,14-09-2002,Alm. Salg,78,36987.0,4,1924,
-219,Ejerlejlighed,"Hovedgaden 9, st",3320, Skævinge,2885000 ,14-09-2002,Alm. Salg,89,32416.0,3,1924,
 219,Villa,Dyrelunden 53,3320, Skævinge,1695000 ,14-09-2002,Alm. Salg,128,13242.0,4,1979,
 219,Villa,Kurreholmvej 12,3330, Gørløse,1544367 ,12-09-2002,Alm. Salg,132,11700.0,5,1967,
 219,Villa,Kulsvier Huse 7,3400, Hillerød,2995000 ,12-09-2002,Alm. Salg,156,19199.0,6,1998,
@@ -15102,8 +14870,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Rækkehus,Kildedalen 1,3400, Hillerød,1700000 ,09-06-2002,Alm. Salg,134,12687.0,4,1978,
 219,Rækkehus,Favrholmvænget 48,3400, Hillerød,800000 ,09-06-2002,Fam. Salg,122,6557.0,4,1976,
 219,Ejerlejlighed,"Hostrupsvej 29, 5. th",3400, Hillerød,1470000 ,09-06-2002,Alm. Salg,84,17500.0,3,1936,
-219,Ejerlejlighed,"Gl. Holmegårdsvej 61, 1. th",3400, Hillerød,1095000 ,09-06-2002,Alm. Salg,84,13036.0,3,1970,
-219,Ejerlejlighed,"Nordre Jernbanevej 13B, 2. tv",3400, Hillerød,1095000 ,09-06-2002,Alm. Salg,57,19211.0,2,1985,
 219,Ejerlejlighed,"Solbakken 2B, 1. th",3400, Hillerød,1450000 ,09-06-2002,Alm. Salg,98,14796.0,3,1988,
 219,Ejerlejlighed,"Solbakken 2H, st",3400, Hillerød,1160190 ,09-06-2002,Alm. Salg,63,18416.0,2,1988,
 219,Ejerlejlighed,"Gl. Holmegårdsvej 9, 2. tv",3400, Hillerød,1070000 ,09-06-2002,Alm. Salg,82,13049.0,3,1970,
@@ -15222,10 +14988,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Rækkehus,Kildedalen 6,3400, Hillerød,622870 ,21-04-2002,Andet,134,4648.0,4,1978,
 219,Ejerlejlighed,"Brickasvej 16, st. th",3400, Hillerød,945000 ,21-04-2002,Alm. Salg,63,15000.0,2,1943,
 219,Ejerlejlighed,"Hansensvej 18, st. tv",3400, Hillerød,1495000 ,21-04-2002,Alm. Salg,125,11960.0,4,1900,
-219,Ejerlejlighed,"Fredskovhellet 2J, 2. 96",3400, Hillerød,875000 ,21-04-2002,Alm. Salg,71,12324.0,2,1972,
 219,Ejerlejlighed,"Nordre Jernbanevej 3F, 2. th",3400, Hillerød,1355000 ,21-04-2002,Alm. Salg,82,16524.0,3,1949,
 219,Ejerlejlighed,"Frederiksgade 8, 1",3400, Hillerød,2650000 ,21-04-2002,Alm. Salg,118,22458.0,4,1905,
-219,Ejerlejlighed,"Slangerupgade 79, st. th",3400, Hillerød,875000 ,21-04-2002,Alm. Salg,62,14113.0,2,1935,
 219,Villa,Lille Sverige Vej 13,3400, Hillerød,2150000 ,21-04-2002,Alm. Salg,244,8811.0,6,1907,
 219,Villa,Postmosen 16,3400, Hillerød,1583000 ,21-04-2002,Alm. Salg,105,15076.0,5,1987,
 219,Villa,P. Mogensensvej 29,3400, Hillerød,1050000 ,21-04-2002,Alm. Salg,219,4795.0,5,1928,
@@ -15369,100 +15133,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Ejerlejlighed,"Nordre Jernbanevej 1A, 2",3400, Hillerød,1225000 ,12-02-2002,Alm. Salg,80,15313.0,2,1900,
 219,Villa,Dyrelunden 31,3320, Skævinge,1735000 ,11-02-2002,Alm. Salg,170,10206.0,5,1977,
 219,Rækkehus,Klostervej 2G,3400, Hillerød,682705 ,10-02-2002,Fam. Salg,81,8428.0,3,1973,
-219,Ejerlejlighed,"Søndre Jernbanevej 25, st. th",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,150,4267.0,6,1900,
-219,Ejerlejlighed,"Søndre Jernbanevej 25, 1. th",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,150,4267.0,6,1900,
-219,Ejerlejlighed,"Søndre Jernbanevej 25, 2. th",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,140,4571.0,5,1900,
-219,Ejerlejlighed,"Søndre Jernbanevej 25, st. tv",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,150,4267.0,5,1900,
-219,Ejerlejlighed,"Søndre Jernbanevej 25, 1. tv",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,130,4923.0,5,1900,
-219,Ejerlejlighed,"Søndre Jernbanevej 25, 2. tv",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,120,5333.0,4,1900,
 219,Ejerlejlighed,"Søndre Jernbanevej 3A, 3. th",3400, Hillerød,1174000 ,10-02-2002,Alm. Salg,93,12624.0,4,1934,
 219,Ejerlejlighed,"Hostrupsvej 23, kl. tv",3400, Hillerød,895000 ,10-02-2002,Alm. Salg,65,13769.0,2,1936,
 219,Ejerlejlighed,"Slangerupgade 2, 1. 21",3400, Hillerød,985100 ,10-02-2002,Alm. Salg,60,16418.0,2,1979,
-219,Ejerlejlighed,"Vibekevej 7B, 2. 2",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,75,8533.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 2. 3",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,74,8649.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 4. 3",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,74,8649.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7A, 1. 3",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,82,7805.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7E, 2. 3",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,94,6809.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7D, st. 2",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,65,9846.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 1. 1",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,77,8312.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7D, 3. 3",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,92,6957.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7C, 2. 1",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,74,8649.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7C, st. 3",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,84,7619.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7B, st. 2",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,75,8533.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7C, st. 2",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,72,8889.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7A, st. 3",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,72,8889.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7D, 1. 4",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,93,6882.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 2. 4",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,77,8312.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, st. 4",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,77,8312.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7E, st. 4",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,73,8767.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7E, st. 3",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,94,6809.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7D, st. 1",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,91,7033.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7E, 4. 4",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,90,7111.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7D, 2. 3",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,92,6957.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7D, st. 4",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,86,7442.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 4. 2",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,78,8205.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7D, 2. 1",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,89,7191.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7D, 3. 4",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,93,6882.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 1. 3",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,74,8649.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7E, 1. 4",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,73,8767.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7E, 2. 4",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,73,8767.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7A, st. 2",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,72,8889.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7D, 5",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,113,5664.0,4,2020,
-219,Ejerlejlighed,"Vibekevej 7D, 4. 3",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,93,6882.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7C, 1. 3",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,84,7619.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 1. 2",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,75,8533.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 3. 3",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,74,8649.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 3. 4",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,77,8312.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7A, 3",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,94,6809.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7C, st. 4",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,71,9014.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 1. 4",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,77,8312.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 3. 5",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,70,9143.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 3. 2",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,75,8533.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7C, 4",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,88,7273.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7A, 1. 1",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,71,9014.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 5",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,90,7111.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7D, 3. 2",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,65,9846.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7E, 2. 1",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,76,8421.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7D, 1. 1",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,89,7191.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7C, st. 1",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,74,8649.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 2. 1",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,77,8312.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7C, 3. 4",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,73,8767.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 2. 5",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,70,9143.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 1. 5",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,70,9143.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7E, 1. 2",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,68,9412.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, st. 1",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,77,8312.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7C, 1. 4",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,71,9014.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7A, 1. 2",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,72,8889.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7A, st. 1",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,73,8767.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7C, 1. 1",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,74,8649.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 4. 5",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,70,9143.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 3. 1",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,77,8312.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7D, 1. 2",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,65,9846.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7C, 3. 2",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,72,8889.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7E, 3. 4",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,74,8649.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7C, 3. 1",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,74,8649.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 4. 4",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,77,8312.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7E, 1. 1",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,76,8421.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, st. 3",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,74,8649.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, st. 5",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,70,9143.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7C, 1. 2",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,72,8889.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7D, 4. 4",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,93,6882.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7D, 2. 2",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,65,9846.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7A, 2. 3",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,82,7805.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7D, 3. 1",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,89,7191.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7A, 2. 1",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,74,8649.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7E, 3. 2",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,72,8889.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7D, 2. 4",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,93,6882.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7E, 1. 3",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,95,6737.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7C, 2. 4",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,71,9014.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7C, 2. 3",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,84,7619.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7D, st. 3",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,92,6957.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7C, 2. 2",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,72,8889.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7D, 1. 3",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,92,6957.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7E, st. 1",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,76,8421.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7E, st. 2",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,68,9412.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7E, 2. 2",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,68,9412.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7D, 4. 1",3400, Hillerød,640000 ,10-02-2002,Fam. Salg,91,7033.0,3,2020,
 219,Villa,Baunevænget 35,3480, Fredensborg,1860000 ,10-02-2002,Alm. Salg,152,12237.0,5,1971,
 219,Villa,Hermann Justvej 11,3400, Hillerød,2695000 ,10-02-2002,Alm. Salg,152,17730.0,5,2002,
 219,Villa,Jagtvej 17,3400, Hillerød,1675000 ,10-02-2002,Alm. Salg,119,14076.0,5,1949,
@@ -15648,7 +15321,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Tulstrup Have 7,3400, Hillerød,1519690 ,21-10-2001,Alm. Salg,138,11012.0,5,1971,
 219,Villa,Bremerholmen 36,3320, Skævinge,400000 ,21-10-2001,Alm. Salg,154,2597.0,5,2002,
 219,Villa,Sommersvej 4,3400, Hillerød,2120000 ,21-10-2001,Alm. Salg,150,14133.0,5,1969,
-219,Villa,Frederiksværksgade 85C,3400, Hillerød,1146421 ,19-10-2001,Fam. Salg,128,8956.0,5,1937,
 219,Villa,Rosenbergsalle 3,3480, Fredensborg,2095000 ,16-10-2001,Alm. Salg,142,14754.0,5,1957,
 219,Villa,Gl. Skolevej 6,3400, Hillerød,511524 ,16-10-2001,Andet,100,5115.0,4,1964,
 219,Villa,Skovhegnet 21,3400, Hillerød,2040000 ,16-10-2001,Alm. Salg,148,13784.0,5,1968,
@@ -15755,12 +15427,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Ejerlejlighed,"Ved Egedam 17, 2. 124",3400, Hillerød,835000 ,26-08-2001,Alm. Salg,60,13917.0,2,1975,
 219,Ejerlejlighed,Gl. Holmegårdsvej 77D,3400, Hillerød,641000 ,26-08-2001,Alm. Salg,41,15634.0,1,1970,
 219,Ejerlejlighed,"Bakkegade 35, 1. th",3400, Hillerød,1100000 ,26-08-2001,Fam. Salg,73,15068.0,1,1938,
-219,Ejerlejlighed,"Slotsgade 43, 2",3400, Hillerød,800000 ,26-08-2001,Alm. Salg,85,9412.0,4,1870,
-219,Ejerlejlighed,Markedspladsen 15B,3400, Hillerød,800000 ,26-08-2001,Alm. Salg,124,6452.0,3,1870,
 219,Villa,Strædet 14,3400, Hillerød,1275000 ,26-08-2001,Alm. Salg,192,6641.0,5,1893,
 219,Villa,Gadeledsvej 1,3400, Hillerød,2311699 ,26-08-2001,Alm. Salg,235,9837.0,11,1860,
 219,Villa,Enghavegårdsvej 12,3400, Hillerød,1605000 ,26-08-2001,Alm. Salg,163,9847.0,5,1967,
-219,Villa,Kastaniehaven 1,3400, Hillerød,800000 ,26-08-2001,Alm. Salg,165,4848.0,5,2003,
 219,Villa,Timorvej 6,3400, Hillerød,2450000 ,26-08-2001,Alm. Salg,179,13687.0,5,1975,
 219,Rækkehus,Arresøgårdsvej 3,3320, Skævinge,1245000 ,25-08-2001,Alm. Salg,80,15563.0,4,2001,
 219,Ejerlejlighed,"Slangerupgade 12B, 2. th",3400, Hillerød,930000 ,25-08-2001,Alm. Salg,59,15763.0,2,1927,
@@ -16050,11 +15719,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Ejerlejlighed,Gl. Holmegårdsvej 75F,3400, Hillerød,550000 ,08-05-2001,Alm. Salg,41,13415.0,1,1970,
 219,Villa,Skovkæret 3,3400, Hillerød,2787892 ,08-05-2001,Alm. Salg,193,14445.0,7,1976,
 219,Villa,Tvedsagervej 22,3400, Hillerød,1494000 ,07-05-2001,Alm. Salg,143,10448.0,4,1986,
-219,Rækkehus,Helsingørsgade 33F,3400, Hillerød,575000 ,06-05-2001,Alm. Salg,148,3885.0,4,1867,
 219,Ejerlejlighed,"Fredskovhellet 2H, st. 64",3400, Hillerød,587806 ,06-05-2001,Alm. Salg,60,9797.0,1,1972,
 219,Ejerlejlighed,"Slangerupgade 12A, 1. 3",3400, Hillerød,619137 ,06-05-2001,Alm. Salg,37,16733.0,1,1959,
 219,Ejerlejlighed,"Slangerupgade 25D, 1. tv",3400, Hillerød,1050000 ,06-05-2001,Alm. Salg,80,13125.0,3,1960,
-219,Ejerlejlighed,Helsingørsgade 33D,3400, Hillerød,575000 ,06-05-2001,Alm. Salg,106,5425.0,4,1867,
 219,Villa,Rolighedsvej 10,3400, Hillerød,1745000 ,06-05-2001,Alm. Salg,148,11791.0,6,1900,
 219,Villa,Herluf Trollesvej 2,3400, Hillerød,900000 ,06-05-2001,Alm. Salg,167,5389.0,5,1928,
 219,Villa,Frederiksværksgade 52,3400, Hillerød,1373440 ,06-05-2001,Alm. Salg,96,14307.0,4,1930,
@@ -16063,7 +15730,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Brødeskovparken 73,3400, Hillerød,2141977 ,06-05-2001,Alm. Salg,197,10873.0,7,2000,
 219,Villa,Anemonevej 1,3400, Hillerød,1317500 ,06-05-2001,Alm. Salg,215,6128.0,7,1966,
 219,Villa,Jespervej 49,3400, Hillerød,1882341 ,06-05-2001,Alm. Salg,120,15686.0,5,1934,
-219,Villa,Helsingørsgade 33G,3400, Hillerød,575000 ,06-05-2001,Alm. Salg,155,3710.0,5,2004,
 219,Villa,Rådyrvej 9,3480, Fredensborg,400000 ,06-05-2001,Fam. Salg,191,2094.0,7,1995,
 219,Rækkehus,Arresøgårdsvej 9,3320, Skævinge,1295000 ,05-05-2001,Alm. Salg,130,9962.0,4,2001,
 219,Villa,Gulspurvevej 12,3400, Hillerød,1792820 ,05-05-2001,Alm. Salg,115,15590.0,5,1967,
@@ -16320,7 +15986,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Ejerlejlighed,"Østergade 18, 1. th",3400, Hillerød,914321 ,10-12-2000,Alm. Salg,59,15497.0,2,1986,
 219,Ejerlejlighed,"Fredensvej 22, 1",3400, Hillerød,1163000 ,10-12-2000,Alm. Salg,106,10972.0,4,1905,
 219,Ejerlejlighed,"Fredskovhellet 27, 1. th",3400, Hillerød,1300000 ,10-12-2000,Alm. Salg,109,11927.0,4,1963,
-219,Ejerlejlighed,Markedspladsen 15B,3400, Hillerød,3500000 ,10-12-2000,Alm. Salg,124,28226.0,3,1870,
 219,Villa,Gl. Frederiksborgvej 11,3400, Hillerød,968348 ,10-12-2000,Andet,245,3952.0,7,1966,
 219,Villa,Tolvkarlevej 40,3400, Hillerød,1942000 ,10-12-2000,Alm. Salg,166,11699.0,5,1972,
 219,Villa,Frydenborgvej 29,3400, Hillerød,2788040 ,10-12-2000,Alm. Salg,326,8552.0,10,1965,
@@ -16563,9 +16228,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Baunevænget 98,3480, Fredensborg,1550000 ,09-08-2000,Alm. Salg,176,8807.0,5,1972,
 219,Villa,Akacievej 13,3400, Hillerød,1413340 ,08-08-2000,Alm. Salg,180,7852.0,4,1964,
 219,Ejerlejlighed,"Ved Egedam 9, st. 57",3400, Hillerød,912074 ,07-08-2000,Alm. Salg,80,11401.0,2,1975,
-219,Ejerlejlighed,"Tamsborgvej 15, 1. th",3400, Hillerød,695000 ,06-08-2000,Alm. Salg,59,11780.0,2,1942,
 219,Ejerlejlighed,"Slotsgade 3D, 1. mf",3400, Hillerød,1085000 ,06-08-2000,Alm. Salg,82,13232.0,2,1897,
-219,Villa,Gl. Frederiksborgvej 74,3400, Hillerød,695000 ,06-08-2000,Alm. Salg,134,5187.0,4,1924,
 219,Villa,Tietgensvej 7,3400, Hillerød,1104000 ,06-08-2000,Alm. Salg,98,11265.0,4,1923,
 219,Villa,Hovedvejen 14,3330, Gørløse,1425320 ,06-08-2000,Alm. Salg,140,10181.0,6,1916,
 219,Ejerlejlighed,"Langesvej 11C, 1",3400, Hillerød,1224440 ,04-08-2000,Alm. Salg,113,10836.0,4,1900,
@@ -16884,7 +16547,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Møllebakken 12,3400, Hillerød,1586378 ,27-03-2000,Alm. Salg,146,10866.0,6,1935,
 219,Villa,Brødeskovparken 83,3400, Hillerød,450000 ,27-03-2000,Alm. Salg,180,2500.0,7,2001,
 219,Rækkehus,Stubbevang 40,3400, Hillerød,700000 ,26-03-2000,Fam. Salg,80,8750.0,4,1948,
-219,Rækkehus,Leerbjerg Lod 2,3400, Hillerød,1500000 ,26-03-2000,Alm. Salg,110,13636.0,4,1979,
 219,Ejerlejlighed,"Gl. Holmegårdsvej 59, 2. th",3400, Hillerød,881420 ,26-03-2000,Alm. Salg,82,10749.0,3,1970,
 219,Villa,Hulvejen 1B,3400, Hillerød,1110088 ,26-03-2000,Alm. Salg,196,5664.0,11,1960,
 219,Villa,Hulvejen 23,3400, Hillerød,2349000 ,26-03-2000,Alm. Salg,278,8450.0,8,1970,
@@ -16892,7 +16554,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Smedievej 261,3400, Hillerød,2634640 ,26-03-2000,Alm. Salg,175,15055.0,7,2000,
 219,Villa,Solskrænten 1,3400, Hillerød,1325000 ,26-03-2000,Alm. Salg,136,9743.0,5,1958,
 219,Villa,Tietgensvej 9,3400, Hillerød,1447000 ,26-03-2000,Alm. Salg,87,16632.0,3,1923,
-219,Villa,Skanselyet 10,3400, Hillerød,1500000 ,26-03-2000,Andet,204,7353.0,6,1964,
 219,Villa,Birkehaven 82,3400, Hillerød,1300000 ,26-03-2000,Andet,159,8176.0,5,1975,
 219,Ejerlejlighed,"Gl. Holmegårdsvej 53, 2. tv",3400, Hillerød,686776 ,24-03-2000,Alm. Salg,82,8375.0,3,1970,
 219,Villa,Præstehøjvej 5,3320, Skævinge,1715720 ,24-03-2000,Alm. Salg,248,6918.0,7,1800,
@@ -16979,7 +16640,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Rækkehus,Maltevang 28,3400, Hillerød,1545000 ,06-02-2000,Alm. Salg,120,12875.0,4,1990,
 219,Ejerlejlighed,"Tamsborgvej 15, 1. mf",3400, Hillerød,724630 ,06-02-2000,Alm. Salg,48,15096.0,2,1942,
 219,Ejerlejlighed,"Ved Egedam 17, 1. 116",3400, Hillerød,764511 ,06-02-2000,Alm. Salg,65,11762.0,2,1975,
-219,Ejerlejlighed,"Slotsgade 61, 1. 29",3400, Hillerød,1900000 ,06-02-2000,Alm. Salg,149,12752.0,5,1979,
 219,Ejerlejlighed,"Gl. Holmegårdsvej 61, 1. tv",3400, Hillerød,858360 ,06-02-2000,Alm. Salg,82,10468.0,3,1970,
 219,Ejerlejlighed,Humlehaven 14,3400, Hillerød,820000 ,06-02-2000,Alm. Salg,85,9647.0,3,1989,
 219,Ejerlejlighed,Humlehaven 16,3400, Hillerød,830000 ,06-02-2000,Alm. Salg,86,9651.0,3,1989,
@@ -16988,7 +16648,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Ejerlejlighed,P. Mogensensvej 2,3400, Hillerød,945000 ,06-02-2000,Alm. Salg,146,6473.0,6,1936,
 219,Villa,Baunevænget 27,3480, Fredensborg,852500 ,06-02-2000,Fam. Salg,168,5074.0,5,1972,
 219,Villa,Brødeskovparken 13,3400, Hillerød,415000 ,06-02-2000,Alm. Salg,178,2331.0,6,2003,
-219,Villa,Brødeskovparken 21,3400, Hillerød,1900000 ,06-02-2000,Alm. Salg,195,9744.0,5,1999,
 219,Villa,Ahornvej 3,3400, Hillerød,1563607 ,06-02-2000,Alm. Salg,183,8544.0,6,1969,
 219,Villa,Frederiksværksgade 109,3400, Hillerød,1242500 ,06-02-2000,Alm. Salg,160,7766.0,4,1901,
 219,Villa,Ridehusvej 1,3400, Hillerød,1425000 ,06-02-2000,Alm. Salg,105,13571.0,2,1966,
@@ -18393,7 +18052,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Folevang 12,3400, Hillerød,1639319 ,03-05-1998,Alm. Salg,137,11966.0,5,1962,
 219,Villa,Frydenborgvej 31,3400, Hillerød,1302043 ,03-05-1998,Alm. Salg,110,11837.0,5,1968,
 219,Villa,Skovledet 63,3400, Hillerød,1391143 ,03-05-1998,Alm. Salg,142,9797.0,6,1950,
-219,Villa,Frederiksværksgade 85C,3400, Hillerød,1250000 ,03-05-1998,Alm. Salg,128,9766.0,5,1937,
 219,Villa,Agertoften 2,3400, Hillerød,735000 ,03-05-1998,Alm. Salg,110,6682.0,4,1957,
 219,Villa,Mosedraget 16,3480, Fredensborg,1126370 ,03-05-1998,Alm. Salg,137,8222.0,5,1965,
 219,Villa,Jægervænget 4,3480, Fredensborg,1379908 ,03-05-1998,Alm. Salg,155,8903.0,5,1972,
@@ -18522,10 +18180,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Enghavegårdsvej 31,3400, Hillerød,1302031 ,02-03-1998,Alm. Salg,140,9300.0,5,1971,
 219,Ejerlejlighed,Bøllemosevej 22,3550, Slangerup,700000 ,01-03-1998,Alm. Salg,198,3535.0,6,1987,
 219,Villa,Travegårdsvej 7,3320, Skævinge,1285390 ,01-03-1998,Alm. Salg,169,7606.0,5,1971,
-219,Ejerlejlighed,"Slotsgade 45, 2. 1",3400, Hillerød,2300000 ,28-02-1998,Alm. Salg,75,30667.0,2,1902,
-219,Ejerlejlighed,"Slotsgade 45, 2. 4",3400, Hillerød,2300000 ,28-02-1998,Alm. Salg,59,38983.0,2,1902,
-219,Ejerlejlighed,"Slotsgade 45, 1. th",3400, Hillerød,2300000 ,28-02-1998,Alm. Salg,76,30263.0,2,1902,
-219,Ejerlejlighed,"Slotsgade 45, 1. tv",3400, Hillerød,2300000 ,28-02-1998,Alm. Salg,130,17692.0,4,1902,
 219,Villa,Holmegårdsparken 48,3320, Skævinge,1073000 ,28-02-1998,Alm. Salg,129,8318.0,4,1971,
 219,Villa,Store Lyngbyvej 36,3320, Skævinge,680000 ,27-02-1998,Alm. Salg,213,3192.0,6,1937,
 219,Villa,Humlevænget 6,3480, Fredensborg,1203235 ,27-02-1998,Alm. Salg,120,10027.0,5,1965,
@@ -18809,7 +18463,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Smedievej 25,3400, Hillerød,1418970 ,05-10-1997,Alm. Salg,130,10915.0,4,1976,
 219,Villa,Bredevang 3,3400, Hillerød,1040880 ,05-10-1997,Alm. Salg,77,13518.0,3,1940,
 219,Villa,Strøvej 15,3320, Skævinge,244203 ,05-10-1997,Andet,130,1878.0,4,1907,
-219,Villa,Hostrupsvej 6C,3400, Hillerød,1050000 ,05-10-1997,Alm. Salg,83,12651.0,3,1919,
 219,Villa,Harløsevej 215C,3400, Hillerød,380000 ,04-10-1997,Alm. Salg,257,1479.0,5,2000,
 219,Rækkehus,Herlufdalsvej 10B,3400, Hillerød,1239000 ,03-10-1997,Alm. Salg,116,10681.0,4,1985,
 219,Rækkehus,Baunehøjen 15,3320, Skævinge,630000 ,02-10-1997,Alm. Salg,86,7326.0,4,1987,
@@ -18843,7 +18496,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Solvej 3,3400, Hillerød,1275000 ,28-09-1997,Alm. Salg,174,7328.0,4,1971,
 219,Villa,Engsvinget 1,3400, Hillerød,450000 ,28-09-1997,Alm. Salg,165,2727.0,6,1998,
 219,Villa,Bredevang 3,3400, Hillerød,1040880 ,28-09-1997,Alm. Salg,77,13518.0,3,1940,
-219,Villa,Hostrupsvej 6C,3400, Hillerød,1050000 ,28-09-1997,Alm. Salg,83,12651.0,3,1919,
 219,Villa,Skovduevej 1,3400, Hillerød,600000 ,28-09-1997,Alm. Salg,149,4027.0,4,1966,
 219,Ejerlejlighed,"Ved Egedam 17, 2. 120",3400, Hillerød,925000 ,27-09-1997,Alm. Salg,106,8726.0,3,1975,
 219,Ejerlejlighed,"Slangerupgade 18, 2. tv",3400, Hillerød,690000 ,27-09-1997,Alm. Salg,80,8625.0,2,1890,
@@ -19171,10 +18823,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Violvej 7,3330, Gørløse,1213000 ,03-05-1997,Alm. Salg,185,6557.0,5,1971,
 219,Rækkehus,Leerbjerg Lod 3,3400, Hillerød,1529697 ,01-05-1997,Alm. Salg,155,9869.0,6,1979,
 219,Rækkehus,Leerbjerg Lod 14,3400, Hillerød,584800 ,30-04-1997,Andet,109,5365.0,3,1979,
-219,Rækkehus,Teglgårdslund 18B,3400, Hillerød,300000 ,30-04-1997,Fam. Salg,55,5455.0,2,1926,
 219,Ejerlejlighed,"Ved Egedam 15, 1. 103",3400, Hillerød,542408 ,30-04-1997,Alm. Salg,75,7232.0,2,1975,
 219,Ejerlejlighed,"Nordre Jernbanevej 13A, 2. tv",3400, Hillerød,821530 ,30-04-1997,Alm. Salg,71,11571.0,3,1985,
-219,Villa,Teglgårdslund 18A,3400, Hillerød,300000 ,30-04-1997,Fam. Salg,128,2344.0,5,1904,
 219,Villa,Kongens Vænge 5,3400, Hillerød,1597000 ,30-04-1997,Alm. Salg,244,6545.0,8,1977,
 219,Villa,Kærstykket 3,3550, Slangerup,920000 ,30-04-1997,Andet,178,5169.0,5,1966,
 219,Villa,Holmegårdsvej 49,3400, Hillerød,848576 ,30-04-1997,Alm. Salg,192,4420.0,5,1900,
@@ -19328,9 +18978,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Kulsvier Huse 7,3400, Hillerød,300000 ,27-02-1997,Alm. Salg,156,1923.0,6,1998,
 219,Villa,Højtoftevej 5,3480, Fredensborg,2000000 ,27-02-1997,Fam. Salg,150,13333.0,7,1940,
 219,Ejerlejlighed,"Hostrupsvej 25, 3. th",3400, Hillerød,603500 ,26-02-1997,Alm. Salg,60,10058.0,2,1936,
-219,Ejerlejlighed,"Strølillevej 32, st",3320, Skævinge,2371083 ,25-02-1997,Alm. Salg,119,19925.0,3,1975,
 219,Villa,Tolvkarlevej 6,3400, Hillerød,1324000 ,25-02-1997,Alm. Salg,188,7043.0,5,1973,
-219,Villa,Strølillevej 32,3320, Skævinge,2371083 ,25-02-1997,Alm. Salg,339,6994.0,6,1974,
 219,Villa,P. Mogensensvej 43,3400, Hillerød,1015381 ,23-02-1997,Alm. Salg,95,10688.0,3,1943,
 219,Ejerlejlighed,"Ved Egedam 11, st. 70",3400, Hillerød,579000 ,22-02-1997,Alm. Salg,68,8515.0,2,1975,
 219,Ejerlejlighed,"Slotsgade 26, 2. th",3400, Hillerød,996800 ,21-02-1997,Alm. Salg,115,8668.0,4,1985,
@@ -19701,7 +19349,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Ejerlejlighed,"Engsvinget 22, st",3400, Hillerød,687226 ,30-08-1996,Alm. Salg,163,4216.0,5,1947,
 219,Ejerlejlighed,"Bakkegade 29, st. th",3400, Hillerød,415000 ,29-08-1996,Alm. Salg,51,8137.0,2,1890,
 219,Ejerlejlighed,"Solbakken 2B, 1. th",3400, Hillerød,745000 ,29-08-1996,Alm. Salg,98,7602.0,3,1988,
-219,Villa,Lindholmvej 5A,3550, Slangerup,3780000 ,28-08-1996,Fam. Salg,140,27000.0,6,1938,
 219,Villa,Selskovvej 18,3400, Hillerød,924000 ,27-08-1996,Alm. Salg,107,8636.0,4,1937,
 219,Villa,Gadeledsvej 24,3400, Hillerød,1080000 ,27-08-1996,Alm. Salg,136,7941.0,4,1964,
 219,Rækkehus,Ved Skansebakken 81,3400, Hillerød,546679 ,25-08-1996,Alm. Salg,53,10315.0,2,1972,
@@ -19792,9 +19439,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Ålholmparken 5,3400, Hillerød,1226000 ,17-07-1996,Alm. Salg,151,8119.0,5,1968,
 219,Ejerlejlighed,"Hostrupsvej 23, st. tv",3400, Hillerød,601000 ,16-07-1996,Alm. Salg,86,6988.0,3,1936,
 219,Ejerlejlighed,"Gl. Holmegårdsvej 35, 2. tv",3400, Hillerød,575000 ,16-07-1996,Alm. Salg,93,6183.0,4,1970,
-219,Ejerlejlighed,"Store Lyngbyvej 51, 1",3320, Skævinge,1300000 ,15-07-1996,Alm. Salg,120,10833.0,4,1968,
 219,Villa,Jespervej 107,3400, Hillerød,197124 ,15-07-1996,Alm. Salg,135,1460.0,3,1938,
-219,Villa,Store Lyngbyvej 49,3320, Skævinge,1300000 ,15-07-1996,Alm. Salg,90,14444.0,4,1943,
 219,Rækkehus,Slettebjerget 56,3400, Hillerød,954237 ,14-07-1996,Alm. Salg,117,8156.0,4,1977,
 219,Rækkehus,Bolværket 127,3400, Hillerød,1121080 ,14-07-1996,Alm. Salg,123,9114.0,4,1988,
 219,Ejerlejlighed,"Slangerupgade 27B, 2. th",3400, Hillerød,520000 ,14-07-1996,Alm. Salg,72,7222.0,2,1960,
@@ -19821,97 +19466,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Rækkehus,Granbakken 27,3400, Hillerød,995000 ,06-07-1996,Alm. Salg,107,9299.0,4,1962,
 219,Ejerlejlighed,"Slangerupgade 12A, 1. 2",3400, Hillerød,424885 ,06-07-1996,Alm. Salg,39,10894.0,1,1959,
 219,Ejerlejlighed,"Fredskovhellet 24, 2. tv",3400, Hillerød,530000 ,05-07-1996,Alm. Salg,72,7361.0,2,1963,
-219,Ejerlejlighed,"Søndre Jernbanevej 25, st. th",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,150,1167.0,6,1900,
-219,Ejerlejlighed,"Søndre Jernbanevej 25, 1. th",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,150,1167.0,6,1900,
-219,Ejerlejlighed,"Søndre Jernbanevej 25, 2. th",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,140,1250.0,5,1900,
-219,Ejerlejlighed,"Søndre Jernbanevej 25, st. tv",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,150,1167.0,5,1900,
-219,Ejerlejlighed,"Søndre Jernbanevej 25, 1. tv",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,130,1346.0,5,1900,
-219,Ejerlejlighed,"Søndre Jernbanevej 25, 2. tv",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,120,1458.0,4,1900,
-219,Ejerlejlighed,"Vibekevej 7B, 2. 2",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,75,2333.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 2. 3",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,74,2365.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 4. 3",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,74,2365.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7A, 1. 3",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,82,2134.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7E, 2. 3",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,94,1862.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7D, st. 2",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,65,2692.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 1. 1",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,77,2273.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7D, 3. 3",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,92,1902.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7C, 2. 1",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,74,2365.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7C, st. 3",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,84,2083.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7B, st. 2",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,75,2333.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7C, st. 2",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,72,2431.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7A, st. 3",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,72,2431.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7D, 1. 4",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,93,1882.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 2. 4",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,77,2273.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, st. 4",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,77,2273.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7E, st. 4",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,73,2397.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7E, st. 3",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,94,1862.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7D, st. 1",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,91,1923.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7E, 4. 4",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,90,1944.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7D, 2. 3",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,92,1902.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7D, st. 4",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,86,2035.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 4. 2",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,78,2244.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7D, 2. 1",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,89,1966.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7D, 3. 4",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,93,1882.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 1. 3",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,74,2365.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7E, 1. 4",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,73,2397.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7E, 2. 4",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,73,2397.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7A, st. 2",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,72,2431.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7D, 5",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,113,1549.0,4,2020,
-219,Ejerlejlighed,"Vibekevej 7D, 4. 3",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,93,1882.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7C, 1. 3",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,84,2083.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 1. 2",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,75,2333.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 3. 3",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,74,2365.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 3. 4",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,77,2273.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7A, 3",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,94,1862.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7C, st. 4",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,71,2465.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 1. 4",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,77,2273.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 3. 5",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,70,2500.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 3. 2",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,75,2333.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7C, 4",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,88,1989.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7A, 1. 1",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,71,2465.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 5",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,90,1944.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7D, 3. 2",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,65,2692.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7E, 2. 1",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,76,2303.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7D, 1. 1",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,89,1966.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7C, st. 1",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,74,2365.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 2. 1",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,77,2273.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7C, 3. 4",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,73,2397.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 2. 5",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,70,2500.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 1. 5",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,70,2500.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7E, 1. 2",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,68,2574.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, st. 1",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,77,2273.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7C, 1. 4",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,71,2465.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7A, 1. 2",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,72,2431.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7A, st. 1",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,73,2397.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7C, 1. 1",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,74,2365.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 4. 5",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,70,2500.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 3. 1",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,77,2273.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7D, 1. 2",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,65,2692.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7C, 3. 2",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,72,2431.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7E, 3. 4",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,74,2365.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7C, 3. 1",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,74,2365.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 4. 4",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,77,2273.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7E, 1. 1",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,76,2303.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, st. 3",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,74,2365.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, st. 5",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,70,2500.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7C, 1. 2",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,72,2431.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7D, 4. 4",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,93,1882.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7D, 2. 2",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,65,2692.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7A, 2. 3",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,82,2134.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7D, 3. 1",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,89,1966.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7A, 2. 1",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,74,2365.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7E, 3. 2",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,72,2431.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7D, 2. 4",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,93,1882.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7E, 1. 3",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,95,1842.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7C, 2. 4",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,71,2465.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7C, 2. 3",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,84,2083.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7D, st. 3",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,92,1902.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7C, 2. 2",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,72,2431.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7D, 1. 3",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,92,1902.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7E, st. 1",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,76,2303.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7E, st. 2",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,68,2574.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7E, 2. 2",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,68,2574.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7D, 4. 1",3400, Hillerød,175000 ,04-07-1996,Alm. Salg,91,1923.0,3,2020,
 219,Ejerlejlighed,"Østergade 4C, 1. th",3400, Hillerød,595000 ,03-07-1996,Alm. Salg,70,8500.0,3,1800,
 219,Ejerlejlighed,"Gl. Holmegårdsvej 29, 2. tv",3400, Hillerød,540000 ,03-07-1996,Alm. Salg,82,6585.0,3,1970,
 219,Villa,Tværvej 4,3400, Hillerød,356311 ,03-07-1996,Andet,141,2527.0,6,1961,
@@ -20020,51 +19574,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Ejerlejlighed,"Ved Egedam 11, 1. 77",3400, Hillerød,488256 ,14-05-1996,Alm. Salg,65,7512.0,2,1975,
 219,Villa,Dyrehavevej 36,3400, Hillerød,1250000 ,14-05-1996,Alm. Salg,136,9191.0,5,1965,
 219,Villa,Roskildevej 147B,3400, Hillerød,1083000 ,14-05-1996,Alm. Salg,187,5791.0,6,1968,
-219,Ejerlejlighed,"Søndre Jernbanevej 16A, 3. 3",3400, Hillerød,1881900 ,13-05-1996,Fam. Salg,47,40040.0,1,1928,
-219,Ejerlejlighed,"Søndre Jernbanevej 16A, 3. 2",3400, Hillerød,1881900 ,13-05-1996,Fam. Salg,58,32447.0,2,1928,
-219,Ejerlejlighed,"Søndre Jernbanevej 16A, 4. 3",3400, Hillerød,1881900 ,13-05-1996,Fam. Salg,47,40040.0,1,1928,
-219,Ejerlejlighed,"Søndre Jernbanevej 16A, 4. 2",3400, Hillerød,1881900 ,13-05-1996,Fam. Salg,58,32447.0,2,1928,
-219,Ejerlejlighed,"Søndre Jernbanevej 16A, 3. 4",3400, Hillerød,1881900 ,13-05-1996,Fam. Salg,50,37638.0,2,1928,
-219,Ejerlejlighed,"Søndre Jernbanevej 16A, 4. 4",3400, Hillerød,1881900 ,13-05-1996,Fam. Salg,50,37638.0,2,1928,
-219,Ejerlejlighed,"Søndre Jernbanevej 16B, 1. th",3400, Hillerød,1881900 ,13-05-1996,Fam. Salg,108,17425.0,4,1928,
-219,Ejerlejlighed,"Søndre Jernbanevej 16B, 1. tv",3400, Hillerød,1881900 ,13-05-1996,Fam. Salg,66,28514.0,2,1928,
-219,Ejerlejlighed,"Søndre Jernbanevej 16B, 2. tv",3400, Hillerød,1881900 ,13-05-1996,Fam. Salg,80,23524.0,3,1928,
-219,Ejerlejlighed,"Søndre Jernbanevej 16B, 2. th",3400, Hillerød,1881900 ,13-05-1996,Fam. Salg,95,19809.0,3,1928,
-219,Ejerlejlighed,"Søndre Jernbanevej 16B, 3. th",3400, Hillerød,1881900 ,13-05-1996,Fam. Salg,95,19809.0,3,1928,
-219,Ejerlejlighed,"Søndre Jernbanevej 16B, 3. tv",3400, Hillerød,1881900 ,13-05-1996,Fam. Salg,80,23524.0,3,1928,
-219,Ejerlejlighed,"Søndre Jernbanevej 16B, 4. th",3400, Hillerød,1881900 ,13-05-1996,Fam. Salg,95,19809.0,3,1928,
-219,Ejerlejlighed,"Søndre Jernbanevej 16B, 4. tv",3400, Hillerød,1881900 ,13-05-1996,Fam. Salg,80,23524.0,3,1928,
-219,Ejerlejlighed,"Hostrupsvej 4, st. tv",3400, Hillerød,1881900 ,13-05-1996,Fam. Salg,114,16508.0,4,1928,
-219,Ejerlejlighed,"Hostrupsvej 4, 1. tv",3400, Hillerød,1881900 ,13-05-1996,Fam. Salg,114,16508.0,4,1928,
-219,Ejerlejlighed,"Hostrupsvej 4, 2. th",3400, Hillerød,1881900 ,13-05-1996,Fam. Salg,202,9316.0,6,1928,
-219,Ejerlejlighed,"Hostrupsvej 4, 1. th",3400, Hillerød,1881900 ,13-05-1996,Fam. Salg,74,25431.0,2,1928,
-219,Ejerlejlighed,"Hostrupsvej 2, 1. th",3400, Hillerød,1881900 ,13-05-1996,Fam. Salg,63,29871.0,2,1928,
-219,Ejerlejlighed,"Hostrupsvej 2, 3. th",3400, Hillerød,1881900 ,13-05-1996,Fam. Salg,62,30353.0,2,1928,
-219,Ejerlejlighed,"Hostrupsvej 2, 1. tv",3400, Hillerød,1881900 ,13-05-1996,Fam. Salg,77,24440.0,2,1928,
-219,Ejerlejlighed,"Hostrupsvej 2, 3. tv",3400, Hillerød,1881900 ,13-05-1996,Fam. Salg,77,24440.0,2,1928,
-219,Ejerlejlighed,"Hostrupsvej 2, 4. th",3400, Hillerød,1881900 ,13-05-1996,Fam. Salg,62,30353.0,2,1928,
-219,Ejerlejlighed,"Hostrupsvej 2, 4. tv",3400, Hillerød,1881900 ,13-05-1996,Fam. Salg,77,24440.0,2,1928,
-219,Ejerlejlighed,"Hostrupsvej 2, 2. tv",3400, Hillerød,1881900 ,13-05-1996,Fam. Salg,77,24440.0,2,1928,
-219,Ejerlejlighed,"Hostrupsvej 2, 2. th",3400, Hillerød,1881900 ,13-05-1996,Fam. Salg,62,30353.0,2,1928,
-219,Ejerlejlighed,"Søndre Jernbanevej 14, 1. th",3400, Hillerød,1881900 ,13-05-1996,Fam. Salg,58,32447.0,2,1928,
-219,Ejerlejlighed,"Søndre Jernbanevej 14, 1. tv",3400, Hillerød,1881900 ,13-05-1996,Fam. Salg,73,25779.0,2,1928,
-219,Ejerlejlighed,"Søndre Jernbanevej 14, 2. tv",3400, Hillerød,1881900 ,13-05-1996,Fam. Salg,72,26138.0,2,1928,
-219,Ejerlejlighed,"Søndre Jernbanevej 14, 2. th",3400, Hillerød,1881900 ,13-05-1996,Fam. Salg,58,32447.0,2,1928,
-219,Ejerlejlighed,"Søndre Jernbanevej 14, 3. tv",3400, Hillerød,1881900 ,13-05-1996,Fam. Salg,72,26138.0,2,1928,
-219,Ejerlejlighed,"Søndre Jernbanevej 14, 3. th",3400, Hillerød,1881900 ,13-05-1996,Fam. Salg,58,32447.0,2,1928,
-219,Ejerlejlighed,"Søndre Jernbanevej 14, 4. th",3400, Hillerød,1881900 ,13-05-1996,Fam. Salg,58,32447.0,2,1928,
-219,Ejerlejlighed,"Søndre Jernbanevej 14, 4. tv",3400, Hillerød,1881900 ,13-05-1996,Fam. Salg,72,26138.0,2,1928,
-219,Ejerlejlighed,"Søndre Jernbanevej 16A, 1. 2",3400, Hillerød,1881900 ,13-05-1996,Fam. Salg,59,31897.0,2,1928,
-219,Ejerlejlighed,"Søndre Jernbanevej 16A, 1. 3",3400, Hillerød,1881900 ,13-05-1996,Fam. Salg,47,40040.0,1,1928,
-219,Ejerlejlighed,"Søndre Jernbanevej 16A, 1. 4",3400, Hillerød,1881900 ,13-05-1996,Fam. Salg,50,37638.0,2,1928,
-219,Ejerlejlighed,"Søndre Jernbanevej 16A, 2. 4",3400, Hillerød,1881900 ,13-05-1996,Fam. Salg,50,37638.0,2,1928,
-219,Ejerlejlighed,"Søndre Jernbanevej 16A, 2. 2",3400, Hillerød,1881900 ,13-05-1996,Fam. Salg,58,32447.0,2,1928,
-219,Ejerlejlighed,"Søndre Jernbanevej 16A, 2. 3",3400, Hillerød,1881900 ,13-05-1996,Fam. Salg,47,40040.0,1,1928,
-219,Ejerlejlighed,"Hostrupsvej 4, 1. mf",3400, Hillerød,1881900 ,13-05-1996,Fam. Salg,129,14588.0,3,1928,
-219,Ejerlejlighed,"Hostrupsvej 4A, st. tv",3400, Hillerød,1881900 ,13-05-1996,Fam. Salg,77,24440.0,3,1928,
-219,Ejerlejlighed,"Hostrupsvej 4A, st. th",3400, Hillerød,1881900 ,13-05-1996,Fam. Salg,77,24440.0,3,1928,
-219,Ejerlejlighed,"Hostrupsvej 4, 3",3400, Hillerød,1881900 ,13-05-1996,Fam. Salg,75,25092.0,3,1928,
-219,Ejerlejlighed,"Hostrupsvej 4, 2. tv",3400, Hillerød,1881900 ,13-05-1996,Fam. Salg,113,16654.0,4,1928,
 219,Villa,Industrivej 8,3320, Skævinge,1299000 ,13-05-1996,Alm. Salg,220,5905.0,7,1981,
 219,Villa,Fyrrekrogen 2,3400, Hillerød,1492532 ,13-05-1996,Alm. Salg,175,8529.0,6,1968,
 219,Villa,Holmegårdsvej 55,3400, Hillerød,1355000 ,13-05-1996,Alm. Salg,203,6675.0,8,1897,
@@ -20164,98 +19673,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Bygvangen 21,3400, Hillerød,328000 ,09-04-1996,Alm. Salg,140,2343.0,5,2000,
 219,Villa,Krostien 14,3480, Fredensborg,576725 ,09-04-1996,Alm. Salg,142,4061.0,5,1979,
 219,Rækkehus,Baunehøjen 41,3320, Skævinge,740000 ,08-04-1996,Alm. Salg,174,4253.0,7,1986,
-219,Ejerlejlighed,"Søndre Jernbanevej 25, st. th",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,150,1167.0,6,1900,
-219,Ejerlejlighed,"Søndre Jernbanevej 25, 1. th",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,150,1167.0,6,1900,
-219,Ejerlejlighed,"Søndre Jernbanevej 25, 2. th",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,140,1250.0,5,1900,
-219,Ejerlejlighed,"Søndre Jernbanevej 25, st. tv",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,150,1167.0,5,1900,
-219,Ejerlejlighed,"Søndre Jernbanevej 25, 1. tv",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,130,1346.0,5,1900,
-219,Ejerlejlighed,"Søndre Jernbanevej 25, 2. tv",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,120,1458.0,4,1900,
 219,Ejerlejlighed,"Nordre Jernbanevej 13C, 1. tv",3400, Hillerød,562000 ,08-04-1996,Alm. Salg,60,9367.0,2,1985,
-219,Ejerlejlighed,"Vibekevej 7B, 2. 2",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,75,2333.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 2. 3",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,74,2365.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 4. 3",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,74,2365.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7A, 1. 3",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,82,2134.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7E, 2. 3",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,94,1862.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7D, st. 2",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,65,2692.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 1. 1",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,77,2273.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7D, 3. 3",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,92,1902.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7C, 2. 1",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,74,2365.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7C, st. 3",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,84,2083.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7B, st. 2",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,75,2333.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7C, st. 2",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,72,2431.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7A, st. 3",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,72,2431.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7D, 1. 4",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,93,1882.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 2. 4",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,77,2273.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, st. 4",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,77,2273.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7E, st. 4",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,73,2397.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7E, st. 3",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,94,1862.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7D, st. 1",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,91,1923.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7E, 4. 4",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,90,1944.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7D, 2. 3",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,92,1902.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7D, st. 4",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,86,2035.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 4. 2",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,78,2244.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7D, 2. 1",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,89,1966.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7D, 3. 4",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,93,1882.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 1. 3",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,74,2365.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7E, 1. 4",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,73,2397.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7E, 2. 4",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,73,2397.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7A, st. 2",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,72,2431.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7D, 5",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,113,1549.0,4,2020,
-219,Ejerlejlighed,"Vibekevej 7D, 4. 3",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,93,1882.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7C, 1. 3",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,84,2083.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 1. 2",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,75,2333.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 3. 3",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,74,2365.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 3. 4",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,77,2273.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7A, 3",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,94,1862.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7C, st. 4",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,71,2465.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 1. 4",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,77,2273.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 3. 5",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,70,2500.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 3. 2",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,75,2333.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7C, 4",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,88,1989.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7A, 1. 1",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,71,2465.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 5",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,90,1944.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7D, 3. 2",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,65,2692.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7E, 2. 1",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,76,2303.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7D, 1. 1",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,89,1966.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7C, st. 1",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,74,2365.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 2. 1",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,77,2273.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7C, 3. 4",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,73,2397.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 2. 5",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,70,2500.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 1. 5",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,70,2500.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7E, 1. 2",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,68,2574.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, st. 1",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,77,2273.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7C, 1. 4",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,71,2465.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7A, 1. 2",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,72,2431.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7A, st. 1",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,73,2397.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7C, 1. 1",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,74,2365.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 4. 5",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,70,2500.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 3. 1",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,77,2273.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7D, 1. 2",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,65,2692.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7C, 3. 2",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,72,2431.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7E, 3. 4",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,74,2365.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7C, 3. 1",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,74,2365.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, 4. 4",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,77,2273.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7E, 1. 1",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,76,2303.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, st. 3",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,74,2365.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7B, st. 5",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,70,2500.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7C, 1. 2",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,72,2431.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7D, 4. 4",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,93,1882.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7D, 2. 2",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,65,2692.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7A, 2. 3",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,82,2134.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7D, 3. 1",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,89,1966.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7A, 2. 1",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,74,2365.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7E, 3. 2",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,72,2431.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7D, 2. 4",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,93,1882.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7E, 1. 3",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,95,1842.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7C, 2. 4",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,71,2465.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7C, 2. 3",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,84,2083.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7D, st. 3",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,92,1902.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7C, 2. 2",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,72,2431.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7D, 1. 3",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,92,1902.0,3,2020,
-219,Ejerlejlighed,"Vibekevej 7E, st. 1",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,76,2303.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7E, st. 2",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,68,2574.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7E, 2. 2",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,68,2574.0,2,2020,
-219,Ejerlejlighed,"Vibekevej 7D, 4. 1",3400, Hillerød,175000 ,08-04-1996,Alm. Salg,91,1923.0,3,2020,
 219,Villa,Baunedalen 6,3320, Skævinge,170000 ,08-04-1996,Alm. Salg,221,769.0,7,1999,
 219,Villa,Strøbjergvej 24,3600, Frederikssund,1265000 ,08-04-1996,Alm. Salg,200,6325.0,7,1870,
 219,Villa,Gribskov Parkvej 15,3400, Hillerød,350000 ,08-04-1996,Alm. Salg,207,1691.0,5,1997,
@@ -20401,7 +19819,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Rækkehus,Slettebjerget 132,3400, Hillerød,939905 ,21-01-1996,Alm. Salg,118,7965.0,4,1980,
 219,Rækkehus,Leerbjerg Lod 6,3400, Hillerød,1216498 ,21-01-1996,Alm. Salg,130,9358.0,3,1979,
 219,Ejerlejlighed,"Solbakken 2A, 1. th",3400, Hillerød,677520 ,21-01-1996,Alm. Salg,106,6392.0,3,1988,
-219,Ejerlejlighed,"Frederiksgade 4, 2. th",3400, Hillerød,570000 ,21-01-1996,Alm. Salg,131,4351.0,5,1918,
 219,Ejerlejlighed,"Hostrupsvej 27, 5. th",3400, Hillerød,528731 ,21-01-1996,Alm. Salg,60,8812.0,2,1936,
 219,Villa,Nejedevej 18,3400, Hillerød,1298974 ,21-01-1996,Alm. Salg,201,6463.0,7,1917,
 219,Villa,Rolighedsvej 1,3400, Hillerød,531834 ,21-01-1996,Fam. Salg,185,2875.0,7,1907,
@@ -20409,7 +19826,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Nordbakken 8,3400, Hillerød,500000 ,21-01-1996,Alm. Salg,141,3546.0,5,1964,
 219,Villa,Harløsevej 180,3400, Hillerød,830000 ,21-01-1996,Alm. Salg,173,4798.0,5,1962,
 219,Villa,Fasanvej 2,3400, Hillerød,55000 ,21-01-1996,Alm. Salg,153,359.0,5,1997,
-219,Villa,Gribskovvej 5,3400, Hillerød,570000 ,21-01-1996,Alm. Salg,211,2701.0,6,1956,
 219,Villa,Markskellet 12,3400, Hillerød,1395000 ,21-01-1996,Alm. Salg,121,11529.0,5,1961,
 219,Villa,Lystrupvej 29,3330, Gørløse,657000 ,21-01-1996,Alm. Salg,109,6028.0,3,1877,
 219,Villa,Kirsebæralle 16,3400, Hillerød,875000 ,21-01-1996,Alm. Salg,141,6206.0,4,1959,
@@ -20445,12 +19861,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Traneholmen 13,3400, Hillerød,550000 ,26-12-1995,Alm. Salg,116,4741.0,6,2014,
 219,Villa,Langesvej 10B,3400, Hillerød,732848 ,26-12-1995,Alm. Salg,124,5910.0,4,1954,
 219,Villa,Hellebakkevej 7,3400, Hillerød,450000 ,26-12-1995,Alm. Salg,322,1398.0,7,2008,
-219,Ejerlejlighed,"Hostrupsvej 10A, st. th",3400, Hillerød,880000 ,20-12-1995,Alm. Salg,60,14667.0,2,1943,
-219,Ejerlejlighed,"Hostrupsvej 10A, 1. th",3400, Hillerød,880000 ,20-12-1995,Alm. Salg,91,9670.0,3,1943,
-219,Ejerlejlighed,"Hostrupsvej 10A, st. tv",3400, Hillerød,880000 ,20-12-1995,Alm. Salg,60,14667.0,2,1943,
-219,Ejerlejlighed,"Bag Haver 1, st",3400, Hillerød,880000 ,20-12-1995,Alm. Salg,46,19130.0,2,1943,
-219,Ejerlejlighed,"Hostrupsvej 10A, 1. tv",3400, Hillerød,880000 ,20-12-1995,Alm. Salg,60,14667.0,2,1943,
-219,Ejerlejlighed,"Bag Haver 1, 1",3400, Hillerød,880000 ,20-12-1995,Alm. Salg,68,12941.0,3,1943,
 219,Villa,Friborgvej 46,3400, Hillerød,1125000 ,20-12-1995,Alm. Salg,100,11250.0,5,1951,
 219,Villa,Sommersvej 6,3400, Hillerød,744000 ,20-12-1995,Alm. Salg,114,6526.0,4,1965,
 219,Rækkehus,Bolværket 187,3400, Hillerød,959170 ,19-12-1995,Alm. Salg,103,9312.0,3,1988,
@@ -20727,7 +20137,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Kulsvier Huse 10,3400, Hillerød,97000 ,23-08-1995,Alm. Salg,177,548.0,6,2006,
 219,Villa,Salpetermosevej 35B,3400, Hillerød,413440 ,23-08-1995,Alm. Salg,92,4494.0,2,1897,
 219,Ejerlejlighed,"Fredskovhellet 2G, 1. 16",3400, Hillerød,539320 ,22-08-1995,Alm. Salg,117,4610.0,3,1972,
-219,Villa,Løngangsgade 21B,3400, Hillerød,818809 ,22-08-1995,Alm. Salg,209,3918.0,5,2021,
 219,Rækkehus,Bymosegårds Alle 3,3400, Hillerød,544063 ,21-08-1995,Alm. Salg,79,6887.0,4,1877,
 219,Ejerlejlighed,"Bakkegade 30, st. tv",3400, Hillerød,455000 ,20-08-1995,Alm. Salg,66,6894.0,2,1906,
 219,Rækkehus,Bymosegårds Alle 7,3400, Hillerød,633701 ,19-08-1995,Alm. Salg,111,5709.0,4,1877,
@@ -21981,7 +21390,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Lyngevej 6,3550, Slangerup,645000 ,15-12-1993,Alm. Salg,120,5375.0,4,1968,
 219,Villa,Møllevang 7,3400, Hillerød,945000 ,13-12-1993,Alm. Salg,140,6750.0,6,1935,
 219,Villa,Amalievej 26,3330, Gørløse,518400 ,13-12-1993,Alm. Salg,141,3677.0,4,1966,
-219,Rækkehus,Bymosegårds Alle 7,3400, Hillerød,500000 ,12-12-1993,Alm. Salg,111,4505.0,4,1877,
 219,Ejerlejlighed,"Ved Egedam 17, 1. 119",3400, Hillerød,445000 ,12-12-1993,Alm. Salg,65,6846.0,2,1975,
 219,Ejerlejlighed,"Gl. Holmegårdsvej 53, 2. tv",3400, Hillerød,481830 ,12-12-1993,Alm. Salg,82,5876.0,3,1970,
 219,Ejerlejlighed,"Solbakken 2D, st",3400, Hillerød,655000 ,12-12-1993,Alm. Salg,63,10397.0,2,1988,
@@ -21989,7 +21397,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Hjortholmvej 17B,3400, Hillerød,121125 ,12-12-1993,Fam. Salg,166,730.0,6,1923,
 219,Villa,Fangekrogen 6,3400, Hillerød,850000 ,12-12-1993,Alm. Salg,141,6028.0,5,1969,
 219,Villa,Ternevej 17,3400, Hillerød,32000 ,12-12-1993,Auktion,169,189.0,7,1997,
-219,Villa,Gadeledsvej 23,3400, Hillerød,500000 ,12-12-1993,Fam. Salg,118,4237.0,4,1890,
 219,Villa,Holmegårdsparken 26,3320, Skævinge,711800 ,12-12-1993,Auktion,172,4138.0,6,1971,
 219,Villa,Teglværksvej 16,3400, Hillerød,681000 ,12-12-1993,Alm. Salg,99,6879.0,3,1960,
 219,Villa,Langesvej 13,3400, Hillerød,91325 ,12-12-1993,Alm. Salg,252,362.0,9,1900,
@@ -22153,10 +21560,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Gammelvej 6,3400, Hillerød,915000 ,26-09-1993,Alm. Salg,159,5755.0,4,1970,
 219,Villa,Nødebovej 31,3480, Fredensborg,250000 ,26-09-1993,Alm. Salg,205,1220.0,5,2015,
 219,Villa,Solparken 11,3320, Skævinge,725000 ,25-09-1993,Alm. Salg,140,5179.0,4,1967,
-219,Ejerlejlighed,Jernbanevej 2A,3320, Skævinge,1212185 ,21-09-1993,Fam. Salg,78,15541.0,4,1924,
-219,Ejerlejlighed,Jernbanevej 2B,3320, Skævinge,1212185 ,21-09-1993,Fam. Salg,64,18940.0,4,1924,
-219,Ejerlejlighed,"Hovedgaden 9, st",3320, Skævinge,1212185 ,21-09-1993,Fam. Salg,89,13620.0,3,1924,
-219,Ejerlejlighed,"Hovedgaden 9, 1",3320, Skævinge,1212185 ,21-09-1993,Fam. Salg,65,18649.0,2,1924,
 219,Villa,Carl Zahlmannsvej 32,3400, Hillerød,995000 ,20-09-1993,Alm. Salg,108,9213.0,3,1960,
 219,Villa,Humlevænget 11,3480, Fredensborg,795000 ,19-09-1993,Alm. Salg,113,7035.0,4,1965,
 219,Villa,Blåmejsevej 20,3400, Hillerød,1135000 ,17-09-1993,Alm. Salg,178,6376.0,6,1967,
@@ -22405,12 +21808,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Rækkehus,Bymosegårds Alle 5,3400, Hillerød,450000 ,16-05-1993,,91,4945.0,4,1877,
 219,Rækkehus,Bolværket 171,3400, Hillerød,785000 ,16-05-1993,Alm. Salg,123,6382.0,4,1988,
 219,Ejerlejlighed,"Slangerupgade 4, 2. 9",3400, Hillerød,496465 ,16-05-1993,Alm. Salg,122,4069.0,4,1979,
-219,Ejerlejlighed,"Gl. Holmegårdsvej 47, 1. th",3400, Hillerød,400000 ,16-05-1993,Alm. Salg,82,4878.0,3,1970,
 219,Ejerlejlighed,"Løngangsgade 2, 2. tv",3400, Hillerød,510000 ,16-05-1993,Andet,83,6145.0,2,1990,
 219,Ejerlejlighed,"Hostrupsvej 23, kl. th",3400, Hillerød,480000 ,16-05-1993,Alm. Salg,63,7619.0,2,1936,
 219,Villa,Åvang 33,3400, Hillerød,995954 ,16-05-1993,Alm. Salg,136,7323.0,6,1971,
 219,Villa,Møllersvej 6,3400, Hillerød,1060000 ,16-05-1993,Alm. Salg,143,7413.0,5,1920,
-219,Villa,Milnersvej 26,3400, Hillerød,400000 ,16-05-1993,Auktion,130,3077.0,5,1937,
 219,Villa,Skovduevej 22,3400, Hillerød,376262 ,16-05-1993,Alm. Salg,130,2894.0,4,1968,
 219,Villa,Egevej 2,3400, Hillerød,755000 ,16-05-1993,Alm. Salg,100,7550.0,4,1963,
 219,Villa,Tulstrup Have 42,3400, Hillerød,710365 ,16-05-1993,Alm. Salg,168,4228.0,5,1976,
@@ -22623,12 +22024,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Rækkehus,Slettebjerget 14,3400, Hillerød,650000 ,07-12-1992,Alm. Salg,128,5078.0,3,1976,
 219,Villa,Hulebækvej 5,3320, Skævinge,800000 ,07-12-1992,Alm. Salg,125,6400.0,5,1955,
 219,Rækkehus,Gartnervænget 8,3400, Hillerød,755173 ,06-12-1992,Alm. Salg,120,6293.0,4,1966,
-219,Ejerlejlighed,"Løngangsgade 18, st",3400, Hillerød,475000 ,06-12-1992,Auktion,149,3188.0,6,1897,
-219,Ejerlejlighed,"Løngangsgade 18, 1",3400, Hillerød,475000 ,06-12-1992,Auktion,62,7661.0,2,1897,
 219,Ejerlejlighed,"Slangerupgade 18, 1. tv",3400, Hillerød,533900 ,06-12-1992,Alm. Salg,92,5803.0,3,1890,
 219,Ejerlejlighed,"Gl. Holmegårdsvej 5, st. th",3400, Hillerød,388000 ,06-12-1992,Alm. Salg,83,4675.0,3,1970,
 219,Ejerlejlighed,"Fredskovhellet 21, 2. th",3400, Hillerød,521600 ,06-12-1992,Alm. Salg,88,5927.0,3,1963,
-219,Ejerlejlighed,"Slangerupgade 27E, 2. th",3400, Hillerød,475000 ,06-12-1992,Alm. Salg,72,6597.0,2,1960,
 219,Ejerlejlighed,"Slangerupgade 27A, 3",3400, Hillerød,676000 ,06-12-1992,Alm. Salg,95,7116.0,3,1960,
 219,Ejerlejlighed,"Søndre Jernbanevej 3A, 3. tv",3400, Hillerød,382009 ,06-12-1992,Fam. Salg,58,6586.0,2,1934,
 219,Ejerlejlighed,"Fredskovhellet 30, 2. th",3400, Hillerød,478620 ,06-12-1992,Alm. Salg,88,5439.0,3,1963,
@@ -22649,10 +22047,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Petersborgvej 21,3400, Hillerød,630000 ,02-12-1992,Alm. Salg,117,5385.0,4,1923,
 219,Ejerlejlighed,"Engsvinget 22, 1",3400, Hillerød,530000 ,01-12-1992,Alm. Salg,89,5955.0,4,1947,
 219,Villa,Postmosen 104,3400, Hillerød,950000 ,01-12-1992,Alm. Salg,148,6419.0,6,1977,
-219,Rækkehus,Harløsevej 256,3400, Hillerød,1000000 ,30-11-1992,Alm. Salg,32,31250.0,1,1986,
 219,Ejerlejlighed,"Gl. Holmegårdsvej 53, st. tv",3400, Hillerød,490000 ,30-11-1992,Alm. Salg,75,6533.0,3,1970,
 219,Ejerlejlighed,"Søndre Jernbanevej 19, 2",3400, Hillerød,510000 ,30-11-1992,Fam. Salg,110,4636.0,5,1900,
-219,Villa,Harløsevej 256,3400, Hillerød,1000000 ,30-11-1992,Alm. Salg,158,6329.0,5,1986,
 219,Villa,Lystrupvej 33,3330, Gørløse,778300 ,30-11-1992,Alm. Salg,163,4775.0,8,1892,
 219,Villa,Sporemagervej 18,3400, Hillerød,875000 ,29-11-1992,Alm. Salg,147,5952.0,5,1970,
 219,Ejerlejlighed,"Stutmestervej 21B, 2. tv",3400, Hillerød,390000 ,25-11-1992,Alm. Salg,65,6000.0,2,1941,
@@ -22677,7 +22073,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Ejerlejlighed,"Ved Egedam 5, st. 30",3400, Hillerød,480000 ,10-11-1992,Alm. Salg,70,6857.0,2,1975,
 219,Villa,Enghavegårdsvej 15,3400, Hillerød,840000 ,09-11-1992,Alm. Salg,198,4242.0,7,1970,
 219,Villa,Kærstykket 26,3550, Slangerup,715000 ,09-11-1992,Alm. Salg,124,5766.0,7,1967,
-219,Villa,Lindholmvej 15B,3550, Slangerup,4700000 ,08-11-1992,Alm. Salg,137,34307.0,3,1973,
 219,Villa,Borupvej 9B,3320, Skævinge,350851 ,07-11-1992,Fam. Salg,133,2638.0,6,2000,
 219,Villa,Borupvej 9A,3320, Skævinge,345851 ,07-11-1992,Fam. Salg,142,2436.0,6,1905,
 219,Villa,Nygade 10,3320, Skævinge,323000 ,05-11-1992,Fam. Salg,84,3845.0,3,1930,
@@ -22716,19 +22111,14 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Rækkehus,Traneholmen 12,3400, Hillerød,665000 ,11-10-1992,Alm. Salg,133,5000.0,5,1902,
 219,Rækkehus,Bolværket 91,3400, Hillerød,801949 ,11-10-1992,Alm. Salg,104,7711.0,4,1988,
 219,Rækkehus,Bolværket 93,3400, Hillerød,800099 ,11-10-1992,Alm. Salg,104,7693.0,4,1988,
-219,Rækkehus,Slettebjerget 145,3400, Hillerød,490000 ,11-10-1992,Alm. Salg,110,4455.0,4,1980,
 219,Rækkehus,Bolværket 143,3400, Hillerød,865000 ,11-10-1992,Alm. Salg,123,7033.0,4,1988,
 219,Rækkehus,Bolværket 177,3400, Hillerød,737200 ,11-10-1992,Alm. Salg,103,7157.0,3,1988,
 219,Rækkehus,Favrholmvænget 34,3400, Hillerød,685000 ,11-10-1992,Alm. Salg,122,5615.0,4,1975,
 219,Rækkehus,Bolværket 73,3400, Hillerød,746768 ,11-10-1992,Alm. Salg,89,8391.0,3,1988,
-219,Ejerlejlighed,"Fredskovhellet 2H, 1. 53",3400, Hillerød,500000 ,11-10-1992,Alm. Salg,117,4274.0,3,1972,
 219,Ejerlejlighed,"Slotsgade 61, 1. 29",3400, Hillerød,1070000 ,11-10-1992,Alm. Salg,149,7181.0,5,1979,
-219,Ejerlejlighed,"Ved Egedam 3, 1. 19",3400, Hillerød,520000 ,11-10-1992,Alm. Salg,75,6933.0,2,1975,
 219,Villa,Møllevænget 2,3400, Hillerød,1500000 ,11-10-1992,Alm. Salg,225,6667.0,7,1954,
 219,Villa,Hovmosevej 2,3400, Hillerød,3500000 ,11-10-1992,Alm. Salg,538,5344.0,10,1877,
 219,Villa,Rosenhøj 4,3400, Hillerød,1460000 ,11-10-1992,Alm. Salg,184,7935.0,7,1980,
-219,Villa,Friborgvej 51,3400, Hillerød,500000 ,11-10-1992,Alm. Salg,190,2632.0,4,2023,
-219,Villa,Elmevej 5,3400, Hillerød,520000 ,11-10-1992,Alm. Salg,92,5652.0,3,1964,
 219,Villa,Jespervej 134,3400, Hillerød,44318 ,11-10-1992,Fam. Salg,107,414.0,3,1963,
 219,Villa,Tammosevej 34,3320, Skævinge,549125 ,11-10-1992,Alm. Salg,121,4538.0,5,1967,
 219,Villa,Mellemvangen 17,3400, Hillerød,805000 ,11-10-1992,Alm. Salg,155,5194.0,6,1960,
@@ -22748,7 +22138,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Bakkedraget 17,3400, Hillerød,795000 ,11-10-1992,Alm. Salg,151,5265.0,4,1947,
 219,Villa,Petersborgvej 16,3400, Hillerød,340000 ,11-10-1992,Andet,121,2810.0,5,1961,
 219,Villa,Gadevangsvej 142,3400, Hillerød,790000 ,11-10-1992,Alm. Salg,192,4115.0,4,1777,
-219,Villa,Jensensvej 3,3400, Hillerød,490000 ,11-10-1992,Fam. Salg,207,2367.0,5,1903,
 219,Rækkehus,Bolværket 153,3400, Hillerød,845000 ,10-10-1992,Alm. Salg,123,6870.0,4,1988,
 219,Villa,Nejedevej 11A,3400, Hillerød,840000 ,10-10-1992,Alm. Salg,143,5874.0,4,1985,
 219,Ejerlejlighed,"Slangerupgade 16A, 1. th",3400, Hillerød,332534 ,09-10-1992,Alm. Salg,81,4105.0,3,1863,
@@ -22857,7 +22246,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Skovbrynet 12,3480, Fredensborg,980950 ,19-07-1992,Alm. Salg,160,6131.0,5,1970,
 219,Villa,Enghavegårdsvej 47,3400, Hillerød,865000 ,19-07-1992,Alm. Salg,190,4553.0,6,1970,
 219,Villa,Helsingørsgade 45,3400, Hillerød,1100000 ,19-07-1992,Alm. Salg,176,6250.0,6,1890,
-219,Villa,Løngangsgade 21B,3400, Hillerød,550000 ,19-07-1992,Auktion,209,2632.0,5,2021,
 219,Rækkehus,Grønne Tofte 3B,3400, Hillerød,827500 ,18-07-1992,Alm. Salg,127,6516.0,3,1986,
 219,Villa,Enghavegårdsvej 16,3400, Hillerød,935000 ,18-07-1992,Alm. Salg,183,5109.0,8,1973,
 219,Villa,Folemestervej 9,3400, Hillerød,725000 ,16-07-1992,Alm. Salg,105,6905.0,4,1967,
@@ -22971,10 +22359,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Strølillevej 5,3320, Skævinge,225000 ,23-05-1992,Fam. Salg,125,1800.0,4,1999,
 219,Villa,Ålholmparken 96,3400, Hillerød,1017000 ,22-05-1992,Fam. Salg,202,5035.0,8,1971,
 219,Rækkehus,Ved Skansebakken 57,3400, Hillerød,485000 ,21-05-1992,Alm. Salg,53,9151.0,2,1972,
-219,Ejerlejlighed,Jernbanevej 2A,3320, Skævinge,1067614 ,20-05-1992,Auktion,78,13687.0,4,1924,
-219,Ejerlejlighed,Jernbanevej 2B,3320, Skævinge,1067614 ,20-05-1992,Auktion,64,16681.0,4,1924,
-219,Ejerlejlighed,"Hovedgaden 9, st",3320, Skævinge,1067614 ,20-05-1992,Auktion,89,11996.0,3,1924,
-219,Ejerlejlighed,"Hovedgaden 9, 1",3320, Skævinge,1067614 ,20-05-1992,Auktion,65,16425.0,2,1924,
 219,Rækkehus,Bolværket 159,3400, Hillerød,825000 ,19-05-1992,Alm. Salg,123,6707.0,4,1988,
 219,Villa,Skævingevej 3,3320, Skævinge,305000 ,19-05-1992,Fam. Salg,196,1556.0,7,1900,
 219,Villa,Kurreholmvej 27,3330, Gørløse,710000 ,19-05-1992,Alm. Salg,106,6698.0,4,1973,
@@ -23004,8 +22388,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Villa,Carl Zahlmannsvej 16,3400, Hillerød,755000 ,12-05-1992,Alm. Salg,108,6991.0,4,1962,
 219,Villa,Strøbjergvej 23,3600, Frederikssund,153955 ,11-05-1992,Fam. Salg,162,950.0,5,1894,
 219,Villa,Holmegårdsvænget 5,3320, Skævinge,782500 ,11-05-1992,Alm. Salg,177,4421.0,6,1979,
-219,Rækkehus,Bolværket 125,3400, Hillerød,850000 ,10-05-1992,Alm. Salg,123,6911.0,4,1988,
-219,Villa,Smedievej 129,3400, Hillerød,850000 ,10-05-1992,Alm. Salg,127,6693.0,4,1973,
 219,Villa,Møllersvej 9,3400, Hillerød,640000 ,10-05-1992,Alm. Salg,177,3616.0,8,1908,
 219,Villa,Kighusbakken 12,3400, Hillerød,663808 ,10-05-1992,Alm. Salg,95,6987.0,4,1985,
 219,Rækkehus,Ålholmparken 68,3400, Hillerød,760000 ,09-05-1992,Alm. Salg,130,5846.0,4,1972,
@@ -23197,7 +22579,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 219,Rækkehus,Åmosevej 19,3400, Hillerød,1200000 ,04-02-1992,Alm. Salg,354,3390.0,32,2002,
 219,Villa,Ødamsvej 4,3400, Hillerød,824800 ,03-02-1992,Alm. Salg,101,8166.0,3,1959,
 219,Rækkehus,Slettebjerget 13,3400, Hillerød,760000 ,02-02-1992,Alm. Salg,128,5938.0,3,1976,
-219,Villa,Brickasvej 23B,3400, Hillerød,595000 ,02-02-1992,Alm. Salg,110,5409.0,3,1927,
 219,Villa,Søndre Jernbanevej 21,3400, Hillerød,8306 ,02-02-1992,Fam. Salg,205,41.0,7,1910,
 219,Villa,Jespervej 153,3400, Hillerød,784207 ,02-02-1992,Alm. Salg,160,4901.0,6,1990,
 219,Villa,Jagtvej 8,3400, Hillerød,547984 ,02-02-1992,Andet,188,2915.0,7,1942,
