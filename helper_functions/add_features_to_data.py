@@ -25,7 +25,7 @@ def add_features_to_data(df):
     pop = fp/"population_data.csv"
     pop_dens = fp/"pop_dens.csv"
 
-    lars_fp = Path("../lars/")
+    lars_fp = Path("../features")
     gini = lars_fp/"gini_index.csv"
         
     indk = pd.read_csv(indk)
