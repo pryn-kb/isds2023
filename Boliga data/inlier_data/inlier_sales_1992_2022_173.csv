@@ -1,0 +1,405 @@
+municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,type_of_sale,square_meters,square_meters_price,rooms,year_of_construction,The percentage difference between the latest bid price and the sale price
+173,Ejerlejlighed,"Mortonsvej 40, 2. tv",2800, Kongens Lyngby,6150000 ,28-12-2022,Alm. Salg,95,64737,4,2009,-5%
+173,Villa,Bakkevej 8B,2830, Virum,11500000 ,20-12-2022,Alm. Salg,180,63889,5,2012,-8%
+173,Villa,Svendsvej 5,2830, Virum,4750000 ,13-12-2022,Alm. Salg,79,60127,3,1939,-5%
+173,Villa,Lyngholmsvej 9,2800, Kongens Lyngby,7900000 ,06-12-2022,Alm. Salg,132,59848,4,1937,-7%
+173,Villa,Strandvejen 647,2930, Klampenborg,9275000 ,06-12-2022,Fam. Salg,137,67701,4,1840,
+173,Villa,Furesøvej 5B,2830, Virum,10700000 ,05-12-2022,Alm. Salg,158,67722,5,1932,-21%
+173,Villa,Virumbakken 5,2830, Virum,9725000 ,29-11-2022,Alm. Salg,165,58939,4,1954,
+173,Ejerlejlighed,"Taarbæk Strandvej 59, 1. th",2930, Klampenborg,5000000 ,28-11-2022,Alm. Salg,71,70423,3,1923,-17%
+173,Villa,Færøvej 31A,2800, Kongens Lyngby,8700000 ,14-11-2022,Alm. Salg,124,70161,5,1951,-8%
+173,Villa,Birkhøjvej 9,2800, Kongens Lyngby,6750000 ,14-11-2022,Alm. Salg,104,64904,5,1948,-4%
+173,Rækkehus,Strandvejen 648,2930, Klampenborg,19000000 ,13-11-2022,Alm. Salg,140,135714,3,1977,-24%
+173,Villa,Chr.Winthers Vej 14B,2800, Kongens Lyngby,10500000 ,12-10-2022,Alm. Salg,163,64417,6,1930,-5%
+173,Villa,Agerbakken 6,2830, Virum,8200000 ,09-10-2022,Alm. Salg,123,66667,4,1949,-6%
+173,Ejerlejlighed,"Taarbæk Strandvej 65C, 1. tv",2930, Klampenborg,8950000 ,06-10-2022,Alm. Salg,115,77826,4,1939,
+173,Villa,Søndervej 32,2830, Virum,7200000 ,28-09-2022,Alm. Salg,120,60000,5,1950,-8%
+173,Villa,Strandvejen 626A,2930, Klampenborg,32250000 ,26-09-2022,Alm. Salg,248,130040,5,1978,
+173,Rækkehus,Blomstervænget 45,2800, Kongens Lyngby,6640000 ,24-09-2022,Alm. Salg,106,62642,4,1936,-5%
+173,Ejerlejlighed,"Jernbanepladsen 1, 2. e",2800, Kongens Lyngby,7000000 ,21-09-2022,Andet,96,72917,3,2005,8%
+173,Villa,Chr.Winthers Vej 53,2800, Kongens Lyngby,8650000 ,11-09-2022,Alm. Salg,132,65530,5,1962,-13%
+173,Villa,Skolebakken 29,2830, Virum,8750000 ,08-09-2022,Alm. Salg,128,68359,6,1952,-3%
+173,Villa,Parsbergsvej 48,2830, Virum,9000000 ,02-09-2022,Alm. Salg,146,61644,5,1962,-9%
+173,Ejerlejlighed,"Lyngbygårdsvej 63, st. tv",2800, Kongens Lyngby,4400000 ,27-08-2022,Andet,53,83019,2,1946,
+173,Rækkehus,Kvædevej 11,2830, Virum,6610000 ,23-08-2022,Alm. Salg,104,63558,5,1946,0%
+173,Rækkehus,Havegærdet 23,2800, Kongens Lyngby,7000000 ,22-08-2022,Alm. Salg,93,75269,3,2005,-3%
+173,Rækkehus,Havretoften 33,2800, Kongens Lyngby,5100000 ,18-08-2022,Alm. Salg,87,58621,3,1946,-7%
+173,Villa,Nordre Molevej 4,2930, Klampenborg,17000000 ,07-08-2022,Alm. Salg,150,113333,4,2021,-4%
+173,Rækkehus,Akacievej 22,2830, Virum,6225000 ,03-08-2022,Alm. Salg,100,62250,5,1937,-4%
+173,Rækkehus,Frederiksdalsvej 109,2830, Virum,6950000 ,02-08-2022,Alm. Salg,116,59914,4,1949,-1%
+173,Villa,Strandvejen 630,2930, Klampenborg,47000000 ,26-07-2022,Alm. Salg,212,180769,8,1800,-2%
+173,Rækkehus,Lyngtoften 3,2800, Kongens Lyngby,6035000 ,18-07-2022,Alm. Salg,98,61582,4,1945,-4%
+173,Rækkehus,Blomstervænget 43,2800, Kongens Lyngby,8250000 ,14-07-2022,Alm. Salg,125,66000,4,1936,-4%
+173,Ejerlejlighed,Taarbækdalsvej 11C,2930, Klampenborg,5200000 ,03-07-2022,Alm. Salg,68,76471,2,1904,
+173,Rækkehus,Hallingdal 5,2800, Kongens Lyngby,5850000 ,22-06-2022,Alm. Salg,95,61579,4,1994,
+173,Rækkehus,Elmevang 54,2830, Virum,5870000 ,15-06-2022,Alm. Salg,84,69881,4,1939,-2%
+173,Rækkehus,Elmevang 38,2830, Virum,5850000 ,14-06-2022,Alm. Salg,78,75000,4,1939,
+173,Villa,Skolebakken 37,2830, Virum,10400000 ,09-06-2022,Alm. Salg,147,70748,6,1944,-5%
+173,Villa,Fort Alle 12B,2800, Kongens Lyngby,7400000 ,29-05-2022,Alm. Salg,127,58268,6,1965,
+173,Rækkehus,Løvsvinget 4,2830, Virum,7495000 ,24-05-2022,Alm. Salg,127,59016,5,1955,
+173,Villa,Kløvervej 8,2800, Kongens Lyngby,11850000 ,22-05-2022,Alm. Salg,161,73602,5,1934,
+173,Rækkehus,Valnøddebakken 14,2800, Kongens Lyngby,7400000 ,20-05-2022,Alm. Salg,121,61157,5,1987,
+173,Villa,Chr.Winthers Vej 28B,2800, Kongens Lyngby,17500000 ,10-05-2022,Alm. Salg,93,188172,2,1987,
+173,Villa,Lundtoftevej 149C,2800, Kongens Lyngby,7750000 ,08-05-2022,Alm. Salg,131,59160,4,1965,-3%
+173,Villa,Birkevej 17,2830, Virum,32000000 ,06-05-2022,Alm. Salg,281,113879,5,2010,-9%
+173,Villa,V.Stuckenbergs Vej 13,2800, Kongens Lyngby,13000000 ,05-05-2022,Alm. Salg,151,58296,4,1952,-4%
+173,Villa,Furesøvej 108,2830, Virum,10700000 ,05-05-2022,Alm. Salg,123,86992,4,1960,-3%
+173,Villa,Gadevangen 25,2800, Kongens Lyngby,10145000 ,27-04-2022,Alm. Salg,159,63805,6,1957,2%
+173,Villa,Parkvej 42,2830, Virum,19000000 ,27-04-2022,Alm. Salg,255,74510,7,1928,
+173,Villa,Taarbæk Strandvej 18,2930, Klampenborg,28200000 ,26-04-2022,Fam. Salg,228,123684,8,1884,
+173,Ejerlejlighed,Strandvejen 683B,2930, Klampenborg,7250000 ,25-04-2022,Alm. Salg,86,84302,4,1760,-8%
+173,Villa,Ved Smedebakken 24,2800, Kongens Lyngby,7450000 ,24-04-2022,Alm. Salg,109,68349,3,1917,-1%
+173,Villa,Humlevænget 17,2800, Kongens Lyngby,11100000 ,12-04-2022,Alm. Salg,175,63429,5,2015,-7%
+173,Villa,Borrekrattet 13,2800, Kongens Lyngby,8550000 ,12-04-2022,Alm. Salg,121,70661,3,1944,1%
+173,Villa,Skovsvinget 7,2800, Kongens Lyngby,7250000 ,11-04-2022,Alm. Salg,108,67130,5,1926,-3%
+173,Rækkehus,Bøgevang 21,2830, Virum,5870000 ,10-04-2022,Alm. Salg,95,61789,3,1937,-2%
+173,Villa,Kollelevbakken 15,2830, Virum,6060000 ,10-04-2022,Alm. Salg,90,67333,3,1944,-7%
+173,Villa,Egegårdsvej 18,2800, Kongens Lyngby,8315000 ,04-04-2022,Alm. Salg,102,81520,3,1939,-8%
+173,Rækkehus,Hollandsvej 29,2800, Kongens Lyngby,8575000 ,03-04-2022,Alm. Salg,128,66992,6,1943,
+173,Rækkehus,Virumgade 46C,2830, Virum,7600000 ,02-04-2022,Alm. Salg,130,58462,4,1978,-1%
+173,Rækkehus,Kvædevej 15,2830, Virum,5300000 ,30-03-2022,Alm. Salg,83,63855,3,1946,-4%
+173,Villa,Svendsvej 6,2830, Virum,9150000 ,30-03-2022,Alm. Salg,138,66304,6,1939,-2%
+173,Villa,Gadevangen 36,2800, Kongens Lyngby,5600000 ,28-03-2022,Alm. Salg,94,59574,4,1956,-10%
+173,Villa,Christian X's Alle 79,2800, Kongens Lyngby,8400000 ,28-03-2022,Alm. Salg,116,72414,4,1934,-1%
+173,Villa,Engbakken 2,2830, Virum,7595000 ,27-03-2022,Alm. Salg,112,67813,5,1947,
+173,Villa,Lyngholmsvej 2,2800, Kongens Lyngby,16875000 ,27-03-2022,Alm. Salg,219,77055,8,1936,
+173,Rækkehus,Æblevænget 9,2800, Kongens Lyngby,7695000 ,26-03-2022,Alm. Salg,128,60117,4,1938,
+173,Villa,Geelsskovvej 3,2830, Virum,8775000 ,21-03-2022,Alm. Salg,132,66477,5,1951,-2%
+173,Rækkehus,Birkevang 33,2830, Virum,4975000 ,20-03-2022,Alm. Salg,71,70070,3,1938,2%
+173,Ejerlejlighed,"Dronningens Vænge 1, st. tv",2800, Kongens Lyngby,6995000 ,20-03-2022,Alm. Salg,114,61360,3,2000,
+173,Villa,Furesøbakken 3,2830, Virum,8875000 ,08-03-2022,Alm. Salg,121,73347,5,1954,-1%
+173,Villa,Furesølund 11,2830, Virum,13000000 ,07-03-2022,Alm. Salg,168,77381,8,1985,
+173,Villa,Færøvej 46,2800, Kongens Lyngby,9000000 ,03-03-2022,Alm. Salg,118,76271,6,1952,-3%
+173,Ejerlejlighed,"Taarbækdalsvej 1C, 2. 2",2930, Klampenborg,6250000 ,01-03-2022,Alm. Salg,61,102459,2,1937,-4%
+173,Rækkehus,Kærmysse 22,2830, Virum,8300000 ,25-02-2022,Alm. Salg,129,64341,5,2015,
+173,Rækkehus,Peter Lunds Vej 9,2800, Kongens Lyngby,6500000 ,24-02-2022,Alm. Salg,111,58559,3,1952,
+173,Villa,Blomstervænget 50,2800, Kongens Lyngby,8625000 ,23-02-2022,Alm. Salg,146,59075,4,1944,-2%
+173,Ejerlejlighed,"Lorentzensvej 5, st",2930, Klampenborg,4180000 ,22-02-2022,Alm. Salg,61,68525,2,1890,-5%
+173,Villa,Furesø Parkvej 33,2830, Virum,8550000 ,21-02-2022,Alm. Salg,115,74348,5,1951,-2%
+173,Villa,Fuglevadsvej 5A,2800, Kongens Lyngby,13995000 ,20-02-2022,Alm. Salg,172,81366,5,2015,
+173,Villa,Taarbæk Strandvej 46,2930, Klampenborg,33500000 ,19-02-2022,Alm. Salg,192,174479,9,1847,
+173,Rækkehus,Kærmysse 4,2830, Virum,7315000 ,18-02-2022,Alm. Salg,117,62521,4,2015,
+173,Villa,Virumvej 139A,2830, Virum,7150000 ,17-02-2022,Alm. Salg,119,60084,4,1875,-5%
+173,Villa,Fuglevadsvej 19,2800, Kongens Lyngby,17440000 ,11-02-2022,Alm. Salg,268,65075,7,1923,-3%
+173,Rækkehus,Islandsvej 13B,2800, Kongens Lyngby,8005000 ,09-02-2022,Alm. Salg,123,65081,5,1986,0%
+173,Rækkehus,Havegærdet 25,2800, Kongens Lyngby,6800000 ,08-02-2022,Alm. Salg,93,73118,3,2005,-3%
+173,Ejerlejlighed,"Dronningens Vænge 5, 2. th",2800, Kongens Lyngby,11600000 ,07-02-2022,Alm. Salg,138,84058,4,2000,-3%
+173,Rækkehus,Kærmysse 13,2830, Virum,7215000 ,30-01-2022,Alm. Salg,123,58659,5,2015,3%
+173,Ejerlejlighed,"Lyngby Hovedgade 70A, 1. 2",2800, Kongens Lyngby,5500000 ,30-01-2022,Alm. Salg,78,70513,3,1846,
+173,Villa,Kulsviertoften 28,2800, Kongens Lyngby,6845000 ,28-01-2022,Alm. Salg,104,65817,4,1960,
+173,Rækkehus,Taarbæk Strandvej 69F,2930, Klampenborg,12650000 ,27-01-2022,Alm. Salg,175,72286,4,2019,-2%
+173,Villa,Caroline Amalie Vej 115,2800, Kongens Lyngby,7700000 ,26-01-2022,Alm. Salg,128,60156,4,1917,-4%
+173,Villa,Nybrovej 455,2800, Kongens Lyngby,16200000 ,25-01-2022,Alm. Salg,259,62548,6,1864,-4%
+173,Ejerlejlighed,"Dronningens Vænge 14, 2. tv",2800, Kongens Lyngby,7675000 ,18-01-2022,Alm. Salg,114,67325,3,2000,
+173,Villa,Virumgade 52B,2830, Virum,8200000 ,15-01-2022,Alm. Salg,139,58993,5,1850,-6%
+173,Rækkehus,Hollandsvej 35,2800, Kongens Lyngby,6525000 ,13-01-2022,Alm. Salg,98,66582,4,1943,
+173,Ejerlejlighed,"Edelslundsvej 1A, 2. th",2930, Klampenborg,5800000 ,12-01-2022,Alm. Salg,84,69048,3,1937,
+173,Villa,Bakketoppen 14,2830, Virum,7100000 ,07-01-2022,Alm. Salg,120,59167,4,1954,-3%
+173,Ejerlejlighed,"Taarbæk Strandvej 76, st. th",2930, Klampenborg,6750000 ,03-01-2022,Alm. Salg,62,108871,2,1895,
+173,Rækkehus,"Høstvej 14, st. tv",2800, Kongens Lyngby,23900000 ,02-01-2022,Alm. Salg,150,159333,3,1875,
+173,Villa,Chr.Winthers Vej 36A,2800, Kongens Lyngby,17200000 ,27-12-2021,Alm. Salg,175,98286,7,1936,-3%
+173,Villa,Ellevænget 10,2800, Kongens Lyngby,10587500 ,21-12-2021,Alm. Salg,106,99882,6,1950,
+173,Villa,Højdevej 31A,2830, Virum,7950000 ,21-12-2021,Alm. Salg,121,65702,5,1982,
+173,Villa,Furesøvej 26,2830, Virum,12478000 ,14-12-2021,Alm. Salg,137,91080,5,1953,
+173,Rækkehus,Birkevang 30,2830, Virum,4900000 ,06-12-2021,Alm. Salg,79,62025,3,1938,-2%
+173,Rækkehus,Kvædevej 5,2830, Virum,5800000 ,01-12-2021,Alm. Salg,86,67442,4,1946,
+173,Villa,Arnevej 4,2830, Virum,12500000 ,01-12-2021,Alm. Salg,185,67568,7,2018,-4%
+173,Rækkehus,Christian X's Alle 82,2800, Kongens Lyngby,7052500 ,29-11-2021,Alm. Salg,108,65301,4,1934,1%
+173,Villa,Furesøvej 80,2830, Virum,12700000 ,26-11-2021,Alm. Salg,210,60476,6,2020,-7%
+173,Villa,Malmmosevej 79A,2830, Virum,12350000 ,25-11-2021,Alm. Salg,207,59662,6,1926,-12%
+173,Rækkehus,Thorsvej 8C,2800, Kongens Lyngby,7100000 ,24-11-2021,Alm. Salg,120,59167,4,1989,2%
+173,Rækkehus,Hybenvej 35,2830, Virum,5575000 ,15-11-2021,Alm. Salg,90,61944,4,1948,-5%
+173,Rækkehus,Lyngtoften 14,2800, Kongens Lyngby,4995000 ,15-11-2021,Alm. Salg,82,60915,3,1945,
+173,Rækkehus,Virumgade 49D,2830, Virum,8500000 ,15-11-2021,Alm. Salg,145,58621,6,1981,-3%
+173,Villa,Solvænget 4,2800, Kongens Lyngby,10995000 ,13-11-2021,Alm. Salg,155,70935,6,1931,
+173,Villa,Danmarksvej 19,2800, Kongens Lyngby,7850000 ,11-11-2021,Alm. Salg,130,60385,5,1948,1%
+173,Villa,Kirsebærbakken 13,2830, Virum,8995000 ,06-11-2021,Alm. Salg,137,65657,4,1978,
+173,Villa,Skovmærkevej 7,2800, Kongens Lyngby,7250000 ,29-10-2021,Alm. Salg,85,85294,3,1953,
+173,Villa,Glaciset 16,2800, Kongens Lyngby,11950000 ,27-10-2021,Alm. Salg,204,58578,6,1966,
+173,Villa,Søndervej 6,2830, Virum,10250000 ,27-10-2021,Alm. Salg,169,60651,5,1947,
+173,Rækkehus,Lærkevej 6,2830, Virum,5375000 ,21-10-2021,Alm. Salg,91,59066,4,1937,-2%
+173,Rækkehus,Christian X's Alle 146,2800, Kongens Lyngby,10725000 ,18-10-2021,Alm. Salg,172,62355,6,1930,-1%
+173,Ejerlejlighed,"Strandvejen 685B, st",2930, Klampenborg,9900000 ,13-10-2021,Alm. Salg,123,80488,4,1870,
+173,Villa,Skolevænget 16,2800, Kongens Lyngby,5825000 ,10-10-2021,Alm. Salg,99,58838,4,1934,-3%
+173,Rækkehus,Birkevang 24,2830, Virum,4750000 ,06-10-2021,Alm. Salg,77,61688,3,1937,-1%
+173,Ejerlejlighed,"Bredebovej 31, 5. th",2800, Kongens Lyngby,5495000 ,05-10-2021,Alm. Salg,93,59086,4,1969,
+173,Villa,Kollemosevej 38A,2830, Virum,14200000 ,04-10-2021,Alm. Salg,220,64545,6,2019,-2%
+173,Villa,Bakkevej 9B,2830, Virum,9850000 ,30-09-2021,Alm. Salg,165,59697,6,1936,
+173,Ejerlejlighed,"Mortonsvej 40, 1. th",2800, Kongens Lyngby,5975000 ,29-09-2021,Alm. Salg,89,67135,3,2009,-4%
+173,Ejerlejlighed,"Nørgaardsvej 29H, 2. tv",2800, Kongens Lyngby,6180000 ,28-09-2021,Alm. Salg,84,73571,3,1987,0%
+173,Villa,Hjortekærbakken 3,2800, Kongens Lyngby,6900000 ,26-09-2021,Alm. Salg,106,65094,4,1957,-1%
+173,Villa,Hummeltoften 30,2830, Virum,8000000 ,21-09-2021,Alm. Salg,130,61538,4,1959,0%
+173,Villa,Margrethevej 5,2800, Kongens Lyngby,6150000 ,20-09-2021,Alm. Salg,75,82000,3,1936,
+173,Villa,Tværvej 71,2830, Virum,13750000 ,20-09-2021,Alm. Salg,182,75549,7,2016,-7%
+173,Ejerlejlighed,"Nørgaardsvej 29H, 3. tv",2800, Kongens Lyngby,5995000 ,19-09-2021,Alm. Salg,84,71369,3,1987,
+173,Villa,Caroline Amalie Vej 65A,2800, Kongens Lyngby,12800000 ,15-09-2021,Alm. Salg,176,72727,7,1997,-2%
+173,Ejerlejlighed,"Raadvad 1, st. tv",2800, Kongens Lyngby,22000000 ,13-09-2021,Alm. Salg,72,305556,3,1919,
+173,Villa,Fuglevadsvej 34,2800, Kongens Lyngby,12800000 ,10-09-2021,Alm. Salg,207,61836,5,2015,-1%
+173,Ejerlejlighed,"Taarbækdalsvej 1C, 1. 2",2930, Klampenborg,4300000 ,09-09-2021,Alm. Salg,61,70492,2,1937,
+173,Ejerlejlighed,"Dronningens Vænge 2, st. mf",2800, Kongens Lyngby,4250000 ,02-09-2021,Alm. Salg,68,62500,2,2000,
+173,Villa,Tværvej 65,2830, Virum,11005000 ,02-09-2021,Alm. Salg,183,60137,6,1954,0%
+173,Rækkehus,Kronebakken 19,2830, Virum,7400000 ,30-08-2021,Alm. Salg,118,62712,5,1951,
+173,Villa,Ingridsvej 5,2800, Kongens Lyngby,10387500 ,30-08-2021,Alm. Salg,139,74730,5,1950,-3%
+173,Villa,Højdevej 28,2830, Virum,9225000 ,27-08-2021,Alm. Salg,142,64965,4,1954,
+173,Rækkehus,Havnevej 4,2930, Klampenborg,11650000 ,19-08-2021,Alm. Salg,101,115347,3,1858,-3%
+173,Villa,Blomstervænget 1,2800, Kongens Lyngby,8950000 ,17-08-2021,Alm. Salg,145,61724,6,1937,-3%
+173,Villa,Mølleåparken 42,2800, Kongens Lyngby,11250000 ,17-08-2021,Alm. Salg,193,58290,6,1977,-2%
+173,Villa,Glaciset 25,2800, Kongens Lyngby,10500000 ,14-08-2021,Alm. Salg,152,69079,6,1933,
+173,Ejerlejlighed,"Nørgaardsvej 29B, 1. tv",2800, Kongens Lyngby,6000000 ,10-08-2021,Alm. Salg,91,65934,3,1987,
+173,Villa,Fuglevadsvej 27,2800, Kongens Lyngby,23500000 ,31-07-2021,Alm. Salg,322,72981,7,1938,
+173,Ejerlejlighed,"Nørgaardsvej 29H, 2. th",2800, Kongens Lyngby,6440000 ,30-07-2021,Alm. Salg,95,67789,3,1987,-1%
+173,Villa,V.Stuckenbergs Vej 21A,2800, Kongens Lyngby,18200000 ,28-07-2021,Alm. Salg,259,70270,6,1960,-4%
+173,Villa,Kongsbjergvej 15,2830, Virum,7225000 ,19-07-2021,Alm. Salg,114,63377,4,1956,6%
+173,Villa,Chr.Winthers Vej 45A,2800, Kongens Lyngby,16200000 ,19-07-2021,Alm. Salg,202,80198,6,2009,-2%
+173,Rækkehus,Sjællandsvej 15,2800, Kongens Lyngby,5100000 ,17-07-2021,Alm. Salg,68,75000,3,1939,-2%
+173,Ejerlejlighed,"Dronningens Vænge 7, 2. th",2800, Kongens Lyngby,7900000 ,14-07-2021,Alm. Salg,114,69298,3,2000,
+173,Rækkehus,Bøgevang 20,2830, Virum,4750000 ,11-07-2021,Alm. Salg,75,63333,3,1937,-1%
+173,Rækkehus,Islandsvej 7A,2800, Kongens Lyngby,6495000 ,01-07-2021,Alm. Salg,106,61274,4,1939,
+173,Villa,Langs Hegnet 68,2800, Kongens Lyngby,10509000 ,30-06-2021,Alm. Salg,116,90595,4,1952,5%
+173,Villa,S.Schandorphs Vej 29,2800, Kongens Lyngby,7650000 ,29-06-2021,Alm. Salg,119,64286,5,1946,
+173,Rækkehus,Kaplevej 22,2830, Virum,4700000 ,28-06-2021,Alm. Salg,77,61039,3,1945,-6%
+173,Villa,Hummeltoftevej 118C,2830, Virum,7350000 ,19-06-2021,Alm. Salg,118,62288,5,1948,1%
+173,Rækkehus,Hasselvej 28,2830, Virum,6250000 ,17-06-2021,Alm. Salg,102,61275,4,1937,
+173,Villa,Ringerbakken 26,2830, Virum,6875000 ,17-06-2021,Alm. Salg,114,60307,5,1954,-2%
+173,Villa,Enighedsvej 9,2800, Kongens Lyngby,13305000 ,16-06-2021,Alm. Salg,184,72310,4,1907,6%
+173,Villa,Furesøbakken 7,2830, Virum,11195000 ,16-06-2021,Alm. Salg,144,77743,6,1954,
+173,Rækkehus,Bredevej 69,2830, Virum,6500000 ,15-06-2021,Alm. Salg,108,60185,2,1944,0%
+173,Rækkehus,Hollandsvej 37,2800, Kongens Lyngby,6575000 ,14-06-2021,Alm. Salg,100,65750,5,1943,1%
+173,Rækkehus,Fynsvej 6,2800, Kongens Lyngby,6295000 ,14-06-2021,Alm. Salg,106,59387,4,1940,
+173,Villa,Fuglevadsvej 29,2800, Kongens Lyngby,25500000 ,10-06-2021,Alm. Salg,381,66929,8,1900,
+173,Rækkehus,Berberisvænget 33,2830, Virum,8050000 ,08-06-2021,Alm. Salg,135,59630,6,1948,
+173,Villa,Malmmosevej 113,2830, Virum,14100000 ,08-06-2021,Alm. Salg,242,58264,7,2014,-2%
+173,Rækkehus,Toftegærdet 3A,2800, Kongens Lyngby,6500000 ,03-06-2021,Alm. Salg,103,63107,3,1989,1%
+173,Villa,Ellehøjvej 9,2800, Kongens Lyngby,12300000 ,02-06-2021,Alm. Salg,190,64737,7,1926,
+173,Rækkehus,Irmelinsvej 6,2800, Kongens Lyngby,5400000 ,01-06-2021,Alm. Salg,85,63529,4,1942,-2%
+173,Villa,Agnesvej 9,2800, Kongens Lyngby,8400000 ,29-05-2021,Alm. Salg,117,71795,5,1948,5%
+173,Villa,Tværvej 87B,2830, Virum,12550000 ,27-05-2021,Alm. Salg,212,59198,5,2014,-3%
+173,Villa,Virumgade 54B,2830, Virum,7450000 ,25-05-2021,Alm. Salg,127,58661,5,1952,-1%
+173,Villa,Tjørnevej 4,2800, Kongens Lyngby,7300000 ,24-05-2021,Alm. Salg,106,68868,5,1938,4%
+173,Rækkehus,Agernvej 13,2830, Virum,5410000 ,20-05-2021,Alm. Salg,91,59451,4,1957,4%
+173,Ejerlejlighed,"Nørgaardsvej 29H, 2. tv",2800, Kongens Lyngby,5000000 ,20-05-2021,Alm. Salg,84,59524,3,1987,-6%
+173,Villa,Birkevej 15,2830, Virum,15800000 ,18-05-2021,Alm. Salg,226,69912,7,1999,-1%
+173,Villa,Virum Stationsvej 200,2830, Virum,8395000 ,17-05-2021,Alm. Salg,144,58299,6,1953,-1%
+173,Villa,Geelsskovvej 43,2830, Virum,7700000 ,16-05-2021,Alm. Salg,118,65254,4,1951,-1%
+173,Rækkehus,Sjællandsvej 12,2800, Kongens Lyngby,4000000 ,10-05-2021,Alm. Salg,68,58824,3,1939,-4%
+173,Villa,Birkevej 6,2830, Virum,10055000 ,10-05-2021,Alm. Salg,118,85212,5,1954,12%
+173,Villa,Taarbæk Strandvej 55C,2930, Klampenborg,20000000 ,09-05-2021,Alm. Salg,189,105820,7,1888,-7%
+173,Rækkehus,Kvædevej 41,2830, Virum,5725000 ,03-05-2021,Alm. Salg,93,61559,4,1946,-1%
+173,Rækkehus,Virumgade 37C,2830, Virum,5901000 ,03-05-2021,Alm. Salg,94,62777,3,2001,2%
+173,Ejerlejlighed,"Mortonsvej 23, 1. tv",2800, Kongens Lyngby,5150000 ,03-05-2021,Alm. Salg,84,61310,3,1986,-3%
+173,Rækkehus,Hyldehavevej 12,2800, Kongens Lyngby,6398000 ,28-04-2021,Alm. Salg,106,60358,4,1917,
+173,Rækkehus,Elmevang 28,2830, Virum,4500000 ,25-04-2021,Alm. Salg,75,60000,3,1937,
+173,Villa,Taarbæk Strandvej 75,2930, Klampenborg,9495000 ,25-04-2021,Alm. Salg,112,84777,4,1967,
+173,Rækkehus,Hasselvej 21,2830, Virum,7129000 ,21-04-2021,Alm. Salg,120,59408,5,1937,2%
+173,Villa,Bakketoppen 2,2830, Virum,7125000 ,19-04-2021,Alm. Salg,120,59375,3,1954,
+173,Rækkehus,Slotsvænget 16,2800, Kongens Lyngby,4995000 ,15-04-2021,Alm. Salg,72,69375,3,1937,
+173,Villa,Taarbæk Strandvej 62,2930, Klampenborg,9000000 ,14-04-2021,Alm. Salg,102,88235,4,1889,-5%
+173,Villa,Hasselvej 80,2830, Virum,5000000 ,13-04-2021,Alm. Salg,77,64935,3,1945,-4%
+173,Ejerlejlighed,"Dronningens Vænge 7, 2. tv",2800, Kongens Lyngby,6999000 ,08-04-2021,Alm. Salg,114,61395,3,2000,
+173,Ejerlejlighed,"Mortonsvej 15, 1. tv",2800, Kongens Lyngby,5500000 ,07-04-2021,Alm. Salg,84,65476,3,1986,
+173,Rækkehus,Taarbæk Strandvej 105O,2930, Klampenborg,9600000 ,05-04-2021,Alm. Salg,153,62745,7,1963,-9%
+173,Villa,Johan Jepsens Vej 5,2830, Virum,10600000 ,05-04-2021,Alm. Salg,174,60920,5,2011,-4%
+173,Rækkehus,Bøgevang 4,2830, Virum,4450000 ,29-03-2021,Alm. Salg,75,59333,4,1937,
+173,Villa,Vangeledet 81,2830, Virum,7007000 ,24-03-2021,Alm. Salg,120,58392,3,1954,5%
+173,Ejerlejlighed,"Mortonsvej 34, 1. th",2800, Kongens Lyngby,5480000 ,23-03-2021,Alm. Salg,89,61573,3,2009,-3%
+173,Villa,Blomstervænget 3,2800, Kongens Lyngby,7875000 ,17-03-2021,Alm. Salg,120,65625,5,1936,-2%
+173,Ejerlejlighed,"Taarbæk Strandvej 65A, st. th",2930, Klampenborg,8300000 ,16-03-2021,Alm. Salg,98,72174,4,1939,2%
+173,Ejerlejlighed,"Taarbækdalsvej 1C, 2. 1",2930, Klampenborg,3500000 ,16-03-2021,Alm. Salg,51,68627,2,1937,
+173,Rækkehus,Præstebakken 47,2830, Virum,6600000 ,08-03-2021,Alm. Salg,108,61111,4,1949,
+173,Ejerlejlighed,"Mortonsvej 13, 2. th",2800, Kongens Lyngby,5300000 ,04-03-2021,Alm. Salg,84,63095,3,1986,
+173,Villa,Furesø Parkvej 8,2830, Virum,6600000 ,22-02-2021,Alm. Salg,110,60000,5,1948,-4%
+173,Villa,Søndervej 54A,2830, Virum,12700000 ,18-02-2021,Alm. Salg,202,62871,6,2023,
+173,Rækkehus,Slotsvænget 7,2800, Kongens Lyngby,3995000 ,15-02-2021,Alm. Salg,68,58750,3,1937,
+173,Villa,Strandvejen 691,2930, Klampenborg,12700000 ,15-02-2021,Alm. Salg,199,63819,8,1877,-7%
+173,Rækkehus,Sjællandsvej 20,2800, Kongens Lyngby,5710000 ,11-02-2021,Alm. Salg,79,72278,3,1939,4%
+173,Villa,Strandvejen 632,2930, Klampenborg,51000000 ,11-02-2021,Alm. Salg,373,136729,11,1920,-7%
+173,Villa,Virum Stationsvej 159,2830, Virum,7200000 ,10-02-2021,Alm. Salg,110,65455,5,1954,0%
+173,Ejerlejlighed,"Rønne Alle 12, 1. a",2800, Kongens Lyngby,6250000 ,06-02-2021,Alm. Salg,103,60680,4,2002,
+173,Rækkehus,Havegærdet 5,2800, Kongens Lyngby,6445000 ,03-02-2021,Alm. Salg,104,61971,4,2005,-1%
+173,Villa,Klokkerbakken 8,2830, Virum,5495000 ,01-02-2021,Alm. Salg,91,60385,4,1944,
+173,Rækkehus,Havegærdet 3,2800, Kongens Lyngby,6450000 ,29-01-2021,Alm. Salg,108,59722,4,2005,
+173,Villa,Søndervej 52,2830, Virum,10800000 ,28-01-2021,Alm. Salg,184,58696,4,2020,-2%
+173,Villa,Geelsskovvej 5,2830, Virum,7002000 ,20-01-2021,Alm. Salg,114,61421,4,1952,8%
+173,Ejerlejlighed,"Taarbæk Strandvej 65B, 1. tv",2930, Klampenborg,8300000 ,19-01-2021,Alm. Salg,115,72174,4,1939,-2%
+173,Villa,Kongsvænget 35,2830, Virum,6300000 ,17-01-2021,Alm. Salg,108,58333,5,1957,-3%
+173,Rækkehus,Asavænget 4,2800, Kongens Lyngby,6400000 ,14-01-2021,Alm. Salg,103,62136,5,1943,
+173,Ejerlejlighed,"Rønne Alle 12, 1. a",2800, Kongens Lyngby,6050000 ,12-01-2021,Alm. Salg,103,58738,4,2002,
+173,Ejerlejlighed,"Rønne Alle 16, 3. a",2800, Kongens Lyngby,7250000 ,11-01-2021,Alm. Salg,122,59426,3,2002,
+173,Villa,Furesøvej 7,2830, Virum,41000000 ,11-01-2021,Alm. Salg,252,162698,7,1926,
+173,Villa,Taarbæk Strandvej 42B,2930, Klampenborg,14850000 ,11-01-2021,Alm. Salg,204,72794,6,2012,
+173,Ejerlejlighed,"Nørgaardsvej 29B, 1. th",2800, Kongens Lyngby,5495000 ,09-01-2021,Alm. Salg,84,65417,2,1987,
+173,Ejerlejlighed,"Taarbæk Strandvej 76, 2. tv",2930, Klampenborg,4500000 ,03-01-2021,Alm. Salg,62,72581,3,1895,
+173,Ejerlejlighed,"Mortonsvej 13, 2. tv",2800, Kongens Lyngby,5300000 ,21-12-2020,Alm. Salg,90,58889,3,1986,-4%
+173,Rækkehus,Taarbæk Strandvej 53B,2930, Klampenborg,15051000 ,13-12-2020,Alm. Salg,164,91774,6,1970,1%
+173,Villa,Plantagevej 8,2800, Kongens Lyngby,8195000 ,13-12-2020,Alm. Salg,139,58957,5,1952,
+173,Villa,Caroline Amalie Vej 63,2800, Kongens Lyngby,12600000 ,10-12-2020,Alm. Salg,185,68108,8,1936,-2%
+173,Villa,Strandvejen 655,2930, Klampenborg,10795000 ,04-12-2020,Alm. Salg,132,81780,5,1992,-1%
+173,Villa,Niels Skrivers Vej 5B,2830, Virum,16450000 ,26-11-2020,Alm. Salg,240,68542,8,1899,-3%
+173,Ejerlejlighed,"Mortonsvej 21, 1. th",2800, Kongens Lyngby,5595000 ,23-11-2020,Alm. Salg,84,66607,3,1986,2%
+173,Villa,Chr.Winthers Vej 32A,2800, Kongens Lyngby,18000000 ,22-11-2020,Alm. Salg,232,77586,7,1961,
+173,Ejerlejlighed,"Mortonsvej 19, 1. tv",2800, Kongens Lyngby,4900000 ,15-11-2020,Alm. Salg,84,58333,3,1986,-2%
+173,Rækkehus,Lindevangen 33,2830, Virum,5995000 ,07-11-2020,Alm. Salg,102,58775,5,1957,
+173,Villa,Søvej 8,2930, Klampenborg,21000000 ,04-11-2020,Alm. Salg,145,144828,4,1892,
+173,Villa,Askimvej 24,2830, Virum,5440000 ,27-10-2020,Alm. Salg,72,75556,3,1948,-1%
+173,Rækkehus,Kongsvænget 8B,2830, Virum,6150000 ,14-10-2020,Alm. Salg,104,59135,4,1947,
+173,Villa,Snerlevej 7,2800, Kongens Lyngby,7995000 ,11-10-2020,Alm. Salg,120,66625,5,1933,
+173,Ejerlejlighed,"Rønne Alle 12, 3. a",2800, Kongens Lyngby,8000000 ,06-10-2020,Alm. Salg,132,60606,4,2002,
+173,Villa,Dybensøvej 9,2830, Virum,11000000 ,06-10-2020,Fam. Salg,182,60440,6,1959,
+173,Ejerlejlighed,"Mortonsvej 40, 1. tv",2800, Kongens Lyngby,5995000 ,01-10-2020,Alm. Salg,95,63105,3,2009,
+173,Villa,Furesøvej 137B,2830, Virum,24500000 ,01-10-2020,Alm. Salg,288,85069,7,1902,-11%
+173,Ejerlejlighed,"Mortonsvej 21, st. th",2800, Kongens Lyngby,5400000 ,28-09-2020,Alm. Salg,88,61364,3,1986,
+173,Ejerlejlighed,"Mortonsvej 38, st. th",2800, Kongens Lyngby,6480000 ,21-09-2020,Alm. Salg,103,62913,4,2009,
+173,Rækkehus,Hummeltoftevej 18,2830, Virum,16650000 ,18-08-2020,Alm. Salg,138,120652,5,2019,
+173,Villa,Dybensøvej 8,2830, Virum,9995000 ,05-08-2020,Alm. Salg,111,90045,4,1954,
+173,Rækkehus,Akacievej 44,2830, Virum,6495000 ,28-07-2020,Alm. Salg,104,62452,4,1937,
+173,Villa,Parkvej 6,2830, Virum,8900000 ,28-07-2020,Alm. Salg,131,67939,4,1924,-9%
+173,Rækkehus,Blomstervænget 89,2800, Kongens Lyngby,6782500 ,27-07-2020,Alm. Salg,102,66495,4,1943,-3%
+173,Ejerlejlighed,"Mortonsvej 15, st. tv",2800, Kongens Lyngby,5150000 ,22-07-2020,Alm. Salg,88,58523,3,1986,-4%
+173,Villa,Dybensøvej 6,2830, Virum,11995000 ,21-07-2020,Alm. Salg,181,66271,6,1957,
+173,Villa,Furesøbakken 17,2830, Virum,5735000 ,19-07-2020,Alm. Salg,89,64438,4,1954,-3%
+173,Ejerlejlighed,Niels Skrivers Vej 10A,2830, Virum,15100000 ,03-07-2020,Alm. Salg,198,76263,4,2009,1%
+173,Rækkehus,Strandvejen 648,2930, Klampenborg,8300000 ,30-06-2020,Alm. Salg,140,59286,3,1977,
+173,Villa,Hasselvej 80,2830, Virum,4550000 ,10-06-2020,Alm. Salg,77,59091,3,1945,-5%
+173,Ejerlejlighed,"Taarbæk Strandvej 65C, st. tv",2930, Klampenborg,7650000 ,03-06-2020,Alm. Salg,115,66522,4,1939,10%
+173,Ejerlejlighed,"Mortonsvej 34, st. tv",2800, Kongens Lyngby,4900000 ,28-05-2020,Alm. Salg,80,61250,3,2009,-1%
+173,Villa,Kratholmsvej 1B,2830, Virum,15500000 ,25-05-2020,Alm. Salg,198,78283,8,1912,4%
+173,Villa,Kirkevej 1A,2930, Klampenborg,10650000 ,20-05-2020,Alm. Salg,148,71959,5,1987,
+173,Rækkehus,Strandvejen 650,2930, Klampenborg,22500000 ,19-05-2020,Alm. Salg,215,104651,5,1977,
+173,Villa,Furesøvej 71,2830, Virum,15250000 ,29-03-2020,Alm. Salg,229,59570,7,1939,-2%
+173,Ejerlejlighed,"Mortonsvej 23, 2. th",2800, Kongens Lyngby,5350000 ,23-03-2020,Alm. Salg,90,59444,3,1986,-3%
+173,Villa,Fuglevadsvej 21,2800, Kongens Lyngby,7900000 ,16-03-2020,Alm. Salg,122,64754,5,1934,-1%
+173,Villa,Parkvej 34,2830, Virum,14000000 ,23-02-2020,Alm. Salg,213,65728,3,2014,
+173,Villa,Holmevej 23,2830, Virum,7250000 ,27-01-2020,Alm. Salg,123,58943,6,1929,-3%
+173,Rækkehus,Blomstervænget 59,2800, Kongens Lyngby,6213000 ,25-01-2020,Alm. Salg,104,59740,3,1936,
+173,Ejerlejlighed,"Nørgaardsvej 29C, 1. th",2800, Kongens Lyngby,5050000 ,19-01-2020,Fam. Salg,84,60119,2,1987,
+173,Ejerlejlighed,"Taarbæk Strandvej 65B, st. th",2930, Klampenborg,8000000 ,15-01-2020,Alm. Salg,115,69565,4,1939,-6%
+173,Ejerlejlighed,"Taarbæk Strandvej 102, 1",2930, Klampenborg,24000000 ,12-01-2020,Alm. Salg,60,400000,4,1941,
+173,Ejerlejlighed,"Skovvej 2, 3",2930, Klampenborg,9800000 ,07-01-2020,Alm. Salg,119,82353,4,1896,9%
+173,Villa,Kirkevej 4,2930, Klampenborg,13500000 ,05-01-2020,Alm. Salg,206,65534,6,1922,
+173,Rækkehus,Taarbæk Strandvej 105G,2930, Klampenborg,7700000 ,01-12-2019,Alm. Salg,110,70000,4,1963,-4%
+173,Villa,Strandvejen 621,2930, Klampenborg,8700000 ,25-11-2019,Alm. Salg,141,61702,5,1805,2%
+173,Rækkehus,Taarbæk Strandvej 48B,2930, Klampenborg,7000000 ,06-11-2019,Alm. Salg,115,60870,3,1979,-4%
+173,Ejerlejlighed,"Taarbæk Strandvej 65B, 1. th",2930, Klampenborg,7250000 ,30-09-2019,Alm. Salg,115,63043,3,1939,-3%
+173,Ejerlejlighed,"Mortonsvej 15, 2. tv",2800, Kongens Lyngby,5350000 ,31-07-2019,Alm. Salg,84,63690,3,1986,-3%
+173,Villa,Kirkevej 3,2930, Klampenborg,10500000 ,16-07-2019,Alm. Salg,174,60345,6,1867,-5%
+173,Villa,Brovænget 39,2830, Virum,6700000 ,21-05-2019,Alm. Salg,110,60909,3,1934,-4%
+173,Rækkehus,Virum Vandvej 52,2830, Virum,12000000 ,06-05-2019,Alm. Salg,160,75000,4,1977,
+173,Ejerlejlighed,"Taarbæk Strandvej 65B, st. tv",2930, Klampenborg,7240000 ,01-05-2019,Alm. Salg,115,62957,4,1939,-3%
+173,Villa,Taarbæk Strandvej 49,2930, Klampenborg,16300000 ,22-04-2019,Alm. Salg,244,66803,9,1857,9%
+173,Rækkehus,Slotsvænget 8,2800, Kongens Lyngby,3795000 ,11-04-2019,Alm. Salg,64,59297,3,1937,
+173,Villa,S.Schandorphs Vej 17,2800, Kongens Lyngby,9500000 ,10-04-2019,Alm. Salg,156,60897,6,1913,
+173,Villa,Strandvejen 653B,2930, Klampenborg,6850000 ,28-03-2019,Alm. Salg,113,60619,2,1884,-2%
+173,Ejerlejlighed,"Mortonsvej 11, 1. th",2800, Kongens Lyngby,5300000 ,26-02-2019,Alm. Salg,90,58889,3,1986,-4%
+173,Villa,Taarbæk Strandvej 73,2930, Klampenborg,10550000 ,18-12-2018,Alm. Salg,171,61696,5,1900,
+173,Villa,Birkevej 6,2830, Virum,8500000 ,26-11-2018,Alm. Salg,118,72034,5,1954,
+173,Rækkehus,Strandvejen 743B,2930, Klampenborg,5900000 ,27-09-2018,Alm. Salg,94,62766,3,1988,-7%
+173,Villa,Taarbæk Strandvej 47B,2930, Klampenborg,14000000 ,10-09-2018,Fam. Salg,160,87500,5,1998,
+173,Ejerlejlighed,"Virumgade 31, 1",2830, Virum,26324515 ,09-09-2018,Andet,156,168747,5,1963,
+173,Ejerlejlighed,"Nørgaardsvej 29F, 4. th",2800, Kongens Lyngby,5100000 ,30-08-2018,Alm. Salg,80,63750,2,1987,
+173,Villa,Eremitagevej 1,2930, Klampenborg,15500000 ,12-08-2018,Alm. Salg,260,59615,7,1920,
+173,Rækkehus,Taarbæk Strandvej 103I,2930, Klampenborg,7400000 ,04-07-2018,Alm. Salg,116,63793,3,1970,-3%
+173,Ejerlejlighed,"Nørgaardsvej 29C, 2. tv",2800, Kongens Lyngby,5500000 ,06-06-2018,Alm. Salg,84,65476,3,1987,
+173,Ejerlejlighed,"Nørgaardsvej 29E, 3. tv",2800, Kongens Lyngby,4900000 ,06-06-2018,Alm. Salg,84,58333,3,1987,
+173,Villa,Borgevej 12,2800, Kongens Lyngby,8425000 ,26-05-2018,Alm. Salg,144,58507,5,1942,-3%
+173,Villa,Taarbæk Strandvej 42C,2930, Klampenborg,32000000 ,21-05-2018,Alm. Salg,271,118081,7,2014,-9%
+173,Ejerlejlighed,"Edelslundsvej 1A, 3. tv",2930, Klampenborg,5500000 ,13-05-2018,Alm. Salg,90,61111,3,1937,
+173,Villa,Skærsommervej 1,2930, Klampenborg,10700000 ,07-05-2018,Alm. Salg,130,82308,5,1902,-2%
+173,Villa,Taarbækdalsvej 9A,2930, Klampenborg,10400000 ,04-04-2018,Alm. Salg,165,63030,4,1978,
+173,Ejerlejlighed,"Nørgaardsvej 29C, 4. tv",2800, Kongens Lyngby,5400000 ,27-03-2018,Alm. Salg,80,67500,3,1987,-2%
+173,Villa,Furesøvej 143A,2830, Virum,9500000 ,22-03-2018,Alm. Salg,141,67376,5,1987,
+173,Ejerlejlighed,"Nørgaardsvej 29F, 4. tv",2800, Kongens Lyngby,5350000 ,21-01-2018,Alm. Salg,80,66875,3,1987,
+173,Ejerlejlighed,"Mortonsvej 13, 2. th",2800, Kongens Lyngby,5550000 ,27-11-2017,Alm. Salg,84,66071,3,1986,
+173,Villa,V.Stuckenbergs Vej 26,2800, Kongens Lyngby,11250000 ,12-10-2017,Alm. Salg,185,60811,6,1912,
+173,Villa,Strandvejen 622,2930, Klampenborg,17700000 ,04-10-2017,Alm. Salg,275,64364,6,1930,-6%
+173,Villa,Birkevej 13,2830, Virum,17800000 ,19-09-2017,Alm. Salg,245,72653,9,1956,
+173,Ejerlejlighed,"Edelslundsvej 1A, 3. th",2930, Klampenborg,5200000 ,14-09-2017,Alm. Salg,85,61176,3,1937,-5%
+173,Villa,Furesøvej 17C,2830, Virum,16050000 ,04-08-2017,Alm. Salg,223,71973,8,1974,
+173,Ejerlejlighed,Buddingevej 73A,2800, Kongens Lyngby,23600000 ,02-08-2017,Alm. Salg,98,240816,4,2012,
+173,Villa,Taarbæk Strandvej 46,2930, Klampenborg,12800000 ,27-07-2017,Alm. Salg,192,66667,9,1847,-5%
+173,Villa,Taarbæk Strandvej 22,2930, Klampenborg,23000000 ,16-06-2017,Alm. Salg,164,140244,5,1825,-8%
+173,Villa,Strandvejen 632,2930, Klampenborg,25000000 ,01-06-2017,Alm. Salg,373,67024,11,1920,-7%
+173,Villa,Virum Vandvej 46,2830, Virum,9800000 ,26-03-2017,Alm. Salg,164,59756,4,1978,-2%
+173,Rækkehus,Taarbæk Strandvej 85,2930, Klampenborg,3350000 ,11-02-2017,Alm. Salg,49,68367,2,1800,-4%
+173,Villa,Gammel Lundtoftevej 46,2800, Kongens Lyngby,9945000 ,18-01-2017,Alm. Salg,149,66745,4,1925,-1%
+173,Rækkehus,Taarbæk Strandvej 89B,2930, Klampenborg,5600000 ,16-01-2017,Alm. Salg,83,67470,3,1877,-1%
+173,Ejerlejlighed,"Taarbæk Strandvej 95, 1. tv",2930, Klampenborg,6500000 ,22-12-2016,Alm. Salg,108,60185,5,1937,-4%
+173,Ejerlejlighed,"Mølleåparken 31, 1. d",2800, Kongens Lyngby,11000000 ,18-10-2016,Alm. Salg,61,180328,2,1973,
+173,Villa,Taarbæk Strandvej 100,2930, Klampenborg,5500000 ,16-10-2016,Alm. Salg,82,67073,5,1802,-4%
+173,Villa,Taarbæk Strandvej 16,2930, Klampenborg,18600000 ,06-10-2016,Alm. Salg,174,106897,5,1887,1%
+173,Villa,Søvej 8,2930, Klampenborg,13500000 ,04-10-2016,Alm. Salg,145,93103,4,1892,
+173,Villa,Holmevej 18,2830, Virum,12500000 ,18-09-2016,Alm. Salg,183,68306,5,1931,-2%
+173,Villa,Christiansrovej 7,2930, Klampenborg,14300000 ,14-09-2016,Alm. Salg,130,110000,4,1902,-5%
+173,Ejerlejlighed,"Taarbæk Strandvej 59, 1. tv",2930, Klampenborg,4200000 ,10-09-2016,Alm. Salg,71,59155,3,1923,-1%
+173,Villa,Taarbæk Strandvej 122,2930, Klampenborg,24750000 ,07-09-2016,Alm. Salg,280,88393,12,1924,-1%
+173,Ejerlejlighed,"Nørgaardsvej 29F, 4. tv",2800, Kongens Lyngby,5225000 ,06-09-2016,Alm. Salg,80,65313,3,1987,
+173,Rækkehus,Taarbæk Strandvej 142,2930, Klampenborg,9250000 ,30-08-2016,Alm. Salg,138,67029,3,1802,-5%
+173,Villa,Nordlyvej 7,2930, Klampenborg,7995000 ,30-08-2016,Alm. Salg,81,98704,4,1880,
+173,Ejerlejlighed,"Taarbæk Strandvej 65A, 2. th",2930, Klampenborg,7500000 ,26-08-2016,Alm. Salg,115,65217,4,1939,
+173,Villa,Taarbæk Strandvej 114,2930, Klampenborg,23000000 ,25-08-2016,Alm. Salg,265,86792,5,1926,-10%
+173,Villa,Taarbæk Strandvej 24,2930, Klampenborg,65000000 ,18-07-2016,Alm. Salg,422,154028,10,1915,
+173,Villa,Dybensøvej 7,2830, Virum,8625000 ,04-07-2016,Alm. Salg,139,62050,4,1957,-4%
+173,Villa,Nordre Molevej 1,2930, Klampenborg,8250000 ,22-06-2016,Alm. Salg,118,69915,4,1882,
+173,Ejerlejlighed,"Lehwaldsvej 5, 2. l",2800, Kongens Lyngby,10050000 ,21-06-2016,Alm. Salg,101,99505,3,1962,
+173,Rækkehus,Virum Vandvej 50,2830, Virum,11500000 ,24-05-2016,Alm. Salg,178,64607,4,1977,-11%
+173,Villa,Nordlyvej 7,2930, Klampenborg,6000000 ,27-04-2016,Alm. Salg,81,74074,4,1880,
+173,Ejerlejlighed,"Taarbæk Strandvej 65C, 3. tv",2930, Klampenborg,9850000 ,06-04-2016,Alm. Salg,143,68881,3,1939,
+173,Villa,Virumgårdsvej 12B,2830, Virum,10150000 ,16-03-2016,Alm. Salg,111,80556,3,1979,
+173,Villa,Chr.Winthers Vej 26B,2800, Kongens Lyngby,11550000 ,08-02-2016,Alm. Salg,170,67941,6,1905,
+173,Ejerlejlighed,Buddingevej 73A,2800, Kongens Lyngby,20000000 ,27-12-2015,Alm. Salg,98,204082,4,2012,
+173,Villa,Strandvejen 660A,2930, Klampenborg,25750000 ,19-10-2015,Alm. Salg,440,58523,11,1914,-14%
+173,Villa,Ryvej 30,2830, Virum,15000000 ,07-10-2015,Alm. Salg,240,62500,7,1910,-5%
+173,Villa,Strandvejen 660A,2930, Klampenborg,25750000 ,17-09-2015,Alm. Salg,440,58523,11,1914,-14%
+173,Rækkehus,Virum Vandvej 54,2830, Virum,10800000 ,27-08-2015,Alm. Salg,160,67500,4,1977,
+173,Ejerlejlighed,"Ole Steffens Vej 5, 1",2930, Klampenborg,8600000 ,24-08-2015,Alm. Salg,140,61429,6,1902,-2%
+173,Rækkehus,Virum Vandvej 52,2830, Virum,10950000 ,15-06-2015,Alm. Salg,160,68438,4,1977,0%
+173,Villa,Lars Carls Vej 6,2930, Klampenborg,14050000 ,02-06-2015,Alm. Salg,177,79379,4,1892,
+173,Villa,Taarbæk Strandvej 100,2930, Klampenborg,5250000 ,20-08-2014,Alm. Salg,82,64024,5,1802,-12%
+173,Villa,Taarbæk Strandvej 42C,2930, Klampenborg,16940650 ,29-04-2014,Alm. Salg,271,62512,7,2014,
+173,Villa,Strandvejen 626A,2930, Klampenborg,26900000 ,15-04-2014,Alm. Salg,248,108468,5,1978,
+173,Villa,Furesøvej 137B,2830, Virum,17000000 ,23-03-2014,Alm. Salg,288,59028,7,1902,-13%
+173,Villa,Taarbæk Strandvej 78B,2930, Klampenborg,9300000 ,19-12-2013,Alm. Salg,146,63699,4,1900,
+173,Villa,Nordlyvej 8,2930, Klampenborg,12000000 ,07-11-2013,Alm. Salg,171,70175,7,1900,-6%
+173,Rækkehus,Havnevej 4,2930, Klampenborg,6650000 ,30-10-2013,Alm. Salg,101,65842,3,1858,-5%
+173,Ejerlejlighed,Ole Steffens Vej 5A,2930, Klampenborg,10150000 ,19-08-2013,Alm. Salg,128,79297,4,1902,-3%
+173,Villa,Nordlyvej 2,2930, Klampenborg,5600000 ,27-06-2013,Alm. Salg,93,60215,3,1800,-7%
+173,Rækkehus,Virum Vandvej 52,2830, Virum,10000000 ,11-05-2011,Alm. Salg,160,62500,4,1977,-8%
+173,Villa,Skærsommervej 1,2930, Klampenborg,7900000 ,07-05-2011,Alm. Salg,130,60769,5,1902,-4%
+173,Villa,Strandvejen 660A,2930, Klampenborg,46500000 ,16-03-2011,Alm. Salg,440,105682,11,1914,
+173,Villa,Furesøvej 5B,2830, Virum,12500000 ,31-01-2011,Alm. Salg,158,79114,5,1932,-14%
+173,Villa,Taarbæk Strandvej 22,2930, Klampenborg,10200000 ,14-06-2010,Fam. Salg,164,62195,5,1825,
+173,Rækkehus,Søvej 5,2930, Klampenborg,8200000 ,28-04-2010,Alm. Salg,70,117143,2,1910,
+173,Villa,Strandvejen 628,2930, Klampenborg,15000000 ,09-09-2009,Alm. Salg,247,60729,5,2012,
+173,Ejerlejlighed,"Jernbanevej 1, 3",2800, Kongens Lyngby,9050000 ,27-01-2009,Alm. Salg,122,74180,3,1925,
+173,Villa,Taarbæk Strandvej 112,2930, Klampenborg,13500000 ,21-10-2008,Alm. Salg,150,73370,7,1924,-7%
+173,Villa,Taarbæk Strandvej 138,2930, Klampenborg,40000000 ,19-06-2008,Alm. Salg,297,134680,7,1870,
+173,Rækkehus,Taarbæk Strandvej 105C,2930, Klampenborg,6500000 ,10-06-2008,Alm. Salg,110,59091,4,1963,
+173,Villa,Taarbæk Strandvej 124,2930, Klampenborg,35000000 ,14-05-2008,Alm. Salg,358,97765,8,1938,
+173,Villa,Furesøvej 108,2830, Virum,7610000 ,12-09-2007,Alm. Salg,123,61870,4,1960,
+173,Villa,Langs Hegnet 68,2800, Kongens Lyngby,7150000 ,19-06-2007,Alm. Salg,116,61638,4,1952,-2%
+173,Villa,Taarbæk Strandvej 22,2930, Klampenborg,15000000 ,24-04-2007,Fam. Salg,164,91463,5,1825,
+173,Villa,Taarbæk Strandvej 34A,2930, Klampenborg,35000000 ,14-11-2006,Alm. Salg,242,144628,6,1930,
+173,Villa,Taarbæk Strandvej 24,2930, Klampenborg,35000000 ,03-07-2006,Alm. Salg,422,82938,10,1915,
+173,Villa,V.Stuckenbergs Vej 26,2800, Kongens Lyngby,12800000 ,26-06-2006,Alm. Salg,185,69189,6,1912,
+173,Rækkehus,Skovvej 10,2930, Klampenborg,5900000 ,29-03-2006,Alm. Salg,101,58416,3,1982,
+173,Villa,Chr.Winthers Vej 26B,2800, Kongens Lyngby,11900000 ,08-03-2006,Alm. Salg,170,70000,6,1905,
+173,Villa,Taarbæk Strandvej 22,2930, Klampenborg,11800000 ,18-01-2006,Andet,164,71951,5,1825,
+173,Villa,Furesøvej 17C,2830, Virum,14500000 ,14-12-2005,Alm. Salg,223,65022,8,1974,
+173,Villa,Taarbæk Strandvej 104,2930, Klampenborg,5500000 ,08-12-2005,Alm. Salg,85,64706,3,1827,
+173,Rækkehus,Søvej 5,2930, Klampenborg,6601500 ,13-09-2005,Alm. Salg,70,94307,2,1910,
+173,Rækkehus,Havegærdet 21,2800, Kongens Lyngby,19940000 ,29-11-2004,Alm. Salg,90,221556,3,2005,
+173,Ejerlejlighed,"Eremitageparken 327, 1. d",2800, Kongens Lyngby,12000003 ,26-09-2004,Alm. Salg,62,193548,2,1972,
+173,Villa,Skovbrynet 28,2800, Kongens Lyngby,13587215 ,07-03-2004,Fam. Salg,105,129402,5,1937,
+173,Rækkehus,Havegærdet 3,2800, Kongens Lyngby,9800000 ,03-03-2004,Alm. Salg,108,90741,4,2005,
+173,Rækkehus,Virumgade 41B,2830, Virum,7175000 ,12-01-2004,Alm. Salg,96,74740,4,2003,
+173,Rækkehus,"Høstvej 14, st. tv",2800, Kongens Lyngby,13000000 ,04-07-2002,Alm. Salg,150,86667,3,1875,
+173,Ejerlejlighed,"Boulevarden 4, 1. 14",2800, Kongens Lyngby,26920000 ,07-02-2002,Andet,92,292609,4,1965,
+173,Ejerlejlighed,"Lyngby Hovedgade 74, 1. tv",2800, Kongens Lyngby,16000000 ,10-10-2001,Alm. Salg,95,168421,3,1900,
+173,Villa,Taarbæk Strandvej 22,2930, Klampenborg,10000000 ,24-09-2001,Alm. Salg,164,60976,5,1825,
+173,Ejerlejlighed,"Høstvej 1A, 1. tv",2800, Kongens Lyngby,33250000 ,25-07-2000,Alm. Salg,49,678571,1,1904,
+173,Ejerlejlighed,"Lyngby Hovedgade 47, 3",2800, Kongens Lyngby,35500000 ,29-06-1998,Alm. Salg,103,344660,3,1962,
+173,Ejerlejlighed,"Askevænget 5, 1. tv",2830, Virum,5855871 ,18-01-1996,Alm. Salg,86,68092,4,1961,
+173,Ejerlejlighed,"Lyngby Hovedgade 47, 3",2800, Kongens Lyngby,20000000 ,18-12-1995,Alm. Salg,103,194175,3,1962,
+173,Ejerlejlighed,"Høstvej 1A, st",2800, Kongens Lyngby,36450000 ,28-02-1994,Alm. Salg,72,506250,2,1904,
+173,Ejerlejlighed,"Askevænget 5, 1. tv",2830, Virum,6568450 ,23-08-1993,Alm. Salg,86,76377,4,1961,
+173,Villa,Ulrikkenborg Alle 70,2800, Kongens Lyngby,18130000 ,19-08-1992,Alm. Salg,120,137348,6,1952,
+173,Ejerlejlighed,"Frederiksdalsvej 12A, 2. tv",2830, Virum,4950000 ,31-05-1992,Alm. Salg,57,86842,2,1939,
