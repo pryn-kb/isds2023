@@ -99,7 +99,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Snaven 14,5631, Ebberup,950000 ,13-10-2022,Alm. Salg,148,6419,5,1900,-17%
 420,Villa,Vestergade 58,5492, Vissenbjerg,975000 ,13-10-2022,Alm. Salg,102,9559,5,1940,-2%
 420,Villa,Mads Hansensgade 30,5690, Tommerup,950000 ,11-10-2022,Alm. Salg,113,8407,3,1963,-21%
-420,Villa,Hardersvej 6,5610, Assens,1825000 ,11-10-2022,Alm. Salg,155,11774,7,1963,-4%
 420,Villa,Plouggårdsvej 6,5690, Tommerup,1050000 ,11-10-2022,Alm. Salg,117,8974,4,1965,-4%
 420,Villa,Klaregade 19,5620, Glamsbjerg,705000 ,10-10-2022,Alm. Salg,99,7121,2,1979,-12%
 420,Villa,Bellisvej 35,5492, Vissenbjerg,400000 ,10-10-2022,Alm. Salg,124,3226,4,1984,
@@ -292,7 +291,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Søvej 1,5610, Assens,300000 ,22-06-2022,Alm. Salg,100,3000,3,1900,-24%
 420,Villa,Uglebjergsvej 14,5631, Ebberup,480000 ,22-06-2022,Alm. Salg,150,3200,5,1910,-3%
 420,Villa,Bakkehusene 9,5560, Aarup,682714 ,22-06-2022,Alm. Salg,179,3814,6,2023,
-420,Villa,Tallerupvej 37A,5690, Tommerup,1150000 ,21-06-2022,Alm. Salg,130,6389,6,1966,
 420,Villa,Hattebæksvej 1,5683, Haarby,340000 ,20-06-2022,Alm. Salg,85,4000,4,1850,-24%
 420,Villa,Kirke Søbyvej 35,5620, Glamsbjerg,150000 ,20-06-2022,Alm. Salg,99,1515,3,1924,
 420,Villa,Glenshøjparken 35,5620, Glamsbjerg,1540000 ,20-06-2022,Fam. Salg,188,8191,7,1987,
@@ -358,7 +356,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Langgade 58,5620, Glamsbjerg,1825000 ,23-05-2022,Alm. Salg,241,7573,7,1885,-1%
 420,Villa,Torø Huse Vej 45,5610, Assens,2200000 ,23-05-2022,Alm. Salg,95,23158,3,1890,
 420,Villa,Lærkevænget 7,5631, Ebberup,875000 ,23-05-2022,Alm. Salg,138,6341,4,1970,-2%
-420,Rækkehus,Odensevej 39,5620, Glamsbjerg,1242500 ,22-05-2022,Alm. Salg,324,3709,10,1859,
 420,Villa,Skovbrynet 33,5620, Glamsbjerg,3570000 ,22-05-2022,Alm. Salg,210,17000,8,2008,-1%
 420,Villa,Rosenvænget 8,5492, Vissenbjerg,500000 ,21-05-2022,Alm. Salg,153,3268,6,1900,-17%
 420,Villa,Ryet 4,5631, Ebberup,850000 ,20-05-2022,Alm. Salg,144,5903,2,1964,-5%
@@ -526,9 +523,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Langgade 21,5620, Glamsbjerg,815000 ,08-03-2022,Alm. Salg,105,7762,4,1959,-1%
 420,Villa,Mågevej 13,5690, Tommerup,1470000 ,08-03-2022,Alm. Salg,140,10500,5,1973,-2%
 420,Villa,Kamgårdsvej 51,5690, Tommerup,2700000 ,08-03-2022,Alm. Salg,198,13636,6,1999,-10%
-420,Ejerlejlighed,"Østergade 35, 2",5610, Assens,7800000 ,07-03-2022,Alm. Salg,118,66102,4,1795,
-420,Ejerlejlighed,"Østergade 35, 1",5610, Assens,7800000 ,07-03-2022,Alm. Salg,157,49682,4,1795,
-420,Ejerlejlighed,"Tobaksgården 3, 2",5610, Assens,7800000 ,07-03-2022,Alm. Salg,84,92857,3,1795,
 420,Rækkehus,Kindhestegade 16,5610, Assens,450000 ,06-03-2022,Alm. Salg,60,7500,2,1830,-9%
 420,Villa,Tjørnevej 15,5560, Aarup,615000 ,06-03-2022,Alm. Salg,142,4331,5,1966,
 420,Villa,Teglbakken 15,5690, Tommerup,1600000 ,06-03-2022,Andet,86,18605,3,1992,
@@ -805,12 +799,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Skovhuse 3,5610, Assens,250000 ,27-10-2021,Alm. Salg,67,3731,5,1915,
 420,Villa,Tallerupvej 68,5690, Tommerup,795000 ,27-10-2021,Alm. Salg,132,6023,4,2023,
 420,Rækkehus,Damgade 35,5610, Assens,2000000 ,26-10-2021,Alm. Salg,235,8511,9,1727,-9%
-420,Ejerlejlighed,Old Gyde 2,5620, Glamsbjerg,2900000 ,26-10-2021,Alm. Salg,63,46032,2,1930,
-420,Ejerlejlighed,Old Gyde 2A,5620, Glamsbjerg,2900000 ,26-10-2021,Alm. Salg,63,46032,2,1930,
-420,Ejerlejlighed,"Old Gyde 2B, 1",5620, Glamsbjerg,2900000 ,26-10-2021,Alm. Salg,100,29000,3,1930,
 420,Ejerlejlighed,"Søndergade 20, 1",5620, Glamsbjerg,1250000 ,26-10-2021,Alm. Salg,74,16892,3,1932,
-420,Ejerlejlighed,Søndergade 23,5620, Glamsbjerg,2900000 ,26-10-2021,Alm. Salg,50,58000,2,1930,
-420,Ejerlejlighed,Søndergade 23A,5620, Glamsbjerg,2900000 ,26-10-2021,Alm. Salg,66,43939,2,1930,
 420,Villa,Slots Alle 10,5631, Ebberup,4350000 ,26-10-2021,Alm. Salg,240,18125,7,1800,-3%
 420,Villa,Løimarksvej 12,5610, Assens,1625000 ,26-10-2021,Alm. Salg,229,7096,8,1967,-9%
 420,Villa,Kamgårdsvej 17,5690, Tommerup,1300000 ,26-10-2021,Alm. Salg,121,10744,4,1990,
@@ -1047,9 +1036,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Assensvej 27,5620, Glamsbjerg,540000 ,13-07-2021,Alm. Salg,102,5294,4,1942,-2%
 420,Villa,Neversvej 25,5690, Tommerup,1025000 ,13-07-2021,Alm. Salg,228,4496,6,1877,-6%
 420,Villa,Skovkanten 8,5690, Tommerup,295000 ,13-07-2021,Alm. Salg,135,2185,5,2022,
-420,Ejerlejlighed,Dannesbovej 2A,5690, Tommerup,1300000 ,12-07-2021,Alm. Salg,123,10569,4,1927,-22%
 420,Villa,Teglbakken 84,5690, Tommerup,2495000 ,12-07-2021,Alm. Salg,180,13861,6,1988,
-420,Villa,Dannesbovej 2,5690, Tommerup,1300000 ,12-07-2021,Alm. Salg,196,6633,6,1972,-22%
 420,Villa,Kildensmindevej 3,5610, Assens,1900000 ,12-07-2021,Alm. Salg,190,10000,6,1949,-9%
 420,Villa,Filstruplund 39,5683, Haarby,600000 ,12-07-2021,Alm. Salg,181,3315,7,1907,-14%
 420,Villa,Landevejen 61,5683, Haarby,750000 ,12-07-2021,Alm. Salg,120,6250,5,1958,-6%
@@ -1230,7 +1217,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Vinkelvej 1,5610, Assens,1195000 ,09-05-2021,Alm. Salg,141,8475,5,1954,-8%
 420,Villa,Berildsvej 25,5610, Assens,1080000 ,08-05-2021,Alm. Salg,117,9231,4,1962,-1%
 420,Villa,Bregnebjergvej 2,5620, Glamsbjerg,3500000 ,08-05-2021,Alm. Salg,234,14957,6,2011,
-420,Rækkehus,Østergade 6B,5560, Aarup,2200000 ,06-05-2021,Alm. Salg,103,21359,3,1900,
 420,Villa,Fuglekildevej 9,5690, Tommerup,222500 ,05-05-2021,Alm. Salg,240,927,6,1853,
 420,Villa,Tobovej 7,5690, Tommerup,1681000 ,05-05-2021,Alm. Salg,135,12452,5,1962,5%
 420,Villa,Nabben 4,5683, Haarby,455000 ,05-05-2021,Fam. Salg,173,2630,6,2022,
@@ -1454,7 +1440,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Vissenbjergvej 34,5690, Tommerup,200850 ,14-02-2021,Alm. Salg,167,1203,8,1897,
 420,Villa,Søbyvænget 4,5620, Glamsbjerg,595000 ,14-02-2021,Alm. Salg,110,5409,4,1965,
 420,Villa,Nørregade 19,5492, Vissenbjerg,780000 ,14-02-2021,Alm. Salg,103,7573,3,1962,-2%
-420,Villa,Odensevej 4A,5690, Tommerup,700000 ,14-02-2021,Alm. Salg,98,7143,4,1965,
 420,Rækkehus,Nørregade 42,5610, Assens,495000 ,13-02-2021,Alm. Salg,48,10313,2,1890,
 420,Villa,Liljevænget 25,5492, Vissenbjerg,1235000 ,13-02-2021,Alm. Salg,186,6640,6,1974,-5%
 420,Rækkehus,Ny Adelgade 20,5610, Assens,850000 ,11-02-2021,Alm. Salg,115,7391,4,1900,-15%
@@ -1567,8 +1552,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Gl.Bogensevej 35,5560, Aarup,850000 ,07-01-2021,Alm. Salg,136,6250,4,1980,-5%
 420,Villa,Heimdalsvænget 9,5610, Assens,2050000 ,06-01-2021,Alm. Salg,138,14855,5,1997,-7%
 420,Villa,Spangevej 8,5683, Haarby,975000 ,06-01-2021,Alm. Salg,134,7276,4,1954,-2%
-420,Ejerlejlighed,"Ryttergade 7, 1",5690, Tommerup,350000 ,05-01-2021,Alm. Salg,76,4605,3,1900,-20%
-420,Villa,Ryttergade 7,5690, Tommerup,350000 ,05-01-2021,Alm. Salg,186,1882,6,1900,-20%
 420,Villa,Mosevej 23,5492, Vissenbjerg,100000 ,04-01-2021,Alm. Salg,80,1250,4,1900,
 420,Villa,Skovkrogen 3,5683, Haarby,1700000 ,04-01-2021,Alm. Salg,172,9884,6,1895,0%
 420,Villa,Teglbakken 50,5690, Tommerup,2740000 ,04-01-2021,Alm. Salg,182,15055,6,1998,-2%
@@ -1637,13 +1620,11 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Lilleskovvej 63A,5690, Tommerup,1595000 ,02-12-2020,Alm. Salg,126,12659,4,1988,
 420,Villa,Fåborgvej 10,5620, Glamsbjerg,425000 ,02-12-2020,Alm. Salg,111,3829,2,1951,-29%
 420,Villa,Krybilyparken 53,5690, Tommerup,445000 ,02-12-2020,Alm. Salg,160,2781,5,2022,
-420,Rækkehus,Odensevej 42B,5610, Assens,2150000 ,30-11-2020,Alm. Salg,49,43878,2,1850,-6%
 420,Rækkehus,Bredgade 78,5492, Vissenbjerg,1735000 ,30-11-2020,Alm. Salg,239,7259,7,1870,-3%
 420,Ejerlejlighed,"Nørregade 13, 1",5620, Glamsbjerg,591400 ,30-11-2020,Auktion,161,3673,6,1910,
 420,Villa,Engdraget 7,5560, Aarup,1395000 ,30-11-2020,Alm. Salg,129,10814,4,1975,
 420,Villa,Vinkelvej 7,5690, Tommerup,625000 ,30-11-2020,Alm. Salg,80,7813,3,1951,-10%
 420,Villa,Rønnevænget 1,5560, Aarup,1020000 ,30-11-2020,Alm. Salg,120,8500,3,1963,
-420,Villa,Odensevej 42,5610, Assens,2150000 ,30-11-2020,Alm. Salg,196,10969,6,1850,-6%
 420,Villa,Salomons Brink 21,5683, Haarby,1250000 ,30-11-2020,Alm. Salg,127,9843,4,1976,-7%
 420,Villa,Bækvej 2,5683, Haarby,170000 ,30-11-2020,Auktion,86,1977,3,1959,
 420,Villa,Topshøj 2,5631, Ebberup,525000 ,30-11-2020,Alm. Salg,76,6908,3,1979,-9%
@@ -1675,7 +1656,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Ejerlejlighed,"Græsholmvænget 10, st",5610, Assens,1530000 ,16-11-2020,Alm. Salg,121,12645,4,2007,-1%
 420,Villa,Ebberupvej 66,5631, Ebberup,1585000 ,16-11-2020,Alm. Salg,235,6745,7,1877,-1%
 420,Villa,Rosenparken 6,5620, Glamsbjerg,2600000 ,16-11-2020,Alm. Salg,180,14444,5,2006,
-420,Rækkehus,Damgade 33,5610, Assens,3362400 ,15-11-2020,Alm. Salg,158,21281,5,1750,-9%
 420,Villa,Assensvej 30,5492, Vissenbjerg,1760000 ,15-11-2020,Alm. Salg,165,10667,5,1987,
 420,Villa,Ved Grotten 62,5610, Assens,1050000 ,15-11-2020,Alm. Salg,124,8468,4,1965,
 420,Villa,Præstevænget 15,5610, Assens,4500000 ,15-11-2020,Alm. Salg,214,21028,7,1933,-5%
@@ -2105,7 +2085,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Møllevej 5A,5683, Haarby,1080000 ,07-05-2020,Alm. Salg,150,7200,3,1827,-28%
 420,Villa,Duedalen 109,5492, Vissenbjerg,324218 ,06-05-2020,Alm. Salg,152,2133,6,2020,
 420,Villa,Landevejen 32,5683, Haarby,600000 ,05-05-2020,Alm. Salg,180,3333,5,1827,
-420,Villa,Grønnevej 19,5620, Glamsbjerg,2200000 ,05-05-2020,Alm. Salg,152,14474,4,1977,
 420,Villa,Lilleskovvej 38,5690, Tommerup,1450000 ,05-05-2020,Alm. Salg,126,11508,4,1950,-3%
 420,Rækkehus,Gartnervænget 3,5492, Vissenbjerg,1195000 ,04-05-2020,Alm. Salg,96,12448,4,1983,
 420,Rækkehus,Torvegade 23,5690, Tommerup,875000 ,04-05-2020,Alm. Salg,98,8929,3,1979,-2%
@@ -2263,9 +2242,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Odensevej 147,5492, Vissenbjerg,600000 ,12-02-2020,Fam. Salg,110,5455,4,1961,
 420,Villa,Højsletten 21,5690, Tommerup,2260000 ,11-02-2020,Alm. Salg,140,16143,5,2008,-2%
 420,Villa,Ravnekærvej 57,5631, Ebberup,210000 ,10-02-2020,Auktion,131,1603,4,1850,
-420,Rækkehus,Ny Adelgade 18A,5610, Assens,350000 ,09-02-2020,Alm. Salg,65,5385,2,1884,
 420,Rækkehus,Ny Adelgade 31,5610, Assens,500000 ,09-02-2020,Alm. Salg,88,5682,3,1850,
-420,Ejerlejlighed,"Ny Adelgade 18, 2",5610, Assens,350000 ,09-02-2020,Alm. Salg,57,6140,3,1884,
 420,Villa,Vedtoftevej 15,5620, Glamsbjerg,1965000 ,09-02-2020,Alm. Salg,250,7860,8,1934,-2%
 420,Villa,Fuglekildevej 41,5690, Tommerup,1600000 ,09-02-2020,Alm. Salg,219,7306,10,1900,-3%
 420,Villa,Bystævnevej 17,5690, Tommerup,1365000 ,09-02-2020,Alm. Salg,116,11767,4,1978,5%
@@ -2291,13 +2268,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Kærumvej 22,5610, Assens,300000 ,28-01-2020,Alm. Salg,111,2703,4,1918,
 420,Villa,Ternevej 21,5690, Tommerup,1145000 ,28-01-2020,Alm. Salg,130,8808,5,1978,
 420,Villa,Old Gyde 10,5620, Glamsbjerg,1072500 ,28-01-2020,Alm. Salg,75,14300,4,1954,-2%
-420,Rækkehus,Rugvænget 33B,5492, Vissenbjerg,650000 ,27-01-2020,Auktion,75,8667,3,1975,
 420,Villa,Lunghøjvej 22,5560, Aarup,1032500 ,27-01-2020,Alm. Salg,161,6413,5,1998,
-420,Villa,Rugvænget 33A,5492, Vissenbjerg,650000 ,27-01-2020,Auktion,151,4305,6,1975,
 420,Villa,Pilevej 8,5683, Haarby,515000 ,26-01-2020,Alm. Salg,105,4905,3,1962,
 420,Villa,Kaslundvej 7,5610, Assens,60000 ,26-01-2020,Alm. Salg,207,290,7,2020,
 420,Villa,Eventyrbakken 8,5560, Aarup,372000 ,26-01-2020,Alm. Salg,171,2175,6,2020,
-420,Rækkehus,Østergade 31B,5610, Assens,3200000 ,23-01-2020,Alm. Salg,130,24615,4,1877,
 420,Villa,Vistorpvej 12,5620, Glamsbjerg,670000 ,23-01-2020,Alm. Salg,120,5583,4,1957,-16%
 420,Villa,Orte Vejsmark 36,5560, Aarup,550000 ,23-01-2020,Alm. Salg,185,2973,6,1975,-14%
 420,Villa,Kirsebærhaven 77,5560, Aarup,1100000 ,20-01-2020,Alm. Salg,157,7006,6,2003,
@@ -2340,7 +2314,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Tobovej 29,5690, Tommerup,2245000 ,22-12-2019,Alm. Salg,160,14031,5,2006,-2%
 420,Villa,Munkevænget 2,5492, Vissenbjerg,1550000 ,21-12-2019,Alm. Salg,170,9118,5,1929,-3%
 420,Rækkehus,Skelvej 28,5610, Assens,276000 ,19-12-2019,Alm. Salg,76,3632,3,1900,-6%
-420,Rækkehus,Møllevej 5A,5492, Vissenbjerg,1800000 ,19-12-2019,Alm. Salg,39,46154,1,1948,
 420,Villa,Mads Hansensgade 18,5690, Tommerup,1150000 ,19-12-2019,Alm. Salg,160,7188,5,1967,-11%
 420,Villa,Fasanvænget 19,5610, Assens,1100000 ,19-12-2019,Alm. Salg,112,9821,4,1969,-4%
 420,Rækkehus,Fredensgade 11,5560, Aarup,660000 ,18-12-2019,Alm. Salg,130,5077,6,1909,-5%
@@ -2638,7 +2611,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Hjerupgyde 11,5560, Aarup,350000 ,25-06-2019,Alm. Salg,150,2333,3,1880,
 420,Villa,Hårbyvej 12,5620, Glamsbjerg,445013 ,25-06-2019,Fam. Salg,142,3134,3,1924,
 420,Villa,Brydegaardsvej 16,5683, Haarby,2800000 ,25-06-2019,Alm. Salg,150,18667,9,1967,
-420,Rækkehus,Bredgade 81A,5560, Aarup,1025000 ,24-06-2019,Alm. Salg,114,8991,3,1875,
 420,Villa,Linien 18,5683, Haarby,730000 ,24-06-2019,Alm. Salg,203,3596,6,1900,-39%
 420,Villa,Bellisvænget 15,5560, Aarup,700000 ,24-06-2019,Alm. Salg,122,5738,4,1978,-7%
 420,Villa,Mågevej 16,5492, Vissenbjerg,680000 ,24-06-2019,Alm. Salg,112,6071,4,1965,-14%
@@ -2713,7 +2685,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Kamgårdsvej 62,5690, Tommerup,2250000 ,27-05-2019,Alm. Salg,175,12857,6,2007,-2%
 420,Villa,Irisvænget 12,5560, Aarup,1050000 ,26-05-2019,Alm. Salg,138,7609,5,1979,-9%
 420,Villa,Strandbyvej 83A,5683, Haarby,1160000 ,26-05-2019,Alm. Salg,205,5659,10,1976,-3%
-420,Ejerlejlighed,Krengerupvej 84C,5690, Tommerup,406400 ,23-05-2019,Andet,135,3010,4,1938,
 420,Villa,Jonsgaardsvej 12,5683, Haarby,880000 ,23-05-2019,Alm. Salg,86,10233,3,1986,-2%
 420,Villa,Parkvej 40,5492, Vissenbjerg,2100000 ,23-05-2019,Alm. Salg,192,10938,7,1975,-2%
 420,Villa,Skovstrupvej 22,5690, Tommerup,762500 ,22-05-2019,Fam. Salg,199,3832,3,1966,
@@ -3347,13 +3318,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Vissenbjergvej 7,5690, Tommerup,710000 ,09-05-2018,Alm. Salg,109,6514,4,1937,-5%
 420,Villa,Troldebakken 42,5560, Aarup,2900000 ,09-05-2018,Alm. Salg,260,11154,6,2006,-3%
 420,Villa,Østergaardsvej 125,5683, Haarby,1350000 ,08-05-2018,Alm. Salg,128,10547,4,2002,-3%
-420,Rækkehus,Nørregade 35,5610, Assens,400000 ,07-05-2018,Alm. Salg,103,3883,4,1800,-19%
-420,Ejerlejlighed,Nørregade 35A,5610, Assens,400000 ,07-05-2018,Alm. Salg,38,10000,3,1800,-19%
 420,Villa,Erholmvej 14,5560, Aarup,703000 ,07-05-2018,Alm. Salg,372,1890,8,1777,
-420,Ejerlejlighed,"Mejerivej 1, 1",5620, Glamsbjerg,230000 ,06-05-2018,Andet,103,2233,4,1962,
-420,Villa,Stærmosevej 180,5690, Tommerup,1300000 ,06-05-2018,Alm. Salg,85,15294,3,1962,
 420,Villa,Søbrovej 25,5683, Haarby,350000 ,06-05-2018,Alm. Salg,156,2244,7,1940,
-420,Villa,Mejerivej 1,5620, Glamsbjerg,230000 ,06-05-2018,Andet,235,979,7,1887,
 420,Villa,Mågevej 10,5690, Tommerup,683500 ,03-05-2018,Andet,190,3597,6,1973,
 420,Villa,Hyldegårdsvænget 5,5690, Tommerup,1258000 ,01-05-2018,Fam. Salg,253,4972,8,1973,
 420,Rækkehus,Thorvald Niss Gade 4,5610, Assens,485400 ,30-04-2018,Auktion,98,4953,3,1877,
@@ -3616,16 +3582,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Rækkehus,Dyrhaugegårde 30,5610, Assens,895000 ,09-11-2017,Alm. Salg,124,7218,3,1980,
 420,Villa,Ebberupvej 6,5631, Ebberup,350000 ,09-11-2017,Alm. Salg,135,2593,5,2021,
 420,Rækkehus,Nygade 13,5610, Assens,660000 ,08-11-2017,Alm. Salg,100,6600,4,1900,-5%
-420,Ejerlejlighed,"Strandgade 2, 1. th",5610, Assens,4550000 ,08-11-2017,Andet,64,71094,3,1810,
-420,Ejerlejlighed,"Strandgade 2, st. tv",5610, Assens,4550000 ,08-11-2017,Andet,43,105814,2,1810,
-420,Ejerlejlighed,"Strandgade 2, 1. tv",5610, Assens,4550000 ,08-11-2017,Andet,43,105814,2,1810,
-420,Ejerlejlighed,"Strandgade 2, st. th",5610, Assens,4550000 ,08-11-2017,Andet,67,67910,2,1810,
-420,Ejerlejlighed,"Ramsherred 1A, 1. th",5610, Assens,4550000 ,08-11-2017,Andet,87,52299,2,1810,
-420,Ejerlejlighed,"Ramsherred 1A, 1. tv",5610, Assens,4550000 ,08-11-2017,Andet,45,101111,2,1810,
-420,Ejerlejlighed,"Ramsherred 1, st",5610, Assens,4550000 ,08-11-2017,Andet,34,133824,1,1810,
-420,Ejerlejlighed,"Ramsherred 1A, st. tv",5610, Assens,4550000 ,08-11-2017,Andet,47,96809,2,1810,
-420,Ejerlejlighed,"Ramsherred 1, 1",5610, Assens,4550000 ,08-11-2017,Andet,41,110976,2,1810,
-420,Ejerlejlighed,"Ramsherred 1A, st. th",5610, Assens,4550000 ,08-11-2017,Andet,31,146774,1,1810,
 420,Villa,Violvænget 7,5492, Vissenbjerg,885000 ,08-11-2017,Alm. Salg,101,8762,4,1964,-10%
 420,Villa,Vestergade 67,5560, Aarup,2020000 ,07-11-2017,Alm. Salg,181,11160,6,1973,-8%
 420,Villa,Søllestedvej 40,5620, Glamsbjerg,180000 ,07-11-2017,Alm. Salg,110,1636,4,1827,
@@ -3656,9 +3612,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Skovhaverne 49,5683, Haarby,700000 ,22-10-2017,Alm. Salg,207,3382,5,2019,
 420,Villa,Lyngmosen 5,5492, Vissenbjerg,2000000 ,22-10-2017,Alm. Salg,230,8696,8,2007,
 420,Rækkehus,Drejerbanken 14,5492, Vissenbjerg,1095000 ,21-10-2017,Alm. Salg,115,9522,4,1979,-4%
-420,Ejerlejlighed,"Østergade 35, 2",5610, Assens,5022849 ,21-10-2017,Alm. Salg,118,42567,4,1795,
-420,Ejerlejlighed,"Østergade 35, 1",5610, Assens,5022849 ,21-10-2017,Alm. Salg,157,31993,4,1795,
-420,Ejerlejlighed,"Tobaksgården 3, 2",5610, Assens,5022849 ,21-10-2017,Alm. Salg,84,59796,3,1795,
 420,Villa,Skovsbyvej 21,5492, Vissenbjerg,275000 ,21-10-2017,Alm. Salg,120,2292,5,1900,-21%
 420,Villa,Søholm Parkvej 51,5620, Glamsbjerg,495000 ,21-10-2017,Alm. Salg,206,2403,7,2018,
 420,Villa,Karlemosevej 13,5620, Glamsbjerg,50000 ,20-10-2017,Alm. Salg,70,714,4,1598,-75%
@@ -4007,7 +3960,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Rønnevej 8,5492, Vissenbjerg,845000 ,01-03-2017,Alm. Salg,115,7348,4,1968,
 420,Villa,Bakkevej 4,5610, Assens,1100000 ,01-03-2017,Fam. Salg,135,8148,5,1900,
 420,Villa,Skovvænget 9,5690, Tommerup,2195000 ,01-03-2017,Alm. Salg,171,12836,7,1976,
-420,Villa,Nørregade 3,5610, Assens,1010000 ,01-03-2017,Alm. Salg,177,5706,2,1927,
 420,Rækkehus,Nørre Alle 17,5610, Assens,770000 ,28-02-2017,Alm. Salg,82,9390,4,1900,-4%
 420,Villa,Rugvænget 14,5492, Vissenbjerg,2250000 ,28-02-2017,Alm. Salg,201,11194,6,2006,-6%
 420,Villa,Søndergade 8,5492, Vissenbjerg,1450000 ,28-02-2017,Alm. Salg,146,9932,6,1930,4%
@@ -4184,7 +4136,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Nyvej 21,5690, Tommerup,750000 ,30-10-2016,Alm. Salg,115,6522,4,1972,-11%
 420,Rækkehus,Kirkegade 18,5560, Aarup,795000 ,28-10-2016,Alm. Salg,138,5761,7,1901,-6%
 420,Rækkehus,Duedalen 47B,5492, Vissenbjerg,700000 ,27-10-2016,Alm. Salg,94,7447,4,1988,-7%
-420,Villa,Bakkevej 16,5492, Vissenbjerg,7500000 ,27-10-2016,Alm. Salg,71,105634,3,1900,
 420,Villa,Dærupvej 91,5620, Glamsbjerg,175000 ,26-10-2016,Fam. Salg,78,2244,3,1962,
 420,Villa,Høgevænget 2,5610, Assens,1770000 ,26-10-2016,Alm. Salg,167,10599,5,1974,
 420,Villa,Syrenvænget 1,5492, Vissenbjerg,1250000 ,26-10-2016,Alm. Salg,130,9615,4,1972,
@@ -4400,10 +4351,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Bøgevej 48,5683, Haarby,925000 ,31-05-2016,Alm. Salg,162,5710,5,1975,-7%
 420,Villa,Parkvej 59,5492, Vissenbjerg,1300000 ,31-05-2016,Alm. Salg,175,7429,4,1973,-13%
 420,Villa,Gamtoftevej 47,5610, Assens,1150000 ,31-05-2016,Alm. Salg,147,7823,4,1946,-4%
-420,Rækkehus,Tallerupvej 73B,5690, Tommerup,410000 ,30-05-2016,Auktion,27,15185,1,1968,
 420,Villa,Sortebrovej 6,5690, Tommerup,375000 ,30-05-2016,Alm. Salg,133,2820,4,1902,-16%
 420,Villa,Grøftebjergvej 32,5492, Vissenbjerg,200000 ,30-05-2016,Alm. Salg,84,2381,2,1800,
-420,Villa,Tallerupvej 73C,5690, Tommerup,410000 ,30-05-2016,Auktion,144,2847,4,1835,
 420,Villa,Trunderupvej 72,5683, Haarby,1375000 ,30-05-2016,Alm. Salg,226,6084,7,1971,-1%
 420,Villa,Mågevej 7,5690, Tommerup,680000 ,30-05-2016,Alm. Salg,112,6071,2,1974,-14%
 420,Villa,Lundager 49,5492, Vissenbjerg,895000 ,29-05-2016,Alm. Salg,106,8443,4,1975,
@@ -4809,8 +4758,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Nordre Havnevej 1,5610, Assens,1195000 ,19-08-2015,Alm. Salg,134,8918,5,1938,
 420,Villa,Kildebjerggård 29,5690, Tommerup,3600000 ,19-08-2015,Alm. Salg,215,16744,7,2007,
 420,Villa,Harevej 22,5620, Glamsbjerg,575000 ,18-08-2015,Alm. Salg,99,5808,3,1965,-8%
-420,Rækkehus,Malervænget 2,5560, Aarup,1400000 ,17-08-2015,Alm. Salg,76,18421,2,1999,-16%
-420,Villa,Malervænget 2,5560, Aarup,1400000 ,17-08-2015,Alm. Salg,166,8434,5,1996,-16%
 420,Villa,Ryet 28,5631, Ebberup,25000 ,17-08-2015,Alm. Salg,150,167,5,1877,
 420,Villa,Haugelund 19,5492, Vissenbjerg,813500 ,17-08-2015,Fam. Salg,136,5982,4,2002,
 420,Villa,Odensevej 133,5610, Assens,3150000 ,16-08-2015,Alm. Salg,389,8098,10,1890,-10%
@@ -5043,9 +4990,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Rækkehus,Lindevej 2,5492, Vissenbjerg,10375000 ,01-03-2015,Alm. Salg,51,203431,2,1974,
 420,Villa,Lunghøjvej 24,5560, Aarup,1950000 ,01-03-2015,Alm. Salg,227,8590,7,1912,-2%
 420,Villa,Skovvangsvej 33,5610, Assens,850000 ,27-02-2015,Alm. Salg,181,4696,3,1877,-15%
-420,Ejerlejlighed,"Mejerivej 1, 1",5620, Glamsbjerg,500000 ,26-02-2015,Alm. Salg,103,4854,4,1962,
 420,Villa,Bøgevej 60,5683, Haarby,1350000 ,26-02-2015,Alm. Salg,212,6368,7,1976,
-420,Villa,Mejerivej 1,5620, Glamsbjerg,500000 ,26-02-2015,Alm. Salg,235,2128,7,1887,
 420,Villa,Skrænten 9,5560, Aarup,1838000 ,26-02-2015,Alm. Salg,163,11276,6,1986,-8%
 420,Villa,Syrenvænget 1,5620, Glamsbjerg,775000 ,25-02-2015,Alm. Salg,130,5962,4,1973,-13%
 420,Villa,Skovgårdsvej 23,5492, Vissenbjerg,1230000 ,25-02-2015,Alm. Salg,151,8146,4,1973,-11%
@@ -5239,7 +5184,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Præstevænget 27,5610, Assens,3850000 ,05-09-2014,Alm. Salg,149,25839,5,1935,
 420,Villa,Helnæs Byvej 73,5631, Ebberup,625000 ,04-09-2014,Alm. Salg,104,6010,5,1912,-10%
 420,Villa,Cederfeldsgade 16,5560, Aarup,700000 ,04-09-2014,Alm. Salg,135,5185,5,1907,-10%
-420,Villa,Stærmosevej 171A,5690, Tommerup,583333 ,04-09-2014,Alm. Salg,192,3038,6,1900,-58%
 420,Villa,Krengerupvej 107,5690, Tommerup,652000 ,03-09-2014,Alm. Salg,140,4657,5,1930,
 420,Villa,Egerupvej 7,5610, Assens,326048 ,02-09-2014,Alm. Salg,154,2117,5,1880,-59%
 420,Villa,Ørsbjergvej 60,5560, Aarup,800000 ,02-09-2014,Alm. Salg,233,3433,7,1877,-33%
@@ -5247,7 +5191,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Egevej 5,5683, Haarby,800000 ,31-08-2014,Alm. Salg,128,6250,4,1974,-3%
 420,Villa,Å Strandvej 26,5631, Ebberup,1300000 ,31-08-2014,Fam. Salg,142,9155,5,1907,
 420,Rækkehus,Ladegårdsgade 14,5610, Assens,1215000 ,30-08-2014,Alm. Salg,114,10658,4,1682,-5%
-420,Villa,Grønnevej 19,5620, Glamsbjerg,1575000 ,29-08-2014,Alm. Salg,152,10362,4,1977,
 420,Villa,Assensvej 5,5683, Haarby,1100000 ,28-08-2014,Alm. Salg,180,6111,6,1939,-6%
 420,Villa,Brunsegyden 17,5690, Tommerup,350000 ,28-08-2014,Alm. Salg,79,4430,4,1900,
 420,Rækkehus,Gartnervænget 13,5690, Tommerup,875000 ,24-08-2014,Alm. Salg,102,8578,4,1981,-2%
@@ -5389,7 +5332,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Rækkehus,Næsvej 1,5610, Assens,1400000 ,29-04-2014,Alm. Salg,184,7609,4,1942,
 420,Villa,Kirsebærhaven 65,5560, Aarup,2265000 ,29-04-2014,Alm. Salg,167,13563,6,2005,-5%
 420,Villa,Nørre Alle 38,5610, Assens,1300000 ,29-04-2014,Alm. Salg,187,6952,7,1900,-7%
-420,Villa,Odensevej 4A,5690, Tommerup,750000 ,29-04-2014,Alm. Salg,98,7653,4,1965,
 420,Villa,Lindebjerg 34,5560, Aarup,850000 ,28-04-2014,Auktion,259,3282,8,1852,
 420,Villa,Hegnet 10,5631, Ebberup,610000 ,27-04-2014,Alm. Salg,116,5259,4,1976,-12%
 420,Villa,Strandgade 140,5683, Haarby,900000 ,27-04-2014,Alm. Salg,203,4433,7,1950,
@@ -5685,8 +5627,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Østerbro 5,5690, Tommerup,250000 ,08-08-2013,Alm. Salg,156,1603,5,1927,
 420,Rækkehus,"Bådsmandsstræde 4, 1",5610, Assens,330000 ,07-08-2013,Alm. Salg,139,2374,4,1877,
 420,Ejerlejlighed,Strandgade 7,5610, Assens,1375000 ,07-08-2013,Alm. Salg,289,4758,6,1700,
-420,Rækkehus,Grambovej 2,5690, Tommerup,925000 ,06-08-2013,Fam. Salg,206,2837,5,1936,
-420,Villa,Grambovej 2,5690, Tommerup,925000 ,06-08-2013,Fam. Salg,224,4129,6,1927,
 420,Villa,Jørgensvej 6,5610, Assens,814055 ,06-08-2013,Alm. Salg,149,5463,5,1970,
 420,Villa,Landevejen 27,5683, Haarby,200000 ,05-08-2013,Alm. Salg,144,1389,7,1894,-32%
 420,Villa,Ryet 23,5631, Ebberup,325000 ,01-08-2013,Alm. Salg,171,1901,3,1953,
@@ -5839,9 +5779,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Rønnevej 8,5560, Aarup,350000 ,19-03-2013,Alm. Salg,54,6481,2,1952,
 420,Villa,Assensvej 10,5683, Haarby,653757 ,18-03-2013,Andet,158,4138,5,1936,
 420,Villa,Hindsløkken 19,5690, Tommerup,600000 ,17-03-2013,Alm. Salg,100,6000,4,1900,-14%
-420,Ejerlejlighed,Skolevej 29A,5683, Haarby,1200000 ,16-03-2013,Alm. Salg,69,17391,2,1940,-20%
-420,Ejerlejlighed,"Algade 13, st. tv",5683, Haarby,1200000 ,16-03-2013,Alm. Salg,125,9600,4,1940,-20%
-420,Villa,"Algade 13, st. th",5683, Haarby,1200000 ,16-03-2013,Alm. Salg,86,13953,4,1925,-20%
 420,Villa,Liljevænget 11,5492, Vissenbjerg,1100000 ,13-03-2013,Alm. Salg,151,7285,4,1972,-8%
 420,Villa,Dolevej 17,5620, Glamsbjerg,65000 ,12-03-2013,Alm. Salg,300,217,7,1827,-96%
 420,Villa,Sandager Kirkevej 33,5610, Assens,1291000 ,11-03-2013,Alm. Salg,220,5868,5,1909,
@@ -5930,9 +5867,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Rønnevænget 3,5560, Aarup,425000 ,18-12-2012,Alm. Salg,145,2931,4,1963,-37%
 420,Villa,Kærumvej 1,5610, Assens,250000 ,18-12-2012,Alm. Salg,124,2016,4,1879,-41%
 420,Villa,Hesselhoved 10,5690, Tommerup,1250000 ,18-12-2012,Alm. Salg,150,8333,5,1972,-10%
-420,Ejerlejlighed,"Kaslundvej 44, kl",5560, Aarup,500000 ,17-12-2012,Auktion,66,7576,2,1966,
 420,Villa,Bøgevej 21,5492, Vissenbjerg,1600000 ,17-12-2012,Alm. Salg,114,14035,4,1970,
-420,Villa,Kaslundvej 44,5560, Aarup,500000 ,17-12-2012,Auktion,139,3597,5,1966,
 420,Villa,Fuglebakken 9,5690, Tommerup,1060000 ,17-12-2012,Auktion,166,6386,4,1986,-44%
 420,Villa,Appevej 8,5690, Tommerup,500000 ,17-12-2012,Andet,112,4464,3,1951,
 420,Villa,Skovvej 21,5690, Tommerup,288000 ,17-12-2012,Auktion,151,1907,6,1940,
@@ -5940,7 +5875,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Gl.Aarup 12,5560, Aarup,1250000 ,13-12-2012,Alm. Salg,173,7225,4,1942,-6%
 420,Rækkehus,Fåborgvej 15,5610, Assens,860000 ,12-12-2012,Alm. Salg,90,9556,2,1933,-4%
 420,Villa,Engvej 21,5690, Tommerup,775000 ,12-12-2012,Alm. Salg,105,7381,4,1970,-9%
-420,Villa,Østergaardsvej 113,5683, Haarby,16550000 ,11-12-2012,Alm. Salg,129,128295,4,2007,
 420,Villa,Fuglekildevej 7,5690, Tommerup,1100000 ,10-12-2012,Alm. Salg,178,6180,6,1945,-12%
 420,Villa,Hejrevænget 17,5610, Assens,1595000 ,10-12-2012,Alm. Salg,136,11728,6,1969,
 420,Villa,Duedal Huse 2,5492, Vissenbjerg,338000 ,10-12-2012,Alm. Salg,178,1899,6,2013,
@@ -6113,7 +6047,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Rækkehus,"Nørregade 12, 1",5620, Glamsbjerg,1500000 ,30-06-2012,Alm. Salg,187,8021,7,1911,
 420,Villa,Skovvangen 25,5683, Haarby,782500 ,29-06-2012,Alm. Salg,136,5754,4,1971,-13%
 420,Villa,Teglværksvej 13,5620, Glamsbjerg,1788000 ,29-06-2012,Alm. Salg,119,15025,4,1943,
-420,Villa,Ved Stranden 40A,5610, Assens,1700000 ,28-06-2012,Alm. Salg,37,45946,2,1907,-15%
 420,Rækkehus,Næsgade 20,5610, Assens,427000 ,27-06-2012,Fam. Salg,97,4402,4,1903,
 420,Villa,Nyvej 6,5631, Ebberup,615000 ,27-06-2012,Alm. Salg,86,7151,3,1961,
 420,Villa,Duevænget 7,5610, Assens,1095500 ,27-06-2012,Fam. Salg,189,5796,5,1976,
@@ -6132,10 +6065,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Rækkehus,Ramsherred 33,5610, Assens,550000 ,13-06-2012,Alm. Salg,64,8594,3,1840,-8%
 420,Villa,Savværksvej 4,5620, Glamsbjerg,561000 ,13-06-2012,Fam. Salg,179,3134,7,1961,
 420,Villa,Strædet 6,5683, Haarby,465000 ,13-06-2012,Alm. Salg,85,5471,3,1961,-7%
-420,Ejerlejlighed,"Nørregade 5, st",5610, Assens,2321000 ,11-06-2012,Auktion,81,28654,2,1900,
-420,Ejerlejlighed,"Nørregade 5, 1",5610, Assens,2321000 ,11-06-2012,Auktion,136,17066,4,1900,
-420,Ejerlejlighed,"Baronvej 22, 1",5610, Assens,2321000 ,11-06-2012,Auktion,71,32690,2,1900,
-420,Ejerlejlighed,"Baronvej 22, st",5610, Assens,2321000 ,11-06-2012,Auktion,48,48354,1,1900,
 420,Villa,Old Gyde 6B,5620, Glamsbjerg,900000 ,11-06-2012,Alm. Salg,87,10345,5,2007,
 420,Villa,Brunshusevej 17,5683, Haarby,1900000 ,10-06-2012,Alm. Salg,169,11243,5,1875,-10%
 420,Villa,Assensvej 12,5620, Glamsbjerg,1130000 ,08-06-2012,Alm. Salg,171,6608,5,1927,-4%
@@ -6167,13 +6096,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Rækkehus,Kærsangervænget 2,5610, Assens,350000 ,23-05-2012,Alm. Salg,60,5833,2,1976,-30%
 420,Villa,Kirkegade 2,5560, Aarup,770000 ,23-05-2012,Fam. Salg,122,6311,6,1920,
 420,Villa,Bellisvænget 13,5560, Aarup,950000 ,23-05-2012,Alm. Salg,215,4419,6,1980,-14%
-420,Ejerlejlighed,"Østergade 11A, st. th",5610, Assens,2481598 ,21-05-2012,Auktion,83,29899,3,1565,
-420,Ejerlejlighed,"Østergade 11, 1",5610, Assens,2481598 ,21-05-2012,Auktion,198,12533,6,1565,
-420,Ejerlejlighed,"Østergade 11A, st. tv",5610, Assens,2481598 ,21-05-2012,Auktion,73,33994,3,1565,
-420,Ejerlejlighed,"Badstuestræde 2A, st. th",5610, Assens,2481598 ,21-05-2012,Auktion,60,41360,2,1870,
-420,Ejerlejlighed,"Badstuestræde 2A, 1. tv",5610, Assens,2481598 ,21-05-2012,Auktion,58,42786,2,1870,
-420,Ejerlejlighed,"Badstuestræde 2A, 1. th",5610, Assens,2481598 ,21-05-2012,Auktion,56,44314,2,1870,
-420,Ejerlejlighed,"Badstuestræde 2A, st. tv",5610, Assens,2481598 ,21-05-2012,Auktion,62,40026,1,1870,
 420,Villa,Gl.Hovedvej 30,5560, Aarup,535000 ,20-05-2012,Alm. Salg,133,4023,4,1935,-17%
 420,Villa,Havrebakken 3,5560, Aarup,102150 ,20-05-2012,Alm. Salg,121,844,5,2015,
 420,Rækkehus,Blomstervænget 1B,5610, Assens,850000 ,18-05-2012,Alm. Salg,113,7522,3,1947,-15%
@@ -6328,8 +6250,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Nyrupvej 55,5620, Glamsbjerg,575000 ,30-12-2011,Andet,120,4792,3,1884,-59%
 420,Rækkehus,Kærsangervænget 27,5610, Assens,650000 ,29-12-2011,Alm. Salg,66,9848,3,1977,-6%
 420,Villa,Teglværksvej 19,5620, Glamsbjerg,718000 ,27-12-2011,Alm. Salg,215,3340,6,1929,
-420,Rækkehus,"Nørregade 37, st. th",5620, Glamsbjerg,1350000 ,22-12-2011,Fam. Salg,234,5769,8,1896,
-420,Ejerlejlighed,"Nørregade 37, 1",5620, Glamsbjerg,1350000 ,22-12-2011,Fam. Salg,62,21774,2,1896,
 420,Rækkehus,Nørre Alle 17,5610, Assens,835000 ,21-12-2011,Alm. Salg,82,10183,4,1900,-7%
 420,Villa,Tallerupvej 71,5690, Tommerup,475000 ,21-12-2011,Alm. Salg,105,4524,4,1933,
 420,Villa,Skovbrynet 3,5620, Glamsbjerg,1900000 ,21-12-2011,Alm. Salg,121,15702,4,2008,-5%
@@ -6354,7 +6274,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Rønnevænget 2,5560, Aarup,700000 ,01-12-2011,Alm. Salg,110,6364,4,1964,-15%
 420,Villa,Buchwaldsvej 31,5690, Tommerup,490000 ,01-12-2011,Alm. Salg,124,3952,4,1927,
 420,Villa,Grønnevej 3,5620, Glamsbjerg,2200000 ,30-11-2011,Alm. Salg,258,8527,9,1910,-27%
-420,Villa,Lilleskovvej 22A,5690, Tommerup,4500000 ,30-11-2011,Auktion,142,31690,4,1948,
 420,Rækkehus,Østergaards Plads 17,5620, Glamsbjerg,370000 ,29-11-2011,Alm. Salg,58,6379,2,1912,
 420,Rækkehus,Østergaards Plads 19,5620, Glamsbjerg,525000 ,29-11-2011,Alm. Salg,82,6402,2,1912,
 420,Villa,Salbrovad 47,5610, Assens,501807 ,29-11-2011,Andet,120,4182,6,1880,
@@ -6410,7 +6329,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Lupinvej 5,5560, Aarup,625000 ,10-10-2011,Alm. Salg,119,5252,3,1968,-14%
 420,Villa,Krengerupvej 51,5690, Tommerup,65001 ,10-10-2011,Auktion,84,774,3,1890,
 420,Villa,Buchwaldsvej 12,5690, Tommerup,750000 ,10-10-2011,Auktion,109,6881,4,1905,
-420,Villa,Ladegård Mark 50,5560, Aarup,1350000 ,09-10-2011,Fam. Salg,170,7941,5,1777,
 420,Villa,Bøgevej 118,5683, Haarby,850000 ,06-10-2011,Alm. Salg,125,6800,3,1975,-8%
 420,Villa,Brydegaardsvej 1,5683, Haarby,560000 ,06-10-2011,Alm. Salg,106,5283,7,1903,-3%
 420,Villa,Dyrhøjevej 56,5610, Assens,530000 ,04-10-2011,Andet,176,3011,8,1869,
@@ -7028,7 +6946,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Søholm Parkvej 51,5620, Glamsbjerg,585000 ,16-06-2010,Alm. Salg,206,2840,7,2018,
 420,Rækkehus,Duedalen 37B,5492, Vissenbjerg,785000 ,15-06-2010,Alm. Salg,94,8351,4,1988,-1%
 420,Villa,Stentevej 10,5610, Assens,800000 ,15-06-2010,Alm. Salg,124,6452,5,1937,-11%
-420,Rækkehus,Søndergade 99D,5620, Glamsbjerg,2200000 ,14-06-2010,Auktion,227,9692,7,1907,
 420,Villa,Østerbro 11,5690, Tommerup,450000 ,14-06-2010,Auktion,213,2113,5,2014,
 420,Villa,Voldtoftevej 38,5620, Glamsbjerg,1995000 ,13-06-2010,Alm. Salg,227,8789,4,1735,
 420,Rækkehus,Møllerhuse 23,5610, Assens,375000 ,09-06-2010,Alm. Salg,57,6579,3,1909,
@@ -7560,7 +7477,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Fåborgvej 10,5610, Assens,1500000 ,27-04-2009,Alm. Salg,150,10000,5,1974,-25%
 420,Villa,Møllevej 29,5492, Vissenbjerg,998984 ,26-04-2009,Alm. Salg,186,5371,5,1978,
 420,Villa,Kirkevej 27,5690, Tommerup,2300000 ,23-04-2009,Alm. Salg,185,12432,5,1907,-8%
-420,Villa,Lilleskovvej 22A,5690, Tommerup,4100000 ,23-04-2009,Alm. Salg,142,28873,4,1948,
 420,Villa,Stenløkkevej 31,5690, Tommerup,812500 ,22-04-2009,Fam. Salg,152,5345,6,1972,
 420,Villa,Ålevejen 4,5610, Assens,1230000 ,22-04-2009,Alm. Salg,104,11827,3,1968,-1%
 420,Villa,Vestervangen 37,5690, Tommerup,1225000 ,21-04-2009,Alm. Salg,125,9800,4,1980,-5%
@@ -7630,14 +7546,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Vestervang 9,5492, Vissenbjerg,1850000 ,08-02-2009,Alm. Salg,157,11783,4,1972,-2%
 420,Villa,Vestervangen 79,5690, Tommerup,1785000 ,08-02-2009,Alm. Salg,176,10142,5,1979,
 420,Villa,Egebjergvej 14,5610, Assens,372573 ,06-02-2009,Andet,124,3005,6,1870,-58%
-420,Rækkehus,Søndergade 99D,5620, Glamsbjerg,6467392 ,05-02-2009,Auktion,227,28491,7,1907,
 420,Villa,Lærkevej 15,5560, Aarup,1390000 ,05-02-2009,Alm. Salg,116,11983,4,1969,-4%
 420,Villa,Torvegade 39,5690, Tommerup,2200000 ,05-02-2009,Alm. Salg,170,12941,7,1981,-8%
 420,Villa,Kappelvænget 15,5620, Glamsbjerg,1525000 ,04-02-2009,Alm. Salg,228,6689,8,1979,
-420,Ejerlejlighed,"Nørregade 5, st",5610, Assens,1000000 ,03-02-2009,Alm. Salg,81,12346,2,1900,-20%
-420,Ejerlejlighed,"Nørregade 5, 1",5610, Assens,1000000 ,03-02-2009,Alm. Salg,136,7353,4,1900,-20%
-420,Ejerlejlighed,"Baronvej 22, 1",5610, Assens,1000000 ,03-02-2009,Alm. Salg,71,14085,2,1900,-20%
-420,Ejerlejlighed,"Baronvej 22, st",5610, Assens,1000000 ,03-02-2009,Alm. Salg,48,20833,1,1900,-20%
 420,Villa,Helnæs Byvej 58,5631, Ebberup,605000 ,03-02-2009,Alm. Salg,123,4919,5,1913,
 420,Villa,Liljevænget 7,5610, Assens,1285000 ,02-02-2009,Alm. Salg,134,9590,5,1988,
 420,Villa,Ellevangen 22,5683, Haarby,1340000 ,02-02-2009,Alm. Salg,138,9710,5,1972,
@@ -7846,7 +7757,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Østergade 16,5560, Aarup,1600000 ,24-08-2008,Alm. Salg,152,10526,5,1924,-6%
 420,Villa,Hegnslyst 17,5683, Haarby,2950000 ,21-08-2008,Alm. Salg,159,18553,6,2006,
 420,Villa,Kirkebjergvej 37,5620, Glamsbjerg,765000 ,20-08-2008,Andet,174,4397,4,1938,
-420,Villa,Ladegård Mark 50,5560, Aarup,2600000 ,20-08-2008,Alm. Salg,170,15294,5,1777,-7%
 420,Villa,Algade 75,5683, Haarby,1285000 ,17-08-2008,Alm. Salg,193,6658,7,1924,
 420,Villa,Barløsevej 73,5610, Assens,699000 ,17-08-2008,Alm. Salg,75,9320,3,1932,
 420,Villa,Rosenvænget 5,5620, Glamsbjerg,1400000 ,17-08-2008,Alm. Salg,125,11200,4,1973,-3%
@@ -7920,7 +7830,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Bøgevej 17,5683, Haarby,461833 ,30-06-2008,Andet,114,4051,4,1973,
 420,Villa,Fuglebakken 14,5690, Tommerup,1250000 ,30-06-2008,Alm. Salg,131,9542,3,1964,-4%
 420,Villa,Mølleknappe 16,5560, Aarup,1620000 ,30-06-2008,Alm. Salg,136,11912,5,1941,2%
-420,Rækkehus,"Damgade 7, 1. th",5610, Assens,1250000 ,29-06-2008,Andet,112,11161,5,1700,
 420,Ejerlejlighed,"Østergade 60, 2",5610, Assens,280000 ,29-06-2008,Andet,68,4118,2,1900,
 420,Ejerlejlighed,"Østergade 60, 1",5610, Assens,390000 ,29-06-2008,Andet,93,4194,3,1900,
 420,Ejerlejlighed,"Østergade 62, 1",5610, Assens,470000 ,29-06-2008,Andet,76,6184,6,1916,
@@ -8143,8 +8052,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Andebølleskovvej 10,5492, Vissenbjerg,3750000 ,12-03-2008,Alm. Salg,384,9766,6,1969,
 420,Rækkehus,Gartnervænget 25,5690, Tommerup,980000 ,11-03-2008,Alm. Salg,102,9608,4,1981,
 420,Villa,Lærkevej 15,5560, Aarup,1125000 ,11-03-2008,Alm. Salg,116,9698,4,1969,
-420,Rækkehus,Malervænget 2,5560, Aarup,2400000 ,10-03-2008,Alm. Salg,76,31579,2,1999,
-420,Villa,Malervænget 2,5560, Aarup,2400000 ,10-03-2008,Alm. Salg,166,14458,5,1996,
 420,Villa,Irisvej 10,5690, Tommerup,1375000 ,10-03-2008,Alm. Salg,142,9683,5,1971,-5%
 420,Villa,Valmuevænget 13,5560, Aarup,1300000 ,10-03-2008,Alm. Salg,135,9630,4,1978,-4%
 420,Rækkehus,Lundager 53B,5492, Vissenbjerg,725000 ,09-03-2008,Alm. Salg,85,8529,3,1990,
@@ -8164,7 +8071,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Flædekærvej 5,5610, Assens,830000 ,03-03-2008,Andet,74,11216,4,1903,
 420,Rækkehus,Kildebjergvænget 25,5492, Vissenbjerg,2195000 ,02-03-2008,Alm. Salg,144,15243,5,2008,2%
 420,Villa,Gl.Hovedvej 41,5560, Aarup,1099000 ,02-03-2008,Alm. Salg,153,7183,6,1937,
-420,Villa,Nørregade 24,5620, Glamsbjerg,3200000 ,02-03-2008,Alm. Salg,218,14679,4,1911,
 420,Villa,Bakkevej 34,5492, Vissenbjerg,3430000 ,02-03-2008,Alm. Salg,189,18148,9,1978,-2%
 420,Villa,Solbakken 37,5560, Aarup,375900 ,02-03-2008,Alm. Salg,158,2379,5,2009,
 420,Villa,Solvænget 13,5610, Assens,1100000 ,01-03-2008,Alm. Salg,86,12791,4,1954,-2%
@@ -8329,13 +8235,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Høedvej 17,5620, Glamsbjerg,460000 ,24-12-2007,Fam. Salg,112,4107,9,1852,
 420,Villa,Nyvej 87,5690, Tommerup,1559000 ,21-12-2007,Alm. Salg,131,11901,5,1980,
 420,Rækkehus,Ramsherred 46,5610, Assens,600000 ,20-12-2007,Alm. Salg,67,8955,3,1848,-4%
-420,Rækkehus,"Skolevej 1A, st. tv",5620, Glamsbjerg,3523000 ,20-12-2007,Alm. Salg,101,34881,3,1957,
-420,Ejerlejlighed,"Bogensevej 164, st. th",5620, Glamsbjerg,1809000 ,20-12-2007,Alm. Salg,95,19042,3,1911,
-420,Ejerlejlighed,"Bogensevej 164, st. tv",5620, Glamsbjerg,1809000 ,20-12-2007,Alm. Salg,100,18090,3,1911,
-420,Ejerlejlighed,"Bogensevej 164, 1. th",5620, Glamsbjerg,1809000 ,20-12-2007,Alm. Salg,66,27409,2,1911,
-420,Ejerlejlighed,"Bogensevej 164, 1. tv",5620, Glamsbjerg,1809000 ,20-12-2007,Alm. Salg,61,29656,2,1911,
-420,Ejerlejlighed,"Chr. Richardtsvej 2, 1",5620, Glamsbjerg,1809000 ,20-12-2007,Alm. Salg,65,27831,3,1911,
-420,Ejerlejlighed,"Chr. Richardtsvej 2, st",5620, Glamsbjerg,1809000 ,20-12-2007,Alm. Salg,72,25125,3,1911,
 420,Villa,Vissenbjergvej 20,5690, Tommerup,1120000 ,20-12-2007,Alm. Salg,80,14000,4,1938,-6%
 420,Villa,Blangstrupvej 2,5610, Assens,870000 ,20-12-2007,Fam. Salg,207,4203,5,1955,
 420,Rækkehus,Ramsherred 49,5610, Assens,995000 ,19-12-2007,Alm. Salg,107,9299,4,1900,
@@ -8425,14 +8324,12 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Rækkehus,Salbrovad 7,5610, Assens,325000 ,12-11-2007,Alm. Salg,83,3916,3,1877,
 420,Villa,Fåborgvej 76,5610, Assens,825000 ,11-11-2007,Fam. Salg,98,8418,5,1900,
 420,Villa,Maevej 37,5690, Tommerup,2595000 ,10-11-2007,Alm. Salg,186,13952,4,1802,
-420,Rækkehus,Ladegårdsgade 2,5610, Assens,2800000 ,07-11-2007,Alm. Salg,116,24138,5,1650,
 420,Ejerlejlighed,"Græsholmvænget 10, st",5610, Assens,1800000 ,07-11-2007,Alm. Salg,121,14876,4,2007,6%
 420,Villa,Grindsmosevej 14,5610, Assens,1079000 ,07-11-2007,Alm. Salg,176,6131,6,1727,-6%
 420,Villa,Møllegårdsvej 13,5610, Assens,1975000 ,07-11-2007,Alm. Salg,300,6583,10,1896,
 420,Rækkehus,Grøftebjergvej 3B,5492, Vissenbjerg,1445000 ,06-11-2007,Alm. Salg,107,13505,4,2008,
 420,Rækkehus,Grøftebjergvej 3A,5492, Vissenbjerg,1465000 ,06-11-2007,Alm. Salg,107,13692,3,2007,
 420,Villa,Ålsbovej 12,5560, Aarup,1099600 ,06-11-2007,Fam. Salg,145,7583,8,1942,
-420,Rækkehus,Søndergade 99D,5620, Glamsbjerg,4000000 ,05-11-2007,Alm. Salg,227,17621,7,1907,
 420,Villa,Højsletten 16,5690, Tommerup,492525 ,05-11-2007,Alm. Salg,188,2620,5,2008,
 420,Rækkehus,Gartnervænget 8,5690, Tommerup,948000 ,04-11-2007,Alm. Salg,102,9294,4,1981,
 420,Ejerlejlighed,"Strandgade 19, 1",5610, Assens,1925000 ,01-11-2007,Alm. Salg,150,12833,4,1855,
@@ -8983,7 +8880,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Søbrovej 43,5683, Haarby,765000 ,19-03-2007,Alm. Salg,142,5387,5,1902,2%
 420,Villa,Lindealle 2,5690, Tommerup,700000 ,19-03-2007,Alm. Salg,129,5426,6,1910,
 420,Rækkehus,Ternevej 5A,5690, Tommerup,455000 ,18-03-2007,Alm. Salg,109,4174,4,1985,
-420,Villa,Hardersvej 6,5610, Assens,1928000 ,18-03-2007,Alm. Salg,155,12439,7,1963,
 420,Villa,Lundagervej 6,5610, Assens,2100000 ,18-03-2007,Alm. Salg,186,11290,7,1900,
 420,Villa,Nørregade 20,5492, Vissenbjerg,424248 ,18-03-2007,Fam. Salg,189,2245,2,1943,
 420,Villa,Møllevej 18,5683, Haarby,660000 ,18-03-2007,Alm. Salg,140,4714,5,1936,
@@ -9133,11 +9029,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Assensvej 3,5683, Haarby,800000 ,18-01-2007,Alm. Salg,150,5333,4,1939,
 420,Villa,Thinggyden 20,5631, Ebberup,995000 ,18-01-2007,Alm. Salg,118,8432,5,1870,
 420,Rækkehus,Østergaardsvej 37B,5683, Haarby,900000 ,17-01-2007,Alm. Salg,94,9574,4,1980,
-420,Ejerlejlighed,"Korsgade 2, 2",5610, Assens,3500000 ,17-01-2007,Alm. Salg,75,46667,3,1850,
-420,Ejerlejlighed,"Østergade 29, 2",5610, Assens,3500000 ,17-01-2007,Alm. Salg,89,39326,4,1870,
-420,Ejerlejlighed,"Østergade 29, 1",5610, Assens,3500000 ,17-01-2007,Alm. Salg,121,28926,4,1870,
-420,Ejerlejlighed,"Korsgade 2, 1. th",5610, Assens,3500000 ,17-01-2007,Alm. Salg,101,34653,2,1850,
-420,Ejerlejlighed,Østergade 29A,5610, Assens,3500000 ,17-01-2007,Alm. Salg,155,22581,3,1870,
 420,Villa,Ebberupvej 104,5631, Ebberup,740000 ,17-01-2007,Alm. Salg,110,6727,5,1954,
 420,Villa,Møllevej 20,5492, Vissenbjerg,3950000 ,17-01-2007,Alm. Salg,245,16122,6,1967,-1%
 420,Villa,Søndergade 16,5492, Vissenbjerg,820000 ,16-01-2007,Alm. Salg,165,4970,6,1930,-8%
@@ -9172,7 +9063,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Bellisvænget 4,5560, Aarup,500000 ,03-01-2007,Andet,122,4098,4,1978,
 420,Ejerlejlighed,"Ebberupvej 67, 1",5631, Ebberup,1200000 ,02-01-2007,Alm. Salg,151,7947,8,1933,
 420,Villa,Jordløse Møllevej 31,5683, Haarby,1075000 ,01-01-2007,Alm. Salg,130,8269,5,1933,
-420,Villa,Snavevej 10,5683, Haarby,2000000 ,31-12-2006,Alm. Salg,159,12579,4,1916,
 420,Villa,Grambovej 52,5690, Tommerup,720000 ,31-12-2006,Andet,158,4557,5,1977,
 420,Rækkehus,"Nørregade 12, 1",5620, Glamsbjerg,1075000 ,29-12-2006,Alm. Salg,187,5749,7,1911,
 420,Villa,Vesterlaugsvej 16,5690, Tommerup,985000 ,28-12-2006,Alm. Salg,147,6701,4,1917,
@@ -9546,8 +9436,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Fuglekildevej 65,5690, Tommerup,1126000 ,01-08-2006,Alm. Salg,110,10236,4,1957,
 420,Villa,Kildemaden 13,5690, Tommerup,1600000 ,31-07-2006,Alm. Salg,160,10000,5,1972,
 420,Villa,Brunshusevej 49,5683, Haarby,3000000 ,31-07-2006,Alm. Salg,182,16484,4,1927,
-420,Rækkehus,Ramsherred 2,5610, Assens,1695000 ,30-07-2006,Alm. Salg,195,8692,6,1810,
-420,Villa,Ved Grotten 16,5610, Assens,1695000 ,30-07-2006,Alm. Salg,182,9313,6,1965,
 420,Villa,Algade 3,5683, Haarby,950000 ,30-07-2006,Alm. Salg,144,6597,7,1942,
 420,Villa,Gamtoftevej 55,5610, Assens,1200000 ,30-07-2006,Alm. Salg,75,16000,3,1850,
 420,Villa,Birkevej 3,5683, Haarby,825000 ,27-07-2006,Alm. Salg,111,7432,4,1967,
@@ -9708,7 +9596,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Nellemosevej 35,5683, Haarby,595000 ,29-05-2006,Alm. Salg,99,6010,3,1960,
 420,Villa,Kirke Søbyvej 6,5620, Glamsbjerg,785000 ,29-05-2006,Alm. Salg,116,6767,3,1965,
 420,Villa,Byvejen 36,5620, Glamsbjerg,430000 ,29-05-2006,Alm. Salg,50,8600,3,1985,
-420,Rækkehus,"Skolevej 1A, st. tv",5620, Glamsbjerg,3400000 ,28-05-2006,Alm. Salg,101,33663,3,1957,
 420,Villa,Holtegårdsvej 13,5620, Glamsbjerg,377064 ,28-05-2006,Alm. Salg,140,2693,5,1800,
 420,Villa,Pilevej 16,5620, Glamsbjerg,750000 ,28-05-2006,Fam. Salg,126,5952,5,1972,
 420,Villa,Skovvangsvej 45,5610, Assens,725104 ,28-05-2006,Alm. Salg,96,7553,5,1850,
@@ -9732,7 +9619,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Mariendalsvej 1,5610, Assens,1100000 ,20-05-2006,Alm. Salg,108,10185,4,1950,
 420,Villa,Skolevej 26,5620, Glamsbjerg,1500000 ,20-05-2006,Alm. Salg,171,8772,6,1963,
 420,Villa,Blangstrupvej 7,5610, Assens,1945000 ,20-05-2006,Alm. Salg,295,6593,6,1800,
-420,Villa,Bjelkevej 7A,5690, Tommerup,4175000 ,20-05-2006,Alm. Salg,133,31391,5,1938,
 420,Rækkehus,Nørre Alle 5,5610, Assens,695000 ,17-05-2006,Alm. Salg,105,6619,3,1900,
 420,Villa,Violvej 5,5690, Tommerup,1048000 ,17-05-2006,Alm. Salg,144,7278,5,1969,
 420,Villa,Mullerødvej 13,5683, Haarby,700000 ,17-05-2006,Alm. Salg,94,7447,4,1935,
@@ -9905,15 +9791,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Kærvangen 3,5610, Assens,680000 ,19-03-2006,Alm. Salg,114,5965,4,1961,
 420,Villa,Snerlevej 3,5560, Aarup,138500 ,19-03-2006,Alm. Salg,166,834,5,2007,
 420,Villa,Glenshøjparken 72,5620, Glamsbjerg,1982500 ,18-03-2006,Alm. Salg,258,7684,9,1979,
-420,Ejerlejlighed,"Damgade 12, 1",5610, Assens,5850000 ,16-03-2006,Alm. Salg,68,86029,3,1932,
-420,Ejerlejlighed,"Damgade 12, 2",5610, Assens,5850000 ,16-03-2006,Alm. Salg,48,121875,2,1932,
-420,Ejerlejlighed,"Willemoesgade 1A, st",5610, Assens,5850000 ,16-03-2006,Alm. Salg,52,112500,2,1932,
-420,Ejerlejlighed,"Willemoesgade 1A, 1. th",5610, Assens,5850000 ,16-03-2006,Alm. Salg,108,54167,4,1932,
-420,Ejerlejlighed,"Willemoesgade 1A, st. tv",5610, Assens,5850000 ,16-03-2006,Alm. Salg,56,104464,2,1932,
-420,Ejerlejlighed,"Willemoesgade 1A, 1. tv",5610, Assens,5850000 ,16-03-2006,Alm. Salg,136,43015,4,1932,
-420,Ejerlejlighed,"Willemoesgade 1A, st. th",5610, Assens,5850000 ,16-03-2006,Alm. Salg,77,75974,2,1932,
-420,Ejerlejlighed,"Willemoesgade 1A, 2. th",5610, Assens,5850000 ,16-03-2006,Alm. Salg,115,50870,4,1932,
-420,Ejerlejlighed,"Willemoesgade 1A, 2. tv",5610, Assens,5850000 ,16-03-2006,Alm. Salg,134,43657,4,1932,
 420,Villa,Grindsmosevej 4,5610, Assens,500000 ,16-03-2006,Alm. Salg,185,2703,7,1860,
 420,Villa,Hegnslyst 21,5683, Haarby,242949 ,16-03-2006,Alm. Salg,143,1699,5,2007,
 420,Villa,Skolevej 20,5683, Haarby,895000 ,16-03-2006,Alm. Salg,90,9944,3,1948,
@@ -9930,16 +9807,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Årøvænget 6,5610, Assens,254100 ,13-03-2006,Alm. Salg,157,1618,6,2007,
 420,Villa,Pilevænget 8,5620, Glamsbjerg,1350000 ,12-03-2006,Alm. Salg,153,8824,5,1972,
 420,Villa,Kirkevej 17,5690, Tommerup,1435500 ,11-03-2006,Alm. Salg,154,9321,5,1920,
-420,Rækkehus,Bredgade 81A,5560, Aarup,1100000 ,10-03-2006,Alm. Salg,114,9649,3,1875,
 420,Villa,Duevænget 1,5610, Assens,1350000 ,10-03-2006,Alm. Salg,222,6081,8,1976,
 420,Villa,Ebberupvej 25,5631, Ebberup,2800000 ,10-03-2006,Alm. Salg,145,19310,3,1932,
 420,Villa,Engelsvej 11,5610, Assens,2025000 ,09-03-2006,Alm. Salg,275,7364,8,1886,
 420,Rækkehus,Lindevænget 6B,5620, Glamsbjerg,1070000 ,08-03-2006,Alm. Salg,56,19107,1,1978,
-420,Ejerlejlighed,Korsgade 1,5610, Assens,7250000 ,08-03-2006,Alm. Salg,110,65909,3,1847,
-420,Ejerlejlighed,"Østergade 27, 1. th",5610, Assens,7250000 ,08-03-2006,Alm. Salg,130,55769,4,1847,
-420,Ejerlejlighed,"Østergade 27, 1. tv",5610, Assens,7250000 ,08-03-2006,Alm. Salg,148,48986,6,1847,
-420,Ejerlejlighed,"Korsgade 1A, 1",5610, Assens,7250000 ,08-03-2006,Alm. Salg,84,86310,2,1847,
-420,Ejerlejlighed,"Korsgade 1A, st",5610, Assens,7250000 ,08-03-2006,Alm. Salg,95,76316,2,1847,
 420,Villa,Kamgårdsvej 60,5690, Tommerup,159450 ,08-03-2006,Alm. Salg,161,990,6,2006,
 420,Villa,Torpvej 27,5560, Aarup,250000 ,07-03-2006,Alm. Salg,74,3378,4,1902,
 420,Villa,Teglværksvej 1,5492, Vissenbjerg,405000 ,07-03-2006,Alm. Salg,91,4451,3,1870,
@@ -10003,7 +9874,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Sortenkærvej 38,5492, Vissenbjerg,1802000 ,12-02-2006,Alm. Salg,355,5076,7,1859,
 420,Villa,Højvang 6,5560, Aarup,680000 ,12-02-2006,Alm. Salg,112,6071,3,1969,
 420,Villa,Snavevej 24,5683, Haarby,440000 ,10-02-2006,Alm. Salg,103,4272,4,1890,
-420,Rækkehus,Møllevej 5A,5492, Vissenbjerg,1250000 ,09-02-2006,Alm. Salg,39,32051,1,1948,
 420,Villa,Svanevej 42,5492, Vissenbjerg,1349000 ,09-02-2006,Alm. Salg,120,11242,6,1971,
 420,Villa,Strandgade 16A,5683, Haarby,800000 ,09-02-2006,Alm. Salg,105,7619,4,1960,
 420,Villa,Skovbrynet 35,5620, Glamsbjerg,150000 ,09-02-2006,Alm. Salg,194,773,6,2006,
@@ -10094,7 +9964,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Hejrevænget 1,5610, Assens,807500 ,02-01-2006,Fam. Salg,143,5647,5,1972,
 420,Villa,Vestergade 66,5492, Vissenbjerg,1100000 ,02-01-2006,Alm. Salg,160,6875,5,1930,
 420,Villa,Kirke Søbyvej 56,5610, Assens,264147 ,02-01-2006,Alm. Salg,216,1223,5,1900,
-420,Villa,Ved Stranden 40A,5610, Assens,561000 ,01-01-2006,Fam. Salg,37,15162,2,1907,
 420,Villa,Jacob Gades Vej 31,5610, Assens,52700 ,01-01-2006,Alm. Salg,176,299,5,1910,
 420,Villa,Skovbrynet 39,5620, Glamsbjerg,325500 ,01-01-2006,Alm. Salg,208,1565,6,2006,
 420,Villa,Skovbrynet 15,5620, Glamsbjerg,207060 ,01-01-2006,Alm. Salg,140,1479,6,2007,
@@ -10199,7 +10068,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Ladegårde 27,5560, Aarup,595000 ,22-11-2005,Alm. Salg,107,5561,4,1951,
 420,Rækkehus,Østergade 124,5610, Assens,646000 ,21-11-2005,Fam. Salg,102,6333,4,1892,
 420,Rækkehus,Gartnervænget 20,5690, Tommerup,753000 ,21-11-2005,Alm. Salg,102,7382,4,1981,
-420,Rækkehus,Vestergade 5,5560, Aarup,250000 ,21-11-2005,Alm. Salg,140,1786,5,1871,
 420,Villa,Sømarksvej 2,5610, Assens,1495000 ,21-11-2005,Alm. Salg,193,7746,6,1900,
 420,Villa,Fuglebakken 2,5690, Tommerup,1275000 ,21-11-2005,Alm. Salg,130,9808,6,1969,
 420,Villa,Østergade 5,5560, Aarup,750000 ,21-11-2005,Alm. Salg,150,5000,7,1912,
@@ -10752,12 +10620,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Solvænget 5,5690, Tommerup,750000 ,09-05-2005,Alm. Salg,128,5859,5,1968,
 420,Villa,Kirkebakken 23,5631, Ebberup,1232500 ,09-05-2005,Alm. Salg,153,8056,5,1997,
 420,Villa,Krengerupvej 38,5620, Glamsbjerg,1550000 ,09-05-2005,Andet,342,4532,9,1981,
-420,Ejerlejlighed,"Bogensevej 164, st. th",5620, Glamsbjerg,1495000 ,08-05-2005,Alm. Salg,95,15737,3,1911,
-420,Ejerlejlighed,"Bogensevej 164, st. tv",5620, Glamsbjerg,1495000 ,08-05-2005,Alm. Salg,100,14950,3,1911,
-420,Ejerlejlighed,"Bogensevej 164, 1. th",5620, Glamsbjerg,1495000 ,08-05-2005,Alm. Salg,66,22652,2,1911,
-420,Ejerlejlighed,"Bogensevej 164, 1. tv",5620, Glamsbjerg,1495000 ,08-05-2005,Alm. Salg,61,24508,2,1911,
-420,Ejerlejlighed,"Chr. Richardtsvej 2, 1",5620, Glamsbjerg,1495000 ,08-05-2005,Alm. Salg,65,23000,3,1911,
-420,Ejerlejlighed,"Chr. Richardtsvej 2, st",5620, Glamsbjerg,1495000 ,08-05-2005,Alm. Salg,72,20764,3,1911,
 420,Villa,Aborgvej 48,5610, Assens,720000 ,08-05-2005,Alm. Salg,146,4932,8,1900,
 420,Villa,Kildebjerggård 34,5690, Tommerup,1935000 ,08-05-2005,Alm. Salg,158,12247,5,1997,
 420,Villa,Østergaardsvej 67,5683, Haarby,920000 ,08-05-2005,Alm. Salg,108,8519,3,1989,
@@ -10885,8 +10747,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Sydmarksvej 65,5690, Tommerup,467500 ,25-03-2005,Fam. Salg,100,4675,3,1850,
 420,Rækkehus,Teglbakken 31B,5690, Tommerup,412500 ,23-03-2005,Andet,80,5156,3,1986,
 420,Villa,Askevænget 2,5690, Tommerup,1195000 ,23-03-2005,Alm. Salg,168,7113,6,1975,
-420,Rækkehus,Krogen 8A,5631, Ebberup,580000 ,22-03-2005,Fam. Salg,103,5631,3,1908,
-420,Villa,Krogen 8,5631, Ebberup,580000 ,22-03-2005,Fam. Salg,174,3333,6,1860,
 420,Villa,Solgårdsvej 9,5492, Vissenbjerg,414518 ,22-03-2005,Fam. Salg,114,3636,4,1972,
 420,Villa,Solgårdsvej 13,5492, Vissenbjerg,770000 ,22-03-2005,Alm. Salg,120,6417,4,1973,
 420,Villa,Stærmosevej 156,5690, Tommerup,2250000 ,22-03-2005,Alm. Salg,265,8491,7,2001,
@@ -10960,11 +10820,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Rosenvænget 13,5620, Glamsbjerg,875000 ,26-02-2005,Alm. Salg,114,7675,4,1973,
 420,Villa,Akkerupvej 75,5683, Haarby,440000 ,26-02-2005,Alm. Salg,126,3492,3,2009,
 420,Villa,Helnæs Byvej 52B,5631, Ebberup,30000 ,26-02-2005,Alm. Salg,249,120,6,2014,
-420,Ejerlejlighed,"Stationsvej 11, st",5690, Tommerup,1470000 ,24-02-2005,Alm. Salg,93,15806,4,1925,
 420,Villa,Græsholmvænget 3,5610, Assens,289125 ,24-02-2005,Alm. Salg,219,1320,7,2006,
 420,Villa,Trunderupvej 66,5683, Haarby,825000 ,24-02-2005,Alm. Salg,100,8250,5,1820,
 420,Villa,Andebøllevej 73,5492, Vissenbjerg,750000 ,24-02-2005,Alm. Salg,140,5357,5,1970,
-420,Villa,"Stationsvej 11, 1",5690, Tommerup,1470000 ,24-02-2005,Alm. Salg,154,9545,5,1925,
 420,Rækkehus,Møllerhuse 15,5610, Assens,500000 ,23-02-2005,Alm. Salg,58,8621,2,1777,
 420,Villa,Rosenparken 1,5620, Glamsbjerg,400000 ,23-02-2005,Alm. Salg,180,2222,4,2006,
 420,Villa,Snaven 1,5631, Ebberup,1535000 ,23-02-2005,Alm. Salg,210,7310,6,1880,
@@ -11104,7 +10962,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Ahornvænget 5,5690, Tommerup,998000 ,19-12-2004,Alm. Salg,139,7180,6,1971,
 420,Rækkehus,Gyvelvænget 1,5690, Tommerup,640000 ,18-12-2004,Alm. Salg,72,8889,3,1981,
 420,Villa,Kildebjerggård 38,5690, Tommerup,725000 ,18-12-2004,Alm. Salg,227,3194,8,1995,
-420,Villa,Bredgade 8,5492, Vissenbjerg,241549 ,17-12-2004,Andet,62,3896,2,1890,
 420,Villa,Violvej 1,5690, Tommerup,990000 ,16-12-2004,Fam. Salg,166,5964,5,1969,
 420,Villa,Baronvej 2A,5610, Assens,734437 ,16-12-2004,Andet,138,5322,4,1939,
 420,Villa,Kildebjerggård 32,5690, Tommerup,1570000 ,15-12-2004,Alm. Salg,144,10903,5,1996,
@@ -11171,7 +11028,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Nørre Alle 61,5610, Assens,695000 ,28-11-2004,Alm. Salg,84,8274,4,1952,
 420,Villa,Aborgvej 31,5610, Assens,350000 ,28-11-2004,Fam. Salg,50,7000,2,1953,
 420,Villa,Solvænget 22,5690, Tommerup,1325000 ,28-11-2004,Alm. Salg,207,6401,7,1969,
-420,Rækkehus,Adelgade 28C,5610, Assens,1800000 ,27-11-2004,Alm. Salg,55,32727,2,1800,
 420,Villa,Rønnevej 17,5492, Vissenbjerg,1075000 ,27-11-2004,Alm. Salg,192,5599,4,1969,
 420,Villa,Liljevænget 7,5610, Assens,1135000 ,25-11-2004,Alm. Salg,134,8470,5,1988,
 420,Villa,Lindholmvænget 3,5610, Assens,350000 ,25-11-2004,Alm. Salg,187,1872,6,2005,
@@ -11185,7 +11041,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Pilehøjen 4,5631, Ebberup,1099000 ,23-11-2004,Alm. Salg,194,5665,5,1976,
 420,Villa,Kamgårdsvej 78,5690, Tommerup,170000 ,23-11-2004,Alm. Salg,128,1328,4,2005,
 420,Villa,Erholmvej 6,5560, Aarup,825000 ,21-11-2004,Alm. Salg,90,9167,4,1949,
-420,Villa,Bjelkevej 7A,5690, Tommerup,407635 ,21-11-2004,Andet,133,3065,5,1938,
 420,Villa,Snavevej 21,5683, Haarby,462500 ,19-11-2004,Alm. Salg,81,5710,5,1900,
 420,Villa,Højvænget 9,5610, Assens,975000 ,18-11-2004,Alm. Salg,153,6373,5,1971,
 420,Villa,Munkevænget 1,5492, Vissenbjerg,925000 ,18-11-2004,Alm. Salg,230,4022,9,1928,
@@ -11238,8 +11093,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Duevænget 2,5610, Assens,1080000 ,25-10-2004,Alm. Salg,143,7552,5,1977,
 420,Villa,Enebærvej 16,5620, Glamsbjerg,670000 ,25-10-2004,Fam. Salg,163,4110,4,1976,
 420,Rækkehus,Kærsangervænget 1,5610, Assens,466325 ,24-10-2004,Alm. Salg,60,7772,2,1976,
-420,Rækkehus,Østergade 6B,5560, Aarup,1400000 ,24-10-2004,Alm. Salg,103,13592,3,1900,
-420,Rækkehus,Møllevej 5A,5492, Vissenbjerg,1175000 ,24-10-2004,Alm. Salg,39,30128,1,1948,
 420,Villa,Svanevej 26,5492, Vissenbjerg,1250000 ,24-10-2004,Alm. Salg,186,6720,6,1966,
 420,Villa,Søbo Løkker 16,5683, Haarby,603299 ,24-10-2004,Alm. Salg,94,6418,3,1850,
 420,Villa,Skovbakken 1,5560, Aarup,830000 ,24-10-2004,Alm. Salg,173,4798,4,1928,
@@ -11489,16 +11342,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Æblehaven 47,5560, Aarup,1325000 ,03-06-2004,Alm. Salg,180,7361,5,1985,
 420,Villa,Akkerupvej 63,5683, Haarby,900000 ,03-06-2004,Alm. Salg,231,3896,4,1800,
 420,Rækkehus,Adelgade 37,5610, Assens,735000 ,02-06-2004,Alm. Salg,82,8963,3,1882,
-420,Ejerlejlighed,"Strandgade 2, 1. th",5610, Assens,2850000 ,02-06-2004,Alm. Salg,64,44531,3,1810,
-420,Ejerlejlighed,"Strandgade 2, st. tv",5610, Assens,2850000 ,02-06-2004,Alm. Salg,43,66279,2,1810,
-420,Ejerlejlighed,"Strandgade 2, 1. tv",5610, Assens,2850000 ,02-06-2004,Alm. Salg,43,66279,2,1810,
-420,Ejerlejlighed,"Strandgade 2, st. th",5610, Assens,2850000 ,02-06-2004,Alm. Salg,67,42537,2,1810,
-420,Ejerlejlighed,"Ramsherred 1A, 1. th",5610, Assens,2850000 ,02-06-2004,Alm. Salg,87,32759,2,1810,
-420,Ejerlejlighed,"Ramsherred 1A, 1. tv",5610, Assens,2850000 ,02-06-2004,Alm. Salg,45,63333,2,1810,
-420,Ejerlejlighed,"Ramsherred 1, st",5610, Assens,2850000 ,02-06-2004,Alm. Salg,34,83824,1,1810,
-420,Ejerlejlighed,"Ramsherred 1A, st. tv",5610, Assens,2850000 ,02-06-2004,Alm. Salg,47,60638,2,1810,
-420,Ejerlejlighed,"Ramsherred 1, 1",5610, Assens,2850000 ,02-06-2004,Alm. Salg,41,69512,2,1810,
-420,Ejerlejlighed,"Ramsherred 1A, st. th",5610, Assens,2850000 ,02-06-2004,Alm. Salg,31,91935,1,1810,
 420,Villa,Under Bankerne 5,5492, Vissenbjerg,600000 ,02-06-2004,Alm. Salg,84,7143,2,2010,
 420,Villa,Græsholmvænget 3,5610, Assens,289125 ,01-06-2004,Alm. Salg,219,1320,7,2006,
 420,Villa,Mads Hansensgade 29,5690, Tommerup,710000 ,31-05-2004,Alm. Salg,112,6339,4,1964,
@@ -11699,11 +11542,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Bakkevej 14,5683, Haarby,748816 ,15-03-2004,Alm. Salg,106,7064,4,1961,
 420,Villa,Industrivænget 4,5610, Assens,1385000 ,15-03-2004,Alm. Salg,273,5073,7,1972,
 420,Villa,Krengerupvej 20,5690, Tommerup,1250000 ,15-03-2004,Alm. Salg,226,5531,7,1928,
-420,Ejerlejlighed,"Stationsvej 11, st",5690, Tommerup,643000 ,14-03-2004,Alm. Salg,93,6914,4,1925,
 420,Villa,Landø 56,5683, Haarby,540000 ,14-03-2004,Alm. Salg,109,4954,4,1870,
 420,Villa,Søvangen 7,5631, Ebberup,1200000 ,14-03-2004,Alm. Salg,170,7059,5,1770,
 420,Villa,Højrupvej 38,5620, Glamsbjerg,925000 ,14-03-2004,Alm. Salg,113,8186,3,1963,
-420,Villa,"Stationsvej 11, 1",5690, Tommerup,643000 ,14-03-2004,Alm. Salg,154,4175,5,1925,
 420,Villa,Hjerupvej 7,5560, Aarup,675000 ,13-03-2004,Alm. Salg,144,4688,3,1960,
 420,Ejerlejlighed,Langgade 65A,5620, Glamsbjerg,945000 ,12-03-2004,Alm. Salg,113,8363,4,1956,
 420,Villa,Irisvænget 3,5560, Aarup,725000 ,11-03-2004,Alm. Salg,122,5943,4,1978,
@@ -11893,7 +11734,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Lilleskovvej 60,5690, Tommerup,699000 ,30-11-2003,Alm. Salg,93,7516,4,1951,
 420,Rækkehus,Fuglekildevej 103,5690, Tommerup,504865 ,29-11-2003,Alm. Salg,69,7317,3,1959,
 420,Villa,Lyngmosen 3,5492, Vissenbjerg,50634 ,27-11-2003,Alm. Salg,135,375,5,2005,
-420,Rækkehus,Østergade 31B,5610, Assens,2675000 ,26-11-2003,Alm. Salg,130,20577,4,1877,
 420,Villa,Søndergade 66,5620, Glamsbjerg,630000 ,26-11-2003,Alm. Salg,129,4884,3,1961,
 420,Villa,Rosenvænget 22,5620, Glamsbjerg,953129 ,26-11-2003,Alm. Salg,141,6760,4,1973,
 420,Villa,Skærendsvej 5,5683, Haarby,823000 ,26-11-2003,Alm. Salg,111,7414,3,1946,
@@ -12095,12 +11935,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Mosevej 23,5492, Vissenbjerg,325000 ,28-08-2003,Alm. Salg,80,4063,4,1900,
 420,Villa,Kelstrupvej 31,5492, Vissenbjerg,1280000 ,28-08-2003,Alm. Salg,271,4723,8,1872,
 420,Villa,Dolevej 27,5620, Glamsbjerg,435000 ,28-08-2003,Alm. Salg,121,3595,3,1902,
-420,Rækkehus,Tallerupvej 73B,5690, Tommerup,507000 ,27-08-2003,Auktion,27,18778,1,1968,
 420,Villa,Krengerupvej 109,5690, Tommerup,740000 ,27-08-2003,Alm. Salg,131,5649,6,1990,
 420,Villa,Maevej 27,5690, Tommerup,765000 ,27-08-2003,Alm. Salg,164,4665,7,1962,
 420,Villa,Lykkegårdsvej 4,5492, Vissenbjerg,750000 ,27-08-2003,Alm. Salg,109,6881,4,1971,
 420,Villa,Mejerivej 8,5620, Glamsbjerg,300000 ,27-08-2003,Alm. Salg,173,1734,6,1957,
-420,Villa,Tallerupvej 73C,5690, Tommerup,507000 ,27-08-2003,Auktion,144,3521,4,1835,
 420,Villa,Kappelvænget 26,5620, Glamsbjerg,850000 ,27-08-2003,Alm. Salg,149,5705,5,1979,
 420,Villa,Faaborgvej 25,5683, Haarby,342500 ,27-08-2003,Alm. Salg,130,2635,5,1877,
 420,Villa,Kivsmosevej 15,5690, Tommerup,380501 ,27-08-2003,Alm. Salg,209,1821,7,1777,
@@ -12281,11 +12119,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Rækkehus,Drosselvænget 2,5610, Assens,519000 ,20-05-2003,Alm. Salg,60,8650,2,1976,
 420,Rækkehus,Torvegade 31,5690, Tommerup,685000 ,19-05-2003,Alm. Salg,82,8354,3,1980,
 420,Villa,Hyldegårdsvænget 2,5690, Tommerup,1100000 ,19-05-2003,Alm. Salg,142,7746,4,1973,
-420,Rækkehus,Hønnerupvej 94,5560, Aarup,845000 ,18-05-2003,Alm. Salg,121,6983,4,1800,
 420,Rækkehus,Østergade 68,5610, Assens,500000 ,18-05-2003,Andet,105,4762,5,1916,
 420,Villa,Frøbjergvej 45,5560, Aarup,400000 ,18-05-2003,Alm. Salg,80,5000,3,1852,
 420,Villa,Parkvej 24,5492, Vissenbjerg,995000 ,18-05-2003,Alm. Salg,135,7370,3,1976,
-420,Villa,Hønnerupvej 94,5560, Aarup,845000 ,18-05-2003,Alm. Salg,138,6123,5,1777,
 420,Villa,Gravergyden 17,5690, Tommerup,385000 ,17-05-2003,Alm. Salg,116,3319,6,1887,
 420,Villa,Ravnekærvej 85,5631, Ebberup,290000 ,15-05-2003,Fam. Salg,85,3412,3,1770,
 420,Villa,Egevænget 4,5631, Ebberup,675000 ,14-05-2003,Alm. Salg,100,6750,4,1970,
@@ -12326,8 +12162,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Bystævnevej 7,5610, Assens,635822 ,18-04-2003,Alm. Salg,114,5577,4,1890,
 420,Villa,Strandgade 64,5683, Haarby,1150000 ,16-04-2003,Alm. Salg,136,8456,5,1943,
 420,Villa,Mejerivej 2,5610, Assens,800000 ,15-04-2003,Alm. Salg,142,5634,4,1974,
-420,Rækkehus,Grambovej 2,5690, Tommerup,1700000 ,13-04-2003,Alm. Salg,206,5215,5,1936,
-420,Villa,Grambovej 2,5690, Tommerup,1700000 ,13-04-2003,Alm. Salg,224,7589,6,1927,
 420,Villa,Skovvangsvej 12,5610, Assens,600000 ,13-04-2003,Alm. Salg,182,3297,5,2015,
 420,Villa,Cederfeldsgade 11,5560, Aarup,865000 ,12-04-2003,Alm. Salg,174,4971,3,1905,
 420,Villa,Kirkebjergvej 38,5620, Glamsbjerg,495000 ,11-04-2003,Fam. Salg,88,5625,3,1954,
@@ -12398,8 +12232,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Kirsebærhaven 41,5560, Aarup,185451 ,11-03-2003,Alm. Salg,144,1288,5,2003,
 420,Rækkehus,Østergade 80A,5610, Assens,525000 ,10-03-2003,Alm. Salg,85,6176,2,1850,
 420,Villa,Tjørnevænget 10,5690, Tommerup,750000 ,10-03-2003,Alm. Salg,105,7143,4,1973,
-420,Rækkehus,Tallerupvej 17A,5690, Tommerup,800000 ,09-03-2003,Alm. Salg,48,16667,3,1993,
-420,Ejerlejlighed,"Tallerupvej 17, 1",5690, Tommerup,800000 ,09-03-2003,Alm. Salg,103,7767,5,1900,
 420,Villa,Langstedgyden 36,5610, Assens,650000 ,09-03-2003,Fam. Salg,193,3368,8,1850,
 420,Villa,Krengerupvej 107,5690, Tommerup,1074750 ,09-03-2003,Alm. Salg,140,7677,5,1930,
 420,Villa,Brunsegyden 17,5690, Tommerup,340000 ,09-03-2003,Fam. Salg,79,4304,4,1900,
@@ -12644,18 +12476,14 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Søvangen 35,5631, Ebberup,593000 ,03-10-2002,Alm. Salg,107,5542,3,1907,
 420,Villa,Skovstrupvej 48,5690, Tommerup,612000 ,03-10-2002,Alm. Salg,160,3825,6,1875,
 420,Villa,Lindhovedvej 11,5631, Ebberup,875000 ,02-10-2002,Alm. Salg,119,7353,5,1850,
-420,Villa,Skovvangsvej 48,5610, Assens,625000 ,02-10-2002,Alm. Salg,232,2306,5,2022,
 420,Rækkehus,Bredgade 12,5560, Aarup,445000 ,01-10-2002,Alm. Salg,62,7177,3,1880,
 420,Villa,Chr. Richardtsvej 38,5620, Glamsbjerg,735000 ,01-10-2002,Alm. Salg,122,6025,4,1963,
 420,Villa,Spangevej 24,5683, Haarby,1265000 ,01-10-2002,Alm. Salg,260,4865,10,1971,
 420,Villa,Aborgvej 17,5610, Assens,540998 ,01-10-2002,Alm. Salg,106,5104,4,1966,
-420,Rækkehus,Østergade 6B,5560, Aarup,75000 ,30-09-2002,Alm. Salg,103,728,3,1900,
 420,Villa,Havremarken 8,5492, Vissenbjerg,1285000 ,30-09-2002,Alm. Salg,148,8682,5,1997,
-420,Rækkehus,Kelstrupvej 72B,5492, Vissenbjerg,1020000 ,29-09-2002,Fam. Salg,172,5930,3,1946,
 420,Villa,Helnæs Byvej 69,5631, Ebberup,664086 ,29-09-2002,Alm. Salg,85,7813,5,1865,
 420,Villa,Bogensevej 186,5620, Glamsbjerg,830000 ,29-09-2002,Alm. Salg,155,5355,4,1922,
 420,Villa,Andebøllevej 37,5492, Vissenbjerg,1115000 ,29-09-2002,Alm. Salg,182,6126,4,1753,
-420,Villa,Kelstrupvej 72A,5492, Vissenbjerg,1020000 ,29-09-2002,Fam. Salg,176,5426,7,1955,
 420,Villa,Gammellundvej 24,5492, Vissenbjerg,417073 ,28-09-2002,Alm. Salg,122,3419,7,1875,
 420,Villa,Assensvej 12,5620, Glamsbjerg,690000 ,28-09-2002,Alm. Salg,171,4035,5,1927,
 420,Villa,Duevænget 7,5610, Assens,1200000 ,27-09-2002,Auktion,189,6349,5,1976,
@@ -12783,7 +12611,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Stentevej 18,5610, Assens,895000 ,18-07-2002,Alm. Salg,101,8861,4,1960,
 420,Rækkehus,Ramsherred 3,5610, Assens,819000 ,17-07-2002,Alm. Salg,106,7726,3,1700,
 420,Villa,Nårupvej 24,5620, Glamsbjerg,1495000 ,17-07-2002,Alm. Salg,280,5339,7,1902,
-420,Rækkehus,"Skolevej 1A, st. tv",5620, Glamsbjerg,606884 ,16-07-2002,Andet,101,6009,3,1957,
 420,Villa,Uglebjergvej 12,5560, Aarup,863000 ,15-07-2002,Alm. Salg,120,7192,4,1972,
 420,Villa,Nedermarken 6,5560, Aarup,573621 ,14-07-2002,Alm. Salg,128,4481,5,1900,
 420,Villa,Eriksvej 5,5610, Assens,975000 ,14-07-2002,Alm. Salg,149,6544,4,1974,
@@ -12943,7 +12770,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Svinget 13,5560, Aarup,820000 ,30-04-2002,Andet,125,6560,4,1975,
 420,Villa,Dyrevænget 1,5631, Ebberup,1133368 ,30-04-2002,Alm. Salg,230,4928,9,1923,
 420,Villa,Akkerupvej 49,5683, Haarby,1250000 ,30-04-2002,Alm. Salg,305,4098,10,1876,
-420,Villa,Bjelkevej 7A,5690, Tommerup,1135000 ,29-04-2002,Alm. Salg,133,8534,5,1938,
 420,Villa,Skovvangen 19,5683, Haarby,760000 ,28-04-2002,Alm. Salg,149,5101,5,1972,
 420,Villa,Magtenbøllevej 4,5492, Vissenbjerg,866000 ,28-04-2002,Alm. Salg,120,7217,4,1964,
 420,Villa,Rønnevej 3,5620, Glamsbjerg,435000 ,25-04-2002,Alm. Salg,98,4439,4,1950,
@@ -13570,7 +13396,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Nyvej 39,5690, Tommerup,925000 ,20-05-2001,Alm. Salg,130,7115,5,1980,
 420,Villa,Ellevangen 7,5683, Haarby,374687 ,20-05-2001,Alm. Salg,140,2676,4,1973,
 420,Rækkehus,Ladegårdsgade 36,5610, Assens,509973 ,19-05-2001,Alm. Salg,57,8947,3,1875,
-420,Rækkehus,Søndergade 37A,5620, Glamsbjerg,1220092 ,18-05-2001,Alm. Salg,90,13557,3,1890,
 420,Villa,Ravnekærvej 34,5631, Ebberup,760000 ,18-05-2001,Alm. Salg,168,4524,6,1900,
 420,Villa,Hesbjergvej 8,5610, Assens,835000 ,17-05-2001,Alm. Salg,198,4217,4,1929,
 420,Villa,Østergaardsvej 125,5683, Haarby,189376 ,17-05-2001,Alm. Salg,128,1480,4,2002,
@@ -13666,7 +13491,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Vandværksvej 1,5683, Haarby,210000 ,03-04-2001,Alm. Salg,100,2100,5,1830,
 420,Villa,Kærvangen 7,5610, Assens,494626 ,02-04-2001,Alm. Salg,134,3691,6,1966,
 420,Villa,Christiansmindevej 2,5690, Tommerup,672503 ,02-04-2001,Alm. Salg,107,6285,4,1908,
-420,Villa,Lilleskovvej 22A,5690, Tommerup,750000 ,02-04-2001,Fam. Salg,142,5282,4,1948,
 420,Villa,Odensevej 140,5492, Vissenbjerg,662000 ,01-04-2001,Alm. Salg,99,6687,6,1927,
 420,Villa,Kirkevej 2,5690, Tommerup,591270 ,01-04-2001,Alm. Salg,101,5854,3,1952,
 420,Villa,Kløvermarken 64,5492, Vissenbjerg,975000 ,01-04-2001,Alm. Salg,193,5052,8,1978,
@@ -13769,16 +13593,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Klaregade 20,5620, Glamsbjerg,810000 ,16-02-2001,Alm. Salg,140,5786,5,1972,
 420,Rækkehus,Møllevej 14,5610, Assens,620444 ,15-02-2001,Alm. Salg,78,7954,3,1905,
 420,Villa,Skovvænget 8,5620, Glamsbjerg,542480 ,15-02-2001,Alm. Salg,299,1814,8,2001,
-420,Ejerlejlighed,"Strandgade 2, 1. th",5610, Assens,2583164 ,14-02-2001,Alm. Salg,64,40362,3,1810,
-420,Ejerlejlighed,"Strandgade 2, st. tv",5610, Assens,2583164 ,14-02-2001,Alm. Salg,43,60074,2,1810,
-420,Ejerlejlighed,"Strandgade 2, 1. tv",5610, Assens,2583164 ,14-02-2001,Alm. Salg,43,60074,2,1810,
-420,Ejerlejlighed,"Strandgade 2, st. th",5610, Assens,2583164 ,14-02-2001,Alm. Salg,67,38555,2,1810,
-420,Ejerlejlighed,"Ramsherred 1A, 1. th",5610, Assens,2583164 ,14-02-2001,Alm. Salg,87,29692,2,1810,
-420,Ejerlejlighed,"Ramsherred 1A, 1. tv",5610, Assens,2583164 ,14-02-2001,Alm. Salg,45,57404,2,1810,
-420,Ejerlejlighed,"Ramsherred 1, st",5610, Assens,2583164 ,14-02-2001,Alm. Salg,34,75975,1,1810,
-420,Ejerlejlighed,"Ramsherred 1A, st. tv",5610, Assens,2583164 ,14-02-2001,Alm. Salg,47,54961,2,1810,
-420,Ejerlejlighed,"Ramsherred 1, 1",5610, Assens,2583164 ,14-02-2001,Alm. Salg,41,63004,2,1810,
-420,Ejerlejlighed,"Ramsherred 1A, st. th",5610, Assens,2583164 ,14-02-2001,Alm. Salg,31,83328,1,1810,
 420,Villa,Lærkevej 14,5620, Glamsbjerg,550430 ,14-02-2001,Fam. Salg,105,5242,4,1967,
 420,Villa,Lungerne 8,5560, Aarup,430000 ,14-02-2001,Alm. Salg,110,3909,4,1961,
 420,Villa,Rønnevej 5,5620, Glamsbjerg,570000 ,12-02-2001,Alm. Salg,110,5182,4,1951,
@@ -14314,8 +14128,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Odensevej 34,5620, Glamsbjerg,1200000 ,09-05-2000,Alm. Salg,244,4918,5,2012,
 420,Villa,Hellen 4,5683, Haarby,622620 ,08-05-2000,Alm. Salg,135,4612,3,1873,
 420,Villa,Strandgade 103,5683, Haarby,476262 ,07-05-2000,Alm. Salg,59,8072,4,1960,
-420,Rækkehus,Bredgade 59B,5560, Aarup,896356 ,05-05-2000,Alm. Salg,22,40743,2,1892,
-420,Ejerlejlighed,"Bredgade 59A, 1",5560, Aarup,896356 ,05-05-2000,Alm. Salg,70,12805,2,1892,
 420,Villa,Toftedalsvej 4,5631, Ebberup,535392 ,05-05-2000,Alm. Salg,136,3937,5,1970,
 420,Villa,Fåborgvej 29,5620, Glamsbjerg,353829 ,04-05-2000,Alm. Salg,134,2641,5,1850,
 420,Villa,Aarupvej 23,5560, Aarup,41000 ,04-05-2000,Alm. Salg,123,333,3,1972,
@@ -14336,11 +14148,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Ebberupvej 63,5631, Ebberup,850000 ,25-04-2000,Alm. Salg,160,5313,4,1959,
 420,Villa,Sømarksvej 2,5610, Assens,475000 ,25-04-2000,Alm. Salg,193,2461,6,1900,
 420,Villa,Kelstrupvej 52,5492, Vissenbjerg,760000 ,25-04-2000,Alm. Salg,100,7600,4,1965,
-420,Ejerlejlighed,"Stationsvej 11, st",5690, Tommerup,1000000 ,24-04-2000,Alm. Salg,93,10753,4,1925,
 420,Villa,Bøgevej 50,5683, Haarby,1230000 ,24-04-2000,Alm. Salg,218,5642,8,1975,
 420,Villa,Kirkevej 23,5683, Haarby,458991 ,24-04-2000,Alm. Salg,116,3957,3,1959,
 420,Villa,Algade 50,5683, Haarby,725000 ,24-04-2000,Alm. Salg,129,5620,4,1935,
-420,Villa,"Stationsvej 11, 1",5690, Tommerup,1000000 ,24-04-2000,Alm. Salg,154,6494,5,1925,
 420,Villa,Middelfartvej 109,5610, Assens,816766 ,23-04-2000,Alm. Salg,169,4833,4,1928,
 420,Villa,Skalbjergvej 7,5492, Vissenbjerg,398000 ,21-04-2000,Alm. Salg,129,3085,5,1925,
 420,Rækkehus,Fåborgvej 67,5610, Assens,544364 ,18-04-2000,Alm. Salg,80,6805,3,1945,
@@ -14358,7 +14168,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Kildensmindevej 14,5610, Assens,392931 ,13-04-2000,Alm. Salg,84,4678,4,1947,
 420,Rækkehus,Dærup Grave 8,5620, Glamsbjerg,200000 ,12-04-2000,Alm. Salg,130,1538,4,1852,
 420,Villa,Østervang 3,5492, Vissenbjerg,1029564 ,11-04-2000,Alm. Salg,126,8171,6,1970,
-420,Rækkehus,Assensvej 19,5620, Glamsbjerg,923675 ,10-04-2000,Alm. Salg,103,8968,4,1913,
 420,Rækkehus,Ramsherred 40,5610, Assens,456823 ,10-04-2000,Alm. Salg,64,7138,3,1890,
 420,Villa,Andebøllevej 310,5492, Vissenbjerg,863000 ,10-04-2000,Alm. Salg,170,5076,6,1950,
 420,Villa,Søndersøvej 47,5492, Vissenbjerg,441184 ,10-04-2000,Alm. Salg,78,5656,3,1942,
@@ -14492,16 +14301,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Smedegyden 5,5620, Glamsbjerg,284273 ,07-02-2000,Andet,113,2516,5,1917,
 420,Villa,Ved Grotten 12,5610, Assens,1279061 ,06-02-2000,Alm. Salg,188,6804,7,1965,
 420,Villa,Kaslundvej 50,5560, Aarup,275000 ,03-02-2000,Alm. Salg,140,1964,7,1900,
-420,Ejerlejlighed,"Strandgade 2, 1. th",5610, Assens,2300000 ,02-02-2000,Alm. Salg,64,35938,3,1810,
-420,Ejerlejlighed,"Strandgade 2, st. tv",5610, Assens,2300000 ,02-02-2000,Alm. Salg,43,53488,2,1810,
-420,Ejerlejlighed,"Strandgade 2, 1. tv",5610, Assens,2300000 ,02-02-2000,Alm. Salg,43,53488,2,1810,
-420,Ejerlejlighed,"Strandgade 2, st. th",5610, Assens,2300000 ,02-02-2000,Alm. Salg,67,34328,2,1810,
-420,Ejerlejlighed,"Ramsherred 1A, 1. th",5610, Assens,2300000 ,02-02-2000,Alm. Salg,87,26437,2,1810,
-420,Ejerlejlighed,"Ramsherred 1A, 1. tv",5610, Assens,2300000 ,02-02-2000,Alm. Salg,45,51111,2,1810,
-420,Ejerlejlighed,"Ramsherred 1, st",5610, Assens,2300000 ,02-02-2000,Alm. Salg,34,67647,1,1810,
-420,Ejerlejlighed,"Ramsherred 1A, st. tv",5610, Assens,2300000 ,02-02-2000,Alm. Salg,47,48936,2,1810,
-420,Ejerlejlighed,"Ramsherred 1, 1",5610, Assens,2300000 ,02-02-2000,Alm. Salg,41,56098,2,1810,
-420,Ejerlejlighed,"Ramsherred 1A, st. th",5610, Assens,2300000 ,02-02-2000,Alm. Salg,31,74194,1,1810,
 420,Villa,Hegnslyst 7,5683, Haarby,396596 ,02-02-2000,Alm. Salg,308,1288,7,2000,
 420,Villa,Strandbyvej 45,5683, Haarby,217062 ,01-02-2000,Fam. Salg,127,1709,5,1962,
 420,Villa,Nørregade 67,5620, Glamsbjerg,885000 ,01-02-2000,Alm. Salg,102,8676,5,1948,
@@ -14536,15 +14335,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Møllegyden 12,5610, Assens,297500 ,18-01-2000,Fam. Salg,105,2833,3,1952,
 420,Villa,Vestervangen 57,5690, Tommerup,1084696 ,18-01-2000,Alm. Salg,145,7481,5,1986,
 420,Villa,Trunderupvej 45,5683, Haarby,375000 ,18-01-2000,Alm. Salg,127,2953,4,1850,
-420,Ejerlejlighed,"Damgade 12, 1",5610, Assens,5150000 ,17-01-2000,Alm. Salg,68,75735,3,1932,
-420,Ejerlejlighed,"Damgade 12, 2",5610, Assens,5150000 ,17-01-2000,Alm. Salg,48,107292,2,1932,
-420,Ejerlejlighed,"Willemoesgade 1A, st",5610, Assens,5150000 ,17-01-2000,Alm. Salg,52,99038,2,1932,
-420,Ejerlejlighed,"Willemoesgade 1A, 1. th",5610, Assens,5150000 ,17-01-2000,Alm. Salg,108,47685,4,1932,
-420,Ejerlejlighed,"Willemoesgade 1A, st. tv",5610, Assens,5150000 ,17-01-2000,Alm. Salg,56,91964,2,1932,
-420,Ejerlejlighed,"Willemoesgade 1A, 1. tv",5610, Assens,5150000 ,17-01-2000,Alm. Salg,136,37868,4,1932,
-420,Ejerlejlighed,"Willemoesgade 1A, st. th",5610, Assens,5150000 ,17-01-2000,Alm. Salg,77,66883,2,1932,
-420,Ejerlejlighed,"Willemoesgade 1A, 2. th",5610, Assens,5150000 ,17-01-2000,Alm. Salg,115,44783,4,1932,
-420,Ejerlejlighed,"Willemoesgade 1A, 2. tv",5610, Assens,5150000 ,17-01-2000,Alm. Salg,134,38433,4,1932,
 420,Rækkehus,Fåborgvej 9,5610, Assens,450000 ,16-01-2000,Fam. Salg,108,4167,4,1930,
 420,Villa,Rugvænget 15,5492, Vissenbjerg,835000 ,16-01-2000,Alm. Salg,109,7661,2,1976,
 420,Villa,Chr. Richardtsvej 34,5620, Glamsbjerg,675000 ,16-01-2000,Alm. Salg,130,5192,3,1907,
@@ -14578,7 +14368,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Bredgade 39,5492, Vissenbjerg,520000 ,31-12-1999,Alm. Salg,136,3824,4,1900,
 420,Villa,Krengerupvej 53,5690, Tommerup,1308000 ,29-12-1999,Alm. Salg,260,5031,8,1827,
 420,Ejerlejlighed,Aarupvej 3B,5560, Aarup,612000 ,28-12-1999,Fam. Salg,85,7200,2,1973,
-420,Rækkehus,Odensevej 39,5620, Glamsbjerg,9879040 ,27-12-1999,Fam. Salg,324,29490,10,1859,
 420,Villa,Søllestedvej 1,5620, Glamsbjerg,600000 ,27-12-1999,Alm. Salg,166,3614,5,1965,
 420,Villa,Ulskovvej 9,5610, Assens,517026 ,26-12-1999,Alm. Salg,109,4743,3,1963,
 420,Ejerlejlighed,"Møllebakken 15, 1",5690, Tommerup,27200 ,25-12-1999,Alm. Salg,149,183,5,1900,
@@ -14662,7 +14451,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Rækkehus,Nørre Alle 23,5610, Assens,575000 ,16-11-1999,Alm. Salg,142,4049,4,1896,
 420,Villa,Ørsbjerg Skovvej 15,5560, Aarup,725000 ,16-11-1999,Alm. Salg,130,5577,4,1935,
 420,Villa,Feddet 1,5683, Haarby,681091 ,16-11-1999,Alm. Salg,215,3168,6,1900,
-420,Rækkehus,Bredgade 81A,5560, Aarup,33250 ,15-11-1999,Alm. Salg,114,292,3,1875,
 420,Villa,Søndergade 48,5492, Vissenbjerg,408000 ,15-11-1999,Fam. Salg,98,4163,4,1969,
 420,Villa,Bredgade 79,5560, Aarup,31500 ,15-11-1999,Andet,169,186,6,1900,
 420,Rækkehus,Gyvelvænget 1B,5690, Tommerup,555000 ,14-11-1999,Alm. Salg,72,7708,3,1981,
@@ -14687,12 +14475,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Mosevej 19,5492, Vissenbjerg,64000 ,07-11-1999,Alm. Salg,112,571,5,1972,
 420,Villa,Vestergade 12,5492, Vissenbjerg,775000 ,07-11-1999,Alm. Salg,197,2445,7,1925,
 420,Villa,Voldbrovej 1,5610, Assens,389960 ,07-11-1999,Alm. Salg,118,3305,5,1825,
-420,Villa,Odensevej 4A,5690, Tommerup,525000 ,07-11-1999,Alm. Salg,98,5357,4,1965,
 420,Villa,Herredsbjerg 8,5683, Haarby,486990 ,04-11-1999,Alm. Salg,81,6012,3,1961,
 420,Villa,Ladegård Mark 33,5560, Aarup,432995 ,03-11-1999,Andet,211,2052,8,1942,
 420,Villa,Bellisvej 14,5492, Vissenbjerg,605000 ,03-11-1999,Alm. Salg,76,7961,4,1951,
 420,Villa,Poppelvej 14,5492, Vissenbjerg,1066000 ,03-11-1999,Alm. Salg,180,5922,5,1974,
-420,Villa,Lilleskovvej 22A,5690, Tommerup,350000 ,03-11-1999,Alm. Salg,142,2465,4,1948,
 420,Villa,Søllestedvej 27,5620, Glamsbjerg,455000 ,02-11-1999,Alm. Salg,121,3760,4,1904,
 420,Villa,Parkvej 47,5492, Vissenbjerg,978471 ,02-11-1999,Alm. Salg,120,8154,4,1974,
 420,Rækkehus,Gartnervænget 23,5690, Tommerup,550000 ,01-11-1999,Alm. Salg,98,5612,4,1981,
@@ -14713,9 +14499,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Landevejen 70,5683, Haarby,655000 ,24-10-1999,Alm. Salg,130,5038,4,1939,
 420,Villa,Akkerupvej 10,5683, Haarby,550000 ,24-10-1999,Alm. Salg,100,5500,6,1936,
 420,Villa,Ryttergade 10,5690, Tommerup,875000 ,21-10-1999,Alm. Salg,160,5469,7,1903,
-420,Rækkehus,Krogen 8A,5631, Ebberup,500000 ,20-10-1999,Fam. Salg,103,4854,3,1908,
 420,Villa,Åhaven 21,5620, Glamsbjerg,48300 ,20-10-1999,Alm. Salg,177,273,7,2000,
-420,Villa,Krogen 8,5631, Ebberup,500000 ,20-10-1999,Fam. Salg,174,2874,6,1860,
 420,Villa,Skolevej 41,5690, Tommerup,588714 ,20-10-1999,Alm. Salg,115,5119,6,1904,
 420,Villa,Skelvænget 11,5610, Assens,160000 ,20-10-1999,Alm. Salg,163,982,6,2000,
 420,Villa,Brændholtvej 6,5560, Aarup,357000 ,20-10-1999,Alm. Salg,84,4250,3,1865,
@@ -15053,9 +14837,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Torupvej 14,5610, Assens,985000 ,04-06-1999,Alm. Salg,180,5472,6,1925,
 420,Villa,Ellevangen 9,5683, Haarby,831999 ,03-06-1999,Alm. Salg,114,7298,3,1973,
 420,Villa,Old Gyde 12,5620, Glamsbjerg,1425000 ,03-06-1999,Alm. Salg,100,10634,5,1959,
-420,Rækkehus,Tallerupvej 73B,5690, Tommerup,499000 ,02-06-1999,Alm. Salg,27,18481,1,1968,
 420,Villa,Mimosevænget 3,5610, Assens,882000 ,02-06-1999,Alm. Salg,130,6785,4,1979,
-420,Villa,Tallerupvej 73C,5690, Tommerup,499000 ,02-06-1999,Alm. Salg,144,3465,4,1835,
 420,Villa,Feddet 4,5683, Haarby,585000 ,02-06-1999,Alm. Salg,140,4179,7,1900,
 420,Villa,Åvænget 2,5492, Vissenbjerg,679000 ,02-06-1999,Alm. Salg,129,5264,6,1964,
 420,Villa,Ladegårdsgade 72,5610, Assens,495000 ,02-06-1999,Alm. Salg,127,3898,4,1700,
@@ -15214,7 +14996,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Rækkehus,Nørregade 42,5610, Assens,388317 ,30-03-1999,Alm. Salg,48,8090,2,1890,
 420,Villa,Nørre Alle 27,5610, Assens,922000 ,30-03-1999,Alm. Salg,149,6188,6,1942,
 420,Villa,Hindsløkken 5,5690, Tommerup,75000 ,30-03-1999,Alm. Salg,130,577,4,2001,
-420,Villa,Lilleskovvej 22A,5690, Tommerup,600000 ,30-03-1999,Alm. Salg,142,4225,4,1948,
 420,Villa,Stængelrisvej 7,5620, Glamsbjerg,1272699 ,29-03-1999,Alm. Salg,175,7273,4,1890,
 420,Villa,Langgade 9,5620, Glamsbjerg,650000 ,29-03-1999,Alm. Salg,212,3066,5,1892,
 420,Villa,Turupvej 78,5620, Glamsbjerg,583000 ,29-03-1999,Alm. Salg,156,3737,5,1867,
@@ -15512,7 +15293,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Skovvangen 21,5683, Haarby,857327 ,08-11-1998,Alm. Salg,138,6213,3,1969,
 420,Villa,Søndergade 7,5492, Vissenbjerg,449999 ,08-11-1998,Alm. Salg,73,6164,3,1930,
 420,Villa,Syrenvænget 17,5492, Vissenbjerg,1105000 ,08-11-1998,Alm. Salg,190,5816,5,1972,
-420,Villa,Snavevej 10,5683, Haarby,554777 ,08-11-1998,Alm. Salg,159,3489,4,1916,
 420,Villa,Lundegårdsvej 59,5690, Tommerup,541000 ,08-11-1998,Alm. Salg,233,2322,9,1910,
 420,Villa,Skovgyden 4,5610, Assens,368471 ,07-11-1998,Alm. Salg,125,2948,4,1920,
 420,Villa,Kirkebjergvej 23,5620, Glamsbjerg,658882 ,06-11-1998,Alm. Salg,153,4306,4,1927,
@@ -15616,7 +15396,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Bystævnevej 21,5690, Tommerup,985000 ,24-09-1998,Alm. Salg,171,5760,5,1978,
 420,Villa,Søndergade 91,5620, Glamsbjerg,300000 ,24-09-1998,Alm. Salg,156,1923,4,1912,
 420,Villa,Ebberupvej 94,5631, Ebberup,592386 ,23-09-1998,Alm. Salg,138,4293,5,1954,
-420,Villa,Nørregade 24,5620, Glamsbjerg,2165000 ,23-09-1998,Alm. Salg,218,9931,4,1911,
 420,Rækkehus,Ny Adelgade 12,5610, Assens,773066 ,22-09-1998,Alm. Salg,162,4772,7,1750,
 420,Ejerlejlighed,"Søndre Ringvej 4, 1",5610, Assens,800000 ,21-09-1998,Alm. Salg,141,5674,4,1897,
 420,Villa,Lerbjergvej 14,5610, Assens,750000 ,21-09-1998,Alm. Salg,126,5952,6,1880,
@@ -15698,7 +15477,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Højeløkkevej 2,5690, Tommerup,568000 ,23-08-1998,Alm. Salg,155,3665,7,1947,
 420,Villa,Mågevej 17,5492, Vissenbjerg,729880 ,23-08-1998,Alm. Salg,134,5447,5,1965,
 420,Villa,Årupvej 25,5492, Vissenbjerg,593998 ,23-08-1998,Alm. Salg,168,3536,4,1960,
-420,Villa,Ladegård Mark 50,5560, Aarup,309400 ,23-08-1998,Alm. Salg,170,1820,5,1777,
 420,Villa,Bogensevej 39,5620, Glamsbjerg,561083 ,22-08-1998,Alm. Salg,179,3135,8,1999,
 420,Villa,Kragsbjergvej 7,5610, Assens,250000 ,20-08-1998,Alm. Salg,162,1543,6,1999,
 420,Villa,Søndersøvej 1,5492, Vissenbjerg,320000 ,20-08-1998,Fam. Salg,168,1905,5,1925,
@@ -15841,13 +15619,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Lindhovedvej 4,5631, Ebberup,550000 ,15-06-1998,Fam. Salg,240,2292,8,1867,
 420,Villa,Møllebakken 60,5690, Tommerup,1050000 ,15-06-1998,Alm. Salg,267,3933,8,1737,
 420,Villa,Helnæs Byvej 57,5631, Ebberup,2550000 ,15-06-1998,Fam. Salg,35,72857,2,1953,
-420,Ejerlejlighed,"Østergade 11A, st. th",5610, Assens,2400000 ,14-06-1998,Alm. Salg,83,28916,3,1565,
-420,Ejerlejlighed,"Østergade 11, 1",5610, Assens,2400000 ,14-06-1998,Alm. Salg,198,12121,6,1565,
-420,Ejerlejlighed,"Østergade 11A, st. tv",5610, Assens,2400000 ,14-06-1998,Alm. Salg,73,32877,3,1565,
-420,Ejerlejlighed,"Badstuestræde 2A, st. th",5610, Assens,2400000 ,14-06-1998,Alm. Salg,60,40000,2,1870,
-420,Ejerlejlighed,"Badstuestræde 2A, 1. tv",5610, Assens,2400000 ,14-06-1998,Alm. Salg,58,41379,2,1870,
-420,Ejerlejlighed,"Badstuestræde 2A, 1. th",5610, Assens,2400000 ,14-06-1998,Alm. Salg,56,42857,2,1870,
-420,Ejerlejlighed,"Badstuestræde 2A, st. tv",5610, Assens,2400000 ,14-06-1998,Alm. Salg,62,38710,1,1870,
 420,Villa,Gadsbøllevej 31,5492, Vissenbjerg,375000 ,14-06-1998,Alm. Salg,78,4808,3,1928,
 420,Villa,Lindealle 12,5690, Tommerup,434700 ,14-06-1998,Alm. Salg,112,3881,5,1924,
 420,Villa,Jonsgaardsvej 44,5683, Haarby,610000 ,14-06-1998,Alm. Salg,86,7093,3,1986,
@@ -15981,10 +15752,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Fuglekildevej 40,5690, Tommerup,924200 ,30-04-1998,Alm. Salg,216,4279,5,1775,
 420,Villa,Kamgårdsvej 53,5690, Tommerup,207600 ,30-04-1998,Alm. Salg,226,919,7,1998,
 420,Rækkehus,Slottet 7,5610, Assens,330000 ,29-04-1998,Alm. Salg,66,5000,3,1879,
-420,Rækkehus,Høedvej 27A,5620, Glamsbjerg,523000 ,29-04-1998,Auktion,74,7068,3,1727,
 420,Villa,Svanevej 7,5690, Tommerup,630000 ,29-04-1998,Alm. Salg,154,4091,4,1936,
 420,Villa,Torvegade 16,5690, Tommerup,920000 ,29-04-1998,Alm. Salg,205,4488,5,1981,
-420,Villa,Høedvej 27,5620, Glamsbjerg,523000 ,29-04-1998,Auktion,350,1494,9,1777,
 420,Villa,Vesterlaugsvej 26,5690, Tommerup,2260000 ,28-04-1998,Fam. Salg,194,11649,7,2011,
 420,Villa,Bækmarken 19,5683, Haarby,684625 ,28-04-1998,Alm. Salg,160,4279,4,1976,
 420,Villa,Assensvej 7,5620, Glamsbjerg,825000 ,28-04-1998,Alm. Salg,147,5612,6,1951,
@@ -16196,7 +15965,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Lerbjergvej 14,5610, Assens,280000 ,09-02-1998,Alm. Salg,126,2222,6,1880,
 420,Villa,Holtegårdsvej 13,5620, Glamsbjerg,89856 ,08-02-1998,Andet,140,642,5,1800,
 420,Villa,Skovsbjergvej 16,5631, Ebberup,194000 ,08-02-1998,Alm. Salg,71,2732,3,1750,
-420,Villa,Bjelkevej 7A,5690, Tommerup,988000 ,08-02-1998,Alm. Salg,133,7429,5,1938,
 420,Villa,Irisvej 1,5690, Tommerup,687403 ,04-02-1998,Alm. Salg,130,5288,5,1974,
 420,Villa,Nyrupvej 10,5620, Glamsbjerg,380000 ,04-02-1998,Alm. Salg,109,3486,3,1887,
 420,Rækkehus,Østergade 85,5610, Assens,396500 ,03-02-1998,Alm. Salg,59,6720,3,1880,
@@ -16329,7 +16097,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Møllevej 8,5610, Assens,1636000 ,27-11-1997,Alm. Salg,428,3822,10,1916,
 420,Villa,Skovhusevej 26,5560, Aarup,440093 ,27-11-1997,Alm. Salg,139,3166,5,1937,
 420,Villa,Mullerødvej 11,5683, Haarby,555034 ,27-11-1997,Alm. Salg,132,4205,4,1970,
-420,Villa,Vedtoftevej 5,5620, Glamsbjerg,253000 ,26-11-1997,Alm. Salg,339,746,9,1914,
 420,Villa,Mariendalsvej 5,5610, Assens,599000 ,26-11-1997,Alm. Salg,67,8940,3,1951,
 420,Villa,Blangstrupvej 69,5610, Assens,516260 ,25-11-1997,Alm. Salg,167,3091,4,1897,
 420,Villa,Ebberupvej 61,5631, Ebberup,303550 ,24-11-1997,Alm. Salg,197,1541,8,1886,
@@ -16337,8 +16104,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Ørsted Grave 9,5620, Glamsbjerg,571000 ,24-11-1997,Alm. Salg,121,4719,3,1887,
 420,Villa,Rørsangervænget 33,5610, Assens,1495000 ,24-11-1997,Alm. Salg,322,4643,9,1973,
 420,Rækkehus,Damgade 8,5610, Assens,385000 ,23-11-1997,Alm. Salg,124,3105,1,1796,
-420,Rækkehus,Bredgade 59B,5560, Aarup,1120000 ,23-11-1997,Auktion,22,50909,2,1892,
-420,Ejerlejlighed,"Bredgade 59A, 1",5560, Aarup,1120000 ,23-11-1997,Auktion,70,16000,2,1892,
 420,Villa,Ebberupvej 61,5631, Ebberup,303550 ,23-11-1997,Alm. Salg,197,1541,8,1886,
 420,Villa,Kådekildevej 37,5492, Vissenbjerg,395000 ,23-11-1997,Alm. Salg,135,2926,3,1930,
 420,Ejerlejlighed,"Østergade 54, 1",5610, Assens,720000 ,22-11-1997,Alm. Salg,136,5294,6,1912,
@@ -16516,12 +16281,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Holger Bisgårdsvej 12,5620, Glamsbjerg,1276000 ,18-09-1997,Fam. Salg,224,5696,7,1978,
 420,Villa,Holmen 10,5620, Glamsbjerg,539000 ,18-09-1997,Alm. Salg,120,4492,4,1964,
 420,Villa,Enghavevej 14,5683, Haarby,325000 ,18-09-1997,Alm. Salg,153,2124,6,1890,
-420,Ejerlejlighed,"Bogensevej 164, st. th",5620, Glamsbjerg,275000 ,17-09-1997,Auktion,95,2895,3,1911,
-420,Ejerlejlighed,"Bogensevej 164, st. tv",5620, Glamsbjerg,275000 ,17-09-1997,Auktion,100,2750,3,1911,
-420,Ejerlejlighed,"Bogensevej 164, 1. th",5620, Glamsbjerg,275000 ,17-09-1997,Auktion,66,4167,2,1911,
-420,Ejerlejlighed,"Bogensevej 164, 1. tv",5620, Glamsbjerg,275000 ,17-09-1997,Auktion,61,4508,2,1911,
-420,Ejerlejlighed,"Chr. Richardtsvej 2, 1",5620, Glamsbjerg,275000 ,17-09-1997,Auktion,65,4231,3,1911,
-420,Ejerlejlighed,"Chr. Richardtsvej 2, st",5620, Glamsbjerg,275000 ,17-09-1997,Auktion,72,3819,3,1911,
 420,Villa,Kertevej 4,5560, Aarup,275000 ,17-09-1997,Auktion,88,3125,5,1932,
 420,Villa,Søllestedvej 35,5620, Glamsbjerg,860000 ,17-09-1997,Alm. Salg,417,2062,7,1878,
 420,Villa,Enebærvej 9,5620, Glamsbjerg,1300000 ,16-09-1997,Alm. Salg,149,8725,4,1975,
@@ -16548,7 +16307,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Hesbjergvej 11,5610, Assens,576000 ,07-09-1997,Alm. Salg,139,4144,5,1900,
 420,Villa,Kertevej 4,5560, Aarup,450000 ,07-09-1997,Alm. Salg,88,5114,5,1932,
 420,Villa,Søbrovej 25,5683, Haarby,228191 ,07-09-1997,Alm. Salg,156,1463,7,1940,
-420,Villa,Bredgade 8,5492, Vissenbjerg,418280 ,07-09-1997,Alm. Salg,62,6746,2,1890,
 420,Rækkehus,Ny Adelgade 25,5610, Assens,511279 ,04-09-1997,Alm. Salg,129,3963,4,1890,
 420,Villa,Vestergade 47,5560, Aarup,826000 ,04-09-1997,Alm. Salg,146,5658,5,1968,
 420,Villa,Fuglekildevej 32,5690, Tommerup,467000 ,03-09-1997,Alm. Salg,117,3991,4,1962,
@@ -16910,9 +16668,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Ternevej 34,5690, Tommerup,1089000 ,27-04-1997,Alm. Salg,205,5312,5,1977,
 420,Villa,Overgade 32,5492, Vissenbjerg,797000 ,25-04-1997,Alm. Salg,136,5860,4,1943,
 420,Villa,Markledet 11,5610, Assens,300000 ,24-04-1997,Alm. Salg,189,1587,5,2004,
-420,Ejerlejlighed,"Algade 85, st. tv",5683, Haarby,434000 ,23-04-1997,Alm. Salg,38,11421,2,1887,
 420,Villa,Teglbakken 88,5690, Tommerup,145000 ,23-04-1997,Alm. Salg,160,906,6,1997,
-420,Villa,"Algade 85, st. th",5683, Haarby,434000 ,23-04-1997,Alm. Salg,42,10333,2,1887,
 420,Villa,Søndergade 44,5620, Glamsbjerg,141862 ,23-04-1997,Andet,116,1223,3,1930,
 420,Villa,Fåborgvej 36,5620, Glamsbjerg,361000 ,22-04-1997,Alm. Salg,154,2344,6,1925,
 420,Villa,Vistorpvej 35,5620, Glamsbjerg,975000 ,22-04-1997,Alm. Salg,368,2649,11,1858,
@@ -17061,7 +16817,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Kirkebjergvej 45,5620, Glamsbjerg,415000 ,19-02-1997,Alm. Salg,125,3320,5,1888,
 420,Villa,Assensvej 25,5560, Aarup,612000 ,19-02-1997,Alm. Salg,175,3497,6,1880,
 420,Villa,Herredsbjerg 16,5683, Haarby,1251250 ,19-02-1997,Alm. Salg,272,4600,6,1850,
-420,Villa,Skovvangsvej 48,5610, Assens,447973 ,19-02-1997,Alm. Salg,232,1653,5,2022,
 420,Ejerlejlighed,"Skovbrynet 1A, 2. tv",5610, Assens,500000 ,18-02-1997,Alm. Salg,86,5814,3,1877,
 420,Villa,Middelfartvej 142,5560, Aarup,275000 ,18-02-1997,Alm. Salg,98,2806,4,1900,
 420,Villa,Smedegyden 5,5492, Vissenbjerg,138000 ,18-02-1997,Alm. Salg,106,1302,4,1955,
@@ -17456,10 +17211,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Sandløkken 5,5560, Aarup,738357 ,05-09-1996,Fam. Salg,185,3991,6,1984,
 420,Villa,Birkevej 5,5620, Glamsbjerg,358000 ,05-09-1996,Alm. Salg,73,4904,3,1954,
 420,Villa,Engmosevej 23,5610, Assens,201646 ,05-09-1996,Andet,101,1996,3,1947,
-420,Rækkehus,Dolevej 16A,5620, Glamsbjerg,319190 ,04-09-1996,Fam. Salg,34,9388,1,1930,
 420,Villa,Vestergade 53,5492, Vissenbjerg,360000 ,04-09-1996,Alm. Salg,170,2118,4,1875,
 420,Villa,Skovsbovej 17,5690, Tommerup,285000 ,04-09-1996,Alm. Salg,207,1377,7,1887,
-420,Villa,Dolevej 16,5620, Glamsbjerg,319190 ,04-09-1996,Fam. Salg,173,1845,4,1930,
 420,Villa,Langgade 97,5620, Glamsbjerg,120000 ,03-09-1996,Alm. Salg,127,945,8,1897,
 420,Villa,Pilevej 12,5620, Glamsbjerg,956000 ,03-09-1996,Alm. Salg,189,5058,5,1979,
 420,Villa,Pilehøjen 25,5631, Ebberup,605000 ,03-09-1996,Alm. Salg,116,5216,4,1977,
@@ -17612,13 +17365,11 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Nørregade 32,5620, Glamsbjerg,950000 ,29-06-1996,Alm. Salg,190,5000,5,1914,
 420,Villa,Løgismose Skov 9,5683, Haarby,615000 ,29-06-1996,Alm. Salg,149,4128,5,1677,
 420,Villa,Toftevej 2,5620, Glamsbjerg,385600 ,28-06-1996,Alm. Salg,94,4102,3,1955,
-420,Rækkehus,Høedvej 27A,5620, Glamsbjerg,480000 ,27-06-1996,Alm. Salg,74,6486,3,1727,
 420,Villa,Nabben 38,5683, Haarby,526840 ,27-06-1996,Alm. Salg,230,2291,6,1800,
 420,Villa,Skelskovbakken 16,5690, Tommerup,568000 ,27-06-1996,Alm. Salg,97,5856,4,1988,
 420,Villa,Odensevej 68,5610, Assens,395640 ,27-06-1996,Alm. Salg,153,2586,6,1891,
 420,Villa,Klintevænget 18,5620, Glamsbjerg,615000 ,27-06-1996,Alm. Salg,125,4920,4,1977,
 420,Villa,Kaslundvej 43,5560, Aarup,292000 ,27-06-1996,Alm. Salg,140,2086,6,1965,
-420,Villa,Høedvej 27,5620, Glamsbjerg,480000 ,27-06-1996,Alm. Salg,350,1371,9,1777,
 420,Villa,Bakkevej 22,5610, Assens,795000 ,27-06-1996,Alm. Salg,147,5408,4,1965,
 420,Villa,Knarreborgvej 21,5690, Tommerup,587960 ,27-06-1996,Alm. Salg,215,2735,11,1900,
 420,Villa,Skrænten 12,5560, Aarup,732000 ,27-06-1996,Alm. Salg,131,5588,4,1977,
@@ -17910,7 +17661,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Tørvelodsvej 1,5610, Assens,608005 ,19-03-1996,Alm. Salg,177,3435,8,1947,
 420,Villa,Kamgårdsvej 8,5690, Tommerup,52500 ,19-03-1996,Alm. Salg,135,389,5,1996,
 420,Villa,Kildebjerggård 13,5690, Tommerup,115250 ,18-03-1996,Alm. Salg,156,739,4,1997,
-420,Rækkehus,Østergade 31B,5610, Assens,600000 ,17-03-1996,Alm. Salg,130,4615,4,1877,
 420,Villa,Hyldegårdsvænget 1,5690, Tommerup,786000 ,17-03-1996,Alm. Salg,138,5696,5,1976,
 420,Villa,Æblehaven 13,5560, Aarup,750000 ,17-03-1996,Alm. Salg,126,5952,4,1987,
 420,Villa,Enebærvej 2A,5620, Glamsbjerg,455000 ,17-03-1996,Alm. Salg,181,2514,6,1952,
@@ -18112,9 +17862,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Lundagervej 24,5610, Assens,359000 ,05-12-1995,Alm. Salg,163,2202,3,1890,
 420,Villa,Akkerupvej 23,5683, Haarby,300000 ,05-12-1995,Alm. Salg,144,2083,5,1940,
 420,Villa,Heimdalsvænget 18,5610, Assens,107520 ,05-12-1995,Alm. Salg,135,796,4,1996,
-420,Rækkehus,Odensevej 42B,5610, Assens,1420000 ,04-12-1995,Alm. Salg,49,28980,2,1850,
 420,Rækkehus,Spangevej 32,5683, Haarby,304000 ,04-12-1995,Alm. Salg,78,3897,2,1981,
-420,Villa,Odensevej 42,5610, Assens,1420000 ,04-12-1995,Alm. Salg,196,7245,6,1850,
 420,Villa,Barløsevej 61,5610, Assens,725000 ,03-12-1995,Alm. Salg,231,3139,8,1933,
 420,Villa,Skovsbyvej 2,5492, Vissenbjerg,175000 ,03-12-1995,Alm. Salg,324,540,7,1900,
 420,Villa,Bøgevej 21,5683, Haarby,520000 ,02-12-1995,Alm. Salg,138,3768,5,1977,
@@ -18658,9 +18406,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Rækkehus,Adelgade 13,5610, Assens,410000 ,04-05-1995,Alm. Salg,77,5325,3,1850,
 420,Villa,Egebjergvej 28,5610, Assens,196000 ,04-05-1995,Alm. Salg,194,1010,6,1900,
 420,Villa,Lundager 34,5492, Vissenbjerg,585000 ,04-05-1995,Alm. Salg,147,3980,7,2003,
-420,Ejerlejlighed,"Østergade 35, 2",5610, Assens,2800000 ,03-05-1995,Alm. Salg,118,23729,4,1795,
-420,Ejerlejlighed,"Østergade 35, 1",5610, Assens,2800000 ,03-05-1995,Alm. Salg,157,17834,4,1795,
-420,Ejerlejlighed,"Tobaksgården 3, 2",5610, Assens,2800000 ,03-05-1995,Alm. Salg,84,33333,3,1795,
 420,Villa,Banevænget 2,5631, Ebberup,293000 ,03-05-1995,Alm. Salg,136,2154,4,1933,
 420,Rækkehus,Ramsherred 51,5610, Assens,395000 ,02-05-1995,Alm. Salg,112,3527,3,1895,
 420,Villa,Tværvej 12,5492, Vissenbjerg,348000 ,02-05-1995,Alm. Salg,110,3164,4,1960,
@@ -18938,8 +18683,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Dærupvej 4,5620, Glamsbjerg,475000 ,28-12-1994,Alm. Salg,196,2423,8,1911,
 420,Villa,Snavevej 20,5683, Haarby,371628 ,26-12-1994,Fam. Salg,280,1327,7,1906,
 420,Villa,Overgade 54,5492, Vissenbjerg,447000 ,22-12-1994,Alm. Salg,153,2922,5,1950,
-420,Rækkehus,Bredgade 59B,5560, Aarup,1100000 ,21-12-1994,Alm. Salg,22,50000,2,1892,
-420,Ejerlejlighed,"Bredgade 59A, 1",5560, Aarup,1100000 ,21-12-1994,Alm. Salg,70,15714,2,1892,
 420,Villa,Byvejen 26,5620, Glamsbjerg,173000 ,21-12-1994,Alm. Salg,72,2403,4,1870,
 420,Villa,Bøgevej 92,5683, Haarby,512000 ,21-12-1994,Alm. Salg,155,3303,4,1976,
 420,Villa,Old Gyde 39,5620, Glamsbjerg,194154 ,21-12-1994,Alm. Salg,162,1198,6,1949,
@@ -19583,8 +19326,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Frøbjergvej 39,5620, Glamsbjerg,190000 ,27-03-1994,Alm. Salg,83,2289,2,1900,
 420,Villa,Gadsbøllevej 104,5492, Vissenbjerg,311000 ,26-03-1994,Alm. Salg,120,2592,4,1957,
 420,Villa,Søndersøvej 13,5492, Vissenbjerg,445000 ,26-03-1994,Alm. Salg,185,2405,5,1949,
-420,Rækkehus,Grambovej 2,5690, Tommerup,750000 ,24-03-1994,Alm. Salg,206,2301,5,1936,
-420,Villa,Grambovej 2,5690, Tommerup,750000 ,24-03-1994,Alm. Salg,224,3348,6,1927,
 420,Villa,Fåborgvej 92,5610, Assens,350000 ,24-03-1994,Alm. Salg,90,3889,3,1870,
 420,Villa,Lilleskovvej 42,5690, Tommerup,395000 ,23-03-1994,Alm. Salg,80,4938,3,1952,
 420,Villa,Salbrovad 32,5610, Assens,200000 ,23-03-1994,Alm. Salg,123,1626,5,1946,
@@ -19729,7 +19470,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Dærupvej 11,5620, Glamsbjerg,455000 ,16-01-1994,Alm. Salg,122,3730,4,1934,
 420,Villa,Vanggårdsvej 1,5492, Vissenbjerg,565000 ,16-01-1994,Alm. Salg,132,4280,5,1980,
 420,Villa,Bøgevej 22,5492, Vissenbjerg,492000 ,16-01-1994,Alm. Salg,147,3347,5,1968,
-420,Villa,Teglvænget 4,5492, Vissenbjerg,410000 ,16-01-1994,Fam. Salg,109,3761,4,1975,
 420,Villa,Lindealle 9,5690, Tommerup,505000 ,16-01-1994,Alm. Salg,120,4208,4,1937,
 420,Villa,Møllebakken 10,5560, Aarup,306000 ,14-01-1994,Fam. Salg,111,2757,4,1965,
 420,Villa,Ladegårde Byvej 17,5560, Aarup,450000 ,14-01-1994,Alm. Salg,121,3719,4,1966,
@@ -20137,7 +19877,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Fenrisvænget 8,5610, Assens,680000 ,24-07-1993,Alm. Salg,118,5763,4,1986,
 420,Rækkehus,Ørsbjergvej 48,5560, Aarup,3338100 ,22-07-1993,Alm. Salg,84,27361,4,1872,
 420,Villa,Nyvej 34,5631, Ebberup,366000 ,22-07-1993,Alm. Salg,91,4022,4,1964,
-420,Villa,Kamgårdsvej 23,5690, Tommerup,150000 ,22-07-1993,Fam. Salg,155,968,5,1993,
 420,Villa,Humlekrogen 16,5690, Tommerup,310000 ,21-07-1993,Fam. Salg,112,2768,6,1929,
 420,Villa,Møllegyden 14,5610, Assens,325000 ,21-07-1993,Alm. Salg,141,2305,4,1948,
 420,Villa,Kolleshusvej 4,5560, Aarup,280000 ,20-07-1993,Alm. Salg,200,1400,7,1933,
@@ -20327,7 +20066,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Stærmosevej 145,5690, Tommerup,530000 ,28-03-1993,Alm. Salg,176,3011,5,1958,
 420,Villa,Hindsløkken 20,5690, Tommerup,197342 ,28-03-1993,Alm. Salg,76,2597,3,1980,
 420,Villa,Helnæs Byvej 58,5631, Ebberup,281250 ,26-03-1993,Alm. Salg,123,2287,5,1913,
-420,Villa,Nørregade 24,5620, Glamsbjerg,240000 ,25-03-1993,Alm. Salg,218,1101,4,1911,
 420,Villa,Birkevej 14,5492, Vissenbjerg,375000 ,24-03-1993,Alm. Salg,126,2976,5,1965,
 420,Rækkehus,Kærsangervænget 7,5610, Assens,270000 ,23-03-1993,Alm. Salg,60,4500,2,1976,
 420,Villa,Torø Huse Vej 27A,5610, Assens,937500 ,23-03-1993,Alm. Salg,146,6421,5,1990,
@@ -20479,9 +20217,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Dannesbovej 14,5690, Tommerup,475000 ,21-12-1992,Alm. Salg,130,3654,4,1967,
 420,Villa,Gl.Hovedvej 11,5560, Aarup,240000 ,21-12-1992,Alm. Salg,113,2124,5,1931,
 420,Villa,Algade 2,5683, Haarby,1250000 ,21-12-1992,Andet,176,7102,8,1910,
-420,Rækkehus,Tallerupvej 17A,5690, Tommerup,252000 ,20-12-1992,Alm. Salg,48,5250,3,1993,
 420,Rækkehus,Ny Adelgade 32,5610, Assens,320000 ,20-12-1992,Alm. Salg,65,4923,4,1880,
-420,Ejerlejlighed,"Tallerupvej 17, 1",5690, Tommerup,252000 ,20-12-1992,Alm. Salg,103,2447,5,1900,
 420,Villa,Vestervang 5,5492, Vissenbjerg,350000 ,20-12-1992,Alm. Salg,96,3646,3,1969,
 420,Villa,Vissenbjergvej 15,5690, Tommerup,495000 ,17-12-1992,Alm. Salg,95,5211,3,1936,
 420,Villa,Kelstrupvej 30,5492, Vissenbjerg,467500 ,17-12-1992,Fam. Salg,165,2833,5,1890,
@@ -21080,10 +20816,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Kelstrupskovvej 33,5492, Vissenbjerg,400000 ,14-03-1992,Fam. Salg,193,2073,9,1890,
 420,Villa,Blomstervænget 6,5610, Assens,350000 ,13-03-1992,Alm. Salg,84,4167,3,1950,
 420,Villa,Violvænget 6,5492, Vissenbjerg,672000 ,13-03-1992,Alm. Salg,145,4634,5,1964,
-420,Ejerlejlighed,"Nørregade 5, st",5610, Assens,277224 ,12-03-1992,Andet,81,3423,2,1900,
-420,Ejerlejlighed,"Nørregade 5, 1",5610, Assens,277224 ,12-03-1992,Andet,136,2038,4,1900,
-420,Ejerlejlighed,"Baronvej 22, 1",5610, Assens,277224 ,12-03-1992,Andet,71,3905,2,1900,
-420,Ejerlejlighed,"Baronvej 22, st",5610, Assens,277224 ,12-03-1992,Andet,48,5776,1,1900,
 420,Villa,Strandbakken 57,5631, Ebberup,675000 ,12-03-1992,Alm. Salg,363,1860,13,1865,
 420,Villa,Ryttergade 18,5690, Tommerup,900000 ,12-03-1992,Alm. Salg,255,3529,6,1934,
 420,Villa,Kallehavegyden 5,5683, Haarby,495000 ,12-03-1992,Alm. Salg,158,3133,4,1965,
@@ -21116,8 +20848,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 420,Villa,Fasanvænget 2,5610, Assens,345000 ,01-03-1992,Fam. Salg,112,3080,4,1972,
 420,Villa,Krengerupvej 99,5690, Tommerup,280000 ,29-02-1992,Alm. Salg,113,2478,6,1898,
 420,Rækkehus,Topshøj 18,5631, Ebberup,210000 ,27-02-1992,Alm. Salg,60,3500,2,1979,
-420,Rækkehus,Tallerupvej 19,5690, Tommerup,850000 ,27-02-1992,Fam. Salg,130,6538,4,1972,
-420,Ejerlejlighed,"Tallerupvej 19, 1",5690, Tommerup,850000 ,27-02-1992,Fam. Salg,60,14167,2,1900,
 420,Villa,Nellemosevej 34,5683, Haarby,395000 ,27-02-1992,Alm. Salg,110,3591,5,1877,
 420,Villa,Ellevangen 12,5683, Haarby,595000 ,27-02-1992,Alm. Salg,160,3719,6,1968,
 420,Villa,Vestervang 13,5492, Vissenbjerg,750000 ,27-02-1992,Andet,189,3968,6,1971,

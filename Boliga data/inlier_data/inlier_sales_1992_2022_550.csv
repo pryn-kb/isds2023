@@ -1,7 +1,6 @@
 municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,type_of_sale,square_meters,square_meters_price,rooms,year_of_construction,The percentage difference between the latest bid price and the sale price
 550,Villa,Degnebakken 1,6535, Branderup J,500000 ,29-12-2022,Alm. Salg,172,2907,6,2001,
 550,Villa,Hjemstedvej 25,6780, Skærbæk,775000 ,27-12-2022,Alm. Salg,188,4122,3,1840,-3%
-550,Rækkehus,Pilevænget 1,6270, Tønder,911000 ,22-12-2022,Alm. Salg,79,11532,4,1964,-4%
 550,Villa,Østergade 32,6240, Løgumkloster,1600000 ,22-12-2022,Alm. Salg,224,7143,6,1974,
 550,Villa,Randerupvej 92,6780, Skærbæk,950000 ,21-12-2022,Alm. Salg,136,6985,4,1972,
 550,Villa,Emmerskevej 17,6270, Tønder,500000 ,21-12-2022,Alm. Salg,111,4505,5,1937,
@@ -284,7 +283,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Jægerskoven 77,6520, Toftlund,575000 ,27-06-2022,Alm. Salg,93,6183,4,1978,
 550,Villa,Gartnervænget 3,6780, Skærbæk,900000 ,27-06-2022,Alm. Salg,142,6338,5,1972,-5%
 550,Villa,Kirkevej 6,6270, Tønder,720000 ,27-06-2022,Alm. Salg,107,6729,3,1800,
-550,Villa,Nørre Frankel 7A,6792, Rømø,1670000 ,27-06-2022,Fam. Salg,147,11361,4,2000,
 550,Villa,Sivkrovej 48,6240, Løgumkloster,1495000 ,26-06-2022,Alm. Salg,276,5417,6,1928,
 550,Villa,Tevringvej 2,6780, Skærbæk,800000 ,26-06-2022,Alm. Salg,271,2952,9,1826,-6%
 550,Villa,Bredgade 17,6240, Løgumkloster,600000 ,26-06-2022,Alm. Salg,152,3947,5,1970,-11%
@@ -344,7 +342,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Mølleparken 43,6240, Løgumkloster,1040000 ,16-05-2022,Alm. Salg,124,8387,4,1980,-1%
 550,Villa,Løgumklostervej 28,6261, Bredebro,840000 ,16-05-2022,Fam. Salg,149,5638,4,1900,
 550,Villa,Kystvej 26,6261, Bredebro,865200 ,16-05-2022,Alm. Salg,130,6655,4,1976,
-550,Villa,Grænsevej 28,6270, Tønder,2598000 ,15-05-2022,Alm. Salg,217,11296,8,1976,4%
 550,Villa,Hostrupvej 3,6270, Tønder,238000 ,14-05-2022,Fam. Salg,155,1535,4,1961,
 550,Villa,Kristine Svendsvej 13,6270, Tønder,1600000 ,14-05-2022,Alm. Salg,175,9143,5,1780,
 550,Villa,Havevej 19,6780, Skærbæk,1450000 ,12-05-2022,Alm. Salg,179,8101,5,1938,
@@ -383,7 +380,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Gl Ullerupvej 33,6780, Skærbæk,330000 ,28-04-2022,Alm. Salg,98,3367,4,1950,-6%
 550,Villa,Sønderbækvej 16,6270, Tønder,625000 ,28-04-2022,Alm. Salg,122,5123,4,1966,
 550,Villa,Ribelandevej 75A,6270, Tønder,1800000 ,28-04-2022,Fam. Salg,254,7087,8,1912,
-550,Rækkehus,Gulirisvej 54,6792, Rømø,1270000 ,27-04-2022,Alm. Salg,112,11339,4,2006,
 550,Villa,Ballumvej 30,6280, Højer,273020 ,27-04-2022,Fam. Salg,85,3212,3,1951,
 550,Villa,Kristine Svendsvej 2,6270, Tønder,400000 ,27-04-2022,Alm. Salg,122,3279,4,1962,
 550,Villa,Emmerlevvej 3,6280, Højer,60000 ,27-04-2022,Alm. Salg,157,382,4,1960,
@@ -408,10 +404,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Markgade 12A,6270, Tønder,1895000 ,12-04-2022,Alm. Salg,213,8897,6,1973,
 550,Villa,Mølleparken 380,6240, Løgumkloster,1500000 ,12-04-2022,Alm. Salg,155,9677,4,1981,
 550,Villa,Søndertoften 17,6270, Tønder,1350000 ,12-04-2022,Alm. Salg,175,7714,6,1995,2%
-550,Ejerlejlighed,"Møllegade 21, st",6240, Løgumkloster,130500 ,11-04-2022,Fam. Salg,100,953,2,1477,
 550,Villa,Randerupvej 50,6780, Skærbæk,890000 ,11-04-2022,Alm. Salg,149,5973,5,1950,12%
 550,Villa,Melbyvej 21,6780, Skærbæk,741000 ,11-04-2022,Fam. Salg,197,3761,6,1969,
-550,Villa,"Møllegade 21, kl",6240, Løgumkloster,130500 ,11-04-2022,Fam. Salg,245,533,6,1477,
 550,Villa,Nørre Skærbækvej 8,6780, Skærbæk,1550000 ,10-04-2022,Alm. Salg,227,6828,5,1777,-3%
 550,Villa,Byvej 8,6280, Højer,795000 ,10-04-2022,Alm. Salg,115,6913,4,1820,
 550,Villa,Bunti 20,6261, Bredebro,1100000 ,10-04-2022,Alm. Salg,265,4151,9,1910,
@@ -533,7 +527,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Ludvig Andresensvej 39A,6270, Tønder,305188 ,22-02-2022,Alm. Salg,170,1795,5,2022,
 550,Villa,Sct Hansvej 12,6261, Bredebro,350000 ,21-02-2022,Alm. Salg,132,2652,4,1976,-29%
 550,Villa,Sivkrovej 31,6240, Løgumkloster,775000 ,21-02-2022,Alm. Salg,196,3954,6,1935,-3%
-550,Villa,Svingelen 16,6780, Skærbæk,1500000 ,21-02-2022,Alm. Salg,131,11450,5,1994,
 550,Villa,Skolevej 9A,6780, Skærbæk,675000 ,21-02-2022,Alm. Salg,144,4688,4,1977,
 550,Villa,Solderupvej 15,6270, Tønder,350000 ,21-02-2022,Alm. Salg,100,3500,3,1967,-29%
 550,Villa,Alexandrinevej 9,6270, Tønder,552793 ,20-02-2022,Alm. Salg,127,4353,4,1964,
@@ -584,7 +577,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Præstegårdsvej 58,6780, Skærbæk,895000 ,27-01-2022,Alm. Salg,146,6130,6,1827,
 550,Villa,Grænsevej 12,6270, Tønder,725000 ,27-01-2022,Alm. Salg,138,5254,4,1964,-3%
 550,Villa,Strømmen 18,6792, Rømø,1200000 ,27-01-2022,Alm. Salg,138,8696,5,1777,-7%
-550,Ejerlejlighed,"Østergade 26, 1",6270, Tønder,1500000 ,26-01-2022,Alm. Salg,130,11538,3,1984,-17%
 550,Villa,Ørnevej 10,6240, Løgumkloster,1145000 ,26-01-2022,Alm. Salg,178,6433,5,1973,
 550,Villa,Grev Schacksvej 25,6270, Tønder,750000 ,26-01-2022,Alm. Salg,90,8333,3,1959,-4%
 550,Villa,Jørgensbyvej 9,6534, Agerskov,850000 ,25-01-2022,Alm. Salg,128,6641,5,1880,
@@ -616,7 +608,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Lundbyesvej 37,6240, Løgumkloster,400000 ,03-01-2022,Alm. Salg,145,2759,4,1950,
 550,Villa,Havervad 9,6780, Skærbæk,440000 ,31-12-2021,Fam. Salg,116,3793,4,1967,
 550,Villa,Hjemstedvej 5B,6780, Skærbæk,1795000 ,31-12-2021,Alm. Salg,219,8196,8,1953,
-550,Villa,Kalhavevej 20A,6240, Løgumkloster,1000000 ,30-12-2021,Fam. Salg,88,11364,3,1948,
 550,Villa,Melvang 2C,6520, Toftlund,185000 ,29-12-2021,Alm. Salg,121,1529,4,1935,-18%
 550,Villa,Vasevej 3,6780, Skærbæk,1700000 ,28-12-2021,Andet,252,5280,7,1907,
 550,Villa,Bytoften 28,6534, Agerskov,585600 ,26-12-2021,Alm. Salg,132,4436,5,1969,
@@ -790,7 +781,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Fasanvej 15,6240, Løgumkloster,1240000 ,26-09-2021,Alm. Salg,158,7848,5,1977,-4%
 550,Villa,Stationsvej 22,6261, Bredebro,360000 ,26-09-2021,Alm. Salg,191,1885,6,1961,-28%
 550,Villa,Ø Gammelby 30,6261, Bredebro,425000 ,25-09-2021,Alm. Salg,153,2778,4,1870,-26%
-550,Rækkehus,Blåklokkevej 20,6792, Rømø,1100000 ,24-09-2021,Alm. Salg,97,11340,4,2006,-8%
 550,Rækkehus,Pilevænget 2,6270, Tønder,529000 ,23-09-2021,Alm. Salg,79,6696,3,1964,
 550,Villa,Strucksalle 61A,6270, Tønder,1350000 ,23-09-2021,Alm. Salg,174,7759,5,1930,-8%
 550,Villa,Byvej 11,6280, Højer,820000 ,23-09-2021,Alm. Salg,91,9011,4,1865,
@@ -863,7 +853,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Østergade 34,6240, Løgumkloster,1450000 ,25-08-2021,Alm. Salg,175,8286,6,1934,-3%
 550,Villa,Bevtoftvej 27,6541, Bevtoft,850000 ,25-08-2021,Alm. Salg,260,3269,7,1880,-5%
 550,Villa,Storegade 25,6780, Skærbæk,537500 ,25-08-2021,Alm. Salg,133,4041,5,1930,
-550,Villa,Møllevej 14,6270, Tønder,1860000 ,25-08-2021,Alm. Salg,162,11481,6,1944,
 550,Villa,Jægerskoven 12,6520, Toftlund,1425000 ,23-08-2021,Alm. Salg,152,9375,5,1987,4%
 550,Villa,Nørby 1,6261, Bredebro,250000 ,23-08-2021,Alm. Salg,82,3049,2,1877,-16%
 550,Villa,Brede Bygade 41,6261, Bredebro,375000 ,23-08-2021,Alm. Salg,127,2953,5,1912,-16%
@@ -923,7 +912,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Randerup 51,6261, Bredebro,245000 ,18-07-2021,Alm. Salg,85,2882,3,1950,
 550,Villa,Lille Åbølvej 6,6541, Bevtoft,795000 ,18-07-2021,Alm. Salg,165,4818,4,1850,
 550,Rækkehus,Anemonevænget 4,6270, Tønder,425000 ,17-07-2021,Alm. Salg,79,5380,4,1963,
-550,Villa,Prilen 18,6792, Rømø,1490000 ,16-07-2021,Alm. Salg,132,11288,6,1634,
 550,Rækkehus,Blåklokkevej 32,6792, Rømø,900000 ,15-07-2021,Alm. Salg,97,9278,4,2006,-14%
 550,Villa,Vasevej 10,6780, Skærbæk,750000 ,15-07-2021,Alm. Salg,172,4360,6,1949,
 550,Villa,Grøngårdvej 5,6270, Tønder,450000 ,15-07-2021,Alm. Salg,113,3982,5,1780,-5%
@@ -963,7 +951,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Nørregade 20,6280, Højer,405000 ,27-06-2021,Alm. Salg,80,5063,3,1900,-5%
 550,Villa,Vestergade 29,6792, Rømø,1300000 ,27-06-2021,Fam. Salg,217,5991,8,1827,
 550,Villa,Ulriksalle 43,6270, Tønder,1325000 ,27-06-2021,Alm. Salg,160,8281,5,1980,
-550,Rækkehus,Nørregade 16,6270, Tønder,1100000 ,24-06-2021,Alm. Salg,97,11340,3,1989,
 550,Villa,Ribelandevej 133,6270, Tønder,300000 ,24-06-2021,Alm. Salg,162,1852,6,1956,-13%
 550,Villa,Bakkevænget 46,6520, Toftlund,1275000 ,24-06-2021,Alm. Salg,139,9173,4,1980,
 550,Villa,Kastanievej 4,6520, Toftlund,1125000 ,24-06-2021,Alm. Salg,205,5488,6,1975,-13%
@@ -1035,7 +1022,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Laugsvej 7,6270, Tønder,1550000 ,01-06-2021,Alm. Salg,200,7750,6,1970,
 550,Villa,Åbølvej 7,6520, Toftlund,425000 ,31-05-2021,Alm. Salg,115,3696,4,1969,-6%
 550,Villa,Lærkevej 5,6270, Tønder,850000 ,31-05-2021,Alm. Salg,85,10000,4,1962,
-550,Villa,Plantagevej 13,6270, Tønder,1200000 ,31-05-2021,Alm. Salg,126,9524,5,1942,
 550,Villa,Ludvig Andresensvej 39B,6270, Tønder,283176 ,31-05-2021,Alm. Salg,174,1627,5,2022,
 550,Villa,Søndervang 29,6261, Bredebro,400000 ,30-05-2021,Alm. Salg,142,2817,5,1974,
 550,Villa,Birkevej 10,6270, Tønder,1475000 ,30-05-2021,Alm. Salg,175,8429,6,1961,-2%
@@ -1076,7 +1062,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Engvej 16,6240, Løgumkloster,645000 ,11-05-2021,Alm. Salg,156,4135,4,1967,
 550,Villa,Rugmarken 61,6240, Løgumkloster,302151 ,11-05-2021,Alm. Salg,171,1767,5,2022,
 550,Villa,Lærkevej 12,6270, Tønder,700000 ,10-05-2021,Alm. Salg,119,5882,6,1963,-3%
-550,Villa,Popsensgade 20,6270, Tønder,2800000 ,09-05-2021,Alm. Salg,246,11382,6,1912,
 550,Villa,Kristine Svendsvej 15,6270, Tønder,152022 ,09-05-2021,Alm. Salg,216,704,6,2000,
 550,Villa,Elvej 2,6534, Agerskov,180000 ,09-05-2021,Alm. Salg,92,1957,4,1938,-23%
 550,Villa,Havnebyvej 237B,6792, Rømø,625000 ,09-05-2021,Alm. Salg,150,4167,5,2022,-10%
@@ -1091,12 +1076,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Kalhavevej 4,6240, Løgumkloster,695000 ,05-05-2021,Alm. Salg,97,7165,3,1951,
 550,Villa,Strandelhjørnvej 9,6534, Agerskov,475000 ,04-05-2021,Alm. Salg,123,3862,5,1967,
 550,Villa,Rugmarken 59,6240, Løgumkloster,219600 ,04-05-2021,Alm. Salg,175,1255,5,2022,
-550,Rækkehus,Overbyvej 4B,6780, Skærbæk,945000 ,03-05-2021,Alm. Salg,178,5309,6,1837,
 550,Rækkehus,Blåklokkevej 42,6792, Rømø,1185000 ,03-05-2021,Alm. Salg,112,10580,4,2006,-8%
 550,Villa,Alexandrinevej 9,6270, Tønder,1025000 ,03-05-2021,Alm. Salg,127,8071,4,1964,-7%
 550,Villa,Sejerslevvej 5A,6280, Højer,325000 ,03-05-2021,Alm. Salg,135,2407,4,1938,
 550,Villa,Vellerupvej 17,6534, Agerskov,401000 ,03-05-2021,Alm. Salg,140,2864,6,1962,
-550,Villa,Overbyvej 4A,6780, Skærbæk,945000 ,03-05-2021,Alm. Salg,407,2322,10,1837,
 550,Villa,Tved 161,6270, Tønder,1435000 ,03-05-2021,Alm. Salg,136,10551,4,1986,-1%
 550,Villa,Nørregade 41,6270, Tønder,510000 ,02-05-2021,Alm. Salg,67,7612,2,1800,
 550,Villa,Svinget 13,6240, Løgumkloster,300000 ,02-05-2021,Alm. Salg,113,2655,3,1952,-8%
@@ -1257,7 +1240,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Sognegade 9,6240, Løgumkloster,998000 ,11-02-2021,Alm. Salg,196,5092,7,1919,
 550,Rækkehus,Gulirisvej 3,6792, Rømø,925000 ,10-02-2021,Alm. Salg,97,9536,4,2007,-7%
 550,Villa,Holmevej 24,6240, Løgumkloster,229500 ,10-02-2021,Alm. Salg,206,1114,7,1800,
-550,Villa,Jægertoften 21,6780, Skærbæk,2200000 ,10-02-2021,Alm. Salg,195,11282,6,2014,
 550,Villa,Ballumvej 4,6280, Højer,250000 ,09-02-2021,Alm. Salg,175,1429,6,1895,
 550,Villa,Grøngårdvej 9,6270, Tønder,301000 ,09-02-2021,Alm. Salg,132,2280,4,1928,-24%
 550,Villa,Birkealle 9,6780, Skærbæk,1575000 ,08-02-2021,Alm. Salg,188,8378,6,1928,-1%
@@ -1321,7 +1303,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Ejerlejlighed,"Skibbrogade 2, 1. th",6270, Tønder,270000 ,04-01-2021,Alm. Salg,94,2872,2,1900,
 550,Villa,Randerup 34,6261, Bredebro,185000 ,03-01-2021,Alm. Salg,108,1713,4,1892,-5%
 550,Villa,Mågen 37,6270, Tønder,848000 ,29-12-2020,Alm. Salg,124,6839,3,1980,
-550,Villa,Dragonvej 6,6270, Tønder,1425000 ,29-12-2020,Alm. Salg,124,11492,7,1954,-5%
 550,Villa,Tyvsevej 16,6270, Tønder,150000 ,28-12-2020,Alm. Salg,125,1200,5,1800,
 550,Villa,Krovej 17,6261, Bredebro,1400000 ,28-12-2020,Alm. Salg,185,7568,6,1980,
 550,Villa,Aabenraavej 25,6240, Løgumkloster,700000 ,27-12-2020,Alm. Salg,109,6422,3,1959,1%
@@ -1477,7 +1458,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Havnebyvej 239,6792, Rømø,600000 ,12-10-2020,Alm. Salg,150,4000,5,2021,
 550,Villa,Vestervej 4,6792, Rømø,1060000 ,11-10-2020,Alm. Salg,116,9138,4,1977,-3%
 550,Villa,Garvergade 3,6240, Løgumkloster,825000 ,10-10-2020,Alm. Salg,146,5651,4,1939,-8%
-550,Villa,Kastaniealle 10,6270, Tønder,3030000 ,08-10-2020,Alm. Salg,268,11306,6,1960,-7%
 550,Villa,Præstegårdsvej 8,6780, Skærbæk,445000 ,08-10-2020,Alm. Salg,108,4120,4,1937,
 550,Villa,Aabenraavej 4,6240, Løgumkloster,400000 ,06-10-2020,Alm. Salg,159,2516,4,1903,-6%
 550,Villa,Slotsgaden 11,6270, Tønder,413180 ,05-10-2020,Alm. Salg,241,1714,7,1910,
@@ -1561,7 +1541,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Bakkevej 1,6240, Løgumkloster,350000 ,01-09-2020,Alm. Salg,134,2612,4,1966,
 550,Villa,Lobækvej 1,6240, Løgumkloster,560000 ,31-08-2020,Alm. Salg,128,4375,4,1962,
 550,Villa,Elmegårdsvej 2,6270, Tønder,1400000 ,31-08-2020,Alm. Salg,204,6863,6,1972,0%
-550,Villa,Østervang 12A,6261, Bredebro,970000 ,31-08-2020,Alm. Salg,103,9417,4,1964,
 550,Villa,Rønnevej 11,6270, Tønder,850000 ,31-08-2020,Alm. Salg,124,6855,3,1968,
 550,Villa,Ullerupvej 42,6780, Skærbæk,810000 ,31-08-2020,Alm. Salg,152,5329,4,1971,-4%
 550,Villa,Rantzausvænget 13,6261, Bredebro,310000 ,31-08-2020,Alm. Salg,125,2480,4,1981,
@@ -1677,7 +1656,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Adelvadvej 11,6240, Løgumkloster,825000 ,18-06-2020,Alm. Salg,208,3966,5,1940,-27%
 550,Villa,Hjejlen 86,6270, Tønder,1200000 ,18-06-2020,Alm. Salg,136,8824,4,1978,
 550,Rækkehus,"Lyngvejen 99, st. 30",6792, Rømø,204000 ,17-06-2020,Fam. Salg,32,6375,2,1979,
-550,Villa,Ryttervænget 8,6520, Toftlund,1635000 ,17-06-2020,Alm. Salg,143,11434,5,2003,
 550,Villa,Møgeltøndervej 7,6280, Højer,380000 ,17-06-2020,Alm. Salg,86,4419,3,1954,-4%
 550,Villa,Grænsevej 14,6270, Tønder,1337500 ,17-06-2020,Alm. Salg,181,7390,6,1929,-4%
 550,Villa,Højmosevej 9B,6270, Tønder,280000 ,16-06-2020,Alm. Salg,97,2887,3,1985,-14%
@@ -1743,12 +1721,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Søndertoften 13,6270, Tønder,1100000 ,09-05-2020,Alm. Salg,230,4783,8,1983,-4%
 550,Villa,Kærvej 43,6270, Tønder,1200000 ,08-05-2020,Alm. Salg,176,6818,5,1972,-6%
 550,Villa,Høllevang 3,6520, Toftlund,980000 ,07-05-2020,Alm. Salg,127,7717,4,1973,
-550,Ejerlejlighed,"Vidågade 60, st",6270, Tønder,606000 ,06-05-2020,Alm. Salg,55,11018,3,1900,
-550,Ejerlejlighed,"Vidågade 60, 1",6270, Tønder,606000 ,06-05-2020,Alm. Salg,55,11018,3,1900,
-550,Ejerlejlighed,"Vidågade 64, 1",6270, Tønder,606000 ,06-05-2020,Alm. Salg,103,5883,4,1900,
-550,Ejerlejlighed,"Vidågade 64, st",6270, Tønder,606000 ,06-05-2020,Alm. Salg,60,10100,3,1900,
-550,Ejerlejlighed,"Vidågade 62, 1",6270, Tønder,606000 ,06-05-2020,Alm. Salg,100,4848,4,1900,
-550,Ejerlejlighed,"Østergade 61, 1",6270, Tønder,606000 ,06-05-2020,Alm. Salg,110,5509,2,1900,
 550,Villa,Frifeltvej 2,6780, Skærbæk,60000 ,06-05-2020,Alm. Salg,96,625,4,1903,
 550,Villa,Nørregårdsvej 6,6270, Tønder,250000 ,06-05-2020,Alm. Salg,143,1748,4,1952,
 550,Villa,Nederballevej 4,6240, Løgumkloster,750000 ,06-05-2020,Alm. Salg,316,2373,12,1884,
@@ -1789,7 +1761,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Horsbølvej 12,6780, Skærbæk,331500 ,04-04-2020,Alm. Salg,139,2385,4,1950,-49%
 550,Villa,Høllevang 79,6520, Toftlund,500000 ,02-04-2020,Alm. Salg,136,3676,5,1975,
 550,Villa,Guldagervej 13,6240, Løgumkloster,895000 ,02-04-2020,Alm. Salg,130,6885,4,1971,-5%
-550,Villa,Munkeparken 94,6240, Løgumkloster,795000 ,02-04-2020,Alm. Salg,229,3472,6,1978,
 550,Villa,Anne Marievej 6,6270, Tønder,780000 ,31-03-2020,Alm. Salg,114,6842,4,1964,1%
 550,Villa,Åbakken 34,6534, Agerskov,625000 ,31-03-2020,Alm. Salg,135,4630,5,1974,
 550,Villa,Lergravene 1,6780, Skærbæk,995000 ,31-03-2020,Alm. Salg,130,7654,4,1977,
@@ -1881,7 +1852,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Grammarkvej 4,6792, Rømø,1600000 ,12-02-2020,Alm. Salg,193,8290,6,1827,-9%
 550,Villa,Jægerskoven 67,6520, Toftlund,1660000 ,11-02-2020,Alm. Salg,163,10184,5,1995,-2%
 550,Villa,Østervang 3,6261, Bredebro,380000 ,11-02-2020,Alm. Salg,128,2969,4,1962,-11%
-550,Villa,Jyllandsgade 7,6520, Toftlund,1800000 ,11-02-2020,Alm. Salg,158,11392,5,1979,
 550,Villa,Ludvig Andresensvej 13,6270, Tønder,400000 ,08-02-2020,Alm. Salg,90,4444,4,1951,
 550,Villa,Sct Hansvej 48,6261, Bredebro,1125000 ,06-02-2020,Alm. Salg,240,4688,8,1978,
 550,Villa,Arnumvej 57,6520, Toftlund,495000 ,06-02-2020,Alm. Salg,163,3037,4,1850,
@@ -1904,7 +1874,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Vennemosevej 43,6270, Tønder,165000 ,30-01-2020,Alm. Salg,140,1179,4,1965,
 550,Villa,Hølleskovvej 2A,6520, Toftlund,2175000 ,29-01-2020,Alm. Salg,275,7909,9,1989,
 550,Villa,Guldagervej 12,6240, Løgumkloster,585000 ,29-01-2020,Alm. Salg,170,3441,5,1973,-6%
-550,Villa,Grev Schacksvej 6,6270, Tønder,1100000 ,28-01-2020,Alm. Salg,96,11458,3,1957,-8%
 550,Villa,Slotsgaden 23,6270, Tønder,500000 ,28-01-2020,Alm. Salg,310,1613,6,1761,-50%
 550,Villa,Præstevænget 2,6280, Højer,380000 ,28-01-2020,Alm. Salg,122,3115,5,1976,-33%
 550,Rækkehus,Lyngvejen 63A,6792, Rømø,350000 ,27-01-2020,Fam. Salg,66,5303,3,1980,
@@ -1995,7 +1964,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Holmevej 24,6240, Løgumkloster,80000 ,24-11-2019,Alm. Salg,206,388,7,1800,-58%
 550,Villa,Lillebjergvej 1B,6534, Agerskov,368000 ,23-11-2019,Fam. Salg,80,4600,3,1897,
 550,Villa,Prilen 32,6280, Højer,495000 ,22-11-2019,Alm. Salg,145,3414,5,1970,
-550,Rækkehus,Gulirisvej 29,6792, Rømø,1271000 ,21-11-2019,Alm. Salg,112,11348,4,2007,-9%
 550,Villa,Rosinfeltvej 170,6270, Tønder,311553 ,20-11-2019,Alm. Salg,162,1923,7,2020,
 550,Villa,Nørregade 12A,6240, Løgumkloster,845000 ,19-11-2019,Alm. Salg,187,4519,7,1977,
 550,Ejerlejlighed,"Richtsensgade 23, st. tv",6270, Tønder,300000 ,18-11-2019,Alm. Salg,101,2970,3,1910,
@@ -2079,8 +2047,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Kagebøl 25A,6780, Skærbæk,1750000 ,26-09-2019,Alm. Salg,218,8028,7,1984,4%
 550,Villa,Vestergade 54,6520, Toftlund,435000 ,26-09-2019,Alm. Salg,96,4531,4,1944,-6%
 550,Villa,Nørrefoldvej 17,6270, Tønder,405000 ,26-09-2019,Fam. Salg,128,3164,3,1955,
-550,Ejerlejlighed,"Torvet 8C, 3",6270, Tønder,1650000 ,25-09-2019,Alm. Salg,143,11538,2,1870,
-550,Ejerlejlighed,"Storegade 3, 3",6270, Tønder,1650000 ,25-09-2019,Alm. Salg,145,11379,3,1904,
 550,Villa,Søndergade 41,6261, Bredebro,700000 ,25-09-2019,Alm. Salg,81,8642,3,1955,
 550,Villa,Nørrekærvej 2,6270, Tønder,185000 ,25-09-2019,Alm. Salg,145,1276,6,1900,
 550,Villa,Stenderupgårdvej 1,6520, Toftlund,550401 ,25-09-2019,Alm. Salg,100,5504,4,1964,
@@ -2110,7 +2076,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Prilen 15,6280, Højer,895000 ,09-09-2019,Alm. Salg,119,7521,3,2004,
 550,Villa,Voddervej 17,6780, Skærbæk,2495000 ,09-09-2019,Alm. Salg,417,5983,9,1912,
 550,Villa,Størupsvej 8,6780, Skærbæk,750000 ,09-09-2019,Fam. Salg,170,4412,5,1877,
-550,Ejerlejlighed,"Vestergade 3C, st. 35",6792, Rømø,725000 ,08-09-2019,Alm. Salg,64,11328,3,1984,-9%
 550,Villa,Vesterende 47,6261, Bredebro,357000 ,08-09-2019,Fam. Salg,70,5100,4,1810,
 550,Villa,Prilen 23,6280, Højer,850000 ,08-09-2019,Alm. Salg,182,4670,6,1972,-5%
 550,Villa,Vidågade 42,6270, Tønder,550000 ,08-09-2019,Alm. Salg,197,2792,5,1865,
@@ -2175,11 +2140,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Vennemosevej 49,6270, Tønder,550000 ,17-07-2019,Alm. Salg,134,4104,4,1971,-8%
 550,Villa,Andreasmindevej 3,6240, Løgumkloster,95000 ,14-07-2019,Alm. Salg,84,1131,2,2010,
 550,Villa,Kærvej 33,6270, Tønder,1100000 ,11-07-2019,Alm. Salg,262,4198,6,1969,
-550,Ejerlejlighed,"Vestergade 3E, st. 71",6792, Rømø,470000 ,10-07-2019,Alm. Salg,41,11463,2,1987,
 550,Villa,Holmvej 25,6780, Skærbæk,580000 ,10-07-2019,Alm. Salg,150,3867,4,1777,
-550,Ejerlejlighed,Mellemgade 2,6280, Højer,667500 ,09-07-2019,Alm. Salg,62,10766,2,1892,
-550,Ejerlejlighed,"Storegade 8, st",6280, Højer,667500 ,09-07-2019,Alm. Salg,77,8669,2,1892,
-550,Ejerlejlighed,"Storegade 8, 1",6280, Højer,667500 ,09-07-2019,Alm. Salg,113,5907,3,1892,
 550,Villa,Sejerslevvej 40,6280, Højer,250000 ,09-07-2019,Alm. Salg,76,3289,2,1937,
 550,Villa,Møllevej 7,6780, Skærbæk,460000 ,09-07-2019,Alm. Salg,100,4600,4,1968,
 550,Villa,Rolighedsvej 21,6520, Toftlund,625000 ,09-07-2019,Alm. Salg,92,6793,3,1956,-7%
@@ -2213,7 +2174,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Nørreled 9,6280, Højer,1700000 ,24-06-2019,Alm. Salg,196,8673,5,2003,
 550,Ejerlejlighed,Strucksalle 59,6270, Tønder,825000 ,23-06-2019,Fam. Salg,237,3481,6,1931,
 550,Villa,Stenagervej 10,6520, Toftlund,331500 ,23-06-2019,Alm. Salg,112,2960,4,1963,
-550,Ejerlejlighed,"Vestergade 3E, st. 68",6792, Rømø,450000 ,20-06-2019,Alm. Salg,39,11538,2,1987,-5%
 550,Villa,Svinget 13B,6240, Løgumkloster,520000 ,20-06-2019,Alm. Salg,164,3171,5,1850,
 550,Villa,Engvej 13,6240, Løgumkloster,501500 ,19-06-2019,Fam. Salg,151,3321,5,1965,
 550,Villa,Søndergade 23,6780, Skærbæk,562500 ,19-06-2019,Alm. Salg,93,6048,4,1963,-10%
@@ -2231,11 +2191,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Fynsgade 4,6520, Toftlund,430000 ,11-06-2019,Alm. Salg,234,1838,5,1962,-13%
 550,Villa,Birkevej 3,6270, Tønder,500000 ,11-06-2019,Alm. Salg,90,5556,4,1955,-23%
 550,Villa,Vestervej 32,6792, Rømø,1291245 ,11-06-2019,Fam. Salg,250,5165,6,2022,
-550,Ejerlejlighed,Søndergade 5B,6520, Toftlund,575000 ,10-06-2019,Fam. Salg,121,4752,6,1955,
-550,Ejerlejlighed,Søndergade 5A,6520, Toftlund,575000 ,10-06-2019,Fam. Salg,93,6183,3,1955,
-550,Ejerlejlighed,"Søren Jensens Vej 5A, 1. th",6520, Toftlund,575000 ,10-06-2019,Fam. Salg,104,5529,3,1955,
-550,Ejerlejlighed,"Søren Jensens Vej 5A, 1. tv",6520, Toftlund,575000 ,10-06-2019,Fam. Salg,87,6609,3,1955,
-550,Ejerlejlighed,"Søren Jensens Vej 5A, 1. mf",6520, Toftlund,575000 ,10-06-2019,Fam. Salg,73,7877,3,1955,
 550,Villa,Vestervej 3,6280, Højer,484500 ,10-06-2019,Alm. Salg,109,4445,4,1985,
 550,Villa,Alexandrinevej 18,6270, Tønder,825000 ,10-06-2019,Alm. Salg,100,8250,4,1963,-8%
 550,Villa,Teglvej 7,6780, Skærbæk,300000 ,10-06-2019,Alm. Salg,105,2857,4,1979,
@@ -2264,9 +2219,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Bakkevænget 7,6520, Toftlund,825000 ,22-05-2019,Alm. Salg,123,6707,4,1979,-2%
 550,Villa,Leosalle 18,6270, Tønder,1050000 ,22-05-2019,Alm. Salg,133,7895,5,1937,-11%
 550,Villa,Flensborglandevej 9,6270, Tønder,600000 ,22-05-2019,Alm. Salg,146,4110,5,1911,-14%
-550,Ejerlejlighed,Markledgade 14,6240, Løgumkloster,878000 ,21-05-2019,Alm. Salg,122,7197,4,1900,
-550,Ejerlejlighed,Garvergade 2B,6240, Løgumkloster,878000 ,21-05-2019,Alm. Salg,103,8524,3,1900,
-550,Ejerlejlighed,Garvergade 2C,6240, Løgumkloster,878000 ,21-05-2019,Alm. Salg,160,5488,5,1900,
 550,Villa,Vinkelvej 6,6520, Toftlund,1050000 ,21-05-2019,Alm. Salg,234,4487,7,1957,-4%
 550,Villa,Vestervang 6,6280, Højer,650000 ,21-05-2019,Alm. Salg,122,5328,5,1977,-6%
 550,Villa,Hans Clausensvej 5,6270, Tønder,900000 ,20-05-2019,Alm. Salg,156,5769,4,1981,
@@ -2289,7 +2241,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Kornvang 44,6520, Toftlund,697500 ,12-05-2019,Alm. Salg,137,5091,4,1977,
 550,Villa,Rejsby Landevej 4,6780, Skærbæk,144500 ,12-05-2019,Fam. Salg,79,1829,3,1952,
 550,Villa,Over Jerstalvej 235,6534, Agerskov,98000 ,12-05-2019,Auktion,157,624,5,1931,
-550,Villa,Vestergade 5B,6520, Toftlund,930000 ,12-05-2019,Alm. Salg,136,6838,2,1962,
 550,Villa,Bovlund Bjergvej 4,6535, Branderup J,96767 ,10-05-2019,Alm. Salg,146,663,5,1959,
 550,Villa,Skærbækvej 14,6520, Toftlund,270000 ,09-05-2019,Fam. Salg,172,1570,6,1960,
 550,Villa,Rugmarken 41,6240, Løgumkloster,100000 ,08-05-2019,Alm. Salg,220,455,6,2020,
@@ -2605,7 +2556,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Nygade 27,6270, Tønder,1500000 ,18-09-2018,Alm. Salg,134,11194,5,1964,-9%
 550,Villa,Tved 140,6270, Tønder,633253 ,18-09-2018,Alm. Salg,143,4428,3,1984,-44%
 550,Villa,Ribevej 9,6780, Skærbæk,200000 ,17-09-2018,Alm. Salg,148,1351,5,1935,-40%
-550,Villa,Ludvig Andresensvej 36,6270, Tønder,1298000 ,17-09-2018,Alm. Salg,114,11386,5,1954,
 550,Villa,Ørnevej 19,6240, Løgumkloster,450000 ,16-09-2018,Alm. Salg,136,3309,5,1974,
 550,Villa,Ved Dammen 46,6240, Løgumkloster,855000 ,16-09-2018,Alm. Salg,123,6951,3,1956,
 550,Villa,Vinkelvej 19,6270, Tønder,645000 ,16-09-2018,Alm. Salg,167,3862,5,1979,-7%
@@ -2890,12 +2840,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Vindtvedvej 3,6270, Tønder,520000 ,20-02-2018,Alm. Salg,140,3714,5,1923,
 550,Villa,Jørgensgaardvej 19,6240, Løgumkloster,1175000 ,15-02-2018,Alm. Salg,143,8217,4,1953,-2%
 550,Villa,Melbyvej 22,6780, Skærbæk,55000 ,14-02-2018,Auktion,92,598,4,1800,
-550,Ejerlejlighed,"Vidågade 60, st",6270, Tønder,600000 ,13-02-2018,Alm. Salg,55,10909,3,1900,
-550,Ejerlejlighed,"Vidågade 60, 1",6270, Tønder,600000 ,13-02-2018,Alm. Salg,55,10909,3,1900,
-550,Ejerlejlighed,"Vidågade 64, 1",6270, Tønder,600000 ,13-02-2018,Alm. Salg,103,5825,4,1900,
-550,Ejerlejlighed,"Vidågade 64, st",6270, Tønder,600000 ,13-02-2018,Alm. Salg,60,10000,3,1900,
-550,Ejerlejlighed,"Vidågade 62, 1",6270, Tønder,600000 ,13-02-2018,Alm. Salg,100,4800,4,1900,
-550,Ejerlejlighed,"Østergade 61, 1",6270, Tønder,600000 ,13-02-2018,Alm. Salg,110,5455,2,1900,
 550,Villa,Ulriksalle 51,6270, Tønder,1225000 ,13-02-2018,Alm. Salg,141,8688,5,1979,-2%
 550,Villa,Nygade 14,6270, Tønder,1520000 ,13-02-2018,Alm. Salg,185,8216,7,1923,-2%
 550,Rækkehus,Pilevænget 5,6270, Tønder,275000 ,08-02-2018,Alm. Salg,79,3481,3,1964,
@@ -3014,7 +2958,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Skovsbjergvej 8,6520, Toftlund,2895000 ,06-11-2017,Alm. Salg,336,8616,10,1927,
 550,Villa,Vibevej 13,6792, Rømø,910000 ,02-11-2017,Alm. Salg,160,5688,5,1975,
 550,Villa,Ulriksalle 59,6270, Tønder,1250000 ,01-11-2017,Alm. Salg,133,9398,4,1980,-4%
-550,Villa,Ribelandevej 42,6270, Tønder,1600000 ,30-10-2017,Alm. Salg,140,11429,4,1947,-6%
 550,Villa,Carstensgade 7,6270, Tønder,2725000 ,30-10-2017,Alm. Salg,340,8015,5,1905,
 550,Villa,Svenskestræde 18,6792, Rømø,555000 ,27-10-2017,Alm. Salg,70,7929,3,1951,-26%
 550,Villa,Vesterende 16,6261, Bredebro,575000 ,26-10-2017,Alm. Salg,123,4675,5,1861,-36%
@@ -3180,13 +3123,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Agertoften 2,6270, Tønder,350000 ,21-06-2017,Alm. Salg,120,2917,3,1967,-20%
 550,Villa,Dalen 12,6780, Skærbæk,600000 ,20-06-2017,Alm. Salg,120,5000,4,1970,-7%
 550,Villa,Solsortevej 9,6780, Skærbæk,545000 ,19-06-2017,Alm. Salg,108,5046,4,1966,
-550,Ejerlejlighed,"Vidågade 60, st",6270, Tønder,250000 ,18-06-2017,Auktion,55,4545,3,1900,-75%
-550,Ejerlejlighed,"Vidågade 60, 1",6270, Tønder,250000 ,18-06-2017,Auktion,55,4545,3,1900,-75%
-550,Ejerlejlighed,"Vidågade 64, 1",6270, Tønder,250000 ,18-06-2017,Auktion,103,2427,4,1900,-75%
-550,Ejerlejlighed,"Vidågade 64, st",6270, Tønder,250000 ,18-06-2017,Auktion,60,4167,3,1900,-75%
-550,Ejerlejlighed,"Vidågade 62, 1",6270, Tønder,250000 ,18-06-2017,Auktion,100,2000,4,1900,-75%
-550,Ejerlejlighed,"Vidågade 62, st",6270, Tønder,250000 ,18-06-2017,Auktion,33,7576,1,1900,-75%
-550,Ejerlejlighed,"Østergade 61, 1",6270, Tønder,250000 ,18-06-2017,Auktion,110,2273,2,1900,-75%
 550,Villa,Kalhavevej 11,6240, Løgumkloster,320000 ,16-06-2017,Alm. Salg,109,2936,5,1966,-19%
 550,Villa,Stormstræde 13,6792, Rømø,550000 ,15-06-2017,Alm. Salg,131,4198,4,1974,-21%
 550,Villa,Højsetvej 7,6534, Agerskov,1900000 ,14-06-2017,Alm. Salg,412,4612,8,1933,
@@ -3208,11 +3144,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Hovedgaden 17,6534, Agerskov,495000 ,01-06-2017,Alm. Salg,145,3414,4,1900,
 550,Villa,Møllegade 17,6240, Løgumkloster,187000 ,01-06-2017,Alm. Salg,187,1000,8,1840,
 550,Villa,Branderup Bygade 44,6535, Branderup J,380000 ,31-05-2017,Auktion,112,3393,4,1877,-11%
-550,Ejerlejlighed,"Møllegade 21, st",6240, Løgumkloster,200000 ,30-05-2017,Alm. Salg,100,1460,2,1477,-32%
 550,Villa,Kastanievej 3,6520, Toftlund,750000 ,30-05-2017,Alm. Salg,176,4261,5,1973,
 550,Villa,Plantagevej 21,6270, Tønder,1405000 ,30-05-2017,Alm. Salg,140,10036,3,1939,-3%
 550,Villa,Hjejlen 13,6270, Tønder,975000 ,30-05-2017,Alm. Salg,128,7617,5,1976,-11%
-550,Villa,"Møllegade 21, kl",6240, Løgumkloster,200000 ,30-05-2017,Alm. Salg,245,816,6,1477,-32%
 550,Villa,Sønderbyvej 34,6270, Tønder,487000 ,29-05-2017,Alm. Salg,86,5663,4,1962,-7%
 550,Villa,Renbækgårdsvej 4,6780, Skærbæk,250000 ,29-05-2017,Alm. Salg,50,5000,3,1943,-15%
 550,Villa,Østergade 24,6270, Tønder,600000 ,29-05-2017,Alm. Salg,214,2804,5,1775,
@@ -3559,7 +3493,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Markgade 7,6270, Tønder,695000 ,19-08-2016,Alm. Salg,178,3904,5,1911,
 550,Villa,Grønningen 9,6520, Toftlund,500000 ,18-08-2016,Alm. Salg,86,5814,3,1964,-9%
 550,Villa,Nørrevej 21,6280, Højer,500000 ,18-08-2016,Alm. Salg,149,3356,5,1963,-16%
-550,Villa,Spikergade 1A,6270, Tønder,1165000 ,17-08-2016,Alm. Salg,102,11422,3,1900,
 550,Villa,Viben 34,6270, Tønder,1425000 ,17-08-2016,Alm. Salg,187,7620,4,1971,
 550,Villa,Østervang 31,6261, Bredebro,323000 ,15-08-2016,Alm. Salg,106,3047,4,1968,-15%
 550,Villa,Plantagevej 11,6270, Tønder,700000 ,15-08-2016,Alm. Salg,110,6364,3,1939,-7%
@@ -3623,7 +3556,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Havnebyvej 170,6792, Rømø,1575000 ,20-06-2016,Alm. Salg,190,8289,7,1857,-7%
 550,Villa,Åbenråvej 116,6780, Skærbæk,1350000 ,20-06-2016,Alm. Salg,205,6585,6,1931,
 550,Villa,Gammelskovvej 6,6534, Agerskov,1325000 ,20-06-2016,Alm. Salg,226,5863,6,1948,-7%
-550,Villa,Tved 121,6270, Tønder,1749000 ,20-06-2016,Alm. Salg,156,11212,5,1999,
 550,Villa,Tingvej 49,6780, Skærbæk,310000 ,20-06-2016,Alm. Salg,117,2650,4,1953,-11%
 550,Villa,Ahornvej 32,6520, Toftlund,560000 ,19-06-2016,Alm. Salg,110,5091,4,1977,-13%
 550,Villa,Rugmarken 55,6240, Løgumkloster,262200 ,18-06-2016,Alm. Salg,202,1298,5,2017,
@@ -3640,15 +3572,11 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Hostrupvej 41,6270, Tønder,50000 ,07-06-2016,Alm. Salg,101,495,3,1920,-74%
 550,Villa,Rytterfennen 52,6780, Skærbæk,875000 ,07-06-2016,Alm. Salg,122,7172,4,1979,
 550,Villa,Gallehusskovvej 6,6270, Tønder,50000 ,06-06-2016,Alm. Salg,60,833,3,1956,-74%
-550,Villa,Koldkaadvej 17,6240, Løgumkloster,400000 ,05-06-2016,Alm. Salg,226,1770,5,1957,
 550,Villa,Fennevej 1,6270, Tønder,860000 ,05-06-2016,Alm. Salg,148,5811,5,1969,-9%
 550,Ejerlejlighed,Nordre Havnevej 56,6792, Rømø,1360000 ,04-06-2016,Alm. Salg,124,10968,4,2010,
 550,Ejerlejlighed,"Kogade 9, 2. th",6270, Tønder,1430000 ,02-06-2016,Alm. Salg,139,10288,3,1987,-8%
 550,Villa,Vestergade 12,6520, Toftlund,410000 ,02-06-2016,Alm. Salg,140,2929,6,1952,-17%
 550,Villa,Rolighedsvej 21,6520, Toftlund,500000 ,02-06-2016,Alm. Salg,92,5435,3,1956,
-550,Ejerlejlighed,Mellemgade 2,6280, Højer,350000 ,01-06-2016,Alm. Salg,62,5645,2,1892,
-550,Ejerlejlighed,"Storegade 8, st",6280, Højer,350000 ,01-06-2016,Alm. Salg,77,4545,2,1892,
-550,Ejerlejlighed,"Storegade 8, 1",6280, Højer,350000 ,01-06-2016,Alm. Salg,113,3097,3,1892,
 550,Ejerlejlighed,"Vidågade 36A, 1",6270, Tønder,310000 ,01-06-2016,Alm. Salg,169,1834,4,1925,
 550,Villa,Randerupvej 72,6780, Skærbæk,365000 ,01-06-2016,Fam. Salg,157,2325,5,1978,
 550,Villa,Kogsvej 42,6780, Skærbæk,225000 ,01-06-2016,Alm. Salg,98,2296,4,1954,
@@ -3698,7 +3626,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Gammel Tøndervej 25A,6534, Agerskov,550000 ,01-05-2016,Alm. Salg,286,1923,6,1900,-19%
 550,Villa,Tingvej 22,6780, Skærbæk,425000 ,28-04-2016,Alm. Salg,142,2993,6,1900,8%
 550,Villa,Søndertoften 17,6270, Tønder,1125000 ,28-04-2016,Alm. Salg,175,6429,6,1995,-12%
-550,Ejerlejlighed,"Vestergade 3B, st. 24",6792, Rømø,725000 ,27-04-2016,Alm. Salg,64,11328,4,1984,
 550,Villa,Højervej 43,6270, Tønder,1250000 ,27-04-2016,Alm. Salg,238,5252,7,1943,-10%
 550,Villa,Melbyvej 29,6780, Skærbæk,800000 ,27-04-2016,Alm. Salg,177,4520,6,1900,-27%
 550,Villa,Jægerskoven 3,6520, Toftlund,985000 ,27-04-2016,Alm. Salg,203,4852,6,1978,-8%
@@ -3800,7 +3727,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Vestervang 3,6261, Bredebro,625000 ,15-02-2016,Alm. Salg,143,4371,4,1976,-10%
 550,Villa,Galgemark 6,6261, Bredebro,600000 ,14-02-2016,Alm. Salg,170,3529,6,1971,
 550,Villa,Frigrunden 9,6270, Tønder,1145000 ,14-02-2016,Alm. Salg,105,10905,4,1850,
-550,Rækkehus,Blåklokkevej 24,6792, Rømø,1095000 ,11-02-2016,Alm. Salg,97,11289,4,2006,-8%
 550,Villa,Enghavevej 33,6240, Løgumkloster,400000 ,11-02-2016,Alm. Salg,161,2484,4,1978,-33%
 550,Villa,Nørrefoldvej 17,6270, Tønder,1060000 ,11-02-2016,Alm. Salg,128,8281,3,1955,
 550,Rækkehus,Nørregade 57,6270, Tønder,475000 ,10-02-2016,Alm. Salg,80,5938,4,1870,
@@ -3942,9 +3868,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Ribevej 31,6780, Skærbæk,375000 ,27-10-2015,Fam. Salg,102,3676,3,1967,
 550,Villa,Skolegade 37,6780, Skærbæk,425000 ,26-10-2015,Alm. Salg,90,4722,3,1963,-14%
 550,Villa,Søndervej 1B,6270, Tønder,835000 ,26-10-2015,Alm. Salg,139,6007,4,1970,-6%
-550,Ejerlejlighed,Mellemgade 2,6280, Højer,180000 ,25-10-2015,Alm. Salg,62,2903,2,1892,
-550,Ejerlejlighed,"Storegade 8, st",6280, Højer,180000 ,25-10-2015,Alm. Salg,77,2338,2,1892,
-550,Ejerlejlighed,"Storegade 8, 1",6280, Højer,180000 ,25-10-2015,Alm. Salg,113,1593,3,1892,
 550,Villa,Åbenråvej 37,6780, Skærbæk,885000 ,25-10-2015,Alm. Salg,175,5057,6,1955,
 550,Villa,Havevej 9,6780, Skærbæk,200000 ,22-10-2015,Alm. Salg,75,2667,5,1934,
 550,Villa,Værftvej 3,6270, Tønder,1058000 ,22-10-2015,Alm. Salg,160,6613,7,1967,
@@ -4240,15 +4163,12 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Emmerlevvej 21,6280, Højer,200000 ,08-02-2015,Auktion,192,1042,6,1964,
 550,Villa,Nørregade 21,6534, Agerskov,520000 ,07-02-2015,Alm. Salg,96,5417,3,1963,-10%
 550,Villa,Kløvervej 5,6240, Løgumkloster,800000 ,04-02-2015,Alm. Salg,202,3960,5,1929,-6%
-550,Ejerlejlighed,"Vestergade 3A, st. 15",6792, Rømø,720000 ,03-02-2015,Alm. Salg,64,11250,4,1984,
 550,Villa,Vidågade 38,6270, Tønder,1525000 ,03-02-2015,Alm. Salg,165,9242,6,1988,-9%
 550,Villa,Galgemark 16,6261, Bredebro,500000 ,01-02-2015,Fam. Salg,159,3145,4,1876,
 550,Villa,Drengstedvej 5,6780, Skærbæk,460000 ,29-01-2015,Alm. Salg,173,2659,6,1907,-7%
 550,Villa,Vestermarksvej 8,6240, Løgumkloster,1300000 ,29-01-2015,Alm. Salg,175,7429,5,1930,
 550,Villa,Sønderager 17,6780, Skærbæk,672950 ,28-01-2015,Andet,291,2313,7,1938,
 550,Villa,Sønderbyen 10,6534, Agerskov,77582 ,28-01-2015,Alm. Salg,111,699,2,2016,
-550,Rækkehus,Bøgevej 6,6240, Løgumkloster,240000 ,27-01-2015,Alm. Salg,60,4000,2,1979,
-550,Villa,Arndrupvej 6,6240, Løgumkloster,240000 ,27-01-2015,Alm. Salg,155,1548,3,1930,
 550,Villa,Havnebyvej 95B,6792, Rømø,1196500 ,25-01-2015,Alm. Salg,235,5091,5,2023,14%
 550,Villa,Elmevej 7,6270, Tønder,1055000 ,22-01-2015,Alm. Salg,125,8440,4,1962,-4%
 550,Villa,Bjerndrupvej 18,6240, Løgumkloster,1375000 ,21-01-2015,Alm. Salg,216,6366,7,1930,
@@ -4287,7 +4207,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Kogsvej 29,6780, Skærbæk,415000 ,16-12-2014,Fam. Salg,105,3952,3,1965,
 550,Villa,Rylen 7,6270, Tønder,1200000 ,16-12-2014,Alm. Salg,168,7143,6,1973,-13%
 550,Rækkehus,Gulirisvej 23,6792, Rømø,600000 ,14-12-2014,Fam. Salg,97,6186,4,2007,
-550,Villa,Brorsonsvej 6,6240, Løgumkloster,2203672 ,14-12-2014,Auktion,194,11359,7,1964,
 550,Villa,Højervej 40,6280, Højer,50000 ,14-12-2014,Alm. Salg,124,403,4,1944,
 550,Villa,Tværvejen 5,6780, Skærbæk,401035 ,13-12-2014,Auktion,177,2266,4,1943,
 550,Ejerlejlighed,"Markledgade 2, 1",6240, Løgumkloster,506000 ,11-12-2014,Alm. Salg,60,8433,2,1876,
@@ -4324,7 +4243,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Søndergade 52A,6780, Skærbæk,416593 ,16-11-2014,Auktion,106,3930,4,1969,
 550,Villa,Vesterende 3,6280, Højer,825000 ,13-11-2014,Alm. Salg,149,5537,5,1978,
 550,Villa,Mariavænget 32,6520, Toftlund,510000 ,09-11-2014,Alm. Salg,156,3269,4,1980,-27%
-550,Villa,Gesingvej 15C,6780, Skærbæk,1460000 ,09-11-2014,Alm. Salg,129,11318,4,2007,
 550,Villa,Ulriksalle 9,6270, Tønder,705000 ,07-11-2014,Alm. Salg,140,5036,5,1979,-5%
 550,Villa,Nørreager 1,6280, Højer,500000 ,05-11-2014,Alm. Salg,147,3401,4,1978,-28%
 550,Villa,Tingvej 29,6780, Skærbæk,899000 ,05-11-2014,Alm. Salg,115,7817,4,1945,
@@ -4378,11 +4296,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Mågen 36,6270, Tønder,1275000 ,28-09-2014,Alm. Salg,152,8388,5,1978,-4%
 550,Villa,Holger Danskesvej 18,6270, Tønder,535000 ,28-09-2014,Alm. Salg,165,3242,6,1971,-7%
 550,Villa,Lagervej 4,6261, Bredebro,425000 ,26-09-2014,Alm. Salg,96,4427,3,1966,
-550,Rækkehus,Vestervej 53A,6792, Rømø,1350000 ,25-09-2014,Alm. Salg,118,11441,3,1935,
 550,Villa,Kastaniealle 8,6270, Tønder,865000 ,24-09-2014,Alm. Salg,139,6223,3,1961,-9%
 550,Villa,Vestervej 55,6792, Rømø,550000 ,24-09-2014,Auktion,247,2227,5,1760,
 550,Rækkehus,Nørregade 59,6270, Tønder,550000 ,22-09-2014,Andet,86,6395,3,1966,
-550,Ejerlejlighed,Markedsgade 22,6240, Løgumkloster,950000 ,21-09-2014,Alm. Salg,172,5523,5,1809,
 550,Villa,Hjerpstedvej 4,6280, Højer,200000 ,19-09-2014,Alm. Salg,120,1667,2,1930,
 550,Villa,Langelinie 10,6520, Toftlund,290000 ,18-09-2014,Alm. Salg,191,1518,7,1965,-27%
 550,Villa,Jægertoften 62,6780, Skærbæk,207000 ,18-09-2014,Alm. Salg,212,976,5,2015,
@@ -4408,7 +4324,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Havnebyvej 70,6792, Rømø,400000 ,20-08-2014,Alm. Salg,179,2235,6,1948,-29%
 550,Villa,Søndergade 29,6520, Toftlund,400000 ,20-08-2014,Alm. Salg,259,1544,7,1904,-11%
 550,Villa,Ringgade 11,6240, Løgumkloster,300000 ,17-08-2014,Alm. Salg,103,2913,4,1964,-36%
-550,Villa,Nygade 16,6270, Tønder,1890000 ,17-08-2014,Alm. Salg,167,11317,7,1928,
 550,Villa,Slotsgaden 11,6270, Tønder,500000 ,14-08-2014,Alm. Salg,241,2075,7,1910,-9%
 550,Villa,Algade 7,6780, Skærbæk,200000 ,12-08-2014,Alm. Salg,174,1149,5,1907,
 550,Villa,Blomsterparken 4,6520, Toftlund,465000 ,11-08-2014,Fam. Salg,232,2004,5,1973,
@@ -4868,7 +4783,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Toftvej 2,6270, Tønder,950000 ,23-04-2013,Alm. Salg,165,5758,5,1969,-19%
 550,Villa,Engtoften 13,6534, Agerskov,350000 ,22-04-2013,Alm. Salg,131,2672,4,1973,-11%
 550,Villa,Horsbølvej 32,6780, Skærbæk,470000 ,18-04-2013,Alm. Salg,126,3730,4,1905,
-550,Villa,Højgade 6,6270, Tønder,300000 ,17-04-2013,Auktion,190,1579,6,1870,
 550,Villa,Nørrevej 6,6270, Tønder,200000 ,14-04-2013,Alm. Salg,110,1818,4,1951,-38%
 550,Villa,Søndergade 9,6780, Skærbæk,677500 ,12-04-2013,Alm. Salg,107,6332,4,1965,-3%
 550,Villa,Elmealle 15,6240, Løgumkloster,650000 ,12-04-2013,Alm. Salg,129,5039,4,1922,-16%
@@ -4950,7 +4864,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Møllevej 10,6240, Løgumkloster,525000 ,15-01-2013,Fam. Salg,91,5769,3,1958,
 550,Villa,Tøndervej 52,6780, Skærbæk,460000 ,14-01-2013,Alm. Salg,82,5610,3,1950,-7%
 550,Villa,Vesterende 45B,6261, Bredebro,800000 ,14-01-2013,Alm. Salg,175,4571,2,2015,
-550,Rækkehus,"Nørregade 41A, st. th",6280, Højer,135000 ,07-01-2013,Alm. Salg,52,2596,2,1906,
 550,Villa,Erik Lassensvej 14,6270, Tønder,500000 ,07-01-2013,Fam. Salg,160,3125,5,1912,
 550,Rækkehus,Jepsensvej 7,6261, Bredebro,220000 ,06-01-2013,Auktion,120,1833,4,1947,-66%
 550,Villa,Algade 16,6780, Skærbæk,100000 ,06-01-2013,Auktion,140,714,6,1917,-71%
@@ -5249,7 +5162,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Engvej 11,6240, Løgumkloster,475000 ,13-03-2012,Alm. Salg,125,3800,4,1964,-24%
 550,Villa,Nygade 39,6270, Tønder,714000 ,12-03-2012,Fam. Salg,87,8207,3,1963,
 550,Villa,Søndergade 38A,6520, Toftlund,505000 ,12-03-2012,Alm. Salg,140,3607,6,1959,
-550,Ejerlejlighed,"Hovedgaden 21, 1",6534, Agerskov,650000 ,11-03-2012,Alm. Salg,229,2838,9,1900,
 550,Villa,Birte Thyssens Vej 6,6520, Toftlund,340000 ,08-03-2012,Alm. Salg,178,1910,5,2013,
 550,Villa,Bønderbyvej 25,6270, Tønder,609565 ,07-03-2012,Alm. Salg,151,4037,5,1775,-39%
 550,Villa,Allegade 11,6240, Løgumkloster,190000 ,07-03-2012,Auktion,119,1597,4,2020,-71%
@@ -5293,7 +5205,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Jens Jessensvej 2,6270, Tønder,1455000 ,03-02-2012,Alm. Salg,165,8818,4,1986,
 550,Villa,Kogsbølvej 9,6280, Højer,450000 ,01-02-2012,Alm. Salg,143,3147,3,1827,
 550,Villa,Carstensgade 62,6270, Tønder,1074000 ,31-01-2012,Alm. Salg,147,7306,4,1962,
-550,Villa,Spikergade 1A,6270, Tønder,735000 ,30-01-2012,Alm. Salg,102,7206,3,1900,-18%
 550,Villa,Engeriis 29,6534, Agerskov,640000 ,29-01-2012,Alm. Salg,136,4706,4,1973,-5%
 550,Villa,Lundbyesvej 24,6240, Løgumkloster,725000 ,29-01-2012,Alm. Salg,144,5035,4,1944,-15%
 550,Villa,Tønder Landevej 16,6240, Løgumkloster,1100000 ,29-01-2012,Alm. Salg,259,4247,6,1966,
@@ -5317,7 +5228,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Leosalle 76,6270, Tønder,739735 ,10-01-2012,Andet,190,3893,7,1965,
 550,Villa,Stationsvej 1,6280, Højer,750000 ,10-01-2012,Alm. Salg,156,4808,7,1929,-6%
 550,Villa,Fruensgårdsvej 7,6270, Tønder,1225000 ,09-01-2012,Alm. Salg,224,5469,7,1880,-5%
-550,Villa,Prilen 23,6792, Rømø,970000 ,09-01-2012,Alm. Salg,84,11548,5,1967,
 550,Ejerlejlighed,"Lillegade 6, 1",6270, Tønder,5001 ,08-01-2012,Auktion,94,53,3,1850,
 550,Villa,Tjørnevej 7,6270, Tønder,500000 ,08-01-2012,Alm. Salg,100,5000,4,1987,-12%
 550,Villa,Drengstedvej 17,6780, Skærbæk,55001 ,08-01-2012,Auktion,105,524,3,1870,-90%
@@ -5325,8 +5235,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Stationsvej 20,6261, Bredebro,598000 ,08-01-2012,Fam. Salg,104,5750,3,1956,
 550,Villa,Randerup 50,6261, Bredebro,100000 ,08-01-2012,Auktion,141,709,4,1939,
 550,Villa,Nørrehedevej 11,6280, Højer,61250 ,07-01-2012,Alm. Salg,79,775,3,1845,
-550,Ejerlejlighed,Præstevænget 11B,6520, Toftlund,230000 ,03-01-2012,Fam. Salg,64,3594,2,1963,
-550,Villa,Præstevænget 11A,6520, Toftlund,230000 ,03-01-2012,Fam. Salg,198,1162,7,1963,
 550,Villa,Østergade 60,6270, Tønder,1800000 ,29-12-2011,Alm. Salg,212,8491,8,1800,-9%
 550,Villa,Gammel Toftlundvej 13,6520, Toftlund,374000 ,28-12-2011,Alm. Salg,200,1870,7,1900,-52%
 550,Villa,Jørgensgaardvej 11,6240, Løgumkloster,570000 ,27-12-2011,Alm. Salg,88,6477,3,1953,-9%
@@ -5449,9 +5357,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Kirkestien 4,6270, Tønder,400000 ,28-08-2011,Alm. Salg,108,3704,4,1800,-27%
 550,Villa,Landebyvej 18,6240, Løgumkloster,763880 ,25-08-2011,Alm. Salg,211,3620,6,2013,
 550,Villa,Vesterende 18,6261, Bredebro,490000 ,24-08-2011,Alm. Salg,148,3311,4,1927,-18%
-550,Ejerlejlighed,Bakken 2A,6520, Toftlund,800000 ,22-08-2011,Alm. Salg,74,10811,4,1890,
-550,Ejerlejlighed,"Østergade 26, 1. th",6520, Toftlund,800000 ,22-08-2011,Alm. Salg,87,9195,4,1890,
-550,Ejerlejlighed,"Østergade 26, st. th",6520, Toftlund,800000 ,22-08-2011,Alm. Salg,79,10127,3,1890,
 550,Villa,Tingvej 37,6780, Skærbæk,192000 ,21-08-2011,Auktion,300,640,9,1911,
 550,Villa,Høybergvej 39,6261, Bredebro,450000 ,16-08-2011,Alm. Salg,110,4091,3,1948,
 550,Villa,Nørhus 1,6261, Bredebro,980000 ,16-08-2011,Alm. Salg,252,3889,9,1852,-15%
@@ -5555,7 +5460,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Vasevej 10,6780, Skærbæk,759110 ,18-05-2011,Fam. Salg,172,4413,6,1949,
 550,Villa,Ullerupvej 67,6780, Skærbæk,1150000 ,17-05-2011,Alm. Salg,232,4957,7,1973,
 550,Villa,Boldershøj 6,6534, Agerskov,10000 ,17-05-2011,Auktion,100,100,4,1966,-98%
-550,Villa,Tved 128,6270, Tønder,1260000 ,17-05-2011,Alm. Salg,111,11351,4,1981,
 550,Villa,Skovbrynet 11,6780, Skærbæk,500000 ,17-05-2011,Fam. Salg,121,4132,4,1958,
 550,Villa,Boldershøj 15,6534, Agerskov,467500 ,16-05-2011,Fam. Salg,112,4174,4,1965,
 550,Villa,Skærbækvej 14,6520, Toftlund,575000 ,16-05-2011,Alm. Salg,172,3343,6,1960,-4%
@@ -5602,13 +5506,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Skast 44,6261, Bredebro,170000 ,10-04-2011,Auktion,137,1241,4,1956,
 550,Villa,Håndværkervej 3,6792, Rømø,720000 ,10-04-2011,Alm. Salg,116,6207,6,1964,
 550,Villa,Hjejlen 34,6270, Tønder,717857 ,09-04-2011,Alm. Salg,187,3839,6,1976,
-550,Ejerlejlighed,"Vestergade 60A, 2",6270, Tønder,475000 ,06-04-2011,Auktion,121,3926,3,1875,
-550,Ejerlejlighed,"Vestergade 60A, 1",6270, Tønder,475000 ,06-04-2011,Auktion,112,4241,3,1875,
-550,Ejerlejlighed,"Vestergade 60B, st",6270, Tønder,475000 ,06-04-2011,Auktion,79,6013,3,1914,
-550,Ejerlejlighed,"Vestergade 60B, 1",6270, Tønder,475000 ,06-04-2011,Auktion,61,7787,3,1914,
-550,Ejerlejlighed,"Gråbrødrevej 19, st",6270, Tønder,475000 ,06-04-2011,Auktion,84,5655,3,1907,
-550,Ejerlejlighed,"Gråbrødrevej 19, 1",6270, Tønder,475000 ,06-04-2011,Auktion,88,5398,4,1907,
-550,Ejerlejlighed,"Gråbrødrevej 19, 2",6270, Tønder,475000 ,06-04-2011,Auktion,83,5723,2,1907,
 550,Villa,Kastanievej 6,6520, Toftlund,1125000 ,06-04-2011,Alm. Salg,155,7258,4,1976,-49%
 550,Villa,Høllevang 15,6520, Toftlund,417534 ,06-04-2011,Alm. Salg,170,2456,7,1974,
 550,Villa,Dragonvej 32,6270, Tønder,1175000 ,06-04-2011,Alm. Salg,110,10682,4,1962,-2%
@@ -5786,7 +5683,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Damhusvej 4,6240, Løgumkloster,1095000 ,14-11-2010,Alm. Salg,163,6718,4,1931,
 550,Villa,Mågen 25,6270, Tønder,475676 ,07-11-2010,Andet,123,3867,5,1949,-60%
 550,Villa,Sognegade 28,6240, Løgumkloster,510000 ,06-11-2010,Fam. Salg,169,3018,6,1953,
-550,Ejerlejlighed,"Nørrefoldvej 6B, 1",6270, Tønder,800000 ,04-11-2010,Alm. Salg,123,6504,4,1901,
 550,Villa,Landevejen 11,6780, Skærbæk,390000 ,04-11-2010,Alm. Salg,111,3514,4,1951,-21%
 550,Villa,Elmegårdsvej 19,6270, Tønder,660000 ,03-11-2010,Alm. Salg,134,4925,4,1973,-9%
 550,Villa,Drengstedvej 21C,6780, Skærbæk,660000 ,03-11-2010,Alm. Salg,114,5789,5,1978,-5%
@@ -5807,13 +5703,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Hovedgaden 48,6534, Agerskov,375000 ,20-10-2010,Auktion,190,1974,8,1910,
 550,Villa,Bunti 18,6261, Bredebro,85000 ,20-10-2010,Alm. Salg,53,1604,3,1955,
 550,Villa,Kildetoften 56,6780, Skærbæk,61710 ,18-10-2010,Alm. Salg,155,398,5,2011,
-550,Villa,Leosalle 16,6270, Tønder,1550000 ,17-10-2010,Alm. Salg,138,11232,5,1934,-5%
 550,Villa,Carstensgade 30,6270, Tønder,1700000 ,16-10-2010,Alm. Salg,174,9770,6,1923,-5%
 550,Villa,Vesterende 17A,6261, Bredebro,750000 ,15-10-2010,Alm. Salg,92,8152,4,1973,-16%
 550,Villa,Sivkrovej 23,6240, Løgumkloster,635000 ,14-10-2010,Alm. Salg,153,4150,5,1870,
 550,Villa,Rejsby Landevej 7,6780, Skærbæk,780000 ,14-10-2010,Alm. Salg,140,5571,3,1937,
-550,Ejerlejlighed,"Tyvsevej 8B, 1",6270, Tønder,600000 ,13-10-2010,Fam. Salg,70,8571,3,1937,
-550,Villa,Tyvsevej 8A,6270, Tønder,600000 ,13-10-2010,Fam. Salg,191,3141,6,1937,
 550,Villa,Nylandsvej 2,6280, Højer,540000 ,13-10-2010,Alm. Salg,200,2700,7,1797,
 550,Villa,Danetoftevej 2,6520, Toftlund,400899 ,13-10-2010,Andet,134,2992,4,1925,-38%
 550,Villa,Carstensgade 77,6270, Tønder,505338 ,12-10-2010,Alm. Salg,212,2384,7,1910,
@@ -5917,7 +5810,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Sønderbyvej 42,6792, Rømø,1025000 ,13-07-2010,Alm. Salg,98,10459,4,1929,-11%
 550,Villa,Nørremarken 15,6780, Skærbæk,400000 ,11-07-2010,Alm. Salg,149,2685,5,2011,
 550,Ejerlejlighed,"Richtsensgade 25, 1",6270, Tønder,495000 ,07-07-2010,Auktion,133,3722,4,1910,
-550,Villa,Tved 262,6270, Tønder,1845000 ,06-07-2010,Alm. Salg,164,11250,5,2002,
 550,Villa,Leosalle 7,6270, Tønder,800000 ,05-07-2010,Andet,169,4734,5,1927,
 550,Villa,Branderup Kådner 8,6535, Branderup J,50000 ,04-07-2010,Alm. Salg,167,299,5,2012,
 550,Villa,Søndervang 65,6261, Bredebro,550000 ,02-07-2010,Alm. Salg,111,4955,3,1972,-8%
@@ -6063,7 +5955,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Gærupvej 1,6280, Højer,400000 ,14-02-2010,Alm. Salg,92,4348,3,1961,-18%
 550,Villa,Rylen 17,6270, Tønder,500000 ,14-02-2010,Alm. Salg,156,3205,5,1973,
 550,Villa,Slotsvej 3,6520, Toftlund,465000 ,10-02-2010,Auktion,127,3661,4,2016,-52%
-550,Villa,Rosinfeltvej 131,6270, Tønder,1835000 ,10-02-2010,Alm. Salg,160,11469,5,2002,
 550,Villa,Skolegade 4,6280, Højer,600000 ,10-02-2010,Alm. Salg,72,8333,3,1850,-6%
 550,Villa,Toften 32,6780, Skærbæk,1050000 ,09-02-2010,Alm. Salg,175,6000,5,1967,-24%
 550,Villa,Grønningen 7,6520, Toftlund,600000 ,08-02-2010,Alm. Salg,139,3822,4,1963,
@@ -6153,7 +6044,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Rugmarken 45,6240, Løgumkloster,298480 ,09-12-2009,Alm. Salg,167,1787,5,2010,
 550,Villa,Høybergvej 55,6261, Bredebro,375000 ,09-12-2009,Auktion,145,2586,3,1934,
 550,Villa,Mariavænget 20,6520, Toftlund,925000 ,08-12-2009,Alm. Salg,152,6086,5,1976,-5%
-550,Villa,Kastaniealle 6,6270, Tønder,1800000 ,08-12-2009,Alm. Salg,160,11250,7,1956,-5%
 550,Villa,Højervej 33,6270, Tønder,935000 ,08-12-2009,Alm. Salg,144,6493,6,1951,
 550,Villa,Drosselvej 19,6792, Rømø,1095000 ,08-12-2009,Alm. Salg,185,5919,4,1980,-5%
 550,Villa,Rugmarken 47,6240, Løgumkloster,293160 ,08-12-2009,Alm. Salg,184,1593,6,2010,
@@ -6343,7 +6233,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Lillestrømvej 2,6270, Tønder,720000 ,25-06-2009,Alm. Salg,272,2647,6,2011,-28%
 550,Villa,Ballumvej 81,6280, Højer,575000 ,25-06-2009,Alm. Salg,100,5750,3,1960,
 550,Villa,Hellevadvej 15,6240, Løgumkloster,250000 ,24-06-2009,Alm. Salg,123,2033,5,1880,-17%
-550,Villa,Præstevænget 11A,6520, Toftlund,890000 ,24-06-2009,Alm. Salg,198,4495,7,1963,-15%
 550,Villa,Gammel Agerskovvej 7,6534, Agerskov,950000 ,24-06-2009,Fam. Salg,164,5793,6,1983,
 550,Villa,Dalen 9,6780, Skærbæk,591357 ,23-06-2009,Andet,157,3499,5,1969,
 550,Villa,Kærvej 63,6270, Tønder,875000 ,23-06-2009,Alm. Salg,151,5795,6,1966,
@@ -6411,7 +6300,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Nørregade 30,6534, Agerskov,970000 ,04-05-2009,Alm. Salg,150,6467,6,1963,-3%
 550,Villa,Rømøvej 6,6520, Toftlund,815000 ,04-05-2009,Fam. Salg,130,4312,3,1930,
 550,Villa,Dalen 20,6780, Skærbæk,725000 ,03-05-2009,Alm. Salg,98,7398,3,1971,-3%
-550,Villa,Søndergade 52A,6780, Skærbæk,1200000 ,03-05-2009,Alm. Salg,106,11321,4,1969,51%
 550,Rækkehus,Danmarksgade 3,6261, Bredebro,730000 ,30-04-2009,Alm. Salg,137,5328,5,1886,-17%
 550,Villa,Kagebøl 7,6780, Skærbæk,1285000 ,30-04-2009,Alm. Salg,129,9961,5,1978,-5%
 550,Villa,Vennemosevej 47,6270, Tønder,520000 ,29-04-2009,Alm. Salg,105,4952,4,1965,
@@ -6462,7 +6350,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Tøndervej 29,6780, Skærbæk,1285000 ,24-03-2009,Alm. Salg,117,10983,4,1948,-7%
 550,Villa,Unsigvej 6,6780, Skærbæk,1100000 ,23-03-2009,Alm. Salg,214,5140,7,1974,-21%
 550,Villa,Mellemgade 11,6780, Skærbæk,425000 ,23-03-2009,Alm. Salg,70,6071,2,1951,-14%
-550,Villa,Frigrunden 21,6270, Tønder,1050000 ,22-03-2009,Alm. Salg,92,11413,4,1900,
 550,Rækkehus,Lergravene 42,6780, Skærbæk,675000 ,22-03-2009,Alm. Salg,101,6683,4,1980,-7%
 550,Villa,Dyrhusvej 20,6270, Tønder,400000 ,22-03-2009,Alm. Salg,169,2367,5,1960,
 550,Villa,Svingelen 23,6780, Skærbæk,250000 ,22-03-2009,Alm. Salg,54,4630,2,1964,
@@ -6516,7 +6403,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Trælborgvej 5,6261, Bredebro,825000 ,12-02-2009,Alm. Salg,123,6707,4,1963,-8%
 550,Villa,Mølleparken 29,6240, Løgumkloster,620000 ,11-02-2009,Alm. Salg,201,3085,5,1936,-11%
 550,Villa,Koldingvej 10,6240, Løgumkloster,550000 ,10-02-2009,Alm. Salg,154,3571,4,1939,
-550,Villa,Degnetoften 2D,6534, Agerskov,500000 ,09-02-2009,Alm. Salg,108,4630,3,2009,-16%
 550,Villa,Vester Terpvej 20,6240, Løgumkloster,362500 ,08-02-2009,Andet,185,1959,7,1900,
 550,Villa,Guldagervej 17,6240, Løgumkloster,825000 ,08-02-2009,Alm. Salg,141,5851,4,1972,-8%
 550,Villa,Ballumvej 46,6280, Højer,487500 ,07-02-2009,Alm. Salg,125,3900,4,1946,-18%
@@ -6581,7 +6467,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Hostrupvej 10,6270, Tønder,800000 ,30-11-2008,Fam. Salg,150,5333,5,1970,
 550,Villa,Strædet 3A,6270, Tønder,675000 ,30-11-2008,Andet,208,3245,7,1973,
 550,Villa,Ribelandevej 83,6270, Tønder,442412 ,30-11-2008,Andet,199,2223,6,1950,
-550,Villa,Gaden 44,6261, Bredebro,1740000 ,29-11-2008,Alm. Salg,154,11299,4,2003,
 550,Villa,Kogsvej 2,6780, Skærbæk,340000 ,24-11-2008,Alm. Salg,166,2048,6,1963,
 550,Villa,Hostrupvej 31,6270, Tønder,650000 ,24-11-2008,Alm. Salg,173,3757,5,1908,
 550,Villa,Stationsvej 20,6261, Bredebro,450500 ,24-11-2008,Fam. Salg,104,4332,3,1956,
@@ -6602,7 +6487,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Nygade 37,6270, Tønder,450000 ,10-11-2008,Fam. Salg,152,2961,5,1963,
 550,Villa,Møldamager 58,6240, Løgumkloster,1650000 ,08-11-2008,Alm. Salg,154,10714,5,1998,-3%
 550,Rækkehus,Rosenvænget 3,6270, Tønder,520000 ,06-11-2008,Alm. Salg,87,5977,4,1965,
-550,Ejerlejlighed,"Nørrefoldvej 6B, 1",6270, Tønder,200000 ,06-11-2008,Alm. Salg,123,1626,4,1901,
 550,Villa,Munketoft 8,6261, Bredebro,305000 ,06-11-2008,Alm. Salg,298,1023,6,1965,
 550,Villa,Hjejlen 43,6270, Tønder,698791 ,05-11-2008,Andet,205,3409,5,1977,
 550,Villa,Byvej 3,6270, Tønder,1075000 ,04-11-2008,Alm. Salg,112,9598,4,1849,-4%
@@ -6620,7 +6504,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Birte Thyssens Vej 3,6520, Toftlund,270000 ,29-10-2008,Alm. Salg,112,2411,5,2009,
 550,Villa,Åbenråvej 50,6780, Skærbæk,1916526 ,28-10-2008,Alm. Salg,274,6995,8,1919,
 550,Villa,Vester Gasse 14,6780, Skærbæk,250000 ,27-10-2008,Alm. Salg,190,1316,5,1967,
-550,Ejerlejlighed,"Nørrefoldvej 6B, 1",6270, Tønder,1000000 ,26-10-2008,Alm. Salg,123,8130,4,1901,
 550,Villa,Abterp 16,6261, Bredebro,290000 ,26-10-2008,Alm. Salg,83,3494,2,1825,
 550,Villa,Gammel Geestrupvej 1,6520, Toftlund,487500 ,26-10-2008,Fam. Salg,181,2693,5,1954,
 550,Villa,Solvej 19,6520, Toftlund,348750 ,25-10-2008,Alm. Salg,114,3059,4,1942,
@@ -6836,7 +6719,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Rypevej 10,6240, Løgumkloster,1200000 ,19-06-2008,Alm. Salg,171,7018,5,1971,-3%
 550,Villa,Hjulervej 10,6780, Skærbæk,912500 ,18-06-2008,Alm. Salg,149,6124,4,1972,
 550,Villa,Østergade 18,6270, Tønder,2425000 ,18-06-2008,Alm. Salg,242,10021,9,1750,-7%
-550,Villa,Tved 206,6270, Tønder,1500000 ,18-06-2008,Alm. Salg,131,11450,4,1998,
 550,Villa,Søndervej 25,6270, Tønder,1025000 ,17-06-2008,Alm. Salg,287,3571,8,1980,-18%
 550,Villa,Viddingherredsgade 8,6270, Tønder,1595000 ,17-06-2008,Alm. Salg,175,9114,6,1910,
 550,Villa,Tøndervej 10,6520, Toftlund,279200 ,17-06-2008,Andet,189,1477,4,1957,
@@ -7074,7 +6956,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Gesingvej 15B,6780, Skærbæk,1650000 ,13-02-2008,Alm. Salg,171,9649,5,2008,
 550,Villa,Mandbjerg Syd 5,6520, Toftlund,1600000 ,11-02-2008,Alm. Salg,206,7767,6,1998,
 550,Villa,Ribelandevej 131,6270, Tønder,330000 ,11-02-2008,Alm. Salg,133,2481,4,1940,-18%
-550,Villa,Grønningen 24,6520, Toftlund,1150000 ,11-02-2008,Alm. Salg,101,11386,4,1965,
 550,Villa,Kærmarksvej 47,6780, Skærbæk,430000 ,11-02-2008,Fam. Salg,136,3162,6,1876,
 550,Villa,Højervej 21,6270, Tønder,425000 ,11-02-2008,Alm. Salg,139,3058,3,1905,-11%
 550,Villa,Nørrevej 1,6280, Højer,650000 ,10-02-2008,Fam. Salg,274,2372,7,1760,
@@ -7286,9 +7167,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Østervang 7,6261, Bredebro,339500 ,28-10-2007,Fam. Salg,84,4042,3,1965,
 550,Villa,Højervej 3,6270, Tønder,745000 ,27-10-2007,Alm. Salg,152,4901,9,1926,
 550,Villa,Søndervang 70,6261, Bredebro,1095000 ,26-10-2007,Alm. Salg,204,5368,7,1973,
-550,Ejerlejlighed,"Vestergade 75B, st. tv",6270, Tønder,700000 ,25-10-2007,Alm. Salg,76,9211,2,1850,
 550,Villa,Gammel Toftlundvej 10,6520, Toftlund,685000 ,25-10-2007,Alm. Salg,99,6919,5,1957,-1%
-550,Villa,Vestergade 75A,6270, Tønder,700000 ,25-10-2007,Alm. Salg,80,8750,3,1850,
 550,Villa,Spikergade 20,6270, Tønder,1650000 ,24-10-2007,Alm. Salg,269,6134,6,1880,
 550,Villa,K L Knudsens Vej 41,6261, Bredebro,745000 ,24-10-2007,Alm. Salg,133,5602,5,1940,
 550,Villa,Kr Olesensvej 2A,6780, Skærbæk,760000 ,24-10-2007,Alm. Salg,163,4663,5,1978,
@@ -7326,7 +7205,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Frigrunden 5,6270, Tønder,300000 ,07-10-2007,Alm. Salg,105,2857,4,1875,
 550,Villa,Rangstrupvej 15,6534, Agerskov,1235000 ,06-10-2007,Alm. Salg,153,8072,6,1958,-5%
 550,Villa,Strømvej 13,6240, Løgumkloster,462500 ,05-10-2007,Fam. Salg,138,3351,4,1968,
-550,Villa,Tved 280,6270, Tønder,1670000 ,04-10-2007,Alm. Salg,145,11517,5,2000,-1%
 550,Villa,Mågen 47,6270, Tønder,1166000 ,04-10-2007,Alm. Salg,149,7826,5,1977,
 550,Villa,Mølleparken 137,6240, Løgumkloster,1125000 ,04-10-2007,Alm. Salg,145,7759,4,1985,
 550,Villa,Mariavænget 10,6520, Toftlund,1236000 ,03-10-2007,Alm. Salg,167,7401,5,1977,
@@ -7894,7 +7772,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Præstevænget 21,6280, Højer,332331 ,27-12-2006,Andet,126,2638,5,1979,
 550,Villa,Lundbyesvej 25,6240, Løgumkloster,348500 ,26-12-2006,Fam. Salg,101,3450,4,1964,
 550,Villa,Rønnevej 2,6270, Tønder,685000 ,26-12-2006,Alm. Salg,137,5000,5,1954,
-550,Villa,Møldamager 28,6240, Løgumkloster,1700000 ,26-12-2006,Alm. Salg,147,11565,5,2002,
 550,Villa,Kirkegade 9,6240, Løgumkloster,238000 ,26-12-2006,Fam. Salg,82,2902,3,1958,
 550,Villa,Lindevej 3,6240, Løgumkloster,500000 ,23-12-2006,Alm. Salg,128,3906,4,1979,
 550,Villa,Randerupvej 55,6780, Skærbæk,1075000 ,21-12-2006,Alm. Salg,350,3071,5,1900,
@@ -7958,7 +7835,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Dravedvej 1A,6240, Løgumkloster,670000 ,14-11-2006,Alm. Salg,132,5076,4,1968,
 550,Villa,Chresten Jacobsens Vej 3,6520, Toftlund,395000 ,14-11-2006,Alm. Salg,188,2101,5,2007,
 550,Villa,Bredgade 34,6240, Løgumkloster,590000 ,13-11-2006,Alm. Salg,163,3620,4,1959,
-550,Villa,Nygade 8,6780, Skærbæk,1101500 ,13-11-2006,Alm. Salg,97,11356,4,1934,
 550,Villa,Nørrefennen 2,6780, Skærbæk,121656 ,12-11-2006,Alm. Salg,126,966,3,2007,
 550,Villa,Møllegade 10,6240, Løgumkloster,600000 ,11-11-2006,Fam. Salg,172,3488,5,1860,
 550,Villa,Jægertoften 7,6780, Skærbæk,68400 ,11-11-2006,Alm. Salg,150,456,5,2007,
@@ -8017,7 +7893,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Vangsbovej 1,6780, Skærbæk,450000 ,11-10-2006,Alm. Salg,235,1915,5,2013,
 550,Villa,Kærmarksvej 53,6780, Skærbæk,173300 ,10-10-2006,Alm. Salg,65,2666,2,1912,
 550,Villa,Høybergvej 47,6261, Bredebro,139974 ,09-10-2006,Andet,77,1818,4,1942,
-550,Villa,Tved 127,6270, Tønder,1777000 ,09-10-2006,Alm. Salg,156,11391,5,2000,
 550,Villa,Ludvig Andresensvej 15,6270, Tønder,1530000 ,09-10-2006,Alm. Salg,139,11007,4,1951,
 550,Villa,Østermarkvej 3,6280, Højer,375000 ,09-10-2006,Alm. Salg,94,3989,4,1951,
 550,Villa,Nørregade 15,6280, Højer,795000 ,09-10-2006,Alm. Salg,165,4818,5,1927,
@@ -8081,7 +7956,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Rugmarken 13,6240, Løgumkloster,102630 ,06-09-2006,Alm. Salg,149,689,4,2007,
 550,Villa,Ulriksalle 129,6270, Tønder,107101 ,05-09-2006,Fam. Salg,113,948,3,1978,
 550,Villa,Søndervang 1,6261, Bredebro,750000 ,05-09-2006,Alm. Salg,135,5556,4,1968,
-550,Villa,Frigrunden 17,6270, Tønder,1035000 ,05-09-2006,Alm. Salg,91,11374,3,1900,
 550,Rækkehus,Nørregade 37,6270, Tønder,505000 ,04-09-2006,Alm. Salg,56,9018,2,1880,
 550,Villa,Vestervang 4,6280, Højer,820000 ,04-09-2006,Alm. Salg,166,4940,5,1979,
 550,Villa,Engvej 1,6240, Løgumkloster,793000 ,04-09-2006,Alm. Salg,165,4806,6,1963,
@@ -8280,7 +8154,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Vestervang 25,6240, Løgumkloster,850000 ,09-05-2006,Alm. Salg,162,5247,5,1980,
 550,Villa,Alexandrinevej 9,6270, Tønder,970000 ,08-05-2006,Alm. Salg,127,7638,4,1964,
 550,Villa,Midsommervej 104,6261, Bredebro,650000 ,08-05-2006,Alm. Salg,114,5702,4,1980,
-550,Villa,Rosinfeltvej 131,6270, Tønder,1800000 ,08-05-2006,Alm. Salg,160,11250,5,2002,
 550,Villa,Rosinfeltvej 127,6270, Tønder,222682 ,08-05-2006,Alm. Salg,192,1160,5,2008,
 550,Villa,Rådhusstræde 1,6240, Løgumkloster,750000 ,08-05-2006,Alm. Salg,199,3769,5,1920,
 550,Villa,Kornvang 56,6520, Toftlund,700000 ,07-05-2006,Alm. Salg,159,4403,7,1976,
@@ -8325,7 +8198,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Branderup Bygade 20,6535, Branderup J,630000 ,05-04-2006,Alm. Salg,169,3728,5,1923,
 550,Villa,Strengvej 34,6270, Tønder,795000 ,05-04-2006,Alm. Salg,155,5129,6,1917,
 550,Villa,Industrivej 9,6240, Løgumkloster,750000 ,04-04-2006,Alm. Salg,114,6579,4,1975,
-550,Villa,Koldkaadvej 17,6240, Løgumkloster,850000 ,04-04-2006,Alm. Salg,226,3761,5,1957,
 550,Villa,Gårdelykkevej 6,6534, Agerskov,697000 ,03-04-2006,Fam. Salg,230,3030,8,1900,
 550,Villa,Mølleparken 131,6240, Løgumkloster,957500 ,03-04-2006,Alm. Salg,135,7093,4,1985,
 550,Villa,Højervej 53,6270, Tønder,560000 ,03-04-2006,Fam. Salg,106,5283,3,1963,
@@ -8377,7 +8249,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Lindevej 32,6240, Løgumkloster,27378 ,14-03-2006,Alm. Salg,150,183,5,2015,
 550,Villa,Lindevej 40,6240, Løgumkloster,28512 ,14-03-2006,Alm. Salg,173,165,5,2020,
 550,Villa,Løgumklostervej 4,6535, Branderup J,750000 ,14-03-2006,Alm. Salg,169,4438,7,1924,
-550,Villa,Markvænget 101,6520, Toftlund,2122055 ,14-03-2006,Alm. Salg,189,11228,6,2007,
 550,Villa,Strandvej 8,6280, Højer,1098000 ,13-03-2006,Alm. Salg,152,7224,6,1933,
 550,Villa,Høllevang 133,6520, Toftlund,785000 ,13-03-2006,Alm. Salg,97,8093,3,1976,
 550,Villa,Sottrupvej 6,6240, Løgumkloster,320400 ,12-03-2006,Alm. Salg,108,2967,4,1951,
@@ -8755,21 +8626,17 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Bøgevej 13,6780, Skærbæk,610000 ,31-08-2005,Alm. Salg,122,5000,5,1965,
 550,Villa,Gaden 4,6261, Bredebro,240000 ,31-08-2005,Alm. Salg,69,3478,2,1800,
 550,Villa,Søndervej 6,6270, Tønder,400000 ,31-08-2005,Fam. Salg,127,3150,4,1971,
-550,Villa,Søndervang 16,6780, Skærbæk,2425000 ,30-08-2005,Alm. Salg,198,11439,6,1978,
 550,Villa,Skolegade 58,6780, Skærbæk,750000 ,30-08-2005,Alm. Salg,99,7576,4,1948,
 550,Villa,Vellerupvej 13,6534, Agerskov,692000 ,29-08-2005,Alm. Salg,263,2631,5,1946,
 550,Villa,Tved 121,6270, Tønder,1550000 ,29-08-2005,Alm. Salg,156,9936,5,1999,
 550,Villa,Rosinfeltvej 101,6270, Tønder,181186 ,28-08-2005,Alm. Salg,182,996,5,2006,
 550,Villa,Tved 216,6270, Tønder,1550000 ,28-08-2005,Alm. Salg,170,9118,5,1997,
-550,Rækkehus,Horupsgade 20,6270, Tønder,450000 ,27-08-2005,Alm. Salg,105,4286,3,1927,
 550,Villa,Hjerpstedvej 4,6280, Højer,405000 ,27-08-2005,Alm. Salg,120,3375,2,1930,
-550,Villa,Flensborglandevej 32,6270, Tønder,450000 ,27-08-2005,Alm. Salg,265,1698,8,2006,
 550,Villa,Aavej 3,6780, Skærbæk,450000 ,26-08-2005,Alm. Salg,106,4245,6,1952,
 550,Villa,Bygaden 33,6780, Skærbæk,420000 ,25-08-2005,Alm. Salg,134,3134,4,1928,
 550,Villa,Kærmarksvej 50,6780, Skærbæk,360000 ,25-08-2005,Alm. Salg,171,2105,5,1927,
 550,Villa,Rugmarken 37,6240, Løgumkloster,163130 ,25-08-2005,Alm. Salg,180,906,5,2008,
 550,Villa,Solderupvej 53,6240, Løgumkloster,180000 ,25-08-2005,Alm. Salg,105,1714,3,1961,
-550,Villa,Hjejlen 11,6270, Tønder,1000000 ,22-08-2005,Alm. Salg,165,6061,4,1976,
 550,Villa,Randerup 65,6261, Bredebro,340000 ,22-08-2005,Alm. Salg,200,1700,5,1850,
 550,Villa,Rudbølvej 1,6280, Højer,190000 ,22-08-2005,Alm. Salg,515,369,10,1878,
 550,Villa,Byvej 41,6261, Bredebro,266000 ,21-08-2005,Auktion,243,1095,7,1777,
@@ -8918,10 +8785,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Vinumvej 63,6780, Skærbæk,750000 ,13-06-2005,Alm. Salg,318,2358,8,1928,
 550,Villa,Enghavevej 2,6240, Løgumkloster,550000 ,13-06-2005,Alm. Salg,126,4365,4,1972,
 550,Ejerlejlighed,"Vestergade 61, 1",6270, Tønder,2550000 ,12-06-2005,Alm. Salg,245,10408,9,1929,
-550,Ejerlejlighed,"Strucksalle 25, 1",6270, Tønder,730000 ,12-06-2005,Alm. Salg,70,10429,3,1906,
 550,Villa,Vellerupvej 14,6534, Agerskov,500000 ,12-06-2005,Alm. Salg,99,5051,5,1957,
 550,Villa,Ellum Bygade 23,6240, Løgumkloster,1325000 ,12-06-2005,Alm. Salg,216,6134,5,1997,
-550,Villa,"Strucksalle 25, st",6270, Tønder,730000 ,12-06-2005,Alm. Salg,94,7766,4,1906,
 550,Villa,Købmandsvej 1,6520, Toftlund,650000 ,10-06-2005,Alm. Salg,122,5328,4,1985,
 550,Villa,Skast 55,6261, Bredebro,250000 ,09-06-2005,Alm. Salg,160,1563,6,1900,
 550,Villa,Nørhus 1,6261, Bredebro,1165000 ,09-06-2005,Alm. Salg,252,4623,9,1852,
@@ -9066,7 +8931,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Ejerlejlighed,"Tøndervej 4, 1",6780, Skærbæk,875000 ,07-04-2005,Alm. Salg,251,3486,6,1924,
 550,Villa,Krusåvej 43,6240, Løgumkloster,770000 ,07-04-2005,Alm. Salg,169,4556,5,1935,
 550,Villa,Sejerslevvej 51,6280, Højer,620000 ,06-04-2005,Alm. Salg,110,5636,3,1770,
-550,Villa,Tøndervej 7,6280, Højer,1850000 ,06-04-2005,Alm. Salg,164,11280,7,1877,
 550,Villa,Sønderbækvej 9,6270, Tønder,120000 ,05-04-2005,Alm. Salg,85,1412,4,1900,
 550,Villa,Haderslevvej 4,6240, Løgumkloster,250000 ,04-04-2005,Alm. Salg,180,1389,7,1943,
 550,Villa,Jægerskoven 35,6520, Toftlund,800000 ,04-04-2005,Alm. Salg,150,5333,5,1977,
@@ -9339,9 +9203,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Kovej 1,6280, Højer,412000 ,31-10-2004,Alm. Salg,70,5886,3,1910,
 550,Villa,Klostergade 5,6240, Løgumkloster,345000 ,29-10-2004,Alm. Salg,101,3416,4,1934,
 550,Villa,Solderupvej 8,6270, Tønder,785000 ,29-10-2004,Alm. Salg,161,4876,4,1913,
-550,Ejerlejlighed,Østergade 52,6270, Tønder,900000 ,28-10-2004,Alm. Salg,120,7500,2,1895,
-550,Ejerlejlighed,"Nørregade 2C, 2",6270, Tønder,900000 ,28-10-2004,Alm. Salg,133,6767,1,1895,
-550,Ejerlejlighed,"Nørregade 2C, 1",6270, Tønder,900000 ,28-10-2004,Alm. Salg,135,6667,1,1895,
 550,Villa,Præstegårdsvej 29,6780, Skærbæk,230000 ,28-10-2004,Alm. Salg,100,2300,3,1827,
 550,Villa,Elmevej 17,6780, Skærbæk,450000 ,28-10-2004,Alm. Salg,86,5233,3,1965,
 550,Villa,Søndervej 4,6280, Højer,595000 ,27-10-2004,Alm. Salg,72,8264,3,1878,
@@ -9360,14 +9221,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Fasanvej 15,6240, Løgumkloster,875000 ,20-10-2004,Alm. Salg,158,5538,5,1977,
 550,Rækkehus,Ludvig Andresensvej 29,6270, Tønder,755000 ,19-10-2004,Alm. Salg,127,5945,3,1979,
 550,Villa,Bygaden 34,6780, Skærbæk,500000 ,19-10-2004,Alm. Salg,106,4717,3,1944,
-550,Ejerlejlighed,"Vestergade 68A, 1",6270, Tønder,900000 ,18-10-2004,Alm. Salg,110,8182,4,1900,
 550,Ejerlejlighed,"Lillegade 6, st",6270, Tønder,400000 ,18-10-2004,Alm. Salg,86,4651,3,1850,
-550,Ejerlejlighed,"Ribelandevej 12, 1",6270, Tønder,1400000 ,18-10-2004,Alm. Salg,153,9150,6,1932,
-550,Ejerlejlighed,"Ribelandevej 12, st",6270, Tønder,1400000 ,18-10-2004,Alm. Salg,155,9032,6,1932,
-550,Villa,Kongevej 17,6270, Tønder,1000000 ,18-10-2004,Alm. Salg,125,8000,4,1955,
-550,Villa,Vestergade 46B,6270, Tønder,1100000 ,18-10-2004,Alm. Salg,146,7534,5,1777,
 550,Villa,Aaparken 17,6240, Løgumkloster,1055000 ,18-10-2004,Alm. Salg,146,7226,4,1984,
-550,Villa,Spikergade 16,6270, Tønder,900000 ,18-10-2004,Alm. Salg,166,5422,7,1875,
 550,Villa,Lillegade 4,6270, Tønder,250000 ,18-10-2004,Alm. Salg,50,5000,2,1908,
 550,Villa,Østergade 42,6270, Tønder,500000 ,18-10-2004,Alm. Salg,54,4630,5,1856,
 550,Villa,Vellerupvej 52,6534, Agerskov,231390 ,16-10-2004,Alm. Salg,244,948,5,2005,
@@ -9454,7 +9309,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Høybergvej 4C,6261, Bredebro,275000 ,22-07-2004,Andet,122,2254,4,1979,
 550,Villa,Østmarken 44,6520, Toftlund,115000 ,22-07-2004,Alm. Salg,81,1420,2,1978,
 550,Villa,Industrivej 9,6240, Løgumkloster,800000 ,21-07-2004,Alm. Salg,114,7018,4,1975,
-550,Villa,Koldkaadvej 17,6240, Løgumkloster,900000 ,21-07-2004,Alm. Salg,226,3982,5,1957,
 550,Villa,Svingelen 27,6780, Skærbæk,560000 ,19-07-2004,Alm. Salg,127,4409,4,1948,
 550,Villa,Hostrupvej 12A,6270, Tønder,540000 ,17-07-2004,Alm. Salg,197,2741,6,1968,
 550,Villa,Lobækvej 7,6240, Løgumkloster,1175000 ,15-07-2004,Andet,153,7680,5,1965,
@@ -9596,9 +9450,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Vidågade 26,6270, Tønder,1038000 ,28-04-2004,Alm. Salg,166,6253,3,1985,
 550,Villa,Bålsted Mosevej 4,6535, Branderup J,1300000 ,27-04-2004,Fam. Salg,190,6842,5,1937,
 550,Villa,Postgade 3,6280, Højer,400000 ,27-04-2004,Alm. Salg,155,2581,5,1900,
-550,Ejerlejlighed,"Vestergade 75B, st. tv",6270, Tønder,580000 ,26-04-2004,Alm. Salg,76,7632,2,1850,
 550,Villa,Højervej 49,6270, Tønder,465000 ,26-04-2004,Alm. Salg,81,5741,3,1963,
-550,Villa,Vestergade 75A,6270, Tønder,580000 ,26-04-2004,Alm. Salg,80,7250,3,1850,
 550,Rækkehus,"Lyngvejen 99, st. 24",6792, Rømø,325000 ,25-04-2004,Alm. Salg,36,9028,2,1979,
 550,Villa,Ribevej 29,6780, Skærbæk,595852 ,25-04-2004,Alm. Salg,92,6477,5,1947,
 550,Villa,Mølletoften 6,6240, Løgumkloster,129045 ,25-04-2004,Alm. Salg,223,579,5,2005,
@@ -9624,7 +9476,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Boldershøj 2,6534, Agerskov,395000 ,13-04-2004,Alm. Salg,126,3135,4,1961,
 550,Rækkehus,Svinget 33,6270, Tønder,615000 ,12-04-2004,Alm. Salg,91,6758,2,1946,
 550,Villa,Gærupvej 19,6280, Højer,100000 ,12-04-2004,Alm. Salg,60,1667,2,1948,
-550,Villa,Ludvig Andresensvej 7,6270, Tønder,1120000 ,12-04-2004,Alm. Salg,98,11429,3,1951,
 550,Villa,Ved Gamle Dige 3,6280, Højer,800000 ,09-04-2004,Alm. Salg,254,3150,8,1940,
 550,Villa,Margrethevej 10,6520, Toftlund,540000 ,06-04-2004,Alm. Salg,119,4538,3,1954,
 550,Villa,Slotsgaden 3,6270, Tønder,710000 ,06-04-2004,Alm. Salg,125,5680,4,1760,
@@ -9698,7 +9549,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Trælborgvej 20,6261, Bredebro,400000 ,22-02-2004,Alm. Salg,113,3540,4,1967,
 550,Villa,Prilen 19,6792, Rømø,200000 ,22-02-2004,Alm. Salg,146,1370,5,2005,
 550,Villa,Skovvænget 20,6520, Toftlund,475000 ,21-02-2004,Alm. Salg,130,3654,4,1980,
-550,Villa,Koldkaadvej 17,6240, Løgumkloster,900000 ,19-02-2004,Alm. Salg,226,3982,5,1957,
 550,Villa,Byggebjerg 3,6534, Agerskov,330427 ,16-02-2004,Andet,173,1910,6,1980,
 550,Villa,Vennemosevej 52,6270, Tønder,1250000 ,16-02-2004,Fam. Salg,198,6313,6,1928,
 550,Villa,Ø Gammelby 26,6261, Bredebro,400000 ,14-02-2004,Alm. Salg,105,3810,5,1916,
@@ -9721,10 +9571,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Kogsvej 13,6780, Skærbæk,322500 ,03-02-2004,Alm. Salg,94,3431,3,1946,
 550,Villa,Emmerlevvej 24,6280, Højer,325000 ,03-02-2004,Alm. Salg,90,3611,3,1965,
 550,Villa,Elmevej 5,6520, Toftlund,630000 ,02-02-2004,Alm. Salg,141,4468,4,1968,
-550,Rækkehus,Hovedgaden 46A,6534, Agerskov,680000 ,01-02-2004,Fam. Salg,130,5231,4,1877,
 550,Villa,Nylandsvej 9,6280, Højer,310000 ,01-02-2004,Auktion,120,2583,5,1802,
 550,Villa,Skovsbjergvej 8,6520, Toftlund,1500000 ,01-02-2004,Alm. Salg,336,4464,10,1927,
-550,Villa,Hovedgaden 46B,6534, Agerskov,680000 ,01-02-2004,Fam. Salg,208,2833,7,1877,
 550,Villa,Gaden 33,6261, Bredebro,400000 ,31-01-2004,Fam. Salg,102,3922,4,1970,
 550,Villa,Byvej 50,6261, Bredebro,595800 ,29-01-2004,Alm. Salg,384,1552,11,1912,
 550,Villa,Kirkhøjvej 2,6520, Toftlund,1075000 ,28-01-2004,Alm. Salg,224,4799,8,1880,
@@ -9739,7 +9587,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Kromosevej 16,6792, Rømø,350000 ,25-01-2004,Alm. Salg,227,1542,7,1930,
 550,Villa,Vråbyvej 21,6792, Rømø,1050000 ,25-01-2004,Alm. Salg,98,10714,4,1897,
 550,Villa,Møllegade 13C,6240, Løgumkloster,440000 ,22-01-2004,Alm. Salg,71,6197,2,1880,
-550,Villa,"Carstensgade 38, st",6270, Tønder,1000000 ,21-01-2004,Alm. Salg,92,10870,2,1925,
 550,Villa,Nissumsgade 11,6780, Skærbæk,100769 ,21-01-2004,Fam. Salg,80,1260,4,1727,
 550,Villa,Margrethevej 13,6520, Toftlund,495000 ,19-01-2004,Alm. Salg,113,4381,5,1956,
 550,Villa,Gaden 28,6261, Bredebro,350000 ,19-01-2004,Alm. Salg,100,3500,4,1966,
@@ -9798,7 +9645,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Skærbækgårdsvej 2,6780, Skærbæk,480000 ,08-12-2003,Alm. Salg,87,5517,4,1965,
 550,Villa,Ulriksalle 132,6270, Tønder,998897 ,07-12-2003,Alm. Salg,128,7804,3,1978,
 550,Villa,H C Davidsens Vej 10,6270, Tønder,49632 ,07-12-2003,Alm. Salg,128,388,4,2004,
-550,Villa,Havnebyvej 163A,6792, Rømø,1795000 ,07-12-2003,Alm. Salg,156,11506,5,1860,
 550,Villa,Kogen 11,6270, Tønder,450000 ,05-12-2003,Alm. Salg,114,3947,4,1965,
 550,Villa,Bevtoftvej 8,6520, Toftlund,510000 ,04-12-2003,Alm. Salg,166,3072,4,1936,
 550,Villa,Bellisvej 3,6520, Toftlund,825000 ,02-12-2003,Alm. Salg,250,3300,7,1972,
@@ -9927,7 +9773,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Brorsonsvej 21,6270, Tønder,825000 ,14-09-2003,Alm. Salg,116,7112,5,1950,
 550,Villa,Rørkærvej 7,6270, Tønder,415000 ,14-09-2003,Alm. Salg,136,3051,4,1870,
 550,Villa,Viben 23,6270, Tønder,1200000 ,14-09-2003,Alm. Salg,157,7643,4,1972,
-550,Ejerlejlighed,"Vestergade 3A, st. 18",6792, Rømø,738000 ,13-09-2003,Alm. Salg,64,11531,4,1984,
 550,Ejerlejlighed,"Vestergade 3E, st. 66",6792, Rømø,648000 ,13-09-2003,Alm. Salg,70,9257,4,1987,
 550,Villa,Sønderbækvej 3,6270, Tønder,700000 ,13-09-2003,Alm. Salg,146,4795,4,1971,
 550,Ejerlejlighed,"Vestergade 3E, st. 69",6792, Rømø,638000 ,12-09-2003,Alm. Salg,70,9114,4,1987,
@@ -9953,7 +9798,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Anne Marievej 2,6270, Tønder,750000 ,01-09-2003,Alm. Salg,144,5208,4,1965,
 550,Villa,Hovedvejen 10,6780, Skærbæk,375000 ,01-09-2003,Alm. Salg,98,3827,4,1961,
 550,Ejerlejlighed,"Vestergade 3C, st. 31",6792, Rømø,668000 ,31-08-2003,Alm. Salg,64,10438,3,1984,
-550,Ejerlejlighed,"Vestergade 3C, st. 35",6792, Rømø,718000 ,31-08-2003,Alm. Salg,64,11219,3,1984,
 550,Ejerlejlighed,"Vestergade 3C, st. 32",6792, Rømø,650000 ,31-08-2003,Alm. Salg,64,10156,3,1984,
 550,Ejerlejlighed,"Vestergade 3E, st. 66",6792, Rømø,648000 ,31-08-2003,Alm. Salg,70,9257,4,1987,
 550,Villa,Gærupvej 15,6280, Højer,225000 ,31-08-2003,Alm. Salg,72,3125,3,1900,
@@ -9982,7 +9826,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Lydersholmvej 17,6270, Tønder,675000 ,21-08-2003,Alm. Salg,183,3689,6,1937,
 550,Villa,Langelinie 6,6520, Toftlund,548000 ,21-08-2003,Alm. Salg,177,3096,4,1962,
 550,Villa,Ribelandevej 129,6270, Tønder,870000 ,20-08-2003,Alm. Salg,178,4888,7,1935,
-550,Ejerlejlighed,"Vestergade 3C, st. 38",6792, Rømø,718000 ,19-08-2003,Alm. Salg,64,11219,3,1984,
 550,Ejerlejlighed,Strucksalle 59,6270, Tønder,1075000 ,19-08-2003,Alm. Salg,237,4536,6,1931,
 550,Villa,Søndergade 56,6261, Bredebro,422946 ,17-08-2003,Alm. Salg,89,4752,3,1948,
 550,Villa,Branderup Bygade 30,6535, Branderup J,150000 ,14-08-2003,Alm. Salg,150,1000,5,1877,
@@ -10065,7 +9908,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Gammel Toftlundvej 6,6520, Toftlund,848000 ,01-07-2003,Alm. Salg,166,5108,7,1912,
 550,Villa,Korntvedvej 5,6270, Tønder,360000 ,01-07-2003,Alm. Salg,140,2571,4,1962,
 550,Villa,Strømmen 5,6792, Rømø,580000 ,30-06-2003,Alm. Salg,88,6591,3,1961,
-550,Rækkehus,Nyboder 10B,6520, Toftlund,900000 ,29-06-2003,Alm. Salg,109,8257,4,1966,
 550,Villa,Sønderbyvej 13,6280, Højer,340000 ,29-06-2003,Alm. Salg,86,3953,3,1800,
 550,Villa,Anne Marievej 16,6270, Tønder,695000 ,29-06-2003,Alm. Salg,138,5036,5,1964,
 550,Villa,Vestergade 5,6240, Løgumkloster,450000 ,29-06-2003,Alm. Salg,238,1891,4,1777,
@@ -10132,7 +9974,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Sejerslevvej 103,6280, Højer,500000 ,25-05-2003,Alm. Salg,235,2128,7,1860,
 550,Villa,Åbenråvej 103,6780, Skærbæk,375000 ,25-05-2003,Fam. Salg,158,2373,5,1931,
 550,Villa,Sognegade 19,6240, Løgumkloster,539000 ,25-05-2003,Fam. Salg,208,2591,7,1940,
-550,Ejerlejlighed,"Vestergade 3E, 1. 77",6792, Rømø,788000 ,24-05-2003,Alm. Salg,70,11257,4,1987,
 550,Villa,Munkeparken 63,6240, Løgumkloster,1350000 ,22-05-2003,Alm. Salg,267,5056,6,1977,
 550,Villa,Benediktevej 2,6270, Tønder,745000 ,20-05-2003,Alm. Salg,135,5034,5,1966,
 550,Villa,Vangsbovej 4,6780, Skærbæk,230000 ,18-05-2003,Alm. Salg,70,3286,4,1953,
@@ -10173,10 +10014,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Dragonvej 3,6270, Tønder,575000 ,13-04-2003,Alm. Salg,152,3783,3,1923,
 550,Villa,Lagervej 13,6261, Bredebro,595000 ,13-04-2003,Alm. Salg,116,5129,4,1951,
 550,Villa,Elmealle 9,6240, Løgumkloster,595000 ,13-04-2003,Alm. Salg,222,2680,8,1922,
-550,Ejerlejlighed,"Vestergade 3A, st. 14",6792, Rømø,738000 ,12-04-2003,Alm. Salg,64,11531,4,1984,
-550,Ejerlejlighed,"Vestergade 3B, st. 25",6792, Rømø,720000 ,12-04-2003,Alm. Salg,64,11250,4,1984,
-550,Ejerlejlighed,"Vestergade 3B, st. 28",6792, Rømø,723000 ,12-04-2003,Alm. Salg,64,11297,4,1984,
-550,Ejerlejlighed,"Vestergade 3E, 1. 75",6792, Rømø,788000 ,12-04-2003,Alm. Salg,70,11257,4,1987,
 550,Ejerlejlighed,"Vestergade 3D, st. 55",6792, Rømø,798000 ,12-04-2003,Alm. Salg,74,10784,3,1987,
 550,Villa,Gartnervænget 8,6780, Skærbæk,1450000 ,11-04-2003,Alm. Salg,273,5311,5,1973,
 550,Ejerlejlighed,"Vestergade 3C, 1. 43",6792, Rømø,698000 ,10-04-2003,Alm. Salg,64,10906,4,1984,
@@ -10193,24 +10030,19 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Sildestræde 17,6792, Rømø,470000 ,06-04-2003,Alm. Salg,112,4196,4,1978,
 550,Villa,Krum-Om 11,6270, Tønder,900000 ,06-04-2003,Alm. Salg,238,3782,7,1955,
 550,Ejerlejlighed,"Vestergade 3B, st. 27",6792, Rømø,685000 ,05-04-2003,Alm. Salg,64,10703,4,1984,
-550,Ejerlejlighed,"Vestergade 3C, st. 36",6792, Rømø,718000 ,05-04-2003,Alm. Salg,64,11219,3,1984,
 550,Ejerlejlighed,"Vestergade 3C, st. 37",6792, Rømø,668000 ,05-04-2003,Alm. Salg,64,10438,3,1984,
 550,Ejerlejlighed,"Vestergade 3C, 1. 46",6792, Rømø,698000 ,05-04-2003,Alm. Salg,64,10906,4,1984,
 550,Ejerlejlighed,"Vestergade 3E, st. 63",6792, Rømø,638000 ,05-04-2003,Alm. Salg,70,9114,4,1987,
 550,Ejerlejlighed,"Vestergade 3E, st. 67",6792, Rømø,350000 ,05-04-2003,Alm. Salg,39,8974,2,1987,
 550,Ejerlejlighed,"Vestergade 3E, st. 71",6792, Rømø,388000 ,05-04-2003,Alm. Salg,41,9463,2,1987,
-550,Ejerlejlighed,"Vestergade 3D, st. 53",6792, Rømø,838000 ,05-04-2003,Alm. Salg,74,11324,3,1987,
 550,Ejerlejlighed,"Vestergade 3E, 1. 78",6792, Rømø,788000 ,05-04-2003,Alm. Salg,81,9728,4,1987,
 550,Villa,Randerup 30,6261, Bredebro,354244 ,05-04-2003,Alm. Salg,115,3080,4,1879,
 550,Ejerlejlighed,"Vestergade 3D, st. 51",6792, Rømø,848000 ,04-04-2003,Alm. Salg,77,11013,3,1987,
 550,Ejerlejlighed,"Vestergade 3E, st. 62",6792, Rømø,335000 ,04-04-2003,Alm. Salg,39,8590,2,1987,
 550,Ejerlejlighed,"Vestergade 3E, st. 68",6792, Rømø,353000 ,04-04-2003,Alm. Salg,39,9051,2,1987,
 550,Ejerlejlighed,"Vestergade 3D, st. 52",6792, Rømø,788000 ,04-04-2003,Alm. Salg,74,10649,3,1987,
-550,Ejerlejlighed,"Vestergade 3D, st. 54",6792, Rømø,838000 ,04-04-2003,Alm. Salg,74,11324,3,1987,
-550,Ejerlejlighed,"Vestergade 3D, 1. 56",6792, Rømø,888000 ,04-04-2003,Alm. Salg,77,11532,3,1987,
 550,Villa,Egevej 8,6270, Tønder,620000 ,04-04-2003,Alm. Salg,180,3444,5,1970,
 550,Villa,Bovvej 42,6534, Agerskov,400000 ,04-04-2003,Alm. Salg,258,1550,5,2021,
-550,Ejerlejlighed,"Vestergade 3E, 1. 73",6792, Rømø,788000 ,03-04-2003,Alm. Salg,70,11257,4,1987,
 550,Villa,Kagebøl 7,6780, Skærbæk,802025 ,03-04-2003,Alm. Salg,129,6217,5,1978,
 550,Villa,Nygade 3,6780, Skærbæk,350000 ,03-04-2003,Alm. Salg,152,2303,4,1934,
 550,Villa,Fyrvænget 8,6535, Branderup J,310000 ,02-04-2003,Alm. Salg,112,2768,4,1971,
@@ -10227,8 +10059,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Ballumvej 20,6280, Højer,440000 ,25-03-2003,Alm. Salg,122,3607,4,1926,
 550,Ejerlejlighed,"Vestergade 3E, 1. 78",6792, Rømø,280830 ,24-03-2003,Alm. Salg,81,3467,4,1987,
 550,Villa,Sandbjergvej 30,6535, Branderup J,330000 ,24-03-2003,Alm. Salg,105,3143,3,1955,
-550,Ejerlejlighed,Søndergade 5B,6520, Toftlund,1130000 ,23-03-2003,Alm. Salg,121,9339,6,1955,
-550,Ejerlejlighed,"Søren Jensens Vej 5A, 1. th",6520, Toftlund,1130000 ,23-03-2003,Alm. Salg,104,10865,3,1955,
 550,Villa,Danavej 2,6520, Toftlund,400000 ,22-03-2003,Fam. Salg,90,4444,3,1960,
 550,Villa,Tønder Landevej 33,6240, Løgumkloster,425000 ,22-03-2003,Fam. Salg,167,2545,5,1952,
 550,Villa,Sct Hansvej 1,6261, Bredebro,420000 ,20-03-2003,Alm. Salg,132,3182,4,1975,
@@ -10256,9 +10086,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Møllebakken 14,6261, Bredebro,500000 ,03-03-2003,Fam. Salg,110,4545,3,1959,
 550,Villa,Høgslundvej 9,6270, Tønder,440810 ,03-03-2003,Andet,175,2519,6,1941,
 550,Villa,Marskvej 15,6270, Tønder,1030000 ,03-03-2003,Alm. Salg,141,7305,5,1967,
-550,Ejerlejlighed,Østergade 52,6270, Tønder,852604 ,02-03-2003,Alm. Salg,120,7105,2,1895,
-550,Ejerlejlighed,"Nørregade 2C, 2",6270, Tønder,852604 ,02-03-2003,Alm. Salg,133,6411,1,1895,
-550,Ejerlejlighed,"Nørregade 2C, 1",6270, Tønder,852604 ,02-03-2003,Alm. Salg,135,6316,1,1895,
 550,Villa,Ullerupvej 58,6780, Skærbæk,840000 ,02-03-2003,Alm. Salg,143,5874,6,1972,
 550,Villa,Søndervang 5,6520, Toftlund,443665 ,02-03-2003,Alm. Salg,93,4771,4,1965,
 550,Villa,Møllegade 3,6780, Skærbæk,181300 ,02-03-2003,Alm. Salg,185,916,6,1780,
@@ -10365,7 +10192,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Lunde 1,6261, Bredebro,775000 ,18-12-2002,Alm. Salg,139,5576,4,1959,
 550,Villa,Horsbølvej 36,6780, Skærbæk,555000 ,17-12-2002,Alm. Salg,208,2668,5,1912,
 550,Villa,Horsbygvej 1,6534, Agerskov,300000 ,17-12-2002,Fam. Salg,120,2500,4,1973,
-550,Villa,Strucksalle 58A,6270, Tønder,660000 ,17-12-2002,Alm. Salg,67,9851,3,1921,
 550,Villa,Kogsbølvej 3,6280, Højer,180000 ,16-12-2002,Alm. Salg,66,2727,3,1852,
 550,Villa,Værftvej 5,6270, Tønder,675000 ,15-12-2002,Alm. Salg,117,5769,4,1967,
 550,Villa,Nygade 36,6270, Tønder,1337000 ,14-12-2002,Alm. Salg,201,6652,6,1963,
@@ -10862,9 +10688,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Nyhusvej 1,6270, Tønder,500000 ,27-02-2002,Alm. Salg,194,2577,6,2004,
 550,Villa,Holmevej 11,6240, Løgumkloster,300000 ,26-02-2002,Alm. Salg,251,1195,6,1942,
 550,Villa,Ribelandevej 95,6270, Tønder,311174 ,26-02-2002,Alm. Salg,88,3536,3,1959,
-550,Ejerlejlighed,"Markgade 1A, 1",6270, Tønder,540000 ,25-02-2002,Alm. Salg,74,7297,2,1932,
 550,Villa,Ulriksalle 127,6270, Tønder,1096800 ,25-02-2002,Alm. Salg,184,5961,6,1978,
-550,Villa,"Markgade 1A, st",6270, Tønder,540000 ,25-02-2002,Alm. Salg,74,7297,2,1932,
 550,Villa,Juvrevej 74,6792, Rømø,475000 ,25-02-2002,Alm. Salg,306,1552,4,1905,
 550,Villa,Markvænget 85,6520, Toftlund,122500 ,24-02-2002,Alm. Salg,163,752,6,2002,
 550,Villa,Ellum Bygade 8,6240, Løgumkloster,310000 ,23-02-2002,Alm. Salg,112,2768,4,1963,
@@ -10895,7 +10719,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Rækkehus,Nyboder 2,6520, Toftlund,400000 ,07-02-2002,Alm. Salg,122,3279,4,2012,
 550,Villa,Snedvej 5,6534, Agerskov,350000 ,06-02-2002,Alm. Salg,112,3125,4,1956,
 550,Villa,Melbyvej 3,6780, Skærbæk,132500 ,06-02-2002,Alm. Salg,158,839,4,2002,
-550,Rækkehus,Østergade 22A,6520, Toftlund,1150000 ,05-02-2002,Alm. Salg,127,9055,3,1907,
 550,Villa,Aavænget 1A,6780, Skærbæk,710000 ,05-02-2002,Fam. Salg,106,6698,3,1993,
 550,Ejerlejlighed,"Skibbrogade 2, 1. tv",6270, Tønder,360000 ,04-02-2002,Fam. Salg,86,4186,2,1900,
 550,Villa,Kildetoften 2,6780, Skærbæk,48480 ,04-02-2002,Alm. Salg,178,272,3,2003,
@@ -10992,8 +10815,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Catharinasvej 6,6261, Bredebro,625000 ,05-12-2001,Alm. Salg,152,4112,5,1971,
 550,Villa,Elmegårdsvej 6,6270, Tønder,675000 ,05-12-2001,Alm. Salg,122,5533,4,1967,
 550,Villa,Lykkevej 19,6240, Løgumkloster,575000 ,05-12-2001,Alm. Salg,129,4457,4,1943,
-550,Ejerlejlighed,"Vidågade 1, st",6270, Tønder,1450000 ,03-12-2001,Alm. Salg,132,10985,4,1875,
-550,Ejerlejlighed,"Vidågade 1, 1",6270, Tønder,1450000 ,03-12-2001,Alm. Salg,157,9236,5,1875,
 550,Villa,Kirkestien 1,6270, Tønder,323000 ,03-12-2001,Fam. Salg,92,3511,3,1928,
 550,Villa,Ternevej 10,6792, Rømø,650000 ,02-12-2001,Alm. Salg,139,4676,4,1970,
 550,Villa,Sølstedvej 7,6270, Tønder,350000 ,29-11-2001,Fam. Salg,104,3365,3,1970,
@@ -11025,8 +10846,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Landevejen 51,6780, Skærbæk,650000 ,17-11-2001,Alm. Salg,161,4037,5,1960,
 550,Villa,Jægerskoven 81,6520, Toftlund,900000 ,16-11-2001,Alm. Salg,140,6429,5,1978,
 550,Rækkehus,Markgade 40,6270, Tønder,659069 ,15-11-2001,Alm. Salg,107,6160,4,1919,
-550,Rækkehus,Vestergade 22B,6520, Toftlund,1100000 ,15-11-2001,Alm. Salg,140,7857,3,1978,
-550,Villa,Vestergade 22C,6520, Toftlund,1100000 ,15-11-2001,Alm. Salg,188,5851,5,1950,
 550,Villa,Kannikhusvej 14,6280, Højer,1650000 ,15-11-2001,Alm. Salg,180,9167,4,2010,
 550,Villa,Ribevej 83,6780, Skærbæk,312512 ,14-11-2001,Andet,208,1502,9,1714,
 550,Villa,Klostergade 1A,6240, Løgumkloster,550000 ,14-11-2001,Alm. Salg,152,3618,5,1809,
@@ -11117,10 +10936,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Skast 78,6261, Bredebro,260000 ,10-09-2001,Alm. Salg,120,2167,5,1867,
 550,Villa,Søndervang 43,6261, Bredebro,750000 ,09-09-2001,Alm. Salg,161,4658,5,1974,
 550,Villa,Holger Danskesvej 9,6270, Tønder,735000 ,09-09-2001,Alm. Salg,135,5444,5,1972,
-550,Ejerlejlighed,Klostergade 35,6240, Løgumkloster,593658 ,08-09-2001,Fam. Salg,79,7515,3,1900,
-550,Ejerlejlighed,Slotsgade 1B,6240, Løgumkloster,593658 ,08-09-2001,Fam. Salg,103,5764,3,1900,
-550,Ejerlejlighed,Slotsgade 1A,6240, Løgumkloster,593658 ,08-09-2001,Fam. Salg,66,8995,2,1900,
-550,Ejerlejlighed,"Slotsgade 3A, 1. tv",6240, Løgumkloster,593658 ,08-09-2001,Fam. Salg,68,8730,2,1900,
 550,Villa,Bevtoftvej 29,6541, Bevtoft,963000 ,08-09-2001,Alm. Salg,219,4397,7,1939,
 550,Villa,Langelinie 9,6520, Toftlund,655000 ,06-09-2001,Alm. Salg,134,4888,5,1964,
 550,Villa,Birkealle 15,6780, Skærbæk,460000 ,06-09-2001,Alm. Salg,117,3932,5,1928,
@@ -11826,7 +11641,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Ø Gammelby 43,6261, Bredebro,249000 ,02-07-2000,Alm. Salg,76,3276,3,1925,
 550,Villa,Klintvej 13,6280, Højer,936910 ,02-07-2000,Alm. Salg,214,4378,8,1970,
 550,Villa,Nyvej 3,6520, Toftlund,610000 ,02-07-2000,Alm. Salg,108,5648,4,1931,
-550,Rækkehus,Hovedgaden 46A,6534, Agerskov,700000 ,29-06-2000,Fam. Salg,130,5385,4,1877,
 550,Rækkehus,Carstensgade 47,6270, Tønder,726314 ,29-06-2000,Alm. Salg,136,5341,5,1925,
 550,Villa,Richtsensgade 8,6270, Tønder,359716 ,29-06-2000,Alm. Salg,136,2645,4,1860,
 550,Villa,Ørnevej 10,6240, Løgumkloster,920000 ,29-06-2000,Alm. Salg,178,5169,5,1973,
@@ -11836,7 +11650,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Krusåvej 10,6240, Løgumkloster,425000 ,29-06-2000,Fam. Salg,153,2778,3,1937,
 550,Villa,Ludvig Andresensvej 36,6270, Tønder,750000 ,29-06-2000,Alm. Salg,114,6579,5,1954,
 550,Villa,Nørrefoldvej 10,6270, Tønder,873903 ,29-06-2000,Alm. Salg,201,4348,6,1992,
-550,Villa,Hovedgaden 46B,6534, Agerskov,700000 ,29-06-2000,Fam. Salg,208,2917,7,1877,
 550,Villa,Ahornvej 27,6270, Tønder,1225014 ,29-06-2000,Alm. Salg,202,6064,5,1991,
 550,Villa,Enklavevej 1,6261, Bredebro,293875 ,28-06-2000,Alm. Salg,80,3673,4,1928,
 550,Villa,Toften 1A,6780, Skærbæk,925000 ,28-06-2000,Alm. Salg,138,6703,5,1970,
@@ -11871,7 +11684,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Højsetvej 14,6534, Agerskov,180000 ,18-06-2000,Auktion,142,1268,5,1959,
 550,Villa,Slotsbanken 5,6240, Løgumkloster,993449 ,18-06-2000,Alm. Salg,211,4708,5,1972,
 550,Villa,Østergade 9,6280, Højer,421038 ,18-06-2000,Alm. Salg,193,2182,5,1857,
-550,Villa,Mejerivej 8D,6780, Skærbæk,600000 ,17-06-2000,Alm. Salg,158,3797,4,1968,
 550,Villa,Leosalle 21,6270, Tønder,1273300 ,16-06-2000,Alm. Salg,160,7958,4,1984,
 550,Villa,Ulriksalle 10,6270, Tønder,875000 ,16-06-2000,Alm. Salg,121,7231,4,1979,
 550,Villa,Elmegårdsvej 3,6270, Tønder,620000 ,15-06-2000,Alm. Salg,120,5167,4,1977,
@@ -12136,7 +11948,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Ulriksalle 21,6270, Tønder,1070349 ,16-01-2000,Alm. Salg,140,7645,4,1979,
 550,Villa,Grønningen 24,6520, Toftlund,535000 ,14-01-2000,Alm. Salg,101,5297,4,1965,
 550,Rækkehus,Bøgevej 8,6240, Løgumkloster,215000 ,13-01-2000,Alm. Salg,61,3525,2,1979,
-550,Ejerlejlighed,Ved Åen 18A,6270, Tønder,2188192 ,13-01-2000,Alm. Salg,194,11279,4,1914,
 550,Villa,Holmevej 3,6240, Løgumkloster,600000 ,13-01-2000,Alm. Salg,141,4255,5,1948,
 550,Rækkehus,Nørregade 89,6270, Tønder,495000 ,12-01-2000,Alm. Salg,90,5500,3,1917,
 550,Villa,Nørremølle 12,6280, Højer,260000 ,12-01-2000,Alm. Salg,94,2766,4,1888,
@@ -12149,7 +11960,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Plantagevej 9,6270, Tønder,946000 ,06-01-2000,Alm. Salg,128,7391,4,1939,
 550,Villa,Jørgensgaardvej 7,6240, Løgumkloster,600000 ,04-01-2000,Alm. Salg,189,3175,6,1952,
 550,Villa,Gammel Tøndervej 9,6534, Agerskov,250000 ,04-01-2000,Alm. Salg,107,2336,3,1900,
-550,Villa,Storegade 23A,6780, Skærbæk,1390000 ,04-01-2000,Alm. Salg,141,9858,4,1975,
 550,Villa,Vidågade 2,6270, Tønder,715000 ,03-01-2000,Alm. Salg,95,7526,5,1825,
 550,Villa,Engvej 4,6270, Tønder,360000 ,03-01-2000,Alm. Salg,104,3462,3,1963,
 550,Villa,Tved 140,6270, Tønder,890000 ,03-01-2000,Alm. Salg,143,6224,3,1984,
@@ -12165,7 +11975,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Lobækvej 5,6240, Løgumkloster,350000 ,21-12-1999,Fam. Salg,235,1489,5,1953,
 550,Villa,Borg 1,6261, Bredebro,165000 ,21-12-1999,Alm. Salg,99,1667,3,1900,
 550,Villa,Kløvervej 6,6240, Løgumkloster,205000 ,21-12-1999,Andet,231,887,6,1915,
-550,Ejerlejlighed,"Storegade 10, 1",6270, Tønder,2200000 ,20-12-1999,Fam. Salg,196,11224,5,1875,
 550,Villa,Lobækvej 7,6240, Løgumkloster,1150000 ,20-12-1999,Alm. Salg,153,7516,5,1965,
 550,Villa,Skolegade 12,6240, Løgumkloster,631000 ,20-12-1999,Alm. Salg,124,5089,3,1963,
 550,Villa,Rømøvej 24,6520, Toftlund,555000 ,20-12-1999,Alm. Salg,198,2803,5,1907,
@@ -12201,8 +12010,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Markedsgade 31,6240, Løgumkloster,650000 ,06-12-1999,Alm. Salg,102,6373,4,1850,
 550,Villa,Overbyvej 22,6780, Skærbæk,250000 ,05-12-1999,Alm. Salg,121,2066,6,1952,
 550,Rækkehus,Anemonevænget 7,6270, Tønder,559000 ,03-12-1999,Alm. Salg,79,7076,3,1963,
-550,Rækkehus,"Skærbækgårdsvej 1, 1",6780, Skærbæk,575000 ,02-12-1999,Alm. Salg,90,6389,2,1900,
-550,Ejerlejlighed,"Skærbækgårdsvej 1, st",6780, Skærbæk,575000 ,02-12-1999,Alm. Salg,136,4228,4,1900,
 550,Villa,Dyrhusvej 47,6270, Tønder,1075989 ,02-12-1999,Alm. Salg,220,4891,9,1922,
 550,Villa,Sønderhedevej 8,6280, Højer,483751 ,02-12-1999,Alm. Salg,145,3336,4,1930,
 550,Villa,Borg 53,6261, Bredebro,378000 ,01-12-1999,Alm. Salg,161,2348,3,1924,
@@ -12237,7 +12044,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Jægerskoven 19,6520, Toftlund,270000 ,12-11-1999,Alm. Salg,129,2093,4,1977,
 550,Villa,Højvej 1,6280, Højer,840860 ,11-11-1999,Alm. Salg,180,4671,4,1846,
 550,Ejerlejlighed,"Vestergade 38, 1",6270, Tønder,650000 ,10-11-1999,Alm. Salg,115,5652,4,1909,
-550,Villa,Strucksalle 78,6270, Tønder,850000 ,10-11-1999,Alm. Salg,106,8019,4,1947,
 550,Villa,Strandmeden 2,6280, Højer,560000 ,10-11-1999,Alm. Salg,139,4029,4,1965,
 550,Villa,Havevej 17,6780, Skærbæk,397006 ,09-11-1999,Alm. Salg,135,2941,6,1938,
 550,Villa,Torvegade 11,6780, Skærbæk,442000 ,09-11-1999,Alm. Salg,90,4911,4,1895,
@@ -12313,12 +12119,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Vestre Alle 4,6780, Skærbæk,958000 ,29-09-1999,Alm. Salg,192,4990,8,1973,
 550,Ejerlejlighed,Markedsgade 18,6240, Løgumkloster,705600 ,28-09-1999,Alm. Salg,292,2416,7,1900,
 550,Villa,Sprøjtehusvej 2,6270, Tønder,414754 ,27-09-1999,Alm. Salg,208,1994,6,1837,
-550,Ejerlejlighed,"Kogsvej 1, st. tv",6780, Skærbæk,650000 ,26-09-1999,Alm. Salg,84,7738,2,1935,
-550,Ejerlejlighed,"Kogsvej 1, 1. th",6780, Skærbæk,650000 ,26-09-1999,Alm. Salg,96,6771,3,1935,
-550,Ejerlejlighed,"Kogsvej 1, 1. tv",6780, Skærbæk,650000 ,26-09-1999,Alm. Salg,75,8667,2,1935,
-550,Ejerlejlighed,"Kogsvej 1, st. th",6780, Skærbæk,650000 ,26-09-1999,Alm. Salg,109,5963,3,1935,
-550,Ejerlejlighed,"Rejsby Landevej 8, 1",6780, Skærbæk,650000 ,26-09-1999,Alm. Salg,79,8228,3,1945,
-550,Ejerlejlighed,"Rejsby Landevej 8, st",6780, Skærbæk,650000 ,26-09-1999,Alm. Salg,72,9028,3,1945,
 550,Villa,Ribelandevej 107,6270, Tønder,230000 ,26-09-1999,Alm. Salg,144,1597,4,1954,
 550,Villa,Nygade 32,6780, Skærbæk,680000 ,26-09-1999,Alm. Salg,128,5313,4,1935,
 550,Villa,Tingvej 2,6780, Skærbæk,520000 ,25-09-1999,Alm. Salg,160,3250,5,1932,
@@ -12344,9 +12144,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Lundbyesvej 5,6240, Løgumkloster,200000 ,15-09-1999,Auktion,126,1587,4,1957,
 550,Villa,Tved 268,6270, Tønder,60100 ,15-09-1999,Alm. Salg,100,601,3,1999,
 550,Villa,Vestagervej 27,6541, Bevtoft,235000 ,15-09-1999,Alm. Salg,253,929,10,1922,
-550,Ejerlejlighed,"Spikergade 28, st. tv",6270, Tønder,1489008 ,14-09-1999,Alm. Salg,160,9306,4,1920,
-550,Ejerlejlighed,"Spikergade 28, 1. th",6270, Tønder,1489008 ,14-09-1999,Alm. Salg,169,8811,4,1920,
-550,Ejerlejlighed,"Spikergade 28, 2. th",6270, Tønder,1489008 ,14-09-1999,Alm. Salg,149,9993,4,1920,
 550,Villa,Nørrerad 15,6780, Skærbæk,370000 ,13-09-1999,Alm. Salg,157,2357,7,1750,
 550,Villa,Skovbrynet 11,6780, Skærbæk,158938 ,12-09-1999,Alm. Salg,121,1314,4,1958,
 550,Villa,Nissumsgade 13B,6780, Skærbæk,370000 ,12-09-1999,Alm. Salg,95,3895,3,1961,
@@ -12509,11 +12306,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Vænget 3,6520, Toftlund,683000 ,18-06-1999,Alm. Salg,119,5739,4,1977,
 550,Villa,Ellum Bygade 21,6240, Løgumkloster,540000 ,18-06-1999,Alm. Salg,233,2318,4,1947,
 550,Villa,Sandemandsvej 5,6780, Skærbæk,784000 ,18-06-1999,Alm. Salg,156,5026,5,1980,
-550,Ejerlejlighed,Søndergade 5B,6520, Toftlund,770000 ,17-06-1999,Alm. Salg,121,6364,6,1955,
-550,Ejerlejlighed,Søndergade 5A,6520, Toftlund,770000 ,17-06-1999,Alm. Salg,93,8280,3,1955,
-550,Ejerlejlighed,"Søren Jensens Vej 5A, 1. th",6520, Toftlund,770000 ,17-06-1999,Alm. Salg,104,7404,3,1955,
-550,Ejerlejlighed,"Søren Jensens Vej 5A, 1. tv",6520, Toftlund,770000 ,17-06-1999,Alm. Salg,87,8851,3,1955,
-550,Ejerlejlighed,"Søren Jensens Vej 5A, 1. mf",6520, Toftlund,770000 ,17-06-1999,Alm. Salg,73,10548,3,1955,
 550,Villa,Kirkevej 3,6534, Agerskov,635000 ,17-06-1999,Alm. Salg,142,4472,7,1908,
 550,Villa,Lærkevej 6,6240, Løgumkloster,900000 ,17-06-1999,Alm. Salg,143,6294,4,1968,
 550,Villa,Gesingvej 3,6780, Skærbæk,535000 ,17-06-1999,Alm. Salg,134,3993,4,1951,
@@ -12815,7 +12607,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Drengstedvej 46,6780, Skærbæk,560232 ,03-01-1999,Alm. Salg,168,3335,5,1930,
 550,Villa,Drengstedvej 49,6780, Skærbæk,325000 ,01-01-1999,Alm. Salg,173,1879,4,1950,
 550,Villa,Koldingvej 14,6520, Toftlund,139500 ,30-12-1998,Fam. Salg,70,1993,3,1961,
-550,Ejerlejlighed,"Hovedgaden 21, 1",6534, Agerskov,2579889 ,27-12-1998,Alm. Salg,229,11266,9,1900,
 550,Ejerlejlighed,"Vestergade 11, 1",6520, Toftlund,3456824 ,27-12-1998,Alm. Salg,742,4659,7,1935,
 550,Villa,Havevej 19,6780, Skærbæk,345000 ,22-12-1998,Alm. Salg,179,1927,5,1938,
 550,Villa,Grøngårdvej 16,6270, Tønder,431000 ,22-12-1998,Alm. Salg,86,5012,4,1870,
@@ -12900,7 +12691,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Spangholm 5,6270, Tønder,308560 ,10-11-1998,Alm. Salg,160,1929,5,1999,
 550,Villa,Nørby 23,6261, Bredebro,420000 ,10-11-1998,Alm. Salg,141,2979,6,1890,
 550,Villa,Højgade 6,6270, Tønder,827000 ,10-11-1998,Alm. Salg,190,4353,6,1870,
-550,Villa,Degnetoften 2D,6534, Agerskov,411000 ,10-11-1998,Alm. Salg,108,3806,3,2009,
 550,Villa,Ballumvej 4,6280, Højer,465000 ,09-11-1998,Alm. Salg,175,2657,6,1895,
 550,Villa,Vidågade 29,6270, Tønder,1025000 ,09-11-1998,Alm. Salg,257,3988,7,1963,
 550,Villa,Søndergade 36,6520, Toftlund,840000 ,09-11-1998,Alm. Salg,198,4242,7,1900,
@@ -12995,7 +12785,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Ejerlejlighed,"Richtsensgade 25, st",6270, Tønder,428000 ,24-09-1998,Alm. Salg,133,3218,4,1910,
 550,Villa,Byvej 38,6261, Bredebro,60000 ,24-09-1998,Alm. Salg,120,500,4,1965,
 550,Villa,Landevejen 32,6780, Skærbæk,140000 ,24-09-1998,Alm. Salg,64,2188,3,1932,
-550,Villa,Højervej 9,6280, Højer,350000 ,24-09-1998,Alm. Salg,130,2692,6,1877,
 550,Villa,Rytterfennen 44C,6780, Skærbæk,157250 ,24-09-1998,Alm. Salg,87,1807,4,1981,
 550,Villa,Borrebjergvej 3,6792, Rømø,500000 ,24-09-1998,Fam. Salg,94,5319,4,1951,
 550,Villa,Bygaden 21,6780, Skærbæk,232500 ,23-09-1998,Alm. Salg,100,2325,4,1953,
@@ -13035,12 +12824,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Bjergvej 2A,6240, Løgumkloster,176926 ,07-09-1998,Fam. Salg,109,1623,4,1934,
 550,Villa,Fasanvej 6,6240, Løgumkloster,777606 ,07-09-1998,Alm. Salg,174,4469,6,1978,
 550,Villa,Åbølvej 10,6520, Toftlund,550000 ,07-09-1998,Alm. Salg,141,3901,6,1975,
-550,Ejerlejlighed,"Søndergade 8, st. th",6270, Tønder,537500 ,06-09-1998,Fam. Salg,49,10969,2,1900,
-550,Ejerlejlighed,"Søndergade 8, 1",6270, Tønder,537500 ,06-09-1998,Fam. Salg,120,4479,5,1900,
-550,Ejerlejlighed,"Storegade 6, 1. th",6270, Tønder,537500 ,06-09-1998,Fam. Salg,98,5485,2,1932,
-550,Ejerlejlighed,"Storegade 6, 1. tv",6270, Tønder,537500 ,06-09-1998,Fam. Salg,82,6555,1,1932,
-550,Ejerlejlighed,"Storegade 6, 2",6270, Tønder,537500 ,06-09-1998,Fam. Salg,180,2986,4,1932,
-550,Ejerlejlighed,"Storegade 6, 3",6270, Tønder,537500 ,06-09-1998,Fam. Salg,60,8958,1,1932,
 550,Villa,Høllevang 57,6520, Toftlund,720000 ,03-09-1998,Alm. Salg,126,5714,3,1976,
 550,Villa,Vennemosevej 22,6270, Tønder,855000 ,02-09-1998,Alm. Salg,159,5377,4,1976,
 550,Villa,Søndergade 40,6520, Toftlund,410000 ,02-09-1998,Alm. Salg,218,1881,6,1928,
@@ -13048,7 +12831,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Højsetvej 14,6534, Agerskov,340000 ,01-09-1998,Alm. Salg,142,2394,5,1959,
 550,Villa,Vesterende 41,6261, Bredebro,425000 ,31-08-1998,Alm. Salg,178,2388,4,1941,
 550,Villa,Ryttervænget 14,6520, Toftlund,67496 ,31-08-1998,Alm. Salg,161,419,6,1999,
-550,Villa,Spikergade 1A,6270, Tønder,363637 ,31-08-1998,Fam. Salg,102,3565,3,1900,
 550,Villa,Kornvang 36,6520, Toftlund,240000 ,30-08-1998,Fam. Salg,132,1818,5,1976,
 550,Rækkehus,Vidågade 24,6270, Tønder,500000 ,29-08-1998,Alm. Salg,152,3289,5,1875,
 550,Villa,Bøgevej 9,6780, Skærbæk,323000 ,28-08-1998,Fam. Salg,119,2714,4,1966,
@@ -13443,9 +13225,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Leosalle 30A,6270, Tønder,1140000 ,25-02-1998,Alm. Salg,134,8507,4,1997,
 550,Villa,Markedsgade 29A,6240, Løgumkloster,126225 ,25-02-1998,Fam. Salg,140,902,6,1860,
 550,Villa,Højervej 29,6270, Tønder,423000 ,25-02-1998,Alm. Salg,110,3845,7,1930,
-550,Ejerlejlighed,"Søndergade 8, 1",6270, Tønder,1075000 ,23-02-1998,Alm. Salg,120,8958,5,1900,
-550,Ejerlejlighed,"Storegade 6, 1. th",6270, Tønder,1075000 ,23-02-1998,Alm. Salg,98,10969,2,1932,
-550,Ejerlejlighed,"Storegade 6, 2",6270, Tønder,1075000 ,23-02-1998,Alm. Salg,180,5972,4,1932,
 550,Villa,Bovlund Bjergvej 35,6535, Branderup J,130000 ,23-02-1998,Fam. Salg,150,867,5,1924,
 550,Villa,Hovedgaden 19,6534, Agerskov,395000 ,23-02-1998,Alm. Salg,252,1567,5,1900,
 550,Villa,Mølleparken 85,6240, Løgumkloster,1015369 ,22-02-1998,Alm. Salg,128,7933,5,1997,
@@ -13507,18 +13286,13 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Dyrhusvej 17,6270, Tønder,705000 ,28-01-1998,Alm. Salg,179,3939,5,1924,
 550,Rækkehus,Markgade 36,6270, Tønder,385000 ,27-01-1998,Alm. Salg,82,4695,3,1918,
 550,Villa,Herrestedgade 7,6520, Toftlund,770000 ,26-01-1998,Alm. Salg,135,5704,5,1935,
-550,Ejerlejlighed,"Møllegade 21, st",6240, Løgumkloster,750000 ,25-01-1998,Alm. Salg,100,5474,2,1477,
 550,Villa,Mariavænget 3,6520, Toftlund,1010320 ,25-01-1998,Alm. Salg,187,5002,6,1976,
 550,Villa,Tyvsevej 5,6270, Tønder,185000 ,25-01-1998,Alm. Salg,255,725,6,1883,
-550,Villa,Sølstedvej 2C,6270, Tønder,230000 ,25-01-1998,Alm. Salg,52,4423,2,2005,
 550,Villa,Smedegade 4,6535, Branderup J,295000 ,25-01-1998,Alm. Salg,118,2500,3,1939,
 550,Villa,Nørhus 9,6261, Bredebro,358000 ,25-01-1998,Alm. Salg,80,4475,3,1860,
-550,Villa,"Møllegade 21, kl",6240, Løgumkloster,750000 ,25-01-1998,Alm. Salg,245,3061,6,1477,
 550,Villa,Elmevej 10,6780, Skærbæk,870000 ,25-01-1998,Alm. Salg,155,5613,4,1971,
-550,Ejerlejlighed,"Strucksalle 25, 1",6270, Tønder,443178 ,22-01-1998,Alm. Salg,70,6331,3,1906,
 550,Villa,Nyvang 5,6780, Skærbæk,430000 ,22-01-1998,Alm. Salg,111,3874,3,1973,
 550,Villa,Klintvej 19,6280, Højer,530000 ,22-01-1998,Alm. Salg,140,3786,4,1972,
-550,Villa,"Strucksalle 25, st",6270, Tønder,443178 ,22-01-1998,Alm. Salg,94,4715,4,1906,
 550,Villa,Rudbølvej 7,6280, Højer,119160 ,21-01-1998,Alm. Salg,120,993,4,1870,
 550,Villa,Kogsvej 38,6780, Skærbæk,310000 ,20-01-1998,Alm. Salg,130,2385,4,1929,
 550,Villa,Bispelunden 9,6534, Agerskov,600000 ,20-01-1998,Alm. Salg,144,4167,5,1977,
@@ -13526,9 +13300,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Lærkevej 6,6240, Løgumkloster,800000 ,19-01-1998,Alm. Salg,143,5594,4,1968,
 550,Villa,Gammel Ørderupvej 8,6520, Toftlund,250000 ,19-01-1998,Fam. Salg,199,1256,4,1840,
 550,Villa,Møldamager 54,6240, Løgumkloster,89100 ,19-01-1998,Alm. Salg,153,582,5,1998,
-550,Rækkehus,Hovedgaden 46A,6534, Agerskov,265000 ,18-01-1998,Alm. Salg,130,2038,4,1877,
 550,Villa,Ved Slotsbanken 8B,6270, Tønder,1106000 ,18-01-1998,Alm. Salg,147,7524,5,1986,
-550,Villa,Hovedgaden 46B,6534, Agerskov,265000 ,18-01-1998,Alm. Salg,208,1104,7,1877,
 550,Villa,Granvænget 6,6535, Branderup J,250000 ,18-01-1998,Alm. Salg,105,2381,3,1979,
 550,Villa,Klitvejen 19,6792, Rømø,58250 ,16-01-1998,Alm. Salg,136,428,4,2003,
 550,Villa,Dyrhusvej 37,6270, Tønder,853080 ,15-01-1998,Alm. Salg,186,4586,5,1928,
@@ -13658,8 +13430,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Vestergade 12,6520, Toftlund,556000 ,23-10-1997,Alm. Salg,140,3971,6,1952,
 550,Villa,Abterp 11,6261, Bredebro,275000 ,22-10-1997,Alm. Salg,90,3056,3,1965,
 550,Villa,Skovsbjergvej 1,6520, Toftlund,399000 ,22-10-1997,Alm. Salg,160,2494,4,1920,
-550,Rækkehus,"Skærbækgårdsvej 1, 1",6780, Skærbæk,310000 ,21-10-1997,Alm. Salg,90,3444,2,1900,
-550,Ejerlejlighed,"Skærbækgårdsvej 1, st",6780, Skærbæk,310000 ,21-10-1997,Alm. Salg,136,2279,4,1900,
 550,Villa,Enghavevej 25,6240, Løgumkloster,650000 ,21-10-1997,Alm. Salg,143,4545,4,1979,
 550,Villa,Hostrupvej 1,6270, Tønder,364000 ,20-10-1997,Alm. Salg,96,3792,3,1954,
 550,Villa,Strucksalle 53,6270, Tønder,865000 ,20-10-1997,Alm. Salg,197,4391,7,1925,
@@ -13817,7 +13587,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Allegade 7,6240, Løgumkloster,527000 ,07-08-1997,Alm. Salg,172,3064,4,1850,
 550,Villa,Stationsvej 13,6261, Bredebro,182737 ,06-08-1997,Fam. Salg,104,1757,4,1953,
 550,Villa,Strucksalle 71,6270, Tønder,425000 ,06-08-1997,Alm. Salg,156,2724,6,1923,
-550,Villa,Rantzausvænget 10,6261, Bredebro,520000 ,06-08-1997,Alm. Salg,136,3824,4,1980,
 550,Villa,Vestervej 2,6261, Bredebro,250000 ,05-08-1997,Alm. Salg,87,2874,3,1959,
 550,Villa,Åbøl Østermarksvej 17,6520, Toftlund,275000 ,05-08-1997,Alm. Salg,112,2455,5,1827,
 550,Villa,Tyvsevej 14,6270, Tønder,35000 ,04-08-1997,Alm. Salg,165,212,5,1925,
@@ -13918,7 +13687,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Strandvej 25,6261, Bredebro,439000 ,04-06-1997,Alm. Salg,120,3658,5,1938,
 550,Villa,Jægerskoven 43,6520, Toftlund,640000 ,04-06-1997,Alm. Salg,167,3832,7,1977,
 550,Villa,Markvænget 26,6520, Toftlund,593000 ,04-06-1997,Alm. Salg,122,4861,4,1978,
-550,Villa,Høybergvej 78,6261, Bredebro,1313255 ,03-06-1997,Alm. Salg,274,4793,8,1957,
 550,Villa,Højervej 8,6280, Højer,360000 ,03-06-1997,Alm. Salg,230,1565,5,1998,
 550,Villa,Nørrefoldvej 41,6270, Tønder,550000 ,03-06-1997,Alm. Salg,133,4135,4,1700,
 550,Villa,Skast 95,6261, Bredebro,2180600 ,02-06-1997,Fam. Salg,220,9912,8,1911,
@@ -14001,13 +13769,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Lærkevej 20,6780, Skærbæk,360000 ,21-04-1997,Alm. Salg,90,4000,3,1962,
 550,Villa,Gyvelvej 6,6780, Skærbæk,446000 ,21-04-1997,Alm. Salg,144,3097,4,1979,
 550,Rækkehus,Rosenvænget 6,6270, Tønder,569000 ,20-04-1997,Alm. Salg,87,6540,4,1961,
-550,Ejerlejlighed,"Kogsvej 1, st. tv",6780, Skærbæk,552000 ,20-04-1997,Alm. Salg,84,6571,2,1935,
-550,Ejerlejlighed,"Kogsvej 1, 1. th",6780, Skærbæk,552000 ,20-04-1997,Alm. Salg,96,5750,3,1935,
-550,Ejerlejlighed,"Kogsvej 1, 1. tv",6780, Skærbæk,552000 ,20-04-1997,Alm. Salg,75,7360,2,1935,
-550,Ejerlejlighed,"Kogsvej 1, st. th",6780, Skærbæk,552000 ,20-04-1997,Alm. Salg,109,5064,3,1935,
 550,Ejerlejlighed,Astrupvej 59C,6780, Skærbæk,49956 ,20-04-1997,Alm. Salg,88,568,3,1777,
-550,Ejerlejlighed,"Rejsby Landevej 8, 1",6780, Skærbæk,552000 ,20-04-1997,Alm. Salg,79,6987,3,1945,
-550,Ejerlejlighed,"Rejsby Landevej 8, st",6780, Skærbæk,552000 ,20-04-1997,Alm. Salg,72,7667,3,1945,
 550,Villa,Jørgensbyvej 15,6534, Agerskov,295000 ,20-04-1997,Alm. Salg,192,1536,8,1880,
 550,Villa,Horsbygvej 4,6534, Agerskov,513000 ,20-04-1997,Alm. Salg,170,3018,4,1969,
 550,Villa,Kirstine Svendsdattervej 3,6280, Højer,266000 ,20-04-1997,Alm. Salg,105,2533,4,1950,
@@ -14097,7 +13859,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Kirkegade 4,6240, Løgumkloster,405478 ,06-03-1997,Alm. Salg,347,1169,8,1908,
 550,Villa,Vinkelvej 2A,6520, Toftlund,649000 ,06-03-1997,Alm. Salg,137,4737,5,1985,
 550,Villa,Borg 66,6261, Bredebro,526000 ,05-03-1997,Alm. Salg,212,2481,7,1954,
-550,Ejerlejlighed,"Nørrefoldvej 6B, 1",6270, Tønder,50000 ,04-03-1997,Alm. Salg,123,407,4,1901,
 550,Villa,H C Davidsens Vej 9,6270, Tønder,75750 ,04-03-1997,Alm. Salg,249,304,7,1997,
 550,Villa,Horsbølvej 38,6780, Skærbæk,592589 ,04-03-1997,Alm. Salg,237,2500,9,1901,
 550,Villa,Carstensgade 50,6270, Tønder,650000 ,04-03-1997,Alm. Salg,80,8125,4,1955,
@@ -14177,9 +13938,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Sejerslevvej 53,6280, Højer,574888 ,25-01-1997,Alm. Salg,316,1819,7,1952,
 550,Villa,Sølstedvej 13,6270, Tønder,168125 ,23-01-1997,Alm. Salg,125,1345,4,1780,
 550,Villa,Østervang 27,6261, Bredebro,350000 ,23-01-1997,Alm. Salg,90,3889,3,1967,
-550,Ejerlejlighed,"Vidågade 1, st",6270, Tønder,1221000 ,22-01-1997,Alm. Salg,132,9250,4,1875,
-550,Ejerlejlighed,"Vidågade 1, 1",6270, Tønder,1221000 ,22-01-1997,Alm. Salg,157,7777,5,1875,
-550,Ejerlejlighed,"Søndergade 12, 2",6270, Tønder,1221000 ,22-01-1997,Alm. Salg,121,10091,4,1875,
 550,Villa,Richtsensgade 21,6270, Tønder,455000 ,22-01-1997,Alm. Salg,97,4691,4,1870,
 550,Villa,Lobækvej 5,6240, Løgumkloster,320000 ,21-01-1997,Fam. Salg,235,1362,5,1953,
 550,Villa,Arnumvej 21,6520, Toftlund,454000 ,21-01-1997,Fam. Salg,111,4090,3,1950,
@@ -14305,7 +14063,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Tøndervej 37,6780, Skærbæk,522000 ,31-10-1996,Alm. Salg,103,5068,3,1962,
 550,Villa,Nørrehede 4,6240, Løgumkloster,630000 ,30-10-1996,Alm. Salg,223,2825,4,1910,
 550,Villa,Nygade 25,6270, Tønder,855000 ,30-10-1996,Alm. Salg,144,5938,5,1963,
-550,Villa,Strucksalle 78,6270, Tønder,800000 ,30-10-1996,Alm. Salg,106,7547,4,1947,
 550,Villa,Mågen 18,6270, Tønder,697753 ,29-10-1996,Alm. Salg,131,5326,4,1977,
 550,Villa,Løgumklostervej 42,6780, Skærbæk,365000 ,29-10-1996,Alm. Salg,214,1706,8,1875,
 550,Villa,Harres 33,6261, Bredebro,354459 ,29-10-1996,Alm. Salg,173,2049,5,1880,
@@ -14420,7 +14177,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Sønderbyen 27,6534, Agerskov,669000 ,01-09-1996,Alm. Salg,270,2478,7,1923,
 550,Villa,Leosalle 30A,6270, Tønder,200000 ,30-08-1996,Alm. Salg,134,1493,4,1997,
 550,Villa,Aaparken 16,6240, Løgumkloster,634000 ,30-08-1996,Alm. Salg,183,3464,4,1980,
-550,Ejerlejlighed,"Ribelandevej 54, 1",6270, Tønder,2500000 ,29-08-1996,Alm. Salg,223,11211,7,1951,
 550,Villa,Vesterende 16,6261, Bredebro,114804 ,29-08-1996,Fam. Salg,123,933,5,1861,
 550,Villa,Algade 10,6780, Skærbæk,248000 ,29-08-1996,Alm. Salg,158,1570,7,1900,
 550,Villa,Ballumvej 83,6280, Højer,325000 ,29-08-1996,Alm. Salg,116,2802,4,1960,
@@ -14643,7 +14399,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Violvej 1,6270, Tønder,515000 ,20-05-1996,Alm. Salg,102,5049,3,1963,
 550,Villa,Branderupvej 8,6534, Agerskov,600000 ,20-05-1996,Alm. Salg,287,2091,8,1938,
 550,Ejerlejlighed,Søndergade 15,6270, Tønder,450000 ,19-05-1996,Alm. Salg,244,1844,9,1890,
-550,Villa,Carstensgade 28,6270, Tønder,500000 ,19-05-1996,Alm. Salg,214,2336,7,1920,
 550,Villa,Parkvej 13A,6261, Bredebro,260000 ,19-05-1996,Alm. Salg,132,1970,5,1936,
 550,Villa,Stormstræde 12,6792, Rømø,565000 ,19-05-1996,Alm. Salg,129,4380,4,1974,
 550,Villa,Søndergade 28C,6520, Toftlund,537000 ,18-05-1996,Alm. Salg,75,7160,2,1989,
@@ -14884,7 +14639,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Margrethevej 11,6270, Tønder,450000 ,15-01-1996,Fam. Salg,190,2368,7,1964,
 550,Villa,Munkeparken 64,6240, Løgumkloster,550000 ,15-01-1996,Alm. Salg,122,4508,4,1978,
 550,Villa,Emmerlevvej 31,6280, Højer,207500 ,15-01-1996,Alm. Salg,127,1634,3,1947,
-550,Rækkehus,Østergade 22A,6520, Toftlund,1088000 ,14-01-1996,Alm. Salg,127,8567,3,1907,
 550,Villa,Enggårdsvej 6,6240, Løgumkloster,475000 ,14-01-1996,Alm. Salg,111,4279,3,1971,
 550,Villa,Toften 2,6520, Toftlund,271000 ,13-01-1996,Alm. Salg,92,2946,4,1962,
 550,Villa,Sønderhedevej 9,6280, Højer,283000 ,11-01-1996,Alm. Salg,88,3216,3,1958,
@@ -14933,10 +14687,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Vellerupvej 8,6534, Agerskov,309208 ,11-12-1995,Alm. Salg,168,1841,4,1927,
 550,Villa,Nyboder 74,6520, Toftlund,428000 ,11-12-1995,Alm. Salg,122,3508,4,1969,
 550,Rækkehus,Møllegade 5,6280, Højer,220000 ,10-12-1995,Alm. Salg,64,3438,3,1790,
-550,Ejerlejlighed,"Søndergade 8, 1",6270, Tønder,726750 ,10-12-1995,Fam. Salg,120,6056,5,1900,
-550,Ejerlejlighed,"Storegade 6, 1. th",6270, Tønder,726750 ,10-12-1995,Fam. Salg,98,7416,2,1932,
-550,Ejerlejlighed,"Storegade 6, 1. tv",6270, Tønder,726750 ,10-12-1995,Fam. Salg,82,8863,1,1932,
-550,Ejerlejlighed,"Storegade 6, 2",6270, Tønder,726750 ,10-12-1995,Fam. Salg,180,4038,4,1932,
 550,Villa,Falkevej 17,6240, Løgumkloster,600000 ,10-12-1995,Alm. Salg,121,4959,4,1976,
 550,Villa,Hjejlen 26,6270, Tønder,985000 ,10-12-1995,Alm. Salg,225,4378,7,1976,
 550,Villa,Ved Dammen 1,6240, Løgumkloster,440000 ,09-12-1995,Alm. Salg,163,2699,5,1940,
@@ -14987,13 +14737,11 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Bjergvej 3,6240, Løgumkloster,357000 ,14-11-1995,Fam. Salg,185,1930,6,1902,
 550,Villa,Storegade 22,6280, Højer,140000 ,14-11-1995,Alm. Salg,120,1167,5,1900,
 550,Villa,Ved Gamle Dige 8,6280, Højer,745000 ,14-11-1995,Alm. Salg,220,3386,6,1974,
-550,Ejerlejlighed,"Vestergade 75B, st. tv",6270, Tønder,370000 ,13-11-1995,Andet,76,4868,2,1850,
 550,Villa,Aaparken 20,6240, Løgumkloster,657500 ,13-11-1995,Alm. Salg,132,4981,4,1984,
 550,Villa,Brede Bygade 62,6261, Bredebro,670000 ,13-11-1995,Alm. Salg,137,4891,5,1986,
 550,Villa,Møllevej 4,6270, Tønder,350000 ,13-11-1995,Alm. Salg,116,3017,5,1907,
 550,Villa,Tønder Landevej 20,6240, Løgumkloster,260000 ,13-11-1995,Alm. Salg,125,2080,4,1932,
 550,Villa,Ahornvej 21,6270, Tønder,800000 ,13-11-1995,Alm. Salg,141,5674,5,1989,
-550,Villa,Vestergade 75A,6270, Tønder,370000 ,13-11-1995,Andet,80,4625,3,1850,
 550,Villa,Brøns Skovvej 2,6780, Skærbæk,225000 ,12-11-1995,Alm. Salg,243,926,6,1939,
 550,Villa,Aavænget 5,6780, Skærbæk,1500000 ,11-11-1995,Andet,191,7853,6,1986,
 550,Villa,Holmevej 7,6240, Løgumkloster,250000 ,09-11-1995,Alm. Salg,149,1678,5,1950,
@@ -15402,14 +15150,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Ribelandevej 46,6270, Tønder,471040 ,05-04-1995,Alm. Salg,125,3768,5,1946,
 550,Rækkehus,Skoletoften 8,6780, Skærbæk,280000 ,04-04-1995,Alm. Salg,77,3636,2,1980,
 550,Villa,Tjørnevej 1,6240, Løgumkloster,294167 ,04-04-1995,Alm. Salg,334,881,7,1877,
-550,Ejerlejlighed,"Kirkegade 1, st. th",6261, Bredebro,380000 ,02-04-1995,Alm. Salg,50,7600,2,1898,
-550,Ejerlejlighed,"Kirkegade 1, st. tv",6261, Bredebro,380000 ,02-04-1995,Alm. Salg,44,8636,2,1898,
-550,Ejerlejlighed,"Brogade 4, 1. th",6261, Bredebro,380000 ,02-04-1995,Alm. Salg,97,3918,4,1898,
-550,Ejerlejlighed,"Brogade 4, st. tv",6261, Bredebro,380000 ,02-04-1995,Alm. Salg,200,1900,4,1898,
-550,Ejerlejlighed,"Brogade 4, 1. tv",6261, Bredebro,380000 ,02-04-1995,Alm. Salg,85,4471,3,1898,
-550,Ejerlejlighed,"Brogade 4, 1. mf",6261, Bredebro,380000 ,02-04-1995,Alm. Salg,45,8444,2,1898,
-550,Ejerlejlighed,"Brogade 4, 2. th",6261, Bredebro,380000 ,02-04-1995,Alm. Salg,92,4130,3,1898,
-550,Ejerlejlighed,"Brogade 4, 2. tv",6261, Bredebro,380000 ,02-04-1995,Alm. Salg,92,4130,3,1898,
 550,Villa,Jernbanegade 20,6270, Tønder,520000 ,02-04-1995,Alm. Salg,202,2574,6,1910,
 550,Villa,Kastaniealle 6,6270, Tønder,549101 ,02-04-1995,Alm. Salg,160,3432,7,1956,
 550,Villa,Værftvej 11,6270, Tønder,468189 ,02-04-1995,Alm. Salg,194,2413,7,1967,
@@ -15450,7 +15190,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Dravedvej 3,6240, Løgumkloster,550000 ,16-03-1995,Alm. Salg,153,3595,4,1959,
 550,Villa,Allegade 19,6240, Løgumkloster,460000 ,16-03-1995,Alm. Salg,184,2500,5,1910,
 550,Villa,Nørrehedevej 11,6280, Højer,158000 ,16-03-1995,Alm. Salg,79,2000,3,1845,
-550,Villa,Vestergade 5B,6520, Toftlund,1530000 ,16-03-1995,Alm. Salg,136,11250,2,1962,
 550,Villa,Gartnervænget 7,6780, Skærbæk,675000 ,14-03-1995,Alm. Salg,232,2909,8,1973,
 550,Villa,Slotsgade 14,6240, Løgumkloster,315000 ,14-03-1995,Alm. Salg,206,1529,6,1900,
 550,Villa,Bovlund Bjergvej 4,6535, Branderup J,330000 ,13-03-1995,Fam. Salg,146,2260,5,1959,
@@ -15562,12 +15301,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Østerbyvej 8,6280, Højer,620333 ,16-01-1995,Alm. Salg,133,4664,3,1880,
 550,Rækkehus,"Lyngvejen 99, st. 9",6792, Rømø,160000 ,15-01-1995,Alm. Salg,32,5000,2,1979,
 550,Villa,Østergade 44,6520, Toftlund,325000 ,14-01-1995,Alm. Salg,186,1747,6,1940,
-550,Ejerlejlighed,"Markgade 1A, 1",6270, Tønder,444000 ,12-01-1995,Alm. Salg,74,6000,2,1932,
-550,Villa,"Markgade 1A, st",6270, Tønder,444000 ,12-01-1995,Alm. Salg,74,6000,2,1932,
 550,Villa,Nørregade 11,6534, Agerskov,180000 ,12-01-1995,Alm. Salg,102,1765,4,1938,
 550,Villa,Kanalvej 12,6280, Højer,295890 ,12-01-1995,Alm. Salg,84,3523,2,1877,
-550,Ejerlejlighed,Præstevænget 11B,6520, Toftlund,620000 ,11-01-1995,Alm. Salg,64,9688,2,1963,
-550,Villa,Præstevænget 11A,6520, Toftlund,620000 ,11-01-1995,Alm. Salg,198,3131,7,1963,
 550,Villa,Vestermarksvej 25,6520, Toftlund,205272 ,11-01-1995,Alm. Salg,96,2138,4,1917,
 550,Villa,Nederballevej 1,6240, Løgumkloster,480000 ,11-01-1995,Alm. Salg,247,1943,8,1913,
 550,Villa,Bøgevej 13,6780, Skærbæk,575000 ,10-01-1995,Alm. Salg,122,4713,5,1965,
@@ -15584,8 +15319,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Infanterivej 4,6270, Tønder,75000 ,03-01-1995,Alm. Salg,146,514,4,1977,
 550,Villa,Bålstedvej 16,6535, Branderup J,425000 ,02-01-1995,Fam. Salg,132,3220,4,1964,
 550,Villa,Vibevej 1A,6792, Rømø,599000 ,02-01-1995,Alm. Salg,156,3840,4,1970,
-550,Rækkehus,Nyboder 10B,6520, Toftlund,480000 ,30-12-1994,Fam. Salg,109,4404,4,1966,
-550,Villa,Nyboder 10A,6520, Toftlund,480000 ,30-12-1994,Fam. Salg,73,6575,3,1966,
 550,Villa,Krusåvej 42,6240, Løgumkloster,196000 ,29-12-1994,Fam. Salg,89,2202,3,1770,
 550,Villa,Vesterhåbvej 4,6270, Tønder,394800 ,27-12-1994,Alm. Salg,145,2723,5,1938,
 550,Villa,Hovedgaden 53,6534, Agerskov,230000 ,27-12-1994,Alm. Salg,122,1885,4,1935,
@@ -15880,13 +15613,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Ejerlejlighed,"Storegade 29B, 1",6780, Skærbæk,840000 ,20-07-1994,Alm. Salg,222,3784,10,1900,
 550,Villa,Tøndervej 62,6780, Skærbæk,565000 ,18-07-1994,Alm. Salg,304,1859,10,1967,
 550,Villa,Amagervej 4,6240, Løgumkloster,325000 ,17-07-1994,Alm. Salg,140,2321,4,1951,
-550,Ejerlejlighed,"Møllegade 21, st",6240, Løgumkloster,590000 ,15-07-1994,Alm. Salg,100,4307,2,1477,
-550,Villa,"Møllegade 21, kl",6240, Løgumkloster,590000 ,15-07-1994,Alm. Salg,245,2408,6,1477,
 550,Villa,Leosalle 23,6270, Tønder,191000 ,14-07-1994,Auktion,180,1061,5,1924,
-550,Ejerlejlighed,"Spikergade 28, st. tv",6270, Tønder,1200000 ,13-07-1994,Alm. Salg,160,7500,4,1920,
-550,Ejerlejlighed,"Spikergade 28, 1. th",6270, Tønder,1200000 ,13-07-1994,Alm. Salg,169,7101,4,1920,
-550,Ejerlejlighed,"Spikergade 28, 2. th",6270, Tønder,1200000 ,13-07-1994,Alm. Salg,149,8054,4,1920,
-550,Ejerlejlighed,Uldgade 21,6270, Tønder,1200000 ,13-07-1994,Alm. Salg,120,10000,3,1920,
 550,Villa,Skansen 3,6792, Rømø,900000 ,13-07-1994,Alm. Salg,109,8257,4,1971,
 550,Villa,Hovedgaden 56,6534, Agerskov,195000 ,13-07-1994,Alm. Salg,186,1048,7,1935,
 550,Villa,Nørrevej 60,6280, Højer,306000 ,12-07-1994,Alm. Salg,122,2508,5,1907,
@@ -16276,7 +16003,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Assetvej 3,6240, Løgumkloster,469561 ,03-01-1994,Fam. Salg,137,3427,5,2001,
 550,Villa,Brede Bygade 13,6261, Bredebro,225000 ,31-12-1993,Alm. Salg,180,1250,5,1910,
 550,Rækkehus,Vestervang 1B,6240, Løgumkloster,177000 ,30-12-1993,Alm. Salg,73,2425,3,1979,
-550,Ejerlejlighed,"Nørrefoldvej 6B, 1",6270, Tønder,620000 ,29-12-1993,Alm. Salg,123,5041,4,1901,
 550,Villa,Juvrevej 18,6792, Rømø,420000 ,29-12-1993,Alm. Salg,100,4200,4,1800,
 550,Villa,Brede Bygade 56,6261, Bredebro,518500 ,28-12-1993,Fam. Salg,301,1723,9,1868,
 550,Villa,Kogen 7,6270, Tønder,523225 ,28-12-1993,Alm. Salg,224,2336,6,1925,
@@ -16507,7 +16233,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Spikergade 16,6270, Tønder,650000 ,09-09-1993,Alm. Salg,166,3916,7,1875,
 550,Villa,Horsbølvej 27,6780, Skærbæk,110000 ,08-09-1993,Alm. Salg,199,553,7,1900,
 550,Villa,Kirkegade 21,6240, Løgumkloster,200000 ,08-09-1993,Alm. Salg,201,995,6,1925,
-550,Villa,"Carstensgade 38, st",6270, Tønder,320000 ,07-09-1993,Fam. Salg,92,3478,2,1925,
 550,Villa,Kongevej 34,6270, Tønder,610000 ,07-09-1993,Alm. Salg,160,3813,6,1940,
 550,Villa,Gørrismarkvej 1,6270, Tønder,320000 ,06-09-1993,Alm. Salg,117,2735,5,1948,
 550,Villa,Vestervang 32,6240, Løgumkloster,675000 ,06-09-1993,Alm. Salg,198,3409,5,1979,
@@ -16809,17 +16534,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Markvænget 14,6520, Toftlund,490000 ,04-04-1993,Alm. Salg,124,3952,4,1980,
 550,Villa,Tøndervej 29,6780, Skærbæk,250000 ,04-04-1993,Alm. Salg,117,2137,4,1948,
 550,Villa,Emmerlevvej 28,6280, Højer,205000 ,04-04-1993,Alm. Salg,183,1120,7,1913,
-550,Villa,Storegade 23A,6780, Skærbæk,1000000 ,03-04-1993,Alm. Salg,141,7092,4,1975,
 550,Villa,Skovvej 9,6520, Toftlund,255000 ,02-04-1993,Alm. Salg,160,1594,6,1942,
 550,Villa,Tøndervej 22,6520, Toftlund,405000 ,01-04-1993,Alm. Salg,145,2793,4,1949,
 550,Villa,Kovej 17,6280, Højer,106250 ,31-03-1993,Fam. Salg,111,957,2,1800,
 550,Villa,Hattesvej 11,6792, Rømø,221000 ,31-03-1993,Fam. Salg,204,1083,6,1746,
-550,Ejerlejlighed,"Søndergade 8, st. th",6270, Tønder,463250 ,30-03-1993,Fam. Salg,49,9454,2,1900,
-550,Ejerlejlighed,"Søndergade 8, 1",6270, Tønder,463250 ,30-03-1993,Fam. Salg,120,3860,5,1900,
-550,Ejerlejlighed,"Storegade 6, 1. th",6270, Tønder,463250 ,30-03-1993,Fam. Salg,98,4727,2,1932,
-550,Ejerlejlighed,"Storegade 6, 1. tv",6270, Tønder,463250 ,30-03-1993,Fam. Salg,82,5649,1,1932,
-550,Ejerlejlighed,"Storegade 6, 2",6270, Tønder,463250 ,30-03-1993,Fam. Salg,180,2574,4,1932,
-550,Ejerlejlighed,"Storegade 6, 3",6270, Tønder,463250 ,30-03-1993,Fam. Salg,60,7721,1,1932,
 550,Villa,Møllebakken 10,6261, Bredebro,600000 ,30-03-1993,Alm. Salg,134,4478,4,1964,
 550,Villa,Østermarkvej 14,6280, Højer,600000 ,30-03-1993,Alm. Salg,371,1617,11,1986,
 550,Villa,Markvænget 117,6520, Toftlund,412276 ,30-03-1993,Alm. Salg,103,4003,4,1984,
@@ -17136,11 +16854,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Østervang 47,6261, Bredebro,605000 ,30-08-1992,Fam. Salg,224,2701,7,1967,
 550,Villa,Voddervej 19,6780, Skærbæk,220000 ,28-08-1992,Alm. Salg,110,2000,4,1937,
 550,Villa,Lemmosevej 11,6240, Løgumkloster,1450000 ,27-08-1992,Alm. Salg,211,6872,7,1970,
-550,Ejerlejlighed,"Vestergade 75B, st. tv",6270, Tønder,350000 ,26-08-1992,Alm. Salg,76,4605,2,1850,
 550,Villa,Jægerskoven 31,6520, Toftlund,255000 ,26-08-1992,Alm. Salg,132,1932,5,1977,
 550,Villa,Vinklen 2,6270, Tønder,610000 ,26-08-1992,Alm. Salg,152,4013,4,1977,
 550,Villa,Mølleparken 143,6240, Løgumkloster,500000 ,26-08-1992,Alm. Salg,120,4167,4,1980,
-550,Villa,Vestergade 75A,6270, Tønder,350000 ,26-08-1992,Alm. Salg,80,4375,3,1850,
 550,Rækkehus,Klostergade 16,6240, Løgumkloster,162500 ,25-08-1992,Alm. Salg,114,1425,3,1983,
 550,Villa,Granvænget 18,6535, Branderup J,20690 ,25-08-1992,Alm. Salg,151,137,5,2002,
 550,Villa,Kirkevænget 1,6270, Tønder,425000 ,25-08-1992,Alm. Salg,219,1941,6,1780,
@@ -17167,8 +16883,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Brorsonsvej 32,6270, Tønder,495400 ,18-08-1992,Alm. Salg,159,3116,5,1961,
 550,Villa,Elmevej 3,6270, Tønder,320000 ,17-08-1992,Alm. Salg,74,4324,3,1962,
 550,Villa,Mariavænget 15,6520, Toftlund,535000 ,16-08-1992,Alm. Salg,163,3282,5,1978,
-550,Ejerlejlighed,"Markgade 1A, 1",6270, Tønder,227500 ,15-08-1992,Alm. Salg,74,3074,2,1932,
-550,Villa,"Markgade 1A, st",6270, Tønder,227500 ,15-08-1992,Alm. Salg,74,3074,2,1932,
 550,Villa,Svinget 13,6240, Løgumkloster,462000 ,15-08-1992,Alm. Salg,113,4088,3,1952,
 550,Villa,Mølleparken 372,6240, Løgumkloster,665000 ,15-08-1992,Alm. Salg,227,2930,5,1985,
 550,Villa,Skovroysvej 10,6270, Tønder,395000 ,14-08-1992,Alm. Salg,108,3657,5,1963,
@@ -17299,7 +17013,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Nørrevej 75,6280, Højer,172000 ,31-05-1992,Fam. Salg,167,1030,5,1912,
 550,Villa,Skovfennen 8,6780, Skærbæk,500000 ,31-05-1992,Fam. Salg,165,3030,5,1979,
 550,Villa,Birkevej 1,6270, Tønder,485000 ,31-05-1992,Alm. Salg,185,2622,5,1960,
-550,Villa,Ryttervej 4,6270, Tønder,410000 ,31-05-1992,Alm. Salg,115,3565,4,1923,
 550,Villa,Skovfennen 15,6270, Tønder,545000 ,30-05-1992,Alm. Salg,170,3206,5,1850,
 550,Villa,Nygade 19,6780, Skærbæk,290000 ,29-05-1992,Alm. Salg,121,2397,5,1949,
 550,Villa,Kirkegade 4,6240, Løgumkloster,247149 ,29-05-1992,Alm. Salg,347,712,8,1908,
@@ -17313,10 +17026,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Mågen 45,6270, Tønder,486436 ,24-05-1992,Fam. Salg,130,3742,5,1978,
 550,Villa,Vinkelvej 5,6520, Toftlund,190000 ,23-05-1992,Alm. Salg,165,1152,5,1946,
 550,Villa,Hjemstedvej 3,6780, Skærbæk,395000 ,22-05-1992,Alm. Salg,125,3160,4,1967,
-550,Ejerlejlighed,Markledgade 14,6240, Løgumkloster,495000 ,21-05-1992,Alm. Salg,122,4057,4,1900,
-550,Ejerlejlighed,Garvergade 2B,6240, Løgumkloster,495000 ,21-05-1992,Alm. Salg,103,4806,3,1900,
-550,Ejerlejlighed,Garvergade 2A,6240, Løgumkloster,495000 ,21-05-1992,Alm. Salg,56,8839,2,1900,
-550,Ejerlejlighed,Garvergade 2C,6240, Løgumkloster,495000 ,21-05-1992,Alm. Salg,160,3094,5,1900,
 550,Villa,Bøgevej 1A,6780, Skærbæk,510000 ,21-05-1992,Alm. Salg,164,3110,5,1965,
 550,Villa,Nørrefoldvej 13,6270, Tønder,160000 ,21-05-1992,Alm. Salg,52,3077,3,1924,
 550,Villa,Stationsvej 16,6261, Bredebro,550000 ,20-05-1992,Alm. Salg,123,4472,3,1960,
@@ -17325,7 +17034,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Mågen 51,6270, Tønder,550000 ,19-05-1992,Alm. Salg,128,4297,4,1978,
 550,Villa,Engvej 6,6240, Løgumkloster,360000 ,18-05-1992,Alm. Salg,91,3956,3,1964,
 550,Villa,Krusåvej 19,6240, Løgumkloster,352000 ,18-05-1992,Alm. Salg,229,1537,6,1966,
-550,Villa,Spikergade 1A,6270, Tønder,389343 ,17-05-1992,Fam. Salg,102,3817,3,1900,
 550,Villa,Kagebøl 15,6780, Skærbæk,765000 ,17-05-1992,Alm. Salg,219,3493,6,1978,
 550,Villa,Gammel Ørderupvej 4,6520, Toftlund,310000 ,17-05-1992,Alm. Salg,150,2067,6,1931,
 550,Villa,Branderup Kådner 10,6535, Branderup J,240000 ,17-05-1992,Alm. Salg,212,1132,7,1877,
@@ -17568,7 +17276,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 550,Villa,Bøgevej 15,6240, Løgumkloster,420000 ,08-01-1992,Alm. Salg,98,4286,4,1976,
 550,Rækkehus,Ved Slotsbanken 36,6270, Tønder,503000 ,07-01-1992,Alm. Salg,84,5988,3,1986,
 550,Villa,Carstensgade 75,6270, Tønder,565000 ,06-01-1992,Alm. Salg,198,2854,7,1912,
-550,Rækkehus,"Nørregade 41A, st. th",6280, Højer,250000 ,05-01-1992,Alm. Salg,52,4808,2,1906,
 550,Villa,Høllevang 7,6520, Toftlund,447000 ,05-01-1992,Fam. Salg,147,3041,4,1975,
 550,Villa,Hovedgaden 4,6534, Agerskov,1000000 ,05-01-1992,Fam. Salg,274,3650,12,1952,
 550,Villa,Strandvej 21,6280, Højer,350000 ,02-01-1992,Fam. Salg,109,3211,4,1929,

@@ -2,8 +2,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 175,Ejerlejlighed,"Rødovre Parkvej 283, 1",2610, Rødovre,1550000 ,28-12-2022,Alm. Salg,67,23134,3,1962,-14%
 175,Ejerlejlighed,"Rødovre Parkvej 265, st",2610, Rødovre,1280000 ,28-12-2022,Alm. Salg,47,27234,1,1962,-5%
 175,Villa,Røngård Alle 22,2610, Rødovre,2500000 ,28-12-2022,Fam. Salg,249,10040,14,2022,
-175,Ejerlejlighed,"Rødovre Parkvej 193, 1. tv",2610, Rødovre,2500000 ,15-12-2022,Alm. Salg,84,29762,4,1964,-4%
-175,Ejerlejlighed,"Brunevang 90, st",2610, Rødovre,2500000 ,15-12-2022,Alm. Salg,82,30488,4,1967,-11%
 175,Villa,Kaffevej 72,2610, Rødovre,6560000 ,15-12-2022,Alm. Salg,160,41000,5,2017,-6%
 175,Ejerlejlighed,"Brandholms Alle 32G, 2",2610, Rødovre,1310000 ,14-12-2022,Alm. Salg,58,22586,2,1959,-6%
 175,Ejerlejlighed,"Brandholms Alle 24K, st",2610, Rødovre,1450000 ,13-12-2022,Alm. Salg,48,30208,2,1990,-3%
@@ -66,7 +64,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 175,Ejerlejlighed,"Voldumvej 55, 2. mf",2610, Rødovre,1200000 ,13-10-2022,Alm. Salg,42,28571,2,1957,-14%
 175,Villa,Rævebakkevej 31,2610, Rødovre,3900000 ,11-10-2022,Alm. Salg,112,34821,4,1969,-9%
 175,Ejerlejlighed,"Damhus Boulevard 3, 2. th",2610, Rødovre,1775000 ,10-10-2022,Alm. Salg,50,35500,2,1934,
-175,Rækkehus,Sylvestervej 15C,2610, Rødovre,5400000 ,07-10-2022,Alm. Salg,107,50467,4,1976,
 175,Ejerlejlighed,"Rødager Alle 65, 2. tv",2610, Rødovre,1700000 ,05-10-2022,Alm. Salg,55,30909,2,1960,-3%
 175,Ejerlejlighed,"Agerskovvej 4H, 4",2610, Rødovre,1500000 ,04-10-2022,Alm. Salg,70,21429,2,1968,-3%
 175,Ejerlejlighed,"Tårnvej 95A, 3. 92",2610, Rødovre,2100000 ,04-10-2022,Alm. Salg,67,31343,2,1975,-8%
@@ -95,7 +92,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 175,Villa,Vamdrupvej 55,2610, Rødovre,7900000 ,14-09-2022,Alm. Salg,205,38537,6,1926,-7%
 175,Villa,Slåvang Alle 16,2610, Rødovre,2260000 ,14-09-2022,Alm. Salg,139,16259,5,1949,-25%
 175,Villa,Jyllingevej 268,2610, Rødovre,2500000 ,14-09-2022,Alm. Salg,76,32895,3,1955,-16%
-175,Rækkehus,Minervavej 35,2610, Rødovre,4570000 ,13-09-2022,Alm. Salg,93,49140,4,1943,-1%
 175,Ejerlejlighed,"Hvidovrevej 50, st. 2",2610, Rødovre,1500000 ,13-09-2022,Alm. Salg,51,29412,3,1937,-6%
 175,Ejerlejlighed,"Rødovrevej 194, 2. mf",2610, Rødovre,1600000 ,13-09-2022,Alm. Salg,45,35556,1,1966,-6%
 175,Ejerlejlighed,"Slotsherrensvej 205, 1. 2",2610, Rødovre,3975000 ,13-09-2022,Alm. Salg,100,39750,4,2017,-5%
@@ -115,10 +111,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 175,Ejerlejlighed,"Rødovrevej 380, st. tv",2610, Rødovre,3250000 ,30-08-2022,Alm. Salg,90,36111,3,2017,-10%
 175,Ejerlejlighed,Tårnvej 438B,2610, Rødovre,3845000 ,30-08-2022,Alm. Salg,137,28066,4,1921,-4%
 175,Ejerlejlighed,"Tårnvej 93C, st. 78",2610, Rødovre,1275000 ,28-08-2022,Alm. Salg,38,33553,1,1975,-9%
-175,Rækkehus,Nyskiftevej 19,2610, Rødovre,3900000 ,25-08-2022,Alm. Salg,79,49367,3,1954,
 175,Villa,Slotsherrensvej 299,2610, Rødovre,2999000 ,25-08-2022,Alm. Salg,86,34872,2,1952,
 175,Villa,Medelbyvej 55,2610, Rødovre,4200000 ,24-08-2022,Alm. Salg,157,26752,5,1927,-11%
-175,Rækkehus,Krydderivej 33,2610, Rødovre,4500000 ,23-08-2022,Alm. Salg,92,48913,4,2017,
 175,Ejerlejlighed,"Rødovre Parkvej 333, 2",2610, Rødovre,750000 ,22-08-2022,Fam. Salg,50,15000,2,1974,
 175,Villa,Knud Anchers Vej 79,2610, Rødovre,5500000 ,22-08-2022,Alm. Salg,130,42308,6,1998,0%
 175,Ejerlejlighed,"Rødovre Parkvej 195, 2. tv",2610, Rødovre,3100000 ,21-08-2022,Alm. Salg,84,36905,4,1964,
@@ -213,7 +207,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 175,Ejerlejlighed,"Brandholms Alle 20C, 1. tv",2610, Rødovre,2000000 ,01-06-2022,Alm. Salg,61,32787,2,1957,-9%
 175,Ejerlejlighed,"Agerskovvej 4H, 2",2610, Rødovre,1765000 ,01-06-2022,Alm. Salg,70,25214,2,1968,-7%
 175,Ejerlejlighed,"Kaffevej 25, 2. tv",2610, Rødovre,4450000 ,01-06-2022,Alm. Salg,102,43627,3,2020,-1%
-175,Villa,Damhusdalen 22,2610, Rødovre,8895000 ,01-06-2022,Alm. Salg,176,50540,5,1930,-1%
 175,Villa,Hammelvej 12,2610, Rødovre,3825000 ,31-05-2022,Alm. Salg,107,35748,4,1961,-4%
 175,Ejerlejlighed,"Roskildevej 281, 2. th",2610, Rødovre,2610000 ,30-05-2022,Alm. Salg,60,43500,3,1934,0%
 175,Ejerlejlighed,"Plantagevej 84, 3. th",2610, Rødovre,4450000 ,26-05-2022,Alm. Salg,102,43627,4,2020,-1%
@@ -232,7 +225,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 175,Ejerlejlighed,"Rødovre Parkvej 257, 2. th",2610, Rødovre,2450000 ,16-05-2022,Alm. Salg,75,32667,3,1962,-1%
 175,Villa,Jyllingevej 189,2610, Rødovre,4495000 ,15-05-2022,Alm. Salg,190,23658,6,1976,
 175,Villa,Viemosevej 78B,2610, Rødovre,8050000 ,12-05-2022,Alm. Salg,186,43280,5,2017,4%
-175,Villa,Grønlunds Alle 47B,2610, Rødovre,6400000 ,11-05-2022,Alm. Salg,129,49612,5,1975,-5%
 175,Villa,Agerskovvej 26,2610, Rødovre,7350000 ,11-05-2022,Alm. Salg,179,41061,6,1933,-8%
 175,Villa,Brabrandvej 18,2610, Rødovre,4900000 ,11-05-2022,Alm. Salg,145,33793,7,1938,-7%
 175,Ejerlejlighed,"Rødovre Parkvej 213, 1",2610, Rødovre,1310000 ,09-05-2022,Alm. Salg,47,27872,1,1962,-5%
@@ -257,7 +249,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 175,Ejerlejlighed,"Rødovrevej 171, 1. tv",2610, Rødovre,2505000 ,23-04-2022,Alm. Salg,82,30549,3,1954,0%
 175,Rækkehus,Viemosevej 6B,2610, Rødovre,20000 ,21-04-2022,Fam. Salg,141,142,5,1969,
 175,Ejerlejlighed,"Valhøjs Alle 90, 1. 2",2610, Rødovre,1695000 ,21-04-2022,Alm. Salg,61,27787,2,1983,-3%
-175,Villa,Højnæsvej 35,2610, Rødovre,5850000 ,21-04-2022,Alm. Salg,119,49160,5,1961,-2%
 175,Ejerlejlighed,"Brandholms Alle 24H, 1. th",2610, Rødovre,1850000 ,20-04-2022,Alm. Salg,48,38542,2,1990,
 175,Rækkehus,Lørenskogvej 20,2610, Rødovre,4500000 ,19-04-2022,Alm. Salg,100,45000,5,1956,0%
 175,Rækkehus,Jølbyvej 53,2610, Rødovre,4700000 ,18-04-2022,Alm. Salg,127,37008,5,1954,-6%
@@ -270,12 +261,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 175,Rækkehus,Brandholms Alle 26E,2610, Rødovre,3495000 ,11-04-2022,Alm. Salg,100,34950,4,1975,3%
 175,Ejerlejlighed,"Brunevang 92, 2. 36",2610, Rødovre,1270000 ,10-04-2022,Alm. Salg,45,28222,1,1976,
 175,Villa,Lysbrovej 18,2610, Rødovre,4150000 ,10-04-2022,Alm. Salg,136,30515,4,1962,-3%
-175,Villa,Vedstedvej 17,2610, Rødovre,6350000 ,09-04-2022,Alm. Salg,124,51210,5,1929,-2%
 175,Ejerlejlighed,"Rødovre Parkvej 181, st. tv",2610, Rødovre,2650000 ,07-04-2022,Alm. Salg,76,34868,3,1964,-2%
 175,Ejerlejlighed,"Roskildevej 386, st. 13",2610, Rødovre,1070000 ,07-04-2022,Alm. Salg,38,28158,1,1969,-3%
 175,Villa,Vamdrupvej 58,2610, Rødovre,8600000 ,07-04-2022,Alm. Salg,185,46486,5,1936,-1%
 175,Villa,Brandholms Alle 79,2610, Rødovre,7000000 ,04-04-2022,Alm. Salg,150,46667,5,1954,3%
-175,Villa,Sylvestervej 27,2610, Rødovre,11000000 ,04-04-2022,Alm. Salg,218,50459,6,1933,
 175,Rækkehus,Plantagevej 4,2610, Rødovre,4700000 ,02-04-2022,Alm. Salg,112,41964,4,2017,0%
 175,Ejerlejlighed,"Voldumvej 61, 1. mf",2610, Rødovre,501500 ,31-03-2022,Fam. Salg,45,11144,1,1966,
 175,Ejerlejlighed,"Valhøjs Alle 102C, st. th",2610, Rødovre,2195000 ,31-03-2022,Alm. Salg,80,27438,3,1965,
@@ -344,7 +333,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 175,Rækkehus,Krydderivej 71,2610, Rødovre,4500000 ,06-02-2022,Alm. Salg,120,37500,4,2017,-2%
 175,Ejerlejlighed,"Rødovre Parkvej 305, st",2610, Rødovre,2650000 ,05-02-2022,Alm. Salg,74,35811,3,1974,-5%
 175,Rækkehus,Hvidsværmervej 43A,2610, Rødovre,3300000 ,04-02-2022,Alm. Salg,87,37931,3,1975,-6%
-175,Rækkehus,Minervavej 56,2610, Rødovre,4975000 ,03-02-2022,Alm. Salg,98,50765,4,1943,-2%
 175,Ejerlejlighed,"Agerskovvej 4B, 7",2610, Rødovre,2015000 ,03-02-2022,Alm. Salg,70,28786,2,1968,-4%
 175,Villa,Slåvang Alle 10,2610, Rødovre,4100000 ,03-02-2022,Alm. Salg,169,24260,6,1957,
 175,Villa,Knud Anchers Vej 50,2610, Rødovre,4150000 ,02-02-2022,Alm. Salg,103,40291,4,1956,-2%
@@ -372,7 +360,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 175,Ejerlejlighed,"Jyllingevej 137, st. th",2610, Rødovre,250000 ,19-01-2022,Andet,128,1953,4,1953,
 175,Ejerlejlighed,"Skanderupvej 16, 1. th",2610, Rødovre,2495000 ,19-01-2022,Alm. Salg,92,27120,3,1967,
 175,Villa,Moseholmene 15,2610, Rødovre,4350000 ,19-01-2022,Alm. Salg,175,24857,5,1960,-7%
-175,Rækkehus,Bjødstrupvej 15A,2610, Rødovre,3300000 ,18-01-2022,Alm. Salg,65,50769,3,1951,-3%
 175,Ejerlejlighed,"Roskildevej 281, st",2610, Rødovre,2125000 ,18-01-2022,Alm. Salg,66,32197,3,1934,-3%
 175,Rækkehus,Tårnvej 363,2610, Rødovre,2995000 ,17-01-2022,Alm. Salg,85,35235,4,1959,
 175,Ejerlejlighed,"Roskildevej 384, 1. 31",2610, Rødovre,1700000 ,17-01-2022,Alm. Salg,56,30357,2,1969,-3%
@@ -390,7 +377,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 175,Ejerlejlighed,"Rødovre Parkvej 183, 1. th",2610, Rødovre,2800000 ,06-01-2022,Alm. Salg,76,36842,3,1964,-3%
 175,Ejerlejlighed,"Rødager Alle 71, 2. 2",2610, Rødovre,1250000 ,06-01-2022,Alm. Salg,38,32895,1,1960,-10%
 175,Villa,Elstedvej 31,2610, Rødovre,2900000 ,05-01-2022,Fam. Salg,97,29897,4,1954,
-175,Villa,Kamstrupvej 126,2610, Rødovre,4600000 ,05-01-2022,Alm. Salg,90,51111,3,1954,-4%
 175,Villa,Damhus Boulevard 55,2610, Rødovre,930000 ,30-12-2021,Andet,155,6000,6,1951,
 175,Ejerlejlighed,"Brandholms Alle 28A, 2. th",2610, Rødovre,1320000 ,29-12-2021,Alm. Salg,48,27500,2,1961,-5%
 175,Ejerlejlighed,"Rødager Alle 73, 2. th",2610, Rødovre,1637500 ,28-12-2021,Alm. Salg,55,29773,2,1960,-4%
@@ -423,7 +409,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 175,Villa,Knud Anchers Vej 51,2610, Rødovre,5350000 ,09-12-2021,Alm. Salg,147,36395,5,1935,-3%
 175,Rækkehus,Resenbrovej 5A,2610, Rødovre,4340000 ,08-12-2021,Alm. Salg,100,43400,4,1936,-1%
 175,Ejerlejlighed,"Rødovre Parkvej 255, 2",2610, Rødovre,2310000 ,08-12-2021,Alm. Salg,67,34478,3,1962,1%
-175,Villa,Jølbyvej 26,2610, Rødovre,4995000 ,08-12-2021,Alm. Salg,98,50969,4,1956,
 175,Rækkehus,Brandholms Alle 62B,2610, Rødovre,3655000 ,07-12-2021,Alm. Salg,95,38474,4,1962,1%
 175,Ejerlejlighed,"Skanderupvej 2, 3. tv",2610, Rødovre,2595000 ,07-12-2021,Alm. Salg,91,28516,3,1967,
 175,Villa,Knud Anchers Vej 94,2610, Rødovre,6522500 ,07-12-2021,Alm. Salg,141,46259,6,1960,0%
@@ -448,7 +433,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 175,Rækkehus,Jølbyvej 17B,2610, Rødovre,3400000 ,24-11-2021,Alm. Salg,92,36957,5,1960,-6%
 175,Villa,Resenbrovej 37,2610, Rødovre,5150000 ,24-11-2021,Alm. Salg,130,39615,5,1935,-3%
 175,Villa,Knud Anchers Vej 20,2610, Rødovre,3715000 ,23-11-2021,Alm. Salg,145,25621,5,2023,3%
-175,Villa,Axelhøj 76,2610, Rødovre,7057000 ,23-11-2021,Alm. Salg,138,51138,7,1952,1%
 175,Ejerlejlighed,"Agerskovvej 4D, st",2610, Rødovre,1925000 ,22-11-2021,Alm. Salg,70,27500,2,1968,-4%
 175,Villa,Lucernevej 92,2610, Rødovre,892500 ,22-11-2021,Fam. Salg,91,9808,3,1956,
 175,Rækkehus,Hvidsværmervej 24B,2610, Rødovre,2705000 ,18-11-2021,Alm. Salg,80,33813,3,1958,
@@ -459,7 +443,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 175,Ejerlejlighed,"Plantagevej 74, 2. tv",2610, Rødovre,4750000 ,15-11-2021,Alm. Salg,119,39916,4,2020,-1%
 175,Ejerlejlighed,"Skanderupvej 10, st. th",2610, Rødovre,2809000 ,14-11-2021,Alm. Salg,91,30868,3,1967,0%
 175,Villa,Åmosevej 25,2610, Rødovre,2750000 ,13-11-2021,Fam. Salg,171,16082,6,1970,
-175,Villa,Randrupvej 38,2610, Rødovre,5450000 ,12-11-2021,Alm. Salg,111,49099,3,1936,-4%
 175,Ejerlejlighed,"Kaffevej 25, 2. th",2610, Rødovre,5500000 ,11-11-2021,Alm. Salg,128,42969,5,2020,2%
 175,Rækkehus,Brobølvej 23,2610, Rødovre,3825000 ,10-11-2021,Alm. Salg,94,40691,3,1943,-2%
 175,Ejerlejlighed,"Lerholm Vænge 14, 1. tv",2610, Rødovre,1420000 ,09-11-2021,Fam. Salg,41,34634,1,1918,
@@ -493,7 +476,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 175,Villa,Kærbyvej 131,2610, Rødovre,3925000 ,27-10-2021,Alm. Salg,145,27069,4,1950,-6%
 175,Rækkehus,Fortly 37,2610, Rødovre,4900000 ,26-10-2021,Alm. Salg,115,42609,5,1966,7%
 175,Villa,Knud Anchers Vej 53,2610, Rødovre,6055000 ,26-10-2021,Alm. Salg,145,41759,3,1938,1%
-175,Villa,Jølbyvej 23,2610, Rødovre,4600000 ,26-10-2021,Alm. Salg,94,48936,4,1955,-2%
 175,Rækkehus,Jølbyvej 15B,2610, Rødovre,4350000 ,25-10-2021,Alm. Salg,92,47283,4,1960,-3%
 175,Ejerlejlighed,"Agerskovvej 4K, 7",2610, Rødovre,2050000 ,25-10-2021,Alm. Salg,70,29286,2,1968,-2%
 175,Ejerlejlighed,"Mokkavej 17, st. 1",2610, Rødovre,3795000 ,25-10-2021,Alm. Salg,102,37206,3,2018,
@@ -525,7 +507,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 175,Ejerlejlighed,"Rødovre Parkvej 201, 2. th",2610, Rødovre,2200000 ,30-09-2021,Alm. Salg,78,28205,3,1962,5%
 175,Rækkehus,Brandholms Alle 72A,2610, Rødovre,3300000 ,28-09-2021,Alm. Salg,97,34021,4,1962,
 175,Rækkehus,Jølbyvej 36,2610, Rødovre,4900000 ,28-09-2021,Alm. Salg,127,38583,6,1954,-2%
-175,Rækkehus,Minervavej 70,2610, Rødovre,4745000 ,28-09-2021,Alm. Salg,93,51022,4,1943,1%
 175,Villa,Løgumvej 15,2610, Rødovre,6500000 ,28-09-2021,Alm. Salg,149,43624,4,1927,-4%
 175,Rækkehus,Oksbølvej 13,2610, Rødovre,3695000 ,27-09-2021,Alm. Salg,89,41517,4,1943,
 175,Villa,Frøslevvej 51,2610, Rødovre,4655000 ,27-09-2021,Alm. Salg,178,26152,3,1937,6%
@@ -582,28 +563,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 175,Rækkehus,Tårnvej 339,2610, Rødovre,2800000 ,22-08-2021,Alm. Salg,87,32184,3,1959,8%
 175,Ejerlejlighed,"Voldumvej 65, 1. mf",2610, Rødovre,1705000 ,21-08-2021,Alm. Salg,45,37889,1,1966,-1%
 175,Villa,"Ovrevej 9, st",2610, Rødovre,7800000 ,21-08-2021,Alm. Salg,172,45349,6,2021,
-175,Ejerlejlighed,"Vamdrupvej 1A, st. th",2610, Rødovre,926075 ,19-08-2021,Fam. Salg,46,20132,1,1939,
-175,Ejerlejlighed,"Vamdrupvej 1A, 1. tv",2610, Rødovre,926075 ,19-08-2021,Fam. Salg,74,12515,3,1939,
-175,Ejerlejlighed,"Vamdrupvej 1A, 1. th",2610, Rødovre,926075 ,19-08-2021,Fam. Salg,47,19704,2,1939,
-175,Ejerlejlighed,"Vamdrupvej 1B, st. th",2610, Rødovre,926075 ,19-08-2021,Fam. Salg,52,17809,2,1939,
-175,Ejerlejlighed,"Vamdrupvej 1A, 2. tv",2610, Rødovre,926075 ,19-08-2021,Fam. Salg,74,12515,3,1939,
-175,Ejerlejlighed,"Vamdrupvej 1A, 2. th",2610, Rødovre,926075 ,19-08-2021,Fam. Salg,47,19704,2,1939,
-175,Ejerlejlighed,"Vamdrupvej 1B, 1. th",2610, Rødovre,926075 ,19-08-2021,Fam. Salg,52,17809,2,1939,
-175,Ejerlejlighed,"Vamdrupvej 1C, st. th",2610, Rødovre,926075 ,19-08-2021,Fam. Salg,52,17809,2,1939,
-175,Ejerlejlighed,"Vamdrupvej 1C, 1. th",2610, Rødovre,926075 ,19-08-2021,Fam. Salg,52,17809,2,1939,
-175,Ejerlejlighed,"Vamdrupvej 1C, 2. th",2610, Rødovre,926075 ,19-08-2021,Fam. Salg,52,17809,2,1939,
-175,Ejerlejlighed,"Vamdrupvej 1C, st. tv",2610, Rødovre,926075 ,19-08-2021,Fam. Salg,52,17809,2,1939,
-175,Ejerlejlighed,"Vamdrupvej 1C, 1. tv",2610, Rødovre,926075 ,19-08-2021,Fam. Salg,52,17809,2,1939,
-175,Ejerlejlighed,"Vamdrupvej 1C, 2. tv",2610, Rødovre,926075 ,19-08-2021,Fam. Salg,52,17809,2,1939,
-175,Ejerlejlighed,"Vamdrupvej 1B, 1. tv",2610, Rødovre,926075 ,19-08-2021,Fam. Salg,52,17809,2,1939,
-175,Ejerlejlighed,"Vamdrupvej 1B, st. tv",2610, Rødovre,926075 ,19-08-2021,Fam. Salg,52,17809,2,1939,
-175,Ejerlejlighed,"Vamdrupvej 1B, 2. th",2610, Rødovre,926075 ,19-08-2021,Fam. Salg,52,17809,2,1939,
-175,Ejerlejlighed,"Vamdrupvej 1B, 2. tv",2610, Rødovre,926075 ,19-08-2021,Fam. Salg,52,17809,2,1939,
 175,Ejerlejlighed,"Brandholms Alle 24F, st",2610, Rødovre,1200000 ,19-08-2021,Alm. Salg,50,24000,2,1990,
-175,Ejerlejlighed,"Roskildevej 301B, 1. th",2610, Rødovre,926075 ,19-08-2021,Fam. Salg,51,18158,2,1939,
-175,Ejerlejlighed,"Roskildevej 301B, 2. th",2610, Rødovre,926075 ,19-08-2021,Fam. Salg,51,18158,3,1939,
-175,Ejerlejlighed,"Roskildevej 301B, 1. tv",2610, Rødovre,926075 ,19-08-2021,Fam. Salg,51,18158,2,1939,
-175,Ejerlejlighed,"Roskildevej 301B, 2. tv",2610, Rødovre,926075 ,19-08-2021,Fam. Salg,51,18158,2,1939,
 175,Villa,Medelbyvej 64,2610, Rødovre,5500000 ,19-08-2021,Alm. Salg,138,39855,4,1935,0%
 175,Villa,Islevvangen 22,2610, Rødovre,4525000 ,19-08-2021,Alm. Salg,193,23446,6,1961,
 175,Villa,Koldbyvej 30,2610, Rødovre,4350000 ,19-08-2021,Alm. Salg,119,36555,4,1955,-2%
@@ -671,14 +631,12 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 175,Ejerlejlighed,"Brandholms Alle 24D, st. th",2610, Rødovre,2075000 ,29-06-2021,Alm. Salg,66,31439,3,1960,-5%
 175,Villa,Ejbyvej 201B,2610, Rødovre,3950000 ,29-06-2021,Alm. Salg,120,32917,4,1962,-1%
 175,Rækkehus,Brandstrupvej 9,2610, Rødovre,3200000 ,28-06-2021,Alm. Salg,97,32990,4,1965,
-175,Rækkehus,Jølbyvej 8A,2610, Rødovre,4495000 ,28-06-2021,Alm. Salg,92,48859,4,1960,
 175,Ejerlejlighed,"Rødovre Parkvej 273, st. th",2610, Rødovre,2295000 ,28-06-2021,Alm. Salg,77,29805,3,1962,
 175,Ejerlejlighed,"Voldumvej 61, 2. mf",2610, Rødovre,1665000 ,28-06-2021,Alm. Salg,45,37000,1,1966,-5%
 175,Villa,Damhus Boulevard 62,2610, Rødovre,5000000 ,28-06-2021,Alm. Salg,191,26178,5,1927,-6%
 175,Villa,Mose Alle 14,2610, Rødovre,4850000 ,27-06-2021,Alm. Salg,179,27095,7,1914,-3%
 175,Rækkehus,Brandstrupvej 25,2610, Rødovre,3190000 ,24-06-2021,Alm. Salg,97,32887,4,1965,-3%
 175,Ejerlejlighed,"Rødager Alle 61D, st",2610, Rødovre,1550000 ,23-06-2021,Alm. Salg,41,37805,1,1962,-3%
-175,Villa,Mose Alle 2,2610, Rødovre,4995000 ,23-06-2021,Alm. Salg,102,48971,4,1915,
 175,Villa,Damhus Boulevard 72,2610, Rødovre,2770833 ,22-06-2021,Alm. Salg,176,15743,6,1935,
 175,Rækkehus,Brobølvej 15,2610, Rødovre,3525000 ,21-06-2021,Alm. Salg,85,41471,2,1943,3%
 175,Villa,Frøslevvej 66,2610, Rødovre,3800000 ,21-06-2021,Alm. Salg,90,42222,3,1956,
@@ -706,9 +664,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 175,Ejerlejlighed,Elvergårdsvej 14A,2610, Rødovre,4440000 ,08-06-2021,Alm. Salg,109,40734,5,2021,
 175,Rækkehus,Lucernevej 110E,2610, Rødovre,3850000 ,07-06-2021,Alm. Salg,82,46951,4,1961,
 175,Rækkehus,Nørregårdsvej 207,2610, Rødovre,5145000 ,07-06-2021,Alm. Salg,131,39275,6,1955,3%
-175,Rækkehus,Voldumvej 30A,2610, Rødovre,5200000 ,07-06-2021,Alm. Salg,105,49524,3,1983,-2%
 175,Rækkehus,Nørregårdsvej 255,2610, Rødovre,4700000 ,07-06-2021,Alm. Salg,126,37302,5,1956,2%
-175,Villa,Løgumvej 7,2610, Rødovre,6900000 ,07-06-2021,Alm. Salg,134,51493,3,1936,
 175,Villa,Rudebækvej 28,2610, Rødovre,4900000 ,07-06-2021,Alm. Salg,138,35507,5,1937,-2%
 175,Ejerlejlighed,"Agerskovvej 4E, 3",2610, Rødovre,2100000 ,06-06-2021,Alm. Salg,70,30000,2,1968,5%
 175,Rækkehus,Rævebakkevej 33A,2610, Rødovre,3495000 ,05-06-2021,Alm. Salg,82,42622,3,1976,
@@ -737,7 +693,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 175,Ejerlejlighed,"Kaffevej 51, 3. th",2610, Rødovre,4225000 ,24-05-2021,Alm. Salg,99,42677,4,2017,
 175,Villa,Årslevvej 5,2610, Rødovre,3913000 ,24-05-2021,Alm. Salg,141,27752,5,1936,-2%
 175,Rækkehus,Vamdrupvej 32B,2610, Rødovre,4495000 ,23-05-2021,Alm. Salg,104,43221,4,1986,
-175,Villa,Knud Anchers Vej 37,2610, Rødovre,4698000 ,23-05-2021,Alm. Salg,92,51065,5,1935,
 175,Rækkehus,Jølbyvej 18,2610, Rødovre,4000000 ,20-05-2021,Alm. Salg,103,38835,4,1960,
 175,Rækkehus,Mollerupvej 23,2610, Rødovre,4650000 ,20-05-2021,Alm. Salg,129,36047,5,1956,
 175,Rækkehus,Mollerupvej 37,2610, Rødovre,4200000 ,20-05-2021,Alm. Salg,129,32558,5,1955,
@@ -819,7 +774,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 175,Rækkehus,Nørregårdsvej 234,2610, Rødovre,3750000 ,11-04-2021,Alm. Salg,105,35714,5,1964,-1%
 175,Ejerlejlighed,"Plantagevej 47, 4. tv",2610, Rødovre,4525000 ,09-04-2021,Alm. Salg,132,34280,5,0,
 175,Ejerlejlighed,"Plantagevej 45, 3. th",2610, Rødovre,6195000 ,09-04-2021,Alm. Salg,140,44250,4,0,
-175,Ejerlejlighed,"Plantagevej 47, 4. th",2610, Rødovre,4750000 ,09-04-2021,Alm. Salg,95,50000,3,0,
 175,Villa,Rødovrevej 350,2610, Rødovre,4100000 ,09-04-2021,Alm. Salg,120,34167,5,1945,
 175,Ejerlejlighed,"Brandholms Alle 24C, 1. tv",2610, Rødovre,1765000 ,07-04-2021,Alm. Salg,63,28016,2,1960,
 175,Ejerlejlighed,"Rødovrevej 303, st. th",2610, Rødovre,2795000 ,07-04-2021,Alm. Salg,83,33675,3,1967,
@@ -925,7 +879,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 175,Rækkehus,Åbovænge 20,2610, Rødovre,4600000 ,22-02-2021,Alm. Salg,110,41818,4,1970,-3%
 175,Ejerlejlighed,"Tårnvej 51, 2. th",2610, Rødovre,1850000 ,22-02-2021,Alm. Salg,60,30833,2,1969,
 175,Ejerlejlighed,"Rødovre Parkvej 249, st",2610, Rødovre,1820000 ,22-02-2021,Alm. Salg,61,29836,2,1962,
-175,Villa,Risums Alle 1,2610, Rødovre,4550000 ,22-02-2021,Alm. Salg,90,50556,2,1936,1%
 175,Villa,Højnæsvej 29,2610, Rødovre,6625000 ,22-02-2021,Alm. Salg,165,40152,5,2011,-1%
 175,Ejerlejlighed,"Plantagevej 51, 3. mf",2610, Rødovre,3150000 ,21-02-2021,Alm. Salg,81,38889,2,0,
 175,Villa,Bjerringbrovej 55,2610, Rødovre,5295000 ,20-02-2021,Alm. Salg,166,31898,6,1953,
@@ -998,7 +951,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 175,Villa,Auroravej 74,2610, Rødovre,6500000 ,21-01-2021,Fam. Salg,157,41401,6,1935,
 175,Villa,Islevgård Alle 4B,2610, Rødovre,3445000 ,21-01-2021,Alm. Salg,80,43063,2,1943,1%
 175,Ejerlejlighed,"Rødovrevej 265, 1",2610, Rødovre,1725000 ,20-01-2021,Alm. Salg,68,25368,3,1954,-4%
-175,Villa,Åmosevej 42,2610, Rødovre,3498000 ,20-01-2021,Alm. Salg,70,49971,3,1951,
 175,Ejerlejlighed,"Tårnvej 59, 1. th",2610, Rødovre,1855000 ,19-01-2021,Alm. Salg,60,30917,2,1969,-2%
 175,Ejerlejlighed,"Kaffevej 29, 2. tv",2610, Rødovre,3650000 ,19-01-2021,Alm. Salg,108,33796,4,2020,-3%
 175,Villa,Nørupvej 9,2610, Rødovre,3900000 ,18-01-2021,Alm. Salg,111,35135,4,1936,
@@ -1109,7 +1061,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 175,Ejerlejlighed,"Plantagevej 74, 5. tv",2610, Rødovre,4395000 ,22-11-2020,Alm. Salg,119,36933,3,2020,
 175,Villa,Skærbækvej 2,2610, Rødovre,4050000 ,22-11-2020,Alm. Salg,166,24398,6,1931,
 175,Rækkehus,Nyskiftevej 4,2610, Rødovre,3250000 ,21-11-2020,Alm. Salg,113,28761,5,1962,-4%
-175,Villa,Damhus Boulevard 56,2610, Rødovre,5645000 ,21-11-2020,Alm. Salg,113,49956,3,1935,
 175,Villa,Korsdalsvej 17,2610, Rødovre,5550000 ,21-11-2020,Alm. Salg,150,37000,5,1953,-3%
 175,Rækkehus,Bjerringbrovej 3,2610, Rødovre,3495000 ,19-11-2020,Alm. Salg,106,32972,4,1951,
 175,Villa,Nørregårdsvej 51,2610, Rødovre,5555555 ,19-11-2020,Alm. Salg,138,40258,5,1954,1%
@@ -1157,7 +1108,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 175,Villa,Højrisvej 7,2610, Rødovre,4350000 ,04-11-2020,Alm. Salg,97,44845,4,1936,-1%
 175,Ejerlejlighed,"Rødovrevej 188, 2. th",2610, Rødovre,1850000 ,03-11-2020,Alm. Salg,60,30833,2,1957,-2%
 175,Ejerlejlighed,"Skanderupvej 4, 1. mf",2610, Rødovre,1795000 ,03-11-2020,Alm. Salg,63,28492,2,1967,
-175,Villa,Leopardvej 12,2610, Rødovre,7075000 ,03-11-2020,Alm. Salg,141,50177,5,1927,
 175,Rækkehus,Lysbrovej 2A,2610, Rødovre,3300000 ,02-11-2020,Alm. Salg,86,38372,4,1983,7%
 175,Villa,Damhusdalen 63,2610, Rødovre,4531000 ,02-11-2020,Alm. Salg,138,32833,4,1926,5%
 175,Villa,Lysbrovej 9,2610, Rødovre,4298000 ,02-11-2020,Alm. Salg,103,41728,5,2010,
@@ -1291,9 +1241,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 175,Rækkehus,Åbovænge 34,2610, Rødovre,2925000 ,07-09-2020,Alm. Salg,109,26835,4,1970,-2%
 175,Rækkehus,Plantagevej 17,2610, Rødovre,4495000 ,07-09-2020,Alm. Salg,140,32107,6,2021,
 175,Villa,Engbovej 57,2610, Rødovre,3300000 ,07-09-2020,Alm. Salg,185,17838,6,2021,-6%
-175,Rækkehus,Plantagevej 27,2610, Rødovre,5250000 ,06-09-2020,Alm. Salg,151,34768,5,2021,
 175,Villa,Fundervej 18,2610, Rødovre,4180000 ,06-09-2020,Alm. Salg,140,29857,4,1960,-2%
-175,Villa,Agerskovvej 56,2610, Rødovre,5250000 ,06-09-2020,Alm. Salg,136,38603,5,1929,-1%
 175,Ejerlejlighed,"Agerskovvej 4M, 4",2610, Rødovre,1550000 ,03-09-2020,Alm. Salg,70,22143,2,1968,-9%
 175,Villa,Knud Anchers Vej 50,2610, Rødovre,3998000 ,02-09-2020,Alm. Salg,103,38816,4,1956,
 175,Villa,Stovbyvej 11,2610, Rødovre,1000000 ,02-09-2020,Fam. Salg,181,5525,5,2019,
@@ -1301,9 +1249,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 175,Ejerlejlighed,"Skanderupvej 4, st. tv",2610, Rødovre,2250000 ,01-09-2020,Alm. Salg,80,28125,2,1967,-4%
 175,Ejerlejlighed,"Damparken 32, st. tv",2610, Rødovre,2345000 ,31-08-2020,Alm. Salg,61,38443,2,1939,
 175,Rækkehus,Nørregårdsvej 168,2610, Rødovre,3785000 ,30-08-2020,Alm. Salg,131,28893,4,1957,-3%
-175,Rækkehus,Plantagevej 3,2610, Rødovre,3995000 ,30-08-2020,Alm. Salg,115,34739,4,2021,
 175,Ejerlejlighed,"Tinderhøj Vænge 31, 1. th",2610, Rødovre,1325000 ,30-08-2020,Alm. Salg,41,32317,2,1918,-5%
-175,Ejerlejlighed,"Plantagevej 78, 4. tv",2610, Rødovre,3995000 ,30-08-2020,Alm. Salg,116,34440,4,2020,
 175,Rækkehus,Tårnvej 349,2610, Rødovre,2665000 ,29-08-2020,Alm. Salg,87,30632,4,1959,-1%
 175,Villa,Røngård Alle 6,2610, Rødovre,5995000 ,29-08-2020,Alm. Salg,188,31888,6,1960,
 175,Ejerlejlighed,"Tårnvej 93A, 1. 65",2610, Rødovre,2275000 ,27-08-2020,Alm. Salg,87,26149,3,1975,
@@ -1462,7 +1408,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 175,Ejerlejlighed,"Rødovrevej 315A, 3. 3",2610, Rødovre,3349000 ,10-06-2020,Alm. Salg,105,31895,3,1967,
 175,Villa,Ved Voldgraven 44A,2610, Rødovre,2000000 ,09-06-2020,Alm. Salg,190,10526,6,1951,-9%
 175,Villa,Madumvej 58A,2610, Rødovre,2337500 ,09-06-2020,Fam. Salg,158,14794,6,1961,
-175,Villa,Annexgårdsvej 35,2610, Rødovre,5900000 ,09-06-2020,Alm. Salg,115,51304,3,1943,-2%
 175,Rækkehus,Hvidsværmervej 26B,2610, Rødovre,2499000 ,08-06-2020,Alm. Salg,80,31238,3,1958,
 175,Ejerlejlighed,"Rødovrevej 311, st. tv",2610, Rødovre,1000000 ,08-06-2020,Fam. Salg,83,12048,3,1967,
 175,Villa,Hviddingvej 23,2610, Rødovre,5600000 ,08-06-2020,Alm. Salg,182,30769,7,1931,2%
@@ -1641,7 +1586,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 175,Ejerlejlighed,"Hvidovrevej 6, 1. tv",2610, Rødovre,1850000 ,09-02-2020,Alm. Salg,60,30833,2,1933,-3%
 175,Villa,Kærbyvej 130,2610, Rødovre,2000000 ,09-02-2020,Fam. Salg,130,15385,5,1936,
 175,Ejerlejlighed,"Rødager Alle 61A, 2",2610, Rødovre,1760000 ,08-02-2020,Alm. Salg,59,29831,2,1962,-2%
-175,Rækkehus,Auroravej 8C,2610, Rødovre,6999000 ,07-02-2020,Alm. Salg,143,48944,5,2021,
 175,Rækkehus,Tårnvej 316C,2610, Rødovre,2800000 ,06-02-2020,Alm. Salg,102,27451,4,2009,
 175,Ejerlejlighed,"Agerskovvej 4N, 3",2610, Rødovre,1528000 ,06-02-2020,Alm. Salg,52,29385,1,1968,-1%
 175,Villa,Pilemosevej 18,2610, Rødovre,3750000 ,06-02-2020,Alm. Salg,148,25338,5,1965,-1%
@@ -1708,9 +1652,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 175,Villa,Damhus Boulevard 96,2610, Rødovre,5100000 ,29-12-2019,Alm. Salg,123,41463,5,1928,
 175,Ejerlejlighed,"Brunevang 92, 2. 41",2610, Rødovre,1050000 ,28-12-2019,Alm. Salg,45,23333,1,1976,-4%
 175,Villa,Slåvang Alle 8,2610, Rødovre,2700000 ,28-12-2019,Alm. Salg,127,21260,5,1950,-3%
-175,Rækkehus,Elvergårdsvej 10,2610, Rødovre,4000000 ,27-12-2019,Alm. Salg,141,28369,5,1942,
 175,Rækkehus,Krydderivej 97,2610, Rødovre,3965000 ,27-12-2019,Alm. Salg,114,34781,4,2018,-1%
-175,Villa,Nørregårdsvej 6,2610, Rødovre,4000000 ,27-12-2019,Alm. Salg,175,22857,8,1935,-24%
 175,Villa,Tæbyvej 2C,2610, Rødovre,5150000 ,26-12-2019,Alm. Salg,140,36786,6,1999,-1%
 175,Rækkehus,Nybølvej 7A,2610, Rødovre,3300000 ,19-12-2019,Alm. Salg,96,34375,4,1978,-6%
 175,Rækkehus,Tårnvej 316B,2610, Rødovre,3000000 ,19-12-2019,Alm. Salg,102,29412,4,2009,
@@ -1760,7 +1702,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 175,Rækkehus,Ejby Vænge 6,2610, Rødovre,1100000 ,19-11-2019,Alm. Salg,35,31429,1,1971,-8%
 175,Ejerlejlighed,"Rødovrevej 315, 1. th",2610, Rødovre,2050000 ,19-11-2019,Alm. Salg,86,23837,3,1967,3%
 175,Ejerlejlighed,"Rødovrevej 167, 2. tv",2610, Rødovre,2135000 ,18-11-2019,Alm. Salg,78,27372,3,1954,-3%
-175,Villa,Damhus Boulevard 37,2610, Rødovre,4650000 ,18-11-2019,Alm. Salg,95,48947,4,1937,
 175,Villa,Vinkelvænget 30,2610, Rødovre,2000000 ,18-11-2019,Fam. Salg,166,12048,5,2020,
 175,Villa,Grambyvej 49,2610, Rødovre,4050000 ,18-11-2019,Alm. Salg,201,20149,5,1929,-6%
 175,Ejerlejlighed,"Tårnvej 89B, 1. 31",2610, Rødovre,2675000 ,17-11-2019,Alm. Salg,83,32229,3,1975,-3%
@@ -1811,7 +1752,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 175,Ejerlejlighed,"Brandholms Alle 20B, 2. tv",2610, Rødovre,1375000 ,24-10-2019,Alm. Salg,46,29891,2,1957,-2%
 175,Rækkehus,Oksbølvej 7,2610, Rødovre,2850000 ,23-10-2019,Alm. Salg,88,32386,3,1943,-5%
 175,Ejerlejlighed,"Valhøjs Alle 100A, 2. tv",2610, Rødovre,2255000 ,23-10-2019,Alm. Salg,80,28188,3,1965,-2%
-175,Villa,Damhusdalen 35,2610, Rødovre,5995000 ,23-10-2019,Alm. Salg,120,49958,4,1939,
 175,Ejerlejlighed,"Rødovrevej 319, 2. mf",2610, Rødovre,1295000 ,22-10-2019,Alm. Salg,45,28778,1,1967,
 175,Ejerlejlighed,"Rødovre Parkvej 267, st",2610, Rødovre,1675000 ,22-10-2019,Alm. Salg,61,27459,2,1962,-1%
 175,Villa,Kamstrupvej 96,2610, Rødovre,5350000 ,22-10-2019,Alm. Salg,153,34967,4,1971,-3%
@@ -1879,7 +1819,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 175,Rækkehus,Nyskiftevej 19,2610, Rødovre,2550000 ,23-09-2019,Alm. Salg,79,32278,3,1954,-7%
 175,Ejerlejlighed,"Damhustorvet 11, 1. th",2610, Rødovre,2080000 ,23-09-2019,Alm. Salg,67,31045,3,1934,0%
 175,Villa,Rødovrevej 13,2610, Rødovre,4930000 ,23-09-2019,Alm. Salg,139,35468,5,1931,
-175,Villa,Bredstensvej 15,2610, Rødovre,4915000 ,23-09-2019,Alm. Salg,97,50670,3,1940,-2%
 175,Ejerlejlighed,"Brandholms Alle 20C, 1. tv",2610, Rødovre,885500 ,22-09-2019,Fam. Salg,61,14516,2,1957,
 175,Rækkehus,Ejbyvej 168A,2610, Rødovre,3000000 ,21-09-2019,Alm. Salg,112,26786,4,1955,-9%
 175,Rækkehus,Annexgårdsvej 27C,2610, Rødovre,4125000 ,19-09-2019,Alm. Salg,91,45330,4,1982,-2%
@@ -2341,7 +2280,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 175,Rækkehus,Nørregårdsvej 216,2610, Rødovre,3245000 ,11-12-2018,Alm. Salg,98,33112,4,1964,
 175,Ejerlejlighed,"Rødovrevej 265, 1",2610, Rødovre,1325000 ,11-12-2018,Alm. Salg,68,19485,3,1954,-26%
 175,Ejerlejlighed,"Rødovre Parkvej 199, 2. th",2610, Rødovre,1875000 ,10-12-2018,Alm. Salg,74,25338,3,1964,-6%
-175,Ejerlejlighed,Fortvej 41B,2610, Rødovre,5900000 ,10-12-2018,Alm. Salg,117,50427,4,1903,
 175,Villa,Skærbækvej 9,2610, Rødovre,3950000 ,10-12-2018,Alm. Salg,166,23795,7,2022,-6%
 175,Ejerlejlighed,Tårnvej 97,2610, Rødovre,11700000 ,09-12-2018,Alm. Salg,411,28467,15,1937,
 175,Rækkehus,Rønneholmsvej 1B,2610, Rødovre,3450000 ,09-12-2018,Alm. Salg,91,37912,4,1976,-1%
@@ -2506,7 +2444,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 175,Rækkehus,Tårnvej 355,2610, Rødovre,2350000 ,22-08-2018,Alm. Salg,100,23500,4,1959,-11%
 175,Ejerlejlighed,"Skanderupvej 4, 2. th",2610, Rødovre,2425000 ,22-08-2018,Alm. Salg,92,26359,4,1967,-7%
 175,Villa,Madumvej 39,2610, Rødovre,2795000 ,22-08-2018,Alm. Salg,104,26875,3,1957,
-175,Ejerlejlighed,"Auroravej 10E, 3",2610, Rødovre,6199000 ,19-08-2018,Alm. Salg,121,51231,4,2021,
 175,Villa,Veronikavej 4,2610, Rødovre,4100000 ,19-08-2018,Alm. Salg,130,31538,3,1937,-5%
 175,Ejerlejlighed,"Rødovre Parkvej 265, st",2610, Rødovre,1125000 ,14-08-2018,Alm. Salg,47,23936,1,1962,-6%
 175,Villa,Stellavej 5,2610, Rødovre,4000000 ,14-08-2018,Alm. Salg,180,22222,6,2019,-8%
@@ -2527,9 +2464,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 175,Villa,Rudebækvej 16,2610, Rødovre,3200000 ,07-08-2018,Alm. Salg,87,36782,4,1957,-8%
 175,Ejerlejlighed,"Valhøjs Alle 102C, 2. th",2610, Rødovre,2565000 ,06-08-2018,Alm. Salg,80,32063,3,1965,
 175,Villa,Lucernevej 142,2610, Rødovre,3550000 ,06-08-2018,Alm. Salg,115,30870,5,1964,-1%
-175,Rækkehus,Irmavej 5,2610, Rødovre,2700000 ,04-08-2018,Alm. Salg,71,38028,2,2017,
 175,Ejerlejlighed,"Brandholms Alle 24E, 2. tv",2610, Rødovre,1650000 ,04-08-2018,Alm. Salg,46,35870,2,1960,
-175,Villa,Krarupvej 21,2610, Rødovre,2700000 ,04-08-2018,Alm. Salg,159,16981,5,1956,-10%
 175,Rækkehus,Schweizerdalstien 31,2610, Rødovre,3995000 ,03-08-2018,Alm. Salg,143,27937,4,1961,
 175,Ejerlejlighed,"Damhus Boulevard 1, st. th",2610, Rødovre,1475000 ,02-08-2018,Alm. Salg,50,29500,2,1934,-5%
 175,Rækkehus,Bluevang Alle 4A,2610, Rødovre,2250000 ,01-08-2018,Fam. Salg,85,26471,3,1974,
@@ -2805,7 +2740,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 175,Rækkehus,Pilemosevej 16B,2610, Rødovre,2930000 ,05-03-2018,Alm. Salg,96,30521,4,1978,-2%
 175,Ejerlejlighed,"Rødovre Parkvej 241, st",2610, Rødovre,2100000 ,05-03-2018,Alm. Salg,67,31343,3,1962,-2%
 175,Rækkehus,Nørregårdsvej 130,2610, Rødovre,3425000 ,04-03-2018,Alm. Salg,126,27183,4,1955,
-175,Villa,Leopardvej 45,2610, Rødovre,3975000 ,04-03-2018,Alm. Salg,80,49688,3,1958,-5%
 175,Villa,Rødager Alle 126,2610, Rødovre,3800000 ,04-03-2018,Alm. Salg,155,24516,5,1960,-5%
 175,Ejerlejlighed,"Agerskovvej 4J, 6",2610, Rødovre,1300000 ,02-03-2018,Alm. Salg,70,18571,2,1968,
 175,Ejerlejlighed,"Engdiget 24, st. tv",2610, Rødovre,625000 ,01-03-2018,Fam. Salg,66,9470,2,1954,
@@ -2867,7 +2801,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 175,Ejerlejlighed,"Rødager Alle 73, 2. mf",2610, Rødovre,1000000 ,24-01-2018,Alm. Salg,40,25000,1,1960,0%
 175,Rækkehus,Krydderivej 41,2610, Rødovre,3045000 ,21-01-2018,Alm. Salg,89,34213,4,2017,
 175,Villa,Tæbyvej 10,2610, Rødovre,4357000 ,21-01-2018,Alm. Salg,140,31121,5,1952,-3%
-175,Villa,Auroravej 46,2610, Rødovre,7350000 ,19-01-2018,Alm. Salg,148,49662,5,1936,
 175,Rækkehus,Islevbrovej 10B,2610, Rødovre,2130000 ,18-01-2018,Alm. Salg,102,20882,4,1980,-5%
 175,Ejerlejlighed,"Damhustorvet 11, 2. th",2610, Rødovre,2150000 ,18-01-2018,Alm. Salg,68,31618,3,1934,-2%
 175,Villa,Nørregårdsvej 86,2610, Rødovre,4900000 ,18-01-2018,Alm. Salg,136,36029,4,1942,-2%
@@ -2958,8 +2891,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 175,Ejerlejlighed,"Tårnvej 95A, 2. 90",2610, Rødovre,975000 ,21-11-2017,Alm. Salg,42,23214,1,1975,-7%
 175,Villa,Stovbyvej 12,2610, Rødovre,3205000 ,20-11-2017,Alm. Salg,80,40063,4,1939,-3%
 175,Rækkehus,Nyskiftevej 2,2610, Rødovre,2800000 ,19-11-2017,Alm. Salg,113,24779,5,1962,-6%
-175,Ejerlejlighed,"Tårnvej 55, 1. th",2610, Rødovre,1500000 ,19-11-2017,Alm. Salg,60,25000,2,1969,-6%
-175,Ejerlejlighed,"Hvidovrevej 6, st. th",2610, Rødovre,1500000 ,19-11-2017,Alm. Salg,57,26316,3,1933,
 175,Villa,Nørupvej 23,2610, Rødovre,3525000 ,19-11-2017,Alm. Salg,82,42988,4,1937,-2%
 175,Villa,Christiansdal 40,2610, Rødovre,5445000 ,18-11-2017,Alm. Salg,142,38345,5,1951,-1%
 175,Ejerlejlighed,"Rødovre Parkvej 313, st",2610, Rødovre,1405000 ,16-11-2017,Alm. Salg,50,28100,2,1974,-1%
@@ -3257,8 +3188,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 175,Ejerlejlighed,"Rødovre Parkvej 275, 1",2610, Rødovre,1695000 ,06-08-2017,Alm. Salg,78,21731,2,1962,
 175,Villa,Medelbyvej 61,2610, Rødovre,2500000 ,06-08-2017,Fam. Salg,110,22727,3,1934,
 175,Villa,Pildamsvej 25,2610, Rødovre,2287500 ,06-08-2017,Fam. Salg,83,27560,3,1935,
-175,Ejerlejlighed,"Brandholms Alle 24E, 2. th",2610, Rødovre,1795000 ,03-08-2017,Alm. Salg,67,26791,3,1960,
-175,Ejerlejlighed,"Damparken 36, 2. th",2610, Rødovre,1795000 ,03-08-2017,Alm. Salg,59,30424,2,1939,
 175,Villa,Schweizerdalsvej 43A,2610, Rødovre,3650000 ,03-08-2017,Alm. Salg,106,34434,4,1954,-4%
 175,Ejerlejlighed,"Agerskovvej 4J, 4",2610, Rødovre,1495000 ,02-08-2017,Alm. Salg,70,21357,2,1968,
 175,Villa,Røngård Alle 23,2610, Rødovre,3795000 ,02-08-2017,Alm. Salg,156,24327,7,1966,
@@ -3617,8 +3546,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 175,Ejerlejlighed,"Auroravej 8E, 1",2610, Rødovre,4499000 ,29-01-2017,Alm. Salg,118,38127,4,2021,
 175,Villa,Schweizerdalsvej 47,2610, Rødovre,380000 ,29-01-2017,Alm. Salg,132,2879,3,1936,
 175,Villa,Espely 44,2610, Rødovre,3100000 ,29-01-2017,Alm. Salg,93,33333,4,1956,
-175,Rækkehus,Viemosevej 6A,2610, Rødovre,2950000 ,28-01-2017,Alm. Salg,125,23600,5,1969,-2%
-175,Villa,Viemosevej 76B,2610, Rødovre,2950000 ,28-01-2017,Alm. Salg,108,27315,4,1962,-2%
 175,Rækkehus,Kamstrupvej 38B,2610, Rødovre,4501000 ,26-01-2017,Alm. Salg,171,26322,6,1989,-3%
 175,Ejerlejlighed,"Auroravej 8B, 1",2610, Rødovre,4899000 ,26-01-2017,Alm. Salg,118,41517,4,2021,
 175,Villa,Viemosevej 23,2610, Rødovre,2100000 ,26-01-2017,Alm. Salg,145,14483,5,2019,-12%
@@ -3967,11 +3894,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 175,Villa,Rødager Alle 12,2610, Rødovre,2900000 ,21-06-2016,Alm. Salg,206,14078,6,1939,-3%
 175,Villa,Hviddingvej 12,2610, Rødovre,2725000 ,21-06-2016,Alm. Salg,130,20962,4,2020,-4%
 175,Villa,Frøslevvej 10,2610, Rødovre,2450000 ,21-06-2016,Alm. Salg,196,12500,4,2017,-9%
-175,Ejerlejlighed,"Tårnvej 87B, 2. 15",2610, Rødovre,1700000 ,19-06-2016,Alm. Salg,64,26563,2,1975,0%
-175,Ejerlejlighed,"Rødovre Parkvej 201, 1. th",2610, Rødovre,1700000 ,19-06-2016,Fam. Salg,78,21795,3,1962,
 175,Ejerlejlighed,"Skanderupvej 10, 2. mf",2610, Rødovre,1445000 ,16-06-2016,Alm. Salg,63,22937,2,1967,
-175,Ejerlejlighed,Tårnvej 438B,2610, Rødovre,2500000 ,16-06-2016,Alm. Salg,137,18248,4,1921,
-175,Villa,Nørregårdsvej 80,2610, Rødovre,2500000 ,16-06-2016,Alm. Salg,187,13369,6,1938,-4%
 175,Villa,Knud Anchers Vej 30,2610, Rødovre,3275000 ,14-06-2016,Alm. Salg,144,22743,3,1935,-6%
 175,Villa,Kamstrupvej 58B,2610, Rødovre,3100000 ,14-06-2016,Alm. Salg,114,27193,5,1965,-6%
 175,Villa,Koldbyvej 23,2610, Rødovre,2300000 ,14-06-2016,Alm. Salg,122,18852,4,1961,
@@ -4247,8 +4170,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 175,Villa,Vedelavej 13,2610, Rødovre,1750000 ,29-12-2015,Alm. Salg,165,10606,6,1934,
 175,Ejerlejlighed,"Tårnvej 89B, 1. 31",2610, Rødovre,1980000 ,28-12-2015,Alm. Salg,83,23855,3,1975,-1%
 175,Ejerlejlighed,"Brandholms Alle 4C, 2",2610, Rødovre,615000 ,28-12-2015,Alm. Salg,48,12813,1,1960,
-175,Ejerlejlighed,"Valhøjs Alle 88, st. 3",2610, Rødovre,1300000 ,28-12-2015,Alm. Salg,60,21667,2,1983,-7%
-175,Ejerlejlighed,"Rødovre Parkvej 269, 1",2610, Rødovre,1300000 ,28-12-2015,Alm. Salg,67,19403,2,1962,-7%
 175,Ejerlejlighed,"Tårnvej 51, 1. mf",2610, Rødovre,492000 ,27-12-2015,Andet,37,13297,1,1969,
 175,Villa,Damhus Boulevard 96,2610, Rødovre,950000 ,27-12-2015,Andet,123,7724,5,1928,
 175,Villa,Kirkesvinget 16,2610, Rødovre,3850000 ,27-12-2015,Alm. Salg,158,24367,6,1933,-14%
@@ -4301,7 +4222,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 175,Rækkehus,Brandholms Alle 26C,2610, Rødovre,2375000 ,14-11-2015,Alm. Salg,100,23750,4,1975,-5%
 175,Ejerlejlighed,"Brandholms Alle 4C, st",2610, Rødovre,765000 ,14-11-2015,Alm. Salg,42,18214,2,1960,-4%
 175,Villa,Vamdrupvej 35,2610, Rødovre,2900000 ,14-11-2015,Alm. Salg,91,31868,3,1935,-9%
-175,Rækkehus,Lerholm Vænge 21,2610, Rødovre,2000000 ,11-11-2015,Fam. Salg,83,24096,4,1959,
 175,Ejerlejlighed,"Rødovre Parkvej 183, 1. mf",2610, Rødovre,599000 ,11-11-2015,Alm. Salg,32,18719,1,1964,
 175,Rækkehus,Plantagevej 4,2610, Rødovre,3338793 ,10-11-2015,Alm. Salg,112,29811,4,2017,
 175,Ejerlejlighed,"Rødager Alle 61B, 1",2610, Rødovre,640000 ,10-11-2015,Alm. Salg,45,14222,1,1962,
@@ -4443,8 +4363,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 175,Villa,Kærdals Alle 11,2610, Rødovre,4995000 ,16-08-2015,Alm. Salg,153,32647,4,1933,
 175,Ejerlejlighed,"Rødovrevej 314B, st",2610, Rødovre,1475000 ,13-08-2015,Alm. Salg,84,17560,3,1938,-2%
 175,Villa,Åmosevej 12,2610, Rødovre,2460000 ,13-08-2015,Alm. Salg,180,13667,7,2018,-1%
-175,Ejerlejlighed,"Roskildevej 382, 2. 47",2610, Rødovre,960000 ,12-08-2015,Alm. Salg,58,16552,2,1969,1%
-175,Ejerlejlighed,"Brandholms Alle 4E, 1",2610, Rødovre,960000 ,12-08-2015,Alm. Salg,56,17143,1,1960,-4%
 175,Rækkehus,Åmosevej 26A,2610, Rødovre,2450000 ,11-08-2015,Alm. Salg,103,23786,4,1988,-2%
 175,Rækkehus,Nyskiftevej 28,2610, Rødovre,2100000 ,11-08-2015,Alm. Salg,110,19091,4,1954,-2%
 175,Rækkehus,Minervavej 44,2610, Rødovre,3175000 ,11-08-2015,Alm. Salg,93,34140,4,1943,
@@ -4871,7 +4789,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 175,Villa,Jyllingevej 200,2610, Rødovre,2300000 ,25-11-2014,Alm. Salg,91,25275,3,1956,
 175,Ejerlejlighed,"Rødovrevej 192, 1. tv",2610, Rødovre,1299000 ,24-11-2014,Alm. Salg,73,17795,2,1966,
 175,Ejerlejlighed,"Brunevang 80B, 1",2610, Rødovre,1700000 ,24-11-2014,Alm. Salg,84,20238,4,2009,-5%
-175,Villa,Rødovrevej 34A,2610, Rødovre,4500000 ,23-11-2014,Alm. Salg,91,49451,3,1942,125%
 175,Rækkehus,Rødovrevej 377B,2610, Rødovre,2050000 ,22-11-2014,Alm. Salg,96,21354,4,1978,-9%
 175,Villa,Ejbyvej 123,2610, Rødovre,2400000 ,22-11-2014,Alm. Salg,108,22222,3,1949,-4%
 175,Rækkehus,Brandstrupvej 19,2610, Rødovre,2150000 ,20-11-2014,Alm. Salg,97,22165,4,1965,-2%
@@ -5730,8 +5647,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 175,Ejerlejlighed,"Agerskovvej 4J, 5",2610, Rødovre,1020000 ,25-09-2012,Alm. Salg,70,14571,2,1968,-7%
 175,Villa,Knud Anchers Vej 23,2610, Rødovre,1600000 ,25-09-2012,Alm. Salg,239,6695,11,2013,-20%
 175,Villa,Damhusdalen 64,2610, Rødovre,2945000 ,25-09-2012,Alm. Salg,110,26773,5,1933,-2%
-175,Ejerlejlighed,"Agerskovvej 4D, 4",2610, Rødovre,1225000 ,19-09-2012,Alm. Salg,70,17500,2,1968,-5%
-175,Villa,Stovbyvej 17,2610, Rødovre,1225000 ,19-09-2012,Alm. Salg,108,11343,3,1939,
 175,Ejerlejlighed,"Tårnvej 89A, 1. 22",2610, Rødovre,1300000 ,18-09-2012,Alm. Salg,84,15476,3,1975,-7%
 175,Villa,Elstedvej 19,2610, Rødovre,3495000 ,18-09-2012,Alm. Salg,124,25699,4,1950,
 175,Rækkehus,Jølbyvej 11A,2610, Rødovre,2175000 ,17-09-2012,Alm. Salg,92,23641,4,1960,-7%
@@ -7463,11 +7378,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 175,Ejerlejlighed,"Randrupvej 3, 2. th",2610, Rødovre,1250000 ,04-08-2007,Alm. Salg,53,23585,2,1939,
 175,Villa,Amorinvej 27,2610, Rødovre,4100000 ,03-08-2007,Alm. Salg,156,26282,5,1937,-9%
 175,Rækkehus,Brandholms Alle 92,2610, Rødovre,2400000 ,31-07-2007,Alm. Salg,98,24490,4,1957,-8%
-175,Rækkehus,Jølbyvej 9A,2610, Rødovre,2650000 ,31-07-2007,Alm. Salg,92,28804,4,1960,-5%
 175,Ejerlejlighed,"Agerskovvej 4D, 6",2610, Rødovre,1295000 ,31-07-2007,Alm. Salg,70,18500,2,1968,-13%
 175,Ejerlejlighed,"Rødovre Parkvej 187, 1. mf",2610, Rødovre,800000 ,31-07-2007,Alm. Salg,32,25000,1,1964,
 175,Ejerlejlighed,"Tårnvej 153, st. tv",2610, Rødovre,1550000 ,31-07-2007,Alm. Salg,79,19620,3,1964,
-175,Villa,Præstebakken 29,2610, Rødovre,2650000 ,31-07-2007,Alm. Salg,109,24312,4,1951,-12%
 175,Villa,Engbovej 86,2610, Rødovre,2200000 ,31-07-2007,Alm. Salg,155,14194,6,1946,-8%
 175,Ejerlejlighed,"Rødovre Parkvej 335, st",2610, Rødovre,1885000 ,29-07-2007,Alm. Salg,90,20944,3,1974,-3%
 175,Ejerlejlighed,"Hvidovrevej 6, 1. tv",2610, Rødovre,719353 ,29-07-2007,Fam. Salg,60,11989,2,1933,
@@ -7856,7 +7769,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 175,Villa,Skærbækvej 10,2610, Rødovre,3500000 ,09-08-2006,Alm. Salg,125,28000,6,1929,
 175,Rækkehus,Hendriksholms Boulevard 17,2610, Rødovre,3198000 ,08-08-2006,Alm. Salg,115,27809,5,1950,
 175,Ejerlejlighed,"Rødovrevej 194, 2. mf",2610, Rødovre,1145000 ,08-08-2006,Alm. Salg,45,25444,1,1966,
-175,Villa,Elstedvej 12,2610, Rødovre,3745000 ,08-08-2006,Alm. Salg,76,49276,3,1938,
 175,Villa,Nørupvej 6,2610, Rødovre,3050000 ,08-08-2006,Alm. Salg,142,21479,5,1932,
 175,Rækkehus,Røngård Alle 9A,2610, Rødovre,2498000 ,07-08-2006,Alm. Salg,85,29388,4,1975,
 175,Ejerlejlighed,"Damparken 36, 1. tv",2610, Rødovre,1721662 ,07-08-2006,Alm. Salg,57,30205,2,1939,
@@ -8103,8 +8015,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 175,Ejerlejlighed,"Damhus Boulevard 69A, st. th",2610, Rødovre,2000000 ,15-02-2006,Alm. Salg,180,11111,4,1949,
 175,Villa,Kamstrupvej 14,2610, Rødovre,3245000 ,15-02-2006,Alm. Salg,157,20669,6,1937,
 175,Villa,Rødager Alle 37,2610, Rødovre,1450000 ,15-02-2006,Alm. Salg,74,19595,3,1936,
-175,Ejerlejlighed,"Rødovrevej 165, 2. th",2610, Rødovre,1695000 ,14-02-2006,Alm. Salg,78,21731,3,1954,
-175,Ejerlejlighed,"Voldumvej 55, 1. th",2610, Rødovre,1695000 ,14-02-2006,Alm. Salg,60,28250,2,1957,
 175,Villa,Frøslevvej 43,2610, Rødovre,4148000 ,14-02-2006,Alm. Salg,114,36386,3,1927,
 175,Rækkehus,Schweizerdalsvej 125,2610, Rødovre,2655000 ,13-02-2006,Alm. Salg,98,27092,4,1959,
 175,Villa,Jyllingevej 176,2610, Rødovre,1000000 ,13-02-2006,Andet,196,5102,5,2011,
@@ -8441,8 +8351,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 175,Rækkehus,Vamdrupvej 32B,2610, Rødovre,2754000 ,21-07-2005,Alm. Salg,104,26481,4,1986,
 175,Villa,Madumvej 25,2610, Rødovre,988367 ,21-07-2005,Alm. Salg,143,6912,6,1939,
 175,Ejerlejlighed,"Rødovrevej 323A, 3. 4",2610, Rødovre,2695594 ,20-07-2005,Alm. Salg,106,25430,3,1967,
-175,Ejerlejlighed,"Agerskovvej 4F, 1",2610, Rødovre,1260000 ,20-07-2005,Alm. Salg,70,18000,2,1968,
-175,Ejerlejlighed,"Tårnvej 51, 2. tv",2610, Rødovre,1260000 ,20-07-2005,Alm. Salg,70,18000,3,1969,
 175,Ejerlejlighed,"Brandholms Alle 24F, st",2610, Rødovre,1195000 ,20-07-2005,Alm. Salg,50,23900,2,1990,
 175,Ejerlejlighed,"Roskildevej 386, st. 14",2610, Rødovre,1195000 ,19-07-2005,Alm. Salg,56,21339,2,1969,
 175,Ejerlejlighed,"Rødovrevej 303, st. th",2610, Rødovre,1250000 ,19-07-2005,Fam. Salg,83,15060,3,1967,
@@ -8704,9 +8612,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 175,Ejerlejlighed,"Brandholms Alle 20B, 2. tv",2610, Rødovre,890000 ,07-03-2005,Alm. Salg,46,19348,2,1957,
 175,Ejerlejlighed,"Tårnvej 95A, 3. 93",2610, Rødovre,695000 ,06-03-2005,Alm. Salg,42,16548,1,1975,
 175,Villa,Rødovrevej 49,2610, Rødovre,1500000 ,06-03-2005,Alm. Salg,124,12097,7,1963,
-175,Ejerlejlighed,"Hvidovrevej 4, 2. th",2610, Rødovre,1095000 ,05-03-2005,Alm. Salg,57,19211,2,1933,
-175,Ejerlejlighed,"Ved Vandløbet 9, st",2610, Rødovre,1095000 ,05-03-2005,Alm. Salg,85,12882,3,1934,
-175,Ejerlejlighed,"Ved Vandløbet 9, 1",2610, Rødovre,1095000 ,05-03-2005,Alm. Salg,64,17109,3,1934,
 175,Ejerlejlighed,"Damhustorvet 5, 1. tv",2610, Rødovre,1295000 ,05-03-2005,Alm. Salg,68,19044,3,1934,
 175,Rækkehus,Jyllingevej 228,2610, Rødovre,1500000 ,03-03-2005,Alm. Salg,149,10067,4,1984,
 175,Villa,Engbovej 50A,2610, Rødovre,1676000 ,02-03-2005,Alm. Salg,115,14574,5,1939,
@@ -8930,10 +8835,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 175,Ejerlejlighed,"Rødager Alle 71, 2. 4",2610, Rødovre,678000 ,23-10-2004,Alm. Salg,36,18833,1,1960,
 175,Villa,Jyllingevej 140,2610, Rødovre,2299000 ,23-10-2004,Alm. Salg,165,13933,6,1934,
 175,Ejerlejlighed,"Valhøjs Alle 104B, 2. tv",2610, Rødovre,1250000 ,21-10-2004,Alm. Salg,82,15244,3,1965,
-175,Rækkehus,Nyskiftevej 15,2610, Rødovre,1940000 ,20-10-2004,Alm. Salg,113,17168,5,1962,
 175,Rækkehus,Lerholm Vænge 3,2610, Rødovre,1775000 ,20-10-2004,Alm. Salg,119,14916,5,1957,
 175,Ejerlejlighed,"Agerskovvej 4A, 3",2610, Rødovre,770000 ,20-10-2004,Alm. Salg,52,14808,1,1968,
-175,Villa,Kamstrupvej 36,2610, Rødovre,1940000 ,20-10-2004,Alm. Salg,112,17321,3,1942,
 175,Villa,Christiansdal 7,2610, Rødovre,233932 ,20-10-2004,Andet,68,3440,3,1930,
 175,Villa,"Ovrevej 9, st",2610, Rødovre,1247000 ,18-10-2004,Alm. Salg,172,7250,6,2021,
 175,Ejerlejlighed,"Rødager Alle 67, 1. 3",2610, Rødovre,450000 ,17-10-2004,Fam. Salg,38,11842,1,1960,
@@ -9773,20 +9676,16 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 175,Ejerlejlighed,"Rødovrevej 202, st. mf",2610, Rødovre,731500 ,12-05-2003,Alm. Salg,45,16256,1,1966,
 175,Ejerlejlighed,"Brandholms Alle 24K, st",2610, Rødovre,925000 ,12-05-2003,Alm. Salg,48,19271,2,1990,
 175,Ejerlejlighed,"Brunevang 92, st. 1",2610, Rødovre,750000 ,12-05-2003,Alm. Salg,40,18750,1,1976,
-175,Rækkehus,Mollerupvej 25,2610, Rødovre,1895000 ,11-05-2003,Alm. Salg,149,12718,5,1956,
 175,Ejerlejlighed,"Roskildevej 325, 1",2610, Rødovre,450000 ,11-05-2003,Fam. Salg,93,4839,4,1937,
 175,Ejerlejlighed,"Rødovre Parkvej 237, 1. th",2610, Rødovre,1147546 ,11-05-2003,Alm. Salg,78,14712,3,1962,
 175,Villa,Guldsmedevej 56,2610, Rødovre,1760000 ,11-05-2003,Alm. Salg,119,14790,4,1997,
-175,Villa,Christiansdal 29,2610, Rødovre,1895000 ,11-05-2003,Alm. Salg,93,20376,3,1935,
 175,Ejerlejlighed,"Valhøjs Alle 88, 1. 6",2610, Rødovre,941755 ,10-05-2003,Alm. Salg,60,15696,2,1983,
 175,Rækkehus,Damhusdalen 20A,2610, Rødovre,1600000 ,07-05-2003,Alm. Salg,81,19753,4,1977,
 175,Ejerlejlighed,"Rødovre Parkvej 181, 2. mf",2610, Rødovre,535000 ,07-05-2003,Alm. Salg,32,16719,1,1964,
 175,Ejerlejlighed,"Brandholms Alle 32G, st",2610, Rødovre,790977 ,06-05-2003,Alm. Salg,58,13638,2,1959,
 175,Ejerlejlighed,"Rødovre Parkvej 259, 2. tv",2610, Rødovre,1114999 ,06-05-2003,Alm. Salg,82,13598,4,1962,
 175,Ejerlejlighed,"Damparken 38, 2. th",2610, Rødovre,1125000 ,04-05-2003,Alm. Salg,71,15845,3,1939,
-175,Rækkehus,Madumvej 20,2610, Rødovre,1380000 ,30-04-2003,Alm. Salg,68,20294,4,1943,
 175,Ejerlejlighed,"Randrupvej 9, 1. tv",2610, Rødovre,899000 ,30-04-2003,Alm. Salg,53,16962,2,1939,
-175,Villa,Slotsherrensvej 328,2610, Rødovre,1380000 ,30-04-2003,Alm. Salg,112,12321,4,1964,
 175,Rækkehus,Sylvestervej 4B,2610, Rødovre,1779000 ,29-04-2003,Alm. Salg,95,18726,5,1948,
 175,Ejerlejlighed,"Rødovre Parkvej 317, st",2610, Rødovre,695000 ,29-04-2003,Alm. Salg,50,13900,2,1974,
 175,Villa,Henrik Cavlings Alle 5A,2610, Rødovre,2200000 ,29-04-2003,Alm. Salg,133,16541,5,1954,
@@ -10424,7 +10323,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 175,Villa,Espely 28,2610, Rødovre,1680000 ,20-01-2002,Alm. Salg,129,13023,4,1956,
 175,Villa,Grønlunds Alle 51,2610, Rødovre,1539000 ,18-01-2002,Alm. Salg,136,11316,6,1946,
 175,Ejerlejlighed,"Rødovre Parkvej 213, st",2610, Rødovre,575000 ,17-01-2002,Alm. Salg,47,12234,1,1962,
-175,Villa,Rødovrevej 34A,2610, Rødovre,1975000 ,17-01-2002,Alm. Salg,91,21703,3,1942,
 175,Rækkehus,Brandstrupvej 45,2610, Rødovre,1350000 ,16-01-2002,Alm. Salg,99,13636,4,1965,
 175,Ejerlejlighed,"Rødager Alle 69, st. 1",2610, Rødovre,487000 ,16-01-2002,Alm. Salg,36,13528,1,1960,
 175,Ejerlejlighed,"Valhøjs Alle 88, st. 3",2610, Rødovre,830000 ,16-01-2002,Alm. Salg,60,13833,2,1983,
@@ -10469,7 +10367,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 175,Villa,Låsbyvej 10,2610, Rødovre,1874000 ,29-11-2001,Alm. Salg,96,19521,4,1962,
 175,Ejerlejlighed,"Rødovrevej 188, 2. th",2610, Rødovre,884514 ,26-11-2001,Alm. Salg,60,14742,2,1957,
 175,Ejerlejlighed,"Rødovre Parkvej 179, 2. mf",2610, Rødovre,490000 ,25-11-2001,Alm. Salg,32,15313,1,1964,
-175,Villa,Rødovrevej 34A,2610, Rødovre,1650000 ,25-11-2001,Alm. Salg,91,18132,3,1942,
 175,Ejerlejlighed,"Agerskovvej 4J, 1",2610, Rødovre,916092 ,24-11-2001,Alm. Salg,70,13087,2,1968,
 175,Ejerlejlighed,"Rødovre Parkvej 195, 1. tv",2610, Rødovre,525000 ,24-11-2001,Alm. Salg,84,6250,4,1964,
 175,Villa,Årslevvej 25,2610, Rødovre,1200000 ,24-11-2001,Alm. Salg,156,7692,5,1938,
@@ -12312,7 +12209,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 175,Ejerlejlighed,"Hvidovrevej 50, 1. 1",2610, Rødovre,378312 ,03-08-1998,Alm. Salg,45,8407,2,1937,
 175,Ejerlejlighed,"Roskildevej 382, st. 40",2610, Rødovre,450000 ,03-08-1998,Alm. Salg,56,8036,2,1969,
 175,Villa,Fortvej 45,2610, Rødovre,1180000 ,03-08-1998,Alm. Salg,114,10351,5,1958,
-175,Villa,Rødovrevej 34A,2610, Rødovre,1112000 ,02-08-1998,Alm. Salg,91,12220,3,1942,
 175,Ejerlejlighed,"Agerskovvej 4C, 4",2610, Rødovre,569000 ,30-07-1998,Alm. Salg,70,8129,2,1968,
 175,Villa,Løgumvej 1,2610, Rødovre,1163550 ,30-07-1998,Alm. Salg,143,8137,5,1933,
 175,Villa,Åmosevej 42,2610, Rødovre,878161 ,29-07-1998,Alm. Salg,70,12545,3,1951,
@@ -12715,7 +12611,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 175,Villa,Knud Anchers Vej 43,2610, Rødovre,1129983 ,27-10-1997,Alm. Salg,155,7290,5,1935,
 175,Villa,Ved Voldgraven 42,2610, Rødovre,579000 ,27-10-1997,Alm. Salg,131,4420,5,2019,
 175,Villa,Kamstrupvej 55,2610, Rødovre,1312100 ,27-10-1997,Alm. Salg,100,13121,4,1951,
-175,Villa,Rødovrevej 34A,2610, Rødovre,1028878 ,27-10-1997,Alm. Salg,91,11306,3,1942,
 175,Rækkehus,Grønlunds Alle 56,2610, Rødovre,812500 ,26-10-1997,Alm. Salg,80,10156,3,1956,
 175,Rækkehus,Hvidovrevej 70,2610, Rødovre,1013111 ,26-10-1997,Alm. Salg,96,10553,4,1936,
 175,Ejerlejlighed,"Rødovre Parkvej 179, 2. mf",2610, Rødovre,229000 ,26-10-1997,Alm. Salg,32,7156,1,1964,
@@ -13190,8 +13085,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 175,Villa,Randrupvej 56,2610, Rødovre,695000 ,05-01-1997,Alm. Salg,188,3697,5,2011,
 175,Ejerlejlighed,"Voldumvej 63, 1. mf",2610, Rødovre,304286 ,04-01-1997,Alm. Salg,45,6762,1,1966,
 175,Villa,Højnæsvej 23,2610, Rødovre,1312150 ,03-01-1997,Alm. Salg,158,8305,5,1943,
-175,Ejerlejlighed,"Voldumvej 55, st. mf",2610, Rødovre,230000 ,02-01-1997,Alm. Salg,42,5476,1,1957,
-175,Ejerlejlighed,"Roskildevej 382, st. 39",2610, Rødovre,230000 ,02-01-1997,Alm. Salg,58,3966,2,1969,
 175,Villa,Hammelvej 32,2610, Rødovre,1484217 ,02-01-1997,Alm. Salg,153,9701,4,1984,
 175,Villa,Damhusdalen 18,2610, Rødovre,1386000 ,31-12-1996,Alm. Salg,97,14289,4,1934,
 175,Ejerlejlighed,"Lerholm Vænge 14, 1. th",2610, Rødovre,209689 ,30-12-1996,Alm. Salg,37,5667,1,1918,
@@ -13390,8 +13283,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 175,Villa,Vedelavej 1,2610, Rødovre,984000 ,28-08-1996,Alm. Salg,160,6150,5,1928,
 175,Ejerlejlighed,"Roskildevej 280, 2. tv",2610, Rødovre,359320 ,27-08-1996,Alm. Salg,85,4227,3,1931,
 175,Ejerlejlighed,"Damhustorvet 9, 2. tv",2610, Rødovre,513000 ,27-08-1996,Alm. Salg,68,7544,3,1934,
-175,Ejerlejlighed,"Roskildevej 384, st. 27",2610, Rødovre,300000 ,26-08-1996,Alm. Salg,56,5357,2,1969,
-175,Ejerlejlighed,"Brunevang 92, st. 1",2610, Rødovre,300000 ,26-08-1996,Alm. Salg,40,7500,1,1976,
 175,Villa,Jyllingevej 207,2610, Rødovre,791700 ,26-08-1996,Alm. Salg,74,10699,3,1957,
 175,Villa,Lucernevej 130,2610, Rødovre,981500 ,26-08-1996,Alm. Salg,110,8923,4,1950,
 175,Villa,Rønneholmsvej 9,2610, Rødovre,457790 ,26-08-1996,Fam. Salg,162,2826,4,1929,
@@ -13563,7 +13454,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 175,Ejerlejlighed,"Tårnvej 93C, 2. 81",2610, Rødovre,457000 ,13-05-1996,Alm. Salg,87,5253,3,1975,
 175,Villa,Madumvej 48,2610, Rødovre,763000 ,12-05-1996,Fam. Salg,140,5450,5,1957,
 175,Villa,Knud Anchers Vej 89,2610, Rødovre,1404000 ,11-05-1996,Alm. Salg,178,7888,5,1960,
-175,Villa,Rødovrevej 34A,2610, Rødovre,719500 ,10-05-1996,Alm. Salg,91,7907,3,1942,
 175,Rækkehus,Tæbyvej 2A,2610, Rødovre,1085000 ,08-05-1996,Alm. Salg,97,11186,4,1986,
 175,Villa,Jyllingevej 178,2610, Rødovre,766320 ,08-05-1996,Alm. Salg,136,5635,5,1955,
 175,Villa,Enggårdsvej 3,2610, Rødovre,900400 ,07-05-1996,Alm. Salg,75,12005,3,1955,
@@ -13867,169 +13757,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 175,Ejerlejlighed,"Brunevang 82, 1",2610, Rødovre,475000 ,14-10-1995,Alm. Salg,76,6250,2,1967,
 175,Ejerlejlighed,"Valhøjs Alle 90, st. 9",2610, Rødovre,510445 ,14-10-1995,Alm. Salg,61,8368,2,1983,
 175,Ejerlejlighed,"Rødovrevej 309, 1. th",2610, Rødovre,562000 ,12-10-1995,Alm. Salg,83,6771,3,1967,
-175,Ejerlejlighed,"Kaffevej 5, 4. 11",2610, Rødovre,100 ,12-10-1995,Alm. Salg,64,2,2,0,
-175,Ejerlejlighed,"Kaffevej 5, 1. 12",2610, Rødovre,100 ,12-10-1995,Alm. Salg,83,1,3,0,
-175,Ejerlejlighed,"Børge Olsens Plads 20, 3. 5",2610, Rødovre,100 ,12-10-1995,Alm. Salg,63,2,2,0,
-175,Ejerlejlighed,Børge Olsens Plads 22C,2610, Rødovre,100 ,12-10-1995,Alm. Salg,63,2,2,0,
-175,Ejerlejlighed,"Børge Olsens Plads 24, 2. tv",2610, Rødovre,100 ,12-10-1995,Alm. Salg,87,1,3,0,
-175,Ejerlejlighed,"Børge Olsens Plads 16, 4. th",2610, Rødovre,100 ,12-10-1995,Alm. Salg,114,1,4,0,
-175,Ejerlejlighed,"Børge Olsens Plads 16, 1. tv",2610, Rødovre,100 ,12-10-1995,Alm. Salg,94,1,3,0,
-175,Ejerlejlighed,"Kaffevej 9, 2. 4",2610, Rødovre,100 ,12-10-1995,Alm. Salg,64,2,2,0,
-175,Ejerlejlighed,"Kaffevej 9, 5. 2",2610, Rødovre,100 ,12-10-1995,Alm. Salg,85,1,3,0,
-175,Ejerlejlighed,"Kaffevej 5, 2. 11",2610, Rødovre,100 ,12-10-1995,Alm. Salg,64,2,2,0,
-175,Ejerlejlighed,"Kaffevej 5, 4. 10",2610, Rødovre,100 ,12-10-1995,Alm. Salg,69,1,2,0,
-175,Ejerlejlighed,"Børge Olsens Plads 12, 2. tv",2610, Rødovre,100 ,12-10-1995,Alm. Salg,94,1,4,0,
-175,Ejerlejlighed,"Kaffevej 9, 3. 2",2610, Rødovre,100 ,12-10-1995,Alm. Salg,85,1,3,0,
-175,Ejerlejlighed,"Børge Olsens Plads 8, 3. th",2610, Rødovre,100 ,12-10-1995,Alm. Salg,105,1,4,0,
-175,Ejerlejlighed,"Børge Olsens Plads 24, 1. tv",2610, Rødovre,100 ,12-10-1995,Alm. Salg,100,1,3,0,
-175,Ejerlejlighed,"Korsdalsvej 105B, 4. tv",2610, Rødovre,100 ,12-10-1995,Alm. Salg,93,1,4,0,
-175,Ejerlejlighed,"Kaffevej 5, 1. 9",2610, Rødovre,100 ,12-10-1995,Alm. Salg,62,2,2,0,
-175,Ejerlejlighed,"Korsdalsvej 105B, 2. th",2610, Rødovre,100 ,12-10-1995,Alm. Salg,77,1,3,0,
-175,Ejerlejlighed,"Kaffevej 5, 1. 10",2610, Rødovre,100 ,12-10-1995,Alm. Salg,65,2,2,0,
-175,Ejerlejlighed,"Børge Olsens Plads 8, 1. th",2610, Rødovre,100 ,12-10-1995,Alm. Salg,93,1,3,0,
-175,Ejerlejlighed,"Kaffevej 9, 4. 3",2610, Rødovre,100 ,12-10-1995,Alm. Salg,83,1,3,0,
-175,Ejerlejlighed,"Kaffevej 9, 1. 5",2610, Rødovre,100 ,12-10-1995,Alm. Salg,65,2,2,0,
-175,Ejerlejlighed,"Kaffevej 5, 3. 12",2610, Rødovre,100 ,12-10-1995,Alm. Salg,83,1,3,0,
-175,Ejerlejlighed,"Korsdalsvej 105C, 2. tv",2610, Rødovre,100 ,12-10-1995,Alm. Salg,77,1,3,0,
-175,Ejerlejlighed,"Kaffevej 9, 4. 2",2610, Rødovre,100 ,12-10-1995,Alm. Salg,85,1,3,0,
-175,Ejerlejlighed,"Børge Olsens Plads 16, 1. th",2610, Rødovre,100 ,12-10-1995,Alm. Salg,102,1,3,0,
-175,Ejerlejlighed,"Børge Olsens Plads 16, 3. tv",2610, Rødovre,100 ,12-10-1995,Alm. Salg,94,1,3,0,
-175,Ejerlejlighed,"Kaffevej 9, 1. 4",2610, Rødovre,100 ,12-10-1995,Alm. Salg,64,2,2,0,
-175,Ejerlejlighed,"Kaffevej 9, 2. 2",2610, Rødovre,100 ,12-10-1995,Alm. Salg,85,1,3,0,
-175,Ejerlejlighed,"Kaffevej 9, 4. 7",2610, Rødovre,100 ,12-10-1995,Alm. Salg,62,2,2,0,
-175,Ejerlejlighed,"Kaffevej 5, 3. 8",2610, Rødovre,100 ,12-10-1995,Alm. Salg,62,2,2,0,
-175,Ejerlejlighed,"Korsdalsvej 105C, 4. tv",2610, Rødovre,100 ,12-10-1995,Alm. Salg,77,1,3,0,
-175,Ejerlejlighed,"Kaffevej 5, 5. 12",2610, Rødovre,100 ,12-10-1995,Alm. Salg,83,1,3,0,
-175,Ejerlejlighed,"Børge Olsens Plads 20, 2. 4",2610, Rødovre,100 ,12-10-1995,Alm. Salg,63,2,2,0,
-175,Ejerlejlighed,"Kaffevej 5, 5. 13",2610, Rødovre,100 ,12-10-1995,Alm. Salg,85,1,2,0,
-175,Ejerlejlighed,Børge Olsens Plads 22B,2610, Rødovre,100 ,12-10-1995,Alm. Salg,63,2,2,0,
-175,Ejerlejlighed,"Børge Olsens Plads 4, 5. tv",2610, Rødovre,100 ,12-10-1995,Alm. Salg,137,1,5,0,
-175,Ejerlejlighed,"Børge Olsens Plads 8, 1. tv",2610, Rødovre,100 ,12-10-1995,Alm. Salg,94,1,4,0,
-175,Ejerlejlighed,"Kaffevej 5, 3. 10",2610, Rødovre,100 ,12-10-1995,Alm. Salg,65,2,2,0,
-175,Ejerlejlighed,"Kaffevej 9, 3. 4",2610, Rødovre,100 ,12-10-1995,Alm. Salg,64,2,2,0,
-175,Ejerlejlighed,"Børge Olsens Plads 8, 5. th",2610, Rødovre,100 ,12-10-1995,Alm. Salg,106,1,4,0,
-175,Ejerlejlighed,"Korsdalsvej 105B, 4. th",2610, Rødovre,100 ,12-10-1995,Alm. Salg,77,1,3,0,
-175,Ejerlejlighed,"Børge Olsens Plads 4, 2. th",2610, Rødovre,100 ,12-10-1995,Alm. Salg,103,1,4,0,
-175,Ejerlejlighed,"Børge Olsens Plads 4, 3. mf",2610, Rødovre,100 ,12-10-1995,Alm. Salg,76,1,2,0,
-175,Ejerlejlighed,"Korsdalsvej 105C, 1. tv",2610, Rødovre,100 ,12-10-1995,Alm. Salg,77,1,3,0,
-175,Ejerlejlighed,"Børge Olsens Plads 8, 4. th",2610, Rødovre,100 ,12-10-1995,Alm. Salg,105,1,4,0,
-175,Ejerlejlighed,"Børge Olsens Plads 12, 2. th",2610, Rødovre,100 ,12-10-1995,Alm. Salg,77,1,3,0,
-175,Ejerlejlighed,"Børge Olsens Plads 8, 2. th",2610, Rødovre,100 ,12-10-1995,Alm. Salg,105,1,4,0,
-175,Ejerlejlighed,"Børge Olsens Plads 20, 2. 3",2610, Rødovre,100 ,12-10-1995,Alm. Salg,63,2,2,0,
-175,Ejerlejlighed,"Kaffevej 9, 3. 7",2610, Rødovre,100 ,12-10-1995,Alm. Salg,62,2,2,0,
-175,Ejerlejlighed,Børge Olsens Plads 22D,2610, Rødovre,100 ,12-10-1995,Alm. Salg,63,2,2,0,
-175,Ejerlejlighed,"Kaffevej 5, 2. 13",2610, Rødovre,100 ,12-10-1995,Alm. Salg,85,1,3,0,
-175,Ejerlejlighed,"Børge Olsens Plads 20, 3. 1",2610, Rødovre,100 ,12-10-1995,Alm. Salg,69,1,2,0,
-175,Ejerlejlighed,"Børge Olsens Plads 24, 5. th",2610, Rødovre,100 ,12-10-1995,Alm. Salg,115,1,4,0,
-175,Ejerlejlighed,"Korsdalsvej 105B, 3. tv",2610, Rødovre,100 ,12-10-1995,Alm. Salg,93,1,4,0,
-175,Ejerlejlighed,"Børge Olsens Plads 4, 2. mf",2610, Rødovre,100 ,12-10-1995,Alm. Salg,76,1,2,0,
-175,Ejerlejlighed,"Kaffevej 5, 1. 11",2610, Rødovre,100 ,12-10-1995,Alm. Salg,64,2,2,0,
-175,Ejerlejlighed,"Børge Olsens Plads 24, 4. tv",2610, Rødovre,100 ,12-10-1995,Alm. Salg,87,1,3,0,
-175,Ejerlejlighed,"Børge Olsens Plads 12, 3. tv",2610, Rødovre,100 ,12-10-1995,Alm. Salg,94,1,4,0,
-175,Ejerlejlighed,"Børge Olsens Plads 20, 2. 2",2610, Rødovre,100 ,12-10-1995,Alm. Salg,63,2,2,0,
-175,Ejerlejlighed,"Børge Olsens Plads 8, 2. tv",2610, Rødovre,100 ,12-10-1995,Alm. Salg,94,1,4,0,
-175,Ejerlejlighed,"Børge Olsens Plads 24, 1. mf",2610, Rødovre,100 ,12-10-1995,Alm. Salg,112,1,4,0,
-175,Ejerlejlighed,"Børge Olsens Plads 16, 2. tv",2610, Rødovre,100 ,12-10-1995,Alm. Salg,94,1,3,0,
-175,Ejerlejlighed,"Børge Olsens Plads 20, 4. 6",2610, Rødovre,100 ,12-10-1995,Alm. Salg,63,2,2,0,
-175,Ejerlejlighed,"Børge Olsens Plads 4, 4. mf",2610, Rødovre,100 ,12-10-1995,Alm. Salg,76,1,2,0,
-175,Ejerlejlighed,"Børge Olsens Plads 24, 5. tv",2610, Rødovre,100 ,12-10-1995,Alm. Salg,87,1,3,0,
-175,Ejerlejlighed,"Børge Olsens Plads 8, 4. tv",2610, Rødovre,100 ,12-10-1995,Alm. Salg,94,1,4,0,
-175,Ejerlejlighed,"Kaffevej 5, 2. 10",2610, Rødovre,100 ,12-10-1995,Alm. Salg,65,2,2,0,
-175,Ejerlejlighed,"Kaffevej 9, 2. 6",2610, Rødovre,100 ,12-10-1995,Alm. Salg,62,2,2,0,
-175,Ejerlejlighed,"Kaffevej 5, 3. 13",2610, Rødovre,100 ,12-10-1995,Alm. Salg,85,1,3,0,
-175,Ejerlejlighed,"Kaffevej 5, 4. 12",2610, Rødovre,100 ,12-10-1995,Alm. Salg,83,1,3,0,
-175,Ejerlejlighed,"Kaffevej 9, 2. 5",2610, Rødovre,100 ,12-10-1995,Alm. Salg,65,2,2,0,
-175,Ejerlejlighed,"Kaffevej 9, 5. 1",2610, Rødovre,100 ,12-10-1995,Alm. Salg,88,1,2,0,
-175,Ejerlejlighed,"Korsdalsvej 105C, 4. th",2610, Rødovre,100 ,12-10-1995,Alm. Salg,93,1,4,0,
-175,Ejerlejlighed,"Kaffevej 5, 1. 8",2610, Rødovre,100 ,12-10-1995,Alm. Salg,62,2,2,0,
-175,Ejerlejlighed,"Kaffevej 5, 3. 11",2610, Rødovre,100 ,12-10-1995,Alm. Salg,64,2,2,0,
-175,Ejerlejlighed,"Kaffevej 5, 2. 8",2610, Rødovre,100 ,12-10-1995,Alm. Salg,62,2,2,0,
-175,Ejerlejlighed,"Kaffevej 5, 2. 14",2610, Rødovre,100 ,12-10-1995,Alm. Salg,80,1,3,0,
-175,Ejerlejlighed,"Kaffevej 9, 1. 3",2610, Rødovre,100 ,12-10-1995,Alm. Salg,83,1,3,0,
-175,Ejerlejlighed,"Kaffevej 5, 5. 11",2610, Rødovre,100 ,12-10-1995,Alm. Salg,130,1,4,0,
-175,Ejerlejlighed,"Børge Olsens Plads 20, 4. 7",2610, Rødovre,100 ,12-10-1995,Alm. Salg,67,1,2,0,
-175,Ejerlejlighed,"Kaffevej 5, 2. 9",2610, Rødovre,100 ,12-10-1995,Alm. Salg,62,2,2,0,
-175,Ejerlejlighed,"Korsdalsvej 105C, 5. th",2610, Rødovre,100 ,12-10-1995,Alm. Salg,93,1,4,0,
-175,Ejerlejlighed,"Børge Olsens Plads 12, 1. th",2610, Rødovre,100 ,12-10-1995,Alm. Salg,63,2,2,0,
-175,Ejerlejlighed,"Korsdalsvej 105B, 1. tv",2610, Rødovre,100 ,12-10-1995,Alm. Salg,81,1,3,0,
-175,Ejerlejlighed,"Børge Olsens Plads 4, 4. th",2610, Rødovre,100 ,12-10-1995,Alm. Salg,103,1,4,0,
-175,Ejerlejlighed,"Kaffevej 5, 4. 14",2610, Rødovre,100 ,12-10-1995,Alm. Salg,80,1,3,0,
-175,Ejerlejlighed,"Børge Olsens Plads 16, 4. tv",2610, Rødovre,100 ,12-10-1995,Alm. Salg,94,1,3,0,
-175,Ejerlejlighed,"Kaffevej 9, 4. 4",2610, Rødovre,100 ,12-10-1995,Alm. Salg,64,2,2,0,
-175,Ejerlejlighed,"Kaffevej 5, 3. 9",2610, Rødovre,100 ,12-10-1995,Alm. Salg,62,2,2,0,
-175,Ejerlejlighed,"Børge Olsens Plads 20, 3. 4",2610, Rødovre,100 ,12-10-1995,Alm. Salg,63,2,2,0,
-175,Ejerlejlighed,Børge Olsens Plads 22E,2610, Rødovre,100 ,12-10-1995,Alm. Salg,63,2,2,0,
-175,Ejerlejlighed,"Børge Olsens Plads 16, 3. th",2610, Rødovre,100 ,12-10-1995,Alm. Salg,114,1,4,0,
-175,Ejerlejlighed,"Børge Olsens Plads 4, 1. th",2610, Rødovre,100 ,12-10-1995,Alm. Salg,103,1,4,0,
-175,Ejerlejlighed,"Korsdalsvej 105B, 1. th",2610, Rødovre,100 ,12-10-1995,Alm. Salg,77,1,3,0,
-175,Ejerlejlighed,"Børge Olsens Plads 12, 4. th",2610, Rødovre,100 ,12-10-1995,Alm. Salg,77,1,3,0,
-175,Ejerlejlighed,"Kaffevej 9, 1. 1",2610, Rødovre,100 ,12-10-1995,Alm. Salg,80,1,3,0,
-175,Ejerlejlighed,"Korsdalsvej 105C, 3. th",2610, Rødovre,100 ,12-10-1995,Alm. Salg,93,1,4,0,
-175,Ejerlejlighed,"Børge Olsens Plads 24, 3. tv",2610, Rødovre,100 ,12-10-1995,Alm. Salg,87,1,3,0,
-175,Ejerlejlighed,"Kaffevej 9, 1. 7",2610, Rødovre,100 ,12-10-1995,Alm. Salg,62,2,2,0,
-175,Ejerlejlighed,"Kaffevej 9, 3. 1",2610, Rødovre,100 ,12-10-1995,Alm. Salg,80,1,3,0,
-175,Ejerlejlighed,"Børge Olsens Plads 4, 1. tv",2610, Rødovre,100 ,12-10-1995,Alm. Salg,104,1,4,0,
-175,Ejerlejlighed,"Børge Olsens Plads 24, 1. th",2610, Rødovre,100 ,12-10-1995,Alm. Salg,87,1,3,0,
-175,Ejerlejlighed,"Børge Olsens Plads 20, 2. 1",2610, Rødovre,100 ,12-10-1995,Alm. Salg,69,1,2,0,
-175,Ejerlejlighed,"Børge Olsens Plads 24, 2. mf",2610, Rødovre,100 ,12-10-1995,Alm. Salg,104,1,3,0,
-175,Ejerlejlighed,"Korsdalsvej 105C, 5. tv",2610, Rødovre,100 ,12-10-1995,Alm. Salg,83,1,3,0,
-175,Ejerlejlighed,Børge Olsens Plads 22F,2610, Rødovre,100 ,12-10-1995,Alm. Salg,63,2,2,0,
-175,Ejerlejlighed,"Kaffevej 5, 4. 13",2610, Rødovre,100 ,12-10-1995,Alm. Salg,85,1,2,0,
-175,Ejerlejlighed,"Børge Olsens Plads 20, 2. 5",2610, Rødovre,100 ,12-10-1995,Alm. Salg,63,2,2,0,
-175,Ejerlejlighed,"Børge Olsens Plads 20, 4. 5",2610, Rødovre,100 ,12-10-1995,Alm. Salg,63,2,2,0,
-175,Ejerlejlighed,"Kaffevej 9, 2. 1",2610, Rødovre,100 ,12-10-1995,Alm. Salg,80,1,3,0,
-175,Ejerlejlighed,"Børge Olsens Plads 12, 4. tv",2610, Rødovre,100 ,12-10-1995,Alm. Salg,94,1,4,0,
-175,Ejerlejlighed,"Børge Olsens Plads 20, 4. 3",2610, Rødovre,100 ,12-10-1995,Alm. Salg,63,2,2,0,
-175,Ejerlejlighed,"Kaffevej 9, 4. 6",2610, Rødovre,100 ,12-10-1995,Alm. Salg,62,2,2,0,
-175,Ejerlejlighed,"Børge Olsens Plads 4, 4. tv",2610, Rødovre,100 ,12-10-1995,Alm. Salg,104,1,4,0,
-175,Ejerlejlighed,"Børge Olsens Plads 4, 2. tv",2610, Rødovre,100 ,12-10-1995,Alm. Salg,104,1,4,0,
-175,Ejerlejlighed,"Børge Olsens Plads 4, 5. th",2610, Rødovre,100 ,12-10-1995,Alm. Salg,77,1,2,0,
-175,Ejerlejlighed,"Kaffevej 5, 5. 14",2610, Rødovre,100 ,12-10-1995,Alm. Salg,80,1,3,0,
-175,Ejerlejlighed,"Kaffevej 5, 4. 8",2610, Rødovre,100 ,12-10-1995,Alm. Salg,66,2,2,0,
-175,Ejerlejlighed,"Børge Olsens Plads 24, 4. th",2610, Rødovre,100 ,12-10-1995,Alm. Salg,112,1,4,0,
-175,Ejerlejlighed,"Børge Olsens Plads 20, 4. 1",2610, Rødovre,100 ,12-10-1995,Alm. Salg,69,1,2,0,
-175,Ejerlejlighed,Børge Olsens Plads 22A,2610, Rødovre,100 ,12-10-1995,Alm. Salg,69,1,2,0,
-175,Ejerlejlighed,"Børge Olsens Plads 20, 2. 6",2610, Rødovre,100 ,12-10-1995,Alm. Salg,63,2,2,0,
-175,Ejerlejlighed,"Kaffevej 9, 2. 3",2610, Rødovre,100 ,12-10-1995,Alm. Salg,83,1,3,0,
-175,Ejerlejlighed,"Kaffevej 5, 1. 13",2610, Rødovre,100 ,12-10-1995,Alm. Salg,85,1,3,0,
-175,Ejerlejlighed,"Børge Olsens Plads 12, 5. tv",2610, Rødovre,100 ,12-10-1995,Alm. Salg,97,1,3,0,
-175,Ejerlejlighed,"Korsdalsvej 105C, 1. th",2610, Rødovre,100 ,12-10-1995,Alm. Salg,81,1,3,0,
-175,Ejerlejlighed,"Børge Olsens Plads 4, 3. tv",2610, Rødovre,100 ,12-10-1995,Alm. Salg,104,1,4,0,
-175,Ejerlejlighed,"Korsdalsvej 105B, 2. tv",2610, Rødovre,100 ,12-10-1995,Alm. Salg,93,1,4,0,
-175,Ejerlejlighed,"Børge Olsens Plads 8, 5. tv",2610, Rødovre,100 ,12-10-1995,Alm. Salg,94,1,4,0,
-175,Ejerlejlighed,"Børge Olsens Plads 24, 3. mf",2610, Rødovre,100 ,12-10-1995,Alm. Salg,104,1,3,0,
-175,Ejerlejlighed,"Børge Olsens Plads 20, 3. 6",2610, Rødovre,100 ,12-10-1995,Alm. Salg,63,2,2,0,
-175,Ejerlejlighed,"Børge Olsens Plads 16, 2. th",2610, Rødovre,100 ,12-10-1995,Alm. Salg,114,1,4,0,
-175,Ejerlejlighed,"Børge Olsens Plads 12, 1. tv",2610, Rødovre,100 ,12-10-1995,Alm. Salg,94,1,4,0,
-175,Ejerlejlighed,"Korsdalsvej 105C, 3. tv",2610, Rødovre,100 ,12-10-1995,Alm. Salg,77,1,3,0,
-175,Ejerlejlighed,"Børge Olsens Plads 4, 1. mf",2610, Rødovre,100 ,12-10-1995,Alm. Salg,72,1,2,0,
-175,Ejerlejlighed,"Kaffevej 9, 4. 1",2610, Rødovre,100 ,12-10-1995,Alm. Salg,80,1,3,0,
-175,Ejerlejlighed,"Børge Olsens Plads 8, 3. tv",2610, Rødovre,100 ,12-10-1995,Alm. Salg,94,1,4,0,
-175,Ejerlejlighed,"Korsdalsvej 105B, 3. th",2610, Rødovre,100 ,12-10-1995,Alm. Salg,77,1,3,0,
-175,Ejerlejlighed,"Børge Olsens Plads 20, 3. 7",2610, Rødovre,100 ,12-10-1995,Alm. Salg,67,1,2,0,
-175,Ejerlejlighed,"Børge Olsens Plads 20, 4. 2",2610, Rødovre,100 ,12-10-1995,Alm. Salg,63,2,2,0,
-175,Ejerlejlighed,"Kaffevej 5, 1. 14",2610, Rødovre,100 ,12-10-1995,Alm. Salg,80,1,3,0,
-175,Ejerlejlighed,Børge Olsens Plads 22G,2610, Rødovre,100 ,12-10-1995,Alm. Salg,67,1,2,0,
-175,Ejerlejlighed,"Børge Olsens Plads 20, 2. 7",2610, Rødovre,100 ,12-10-1995,Alm. Salg,67,1,2,0,
-175,Ejerlejlighed,"Kaffevej 9, 5. 3",2610, Rødovre,100 ,12-10-1995,Alm. Salg,83,1,3,0,
-175,Ejerlejlighed,"Kaffevej 9, 3. 3",2610, Rødovre,100 ,12-10-1995,Alm. Salg,83,1,3,0,
-175,Ejerlejlighed,"Kaffevej 5, 3. 14",2610, Rødovre,100 ,12-10-1995,Alm. Salg,80,1,3,0,
-175,Ejerlejlighed,"Børge Olsens Plads 20, 4. 4",2610, Rødovre,100 ,12-10-1995,Alm. Salg,63,2,2,0,
-175,Ejerlejlighed,"Kaffevej 9, 4. 5",2610, Rødovre,100 ,12-10-1995,Alm. Salg,65,2,2,0,
-175,Ejerlejlighed,"Kaffevej 9, 3. 5",2610, Rødovre,100 ,12-10-1995,Alm. Salg,65,2,2,0,
-175,Ejerlejlighed,"Børge Olsens Plads 4, 3. th",2610, Rødovre,100 ,12-10-1995,Alm. Salg,103,1,4,0,
-175,Ejerlejlighed,"Korsdalsvej 105C, 2. th",2610, Rødovre,100 ,12-10-1995,Alm. Salg,93,1,4,0,
-175,Ejerlejlighed,"Kaffevej 9, 1. 6",2610, Rødovre,100 ,12-10-1995,Alm. Salg,62,2,2,0,
-175,Ejerlejlighed,"Kaffevej 5, 2. 12",2610, Rødovre,100 ,12-10-1995,Alm. Salg,83,1,3,0,
-175,Ejerlejlighed,"Børge Olsens Plads 20, 3. 2",2610, Rødovre,100 ,12-10-1995,Alm. Salg,63,2,2,0,
-175,Ejerlejlighed,"Børge Olsens Plads 12, 3. th",2610, Rødovre,100 ,12-10-1995,Alm. Salg,77,1,3,0,
-175,Ejerlejlighed,"Børge Olsens Plads 24, 3. th",2610, Rødovre,100 ,12-10-1995,Alm. Salg,112,1,4,0,
-175,Ejerlejlighed,"Børge Olsens Plads 24, 2. th",2610, Rødovre,100 ,12-10-1995,Alm. Salg,112,1,4,0,
-175,Ejerlejlighed,"Kaffevej 9, 2. 7",2610, Rødovre,100 ,12-10-1995,Alm. Salg,62,2,2,0,
-175,Ejerlejlighed,"Børge Olsens Plads 24, 4. mf",2610, Rødovre,100 ,12-10-1995,Alm. Salg,104,1,3,0,
-175,Ejerlejlighed,"Kaffevej 9, 1. 2",2610, Rødovre,100 ,12-10-1995,Alm. Salg,85,1,3,0,
-175,Ejerlejlighed,"Børge Olsens Plads 20, 3. 3",2610, Rødovre,100 ,12-10-1995,Alm. Salg,63,2,2,0,
-175,Ejerlejlighed,"Kaffevej 9, 3. 6",2610, Rødovre,100 ,12-10-1995,Alm. Salg,62,2,2,0,
 175,Villa,Højnæsvej 35,2610, Rødovre,825520 ,12-10-1995,Alm. Salg,119,6937,5,1961,
 175,Ejerlejlighed,"Skanderupvej 4, st. mf",2610, Rødovre,350000 ,11-10-1995,Alm. Salg,63,5556,2,1967,
 175,Villa,Horshøjvej 13,2610, Rødovre,998500 ,09-10-1995,Alm. Salg,124,8052,6,1942,
@@ -14433,7 +14160,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 175,Rækkehus,Lerholm Vænge 21,2610, Rødovre,295000 ,18-12-1994,Alm. Salg,83,3554,4,1959,
 175,Rækkehus,Ved Vandløbet 3B,2610, Rødovre,775000 ,18-12-1994,Alm. Salg,100,7750,4,1976,
 175,Ejerlejlighed,"Roskildevej 285, 2. tv",2610, Rødovre,301526 ,16-12-1994,Alm. Salg,52,5799,2,1934,
-175,Ejerlejlighed,"Hvidsværmervej 115, st. th",2610, Rødovre,3500000 ,15-12-1994,Andet,70,50000,3,1967,
 175,Rækkehus,Ved Vandløbet 1C,2610, Rødovre,326820 ,14-12-1994,Alm. Salg,100,3268,4,1976,
 175,Ejerlejlighed,"Rødager Alle 67, st. 1",2610, Rødovre,696357 ,14-12-1994,Andet,36,19343,1,1960,
 175,Ejerlejlighed,"Brunevang 92, st. 2",2610, Rødovre,292000 ,13-12-1994,Alm. Salg,40,7300,1,1976,
@@ -14893,18 +14619,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 175,Villa,Junovej 2,2610, Rødovre,1448000 ,14-12-1993,Alm. Salg,171,8468,5,1903,
 175,Ejerlejlighed,"Voldumvej 57, 2. th",2610, Rødovre,375000 ,12-12-1993,Alm. Salg,60,6250,2,1957,
 175,Villa,Schweizerdalsvej 43A,2610, Rødovre,956500 ,12-12-1993,Alm. Salg,106,9024,4,1954,
-175,Ejerlejlighed,"Nordkærvej 1, st. tv",2610, Rødovre,1730000 ,09-12-1993,Alm. Salg,53,32642,2,1938,
-175,Ejerlejlighed,"Nordkærvej 1, st. th",2610, Rødovre,1730000 ,09-12-1993,Alm. Salg,66,26212,3,1938,
-175,Ejerlejlighed,"Nordkærvej 1, 1. tv",2610, Rødovre,1730000 ,09-12-1993,Alm. Salg,53,32642,2,1938,
-175,Ejerlejlighed,"Hvidovrevej 39, st. th",2610, Rødovre,1730000 ,09-12-1993,Alm. Salg,52,33269,2,1938,
-175,Ejerlejlighed,"Hvidovrevej 39, st. tv",2610, Rødovre,1730000 ,09-12-1993,Alm. Salg,53,32642,2,1938,
-175,Ejerlejlighed,"Nordkærvej 1, 1. th",2610, Rødovre,1730000 ,09-12-1993,Alm. Salg,66,26212,3,1938,
-175,Ejerlejlighed,"Hvidovrevej 39, 1. th",2610, Rødovre,1730000 ,09-12-1993,Alm. Salg,52,33269,2,1938,
-175,Ejerlejlighed,"Hvidovrevej 39, 1. tv",2610, Rødovre,1730000 ,09-12-1993,Alm. Salg,53,32642,2,1938,
-175,Ejerlejlighed,"Hvidovrevej 41, st. th",2610, Rødovre,1730000 ,09-12-1993,Alm. Salg,62,27903,2,1938,
-175,Ejerlejlighed,"Hvidovrevej 41, 1. th",2610, Rødovre,1730000 ,09-12-1993,Alm. Salg,62,27903,2,1938,
-175,Ejerlejlighed,"Hvidovrevej 41, 1. tv",2610, Rødovre,1730000 ,09-12-1993,Alm. Salg,46,37609,2,1938,
-175,Ejerlejlighed,"Hvidovrevej 41, st. tv",2610, Rødovre,1730000 ,09-12-1993,Alm. Salg,46,37609,2,1938,
 175,Villa,Ved Fæstningen 19,2610, Rødovre,895000 ,09-12-1993,Alm. Salg,101,8861,4,1955,
 175,Villa,Mollerupvej 52,2610, Rødovre,1180000 ,09-12-1993,Alm. Salg,140,8429,4,1988,
 175,Villa,Røngård Alle 30,2610, Rødovre,670000 ,08-12-1993,Alm. Salg,104,6442,4,1962,

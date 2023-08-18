@@ -495,7 +495,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 336,Villa,Bakkevej 3,4673, Rødvig Stevns,1260000 ,17-07-2021,Alm. Salg,82,15366.0,3,1964,-3%
 336,Villa,Bakkehældet 85,4600, Køge,2595000 ,13-07-2021,Alm. Salg,134,19366.0,5,1973,
 336,Villa,Kirkebjergvej 25,4673, Rødvig Stevns,1395000 ,11-07-2021,Alm. Salg,173,8064.0,6,1989,-7%
-336,Villa,Strøby Bygade 41,4671, Strøby,2650000 ,10-07-2021,Alm. Salg,117,22650.0,2,1880,-2%
 336,Rækkehus,Elvervangen 1C,4652, Hårlev,1650000 ,09-07-2021,Alm. Salg,158,10443.0,5,2002,-3%
 336,Rækkehus,Stivangen 54,4660, Store Heddinge,2045000 ,08-07-2021,Alm. Salg,104,19663.0,4,2022,
 336,Villa,Maglehøjvej 2,4652, Hårlev,695000 ,08-07-2021,Alm. Salg,77,9026.0,3,1780,
@@ -637,7 +636,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 336,Villa,Vallørækken 14,4600, Køge,235500 ,15-04-2021,Alm. Salg,81,2907.0,3,1920,-85%
 336,Villa,Damvej 12,4652, Hårlev,4400000 ,15-04-2021,Alm. Salg,240,18333.0,6,1900,-2%
 336,Villa,Vandværksvej 5,4600, Køge,5600000 ,15-04-2021,Alm. Salg,206,22222.0,6,1999,2%
-336,Villa,Trekronervej 24,4600, Køge,1895000 ,14-04-2021,Alm. Salg,84,22560.0,3,1939,
 336,Villa,Skovvejen 44,4660, Store Heddinge,1544000 ,14-04-2021,Alm. Salg,134,11522.0,4,1827,
 336,Villa,Dortheavej 12,4660, Store Heddinge,1050000 ,14-04-2021,Fam. Salg,146,7192.0,6,2009,
 336,Villa,Bøgevej 18,4600, Køge,3200000 ,12-04-2021,Alm. Salg,147,21769.0,5,1972,
@@ -779,7 +777,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 336,Villa,Ærtebjergvej 8,4660, Store Heddinge,745000 ,31-01-2021,Alm. Salg,112,6652.0,5,1900,
 336,Villa,Gjorslevvej 7,4660, Store Heddinge,750000 ,29-01-2021,Alm. Salg,111,6757.0,2,1900,-6%
 336,Villa,Smedegade 12,4660, Store Heddinge,1195000 ,29-01-2021,Alm. Salg,93,12849.0,3,1908,
-336,Rækkehus,Nicolinevej 63,4600, Køge,2650000 ,28-01-2021,Alm. Salg,117,22650.0,4,2017,-1%
 336,Villa,Havnevej 15,4673, Rødvig Stevns,2150000 ,28-01-2021,Alm. Salg,123,17480.0,3,1987,
 336,Villa,Borgergade 31,4672, Klippinge,424019 ,27-01-2021,Fam. Salg,193,2197.0,5,1922,
 336,Villa,Østervej 13,4673, Rødvig Stevns,1395000 ,27-01-2021,Alm. Salg,126,11071.0,5,1960,
@@ -870,8 +867,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 336,Villa,Stationsvej 9,4672, Klippinge,300000 ,08-12-2020,Alm. Salg,60,5000.0,3,1900,-14%
 336,Villa,Ageren 30,4652, Hårlev,2100000 ,07-12-2020,Alm. Salg,152,13816.0,6,1975,-2%
 336,Villa,Stevnsvej 61,4600, Køge,2595000 ,07-12-2020,Alm. Salg,189,13730.0,6,1920,
-336,Rækkehus,Lermarken 5,4652, Hårlev,1795000 ,06-12-2020,Alm. Salg,90,19944.0,3,2007,
-336,Villa,Himlingøjevej 15A,4652, Hårlev,1795000 ,06-12-2020,Alm. Salg,150,11967.0,6,1921,-5%
 336,Villa,Rosenvænget 5,4652, Hårlev,1175000 ,06-12-2020,Alm. Salg,84,13988.0,3,1968,2%
 336,Villa,Jernvænget 4,4652, Hårlev,2125000 ,06-12-2020,Alm. Salg,138,15399.0,5,1978,-1%
 336,Villa,Agerhøj 4,4660, Store Heddinge,1963115 ,06-12-2020,Alm. Salg,97,20238.0,4,2020,
@@ -1242,9 +1237,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 336,Villa,Hovtvedvej 4,4652, Hårlev,1700000 ,18-03-2020,Alm. Salg,203,8374.0,5,1880,-5%
 336,Villa,Morbærvej 5,4600, Køge,2445000 ,18-03-2020,Alm. Salg,115,21261.0,4,1969,-2%
 336,Rækkehus,Valnøddevej 18A,4600, Køge,2100000 ,17-03-2020,Alm. Salg,107,19626.0,4,2008,
-336,Ejerlejlighed,Rødvig Hovedgade 23,4673, Rødvig Stevns,1500000 ,17-03-2020,Alm. Salg,88,17045.0,3,1919,
-336,Ejerlejlighed,Skansevej 2,4673, Rødvig Stevns,1500000 ,17-03-2020,Alm. Salg,129,11628.0,4,1919,
-336,Ejerlejlighed,Skansevej 2A,4673, Rødvig Stevns,1500000 ,17-03-2020,Alm. Salg,171,8772.0,5,1919,
 336,Villa,Valløby Bygade 15A,4600, Køge,2235000 ,17-03-2020,Alm. Salg,148,15101.0,5,1845,-3%
 336,Rækkehus,Druelundsvej 8A,4660, Store Heddinge,795000 ,16-03-2020,Alm. Salg,58,13707.0,2,1973,
 336,Villa,Østgade 13,4652, Hårlev,1500000 ,14-03-2020,Alm. Salg,158,9494.0,4,1986,
@@ -1345,7 +1337,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 336,Villa,Ved Bækken 10,4660, Store Heddinge,1195000 ,19-11-2019,Alm. Salg,118,10127.0,4,1900,
 336,Villa,Møllevænget 3,4660, Store Heddinge,904000 ,17-11-2019,Fam. Salg,111,8144.0,3,1972,
 336,Villa,Holtug Strandvej 32,4660, Store Heddinge,700000 ,16-11-2019,Alm. Salg,116,6034.0,6,1949,
-336,Villa,Kæret 5,4671, Strøby,2195000 ,16-11-2019,Alm. Salg,264,8314.0,7,2018,
 336,Villa,Hestehaven 12,4652, Hårlev,1870000 ,14-11-2019,Alm. Salg,208,8990.0,7,1850,-1%
 336,Rækkehus,Abildvænget 18,4652, Hårlev,2375000 ,13-11-2019,Alm. Salg,116,20474.0,4,2020,
 336,Villa,Klippingevej 17,4671, Strøby,1000000 ,13-11-2019,Alm. Salg,118,8475.0,4,1946,
@@ -1380,7 +1371,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 336,Villa,Bakkegårdsvej 10,4600, Køge,3650000 ,13-10-2019,Alm. Salg,228,16009.0,7,1978,-1%
 336,Villa,Rødtjørneparken 2,4660, Store Heddinge,795000 ,13-10-2019,Alm. Salg,79,10063.0,2,1902,
 336,Villa,Diget 20,4652, Hårlev,2090000 ,10-10-2019,Alm. Salg,173,12081.0,5,1973,-4%
-336,Villa,Kæret 5,4671, Strøby,2195000 ,10-10-2019,Alm. Salg,264,8314.0,7,2018,
 336,Villa,Lund Gade 24,4673, Rødvig Stevns,695000 ,09-10-2019,Alm. Salg,100,6950.0,3,1887,
 336,Villa,Åvangsvej 10,4600, Køge,1530000 ,09-10-2019,Fam. Salg,167,9162.0,6,1971,
 336,Rækkehus,Abildvænget 22,4652, Hårlev,2375000 ,08-10-2019,Alm. Salg,116,20474.0,4,2020,
@@ -1393,7 +1383,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 336,Rækkehus,Kronhøjvej 2B,4660, Store Heddinge,900000 ,03-10-2019,Alm. Salg,88,10227.0,3,1982,-5%
 336,Villa,Østervej 22,4673, Rødvig Stevns,1095000 ,03-10-2019,Alm. Salg,126,8690.0,6,1962,-8%
 336,Villa,Bjælkerupvej 128,4660, Store Heddinge,535000 ,03-10-2019,Alm. Salg,53,10094.0,2,1938,
-336,Villa,Thorsvænge 46,4673, Rødvig Stevns,240000 ,03-10-2019,Alm. Salg,153,1569.0,5,2020,
 336,Villa,Maglehøjvej 30B,4652, Hårlev,1550000 ,02-10-2019,Alm. Salg,185,8378.0,7,1971,-5%
 336,Villa,Søvej 10,4673, Rødvig Stevns,2295000 ,01-10-2019,Alm. Salg,164,13994.0,4,1929,
 336,Villa,Hanekjær 16,4660, Store Heddinge,1475000 ,30-09-2019,Alm. Salg,123,11992.0,4,1969,-1%
@@ -2070,9 +2059,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 336,Villa,Stevnsvej 76,4600, Køge,816000 ,29-01-2018,Alm. Salg,124,6581.0,4,1907,-64%
 336,Villa,Faxevej 6A,4652, Hårlev,100000 ,28-01-2018,Fam. Salg,69,1449.0,3,1898,
 336,Villa,Brinken 32,4600, Køge,1550000 ,25-01-2018,Alm. Salg,85,18235.0,4,1967,-7%
-336,Ejerlejlighed,"Algade 34, 1",4660, Store Heddinge,355000 ,23-01-2018,Alm. Salg,106,3349.0,3,1870,
 336,Villa,Acacievej 49,4600, Køge,3450000 ,23-01-2018,Alm. Salg,189,18254.0,6,1971,-1%
-336,Villa,Algade 34A,4660, Store Heddinge,355000 ,23-01-2018,Alm. Salg,180,1972.0,5,1870,
 336,Villa,Sigerslevvej 91,4660, Store Heddinge,560000 ,21-01-2018,Alm. Salg,81,6914.0,4,1966,
 336,Rækkehus,Nordmarken 14,4652, Hårlev,1495000 ,16-01-2018,Alm. Salg,90,16611.0,3,2007,
 336,Villa,Hybenhøjvej 1,4660, Store Heddinge,223000 ,15-01-2018,Auktion,154,1448.0,7,1880,-50%
@@ -2521,8 +2508,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 336,Villa,Trekronervej 33,4600, Køge,2950000 ,12-01-2017,Alm. Salg,151,19536.0,5,1933,-2%
 336,Villa,Vindspinderivej 14,4671, Strøby,1895000 ,11-01-2017,Alm. Salg,178,10646.0,6,1968,
 336,Rækkehus,Solsiden 21,4600, Køge,1830000 ,07-01-2017,Alm. Salg,96,19063.0,3,1990,-1%
-336,Rækkehus,Agersøvej 72,4652, Hårlev,1075000 ,07-01-2017,Alm. Salg,80,13438.0,3,2005,
-336,Villa,Guldvænget 3,4652, Hårlev,1075000 ,07-01-2017,Alm. Salg,111,9685.0,4,1978,-10%
 336,Villa,Overdrevsvej 5,4660, Store Heddinge,525000 ,05-01-2017,Alm. Salg,80,6563.0,4,1968,-5%
 336,Villa,Nygade 15,4672, Klippinge,795000 ,05-01-2017,Alm. Salg,106,7500.0,3,1950,
 336,Villa,Nicolinevej 15,4600, Køge,3195000 ,04-01-2017,Alm. Salg,144,22188.0,5,2016,
@@ -3037,7 +3022,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 336,Villa,Maglehøjvej 31,4652, Hårlev,895000 ,21-09-2015,Auktion,126,7103.0,3,1913,
 336,Villa,Dortheavej 12,4660, Store Heddinge,1460000 ,14-09-2015,Auktion,146,10000.0,6,2009,-21%
 336,Rækkehus,Munkehaven 3,4660, Store Heddinge,575000 ,13-09-2015,Fam. Salg,55,10455.0,2,1990,
-336,Villa,Lundevej 40,4652, Hårlev,2850000 ,13-09-2015,Alm. Salg,325,8769.0,8,1898,-5%
 336,Villa,Åstræde 6,4600, Køge,2500000 ,13-09-2015,Alm. Salg,215,11628.0,6,1987,-4%
 336,Villa,Kystvejen 4,4600, Køge,4600000 ,13-09-2015,Alm. Salg,254,18110.0,6,1930,-8%
 336,Villa,Nicolinevej 23,4600, Køge,875000 ,13-09-2015,Alm. Salg,154,5682.0,4,2017,
@@ -3234,7 +3218,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 336,Ejerlejlighed,Kirkevænget 8,4672, Klippinge,1090000 ,08-03-2015,Fam. Salg,127,8583.0,4,1900,
 336,Villa,Holtug Strandvej 40,4660, Store Heddinge,500000 ,06-03-2015,Alm. Salg,235,2128.0,9,1914,
 336,Rækkehus,Solsiden 19,4600, Køge,1461000 ,05-03-2015,Alm. Salg,100,14610.0,3,1990,
-336,Villa,Hovedgaden 36,4652, Hårlev,700000 ,05-03-2015,Alm. Salg,133,5263.0,4,1905,
 336,Villa,Brinken 9,4600, Køge,935000 ,02-03-2015,Fam. Salg,176,5313.0,6,1966,
 336,Villa,Egelundsvej 40,4600, Køge,2050000 ,28-02-2015,Alm. Salg,160,12813.0,5,1966,-2%
 336,Villa,Lilleager 5,4673, Rødvig Stevns,1070000 ,27-02-2015,Alm. Salg,111,9640.0,4,1974,-2%
@@ -3813,8 +3796,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 336,Villa,Nørregade 15,4660, Store Heddinge,450000 ,14-01-2013,Alm. Salg,250,1800.0,7,1858,-25%
 336,Villa,Hårlevvejen 4,4652, Hårlev,1080949 ,07-01-2013,Fam. Salg,128,8445.0,4,1967,
 336,Villa,Gåsemurevej 4,4600, Køge,870000 ,03-01-2013,Alm. Salg,166,5241.0,5,2016,-3%
-336,Ejerlejlighed,"Tommestrupvej 28, 1",4660, Store Heddinge,490000 ,02-01-2013,Auktion,80,6125.0,3,1927,
-336,Villa,"Tommestrupvej 28, st",4660, Store Heddinge,490000 ,02-01-2013,Auktion,116,4224.0,4,1927,
 336,Villa,Vesterbro 19,4660, Store Heddinge,2271000 ,30-12-2012,Alm. Salg,107,21224.0,5,1915,
 336,Villa,Møllevænget 16,4660, Store Heddinge,770000 ,26-12-2012,Alm. Salg,115,6696.0,3,1972,-23%
 336,Villa,Tommestrupvej 8,4660, Store Heddinge,1050000 ,19-12-2012,Alm. Salg,80,13125.0,4,1777,
@@ -3831,7 +3812,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 336,Villa,Hjulmagervej 2,4660, Store Heddinge,1053208 ,11-12-2012,Alm. Salg,148,7116.0,5,1999,
 336,Villa,Bovangen 33,4660, Store Heddinge,1750000 ,11-12-2012,Alm. Salg,145,12069.0,4,1999,-3%
 336,Villa,Strøby Bygade 23,4671, Strøby,1550000 ,10-12-2012,Alm. Salg,171,9064.0,6,1850,
-336,Rækkehus,Rødvig Hovedgade 15. 11,4673, Rødvig Stevns,10000 ,05-12-2012,Auktion,48,208.0,2,1962,
 336,Villa,Rødvig Hovedgade 32,4673, Rødvig Stevns,1695000 ,03-12-2012,Alm. Salg,180,9417.0,5,1844,
 336,Villa,Nymøllevej 7,4652, Hårlev,595000 ,30-11-2012,Alm. Salg,92,6467.0,3,1961,
 336,Rækkehus,Toftevangen 14,4672, Klippinge,1245000 ,25-11-2012,Alm. Salg,97,12835.0,5,2012,
@@ -4456,8 +4436,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 336,Villa,Kroghsvej 2,4660, Store Heddinge,600000 ,19-07-2010,Auktion,110,5455.0,4,1959,
 336,Villa,Møllegårdsvej 2,4660, Store Heddinge,1250000 ,19-07-2010,Alm. Salg,250,5000.0,7,1880,-10%
 336,Villa,Strøby Bygade 16,4671, Strøby,1820000 ,12-07-2010,Auktion,263,6920.0,6,1960,
-336,Rækkehus,Rengegade 3,4660, Store Heddinge,1100000 ,11-07-2010,Alm. Salg,137,6145.0,5,1900,
-336,Villa,Byenden 5,4660, Store Heddinge,1100000 ,11-07-2010,Alm. Salg,130,8462.0,3,1827,-15%
 336,Villa,Varpelev Bygade 28,4652, Hårlev,1325000 ,11-07-2010,Alm. Salg,101,13119.0,4,1966,
 336,Villa,Smutvej 1,4671, Strøby,915000 ,11-07-2010,Alm. Salg,121,7562.0,3,1780,-8%
 336,Villa,Blåklokkevej 29,4600, Køge,1050118 ,11-07-2010,Alm. Salg,224,4688.0,6,2012,
@@ -4635,9 +4613,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 336,Rækkehus,Strandlunden 19,4600, Køge,2100000 ,21-11-2009,Alm. Salg,147,14286.0,5,2009,-7%
 336,Villa,Frøslevvej 10,4660, Store Heddinge,795000 ,19-11-2009,Auktion,172,4622.0,5,1912,
 336,Rækkehus,Rengegade 17,4660, Store Heddinge,370000 ,12-11-2009,Auktion,118,3136.0,4,1857,
-336,Ejerlejlighed,Rødvig Hovedgade 23,4673, Rødvig Stevns,1200000 ,12-11-2009,Auktion,88,13636.0,3,1919,
-336,Ejerlejlighed,Skansevej 2,4673, Rødvig Stevns,1200000 ,12-11-2009,Auktion,129,9302.0,4,1919,
-336,Ejerlejlighed,Skansevej 2A,4673, Rødvig Stevns,1200000 ,12-11-2009,Auktion,171,7018.0,5,1919,
 336,Villa,Rengegade 28,4660, Store Heddinge,495000 ,12-11-2009,Auktion,182,2720.0,5,1877,
 336,Villa,Holtug Bygade 6,4660, Store Heddinge,1195000 ,12-11-2009,Alm. Salg,131,9122.0,4,1931,
 336,Villa,Nederste Linievej 26,4671, Strøby,975000 ,12-11-2009,Auktion,80,12188.0,4,1893,
@@ -4775,7 +4750,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 336,Villa,Digevangen 16,4660, Store Heddinge,1550000 ,19-04-2009,Alm. Salg,150,10333.0,4,1977,-9%
 336,Rækkehus,Bredgade 3,4652, Hårlev,1040000 ,16-04-2009,Alm. Salg,83,12530.0,3,1984,-5%
 336,Villa,Brinken 32,4600, Køge,1285000 ,16-04-2009,Alm. Salg,85,15118.0,4,1967,
-336,Villa,Thorsvænge 239,4673, Rødvig Stevns,267500 ,16-04-2009,Auktion,134,1996.0,4,2022,-6%
 336,Villa,Hårlevvejen 4,4652, Hårlev,1100000 ,15-04-2009,Alm. Salg,128,8594.0,4,1967,
 336,Rækkehus,Solbakkevej 28,4652, Hårlev,1025000 ,14-04-2009,Alm. Salg,83,12349.0,3,1984,
 336,Rækkehus,Egedalen 28,4600, Køge,1495000 ,14-04-2009,Alm. Salg,125,11960.0,4,2009,
@@ -4906,7 +4880,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 336,Villa,Nymøllevej 20,4652, Hårlev,1450000 ,04-09-2008,Fam. Salg,86,16860.0,3,1961,
 336,Rækkehus,Thorsvænge 101B,4673, Rødvig Stevns,485000 ,02-09-2008,Alm. Salg,108,4491.0,4,2014,
 336,Villa,Thorsvænge 89,4673, Rødvig Stevns,450000 ,02-09-2008,Alm. Salg,124,3629.0,4,2010,
-336,Villa,Thorsvænge 79,4673, Rødvig Stevns,441250 ,02-09-2008,Alm. Salg,154,2865.0,5,2019,
 336,Villa,Thorsvænge 105,4673, Rødvig Stevns,446750 ,02-09-2008,Alm. Salg,155,2882.0,6,2021,
 336,Villa,Thorsvænge 81,4673, Rødvig Stevns,434000 ,02-09-2008,Alm. Salg,140,3100.0,4,2014,
 336,Villa,Acacievej 72,4600, Køge,2100000 ,01-09-2008,Alm. Salg,130,16154.0,4,1975,-8%
@@ -5429,7 +5402,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 336,Villa,Acacievej 32,4600, Køge,4195000 ,03-04-2007,Alm. Salg,199,21080.0,5,1998,
 336,Villa,Thorsvænge 60,4673, Rødvig Stevns,450000 ,03-04-2007,Alm. Salg,200,2250.0,5,2019,
 336,Ejerlejlighed,"Egestræde 11C, 1. tv",4660, Store Heddinge,1130000 ,02-04-2007,Alm. Salg,69,16377.0,3,1909,3%
-336,Villa,Thorsvænge 82,4673, Rødvig Stevns,475000 ,02-04-2007,Alm. Salg,172,2762.0,6,2009,
 336,Villa,Thorsvænge 94,4673, Rødvig Stevns,451000 ,02-04-2007,Alm. Salg,210,2148.0,7,0,
 336,Villa,Thorsvænge 265,4673, Rødvig Stevns,449625 ,02-04-2007,Alm. Salg,244,1843.0,8,2018,
 336,Villa,Thorsvænge 84,4673, Rødvig Stevns,471250 ,02-04-2007,Alm. Salg,158,2983.0,3,2015,
@@ -5649,7 +5621,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 336,Villa,Messingvænget 1,4652, Hårlev,2275000 ,09-08-2006,Alm. Salg,157,14490.0,4,1976,
 336,Villa,Thorsvænge 52,4673, Rødvig Stevns,500000 ,09-08-2006,Alm. Salg,153,3268.0,5,2020,
 336,Villa,Højerupvej 35,4660, Store Heddinge,1185000 ,08-08-2006,Alm. Salg,130,9115.0,4,1900,
-336,Ejerlejlighed,Skansevej 2A,4673, Rødvig Stevns,2950000 ,07-08-2006,Alm. Salg,171,17251.0,5,1919,
 336,Ejerlejlighed,"Vestergade 6, 1. tv",4660, Store Heddinge,660000 ,05-08-2006,Fam. Salg,66,10000.0,2,1970,
 336,Villa,Ved Bækken 1,4660, Store Heddinge,1232500 ,02-08-2006,Fam. Salg,69,17862.0,2,1865,
 336,Villa,Genvej 2,4652, Hårlev,1895000 ,30-07-2006,Alm. Salg,202,9381.0,8,1900,
@@ -5808,9 +5779,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 336,Rækkehus,Solsiden 19,4600, Køge,1068827 ,09-04-2006,Alm. Salg,100,10688.0,3,1990,
 336,Villa,Rødvigvej 5,4660, Store Heddinge,1200000 ,06-04-2006,Alm. Salg,160,7500.0,4,1927,
 336,Villa,Venøvej 6,4652, Hårlev,550000 ,06-04-2006,Alm. Salg,180,3056.0,7,2007,
-336,Ejerlejlighed,"Algade 34, 1",4660, Store Heddinge,850000 ,04-04-2006,Alm. Salg,106,8019.0,3,1870,
 336,Villa,Hørvænget 9,4660, Store Heddinge,2295000 ,04-04-2006,Alm. Salg,131,17519.0,5,2001,
-336,Villa,Algade 34A,4660, Store Heddinge,850000 ,04-04-2006,Alm. Salg,180,4722.0,5,1870,
 336,Villa,Nørregade 8,4660, Store Heddinge,1200000 ,04-04-2006,Alm. Salg,89,13483.0,4,1850,
 336,Villa,Møllemarken 1,4600, Køge,2000000 ,03-04-2006,Fam. Salg,146,11429.0,4,1963,
 336,Villa,Tomsgårdsvej 4,4672, Klippinge,2800000 ,03-04-2006,Alm. Salg,140,20000.0,3,1964,
@@ -6699,8 +6668,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 336,Villa,Nymøllevej 16,4652, Hårlev,1000000 ,12-07-2004,Alm. Salg,80,12500.0,3,1959,
 336,Villa,Gammel Køgevej 3,4672, Klippinge,1195000 ,10-07-2004,Alm. Salg,110,10864.0,4,1953,
 336,Villa,Havnevej 1,4673, Rødvig Stevns,634000 ,08-07-2004,Alm. Salg,88,7205.0,4,1975,
-336,Ejerlejlighed,Skansevej 2,4673, Rødvig Stevns,2650000 ,07-07-2004,Andet,129,20543.0,4,1919,
-336,Ejerlejlighed,Skansevej 2A,4673, Rødvig Stevns,2650000 ,07-07-2004,Andet,171,15497.0,5,1919,
 336,Villa,Bovangen 21,4660, Store Heddinge,1240000 ,07-07-2004,Alm. Salg,122,10164.0,4,1988,
 336,Villa,Bjælkerupvej 89,4660, Store Heddinge,458873 ,07-07-2004,Alm. Salg,128,3585.0,5,1917,
 336,Villa,Chr. Richtersgade 8,4660, Store Heddinge,800000 ,04-07-2004,Alm. Salg,140,5714.0,5,1911,
@@ -6940,8 +6907,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 336,Villa,Boestoftevej 77A,4660, Store Heddinge,1200000 ,07-12-2003,Alm. Salg,211,5687.0,6,1975,
 336,Villa,Rosenvangen 27,4660, Store Heddinge,241083 ,07-12-2003,Alm. Salg,135,1786.0,5,2005,
 336,Villa,Sønderbjerg 2,4600, Køge,550000 ,05-12-2003,Alm. Salg,127,4331.0,5,2004,
-336,Ejerlejlighed,Skansevej 2,4673, Rødvig Stevns,2646750 ,04-12-2003,Alm. Salg,129,20517.0,4,1919,
-336,Ejerlejlighed,Skansevej 2A,4673, Rødvig Stevns,2646750 ,04-12-2003,Alm. Salg,171,15478.0,5,1919,
 336,Rækkehus,Nørregade 14,4660, Store Heddinge,1150000 ,03-12-2003,Alm. Salg,140,8214.0,7,1900,
 336,Villa,Bjergagervej 9,4652, Hårlev,1120000 ,03-12-2003,Alm. Salg,95,11789.0,4,1960,
 336,Rækkehus,Bakkevej 7A,4673, Rødvig Stevns,950000 ,01-12-2003,Alm. Salg,80,11875.0,3,1985,
@@ -7337,7 +7302,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 336,Villa,Rosenvangen 31,4660, Store Heddinge,278251 ,12-01-2003,Alm. Salg,134,2077.0,5,2005,
 336,Villa,Vognmandsmarken 3,4673, Rødvig Stevns,1400000 ,09-01-2003,Alm. Salg,173,8092.0,7,1970,
 336,Villa,Nygade 7,4672, Klippinge,568750 ,08-01-2003,Alm. Salg,104,5469.0,4,1948,
-336,Rækkehus,Vestergade 2A,4660, Store Heddinge,1268000 ,06-01-2003,Alm. Salg,70,18114.0,2,1877,
 336,Villa,Maglehøjvej 17,4652, Hårlev,1615840 ,06-01-2003,Alm. Salg,181,8927.0,6,1869,
 336,Villa,Brinken 15,4600, Køge,1875000 ,05-01-2003,Alm. Salg,150,12500.0,4,1972,
 336,Villa,Egelundsvej 30,4600, Køge,1750000 ,05-01-2003,Alm. Salg,163,10736.0,4,1972,
@@ -7707,9 +7671,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 336,Villa,Arnøje Bygade 7,4660, Store Heddinge,875000 ,27-01-2002,Alm. Salg,84,10417.0,4,1940,
 336,Villa,Hestehaven 13,4652, Hårlev,256299 ,27-01-2002,Alm. Salg,99,2589.0,4,1850,
 336,Villa,Nygade 17,4672, Klippinge,1340823 ,23-01-2002,Alm. Salg,159,8433.0,5,1950,
-336,Ejerlejlighed,Rødvig Hovedgade 23,4673, Rødvig Stevns,1598649 ,21-01-2002,Alm. Salg,88,18166.0,3,1919,
-336,Ejerlejlighed,Skansevej 2,4673, Rødvig Stevns,1598649 ,21-01-2002,Alm. Salg,129,12393.0,4,1919,
-336,Ejerlejlighed,Skansevej 2A,4673, Rødvig Stevns,1598649 ,21-01-2002,Alm. Salg,171,9349.0,5,1919,
 336,Villa,Pilevej 1,4672, Klippinge,165000 ,21-01-2002,Alm. Salg,64,2578.0,4,1850,
 336,Villa,Skrosbjergvej 21,4682, Tureby,725000 ,21-01-2002,Alm. Salg,80,9063.0,4,1960,
 336,Villa,Skovvejen 48,4660, Store Heddinge,1071571 ,21-01-2002,Alm. Salg,103,10404.0,4,1857,
@@ -8120,8 +8081,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 336,Villa,Højerupvej 21,4660, Store Heddinge,1595000 ,18-01-2001,Alm. Salg,169,9438.0,5,1897,
 336,Villa,Rosenvangen 21,4660, Store Heddinge,278049 ,18-01-2001,Alm. Salg,120,2317.0,4,2001,
 336,Villa,Bakkehældet 41,4600, Køge,1020000 ,17-01-2001,Alm. Salg,116,8793.0,4,1970,
-336,Ejerlejlighed,"Algade 34, 1",4660, Store Heddinge,575000 ,16-01-2001,Alm. Salg,106,5425.0,3,1870,
-336,Villa,Algade 34A,4660, Store Heddinge,575000 ,16-01-2001,Alm. Salg,180,3194.0,5,1870,
 336,Villa,Solbakkevej 10,4652, Hårlev,999760 ,16-01-2001,Alm. Salg,140,7141.0,3,1949,
 336,Villa,Vinkelvej 8,4673, Rødvig Stevns,1200000 ,14-01-2001,Alm. Salg,129,9302.0,5,1951,
 336,Villa,Stålvænget 6,4652, Hårlev,1317060 ,11-01-2001,Alm. Salg,189,6969.0,6,1978,
@@ -8191,8 +8150,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 336,Villa,Topasvej 11,4600, Køge,2800000 ,09-11-2000,Alm. Salg,243,11523.0,6,1999,
 336,Villa,Strøby Bygade 36B,4671, Strøby,250000 ,08-11-2000,Alm. Salg,172,1453.0,6,2001,
 336,Villa,Årøvej 10,4652, Hårlev,465375 ,07-11-2000,Alm. Salg,244,1907.0,7,2001,
-336,Rækkehus,Algade 1D,4660, Store Heddinge,1525000 ,06-11-2000,Alm. Salg,111,13739.0,3,1904,
-336,Rækkehus,Vestergade 2A,4660, Store Heddinge,1225000 ,06-11-2000,Alm. Salg,70,17500.0,2,1877,
 336,Ejerlejlighed,Bygaden 39E,4652, Hårlev,1051941 ,06-11-2000,Alm. Salg,131,8030.0,4,1887,
 336,Villa,Bjælkerupvej 98C,4660, Store Heddinge,225000 ,05-11-2000,Alm. Salg,181,1243.0,5,2001,
 336,Villa,Bjælkerupvej 98C,4660, Store Heddinge,1332655 ,01-11-2000,Andet,181,7363.0,5,2001,
@@ -8396,9 +8353,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 336,Villa,Bakkegårdsvej 5,4600, Køge,1260000 ,24-05-2000,Alm. Salg,136,9265.0,4,1971,
 336,Villa,Rosenvænget 16,4652, Hårlev,924662 ,24-05-2000,Alm. Salg,88,10508.0,3,1966,
 336,Villa,Tornebjergvej 25,4673, Rødvig Stevns,295000 ,24-05-2000,Alm. Salg,216,1366.0,5,1900,
-336,Ejerlejlighed,"Algade 34, 1",4660, Store Heddinge,350000 ,23-05-2000,Alm. Salg,106,3302.0,3,1870,
 336,Villa,Nordre Klintevej 16,4673, Rødvig Stevns,783000 ,23-05-2000,Alm. Salg,100,7830.0,3,1958,
-336,Villa,Algade 34A,4660, Store Heddinge,350000 ,23-05-2000,Alm. Salg,180,1944.0,5,1870,
 336,Villa,Bjergagervej 9,4652, Hårlev,1097672 ,23-05-2000,Alm. Salg,95,11554.0,4,1960,
 336,Villa,Nederste Linievej 20,4671, Strøby,630000 ,22-05-2000,Alm. Salg,84,7500.0,4,1897,
 336,Rækkehus,Tofteleddet 18B,4672, Klippinge,810000 ,21-05-2000,Alm. Salg,99,8182.0,4,1987,
@@ -8455,8 +8410,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 336,Villa,Stølgårdsvej 7,4671, Strøby,280000 ,13-04-2000,Alm. Salg,123,2276.0,4,2014,
 336,Villa,Tværvej 1,4672, Klippinge,678140 ,13-04-2000,Alm. Salg,70,9688.0,4,1924,
 336,Villa,Dalen 31,4652, Hårlev,1177440 ,13-04-2000,Alm. Salg,158,7452.0,5,1972,
-336,Rækkehus,Algade 1D,4660, Store Heddinge,1550000 ,11-04-2000,Alm. Salg,111,13964.0,3,1904,
-336,Rækkehus,Vestergade 2A,4660, Store Heddinge,1200000 ,11-04-2000,Alm. Salg,70,17143.0,2,1877,
 336,Villa,Engvangsvej 27,4600, Køge,1588060 ,11-04-2000,Alm. Salg,137,11592.0,5,1970,
 336,Villa,Byenden 26,4660, Store Heddinge,521360 ,10-04-2000,Alm. Salg,183,2849.0,7,1920,
 336,Villa,Spurvevej 4,4652, Hårlev,216000 ,10-04-2000,Alm. Salg,161,1342.0,5,2001,
@@ -8601,9 +8554,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 336,Rækkehus,Engvangsvej 114A,4600, Køge,970000 ,25-11-1999,Alm. Salg,82,11829.0,3,1983,
 336,Villa,Fruegade 5,4660, Store Heddinge,723332 ,24-11-1999,Alm. Salg,135,5358.0,5,1931,
 336,Villa,Møllevænget 1A,4660, Store Heddinge,945000 ,23-11-1999,Alm. Salg,111,8514.0,4,1972,
-336,Ejerlejlighed,Rødvig Hovedgade 23,4673, Rødvig Stevns,700000 ,21-11-1999,Alm. Salg,88,7955.0,3,1919,
-336,Ejerlejlighed,Skansevej 2,4673, Rødvig Stevns,700000 ,21-11-1999,Alm. Salg,129,5426.0,4,1919,
-336,Ejerlejlighed,Skansevej 2A,4673, Rødvig Stevns,700000 ,21-11-1999,Alm. Salg,171,4094.0,5,1919,
 336,Villa,Himlingøjevej 9,4652, Hårlev,902360 ,21-11-1999,Alm. Salg,87,10372.0,4,1960,
 336,Villa,Kærvej 27,4652, Hårlev,957000 ,20-11-1999,Alm. Salg,100,9570.0,5,1827,
 336,Villa,Lejerstoftevej 5,4660, Store Heddinge,1351980 ,19-11-1999,Alm. Salg,172,7860.0,5,1861,
@@ -9432,7 +9382,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 336,Villa,Køgevej 46,4652, Hårlev,671000 ,08-01-1998,Alm. Salg,165,4067.0,7,1925,
 336,Villa,Acacievej 32,4600, Køge,380000 ,07-01-1998,Alm. Salg,199,1910.0,5,1998,
 336,Villa,Nørregade 8,4660, Store Heddinge,180000 ,07-01-1998,Alm. Salg,89,2022.0,4,1850,
-336,Villa,Lundevej 40,4652, Hårlev,1588500 ,06-01-1998,Alm. Salg,325,4888.0,8,1898,
 336,Villa,Stevnsvej 74,4600, Køge,1509262 ,05-01-1998,Alm. Salg,157,6955.0,5,1907,
 336,Villa,Gevnø Gade 29,4660, Store Heddinge,428000 ,04-01-1998,Alm. Salg,160,2675.0,7,1886,
 336,Villa,Stevnsvej 4,4600, Køge,983000 ,02-01-1998,Alm. Salg,153,6425.0,5,2003,
@@ -9659,7 +9608,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 336,Villa,Brinken 17,4600, Køge,257023 ,06-07-1997,Andet,222,1158.0,8,2008,
 336,Villa,Vestergade 23,4660, Store Heddinge,285000 ,06-07-1997,Alm. Salg,75,3800.0,4,1875,
 336,Villa,Skørengen Vest 23,4660, Store Heddinge,547500 ,04-07-1997,Alm. Salg,87,6293.0,4,1931,
-336,Rækkehus,Vestergade 2A,4660, Store Heddinge,959000 ,03-07-1997,Alm. Salg,70,13700.0,2,1877,
 336,Villa,Ærtebjergvej 34,4673, Rødvig Stevns,678500 ,03-07-1997,Alm. Salg,133,5102.0,6,1840,
 336,Villa,Dalen 2A,4652, Hårlev,972200 ,02-07-1997,Alm. Salg,163,5964.0,5,1972,
 336,Villa,Skovmarksvej 14,4672, Klippinge,654850 ,01-07-1997,Alm. Salg,74,8849.0,4,1914,
@@ -9694,7 +9642,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 336,Villa,Trekronervej 33,4600, Køge,900000 ,10-06-1997,Alm. Salg,151,5960.0,5,1933,
 336,Villa,Seinhuusvej 16,4672, Klippinge,2650000 ,10-06-1997,Alm. Salg,235,11277.0,8,1878,
 336,Villa,Hellestedvej 12,4660, Store Heddinge,1230000 ,09-06-1997,Alm. Salg,232,5302.0,8,1910,
-336,Rækkehus,Algade 1D,4660, Store Heddinge,1188000 ,08-06-1997,Alm. Salg,111,10703.0,3,1904,
 336,Rækkehus,Askøvej 4,4652, Hårlev,917220 ,08-06-1997,Alm. Salg,123,7457.0,4,1986,
 336,Villa,Overdrevsvej 12,4660, Store Heddinge,870000 ,08-06-1997,Alm. Salg,163,5337.0,9,1960,
 336,Villa,Borgergade 25,4672, Klippinge,408000 ,08-06-1997,Fam. Salg,97,4206.0,3,1877,
@@ -9722,7 +9669,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 336,Villa,Engdraget 6,4600, Køge,1431397 ,27-05-1997,Alm. Salg,168,8520.0,5,1973,
 336,Villa,Kirkebjergvej 20,4673, Rødvig Stevns,797000 ,27-05-1997,Alm. Salg,132,6038.0,5,1971,
 336,Villa,Vandværksvænget 2,4672, Klippinge,380000 ,27-05-1997,Alm. Salg,95,4000.0,3,1900,
-336,Villa,Vestergade 8A,4660, Store Heddinge,710510 ,27-05-1997,Alm. Salg,32,22203.0,1,1980,
 336,Villa,Seinhuusvej 15,4672, Klippinge,850000 ,26-05-1997,Alm. Salg,182,4670.0,4,1806,
 336,Villa,Gammel Køgevej 14,4672, Klippinge,563000 ,26-05-1997,Alm. Salg,124,4540.0,4,1906,
 336,Villa,Åvangsvej 6,4600, Køge,592341 ,26-05-1997,Fam. Salg,190,3118.0,5,1973,
@@ -9977,8 +9923,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 336,Villa,Stevnsvej 85,4600, Køge,1211970 ,05-10-1996,Alm. Salg,158,7671.0,4,1975,
 336,Rækkehus,Heden 6A,4652, Hårlev,768500 ,02-10-1996,Alm. Salg,108,7116.0,4,1985,
 336,Rækkehus,Tofteleddet 4B,4672, Klippinge,622000 ,02-10-1996,Alm. Salg,94,6617.0,4,1989,
-336,Ejerlejlighed,"Algade 34, 1",4660, Store Heddinge,299680 ,02-10-1996,Alm. Salg,106,2827.0,3,1870,
-336,Villa,Algade 34A,4660, Store Heddinge,299680 ,02-10-1996,Alm. Salg,180,1665.0,5,1870,
 336,Villa,Strøby Bygade 38A,4671, Strøby,400000 ,01-10-1996,Alm. Salg,190,1818.0,6,1890,
 336,Villa,Opalvej 16,4600, Køge,204750 ,30-09-1996,Alm. Salg,155,1321.0,4,1997,
 336,Villa,Birkevej 7,4600, Køge,890415 ,30-09-1996,Alm. Salg,131,6797.0,4,1964,
@@ -10030,9 +9974,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 336,Villa,Strøbylille 13,4671, Strøby,605000 ,29-08-1996,Alm. Salg,103,5874.0,4,1923,
 336,Villa,Gammel Klintevej 13,4660, Store Heddinge,634000 ,28-08-1996,Alm. Salg,122,5197.0,6,1916,
 336,Villa,Borgergade 10C,4672, Klippinge,416000 ,26-08-1996,Fam. Salg,111,3748.0,4,1973,
-336,Ejerlejlighed,"Algade 34, 1",4660, Store Heddinge,80000 ,25-08-1996,Auktion,106,755.0,3,1870,
 336,Villa,Gammel Klintevej 9,4660, Store Heddinge,635000 ,25-08-1996,Alm. Salg,190,3342.0,5,1908,
-336,Villa,Algade 34A,4660, Store Heddinge,80000 ,25-08-1996,Auktion,180,444.0,5,1870,
 336,Villa,Højerup Bygade 25,4660, Store Heddinge,1113920 ,22-08-1996,Alm. Salg,195,5712.0,5,1900,
 336,Rækkehus,Egevej 30A,4652, Hårlev,695000 ,21-08-1996,Alm. Salg,103,6748.0,4,1986,
 336,Villa,Rødvig Strandvej 5,4673, Rødvig Stevns,350000 ,21-08-1996,Alm. Salg,87,4023.0,5,1917,
@@ -10229,7 +10171,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 336,Villa,Kærvangen 16,4652, Hårlev,671000 ,13-03-1996,Alm. Salg,162,4142.0,5,1974,
 336,Villa,Kirkeskovvej 13,4660, Store Heddinge,795000 ,12-03-1996,Alm. Salg,139,5719.0,5,1866,
 336,Villa,Holmen 3,4672, Klippinge,436000 ,12-03-1996,Alm. Salg,86,5070.0,3,1877,
-336,Rækkehus,Vestergade 2A,4660, Store Heddinge,815000 ,07-03-1996,Alm. Salg,70,11643.0,2,1877,
 336,Villa,Bødkervej 6,4660, Store Heddinge,861735 ,06-03-1996,Andet,170,4584.0,7,1989,
 336,Villa,Skovvangsvej 67,4600, Køge,620000 ,05-03-1996,Alm. Salg,164,3780.0,6,1965,
 336,Villa,Hovedgaden 24,4652, Hårlev,566000 ,05-03-1996,Alm. Salg,180,3144.0,6,1904,
@@ -10424,10 +10365,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 336,Villa,Himlingøje Bygade 35,4652, Hårlev,520000 ,03-09-1995,Fam. Salg,125,4160.0,3,1890,
 336,Villa,Frøslev Bygade 15,4660, Store Heddinge,150000 ,03-09-1995,Auktion,137,1095.0,4,1825,
 336,Villa,Vinkelvej 18,4673, Rødvig Stevns,507360 ,03-09-1995,Alm. Salg,131,3873.0,4,1920,
-336,Villa,Kæret 5,4671, Strøby,616251 ,03-09-1995,Fam. Salg,264,2334.0,7,2018,
 336,Villa,Skolevangen 11,4652, Hårlev,531000 ,01-09-1995,Alm. Salg,119,4462.0,4,1967,
-336,Rækkehus,Kirketorvet 3,4660, Store Heddinge,150000 ,31-08-1995,Alm. Salg,110,1364.0,4,1894,
-336,Ejerlejlighed,Vestergade 12B,4660, Store Heddinge,150000 ,31-08-1995,Alm. Salg,166,904.0,3,1850,
 336,Ejerlejlighed,"Kystvejen 252A, 1",4671, Strøby,525000 ,31-08-1995,Alm. Salg,116,4526.0,5,1971,
 336,Villa,Rødvig Strandvej 58,4673, Rødvig Stevns,1069071 ,31-08-1995,Alm. Salg,275,3888.0,9,1900,
 336,Villa,Kærvej 30,4652, Hårlev,424900 ,29-08-1995,Alm. Salg,109,3898.0,3,1946,
@@ -10673,7 +10611,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 336,Villa,Druelundsvej 1,4660, Store Heddinge,725000 ,24-01-1995,Alm. Salg,126,5754.0,4,1973,
 336,Villa,Kongshøjvej 11,4660, Store Heddinge,370000 ,24-01-1995,Alm. Salg,245,1510.0,7,1966,
 336,Villa,Tinvænget 4,4652, Hårlev,833000 ,23-01-1995,Alm. Salg,177,4706.0,6,1977,
-336,Rækkehus,Algade 1D,4660, Store Heddinge,1075000 ,22-01-1995,Alm. Salg,111,9685.0,3,1904,
 336,Villa,Stevnsvej 85,4600, Køge,385000 ,22-01-1995,Andet,158,2437.0,4,1975,
 336,Villa,Birkevænget 6,4672, Klippinge,4427 ,19-01-1995,Alm. Salg,184,24.0,5,1967,
 336,Villa,Birkevej 4,4600, Køge,601460 ,19-01-1995,Alm. Salg,191,3149.0,6,1935,
@@ -10779,7 +10716,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 336,Villa,Skovvangsvej 13,4600, Køge,1145786 ,30-09-1994,Alm. Salg,247,4639.0,9,1965,
 336,Villa,Stevnsvej 14,4600, Køge,425000 ,30-09-1994,Alm. Salg,105,4048.0,4,1916,
 336,Villa,Søndergade 19,4652, Hårlev,490000 ,30-09-1994,Alm. Salg,97,5052.0,4,1966,
-336,Villa,Kæret 5,4671, Strøby,1170000 ,29-09-1994,Auktion,264,4432.0,7,2018,
 336,Rækkehus,Østervej 4A,4673, Rødvig Stevns,415000 ,28-09-1994,Alm. Salg,56,7411.0,2,1982,
 336,Villa,Lilledalsvej 1,4660, Store Heddinge,540242 ,28-09-1994,Alm. Salg,141,3832.0,5,1905,
 336,Villa,Acacievej 25,4600, Køge,995000 ,27-09-1994,Alm. Salg,197,5051.0,4,1970,
@@ -10878,9 +10814,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 336,Villa,Arnøje Bygade 15,4660, Store Heddinge,474000 ,03-07-1994,Alm. Salg,129,3674.0,3,1626,
 336,Villa,Skovkildevej 11,4652, Hårlev,490000 ,03-07-1994,Alm. Salg,238,2059.0,6,1930,
 336,Villa,Guldvænget 5,4652, Hårlev,874440 ,30-06-1994,Alm. Salg,198,4416.0,6,1977,
-336,Ejerlejlighed,"Algade 5, 1. th",4660, Store Heddinge,2025000 ,29-06-1994,Alm. Salg,135,15000.0,5,1877,
-336,Ejerlejlighed,"Algade 5, 1. tv",4660, Store Heddinge,2025000 ,29-06-1994,Alm. Salg,111,18243.0,5,1877,
-336,Ejerlejlighed,"Nytorv 1, 1",4660, Store Heddinge,2025000 ,29-06-1994,Alm. Salg,117,17308.0,5,1877,
 336,Villa,Smedegade 2,4660, Store Heddinge,98250 ,29-06-1994,Alm. Salg,144,682.0,4,1727,
 336,Villa,Digevangen 25,4660, Store Heddinge,801678 ,29-06-1994,Alm. Salg,164,4888.0,5,1979,
 336,Villa,Kroghsvej 2,4660, Store Heddinge,364905 ,28-06-1994,Alm. Salg,110,3317.0,4,1959,
@@ -10957,7 +10890,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 336,Villa,Korsnæbsvej 19,4673, Rødvig Stevns,730000 ,24-04-1994,Fam. Salg,226,3230.0,7,1973,
 336,Villa,Holtug Strandvej 60,4660, Store Heddinge,320000 ,22-04-1994,Alm. Salg,85,3765.0,2,1947,
 336,Villa,Bredgade 16,4652, Hårlev,634000 ,21-04-1994,Alm. Salg,115,5513.0,4,1977,
-336,Villa,Chr. Richtersgade 3A,4660, Store Heddinge,300000 ,21-04-1994,Alm. Salg,62,4839.0,3,1910,
 336,Villa,Tommestrupvej 2,4660, Store Heddinge,494160 ,20-04-1994,Alm. Salg,128,3861.0,3,1880,
 336,Villa,Brinken 3,4600, Køge,210000 ,19-04-1994,Alm. Salg,176,1193.0,5,1997,
 336,Villa,Femøvej 6,4652, Hårlev,194350 ,19-04-1994,Alm. Salg,142,1369.0,5,1994,
@@ -10979,7 +10911,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 336,Villa,Skørpinge Mark 17,4673, Rødvig Stevns,305000 ,28-03-1994,Alm. Salg,63,4841.0,3,1900,
 336,Villa,Fejøvej 16,4652, Hårlev,500000 ,28-03-1994,Alm. Salg,123,4065.0,5,1988,
 336,Villa,Møllehavevej 4,4673, Rødvig Stevns,80000 ,28-03-1994,Alm. Salg,123,650.0,5,1855,
-336,Rækkehus,Vestergade 2A,4660, Store Heddinge,754927 ,27-03-1994,Alm. Salg,70,10785.0,2,1877,
 336,Rækkehus,Skørengen Øst 18,4660, Store Heddinge,490000 ,27-03-1994,Alm. Salg,184,2663.0,5,1983,
 336,Villa,Borgergade 1A,4672, Klippinge,290000 ,27-03-1994,Auktion,169,1716.0,5,1927,
 336,Ejerlejlighed,"Munkehaven 8, st",4660, Store Heddinge,350000 ,25-03-1994,Alm. Salg,72,4861.0,3,1990,
@@ -11314,8 +11245,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 336,Rækkehus,Bjælkerupvej 107B,4660, Store Heddinge,20000 ,08-06-1993,Alm. Salg,84,238.0,3,1994,
 336,Villa,Engvangsvej 15,4600, Køge,310000 ,08-06-1993,Alm. Salg,143,2168.0,3,1975,
 336,Villa,Skørpingevej 45,4673, Rødvig Stevns,750000 ,08-06-1993,Fam. Salg,200,3750.0,5,1861,
-336,Rækkehus,Munkehaven 24,4660, Store Heddinge,440000 ,07-06-1993,Alm. Salg,94,4681.0,4,1990,
-336,Ejerlejlighed,Vestergade 12M,4660, Store Heddinge,440000 ,07-06-1993,Auktion,54,8148.0,2,1850,
 336,Villa,Esagervej 5,4672, Klippinge,247815 ,07-06-1993,Alm. Salg,138,1796.0,2,1882,
 336,Villa,Overdrevsvej 16,4660, Store Heddinge,276000 ,07-06-1993,Alm. Salg,89,3101.0,3,1925,
 336,Villa,Bogøvej 7,4652, Hårlev,745000 ,04-06-1993,Alm. Salg,121,6157.0,4,1987,
@@ -11337,7 +11266,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 336,Villa,Cedervej 8,4600, Køge,700000 ,24-05-1993,Alm. Salg,206,3398.0,8,1974,
 336,Villa,Morbærvej 3,4600, Køge,830000 ,24-05-1993,Alm. Salg,198,4192.0,5,1970,
 336,Villa,Haubergvej 13C,4660, Store Heddinge,375000 ,23-05-1993,Alm. Salg,110,3409.0,4,1900,
-336,Villa,"Vestergade 41, st. tv",4660, Store Heddinge,422000 ,23-05-1993,Alm. Salg,46,9174.0,2,1910,
 336,Villa,Lyderslev Bygade 19,4660, Store Heddinge,366916 ,23-05-1993,Andet,200,1835.0,5,1930,
 336,Villa,Bjælkerupvej 78,4660, Store Heddinge,600000 ,23-05-1993,Alm. Salg,208,2885.0,5,1966,
 336,Villa,Kongshøjvej 6,4660, Store Heddinge,510000 ,23-05-1993,Alm. Salg,159,3208.0,4,1972,
@@ -11401,7 +11329,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 336,Villa,Klippingevej 18,4671, Strøby,527500 ,07-03-1993,Alm. Salg,132,3996.0,5,1959,
 336,Villa,Magnoliavej 47,4600, Køge,675160 ,07-03-1993,Alm. Salg,120,5626.0,5,1973,
 336,Villa,Lundevej 17,4652, Hårlev,586000 ,01-03-1993,Alm. Salg,183,3202.0,4,1827,
-336,Rækkehus,Algade 1D,4660, Store Heddinge,1035000 ,28-02-1993,Alm. Salg,111,9324.0,3,1904,
 336,Villa,Tommestrupvej 10,4660, Store Heddinge,900000 ,28-02-1993,Alm. Salg,699,1288.0,15,1868,
 336,Ejerlejlighed,Vestergade 12M,4660, Store Heddinge,600000 ,25-02-1993,Alm. Salg,54,11111.0,2,1850,
 336,Villa,Birkevænget 6,4672, Klippinge,555000 ,25-02-1993,Alm. Salg,184,3016.0,5,1967,
@@ -11557,9 +11484,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 336,Villa,Byvangen 19,4673, Rødvig Stevns,795000 ,27-08-1992,Alm. Salg,142,5599.0,4,1987,
 336,Villa,Kastanievej 2D,4600, Køge,582600 ,27-08-1992,Alm. Salg,192,3034.0,5,1929,
 336,Villa,Klintevej 10,4673, Rødvig Stevns,1075000 ,25-08-1992,Alm. Salg,147,7313.0,4,1943,
-336,Ejerlejlighed,"Algade 34, 1",4660, Store Heddinge,250000 ,24-08-1992,Alm. Salg,106,2358.0,3,1870,
 336,Villa,Brinken 6A,4600, Køge,660000 ,24-08-1992,Alm. Salg,149,4430.0,5,1972,
-336,Villa,Algade 34A,4660, Store Heddinge,250000 ,24-08-1992,Alm. Salg,180,1389.0,5,1870,
 336,Villa,Kastanievej 1C,4600, Køge,795000 ,22-08-1992,Alm. Salg,156,5096.0,5,1979,
 336,Villa,Vestergade 29A,4660, Store Heddinge,510000 ,22-08-1992,Alm. Salg,165,3091.0,5,1927,
 336,Villa,Nygade 19,4672, Klippinge,430000 ,20-08-1992,Alm. Salg,114,3772.0,3,1949,
@@ -11581,8 +11506,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 336,Villa,Strøby Bygade 31A,4671, Strøby,960000 ,10-08-1992,Alm. Salg,184,5217.0,9,1795,
 336,Villa,Lund Gade 42,4673, Rødvig Stevns,220000 ,10-08-1992,Alm. Salg,75,2933.0,2,1700,
 336,Villa,Ærtebjergvej 4,4660, Store Heddinge,481800 ,10-08-1992,Alm. Salg,134,3596.0,4,1912,
-336,Rækkehus,Algade 1D,4660, Store Heddinge,970000 ,09-08-1992,Alm. Salg,111,8739.0,3,1904,
-336,Rækkehus,Vestergade 2A,4660, Store Heddinge,874000 ,09-08-1992,Alm. Salg,70,12486.0,2,1877,
 336,Villa,Vedskovvej 12,4672, Klippinge,694600 ,09-08-1992,Alm. Salg,114,6093.0,2,1930,
 336,Villa,Cedervej 2,4600, Køge,1047000 ,04-08-1992,Alm. Salg,157,6669.0,4,1970,
 336,Villa,Himlingøje Bygade 21,4652, Hårlev,825000 ,03-08-1992,Alm. Salg,219,3767.0,6,1969,
@@ -11643,8 +11566,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 336,Villa,Hestehaven 7,4652, Hårlev,375000 ,15-06-1992,Alm. Salg,124,3024.0,5,1900,
 336,Villa,Stevnsvej 87,4600, Køge,600000 ,14-06-1992,Alm. Salg,280,2143.0,6,1976,
 336,Villa,Smedegade 2A,4660, Store Heddinge,495000 ,12-06-1992,Alm. Salg,104,4760.0,4,1982,
-336,Rækkehus,Algade 1D,4660, Store Heddinge,820000 ,11-06-1992,Alm. Salg,111,7387.0,3,1904,
-336,Rækkehus,Vestergade 2A,4660, Store Heddinge,420495 ,11-06-1992,Alm. Salg,70,6007.0,2,1877,
 336,Villa,Køgevej 43,4652, Hårlev,685000 ,11-06-1992,Alm. Salg,195,3513.0,4,1973,
 336,Villa,Bakkehældet 57,4600, Køge,397500 ,11-06-1992,Fam. Salg,120,3313.0,8,1974,
 336,Villa,Stevnsvej 79,4600, Køge,660000 ,10-06-1992,Alm. Salg,131,5038.0,5,1965,
@@ -11686,7 +11607,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 336,Villa,Magnoliavej 12,4600, Køge,1125000 ,11-05-1992,Fam. Salg,171,6579.0,5,1974,
 336,Villa,Stevnsvej 40,4600, Køge,750000 ,11-05-1992,Alm. Salg,194,3866.0,5,1906,
 336,Villa,Brinken 31,4600, Køge,275000 ,08-05-1992,Alm. Salg,186,1478.0,6,2009,
-336,Villa,Lundevej 40,4652, Hårlev,1002500 ,07-05-1992,Alm. Salg,325,3085.0,8,1898,
 336,Villa,Hårlevvejen 16,4652, Hårlev,214226 ,07-05-1992,Fam. Salg,174,1231.0,6,1947,
 336,Villa,Morbærvej 8,4600, Køge,560000 ,07-05-1992,Alm. Salg,168,3333.0,6,1970,
 336,Villa,Tommestrupvej 23,4660, Store Heddinge,450000 ,05-05-1992,Auktion,150,3000.0,5,1880,
@@ -11773,9 +11693,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 336,Villa,Magnoliavej 24,4600, Køge,975000 ,16-02-1992,Alm. Salg,179,5447.0,7,1973,
 336,Villa,Risby 3,4652, Hårlev,535000 ,13-02-1992,Alm. Salg,139,3849.0,4,1890,
 336,Villa,Øverste Linievej 1,4671, Strøby,475000 ,13-02-1992,Alm. Salg,104,4567.0,4,1904,
-336,Ejerlejlighed,"Algade 34, 1",4660, Store Heddinge,350000 ,12-02-1992,Alm. Salg,106,3302.0,3,1870,
 336,Villa,Fruegade 3,4660, Store Heddinge,150000 ,12-02-1992,Alm. Salg,83,1807.0,3,1910,
-336,Villa,Algade 34A,4660, Store Heddinge,350000 ,12-02-1992,Alm. Salg,180,1944.0,5,1870,
 336,Villa,Korsnæbsvej 6,4673, Rødvig Stevns,426770 ,11-02-1992,Alm. Salg,88,4850.0,3,1959,
 336,Villa,Skovvejen 17,4660, Store Heddinge,600000 ,11-02-1992,Alm. Salg,104,5769.0,3,1927,
 336,Villa,Pilevænget 3,4652, Hårlev,625000 ,10-02-1992,Fam. Salg,150,4167.0,3,1963,

@@ -25,8 +25,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 210,Rækkehus,Daugløkke Ege 9,3050, Humlebæk,4600000 ,09-12-2022,Alm. Salg,135,34074,4,2018,-8%
 210,Rækkehus,Kovangen 417,3480, Fredensborg,3200000 ,08-12-2022,Alm. Salg,138,23188,4,1972,-6%
 210,Rækkehus,Fasanvænget 524,2980, Kokkedal,3770000 ,08-12-2022,Alm. Salg,136,27721,5,1970,-1%
-210,Rækkehus,Fasanvænget 564,2980, Kokkedal,3000000 ,07-12-2022,Alm. Salg,136,22059,5,1970,-17%
-210,Villa,Fredensborg Kongevej 27,2980, Kokkedal,3000000 ,07-12-2022,Fam. Salg,218,13761,5,1905,
 210,Rækkehus,Drosselvænget 306,2980, Kokkedal,2750000 ,06-12-2022,Alm. Salg,123,22358,5,1982,-14%
 210,Rækkehus,Blålersvej 36,2990, Nivå,1032000 ,05-12-2022,Fam. Salg,122,8459,5,1978,
 210,Villa,Humlebækvej 32A,3480, Fredensborg,7000000 ,02-12-2022,Alm. Salg,262,26718,7,1792,
@@ -54,9 +52,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 210,Rækkehus,Gl Mejerivej 14F,3050, Humlebæk,3200000 ,16-11-2022,Alm. Salg,99,32323,4,1964,-8%
 210,Villa,Grønholtvej 53,3480, Fredensborg,3100000 ,16-11-2022,Alm. Salg,138,22464,5,1966,-5%
 210,Villa,Kirkeleddet 335,3480, Fredensborg,5395000 ,15-11-2022,Alm. Salg,169,31923,5,1998,
-210,Rækkehus,Brødregårdsvej 25,2980, Kokkedal,2700000 ,14-11-2022,Alm. Salg,89,30337,3,2005,-7%
 210,Rækkehus,Drosselvænget 109,2980, Kokkedal,4045000 ,14-11-2022,Alm. Salg,156,25929,6,1982,-6%
-210,Ejerlejlighed,"Brønsholmdalsvej 44B, 1. tv",2980, Kokkedal,2700000 ,14-11-2022,Alm. Salg,107,25234,4,1800,
 210,Villa,Hjortevænget 301,2980, Kokkedal,1168940 ,14-11-2022,Fam. Salg,125,9352,4,1975,
 210,Ejerlejlighed,"Teglgårdsvej 505, 3. th",3050, Humlebæk,1595000 ,13-11-2022,Alm. Salg,72,22153,3,1969,-3%
 210,Villa,Bygvænget 235,2980, Kokkedal,4225000 ,13-11-2022,Alm. Salg,140,30179,4,1978,-4%
@@ -291,7 +287,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 210,Villa,Hillerødvejen 59,3480, Fredensborg,2800000 ,22-05-2022,Alm. Salg,147,19048,5,1948,-10%
 210,Ejerlejlighed,"Holmegårdsparken 5, 2. tv",2980, Kokkedal,2400000 ,21-05-2022,Alm. Salg,119,20168,3,1971,-8%
 210,Villa,Helsingørsvej 80,3480, Fredensborg,4400000 ,21-05-2022,Alm. Salg,170,25882,3,1780,-2%
-210,Villa,Niverød Bakke 36,2990, Nivå,6900000 ,21-05-2022,Alm. Salg,183,37705,5,2016,-1%
 210,Villa,Boserupvej 506,3050, Humlebæk,5050000 ,20-05-2022,Alm. Salg,163,30982,6,1972,1%
 210,Ejerlejlighed,"Langelunden 14, st. mf",2990, Nivå,800000 ,19-05-2022,Alm. Salg,46,17391,1,1971,-11%
 210,Ejerlejlighed,"Teglgårdsvej 549, st. th",3050, Humlebæk,1310000 ,19-05-2022,Alm. Salg,49,26735,1,1969,2%
@@ -345,7 +340,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 210,Villa,Birkehaven 205,2980, Kokkedal,4050000 ,25-04-2022,Alm. Salg,210,19286,5,1971,-3%
 210,Villa,Niverød Kongevej 7,2990, Nivå,2830000 ,25-04-2022,Alm. Salg,129,21938,6,1907,-2%
 210,Villa,Kornager 213,2980, Kokkedal,5050000 ,23-04-2022,Alm. Salg,185,27297,6,1973,-3%
-210,Villa,Svanevej 4,2990, Nivå,4500000 ,21-04-2022,Alm. Salg,120,37500,3,1980,
 210,Rækkehus,Fasanvænget 322,2980, Kokkedal,3685000 ,20-04-2022,Alm. Salg,136,27096,5,1971,
 210,Villa,Humlehaven 13A,3050, Humlebæk,5600000 ,20-04-2022,Alm. Salg,160,35000,6,1963,-3%
 210,Villa,Højager 21,2980, Kokkedal,3030000 ,20-04-2022,Alm. Salg,118,25678,4,1969,1%
@@ -666,7 +660,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 210,Ejerlejlighed,"Teglgårdsvej 655, 1. th",3050, Humlebæk,1644500 ,18-10-2021,Alm. Salg,77,21357,3,1969,
 210,Rækkehus,Teglbakken 39,2990, Nivå,3573015 ,17-10-2021,Alm. Salg,116,30802,4,2023,-3%
 210,Villa,Bogårdsvej 410,3050, Humlebæk,2750000 ,17-10-2021,Fam. Salg,133,19231,5,1971,
-210,Rækkehus,Torphusene 50,3050, Humlebæk,4195000 ,16-10-2021,Alm. Salg,111,37793,4,2015,-2%
 210,Ejerlejlighed,"Teglgårdsvej 429, 3. tv",3050, Humlebæk,1275000 ,16-10-2021,Alm. Salg,67,19030,2,1976,-2%
 210,Ejerlejlighed,"Blåbærhaven 21, st. th",2980, Kokkedal,1800000 ,16-10-2021,Alm. Salg,92,19565,4,1973,-3%
 210,Villa,Birkestien 1,2980, Kokkedal,3725000 ,16-10-2021,Alm. Salg,131,28435,4,1965,-2%
@@ -811,7 +804,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 210,Ejerlejlighed,"Teglgårdsvej 303, st. mf",3050, Humlebæk,1460000 ,06-08-2021,Alm. Salg,61,23934,2,1964,-2%
 210,Ejerlejlighed,"Teglgårdsvej 913, 3. th",3050, Humlebæk,2345000 ,05-08-2021,Alm. Salg,113,20752,4,1971,
 210,Ejerlejlighed,"Chrst Boecksvej 20, 1. th",3480, Fredensborg,1850000 ,05-08-2021,Alm. Salg,71,26056,3,1995,
-210,Villa,Svanevej 17,2990, Nivå,5350000 ,05-08-2021,Alm. Salg,142,37676,5,1979,
 210,Ejerlejlighed,Guldsmedestien 29,2990, Nivå,2695000 ,04-08-2021,Alm. Salg,82,32866,3,2023,
 210,Rækkehus,Teglgårdsvej 108,3050, Humlebæk,4350000 ,03-08-2021,Alm. Salg,121,35950,4,1969,-3%
 210,Ejerlejlighed,"Teglgårdsvej 309, 2. mf",3050, Humlebæk,1070000 ,02-08-2021,Alm. Salg,46,23261,1,1965,-2%
@@ -827,7 +819,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 210,Rækkehus,Sneppevænget 105,2980, Kokkedal,2700000 ,28-07-2021,Alm. Salg,107,25234,4,1972,-3%
 210,Rækkehus,Hvedevænget 7,2980, Kokkedal,2995000 ,28-07-2021,Alm. Salg,122,24549,4,1978,
 210,Ejerlejlighed,"Parken 4, 2. tv",3480, Fredensborg,1495000 ,28-07-2021,Alm. Salg,66,22652,2,1963,-6%
-210,Villa,Avderødvej 37,2980, Kokkedal,4350000 ,28-07-2021,Alm. Salg,116,37500,4,1938,
 210,Villa,Brønsholmvej 11B,2980, Kokkedal,5500000 ,28-07-2021,Alm. Salg,155,35484,5,2018,
 210,Villa,Nivåpark 69,2990, Nivå,4600000 ,27-07-2021,Alm. Salg,135,34074,5,1997,-2%
 210,Rækkehus,Fasanvænget 333,2980, Kokkedal,3400000 ,26-07-2021,Alm. Salg,136,25000,5,1971,
@@ -850,7 +841,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 210,Villa,Nivå Stationsvej 11,2990, Nivå,6150000 ,15-07-2021,Alm. Salg,211,29147,8,1950,-2%
 210,Rækkehus,Nordskrænten 21,2980, Kokkedal,3200000 ,14-07-2021,Alm. Salg,136,23529,5,1971,-5%
 210,Villa,Rolfsvej 9,2990, Nivå,5000000 ,14-07-2021,Alm. Salg,159,31447,5,1971,-6%
-210,Rækkehus,Jellerød Have 1,2980, Kokkedal,3800000 ,13-07-2021,Alm. Salg,101,37624,4,1961,-2%
 210,Villa,Kornager 507,2980, Kokkedal,4100000 ,12-07-2021,Alm. Salg,158,25949,4,1974,-2%
 210,Villa,Teglbakken 67,2990, Nivå,3910400 ,12-07-2021,Alm. Salg,126,31035,4,2023,-1%
 210,Villa,Teglbakken 127,2990, Nivå,3607804 ,12-07-2021,Alm. Salg,120,30065,4,2023,-4%
@@ -871,7 +861,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 210,Ejerlejlighed,"Langelunden 4, 2. tv",2990, Nivå,1580000 ,05-07-2021,Alm. Salg,86,18372,3,1971,-1%
 210,Villa,Karlebovej 74,3400, Hillerød,573750 ,05-07-2021,Fam. Salg,89,6447,4,1962,
 210,Villa,Eskildsvej 10,2990, Nivå,4100000 ,05-07-2021,Alm. Salg,173,23699,6,1966,-4%
-210,Villa,Svanevej 7,2990, Nivå,6805000 ,05-07-2021,Alm. Salg,180,37806,5,1979,1%
 210,Villa,Langebjergvej 101,3050, Humlebæk,4095000 ,05-07-2021,Alm. Salg,152,26941,4,1977,
 210,Rækkehus,Maglegårdsvej 307,3480, Fredensborg,3685000 ,04-07-2021,Alm. Salg,117,31496,4,1990,
 210,Ejerlejlighed,"Teglgårdsvej 305, st. mf",3050, Humlebæk,1270000 ,04-07-2021,Alm. Salg,46,27609,1,1965,-2%
@@ -888,7 +877,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 210,Villa,Helsingørsvej 8,3480, Fredensborg,3212500 ,28-06-2021,Andet,235,13670,8,1908,
 210,Rækkehus,Østrupvej 6B,3480, Fredensborg,3825000 ,27-06-2021,Alm. Salg,112,34152,3,1880,-2%
 210,Villa,Nørredamsvej 6,3480, Fredensborg,3995000 ,25-06-2021,Alm. Salg,128,31211,5,1928,
-210,Rækkehus,Bregnevænget 21,3050, Humlebæk,3950000 ,24-06-2021,Alm. Salg,105,37619,3,1977,-1%
 210,Rækkehus,Slåenhøj 25,2990, Nivå,2795000 ,24-06-2021,Alm. Salg,95,29421,3,2008,
 210,Rækkehus,Hyldehøj 9,2990, Nivå,644500 ,24-06-2021,Alm. Salg,89,7242,3,2007,
 210,Villa,Humlebæk Strandvej 115,3050, Humlebæk,2050000 ,24-06-2021,Fam. Salg,102,20098,4,1961,
@@ -951,7 +939,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 210,Rækkehus,Fasanvænget 302,2980, Kokkedal,2900000 ,28-05-2021,Alm. Salg,136,21324,5,1971,1%
 210,Villa,Vibevej 21,2990, Nivå,7995000 ,28-05-2021,Alm. Salg,260,30750,6,1970,
 210,Rækkehus,Teglbakken 8,2990, Nivå,3395000 ,27-05-2021,Alm. Salg,116,29267,4,2020,
-210,Rækkehus,Daugløkke Ege 16,3050, Humlebæk,5360000 ,27-05-2021,Alm. Salg,142,37746,3,2017,1%
 210,Ejerlejlighed,"Teglgårdsvej 555, 2. th",3050, Humlebæk,1200000 ,27-05-2021,Alm. Salg,61,19672,2,1969,-4%
 210,Villa,Olaf Poulsens Alle 1A,3480, Fredensborg,3125000 ,27-05-2021,Alm. Salg,117,26709,5,1876,1%
 210,Villa,Langerødvej 22,3480, Fredensborg,658750 ,27-05-2021,Fam. Salg,80,8234,3,1920,
@@ -1488,9 +1475,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 210,Rækkehus,Brønsholmdalsvej 75,2980, Kokkedal,2625000 ,09-11-2020,Alm. Salg,114,23026,4,1976,
 210,Rækkehus,Pilehøj 34,2990, Nivå,2700000 ,09-11-2020,Alm. Salg,127,21260,4,2007,-3%
 210,Ejerlejlighed,"Parken 11, 1. th",3480, Fredensborg,1350000 ,09-11-2020,Alm. Salg,78,17308,3,1963,-3%
-210,Rækkehus,Mosegårdsvej 5,3480, Fredensborg,4600000 ,08-11-2020,Alm. Salg,313,7504,5,1800,-4%
 210,Villa,Avderødvej 34,2980, Kokkedal,3395000 ,08-11-2020,Alm. Salg,120,28292,4,1968,
-210,Villa,Mosegårdsvej 5,3480, Fredensborg,4600000 ,08-11-2020,Alm. Salg,148,31081,6,1900,-4%
 210,Ejerlejlighed,"Teglgårdsvej 533, 3. th",3050, Humlebæk,1250000 ,07-11-2020,Alm. Salg,75,16667,3,1969,-3%
 210,Villa,Skovsvinget 15,3480, Fredensborg,4425000 ,07-11-2020,Alm. Salg,187,23663,6,1972,-4%
 210,Rækkehus,Teglbakken 74,2990, Nivå,3645000 ,06-11-2020,Alm. Salg,125,29160,4,2020,
@@ -1583,8 +1568,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 210,Villa,Slotsvænget 49,3480, Fredensborg,2910000 ,05-10-2020,Auktion,120,24250,5,1969,
 210,Ejerlejlighed,"Teglgårdsvej 441, 2. tv",3050, Humlebæk,1495000 ,04-10-2020,Alm. Salg,85,17588,3,1968,
 210,Villa,Stillekrog 1,3050, Humlebæk,6225000 ,04-10-2020,Alm. Salg,213,29225,7,1951,6%
-210,Rækkehus,Asminderødgade 51B,3480, Fredensborg,3200000 ,03-10-2020,Alm. Salg,128,25000,5,2018,-2%
-210,Villa,Plantagevej 11,3480, Fredensborg,3200000 ,03-10-2020,Alm. Salg,135,23704,6,1953,-1%
 210,Rækkehus,Kovangen 413,3480, Fredensborg,3600000 ,02-10-2020,Alm. Salg,138,26087,4,1972,
 210,Villa,Boserupvej 316,3050, Humlebæk,5804000 ,01-10-2020,Alm. Salg,205,27249,7,1966,0%
 210,Villa,Græsager 123,2980, Kokkedal,3600000 ,30-09-2020,Alm. Salg,147,24490,4,1974,-3%
@@ -2191,7 +2174,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 210,Villa,Dysseager 2,2980, Kokkedal,1495000 ,27-01-2020,Alm. Salg,232,6444,7,2021,
 210,Rækkehus,Teglbakken 72,2990, Nivå,3495000 ,26-01-2020,Alm. Salg,125,27960,4,2020,
 210,Villa,Lillevangsvej 220,3480, Fredensborg,1404227 ,26-01-2020,Fam. Salg,202,6952,7,2005,
-210,Villa,Brønshulevej 8,3480, Fredensborg,18450000 ,26-01-2020,Andet,490,37653,5,2016,-5%
 210,Ejerlejlighed,"Blåbærhaven 2, 3. mf",2980, Kokkedal,860000 ,25-01-2020,Alm. Salg,48,17917,2,1973,
 210,Rækkehus,Mølledammen 13D,2980, Kokkedal,1200000 ,22-01-2020,Andet,110,10909,4,2005,
 210,Rækkehus,Rødlersvej 60,2990, Nivå,2875000 ,20-01-2020,Alm. Salg,122,23566,5,1978,-2%
@@ -2608,7 +2590,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 210,Rækkehus,Fasanvænget 504,2980, Kokkedal,2750000 ,07-07-2019,Alm. Salg,136,20221,5,1970,-2%
 210,Ejerlejlighed,"Teglgårdsvej 411, 3. th",3050, Humlebæk,1025000 ,07-07-2019,Alm. Salg,72,14236,3,1968,-2%
 210,Villa,Kirkeleddet 307,3480, Fredensborg,4415000 ,07-07-2019,Alm. Salg,163,27086,5,1998,-6%
-210,Rækkehus,Bregnevænget 55,3050, Humlebæk,2500000 ,06-07-2019,Alm. Salg,105,23810,3,1977,-1%
 210,Villa,Bøgehaven 5,2980, Kokkedal,3140000 ,06-07-2019,Alm. Salg,153,20523,5,1975,-8%
 210,Rækkehus,Daugløkke Ege 11,3050, Humlebæk,3825000 ,05-07-2019,Alm. Salg,135,28333,4,2018,-3%
 210,Rækkehus,Stejlepladsvej 1M,2990, Nivå,3395000 ,04-07-2019,Alm. Salg,123,27602,5,2002,
@@ -4401,10 +4382,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 210,Rækkehus,Slåenhøj 16,2990, Nivå,1815000 ,11-01-2017,Alm. Salg,89,20393,3,2008,-4%
 210,Villa,Langerødvej 18,3480, Fredensborg,3880000 ,11-01-2017,Alm. Salg,172,22558,6,1870,-3%
 210,Rækkehus,Nøddehøj 246,2990, Nivå,1870000 ,10-01-2017,Alm. Salg,90,20778,3,1993,-6%
-210,Ejerlejlighed,"Teglgårdsvej 913, 1. th",3050, Humlebæk,1500000 ,10-01-2017,Alm. Salg,113,13274,4,1971,-9%
 210,Villa,Helstedsvej 4D,3480, Fredensborg,4500000 ,10-01-2017,Alm. Salg,205,21951,9,1979,-6%
 210,Villa,Asminderødhave 27,3480, Fredensborg,3700000 ,10-01-2017,Alm. Salg,138,26812,4,2018,
-210,Villa,Bakkegårdsvej 309B,3050, Humlebæk,1500000 ,10-01-2017,Andet,165,9091,4,1976,
 210,Villa,Asminderødhave 14,3480, Fredensborg,3550000 ,10-01-2017,Alm. Salg,138,25725,4,2018,
 210,Rækkehus,Asminderødhave 12,3480, Fredensborg,3500000 ,09-01-2017,Alm. Salg,136,25735,4,2018,
 210,Rækkehus,Maglegårdsvej 107,3480, Fredensborg,2575000 ,09-01-2017,Alm. Salg,138,18659,4,1978,-4%
@@ -4972,12 +4951,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 210,Villa,Blomsterager 302,2980, Kokkedal,2350000 ,20-03-2016,Alm. Salg,120,19583,4,1972,-6%
 210,Villa,Vejenbrødvej 36B,2980, Kokkedal,1300000 ,19-03-2016,Alm. Salg,201,6468,4,2022,-13%
 210,Rækkehus,Kystvej 16B,3050, Humlebæk,3832500 ,17-03-2016,Alm. Salg,149,25721,4,1987,-4%
-210,Rækkehus,Hvedevænget 71,2980, Kokkedal,2650000 ,17-03-2016,Alm. Salg,129,20543,4,1978,
 210,Rækkehus,Hjørnestenen 23,2990, Nivå,1695000 ,17-03-2016,Alm. Salg,89,19045,3,1995,
 210,Ejerlejlighed,"Jernbanegade 3, 2. 13",3480, Fredensborg,2175000 ,17-03-2016,Andet,102,21324,3,1972,
 210,Ejerlejlighed,"Blåbærhaven 16, 2. th",2980, Kokkedal,1325000 ,17-03-2016,Alm. Salg,90,14722,3,1973,-1%
 210,Villa,Birkehaven 410,2980, Kokkedal,2525000 ,17-03-2016,Alm. Salg,168,15030,6,1973,-6%
-210,Villa,Egehaven 103,2980, Kokkedal,2650000 ,17-03-2016,Alm. Salg,144,18403,6,1971,-2%
 210,Ejerlejlighed,"Parken 6, 1. tv",3480, Fredensborg,995000 ,16-03-2016,Alm. Salg,79,12595,3,1963,
 210,Ejerlejlighed,Teglgårdsvej 379A,3050, Humlebæk,1145000 ,16-03-2016,Alm. Salg,76,15066,3,1956,
 210,Villa,Strandmarken 5,3050, Humlebæk,4600000 ,16-03-2016,Alm. Salg,179,25698,4,1941,-2%
@@ -6113,8 +6090,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 210,Villa,Tornehaven 20,2980, Kokkedal,1950000 ,27-05-2014,Alm. Salg,128,15234,5,1970,-6%
 210,Villa,Vilhelmsro 124,3480, Fredensborg,2840000 ,27-05-2014,Alm. Salg,200,14200,7,1977,-5%
 210,Rækkehus,Kovangen 232,3480, Fredensborg,2975000 ,26-05-2014,Alm. Salg,138,21558,4,1972,
-210,Rækkehus,Nivåvænge 52,2990, Nivå,2500000 ,26-05-2014,Alm. Salg,129,19380,4,2005,-3%
-210,Villa,Rørmosen 314,2990, Nivå,2500000 ,26-05-2014,Alm. Salg,184,13587,6,1975,-4%
 210,Ejerlejlighed,"Jernbanegade 19, 3. th",3480, Fredensborg,800000 ,25-05-2014,Fam. Salg,99,8081,2,1922,
 210,Villa,Bygvænget 202,2980, Kokkedal,2150000 ,25-05-2014,Alm. Salg,123,17480,4,1981,-2%
 210,Villa,Græsager 403,2980, Kokkedal,1572500 ,25-05-2014,Fam. Salg,180,8736,9,1973,
@@ -6936,7 +6911,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 210,Villa,Havrevænget 302,2980, Kokkedal,2200000 ,02-10-2012,Alm. Salg,163,13497,5,1974,-7%
 210,Villa,Humlebækvej 47,3480, Fredensborg,5400000 ,02-10-2012,Alm. Salg,174,31034,5,1997,-3%
 210,Ejerlejlighed,"Mellemengen 1, 1. th",2980, Kokkedal,860000 ,01-10-2012,Alm. Salg,84,10238,3,1978,-4%
-210,Villa,Strandvænget 10,3050, Humlebæk,6200000 ,01-10-2012,Alm. Salg,128,37805,6,1938,-6%
 210,Villa,Slotsvænget 20,3480, Fredensborg,2375000 ,01-10-2012,Alm. Salg,102,23284,4,1959,-7%
 210,Rækkehus,Nivåvænge 112,2990, Nivå,2150000 ,30-09-2012,Alm. Salg,168,12798,5,1966,-2%
 210,Villa,Solager 9,2990, Nivå,2500000 ,30-09-2012,Alm. Salg,188,13298,6,1971,-11%
@@ -7845,7 +7819,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 210,Villa,Langkildeparken 13,3480, Fredensborg,2050000 ,09-09-2010,Alm. Salg,177,11582,5,2011,
 210,Villa,Gammel Strandvej 1C,2990, Nivå,4750000 ,08-09-2010,Alm. Salg,201,23632,4,1754,-1%
 210,Villa,Solvænget 7,2990, Nivå,2775000 ,08-09-2010,Alm. Salg,153,18137,5,1968,
-210,Rækkehus,Asminderødgade 42B,3480, Fredensborg,2450000 ,07-09-2010,Alm. Salg,130,18846,4,1921,
 210,Villa,Humlebæk Strandvej 22,3050, Humlebæk,3450000 ,06-09-2010,Alm. Salg,176,19602,5,1956,
 210,Villa,Langebjergvej 227,3050, Humlebæk,1703173 ,06-09-2010,Alm. Salg,193,8825,8,1980,
 210,Ejerlejlighed,"Teglgårdsvej 537, st. th",3050, Humlebæk,550000 ,02-09-2010,Alm. Salg,50,11000,1,1969,-8%
@@ -9412,7 +9385,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 210,Ejerlejlighed,"Parken 15, st. tv",3480, Fredensborg,1965000 ,30-04-2007,Alm. Salg,79,24873,3,1965,-1%
 210,Villa,Torpenvej 27H,3050, Humlebæk,2350000 ,30-04-2007,Alm. Salg,190,12368,5,2008,
 210,Ejerlejlighed,"Teglgårdsvej 651, 1. tv",3050, Humlebæk,1050000 ,28-04-2007,Alm. Salg,66,15909,2,1969,
-210,Villa,Slotsvænget 28,3480, Fredensborg,6800000 ,28-04-2007,Alm. Salg,180,37778,6,1964,-14%
 210,Villa,Gl Mejerivej 26,3050, Humlebæk,4300000 ,27-04-2007,Alm. Salg,130,33077,5,2001,
 210,Villa,Helstedsvej 4,3480, Fredensborg,4000000 ,26-04-2007,Alm. Salg,151,26490,5,1927,
 210,Ejerlejlighed,"Parken 20, 2. tv",3480, Fredensborg,500000 ,25-04-2007,Fam. Salg,65,7692,2,1961,
@@ -9420,7 +9392,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 210,Villa,Dådyrvænget 307,2980, Kokkedal,3320000 ,25-04-2007,Alm. Salg,150,22133,6,1972,
 210,Villa,Birkehaven 506,2980, Kokkedal,3300000 ,24-04-2007,Alm. Salg,138,23913,5,1970,-11%
 210,Ejerlejlighed,Mølledammen 3B,2980, Kokkedal,2620000 ,23-04-2007,Alm. Salg,104,25192,4,2007,
-210,Villa,Damsholtevej 27,2970, Hørsholm,6995000 ,23-04-2007,Alm. Salg,185,37811,6,1931,
 210,Villa,Hjortevænget 510,2980, Kokkedal,4300000 ,23-04-2007,Alm. Salg,160,26875,5,1975,-4%
 210,Rækkehus,Lågegyde 148B,2980, Kokkedal,5250000 ,22-04-2007,Alm. Salg,150,35000,5,2007,
 210,Rækkehus,Kovangen 606,3480, Fredensborg,4000000 ,21-04-2007,Alm. Salg,138,28986,4,1973,-2%
@@ -9607,7 +9578,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 210,Ejerlejlighed,"Teglgårdsvej 427, 3. tv",3050, Humlebæk,1160000 ,21-12-2006,Alm. Salg,67,17313,2,1976,
 210,Ejerlejlighed,"Parken 17, 2. tv",3480, Fredensborg,1420000 ,21-12-2006,Alm. Salg,66,21515,2,1961,
 210,Ejerlejlighed,"Teglgårdsvej 551, 1. tv",3050, Humlebæk,1515000 ,21-12-2006,Alm. Salg,85,17824,3,1969,
-210,Villa,Gl Strandvej 79,3050, Humlebæk,277903 ,21-12-2006,Fam. Salg,73,3807,3,1910,
 210,Rækkehus,Kløvervej 13,3480, Fredensborg,2145000 ,20-12-2006,Alm. Salg,90,23833,4,1959,
 210,Ejerlejlighed,"Teglgårdsvej 655, 2. th",3050, Humlebæk,1475000 ,20-12-2006,Alm. Salg,77,19156,3,1969,
 210,Ejerlejlighed,"Parken 14, 1. tv",3480, Fredensborg,1015000 ,19-12-2006,Alm. Salg,56,18125,2,1965,
@@ -9876,11 +9846,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 210,Villa,Bygvænget 239,2980, Kokkedal,3000000 ,21-05-2006,Alm. Salg,120,25000,5,1978,
 210,Rækkehus,Fasanvænget 257,2980, Kokkedal,2500000 ,20-05-2006,Alm. Salg,136,18382,5,1971,
 210,Villa,Frederikkevej 15,3050, Humlebæk,3475000 ,20-05-2006,Alm. Salg,153,22712,5,2007,
-210,Rækkehus,Mosegårdsvej 5,3480, Fredensborg,4175000 ,17-05-2006,Alm. Salg,313,6811,5,1800,
 210,Ejerlejlighed,"Teglgårdsvej 511, 1. tv",3050, Humlebæk,1695000 ,17-05-2006,Alm. Salg,85,19941,3,1969,
 210,Ejerlejlighed,"Teglgårdsvej 911, 1. tv",3050, Humlebæk,1995000 ,17-05-2006,Alm. Salg,94,21223,3,1971,
 210,Villa,Nivådal 137,2990, Nivå,4400000 ,17-05-2006,Alm. Salg,138,31884,5,1997,
-210,Villa,Mosegårdsvej 5,3480, Fredensborg,4175000 ,17-05-2006,Alm. Salg,148,28209,6,1900,
 210,Rækkehus,Ravnsbjerggårdsvej 241,3480, Fredensborg,2970000 ,16-05-2006,Alm. Salg,137,21679,4,2006,
 210,Ejerlejlighed,"Teglgårdsvej 541, 3. th",3050, Humlebæk,722757 ,16-05-2006,Alm. Salg,75,9637,3,1969,
 210,Villa,Toeltvej 23,3050, Humlebæk,4295000 ,16-05-2006,Alm. Salg,143,30035,5,1964,
@@ -9999,7 +9967,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 210,Rækkehus,Rypevænget 232,2980, Kokkedal,3300000 ,21-03-2006,Alm. Salg,156,21154,6,1981,
 210,Ejerlejlighed,"Blåbærhaven 1, 2. tv",2980, Kokkedal,1360000 ,21-03-2006,Alm. Salg,80,17000,3,1973,
 210,Ejerlejlighed,"Teglgårdsvej 605, 2. tv",3050, Humlebæk,1125000 ,21-03-2006,Alm. Salg,68,16544,2,1969,
-210,Villa,Strand Alle 6,3050, Humlebæk,7665000 ,21-03-2006,Alm. Salg,203,37759,6,1937,
 210,Ejerlejlighed,"Teglgårdsvej 841, 3. th",3050, Humlebæk,1895000 ,20-03-2006,Alm. Salg,113,16770,4,1970,
 210,Villa,Vilhelmsro 327B,3480, Fredensborg,3755000 ,20-03-2006,Alm. Salg,175,21457,7,1986,
 210,Villa,Vilhelmsro 217,3480, Fredensborg,3250000 ,20-03-2006,Alm. Salg,137,23723,5,1977,
@@ -10527,11 +10494,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 210,Ejerlejlighed,"Blåbærhaven 6, st. mf",2980, Kokkedal,800000 ,11-08-2005,Alm. Salg,48,16667,2,1973,
 210,Ejerlejlighed,"Teglgårdsvej 515, 3. th",3050, Humlebæk,895000 ,11-08-2005,Alm. Salg,61,14672,2,1969,
 210,Villa,Stationsvej 23,3480, Fredensborg,3370000 ,11-08-2005,Alm. Salg,164,20549,8,1900,
-210,Rækkehus,Ravnsbjerggårdsvej 227,3480, Fredensborg,1050000 ,10-08-2005,Alm. Salg,140,7500,4,2006,
 210,Rækkehus,Ravnsbjerggårdsvej 225,3480, Fredensborg,1100000 ,10-08-2005,Alm. Salg,140,7857,4,2006,
 210,Rækkehus,Fasanvænget 524,2980, Kokkedal,2000000 ,10-08-2005,Alm. Salg,136,14706,5,1970,
 210,Ejerlejlighed,"Teglgårdsvej 389, st. tv",3050, Humlebæk,1475000 ,10-08-2005,Alm. Salg,82,17988,3,1964,
-210,Villa,Ravnsbjerggårdsvej 212,3480, Fredensborg,1050000 ,10-08-2005,Alm. Salg,143,7343,4,2006,
 210,Rækkehus,Mølledammen 11E,2980, Kokkedal,1945000 ,09-08-2005,Alm. Salg,110,17682,4,2005,
 210,Ejerlejlighed,"Teglgårdsvej 901, 2. th",3050, Humlebæk,985000 ,09-08-2005,Alm. Salg,65,15154,2,1971,
 210,Ejerlejlighed,"Parken 24, 1. tv",3480, Fredensborg,1035000 ,08-08-2005,Alm. Salg,79,13101,3,1961,
@@ -10614,10 +10579,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 210,Rækkehus,Mølledammen 13C,2980, Kokkedal,1820558 ,07-07-2005,Alm. Salg,110,16551,4,2005,
 210,Rækkehus,Kirkeleddet 522,3480, Fredensborg,2240000 ,07-07-2005,Alm. Salg,118,18983,5,1980,
 210,Ejerlejlighed,"Teglgårdsvej 503, 3. tv",3050, Humlebæk,1150000 ,07-07-2005,Alm. Salg,85,13529,3,1969,
-210,Rækkehus,Nørredamsvej 10,3480, Fredensborg,1625000 ,06-07-2005,Alm. Salg,90,18056,2,1890,
 210,Ejerlejlighed,"Teglgårdsvej 441, 2. tv",3050, Humlebæk,1100000 ,06-07-2005,Alm. Salg,85,12941,3,1968,
 210,Villa,Bogårdsvej 209,3050, Humlebæk,3100000 ,06-07-2005,Alm. Salg,157,19745,4,1985,
-210,Villa,Nørredamsvej 10,3480, Fredensborg,1625000 ,06-07-2005,Alm. Salg,197,8249,8,1890,
 210,Rækkehus,Brødregårdsvej 21,2980, Kokkedal,1925000 ,05-07-2005,Alm. Salg,88,21875,3,2006,
 210,Ejerlejlighed,"Teglgårdsvej 555, 3. tv",3050, Humlebæk,895000 ,05-07-2005,Alm. Salg,64,13984,2,1969,
 210,Rækkehus,Humlehaven 22,3050, Humlebæk,2175000 ,04-07-2005,Alm. Salg,83,26205,4,1961,
@@ -10630,10 +10593,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 210,Rækkehus,Nordskrænten 18,2980, Kokkedal,2326100 ,03-07-2005,Alm. Salg,136,17104,5,1971,
 210,Villa,Fredensborg Kongevej 53,2980, Kokkedal,2400000 ,03-07-2005,Alm. Salg,223,10762,6,1955,
 210,Ejerlejlighed,"Teglgårdsvej 837, st. tv",3050, Humlebæk,1415000 ,02-07-2005,Alm. Salg,109,12982,3,1970,
-210,Rækkehus,Mosegårdsvej 5,3480, Fredensborg,2400000 ,30-06-2005,Alm. Salg,313,3915,5,1800,
 210,Rækkehus,Drosselvænget 104,2980, Kokkedal,2532000 ,30-06-2005,Alm. Salg,156,16231,6,1982,
 210,Villa,Kongevejen 35B,3480, Fredensborg,2950000 ,30-06-2005,Alm. Salg,215,13721,7,1987,
-210,Villa,Mosegårdsvej 5,3480, Fredensborg,2400000 ,30-06-2005,Alm. Salg,148,16216,6,1900,
 210,Villa,Nederste Torpenvej 3D,3050, Humlebæk,3800000 ,30-06-2005,Alm. Salg,198,19192,7,1945,
 210,Ejerlejlighed,"Teglgårdsvej 553, 2. tv",3050, Humlebæk,1145000 ,29-06-2005,Alm. Salg,85,13471,3,1969,
 210,Ejerlejlighed,"Teglgårdsvej 613, 3. th",3050, Humlebæk,1280000 ,29-06-2005,Alm. Salg,90,14222,4,1969,
@@ -11193,14 +11154,12 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 210,Ejerlejlighed,"Teglgårdsvej 521, 1. th",3050, Humlebæk,849000 ,01-11-2004,Alm. Salg,72,11792,3,1969,
 210,Villa,Ejlersvej 2,3050, Humlebæk,2325000 ,01-11-2004,Andet,108,21528,4,1958,
 210,Villa,Endrup Have 22,3480, Fredensborg,2700000 ,01-11-2004,Alm. Salg,172,15698,9,1973,
-210,Rækkehus,Mosegårdsvej 5,3480, Fredensborg,2000000 ,31-10-2004,Alm. Salg,313,3263,5,1800,
 210,Rækkehus,Rødlersvej 74,2990, Nivå,1935000 ,31-10-2004,Alm. Salg,122,15861,5,1978,
 210,Rækkehus,Maglegårdsvej 203,3480, Fredensborg,2400000 ,31-10-2004,Fam. Salg,138,17391,4,1978,
 210,Ejerlejlighed,"Teglgårdsvej 303, 2. th",3050, Humlebæk,975000 ,31-10-2004,Alm. Salg,69,14130,2,1964,
 210,Villa,Parkvej 1,3480, Fredensborg,3250000 ,31-10-2004,Andet,217,14977,9,1900,
 210,Villa,Ullerødvej 2,2980, Kokkedal,2252500 ,31-10-2004,Fam. Salg,336,6704,9,1820,
 210,Villa,Frederikkevej 23,3050, Humlebæk,1850000 ,31-10-2004,Alm. Salg,202,9158,6,1951,
-210,Villa,Mosegårdsvej 5,3480, Fredensborg,2000000 ,31-10-2004,Alm. Salg,148,13514,6,1900,
 210,Ejerlejlighed,"Teglgårdsvej 391, 1. mf",3050, Humlebæk,875000 ,30-10-2004,Alm. Salg,61,14344,2,1964,
 210,Ejerlejlighed,"Blåbærhaven 21, 3. th",2980, Kokkedal,1209778 ,30-10-2004,Alm. Salg,92,13150,4,1973,
 210,Villa,Grønholtvej 7,3480, Fredensborg,2100000 ,30-10-2004,Alm. Salg,160,13125,5,1962,
@@ -12226,8 +12185,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 210,Villa,Fredensborg Kongevej 51,2980, Kokkedal,1625000 ,14-06-2003,Alm. Salg,75,21667,4,1827,
 210,Villa,Bygvænget 107,2980, Kokkedal,1595000 ,14-06-2003,Alm. Salg,103,15485,4,1977,
 210,Villa,Valdemarsvej 6,2990, Nivå,2500000 ,14-06-2003,Alm. Salg,157,15924,6,1967,
-210,Rækkehus,Mosegårdsvej 5,3480, Fredensborg,2900000 ,13-06-2003,Fam. Salg,313,4731,5,1800,
-210,Villa,Mosegårdsvej 5,3480, Fredensborg,2900000 ,13-06-2003,Fam. Salg,148,19595,6,1900,
 210,Rækkehus,Fasanvænget 219,2980, Kokkedal,1700000 ,12-06-2003,Alm. Salg,138,12319,5,1971,
 210,Rækkehus,Fasanvænget 545,2980, Kokkedal,1655000 ,11-06-2003,Alm. Salg,136,12169,5,1970,
 210,Villa,Enebærhaven 714,2980, Kokkedal,2015000 ,11-06-2003,Alm. Salg,154,13084,5,1971,
@@ -14730,8 +14687,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 210,Villa,Dr Louises Alle 3,3480, Fredensborg,1238000 ,21-12-1999,Alm. Salg,109,11358,3,1957,
 210,Villa,Slotsvænget 31,3480, Fredensborg,1470690 ,21-12-1999,Alm. Salg,208,7071,4,2012,
 210,Villa,Lindevej 4,3480, Fredensborg,1096000 ,21-12-1999,Alm. Salg,240,4567,5,1970,
-210,Rækkehus,Karlebovej 55,3400, Hillerød,61844 ,20-12-1999,Alm. Salg,131,472,6,1950,
-210,Villa,Karlebovej 57,3400, Hillerød,61844 ,20-12-1999,Alm. Salg,100,618,3,1950,
 210,Villa,Karlebovej 61,3400, Hillerød,42890 ,20-12-1999,Andet,169,254,5,1938,
 210,Ejerlejlighed,"Blåbærhaven 10, 2. mf",2980, Kokkedal,520340 ,18-12-1999,Alm. Salg,48,10840,2,1973,
 210,Villa,Lågegyde 15,2980, Kokkedal,625000 ,18-12-1999,Alm. Salg,134,4664,4,2000,
@@ -15412,7 +15367,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 210,Villa,Præstemosevej 11,3480, Fredensborg,3100000 ,08-02-1999,Alm. Salg,167,18563,5,1957,
 210,Rækkehus,Bakken 15,3050, Humlebæk,2285000 ,07-02-1999,Alm. Salg,136,16801,6,1980,
 210,Ejerlejlighed,"Teglgårdsvej 337, 2. mf",3050, Humlebæk,312000 ,07-02-1999,Alm. Salg,46,6783,1,1961,
-210,Villa,Gl Strandvej 79,3050, Humlebæk,213406 ,07-02-1999,Fam. Salg,73,2923,3,1910,
 210,Rækkehus,Fasanvænget 135,2980, Kokkedal,1349000 ,06-02-1999,Alm. Salg,136,9919,5,1971,
 210,Ejerlejlighed,"Parkvej 7A, st",3480, Fredensborg,313710 ,06-02-1999,Alm. Salg,41,7651,1,1909,
 210,Rækkehus,Kirkeleddet 530,3480, Fredensborg,1230000 ,03-02-1999,Alm. Salg,118,10424,5,1980,
@@ -16087,7 +16041,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 210,Villa,Boserupvej 112,3050, Humlebæk,1377458 ,01-04-1998,Alm. Salg,155,8887,6,1973,
 210,Rækkehus,Humlehaven 2,3050, Humlebæk,670000 ,31-03-1998,Alm. Salg,63,10635,3,1959,
 210,Ejerlejlighed,"Teglgårdsvej 419, 2. th",3050, Humlebæk,563930 ,31-03-1998,Alm. Salg,91,6197,4,1976,
-210,Villa,Gl Strandvej 79,3050, Humlebæk,260627 ,31-03-1998,Fam. Salg,73,3570,3,1910,
 210,Villa,Benediktevej 6,3480, Fredensborg,1135000 ,31-03-1998,Alm. Salg,184,6168,6,1935,
 210,Rækkehus,Rypevænget 216,2980, Kokkedal,1558000 ,30-03-1998,Alm. Salg,170,9165,7,1981,
 210,Ejerlejlighed,"Teglgårdsvej 337, 2. th",3050, Humlebæk,508000 ,30-03-1998,Alm. Salg,69,7362,2,1961,
@@ -16173,8 +16126,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 210,Villa,Birkehaven 514,2980, Kokkedal,1375860 ,24-02-1998,Alm. Salg,144,9555,4,1972,
 210,Ejerlejlighed,"Langelunden 5, 1. mf",2990, Nivå,228000 ,23-02-1998,Alm. Salg,42,5429,1,1971,
 210,Rækkehus,Dannevang 417,3480, Fredensborg,1007256 ,22-02-1998,Alm. Salg,118,8536,5,1980,
-210,Ejerlejlighed,"Mellemengen 2, 1. tv",2980, Kokkedal,467000 ,22-02-1998,Alm. Salg,70,6671,2,1978,
-210,Ejerlejlighed,"Blåbærhaven 9, 2. th",2980, Kokkedal,467000 ,22-02-1998,Alm. Salg,64,7297,2,1973,
 210,Villa,Peder Oxesvej 29,2990, Nivå,470453 ,22-02-1998,Alm. Salg,165,2851,5,2023,
 210,Villa,Vejenbrødvej 18,2980, Kokkedal,1979000 ,22-02-1998,Alm. Salg,196,10097,6,1956,
 210,Rækkehus,Vilhelmsro 435,3480, Fredensborg,1229000 ,21-02-1998,Alm. Salg,125,9832,4,1986,
@@ -16950,10 +16901,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 210,Villa,Boserupvej 306,3050, Humlebæk,1270000 ,23-02-1997,Alm. Salg,132,9621,4,1966,
 210,Villa,Havrevænget 202,2980, Kokkedal,1265000 ,23-02-1997,Alm. Salg,159,7956,4,1972,
 210,Villa,Solbakkevej 1A,3050, Humlebæk,824452 ,22-02-1997,Alm. Salg,179,4606,6,2000,
-210,Ejerlejlighed,Kongevejen 92B,3480, Fredensborg,1200000 ,21-02-1997,Alm. Salg,69,17391,2,1900,
-210,Ejerlejlighed,Kongevejen 92C,3480, Fredensborg,1200000 ,21-02-1997,Alm. Salg,105,11429,3,1900,
-210,Ejerlejlighed,Grønholtvej 106,3480, Fredensborg,1200000 ,21-02-1997,Alm. Salg,177,6780,4,1900,
-210,Ejerlejlighed,Grønholtvej 108,3480, Fredensborg,1200000 ,21-02-1997,Alm. Salg,108,11111,4,1900,
 210,Villa,Dageløkkevej 82,3050, Humlebæk,435000 ,21-02-1997,Alm. Salg,52,8365,2,2007,
 210,Rækkehus,Jellerød Have 29,2980, Kokkedal,856000 ,20-02-1997,Alm. Salg,84,10190,4,1962,
 210,Rækkehus,Zoarparken 12,3480, Fredensborg,1750000 ,20-02-1997,Alm. Salg,153,11438,4,1985,
@@ -17077,7 +17024,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 210,Rækkehus,Blålersvej 69,2990, Nivå,1007743 ,21-12-1996,Alm. Salg,122,8260,5,1979,
 210,Rækkehus,Hvedevænget 66,2980, Kokkedal,1005346 ,21-12-1996,Alm. Salg,129,7793,4,1978,
 210,Villa,Avderødvej 39,2980, Kokkedal,1550000 ,21-12-1996,Alm. Salg,154,10065,4,1941,
-210,Villa,Gl Strandvej 79,3050, Humlebæk,258414 ,21-12-1996,Fam. Salg,73,3540,3,1910,
 210,Rækkehus,Gl Mejerivej 18B,3050, Humlebæk,1153000 ,19-12-1996,Alm. Salg,126,9151,4,1985,
 210,Villa,Karlebovej 33B,2980, Kokkedal,1106250 ,19-12-1996,Fam. Salg,127,8711,4,1978,
 210,Rækkehus,Fasanvænget 128,2980, Kokkedal,1044500 ,18-12-1996,Alm. Salg,138,7569,5,1971,
@@ -17220,12 +17166,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 210,Villa,Valdemarsvej 4,2990, Nivå,545183 ,17-10-1996,Andet,149,3659,4,1968,
 210,Rækkehus,Fasanvænget 525,2980, Kokkedal,978900 ,16-10-1996,Alm. Salg,136,7198,5,1970,
 210,Ejerlejlighed,"Blåbærhaven 1, st. tv",2980, Kokkedal,475711 ,16-10-1996,Alm. Salg,80,5946,3,1973,
-210,Ejerlejlighed,"Helsingørsvej 9, st. th",3480, Fredensborg,1750000 ,16-10-1996,Alm. Salg,86,20349,4,1887,
-210,Ejerlejlighed,"Helsingørsvej 9, st. tv",3480, Fredensborg,1750000 ,16-10-1996,Alm. Salg,60,29167,2,1887,
-210,Ejerlejlighed,"Helsingørsvej 9, 1. tv",3480, Fredensborg,1750000 ,16-10-1996,Alm. Salg,90,19444,3,1887,
-210,Ejerlejlighed,"Dr Louises Alle 1, st",3480, Fredensborg,1750000 ,16-10-1996,Alm. Salg,110,15909,4,1900,
-210,Ejerlejlighed,"Dr Louises Alle 1, 1",3480, Fredensborg,1750000 ,16-10-1996,Alm. Salg,77,22727,2,1900,
-210,Villa,Helsingørsvej 9B,3480, Fredensborg,1750000 ,16-10-1996,Alm. Salg,50,35000,2,1887,
 210,Villa,Endrup Byvej 6,3480, Fredensborg,800000 ,16-10-1996,Alm. Salg,268,2985,8,1999,
 210,Villa,Gl Strandvej 171,3050, Humlebæk,3200000 ,16-10-1996,Alm. Salg,386,8290,8,1999,
 210,Ejerlejlighed,"Parken 4, 1. tv",3480, Fredensborg,460000 ,15-10-1996,Alm. Salg,79,5823,3,1963,
@@ -17687,11 +17627,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 210,Rækkehus,Kirkeleddet 562,3480, Fredensborg,840240 ,02-04-1996,Alm. Salg,118,7121,5,1980,
 210,Ejerlejlighed,Teglgårdsvej 381D,3050, Humlebæk,381885 ,02-04-1996,Alm. Salg,74,5161,3,1956,
 210,Ejerlejlighed,"Mellemengen 11, 1. tv",2980, Kokkedal,484000 ,02-04-1996,Alm. Salg,84,5762,3,1978,
-210,Rækkehus,Vilhelmsro 433,3480, Fredensborg,1075000 ,01-04-1996,Andet,125,8600,4,1986,
 210,Rækkehus,Holtebakken 32,2990, Nivå,854490 ,01-04-1996,Alm. Salg,95,8995,4,1962,
 210,Rækkehus,Kirkeleddet 536,3480, Fredensborg,780000 ,01-04-1996,Alm. Salg,118,6610,5,1980,
 210,Villa,Kronprinsessevej 3,3480, Fredensborg,1530000 ,01-04-1996,Alm. Salg,208,7356,8,1897,
-210,Villa,Hillerødvejen 47,3480, Fredensborg,1075000 ,01-04-1996,Andet,210,5119,7,1961,
 210,Villa,Niverødvej 29,2990, Nivå,995000 ,01-04-1996,Alm. Salg,121,8223,5,1965,
 210,Villa,Toeltvej 15,3050, Humlebæk,180000 ,31-03-1996,Fam. Salg,92,1957,4,1870,
 210,Rækkehus,Sneppevænget 201,2980, Kokkedal,843000 ,30-03-1996,Alm. Salg,107,7879,4,1972,
@@ -17786,7 +17724,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 210,Villa,Solengen 14,2990, Nivå,1042000 ,25-02-1996,Alm. Salg,123,8472,5,1967,
 210,Villa,Kirkeltevej 142,3450, Allerød,160000 ,25-02-1996,Fam. Salg,134,1194,3,2019,
 210,Villa,Gl Strandvej 16,3050, Humlebæk,2800000 ,25-02-1996,Alm. Salg,177,15819,7,1817,
-210,Villa,Niverødvej 18A,2990, Nivå,1200000 ,25-02-1996,Alm. Salg,117,10256,4,1932,
 210,Rækkehus,Nivåvænge 234,2990, Nivå,1113850 ,24-02-1996,Alm. Salg,176,6329,7,1967,
 210,Villa,Humlebæk Strandvej 61,3050, Humlebæk,417243 ,23-02-1996,Andet,119,3506,6,1949,
 210,Ejerlejlighed,"Slotsgade 8I, st. th",3480, Fredensborg,447000 ,22-02-1996,Alm. Salg,58,7707,2,1749,
@@ -19263,8 +19200,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 210,Ejerlejlighed,"Parken 5, 2. tv",3480, Fredensborg,380000 ,06-04-1994,Alm. Salg,66,5758,2,1963,
 210,Ejerlejlighed,"Teglgårdsvej 615, 2. th",3050, Humlebæk,354000 ,05-04-1994,Alm. Salg,77,4597,3,1969,
 210,Villa,Lykkemosevej 26,3480, Fredensborg,531148 ,05-04-1994,Alm. Salg,143,3714,5,1955,
-210,Rækkehus,Karlebovej 55,3400, Hillerød,3000000 ,04-04-1994,Fam. Salg,131,22901,6,1950,
-210,Villa,Karlebovej 57,3400, Hillerød,3000000 ,04-04-1994,Fam. Salg,100,30000,3,1950,
 210,Villa,Langebjergvej 265C,3050, Humlebæk,759000 ,04-04-1994,Alm. Salg,73,10397,3,1981,
 210,Villa,Passagen 4B,3480, Fredensborg,702784 ,04-04-1994,Alm. Salg,95,7398,3,1727,
 210,Rækkehus,Rødlersvej 40,2990, Nivå,760000 ,03-04-1994,Alm. Salg,122,6230,5,1978,
@@ -19766,7 +19701,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 210,Villa,Amalievej 1,3050, Humlebæk,693000 ,15-08-1993,Alm. Salg,56,12375,2,1947,
 210,Rækkehus,Hvedevænget 69,2980, Kokkedal,700000 ,14-08-1993,Alm. Salg,122,5738,4,1978,
 210,Villa,Damgårdsvej 7,2990, Nivå,958000 ,14-08-1993,Alm. Salg,190,5042,6,1988,
-210,Villa,Gl Strandvej 79,3050, Humlebæk,1020000 ,14-08-1993,Alm. Salg,73,13973,3,1910,
 210,Villa,Torpenvej 9,3050, Humlebæk,939580 ,14-08-1993,Alm. Salg,118,7963,5,1929,
 210,Rækkehus,Bregnevænget 36,3050, Humlebæk,720751 ,12-08-1993,Alm. Salg,105,6864,4,1977,
 210,Rækkehus,Kovangen 402,3480, Fredensborg,735000 ,12-08-1993,Alm. Salg,138,5326,4,1973,
@@ -20365,14 +20299,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 210,Ejerlejlighed,"Parkvej 7A, st",3480, Fredensborg,175000 ,22-07-1992,Andet,41,4268,1,1909,
 210,Villa,Vilhelmsro 436,3480, Fredensborg,350000 ,21-07-1992,Alm. Salg,112,3125,5,1978,
 210,Ejerlejlighed,"Parken 1, 1. tv",3480, Fredensborg,414250 ,20-07-1992,Alm. Salg,79,5244,3,1965,
-210,Ejerlejlighed,"Helsingørsvej 9, st. th",3480, Fredensborg,1870000 ,19-07-1992,Andet,86,21744,4,1887,
-210,Ejerlejlighed,"Helsingørsvej 9, st. tv",3480, Fredensborg,1870000 ,19-07-1992,Andet,60,31167,2,1887,
-210,Ejerlejlighed,"Helsingørsvej 9, 1. tv",3480, Fredensborg,1870000 ,19-07-1992,Andet,90,20778,3,1887,
 210,Ejerlejlighed,"Tinghusvej 9A, st. tv",3480, Fredensborg,305000 ,19-07-1992,Andet,78,3910,3,1744,
 210,Ejerlejlighed,Teglgårdsvej 349D,3050, Humlebæk,462400 ,19-07-1992,Alm. Salg,76,6084,3,1956,
-210,Ejerlejlighed,"Dr Louises Alle 1, st",3480, Fredensborg,1870000 ,19-07-1992,Andet,110,17000,4,1900,
-210,Ejerlejlighed,"Dr Louises Alle 1, 1",3480, Fredensborg,1870000 ,19-07-1992,Andet,77,24286,2,1900,
-210,Villa,Helsingørsvej 9B,3480, Fredensborg,1870000 ,19-07-1992,Andet,50,37400,2,1887,
 210,Villa,Skeltoftevej 22,3050, Humlebæk,680000 ,19-07-1992,Alm. Salg,90,7556,4,1938,
 210,Villa,Nørredamsvej 56,3480, Fredensborg,1078300 ,19-07-1992,Fam. Salg,213,5062,4,1977,
 210,Villa,Vilhelmsro 261,3480, Fredensborg,875000 ,17-07-1992,Alm. Salg,162,5401,4,1976,

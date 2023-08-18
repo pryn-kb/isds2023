@@ -27,7 +27,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Bakken 10,9560, Hadsund,507898 ,13-12-2022,Fam. Salg,170,2988,5,1929,
 846,Villa,Døstrupvej 150,9500, Hobro,1295019 ,13-12-2022,Andet,184,7038,8,1891,-13%
 846,Villa,Buddumvej 24,9560, Hadsund,750000 ,13-12-2022,Alm. Salg,234,3205,9,1890,-6%
-846,Villa,Brogade 54,9500, Hobro,595000 ,12-12-2022,Alm. Salg,122,4877,6,1948,
 846,Villa,Grønningen 13,9500, Hobro,1300000 ,08-12-2022,Alm. Salg,180,7222,8,1981,-7%
 846,Villa,Ndr Truevej 28,9500, Hobro,220000 ,08-12-2022,Alm. Salg,140,1571,4,1850,-12%
 846,Villa,Storegade 16,9500, Hobro,520000 ,08-12-2022,Alm. Salg,152,3421,5,1900,-13%
@@ -96,7 +95,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Agerkrogen 13,9500, Hobro,1400000 ,23-10-2022,Alm. Salg,147,9524,5,1971,-12%
 846,Villa,Digtervænget 93,9550, Mariager,1600000 ,23-10-2022,Andet,165,9697,5,1998,
 846,Villa,Hannerupvej 251,9500, Hobro,1650000 ,23-10-2022,Alm. Salg,246,6707,12,1931,-6%
-846,Rækkehus,Asserdalen 26A,9550, Mariager,1868750 ,20-10-2022,Alm. Salg,121,15444,3,2022,4%
 846,Villa,Rinddalen 13,9550, Mariager,2637500 ,20-10-2022,Alm. Salg,174,15158,5,1976,-8%
 846,Villa,Skelund Hovedgade 33,9560, Hadsund,100000 ,20-10-2022,Alm. Salg,185,541,7,1899,
 846,Villa,Vedbækvej 3,9500, Hobro,455000 ,19-10-2022,Fam. Salg,171,2661,5,1958,
@@ -115,8 +113,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Lokesvej 3,9500, Hobro,571349 ,04-10-2022,Andet,118,4842,4,2000,
 846,Villa,Blåkildevej 53,9510, Arden,1900000 ,03-10-2022,Fam. Salg,157,12102,5,1939,
 846,Villa,Spættevej 7,9560, Hadsund,1150000 ,03-10-2022,Alm. Salg,181,6354,4,1978,-8%
-846,Rækkehus,Brovej 26,9510, Arden,630000 ,02-10-2022,Alm. Salg,67,9403,3,1981,
-846,Villa,Egelundsvej 17,9510, Arden,630000 ,02-10-2022,Alm. Salg,120,5250,4,1966,-7%
 846,Villa,Vesterlandsvej 13,8990, Fårup,1200000 ,02-10-2022,Alm. Salg,130,9231,5,1948,-7%
 846,Villa,Klejtrupvej 107,9500, Hobro,775000 ,02-10-2022,Andet,159,4874,5,1953,
 846,Villa,Finderupvej 17,9500, Hobro,970000 ,02-10-2022,Alm. Salg,160,6063,5,1953,-3%
@@ -137,7 +133,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Bakkedraget 7,8990, Fårup,1125000 ,25-09-2022,Alm. Salg,131,8588,4,1969,-6%
 846,Villa,Egebakkevej 6,9510, Arden,1225000 ,25-09-2022,Alm. Salg,170,7206,5,1948,
 846,Villa,Roldvej 6,9510, Arden,1995000 ,24-09-2022,Alm. Salg,175,11400,4,1912,
-846,Villa,Hybenvej 2,9500, Hobro,2300000 ,23-09-2022,Alm. Salg,147,15646,7,1969,-6%
 846,Rækkehus,Nyvangsvej 30,9560, Hadsund,725000 ,22-09-2022,Alm. Salg,110,6591,4,1973,-9%
 846,Ejerlejlighed,H I Bies Plads 137,9500, Hobro,1650000 ,22-09-2022,Alm. Salg,120,13750,4,1998,-8%
 846,Villa,Skolevænget 23,9550, Mariager,1995000 ,22-09-2022,Alm. Salg,143,13951,5,1972,
@@ -150,7 +145,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Hjulhusvej 25,9550, Mariager,1215000 ,18-09-2022,Alm. Salg,147,8265,4,1964,-6%
 846,Villa,Spurvevej 52,9550, Mariager,110000 ,18-09-2022,Alm. Salg,166,663,3,0,
 846,Villa,Rolighedsvej 29,9560, Hadsund,985000 ,16-09-2022,Alm. Salg,82,12012,3,1960,-10%
-846,Villa,Tykkenkærvej 11,9560, Hadsund,295000 ,15-09-2022,Alm. Salg,80,3688,4,1947,
 846,Villa,Klarlundsvej 4,9510, Arden,555000 ,15-09-2022,Alm. Salg,144,3854,5,1948,
 846,Rækkehus,Transbjergholt 30,9560, Hadsund,1175000 ,14-09-2022,Alm. Salg,95,12368,3,1986,
 846,Villa,Baneskoven 9,9500, Hobro,1350000 ,13-09-2022,Alm. Salg,206,6553,5,1983,
@@ -187,8 +181,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Læsøgade 20,9560, Hadsund,1325000 ,29-08-2022,Alm. Salg,159,8333,4,1936,-11%
 846,Villa,Skovmarken 28,9510, Arden,1200000 ,29-08-2022,Alm. Salg,144,8333,4,1980,-7%
 846,Villa,Semvej 12,9550, Mariager,104800 ,29-08-2022,Auktion,130,806,5,1900,
-846,Ejerlejlighed,"Sjællandsgade 6, 1",9560, Hadsund,625000 ,28-08-2022,Alm. Salg,67,9328,2,1918,
-846,Villa,Sjællandsgade 6,9560, Hadsund,625000 ,28-08-2022,Alm. Salg,97,6443,2,1918,
 846,Villa,Løgstørvej 89,9500, Hobro,375000 ,28-08-2022,Alm. Salg,176,2131,7,1913,-31%
 846,Villa,Fuglebakken 9,9500, Hobro,1500000 ,25-08-2022,Alm. Salg,121,12397,4,1964,-12%
 846,Villa,Tyttebærvej 34,9560, Hadsund,1900000 ,25-08-2022,Alm. Salg,176,10795,5,1973,
@@ -200,7 +192,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Grøndalsvej 14,9560, Hadsund,1825000 ,21-08-2022,Alm. Salg,197,9264,7,1972,-4%
 846,Villa,Stolbjergvej 7A,9500, Hobro,1587986 ,21-08-2022,Alm. Salg,260,6108,8,1930,
 846,Villa,Samsøgade 20,9560, Hadsund,1650000 ,19-08-2022,Alm. Salg,165,10000,5,1971,-1%
-846,Villa,Hohøje 124,9500, Hobro,2325000 ,18-08-2022,Alm. Salg,151,15397,6,2006,-3%
 846,Villa,Lærkevej 1,9550, Mariager,500000 ,16-08-2022,Alm. Salg,89,5618,3,1956,-5%
 846,Villa,Møllebakken 29,9500, Hobro,1250000 ,16-08-2022,Alm. Salg,157,7962,5,1968,-13%
 846,Villa,Chr Thisteds Vej 16,9500, Hobro,1425000 ,16-08-2022,Andet,140,10179,5,2022,
@@ -310,7 +301,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Haredammen 2,9560, Hadsund,1260000 ,12-06-2022,Alm. Salg,174,7241,6,1906,-6%
 846,Villa,Vandværksvej 6,9560, Hadsund,2425000 ,09-06-2022,Alm. Salg,198,12247,9,1917,-3%
 846,Villa,Fyrbakken 12,9500, Hobro,1550000 ,09-06-2022,Fam. Salg,285,5439,6,1990,
-846,Villa,Spurvevej 6,9500, Hobro,1665000 ,09-06-2022,Alm. Salg,108,15417,4,1974,-2%
 846,Villa,Pejtervej 8,9560, Hadsund,550000 ,09-06-2022,Alm. Salg,194,2835,6,1916,-8%
 846,Villa,Hesselholt Skovhuse 21,9510, Arden,565000 ,09-06-2022,Alm. Salg,180,3139,5,2023,
 846,Villa,Løgstørvej 70,9500, Hobro,698634 ,08-06-2022,Andet,133,5253,4,1954,
@@ -366,7 +356,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Korupvej 61,9560, Hadsund,2210000 ,10-05-2022,Alm. Salg,265,8340,6,1894,-4%
 846,Villa,Kystvejen 19,9560, Hadsund,1285000 ,10-05-2022,Alm. Salg,219,5868,7,2005,
 846,Villa,Skolebakken 42,8990, Fårup,775000 ,09-05-2022,Fam. Salg,165,4697,8,1933,
-846,Villa,Åmøllevej 28,9560, Hadsund,3100000 ,08-05-2022,Alm. Salg,201,15423,6,1880,-3%
 846,Villa,Høndrupgaardsvej 11,9500, Hobro,2575000 ,08-05-2022,Alm. Salg,196,13138,7,2001,-4%
 846,Villa,Banegaardsvej 27,9500, Hobro,2660000 ,05-05-2022,Alm. Salg,183,14536,6,1919,-5%
 846,Villa,Blåbærvej 4,9560, Hadsund,1850000 ,05-05-2022,Alm. Salg,268,6903,6,1976,-7%
@@ -411,7 +400,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Mågevej 9,9560, Hadsund,368334 ,10-04-2022,Fam. Salg,163,2260,4,2008,
 846,Villa,Klostergade 21,9550, Mariager,1300000 ,10-04-2022,Alm. Salg,121,10744,5,1994,-3%
 846,Villa,L B Sørensens Vej 8,9560, Hadsund,2295000 ,09-04-2022,Alm. Salg,179,12821,7,1930,
-846,Villa,Nedre Strandvej 41,9500, Hobro,3000000 ,09-04-2022,Alm. Salg,193,15544,7,1988,-14%
 846,Villa,Hyldebærvænget 7,9500, Hobro,545000 ,08-04-2022,Alm. Salg,217,2512,5,0,
 846,Villa,Ormhøjen 4,9500, Hobro,625000 ,07-04-2022,Alm. Salg,266,2350,5,0,-37%
 846,Villa,Jasminvej 4,9500, Hobro,2820000 ,07-04-2022,Alm. Salg,188,15000,8,1996,0%
@@ -460,7 +448,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Kystvejen 95,9560, Hadsund,875000 ,04-03-2022,Alm. Salg,117,7479,5,1952,-12%
 846,Villa,Hadsundvej 116,9550, Mariager,4300000 ,04-03-2022,Alm. Salg,329,13070,8,1920,-4%
 846,Villa,Kransmarksvej 11,9550, Mariager,600000 ,03-03-2022,Alm. Salg,227,2643,7,1979,-14%
-846,Villa,Bækparken 39,9500, Hobro,1970000 ,03-03-2022,Alm. Salg,126,15635,4,1977,-1%
 846,Villa,Troldemosevej 9,9620, Aalestrup,650000 ,03-03-2022,Alm. Salg,119,5462,4,1950,-16%
 846,Villa,Gl Visborgvej 44F,9560, Hadsund,250000 ,03-03-2022,Alm. Salg,142,1761,5,2022,
 846,Villa,Møllevangen 5,9500, Hobro,585000 ,02-03-2022,Alm. Salg,135,4333,6,1926,-9%
@@ -529,7 +516,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Myhlenbergvej 61,9510, Arden,525000 ,24-01-2022,Alm. Salg,101,5198,4,1903,-12%
 846,Villa,Klostermarken 1,9550, Mariager,2500000 ,24-01-2022,Alm. Salg,399,6266,8,1908,
 846,Villa,Semvej 26,9550, Mariager,150000 ,23-01-2022,Alm. Salg,136,1103,5,1850,
-846,Rækkehus,Hegedalsvej 42A,9500, Hobro,1565000 ,22-01-2022,Alm. Salg,101,15495,3,2007,-8%
 846,Villa,Clausensvej 19,9500, Hobro,695000 ,22-01-2022,Alm. Salg,148,4696,4,1974,
 846,Villa,Myhlenbergvej 40,9510, Arden,1500000 ,20-01-2022,Alm. Salg,105,14286,4,1963,
 846,Villa,Stadionvej 5,9510, Arden,1240000 ,20-01-2022,Alm. Salg,134,9254,4,1975,-11%
@@ -552,13 +538,11 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Hodalsvej 23,9500, Hobro,1870000 ,11-01-2022,Alm. Salg,176,10625,4,1950,-1%
 846,Villa,Skelund Hovedgade 38,9560, Hadsund,320000 ,11-01-2022,Alm. Salg,115,2783,3,1875,-19%
 846,Villa,Stentoften 33,9550, Mariager,950000 ,10-01-2022,Alm. Salg,138,6884,4,1973,-5%
-846,Villa,Storardenvej 18A,9510, Arden,280000 ,10-01-2022,Auktion,76,3684,4,1936,
 846,Villa,Kirkedals Alle 2,9500, Hobro,1475000 ,09-01-2022,Alm. Salg,156,9455,5,1972,-5%
 846,Villa,Miehesgade 18,9510, Arden,720000 ,07-01-2022,Alm. Salg,144,5000,4,1929,
 846,Villa,Vedbækvej 13,9500, Hobro,910000 ,06-01-2022,Alm. Salg,112,8125,4,1954,-9%
 846,Villa,Egevej 12,9550, Mariager,161255 ,04-01-2022,Fam. Salg,140,1152,4,1974,
 846,Villa,Ajstrupvej 8,9560, Hadsund,2515000 ,04-01-2022,Alm. Salg,243,10350,7,1907,1%
-846,Villa,Skovvej 11,9560, Hadsund,2100000 ,03-01-2022,Alm. Salg,136,15441,3,1935,-7%
 846,Villa,Kæret 1,9510, Arden,460000 ,02-01-2022,Alm. Salg,144,3194,6,1966,-8%
 846,Villa,Storarden Byvej 5,9510, Arden,256579 ,02-01-2022,Andet,92,2789,3,1938,
 846,Villa,Friheden 16,9500, Hobro,1875000 ,29-12-2021,Alm. Salg,220,8523,6,1972,-6%
@@ -720,7 +704,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Korsbakken 11,9560, Hadsund,377566 ,28-09-2021,Fam. Salg,121,3120,4,1977,
 846,Villa,Hærvej 2,9510, Arden,650000 ,28-09-2021,Alm. Salg,91,7143,3,1962,-6%
 846,Villa,Hannerupvej 279,9500, Hobro,770000 ,28-09-2021,Alm. Salg,129,5969,3,1939,-12%
-846,Villa,Fladbjergvej 9,9550, Mariager,3995000 ,28-09-2021,Alm. Salg,260,15365,5,2008,
 846,Rækkehus,Stranden 28,9560, Hadsund,895000 ,27-09-2021,Alm. Salg,66,13561,3,1991,
 846,Villa,Idrætsvej 6,9560, Hadsund,460000 ,27-09-2021,Alm. Salg,122,3770,4,1974,-7%
 846,Villa,Helberskovvej 18,9560, Hadsund,442000 ,27-09-2021,Alm. Salg,106,4170,4,1915,
@@ -776,7 +759,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Ejerlejlighed,"Chr Thisteds Vej 1, st. tv",9500, Hobro,750000 ,31-08-2021,Alm. Salg,238,3151,6,1966,
 846,Villa,Mejerivej 8A,9510, Arden,700000 ,31-08-2021,Alm. Salg,164,4268,6,1925,-6%
 846,Villa,Fasanvej 36,9550, Mariager,735008 ,31-08-2021,Fam. Salg,97,7577,4,1986,
-846,Rækkehus,Thujavej 35,9500, Hobro,1845000 ,30-08-2021,Alm. Salg,120,15375,5,2014,-3%
 846,Villa,Hasselkrogen 11,9500, Hobro,1250000 ,29-08-2021,Alm. Salg,200,6250,6,1900,-3%
 846,Villa,Havnepladsen 13,9560, Hadsund,500000 ,29-08-2021,Alm. Salg,110,4545,2,1949,
 846,Villa,Højtoften 4,9560, Hadsund,1210000 ,29-08-2021,Alm. Salg,146,8288,4,1975,
@@ -802,12 +784,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Godt Gemt 2,9500, Hobro,550000 ,17-08-2021,Alm. Salg,127,4331,3,1951,-15%
 846,Villa,Hyltvej 24,9560, Hadsund,1995000 ,16-08-2021,Alm. Salg,159,12547,6,1929,
 846,Villa,Vandvejen 3,9500, Hobro,900000 ,16-08-2021,Alm. Salg,135,6667,5,1969,-8%
-846,Villa,Balders Vej 2,9500, Hobro,2495000 ,16-08-2021,Alm. Salg,163,15307,5,2018,
 846,Villa,Friheden 11,9500, Hobro,1600000 ,15-08-2021,Alm. Salg,137,11679,5,1951,-6%
 846,Villa,Hannerupvej 134,9620, Aalestrup,213681 ,14-08-2021,Alm. Salg,63,3392,2,1945,
 846,Villa,Monstrupvej 8,9500, Hobro,700000 ,12-08-2021,Alm. Salg,124,5645,2,0,-12%
 846,Villa,Rolighedsvej 11,9500, Hobro,1028000 ,12-08-2021,Alm. Salg,153,6719,5,1980,
-846,Villa,Rønnebærvej 5,9500, Hobro,2675000 ,12-08-2021,Alm. Salg,176,15199,6,1959,-4%
 846,Villa,Mejerivej 25,9510, Arden,1545000 ,12-08-2021,Alm. Salg,135,11444,6,1924,-3%
 846,Rækkehus,Stationsvej 19,9500, Hobro,1100000 ,11-08-2021,Alm. Salg,134,8209,5,1953,
 846,Villa,Teglbakkevej 9,9560, Hadsund,1100000 ,10-08-2021,Alm. Salg,161,6433,7,1956,0%
@@ -864,13 +844,11 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Løgstørvej 86,9500, Hobro,1775000 ,12-07-2021,Alm. Salg,227,7819,5,2000,-1%
 846,Villa,Tykkenkærvej 8,9560, Hadsund,1425000 ,12-07-2021,Fam. Salg,99,14394,4,1942,
 846,Villa,Skolegade 7,9550, Mariager,1110000 ,11-07-2021,Alm. Salg,215,5163,7,1968,-14%
-846,Villa,Østergade 38,9550, Mariager,1107000 ,11-07-2021,Alm. Salg,71,15592,2,1800,24%
 846,Villa,Yduns Vej 22,9500, Hobro,1295000 ,11-07-2021,Alm. Salg,175,7400,2,2022,
 846,Villa,Timandsvej 15,9560, Hadsund,830000 ,10-07-2021,Alm. Salg,168,4940,3,1946,-7%
 846,Villa,Vesterled 21,9560, Hadsund,600000 ,10-07-2021,Alm. Salg,277,2166,4,1965,
 846,Villa,Søndertoften 29,9500, Hobro,2075000 ,08-07-2021,Alm. Salg,153,13562,4,1978,
 846,Villa,Risehøjvej 2,9560, Hadsund,800000 ,08-07-2021,Alm. Salg,188,4255,5,2023,-5%
-846,Villa,Mispelvej 3,9500, Hobro,2300000 ,07-07-2021,Alm. Salg,151,15232,6,2004,
 846,Villa,Nordholt 15,9560, Hadsund,1395000 ,07-07-2021,Alm. Salg,132,10568,4,1980,-7%
 846,Villa,Vidtfeltsvej 5,8990, Fårup,332552 ,07-07-2021,Andet,138,2410,4,1982,-63%
 846,Villa,Søndergade 33,9550, Mariager,585000 ,06-07-2021,Alm. Salg,124,4718,5,1932,-6%
@@ -967,7 +945,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Østergade 72,9560, Hadsund,850000 ,26-05-2021,Alm. Salg,103,8252,4,1958,-5%
 846,Villa,Finderupvej 32,9500, Hobro,662553 ,26-05-2021,Alm. Salg,242,2738,9,1970,
 846,Villa,Hovedgaden 9,9500, Hobro,1540000 ,26-05-2021,Alm. Salg,152,10132,5,1933,-3%
-846,Villa,Hohøje 10,9500, Hobro,2100000 ,25-05-2021,Alm. Salg,138,15217,5,1997,-4%
 846,Villa,Stentoften 30,9550, Mariager,2063000 ,25-05-2021,Alm. Salg,185,11151,4,1980,-2%
 846,Villa,Fjordparken 22,9550, Mariager,1525000 ,24-05-2021,Alm. Salg,172,8866,4,1979,-4%
 846,Villa,Bystien 1,9500, Hobro,500000 ,24-05-2021,Alm. Salg,73,6849,3,1880,-16%
@@ -991,7 +968,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Grøndalsvej 2,9560, Hadsund,1100000 ,17-05-2021,Alm. Salg,148,7432,5,1973,-8%
 846,Villa,Gyvelvej 27,9560, Hadsund,1385000 ,17-05-2021,Alm. Salg,155,8935,4,1974,
 846,Villa,Hannerupvej 197,9500, Hobro,190000 ,17-05-2021,Auktion,190,1000,4,2022,
-846,Villa,Tobberupvej 8,9500, Hobro,5382000 ,16-05-2021,Alm. Salg,350,15377,12,1904,
 846,Villa,Rosendalsvænget 8,9500, Hobro,970000 ,16-05-2021,Alm. Salg,114,8509,4,1948,-3%
 846,Villa,Skovvej 31,9560, Hadsund,1350000 ,12-05-2021,Alm. Salg,120,11250,4,1930,-3%
 846,Villa,Syrenvej 14,9500, Hobro,950000 ,12-05-2021,Alm. Salg,81,11728,3,1963,-13%
@@ -1119,7 +1095,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Villavej 14,9510, Arden,255000 ,22-03-2021,Alm. Salg,78,3269,2,1963,
 846,Villa,Sønderled 12,9510, Arden,960000 ,21-03-2021,Alm. Salg,129,7442,4,2004,-8%
 846,Villa,Enghavevej 24,9500, Hobro,1160000 ,21-03-2021,Alm. Salg,150,7733,5,1959,-3%
-846,Villa,Rønnebærvej 11,9500, Hobro,2320000 ,20-03-2021,Alm. Salg,150,15467,7,1973,-6%
 846,Rækkehus,Stranden 8,9560, Hadsund,975000 ,19-03-2021,Alm. Salg,66,14773,4,1991,
 846,Villa,Hovedgaden 8,9500, Hobro,1300000 ,19-03-2021,Fam. Salg,120,10833,3,1945,
 846,Villa,Miehesgade 40,9510, Arden,1400000 ,18-03-2021,Alm. Salg,155,9032,6,1974,-6%
@@ -1131,7 +1106,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Sønderbyen 7,9510, Arden,2000000 ,17-03-2021,Alm. Salg,217,9217,6,1879,-13%
 846,Villa,Skovmarken 24,9510, Arden,500000 ,17-03-2021,Andet,174,2874,4,1980,
 846,Ejerlejlighed,"Højdevej 26, st. th",9500, Hobro,1100000 ,16-03-2021,Alm. Salg,93,11828,3,1987,
-846,Villa,Tangkrogen 6,9500, Hobro,2300000 ,16-03-2021,Alm. Salg,147,15646,6,1900,
 846,Villa,Hesselholt Skovhuse 63,9510, Arden,915000 ,16-03-2021,Alm. Salg,184,4973,5,2022,
 846,Villa,Klarlunden 7,9510, Arden,295000 ,16-03-2021,Alm. Salg,201,1468,4,2022,
 846,Villa,Ålborgvej 11,9560, Hadsund,845000 ,15-03-2021,Alm. Salg,123,6870,4,1923,
@@ -1147,7 +1121,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Kolonihaven 37,9560, Hadsund,875000 ,10-03-2021,Alm. Salg,179,4888,5,1979,-3%
 846,Villa,Teglværksvej 7,9500, Hobro,2275000 ,10-03-2021,Alm. Salg,189,12037,7,1967,-5%
 846,Villa,Møllevænget 4,9550, Mariager,1000000 ,10-03-2021,Alm. Salg,112,8929,3,1965,-9%
-846,Ejerlejlighed,"Jernbanegade 46, st",9500, Hobro,3440000 ,09-03-2021,Alm. Salg,220,15636,6,1902,
 846,Villa,Skolegade 10,9550, Mariager,450000 ,09-03-2021,Alm. Salg,85,5294,3,1928,
 846,Villa,Hyltvej 22,9560, Hadsund,700000 ,09-03-2021,Alm. Salg,182,3846,7,1976,-3%
 846,Villa,Sønderled 2,9510, Arden,1575000 ,09-03-2021,Alm. Salg,187,8422,6,1986,-1%
@@ -1210,7 +1183,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Skovmarken 30,9510, Arden,1116000 ,14-02-2021,Alm. Salg,125,8928,4,1986,
 846,Villa,Kystvejen 79,9560, Hadsund,1600000 ,12-02-2021,Alm. Salg,174,9195,5,1946,-6%
 846,Villa,True Hovedgade 12,9550, Mariager,550000 ,11-02-2021,Alm. Salg,154,3571,4,1850,-8%
-846,Villa,Hesselholt Skovhuse 89,9510, Arden,4400000 ,11-02-2021,Alm. Salg,284,15493,4,2019,
 846,Villa,Miehesgade 54,9510, Arden,1450000 ,10-02-2021,Alm. Salg,180,8056,5,1973,-3%
 846,Villa,Blegen 9,9560, Hadsund,1350000 ,10-02-2021,Alm. Salg,250,5400,9,1923,-3%
 846,Villa,Søagervej 10,9500, Hobro,128780 ,09-02-2021,Alm. Salg,100,1288,3,1961,
@@ -1375,7 +1347,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Elmevej 39,9500, Hobro,1450000 ,24-11-2020,Alm. Salg,161,9006,6,1959,-3%
 846,Villa,Snæbumvej 30,9500, Hobro,1005000 ,24-11-2020,Alm. Salg,148,6791,6,1964,-4%
 846,Villa,Fyrkatvej 7,9500, Hobro,980000 ,24-11-2020,Alm. Salg,100,9800,2,1956,-2%
-846,Villa,Ved Dammen 2,9500, Hobro,5400000 ,24-11-2020,Alm. Salg,343,15743,6,2010,-9%
 846,Villa,Kystvejen 20,9560, Hadsund,1275000 ,23-11-2020,Alm. Salg,108,11806,3,1924,
 846,Villa,Skovvej 59,9560, Hadsund,750000 ,22-11-2020,Alm. Salg,130,5769,6,1914,-6%
 846,Villa,Plantagevej 31,9500, Hobro,849000 ,22-11-2020,Alm. Salg,148,5736,3,2021,
@@ -1476,7 +1447,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Kystvejen 209,9560, Hadsund,2250000 ,04-10-2020,Alm. Salg,260,8654,6,1877,-8%
 846,Rækkehus,Jernbanegade 36,9560, Hadsund,750000 ,01-10-2020,Alm. Salg,73,10274,3,1985,-6%
 846,Villa,Fyrrebakken 8,9560, Hadsund,1100000 ,01-10-2020,Alm. Salg,167,6587,6,1975,-8%
-846,Villa,Bækparken 3,9500, Hobro,1700000 ,01-10-2020,Alm. Salg,120,14167,4,1977,
 846,Villa,Stentoften 36,9550, Mariager,1300000 ,01-10-2020,Alm. Salg,226,5752,7,1977,
 846,Villa,Ouevej 28,9500, Hobro,350000 ,30-09-2020,Alm. Salg,86,4070,2,1890,-11%
 846,Villa,Skolebakken 2,8990, Fårup,415178 ,30-09-2020,Fam. Salg,278,1493,8,1877,
@@ -1491,12 +1461,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Fruerlundvej 7,9560, Hadsund,2345000 ,27-09-2020,Alm. Salg,277,8466,7,1903,-2%
 846,Villa,Kjellerupsgade 43,9560, Hadsund,1745000 ,27-09-2020,Alm. Salg,286,6101,5,1877,-3%
 846,Villa,Bymarken 30A,9510, Arden,1142840 ,27-09-2020,Fam. Salg,152,7519,4,2007,
-846,Villa,Sdr Alle 12,9510, Arden,1350000 ,25-09-2020,Alm. Salg,128,10547,4,1927,
 846,Villa,Fjordparken 38,9500, Hobro,816000 ,24-09-2020,Fam. Salg,120,6800,4,1980,
 846,Villa,Daniavej 133,9550, Mariager,1300000 ,24-09-2020,Alm. Salg,118,11017,3,1951,-7%
 846,Rækkehus,Brovej 32,9510, Arden,550000 ,23-09-2020,Alm. Salg,93,5914,3,1981,
 846,Villa,Østervang 4,9500, Hobro,690445 ,23-09-2020,Alm. Salg,124,5568,4,1930,-54%
-846,Rækkehus,Thujavej 33A,9500, Hobro,1875000 ,22-09-2020,Alm. Salg,119,15756,4,2020,-6%
 846,Villa,Søhøjvej 40,9560, Hadsund,1650000 ,22-09-2020,Alm. Salg,150,11000,3,1983,-8%
 846,Villa,Drosselvej 16,9550, Mariager,250000 ,21-09-2020,Alm. Salg,102,2451,3,1958,-9%
 846,Villa,Øster Hurupvej 19,9560, Hadsund,238463 ,21-09-2020,Auktion,109,2188,6,1955,-52%
@@ -1642,7 +1610,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Thujavej 14,9500, Hobro,2500000 ,16-07-2020,Alm. Salg,165,15152,6,2014,-4%
 846,Villa,Storegade 31,9500, Hobro,350000 ,15-07-2020,Alm. Salg,98,3571,4,1965,
 846,Villa,Gettrupvej 36,9550, Mariager,2360000 ,14-07-2020,Alm. Salg,270,8741,5,2013,
-846,Rækkehus,Klostergade 28,9550, Mariager,1980000 ,12-07-2020,Alm. Salg,127,15591,4,2019,
 846,Villa,Hannerupvej 289,9500, Hobro,285000 ,12-07-2020,Alm. Salg,86,3314,3,1967,
 846,Villa,Teglvænget 66,9560, Hadsund,825000 ,12-07-2020,Alm. Salg,167,4940,5,1987,-8%
 846,Rækkehus,Stranden 55,9560, Hadsund,750000 ,09-07-2020,Alm. Salg,66,11364,4,1991,-6%
@@ -1672,7 +1639,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Borgervej 16,9500, Hobro,570000 ,29-06-2020,Alm. Salg,132,4318,5,1920,-18%
 846,Villa,Trinderupvej 5,9550, Mariager,475000 ,28-06-2020,Alm. Salg,48,9896,3,1877,
 846,Villa,Skovvej 34,9510, Arden,1495000 ,28-06-2020,Alm. Salg,208,7188,6,1907,
-846,Villa,Snehøjvej 7,9500, Hobro,2525000 ,28-06-2020,Alm. Salg,162,15586,5,2011,
 846,Villa,Digtervænget 42,9550, Mariager,1810000 ,27-06-2020,Alm. Salg,156,11603,4,2001,-7%
 846,Rækkehus,Stranden 61,9560, Hadsund,660000 ,25-06-2020,Alm. Salg,66,10000,3,1991,-4%
 846,Rækkehus,Hohøje 42,9500, Hobro,1375000 ,25-06-2020,Alm. Salg,121,11364,4,1989,-1%
@@ -1697,7 +1663,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Fasanvej 1,9560, Hadsund,620000 ,15-06-2020,Auktion,82,7561,3,1927,-11%
 846,Villa,Møllevænget 1,9510, Arden,310000 ,15-06-2020,Auktion,133,2331,4,1976,
 846,Villa,Tværvej 9,9560, Hadsund,585000 ,15-06-2020,Auktion,68,8603,3,1962,
-846,Villa,Spiraeavej 3,9500, Hobro,2300000 ,15-06-2020,Alm. Salg,147,15646,6,2003,
 846,Villa,Veddum Hovedgade 54,9560, Hadsund,183500 ,15-06-2020,Auktion,149,1232,6,1908,
 846,Villa,Havnepladsen 7,9560, Hadsund,1290000 ,14-06-2020,Alm. Salg,179,7207,7,1941,-8%
 846,Villa,Strandkæret 1,9560, Hadsund,1990000 ,14-06-2020,Alm. Salg,226,8805,6,1936,-5%
@@ -1748,7 +1713,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Møllebakken 36,9500, Hobro,1175000 ,21-05-2020,Alm. Salg,125,9400,5,1964,-9%
 846,Villa,True Hovedgade 24,9550, Mariager,645000 ,19-05-2020,Alm. Salg,145,4448,4,1917,-12%
 846,Villa,Hobrovej 59,9500, Hobro,860000 ,19-05-2020,Alm. Salg,115,7478,3,1964,-2%
-846,Villa,Beltoftsgade 6,9500, Hobro,2500000 ,19-05-2020,Alm. Salg,161,15528,5,1936,
 846,Villa,Digtervænget 111,9550, Mariager,1750000 ,19-05-2020,Alm. Salg,121,14463,2,1998,-2%
 846,Villa,Ølsvej 4,9500, Hobro,1100000 ,19-05-2020,Fam. Salg,180,6111,5,1941,
 846,Villa,Bogfinkevej 6,9550, Mariager,700000 ,18-05-2020,Alm. Salg,140,5000,4,1972,-12%
@@ -1767,7 +1731,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Vestparken 64,9550, Mariager,1210000 ,12-05-2020,Alm. Salg,127,9528,4,1974,-5%
 846,Villa,Skovbo Allé 13,9500, Hobro,2625000 ,12-05-2020,Alm. Salg,183,14344,5,2008,
 846,Villa,Højlundsvej 16,9560, Hadsund,600000 ,11-05-2020,Alm. Salg,221,2715,5,1952,
-846,Villa,Klarlunden 36,9510, Arden,2435000 ,11-05-2020,Alm. Salg,155,15710,7,2004,-2%
 846,Villa,Chorsvej 16,9500, Hobro,1470000 ,10-05-2020,Alm. Salg,128,11484,5,1973,-2%
 846,Villa,Stentoften 37,9550, Mariager,1200000 ,10-05-2020,Alm. Salg,244,4918,5,1978,
 846,Villa,Miehesgade 49,9510, Arden,1645000 ,08-05-2020,Alm. Salg,180,9139,5,1973,
@@ -1784,7 +1747,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Kjellerupsgade 58,9560, Hadsund,674999 ,03-05-2020,Andet,185,3649,5,1912,
 846,Villa,Jernbanegade 35,9560, Hadsund,500000 ,03-05-2020,Alm. Salg,163,3067,3,0,
 846,Villa,Brovej 17,9510, Arden,1845000 ,03-05-2020,Alm. Salg,175,10543,5,1979,
-846,Villa,Jernbanegade 63,9560, Hadsund,1000000 ,30-04-2020,Alm. Salg,64,15625,2,1954,
 846,Villa,Randersvej 92,9500, Hobro,1380000 ,30-04-2020,Alm. Salg,172,8023,4,1927,-1%
 846,Villa,Houvej 41,9550, Mariager,820000 ,30-04-2020,Alm. Salg,106,7736,4,1950,-5%
 846,Rækkehus,Korsgade 21,9500, Hobro,875000 ,28-04-2020,Alm. Salg,80,10938,4,1986,-12%
@@ -1804,9 +1766,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Nebstrupvej 1,8970, Havndal,75000 ,20-04-2020,Alm. Salg,114,658,4,1912,
 846,Villa,Kærvej 112,9560, Hadsund,535000 ,20-04-2020,Alm. Salg,142,3768,3,1910,-22%
 846,Villa,Bakkevej 1,9550, Mariager,898000 ,20-04-2020,Alm. Salg,83,10819,2,1877,
-846,Ejerlejlighed,"Storegade 36A, 1. tv",9560, Hadsund,650000 ,19-04-2020,Alm. Salg,44,14773,1,1900,
-846,Ejerlejlighed,"Storegade 36A, 1. th",9560, Hadsund,650000 ,19-04-2020,Alm. Salg,88,7386,2,1900,
-846,Ejerlejlighed,Jacob Møllersgade 2A,9560, Hadsund,650000 ,19-04-2020,Alm. Salg,77,8442,2,1900,
 846,Villa,Ørnevej 11,9500, Hobro,1460000 ,19-04-2020,Alm. Salg,145,10069,6,1969,-7%
 846,Villa,Hodalsvej 20,9500, Hobro,1025000 ,19-04-2020,Alm. Salg,92,11141,3,1962,-7%
 846,Villa,Lillemøllevej 12,9500, Hobro,1215000 ,19-04-2020,Alm. Salg,150,8100,5,1967,-6%
@@ -1830,7 +1789,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Ulstrupvej 3,9500, Hobro,1000000 ,31-03-2020,Alm. Salg,136,7353,4,1973,
 846,Villa,Industrivej 3,9550, Mariager,850000 ,30-03-2020,Alm. Salg,271,3137,7,1972,-15%
 846,Villa,Anna Damborgsvej 1,9510, Arden,2250000 ,30-03-2020,Alm. Salg,183,12295,5,1952,
-846,Villa,Sjællandsgade 24,9560, Hadsund,1400000 ,30-03-2020,Alm. Salg,92,15217,4,1962,
 846,Villa,Chorsvej 9,9500, Hobro,1115000 ,30-03-2020,Alm. Salg,122,9139,3,1970,
 846,Villa,Sjællandsgade 22,9560, Hadsund,1450000 ,30-03-2020,Alm. Salg,110,13182,4,1962,
 846,Villa,Mølhøjvej 9,9500, Hobro,620000 ,30-03-2020,Alm. Salg,172,3605,4,2020,-27%
@@ -1905,7 +1863,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Hobrovej 184,9560, Hadsund,60000 ,23-02-2020,Alm. Salg,149,403,6,1888,
 846,Villa,Mågevej 4,9560, Hadsund,610000 ,21-02-2020,Alm. Salg,115,5304,4,1960,-18%
 846,Rækkehus,Ledsagervej 9,9500, Hobro,415000 ,20-02-2020,Alm. Salg,87,4770,4,1989,
-846,Villa,Storardenvej 18A,9510, Arden,400000 ,20-02-2020,Alm. Salg,76,5263,4,1936,
 846,Villa,Lupinvej 4,9560, Hadsund,865000 ,20-02-2020,Alm. Salg,140,6179,4,1933,-3%
 846,Rækkehus,Skovbovej 27,9560, Hadsund,550000 ,19-02-2020,Alm. Salg,81,6790,3,1989,38%
 846,Villa,Myhlenbergvej 37,9510, Arden,675000 ,19-02-2020,Alm. Salg,108,6250,3,1961,-9%
@@ -1932,7 +1889,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Veddum Hovedgade 15,9560, Hadsund,40000 ,06-02-2020,Alm. Salg,168,238,6,0,-18%
 846,Villa,Vildrosen 5,9510, Arden,1450000 ,05-02-2020,Alm. Salg,196,7398,7,1984,-3%
 846,Villa,Skovvej 14,9500, Hobro,1500000 ,05-02-2020,Alm. Salg,165,9091,6,1909,-6%
-846,Villa,Valmuevej 12A,9500, Hobro,2200000 ,04-02-2020,Fam. Salg,142,15493,5,2008,
 846,Villa,Østergade 31,9550, Mariager,1235000 ,03-02-2020,Alm. Salg,144,8576,5,1931,
 846,Villa,Kirkedals Alle 31,9500, Hobro,2275000 ,03-02-2020,Alm. Salg,185,12297,7,1974,0%
 846,Rækkehus,Aalborgvej 5A,9500, Hobro,93375 ,02-02-2020,Alm. Salg,80,1167,3,1877,
@@ -1971,25 +1927,21 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Hesselholt Skovhuse 19,9510, Arden,540000 ,07-01-2020,Alm. Salg,155,3484,5,2020,
 846,Villa,Hadsundvej 62,9550, Mariager,425000 ,06-01-2020,Alm. Salg,178,2388,5,0,-14%
 846,Villa,Lundgårdsvej 14,9510, Arden,325000 ,06-01-2020,Auktion,131,2481,4,1954,
-846,Villa,Syrenvej 1,9550, Mariager,245000 ,05-01-2020,Alm. Salg,99,2475,3,1960,-29%
 846,Villa,Udsigten 11,9500, Hobro,524500 ,05-01-2020,Alm. Salg,150,3497,4,1958,
 846,Villa,Digtervænget 73,9550, Mariager,2200000 ,03-01-2020,Alm. Salg,174,12644,5,1995,-4%
 846,Villa,Amerikavej 8,9500, Hobro,1300000 ,02-01-2020,Alm. Salg,156,8333,6,1968,-13%
 846,Villa,Bøgelunden 2,9560, Hadsund,2095000 ,30-12-2019,Fam. Salg,158,13259,5,2008,
-846,Villa,Østergade 37,9550, Mariager,2100000 ,29-12-2019,Alm. Salg,133,15789,4,1860,-4%
 846,Villa,Carl Nielsens Vej 13,9550, Mariager,2500000 ,29-12-2019,Alm. Salg,364,6868,6,2009,-17%
 846,Villa,Thostruphovgårdsvej 10,9500, Hobro,750000 ,26-12-2019,Alm. Salg,105,7143,3,1965,-6%
 846,Villa,Nyvang 6,9500, Hobro,251000 ,25-12-2019,Alm. Salg,92,2728,4,1949,-33%
 846,Villa,Bekkasinvej 16,9560, Hadsund,1375000 ,24-12-2019,Alm. Salg,205,6707,6,1985,-8%
 846,Villa,Fjelsted Søvej 5,9550, Mariager,834772 ,23-12-2019,Fam. Salg,124,6732,3,1904,
-846,Rækkehus,Vester Højgård Vej 10,9500, Hobro,1595000 ,22-12-2019,Alm. Salg,103,15485,4,2019,
 846,Villa,Gl Randersvej 30,9560, Hadsund,900000 ,22-12-2019,Fam. Salg,185,4865,5,1979,
 846,Villa,Miehesgade 78,9510, Arden,1525000 ,20-12-2019,Alm. Salg,245,6224,7,1974,-4%
 846,Ejerlejlighed,"Adelgade 50, 1",9500, Hobro,1250000 ,19-12-2019,Andet,114,10965,5,1890,
 846,Villa,Grovevej 1,9550, Mariager,750000 ,18-12-2019,Alm. Salg,160,4688,6,1904,-16%
 846,Villa,Fyrkatvej 21,9500, Hobro,625000 ,18-12-2019,Alm. Salg,117,5342,6,1952,-3%
 846,Villa,Terndrupvej 9,9510, Arden,450000 ,18-12-2019,Andet,114,3947,5,1944,
-846,Villa,Terndrupvej 29,9510, Arden,4525000 ,18-12-2019,Andet,378,11971,9,2002,
 846,Villa,Timandsvej 1,9560, Hadsund,301750 ,17-12-2019,Fam. Salg,89,3390,3,1983,
 846,Villa,Milmosevej 4,9510, Arden,350000 ,17-12-2019,Alm. Salg,158,2215,5,2021,-11%
 846,Villa,Østergade 15,9560, Hadsund,675000 ,17-12-2019,Alm. Salg,177,3814,5,1900,
@@ -2083,7 +2035,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Renden 8,9560, Hadsund,300000 ,21-10-2019,Alm. Salg,124,2419,4,1985,
 846,Villa,Vejrmøllegården 7,9550, Mariager,2600000 ,20-10-2019,Alm. Salg,192,13542,4,1976,-10%
 846,Villa,Rønnebærvej 6,9500, Hobro,1395000 ,20-10-2019,Alm. Salg,108,12917,4,1975,
-846,Villa,Stenmosevej 12,9500, Hobro,900000 ,20-10-2019,Fam. Salg,178,5056,5,2007,
 846,Villa,Brohusvej 20,9560, Hadsund,975000 ,18-10-2019,Alm. Salg,183,5328,5,1887,-2%
 846,Villa,Enghavevej 40,9500, Hobro,1460000 ,17-10-2019,Alm. Salg,146,10000,4,1930,
 846,Villa,Øster Hurupvej 36,9560, Hadsund,656196 ,16-10-2019,Fam. Salg,204,3217,7,1974,
@@ -2183,7 +2134,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Rækkehus,Nørregade 9,9560, Hadsund,630000 ,26-08-2019,Alm. Salg,146,4315,5,1877,
 846,Villa,Engvangsvej 1,9510, Arden,420000 ,26-08-2019,Alm. Salg,85,4941,4,1950,
 846,Villa,Bækparken 45,9500, Hobro,640000 ,26-08-2019,Alm. Salg,132,4848,4,1979,-19%
-846,Villa,Thujavej 7,9500, Hobro,2750000 ,26-08-2019,Alm. Salg,175,15714,5,2015,-2%
 846,Villa,Birkegade 4,9500, Hobro,1560000 ,25-08-2019,Alm. Salg,162,9630,4,1983,
 846,Villa,Vejrmøllegården 8,9550, Mariager,3188000 ,25-08-2019,Alm. Salg,258,12357,4,1979,
 846,Villa,Søhalevej 50,9500, Hobro,2200000 ,25-08-2019,Alm. Salg,194,11340,5,1924,10%
@@ -2358,7 +2308,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Hvarrevej 20,9510, Arden,1800000 ,21-05-2019,Alm. Salg,315,5714,8,1917,-5%
 846,Villa,Christiansgade 4,9500, Hobro,1195000 ,21-05-2019,Alm. Salg,131,9122,4,1987,-8%
 846,Villa,Fladbjergvej 1A,9550, Mariager,2700000 ,20-05-2019,Alm. Salg,195,13846,5,2004,
-846,Villa,Gasværksvej 12,9500, Hobro,2287500 ,20-05-2019,Alm. Salg,150,15250,4,1943,-3%
 846,Villa,Miehesgade 100,9510, Arden,506095 ,19-05-2019,Andet,108,4686,4,1975,
 846,Villa,Rolighedsvej 9,9500, Hobro,650000 ,18-05-2019,Alm. Salg,122,5328,5,1972,-18%
 846,Villa,Østergade 12,9510, Arden,1075000 ,15-05-2019,Alm. Salg,85,8144,5,1900,-19%
@@ -2366,7 +2315,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Gammel Amerikavej 7,9500, Hobro,2325000 ,14-05-2019,Alm. Salg,245,9490,6,1971,-1%
 846,Villa,Industrivej 7,9510, Arden,1975000 ,14-05-2019,Alm. Salg,158,12500,6,1986,
 846,Villa,Albuen 6,9500, Hobro,525000 ,14-05-2019,Alm. Salg,176,2983,5,2019,
-846,Villa,Strandvej 53,9500, Hobro,2450000 ,13-05-2019,Alm. Salg,157,15605,4,1929,2%
 846,Rækkehus,Stranden 64,9560, Hadsund,730000 ,12-05-2019,Alm. Salg,66,11061,3,1991,-9%
 846,Villa,Østervang 4,9500, Hobro,1375000 ,12-05-2019,Alm. Salg,124,11089,4,1930,-4%
 846,Villa,Lyngvej 9,9560, Hadsund,706100 ,09-05-2019,Alm. Salg,104,6789,4,1957,-6%
@@ -2459,7 +2407,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Rækkehus,Stranden 48,9560, Hadsund,875000 ,14-03-2019,Alm. Salg,66,13258,4,1991,
 846,Villa,Møgelholtvej 67,9560, Hadsund,1444000 ,14-03-2019,Alm. Salg,188,7681,6,1880,
 846,Villa,Kjellerupsgade 13,9560, Hadsund,580000 ,14-03-2019,Alm. Salg,98,5918,4,1961,
-846,Villa,Gl Visborgvej 69,9560, Hadsund,1465000 ,14-03-2019,Alm. Salg,95,15421,4,1870,-2%
 846,Villa,Fjordparken 17,9550, Mariager,2350000 ,13-03-2019,Alm. Salg,215,10930,7,1979,-6%
 846,Villa,Mågevej 28,9500, Hobro,2150000 ,13-03-2019,Alm. Salg,144,14931,4,1965,-6%
 846,Villa,Oplevvej 3,9500, Hobro,750000 ,13-03-2019,Alm. Salg,166,4518,6,1920,1%
@@ -2489,7 +2436,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Solborgvej 7,9500, Hobro,1440000 ,27-02-2019,Alm. Salg,139,10360,6,1962,-4%
 846,Villa,Sjællandsgade 12,9560, Hadsund,2150000 ,27-02-2019,Alm. Salg,144,14931,4,2009,-14%
 846,Villa,Rosenvang 53,9500, Hobro,900000 ,27-02-2019,Alm. Salg,197,4569,4,2022,
-846,Ejerlejlighed,"Randersvej 124, st. mf",8990, Fårup,5200000 ,26-02-2019,Alm. Salg,352,14773,5,1966,-13%
 846,Villa,Mågevej 15,9500, Hobro,1400000 ,26-02-2019,Alm. Salg,174,8046,7,1962,-6%
 846,Villa,Hodalsvej 13A,9500, Hobro,1050000 ,26-02-2019,Alm. Salg,138,7609,7,1945,-4%
 846,Villa,Hovedgaden 17,9500, Hobro,1045000 ,26-02-2019,Alm. Salg,196,5332,6,1936,
@@ -2560,22 +2506,18 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Solvangen 3,9500, Hobro,800000 ,08-01-2019,Fam. Salg,161,4969,5,1975,
 846,Villa,Hasselholt 8,9560, Hadsund,1530000 ,08-01-2019,Alm. Salg,163,9387,8,1916,-1%
 846,Villa,Albuen 8,9500, Hobro,525000 ,08-01-2019,Alm. Salg,160,3281,5,2019,
-846,Rækkehus,Vester Højgård Vej 16,9500, Hobro,1595000 ,07-01-2019,Alm. Salg,103,15485,4,2019,
 846,Villa,Veddum Hovedgade 62,9560, Hadsund,640000 ,07-01-2019,Alm. Salg,161,3975,6,1918,-4%
 846,Villa,Baneskoven 17,9500, Hobro,1330000 ,07-01-2019,Fam. Salg,389,3419,11,2007,
 846,Villa,Bystien 4,9500, Hobro,100000 ,07-01-2019,Alm. Salg,175,571,4,2020,-43%
 846,Villa,Hesselholt Skovhuse 31,9510, Arden,690000 ,07-01-2019,Alm. Salg,196,3520,4,2019,
 846,Villa,Lundgårdsvej 18,9510, Arden,267516 ,06-01-2019,Andet,177,1511,8,1911,-62%
 846,Villa,Ved Stranden 60,9560, Hadsund,425000 ,03-01-2019,Alm. Salg,152,2796,5,2021,
-846,Villa,Lilleardenvej 11B,9510, Arden,1508000 ,31-12-2018,Alm. Salg,226,6673,8,1900,
 846,Villa,Rævebakken 1,9500, Hobro,740000 ,27-12-2018,Alm. Salg,128,5781,3,1942,-3%
 846,Villa,Kærvej 21,9500, Hobro,940000 ,26-12-2018,Alm. Salg,142,6620,4,1974,
 846,Villa,Bøgelunden 4,9560, Hadsund,295000 ,26-12-2018,Alm. Salg,215,1372,6,2019,-25%
 846,Villa,Als Oddevej 33,9560, Hadsund,350000 ,25-12-2018,Alm. Salg,111,3153,5,1800,
 846,Villa,Rosenvej 10,9560, Hadsund,1100000 ,24-12-2018,Alm. Salg,198,5556,8,1965,
 846,Villa,Hybenvej 19,9560, Hadsund,805000 ,22-12-2018,Alm. Salg,164,4909,6,1978,-5%
-846,Villa,Ved Stranden 66,9560, Hadsund,2250000 ,21-12-2018,Alm. Salg,145,15517,4,2012,
-846,Rækkehus,Vester Højgård Vej 14,9500, Hobro,1595000 ,20-12-2018,Alm. Salg,103,15485,4,2019,
 846,Rækkehus,Vinkelvej 1B,9500, Hobro,1312500 ,20-12-2018,Alm. Salg,97,13531,4,2003,-3%
 846,Villa,Engsvang 6,9500, Hobro,665000 ,20-12-2018,Fam. Salg,186,3575,8,1962,
 846,Villa,Valmuevej 6,9560, Hadsund,950000 ,19-12-2018,Alm. Salg,67,14179,3,1957,
@@ -2628,7 +2570,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Daniavej 127,9550, Mariager,1300000 ,27-11-2018,Alm. Salg,139,9353,3,1971,-13%
 846,Villa,Bogfinkevej 1,9500, Hobro,300000 ,27-11-2018,Fam. Salg,195,1538,8,1897,
 846,Villa,Johannes V. Jensens Vej 8,9500, Hobro,595000 ,27-11-2018,Alm. Salg,170,3500,4,2018,
-846,Rækkehus,Vester Højgård Vej 20,9500, Hobro,1595000 ,26-11-2018,Alm. Salg,103,15485,4,2019,
 846,Rækkehus,Skovbovej 7,9560, Hadsund,303700 ,26-11-2018,Auktion,73,4160,3,1982,
 846,Villa,Anlægsvej 2,9500, Hobro,160000 ,25-11-2018,Alm. Salg,140,1143,5,1900,
 846,Villa,Fjordparken 23,9500, Hobro,1261000 ,21-11-2018,Alm. Salg,109,11569,4,1989,15%
@@ -2696,7 +2637,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Ranunkelvej 19,9500, Hobro,1475000 ,10-10-2018,Alm. Salg,175,8429,7,1976,-9%
 846,Villa,Hannerupvej 221,9500, Hobro,307000 ,10-10-2018,Alm. Salg,60,5117,1,1946,
 846,Villa,Søndergade 25,9550, Mariager,905000 ,08-10-2018,Fam. Salg,130,6962,4,1969,
-846,Villa,Teglgade 22,9550, Mariager,3200000 ,08-10-2018,Alm. Salg,206,15534,6,1930,
 846,Villa,Hohøje 94,9500, Hobro,2150000 ,07-10-2018,Alm. Salg,148,14527,6,2006,-2%
 846,Villa,Skovvej 39B,9560, Hadsund,2400000 ,05-10-2018,Fam. Salg,197,12183,6,1980,
 846,Villa,Dalsmindevej 2,9560, Hadsund,600000 ,04-10-2018,Alm. Salg,150,4000,5,1922,-25%
@@ -2780,7 +2720,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Højbovej 3,8990, Fårup,575000 ,22-08-2018,Alm. Salg,141,4078,5,1972,-8%
 846,Villa,Hobrovej 59,9500, Hobro,960000 ,22-08-2018,Alm. Salg,115,8348,3,1964,-4%
 846,Villa,Randersvej 12,9500, Hobro,1400000 ,22-08-2018,Alm. Salg,160,8750,3,1955,-12%
-846,Rækkehus,Hesselholtvej 1B,9510, Arden,1595000 ,21-08-2018,Alm. Salg,104,15337,3,2018,
 846,Villa,Skovbo Allé 2,9500, Hobro,2345000 ,19-08-2018,Alm. Salg,168,13958,6,2005,
 846,Villa,Nr Redsøvej 4,9500, Hobro,1350000 ,19-08-2018,Alm. Salg,187,7219,5,1974,-7%
 846,Villa,Digtervænget 107,9550, Mariager,1610000 ,19-08-2018,Alm. Salg,183,8798,7,1999,-7%
@@ -2796,7 +2735,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Frejasvej 5,9500, Hobro,800000 ,12-08-2018,Alm. Salg,115,6957,4,1987,
 846,Villa,Norupvej 104,8970, Havndal,375000 ,12-08-2018,Alm. Salg,110,3409,5,1820,-5%
 846,Villa,Døstrupvej 44,9500, Hobro,1500000 ,12-08-2018,Alm. Salg,195,7692,7,1962,-12%
-846,Rækkehus,Klejtrupvej 15A,9500, Hobro,4000000 ,09-08-2018,Andet,258,15504,8,1997,
 846,Villa,Sønderholt 22,9560, Hadsund,406773 ,09-08-2018,Fam. Salg,153,2659,5,1980,
 846,Villa,True Hovedgade 18,9550, Mariager,675000 ,08-08-2018,Alm. Salg,131,5153,4,1937,-3%
 846,Villa,Skolebakken 45,8990, Fårup,1107825 ,08-08-2018,Alm. Salg,165,6714,4,1877,
@@ -2827,9 +2765,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Visborgvej 9,9560, Hadsund,450000 ,24-07-2018,Alm. Salg,141,3191,4,1963,-17%
 846,Villa,Storkebakken 12,9500, Hobro,2790000 ,23-07-2018,Alm. Salg,255,10941,6,1964,
 846,Villa,Bakken 19,9500, Hobro,975000 ,22-07-2018,Alm. Salg,150,6500,5,1991,-9%
-846,Rækkehus,Hesselholtvej 1A,9510, Arden,1595000 ,19-07-2018,Alm. Salg,104,15337,3,2018,
 846,Villa,Kridtvejen 6,9510, Arden,1190000 ,19-07-2018,Alm. Salg,150,7933,5,1987,-4%
-846,Rækkehus,Vester Højgård Vej 6,9500, Hobro,1595000 ,17-07-2018,Alm. Salg,103,15485,4,2019,
 846,Villa,Kvædeparken 1,9500, Hobro,1750000 ,17-07-2018,Alm. Salg,142,12324,5,1977,
 846,Villa,Hovangsvej 45,9500, Hobro,820000 ,17-07-2018,Alm. Salg,107,7664,3,1962,-4%
 846,Rækkehus,Stranden 46,9560, Hadsund,700000 ,16-07-2018,Alm. Salg,66,10606,3,1991,-5%
@@ -2847,12 +2783,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Fjordbakken 61,9560, Hadsund,1132000 ,10-07-2018,Alm. Salg,150,7547,6,1976,-1%
 846,Ejerlejlighed,"Mejerigade 1, 2. tv",9560, Hadsund,500000 ,09-07-2018,Alm. Salg,101,4950,3,1902,
 846,Villa,Udsigten 3,9550, Mariager,1380000 ,09-07-2018,Alm. Salg,113,12212,4,1954,-8%
-846,Rækkehus,Vester Højgård Vej 4,9500, Hobro,1595000 ,08-07-2018,Alm. Salg,103,15485,4,2018,
 846,Villa,Spurvevej 7,9500, Hobro,1200000 ,08-07-2018,Alm. Salg,108,11111,4,1974,-8%
 846,Villa,Oxendalen 2,9550, Mariager,1350000 ,08-07-2018,Alm. Salg,144,9375,4,1966,
 846,Villa,Storarden Byvej 22,9510, Arden,400000 ,08-07-2018,Alm. Salg,176,2273,7,1883,
 846,Villa,Fasanvej 6,9500, Hobro,1510000 ,08-07-2018,Alm. Salg,148,10203,6,1970,-2%
-846,Villa,Ved Stranden 68,9560, Hadsund,2625000 ,08-07-2018,Alm. Salg,167,15719,3,2015,-4%
 846,Villa,Østergade 97,9560, Hadsund,670000 ,05-07-2018,Alm. Salg,112,5982,4,1961,-4%
 846,Villa,Løgstørvej 11A,9500, Hobro,1880000 ,05-07-2018,Alm. Salg,177,10621,7,1964,
 846,Villa,Miehesgade 59,9510, Arden,650000 ,05-07-2018,Fam. Salg,128,5078,4,1973,
@@ -2861,10 +2795,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Borupvej 8,9510, Arden,530000 ,05-07-2018,Fam. Salg,170,3118,5,1974,
 846,Villa,Højmarken 30,9560, Hadsund,230000 ,05-07-2018,Alm. Salg,214,1075,5,2020,
 846,Villa,Als Oddevej 83,9560, Hadsund,575000 ,04-07-2018,Alm. Salg,82,7012,3,1887,
-846,Ejerlejlighed,"Kystvejen 63, 1",9560, Hadsund,1860000 ,03-07-2018,Alm. Salg,119,15630,4,1984,
 846,Villa,Hovedgaden 21,9500, Hobro,500000 ,03-07-2018,Alm. Salg,111,4505,5,1929,
 846,Villa,Kystvejen 95,9560, Hadsund,1080000 ,02-07-2018,Fam. Salg,117,9231,5,1952,
-846,Villa,Markedsgade 24,9500, Hobro,100 ,02-07-2018,Andet,142,1,6,1928,
 846,Villa,Døstrupvej 119,9500, Hobro,1100000 ,02-07-2018,Alm. Salg,127,8661,3,1939,12%
 846,Villa,Burholt 41,9560, Hadsund,1600000 ,28-06-2018,Alm. Salg,154,10390,5,1978,
 846,Villa,Svalevej 7,9550, Mariager,540000 ,27-06-2018,Alm. Salg,70,7714,6,1935,-9%
@@ -3171,7 +3103,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Hovangsvej 21,9500, Hobro,1200000 ,17-12-2017,Alm. Salg,148,8108,7,1930,-4%
 846,Villa,Myhlenbergvej 30,9510, Arden,1575000 ,16-12-2017,Alm. Salg,137,11496,5,1947,-1%
 846,Villa,Snehøjvej 3,9500, Hobro,495000 ,16-12-2017,Alm. Salg,177,2797,5,2018,
-846,Villa,Vestergade 18,9510, Arden,1700000 ,14-12-2017,Fam. Salg,242,4146,9,1892,
 846,Villa,Skolevænget 23,9550, Mariager,570000 ,13-12-2017,Fam. Salg,143,3986,5,1972,
 846,Villa,Vadgårdsvej 3,9500, Hobro,1635000 ,13-12-2017,Alm. Salg,230,7109,8,1973,-2%
 846,Villa,Søvænget 2,9500, Hobro,650000 ,13-12-2017,Alm. Salg,108,6019,5,1980,
@@ -3291,7 +3222,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Kvædeparken 24,9500, Hobro,1340000 ,11-10-2017,Alm. Salg,148,9054,5,1977,-3%
 846,Villa,Højbakken 9,9560, Hadsund,1350000 ,11-10-2017,Alm. Salg,98,13776,3,1961,
 846,Villa,Skovbrynet 7,9500, Hobro,1850000 ,11-10-2017,Alm. Salg,180,10278,7,1969,-5%
-846,Villa,Hannerupvej 265,9500, Hobro,600000 ,11-10-2017,Alm. Salg,115,5217,3,1970,
 846,Villa,Kongsvad Møllevej 3,9500, Hobro,450000 ,10-10-2017,Fam. Salg,150,3000,6,1897,
 846,Villa,Skelund Hovedgade 35,9560, Hadsund,495000 ,10-10-2017,Alm. Salg,124,3992,4,1870,-14%
 846,Villa,Nyvej 11,9500, Hobro,1150000 ,08-10-2017,Alm. Salg,135,8519,5,1906,-9%
@@ -3312,13 +3242,11 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Tranevej 28,9560, Hadsund,1325000 ,28-09-2017,Alm. Salg,137,9672,5,2000,-5%
 846,Rækkehus,Thujavej 39,9500, Hobro,1475000 ,27-09-2017,Alm. Salg,105,14048,4,2014,
 846,Villa,Lysevej 13,9560, Hadsund,99000 ,27-09-2017,Alm. Salg,60,1650,5,1840,
-846,Villa,Digtervænget 113,9550, Mariager,2350000 ,27-09-2017,Alm. Salg,153,15359,4,2000,-4%
 846,Villa,Hyldevej 5,9500, Hobro,2150000 ,27-09-2017,Alm. Salg,174,12356,5,2007,-2%
 846,Villa,Bilidtvej 4,8990, Fårup,1445000 ,26-09-2017,Alm. Salg,202,7153,6,1927,
 846,Villa,Gadegårdsvej 19,9500, Hobro,450000 ,26-09-2017,Alm. Salg,102,4412,3,1965,-9%
 846,Villa,Vandhøjvej 3,9560, Hadsund,200000 ,25-09-2017,Auktion,130,1538,4,1976,
 846,Villa,Tyttebærvej 10,9500, Hobro,795000 ,25-09-2017,Fam. Salg,192,4141,5,2021,
-846,Villa,Kirkebakken 2B,9550, Mariager,4000000 ,24-09-2017,Alm. Salg,254,15748,6,1900,
 846,Villa,Vægtervej 1,9550, Mariager,150000 ,24-09-2017,Alm. Salg,71,2113,4,1915,
 846,Villa,Bavnehøjvej 3,9500, Hobro,375000 ,24-09-2017,Alm. Salg,168,2232,5,2018,
 846,Villa,Klejtrupvej 86,9500, Hobro,300000 ,23-09-2017,Alm. Salg,104,2885,5,1927,
@@ -3594,7 +3522,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Sydtoften 11,9560, Hadsund,800000 ,16-04-2017,Fam. Salg,156,5128,5,1979,
 846,Villa,Højbakken 7,9560, Hadsund,875000 ,16-04-2017,Alm. Salg,159,5503,5,1980,-12%
 846,Ejerlejlighed,H I Bies Plads 337,9500, Hobro,1585000 ,15-04-2017,Alm. Salg,120,13208,4,1998,
-846,Villa,Myhlenbergvej 11,9510, Arden,1495000 ,13-04-2017,Alm. Salg,97,15412,5,1954,
 846,Rækkehus,Vildrosen 6,9510, Arden,650000 ,11-04-2017,Alm. Salg,75,8667,3,1982,
 846,Villa,Bøgevej 3,9500, Hobro,1500000 ,11-04-2017,Alm. Salg,121,12397,6,1960,-6%
 846,Villa,Ved Højen 9,9550, Mariager,2240000 ,11-04-2017,Alm. Salg,150,14933,5,2010,-1%
@@ -3739,7 +3666,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Østergade 36,9560, Hadsund,645000 ,28-12-2016,Alm. Salg,135,4778,4,1940,-7%
 846,Villa,Enghavevej 24,9500, Hobro,1055000 ,22-12-2016,Alm. Salg,150,7033,5,1959,-4%
 846,Villa,Ndr Truevej 11,9500, Hobro,1070000 ,22-12-2016,Alm. Salg,151,7086,5,1954,
-846,Villa,Sjællandsgade 24,9560, Hadsund,1400000 ,22-12-2016,Alm. Salg,92,15217,4,1962,
 846,Ejerlejlighed,"Højdevej 30, st. mf",9500, Hobro,730000 ,20-12-2016,Fam. Salg,78,9359,2,1987,
 846,Villa,Idrætsvej 17,9560, Hadsund,225000 ,20-12-2016,Alm. Salg,125,1800,5,1900,-25%
 846,Villa,Mispelvej 8,9500, Hobro,2762500 ,20-12-2016,Alm. Salg,192,14388,8,2003,-3%
@@ -4005,7 +3931,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Fjordparken 58,9500, Hobro,975000 ,23-06-2016,Alm. Salg,109,8945,4,1982,-15%
 846,Villa,Marius Bruuns Vej 3,9500, Hobro,1300000 ,23-06-2016,Alm. Salg,134,9701,5,2002,-4%
 846,Villa,Skovbrynet 8,9500, Hobro,2100000 ,22-06-2016,Alm. Salg,231,9091,5,1971,-16%
-846,Rækkehus,Højagerparken 21,9500, Hobro,1475000 ,21-06-2016,Alm. Salg,95,15526,3,2004,
 846,Villa,Spangvad 11,9510, Arden,289000 ,21-06-2016,Fam. Salg,105,2752,4,1964,
 846,Villa,Frederikshøjvej 5,9560, Hadsund,500000 ,21-06-2016,Alm. Salg,115,4348,3,1962,
 846,Villa,Alsvej 64,9560, Hadsund,320000 ,21-06-2016,Alm. Salg,114,2807,4,1949,-19%
@@ -4030,7 +3955,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Skalborghusevej 2,9550, Mariager,50000 ,08-06-2016,Alm. Salg,68,735,3,1887,
 846,Villa,Juulsmarken 11,9500, Hobro,2060000 ,07-06-2016,Alm. Salg,229,8996,8,2002,-6%
 846,Villa,Fortunavej 6,9500, Hobro,850000 ,07-06-2016,Fam. Salg,255,3333,7,1970,
-846,Villa,Bavnehøjvej 9,9500, Hobro,2525000 ,07-06-2016,Alm. Salg,160,15781,5,2015,-3%
 846,Rækkehus,Tranevænget 21,9500, Hobro,920000 ,03-06-2016,Alm. Salg,90,10222,3,1984,
 846,Ejerlejlighed,H I Bies Plads 131,9500, Hobro,1380000 ,03-06-2016,Alm. Salg,107,12897,3,1998,
 846,Villa,Bøgevej 21,9500, Hobro,1525000 ,03-06-2016,Alm. Salg,128,11914,4,1965,
@@ -4117,7 +4041,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Østergade 35,9550, Mariager,2000000 ,27-03-2016,Fam. Salg,190,10526,6,1800,
 846,Villa,Myhlenbergvej 4,9510, Arden,1450000 ,27-03-2016,Alm. Salg,212,6840,11,1910,
 846,Villa,Veddum Hovedgade 20,9560, Hadsund,500000 ,26-03-2016,Alm. Salg,132,3788,4,1913,
-846,Rækkehus,Korsgade 11A,9500, Hobro,1200000 ,25-03-2016,Alm. Salg,78,15385,3,1986,
 846,Villa,Miehesgade 35,9510, Arden,1525000 ,23-03-2016,Alm. Salg,146,10445,5,1973,-4%
 846,Villa,Kirkedals Alle 27,9500, Hobro,1190000 ,22-03-2016,Fam. Salg,172,6919,5,1974,
 846,Villa,Tostrupvej 7,9560, Hadsund,500000 ,21-03-2016,Alm. Salg,132,3788,4,1912,
@@ -4189,12 +4112,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Bymarken 9,9510, Arden,1050000 ,04-02-2016,Alm. Salg,132,7955,4,1972,-9%
 846,Villa,Vinkelvej 20,9500, Hobro,995000 ,02-02-2016,Alm. Salg,126,7897,3,1972,
 846,Villa,Hybenholt 17,9560, Hadsund,835000 ,02-02-2016,Alm. Salg,89,9382,4,1986,-2%
-846,Ejerlejlighed,Nygade 1A,9560, Hadsund,503500 ,01-02-2016,Auktion,66,7629,2,1901,
-846,Ejerlejlighed,Nygade 1B,9560, Hadsund,503500 ,01-02-2016,Auktion,89,5657,3,1901,
-846,Ejerlejlighed,Nygade 1C,9560, Hadsund,503500 ,01-02-2016,Auktion,52,9683,2,1901,
-846,Ejerlejlighed,"Sadelmagervej 2, 1. 5",9560, Hadsund,503500 ,01-02-2016,Auktion,129,3903,4,1920,
-846,Ejerlejlighed,"Sadelmagervej 2, st. 3",9560, Hadsund,503500 ,01-02-2016,Auktion,70,7193,2,1920,
-846,Ejerlejlighed,"Sadelmagervej 2, st. 4",9560, Hadsund,503500 ,01-02-2016,Auktion,83,6066,2,1920,
 846,Villa,Hegedalsvej 58,9500, Hobro,1300000 ,01-02-2016,Alm. Salg,140,9286,5,1932,-13%
 846,Villa,Brovej 15,9510, Arden,440533 ,01-02-2016,Fam. Salg,143,3081,5,1985,
 846,Villa,Bette Roldvej 11,9510, Arden,825000 ,29-01-2016,Alm. Salg,167,4940,4,1974,-8%
@@ -4212,7 +4129,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Hovedgaden 26,9500, Hobro,310000 ,20-01-2016,Alm. Salg,190,1632,5,1946,-10%
 846,Villa,Enghagen 12,9500, Hobro,1700000 ,19-01-2016,Alm. Salg,164,10366,7,1956,-5%
 846,Villa,Stolbjergvej 5,9500, Hobro,1062500 ,18-01-2016,Fam. Salg,175,6071,6,1947,
-846,Villa,Ølsvej 35,9500, Hobro,2300000 ,18-01-2016,Alm. Salg,230,10000,9,1964,
 846,Villa,Tingmosevej 2A,9500, Hobro,770000 ,18-01-2016,Alm. Salg,130,5923,4,1941,-3%
 846,Villa,Glenstrup Søvej 47,8990, Fårup,237000 ,17-01-2016,Alm. Salg,132,1795,3,2020,-21%
 846,Villa,Vinkelvej 14,9500, Hobro,1275000 ,17-01-2016,Alm. Salg,153,8333,4,1973,-9%
@@ -4355,7 +4271,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Plantagevej 1,9500, Hobro,970000 ,23-09-2015,Alm. Salg,144,6736,4,1974,-11%
 846,Villa,Skelund Hovedgade 19,9560, Hadsund,575000 ,23-09-2015,Alm. Salg,108,5324,4,1886,
 846,Villa,Vestparken 61,9550, Mariager,1465000 ,22-09-2015,Alm. Salg,188,7793,5,1973,-2%
-846,Villa,Døstrupvej 161,9500, Hobro,5000000 ,22-09-2015,Andet,322,15528,7,1911,
 846,Rækkehus,Christiansgade 2C,9500, Hobro,800000 ,21-09-2015,Alm. Salg,90,8889,4,1987,
 846,Ejerlejlighed,"Strandvej 26, st. tv",9500, Hobro,100000 ,21-09-2015,Alm. Salg,63,1587,2,1900,
 846,Villa,Grønnevej 3,8970, Havndal,83500 ,21-09-2015,Auktion,118,708,4,1966,
@@ -4544,7 +4459,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Lærkevej 4,9510, Arden,875000 ,20-05-2015,Alm. Salg,133,6579,6,1987,-7%
 846,Villa,Rugmarken 14,9510, Arden,1535000 ,20-05-2015,Alm. Salg,151,10166,5,1998,-7%
 846,Villa,Ved Møllen 10,9560, Hadsund,1025000 ,19-05-2015,Andet,139,7374,5,1977,
-846,Villa,Lilleardenvej 11B,9510, Arden,1508000 ,19-05-2015,Alm. Salg,226,6673,8,1900,
 846,Villa,Johannes V. Jensens Vej 3,9500, Hobro,595000 ,19-05-2015,Alm. Salg,145,4103,5,2015,
 846,Villa,Åmøllevej 18,8970, Havndal,400000 ,18-05-2015,Alm. Salg,152,2632,5,1928,-6%
 846,Villa,Højlundsvej 4A,9560, Hadsund,700000 ,17-05-2015,Alm. Salg,127,5512,4,1975,-6%
@@ -4563,7 +4477,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Hedevej 9,9560, Hadsund,725000 ,04-05-2015,Alm. Salg,165,4394,4,1965,-9%
 846,Ejerlejlighed,"Horsøparken 8, 2. th",9500, Hobro,340000 ,03-05-2015,Alm. Salg,92,3696,3,1970,
 846,Villa,Elmevej 37,9500, Hobro,545000 ,03-05-2015,Alm. Salg,94,5798,3,1956,-16%
-846,Villa,Multebærvej 10,9500, Hobro,2525000 ,03-05-2015,Alm. Salg,162,15586,6,2001,-6%
 846,Villa,Hobrovej 136,9560, Hadsund,2450000 ,02-05-2015,Alm. Salg,248,9879,6,1939,
 846,Villa,Markedsgade 10,9560, Hadsund,1315000 ,02-05-2015,Alm. Salg,126,10437,2,1948,10%
 846,Villa,Juulsmarken 1,9500, Hobro,630636 ,29-04-2015,Fam. Salg,126,5005,5,1996,
@@ -4915,24 +4828,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Hyldevej 3,9500, Hobro,450000 ,22-06-2014,Alm. Salg,197,2284,6,2015,-5%
 846,Villa,Myhlenbergvej 11,9510, Arden,1375000 ,21-06-2014,Alm. Salg,97,14175,5,1954,-8%
 846,Rækkehus,Plantagevej 22,9560, Hadsund,850000 ,19-06-2014,Alm. Salg,99,8586,3,1989,
-846,Ejerlejlighed,"Vestergade 16, st",9500, Hobro,79330 ,19-06-2014,Andet,75,1058,3,1950,
-846,Ejerlejlighed,"Vestergade 16, 2. th",9500, Hobro,79330 ,19-06-2014,Andet,45,1763,2,1950,
-846,Ejerlejlighed,"Vestergade 16, 1",9500, Hobro,79330 ,19-06-2014,Andet,80,992,3,1950,
-846,Ejerlejlighed,"Vestergade 16, 2. tv",9500, Hobro,79330 ,19-06-2014,Andet,45,1763,2,1950,
-846,Ejerlejlighed,"Viborggyde 6, kl",9500, Hobro,79330 ,19-06-2014,Andet,68,1167,2,1927,
-846,Ejerlejlighed,"Hostrupvej 21, kl. th",9500, Hobro,79330 ,19-06-2014,Andet,40,1983,2,1900,
-846,Ejerlejlighed,"Hostrupvej 21, st",9500, Hobro,79330 ,19-06-2014,Andet,80,992,3,1900,
-846,Ejerlejlighed,"Hostrupvej 21, 1",9500, Hobro,79330 ,19-06-2014,Andet,48,1653,2,1900,
-846,Ejerlejlighed,"Viborggyde 6, 1",9500, Hobro,79330 ,19-06-2014,Andet,90,881,3,1927,
-846,Ejerlejlighed,"Hostrupvej 21, kl. tv",9500, Hobro,79330 ,19-06-2014,Andet,40,1983,2,1900,
-846,Ejerlejlighed,"Viborggyde 6, st",9500, Hobro,79330 ,19-06-2014,Andet,112,708,4,1927,
 846,Ejerlejlighed,"Horsøparken 6, st. th",9500, Hobro,565000 ,19-06-2014,Alm. Salg,90,6278,3,1970,-2%
-846,Ejerlejlighed,"Strandvej 18, kl",9500, Hobro,79330 ,19-06-2014,Andet,35,2267,2,1942,
-846,Ejerlejlighed,"Strandvej 18, 1",9500, Hobro,79330 ,19-06-2014,Andet,56,1417,2,1942,
-846,Ejerlejlighed,"Strandvej 18, st",9500, Hobro,79330 ,19-06-2014,Andet,56,1417,2,1942,
-846,Ejerlejlighed,"Strandvej 18, 2",9500, Hobro,79330 ,19-06-2014,Andet,35,2267,2,1942,
-846,Ejerlejlighed,"Viborggyde 6, 2",9500, Hobro,79330 ,19-06-2014,Andet,63,1259,1,1927,
-846,Villa,"Vestergade 16, st. th",9500, Hobro,79330 ,19-06-2014,Andet,70,1133,2,1950,
 846,Villa,Als Oddevej 33,9560, Hadsund,100000 ,19-06-2014,Alm. Salg,111,901,5,1800,-90%
 846,Villa,Frisdals Allé 8,9500, Hobro,943394 ,19-06-2014,Fam. Salg,168,5615,6,2002,
 846,Villa,Rolighedsvej 13,9560, Hadsund,710000 ,19-06-2014,Alm. Salg,97,7320,3,1960,-14%
@@ -4971,7 +4867,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Snebærvej 1,9500, Hobro,880000 ,25-05-2014,Alm. Salg,125,7040,5,1977,-12%
 846,Villa,Møllebakken 20,9500, Hobro,1220000 ,24-05-2014,Alm. Salg,170,7176,7,1966,-2%
 846,Villa,Birkevej 1,9500, Hobro,800000 ,21-05-2014,Alm. Salg,105,7619,4,1966,-5%
-846,Villa,Hovangsvej 3,9500, Hobro,2500000 ,21-05-2014,Alm. Salg,162,15432,5,1915,
 846,Villa,Valmuevej 35,9500, Hobro,2050000 ,20-05-2014,Alm. Salg,143,14336,6,2001,
 846,Villa,Elmevej 21,9500, Hobro,850000 ,19-05-2014,Andet,170,5000,4,1964,
 846,Villa,Bavnehøjvej 8,9500, Hobro,375000 ,19-05-2014,Alm. Salg,162,2315,5,2015,
@@ -5030,7 +4925,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Fasanvej 11,9500, Hobro,1400000 ,30-03-2014,Fam. Salg,162,8642,5,1977,
 846,Villa,Hannerupvej 285,9500, Hobro,331826 ,27-03-2014,Alm. Salg,126,2634,4,1952,-61%
 846,Villa,Doktorstien 14,9560, Hadsund,40000 ,27-03-2014,Alm. Salg,75,533,3,1950,
-846,Villa,Valmuevej 16,9500, Hobro,2500000 ,27-03-2014,Alm. Salg,161,15528,5,2009,-4%
 846,Rækkehus,Fjordgade 2G,9550, Mariager,325000 ,25-03-2014,Alm. Salg,58,5603,2,1976,
 846,Villa,Strandvej 20,9560, Hadsund,867819 ,25-03-2014,Fam. Salg,140,6199,5,1932,
 846,Villa,Gyvelvej 7,9500, Hobro,482000 ,24-03-2014,Auktion,157,3070,4,1974,0%
@@ -5080,7 +4974,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Strandholtvej 2,9500, Hobro,290000 ,21-02-2014,Alm. Salg,146,1986,6,1900,-16%
 846,Villa,Bymarken 14,9510, Arden,995000 ,20-02-2014,Alm. Salg,158,6297,5,1971,
 846,Villa,Ved Højen 3,9550, Mariager,882850 ,20-02-2014,Fam. Salg,201,4392,4,2010,
-846,Villa,Hadsundvej 7,9500, Hobro,900000 ,17-02-2014,Alm. Salg,154,5844,6,1922,
 846,Villa,Stentoften 19,9550, Mariager,1200000 ,16-02-2014,Alm. Salg,135,8889,5,1978,-7%
 846,Villa,Hadsundvej 40,9560, Hadsund,600000 ,16-02-2014,Alm. Salg,211,2844,5,1926,-14%
 846,Villa,Gl Randersvej 11,9560, Hadsund,735000 ,13-02-2014,Alm. Salg,106,6934,4,1984,-6%
@@ -5152,7 +5045,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,True Hovedgade 34,9550, Mariager,1045000 ,08-12-2013,Alm. Salg,136,7684,5,1924,-5%
 846,Villa,Bekkasinvej 3,9560, Hadsund,1395000 ,08-12-2013,Alm. Salg,132,10568,5,2010,115%
 846,Villa,Multebærvej 8,9500, Hobro,2422500 ,05-12-2013,Fam. Salg,190,12750,6,2013,
-846,Villa,Sdr Alle 12,9510, Arden,600000 ,03-12-2013,Alm. Salg,128,4688,4,1927,
 846,Villa,Enhøjvej 6,9550, Mariager,720000 ,02-12-2013,Auktion,148,4865,4,1996,
 846,Villa,Broløsvej 15,9550, Mariager,449700 ,02-12-2013,Auktion,144,3123,6,1952,
 846,Villa,Spiraeavej 20,9500, Hobro,2237000 ,02-12-2013,Alm. Salg,158,14158,6,2000,-3%
@@ -5242,7 +5134,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Vejrmøllegården 14,9550, Mariager,975000 ,19-09-2013,Alm. Salg,188,5186,6,1976,-2%
 846,Villa,Bakken 3,9500, Hobro,309458 ,19-09-2013,Alm. Salg,112,2763,3,1964,
 846,Villa,Timandsvej 22,9560, Hadsund,575000 ,18-09-2013,Alm. Salg,107,5374,3,1935,-11%
-846,Ejerlejlighed,"Hostrupvej 66, 3. 4",9500, Hobro,2400000 ,17-09-2013,Alm. Salg,154,15584,4,2006,9%
 846,Villa,Forbindelsesvej 3,9510, Arden,300000 ,16-09-2013,Alm. Salg,130,2308,4,1959,
 846,Villa,Kærvej 7,9560, Hadsund,67327 ,16-09-2013,Auktion,175,385,5,2018,
 846,Villa,Østermarken 10,9510, Arden,650000 ,16-09-2013,Alm. Salg,141,4610,5,1974,-6%
@@ -5330,8 +5221,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Udsigten 14,9500, Hobro,930000 ,03-07-2013,Alm. Salg,77,12078,3,1953,-7%
 846,Villa,Hohøje 128,9500, Hobro,2545000 ,02-07-2013,Alm. Salg,178,14298,7,2007,-2%
 846,Villa,Pilevej 11,9550, Mariager,1500000 ,02-07-2013,Alm. Salg,209,7177,5,1973,-6%
-846,Rækkehus,Klejtrupvej 15A,9500, Hobro,50000 ,01-07-2013,Alm. Salg,258,194,8,1997,
-846,Ejerlejlighed,Klejtrupvej 15,9500, Hobro,50000 ,01-07-2013,Alm. Salg,148,338,4,1925,
 846,Villa,Skørpingvej 12,9510, Arden,140000 ,01-07-2013,Auktion,110,1273,5,1950,-77%
 846,Rækkehus,Transbjergholt 42,9560, Hadsund,1275000 ,30-06-2013,Alm. Salg,159,8019,3,1980,
 846,Villa,Fayesgade 10,9500, Hobro,1440000 ,30-06-2013,Alm. Salg,164,8780,6,1928,-4%
@@ -5434,8 +5323,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Frydensbjergvej 4,9550, Mariager,386700 ,08-04-2013,Alm. Salg,155,2495,5,2013,-2%
 846,Villa,Vildrosen 18,9510, Arden,1335000 ,07-04-2013,Alm. Salg,132,10114,4,1977,-8%
 846,Villa,Johannes V. Jensens Vej 7,9500, Hobro,595000 ,06-04-2013,Alm. Salg,216,2755,6,2014,
-846,Rækkehus,Stenfeldtsvej 8B,9550, Mariager,798000 ,05-04-2013,Alm. Salg,108,7389,4,1981,
-846,Villa,Norupvej 2,9550, Mariager,798000 ,05-04-2013,Alm. Salg,150,5320,4,1927,
 846,Villa,Johannes V. Jensens Vej 15,9500, Hobro,595000 ,04-04-2013,Alm. Salg,225,2644,5,2017,
 846,Villa,Asserdalen 36,9550, Mariager,1337500 ,03-04-2013,Alm. Salg,96,13932,3,2008,-4%
 846,Villa,Vester Markvej 3,9560, Hadsund,325000 ,01-04-2013,Auktion,122,2664,3,1877,-46%
@@ -5503,7 +5390,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Kongsdalparken 26,9550, Mariager,2300000 ,31-01-2013,Alm. Salg,190,12105,4,2011,-4%
 846,Villa,Rostrup Byvej 9,9510, Arden,550000 ,29-01-2013,Alm. Salg,300,1833,4,1995,-27%
 846,Ejerlejlighed,"Lillegade 8, 1",9500, Hobro,230000 ,27-01-2013,Fam. Salg,52,4423,2,1989,
-846,Ejerlejlighed,"Ved Stranden 4, 1. th",9560, Hadsund,1850000 ,27-01-2013,Alm. Salg,121,15289,4,2011,
 846,Villa,Gl Visborgvej 168,9560, Hadsund,950000 ,26-01-2013,Alm. Salg,128,7422,4,1902,-5%
 846,Villa,Stenmosevej 6,9500, Hobro,89227 ,24-01-2013,Alm. Salg,225,397,7,2013,
 846,Villa,Kridtvejen 4,9510, Arden,433500 ,23-01-2013,Alm. Salg,116,3737,4,1966,
@@ -5525,8 +5411,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Ejerlejlighed,"Møllevangen 4, 1",9500, Hobro,750000 ,09-01-2013,Alm. Salg,93,8065,3,1951,-6%
 846,Villa,Fjelstedvej 37,9550, Mariager,50000 ,09-01-2013,Alm. Salg,127,394,5,1928,
 846,Rækkehus,Løgstørvej 59A,9500, Hobro,500000 ,07-01-2013,Auktion,104,4808,4,2017,
-846,Ejerlejlighed,"Viborg Landevej 49, st. tv",9500, Hobro,1300000 ,07-01-2013,Auktion,115,11304,3,1890,
-846,Ejerlejlighed,"Viborg Landevej 49, 1. th",9500, Hobro,1300000 ,07-01-2013,Auktion,108,12037,3,1890,
 846,Villa,Viborg Landevej 45,9500, Hobro,300000 ,07-01-2013,Auktion,142,2113,6,1909,
 846,Villa,Hejrevej 3,9560, Hadsund,530000 ,06-01-2013,Alm. Salg,84,6310,3,1965,-11%
 846,Villa,Carl Nielsens Vej 4,9550, Mariager,511100 ,01-01-2013,Alm. Salg,180,2839,4,2010,
@@ -5551,12 +5435,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Ved Stranden 68,9560, Hadsund,225000 ,13-12-2012,Alm. Salg,167,1347,3,2015,
 846,Villa,Ørnedalsvej 37,9500, Hobro,2150000 ,12-12-2012,Fam. Salg,211,10190,5,1999,
 846,Villa,Skolemarken 13,9500, Hobro,750000 ,12-12-2012,Alm. Salg,214,3505,6,1972,-16%
-846,Villa,Ringvejen 30,9510, Arden,3500000 ,12-12-2012,Alm. Salg,187,15284,8,1982,
 846,Villa,Tistedvej 12,9510, Arden,450000 ,11-12-2012,Alm. Salg,121,3719,4,1955,
 846,Villa,H. C. Lumbyes Vej 5,9550, Mariager,630000 ,11-12-2012,Alm. Salg,251,2510,5,2019,
 846,Villa,Grovevej 8,8970, Havndal,80000 ,10-12-2012,Auktion,108,741,3,1924,
 846,Villa,Fjelstedvej 3,9550, Mariager,1500000 ,09-12-2012,Fam. Salg,212,7075,6,1932,
-846,Villa,Valmuevej 49,9500, Hobro,2360000 ,09-12-2012,Alm. Salg,150,15733,6,2004,
 846,Villa,Bluhmesgade 8,9510, Arden,968836 ,07-12-2012,Alm. Salg,207,4680,5,1910,
 846,Villa,Fyrrebakken 5,9560, Hadsund,1062500 ,06-12-2012,Alm. Salg,183,5806,9,1974,-11%
 846,Villa,Nyvangsvej 23,9560, Hadsund,1700000 ,06-12-2012,Alm. Salg,191,8901,5,1972,
@@ -5737,7 +5619,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Mølbakvej 42,9560, Hadsund,130000 ,04-07-2012,Auktion,115,1130,4,1900,
 846,Villa,Genvej 4,9500, Hobro,810000 ,04-07-2012,Alm. Salg,180,4500,8,1890,-2%
 846,Villa,Hohøje 102,9500, Hobro,1810000 ,04-07-2012,Alm. Salg,139,13022,6,2007,-3%
-846,Villa,Skovvej 3,9550, Mariager,3100000 ,03-07-2012,Alm. Salg,202,15347,6,1923,-6%
 846,Villa,Kystvejen 28,9560, Hadsund,1304000 ,03-07-2012,Fam. Salg,308,4234,7,1929,
 846,Villa,Mariagervej 44,9500, Hobro,690000 ,02-07-2012,Alm. Salg,130,5308,4,1931,-5%
 846,Villa,Chr Thisteds Vej 16,9500, Hobro,106100 ,02-07-2012,Alm. Salg,140,758,5,2022,-93%
@@ -5770,7 +5651,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Multebærvej 8,9500, Hobro,416500 ,17-06-2012,Fam. Salg,190,2192,6,2013,
 846,Villa,Homarksvej 9,9500, Hobro,750000 ,16-06-2012,Alm. Salg,134,5597,6,1936,
 846,Villa,Myhlenbergvej 30,9510, Arden,494877 ,15-06-2012,Alm. Salg,137,3612,5,1947,
-846,Rækkehus,Stranden 9,9560, Hadsund,1040000 ,14-06-2012,Alm. Salg,66,15758,3,1991,
 846,Villa,Søvænget 3,9500, Hobro,812500 ,14-06-2012,Alm. Salg,181,4489,7,1975,-7%
 846,Villa,Bekkasinvej 16,9560, Hadsund,1580000 ,14-06-2012,Alm. Salg,205,7707,6,1985,-3%
 846,Villa,Blichersvej 1,9550, Mariager,1265000 ,13-06-2012,Alm. Salg,126,10040,4,1987,-2%
@@ -5844,12 +5724,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Klejtrupvej 2,9500, Hobro,384500 ,29-04-2012,Andet,164,2345,6,1931,
 846,Villa,Trekløvervej 4,9500, Hobro,900000 ,29-04-2012,Alm. Salg,195,4615,5,1924,-10%
 846,Villa,Digtervænget 65,9550, Mariager,2700000 ,29-04-2012,Alm. Salg,219,12329,6,1995,
-846,Villa,Hostrupkrogen 54,9500, Hobro,2560000 ,29-04-2012,Alm. Salg,163,15706,5,2007,-5%
 846,Villa,Anna Damborgsvej 7,9510, Arden,635000 ,28-04-2012,Alm. Salg,106,5991,4,1951,
 846,Rækkehus,Kløvermarken 52D,9510, Arden,495992 ,26-04-2012,Fam. Salg,128,3875,4,1988,
-846,Ejerlejlighed,"Søndergade 3B, 2",9500, Hobro,975000 ,26-04-2012,Alm. Salg,90,10833,5,1920,
-846,Ejerlejlighed,Morellgade 10,9500, Hobro,975000 ,26-04-2012,Alm. Salg,70,13929,4,1920,
-846,Ejerlejlighed,"Søndergade 3B, 1",9500, Hobro,975000 ,26-04-2012,Alm. Salg,126,7738,4,1920,
 846,Villa,Elmevej 34,9500, Hobro,1925000 ,26-04-2012,Alm. Salg,141,13652,6,1964,-4%
 846,Villa,Mølhøjvej 5,9500, Hobro,600000 ,26-04-2012,Alm. Salg,244,2459,6,2014,-44%
 846,Villa,Jyllandsgade 5,9560, Hadsund,625000 ,25-04-2012,Auktion,125,5000,6,1911,-22%
@@ -5944,8 +5820,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Hovangsvej 38,9500, Hobro,925000 ,20-02-2012,Alm. Salg,118,7839,5,1938,-5%
 846,Villa,Grøndalsvej 19,9560, Hadsund,440344 ,20-02-2012,Alm. Salg,93,4735,3,1936,
 846,Villa,Storegade 31A,9550, Mariager,700000 ,19-02-2012,Alm. Salg,137,5109,2,1967,-22%
-846,Rækkehus,Borgervej 19C,9500, Hobro,120000 ,16-02-2012,Alm. Salg,94,1277,3,1879,
-846,Ejerlejlighed,Borgervej 19A,9500, Hobro,120000 ,16-02-2012,Alm. Salg,99,1212,4,1879,
 846,Villa,Korsbakken 11,9560, Hadsund,700000 ,16-02-2012,Alm. Salg,121,5785,4,1977,
 846,Villa,Hovangsvej 3,9500, Hobro,1930000 ,14-02-2012,Alm. Salg,162,11914,5,1915,
 846,Villa,Klarlunden 28,9510, Arden,328000 ,11-02-2012,Alm. Salg,184,1783,5,2016,
@@ -6011,7 +5885,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Hyltvej 2,9560, Hadsund,60000 ,13-12-2011,Auktion,85,706,2,1918,
 846,Villa,Park Alle 3,9510, Arden,10000 ,13-12-2011,Auktion,71,141,2,1877,
 846,Villa,Bækparken 13,9500, Hobro,998972 ,13-12-2011,Alm. Salg,157,6363,5,1978,
-846,Villa,Lilleardenvej 11B,9510, Arden,1500000 ,13-12-2011,Fam. Salg,226,6637,8,1900,
 846,Villa,Vesterled 14,9560, Hadsund,691992 ,12-12-2011,Alm. Salg,112,6179,3,1947,
 846,Villa,Fyrkatvej 6,9500, Hobro,660000 ,12-12-2011,Alm. Salg,120,5500,4,1951,
 846,Villa,Hejringvej 1,9500, Hobro,114000 ,12-12-2011,Auktion,100,1140,4,1877,
@@ -6197,7 +6070,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Ejerlejlighed,"Østergade 3, st. tv",9550, Mariager,685000 ,23-07-2011,Alm. Salg,70,9786,4,1850,
 846,Villa,Klostergade 4,9550, Mariager,970000 ,19-07-2011,Alm. Salg,112,8661,5,1920,-16%
 846,Villa,Hannerupvej 289,9500, Hobro,570000 ,18-07-2011,Alm. Salg,86,6628,3,1967,-14%
-846,Villa,Valmuevej 6,9560, Hadsund,1030000 ,17-07-2011,Alm. Salg,67,15373,3,1957,-6%
 846,Villa,Skråvejen 2,9550, Mariager,2400000 ,16-07-2011,Alm. Salg,242,9917,7,1989,0%
 846,Villa,Stenstrup Byvej 12,9500, Hobro,90000 ,16-07-2011,Alm. Salg,104,865,4,1937,-38%
 846,Villa,Vedbækvej 3,9500, Hobro,1350000 ,14-07-2011,Alm. Salg,171,7895,5,1958,-15%
@@ -6231,7 +6103,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Rækkehus,Nyvangsvej 2,9560, Hadsund,775000 ,23-06-2011,Alm. Salg,97,7990,3,1972,-6%
 846,Villa,Lysevej 1,9560, Hadsund,609840 ,23-06-2011,Fam. Salg,246,2479,9,1840,
 846,Villa,Engbrynet 2,9500, Hobro,875000 ,23-06-2011,Alm. Salg,76,11513,4,1958,-2%
-846,Villa,Fuglsang 7,9550, Mariager,2400000 ,23-06-2011,Alm. Salg,156,15385,4,1847,-2%
 846,Villa,Nordmarken 4,9510, Arden,1200000 ,22-06-2011,Alm. Salg,116,10345,4,2001,-7%
 846,Villa,Vandhøjvej 2,9560, Hadsund,320000 ,21-06-2011,Alm. Salg,138,2319,4,1960,
 846,Villa,Vadgårdsvej 2,9500, Hobro,425000 ,21-06-2011,Alm. Salg,122,2911,5,1912,-14%
@@ -6576,7 +6447,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Kolonihaven 45,9560, Hadsund,2100000 ,03-11-2010,Alm. Salg,185,11351,7,2000,-8%
 846,Villa,Valdemarsvej 5,9500, Hobro,1280000 ,03-11-2010,Alm. Salg,117,10940,5,1877,-3%
 846,Villa,Hegedalsvej 75,9500, Hobro,1050000 ,03-11-2010,Alm. Salg,105,10000,4,1967,-12%
-846,Villa,Ndr Truevej 18,9500, Hobro,3000000 ,03-11-2010,Alm. Salg,190,15789,6,1927,
 846,Villa,Grønningen 21,9500, Hobro,725000 ,02-11-2010,Alm. Salg,121,5992,3,1983,-17%
 846,Villa,Myhlenbergvej 80,9510, Arden,581594 ,01-11-2010,Alm. Salg,152,3826,5,1877,
 846,Villa,Østervang 5,9500, Hobro,850000 ,31-10-2010,Alm. Salg,120,7083,5,1950,-8%
@@ -6604,10 +6474,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Tværvej 4,9500, Hobro,487373 ,14-10-2010,Fam. Salg,124,3930,4,1972,
 846,Villa,Sjællandsgade 11,9560, Hadsund,820000 ,14-10-2010,Alm. Salg,102,8039,4,1921,-5%
 846,Villa,Hodalsvej 47,9500, Hobro,1345000 ,14-10-2010,Alm. Salg,119,11303,4,1988,-4%
-846,Rækkehus,Ølsvej 35A,9500, Hobro,990980 ,13-10-2010,Andet,98,10112,3,1963,-67%
 846,Villa,Himmerlandsgade 44,9560, Hadsund,1326782 ,13-10-2010,Alm. Salg,199,6667,6,1978,-5%
 846,Villa,Vester Altan 33,9500, Hobro,750000 ,13-10-2010,Alm. Salg,122,6148,6,1946,-16%
-846,Villa,Ølsvej 35,9500, Hobro,990980 ,13-10-2010,Andet,230,4309,9,1964,-67%
 846,Villa,Nedre Strandvej 35,9500, Hobro,1925000 ,13-10-2010,Alm. Salg,227,8480,5,2012,
 846,Villa,Svinget 19,9500, Hobro,1200000 ,12-10-2010,Alm. Salg,140,8571,6,1920,-4%
 846,Villa,Borgervej 4,9500, Hobro,130000 ,12-10-2010,Auktion,120,1083,5,1951,-66%
@@ -6743,7 +6611,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Bogfinkevej 3,9550, Mariager,660000 ,15-07-2010,Alm. Salg,171,3860,5,1926,-5%
 846,Villa,Skovmarken 16,9510, Arden,1100000 ,15-07-2010,Alm. Salg,189,5820,5,1980,-15%
 846,Villa,Havndalvej 14,9550, Mariager,688593 ,15-07-2010,Fam. Salg,148,4653,5,1952,
-846,Rækkehus,Klejtrupvej 15A,9500, Hobro,3650000 ,14-07-2010,Alm. Salg,258,14147,8,1997,
 846,Rækkehus,Brovej 28,9510, Arden,347461 ,14-07-2010,Alm. Salg,67,5186,3,1981,
 846,Villa,Birkevej 2,9550, Mariager,480000 ,14-07-2010,Alm. Salg,134,3582,3,1902,-19%
 846,Villa,Snæbumvej 8,9500, Hobro,75000 ,13-07-2010,Auktion,95,789,5,1900,
@@ -6780,7 +6647,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Sandholt 13,9560, Hadsund,1330000 ,28-06-2010,Alm. Salg,141,9433,4,1979,-5%
 846,Villa,Udsigten 3,9500, Hobro,2375000 ,28-06-2010,Alm. Salg,193,12306,5,1965,-4%
 846,Villa,Hjulhusvej 9,9550, Mariager,1200000 ,27-06-2010,Alm. Salg,151,7947,7,1963,-5%
-846,Rækkehus,Havnen 19,9560, Hadsund,2000000 ,26-06-2010,Alm. Salg,127,15748,5,2007,-11%
 846,Villa,Vikingvej 29,9560, Hadsund,735000 ,24-06-2010,Alm. Salg,180,4083,7,1980,-11%
 846,Villa,Clausensvej 30,9500, Hobro,305000 ,24-06-2010,Auktion,139,2194,4,1976,-53%
 846,Villa,Tværvej 8,9560, Hadsund,1020000 ,24-06-2010,Alm. Salg,92,11087,4,1960,-7%
@@ -6824,9 +6690,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Ejerlejlighed,"Horsøparken 10, st. th",9500, Hobro,845000 ,01-06-2010,Alm. Salg,80,10563,2,1970,
 846,Villa,Hegedalsparken 29,9500, Hobro,3677500 ,01-06-2010,Alm. Salg,250,14710,7,2006,-3%
 846,Villa,Farvervænget 19,9500, Hobro,1550000 ,01-06-2010,Alm. Salg,289,5363,6,1980,-10%
-846,Rækkehus,Klostergade 6B,9550, Mariager,1071000 ,30-05-2010,Andet,77,13909,1,1923,
 846,Villa,Borgervej 15,9500, Hobro,722500 ,30-05-2010,Alm. Salg,159,4544,5,1928,-3%
-846,Villa,Klostergade 6,9550, Mariager,1071000 ,30-05-2010,Andet,149,7188,7,1923,
 846,Villa,Ved Højen 6,9550, Mariager,405000 ,30-05-2010,Alm. Salg,185,2189,6,2011,
 846,Villa,Elsehøj 18,9510, Arden,2429000 ,29-05-2010,Alm. Salg,200,12145,6,2007,-3%
 846,Villa,Mariagervej 54,9560, Hadsund,1000000 ,27-05-2010,Alm. Salg,229,4367,6,2013,-16%
@@ -6890,7 +6754,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Klarlunden 8,9510, Arden,185000 ,18-04-2010,Alm. Salg,200,925,7,2014,
 846,Villa,Østergade 23,9550, Mariager,1975000 ,13-04-2010,Alm. Salg,140,14107,6,1800,-4%
 846,Villa,Storarden Byvej 20,9510, Arden,330000 ,13-04-2010,Alm. Salg,140,2357,2,1966,-4%
-846,Villa,Brogade 54,9500, Hobro,679000 ,12-04-2010,Alm. Salg,122,5566,6,1948,
 846,Villa,Gl Skolevej 14,9500, Hobro,1865000 ,12-04-2010,Alm. Salg,163,11442,5,1997,-2%
 846,Villa,Skovvej 59,9510, Arden,1545000 ,12-04-2010,Alm. Salg,188,8218,5,1981,-3%
 846,Villa,Brovej 4,9510, Arden,25452 ,12-04-2010,Alm. Salg,197,129,4,2018,
@@ -6982,8 +6845,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Mariagervej 97,9500, Hobro,1045000 ,15-02-2010,Alm. Salg,282,3706,9,1913,-5%
 846,Villa,Aagade 2,9510, Arden,970000 ,15-02-2010,Alm. Salg,102,9510,4,1963,-3%
 846,Villa,Hybenvej 9,9550, Mariager,1290000 ,14-02-2010,Andet,186,6935,5,2013,
-846,Rækkehus,"Vestergade 14, st. tv",9550, Mariager,800000 ,11-02-2010,Alm. Salg,74,10811,3,1800,-20%
-846,Villa,"Vestergade 14, st. th",9550, Mariager,800000 ,11-02-2010,Alm. Salg,124,6452,4,1800,-20%
 846,Villa,Kirkedals Alle 48,9500, Hobro,1687500 ,11-02-2010,Alm. Salg,226,7467,6,1976,-5%
 846,Villa,Hovangsvej 19,9500, Hobro,1200000 ,11-02-2010,Auktion,114,10526,4,1930,-12%
 846,Villa,Skadevej 1,9550, Mariager,489000 ,11-02-2010,Auktion,144,3396,4,1894,
@@ -7044,9 +6905,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Digtervænget 129,9550, Mariager,714966 ,16-12-2009,Andet,185,3865,6,1997,-58%
 846,Villa,Havnøvej 81,9560, Hadsund,875000 ,15-12-2009,Alm. Salg,113,7743,4,1952,
 846,Villa,Rolighedsvej 14,9560, Hadsund,525000 ,15-12-2009,Alm. Salg,98,5357,4,1957,-22%
-846,Rækkehus,Nørre Hurupvej 38,9560, Hadsund,493800 ,14-12-2009,Fam. Salg,128,3858,4,1900,
-846,Rækkehus,Havnen 13,9560, Hadsund,2200000 ,14-12-2009,Alm. Salg,140,15714,5,2007,-12%
-846,Ejerlejlighed,Nørre Hurupvej 36,9560, Hadsund,493800 ,14-12-2009,Fam. Salg,90,5487,4,1900,
 846,Ejerlejlighed,"Vestergade 1, 2. mf",9500, Hobro,700000 ,14-12-2009,Alm. Salg,56,12500,2,1989,-6%
 846,Villa,Chorsvej 17,9500, Hobro,1550000 ,13-12-2009,Alm. Salg,200,7750,6,1973,-9%
 846,Villa,Skelund Hovedgade 29,9560, Hadsund,321515 ,13-12-2009,Alm. Salg,74,4345,2,1900,-26%
@@ -7270,7 +7128,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Skovbo Allé 8,9500, Hobro,2495000 ,16-06-2009,Alm. Salg,195,12795,6,2006,
 846,Villa,Hegedalsvej 27,9500, Hobro,1150000 ,15-06-2009,Alm. Salg,160,7188,5,1960,
 846,Rækkehus,Stranden 41,9560, Hadsund,650000 ,14-06-2009,Alm. Salg,66,9848,3,1991,
-846,Villa,Multebærvej 12,9500, Hobro,2000000 ,14-06-2009,Alm. Salg,129,15504,4,1999,-9%
 846,Villa,Plantagevej 20,9500, Hobro,812500 ,14-06-2009,Fam. Salg,165,4924,3,1972,
 846,Villa,Kirsebærvej 8,9560, Hadsund,865142 ,14-06-2009,Alm. Salg,82,10551,3,1987,-5%
 846,Ejerlejlighed,"Jernbanegade 48, 1. th",9500, Hobro,1100000 ,11-06-2009,Alm. Salg,90,12222,3,1900,
@@ -7284,8 +7141,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Hedevej 5,9560, Hadsund,1010000 ,03-06-2009,Alm. Salg,105,9619,3,1965,-3%
 846,Villa,Skovbovej 1,9500, Hobro,380000 ,02-06-2009,Alm. Salg,112,3393,4,1914,-18%
 846,Villa,Nysumvej 9,9510, Arden,898000 ,02-06-2009,Alm. Salg,163,5509,4,1823,
-846,Ejerlejlighed,"Storegade 36A, 1. th",9560, Hadsund,1000000 ,01-06-2009,Alm. Salg,88,11364,2,1900,
-846,Ejerlejlighed,Jacob Møllersgade 2A,9560, Hadsund,1000000 ,01-06-2009,Alm. Salg,77,12987,2,1900,
 846,Villa,Ved Højen 8,9550, Mariager,425000 ,01-06-2009,Alm. Salg,132,3220,3,2011,
 846,Villa,Korsbakken 10,9560, Hadsund,500000 ,31-05-2009,Alm. Salg,131,3817,4,1976,-54%
 846,Villa,Døstrupvej 84,9500, Hobro,375000 ,30-05-2009,Alm. Salg,167,2246,3,2020,
@@ -7324,7 +7179,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Slåenvej 1,9500, Hobro,1462500 ,10-05-2009,Alm. Salg,203,7204,7,1970,-14%
 846,Rækkehus,Vestergade 28A,9500, Hobro,650000 ,09-05-2009,Alm. Salg,70,9286,2,1984,
 846,Villa,Daniavej 115,9550, Mariager,120000 ,09-05-2009,Alm. Salg,101,1188,3,1898,
-846,Rækkehus,Korsgade 15B,9500, Hobro,1380000 ,06-05-2009,Alm. Salg,90,15333,3,1984,-1%
 846,Rækkehus,Jernbanegade 42,9560, Hadsund,920000 ,05-05-2009,Alm. Salg,83,11084,3,1985,-3%
 846,Villa,Tranevej 6,9560, Hadsund,310000 ,05-05-2009,Alm. Salg,140,2214,5,2013,
 846,Villa,Lyshøjvej 5,9500, Hobro,725000 ,04-05-2009,Alm. Salg,158,4589,5,1930,
@@ -7424,7 +7278,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Klarlunden 9,9510, Arden,150000 ,24-02-2009,Alm. Salg,194,773,5,2011,
 846,Villa,Lundgaard Hedevej 2,9500, Hobro,475000 ,23-02-2009,Alm. Salg,90,5278,4,1958,-20%
 846,Villa,Bakkevej 5,9560, Hadsund,553500 ,23-02-2009,Alm. Salg,95,5826,4,1860,
-846,Villa,Udsigten 4,9500, Hobro,1800000 ,23-02-2009,Alm. Salg,117,15385,4,1946,-1%
 846,Rækkehus,Hegedalsvej 38A,9500, Hobro,1150000 ,22-02-2009,Alm. Salg,95,12105,4,1990,
 846,Villa,Hobrovej 14,9550, Mariager,250000 ,22-02-2009,Alm. Salg,212,1179,4,1929,-49%
 846,Villa,Døstrupvej 46,9500, Hobro,1450000 ,21-02-2009,Alm. Salg,110,13182,4,1963,-3%
@@ -7466,7 +7319,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Rækkehus,Frederikshøjvej 8,9560, Hadsund,845000 ,13-01-2009,Alm. Salg,77,10974,3,1985,
 846,Villa,Rolighedsvej 15,9560, Hadsund,680000 ,13-01-2009,Fam. Salg,108,6296,3,1946,
 846,Rækkehus,Vildrosen 6,9510, Arden,645000 ,12-01-2009,Alm. Salg,75,8600,3,1982,-8%
-846,Villa,Ved Højen 11,9550, Mariager,2459293 ,12-01-2009,Alm. Salg,158,15565,5,2009,
 846,Villa,Hybenvej 9,9550, Mariager,1290000 ,10-01-2009,Fam. Salg,186,6935,5,2013,
 846,Villa,Stubberupvej 5,9500, Hobro,425000 ,07-01-2009,Alm. Salg,89,4775,3,1877,
 846,Villa,Savværksvej 6A,9500, Hobro,345000 ,07-01-2009,Alm. Salg,73,4726,4,1887,6%
@@ -7549,7 +7401,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Troldhusvej 1,8970, Havndal,300000 ,19-10-2008,Alm. Salg,240,1250,5,1902,
 846,Villa,Fuglegårdsvej 4,9510, Arden,680000 ,18-10-2008,Alm. Salg,137,4964,2,1927,
 846,Villa,Siestavej 13,9560, Hadsund,1300000 ,15-10-2008,Alm. Salg,220,5909,6,2014,
-846,Villa,Udflyttervej 3,9560, Hadsund,1925000 ,14-10-2008,Alm. Salg,123,15650,5,1900,
 846,Villa,Sallingvej 8,9500, Hobro,1280000 ,09-10-2008,Alm. Salg,134,9552,7,1964,-7%
 846,Villa,Vibevej 17,9500, Hobro,815534 ,09-10-2008,Fam. Salg,152,5365,5,1965,
 846,Villa,Rolighedsvej 10,9500, Hobro,450000 ,07-10-2008,Alm. Salg,75,6000,3,1953,-10%
@@ -7676,7 +7527,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Snehøjvej 14,9500, Hobro,550000 ,13-07-2008,Alm. Salg,178,3090,6,2011,
 846,Villa,Lærkevangen 2,8970, Havndal,955000 ,11-07-2008,Alm. Salg,140,6821,4,1970,
 846,Villa,Hanehøjvej 5,9560, Hadsund,1225000 ,10-07-2008,Alm. Salg,156,7853,4,1922,
-846,Villa,Hyrdehøjvej 2,9550, Mariager,2950000 ,10-07-2008,Alm. Salg,191,15445,4,1900,
 846,Villa,Lundgårdsvej 8,9510, Arden,354486 ,09-07-2008,Andet,170,2085,7,1937,
 846,Villa,Banevolden 1,8990, Fårup,695000 ,08-07-2008,Alm. Salg,135,5148,4,1948,
 846,Villa,Hostrupkrogen 19,9500, Hobro,625000 ,08-07-2008,Alm. Salg,176,3551,6,2009,
@@ -7806,7 +7656,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Ejerlejlighed,"Østre Alle 34, 1",9560, Hadsund,1900000 ,14-05-2008,Alm. Salg,142,13380,2,1962,-5%
 846,Ejerlejlighed,"Lindalsvej 15, 1. th",9560, Hadsund,870000 ,14-05-2008,Alm. Salg,123,7073,3,1988,-3%
 846,Villa,V Doensevej 2,9500, Hobro,2400000 ,14-05-2008,Alm. Salg,249,9639,7,1910,
-846,Villa,Hadsundvej 116,9550, Mariager,5100000 ,14-05-2008,Alm. Salg,329,15502,8,1920,-7%
 846,Villa,Døstrupvej 113,9500, Hobro,830000 ,14-05-2008,Alm. Salg,130,6385,4,1963,-2%
 846,Villa,Storegade 17,9500, Hobro,185000 ,14-05-2008,Alm. Salg,76,2434,3,1948,
 846,Villa,Løgstørvej 85,9500, Hobro,545000 ,13-05-2008,Alm. Salg,187,2914,5,1959,
@@ -7855,7 +7704,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Bønfeltvej 19,9510, Arden,1075000 ,21-04-2008,Alm. Salg,104,10337,4,1953,
 846,Villa,Skovbo Allé 10,9500, Hobro,1762500 ,21-04-2008,Alm. Salg,193,9132,6,2008,-1%
 846,Rækkehus,Rosendalsvej 14,9560, Hadsund,835000 ,20-04-2008,Fam. Salg,92,9076,3,1981,
-846,Ejerlejlighed,"Hostrupvej 66, 1. 6",9500, Hobro,1472850 ,20-04-2008,Alm. Salg,96,15342,3,2006,22%
 846,Villa,Valmuemarken 3,9500, Hobro,1195000 ,20-04-2008,Alm. Salg,166,7199,6,1976,
 846,Villa,Frisdals Allé 15,9500, Hobro,139000 ,20-04-2008,Alm. Salg,176,790,5,2009,
 846,Rækkehus,Stranden 67,9560, Hadsund,960000 ,19-04-2008,Alm. Salg,66,14545,4,1991,
@@ -7922,7 +7770,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Tværvej 14,9560, Hadsund,995000 ,04-03-2008,Alm. Salg,91,10934,4,1946,
 846,Rækkehus,Nørregade 10. tv,9560, Hadsund,1500000 ,03-03-2008,Alm. Salg,133,11278,4,1932,
 846,Villa,Egernvej 4,9510, Arden,780000 ,03-03-2008,Alm. Salg,164,4756,5,1900,-8%
-846,Villa,Frydensbjergvej 41,9550, Mariager,2800000 ,02-03-2008,Alm. Salg,179,15642,5,2004,-1%
 846,Villa,Hornsmarken 25,9500, Hobro,1410000 ,02-03-2008,Alm. Salg,296,4764,8,1933,-2%
 846,Ejerlejlighed,"Horsøvej 17, 1. tv",9500, Hobro,790000 ,28-02-2008,Alm. Salg,63,12540,2,1900,-1%
 846,Villa,Storarden Byvej 16,9510, Arden,820000 ,28-02-2008,Alm. Salg,114,7193,4,1963,-8%
@@ -7943,15 +7790,12 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Hegedalsparken 12,9500, Hobro,1326237 ,24-02-2008,Alm. Salg,238,5572,6,2008,
 846,Villa,Digtervænget 33,9550, Mariager,1300000 ,22-02-2008,Alm. Salg,131,9924,5,1980,-11%
 846,Villa,Havndalvej 45,9550, Mariager,400000 ,21-02-2008,Alm. Salg,175,2286,6,1956,
-846,Villa,Klostergade 13,9550, Mariager,2400000 ,21-02-2008,Alm. Salg,152,15789,4,1937,-3%
 846,Villa,Ved Stranden 84,9560, Hadsund,670000 ,21-02-2008,Alm. Salg,188,3564,5,2009,
 846,Villa,Storegade 36,9550, Mariager,750000 ,20-02-2008,Alm. Salg,260,2885,8,1949,-6%
 846,Villa,Fiskerihavnsvej 12,9560, Hadsund,450000 ,19-02-2008,Alm. Salg,95,4737,4,1942,
 846,Villa,Hadsundvej 60,9550, Mariager,1698000 ,18-02-2008,Alm. Salg,151,11245,4,1912,
-846,Ejerlejlighed,"Højdevej 30, 1. mf",9500, Hobro,935000 ,17-02-2008,Alm. Salg,78,11987,2,1987,
 846,Villa,Skoletoften 1,9500, Hobro,1387000 ,17-02-2008,Alm. Salg,157,8834,4,1986,-3%
 846,Villa,Lundgårdsvej 9,9510, Arden,845000 ,17-02-2008,Alm. Salg,130,6500,7,1971,
-846,Villa,Kirkedals Alle 21,9500, Hobro,935000 ,17-02-2008,Fam. Salg,201,4652,6,1980,
 846,Villa,Sjællandsgade 9,9560, Hadsund,1425000 ,14-02-2008,Alm. Salg,128,11133,5,1941,
 846,Villa,Jagtvej 31,9560, Hadsund,2570000 ,13-02-2008,Alm. Salg,175,14686,6,1997,-1%
 846,Villa,Lyngvej 3,9560, Hadsund,970000 ,12-02-2008,Alm. Salg,128,7578,5,1966,-10%
@@ -7999,8 +7843,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Vester Alle 11,9500, Hobro,1950000 ,16-01-2008,Alm. Salg,165,11818,5,1920,-7%
 846,Villa,Bymarken 25,9510, Arden,1200000 ,15-01-2008,Alm. Salg,199,6030,7,1972,-13%
 846,Villa,Skibsgade 34A,9500, Hobro,144500 ,15-01-2008,Fam. Salg,143,1010,4,1900,
-846,Rækkehus,"Nørregade 6, st",9560, Hadsund,700000 ,14-01-2008,Alm. Salg,92,7609,2,1864,-11%
-846,Ejerlejlighed,"Nørregade 6, 1",9560, Hadsund,700000 ,14-01-2008,Alm. Salg,50,14000,2,1864,-11%
 846,Villa,Møllevænget 1,9510, Arden,690000 ,14-01-2008,Alm. Salg,133,5188,4,1976,-6%
 846,Ejerlejlighed,"Lindalsvej 11, 1",9560, Hadsund,880000 ,13-01-2008,Alm. Salg,115,7652,3,1988,-2%
 846,Villa,Gl Hovedvej 1,9500, Hobro,1600000 ,13-01-2008,Alm. Salg,136,11765,4,1908,
@@ -8032,7 +7874,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Rækkehus,Ledsagervej 19,9500, Hobro,596240 ,27-12-2007,Fam. Salg,87,6853,4,1989,
 846,Villa,Norupvej 67,8970, Havndal,685000 ,26-12-2007,Alm. Salg,121,5661,6,1937,
 846,Villa,Søndre Ringvej 22,9500, Hobro,750000 ,21-12-2007,Alm. Salg,88,8523,4,1964,-16%
-846,Villa,Brogade 54,9500, Hobro,1050000 ,20-12-2007,Alm. Salg,122,8607,6,1948,-4%
 846,Villa,Læsøgade 11,9560, Hadsund,770000 ,19-12-2007,Alm. Salg,100,7700,4,1927,
 846,Villa,Strandholtvej 13,9500, Hobro,1300000 ,19-12-2007,Alm. Salg,213,6103,4,2019,
 846,Ejerlejlighed,"Vestergade 3, 1. tv",9560, Hadsund,625000 ,18-12-2007,Alm. Salg,78,8013,3,1988,
@@ -8268,7 +8109,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Øster Hurupvej 14,9560, Hadsund,745000 ,19-08-2007,Alm. Salg,110,6773,3,1954,
 846,Villa,Edderupvej 18,9550, Mariager,600000 ,19-08-2007,Andet,135,4444,6,1914,
 846,Villa,Gadegårdsvej 13,9500, Hobro,530000 ,19-08-2007,Alm. Salg,110,4818,3,1957,
-846,Villa,Oxendalen 14,9550, Mariager,2250000 ,19-08-2007,Alm. Salg,148,15203,5,1976,
 846,Villa,Rønholtvej 2,9560, Hadsund,945000 ,19-08-2007,Alm. Salg,155,5833,5,1970,
 846,Villa,Kærvej 2,9560, Hadsund,250000 ,18-08-2007,Alm. Salg,290,862,6,1915,
 846,Villa,Tangkrogen 4,9500, Hobro,825000 ,17-08-2007,Alm. Salg,99,8333,3,1961,
@@ -8278,7 +8118,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,H. C. Lumbyes Vej 9,9550, Mariager,1000000 ,15-08-2007,Alm. Salg,183,5464,6,2016,
 846,Villa,Vinkelvej 2B,9560, Hadsund,1095000 ,14-08-2007,Alm. Salg,108,10139,4,1983,
 846,Villa,Thaliavej 4,9560, Hadsund,900000 ,14-08-2007,Alm. Salg,127,7087,3,1968,-5%
-846,Villa,Skivevej 65,9500, Hobro,1675000 ,14-08-2007,Alm. Salg,110,15227,4,1969,-4%
 846,Villa,Bækparken 13,9500, Hobro,1040000 ,14-08-2007,Alm. Salg,157,6624,5,1978,-13%
 846,Villa,Skovvænget 2,9550, Mariager,1095000 ,13-08-2007,Alm. Salg,169,6479,5,1969,
 846,Villa,Rugmarken 10,9510, Arden,1495000 ,13-08-2007,Alm. Salg,151,9901,5,1989,
@@ -8319,7 +8158,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Gl Skolevej 14,9500, Hobro,1825000 ,27-07-2007,Alm. Salg,163,11196,5,1997,-9%
 846,Villa,Anna Damborgsvej 6,9510, Arden,1330000 ,26-07-2007,Alm. Salg,158,8418,5,1971,
 846,Villa,Højmarken 29,9510, Arden,930000 ,26-07-2007,Fam. Salg,168,5536,5,1978,
-846,Villa,Strandvej 1,9560, Hadsund,2350000 ,26-07-2007,Alm. Salg,150,15667,5,1904,
 846,Villa,Stadionvej 4,9550, Mariager,330352 ,26-07-2007,Fam. Salg,103,3207,4,1916,
 846,Villa,Pilevej 6,9550, Mariager,670000 ,26-07-2007,Alm. Salg,131,5115,4,1912,
 846,Ejerlejlighed,"Højdevej 26, 1. mf",9500, Hobro,750000 ,25-07-2007,Alm. Salg,78,9615,2,1987,
@@ -8364,7 +8202,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Agerkrogen 21,9500, Hobro,1275000 ,09-07-2007,Alm. Salg,163,7822,6,1989,
 846,Villa,Enghavevej 27,9500, Hobro,1325000 ,09-07-2007,Alm. Salg,174,7615,5,1930,
 846,Villa,Als Oddevej 21,9560, Hadsund,350000 ,08-07-2007,Alm. Salg,110,3182,3,1953,
-846,Villa,Mispelvej 11,9500, Hobro,2295000 ,07-07-2007,Alm. Salg,149,15403,6,2004,
 846,Villa,Burholt 19,9560, Hadsund,373695 ,06-07-2007,Andet,164,2279,5,1978,
 846,Ejerlejlighed,"Sønder Alle 1D, 2",9500, Hobro,574000 ,05-07-2007,Fam. Salg,58,9897,2,1900,
 846,Villa,Glerupvej 67,9560, Hadsund,635000 ,05-07-2007,Alm. Salg,139,4568,4,1934,
@@ -8408,7 +8245,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Ålborgvej 18,9560, Hadsund,578000 ,21-06-2007,Alm. Salg,105,5505,3,1944,
 846,Villa,Grøndalsvej 15,9560, Hadsund,575000 ,21-06-2007,Alm. Salg,150,3833,6,1939,
 846,Villa,Hodalsvej 32,9500, Hobro,2225000 ,21-06-2007,Alm. Salg,151,14735,5,1935,
-846,Rækkehus,Hegedalsvej 42A,9500, Hobro,1575000 ,20-06-2007,Alm. Salg,101,15594,3,2007,
 846,Villa,Hybenvej 18B,9500, Hobro,1920000 ,20-06-2007,Alm. Salg,189,10159,6,1908,
 846,Villa,Stadionvej 1,9510, Arden,1260000 ,20-06-2007,Alm. Salg,128,9844,5,1975,
 846,Villa,Birkevej 2,9560, Hadsund,740000 ,19-06-2007,Alm. Salg,167,4431,7,1947,
@@ -8470,7 +8306,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Vadgårdsvej 2,9500, Hobro,500000 ,28-05-2007,Alm. Salg,122,3425,5,1912,
 846,Villa,Kirkevej 4,9560, Hadsund,287500 ,28-05-2007,Alm. Salg,129,2229,5,1877,
 846,Villa,Veddum Hovedgade 47,9560, Hadsund,495000 ,28-05-2007,Alm. Salg,135,3667,7,1910,
-846,Villa,Mosevænget 2,9510, Arden,2450000 ,26-05-2007,Alm. Salg,156,15705,6,2004,-2%
 846,Villa,Farvervænget 66,9500, Hobro,1875000 ,26-05-2007,Alm. Salg,162,11574,5,1979,
 846,Villa,Enebærvej 3,9560, Hadsund,2335000 ,25-05-2007,Alm. Salg,156,14968,5,1997,
 846,Villa,Randersvej 25,9500, Hobro,995000 ,24-05-2007,Alm. Salg,93,10699,3,1920,
@@ -8497,7 +8332,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Højtoften 2,9560, Hadsund,625000 ,14-05-2007,Alm. Salg,231,2706,5,1973,
 846,Villa,Amerikavej 30,9500, Hobro,1695000 ,13-05-2007,Alm. Salg,170,9971,6,1944,
 846,Villa,Hedegaardevej 28,9560, Hadsund,655910 ,13-05-2007,Alm. Salg,123,5333,5,1900,
-846,Villa,Kønigsfeldtsvej 5,9550, Mariager,500000 ,12-05-2007,Alm. Salg,120,4167,5,1916,
 846,Villa,Vester Bakker 1,9500, Hobro,1800000 ,12-05-2007,Alm. Salg,192,9375,6,1938,-10%
 846,Villa,Vandkæret 13,9560, Hadsund,560000 ,10-05-2007,Alm. Salg,78,7179,3,1982,
 846,Villa,Tykkenkærvej 9,9560, Hadsund,1050000 ,10-05-2007,Alm. Salg,148,7095,4,1945,
@@ -8843,8 +8677,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Randersvej 97,9500, Hobro,1085000 ,04-12-2006,Alm. Salg,279,3889,7,2009,
 846,Villa,Klarlundsvej 8,9510, Arden,480000 ,30-11-2006,Alm. Salg,80,6000,2,1947,
 846,Rækkehus,Haldbakken 21A,9500, Hobro,830000 ,29-11-2006,Alm. Salg,90,9222,4,1985,
-846,Ejerlejlighed,"Storegade 9, 1",9560, Hadsund,1100000 ,29-11-2006,Alm. Salg,161,6832,5,1933,
-846,Villa,Klydevej 21,9560, Hadsund,1100000 ,29-11-2006,Alm. Salg,124,8871,4,1987,
 846,Villa,Randersvej 21,9500, Hobro,670000 ,29-11-2006,Alm. Salg,160,4188,5,1827,
 846,Villa,Kærvej 67,9560, Hadsund,479500 ,29-11-2006,Andet,156,3074,4,1920,
 846,Villa,Myhlenbergvej 7,9510, Arden,480992 ,29-11-2006,Andet,78,6167,3,1942,
@@ -8927,9 +8759,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Ejerlejlighed,"Jernbanegade 48, 2. th",9500, Hobro,465000 ,29-10-2006,Alm. Salg,71,6549,2,1900,
 846,Ejerlejlighed,"Fruensgaard Plads 3B, 1",9550, Mariager,1425000 ,29-10-2006,Alm. Salg,131,10878,4,1908,
 846,Villa,Ardenvej 3,9510, Arden,1645000 ,27-10-2006,Alm. Salg,124,13266,3,1913,
-846,Ejerlejlighed,"Sjællandsgade 6, 1",9560, Hadsund,828400 ,26-10-2006,Alm. Salg,67,12364,2,1918,
 846,Villa,Ligustervej 9,9500, Hobro,1025000 ,26-10-2006,Alm. Salg,223,4596,8,1969,
-846,Villa,Sjællandsgade 6,9560, Hadsund,828400 ,26-10-2006,Alm. Salg,97,8540,2,1918,
 846,Villa,Hedevej 28,9560, Hadsund,1295000 ,26-10-2006,Alm. Salg,125,10360,5,1973,
 846,Villa,Hvilsom Hedevej 10,9500, Hobro,225000 ,26-10-2006,Alm. Salg,136,1654,6,1955,
 846,Rækkehus,Stranden 68,9560, Hadsund,695000 ,25-10-2006,Alm. Salg,66,10530,4,1991,
@@ -9202,8 +9032,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Ane Kathrinesvej 7,9500, Hobro,1330000 ,09-07-2006,Alm. Salg,111,11982,4,1960,
 846,Rækkehus,Stranden 63,9560, Hadsund,595000 ,07-07-2006,Alm. Salg,66,9015,3,1991,
 846,Villa,Skovbo Allé 15,9500, Hobro,100000 ,06-07-2006,Alm. Salg,225,444,5,2007,
-846,Rækkehus,Nørre Hurupvej 38,9560, Hadsund,137500 ,04-07-2006,Fam. Salg,128,1074,4,1900,
-846,Ejerlejlighed,Nørre Hurupvej 36,9560, Hadsund,137500 ,04-07-2006,Fam. Salg,90,1528,4,1900,
 846,Villa,Karlskrogen 5,9500, Hobro,1275000 ,04-07-2006,Alm. Salg,152,8388,5,1971,
 846,Villa,Sadelmagervej 4,9560, Hadsund,820000 ,03-07-2006,Alm. Salg,116,7069,3,1877,
 846,Villa,Bakkedraget 7,8990, Fårup,1195000 ,03-07-2006,Alm. Salg,131,9122,4,1969,
@@ -9229,7 +9057,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Carolinevej 13,9500, Hobro,1240000 ,27-06-2006,Alm. Salg,177,7006,6,1996,
 846,Villa,Lindumvej 13,9500, Hobro,1565000 ,26-06-2006,Alm. Salg,268,5840,8,1917,
 846,Villa,Havndalvej 24,9550, Mariager,695000 ,26-06-2006,Alm. Salg,104,6683,4,1877,
-846,Rækkehus,Havnen 56,9560, Hadsund,1995000 ,25-06-2006,Alm. Salg,127,15709,5,2007,
 846,Villa,Plantagevej 2,9500, Hobro,580000 ,25-06-2006,Alm. Salg,180,3222,5,1777,
 846,Villa,Nyvangsvej 3,9560, Hadsund,549000 ,24-06-2006,Alm. Salg,49,11204,2,1938,
 846,Villa,Østergade 36,9550, Mariager,2850000 ,22-06-2006,Alm. Salg,308,9253,11,1922,
@@ -9239,7 +9066,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,True Hovedgade 28,9550, Mariager,700000 ,20-06-2006,Alm. Salg,167,4192,6,1907,
 846,Villa,Hostrupkrogen 26,9500, Hobro,562000 ,20-06-2006,Alm. Salg,183,3071,6,2008,
 846,Villa,Kløvermarken 21,9510, Arden,105000 ,20-06-2006,Alm. Salg,149,705,6,2007,
-846,Villa,Mosevænget 2,9510, Arden,2395000 ,19-06-2006,Alm. Salg,156,15353,6,2004,
 846,Villa,Hegedalsvej 45,9500, Hobro,1695000 ,19-06-2006,Alm. Salg,189,8968,6,1954,
 846,Villa,Hegedalsparken 5,9500, Hobro,325000 ,19-06-2006,Alm. Salg,168,1935,6,2006,
 846,Villa,Vandkærvej 28,9560, Hadsund,620000 ,18-06-2006,Alm. Salg,189,3280,6,1914,
@@ -9517,7 +9343,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Karlskrogen 1,9500, Hobro,590000 ,02-03-2006,Alm. Salg,136,4338,5,1968,
 846,Villa,Kirkedals Alle 28,9500, Hobro,1100000 ,02-03-2006,Alm. Salg,171,6433,7,1975,
 846,Rækkehus,Stranden 59,9560, Hadsund,515000 ,01-03-2006,Alm. Salg,66,7803,3,1991,
-846,Ejerlejlighed,Strandparken 2,9500, Hobro,1795000 ,28-02-2006,Alm. Salg,114,15746,4,2005,
 846,Ejerlejlighed,H I Bies Plads 31,9500, Hobro,1006100 ,28-02-2006,Alm. Salg,95,10591,3,1998,
 846,Villa,Skovvej 18,9560, Hadsund,1039000 ,28-02-2006,Alm. Salg,100,10390,3,1946,
 846,Villa,Hasselholt 14,9560, Hadsund,1649000 ,28-02-2006,Alm. Salg,141,11695,4,1987,
@@ -9770,7 +9595,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Søndergade 36,9550, Mariager,1040000 ,07-11-2005,Alm. Salg,243,4280,4,1974,
 846,Villa,Stenmosevej 2,9500, Hobro,155700 ,07-11-2005,Alm. Salg,233,668,6,2009,
 846,Villa,Hegedalsparken 8,9500, Hobro,389000 ,07-11-2005,Alm. Salg,197,1975,6,2006,
-846,Ejerlejlighed,Strandparken 16,9500, Hobro,1450000 ,06-11-2005,Alm. Salg,94,15426,3,2005,
 846,Villa,Fjordager 13,9560, Hadsund,1085000 ,06-11-2005,Alm. Salg,175,6200,5,1977,
 846,Villa,Hulvejen 11,9560, Hadsund,630000 ,05-11-2005,Alm. Salg,134,4701,4,1800,
 846,Villa,Løgstørvej 43,9500, Hobro,1345000 ,04-11-2005,Alm. Salg,138,9746,7,1962,
@@ -9895,8 +9719,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Ejerlejlighed,Strandparken 4,9500, Hobro,1425000 ,15-09-2005,Alm. Salg,95,15000,3,2005,
 846,Villa,Syrenvej 11,9560, Hadsund,1100000 ,15-09-2005,Alm. Salg,136,8088,5,1969,
 846,Villa,Chorsvej 16,9500, Hobro,1185000 ,15-09-2005,Alm. Salg,128,9258,5,1973,
-846,Ejerlejlighed,"Randersvej 124, st. mf",8990, Fårup,1390000 ,14-09-2005,Alm. Salg,352,3949,5,1966,
-846,Villa,Randersvej 124,8990, Fårup,1390000 ,14-09-2005,Alm. Salg,324,4290,12,1895,
 846,Villa,Friheden 13,9500, Hobro,750000 ,14-09-2005,Alm. Salg,143,5245,4,2018,
 846,Villa,Visborgvej 23,9560, Hadsund,710000 ,14-09-2005,Alm. Salg,130,5462,4,1947,
 846,Villa,Skrødstrupvej 25,9550, Mariager,490000 ,14-09-2005,Alm. Salg,93,5269,4,1928,
@@ -9943,10 +9765,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Rækkehus,Nyvangsvej 14,9560, Hadsund,840000 ,01-09-2005,Alm. Salg,110,7636,4,1972,
 846,Ejerlejlighed,"Højdevej 28, st. mf",9500, Hobro,545000 ,01-09-2005,Alm. Salg,76,7171,2,1987,
 846,Villa,Rold Bavnehøjvej 4,9510, Arden,1295000 ,01-09-2005,Alm. Salg,181,7155,4,2022,
-846,Ejerlejlighed,"Randersvej 124, st. mf",8990, Fårup,1132950 ,31-08-2005,Alm. Salg,352,3219,5,1966,
 846,Villa,Kystvejen 48,9560, Hadsund,240000 ,31-08-2005,Alm. Salg,180,1333,7,1915,
 846,Villa,Kraghøjvej 30,9510, Arden,635000 ,31-08-2005,Alm. Salg,237,2679,6,1921,
-846,Villa,Randersvej 124,8990, Fårup,1132950 ,31-08-2005,Alm. Salg,324,3497,12,1895,
 846,Villa,Fjelstedvej 15,9550, Mariager,1350000 ,31-08-2005,Alm. Salg,186,7258,4,1902,
 846,Villa,Nordvang 14,9560, Hadsund,455000 ,31-08-2005,Alm. Salg,63,7222,3,1972,
 846,Villa,Miehesgade 36,9510, Arden,1100000 ,30-08-2005,Alm. Salg,139,7914,4,1973,
@@ -10208,9 +10028,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Enghavevej 30,9500, Hobro,825000 ,28-05-2005,Alm. Salg,130,6346,5,1920,
 846,Villa,Naurdalsvej 1,9500, Hobro,970000 ,27-05-2005,Alm. Salg,194,5000,7,1949,
 846,Rækkehus,Frederikshøjvej 18,9560, Hadsund,765000 ,26-05-2005,Alm. Salg,77,9935,3,1985,
-846,Ejerlejlighed,"Sjællandsgade 6, 1",9560, Hadsund,729150 ,26-05-2005,Alm. Salg,67,10883,2,1918,
 846,Villa,Mosevej 1,9560, Hadsund,348500 ,26-05-2005,Fam. Salg,186,1874,4,2022,
-846,Villa,Sjællandsgade 6,9560, Hadsund,729150 ,26-05-2005,Alm. Salg,97,7517,2,1918,
 846,Villa,Rinddalen 5,9550, Mariager,1195000 ,25-05-2005,Alm. Salg,152,7862,4,1976,
 846,Rækkehus,Ledsagervej 19,9500, Hobro,830000 ,24-05-2005,Alm. Salg,87,9540,4,1989,
 846,Rækkehus,Rosenhøj 3,9560, Hadsund,567000 ,24-05-2005,Fam. Salg,97,5845,3,1972,
@@ -10298,8 +10116,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Violvej 5,9500, Hobro,350000 ,26-04-2005,Alm. Salg,197,1777,7,2007,
 846,Villa,Højtoften 17,9560, Hadsund,1250000 ,26-04-2005,Alm. Salg,202,6188,5,1987,
 846,Villa,Mariagervej 56,9560, Hadsund,560000 ,26-04-2005,Alm. Salg,189,2963,6,2007,
-846,Ejerlejlighed,"Randersvej 124, st. mf",8990, Fårup,50000 ,25-04-2005,Alm. Salg,352,142,5,1966,
-846,Villa,Randersvej 124,8990, Fårup,50000 ,25-04-2005,Alm. Salg,324,154,12,1895,
 846,Villa,Fælledvej 20,9550, Mariager,2900000 ,25-04-2005,Alm. Salg,290,6532,12,1800,
 846,Villa,Farvervænget 25,9500, Hobro,1335000 ,25-04-2005,Alm. Salg,193,6917,7,1978,
 846,Villa,Violvej 33,9500, Hobro,475000 ,25-04-2005,Alm. Salg,201,2363,7,2006,
@@ -10532,7 +10348,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Rækkehus,Hegedalsvej 38B,9500, Hobro,875000 ,02-01-2005,Fam. Salg,95,9211,4,1990,
 846,Villa,Rønnebærvej 25B,9500, Hobro,1680000 ,02-01-2005,Fam. Salg,219,7671,7,1978,
 846,Villa,Bøgegade 10,9500, Hobro,578000 ,02-01-2005,Alm. Salg,117,4940,4,1988,
-846,Villa,Brogade 54,9500, Hobro,770000 ,31-12-2004,Alm. Salg,122,6311,6,1948,
 846,Villa,Norupvej 6,9550, Mariager,875000 ,31-12-2004,Alm. Salg,217,4032,7,1931,
 846,Villa,Hadsundvej 32,9560, Hadsund,840000 ,30-12-2004,Alm. Salg,209,4019,6,1965,
 846,Villa,Glerupvej 92,9560, Hadsund,532000 ,29-12-2004,Alm. Salg,139,3827,4,1877,
@@ -10551,7 +10366,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Rækkehus,Stenfeldtsvej 8B,9550, Mariager,425000 ,19-12-2004,Alm. Salg,108,3935,4,1981,
 846,Villa,Carolinevej 10,9500, Hobro,277055 ,19-12-2004,Andet,136,2037,5,1977,
 846,Villa,Højvangen 12,9500, Hobro,550000 ,19-12-2004,Alm. Salg,142,3873,5,1887,
-846,Villa,Tykkenkærvej 11,9560, Hadsund,700000 ,19-12-2004,Alm. Salg,80,8750,4,1947,
 846,Villa,Smedehøjvej 4,9500, Hobro,885000 ,18-12-2004,Alm. Salg,192,4609,6,2020,
 846,Villa,Morelvej 3,9560, Hadsund,800000 ,16-12-2004,Alm. Salg,134,5970,5,1973,
 846,Villa,Skelund Hovedgade 35,9560, Hadsund,685000 ,16-12-2004,Alm. Salg,124,5524,4,1870,
@@ -11074,7 +10888,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Hannerupskovvej 55,9500, Hobro,358244 ,23-03-2004,Alm. Salg,152,2357,6,1949,
 846,Villa,Nyvej 6,9510, Arden,510000 ,23-03-2004,Alm. Salg,160,3188,4,1965,
 846,Villa,Underbakkevej 11,9560, Hadsund,570000 ,22-03-2004,Alm. Salg,334,1707,7,1910,
-846,Villa,Hegedalsvej 24,9500, Hobro,475000 ,22-03-2004,Alm. Salg,111,4279,6,1900,
 846,Villa,Fælledvej 7,9550, Mariager,220000 ,22-03-2004,Alm. Salg,246,894,6,1777,
 846,Villa,Norgesvej 16,9500, Hobro,280000 ,22-03-2004,Alm. Salg,168,1667,7,2005,
 846,Ejerlejlighed,"Horsøparken 10, st. th",9500, Hobro,470000 ,21-03-2004,Alm. Salg,80,5875,2,1970,
@@ -11340,7 +11153,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Havndalvej 22,9550, Mariager,800000 ,03-11-2003,Alm. Salg,166,4819,6,1877,
 846,Villa,Valmuevej 49,9500, Hobro,258800 ,02-11-2003,Alm. Salg,150,1725,6,2004,
 846,Villa,Mispelvej 6,9500, Hobro,298000 ,02-11-2003,Alm. Salg,124,2403,4,2005,
-846,Villa,Hadsundvej 75,9560, Hadsund,2970000 ,30-10-2003,Alm. Salg,190,15632,4,1900,
 846,Villa,Veddum Hovedgade 1,9560, Hadsund,549000 ,30-10-2003,Alm. Salg,84,6536,4,1962,
 846,Villa,Pandourosvej 9,9500, Hobro,500000 ,29-10-2003,Alm. Salg,149,3356,4,1960,
 846,Villa,Norupvej 81B,8970, Havndal,580000 ,29-10-2003,Alm. Salg,170,3412,5,1979,
@@ -11538,7 +11350,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Ndr Truevej 12,9500, Hobro,600000 ,02-08-2003,Alm. Salg,120,5000,4,1962,
 846,Villa,Elmevej 4,9560, Hadsund,860000 ,01-08-2003,Alm. Salg,136,6324,5,1940,
 846,Rækkehus,Bøgevej 6B,9500, Hobro,687833 ,31-07-2003,Alm. Salg,107,6428,4,1950,
-846,Ejerlejlighed,"Højskolevej 1A, st",9560, Hadsund,1000000 ,31-07-2003,Alm. Salg,65,15385,2,1890,
 846,Villa,Hyldevej 3,9560, Hadsund,384942 ,31-07-2003,Andet,113,3407,4,1961,
 846,Villa,Thaliavej 2,9560, Hadsund,560687 ,31-07-2003,Alm. Salg,96,5840,3,1968,
 846,Villa,Fjordparken 125,9500, Hobro,1525000 ,31-07-2003,Alm. Salg,126,12103,5,1985,
@@ -11613,7 +11424,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Vestergade 13E,9510, Arden,475000 ,25-06-2003,Alm. Salg,90,5278,4,1926,
 846,Villa,Kirsebærvej 3,9560, Hadsund,420000 ,23-06-2003,Alm. Salg,101,4158,4,1827,
 846,Rækkehus,Stranden 12,9560, Hadsund,595506 ,22-06-2003,Andet,66,9023,4,1991,
-846,Rækkehus,Buddumvej 40A. 1,9560, Hadsund,75912 ,22-06-2003,Andet,45,1687,2,2008,
 846,Rækkehus,Grøndalsvej 21,9500, Hobro,315000 ,22-06-2003,Alm. Salg,92,3424,2,1877,
 846,Villa,Mariagervej 113,9500, Hobro,385000 ,22-06-2003,Alm. Salg,143,2692,6,1940,
 846,Villa,Øster Hurupvej 2,9560, Hadsund,440000 ,20-06-2003,Alm. Salg,192,2292,5,1925,
@@ -11672,7 +11482,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Glerupvej 94,9560, Hadsund,510000 ,23-05-2003,Alm. Salg,90,5667,3,1877,
 846,Villa,Rønnevej 2,9560, Hadsund,1025000 ,22-05-2003,Alm. Salg,190,5395,7,1961,
 846,Villa,Kystvejen 62,9560, Hadsund,400000 ,21-05-2003,Alm. Salg,107,3738,4,1932,
-846,Villa,Hadsundvej 23B,9560, Hadsund,870000 ,21-05-2003,Alm. Salg,115,7565,2,1847,
 846,Villa,Klejtrupvej 42,9500, Hobro,273333 ,20-05-2003,Fam. Salg,101,2706,3,2001,
 846,Villa,Kirkedals Alle 7,9500, Hobro,920000 ,19-05-2003,Alm. Salg,108,8519,4,1977,
 846,Villa,Juulsmarken 24,9500, Hobro,84000 ,18-05-2003,Alm. Salg,145,579,6,2004,
@@ -12028,7 +11837,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Rækkehus,Anna Damborgsvej 22,9510, Arden,425000 ,11-11-2002,Alm. Salg,70,6071,2,1980,
 846,Villa,Vadgårdsvej 23,9500, Hobro,535000 ,11-11-2002,Alm. Salg,95,5632,4,1975,
 846,Villa,Randersvej 9,9500, Hobro,730000 ,07-11-2002,Alm. Salg,156,4679,6,1928,
-846,Villa,Ølsvej 35,9500, Hobro,2005000 ,06-11-2002,Alm. Salg,230,8717,9,1964,
 846,Rækkehus,Kløvermarken 52A,9510, Arden,435000 ,05-11-2002,Alm. Salg,70,6214,3,1988,
 846,Villa,Gadegårdsvej 16,9500, Hobro,475000 ,04-11-2002,Alm. Salg,154,3084,3,1964,
 846,Villa,Skolebakken 34,8990, Fårup,150000 ,03-11-2002,Alm. Salg,60,2500,3,1952,
@@ -12037,11 +11845,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Bogfinkevej 2,9550, Mariager,425000 ,02-11-2002,Alm. Salg,209,2033,6,1940,
 846,Villa,Teglværkssvinget 17,9500, Hobro,1725000 ,01-11-2002,Alm. Salg,272,6342,5,2004,
 846,Villa,Farvervænget 36,9500, Hobro,985000 ,01-11-2002,Alm. Salg,125,7880,4,1977,
-846,Rækkehus,Klostergade 6B,9550, Mariager,765000 ,31-10-2002,Alm. Salg,77,9935,1,1923,
 846,Villa,Kjellerupsgade 10,9560, Hadsund,500000 ,31-10-2002,Fam. Salg,187,2674,6,1932,
 846,Villa,Engsvang 1,9500, Hobro,549000 ,31-10-2002,Alm. Salg,110,4991,4,1975,
 846,Villa,Rostrupvej 39,9500, Hobro,290000 ,31-10-2002,Alm. Salg,161,1801,5,1929,
-846,Villa,Klostergade 6,9550, Mariager,765000 ,31-10-2002,Alm. Salg,149,5134,7,1923,
 846,Villa,Søtofte 6,9500, Hobro,120000 ,30-10-2002,Alm. Salg,165,727,6,2005,
 846,Villa,Kærvej 39,9500, Hobro,398000 ,30-10-2002,Alm. Salg,118,3373,4,1942,
 846,Villa,Tjørnevej 8,9500, Hobro,1580000 ,30-10-2002,Alm. Salg,219,7215,8,1999,
@@ -12588,12 +12394,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Elkærvej 12,9560, Hadsund,231270 ,20-02-2002,Alm. Salg,201,1151,8,1947,
 846,Ejerlejlighed,"Jernbanegade 48, 1. tv",9500, Hobro,520000 ,19-02-2002,Alm. Salg,90,5778,3,1900,
 846,Villa,Ajstrupvej 11,9560, Hadsund,521014 ,19-02-2002,Alm. Salg,136,3831,5,1966,
-846,Ejerlejlighed,Nygade 1A,9560, Hadsund,383333 ,18-02-2002,Alm. Salg,66,5808,2,1901,
-846,Ejerlejlighed,Nygade 1B,9560, Hadsund,383333 ,18-02-2002,Alm. Salg,89,4307,3,1901,
-846,Ejerlejlighed,Nygade 1C,9560, Hadsund,383333 ,18-02-2002,Alm. Salg,52,7372,2,1901,
-846,Ejerlejlighed,"Sadelmagervej 2, 1. 5",9560, Hadsund,383333 ,18-02-2002,Alm. Salg,129,2972,4,1920,
-846,Ejerlejlighed,"Sadelmagervej 2, st. 3",9560, Hadsund,383333 ,18-02-2002,Alm. Salg,70,5476,2,1920,
-846,Ejerlejlighed,"Sadelmagervej 2, st. 4",9560, Hadsund,383333 ,18-02-2002,Alm. Salg,83,4618,2,1920,
 846,Villa,Løgstørvej 6,9500, Hobro,813198 ,18-02-2002,Alm. Salg,113,7196,5,1945,
 846,Villa,Spiraeavej 7,9500, Hobro,126000 ,18-02-2002,Alm. Salg,177,712,7,2002,
 846,Villa,Elmevej 6,9560, Hadsund,1565000 ,18-02-2002,Alm. Salg,308,5081,8,1946,
@@ -12669,8 +12469,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Vandværksvej 8,9560, Hadsund,623928 ,09-01-2002,Alm. Salg,98,6367,4,1920,
 846,Villa,Marius Bruuns Vej 3,9500, Hobro,50000 ,08-01-2002,Alm. Salg,134,373,5,2002,
 846,Villa,Havndalvej 59B,8970, Havndal,2180000 ,08-01-2002,Alm. Salg,268,8134,7,1981,
-846,Ejerlejlighed,"Sjællandsgade 6, 1",9560, Hadsund,310000 ,07-01-2002,Andet,67,4627,2,1918,
-846,Villa,Sjællandsgade 6,9560, Hadsund,310000 ,07-01-2002,Andet,97,3196,2,1918,
 846,Villa,Ravnbjergvej 8,9560, Hadsund,1049000 ,07-01-2002,Andet,189,5550,7,1979,
 846,Villa,Miehesgade 4,9510, Arden,592500 ,06-01-2002,Alm. Salg,129,4593,7,1907,
 846,Villa,Højmarken 16,9560, Hadsund,305000 ,06-01-2002,Alm. Salg,153,1993,6,2002,
@@ -13062,7 +12860,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Nyvangsvej 9,9560, Hadsund,950000 ,21-06-2001,Alm. Salg,231,4113,8,1975,
 846,Rækkehus,Valmuevej 4,9560, Hadsund,701302 ,20-06-2001,Alm. Salg,94,7461,3,1982,
 846,Villa,Højmarken 19,9560, Hadsund,305000 ,20-06-2001,Alm. Salg,208,1466,5,2002,
-846,Villa,Havnegade 20C,9550, Mariager,950000 ,19-06-2001,Alm. Salg,77,12338,3,1964,
 846,Villa,Boeck-Hansensvej 2,9550, Mariager,966731 ,19-06-2001,Alm. Salg,141,6856,4,1928,
 846,Villa,Møllebakken 78,9500, Hobro,785000 ,18-06-2001,Alm. Salg,102,7696,4,1931,
 846,Villa,Kystvejen 47,9560, Hadsund,210000 ,17-06-2001,Alm. Salg,96,2188,3,1972,
@@ -13270,10 +13067,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Fayesgade 15,9500, Hobro,399469 ,03-04-2001,Alm. Salg,191,2091,8,1900,
 846,Rækkehus,Teglgade 17P,9550, Mariager,850000 ,02-04-2001,Alm. Salg,181,4696,5,1780,
 846,Rækkehus,Strandvej 14,9500, Hobro,768500 ,02-04-2001,Alm. Salg,92,8353,3,1985,
-846,Ejerlejlighed,Østergade 1B,9560, Hadsund,825000 ,02-04-2001,Alm. Salg,71,11620,2,1870,
-846,Ejerlejlighed,Østergade 1C,9560, Hadsund,825000 ,02-04-2001,Alm. Salg,61,13525,2,1870,
-846,Ejerlejlighed,"Nørregade 8, 1",9560, Hadsund,825000 ,02-04-2001,Alm. Salg,87,9483,2,1870,
-846,Ejerlejlighed,"Nørregade 8, 2",9560, Hadsund,825000 ,02-04-2001,Alm. Salg,57,14474,2,1870,
 846,Villa,Præstemarken 19,9500, Hobro,780000 ,02-04-2001,Alm. Salg,239,3264,8,1930,
 846,Villa,Rørsangervej 6,9550, Mariager,83281 ,01-04-2001,Alm. Salg,155,537,5,2001,
 846,Villa,Houvej 47,9550, Mariager,345000 ,01-04-2001,Alm. Salg,81,4259,3,1952,
@@ -13415,7 +13208,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Helberskovvej 14,9560, Hadsund,817212 ,19-01-2001,Fam. Salg,190,4301,5,1712,
 846,Rækkehus,Valmuevej 4,9560, Hadsund,665000 ,18-01-2001,Alm. Salg,94,7074,3,1982,
 846,Villa,Jagtvej 14,9560, Hadsund,690000 ,18-01-2001,Alm. Salg,98,7041,4,1967,
-846,Rækkehus,Kirkegade 12B,9550, Mariager,1225000 ,17-01-2001,Alm. Salg,110,11136,4,1915,
 846,Villa,Nebstrupvej 1,8970, Havndal,395000 ,14-01-2001,Alm. Salg,114,3465,4,1912,
 846,Villa,Nørregade 26,9560, Hadsund,210000 ,14-01-2001,Alm. Salg,60,3500,2,1890,
 846,Villa,Hobrovej 59,9500, Hobro,550000 ,13-01-2001,Alm. Salg,115,4783,3,1964,
@@ -13468,7 +13260,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Skrødstrupvej 8,9550, Mariager,330000 ,11-12-2000,Alm. Salg,245,1347,10,1956,
 846,Villa,Gundestrupvej 3,9500, Hobro,528500 ,11-12-2000,Alm. Salg,178,2969,5,1930,
 846,Villa,Alsvej 123,9560, Hadsund,235823 ,11-12-2000,Alm. Salg,170,1387,6,1918,
-846,Rækkehus,Tranevænget 5,9500, Hobro,1400000 ,10-12-2000,Alm. Salg,156,8974,5,1984,
 846,Villa,Skrødstrupvej 21,9550, Mariager,435000 ,09-12-2000,Alm. Salg,114,3816,3,1965,
 846,Villa,Døstrupvej 115,9500, Hobro,845204 ,09-12-2000,Alm. Salg,230,3675,7,1890,
 846,Villa,Skovvej 60,9510, Arden,765000 ,09-12-2000,Alm. Salg,199,3844,5,1956,
@@ -13741,7 +13532,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Hegedalsvej 62,9500, Hobro,735443 ,24-07-2000,Alm. Salg,103,7140,4,1940,
 846,Villa,Kraghøjvej 26,9510, Arden,2150000 ,21-07-2000,Alm. Salg,175,12286,6,1938,
 846,Villa,Nedre Strandvej 25,9500, Hobro,1787000 ,21-07-2000,Alm. Salg,200,8935,6,1948,
-846,Villa,Hegedalsvej 12B,9500, Hobro,680000 ,20-07-2000,Alm. Salg,45,15111,2,1895,
 846,Villa,Kystvejen 28,9560, Hadsund,630000 ,20-07-2000,Andet,308,2045,7,1929,
 846,Villa,Alsvej 103,9560, Hadsund,855000 ,20-07-2000,Alm. Salg,102,8382,3,1939,
 846,Villa,Multebærvej 19,9500, Hobro,327075 ,19-07-2000,Alm. Salg,146,2240,6,2006,
@@ -13953,11 +13743,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Strandvej 8,9560, Hadsund,1200000 ,09-04-2000,Alm. Salg,170,7059,6,1908,
 846,Villa,Fjordparken 69,9500, Hobro,1190000 ,08-04-2000,Alm. Salg,127,9370,5,1980,
 846,Villa,Chr Thisteds Vej 6,9500, Hobro,500000 ,08-04-2000,Alm. Salg,150,3333,4,1972,
-846,Ejerlejlighed,"Mejerivej 1, 1. mf",9500, Hobro,500000 ,07-04-2000,Alm. Salg,68,7353,2,1890,
-846,Ejerlejlighed,"Mejerivej 1, 1. tv",9500, Hobro,500000 ,07-04-2000,Alm. Salg,45,11111,2,1890,
-846,Ejerlejlighed,"Viborg Landevej 49, st. tv",9500, Hobro,500000 ,07-04-2000,Alm. Salg,115,4348,3,1890,
-846,Ejerlejlighed,"Viborg Landevej 49, 1. th",9500, Hobro,500000 ,07-04-2000,Alm. Salg,108,4630,3,1890,
-846,Ejerlejlighed,"Viborg Landevej 49, 1. tv",9500, Hobro,500000 ,07-04-2000,Alm. Salg,78,6410,2,1890,
 846,Villa,Vibevej 1,9560, Hadsund,263000 ,06-04-2000,Alm. Salg,149,1765,4,1923,
 846,Villa,Møldrupvej 44,9510, Arden,890000 ,06-04-2000,Alm. Salg,105,8476,4,1890,
 846,Villa,Havndalvej 56,8970, Havndal,1708573 ,05-04-2000,Alm. Salg,224,7628,8,1913,
@@ -14159,7 +13944,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Blåkildevej 3,9510, Arden,250000 ,19-12-1999,Alm. Salg,120,2083,4,1942,
 846,Villa,Højskolevej 7,9560, Hadsund,458168 ,19-12-1999,Alm. Salg,88,5206,2,1948,
 846,Villa,Blomstervej 2,9510, Arden,390000 ,19-12-1999,Alm. Salg,105,3714,3,1965,
-846,Villa,Andedamsvej 1,9500, Hobro,480000 ,19-12-1999,Fam. Salg,338,1420,10,1940,
 846,Villa,Vestparken 67,9550, Mariager,1150000 ,19-12-1999,Alm. Salg,210,5476,6,1973,
 846,Villa,Glenstrup Søvej 7,8990, Fårup,331500 ,19-12-1999,Fam. Salg,175,1894,8,1943,
 846,Villa,Mågevej 9,9560, Hadsund,238000 ,17-12-1999,Fam. Salg,163,1460,4,2008,
@@ -14169,8 +13953,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Vandkærvej 40,9560, Hadsund,379535 ,15-12-1999,Alm. Salg,66,5751,5,1942,
 846,Villa,True Hovedgade 34,9550, Mariager,1150000 ,15-12-1999,Alm. Salg,136,8456,5,1924,
 846,Villa,Chr Thisteds Vej 19,9500, Hobro,102000 ,15-12-1999,Alm. Salg,192,531,7,2000,
-846,Ejerlejlighed,"Viborggyde 2, 1",9500, Hobro,1293826 ,14-12-1999,Alm. Salg,82,15778,3,1964,
-846,Ejerlejlighed,"Viborggyde 2, st",9500, Hobro,1293826 ,14-12-1999,Alm. Salg,82,15778,2,1964,
 846,Ejerlejlighed,"Sønder Alle 1D, 1. th",9500, Hobro,365000 ,14-12-1999,Alm. Salg,58,6293,2,1900,
 846,Villa,True Hovedgade 22,9550, Mariager,1650000 ,14-12-1999,Alm. Salg,232,7112,7,1860,
 846,Villa,Vildrosen 15,9510, Arden,1155000 ,14-12-1999,Alm. Salg,170,6794,6,1976,
@@ -14254,7 +14036,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Vråvej 7,9510, Arden,300000 ,07-11-1999,Alm. Salg,84,3571,2,1920,
 846,Villa,Brovej 3,9510, Arden,537000 ,07-11-1999,Fam. Salg,130,4131,6,1965,
 846,Villa,Vibevej 5,9550, Mariager,656278 ,06-11-1999,Alm. Salg,154,4262,5,1955,
-846,Rækkehus,Løgstørvej 21,9500, Hobro,636530 ,04-11-1999,Alm. Salg,50,12731,2,1940,
 846,Ejerlejlighed,"Lillegade 10, 2",9500, Hobro,430000 ,04-11-1999,Alm. Salg,52,8269,2,1989,
 846,Villa,Kærvej 73,9560, Hadsund,865000 ,04-11-1999,Alm. Salg,149,5805,5,1913,
 846,Villa,Haldbakken 27,9500, Hobro,41724 ,04-11-1999,Fam. Salg,125,334,5,1986,
@@ -14286,11 +14067,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Gammelvej 24,9500, Hobro,675000 ,21-10-1999,Alm. Salg,105,6429,4,1900,
 846,Villa,Spurvevej 68,9550, Mariager,340000 ,21-10-1999,Auktion,98,3469,3,1926,
 846,Villa,Hegedalsvej 23,9500, Hobro,712736 ,20-10-1999,Alm. Salg,90,7919,6,1947,
-846,Ejerlejlighed,"Viborggyde 1, 1",9500, Hobro,735000 ,19-10-1999,Alm. Salg,74,9932,2,1900,
-846,Ejerlejlighed,"Adelgade 76, st. tv",9500, Hobro,735000 ,19-10-1999,Alm. Salg,128,5742,4,1900,
-846,Ejerlejlighed,"Adelgade 76, st. th",9500, Hobro,735000 ,19-10-1999,Alm. Salg,62,11855,2,1900,
 846,Villa,Skråvejen 10,9550, Mariager,517608 ,19-10-1999,Alm. Salg,106,4883,4,1954,
-846,Villa,Viborggyde 3,9500, Hobro,735000 ,19-10-1999,Alm. Salg,95,7737,3,1900,
 846,Rækkehus,Stationsvej 9,9500, Hobro,525000 ,18-10-1999,Alm. Salg,134,3918,5,1953,
 846,Rækkehus,Strandvej 10,9500, Hobro,700000 ,18-10-1999,Alm. Salg,92,7609,3,1985,
 846,Ejerlejlighed,Storegade 23A,9550, Mariager,52250 ,18-10-1999,Alm. Salg,91,574,2,1907,
@@ -14493,7 +14270,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Digtervænget 133,9550, Mariager,227205 ,27-07-1999,Alm. Salg,160,1420,4,2000,
 846,Villa,Multebærvej 10,9500, Hobro,286275 ,26-07-1999,Alm. Salg,162,1767,6,2001,
 846,Villa,Kvædeparken 94,9500, Hobro,210000 ,26-07-1999,Alm. Salg,170,1235,6,2001,
-846,Villa,Brogade 54,9500, Hobro,688652 ,26-07-1999,Alm. Salg,122,5645,6,1948,
 846,Villa,Jagtvej 29,9560, Hadsund,235000 ,26-07-1999,Alm. Salg,172,1366,4,2000,
 846,Villa,Hyldebærvej 10,9500, Hobro,400000 ,23-07-1999,Alm. Salg,232,1724,6,2001,
 846,Rækkehus,Anna Damborgsvej 32,9510, Arden,419856 ,22-07-1999,Alm. Salg,72,5831,3,1980,
@@ -14535,7 +14311,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Korsbakken 1,9560, Hadsund,992370 ,01-07-1999,Alm. Salg,169,5872,3,1969,
 846,Villa,Sellegaardevej 15,9560, Hadsund,435873 ,01-07-1999,Alm. Salg,183,2382,6,1880,
 846,Villa,Amerikavej 42,9500, Hobro,835000 ,01-07-1999,Alm. Salg,150,5567,5,1966,
-846,Villa,Storardenvej 18A,9510, Arden,514000 ,01-07-1999,Alm. Salg,76,6763,4,1936,
 846,Villa,Gl Visborgvej 127,9560, Hadsund,382800 ,01-07-1999,Alm. Salg,80,4785,4,1800,
 846,Villa,Hvarrevej 37,9510, Arden,475000 ,30-06-1999,Alm. Salg,199,2387,4,0,
 846,Villa,Norup Østermark 3,8970, Havndal,330000 ,30-06-1999,Alm. Salg,250,1320,5,1910,
@@ -14697,7 +14472,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Sallingvej 17,9500, Hobro,1082880 ,21-04-1999,Alm. Salg,258,4197,4,1969,
 846,Villa,Kærvej 6,9560, Hadsund,495000 ,21-04-1999,Alm. Salg,128,3867,5,1938,
 846,Villa,Ålborgvej 40,9560, Hadsund,1050000 ,21-04-1999,Alm. Salg,151,6954,5,1984,
-846,Villa,Kønigsfeldtsvej 5,9550, Mariager,45200 ,21-04-1999,Alm. Salg,120,377,5,1916,
 846,Villa,Fjordparken 14,9500, Hobro,920000 ,20-04-1999,Alm. Salg,143,6434,6,1988,
 846,Villa,Højskolevej 13,9560, Hadsund,1150000 ,19-04-1999,Alm. Salg,148,7770,5,1850,
 846,Villa,Fjordbakken 55,9560, Hadsund,1615121 ,19-04-1999,Alm. Salg,227,7115,6,1977,
@@ -14725,7 +14499,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Udsigten 33,9500, Hobro,427000 ,09-04-1999,Alm. Salg,175,2440,5,1943,
 846,Villa,Bellisvej 5,9500, Hobro,750000 ,09-04-1999,Alm. Salg,161,4658,5,1976,
 846,Villa,Fragdrupvej 7,9500, Hobro,1400000 ,08-04-1999,Alm. Salg,275,5091,11,1929,
-846,Villa,Hadsundvej 23B,9560, Hadsund,195000 ,08-04-1999,Alm. Salg,115,1696,2,1847,
 846,Villa,Damvej 4,9550, Mariager,410000 ,07-04-1999,Alm. Salg,121,3388,3,1894,
 846,Villa,Viborg Landevej 83,9500, Hobro,162771 ,07-04-1999,Alm. Salg,210,775,5,2020,
 846,Villa,Kirkedals Alle 50,9500, Hobro,1194577 ,06-04-1999,Alm. Salg,208,5743,5,1976,
@@ -15025,9 +14798,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Rosengade 7B,9550, Mariager,850000 ,09-11-1998,Alm. Salg,117,7265,3,1913,
 846,Villa,Østergade 49,9560, Hadsund,577011 ,09-11-1998,Alm. Salg,166,3476,10,1945,
 846,Rækkehus,Fjordgade 2F,9550, Mariager,460000 ,08-11-1998,Alm. Salg,57,8070,2,1976,
-846,Rækkehus,Borgervej 19B,9500, Hobro,7286 ,08-11-1998,Alm. Salg,87,84,3,1879,
 846,Ejerlejlighed,"Borgervej 19, st. tv",9500, Hobro,210000 ,08-11-1998,Alm. Salg,110,1909,4,1879,
-846,Ejerlejlighed,Borgervej 19A,9500, Hobro,7286 ,08-11-1998,Alm. Salg,99,74,4,1879,
 846,Villa,Bluhmesgade 18,9510, Arden,423100 ,08-11-1998,Alm. Salg,120,3526,5,1900,
 846,Villa,Terndrupvej 49,9510, Arden,147500 ,08-11-1998,Alm. Salg,123,1199,6,1870,
 846,Villa,Samsøgade 14,9560, Hadsund,835000 ,08-11-1998,Alm. Salg,134,6231,5,1923,
@@ -15325,7 +15096,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Granlien 2,9560, Hadsund,590000 ,26-07-1998,Alm. Salg,95,6211,3,1962,
 846,Villa,Ahornvej 4,9550, Mariager,366000 ,26-07-1998,Alm. Salg,118,3102,4,1910,
 846,Villa,Jagtvej 27,9560, Hadsund,235000 ,23-07-1998,Alm. Salg,137,1715,5,1999,
-846,Villa,Storardenvej 18A,9510, Arden,374351 ,23-07-1998,Alm. Salg,76,4926,4,1936,
 846,Villa,Brohusvej 28,9560, Hadsund,360000 ,22-07-1998,Alm. Salg,100,3600,4,1900,
 846,Villa,Storemosevej 4,9510, Arden,520470 ,22-07-1998,Alm. Salg,99,5257,3,1787,
 846,Villa,Duevej 3,9560, Hadsund,550000 ,22-07-1998,Alm. Salg,106,5189,4,1857,
@@ -15383,7 +15153,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Underbakkevej 7,9560, Hadsund,209121 ,24-06-1998,Alm. Salg,62,3373,3,1897,
 846,Villa,Karlskrogen 2,9500, Hobro,920000 ,23-06-1998,Alm. Salg,169,5444,6,1972,
 846,Villa,Als Oddevej 57,9560, Hadsund,427000 ,23-06-1998,Alm. Salg,80,5338,2,1800,
-846,Villa,Damvej 2I,9550, Mariager,200000 ,22-06-1998,Alm. Salg,70,2857,2,2000,
 846,Villa,Grøndalsvej 15,9560, Hadsund,290000 ,22-06-1998,Alm. Salg,150,1933,6,1939,
 846,Villa,Bøgevej 19,9500, Hobro,720000 ,20-06-1998,Alm. Salg,100,7200,4,1968,
 846,Villa,Fjordbakken 33,9560, Hadsund,880000 ,20-06-1998,Alm. Salg,139,6331,4,1980,
@@ -15469,7 +15238,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Møldrupvej 52,9510, Arden,27625 ,18-05-1998,Fam. Salg,189,146,5,1982,
 846,Villa,Voldgade 2,9510, Arden,814499 ,17-05-1998,Alm. Salg,111,7338,3,1946,
 846,Villa,Hobrovej 86,9560, Hadsund,1017000 ,17-05-1998,Alm. Salg,198,5136,5,1911,
-846,Villa,Nørregade 5A,9560, Hadsund,1133500 ,17-05-1998,Alm. Salg,75,15113,3,1907,
 846,Villa,Engvej 1,9500, Hobro,485000 ,17-05-1998,Alm. Salg,114,4254,5,1912,
 846,Villa,Lupinvej 11,9560, Hadsund,750000 ,15-05-1998,Alm. Salg,108,6944,4,1981,
 846,Villa,Langerimsvej 2,9560, Hadsund,515000 ,15-05-1998,Alm. Salg,149,3456,5,1890,
@@ -15615,7 +15383,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Rinddalen 34,9550, Mariager,958000 ,24-03-1998,Alm. Salg,149,6430,5,1978,
 846,Villa,Vester Alle 40,9500, Hobro,605000 ,24-03-1998,Alm. Salg,86,7035,4,1933,
 846,Villa,Hodalsvej 32,9500, Hobro,549500 ,24-03-1998,Alm. Salg,151,3639,5,1935,
-846,Ejerlejlighed,"Markedsgade 2, 1",9500, Hobro,1378857 ,23-03-1998,Alm. Salg,80,15321,4,1875,
 846,Villa,Stubberupvej 7,9500, Hobro,400000 ,23-03-1998,Alm. Salg,162,2469,7,1928,
 846,Villa,Kystvejen 101,9560, Hadsund,435000 ,23-03-1998,Alm. Salg,106,4104,3,1959,
 846,Villa,Sallingvej 52,9500, Hobro,575000 ,22-03-1998,Alm. Salg,100,5750,4,1965,
@@ -15823,7 +15590,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Lindumvej 1,9500, Hobro,435000 ,03-12-1997,Alm. Salg,134,3246,6,1924,
 846,Villa,Drosselvej 3,9560, Hadsund,530000 ,03-12-1997,Fam. Salg,103,5146,5,1958,
 846,Villa,Ølsvej 29,9500, Hobro,857600 ,02-12-1997,Alm. Salg,140,6126,5,1975,
-846,Rækkehus,Løgstørvej 21,9500, Hobro,553703 ,01-12-1997,Alm. Salg,50,11074,2,1940,
 846,Villa,Fjordparken 13,9500, Hobro,550000 ,01-12-1997,Alm. Salg,109,5046,4,1988,
 846,Villa,Stubberupvej 13,9500, Hobro,95327 ,01-12-1997,Fam. Salg,104,917,4,1920,
 846,Villa,Vejrmøllegården 2,9550, Mariager,1070000 ,01-12-1997,Alm. Salg,158,6772,5,1977,
@@ -16147,7 +15913,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Samsøgade 18,9560, Hadsund,960000 ,13-07-1997,Alm. Salg,162,5926,4,1961,
 846,Villa,Gl Hannerupvej 1,9500, Hobro,305000 ,13-07-1997,Fam. Salg,88,3466,2,1877,
 846,Villa,Skelund Hovedgade 2,9560, Hadsund,280000 ,12-07-1997,Alm. Salg,121,2314,6,1877,
-846,Ejerlejlighed,"Markedsgade 2, 1",9500, Hobro,1400000 ,11-07-1997,Alm. Salg,80,15556,4,1875,
 846,Villa,Fayesgade 11,9500, Hobro,782000 ,10-07-1997,Alm. Salg,160,4888,6,1908,
 846,Villa,True Hedevej 2,9500, Hobro,407000 ,10-07-1997,Alm. Salg,172,2366,6,1927,
 846,Villa,Læsøgade 11,9560, Hadsund,486000 ,08-07-1997,Alm. Salg,100,4860,4,1927,
@@ -16247,10 +16012,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Digtervænget 99,9550, Mariager,1171000 ,01-06-1997,Alm. Salg,143,8189,5,1997,
 846,Villa,Roldvej 7,9510, Arden,247000 ,31-05-1997,Alm. Salg,160,1544,5,2004,
 846,Villa,Fiskervej 8,9500, Hobro,635000 ,30-05-1997,Alm. Salg,140,4071,4,1900,
-846,Ejerlejlighed,"Jernbanegade 48, 1. th",9500, Hobro,375000 ,29-05-1997,Alm. Salg,90,4167,3,1900,
 846,Villa,Udsigten 13,9500, Hobro,575000 ,29-05-1997,Alm. Salg,134,4291,3,1951,
 846,Villa,Gundestrupvej 3,9500, Hobro,437000 ,29-05-1997,Alm. Salg,178,2455,5,1930,
-846,Villa,Hegedalsvej 50,9500, Hobro,375000 ,29-05-1997,Alm. Salg,111,3378,3,1934,
 846,Villa,Digtervænget 111,9550, Mariager,172400 ,29-05-1997,Alm. Salg,121,1425,2,1998,
 846,Rækkehus,Teglgade 17B,9550, Mariager,675000 ,28-05-1997,Alm. Salg,122,5533,3,1780,
 846,Villa,Hvilsom Skovvej 74,9500, Hobro,388814 ,28-05-1997,Alm. Salg,100,3888,4,1964,
@@ -16291,7 +16054,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Engbergsvej 15,9550, Mariager,850000 ,14-05-1997,Alm. Salg,120,7083,4,1976,
 846,Villa,Nygade 2A,9510, Arden,595000 ,14-05-1997,Alm. Salg,125,4343,5,1955,
 846,Villa,Tjørnevej 14,9500, Hobro,183000 ,14-05-1997,Alm. Salg,154,1188,6,1997,
-846,Rækkehus,Mariagervej 30C,9500, Hobro,720000 ,13-05-1997,Alm. Salg,66,10909,2,1992,
 846,Villa,Rønnebærvej 14,9500, Hobro,942000 ,13-05-1997,Alm. Salg,174,5414,4,1976,
 846,Villa,Kystvejen 73,9560, Hadsund,300000 ,13-05-1997,Alm. Salg,101,2970,3,1964,
 846,Villa,Bekkasinvej 18,9560, Hadsund,587348 ,13-05-1997,Alm. Salg,153,3839,5,1984,
@@ -16418,7 +16180,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Terndrupvej 27,9510, Arden,300000 ,16-03-1997,Alm. Salg,198,1515,6,1947,
 846,Villa,Snæbumvej 22A,9500, Hobro,325000 ,13-03-1997,Fam. Salg,152,2044,8,2001,
 846,Villa,Mariagervej 72,9500, Hobro,253390 ,13-03-1997,Alm. Salg,92,2754,4,1910,
-846,Villa,Tykkenkærvej 11,9560, Hadsund,600000 ,13-03-1997,Alm. Salg,80,7500,4,1947,
 846,Villa,Jernbanegade 61,9560, Hadsund,459724 ,13-03-1997,Alm. Salg,96,4789,4,1946,
 846,Villa,Myhlenbergvej 7,9510, Arden,275000 ,12-03-1997,Alm. Salg,78,3526,3,1942,
 846,Villa,Tjørnevej 9,9500, Hobro,191200 ,12-03-1997,Alm. Salg,177,1080,6,1998,
@@ -16635,7 +16396,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Rækkehus,Grøndalsvej 5,9500, Hobro,240000 ,02-12-1996,Alm. Salg,82,2927,3,1897,
 846,Villa,Blåkildevej 9,9500, Hobro,200000 ,01-12-1996,Andet,185,1081,4,1870,
 846,Villa,Als Oddevej 33,9560, Hadsund,462000 ,30-11-1996,Alm. Salg,111,4162,5,1800,
-846,Ejerlejlighed,"Storegade 36A, 1. th",9560, Hadsund,1305000 ,28-11-1996,Auktion,88,14830,2,1900,
 846,Ejerlejlighed,Fruerlundvej 1C,9560, Hadsund,1300000 ,28-11-1996,Fam. Salg,236,5508,5,2007,
 846,Villa,Engsvang 7,9500, Hobro,55000 ,28-11-1996,Alm. Salg,130,423,5,1997,
 846,Villa,Storegade 30,9550, Mariager,375000 ,26-11-1996,Alm. Salg,156,2404,6,1923,
@@ -16707,11 +16467,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Hasselvej 1,9550, Mariager,750000 ,30-10-1996,Alm. Salg,148,5068,4,1975,
 846,Villa,Hedevej 19,9560, Hadsund,850000 ,30-10-1996,Alm. Salg,142,5986,4,1974,
 846,Villa,Gl Visborgvej 129,9560, Hadsund,650000 ,29-10-1996,Alm. Salg,136,4779,4,1897,
-846,Ejerlejlighed,"Mejerivej 1, 1. mf",9500, Hobro,350000 ,28-10-1996,Alm. Salg,68,5147,2,1890,
-846,Ejerlejlighed,"Mejerivej 1, 1. tv",9500, Hobro,350000 ,28-10-1996,Alm. Salg,45,7778,2,1890,
-846,Ejerlejlighed,"Viborg Landevej 49, st. tv",9500, Hobro,350000 ,28-10-1996,Alm. Salg,115,3043,3,1890,
-846,Ejerlejlighed,"Viborg Landevej 49, 1. th",9500, Hobro,350000 ,28-10-1996,Alm. Salg,108,3241,3,1890,
-846,Ejerlejlighed,"Viborg Landevej 49, 1. tv",9500, Hobro,350000 ,28-10-1996,Alm. Salg,78,4487,2,1890,
 846,Villa,Skolevænget 19,9550, Mariager,560000 ,28-10-1996,Alm. Salg,174,3218,8,1967,
 846,Villa,Læsøgade 4,9560, Hadsund,475000 ,28-10-1996,Alm. Salg,138,3442,5,1923,
 846,Villa,Gydevej 2,9510, Arden,222542 ,28-10-1996,Alm. Salg,137,1624,4,1899,
@@ -16861,8 +16616,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Skovbovej 11,9500, Hobro,352000 ,27-08-1996,Alm. Salg,149,2362,6,1997,
 846,Villa,Lindalsbakken 13,9560, Hadsund,756923 ,27-08-1996,Fam. Salg,200,3785,4,1968,
 846,Villa,Alsvej 62,9560, Hadsund,376000 ,27-08-1996,Alm. Salg,81,4642,5,1948,
-846,Ejerlejlighed,Vestergade 18B,9510, Arden,625000 ,26-08-1996,Alm. Salg,63,9921,2,1892,
-846,Villa,Vestergade 18,9510, Arden,625000 ,26-08-1996,Alm. Salg,242,1524,9,1892,
 846,Villa,Munchsvej 11,9560, Hadsund,719000 ,26-08-1996,Auktion,145,4959,4,1984,
 846,Villa,Veddum Hovedgade 32,9560, Hadsund,606000 ,26-08-1996,Alm. Salg,176,3311,6,1835,
 846,Villa,Pejtervej 23,9560, Hadsund,290000 ,26-08-1996,Fam. Salg,96,3021,3,1948,
@@ -16905,10 +16658,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Ulstrupvej 2,9500, Hobro,340309 ,07-08-1996,Alm. Salg,190,1791,6,2017,
 846,Villa,Hannerupskovvej 28,9500, Hobro,990000 ,06-08-1996,Alm. Salg,164,6037,6,1931,
 846,Villa,Solsortevej 19,9550, Mariager,369000 ,06-08-1996,Alm. Salg,118,3127,4,1864,
-846,Ejerlejlighed,"Sjællandsgade 6, 1",9560, Hadsund,546286 ,05-08-1996,Alm. Salg,67,8154,2,1918,
 846,Villa,Svinget 6,9500, Hobro,230000 ,05-08-1996,Alm. Salg,116,1983,4,1904,
 846,Villa,Østergade 22,9550, Mariager,700000 ,05-08-1996,Alm. Salg,140,5000,5,1850,
-846,Villa,Sjællandsgade 6,9560, Hadsund,546286 ,05-08-1996,Alm. Salg,97,5632,2,1918,
 846,Villa,Nordholt 11,9560, Hadsund,1012051 ,05-08-1996,Alm. Salg,166,6097,7,1979,
 846,Villa,Tophøjvej 7,9500, Hobro,550000 ,04-08-1996,Alm. Salg,140,3929,5,1900,
 846,Villa,Korupvej 20,9560, Hadsund,1135000 ,04-08-1996,Alm. Salg,154,7370,7,1800,
@@ -17072,17 +16823,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Engbrynet 4,9500, Hobro,219840 ,21-05-1996,Alm. Salg,181,1215,5,1956,
 846,Rækkehus,Ålborgvej 38C,9560, Hadsund,500000 ,20-05-1996,Fam. Salg,90,5556,3,1985,
 846,Rækkehus,Transbjergholt 36,9560, Hadsund,560000 ,20-05-1996,Alm. Salg,95,5895,3,1986,
-846,Ejerlejlighed,Nygade 1A,9560, Hadsund,110000 ,20-05-1996,Alm. Salg,66,1667,2,1901,
-846,Ejerlejlighed,Nygade 1B,9560, Hadsund,110000 ,20-05-1996,Alm. Salg,89,1236,3,1901,
-846,Ejerlejlighed,Nygade 1C,9560, Hadsund,110000 ,20-05-1996,Alm. Salg,52,2115,2,1901,
-846,Ejerlejlighed,"Sadelmagervej 2, 1. 5",9560, Hadsund,110000 ,20-05-1996,Alm. Salg,129,853,4,1920,
-846,Ejerlejlighed,"Sadelmagervej 2, st. 3",9560, Hadsund,110000 ,20-05-1996,Alm. Salg,70,1571,2,1920,
-846,Ejerlejlighed,"Sadelmagervej 2, st. 4",9560, Hadsund,110000 ,20-05-1996,Alm. Salg,83,1325,2,1920,
 846,Villa,Østre Alle 56,9560, Hadsund,912302 ,20-05-1996,Alm. Salg,139,6563,4,1947,
 846,Villa,Hybenholt 19,9560, Hadsund,505000 ,19-05-1996,Alm. Salg,89,5674,4,1986,
-846,Ejerlejlighed,Doktorbakken 5B,9560, Hadsund,241786 ,18-05-1996,Alm. Salg,65,3720,2,1900,
-846,Ejerlejlighed,Doktorbakken 5A,9560, Hadsund,241786 ,18-05-1996,Alm. Salg,68,3556,3,1900,
-846,Ejerlejlighed,Jacob Møllersgade 8B,9560, Hadsund,241786 ,18-05-1996,Alm. Salg,102,2370,4,1900,
 846,Villa,Havnepladsen 9,9560, Hadsund,610000 ,16-05-1996,Alm. Salg,98,6224,4,1972,
 846,Villa,Løgstørvej 29,9500, Hobro,363500 ,16-05-1996,Alm. Salg,72,5049,3,1962,
 846,Villa,Kolonihaven 43,9560, Hadsund,390000 ,15-05-1996,Alm. Salg,109,3578,3,1973,
@@ -17230,13 +16972,11 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Ranunkelvej 1,9500, Hobro,807450 ,07-03-1996,Alm. Salg,160,5047,6,1976,
 846,Villa,Katbjergvej 7,9550, Mariager,845000 ,06-03-1996,Fam. Salg,148,5709,5,1914,
 846,Villa,Sønderholt 35,9560, Hadsund,505000 ,06-03-1996,Alm. Salg,89,5674,4,1986,
-846,Ejerlejlighed,Bramslev Bakker 5,9500, Hobro,1615353 ,05-03-1996,Fam. Salg,190,8502,6,1928,
 846,Villa,Birkevej 3,9550, Mariager,430000 ,05-03-1996,Alm. Salg,130,3308,3,1910,
 846,Villa,Juulsmarken 1,9500, Hobro,46000 ,05-03-1996,Alm. Salg,126,365,5,1996,
 846,Villa,Katbjergvej 1,9550, Mariager,480000 ,05-03-1996,Alm. Salg,192,2500,8,1914,
 846,Villa,Plantagevej 9,9500, Hobro,300000 ,05-03-1996,Alm. Salg,96,3125,2,1970,
 846,Villa,Digtervænget 69,9550, Mariager,145817 ,05-03-1996,Alm. Salg,160,911,4,1997,
-846,Villa,Bramslev Bakker 5,9500, Hobro,1615353 ,05-03-1996,Fam. Salg,224,7211,5,2006,
 846,Villa,Strandvej 20,9560, Hadsund,675590 ,05-03-1996,Alm. Salg,140,4826,5,1932,
 846,Ejerlejlighed,"Jernbanegade 15A, 1. th",9500, Hobro,300000 ,04-03-1996,Alm. Salg,100,3000,3,1936,
 846,Villa,Nygade 6,9510, Arden,195000 ,04-03-1996,Alm. Salg,90,2167,3,1962,
@@ -17372,9 +17112,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Højlundsvej 9,9500, Hobro,602000 ,19-12-1995,Alm. Salg,200,3010,7,1964,
 846,Villa,Læsøgade 10,9560, Hadsund,400000 ,18-12-1995,Alm. Salg,117,3419,2,1934,
 846,Villa,Burholt 9,9560, Hadsund,746414 ,18-12-1995,Alm. Salg,157,4754,4,1980,
-846,Ejerlejlighed,"Storegade 36A, 1. tv",9560, Hadsund,175000 ,17-12-1995,Alm. Salg,44,3977,1,1900,
-846,Ejerlejlighed,"Storegade 36A, 1. th",9560, Hadsund,175000 ,17-12-1995,Alm. Salg,88,1989,2,1900,
-846,Ejerlejlighed,Jacob Møllersgade 2A,9560, Hadsund,175000 ,17-12-1995,Alm. Salg,77,2273,2,1900,
 846,Ejerlejlighed,"Vestergade 3, st. tv",9560, Hadsund,320000 ,17-12-1995,Alm. Salg,78,4103,3,1988,
 846,Villa,Klitten 1,9560, Hadsund,260000 ,17-12-1995,Alm. Salg,63,4127,3,1890,
 846,Villa,Mågevej 6,9500, Hobro,985000 ,17-12-1995,Alm. Salg,148,6655,5,1967,
@@ -17383,9 +17120,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Ejerlejlighed,"Mejerigade 1, st. th",9560, Hadsund,352500 ,14-12-1995,Alm. Salg,76,4638,3,1902,
 846,Ejerlejlighed,"Mejerigade 1, 1. tv",9560, Hadsund,314120 ,14-12-1995,Fam. Salg,101,3110,3,1902,
 846,Villa,Ørnedalsvej 29,9500, Hobro,700000 ,14-12-1995,Fam. Salg,110,6364,4,1986,
-846,Ejerlejlighed,"Storegade 36A, 1. tv",9560, Hadsund,533600 ,13-12-1995,Alm. Salg,44,12127,1,1900,
-846,Ejerlejlighed,"Storegade 36A, 1. th",9560, Hadsund,533600 ,13-12-1995,Alm. Salg,88,6064,2,1900,
-846,Ejerlejlighed,Jacob Møllersgade 2A,9560, Hadsund,533600 ,13-12-1995,Alm. Salg,77,6930,2,1900,
 846,Villa,Klostervænget 10,9550, Mariager,190000 ,13-12-1995,Alm. Salg,147,1293,4,1997,
 846,Villa,Ll Gandrupgårdsvej 5,9510, Arden,126854 ,13-12-1995,Alm. Salg,175,725,6,1898,
 846,Villa,Skovvej 43,9560, Hadsund,820000 ,13-12-1995,Alm. Salg,126,6508,4,1945,
@@ -17538,10 +17272,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Østergade 27,9550, Mariager,370000 ,04-10-1995,Alm. Salg,130,2846,6,1800,
 846,Villa,Østergade 20,9560, Hadsund,300000 ,04-10-1995,Alm. Salg,128,2344,4,1920,
 846,Villa,Hovedgaden 22,9500, Hobro,312000 ,04-10-1995,Alm. Salg,121,2579,4,1948,
-846,Ejerlejlighed,"Brogade 1, 2",9560, Hadsund,900000 ,03-10-1995,Alm. Salg,58,15517,2,1906,
-846,Ejerlejlighed,"Storegade 10, kl",9560, Hadsund,900000 ,03-10-1995,Alm. Salg,70,12857,2,1906,
-846,Ejerlejlighed,"Storegade 10, 1. th",9560, Hadsund,900000 ,03-10-1995,Alm. Salg,86,10465,3,1906,
-846,Ejerlejlighed,"Storegade 10, 2",9560, Hadsund,900000 ,03-10-1995,Alm. Salg,89,10112,3,1906,
 846,Villa,Semvej 14,9550, Mariager,85000 ,03-10-1995,Alm. Salg,78,1090,3,1850,
 846,Ejerlejlighed,Sønder Alle 25,9500, Hobro,525000 ,02-10-1995,Alm. Salg,108,4861,4,1900,
 846,Ejerlejlighed,Fruerlundvej 1C,9560, Hadsund,600000 ,02-10-1995,Alm. Salg,236,2542,5,2007,
@@ -17726,7 +17456,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Rækkehus,Samsøgade 19,9560, Hadsund,520000 ,05-07-1995,Alm. Salg,94,5532,3,1984,
 846,Villa,Miehesgade 61,9510, Arden,196387 ,05-07-1995,Alm. Salg,230,854,6,1900,
 846,Villa,Sønderholt 39,9560, Hadsund,222299 ,05-07-1995,Fam. Salg,96,2316,4,1980,
-846,Villa,Kirkegade 8B,9550, Mariager,785954 ,05-07-1995,Alm. Salg,75,10479,4,1927,
 846,Villa,Ledsagervej 5,9500, Hobro,500000 ,05-07-1995,Fam. Salg,289,1730,8,1972,
 846,Villa,Holmgaardsvej 26,8990, Fårup,505000 ,05-07-1995,Alm. Salg,124,4073,4,1975,
 846,Villa,Skovvej 23,9510, Arden,316400 ,05-07-1995,Alm. Salg,136,2326,3,1940,
@@ -17989,7 +17718,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Kongsvad Møllevej 5,9500, Hobro,400000 ,05-03-1995,Alm. Salg,140,2424,7,1947,
 846,Villa,Mejerivej 13,9510, Arden,400000 ,05-03-1995,Alm. Salg,123,3252,4,1920,
 846,Villa,Højdevej 15,9500, Hobro,357580 ,04-03-1995,Alm. Salg,100,3576,4,1957,
-846,Villa,Hegedalsvej 12B,9500, Hobro,210000 ,02-03-1995,Fam. Salg,45,4667,2,1895,
 846,Villa,Hybenholt 5,9560, Hadsund,768000 ,02-03-1995,Alm. Salg,164,4683,6,1985,
 846,Rækkehus,Tranevej 5B,9560, Hadsund,295000 ,01-03-1995,Alm. Salg,105,2810,4,1982,
 846,Villa,Jasminvej 6,9500, Hobro,130000 ,01-03-1995,Alm. Salg,132,985,5,1995,
@@ -18181,26 +17909,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Tværmarksvej 29,9500, Hobro,185000 ,13-11-1994,Alm. Salg,251,737,5,1959,
 846,Villa,Rinddalen 21,9550, Mariager,749000 ,12-11-1994,Alm. Salg,135,5548,5,1978,
 846,Villa,Torsvej 4,9560, Hadsund,377500 ,11-11-1994,Alm. Salg,114,3311,3,1985,
-846,Ejerlejlighed,"Havnegade 4, st",9550, Mariager,700000 ,10-11-1994,Alm. Salg,116,6034,4,1914,
-846,Ejerlejlighed,"Havnegade 4, 1",9550, Mariager,700000 ,10-11-1994,Alm. Salg,79,8861,3,1914,
-846,Ejerlejlighed,"Fruensgaard Plads 4, 1. 1",9550, Mariager,700000 ,10-11-1994,Alm. Salg,46,15217,2,1908,
-846,Ejerlejlighed,"Fruensgaard Plads 4, 1. 3",9550, Mariager,700000 ,10-11-1994,Alm. Salg,58,12069,2,1908,
-846,Ejerlejlighed,"Fruensgaard Plads 4, 1. 2",9550, Mariager,700000 ,10-11-1994,Alm. Salg,48,14583,2,1908,
 846,Villa,Jyllandsgade 7,9560, Hadsund,170000 ,10-11-1994,Alm. Salg,184,924,5,1912,
 846,Villa,Vestparken 15,9550, Mariager,899000 ,10-11-1994,Alm. Salg,197,4563,5,1972,
-846,Rækkehus,Løgstørvej 21,9500, Hobro,475000 ,09-11-1994,Alm. Salg,50,9500,2,1940,
 846,Rækkehus,Tranevej 5C,9560, Hadsund,285000 ,09-11-1994,Alm. Salg,106,2689,4,1982,
-846,Ejerlejlighed,"Banegaardsvej 10A, 1. tv",9500, Hobro,550000 ,09-11-1994,Alm. Salg,58,9483,2,1900,
-846,Ejerlejlighed,"Banegaardsvej 10B, st",9500, Hobro,550000 ,09-11-1994,Alm. Salg,41,13415,2,1900,
-846,Ejerlejlighed,Banegaardsvej 10C,9500, Hobro,550000 ,09-11-1994,Alm. Salg,71,7746,2,1900,
-846,Ejerlejlighed,"Skibsgade 38, 1. th",9500, Hobro,550000 ,09-11-1994,Alm. Salg,74,7432,2,1877,
-846,Ejerlejlighed,"Skibsgade 38, 2. tv",9500, Hobro,550000 ,09-11-1994,Alm. Salg,86,6395,3,1877,
-846,Ejerlejlighed,"Skibsgade 38, 2. th",9500, Hobro,550000 ,09-11-1994,Alm. Salg,62,8871,2,1877,
-846,Ejerlejlighed,"Skibsgade 38, 1. tv",9500, Hobro,550000 ,09-11-1994,Alm. Salg,88,6250,3,1877,
-846,Ejerlejlighed,"Banegaardsvej 10A, st",9500, Hobro,550000 ,09-11-1994,Alm. Salg,65,8462,2,1900,
-846,Ejerlejlighed,"Banegaardsvej 10A, 1. th",9500, Hobro,550000 ,09-11-1994,Alm. Salg,56,9821,2,1900,
-846,Ejerlejlighed,"Skibsgade 38, st",9500, Hobro,550000 ,09-11-1994,Alm. Salg,133,4135,2,1877,
-846,Villa,"Vestergade 16, st. th",9500, Hobro,875000 ,09-11-1994,Alm. Salg,70,12500,2,1950,
 846,Villa,Skoletoften 12,9500, Hobro,716665 ,08-11-1994,Alm. Salg,140,5119,4,1989,
 846,Villa,Kirkedalsvej 1,9500, Hobro,325000 ,08-11-1994,Fam. Salg,116,2802,4,1919,
 846,Villa,Wilh Jensensvej 21,9500, Hobro,918260 ,07-11-1994,Alm. Salg,194,4733,7,1953,
@@ -18257,8 +17968,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Ejerlejlighed,"Østergade 3, st. tv",9550, Mariager,345000 ,06-10-1994,Alm. Salg,70,4929,4,1850,
 846,Villa,Hybenvej 23,9560, Hadsund,681541 ,06-10-1994,Alm. Salg,160,4260,5,1976,
 846,Villa,Havndalvej 59B,8970, Havndal,2661078 ,05-10-1994,Alm. Salg,268,9929,7,1981,
-846,Ejerlejlighed,"Vestergade 1A, 1. tv",9560, Hadsund,2140000 ,04-10-1994,Alm. Salg,151,14172,3,1932,
-846,Ejerlejlighed,"Vestergade 1A, 2. tv",9560, Hadsund,2140000 ,04-10-1994,Alm. Salg,151,14172,3,1932,
 846,Villa,Norupvej 11,9550, Mariager,375000 ,04-10-1994,Alm. Salg,174,2155,6,1892,
 846,Villa,Oxendalen 3,9550, Mariager,840459 ,03-10-1994,Alm. Salg,229,3670,7,1962,
 846,Villa,Kløvermarken 23,9510, Arden,576000 ,02-10-1994,Alm. Salg,112,5143,4,1986,
@@ -18461,7 +18170,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Bolsbjergvej 5,9550, Mariager,290000 ,20-06-1994,Alm. Salg,264,1098,9,1936,
 846,Villa,Terndrupvej 19,9510, Arden,299000 ,20-06-1994,Alm. Salg,87,3437,3,1944,
 846,Villa,Markedsgade 55,9560, Hadsund,616560 ,20-06-1994,Alm. Salg,125,4932,5,1970,
-846,Villa,Tingvej 9,9500, Hobro,425000 ,20-06-1994,Alm. Salg,27,15741,2,2012,
 846,Rækkehus,Daniavej 83,9550, Mariager,358750 ,19-06-1994,Alm. Salg,69,5199,2,1890,
 846,Ejerlejlighed,"Vestergade 3, st. th",9560, Hadsund,350000 ,19-06-1994,Alm. Salg,76,4605,3,1988,
 846,Villa,Skivevej 70,9500, Hobro,532000 ,19-06-1994,Alm. Salg,152,3500,4,1960,
@@ -18790,12 +18498,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Højskolevej 7,9560, Hadsund,178000 ,26-01-1994,Alm. Salg,88,2023,2,1948,
 846,Villa,Valmuemarken 2,9500, Hobro,380000 ,26-01-1994,Alm. Salg,206,1845,8,1976,
 846,Villa,Carolinevej 7,9500, Hobro,475000 ,25-01-1994,Alm. Salg,120,3958,5,1980,
-846,Rækkehus,Klostergade 6B,9550, Mariager,250000 ,23-01-1994,Alm. Salg,77,3247,1,1923,
 846,Villa,Fjordbakken 39,9560, Hadsund,440000 ,23-01-1994,Alm. Salg,131,3359,5,1976,
-846,Villa,Klostergade 6,9550, Mariager,250000 ,23-01-1994,Alm. Salg,149,1678,7,1923,
 846,Villa,Storegade 4,9500, Hobro,206750 ,21-01-1994,Alm. Salg,143,1446,7,1932,
 846,Villa,Lærkevej 4,9500, Hobro,225000 ,20-01-1994,Alm. Salg,130,1731,5,1933,
-846,Villa,Lilleardenvej 11B,9510, Arden,275000 ,20-01-1994,Alm. Salg,226,1217,8,1900,
 846,Villa,Fjordparken 17,9550, Mariager,1225000 ,19-01-1994,Alm. Salg,215,5698,7,1979,
 846,Villa,Vognmandsgade 8,8970, Havndal,245812 ,19-01-1994,Alm. Salg,174,1413,6,1925,
 846,Villa,Skovvej 15,9510, Arden,400000 ,18-01-1994,Alm. Salg,187,2139,5,1924,
@@ -19007,7 +18712,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Skolebakken 7,8990, Fårup,240000 ,28-09-1993,Andet,90,2667,4,1971,
 846,Villa,Tobberupvej 15,9500, Hobro,850000 ,28-09-1993,Alm. Salg,310,2742,9,1932,
 846,Villa,Lerbakkevej 7,9500, Hobro,617171 ,28-09-1993,Andet,168,3674,5,1976,
-846,Villa,Hostrupvej 65B,9500, Hobro,225000 ,28-09-1993,Alm. Salg,50,4500,2,1900,
 846,Villa,Bakkedraget 15,8990, Fårup,322772 ,28-09-1993,Andet,148,2181,5,1973,
 846,Villa,Hodalsvej 24,9500, Hobro,321118 ,28-09-1993,Andet,100,3211,3,1962,
 846,Villa,Fiskervej 4,9500, Hobro,150000 ,28-09-1993,Alm. Salg,112,1339,3,1925,
@@ -19016,9 +18720,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Hobrovej 161,9560, Hadsund,380000 ,26-09-1993,Alm. Salg,248,1532,6,1955,
 846,Villa,Snæbumvej 41,9500, Hobro,425000 ,25-09-1993,Alm. Salg,133,3195,5,1963,
 846,Villa,Houtvedbakken 8,9500, Hobro,552500 ,25-09-1993,Fam. Salg,102,5417,2,1965,
-846,Ejerlejlighed,Doktorbakken 5B,9560, Hadsund,295628 ,23-09-1993,Alm. Salg,65,4548,2,1900,
-846,Ejerlejlighed,Doktorbakken 5A,9560, Hadsund,295628 ,23-09-1993,Alm. Salg,68,4347,3,1900,
-846,Ejerlejlighed,Jacob Møllersgade 8B,9560, Hadsund,295628 ,23-09-1993,Alm. Salg,102,2898,4,1900,
 846,Villa,Klejtrupvej 61,9500, Hobro,133417 ,23-09-1993,Alm. Salg,150,889,4,1947,
 846,Villa,Møllebakken 15,9500, Hobro,520000 ,23-09-1993,Alm. Salg,162,3210,5,1915,
 846,Villa,Viborg Landevej 27,9500, Hobro,70000 ,23-09-1993,Alm. Salg,164,427,5,1997,
@@ -19285,7 +18986,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Lindalsbakken 20,9560, Hadsund,824400 ,14-04-1993,Fam. Salg,207,3983,8,1973,
 846,Villa,Døstrupvej 83,9500, Hobro,775000 ,13-04-1993,Alm. Salg,155,5000,5,1990,
 846,Villa,Farvervænget 58,9500, Hobro,580000 ,13-04-1993,Alm. Salg,135,4296,4,1979,
-846,Villa,Ouegaardvej 3,9560, Hadsund,1535216 ,08-04-1993,Fam. Salg,131,11719,3,1911,
 846,Villa,Elmevej 23,9500, Hobro,485000 ,07-04-1993,Alm. Salg,110,4409,4,1964,
 846,Villa,Vester Altan 18,9500, Hobro,540000 ,07-04-1993,Alm. Salg,140,3857,5,1945,
 846,Villa,Elmevej 22,9500, Hobro,750000 ,06-04-1993,Alm. Salg,140,4167,8,1973,
@@ -19317,7 +19017,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Viborg Landevej 27,9500, Hobro,601000 ,16-03-1993,Alm. Salg,164,3665,5,1997,
 846,Villa,Vestergade 39,9510, Arden,350000 ,15-03-1993,Alm. Salg,129,2713,5,1971,
 846,Villa,Himmerlandsgade 8,9510, Arden,65000 ,14-03-1993,Alm. Salg,98,663,4,1960,
-846,Villa,Gammelvej 16,9500, Hobro,394000 ,14-03-1993,Auktion,75,5253,3,1907,
 846,Villa,Bækvej 4,9510, Arden,10000 ,14-03-1993,Alm. Salg,64,156,2,2007,
 846,Villa,Fjordparken 14,9550, Mariager,885000 ,13-03-1993,Alm. Salg,159,5566,5,1979,
 846,Villa,Vestergade 18,9550, Mariager,500000 ,11-03-1993,Alm. Salg,120,4167,5,1963,
@@ -19327,7 +19026,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Rækkehus,Blåmejsevej 8A,9550, Mariager,325000 ,08-03-1993,Alm. Salg,62,5242,2,1989,
 846,Villa,Nybrogaardsvej 49,9560, Hadsund,357000 ,07-03-1993,Fam. Salg,90,3967,3,1945,
 846,Villa,Veddum Hovedgade 25,9560, Hadsund,155000 ,07-03-1993,Alm. Salg,130,1192,6,1933,
-846,Villa,Hostrupvej 67B,9500, Hobro,325000 ,07-03-1993,Alm. Salg,53,6132,2,1947,
 846,Villa,Holmgaardsvej 13,8990, Fårup,415000 ,04-03-1993,Alm. Salg,129,3217,4,1977,
 846,Villa,Bluhmesgade 18,9510, Arden,210000 ,04-03-1993,Alm. Salg,120,1750,5,1900,
 846,Villa,Lundgaard Hedevej 19,9500, Hobro,95000 ,03-03-1993,Alm. Salg,94,1011,3,1897,
@@ -19465,7 +19163,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Egevej 6,9550, Mariager,345000 ,10-11-1992,Alm. Salg,142,2430,6,1970,
 846,Villa,Kastaniealle 9,9500, Hobro,420000 ,10-11-1992,Alm. Salg,170,2471,7,1911,
 846,Villa,Vester Altan 44,9500, Hobro,620000 ,10-11-1992,Alm. Salg,200,3100,8,1963,
-846,Villa,Brogade 54,9500, Hobro,215000 ,09-11-1992,Fam. Salg,122,1762,6,1948,
 846,Villa,Egelundsvej 8A,9510, Arden,413513 ,07-11-1992,Alm. Salg,138,2996,3,1981,
 846,Villa,Vester Altan 3,9500, Hobro,385000 ,07-11-1992,Alm. Salg,127,3031,4,1934,
 846,Ejerlejlighed,"Storegade 40, 1",9560, Hadsund,297000 ,05-11-1992,Alm. Salg,125,2376,3,1938,
@@ -19647,7 +19344,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Møllebakken 13,9500, Hobro,275000 ,13-07-1992,Alm. Salg,154,1786,4,1905,
 846,Villa,Gyvelvej 5,9500, Hobro,385000 ,13-07-1992,Alm. Salg,145,2655,5,1969,
 846,Villa,Ane Kathrinesvej 13,9500, Hobro,450000 ,13-07-1992,Alm. Salg,104,4327,3,1963,
-846,Rækkehus,Buddumvej 40A. 1,9560, Hadsund,365000 ,12-07-1992,Alm. Salg,45,8111,2,2008,
 846,Villa,Fiskervej 8,9500, Hobro,440000 ,12-07-1992,Alm. Salg,140,2821,4,1900,
 846,Rækkehus,Bymarks Alle 14,9500, Hobro,380000 ,11-07-1992,Alm. Salg,123,3089,4,1962,
 846,Villa,Skørpingvej 26,9510, Arden,389076 ,08-07-1992,Alm. Salg,132,2948,4,1952,
@@ -19736,7 +19432,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Rinddalen 27,9550, Mariager,690000 ,24-05-1992,Fam. Salg,223,3094,6,1978,
 846,Villa,Fyrkatvej 4,9500, Hobro,555000 ,24-05-1992,Alm. Salg,125,4440,5,1945,
 846,Villa,Blåkildevej 27,9510, Arden,210000 ,24-05-1992,Alm. Salg,213,986,11,1957,
-846,Villa,Fuglsangsgade 14,9550, Mariager,650000 ,24-05-1992,Alm. Salg,72,9028,3,1850,
 846,Villa,Rosendalsvænget 6,9500, Hobro,320000 ,24-05-1992,Alm. Salg,114,2807,6,1942,
 846,Villa,Mosevej 17,9560, Hadsund,140000 ,23-05-1992,Alm. Salg,88,1591,3,1875,
 846,Ejerlejlighed,"Strandvej 26, 1. th",9500, Hobro,306450 ,21-05-1992,Alm. Salg,73,4198,2,1900,
@@ -19783,9 +19478,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Stentoften 5,9550, Mariager,470000 ,29-04-1992,Alm. Salg,157,2994,6,1969,
 846,Villa,Ø Skovhusvejen 1,9510, Arden,330000 ,27-04-1992,Alm. Salg,160,2063,6,1976,
 846,Villa,Brovej 21,9510, Arden,930000 ,27-04-1992,Alm. Salg,245,3796,6,1979,
-846,Ejerlejlighed,Vestergade 18B,9510, Arden,345000 ,26-04-1992,Auktion,63,5476,2,1892,
 846,Villa,Rosenhøj 10,9560, Hadsund,475000 ,26-04-1992,Alm. Salg,106,4481,4,1985,
-846,Villa,Vestergade 18,9510, Arden,345000 ,26-04-1992,Auktion,242,841,9,1892,
 846,Villa,Søndertoften 58,9500, Hobro,570000 ,26-04-1992,Fam. Salg,157,3631,5,1974,
 846,Villa,Møllevænget 14,9510, Arden,316279 ,26-04-1992,Auktion,132,2396,5,1980,
 846,Villa,Kielstrupvej 3,9500, Hobro,786000 ,26-04-1992,Auktion,333,2360,8,1880,
@@ -19796,14 +19489,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Rønnebærvej 3,9500, Hobro,635000 ,25-04-1992,Alm. Salg,163,3896,4,1964,
 846,Villa,Banevænget 6,9500, Hobro,375000 ,25-04-1992,Fam. Salg,111,3378,5,1959,
 846,Villa,Hannerupvej 296,9500, Hobro,503333 ,24-04-1992,Alm. Salg,160,3146,5,1931,
-846,Ejerlejlighed,Østergade 1B,9560, Hadsund,726905 ,23-04-1992,Alm. Salg,71,10238,2,1870,
-846,Ejerlejlighed,Østergade 1C,9560, Hadsund,726905 ,23-04-1992,Alm. Salg,61,11916,2,1870,
-846,Ejerlejlighed,Bramslev Bakker 5,9500, Hobro,1650000 ,23-04-1992,Alm. Salg,190,8684,6,1928,
-846,Ejerlejlighed,"Nørregade 8, 1",9560, Hadsund,726905 ,23-04-1992,Alm. Salg,87,8355,2,1870,
-846,Ejerlejlighed,"Nørregade 8, 2",9560, Hadsund,726905 ,23-04-1992,Alm. Salg,57,12753,2,1870,
 846,Villa,Ørnevej 1,9500, Hobro,541615 ,23-04-1992,Alm. Salg,127,4265,5,1967,
 846,Villa,Transbjergholt 21,9560, Hadsund,600000 ,23-04-1992,Alm. Salg,148,4054,4,1977,
-846,Villa,Bramslev Bakker 5,9500, Hobro,1650000 ,23-04-1992,Alm. Salg,224,7366,5,2006,
 846,Villa,Østergade 4,9510, Arden,346000 ,21-04-1992,Alm. Salg,138,2507,6,1907,
 846,Villa,Randersvej 28,9500, Hobro,445000 ,20-04-1992,Alm. Salg,94,4734,2,1962,
 846,Villa,Farvervænget 63,9500, Hobro,600000 ,20-04-1992,Alm. Salg,139,4317,5,1979,
@@ -19847,8 +19534,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Als Hedevej 15,9560, Hadsund,162918 ,30-03-1992,Alm. Salg,123,1325,5,1877,
 846,Villa,Veddum Hovedgade 70,9560, Hadsund,200000 ,30-03-1992,Alm. Salg,174,1149,5,1902,
 846,Villa,Semvej 17,9550, Mariager,605000 ,30-03-1992,Alm. Salg,263,2300,6,1919,
-846,Ejerlejlighed,Vestergade 18B,9510, Arden,400000 ,29-03-1992,Alm. Salg,63,6349,2,1892,
-846,Villa,Vestergade 18,9510, Arden,400000 ,29-03-1992,Alm. Salg,242,976,9,1892,
 846,Villa,Ajstrupvej 9,9560, Hadsund,300000 ,29-03-1992,Fam. Salg,172,1744,2,1780,
 846,Villa,Kystvejen 9,9560, Hadsund,395000 ,29-03-1992,Alm. Salg,103,3835,5,1959,
 846,Villa,Mejerivej 21,9510, Arden,200132 ,29-03-1992,Fam. Salg,121,1654,4,1940,
@@ -19857,7 +19542,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Bakkegaardsvej 9,9560, Hadsund,166000 ,27-03-1992,Fam. Salg,235,706,7,1870,
 846,Villa,Gyvelvej 6,9560, Hadsund,215000 ,26-03-1992,Alm. Salg,71,3028,2,1938,
 846,Villa,Fiskervej 4,9500, Hobro,155000 ,25-03-1992,Alm. Salg,112,1384,3,1925,
-846,Villa,Adelgade 51B,9500, Hobro,902407 ,24-03-1992,Alm. Salg,67,13469,3,1992,
 846,Villa,Wedelsgade 3,9500, Hobro,315000 ,24-03-1992,Alm. Salg,84,3750,3,1933,
 846,Villa,Himmerlandsgade 54,9560, Hadsund,575000 ,23-03-1992,Alm. Salg,205,2805,5,1970,
 846,Villa,Bækparken 15,9500, Hobro,320000 ,23-03-1992,Alm. Salg,157,2038,7,1977,
@@ -19947,8 +19631,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 846,Villa,Hovangsvej 47,9500, Hobro,350000 ,07-02-1992,Alm. Salg,100,3500,3,1963,
 846,Villa,Østergade 28,9550, Mariager,335000 ,06-02-1992,Alm. Salg,148,2264,6,1800,
 846,Villa,Møldrupvej 43,9510, Arden,140000 ,06-02-1992,Alm. Salg,185,757,6,1900,
-846,Rækkehus,Nørre Hurupvej 38,9560, Hadsund,91000 ,05-02-1992,Fam. Salg,128,711,4,1900,
-846,Ejerlejlighed,Nørre Hurupvej 36,9560, Hadsund,91000 ,05-02-1992,Fam. Salg,90,1011,4,1900,
 846,Villa,Østergade 15,9550, Mariager,185413 ,05-02-1992,Alm. Salg,133,1394,5,1860,
 846,Villa,Bøgedalen 9,9560, Hadsund,375604 ,05-02-1992,Alm. Salg,128,2934,6,1948,
 846,Villa,Tollestrupvej 178,9500, Hobro,365500 ,04-02-1992,Fam. Salg,180,2031,5,1974,

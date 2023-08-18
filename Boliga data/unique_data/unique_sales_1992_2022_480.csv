@@ -421,7 +421,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Havreløkken 42,5450, Otterup,1650000 ,10-02-2022,Alm. Salg,145,11379.0,5,1972,
 480,Villa,Stavangerparken 15,5400, Bogense,2450000 ,10-02-2022,Alm. Salg,194,12629.0,5,1996,
 480,Villa,Bøgegårdsvej 90,5471, Søndersø,605081 ,09-02-2022,Alm. Salg,137,4417.0,5,1977,
-480,Villa,Nørregade 8B,5450, Otterup,1850000 ,09-02-2022,Alm. Salg,102,18137.0,4,1960,
 480,Rækkehus,Gyldensteensvej 27,5400, Bogense,850000 ,07-02-2022,Fam. Salg,104,8173.0,4,1912,
 480,Villa,Bredgade 133,5485, Skamby,2110000 ,07-02-2022,Alm. Salg,263,8023.0,8,1877,-4%
 480,Villa,Bogøvej 27,5450, Otterup,2400000 ,05-02-2022,Alm. Salg,271,8856.0,7,1920,-4%
@@ -546,8 +545,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Togholdt 5,5450, Otterup,800000 ,15-11-2021,Alm. Salg,116,6897.0,3,1952,
 480,Villa,Ahornvænget 3,5471, Søndersø,2850000 ,15-11-2021,Alm. Salg,165,17273.0,6,2008,-2%
 480,Ejerlejlighed,"Østergade 9, 1",5400, Bogense,2450000 ,14-11-2021,Alm. Salg,159,15409.0,6,1936,
-480,Rækkehus,Odensevej 40A,5400, Bogense,1100000 ,11-11-2021,Alm. Salg,80,13750.0,3,1850,-8%
-480,Ejerlejlighed,Odensevej 40B,5400, Bogense,1100000 ,11-11-2021,Alm. Salg,109,10092.0,4,1955,-8%
 480,Villa,Møllemarksvej 2,5400, Bogense,1850000 ,11-11-2021,Alm. Salg,122,15164.0,4,1852,-7%
 480,Ejerlejlighed,"Havnefronten 4, 1",5400, Bogense,1495000 ,10-11-2021,Alm. Salg,90,16611.0,3,2009,
 480,Villa,Havrevænget 15,5471, Søndersø,550000 ,10-11-2021,Fam. Salg,135,4074.0,4,1972,
@@ -576,9 +573,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Klintebjergvej 129,5450, Otterup,1295000 ,01-11-2021,Alm. Salg,120,10792.0,4,1971,
 480,Villa,Holmevej 46,5471, Søndersø,1200000 ,01-11-2021,Alm. Salg,156,7692.0,4,1830,-7%
 480,Villa,Møllegyden 41,5471, Søndersø,200000 ,01-11-2021,Auktion,93,2151.0,3,1916,
-480,Ejerlejlighed,Odensevej 23,5400, Bogense,650000 ,31-10-2021,Andet,80,8125.0,4,1900,
 480,Villa,Hyggevænget 4,5400, Bogense,425000 ,31-10-2021,Andet,112,3795.0,4,1972,
-480,Villa,Odensevej 6,5400, Bogense,650000 ,31-10-2021,Andet,84,7738.0,3,1936,
 480,Villa,Kosterslevvej 61,5471, Søndersø,2800000 ,30-10-2021,Alm. Salg,205,13659.0,7,1856,-7%
 480,Villa,Østrupskovgårdsvej 18,5450, Otterup,5495000 ,28-10-2021,Alm. Salg,360,15264.0,8,1918,
 480,Villa,Bredgade 14,5450, Otterup,1500000 ,28-10-2021,Alm. Salg,153,5682.0,8,1946,-10%
@@ -665,7 +660,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Bundgårdsballe 41,5400, Bogense,315000 ,01-09-2021,Alm. Salg,65,4846.0,2,1827,-9%
 480,Rækkehus,Langebyende 5B,5471, Søndersø,491500 ,31-08-2021,Fam. Salg,90,5461.0,3,2006,
 480,Villa,Nørregade 44,5450, Otterup,1300000 ,31-08-2021,Alm. Salg,168,7738.0,5,1888,
-480,Villa,Stadionvej 13A,5450, Otterup,930000 ,31-08-2021,Alm. Salg,160,5813.0,5,1970,
 480,Villa,Skovmøllevej 25,5474, Veflinge,1835000 ,31-08-2021,Alm. Salg,163,11258.0,5,1877,3%
 480,Villa,Norupvej 52,5450, Otterup,680000 ,29-08-2021,Alm. Salg,141,4823.0,3,1800,
 480,Villa,Møllevej 80,5450, Otterup,300000 ,27-08-2021,Alm. Salg,90,3333.0,4,1864,
@@ -957,7 +951,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Vædevej 5,5462, Morud,975000 ,05-03-2021,Alm. Salg,175,5571.0,6,1880,-11%
 480,Villa,Roerslev Bygade 43,5450, Otterup,340000 ,05-03-2021,Alm. Salg,137,2482.0,5,1800,
 480,Ejerlejlighed,"Vestre Engvej 103, 1. tv",5400, Bogense,1635000 ,04-03-2021,Alm. Salg,110,14864.0,5,2008,
-480,Villa,Østergade 1,5450, Otterup,1300000 ,04-03-2021,Alm. Salg,64,20313.0,2,2010,
 480,Villa,Ingrid Marie Grenen 4,5462, Morud,3275000 ,04-03-2021,Alm. Salg,311,10531.0,7,2009,-6%
 480,Villa,Bodøparken 32,5400, Bogense,2300000 ,03-03-2021,Alm. Salg,153,15033.0,8,2007,
 480,Villa,Axel Brahesvej 59,5471, Søndersø,1300000 ,02-03-2021,Fam. Salg,128,10156.0,4,1905,
@@ -1535,10 +1528,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Bellisvænget 19,5450, Otterup,1720000 ,12-03-2020,Alm. Salg,143,12028.0,5,1976,-4%
 480,Villa,Lindegårdsvej 55,5450, Otterup,1210000 ,12-03-2020,Alm. Salg,204,5931.0,6,1977,-7%
 480,Villa,Skovgyden 18,5450, Otterup,775000 ,11-03-2020,Alm. Salg,108,7176.0,3,1963,-3%
-480,Rækkehus,Sjællandsvej 1A,5400, Bogense,539880 ,09-03-2020,Alm. Salg,42,12854.0,2,1979,
 480,Rækkehus,Sct. Annagade 6,5400, Bogense,1230000 ,09-03-2020,Alm. Salg,122,10082.0,5,1867,-5%
 480,Villa,Bakkevej 8,5450, Otterup,1165000 ,09-03-2020,Alm. Salg,108,10787.0,4,1921,-3%
-480,Villa,Sjællandsvej 1B,5400, Bogense,539880 ,09-03-2020,Alm. Salg,120,4499.0,4,1979,
 480,Villa,Skovgårdsparken 18,5462, Morud,1000000 ,09-03-2020,Alm. Salg,254,3937.0,6,2013,
 480,Villa,Fyrrebakken 3,5462, Morud,1750000 ,08-03-2020,Alm. Salg,120,14583.0,4,1976,
 480,Villa,Odensevej 45,5400, Bogense,1595000 ,01-03-2020,Alm. Salg,177,9011.0,7,1954,
@@ -1548,8 +1539,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Bogensevej 171,5471, Søndersø,775000 ,28-02-2020,Alm. Salg,113,6858.0,4,1941,-3%
 480,Villa,Hasselvej 6,5400, Bogense,1475000 ,28-02-2020,Alm. Salg,179,8240.0,6,1966,-5%
 480,Villa,Mette Maries Vej 5,5450, Otterup,503200 ,28-02-2020,Alm. Salg,225,2236.0,4,2021,
-480,Rækkehus,Bladstrupvej 338A,5450, Otterup,1800000 ,27-02-2020,Alm. Salg,84,21429.0,2,1850,
-480,Villa,Bladstrupvej 338,5450, Otterup,1800000 ,27-02-2020,Alm. Salg,191,9424.0,8,1850,
 480,Rækkehus,Toftekær 64A. 3,5471, Søndersø,425000 ,26-02-2020,Alm. Salg,80,5313.0,3,1988,
 480,Villa,Axel Brahesvej 42,5474, Veflinge,26247929 ,26-02-2020,Fam. Salg,64,410124.0,2,1827,
 480,Villa,Axel Brahesvej 30,5474, Veflinge,475000 ,26-02-2020,Fam. Salg,110,4318.0,3,1944,
@@ -1582,7 +1571,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Krogen 31,5400, Bogense,395000 ,10-02-2020,Auktion,145,2724.0,5,1907,
 480,Villa,Møllerled 4,5400, Bogense,557000 ,06-02-2020,Alm. Salg,128,4352.0,4,1877,
 480,Villa,Sandvad 79,5471, Søndersø,547500 ,06-02-2020,Alm. Salg,200,2738.0,10,1864,-8%
-480,Villa,Søndergade 27A,5450, Otterup,20555000 ,06-02-2020,Alm. Salg,86,239012.0,3,1957,
 480,Villa,Lunde Bygade 135,5450, Otterup,1290000 ,05-02-2020,Alm. Salg,140,9214.0,3,1929,3%
 480,Villa,Bokærsvej 27,5485, Skamby,1120000 ,05-02-2020,Alm. Salg,215,5209.0,6,1973,-6%
 480,Villa,Mette Maries Vej 1,5450, Otterup,470010 ,05-02-2020,Alm. Salg,213,2207.0,5,2021,
@@ -1642,7 +1630,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Rækkehus,Toftekær 65D. 4,5471, Søndersø,770000 ,11-12-2019,Alm. Salg,60,12833.0,2,1988,-4%
 480,Rækkehus,Ahornvej 54,5400, Bogense,621000 ,11-12-2019,Alm. Salg,82,7573.0,3,1979,
 480,Villa,Havreløkken 42,5450, Otterup,1070000 ,11-12-2019,Alm. Salg,145,7379.0,5,1972,-5%
-480,Villa,Ørbækvej 1,5400, Bogense,7050000 ,11-12-2019,Andet,301,23422.0,12,1912,
 480,Villa,Hessum Bygade 31,5450, Otterup,1391000 ,11-12-2019,Alm. Salg,141,9865.0,4,1918,0%
 480,Villa,Havrevænget 4,5471, Søndersø,425000 ,11-12-2019,Alm. Salg,110,3864.0,4,1970,
 480,Villa,Ålesundparken 29,5400, Bogense,1625000 ,11-12-2019,Andet,207,7850.0,6,2019,
@@ -2119,9 +2106,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Bladstrupvej 51,5400, Bogense,545000 ,20-11-2018,Alm. Salg,160,3406.0,6,1902,-3%
 480,Villa,Gl Skolevej 15,5450, Otterup,840000 ,19-11-2018,Alm. Salg,136,6176.0,3,1966,-3%
 480,Villa,Labøllevej 15,5471, Søndersø,20000 ,18-11-2018,Alm. Salg,82,244.0,3,1777,
-480,Ejerlejlighed,"Gyldensteensvej 31, st",5400, Bogense,940000 ,15-11-2018,Alm. Salg,70,13429.0,3,1906,
-480,Ejerlejlighed,"Lindøvej 2A, 1",5400, Bogense,940000 ,15-11-2018,Alm. Salg,70,13429.0,4,1906,
-480,Ejerlejlighed,"Lindøvej 2A, 2",5400, Bogense,940000 ,15-11-2018,Alm. Salg,70,13429.0,3,1906,
 480,Villa,Nymarksgyden 40,5474, Veflinge,690000 ,14-11-2018,Fam. Salg,241,2863.0,7,1936,
 480,Villa,Mosevej 24,5400, Bogense,370000 ,14-11-2018,Alm. Salg,372,995.0,5,1967,
 480,Villa,Pedersmindevej 17,5485, Skamby,500000 ,11-11-2018,Alm. Salg,122,4098.0,5,1962,-22%
@@ -3178,7 +3162,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Klingeskov 3,5450, Otterup,1235000 ,01-08-2016,Alm. Salg,174,7098.0,4,1979,-5%
 480,Villa,Birkemosevej 94,5471, Søndersø,1200000 ,01-08-2016,Alm. Salg,106,11321.0,4,1976,-5%
 480,Villa,Harritslevvej 52,5400, Bogense,385000 ,01-08-2016,Alm. Salg,108,2070.0,6,1927,
-480,Villa,Møllevej 63C,5450, Otterup,1375000 ,01-08-2016,Alm. Salg,57,24123.0,2,1930,
 480,Villa,Elledalen 3,5462, Morud,953000 ,31-07-2016,Alm. Salg,121,7876.0,3,1976,-13%
 480,Ejerlejlighed,Kirkestræde 21,5400, Bogense,1500000 ,29-07-2016,Alm. Salg,117,12821.0,4,1920,-6%
 480,Villa,Pileurten 29,5450, Otterup,1158500 ,28-07-2016,Alm. Salg,192,6034.0,6,2007,
@@ -3433,8 +3416,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Hasmarkmosen 98,5450, Otterup,795000 ,04-01-2016,Alm. Salg,90,8833.0,4,1868,
 480,Villa,Kælebro 53,5400, Bogense,600000 ,04-01-2016,Auktion,147,4082.0,6,1937,
 480,Villa,Skovvænget 1,5450, Otterup,2330000 ,29-12-2015,Alm. Salg,227,10264.0,4,1997,-7%
-480,Rækkehus,Langelinie 36B,5450, Otterup,1250000 ,28-12-2015,Alm. Salg,166,7530.0,3,2016,-16%
-480,Ejerlejlighed,Langelinie 36A,5450, Otterup,1250000 ,28-12-2015,Alm. Salg,170,7353.0,5,1910,-16%
 480,Villa,Smedevej 15,5450, Otterup,1000000 ,26-12-2015,Alm. Salg,158,6329.0,7,1977,-13%
 480,Villa,Uggerslevvej 22,5450, Otterup,400000 ,26-12-2015,Alm. Salg,155,2581.0,4,1953,-33%
 480,Villa,Bystævnet 8,5450, Otterup,380000 ,21-12-2015,Alm. Salg,80,4750.0,3,1962,-15%
@@ -3657,8 +3638,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Egensevej 24,5450, Otterup,275000 ,03-06-2015,Alm. Salg,97,2835.0,3,1952,
 480,Villa,Grønnevej 4,5400, Bogense,750000 ,03-06-2015,Alm. Salg,141,5319.0,6,1932,-6%
 480,Villa,Fresiavænget 14,5450, Otterup,1300000 ,03-06-2015,Alm. Salg,121,10744.0,4,1984,-2%
-480,Ejerlejlighed,"Adelgade 112, 1",5400, Bogense,1400000 ,02-06-2015,Alm. Salg,123,11382.0,5,1912,
-480,Villa,Odensevej 72,5400, Bogense,1400000 ,02-06-2015,Alm. Salg,140,10000.0,5,1936,-7%
 480,Villa,Oslovej 33,5400, Bogense,203146 ,02-06-2015,Alm. Salg,169,1202.0,4,2022,
 480,Villa,Møllerled 66,5400, Bogense,770000 ,01-06-2015,Alm. Salg,187,4118.0,6,1890,-3%
 480,Villa,Ruevej 52,5462, Morud,1295000 ,28-05-2015,Alm. Salg,161,8043.0,5,1963,
@@ -3947,8 +3926,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Rue Hed 44,5462, Morud,700000 ,31-07-2014,Fam. Salg,190,3684.0,8,1928,
 480,Villa,Rugårdsvej 767,5462, Morud,650000 ,31-07-2014,Alm. Salg,110,5909.0,4,1949,-6%
 480,Rækkehus,Bakkevej 2A,5462, Morud,650000 ,30-07-2014,Alm. Salg,70,9286.0,3,1985,
-480,Rækkehus,Odensevej 40A,5400, Bogense,800000 ,30-07-2014,Alm. Salg,80,10000.0,3,1850,
-480,Ejerlejlighed,Odensevej 40B,5400, Bogense,800000 ,30-07-2014,Alm. Salg,109,7339.0,4,1955,
 480,Villa,Sundruse 1,5471, Søndersø,1795000 ,30-07-2014,Alm. Salg,137,13102.0,3,2015,
 480,Villa,Kælebro 11,5400, Bogense,1600000 ,29-07-2014,Alm. Salg,334,4790.0,12,1880,-9%
 480,Villa,Ignekærvænget 2,5450, Otterup,525000 ,29-07-2014,Alm. Salg,98,5357.0,3,1964,-13%
@@ -3989,8 +3966,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Stadionvej 17,5450, Otterup,1190000 ,17-06-2014,Alm. Salg,142,8380.0,4,1970,-15%
 480,Ejerlejlighed,"Rolighedsvej 9E, st. tv",5400, Bogense,1300000 ,16-06-2014,Alm. Salg,123,10569.0,5,1957,
 480,Villa,Hjadstrupvej 57,5450, Otterup,1150000 ,16-06-2014,Alm. Salg,241,4772.0,10,1870,-18%
-480,Rækkehus,Rugårdsvej 759A,5462, Morud,450000 ,12-06-2014,Alm. Salg,79,5696.0,2,1910,
-480,Villa,Rugårdsvej 759,5462, Morud,450000 ,12-06-2014,Alm. Salg,120,3750.0,5,1910,
 480,Rækkehus,Ved Engen 1,5462, Morud,1495000 ,11-06-2014,Alm. Salg,93,16075.0,3,2007,
 480,Rækkehus,Violvej 8,5400, Bogense,637500 ,09-06-2014,Fam. Salg,90,7083.0,4,1968,
 480,Villa,Mejlskovvej 3,5400, Bogense,1035000 ,09-06-2014,Alm. Salg,193,5363.0,5,1932,-13%
@@ -4018,10 +3993,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Bundgårdsballe 37,5400, Bogense,323000 ,11-05-2014,Andet,186,1059.0,5,1900,
 480,Villa,Skovbrovej 16,5400, Bogense,515000 ,07-05-2014,Alm. Salg,84,6131.0,4,1936,-13%
 480,Rækkehus,Glentevænget 19,5400, Bogense,720000 ,06-05-2014,Alm. Salg,85,8471.0,3,1977,-9%
-480,Rækkehus,Sjællandsvej 1A,5400, Bogense,1320229 ,05-05-2014,Alm. Salg,42,31434.0,2,1979,
 480,Villa,Søndersøvej 257,5462, Morud,1695000 ,05-05-2014,Alm. Salg,143,11853.0,5,1953,
 480,Villa,Lunde Bygade 54,5450, Otterup,420000 ,05-05-2014,Auktion,204,2059.0,6,1965,
-480,Villa,Sjællandsvej 1B,5400, Bogense,1320229 ,05-05-2014,Alm. Salg,120,11002.0,4,1979,
 480,Villa,Strøbyvej 5,5450, Otterup,350000 ,05-05-2014,Auktion,166,2108.0,7,1969,
 480,Villa,Bederslev 67,5450, Otterup,899000 ,05-05-2014,Alm. Salg,122,7369.0,4,1914,
 480,Villa,Tromsøparken 18,5400, Bogense,217881 ,01-05-2014,Alm. Salg,167,1305.0,5,2014,
@@ -4060,13 +4033,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Rækkehus,Svelvikparken 13,5400, Bogense,612000 ,18-03-2014,Fam. Salg,86,7116.0,2,1980,
 480,Villa,Bladstrupvej 91,5400, Bogense,210000 ,18-03-2014,Alm. Salg,87,2414.0,2,1949,-29%
 480,Villa,Åløkken 11,5471, Søndersø,995000 ,18-03-2014,Alm. Salg,180,5528.0,5,1976,
-480,Ejerlejlighed,"Mejerivej 1B, 1. 2",5400, Bogense,1900000 ,17-03-2014,Auktion,67,28358.0,3,1992,
-480,Ejerlejlighed,"Mejerivej 1B, 1. 3",5400, Bogense,1900000 ,17-03-2014,Auktion,48,39583.0,2,1992,
-480,Ejerlejlighed,"Mejerivej 1B, 1. 5",5400, Bogense,1900000 ,17-03-2014,Auktion,48,39583.0,2,1992,
-480,Ejerlejlighed,"Mejerivej 1B, 1. 6",5400, Bogense,1900000 ,17-03-2014,Auktion,74,25676.0,3,1992,
-480,Ejerlejlighed,"Mejerivej 1B, 1. 4",5400, Bogense,1900000 ,17-03-2014,Auktion,48,39583.0,2,1992,
-480,Ejerlejlighed,"Mejerivej 1B, 1. 1",5400, Bogense,1900000 ,17-03-2014,Auktion,67,28358.0,3,1992,
-480,Ejerlejlighed,"Adelgade 109A, st",5400, Bogense,1900000 ,17-03-2014,Auktion,83,22892.0,2,1992,
 480,Villa,Ørnehøj 36,5450, Otterup,1795000 ,16-03-2014,Alm. Salg,134,13396.0,5,2000,
 480,Villa,Daugstrupvej 20,5450, Otterup,355000 ,15-03-2014,Alm. Salg,157,2261.0,5,2015,
 480,Villa,Bøgegårdsvej 75,5471, Søndersø,850000 ,13-03-2014,Fam. Salg,111,7658.0,4,1979,
@@ -4099,13 +4065,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Krogsbøllevej 11,5450, Otterup,300000 ,13-02-2014,Alm. Salg,134,2239.0,5,1875,-54%
 480,Villa,Åløkken 14,5471, Søndersø,440000 ,13-02-2014,Alm. Salg,98,4490.0,4,1977,-5%
 480,Rækkehus,Hedemarken 78,5450, Otterup,800000 ,12-02-2014,Alm. Salg,73,10959.0,3,1987,-11%
-480,Ejerlejlighed,Bogensevej 45B,5450, Otterup,1200000 ,12-02-2014,Alm. Salg,85,14118.0,2,1775,
-480,Ejerlejlighed,Kirkevej 1A,5450, Otterup,1200000 ,12-02-2014,Alm. Salg,100,12000.0,4,1775,
-480,Ejerlejlighed,Kirkevej 1B,5450, Otterup,1200000 ,12-02-2014,Alm. Salg,85,14118.0,3,1775,
 480,Villa,Klintebjergvej 213,5450, Otterup,1650000 ,12-02-2014,Alm. Salg,292,5651.0,4,1900,-17%
 480,Villa,Stenløkkeparken 69,5450, Otterup,405000 ,12-02-2014,Alm. Salg,203,1995.0,7,2014,
 480,Villa,Skovgårdsparken 16,5462, Morud,415000 ,12-02-2014,Alm. Salg,199,2085.0,6,2015,-13%
-480,Villa,Kirkevej 1C,5450, Otterup,1200000 ,12-02-2014,Alm. Salg,150,8000.0,4,1904,
 480,Ejerlejlighed,"Østre Havnevej 12, 1",5400, Bogense,4475000 ,11-02-2014,Alm. Salg,409,10941.0,6,1930,
 480,Villa,Stenløkkeparken 66,5450, Otterup,362932 ,11-02-2014,Alm. Salg,150,2420.0,6,2014,
 480,Villa,Stenløkkeparken 73,5450, Otterup,351047 ,11-02-2014,Alm. Salg,165,2128.0,6,2014,
@@ -4151,8 +4113,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Tokkerodparken 32,5462, Morud,930000 ,10-12-2013,Fam. Salg,142,6549.0,4,2000,
 480,Villa,Krokusvænget 9,5450, Otterup,1140000 ,09-12-2013,Alm. Salg,100,11400.0,4,1987,
 480,Villa,Møllertoften 6,5471, Søndersø,1200000 ,09-12-2013,Fam. Salg,142,8451.0,5,1973,
-480,Rækkehus,"Adelgade 114, 1",5400, Bogense,2900000 ,08-12-2013,Alm. Salg,147,19728.0,8,1912,
-480,Ejerlejlighed,Adelgade 116,5400, Bogense,2900000 ,08-12-2013,Alm. Salg,106,27358.0,4,1903,
 480,Villa,Klingeskov 39,5450, Otterup,875000 ,08-12-2013,Alm. Salg,103,8495.0,4,1965,-24%
 480,Villa,Vestervang 4,5485, Skamby,1555000 ,08-12-2013,Alm. Salg,187,8316.0,5,2006,-3%
 480,Villa,Rostrupvej 8,5485, Skamby,1170000 ,08-12-2013,Alm. Salg,94,12447.0,7,1959,
@@ -4260,7 +4220,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Hasmark Gade 40,5450, Otterup,30000 ,13-08-2013,Alm. Salg,181,166.0,5,1777,
 480,Villa,Bogensevej 36,5471, Søndersø,600000 ,12-08-2013,Alm. Salg,134,4478.0,4,1937,-7%
 480,Villa,Bolmerodvej 27,5485, Skamby,131001 ,12-08-2013,Auktion,125,1048.0,4,1877,
-480,Rækkehus,Abildvej 4,5400, Bogense,980000 ,09-08-2013,Fam. Salg,60,16333.0,2,1954,
 480,Villa,Hyldehaven 13,5450, Otterup,1455000 ,08-08-2013,Alm. Salg,138,10543.0,6,1981,-6%
 480,Villa,Abildrovej 28,5400, Bogense,200000 ,06-08-2013,Alm. Salg,75,2667.0,3,1827,-29%
 480,Villa,Langelinie 19,5450, Otterup,850000 ,05-08-2013,Alm. Salg,95,8947.0,4,1961,-5%
@@ -4297,9 +4256,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Lille Jullerupvej 80,5471, Søndersø,12500 ,29-06-2013,Alm. Salg,194,64.0,5,2005,
 480,Villa,Nørregade 66,5450, Otterup,895000 ,26-06-2013,Alm. Salg,123,7276.0,5,1968,
 480,Villa,Vibevej 17,5450, Otterup,1300000 ,26-06-2013,Alm. Salg,147,8844.0,5,1966,-7%
-480,Ejerlejlighed,"Langebyende 8, 1",5471, Søndersø,280000 ,25-06-2013,Alm. Salg,150,1867.0,3,1927,-14%
 480,Villa,Hasmark Gade 40,5450, Otterup,86000 ,25-06-2013,Alm. Salg,181,475.0,5,1777,
-480,Villa,"Langebyende 8, st",5471, Søndersø,280000 ,25-06-2013,Alm. Salg,230,1217.0,6,1927,-14%
 480,Villa,Dyrehaven 8,5400, Bogense,1285000 ,22-06-2013,Alm. Salg,118,10890.0,4,1979,
 480,Villa,Sømarksvej 198,5471, Søndersø,1270000 ,20-06-2013,Fam. Salg,118,10763.0,4,1973,
 480,Rækkehus,Horseløkken 5A,5450, Otterup,1515000 ,19-06-2013,Alm. Salg,108,14028.0,4,2010,
@@ -4521,7 +4478,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Kosterslevhuse 1,5471, Søndersø,165000 ,19-09-2012,Alm. Salg,96,1719.0,5,1900,-15%
 480,Villa,Savværksvænget 10,5474, Veflinge,150001 ,19-09-2012,Alm. Salg,137,1095.0,4,2013,
 480,Villa,Rasmus Nielsensvej 33,5471, Søndersø,1300000 ,17-09-2012,Alm. Salg,143,9091.0,5,1972,-3%
-480,Villa,Kosterslevvej 92,5471, Søndersø,750000 ,16-09-2012,Alm. Salg,101,7426.0,3,1986,
 480,Rækkehus,Ved Engen 18,5462, Morud,674967 ,15-09-2012,Fam. Salg,140,4821.0,5,2007,
 480,Villa,Vestergade 31,5471, Søndersø,625000 ,13-09-2012,Alm. Salg,130,4808.0,4,1933,-16%
 480,Villa,Nørregade 51,5450, Otterup,780000 ,12-09-2012,Alm. Salg,110,7091.0,4,1965,-7%
@@ -4948,12 +4904,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Glentevænget 12,5400, Bogense,1300000 ,29-03-2011,Alm. Salg,175,7429.0,7,1976,
 480,Villa,Slagstrupvej 15,5471, Søndersø,1175000 ,29-03-2011,Alm. Salg,144,8160.0,4,1957,-9%
 480,Villa,Møllemarksvej 39,5400, Bogense,1900000 ,27-03-2011,Alm. Salg,193,9845.0,3,2021,-13%
-480,Ejerlejlighed,"Østergade 22, 1",5400, Bogense,1350000 ,24-03-2011,Alm. Salg,140,9643.0,3,1900,
-480,Ejerlejlighed,"Østergade 22, st",5400, Bogense,1350000 ,24-03-2011,Alm. Salg,75,18000.0,2,1900,
-480,Ejerlejlighed,"Østergade 22, 2",5400, Bogense,1350000 ,24-03-2011,Alm. Salg,101,13366.0,4,1900,
-480,Ejerlejlighed,Skovvej 6B,5400, Bogense,1350000 ,24-03-2011,Alm. Salg,64,21094.0,2,1900,
-480,Ejerlejlighed,Skovvej 6D,5400, Bogense,1350000 ,24-03-2011,Alm. Salg,86,15698.0,3,1900,
-480,Ejerlejlighed,Skovvej 6E,5400, Bogense,1350000 ,24-03-2011,Alm. Salg,53,25472.0,2,1900,
 480,Villa,Plantagevej 38,5450, Otterup,1085000 ,24-03-2011,Alm. Salg,114,9518.0,4,1971,-5%
 480,Villa,Bystævnet 45,5474, Veflinge,1145000 ,23-03-2011,Alm. Salg,163,7025.0,5,1927,-4%
 480,Villa,Lillegaden 4,5474, Veflinge,1020000 ,22-03-2011,Alm. Salg,149,6846.0,5,1926,-7%
@@ -4965,11 +4915,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Hestehaven 18,5474, Veflinge,1350000 ,16-03-2011,Alm. Salg,138,9783.0,4,1986,-3%
 480,Villa,Elmevej 5,5400, Bogense,1400000 ,16-03-2011,Alm. Salg,140,10000.0,5,1969,-6%
 480,Villa,Dallundvej 4,5471, Søndersø,492103 ,14-03-2011,Andet,114,4317.0,5,1892,
-480,Villa,Skovmøllevej 29,5474, Veflinge,5032029 ,13-03-2011,Alm. Salg,108,46593.0,4,1827,
-480,Ejerlejlighed,Bogensevej 45B,5450, Otterup,875000 ,08-03-2011,Alm. Salg,85,10294.0,2,1775,-27%
-480,Ejerlejlighed,Kirkevej 1A,5450, Otterup,875000 ,08-03-2011,Alm. Salg,100,8750.0,4,1775,-27%
-480,Ejerlejlighed,Kirkevej 1B,5450, Otterup,875000 ,08-03-2011,Alm. Salg,85,10294.0,3,1775,-27%
-480,Villa,Kirkevej 1C,5450, Otterup,875000 ,08-03-2011,Alm. Salg,150,5833.0,4,1904,-27%
 480,Ejerlejlighed,"Østre Havnevej 12, 1",5400, Bogense,8000000 ,07-03-2011,Alm. Salg,409,19560.0,6,1930,0%
 480,Villa,Nørregade 89,5450, Otterup,1408126 ,07-03-2011,Alm. Salg,185,7611.0,5,1963,
 480,Villa,Mejerivej 18,5471, Søndersø,790000 ,07-03-2011,Alm. Salg,86,9186.0,3,1963,-12%
@@ -5019,12 +4964,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Rosenholmgrenen 13,5462, Morud,626762 ,09-01-2011,Alm. Salg,175,3581.0,5,2011,
 480,Villa,Smidstrupvej 25,5400, Bogense,700000 ,08-01-2011,Fam. Salg,225,3111.0,8,1700,
 480,Villa,Flytterupgyden 33,5471, Søndersø,660000 ,05-01-2011,Auktion,180,3667.0,3,1827,-53%
-480,Ejerlejlighed,"Østergade 22, 1",5400, Bogense,2700000 ,03-01-2011,Auktion,140,19286.0,3,1900,
-480,Ejerlejlighed,"Østergade 22, st",5400, Bogense,2700000 ,03-01-2011,Auktion,75,36000.0,2,1900,
-480,Ejerlejlighed,"Østergade 22, 2",5400, Bogense,2700000 ,03-01-2011,Auktion,101,26733.0,4,1900,
-480,Ejerlejlighed,Skovvej 6B,5400, Bogense,2700000 ,03-01-2011,Auktion,64,42188.0,2,1900,
-480,Ejerlejlighed,Skovvej 6D,5400, Bogense,2700000 ,03-01-2011,Auktion,86,31395.0,3,1900,
-480,Ejerlejlighed,Skovvej 6E,5400, Bogense,2700000 ,03-01-2011,Auktion,53,50943.0,2,1900,
 480,Villa,Bogensevej 27,5471, Søndersø,1055000 ,03-01-2011,Auktion,205,5146.0,7,1934,-24%
 480,Villa,Elledalen 17,5462, Morud,1850000 ,02-01-2011,Alm. Salg,142,13028.0,5,1976,-7%
 480,Villa,Rugårdsvej 690,5462, Morud,2675000 ,29-12-2010,Fam. Salg,114,23465.0,2,1976,
@@ -5064,7 +5003,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Ejlbyvej 36,5471, Søndersø,770000 ,16-11-2010,Alm. Salg,123,6260.0,5,1915,-9%
 480,Villa,Askebyvej 8,5471, Søndersø,690000 ,14-11-2010,Alm. Salg,140,4929.0,4,1908,-7%
 480,Villa,Østergade 21,5471, Søndersø,420000 ,11-11-2010,Alm. Salg,137,3066.0,6,1917,-7%
-480,Ejerlejlighed,"Enggade 32, 1. th",5400, Bogense,2555555 ,08-11-2010,Alm. Salg,54,47325.0,2,1917,
 480,Villa,"Vestergade 9, 1",5471, Søndersø,687500 ,08-11-2010,Alm. Salg,116,5927.0,4,1907,
 480,Villa,Ruevej 36,5462, Morud,1020000 ,06-11-2010,Alm. Salg,230,4435.0,4,1956,
 480,Villa,Rasmus Nielsensvej 50,5471, Søndersø,950000 ,05-11-2010,Alm. Salg,127,7480.0,4,1972,-5%
@@ -5356,10 +5294,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Ahornvænget 17,5471, Søndersø,1500000 ,07-02-2010,Andet,227,6608.0,6,2009,
 480,Villa,Holmevej 19,5471, Søndersø,750000 ,04-02-2010,Alm. Salg,142,5282.0,6,1962,-11%
 480,Villa,Birkemosevej 43,5471, Søndersø,1035000 ,03-02-2010,Alm. Salg,106,9764.0,4,1976,-5%
-480,Ejerlejlighed,Bogensevej 45B,5450, Otterup,2200000 ,01-02-2010,Alm. Salg,85,25882.0,2,1775,
-480,Ejerlejlighed,Kirkevej 1A,5450, Otterup,2200000 ,01-02-2010,Alm. Salg,100,22000.0,4,1775,
-480,Ejerlejlighed,Kirkevej 1B,5450, Otterup,2200000 ,01-02-2010,Alm. Salg,85,25882.0,3,1775,
-480,Villa,Kirkevej 1C,5450, Otterup,2200000 ,01-02-2010,Alm. Salg,150,14667.0,4,1904,
 480,Villa,Emmelevgyden 8,5450, Otterup,779000 ,31-01-2010,Fam. Salg,187,4166.0,7,1863,
 480,Villa,Smedevej 3,5450, Otterup,800000 ,28-01-2010,Alm. Salg,100,8000.0,5,1974,
 480,Villa,Møllekæret 9,5450, Otterup,1025000 ,26-01-2010,Alm. Salg,114,8991.0,5,1979,-6%
@@ -5445,7 +5379,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Rækkehus,Toftekær 65C. 3,5471, Søndersø,410000 ,31-10-2009,Alm. Salg,39,10513.0,2,1988,-7%
 480,Villa,Fresiavænget 20,5450, Otterup,992500 ,31-10-2009,Andet,143,6941.0,5,1986,-38%
 480,Villa,Elledalen 21,5462, Morud,1450000 ,29-10-2009,Alm. Salg,153,9477.0,7,1976,-6%
-480,Villa,Skovmøllevej 29,5474, Veflinge,4150000 ,28-10-2009,Auktion,108,38426.0,4,1827,
 480,Villa,Bogensevej 136,5471, Søndersø,800000 ,27-10-2009,Alm. Salg,104,7692.0,4,1954,
 480,Villa,Strandvejen 20,5450, Otterup,1050000 ,26-10-2009,Alm. Salg,90,11667.0,4,1955,-8%
 480,Villa,Drosselvej 1,5471, Søndersø,1300000 ,25-10-2009,Alm. Salg,195,6667.0,6,1967,-7%
@@ -5687,7 +5620,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Emmelevvej 40,5450, Otterup,1295000 ,08-02-2009,Alm. Salg,161,8043.0,7,1969,
 480,Villa,Birkevej 3,5462, Morud,1095300 ,04-02-2009,Alm. Salg,216,5071.0,5,2005,
 480,Villa,Egeløkkevej 34,5450, Otterup,2000000 ,03-02-2009,Fam. Salg,168,11905.0,5,2008,
-480,Villa,Adelgade 22C,5400, Bogense,1625000 ,02-02-2009,Alm. Salg,63,25794.0,2,1990,
 480,Villa,Møllekæret 7,5450, Otterup,1150000 ,28-01-2009,Alm. Salg,114,10088.0,4,1978,
 480,Villa,Søndervang 6,5485, Skamby,200531 ,28-01-2009,Alm. Salg,195,1028.0,4,2010,
 480,Villa,Labøllevej 21,5471, Søndersø,2200000 ,27-01-2009,Alm. Salg,142,15493.0,3,1850,-15%
@@ -5728,7 +5660,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Dalene 17,5450, Otterup,595000 ,07-12-2008,Alm. Salg,120,4958.0,6,1777,-8%
 480,Villa,Rasmus Nielsensvej 56,5471, Søndersø,1200000 ,04-12-2008,Alm. Salg,150,8000.0,5,1986,-20%
 480,Villa,Birkevej 4,5462, Morud,1650000 ,03-12-2008,Alm. Salg,140,11786.0,5,1946,-8%
-480,Villa,Rugårdsvej 738A,5462, Morud,700000 ,03-12-2008,Alm. Salg,102,6863.0,4,1910,
 480,Ejerlejlighed,"Adelgade 71A, 2. th",5400, Bogense,500000 ,02-12-2008,Alm. Salg,74,6757.0,2,1850,
 480,Villa,Mejerivej 3,5400, Bogense,423000 ,30-11-2008,Fam. Salg,98,4316.0,4,1902,
 480,Villa,Assensvej 39,5400, Bogense,1217482 ,30-11-2008,Fam. Salg,134,9086.0,4,2002,
@@ -5766,9 +5697,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Sømarksvej 10,5471, Søndersø,1175000 ,19-10-2008,Alm. Salg,113,10398.0,3,1971,
 480,Villa,Stationsvej 21,5450, Otterup,619460 ,19-10-2008,Alm. Salg,205,3022.0,7,1918,
 480,Ejerlejlighed,"Jernbanegade 45, 1",5450, Otterup,975000 ,18-10-2008,Alm. Salg,97,10052.0,3,1934,-2%
-480,Rækkehus,Bredgade 4A,5450, Otterup,2000000 ,17-10-2008,Alm. Salg,48,41667.0,2,1905,
 480,Villa,Mejlskovvej 10,5400, Bogense,2000000 ,17-10-2008,Alm. Salg,178,11236.0,9,1913,-16%
-480,Villa,Bredgade 4B,5450, Otterup,2000000 ,17-10-2008,Alm. Salg,34,58824.0,2,1905,
 480,Ejerlejlighed,"Adelgade 75, 1",5400, Bogense,2000000 ,16-10-2008,Alm. Salg,134,14925.0,4,1800,
 480,Villa,Krogsbøllevej 25,5450, Otterup,925000 ,16-10-2008,Alm. Salg,164,5640.0,6,1930,-7%
 480,Ejerlejlighed,Ruevej 67,5462, Morud,7900000 ,15-10-2008,Alm. Salg,60,131667.0,2,1888,
@@ -6026,7 +5955,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Norupvej 52,5450, Otterup,365000 ,31-03-2008,Fam. Salg,141,2589.0,3,1800,
 480,Villa,Vellingevej 18,5450, Otterup,400000 ,30-03-2008,Alm. Salg,108,3704.0,4,1850,-19%
 480,Villa,Plantagevej 45,5450, Otterup,1000000 ,30-03-2008,Fam. Salg,115,8696.0,3,1971,
-480,Rækkehus,Nørregade 15D,5450, Otterup,1075000 ,29-03-2008,Alm. Salg,51,21078.0,2,1900,
 480,Villa,Frederiksberg 18,5474, Veflinge,820000 ,27-03-2008,Alm. Salg,105,7810.0,3,1963,-3%
 480,Villa,Lammesøvej 16,5450, Otterup,129960 ,26-03-2008,Alm. Salg,415,313.0,5,2011,
 480,Villa,Bogensevej 36,5450, Otterup,1267000 ,26-03-2008,Fam. Salg,264,4799.0,10,1954,
@@ -6078,9 +6006,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Æblehaven 16,5462, Morud,473874 ,22-02-2008,Alm. Salg,202,2346.0,7,2010,
 480,Villa,Slagstrupvænget 12,5471, Søndersø,498566 ,21-02-2008,Alm. Salg,159,3136.0,6,2009,
 480,Villa,Roerslevvej 14,5450, Otterup,920000 ,21-02-2008,Alm. Salg,185,4973.0,8,1913,
-480,Rækkehus,Sjællandsvej 1A,5400, Bogense,2000000 ,20-02-2008,Alm. Salg,42,47619.0,2,1979,-13%
 480,Villa,Frederiksberg 48,5474, Veflinge,1040000 ,20-02-2008,Fam. Salg,197,5279.0,5,1912,
-480,Villa,Sjællandsvej 1B,5400, Bogense,2000000 ,20-02-2008,Alm. Salg,120,16667.0,4,1979,-13%
 480,Villa,Roerslev Bygade 43,5450, Otterup,750000 ,20-02-2008,Alm. Salg,137,5474.0,5,1800,
 480,Villa,Skovbrynet 51,5462, Morud,623559 ,19-02-2008,Fam. Salg,173,3604.0,6,1997,
 480,Villa,Kvindevadet 16,5450, Otterup,1065000 ,19-02-2008,Alm. Salg,101,10545.0,4,1965,
@@ -6162,10 +6088,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Plantagevej 91,5462, Morud,2500000 ,13-12-2007,Alm. Salg,172,14535.0,5,1998,
 480,Villa,Plantagevej 47,5450, Otterup,1000000 ,13-12-2007,Fam. Salg,144,6944.0,5,1971,
 480,Rækkehus,Horsebækvænget 24,5450, Otterup,230000 ,12-12-2007,Alm. Salg,29,7931.0,1,1971,
-480,Ejerlejlighed,Bogensevej 45B,5450, Otterup,825000 ,12-12-2007,Alm. Salg,85,9706.0,2,1775,
-480,Ejerlejlighed,Kirkevej 1A,5450, Otterup,825000 ,12-12-2007,Alm. Salg,100,8250.0,4,1775,
-480,Ejerlejlighed,Kirkevej 1B,5450, Otterup,825000 ,12-12-2007,Alm. Salg,85,9706.0,3,1775,
-480,Villa,Kirkevej 1C,5450, Otterup,825000 ,12-12-2007,Alm. Salg,150,5500.0,4,1904,
 480,Villa,Kongshøjgårdsvej 6,5450, Otterup,1575000 ,10-12-2007,Alm. Salg,132,11932.0,4,1906,
 480,Villa,Skolegade 21,5450, Otterup,1600000 ,10-12-2007,Alm. Salg,169,9467.0,6,1968,
 480,Ejerlejlighed,"Birkevej 2, 1",5462, Morud,1385000 ,09-12-2007,Alm. Salg,46,30109.0,2,1949,
@@ -6273,7 +6195,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Kirkevej 19,5450, Otterup,375000 ,08-10-2007,Alm. Salg,45,8333.0,2,1956,
 480,Villa,Dallundvej 5,5471, Søndersø,985000 ,08-10-2007,Alm. Salg,140,7036.0,4,1827,
 480,Villa,Askevænget 18,5471, Søndersø,176099 ,08-10-2007,Alm. Salg,179,984.0,5,2011,
-480,Villa,Uggerslev Mose 11A,5450, Otterup,675000 ,08-10-2007,Alm. Salg,98,6888.0,4,1910,
 480,Rækkehus,Toftekær 55A,5471, Søndersø,900000 ,07-10-2007,Alm. Salg,80,11250.0,3,1989,-3%
 480,Villa,Egense Bygade 16,5450, Otterup,850000 ,07-10-2007,Alm. Salg,180,4722.0,6,1913,-5%
 480,Villa,Egensevej 12,5450, Otterup,1235000 ,07-10-2007,Alm. Salg,198,6237.0,4,1923,
@@ -6287,7 +6208,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Tromsøparken 16,5400, Bogense,251592 ,03-10-2007,Alm. Salg,164,1534.0,6,2009,
 480,Villa,Klingeskov 7,5450, Otterup,800000 ,02-10-2007,Alm. Salg,73,10959.0,3,1972,3%
 480,Ejerlejlighed,"Jernbanegade 23, 1",5450, Otterup,1000000 ,01-10-2007,Alm. Salg,100,10000.0,2,1907,
-480,Villa,Ørbækvej 1,5400, Bogense,2400000 ,01-10-2007,Alm. Salg,301,7973.0,12,1912,
 480,Villa,Bodøparken 9,5400, Bogense,1700000 ,01-10-2007,Alm. Salg,156,10897.0,6,1995,
 480,Villa,Kirsebærlunden 16,5471, Søndersø,1450000 ,01-10-2007,Alm. Salg,143,10140.0,7,1972,-3%
 480,Villa,Roerslevvej 23,5450, Otterup,350000 ,01-10-2007,Alm. Salg,92,3804.0,4,1935,
@@ -6299,14 +6219,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Kornvænget 4,5471, Søndersø,793790 ,30-09-2007,Fam. Salg,226,3512.0,7,1971,
 480,Villa,Rosenvænget 5,5400, Bogense,543733 ,29-09-2007,Fam. Salg,120,4531.0,4,1973,
 480,Villa,Savværksvej 3,5400, Bogense,1150000 ,28-09-2007,Alm. Salg,164,7012.0,4,1948,-8%
-480,Ejerlejlighed,Rådhusstræde 1A,5400, Bogense,4983200 ,27-09-2007,Andet,29,171834.0,1,1937,
-480,Ejerlejlighed,Rådhusstræde 1B,5400, Bogense,4983200 ,27-09-2007,Andet,45,110738.0,2,1937,
-480,Ejerlejlighed,Rådhusstræde 3A,5400, Bogense,4983200 ,27-09-2007,Andet,68,73282.0,2,2005,
-480,Ejerlejlighed,Rådhusstræde 3B,5400, Bogense,4983200 ,27-09-2007,Andet,68,73282.0,2,2005,
-480,Ejerlejlighed,"Adelgade 65A, 1. th",5400, Bogense,4983200 ,27-09-2007,Andet,169,29486.0,6,1907,
-480,Ejerlejlighed,"Adelgade 65A, st",5400, Bogense,4983200 ,27-09-2007,Andet,66,75503.0,2,1907,
-480,Ejerlejlighed,"Adelgade 65A, 1. tv",5400, Bogense,4983200 ,27-09-2007,Andet,50,99664.0,2,1907,
-480,Ejerlejlighed,"Adelgade 65B, st",5400, Bogense,4983200 ,27-09-2007,Andet,60,83053.0,2,1907,
 480,Villa,Morbærhaven 42,5450, Otterup,1945000 ,27-09-2007,Alm. Salg,136,14301.0,4,1998,
 480,Villa,Østerballevej 57,5450, Otterup,1596000 ,27-09-2007,Alm. Salg,175,9120.0,7,1860,7%
 480,Villa,Bøgegårdsvej 93,5471, Søndersø,1654160 ,26-09-2007,Alm. Salg,201,8230.0,5,1979,-39%
@@ -6476,7 +6388,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Fuglsangsvej 70,5450, Otterup,479000 ,09-07-2007,Alm. Salg,77,6221.0,5,1880,
 480,Villa,Odensevej 57,5471, Søndersø,1000000 ,09-07-2007,Alm. Salg,137,7299.0,5,1939,
 480,Rækkehus,Frederiksberg 23,5474, Veflinge,930000 ,08-07-2007,Alm. Salg,146,6370.0,5,1949,-7%
-480,Villa,Skovmøllevej 29,5474, Veflinge,3000000 ,08-07-2007,Fam. Salg,108,27778.0,4,1827,
 480,Villa,Møllestranden 33,5450, Otterup,1610000 ,08-07-2007,Alm. Salg,188,8564.0,7,1855,17%
 480,Villa,Havreløkken 50,5450, Otterup,1756500 ,07-07-2007,Alm. Salg,228,7704.0,6,1974,
 480,Villa,Gerskov Bygade 16,5450, Otterup,825000 ,05-07-2007,Alm. Salg,112,7366.0,4,1963,
@@ -6520,9 +6431,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Bøgevej 5,5450, Otterup,1295000 ,24-06-2007,Alm. Salg,107,12103.0,4,1967,
 480,Villa,Kirkevænget 3,5471, Søndersø,1763000 ,23-06-2007,Alm. Salg,267,6603.0,7,1917,
 480,Rækkehus,Violvej 14,5400, Bogense,1220000 ,21-06-2007,Alm. Salg,90,13556.0,4,1968,
-480,Ejerlejlighed,"Langebyende 8, 1",5471, Søndersø,900000 ,21-06-2007,Alm. Salg,150,6000.0,3,1927,
 480,Villa,Nordmarksvej 57,5471, Søndersø,1450000 ,21-06-2007,Alm. Salg,141,10284.0,4,1914,
-480,Villa,"Langebyende 8, st",5471, Søndersø,900000 ,21-06-2007,Alm. Salg,230,3913.0,6,1927,
 480,Villa,Rødegyde 2,5400, Bogense,1800000 ,20-06-2007,Alm. Salg,278,6475.0,7,1877,
 480,Villa,Bredgade 30,5485, Skamby,354265 ,20-06-2007,Alm. Salg,205,1728.0,10,1906,
 480,Villa,Lindevej 8,5450, Otterup,1200000 ,20-06-2007,Alm. Salg,153,7843.0,7,1965,
@@ -6549,11 +6458,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Møllestranden 5,5450, Otterup,772500 ,10-06-2007,Alm. Salg,90,8583.0,3,1877,
 480,Villa,Bryggerhaven 2,5450, Otterup,1500000 ,10-06-2007,Andet,101,14851.0,3,2007,
 480,Villa,Lobogrenen 5,5462, Morud,616085 ,10-06-2007,Alm. Salg,163,3780.0,6,2008,
-480,Ejerlejlighed,Tokkendrup 11A,5450, Otterup,653000 ,07-06-2007,Andet,72,9069.0,2,1915,
 480,Villa,Låseledvej 17,5471, Søndersø,1050000 ,07-06-2007,Alm. Salg,148,7095.0,6,1877,6%
 480,Villa,Dalene 34,5450, Otterup,1105000 ,07-06-2007,Alm. Salg,161,6863.0,5,1965,
 480,Villa,Pigeongrenen 17,5462, Morud,549918 ,07-06-2007,Alm. Salg,216,2546.0,7,2008,
-480,Villa,Tokkendrup 11,5450, Otterup,653000 ,07-06-2007,Andet,162,4031.0,5,1915,
 480,Rækkehus,Adelgade 11,5400, Bogense,1275000 ,06-06-2007,Alm. Salg,95,13421.0,3,1900,
 480,Villa,Bøgegårdsvej 66,5471, Søndersø,1875000 ,06-06-2007,Alm. Salg,195,9615.0,5,1979,
 480,Villa,Vibevej 29,5450, Otterup,800000 ,06-06-2007,Auktion,108,7407.0,4,1965,
@@ -6701,7 +6608,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Udsigten 27B,5462, Morud,512192 ,01-04-2007,Alm. Salg,150,3415.0,6,1969,
 480,Rækkehus,Langebyende 5C,5471, Søndersø,1250000 ,31-03-2007,Fam. Salg,115,10870.0,4,2006,
 480,Villa,Ingrid Marie Grenen 13,5462, Morud,534255 ,31-03-2007,Alm. Salg,192,2783.0,5,2010,
-480,Rækkehus,Nørregade 15D,5450, Otterup,1075000 ,29-03-2007,Alm. Salg,51,21078.0,2,1900,
 480,Ejerlejlighed,"Vestre Engvej 136, st. tv",5400, Bogense,895000 ,29-03-2007,Alm. Salg,57,15702.0,3,2008,
 480,Villa,Solsiden 26,5474, Veflinge,885000 ,28-03-2007,Alm. Salg,197,4492.0,4,1973,
 480,Villa,Ullerupvej 42,5471, Søndersø,125000 ,28-03-2007,Alm. Salg,266,470.0,7,2008,
@@ -6738,12 +6644,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Vestergade 67,5471, Søndersø,1105000 ,16-03-2007,Alm. Salg,159,6950.0,5,1933,-2%
 480,Villa,Damløkkevej 17,5450, Otterup,750000 ,15-03-2007,Alm. Salg,95,7895.0,4,1943,
 480,Villa,Gerskov Bygade 39,5450, Otterup,835000 ,14-03-2007,Alm. Salg,112,7455.0,3,1981,
-480,Ejerlejlighed,Odensevej 30B,5471, Søndersø,2350000 ,13-03-2007,Alm. Salg,62,37903.0,3,1928,
 480,Villa,Langelinie 18,5450, Otterup,1875000 ,13-03-2007,Alm. Salg,165,11364.0,4,1910,-1%
 480,Villa,Møllevej 13,5450, Otterup,995000 ,13-03-2007,Alm. Salg,165,6030.0,6,1955,
 480,Villa,Gl Skolevej 9,5450, Otterup,293017 ,13-03-2007,Alm. Salg,85,3447.0,3,1965,
 480,Villa,Lillevænget 4,5474, Veflinge,945000 ,13-03-2007,Alm. Salg,152,6217.0,5,1979,
-480,Villa,Odensevej 30C,5471, Søndersø,2350000 ,13-03-2007,Alm. Salg,67,35075.0,3,1960,
 480,Villa,Sømarksvej 236,5471, Søndersø,1100000 ,12-03-2007,Alm. Salg,100,11000.0,4,1972,
 480,Villa,Kildehaven 6,5474, Veflinge,725000 ,12-03-2007,Alm. Salg,98,7398.0,3,1949,
 480,Villa,Dalene 30,5450, Otterup,845000 ,12-03-2007,Alm. Salg,149,5671.0,7,1943,
@@ -7284,7 +7188,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Rækkehus,Sct. Annagade 11,5400, Bogense,710000 ,17-05-2006,Alm. Salg,82,8659.0,4,1777,
 480,Villa,Bredgade 61,5485, Skamby,630000 ,17-05-2006,Alm. Salg,140,4500.0,6,1915,
 480,Villa,Himmelstrupvej 74,5462, Morud,1625000 ,17-05-2006,Alm. Salg,250,6500.0,6,1968,
-480,Villa,"Odensevej 46, 1",5471, Søndersø,1895000 ,17-05-2006,Alm. Salg,90,21056.0,4,1890,
 480,Rækkehus,Kappendrup 44,5450, Otterup,572500 ,16-05-2006,Alm. Salg,145,3948.0,6,1890,
 480,Villa,Hemmerslev 7,5471, Søndersø,585000 ,16-05-2006,Alm. Salg,180,3250.0,5,2012,
 480,Villa,Peberhaven 6,5400, Bogense,1895000 ,16-05-2006,Alm. Salg,188,10080.0,6,1909,
@@ -7333,7 +7236,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Pileurten 14,5450, Otterup,351500 ,27-04-2006,Alm. Salg,144,2441.0,4,2007,
 480,Rækkehus,Enggade 19,5400, Bogense,945000 ,26-04-2006,Alm. Salg,120,7875.0,5,1900,
 480,Rækkehus,Havreløkken 17,5450, Otterup,900000 ,26-04-2006,Alm. Salg,100,9000.0,3,1973,
-480,Villa,Vestergade 1A,5450, Otterup,1900000 ,26-04-2006,Alm. Salg,120,15833.0,6,1953,
 480,Villa,Søndervang 7,5400, Bogense,1095000 ,26-04-2006,Alm. Salg,174,6293.0,5,1850,
 480,Villa,Emmelevvej 40,5450, Otterup,870000 ,26-04-2006,Alm. Salg,161,5404.0,7,1969,
 480,Villa,Bøgegårdsvej 51,5471, Søndersø,1175000 ,26-04-2006,Alm. Salg,111,10586.0,4,1978,
@@ -7353,12 +7255,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Ralgyden 5,5471, Søndersø,162000 ,17-04-2006,Auktion,80,2025.0,4,1847,
 480,Rækkehus,Gyldensteensvej 7,5400, Bogense,671500 ,16-04-2006,Fam. Salg,204,3292.0,7,1890,
 480,Rækkehus,Horsebækvænget 20,5450, Otterup,430000 ,16-04-2006,Alm. Salg,43,10000.0,2,1971,
-480,Ejerlejlighed,"Østergade 22, 1",5400, Bogense,3700000 ,16-04-2006,Alm. Salg,140,26429.0,3,1900,
-480,Ejerlejlighed,"Østergade 22, st",5400, Bogense,3700000 ,16-04-2006,Alm. Salg,75,49333.0,2,1900,
-480,Ejerlejlighed,"Østergade 22, 2",5400, Bogense,3700000 ,16-04-2006,Alm. Salg,101,36634.0,4,1900,
-480,Ejerlejlighed,Skovvej 6B,5400, Bogense,3700000 ,16-04-2006,Alm. Salg,64,57813.0,2,1900,
-480,Ejerlejlighed,Skovvej 6D,5400, Bogense,3700000 ,16-04-2006,Alm. Salg,86,43023.0,3,1900,
-480,Ejerlejlighed,Skovvej 6E,5400, Bogense,3700000 ,16-04-2006,Alm. Salg,53,69811.0,2,1900,
 480,Villa,Trondheimparken 44,5400, Bogense,224500 ,16-04-2006,Alm. Salg,201,1117.0,4,2006,
 480,Villa,Assensvej 29,5400, Bogense,670000 ,11-04-2006,Alm. Salg,174,3851.0,4,1951,
 480,Villa,Pileurten 49,5450, Otterup,391300 ,11-04-2006,Alm. Salg,160,2446.0,5,2007,
@@ -7433,7 +7329,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Filippagrenen 14,5462, Morud,530673 ,08-03-2006,Alm. Salg,175,3032.0,5,2007,
 480,Villa,Slagstrupvænget 4,5471, Søndersø,264923 ,08-03-2006,Alm. Salg,125,2119.0,4,2006,
 480,Villa,Æbeløgade 37,5400, Bogense,995000 ,07-03-2006,Alm. Salg,126,7897.0,3,1935,
-480,Villa,Skovmøllevej 29,5474, Veflinge,2702994 ,07-03-2006,Alm. Salg,108,25028.0,4,1827,
 480,Rækkehus,Ahornvej 64,5400, Bogense,600000 ,06-03-2006,Alm. Salg,59,10169.0,2,1980,
 480,Villa,Bøgegårdsvej 76,5471, Søndersø,1880000 ,06-03-2006,Alm. Salg,124,15161.0,4,1978,
 480,Villa,Hestehaven 12,5474, Veflinge,1550000 ,06-03-2006,Alm. Salg,137,11314.0,5,2006,
@@ -7486,7 +7381,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Søndersøvej 257,5462, Morud,680000 ,12-02-2006,Alm. Salg,143,4755.0,5,1953,
 480,Villa,Bredgade 96,5485, Skamby,1200000 ,12-02-2006,Alm. Salg,207,5797.0,6,1935,
 480,Villa,P Hansens Gyden 40,5450, Otterup,475000 ,12-02-2006,Alm. Salg,85,5588.0,4,1952,
-480,Villa,Skovmøllevej 29,5474, Veflinge,7205027 ,12-02-2006,Alm. Salg,108,66713.0,4,1827,
 480,Villa,Grundtvigsvænget 1,5471, Søndersø,925000 ,12-02-2006,Alm. Salg,112,8259.0,4,1978,
 480,Villa,Torballegyden 18,5450, Otterup,1660000 ,12-02-2006,Alm. Salg,215,7721.0,6,1920,
 480,Villa,Stenøvej 25,5450, Otterup,326837 ,11-02-2006,Alm. Salg,119,2747.0,3,1874,
@@ -7619,12 +7513,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Lillebro 49,5450, Otterup,595000 ,24-11-2005,Alm. Salg,77,7727.0,3,1932,
 480,Villa,Åtoften 20,5471, Søndersø,1885000 ,24-11-2005,Alm. Salg,163,11564.0,4,1999,
 480,Villa,Slevstrupvej 32,5450, Otterup,430000 ,23-11-2005,Alm. Salg,157,2739.0,6,1930,
-480,Ejerlejlighed,Bogensevej 45B,5450, Otterup,698000 ,22-11-2005,Alm. Salg,85,8212.0,2,1775,
-480,Ejerlejlighed,Kirkevej 1A,5450, Otterup,698000 ,22-11-2005,Alm. Salg,100,6980.0,4,1775,
-480,Ejerlejlighed,Kirkevej 1B,5450, Otterup,698000 ,22-11-2005,Alm. Salg,85,8212.0,3,1775,
 480,Villa,Lindebjerg 7,5400, Bogense,270000 ,22-11-2005,Alm. Salg,201,1343.0,4,2007,
 480,Villa,Ignekærvænget 2,5450, Otterup,595000 ,22-11-2005,Alm. Salg,98,6071.0,3,1964,
-480,Villa,Kirkevej 1C,5450, Otterup,698000 ,22-11-2005,Alm. Salg,150,4653.0,4,1904,
 480,Villa,Søndergårdsvænget 6,5474, Veflinge,1250000 ,21-11-2005,Alm. Salg,162,7716.0,6,1974,
 480,Villa,Kirkevej 32,5450, Otterup,476000 ,21-11-2005,Alm. Salg,113,4212.0,5,1927,
 480,Villa,Norupvej 83,5450, Otterup,815000 ,21-11-2005,Alm. Salg,92,8859.0,3,1949,
@@ -7641,7 +7531,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Langesøvej 153,5462, Morud,3200000 ,17-11-2005,Alm. Salg,263,9169.0,8,1880,
 480,Villa,Søndersøvej 159,5462, Morud,1300000 ,16-11-2005,Alm. Salg,175,7429.0,5,2006,
 480,Villa,Ørritslevvej 78,5471, Søndersø,450000 ,16-11-2005,Alm. Salg,170,2647.0,7,1877,
-480,Villa,Skovmøllevej 29,5474, Veflinge,3500000 ,16-11-2005,Alm. Salg,108,32407.0,4,1827,
 480,Villa,Rosenvænget 6,5400, Bogense,785000 ,16-11-2005,Alm. Salg,122,6434.0,4,1968,
 480,Villa,Ejlskovvej 77,5471, Søndersø,237000 ,14-11-2005,Fam. Salg,323,734.0,6,2011,
 480,Villa,Oregårdvej 50,5400, Bogense,1175000 ,14-11-2005,Alm. Salg,151,7781.0,6,1950,
@@ -7853,7 +7742,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Bøgebjerg 2,5471, Søndersø,550000 ,02-08-2005,Alm. Salg,146,3767.0,5,1955,
 480,Ejerlejlighed,Torvet 30,5400, Bogense,1350000 ,01-08-2005,Alm. Salg,120,11250.0,4,1857,
 480,Rækkehus,Skovbrovej 5,5400, Bogense,1145000 ,31-07-2005,Alm. Salg,108,10602.0,4,1902,
-480,Rækkehus,Rugårdsvej 740B,5462, Morud,650000 ,31-07-2005,Alm. Salg,102,6373.0,4,1890,
 480,Villa,Pileurten 7,5450, Otterup,196000 ,31-07-2005,Alm. Salg,145,1352.0,5,2007,
 480,Villa,Pileurten 17,5450, Otterup,199400 ,31-07-2005,Alm. Salg,158,1262.0,6,2006,
 480,Villa,Vestervang 4,5485, Skamby,54000 ,31-07-2005,Alm. Salg,187,289.0,5,2006,
@@ -8248,7 +8136,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Rækkehus,Horsebækvænget 26,5450, Otterup,340000 ,30-11-2004,Alm. Salg,45,7556.0,2,1971,
 480,Villa,Lergravsgyden 29,5450, Otterup,380000 ,30-11-2004,Alm. Salg,232,1638.0,7,2007,
 480,Villa,Abildvej 1,5400, Bogense,575000 ,29-11-2004,Alm. Salg,113,5088.0,3,1961,
-480,Villa,Rugårdsvej 738A,5462, Morud,650000 ,29-11-2004,Alm. Salg,102,6373.0,4,1910,
 480,Villa,Frederiksberg 16,5474, Veflinge,810000 ,28-11-2004,Alm. Salg,157,5159.0,4,1959,
 480,Villa,Viernevej 41,5474, Veflinge,385000 ,28-11-2004,Alm. Salg,75,5133.0,2,1917,
 480,Villa,Præstetoften 13,5471, Søndersø,1100000 ,27-11-2004,Alm. Salg,165,6667.0,6,1975,
@@ -8312,7 +8199,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Rugårdsvej 853,5471, Søndersø,985000 ,13-10-2004,Alm. Salg,133,7406.0,6,1933,
 480,Villa,Bodøparken 7,5400, Bogense,1625000 ,13-10-2004,Alm. Salg,158,10285.0,5,1995,
 480,Villa,Troelsevej 304,5491, Blommenslyst,1150000 ,13-10-2004,Alm. Salg,264,4356.0,7,1827,
-480,Villa,Søndergade 27A,5450, Otterup,3000000 ,13-10-2004,Alm. Salg,86,34884.0,3,1957,
 480,Villa,Kirkevej 25,5450, Otterup,800000 ,12-10-2004,Alm. Salg,143,5594.0,6,1920,
 480,Villa,Bogensevej 61,5450, Otterup,543700 ,12-10-2004,Alm. Salg,95,5723.0,4,1877,
 480,Villa,Møllevej 35,5450, Otterup,735000 ,12-10-2004,Alm. Salg,99,7424.0,4,1977,
@@ -8938,7 +8824,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Ølundgyden 32,5450, Otterup,584429 ,08-07-2003,Fam. Salg,210,2783.0,6,1802,
 480,Villa,Egensemark 20,5400, Bogense,419310 ,05-07-2003,Alm. Salg,238,1762.0,7,1930,
 480,Villa,Trondheimparken 9,5400, Bogense,228253 ,05-07-2003,Alm. Salg,138,1654.0,5,2004,
-480,Villa,Rugårdsvej 779A,5462, Morud,500000 ,04-07-2003,Alm. Salg,130,3846.0,5,1915,
 480,Ejerlejlighed,Kirkestræde 28,5400, Bogense,400000 ,03-07-2003,Alm. Salg,38,10526.0,2,1857,
 480,Villa,Solsiden 34,5474, Veflinge,840000 ,03-07-2003,Alm. Salg,180,4667.0,5,1973,
 480,Villa,Sømarksvej 66,5471, Søndersø,820000 ,03-07-2003,Alm. Salg,110,7455.0,5,1976,
@@ -9104,7 +8989,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Rugvangen 15,5450, Otterup,800000 ,17-03-2003,Alm. Salg,115,6957.0,4,1972,
 480,Villa,Ejlbyvej 110,5471, Søndersø,343925 ,17-03-2003,Alm. Salg,283,1215.0,9,1905,
 480,Villa,P Hansens Gyden 39,5450, Otterup,482496 ,16-03-2003,Alm. Salg,219,2203.0,8,1910,
-480,Villa,Frederiksberg 43C,5474, Veflinge,730000 ,16-03-2003,Alm. Salg,102,7157.0,3,1930,
 480,Villa,Stenøvej 14,5450, Otterup,462000 ,14-03-2003,Alm. Salg,110,4200.0,5,1901,
 480,Rækkehus,Ahornvej 25,5400, Bogense,725000 ,13-03-2003,Alm. Salg,86,8430.0,3,1978,
 480,Villa,Bårdesøvej 88,5450, Otterup,625000 ,13-03-2003,Alm. Salg,87,7184.0,4,1971,
@@ -9238,7 +9122,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Roerslev Bygade 6,5450, Otterup,401975 ,24-11-2002,Alm. Salg,87,4620.0,2,1900,
 480,Villa,Banepladsen 1,5450, Otterup,645000 ,24-11-2002,Alm. Salg,80,8063.0,3,1961,
 480,Ejerlejlighed,Kirkestræde 35,5400, Bogense,408088 ,23-11-2002,Andet,129,3163.0,4,1870,
-480,Rækkehus,Adelgade 40B,5400, Bogense,1570000 ,21-11-2002,Alm. Salg,60,26167.0,2,1800,
 480,Villa,Rugårdsvej 723,5462, Morud,1085000 ,21-11-2002,Alm. Salg,189,5741.0,5,1890,
 480,Villa,Skolegade 35,5450, Otterup,621000 ,21-11-2002,Fam. Salg,120,5175.0,4,1968,
 480,Villa,Koekilde 11,5450, Otterup,1055000 ,21-11-2002,Alm. Salg,104,10144.0,4,1999,
@@ -9266,7 +9149,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Elmevej 4,5450, Otterup,670000 ,28-10-2002,Alm. Salg,118,5678.0,4,1967,
 480,Villa,Lunde Bygade 87,5450, Otterup,380000 ,28-10-2002,Alm. Salg,69,5507.0,3,1952,
 480,Ejerlejlighed,Adelgade 38A,5400, Bogense,210000 ,27-10-2002,Alm. Salg,45,4667.0,2,1986,
-480,Villa,Vestergade 1A,5450, Otterup,720127 ,27-10-2002,Alm. Salg,120,6001.0,6,1953,
 480,Villa,Dammen 4,5400, Bogense,685000 ,27-10-2002,Alm. Salg,250,2740.0,6,1877,
 480,Villa,Langegyde 6,5400, Bogense,1060000 ,27-10-2002,Alm. Salg,250,4240.0,5,1921,
 480,Villa,Hessum Bygade 13,5450, Otterup,2000000 ,27-10-2002,Alm. Salg,202,9901.0,5,1967,
@@ -9298,11 +9180,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Søndersø Skovvej 74,5471, Søndersø,590000 ,07-10-2002,Alm. Salg,227,2599.0,7,1875,
 480,Villa,Bakkevej 3,5450, Otterup,796816 ,07-10-2002,Alm. Salg,127,6274.0,3,1954,
 480,Villa,Bredgade 119,5485, Skamby,74000 ,07-10-2002,Alm. Salg,174,425.0,5,1928,
-480,Villa,Møllevej 63C,5450, Otterup,705000 ,06-10-2002,Alm. Salg,57,12368.0,2,1930,
 480,Villa,Melbyvej 91,5471, Søndersø,593474 ,06-10-2002,Alm. Salg,134,4429.0,4,1985,
 480,Villa,Maderupvej 110,5471, Søndersø,800000 ,30-09-2002,Alm. Salg,230,3200.0,6,1963,
 480,Villa,Dådyrvænget 1,5400, Bogense,1075000 ,30-09-2002,Alm. Salg,127,8465.0,4,1979,
-480,Villa,Søndergade 27A,5450, Otterup,1200000 ,30-09-2002,Alm. Salg,86,13953.0,3,1957,
 480,Rækkehus,Odensevej 68F,5471, Søndersø,347271 ,29-09-2002,Alm. Salg,52,6678.0,2,1937,
 480,Villa,Slåenvej 2,5450, Otterup,900828 ,27-09-2002,Fam. Salg,264,3412.0,9,1937,
 480,Villa,Kørupvej 14,5450, Otterup,350000 ,26-09-2002,Alm. Salg,158,2215.0,7,1850,
@@ -9524,14 +9404,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Kroggyden 8,5450, Otterup,362518 ,16-04-2002,Alm. Salg,71,5106.0,3,1926,
 480,Villa,Rasmus Nielsensvej 62,5471, Søndersø,96200 ,16-04-2002,Alm. Salg,185,520.0,5,2002,
 480,Villa,Tørresøvej 131,5450, Otterup,565000 ,15-04-2002,Alm. Salg,350,1614.0,6,1921,
-480,Ejerlejlighed,Rådhusstræde 1A,5400, Bogense,890235 ,14-04-2002,Alm. Salg,29,30698.0,1,1937,
-480,Ejerlejlighed,Rådhusstræde 1B,5400, Bogense,890235 ,14-04-2002,Alm. Salg,45,19783.0,2,1937,
-480,Ejerlejlighed,Rådhusstræde 3A,5400, Bogense,890235 ,14-04-2002,Alm. Salg,68,13092.0,2,2005,
-480,Ejerlejlighed,Rådhusstræde 3B,5400, Bogense,890235 ,14-04-2002,Alm. Salg,68,13092.0,2,2005,
-480,Ejerlejlighed,"Adelgade 65A, 1. th",5400, Bogense,890235 ,14-04-2002,Alm. Salg,169,5268.0,6,1907,
-480,Ejerlejlighed,"Adelgade 65A, st",5400, Bogense,890235 ,14-04-2002,Alm. Salg,66,13488.0,2,1907,
-480,Ejerlejlighed,"Adelgade 65A, 1. tv",5400, Bogense,890235 ,14-04-2002,Alm. Salg,50,17805.0,2,1907,
-480,Ejerlejlighed,"Adelgade 65B, st",5400, Bogense,890235 ,14-04-2002,Alm. Salg,60,14837.0,2,1907,
 480,Villa,Gyrupvej 18,5450, Otterup,337500 ,14-04-2002,Alm. Salg,145,2328.0,5,1905,
 480,Villa,Moderupvej 9,5471, Søndersø,297500 ,14-04-2002,Fam. Salg,62,4798.0,2,1947,
 480,Villa,Nr Næråvej 42,5450, Otterup,522746 ,11-04-2002,Alm. Salg,101,5176.0,3,1974,
@@ -9639,7 +9511,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Rødeled 31,5400, Bogense,175000 ,20-01-2002,Alm. Salg,101,1733.0,3,1852,
 480,Villa,Morbærhaven 48,5450, Otterup,185640 ,20-01-2002,Alm. Salg,171,1086.0,5,2002,
 480,Villa,Kappendrup 10,5450, Otterup,845000 ,19-01-2002,Alm. Salg,130,6500.0,4,1909,
-480,Ejerlejlighed,Adelgade 92C,5400, Bogense,752326 ,17-01-2002,Alm. Salg,95,7919.0,2,1781,
 480,Villa,Ørbækvej 40A,5400, Bogense,546000 ,17-01-2002,Alm. Salg,212,2575.0,7,1920,
 480,Villa,Rosenlunden 28,5471, Søndersø,1500000 ,16-01-2002,Alm. Salg,154,9740.0,6,1981,
 480,Ejerlejlighed,Kirkestræde 16,5400, Bogense,476485 ,15-01-2002,Alm. Salg,126,3782.0,4,1900,
@@ -9664,7 +9535,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Elmevej 3,5450, Otterup,950000 ,27-12-2001,Alm. Salg,129,7364.0,5,1971,
 480,Villa,Kæret 13,5400, Bogense,186349 ,20-12-2001,Andet,167,1116.0,7,1897,
 480,Rækkehus,Bergenparken 22,5400, Bogense,810000 ,19-12-2001,Alm. Salg,123,6585.0,4,1988,
-480,Rækkehus,Nørregade 15D,5450, Otterup,740000 ,19-12-2001,Alm. Salg,51,14510.0,2,1900,
 480,Villa,Tværskovvej 29,5462, Morud,330637 ,19-12-2001,Alm. Salg,162,2041.0,6,1995,
 480,Villa,Lindegårdsvej 79,5450, Otterup,1220000 ,19-12-2001,Alm. Salg,151,8079.0,5,1986,
 480,Villa,Gerskovvej 21,5450, Otterup,80000 ,17-12-2001,Alm. Salg,170,471.0,5,1750,
@@ -9734,7 +9604,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Lindøhovedvænget 23,5400, Bogense,1114208 ,24-10-2001,Alm. Salg,239,4662.0,5,2003,
 480,Villa,Grusgyden 4,5450, Otterup,410000 ,24-10-2001,Fam. Salg,173,2370.0,5,1913,
 480,Ejerlejlighed,Torvegade 2,5400, Bogense,1028042 ,23-10-2001,Alm. Salg,146,7041.0,4,1877,
-480,Rækkehus,Gyldensteensvej 10C,5400, Bogense,1190000 ,22-10-2001,Fam. Salg,35,34000.0,1,1900,
 480,Villa,Rugårdsvej 959,5471, Søndersø,2900000 ,19-10-2001,Auktion,213,13615.0,6,1925,
 480,Rækkehus,Stenløkken 2,5450, Otterup,755103 ,18-10-2001,Alm. Salg,113,6682.0,4,1985,
 480,Villa,Lindøvej 32,5450, Otterup,582148 ,16-10-2001,Alm. Salg,143,4071.0,6,1935,
@@ -9761,7 +9630,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Bårdesøvej 122,5450, Otterup,370000 ,29-09-2001,Fam. Salg,131,2824.0,5,1955,
 480,Villa,Birkevej 2,5400, Bogense,397500 ,27-09-2001,Fam. Salg,166,2395.0,6,1964,
 480,Villa,Langebyende 26,5471, Søndersø,630000 ,27-09-2001,Alm. Salg,128,4922.0,5,1940,
-480,Rækkehus,Abildvej 4,5400, Bogense,625000 ,26-09-2001,Fam. Salg,60,10417.0,2,1954,
 480,Villa,Svelvikparken 1,5400, Bogense,1011486 ,26-09-2001,Auktion,210,4817.0,6,1986,
 480,Villa,Fjederløkkevej 29,5400, Bogense,50000 ,26-09-2001,Alm. Salg,120,417.0,4,2005,
 480,Rækkehus,Edelkær 10,5471, Søndersø,690000 ,25-09-2001,Alm. Salg,88,7841.0,3,1988,
@@ -9770,9 +9638,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Maderupvej 68,5471, Søndersø,375893 ,25-09-2001,Alm. Salg,122,3081.0,5,1877,
 480,Villa,Kirkegyden 22,5450, Otterup,630000 ,24-09-2001,Alm. Salg,158,3987.0,5,1800,
 480,Rækkehus,Toftekær 70A. 9,5471, Søndersø,151000 ,23-09-2001,Auktion,40,3775.0,2,1988,
-480,Ejerlejlighed,Torvegade 9,5400, Bogense,850000 ,23-09-2001,Alm. Salg,166,5120.0,5,1877,
 480,Villa,Bårdesøvej 5,5450, Otterup,648000 ,23-09-2001,Alm. Salg,120,5400.0,5,1925,
-480,Villa,Ahornvej 4,5400, Bogense,850000 ,23-09-2001,Alm. Salg,130,6538.0,5,1963,
 480,Villa,Ejlbyvej 74,5471, Søndersø,100000 ,23-09-2001,Alm. Salg,104,962.0,5,1901,
 480,Villa,Vedel Simonsensvej 12,5474, Veflinge,130569 ,23-09-2001,Auktion,90,1451.0,3,1966,
 480,Villa,Bryggerivej 14,5450, Otterup,950000 ,20-09-2001,Alm. Salg,155,6129.0,5,1969,
@@ -9784,8 +9650,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Sasserod 45,5462, Morud,558000 ,13-09-2001,Alm. Salg,264,2114.0,6,1877,
 480,Villa,Ullerupvej 59,5485, Skamby,60000 ,13-09-2001,Alm. Salg,157,382.0,5,1850,
 480,Villa,Kirsebærlunden 27,5471, Søndersø,1065682 ,13-09-2001,Alm. Salg,139,7667.0,4,1974,
-480,Rækkehus,Løkkehøj 19D,5471, Søndersø,625000 ,11-09-2001,Alm. Salg,80,7813.0,3,1976,
-480,Villa,Elmevej 10A,5471, Søndersø,625000 ,11-09-2001,Auktion,130,4808.0,4,1975,
 480,Villa,Havesvinget 22,5450, Otterup,207600 ,11-09-2001,Alm. Salg,166,1251.0,5,2001,
 480,Villa,Lisbjerg 17,5400, Bogense,130000 ,09-09-2001,Auktion,200,650.0,6,1911,
 480,Villa,Farsbøllevej 22,5471, Søndersø,685136 ,09-09-2001,Alm. Salg,196,3496.0,7,1948,
@@ -10012,8 +9876,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Rækkehus,Horsebækvænget 34,5450, Otterup,250610 ,04-03-2001,Alm. Salg,43,5828.0,2,1971,
 480,Rækkehus,Løkkehøj 19B,5471, Søndersø,693057 ,04-03-2001,Alm. Salg,80,8663.0,3,1977,
 480,Rækkehus,Mejerivej 4,5471, Søndersø,650000 ,28-02-2001,Alm. Salg,118,5508.0,3,1892,
-480,Rækkehus,Odensevej 40A,5400, Bogense,630000 ,28-02-2001,Alm. Salg,80,7875.0,3,1850,
-480,Ejerlejlighed,Odensevej 40B,5400, Bogense,630000 ,28-02-2001,Alm. Salg,109,5780.0,4,1955,
 480,Villa,Morbærhaven 16,5450, Otterup,200000 ,28-02-2001,Alm. Salg,156,1282.0,5,2001,
 480,Villa,Reberbanen 9,5400, Bogense,1024591 ,28-02-2001,Alm. Salg,176,5822.0,5,1953,
 480,Villa,Larvikparken 18,5400, Bogense,790000 ,28-02-2001,Alm. Salg,167,4731.0,7,1985,
@@ -10115,7 +9977,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Sasserod 35,5462, Morud,1280000 ,04-12-2000,Alm. Salg,302,4238.0,6,1856,
 480,Villa,Bogensevej 171,5471, Søndersø,630000 ,04-12-2000,Alm. Salg,113,5575.0,4,1941,
 480,Rækkehus,Edelkær 8,5471, Søndersø,728000 ,03-12-2000,Alm. Salg,88,8273.0,3,1988,
-480,Villa,Søndergade 27A,5450, Otterup,625000 ,03-12-2000,Fam. Salg,86,7267.0,3,1957,
 480,Villa,Farstrupvej 17,5471, Søndersø,1265000 ,03-12-2000,Alm. Salg,205,6171.0,5,1936,
 480,Villa,Toderupvej 24,5471, Søndersø,21800 ,02-12-2000,Alm. Salg,130,168.0,4,1957,
 480,Villa,Bårdesøvej 38,5450, Otterup,1900000 ,29-11-2000,Alm. Salg,242,7851.0,7,1878,
@@ -10156,7 +10017,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Rækkehus,Enggade 19,5400, Bogense,704000 ,02-11-2000,Alm. Salg,120,5867.0,5,1900,
 480,Villa,Grønnegade 24,5450, Otterup,1034000 ,01-11-2000,Alm. Salg,200,5170.0,11,1900,
 480,Villa,Egensevej 37,5450, Otterup,481000 ,01-11-2000,Auktion,174,2764.0,5,1965,
-480,Villa,Møllevej 63C,5450, Otterup,300000 ,01-11-2000,Fam. Salg,57,5263.0,2,1930,
 480,Rækkehus,Gyldensteensvej 41,5400, Bogense,750000 ,31-10-2000,Alm. Salg,98,7653.0,3,1949,
 480,Villa,Lindebjerg 7,5474, Veflinge,460000 ,31-10-2000,Alm. Salg,93,4946.0,4,1960,
 480,Villa,Gyldensteensvej 6,5400, Bogense,885000 ,29-10-2000,Alm. Salg,186,4758.0,10,1907,
@@ -10225,14 +10085,11 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Bredgade 96,5485, Skamby,935000 ,13-09-2000,Alm. Salg,207,4517.0,6,1935,
 480,Villa,Holemarken 11,5450, Otterup,663985 ,13-09-2000,Alm. Salg,134,4955.0,6,1850,
 480,Villa,Stationsvej 28,5450, Otterup,1150000 ,12-09-2000,Alm. Salg,254,4528.0,12,1912,
-480,Rækkehus,Langelinie 36B,5450, Otterup,1625000 ,11-09-2000,Alm. Salg,166,9789.0,3,2016,
-480,Ejerlejlighed,Langelinie 36A,5450, Otterup,1625000 ,11-09-2000,Alm. Salg,170,9559.0,5,1910,
 480,Villa,Rugårdsvej 771,5462, Morud,995000 ,11-09-2000,Alm. Salg,169,5888.0,6,1953,
 480,Villa,Bogensevej 8,5471, Søndersø,551990 ,10-09-2000,Alm. Salg,122,4525.0,4,1953,
 480,Villa,Nymarksgyden 70,5474, Veflinge,408000 ,10-09-2000,Alm. Salg,95,4295.0,3,1961,
 480,Villa,Farstrupvej 45,5471, Søndersø,612500 ,10-09-2000,Alm. Salg,177,3460.0,7,1913,
 480,Rækkehus,Havreløkken 13,5450, Otterup,725000 ,07-09-2000,Alm. Salg,105,6905.0,3,1973,
-480,Villa,Ørbækvej 1,5400, Bogense,1350000 ,07-09-2000,Alm. Salg,301,4485.0,12,1912,
 480,Villa,Morbærhaven 1,5450, Otterup,1240000 ,07-09-2000,Alm. Salg,120,10333.0,4,1997,
 480,Villa,Smedevej 8,5450, Otterup,710000 ,07-09-2000,Alm. Salg,129,5504.0,6,1970,
 480,Villa,Melbyvej 94,5471, Søndersø,584653 ,06-09-2000,Alm. Salg,107,4913.0,5,1934,
@@ -10601,11 +10458,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Østergade 18,5450, Otterup,760000 ,09-12-1999,Alm. Salg,110,6909.0,4,1966,
 480,Rækkehus,Hedemarken 3,5450, Otterup,699434 ,08-12-1999,Alm. Salg,75,9326.0,3,1986,
 480,Villa,Ruevej 58,5462, Morud,1045000 ,08-12-1999,Alm. Salg,174,6006.0,5,1910,
-480,Ejerlejlighed,"Langebyende 8, 1",5471, Søndersø,665905 ,07-12-1999,Alm. Salg,150,4439.0,3,1927,
 480,Villa,Ørnehøj 4,5450, Otterup,742500 ,07-12-1999,Alm. Salg,120,6188.0,5,1977,
 480,Villa,Gerskov Bygade 10,5450, Otterup,498000 ,07-12-1999,Alm. Salg,195,2554.0,7,2013,
 480,Villa,Slettens Landevej 48,5400, Bogense,275000 ,07-12-1999,Alm. Salg,90,3056.0,4,1777,
-480,Villa,"Langebyende 8, st",5471, Søndersø,665905 ,07-12-1999,Alm. Salg,230,2895.0,6,1927,
 480,Villa,Nørregade 67,5450, Otterup,1412773 ,06-12-1999,Alm. Salg,160,8830.0,6,1960,
 480,Villa,Oregårdvej 50,5400, Bogense,675000 ,06-12-1999,Alm. Salg,151,4470.0,6,1950,
 480,Villa,Brolundvej 30,5471, Søndersø,600000 ,06-12-1999,Alm. Salg,198,3030.0,7,1857,
@@ -10807,10 +10662,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Rugårdsvej 733,5462, Morud,1047075 ,11-08-1999,Alm. Salg,230,4553.0,7,1915,
 480,Villa,Rugårdsvej 788,5462, Morud,395046 ,11-08-1999,Alm. Salg,102,3873.0,4,1907,
 480,Villa,Rosenlunden 16,5471, Søndersø,1587000 ,10-08-1999,Alm. Salg,211,7521.0,6,1972,
-480,Rækkehus,Bredgade 4A,5450, Otterup,1030000 ,09-08-1999,Alm. Salg,48,21458.0,2,1905,
 480,Villa,Stenløkkevej 35,5450, Otterup,394966 ,09-08-1999,Alm. Salg,88,4488.0,3,1925,
 480,Villa,Koekilde 19,5450, Otterup,1188000 ,09-08-1999,Alm. Salg,104,11423.0,4,1999,
-480,Villa,Bredgade 4B,5450, Otterup,1030000 ,09-08-1999,Alm. Salg,34,30294.0,2,1905,
 480,Villa,Farsbøllevej 44,5471, Søndersø,702500 ,08-08-1999,Alm. Salg,220,3193.0,7,1877,
 480,Ejerlejlighed,Torvet 2,5400, Bogense,624763 ,05-08-1999,Alm. Salg,95,6576.0,3,1877,
 480,Villa,Bredgade 81,5485, Skamby,450000 ,04-08-1999,Alm. Salg,115,3913.0,4,1900,
@@ -11069,7 +10922,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Oregårdvej 41,5400, Bogense,340000 ,17-02-1999,Fam. Salg,113,3009.0,5,1940,
 480,Villa,Østrupskovgårdsvej 3,5450, Otterup,745000 ,17-02-1999,Alm. Salg,162,4599.0,6,1961,
 480,Villa,Toderupvej 18,5471, Søndersø,445000 ,16-02-1999,Fam. Salg,184,2418.0,6,1877,
-480,Villa,Søndergade 27A,5450, Otterup,1250000 ,16-02-1999,Alm. Salg,86,14535.0,3,1957,
 480,Rækkehus,Strandvejen 66,5450, Otterup,550000 ,15-02-1999,Alm. Salg,108,5093.0,4,1969,
 480,Villa,Tværgade 30,5450, Otterup,725000 ,14-02-1999,Alm. Salg,105,6905.0,4,1960,
 480,Villa,Lindegårdsvej 79,5450, Otterup,491314 ,14-02-1999,Andet,151,3254.0,5,1986,
@@ -11234,11 +11086,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Svelvikparken 3,5400, Bogense,1179000 ,20-10-1998,Alm. Salg,131,9000.0,4,1987,
 480,Villa,Odensevej 82,5471, Søndersø,1305000 ,20-10-1998,Alm. Salg,211,6185.0,5,1916,
 480,Villa,Bogensevej 61,5450, Otterup,127206 ,19-10-1998,Alm. Salg,95,1339.0,4,1877,
-480,Ejerlejlighed,Tokkendrup 11A,5450, Otterup,1099156 ,18-10-1998,Alm. Salg,72,15266.0,2,1915,
 480,Villa,Ørritslevvej 56,5471, Søndersø,717000 ,18-10-1998,Alm. Salg,137,5234.0,4,1880,
 480,Villa,Kroggyden 8,5450, Otterup,494750 ,18-10-1998,Alm. Salg,71,6968.0,3,1926,
 480,Villa,Morbærhaven 19,5450, Otterup,1100000 ,18-10-1998,Alm. Salg,117,9402.0,4,1989,
-480,Villa,Tokkendrup 11,5450, Otterup,1099156 ,18-10-1998,Alm. Salg,162,6785.0,5,1915,
 480,Villa,Svinget 13,5450, Otterup,710585 ,15-10-1998,Alm. Salg,110,6460.0,4,1972,
 480,Rækkehus,Svelvikparken 8,5400, Bogense,633000 ,13-10-1998,Alm. Salg,83,7627.0,3,1986,
 480,Ejerlejlighed,"Jernbanegade 23, 1",5450, Otterup,707500 ,13-10-1998,Alm. Salg,100,7075.0,2,1907,
@@ -11577,11 +11427,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Søndersø Skovvej 76,5471, Søndersø,984679 ,21-03-1998,Alm. Salg,141,6984.0,4,1968,
 480,Villa,Sømarksvej 154,5471, Søndersø,910510 ,21-03-1998,Alm. Salg,171,5325.0,4,1972,
 480,Villa,Lindetoften 2,5471, Søndersø,196027 ,19-03-1998,Alm. Salg,167,1174.0,3,1998,
-480,Ejerlejlighed,Bogensevej 45B,5450, Otterup,456815 ,18-03-1998,Auktion,85,5374.0,2,1775,
-480,Ejerlejlighed,Kirkevej 1A,5450, Otterup,456815 ,18-03-1998,Auktion,100,4568.0,4,1775,
-480,Ejerlejlighed,Kirkevej 1B,5450, Otterup,456815 ,18-03-1998,Auktion,85,5374.0,3,1775,
 480,Villa,Tørresøvej 67,5450, Otterup,425000 ,18-03-1998,Alm. Salg,214,1986.0,8,1935,
-480,Villa,Kirkevej 1C,5450, Otterup,456815 ,18-03-1998,Auktion,150,3045.0,4,1904,
 480,Villa,Sømarksvej 244,5471, Søndersø,861500 ,17-03-1998,Alm. Salg,135,6381.0,4,1973,
 480,Villa,Plantagevej 66,5462, Morud,922000 ,17-03-1998,Alm. Salg,156,5910.0,6,1973,
 480,Villa,Lindegårdsvej 55,5450, Otterup,447558 ,16-03-1998,Andet,204,2194.0,6,1977,
@@ -12098,8 +11944,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Skovgyden 18,5450, Otterup,489000 ,19-05-1997,Alm. Salg,108,4528.0,3,1963,
 480,Villa,Bredgade 98,5485, Skamby,1100000 ,18-05-1997,Alm. Salg,140,7857.0,7,1926,
 480,Villa,Havrekær 9,5474, Veflinge,75000 ,18-05-1997,Alm. Salg,193,389.0,5,2004,
-480,Rækkehus,Odensevej 40A,5400, Bogense,385000 ,13-05-1997,Alm. Salg,80,4813.0,3,1850,
-480,Ejerlejlighed,Odensevej 40B,5400, Bogense,385000 ,13-05-1997,Alm. Salg,109,3532.0,4,1955,
 480,Villa,Tøvlidtvej 36,5400, Bogense,336024 ,13-05-1997,Alm. Salg,182,1846.0,4,2011,
 480,Villa,Hedemarken 70,5450, Otterup,773178 ,13-05-1997,Alm. Salg,104,7434.0,4,1988,
 480,Villa,Assensvej 58,5400, Bogense,322500 ,13-05-1997,Alm. Salg,80,4031.0,3,1912,
@@ -12419,14 +12263,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Skovvej 51,5400, Bogense,458000 ,27-10-1996,Alm. Salg,120,3817.0,5,1938,
 480,Villa,Langehede 76,5471, Søndersø,600136 ,27-10-1996,Alm. Salg,167,3594.0,5,1930,
 480,Villa,Nislevvej 40,5450, Otterup,750000 ,26-10-1996,Alm. Salg,233,3219.0,7,1925,
-480,Ejerlejlighed,"Adelgade 2B, st. tv",5400, Bogense,900000 ,24-10-1996,Alm. Salg,101,8911.0,5,1860,
-480,Ejerlejlighed,"Adelgade 2A, st. th",5400, Bogense,900000 ,24-10-1996,Alm. Salg,125,7200.0,4,1860,
-480,Ejerlejlighed,Vestergade 1A,5400, Bogense,900000 ,24-10-1996,Alm. Salg,96,9375.0,4,1860,
-480,Ejerlejlighed,"Vestergade 1D, st",5400, Bogense,900000 ,24-10-1996,Alm. Salg,55,16364.0,2,1885,
-480,Ejerlejlighed,Vestergade 1F,5400, Bogense,900000 ,24-10-1996,Alm. Salg,94,9574.0,4,1885,
-480,Ejerlejlighed,"Vestergade 1D, 1",5400, Bogense,900000 ,24-10-1996,Alm. Salg,49,18367.0,2,1885,
-480,Ejerlejlighed,Vestergade 1E,5400, Bogense,900000 ,24-10-1996,Alm. Salg,95,9474.0,4,1885,
-480,Ejerlejlighed,Vestergade 3,5400, Bogense,900000 ,24-10-1996,Alm. Salg,97,9278.0,3,1885,
 480,Villa,Maderupvej 78,5471, Søndersø,213000 ,24-10-1996,Alm. Salg,84,2536.0,3,1852,
 480,Villa,Kirsebærlunden 16,5471, Søndersø,881746 ,24-10-1996,Alm. Salg,143,6166.0,7,1972,
 480,Villa,Tokkendrup 41,5450, Otterup,400000 ,24-10-1996,Alm. Salg,157,2548.0,6,1948,
@@ -12440,7 +12276,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Rækkehus,Edelkær 26,5471, Søndersø,539346 ,20-10-1996,Alm. Salg,88,6129.0,4,1987,
 480,Ejerlejlighed,Torvet 31,5400, Bogense,610000 ,20-10-1996,Alm. Salg,113,5398.0,4,1870,
 480,Villa,Stormarken 67,5471, Søndersø,126137 ,20-10-1996,Alm. Salg,120,1051.0,4,2006,
-480,Villa,"Odensevej 46, 1",5471, Søndersø,498000 ,20-10-1996,Alm. Salg,90,5533.0,4,1890,
 480,Villa,Marbækvej 24,5450, Otterup,582500 ,20-10-1996,Alm. Salg,219,2660.0,8,1890,
 480,Villa,Mosegravene 10,5471, Søndersø,479609 ,19-10-1996,Alm. Salg,214,2241.0,8,1870,
 480,Rækkehus,Havreløkken 9,5450, Otterup,595000 ,16-10-1996,Alm. Salg,100,5950.0,3,1973,
@@ -12782,9 +12617,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Skebyvej 23,5450, Otterup,369000 ,22-04-1996,Fam. Salg,238,1550.0,6,1936,
 480,Villa,Slevstrupvej 29,5450, Otterup,180000 ,21-04-1996,Alm. Salg,158,1139.0,5,1800,
 480,Villa,Bårdesøvej 45,5450, Otterup,375000 ,21-04-1996,Alm. Salg,134,2799.0,6,1961,
-480,Ejerlejlighed,"Langebyende 8, 1",5471, Søndersø,191550 ,18-04-1996,Andet,150,1277.0,3,1927,
 480,Villa,Fremmelev 3,5450, Otterup,900000 ,18-04-1996,Alm. Salg,236,3814.0,6,1965,
-480,Villa,"Langebyende 8, st",5471, Søndersø,191550 ,18-04-1996,Andet,230,833.0,6,1927,
 480,Rækkehus,Mejerivej 4,5471, Søndersø,470000 ,17-04-1996,Alm. Salg,118,3983.0,3,1892,
 480,Villa,Rosenlunden 19,5471, Søndersø,750000 ,16-04-1996,Alm. Salg,142,5282.0,5,1974,
 480,Villa,Rødeled 1,5400, Bogense,215000 ,15-04-1996,Alm. Salg,216,995.0,8,1939,
@@ -12929,13 +12762,11 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Flytterupgyden 58A,5471, Søndersø,965000 ,24-01-1996,Alm. Salg,164,5884.0,3,1986,
 480,Rækkehus,Svelvikparken 11,5400, Bogense,404829 ,21-01-1996,Alm. Salg,86,4707.0,2,1980,
 480,Rækkehus,Egevej 5,5400, Bogense,344000 ,21-01-1996,Alm. Salg,86,4000.0,4,1964,
-480,Rækkehus,Sjællandsvej 1A,5400, Bogense,217173 ,21-01-1996,Alm. Salg,42,5171.0,2,1979,
 480,Ejerlejlighed,"Adelgade 84, 1",5400, Bogense,487778 ,21-01-1996,Alm. Salg,131,3723.0,4,1961,
 480,Ejerlejlighed,Odensevej 37,5400, Bogense,450000 ,21-01-1996,Alm. Salg,118,3814.0,4,1905,
 480,Villa,Guldbjergvej 50,5400, Bogense,325000 ,21-01-1996,Alm. Salg,66,4924.0,6,1948,
 480,Villa,Huggetvej 65,5400, Bogense,400000 ,21-01-1996,Alm. Salg,130,3077.0,6,1912,
 480,Villa,Bodøparken 1,5400, Bogense,50562 ,21-01-1996,Alm. Salg,144,351.0,5,1996,
-480,Villa,Sjællandsvej 1B,5400, Bogense,217173 ,21-01-1996,Alm. Salg,120,1810.0,4,1979,
 480,Villa,Harritslevvej 41,5400, Bogense,198500 ,21-01-1996,Alm. Salg,110,1805.0,4,2014,
 480,Villa,Skovbrovej 14,5400, Bogense,366040 ,21-01-1996,Alm. Salg,160,2288.0,3,1930,
 480,Villa,Jerstrupvej 56,5400, Bogense,236234 ,21-01-1996,Andet,156,1514.0,4,1993,
@@ -13012,9 +12843,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Kosterslevhuse 21,5471, Søndersø,160000 ,10-12-1995,Alm. Salg,158,1013.0,5,2000,
 480,Villa,Hestehaven 6,5400, Bogense,50000 ,10-12-1995,Fam. Salg,124,403.0,4,2002,
 480,Villa,Grusgyden 43,5450, Otterup,585000 ,10-12-1995,Alm. Salg,130,4500.0,6,1775,
-480,Rækkehus,Rugårdsvej 759A,5462, Morud,238000 ,08-12-1995,Fam. Salg,79,3013.0,2,1910,
 480,Villa,Smedevej 11,5450, Otterup,660000 ,08-12-1995,Alm. Salg,128,5156.0,5,1976,
-480,Villa,Rugårdsvej 759,5462, Morud,238000 ,08-12-1995,Fam. Salg,120,1983.0,5,1910,
 480,Villa,Holmevej 45,5471, Søndersø,800000 ,07-12-1995,Alm. Salg,243,3292.0,7,1926,
 480,Villa,Bredbjergvej 128,5462, Morud,1030000 ,07-12-1995,Alm. Salg,260,3962.0,7,1877,
 480,Ejerlejlighed,Oslovej 44,5400, Bogense,471000 ,06-12-1995,Alm. Salg,123,3829.0,5,1986,
@@ -13301,13 +13130,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Lillebro 40,5450, Otterup,190000 ,26-06-1995,Alm. Salg,164,1159.0,5,1904,
 480,Villa,Maderupvej 11,5471, Søndersø,388400 ,25-06-1995,Alm. Salg,98,3963.0,3,1971,
 480,Villa,Skåstrupvej 45,5400, Bogense,640000 ,25-06-1995,Alm. Salg,250,2560.0,8,1852,
-480,Rækkehus,Bladstrupvej 338A,5450, Otterup,486880 ,22-06-1995,Alm. Salg,84,5796.0,2,1850,
-480,Villa,Bladstrupvej 338,5450, Otterup,486880 ,22-06-1995,Alm. Salg,191,2549.0,8,1850,
 480,Villa,Rugårdsvej 722,5462, Morud,528292 ,22-06-1995,Alm. Salg,123,4295.0,5,1947,
 480,Villa,Plantagevej 22,5450, Otterup,775000 ,22-06-1995,Alm. Salg,133,5827.0,5,1963,
-480,Rækkehus,Sjællandsvej 1A,5400, Bogense,280000 ,21-06-1995,Alm. Salg,42,6667.0,2,1979,
 480,Villa,Blæsbjergvej 36,5462, Morud,332758 ,21-06-1995,Alm. Salg,184,1808.0,6,1910,
-480,Villa,Sjællandsvej 1B,5400, Bogense,280000 ,21-06-1995,Alm. Salg,120,2333.0,4,1979,
 480,Villa,Pilevangen 9,5450, Otterup,371815 ,21-06-1995,Andet,199,1868.0,6,1976,
 480,Villa,Øster Lundevej 35,5450, Otterup,599000 ,21-06-1995,Alm. Salg,131,4573.0,4,1930,
 480,Villa,Bøgegårdsvej 62,5471, Søndersø,926060 ,21-06-1995,Alm. Salg,153,6053.0,4,1979,
@@ -13854,13 +13679,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Skebyvej 30,5450, Otterup,615000 ,06-07-1994,Alm. Salg,226,2721.0,5,1872,
 480,Villa,Lunde Bygade 126,5450, Otterup,377000 ,06-07-1994,Alm. Salg,96,3927.0,4,1955,
 480,Villa,Ullemarken 8,5400, Bogense,220000 ,05-07-1994,Alm. Salg,242,909.0,7,1995,
-480,Ejerlejlighed,"Østergade 22, 1",5400, Bogense,720000 ,04-07-1994,Alm. Salg,140,5143.0,3,1900,
-480,Ejerlejlighed,"Østergade 22, st",5400, Bogense,720000 ,04-07-1994,Alm. Salg,75,9600.0,2,1900,
-480,Ejerlejlighed,"Østergade 22, 2",5400, Bogense,720000 ,04-07-1994,Alm. Salg,101,7129.0,4,1900,
 480,Ejerlejlighed,"Stadionvej 27, st. 7",5450, Otterup,129599 ,04-07-1994,Alm. Salg,56,2314.0,2,1970,
-480,Ejerlejlighed,Skovvej 6B,5400, Bogense,720000 ,04-07-1994,Alm. Salg,64,11250.0,2,1900,
-480,Ejerlejlighed,Skovvej 6D,5400, Bogense,720000 ,04-07-1994,Alm. Salg,86,8372.0,3,1900,
-480,Ejerlejlighed,Skovvej 6E,5400, Bogense,720000 ,04-07-1994,Alm. Salg,53,13585.0,2,1900,
 480,Villa,Vestergade 43,5471, Søndersø,615000 ,04-07-1994,Alm. Salg,207,2971.0,7,1912,
 480,Villa,Egebakken 4,5462, Morud,595000 ,04-07-1994,Alm. Salg,214,2780.0,5,1970,
 480,Villa,Østerballevej 57,5450, Otterup,640000 ,04-07-1994,Alm. Salg,175,3657.0,7,1860,
@@ -13960,7 +13779,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Havrekær 13,5474, Veflinge,200000 ,02-05-1994,Alm. Salg,79,2532.0,4,1947,
 480,Rækkehus,Jernbanegade 6,5450, Otterup,388000 ,01-05-1994,Alm. Salg,141,2752.0,4,1900,
 480,Villa,Ørritslevvej 16,5471, Søndersø,495000 ,01-05-1994,Alm. Salg,322,1537.0,8,1942,
-480,Villa,Adelgade 22C,5400, Bogense,775000 ,01-05-1994,Alm. Salg,63,12302.0,2,1990,
 480,Villa,Egeløkkevej 30,5450, Otterup,600000 ,30-04-1994,Alm. Salg,266,2256.0,8,1925,
 480,Villa,Dallundvej 23,5471, Søndersø,497000 ,28-04-1994,Alm. Salg,174,2856.0,5,1948,
 480,Villa,Søndergade 26,5450, Otterup,910000 ,27-04-1994,Alm. Salg,231,3939.0,9,1907,
@@ -13975,11 +13793,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Ejerlejlighed,Adelgade 119,5400, Bogense,390000 ,24-04-1994,Alm. Salg,154,2532.0,8,1877,
 480,Ejerlejlighed,Torvet 26,5400, Bogense,340000 ,24-04-1994,Fam. Salg,127,2677.0,4,1850,
 480,Ejerlejlighed,Kirkestræde 17,5400, Bogense,395000 ,24-04-1994,Alm. Salg,96,4115.0,4,1900,
-480,Ejerlejlighed,"Langebyende 8, 1",5471, Søndersø,226000 ,24-04-1994,Auktion,150,1507.0,3,1927,
 480,Villa,Hyggevænget 5,5400, Bogense,246875 ,24-04-1994,Fam. Salg,148,1668.0,3,1966,
 480,Villa,Overballe 11,5400, Bogense,335000 ,24-04-1994,Alm. Salg,108,3102.0,2,1780,
 480,Villa,Smørvråvej 4,5462, Morud,519065 ,24-04-1994,Alm. Salg,200,2595.0,7,1970,
-480,Villa,"Langebyende 8, st",5471, Søndersø,226000 ,24-04-1994,Auktion,230,983.0,6,1927,
 480,Villa,Bøgegårdsvej 66,5471, Søndersø,950000 ,21-04-1994,Alm. Salg,195,4872.0,5,1979,
 480,Villa,Møllevej 39,5471, Søndersø,375000 ,21-04-1994,Alm. Salg,92,4076.0,4,1900,
 480,Villa,Plantagevej 41,5462, Morud,979000 ,21-04-1994,Alm. Salg,152,6441.0,7,1986,
@@ -14220,12 +14036,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Rækkehus,Bergenparken 20,5400, Bogense,530000 ,14-11-1993,Alm. Salg,120,4417.0,4,1987,
 480,Rækkehus,Gyldensteensvej 47,5400, Bogense,250000 ,14-11-1993,Alm. Salg,119,2101.0,3,1949,
 480,Ejerlejlighed,"Adelgade 84, 1",5400, Bogense,272000 ,14-11-1993,Auktion,131,2076.0,4,1961,
-480,Ejerlejlighed,"Østergade 22, 1",5400, Bogense,606000 ,14-11-1993,Auktion,140,4329.0,3,1900,
-480,Ejerlejlighed,"Østergade 22, st",5400, Bogense,606000 ,14-11-1993,Auktion,75,8080.0,2,1900,
-480,Ejerlejlighed,"Østergade 22, 2",5400, Bogense,606000 ,14-11-1993,Auktion,101,6000.0,4,1900,
-480,Ejerlejlighed,Skovvej 6B,5400, Bogense,606000 ,14-11-1993,Auktion,64,9469.0,2,1900,
-480,Ejerlejlighed,Skovvej 6D,5400, Bogense,606000 ,14-11-1993,Auktion,86,7047.0,3,1900,
-480,Ejerlejlighed,Skovvej 6E,5400, Bogense,606000 ,14-11-1993,Auktion,53,11434.0,2,1900,
 480,Ejerlejlighed,Odensevej 59,5400, Bogense,119500 ,14-11-1993,Alm. Salg,100,1195.0,5,1907,
 480,Villa,Bladstrupvej 1,5400, Bogense,240000 ,14-11-1993,Alm. Salg,174,1379.0,5,1932,
 480,Villa,Skærvej 9,5400, Bogense,220000 ,14-11-1993,Alm. Salg,127,1732.0,5,1877,
@@ -14255,10 +14065,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Havrehed 6,5462, Morud,707451 ,30-10-1993,Alm. Salg,125,5660.0,5,1961,
 480,Villa,Langelinie 18,5450, Otterup,240000 ,29-10-1993,Alm. Salg,165,1455.0,4,1910,
 480,Villa,Skovvej 10,5400, Bogense,250000 ,29-10-1993,Alm. Salg,139,1799.0,4,1897,
-480,Ejerlejlighed,"Langebyende 8, 1",5471, Søndersø,390000 ,28-10-1993,Alm. Salg,150,2600.0,3,1927,
 480,Villa,Solsiden 23,5474, Veflinge,207917 ,28-10-1993,Andet,133,1563.0,4,1975,
 480,Villa,Tøvlidtvej 70,5471, Søndersø,222000 ,28-10-1993,Alm. Salg,68,3265.0,3,1951,
-480,Villa,"Langebyende 8, st",5471, Søndersø,390000 ,28-10-1993,Alm. Salg,230,1696.0,6,1927,
 480,Villa,Skærvej 21,5400, Bogense,140000 ,27-10-1993,Alm. Salg,156,897.0,4,1877,
 480,Villa,Bredgade 78,5485, Skamby,450000 ,27-10-1993,Fam. Salg,162,2778.0,5,1939,
 480,Villa,Norupvej 101,5450, Otterup,335000 ,27-10-1993,Alm. Salg,112,2991.0,4,1967,
@@ -14451,7 +14259,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Ejlskovvej 53,5471, Søndersø,335000 ,17-06-1993,Alm. Salg,211,1588.0,3,1900,
 480,Villa,Strandvejen 15,5450, Otterup,300000 ,17-06-1993,Fam. Salg,83,3614.0,3,1955,
 480,Villa,Bladstrupvej 68,5400, Bogense,257000 ,16-06-1993,Auktion,76,3382.0,3,1957,
-480,Villa,Vestergade 1A,5450, Otterup,725000 ,16-06-1993,Alm. Salg,120,6042.0,6,1953,
 480,Villa,Vestergade 14,5450, Otterup,376000 ,16-06-1993,Alm. Salg,72,5222.0,3,1959,
 480,Villa,Kosterslevvej 73,5471, Søndersø,375000 ,16-06-1993,Alm. Salg,125,3000.0,4,1870,
 480,Villa,Morbærhaven 21,5450, Otterup,171700 ,15-06-1993,Alm. Salg,158,1087.0,5,1993,
@@ -14530,8 +14337,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Frigårdsvej 12,5471, Søndersø,285000 ,02-05-1993,Alm. Salg,146,1952.0,5,1928,
 480,Villa,Horsebækvej 63,5450, Otterup,355000 ,29-04-1993,Alm. Salg,199,1784.0,5,1923,
 480,Villa,Farstrupvej 49,5471, Søndersø,330000 ,29-04-1993,Alm. Salg,158,2089.0,4,2017,
-480,Ejerlejlighed,Odensevej 30B,5471, Søndersø,250000 ,28-04-1993,Alm. Salg,62,4032.0,3,1928,
-480,Villa,Odensevej 30C,5471, Søndersø,250000 ,28-04-1993,Alm. Salg,67,3731.0,3,1960,
 480,Villa,Langelinie 14,5450, Otterup,634700 ,27-04-1993,Alm. Salg,163,3894.0,6,1926,
 480,Villa,Valmuevej 7,5400, Bogense,625000 ,27-04-1993,Alm. Salg,142,4401.0,4,1972,
 480,Villa,Elmevej 38,5450, Otterup,530000 ,27-04-1993,Auktion,128,4141.0,4,1969,
@@ -14572,7 +14377,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Lindegårdsvej 25,5450, Otterup,650000 ,25-03-1993,Alm. Salg,157,4140.0,7,1980,
 480,Rækkehus,Løkkehøj 21C,5471, Søndersø,315000 ,24-03-1993,Alm. Salg,87,3621.0,3,1976,
 480,Villa,Hjadstrupvej 18,5450, Otterup,21450 ,23-03-1993,Alm. Salg,122,176.0,4,1900,
-480,Villa,Møllevej 63C,5450, Otterup,228033 ,23-03-1993,Fam. Salg,57,4001.0,2,1930,
 480,Villa,Skærvej 42,5400, Bogense,275000 ,21-03-1993,Alm. Salg,143,1923.0,6,1914,
 480,Villa,Kosterslevvej 3,5471, Søndersø,160000 ,19-03-1993,Alm. Salg,211,758.0,7,1883,
 480,Villa,Ølundgyden 38,5450, Otterup,125000 ,17-03-1993,Alm. Salg,232,539.0,7,1875,
@@ -14810,7 +14614,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Rækkehus,Skovmærkevej 11,5400, Bogense,381950 ,16-08-1992,Alm. Salg,88,4340.0,4,1961,
 480,Rækkehus,Adelgade 17,5400, Bogense,310000 ,16-08-1992,Alm. Salg,83,3735.0,3,1914,
 480,Rækkehus,Skovmærkevej 3,5400, Bogense,330000 ,16-08-1992,Alm. Salg,76,3333.0,4,1961,
-480,Ejerlejlighed,Kirkestræde 7,5400, Bogense,250000 ,16-08-1992,Alm. Salg,151,1656.0,4,1827,
 480,Ejerlejlighed,Æbeløgade 6,5400, Bogense,750000 ,16-08-1992,Alm. Salg,185,4054.0,8,1918,
 480,Villa,Kolshave 4,5400, Bogense,391000 ,16-08-1992,Alm. Salg,248,1577.0,5,1800,
 480,Villa,Oregårdvej 50,5400, Bogense,364000 ,16-08-1992,Auktion,151,2411.0,6,1950,
@@ -14825,7 +14628,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Skovbrovej 8,5400, Bogense,276950 ,16-08-1992,Alm. Salg,90,3077.0,5,1906,
 480,Villa,Mejlskovvej 32,5400, Bogense,326000 ,16-08-1992,Alm. Salg,78,4179.0,5,1933,
 480,Villa,Rolighedsvej 8,5400, Bogense,560000 ,16-08-1992,Alm. Salg,210,2667.0,8,1950,
-480,Villa,Idyllendal 13,5400, Bogense,250000 ,16-08-1992,Alm. Salg,133,1880.0,4,1943,
 480,Villa,Bøgevej 16,5400, Bogense,466000 ,16-08-1992,Alm. Salg,159,2931.0,6,1963,
 480,Villa,Melbyvej 5,5400, Bogense,495850 ,16-08-1992,Alm. Salg,191,2596.0,5,1880,
 480,Villa,Kælebro 21,5400, Bogense,280000 ,16-08-1992,Alm. Salg,145,1931.0,6,1877,
@@ -15062,10 +14864,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Grusgyden 15,5450, Otterup,270000 ,18-03-1992,Alm. Salg,171,1579.0,6,1874,
 480,Villa,Bredbjergvej 40,5462, Morud,185000 ,17-03-1992,Alm. Salg,150,1233.0,5,1992,
 480,Villa,Lillevænget 2,5474, Veflinge,666885 ,16-03-1992,Fam. Salg,307,2172.0,7,1979,
-480,Rækkehus,Odensevej 15,5400, Bogense,350000 ,15-03-1992,Fam. Salg,111,3153.0,6,1908,
 480,Rækkehus,Gl. Toldbodvej 10,5400, Bogense,290000 ,15-03-1992,Fam. Salg,123,2358.0,5,1912,
-480,Ejerlejlighed,"Adelgade 75, 1",5400, Bogense,350000 ,15-03-1992,Alm. Salg,134,2612.0,4,1800,
-480,Ejerlejlighed,Østergade 26,5400, Bogense,275000 ,15-03-1992,Alm. Salg,160,1719.0,8,1900,
 480,Ejerlejlighed,Odensevej 63,5400, Bogense,325000 ,15-03-1992,Alm. Salg,90,3611.0,5,1912,
 480,Villa,Æbeløgade 20,5400, Bogense,370000 ,15-03-1992,Alm. Salg,179,2067.0,7,1950,
 480,Villa,Møllerled 51,5400, Bogense,98778 ,15-03-1992,Alm. Salg,120,823.0,6,1877,
@@ -15077,7 +14876,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 480,Villa,Tværskovvej 29,5462, Morud,160000 ,15-03-1992,Alm. Salg,162,988.0,6,1995,
 480,Villa,Gyldensteensvej 148,5400, Bogense,510000 ,15-03-1992,Alm. Salg,269,1896.0,10,1934,
 480,Villa,Skovbrovej 19,5400, Bogense,437000 ,15-03-1992,Alm. Salg,107,4084.0,4,1931,
-480,Villa,Østergade 26,5400, Bogense,275000 ,15-03-1992,Alm. Salg,88,3125.0,2,1900,
 480,Villa,Platanvej 2,5400, Bogense,615000 ,15-03-1992,Alm. Salg,153,4020.0,6,1971,
 480,Villa,Skåstrupvej 41,5400, Bogense,675000 ,15-03-1992,Alm. Salg,264,2557.0,7,1850,
 480,Villa,Middelfartvej 154,5400, Bogense,250000 ,15-03-1992,Alm. Salg,139,1799.0,5,1923,

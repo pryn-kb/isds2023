@@ -1,9 +1,7 @@
 municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,type_of_sale,square_meters,square_meters_price,rooms,year_of_construction,The percentage difference between the latest bid price and the sale price
 230,Ejerlejlighed,"Rundforbivej 265, 1. e",2850, Nærum,1450000 ,28-12-2022,Alm. Salg,72,20139,2,1965,-14%
 230,Villa,Bueager 33,2950, Vedbæk,4485000 ,28-12-2022,Alm. Salg,130,34500,5,1968,
-230,Ejerlejlighed,"Nærum Hovedgade 15, 3. tv-d",2850, Nærum,1550000 ,22-12-2022,Alm. Salg,75,20667,3,1968,
 230,Villa,Damgårdsvej 68,3460, Birkerød,7850000 ,22-12-2022,Alm. Salg,162,48457,6,1960,-2%
-230,Villa,Svalegabet 12,2850, Nærum,1550000 ,22-12-2022,Fam. Salg,181,8564,6,1917,
 230,Villa,Toftebjergvej 34,2970, Hørsholm,3250000 ,21-12-2022,Fam. Salg,150,21667,5,2022,
 230,Ejerlejlighed,"Søllerød Park 12, 1. 23",2840, Holte,3100000 ,20-12-2022,Alm. Salg,102,30392,4,1956,-22%
 230,Ejerlejlighed,"Geelskovparken 52, st. mf",2830, Virum,2150000 ,19-12-2022,Alm. Salg,61,35246,2,1972,-14%
@@ -70,7 +68,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 230,Ejerlejlighed,"Skodsborgvej 338, st. th",2850, Nærum,2750000 ,14-11-2022,Alm. Salg,83,33133,4,1951,
 230,Villa,Stenløkken 75,3460, Birkerød,4650000 ,14-11-2022,Alm. Salg,96,48438,3,1984,-10%
 230,Villa,Parcelvej 44,2840, Holte,10750000 ,13-11-2022,Andet,235,45745,7,1957,
-230,Villa,Fyrrebakken 9,3460, Birkerød,12900000 ,13-11-2022,Alm. Salg,234,55128,6,2011,-1%
 230,Ejerlejlighed,"Søllerød Park 13, 1. 20",2840, Holte,2500000 ,10-11-2022,Alm. Salg,88,28409,3,1956,-17%
 230,Ejerlejlighed,"Geelskovparken 6, 1. mf",2830, Virum,2360000 ,10-11-2022,Alm. Salg,61,38689,2,1972,-9%
 230,Rækkehus,Hegnsvej 117,2850, Nærum,4900000 ,09-11-2022,Alm. Salg,106,46226,5,1955,-4%
@@ -83,7 +80,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 230,Ejerlejlighed,"Vejlesøparken 7, 4. th",2840, Holte,4500000 ,04-11-2022,Alm. Salg,126,35714,5,1973,-10%
 230,Villa,Borgm.Schneiders Vej 57,2840, Holte,5210000 ,04-11-2022,Alm. Salg,114,45702,4,1962,-3%
 230,Villa,Elmevej 16,2840, Holte,5995000 ,03-11-2022,Alm. Salg,169,35473,5,1933,
-230,Ejerlejlighed,"Søllerød Park 4, st. 4",2840, Holte,5500000 ,02-11-2022,Alm. Salg,100,55000,4,1956,-3%
 230,Villa,Storevang 48,3460, Birkerød,8575000 ,02-11-2022,Alm. Salg,256,33496,6,1967,-4%
 230,Rækkehus,Kajerødgård 16,3460, Birkerød,4300000 ,01-11-2022,Alm. Salg,105,40952,4,1983,
 230,Ejerlejlighed,"Søllerød Park 15, st. 1",2840, Holte,6300000 ,01-11-2022,Alm. Salg,116,54310,4,1956,
@@ -153,7 +149,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 230,Rækkehus,Frederikslundsvej 3A,2840, Holte,5237500 ,19-09-2022,Alm. Salg,100,52375,4,1917,-4%
 230,Ejerlejlighed,"Nærum Hovedgade 15, 2. tv-f",2850, Nærum,2000000 ,19-09-2022,Alm. Salg,78,25641,3,1968,-7%
 230,Ejerlejlighed,"Nærum Hovedgade 15, 2. tv-e",2850, Nærum,1895000 ,19-09-2022,Alm. Salg,75,25267,3,1968,
-230,Villa,Sandbjergvej 25,2970, Hørsholm,7000000 ,19-09-2022,Alm. Salg,127,55118,3,2018,-12%
 230,Villa,Langkærgårdsvej 43,3460, Birkerød,4200000 ,19-09-2022,Alm. Salg,127,33071,4,1958,-7%
 230,Villa,Paradisbakken 19,2840, Holte,7100000 ,18-09-2022,Alm. Salg,142,50000,5,1958,
 230,Villa,Tofteåsen 18,2840, Holte,6300000 ,17-09-2022,Alm. Salg,167,37725,4,1970,-3%
@@ -210,7 +205,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 230,Ejerlejlighed,"Vejlesøparken 1, 4. 420",2840, Holte,1900000 ,02-08-2022,Alm. Salg,64,29688,2,1973,-5%
 230,Villa,Solbjærget 37,3460, Birkerød,5995000 ,01-08-2022,Alm. Salg,128,46836,4,1952,
 230,Villa,Frydenlund Park 38,2950, Vedbæk,4000000 ,01-08-2022,Alm. Salg,162,24691,6,1995,
-230,Villa,Kaj Munks Vej 7,3460, Birkerød,9000000 ,01-08-2022,Alm. Salg,163,55215,5,2010,
 230,Villa,Havrevænget 17,2840, Holte,12250000 ,28-07-2022,Andet,264,46402,10,1970,
 230,Ejerlejlighed,"Skodsborg Strandvej 155A, 1. th",2942, Skodsborg,2710000 ,26-07-2022,Alm. Salg,57,47544,2,1935,-1%
 230,Villa,Colbjørnsensvej 6,2850, Nærum,7650000 ,26-07-2022,Alm. Salg,141,54255,6,1940,
@@ -458,7 +452,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 230,Villa,Hørsholm Kongevej 34,2970, Hørsholm,5000000 ,06-03-2022,Alm. Salg,180,25000,8,1947,
 230,Ejerlejlighed,"Søllerød Park 17, 1. 18",2840, Holte,2625000 ,05-03-2022,Alm. Salg,88,29830,3,1956,-5%
 230,Rækkehus,Krogholmgårdsvej 31,2950, Vedbæk,4800000 ,04-03-2022,Alm. Salg,90,53333,4,1957,-4%
-230,Ejerlejlighed,"Vejlesøparken 4, 1. tv",2840, Holte,10000000 ,04-03-2022,Alm. Salg,181,55249,5,1973,
 230,Ejerlejlighed,"Birkerød Parkvej 26, 2. 66",3460, Birkerød,1585000 ,03-03-2022,Alm. Salg,54,29352,2,1960,-1%
 230,Villa,Nordvangsparken 16,3460, Birkerød,6005016 ,02-03-2022,Alm. Salg,150,40033,5,1966,0%
 230,Ejerlejlighed,"Langebjerg 22, 4. mf",2850, Nærum,2850000 ,01-03-2022,Alm. Salg,69,41304,2,1968,
@@ -573,7 +566,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 230,Villa,Fagerhøjvænge 5,2950, Vedbæk,13700000 ,09-01-2022,Alm. Salg,265,51698,5,1976,-2%
 230,Villa,Attemosevej 5,2840, Holte,6400000 ,08-01-2022,Alm. Salg,126,50794,5,1949,-6%
 230,Villa,Bakkefaldet 44,2840, Holte,1000000 ,06-01-2022,Andet,172,5814,4,1969,
-230,Villa,Holmevej 2A,2950, Vedbæk,8950000 ,06-01-2022,Alm. Salg,163,54908,5,1980,-1%
 230,Rækkehus,Råvænget 7,3460, Birkerød,1375000 ,05-01-2022,Fam. Salg,110,12500,4,2006,
 230,Rækkehus,Ellesvinget 40,2950, Vedbæk,5500000 ,05-01-2022,Alm. Salg,150,36667,5,1970,-8%
 230,Ejerlejlighed,"Østre Paradisvej 5A, 2. tv",2840, Holte,1780000 ,05-01-2022,Alm. Salg,67,26567,2,1972,-2%
@@ -883,7 +875,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 230,Rækkehus,Gærdet 14,3460, Birkerød,5800000 ,24-08-2021,Alm. Salg,110,52727,5,1955,-3%
 230,Villa,Væverholm 7,2970, Hørsholm,5195000 ,24-08-2021,Alm. Salg,189,27487,6,1955,
 230,Villa,Gammel Holtevej 104A,2840, Holte,9550000 ,24-08-2021,Alm. Salg,247,38664,5,1971,-5%
-230,Rækkehus,Haugesundvej 46,2850, Nærum,5999999 ,23-08-2021,Alm. Salg,109,55046,4,1968,
 230,Villa,Marievej 18,2950, Vedbæk,4704000 ,23-08-2021,Fam. Salg,163,28859,6,1900,
 230,Rækkehus,Ørnebakken 54,2840, Holte,6495000 ,22-08-2021,Alm. Salg,150,43300,5,1971,
 230,Ejerlejlighed,"Kirkeåsen 39, st. th",2850, Nærum,2300000 ,22-08-2021,Alm. Salg,55,41818,1,1961,10%
@@ -942,8 +933,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 230,Ejerlejlighed,"Skodsborgvej 328, 1. th",2850, Nærum,3095000 ,22-07-2021,Alm. Salg,103,30049,4,1952,
 230,Villa,Havesvinget 13,2950, Vedbæk,365000 ,22-07-2021,Alm. Salg,118,3093,5,1960,
 230,Ejerlejlighed,"Christianslund 40, st. tv",3460, Birkerød,4345000 ,21-07-2021,Alm. Salg,101,43020,4,2005,
-230,Villa,Østre Paradisvej 63,2840, Holte,8725000 ,21-07-2021,Alm. Salg,159,54874,4,1965,
-230,Villa,Malmmosevej 37,2840, Holte,8750000 ,20-07-2021,Alm. Salg,159,55031,4,1955,-3%
 230,Villa,Traneholmen 17,3460, Birkerød,6950000 ,20-07-2021,Alm. Salg,159,43711,5,1971,
 230,Rækkehus,Grøndalsvej 7S,3460, Birkerød,5405000 ,19-07-2021,Alm. Salg,130,41577,4,2020,-2%
 230,Ejerlejlighed,"Vejlesøparken 1, 3. 311",2840, Holte,977500 ,19-07-2021,Fam. Salg,64,15273,2,1973,
@@ -956,7 +945,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 230,Ejerlejlighed,"Søllerød Park 16, 1. 9",2840, Holte,3900000 ,15-07-2021,Alm. Salg,105,37143,4,1956,-1%
 230,Ejerlejlighed,"Søllerød Park 4, st. 2",2840, Holte,2701000 ,15-07-2021,Alm. Salg,74,36500,2,1956,
 230,Ejerlejlighed,"Skodsborgvej 308, 1. tv",2850, Nærum,2215000 ,15-07-2021,Alm. Salg,76,29145,3,1953,-3%
-230,Villa,Paradishegnet 25,2840, Holte,10125000 ,15-07-2021,Alm. Salg,184,55027,5,1958,
 230,Villa,Højleddet 23,2840, Holte,8455000 ,15-07-2021,Alm. Salg,182,46456,5,1973,-6%
 230,Villa,Højleddet 56,2840, Holte,5825000 ,15-07-2021,Alm. Salg,146,39897,5,1970,-3%
 230,Villa,Rammetoften 15,2950, Vedbæk,4150000 ,15-07-2021,Alm. Salg,200,20750,5,1964,
@@ -1105,7 +1093,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 230,Rækkehus,Keilstruplund 81,3460, Birkerød,4105000 ,20-05-2021,Alm. Salg,132,31098,4,1965,3%
 230,Ejerlejlighed,"Langebjerg 10, 3. mf",2850, Nærum,2000000 ,20-05-2021,Alm. Salg,69,28986,2,1968,-9%
 230,Ejerlejlighed,Bistrup Park 3,3460, Birkerød,2145000 ,20-05-2021,Alm. Salg,72,29792,3,1960,2%
-230,Villa,Højbjerg Vang 3,2840, Holte,7850000 ,20-05-2021,Alm. Salg,143,54895,5,1987,-2%
 230,Villa,Holmager 10,2970, Hørsholm,3750000 ,20-05-2021,Fam. Salg,189,19841,5,1997,
 230,Villa,Skovvang 4,3460, Birkerød,5850000 ,20-05-2021,Alm. Salg,107,54673,4,1967,-2%
 230,Villa,Granbakken 4,3460, Birkerød,6505000 ,20-05-2021,Alm. Salg,160,40656,6,1956,9%
@@ -1192,8 +1179,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 230,Villa,Øverødvej 47B,2840, Holte,7000000 ,25-04-2021,Alm. Salg,132,53030,4,1985,0%
 230,Villa,Vestre Paradisvej 2,2840, Holte,9850000 ,25-04-2021,Alm. Salg,204,48284,8,1900,-1%
 230,Villa,Skovgårdsvej 18,3460, Birkerød,8223000 ,25-04-2021,Alm. Salg,168,48946,4,1939,10%
-230,Ejerlejlighed,"Øverødvej 98, 1",2840, Holte,2795000 ,24-04-2021,Alm. Salg,79,35380,3,1929,
-230,Ejerlejlighed,"Søllerød Park 19, st. 7",2840, Holte,2795000 ,24-04-2021,Alm. Salg,75,37267,2,1956,
 230,Villa,P M Møllers Vej 11,3460, Birkerød,8005000 ,24-04-2021,Alm. Salg,177,45226,6,2006,0%
 230,Villa,Aggershvile Alle 16,2942, Skodsborg,7360000 ,24-04-2021,Alm. Salg,156,47179,7,1785,
 230,Villa,Borgm.Schneiders Vej 69,2840, Holte,7400000 ,24-04-2021,Alm. Salg,140,52857,6,1962,
@@ -1281,7 +1266,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 230,Villa,Vestre Paradisvej 130,2840, Holte,10700000 ,05-04-2021,Alm. Salg,220,48636,4,1997,-3%
 230,Villa,Paradisstien 1,2840, Holte,6750000 ,05-04-2021,Alm. Salg,235,28723,8,2023,4%
 230,Ejerlejlighed,"Skodsborg Strandvej 217, st. th",2942, Skodsborg,1650000 ,04-04-2021,Fam. Salg,102,16176,4,1890,
-230,Villa,Frederikslundsvej 20,2840, Holte,9000000 ,04-04-2021,Alm. Salg,432,20833,11,1860,-10%
 230,Villa,Solbjærgsvinget 5,3460, Birkerød,5900000 ,03-04-2021,Alm. Salg,154,38312,6,1967,-2%
 230,Villa,Gammel Holtevej 56,2840, Holte,11500000 ,02-04-2021,Alm. Salg,241,47718,5,1974,
 230,Rækkehus,Solbakken 49,2840, Holte,7400000 ,01-04-2021,Alm. Salg,168,44048,5,1956,
@@ -1432,7 +1416,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 230,Villa,Gammel Holtevej 127,2840, Holte,7200000 ,21-02-2021,Alm. Salg,222,32432,8,1981,-1%
 230,Villa,Stenhøjgårdsvej 19,3460, Birkerød,3818000 ,21-02-2021,Alm. Salg,180,21211,7,2022,-4%
 230,Villa,Vejdammen 79,2840, Holte,4600000 ,21-02-2021,Alm. Salg,173,26590,5,1977,-2%
-230,Villa,Kastanietoften 3,2950, Vedbæk,8800000 ,19-02-2021,Alm. Salg,160,55000,6,1905,
 230,Villa,Østre Paradisvej 23B,2840, Holte,9495000 ,19-02-2021,Alm. Salg,178,53343,8,1919,
 230,Villa,Morlenesvej 7,2840, Holte,8500000 ,19-02-2021,Alm. Salg,316,26899,9,1903,
 230,Villa,Havrevænget 7,2840, Holte,6100000 ,19-02-2021,Alm. Salg,167,36527,4,1967,-2%
@@ -1441,7 +1424,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 230,Ejerlejlighed,"Nærum Hovedgade 15, 1. th-d",2850, Nærum,1475000 ,18-02-2021,Alm. Salg,66,22348,2,1968,-1%
 230,Villa,Brandbakken 14,2840, Holte,11500000 ,18-02-2021,Alm. Salg,212,54245,8,1977,
 230,Villa,Elmevej 18,2840, Holte,2200000 ,18-02-2021,Fam. Salg,111,19820,5,1935,
-230,Villa,Skovvej 31,2950, Vedbæk,6850000 ,18-02-2021,Alm. Salg,124,55242,5,1964,-1%
 230,Villa,Bjerggårdsvænget 25,2840, Holte,5750000 ,18-02-2021,Alm. Salg,171,33626,6,1948,-4%
 230,Villa,Bueager 55,2950, Vedbæk,6400000 ,18-02-2021,Alm. Salg,179,35754,6,1963,2%
 230,Rækkehus,Ellekrattet 5,2950, Vedbæk,6250000 ,17-02-2021,Alm. Salg,167,37425,5,1975,
@@ -1956,12 +1938,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 230,Ejerlejlighed,"Nærum Hovedgade 15, 3. tv-a",2850, Nærum,1575000 ,26-09-2020,Alm. Salg,78,20192,3,1968,
 230,Villa,Trørødvej 41A,2950, Vedbæk,8700000 ,26-09-2020,Alm. Salg,228,35802,7,1967,-3%
 230,Rækkehus,Ralphs Vænge 3,2950, Vedbæk,4495000 ,25-09-2020,Alm. Salg,122,36844,4,2018,
-230,Rækkehus,Avnholtsvej 8,2950, Vedbæk,8600000 ,24-09-2020,Alm. Salg,157,54777,4,2014,
 230,Ejerlejlighed,"Søllerød Park 13, 1. 11",2840, Holte,2400000 ,24-09-2020,Alm. Salg,88,27273,3,1956,
 230,Ejerlejlighed,"Langebjerg 36, 1. tv",2850, Nærum,2815000 ,24-09-2020,Fam. Salg,112,25134,4,1968,
-230,Ejerlejlighed,Dronninggårds Alle 92C,2840, Holte,6200000 ,24-09-2020,Alm. Salg,126,49206,5,1895,
-230,Ejerlejlighed,Dronninggårds Alle 92A,2840, Holte,6200000 ,24-09-2020,Alm. Salg,138,44928,6,1895,
-230,Ejerlejlighed,Tesch Alle 3,2840, Holte,6200000 ,24-09-2020,Alm. Salg,138,44928,7,1895,
 230,Ejerlejlighed,"Lyngborghave 12, 1. th",3460, Birkerød,2045000 ,24-09-2020,Alm. Salg,72,28403,3,1975,-2%
 230,Villa,Søbakkevej 17,2840, Holte,7200000 ,24-09-2020,Alm. Salg,174,41379,7,1957,-10%
 230,Rækkehus,Hjortholmsvej 9A,2830, Virum,7600000 ,23-09-2020,Alm. Salg,156,48718,4,1909,
@@ -2039,7 +2017,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 230,Rækkehus,Ralphs Vænge 6,2950, Vedbæk,4550000 ,06-09-2020,Alm. Salg,124,36694,4,2018,
 230,Villa,Vangebovej 26,2840, Holte,4800000 ,06-09-2020,Fam. Salg,119,40336,5,1956,
 230,Villa,Arnevangen 27,2840, Holte,9995000 ,06-09-2020,Alm. Salg,206,48519,7,1959,
-230,Villa,Frederikslundsvej 20,2840, Holte,6500000 ,06-09-2020,Alm. Salg,432,15046,11,1860,
 230,Ejerlejlighed,"Søllerød Park 19, 1. 9",2840, Holte,3410000 ,05-09-2020,Alm. Salg,105,32476,3,1956,-2%
 230,Ejerlejlighed,"Lyngborghave 26, 1. tv",3460, Birkerød,2420000 ,03-09-2020,Alm. Salg,85,28471,4,1975,-3%
 230,Ejerlejlighed,"Byagervej 127, st. mf",3460, Birkerød,1055000 ,03-09-2020,Alm. Salg,51,20686,1,1959,
@@ -2189,7 +2166,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 230,Villa,Lerbakken 15,3460, Birkerød,4750000 ,14-07-2020,Alm. Salg,140,33929,4,1968,-5%
 230,Villa,Birkerød Kongevej 7,3460, Birkerød,3650000 ,14-07-2020,Alm. Salg,92,39674,3,1935,-3%
 230,Villa,Ravnsnæsvej 58,3460, Birkerød,3300000 ,14-07-2020,Alm. Salg,160,20625,5,1952,-12%
-230,Villa,Hyldeageren 18,2950, Vedbæk,12250000 ,14-07-2020,Alm. Salg,223,54933,5,1998,-9%
 230,Villa,Nøddehøj 14,2840, Holte,4750000 ,13-07-2020,Alm. Salg,128,37109,5,1964,-5%
 230,Villa,Nærumgårdsvej 37,2850, Nærum,2900000 ,12-07-2020,Andet,162,17901,6,1964,
 230,Villa,Skovlybakken 10,2840, Holte,2300000 ,12-07-2020,Fam. Salg,169,13609,6,1963,
@@ -3039,7 +3015,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 230,Ejerlejlighed,"Vandtårnsvej 1, 1. 47",3460, Birkerød,950000 ,10-09-2019,Fam. Salg,72,13194,3,1964,
 230,Ejerlejlighed,"Lyngborghave 36, 2. th",3460, Birkerød,1450000 ,10-09-2019,Alm. Salg,72,20139,3,1975,
 230,Villa,Elverbo 18,2840, Holte,2805000 ,10-09-2019,Fam. Salg,128,21914,4,1964,
-230,Villa,Enrumdammen 4,2950, Vedbæk,13600000 ,10-09-2019,Alm. Salg,247,55061,6,1877,-3%
 230,Villa,Skovhegnet 2,3460, Birkerød,3650000 ,10-09-2019,Alm. Salg,206,17718,5,2021,
 230,Villa,Mosevangen 47,3460, Birkerød,4100000 ,10-09-2019,Alm. Salg,165,24848,6,1963,-5%
 230,Villa,Helgasvej 19,2840, Holte,8550000 ,10-09-2019,Alm. Salg,167,51198,7,1927,-5%
@@ -3941,11 +3916,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 230,Villa,Fagerbo 10,2950, Vedbæk,5250000 ,02-11-2018,Alm. Salg,132,39773,4,1967,-4%
 230,Rækkehus,Stenhøj Have 23,3460, Birkerød,3995000 ,01-11-2018,Alm. Salg,124,32218,3,1969,
 230,Ejerlejlighed,"Høje Skodsborgvej 10, 2. tv",2942, Skodsborg,3350000 ,01-11-2018,Alm. Salg,81,41358,3,1936,-4%
-230,Rækkehus,Egehegnet 25,2850, Nærum,2900000 ,31-10-2018,Fam. Salg,105,27619,4,1986,
 230,Rækkehus,Gassehaven 63,2840, Holte,5350000 ,31-10-2018,Alm. Salg,143,37413,4,1975,
 230,Rækkehus,Bakkevej 33A,3460, Birkerød,3735000 ,31-10-2018,Alm. Salg,128,29180,4,1986,-1%
 230,Ejerlejlighed,"Sofievej 9, 1. tv",2840, Holte,689000 ,31-10-2018,Fam. Salg,76,9066,2,1963,
-230,Ejerlejlighed,"Langebjerg 30, 2. th",2850, Nærum,2900000 ,31-10-2018,Alm. Salg,112,25893,4,1968,-6%
 230,Ejerlejlighed,"Skodsborg Strandvej 157A, 1. tv",2942, Skodsborg,3125000 ,31-10-2018,Alm. Salg,82,38110,3,1934,-2%
 230,Villa,Paradiskrogen 5,2840, Holte,3740000 ,31-10-2018,Fam. Salg,188,19894,8,1956,
 230,Villa,Pilegårdsparken 40,3460, Birkerød,4250000 ,31-10-2018,Alm. Salg,127,33465,5,1969,-5%
@@ -4353,7 +4326,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 230,Ejerlejlighed,"Langebjerg 26, 2. mf",2850, Nærum,1635000 ,12-06-2018,Alm. Salg,69,23696,2,1968,
 230,Ejerlejlighed,"Geelskovparken 36, 1. tv",2830, Virum,3995000 ,12-06-2018,Alm. Salg,129,30969,3,1972,
 230,Villa,Vejdammen 94,2840, Holte,1468500 ,12-06-2018,Alm. Salg,150,9790,5,1975,
-230,Villa,Dronningholmsvej 3,2840, Holte,15600000 ,12-06-2018,Alm. Salg,285,54737,7,2017,-2%
 230,Villa,Fagerbo 12,2950, Vedbæk,5600000 ,12-06-2018,Alm. Salg,176,31818,6,1965,-2%
 230,Villa,Kaj Munks Vej 18,3460, Birkerød,5200000 ,12-06-2018,Alm. Salg,141,36879,6,1966,-3%
 230,Villa,Kajasvej 2A,3460, Birkerød,2650000 ,12-06-2018,Alm. Salg,105,25238,3,1920,-5%
@@ -4843,7 +4815,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 230,Rækkehus,Rude Vang 30,2840, Holte,3765000 ,12-12-2017,Alm. Salg,100,37650,4,1956,-6%
 230,Ejerlejlighed,"Solgårdsvej 3, 1. tv",2942, Skodsborg,1995000 ,12-12-2017,Alm. Salg,65,30692,2,1937,
 230,Ejerlejlighed,"Sofievej 10, st. tv",2840, Holte,2000000 ,12-12-2017,Alm. Salg,78,25641,2,1938,-5%
-230,Villa,Høje Skodsborgvej 32,2942, Skodsborg,15000000 ,12-12-2017,Alm. Salg,273,54945,6,1934,-6%
 230,Villa,Skovgårdsvej 25,3460, Birkerød,3400000 ,12-12-2017,Alm. Salg,163,20859,4,1963,-6%
 230,Ejerlejlighed,"Vejlesøparken 21, 2. th",2840, Holte,3875000 ,10-12-2017,Alm. Salg,121,32025,4,1973,
 230,Ejerlejlighed,"Søllerød Park 18, 1. 16",2840, Holte,2575000 ,10-12-2017,Alm. Salg,88,29261,3,1956,-3%
@@ -5047,7 +5018,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 230,Ejerlejlighed,"Østre Paradisvej 5B, st. th",2840, Holte,2240000 ,01-10-2017,Alm. Salg,79,28354,3,1972,-4%
 230,Ejerlejlighed,"Marievej 8B, st. 5",2950, Vedbæk,1600000 ,01-10-2017,Alm. Salg,54,29630,2,1953,
 230,Ejerlejlighed,"Skodsborgparken 46, 1. tv",2942, Skodsborg,3350000 ,01-10-2017,Alm. Salg,85,39412,2,1963,-4%
-230,Ejerlejlighed,"Melchiorsvej 1, st. mf",2950, Vedbæk,7500000 ,01-10-2017,Alm. Salg,136,55147,4,1911,
 230,Villa,Krumningen 14,2950, Vedbæk,6675000 ,01-10-2017,Alm. Salg,165,40455,6,1966,-5%
 230,Ejerlejlighed,"Birkerød Parkvej 30, 1. 19",3460, Birkerød,825000 ,30-09-2017,Alm. Salg,47,17553,1,1959,
 230,Villa,Hegnsvej 7A,2850, Nærum,4600000 ,29-09-2017,Alm. Salg,166,27711,4,1915,-8%
@@ -5229,7 +5199,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 230,Villa,Søllerødvej 106B,2840, Holte,7400000 ,07-08-2017,Alm. Salg,197,37563,7,1998,-7%
 230,Ejerlejlighed,"Nærum Hovedgade 76, 1. 7",2850, Nærum,1895000 ,06-08-2017,Alm. Salg,65,29154,2,1973,
 230,Villa,Skodsborg Strandvej 37,2942, Skodsborg,12000000 ,06-08-2017,Alm. Salg,220,54545,8,1903,-4%
-230,Villa,Dronninggårds Alle 40B,2840, Holte,16500000 ,06-08-2017,Alm. Salg,299,55184,7,1955,
 230,Villa,Carinaparken 24,3460, Birkerød,3600000 ,06-08-2017,Alm. Salg,162,22222,8,1969,-3%
 230,Ejerlejlighed,Bistrup Park 8,3460, Birkerød,1640000 ,05-08-2017,Alm. Salg,73,22466,3,1960,
 230,Villa,Mosevangen 49,3460, Birkerød,3500000 ,05-08-2017,Alm. Salg,125,28000,4,1964,-7%
@@ -5426,11 +5395,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 230,Villa,Paradisvænget 17,2840, Holte,7800000 ,31-05-2017,Fam. Salg,412,18932,10,1984,
 230,Rækkehus,Hegnsvej 145,2850, Nærum,3695000 ,30-05-2017,Alm. Salg,98,34858,5,1955,
 230,Ejerlejlighed,"Skodsborg Strandvej 227, 1. 18",2942, Skodsborg,1850000 ,30-05-2017,Alm. Salg,62,29839,2,1886,-7%
-230,Ejerlejlighed,"Skodsborgparken 46, 3. th",2942, Skodsborg,7250000 ,30-05-2017,Alm. Salg,132,54924,5,1963,
 230,Villa,Fagerbo 11,2950, Vedbæk,5995000 ,30-05-2017,Alm. Salg,190,31553,7,1970,
 230,Villa,Ravnsnæsvej 13,3460, Birkerød,3950000 ,30-05-2017,Alm. Salg,130,30385,6,1911,-4%
 230,Ejerlejlighed,"Skodsborgvej 344, st. tv",2850, Nærum,2065000 ,29-05-2017,Alm. Salg,86,24012,3,1948,-4%
-230,Villa,Vedbæk Strandvej 328,2950, Vedbæk,36217000 ,29-05-2017,Auktion,901,40196,16,1918,
 230,Villa,Skodsborg Strandvej 100,2942, Skodsborg,19200000 ,29-05-2017,Alm. Salg,399,48120,6,2021,-3%
 230,Villa,Skovly Mark 23,2840, Holte,5400000 ,29-05-2017,Alm. Salg,215,25116,8,1963,-3%
 230,Villa,Tovesvej 9,2850, Nærum,6500000 ,29-05-2017,Alm. Salg,173,37572,5,1998,-3%
@@ -5668,7 +5635,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 230,Villa,Rudersdalsvej 25,2840, Holte,4050000 ,25-03-2017,Alm. Salg,199,20352,6,1948,-19%
 230,Villa,Skovmindevej 41,2840, Holte,10100000 ,25-03-2017,Alm. Salg,263,38403,6,1947,-8%
 230,Rækkehus,Lyngbakkevej 25,2840, Holte,5500000 ,23-03-2017,Alm. Salg,149,36913,4,1984,-8%
-230,Ejerlejlighed,"Skodsborgparken 64, 3. th",2942, Skodsborg,7250000 ,23-03-2017,Andet,132,54924,3,1963,
 230,Ejerlejlighed,"Skodsborgvej 338, 2. tv",2850, Nærum,1600000 ,23-03-2017,Alm. Salg,76,21053,3,1951,-6%
 230,Ejerlejlighed,"Geelskovparken 20, 1. th",2830, Virum,2800000 ,23-03-2017,Alm. Salg,104,26923,3,1972,-7%
 230,Villa,Paradisbakken 19,2840, Holte,4950000 ,23-03-2017,Alm. Salg,142,34859,5,1958,-1%
@@ -6234,10 +6200,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 230,Villa,Ravnsnæsvej 74,3460, Birkerød,2345000 ,18-09-2016,Alm. Salg,141,16631,5,1961,-2%
 230,Rækkehus,Carl Von Rosensvej 32,2950, Vedbæk,6225000 ,17-09-2016,Alm. Salg,150,41500,5,2015,
 230,Villa,Stevnsbovej 11,2840, Holte,3550000 ,17-09-2016,Fam. Salg,122,29098,6,1939,
-230,Rækkehus,Baneskellet 62,2950, Vedbæk,3850000 ,15-09-2016,Alm. Salg,105,36667,3,2002,-4%
 230,Ejerlejlighed,"Søllerød Park 8, 1. 5",2840, Holte,2870000 ,15-09-2016,Alm. Salg,106,27075,4,1956,-4%
 230,Villa,Høsterkøbvej 10,3460, Birkerød,4500000 ,15-09-2016,Alm. Salg,255,17647,7,1807,-10%
-230,Villa,Bueager 41,2950, Vedbæk,3850000 ,15-09-2016,Alm. Salg,181,21271,6,2018,-4%
 230,Villa,Rørmosevej 31,3460, Birkerød,3400000 ,15-09-2016,Alm. Salg,202,16832,5,2017,-7%
 230,Ejerlejlighed,"Bregnerødvej 4D, 2",3460, Birkerød,3900000 ,14-09-2016,Alm. Salg,104,37500,3,2001,-1%
 230,Ejerlejlighed,"Bregnerødvej 71, 1. th",3460, Birkerød,1650000 ,14-09-2016,Alm. Salg,74,22297,3,1975,
@@ -6368,9 +6332,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 230,Villa,Vidnæsdal 33B,2840, Holte,6750000 ,21-07-2016,Alm. Salg,268,25187,7,1967,-4%
 230,Ejerlejlighed,"Nærum Hovedgade 25, st. g",2850, Nærum,1000000 ,20-07-2016,Alm. Salg,73,13699,2,1965,
 230,Villa,Lindebakken 27,3460, Birkerød,5800000 ,20-07-2016,Alm. Salg,160,36250,4,1984,6%
-230,Ejerlejlighed,Dronninggårds Alle 92C,2840, Holte,4995000 ,19-07-2016,Alm. Salg,126,39643,5,1895,
-230,Ejerlejlighed,Dronninggårds Alle 92A,2840, Holte,4995000 ,19-07-2016,Alm. Salg,138,36196,6,1895,
-230,Ejerlejlighed,Tesch Alle 3,2840, Holte,4995000 ,19-07-2016,Alm. Salg,138,36196,7,1895,
 230,Ejerlejlighed,"Henrikshøj 10, 1. 1",2950, Vedbæk,5700000 ,19-07-2016,Alm. Salg,124,45968,3,2016,
 230,Villa,Hasselbakken 11,3460, Birkerød,3150000 ,19-07-2016,Alm. Salg,170,18529,5,2020,
 230,Ejerlejlighed,"Skodsborgparken 54, 4. th",2942, Skodsborg,5275000 ,18-07-2016,Alm. Salg,121,43595,4,1963,-4%
@@ -6589,8 +6550,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 230,Ejerlejlighed,"Skodsborgparken 50, 1. th",2942, Skodsborg,4800000 ,08-05-2016,Alm. Salg,132,36364,3,1963,
 230,Ejerlejlighed,Birkerød Kongevej 38,3460, Birkerød,3275000 ,08-05-2016,Alm. Salg,143,22902,4,1962,-6%
 230,Ejerlejlighed,"Christianslund 45, st. tv",3460, Birkerød,2808500 ,08-05-2016,Alm. Salg,97,28954,3,2016,0%
-230,Ejerlejlighed,"Byagervej 10, 1. 3",3460, Birkerød,2900000 ,08-05-2016,Alm. Salg,96,30208,4,2007,-3%
-230,Villa,Frejasvej 5,3460, Birkerød,2900000 ,08-05-2016,Alm. Salg,171,16959,5,1948,-3%
 230,Villa,Bakkevej 22A,2950, Vedbæk,5200000 ,08-05-2016,Alm. Salg,167,31138,3,1966,
 230,Villa,Egemosen 16,2942, Skodsborg,6100000 ,08-05-2016,Alm. Salg,176,34659,5,1966,-5%
 230,Villa,Birkebakken 60,3460, Birkerød,3400000 ,08-05-2016,Alm. Salg,86,39535,3,1954,-6%
@@ -6625,9 +6584,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 230,Villa,Fuglesangsvej 23,3460, Birkerød,3350000 ,27-04-2016,Alm. Salg,109,30734,3,1960,-7%
 230,Villa,Mosevangen 39,3460, Birkerød,4500000 ,27-04-2016,Alm. Salg,166,27108,6,1964,-2%
 230,Villa,Bistrupvej 81,3460, Birkerød,2865000 ,26-04-2016,Alm. Salg,103,27816,3,1948,-4%
-230,Ejerlejlighed,Dronninggårds Alle 92C,2840, Holte,5000000 ,25-04-2016,Alm. Salg,126,39683,5,1895,0%
-230,Ejerlejlighed,Dronninggårds Alle 92A,2840, Holte,5000000 ,25-04-2016,Alm. Salg,138,36232,6,1895,0%
-230,Ejerlejlighed,Tesch Alle 3,2840, Holte,5000000 ,25-04-2016,Alm. Salg,138,36232,7,1895,0%
 230,Ejerlejlighed,"Kongevejen 339B, 1. 3",2840, Holte,920000 ,25-04-2016,Alm. Salg,54,17037,1,1963,
 230,Rækkehus,Brådebæksvej 1C,2970, Hørsholm,1533500 ,24-04-2016,Andet,112,13692,3,2006,
 230,Ejerlejlighed,"Lyngborghave 28, 2. th",3460, Birkerød,200000 ,24-04-2016,Alm. Salg,74,2703,3,1975,
@@ -7215,7 +7171,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 230,Villa,Lindevangsvej 8,2950, Vedbæk,5500000 ,17-09-2015,Fam. Salg,199,27638,7,1934,
 230,Villa,Enrumvej 51,2950, Vedbæk,3850000 ,17-09-2015,Alm. Salg,145,26552,3,1976,-3%
 230,Rækkehus,Haugesundvej 12,2850, Nærum,3300000 ,16-09-2015,Alm. Salg,120,27500,4,1968,-1%
-230,Villa,Dronninggårds Alle 52,2840, Holte,15100000 ,16-09-2015,Alm. Salg,275,54909,9,1913,-5%
 230,Villa,Køromvej 4,2942, Skodsborg,5150000 ,16-09-2015,Alm. Salg,151,34106,4,1968,-6%
 230,Rækkehus,Melchiorsvej 9,2950, Vedbæk,6100000 ,15-09-2015,Alm. Salg,144,42361,5,2016,
 230,Rækkehus,Trudeslund 17,3460, Birkerød,4100000 ,15-09-2015,Alm. Salg,108,37963,3,1981,-3%
@@ -9151,8 +9106,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 230,Ejerlejlighed,"Høje Skodsborgvej 22, st",2942, Skodsborg,2150000 ,31-10-2013,Fam. Salg,143,15035,4,1936,
 230,Rækkehus,Kikhanebakken 115,2840, Holte,3100000 ,30-10-2013,Alm. Salg,150,20667,4,1971,-3%
 230,Rækkehus,Parcelvej 40A,2840, Holte,5350000 ,30-10-2013,Alm. Salg,159,33648,6,1952,-7%
-230,Ejerlejlighed,"Søllerød Park 11, 1. 13",2840, Holte,1850000 ,30-10-2013,Alm. Salg,88,21023,3,1956,
-230,Ejerlejlighed,Smutgærde 10B,2840, Holte,1850000 ,30-10-2013,Alm. Salg,110,16818,4,1985,
 230,Ejerlejlighed,"Geelskovparken 46, 1. mf",2830, Virum,1345000 ,29-10-2013,Alm. Salg,61,22049,2,1972,-4%
 230,Ejerlejlighed,"Dronninggårds Alle 7, 1. tv",2840, Holte,1205765 ,29-10-2013,Auktion,68,17732,3,1935,
 230,Villa,Skyttehaven 5,2950, Vedbæk,9030000 ,29-10-2013,Alm. Salg,280,32250,7,1998,-10%
@@ -9237,7 +9190,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 230,Ejerlejlighed,"Vejlesøparken 13, 5. tv",2840, Holte,4000000 ,24-09-2013,Alm. Salg,126,31746,5,1973,7%
 230,Villa,Hælderne 16,2850, Nærum,3875000 ,24-09-2013,Alm. Salg,191,20288,9,1954,-8%
 230,Villa,Linde Alle 6,3460, Birkerød,5950000 ,24-09-2013,Alm. Salg,167,35629,5,1970,0%
-230,Rækkehus,Egehegnet 55,2850, Nærum,2000000 ,23-09-2013,Alm. Salg,99,20202,3,1986,-13%
 230,Ejerlejlighed,"Søllerødvej 53, 2",2840, Holte,2800000 ,23-09-2013,Alm. Salg,103,27184,3,1900,-7%
 230,Villa,Troldager 13,2950, Vedbæk,4100000 ,23-09-2013,Alm. Salg,127,32283,5,1961,-2%
 230,Villa,Bakkevej 11D,3460, Birkerød,2850000 ,23-09-2013,Alm. Salg,104,27404,4,1958,-2%
@@ -10018,7 +9970,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 230,Villa,Ernst Bojesens Vej 10,2840, Holte,8450000 ,16-10-2012,Alm. Salg,251,33665,9,1906,-12%
 230,Villa,Kongevejen 491A,2840, Holte,2675000 ,16-10-2012,Alm. Salg,121,22107,4,1902,-6%
 230,Rækkehus,Højbjerg Vang 58,2840, Holte,4500000 ,15-10-2012,Fam. Salg,165,27273,4,1977,
-230,Villa,Attemosevej 94,2840, Holte,13750000 ,15-10-2012,Alm. Salg,250,55000,5,2009,-5%
 230,Villa,Langkærgårdsvej 25,3460, Birkerød,3400000 ,15-10-2012,Alm. Salg,108,31481,3,1952,-3%
 230,Rækkehus,Grøndalsvej 9,3460, Birkerød,2695000 ,11-10-2012,Alm. Salg,95,28368,3,2005,
 230,Rækkehus,Vasevej 3A,2840, Holte,3000000 ,11-10-2012,Alm. Salg,126,23810,5,1987,-9%
@@ -10307,11 +10258,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 230,Villa,Brådebæksvej 33K,2970, Hørsholm,1585000 ,12-06-2012,Auktion,91,17418,4,1998,
 230,Villa,Gasværksvej 4B,3460, Birkerød,5005000 ,12-06-2012,Alm. Salg,168,29792,5,1930,-5%
 230,Villa,Vagtelvej 20,3460, Birkerød,4825000 ,12-06-2012,Alm. Salg,224,21540,6,1968,-3%
-230,Rækkehus,Bakkevænget 10,3460, Birkerød,2295000 ,11-06-2012,Alm. Salg,108,21250,4,1960,
 230,Rækkehus,Trudeslund 27,3460, Birkerød,3275000 ,11-06-2012,Alm. Salg,111,29505,4,1981,-6%
 230,Villa,Parcelvej 47,2840, Holte,3350000 ,11-06-2012,Alm. Salg,176,19034,5,1962,-7%
 230,Villa,Stenhøjgårdsvej 43,3460, Birkerød,3440000 ,11-06-2012,Alm. Salg,159,21635,6,1983,-2%
-230,Villa,Marianelundsvej 2,3460, Birkerød,2295000 ,11-06-2012,Alm. Salg,208,11034,7,1940,
 230,Villa,Kongevejen 408,2840, Holte,2345000 ,11-06-2012,Alm. Salg,112,20938,5,1930,
 230,Ejerlejlighed,"Birkerød Parkvej 22, st. th",3460, Birkerød,1745000 ,10-06-2012,Alm. Salg,88,19830,3,1960,
 230,Ejerlejlighed,"Birkerød Parkvej 26, st. 46",3460, Birkerød,1200000 ,10-06-2012,Alm. Salg,59,20339,2,1960,0%
@@ -10655,8 +10604,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 230,Villa,Furesøbakken 6,3460, Birkerød,5450000 ,03-12-2011,Alm. Salg,274,19891,7,2022,-1%
 230,Villa,Hegnsvej 21,2850, Nærum,5250000 ,02-12-2011,Alm. Salg,154,34091,4,1936,-10%
 230,Villa,Bjerggårdsvænget 6,2840, Holte,3995000 ,30-11-2011,Alm. Salg,190,21026,6,1968,
-230,Rækkehus,Kajerød Have 13,3460, Birkerød,1575000 ,29-11-2011,Alm. Salg,135,11667,5,1973,
-230,Ejerlejlighed,"Lyngborghave 50, 2. th",3460, Birkerød,1575000 ,29-11-2011,Alm. Salg,86,18314,3,1972,-5%
 230,Ejerlejlighed,"Vejlesøparken 19, 4. mf",2840, Holte,1675000 ,29-11-2011,Alm. Salg,76,22039,2,1973,-9%
 230,Ejerlejlighed,"Nærum Hovedgade 62, 2. th",2850, Nærum,710000 ,29-11-2011,Alm. Salg,55,12909,3,1900,-11%
 230,Villa,Alfred Christensens Vej 18,2850, Nærum,2000000 ,29-11-2011,Alm. Salg,164,12195,5,1902,-16%
@@ -10977,10 +10924,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 230,Rækkehus,Søllerødlund 19,2840, Holte,5000000 ,13-06-2011,Alm. Salg,166,30120,4,1983,-13%
 230,Rækkehus,Stenhøj Have 18,3460, Birkerød,2720000 ,13-06-2011,Alm. Salg,124,21935,4,1969,-4%
 230,Ejerlejlighed,"Langebjerg 18, 3. mf",2850, Nærum,1395000 ,13-06-2011,Alm. Salg,69,20217,2,1968,
-230,Ejerlejlighed,"Vedbæk Stationsvej 14, 2",2950, Vedbæk,2975000 ,13-06-2011,Alm. Salg,122,24385,4,1903,
-230,Ejerlejlighed,"Vedbæk Stationsvej 14, 1",2950, Vedbæk,2975000 ,13-06-2011,Alm. Salg,143,20804,4,1903,
-230,Ejerlejlighed,"Olgasvej 2, 1. th",2950, Vedbæk,2975000 ,13-06-2011,Alm. Salg,71,41901,3,1903,
-230,Ejerlejlighed,"Olgasvej 2, 1. tv",2950, Vedbæk,2975000 ,13-06-2011,Alm. Salg,73,40753,2,1903,
 230,Villa,Ellebakken 16,3460, Birkerød,2250000 ,13-06-2011,Alm. Salg,73,30822,3,1956,-10%
 230,Rækkehus,Kikhanebakken 97,2840, Holte,2600000 ,12-06-2011,Alm. Salg,103,25243,3,1971,-7%
 230,Ejerlejlighed,"Teglporten 4, st. 4",3460, Birkerød,960000 ,12-06-2011,Alm. Salg,51,18824,2,1972,-4%
@@ -11223,7 +11166,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 230,Ejerlejlighed,"Vejlesøparken 1, 1. 102",2840, Holte,1070000 ,10-02-2011,Alm. Salg,66,16212,2,1973,-2%
 230,Villa,Marianelundsvej 16,3460, Birkerød,4900000 ,10-02-2011,Alm. Salg,152,32237,6,1951,-2%
 230,Villa,Vagtelvej 38,3460, Birkerød,3030000 ,10-02-2011,Alm. Salg,244,12418,9,2015,-5%
-230,Ejerlejlighed,"Dronninggårdsvej 2, 1",2840, Holte,5482500 ,09-02-2011,Fam. Salg,125,43860,5,1900,
 230,Rækkehus,Præsteager 16,2950, Vedbæk,4325000 ,07-02-2011,Alm. Salg,125,34600,5,1959,-4%
 230,Ejerlejlighed,"Geelskovparken 50, 1. mf",2830, Virum,1365000 ,07-02-2011,Alm. Salg,61,22377,2,1972,-9%
 230,Villa,Kikhanebakken 52,2840, Holte,3550000 ,07-02-2011,Alm. Salg,136,26103,4,1973,-9%
@@ -11431,9 +11373,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 230,Villa,Slåenbakken 12,3460, Birkerød,3050000 ,31-10-2010,Alm. Salg,198,15404,5,1963,
 230,Ejerlejlighed,"Byagervej 123, st. th",3460, Birkerød,1075000 ,30-10-2010,Alm. Salg,71,15141,3,1959,
 230,Villa,Elmevej 18,2840, Holte,4195000 ,28-10-2010,Alm. Salg,111,37793,5,1935,
-230,Rækkehus,Bakkeledet 32,3460, Birkerød,3850000 ,27-10-2010,Alm. Salg,132,29167,7,1954,-4%
 230,Rækkehus,Hegnsvej 121,2850, Nærum,2500000 ,27-10-2010,Alm. Salg,106,23585,4,1955,-17%
-230,Villa,Plantagevej 69,3460, Birkerød,3850000 ,27-10-2010,Alm. Salg,118,32627,4,1936,-9%
 230,Ejerlejlighed,"Høje Skodsborgvej 24, 1. tv",2942, Skodsborg,1950000 ,26-10-2010,Alm. Salg,80,24375,3,1936,-2%
 230,Ejerlejlighed,"Vejlesøparken 14, 2. tv",2840, Holte,6250000 ,26-10-2010,Alm. Salg,160,39063,5,1973,
 230,Villa,Trørødvej 7,2950, Vedbæk,8800000 ,26-10-2010,Alm. Salg,199,44221,8,1933,-12%
@@ -11624,7 +11564,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 230,Villa,Frydenlundsvej 10,2942, Skodsborg,4500000 ,28-07-2010,Alm. Salg,160,28125,5,1957,-10%
 230,Ejerlejlighed,"Bakkekrogen 11, 1. th",3460, Birkerød,1100000 ,26-07-2010,Alm. Salg,69,15942,3,1959,-6%
 230,Villa,Vangebovej 32,2840, Holte,5295000 ,26-07-2010,Alm. Salg,116,45647,4,1948,
-230,Villa,Storkevænget 8,2840, Holte,13750000 ,26-07-2010,Alm. Salg,251,54781,7,1928,-7%
 230,Villa,Hanne Nielsens Vej 1B,2840, Holte,4150000 ,26-07-2010,Alm. Salg,157,26433,6,1924,-2%
 230,Villa,Kajerødvej 39,3460, Birkerød,3750000 ,26-07-2010,Alm. Salg,157,23885,5,1951,-5%
 230,Rækkehus,Holtegårdsvej 81,2840, Holte,3475000 ,23-07-2010,Alm. Salg,113,30752,5,1987,-3%
@@ -13685,7 +13624,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 230,Rækkehus,Biskop Svanes Vej 58K,3460, Birkerød,3400000 ,08-07-2007,Alm. Salg,95,35789,3,1892,
 230,Rækkehus,Henrikshave 22,2950, Vedbæk,5100000 ,08-07-2007,Alm. Salg,124,41129,6,1965,
 230,Rækkehus,Haugesundvej 32,2850, Nærum,4291752 ,08-07-2007,Fam. Salg,109,39374,3,1968,
-230,Rækkehus,Rude Vang 25B,2840, Holte,3500000 ,08-07-2007,Alm. Salg,150,23333,6,1959,
 230,Ejerlejlighed,"Vejlesøparken 8, 4. th",2840, Holte,5495000 ,08-07-2007,Alm. Salg,124,44315,3,1973,
 230,Ejerlejlighed,"Skodsborgvej 344, 2. tv",2850, Nærum,1500000 ,08-07-2007,Alm. Salg,86,17442,3,1948,-10%
 230,Ejerlejlighed,"Lyngborghave 28, 1. th",3460, Birkerød,1595000 ,08-07-2007,Alm. Salg,74,21554,3,1975,
@@ -13695,7 +13633,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 230,Ejerlejlighed,Skyttebjerg 30,2850, Nærum,1595000 ,08-07-2007,Alm. Salg,61,26148,2,1960,
 230,Ejerlejlighed,"Nærum Hovedgade 15, 1. th-d",2850, Nærum,1275000 ,08-07-2007,Alm. Salg,66,19318,2,1968,
 230,Villa,Skodsborgvej 341,2850, Nærum,3700000 ,08-07-2007,Alm. Salg,163,22699,4,1948,
-230,Villa,Rudersdalsvej 65,2840, Holte,3500000 ,08-07-2007,Alm. Salg,216,16204,6,2008,-12%
 230,Villa,Solbjærget 21,3460, Birkerød,4300000 ,08-07-2007,Alm. Salg,163,26380,7,1952,
 230,Villa,Blokken 47,3460, Birkerød,12000000 ,08-07-2007,Alm. Salg,335,35821,9,1955,
 230,Villa,Bøgebakken 11,3460, Birkerød,3885000 ,08-07-2007,Alm. Salg,185,21000,6,1959,-5%
@@ -14013,7 +13950,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 230,Villa,Norddalsvej 7,2840, Holte,6675000 ,06-02-2007,Alm. Salg,184,36277,5,1947,
 230,Villa,Brådebæksvej 23,2970, Hørsholm,5125000 ,06-02-2007,Alm. Salg,267,19195,5,2009,
 230,Rækkehus,Ellehaven 54,2950, Vedbæk,1350000 ,05-02-2007,Fam. Salg,123,10976,4,1969,
-230,Ejerlejlighed,"Skodsborgparken 56, 4. tv",2942, Skodsborg,6100000 ,04-02-2007,Alm. Salg,111,54955,3,1963,
 230,Villa,Storevang 17,3460, Birkerød,1475000 ,04-02-2007,Fam. Salg,176,8381,7,1968,
 230,Ejerlejlighed,"Skodsborgparken 64, 3. th",2942, Skodsborg,6600000 ,02-02-2007,Alm. Salg,132,50000,3,1963,-4%
 230,Villa,Gammel Holtevej 125,2840, Holte,7800000 ,02-02-2007,Alm. Salg,202,38614,5,1995,
@@ -14208,8 +14144,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 230,Villa,Plantagevej 12,3460, Birkerød,4450000 ,04-10-2006,Alm. Salg,153,29085,6,1962,
 230,Villa,Geelsmark 17,2840, Holte,2666666 ,04-10-2006,Fam. Salg,280,9524,8,1912,
 230,Villa,Ved Furesøen 8,2840, Holte,7500000 ,02-10-2006,Alm. Salg,241,31120,8,1931,
-230,Ejerlejlighed,"Christianslund 41, 2. mf",3460, Birkerød,1550000 ,01-10-2006,Alm. Salg,49,31633,2,2005,
-230,Ejerlejlighed,Bistrup Park 64,3460, Birkerød,1550000 ,01-10-2006,Alm. Salg,70,22143,2,1960,
 230,Villa,Præstevangen 7,3460, Birkerød,4300000 ,01-10-2006,Alm. Salg,114,37719,5,1952,
 230,Ejerlejlighed,"Søllerød Park 2, st. 4",2840, Holte,3500000 ,30-09-2006,Alm. Salg,100,35000,4,1956,
 230,Villa,Carinaparken 56,3460, Birkerød,4695000 ,30-09-2006,Alm. Salg,146,32158,4,1968,
@@ -14871,8 +14805,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 230,Ejerlejlighed,"Byagervej 109, st. mf",3460, Birkerød,1345000 ,11-12-2005,Alm. Salg,51,26373,1,1959,
 230,Ejerlejlighed,"Byagervej 129, 1. tv",3460, Birkerød,1425000 ,11-12-2005,Alm. Salg,71,20070,3,1959,
 230,Ejerlejlighed,"Banevænget 20, 2",3460, Birkerød,2450000 ,11-12-2005,Alm. Salg,77,31818,2,2003,
-230,Ejerlejlighed,"Lyngborghave 10, st. tv",3460, Birkerød,500000 ,11-12-2005,Fam. Salg,72,6944,3,1975,
-230,Ejerlejlighed,"Bregnerødvej 67, 2. th",3460, Birkerød,500000 ,11-12-2005,Fam. Salg,72,6944,3,1975,
 230,Ejerlejlighed,"Biskop Svanes Vej 79, st. tv",3460, Birkerød,1955000 ,11-12-2005,Alm. Salg,73,26781,2,1920,
 230,Villa,Teglværksvej 72,3460, Birkerød,4125000 ,11-12-2005,Alm. Salg,162,25463,5,1970,
 230,Villa,Birkevej 11,3460, Birkerød,2250000 ,11-12-2005,Andet,150,15000,6,1925,
@@ -14987,14 +14919,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 230,Ejerlejlighed,"Christianslund 41, 1. tv",3460, Birkerød,1874795 ,06-11-2005,Alm. Salg,90,20831,3,2005,
 230,Ejerlejlighed,"Christianslund 41, 2. tv",3460, Birkerød,1909208 ,06-11-2005,Alm. Salg,90,21213,3,2005,
 230,Ejerlejlighed,"Christianslund 41, 2. th",3460, Birkerød,1711213 ,06-11-2005,Alm. Salg,73,23441,3,2005,
-230,Ejerlejlighed,"Lyngborghave 38, 1. th",3460, Birkerød,1650000 ,06-11-2005,Alm. Salg,72,22917,3,1975,
-230,Ejerlejlighed,"Christianslund 36, st. tv",3460, Birkerød,1650000 ,06-11-2005,Alm. Salg,73,22603,3,2005,
 230,Ejerlejlighed,"Christianslund 36, 2. mf",3460, Birkerød,1000000 ,06-11-2005,Alm. Salg,49,20408,2,2005,
-230,Ejerlejlighed,"Christianslund 36, 2. tv",3460, Birkerød,1650000 ,06-11-2005,Alm. Salg,73,22603,3,2005,
 230,Ejerlejlighed,"Christianslund 37, 1. th",3460, Birkerød,2095000 ,06-11-2005,Alm. Salg,107,19579,4,2005,
 230,Ejerlejlighed,"Christianslund 37, 1. tv",3460, Birkerød,1995000 ,06-11-2005,Alm. Salg,101,19752,3,2005,
 230,Ejerlejlighed,"Christianslund 37, 2. th",3460, Birkerød,2285000 ,06-11-2005,Alm. Salg,107,21355,4,2005,
-230,Ejerlejlighed,"Christianslund 38, st. th",3460, Birkerød,1650000 ,06-11-2005,Alm. Salg,73,22603,3,2005,
 230,Ejerlejlighed,"Christianslund 38, 2. mf",3460, Birkerød,1045000 ,06-11-2005,Alm. Salg,49,21327,2,2005,
 230,Ejerlejlighed,"Kongevejen 339A, 2. tv",2840, Holte,1495000 ,06-11-2005,Alm. Salg,70,21357,2,1963,
 230,Villa,Gl.Holtetoften 5,2840, Holte,4600000 ,06-11-2005,Alm. Salg,158,29114,4,1979,
@@ -16421,7 +16349,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 230,Villa,Birkebakken 13,2840, Holte,6000000 ,26-08-2004,Alm. Salg,224,26786,8,1920,
 230,Villa,Kajerødvej 22,3460, Birkerød,3100000 ,25-08-2004,Alm. Salg,200,15500,6,1850,
 230,Ejerlejlighed,"Vejlesøparken 1, 2. 211",2840, Holte,1029600 ,24-08-2004,Alm. Salg,64,16088,2,1973,
-230,Villa,Nærumhusvej 2,2850, Nærum,3770000 ,24-08-2004,Alm. Salg,87,43333,2,1932,
 230,Villa,Vasevej 66B,3460, Birkerød,2525000 ,24-08-2004,Alm. Salg,147,17177,5,1988,
 230,Rækkehus,Grøndalshave 20,3460, Birkerød,2485000 ,23-08-2004,Alm. Salg,119,20882,4,2004,
 230,Villa,Larsensvej 3C,2950, Vedbæk,2850000 ,23-08-2004,Alm. Salg,187,15241,6,2007,
@@ -16548,13 +16475,11 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 230,Villa,Humlebakken 18,3460, Birkerød,2125000 ,13-07-2004,Alm. Salg,170,12500,5,2016,
 230,Ejerlejlighed,"Høje Skodsborgvej 14, 3. tv",2942, Skodsborg,3335000 ,12-07-2004,Alm. Salg,115,29000,4,1936,
 230,Rækkehus,Teglværksvej 13,3460, Birkerød,2365000 ,11-07-2004,Alm. Salg,108,21898,5,1974,
-230,Rækkehus,Trudeslund 17,3460, Birkerød,2450000 ,11-07-2004,Alm. Salg,108,22685,3,1981,
 230,Rækkehus,Højbjerg Vang 41,2840, Holte,3625000 ,11-07-2004,Alm. Salg,165,21970,4,1977,
 230,Rækkehus,Rydholt 10,2840, Holte,4295000 ,11-07-2004,Alm. Salg,149,28826,5,1982,
 230,Ejerlejlighed,Kirkeåsen 23,2850, Nærum,1100000 ,11-07-2004,Alm. Salg,62,17742,2,1960,
 230,Villa,Højbovej 8,3460, Birkerød,2550000 ,11-07-2004,Alm. Salg,187,13636,8,1962,
 230,Villa,Fyrresvinget 10,2840, Holte,3279000 ,11-07-2004,Auktion,200,16395,5,2018,
-230,Villa,Skovgårdsvej 26B,3460, Birkerød,2450000 ,11-07-2004,Alm. Salg,132,18561,4,1974,
 230,Villa,Vejlemosevej 14A,2840, Holte,3965000 ,09-07-2004,Alm. Salg,156,25417,6,1964,
 230,Ejerlejlighed,"Vejlesøparken 17, 4. mf",2840, Holte,1355360 ,08-07-2004,Alm. Salg,76,17834,2,1973,
 230,Villa,Soldraget 10,3460, Birkerød,2500000 ,08-07-2004,Alm. Salg,152,16447,5,1967,
@@ -16768,9 +16693,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 230,Ejerlejlighed,"Vejlesøparken 1, 8. 805",2840, Holte,1157600 ,15-05-2004,Alm. Salg,64,18088,2,1973,
 230,Villa,Skovly Mark 30,2840, Holte,2900000 ,15-05-2004,Alm. Salg,203,14286,6,1963,
 230,Villa,Stenhøjgårdsvej 47,3460, Birkerød,3102500 ,14-05-2004,Fam. Salg,225,13789,6,1977,
-230,Ejerlejlighed,Dronninggårds Alle 92C,2840, Holte,1791195 ,13-05-2004,Fam. Salg,126,14216,5,1895,
-230,Ejerlejlighed,Dronninggårds Alle 92A,2840, Holte,1791195 ,13-05-2004,Fam. Salg,138,12980,6,1895,
-230,Ejerlejlighed,Tesch Alle 3,2840, Holte,1791195 ,13-05-2004,Fam. Salg,138,12980,7,1895,
 230,Villa,Skovgårdsvej 3,3460, Birkerød,2575000 ,13-05-2004,Alm. Salg,118,21822,6,1932,
 230,Villa,Rudegårds Alle 12A,2840, Holte,3995000 ,13-05-2004,Alm. Salg,198,20177,6,1918,
 230,Villa,Folesletten 22,2950, Vedbæk,3500000 ,12-05-2004,Alm. Salg,178,19663,4,1969,
@@ -16798,8 +16720,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 230,Rækkehus,Baneskellet 54,2950, Vedbæk,2500000 ,05-05-2004,Alm. Salg,105,23810,4,2002,
 230,Ejerlejlighed,"Søllerød Park 13, 1. 24",2840, Holte,1750000 ,05-05-2004,Alm. Salg,102,17157,4,1956,
 230,Ejerlejlighed,Kirkeåsen 21,2850, Nærum,1175000 ,05-05-2004,Alm. Salg,61,19262,2,1960,
-230,Ejerlejlighed,"Rudersdalsvej 104, st. th",2840, Holte,1150000 ,05-05-2004,Alm. Salg,70,16429,3,1961,
-230,Ejerlejlighed,"Røjelskær 3, 2. th",2840, Holte,1150000 ,05-05-2004,Fam. Salg,93,12366,3,1986,
 230,Villa,Skættekæret 7,2840, Holte,2550000 ,05-05-2004,Alm. Salg,121,21074,4,1958,
 230,Villa,Kildehøjvej 12,3460, Birkerød,3266410 ,05-05-2004,Alm. Salg,207,12710,8,1936,
 230,Villa,Kløvereng 6,2950, Vedbæk,3700000 ,05-05-2004,Alm. Salg,184,20109,6,1980,
@@ -18444,12 +18364,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 230,Rækkehus,Keilstruplund 1,3460, Birkerød,2395000 ,23-10-2002,Alm. Salg,139,17230,4,1965,
 230,Ejerlejlighed,"Bakkekrogen 9, 1. th",3460, Birkerød,1150000 ,23-10-2002,Alm. Salg,70,16429,2,1959,
 230,Villa,Under Lindene 6,2840, Holte,2665000 ,23-10-2002,Alm. Salg,152,17533,6,1945,
-230,Ejerlejlighed,"Vedbæk Stationsvej 14, 2",2950, Vedbæk,791666 ,22-10-2002,Andet,122,6489,4,1903,
-230,Ejerlejlighed,"Vedbæk Stationsvej 14, 1",2950, Vedbæk,791666 ,22-10-2002,Andet,143,5536,4,1903,
-230,Ejerlejlighed,"Olgasvej 2, 1. th",2950, Vedbæk,791666 ,22-10-2002,Andet,71,11150,3,1903,
-230,Ejerlejlighed,"Olgasvej 2, 1. tv",2950, Vedbæk,791666 ,22-10-2002,Andet,73,10845,2,1903,
-230,Ejerlejlighed,"Olgasvej 2, 2",2950, Vedbæk,791666 ,22-10-2002,Andet,46,17210,2,1903,
-230,Villa,Olgasvej 2,2950, Vedbæk,791666 ,22-10-2002,Andet,36,21991,2,1906,
 230,Villa,Nøddehøj 12,2840, Holte,2700000 ,21-10-2002,Alm. Salg,150,18000,5,1962,
 230,Villa,Rundforbivej 17,2950, Vedbæk,2250000 ,21-10-2002,Alm. Salg,213,10563,6,1918,
 230,Ejerlejlighed,"Langebjerg 38, 4. mf",2850, Nærum,1230000 ,20-10-2002,Alm. Salg,69,17826,2,1968,
@@ -21583,7 +21497,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 230,Ejerlejlighed,"Birkerød Parkvej 30, 1. 18",3460, Birkerød,470000 ,30-08-1999,Alm. Salg,47,10000,1,1959,
 230,Rækkehus,Søllerødlund 21,2840, Holte,2580520 ,29-08-1999,Alm. Salg,166,15545,5,1983,
 230,Ejerlejlighed,"Rønnebærvej 10, 2. 213",2840, Holte,860000 ,29-08-1999,Alm. Salg,80,10750,2,1977,
-230,Villa,Nærumhusvej 2,2850, Nærum,1300000 ,29-08-1999,Alm. Salg,87,14943,2,1932,
 230,Villa,Attemosevej 16,2840, Holte,3000000 ,29-08-1999,Alm. Salg,184,16304,6,1970,
 230,Villa,Vasevej 2,2840, Holte,2222000 ,29-08-1999,Alm. Salg,167,13305,8,1930,
 230,Villa,Pilekæret 20,2840, Holte,1856581 ,29-08-1999,Alm. Salg,140,13261,5,1962,
@@ -22636,14 +22549,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 230,Villa,Poppel Alle 6,2840, Holte,2969000 ,31-08-1998,Alm. Salg,260,11419,10,1916,
 230,Ejerlejlighed,"Bakkekrogen 21, 1. 3",3460, Birkerød,448712 ,30-08-1998,Alm. Salg,49,9157,2,1959,
 230,Ejerlejlighed,"Stiholmsvej 1, 1. 1",3460, Birkerød,510000 ,30-08-1998,Alm. Salg,55,9273,2,1965,
-230,Ejerlejlighed,"Vedbæk Stationsvej 14, 2",2950, Vedbæk,560000 ,30-08-1998,Alm. Salg,122,4590,4,1903,
-230,Ejerlejlighed,"Vedbæk Stationsvej 14, 1",2950, Vedbæk,560000 ,30-08-1998,Alm. Salg,143,3916,4,1903,
-230,Ejerlejlighed,"Olgasvej 2, 1. th",2950, Vedbæk,560000 ,30-08-1998,Alm. Salg,71,7887,3,1903,
-230,Ejerlejlighed,"Olgasvej 2, 1. tv",2950, Vedbæk,560000 ,30-08-1998,Alm. Salg,73,7671,2,1903,
-230,Ejerlejlighed,"Olgasvej 2, 2",2950, Vedbæk,560000 ,30-08-1998,Alm. Salg,46,12174,2,1903,
 230,Ejerlejlighed,"Lyngborghave 8, 1. th",3460, Birkerød,675000 ,30-08-1998,Alm. Salg,72,9375,3,1975,
 230,Villa,Rønnebærvej 120,2840, Holte,2200000 ,30-08-1998,Alm. Salg,168,13095,6,1961,
-230,Villa,Olgasvej 2,2950, Vedbæk,560000 ,30-08-1998,Alm. Salg,36,15556,2,1906,
 230,Rækkehus,Rude Vang 11A,2840, Holte,1662000 ,29-08-1998,Alm. Salg,154,10792,5,1958,
 230,Ejerlejlighed,"Dronninggårds Alle 1B, 1. tv",2840, Holte,617120 ,29-08-1998,Alm. Salg,55,11220,2,1935,
 230,Villa,Humlebakken 9,3460, Birkerød,1692120 ,29-08-1998,Alm. Salg,110,15383,4,1962,
@@ -23504,7 +23411,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 230,Rækkehus,Keilstruplund 39,3460, Birkerød,1414954 ,02-11-1997,Alm. Salg,132,10719,4,1965,
 230,Ejerlejlighed,"Langebjerg 30, 1. th",2850, Nærum,1403000 ,02-11-1997,Alm. Salg,112,12527,3,1968,
 230,Villa,Bregnerødvej 43,3460, Birkerød,1387930 ,02-11-1997,Alm. Salg,190,7305,8,1955,
-230,Villa,Nærumhusvej 2,2850, Nærum,560000 ,01-11-1997,Alm. Salg,87,6437,2,1932,
 230,Rækkehus,Vejlemosevej 51,2840, Holte,2142400 ,31-10-1997,Alm. Salg,169,12677,6,1952,
 230,Villa,Agnetevej 15,2840, Holte,2724580 ,31-10-1997,Alm. Salg,183,14888,6,1997,
 230,Rækkehus,Kong Valdemars Vej 32D,2840, Holte,2061000 ,30-10-1997,Alm. Salg,110,18736,4,1984,
@@ -24873,10 +24779,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 230,Rækkehus,Vejlemosevej 19B,2840, Holte,2392207 ,16-08-1996,Alm. Salg,192,12459,5,1988,
 230,Ejerlejlighed,"Østre Paradisvej 5A, st. th",2840, Holte,689000 ,15-08-1996,Alm. Salg,82,8402,3,1972,
 230,Rækkehus,Holtegårdsvej 60,2840, Holte,1469000 ,14-08-1996,Alm. Salg,117,12556,5,1987,
-230,Ejerlejlighed,"Birkerød Kongevej 111, 1. th",3460, Birkerød,5500000 ,14-08-1996,Alm. Salg,110,50000,4,1952,
 230,Ejerlejlighed,"Rundforbivej 265, st. b",2850, Nærum,596900 ,14-08-1996,Alm. Salg,72,8290,3,1965,
 230,Villa,Elverbo 13,2840, Holte,1880000 ,14-08-1996,Alm. Salg,190,9895,6,1963,
-230,Villa,Rolighedsvej 50,3460, Birkerød,5500000 ,14-08-1996,Alm. Salg,129,42636,5,1934,
 230,Villa,Geelsvej 13,2840, Holte,1561108 ,14-08-1996,Alm. Salg,160,9757,5,1907,
 230,Rækkehus,Carlsmindeparken 25,2840, Holte,2650000 ,13-08-1996,Alm. Salg,170,15588,5,1969,
 230,Villa,Kollemosevej 29A,2840, Holte,1958500 ,13-08-1996,Alm. Salg,158,12396,5,1930,
@@ -25822,7 +25726,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 230,Rækkehus,Hegnsvej 87,2850, Nærum,1178023 ,11-10-1995,Alm. Salg,114,10334,4,1955,
 230,Ejerlejlighed,"Østre Paradisvej 5A, st. th",2840, Holte,1700000 ,11-10-1995,Alm. Salg,82,20732,3,1972,
 230,Ejerlejlighed,"Bakkekrogen 5, 1. th",3460, Birkerød,613200 ,11-10-1995,Alm. Salg,88,6968,3,1959,
-230,Villa,Nærumhusvej 2,2850, Nærum,400000 ,11-10-1995,Alm. Salg,87,4598,2,1932,
 230,Villa,Kettebakken 10,2942, Skodsborg,1096500 ,11-10-1995,Fam. Salg,197,5566,8,1962,
 230,Villa,Dronningeengen 12,2950, Vedbæk,1437215 ,10-10-1995,Alm. Salg,173,8308,5,1971,
 230,Villa,Skovly Mark 2,2840, Holte,947540 ,10-10-1995,Alm. Salg,113,8385,4,1962,
@@ -26220,7 +26123,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 230,Villa,Rudegårds Alle 22B,2840, Holte,1679000 ,04-06-1995,Alm. Salg,212,7920,7,2006,
 230,Ejerlejlighed,"Kongevejen 339A, 2. th",2840, Holte,467000 ,03-06-1995,Alm. Salg,70,6671,2,1963,
 230,Ejerlejlighed,"Langebjerg 22, 4. mf",2850, Nærum,247300 ,01-06-1995,Alm. Salg,69,3584,2,1968,
-230,Villa,Bistruphave 1,3460, Birkerød,5900000 ,01-06-1995,Alm. Salg,157,37580,4,1973,
 230,Villa,Krogholmgårdsvej 46,2950, Vedbæk,1493000 ,01-06-1995,Alm. Salg,152,9822,5,1912,
 230,Villa,Vestre Paradisvej 161,2840, Holte,3000000 ,01-06-1995,Alm. Salg,233,12876,7,1975,
 230,Rækkehus,Rudemarken 21,2840, Holte,1284992 ,31-05-1995,Alm. Salg,134,9589,4,1955,
@@ -27962,8 +27864,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 230,Villa,Trørødvænget 1,2950, Vedbæk,1530000 ,08-11-1993,Alm. Salg,150,10200,7,1905,
 230,Ejerlejlighed,"Birkerød Parkvej 28, 2. 60",3460, Birkerød,335000 ,07-11-1993,Alm. Salg,59,5678,2,1960,
 230,Ejerlejlighed,"Lyngborghave 36, 2. th",3460, Birkerød,508000 ,07-11-1993,Alm. Salg,72,7056,3,1975,
-230,Ejerlejlighed,"Lyngborghave 38, 1. tv",3460, Birkerød,575000 ,07-11-1993,Alm. Salg,72,7986,3,1975,
-230,Ejerlejlighed,"Byagervej 125, st. tv",3460, Birkerød,575000 ,07-11-1993,Alm. Salg,72,7986,3,1959,
 230,Ejerlejlighed,"Lyngborghave 18, st. tv",3460, Birkerød,612000 ,07-11-1993,Alm. Salg,83,7373,4,1975,
 230,Villa,Bistrupvej 39,3460, Birkerød,1266600 ,07-11-1993,Alm. Salg,173,7321,6,1955,
 230,Villa,Ravnsnæsvej 226,2970, Hørsholm,499790 ,07-11-1993,Alm. Salg,65,7689,2,1777,
@@ -28653,7 +28553,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 230,Rækkehus,Langebjerg 80,2850, Nærum,975000 ,15-05-1993,Fam. Salg,109,8945,4,1968,
 230,Villa,Rønnebærvej 24,2840, Holte,1176069 ,15-05-1993,Alm. Salg,133,8843,4,1914,
 230,Ejerlejlighed,"Holte Stationsvej 18, 1",2840, Holte,2050000 ,14-05-1993,Alm. Salg,100,20500,4,1912,
-230,Ejerlejlighed,"Holte Stationsvej 16, 2. th",2840, Holte,4000000 ,13-05-1993,Alm. Salg,95,42105,5,1923,
 230,Villa,Frederikslundsvej 1A,2840, Holte,1325000 ,13-05-1993,Alm. Salg,190,6974,7,1967,
 230,Villa,Trørødvænget 17,2950, Vedbæk,2178000 ,13-05-1993,Alm. Salg,283,7696,7,1917,
 230,Rækkehus,Skodsborg Strandvej 262B,2942, Skodsborg,2400000 ,12-05-1993,Alm. Salg,198,12121,7,1977,
@@ -29091,7 +28990,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 230,Ejerlejlighed,"Lyngborghave 24, 2. th",3460, Birkerød,500000 ,21-10-1992,Alm. Salg,74,6757,3,1975,
 230,Ejerlejlighed,"Søllerød Park 16, 1. 12",2840, Holte,724100 ,21-10-1992,Alm. Salg,102,7099,4,1956,
 230,Villa,Bøgholmen 27,2840, Holte,1037965 ,19-10-1992,Alm. Salg,145,7158,5,1963,
-230,Rækkehus,Vandtårnsvej 22A,3460, Birkerød,970000 ,18-10-1992,Fam. Salg,133,7293,5,1952,
 230,Ejerlejlighed,"Lyngborghave 4A, 2. tv",3460, Birkerød,495000 ,18-10-1992,Alm. Salg,72,6875,3,1975,
 230,Ejerlejlighed,"Hovedgaden 24, 1. 7",3460, Birkerød,1025000 ,18-10-1992,Alm. Salg,163,6288,5,1971,
 230,Ejerlejlighed,"Birkerød Parkvej 24, 2. tv",3460, Birkerød,492487 ,18-10-1992,Alm. Salg,91,5412,3,1960,
@@ -29532,8 +29430,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 230,Villa,Søllerødvej 78,2840, Holte,1500000 ,30-04-1992,Fam. Salg,173,8671,4,1977,
 230,Villa,Trørødvej 49A,2950, Vedbæk,924000 ,30-04-1992,Alm. Salg,160,5775,5,1918,
 230,Rækkehus,Keilstruplund 77,3460, Birkerød,922000 ,29-04-1992,Alm. Salg,132,6985,4,1965,
-230,Rækkehus,Lyngskrænten 11,2840, Holte,1465000 ,29-04-1992,Alm. Salg,159,9214,8,1967,
-230,Villa,Ørnebakken 67,2840, Holte,1465000 ,29-04-1992,Alm. Salg,176,8324,6,1972,
 230,Villa,Søllerødgårdsvej 17,2840, Holte,2135580 ,29-04-1992,Alm. Salg,280,7627,9,1919,
 230,Villa,Vietoften 16,2950, Vedbæk,1353000 ,29-04-1992,Alm. Salg,172,7866,7,1971,
 230,Villa,Hælderne 17,2850, Nærum,1365000 ,28-04-1992,Alm. Salg,153,8922,5,1952,
@@ -29543,14 +29439,12 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 230,Villa,Højbjerg Vang 23,2840, Holte,1905450 ,27-04-1992,Alm. Salg,171,11143,5,1987,
 230,Villa,Søllerødvej 57A,2840, Holte,977000 ,27-04-1992,Auktion,262,3729,7,1897,
 230,Rækkehus,Keilstruplund 57,3460, Birkerød,975000 ,26-04-1992,Alm. Salg,132,7386,4,1965,
-230,Rækkehus,Carinaparken 3A,3460, Birkerød,1325000 ,26-04-1992,Alm. Salg,149,8893,5,1982,
 230,Rækkehus,Højbjerg Vang 45,2840, Holte,1456250 ,26-04-1992,Alm. Salg,163,8934,4,1977,
 230,Rækkehus,Bakkedraget 39,3460, Birkerød,758490 ,26-04-1992,Fam. Salg,126,6020,6,1953,
 230,Rækkehus,Bakkedraget 5,3460, Birkerød,940000 ,26-04-1992,Alm. Salg,126,7460,6,1952,
 230,Ejerlejlighed,"Lyngborghave 58, st. tv",3460, Birkerød,477000 ,26-04-1992,Alm. Salg,74,6446,3,1975,
 230,Ejerlejlighed,"Byagervej 147, 1. tv",3460, Birkerød,455000 ,26-04-1992,Alm. Salg,71,6408,3,1959,
 230,Villa,Thorsvej 1,3460, Birkerød,1070000 ,26-04-1992,Alm. Salg,135,7926,5,1944,
-230,Villa,J N Vinthers Vej 11,3460, Birkerød,1325000 ,26-04-1992,Alm. Salg,166,7982,4,1922,
 230,Villa,Skovhegnet 8A,3460, Birkerød,220000 ,26-04-1992,Alm. Salg,132,1667,5,1993,
 230,Villa,Langkærgårdsvej 18,3460, Birkerød,1011000 ,26-04-1992,Fam. Salg,172,5878,4,1956,
 230,Villa,Fagerlunden 15,2950, Vedbæk,1969249 ,26-04-1992,Alm. Salg,173,11383,5,1976,

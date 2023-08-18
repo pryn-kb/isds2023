@@ -228,9 +228,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 270,Villa,Lærkevej 29,3200, Helsinge,2585000 ,22-06-2022,Alm. Salg,134,19291,6,1970,-4%
 270,Villa,Karl Andersens Vej 3,3210, Vejby,3450000 ,21-06-2022,Alm. Salg,113,30531,3,1963,5%
 270,Villa,Græsted Vænge 9,3230, Græsted,2435000 ,21-06-2022,Alm. Salg,105,23190,4,1985,
-270,Rækkehus,Ny Mårumvej 268C,3200, Helsinge,8030000 ,19-06-2022,Alm. Salg,39,205897,2,1900,
 270,Villa,Moseager 17,3230, Græsted,1350000 ,19-06-2022,Fam. Salg,149,9060,5,1972,
-270,Villa,Ny Mårumvej 268B,3200, Helsinge,8030000 ,19-06-2022,Alm. Salg,298,26946,7,1984,
 270,Villa,Østergade 16,3250, Gilleleje,3800000 ,18-06-2022,Alm. Salg,242,15702,7,1910,-15%
 270,Rækkehus,Jernbæk Alle 88A,3200, Helsinge,2495000 ,16-06-2022,Alm. Salg,100,24950,3,2022,
 270,Villa,Husmandsvejen 34,3250, Gilleleje,3450000 ,16-06-2022,Alm. Salg,256,13477,7,2017,-4%
@@ -724,8 +722,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 270,Villa,Pinusvej 39,3200, Helsinge,2595000 ,26-10-2021,Alm. Salg,175,14829,5,1975,
 270,Villa,Damhaven 6,3200, Helsinge,1995000 ,26-10-2021,Alm. Salg,113,17655,4,1968,
 270,Rækkehus,Troldeskoven 26,3200, Helsinge,2775000 ,25-10-2021,Alm. Salg,104,26683,3,2022,
-270,Ejerlejlighed,Fredgårdsvej 2,3200, Helsinge,6900000 ,25-10-2021,Alm. Salg,44,156818,1,1890,
-270,Villa,Fredgårdsvej 2,3200, Helsinge,6900000 ,25-10-2021,Alm. Salg,200,34500,7,1890,
 270,Villa,Langdraget 186,3250, Gilleleje,3660000 ,25-10-2021,Alm. Salg,197,18579,6,1978,-4%
 270,Rækkehus,Troldeskoven 18,3200, Helsinge,2775000 ,24-10-2021,Alm. Salg,104,26683,3,2022,
 270,Ejerlejlighed,Skærødvej 15D,3200, Helsinge,1090000 ,24-10-2021,Alm. Salg,70,15571,2,1900,
@@ -801,7 +797,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 270,Ejerlejlighed,"Rådhusvej 70, 1. tv",3200, Helsinge,1390000 ,16-09-2021,Alm. Salg,52,26731,2,2021,-13%
 270,Ejerlejlighed,"Rådhusvej 70, 2. tv",3200, Helsinge,1410000 ,16-09-2021,Alm. Salg,52,27115,2,2021,-14%
 270,Villa,Ahornvej 1,3200, Helsinge,3700000 ,16-09-2021,Alm. Salg,226,16372,5,1961,-7%
-270,Villa,Græsted Stationsvej 14D,3230, Græsted,3140000 ,16-09-2021,Alm. Salg,59,53220,3,1940,
 270,Villa,Højdevej 6,3250, Gilleleje,2550000 ,15-09-2021,Alm. Salg,82,31098,3,1960,-5%
 270,Villa,Esbønderupvej 47,3230, Græsted,1500000 ,15-09-2021,Alm. Salg,103,14563,4,1934,-5%
 270,Villa,Ammendrup Park 205,3200, Helsinge,1600000 ,15-09-2021,Alm. Salg,186,8602,5,2022,
@@ -1019,7 +1014,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 270,Villa,Bygmarksvej 8,3200, Helsinge,3200000 ,15-06-2021,Alm. Salg,150,21333,4,1980,-6%
 270,Villa,Svansmosen 4,3200, Helsinge,3650000 ,15-06-2021,Alm. Salg,216,16898,5,1963,
 270,Villa,Haarlands Alle 12,3220, Tisvildeleje,2422500 ,15-06-2021,Fam. Salg,175,13843,8,1800,
-270,Ejerlejlighed,"Kongensgavevej 61, 1. tv",3200, Helsinge,1400000 ,14-06-2021,Alm. Salg,83,16867,3,1971,-2%
 270,Villa,Holmevej 22,3200, Helsinge,1317500 ,14-06-2021,Alm. Salg,136,9688,5,1972,
 270,Villa,Stationsvej 19,3210, Vejby,1450000 ,14-06-2021,Fam. Salg,180,8056,5,1892,
 270,Villa,Elmevej 27,3200, Helsinge,2801000 ,14-06-2021,Alm. Salg,138,20297,3,1971,0%
@@ -1027,7 +1021,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 270,Villa,Poppelvang 12,3250, Gilleleje,4075000 ,14-06-2021,Alm. Salg,168,24256,5,1980,-3%
 270,Villa,Nobisvej 2,3230, Græsted,1950000 ,14-06-2021,Alm. Salg,133,14662,4,1827,-2%
 270,Villa,Rosendalsvej 14,3230, Græsted,896500 ,14-06-2021,Alm. Salg,134,6690,5,1966,
-270,Villa,Rishøjvej 47,3200, Helsinge,1400000 ,14-06-2021,Alm. Salg,129,8805,5,1966,
 270,Ejerlejlighed,"Tuehusvej 1, 1",3210, Vejby,3150000 ,10-06-2021,Alm. Salg,112,28125,6,1915,
 270,Villa,Langdraget 120,3250, Gilleleje,2902000 ,10-06-2021,Alm. Salg,137,21182,5,1979,-3%
 270,Villa,Stokkevangen 2,3210, Vejby,1950000 ,10-06-2021,Alm. Salg,91,21429,3,1979,-7%
@@ -1652,12 +1645,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 270,Villa,Baundalsvej 6,3200, Helsinge,3495000 ,02-11-2020,Auktion,158,22120,5,1967,
 270,Villa,Park Alle 3,3120, Dronningmølle,2785000 ,02-11-2020,Auktion,144,19340,4,1961,
 270,Villa,Østerdalen 22,3230, Græsted,1850000 ,02-11-2020,Alm. Salg,147,12585,5,1974,-7%
-270,Rækkehus,Tingbakken 18,3230, Græsted,2450000 ,01-11-2020,Alm. Salg,118,20763,4,1892,-13%
 270,Villa,Byholmvej 28,3200, Helsinge,2695000 ,01-11-2020,Alm. Salg,152,17730,4,1974,
 270,Villa,Havnevej 22B,3250, Gilleleje,5750000 ,01-11-2020,Alm. Salg,166,34639,5,1949,-4%
 270,Villa,Kildevangen 6,3230, Græsted,6375000 ,01-11-2020,Alm. Salg,53,96591,4,1927,
 270,Villa,Vestskellet 40,3250, Gilleleje,2020000 ,01-11-2020,Alm. Salg,142,14225,6,1965,1%
-270,Villa,Tingbakken 18,3230, Græsted,2450000 ,01-11-2020,Alm. Salg,212,11557,6,1892,-13%
 270,Villa,Langørevej 6A,3230, Græsted,2900000 ,01-11-2020,Alm. Salg,160,18125,5,2016,0%
 270,Villa,Solgården 5C,3250, Gilleleje,2295000 ,31-10-2020,Alm. Salg,112,20491,4,2004,
 270,Ejerlejlighed,"Kongensgavevej 65, 2. th",3200, Helsinge,1199000 ,28-10-2020,Alm. Salg,83,14446,3,1971,
@@ -2128,7 +2119,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 270,Villa,Stenbrobakken 4,3220, Tisvildeleje,2050000 ,29-03-2020,Alm. Salg,151,13576,5,1972,-7%
 270,Villa,Klokkerstræde 4,3200, Helsinge,2250000 ,29-03-2020,Alm. Salg,144,15625,3,1748,-6%
 270,Rækkehus,Provstemarken 35,3200, Helsinge,2250000 ,26-03-2020,Alm. Salg,96,23438,1,2007,
-270,Villa,Græsted Hovedgade 28B,3230, Græsted,1750000 ,26-03-2020,Alm. Salg,72,15909,3,1910,
 270,Villa,Askelundsvej 15,3250, Gilleleje,2100000 ,25-03-2020,Alm. Salg,122,17213,4,1969,-4%
 270,Villa,Bakkeager 22,3230, Græsted,2395000 ,24-03-2020,Alm. Salg,175,13686,5,1970,
 270,Villa,Jasminvej 6,3200, Helsinge,2725000 ,23-03-2020,Alm. Salg,145,18793,4,1971,-3%
@@ -2145,7 +2135,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 270,Villa,Frederiksværkvej 204B,3300, Frederiksværk,1405000 ,12-03-2020,Alm. Salg,273,5147,6,1962,1%
 270,Villa,Hjortevej 3A,3230, Græsted,2500000 ,12-03-2020,Alm. Salg,125,20000,5,1956,-17%
 270,Villa,Esrum Park 12,3230, Græsted,1480000 ,12-03-2020,Alm. Salg,126,11746,5,1975,0%
-270,Villa,Præstevej 81D,3200, Helsinge,17085000 ,11-03-2020,Fam. Salg,66,258864,2,1859,
 270,Rækkehus,Tinghusevej 13A,3230, Græsted,2475000 ,10-03-2020,Alm. Salg,90,27500,4,1960,
 270,Villa,Breddam 14,3230, Græsted,575000 ,10-03-2020,Alm. Salg,184,3125,5,2021,-4%
 270,Villa,Skovhøjen 21,3230, Græsted,1800000 ,09-03-2020,Alm. Salg,138,13043,5,1979,-5%
@@ -2854,7 +2843,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 270,Villa,Mårumvej 60,3230, Græsted,1183825 ,28-01-2019,Auktion,118,10032,4,1970,
 270,Villa,Møllevangen 15,3200, Helsinge,2135000 ,28-01-2019,Alm. Salg,128,16680,4,1978,-3%
 270,Villa,Landagervej 3,3200, Helsinge,1600000 ,27-01-2019,Alm. Salg,94,17021,4,1960,
-270,Villa,Skolestien 4B,3250, Gilleleje,2250000 ,27-01-2019,Andet,147,15306,5,1935,
 270,Villa,Musvitvej 25,3200, Helsinge,1715000 ,26-01-2019,Alm. Salg,111,15450,4,1972,-2%
 270,Villa,Nydamsvej 15,3200, Helsinge,1995000 ,26-01-2019,Alm. Salg,121,16488,4,1971,-5%
 270,Ejerlejlighed,"Østergade 35D, 1",3200, Helsinge,1150000 ,24-01-2019,Alm. Salg,73,15753,2,1977,-4%
@@ -2932,74 +2920,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 270,Villa,Idrætsvej 17,3200, Helsinge,925000 ,30-11-2018,Alm. Salg,105,8810,3,1955,-7%
 270,Villa,By-Lyngen 24,3230, Græsted,822500 ,29-11-2018,Fam. Salg,132,6231,4,1979,
 270,Villa,Pårupvej 121,3230, Græsted,2250000 ,29-11-2018,Alm. Salg,176,12784,5,1900,-6%
-270,Ejerlejlighed,"Toftebovej 9, st. 9",3230, Græsted,12000000 ,28-11-2018,Alm. Salg,70,171429,2,1877,
-270,Ejerlejlighed,"Sygehusvej 4, 2. 6",3230, Græsted,12000000 ,28-11-2018,Alm. Salg,97,123711,2,1877,
-270,Ejerlejlighed,"Sygehusvej 4, 1. 9",3230, Græsted,12000000 ,28-11-2018,Alm. Salg,116,103448,3,1877,
-270,Ejerlejlighed,"Toftebovej 9, st. 6",3230, Græsted,12000000 ,28-11-2018,Alm. Salg,70,171429,2,1877,
-270,Ejerlejlighed,"Sygehusvej 4, 2. 19",3230, Græsted,12000000 ,28-11-2018,Alm. Salg,85,141176,2,1877,
-270,Ejerlejlighed,"Sygehusvej 4, 1. 11",3230, Græsted,12000000 ,28-11-2018,Alm. Salg,80,150000,2,1877,
-270,Ejerlejlighed,"Sygehusvej 4, 2. 5",3230, Græsted,12000000 ,28-11-2018,Alm. Salg,149,80537,3,1877,
-270,Ejerlejlighed,"Toftebovej 9, st. 8",3230, Græsted,12000000 ,28-11-2018,Alm. Salg,78,153846,2,1877,
-270,Ejerlejlighed,"Sygehusvej 4, 2. 2",3230, Græsted,12000000 ,28-11-2018,Alm. Salg,85,141176,2,1877,
-270,Ejerlejlighed,"Sygehusvej 2D, 1",3230, Græsted,12000000 ,28-11-2018,Alm. Salg,112,107143,3,1877,
-270,Ejerlejlighed,"Sygehusvej 4, 1. 5",3230, Græsted,12000000 ,28-11-2018,Alm. Salg,149,80537,3,1877,
-270,Ejerlejlighed,"Sygehusvej 2D, 2. 1",3230, Græsted,12000000 ,28-11-2018,Alm. Salg,84,142857,4,1877,
-270,Ejerlejlighed,"Sygehusvej 4, st. 6",3230, Græsted,12000000 ,28-11-2018,Alm. Salg,69,173913,2,1877,
-270,Ejerlejlighed,"Sygehusvej 4, 2. 8",3230, Græsted,12000000 ,28-11-2018,Alm. Salg,66,181818,2,1877,
-270,Ejerlejlighed,"Toftebovej 9, st. 13",3230, Græsted,12000000 ,28-11-2018,Alm. Salg,70,171429,2,1877,
-270,Ejerlejlighed,"Sygehusvej 4, 1. 16",3230, Græsted,12000000 ,28-11-2018,Alm. Salg,71,169014,2,1877,
-270,Ejerlejlighed,"Sygehusvej 4, 1. 2",3230, Græsted,12000000 ,28-11-2018,Alm. Salg,85,141176,2,1877,
-270,Ejerlejlighed,"Sygehusvej 4, st. 12",3230, Græsted,12000000 ,28-11-2018,Alm. Salg,69,173913,2,1877,
-270,Ejerlejlighed,"Sygehusvej 4, 1. 1",3230, Græsted,12000000 ,28-11-2018,Alm. Salg,83,144578,2,1877,
-270,Ejerlejlighed,"Toftebovej 9, st. 4",3230, Græsted,12000000 ,28-11-2018,Alm. Salg,88,136364,3,1877,
-270,Ejerlejlighed,"Sygehusvej 4, 2. 4",3230, Græsted,12000000 ,28-11-2018,Alm. Salg,140,85714,3,1877,
-270,Ejerlejlighed,"Sygehusvej 4, 1. 3",3230, Græsted,12000000 ,28-11-2018,Alm. Salg,138,86957,3,1877,
-270,Ejerlejlighed,"Sygehusvej 4, st. 10",3230, Græsted,12000000 ,28-11-2018,Alm. Salg,69,173913,2,1877,
-270,Ejerlejlighed,"Sygehusvej 4, 1. 7",3230, Græsted,12000000 ,28-11-2018,Alm. Salg,91,131868,3,1877,
-270,Ejerlejlighed,"Sygehusvej 4, 2. 11",3230, Græsted,12000000 ,28-11-2018,Alm. Salg,80,150000,2,1877,
-270,Ejerlejlighed,"Sygehusvej 4, 1. 17",3230, Græsted,12000000 ,28-11-2018,Alm. Salg,71,169014,2,1877,
-270,Ejerlejlighed,"Toftebovej 9, st. 3",3230, Græsted,12000000 ,28-11-2018,Alm. Salg,85,141176,2,1877,
-270,Ejerlejlighed,"Sygehusvej 4, st. 7",3230, Græsted,12000000 ,28-11-2018,Alm. Salg,69,173913,2,1877,
-270,Ejerlejlighed,"Sygehusvej 4, 2. 10",3230, Græsted,12000000 ,28-11-2018,Alm. Salg,94,127660,2,1877,
-270,Ejerlejlighed,"Sygehusvej 4, st. 4",3230, Græsted,12000000 ,28-11-2018,Alm. Salg,69,173913,2,1877,
-270,Ejerlejlighed,"Sygehusvej 4, 1. 14",3230, Græsted,12000000 ,28-11-2018,Alm. Salg,71,169014,2,1877,
-270,Ejerlejlighed,"Sygehusvej 4, 2. 16",3230, Græsted,12000000 ,28-11-2018,Alm. Salg,71,169014,2,1877,
-270,Ejerlejlighed,"Sygehusvej 4, 2. 18",3230, Græsted,12000000 ,28-11-2018,Alm. Salg,151,79470,3,1877,
-270,Ejerlejlighed,"Toftebovej 9, st. 10",3230, Græsted,12000000 ,28-11-2018,Alm. Salg,78,153846,2,1877,
-270,Ejerlejlighed,"Toftebovej 9, st. 11",3230, Græsted,12000000 ,28-11-2018,Alm. Salg,62,193548,2,1877,
-270,Ejerlejlighed,"Sygehusvej 4, 2. 3",3230, Græsted,12000000 ,28-11-2018,Alm. Salg,138,86957,3,1877,
-270,Ejerlejlighed,"Sygehusvej 4, 2. 1",3230, Græsted,12000000 ,28-11-2018,Alm. Salg,83,144578,2,1877,
-270,Ejerlejlighed,"Sygehusvej 4, 1. 8",3230, Græsted,12000000 ,28-11-2018,Alm. Salg,66,181818,2,1877,
-270,Ejerlejlighed,"Sygehusvej 4, st. 5",3230, Græsted,12000000 ,28-11-2018,Alm. Salg,69,173913,2,1877,
-270,Ejerlejlighed,"Toftebovej 9, st. 5",3230, Græsted,12000000 ,28-11-2018,Alm. Salg,88,136364,3,1877,
-270,Ejerlejlighed,"Toftebovej 9, st. 2",3230, Græsted,12000000 ,28-11-2018,Alm. Salg,76,157895,2,1877,
-270,Ejerlejlighed,"Sygehusvej 4, st. 3",3230, Græsted,12000000 ,28-11-2018,Alm. Salg,69,173913,2,1877,
-270,Ejerlejlighed,"Toftebovej 9, st. 7",3230, Græsted,12000000 ,28-11-2018,Alm. Salg,62,193548,2,1877,
-270,Ejerlejlighed,"Sygehusvej 4, 1. 12",3230, Græsted,12000000 ,28-11-2018,Alm. Salg,80,150000,2,1877,
-270,Ejerlejlighed,"Sygehusvej 4, 1. 4",3230, Græsted,12000000 ,28-11-2018,Alm. Salg,140,85714,3,1877,
-270,Ejerlejlighed,"Sygehusvej 4, st. 11",3230, Græsted,12000000 ,28-11-2018,Alm. Salg,69,173913,2,1877,
-270,Ejerlejlighed,"Sygehusvej 4, 2. 7",3230, Græsted,12000000 ,28-11-2018,Alm. Salg,91,131868,3,1877,
-270,Ejerlejlighed,"Sygehusvej 4, 2. 17",3230, Græsted,12000000 ,28-11-2018,Alm. Salg,71,169014,2,1877,
-270,Ejerlejlighed,"Sygehusvej 4, 2. 14",3230, Græsted,12000000 ,28-11-2018,Alm. Salg,71,169014,2,1877,
-270,Ejerlejlighed,"Sygehusvej 4, 1. 13",3230, Græsted,12000000 ,28-11-2018,Alm. Salg,79,151899,2,1877,
-270,Ejerlejlighed,"Sygehusvej 4, 2. 20",3230, Græsted,12000000 ,28-11-2018,Alm. Salg,85,141176,2,1877,
-270,Ejerlejlighed,"Sygehusvej 4, 1. 15",3230, Græsted,12000000 ,28-11-2018,Alm. Salg,71,169014,2,1877,
-270,Ejerlejlighed,"Sygehusvej 4, 1. 6",3230, Græsted,12000000 ,28-11-2018,Alm. Salg,97,123711,2,1877,
-270,Ejerlejlighed,"Toftebovej 9, st. 12",3230, Græsted,12000000 ,28-11-2018,Alm. Salg,70,171429,2,1877,
-270,Ejerlejlighed,"Sygehusvej 4, 2. 13",3230, Græsted,12000000 ,28-11-2018,Alm. Salg,79,151899,2,1877,
-270,Ejerlejlighed,"Sygehusvej 4, 2. 9",3230, Græsted,12000000 ,28-11-2018,Alm. Salg,116,103448,3,1877,
-270,Ejerlejlighed,"Sygehusvej 4, 1. 19",3230, Græsted,12000000 ,28-11-2018,Alm. Salg,85,141176,2,1877,
-270,Ejerlejlighed,"Sygehusvej 4, st. 8",3230, Græsted,12000000 ,28-11-2018,Alm. Salg,69,173913,2,1877,
-270,Ejerlejlighed,"Sygehusvej 2D, 2. 2",3230, Græsted,12000000 ,28-11-2018,Alm. Salg,116,72727,6,1877,
-270,Ejerlejlighed,"Sygehusvej 4, st. 2",3230, Græsted,12000000 ,28-11-2018,Alm. Salg,69,173913,2,1877,
-270,Ejerlejlighed,"Sygehusvej 4, 1. 20",3230, Græsted,12000000 ,28-11-2018,Alm. Salg,85,141176,2,1877,
-270,Ejerlejlighed,"Sygehusvej 4, st. 1",3230, Græsted,12000000 ,28-11-2018,Alm. Salg,71,169014,2,1877,
-270,Ejerlejlighed,"Sygehusvej 4, 1. 10",3230, Græsted,12000000 ,28-11-2018,Alm. Salg,94,127660,2,1877,
-270,Ejerlejlighed,"Sygehusvej 4, 2. 12",3230, Græsted,12000000 ,28-11-2018,Alm. Salg,80,150000,2,1877,
-270,Ejerlejlighed,"Sygehusvej 4, 2. 15",3230, Græsted,12000000 ,28-11-2018,Alm. Salg,71,169014,2,1877,
-270,Ejerlejlighed,"Sygehusvej 4, st. 9",3230, Græsted,12000000 ,28-11-2018,Alm. Salg,69,173913,2,1877,
-270,Ejerlejlighed,"Toftebovej 9, st. 1",3230, Græsted,12000000 ,28-11-2018,Alm. Salg,75,160000,2,1877,
-270,Ejerlejlighed,"Sygehusvej 4, 1. 18",3230, Græsted,12000000 ,28-11-2018,Alm. Salg,151,79470,3,1877,
 270,Villa,Rostgårdsvej 14,3250, Gilleleje,2900000 ,28-11-2018,Alm. Salg,133,21805,5,1954,-3%
 270,Villa,Dr Mølle Stationsvej 38,3120, Dronningmølle,2300000 ,28-11-2018,Alm. Salg,172,13372,9,1972,-8%
 270,Villa,Hasselvej 8,3200, Helsinge,1550000 ,27-11-2018,Alm. Salg,88,17614,4,1967,-7%
@@ -3292,7 +3212,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 270,Villa,Rågevej 5,3120, Dronningmølle,1395000 ,01-07-2018,Alm. Salg,92,15163,3,1965,
 270,Villa,Østre Alle 21D,3250, Gilleleje,3450000 ,01-07-2018,Alm. Salg,198,17424,3,1977,-8%
 270,Villa,Ramsvej 46,3200, Helsinge,4500000 ,01-07-2018,Alm. Salg,132,34091,5,1968,-4%
-270,Villa,Baunehøj 51,3250, Gilleleje,42124812 ,01-07-2018,Auktion,105,401189,4,2007,
 270,Villa,Saltrup Vænge 6,3230, Græsted,2300000 ,30-06-2018,Alm. Salg,169,13609,4,1977,-8%
 270,Villa,Bjørn Andersens Vej 5,3230, Græsted,1765000 ,30-06-2018,Alm. Salg,133,13271,4,1973,-2%
 270,Villa,Bakkebjergvej 10,3210, Vejby,1250000 ,30-06-2018,Alm. Salg,51,24510,2,1961,-10%
@@ -3451,10 +3370,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 270,Villa,Østergade 108,3200, Helsinge,1625000 ,19-04-2018,Alm. Salg,116,14009,5,1943,-3%
 270,Villa,Gilleleje Hovedgade 38,3250, Gilleleje,2400000 ,18-04-2018,Alm. Salg,121,19835,3,1827,-4%
 270,Villa,Sibbevej 2,3230, Græsted,875000 ,18-04-2018,Alm. Salg,108,8102,4,1850,-12%
-270,Rækkehus,Rågelejevej 37B,3210, Vejby,4675000 ,17-04-2018,Alm. Salg,80,58438,2,1975,
 270,Villa,Bognevej 5,3250, Gilleleje,2125000 ,17-04-2018,Alm. Salg,104,20433,5,1919,-3%
 270,Villa,Enstensvej 34,3210, Vejby,1475000 ,17-04-2018,Alm. Salg,127,11614,4,1987,-2%
-270,Villa,Rågelejevej 37,3210, Vejby,4675000 ,17-04-2018,Alm. Salg,120,31588,5,1975,
 270,Villa,Snebærvej 28,3230, Græsted,1678000 ,17-04-2018,Alm. Salg,108,15537,4,1981,
 270,Villa,Indelukket 9,3220, Tisvildeleje,1830000 ,17-04-2018,Alm. Salg,138,13261,5,1968,-3%
 270,Villa,Vandværksvej 23,3250, Gilleleje,1695000 ,17-04-2018,Alm. Salg,142,11937,5,1927,
@@ -3475,7 +3392,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 270,Villa,Solgårdsvej 11,3200, Helsinge,2275000 ,13-04-2018,Alm. Salg,165,13788,6,1965,-5%
 270,Villa,Nydamsvej 23,3200, Helsinge,1910000 ,12-04-2018,Alm. Salg,124,15403,5,1969,-4%
 270,Villa,Vesterprisvej 2,3220, Tisvildeleje,3795000 ,11-04-2018,Alm. Salg,207,18333,8,1953,
-270,Villa,Hovedgaden 65F,3220, Tisvildeleje,7500000 ,11-04-2018,Alm. Salg,101,74257,1,1902,
 270,Villa,Kirkebådsvej 9,3200, Helsinge,2999000 ,11-04-2018,Alm. Salg,192,15620,5,1990,
 270,Villa,Allikebakken 9,3200, Helsinge,2700000 ,08-04-2018,Alm. Salg,163,16564,5,1963,
 270,Villa,Ahornvej 24,3200, Helsinge,1545000 ,08-04-2018,Alm. Salg,94,16436,5,1962,
@@ -3738,9 +3654,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 270,Villa,Irisvej 7,3200, Helsinge,2085000 ,07-11-2017,Alm. Salg,157,13280,5,1945,-5%
 270,Villa,Kirkebådsvej 11,3200, Helsinge,2000000 ,07-11-2017,Alm. Salg,129,15504,5,1979,-5%
 270,Ejerlejlighed,Vængevej 6D,3220, Tisvildeleje,1700000 ,06-11-2017,Alm. Salg,71,23944,3,1910,
-270,Rækkehus,Ny Mårumvej 160C,3230, Græsted,120000 ,05-11-2017,Alm. Salg,61,1967,2,1890,
 270,Ejerlejlighed,Stuebjerggårdsvej 2C,3220, Tisvildeleje,1745000 ,05-11-2017,Alm. Salg,93,18763,3,1915,
-270,Villa,Ny Mårumvej 160B,3230, Græsted,120000 ,05-11-2017,Alm. Salg,77,1558,2,1890,
 270,Villa,Pinusvej 48,3200, Helsinge,2495000 ,04-11-2017,Alm. Salg,176,14176,7,1975,
 270,Villa,Østergade 122,3200, Helsinge,3995000 ,03-11-2017,Alm. Salg,165,24212,4,1919,
 270,Villa,Lundebjergvej 59,3220, Tisvildeleje,2319222 ,03-11-2017,Fam. Salg,159,14586,5,1964,
@@ -5005,8 +4919,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 270,Villa,Lærkevang 4,3250, Gilleleje,1047200 ,16-09-2015,Andet,96,10908,4,1967,
 270,Villa,Græsted Stationsvej 28,3230, Græsted,2250000 ,16-09-2015,Alm. Salg,151,14901,4,1934,-2%
 270,Rækkehus,Hovedgaden 42B,3220, Tisvildeleje,1800000 ,15-09-2015,Alm. Salg,103,17476,3,1945,-3%
-270,Ejerlejlighed,"Græsted Stationsvej 2, 1",3230, Græsted,2252500 ,15-09-2015,Fam. Salg,79,28513,1,1877,
-270,Villa,Græsted Stationsvej 4,3230, Græsted,2252500 ,15-09-2015,Fam. Salg,255,8833,7,1877,
 270,Villa,Rishøjvej 35,3200, Helsinge,925000 ,13-09-2015,Alm. Salg,150,6167,5,2016,
 270,Villa,Rostgårdsvej 3,3250, Gilleleje,1050000 ,10-09-2015,Alm. Salg,117,8974,5,1933,-4%
 270,Villa,Toftevej 75,3250, Gilleleje,6000000 ,10-09-2015,Alm. Salg,179,33520,5,1927,-20%
@@ -5683,8 +5595,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 270,Villa,Almevej 6,3230, Græsted,695000 ,09-06-2014,Alm. Salg,109,6376,4,1906,
 270,Villa,Firhøjvej 72A,3250, Gilleleje,210000 ,09-06-2014,Auktion,223,942,5,2019,
 270,Villa,Ryagergårdsvej 5,3200, Helsinge,1500000 ,03-06-2014,Alm. Salg,160,9375,4,1969,-9%
-270,Rækkehus,Kurrebrovej 24,3200, Helsinge,10795000 ,02-06-2014,Fam. Salg,20,539750,1,1875,
-270,Villa,Kurrebrovej 24,3200, Helsinge,10795000 ,02-06-2014,Fam. Salg,78,138397,6,1925,
 270,Villa,Kildegårdsvej 5,3220, Tisvildeleje,6250000 ,02-06-2014,Alm. Salg,204,30637,5,1907,
 270,Villa,Engsvinget 9,3200, Helsinge,875000 ,02-06-2014,Alm. Salg,168,5208,4,1964,
 270,Villa,Betulavej 50,3200, Helsinge,900000 ,02-06-2014,Alm. Salg,135,6667,4,1977,
@@ -5815,8 +5725,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 270,Villa,Nyvej 10,3220, Tisvildeleje,2595000 ,18-02-2014,Alm. Salg,114,22763,4,1953,
 270,Villa,Sibbevej 5,3230, Græsted,2200000 ,18-02-2014,Fam. Salg,200,11000,6,2008,
 270,Villa,Esbønderupvej 42,3230, Græsted,1900000 ,18-02-2014,Alm. Salg,150,12667,6,1935,-5%
-270,Rækkehus,Ny Mårumvej 160C,3230, Græsted,9873820 ,17-02-2014,Alm. Salg,61,161866,2,1890,
-270,Villa,Ny Mårumvej 160B,3230, Græsted,9873820 ,17-02-2014,Alm. Salg,77,128231,2,1890,
 270,Villa,Snebærvej 20,3230, Græsted,1050000 ,17-02-2014,Alm. Salg,108,9722,4,1980,-4%
 270,Villa,Ammendrup Park 147,3200, Helsinge,600000 ,17-02-2014,Alm. Salg,209,2871,6,2022,
 270,Villa,Kornmodsvej 1C,3250, Gilleleje,975000 ,17-02-2014,Alm. Salg,180,5417,5,1951,-8%
@@ -6065,8 +5973,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 270,Villa,Kalvehavevej 40,3250, Gilleleje,2475000 ,17-07-2013,Alm. Salg,159,15566,5,1969,
 270,Villa,Kælderbjergvej 28,3210, Vejby,2495000 ,16-07-2013,Alm. Salg,178,14017,6,1988,
 270,Villa,Kornbakken 7,3230, Græsted,1400000 ,15-07-2013,Alm. Salg,150,9333,4,1973,
-270,Ejerlejlighed,"St Strandstræde 1, 1",3250, Gilleleje,2450000 ,14-07-2013,Alm. Salg,66,37121,3,1912,
-270,Ejerlejlighed,"Gilleleje Hovedgade 19, 1",3250, Gilleleje,2450000 ,14-07-2013,Alm. Salg,130,18846,6,1912,
 270,Villa,Aspevej 12,3220, Tisvildeleje,3000000 ,12-07-2013,Alm. Salg,188,15957,7,1973,
 270,Rækkehus,Jasminvej 20,3200, Helsinge,1470000 ,11-07-2013,Alm. Salg,102,14412,4,1975,-2%
 270,Villa,Nellerupgårds Alle 25,3250, Gilleleje,968518 ,10-07-2013,Andet,93,10414,3,1961,
@@ -6230,11 +6136,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 270,Villa,Skolestien 7,3250, Gilleleje,1725000 ,04-03-2013,Alm. Salg,150,11500,5,1964,-4%
 270,Villa,Kukkerbakkevej 19,3230, Græsted,3500000 ,03-03-2013,Alm. Salg,147,23810,5,1932,
 270,Rækkehus,Sankt Helene Vej 29E,3220, Tisvildeleje,1550000 ,02-03-2013,Alm. Salg,86,18023,3,2006,-3%
-270,Ejerlejlighed,"Vestergade 1B, 2. tv",3200, Helsinge,10500000 ,28-02-2013,Alm. Salg,67,156716,3,1906,
-270,Ejerlejlighed,"Vestergade 1B, 2. th",3200, Helsinge,10500000 ,28-02-2013,Alm. Salg,58,181034,3,1906,
-270,Ejerlejlighed,"Frederiksborgvej 2C, 2",3200, Helsinge,10500000 ,28-02-2013,Alm. Salg,175,60000,6,1906,
-270,Ejerlejlighed,"Frederiksborgvej 2F, 1",3200, Helsinge,10500000 ,28-02-2013,Alm. Salg,59,177966,1,1940,
-270,Ejerlejlighed,"Vestergade 1B, 1. th",3200, Helsinge,10500000 ,28-02-2013,Alm. Salg,76,138158,2,1906,
 270,Villa,Østergade 37,3250, Gilleleje,3950000 ,28-02-2013,Alm. Salg,140,28214,4,1887,-6%
 270,Villa,Kalvehavevej 25,3250, Gilleleje,1220000 ,27-02-2013,Alm. Salg,92,13261,4,1961,-18%
 270,Villa,Kirkebådsvej 22,3200, Helsinge,1575000 ,27-02-2013,Alm. Salg,147,10714,5,1979,-7%
@@ -6569,9 +6470,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 270,Villa,Ahornvej 20,3200, Helsinge,825000 ,01-05-2012,Andet,133,6203,7,1964,
 270,Ejerlejlighed,"Kongensgavevej 43, st. th",3200, Helsinge,800000 ,30-04-2012,Alm. Salg,78,10256,3,1970,
 270,Villa,Væverlodden 12,3220, Tisvildeleje,1440000 ,30-04-2012,Auktion,194,7423,7,1980,
-270,Ejerlejlighed,Sygehusvej 3,3230, Græsted,307000 ,29-04-2012,Auktion,88,3489,2,1890,
-270,Ejerlejlighed,"Bagerstræde 2A, 1",3230, Græsted,307000 ,29-04-2012,Auktion,123,2496,4,1890,
-270,Ejerlejlighed,Bagerstræde 2B,3230, Græsted,307000 ,29-04-2012,Auktion,55,5582,2,1890,
 270,Villa,Græsted Stationsvej 36,3230, Græsted,1495000 ,29-04-2012,Alm. Salg,103,14515,5,1967,
 270,Villa,Helsingevej 20D,3250, Gilleleje,1450000 ,29-04-2012,Alm. Salg,134,10821,4,1986,-12%
 270,Rækkehus,Lindevej 4B,3200, Helsinge,1500000 ,28-04-2012,Alm. Salg,115,13043,4,1979,-3%
@@ -6969,7 +6867,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 270,Villa,Arresøgårds Alle 26,3200, Helsinge,875000 ,04-05-2011,Alm. Salg,92,9511,4,1967,-27%
 270,Villa,Ferlevej 10,3250, Gilleleje,3100000 ,03-05-2011,Alm. Salg,187,16578,4,1964,-16%
 270,Rækkehus,Præstevej 88,3200, Helsinge,1200000 ,02-05-2011,Auktion,167,7186,6,1854,
-270,Villa,Østergade 47A,3200, Helsinge,710000 ,02-05-2011,Auktion,190,3737,6,1904,-68%
 270,Villa,Frederiksborgvej 31,3200, Helsinge,1675000 ,01-05-2011,Alm. Salg,112,14955,4,1929,-4%
 270,Villa,Trehøis-Åsen 11,3250, Gilleleje,1870000 ,30-04-2011,Alm. Salg,127,14724,4,1986,-1%
 270,Villa,Bovænget 5,3200, Helsinge,1495000 ,27-04-2011,Alm. Salg,113,13230,4,1969,
@@ -7170,10 +7067,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 270,Rækkehus,Ålykkevej 5B,3230, Græsted,2200000 ,04-11-2010,Alm. Salg,130,16923,6,2011,-5%
 270,Villa,Villingebæk Strandvej 607C,3120, Dronningmølle,1497500 ,04-11-2010,Andet,230,6511,10,1936,
 270,Villa,Haragervej 10,3200, Helsinge,2400000 ,03-11-2010,Alm. Salg,164,14634,5,1973,-9%
-270,Ejerlejlighed,"Centervejen 20B, 1",3230, Græsted,1750000 ,02-11-2010,Alm. Salg,69,25362,2,1877,
-270,Ejerlejlighed,Centervejen 20B,3230, Græsted,1750000 ,02-11-2010,Alm. Salg,128,13672,4,1877,
-270,Ejerlejlighed,Centervejen 20C,3230, Græsted,1750000 ,02-11-2010,Alm. Salg,60,29167,1,1877,
-270,Ejerlejlighed,"Græsted Hovedgade 20B, 1",3230, Græsted,1750000 ,02-11-2010,Alm. Salg,80,21875,2,1877,
 270,Villa,Stubmarken 38,3230, Græsted,1700000 ,02-11-2010,Auktion,215,7907,5,1969,
 270,Villa,Rønne Alle 19,3250, Gilleleje,950000 ,02-11-2010,Auktion,126,7540,6,1960,
 270,Villa,Kælderbjerg Park 19,3210, Vejby,1650000 ,02-11-2010,Alm. Salg,150,11000,3,1985,
@@ -7188,7 +7081,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 270,Villa,Lucernevej 37,3230, Græsted,1700000 ,24-10-2010,Alm. Salg,161,10559,4,1971,-10%
 270,Rækkehus,Udsholt Byvej 11A,3230, Græsted,1295000 ,21-10-2010,Alm. Salg,126,10278,4,1837,
 270,Villa,Østre Alle 47A,3250, Gilleleje,3995000 ,21-10-2010,Alm. Salg,191,20916,7,1973,
-270,Rækkehus,Frederiksborgvej 36A,3200, Helsinge,592475 ,20-10-2010,Alm. Salg,104,5697,3,2016,
 270,Villa,Kirkebådsvej 5,3200, Helsinge,1695000 ,20-10-2010,Alm. Salg,138,12283,4,1979,
 270,Villa,Toftemarken 38,3200, Helsinge,2175000 ,20-10-2010,Alm. Salg,115,18913,4,1977,
 270,Villa,Nordre Parkvej 2,3200, Helsinge,1500000 ,17-10-2010,Alm. Salg,140,10714,5,1970,-9%
@@ -7353,7 +7245,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 270,Villa,Mellemvej 1,3210, Vejby,900000 ,15-06-2010,Alm. Salg,93,9677,5,1946,-31%
 270,Villa,Baunevej 1,3230, Græsted,2300000 ,15-06-2010,Alm. Salg,165,13939,5,1912,-3%
 270,Villa,Bomskolevej 9,3220, Tisvildeleje,1740000 ,14-06-2010,Alm. Salg,127,13701,4,1973,-3%
-270,Villa,Baunehøj 51,3250, Gilleleje,50509600 ,14-06-2010,Alm. Salg,105,481044,4,2007,
 270,Villa,Skovparken 8,3200, Helsinge,2400000 ,14-06-2010,Alm. Salg,134,17910,5,2000,-8%
 270,Rækkehus,Vestergade 61M,3200, Helsinge,1040000 ,13-06-2010,Alm. Salg,52,20000,2,1976,-10%
 270,Villa,Bytoften 6,3230, Græsted,1225000 ,12-06-2010,Alm. Salg,97,12629,2,1960,-2%
@@ -7513,11 +7404,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 270,Villa,Langdraget 224,3250, Gilleleje,1925000 ,31-01-2010,Alm. Salg,139,13849,5,1978,-4%
 270,Rækkehus,Birkely 42,3200, Helsinge,1600000 ,30-01-2010,Alm. Salg,113,14159,4,1989,-2%
 270,Villa,Agerhønevej 29,3120, Dronningmølle,1300000 ,27-01-2010,Alm. Salg,146,8904,6,1897,
-270,Rækkehus,Boholmsvej 2A,3250, Gilleleje,3762993 ,26-01-2010,Auktion,153,24595,4,2010,
 270,Villa,Græsted Stationsvej 6,3230, Græsted,1300000 ,26-01-2010,Auktion,267,4869,7,1895,
 270,Villa,Lille Strandstræde 8,3250, Gilleleje,2500000 ,26-01-2010,Alm. Salg,88,28409,3,1777,
 270,Villa,Kringelholm 126,3250, Gilleleje,770000 ,26-01-2010,Alm. Salg,219,3516,6,2012,
-270,Villa,Boholmsvej 2B,3250, Gilleleje,3762993 ,26-01-2010,Auktion,183,20563,5,1892,
 270,Villa,Nørrevej 4,3230, Græsted,850000 ,25-01-2010,Alm. Salg,146,5822,5,1967,-15%
 270,Villa,Frederiksværkvej 19B,3200, Helsinge,1285000 ,25-01-2010,Auktion,112,11473,4,1980,-14%
 270,Villa,Hellebjergvej 5,3120, Dronningmølle,1275000 ,25-01-2010,Alm. Salg,74,17230,4,1946,
@@ -7563,9 +7452,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 270,Villa,Gasværksvej 35,3250, Gilleleje,1575000 ,08-12-2009,Alm. Salg,154,10227,4,1964,-13%
 270,Villa,Grønnevang 218,3250, Gilleleje,1149030 ,08-12-2009,Andet,127,9047,3,1971,
 270,Rækkehus,Birkevang 261,3250, Gilleleje,1700000 ,07-12-2009,Alm. Salg,114,14912,4,1981,-8%
-270,Rækkehus,Birkely 106,3200, Helsinge,1600000 ,06-12-2009,Alm. Salg,116,13793,4,1990,-5%
 270,Villa,Parkvænget 8,3200, Helsinge,1945000 ,06-12-2009,Alm. Salg,128,15195,4,1968,-3%
-270,Villa,Høbjerg Hegn 26,3200, Helsinge,1600000 ,06-12-2009,Alm. Salg,208,7692,7,2010,
 270,Rækkehus,Egekrogen 4,3200, Helsinge,750000 ,04-12-2009,Alm. Salg,107,7009,4,1980,
 270,Villa,Kælderbjergvej 24,3210, Vejby,1400000 ,03-12-2009,Alm. Salg,113,12389,4,1971,-7%
 270,Villa,Frederiksværksvej 10,3230, Græsted,1350000 ,30-11-2009,Auktion,110,12273,6,1840,
@@ -7665,8 +7552,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 270,Villa,Nøddestien 9,3200, Helsinge,1200000 ,06-08-2009,Alm. Salg,106,11321,4,1959,-14%
 270,Villa,Tisvilde Bygade 45B,3220, Tisvildeleje,1875000 ,06-08-2009,Alm. Salg,130,14423,4,1969,-15%
 270,Rækkehus,Brombærvænget 14,3200, Helsinge,1000000 ,05-08-2009,Alm. Salg,102,9804,4,1972,-33%
-270,Ejerlejlighed,"Kongensgavevej 29, 2. th",3200, Helsinge,800000 ,05-08-2009,Alm. Salg,83,9639,3,1970,-10%
-270,Villa,Gribskovvej 39A,3200, Helsinge,800000 ,05-08-2009,Alm. Salg,125,6400,4,1988,-55%
 270,Villa,Svendebrevet 10,3230, Græsted,4003425 ,05-08-2009,Andet,129,23973,5,2005,
 270,Rækkehus,Sibbevej 1,3230, Græsted,1195000 ,04-08-2009,Auktion,80,14938,2,1800,-15%
 270,Villa,Hasselvej 16,3200, Helsinge,1800000 ,04-08-2009,Alm. Salg,139,12950,5,1968,-10%
@@ -7753,7 +7638,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 270,Villa,Kornbakken 31,3230, Græsted,1450000 ,09-06-2009,Alm. Salg,115,12609,3,1969,
 270,Villa,Vandværksvej 30,3250, Gilleleje,1125000 ,09-06-2009,Alm. Salg,129,8721,4,1959,
 270,Ejerlejlighed,"Alfavej 2D, 1. tv",3250, Gilleleje,1850000 ,08-06-2009,Fam. Salg,81,22840,3,1986,
-270,Villa,Pårupvej 5B,3230, Græsted,1000000 ,08-06-2009,Auktion,40,25000,1,1967,
 270,Villa,Valbyvej 72,3200, Helsinge,1700000 ,07-06-2009,Alm. Salg,168,10119,5,1934,-5%
 270,Villa,Præstevejen 6C,3230, Græsted,1995000 ,06-06-2009,Alm. Salg,158,12627,6,1986,
 270,Rækkehus,Ahornvænget 13,3200, Helsinge,1400000 ,04-06-2009,Alm. Salg,75,18667,3,1972,-12%
@@ -8141,12 +8025,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 270,Villa,Bymosevej 25,3200, Helsinge,2275000 ,07-06-2008,Alm. Salg,142,16021,5,1973,
 270,Villa,Havregårdsvej 26,3250, Gilleleje,2450000 ,05-06-2008,Alm. Salg,212,11557,7,1969,-6%
 270,Villa,Stubbegårdsvej 27,3250, Gilleleje,2950000 ,05-06-2008,Alm. Salg,127,23228,4,1981,-2%
-270,Villa,Græsted Stationsvej 14D,3230, Græsted,2250000 ,05-06-2008,Alm. Salg,59,38136,3,1940,
 270,Rækkehus,Ahornstien 6C,3250, Gilleleje,2595591 ,04-06-2008,Alm. Salg,84,30900,3,2009,
 270,Villa,Tisvilde Bygade 68,3220, Tisvildeleje,1700000 ,03-06-2008,Alm. Salg,183,9290,5,2011,
 270,Rækkehus,Engen 3,3250, Gilleleje,2250000 ,02-06-2008,Alm. Salg,146,15411,6,2006,-10%
-270,Ejerlejlighed,Kilde-Åsen 15,3210, Vejby,2500000 ,02-06-2008,Auktion,92,27174,2,1962,
-270,Ejerlejlighed,Byageren 2D,3210, Vejby,2500000 ,02-06-2008,Auktion,92,27174,5,1962,
 270,Villa,Bryderupvej 16,3200, Helsinge,828750 ,02-06-2008,Fam. Salg,87,9526,4,1966,
 270,Villa,Rønnebærvej 8,3200, Helsinge,1700000 ,02-06-2008,Alm. Salg,93,18280,3,1920,
 270,Villa,Gurrehavevej 57,3200, Helsinge,3995000 ,02-06-2008,Alm. Salg,156,25609,5,2008,
@@ -8248,9 +8129,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 270,Rækkehus,Kalvehavevej 47B,3250, Gilleleje,750000 ,15-03-2008,Fam. Salg,118,6356,4,1980,
 270,Villa,Kagerup Park 31,3200, Helsinge,3000000 ,15-03-2008,Alm. Salg,180,16667,7,1970,-6%
 270,Villa,Paradis Sidealle 11,3200, Helsinge,2300000 ,14-03-2008,Alm. Salg,142,16197,4,1973,-8%
-270,Ejerlejlighed,Sygehusvej 3,3230, Græsted,1325000 ,13-03-2008,Alm. Salg,88,15057,2,1890,
-270,Ejerlejlighed,"Bagerstræde 2A, 1",3230, Græsted,1325000 ,13-03-2008,Alm. Salg,123,10772,4,1890,
-270,Ejerlejlighed,Bagerstræde 2B,3230, Græsted,1325000 ,13-03-2008,Alm. Salg,55,24091,2,1890,
 270,Villa,Langdraget 116,3250, Gilleleje,3100000 ,13-03-2008,Alm. Salg,191,16230,7,1978,-6%
 270,Ejerlejlighed,Aggebovej 30,3200, Helsinge,6760000 ,11-03-2008,Fam. Salg,91,74286,4,1983,
 270,Villa,Tinghusevej 11,3230, Græsted,2685000 ,10-03-2008,Alm. Salg,157,17102,6,1890,-6%
@@ -8632,9 +8510,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 270,Villa,Ellemosevej 17,3200, Helsinge,165877 ,10-06-2007,Fam. Salg,156,1063,5,2016,
 270,Rækkehus,Langedam 48,3230, Græsted,2800000 ,09-06-2007,Alm. Salg,125,22400,5,2007,
 270,Villa,Kringelholm 12,3250, Gilleleje,4645000 ,09-06-2007,Alm. Salg,226,20553,6,2004,
-270,Ejerlejlighed,Sygehusvej 3,3230, Græsted,2050000 ,06-06-2007,Alm. Salg,88,23295,2,1890,-2%
-270,Ejerlejlighed,"Bagerstræde 2A, 1",3230, Græsted,2050000 ,06-06-2007,Alm. Salg,123,16667,4,1890,-2%
-270,Ejerlejlighed,Bagerstræde 2B,3230, Græsted,2050000 ,06-06-2007,Alm. Salg,55,37273,2,1890,-2%
 270,Villa,Haragervej 16,3200, Helsinge,2100000 ,05-06-2007,Alm. Salg,113,18584,4,1972,
 270,Villa,Gilleleje Hovedgade 42B,3250, Gilleleje,2675000 ,05-06-2007,Alm. Salg,175,15286,5,1983,
 270,Villa,Holløse Gade 16,3210, Vejby,1300000 ,05-06-2007,Alm. Salg,71,18310,3,1875,-16%
@@ -8744,7 +8619,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 270,Villa,Enstensvej 24,3210, Vejby,2500000 ,16-04-2007,Alm. Salg,134,18657,4,1980,
 270,Villa,Moseager 21,3230, Græsted,2695000 ,15-04-2007,Alm. Salg,124,21734,4,1974,
 270,Villa,Høbuen 12,3230, Græsted,2500000 ,15-04-2007,Alm. Salg,179,13966,5,1971,
-270,Villa,Baunehøj 51,3250, Gilleleje,50509600 ,15-04-2007,Alm. Salg,105,481044,4,2007,
 270,Rækkehus,Engsvinget 8B,3250, Gilleleje,2100000 ,14-04-2007,Alm. Salg,135,15556,4,2009,
 270,Ejerlejlighed,Pileskoven 103,3250, Gilleleje,2400000 ,14-04-2007,Alm. Salg,95,25263,4,2005,
 270,Villa,Kringelholm 108,3250, Gilleleje,3795000 ,14-04-2007,Alm. Salg,168,22589,6,2007,
@@ -8778,7 +8652,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 270,Rækkehus,Tjørnevang 14,3250, Gilleleje,2175000 ,25-03-2007,Alm. Salg,81,26852,3,1963,
 270,Villa,Holmevej 20,3200, Helsinge,2995000 ,25-03-2007,Alm. Salg,143,20944,4,1969,
 270,Villa,Nellerødvej 39,3200, Helsinge,748000 ,25-03-2007,Alm. Salg,387,1655,9,1875,
-270,Villa,A W Holmsvej 3A,3250, Gilleleje,3655000 ,25-03-2007,Alm. Salg,222,16464,8,1876,
 270,Villa,Farvergårdsvej 21,3210, Vejby,5600000 ,24-03-2007,Alm. Salg,210,26667,7,1962,-7%
 270,Rækkehus,Birkedalsvej 1,3200, Helsinge,2330000 ,22-03-2007,Alm. Salg,152,15329,4,1962,-3%
 270,Villa,Blåbærbakken 13,3250, Gilleleje,5775000 ,19-03-2007,Alm. Salg,201,28731,7,1900,
@@ -8818,10 +8691,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 270,Villa,Søkæret 9,3200, Helsinge,2500000 ,24-02-2007,Alm. Salg,162,15432,5,1973,-4%
 270,Villa,Søkrogvej 3,3200, Helsinge,679954 ,22-02-2007,Fam. Salg,132,5151,4,1909,
 270,Villa,Mårumvej 60,3230, Græsted,3795000 ,21-02-2007,Alm. Salg,118,32161,4,1970,
-270,Rækkehus,Græsted Park 17,3230, Græsted,2300000 ,20-02-2007,Alm. Salg,112,20536,4,1980,
 270,Villa,Grønnevang 332,3250, Gilleleje,4245000 ,20-02-2007,Alm. Salg,154,27565,5,1998,
 270,Villa,Skovhøjen 56,3230, Græsted,1995000 ,20-02-2007,Alm. Salg,126,15833,4,1978,
-270,Villa,Kroengen 19,3230, Græsted,2300000 ,20-02-2007,Alm. Salg,132,17424,5,1977,-11%
 270,Villa,Kringelholm 57,3250, Gilleleje,3800000 ,20-02-2007,Alm. Salg,227,16740,6,2017,
 270,Villa,Rundinsvej 30,3200, Helsinge,1360000 ,19-02-2007,Fam. Salg,127,10709,4,1967,
 270,Villa,Kastanie Alle 4,3250, Gilleleje,2550000 ,19-02-2007,Fam. Salg,158,16139,4,1987,
@@ -8886,7 +8757,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 270,Villa,Bøgebakken 32,3250, Gilleleje,2500000 ,21-01-2007,Alm. Salg,109,22936,4,1919,
 270,Villa,Mor Gribsvej 4,3230, Græsted,2295000 ,21-01-2007,Alm. Salg,100,22950,3,1944,
 270,Villa,Helsingevej 58A,3230, Græsted,1500000 ,21-01-2007,Fam. Salg,213,7042,7,1932,
-270,Villa,Hovedgaden 65F,3220, Tisvildeleje,1827500 ,21-01-2007,Alm. Salg,101,18094,1,1902,
 270,Villa,Krinkelkrogen 6,3200, Helsinge,628360 ,21-01-2007,Andet,158,3977,6,2019,
 270,Villa,Gurrehavegårdsvej 68,3200, Helsinge,4300000 ,21-01-2007,Alm. Salg,156,27564,5,2007,
 270,Villa,Nørrevej 6,3230, Græsted,2525000 ,16-01-2007,Alm. Salg,103,24515,4,1968,-2%
@@ -8994,9 +8864,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 270,Rækkehus,Rosengården 145,3250, Gilleleje,1900000 ,09-11-2006,Alm. Salg,72,26389,2,1979,
 270,Villa,Gurrehaven 8,3200, Helsinge,500000 ,08-11-2006,Andet,137,3650,6,1970,
 270,Villa,Stokkebrovej 13,3210, Vejby,2430000 ,07-11-2006,Auktion,285,7254,10,1920,
-270,Rækkehus,Morelvej 8,3230, Græsted,2195000 ,06-11-2006,Alm. Salg,111,19775,3,1999,
 270,Ejerlejlighed,"Bryggervej 5C, st. 3",3200, Helsinge,2100000 ,06-11-2006,Alm. Salg,85,24706,3,2008,
-270,Villa,Boserupvej 13A,3230, Græsted,2195000 ,06-11-2006,Alm. Salg,104,21106,2,1911,
 270,Villa,Kringelholm 130,3250, Gilleleje,1033500 ,06-11-2006,Alm. Salg,198,5220,6,2008,
 270,Rækkehus,Hybenbakken 5,3250, Gilleleje,1162500 ,05-11-2006,Alm. Salg,144,8073,5,2007,
 270,Villa,Kirkevej 13B,3230, Græsted,1825000 ,05-11-2006,Alm. Salg,130,14038,4,1973,
@@ -9274,10 +9142,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 270,Villa,Østre Alle 9A,3250, Gilleleje,2300000 ,01-07-2006,Alm. Salg,163,14110,5,2008,
 270,Villa,By-Lyngen 25,3230, Græsted,1239604 ,30-06-2006,Andet,170,7292,6,1971,
 270,Villa,Ny Mårumvej 232,3230, Græsted,2650000 ,30-06-2006,Alm. Salg,116,22845,4,2001,
-270,Rækkehus,Rågelejevej 37B,3210, Vejby,10000000 ,29-06-2006,Andet,80,125000,2,1975,
 270,Rækkehus,Kongensgavevej 7B,3200, Helsinge,2345000 ,29-06-2006,Alm. Salg,108,21713,5,1982,
 270,Ejerlejlighed,Stuebjerggårdsvej 2F,3220, Tisvildeleje,1995000 ,29-06-2006,Alm. Salg,92,21685,3,1915,
-270,Villa,Rågelejevej 37,3210, Vejby,10000000 ,29-06-2006,Andet,120,67568,5,1975,
 270,Villa,Vibelandsvej 7,3200, Helsinge,3400000 ,28-06-2006,Alm. Salg,200,17000,7,1880,
 270,Villa,Skovhøjen 8,3230, Græsted,2645000 ,28-06-2006,Alm. Salg,187,14144,4,1974,
 270,Villa,Kirkebådsvej 6,3200, Helsinge,2845000 ,28-06-2006,Alm. Salg,133,21391,5,1979,
@@ -9391,7 +9257,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 270,Villa,Valbyvej 86,3200, Helsinge,4500000 ,07-05-2006,Alm. Salg,223,20179,7,1910,
 270,Villa,Hørvænget 3,3250, Gilleleje,2475000 ,07-05-2006,Alm. Salg,150,16500,3,1970,
 270,Villa,By-Lyngen 25,3230, Græsted,2785000 ,07-05-2006,Alm. Salg,170,16382,6,1971,
-270,Villa,Skolestien 4B,3250, Gilleleje,1842606 ,07-05-2006,Alm. Salg,147,12535,5,1935,
 270,Villa,Gillelejevej 9,3230, Græsted,3256725 ,07-05-2006,Alm. Salg,76,42852,3,1800,
 270,Villa,Vesterbrogade 50,3250, Gilleleje,3675000 ,07-05-2006,Alm. Salg,133,27632,6,1927,
 270,Villa,Frederiksborgvej 91,3200, Helsinge,4750000 ,07-05-2006,Alm. Salg,203,23399,7,1935,
@@ -9506,7 +9371,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 270,Villa,Lundevej 1B,3210, Vejby,1375000 ,19-03-2006,Alm. Salg,113,12168,4,1989,
 270,Villa,Søndervænget 3,3210, Vejby,1390000 ,18-03-2006,Alm. Salg,66,21061,3,1955,
 270,Villa,Gurrehavevej 32,3200, Helsinge,3530000 ,17-03-2006,Alm. Salg,149,23691,6,2007,
-270,Rækkehus,Kælderbjerg Park 6B,3210, Vejby,1000000 ,16-03-2006,Alm. Salg,76,13158,3,2005,
 270,Villa,Holløse Gade 32,3210, Vejby,1575000 ,16-03-2006,Alm. Salg,90,17500,2,1962,
 270,Villa,Niels Lorentzens Vej 60,3230, Græsted,1850000 ,16-03-2006,Alm. Salg,133,13910,5,1974,
 270,Villa,Badstuevej 4,3200, Helsinge,2000000 ,16-03-2006,Alm. Salg,122,16393,4,1964,
@@ -10464,9 +10328,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 270,Villa,Østergade 49A,3200, Helsinge,2495000 ,05-03-2005,Alm. Salg,170,14676,7,1915,
 270,Villa,Gilleleje Hovedgade 44B,3250, Gilleleje,481510 ,05-03-2005,Andet,197,2444,6,1877,
 270,Rækkehus,Lindevej 35,3200, Helsinge,1595000 ,03-03-2005,Alm. Salg,102,15637,4,1974,
-270,Ejerlejlighed,Sygehusvej 3,3230, Græsted,868000 ,03-03-2005,Alm. Salg,88,9864,2,1890,
-270,Ejerlejlighed,"Bagerstræde 2A, 1",3230, Græsted,868000 ,03-03-2005,Alm. Salg,123,7057,4,1890,
-270,Ejerlejlighed,Bagerstræde 2B,3230, Græsted,868000 ,03-03-2005,Alm. Salg,55,15782,2,1890,
 270,Villa,Helsingevej 9,3250, Gilleleje,995000 ,03-03-2005,Alm. Salg,200,4975,5,2006,
 270,Villa,Havrekrogen 10,3200, Helsinge,2695000 ,02-03-2005,Alm. Salg,183,14727,6,1999,
 270,Villa,Østre Alle 80C,3250, Gilleleje,3100000 ,02-03-2005,Alm. Salg,156,19872,5,1984,
@@ -10618,7 +10479,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 270,Rækkehus,Bryggerengen 37,3200, Helsinge,1695000 ,01-01-2005,Alm. Salg,95,17842,3,2007,
 270,Villa,Saltrup Vænge 1,3230, Græsted,1294259 ,31-12-2004,Fam. Salg,141,9179,4,1976,
 270,Villa,Saxenkolvej 52,3210, Vejby,1700000 ,31-12-2004,Alm. Salg,125,13600,4,1980,
-270,Villa,Baunehøj 51,3250, Gilleleje,7775000 ,31-12-2004,Alm. Salg,105,74048,4,2007,
 270,Rækkehus,Vesterbrogade 93A,3250, Gilleleje,1850000 ,28-12-2004,Alm. Salg,118,15678,4,1980,
 270,Villa,Østergade 13,3250, Gilleleje,3087500 ,28-12-2004,Alm. Salg,145,21293,3,1843,
 270,Villa,Toftemarken 7,3200, Helsinge,1775000 ,27-12-2004,Alm. Salg,160,11094,6,1978,
@@ -11151,8 +11011,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 270,Villa,Abildvang 10,3250, Gilleleje,1785000 ,24-03-2004,Alm. Salg,183,9754,6,1971,
 270,Villa,Rytterskolevej 7,3230, Græsted,3850000 ,24-03-2004,Alm. Salg,264,14583,7,2001,
 270,Villa,Rytterskolevej 9,3230, Græsted,2750000 ,24-03-2004,Alm. Salg,192,14323,5,2001,
-270,Ejerlejlighed,Kilde-Åsen 15,3210, Vejby,780195 ,23-03-2004,Fam. Salg,92,8480,2,1962,
-270,Ejerlejlighed,Byageren 2D,3210, Vejby,780195 ,23-03-2004,Fam. Salg,92,8480,5,1962,
 270,Villa,Vandværksvej 4,3200, Helsinge,1395000 ,23-03-2004,Alm. Salg,130,10731,4,1928,
 270,Villa,Stenlandsengen 20,3200, Helsinge,2095000 ,23-03-2004,Alm. Salg,145,14448,4,2004,
 270,Villa,Breddam 4,3230, Græsted,1500000 ,23-03-2004,Alm. Salg,180,8333,5,1936,
@@ -11196,7 +11054,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 270,Villa,Eggemose-Ager 1,3250, Gilleleje,255000 ,07-03-2004,Fam. Salg,133,1917,5,1972,
 270,Villa,Ibisvej 14,3120, Dronningmølle,1425000 ,07-03-2004,Alm. Salg,142,10035,4,1964,
 270,Villa,Munkerup Strandvej 70,3120, Dronningmølle,1960000 ,07-03-2004,Alm. Salg,204,9608,7,1875,
-270,Villa,Pårupvej 5B,3230, Græsted,2135000 ,07-03-2004,Alm. Salg,40,53375,1,1967,
 270,Villa,Klingebjergvej 2,3200, Helsinge,1905373 ,06-03-2004,Alm. Salg,151,12618,5,1978,
 270,Ejerlejlighed,"Kongensgavevej 21, 1. tv",3200, Helsinge,1085000 ,05-03-2004,Alm. Salg,91,11923,4,1970,
 270,Rækkehus,Hindsehovgården 17,3120, Dronningmølle,1357625 ,04-03-2004,Alm. Salg,93,14598,4,1992,
@@ -11403,7 +11260,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 270,Villa,Hillerødvejen 29,3250, Gilleleje,2075000 ,19-11-2003,Alm. Salg,165,12576,4,1877,
 270,Villa,Spurvevej 23,3200, Helsinge,1825000 ,19-11-2003,Alm. Salg,185,9865,6,1971,
 270,Villa,Esbønderupvej 17,3230, Græsted,1400000 ,18-11-2003,Alm. Salg,109,12844,4,1977,
-270,Villa,Østergade 21B,3200, Helsinge,3000000 ,18-11-2003,Alm. Salg,113,26549,4,1900,
 270,Villa,Dragstrup Enghave 8,3250, Gilleleje,1750000 ,16-11-2003,Alm. Salg,150,7955,5,1972,
 270,Villa,Villingebæk Strandvej 591A,3120, Dronningmølle,2205000 ,16-11-2003,Alm. Salg,122,18074,3,1909,
 270,Villa,Helsingevej 25C,3250, Gilleleje,1625000 ,16-11-2003,Alm. Salg,88,18466,5,1827,
@@ -11574,7 +11430,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 270,Rækkehus,Birkevang 157,3250, Gilleleje,1695000 ,03-09-2003,Alm. Salg,112,15134,4,1987,
 270,Villa,Pinusvej 34,3200, Helsinge,1850000 ,02-09-2003,Alm. Salg,174,10632,6,1974,
 270,Villa,Stenlandsengen 30,3200, Helsinge,625000 ,02-09-2003,Alm. Salg,200,3125,5,2007,
-270,Villa,Pårupvej 5B,3230, Græsted,1435000 ,02-09-2003,Alm. Salg,40,35875,1,1967,
 270,Villa,Thorsagervej 17,3230, Græsted,1299171 ,01-09-2003,Alm. Salg,150,8661,6,1969,
 270,Villa,Pinusparken 10,3200, Helsinge,1994455 ,31-08-2003,Fam. Salg,160,12465,5,2002,
 270,Villa,Rugmarksvej 20,3200, Helsinge,2093724 ,31-08-2003,Alm. Salg,235,8909,7,1971,
@@ -11920,7 +11775,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 270,Rækkehus,Egebakken 3A,3200, Helsinge,1175000 ,14-03-2003,Alm. Salg,76,15461,3,1979,
 270,Villa,Sydskrænten 8,3210, Vejby,435230 ,14-03-2003,Fam. Salg,114,3818,4,1973,
 270,Villa,Bækkebrovej 20,3220, Tisvildeleje,1791666 ,13-03-2003,Alm. Salg,157,11412,6,1963,
-270,Rækkehus,Stationsvej 23,3210, Vejby,1775000 ,12-03-2003,Alm. Salg,79,22468,2,1000,
 270,Villa,Møngevej 1,3210, Vejby,775000 ,12-03-2003,Andet,104,7452,2,1854,
 270,Villa,Firhøjvej 65,3250, Gilleleje,1275000 ,11-03-2003,Alm. Salg,240,5313,4,1912,
 270,Villa,Holtesgårdvej 1,3120, Dronningmølle,1535000 ,11-03-2003,Alm. Salg,133,11541,5,1964,
@@ -11943,8 +11797,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 270,Villa,Havnevej 11,3250, Gilleleje,1850000 ,05-03-2003,Alm. Salg,95,19474,5,1877,
 270,Villa,Møllevangen 5,3200, Helsinge,1732670 ,05-03-2003,Alm. Salg,144,12032,6,1972,
 270,Rækkehus,Kirkevej 29A,3230, Græsted,1500000 ,04-03-2003,Alm. Salg,148,10135,5,2001,
-270,Ejerlejlighed,Kilde-Åsen 15,3210, Vejby,2260000 ,04-03-2003,Alm. Salg,92,24565,2,1962,
-270,Ejerlejlighed,Byageren 2D,3210, Vejby,2260000 ,04-03-2003,Alm. Salg,92,24565,5,1962,
 270,Villa,Landagervej 30,3200, Helsinge,825000 ,04-03-2003,Alm. Salg,157,5255,5,2008,
 270,Ejerlejlighed,"Kongensgavevej 41, 1. tv",3200, Helsinge,850000 ,03-03-2003,Alm. Salg,78,10897,3,1970,
 270,Villa,Elme Alle 25,3120, Dronningmølle,1295000 ,03-03-2003,Alm. Salg,138,9384,6,1947,
@@ -12500,7 +12352,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 270,Villa,Kalvehavevej 17,3250, Gilleleje,1200000 ,12-05-2002,Alm. Salg,133,9023,6,1952,
 270,Villa,Blåbærbakken 12,3250, Gilleleje,1600000 ,11-05-2002,Alm. Salg,199,8040,5,1960,
 270,Villa,Esbønderupvej 63,3230, Græsted,540000 ,08-05-2002,Alm. Salg,112,4821,3,1942,
-270,Villa,Østergade 47A,3200, Helsinge,2000000 ,08-05-2002,Alm. Salg,190,10526,6,1904,
 270,Villa,Englunden 1,3210, Vejby,1739597 ,07-05-2002,Alm. Salg,155,11223,6,1938,
 270,Villa,Pinusvej 63,3200, Helsinge,1390000 ,07-05-2002,Alm. Salg,172,8081,6,1976,
 270,Villa,Villingerødvej 43,3120, Dronningmølle,2995000 ,07-05-2002,Alm. Salg,253,11838,6,1877,
@@ -12582,7 +12433,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 270,Villa,Ammendrupvej 29,3200, Helsinge,1380000 ,24-03-2002,Alm. Salg,142,9718,4,1979,
 270,Villa,Frederiksværkvej 202,3300, Frederiksværk,1229234 ,24-03-2002,Alm. Salg,153,8034,4,1877,
 270,Villa,Stæremosevej 6,3200, Helsinge,2532778 ,23-03-2002,Alm. Salg,231,10964,5,1775,
-270,Villa,Høbjergvej 32,3200, Helsinge,200000 ,23-03-2002,Alm. Salg,169,1183,5,1907,
 270,Villa,Møllevangen 9,3200, Helsinge,829846 ,23-03-2002,Alm. Salg,155,5354,7,1974,
 270,Rækkehus,Skærødvej 1E,3200, Helsinge,1627654 ,22-03-2002,Alm. Salg,120,13564,4,1999,
 270,Villa,Præstevænget 105,3230, Græsted,2046417 ,20-03-2002,Alm. Salg,152,13463,6,1998,
@@ -14054,10 +13904,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 270,Villa,Vængevej 10A,3220, Tisvildeleje,2300000 ,21-03-2000,Alm. Salg,240,8846,8,1900,
 270,Villa,Smutvej 3,3210, Vejby,1320852 ,20-03-2000,Alm. Salg,123,10739,6,1949,
 270,Villa,Bomskolevej 7,3220, Tisvildeleje,1398000 ,20-03-2000,Alm. Salg,150,9320,5,1977,
-270,Ejerlejlighed,"Centervejen 20B, 1",3230, Græsted,1500000 ,19-03-2000,Alm. Salg,69,21739,2,1877,
-270,Ejerlejlighed,Centervejen 20B,3230, Græsted,1500000 ,19-03-2000,Alm. Salg,128,11719,4,1877,
-270,Ejerlejlighed,Centervejen 20C,3230, Græsted,1500000 ,19-03-2000,Alm. Salg,60,25000,1,1877,
-270,Ejerlejlighed,"Græsted Hovedgade 20B, 1",3230, Græsted,1500000 ,19-03-2000,Alm. Salg,80,18750,2,1877,
 270,Villa,Mårumvej 70,3230, Græsted,100000 ,19-03-2000,Alm. Salg,183,402,5,1906,
 270,Villa,Høbjergvej 3,3200, Helsinge,1410880 ,19-03-2000,Alm. Salg,166,8499,5,1968,
 270,Villa,Gilleleje Strandvej 22,3250, Gilleleje,1530000 ,19-03-2000,Alm. Salg,153,10000,5,1926,
@@ -14067,7 +13913,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 270,Villa,Engsvinget 11,3200, Helsinge,1300000 ,18-03-2000,Alm. Salg,90,14444,3,1964,
 270,Villa,Smidstrup Strandvej 59,3250, Gilleleje,225000 ,17-03-2000,Alm. Salg,132,1705,7,2000,
 270,Villa,Græsted Vænge 48,3230, Græsted,825000 ,16-03-2000,Alm. Salg,121,6818,4,1980,
-270,Villa,Gilleleje Hovedgade 13B,3250, Gilleleje,2412000 ,16-03-2000,Alm. Salg,105,22971,4,1877,
 270,Villa,Granvej 69,3200, Helsinge,908127 ,15-03-2000,Alm. Salg,149,6095,4,2007,
 270,Rækkehus,Melhøj Park 2,3210, Vejby,1120000 ,14-03-2000,Alm. Salg,112,10000,4,1980,
 270,Ejerlejlighed,"Vestergade 9C, 1. 6",3200, Helsinge,434405 ,14-03-2000,Alm. Salg,60,7240,3,1897,
@@ -14201,7 +14046,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 270,Villa,Engerødvej 4,3200, Helsinge,820000 ,15-01-2000,Alm. Salg,98,8367,3,1962,
 270,Villa,Sommerlystvej 5,3250, Gilleleje,625000 ,15-01-2000,Auktion,81,7716,3,1954,
 270,Villa,Haragervej 9,3200, Helsinge,1267358 ,14-01-2000,Alm. Salg,113,11216,5,1971,
-270,Villa,Høbjergvej 32,3200, Helsinge,5147600 ,14-01-2000,Alm. Salg,169,30459,5,1907,
 270,Villa,Skovbakkevej 14,3200, Helsinge,1348440 ,13-01-2000,Alm. Salg,145,9300,4,1967,
 270,Villa,Birkely 19,3200, Helsinge,1249003 ,13-01-2000,Alm. Salg,111,11252,4,2000,
 270,Villa,Platanvej 3,3200, Helsinge,1341870 ,13-01-2000,Alm. Salg,118,11372,4,1959,
@@ -14214,8 +14058,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 270,Villa,Snebærvej 9,3230, Græsted,1050000 ,11-01-2000,Alm. Salg,108,9722,4,1981,
 270,Villa,Grønnevang 390,3250, Gilleleje,1899295 ,10-01-2000,Alm. Salg,155,12254,6,1986,
 270,Rækkehus,Ruttebakken 27,3230, Græsted,918692 ,09-01-2000,Alm. Salg,86,10682,3,1999,
-270,Ejerlejlighed,"Østergade 24A, 2. tv",3200, Helsinge,450000 ,09-01-2000,Alm. Salg,54,8333,2,1905,
-270,Villa,Byholmvej 1,3200, Helsinge,450000 ,09-01-2000,Alm. Salg,156,2885,6,1974,
 270,Villa,Vesterbrogade 55A,3250, Gilleleje,1212630 ,09-01-2000,Alm. Salg,107,11333,4,1924,
 270,Rækkehus,Ruttebakken 21,3230, Græsted,933730 ,06-01-2000,Alm. Salg,86,10857,3,1999,
 270,Villa,Rørvænget 1,3250, Gilleleje,713577 ,06-01-2000,Alm. Salg,172,4149,5,1980,
@@ -14704,11 +14546,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 270,Villa,Kildevej 148,3200, Helsinge,410000 ,27-05-1999,Fam. Salg,297,1380,3,1900,
 270,Villa,Hesselbjergvej 72,3210, Vejby,578300 ,27-05-1999,Alm. Salg,119,4860,5,1952,
 270,Villa,Bækkebrovej 6A,3220, Tisvildeleje,1224549 ,27-05-1999,Alm. Salg,103,11889,4,1962,
-270,Ejerlejlighed,"Sophienlund Alle 5, 1",3250, Gilleleje,15070000 ,26-05-1999,Alm. Salg,100,150700,3,1906,
 270,Villa,Kagerup Stationsvej 28,3200, Helsinge,1630000 ,26-05-1999,Alm. Salg,182,8956,7,1957,
 270,Villa,Boholmsvej 11,3250, Gilleleje,790000 ,26-05-1999,Alm. Salg,107,7383,3,1956,
 270,Villa,Bakkeager 32,3230, Græsted,640000 ,26-05-1999,Alm. Salg,124,5161,6,1971,
-270,Villa,Sophienlund Alle 3,3250, Gilleleje,15070000 ,26-05-1999,Alm. Salg,125,120560,4,1965,
 270,Rækkehus,Hindsehovgården 20,3120, Dronningmølle,997039 ,25-05-1999,Alm. Salg,97,10279,4,1992,
 270,Villa,Solgårdsvej 9,3200, Helsinge,1518576 ,25-05-1999,Alm. Salg,155,9797,4,1973,
 270,Villa,Udsholt Byvej 13,3230, Græsted,2181225 ,25-05-1999,Alm. Salg,218,8690,7,1750,
@@ -15184,7 +15024,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 270,Villa,Pinusvej 38,3200, Helsinge,1374000 ,10-09-1998,Alm. Salg,137,10029,5,1974,
 270,Villa,Ahornvej 21,3200, Helsinge,296623 ,10-09-1998,Alm. Salg,98,3027,4,1962,
 270,Villa,Frederiksborgvej 37,3200, Helsinge,972000 ,09-09-1998,Alm. Salg,94,10340,3,1930,
-270,Villa,Østergade 47A,3200, Helsinge,1300773 ,09-09-1998,Alm. Salg,190,6846,6,1904,
 270,Villa,Nordhøjvej 11A,3250, Gilleleje,400000 ,09-09-1998,Alm. Salg,145,2759,4,1999,
 270,Villa,Tinghusevej 52,3230, Græsted,736500 ,09-09-1998,Alm. Salg,117,6295,4,1903,
 270,Villa,Saxenkolvej 21,3210, Vejby,160000 ,09-09-1998,Alm. Salg,109,1468,4,2001,
@@ -16112,8 +15951,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 270,Villa,Tvingsbakken 51,3200, Helsinge,300000 ,03-06-1997,Alm. Salg,152,1974,4,1998,
 270,Villa,Arresøgårds Alle 20,3200, Helsinge,1240000 ,03-06-1997,Alm. Salg,196,6327,6,1972,
 270,Villa,Holmegårdsvej 5,3200, Helsinge,1164075 ,03-06-1997,Alm. Salg,147,7919,5,1968,
-270,Ejerlejlighed,Pårupvej 27,3230, Græsted,1927750 ,02-06-1997,Alm. Salg,111,17367,3,1750,
-270,Villa,Pårupvej 27,3230, Græsted,1927750 ,02-06-1997,Alm. Salg,163,11827,6,1968,
 270,Villa,Munkerup Have 68,3120, Dronningmølle,1208000 ,02-06-1997,Alm. Salg,128,9438,5,1979,
 270,Ejerlejlighed,"Kongensgavevej 13, 1. th",3200, Helsinge,526000 ,01-06-1997,Alm. Salg,97,5423,4,1970,
 270,Villa,Gribskovvej 77,3200, Helsinge,893083 ,01-06-1997,Alm. Salg,120,7442,3,1877,
@@ -16160,9 +15997,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 270,Villa,Snebærvej 58,3230, Græsted,734000 ,13-05-1997,Alm. Salg,108,6796,3,1980,
 270,Villa,Mejsevej 29,3200, Helsinge,1240000 ,13-05-1997,Alm. Salg,162,7654,5,1972,
 270,Ejerlejlighed,"Kongensgavevej 53, 2. tv",3200, Helsinge,521883 ,12-05-1997,Alm. Salg,83,6288,3,1971,
-270,Ejerlejlighed,Sygehusvej 3,3230, Græsted,287000 ,11-05-1997,Auktion,88,3261,2,1890,
-270,Ejerlejlighed,"Bagerstræde 2A, 1",3230, Græsted,287000 ,11-05-1997,Auktion,123,2333,4,1890,
-270,Ejerlejlighed,Bagerstræde 2B,3230, Græsted,287000 ,11-05-1997,Auktion,55,5218,2,1890,
 270,Villa,Østre Alle 14,3250, Gilleleje,443000 ,11-05-1997,Alm. Salg,66,6712,3,1958,
 270,Villa,Grønnevang 332,3250, Gilleleje,250000 ,11-05-1997,Alm. Salg,154,1623,5,1998,
 270,Villa,Græsted Vænge 15,3230, Græsted,835930 ,11-05-1997,Alm. Salg,105,7961,4,1985,
@@ -17915,8 +17749,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 270,Villa,Snebærvej 34,3230, Græsted,144097 ,15-01-1995,Andet,108,1334,4,1981,
 270,Villa,Vesterbrogade 101,3250, Gilleleje,699160 ,15-01-1995,Alm. Salg,90,7768,4,1986,
 270,Villa,Mejsevej 6,3200, Helsinge,1153920 ,14-01-1995,Alm. Salg,160,7212,6,1985,
-270,Ejerlejlighed,Pårupvej 27,3230, Græsted,1310000 ,12-01-1995,Alm. Salg,111,11802,3,1750,
-270,Villa,Pårupvej 27,3230, Græsted,1310000 ,12-01-1995,Alm. Salg,163,8037,6,1968,
 270,Villa,Ahornvej 25,3200, Helsinge,528200 ,10-01-1995,Alm. Salg,98,5390,4,1963,
 270,Villa,Vinkelvej 15,3200, Helsinge,740000 ,09-01-1995,Fam. Salg,188,3936,8,1911,
 270,Villa,Hestehave 11,3200, Helsinge,790333 ,09-01-1995,Alm. Salg,172,4595,5,1974,
@@ -18196,7 +18028,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 270,Villa,Bygmarksvej 16,3200, Helsinge,600000 ,15-08-1994,Alm. Salg,119,5042,5,1975,
 270,Villa,Stenhavevej 5,3200, Helsinge,430000 ,15-08-1994,Alm. Salg,227,1894,6,1877,
 270,Villa,Kagerup Byvej 1,3200, Helsinge,502356 ,15-08-1994,Alm. Salg,96,5233,4,1875,
-270,Villa,Hovedgaden 65F,3220, Tisvildeleje,875800 ,15-08-1994,Alm. Salg,101,8671,1,1902,
 270,Villa,Moseager 18,3230, Græsted,570000 ,14-08-1994,Alm. Salg,160,3563,5,1972,
 270,Villa,Lucernevej 3,3230, Græsted,525720 ,14-08-1994,Alm. Salg,114,4612,4,1965,
 270,Villa,Gasværksvej 46,3250, Gilleleje,750000 ,14-08-1994,Alm. Salg,186,4032,6,1969,
@@ -18292,11 +18123,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 270,Villa,Larsensvej 8,3230, Græsted,475000 ,23-06-1994,Alm. Salg,153,3105,4,1914,
 270,Villa,Tårnvej 6,3200, Helsinge,462000 ,23-06-1994,Alm. Salg,119,3882,3,1920,
 270,Rækkehus,Melhøj Park 9,3210, Vejby,580000 ,22-06-1994,Alm. Salg,112,5179,4,1980,
-270,Ejerlejlighed,Tranekærvej 6C,3250, Gilleleje,1292000 ,22-06-1994,Alm. Salg,89,14517,3,1880,
 270,Villa,Højager 5,3230, Græsted,633700 ,22-06-1994,Alm. Salg,146,4340,5,1966,
 270,Villa,Rundinsvej 38,3200, Helsinge,702026 ,22-06-1994,Alm. Salg,140,5014,5,1969,
 270,Villa,Granvej 25,3200, Helsinge,1032286 ,22-06-1994,Alm. Salg,158,6533,6,1972,
-270,Villa,Tranekærvej 6B,3250, Gilleleje,1292000 ,22-06-1994,Alm. Salg,84,15381,3,1900,
 270,Villa,Fiskerlodden 4A,3250, Gilleleje,496560 ,21-06-1994,Alm. Salg,138,3598,6,1980,
 270,Villa,Jydebjergvej 26,3230, Græsted,690500 ,21-06-1994,Alm. Salg,125,5524,4,1938,
 270,Villa,Kongsgaden 18,3250, Gilleleje,325000 ,21-06-1994,Andet,126,2579,3,1986,
@@ -18718,9 +18547,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 270,Villa,Mosevej 17,3230, Græsted,510000 ,15-11-1993,Alm. Salg,200,2550,6,1900,
 270,Ejerlejlighed,"Alfavej 2A, 1. th",3250, Gilleleje,474000 ,14-11-1993,Alm. Salg,65,7292,2,1986,
 270,Villa,Paradis Sidealle 8,3200, Helsinge,469600 ,14-11-1993,Alm. Salg,69,6806,4,1967,
-270,Ejerlejlighed,Sygehusvej 3,3230, Græsted,191247 ,13-11-1993,Alm. Salg,88,2173,2,1890,
-270,Ejerlejlighed,"Bagerstræde 2A, 1",3230, Græsted,191247 ,13-11-1993,Alm. Salg,123,1555,4,1890,
-270,Ejerlejlighed,Bagerstræde 2B,3230, Græsted,191247 ,13-11-1993,Alm. Salg,55,3477,2,1890,
 270,Rækkehus,Engerødvej 9A,3200, Helsinge,575000 ,11-11-1993,Alm. Salg,92,6250,3,1985,
 270,Villa,Arresøgårds Alle 8,3200, Helsinge,400000 ,11-11-1993,Alm. Salg,108,3704,4,1969,
 270,Villa,Gilbjergstien 64,3250, Gilleleje,1750000 ,11-11-1993,Alm. Salg,172,10174,5,1980,
@@ -19010,8 +18836,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 270,Ejerlejlighed,"Kongensgavevej 31, 2. tv",3200, Helsinge,350000 ,04-07-1993,Alm. Salg,83,4217,3,1970,
 270,Villa,Aggebovej 46,3230, Græsted,831081 ,04-07-1993,Alm. Salg,96,8657,4,1897,
 270,Villa,Nordre Strandvej 25A,3250, Gilleleje,690000 ,02-07-1993,Fam. Salg,231,2987,5,1937,
-270,Ejerlejlighed,Kilde-Åsen 15,3210, Vejby,1200000 ,01-07-1993,Alm. Salg,92,13043,2,1962,
-270,Ejerlejlighed,Byageren 2D,3210, Vejby,1200000 ,01-07-1993,Alm. Salg,92,13043,5,1962,
 270,Villa,Rosendalsvej 10,3230, Græsted,405000 ,01-07-1993,Alm. Salg,95,4263,3,1965,
 270,Ejerlejlighed,Gilleleje Hovedgade 28C. 4,3250, Gilleleje,500000 ,30-06-1993,Alm. Salg,70,7143,3,1920,
 270,Villa,Hellebjergvej 3,3120, Dronningmølle,510000 ,30-06-1993,Alm. Salg,167,3054,4,1890,
@@ -19190,8 +19014,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 270,Villa,Østergade 92,3200, Helsinge,635000 ,31-03-1993,Alm. Salg,159,3994,6,1969,
 270,Villa,Nobisvej 4,3230, Græsted,1041400 ,30-03-1993,Alm. Salg,275,3204,8,1877,
 270,Villa,Granvej 51,3200, Helsinge,1115000 ,30-03-1993,Alm. Salg,217,5138,5,1972,
-270,Rækkehus,Rågelejevej 37B,3210, Vejby,6000000 ,29-03-1993,Alm. Salg,80,75000,2,1975,
-270,Villa,Rågelejevej 37,3210, Vejby,6000000 ,29-03-1993,Alm. Salg,120,40541,5,1975,
 270,Ejerlejlighed,Gilleleje Hovedgade 6A,3250, Gilleleje,625000 ,28-03-1993,Alm. Salg,96,6510,3,1985,
 270,Villa,Anemonevej 1E,3250, Gilleleje,576400 ,28-03-1993,Alm. Salg,103,5596,4,1992,
 270,Villa,Museumsvej 15,3120, Dronningmølle,95857 ,28-03-1993,Alm. Salg,133,721,4,1790,
@@ -19362,7 +19184,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 270,Rækkehus,Birkevang 237,3250, Gilleleje,700000 ,10-11-1992,Alm. Salg,114,6140,4,1981,
 270,Villa,Ålykkevej 7A,3230, Græsted,280000 ,10-11-1992,Alm. Salg,210,1333,4,1910,
 270,Ejerlejlighed,"Græsted Hovedgade 42, st. tv",3230, Græsted,310000 ,08-11-1992,Alm. Salg,70,4429,3,1918,
-270,Villa,Hammerichsvej 1B,3200, Helsinge,735000 ,08-11-1992,Alm. Salg,52,14135,3,1927,
 270,Villa,Engerødvej 29,3200, Helsinge,388986 ,05-11-1992,Alm. Salg,149,2611,4,1967,
 270,Villa,Kjellergårdsvej 11,3200, Helsinge,610000 ,04-11-1992,Alm. Salg,125,4880,4,1971,
 270,Villa,Ammendrupvej 31,3200, Helsinge,176359 ,02-11-1992,Alm. Salg,181,974,5,1979,
@@ -19452,7 +19273,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 270,Rækkehus,Birkevang 223,3250, Gilleleje,775000 ,03-09-1992,Alm. Salg,110,7045,4,1987,
 270,Villa,Valby Gade 12,3200, Helsinge,369200 ,03-09-1992,Alm. Salg,75,4923,2,1900,
 270,Villa,Haragervej 11,3200, Helsinge,690000 ,02-09-1992,Alm. Salg,121,5308,4,1971,
-270,Villa,Høbjergvej 32,3200, Helsinge,1600000 ,02-09-1992,Fam. Salg,169,9467,5,1907,
 270,Ejerlejlighed,Ny Mårumvej 229D,3200, Helsinge,390000 ,01-09-1992,Alm. Salg,96,4063,3,1896,
 270,Villa,Smutvej 8,3210, Vejby,131934 ,31-08-1992,Fam. Salg,180,733,4,1964,
 270,Villa,Østre Alle 45A,3250, Gilleleje,945000 ,31-08-1992,Alm. Salg,124,7621,4,1992,
@@ -19555,16 +19375,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 270,Villa,Pårupvej 48,3230, Græsted,465000 ,28-06-1992,Alm. Salg,90,5167,4,1896,
 270,Villa,Frederiksværksvej 6,3230, Græsted,927812 ,28-06-1992,Alm. Salg,198,4686,6,1954,
 270,Villa,Sankt Helene Vej 43,3220, Tisvildeleje,545000 ,28-06-1992,Alm. Salg,92,5924,4,1935,
-270,Ejerlejlighed,Villingerødvej 73B,3230, Græsted,7640000 ,26-06-1992,Fam. Salg,143,53427,4,1902,
-270,Ejerlejlighed,Villingerødvej 73C,3230, Græsted,7640000 ,26-06-1992,Fam. Salg,143,53427,4,1902,
-270,Ejerlejlighed,Villingerødvej 73D,3230, Græsted,7640000 ,26-06-1992,Fam. Salg,143,53427,4,1902,
-270,Ejerlejlighed,Esrum Hovedgade 30B,3230, Græsted,7640000 ,26-06-1992,Fam. Salg,76,100526,5,1877,
-270,Ejerlejlighed,Esrum Hovedgade 30A,3230, Græsted,7640000 ,26-06-1992,Fam. Salg,76,100526,5,1877,
-270,Ejerlejlighed,Esrum Hovedgade 32B,3230, Græsted,7640000 ,26-06-1992,Fam. Salg,88,86818,4,1807,
-270,Ejerlejlighed,Esrum Hovedgade 32A,3230, Græsted,7640000 ,26-06-1992,Fam. Salg,75,101867,4,1807,
-270,Ejerlejlighed,Esrum Hovedgade 30C,3230, Græsted,7640000 ,26-06-1992,Fam. Salg,76,100526,5,1877,
-270,Ejerlejlighed,Frederiksværksvej 11A,3230, Græsted,7640000 ,26-06-1992,Fam. Salg,141,54184,5,1902,
-270,Ejerlejlighed,Frederiksværksvej 11B,3230, Græsted,7640000 ,26-06-1992,Fam. Salg,141,54184,6,1902,
 270,Villa,Mosevej 16,3230, Græsted,1300000 ,26-06-1992,Alm. Salg,160,8125,5,1827,
 270,Villa,Skolemarksvej 9,3220, Tisvildeleje,448950 ,25-06-1992,Alm. Salg,137,3277,8,1960,
 270,Villa,St Strandstræde 5,3250, Gilleleje,1200000 ,25-06-1992,Alm. Salg,175,6857,6,1844,

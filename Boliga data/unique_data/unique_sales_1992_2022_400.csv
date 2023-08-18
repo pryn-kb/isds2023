@@ -206,13 +206,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Rækkehus,Skindergade 3,3700, Rønne,557500 ,14-09-2022,Andet,109,5115.0,3,1840,
 400,Rækkehus,Pilegade 21,3770, Allinge,1150000 ,14-09-2022,Alm. Salg,109,10550.0,5,1900,
 400,Rækkehus,Stavelund 22,3700, Rønne,250000 ,14-09-2022,Alm. Salg,105,2381.0,1,1900,
-400,Ejerlejlighed,Laksegade 2A. 3,3700, Rønne,1800000 ,14-09-2022,Alm. Salg,70,25714.0,2,1877,
-400,Ejerlejlighed,Laksegade 2A. 5,3700, Rønne,1800000 ,14-09-2022,Alm. Salg,80,22500.0,2,1877,
-400,Ejerlejlighed,Laksegade 2A. 4,3700, Rønne,1800000 ,14-09-2022,Alm. Salg,85,21176.0,2,1877,
-400,Ejerlejlighed,Laksegade 2A. 6,3700, Rønne,1800000 ,14-09-2022,Alm. Salg,60,30000.0,1,1877,
-400,Ejerlejlighed,Storegade 48,3700, Rønne,1800000 ,14-09-2022,Alm. Salg,143,12587.0,4,1877,
-400,Ejerlejlighed,Laksegade 2A. 1,3700, Rønne,1800000 ,14-09-2022,Alm. Salg,64,28125.0,2,1877,
-400,Ejerlejlighed,Laksegade 2A. 2,3700, Rønne,1800000 ,14-09-2022,Alm. Salg,73,24658.0,3,1877,
 400,Villa,Borgergade 2,3740, Svaneke,1675000 ,14-09-2022,Andet,177,9463.0,8,1860,
 400,Villa,Albret Wolfsensgade 3,3740, Svaneke,1500000 ,14-09-2022,Alm. Salg,100,15000.0,4,1964,-5%
 400,Villa,Albret Wolfsensgade 20,3740, Svaneke,1800000 ,14-09-2022,Alm. Salg,109,16514.0,4,1967,-2%
@@ -409,7 +402,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Rækkehus,Kirkestræde 4,3700, Rønne,2200000 ,22-06-2022,Alm. Salg,134,16418.0,6,1949,-4%
 400,Villa,Norre Bakke 6,3740, Svaneke,600000 ,21-06-2022,Fam. Salg,98,6122.0,4,1965,
 400,Villa,Kildesgårdsvej 8,3770, Allinge,1200000 ,21-06-2022,Alm. Salg,89,13483.0,3,1962,-8%
-400,Rækkehus,Toldbodgade 3,3700, Rønne,3800000 ,20-06-2022,Alm. Salg,178,21348.0,5,1890,
 400,Rækkehus,Saxesgade 1,3720, Aakirkeby,550000 ,20-06-2022,Alm. Salg,83,6627.0,4,1909,-4%
 400,Rækkehus,Borgergade 1B,3740, Svaneke,4000000 ,20-06-2022,Alm. Salg,274,14599.0,12,1765,
 400,Villa,Lyrsbyvej 26,3751, Østermarie,1800000 ,20-06-2022,Alm. Salg,545,3303.0,5,1911,
@@ -653,11 +645,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Rækkehus,Saxesgade 17,3720, Aakirkeby,475000 ,08-03-2022,Alm. Salg,81,5864.0,2,1922,-4%
 400,Villa,Frejasvej 4,3700, Rønne,1995000 ,08-03-2022,Alm. Salg,119,16765.0,6,1936,
 400,Villa,Nørrevej 24B,3730, Nexø,1450000 ,08-03-2022,Alm. Salg,60,24167.0,2,2008,-6%
-400,Rækkehus,Nordskovvej 9B,3700, Rønne,2536300 ,07-03-2022,Alm. Salg,30,84543.0,1,1956,
 400,Rækkehus,Sankt Mortens Gade 32,3700, Rønne,1795000 ,07-03-2022,Alm. Salg,147,12211.0,5,1877,
 400,Rækkehus,Hans Hermans Gænge 3,3730, Nexø,1125000 ,07-03-2022,Alm. Salg,103,10922.0,3,1931,-6%
 400,Villa,Skovløkken 12,3720, Aakirkeby,816000 ,07-03-2022,Fam. Salg,163,5006.0,4,1969,
-400,Villa,Nordskovvej 9B,3700, Rønne,2536300 ,07-03-2022,Alm. Salg,149,17022.0,5,1987,
 400,Villa,Reberbanevej 6,3740, Svaneke,1211500 ,07-03-2022,Fam. Salg,145,8355.0,4,1923,
 400,Rækkehus,Julegade 3,3790, Hasle,1050000 ,06-03-2022,Alm. Salg,125,8400.0,3,1937,-12%
 400,Villa,Borrelyngvej 20,3790, Hasle,1500000 ,06-03-2022,Alm. Salg,188,7979.0,6,1777,
@@ -807,18 +797,15 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Villa,Aasen 69,3730, Nexø,1395000 ,09-01-2022,Alm. Salg,132,10568.0,5,1891,
 400,Rækkehus,Nygade 7,3720, Aakirkeby,1000000 ,08-01-2022,Alm. Salg,133,7519.0,4,1906,-4%
 400,Villa,Sdr Landevej 27,3730, Nexø,2100000 ,07-01-2022,Alm. Salg,137,15328.0,4,1927,-5%
-400,Rækkehus,Store Torvegade 44,3700, Rønne,1325000 ,06-01-2022,Alm. Salg,116,11422.0,4,1880,-1%
 400,Rækkehus,Landemærket 2,3700, Rønne,310000 ,06-01-2022,Alm. Salg,58,5345.0,1,1878,
 400,Villa,Kjeldsebyvej 1,3760, Gudhjem,3625000 ,06-01-2022,Alm. Salg,193,18782.0,6,1930,-2%
 400,Villa,Gamlevældevej 36,3760, Gudhjem,2150000 ,06-01-2022,Alm. Salg,182,11813.0,5,1900,
-400,Villa,Mulebyvej 23,3700, Rønne,1325000 ,06-01-2022,Alm. Salg,119,11134.0,4,1960,
 400,Rækkehus,Nørregade 21,3790, Hasle,1745000 ,05-01-2022,Alm. Salg,164,10640.0,5,1879,
 400,Villa,Kærgårdsvej 5,3720, Aakirkeby,1195000 ,05-01-2022,Alm. Salg,155,7710.0,6,1935,
 400,Villa,Sigynsvej 17,3700, Rønne,1611000 ,05-01-2022,Alm. Salg,124,13888.0,4,1962,8%
 400,Villa,Kirkebyen 12,3790, Hasle,530000 ,05-01-2022,Alm. Salg,104,5096.0,4,1940,-11%
 400,Villa,Gregersgade 49,3720, Aakirkeby,654340 ,04-01-2022,Andet,164,3990.0,4,1926,
 400,Villa,Bagerstræde 6,3720, Aakirkeby,752629 ,03-01-2022,Alm. Salg,178,4228.0,6,1976,
-400,Villa,Smedegårdsvej 32,3700, Rønne,4995000 ,03-01-2022,Alm. Salg,199,25101.0,6,1900,
 400,Villa,Kamillevej 1,3730, Nexø,287000 ,03-01-2022,Alm. Salg,222,1018.0,5,0,
 400,Villa,Helligpedervej 5,3790, Hasle,3250000 ,02-01-2022,Alm. Salg,123,26423.0,8,1877,
 400,Villa,Splitsgårdsvej 6,3782, Klemensker,150000 ,02-01-2022,Alm. Salg,112,1339.0,4,1850,
@@ -1454,10 +1441,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Villa,Lynggårdsvej 3,3760, Gudhjem,1500000 ,31-05-2021,Alm. Salg,112,13393.0,4,1888,25%
 400,Villa,Stavsdalvej 62,3760, Gudhjem,1195000 ,31-05-2021,Alm. Salg,122,9795.0,3,1922,
 400,Villa,Skajlamark 2,3700, Rønne,1050000 ,31-05-2021,Alm. Salg,114,9211.0,4,1979,
-400,Rækkehus,Eskildsgade 1,3720, Aakirkeby,1798000 ,30-05-2021,Alm. Salg,173,6734.0,8,1870,
 400,Rækkehus,Louisenhøj 44,3700, Rønne,1600000 ,30-05-2021,Alm. Salg,129,10884.0,4,1960,
 400,Rækkehus,Ny Østergade 24,3700, Rønne,1098000 ,30-05-2021,Alm. Salg,101,10871.0,2,1915,
-400,Ejerlejlighed,"Damgade 4, 1",3720, Aakirkeby,1798000 ,30-05-2021,Alm. Salg,51,35255.0,2,1910,
 400,Villa,Teglgårdsvej 4,3700, Rønne,1655000 ,30-05-2021,Alm. Salg,122,13566.0,3,1960,0%
 400,Villa,Strandvejen 6,3720, Aakirkeby,900000 ,29-05-2021,Alm. Salg,148,4737.0,4,1902,
 400,Villa,Askeløkken 7,3700, Rønne,712500 ,28-05-2021,Alm. Salg,156,3730.0,5,0,
@@ -1721,7 +1706,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Villa,Kannikegårdsvej 40,3730, Nexø,750000 ,10-03-2021,Alm. Salg,72,10417.0,3,1939,
 400,Villa,Aarsballe By 19,3700, Rønne,500000 ,10-03-2021,Alm. Salg,96,5208.0,4,1920,
 400,Rækkehus,Godthåbsvej 4,3700, Rønne,1265000 ,09-03-2021,Alm. Salg,112,11295.0,5,1927,
-400,Rækkehus,Søndergade 35C,3700, Rønne,2335000 ,09-03-2021,Alm. Salg,64,36484.0,3,1900,2%
 400,Rækkehus,Bækken 40,3700, Rønne,985000 ,09-03-2021,Alm. Salg,80,12313.0,3,1879,
 400,Villa,Smallesund 112,3700, Rønne,1445000 ,09-03-2021,Alm. Salg,122,11844.0,5,1964,
 400,Villa,Bagerstræde 6,3720, Aakirkeby,1305000 ,09-03-2021,Alm. Salg,178,7331.0,6,1976,9%
@@ -1773,18 +1757,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Villa,Grønvangen 15,3700, Rønne,1495000 ,22-02-2021,Alm. Salg,140,10679.0,4,1973,
 400,Villa,Gudhjemvej 46,3760, Gudhjem,1050000 ,22-02-2021,Alm. Salg,190,5526.0,6,1842,
 400,Rækkehus,Lindevej 30,3700, Rønne,825000 ,21-02-2021,Alm. Salg,85,9706.0,2,1912,
-400,Ejerlejlighed,"Vægtergade 1, 2",3730, Nexø,10000000 ,21-02-2021,Alm. Salg,150,66667.0,4,1949,
-400,Ejerlejlighed,"Torvet 6, 1",3730, Nexø,10000000 ,21-02-2021,Alm. Salg,178,56180.0,4,1949,
-400,Ejerlejlighed,"Torvet 6, 2",3730, Nexø,10000000 ,21-02-2021,Alm. Salg,205,48780.0,5,1949,
-400,Ejerlejlighed,"Strandgade 1A, 1. tv",3730, Nexø,10000000 ,21-02-2021,Alm. Salg,76,131579.0,1,1949,
-400,Ejerlejlighed,"Strandgade 1A, 1. th",3730, Nexø,10000000 ,21-02-2021,Alm. Salg,127,78740.0,3,1949,
-400,Ejerlejlighed,"Vægtergade 1, 1. tv",3730, Nexø,10000000 ,21-02-2021,Alm. Salg,53,188679.0,1,1949,
-400,Ejerlejlighed,"Strandgade 1A, st. th",3730, Nexø,10000000 ,21-02-2021,Alm. Salg,126,79365.0,3,1949,
-400,Ejerlejlighed,"Strandgade 1A, st. tv",3730, Nexø,10000000 ,21-02-2021,Alm. Salg,100,100000.0,3,1949,
-400,Ejerlejlighed,"Vægtergade 1, st",3730, Nexø,10000000 ,21-02-2021,Alm. Salg,94,106383.0,1,1949,
-400,Ejerlejlighed,Torvet 4,3730, Nexø,10000000 ,21-02-2021,Alm. Salg,83,120482.0,3,1949,
-400,Ejerlejlighed,"Vægtergade 1, 1. th",3730, Nexø,10000000 ,21-02-2021,Alm. Salg,86,116279.0,3,1949,
-400,Ejerlejlighed,"Torvet 6, st",3730, Nexø,10000000 ,21-02-2021,Alm. Salg,107,93458.0,3,1949,
 400,Villa,Gl Postvej 33B,3730, Nexø,1995000 ,21-02-2021,Alm. Salg,275,7255.0,4,1976,
 400,Villa,Kirkemarksvej 6,3700, Rønne,595000 ,21-02-2021,Alm. Salg,96,6198.0,4,1954,
 400,Villa,Nørremøllevej 36,3730, Nexø,1900000 ,21-02-2021,Alm. Salg,135,14074.0,4,1985,-5%
@@ -2071,8 +2043,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Villa,Strandvejen 23,3740, Svaneke,1550000 ,17-11-2020,Alm. Salg,137,11314.0,4,1934,-7%
 400,Villa,Søndergade 43B,3770, Allinge,1150000 ,17-11-2020,Alm. Salg,130,8846.0,3,2023,
 400,Villa,Søndergade 43D,3770, Allinge,950000 ,17-11-2020,Alm. Salg,148,6419.0,5,2023,
-400,Rækkehus,Store Torvegade 38,3700, Rønne,1200000 ,16-11-2020,Alm. Salg,100,12000.0,3,1870,
-400,Ejerlejlighed,Store Torvegade 40B,3700, Rønne,1200000 ,16-11-2020,Alm. Salg,59,20339.0,2,1870,
 400,Villa,Brøddegade 36,3760, Gudhjem,2250000 ,16-11-2020,Alm. Salg,205,10976.0,8,1877,
 400,Villa,Smålandsvej 2,3700, Rønne,1695000 ,16-11-2020,Alm. Salg,141,12021.0,5,1952,
 400,Villa,Skovgårdsvejen 2,3700, Rønne,2100000 ,16-11-2020,Alm. Salg,192,10938.0,7,1902,
@@ -2255,7 +2225,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Rækkehus,Toldbodgade 2,3790, Hasle,635000 ,27-09-2020,Alm. Salg,131,4847.0,4,1897,
 400,Villa,Kalmarvej 12,3700, Rønne,900000 ,27-09-2020,Alm. Salg,69,13043.0,3,1946,-8%
 400,Villa,Lille Madsegade 7,3700, Rønne,530000 ,27-09-2020,Alm. Salg,75,7067.0,3,1877,
-400,Rækkehus,Provstegade 11. 4,3700, Rønne,2000000 ,26-09-2020,Alm. Salg,44,45455.0,1,1900,
 400,Villa,Nansensgade 9,3740, Svaneke,3195000 ,26-09-2020,Alm. Salg,180,17750.0,7,1852,-3%
 400,Rækkehus,Soldaterstræde 9,3700, Rønne,695000 ,24-09-2020,Alm. Salg,76,9145.0,3,1900,
 400,Rækkehus,Nygade 22,3782, Klemensker,1090000 ,24-09-2020,Alm. Salg,222,4910.0,7,1913,-5%
@@ -2442,13 +2411,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Villa,Hjortevej 1,3760, Gudhjem,350000 ,02-08-2020,Alm. Salg,199,1759.0,6,1922,
 400,Villa,Møllestræde 2,3770, Allinge,1595000 ,02-08-2020,Alm. Salg,121,13182.0,5,1900,
 400,Villa,Søndre Landevej 65,3720, Aakirkeby,1200000 ,31-07-2020,Alm. Salg,172,6977.0,4,1911,
-400,Ejerlejlighed,"Storegade 47, 1. th",3700, Rønne,5075000 ,30-07-2020,Alm. Salg,61,83197.0,2,1907,
-400,Ejerlejlighed,"Storegade 47, 1. tv",3700, Rønne,5075000 ,30-07-2020,Alm. Salg,64,79297.0,2,1907,
-400,Ejerlejlighed,"Storegade 47, st. th",3700, Rønne,5075000 ,30-07-2020,Alm. Salg,80,63438.0,3,1907,
-400,Ejerlejlighed,"Storegade 47, st. tv",3700, Rønne,5075000 ,30-07-2020,Alm. Salg,83,61145.0,3,1907,
-400,Ejerlejlighed,"Kåsegade 4, st",3700, Rønne,5075000 ,30-07-2020,Alm. Salg,62,81855.0,3,1907,
-400,Ejerlejlighed,"Kåsegade 4, 1",3700, Rønne,5075000 ,30-07-2020,Alm. Salg,62,81855.0,3,1907,
-400,Ejerlejlighed,"Kåsegade 4, 2",3700, Rønne,5075000 ,30-07-2020,Alm. Salg,60,84583.0,2,1907,
 400,Villa,Pederskervejen 28,3730, Nexø,950000 ,30-07-2020,Alm. Salg,137,5901.0,5,1960,-3%
 400,Villa,Bjælkestensvejen 1,3720, Aakirkeby,1100000 ,30-07-2020,Alm. Salg,156,7051.0,5,1973,-15%
 400,Rækkehus,Slappegade 2,3700, Rønne,995000 ,29-07-2020,Alm. Salg,92,10815.0,4,1920,
@@ -2809,40 +2771,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Villa,Blekingevej 12,3700, Rønne,1675000 ,01-04-2020,Alm. Salg,113,14823.0,4,1946,
 400,Villa,Reberbanevej 5,3740, Svaneke,1000000 ,31-03-2020,Alm. Salg,99,10101.0,3,1964,-9%
 400,Rækkehus,Gartnervangen 69,3700, Rønne,650000 ,29-03-2020,Alm. Salg,63,10317.0,2,1977,
-400,Ejerlejlighed,"Skolestræde 4, 1. 3",3700, Rønne,5500000 ,29-03-2020,Alm. Salg,73,75342.0,3,1957,
-400,Ejerlejlighed,"Skolestræde 4, 1. 1",3700, Rønne,5500000 ,29-03-2020,Alm. Salg,96,57292.0,3,1957,
-400,Ejerlejlighed,"Skolestræde 6, 1. 7",3700, Rønne,5500000 ,29-03-2020,Alm. Salg,122,45082.0,3,1957,
-400,Ejerlejlighed,"Skolestræde 4, 2. 6",3700, Rønne,5500000 ,29-03-2020,Alm. Salg,69,79710.0,2,1957,
-400,Ejerlejlighed,"Skolestræde 4, 1. 6",3700, Rønne,5500000 ,29-03-2020,Alm. Salg,80,68750.0,3,1957,
-400,Ejerlejlighed,"Skolestræde 4, 2. 5",3700, Rønne,5500000 ,29-03-2020,Alm. Salg,70,78571.0,2,1957,
-400,Ejerlejlighed,"Skolestræde 4, 2. 4",3700, Rønne,5500000 ,29-03-2020,Alm. Salg,65,84615.0,2,1957,
-400,Ejerlejlighed,"Skolestræde 6, 1. 4",3700, Rønne,5500000 ,29-03-2020,Alm. Salg,71,77465.0,3,1957,
-400,Ejerlejlighed,Søborgstræde 2D,3700, Rønne,5500000 ,29-03-2020,Alm. Salg,80,68750.0,3,1957,
-400,Ejerlejlighed,"Skolestræde 4, 2. 2",3700, Rønne,5500000 ,29-03-2020,Alm. Salg,65,84615.0,3,1957,
-400,Ejerlejlighed,"Skolestræde 4, 2. 3",3700, Rønne,5500000 ,29-03-2020,Alm. Salg,78,70513.0,2,1957,
-400,Ejerlejlighed,"Skolestræde 4, 1. 7",3700, Rønne,5500000 ,29-03-2020,Alm. Salg,84,65476.0,3,1957,
-400,Ejerlejlighed,Skolestræde 2A,3700, Rønne,5500000 ,29-03-2020,Alm. Salg,106,51887.0,3,1957,
-400,Ejerlejlighed,Søborgstræde 2B,3700, Rønne,5500000 ,29-03-2020,Alm. Salg,79,69620.0,3,1957,
-400,Ejerlejlighed,"Skolestræde 6, 1. 1",3700, Rønne,5500000 ,29-03-2020,Alm. Salg,96,57292.0,3,1957,
-400,Ejerlejlighed,Skolestræde 6,3700, Rønne,5500000 ,29-03-2020,Alm. Salg,102,53922.0,4,1957,
-400,Ejerlejlighed,Skolestræde 2B,3700, Rønne,5500000 ,29-03-2020,Alm. Salg,73,75342.0,3,1957,
-400,Ejerlejlighed,"Skolestræde 6, 1. 2",3700, Rønne,5500000 ,29-03-2020,Alm. Salg,136,40441.0,3,1957,
-400,Ejerlejlighed,Søborgstræde 2A,3700, Rønne,5500000 ,29-03-2020,Alm. Salg,88,62500.0,3,1957,
-400,Ejerlejlighed,"Skolestræde 4, 1. 5",3700, Rønne,5500000 ,29-03-2020,Alm. Salg,80,68750.0,3,1957,
-400,Ejerlejlighed,Skolestræde 2C,3700, Rønne,5500000 ,29-03-2020,Alm. Salg,79,69620.0,3,1957,
-400,Ejerlejlighed,Skolestræde 2D,3700, Rønne,5500000 ,29-03-2020,Alm. Salg,80,68750.0,3,1957,
-400,Ejerlejlighed,Skolestræde 2E,3700, Rønne,5500000 ,29-03-2020,Alm. Salg,80,68750.0,3,1957,
-400,Ejerlejlighed,"Skolestræde 4, 1. 2",3700, Rønne,5500000 ,29-03-2020,Alm. Salg,106,51887.0,3,1957,
-400,Ejerlejlighed,"Skolestræde 4, 2. 7",3700, Rønne,5500000 ,29-03-2020,Alm. Salg,65,84615.0,2,1957,
-400,Ejerlejlighed,"Skolestræde 6, 1. 6",3700, Rønne,5500000 ,29-03-2020,Alm. Salg,71,77465.0,3,1957,
-400,Ejerlejlighed,"Skolestræde 4, 1. 4",3700, Rønne,5500000 ,29-03-2020,Alm. Salg,79,69620.0,3,1957,
-400,Ejerlejlighed,Skolestræde 4,3700, Rønne,5500000 ,29-03-2020,Alm. Salg,102,53922.0,4,1957,
-400,Ejerlejlighed,Søborgstræde 2E,3700, Rønne,5500000 ,29-03-2020,Alm. Salg,89,61798.0,3,1957,
-400,Ejerlejlighed,"Skolestræde 4, 2. 1",3700, Rønne,5500000 ,29-03-2020,Alm. Salg,71,77465.0,3,1957,
-400,Ejerlejlighed,"Skolestræde 6, 1. 5",3700, Rønne,5500000 ,29-03-2020,Alm. Salg,71,77465.0,3,1957,
-400,Ejerlejlighed,"Skolestræde 6, 1. 3",3700, Rønne,5500000 ,29-03-2020,Alm. Salg,79,69620.0,3,1957,
-400,Ejerlejlighed,Skolestræde 2F,3700, Rønne,5500000 ,29-03-2020,Alm. Salg,84,65476.0,3,1957,
-400,Ejerlejlighed,Søborgstræde 2C,3700, Rønne,5500000 ,29-03-2020,Alm. Salg,80,68750.0,3,1957,
 400,Rækkehus,Haslevej 37,3700, Rønne,450000 ,28-03-2020,Alm. Salg,63,7143.0,3,1900,
 400,Rækkehus,Pilebrovej 10,3730, Nexø,345000 ,27-03-2020,Alm. Salg,84,4107.0,4,1910,
 400,Rækkehus,Gulerodsgade 3,3790, Hasle,795000 ,26-03-2020,Alm. Salg,91,8736.0,4,1890,
@@ -3178,11 +3106,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Villa,Klemenskervej 12,3760, Gudhjem,975000 ,12-11-2019,Alm. Salg,164,5945.0,7,1929,
 400,Villa,Pilestræde 3,3770, Allinge,490000 ,12-11-2019,Fam. Salg,159,3082.0,4,1896,
 400,Rækkehus,Voldgade 12,3700, Rønne,750000 ,11-11-2019,Alm. Salg,104,7212.0,3,1914,
-400,Rækkehus,Brommevej 2B,3760, Gudhjem,1560000 ,11-11-2019,Alm. Salg,168,9286.0,6,1931,
 400,Villa,Kirkemarksvej 17,3700, Rønne,1095000 ,11-11-2019,Alm. Salg,166,6596.0,5,1917,
 400,Villa,Klemens Storegade 4,3782, Klemensker,460000 ,11-11-2019,Alm. Salg,138,3333.0,5,1920,-7%
 400,Villa,Lille Madsegade 16,3700, Rønne,2100000 ,11-11-2019,Alm. Salg,206,10194.0,5,1854,
-400,Villa,Brommevej 2C,3760, Gudhjem,1560000 ,11-11-2019,Alm. Salg,150,10400.0,5,1907,
 400,Rækkehus,Byledsgade 66,3700, Rønne,365481 ,10-11-2019,Fam. Salg,106,3448.0,5,1917,
 400,Rækkehus,Markvejen 12,3700, Rønne,340000 ,10-11-2019,Alm. Salg,42,8095.0,1,1961,-14%
 400,Villa,Møllebakken 14,3760, Gudhjem,633000 ,10-11-2019,Alm. Salg,80,7913.0,2,1944,
@@ -3456,8 +3382,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Rækkehus,Stormgade 27,3730, Nexø,645000 ,06-08-2019,Alm. Salg,85,7588.0,5,1914,
 400,Villa,Plantagevej 22,3751, Østermarie,190000 ,06-08-2019,Alm. Salg,87,2184.0,4,1931,
 400,Rækkehus,Grønnegade 27,3730, Nexø,320000 ,05-08-2019,Alm. Salg,88,3636.0,2,1877,-7%
-400,Rækkehus,"Østergade 53, st",3700, Rønne,200000 ,05-08-2019,Alm. Salg,159,1064.0,6,1948,
-400,Ejerlejlighed,"Østergade 53, 1",3700, Rønne,200000 ,05-08-2019,Alm. Salg,95,2105.0,3,1948,
 400,Villa,Østerled 27,3720, Aakirkeby,995000 ,05-08-2019,Alm. Salg,132,7538.0,4,1977,-9%
 400,Villa,Pedersker Hovedgade 43,3720, Aakirkeby,1100000 ,03-08-2019,Alm. Salg,347,3170.0,9,1931,
 400,Villa,Borgmester Nielsens Vej 123,3700, Rønne,1595000 ,01-08-2019,Alm. Salg,110,14500.0,5,1936,
@@ -3707,12 +3631,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Villa,Østermarievej 2,3740, Svaneke,1480000 ,02-05-2019,Alm. Salg,153,9673.0,5,1920,-7%
 400,Villa,Risenholmsvej 4,3760, Gudhjem,798000 ,02-05-2019,Alm. Salg,198,4030.0,5,1900,
 400,Villa,Højegårdsvej 3A,3700, Rønne,400000 ,02-05-2019,Alm. Salg,70,5714.0,3,1870,
-400,Ejerlejlighed,"Østvej 1, 1",3770, Allinge,1850000 ,01-05-2019,Alm. Salg,59,31356.0,2,1933,
-400,Ejerlejlighed,Østvej 3,3770, Allinge,1850000 ,01-05-2019,Alm. Salg,56,33036.0,2,1933,
-400,Ejerlejlighed,"Østvej 1, st",3770, Allinge,1850000 ,01-05-2019,Alm. Salg,86,21512.0,3,1933,
-400,Ejerlejlighed,"Sdr. Strandvej 9B, 1. th",3770, Allinge,1850000 ,01-05-2019,Alm. Salg,53,34906.0,2,1933,
-400,Ejerlejlighed,"Sdr. Strandvej 9B, 1. tv",3770, Allinge,1850000 ,01-05-2019,Alm. Salg,103,17961.0,4,1933,
-400,Ejerlejlighed,"Sdr. Strandvej 9A, st",3770, Allinge,1850000 ,01-05-2019,Alm. Salg,71,26056.0,3,1933,
 400,Villa,Sænevej 2,3770, Allinge,510000 ,01-05-2019,Fam. Salg,156,3036.0,5,1898,
 400,Villa,Baggårdsvej 1,3790, Hasle,500000 ,01-05-2019,Alm. Salg,110,4545.0,4,1954,-16%
 400,Villa,Sejersvej 11,3700, Rønne,1350000 ,01-05-2019,Alm. Salg,130,10385.0,6,1965,
@@ -3854,9 +3772,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Rækkehus,Smedegade 20,3700, Rønne,845000 ,12-03-2019,Alm. Salg,78,10833.0,3,1883,
 400,Rækkehus,Havnegade 25,3770, Allinge,925000 ,12-03-2019,Alm. Salg,85,10882.0,3,1900,-2%
 400,Rækkehus,Almegade 40,3700, Rønne,825000 ,12-03-2019,Alm. Salg,83,9940.0,3,1900,3%
-400,Ejerlejlighed,"Krummevej 4, 1. th",3790, Hasle,1850000 ,12-03-2019,Alm. Salg,135,13704.0,3,1930,
-400,Ejerlejlighed,"Krummevej 4, 1. tv",3790, Hasle,1850000 ,12-03-2019,Alm. Salg,76,24342.0,2,1930,
-400,Ejerlejlighed,Storegade 60,3790, Hasle,1850000 ,12-03-2019,Alm. Salg,179,10335.0,7,1930,
 400,Villa,Løkkegade 26,3700, Rønne,950000 ,12-03-2019,Alm. Salg,110,8636.0,4,1887,
 400,Villa,Åkirkebyvej 111,3700, Rønne,875000 ,11-03-2019,Alm. Salg,133,6579.0,6,1950,-12%
 400,Villa,Pæretræsdalen 23,3700, Rønne,1395000 ,11-03-2019,Alm. Salg,75,18600.0,3,1946,
@@ -4062,33 +3977,17 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Villa,Strandvejen 155,3700, Rønne,2775000 ,06-12-2018,Alm. Salg,137,20255.0,4,1962,
 400,Villa,Kirkemøllevejen 13,3700, Rønne,1695000 ,05-12-2018,Alm. Salg,288,5885.0,7,2000,
 400,Rækkehus,Stormgade 10,3730, Nexø,450000 ,04-12-2018,Alm. Salg,75,6000.0,3,1874,-9%
-400,Ejerlejlighed,"Vægtergade 1, 2",3730, Nexø,5000000 ,04-12-2018,Alm. Salg,150,33333.0,4,1949,
-400,Ejerlejlighed,"Torvet 6, 1",3730, Nexø,5000000 ,04-12-2018,Alm. Salg,178,28090.0,4,1949,
-400,Ejerlejlighed,"Torvet 6, 2",3730, Nexø,5000000 ,04-12-2018,Alm. Salg,205,24390.0,5,1949,
-400,Ejerlejlighed,"Strandgade 1A, 1. tv",3730, Nexø,5000000 ,04-12-2018,Alm. Salg,76,65789.0,1,1949,
-400,Ejerlejlighed,"Strandgade 1A, 1. th",3730, Nexø,5000000 ,04-12-2018,Alm. Salg,127,39370.0,3,1949,
-400,Ejerlejlighed,"Vægtergade 1, 1. tv",3730, Nexø,5000000 ,04-12-2018,Alm. Salg,53,94340.0,1,1949,
-400,Ejerlejlighed,"Strandgade 1A, st. th",3730, Nexø,5000000 ,04-12-2018,Alm. Salg,126,39683.0,3,1949,
-400,Ejerlejlighed,"Strandgade 1A, st. tv",3730, Nexø,5000000 ,04-12-2018,Alm. Salg,100,50000.0,3,1949,
-400,Ejerlejlighed,"Vægtergade 1, st",3730, Nexø,5000000 ,04-12-2018,Alm. Salg,94,53191.0,1,1949,
-400,Ejerlejlighed,Torvet 4,3730, Nexø,5000000 ,04-12-2018,Alm. Salg,83,60241.0,3,1949,
-400,Ejerlejlighed,"Vægtergade 1, 1. th",3730, Nexø,5000000 ,04-12-2018,Alm. Salg,86,58140.0,3,1949,
-400,Ejerlejlighed,"Torvet 6, st",3730, Nexø,5000000 ,04-12-2018,Alm. Salg,107,46729.0,3,1949,
 400,Villa,Falsterbovej 6,3700, Rønne,1800000 ,04-12-2018,Alm. Salg,124,14516.0,6,1946,
 400,Villa,Peter Ipsens Vej 47,3700, Rønne,1460000 ,03-12-2018,Alm. Salg,108,13519.0,4,1987,-2%
 400,Villa,Nørregade 21,3730, Nexø,211878 ,03-12-2018,Alm. Salg,144,1471.0,2,1877,
-400,Rækkehus,Kanegårdsvej 21,3700, Rønne,1300000 ,02-12-2018,Alm. Salg,60,21667.0,3,1967,-7%
 400,Rækkehus,Lindevej 6,3700, Rønne,360353 ,02-12-2018,Fam. Salg,87,4142.0,4,1923,
 400,Villa,Nøddeløkken 2,3700, Rønne,2500000 ,02-12-2018,Alm. Salg,249,10040.0,8,1979,-4%
-400,Villa,Kanegårdsvej 21,3700, Rønne,1300000 ,02-12-2018,Alm. Salg,143,9091.0,4,1933,-7%
 400,Villa,Pilegårdsvej 10,3700, Rønne,597500 ,30-11-2018,Alm. Salg,140,4268.0,5,1981,
 400,Rækkehus,Havnegade 29,3730, Nexø,720000 ,29-11-2018,Alm. Salg,152,4737.0,6,1900,-9%
 400,Rækkehus,Nybyvej 26,3720, Aakirkeby,595000 ,29-11-2018,Alm. Salg,117,5085.0,5,1904,
 400,Rækkehus,Brogade 5,3770, Allinge,408000 ,29-11-2018,Fam. Salg,80,5100.0,4,1890,
 400,Rækkehus,Lillegade 4,3700, Rønne,350000 ,29-11-2018,Alm. Salg,56,6250.0,3,1850,-11%
 400,Villa,Kattesundet 5,3700, Rønne,810000 ,29-11-2018,Alm. Salg,133,6090.0,4,1900,-9%
-400,Ejerlejlighed,Østergade 1,3790, Hasle,395000 ,28-11-2018,Alm. Salg,78,5064.0,4,1857,
-400,Ejerlejlighed,Byledsgade 9,3790, Hasle,395000 ,28-11-2018,Alm. Salg,93,4247.0,4,1857,
 400,Villa,Sænevej 4,3770, Allinge,3700000 ,28-11-2018,Alm. Salg,226,16372.0,7,1892,-6%
 400,Villa,Kirkestræde 15,3730, Nexø,465000 ,28-11-2018,Alm. Salg,89,5225.0,3,1947,-6%
 400,Rækkehus,Ejnar Mikkelsensvej 30,3760, Gudhjem,539000 ,27-11-2018,Alm. Salg,133,4053.0,3,1913,
@@ -4251,8 +4150,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Villa,Pedersker Hovedgade 11,3720, Aakirkeby,595000 ,26-09-2018,Alm. Salg,91,6538.0,5,1932,
 400,Villa,Askevænget 2,3770, Allinge,1973000 ,26-09-2018,Alm. Salg,214,9220.0,6,2009,-1%
 400,Rækkehus,Byledsgade 70,3700, Rønne,595000 ,25-09-2018,Alm. Salg,104,5721.0,3,1915,
-400,Rækkehus,Hjortestræde 8,3730, Nexø,496700 ,25-09-2018,Fam. Salg,100,4967.0,4,1900,
-400,Villa,"Hjortestræde 8, st",3730, Nexø,496700 ,25-09-2018,Fam. Salg,79,6287.0,3,1800,
 400,Villa,Lille Madsegade 14,3700, Rønne,384247 ,25-09-2018,Fam. Salg,349,1101.0,16,1903,
 400,Villa,Borgmester Nielsens Vej 69,3700, Rønne,1125000 ,24-09-2018,Alm. Salg,128,8789.0,4,1977,
 400,Villa,Gartnerbakken 10,3720, Aakirkeby,1350000 ,24-09-2018,Alm. Salg,158,8544.0,6,1985,
@@ -4271,40 +4168,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Villa,Pærebakken 1,3770, Allinge,1400000 ,18-09-2018,Alm. Salg,118,11864.0,4,1967,
 400,Villa,Storegade 59,3700, Rønne,1350000 ,18-09-2018,Alm. Salg,204,6618.0,8,1780,-14%
 400,Rækkehus,Gartnervangen 47,3700, Rønne,625000 ,17-09-2018,Alm. Salg,63,9921.0,2,1977,
-400,Ejerlejlighed,"Skolestræde 4, 1. 3",3700, Rønne,4101000 ,17-09-2018,Alm. Salg,73,56178.0,3,1957,
-400,Ejerlejlighed,"Skolestræde 4, 1. 1",3700, Rønne,4101000 ,17-09-2018,Alm. Salg,96,42719.0,3,1957,
-400,Ejerlejlighed,"Skolestræde 6, 1. 7",3700, Rønne,4101000 ,17-09-2018,Alm. Salg,122,33615.0,3,1957,
-400,Ejerlejlighed,"Skolestræde 4, 2. 6",3700, Rønne,4101000 ,17-09-2018,Alm. Salg,69,59435.0,2,1957,
-400,Ejerlejlighed,"Skolestræde 4, 1. 6",3700, Rønne,4101000 ,17-09-2018,Alm. Salg,80,51263.0,3,1957,
-400,Ejerlejlighed,"Skolestræde 4, 2. 5",3700, Rønne,4101000 ,17-09-2018,Alm. Salg,70,58586.0,2,1957,
-400,Ejerlejlighed,"Skolestræde 4, 2. 4",3700, Rønne,4101000 ,17-09-2018,Alm. Salg,65,63092.0,2,1957,
-400,Ejerlejlighed,"Skolestræde 6, 1. 4",3700, Rønne,4101000 ,17-09-2018,Alm. Salg,71,57761.0,3,1957,
-400,Ejerlejlighed,Søborgstræde 2D,3700, Rønne,4101000 ,17-09-2018,Alm. Salg,80,51263.0,3,1957,
-400,Ejerlejlighed,"Skolestræde 4, 2. 2",3700, Rønne,4101000 ,17-09-2018,Alm. Salg,65,63092.0,3,1957,
-400,Ejerlejlighed,"Skolestræde 4, 2. 3",3700, Rønne,4101000 ,17-09-2018,Alm. Salg,78,52577.0,2,1957,
-400,Ejerlejlighed,"Skolestræde 4, 1. 7",3700, Rønne,4101000 ,17-09-2018,Alm. Salg,84,48821.0,3,1957,
-400,Ejerlejlighed,Skolestræde 2A,3700, Rønne,4101000 ,17-09-2018,Alm. Salg,106,38689.0,3,1957,
-400,Ejerlejlighed,Søborgstræde 2B,3700, Rønne,4101000 ,17-09-2018,Alm. Salg,79,51911.0,3,1957,
-400,Ejerlejlighed,"Skolestræde 6, 1. 1",3700, Rønne,4101000 ,17-09-2018,Alm. Salg,96,42719.0,3,1957,
-400,Ejerlejlighed,Skolestræde 6,3700, Rønne,4101000 ,17-09-2018,Alm. Salg,102,40206.0,4,1957,
-400,Ejerlejlighed,Skolestræde 2B,3700, Rønne,4101000 ,17-09-2018,Alm. Salg,73,56178.0,3,1957,
-400,Ejerlejlighed,"Skolestræde 6, 1. 2",3700, Rønne,4101000 ,17-09-2018,Alm. Salg,136,30154.0,3,1957,
-400,Ejerlejlighed,Søborgstræde 2A,3700, Rønne,4101000 ,17-09-2018,Alm. Salg,88,46602.0,3,1957,
-400,Ejerlejlighed,"Skolestræde 4, 1. 5",3700, Rønne,4101000 ,17-09-2018,Alm. Salg,80,51263.0,3,1957,
-400,Ejerlejlighed,Skolestræde 2C,3700, Rønne,4101000 ,17-09-2018,Alm. Salg,79,51911.0,3,1957,
-400,Ejerlejlighed,Skolestræde 2D,3700, Rønne,4101000 ,17-09-2018,Alm. Salg,80,51263.0,3,1957,
-400,Ejerlejlighed,Skolestræde 2E,3700, Rønne,4101000 ,17-09-2018,Alm. Salg,80,51263.0,3,1957,
-400,Ejerlejlighed,"Skolestræde 4, 1. 2",3700, Rønne,4101000 ,17-09-2018,Alm. Salg,106,38689.0,3,1957,
-400,Ejerlejlighed,"Skolestræde 4, 2. 7",3700, Rønne,4101000 ,17-09-2018,Alm. Salg,65,63092.0,2,1957,
-400,Ejerlejlighed,"Skolestræde 6, 1. 6",3700, Rønne,4101000 ,17-09-2018,Alm. Salg,71,57761.0,3,1957,
-400,Ejerlejlighed,"Skolestræde 4, 1. 4",3700, Rønne,4101000 ,17-09-2018,Alm. Salg,79,51911.0,3,1957,
-400,Ejerlejlighed,Skolestræde 4,3700, Rønne,4101000 ,17-09-2018,Alm. Salg,102,40206.0,4,1957,
-400,Ejerlejlighed,Søborgstræde 2E,3700, Rønne,4101000 ,17-09-2018,Alm. Salg,89,46079.0,3,1957,
-400,Ejerlejlighed,"Skolestræde 4, 2. 1",3700, Rønne,4101000 ,17-09-2018,Alm. Salg,71,57761.0,3,1957,
-400,Ejerlejlighed,"Skolestræde 6, 1. 5",3700, Rønne,4101000 ,17-09-2018,Alm. Salg,71,57761.0,3,1957,
-400,Ejerlejlighed,"Skolestræde 6, 1. 3",3700, Rønne,4101000 ,17-09-2018,Alm. Salg,79,51911.0,3,1957,
-400,Ejerlejlighed,Skolestræde 2F,3700, Rønne,4101000 ,17-09-2018,Alm. Salg,84,48821.0,3,1957,
-400,Ejerlejlighed,Søborgstræde 2C,3700, Rønne,4101000 ,17-09-2018,Alm. Salg,80,51263.0,3,1957,
 400,Villa,Bjælkevej 10,3720, Aakirkeby,365500 ,17-09-2018,Fam. Salg,118,3097.0,4,1971,
 400,Villa,Ndr. Strandvej 115,3770, Allinge,950000 ,17-09-2018,Alm. Salg,132,7197.0,4,1939,-19%
 400,Rækkehus,Stormgade 20,3730, Nexø,495000 ,16-09-2018,Alm. Salg,75,6600.0,3,1875,
@@ -4714,7 +4577,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Villa,Aspevej 15,3751, Østermarie,935000 ,16-04-2018,Alm. Salg,176,5313.0,5,1888,-6%
 400,Villa,Lyngvejen 4,3730, Nexø,595000 ,16-04-2018,Alm. Salg,162,3673.0,4,1937,
 400,Villa,Vagtbodgade 12,3740, Svaneke,1900000 ,16-04-2018,Fam. Salg,172,11047.0,6,1969,
-400,Rækkehus,Toldbodgade 3,3700, Rønne,1050000 ,15-04-2018,Alm. Salg,178,5899.0,5,1890,
 400,Rækkehus,Damgade 20,3720, Aakirkeby,495000 ,15-04-2018,Alm. Salg,113,4381.0,4,1910,
 400,Rækkehus,Møllegade 52,3700, Rønne,1375000 ,15-04-2018,Alm. Salg,139,9892.0,4,1890,-1%
 400,Villa,Eriksvej 7,3700, Rønne,1410000 ,15-04-2018,Alm. Salg,158,8924.0,4,1977,-1%
@@ -4745,9 +4607,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Villa,Åkirkebyvej 103,3700, Rønne,975000 ,03-04-2018,Alm. Salg,127,7677.0,3,1936,
 400,Rækkehus,Smallesund 45,3700, Rønne,1250000 ,30-03-2018,Alm. Salg,100,12500.0,5,1950,
 400,Villa,Zahrtmannsvej 30,3700, Rønne,950000 ,30-03-2018,Alm. Salg,105,9048.0,3,1957,
-400,Rækkehus,Nansensgade 10,3740, Svaneke,3500000 ,27-03-2018,Alm. Salg,120,29167.0,4,1880,
 400,Rækkehus,Stengade 8,3700, Rønne,680000 ,27-03-2018,Alm. Salg,75,9067.0,2,1877,-3%
-400,Ejerlejlighed,"Nansensgade 12, 2",3740, Svaneke,3500000 ,27-03-2018,Alm. Salg,71,49296.0,3,1880,
 400,Villa,Skovvejen 7,3700, Rønne,950000 ,27-03-2018,Alm. Salg,125,7600.0,5,1935,
 400,Villa,Lillegade 2,3740, Svaneke,1350000 ,27-03-2018,Alm. Salg,134,10075.0,5,1854,-7%
 400,Villa,Frødingsvej 5,3700, Rønne,1150000 ,26-03-2018,Alm. Salg,69,16667.0,2,1946,
@@ -4789,8 +4649,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Villa,Brovangen 48,3700, Rønne,1840000 ,07-03-2018,Alm. Salg,236,7797.0,5,1975,-6%
 400,Villa,Haregade 17,3720, Aakirkeby,765000 ,07-03-2018,Alm. Salg,194,3943.0,5,1900,
 400,Villa,Pedersker Hovedgade 32,3720, Aakirkeby,390000 ,07-03-2018,Alm. Salg,141,2766.0,4,1978,
-400,Ejerlejlighed,Per Espers Gænge 2,3730, Nexø,1000000 ,06-03-2018,Andet,111,9009.0,3,1885,
-400,Ejerlejlighed,Nørregade 38,3730, Nexø,1000000 ,06-03-2018,Andet,103,9709.0,3,1885,
 400,Villa,Rønnevej 20,3720, Aakirkeby,200000 ,05-03-2018,Alm. Salg,172,1163.0,6,1942,-20%
 400,Rækkehus,Kandegade 1,3700, Rønne,350000 ,04-03-2018,Alm. Salg,60,5833.0,2,1800,
 400,Rækkehus,Hasle Marina 23,3790, Hasle,1695000 ,04-03-2018,Alm. Salg,90,18833.0,5,2006,
@@ -5000,9 +4858,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Rækkehus,Grønnegade 20,3700, Rønne,1445000 ,04-12-2017,Alm. Salg,126,11468.0,4,1900,
 400,Villa,Kamilleløkken 16,3700, Rønne,1900000 ,04-12-2017,Alm. Salg,166,11446.0,5,1978,
 400,Villa,Haslevej 72,3700, Rønne,1020000 ,04-12-2017,Alm. Salg,99,10303.0,4,1951,-2%
-400,Ejerlejlighed,"Klingegade 2, 1",3700, Rønne,795000 ,03-12-2017,Alm. Salg,89,8933.0,3,1700,
-400,Ejerlejlighed,"Klingegade 2, st",3700, Rønne,795000 ,03-12-2017,Alm. Salg,50,15900.0,2,1700,
-400,Ejerlejlighed,Løkkegade 1,3700, Rønne,795000 ,03-12-2017,Alm. Salg,110,7227.0,4,1700,
 400,Villa,Heimdalsvej 4,3700, Rønne,925000 ,03-12-2017,Alm. Salg,112,8259.0,4,1967,-7%
 400,Villa,Vestergade 12,3770, Allinge,998000 ,02-12-2017,Alm. Salg,247,4040.0,6,1890,
 400,Villa,Sorteengevejen 8,3700, Rønne,800000 ,30-11-2017,Alm. Salg,207,3865.0,6,1800,
@@ -5191,16 +5046,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Villa,Skovvejen 2,3700, Rønne,1750000 ,27-09-2017,Alm. Salg,163,10736.0,5,1920,
 400,Rækkehus,Sandlinien 14,3770, Allinge,975000 ,26-09-2017,Alm. Salg,86,11337.0,4,1898,
 400,Rækkehus,Stengade 6,3700, Rønne,1157332 ,26-09-2017,Fam. Salg,135,8573.0,3,1825,
-400,Ejerlejlighed,"Stålegade 10, 1. th",3700, Rønne,4000000 ,26-09-2017,Alm. Salg,68,58824.0,2,1875,
-400,Ejerlejlighed,"Stålegade 10, 1. tv",3700, Rønne,4000000 ,26-09-2017,Alm. Salg,81,49383.0,3,1875,
-400,Ejerlejlighed,"Stålegade 10, 2. th",3700, Rønne,4000000 ,26-09-2017,Alm. Salg,41,97561.0,2,1875,
-400,Ejerlejlighed,"Stålegade 10, st. tv",3700, Rønne,4000000 ,26-09-2017,Alm. Salg,68,58824.0,3,1875,
-400,Ejerlejlighed,"Stålegade 10, st. th",3700, Rønne,4000000 ,26-09-2017,Alm. Salg,47,85106.0,2,1875,
-400,Ejerlejlighed,"Stålegade 10, 2. tv",3700, Rønne,4000000 ,26-09-2017,Alm. Salg,42,95238.0,2,1875,
-400,Ejerlejlighed,"Stettestræde 11A, st. th",3700, Rønne,4000000 ,26-09-2017,Alm. Salg,45,88889.0,2,1875,
-400,Ejerlejlighed,"Stettestræde 11A, 1. th",3700, Rønne,4000000 ,26-09-2017,Alm. Salg,64,62500.0,2,1875,
-400,Ejerlejlighed,"Stettestræde 11A, st. tv",3700, Rønne,4000000 ,26-09-2017,Alm. Salg,72,55556.0,3,1875,
-400,Ejerlejlighed,"Stettestræde 11A, 1. tv",3700, Rønne,4000000 ,26-09-2017,Alm. Salg,72,55556.0,3,1875,
 400,Villa,Paradisvej 55,3730, Nexø,987500 ,26-09-2017,Alm. Salg,90,10972.0,3,1945,-1%
 400,Villa,Gaden 38,3740, Svaneke,2570000 ,26-09-2017,Alm. Salg,158,16266.0,6,1920,-1%
 400,Villa,Gammeltoft 13,3790, Hasle,945000 ,26-09-2017,Alm. Salg,136,6949.0,5,1984,
@@ -5261,7 +5106,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Villa,Grønagervej 77,3700, Rønne,600000 ,06-09-2017,Andet,138,4348.0,5,1979,
 400,Rækkehus,Hans Rømersvej 8,3720, Aakirkeby,670000 ,05-09-2017,Alm. Salg,106,6321.0,3,1915,-2%
 400,Villa,Nils Plumsvej 10,3730, Nexø,850000 ,05-09-2017,Alm. Salg,147,5782.0,4,1948,-5%
-400,Villa,Bossevejen 11D,3720, Aakirkeby,600000 ,05-09-2017,Alm. Salg,63,9524.0,3,1986,
 400,Villa,Brovangen 40,3700, Rønne,950000 ,04-09-2017,Alm. Salg,129,7364.0,4,1973,
 400,Villa,Højvangen 2,3700, Rønne,1550000 ,04-09-2017,Alm. Salg,160,9688.0,5,1967,
 400,Villa,Stengade 18,3700, Rønne,530000 ,03-09-2017,Alm. Salg,136,3897.0,3,1875,
@@ -5875,13 +5719,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Villa,"Haslevej 7, st. th",3700, Rønne,200000 ,27-12-2016,Alm. Salg,132,1515.0,4,1953,
 400,Villa,Skolekrogen 10,3740, Svaneke,1200000 ,27-12-2016,Alm. Salg,158,7595.0,4,1898,
 400,Rækkehus,Holkavej 20,3760, Gudhjem,1250000 ,26-12-2016,Alm. Salg,122,10246.0,3,1900,
-400,Ejerlejlighed,Lille Søstræde 8A,3700, Rønne,4500000 ,25-12-2016,Alm. Salg,72,62500.0,2,1967,
-400,Ejerlejlighed,"Grønnegade 17, st. 6",3700, Rønne,4500000 ,25-12-2016,Alm. Salg,76,59211.0,3,1761,
-400,Ejerlejlighed,"Grønnegade 17, st. 1",3700, Rønne,4500000 ,25-12-2016,Alm. Salg,114,39474.0,3,1761,
-400,Ejerlejlighed,"Grønnegade 17, st. 2",3700, Rønne,4500000 ,25-12-2016,Alm. Salg,118,38136.0,4,1761,
-400,Ejerlejlighed,"Grønnegade 17, st. 5",3700, Rønne,4500000 ,25-12-2016,Alm. Salg,85,52941.0,3,1761,
-400,Ejerlejlighed,"Grønnegade 17, 1. 4",3700, Rønne,4500000 ,25-12-2016,Alm. Salg,63,71429.0,2,1761,
-400,Ejerlejlighed,"Grønnegade 17, 1. 3",3700, Rønne,4500000 ,25-12-2016,Alm. Salg,75,60000.0,3,1761,
 400,Villa,Nørre Løkke 22,3700, Rønne,1550000 ,23-12-2016,Alm. Salg,143,10839.0,5,1966,
 400,Villa,Nybyvej 22,3720, Aakirkeby,900000 ,21-12-2016,Alm. Salg,173,5202.0,5,1900,
 400,Villa,Lillevang 4,3760, Gudhjem,1395000 ,21-12-2016,Alm. Salg,164,8506.0,4,1935,-7%
@@ -6009,13 +5846,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Villa,Bohnebakken 8,3770, Allinge,1550000 ,01-11-2016,Alm. Salg,162,9568.0,6,1827,
 400,Ejerlejlighed,"Havnegade 45, 1",3770, Allinge,2398000 ,31-10-2016,Alm. Salg,258,9295.0,9,1937,-6%
 400,Villa,Brøddegade 30,3760, Gudhjem,1300000 ,31-10-2016,Alm. Salg,229,5677.0,4,1852,
-400,Ejerlejlighed,Laksegade 2A. 3,3700, Rønne,3313477 ,27-10-2016,Alm. Salg,70,47335.0,2,1877,
-400,Ejerlejlighed,Laksegade 2A. 5,3700, Rønne,3313477 ,27-10-2016,Alm. Salg,80,41418.0,2,1877,
-400,Ejerlejlighed,Laksegade 2A. 4,3700, Rønne,3313477 ,27-10-2016,Alm. Salg,85,38982.0,2,1877,
-400,Ejerlejlighed,Laksegade 2A. 6,3700, Rønne,3313477 ,27-10-2016,Alm. Salg,60,55225.0,1,1877,
-400,Ejerlejlighed,Storegade 48,3700, Rønne,3313477 ,27-10-2016,Alm. Salg,143,23171.0,4,1877,
-400,Ejerlejlighed,Laksegade 2A. 1,3700, Rønne,3313477 ,27-10-2016,Alm. Salg,64,51773.0,2,1877,
-400,Ejerlejlighed,Laksegade 2A. 2,3700, Rønne,3313477 ,27-10-2016,Alm. Salg,73,45390.0,3,1877,
 400,Villa,Søndre Villavej 2,3700, Rønne,1046000 ,27-10-2016,Alm. Salg,79,13241.0,3,1933,-4%
 400,Villa,Smallesund 73,3700, Rønne,1220000 ,27-10-2016,Alm. Salg,178,6854.0,7,1942,-2%
 400,Villa,Søborgstræde 3,3700, Rønne,1150000 ,26-10-2016,Alm. Salg,128,8984.0,4,1880,-4%
@@ -6606,7 +6436,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Villa,Strandvejen 39,3700, Rønne,550000 ,30-01-2016,Alm. Salg,186,2957.0,5,1932,-21%
 400,Rækkehus,Skoleparken 3,3720, Aakirkeby,355000 ,28-01-2016,Alm. Salg,91,3901.0,3,1954,-10%
 400,Rækkehus,Toldbodgade 2,3790, Hasle,425000 ,27-01-2016,Alm. Salg,131,3244.0,4,1897,
-400,Villa,Smedegårdsvej 32,3700, Rønne,2100000 ,27-01-2016,Alm. Salg,199,10553.0,6,1900,-7%
 400,Rækkehus,Borgergade 17,3700, Rønne,1300000 ,26-01-2016,Alm. Salg,129,10078.0,4,1855,-7%
 400,Villa,Ugleengevejen 6,3720, Aakirkeby,855000 ,25-01-2016,Alm. Salg,266,3214.0,8,1920,
 400,Villa,Brøddan 3,3740, Svaneke,210000 ,25-01-2016,Alm. Salg,69,3043.0,2,2018,
@@ -6756,7 +6585,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Rækkehus,Store Torvegade 93,3700, Rønne,975000 ,28-10-2015,Alm. Salg,101,9653.0,5,1875,-2%
 400,Rækkehus,Dampmøllegade 5A,3700, Rønne,1250000 ,28-10-2015,Alm. Salg,141,8865.0,5,1904,-3%
 400,Villa,Eriksvej 10,3700, Rønne,1368000 ,28-10-2015,Alm. Salg,136,10059.0,4,1977,-2%
-400,Villa,Bossevejen 11D,3720, Aakirkeby,905000 ,28-10-2015,Alm. Salg,63,14365.0,3,1986,13%
 400,Villa,Udmarksvej 3,3790, Hasle,500000 ,26-10-2015,Fam. Salg,89,5618.0,7,1890,
 400,Villa,Grønagervej 22,3700, Rønne,574044 ,26-10-2015,Alm. Salg,167,3437.0,7,1908,
 400,Villa,Malmøvej 25,3700, Rønne,1225000 ,26-10-2015,Alm. Salg,98,12500.0,4,1946,
@@ -6887,8 +6715,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Villa,Nyker Hovedgade 35,3700, Rønne,895000 ,25-08-2015,Alm. Salg,230,3891.0,8,1915,
 400,Rækkehus,Johnsens Tværvej 3,3700, Rønne,550000 ,24-08-2015,Alm. Salg,85,6471.0,4,1887,
 400,Villa,Lærkevej 5,3720, Aakirkeby,85000 ,24-08-2015,Alm. Salg,66,1288.0,3,1956,-43%
-400,Ejerlejlighed,Per Espers Gænge 2,3730, Nexø,905000 ,23-08-2015,Alm. Salg,111,8153.0,3,1885,-9%
-400,Ejerlejlighed,Nørregade 38,3730, Nexø,905000 ,23-08-2015,Alm. Salg,103,8786.0,3,1885,-9%
 400,Villa,Pederskervejen 60,3720, Aakirkeby,360000 ,23-08-2015,Alm. Salg,114,3158.0,3,1904,-27%
 400,Villa,Vestergade 24,3790, Hasle,50000 ,23-08-2015,Auktion,132,379.0,5,1902,
 400,Villa,Bølshavn 29A,3740, Svaneke,850000 ,23-08-2015,Fam. Salg,97,8763.0,5,1960,
@@ -7139,13 +6965,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Villa,Malmøvej 5,3700, Rønne,940000 ,26-04-2015,Alm. Salg,98,9592.0,3,1949,-5%
 400,Villa,Gaden 28,3740, Svaneke,670000 ,25-04-2015,Alm. Salg,90,7444.0,5,1870,-4%
 400,Rækkehus,Kalkbrænderivej 7,3700, Rønne,565000 ,23-04-2015,Alm. Salg,72,7847.0,2,1870,-6%
-400,Ejerlejlighed,Laksegade 2A. 3,3700, Rønne,3313477 ,23-04-2015,Alm. Salg,70,47335.0,2,1877,
-400,Ejerlejlighed,Laksegade 2A. 5,3700, Rønne,3313477 ,23-04-2015,Alm. Salg,80,41418.0,2,1877,
-400,Ejerlejlighed,Laksegade 2A. 4,3700, Rønne,3313477 ,23-04-2015,Alm. Salg,85,38982.0,2,1877,
-400,Ejerlejlighed,Laksegade 2A. 6,3700, Rønne,3313477 ,23-04-2015,Alm. Salg,60,55225.0,1,1877,
-400,Ejerlejlighed,Storegade 48,3700, Rønne,3313477 ,23-04-2015,Alm. Salg,143,23171.0,4,1877,
-400,Ejerlejlighed,Laksegade 2A. 1,3700, Rønne,3313477 ,23-04-2015,Alm. Salg,64,51773.0,2,1877,
-400,Ejerlejlighed,Laksegade 2A. 2,3700, Rønne,3313477 ,23-04-2015,Alm. Salg,73,45390.0,3,1877,
 400,Rækkehus,Nørregade 53,3770, Allinge,325000 ,22-04-2015,Alm. Salg,81,4012.0,3,1880,-28%
 400,Villa,Paradisvej 58,3730, Nexø,595000 ,22-04-2015,Alm. Salg,140,4250.0,5,1970,
 400,Villa,Teglkåsvej 62,3790, Hasle,2800000 ,22-04-2015,Alm. Salg,225,12444.0,8,1860,-7%
@@ -7334,12 +7153,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Villa,Strandvejen 121,3700, Rønne,2560000 ,19-01-2015,Alm. Salg,199,12864.0,8,1900,
 400,Rækkehus,Knudsvej 10,3700, Rønne,380000 ,18-01-2015,Alm. Salg,66,5758.0,3,1981,-5%
 400,Rækkehus,Ferskesøstræde 9,3730, Nexø,211000 ,18-01-2015,Auktion,162,1302.0,5,1900,
-400,Ejerlejlighed,"Østvej 1, 1",3770, Allinge,1566660 ,18-01-2015,Auktion,59,26554.0,2,1933,
-400,Ejerlejlighed,Østvej 3,3770, Allinge,1566660 ,18-01-2015,Auktion,56,27976.0,2,1933,
-400,Ejerlejlighed,"Østvej 1, st",3770, Allinge,1566660 ,18-01-2015,Auktion,86,18217.0,3,1933,
-400,Ejerlejlighed,"Sdr. Strandvej 9B, 1. th",3770, Allinge,1566660 ,18-01-2015,Auktion,53,29560.0,2,1933,
-400,Ejerlejlighed,"Sdr. Strandvej 9B, 1. tv",3770, Allinge,1566660 ,18-01-2015,Auktion,103,15210.0,4,1933,
-400,Ejerlejlighed,"Sdr. Strandvej 9A, st",3770, Allinge,1566660 ,18-01-2015,Auktion,71,22066.0,3,1933,
 400,Villa,Almestræde 3,3790, Hasle,200000 ,18-01-2015,Alm. Salg,100,2000.0,3,1880,
 400,Rækkehus,Østervoldgade 21,3700, Rønne,1075000 ,15-01-2015,Alm. Salg,140,7679.0,4,1905,-7%
 400,Rækkehus,Herman Blems Vej 3,3700, Rønne,575000 ,15-01-2015,Alm. Salg,102,5637.0,3,1938,
@@ -7734,8 +7547,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Rækkehus,Store Torvegade 70,3700, Rønne,409000 ,11-06-2014,Alm. Salg,109,3752.0,4,1877,
 400,Villa,Vellensbyvejen 26,3700, Rønne,210000 ,11-06-2014,Alm. Salg,168,1250.0,4,1900,-29%
 400,Villa,Harilds Løkkevej 13,3730, Nexø,545000 ,11-06-2014,Alm. Salg,121,4504.0,4,1961,-16%
-400,Rækkehus,Hammershusvej 43,3770, Allinge,595000 ,10-06-2014,Alm. Salg,91,6538.0,4,1900,
-400,Ejerlejlighed,"Hammershusvej 43, 1",3770, Allinge,595000 ,10-06-2014,Alm. Salg,47,12660.0,2,1900,
 400,Villa,Åbogade 10,3760, Gudhjem,450500 ,10-06-2014,Fam. Salg,96,4059.0,4,1890,
 400,Villa,Strandvejen 20,3790, Hasle,2600000 ,10-06-2014,Alm. Salg,214,12150.0,9,1876,45%
 400,Villa,Haslevej 30,3700, Rønne,1775000 ,09-06-2014,Alm. Salg,146,12158.0,2,1926,
@@ -8038,7 +7849,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Villa,Ydunsvej 15,3700, Rønne,1325000 ,24-11-2013,Alm. Salg,132,10038.0,3,1970,-5%
 400,Villa,Buen 15,3770, Allinge,475000 ,24-11-2013,Alm. Salg,149,3188.0,5,1974,-20%
 400,Villa,Sejersvej 40,3700, Rønne,680000 ,24-11-2013,Alm. Salg,147,4626.0,4,1975,
-400,Villa,Plantagevej 5L,3700, Rønne,4075000 ,24-11-2013,Alm. Salg,71,50938.0,3,2018,
 400,Villa,Nellikeløkken 8,3700, Rønne,1025000 ,23-11-2013,Alm. Salg,129,7946.0,4,1978,-11%
 400,Villa,Rønnevej 2,3720, Aakirkeby,311649 ,21-11-2013,Fam. Salg,165,1889.0,5,1900,
 400,Rækkehus,Bredgade 11,3700, Rønne,900000 ,20-11-2013,Alm. Salg,110,8182.0,4,1882,-10%
@@ -8171,7 +7981,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Villa,Sdr Landevej 35,3730, Nexø,525000 ,27-08-2013,Alm. Salg,145,3621.0,5,1971,
 400,Villa,Hedningestræde 5,3700, Rønne,1357000 ,27-08-2013,Alm. Salg,107,12682.0,3,1936,-3%
 400,Villa,Østerled 61,3700, Rønne,1065000 ,26-08-2013,Alm. Salg,118,9025.0,4,1969,
-400,Rækkehus,Byledsgade 7,3700, Rønne,2250000 ,25-08-2013,Alm. Salg,136,16544.0,5,1900,
 400,Villa,Aarsdalevej 19,3730, Nexø,798333 ,25-08-2013,Alm. Salg,83,9618.0,3,1948,
 400,Villa,Harbovej 104,3700, Rønne,950000 ,25-08-2013,Alm. Salg,141,6738.0,4,1900,-5%
 400,Villa,Humleløkken 6,3700, Rønne,1600000 ,25-08-2013,Alm. Salg,141,11348.0,5,1978,-11%
@@ -8193,40 +8002,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Villa,Rønnevej 72,3720, Aakirkeby,210212 ,18-08-2013,Andet,129,1630.0,4,1900,
 400,Villa,Mejeribakken 3,3730, Nexø,240000 ,15-08-2013,Alm. Salg,96,2500.0,3,1947,-4%
 400,Rækkehus,Torvegade 1B,3730, Nexø,320000 ,14-08-2013,Alm. Salg,225,1185.0,9,1908,-46%
-400,Ejerlejlighed,"Skolestræde 4, 1. 3",3700, Rønne,30159700 ,14-08-2013,Andet,73,413147.0,3,1957,
-400,Ejerlejlighed,"Skolestræde 4, 1. 1",3700, Rønne,30159700 ,14-08-2013,Andet,96,314164.0,3,1957,
-400,Ejerlejlighed,"Skolestræde 6, 1. 7",3700, Rønne,30159700 ,14-08-2013,Andet,122,247211.0,3,1957,
-400,Ejerlejlighed,"Skolestræde 4, 2. 6",3700, Rønne,30159700 ,14-08-2013,Andet,69,437097.0,2,1957,
-400,Ejerlejlighed,"Skolestræde 4, 1. 6",3700, Rønne,30159700 ,14-08-2013,Andet,80,376996.0,3,1957,
-400,Ejerlejlighed,"Skolestræde 4, 2. 5",3700, Rønne,30159700 ,14-08-2013,Andet,70,430853.0,2,1957,
-400,Ejerlejlighed,"Skolestræde 4, 2. 4",3700, Rønne,30159700 ,14-08-2013,Andet,65,463995.0,2,1957,
-400,Ejerlejlighed,"Skolestræde 6, 1. 4",3700, Rønne,30159700 ,14-08-2013,Andet,71,424785.0,3,1957,
-400,Ejerlejlighed,Søborgstræde 2D,3700, Rønne,30159700 ,14-08-2013,Andet,80,376996.0,3,1957,
-400,Ejerlejlighed,"Skolestræde 4, 2. 2",3700, Rønne,30159700 ,14-08-2013,Andet,65,463995.0,3,1957,
-400,Ejerlejlighed,"Skolestræde 4, 2. 3",3700, Rønne,30159700 ,14-08-2013,Andet,78,386663.0,2,1957,
-400,Ejerlejlighed,"Skolestræde 4, 1. 7",3700, Rønne,30159700 ,14-08-2013,Andet,84,359044.0,3,1957,
-400,Ejerlejlighed,Skolestræde 2A,3700, Rønne,30159700 ,14-08-2013,Andet,106,284525.0,3,1957,
-400,Ejerlejlighed,Søborgstræde 2B,3700, Rønne,30159700 ,14-08-2013,Andet,79,381768.0,3,1957,
-400,Ejerlejlighed,"Skolestræde 6, 1. 1",3700, Rønne,30159700 ,14-08-2013,Andet,96,314164.0,3,1957,
-400,Ejerlejlighed,Skolestræde 6,3700, Rønne,30159700 ,14-08-2013,Andet,102,295683.0,4,1957,
-400,Ejerlejlighed,Skolestræde 2B,3700, Rønne,30159700 ,14-08-2013,Andet,73,413147.0,3,1957,
-400,Ejerlejlighed,"Skolestræde 6, 1. 2",3700, Rønne,30159700 ,14-08-2013,Andet,136,221763.0,3,1957,
-400,Ejerlejlighed,Søborgstræde 2A,3700, Rønne,30159700 ,14-08-2013,Andet,88,342724.0,3,1957,
-400,Ejerlejlighed,"Skolestræde 4, 1. 5",3700, Rønne,30159700 ,14-08-2013,Andet,80,376996.0,3,1957,
-400,Ejerlejlighed,Skolestræde 2C,3700, Rønne,30159700 ,14-08-2013,Andet,79,381768.0,3,1957,
-400,Ejerlejlighed,Skolestræde 2D,3700, Rønne,30159700 ,14-08-2013,Andet,80,376996.0,3,1957,
-400,Ejerlejlighed,Skolestræde 2E,3700, Rønne,30159700 ,14-08-2013,Andet,80,376996.0,3,1957,
-400,Ejerlejlighed,"Skolestræde 4, 1. 2",3700, Rønne,30159700 ,14-08-2013,Andet,106,284525.0,3,1957,
-400,Ejerlejlighed,"Skolestræde 4, 2. 7",3700, Rønne,30159700 ,14-08-2013,Andet,65,463995.0,2,1957,
-400,Ejerlejlighed,"Skolestræde 6, 1. 6",3700, Rønne,30159700 ,14-08-2013,Andet,71,424785.0,3,1957,
-400,Ejerlejlighed,"Skolestræde 4, 1. 4",3700, Rønne,30159700 ,14-08-2013,Andet,79,381768.0,3,1957,
-400,Ejerlejlighed,Skolestræde 4,3700, Rønne,30159700 ,14-08-2013,Andet,102,295683.0,4,1957,
-400,Ejerlejlighed,Søborgstræde 2E,3700, Rønne,30159700 ,14-08-2013,Andet,89,338873.0,3,1957,
-400,Ejerlejlighed,"Skolestræde 4, 2. 1",3700, Rønne,30159700 ,14-08-2013,Andet,71,424785.0,3,1957,
-400,Ejerlejlighed,"Skolestræde 6, 1. 5",3700, Rønne,30159700 ,14-08-2013,Andet,71,424785.0,3,1957,
-400,Ejerlejlighed,"Skolestræde 6, 1. 3",3700, Rønne,30159700 ,14-08-2013,Andet,79,381768.0,3,1957,
-400,Ejerlejlighed,Skolestræde 2F,3700, Rønne,30159700 ,14-08-2013,Andet,84,359044.0,3,1957,
-400,Ejerlejlighed,Søborgstræde 2C,3700, Rønne,30159700 ,14-08-2013,Andet,80,376996.0,3,1957,
 400,Rækkehus,Fælledvej 6,3790, Hasle,575000 ,12-08-2013,Alm. Salg,140,4107.0,6,1890,-3%
 400,Rækkehus,Dampmøllegade 28,3700, Rønne,498000 ,11-08-2013,Alm. Salg,89,5596.0,4,1882,
 400,Villa,Gudhjemvej 17,3760, Gudhjem,450000 ,08-08-2013,Alm. Salg,132,3409.0,5,1966,-10%
@@ -8694,8 +8469,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Rækkehus,Brogade 2,3770, Allinge,410000 ,23-09-2012,Fam. Salg,94,4362.0,4,1892,
 400,Villa,Søndre Alle 27,3700, Rønne,1139000 ,23-09-2012,Alm. Salg,122,9336.0,6,1958,-4%
 400,Villa,Kristiansens Løkke 4,3740, Svaneke,575000 ,23-09-2012,Alm. Salg,78,7372.0,3,1961,
-400,Rækkehus,Louisenhøj 45,3700, Rønne,500000 ,20-09-2012,Fam. Salg,119,4202.0,3,1962,
-400,Villa,Østerled 39,3700, Rønne,500000 ,20-09-2012,Alm. Salg,119,4202.0,4,1965,-16%
 400,Villa,Klintebyvejen 2,3730, Nexø,2193600 ,19-09-2012,Alm. Salg,426,5149.0,6,2014,
 400,Villa,Nyker Strandvej 87,3700, Rønne,550000 ,18-09-2012,Alm. Salg,142,3873.0,3,1932,-21%
 400,Villa,Almindingensvej 62,3751, Østermarie,120000 ,16-09-2012,Alm. Salg,118,1017.0,5,1890,-27%
@@ -8757,9 +8530,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Rækkehus,Violstræde 2,3700, Rønne,280000 ,19-08-2012,Alm. Salg,61,4590.0,4,1825,-7%
 400,Villa,Bølshavn 19,3740, Svaneke,1850000 ,19-08-2012,Alm. Salg,143,12937.0,4,1878,-7%
 400,Rækkehus,Toldbodstræde 5,3770, Allinge,175000 ,14-08-2012,Alm. Salg,67,2612.0,2,1870,-29%
-400,Rækkehus,Bagergade 4,3700, Rønne,250000 ,14-08-2012,Alm. Salg,68,3676.0,3,1763,-25%
 400,Villa,Kong Gustafsvej 19,3730, Nexø,525000 ,14-08-2012,Alm. Salg,92,5707.0,6,1947,-12%
-400,Villa,Almegårdsvej 6,3700, Rønne,250000 ,14-08-2012,Alm. Salg,214,1168.0,8,1947,
 400,Villa,Haslevej 83,3700, Rønne,1340000 ,13-08-2012,Alm. Salg,150,8933.0,5,1957,-4%
 400,Villa,Klippegade 3,3740, Svaneke,973000 ,13-08-2012,Alm. Salg,105,9267.0,3,1888,-3%
 400,Villa,Jernbanevej 4,3782, Klemensker,300000 ,13-08-2012,Alm. Salg,376,798.0,6,1927,-24%
@@ -9180,8 +8951,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Villa,Knarregårdsvej 1,3790, Hasle,700000 ,24-10-2011,Alm. Salg,140,5000.0,6,1925,-12%
 400,Villa,Lillegade 2,3740, Svaneke,900000 ,24-10-2011,Alm. Salg,134,6716.0,5,1854,-25%
 400,Rækkehus,Nybyvej 17,3720, Aakirkeby,1000 ,23-10-2011,Auktion,108,9.0,5,1893,-100%
-400,Rækkehus,Store Torvegade 38,3700, Rønne,1995000 ,21-10-2011,Alm. Salg,100,19950.0,3,1870,
-400,Ejerlejlighed,Store Torvegade 40B,3700, Rønne,1995000 ,21-10-2011,Alm. Salg,59,33814.0,2,1870,
 400,Villa,Kirkemarksvej 35,3700, Rønne,387000 ,20-10-2011,Alm. Salg,130,2977.0,5,1923,-2%
 400,Villa,Gl Rønnevej 20,3730, Nexø,300000 ,19-10-2011,Alm. Salg,126,2381.0,5,1907,-39%
 400,Villa,Sveasvej 31,3700, Rønne,650000 ,18-10-2011,Alm. Salg,98,6633.0,3,1947,
@@ -9228,9 +8997,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Villa,Røbrovej 1,3760, Gudhjem,188000 ,22-09-2011,Alm. Salg,65,2892.0,4,1900,-25%
 400,Villa,Malmøvej 20,3700, Rønne,1156000 ,22-09-2011,Alm. Salg,75,15413.0,1,1949,
 400,Villa,Stensebyvejen 31,3730, Nexø,700000 ,20-09-2011,Alm. Salg,143,4895.0,6,1865,-22%
-400,Rækkehus,Byledsgade 62,3700, Rønne,925000 ,19-09-2011,Alm. Salg,95,9737.0,4,1931,-4%
 400,Villa,Springbakkevejen 2,3720, Aakirkeby,690000 ,19-09-2011,Alm. Salg,93,7419.0,4,1913,-13%
-400,Villa,Klinkervej 1,3700, Rønne,925000 ,19-09-2011,Alm. Salg,130,7115.0,4,1978,-7%
 400,Villa,Gudhjemvej 2,3760, Gudhjem,317500 ,19-09-2011,Alm. Salg,223,1424.0,7,1897,
 400,Rækkehus,Stormgade 6,3730, Nexø,118000 ,18-09-2011,Auktion,92,1283.0,4,1875,
 400,Villa,Kirkestien 3,3760, Gudhjem,410000 ,18-09-2011,Alm. Salg,230,1783.0,8,1800,
@@ -9579,8 +9346,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Villa,Sveasvej 20,3700, Rønne,1495000 ,01-02-2011,Alm. Salg,98,15255.0,3,1946,
 400,Villa,Lyngvejen 4,3730, Nexø,940000 ,01-02-2011,Alm. Salg,162,5802.0,4,1937,-5%
 400,Villa,Tyttebærløkken 7,3700, Rønne,2065000 ,31-01-2011,Alm. Salg,140,14750.0,5,1976,-4%
-400,Villa,Kong Gustafsvej 47B,3730, Nexø,1400000 ,30-01-2011,Alm. Salg,72,19444.0,3,1961,
-400,Rækkehus,Kong Gustafsvej 47,3730, Nexø,1400000 ,30-01-2011,Alm. Salg,85,,4,0,
 400,Rækkehus,Stormgade 7,3700, Rønne,525000 ,30-01-2011,Alm. Salg,89,5899.0,3,1891,-16%
 400,Villa,Sorthatvej 9,3700, Rønne,525000 ,27-01-2011,Alm. Salg,108,4861.0,4,1970,-12%
 400,Rækkehus,Nygade 4,3730, Nexø,270000 ,26-01-2011,Alm. Salg,80,3375.0,3,1935,-16%
@@ -9713,10 +9478,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Rækkehus,Bryggeristræde 12,3730, Nexø,550000 ,07-11-2010,Alm. Salg,75,7333.0,4,1938,-8%
 400,Rækkehus,Nybrovej 4,3760, Gudhjem,251000 ,07-11-2010,Auktion,390,644.0,8,1936,-64%
 400,Villa,Vigebakke 2,3740, Svaneke,1200000 ,07-11-2010,Alm. Salg,135,8889.0,4,1910,-1%
-400,Ejerlejlighed,"Krummevej 4, 1. th",3790, Hasle,3000000 ,04-11-2010,Alm. Salg,135,22222.0,3,1930,
-400,Ejerlejlighed,"Krummevej 4, 1. tv",3790, Hasle,3000000 ,04-11-2010,Alm. Salg,76,39474.0,2,1930,
-400,Ejerlejlighed,Storegade 60,3790, Hasle,3000000 ,04-11-2010,Alm. Salg,179,16760.0,7,1930,
-400,Ejerlejlighed,Krummevej 2B,3790, Hasle,3000000 ,04-11-2010,Alm. Salg,133,22556.0,3,1939,
 400,Villa,Robbedalevej 4,3700, Rønne,800000 ,04-11-2010,Fam. Salg,162,4938.0,4,1923,
 400,Villa,Kleven 1,3782, Klemensker,612000 ,04-11-2010,Alm. Salg,205,2985.0,6,1880,
 400,Villa,Vagtbodgade 6,3700, Rønne,1020000 ,04-11-2010,Alm. Salg,60,17000.0,3,1880,
@@ -10197,10 +9958,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Villa,Østergade 56,3790, Hasle,295000 ,01-03-2010,Alm. Salg,95,3105.0,3,1777,
 400,Villa,Bedegadevej 29,3782, Klemensker,1075000 ,01-03-2010,Alm. Salg,183,5874.0,6,1877,
 400,Rækkehus,Storegade 53,3790, Hasle,198600 ,28-02-2010,Auktion,66,3009.0,2,1880,
-400,Rækkehus,Borgmester Nielsens Vej 41,3700, Rønne,875000 ,28-02-2010,Alm. Salg,120,7292.0,6,1946,-12%
 400,Rækkehus,Hans Rømersvej 3,3720, Aakirkeby,545000 ,28-02-2010,Alm. Salg,119,4580.0,5,1900,
 400,Villa,Åkirkebyvej 123,3700, Rønne,1575000 ,28-02-2010,Alm. Salg,155,10161.0,5,1959,-11%
-400,Villa,Borgmester Nielsens Vej 43,3700, Rønne,875000 ,28-02-2010,Alm. Salg,125,7000.0,4,1900,-12%
 400,Villa,Svanekevej 66,3700, Rønne,1500000 ,25-02-2010,Alm. Salg,167,8982.0,3,1969,-12%
 400,Villa,Murergade 2,3700, Rønne,1015000 ,25-02-2010,Andet,118,8602.0,5,1947,-12%
 400,Villa,Kannikeengen 24,3720, Aakirkeby,1075000 ,25-02-2010,Alm. Salg,158,6804.0,4,1962,
@@ -10599,8 +10358,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Villa,Storegade 104,3790, Hasle,1195000 ,24-06-2009,Alm. Salg,170,7029.0,7,1920,
 400,Rækkehus,Hammershusvej 59,3770, Allinge,498000 ,23-06-2009,Alm. Salg,101,4931.0,4,1900,
 400,Rækkehus,Johnsensvej 24,3700, Rønne,375000 ,23-06-2009,Alm. Salg,98,3827.0,3,1885,-17%
-400,Rækkehus,Havnegade 48A,3730, Nexø,460000 ,23-06-2009,Alm. Salg,79,5823.0,3,1915,-3%
-400,Ejerlejlighed,Havnegade 48B,3730, Nexø,460000 ,23-06-2009,Alm. Salg,78,5897.0,3,1915,-3%
 400,Villa,Gustav Møllersvej 12,3730, Nexø,995000 ,23-06-2009,Alm. Salg,95,10474.0,2,1949,
 400,Villa,Vårbækvej 12,3760, Gudhjem,600000 ,23-06-2009,Alm. Salg,125,4800.0,5,1972,-14%
 400,Rækkehus,Krummevej 6,3790, Hasle,475000 ,22-06-2009,Alm. Salg,66,7197.0,4,1870,-21%
@@ -10966,8 +10723,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Villa,Valmuevej 5,3720, Aakirkeby,1075000 ,22-10-2008,Alm. Salg,135,7963.0,4,1980,-9%
 400,Rækkehus,Smedegårdsvej 13,3700, Rønne,450000 ,21-10-2008,Alm. Salg,77,5844.0,2,1900,-12%
 400,Rækkehus,Rømersgade 3,3700, Rønne,570120 ,20-10-2008,Alm. Salg,110,5183.0,5,1930,-50%
-400,Rækkehus,Brommevej 2B,3760, Gudhjem,1050000 ,19-10-2008,Alm. Salg,168,6250.0,6,1931,
-400,Villa,Brommevej 2C,3760, Gudhjem,1050000 ,19-10-2008,Alm. Salg,150,7000.0,5,1907,
 400,Villa,Kong Gustafsvej 49,3730, Nexø,1200000 ,19-10-2008,Alm. Salg,151,7947.0,4,1965,
 400,Rækkehus,Lille Tværstræde 1,3700, Rønne,480000 ,17-10-2008,Alm. Salg,67,7164.0,3,1950,-9%
 400,Villa,Povl Ankers Vej 1,3700, Rønne,895000 ,17-10-2008,Alm. Salg,147,6088.0,6,1962,
@@ -12330,9 +12085,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Villa,Efeuvej 4,3700, Rønne,325000 ,12-04-2007,Alm. Salg,186,1747.0,5,2009,
 400,Rækkehus,Åkirkebyvej 39,3700, Rønne,850000 ,06-04-2007,Alm. Salg,117,7265.0,5,1950,
 400,Rækkehus,Eginsgade 8,3700, Rønne,825000 ,04-04-2007,Alm. Salg,97,8505.0,3,1926,
-400,Rækkehus,Almegade 6,3700, Rønne,1105000 ,03-04-2007,Alm. Salg,23,48043.0,1,1938,2%
 400,Rækkehus,Bredgade 19,3730, Nexø,725000 ,03-04-2007,Alm. Salg,122,5943.0,3,1880,-3%
-400,Villa,Almegade 6,3700, Rønne,1105000 ,03-04-2007,Alm. Salg,95,11632.0,4,1877,2%
 400,Rækkehus,Johnsensvej 17,3700, Rønne,690000 ,02-04-2007,Alm. Salg,66,10455.0,2,1893,
 400,Rækkehus,Hasle Marina 44,3790, Hasle,2950000 ,02-04-2007,Alm. Salg,128,23047.0,5,2003,
 400,Villa,Kastelvej 6,3700, Rønne,1325000 ,02-04-2007,Alm. Salg,91,14560.0,4,1935,
@@ -12394,8 +12147,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Villa,Bavnet 15,3720, Aakirkeby,650000 ,17-03-2007,Alm. Salg,114,5702.0,4,1952,
 400,Villa,Bøgeløkken 2,3700, Rønne,420000 ,17-03-2007,Alm. Salg,195,2154.0,5,2009,
 400,Rækkehus,Vesterbro 4,3720, Aakirkeby,570000 ,15-03-2007,Alm. Salg,133,4286.0,4,1902,-5%
-400,Rækkehus,Borgergade 5,3700, Rønne,1150000 ,15-03-2007,Alm. Salg,120,9583.0,3,1855,-11%
-400,Villa,Pluggegårdsvej 5,3700, Rønne,1150000 ,15-03-2007,Alm. Salg,148,7770.0,4,1877,
 400,Villa,Gaden 11,3740, Svaneke,625000 ,15-03-2007,Alm. Salg,100,6250.0,4,1935,5%
 400,Villa,Røbrovej 9,3760, Gudhjem,7200000 ,14-03-2007,Alm. Salg,272,24242.0,8,1825,
 400,Rækkehus,Byledsgade 59,3700, Rønne,785000 ,13-03-2007,Alm. Salg,106,7406.0,4,1930,
@@ -12562,7 +12313,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Villa,Klinteløkken 10,3770, Allinge,150000 ,15-01-2007,Fam. Salg,85,1765.0,5,1878,
 400,Villa,Elmevej 10,3740, Svaneke,1200000 ,15-01-2007,Alm. Salg,127,9449.0,4,1885,0%
 400,Villa,Brogade 1,3782, Klemensker,540000 ,15-01-2007,Alm. Salg,114,4737.0,4,1931,
-400,Villa,Plantagevej 5L,3700, Rønne,2080000 ,15-01-2007,Alm. Salg,71,26000.0,3,2018,
 400,Rækkehus,Byledsgade 63,3700, Rønne,825000 ,14-01-2007,Alm. Salg,81,10185.0,3,1935,
 400,Rækkehus,Søndre Alle 26,3700, Rønne,790000 ,14-01-2007,Alm. Salg,101,7822.0,3,1928,
 400,Rækkehus,Lillegade 4,3700, Rønne,575000 ,14-01-2007,Alm. Salg,56,10268.0,3,1850,
@@ -12587,13 +12337,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Rækkehus,Nørregade 57,3770, Allinge,725000 ,10-01-2007,Alm. Salg,98,7398.0,4,1880,-3%
 400,Rækkehus,Voldgade 24,3700, Rønne,685000 ,10-01-2007,Alm. Salg,72,9514.0,4,1900,
 400,Rækkehus,Fru Krabbes Vej 13,3700, Rønne,510000 ,10-01-2007,Alm. Salg,95,5368.0,4,1900,
-400,Ejerlejlighed,"Provstegade 1B, 1. 2",3700, Rønne,1700000 ,10-01-2007,Alm. Salg,37,45946.0,2,1843,
-400,Ejerlejlighed,"Provstegade 1B, 1. 3",3700, Rønne,1700000 ,10-01-2007,Alm. Salg,35,48571.0,1,1843,
-400,Ejerlejlighed,"Provstegade 1B, 1. 5",3700, Rønne,1700000 ,10-01-2007,Alm. Salg,43,39535.0,2,1843,
-400,Ejerlejlighed,"Provstegade 1A, st",3700, Rønne,1700000 ,10-01-2007,Alm. Salg,86,19767.0,3,1843,
-400,Ejerlejlighed,"Provstegade 1B, 1. 1",3700, Rønne,1700000 ,10-01-2007,Alm. Salg,31,54839.0,1,1843,
-400,Ejerlejlighed,"Nellikegade 2A, 1",3700, Rønne,1700000 ,10-01-2007,Alm. Salg,75,22667.0,2,1843,
-400,Ejerlejlighed,"Provstegade 1B, 1. 4",3700, Rønne,1700000 ,10-01-2007,Alm. Salg,22,77273.0,1,1843,
 400,Villa,Nybrovej 6,3760, Gudhjem,525000 ,10-01-2007,Alm. Salg,154,3409.0,6,1951,
 400,Villa,Kastanievej 1,3730, Nexø,275000 ,10-01-2007,Alm. Salg,117,2350.0,3,2013,
 400,Villa,Svanekegade 23,3720, Aakirkeby,980000 ,10-01-2007,Alm. Salg,145,6759.0,6,1925,-4%
@@ -12637,10 +12380,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Villa,Nyker Hovedgade 37,3700, Rønne,750000 ,21-12-2006,Alm. Salg,207,3623.0,9,1926,
 400,Villa,Strandvejen 21,3700, Rønne,918500 ,21-12-2006,Alm. Salg,207,4437.0,5,2023,
 400,Villa,Aabyvej 1,3700, Rønne,497500 ,21-12-2006,Fam. Salg,170,2926.0,6,1904,
-400,Ejerlejlighed,Gænget 1,3770, Allinge,3800000 ,20-12-2006,Alm. Salg,71,53521.0,5,1900,
-400,Ejerlejlighed,"Gænget 1, 1",3770, Allinge,3800000 ,20-12-2006,Alm. Salg,106,35849.0,3,1900,
 400,Ejerlejlighed,"Snellemark 19, 1",3700, Rønne,1500000 ,20-12-2006,Alm. Salg,192,7813.0,5,1949,
-400,Ejerlejlighed,Strandgade 1,3770, Allinge,3800000 ,20-12-2006,Alm. Salg,311,12219.0,9,1900,
 400,Villa,Frødingsvej 2,3700, Rønne,765000 ,20-12-2006,Alm. Salg,69,11087.0,3,1946,
 400,Villa,Grønagervej 61,3700, Rønne,1185000 ,20-12-2006,Alm. Salg,135,8778.0,4,1979,
 400,Villa,Sorthatvej 23,3700, Rønne,915000 ,20-12-2006,Alm. Salg,137,6679.0,4,1977,
@@ -13017,7 +12757,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Villa,Bedegadevej 50,3782, Klemensker,300000 ,13-08-2006,Alm. Salg,75,4000.0,3,1900,
 400,Villa,Gartnerstien 5,3730, Nexø,1545000 ,13-08-2006,Alm. Salg,189,8175.0,4,1986,
 400,Villa,Kirsebærstien 2,3700, Rønne,1095000 ,13-08-2006,Alm. Salg,112,9777.0,4,1964,
-400,Villa,Godthåbsvej 38,3751, Østermarie,475000 ,13-08-2006,Alm. Salg,57,8333.0,2,1900,
 400,Villa,Nørre Løkke 38,3700, Rønne,1595000 ,13-08-2006,Alm. Salg,194,8222.0,5,1973,
 400,Villa,Kobbevej 1,3760, Gudhjem,650000 ,13-08-2006,Alm. Salg,110,5909.0,5,1829,
 400,Villa,Teglgårdsvej 9,3700, Rønne,405273 ,13-08-2006,Fam. Salg,93,4358.0,4,1955,
@@ -13135,7 +12874,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Villa,Torvevænget 4,3751, Østermarie,686000 ,09-07-2006,Alm. Salg,130,5277.0,4,1987,
 400,Villa,Søndergade 20,3740, Svaneke,1795000 ,09-07-2006,Alm. Salg,183,9809.0,6,1858,
 400,Villa,Jens Koefoeds Vej 42,3700, Rønne,800000 ,09-07-2006,Alm. Salg,106,7547.0,3,1981,
-400,Villa,Landemærket 10A,3700, Rønne,1065000 ,09-07-2006,Alm. Salg,71,15000.0,2,1900,
 400,Villa,Vinkelvej 7,3760, Gudhjem,280000 ,07-07-2006,Fam. Salg,54,5185.0,1,1966,
 400,Ejerlejlighed,"Søndergade 2, 1",3700, Rønne,725000 ,06-07-2006,Alm. Salg,55,13182.0,2,1870,
 400,Ejerlejlighed,Østergade 44L,3700, Rønne,498000 ,06-07-2006,Alm. Salg,69,7217.0,2,1985,
@@ -13299,10 +13037,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Rækkehus,Storegade 94,3790, Hasle,625000 ,23-05-2006,Alm. Salg,115,5435.0,4,1888,
 400,Ejerlejlighed,"Østergade 41, 2. tv",3700, Rønne,330000 ,23-05-2006,Alm. Salg,54,6111.0,2,1949,
 400,Rækkehus,Byledsgade 21,3700, Rønne,576630 ,22-05-2006,Alm. Salg,83,6947.0,3,1895,
-400,Rækkehus,Fælledvej 1,3790, Hasle,720000 ,22-05-2006,Alm. Salg,115,6261.0,4,1800,
 400,Villa,Stadionvej 11,3730, Nexø,1275000 ,22-05-2006,Alm. Salg,160,7969.0,5,1974,
 400,Villa,Rønnevej 100,3720, Aakirkeby,725000 ,22-05-2006,Alm. Salg,155,4677.0,5,1962,
-400,Villa,Teglkåsvej 44,3790, Hasle,720000 ,22-05-2006,Alm. Salg,122,5902.0,5,1885,
 400,Villa,Kirkestien 1,3760, Gudhjem,200000 ,22-05-2006,Fam. Salg,117,1709.0,4,1780,
 400,Villa,Møllevej 1,3751, Østermarie,595000 ,22-05-2006,Alm. Salg,294,2024.0,5,1965,
 400,Rækkehus,Rømersgade 5,3700, Rønne,450000 ,21-05-2006,Alm. Salg,98,4592.0,3,1910,
@@ -13415,11 +13151,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Villa,Lindebergvej 6,3730, Nexø,585000 ,18-04-2006,Alm. Salg,85,6882.0,2,1946,
 400,Villa,Stettestræde 22,3700, Rønne,239268 ,17-04-2006,Andet,57,4198.0,2,1904,
 400,Rækkehus,Østergade 31,3700, Rønne,613282 ,17-04-2006,Andet,147,4172.0,5,1895,
-400,Rækkehus,Provstegade 11. 4,3700, Rønne,2120000 ,17-04-2006,Alm. Salg,44,48182.0,1,1900,
-400,Rækkehus,Ystadvej 3,3700, Rønne,958459 ,17-04-2006,Andet,72,13312.0,2,1952,
 400,Villa,Thorkildsvej 80,3700, Rønne,1295000 ,17-04-2006,Alm. Salg,128,10117.0,4,1966,
 400,Villa,Oluf Høstgade 5A,3740, Svaneke,731250 ,17-04-2006,Alm. Salg,164,4459.0,6,2018,
-400,Villa,Ystadvej 1B,3700, Rønne,958459 ,17-04-2006,Andet,111,8635.0,4,1952,
 400,Villa,Postgade 15,3740, Svaneke,1595000 ,16-04-2006,Alm. Salg,115,13870.0,5,1895,
 400,Rækkehus,Borgergade 17,3700, Rønne,1340000 ,15-04-2006,Alm. Salg,129,10388.0,4,1855,
 400,Rækkehus,Skarpegade 3,3700, Rønne,635000 ,11-04-2006,Alm. Salg,60,10583.0,2,1878,
@@ -13458,13 +13191,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Rækkehus,Lindestræde 7,3730, Nexø,430000 ,31-03-2006,Alm. Salg,82,5244.0,4,1900,
 400,Rækkehus,Soldaterstræde 16,3700, Rønne,650000 ,31-03-2006,Alm. Salg,98,6633.0,4,1918,
 400,Rækkehus,Bager Sonnes Gade 22,3730, Nexø,350000 ,31-03-2006,Alm. Salg,65,5385.0,3,1877,
-400,Ejerlejlighed,"Provstegade 1B, 1. 2",3700, Rønne,2200000 ,31-03-2006,Alm. Salg,37,59459.0,2,1843,
-400,Ejerlejlighed,"Provstegade 1B, 1. 3",3700, Rønne,2200000 ,31-03-2006,Alm. Salg,35,62857.0,1,1843,
-400,Ejerlejlighed,"Provstegade 1B, 1. 5",3700, Rønne,2200000 ,31-03-2006,Alm. Salg,43,51163.0,2,1843,
-400,Ejerlejlighed,"Provstegade 1A, st",3700, Rønne,2200000 ,31-03-2006,Alm. Salg,86,25581.0,3,1843,
-400,Ejerlejlighed,"Provstegade 1B, 1. 1",3700, Rønne,2200000 ,31-03-2006,Alm. Salg,31,70968.0,1,1843,
-400,Ejerlejlighed,"Nellikegade 2A, 1",3700, Rønne,2200000 ,31-03-2006,Alm. Salg,75,29333.0,2,1843,
-400,Ejerlejlighed,"Provstegade 1B, 1. 4",3700, Rønne,2200000 ,31-03-2006,Alm. Salg,22,100000.0,1,1843,
 400,Rækkehus,Kredsen 2,3700, Rønne,595000 ,30-03-2006,Alm. Salg,66,9015.0,3,1881,
 400,Villa,Kløvermarken 20,3730, Nexø,920000 ,30-03-2006,Alm. Salg,146,6301.0,5,1970,
 400,Villa,Hovedgade 55,3730, Nexø,695000 ,30-03-2006,Alm. Salg,99,7020.0,4,1955,
@@ -13526,8 +13252,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Villa,Strandgade 34,3770, Allinge,975000 ,13-03-2006,Alm. Salg,173,5636.0,5,2008,
 400,Villa,Grønagervej 1,3700, Rønne,708963 ,13-03-2006,Alm. Salg,104,6817.0,2,1967,
 400,Villa,Sandflugtsvej 16,3700, Rønne,1298000 ,13-03-2006,Alm. Salg,148,8770.0,3,1956,
-400,Villa,Kong Gustafsvej 47B,3730, Nexø,150000 ,12-03-2006,Alm. Salg,72,2083.0,3,1961,
-400,Rækkehus,Kong Gustafsvej 47,3730, Nexø,150000 ,12-03-2006,Alm. Salg,85,,4,0,
 400,Rækkehus,Gartnervangen 69,3700, Rønne,498000 ,12-03-2006,Alm. Salg,63,7905.0,2,1977,
 400,Villa,Kongstubbevejen 1,3700, Rønne,470000 ,12-03-2006,Fam. Salg,190,2474.0,6,1900,
 400,Villa,Rønnevej 8,3720, Aakirkeby,325000 ,12-03-2006,Alm. Salg,132,2462.0,5,1910,
@@ -14425,11 +14149,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Villa,Kirkevænget 5,3700, Rønne,881000 ,02-06-2005,Alm. Salg,159,5541.0,6,1977,
 400,Villa,Blykobbevej 30,3700, Rønne,825000 ,02-06-2005,Alm. Salg,91,9066.0,3,1961,
 400,Villa,Bolsterbjergvej 15,3700, Rønne,510000 ,02-06-2005,Alm. Salg,133,3835.0,6,1915,
-400,Rækkehus,Kapelvej 21,3700, Rønne,1600000 ,01-06-2005,Alm. Salg,66,24242.0,2,1854,
 400,Villa,Bellmansvej 23,3700, Rønne,795000 ,01-06-2005,Alm. Salg,98,8112.0,3,1946,
 400,Villa,Brogade 25,3782, Klemensker,95000 ,01-06-2005,Alm. Salg,142,669.0,4,1924,
 400,Villa,Åsedamsvej 4,3760, Gudhjem,845000 ,01-06-2005,Alm. Salg,216,3912.0,8,1908,
-400,Villa,Skrædderbakkevejen 3,3700, Rønne,1600000 ,01-06-2005,Alm. Salg,221,7240.0,5,1900,
 400,Villa,Værmlandsvej 15,3700, Rønne,840000 ,31-05-2005,Alm. Salg,118,7119.0,4,1945,
 400,Villa,Kildesgårdsvej 11,3770, Allinge,625000 ,31-05-2005,Alm. Salg,99,6313.0,5,1950,
 400,Villa,Blåbærløkken 3,3700, Rønne,1300000 ,31-05-2005,Alm. Salg,162,8025.0,5,1976,
@@ -14663,9 +14385,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Villa,Lille Madsegade 61,3700, Rønne,900000 ,02-03-2005,Alm. Salg,132,6818.0,3,1910,
 400,Rækkehus,Hammershusvej 53,3770, Allinge,498000 ,01-03-2005,Alm. Salg,102,4882.0,3,1890,
 400,Rækkehus,Havnegade 22,3730, Nexø,285000 ,28-02-2005,Alm. Salg,188,1516.0,6,1827,
-400,Rækkehus,Raadhusstræde 2,3700, Rønne,350000 ,28-02-2005,Alm. Salg,161,2174.0,4,1700,
 400,Villa,Græsvej 1,3730, Nexø,429024 ,28-02-2005,Andet,157,2733.0,6,1964,
-400,Villa,Skovgårdsvejen 5,3700, Rønne,350000 ,28-02-2005,Alm. Salg,122,2869.0,5,1927,
 400,Villa,Kristiansens Løkke 1,3740, Svaneke,1295000 ,28-02-2005,Alm. Salg,133,9737.0,3,1954,
 400,Villa,Kristiansgade 3,3720, Aakirkeby,285000 ,28-02-2005,Alm. Salg,84,3393.0,3,1957,
 400,Rækkehus,Pilebrovej 7,3730, Nexø,600647 ,27-02-2005,Fam. Salg,124,4844.0,4,1943,
@@ -14712,18 +14432,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Villa,Bedegadevej 41,3782, Klemensker,250000 ,10-02-2005,Alm. Salg,195,1282.0,5,1928,
 400,Villa,Kirkevænget 8,3700, Rønne,920000 ,10-02-2005,Alm. Salg,160,5750.0,6,1977,
 400,Villa,Bavnet 14,3720, Aakirkeby,500000 ,10-02-2005,Alm. Salg,113,4425.0,4,1920,
-400,Ejerlejlighed,"Vægtergade 1, 2",3730, Nexø,8300000 ,09-02-2005,Alm. Salg,150,55333.0,4,1949,
-400,Ejerlejlighed,"Torvet 6, 1",3730, Nexø,8300000 ,09-02-2005,Alm. Salg,178,46629.0,4,1949,
-400,Ejerlejlighed,"Torvet 6, 2",3730, Nexø,8300000 ,09-02-2005,Alm. Salg,205,40488.0,5,1949,
-400,Ejerlejlighed,"Strandgade 1A, 1. tv",3730, Nexø,8300000 ,09-02-2005,Alm. Salg,76,109211.0,1,1949,
-400,Ejerlejlighed,"Strandgade 1A, 1. th",3730, Nexø,8300000 ,09-02-2005,Alm. Salg,127,65354.0,3,1949,
-400,Ejerlejlighed,"Vægtergade 1, 1. tv",3730, Nexø,8300000 ,09-02-2005,Alm. Salg,53,156604.0,1,1949,
-400,Ejerlejlighed,"Strandgade 1A, st. th",3730, Nexø,8300000 ,09-02-2005,Alm. Salg,126,65873.0,3,1949,
-400,Ejerlejlighed,"Strandgade 1A, st. tv",3730, Nexø,8300000 ,09-02-2005,Alm. Salg,100,83000.0,3,1949,
-400,Ejerlejlighed,"Vægtergade 1, st",3730, Nexø,8300000 ,09-02-2005,Alm. Salg,94,88298.0,1,1949,
-400,Ejerlejlighed,Torvet 4,3730, Nexø,8300000 ,09-02-2005,Alm. Salg,83,100000.0,3,1949,
-400,Ejerlejlighed,"Vægtergade 1, 1. th",3730, Nexø,8300000 ,09-02-2005,Alm. Salg,86,96512.0,3,1949,
-400,Ejerlejlighed,"Torvet 6, st",3730, Nexø,8300000 ,09-02-2005,Alm. Salg,107,77570.0,3,1949,
 400,Villa,Syrenvej 28,3720, Aakirkeby,695000 ,09-02-2005,Alm. Salg,113,6150.0,4,1980,
 400,Villa,Kalmarvej 16,3700, Rønne,745000 ,08-02-2005,Alm. Salg,75,9933.0,3,1946,
 400,Villa,Værmlandsvej 10,3700, Rønne,913000 ,07-02-2005,Alm. Salg,98,9316.0,4,1946,
@@ -14758,9 +14466,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Villa,Skajlamark 2,3700, Rønne,755000 ,31-01-2005,Alm. Salg,114,6623.0,4,1979,
 400,Villa,Søndergade 6,3782, Klemensker,256309 ,31-01-2005,Andet,82,3126.0,4,1939,
 400,Rækkehus,Munkegade 22,3730, Nexø,345000 ,30-01-2005,Alm. Salg,87,3966.0,1,1910,
-400,Ejerlejlighed,"Krummevej 4, 1. th",3790, Hasle,1340000 ,30-01-2005,Alm. Salg,135,9926.0,3,1930,
-400,Ejerlejlighed,"Krummevej 4, 1. tv",3790, Hasle,1340000 ,30-01-2005,Alm. Salg,76,17632.0,2,1930,
-400,Ejerlejlighed,Storegade 60,3790, Hasle,1340000 ,30-01-2005,Alm. Salg,179,7486.0,7,1930,
 400,Villa,Nyvej 31,3730, Nexø,835000 ,30-01-2005,Alm. Salg,174,4799.0,5,1978,
 400,Villa,Lillevang 15,3760, Gudhjem,795000 ,30-01-2005,Alm. Salg,79,10063.0,2,1813,
 400,Villa,Lille Madsegade 39,3700, Rønne,550000 ,30-01-2005,Alm. Salg,129,4264.0,6,1892,
@@ -15008,9 +14713,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Villa,Østergade 11,3770, Allinge,595000 ,28-10-2004,Alm. Salg,141,4220.0,6,1910,
 400,Villa,Sorthatvej 17B,3700, Rønne,760000 ,28-10-2004,Alm. Salg,139,5468.0,4,1980,
 400,Villa,Almegårdsvej 1,3700, Rønne,998000 ,28-10-2004,Alm. Salg,142,6357.0,3,1947,
-400,Ejerlejlighed,"Klingegade 2, 1",3700, Rønne,725000 ,27-10-2004,Alm. Salg,89,8146.0,3,1700,
-400,Ejerlejlighed,"Klingegade 2, st",3700, Rønne,725000 ,27-10-2004,Alm. Salg,50,14500.0,2,1700,
-400,Ejerlejlighed,Løkkegade 1,3700, Rønne,725000 ,27-10-2004,Alm. Salg,110,6591.0,4,1700,
 400,Villa,Skippergade 3,3740, Svaneke,1500000 ,27-10-2004,Alm. Salg,186,8065.0,3,1900,
 400,Villa,Lundshøjvej 8,3782, Klemensker,665000 ,27-10-2004,Alm. Salg,113,5885.0,4,1971,
 400,Villa,Lærkevej 14,3782, Klemensker,850000 ,27-10-2004,Alm. Salg,205,4146.0,7,1976,
@@ -15020,13 +14722,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Villa,Askeløkken 9,3700, Rønne,1485000 ,24-10-2004,Alm. Salg,187,7941.0,6,1997,
 400,Villa,Strandvejen 17B,3770, Allinge,1665000 ,24-10-2004,Alm. Salg,301,5532.0,10,1902,
 400,Villa,Præstevænget 5,3720, Aakirkeby,825000 ,24-10-2004,Alm. Salg,119,6933.0,5,1951,
-400,Ejerlejlighed,Laksegade 2A. 3,3700, Rønne,2650000 ,22-10-2004,Alm. Salg,70,37857.0,2,1877,
-400,Ejerlejlighed,Laksegade 2A. 5,3700, Rønne,2650000 ,22-10-2004,Alm. Salg,80,33125.0,2,1877,
-400,Ejerlejlighed,Laksegade 2A. 4,3700, Rønne,2650000 ,22-10-2004,Alm. Salg,85,31176.0,2,1877,
-400,Ejerlejlighed,Laksegade 2A. 6,3700, Rønne,2650000 ,22-10-2004,Alm. Salg,60,44167.0,1,1877,
-400,Ejerlejlighed,Storegade 48,3700, Rønne,2650000 ,22-10-2004,Alm. Salg,143,18531.0,4,1877,
-400,Ejerlejlighed,Laksegade 2A. 1,3700, Rønne,2650000 ,22-10-2004,Alm. Salg,64,41406.0,2,1877,
-400,Ejerlejlighed,Laksegade 2A. 2,3700, Rønne,2650000 ,22-10-2004,Alm. Salg,73,36301.0,3,1877,
 400,Villa,Hans Thygesensvej 21,3740, Svaneke,1368000 ,22-10-2004,Alm. Salg,149,9181.0,6,1873,
 400,Villa,Boulevarden 14,3730, Nexø,1428000 ,22-10-2004,Alm. Salg,257,5556.0,9,1929,
 400,Villa,Skolegade 4,3770, Allinge,550000 ,21-10-2004,Alm. Salg,154,3571.0,4,1878,
@@ -15091,7 +14786,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Villa,Vang 41,3790, Hasle,765000 ,20-09-2004,Alm. Salg,191,4005.0,6,1934,
 400,Rækkehus,Langelinie 21,3700, Rønne,700000 ,19-09-2004,Alm. Salg,99,7071.0,4,1954,
 400,Rækkehus,Eginsgade 22,3700, Rønne,665000 ,19-09-2004,Alm. Salg,84,7917.0,4,1928,
-400,Villa,Bossevejen 11D,3720, Aakirkeby,2500000 ,19-09-2004,Alm. Salg,63,39683.0,3,1986,
 400,Villa,Nils Plumsvej 1,3730, Nexø,895000 ,18-09-2004,Alm. Salg,92,9728.0,2,1800,
 400,Villa,Fejlerevej 9,3782, Klemensker,415333 ,18-09-2004,Alm. Salg,216,1923.0,6,1850,
 400,Rækkehus,Brøddegade 19,3760, Gudhjem,2175000 ,16-09-2004,Alm. Salg,190,7423.0,9,1902,
@@ -15158,8 +14852,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Rækkehus,Knudsvej 36,3700, Rønne,630000 ,28-07-2004,Alm. Salg,103,6117.0,5,1890,
 400,Villa,Almindingensvej 30,3751, Østermarie,250000 ,28-07-2004,Alm. Salg,96,2604.0,3,1933,
 400,Villa,Aarsballe By 10,3700, Rønne,270000 ,28-07-2004,Auktion,156,1731.0,4,1933,
-400,Rækkehus,Bredgade 2,3700, Rønne,925000 ,27-07-2004,Alm. Salg,174,5316.0,7,1820,
-400,Villa,Elisabetsvej 13,3700, Rønne,925000 ,27-07-2004,Alm. Salg,138,6703.0,4,1980,
 400,Villa,Lindealle 9,3700, Rønne,770000 ,27-07-2004,Alm. Salg,239,3222.0,8,1968,
 400,Rækkehus,Møllevej 4,3720, Aakirkeby,310000 ,26-07-2004,Alm. Salg,88,3523.0,4,1882,
 400,Rækkehus,Voldgade 21,3700, Rønne,710000 ,26-07-2004,Alm. Salg,106,6698.0,3,1900,
@@ -15788,7 +15480,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Villa,Almindingensvej 4,3751, Østermarie,770000 ,07-12-2003,Alm. Salg,206,3738.0,8,1950,
 400,Villa,Byledsgade 75,3700, Rønne,910000 ,05-12-2003,Alm. Salg,141,6454.0,5,1963,
 400,Rækkehus,Byledsgade 72,3700, Rønne,630000 ,04-12-2003,Alm. Salg,86,7326.0,3,1918,
-400,Rækkehus,Damgade 17,3700, Rønne,4800000 ,04-12-2003,Alm. Salg,65,73846.0,3,1896,
 400,Rækkehus,Åkirkebyvej 28,3700, Rønne,417920 ,04-12-2003,Alm. Salg,137,3051.0,5,1904,
 400,Villa,Østergade 6,3740, Svaneke,1247000 ,04-12-2003,Alm. Salg,117,10658.0,3,1898,
 400,Rækkehus,Bryggeristræde 19,3730, Nexø,325000 ,03-12-2003,Alm. Salg,43,7558.0,2,1880,
@@ -15950,7 +15641,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Rækkehus,Stengade 7,3740, Svaneke,445000 ,24-09-2003,Alm. Salg,69,6449.0,4,1898,
 400,Villa,Salenevej 1,3760, Gudhjem,1000000 ,24-09-2003,Alm. Salg,247,4049.0,7,1853,
 400,Villa,Pingels Alle 68,3700, Rønne,750000 ,24-09-2003,Alm. Salg,121,6198.0,4,1973,
-400,Villa,Smedegårdsvej 32,3700, Rønne,2000000 ,24-09-2003,Alm. Salg,199,10050.0,6,1900,
 400,Villa,Præstegårdsvejen 11,3700, Rønne,237870 ,24-09-2003,Andet,156,1525.0,3,1902,
 400,Villa,Kapelvej 35,3700, Rønne,710000 ,23-09-2003,Alm. Salg,101,7030.0,2,1820,
 400,Ejerlejlighed,"Snellemark 2, st. mf",3700, Rønne,911125 ,22-09-2003,Alm. Salg,81,11248.0,3,1850,
@@ -16192,21 +15882,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Villa,Pistolstræde 6,3700, Rønne,1045000 ,30-06-2003,Alm. Salg,154,6786.0,7,1878,
 400,Villa,Møllegade 64A,3700, Rønne,998000 ,30-06-2003,Alm. Salg,150,6653.0,6,1888,
 400,Villa,Vellensbyvejen 24,3700, Rønne,495000 ,30-06-2003,Alm. Salg,111,4459.0,5,1902,
-400,Ejerlejlighed,"Vægtergade 1, 2",3730, Nexø,3646000 ,29-06-2003,Alm. Salg,150,24307.0,4,1949,
-400,Ejerlejlighed,"Krummevej 4, 1. th",3790, Hasle,90000 ,29-06-2003,Alm. Salg,135,667.0,3,1930,
-400,Ejerlejlighed,"Krummevej 4, 1. tv",3790, Hasle,90000 ,29-06-2003,Alm. Salg,76,1184.0,2,1930,
-400,Ejerlejlighed,Storegade 60,3790, Hasle,90000 ,29-06-2003,Alm. Salg,179,503.0,7,1930,
-400,Ejerlejlighed,"Torvet 6, 1",3730, Nexø,3646000 ,29-06-2003,Alm. Salg,178,20483.0,4,1949,
-400,Ejerlejlighed,"Torvet 6, 2",3730, Nexø,3646000 ,29-06-2003,Alm. Salg,205,17785.0,5,1949,
-400,Ejerlejlighed,"Strandgade 1A, 1. tv",3730, Nexø,3646000 ,29-06-2003,Alm. Salg,76,47974.0,1,1949,
-400,Ejerlejlighed,"Strandgade 1A, 1. th",3730, Nexø,3646000 ,29-06-2003,Alm. Salg,127,28709.0,3,1949,
-400,Ejerlejlighed,"Vægtergade 1, 1. tv",3730, Nexø,3646000 ,29-06-2003,Alm. Salg,53,68792.0,1,1949,
-400,Ejerlejlighed,"Strandgade 1A, st. th",3730, Nexø,3646000 ,29-06-2003,Alm. Salg,126,28937.0,3,1949,
-400,Ejerlejlighed,"Strandgade 1A, st. tv",3730, Nexø,3646000 ,29-06-2003,Alm. Salg,100,36460.0,3,1949,
-400,Ejerlejlighed,"Vægtergade 1, st",3730, Nexø,3646000 ,29-06-2003,Alm. Salg,94,38787.0,1,1949,
-400,Ejerlejlighed,Torvet 4,3730, Nexø,3646000 ,29-06-2003,Alm. Salg,83,43928.0,3,1949,
-400,Ejerlejlighed,"Vægtergade 1, 1. th",3730, Nexø,3646000 ,29-06-2003,Alm. Salg,86,42395.0,3,1949,
-400,Ejerlejlighed,"Torvet 6, st",3730, Nexø,3646000 ,29-06-2003,Alm. Salg,107,34075.0,3,1949,
 400,Villa,Kastelvej 2,3700, Rønne,2425000 ,29-06-2003,Alm. Salg,186,13038.0,5,2000,
 400,Villa,Pingels Alle 61,3700, Rønne,650000 ,29-06-2003,Alm. Salg,108,6019.0,3,1962,
 400,Villa,Købmagergade 37,3730, Nexø,995000 ,29-06-2003,Alm. Salg,212,4693.0,5,1877,
@@ -16398,10 +16073,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Villa,Provstegade 15,3700, Rønne,1175000 ,14-04-2003,Alm. Salg,122,9631.0,4,1850,
 400,Villa,Slagterstræde 6,3770, Allinge,235000 ,14-04-2003,Alm. Salg,41,5732.0,3,1960,
 400,Villa,Lille Madsegade 61,3700, Rønne,687878 ,14-04-2003,Andet,132,5211.0,3,1910,
-400,Rækkehus,Store Torvegade 38,3700, Rønne,1650000 ,13-04-2003,Alm. Salg,100,16500.0,3,1870,
 400,Rækkehus,Reberbanevej 11,3740, Svaneke,1185000 ,13-04-2003,Alm. Salg,140,8464.0,4,1777,
 400,Rækkehus,Svanegade 10,3730, Nexø,475000 ,13-04-2003,Alm. Salg,69,6884.0,3,1875,
-400,Ejerlejlighed,Store Torvegade 40B,3700, Rønne,1650000 ,13-04-2003,Alm. Salg,59,27966.0,2,1870,
 400,Villa,Torvegade 13,3751, Østermarie,480000 ,13-04-2003,Alm. Salg,123,3902.0,5,1957,
 400,Villa,Gartnervangen 23,3700, Rønne,740000 ,13-04-2003,Alm. Salg,103,7184.0,4,1953,
 400,Villa,Birkevej 2,3720, Aakirkeby,431000 ,13-04-2003,Alm. Salg,120,3592.0,4,1970,
@@ -16833,10 +16506,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Rækkehus,Krystalgade 18,3700, Rønne,1050000 ,21-10-2002,Alm. Salg,106,6176.0,2,1920,
 400,Villa,Strandvejen 142,3700, Rønne,1300000 ,21-10-2002,Alm. Salg,208,6250.0,5,2005,
 400,Rækkehus,Louisenhøj 20,3700, Rønne,570000 ,20-10-2002,Alm. Salg,97,5876.0,4,1962,
-400,Rækkehus,Nansensgade 10,3740, Svaneke,1300000 ,20-10-2002,Fam. Salg,120,10833.0,4,1880,
 400,Rækkehus,Sdr Strandvej 24,3730, Nexø,712439 ,20-10-2002,Alm. Salg,309,2306.0,6,1902,
 400,Rækkehus,Borgergade 1B,3740, Svaneke,1875000 ,20-10-2002,Alm. Salg,274,6843.0,12,1765,
-400,Ejerlejlighed,"Nansensgade 12, 2",3740, Svaneke,1300000 ,20-10-2002,Fam. Salg,71,18310.0,3,1880,
 400,Villa,Pederskervejen 43,3720, Aakirkeby,283055 ,20-10-2002,Alm. Salg,140,2022.0,6,1877,
 400,Villa,Møllevej 13,3740, Svaneke,385000 ,20-10-2002,Alm. Salg,75,5133.0,4,1869,
 400,Villa,Dyrlæge Jürgensensgade 19,3740, Svaneke,1225000 ,20-10-2002,Alm. Salg,150,8167.0,6,1971,
@@ -16907,11 +16578,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Villa,Skrædderbakkevejen 3,3700, Rønne,965000 ,22-09-2002,Alm. Salg,221,4367.0,5,1900,
 400,Rækkehus,Lindevej 34,3700, Rønne,285000 ,19-09-2002,Alm. Salg,89,3202.0,3,1909,
 400,Rækkehus,Gottegade 13,3770, Allinge,595000 ,19-09-2002,Alm. Salg,99,6010.0,3,1897,
-400,Ejerlejlighed,Snorregade 8,3700, Rønne,2686632 ,19-09-2002,Alm. Salg,73,36803.0,3,1850,
-400,Ejerlejlighed,Snorregade 10,3700, Rønne,2686632 ,19-09-2002,Alm. Salg,89,30187.0,2,1850,
-400,Ejerlejlighed,"Østergade 19B, 1",3700, Rønne,2686632 ,19-09-2002,Alm. Salg,89,30187.0,3,1850,
-400,Ejerlejlighed,"Østergade 19B, st",3700, Rønne,2686632 ,19-09-2002,Alm. Salg,92,29203.0,2,1850,
-400,Ejerlejlighed,Østergade 19A,3700, Rønne,2686632 ,19-09-2002,Alm. Salg,103,26084.0,3,1850,
 400,Villa,Drosselvej 3,3751, Østermarie,545000 ,19-09-2002,Alm. Salg,93,5860.0,3,1984,
 400,Villa,Borgmester Nielsens Vej 68,3700, Rønne,545000 ,18-09-2002,Alm. Salg,160,3406.0,6,1952,
 400,Villa,Østerled 64,3720, Aakirkeby,590000 ,18-09-2002,Alm. Salg,90,6556.0,3,1976,
@@ -17707,9 +17373,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Villa,Jens Koefoeds Vej 3,3700, Rønne,775000 ,05-11-2001,Alm. Salg,161,4814.0,5,1968,
 400,Rækkehus,Strandvejen 2,3740, Svaneke,422000 ,04-11-2001,Andet,72,5861.0,2,1877,
 400,Rækkehus,Torvegade 16,3730, Nexø,475000 ,04-11-2001,Alm. Salg,106,4481.0,3,1913,
-400,Ejerlejlighed,"Nørregade 4, 1",3730, Nexø,1100000 ,04-11-2001,Alm. Salg,135,8148.0,5,1950,
-400,Ejerlejlighed,"Havnen 15, st",3730, Nexø,1100000 ,04-11-2001,Alm. Salg,135,8148.0,4,1950,
-400,Ejerlejlighed,"Nørregade 4, 2",3730, Nexø,1100000 ,04-11-2001,Alm. Salg,85,12941.0,2,1950,
 400,Villa,Elmevej 1,3720, Aakirkeby,295000 ,04-11-2001,Alm. Salg,124,2379.0,4,1777,
 400,Villa,Søndre Landevej 65,3720, Aakirkeby,197416 ,04-11-2001,Fam. Salg,172,1148.0,4,1911,
 400,Villa,Stenbrudsvej 1,3730, Nexø,386515 ,04-11-2001,Alm. Salg,181,2135.0,4,1913,
@@ -17721,13 +17384,11 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Villa,Ravnsgade 10,3720, Aakirkeby,360000 ,01-11-2001,Alm. Salg,197,1827.0,6,1922,
 400,Rækkehus,Bodernevej 28,3720, Aakirkeby,1400000 ,31-10-2001,Alm. Salg,215,4459.0,6,1930,
 400,Rækkehus,Landemærket 6,3700, Rønne,379315 ,31-10-2001,Alm. Salg,65,5836.0,2,1879,
-400,Rækkehus,Ystadvej 3,3700, Rønne,900000 ,31-10-2001,Alm. Salg,72,12500.0,2,1952,
 400,Villa,Møllegade 9,3770, Allinge,281780 ,31-10-2001,Alm. Salg,102,2763.0,3,1945,
 400,Villa,Sveasvej 18,3700, Rønne,765000 ,31-10-2001,Alm. Salg,110,6955.0,5,1945,
 400,Villa,Strandvejen 97,3700, Rønne,228000 ,31-10-2001,Alm. Salg,178,1281.0,6,2002,
 400,Villa,Stavsdalvej 27,3760, Gudhjem,495000 ,31-10-2001,Alm. Salg,157,3153.0,4,1959,
 400,Villa,Østerled 51,3700, Rønne,784198 ,31-10-2001,Alm. Salg,122,6032.0,4,1965,
-400,Villa,Ystadvej 1B,3700, Rønne,900000 ,31-10-2001,Alm. Salg,111,8108.0,4,1952,
 400,Villa,Åløsevej 24,3760, Gudhjem,595000 ,30-10-2001,Alm. Salg,166,3584.0,7,1778,
 400,Villa,Kastaniestien 1,3700, Rønne,521000 ,30-10-2001,Alm. Salg,125,4168.0,3,1948,
 400,Rækkehus,Paradisvej 64B,3730, Nexø,449720 ,28-10-2001,Alm. Salg,83,5418.0,3,1984,
@@ -18037,8 +17698,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Villa,Sigynsvej 53,3700, Rønne,463945 ,10-07-2001,Andet,144,2666.0,10,1970,
 400,Rækkehus,Havnegade 16,3770, Allinge,387042 ,09-07-2001,Alm. Salg,94,4117.0,4,1877,
 400,Rækkehus,Kapelvej 15,3700, Rønne,675000 ,09-07-2001,Alm. Salg,63,10714.0,2,1900,
-400,Rækkehus,Hammershusvej 43,3770, Allinge,504960 ,09-07-2001,Alm. Salg,91,5549.0,4,1900,
-400,Ejerlejlighed,"Hammershusvej 43, 1",3770, Allinge,504960 ,09-07-2001,Alm. Salg,47,10744.0,2,1900,
 400,Villa,Thorkildsvej 6,3700, Rønne,495000 ,09-07-2001,Alm. Salg,83,5964.0,2,1900,
 400,Villa,Strandvejen 22,3770, Allinge,795000 ,09-07-2001,Alm. Salg,179,4441.0,5,1935,
 400,Rækkehus,Haregade 10,3720, Aakirkeby,65000 ,05-07-2001,Alm. Salg,120,542.0,2,1900,
@@ -18114,13 +17773,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Rækkehus,Gl Postvej 17,3730, Nexø,425000 ,11-06-2001,Alm. Salg,96,4427.0,4,1942,
 400,Villa,Klemenskervej 57,3760, Gudhjem,475000 ,11-06-2001,Alm. Salg,157,3025.0,4,1949,
 400,Villa,Sigynsvej 17,3700, Rønne,794813 ,11-06-2001,Alm. Salg,124,6852.0,4,1962,
-400,Ejerlejlighed,Østergade 9,3700, Rønne,1500000 ,10-06-2001,Alm. Salg,65,23077.0,2,1910,
-400,Ejerlejlighed,Østergade 11,3700, Rønne,1500000 ,10-06-2001,Alm. Salg,97,15464.0,3,1910,
-400,Ejerlejlighed,Teaterstræde 3,3700, Rønne,1500000 ,10-06-2001,Alm. Salg,81,18519.0,2,1910,
-400,Ejerlejlighed,"Teaterstræde 1, st",3700, Rønne,1500000 ,10-06-2001,Alm. Salg,61,24590.0,2,1910,
-400,Ejerlejlighed,"Teaterstræde 1, 1",3700, Rønne,1500000 ,10-06-2001,Alm. Salg,113,13274.0,4,1910,
-400,Ejerlejlighed,Teaterstræde 5,3700, Rønne,1500000 ,10-06-2001,Alm. Salg,80,18750.0,3,1910,
-400,Ejerlejlighed,Teaterstræde 11,3700, Rønne,1500000 ,10-06-2001,Alm. Salg,59,25424.0,2,1910,
 400,Villa,Borgmester Nielsens Vej 113,3700, Rønne,338959 ,10-06-2001,Fam. Salg,136,2492.0,5,1950,
 400,Villa,Åløsevej 6,3760, Gudhjem,340000 ,10-06-2001,Alm. Salg,97,2906.0,5,1931,
 400,Villa,Ibskervej 24,3730, Nexø,600000 ,10-06-2001,Alm. Salg,177,3390.0,7,1907,
@@ -18312,9 +17964,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Villa,Borgergade 8,3740, Svaneke,649520 ,01-04-2001,Alm. Salg,104,6245.0,4,1853,
 400,Villa,Vestermarievej 75,3720, Aakirkeby,717600 ,01-04-2001,Alm. Salg,170,4221.0,7,1850,
 400,Villa,Kannikegårdsvej 34,3730, Nexø,555000 ,01-04-2001,Alm. Salg,164,3384.0,6,1950,
-400,Rækkehus,Havnegade 13A,3770, Allinge,1100000 ,31-03-2001,Alm. Salg,90,12222.0,3,1877,
 400,Villa,Frydenlundsvej 3A,3700, Rønne,245380 ,31-03-2001,Alm. Salg,298,823.0,7,2002,
-400,Villa,Havnegade 13A,3770, Allinge,1100000 ,31-03-2001,Alm. Salg,119,9244.0,4,1877,
 400,Villa,Falsterbovej 8,3700, Rønne,847000 ,29-03-2001,Alm. Salg,98,8643.0,3,1946,
 400,Rækkehus,Store Torvegade 87,3700, Rønne,550000 ,28-03-2001,Alm. Salg,122,4508.0,4,1883,
 400,Rækkehus,Nørregade 62,3730, Nexø,333219 ,28-03-2001,Alm. Salg,93,3583.0,4,1934,
@@ -18465,7 +18115,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Villa,Svanekevej 20,3700, Rønne,613000 ,12-02-2001,Alm. Salg,106,5783.0,6,1948,
 400,Villa,Møllevangen 1,3700, Rønne,937000 ,12-02-2001,Alm. Salg,219,4279.0,6,1900,
 400,Villa,Præstevænget 5,3720, Aakirkeby,711665 ,12-02-2001,Alm. Salg,119,5980.0,5,1951,
-400,Villa,Bossevejen 11D,3720, Aakirkeby,2000000 ,12-02-2001,Alm. Salg,63,31746.0,3,1986,
 400,Villa,Sigtemøllevejen 19,3720, Aakirkeby,535000 ,11-02-2001,Alm. Salg,110,4864.0,5,1950,
 400,Villa,Bølshavn 64,3740, Svaneke,475000 ,11-02-2001,Fam. Salg,124,3831.0,5,1932,
 400,Villa,Jens Koefoeds Vej 12,3700, Rønne,500000 ,11-02-2001,Alm. Salg,143,3497.0,5,1966,
@@ -18567,10 +18216,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Rækkehus,Lindevej 2,3700, Rønne,220000 ,31-12-2000,Alm. Salg,92,2391.0,3,1870,
 400,Villa,Strandvejen 24,3740, Svaneke,400000 ,31-12-2000,Fam. Salg,115,3478.0,5,1937,
 400,Villa,Kildestræde 17,3730, Nexø,567000 ,31-12-2000,Alm. Salg,150,3780.0,4,1777,
-400,Ejerlejlighed,Smedegade 1,3730, Nexø,415000 ,30-12-2000,Fam. Salg,64,6484.0,3,1797,
-400,Ejerlejlighed,Smedegade 3,3730, Nexø,415000 ,30-12-2000,Fam. Salg,65,6385.0,3,1797,
-400,Ejerlejlighed,Nørregade 29,3730, Nexø,415000 ,30-12-2000,Fam. Salg,87,4770.0,3,1797,
-400,Ejerlejlighed,Nørregade 29A,3730, Nexø,415000 ,30-12-2000,Fam. Salg,100,4150.0,3,1797,
 400,Villa,Kirkedalsvej 14,3790, Hasle,330000 ,27-12-2000,Alm. Salg,101,3267.0,4,1953,
 400,Villa,Smørengevejen 13,3720, Aakirkeby,760000 ,27-12-2000,Alm. Salg,180,4222.0,7,1924,
 400,Villa,Vellensbyvejen 18,3700, Rønne,75000 ,27-12-2000,Alm. Salg,56,1339.0,3,1928,
@@ -19026,10 +18671,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Rækkehus,Lindevej 28,3700, Rønne,350000 ,27-07-2000,Alm. Salg,101,3465.0,3,1904,
 400,Villa,Rønnevej 102,3720, Aakirkeby,500000 ,27-07-2000,Alm. Salg,186,2688.0,8,1907,
 400,Rækkehus,Stengade 36,3700, Rønne,379280 ,26-07-2000,Alm. Salg,71,5342.0,3,1876,
-400,Rækkehus,Larsegade 29,3700, Rønne,445000 ,26-07-2000,Alm. Salg,76,5855.0,4,1780,
 400,Villa,Kirkevænget 5,3700, Rønne,790000 ,26-07-2000,Alm. Salg,159,4969.0,6,1977,
 400,Villa,Nørre Løkke 37,3700, Rønne,875000 ,26-07-2000,Alm. Salg,156,5609.0,5,1973,
-400,Villa,Kåsegade 2,3700, Rønne,445000 ,26-07-2000,Alm. Salg,132,3371.0,5,1852,
 400,Villa,Åsedamsvej 16,3760, Gudhjem,385000 ,26-07-2000,Alm. Salg,140,2750.0,4,1919,
 400,Ejerlejlighed,Store Torvegade 22C. 3,3700, Rønne,317000 ,25-07-2000,Alm. Salg,57,5561.0,2,1900,
 400,Rækkehus,Sankt Mortens Gade 27,3700, Rønne,225000 ,24-07-2000,Alm. Salg,84,2679.0,4,1900,
@@ -19181,7 +18824,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Villa,Hedebovej 15,3700, Rønne,555275 ,11-06-2000,Alm. Salg,212,2619.0,5,1963,
 400,Villa,Skansevej 12,3730, Nexø,500000 ,11-06-2000,Alm. Salg,112,4464.0,4,1958,
 400,Villa,Mosevej 21,3730, Nexø,760000 ,11-06-2000,Alm. Salg,111,6847.0,4,1932,
-400,Rækkehus,Søndergade 35C,3700, Rønne,925000 ,09-06-2000,Alm. Salg,64,14453.0,3,1900,
 400,Villa,Søndre Landevej 61,3720, Aakirkeby,385000 ,09-06-2000,Alm. Salg,114,3377.0,6,1901,
 400,Rækkehus,Rolighedsgade 13,3700, Rønne,677000 ,08-06-2000,Alm. Salg,124,5460.0,5,1950,
 400,Rækkehus,Aasen 68,3730, Nexø,360000 ,08-06-2000,Alm. Salg,79,4557.0,4,1931,
@@ -19614,7 +19256,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Ejerlejlighed,Krummevej 2B,3790, Hasle,267000 ,08-12-1999,Alm. Salg,133,2008.0,3,1939,
 400,Villa,Aabyvej 24,3790, Hasle,450000 ,08-12-1999,Alm. Salg,164,2744.0,5,1938,
 400,Rækkehus,Møllegade 8,3770, Allinge,110000 ,07-12-1999,Alm. Salg,115,957.0,5,1800,
-400,Villa,Smedegade 21C,3720, Aakirkeby,700000 ,07-12-1999,Alm. Salg,89,7865.0,2,1884,
 400,Villa,Kirkevej 12,3720, Aakirkeby,189712 ,07-12-1999,Alm. Salg,130,1459.0,4,1924,
 400,Villa,Rønnevej 25,3720, Aakirkeby,55000 ,07-12-1999,Alm. Salg,50,1100.0,3,1900,
 400,Villa,Værmlandsvej 3,3700, Rønne,495000 ,06-12-1999,Alm. Salg,98,5051.0,4,1946,
@@ -19768,12 +19409,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Villa,Stormgade 38,3730, Nexø,580000 ,04-10-1999,Alm. Salg,125,4640.0,4,1964,
 400,Villa,Teglkåsvej 6,3790, Hasle,1560010 ,04-10-1999,Alm. Salg,213,7324.0,7,1922,
 400,Villa,Nyker Strandvej 37,3700, Rønne,770000 ,04-10-1999,Alm. Salg,154,5000.0,6,1954,
-400,Rækkehus,Ystadvej 3,3700, Rønne,796000 ,03-10-1999,Alm. Salg,72,11056.0,2,1952,
 400,Villa,Solbakkevej 2,3700, Rønne,375000 ,03-10-1999,Alm. Salg,81,4630.0,3,1977,
 400,Villa,Nils Plumsvej 6,3730, Nexø,150000 ,03-10-1999,Alm. Salg,85,1765.0,5,1825,
 400,Villa,Brogade 18,3730, Nexø,550000 ,03-10-1999,Alm. Salg,180,3056.0,5,1920,
 400,Villa,Vedbendvej 8,3700, Rønne,1285000 ,03-10-1999,Alm. Salg,176,7301.0,4,1979,
-400,Villa,Ystadvej 1B,3700, Rønne,796000 ,03-10-1999,Alm. Salg,111,7171.0,4,1952,
 400,Villa,Grevens Dal 40,3760, Gudhjem,1350000 ,02-10-1999,Alm. Salg,273,4945.0,6,2000,
 400,Villa,Klemenskervej 21,3760, Gudhjem,298000 ,01-10-1999,Alm. Salg,120,2483.0,5,1949,
 400,Rækkehus,Vesterbro 14,3720, Aakirkeby,165000 ,30-09-1999,Alm. Salg,98,1684.0,5,1906,
@@ -20625,9 +20264,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Villa,Dyrendalsvej 9,3720, Aakirkeby,450000 ,19-11-1998,Alm. Salg,134,3358.0,4,1967,
 400,Villa,Damgade 24,3730, Nexø,429200 ,18-11-1998,Alm. Salg,95,4518.0,5,1938,
 400,Rækkehus,Ny Østergade 12,3700, Rønne,396300 ,17-11-1998,Alm. Salg,80,4954.0,4,1947,
-400,Ejerlejlighed,"Klingegade 2, 1",3700, Rønne,690000 ,16-11-1998,Alm. Salg,89,7753.0,3,1700,
-400,Ejerlejlighed,"Klingegade 2, st",3700, Rønne,690000 ,16-11-1998,Alm. Salg,50,13800.0,2,1700,
-400,Ejerlejlighed,Løkkegade 1,3700, Rønne,690000 ,16-11-1998,Alm. Salg,110,6273.0,4,1700,
 400,Villa,Sejersvej 12,3700, Rønne,860000 ,16-11-1998,Alm. Salg,133,6466.0,6,1965,
 400,Villa,Almindingsvej 65,3700, Rønne,320000 ,16-11-1998,Alm. Salg,78,4103.0,3,1949,
 400,Villa,Gamlevældevej 30,3760, Gudhjem,155000 ,16-11-1998,Alm. Salg,116,1336.0,4,1900,
@@ -21637,7 +21273,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Rækkehus,Stormgade 9,3730, Nexø,384140 ,09-11-1997,Alm. Salg,80,4802.0,3,1677,
 400,Rækkehus,Borgergade 13,3700, Rønne,348300 ,09-11-1997,Alm. Salg,54,6450.0,2,1900,
 400,Rækkehus,Borgergade 28,3700, Rønne,338736 ,09-11-1997,Alm. Salg,72,4705.0,3,1850,
-400,Ejerlejlighed,Smedegade 2,3720, Aakirkeby,758000 ,09-11-1997,Alm. Salg,122,6213.0,3,1880,
 400,Villa,Eriksvej 23,3700, Rønne,694757 ,09-11-1997,Alm. Salg,117,5938.0,4,1979,
 400,Villa,Stangevej 14,3760, Gudhjem,306000 ,09-11-1997,Alm. Salg,177,1729.0,5,1858,
 400,Villa,Rønnevej 33,3770, Allinge,284817 ,08-11-1997,Alm. Salg,106,2687.0,3,1938,
@@ -21742,23 +21377,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Villa,Storegade 44,3740, Svaneke,563400 ,30-09-1997,Alm. Salg,147,3833.0,4,1925,
 400,Rækkehus,Lille Madsegade 108,3700, Rønne,495000 ,29-09-1997,Alm. Salg,101,4901.0,3,1910,
 400,Rækkehus,Bager Sonnes Gade 15,3730, Nexø,240000 ,29-09-1997,Alm. Salg,126,1905.0,4,1912,
-400,Ejerlejlighed,"Stålegade 10, 1. th",3700, Rønne,1800000 ,29-09-1997,Alm. Salg,68,26471.0,2,1875,
-400,Ejerlejlighed,"Stålegade 10, 1. tv",3700, Rønne,1800000 ,29-09-1997,Alm. Salg,81,22222.0,3,1875,
-400,Ejerlejlighed,"Stålegade 10, 2. th",3700, Rønne,1800000 ,29-09-1997,Alm. Salg,41,43902.0,2,1875,
-400,Ejerlejlighed,"Stålegade 10, st. tv",3700, Rønne,1800000 ,29-09-1997,Alm. Salg,68,26471.0,3,1875,
-400,Ejerlejlighed,"Stålegade 10, st. th",3700, Rønne,1800000 ,29-09-1997,Alm. Salg,47,38298.0,2,1875,
-400,Ejerlejlighed,"Stålegade 10, 2. tv",3700, Rønne,1800000 ,29-09-1997,Alm. Salg,42,42857.0,2,1875,
-400,Ejerlejlighed,"Storegade 47, 1. th",3700, Rønne,1000000 ,29-09-1997,Alm. Salg,61,16393.0,2,1907,
-400,Ejerlejlighed,"Storegade 47, 1. tv",3700, Rønne,1000000 ,29-09-1997,Alm. Salg,64,15625.0,2,1907,
-400,Ejerlejlighed,"Stettestræde 11A, st. th",3700, Rønne,1800000 ,29-09-1997,Alm. Salg,45,40000.0,2,1875,
-400,Ejerlejlighed,"Stettestræde 11A, 1. th",3700, Rønne,1800000 ,29-09-1997,Alm. Salg,64,28125.0,2,1875,
-400,Ejerlejlighed,"Stettestræde 11A, st. tv",3700, Rønne,1800000 ,29-09-1997,Alm. Salg,72,25000.0,3,1875,
-400,Ejerlejlighed,"Stettestræde 11A, 1. tv",3700, Rønne,1800000 ,29-09-1997,Alm. Salg,72,25000.0,3,1875,
-400,Ejerlejlighed,"Storegade 47, st. th",3700, Rønne,1000000 ,29-09-1997,Alm. Salg,80,12500.0,3,1907,
-400,Ejerlejlighed,"Storegade 47, st. tv",3700, Rønne,1000000 ,29-09-1997,Alm. Salg,83,12048.0,3,1907,
-400,Ejerlejlighed,"Kåsegade 4, st",3700, Rønne,1000000 ,29-09-1997,Alm. Salg,62,16129.0,3,1907,
-400,Ejerlejlighed,"Kåsegade 4, 1",3700, Rønne,1000000 ,29-09-1997,Alm. Salg,62,16129.0,3,1907,
-400,Ejerlejlighed,"Kåsegade 4, 2",3700, Rønne,1000000 ,29-09-1997,Alm. Salg,60,16667.0,2,1907,
 400,Villa,Sankt Peders Gade 8,3700, Rønne,150000 ,29-09-1997,Alm. Salg,58,2586.0,4,1870,
 400,Rækkehus,Munkegade 11,3730, Nexø,210000 ,28-09-1997,Alm. Salg,101,2079.0,3,1820,
 400,Rækkehus,Svanekegade 9,3720, Aakirkeby,230000 ,28-09-1997,Alm. Salg,108,2130.0,4,1904,
@@ -21775,9 +21393,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Ejerlejlighed,"Store Torvegade 8, 1",3700, Rønne,1425375 ,25-09-1997,Alm. Salg,90,15838.0,3,1879,
 400,Villa,Fejleregårdsvejen 8,3720, Aakirkeby,641550 ,25-09-1997,Alm. Salg,148,4335.0,5,1900,
 400,Villa,Johnsens Tværvej 15,3700, Rønne,359241 ,25-09-1997,Alm. Salg,130,2763.0,3,1885,
-400,Villa,Svaneke Torv 2,3740, Svaneke,1355000 ,24-09-1997,Fam. Salg,258,5252.0,5,1761,
 400,Rækkehus,Silkegade 12,3700, Rønne,681320 ,24-09-1997,Alm. Salg,97,7024.0,5,1850,
-400,Ejerlejlighed,Svaneke Torv 2C,3740, Svaneke,1355000 ,24-09-1997,Fam. Salg,96,14115.0,3,1761,
 400,Villa,Aarsdalevej 44,3740, Svaneke,672000 ,24-09-1997,Alm. Salg,145,4634.0,6,1932,
 400,Rækkehus,Jernbanegade 47,3720, Aakirkeby,204000 ,23-09-1997,Alm. Salg,134,1522.0,5,1910,
 400,Villa,Blekingevej 8,3700, Rønne,445592 ,23-09-1997,Alm. Salg,90,4951.0,4,1946,
@@ -22950,11 +22566,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Rækkehus,Østergade 27,3720, Aakirkeby,375410 ,20-08-1996,Alm. Salg,144,2607.0,8,1890,
 400,Ejerlejlighed,"Nørre Bakke 25, 2",3700, Rønne,795000 ,20-08-1996,Alm. Salg,161,4938.0,4,1934,
 400,Villa,Kirkebyvej 15,3751, Østermarie,125000 ,20-08-1996,Alm. Salg,125,1000.0,6,1931,
-400,Rækkehus,Damgade 15,3700, Rønne,425000 ,19-08-1996,Alm. Salg,116,3664.0,5,1923,
 400,Rækkehus,Provstegade 17,3700, Rønne,896000 ,19-08-1996,Alm. Salg,186,4817.0,8,1784,
 400,Villa,Vang 41,3790, Hasle,163500 ,19-08-1996,Alm. Salg,191,856.0,6,1934,
 400,Villa,Aagaardsvej 8,3782, Klemensker,150000 ,19-08-1996,Alm. Salg,103,1456.0,4,1961,
-400,Villa,Havvej 3,3700, Rønne,425000 ,19-08-1996,Alm. Salg,113,3761.0,5,1900,
 400,Rækkehus,Gartnervangen 69,3700, Rønne,429000 ,18-08-1996,Alm. Salg,63,6810.0,2,1977,
 400,Rækkehus,Nørregade 74,3730, Nexø,250000 ,18-08-1996,Alm. Salg,76,3289.0,3,1926,
 400,Villa,Grønnegade 13,3730, Nexø,217000 ,18-08-1996,Alm. Salg,125,1736.0,4,1907,
@@ -23075,11 +22689,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Villa,Skansebakken 1,3700, Rønne,220000 ,15-07-1996,Alm. Salg,119,1849.0,4,1900,
 400,Rækkehus,Havnegade 23,3770, Allinge,350000 ,14-07-1996,Alm. Salg,199,1759.0,8,1835,
 400,Rækkehus,Knudsvej 17,3700, Rønne,330000 ,14-07-1996,Alm. Salg,76,4342.0,2,1912,
-400,Ejerlejlighed,Snorregade 13,3700, Rønne,472000 ,14-07-1996,Alm. Salg,72,6556.0,2,1900,
-400,Ejerlejlighed,"Søndergade 4, 1. th",3700, Rønne,472000 ,14-07-1996,Alm. Salg,131,3603.0,4,1900,
-400,Ejerlejlighed,"Søndergade 4, st. th",3700, Rønne,472000 ,14-07-1996,Alm. Salg,115,4104.0,4,1900,
-400,Ejerlejlighed,"Søndergade 4, 1. tv",3700, Rønne,472000 ,14-07-1996,Alm. Salg,62,7613.0,2,1900,
-400,Ejerlejlighed,"Søndergade 4, 2",3700, Rønne,472000 ,14-07-1996,Alm. Salg,141,3348.0,4,1900,
 400,Villa,Stadionvej 13,3730, Nexø,736000 ,14-07-1996,Alm. Salg,292,2521.0,9,1974,
 400,Villa,Sankt Mortens Gade 43,3700, Rønne,769600 ,14-07-1996,Alm. Salg,183,4205.0,5,1900,
 400,Villa,Kirkebyen 22,3790, Hasle,474000 ,14-07-1996,Alm. Salg,191,2482.0,6,1980,
@@ -23174,9 +22783,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Villa,Haregade 16,3720, Aakirkeby,510000 ,23-06-1996,Alm. Salg,180,2833.0,11,1912,
 400,Villa,Strandvejen 11,3700, Rønne,370000 ,22-06-1996,Alm. Salg,263,1407.0,5,2023,
 400,Rækkehus,Stengade 21,3700, Rønne,332000 ,20-06-1996,Alm. Salg,64,5188.0,2,1894,
-400,Ejerlejlighed,Gænget 1,3770, Allinge,500000 ,20-06-1996,Alm. Salg,71,7042.0,5,1900,
-400,Ejerlejlighed,"Gænget 1, 1",3770, Allinge,500000 ,20-06-1996,Alm. Salg,106,4717.0,3,1900,
-400,Ejerlejlighed,Strandgade 1,3770, Allinge,500000 ,20-06-1996,Alm. Salg,311,1608.0,9,1900,
 400,Villa,Elisabetsvej 4,3700, Rønne,855000 ,20-06-1996,Alm. Salg,155,5516.0,4,1976,
 400,Villa,Kastanievej 14,3760, Gudhjem,385000 ,20-06-1996,Fam. Salg,85,4529.0,4,1959,
 400,Villa,Nørre Løkke 16,3700, Rønne,817000 ,20-06-1996,Alm. Salg,189,4323.0,8,1966,
@@ -23568,8 +23174,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Villa,Allevej 12,3700, Rønne,218000 ,29-02-1996,Alm. Salg,153,1425.0,5,1997,
 400,Rækkehus,Fælledvej 11,3790, Hasle,222480 ,28-02-1996,Alm. Salg,126,1766.0,5,1900,
 400,Villa,Søndre Løkkevej 6,3700, Rønne,368000 ,28-02-1996,Fam. Salg,139,2647.0,4,1828,
-400,Rækkehus,Nordskovvej 9B,3700, Rønne,1275000 ,27-02-1996,Alm. Salg,30,42500.0,1,1956,
-400,Villa,Nordskovvej 9B,3700, Rønne,1275000 ,27-02-1996,Alm. Salg,149,8557.0,5,1987,
 400,Villa,Fyrrevej 2,3700, Rønne,734950 ,27-02-1996,Alm. Salg,121,6074.0,4,1945,
 400,Villa,Aasen 14,3730, Nexø,559550 ,27-02-1996,Alm. Salg,146,3833.0,5,1951,
 400,Rækkehus,Nørregade 29,3700, Rønne,350000 ,26-02-1996,Alm. Salg,81,4321.0,4,1945,
@@ -23601,13 +23205,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Villa,Aarsdalevej 44,3740, Svaneke,690050 ,15-02-1996,Alm. Salg,145,4759.0,6,1932,
 400,Rækkehus,Harbovej 38,3700, Rønne,425000 ,14-02-1996,Alm. Salg,121,3512.0,4,1952,
 400,Rækkehus,Løkkegade 40,3700, Rønne,309000 ,14-02-1996,Alm. Salg,84,3679.0,3,1870,
-400,Ejerlejlighed,Lille Søstræde 8A,3700, Rønne,2250000 ,14-02-1996,Alm. Salg,72,31250.0,2,1967,
-400,Ejerlejlighed,"Grønnegade 17, st. 6",3700, Rønne,2250000 ,14-02-1996,Alm. Salg,76,29605.0,3,1761,
-400,Ejerlejlighed,"Grønnegade 17, st. 1",3700, Rønne,2250000 ,14-02-1996,Alm. Salg,114,19737.0,3,1761,
-400,Ejerlejlighed,"Grønnegade 17, st. 2",3700, Rønne,2250000 ,14-02-1996,Alm. Salg,118,19068.0,4,1761,
-400,Ejerlejlighed,"Grønnegade 17, st. 5",3700, Rønne,2250000 ,14-02-1996,Alm. Salg,85,26471.0,3,1761,
-400,Ejerlejlighed,"Grønnegade 17, 1. 4",3700, Rønne,2250000 ,14-02-1996,Alm. Salg,63,35714.0,2,1761,
-400,Ejerlejlighed,"Grønnegade 17, 1. 3",3700, Rønne,2250000 ,14-02-1996,Alm. Salg,75,30000.0,3,1761,
 400,Villa,Krakvej 6,3790, Hasle,187000 ,14-02-1996,Alm. Salg,70,2671.0,3,1910,
 400,Villa,Holkavej 19,3760, Gudhjem,416000 ,14-02-1996,Alm. Salg,113,3681.0,3,1870,
 400,Villa,Møllebakken 7B,3740, Svaneke,865500 ,14-02-1996,Alm. Salg,207,4181.0,6,1956,
@@ -23666,8 +23263,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Villa,Knajlen 1,3782, Klemensker,773200 ,23-01-1996,Alm. Salg,151,5121.0,5,1988,
 400,Villa,Ølenevej 15,3751, Østermarie,495000 ,23-01-1996,Alm. Salg,220,2250.0,6,1870,
 400,Villa,Sandvejen 6,3720, Aakirkeby,622100 ,22-01-1996,Alm. Salg,150,4147.0,5,1944,
-400,Villa,Kong Gustafsvej 47B,3730, Nexø,450000 ,21-01-1996,Fam. Salg,72,6250.0,3,1961,
-400,Rækkehus,Kong Gustafsvej 47,3730, Nexø,450000 ,21-01-1996,Fam. Salg,85,,4,0,
 400,Rækkehus,Fiskerbakken 9,3700, Rønne,300000 ,21-01-1996,Alm. Salg,83,3614.0,2,1890,
 400,Rækkehus,Lille Madsegade 45,3700, Rønne,360000 ,21-01-1996,Alm. Salg,71,5070.0,2,1886,
 400,Villa,Nørrevej 36,3730, Nexø,275000 ,21-01-1996,Alm. Salg,93,2957.0,3,1966,
@@ -23700,7 +23295,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 400,Villa,Pedersker Hovedgade 47,3720, Aakirkeby,164887 ,11-01-1996,Alm. Salg,137,1204.0,4,1908,
 400,Rækkehus,Haslevej 4,3700, Rønne,600000 ,10-01-1996,Alm. Salg,179,3352.0,6,1900,
 400,Rækkehus,Kirkepladsen 1,3740, Svaneke,119890 ,10-01-1996,Alm. Salg,111,1080.0,3,1790,
-400,Rækkehus,Søndergade 35C,3700, Rønne,780000 ,10-01-1996,Alm. Salg,64,12188.0,3,1900,
 400,Rækkehus,Fru Krabbes Vej 4,3700, Rønne,295000 ,09-01-1996,Alm. Salg,84,3512.0,2,1900,
 400,Villa,Zahrtmannsvej 53,3700, Rønne,642100 ,09-01-1996,Alm. Salg,349,2293.0,8,1860,
 400,Villa,Udmarksvejen 7,3720, Aakirkeby,182000 ,09-01-1996,Alm. Salg,162,1123.0,4,1900,

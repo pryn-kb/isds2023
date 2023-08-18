@@ -20,7 +20,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Røsnæsvej 89,4400, Kalundborg,995000 ,15-12-2022,Alm. Salg,141,7057.0,4,1960,-17%
 326,Villa,Firhøjvej 2,4460, Snertinge,2000000 ,15-12-2022,Alm. Salg,139,14388.0,5,2007,
 326,Villa,Søndergade 26,4490, Jerslev Sjælland,1000000 ,15-12-2022,Alm. Salg,138,7246.0,4,1970,-16%
-326,Ejerlejlighed,Hovedgaden 52A,4270, Høng,2100000 ,14-12-2022,Alm. Salg,218,5250.0,14,1838,
 326,Villa,Kirke Helsinge Strandvej 51,4281, Gørlev,102708 ,14-12-2022,Fam. Salg,86,1194.0,3,1920,
 326,Villa,Rørmosevej 13,4400, Kalundborg,1105000 ,14-12-2022,Alm. Salg,115,9609.0,4,1979,-3%
 326,Villa,Sct Jørgensbjerg 15,4400, Kalundborg,3150000 ,14-12-2022,Alm. Salg,347,9078.0,12,1880,
@@ -62,7 +61,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Rækkehus,Margrethevej 14,4400, Kalundborg,1050000 ,24-11-2022,Alm. Salg,82,12805.0,3,1877,
 326,Villa,Vestergade 15,4281, Gørlev,1415000 ,24-11-2022,Alm. Salg,120,11792.0,4,1947,-5%
 326,Villa,Beskesvej 2,4400, Kalundborg,880000 ,23-11-2022,Alm. Salg,113,7788.0,3,1850,-12%
-326,Villa,Røsnæsvej 337A,4400, Kalundborg,1410000 ,23-11-2022,Alm. Salg,146,9658.0,5,1915,
 326,Villa,Strandparken 3,4591, Føllenslev,1845000 ,22-11-2022,Alm. Salg,125,14760.0,4,1979,
 326,Villa,Blachs Vej 6,4470, Svebølle,150000 ,21-11-2022,Alm. Salg,137,1095.0,5,1857,-49%
 326,Villa,Hesselbjergvej 9,4400, Kalundborg,2000000 ,20-11-2022,Alm. Salg,203,9852.0,6,1966,
@@ -581,7 +579,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Æblekjærvej 9,4460, Snertinge,874000 ,13-03-2022,Auktion,108,8093.0,3,1929,
 326,Villa,Huslodsvej 8,4281, Gørlev,695000 ,13-03-2022,Alm. Salg,180,3861.0,6,1900,
 326,Villa,Mullerupvej 5,4200, Slagelse,375000 ,13-03-2022,Alm. Salg,96,3906.0,4,1907,-5%
-326,Villa,Klosterhaven 8,4400, Kalundborg,2495000 ,13-03-2022,Alm. Salg,140,17821.0,5,2007,
 326,Villa,Arnakkevej 15A,4593, Eskebjerg,725000 ,10-03-2022,Alm. Salg,144,5035.0,4,1914,-9%
 326,Villa,Råes Vænge 24,4400, Kalundborg,1890000 ,10-03-2022,Alm. Salg,166,11386.0,6,1974,-5%
 326,Villa,Klokkevej 7,4480, Store Fuglede,925000 ,10-03-2022,Alm. Salg,128,7227.0,4,1975,
@@ -615,7 +612,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Stationsvej 6,4490, Jerslev Sjælland,700000 ,24-02-2022,Alm. Salg,160,4375.0,5,1908,
 326,Villa,Nybyvej 5,4400, Kalundborg,1775000 ,24-02-2022,Alm. Salg,192,9245.0,5,1962,-3%
 326,Villa,Ulstrupvej 38,4281, Gørlev,1450000 ,24-02-2022,Alm. Salg,220,6591.0,8,1914,-14%
-326,Villa,Lyngknuden 33,4400, Kalundborg,3150000 ,24-02-2022,Alm. Salg,179,17598.0,5,1976,-4%
 326,Villa,Eskebjergvej 50,4593, Eskebjerg,386000 ,23-02-2022,Andet,214,1804.0,7,1900,
 326,Villa,Tværstenen 13,4281, Gørlev,1200000 ,23-02-2022,Alm. Salg,128,9375.0,4,1965,-6%
 326,Villa,Jydegårdsvej 13,4470, Svebølle,360000 ,23-02-2022,Andet,104,3462.0,4,1949,
@@ -699,7 +695,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Rækkehus,Poulas Alle 44,4400, Kalundborg,1225000 ,09-01-2022,Alm. Salg,112,10938.0,3,1917,-2%
 326,Villa,Tværstenen 5,4281, Gørlev,1500000 ,08-01-2022,Alm. Salg,140,10714.0,5,1964,-3%
 326,Villa,Ougtvedvej 26,4291, Ruds Vedby,1395000 ,08-01-2022,Alm. Salg,117,11923.0,2,1827,
-326,Villa,Ugerløsevej 3B,4400, Kalundborg,2612500 ,07-01-2022,Alm. Salg,148,17652.0,5,2000,-1%
 326,Rækkehus,Poulas Alle 39,4400, Kalundborg,1100000 ,06-01-2022,Alm. Salg,96,11458.0,3,1917,-4%
 326,Ejerlejlighed,"Blegdammen 52, 1. th",4400, Kalundborg,850000 ,06-01-2022,Alm. Salg,80,10625.0,3,1963,-5%
 326,Villa,Hovedgaden 45,4470, Svebølle,715000 ,06-01-2022,Alm. Salg,80,8938.0,3,1960,-5%
@@ -861,7 +856,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Vestergade 15,4270, Høng,855000 ,24-10-2021,Fam. Salg,178,4803.0,5,1948,
 326,Villa,Rye Byvej 2,4281, Gørlev,2000000 ,24-10-2021,Alm. Salg,228,8772.0,5,1909,-2%
 326,Villa,Slagelsevej 160,4400, Kalundborg,950000 ,24-10-2021,Auktion,143,6643.0,4,1936,
-326,Villa,Kystvejen 142,4400, Kalundborg,2225000 ,22-10-2021,Alm. Salg,125,17800.0,4,1952,-9%
 326,Villa,Nikolinevej 2,4470, Svebølle,800000 ,21-10-2021,Alm. Salg,99,8081.0,4,1961,
 326,Villa,Firhøjvej 35,4460, Snertinge,2100000 ,21-10-2021,Alm. Salg,168,12500.0,4,2009,-4%
 326,Villa,Tingvej 5,4460, Snertinge,2195000 ,21-10-2021,Alm. Salg,249,8815.0,6,2013,
@@ -1228,8 +1222,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Røsnæsvej 267,4400, Kalundborg,1195000 ,02-06-2021,Alm. Salg,85,14059.0,2,1960,
 326,Villa,Margrethevej 10,4270, Høng,1275000 ,02-06-2021,Alm. Salg,90,14167.0,3,1972,-2%
 326,Villa,Hovedgaden 68,4470, Svebølle,370000 ,02-06-2021,Alm. Salg,109,3394.0,6,1930,-18%
-326,Villa,Kirkevangen 9A,4281, Gørlev,1150000 ,02-06-2021,Alm. Salg,102,11275.0,3,1936,
-326,Villa,Kongevej 17,4450, Jyderup,3600000 ,02-06-2021,Alm. Salg,203,17734.0,7,1924,-3%
 326,Villa,Lavlandsvej 31,4400, Kalundborg,2400000 ,02-06-2021,Alm. Salg,147,16327.0,6,1985,-8%
 326,Villa,Ulshøjvej 17,4400, Kalundborg,999999 ,02-06-2021,Alm. Salg,80,12500.0,3,1959,6%
 326,Villa,Skjalm Hvidesvej 7,4400, Kalundborg,2230000 ,01-06-2021,Alm. Salg,184,12120.0,4,1962,-3%
@@ -1510,7 +1502,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Gl Raklev 1A,4400, Kalundborg,2050000 ,09-03-2021,Alm. Salg,196,10459.0,4,1848,-7%
 326,Rækkehus,Møllestræde 26,4400, Kalundborg,950000 ,08-03-2021,Alm. Salg,133,7143.0,2,1832,-5%
 326,Rækkehus,Adelgade 11,4400, Kalundborg,2450000 ,08-03-2021,Alm. Salg,166,14759.0,2,1850,-2%
-326,Ejerlejlighed,Møllebakken 9,4400, Kalundborg,990000 ,08-03-2021,Alm. Salg,97,10206.0,5,1899,
 326,Villa,Møllebakken 16,4400, Kalundborg,1600000 ,08-03-2021,Alm. Salg,146,10959.0,4,1926,-11%
 326,Villa,Bredekildevej 71,4400, Kalundborg,895000 ,08-03-2021,Alm. Salg,131,6832.0,5,1962,
 326,Villa,Algade 46,4281, Gørlev,323000 ,08-03-2021,Fam. Salg,94,3436.0,4,1910,
@@ -2023,7 +2014,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Røsnæsvej 379,4400, Kalundborg,315000 ,12-08-2020,Alm. Salg,59,5339.0,3,1777,
 326,Villa,Skippingevej 27,4460, Snertinge,820000 ,12-08-2020,Alm. Salg,121,6777.0,4,1904,-8%
 326,Villa,Dalbyvej 7,4281, Gørlev,1250000 ,12-08-2020,Alm. Salg,150,8333.0,4,1969,
-326,Villa,Stationsvej 3A,4490, Jerslev Sjælland,601000 ,11-08-2020,Auktion,248,2423.0,5,1900,
 326,Villa,Slagelsevej 71,4400, Kalundborg,975000 ,11-08-2020,Alm. Salg,107,9112.0,3,1947,-2%
 326,Villa,Møllevangen 61,4281, Gørlev,1862500 ,10-08-2020,Alm. Salg,209,8911.0,5,1981,-7%
 326,Villa,Gildehøjvej 17,4281, Gørlev,350000 ,10-08-2020,Alm. Salg,150,2333.0,4,1908,
@@ -2144,7 +2134,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Kelleklintevej 4,4490, Jerslev Sjælland,600000 ,17-06-2020,Alm. Salg,148,4054.0,4,1873,-14%
 326,Villa,Røsnæsvej 200,4400, Kalundborg,93255 ,17-06-2020,Alm. Salg,287,325.0,6,1857,
 326,Villa,Fjordbakken 7,4400, Kalundborg,1000000 ,17-06-2020,Alm. Salg,140,7143.0,5,1973,-9%
-326,Villa,Avnsøgårds Alle 9,4470, Svebølle,4000000 ,17-06-2020,Alm. Salg,286,13986.0,6,1886,
 326,Rækkehus,Møllestræde 24,4400, Kalundborg,686781 ,16-06-2020,Auktion,77,8919.0,3,1831,
 326,Villa,Elmevej 23,4281, Gørlev,230000 ,16-06-2020,Auktion,93,2473.0,3,1900,
 326,Villa,Agnetevej 3,4270, Høng,1600000 ,16-06-2020,Alm. Salg,125,12800.0,5,1972,1%
@@ -2182,7 +2171,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Byskellet 3,4400, Kalundborg,1725000 ,06-06-2020,Alm. Salg,133,12970.0,4,1961,
 326,Ejerlejlighed,"Nørre Alle 62, st. tv",4400, Kalundborg,535500 ,04-06-2020,Fam. Salg,80,6694.0,3,1963,
 326,Villa,Lundemarken 46,4400, Kalundborg,1500000 ,04-06-2020,Alm. Salg,119,12605.0,4,1943,-6%
-326,Villa,Skovvejen 24A,4281, Gørlev,790000 ,04-06-2020,Alm. Salg,122,6475.0,4,1949,
 326,Villa,Nostrupvej 8,4400, Kalundborg,1995000 ,04-06-2020,Alm. Salg,221,9027.0,5,1881,
 326,Villa,Granlystien 35,4400, Kalundborg,1700000 ,04-06-2020,Alm. Salg,127,13386.0,5,1970,-5%
 326,Villa,Fabrikvej 10,4470, Svebølle,600000 ,03-06-2020,Alm. Salg,110,5455.0,5,1935,-14%
@@ -2245,7 +2233,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Bastrupvej 27,4400, Kalundborg,700000 ,12-05-2020,Auktion,123,5691.0,4,1882,
 326,Villa,Kysttoften 10,4400, Kalundborg,386609 ,12-05-2020,Alm. Salg,100,3866.0,3,1947,
 326,Villa,Bakkedraget 16,4270, Høng,2895000 ,12-05-2020,Alm. Salg,174,16638.0,6,2016,
-326,Villa,Sct Jørgensbjerg 36A,4400, Kalundborg,1661000 ,12-05-2020,Auktion,101,16446.0,2,1860,
 326,Villa,Kystlodden 9,4400, Kalundborg,718000 ,11-05-2020,Alm. Salg,105,6838.0,5,1964,
 326,Villa,Borrehøj 32,4400, Kalundborg,450000 ,11-05-2020,Alm. Salg,165,2727.0,5,2022,
 326,Rækkehus,Møllehøj 11A,4591, Føllenslev,775000 ,10-05-2020,Alm. Salg,91,8516.0,3,1981,-3%
@@ -2377,7 +2364,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Engvej 23,4270, Høng,1300000 ,19-02-2020,Alm. Salg,132,9848.0,5,1969,-7%
 326,Villa,Kærvej 11,4270, Høng,1175000 ,18-02-2020,Auktion,206,5704.0,4,1972,-29%
 326,Villa,Højen 34,4400, Kalundborg,1315000 ,18-02-2020,Alm. Salg,138,9529.0,4,1977,-6%
-326,Villa,Sct Jørgensbjerg 38B,4400, Kalundborg,915000 ,18-02-2020,Auktion,112,8170.0,4,1860,
 326,Villa,Solbakken 30,4400, Kalundborg,1252500 ,18-02-2020,Alm. Salg,249,5030.0,7,1978,-16%
 326,Villa,Lyngvej 16,4400, Kalundborg,840636 ,17-02-2020,Fam. Salg,147,5719.0,6,1934,
 326,Villa,Lærkebakken 6,4400, Kalundborg,1050000 ,17-02-2020,Alm. Salg,213,4930.0,9,1964,-12%
@@ -2389,7 +2375,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Bækvej 21,4400, Kalundborg,375000 ,13-02-2020,Alm. Salg,150,2500.0,5,2022,-5%
 326,Villa,Lundemarken 48,4400, Kalundborg,1275000 ,12-02-2020,Alm. Salg,108,11806.0,5,1961,-7%
 326,Villa,Frederiksberg 53,4470, Svebølle,700000 ,12-02-2020,Alm. Salg,105,6667.0,4,1961,-17%
-326,Ejerlejlighed,"Bryggervænget 1, 3. mf",4400, Kalundborg,1750000 ,11-02-2020,Alm. Salg,99,17677.0,3,1961,
 326,Villa,Klosterhøjen 5,4400, Kalundborg,1600000 ,11-02-2020,Alm. Salg,131,12214.0,6,2005,-6%
 326,Villa,Græsmarken 1,4400, Kalundborg,400000 ,10-02-2020,Alm. Salg,100,4000.0,3,1850,
 326,Villa,Tjørnebakken 21,4400, Kalundborg,693752 ,10-02-2020,Alm. Salg,172,4033.0,4,1968,
@@ -2906,7 +2891,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Bygaden 34,4490, Jerslev Sjælland,445959 ,10-06-2019,Fam. Salg,145,3076.0,6,1926,
 326,Villa,Dådyrvænget 2,4400, Kalundborg,1050000 ,08-06-2019,Alm. Salg,158,6646.0,5,1979,-4%
 326,Villa,Gl Rørbyvej 19,4400, Kalundborg,865000 ,06-06-2019,Alm. Salg,110,7864.0,3,1959,-8%
-326,Villa,Kirke Helsinge Strandvej 29,4281, Gørlev,4450000 ,06-06-2019,Alm. Salg,250,17800.0,6,1932,-7%
 326,Villa,Bøgelundsvej 37,4400, Kalundborg,1370000 ,05-06-2019,Alm. Salg,140,9786.0,4,1977,-12%
 326,Villa,Bygvænget 13,4270, Høng,1370000 ,05-06-2019,Alm. Salg,135,10148.0,4,1976,-2%
 326,Villa,Blegdammen 8,4400, Kalundborg,890000 ,05-06-2019,Alm. Salg,76,11711.0,3,1953,
@@ -3310,7 +3294,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Risbjergvej 29,4291, Ruds Vedby,1295000 ,31-10-2018,Alm. Salg,169,7663.0,7,1920,
 326,Villa,Ulstrupvej 9,4281, Gørlev,1395000 ,31-10-2018,Alm. Salg,142,9824.0,6,1925,-7%
 326,Villa,Fyrrebakken 2,4400, Kalundborg,1875000 ,31-10-2018,Alm. Salg,156,12019.0,6,1960,-11%
-326,Villa,Møllevej 2,4400, Kalundborg,925000 ,31-10-2018,Alm. Salg,268,3451.0,12,1953,-20%
 326,Villa,Gildehøjvej 8,4281, Gørlev,625000 ,30-10-2018,Alm. Salg,104,6010.0,4,1961,-10%
 326,Villa,Søndergade 44,4490, Jerslev Sjælland,1400000 ,30-10-2018,Alm. Salg,162,8642.0,6,1970,-6%
 326,Villa,Humlehaven 7,4400, Kalundborg,1150000 ,30-10-2018,Alm. Salg,112,10268.0,4,1983,-4%
@@ -3628,7 +3611,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Fynsvej 2,4270, Høng,1600000 ,03-05-2018,Alm. Salg,165,9697.0,5,1973,-3%
 326,Villa,Jomfrustræde 2,4490, Jerslev Sjælland,665000 ,02-05-2018,Alm. Salg,70,9500.0,2,1900,
 326,Villa,Anemonevej 5,4470, Svebølle,1495000 ,02-05-2018,Alm. Salg,158,9462.0,5,1981,
-326,Rækkehus,Strandvænget 20,4400, Kalundborg,1665000 ,01-05-2018,Alm. Salg,94,17713.0,3,1943,-2%
 326,Rækkehus,Slagelsevej 105,4400, Kalundborg,388100 ,01-05-2018,Auktion,108,3594.0,4,1917,
 326,Rækkehus,Møllestræde 9,4400, Kalundborg,1100000 ,01-05-2018,Alm. Salg,99,11111.0,2,1777,-6%
 326,Rækkehus,Gl Røsnæsvej 37,4400, Kalundborg,1000000 ,30-04-2018,Alm. Salg,99,10101.0,4,1950,-9%
@@ -3831,8 +3813,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Havnsøgårdsvej 16,4591, Føllenslev,1395000 ,22-12-2017,Alm. Salg,144,9688.0,5,2005,-2%
 326,Villa,Klovbygade 32,4490, Jerslev Sjælland,1790000 ,21-12-2017,Alm. Salg,176,10170.0,7,1906,
 326,Villa,Årbyvej 3,4400, Kalundborg,287659 ,21-12-2017,Fam. Salg,73,3941.0,3,1960,
-326,Ejerlejlighed,"Lundevej 36, st. 3",4400, Kalundborg,995000 ,20-12-2017,Alm. Salg,122,8156.0,3,1957,-9%
-326,Villa,Nyrupvej 159A,4400, Kalundborg,995000 ,20-12-2017,Alm. Salg,90,11056.0,3,1968,0%
 326,Villa,Svenstrupvej 6,4400, Kalundborg,810000 ,20-12-2017,Alm. Salg,109,7431.0,3,1942,-9%
 326,Villa,Lyngvej 12A,4591, Føllenslev,115498 ,20-12-2017,Andet,144,802.0,4,1905,
 326,Villa,Bastrupvej 23,4400, Kalundborg,1200000 ,20-12-2017,Alm. Salg,122,9836.0,3,1971,
@@ -3880,7 +3860,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Byskellet 33,4400, Kalundborg,925000 ,29-11-2017,Auktion,96,9635.0,4,1961,
 326,Villa,Åsen 14,4400, Kalundborg,1900000 ,29-11-2017,Alm. Salg,149,12752.0,4,1890,-5%
 326,Villa,Torvestræde 2,4591, Føllenslev,238000 ,28-11-2017,Auktion,109,2183.0,5,1897,
-326,Villa,Strandskrænten 12,4400, Kalundborg,1575000 ,28-11-2017,Andet,216,7292.0,7,1978,
 326,Villa,Hedevej 8,4400, Kalundborg,1625000 ,27-11-2017,Alm. Salg,155,10484.0,5,1964,-3%
 326,Villa,Sandbjergvej 31,4400, Kalundborg,625000 ,27-11-2017,Alm. Salg,145,4310.0,5,1970,-21%
 326,Villa,Gunhøjvej 9,4591, Føllenslev,300000 ,26-11-2017,Auktion,95,3158.0,2,1890,
@@ -3893,7 +3872,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Hovedgaden 21,4490, Jerslev Sjælland,559526 ,22-11-2017,Fam. Salg,179,3126.0,3,1917,
 326,Villa,Stenrand 2,4470, Svebølle,450000 ,21-11-2017,Alm. Salg,213,2113.0,5,1880,-9%
 326,Rækkehus,Sct Jørgensbjerg 34,4400, Kalundborg,620000 ,19-11-2017,Alm. Salg,261,2375.0,9,1827,-27%
-326,Ejerlejlighed,Møllebakken 9,4400, Kalundborg,990000 ,19-11-2017,Alm. Salg,97,10206.0,5,1899,
 326,Villa,Dyvekærvej 7,4400, Kalundborg,75000 ,19-11-2017,Alm. Salg,70,1071.0,3,1877,
 326,Villa,Fasanvej 72,4400, Kalundborg,1925000 ,19-11-2017,Alm. Salg,178,10815.0,5,1983,-4%
 326,Villa,Eskebjergvej 8,4591, Føllenslev,495000 ,19-11-2017,Alm. Salg,130,3808.0,5,1937,-18%
@@ -4079,7 +4057,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Hovedgaden 1A,4470, Svebølle,795000 ,31-07-2017,Alm. Salg,105,7571.0,3,1971,
 326,Villa,Nåleskovvej 1,4291, Ruds Vedby,550000 ,30-07-2017,Alm. Salg,167,3293.0,5,1777,-8%
 326,Villa,Enggårdsvej 40,4490, Jerslev Sjælland,707000 ,30-07-2017,Auktion,166,4017.0,7,1973,
-326,Villa,Flinterupvej 89,4480, Store Fuglede,485000 ,28-07-2017,Alm. Salg,105,4619.0,4,1927,
 326,Villa,Gl Røsnæsvej 31A,4400, Kalundborg,2550000 ,27-07-2017,Alm. Salg,179,14246.0,6,1954,-7%
 326,Villa,Brandsbjerg 10,4400, Kalundborg,3500000 ,27-07-2017,Alm. Salg,243,14403.0,9,1963,-9%
 326,Villa,Dyssevej 2,4270, Høng,900000 ,27-07-2017,Alm. Salg,149,6040.0,5,1973,-8%
@@ -4315,7 +4292,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Havnevej 4,4281, Gørlev,595000 ,01-03-2017,Alm. Salg,75,7933.0,2,1910,
 326,Villa,Vilhelmshøjvej 5,4593, Eskebjerg,1995000 ,01-03-2017,Alm. Salg,342,5833.0,8,1900,
 326,Villa,Hestehavebakken 100,4400, Kalundborg,1350000 ,01-03-2017,Alm. Salg,253,4945.0,7,1952,
-326,Villa,Vagtelvej 15,4400, Kalundborg,2265000 ,28-02-2017,Alm. Salg,127,17835.0,4,2004,-1%
 326,Villa,Hækkemosen 13,4460, Snertinge,1200000 ,28-02-2017,Alm. Salg,136,8824.0,3,1971,-5%
 326,Villa,"Jorløse Byvej 2, st",4470, Svebølle,325000 ,28-02-2017,Alm. Salg,64,5078.0,2,2020,-18%
 326,Rækkehus,Svends Alle 5,4400, Kalundborg,588122 ,27-02-2017,Fam. Salg,101,5823.0,3,1918,
@@ -4342,7 +4318,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Ledager 3,4281, Gørlev,600000 ,12-02-2017,Alm. Salg,138,4348.0,6,1965,-24%
 326,Villa,Enggårdsvej 58,4490, Jerslev Sjælland,1100000 ,11-02-2017,Alm. Salg,160,6875.0,5,1973,-4%
 326,Villa,Chr Den 2 Vej 16,4400, Kalundborg,1780000 ,10-02-2017,Alm. Salg,112,15893.0,4,1930,
-326,Villa,Dyssevej 3C,4490, Jerslev Sjælland,1769000 ,08-02-2017,Andet,231,7658.0,7,1924,
 326,Rækkehus,Munkebakken 19,4400, Kalundborg,1510000 ,07-02-2017,Alm. Salg,126,11984.0,3,1979,-2%
 326,Ejerlejlighed,Lundevej 34. 12,4400, Kalundborg,610000 ,07-02-2017,Alm. Salg,71,8592.0,2,1957,
 326,Villa,Sæbyvej 5,4270, Høng,1425000 ,07-02-2017,Alm. Salg,173,8237.0,6,1900,-5%
@@ -4361,7 +4336,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Skibbrogade 25,4400, Kalundborg,213000 ,31-01-2017,Auktion,133,1602.0,4,1880,-68%
 326,Villa,Øresøvej 10,4470, Svebølle,1000000 ,31-01-2017,Andet,110,9091.0,6,1937,-17%
 326,Villa,Sønderødvej 18,4291, Ruds Vedby,1595000 ,30-01-2017,Alm. Salg,195,8179.0,6,1909,
-326,Villa,Dyssevej 3C,4490, Jerslev Sjælland,1769000 ,30-01-2017,Andet,231,7658.0,7,1924,
 326,Villa,Buerupvej 11A,4450, Jyderup,264800 ,29-01-2017,Auktion,111,2386.0,3,1773,
 326,Villa,Vestervej 25,4592, Sejerø,510000 ,29-01-2017,Alm. Salg,84,6071.0,3,1945,3%
 326,Villa,Bakkekammen 7,4460, Snertinge,920000 ,29-01-2017,Alm. Salg,108,8519.0,4,1966,-3%
@@ -4982,7 +4956,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Loch Ness 6,4400, Kalundborg,975000 ,24-01-2016,Alm. Salg,125,7800.0,5,1971,-11%
 326,Villa,Bøstrupvej 16,4270, Høng,522133 ,24-01-2016,Andet,131,3986.0,5,1944,
 326,Villa,Toftevej 6,4270, Høng,1075000 ,24-01-2016,Alm. Salg,120,8958.0,5,1941,-10%
-326,Villa,Bakkedalsvej 2C,4400, Kalundborg,1250000 ,24-01-2016,Alm. Salg,71,17606.0,3,1939,
 326,Rækkehus,Grethes Alle 12,4400, Kalundborg,505000 ,23-01-2016,Alm. Salg,107,4720.0,4,1918,-22%
 326,Villa,Flinterupvej 74,4480, Store Fuglede,553750 ,23-01-2016,Alm. Salg,105,5274.0,7,1928,-7%
 326,Villa,Flinterupvej 58,4480, Store Fuglede,310000 ,21-01-2016,Alm. Salg,131,2366.0,5,1902,-15%
@@ -5113,7 +5086,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Ledager 2B,4281, Gørlev,585000 ,24-10-2015,Alm. Salg,171,3421.0,4,1964,-35%
 326,Villa,Korsvangen 4,4400, Kalundborg,820000 ,22-10-2015,Alm. Salg,143,5734.0,4,1974,-8%
 326,Villa,Lavlandsvej 10,4400, Kalundborg,1100000 ,22-10-2015,Alm. Salg,105,10476.0,3,1995,-15%
-326,Rækkehus,Søndergårds Banke 1,4400, Kalundborg,1725000 ,21-10-2015,Alm. Salg,98,17602.0,3,1995,-4%
 326,Villa,Moselund 1,4593, Eskebjerg,580000 ,21-10-2015,Fam. Salg,139,4173.0,7,1900,
 326,Villa,Trøjeløkkevej 10,4400, Kalundborg,920000 ,21-10-2015,Alm. Salg,120,7667.0,3,1975,-8%
 326,Villa,Slagelsevej 102,4400, Kalundborg,1175000 ,20-10-2015,Alm. Salg,109,10780.0,4,1952,-9%
@@ -5255,7 +5227,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Bøgelundsvej 25,4400, Kalundborg,1310000 ,30-07-2015,Alm. Salg,128,10234.0,3,1976,-3%
 326,Villa,Strandvejen 77,4281, Gørlev,1050000 ,30-07-2015,Alm. Salg,168,6250.0,5,1900,-12%
 326,Villa,Strandvej 7,4270, Høng,745000 ,30-07-2015,Alm. Salg,127,5866.0,6,1914,-6%
-326,Villa,Kystvejen 6,4400, Kalundborg,2300000 ,29-07-2015,Alm. Salg,130,17692.0,4,1999,-11%
 326,Rækkehus,Esbern Snaresvej 10E,4400, Kalundborg,385000 ,28-07-2015,Alm. Salg,33,11667.0,1,1983,
 326,Villa,Rørvej 12,4281, Gørlev,110000 ,28-07-2015,Fam. Salg,113,973.0,4,1940,
 326,Villa,Kongstedvej 3,4291, Ruds Vedby,675000 ,28-07-2015,Alm. Salg,85,7941.0,5,1910,
@@ -5535,7 +5506,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Søager 12,4281, Gørlev,750000 ,21-01-2015,Alm. Salg,105,7143.0,4,1979,-12%
 326,Villa,Frederiksberg 38,4470, Svebølle,1450000 ,20-01-2015,Alm. Salg,271,5351.0,8,1924,-8%
 326,Villa,Engvej 29,4400, Kalundborg,559500 ,20-01-2015,Fam. Salg,95,5889.0,3,1962,
-326,Villa,Brandsbjerg 48,4400, Kalundborg,2325000 ,19-01-2015,Alm. Salg,130,17885.0,2,1962,-7%
 326,Villa,Løve Gl Landevej 23,4270, Høng,820000 ,18-01-2015,Andet,190,4316.0,10,1918,
 326,Villa,Havnevej 21,4591, Føllenslev,1525000 ,16-01-2015,Alm. Salg,167,9132.0,4,1936,-10%
 326,Villa,Byskellet 5,4400, Kalundborg,637500 ,16-01-2015,Alm. Salg,94,6782.0,4,1960,-27%
@@ -5691,7 +5661,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Rækkehus,Bag Slotsgraven 39,4400, Kalundborg,650000 ,29-09-2014,Andet,76,8553.0,2,1850,
 326,Villa,Kystvejen 44,4400, Kalundborg,1475000 ,29-09-2014,Alm. Salg,175,8429.0,4,2017,
 326,Villa,Havnsøvej 7,4591, Føllenslev,450000 ,29-09-2014,Alm. Salg,131,3435.0,5,1972,-40%
-326,Rækkehus,Adelgade 17,4400, Kalundborg,2250000 ,28-09-2014,Alm. Salg,163,13804.0,6,1620,-10%
 326,Villa,Nyløkkevej 7,4593, Eskebjerg,600000 ,28-09-2014,Alm. Salg,123,4878.0,3,1969,-12%
 326,Villa,Rugvænget 28,4270, Høng,1400000 ,25-09-2014,Alm. Salg,145,9655.0,6,1978,
 326,Villa,Rye Byvej 46,4281, Gørlev,400000 ,25-09-2014,Alm. Salg,199,2010.0,5,1920,
@@ -5700,7 +5669,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Ejerlejlighed,"Nørre Alle 46, st. th",4400, Kalundborg,395200 ,23-09-2014,Auktion,79,5003.0,3,1963,
 326,Villa,Leren 1,4400, Kalundborg,900000 ,23-09-2014,Alm. Salg,230,3913.0,6,1900,-10%
 326,Villa,Lærkevej 3,4490, Jerslev Sjælland,400000 ,23-09-2014,Auktion,70,5714.0,2,2001,
-326,Villa,Hovedgaden 18B,4490, Jerslev Sjælland,1600000 ,23-09-2014,Auktion,144,11111.0,4,1969,
 326,Villa,Buerupvej 8,4450, Jyderup,824500 ,21-09-2014,Fam. Salg,145,5686.0,5,1777,
 326,Villa,Kystvejen 82,4400, Kalundborg,1370000 ,21-09-2014,Alm. Salg,141,9716.0,5,1928,-26%
 326,Villa,Skolevænget 5,4400, Kalundborg,1350000 ,19-09-2014,Alm. Salg,261,5172.0,6,1968,
@@ -5714,7 +5682,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Nørre Alle 84,4400, Kalundborg,775000 ,14-09-2014,Alm. Salg,90,8611.0,4,1953,-8%
 326,Villa,Gl Nyrupvej 73,4400, Kalundborg,747500 ,14-09-2014,Fam. Salg,152,4918.0,4,1877,
 326,Villa,Jorløse Byvej 13,4470, Svebølle,500000 ,13-09-2014,Alm. Salg,142,3521.0,3,1968,-16%
-326,Villa,Rørmosevej 6A,4400, Kalundborg,997500 ,11-09-2014,Fam. Salg,210,4750.0,5,1909,
 326,Villa,Chr Den 2 Vej 10,4400, Kalundborg,750000 ,10-09-2014,Alm. Salg,102,7353.0,3,1919,
 326,Villa,Ledager 2A,4281, Gørlev,700000 ,08-09-2014,Alm. Salg,125,5600.0,4,1964,-12%
 326,Rækkehus,Strandhaven 35,4400, Kalundborg,1742000 ,06-09-2014,Alm. Salg,141,12355.0,5,1959,
@@ -5795,7 +5762,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Højbuen 7,4270, Høng,1350000 ,06-07-2014,Alm. Salg,151,8940.0,3,1978,-3%
 326,Villa,Rævebakken 21,4400, Kalundborg,1350000 ,05-07-2014,Alm. Salg,154,8766.0,5,1972,-10%
 326,Villa,Lundevej 30,4400, Kalundborg,2625000 ,04-07-2014,Alm. Salg,213,12324.0,7,1900,-4%
-326,Ejerlejlighed,Møllebakken 9,4400, Kalundborg,990000 ,03-07-2014,Alm. Salg,97,10206.0,5,1899,
 326,Villa,Åløkkevej 1,4281, Gørlev,695000 ,03-07-2014,Alm. Salg,175,3971.0,5,1900,
 326,Villa,Pilebakken 6,4400, Kalundborg,1200000 ,02-07-2014,Alm. Salg,145,8276.0,4,1968,-14%
 326,Villa,Jorløse Byvej 36,4470, Svebølle,70000 ,02-07-2014,Alm. Salg,110,636.0,3,1965,
@@ -5869,7 +5835,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Posthusvej 4,4593, Eskebjerg,415000 ,18-05-2014,Auktion,223,1861.0,7,1919,
 326,Villa,Skovvej 6,4400, Kalundborg,893000 ,18-05-2014,Auktion,141,6333.0,4,1963,
 326,Villa,Højstedvej 5,4593, Eskebjerg,465000 ,18-05-2014,Auktion,151,3079.0,5,1950,
-326,Rækkehus,"Skibbrogade 11, st",4400, Kalundborg,857000 ,17-05-2014,Alm. Salg,58,14776.0,3,1949,
 326,Villa,Svalevej 2,4270, Høng,1200000 ,17-05-2014,Alm. Salg,146,8219.0,5,1962,-7%
 326,Villa,Marievej 90,4270, Høng,800000 ,14-05-2014,Alm. Salg,110,7273.0,4,1969,-11%
 326,Rækkehus,Skibbrogade 6,4400, Kalundborg,650000 ,12-05-2014,Alm. Salg,128,5078.0,4,1899,-6%
@@ -5949,8 +5914,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Bakkekammen 2,4460, Snertinge,350000 ,22-03-2014,Alm. Salg,80,4375.0,3,1969,-11%
 326,Villa,Søndergade 49,4490, Jerslev Sjælland,1020000 ,21-03-2014,Alm. Salg,139,7338.0,4,1971,-7%
 326,Villa,Ulstrup Vænge 14,4400, Kalundborg,295000 ,21-03-2014,Alm. Salg,83,3554.0,4,1962,
-326,Ejerlejlighed,"Svallerup Bygade 4A, 1",4400, Kalundborg,700000 ,20-03-2014,Alm. Salg,117,5983.0,1,1900,
-326,Villa,Svallerup Bygade 4E,4400, Kalundborg,700000 ,20-03-2014,Alm. Salg,105,6667.0,3,1910,
 326,Villa,Skeltoften 38,4400, Kalundborg,934326 ,19-03-2014,Andet,159,5876.0,5,1974,
 326,Villa,Lynggårdsbakken 17,4400, Kalundborg,738392 ,19-03-2014,Andet,144,5128.0,6,1971,
 326,Villa,Årbygade 12,4400, Kalundborg,1200000 ,18-03-2014,Alm. Salg,182,6593.0,6,1950,-11%
@@ -6338,7 +6301,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Klosterdammen 12,4400, Kalundborg,379500 ,12-06-2013,Alm. Salg,168,2259.0,4,2014,
 326,Villa,Borrevænget 9,4270, Høng,2487500 ,11-06-2013,Alm. Salg,240,10365.0,7,2008,
 326,Villa,Hesselbjergvej 20,4400, Kalundborg,1372500 ,10-06-2013,Alm. Salg,189,7262.0,7,2006,
-326,Ejerlejlighed,Møllebakken 9,4400, Kalundborg,1400000 ,09-06-2013,Alm. Salg,97,14433.0,5,1899,-26%
 326,Villa,Jydegårdsvej 9,4470, Svebølle,100000 ,09-06-2013,Alm. Salg,145,690.0,5,1952,
 326,Villa,Frankerupvej 11,4400, Kalundborg,145000 ,09-06-2013,Auktion,80,1813.0,3,1877,
 326,Villa,Fægangsvejen 90,4281, Gørlev,3500000 ,05-06-2013,Alm. Salg,522,6705.0,10,1978,-12%
@@ -6466,7 +6428,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Sejerøvej 33,4592, Sejerø,60000 ,20-02-2013,Alm. Salg,189,317.0,5,2005,
 326,Villa,Møllevangen 17,4400, Kalundborg,365000 ,19-02-2013,Alm. Salg,101,3614.0,3,1896,
 326,Villa,Bakkevej 2,4270, Høng,850000 ,19-02-2013,Alm. Salg,109,7798.0,4,1959,-3%
-326,Rækkehus,Søndergårds Banke 3,4400, Kalundborg,1745000 ,18-02-2013,Alm. Salg,98,17806.0,4,1995,
 326,Villa,Slagelsevej 35,4281, Gørlev,850000 ,18-02-2013,Alm. Salg,107,7944.0,3,1953,-11%
 326,Villa,Enggårdsvej 30,4490, Jerslev Sjælland,700000 ,18-02-2013,Alm. Salg,120,5833.0,4,1972,
 326,Villa,Svallerup Strandvej 33,4400, Kalundborg,715000 ,14-02-2013,Alm. Salg,225,3178.0,6,1925,-20%
@@ -6653,7 +6614,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Frederiksberg 7B,4470, Svebølle,1395000 ,13-09-2012,Alm. Salg,146,9555.0,5,1951,-3%
 326,Ejerlejlighed,"Centret 2C, 1",4470, Svebølle,637000 ,12-09-2012,Auktion,60,10617.0,3,1982,
 326,Villa,Hallenslevvej 40,4281, Gørlev,625000 ,12-09-2012,Auktion,134,4664.0,6,1900,
-326,Villa,Havnevej 20A,4591, Føllenslev,2500000 ,12-09-2012,Alm. Salg,188,13298.0,8,1900,
 326,Villa,Engvej 46,4400, Kalundborg,675000 ,11-09-2012,Alm. Salg,97,6959.0,3,1961,-15%
 326,Villa,Filipsdalvej 12,4480, Store Fuglede,895000 ,10-09-2012,Alm. Salg,170,5265.0,4,1905,
 326,Villa,Frøgræsvej 8,4591, Føllenslev,710000 ,10-09-2012,Alm. Salg,145,4897.0,5,2013,-41%
@@ -6773,7 +6733,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Toelstangsvej 37,4200, Slagelse,570000 ,03-06-2012,Auktion,175,3257.0,8,1904,
 326,Villa,Engvej 7,4270, Høng,650000 ,29-05-2012,Alm. Salg,108,6019.0,4,1941,-27%
 326,Villa,Bredekildevej 34,4400, Kalundborg,1450000 ,29-05-2012,Alm. Salg,183,7923.0,6,1964,-9%
-326,Rækkehus,Lundevej 111D,4400, Kalundborg,850000 ,28-05-2012,Andet,71,11972.0,2,1825,-55%
 326,Villa,Lerchenfeldvej 39,4400, Kalundborg,990500 ,28-05-2012,Andet,147,6738.0,5,1966,-38%
 326,Villa,Vangevej 9,4400, Kalundborg,895000 ,27-05-2012,Alm. Salg,164,5457.0,4,1968,
 326,Villa,Kildeskoven 27,4400, Kalundborg,1200000 ,26-05-2012,Alm. Salg,145,8276.0,5,1978,-8%
@@ -7005,7 +6964,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Thyges Banke 26,4400, Kalundborg,1700000 ,29-11-2011,Alm. Salg,124,13710.0,3,1984,-15%
 326,Villa,Bøgetoften 1A,4281, Gørlev,1662500 ,29-11-2011,Alm. Salg,171,9722.0,7,1987,
 326,Villa,Møllehøj 31,4591, Føllenslev,1675000 ,27-11-2011,Alm. Salg,135,12407.0,4,1999,-16%
-326,Villa,Bakkedalsvej 8,4400, Kalundborg,2550000 ,23-11-2011,Alm. Salg,143,17832.0,6,1963,-5%
 326,Villa,Anemonevej 2,4470, Svebølle,550000 ,23-11-2011,Andet,122,4508.0,5,1979,
 326,Villa,Sæbyvej 28A,4270, Høng,180000 ,22-11-2011,Auktion,336,536.0,5,1928,
 326,Villa,Eskebjergvej 124,4400, Kalundborg,90000 ,22-11-2011,Fam. Salg,183,492.0,5,2003,
@@ -7036,9 +6994,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Kalundborgvej 60,4593, Eskebjerg,500000 ,02-11-2011,Auktion,128,3165.0,4,1900,-44%
 326,Villa,Engvej 18,4400, Kalundborg,1275000 ,01-11-2011,Alm. Salg,178,7163.0,6,1955,6%
 326,Rækkehus,Højvangen 5B,4470, Svebølle,370000 ,31-10-2011,Alm. Salg,58,6379.0,2,1974,-18%
-326,Ejerlejlighed,"Svallerup Bygade 4A, 1",4400, Kalundborg,1200000 ,31-10-2011,Alm. Salg,117,10256.0,1,1900,
 326,Villa,Nykøbingvej 6,4460, Snertinge,1100000 ,31-10-2011,Alm. Salg,191,5759.0,5,1912,11%
-326,Villa,Svallerup Bygade 4E,4400, Kalundborg,1200000 ,31-10-2011,Alm. Salg,105,11429.0,3,1910,
 326,Villa,Ougtvedvej 19,4291, Ruds Vedby,2500000 ,30-10-2011,Alm. Salg,152,16447.0,4,1902,
 326,Villa,Snevrisvej 1,4400, Kalundborg,403750 ,27-10-2011,Fam. Salg,76,5313.0,4,1800,
 326,Villa,Eskebjergvej 130,4400, Kalundborg,420750 ,27-10-2011,Fam. Salg,102,4125.0,4,1958,
@@ -7172,7 +7128,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Solbjergvej 8,4270, Høng,1206500 ,07-07-2011,Alm. Salg,232,5200.0,7,1917,-51%
 326,Villa,Reerslevvej 40,4291, Ruds Vedby,1300000 ,07-07-2011,Alm. Salg,190,6842.0,3,1940,-13%
 326,Villa,Sejersvej 12,4281, Gørlev,1195000 ,07-07-2011,Alm. Salg,128,9336.0,4,1944,
-326,Villa,P Paludansvej 6,4400, Kalundborg,1745000 ,07-07-2011,Alm. Salg,99,17626.0,4,1920,
 326,Villa,Pilebakken 8,4400, Kalundborg,2975000 ,07-07-2011,Alm. Salg,212,14033.0,8,1970,
 326,Villa,Englodden 4,4281, Gørlev,370000 ,06-07-2011,Auktion,68,5441.0,3,1971,-58%
 326,Villa,Søager 3,4281, Gørlev,50000 ,06-07-2011,Auktion,57,877.0,3,1900,
@@ -7315,8 +7270,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Roligheden 7,4400, Kalundborg,807849 ,28-03-2011,Fam. Salg,154,5246.0,5,1967,
 326,Villa,Hallebyorevej 5,4450, Jyderup,2095000 ,26-03-2011,Alm. Salg,162,12932.0,4,1945,
 326,Villa,Fasanvej 2,4400, Kalundborg,1395000 ,26-03-2011,Alm. Salg,110,12682.0,3,1957,
-326,Ejerlejlighed,"Nørre Alle 48, st. th",4400, Kalundborg,500000 ,24-03-2011,Alm. Salg,75,6667.0,3,1963,-16%
-326,Ejerlejlighed,"Blegdammen 34, 2. th",4400, Kalundborg,500000 ,24-03-2011,Fam. Salg,61,8197.0,2,1963,
 326,Villa,Stenrand 4,4470, Svebølle,937259 ,23-03-2011,Alm. Salg,222,4222.0,5,1870,
 326,Villa,Bregningevej 27,4450, Jyderup,900000 ,22-03-2011,Alm. Salg,193,4663.0,6,1955,
 326,Villa,Fjorddalsvej 4,4400, Kalundborg,1450000 ,21-03-2011,Andet,94,15426.0,4,1962,
@@ -7454,7 +7407,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Slagelsevej 22,4400, Kalundborg,575000 ,07-12-2010,Alm. Salg,115,5000.0,6,1912,-50%
 326,Villa,Viskingevejen 6,4470, Svebølle,285000 ,07-12-2010,Auktion,72,3958.0,3,1900,-28%
 326,Villa,Melbygade 6,4400, Kalundborg,577190 ,06-12-2010,Alm. Salg,86,6712.0,3,1960,
-326,Rækkehus,Bjergstedvej 13A,4460, Snertinge,1600000 ,05-12-2010,Auktion,112,14286.0,2,1950,
 326,Villa,Møllevangen 15,4400, Kalundborg,594423 ,05-12-2010,Andet,184,3231.0,5,1960,
 326,Villa,Kirkestien 7,4281, Gørlev,340000 ,05-12-2010,Auktion,62,5484.0,2,1938,-38%
 326,Villa,Holbækvej 161,4400, Kalundborg,820000 ,05-12-2010,Auktion,149,5503.0,5,1955,
@@ -7686,7 +7638,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Værslev Bygade 4,4400, Kalundborg,985000 ,20-07-2010,Alm. Salg,127,7756.0,5,1911,-1%
 326,Villa,Skolevej 13,4490, Jerslev Sjælland,895000 ,20-07-2010,Alm. Salg,120,7458.0,4,1877,-11%
 326,Villa,Toftevej 6,4270, Høng,495000 ,19-07-2010,Alm. Salg,120,4125.0,5,1941,
-326,Rækkehus,Møllebakken 26A,4400, Kalundborg,1574704 ,18-07-2010,Alm. Salg,89,17693.0,3,2003,
 326,Villa,Højsted Overdrev 11,4591, Føllenslev,1685000 ,14-07-2010,Alm. Salg,138,12210.0,4,1800,-6%
 326,Villa,Tovesvej 10,4270, Høng,1435000 ,14-07-2010,Alm. Salg,121,11860.0,5,1969,
 326,Villa,Fugledevej 42,4480, Store Fuglede,699000 ,14-07-2010,Alm. Salg,101,6921.0,3,1910,
@@ -7778,11 +7729,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Acacievej 4,4490, Jerslev Sjælland,1955000 ,26-05-2010,Alm. Salg,175,11171.0,6,1968,-2%
 326,Villa,Azaleavej 24,4470, Svebølle,295000 ,26-05-2010,Alm. Salg,176,1676.0,5,2020,
 326,Villa,Firhøjvej 6,4460, Snertinge,160000 ,26-05-2010,Alm. Salg,129,1240.0,4,2020,-18%
-326,Ejerlejlighed,"Svallerup Bygade 4A, 1",4400, Kalundborg,1200000 ,25-05-2010,Alm. Salg,117,10256.0,1,1900,
 326,Villa,Enghaven 3,4281, Gørlev,814160 ,25-05-2010,Alm. Salg,122,6673.0,4,1920,
 326,Villa,Smedevej 6,4400, Kalundborg,597500 ,25-05-2010,Alm. Salg,108,5532.0,6,1960,
 326,Villa,Havnsøgårdsvej 3,4591, Føllenslev,450000 ,25-05-2010,Alm. Salg,180,2500.0,7,2013,
-326,Villa,Svallerup Bygade 4E,4400, Kalundborg,1200000 ,25-05-2010,Alm. Salg,105,11429.0,3,1910,
 326,Villa,Vestergade 9,4281, Gørlev,1375000 ,24-05-2010,Fam. Salg,130,10577.0,4,1943,
 326,Villa,Skolevænget 2,4400, Kalundborg,1485000 ,24-05-2010,Alm. Salg,161,9224.0,5,1969,-10%
 326,Villa,Græsmarken 1,4400, Kalundborg,940000 ,24-05-2010,Alm. Salg,100,9400.0,3,1850,-14%
@@ -7965,9 +7914,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Rækkehus,"Skibbrogade 21, 1",4400, Kalundborg,1150000 ,06-01-2010,Alm. Salg,116,9914.0,4,1926,-23%
 326,Villa,Rørmosevej 11,4400, Kalundborg,1025000 ,06-01-2010,Alm. Salg,114,8991.0,4,1980,-6%
 326,Villa,Sønderstrandsvej 58,4400, Kalundborg,1600000 ,06-01-2010,Auktion,195,8205.0,6,1880,-20%
-326,Ejerlejlighed,"Lindegade 6, st. th",4400, Kalundborg,850000 ,29-12-2009,Alm. Salg,87,9770.0,2,1753,
-326,Ejerlejlighed,Møllestræde 1B,4400, Kalundborg,850000 ,29-12-2009,Alm. Salg,95,8947.0,2,1753,
-326,Ejerlejlighed,Møllestræde 1C,4400, Kalundborg,850000 ,29-12-2009,Alm. Salg,85,10000.0,3,1753,
 326,Villa,Egernvænget 24,4400, Kalundborg,611126 ,29-12-2009,Andet,116,5268.0,4,1980,
 326,Villa,Søbo 9,4200, Slagelse,300000 ,25-12-2009,Alm. Salg,215,1395.0,5,2010,
 326,Villa,Birkeskrænten 4,4400, Kalundborg,575000 ,24-12-2009,Andet,126,4563.0,5,1961,
@@ -8124,7 +8070,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Rækkehus,Rosenhaven 40,4470, Svebølle,1075000 ,16-08-2009,Alm. Salg,101,10644.0,3,1979,-7%
 326,Villa,Læsøvej 5,4270, Høng,977500 ,16-08-2009,Alm. Salg,106,9222.0,4,1973,
 326,Villa,Kåstrupvej 75,4400, Kalundborg,997499 ,15-08-2009,Alm. Salg,216,4618.0,6,1820,
-326,Villa,Strandvej 1,4591, Føllenslev,1175000 ,14-08-2009,Alm. Salg,66,17803.0,4,1970,-6%
 326,Villa,Kystvejen 12,4400, Kalundborg,2500000 ,13-08-2009,Alm. Salg,161,15528.0,10,1938,
 326,Villa,Lerchenborgvej 104,4400, Kalundborg,1500000 ,13-08-2009,Alm. Salg,123,12195.0,3,1959,
 326,Villa,Aldersrovej 17,4400, Kalundborg,590000 ,13-08-2009,Alm. Salg,101,5842.0,4,1972,-15%
@@ -8239,7 +8184,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Ejerlejlighed,"Bryggervænget 1, 1. th",4400, Kalundborg,570000 ,21-05-2009,Alm. Salg,59,9661.0,2,1961,
 326,Ejerlejlighed,"Bryggervænget 1, 2. mf",4400, Kalundborg,920000 ,21-05-2009,Alm. Salg,99,9293.0,3,1961,
 326,Villa,Hjorthøj 21,4400, Kalundborg,2275000 ,21-05-2009,Alm. Salg,240,9479.0,8,1968,-15%
-326,Rækkehus,Bøgens Kvarter 93,4400, Kalundborg,1425000 ,20-05-2009,Alm. Salg,80,17813.0,3,1992,-10%
 326,Villa,Kongstrupvej 41,4592, Sejerø,962500 ,18-05-2009,Alm. Salg,127,7579.0,6,1864,-19%
 326,Villa,Byvej 19,4591, Føllenslev,415000 ,18-05-2009,Alm. Salg,100,4150.0,4,2012,
 326,Villa,Slagelsevej 133,4400, Kalundborg,1200000 ,18-05-2009,Alm. Salg,127,9449.0,4,1930,-14%
@@ -8288,15 +8232,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Syrenbakken 2,4400, Kalundborg,1250000 ,21-04-2009,Alm. Salg,151,8278.0,4,2010,-16%
 326,Villa,Tømmerupvej 26,4400, Kalundborg,767952 ,20-04-2009,Andet,108,7111.0,3,1952,-52%
 326,Villa,Ullekær 6,4281, Gørlev,1300000 ,20-04-2009,Alm. Salg,125,10400.0,4,1970,-5%
-326,Ejerlejlighed,"Nørre Alle 44, 2. th",4400, Kalundborg,313020 ,19-04-2009,Auktion,75,4174.0,3,1963,
-326,Ejerlejlighed,"Nørre Alle 46, st. tv",4400, Kalundborg,313020 ,19-04-2009,Auktion,75,4174.0,3,1963,
 326,Ejerlejlighed,"Nørre Alle 50, st. tv",4400, Kalundborg,304880 ,19-04-2009,Auktion,74,4120.0,3,1963,
-326,Ejerlejlighed,"Nørre Alle 58, 2. tv",4400, Kalundborg,313020 ,19-04-2009,Auktion,74,4230.0,3,1963,
 326,Ejerlejlighed,"Nørre Alle 54, st. tv",4400, Kalundborg,328930 ,19-04-2009,Auktion,80,4112.0,3,1963,
-326,Ejerlejlighed,"Blegdammen 44, st. tv",4400, Kalundborg,313020 ,19-04-2009,Auktion,75,4174.0,3,1963,
 326,Ejerlejlighed,"Blegdammen 46, st. tv",4400, Kalundborg,321160 ,19-04-2009,Auktion,78,4117.0,3,1963,
-326,Ejerlejlighed,"Blegdammen 46, 1. th",4400, Kalundborg,313020 ,19-04-2009,Auktion,75,4174.0,3,1963,
-326,Ejerlejlighed,"Nørre Alle 56, 1. tv",4400, Kalundborg,313020 ,19-04-2009,Auktion,74,4230.0,3,1963,
 326,Villa,Bakkevej 4,4270, Høng,1295000 ,19-04-2009,Alm. Salg,110,11773.0,4,1898,
 326,Villa,Bøstrupvej 33,4270, Høng,1195000 ,17-04-2009,Alm. Salg,148,8074.0,7,1913,
 326,Villa,Mellemvangsvej 105,4400, Kalundborg,897833 ,16-04-2009,Andet,144,6235.0,6,1855,-61%
@@ -8572,7 +8510,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Bækvej 9,4400, Kalundborg,1337500 ,22-08-2008,Andet,170,7868.0,6,2005,
 326,Villa,Firhøjvej 14,4460, Snertinge,2290000 ,22-08-2008,Alm. Salg,181,12652.0,5,2007,-4%
 326,Rækkehus,Solvangen 13A,4281, Gørlev,1100000 ,21-08-2008,Alm. Salg,99,11111.0,4,1979,
-326,Villa,Fasanvej 56,4400, Kalundborg,2310000 ,21-08-2008,Alm. Salg,131,17634.0,4,1985,-3%
 326,Villa,Enggårdsvej 60,4490, Jerslev Sjælland,1295000 ,21-08-2008,Alm. Salg,134,9664.0,4,1973,
 326,Villa,Kongstrupvej 8,4592, Sejerø,520000 ,19-08-2008,Alm. Salg,127,4094.0,4,1940,
 326,Villa,Nyløkkevej 4,4593, Eskebjerg,498941 ,19-08-2008,Fam. Salg,130,3838.0,4,1931,
@@ -8701,7 +8638,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Kåstrup Holmevej 10,4400, Kalundborg,2950000 ,13-06-2008,Alm. Salg,203,14532.0,5,1965,-11%
 326,Villa,Langemosevej 2,4400, Kalundborg,47000 ,13-06-2008,Alm. Salg,124,379.0,5,1900,
 326,Villa,Borrevænget 3,4270, Høng,450000 ,12-06-2008,Alm. Salg,125,3600.0,4,2009,-79%
-326,Villa,Nørre Alle 38,4400, Kalundborg,2120000 ,11-06-2008,Alm. Salg,120,17667.0,6,1936,-3%
 326,Rækkehus,Dyssevænget 5,4400, Kalundborg,1495000 ,10-06-2008,Alm. Salg,85,17588.0,3,2006,
 326,Villa,Tuborgvej 9,4281, Gørlev,1750000 ,10-06-2008,Alm. Salg,148,11824.0,5,1934,-8%
 326,Villa,Frederiksberg 11,4470, Svebølle,1147500 ,10-06-2008,Fam. Salg,140,8196.0,5,1931,
@@ -8766,10 +8702,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Granlystien 16,4400, Kalundborg,1500000 ,30-04-2008,Alm. Salg,89,16854.0,2,1952,-5%
 326,Villa,Klokkevej 2,4480, Store Fuglede,1375000 ,29-04-2008,Alm. Salg,89,15449.0,4,1973,-1%
 326,Rækkehus,Søager 5C,4281, Gørlev,1000000 ,28-04-2008,Alm. Salg,75,13333.0,3,1978,-5%
-326,Ejerlejlighed,"Svallerup Bygade 4A, 1",4400, Kalundborg,1200000 ,28-04-2008,Alm. Salg,117,10256.0,1,1900,
 326,Villa,Tømmerup Holmevej 6,4400, Kalundborg,651941 ,28-04-2008,Andet,108,6036.0,4,1900,
 326,Villa,Kaldredvej 9,4593, Eskebjerg,1118000 ,28-04-2008,Alm. Salg,76,14711.0,3,1920,
-326,Villa,Svallerup Bygade 4E,4400, Kalundborg,1200000 ,28-04-2008,Alm. Salg,105,11429.0,3,1910,
 326,Rækkehus,Tovesvej 37,4270, Høng,865000 ,27-04-2008,Alm. Salg,60,14417.0,2,1976,-6%
 326,Villa,Rugvænget 1,4270, Høng,1485000 ,27-04-2008,Alm. Salg,106,14009.0,4,1985,
 326,Villa,Gl Røsnæsvej 30,4400, Kalundborg,2000000 ,27-04-2008,Alm. Salg,120,16667.0,4,1967,-7%
@@ -8890,7 +8824,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Buerupvej 11B,4450, Jyderup,2750000 ,27-02-2008,Alm. Salg,215,12791.0,5,1973,-2%
 326,Villa,Eskebjergvej 81,4593, Eskebjerg,1325000 ,27-02-2008,Alm. Salg,168,7887.0,5,1900,-7%
 326,Villa,Lundemarken 8,4400, Kalundborg,1960000 ,27-02-2008,Alm. Salg,132,14848.0,4,1936,-2%
-326,Rækkehus,Kirsebærhaven 10,4270, Høng,1900000 ,26-02-2008,Alm. Salg,107,17757.0,3,2007,-2%
 326,Villa,Askelunden 15,4270, Høng,2300000 ,26-02-2008,Alm. Salg,145,15862.0,5,2007,
 326,Villa,Borrevænget 22,4270, Høng,650000 ,26-02-2008,Alm. Salg,197,3299.0,6,2009,
 326,Villa,Nikolinevej 10,4470, Svebølle,1200000 ,25-02-2008,Alm. Salg,91,13187.0,4,1800,-7%
@@ -9020,7 +8953,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Hørkærhaven 18,4490, Jerslev Sjælland,2275000 ,18-12-2007,Alm. Salg,141,16135.0,5,2002,1%
 326,Villa,Ærtevangen 7,4400, Kalundborg,1920000 ,18-12-2007,Alm. Salg,172,10909.0,3,1969,-4%
 326,Villa,Gl Svebøllevej 9,4470, Svebølle,2095000 ,18-12-2007,Alm. Salg,196,10689.0,4,1800,
-326,Villa,Kastanievej 4,4400, Kalundborg,1600000 ,17-12-2007,Alm. Salg,90,17778.0,3,1961,-2%
 326,Villa,Lykkebakken 9,4400, Kalundborg,1100000 ,17-12-2007,Alm. Salg,144,7639.0,4,1960,
 326,Villa,Engvej 6,4400, Kalundborg,1175000 ,17-12-2007,Alm. Salg,92,12772.0,3,1940,
 326,Villa,Slagelsevej 9,4460, Snertinge,1230044 ,17-12-2007,Alm. Salg,258,4768.0,7,1900,
@@ -9161,7 +9093,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Bakkedraget 23,4270, Høng,1950000 ,13-10-2007,Alm. Salg,150,13000.0,5,1980,
 326,Villa,Østergade 11,4281, Gørlev,462800 ,13-10-2007,Fam. Salg,114,4060.0,4,1932,
 326,Villa,Havnsøvej 31,4591, Føllenslev,2100000 ,13-10-2007,Alm. Salg,186,11290.0,6,1910,
-326,Rækkehus,Møllestræde 24,4400, Kalundborg,1365000 ,12-10-2007,Alm. Salg,77,17727.0,3,1831,-2%
 326,Villa,Strandvej 21,4270, Høng,1550000 ,12-10-2007,Alm. Salg,89,17416.0,4,1960,
 326,Villa,Hesselbjergvej 9,4400, Kalundborg,820000 ,11-10-2007,Andet,203,4039.0,6,1966,
 326,Villa,Borrevej 1,4270, Høng,700000 ,11-10-2007,Alm. Salg,72,9722.0,3,1951,-8%
@@ -9301,10 +9232,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Skippingevej 14,4460, Snertinge,1100000 ,21-08-2007,Alm. Salg,112,9821.0,4,1960,
 326,Villa,Lundemarken 1,4400, Kalundborg,411350 ,21-08-2007,Fam. Salg,122,3372.0,4,1938,
 326,Villa,Møllevej 1,4270, Høng,2300000 ,20-08-2007,Alm. Salg,178,12921.0,5,1934,
-326,Ejerlejlighed,"Havnevej 20B, 1",4591, Føllenslev,1850000 ,19-08-2007,Alm. Salg,125,14800.0,6,2010,
 326,Villa,Ole Lundsvej 13,4400, Kalundborg,1200000 ,19-08-2007,Alm. Salg,99,12121.0,4,1935,
 326,Villa,Rye Mosevej 1,4281, Gørlev,698500 ,19-08-2007,Alm. Salg,160,4366.0,5,1900,-48%
-326,Villa,Havnevej 20A,4591, Føllenslev,1850000 ,19-08-2007,Alm. Salg,188,9840.0,8,1900,
 326,Villa,Råes Vænge 5,4400, Kalundborg,1850000 ,18-08-2007,Alm. Salg,190,9737.0,6,1975,-2%
 326,Villa,Poppelbakken 20,4400, Kalundborg,1695000 ,18-08-2007,Alm. Salg,120,14125.0,4,1973,
 326,Villa,Møldrupsvej 18,4281, Gørlev,1395000 ,17-08-2007,Alm. Salg,204,6838.0,5,1900,
@@ -9399,7 +9328,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Eskebjerg Strandvej 42,4593, Eskebjerg,1245000 ,08-07-2007,Alm. Salg,288,4323.0,7,1910,
 326,Villa,Aldersrovej 8,4400, Kalundborg,2145000 ,08-07-2007,Alm. Salg,177,12119.0,4,1871,
 326,Villa,Agerhønevej 7,4400, Kalundborg,630304 ,07-07-2007,Fam. Salg,145,4347.0,4,2003,
-326,Villa,Kystlodden 3,4400, Kalundborg,2175000 ,07-07-2007,Alm. Salg,122,17828.0,4,1961,-3%
 326,Rækkehus,Birchsgade 10,4400, Kalundborg,1695000 ,06-07-2007,Alm. Salg,111,15270.0,4,1903,
 326,Rækkehus,Gartnerhaven 5,4270, Høng,1475000 ,06-07-2007,Alm. Salg,94,15691.0,3,2004,-1%
 326,Villa,Bredekildevej 77,4400, Kalundborg,1275000 ,05-07-2007,Alm. Salg,136,9375.0,5,1961,-11%
@@ -9463,8 +9391,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Møllevej 18,4270, Høng,1875000 ,19-06-2007,Alm. Salg,132,14205.0,6,1944,-6%
 326,Villa,Drøsselbjergvej 28A,4200, Slagelse,200000 ,19-06-2007,Alm. Salg,144,1389.0,5,2020,
 326,Villa,Hedevej 11,4270, Høng,440000 ,19-06-2007,Alm. Salg,113,3894.0,4,1900,
-326,Rækkehus,Margrethevej 16,4400, Kalundborg,1000000 ,18-06-2007,Alm. Salg,97,10309.0,3,1898,-9%
-326,Villa,Røsnæsvej 287,4400, Kalundborg,1000000 ,18-06-2007,Alm. Salg,69,14493.0,3,1946,
 326,Villa,Risbjergvej 24,4291, Ruds Vedby,1450000 ,18-06-2007,Alm. Salg,95,15263.0,3,1877,
 326,Villa,Strandvej 4B,4270, Høng,550000 ,18-06-2007,Alm. Salg,140,3929.0,5,1969,
 326,Villa,Gl Røsnæsvej 38,4400, Kalundborg,535909 ,18-06-2007,Alm. Salg,121,4429.0,4,1952,
@@ -9507,7 +9433,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Rækkehus,Hørkærhaven 36A,4490, Jerslev Sjælland,895000 ,01-06-2007,Alm. Salg,83,10783.0,3,1986,
 326,Rækkehus,Bøgens Kvarter 61,4270, Høng,1825000 ,01-06-2007,Alm. Salg,112,16295.0,3,2001,
 326,Villa,Englodden 4,4281, Gørlev,559000 ,31-05-2007,Fam. Salg,68,8221.0,3,1971,
-326,Villa,Hestehavebakken 89,4400, Kalundborg,1745000 ,31-05-2007,Alm. Salg,98,17806.0,4,1976,
 326,Villa,Faksbjergvej 12,4470, Svebølle,1625000 ,30-05-2007,Alm. Salg,117,13889.0,4,1974,
 326,Villa,Acacievej 14,4490, Jerslev Sjælland,1095000 ,30-05-2007,Alm. Salg,124,8831.0,4,1969,-4%
 326,Villa,Korsbækvej 18,4281, Gørlev,1425000 ,29-05-2007,Alm. Salg,136,10478.0,4,1966,-2%
@@ -9518,7 +9443,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Rækkehus,Birchsgade 8,4400, Kalundborg,1425000 ,28-05-2007,Alm. Salg,82,17378.0,3,1903,
 326,Rækkehus,Poulas Alle 13,4400, Kalundborg,1115000 ,28-05-2007,Alm. Salg,90,12389.0,3,1917,
 326,Rækkehus,Solvangen 35B,4281, Gørlev,1769700 ,28-05-2007,Alm. Salg,108,16386.0,4,2007,1%
-326,Villa,Fjordskrænten 10,4400, Kalundborg,2395000 ,28-05-2007,Alm. Salg,134,17873.0,5,2002,-4%
 326,Villa,Lyngvangen 4,4400, Kalundborg,1200000 ,28-05-2007,Alm. Salg,91,13187.0,3,1931,
 326,Villa,Hovvej 21,4490, Jerslev Sjælland,673000 ,27-05-2007,Alm. Salg,137,4912.0,5,1945,
 326,Villa,Røsnæsvej 286,4400, Kalundborg,900000 ,25-05-2007,Alm. Salg,96,9375.0,3,1935,-5%
@@ -9857,7 +9781,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,"Jorløse Byvej 2, st",4470, Svebølle,895000 ,23-01-2007,Alm. Salg,64,13984.0,2,2020,
 326,Rækkehus,Solvangen 31A,4281, Gørlev,685000 ,22-01-2007,Alm. Salg,61,11230.0,2,1979,
 326,Villa,Bøgelundsvej 35,4400, Kalundborg,1150000 ,22-01-2007,Alm. Salg,172,6686.0,5,1973,
-326,Villa,Gisselørevej 29,4400, Kalundborg,2200000 ,22-01-2007,Alm. Salg,124,17742.0,5,1934,
 326,Villa,Fabrikvej 13,4470, Svebølle,659674 ,21-01-2007,Andet,139,4746.0,3,1911,
 326,Villa,Kragerupgårdsvej 18,4270, Høng,767500 ,21-01-2007,Fam. Salg,174,4411.0,4,1927,
 326,Villa,Møllehøj 39,4591, Føllenslev,1745000 ,20-01-2007,Alm. Salg,111,15721.0,4,1988,
@@ -9906,20 +9829,11 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Strandstien 6,4400, Kalundborg,107800 ,27-12-2006,Fam. Salg,152,709.0,5,1902,
 326,Villa,Bjergsted Bakker 10,4470, Svebølle,3350000 ,26-12-2006,Alm. Salg,264,9738.0,7,1944,
 326,Villa,Ærøvej 9,4270, Høng,1895000 ,26-12-2006,Alm. Salg,157,12070.0,5,1973,
-326,Ejerlejlighed,Bjergsted Bakker 1B,4470, Svebølle,344563 ,21-12-2006,Alm. Salg,92,3745.0,3,1900,
-326,Ejerlejlighed,Bjergsted Bakker 1A,4470, Svebølle,344563 ,21-12-2006,Alm. Salg,69,4994.0,3,1900,
-326,Ejerlejlighed,Avnsøgårds Alle 3,4470, Svebølle,344563 ,21-12-2006,Alm. Salg,51,6756.0,2,1880,
-326,Ejerlejlighed,Avnsøgårds Alle 5,4470, Svebølle,344563 ,21-12-2006,Alm. Salg,43,8013.0,2,1880,
-326,Ejerlejlighed,Avnsøgårds Alle 8B,4470, Svebølle,344563 ,21-12-2006,Alm. Salg,88,3915.0,4,1930,
-326,Ejerlejlighed,Avnsøgårds Alle 8A,4470, Svebølle,344563 ,21-12-2006,Alm. Salg,88,3915.0,3,1930,
 326,Ejerlejlighed,"Blegdammen 30, st. th",4400, Kalundborg,725000 ,21-12-2006,Alm. Salg,61,11885.0,2,1963,
 326,Villa,Vangevej 5,4400, Kalundborg,470000 ,21-12-2006,Andet,108,4352.0,3,1967,
-326,Villa,Avnsøgårds Alle 9,4470, Svebølle,344563 ,21-12-2006,Alm. Salg,286,1205.0,6,1886,
 326,Villa,Blommehaven 16,4270, Høng,395000 ,21-12-2006,Alm. Salg,147,2687.0,4,2019,
 326,Rækkehus,Henriks Alle 3,4400, Kalundborg,675000 ,20-12-2006,Alm. Salg,86,7849.0,3,1882,
-326,Ejerlejlighed,"Svallerup Bygade 4A, 1",4400, Kalundborg,1150000 ,20-12-2006,Andet,117,9829.0,1,1900,
 326,Villa,Tågerupvej 7,4291, Ruds Vedby,1850000 ,20-12-2006,Alm. Salg,160,11563.0,5,1877,
-326,Villa,Svallerup Bygade 4E,4400, Kalundborg,1150000 ,20-12-2006,Andet,105,10952.0,3,1910,
 326,Rækkehus,Fasanstien 7,4400, Kalundborg,1175000 ,19-12-2006,Alm. Salg,75,15667.0,3,1987,
 326,Ejerlejlighed,"Nørre Alle 60, 1. th",4400, Kalundborg,795000 ,19-12-2006,Alm. Salg,75,10600.0,3,1963,
 326,Villa,Eskebjergvej 120,4400, Kalundborg,1250000 ,19-12-2006,Alm. Salg,101,12376.0,3,1951,
@@ -9971,7 +9885,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Bakkehaven 20,4400, Kalundborg,1800000 ,05-12-2006,Alm. Salg,213,8451.0,6,1971,
 326,Villa,Solbakken 50,4400, Kalundborg,2730000 ,05-12-2006,Alm. Salg,210,13000.0,6,1978,
 326,Villa,Havnsøgårdsvej 37,4591, Føllenslev,425000 ,05-12-2006,Alm. Salg,144,2951.0,5,2008,
-326,Villa,Ellevej 1,4460, Snertinge,3160000 ,04-12-2006,Alm. Salg,177,17853.0,5,2004,
 326,Villa,Skippingevej 9,4460, Snertinge,795000 ,04-12-2006,Alm. Salg,135,5889.0,3,1927,
 326,Villa,Bakkekammen 13,4460, Snertinge,1330000 ,04-12-2006,Alm. Salg,102,13039.0,3,1965,
 326,Villa,Bøstrupvej 30,4270, Høng,2175000 ,04-12-2006,Alm. Salg,221,9842.0,5,1912,
@@ -10299,7 +10212,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Tjørnelundevej 15,4270, Høng,1950000 ,16-08-2006,Alm. Salg,175,11143.0,6,1912,
 326,Villa,Solbjergvej 55,4200, Slagelse,1750000 ,15-08-2006,Alm. Salg,160,10938.0,3,1860,
 326,Villa,Borrehøj 14,4400, Kalundborg,660000 ,15-08-2006,Alm. Salg,168,3929.0,4,2010,
-326,Villa,Nyrupvænget 5,4400, Kalundborg,2850000 ,14-08-2006,Alm. Salg,161,17702.0,5,2006,
 326,Villa,Korsbækvej 33,4281, Gørlev,1800000 ,14-08-2006,Alm. Salg,166,10843.0,5,1972,
 326,Villa,Bredekilde 130,4400, Kalundborg,440000 ,14-08-2006,Alm. Salg,177,2486.0,5,2007,
 326,Villa,Englodden 24,4281, Gørlev,1500000 ,14-08-2006,Alm. Salg,145,9677.0,8,1972,
@@ -10399,7 +10311,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Hjorthøj 44,4400, Kalundborg,1695000 ,06-07-2006,Alm. Salg,152,11151.0,4,1980,
 326,Villa,Nyvej 11,4270, Høng,1785000 ,06-07-2006,Alm. Salg,146,12226.0,5,1938,
 326,Villa,Tingvej 5,4270, Høng,2495000 ,06-07-2006,Alm. Salg,375,6653.0,8,1899,
-326,Villa,Møllevej 2,4400, Kalundborg,1600000 ,06-07-2006,Alm. Salg,268,5970.0,12,1953,
 326,Villa,Klosterhaven 5,4400, Kalundborg,375000 ,06-07-2006,Alm. Salg,151,2483.0,5,2022,
 326,Villa,Rubjerg Alle 7,4400, Kalundborg,1795000 ,04-07-2006,Alm. Salg,106,16934.0,5,1930,
 326,Villa,Parkvej 24,4490, Jerslev Sjælland,335000 ,04-07-2006,Alm. Salg,139,2410.0,3,2008,
@@ -10427,7 +10338,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Olievej 4,4400, Kalundborg,799016 ,28-06-2006,Andet,120,6658.0,4,1938,
 326,Villa,Ågerupvej 51,4400, Kalundborg,1000000 ,28-06-2006,Fam. Salg,123,8130.0,5,1900,
 326,Villa,Bredekildevej 81,4400, Kalundborg,2732500 ,28-06-2006,Alm. Salg,295,9263.0,6,1969,
-326,Villa,Alleshavevej 33,4593, Eskebjerg,1570000 ,28-06-2006,Alm. Salg,89,17640.0,2,1880,
 326,Villa,Klovbyvej 19,4490, Jerslev Sjælland,1810000 ,28-06-2006,Alm. Salg,199,9095.0,8,2009,
 326,Villa,Parkvej 32,4490, Jerslev Sjælland,335000 ,28-06-2006,Alm. Salg,152,2204.0,7,2022,
 326,Rækkehus,Søkrogen 3E,4281, Gørlev,500000 ,27-06-2006,Alm. Salg,48,10417.0,1,1977,
@@ -10457,8 +10367,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Flinterupvej 9,4480, Store Fuglede,893000 ,22-06-2006,Alm. Salg,80,11163.0,3,1940,
 326,Villa,Havnsøgårdsvej 47,4591, Føllenslev,445000 ,22-06-2006,Alm. Salg,190,2342.0,5,2008,
 326,Rækkehus,Azaleavej 5,4470, Svebølle,1695000 ,21-06-2006,Alm. Salg,108,15694.0,4,2007,
-326,Rækkehus,Skibbrogade 14,4400, Kalundborg,1710000 ,21-06-2006,Alm. Salg,200,8550.0,8,1890,
-326,Ejerlejlighed,"Kordilgade 48, 1",4400, Kalundborg,1710000 ,21-06-2006,Alm. Salg,115,14870.0,4,1893,
 326,Ejerlejlighed,Lundevej 34. 2,4400, Kalundborg,850000 ,21-06-2006,Alm. Salg,64,13281.0,2,1957,
 326,Villa,Solskrænten 12,4400, Kalundborg,1295000 ,21-06-2006,Alm. Salg,114,11360.0,3,1969,
 326,Villa,Flinterupvej 14,4480, Store Fuglede,253000 ,21-06-2006,Fam. Salg,87,2908.0,5,1981,
@@ -10632,10 +10540,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Solvangen 16,4281, Gørlev,2213000 ,13-05-2006,Alm. Salg,204,10848.0,6,1977,
 326,Rækkehus,Lyngparken 32B,4400, Kalundborg,1126000 ,12-05-2006,Alm. Salg,76,14816.0,3,2005,
 326,Ejerlejlighed,"Nørre Alle 60, st. th",4400, Kalundborg,750000 ,11-05-2006,Alm. Salg,75,10000.0,3,1963,
-326,Rækkehus,Dyssevænget 7,4400, Kalundborg,1295000 ,10-05-2006,Alm. Salg,85,15235.0,3,2007,
 326,Villa,Nørre Alle 86,4400, Kalundborg,780000 ,10-05-2006,Andet,72,10833.0,3,1953,
 326,Villa,Valentin Jensensvej 23,4400, Kalundborg,1650000 ,10-05-2006,Alm. Salg,114,14474.0,3,1918,
-326,Villa,Blegdammen 7,4400, Kalundborg,1295000 ,10-05-2006,Alm. Salg,101,12822.0,4,1955,
 326,Villa,Bøgevej 27,4591, Føllenslev,1105000 ,10-05-2006,Fam. Salg,173,6387.0,5,1973,
 326,Villa,Saltbækvej 50,4400, Kalundborg,1345000 ,10-05-2006,Alm. Salg,178,7556.0,7,1910,
 326,Villa,Trøjeløkkevej 27,4400, Kalundborg,1495000 ,10-05-2006,Alm. Salg,140,10679.0,4,1972,
@@ -10746,7 +10652,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Ejerlejlighed,"Møllestræde 1A, 2. tv",4400, Kalundborg,1350000 ,10-04-2006,Alm. Salg,108,12500.0,4,1902,
 326,Villa,Krogvejen 20,4281, Gørlev,1395000 ,10-04-2006,Alm. Salg,144,9688.0,5,1965,
 326,Villa,Møllehøj 17,4591, Føllenslev,1745000 ,10-04-2006,Alm. Salg,183,9536.0,4,1990,
-326,Villa,Hovedgaden 18B,4490, Jerslev Sjælland,1700000 ,10-04-2006,Alm. Salg,144,11806.0,4,1969,
 326,Villa,Borrehøj 18,4400, Kalundborg,660000 ,10-04-2006,Alm. Salg,174,3793.0,5,2007,
 326,Villa,Røsnæsvej 394,4400, Kalundborg,1320000 ,09-04-2006,Alm. Salg,168,7857.0,6,1979,
 326,Villa,Stensbjergvej 6,4270, Høng,848541 ,09-04-2006,Alm. Salg,230,3689.0,7,1961,
@@ -10811,7 +10716,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Strandbakken 148,4400, Kalundborg,1675000 ,21-03-2006,Alm. Salg,121,13843.0,4,1974,
 326,Villa,Højbuen 12,4270, Høng,1750000 ,21-03-2006,Alm. Salg,133,13158.0,4,1979,
 326,Villa,Slagelsevej 71,4400, Kalundborg,1295000 ,21-03-2006,Alm. Salg,107,12103.0,3,1947,
-326,Villa,Havnsø Møllevej 4,4591, Føllenslev,3100000 ,21-03-2006,Alm. Salg,176,17614.0,6,1917,
 326,Villa,Højbuen 25,4270, Høng,1770000 ,20-03-2006,Alm. Salg,212,8349.0,5,1977,
 326,Villa,Røsnæsvej 387,4400, Kalundborg,1090000 ,20-03-2006,Alm. Salg,116,9397.0,3,1946,
 326,Villa,Slagelsevej 173,4400, Kalundborg,1250000 ,20-03-2006,Alm. Salg,112,11161.0,3,1933,
@@ -10950,7 +10854,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Engvangsvej 1,4270, Høng,2045000 ,16-02-2006,Alm. Salg,167,12246.0,7,1909,
 326,Villa,Yppenbjerg 18,4490, Jerslev Sjælland,680000 ,16-02-2006,Alm. Salg,160,4250.0,6,1850,
 326,Villa,Hellesvej 9,4400, Kalundborg,2800000 ,16-02-2006,Alm. Salg,213,13146.0,4,1980,
-326,Villa,Kåstrup Holmevej 20,4400, Kalundborg,3100000 ,16-02-2006,Alm. Salg,176,17614.0,6,1903,
 326,Rækkehus,Åvænget 1,4400, Kalundborg,1284178 ,15-02-2006,Alm. Salg,89,14429.0,4,2006,
 326,Villa,Hagendrupvej 2,4593, Eskebjerg,715000 ,15-02-2006,Alm. Salg,131,5458.0,2,1900,
 326,Villa,Sønderstrandsvej 80,4400, Kalundborg,1075000 ,15-02-2006,Alm. Salg,98,10969.0,3,1870,
@@ -11827,7 +11730,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Humlehaven 26,4400, Kalundborg,1635000 ,08-05-2005,Alm. Salg,165,9909.0,6,1986,
 326,Villa,Rødtjørnevej 24,4291, Ruds Vedby,62000 ,08-05-2005,Alm. Salg,167,371.0,5,2015,
 326,Villa,Dyssevej 19,4270, Høng,1215000 ,08-05-2005,Alm. Salg,163,7454.0,6,1973,
-326,Villa,Ulshøjvej 27,4400, Kalundborg,1325000 ,07-05-2005,Alm. Salg,75,17667.0,3,1955,
 326,Villa,Hallebyorevej 11,4450, Jyderup,677106 ,07-05-2005,Alm. Salg,160,4232.0,4,1943,
 326,Villa,Sorøvej 14,4270, Høng,1475000 ,06-05-2005,Alm. Salg,278,5306.0,7,1930,
 326,Villa,Græsmarken 18,4400, Kalundborg,1900000 ,06-05-2005,Alm. Salg,219,8676.0,4,1920,
@@ -11973,13 +11875,11 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Bjergsted Byvej 15A,4450, Jyderup,1230000 ,16-03-2005,Alm. Salg,133,9248.0,2,1901,
 326,Rækkehus,Lerchenborgvej 95B,4400, Kalundborg,90000 ,15-03-2005,Alm. Salg,99,909.0,3,2005,
 326,Rækkehus,Slagelsevej 73D,4400, Kalundborg,500000 ,15-03-2005,Alm. Salg,43,11628.0,2,1988,
-326,Rækkehus,Gl Hovvej 91,4400, Kalundborg,75000 ,15-03-2005,Alm. Salg,100,750.0,4,2007,
 326,Villa,Solager 4,4281, Gørlev,780000 ,15-03-2005,Alm. Salg,131,5954.0,4,1915,
 326,Villa,Andaksvej 9A,4400, Kalundborg,1325000 ,15-03-2005,Alm. Salg,164,8079.0,6,1966,
 326,Villa,Smedevej 6,4400, Kalundborg,1150000 ,15-03-2005,Alm. Salg,108,10648.0,6,1960,
 326,Villa,Støvlemosen 12,4400, Kalundborg,1553553 ,15-03-2005,Andet,214,7260.0,7,1930,
 326,Villa,Acacievej 8,4490, Jerslev Sjælland,910000 ,15-03-2005,Alm. Salg,143,6364.0,4,1969,
-326,Villa,Lerchenfeldvej 66,4400, Kalundborg,75000 ,15-03-2005,Alm. Salg,127,591.0,4,2010,
 326,Villa,Nyrupvænget 3,4400, Kalundborg,457252 ,14-03-2005,Alm. Salg,157,2912.0,5,2005,
 326,Villa,Nyrupvænget 12,4400, Kalundborg,385000 ,14-03-2005,Alm. Salg,216,1782.0,7,2009,
 326,Villa,Skippingevej 23,4460, Snertinge,750000 ,14-03-2005,Alm. Salg,105,7143.0,4,1900,
@@ -12369,10 +12269,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Jyderupvej 71,4291, Ruds Vedby,1185000 ,29-10-2004,Alm. Salg,126,9405.0,3,1900,
 326,Rækkehus,Lindsvej 11,4490, Jerslev Sjælland,1075000 ,28-10-2004,Alm. Salg,90,11944.0,3,2004,
 326,Villa,Vilhelmshøjvej 4B,4593, Eskebjerg,1100000 ,28-10-2004,Alm. Salg,115,9565.0,3,1980,
-326,Ejerlejlighed,"Løve Gl Landevej 6B, 1",4270, Høng,1475000 ,27-10-2004,Alm. Salg,85,17353.0,4,1900,
 326,Villa,Bakkedalsvej 1,4400, Kalundborg,1400000 ,27-10-2004,Alm. Salg,170,8235.0,7,1937,
 326,Villa,Lonesvej 2,4270, Høng,1240000 ,27-10-2004,Alm. Salg,136,9118.0,4,1968,
-326,Villa,"Løve Gl Landevej 6B, st",4270, Høng,1475000 ,27-10-2004,Alm. Salg,85,17353.0,10,1900,
 326,Rækkehus,Vedelsgade 2,4400, Kalundborg,860000 ,26-10-2004,Alm. Salg,120,7167.0,6,1908,
 326,Villa,Kaldredvej 36,4593, Eskebjerg,995000 ,26-10-2004,Alm. Salg,88,11307.0,3,1930,
 326,Villa,Birkeskrænten 6,4400, Kalundborg,1200183 ,26-10-2004,Fam. Salg,145,8277.0,4,1979,
@@ -12389,12 +12287,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Skovbrynet 4,4400, Kalundborg,1465000 ,25-10-2004,Alm. Salg,132,11098.0,4,1967,
 326,Villa,Strandbakken 22,4400, Kalundborg,1137525 ,25-10-2004,Alm. Salg,118,9640.0,4,1964,
 326,Villa,Østerled 13,4281, Gørlev,795000 ,25-10-2004,Alm. Salg,110,7227.0,4,1900,
-326,Rækkehus,Mågevej 3A,4270, Høng,1425000 ,24-10-2004,Alm. Salg,104,13702.0,3,2019,
 326,Villa,Helsingevej 105,4281, Gørlev,1050000 ,24-10-2004,Alm. Salg,128,8203.0,3,1940,
 326,Villa,Pindsbjergvej 4,4470, Svebølle,1000000 ,24-10-2004,Alm. Salg,122,8197.0,4,1975,
 326,Villa,Skolevænget 59,4400, Kalundborg,1410000 ,24-10-2004,Alm. Salg,149,9463.0,5,1988,
 326,Villa,Holbækvej 173,4400, Kalundborg,1000000 ,24-10-2004,Alm. Salg,120,8333.0,4,1929,
-326,Villa,Mågevej 1,4270, Høng,1425000 ,24-10-2004,Alm. Salg,260,5481.0,6,1922,
 326,Villa,Jorløse Byvej 55,4490, Jerslev Sjælland,680000 ,21-10-2004,Alm. Salg,150,4533.0,5,1860,
 326,Villa,Mosevangen 49,4400, Kalundborg,1050000 ,21-10-2004,Alm. Salg,127,8268.0,4,1968,
 326,Villa,Poppelvej 2,4460, Snertinge,1305000 ,21-10-2004,Alm. Salg,150,8700.0,5,1975,
@@ -12487,16 +12383,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Møllevangen 55,4281, Gørlev,1700000 ,24-09-2004,Fam. Salg,162,10494.0,4,1976,
 326,Villa,Kirkevej 15,4281, Gørlev,454000 ,24-09-2004,Fam. Salg,87,5218.0,3,1900,
 326,Villa,Bagervænget 108,4270, Høng,1310000 ,24-09-2004,Alm. Salg,128,10234.0,4,2004,
-326,Ejerlejlighed,Bjergsted Bakker 1B,4470, Svebølle,658000 ,23-09-2004,Alm. Salg,92,7152.0,3,1900,
-326,Ejerlejlighed,Bjergsted Bakker 1A,4470, Svebølle,658000 ,23-09-2004,Alm. Salg,69,9536.0,3,1900,
-326,Ejerlejlighed,Avnsøgårds Alle 3,4470, Svebølle,658000 ,23-09-2004,Alm. Salg,51,12902.0,2,1880,
-326,Ejerlejlighed,Avnsøgårds Alle 5,4470, Svebølle,658000 ,23-09-2004,Alm. Salg,43,15302.0,2,1880,
-326,Ejerlejlighed,Avnsøgårds Alle 8B,4470, Svebølle,658000 ,23-09-2004,Alm. Salg,88,7477.0,4,1930,
-326,Ejerlejlighed,Avnsøgårds Alle 8A,4470, Svebølle,658000 ,23-09-2004,Alm. Salg,88,7477.0,3,1930,
 326,Villa,Bøgevej 2,4490, Jerslev Sjælland,1125000 ,23-09-2004,Alm. Salg,149,7550.0,4,1973,
 326,Villa,Strandparken 15,4591, Føllenslev,1660000 ,23-09-2004,Alm. Salg,135,12296.0,4,2001,
 326,Villa,Kalundborgvej 11,4460, Snertinge,750000 ,23-09-2004,Alm. Salg,98,7653.0,3,1915,
-326,Villa,Avnsøgårds Alle 9,4470, Svebølle,658000 ,23-09-2004,Alm. Salg,286,2301.0,6,1886,
 326,Villa,Tørvemosevej 2,4593, Eskebjerg,700000 ,22-09-2004,Alm. Salg,70,10000.0,3,1939,
 326,Villa,Rubjerg Alle 11,4400, Kalundborg,1725000 ,22-09-2004,Alm. Salg,141,12234.0,4,1928,
 326,Villa,Nyvej 4,4470, Svebølle,1240000 ,22-09-2004,Alm. Salg,110,11273.0,5,1939,
@@ -12946,7 +12835,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Rækkehus,Kåstrupvej 100,4400, Kalundborg,725000 ,09-04-2004,Alm. Salg,169,4290.0,5,1890,
 326,Villa,Klovbyvej 2,4490, Jerslev Sjælland,898000 ,09-04-2004,Alm. Salg,126,7127.0,4,1907,
 326,Villa,Lundevejen 2,4270, Høng,1535000 ,09-04-2004,Alm. Salg,173,8873.0,2,1905,
-326,Villa,Lindevej 4,4470, Svebølle,525000 ,08-04-2004,Alm. Salg,111,4730.0,4,2007,
 326,Rækkehus,Platanhaven 13,4470, Svebølle,735000 ,07-04-2004,Alm. Salg,130,5654.0,5,1976,
 326,Villa,Glentevej 8,4591, Føllenslev,895000 ,07-04-2004,Alm. Salg,117,7650.0,4,1973,
 326,Rækkehus,Gartnerhaven 3,4270, Høng,1177600 ,06-04-2004,Alm. Salg,116,10152.0,3,2004,
@@ -14076,12 +13964,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Kildevej 6,4470, Svebølle,995000 ,23-01-2003,Alm. Salg,139,7158.0,5,1973,
 326,Villa,Strandhaven 54,4400, Kalundborg,1250000 ,23-01-2003,Alm. Salg,120,10417.0,4,1972,
 326,Villa,Sverigesvej 7,4270, Høng,875000 ,23-01-2003,Alm. Salg,95,9211.0,4,1966,
-326,Ejerlejlighed,Søndergade 7A,4281, Gørlev,1200000 ,22-01-2003,Alm. Salg,70,17143.0,3,1935,
-326,Ejerlejlighed,"Søndergade 7C, 1",4281, Gørlev,1200000 ,22-01-2003,Alm. Salg,130,9231.0,4,1935,
-326,Ejerlejlighed,Søndergade 7D,4281, Gørlev,1200000 ,22-01-2003,Alm. Salg,100,12000.0,3,1935,
-326,Ejerlejlighed,"Algade 49, st. th",4281, Gørlev,1200000 ,22-01-2003,Alm. Salg,70,17143.0,3,1908,
-326,Ejerlejlighed,"Algade 49, st. tv",4281, Gørlev,1200000 ,22-01-2003,Alm. Salg,74,16216.0,3,1908,
-326,Ejerlejlighed,"Algade 49, 2",4281, Gørlev,1200000 ,22-01-2003,Alm. Salg,79,15190.0,3,1908,
 326,Villa,Tranemosevej 18,4291, Ruds Vedby,3048500 ,22-01-2003,Alm. Salg,239,12755.0,6,1864,
 326,Villa,Skippingevej 9,4460, Snertinge,315000 ,22-01-2003,Alm. Salg,135,2333.0,3,1927,
 326,Villa,Holbækvej 97,4400, Kalundborg,1295000 ,22-01-2003,Alm. Salg,128,10117.0,4,1952,
@@ -14805,7 +14687,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Strandstien 28,4400, Kalundborg,1725679 ,22-04-2002,Alm. Salg,187,9228.0,6,1910,
 326,Villa,Holbækvej 85,4400, Kalundborg,625000 ,22-04-2002,Alm. Salg,133,4699.0,4,1933,
 326,Villa,Strandbakken 48,4400, Kalundborg,1486253 ,21-04-2002,Alm. Salg,155,9589.0,5,1970,
-326,Villa,Bøstrupvej 6A,4270, Høng,1238515 ,21-04-2002,Alm. Salg,166,7461.0,5,1928,
 326,Rækkehus,Hørkærhaven 40A,4490, Jerslev Sjælland,830000 ,19-04-2002,Alm. Salg,103,8058.0,4,1988,
 326,Villa,Birkevej 2,4281, Gørlev,945000 ,19-04-2002,Alm. Salg,167,5659.0,4,1931,
 326,Villa,Flinterupvej 101,4480, Store Fuglede,316324 ,19-04-2002,Andet,90,3515.0,3,1961,
@@ -14821,7 +14702,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Toelstangsvej 27,4200, Slagelse,550000 ,15-04-2002,Alm. Salg,64,8594.0,2,1956,
 326,Villa,Fjordbakken 15,4400, Kalundborg,1040000 ,15-04-2002,Alm. Salg,230,4522.0,6,1972,
 326,Rækkehus,Birchsgade 15,4400, Kalundborg,890000 ,14-04-2002,Alm. Salg,92,9674.0,4,1903,
-326,Rækkehus,Hørkærhaven 48A,4490, Jerslev Sjælland,15000 ,14-04-2002,Alm. Salg,97,155.0,4,2003,
 326,Ejerlejlighed,"Nørre Alle 48, 2. th",4400, Kalundborg,545000 ,14-04-2002,Alm. Salg,75,7267.0,3,1963,
 326,Villa,Slagelsevej 154,4400, Kalundborg,595000 ,14-04-2002,Alm. Salg,94,6330.0,4,1962,
 326,Villa,Fingerbølvej 12,4470, Svebølle,945000 ,14-04-2002,Alm. Salg,116,8147.0,4,1977,
@@ -15009,11 +14889,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Kærbyvej 32B,4400, Kalundborg,605000 ,11-02-2002,Alm. Salg,130,4654.0,4,1852,
 326,Villa,Strandbakken 106,4400, Kalundborg,435000 ,11-02-2002,Fam. Salg,120,3625.0,4,1975,
 326,Rækkehus,Strandhaven 37,4400, Kalundborg,1135000 ,10-02-2002,Alm. Salg,141,8050.0,4,1960,
-326,Ejerlejlighed,"Blegdammen 46, st. th",4400, Kalundborg,450000 ,10-02-2002,Alm. Salg,75,6000.0,3,1963,
 326,Villa,Agerhønevej 59,4400, Kalundborg,200000 ,10-02-2002,Alm. Salg,142,1408.0,4,2002,
 326,Villa,Følfodvej 4,4470, Svebølle,950000 ,10-02-2002,Alm. Salg,113,8407.0,5,1977,
 326,Villa,Finlandsvej 11,4270, Høng,929968 ,10-02-2002,Alm. Salg,100,9300.0,4,1966,
-326,Villa,Elledevej 142,4400, Kalundborg,450000 ,10-02-2002,Alm. Salg,61,7377.0,2,1870,
 326,Villa,Asmindrup 3,4400, Kalundborg,633000 ,09-02-2002,Andet,154,4110.0,3,1910,
 326,Villa,Dalbovej 3,4460, Snertinge,430747 ,09-02-2002,Alm. Salg,65,6627.0,2,1887,
 326,Villa,Frankerupvej 35,4400, Kalundborg,1040000 ,09-02-2002,Alm. Salg,147,7075.0,7,1880,
@@ -15341,7 +15219,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Milehøjen 1,4400, Kalundborg,377409 ,26-09-2001,Andet,140,2696.0,5,1971,
 326,Villa,Jernbanevej 2,4270, Høng,625000 ,26-09-2001,Alm. Salg,133,4699.0,4,1900,
 326,Villa,Agerhønevej 25,4400, Kalundborg,325000 ,26-09-2001,Alm. Salg,148,2196.0,5,2006,
-326,Villa,Sct Jørgensbjerg 36A,4400, Kalundborg,601760 ,26-09-2001,Andet,101,5958.0,2,1860,
 326,Villa,Rosenvænget 5,4270, Høng,1142803 ,25-09-2001,Alm. Salg,140,8163.0,4,1963,
 326,Villa,Lyngknuden 13,4400, Kalundborg,115280 ,25-09-2001,Alm. Salg,215,536.0,7,2004,
 326,Villa,Tissøvej 18,4470, Svebølle,603627 ,24-09-2001,Alm. Salg,112,5390.0,4,1956,
@@ -15636,7 +15513,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Urhøjvej 2,4480, Store Fuglede,750000 ,20-06-2001,Alm. Salg,147,5102.0,4,1900,
 326,Ejerlejlighed,"Kystvejen 122A, 2",4400, Kalundborg,795000 ,19-06-2001,Alm. Salg,92,8641.0,2,1930,
 326,Villa,Engvej 33,4400, Kalundborg,387484 ,19-06-2001,Alm. Salg,149,2601.0,4,1955,
-326,Villa,Sct Jørgensbjerg 38B,4400, Kalundborg,1261000 ,19-06-2001,Fam. Salg,112,11259.0,4,1860,
 326,Villa,Kæret 9,4490, Jerslev Sjælland,480000 ,19-06-2001,Alm. Salg,113,4248.0,3,1777,
 326,Villa,Smedevej 33,4400, Kalundborg,1004000 ,19-06-2001,Alm. Salg,120,8367.0,4,1967,
 326,Villa,Knuds Alle 12,4400, Kalundborg,850000 ,19-06-2001,Alm. Salg,89,9551.0,4,1983,
@@ -15661,8 +15537,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Ejerlejlighed,"Blegdammen 38, 1. tv",4400, Kalundborg,398000 ,08-06-2001,Alm. Salg,61,6525.0,2,1963,
 326,Villa,Bøstrupvej 10C,4270, Høng,295000 ,07-06-2001,Alm. Salg,240,1229.0,7,2004,
 326,Rækkehus,Birchsgade 8,4400, Kalundborg,480000 ,06-06-2001,Alm. Salg,82,5854.0,3,1903,
-326,Ejerlejlighed,"Bryggervænget 1, 3. th",4400, Kalundborg,575000 ,06-06-2001,Alm. Salg,59,9746.0,2,1961,
-326,Villa,Mellemvangsvej 26,4400, Kalundborg,575000 ,06-06-2001,Alm. Salg,120,4792.0,4,1968,
 326,Villa,Fægangsvejen 13,4281, Gørlev,817411 ,06-06-2001,Alm. Salg,210,3892.0,7,1900,
 326,Villa,Agerhønevej 51,4400, Kalundborg,315000 ,05-06-2001,Alm. Salg,138,2283.0,5,2002,
 326,Villa,Lerchenfeldvej 58,4400, Kalundborg,1550000 ,05-06-2001,Alm. Salg,146,10616.0,4,1999,
@@ -16076,7 +15950,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Ejerlejlighed,"Blegdammen 48, st. th",4400, Kalundborg,525000 ,27-12-2000,Alm. Salg,80,6563.0,3,1963,
 326,Villa,Rævebakken 1,4400, Kalundborg,702421 ,27-12-2000,Alm. Salg,113,6216.0,4,1964,
 326,Villa,Tjørnhøjsvej 33,4281, Gørlev,760000 ,26-12-2000,Alm. Salg,104,7308.0,2,1971,
-326,Villa,Stengårdsvej 3,4470, Svebølle,453722 ,23-12-2000,Alm. Salg,75,6050.0,2,1880,
 326,Villa,Hallebyorevej 37,4450, Jyderup,800000 ,23-12-2000,Alm. Salg,136,5882.0,6,1870,
 326,Villa,Elmebakken 2,4400, Kalundborg,1380000 ,22-12-2000,Alm. Salg,148,9324.0,4,1965,
 326,Villa,Solbjergvej 40,4270, Høng,750000 ,22-12-2000,Alm. Salg,100,7500.0,3,1897,
@@ -16328,7 +16201,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Bakkedraget 21,4270, Høng,890000 ,26-09-2000,Andet,126,7063.0,4,1980,
 326,Villa,Møllevej 7,4400, Kalundborg,884846 ,26-09-2000,Alm. Salg,177,4999.0,6,1914,
 326,Villa,Bøgevej 5,4490, Jerslev Sjælland,980000 ,25-09-2000,Alm. Salg,176,5568.0,5,1971,
-326,Villa,Kirkevangen 9A,4281, Gørlev,923522 ,25-09-2000,Alm. Salg,102,9054.0,3,1936,
 326,Villa,Gl Nyrupvej 2A,4400, Kalundborg,961000 ,25-09-2000,Alm. Salg,135,7119.0,5,1943,
 326,Villa,Nyrup By 16,4400, Kalundborg,540000 ,25-09-2000,Alm. Salg,124,4355.0,3,1850,
 326,Villa,Kysttoften 9,4400, Kalundborg,1010000 ,25-09-2000,Alm. Salg,124,8145.0,4,1960,
@@ -16818,7 +16690,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Torpevej 4,4270, Høng,596995 ,30-03-2000,Alm. Salg,143,4175.0,5,1903,
 326,Villa,Solbakken 38,4400, Kalundborg,861240 ,30-03-2000,Alm. Salg,127,6781.0,5,1962,
 326,Villa,Bøstrupvej 15,4270, Høng,374000 ,30-03-2000,Fam. Salg,98,3816.0,4,1914,
-326,Ejerlejlighed,Møllebakken 9,4400, Kalundborg,1380000 ,29-03-2000,Alm. Salg,97,14227.0,5,1899,
 326,Villa,Urhøjvej 7,4480, Store Fuglede,400000 ,29-03-2000,Andet,130,3077.0,5,1900,
 326,Villa,Nyrupvej 82,4400, Kalundborg,1600000 ,29-03-2000,Alm. Salg,227,7048.0,4,1987,
 326,Villa,Slagelsevej 167,4400, Kalundborg,920000 ,29-03-2000,Andet,163,5644.0,4,1976,
@@ -17092,11 +16963,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Bakkendrupvej 34,4480, Store Fuglede,530000 ,01-12-1999,Alm. Salg,79,6709.0,4,1958,
 326,Villa,Engvej 33,4400, Kalundborg,655000 ,01-12-1999,Alm. Salg,149,4396.0,4,1955,
 326,Villa,Eskebjergvej 25,4593, Eskebjerg,725000 ,01-12-1999,Alm. Salg,104,6971.0,4,1965,
-326,Ejerlejlighed,"Elmegade 3B, 1",4400, Kalundborg,600000 ,30-11-1999,Alm. Salg,67,8955.0,2,2004,
-326,Ejerlejlighed,"Elmegade 3B, st",4400, Kalundborg,600000 ,30-11-1999,Alm. Salg,67,8955.0,2,2004,
-326,Ejerlejlighed,"Nygade 7, st",4400, Kalundborg,600000 ,30-11-1999,Alm. Salg,67,8955.0,2,1901,
-326,Ejerlejlighed,"Nygade 7, 1",4400, Kalundborg,600000 ,30-11-1999,Alm. Salg,67,8955.0,2,1901,
-326,Ejerlejlighed,"Nygade 7, 2",4400, Kalundborg,600000 ,30-11-1999,Alm. Salg,43,13953.0,3,1901,
 326,Rækkehus,Margrethevej 8,4400, Kalundborg,199784 ,29-11-1999,Andet,93,2148.0,4,1905,
 326,Villa,Finderupvej 25,4270, Høng,690000 ,29-11-1999,Alm. Salg,135,5111.0,5,1949,
 326,Villa,Davrupvej 2,4593, Eskebjerg,438000 ,29-11-1999,Alm. Salg,133,3293.0,5,1910,
@@ -17402,7 +17268,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Melbygade 18,4400, Kalundborg,585000 ,28-07-1999,Alm. Salg,125,4680.0,6,1892,
 326,Villa,Granlystien 27,4400, Kalundborg,331147 ,28-07-1999,Fam. Salg,124,2671.0,5,1965,
 326,Villa,Raklev Skillevej 49,4400, Kalundborg,507000 ,27-07-1999,Alm. Salg,111,4568.0,3,1902,
-326,Villa,Kirkevangen 9A,4281, Gørlev,725000 ,26-07-1999,Auktion,102,7108.0,3,1936,
 326,Villa,Lindevej 3,4470, Svebølle,595130 ,26-07-1999,Alm. Salg,76,7831.0,2,1948,
 326,Villa,Svalevej 12,4591, Føllenslev,1211161 ,25-07-1999,Alm. Salg,213,5686.0,5,1989,
 326,Villa,Poppelbakken 19,4400, Kalundborg,105000 ,25-07-1999,Alm. Salg,133,789.0,5,2002,
@@ -17685,20 +17550,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Slagelsevej 218,4400, Kalundborg,723000 ,18-04-1999,Alm. Salg,110,6573.0,3,1935,
 326,Villa,Sejerøvej 19,4592, Sejerø,225000 ,18-04-1999,Alm. Salg,119,1891.0,5,1910,
 326,Villa,Faksbjergvej 9,4470, Svebølle,1029000 ,17-04-1999,Alm. Salg,175,5880.0,7,1973,
-326,Rækkehus,Skibbrogade 14,4400, Kalundborg,750000 ,16-04-1999,Alm. Salg,200,3750.0,8,1890,
-326,Ejerlejlighed,"Hærvigsgade 1, st. tv",4400, Kalundborg,1300000 ,16-04-1999,Alm. Salg,88,14773.0,3,1902,
-326,Ejerlejlighed,"Hærvigsgade 1, 1. tv",4400, Kalundborg,1300000 ,16-04-1999,Alm. Salg,94,13830.0,4,1902,
-326,Ejerlejlighed,"Hærvigsgade 3, 2. tv",4400, Kalundborg,1100000 ,16-04-1999,Alm. Salg,64,17188.0,2,1908,
-326,Ejerlejlighed,"Hærvigsgade 5, st. th",4400, Kalundborg,1100000 ,16-04-1999,Alm. Salg,68,16176.0,3,1920,
-326,Ejerlejlighed,"Hærvigsgade 5, 1. th",4400, Kalundborg,1100000 ,16-04-1999,Alm. Salg,68,16176.0,3,1920,
-326,Ejerlejlighed,"Hærvigsgade 5, 2. th",4400, Kalundborg,1100000 ,16-04-1999,Alm. Salg,63,17460.0,3,1920,
-326,Ejerlejlighed,"Hærvigsgade 3, st. tv",4400, Kalundborg,1100000 ,16-04-1999,Alm. Salg,70,15714.0,2,1908,
-326,Ejerlejlighed,"Hærvigsgade 3, 1. tv",4400, Kalundborg,1100000 ,16-04-1999,Alm. Salg,69,15942.0,2,1908,
-326,Ejerlejlighed,"Sct Jørgensbjerg 18, kl",4400, Kalundborg,1100000 ,16-04-1999,Alm. Salg,62,17742.0,2,1902,
-326,Ejerlejlighed,"Sct Jørgensbjerg 18, 1",4400, Kalundborg,1100000 ,16-04-1999,Alm. Salg,96,11458.0,4,1902,
-326,Ejerlejlighed,"Sct Jørgensbjerg 18, 2",4400, Kalundborg,1100000 ,16-04-1999,Alm. Salg,94,11702.0,3,1902,
-326,Ejerlejlighed,"Sct Jørgensbjerg 18, st",4400, Kalundborg,1100000 ,16-04-1999,Alm. Salg,96,11458.0,4,1902,
-326,Ejerlejlighed,"Kordilgade 48, 1",4400, Kalundborg,750000 ,16-04-1999,Alm. Salg,115,6522.0,4,1893,
 326,Villa,Kongstrupvej 10,4592, Sejerø,611160 ,15-04-1999,Alm. Salg,169,3616.0,5,1981,
 326,Villa,Mellemvangsvej 86,4400, Kalundborg,632000 ,15-04-1999,Alm. Salg,146,4329.0,5,1877,
 326,Villa,Rosenstien 5,4460, Snertinge,950000 ,14-04-1999,Alm. Salg,155,6129.0,4,1982,
@@ -17709,7 +17560,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Tranevej 12,4270, Høng,528000 ,12-04-1999,Alm. Salg,89,5933.0,3,1910,
 326,Villa,Hovvej 33,4490, Jerslev Sjælland,293621 ,12-04-1999,Alm. Salg,125,2349.0,4,1964,
 326,Villa,Søbo 11,4200, Slagelse,990000 ,12-04-1999,Alm. Salg,173,5723.0,5,1880,
-326,Villa,Dyssevej 3C,4490, Jerslev Sjælland,1103000 ,12-04-1999,Alm. Salg,231,4775.0,7,1924,
 326,Ejerlejlighed,"Sct Jørgensbjerg 10, 1",4400, Kalundborg,435000 ,11-04-1999,Fam. Salg,90,4833.0,4,1800,
 326,Villa,Nikolinevej 8,4470, Svebølle,398554 ,11-04-1999,Alm. Salg,141,2827.0,4,1962,
 326,Villa,Drøsselbjergvej 31,4200, Slagelse,585000 ,11-04-1999,Alm. Salg,125,4680.0,6,1892,
@@ -17875,7 +17725,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Vinde Helsingevej 15,4281, Gørlev,560000 ,05-02-1999,Alm. Salg,97,5773.0,4,1905,
 326,Villa,Odinsvej 15A,4270, Høng,1217000 ,05-02-1999,Alm. Salg,171,7117.0,7,1909,
 326,Villa,Saltbækvej 35,4400, Kalundborg,238412 ,04-02-1999,Alm. Salg,134,1779.0,4,1880,
-326,Villa,Dyssevej 3C,4490, Jerslev Sjælland,1000000 ,04-02-1999,Fam. Salg,231,4329.0,7,1924,
 326,Villa,Troldevænget 18,4400, Kalundborg,1730000 ,03-02-1999,Alm. Salg,229,7555.0,7,1974,
 326,Villa,Nygade 12,4281, Gørlev,603360 ,03-02-1999,Alm. Salg,140,4310.0,4,1970,
 326,Villa,Munkebakken 63,4400, Kalundborg,1078000 ,03-02-1999,Alm. Salg,184,5859.0,6,1972,
@@ -17912,7 +17761,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Rækkehus,Rosenhaven 1B,4470, Svebølle,584191 ,19-01-1999,Alm. Salg,101,5784.0,4,1978,
 326,Villa,Risbjergvej 19,4291, Ruds Vedby,1100000 ,19-01-1999,Alm. Salg,256,4297.0,7,1870,
 326,Villa,Hestehaven 33,4400, Kalundborg,600000 ,19-01-1999,Alm. Salg,99,6061.0,3,1945,
-326,Villa,Sct Jørgensbjerg 36A,4400, Kalundborg,877000 ,19-01-1999,Alm. Salg,101,8683.0,2,1860,
 326,Villa,Hjorthøj 42,4400, Kalundborg,1048460 ,18-01-1999,Alm. Salg,152,6898.0,6,1980,
 326,Villa,Slagelsevej 29,4281, Gørlev,580000 ,18-01-1999,Alm. Salg,97,5979.0,3,1940,
 326,Rækkehus,Egetoften 8A,4281, Gørlev,470000 ,17-01-1999,Alm. Salg,100,4700.0,2,1982,
@@ -17932,7 +17780,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Munkebakken 4,4400, Kalundborg,1353092 ,10-01-1999,Alm. Salg,224,6041.0,7,1974,
 326,Villa,Skolevej 11,4490, Jerslev Sjælland,450000 ,10-01-1999,Alm. Salg,125,3600.0,5,1954,
 326,Rækkehus,Poulas Alle 10,4400, Kalundborg,589180 ,09-01-1999,Alm. Salg,102,5776.0,3,1917,
-326,Rækkehus,Adelgade 17,4400, Kalundborg,1700000 ,08-01-1999,Alm. Salg,163,10429.0,6,1620,
 326,Rækkehus,Margrethevej 10,4400, Kalundborg,249519 ,07-01-1999,Alm. Salg,107,2332.0,4,1964,
 326,Villa,Hovedgaden 25,4490, Jerslev Sjælland,995275 ,07-01-1999,Alm. Salg,129,7715.0,5,1925,
 326,Villa,Mosevangen 45,4400, Kalundborg,1009840 ,07-01-1999,Alm. Salg,172,5871.0,4,1968,
@@ -19017,7 +18864,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Mågevej 5,4270, Høng,900000 ,07-12-1997,Fam. Salg,263,3422.0,7,1966,
 326,Villa,Anemonevej 2,4470, Svebølle,736700 ,07-12-1997,Alm. Salg,122,6039.0,5,1979,
 326,Villa,Elledevej 39,4400, Kalundborg,385658 ,06-12-1997,Andet,125,3085.0,5,1916,
-326,Ejerlejlighed,Bredgade 9,4400, Kalundborg,2250000 ,04-12-1997,Alm. Salg,127,17717.0,2,1898,
 326,Villa,Stigsager 55,4400, Kalundborg,68414 ,04-12-1997,Alm. Salg,161,425.0,5,1997,
 326,Villa,Slagelsevej 246,4400, Kalundborg,454740 ,04-12-1997,Alm. Salg,123,3697.0,4,1902,
 326,Ejerlejlighed,"Blegdammen 30, 1. tv",4400, Kalundborg,202500 ,03-12-1997,Alm. Salg,61,3320.0,2,1963,
@@ -19480,7 +19326,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Rækkehus,Lyngparken 68B,4400, Kalundborg,522375 ,26-06-1997,Alm. Salg,82,6370.0,3,1984,
 326,Rækkehus,Lundevej 15,4400, Kalundborg,591095 ,26-06-1997,Alm. Salg,112,5278.0,4,1898,
 326,Villa,Granlystien 33,4400, Kalundborg,140650 ,26-06-1997,Alm. Salg,139,1012.0,6,1998,
-326,Villa,Skippingevej 31A,4460, Snertinge,2978177 ,26-06-1997,Fam. Salg,167,17833.0,5,1870,
 326,Villa,Flinterupvej 91,4480, Store Fuglede,190000 ,26-06-1997,Auktion,114,1667.0,4,1930,
 326,Villa,Kåstrupvej 74,4400, Kalundborg,680770 ,26-06-1997,Alm. Salg,212,3211.0,5,1905,
 326,Villa,Glentevej 4,4591, Føllenslev,593600 ,26-06-1997,Alm. Salg,118,5031.0,4,1980,
@@ -19560,8 +19405,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Pilekrogen 2,4470, Svebølle,454000 ,02-06-1997,Alm. Salg,94,4830.0,3,1959,
 326,Villa,Kisserupvej 4,4200, Slagelse,400000 ,02-06-1997,Alm. Salg,115,3478.0,4,1999,
 326,Villa,Løgtvedvej 9,4450, Jyderup,245000 ,02-06-1997,Alm. Salg,130,1885.0,3,1877,
-326,Rækkehus,"Kordilgade 17, 1",4400, Kalundborg,1011000 ,01-06-1997,Alm. Salg,129,7837.0,2,1922,
-326,Ejerlejlighed,"Kordilgade 17, 2",4400, Kalundborg,1011000 ,01-06-1997,Alm. Salg,112,9027.0,2,1922,
 326,Ejerlejlighed,"Nørre Alle 48, st. tv",4400, Kalundborg,250000 ,01-06-1997,Alm. Salg,78,3205.0,3,1963,
 326,Villa,Eskebjergvej 36,4593, Eskebjerg,312000 ,01-06-1997,Alm. Salg,147,2122.0,5,1900,
 326,Villa,Kalundborgvej 42,4591, Føllenslev,40000 ,31-05-1997,Alm. Salg,155,258.0,7,1905,
@@ -19673,8 +19516,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Højstedvej 18,4591, Føllenslev,250000 ,25-04-1997,Alm. Salg,154,1623.0,5,1850,
 326,Villa,Strandparken 64,4591, Føllenslev,725000 ,24-04-1997,Alm. Salg,169,4290.0,5,1979,
 326,Villa,Elledevej 52,4400, Kalundborg,377992 ,24-04-1997,Alm. Salg,95,3979.0,3,1877,
-326,Rækkehus,"Kordilgade 17, 1",4400, Kalundborg,1011000 ,23-04-1997,Alm. Salg,129,7837.0,2,1922,
-326,Ejerlejlighed,"Kordilgade 17, 2",4400, Kalundborg,1011000 ,23-04-1997,Alm. Salg,112,9027.0,2,1922,
 326,Villa,Reerslevvej 46,4291, Ruds Vedby,293000 ,23-04-1997,Alm. Salg,180,1628.0,5,1910,
 326,Villa,Loddenhøj 2,4460, Snertinge,838300 ,23-04-1997,Alm. Salg,282,2973.0,6,1853,
 326,Villa,Raklev Skillevej 10,4400, Kalundborg,643980 ,23-04-1997,Alm. Salg,125,5152.0,5,1934,
@@ -20203,7 +20044,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Hesselbjergvej 2,4400, Kalundborg,497930 ,02-10-1996,Alm. Salg,105,4742.0,4,1962,
 326,Villa,Elmevej 1,4490, Jerslev Sjælland,550000 ,01-10-1996,Alm. Salg,126,4365.0,4,1972,
 326,Villa,Riddervænget 4,4400, Kalundborg,750000 ,01-10-1996,Alm. Salg,104,7212.0,3,1962,
-326,Rækkehus,Lindemannsstræde 10,4400, Kalundborg,525000 ,30-09-1996,Alm. Salg,30,17500.0,1,1837,
 326,Villa,Raklev Skillevej 43,4400, Kalundborg,190000 ,30-09-1996,Auktion,127,1496.0,4,1900,
 326,Villa,Møllehøj 33,4591, Føllenslev,65000 ,30-09-1996,Alm. Salg,129,504.0,4,2022,
 326,Villa,Stenmosevej 3,4200, Slagelse,376800 ,29-09-1996,Alm. Salg,96,3925.0,3,1877,
@@ -20286,7 +20126,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Højlandsvej 16,4400, Kalundborg,85000 ,01-09-1996,Alm. Salg,175,486.0,5,1999,
 326,Villa,Kongevej 8,4450, Jyderup,541000 ,01-09-1996,Alm. Salg,180,3006.0,5,1777,
 326,Villa,Lundevej 48,4400, Kalundborg,739000 ,30-08-1996,Alm. Salg,152,4862.0,7,1952,
-326,Villa,Skovvejen 24A,4281, Gørlev,525000 ,29-08-1996,Alm. Salg,122,4303.0,4,1949,
 326,Villa,Vollerup Overdrev 1,4400, Kalundborg,470000 ,29-08-1996,Alm. Salg,132,3561.0,5,1912,
 326,Villa,Flinterupvej 51,4480, Store Fuglede,470000 ,29-08-1996,Alm. Salg,236,1992.0,7,1939,
 326,Villa,Strædet 2A,4291, Ruds Vedby,60000 ,29-08-1996,Alm. Salg,182,330.0,5,2004,
@@ -20448,7 +20287,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Margrethevej 1,4400, Kalundborg,390000 ,04-07-1996,Alm. Salg,122,3197.0,3,1900,
 326,Villa,Skeltoften 14,4400, Kalundborg,835000 ,03-07-1996,Alm. Salg,159,5252.0,4,1971,
 326,Villa,Hjorthøj 19,4400, Kalundborg,1239074 ,03-07-1996,Alm. Salg,180,6884.0,5,1969,
-326,Villa,Tystrupvej 24,4480, Store Fuglede,120000 ,03-07-1996,Auktion,126,952.0,4,1900,
 326,Villa,Landervejen 14,4281, Gørlev,60000 ,03-07-1996,Alm. Salg,112,536.0,4,1902,
 326,Villa,Sandskrænten 22,4400, Kalundborg,775000 ,02-07-1996,Alm. Salg,159,4874.0,5,1979,
 326,Villa,Kløvervej 15,4270, Høng,1033000 ,02-07-1996,Alm. Salg,194,5325.0,7,1981,
@@ -20675,13 +20513,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Lærkevej 6,4490, Jerslev Sjælland,180000 ,15-04-1996,Fam. Salg,101,1782.0,5,1961,
 326,Rækkehus,Ingeborgs Alle 4,4400, Kalundborg,312427 ,14-04-1996,Alm. Salg,84,3719.0,3,1917,
 326,Villa,Hovvej 29,4490, Jerslev Sjælland,430280 ,14-04-1996,Alm. Salg,108,3984.0,4,1960,
-326,Ejerlejlighed,Sct Jørgensbjerg 26A,4400, Kalundborg,900000 ,12-04-1996,Alm. Salg,80,11250.0,2,1905,
-326,Ejerlejlighed,Sct Jørgensbjerg 26C,4400, Kalundborg,900000 ,12-04-1996,Alm. Salg,73,12329.0,3,1905,
-326,Ejerlejlighed,"Margrethevej 2A, 1. tv",4400, Kalundborg,900000 ,12-04-1996,Alm. Salg,134,6716.0,5,1905,
-326,Ejerlejlighed,Sct Jørgensbjerg 26B,4400, Kalundborg,900000 ,12-04-1996,Alm. Salg,102,8824.0,3,1905,
-326,Ejerlejlighed,"Margrethevej 2A, 1. th",4400, Kalundborg,900000 ,12-04-1996,Alm. Salg,64,14063.0,2,1905,
-326,Ejerlejlighed,"Margrethevej 2A, st. th",4400, Kalundborg,900000 ,12-04-1996,Alm. Salg,77,11688.0,3,1905,
-326,Ejerlejlighed,"Margrethevej 2A, st. tv",4400, Kalundborg,900000 ,12-04-1996,Alm. Salg,134,6716.0,5,1905,
 326,Villa,Rye Byvej 2,4281, Gørlev,780720 ,12-04-1996,Alm. Salg,228,3424.0,5,1909,
 326,Villa,Kirkestien 7,4281, Gørlev,320000 ,11-04-1996,Alm. Salg,62,5161.0,2,1938,
 326,Villa,Milehøjen 9,4400, Kalundborg,647000 ,11-04-1996,Alm. Salg,136,4757.0,4,1971,
@@ -20722,7 +20553,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Kalundborgvej 59,4593, Eskebjerg,425000 ,25-03-1996,Alm. Salg,206,2063.0,4,1850,
 326,Villa,Lynggårdsbakken 26,4400, Kalundborg,659300 ,25-03-1996,Alm. Salg,129,5111.0,4,1973,
 326,Villa,Åsen 14,4400, Kalundborg,709000 ,25-03-1996,Alm. Salg,149,4758.0,4,1890,
-326,Villa,Rørmosevej 6A,4400, Kalundborg,1100000 ,24-03-1996,Alm. Salg,210,5238.0,5,1909,
 326,Villa,Vestergade 7,4270, Høng,390000 ,24-03-1996,Alm. Salg,67,5821.0,2,1952,
 326,Villa,Islandsvej 3,4270, Høng,708000 ,24-03-1996,Alm. Salg,182,3890.0,5,1907,
 326,Villa,Buerupvej 15,4450, Jyderup,684000 ,21-03-1996,Alm. Salg,213,3211.0,5,1900,
@@ -20889,9 +20719,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Ejerlejlighed,"Bryggervænget 5, 3. th",4400, Kalundborg,412504 ,10-01-1996,Alm. Salg,59,6992.0,2,1961,
 326,Villa,Gl Rørbyvej 21,4400, Kalundborg,482450 ,10-01-1996,Alm. Salg,94,5132.0,4,1964,
 326,Rækkehus,Møllestræde 15,4400, Kalundborg,332500 ,09-01-1996,Fam. Salg,242,1374.0,9,1856,
-326,Ejerlejlighed,"Kordilgade 22, 2",4400, Kalundborg,1650000 ,09-01-1996,Alm. Salg,120,13750.0,3,1890,
-326,Ejerlejlighed,"Vænget 20, 1",4400, Kalundborg,1650000 ,09-01-1996,Alm. Salg,143,11538.0,4,1890,
-326,Ejerlejlighed,"Vænget 22, 2",4400, Kalundborg,1650000 ,09-01-1996,Alm. Salg,152,10855.0,5,2004,
 326,Villa,Fjordbakken 20,4400, Kalundborg,850000 ,09-01-1996,Alm. Salg,192,4427.0,6,1975,
 326,Villa,Lærkebakken 2,4400, Kalundborg,710000 ,09-01-1996,Alm. Salg,214,3087.0,8,1968,
 326,Villa,Sønderstrandsvej 19,4400, Kalundborg,362000 ,07-01-1996,Alm. Salg,149,2430.0,5,1926,
@@ -20901,7 +20728,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Svallerup Strandvej 5,4400, Kalundborg,163400 ,04-01-1996,Alm. Salg,116,1409.0,5,1900,
 326,Villa,Svalevej 5,4270, Høng,826940 ,04-01-1996,Alm. Salg,157,5267.0,4,1979,
 326,Villa,Ternevænget 6,4400, Kalundborg,735000 ,04-01-1996,Alm. Salg,120,6125.0,4,1969,
-326,Villa,Hovedgaden 18B,4490, Jerslev Sjælland,590000 ,04-01-1996,Alm. Salg,144,4097.0,4,1969,
 326,Villa,Nørre Alle 92,4400, Kalundborg,301440 ,30-12-1995,Alm. Salg,73,4129.0,3,1953,
 326,Villa,Ågerupvej 4,4400, Kalundborg,125000 ,30-12-1995,Alm. Salg,152,822.0,6,1912,
 326,Villa,Møllevænget 2,4270, Høng,450000 ,29-12-1995,Alm. Salg,128,3516.0,4,1900,
@@ -21033,7 +20859,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Solbakken 3,4591, Føllenslev,86000 ,08-11-1995,Auktion,96,896.0,4,1966,
 326,Villa,Flinterupvej 57,4480, Store Fuglede,275000 ,08-11-1995,Fam. Salg,131,2099.0,3,1971,
 326,Villa,Strandbakken 37,4400, Kalundborg,1180000 ,08-11-1995,Alm. Salg,152,7763.0,5,1974,
-326,Villa,Hovedgaden 18B,4490, Jerslev Sjælland,460000 ,08-11-1995,Auktion,144,3194.0,4,1969,
 326,Villa,Asmindrup 3,4400, Kalundborg,777500 ,06-11-1995,Alm. Salg,154,5049.0,3,1910,
 326,Rækkehus,Birchsgade 19,4400, Kalundborg,495000 ,05-11-1995,Alm. Salg,116,4267.0,5,1903,
 326,Villa,Tranemosevej 23,4291, Ruds Vedby,92000 ,05-11-1995,Alm. Salg,94,979.0,4,1877,
@@ -21092,9 +20917,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Bakkevej 6,4400, Kalundborg,625000 ,15-10-1995,Alm. Salg,187,3342.0,7,1964,
 326,Villa,Torpevej 13,4593, Eskebjerg,121000 ,15-10-1995,Alm. Salg,83,1458.0,3,1900,
 326,Villa,Tværvej 6,4460, Snertinge,410000 ,15-10-1995,Auktion,116,3534.0,4,1938,
-326,Ejerlejlighed,"Lindegade 6, st. th",4400, Kalundborg,382500 ,14-10-1995,Alm. Salg,87,4397.0,2,1753,
-326,Ejerlejlighed,Møllestræde 1B,4400, Kalundborg,382500 ,14-10-1995,Alm. Salg,95,4026.0,2,1753,
-326,Ejerlejlighed,Møllestræde 1C,4400, Kalundborg,382500 ,14-10-1995,Alm. Salg,85,4500.0,3,1753,
 326,Villa,Frederiksberg 1,4470, Svebølle,1160000 ,14-10-1995,Alm. Salg,296,3919.0,12,1910,
 326,Villa,Charlottevej 12,4270, Høng,1200000 ,13-10-1995,Alm. Salg,144,8333.0,4,1976,
 326,Villa,Hallebyorevej 54,4450, Jyderup,403000 ,13-10-1995,Alm. Salg,90,4478.0,3,1777,
@@ -21301,8 +21123,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Helsingevej 4,4281, Gørlev,510000 ,03-08-1995,Alm. Salg,102,5000.0,3,1950,
 326,Rækkehus,Rosenhaven 1F,4470, Svebølle,199348 ,01-08-1995,Alm. Salg,83,2402.0,4,1975,
 326,Villa,Øresøvej 16,4470, Svebølle,310000 ,01-08-1995,Alm. Salg,236,1314.0,8,1880,
-326,Rækkehus,Adelgade 17,4400, Kalundborg,546622 ,31-07-1995,Fam. Salg,163,3354.0,6,1620,
-326,Villa,Præstegade 12,4400, Kalundborg,546622 ,31-07-1995,Fam. Salg,42,13015.0,2,1818,
 326,Villa,Hesselbjergvej 9,4400, Kalundborg,595000 ,31-07-1995,Alm. Salg,203,2931.0,6,1966,
 326,Villa,Bøstrupvej 33,4270, Høng,306000 ,31-07-1995,Alm. Salg,148,2068.0,7,1913,
 326,Villa,Strandvej 20,4270, Høng,472400 ,31-07-1995,Alm. Salg,100,4724.0,5,1934,
@@ -21767,8 +21587,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Hovedgaden 63,4270, Høng,315800 ,20-02-1995,Alm. Salg,144,2193.0,5,1910,
 326,Villa,Banevej 25,4480, Store Fuglede,297280 ,20-02-1995,Alm. Salg,100,2973.0,3,1957,
 326,Villa,Klintevej 2A,4591, Føllenslev,350000 ,20-02-1995,Alm. Salg,102,3431.0,3,1987,
-326,Ejerlejlighed,Fabrikvej 15,4470, Svebølle,196568 ,19-02-1995,Alm. Salg,58,3389.0,3,1900,
-326,Ejerlejlighed,Jernbanevej 42,4470, Svebølle,196568 ,19-02-1995,Alm. Salg,58,3389.0,4,1900,
 326,Villa,Slagelsevej 53,4270, Høng,640000 ,19-02-1995,Alm. Salg,136,4706.0,3,1965,
 326,Villa,Tværstenen 19,4281, Gørlev,463000 ,19-02-1995,Alm. Salg,144,3215.0,5,1965,
 326,Villa,Byvej 23,4591, Føllenslev,33000 ,19-02-1995,Fam. Salg,63,524.0,4,1880,
@@ -21949,7 +21767,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Rækkehus,Hørkærhaven 32A,4490, Jerslev Sjælland,300000 ,20-11-1994,Alm. Salg,83,3614.0,3,1986,
 326,Rækkehus,Poulas Alle 31,4400, Kalundborg,485000 ,20-11-1994,Alm. Salg,112,4330.0,3,1917,
 326,Villa,Sultenkrog 2,4450, Jyderup,150000 ,20-11-1994,Alm. Salg,108,1389.0,3,1900,
-326,Villa,Flinterupvej 89,4480, Store Fuglede,80000 ,20-11-1994,Alm. Salg,105,762.0,4,1927,
 326,Villa,Møllehøj 16,4591, Føllenslev,498000 ,20-11-1994,Alm. Salg,111,4486.0,4,1987,
 326,Villa,Gl Rørbyvej 12,4400, Kalundborg,380000 ,20-11-1994,Alm. Salg,145,2621.0,4,1962,
 326,Villa,Toelstangsvej 50,4200, Slagelse,390000 ,20-11-1994,Alm. Salg,104,3750.0,3,1900,
@@ -22530,9 +22347,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Klintedalsvej 48,4400, Kalundborg,1400000 ,30-03-1994,Alm. Salg,373,3753.0,8,1905,
 326,Villa,Rævebakken 19,4400, Kalundborg,692400 ,29-03-1994,Alm. Salg,168,4121.0,4,1972,
 326,Villa,Vestergade 25,4270, Høng,407500 ,29-03-1994,Alm. Salg,93,4382.0,3,1949,
-326,Ejerlejlighed,"Parcelvej 22, 1",4470, Svebølle,870000 ,28-03-1994,Andet,60,14500.0,3,1943,
 326,Villa,Tuborgvej 11,4281, Gørlev,500000 ,28-03-1994,Alm. Salg,130,3846.0,3,2009,
-326,Villa,Parcelvej 24,4470, Svebølle,870000 ,28-03-1994,Andet,108,8056.0,3,1947,
 326,Villa,Nybyvej 28,4400, Kalundborg,360000 ,28-03-1994,Fam. Salg,221,1629.0,6,1880,
 326,Rækkehus,Slagelsevej 87,4400, Kalundborg,490000 ,27-03-1994,Alm. Salg,101,4851.0,4,1917,
 326,Villa,Faksbjergvej 2,4470, Svebølle,525000 ,27-03-1994,Alm. Salg,121,4339.0,4,1973,
@@ -22541,7 +22356,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Kildevej 11,4470, Svebølle,490000 ,25-03-1994,Alm. Salg,114,4298.0,4,1976,
 326,Villa,Ulstrup Vænge 10,4400, Kalundborg,465000 ,25-03-1994,Alm. Salg,83,5602.0,4,1962,
 326,Villa,Asser Rigsvej 12,4400, Kalundborg,513800 ,23-03-1994,Alm. Salg,173,2970.0,5,1968,
-326,Villa,Skovvejen 24A,4281, Gørlev,221000 ,23-03-1994,Alm. Salg,122,1811.0,4,1949,
 326,Villa,Humlehaven 42,4400, Kalundborg,770550 ,23-03-1994,Alm. Salg,156,4939.0,6,1980,
 326,Villa,Rubjerg Alle 7,4400, Kalundborg,690000 ,23-03-1994,Alm. Salg,106,6509.0,5,1930,
 326,Villa,Sandbjergvej 27,4400, Kalundborg,156000 ,23-03-1994,Alm. Salg,192,813.0,8,1969,
@@ -22560,7 +22374,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Krogsgårdvej 1,4270, Høng,692411 ,18-03-1994,Alm. Salg,140,4946.0,3,1941,
 326,Villa,Søndergade 9,4490, Jerslev Sjælland,550000 ,18-03-1994,Alm. Salg,124,4435.0,4,1970,
 326,Villa,Ved Gærdet 5,4270, Høng,465000 ,17-03-1994,Alm. Salg,106,4387.0,3,1968,
-326,Rækkehus,Borrehaven 6,4270, Høng,1927500 ,16-03-1994,Alm. Salg,108,17847.0,4,1988,
 326,Villa,Sæbyvej 24,4270, Høng,131000 ,16-03-1994,Alm. Salg,274,478.0,6,1900,
 326,Villa,Reerslevvej 29,4291, Ruds Vedby,310000 ,16-03-1994,Alm. Salg,186,1667.0,9,1905,
 326,Villa,Slagelsevej 24,4400, Kalundborg,165000 ,16-03-1994,Alm. Salg,99,1667.0,5,1913,
@@ -22694,11 +22507,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Gisselørevej 31,4400, Kalundborg,764000 ,24-01-1994,Alm. Salg,159,4805.0,7,1914,
 326,Villa,Råes Vænge 44,4400, Kalundborg,518600 ,24-01-1994,Alm. Salg,206,2517.0,5,1976,
 326,Villa,Vesterbjergvej 5,4460, Snertinge,664566 ,24-01-1994,Alm. Salg,135,4923.0,5,1984,
-326,Ejerlejlighed,"Elmegade 3B, 1",4400, Kalundborg,500000 ,23-01-1994,Alm. Salg,67,7463.0,2,2004,
-326,Ejerlejlighed,"Elmegade 3B, st",4400, Kalundborg,500000 ,23-01-1994,Alm. Salg,67,7463.0,2,2004,
-326,Ejerlejlighed,"Nygade 7, st",4400, Kalundborg,500000 ,23-01-1994,Alm. Salg,67,7463.0,2,1901,
-326,Ejerlejlighed,"Nygade 7, 1",4400, Kalundborg,500000 ,23-01-1994,Alm. Salg,67,7463.0,2,1901,
-326,Ejerlejlighed,"Nygade 7, 2",4400, Kalundborg,500000 ,23-01-1994,Alm. Salg,43,11628.0,3,1901,
 326,Villa,Slagelsevej 31,4400, Kalundborg,745000 ,23-01-1994,Alm. Salg,153,4869.0,7,1936,
 326,Rækkehus,Søkrogen 3A,4281, Gørlev,148000 ,20-01-1994,Alm. Salg,49,3020.0,1,1977,
 326,Ejerlejlighed,"Nørre Alle 52, 1. th",4400, Kalundborg,320000 ,20-01-1994,Alm. Salg,74,4324.0,3,1963,
@@ -22757,7 +22565,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Bødkervænget 5,4270, Høng,400648 ,10-12-1993,Alm. Salg,100,4006.0,3,1963,
 326,Rækkehus,Birchsgade 6,4400, Kalundborg,495000 ,08-12-1993,Alm. Salg,82,6037.0,3,1906,
 326,Villa,Vollerupvej 62,4400, Kalundborg,130000 ,08-12-1993,Alm. Salg,124,1048.0,4,1872,
-326,Ejerlejlighed,Mindevej 6B,4470, Svebølle,236654 ,07-12-1993,Alm. Salg,57,4152.0,2,1979,
 326,Villa,Dækagervej 8,4200, Slagelse,660000 ,07-12-1993,Alm. Salg,130,5077.0,3,1909,
 326,Villa,Flinterupvej 66,4480, Store Fuglede,295000 ,06-12-1993,Alm. Salg,88,3352.0,2,1972,
 326,Ejerlejlighed,"Nygade 14, 2. th",4400, Kalundborg,191387 ,03-12-1993,Alm. Salg,59,3244.0,2,1918,
@@ -23198,7 +23005,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Gåsetoftevej 78,4400, Kalundborg,705000 ,25-05-1993,Alm. Salg,283,2491.0,10,1924,
 326,Rækkehus,Lundevej 23B,4400, Kalundborg,525000 ,24-05-1993,Alm. Salg,111,4730.0,4,1898,
 326,Villa,Bøgevej 1,4490, Jerslev Sjælland,665000 ,24-05-1993,Auktion,177,3757.0,5,1972,
-326,Villa,Røsnæsvej 337A,4400, Kalundborg,65180 ,24-05-1993,Alm. Salg,146,446.0,5,1915,
 326,Villa,Slagelsevej 23,4460, Snertinge,175000 ,23-05-1993,Alm. Salg,174,1006.0,6,1830,
 326,Villa,Højdedraget 7,4400, Kalundborg,582780 ,23-05-1993,Alm. Salg,167,3490.0,5,1968,
 326,Villa,Sejerbyvej 10,4592, Sejerø,198000 ,23-05-1993,Alm. Salg,91,2176.0,5,1900,
@@ -23586,8 +23392,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Rækkehus,Toftegårdsvej 2E,4591, Føllenslev,325000 ,22-10-1992,Alm. Salg,92,3533.0,3,1978,
 326,Rækkehus,Gartnervænget 13,4490, Jerslev Sjælland,355000 ,22-10-1992,Alm. Salg,85,4176.0,3,1979,
 326,Villa,Røsnæsvej 271,4400, Kalundborg,365000 ,22-10-1992,Alm. Salg,128,2852.0,4,1956,
-326,Villa,"Skibbrogade 12D, st",4400, Kalundborg,650000 ,21-10-1992,Alm. Salg,50,13000.0,2,1879,
-326,Villa,Møllevangen 24,4400, Kalundborg,569939 ,20-10-1992,Andet,117,4871.0,4,1961,
 326,Villa,Frederiksberg 3,4470, Svebølle,590000 ,20-10-1992,Alm. Salg,133,4436.0,4,1946,
 326,Villa,Valentin Jensensvej 13,4400, Kalundborg,435000 ,19-10-1992,Alm. Salg,117,3718.0,5,1932,
 326,Villa,Skolelodden 5,4480, Store Fuglede,470712 ,18-10-1992,Alm. Salg,115,4093.0,3,1972,
@@ -23805,7 +23609,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Apotekervej 5,4460, Snertinge,320000 ,17-07-1992,Alm. Salg,82,3902.0,2,1918,
 326,Villa,Bakkendrupvej 30,4480, Store Fuglede,500000 ,17-07-1992,Alm. Salg,225,2222.0,5,1910,
 326,Villa,Sæbyvej 22,4270, Høng,490000 ,16-07-1992,Alm. Salg,108,4537.0,3,1915,
-326,Villa,Kordilgade 58C,4400, Kalundborg,387500 ,16-07-1992,Andet,68,5699.0,2,1911,
 326,Villa,Ole Lundsvej 5,4400, Kalundborg,657000 ,16-07-1992,Andet,103,6379.0,3,1919,
 326,Villa,Årbygade 21,4400, Kalundborg,205000 ,15-07-1992,Alm. Salg,61,3361.0,2,1930,
 326,Villa,Urhøjvej 30,4480, Store Fuglede,585000 ,15-07-1992,Alm. Salg,227,2577.0,6,1912,
@@ -23902,10 +23705,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Rugvænget 4,4270, Høng,635000 ,16-06-1992,Alm. Salg,136,4669.0,4,1977,
 326,Villa,Ærøvej 6,4270, Høng,687000 ,15-06-1992,Alm. Salg,153,4490.0,6,1973,
 326,Villa,Svalevej 3,4591, Føllenslev,440000 ,15-06-1992,Alm. Salg,101,4356.0,4,1978,
-326,Ejerlejlighed,"Lindegade 1, st",4400, Kalundborg,600000 ,14-06-1992,Fam. Salg,46,13043.0,2,1681,
-326,Ejerlejlighed,"Lindegade 1, 1. tv",4400, Kalundborg,600000 ,14-06-1992,Fam. Salg,70,8571.0,2,1681,
-326,Ejerlejlighed,"Lindegade 1, 1. th",4400, Kalundborg,600000 ,14-06-1992,Fam. Salg,114,5263.0,4,1681,
-326,Ejerlejlighed,"Skibbrogade 55, 1",4400, Kalundborg,600000 ,14-06-1992,Fam. Salg,103,5825.0,4,1681,
 326,Villa,Hallenslevvej 43,4281, Gørlev,325000 ,14-06-1992,Alm. Salg,87,3736.0,3,1900,
 326,Villa,Nykøbingvej 38,4460, Snertinge,330000 ,14-06-1992,Alm. Salg,134,2463.0,5,1934,
 326,Villa,Skolevænget 34,4470, Svebølle,290764 ,14-06-1992,Auktion,101,2879.0,3,1957,
@@ -23949,7 +23748,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Lynggårdsbakken 28,4400, Kalundborg,343197 ,25-05-1992,Alm. Salg,124,2768.0,6,1973,
 326,Villa,Dybekær 7,4281, Gørlev,374000 ,25-05-1992,Alm. Salg,108,3463.0,3,1950,
 326,Villa,J Th Lundbyesvej 7,4400, Kalundborg,710000 ,24-05-1992,Fam. Salg,150,4733.0,5,1965,
-326,Villa,Møllevangen 24,4400, Kalundborg,360000 ,24-05-1992,Auktion,117,3077.0,4,1961,
 326,Villa,Tranevej 31,4270, Høng,640000 ,24-05-1992,Alm. Salg,130,4923.0,5,1920,
 326,Villa,Grydemøllevej 1,4470, Svebølle,135000 ,24-05-1992,Alm. Salg,118,1144.0,3,1993,
 326,Villa,Pilebakken 8,4400, Kalundborg,705000 ,24-05-1992,Alm. Salg,212,3325.0,8,1970,
@@ -24313,7 +24111,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 326,Villa,Hovedgaden 80,4490, Jerslev Sjælland,556000 ,08-01-1992,Fam. Salg,174,3195.0,6,1948,
 326,Villa,Lindevej 6,4470, Svebølle,285000 ,07-01-1992,Alm. Salg,136,2096.0,4,1915,
 326,Villa,Granlyvænget 13,4400, Kalundborg,528000 ,07-01-1992,Fam. Salg,107,4935.0,4,1968,
-326,Villa,Rørmosevej 6A,4400, Kalundborg,650000 ,06-01-1992,Alm. Salg,210,3095.0,5,1909,
 326,Villa,Lindebjergvej 10,4460, Snertinge,710000 ,06-01-1992,Alm. Salg,173,4104.0,5,1917,
 326,Villa,Bregningevej 1,4593, Eskebjerg,452000 ,06-01-1992,Alm. Salg,102,4431.0,5,1898,
 326,Ejerlejlighed,"Sct Jørgensbjerg 10, 1",4400, Kalundborg,250000 ,05-01-1992,Alm. Salg,90,2778.0,4,1800,

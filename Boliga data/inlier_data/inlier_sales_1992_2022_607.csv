@@ -8,7 +8,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Krybily Allé 23,7000, Fredericia,1795000 ,20-12-2022,Alm. Salg,181,9917,6,1978,
 607,Villa,Mosegårdsvej 51,7000, Fredericia,1660000 ,20-12-2022,Alm. Salg,88,18864,4,1964,-2%
 607,Villa,Birkholmvej 21,7000, Fredericia,2510000 ,20-12-2022,Alm. Salg,238,10546,8,1974,
-607,Villa,Martine Christoffersens Vej 57A,7000, Fredericia,2775000 ,20-12-2022,Alm. Salg,129,21512,5,2019,-2%
 607,Villa,Skyttevej 34,7000, Fredericia,994580 ,19-12-2022,Andet,179,5556,3,1967,
 607,Villa,Snebærvænget 5,7000, Fredericia,1101000 ,19-12-2022,Alm. Salg,103,10689,4,1973,1%
 607,Villa,Krügersvej 28B,7000, Fredericia,1050000 ,17-12-2022,Alm. Salg,150,7000,4,1964,
@@ -35,9 +34,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Æblehaven 1,7000, Fredericia,1175000 ,28-11-2022,Alm. Salg,152,7730,5,1999,
 607,Villa,Sybergsvej 12,7000, Fredericia,1695000 ,28-11-2022,Alm. Salg,181,9365,6,1973,
 607,Rækkehus,Marstrandsvænget 16,7000, Fredericia,900000 ,24-11-2022,Alm. Salg,80,11250,3,1966,-10%
-607,Ejerlejlighed,Prinsensgade 6A,7000, Fredericia,1175000 ,23-11-2022,Alm. Salg,79,14873,2,1870,-21%
 607,Villa,Martinsvej 21,7000, Fredericia,2295000 ,23-11-2022,Alm. Salg,172,13343,8,1917,-4%
-607,Villa,Druehaven 10,7000, Fredericia,1175000 ,23-11-2022,Alm. Salg,136,8640,5,1979,-9%
 607,Villa,Ellipsen 14,7000, Fredericia,673603 ,23-11-2022,Andet,99,6804,4,1988,
 607,Villa,Snoghøj Landevej 99,7000, Fredericia,800000 ,23-11-2022,Alm. Salg,165,4848,5,1935,
 607,Villa,Ægirsvej 50,7000, Fredericia,1470000 ,23-11-2022,Alm. Salg,124,11855,4,1963,-5%
@@ -104,7 +101,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Fuglebakken 20,7000, Fredericia,2325000 ,11-10-2022,Alm. Salg,143,16259,5,1998,-3%
 607,Ejerlejlighed,"Ydunsvej 30, 2. th",7000, Fredericia,651000 ,10-10-2022,Alm. Salg,74,8797,3,1960,-6%
 607,Villa,Rødkjærsvej 7,7000, Fredericia,1525000 ,10-10-2022,Alm. Salg,113,13496,4,1969,-4%
-607,Villa,Fuglsang Allé 64,7000, Fredericia,3595000 ,10-10-2022,Alm. Salg,165,21788,6,2022,
 607,Villa,Agernvænget 7,7000, Fredericia,2775000 ,09-10-2022,Alm. Salg,152,18257,6,1998,-6%
 607,Villa,Elboparken 33,7000, Fredericia,1150000 ,09-10-2022,Alm. Salg,143,8042,4,1965,-4%
 607,Villa,Ravnsgårdsvej 15,7000, Fredericia,3075000 ,09-10-2022,Alm. Salg,175,17571,6,1993,-4%
@@ -160,7 +156,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Ejerlejlighed,"Jernbanegade 17, 2. tv",7000, Fredericia,750000 ,07-09-2022,Fam. Salg,67,11194,2,1935,
 607,Villa,Hannerup Engvej 60,7000, Fredericia,950500 ,07-09-2022,Andet,152,6253,4,1000,
 607,Villa,Argentinervej 15,7000, Fredericia,1475000 ,07-09-2022,Alm. Salg,151,9768,4,2020,
-607,Villa,Fuglsang Allé 105,7000, Fredericia,4200000 ,07-09-2022,Alm. Salg,182,23077,7,2021,-4%
 607,Rækkehus,Stævnebogårdsvej 7,7000, Fredericia,1375000 ,06-09-2022,Alm. Salg,143,9615,5,1977,-14%
 607,Villa,Fregatvænget 16,7000, Fredericia,2100000 ,06-09-2022,Alm. Salg,138,15217,5,1979,-4%
 607,Villa,Kløvervej 16,7000, Fredericia,1950000 ,06-09-2022,Alm. Salg,139,14029,4,1961,-2%
@@ -197,11 +192,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Fuglsang Allé 97,7000, Fredericia,825000 ,14-08-2022,Alm. Salg,155,5323,5,2023,
 607,Villa,Fuglsang Allé 81,7000, Fredericia,4170000 ,13-08-2022,Alm. Salg,200,20850,6,2021,-3%
 607,Villa,Ekkodalen 1,7000, Fredericia,2850000 ,12-08-2022,Alm. Salg,173,16474,5,1986,-5%
-607,Villa,Fuglsang Allé 94,7000, Fredericia,5000000 ,12-08-2022,Alm. Salg,227,22026,5,2022,
 607,Villa,Pilevej 7,7000, Fredericia,1225000 ,11-08-2022,Alm. Salg,124,9879,4,1966,-5%
 607,Villa,Højdedraget 34,7000, Fredericia,1250000 ,11-08-2022,Alm. Salg,146,8562,7,1979,213%
 607,Villa,Violvej 1B,7000, Fredericia,1350000 ,11-08-2022,Alm. Salg,86,15698,3,1960,
-607,Villa,Puggårdsvej 17,7000, Fredericia,3545000 ,11-08-2022,Alm. Salg,158,22437,5,2016,-4%
 607,Ejerlejlighed,"Jernbanegade 13, 2. th",7000, Fredericia,1300000 ,10-08-2022,Alm. Salg,106,12264,3,1935,-7%
 607,Villa,Christiansvej 9,7000, Fredericia,900000 ,10-08-2022,Alm. Salg,179,5028,6,1961,
 607,Villa,Ravnsgårdsvej 93,7000, Fredericia,3100000 ,10-08-2022,Alm. Salg,145,21379,5,1995,-3%
@@ -267,10 +260,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Egeskovvej 26,7000, Fredericia,1600000 ,27-06-2022,Alm. Salg,110,14545,6,1920,-19%
 607,Villa,Brovadvej 20,7000, Fredericia,1350000 ,26-06-2022,Alm. Salg,118,11441,4,1964,-10%
 607,Villa,Rødtjørnevej 4,7000, Fredericia,2795000 ,26-06-2022,Alm. Salg,167,16737,5,2007,
-607,Villa,Antonio Costas Vej 12,7000, Fredericia,4500000 ,24-06-2022,Alm. Salg,200,22500,5,2004,-6%
 607,Villa,Prangervej 63,7000, Fredericia,900000 ,23-06-2022,Fam. Salg,123,7317,5,1962,
-607,Ejerlejlighed,Dronningensgade 50A,7000, Fredericia,1300000 ,22-06-2022,Fam. Salg,114,11404,4,1890,
-607,Villa,Dådyrvej 7,7000, Fredericia,1300000 ,22-06-2022,Alm. Salg,117,11111,5,1963,-7%
 607,Villa,Rønnevænget 2,7000, Fredericia,1850000 ,20-06-2022,Alm. Salg,135,13704,5,1967,-16%
 607,Villa,Ågade 27,7000, Fredericia,1395000 ,17-06-2022,Alm. Salg,112,12455,4,1964,
 607,Villa,Lærkevej 13,7000, Fredericia,1200000 ,16-06-2022,Fam. Salg,137,8759,4,1923,
@@ -296,7 +286,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Fuglsang Allé 108,7000, Fredericia,850000 ,08-06-2022,Alm. Salg,173,4913,5,2022,
 607,Villa,Jagtvej 6,7000, Fredericia,1008065 ,07-06-2022,Fam. Salg,154,6546,5,1961,
 607,Villa,Agertoften 6,7000, Fredericia,1600000 ,07-06-2022,Alm. Salg,103,15534,4,1973,-3%
-607,Villa,Nymarksvej 3,7000, Fredericia,2250000 ,06-06-2022,Alm. Salg,98,22959,4,1922,
 607,Ejerlejlighed,"Kongensgade 41, st. tv",7000, Fredericia,1175000 ,03-06-2022,Alm. Salg,73,16096,2,1982,-2%
 607,Villa,Møllebovænget 11,7000, Fredericia,1402500 ,03-06-2022,Fam. Salg,213,6585,7,1983,
 607,Villa,Grønkjærsvej 28,7000, Fredericia,2300000 ,02-06-2022,Alm. Salg,196,11735,7,1972,-8%
@@ -330,7 +319,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Bytoften 27,7000, Fredericia,1900000 ,22-05-2022,Alm. Salg,151,12583,5,1991,
 607,Villa,Snoghøj Landevej 99,7000, Fredericia,600000 ,22-05-2022,Alm. Salg,165,3636,5,1935,
 607,Villa,Skippervænget 14,7000, Fredericia,1275000 ,21-05-2022,Alm. Salg,112,11384,4,1977,-7%
-607,Rækkehus,Agertoften 39,7000, Fredericia,1225000 ,20-05-2022,Alm. Salg,54,22685,2,1970,-5%
 607,Villa,Krybily Allé 10,7000, Fredericia,2195000 ,20-05-2022,Alm. Salg,140,15679,6,1999,
 607,Villa,Vandgyden 7,7000, Fredericia,1195000 ,19-05-2022,Alm. Salg,128,9336,4,1728,
 607,Villa,Dalagervej 5,7000, Fredericia,380000 ,19-05-2022,Fam. Salg,157,2420,6,1965,
@@ -390,7 +378,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Sivvænget 9,7000, Fredericia,2870000 ,24-04-2022,Alm. Salg,152,18882,6,2017,
 607,Villa,Krengerupvej 39,7000, Fredericia,2295000 ,24-04-2022,Alm. Salg,120,19125,5,1979,
 607,Villa,Gl. Færgevej 5,7000, Fredericia,1778500 ,23-04-2022,Fam. Salg,242,7349,6,1888,
-607,Villa,Fælledvej 60,7000, Fredericia,6640000 ,23-04-2022,Alm. Salg,303,21914,7,1953,
 607,Villa,Rødkjærsvej 10,7000, Fredericia,1875000 ,23-04-2022,Alm. Salg,122,15369,4,1970,-1%
 607,Villa,Christiansvej 17,7000, Fredericia,1775000 ,22-04-2022,Alm. Salg,155,11452,5,1964,-4%
 607,Rækkehus,Vangevej 47,7000, Fredericia,1350000 ,21-04-2022,Alm. Salg,86,15698,4,1972,4%
@@ -406,7 +393,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Devantiersvej 20,7000, Fredericia,1945000 ,19-04-2022,Alm. Salg,105,18524,4,1978,
 607,Villa,Magnoliavænget 8,7000, Fredericia,1550000 ,18-04-2022,Alm. Salg,143,10839,4,1972,0%
 607,Villa,Peder Bøgvads Vej 45,7000, Fredericia,2975000 ,17-04-2022,Alm. Salg,154,19318,6,2006,-1%
-607,Villa,Fuglsang Allé 66,7000, Fredericia,3523503 ,14-04-2022,Alm. Salg,156,22587,6,2022,
 607,Villa,Kobbelgårdsvej 22,7000, Fredericia,3195000 ,12-04-2022,Alm. Salg,172,18576,7,1998,
 607,Villa,Kildebakken 31,7000, Fredericia,758286 ,12-04-2022,Andet,133,5701,5,1973,
 607,Villa,Fuglsang Allé 54,7000, Fredericia,700000 ,12-04-2022,Alm. Salg,170,4118,6,2022,
@@ -430,7 +416,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Safirvej 10,7000, Fredericia,2240000 ,05-04-2022,Alm. Salg,163,13742,5,1971,-2%
 607,Villa,Lyøvænget 18,7000, Fredericia,1745000 ,05-04-2022,Alm. Salg,143,12203,5,1973,
 607,Villa,Ekkodalen 9,7000, Fredericia,1041420 ,05-04-2022,Fam. Salg,151,6897,6,1988,
-607,Villa,Fuglsang Allé 62,7000, Fredericia,3492500 ,05-04-2022,Alm. Salg,156,22388,6,2022,
 607,Rækkehus,Havepladsvej 183,7000, Fredericia,650000 ,04-04-2022,Fam. Salg,110,5909,4,1962,
 607,Villa,Uranusvænget 2,7000, Fredericia,2025000 ,04-04-2022,Alm. Salg,151,13411,5,1972,2%
 607,Villa,Plantagevej 58,7000, Fredericia,2195000 ,04-04-2022,Alm. Salg,114,19254,4,1984,
@@ -438,7 +423,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Grønlandsvej 9,7000, Fredericia,1595000 ,03-04-2022,Alm. Salg,98,16276,4,1942,
 607,Villa,Brahesborgvej 34,7000, Fredericia,1077500 ,03-04-2022,Andet,148,7280,6,1980,
 607,Villa,Baunevænget 8,7000, Fredericia,1865000 ,03-04-2022,Alm. Salg,128,14570,4,1976,
-607,Villa,Toldbodvej 31,7000, Fredericia,3060000 ,02-04-2022,Alm. Salg,135,22667,4,1988,2%
 607,Villa,Rosenhaven 6,7000, Fredericia,814000 ,02-04-2022,Alm. Salg,137,5942,5,1998,
 607,Ejerlejlighed,Lundtoften 2D,7000, Fredericia,600000 ,31-03-2022,Alm. Salg,55,10909,2,1971,
 607,Villa,Hans Egedes Vej 7,7000, Fredericia,1250000 ,31-03-2022,Alm. Salg,101,12376,4,1961,
@@ -501,7 +485,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Jægervej 9,7000, Fredericia,1325000 ,08-03-2022,Alm. Salg,114,11623,4,1959,-2%
 607,Villa,Skovbrynet 10,7000, Fredericia,1360000 ,08-03-2022,Alm. Salg,128,10625,4,1965,-3%
 607,Villa,Krogsagervej 37,7000, Fredericia,1832000 ,08-03-2022,Alm. Salg,156,11744,5,1973,
-607,Villa,Fuglsang Allé 84,7000, Fredericia,3395000 ,08-03-2022,Alm. Salg,156,21763,5,2022,
 607,Villa,Fuglsang Allé 132,7000, Fredericia,1000000 ,07-03-2022,Alm. Salg,189,5291,5,2023,
 607,Villa,Fuglsang Allé 104,7000, Fredericia,775350 ,07-03-2022,Alm. Salg,183,4237,6,0,
 607,Villa,Fuglsang Allé 61,7000, Fredericia,725000 ,07-03-2022,Alm. Salg,146,4966,5,2023,
@@ -518,8 +501,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Rækkehus,6.Julivej 18,7000, Fredericia,1940000 ,02-03-2022,Alm. Salg,96,20208,3,1896,-3%
 607,Villa,Krybily Allé 11,7000, Fredericia,1675000 ,02-03-2022,Alm. Salg,147,11395,4,1977,-4%
 607,Villa,Bågøvænget 19,7000, Fredericia,2460000 ,02-03-2022,Alm. Salg,163,15092,6,1973,
-607,Villa,Bjørnøvænget 7,7000, Fredericia,3600000 ,02-03-2022,Alm. Salg,157,22930,5,2022,
-607,Villa,Agersøvænget 6,7000, Fredericia,3600000 ,01-03-2022,Alm. Salg,157,22930,5,2022,
 607,Villa,Martine Christoffersens Vej 61,7000, Fredericia,3475000 ,01-03-2022,Alm. Salg,179,19413,6,2011,-1%
 607,Ejerlejlighed,"Vendersgade 21, 1",7000, Fredericia,2000000 ,28-02-2022,Alm. Salg,155,12903,5,1890,
 607,Ejerlejlighed,"Falkevej 6, 2",7000, Fredericia,750000 ,28-02-2022,Alm. Salg,75,10000,2,1933,-6%
@@ -569,7 +550,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Rosenhaven 9,7000, Fredericia,3650000 ,14-02-2022,Alm. Salg,240,15208,7,1998,-6%
 607,Villa,Carit Etlars Vej 20,7000, Fredericia,1165000 ,13-02-2022,Alm. Salg,99,11768,4,1964,-3%
 607,Villa,Fuglsang Allé 82,7000, Fredericia,3498450 ,13-02-2022,Alm. Salg,165,21203,5,2022,0%
-607,Villa,Fuglsang Allé 80,7000, Fredericia,3395000 ,10-02-2022,Alm. Salg,156,21763,5,2022,
 607,Ejerlejlighed,"Dalegade 40B, st",7000, Fredericia,1295000 ,09-02-2022,Alm. Salg,90,14389,3,1925,
 607,Villa,Ved Storkereden 1,7000, Fredericia,1995000 ,09-02-2022,Alm. Salg,145,13759,5,1850,
 607,Villa,Sivvænget 10,7000, Fredericia,403000 ,09-02-2022,Alm. Salg,172,2343,4,2022,
@@ -587,7 +567,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Toldbodvej 19,7000, Fredericia,1300000 ,02-02-2022,Andet,169,7692,5,1980,
 607,Villa,Tunøvej 4A,7000, Fredericia,2158500 ,02-02-2022,Andet,167,12925,6,1934,
 607,Villa,Højdedraget 26,7000, Fredericia,1790000 ,02-02-2022,Alm. Salg,144,12431,4,1974,
-607,Villa,Argentinervej 63,7000, Fredericia,4425000 ,02-02-2022,Alm. Salg,190,23289,4,2017,-4%
 607,Ejerlejlighed,"Fynsgade 9, 1. th",7000, Fredericia,1125000 ,01-02-2022,Alm. Salg,94,11968,2,1905,
 607,Villa,Treldevej 140,7000, Fredericia,1000000 ,01-02-2022,Alm. Salg,88,11364,4,1956,
 607,Villa,Ågade 25,7000, Fredericia,1151000 ,31-01-2022,Alm. Salg,111,10369,6,1965,5%
@@ -746,7 +725,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Jægervej 21,7000, Fredericia,2175000 ,20-11-2021,Alm. Salg,167,13024,5,1956,
 607,Villa,Omøvænget 2,7000, Fredericia,750000 ,19-11-2021,Alm. Salg,172,4360,4,2023,
 607,Villa,6.Julivej 43,7000, Fredericia,2520000 ,18-11-2021,Alm. Salg,140,18000,6,1923,
-607,Villa,Drosselvej 6,7000, Fredericia,3400000 ,18-11-2021,Alm. Salg,154,22078,6,1951,-3%
 607,Villa,Carl Blochs Vej 12,7000, Fredericia,279601 ,17-11-2021,Andet,127,2202,5,1972,
 607,Villa,Skærbæk Møllevej 8,7000, Fredericia,1791500 ,17-11-2021,Andet,214,8371,5,1988,
 607,Villa,Aarestrupsvej 12,7000, Fredericia,1775000 ,17-11-2021,Alm. Salg,162,10957,5,1920,
@@ -775,7 +753,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Jens Thuesens Vej 30,7000, Fredericia,1112000 ,06-11-2021,Alm. Salg,128,8688,4,1972,-11%
 607,Villa,Nørrebrogade 55,7000, Fredericia,3350000 ,06-11-2021,Alm. Salg,236,14195,6,1933,-4%
 607,Villa,Elboskrænten 6,7000, Fredericia,2395000 ,05-11-2021,Alm. Salg,201,11915,7,1975,
-607,Villa,Ravnsgårdsvej 109,7000, Fredericia,6675000 ,04-11-2021,Alm. Salg,297,22475,6,2008,-5%
 607,Ejerlejlighed,"Prinsensgade 4, st. th",7000, Fredericia,875000 ,03-11-2021,Alm. Salg,63,13889,3,1897,-7%
 607,Villa,Tolstrup Allé 5,7000, Fredericia,500000 ,03-11-2021,Alm. Salg,74,6757,5,1807,
 607,Villa,Holmemarksvej 51,7000, Fredericia,3850000 ,03-11-2021,Alm. Salg,249,15462,6,1959,
@@ -830,12 +807,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Topasvænget 8,7000, Fredericia,1055000 ,10-10-2021,Alm. Salg,154,6851,5,1969,-4%
 607,Villa,Baunegårdsvej 74,7000, Fredericia,2395000 ,10-10-2021,Alm. Salg,180,13306,6,1973,
 607,Villa,Havepladsvej 125,7000, Fredericia,1550000 ,10-10-2021,Fam. Salg,131,11832,4,1954,
-607,Villa,Krogtoftevej 9,7000, Fredericia,2283000 ,09-10-2021,Alm. Salg,103,22165,4,1981,
 607,Villa,Primulavej 19,7000, Fredericia,2375000 ,07-10-2021,Alm. Salg,126,18849,4,1931,-1%
-607,Villa,Anders Billes Vej 12,7000, Fredericia,2495000 ,07-10-2021,Alm. Salg,113,22080,5,1915,
 607,Villa,Jadevænget 7,7000, Fredericia,700000 ,06-10-2021,Alm. Salg,136,5147,5,1969,-30%
 607,Villa,Fagerlien 6,7000, Fredericia,350000 ,06-10-2021,Alm. Salg,55,6364,3,1900,-29%
-607,Rækkehus,Snoghøjparken 1,7000, Fredericia,2700000 ,05-10-2021,Alm. Salg,124,21774,3,1978,
 607,Ejerlejlighed,"Jernbanegade 15, 3. tv",7000, Fredericia,880000 ,05-10-2021,Alm. Salg,84,10476,4,1935,-2%
 607,Villa,I. P. Hartmanns Vej 9,7000, Fredericia,1050000 ,04-10-2021,Alm. Salg,114,9211,4,1967,
 607,Villa,Thurøvænget 19,7000, Fredericia,3430000 ,03-10-2021,Alm. Salg,194,17680,5,1981,
@@ -865,7 +839,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Morbærvej 8,7000, Fredericia,246636 ,22-09-2021,Alm. Salg,135,1827,5,1985,
 607,Villa,Ildtornvej 19,7000, Fredericia,1885000 ,22-09-2021,Alm. Salg,115,16391,4,1971,
 607,Villa,Saturnvænget 13,7000, Fredericia,1951000 ,22-09-2021,Alm. Salg,158,12348,5,1968,
-607,Villa,Nørrebrogade 57,7000, Fredericia,4220000 ,22-09-2021,Alm. Salg,196,21531,4,1967,1%
 607,Villa,Thurøvænget 8,7000, Fredericia,2605000 ,21-09-2021,Alm. Salg,166,15693,4,1979,4%
 607,Villa,Sanddalvej 8,7000, Fredericia,1900000 ,21-09-2021,Alm. Salg,147,12925,5,1959,
 607,Rækkehus,Erritsøgårdsvej 93,7000, Fredericia,850000 ,20-09-2021,Alm. Salg,108,7870,4,1979,
@@ -962,7 +935,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Vidtskuevej 31,7000, Fredericia,930000 ,14-08-2021,Alm. Salg,120,7750,4,1906,-7%
 607,Villa,Sybergsvej 5,7000, Fredericia,1375000 ,13-08-2021,Alm. Salg,111,12387,4,1967,
 607,Villa,Grundtvigsvej 16,7000, Fredericia,2600000 ,12-08-2021,Alm. Salg,159,16352,5,1935,-4%
-607,Villa,Overmarken 19,7000, Fredericia,2800000 ,12-08-2021,Alm. Salg,123,22764,4,2008,4%
 607,Villa,Dalgasvej 2,7000, Fredericia,1500000 ,11-08-2021,Alm. Salg,183,8197,7,1929,-14%
 607,Villa,Jens Kromanns Vej 3,7000, Fredericia,2950000 ,11-08-2021,Alm. Salg,160,18438,7,1937,-2%
 607,Rækkehus,Bissensvej 71,7000, Fredericia,1237500 ,10-08-2021,Alm. Salg,100,12375,3,1967,-1%
@@ -980,7 +952,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Højvangs Allé 4,7000, Fredericia,1450000 ,03-08-2021,Alm. Salg,122,11885,4,1971,-6%
 607,Villa,Urtehaven 4,7000, Fredericia,508492 ,03-08-2021,Fam. Salg,137,3712,5,1976,
 607,Rækkehus,Anchersvej 41,7000, Fredericia,1820000 ,02-08-2021,Alm. Salg,146,12466,5,1977,1%
-607,Villa,6.Julivej 64,7000, Fredericia,4550000 ,02-08-2021,Alm. Salg,208,21875,5,1951,
 607,Villa,H. C. Andersens Vej 2,7000, Fredericia,2150000 ,02-08-2021,Alm. Salg,121,17769,3,1951,-2%
 607,Ejerlejlighed,"Falkevej 20, 1. th",7000, Fredericia,650000 ,01-08-2021,Alm. Salg,64,10156,2,1938,
 607,Villa,Herslev Kirkevej 37,7000, Fredericia,25000 ,31-07-2021,Fam. Salg,203,123,7,1979,
@@ -992,7 +963,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Fuglsang Allé 101,7000, Fredericia,865000 ,28-07-2021,Alm. Salg,207,4179,7,2022,
 607,Rækkehus,Agerleddet 18,7000, Fredericia,950000 ,27-07-2021,Alm. Salg,57,16667,2,1973,
 607,Villa,Skolevænget 6,7000, Fredericia,1781000 ,27-07-2021,Alm. Salg,133,13391,4,1954,3%
-607,Villa,Puggårdsvej 14,7000, Fredericia,3895000 ,27-07-2021,Alm. Salg,179,21760,5,2018,-3%
 607,Villa,Ussinggårdsvej 33,7000, Fredericia,2100000 ,25-07-2021,Alm. Salg,140,15000,5,1979,-4%
 607,Villa,Druehaven 34,7000, Fredericia,1980000 ,23-07-2021,Alm. Salg,150,13200,3,1978,
 607,Ejerlejlighed,"Havepladsvej 158, 2. 2",7000, Fredericia,475000 ,22-07-2021,Alm. Salg,47,10106,2,1955,4%
@@ -1029,11 +999,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Blomsterhaven 15,7000, Fredericia,1050000 ,08-07-2021,Alm. Salg,137,7664,5,1979,-27%
 607,Villa,Lundagervej 21,7000, Fredericia,1995000 ,08-07-2021,Alm. Salg,120,16625,4,1972,
 607,Villa,Herslev Kirkevej 56,7000, Fredericia,405723 ,08-07-2021,Fam. Salg,164,2474,5,1902,
-607,Villa,Skullebjerg Allé 51,7000, Fredericia,5700000 ,08-07-2021,Alm. Salg,246,23171,7,2006,-5%
 607,Villa,Carl Blochs Vej 7,7000, Fredericia,1250000 ,07-07-2021,Alm. Salg,110,11364,4,1972,
 607,Villa,Holbergsvej 35B,7000, Fredericia,1795000 ,07-07-2021,Alm. Salg,119,15084,4,1962,0%
 607,Villa,Holtegårdsvej 21,7000, Fredericia,2301337 ,07-07-2021,Alm. Salg,160,14383,5,1968,5%
-607,Villa,Sønderskovvej 11,7000, Fredericia,1662500 ,07-07-2021,Alm. Salg,75,22167,3,1790,
 607,Villa,Annavej 17,7000, Fredericia,1950000 ,06-07-2021,Alm. Salg,103,18932,4,1934,-2%
 607,Villa,Rytterskolevej 14,7000, Fredericia,1350000 ,06-07-2021,Alm. Salg,170,7941,6,1964,
 607,Villa,Fuglsang Allé 69,7000, Fredericia,700000 ,06-07-2021,Alm. Salg,162,4321,6,2022,
@@ -1043,7 +1011,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Overgade 3,7000, Fredericia,1495000 ,04-07-2021,Alm. Salg,86,17384,3,1932,-6%
 607,Villa,Thorsvej 44,7000, Fredericia,1800000 ,04-07-2021,Alm. Salg,129,13953,4,1935,-2%
 607,Villa,Nymarksvej 106,7000, Fredericia,1370000 ,03-07-2021,Alm. Salg,93,14731,4,1959,-2%
-607,Villa,Martine Christoffersens Vej 47B,7000, Fredericia,2785000 ,02-07-2021,Alm. Salg,129,21589,5,2019,
 607,Rækkehus,Langesøvej 24,7000, Fredericia,1375000 ,01-07-2021,Alm. Salg,77,17857,3,1980,
 607,Villa,Elbokrogen 12,7000, Fredericia,1495000 ,01-07-2021,Alm. Salg,133,11241,5,1974,
 607,Rækkehus,Sjællandsgade 32,7000, Fredericia,1500000 ,30-06-2021,Alm. Salg,175,8571,6,1848,
@@ -1097,12 +1064,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Puggårdsløkken 2,7000, Fredericia,3195000 ,11-06-2021,Alm. Salg,152,21020,5,2016,
 607,Villa,Mølleskovvej 80,7000, Fredericia,3850000 ,10-06-2021,Alm. Salg,233,16524,6,1800,
 607,Villa,Ceresvænget 4,7000, Fredericia,1925000 ,10-06-2021,Alm. Salg,133,14474,4,1977,
-607,Villa,Ryesvej 5,7000, Fredericia,3795000 ,09-06-2021,Alm. Salg,173,21936,7,1946,
 607,Villa,Agnetevej 4,7000, Fredericia,2148000 ,09-06-2021,Alm. Salg,107,20075,5,1954,8%
 607,Villa,Finsensvej 22,7000, Fredericia,2490000 ,09-06-2021,Alm. Salg,158,15759,6,2008,0%
 607,Villa,Engelundsvej 33,7000, Fredericia,2650000 ,09-06-2021,Alm. Salg,162,16358,5,2011,
 607,Ejerlejlighed,"Danmarksgade 40, 1. tv",7000, Fredericia,790000 ,08-06-2021,Alm. Salg,75,10533,3,1903,
-607,Ejerlejlighed,"Gothersgade 8, 1",7000, Fredericia,2800000 ,08-06-2021,Alm. Salg,124,22581,3,1902,
 607,Ejerlejlighed,"Havepladsvej 152, 2. th",7000, Fredericia,725000 ,08-06-2021,Alm. Salg,67,10821,2,1955,-9%
 607,Villa,Hans Egedes Vej 8,7000, Fredericia,1230000 ,08-06-2021,Alm. Salg,90,13667,3,1963,-12%
 607,Villa,Carl Blochs Vej 10,7000, Fredericia,1495000 ,08-06-2021,Alm. Salg,90,16611,3,1971,
@@ -1133,9 +1098,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Vejrmosegårds Allé 84,7000, Fredericia,2726666 ,26-05-2021,Alm. Salg,207,13172,7,1976,5%
 607,Villa,Martinsvej 14,7000, Fredericia,2712500 ,26-05-2021,Alm. Salg,213,12735,4,1934,-3%
 607,Villa,Rudolf Steiner Vænget 24,7000, Fredericia,2845000 ,25-05-2021,Alm. Salg,147,19354,6,1999,
-607,Villa,Frederik 3.s Vej 20,7000, Fredericia,3600000 ,25-05-2021,Alm. Salg,165,21818,6,1919,-5%
 607,Villa,Holbergsvej 17,7000, Fredericia,2135000 ,25-05-2021,Alm. Salg,123,17358,4,1952,-3%
-607,Villa,Skullebjerg Allé 41,7000, Fredericia,3500000 ,25-05-2021,Alm. Salg,151,23179,5,2006,3%
 607,Villa,Blomsterhaven 40,7000, Fredericia,578779 ,24-05-2021,Andet,165,3508,4,1978,
 607,Villa,Østergade 33,7000, Fredericia,1210000 ,24-05-2021,Alm. Salg,144,8403,4,1906,-3%
 607,Villa,Trelde Næsvej 131,7000, Fredericia,1001710 ,24-05-2021,Andet,112,8944,5,1958,
@@ -1183,7 +1146,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Ejerlejlighed,"Havepladsvej 164, st. th",7000, Fredericia,875000 ,06-05-2021,Alm. Salg,79,11076,3,1966,-5%
 607,Villa,Erritsø Bygade 23,7000, Fredericia,2100000 ,06-05-2021,Alm. Salg,143,14685,4,1998,
 607,Villa,Martine Christoffersens Vej 44,7000, Fredericia,1473392 ,06-05-2021,Alm. Salg,194,7595,6,2017,
-607,Villa,Holbergsvej 6,7000, Fredericia,1395000 ,04-05-2021,Alm. Salg,62,22500,2,1947,
 607,Ejerlejlighed,"Primulavej 18, st",7000, Fredericia,1295000 ,03-05-2021,Alm. Salg,99,13081,4,1935,
 607,Villa,Birkevej 3,7000, Fredericia,1585000 ,03-05-2021,Alm. Salg,205,7732,5,1965,-2%
 607,Villa,Opalvænget 2,7000, Fredericia,1450000 ,03-05-2021,Alm. Salg,97,14948,4,1968,
@@ -1218,7 +1180,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Dortheavej 9,7000, Fredericia,3450000 ,22-04-2021,Alm. Salg,163,21166,7,1929,-1%
 607,Villa,Erritsø Møllebanke 40,7000, Fredericia,1495000 ,22-04-2021,Alm. Salg,107,13972,4,1975,
 607,Villa,Rønnebækgårdsvej 10,7000, Fredericia,2300000 ,22-04-2021,Alm. Salg,169,13609,5,1978,-4%
-607,Villa,Frederik 3.s Vej 22,7000, Fredericia,3165000 ,21-04-2021,Alm. Salg,137,23102,5,1931,
 607,Villa,Willumsensvænget 2,7000, Fredericia,1460000 ,21-04-2021,Alm. Salg,121,12066,5,1969,
 607,Villa,Egevænget 5,7000, Fredericia,1495000 ,20-04-2021,Alm. Salg,158,9462,6,1972,
 607,Villa,Baldersvej 49,7000, Fredericia,1900000 ,20-04-2021,Alm. Salg,123,15447,4,1933,-5%
@@ -1329,7 +1290,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Finsensvej 64,7000, Fredericia,3125000 ,18-03-2021,Alm. Salg,215,14535,6,2008,
 607,Ejerlejlighed,"Bjergegade 52A, 1. th",7000, Fredericia,865000 ,17-03-2021,Alm. Salg,75,11533,2,1968,-3%
 607,Ejerlejlighed,"Vendersgade 69, st",7000, Fredericia,650000 ,17-03-2021,Alm. Salg,53,12264,2,1900,
-607,Villa,Nymarksvej 90,7000, Fredericia,1555000 ,17-03-2021,Alm. Salg,68,22868,3,1952,
 607,Villa,Bærhaven 4,7000, Fredericia,556421 ,17-03-2021,Alm. Salg,123,4524,5,1977,
 607,Villa,Egeskov Bygade 41,7000, Fredericia,1873000 ,16-03-2021,Alm. Salg,125,14984,5,1973,
 607,Villa,Jens Kromanns Vej 4,7000, Fredericia,4350000 ,16-03-2021,Alm. Salg,206,21117,6,1937,-1%
@@ -1360,10 +1320,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Kobbelgårdsvej 129,7000, Fredericia,1150000 ,05-03-2021,Alm. Salg,141,8156,5,1998,
 607,Villa,Ekkodalen 24,7000, Fredericia,3300000 ,05-03-2021,Alm. Salg,169,19527,6,1979,
 607,Villa,Stenten 45,7000, Fredericia,2350000 ,05-03-2021,Alm. Salg,160,14688,5,1978,
-607,Ejerlejlighed,"Calvinsvej 54, 1",7000, Fredericia,1200000 ,04-03-2021,Alm. Salg,84,14286,3,1937,
 607,Villa,Plantagevej 47,7000, Fredericia,2755000 ,04-03-2021,Alm. Salg,162,17006,5,1978,4%
 607,Villa,Rubinvej 10,7000, Fredericia,1755000 ,04-03-2021,Alm. Salg,140,12536,5,1971,
-607,Villa,Calvinsvej 54,7000, Fredericia,1200000 ,04-03-2021,Alm. Salg,168,7143,6,1937,
 607,Villa,Martinsvej 16,7000, Fredericia,1325000 ,04-03-2021,Alm. Salg,79,16772,4,1952,4%
 607,Villa,Finsensvej 60,7000, Fredericia,3070000 ,04-03-2021,Alm. Salg,217,14147,6,2008,-1%
 607,Villa,Nordre Dybbølvej 16,7000, Fredericia,1975000 ,04-03-2021,Alm. Salg,205,9634,7,1974,-1%
@@ -1514,7 +1472,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Ejerlejlighed,"Havepladsvej 172, st. tv",7000, Fredericia,895000 ,07-01-2021,Alm. Salg,83,10783,3,1966,
 607,Villa,Fårbækvejen 4,7000, Fredericia,325000 ,07-01-2021,Alm. Salg,122,2664,3,1902,-18%
 607,Villa,Calvinsvej 45,7000, Fredericia,2150000 ,07-01-2021,Alm. Salg,108,19907,3,1931,-2%
-607,Villa,Ternevej 3,7000, Fredericia,2275000 ,07-01-2021,Alm. Salg,103,22087,4,1972,
 607,Villa,Stenhøjvænget 60,7000, Fredericia,2370000 ,06-01-2021,Alm. Salg,137,17299,5,2001,-3%
 607,Villa,Jægervej 4,7000, Fredericia,2125000 ,06-01-2021,Alm. Salg,224,9487,5,1937,-3%
 607,Villa,Bregnevej 1,7000, Fredericia,2150000 ,06-01-2021,Alm. Salg,139,15468,5,1921,-10%
@@ -1536,7 +1493,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Ejerlejlighed,"Vesterbrogade 33, 3. mf",7000, Fredericia,665000 ,22-12-2020,Alm. Salg,54,12315,2,1955,-4%
 607,Villa,Ansgarsvej 12,7000, Fredericia,1600000 ,22-12-2020,Alm. Salg,133,12030,5,1923,-3%
 607,Villa,Skovkrogen 42,7000, Fredericia,1472500 ,22-12-2020,Fam. Salg,203,7254,7,2006,
-607,Rækkehus,Agertoften 41,7000, Fredericia,1225000 ,21-12-2020,Alm. Salg,54,22685,2,1970,
 607,Villa,Egevænget 8,7000, Fredericia,1650000 ,21-12-2020,Alm. Salg,167,9880,6,1972,-3%
 607,Villa,Vejrmosegårds Allé 38,7000, Fredericia,1450000 ,21-12-2020,Alm. Salg,123,11789,4,1972,-3%
 607,Villa,Egeskovvej 120,7000, Fredericia,550666 ,21-12-2020,Fam. Salg,181,3042,6,1961,
@@ -1575,7 +1531,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Ejerlejlighed,"Ørnevej 3, 2",7000, Fredericia,900000 ,08-12-2020,Alm. Salg,78,11538,3,1932,-4%
 607,Villa,Kolding Landevej 130,7000, Fredericia,906001 ,08-12-2020,Alm. Salg,132,6864,5,1967,1%
 607,Villa,Erritsøgårdsvej 11,7000, Fredericia,2550000 ,08-12-2020,Alm. Salg,230,11087,8,1980,-9%
-607,Villa,Hjortevej 8,7000, Fredericia,1800000 ,07-12-2020,Alm. Salg,82,21951,4,1936,
 607,Villa,Nymarksvej 154,7000, Fredericia,1570000 ,07-12-2020,Alm. Salg,120,13083,4,1973,-2%
 607,Villa,Rudolf Steiner Vænget 3,7000, Fredericia,2050000 ,07-12-2020,Alm. Salg,131,15649,4,1999,
 607,Villa,Østergade 15,7000, Fredericia,800000 ,06-12-2020,Alm. Salg,150,5333,4,1923,
@@ -1661,7 +1616,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Willumsensvænget 9,7000, Fredericia,1550000 ,28-10-2020,Alm. Salg,131,11832,4,1969,-2%
 607,Villa,Magdalene Thoresens Vej 3,7000, Fredericia,1575000 ,28-10-2020,Alm. Salg,140,11250,5,1978,-4%
 607,Villa,Puggårdsvej 32,7000, Fredericia,1700000 ,28-10-2020,Alm. Salg,182,9341,5,2018,
-607,Ejerlejlighed,"Glentevej 12, 1. tv",7000, Fredericia,2000000 ,26-10-2020,Alm. Salg,94,21277,4,1936,
 607,Villa,Pilevej 21,7000, Fredericia,1525000 ,26-10-2020,Alm. Salg,173,8815,6,1965,-3%
 607,Villa,Kaalundsvej 26,7000, Fredericia,1425000 ,26-10-2020,Alm. Salg,144,9896,5,1965,-5%
 607,Villa,Finsensvej 16,7000, Fredericia,2600000 ,26-10-2020,Alm. Salg,166,15663,7,2008,-5%
@@ -1722,8 +1676,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Børup Skovvej 15,7000, Fredericia,3650000 ,28-09-2020,Alm. Salg,174,20977,5,1875,-9%
 607,Villa,Diskovej 15,7000, Fredericia,1680000 ,28-09-2020,Alm. Salg,107,15701,4,1969,-1%
 607,Villa,Martine Christoffersens Vej 60,7000, Fredericia,3160000 ,28-09-2020,Alm. Salg,172,18372,7,2013,-4%
-607,Villa,Svanevej 9,7000, Fredericia,1950000 ,27-09-2020,Alm. Salg,133,14662,5,1966,
-607,Villa,Sønderskovvej 11,7000, Fredericia,1650000 ,27-09-2020,Alm. Salg,75,22000,3,1790,
 607,Villa,Hannerup Engvej 42,7000, Fredericia,1700000 ,27-09-2020,Alm. Salg,337,5045,6,1937,
 607,Villa,Grundtvigsvej 8,7000, Fredericia,865000 ,27-09-2020,Alm. Salg,97,8918,3,1900,
 607,Rækkehus,"Prinsessegade 31, 1",7000, Fredericia,2125000 ,26-09-2020,Alm. Salg,158,13449,4,1900,
@@ -1739,7 +1691,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Ejerlejlighed,"Ørnevej 4, 1",7000, Fredericia,1150000 ,22-09-2020,Alm. Salg,113,10177,3,1938,-4%
 607,Villa,Thorsvej 25,7000, Fredericia,2550000 ,22-09-2020,Alm. Salg,155,16452,5,1931,
 607,Villa,Asser Jensens Vej 72,7000, Fredericia,2650000 ,22-09-2020,Alm. Salg,150,17667,6,2008,1%
-607,Rækkehus,Trelde Næsvej 227R,7000, Fredericia,3200000 ,21-09-2020,Alm. Salg,140,22857,3,2004,-2%
 607,Ejerlejlighed,"Vendersgade 16, 1",7000, Fredericia,1150000 ,21-09-2020,Alm. Salg,125,9200,5,1900,
 607,Ejerlejlighed,"Prinsessegade 20A, st",7000, Fredericia,795000 ,21-09-2020,Alm. Salg,63,12619,2,1917,
 607,Villa,Fuglebakken 9,7000, Fredericia,2150000 ,21-09-2020,Alm. Salg,143,15035,5,1997,-2%
@@ -1869,7 +1820,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Brøndstedvej 15,7000, Fredericia,659000 ,23-07-2020,Fam. Salg,140,4707,6,1965,
 607,Villa,Ryttervænget 9,7000, Fredericia,2058000 ,23-07-2020,Alm. Salg,158,13025,6,2004,-2%
 607,Villa,Erritsø Møllebanke 28,7000, Fredericia,1224800 ,23-07-2020,Alm. Salg,151,8111,4,1970,-6%
-607,Villa,Fænøvej 11,7000, Fredericia,4700000 ,23-07-2020,Alm. Salg,206,22816,5,2008,-6%
 607,Rækkehus,Anchersvej 39,7000, Fredericia,1300000 ,22-07-2020,Alm. Salg,118,11017,5,1976,-3%
 607,Villa,Regulusvænget 7,7000, Fredericia,1825000 ,22-07-2020,Alm. Salg,133,13722,5,1971,-1%
 607,Villa,Udsigten 10,7000, Fredericia,2095000 ,22-07-2020,Alm. Salg,162,12932,6,1973,
@@ -1917,9 +1867,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Rødtjørnevej 31,7000, Fredericia,3415000 ,02-07-2020,Alm. Salg,168,20327,3,2003,-2%
 607,Rækkehus,Anchersvej 71,7000, Fredericia,1051000 ,01-07-2020,Fam. Salg,125,8408,5,1977,
 607,Villa,Titanvænget 7,7000, Fredericia,2250000 ,01-07-2020,Alm. Salg,160,14063,5,1978,-1%
-607,Ejerlejlighed,"Prinsessegade 66, st",7000, Fredericia,2150000 ,30-06-2020,Alm. Salg,152,14145,5,1902,
-607,Ejerlejlighed,"Prinsessegade 66, 2",7000, Fredericia,2150000 ,30-06-2020,Alm. Salg,114,18860,5,1902,
-607,Ejerlejlighed,"Øster Voldgade 2, st. 2",7000, Fredericia,2150000 ,30-06-2020,Alm. Salg,135,15926,3,1909,-6%
 607,Ejerlejlighed,"Bjergegade 67A, st",7000, Fredericia,1160000 ,30-06-2020,Alm. Salg,100,11600,3,1890,-7%
 607,Ejerlejlighed,Vesterbrogade 29A,7000, Fredericia,1320000 ,30-06-2020,Alm. Salg,110,12000,2,1955,
 607,Villa,Børup Skovvej 23,7000, Fredericia,1800000 ,30-06-2020,Alm. Salg,90,20000,3,1875,6%
@@ -1969,11 +1916,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Bjørnøvænget 4,7000, Fredericia,570000 ,16-06-2020,Alm. Salg,181,3149,5,2022,-9%
 607,Rækkehus,Thorsvej 57A,7000, Fredericia,1275000 ,15-06-2020,Alm. Salg,125,10200,4,1964,
 607,Rækkehus,Thorvaldsensvej 5,7000, Fredericia,650000 ,15-06-2020,Alm. Salg,61,10656,2,1971,
-607,Ejerlejlighed,"Øster Voldgade 2, 1. 1",7000, Fredericia,3525000 ,15-06-2020,Alm. Salg,156,22596,3,1909,
 607,Villa,Skyttevej 14,7000, Fredericia,750000 ,15-06-2020,Alm. Salg,103,7282,5,1951,-6%
 607,Rækkehus,Puggårdskrogen 4,7000, Fredericia,2298000 ,14-06-2020,Alm. Salg,119,19311,4,2018,
 607,Villa,Druehaven 24,7000, Fredericia,892500 ,14-06-2020,Fam. Salg,140,6375,6,1979,
-607,Villa,Hans Egedes Vej 2,7000, Fredericia,1295000 ,14-06-2020,Alm. Salg,56,23125,2,1948,
 607,Villa,Lundagervej 3,7000, Fredericia,1395000 ,13-06-2020,Alm. Salg,169,8254,5,1972,
 607,Villa,Sdr. Vilstrupvej 209,7000, Fredericia,250000 ,13-06-2020,Fam. Salg,72,3472,4,1907,
 607,Villa,Kobbelgårdsvej 13,7000, Fredericia,2550000 ,12-06-2020,Alm. Salg,174,14655,6,1997,-5%
@@ -2006,7 +1951,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Skolesvinget 8,7000, Fredericia,930000 ,26-05-2020,Alm. Salg,72,12917,2,1955,-2%
 607,Villa,Skovkrogen 22,7000, Fredericia,1350000 ,26-05-2020,Fam. Salg,175,7714,7,2006,
 607,Villa,Thorsvej 51,7000, Fredericia,1600000 ,25-05-2020,Alm. Salg,143,11189,5,1950,3%
-607,Rækkehus,Trelde Næsvej 227S,7000, Fredericia,3095000 ,24-05-2020,Alm. Salg,140,22107,4,2004,-3%
 607,Ejerlejlighed,"Indre Ringvej 23, st",7000, Fredericia,815000 ,24-05-2020,Alm. Salg,86,9477,3,1955,-1%
 607,Villa,Møllebovænget 5,7000, Fredericia,1560000 ,24-05-2020,Alm. Salg,120,13000,4,1982,-1%
 607,Villa,Stenhøjvej 75,7000, Fredericia,1450000 ,22-05-2020,Alm. Salg,166,8735,6,1888,-9%
@@ -2070,7 +2014,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Rækkehus,Hvedevænget 9,7000, Fredericia,574500 ,23-04-2020,Fam. Salg,120,4788,3,1963,
 607,Villa,Lundagervej 24,7000, Fredericia,1950000 ,23-04-2020,Alm. Salg,171,11404,6,1972,-2%
 607,Villa,Argentinervej 21,7000, Fredericia,695000 ,23-04-2020,Alm. Salg,150,4633,5,2020,
-607,Villa,Thorsvej 58,7000, Fredericia,1550000 ,22-04-2020,Alm. Salg,69,22464,3,1948,
 607,Villa,Golfvænget 1,7000, Fredericia,835000 ,22-04-2020,Alm. Salg,150,5567,5,2021,
 607,Ejerlejlighed,"Indre Ringvej 21, st. th",7000, Fredericia,765000 ,21-04-2020,Alm. Salg,76,10066,3,1955,-7%
 607,Villa,Nyvej 25,7000, Fredericia,675000 ,21-04-2020,Alm. Salg,76,8882,2,1875,
@@ -2141,10 +2084,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Egeskovvej 53,7000, Fredericia,1550000 ,10-03-2020,Alm. Salg,133,11654,6,1927,
 607,Villa,Randalsvej 56,7000, Fredericia,1575000 ,10-03-2020,Alm. Salg,113,13938,4,1952,-1%
 607,Rækkehus,Ansgarsvej 30,7000, Fredericia,1425000 ,09-03-2020,Alm. Salg,133,10714,5,1923,-5%
-607,Ejerlejlighed,"Nørre Voldgade 8B, st",7000, Fredericia,2200000 ,09-03-2020,Alm. Salg,120,18333,3,1915,
 607,Villa,Jomfruvej 9B,7000, Fredericia,2550000 ,09-03-2020,Alm. Salg,152,16776,5,1998,
 607,Villa,Anchersvej 30,7000, Fredericia,1115000 ,09-03-2020,Alm. Salg,110,10136,4,1977,-7%
-607,Villa,Gudsø Engvej 21,7000, Fredericia,2200000 ,09-03-2020,Alm. Salg,224,9821,6,0,-12%
 607,Villa,Ågade 88,7000, Fredericia,665000 ,09-03-2020,Andet,145,4586,5,1907,
 607,Villa,"Bjørnøvænget 13, st",7000, Fredericia,424500 ,09-03-2020,Alm. Salg,295,1439,8,0,
 607,Ejerlejlighed,"Havepladsvej 158, 2. 1",7000, Fredericia,425000 ,08-03-2020,Alm. Salg,41,10366,1,1955,
@@ -2232,7 +2173,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Rækkehus,Fælledvej 99,7000, Fredericia,1175000 ,28-01-2020,Alm. Salg,100,11750,3,1964,
 607,Villa,Elboparken 40,7000, Fredericia,1125000 ,28-01-2020,Alm. Salg,117,9615,5,1964,-6%
 607,Villa,Smalagervej 7,7000, Fredericia,1737500 ,28-01-2020,Alm. Salg,102,17034,4,1939,-3%
-607,Rækkehus,Trelde Næsvej 227L,7000, Fredericia,3455000 ,27-01-2020,Alm. Salg,154,22435,4,1917,-1%
 607,Rækkehus,Agerleddet 23,7000, Fredericia,1200000 ,26-01-2020,Alm. Salg,112,10714,4,1973,
 607,Villa,Hjortøvænget 20,7000, Fredericia,2280000 ,26-01-2020,Alm. Salg,144,15833,5,2002,-1%
 607,Villa,Golfvænget 12,7000, Fredericia,1250000 ,26-01-2020,Fam. Salg,178,7022,7,1999,
@@ -2346,7 +2286,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Dådyrvej 11,7000, Fredericia,1495000 ,12-11-2019,Alm. Salg,99,15101,5,1936,
 607,Villa,Elsesvej 6,7000, Fredericia,1625000 ,12-11-2019,Alm. Salg,101,16089,4,1951,
 607,Ejerlejlighed,"Danmarksgade 40, 2. th",7000, Fredericia,1040000 ,11-11-2019,Alm. Salg,94,11064,3,1903,-13%
-607,Villa,Fælledvej 77,7000, Fredericia,3435000 ,11-11-2019,Alm. Salg,154,22305,4,1955,
 607,Rækkehus,Skovløbervænget 14,7000, Fredericia,1995000 ,10-11-2019,Alm. Salg,136,14669,3,2000,
 607,Ejerlejlighed,"Prinsessegade 56B, 3. tv",7000, Fredericia,685000 ,10-11-2019,Alm. Salg,58,11810,2,1923,1%
 607,Villa,Jadevænget 4,7000, Fredericia,1300000 ,10-11-2019,Alm. Salg,134,9701,5,1971,-4%
@@ -2431,7 +2370,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Adelvej 45,7000, Fredericia,1100000 ,02-10-2019,Alm. Salg,110,10000,4,1927,-6%
 607,Villa,Stenten 30,7000, Fredericia,1995000 ,02-10-2019,Alm. Salg,152,13125,6,1986,
 607,Villa,Jerndorffsvænget 8,7000, Fredericia,875000 ,01-10-2019,Alm. Salg,95,9211,4,1970,-7%
-607,Villa,Jens Kromanns Vej 22,7000, Fredericia,2800000 ,01-10-2019,Alm. Salg,121,23140,5,1935,-22%
 607,Rækkehus,Nørre Voldgade 70,7000, Fredericia,1105000 ,30-09-2019,Alm. Salg,155,7129,6,1903,
 607,Villa,Hans De Hoffmanns Vej 24,7000, Fredericia,2047500 ,30-09-2019,Alm. Salg,141,14521,4,1913,3%
 607,Rækkehus,"Vendersgade 57, 1",7000, Fredericia,2200000 ,29-09-2019,Alm. Salg,122,18033,3,1885,
@@ -2496,7 +2434,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Uranusvænget 5,7000, Fredericia,1475000 ,02-09-2019,Alm. Salg,144,10243,4,1970,-5%
 607,Villa,Enghavevej 13,7000, Fredericia,1400000 ,02-09-2019,Fam. Salg,124,11290,4,1985,
 607,Villa,Pallasvænget 6,7000, Fredericia,1900000 ,02-09-2019,Alm. Salg,155,12258,4,1976,-5%
-607,Villa,Hesseløvej 5,7000, Fredericia,3795000 ,01-09-2019,Alm. Salg,165,23000,6,1965,
 607,Villa,Krybily Allé 35,7000, Fredericia,2005000 ,01-09-2019,Alm. Salg,169,11864,5,2006,6%
 607,Villa,Erritsø Mosevej 153,7000, Fredericia,1100000 ,01-09-2019,Fam. Salg,136,8088,5,1827,
 607,Rækkehus,Tuxensvej 35,7000, Fredericia,202771 ,31-08-2019,Fam. Salg,98,2069,4,1972,
@@ -2544,8 +2481,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Anchersvej 46,7000, Fredericia,1485000 ,06-08-2019,Alm. Salg,156,9519,6,1974,-6%
 607,Villa,Ryttervænget 6,7000, Fredericia,1970000 ,04-08-2019,Alm. Salg,207,9517,6,2004,-1%
 607,Villa,Asser Jensens Vej 34,7000, Fredericia,2750000 ,03-08-2019,Alm. Salg,161,17081,6,2009,
-607,Villa,Ternevej 16,7000, Fredericia,2562000 ,01-08-2019,Alm. Salg,115,22278,3,1940,3%
-607,Villa,Odinsvej 14,7000, Fredericia,3700000 ,01-08-2019,Alm. Salg,161,22981,6,1930,
 607,Villa,Bjørnøvænget 17,7000, Fredericia,775000 ,01-08-2019,Alm. Salg,175,4429,5,2020,
 607,Villa,Stenhøjvænget 17,7000, Fredericia,1087500 ,31-07-2019,Fam. Salg,157,6927,6,2005,
 607,Villa,Matrosvænget 4,7000, Fredericia,911000 ,30-07-2019,Andet,168,5423,5,1980,
@@ -2664,7 +2599,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Rubinvej 38,7000, Fredericia,1655000 ,04-06-2019,Alm. Salg,138,11993,4,1971,
 607,Villa,Bogvænget 6,7000, Fredericia,1375000 ,03-06-2019,Alm. Salg,106,12972,4,1976,-1%
 607,Villa,Rosenhaven 3,7000, Fredericia,2500000 ,03-06-2019,Alm. Salg,201,12438,5,1998,-5%
-607,Villa,Læsøvej 30,7000, Fredericia,4175000 ,03-06-2019,Alm. Salg,194,21521,6,1968,-7%
 607,Villa,Søskendevej 2,7000, Fredericia,600000 ,03-06-2019,Alm. Salg,102,5882,4,1964,
 607,Villa,Røde Banke 13,7000, Fredericia,1625000 ,03-06-2019,Alm. Salg,107,15187,3,1984,-2%
 607,Rækkehus,Risvænget 13,7000, Fredericia,920000 ,02-06-2019,Fam. Salg,87,10575,3,1965,
@@ -2763,7 +2697,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Erritsø Bygade 29,7000, Fredericia,1900000 ,23-04-2019,Alm. Salg,147,12925,5,1997,0%
 607,Villa,Skærbæk Havnegade 43B,7000, Fredericia,1845000 ,23-04-2019,Alm. Salg,189,9762,3,2019,
 607,Villa,Agerleddet 4,7000, Fredericia,1750000 ,23-04-2019,Alm. Salg,136,12868,5,1975,-5%
-607,Villa,Gefionsvej 22,7000, Fredericia,1550000 ,22-04-2019,Andet,69,22464,3,1936,
 607,Villa,Siøvænget 12,7000, Fredericia,2070000 ,22-04-2019,Alm. Salg,169,12249,6,1977,-1%
 607,Villa,Sauersvej 8,7000, Fredericia,1900000 ,22-04-2019,Alm. Salg,138,13768,5,1937,-5%
 607,Ejerlejlighed,"Dalegade 40B, 2",7000, Fredericia,765000 ,21-04-2019,Alm. Salg,65,11769,2,1925,
@@ -2853,7 +2786,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Ejerlejlighed,"Havepladsvej 154, st. tv",7000, Fredericia,715000 ,09-03-2019,Alm. Salg,80,8938,3,1955,
 607,Villa,Peder Bøgvads Vej 6,7000, Fredericia,2250000 ,08-03-2019,Alm. Salg,167,13473,6,2007,-6%
 607,Villa,Aarestrupsvej 8,7000, Fredericia,1025000 ,07-03-2019,Alm. Salg,123,8333,5,1954,-21%
-607,Villa,Fælledvej 71,7000, Fredericia,2900000 ,06-03-2019,Alm. Salg,135,21481,4,1952,-3%
 607,Villa,Ternevej 5,7000, Fredericia,1795000 ,06-03-2019,Alm. Salg,117,15342,4,1963,
 607,Villa,Toftevej 4,7000, Fredericia,1220000 ,05-03-2019,Alm. Salg,110,11091,5,1973,-8%
 607,Villa,Nørrebrogade 49,7000, Fredericia,744421 ,05-03-2019,Fam. Salg,177,4206,5,1934,
@@ -2959,7 +2891,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Ravnsgårdsvej 12,7000, Fredericia,2398000 ,14-01-2019,Alm. Salg,169,14189,5,1997,
 607,Villa,Treldevej 75,7000, Fredericia,1225000 ,14-01-2019,Alm. Salg,142,8627,3,1931,-5%
 607,Villa,Asser Jensens Vej 16,7000, Fredericia,2650000 ,12-01-2019,Alm. Salg,172,15407,7,2007,-2%
-607,Villa,Hesseløvej 7,7000, Fredericia,2998000 ,11-01-2019,Alm. Salg,139,21568,5,1965,
 607,Ejerlejlighed,"Havepladsvej 170, st. tv",7000, Fredericia,875000 ,10-01-2019,Alm. Salg,82,10671,3,1966,-2%
 607,Ejerlejlighed,"Vesterbrogade 33, 1. th",7000, Fredericia,595000 ,10-01-2019,Alm. Salg,51,11667,2,1955,
 607,Villa,Stenten 113,7000, Fredericia,1537500 ,10-01-2019,Alm. Salg,134,11474,5,1977,-2%
@@ -3006,7 +2937,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Holbergsvej 19,7000, Fredericia,800000 ,06-12-2018,Alm. Salg,88,9091,3,1951,-11%
 607,Rækkehus,Bjergegade 34,7000, Fredericia,2250000 ,05-12-2018,Alm. Salg,148,15203,5,1890,5%
 607,Villa,Elborg Syd 3,7000, Fredericia,588500 ,05-12-2018,Fam. Salg,129,4562,4,1953,
-607,Villa,Storkevej 7B,7000, Fredericia,5200000 ,05-12-2018,Alm. Salg,227,22907,8,1915,-5%
 607,Villa,Puggårdsvej 20,7000, Fredericia,925000 ,05-12-2018,Alm. Salg,187,4947,5,2019,
 607,Villa,Olafsvej 24,7000, Fredericia,1310000 ,04-12-2018,Alm. Salg,129,10155,6,1952,-8%
 607,Rækkehus,Hybenvej 5,7000, Fredericia,1350000 ,03-12-2018,Alm. Salg,106,12736,4,1922,
@@ -3068,7 +2998,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Børkopvej 45,7000, Fredericia,3475000 ,21-10-2018,Alm. Salg,310,11210,7,1882,-6%
 607,Villa,Jens Thuesens Vej 18,7000, Fredericia,1200000 ,21-10-2018,Alm. Salg,148,8108,6,1969,
 607,Villa,Enggårdsparken 18,7000, Fredericia,2550000 ,21-10-2018,Alm. Salg,171,14912,2,2011,
-607,Villa,Baunevej 14,7000, Fredericia,4300000 ,20-10-2018,Alm. Salg,199,21608,6,1976,
 607,Villa,Ellehammersvej 5,7000, Fredericia,2345000 ,18-10-2018,Alm. Salg,156,15032,6,2007,-2%
 607,Villa,Egeskov Bygade 37,7000, Fredericia,676500 ,16-10-2018,Alm. Salg,186,3637,6,1966,
 607,Villa,Sanddalvej 33,7000, Fredericia,1680000 ,16-10-2018,Alm. Salg,150,11200,5,1966,
@@ -3077,7 +3006,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Lupinvej 2,7000, Fredericia,1975000 ,16-10-2018,Alm. Salg,150,13167,5,1972,-6%
 607,Rækkehus,Danmarksgade 43,7000, Fredericia,1150000 ,15-10-2018,Alm. Salg,116,9914,5,1878,
 607,Villa,Puggårdsvej 22,7000, Fredericia,1050000 ,15-10-2018,Alm. Salg,180,5833,6,2020,
-607,Rækkehus,Trelde Næsvej 227P,7000, Fredericia,3850000 ,14-10-2018,Alm. Salg,174,22126,4,2004,-1%
 607,Ejerlejlighed,"Jernbanegade 21, 2. th",7000, Fredericia,960000 ,11-10-2018,Alm. Salg,93,10323,4,1950,-4%
 607,Ejerlejlighed,"Havepladsvej 158, 2. 4",7000, Fredericia,430000 ,11-10-2018,Alm. Salg,41,10488,1,1955,
 607,Ejerlejlighed,"Havepladsvej 162, 2. 4",7000, Fredericia,340000 ,11-10-2018,Alm. Salg,40,8500,1,1955,-6%
@@ -3124,8 +3052,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Treldevej 72,7000, Fredericia,1400000 ,23-09-2018,Alm. Salg,182,7692,7,1922,-5%
 607,Villa,Fasanvej 21,7000, Fredericia,1600000 ,20-09-2018,Alm. Salg,133,12030,6,1928,0%
 607,Villa,Indre Ringvej 137,7000, Fredericia,1350000 ,20-09-2018,Alm. Salg,99,13636,4,1932,-3%
-607,Ejerlejlighed,"Nørrebrogade 26, st. th",7000, Fredericia,1175000 ,19-09-2018,Alm. Salg,153,7680,4,1939,-13%
-607,Villa,Annavej 14,7000, Fredericia,1175000 ,19-09-2018,Alm. Salg,85,13824,3,1957,-10%
 607,Villa,Fagerlien 25,7000, Fredericia,510919 ,19-09-2018,Fam. Salg,168,3041,4,1937,
 607,Ejerlejlighed,"Nørre Voldgade 98, 3. tv",7000, Fredericia,620000 ,18-09-2018,Alm. Salg,63,9841,3,1898,
 607,Villa,Vesterdalsvej 1,7000, Fredericia,1200000 ,18-09-2018,Fam. Salg,94,12766,4,1921,
@@ -3145,7 +3071,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Gisselbakken 6,7000, Fredericia,450000 ,12-09-2018,Alm. Salg,207,2174,5,2019,-5%
 607,Villa,Castorvænget 16,7000, Fredericia,1470000 ,12-09-2018,Alm. Salg,116,12672,4,1970,-2%
 607,Villa,Ligustervænget 8,7000, Fredericia,2095000 ,12-09-2018,Alm. Salg,174,12040,5,1970,
-607,Villa,Jens Thuesens Vej 43,7000, Fredericia,3685000 ,12-09-2018,Alm. Salg,159,23176,6,1973,5%
 607,Villa,Trelde Næsvej 130,7000, Fredericia,1665000 ,12-09-2018,Alm. Salg,116,14353,3,1962,-6%
 607,Villa,Capellavænget 4,7000, Fredericia,1700000 ,12-09-2018,Alm. Salg,113,15044,4,1969,1%
 607,Villa,Møllersmindevej 24,7000, Fredericia,1271000 ,12-09-2018,Alm. Salg,160,7944,6,1851,27%
@@ -3177,7 +3102,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Rækkehus,Snoghøjparken 10,7000, Fredericia,1965000 ,03-09-2018,Alm. Salg,109,18028,4,1978,-2%
 607,Ejerlejlighed,"Nørre Voldgade 100, 1. th",7000, Fredericia,825000 ,03-09-2018,Alm. Salg,62,13306,3,1898,-1%
 607,Villa,Vejrmosegårds Allé 9,7000, Fredericia,2560000 ,03-09-2018,Alm. Salg,205,12488,7,1975,-1%
-607,Villa,Skullebjerg Allé 51,7000, Fredericia,5495000 ,02-09-2018,Alm. Salg,246,22337,7,2006,
 607,Ejerlejlighed,"Ydunsvej 34, st. tv",7000, Fredericia,730000 ,30-08-2018,Alm. Salg,81,9012,3,1960,
 607,Villa,Kongsted Engvej 21,7000, Fredericia,2495000 ,30-08-2018,Alm. Salg,190,13132,5,2021,
 607,Rækkehus,Dronningensgade 4,7000, Fredericia,1850000 ,29-08-2018,Alm. Salg,158,11709,6,1899,-2%
@@ -3328,7 +3252,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Forsythiavej 54,7000, Fredericia,1165000 ,18-06-2018,Alm. Salg,157,7420,5,1971,-7%
 607,Rækkehus,Krøyersvænget 10,7000, Fredericia,1350000 ,17-06-2018,Alm. Salg,102,13235,4,1966,-5%
 607,Villa,Martine Christoffersens Vej 28,7000, Fredericia,695000 ,17-06-2018,Alm. Salg,148,4696,4,2019,
-607,Villa,Argentinervej 31,7000, Fredericia,3345000 ,17-06-2018,Alm. Salg,151,22152,6,2017,-4%
 607,Villa,Randalsvej 31,7000, Fredericia,1262500 ,16-06-2018,Alm. Salg,98,12883,5,1951,-5%
 607,Rækkehus,Havepladsvej 128,7000, Fredericia,1599000 ,15-06-2018,Alm. Salg,91,17571,4,1928,
 607,Villa,Stenten 5,7000, Fredericia,1225000 ,15-06-2018,Alm. Salg,106,11557,4,1965,-4%
@@ -3377,7 +3300,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Rækkehus,Stævnebogårdsvej 12,7000, Fredericia,1140000 ,22-05-2018,Alm. Salg,136,8382,5,1978,-12%
 607,Villa,Irisvej 22,7000, Fredericia,1425000 ,22-05-2018,Alm. Salg,142,10035,6,1921,-7%
 607,Ejerlejlighed,"Sjællandsgade 72, 1",7000, Fredericia,1416000 ,21-05-2018,Alm. Salg,94,15064,2,1882,1%
-607,Villa,Trelde Næsvej 157,7000, Fredericia,3900000 ,19-05-2018,Alm. Salg,177,22034,5,1990,-5%
 607,Villa,Skyttevej 30,7000, Fredericia,1795000 ,18-05-2018,Alm. Salg,141,12730,4,1957,
 607,Rækkehus,Agerleddet 16,7000, Fredericia,1105000 ,17-05-2018,Alm. Salg,100,11050,5,1973,
 607,Ejerlejlighed,"Indre Ringvej 21, 4. th",7000, Fredericia,945000 ,17-05-2018,Alm. Salg,76,12434,3,1955,
@@ -3403,7 +3325,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Pallasvænget 1,7000, Fredericia,1425000 ,04-05-2018,Alm. Salg,126,11310,4,1976,
 607,Villa,Bredstrup Bygade 7A,7000, Fredericia,1885000 ,04-05-2018,Alm. Salg,174,10833,6,2000,-1%
 607,Villa,Stensgårdsvej 73C,7000, Fredericia,1950000 ,04-05-2018,Alm. Salg,240,8125,5,2022,-3%
-607,Rækkehus,Bjergegade 76,7000, Fredericia,1125000 ,03-05-2018,Alm. Salg,146,7705,6,1897,-18%
 607,Villa,Højrup Østervej 20,7000, Fredericia,1865000 ,03-05-2018,Alm. Salg,201,9279,6,1969,
 607,Villa,Wesselsvej 3,7000, Fredericia,1740000 ,03-05-2018,Alm. Salg,84,20714,3,1961,-3%
 607,Villa,Plantagevej 4,7000, Fredericia,1700000 ,03-05-2018,Alm. Salg,152,11184,5,1981,-3%
@@ -3434,7 +3355,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Rækkehus,Brændekildevænget 12,7000, Fredericia,1300000 ,23-04-2018,Alm. Salg,80,16250,3,1966,
 607,Rækkehus,Ansgarsvej 21,7000, Fredericia,1195000 ,22-04-2018,Alm. Salg,151,7914,5,1923,
 607,Villa,Heimdalsvej 26,7000, Fredericia,550000 ,22-04-2018,Alm. Salg,62,8871,3,1910,-8%
-607,Villa,Hans De Hoffmanns Vej 10,7000, Fredericia,2100000 ,22-04-2018,Alm. Salg,94,22340,3,1938,-9%
 607,Rækkehus,Prinsensgade 51,7000, Fredericia,2375000 ,20-04-2018,Alm. Salg,220,10795,8,1900,-4%
 607,Rækkehus,Herthavej 7,7000, Fredericia,1425000 ,19-04-2018,Alm. Salg,133,10714,4,1923,-5%
 607,Villa,Vandgyden 3,7000, Fredericia,1095000 ,19-04-2018,Alm. Salg,103,10631,4,1940,
@@ -3487,23 +3407,17 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Rækkehus,Anchersvej 7,7000, Fredericia,738000 ,22-03-2018,Fam. Salg,124,5952,5,1968,
 607,Villa,Nordre Kobbelvej 49,7000, Fredericia,945000 ,22-03-2018,Fam. Salg,88,10739,4,1968,
 607,Villa,Rønnebækgårdsvej 12,7000, Fredericia,1500000 ,22-03-2018,Alm. Salg,127,11811,5,1979,-2%
-607,Ejerlejlighed,Buen 2,7000, Fredericia,1650000 ,21-03-2018,Alm. Salg,75,22000,3,1913,
-607,Ejerlejlighed,Buen 4,7000, Fredericia,1650000 ,21-03-2018,Alm. Salg,89,18539,2,1913,
-607,Ejerlejlighed,Ågade 91,7000, Fredericia,1650000 ,21-03-2018,Alm. Salg,152,10855,5,1913,
 607,Villa,Erritsø Bygade 48,7000, Fredericia,1950000 ,21-03-2018,Alm. Salg,119,16387,3,1985,
 607,Villa,Gyvelvænget 6,7000, Fredericia,1159690 ,21-03-2018,Alm. Salg,139,8343,4,1973,
 607,Villa,Hannerup Engvej 58,7000, Fredericia,150000 ,21-03-2018,Fam. Salg,136,1103,4,1827,
 607,Rækkehus,Hestehaven 3,7000, Fredericia,1080000 ,20-03-2018,Alm. Salg,99,10909,3,1964,
 607,Villa,Mønstedsvænget 25,7000, Fredericia,1795000 ,20-03-2018,Alm. Salg,145,12379,5,1969,
 607,Villa,Ravnsgårdsvej 19,7000, Fredericia,1725000 ,20-03-2018,Alm. Salg,125,13800,5,1988,-8%
-607,Villa,Vejlevej 130B,7000, Fredericia,6433334 ,20-03-2018,Fam. Salg,294,21882,7,2002,
 607,Rækkehus,Bissensvej 27,7000, Fredericia,1110000 ,18-03-2018,Alm. Salg,80,13875,3,1966,-3%
-607,Villa,Gråkjærsvænget 11,7000, Fredericia,1175000 ,18-03-2018,Alm. Salg,120,9792,4,1974,
 607,Villa,Egeskovvej 141,7000, Fredericia,1210000 ,18-03-2018,Alm. Salg,69,17536,3,1952,-7%
 607,Villa,Halmøvænget 1,7000, Fredericia,860000 ,18-03-2018,Alm. Salg,159,5409,5,2019,-4%
 607,Rækkehus,Nordre Kobbelvej 48,7000, Fredericia,750000 ,17-03-2018,Alm. Salg,61,12295,2,1971,
 607,Villa,Odinsvej 14,7000, Fredericia,3200000 ,17-03-2018,Alm. Salg,161,19876,6,1930,-6%
-607,Villa,Vesterbrogade 48,7000, Fredericia,1200000 ,15-03-2018,Alm. Salg,154,7792,6,1924,
 607,Villa,Vejrmosegårds Allé 58,7000, Fredericia,1850000 ,15-03-2018,Alm. Salg,173,10694,6,1970,-3%
 607,Villa,Lupinvej 15,7000, Fredericia,1837500 ,15-03-2018,Alm. Salg,172,10683,5,1962,2%
 607,Villa,Toftegårdsvej 12,7000, Fredericia,1980000 ,15-03-2018,Alm. Salg,137,14453,5,1995,
@@ -3608,7 +3522,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Rudolf Steiner Vænget 15,7000, Fredericia,2125000 ,14-01-2018,Alm. Salg,148,14358,6,1999,-7%
 607,Villa,Skærbæk Havnegade 24,7000, Fredericia,745000 ,13-01-2018,Alm. Salg,168,4435,6,1900,
 607,Villa,Rasmus Gyes Vej 41,7000, Fredericia,2795000 ,13-01-2018,Alm. Salg,191,14634,9,1877,-7%
-607,Ejerlejlighed,"Kongensstræde 106, 1. 4",7000, Fredericia,2445000 ,11-01-2018,Alm. Salg,107,22850,3,2017,
 607,Villa,Kaalundsvej 6,7000, Fredericia,1650000 ,11-01-2018,Alm. Salg,122,13525,4,1966,-3%
 607,Ejerlejlighed,"Falkevej 20, st. tv",7000, Fredericia,600000 ,10-01-2018,Alm. Salg,60,10000,2,1938,
 607,Villa,Agnetevej 4,7000, Fredericia,1650000 ,10-01-2018,Alm. Salg,107,15421,5,1954,-3%
@@ -3802,8 +3715,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Højvangs Allé 4,7000, Fredericia,708256 ,28-09-2017,Alm. Salg,122,5805,4,1971,-51%
 607,Villa,Krybily Allé 39,7000, Fredericia,2225000 ,27-09-2017,Alm. Salg,160,13906,7,1998,-2%
 607,Villa,Sigsbjergvej 10,7000, Fredericia,881518 ,27-09-2017,Auktion,188,4689,4,1964,
-607,Rækkehus,Agerleddet 32,7000, Fredericia,775000 ,26-09-2017,Fam. Salg,57,13596,2,1973,
-607,Ejerlejlighed,"Nørre Voldgade 62, 2",7000, Fredericia,775000 ,26-09-2017,Alm. Salg,94,8245,3,1902,-8%
 607,Villa,Elboparken 32,7000, Fredericia,1200000 ,26-09-2017,Alm. Salg,142,8451,5,1965,-7%
 607,Rækkehus,Nymarksvej 23,7000, Fredericia,1170000 ,25-09-2017,Alm. Salg,120,9750,6,1920,-6%
 607,Villa,Buen 3,7000, Fredericia,846000 ,25-09-2017,Fam. Salg,167,5066,6,1974,
@@ -3827,14 +3738,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Jens Thuesens Vej 9,7000, Fredericia,1336000 ,18-09-2017,Alm. Salg,129,10357,4,1973,
 607,Villa,Finsensvej 40,7000, Fredericia,572125 ,18-09-2017,Alm. Salg,181,3161,5,2022,
 607,Villa,Fælledvej 69,7000, Fredericia,1750000 ,17-09-2017,Alm. Salg,295,5932,6,2018,-8%
-607,Villa,Gl. Færgevej 3,7000, Fredericia,7700000 ,17-09-2017,Alm. Salg,338,22781,8,1999,-9%
-607,Ejerlejlighed,"Gothersgade 53, 1",7000, Fredericia,3540000 ,14-09-2017,Alm. Salg,164,21585,6,1892,
-607,Ejerlejlighed,"Fynsgade 10A, 1",7000, Fredericia,3685000 ,14-09-2017,Alm. Salg,171,21550,6,1800,
 607,Villa,Fælledvej 73,7000, Fredericia,2795000 ,14-09-2017,Alm. Salg,134,20858,4,1953,
 607,Villa,Zartmannsvej 9,7000, Fredericia,900000 ,14-09-2017,Alm. Salg,136,6618,5,1967,-25%
 607,Rækkehus,Calvinsvej 66,7000, Fredericia,1825000 ,13-09-2017,Alm. Salg,117,15598,3,1930,-1%
 607,Villa,Mysundevej 9,7000, Fredericia,1475000 ,13-09-2017,Alm. Salg,138,10688,4,1968,-1%
-607,Rækkehus,Trelde Næsvej 227T,7000, Fredericia,3800000 ,12-09-2017,Alm. Salg,174,21839,4,2004,-10%
 607,Rækkehus,Bjergegade 64,7000, Fredericia,1035000 ,12-09-2017,Alm. Salg,140,7393,5,1900,-5%
 607,Villa,Erritsø Møllebanke 40,7000, Fredericia,1195000 ,12-09-2017,Alm. Salg,107,11168,4,1975,
 607,Villa,Kastanievej 3,7000, Fredericia,2120000 ,12-09-2017,Alm. Salg,148,14324,5,2006,-6%
@@ -3990,7 +3897,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Ingemannsvej 20,7000, Fredericia,960000 ,29-06-2017,Alm. Salg,87,11034,5,1965,-2%
 607,Villa,Lundagervej 36,7000, Fredericia,1450000 ,29-06-2017,Alm. Salg,133,10902,4,1972,-6%
 607,Ejerlejlighed,"Huslodsvej 55, 2. th",7000, Fredericia,1025000 ,28-06-2017,Alm. Salg,94,10904,4,1952,-2%
-607,Villa,Prangervej 42,7000, Fredericia,2600000 ,28-06-2017,Alm. Salg,213,12207,7,1959,
 607,Villa,Skovvej 44,7000, Fredericia,465822 ,28-06-2017,Alm. Salg,110,4235,4,1985,
 607,Villa,Egernvej 16,7000, Fredericia,1670000 ,28-06-2017,Alm. Salg,182,9176,5,1975,-7%
 607,Villa,Østergade 27,7000, Fredericia,790500 ,28-06-2017,Fam. Salg,266,2972,6,1903,
@@ -4001,7 +3907,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Rønnebækgårdsvej 26,7000, Fredericia,1650000 ,24-06-2017,Alm. Salg,112,14732,4,1978,-3%
 607,Villa,Puggårdsvej 32,7000, Fredericia,695000 ,24-06-2017,Alm. Salg,182,3819,5,2018,
 607,Rækkehus,Kongensgade 22,7000, Fredericia,2450000 ,22-06-2017,Alm. Salg,203,12069,4,1850,-1%
-607,Villa,Sønderskovvej 11,7000, Fredericia,1650000 ,21-06-2017,Alm. Salg,75,22000,3,1790,
 607,Rækkehus,Sonnesvej 16,7000, Fredericia,1225000 ,20-06-2017,Alm. Salg,77,15909,3,1967,
 607,Villa,Ildtornvej 3,7000, Fredericia,1235000 ,20-06-2017,Alm. Salg,100,12350,4,1971,-3%
 607,Rækkehus,Bissensvej 67,7000, Fredericia,1040000 ,19-06-2017,Alm. Salg,102,10196,3,1967,-5%
@@ -4015,7 +3920,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Egevænget 3,7000, Fredericia,1800000 ,15-06-2017,Alm. Salg,184,9783,6,1973,-4%
 607,Rækkehus,Armandsvej 27,7000, Fredericia,635593 ,14-06-2017,Auktion,85,7478,4,1949,
 607,Villa,Ellegårdsparken 14,7000, Fredericia,800000 ,14-06-2017,Andet,162,4938,6,2003,
-607,Villa,Jens Kromanns Vej 10,7000, Fredericia,3150000 ,14-06-2017,Alm. Salg,146,21575,6,1963,-9%
 607,Villa,Gefionsvej 12,7000, Fredericia,1150000 ,14-06-2017,Alm. Salg,87,13218,3,1953,-4%
 607,Villa,Lundagervej 2,7000, Fredericia,1625000 ,14-06-2017,Alm. Salg,170,9559,6,1973,-9%
 607,Villa,Peder Bøgvads Vej 27,7000, Fredericia,2355000 ,13-06-2017,Alm. Salg,157,15000,6,2006,-6%
@@ -4167,7 +4071,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Ejerlejlighed,"Dronningensgade 13, 2",7000, Fredericia,925000 ,02-04-2017,Alm. Salg,110,8409,4,1895,
 607,Villa,Børup Sandevej 9,7000, Fredericia,1275000 ,02-04-2017,Alm. Salg,183,6967,7,1929,-3%
 607,Villa,Fælledvej 79,7000, Fredericia,1660000 ,02-04-2017,Fam. Salg,200,8300,7,1953,
-607,Villa,Trelde Næsvej 53,7000, Fredericia,3425000 ,02-04-2017,Alm. Salg,150,22833,5,1963,-2%
 607,Villa,Stenten 119,7000, Fredericia,1030000 ,02-04-2017,Alm. Salg,107,9626,4,1976,-2%
 607,Ejerlejlighed,"Jyllandsgade 6, 1",7000, Fredericia,801879 ,31-03-2017,Fam. Salg,144,5569,4,1896,
 607,Rækkehus,Stævnebogårdsvej 17,7000, Fredericia,1210000 ,30-03-2017,Alm. Salg,102,11863,5,1977,-3%
@@ -4215,7 +4118,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Nordre Dybbølvej 5,7000, Fredericia,1175000 ,09-03-2017,Alm. Salg,159,7390,7,1960,-9%
 607,Ejerlejlighed,"Jernbanegade 21, 3. th",7000, Fredericia,740000 ,08-03-2017,Fam. Salg,93,7957,4,1950,
 607,Villa,Bodilsvej 14,7000, Fredericia,3626000 ,08-03-2017,Alm. Salg,248,14621,9,1961,7%
-607,Rækkehus,Trelde Næsvej 227R,7000, Fredericia,3050000 ,07-03-2017,Alm. Salg,140,21786,3,2004,-5%
 607,Villa,Godhavnsvej 1,7000, Fredericia,900000 ,07-03-2017,Alm. Salg,114,7895,4,1960,-3%
 607,Villa,Skærbæk Møllevej 37,7000, Fredericia,2500000 ,07-03-2017,Alm. Salg,135,18519,4,1931,
 607,Villa,Smalagervej 25,7000, Fredericia,1300000 ,07-03-2017,Alm. Salg,186,6989,8,1962,-7%
@@ -4283,7 +4185,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Asser Jensens Vej 9,7000, Fredericia,2512500 ,03-02-2017,Alm. Salg,161,15606,5,2008,-6%
 607,Villa,Lundagervej 1,7000, Fredericia,1525000 ,02-02-2017,Alm. Salg,131,11641,4,1971,-4%
 607,Villa,Fænø Kalvvej 13,7000, Fredericia,3005000 ,02-02-2017,Alm. Salg,214,14042,6,2001,-6%
-607,Villa,Ekkodalen 71,7000, Fredericia,3800000 ,02-02-2017,Alm. Salg,174,21839,5,2003,-11%
 607,Ejerlejlighed,"Havepladsvej 168, 1. th",7000, Fredericia,740000 ,01-02-2017,Alm. Salg,83,8916,3,1966,
 607,Ejerlejlighed,"Ydunsvej 34, 1. th",7000, Fredericia,670000 ,01-02-2017,Alm. Salg,79,8481,3,1960,
 607,Villa,Ravnsgårdsvej 111,7000, Fredericia,2167500 ,01-02-2017,Alm. Salg,142,15264,5,1986,-1%
@@ -4303,7 +4204,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Violvej 19,7000, Fredericia,1225000 ,22-01-2017,Alm. Salg,145,8448,4,1925,-5%
 607,Villa,Brovadvej 38,7000, Fredericia,1375000 ,22-01-2017,Alm. Salg,137,10036,4,1963,-5%
 607,Villa,Kobbelgårdsvej 5,7000, Fredericia,1888305 ,22-01-2017,Alm. Salg,140,13488,5,1997,-5%
-607,Ejerlejlighed,"Ydunsvej 34, 2. th",7000, Fredericia,650000 ,19-01-2017,Alm. Salg,72,9028,3,1960,
 607,Ejerlejlighed,"Prinsessegade 20B, 2",7000, Fredericia,800000 ,19-01-2017,Alm. Salg,68,11765,2,1917,-3%
 607,Villa,Ågade 61,7000, Fredericia,500000 ,19-01-2017,Fam. Salg,112,4464,4,1980,
 607,Rækkehus,Solbakken 5,7000, Fredericia,1150000 ,18-01-2017,Alm. Salg,112,10268,5,1935,-8%
@@ -4423,7 +4323,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Ekkodalen 28,7000, Fredericia,2575000 ,08-11-2016,Alm. Salg,181,14227,7,1980,-3%
 607,Villa,Herslev Kirkevej 44,7000, Fredericia,1550000 ,08-11-2016,Alm. Salg,222,6982,5,1850,-3%
 607,Villa,Hannerup Engvej 3,7000, Fredericia,410000 ,08-11-2016,Alm. Salg,74,5541,3,1877,-17%
-607,Rækkehus,Holbergsvej 42,7000, Fredericia,2275000 ,07-11-2016,Alm. Salg,158,14399,4,1906,4%
 607,Villa,Stensgårdsvej 67A,7000, Fredericia,5500000 ,06-11-2016,Alm. Salg,325,16923,6,0,-8%
 607,Villa,Holmansvej 17,7000, Fredericia,1450000 ,06-11-2016,Alm. Salg,156,9295,6,1967,-8%
 607,Villa,Gl. Tårupvej 59,7000, Fredericia,1204590 ,06-11-2016,Alm. Salg,309,3898,9,1703,
@@ -4477,7 +4376,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Carl Lindams Vej 6,7000, Fredericia,1935000 ,06-10-2016,Alm. Salg,153,12647,5,1992,-3%
 607,Villa,Strandagervænget 13,7000, Fredericia,2925000 ,06-10-2016,Alm. Salg,205,14268,6,1986,-11%
 607,Villa,Søbakken 23,7000, Fredericia,1598000 ,05-10-2016,Alm. Salg,136,11750,5,1972,
-607,Villa,Ekkodalen 40,7000, Fredericia,2050000 ,04-10-2016,Alm. Salg,88,23295,3,1964,
 607,Villa,Randalsvej 40,7000, Fredericia,576209 ,04-10-2016,Fam. Salg,130,4432,4,1922,
 607,Villa,Peder Bøgvads Vej 29,7000, Fredericia,2650000 ,03-10-2016,Alm. Salg,205,12927,6,2006,-5%
 607,Villa,Calvinsvej 40,7000, Fredericia,1150000 ,03-10-2016,Alm. Salg,153,7516,4,1923,-18%
@@ -4498,11 +4396,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Ågade 23,7000, Fredericia,1020000 ,25-09-2016,Alm. Salg,104,9808,4,1966,-7%
 607,Villa,Druehaven 36B,7000, Fredericia,740000 ,22-09-2016,Fam. Salg,112,6607,4,1986,
 607,Villa,Argentinervej 31,7000, Fredericia,770000 ,22-09-2016,Alm. Salg,151,5099,6,2017,
-607,Ejerlejlighed,"Dalegade 91B, st",7000, Fredericia,1650000 ,21-09-2016,Alm. Salg,78,21154,4,1891,
 607,Ejerlejlighed,"Vesterbrogade 33, 4. tv",7000, Fredericia,675000 ,21-09-2016,Alm. Salg,96,7031,3,1955,
-607,Ejerlejlighed,"Sjællandsgade 68, st. th",7000, Fredericia,1650000 ,21-09-2016,Alm. Salg,96,17188,4,1891,
-607,Ejerlejlighed,"Sjællandsgade 68B, 1",7000, Fredericia,1650000 ,21-09-2016,Alm. Salg,76,21711,4,1891,
-607,Ejerlejlighed,"Sjællandsgade 68, 1",7000, Fredericia,1650000 ,21-09-2016,Alm. Salg,131,12595,5,1891,
 607,Villa,Bredstrup Markvej 26,7000, Fredericia,3900000 ,21-09-2016,Alm. Salg,282,13830,6,1900,-2%
 607,Villa,Stenhøjvænget 48,7000, Fredericia,1950000 ,20-09-2016,Alm. Salg,121,16116,5,2002,-2%
 607,Villa,Samsøvej 8,7000, Fredericia,3400000 ,20-09-2016,Alm. Salg,206,16505,7,1971,-3%
@@ -4769,12 +4663,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Golfvænget 25,7000, Fredericia,2225000 ,06-04-2016,Alm. Salg,171,13012,4,2000,-3%
 607,Villa,Drejøvænget 4,7000, Fredericia,1100000 ,06-04-2016,Alm. Salg,72,15278,3,1956,-15%
 607,Villa,Grethevej 30,7000, Fredericia,1580000 ,06-04-2016,Alm. Salg,87,18161,4,1934,-1%
-607,Villa,Bülowsvej 13,7000, Fredericia,2865000 ,05-04-2016,Alm. Salg,131,21870,4,1950,-4%
 607,Villa,Højvangs Allé 9,7000, Fredericia,1275000 ,04-04-2016,Alm. Salg,155,8226,4,1968,-9%
 607,Rækkehus,Sonnesvej 66,7000, Fredericia,1050000 ,01-04-2016,Alm. Salg,77,13636,3,1968,
 607,Villa,Kolding Landevej 192,7000, Fredericia,1025000 ,01-04-2016,Alm. Salg,148,6926,5,1923,-5%
 607,Ejerlejlighed,"Indre Ringvej 23, 4. tv",7000, Fredericia,627000 ,31-03-2016,Alm. Salg,80,7838,3,1955,
-607,Ejerlejlighed,"Vesterbrogade 17, 1",7000, Fredericia,1600000 ,31-03-2016,Alm. Salg,71,22535,3,1912,
 607,Villa,Strynøvænget 6,7000, Fredericia,2250000 ,31-03-2016,Alm. Salg,197,11421,5,1967,-9%
 607,Villa,Børup Sandevej 64,7000, Fredericia,2700000 ,31-03-2016,Alm. Salg,143,18881,6,1957,-10%
 607,Villa,Olgasvej 5,7000, Fredericia,446000 ,31-03-2016,Alm. Salg,150,2973,4,2019,-11%
@@ -4888,7 +4780,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Rækkehus,Hans Tausens Vej 5,7000, Fredericia,1425000 ,18-01-2016,Alm. Salg,98,14541,2,1980,
 607,Villa,Smedegårdsvej 6,7000, Fredericia,2400000 ,18-01-2016,Alm. Salg,149,16107,5,1996,-4%
 607,Villa,Hasselvænget 3,7000, Fredericia,1575000 ,18-01-2016,Alm. Salg,156,10096,3,1967,-7%
-607,Villa,Kampmannsvej 25A,7000, Fredericia,5500000 ,18-01-2016,Alm. Salg,254,21654,6,1984,-8%
 607,Rækkehus,Dalegade 8,7000, Fredericia,300000 ,17-01-2016,Fam. Salg,80,3750,4,1850,
 607,Rækkehus,Agertoften 11,7000, Fredericia,447500 ,17-01-2016,Andet,85,5265,4,1970,
 607,Ejerlejlighed,"Bjergegade 52A, 1. th",7000, Fredericia,780000 ,17-01-2016,Alm. Salg,75,10400,2,1968,-2%
@@ -4898,10 +4789,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Ejerlejlighed,"Vesterbrogade 31, 2. tv",7000, Fredericia,1045000 ,14-01-2016,Alm. Salg,98,10663,4,1955,
 607,Villa,Baunevænget 2,7000, Fredericia,1510000 ,14-01-2016,Alm. Salg,144,10486,5,1977,-5%
 607,Ejerlejlighed,"Frederik 3.s Vej 17, st. tv",7000, Fredericia,1015000 ,13-01-2016,Alm. Salg,87,11667,3,1939,
-607,Ejerlejlighed,"Øster Voldgade 26C, 1. th",7000, Fredericia,2350000 ,11-01-2016,Alm. Salg,109,21560,4,1962,
 607,Villa,Kampmannsvej 22,7000, Fredericia,1995000 ,11-01-2016,Alm. Salg,219,9110,6,2019,
 607,Rækkehus,Sonnesvej 94,7000, Fredericia,859650 ,10-01-2016,Fam. Salg,120,7164,4,1985,
-607,Ejerlejlighed,"Norgesgade 36, 1",7000, Fredericia,2575000 ,10-01-2016,Alm. Salg,112,22991,3,1897,
 607,Villa,Rødkjærsvej 12,7000, Fredericia,1000000 ,10-01-2016,Fam. Salg,198,5051,5,1967,
 607,Villa,Rødtjørnevej 23,7000, Fredericia,947877 ,10-01-2016,Fam. Salg,139,6819,5,2004,
 607,Villa,Plantagevej 60,7000, Fredericia,2750000 ,08-01-2016,Alm. Salg,167,16467,5,1980,-2%
@@ -4955,7 +4844,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Dalgasvej 1,7000, Fredericia,950000 ,29-11-2015,Alm. Salg,90,10556,3,1936,-13%
 607,Villa,Halmøvænget 6,7000, Fredericia,725000 ,29-11-2015,Alm. Salg,203,3571,5,2020,-9%
 607,Rækkehus,Langesøvej 90,7000, Fredericia,1279000 ,27-11-2015,Alm. Salg,90,14211,4,1980,
-607,Ejerlejlighed,"Kongensstræde 106, 2. 4",7000, Fredericia,2345000 ,26-11-2015,Alm. Salg,107,21916,3,2017,
 607,Ejerlejlighed,"Sjællandsgade 77D, 2. th",7000, Fredericia,600000 ,25-11-2015,Alm. Salg,61,9836,2,1970,-7%
 607,Villa,Søbakken 13,7000, Fredericia,907500 ,25-11-2015,Andet,221,4106,6,1970,-55%
 607,Villa,Gammelby Møllevej 84,7000, Fredericia,135000 ,25-11-2015,Alm. Salg,89,1517,4,1959,
@@ -5096,10 +4984,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Opalvænget 10,7000, Fredericia,875000 ,08-09-2015,Alm. Salg,88,9943,4,1969,-5%
 607,Villa,Brovadvej 16,7000, Fredericia,1325000 ,08-09-2015,Alm. Salg,120,11042,4,1964,-5%
 607,Villa,Carl Blochs Vej 2,7000, Fredericia,975000 ,08-09-2015,Alm. Salg,90,10833,4,1968,-2%
-607,Rækkehus,Skovkrogen 11,7000, Fredericia,1600000 ,07-09-2015,Alm. Salg,117,13675,3,2006,
 607,Villa,Søskendevej 12,7000, Fredericia,1705000 ,07-09-2015,Alm. Salg,159,10723,4,1965,-4%
 607,Villa,Nymarksvej 27,7000, Fredericia,800000 ,07-09-2015,Alm. Salg,124,6452,4,1917,-20%
-607,Villa,Skovkrogen 33,7000, Fredericia,1600000 ,07-09-2015,Alm. Salg,117,13675,3,2006,
 607,Rækkehus,Anchersvej 47,7000, Fredericia,1337500 ,06-09-2015,Alm. Salg,117,11432,5,1976,
 607,Villa,Frugthaven 10,7000, Fredericia,636267 ,06-09-2015,Fam. Salg,172,3699,5,1974,
 607,Villa,Landlystvej 13A,7000, Fredericia,1200000 ,06-09-2015,Alm. Salg,143,8392,6,1960,-4%
@@ -5250,7 +5136,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Fredericiavej 14,7000, Fredericia,1835000 ,07-06-2015,Alm. Salg,145,12655,3,1984,-3%
 607,Villa,Ternevej 1,7000, Fredericia,2412000 ,04-06-2015,Alm. Salg,170,14188,9,1932,-3%
 607,Villa,Hesseløvej 5,7000, Fredericia,1995000 ,02-06-2015,Alm. Salg,165,12091,6,1965,
-607,Villa,Martine Christoffersens Vej 93,7000, Fredericia,800000 ,02-06-2015,Alm. Salg,245,3265,5,2015,
 607,Villa,Ansgarsvej 42,7000, Fredericia,750000 ,01-06-2015,Alm. Salg,69,10870,3,1939,-6%
 607,Villa,Rudolf Steiner Vænget 13,7000, Fredericia,794327 ,01-06-2015,Fam. Salg,167,4756,6,2003,
 607,Rækkehus,Thorvaldsensvej 73,7000, Fredericia,590000 ,31-05-2015,Alm. Salg,106,5566,4,1971,
@@ -5428,18 +5313,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Frugthaven 11,7000, Fredericia,1725000 ,26-02-2015,Alm. Salg,173,9971,5,1974,-4%
 607,Villa,Berberisvej 15,7000, Fredericia,970000 ,25-02-2015,Alm. Salg,108,8981,4,1976,-11%
 607,Villa,Baunegårdsvej 43,7000, Fredericia,1500000 ,25-02-2015,Fam. Salg,179,8380,6,1984,
-607,Ejerlejlighed,"Jyllandsgade 26, 1",7000, Fredericia,2266666 ,24-02-2015,Fam. Salg,116,19540,4,1905,
-607,Ejerlejlighed,"Jyllandsgade 26, 2",7000, Fredericia,2266666 ,24-02-2015,Fam. Salg,116,19540,4,1905,
-607,Ejerlejlighed,"Jyllandsgade 26, 3",7000, Fredericia,2266666 ,24-02-2015,Fam. Salg,116,19540,4,1905,
-607,Ejerlejlighed,"Dalegade 61, 2. th",7000, Fredericia,2266666 ,24-02-2015,Fam. Salg,135,16790,5,1905,
-607,Ejerlejlighed,"Dalegade 61, 1. tv",7000, Fredericia,2266666 ,24-02-2015,Fam. Salg,145,15632,5,1905,
-607,Ejerlejlighed,"Dalegade 61, 1. th",7000, Fredericia,2266666 ,24-02-2015,Fam. Salg,135,16790,3,1905,
-607,Ejerlejlighed,"Dalegade 61, 2. tv",7000, Fredericia,2266666 ,24-02-2015,Fam. Salg,145,15632,5,1905,
-607,Ejerlejlighed,"Dalegade 61, 3. th",7000, Fredericia,2266666 ,24-02-2015,Fam. Salg,135,16790,4,1905,
-607,Ejerlejlighed,"Dalegade 61, 3. tv",7000, Fredericia,2266666 ,24-02-2015,Fam. Salg,145,15632,5,1905,
-607,Ejerlejlighed,"Dalegade 61, 4. 1",7000, Fredericia,2266666 ,24-02-2015,Fam. Salg,148,15315,5,1905,
 607,Villa,Granbakken 3,7000, Fredericia,1200000 ,24-02-2015,Alm. Salg,128,9375,4,1973,-4%
-607,Villa,Ternevej 8,7000, Fredericia,2230000 ,24-02-2015,Alm. Salg,103,21650,4,1936,-2%
 607,Villa,Baunevej 32,7000, Fredericia,3175000 ,24-02-2015,Alm. Salg,184,17255,5,1980,-4%
 607,Villa,Bredstrupvej 145,7000, Fredericia,218500 ,24-02-2015,Alm. Salg,82,2665,3,1900,
 607,Villa,Martine Christoffersens Vej 23,7000, Fredericia,2250000 ,23-02-2015,Alm. Salg,152,14803,7,2013,-4%
@@ -5602,7 +5476,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Rødtjørnevej 14,7000, Fredericia,1443000 ,21-10-2014,Andet,196,7362,5,2008,
 607,Villa,Knudsvej 23,7000, Fredericia,1155817 ,20-10-2014,Andet,202,5722,6,1927,
 607,Villa,Skyttevej 9,7000, Fredericia,614985 ,19-10-2014,Fam. Salg,88,6988,3,1960,
-607,Villa,Fælledvej 56,7000, Fredericia,4100000 ,19-10-2014,Alm. Salg,190,21579,6,1954,-5%
 607,Ejerlejlighed,"Danmarksgade 85, 1. tv",7000, Fredericia,1175000 ,18-10-2014,Fam. Salg,88,13352,3,1980,
 607,Villa,Langesøvej 33,7000, Fredericia,1425000 ,18-10-2014,Alm. Salg,123,11585,3,1992,-5%
 607,Villa,Bærhaven 6,7000, Fredericia,1125000 ,18-10-2014,Alm. Salg,123,9146,5,1977,-6%
@@ -5639,7 +5512,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Søndre Dybbølvej 37,7000, Fredericia,544000 ,23-09-2014,Alm. Salg,92,5913,4,1966,
 607,Villa,Bredstrupvej 40B,7000, Fredericia,2015000 ,23-09-2014,Alm. Salg,141,14291,6,2006,-4%
 607,Villa,Bakkevej 21,7000, Fredericia,535000 ,22-09-2014,Fam. Salg,98,5459,4,1966,
-607,Villa,"Gl. Landevej 36, 1",7000, Fredericia,1900000 ,22-09-2014,Alm. Salg,83,22892,3,1969,
 607,Villa,Gefionsvej 13,7000, Fredericia,1190000 ,22-09-2014,Fam. Salg,173,6879,8,1938,
 607,Villa,Baunevej 8,7000, Fredericia,1800000 ,21-09-2014,Alm. Salg,178,10112,5,1976,-3%
 607,Villa,Egholmvænget 22,7000, Fredericia,350000 ,18-09-2014,Alm. Salg,103,3398,3,1990,
@@ -5711,7 +5583,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Gråkjærsvænget 16,7000, Fredericia,1795000 ,21-07-2014,Alm. Salg,163,11012,5,1974,
 607,Rækkehus,Thorvaldsensvej 93,7000, Fredericia,695000 ,20-07-2014,Alm. Salg,95,7316,3,1971,-7%
 607,Ejerlejlighed,"Falkevej 22, 1. th",7000, Fredericia,685000 ,20-07-2014,Alm. Salg,84,8155,3,1933,-14%
-607,Villa,Ekkodalen 59,7000, Fredericia,2900000 ,20-07-2014,Alm. Salg,129,22481,4,1979,-11%
 607,Villa,Krogtoftevej 12,7000, Fredericia,1380000 ,18-07-2014,Alm. Salg,128,10781,4,1984,-5%
 607,Rækkehus,Anchersvej 67,7000, Fredericia,1395000 ,17-07-2014,Alm. Salg,125,11160,5,1977,
 607,Villa,Ellegårdsparken 15,7000, Fredericia,2070000 ,17-07-2014,Alm. Salg,158,13101,6,2005,
@@ -5996,8 +5867,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Indre Ringvej 129,7000, Fredericia,1400000 ,26-12-2013,Alm. Salg,122,11475,3,1932,
 607,Rækkehus,Kongensgade 82,7000, Fredericia,800000 ,21-12-2013,Alm. Salg,108,7407,4,1903,
 607,Villa,Bytoften 9,7000, Fredericia,1139000 ,20-12-2013,Fam. Salg,145,7855,6,2003,
-607,Rækkehus,Armandsvej 21,7000, Fredericia,700000 ,18-12-2013,Alm. Salg,75,9333,4,1949,-12%
-607,Ejerlejlighed,"Ydunsvej 49, 1. tv",7000, Fredericia,700000 ,18-12-2013,Alm. Salg,81,8642,4,1957,
 607,Villa,Jagtvej 22,7000, Fredericia,1250000 ,17-12-2013,Alm. Salg,133,9398,4,1963,-10%
 607,Villa,6.Julivej 26,7000, Fredericia,1500000 ,17-12-2013,Fam. Salg,174,8621,6,1922,
 607,Villa,Martine Christoffersens Vej 3,7000, Fredericia,500000 ,17-12-2013,Alm. Salg,152,3289,6,2014,
@@ -6354,10 +6223,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Finsensvej 13,7000, Fredericia,1900000 ,07-03-2013,Alm. Salg,142,13380,5,2008,-4%
 607,Rækkehus,Sonnesvej 40,7000, Fredericia,510000 ,06-03-2013,Auktion,77,6623,3,1968,
 607,Rækkehus,Mosegårdsvej 10,7000, Fredericia,735000 ,06-03-2013,Auktion,131,5611,4,1982,
-607,Rækkehus,"Købmagergade 10, 1",7000, Fredericia,2000000 ,05-03-2013,Alm. Salg,96,20833,4,1877,
-607,Villa,Miravænget 6,7000, Fredericia,2000000 ,05-03-2013,Alm. Salg,152,13158,7,1977,
 607,Villa,Pontoppidansvej 20,7000, Fredericia,515947 ,05-03-2013,Fam. Salg,167,3090,5,1973,
-607,Villa,Mågevej 19,7000, Fredericia,3700000 ,05-03-2013,Alm. Salg,167,22156,4,2017,
 607,Villa,Samsøvej 12,7000, Fredericia,2000000 ,04-03-2013,Alm. Salg,130,15385,4,1964,
 607,Villa,Damsbovej 1,7000, Fredericia,1700000 ,27-02-2013,Alm. Salg,140,12143,4,1986,-1%
 607,Villa,Stallerupvej 75B,7000, Fredericia,1047480 ,27-02-2013,Fam. Salg,172,6090,6,2005,
@@ -6443,9 +6309,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Prangervej 44,7000, Fredericia,1150000 ,06-01-2013,Alm. Salg,117,9829,4,1929,
 607,Ejerlejlighed,"Havepladsvej 162, 2. 4",7000, Fredericia,320000 ,03-01-2013,Alm. Salg,40,8000,1,1955,-8%
 607,Villa,Christiansvej 7A,7000, Fredericia,710000 ,03-01-2013,Alm. Salg,48,14792,2,1966,-3%
-607,Ejerlejlighed,Buen 2,7000, Fredericia,795000 ,02-01-2013,Auktion,75,10600,3,1913,
-607,Ejerlejlighed,Buen 4,7000, Fredericia,795000 ,02-01-2013,Auktion,89,8933,2,1913,
-607,Ejerlejlighed,Ågade 91,7000, Fredericia,795000 ,02-01-2013,Auktion,152,5230,5,1913,
 607,Villa,Kløvervej 13,7000, Fredericia,945000 ,02-01-2013,Alm. Salg,92,10272,4,1962,
 607,Rækkehus,Tuxensvej 29,7000, Fredericia,1250000 ,01-01-2013,Alm. Salg,95,13158,4,1968,-4%
 607,Villa,Bøgevej 16,7000, Fredericia,1015000 ,27-12-2012,Alm. Salg,132,7689,6,1966,-3%
@@ -6771,7 +6634,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Frugthaven 12,7000, Fredericia,1400000 ,23-04-2012,Alm. Salg,164,8537,4,1975,-7%
 607,Villa,Ryesvej 5,7000, Fredericia,1800000 ,22-04-2012,Alm. Salg,173,10405,7,1946,
 607,Villa,Skjoldborgsvej 20,7000, Fredericia,1000000 ,19-04-2012,Alm. Salg,98,10204,4,1953,-9%
-607,Rækkehus,Krügersvej 80,7000, Fredericia,3300000 ,18-04-2012,Alm. Salg,142,23239,4,2012,
 607,Villa,Skyttevej 31,7000, Fredericia,2070000 ,18-04-2012,Alm. Salg,160,12938,5,1952,-14%
 607,Villa,Vandværksvej 2,7000, Fredericia,200000 ,18-04-2012,Auktion,74,2703,2,1877,-20%
 607,Villa,Skyttevej 20,7000, Fredericia,1200000 ,17-04-2012,Alm. Salg,108,11111,3,1953,-7%
@@ -6811,7 +6673,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Uranusvænget 1,7000, Fredericia,1485000 ,23-03-2012,Alm. Salg,152,9770,5,1971,-6%
 607,Villa,Egholmvænget 3,7000, Fredericia,2150000 ,22-03-2012,Alm. Salg,239,8996,8,1979,-2%
 607,Villa,Bodilsvej 22,7000, Fredericia,650000 ,21-03-2012,Alm. Salg,109,5963,4,1964,
-607,Villa,Sanddalparken 13,7000, Fredericia,3510000 ,21-03-2012,Alm. Salg,163,21534,6,1975,-12%
 607,Villa,Nordre Kobbelvej 25,7000, Fredericia,1025000 ,21-03-2012,Alm. Salg,90,11389,4,1967,-2%
 607,Villa,Mølleskovvej 51,7000, Fredericia,3000000 ,20-03-2012,Alm. Salg,196,15306,6,0,-14%
 607,Villa,Bissensvej 10,7000, Fredericia,500000 ,20-03-2012,Alm. Salg,127,3937,5,1973,
@@ -6908,9 +6769,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Treldevej 128,7000, Fredericia,1445000 ,08-01-2012,Alm. Salg,192,7526,7,1956,
 607,Villa,Skullebjerg Allé 20,7000, Fredericia,2425000 ,08-01-2012,Alm. Salg,151,16060,6,2006,-3%
 607,Villa,Vejle Landevej 143,7000, Fredericia,1000000 ,07-01-2012,Alm. Salg,176,5682,5,1900,
-607,Ejerlejlighed,Buen 2,7000, Fredericia,500000 ,05-01-2012,Fam. Salg,75,6667,3,1913,
-607,Ejerlejlighed,Buen 4,7000, Fredericia,500000 ,05-01-2012,Fam. Salg,89,5618,2,1913,
-607,Ejerlejlighed,Ågade 91,7000, Fredericia,500000 ,05-01-2012,Fam. Salg,152,3289,5,1913,
 607,Rækkehus,Thorvaldsensvej 41,7000, Fredericia,775000 ,04-01-2012,Auktion,106,7311,4,1971,
 607,Rækkehus,Vejle Landevej 29A,7000, Fredericia,2010000 ,04-01-2012,Auktion,143,14056,5,1937,
 607,Villa,Oldenvænget 5,7000, Fredericia,1125000 ,03-01-2012,Alm. Salg,140,8036,5,1969,
@@ -6929,7 +6787,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Thulesvej 59,7000, Fredericia,1100000 ,20-12-2011,Alm. Salg,143,7692,5,1972,
 607,Villa,Rødtjørnevej 8,7000, Fredericia,495000 ,20-12-2011,Alm. Salg,166,2982,6,2012,-74%
 607,Villa,Hans De Hoffmanns Vej 16,7000, Fredericia,3085000 ,20-12-2011,Alm. Salg,150,20567,4,1912,3%
-607,Ejerlejlighed,Vejle Landevej 97,7000, Fredericia,3091250 ,19-12-2011,Auktion,135,22898,3,1936,
 607,Villa,Herslev Bygade 17B,7000, Fredericia,658000 ,18-12-2011,Fam. Salg,152,4329,5,1979,
 607,Villa,Tulipanvej 4,7000, Fredericia,1650000 ,17-12-2011,Alm. Salg,213,7746,7,1978,-8%
 607,Villa,Stallerupvej 2,7000, Fredericia,525000 ,16-12-2011,Alm. Salg,106,4953,4,1960,
@@ -7187,7 +7044,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Skærbækvej 113,7000, Fredericia,1695000 ,30-05-2011,Alm. Salg,134,12649,4,1967,
 607,Villa,Solsortevej 14,7000, Fredericia,600000 ,29-05-2011,Alm. Salg,118,5085,5,1952,
 607,Villa,Landsmosevej 49,7000, Fredericia,726335 ,29-05-2011,Alm. Salg,121,6003,4,1996,
-607,Ejerlejlighed,"Øster Voldgade 26C, 1. th",7000, Fredericia,2500000 ,26-05-2011,Alm. Salg,109,22936,4,1962,-7%
 607,Villa,Stensgårdsvej 29,7000, Fredericia,1100000 ,26-05-2011,Alm. Salg,179,6145,6,2013,
 607,Villa,Plantagevej 34,7000, Fredericia,1755000 ,26-05-2011,Alm. Salg,145,12103,5,1977,-2%
 607,Villa,Rønnebækgårdsvej 25,7000, Fredericia,1470000 ,25-05-2011,Auktion,213,6901,5,1979,
@@ -7374,7 +7230,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Digevænget 5,7000, Fredericia,625384 ,20-12-2010,Andet,96,6514,3,1969,
 607,Villa,Baunegårdsvej 88,7000, Fredericia,2000000 ,20-12-2010,Fam. Salg,230,8696,7,1974,
 607,Rækkehus,Stenhøjvænget 74,7000, Fredericia,1638000 ,18-12-2010,Alm. Salg,99,16545,4,2001,-1%
-607,Villa,Baunegårdsvej 47,7000, Fredericia,4750000 ,18-12-2010,Alm. Salg,207,22947,7,1974,
 607,Villa,Morbærvej 42A,7000, Fredericia,1465000 ,15-12-2010,Alm. Salg,114,12851,4,2004,-2%
 607,Villa,Højrupvej 68,7000, Fredericia,4950000 ,15-12-2010,Auktion,265,18679,8,2005,
 607,Villa,Enggårdsparken 20,7000, Fredericia,750000 ,15-12-2010,Alm. Salg,167,4491,5,2012,-14%
@@ -7558,7 +7413,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Jordbærhaven 11,7000, Fredericia,710000 ,11-08-2010,Alm. Salg,188,3777,6,1999,
 607,Villa,Kolding Landevej 138,7000, Fredericia,542750 ,11-08-2010,Andet,188,2887,5,1920,-61%
 607,Villa,Overmarken 9,7000, Fredericia,500000 ,11-08-2010,Alm. Salg,163,3067,6,2012,-9%
-607,Villa,Grethevej 13,7000, Fredericia,2325000 ,09-08-2010,Alm. Salg,100,23250,3,1939,-3%
 607,Villa,Carit Etlars Vej 1,7000, Fredericia,1150000 ,09-08-2010,Alm. Salg,160,7188,7,1923,-4%
 607,Rækkehus,Thorvaldsensvej 7,7000, Fredericia,595000 ,08-08-2010,Alm. Salg,61,9754,2,1971,
 607,Rækkehus,Kæret 4,7000, Fredericia,1500000 ,08-08-2010,Alm. Salg,131,11450,4,2008,-36%
@@ -7733,7 +7587,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Indre Ringvej 117,7000, Fredericia,1285000 ,16-04-2010,Alm. Salg,116,11078,3,1964,-8%
 607,Villa,Skippervænget 2,7000, Fredericia,300000 ,16-04-2010,Fam. Salg,117,2564,4,1978,
 607,Villa,Grønlandsvej 3,7000, Fredericia,950000 ,15-04-2010,Alm. Salg,59,16102,2,1948,-12%
-607,Villa,Vejrmosegårds Allé 100,7000, Fredericia,4200000 ,15-04-2010,Alm. Salg,192,21875,6,1980,-4%
 607,Villa,Niels Bohrs Vej 47,7000, Fredericia,410000 ,15-04-2010,Alm. Salg,204,2010,6,2013,-17%
 607,Villa,Blomsterhaven 37,7000, Fredericia,1405000 ,14-04-2010,Alm. Salg,112,12545,4,1978,-6%
 607,Villa,Herslev Kirkevej 42B,7000, Fredericia,1440000 ,14-04-2010,Alm. Salg,159,9057,6,1979,-4%
@@ -7764,10 +7617,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Niels W. Gades Allé 1,7000, Fredericia,825000 ,25-03-2010,Fam. Salg,180,4583,6,1967,
 607,Villa,I. P. Hartmanns Vej 6,7000, Fredericia,1630000 ,25-03-2010,Alm. Salg,141,11560,5,1968,
 607,Villa,Fælledvej 23,7000, Fredericia,850000 ,24-03-2010,Auktion,155,5484,5,1934,-15%
-607,Rækkehus,Ussinggårdsvej 8,7000, Fredericia,1200000 ,23-03-2010,Fam. Salg,102,11765,4,1981,
 607,Ejerlejlighed,"Jernbanegade 23, 4. tv",7000, Fredericia,900000 ,23-03-2010,Alm. Salg,93,9677,4,1950,-13%
 607,Villa,Kaltoftevej 24,7000, Fredericia,2330000 ,23-03-2010,Fam. Salg,140,16643,6,1968,
-607,Villa,Asbjørnsvænget 2,7000, Fredericia,1200000 ,23-03-2010,Alm. Salg,150,8000,5,1965,
 607,Rækkehus,Tuxensvej 15,7000, Fredericia,1300000 ,22-03-2010,Alm. Salg,95,13684,4,1967,
 607,Villa,Gl. Færgevej 69,7000, Fredericia,2650000 ,22-03-2010,Alm. Salg,390,6795,7,1974,-12%
 607,Villa,Bjørnevej 4,7000, Fredericia,792946 ,22-03-2010,Fam. Salg,161,4925,6,1932,
@@ -7824,7 +7675,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Jasminvej 10,7000, Fredericia,1337600 ,20-02-2010,Alm. Salg,144,9289,5,1936,-11%
 607,Villa,Carl Roses Vej 4,7000, Fredericia,620000 ,18-02-2010,Alm. Salg,128,4844,2,2011,-17%
 607,Villa,Golfvænget 31,7000, Fredericia,2500000 ,18-02-2010,Alm. Salg,142,17606,6,2005,-6%
-607,Rækkehus,Strandagervænget 24,7000, Fredericia,5200000 ,16-02-2010,Alm. Salg,241,21577,4,1973,-13%
 607,Rækkehus,Nordre Kobbelvej 62,7000, Fredericia,617902 ,15-02-2010,Fam. Salg,106,5829,4,1971,
 607,Villa,Irisvej 16,7000, Fredericia,749000 ,15-02-2010,Alm. Salg,130,5762,5,1966,-50%
 607,Villa,Elboparken 9,7000, Fredericia,756591 ,15-02-2010,Andet,153,4945,6,1969,
@@ -7903,7 +7753,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Krügersvej 41,7000, Fredericia,1000000 ,16-12-2009,Alm. Salg,147,6803,6,2010,
 607,Rækkehus,Stenhøjvænget 113,7000, Fredericia,1845000 ,15-12-2009,Alm. Salg,109,16927,4,2004,-3%
 607,Villa,Kaalundsvej 14,7000, Fredericia,1525000 ,14-12-2009,Alm. Salg,133,11466,5,1975,-8%
-607,Villa,Skovkrogen 137,7000, Fredericia,3800000 ,13-12-2009,Alm. Salg,174,21839,4,2007,-5%
 607,Villa,Grundtvigsvej 17,7000, Fredericia,2670000 ,12-12-2009,Alm. Salg,232,11509,8,2006,-4%
 607,Villa,Brahesborgvej 36,7000, Fredericia,1925000 ,09-12-2009,Alm. Salg,173,11127,5,1980,
 607,Villa,Stenten 113,7000, Fredericia,1375000 ,09-12-2009,Alm. Salg,134,10261,5,1977,-8%
@@ -7941,7 +7790,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Nymarksvej 150,7000, Fredericia,1198000 ,23-11-2009,Alm. Salg,115,10417,5,1965,
 607,Rækkehus,Nordre Kobbelvej 72,7000, Fredericia,930000 ,19-11-2009,Alm. Salg,95,9789,3,1971,-7%
 607,Ejerlejlighed,"Dalegade 87, 2",7000, Fredericia,450000 ,19-11-2009,Alm. Salg,64,7031,2,1903,
-607,Villa,Peder Gribs Vej 5,7000, Fredericia,6995000 ,19-11-2009,Alm. Salg,321,21791,5,2010,
 607,Villa,Nyager 24,7000, Fredericia,1550000 ,19-11-2009,Alm. Salg,157,9873,4,1977,-3%
 607,Villa,Blåkjærsvej 15,7000, Fredericia,2467000 ,19-11-2009,Alm. Salg,173,14260,5,1973,-5%
 607,Ejerlejlighed,"Vesterbrogade 29, 3. 3",7000, Fredericia,248000 ,18-11-2009,Auktion,34,7294,1,1955,
@@ -8099,7 +7947,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Rækkehus,Fynsgade 36,7000, Fredericia,1500000 ,09-07-2009,Alm. Salg,100,15000,4,1898,-3%
 607,Rækkehus,Armandsvej 11,7000, Fredericia,266148 ,08-07-2009,Fam. Salg,101,2635,4,1949,
 607,Villa,Willumsensvænget 5,7000, Fredericia,930000 ,08-07-2009,Alm. Salg,94,9894,4,1969,-15%
-607,Villa,Drejøvænget 1,7000, Fredericia,1645000 ,08-07-2009,Alm. Salg,72,22847,3,1956,-3%
 607,Villa,Finsensvej 62,7000, Fredericia,2945000 ,08-07-2009,Alm. Salg,186,15833,6,2008,-12%
 607,Rækkehus,Sjællandsgade 45,7000, Fredericia,1700000 ,07-07-2009,Alm. Salg,126,13492,4,1896,-3%
 607,Rækkehus,Erritsøgårdsvej 93,7000, Fredericia,1345000 ,07-07-2009,Alm. Salg,108,12454,4,1979,-4%
@@ -8274,7 +8121,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Grønkjærsvej 24,7000, Fredericia,1275000 ,08-03-2009,Fam. Salg,134,9515,4,1971,
 607,Villa,Holtegårdsvej 25,7000, Fredericia,1550000 ,07-03-2009,Alm. Salg,143,10839,4,1969,-6%
 607,Villa,Follerupvej 31,7000, Fredericia,800000 ,07-03-2009,Alm. Salg,222,3604,5,1925,-11%
-607,Ejerlejlighed,"Øster Voldgade 26A, st",7000, Fredericia,2600000 ,06-03-2009,Alm. Salg,116,22414,3,1962,
 607,Villa,Rudolf Steiner Allé 54,7000, Fredericia,2754000 ,06-03-2009,Fam. Salg,154,17883,6,2008,
 607,Villa,Vejrmosegårds Allé 34,7000, Fredericia,1080000 ,05-03-2009,Fam. Salg,146,7397,5,1974,
 607,Villa,Vejrmosegårds Allé 96,7000, Fredericia,2805000 ,05-03-2009,Alm. Salg,227,12357,8,1972,-32%
@@ -8361,8 +8207,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Asser Jensens Vej 27,7000, Fredericia,600000 ,07-12-2008,Alm. Salg,112,5357,4,2009,
 607,Villa,Rudolf Steiner Allé 28,7000, Fredericia,911000 ,06-12-2008,Alm. Salg,195,4672,6,2010,
 607,Villa,Trelde Næsvej 33,7000, Fredericia,1800000 ,05-12-2008,Alm. Salg,239,7531,6,2021,-28%
-607,Ejerlejlighed,"Skærbækvej 118, 1",7000, Fredericia,1200000 ,04-12-2008,Alm. Salg,70,17143,2,1936,-11%
-607,Villa,Skærbækvej 118,7000, Fredericia,1200000 ,04-12-2008,Alm. Salg,159,7547,5,1936,-11%
 607,Villa,Nøddevænget 4,7000, Fredericia,817826 ,03-12-2008,Fam. Salg,266,3075,6,1973,
 607,Villa,Smalagervej 12,7000, Fredericia,1449000 ,01-12-2008,Alm. Salg,147,9857,3,1925,
 607,Villa,Fælledvej 20,7000, Fredericia,2995000 ,30-11-2008,Alm. Salg,167,17934,6,1928,-6%
@@ -8422,7 +8266,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Engelundsvej 20,7000, Fredericia,585000 ,19-10-2008,Alm. Salg,160,3656,6,2009,
 607,Villa,Enggårdsparken 2,7000, Fredericia,465000 ,19-10-2008,Alm. Salg,198,2348,6,2009,
 607,Rækkehus,Thorvaldsensvej 6,7000, Fredericia,1195000 ,16-10-2008,Alm. Salg,80,14938,3,1966,
-607,Villa,Skærbækvej 13,7000, Fredericia,5950000 ,16-10-2008,Alm. Salg,201,21875,4,1993,
 607,Villa,Jadevænget 12,7000, Fredericia,1700000 ,15-10-2008,Alm. Salg,135,12593,6,1971,-5%
 607,Villa,Blåhøj 1,7000, Fredericia,1735000 ,15-10-2008,Alm. Salg,166,10452,5,1981,-9%
 607,Villa,Kobbelgårdsvej 6,7000, Fredericia,1820065 ,15-10-2008,Alm. Salg,128,14219,3,2008,
@@ -8545,7 +8388,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Skansevej 17,7000, Fredericia,2262500 ,12-07-2008,Alm. Salg,158,14320,4,1939,
 607,Villa,Stensgårdsvej 43,7000, Fredericia,2125000 ,10-07-2008,Alm. Salg,154,13799,6,1978,-1%
 607,Villa,Brovadvej 12,7000, Fredericia,789256 ,10-07-2008,Fam. Salg,151,5227,5,1985,
-607,Villa,Herthavej 18,7000, Fredericia,1350000 ,09-07-2008,Alm. Salg,59,22881,2,1938,-3%
 607,Villa,Carit Etlars Vej 17,7000, Fredericia,1995000 ,09-07-2008,Alm. Salg,160,12469,7,1937,
 607,Villa,Tuevej 58,7000, Fredericia,2190000 ,09-07-2008,Alm. Salg,107,20467,4,1954,
 607,Villa,Blomsterhaven 18,7000, Fredericia,822500 ,08-07-2008,Alm. Salg,129,6376,5,1979,
@@ -8581,10 +8423,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Engelundsvej 40,7000, Fredericia,560000 ,25-06-2008,Alm. Salg,164,3415,6,2009,
 607,Rækkehus,Stævnebogårdsvej 25,7000, Fredericia,1350000 ,24-06-2008,Alm. Salg,91,14835,4,1977,
 607,Rækkehus,Langesøvej 40,7000, Fredericia,1400000 ,24-06-2008,Alm. Salg,99,14141,4,1979,-3%
-607,Ejerlejlighed,"Glentevej 14, st. tv",7000, Fredericia,850000 ,24-06-2008,Alm. Salg,77,11039,3,1935,-4%
 607,Villa,Harevej 16,7000, Fredericia,2750000 ,24-06-2008,Alm. Salg,164,16768,6,1954,-3%
 607,Villa,Højtoften 11,7000, Fredericia,800000 ,24-06-2008,Fam. Salg,140,5714,4,1965,
-607,Villa,Drejøvænget 1,7000, Fredericia,850000 ,24-06-2008,Fam. Salg,72,11806,3,1956,
 607,Villa,Stenten 5,7000, Fredericia,1385000 ,23-06-2008,Alm. Salg,106,13066,4,1965,
 607,Villa,Engelundsvej 22,7000, Fredericia,575000 ,23-06-2008,Alm. Salg,137,4197,5,2009,
 607,Villa,Fælledvej 89,7000, Fredericia,1450000 ,22-06-2008,Fam. Salg,160,9063,6,1965,
@@ -8717,7 +8557,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Herredsvej 13,7000, Fredericia,1910000 ,10-04-2008,Alm. Salg,134,14254,3,1967,-3%
 607,Rækkehus,Thorsvej 13,7000, Fredericia,1380000 ,09-04-2008,Alm. Salg,78,17692,3,1929,-1%
 607,Villa,Uranusvænget 11,7000, Fredericia,1800000 ,09-04-2008,Alm. Salg,168,10714,5,1971,-5%
-607,Villa,Skullebjerg Allé 37,7000, Fredericia,4250000 ,09-04-2008,Alm. Salg,196,21684,7,2002,
 607,Villa,Finsensvej 32,7000, Fredericia,585000 ,09-04-2008,Alm. Salg,160,3656,5,2011,
 607,Villa,Skjoldborgsvej 53,7000, Fredericia,1475000 ,08-04-2008,Alm. Salg,147,10034,5,1960,
 607,Villa,Holmansvej 15,7000, Fredericia,1745000 ,08-04-2008,Alm. Salg,132,13220,4,1967,-3%
@@ -8804,7 +8643,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Irisvej 19,7000, Fredericia,1325000 ,27-02-2008,Alm. Salg,120,11042,4,1927,2%
 607,Villa,Uranusvænget 22,7000, Fredericia,1750000 ,27-02-2008,Alm. Salg,119,14706,4,1972,
 607,Villa,Erritsø Kirkevej 14,7000, Fredericia,1898000 ,27-02-2008,Alm. Salg,123,15431,4,1965,
-607,Villa,Carl Roses Vej 16,7000, Fredericia,2850000 ,26-02-2008,Alm. Salg,125,22800,5,1930,
 607,Villa,Snoghøjvej 37,7000, Fredericia,1500000 ,26-02-2008,Alm. Salg,101,14851,4,1982,-3%
 607,Villa,Stenhøjvænget 9,7000, Fredericia,3545000 ,26-02-2008,Alm. Salg,185,19162,6,2007,-1%
 607,Rækkehus,Bygvænget 13,7000, Fredericia,1698000 ,25-02-2008,Alm. Salg,99,17152,3,1964,
@@ -8839,7 +8677,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Rækkehus,Sundegade 9,7000, Fredericia,550000 ,12-02-2008,Alm. Salg,95,5789,3,1877,
 607,Villa,Rudolf Steiner Allé 52,7000, Fredericia,995000 ,10-02-2008,Alm. Salg,218,4564,6,2009,
 607,Villa,Fuglebakken 2,7000, Fredericia,2060000 ,09-02-2008,Alm. Salg,126,16349,5,1996,
-607,Villa,Treldevej 14,7000, Fredericia,2025000 ,09-02-2008,Alm. Salg,89,22753,2,1951,-2%
 607,Villa,Baldersvej 33,7000, Fredericia,2145000 ,09-02-2008,Alm. Salg,117,18333,5,1930,
 607,Villa,Teglværksvej 11,7000, Fredericia,1698000 ,09-02-2008,Alm. Salg,93,18258,4,1963,
 607,Villa,Rudolf Steiner Allé 10,7000, Fredericia,850000 ,09-02-2008,Alm. Salg,163,5215,5,2008,
@@ -8853,7 +8690,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Asser Jensens Vej 6,7000, Fredericia,3600000 ,03-02-2008,Alm. Salg,312,11538,9,2008,
 607,Villa,Blomsterhaven 4,7000, Fredericia,2050000 ,31-01-2008,Alm. Salg,165,12424,5,1977,
 607,Villa,Ingemannsvej 3,7000, Fredericia,1750000 ,31-01-2008,Alm. Salg,99,17677,4,1933,
-607,Villa,Lillenæs 30,7000, Fredericia,3500000 ,31-01-2008,Alm. Salg,152,23026,4,1997,
 607,Villa,Søbakken 3,7000, Fredericia,2100000 ,31-01-2008,Alm. Salg,167,12575,5,1971,-8%
 607,Villa,Overmarken 19,7000, Fredericia,650000 ,31-01-2008,Alm. Salg,123,5285,4,2008,
 607,Villa,Kolding Landevej 124,7000, Fredericia,895000 ,30-01-2008,Alm. Salg,100,8950,3,1860,
@@ -8871,14 +8707,12 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Fasanvej 3,7000, Fredericia,1249000 ,22-01-2008,Alm. Salg,139,8986,5,1923,
 607,Rækkehus,Krogtoftevej 28,7000, Fredericia,1500000 ,21-01-2008,Alm. Salg,130,11538,5,1981,-16%
 607,Ejerlejlighed,"Vesterbrogade 29, 2. 3",7000, Fredericia,410000 ,20-01-2008,Alm. Salg,34,12059,1,1955,-4%
-607,Villa,Blåhøj 80,7000, Fredericia,4114000 ,20-01-2008,Alm. Salg,180,22856,6,1978,3%
 607,Rækkehus,Anchersvej 17,7000, Fredericia,1249000 ,17-01-2008,Alm. Salg,124,10073,5,1968,
 607,Villa,Chr. Winthers Vej 7,7000, Fredericia,1300000 ,17-01-2008,Alm. Salg,106,12264,4,1964,-4%
 607,Villa,Havepladsvej 16,7000, Fredericia,1885000 ,17-01-2008,Alm. Salg,167,11287,6,1933,
 607,Villa,Finsensvej 38,7000, Fredericia,675000 ,17-01-2008,Alm. Salg,143,4720,6,2008,
 607,Villa,Rungsvej 3,7000, Fredericia,1900000 ,16-01-2008,Alm. Salg,165,11515,6,1969,-4%
 607,Villa,Olafsvej 23,7000, Fredericia,1275000 ,16-01-2008,Alm. Salg,131,9733,6,1953,
-607,Villa,Carl Roses Vej 14,7000, Fredericia,3250000 ,16-01-2008,Alm. Salg,140,23214,5,2003,-7%
 607,Villa,Huslodsvej 10,7000, Fredericia,2000000 ,16-01-2008,Alm. Salg,101,19802,6,1936,6%
 607,Villa,Kraftværksvej 3,7000, Fredericia,1316000 ,15-01-2008,Alm. Salg,98,13429,4,1952,
 607,Villa,Møllebo Allé 37,7000, Fredericia,1289768 ,14-01-2008,Alm. Salg,128,10076,6,1977,
@@ -8901,7 +8735,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Ellehammersvej 25,7000, Fredericia,2995000 ,04-01-2008,Alm. Salg,161,18602,6,2007,-1%
 607,Villa,Alsvænget 2,7000, Fredericia,1830000 ,03-01-2008,Alm. Salg,155,11806,5,1974,
 607,Villa,Surkjærsgyde 23,7000, Fredericia,874000 ,03-01-2008,Andet,134,6522,4,1850,
-607,Villa,Bülowsvej 9,7000, Fredericia,2398000 ,03-01-2008,Alm. Salg,110,21800,5,1948,4%
 607,Villa,Skærbækvej 117,7000, Fredericia,892500 ,01-01-2008,Alm. Salg,179,4986,8,1968,
 607,Ejerlejlighed,"Jernbanegade 27, st. th",7000, Fredericia,1050000 ,30-12-2007,Alm. Salg,75,14000,2,1956,
 607,Villa,Erritsø Bygade 63,7000, Fredericia,1700000 ,26-12-2007,Alm. Salg,192,8854,7,1942,-12%
@@ -8911,7 +8744,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Ejerlejlighed,"Prinsessegade 56B, 2. th",7000, Fredericia,940000 ,21-12-2007,Alm. Salg,75,12533,3,1923,-2%
 607,Ejerlejlighed,"Jernbanegade 11, 4. tv",7000, Fredericia,1085000 ,20-12-2007,Alm. Salg,84,12917,4,1935,-1%
 607,Villa,Vibevej 6,7000, Fredericia,1895000 ,20-12-2007,Alm. Salg,138,13732,4,1958,
-607,Villa,Sanddalparken 4,7000, Fredericia,3250000 ,20-12-2007,Alm. Salg,147,22109,5,1989,-1%
 607,Villa,6.Julivej 28,7000, Fredericia,1975000 ,20-12-2007,Alm. Salg,124,15927,4,1918,
 607,Villa,Skolesvinget 8,7000, Fredericia,554543 ,20-12-2007,Alm. Salg,72,7702,2,1955,
 607,Villa,Skullebjerg Allé 29,7000, Fredericia,1150000 ,20-12-2007,Alm. Salg,184,6250,4,2021,
@@ -9007,7 +8839,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Fuglsangparken 23,7000, Fredericia,2025000 ,04-11-2007,Alm. Salg,128,15820,4,1996,
 607,Rækkehus,Bissensvej 51,7000, Fredericia,1465000 ,01-11-2007,Alm. Salg,107,13692,4,1967,-1%
 607,Villa,Loddet 51,7000, Fredericia,850000 ,01-11-2007,Alm. Salg,156,5449,5,2015,
-607,Rækkehus,Luthersvej 27C,7000, Fredericia,1200000 ,31-10-2007,Fam. Salg,68,17647,2,1970,
 607,Villa,Brahesborgvej 35,7000, Fredericia,2195000 ,31-10-2007,Alm. Salg,146,15034,5,1983,
 607,Ejerlejlighed,"Jernbanegade 29, st. th",7000, Fredericia,1315000 ,30-10-2007,Alm. Salg,75,17533,3,1956,
 607,Villa,Annavej 8,7000, Fredericia,1560000 ,30-10-2007,Alm. Salg,94,16596,4,1938,8%
@@ -9016,13 +8847,11 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Finsensvej 18,7000, Fredericia,500000 ,30-10-2007,Alm. Salg,164,2577,6,2008,
 607,Ejerlejlighed,"Prinsessegade 54, st. th",7000, Fredericia,995000 ,29-10-2007,Alm. Salg,80,12438,1,1893,
 607,Villa,Højrupvej 86,7000, Fredericia,860000 ,29-10-2007,Alm. Salg,70,12286,2,1867,-4%
-607,Villa,Skærbæk Møllevej 25,7000, Fredericia,3485000 ,29-10-2007,Alm. Salg,159,21918,7,1961,-3%
 607,Villa,Moltkesvej 15,7000, Fredericia,2600000 ,29-10-2007,Alm. Salg,163,15951,6,1914,
 607,Villa,Ellegårdsparken 37,7000, Fredericia,950000 ,28-10-2007,Alm. Salg,172,5523,5,2016,
 607,Villa,Loddet 13,7000, Fredericia,925000 ,26-10-2007,Alm. Salg,196,4719,5,2008,
 607,Ejerlejlighed,"Glentevej 2, 1. th",7000, Fredericia,925000 ,25-10-2007,Alm. Salg,77,12013,3,1925,-1%
 607,Villa,Jacob Hansens Vej 13,7000, Fredericia,1225000 ,25-10-2007,Alm. Salg,100,12250,4,1953,-4%
-607,Villa,Herslev Fælledvej 56,7000, Fredericia,3410000 ,25-10-2007,Alm. Salg,152,22434,5,2011,
 607,Ejerlejlighed,"Indre Ringvej 21, 2. tv",7000, Fredericia,1050000 ,24-10-2007,Alm. Salg,96,10938,4,1955,-2%
 607,Villa,Børup Skovvej 24,7000, Fredericia,783333 ,24-10-2007,Alm. Salg,157,4989,5,1930,
 607,Ejerlejlighed,"Danmarksgade 17B, 1",7000, Fredericia,2295000 ,23-10-2007,Alm. Salg,156,14712,3,1957,
@@ -9054,7 +8883,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Rækkehus,Ussinggårdsvej 10,7000, Fredericia,1475000 ,10-10-2007,Alm. Salg,102,14461,4,1981,-1%
 607,Villa,Blommevej 4,7000, Fredericia,1525000 ,10-10-2007,Alm. Salg,148,10304,6,1994,
 607,Villa,Højdedraget 35,7000, Fredericia,1538000 ,10-10-2007,Alm. Salg,122,12607,5,1980,
-607,Villa,Lillenæs 83,7000, Fredericia,2800000 ,10-10-2007,Alm. Salg,124,22581,4,1985,
 607,Ejerlejlighed,"Bjergegade 67A, 1",7000, Fredericia,850000 ,09-10-2007,Alm. Salg,100,8500,3,1890,
 607,Villa,Fridtjof Nansens Vej 3,7000, Fredericia,2295000 ,09-10-2007,Alm. Salg,135,17000,5,1993,
 607,Villa,Magnoliavænget 3,7000, Fredericia,1695000 ,09-10-2007,Alm. Salg,146,11610,4,1971,
@@ -9096,9 +8924,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Asser Jensens Vej 46,7000, Fredericia,3125000 ,23-09-2007,Alm. Salg,164,19055,6,2007,
 607,Villa,Mønstedsvænget 23,7000, Fredericia,1225000 ,22-09-2007,Alm. Salg,90,13611,4,1969,
 607,Rækkehus,Danmarksgade 64,7000, Fredericia,1147500 ,20-09-2007,Fam. Salg,132,8693,4,1870,
-607,Ejerlejlighed,Kongensgade 40,7000, Fredericia,1997500 ,20-09-2007,Fam. Salg,91,21951,3,1890,
-607,Ejerlejlighed,Danmarksgade 66,7000, Fredericia,1997500 ,20-09-2007,Fam. Salg,90,22194,4,1890,
-607,Ejerlejlighed,Danmarksgade 68,7000, Fredericia,1997500 ,20-09-2007,Fam. Salg,90,22194,3,1890,
 607,Villa,Brovadvej 20,7000, Fredericia,1500000 ,20-09-2007,Alm. Salg,118,12712,4,1964,-3%
 607,Villa,Erritsø Bygade 18,7000, Fredericia,1935000 ,20-09-2007,Alm. Salg,172,11250,4,1924,-10%
 607,Villa,Prangervej 34,7000, Fredericia,1995000 ,20-09-2007,Alm. Salg,125,15960,5,1931,
@@ -9302,10 +9127,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Jens Thuesens Vej 40,7000, Fredericia,1335000 ,26-06-2007,Alm. Salg,115,11609,4,1970,
 607,Villa,Ellehammersvej 10,7000, Fredericia,2825500 ,26-06-2007,Alm. Salg,157,17997,6,2007,-1%
 607,Ejerlejlighed,"Calvinsvej 62, 1. tv",7000, Fredericia,755000 ,25-06-2007,Alm. Salg,62,12177,3,1938,-3%
-607,Ejerlejlighed,Violvej 3,7000, Fredericia,1775000 ,25-06-2007,Alm. Salg,91,19505,1,1931,
 607,Villa,Vejle Landevej 133,7000, Fredericia,505161 ,25-06-2007,Fam. Salg,146,3460,3,1000,
 607,Villa,Holtegårdsvej 13,7000, Fredericia,1701000 ,25-06-2007,Alm. Salg,184,9245,5,1968,
-607,Villa,"Havepladsvej 50, st",7000, Fredericia,1775000 ,25-06-2007,Alm. Salg,101,17574,2,1922,
 607,Villa,Prangervej 99,7000, Fredericia,950000 ,24-06-2007,Alm. Salg,71,13380,3,1934,-5%
 607,Villa,Gl. Landevej 60,7000, Fredericia,1898000 ,24-06-2007,Alm. Salg,184,10315,6,1970,
 607,Villa,Kaptajn Bangs Vej 6,7000, Fredericia,1685000 ,24-06-2007,Alm. Salg,126,13373,5,1971,-1%
@@ -9344,7 +9167,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Krogtoftevej 50,7000, Fredericia,1995000 ,12-06-2007,Alm. Salg,130,15346,5,1996,
 607,Villa,Prangervej 61,7000, Fredericia,1290000 ,12-06-2007,Alm. Salg,92,14022,3,1950,-4%
 607,Villa,Asser Jensens Vej 4,7000, Fredericia,640000 ,12-06-2007,Alm. Salg,199,3216,5,2009,
-607,Villa,Randalsvej 44,7000, Fredericia,2295000 ,12-06-2007,Alm. Salg,106,21651,4,1955,5%
 607,Villa,Kastanievej 22,7000, Fredericia,1400000 ,12-06-2007,Alm. Salg,138,10145,5,1972,
 607,Villa,Egeskovvej 37,7000, Fredericia,1898000 ,12-06-2007,Alm. Salg,138,13754,6,1928,3%
 607,Villa,Finsensvej 10,7000, Fredericia,550000 ,12-06-2007,Alm. Salg,191,2880,6,2008,
@@ -9355,7 +9177,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Stenhøjvænget 10,7000, Fredericia,2345000 ,09-06-2007,Alm. Salg,137,17117,5,2001,
 607,Rækkehus,Ussinggårdsvej 26,7000, Fredericia,1500000 ,07-06-2007,Alm. Salg,102,14706,4,1980,
 607,Villa,Gl. Ribevej 89,7000, Fredericia,1950000 ,07-06-2007,Alm. Salg,186,10484,5,1900,
-607,Villa,Løvagervej 1,7000, Fredericia,1700000 ,07-06-2007,Alm. Salg,135,12593,4,1972,
 607,Villa,Grethevej 22,7000, Fredericia,1780000 ,07-06-2007,Alm. Salg,137,12993,4,1921,
 607,Villa,Elboskrænten 7,7000, Fredericia,1211487 ,06-06-2007,Fam. Salg,193,6277,7,1977,
 607,Ejerlejlighed,"Havepladsvej 176, 2. th",7000, Fredericia,725000 ,05-06-2007,Alm. Salg,75,9667,3,1966,
@@ -9376,7 +9197,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Bredager 13,7000, Fredericia,1439000 ,31-05-2007,Alm. Salg,108,13324,4,1975,
 607,Villa,Herslev Skovvej 20,7000, Fredericia,1250000 ,31-05-2007,Alm. Salg,173,7225,3,1947,-11%
 607,Villa,Bogvænget 4,7000, Fredericia,760000 ,30-05-2007,Fam. Salg,141,5390,5,1975,
-607,Villa,Rødtjørnevej 27,7000, Fredericia,4075000 ,30-05-2007,Alm. Salg,178,22893,6,2003,
 607,Villa,Lunddalvej 20,7000, Fredericia,2000000 ,30-05-2007,Fam. Salg,170,11765,6,1976,
 607,Ejerlejlighed,"Jyllandsgade 6, st",7000, Fredericia,1329000 ,29-05-2007,Alm. Salg,99,13424,3,1896,
 607,Villa,Berberisvej 19,7000, Fredericia,1375000 ,29-05-2007,Alm. Salg,111,12387,4,1977,
@@ -9428,7 +9248,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Krybily Allé 1,7000, Fredericia,901424 ,15-05-2007,Alm. Salg,140,6439,5,1978,
 607,Villa,Ternevej 5,7000, Fredericia,1000000 ,15-05-2007,Alm. Salg,117,8547,4,1963,-17%
 607,Rækkehus,Stævnebogårdsvej 67,7000, Fredericia,1200000 ,14-05-2007,Fam. Salg,91,13187,3,1978,
-607,Villa,Smedegårdsvej 44,7000, Fredericia,3295000 ,14-05-2007,Alm. Salg,153,21536,5,1996,
 607,Villa,Østergade 15,7000, Fredericia,1345000 ,14-05-2007,Alm. Salg,150,8967,4,1923,
 607,Villa,Sanddalvej 33,7000, Fredericia,1595000 ,14-05-2007,Alm. Salg,150,10633,5,1966,
 607,Villa,Overgade 29,7000, Fredericia,2650000 ,14-05-2007,Alm. Salg,148,17905,5,1954,-5%
@@ -9441,7 +9260,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Fridtjof Nansens Vej 12,7000, Fredericia,1950000 ,11-05-2007,Alm. Salg,137,14234,5,1995,
 607,Villa,Røde Banke 38,7000, Fredericia,1590000 ,11-05-2007,Alm. Salg,144,11042,4,1973,-6%
 607,Rækkehus,Karensvej 4,7000, Fredericia,1530000 ,10-05-2007,Alm. Salg,111,13784,3,1928,
-607,Villa,Trelde Næsvej 217,7000, Fredericia,3927500 ,10-05-2007,Alm. Salg,169,23240,6,1983,
 607,Villa,Brovadvej 54,7000, Fredericia,1525000 ,10-05-2007,Alm. Salg,122,12500,4,1974,
 607,Villa,Mosegårdsvej 30,7000, Fredericia,1750000 ,10-05-2007,Alm. Salg,133,13158,5,1985,
 607,Villa,Pjedsted Engvej 7,7000, Fredericia,1045000 ,10-05-2007,Alm. Salg,98,10663,3,1969,
@@ -9470,7 +9288,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Grethevej 29,7000, Fredericia,1200000 ,02-05-2007,Alm. Salg,85,14118,4,1965,
 607,Rækkehus,6.Julivej 75,7000, Fredericia,1200000 ,01-05-2007,Alm. Salg,83,14458,4,1921,
 607,Villa,Digevænget 7,7000, Fredericia,875000 ,01-05-2007,Alm. Salg,108,8102,4,1976,
-607,Villa,Herslev Bygade 17C,7000, Fredericia,1250000 ,01-05-2007,Alm. Salg,121,10331,6,1975,
 607,Villa,Egeskovvej 28,7000, Fredericia,1100000 ,01-05-2007,Fam. Salg,133,8271,5,1919,
 607,Villa,Skyttevej 31,7000, Fredericia,1550000 ,30-04-2007,Alm. Salg,160,9688,5,1952,
 607,Villa,Lathyrusvej 21,7000, Fredericia,1350000 ,30-04-2007,Alm. Salg,110,12273,3,1926,
@@ -9527,7 +9344,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Kobbelgårdsvej 32,7000, Fredericia,576770 ,09-04-2007,Fam. Salg,137,4210,5,1998,
 607,Villa,Fårbækvejen 1,7000, Fredericia,495000 ,09-04-2007,Alm. Salg,167,2964,6,2014,
 607,Villa,Martinsvej 21,7000, Fredericia,789621 ,07-04-2007,Fam. Salg,172,4591,8,1917,
-607,Villa,Smedegårdsvej 46,7000, Fredericia,4000000 ,06-04-2007,Alm. Salg,180,22222,6,1998,
 607,Villa,Lundagervej 12,7000, Fredericia,1950000 ,05-04-2007,Alm. Salg,208,9375,7,1973,
 607,Rækkehus,Forsythiavej 55,7000, Fredericia,1575000 ,03-04-2007,Alm. Salg,135,11667,5,2001,
 607,Villa,Ildtornvej 19,7000, Fredericia,1450000 ,03-04-2007,Alm. Salg,115,12609,4,1971,
@@ -9764,7 +9580,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Follerupvej 52,7000, Fredericia,890000 ,29-12-2006,Alm. Salg,65,13692,3,1827,
 607,Villa,Druehaven 1,7000, Fredericia,1475000 ,29-12-2006,Alm. Salg,140,10536,5,1978,
 607,Ejerlejlighed,"Fynsgade 8, 2",7000, Fredericia,860000 ,28-12-2006,Alm. Salg,108,7963,3,1927,
-607,Villa,Gl. Ribevej 17,7000, Fredericia,4212250 ,28-12-2006,Alm. Salg,191,22054,4,1979,
 607,Ejerlejlighed,"Oldenborggade 68, 1. th",7000, Fredericia,525000 ,27-12-2006,Alm. Salg,58,9052,2,1917,
 607,Villa,Peder Bøgvads Vej 8,7000, Fredericia,2610000 ,27-12-2006,Alm. Salg,183,14262,6,2006,
 607,Villa,Ellegårdsparken 25,7000, Fredericia,3250000 ,26-12-2006,Alm. Salg,191,17016,7,2004,
@@ -9851,7 +9666,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Pjedstedvej 66,7000, Fredericia,2245000 ,22-11-2006,Alm. Salg,359,6253,11,1877,
 607,Villa,Slåenvej 27,7000, Fredericia,1500000 ,22-11-2006,Alm. Salg,171,8772,5,1981,
 607,Villa,Snoghøjvej 26,7000, Fredericia,1998000 ,22-11-2006,Alm. Salg,148,13500,6,1998,
-607,Villa,Peder Gribs Vej 5,7000, Fredericia,6995000 ,21-11-2006,Alm. Salg,321,21791,5,2010,
 607,Villa,Adelvej 68,7000, Fredericia,1485000 ,21-11-2006,Alm. Salg,160,9281,5,1877,
 607,Rækkehus,Oksevænget 14,7000, Fredericia,995000 ,20-11-2006,Alm. Salg,81,12284,3,1964,
 607,Villa,Bogvænget 18,7000, Fredericia,1900000 ,20-11-2006,Alm. Salg,146,13014,5,1977,
@@ -9869,8 +9683,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Rækkehus,Bjergegade 56,7000, Fredericia,1520000 ,03-11-2006,Alm. Salg,132,11515,5,1907,
 607,Villa,Krügersvej 4,7000, Fredericia,1500000 ,02-11-2006,Alm. Salg,177,8475,7,1968,
 607,Villa,Stallerupvej 53,7000, Fredericia,2350000 ,01-11-2006,Alm. Salg,185,12703,7,2006,
-607,Ejerlejlighed,Prinsensgade 31A,7000, Fredericia,2000000 ,31-10-2006,Alm. Salg,96,20833,4,1900,
-607,Ejerlejlighed,"Bjergegade 16A, 1",7000, Fredericia,2000000 ,31-10-2006,Alm. Salg,119,16807,4,1900,
 607,Villa,Nyager 23,7000, Fredericia,1605000 ,31-10-2006,Alm. Salg,138,11630,5,1984,
 607,Rækkehus,Thorvaldsensvej 31,7000, Fredericia,1073000 ,30-10-2006,Alm. Salg,95,11295,3,1971,
 607,Rækkehus,Thorvaldsensvej 79,7000, Fredericia,1120500 ,30-10-2006,Alm. Salg,106,10571,4,1971,
@@ -9888,7 +9700,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Jordbærhaven 11,7000, Fredericia,920000 ,24-10-2006,Fam. Salg,188,4894,6,1999,
 607,Villa,Krogsagervej 53,7000, Fredericia,1601000 ,24-10-2006,Alm. Salg,128,12508,5,1975,
 607,Rækkehus,Vangevej 49,7000, Fredericia,1130000 ,23-10-2006,Alm. Salg,86,13140,4,1972,
-607,Villa,Gefionsvej 20,7000, Fredericia,1557000 ,22-10-2006,Alm. Salg,69,22565,2,1937,
 607,Villa,Niels Bohrs Vej 62,7000, Fredericia,470000 ,22-10-2006,Alm. Salg,284,1655,6,2013,
 607,Rækkehus,Nymarksvej 7,7000, Fredericia,1595000 ,21-10-2006,Alm. Salg,120,13292,4,1917,
 607,Villa,Tåsingevej 13,7000, Fredericia,1495000 ,21-10-2006,Alm. Salg,145,10310,5,1964,
@@ -9958,10 +9769,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Skyttevej 34,7000, Fredericia,1633000 ,10-09-2006,Alm. Salg,179,9123,3,1967,
 607,Villa,Hjortevej 13,7000, Fredericia,1485000 ,10-09-2006,Alm. Salg,130,11423,6,1935,
 607,Villa,Zartmannsvej 9,7000, Fredericia,1575000 ,08-09-2006,Alm. Salg,136,11581,5,1967,
-607,Ejerlejlighed,"Fynsgade 31, 1. th",7000, Fredericia,1695000 ,07-09-2006,Alm. Salg,147,11531,4,2004,
 607,Villa,Prangervej 93,7000, Fredericia,1200000 ,07-09-2006,Alm. Salg,101,11881,5,1933,
 607,Villa,Dreyersvænget 4,7000, Fredericia,508570 ,07-09-2006,Andet,99,5137,4,1972,
-607,Villa,Fyrvej 3,7000, Fredericia,1695000 ,07-09-2006,Alm. Salg,129,13140,3,1955,
 607,Villa,Kobbelgårdsvej 6,7000, Fredericia,980000 ,07-09-2006,Fam. Salg,128,7656,3,2008,
 607,Rækkehus,Havepladsvej 183,7000, Fredericia,1075250 ,06-09-2006,Alm. Salg,110,9775,4,1962,
 607,Villa,Fredericiavej 3,7000, Fredericia,2950000 ,06-09-2006,Alm. Salg,238,12395,6,1948,
@@ -10103,7 +9912,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Loddet 52,7000, Fredericia,575000 ,05-07-2006,Alm. Salg,193,2979,5,2013,
 607,Villa,Loddet 32,7000, Fredericia,675000 ,05-07-2006,Alm. Salg,172,3924,5,2007,
 607,Ejerlejlighed,"Norgesgade 18, 2. th",7000, Fredericia,1249000 ,04-07-2006,Alm. Salg,122,10238,4,1896,
-607,Villa,Damvej 13,7000, Fredericia,3000000 ,04-07-2006,Alm. Salg,152,19737,3,1959,
 607,Ejerlejlighed,"Nymarksvej 5, st",7000, Fredericia,1200000 ,03-07-2006,Alm. Salg,117,10256,5,1924,
 607,Villa,Treldevej 79A,7000, Fredericia,1399000 ,03-07-2006,Alm. Salg,113,12381,5,1961,
 607,Villa,Loddet 18,7000, Fredericia,776000 ,03-07-2006,Alm. Salg,200,3880,6,2007,
@@ -10159,7 +9967,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Ravnsgårdsvej 37,7000, Fredericia,1595000 ,17-06-2006,Alm. Salg,113,14115,4,1985,
 607,Ejerlejlighed,"6.Julivej 93, 2. tv",7000, Fredericia,675000 ,15-06-2006,Alm. Salg,57,11842,3,1949,
 607,Villa,Berberisvej 15,7000, Fredericia,1375000 ,15-06-2006,Alm. Salg,108,12731,4,1976,
-607,Villa,Peder Gribs Vej 11,7000, Fredericia,4600000 ,15-06-2006,Alm. Salg,200,23000,6,1975,
 607,Ejerlejlighed,"Sjællandsgade 42, 1. th",7000, Fredericia,1095000 ,14-06-2006,Alm. Salg,103,10631,3,1900,
 607,Villa,Udsigten 10,7000, Fredericia,1785000 ,14-06-2006,Alm. Salg,162,11019,6,1973,
 607,Villa,Lunddalvej 5,7000, Fredericia,727646 ,14-06-2006,Fam. Salg,140,5197,5,1976,
@@ -10283,12 +10090,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Ejerlejlighed,"Sjællandsgade 77D, 2. tv",7000, Fredericia,943622 ,03-05-2006,Alm. Salg,77,12255,3,1970,
 607,Villa,Krybily Allé 33,7000, Fredericia,2559000 ,03-05-2006,Alm. Salg,191,13398,5,2000,
 607,Rækkehus,Oksevænget 8,7000, Fredericia,1260000 ,02-05-2006,Alm. Salg,99,12727,3,1964,
-607,Rækkehus,Erritsøgårdsvej 59,7000, Fredericia,1575000 ,02-05-2006,Alm. Salg,132,11932,4,1979,
 607,Rækkehus,Skovkrogen 99,7000, Fredericia,1499000 ,02-05-2006,Alm. Salg,106,14142,3,2006,
 607,Ejerlejlighed,"Vesterbrogade 33, 1. mf",7000, Fredericia,570000 ,02-05-2006,Alm. Salg,54,10556,2,1955,
 607,Villa,Walther Christmas Vej 13,7000, Fredericia,1675000 ,02-05-2006,Alm. Salg,148,11318,5,1969,
 607,Villa,Indre Ringvej 137,7000, Fredericia,1275000 ,02-05-2006,Alm. Salg,99,12879,4,1932,
-607,Villa,Agerparken 8,7000, Fredericia,1575000 ,02-05-2006,Alm. Salg,151,10430,5,1986,
 607,Ejerlejlighed,"Jyllandsgade 47, 4. th",7000, Fredericia,885000 ,01-05-2006,Alm. Salg,96,9219,2,1935,
 607,Rækkehus,Skovkrogen 101,7000, Fredericia,1499000 ,30-04-2006,Alm. Salg,106,14142,3,2006,
 607,Ejerlejlighed,"Bjergegade 52A, 2. th",7000, Fredericia,695000 ,30-04-2006,Alm. Salg,68,10221,2,1968,
@@ -10573,7 +10378,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Ejerlejlighed,"Jernbanegade 15, 2. th",7000, Fredericia,400000 ,08-01-2006,Alm. Salg,84,4762,4,1935,
 607,Villa,Fjordvejen 29,7000, Fredericia,1000000 ,08-01-2006,Alm. Salg,119,8403,3,1939,
 607,Villa,H. C. Ørsteds Vej 1,7000, Fredericia,2200000 ,08-01-2006,Andet,140,15714,4,1970,
-607,Villa,Smedevænget 5,7000, Fredericia,1800000 ,04-01-2006,Alm. Salg,83,21687,3,1967,
 607,Villa,Walther Christmas Vej 15,7000, Fredericia,1275000 ,04-01-2006,Alm. Salg,115,11087,4,1970,
 607,Villa,Rødtjørnevej 8,7000, Fredericia,500000 ,04-01-2006,Alm. Salg,166,3012,6,2012,
 607,Ejerlejlighed,"Prinsessegade 20B, 1",7000, Fredericia,760000 ,03-01-2006,Alm. Salg,68,11176,2,1917,
@@ -10581,8 +10385,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Atlasvænget 7,7000, Fredericia,1475000 ,03-01-2006,Alm. Salg,204,7230,6,1977,
 607,Ejerlejlighed,"Øster Voldgade 2, 2. 1",7000, Fredericia,1995000 ,02-01-2006,Alm. Salg,153,13039,3,1909,
 607,Ejerlejlighed,"Dronningensgade 104, 1. th",7000, Fredericia,572000 ,01-01-2006,Fam. Salg,62,9226,2,1918,
-607,Ejerlejlighed,"Falkevej 22, 2. tv",7000, Fredericia,795000 ,01-01-2006,Alm. Salg,85,9353,3,1933,
-607,Ejerlejlighed,"Jernbanegade 27, 2. tv",7000, Fredericia,795000 ,01-01-2006,Alm. Salg,88,9034,4,1956,
 607,Villa,Nymarksvej 160,7000, Fredericia,1420500 ,01-01-2006,Alm. Salg,124,11456,4,1973,
 607,Villa,Stenten 79,7000, Fredericia,1795000 ,01-01-2006,Alm. Salg,140,12821,5,1976,
 607,Villa,Slåenvej 29,7000, Fredericia,1595000 ,01-01-2006,Alm. Salg,153,10425,5,1980,
@@ -10668,9 +10470,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Ægirsvej 10,7000, Fredericia,1398000 ,23-11-2005,Alm. Salg,128,10922,6,1932,
 607,Villa,Lundingsvej 22,7000, Fredericia,3900000 ,23-11-2005,Alm. Salg,200,19500,4,2019,
 607,Villa,Fredericiavej 1,7000, Fredericia,1675000 ,22-11-2005,Alm. Salg,154,10877,5,1979,
-607,Ejerlejlighed,"Prangervej 30, 1. tv",7000, Fredericia,1560000 ,21-11-2005,Alm. Salg,77,20260,2,1934,
-607,Ejerlejlighed,Ingemannsvej 2,7000, Fredericia,1560000 ,21-11-2005,Alm. Salg,69,22609,2,1934,
-607,Rækkehus,Trelde Næsvej 227K,7000, Fredericia,3850000 ,20-11-2005,Alm. Salg,167,23054,4,1917,
 607,Ejerlejlighed,"Norgesgade 18, st. th",7000, Fredericia,740000 ,20-11-2005,Alm. Salg,75,9867,2,1896,
 607,Ejerlejlighed,"Jyllandsgade 47, 1. tv",7000, Fredericia,1225000 ,20-11-2005,Alm. Salg,95,9800,4,1935,
 607,Ejerlejlighed,"Jernbanegade 29, st. th",7000, Fredericia,1315000 ,20-11-2005,Alm. Salg,75,17533,3,1956,
@@ -10693,9 +10492,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Fuglsangparken 12,7000, Fredericia,1498000 ,14-11-2005,Alm. Salg,126,11889,4,1995,
 607,Villa,Ekkodalen 3,7000, Fredericia,1770000 ,14-11-2005,Alm. Salg,178,9944,5,1985,
 607,Villa,Siriusvænget 2,7000, Fredericia,1100000 ,13-11-2005,Fam. Salg,126,8730,4,1973,
-607,Ejerlejlighed,Buen 2,7000, Fredericia,1475000 ,10-11-2005,Alm. Salg,75,19667,3,1913,
-607,Ejerlejlighed,Buen 4,7000, Fredericia,1475000 ,10-11-2005,Alm. Salg,89,16573,2,1913,
-607,Ejerlejlighed,Ågade 91,7000, Fredericia,1475000 ,10-11-2005,Alm. Salg,152,9704,5,1913,
 607,Villa,Toldbodvej 22,7000, Fredericia,1150000 ,10-11-2005,Alm. Salg,143,8042,4,1930,
 607,Villa,Nørrebrogade 58,7000, Fredericia,1145000 ,10-11-2005,Alm. Salg,104,11010,4,1956,
 607,Villa,Ægirsvej 58,7000, Fredericia,1040000 ,10-11-2005,Alm. Salg,97,10722,4,1962,
@@ -10725,7 +10521,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Prangervej 86,7000, Fredericia,750000 ,30-10-2005,Alm. Salg,166,4518,5,2007,
 607,Villa,Lillenæs 46,7000, Fredericia,1300000 ,29-10-2005,Alm. Salg,149,8725,5,1987,
 607,Villa,Peder Bøgvads Vej 45,7000, Fredericia,2210600 ,28-10-2005,Alm. Salg,154,14355,6,2006,
-607,Rækkehus,Bjergegade 9A,7000, Fredericia,1010000 ,27-10-2005,Alm. Salg,63,16032,2,1870,
 607,Villa,Ternevej 8,7000, Fredericia,676250 ,27-10-2005,Fam. Salg,103,6566,4,1936,
 607,Ejerlejlighed,"Havepladsvej 152, 2. tv",7000, Fredericia,870000 ,26-10-2005,Alm. Salg,90,9667,3,1955,
 607,Villa,Peder Bøgvads Vej 41,7000, Fredericia,512000 ,26-10-2005,Alm. Salg,195,2626,7,2006,
@@ -10793,16 +10588,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Nordre Kobbelvej 92,7000, Fredericia,1445000 ,03-10-2005,Alm. Salg,148,9764,5,1972,
 607,Villa,Hyrdevej 17,7000, Fredericia,1335000 ,01-10-2005,Alm. Salg,149,8960,4,1947,
 607,Villa,Jomfruvej 11,7000, Fredericia,1955000 ,01-10-2005,Alm. Salg,151,12947,5,1984,
-607,Ejerlejlighed,"Herthavej 11, st. th",7000, Fredericia,900000 ,29-09-2005,Alm. Salg,100,9000,4,1937,
-607,Ejerlejlighed,"Herthavej 11, st. tv",7000, Fredericia,900000 ,29-09-2005,Alm. Salg,100,9000,4,1937,
 607,Ejerlejlighed,"Nørre Voldgade 8B, 1",7000, Fredericia,1650000 ,29-09-2005,Alm. Salg,153,10784,4,1915,
 607,Ejerlejlighed,"Nørre Voldgade 8B, st",7000, Fredericia,1450000 ,29-09-2005,Alm. Salg,120,12083,3,1915,
-607,Ejerlejlighed,"Falstersgade 15, st. th",7000, Fredericia,900000 ,29-09-2005,Alm. Salg,54,16667,2,1917,
-607,Ejerlejlighed,"Falstersgade 15, st. tv",7000, Fredericia,900000 ,29-09-2005,Alm. Salg,54,16667,2,1917,
-607,Ejerlejlighed,"Falstersgade 15, 1. tv",7000, Fredericia,900000 ,29-09-2005,Alm. Salg,54,16667,2,1917,
-607,Ejerlejlighed,"Falstersgade 15, 1. th",7000, Fredericia,900000 ,29-09-2005,Alm. Salg,54,16667,2,1917,
-607,Ejerlejlighed,"Falstersgade 15, 2",7000, Fredericia,900000 ,29-09-2005,Alm. Salg,86,10465,4,1917,
-607,Ejerlejlighed,"Herthavej 11, 1",7000, Fredericia,900000 ,29-09-2005,Alm. Salg,88,10227,2,1937,
 607,Villa,Taulov Kirkevej 6,7000, Fredericia,425000 ,29-09-2005,Fam. Salg,160,2656,4,1932,
 607,Villa,Idasvej 9,7000, Fredericia,815000 ,29-09-2005,Alm. Salg,95,8579,4,1954,
 607,Villa,Krogsagervej 5,7000, Fredericia,1498000 ,29-09-2005,Alm. Salg,140,10700,5,1975,
@@ -10972,7 +10759,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Peder Bøgvads Vej 47,7000, Fredericia,473000 ,04-08-2005,Alm. Salg,170,2782,6,2006,
 607,Villa,Jens Kromanns Vej 24,7000, Fredericia,2200000 ,04-08-2005,Alm. Salg,230,9565,6,2007,
 607,Villa,Fournaisevej 5,7000, Fredericia,1325000 ,04-08-2005,Alm. Salg,135,9815,5,1963,
-607,Ejerlejlighed,"Primulavej 1, st",7000, Fredericia,1900000 ,03-08-2005,Alm. Salg,85,22353,3,1927,
 607,Villa,Titanvænget 17,7000, Fredericia,1420000 ,03-08-2005,Alm. Salg,177,8023,5,1977,
 607,Villa,Herslev Kirkevej 45,7000, Fredericia,475589 ,03-08-2005,Andet,103,4617,4,1969,
 607,Villa,Fyrvej 7,7000, Fredericia,770000 ,03-08-2005,Alm. Salg,109,7064,4,1948,
@@ -10990,7 +10776,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Rudolf Steiner Allé 29,7000, Fredericia,467000 ,31-07-2005,Alm. Salg,153,3052,6,2006,
 607,Villa,Havepladsvej 140,7000, Fredericia,1140000 ,29-07-2005,Alm. Salg,75,15200,3,1937,
 607,Villa,Blomsterhaven 35,7000, Fredericia,1226000 ,28-07-2005,Alm. Salg,102,12020,3,1978,
-607,Villa,Svanevej 15,7000, Fredericia,3140000 ,28-07-2005,Alm. Salg,145,21655,7,1933,
 607,Ejerlejlighed,"Danmarksgade 25, 3",7000, Fredericia,1400000 ,27-07-2005,Alm. Salg,120,11667,4,1905,
 607,Villa,Gotfred Fibigers Vej 7,7000, Fredericia,1195000 ,27-07-2005,Alm. Salg,155,7710,6,1969,
 607,Villa,Gammelby Møllevej 30,7000, Fredericia,985000 ,27-07-2005,Alm. Salg,136,7243,3,1900,
@@ -11080,7 +10865,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Rækkehus,Thorvaldsensvej 67,7000, Fredericia,995000 ,28-06-2005,Alm. Salg,106,9387,4,1971,
 607,Rækkehus,Bjergegade 60,7000, Fredericia,895000 ,28-06-2005,Alm. Salg,140,6393,4,1899,
 607,Villa,Rosenhaven 3,7000, Fredericia,2150000 ,28-06-2005,Alm. Salg,201,10697,5,1998,
-607,Villa,Damvej 13,7000, Fredericia,3000000 ,28-06-2005,Alm. Salg,152,19737,3,1959,
 607,Rækkehus,Anders Billes Vej 43,7000, Fredericia,998000 ,27-06-2005,Alm. Salg,104,9596,5,1921,
 607,Villa,Lunddalvej 30,7000, Fredericia,2600000 ,27-06-2005,Alm. Salg,194,13402,6,1980,
 607,Villa,Nørrebrogade 104,7000, Fredericia,1595000 ,27-06-2005,Alm. Salg,122,13074,4,1994,
@@ -11096,7 +10880,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Grønnemarken 15,7000, Fredericia,750000 ,23-06-2005,Alm. Salg,133,5639,3,2005,
 607,Villa,Morbærvej 26,7000, Fredericia,1250000 ,23-06-2005,Alm. Salg,99,12626,4,1988,
 607,Villa,Blomsterhaven 31,7000, Fredericia,1275000 ,22-06-2005,Alm. Salg,167,7635,5,1980,
-607,Villa,Kattegatvej 17,7000, Fredericia,4160000 ,22-06-2005,Alm. Salg,185,22486,6,1968,
 607,Villa,Frederik 3.s Vej 20,7000, Fredericia,2037500 ,22-06-2005,Alm. Salg,165,12348,6,1919,
 607,Villa,Ametystvænget 3,7000, Fredericia,1350000 ,22-06-2005,Alm. Salg,134,10075,5,1969,
 607,Villa,Gotfred Fibigers Vej 2,7000, Fredericia,1121000 ,22-06-2005,Alm. Salg,115,9748,4,1969,
@@ -11192,7 +10975,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Valnøddevej 1,7000, Fredericia,1220000 ,24-05-2005,Alm. Salg,140,8714,5,1967,
 607,Villa,Tuxensvej 8,7000, Fredericia,826000 ,24-05-2005,Alm. Salg,123,6715,5,1968,
 607,Villa,Havepladsvej 134,7000, Fredericia,970000 ,24-05-2005,Alm. Salg,124,7823,6,1934,
-607,Villa,Gefionsvej 11,7000, Fredericia,1350000 ,24-05-2005,Alm. Salg,164,8232,6,1939,
 607,Ejerlejlighed,"6.Julivej 93, 2. th",7000, Fredericia,670000 ,23-05-2005,Alm. Salg,64,10469,2,1949,
 607,Villa,Jomfruvej 27,7000, Fredericia,995000 ,23-05-2005,Alm. Salg,86,11570,3,1955,
 607,Villa,Skovkrogen 13,7000, Fredericia,1500700 ,23-05-2005,Alm. Salg,125,12006,3,2006,
@@ -11388,7 +11170,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Stationsvej 52,7000, Fredericia,1800000 ,08-03-2005,Alm. Salg,173,10405,6,1927,
 607,Villa,Ågade 53,7000, Fredericia,995000 ,08-03-2005,Alm. Salg,103,9660,4,1964,
 607,Villa,Lundagervej 4,7000, Fredericia,1198000 ,08-03-2005,Alm. Salg,137,8745,4,1971,
-607,Villa,Trelde Næsvej 189,7000, Fredericia,2700000 ,07-03-2005,Alm. Salg,120,22500,6,1941,
 607,Rækkehus,Odinsvej 62,7000, Fredericia,995000 ,06-03-2005,Alm. Salg,130,7654,4,1950,
 607,Villa,Rubinvej 18,7000, Fredericia,1120000 ,06-03-2005,Alm. Salg,133,8421,5,1970,
 607,Villa,Snoghøjvej 25,7000, Fredericia,900000 ,06-03-2005,Alm. Salg,96,9375,4,1959,
@@ -11440,8 +11221,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Rækkehus,Thorvaldsensvej 9,7000, Fredericia,282355 ,10-02-2005,Fam. Salg,61,4629,2,1971,
 607,Rækkehus,Marstrandsvænget 12,7000, Fredericia,795000 ,10-02-2005,Alm. Salg,80,9938,3,1966,
 607,Villa,Ryttervænget 11,7000, Fredericia,196000 ,10-02-2005,Alm. Salg,180,1089,7,2005,
-607,Ejerlejlighed,"Havepladsvej 172, 2. tv",7000, Fredericia,450000 ,09-02-2005,Alm. Salg,74,6081,3,1966,
-607,Villa,Skullebjerg Allé 11,7000, Fredericia,450000 ,09-02-2005,Alm. Salg,162,2778,6,2005,
 607,Villa,Blichersvej 18,7000, Fredericia,1150000 ,08-02-2005,Alm. Salg,133,8647,5,1946,
 607,Villa,Parcelvej 11,7000, Fredericia,1395000 ,08-02-2005,Alm. Salg,155,9000,4,1975,
 607,Villa,Herslev Bygade 9,7000, Fredericia,895000 ,08-02-2005,Alm. Salg,117,7650,5,1902,
@@ -11627,7 +11406,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Ejerlejlighed,"Kongensgade 41, 1. th",7000, Fredericia,800000 ,18-11-2004,Alm. Salg,75,10667,2,1982,
 607,Ejerlejlighed,"Calvinsvej 43, 1. tv",7000, Fredericia,570000 ,18-11-2004,Alm. Salg,78,7308,3,1938,
 607,Villa,Digevænget 11,7000, Fredericia,1065000 ,18-11-2004,Alm. Salg,159,6698,6,1976,
-607,Villa,Østergade 14C,7000, Fredericia,62304 ,18-11-2004,Alm. Salg,79,789,3,1940,
 607,Villa,Marsvænget 5,7000, Fredericia,1149000 ,17-11-2004,Alm. Salg,116,9905,4,1971,
 607,Villa,Huslodsvej 10,7000, Fredericia,700000 ,17-11-2004,Fam. Salg,101,6931,6,1936,
 607,Villa,Vejle Landevej 43,7000, Fredericia,1400000 ,16-11-2004,Alm. Salg,175,8000,6,1887,
@@ -11840,7 +11618,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Stenhøjvænget 22,7000, Fredericia,420000 ,25-07-2004,Alm. Salg,144,2917,5,2005,
 607,Villa,Rødtjørnevej 5,7000, Fredericia,400000 ,23-07-2004,Alm. Salg,161,2484,6,2006,
 607,Rækkehus,Riddergade 7,7000, Fredericia,1650000 ,22-07-2004,Alm. Salg,238,6933,5,1865,
-607,Rækkehus,Bjergegade 76,7000, Fredericia,1155000 ,22-07-2004,Alm. Salg,146,7911,6,1897,
 607,Villa,Egeskovvej 79,7000, Fredericia,1100000 ,22-07-2004,Alm. Salg,139,7914,5,1954,
 607,Villa,Follerupvej 52,7000, Fredericia,590000 ,21-07-2004,Alm. Salg,65,9077,3,1827,
 607,Ejerlejlighed,"Prinsensgade 6, 1. th",7000, Fredericia,1084000 ,19-07-2004,Alm. Salg,91,11912,3,1870,
@@ -11995,7 +11772,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Sønderskovvej 61,7000, Fredericia,900000 ,23-05-2004,Alm. Salg,323,2786,6,2000,
 607,Villa,Kolding Landevej 140,7000, Fredericia,1050000 ,20-05-2004,Alm. Salg,170,6176,7,1947,
 607,Villa,Hans Tausens Vej 21,7000, Fredericia,1325000 ,18-05-2004,Alm. Salg,136,9743,5,2004,
-607,Villa,Fælledvej 92,7000, Fredericia,1300000 ,18-05-2004,Alm. Salg,168,7738,6,1962,
 607,Villa,Stensgårdsvej 75,7000, Fredericia,1847500 ,18-05-2004,Fam. Salg,225,8211,6,1972,
 607,Villa,Svanevej 10,7000, Fredericia,2400000 ,18-05-2004,Alm. Salg,181,13260,7,1934,
 607,Villa,Damsbovej 64,7000, Fredericia,1820000 ,18-05-2004,Alm. Salg,226,8053,6,1971,
@@ -12142,7 +11918,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Ejerlejlighed,"Jernbanegade 11, 4. th",7000, Fredericia,685000 ,28-03-2004,Alm. Salg,84,8155,4,1935,
 607,Villa,Vibevej 3,7000, Fredericia,1100000 ,28-03-2004,Alm. Salg,82,13415,4,1964,
 607,Villa,Lunddalvej 16,7000, Fredericia,1325000 ,28-03-2004,Alm. Salg,157,8439,5,1976,
-607,Villa,Østergade 14C,7000, Fredericia,1560185 ,24-03-2004,Alm. Salg,79,19749,3,1940,
 607,Villa,Sonnesvej 12,7000, Fredericia,542193 ,24-03-2004,Alm. Salg,181,2996,7,1974,
 607,Villa,Nordre Dybbølvej 25,7000, Fredericia,864000 ,24-03-2004,Alm. Salg,102,8471,4,1933,
 607,Villa,Toldbodvej 16,7000, Fredericia,890000 ,23-03-2004,Alm. Salg,88,10114,4,1960,
@@ -12554,9 +12329,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Baldersvej 14,7000, Fredericia,1270000 ,07-09-2003,Alm. Salg,162,7840,6,1937,
 607,Villa,Vejrmosegårds Allé 70,7000, Fredericia,1125000 ,07-09-2003,Alm. Salg,130,8654,5,1973,
 607,Villa,Bredstrupvej 67,7000, Fredericia,788970 ,06-09-2003,Alm. Salg,240,3287,7,1870,
-607,Ejerlejlighed,"Bjergegade 1, st. tv",7000, Fredericia,1550000 ,04-09-2003,Alm. Salg,69,22464,3,1897,
-607,Ejerlejlighed,"Bjergegade 1, 1. th",7000, Fredericia,1550000 ,04-09-2003,Alm. Salg,70,22143,4,1897,
-607,Ejerlejlighed,"Bjergegade 1, st. th",7000, Fredericia,1550000 ,04-09-2003,Alm. Salg,91,17033,3,1897,
 607,Villa,Matrosvænget 13,7000, Fredericia,1086000 ,04-09-2003,Alm. Salg,130,8354,5,1976,
 607,Villa,Baunegårdsvej 92,7000, Fredericia,3800000 ,04-09-2003,Alm. Salg,237,16034,9,1972,
 607,Villa,Johs. Ewalds Vej 16,7000, Fredericia,550000 ,03-09-2003,Fam. Salg,164,3354,4,1955,
@@ -12651,7 +12423,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Knud Rasmussens Vej 23,7000, Fredericia,975000 ,20-07-2003,Alm. Salg,116,8405,4,1970,
 607,Villa,Fyrvej 5,7000, Fredericia,660000 ,20-07-2003,Alm. Salg,94,7021,3,1954,
 607,Villa,Færgehusvej 3,7000, Fredericia,1195000 ,20-07-2003,Alm. Salg,179,6676,5,1966,
-607,Villa,"Gl. Ribevej 72, st",7000, Fredericia,368333 ,19-07-2003,Fam. Salg,403,914,8,1900,
 607,Villa,Fasanvej 11,7000, Fredericia,1300000 ,18-07-2003,Alm. Salg,154,8442,5,1925,
 607,Villa,Lillenæs 30,7000, Fredericia,2400000 ,18-07-2003,Alm. Salg,152,15789,4,1997,
 607,Villa,Krybily Allé 35,7000, Fredericia,365000 ,17-07-2003,Alm. Salg,169,2160,5,2006,
@@ -12899,11 +12670,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Stensgårdsvej 79,7000, Fredericia,1500000 ,11-02-2003,Alm. Salg,241,6224,7,1970,
 607,Villa,Ægirsvej 36,7000, Fredericia,1295000 ,11-02-2003,Alm. Salg,102,12696,4,1949,
 607,Rækkehus,Ussinggårdsvej 24,7000, Fredericia,475000 ,10-02-2003,Fam. Salg,102,4657,4,1980,
-607,Ejerlejlighed,"Prangervej 30, st. th",7000, Fredericia,950000 ,10-02-2003,Fam. Salg,49,19388,2,1934,
-607,Ejerlejlighed,"Prangervej 30, st. tv",7000, Fredericia,950000 ,10-02-2003,Fam. Salg,53,17925,2,1934,
-607,Ejerlejlighed,"Prangervej 30, 1. th",7000, Fredericia,950000 ,10-02-2003,Fam. Salg,42,22619,2,1934,
-607,Ejerlejlighed,"Prangervej 30, 1. tv",7000, Fredericia,950000 ,10-02-2003,Fam. Salg,77,12338,2,1934,
-607,Ejerlejlighed,Ingemannsvej 2,7000, Fredericia,950000 ,10-02-2003,Fam. Salg,69,13768,2,1934,
 607,Villa,Bågøvænget 14,7000, Fredericia,1370000 ,10-02-2003,Alm. Salg,192,7135,6,1972,
 607,Rækkehus,Sonnesvej 92,7000, Fredericia,767500 ,09-02-2003,Alm. Salg,77,9968,3,1968,
 607,Rækkehus,Prinsensgade 51,7000, Fredericia,1450000 ,09-02-2003,Alm. Salg,220,6591,8,1900,
@@ -12997,10 +12763,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Toldbodvej 49,7000, Fredericia,995000 ,16-12-2002,Alm. Salg,323,3080,8,1927,
 607,Villa,Hækkelunden 10,7000, Fredericia,1150000 ,16-12-2002,Alm. Salg,151,7616,7,1978,
 607,Villa,Trelde Næsvej 77,7000, Fredericia,1750000 ,16-12-2002,Alm. Salg,150,11667,4,1943,
-607,Rækkehus,Bissensvej 9,7000, Fredericia,700000 ,15-12-2002,Alm. Salg,79,8861,3,1966,
 607,Rækkehus,Falkevej 16,7000, Fredericia,531250 ,15-12-2002,Fam. Salg,240,2214,10,1933,
 607,Rækkehus,Hvedevænget 1,7000, Fredericia,997500 ,15-12-2002,Alm. Salg,101,9876,4,1963,
-607,Villa,Ravnsgårdsvej 65,7000, Fredericia,700000 ,15-12-2002,Andet,153,4575,5,1994,
 607,Villa,Egebæksvej 44,7000, Fredericia,675000 ,15-12-2002,Fam. Salg,315,2143,6,1996,
 607,Villa,Kolding Landevej 103,7000, Fredericia,569500 ,15-12-2002,Fam. Salg,135,4219,3,1907,
 607,Ejerlejlighed,"Oldenborggade 64, st. th",7000, Fredericia,99787 ,14-12-2002,Alm. Salg,57,1751,2,1917,
@@ -13048,9 +12812,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Herslev Kirkevej 55,7000, Fredericia,1498000 ,23-11-2002,Alm. Salg,299,5010,10,1850,
 607,Villa,6.Julivej 47,7000, Fredericia,800000 ,22-11-2002,Alm. Salg,109,7339,4,1925,
 607,Rækkehus,Bissensvej 51,7000, Fredericia,895000 ,21-11-2002,Alm. Salg,107,8364,4,1967,
-607,Rækkehus,"Luthersvej 17, 1",7000, Fredericia,995000 ,21-11-2002,Alm. Salg,178,5590,6,1911,
 607,Ejerlejlighed,"Havepladsvej 168, 1. th",7000, Fredericia,580000 ,21-11-2002,Alm. Salg,83,6988,3,1966,
-607,Ejerlejlighed,"Luthersvej 17, st",7000, Fredericia,995000 ,21-11-2002,Alm. Salg,63,15794,2,1911,
 607,Villa,Højrupvej 11,7000, Fredericia,404947 ,21-11-2002,Alm. Salg,135,3000,6,1967,
 607,Ejerlejlighed,"Oldenborggade 18, st. th",7000, Fredericia,365000 ,20-11-2002,Alm. Salg,79,4620,3,1907,
 607,Villa,Fournaisevej 1,7000, Fredericia,890000 ,20-11-2002,Alm. Salg,89,10000,4,1964,
@@ -13708,10 +13470,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Herslev Skovvej 20,7000, Fredericia,208135 ,15-12-2001,Fam. Salg,173,1203,3,1947,
 607,Ejerlejlighed,"Jernbanegade 27, 4. th",7000, Fredericia,565000 ,14-12-2001,Alm. Salg,73,7740,3,1956,
 607,Villa,Lillebælts Allé 18A,7000, Fredericia,1200000 ,14-12-2001,Andet,174,6897,5,2003,
-607,Ejerlejlighed,"Havepladsvej 50, 1",7000, Fredericia,929522 ,13-12-2001,Alm. Salg,63,14754,2,1931,
-607,Ejerlejlighed,Violvej 3,7000, Fredericia,929522 ,13-12-2001,Alm. Salg,91,10215,1,1931,
 607,Villa,Jeppe Aakjærs Vej 18,7000, Fredericia,950000 ,13-12-2001,Alm. Salg,107,8879,4,1965,
-607,Villa,"Havepladsvej 50, st",7000, Fredericia,929522 ,13-12-2001,Alm. Salg,101,9203,2,1922,
 607,Villa,Heimdalsvej 11,7000, Fredericia,852500 ,12-12-2001,Alm. Salg,104,8197,3,1934,
 607,Rækkehus,Krogtoftevej 30,7000, Fredericia,1032000 ,11-12-2001,Alm. Salg,130,7938,4,1981,
 607,Villa,Ligustervænget 9,7000, Fredericia,938000 ,11-12-2001,Alm. Salg,140,6700,4,1972,
@@ -14044,9 +13803,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Erritsø Kirkevej 6,7000, Fredericia,525000 ,28-06-2001,Alm. Salg,108,4861,4,1962,
 607,Rækkehus,Mosegårdsvej 38,7000, Fredericia,1025000 ,27-06-2001,Alm. Salg,131,7824,4,1982,
 607,Rækkehus,Calvinsvej 37,7000, Fredericia,1090000 ,27-06-2001,Alm. Salg,98,11122,3,1979,
-607,Ejerlejlighed,"Bjergegade 1, st. tv",7000, Fredericia,1375000 ,27-06-2001,Alm. Salg,69,19928,3,1897,
-607,Ejerlejlighed,"Bjergegade 1, 1. th",7000, Fredericia,1375000 ,27-06-2001,Alm. Salg,70,19643,4,1897,
-607,Ejerlejlighed,"Bjergegade 1, st. th",7000, Fredericia,1375000 ,27-06-2001,Alm. Salg,91,15110,3,1897,
 607,Villa,Østergade 33,7000, Fredericia,578100 ,27-06-2001,Alm. Salg,144,4015,4,1906,
 607,Villa,Holbergsvej 21,7000, Fredericia,750000 ,27-06-2001,Alm. Salg,130,5769,6,1954,
 607,Villa,Golfvænget 29,7000, Fredericia,365500 ,27-06-2001,Alm. Salg,143,2556,5,2001,
@@ -14138,7 +13894,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Jomfruvej 22,7000, Fredericia,1500000 ,17-05-2001,Andet,200,7500,6,1897,
 607,Villa,Jægervej 4,7000, Fredericia,518293 ,15-05-2001,Fam. Salg,224,2314,5,1937,
 607,Rækkehus,Agertoften 59,7000, Fredericia,695000 ,14-05-2001,Alm. Salg,84,8274,4,1970,
-607,Ejerlejlighed,"Jyllandsgade 64, 1. tv",7000, Fredericia,1285000 ,14-05-2001,Alm. Salg,68,18897,2,1896,
 607,Villa,Ellegårdsparken 9,7000, Fredericia,593000 ,13-05-2001,Fam. Salg,131,4527,4,2001,
 607,Villa,Knudsvej 17,7000, Fredericia,1265000 ,13-05-2001,Alm. Salg,128,9883,4,1971,
 607,Villa,Odinsvej 54,7000, Fredericia,910000 ,13-05-2001,Alm. Salg,106,8585,3,1934,
@@ -14242,8 +13997,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Trelde Næsvej 9,7000, Fredericia,845673 ,19-03-2001,Alm. Salg,120,7047,3,1964,
 607,Villa,Bredstrupvej 42,7000, Fredericia,95000 ,18-03-2001,Alm. Salg,256,371,7,2022,
 607,Rækkehus,Bissensvej 51,7000, Fredericia,670000 ,15-03-2001,Alm. Salg,107,6262,4,1967,
-607,Ejerlejlighed,"Danmarksgade 40, 2. th",7000, Fredericia,525000 ,15-03-2001,Alm. Salg,94,5585,3,1903,
-607,Ejerlejlighed,"Jernbanegade 11, 1. th",7000, Fredericia,525000 ,15-03-2001,Alm. Salg,84,6250,4,1935,
 607,Villa,Hjortøvænget 13,7000, Fredericia,370000 ,15-03-2001,Alm. Salg,158,2342,7,2001,
 607,Villa,Druehaven 32,7000, Fredericia,1200000 ,14-03-2001,Alm. Salg,150,8000,5,1979,
 607,Villa,Aarestrupsvej 3,7000, Fredericia,1050000 ,14-03-2001,Alm. Salg,118,8898,5,1890,
@@ -14301,7 +14054,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Ejerlejlighed,"Nørre Voldgade 62, st. tv",7000, Fredericia,425000 ,15-02-2001,Alm. Salg,62,6855,3,1902,
 607,Villa,Jeppe Aakjærs Vej 6,7000, Fredericia,870000 ,14-02-2001,Alm. Salg,191,4555,6,1951,
 607,Villa,Jens Thuesens Vej 13,7000, Fredericia,895000 ,13-02-2001,Alm. Salg,109,8211,4,1973,
-607,Villa,Smedevænget 5,7000, Fredericia,750000 ,12-02-2001,Alm. Salg,83,9036,3,1967,
 607,Villa,Baunegårdsvej 62,7000, Fredericia,1300000 ,12-02-2001,Alm. Salg,179,7263,4,1975,
 607,Villa,Erritsø Bygade 33,7000, Fredericia,1200000 ,11-02-2001,Alm. Salg,167,7186,4,1927,
 607,Villa,Røde Banke 89,7000, Fredericia,1470343 ,07-02-2001,Fam. Salg,215,6839,6,1994,
@@ -14367,15 +14119,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Sandbakken 9,7000, Fredericia,1685000 ,03-01-2001,Alm. Salg,192,8776,6,1974,
 607,Villa,Damsbovej 37,7000, Fredericia,1340000 ,03-01-2001,Alm. Salg,148,9054,5,1987,
 607,Villa,Violvej 12,7000, Fredericia,995000 ,03-01-2001,Alm. Salg,135,7370,5,1940,
-607,Ejerlejlighed,"Kongensgade 88, st. th",7000, Fredericia,1015000 ,02-01-2001,Alm. Salg,62,16371,1,1897,
-607,Ejerlejlighed,"Kongensgade 88, st. tv",7000, Fredericia,1015000 ,02-01-2001,Alm. Salg,67,15149,2,1897,
-607,Ejerlejlighed,"Kongensgade 88, 1. th",7000, Fredericia,1015000 ,02-01-2001,Alm. Salg,73,13904,3,1897,
-607,Ejerlejlighed,"Kongensgade 88, 1. tv",7000, Fredericia,1015000 ,02-01-2001,Alm. Salg,73,13904,2,1897,
-607,Ejerlejlighed,"Kongensgade 88, 2. th",7000, Fredericia,1015000 ,02-01-2001,Alm. Salg,65,15615,2,1897,
-607,Ejerlejlighed,"Kongensgade 88, 2. tv",7000, Fredericia,1015000 ,02-01-2001,Alm. Salg,65,15615,2,1897,
-607,Ejerlejlighed,"Sjællandsgade 90, st",7000, Fredericia,1015000 ,02-01-2001,Alm. Salg,90,11278,3,2003,
-607,Ejerlejlighed,"Sjællandsgade 90, 1",7000, Fredericia,1015000 ,02-01-2001,Alm. Salg,90,11278,3,2003,
-607,Ejerlejlighed,"Sjællandsgade 90, 2",7000, Fredericia,1015000 ,02-01-2001,Alm. Salg,86,11802,3,2003,
 607,Villa,Regulusvænget 12,7000, Fredericia,1125000 ,02-01-2001,Alm. Salg,170,6618,5,1969,
 607,Villa,Nederballegårdsvej 11,7000, Fredericia,1700000 ,02-01-2001,Alm. Salg,239,7113,5,2006,
 607,Villa,Østergade 15,7000, Fredericia,849000 ,02-01-2001,Alm. Salg,150,5660,4,1923,
@@ -14753,9 +14496,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Ejerlejlighed,"Oldenborggade 64, st. tv",7000, Fredericia,230000 ,21-06-2000,Auktion,57,4035,2,1917,
 607,Villa,Sanddal Engvej 6,7000, Fredericia,780000 ,21-06-2000,Alm. Salg,197,3959,6,1900,
 607,Villa,Ærøvænget 9,7000, Fredericia,1410000 ,21-06-2000,Alm. Salg,126,11190,5,1997,
-607,Ejerlejlighed,"Kongensstræde 71, st. th",7000, Fredericia,1210000 ,20-06-2000,Alm. Salg,64,18906,3,1896,
-607,Ejerlejlighed,"Kongensstræde 71, st. tv",7000, Fredericia,1210000 ,20-06-2000,Alm. Salg,67,18060,2,1896,
-607,Ejerlejlighed,"Sjællandsgade 55A, 1",7000, Fredericia,1210000 ,20-06-2000,Alm. Salg,109,11101,4,1896,
 607,Ejerlejlighed,"Dronningensgade 23, 3. th",7000, Fredericia,385000 ,19-06-2000,Alm. Salg,63,6111,3,1899,
 607,Villa,Golfvænget 25,7000, Fredericia,298000 ,19-06-2000,Alm. Salg,171,1743,4,2000,
 607,Villa,Ågade 92,7000, Fredericia,1045000 ,19-06-2000,Alm. Salg,168,6220,4,1986,
@@ -14829,7 +14569,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Rækkehus,Agertoften 11,7000, Fredericia,744765 ,19-05-2000,Alm. Salg,85,8762,4,1970,
 607,Villa,Thorsvej 8,7000, Fredericia,385568 ,18-05-2000,Andet,87,4432,4,1925,
 607,Rækkehus,Havepladsvej 183,7000, Fredericia,706000 ,17-05-2000,Alm. Salg,110,6418,4,1962,
-607,Villa,Jens Kromanns Vej 18,7000, Fredericia,2525000 ,16-05-2000,Alm. Salg,116,21767,4,1930,
 607,Rækkehus,Sonnesvej 72,7000, Fredericia,697653 ,15-05-2000,Alm. Salg,77,9060,3,1968,
 607,Ejerlejlighed,"Prinsessegade 20A, st",7000, Fredericia,534000 ,15-05-2000,Alm. Salg,63,8476,2,1917,
 607,Ejerlejlighed,"Prinsessegade 56A, 1. th",7000, Fredericia,340000 ,15-05-2000,Alm. Salg,58,5862,2,1923,
@@ -14862,10 +14601,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Holmansvej 13,7000, Fredericia,965000 ,03-05-2000,Alm. Salg,220,4386,10,1969,
 607,Rækkehus,Bykrogen 3,7000, Fredericia,1039000 ,02-05-2000,Alm. Salg,101,10287,3,2000,
 607,Rækkehus,Prinsessegade 17,7000, Fredericia,807404 ,02-05-2000,Alm. Salg,168,4806,4,1864,
-607,Ejerlejlighed,"Jyllandsgade 83, st. th",7000, Fredericia,545404 ,01-05-2000,Alm. Salg,67,8140,2,1893,
-607,Ejerlejlighed,"Jyllandsgade 83, st. tv",7000, Fredericia,545404 ,01-05-2000,Alm. Salg,58,9404,2,1893,
-607,Ejerlejlighed,"Jyllandsgade 83, 1",7000, Fredericia,545404 ,01-05-2000,Alm. Salg,81,6733,4,1893,
-607,Ejerlejlighed,"Kongensgade 62, st",7000, Fredericia,545404 ,01-05-2000,Alm. Salg,65,8391,2,1893,
 607,Rækkehus,Skovløbervænget 14,7000, Fredericia,1416000 ,30-04-2000,Alm. Salg,136,10412,3,2000,
 607,Rækkehus,Stævnebogårdsvej 53,7000, Fredericia,700000 ,30-04-2000,Alm. Salg,91,7692,3,1978,
 607,Ejerlejlighed,"Primulavej 18, st",7000, Fredericia,575000 ,30-04-2000,Alm. Salg,99,5808,4,1935,
@@ -14884,9 +14619,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Bærhaven 20,7000, Fredericia,1725000 ,25-04-2000,Alm. Salg,292,5908,9,1974,
 607,Villa,Baunevej 14,7000, Fredericia,1563604 ,25-04-2000,Alm. Salg,199,7857,6,1976,
 607,Villa,Elboparken 40,7000, Fredericia,911000 ,25-04-2000,Alm. Salg,117,7786,5,1964,
-607,Ejerlejlighed,"Primulavej 1, st",7000, Fredericia,1310000 ,24-04-2000,Alm. Salg,85,15412,3,1927,
-607,Ejerlejlighed,"Primulavej 1, 1",7000, Fredericia,1310000 ,24-04-2000,Alm. Salg,72,18194,3,1927,
-607,Ejerlejlighed,"Primulavej 1A, 1",7000, Fredericia,1310000 ,24-04-2000,Alm. Salg,66,19848,2,1927,
 607,Ejerlejlighed,"Prinsessegade 56A, 4. th",7000, Fredericia,200500 ,24-04-2000,Alm. Salg,53,3783,2,1923,
 607,Villa,Birkholmvej 3,7000, Fredericia,1385000 ,24-04-2000,Alm. Salg,166,8343,6,1974,
 607,Villa,Damsbovej 17,7000, Fredericia,1075000 ,24-04-2000,Alm. Salg,112,9598,4,1989,
@@ -15006,7 +14738,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Randalsvej 54,7000, Fredericia,572365 ,02-03-2000,Alm. Salg,192,2981,5,1900,
 607,Villa,Gefionsvej 22,7000, Fredericia,710000 ,01-03-2000,Alm. Salg,69,10290,3,1936,
 607,Villa,Brahesborgvej 21,7000, Fredericia,910800 ,29-02-2000,Alm. Salg,130,7006,5,1980,
-607,Villa,Jens Kromanns Vej 5,7000, Fredericia,1300000 ,29-02-2000,Alm. Salg,122,10656,4,1951,
 607,Villa,Bjerregårdsvej 1,7000, Fredericia,1125000 ,29-02-2000,Alm. Salg,142,7923,4,1966,
 607,Villa,Gefionsvej 19,7000, Fredericia,925000 ,28-02-2000,Alm. Salg,139,6655,5,1938,
 607,Ejerlejlighed,"Prinsessegade 20B, st",7000, Fredericia,493997 ,27-02-2000,Alm. Salg,55,8982,2,1917,
@@ -15171,7 +14902,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Rækkehus,Skovløbervænget 18,7000, Fredericia,1416000 ,29-11-1999,Alm. Salg,136,10412,4,1999,
 607,Villa,Skærbæk Havnegade 2,7000, Fredericia,495000 ,29-11-1999,Alm. Salg,75,6600,4,1850,
 607,Villa,Adelvej 41,7000, Fredericia,250000 ,29-11-1999,Alm. Salg,399,627,8,1912,
-607,Rækkehus,Luthersvej 27C,7000, Fredericia,950000 ,28-11-1999,Alm. Salg,68,13971,2,1970,
 607,Ejerlejlighed,"Prinsessegade 56A, 4. th",7000, Fredericia,303750 ,28-11-1999,Alm. Salg,53,5731,2,1923,
 607,Villa,Pjedsted Engvej 6,7000, Fredericia,884000 ,28-11-1999,Alm. Salg,113,7823,4,1966,
 607,Villa,Lundagervej 17,7000, Fredericia,1395000 ,28-11-1999,Alm. Salg,213,6549,7,1973,
@@ -15396,8 +15126,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Rækkehus,Dronningensgade 14,7000, Fredericia,924000 ,12-08-1999,Alm. Salg,144,6417,6,1905,
 607,Ejerlejlighed,"Falkevej 20, 2. th",7000, Fredericia,452000 ,12-08-1999,Alm. Salg,64,7063,2,1938,
 607,Ejerlejlighed,"Indre Ringvej 23, st",7000, Fredericia,490839 ,11-08-1999,Alm. Salg,86,5707,3,1955,
-607,Ejerlejlighed,"Skærbækvej 118, 1",7000, Fredericia,1140100 ,11-08-1999,Alm. Salg,70,16287,2,1936,
-607,Villa,Skærbækvej 118,7000, Fredericia,1140100 ,11-08-1999,Alm. Salg,159,7170,5,1936,
 607,Villa,Skyttevej 22,7000, Fredericia,1225000 ,10-08-1999,Alm. Salg,155,7903,5,1958,
 607,Villa,Kobbelgårdsvej 39,7000, Fredericia,1300000 ,10-08-1999,Alm. Salg,137,9489,5,1997,
 607,Villa,Egeskovvej 120,7000, Fredericia,935000 ,10-08-1999,Alm. Salg,181,5166,6,1961,
@@ -15606,9 +15334,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Elsesvej 7,7000, Fredericia,701000 ,06-05-1999,Alm. Salg,114,6149,6,1965,
 607,Villa,Erritsø Bygade 49,7000, Fredericia,1055723 ,05-05-1999,Alm. Salg,116,9101,4,1970,
 607,Villa,Taulov Kirkevej 35C,7000, Fredericia,905000 ,05-05-1999,Alm. Salg,102,8873,5,1958,
-607,Ejerlejlighed,Buen 2,7000, Fredericia,676762 ,04-05-1999,Fam. Salg,75,9023,3,1913,
-607,Ejerlejlighed,Buen 4,7000, Fredericia,676762 ,04-05-1999,Fam. Salg,89,7604,2,1913,
-607,Ejerlejlighed,Ågade 91,7000, Fredericia,676762 ,04-05-1999,Fam. Salg,152,4452,5,1913,
 607,Villa,Elbovænget 23,7000, Fredericia,900000 ,04-05-1999,Alm. Salg,130,6923,5,1970,
 607,Villa,Regulusvænget 20,7000, Fredericia,1139875 ,04-05-1999,Alm. Salg,147,7754,5,1969,
 607,Villa,Kalvehavegårdsvej 38,7000, Fredericia,275000 ,04-05-1999,Alm. Salg,126,2183,4,2000,
@@ -15645,11 +15370,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Gl. Tårupvej 53,7000, Fredericia,357000 ,22-04-1999,Fam. Salg,100,3570,5,1947,
 607,Villa,Rudolf Steiner Vænget 23,7000, Fredericia,280000 ,21-04-1999,Alm. Salg,132,2121,4,2000,
 607,Rækkehus,Anchersvej 79,7000, Fredericia,832000 ,20-04-1999,Alm. Salg,121,6876,5,1978,
-607,Ejerlejlighed,"Jyllandsgade 83, st. th",7000, Fredericia,1190000 ,20-04-1999,Alm. Salg,67,17761,2,1893,
-607,Ejerlejlighed,"Jyllandsgade 83, st. tv",7000, Fredericia,1190000 ,20-04-1999,Alm. Salg,58,20517,2,1893,
-607,Ejerlejlighed,"Jyllandsgade 83, 1",7000, Fredericia,1190000 ,20-04-1999,Alm. Salg,81,14691,4,1893,
 607,Ejerlejlighed,"6.Julivej 91, st. th",7000, Fredericia,570000 ,20-04-1999,Alm. Salg,75,7600,3,1948,
-607,Ejerlejlighed,"Kongensgade 62, st",7000, Fredericia,1190000 ,20-04-1999,Alm. Salg,65,18308,2,1893,
 607,Villa,Højrupvej 93,7000, Fredericia,766000 ,20-04-1999,Alm. Salg,155,4942,4,1929,
 607,Villa,Johs. Ewalds Vej 6,7000, Fredericia,770000 ,20-04-1999,Alm. Salg,154,5000,6,1952,
 607,Villa,Snebærvænget 3,7000, Fredericia,893000 ,20-04-1999,Alm. Salg,136,6566,4,1984,
@@ -15695,9 +15416,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Rækkehus,Krengerupvej 32,7000, Fredericia,1025000 ,28-03-1999,Alm. Salg,102,10049,4,1979,
 607,Rækkehus,Kalvehavegårdsvej 16,7000, Fredericia,1022000 ,28-03-1999,Alm. Salg,97,10536,3,1999,
 607,Ejerlejlighed,"Fynsgade 9, 3. th",7000, Fredericia,450000 ,28-03-1999,Alm. Salg,81,5556,2,1905,
-607,Ejerlejlighed,"Danmarksgade 31, 1",7000, Fredericia,633000 ,28-03-1999,Alm. Salg,97,6526,4,1909,
-607,Ejerlejlighed,"Danmarksgade 31, 2. 1",7000, Fredericia,633000 ,28-03-1999,Alm. Salg,39,16231,2,1909,
-607,Ejerlejlighed,"Købmagergade 22, 1",7000, Fredericia,633000 ,28-03-1999,Alm. Salg,67,9448,2,1909,
 607,Villa,Christiansvej 13,7000, Fredericia,795000 ,28-03-1999,Alm. Salg,85,9353,4,1960,
 607,Villa,Nordre Dybbølvej 9,7000, Fredericia,492779 ,28-03-1999,Alm. Salg,142,3470,5,1976,
 607,Villa,Trelde Næsvej 77,7000, Fredericia,1560000 ,28-03-1999,Alm. Salg,150,10400,4,1943,
@@ -15799,9 +15517,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Egeskovvej 57,7000, Fredericia,552500 ,15-02-1999,Fam. Salg,127,4350,4,1928,
 607,Villa,Odinsvej 22,7000, Fredericia,724000 ,14-02-1999,Alm. Salg,129,5612,4,1926,
 607,Villa,Tellusvej 48,7000, Fredericia,827000 ,14-02-1999,Alm. Salg,86,9616,4,1934,
-607,Ejerlejlighed,"Gothersgade 26A, st",7000, Fredericia,1400000 ,11-02-1999,Alm. Salg,63,22222,1,1740,
-607,Rækkehus,"Luthersvej 17, 1",7000, Fredericia,843458 ,10-02-1999,Alm. Salg,178,4739,6,1911,
-607,Ejerlejlighed,"Luthersvej 17, st",7000, Fredericia,843458 ,10-02-1999,Alm. Salg,63,13388,2,1911,
 607,Villa,Kobbelgårdsvej 54,7000, Fredericia,1377000 ,10-02-1999,Alm. Salg,120,11475,5,1998,
 607,Rækkehus,Anders Billes Vej 49,7000, Fredericia,839000 ,09-02-1999,Alm. Salg,107,7841,4,1921,
 607,Ejerlejlighed,"Glentevej 14, st. tv",7000, Fredericia,394654 ,09-02-1999,Alm. Salg,77,5125,3,1935,
@@ -15815,9 +15530,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Krybily Allé 5,7000, Fredericia,809993 ,02-02-1999,Alm. Salg,121,6694,5,1977,
 607,Villa,Rudolf Steiner Vænget 7,7000, Fredericia,250000 ,02-02-1999,Alm. Salg,136,1838,5,2002,
 607,Villa,Rudolf Steiner Vænget 14,7000, Fredericia,295000 ,02-02-1999,Alm. Salg,148,1993,5,1999,
-607,Ejerlejlighed,Thorsvej 26,7000, Fredericia,763961 ,01-02-1999,Alm. Salg,47,16254,2,1935,
-607,Ejerlejlighed,"Huslodsvej 22A, 1",7000, Fredericia,763961 ,01-02-1999,Alm. Salg,114,6701,5,1935,
-607,Ejerlejlighed,Huslodsvej 22B,7000, Fredericia,763961 ,01-02-1999,Alm. Salg,81,9432,3,1935,
 607,Villa,Elbovænget 11,7000, Fredericia,1049913 ,31-01-1999,Alm. Salg,190,5526,6,1974,
 607,Villa,Jeppe Aakjærs Vej 11,7000, Fredericia,950000 ,31-01-1999,Alm. Salg,123,7724,3,1951,
 607,Ejerlejlighed,"Prinsessegade 56B, 3. tv",7000, Fredericia,158500 ,30-01-1999,Alm. Salg,58,2733,2,1923,
@@ -15899,7 +15611,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Krybily Allé 31,7000, Fredericia,220000 ,06-12-1998,Alm. Salg,147,1497,5,1999,
 607,Villa,Langesøvej 61,7000, Fredericia,363000 ,06-12-1998,Alm. Salg,190,1911,6,2001,
 607,Villa,Langesøvej 69,7000, Fredericia,352000 ,06-12-1998,Alm. Salg,161,2186,6,2000,
-607,Villa,"Gl. Ribevej 72, st",7000, Fredericia,315333 ,06-12-1998,Fam. Salg,403,782,8,1900,
 607,Villa,Rudolf Steiner Vænget 6,7000, Fredericia,275000 ,06-12-1998,Alm. Salg,138,1993,5,1999,
 607,Villa,Kalvehavegårdsvej 36,7000, Fredericia,285000 ,06-12-1998,Alm. Salg,151,1887,5,1999,
 607,Villa,Langesøvej 65,7000, Fredericia,352000 ,05-12-1998,Alm. Salg,162,2173,6,1999,
@@ -15913,14 +15624,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Røde Banke 34,7000, Fredericia,828483 ,02-12-1998,Alm. Salg,92,9005,2,1950,
 607,Villa,Erritsø Engvej 7,7000, Fredericia,395371 ,02-12-1998,Alm. Salg,168,2353,5,1967,
 607,Rækkehus,Taulov Kirkevej 10B,7000, Fredericia,775000 ,01-12-1998,Alm. Salg,124,6250,4,1962,
-607,Ejerlejlighed,"Gothersgade 24, 1. th",7000, Fredericia,2170000 ,01-12-1998,Alm. Salg,128,16953,5,1907,
-607,Ejerlejlighed,"Gothersgade 24, 1. tv",7000, Fredericia,2170000 ,01-12-1998,Alm. Salg,102,21275,3,1907,
-607,Ejerlejlighed,"Gothersgade 24, 2. th",7000, Fredericia,2170000 ,01-12-1998,Alm. Salg,132,16439,4,1907,
-607,Ejerlejlighed,"Gothersgade 24, 2. tv",7000, Fredericia,2170000 ,01-12-1998,Alm. Salg,102,21275,5,1907,
-607,Ejerlejlighed,"Sjællandsgade 27, 2",7000, Fredericia,2170000 ,01-12-1998,Alm. Salg,102,21275,3,1907,
-607,Ejerlejlighed,"Sjællandsgade 27, 1",7000, Fredericia,2170000 ,01-12-1998,Alm. Salg,106,20472,3,1907,
 607,Rækkehus,Sonnesvej 94,7000, Fredericia,883000 ,30-11-1998,Alm. Salg,120,7358,4,1985,
-607,Ejerlejlighed,"Torvegade 2, 1",7000, Fredericia,2800000 ,30-11-1998,Alm. Salg,144,19444,5,1902,
 607,Villa,Humlehaven 1,7000, Fredericia,385000 ,30-11-1998,Alm. Salg,266,1447,8,2005,
 607,Villa,Rudolf Steiner Vænget 15,7000, Fredericia,295000 ,30-11-1998,Alm. Salg,148,1993,6,1999,
 607,Rækkehus,Thorvaldsensvej 79,7000, Fredericia,714000 ,29-11-1998,Alm. Salg,106,6736,4,1971,
@@ -15935,7 +15639,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Krybily Allé 11,7000, Fredericia,1115000 ,25-11-1998,Alm. Salg,147,7585,4,1977,
 607,Villa,Holme Engsti 15,7000, Fredericia,1425000 ,24-11-1998,Alm. Salg,227,6278,4,1980,
 607,Villa,Kampmannsvej 14,7000, Fredericia,1672000 ,24-11-1998,Alm. Salg,212,7887,7,1968,
-607,Ejerlejlighed,"Gothersgade 17, 2",7000, Fredericia,4100000 ,23-11-1998,Alm. Salg,190,21579,5,1900,
 607,Villa,Fælledvej 19,7000, Fredericia,1060000 ,23-11-1998,Alm. Salg,146,7260,6,1930,
 607,Villa,Krogsagervej 59,7000, Fredericia,430000 ,22-11-1998,Alm. Salg,138,3116,5,1973,
 607,Ejerlejlighed,"Bjergegade 67A, 1",7000, Fredericia,495000 ,21-11-1998,Alm. Salg,100,4950,3,1890,
@@ -16070,7 +15773,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Vesterdalsvej 4,7000, Fredericia,1520000 ,18-09-1998,Alm. Salg,202,7525,6,1924,
 607,Rækkehus,Agerleddet 67,7000, Fredericia,764000 ,17-09-1998,Alm. Salg,85,8988,4,1974,
 607,Rækkehus,Huslodsvej 38,7000, Fredericia,1090540 ,17-09-1998,Alm. Salg,192,5680,8,1925,
-607,Ejerlejlighed,"Gothersgade 53, 1",7000, Fredericia,2800000 ,16-09-1998,Alm. Salg,164,17073,6,1892,
 607,Villa,Holtegårdsvej 23,7000, Fredericia,780000 ,16-09-1998,Alm. Salg,97,8041,4,1969,
 607,Rækkehus,Bjergegade 68,7000, Fredericia,618650 ,15-09-1998,Alm. Salg,140,4419,6,1900,
 607,Ejerlejlighed,"Dronningensgade 104, 1. th",7000, Fredericia,334000 ,15-09-1998,Alm. Salg,62,5387,2,1918,
@@ -16373,7 +16075,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Koglevænget 4,7000, Fredericia,295246 ,13-05-1998,Fam. Salg,120,2460,4,1979,
 607,Rækkehus,Anders Billes Vej 41,7000, Fredericia,758000 ,12-05-1998,Alm. Salg,102,7431,5,1921,
 607,Villa,Krogtoftevej 54,7000, Fredericia,551689 ,12-05-1998,Andet,120,4597,4,1984,
-607,Villa,Østergade 14C,7000, Fredericia,1400000 ,12-05-1998,Alm. Salg,79,17722,3,1940,
 607,Villa,Krengerupvej 35,7000, Fredericia,1305000 ,12-05-1998,Alm. Salg,182,7170,6,1984,
 607,Villa,Ærøvænget 5,7000, Fredericia,335000 ,11-05-1998,Alm. Salg,172,1948,7,1999,
 607,Villa,Solbærhaven 7,7000, Fredericia,315000 ,11-05-1998,Alm. Salg,251,1255,7,2000,
@@ -16422,8 +16123,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Slåenvej 51,7000, Fredericia,916000 ,26-04-1998,Alm. Salg,111,8252,4,1984,
 607,Rækkehus,Anchersvej 29,7000, Fredericia,860000 ,23-04-1998,Alm. Salg,117,7350,5,1976,
 607,Rækkehus,Agerleddet 27,7000, Fredericia,713000 ,23-04-1998,Alm. Salg,85,8388,4,1973,
-607,Ejerlejlighed,"Norgesgade 9A, st. th",7000, Fredericia,2675000 ,23-04-1998,Alm. Salg,125,21400,4,1895,
-607,Ejerlejlighed,"Norgesgade 9A, 1",7000, Fredericia,2675000 ,23-04-1998,Alm. Salg,121,22107,6,1895,
 607,Villa,Plantagevej 29,7000, Fredericia,1312000 ,23-04-1998,Alm. Salg,173,7584,5,1984,
 607,Villa,Lupinvej 22,7000, Fredericia,930000 ,23-04-1998,Alm. Salg,150,6200,6,1962,
 607,Villa,Røde Banke 89,7000, Fredericia,1200000 ,23-04-1998,Alm. Salg,215,5581,6,1994,
@@ -16562,7 +16261,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Ejerlejlighed,"Havepladsvej 152, st. th",7000, Fredericia,359000 ,28-02-1998,Alm. Salg,66,5439,2,1955,
 607,Villa,Brovadvej 4,7000, Fredericia,1181000 ,28-02-1998,Alm. Salg,143,8259,5,1985,
 607,Ejerlejlighed,"6.Julivej 87, 1. tv",7000, Fredericia,520000 ,27-02-1998,Alm. Salg,116,4483,5,1953,
-607,Rækkehus,Bjergegade 80B,7000, Fredericia,870000 ,26-02-1998,Alm. Salg,150,5800,7,1895,
 607,Ejerlejlighed,"Indre Ringvej 21, 4. th",7000, Fredericia,340000 ,26-02-1998,Alm. Salg,76,4474,3,1955,
 607,Ejerlejlighed,"Bjergegade 67A, st",7000, Fredericia,230743 ,26-02-1998,Alm. Salg,100,2307,3,1890,
 607,Villa,Randalsvej 58,7000, Fredericia,595903 ,26-02-1998,Alm. Salg,121,4925,6,1949,
@@ -16700,12 +16398,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Ejerlejlighed,"Lathyrusvej 23, 1. tv",7000, Fredericia,313000 ,19-12-1997,Alm. Salg,58,5397,2,1937,
 607,Villa,Bertel Bruuns Vej 5,7000, Fredericia,1200000 ,19-12-1997,Alm. Salg,238,5042,9,1930,
 607,Villa,Langesøvej 17,7000, Fredericia,932759 ,19-12-1997,Alm. Salg,101,9235,4,1982,
-607,Rækkehus,Prangervej 42D,7000, Fredericia,1277000 ,18-12-1997,Alm. Salg,111,11505,3,1954,
 607,Rækkehus,Dronningensgade 55A,7000, Fredericia,1111000 ,18-12-1997,Alm. Salg,122,9107,4,1893,
 607,Rækkehus,Nebel Gårds Vej 81B,7000, Fredericia,120000 ,18-12-1997,Alm. Salg,80,1500,3,1999,
 607,Ejerlejlighed,"Glentevej 2, st. th",7000, Fredericia,300000 ,18-12-1997,Alm. Salg,77,3896,3,1925,
 607,Ejerlejlighed,"Dalegade 56, 3",7000, Fredericia,196000 ,18-12-1997,Alm. Salg,118,1661,5,1904,
-607,Villa,Prangervej 42,7000, Fredericia,1277000 ,18-12-1997,Alm. Salg,213,5995,7,1959,
 607,Villa,Kaltoftevej 24,7000, Fredericia,690000 ,18-12-1997,Fam. Salg,140,4929,6,1968,
 607,Villa,Chr. Winthers Vej 38,7000, Fredericia,525000 ,18-12-1997,Alm. Salg,145,3621,5,1952,
 607,Ejerlejlighed,"Oldenborggade 68, 2",7000, Fredericia,350000 ,17-12-1997,Alm. Salg,109,3211,2,1917,
@@ -16747,13 +16443,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Krybily Allé 43,7000, Fredericia,230000 ,28-11-1997,Alm. Salg,116,1983,4,1998,
 607,Villa,Bærhaven 22,7000, Fredericia,1230000 ,28-11-1997,Alm. Salg,212,5802,7,1976,
 607,Rækkehus,Agerleddet 49,7000, Fredericia,701000 ,27-11-1997,Alm. Salg,102,6873,4,1973,
-607,Ejerlejlighed,"Kongensstræde 64, st",7000, Fredericia,799143 ,27-11-1997,Alm. Salg,66,12108,2,1887,
-607,Ejerlejlighed,"Sjællandsgade 82, st. th",7000, Fredericia,799143 ,27-11-1997,Alm. Salg,56,14270,3,1887,
-607,Ejerlejlighed,"Sjællandsgade 82, 1. tv",7000, Fredericia,799143 ,27-11-1997,Alm. Salg,62,12889,3,1887,
-607,Ejerlejlighed,"Sjællandsgade 82, st. tv",7000, Fredericia,799143 ,27-11-1997,Alm. Salg,50,15983,3,1887,
-607,Ejerlejlighed,"Sjællandsgade 82, 1. th",7000, Fredericia,799143 ,27-11-1997,Alm. Salg,70,11416,2,1887,
-607,Ejerlejlighed,"Sjællandsgade 82, 2",7000, Fredericia,799143 ,27-11-1997,Alm. Salg,50,15983,2,1887,
-607,Ejerlejlighed,"Sjællandsgade 82A, st",7000, Fredericia,799143 ,27-11-1997,Alm. Salg,67,11928,2,1887,
 607,Villa,Lunddalvej 32,7000, Fredericia,1183000 ,27-11-1997,Alm. Salg,156,7583,6,1976,
 607,Villa,Ahornvænget 5,7000, Fredericia,906000 ,27-11-1997,Alm. Salg,119,7613,4,1976,
 607,Villa,Fælledvej 62,7000, Fredericia,2235000 ,27-11-1997,Alm. Salg,192,11641,5,1950,
@@ -16842,12 +16531,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Stenhøjvej 63,7000, Fredericia,442957 ,27-10-1997,Fam. Salg,193,2295,7,1927,
 607,Villa,Agertoften 2,7000, Fredericia,1053331 ,26-10-1997,Alm. Salg,148,7117,5,1973,
 607,Villa,Ærøvænget 26,7000, Fredericia,395800 ,25-10-1997,Alm. Salg,162,2443,6,1998,
-607,Ejerlejlighed,"Dalegade 91A, st",7000, Fredericia,791000 ,23-10-1997,Alm. Salg,46,17196,2,1891,
-607,Ejerlejlighed,"Dalegade 91B, st",7000, Fredericia,791000 ,23-10-1997,Alm. Salg,78,10141,4,1891,
-607,Ejerlejlighed,"Sjællandsgade 68, st. th",7000, Fredericia,791000 ,23-10-1997,Alm. Salg,96,8240,4,1891,
-607,Ejerlejlighed,"Sjællandsgade 68B, 1",7000, Fredericia,791000 ,23-10-1997,Alm. Salg,76,10408,4,1891,
-607,Ejerlejlighed,"Sjællandsgade 68, st. tv",7000, Fredericia,791000 ,23-10-1997,Alm. Salg,68,11632,2,1891,
-607,Ejerlejlighed,"Sjællandsgade 68, 1",7000, Fredericia,791000 ,23-10-1997,Alm. Salg,131,6038,5,1891,
 607,Villa,Kildebakken 6,7000, Fredericia,1131000 ,23-10-1997,Alm. Salg,131,8634,4,1973,
 607,Villa,Vejlevej 66,7000, Fredericia,790000 ,23-10-1997,Alm. Salg,125,6320,4,1937,
 607,Rækkehus,Nørre Voldgade 82,7000, Fredericia,859000 ,21-10-1997,Alm. Salg,140,6136,6,1897,
@@ -17006,7 +16689,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Egeskovvej 50,7000, Fredericia,816000 ,27-08-1997,Alm. Salg,182,4484,6,1921,
 607,Villa,Ballesvej 33,7000, Fredericia,375000 ,27-08-1997,Alm. Salg,149,2517,5,2008,
 607,Rækkehus,Blichersvej 14,7000, Fredericia,712000 ,26-08-1997,Alm. Salg,121,5884,4,1923,
-607,Rækkehus,"Prinsessegade 61, st",7000, Fredericia,1337178 ,26-08-1997,Alm. Salg,85,15732,2,1798,
 607,Villa,Matrosvænget 21,7000, Fredericia,932000 ,26-08-1997,Alm. Salg,133,7008,5,1977,
 607,Villa,Ærøvænget 20,7000, Fredericia,355000 ,26-08-1997,Alm. Salg,173,2052,6,1998,
 607,Villa,Ametystvænget 8,7000, Fredericia,806000 ,25-08-1997,Alm. Salg,130,6200,4,1977,
@@ -17047,11 +16729,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Rækkehus,Prinsensgade 25,7000, Fredericia,490000 ,11-08-1997,Alm. Salg,138,3551,5,1900,
 607,Rækkehus,Hybenvej 7,7000, Fredericia,748000 ,11-08-1997,Alm. Salg,106,7057,5,1921,
 607,Ejerlejlighed,"Danmarksgade 25, 3",7000, Fredericia,825000 ,11-08-1997,Alm. Salg,120,6875,4,1905,
-607,Ejerlejlighed,"Dronningensgade 58, st. tv",7000, Fredericia,828000 ,11-08-1997,Alm. Salg,50,16560,2,1896,
-607,Ejerlejlighed,"Dronningensgade 58, st. th",7000, Fredericia,828000 ,11-08-1997,Alm. Salg,53,15623,2,1896,
-607,Ejerlejlighed,"Jyllandsgade 64, st",7000, Fredericia,828000 ,11-08-1997,Alm. Salg,44,18818,2,1896,
-607,Ejerlejlighed,"Jyllandsgade 64, 1. tv",7000, Fredericia,828000 ,11-08-1997,Alm. Salg,68,12176,2,1896,
-607,Ejerlejlighed,"Jyllandsgade 64, 1. th",7000, Fredericia,828000 ,11-08-1997,Alm. Salg,38,21789,2,1896,
 607,Villa,Havepladsvej 28,7000, Fredericia,875000 ,11-08-1997,Alm. Salg,167,5240,8,1953,
 607,Villa,Holtegårdsvej 33,7000, Fredericia,780000 ,11-08-1997,Alm. Salg,108,7222,5,1969,
 607,Villa,Egeskovvej 88,7000, Fredericia,900330 ,11-08-1997,Alm. Salg,178,5058,6,1922,
@@ -17067,12 +16744,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Røde Banke 42,7000, Fredericia,530000 ,09-08-1997,Alm. Salg,87,6092,4,1956,
 607,Rækkehus,Sonnesvej 38,7000, Fredericia,740000 ,06-08-1997,Alm. Salg,98,7551,4,1967,
 607,Ejerlejlighed,"Købmagergade 81, 1. th",7000, Fredericia,465218 ,06-08-1997,Alm. Salg,105,4431,4,1929,
-607,Ejerlejlighed,Danmarksgade 57,7000, Fredericia,1050000 ,06-08-1997,Alm. Salg,57,18421,3,1800,
-607,Ejerlejlighed,"Danmarksgade 59, 1. tv",7000, Fredericia,1050000 ,06-08-1997,Alm. Salg,46,22826,2,1800,
-607,Ejerlejlighed,"Danmarksgade 59, st",7000, Fredericia,1050000 ,06-08-1997,Alm. Salg,72,14583,3,1800,
-607,Ejerlejlighed,"Kongensstræde 28B, st",7000, Fredericia,1050000 ,06-08-1997,Alm. Salg,51,20588,2,1800,
 607,Ejerlejlighed,"6.Julivej 91, st. th",7000, Fredericia,475000 ,06-08-1997,Alm. Salg,75,6333,3,1948,
-607,Ejerlejlighed,"Kongensstræde 28C, st",7000, Fredericia,1050000 ,06-08-1997,Alm. Salg,72,14583,2,1800,
 607,Villa,Bøgeskovvej 43,7000, Fredericia,1764000 ,06-08-1997,Alm. Salg,235,7506,8,1900,
 607,Villa,Kobbelgårdsvej 71,7000, Fredericia,220000 ,06-08-1997,Alm. Salg,143,1538,6,1997,
 607,Villa,Lillenæs 38,7000, Fredericia,250000 ,06-08-1997,Alm. Salg,209,1196,7,1998,
@@ -17096,9 +16768,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Bjerregårdsvej 10,7000, Fredericia,950000 ,29-07-1997,Alm. Salg,118,8051,4,1968,
 607,Rækkehus,Krøyersvænget 20,7000, Fredericia,695700 ,28-07-1997,Alm. Salg,103,6754,4,1966,
 607,Ejerlejlighed,"Fynsgade 26, 2",7000, Fredericia,396776 ,28-07-1997,Alm. Salg,115,3450,2,1898,
-607,Ejerlejlighed,"Kongensstræde 71, st. th",7000, Fredericia,900000 ,28-07-1997,Alm. Salg,64,14063,3,1896,
-607,Ejerlejlighed,"Kongensstræde 71, st. tv",7000, Fredericia,900000 ,28-07-1997,Alm. Salg,67,13433,2,1896,
-607,Ejerlejlighed,"Sjællandsgade 55A, 1",7000, Fredericia,900000 ,28-07-1997,Alm. Salg,109,8257,4,1896,
 607,Villa,Fridtjof Nansens Vej 7,7000, Fredericia,1009000 ,28-07-1997,Alm. Salg,195,5174,5,1977,
 607,Villa,Plantagevej 42,7000, Fredericia,1545840 ,28-07-1997,Alm. Salg,154,10038,5,1980,
 607,Ejerlejlighed,"Fynsgade 8, 2",7000, Fredericia,158803 ,27-07-1997,Fam. Salg,108,1470,3,1927,
@@ -17198,7 +16867,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Gotfred Fibigers Vej 2,7000, Fredericia,820000 ,16-06-1997,Alm. Salg,115,7130,4,1969,
 607,Ejerlejlighed,"Ydunsvej 49, 2. th",7000, Fredericia,310000 ,15-06-1997,Alm. Salg,64,4844,3,1957,
 607,Villa,Elbosvinget 14,7000, Fredericia,612000 ,15-06-1997,Alm. Salg,95,6442,2,1975,
-607,Villa,Sønderskovvej 61A,7000, Fredericia,2400000 ,15-06-1997,Alm. Salg,103,23301,3,1868,
 607,Villa,Tunøvej 5,7000, Fredericia,718000 ,12-06-1997,Alm. Salg,152,4724,4,1927,
 607,Villa,Alrøvænget 8,7000, Fredericia,761000 ,12-06-1997,Alm. Salg,99,7687,3,1965,
 607,Villa,Bredstrupvej 70,7000, Fredericia,545000 ,12-06-1997,Alm. Salg,148,3682,6,1900,
@@ -17361,7 +17029,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Langesøvej 27,7000, Fredericia,100000 ,30-03-1997,Alm. Salg,157,637,6,1997,
 607,Villa,Stenhøjvej 63,7000, Fredericia,569500 ,30-03-1997,Fam. Salg,193,2951,7,1927,
 607,Villa,Baunevej 7,7000, Fredericia,1525000 ,27-03-1997,Alm. Salg,203,7512,6,1980,
-607,Rækkehus,Bjergegade 80B,7000, Fredericia,655000 ,25-03-1997,Alm. Salg,150,4367,7,1895,
 607,Ejerlejlighed,"Vesterbrogade 29, 4. 2",7000, Fredericia,340000 ,25-03-1997,Alm. Salg,84,4048,3,1955,
 607,Ejerlejlighed,"6.Julivej 87, 2. th",7000, Fredericia,290000 ,25-03-1997,Alm. Salg,71,4085,4,1953,
 607,Villa,Matrosvænget 19,7000, Fredericia,852271 ,25-03-1997,Alm. Salg,117,7284,4,1976,
@@ -17402,11 +17069,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Irisvej 16,7000, Fredericia,769722 ,17-03-1997,Fam. Salg,130,5921,5,1966,
 607,Villa,Holtegårdsvej 27,7000, Fredericia,700000 ,17-03-1997,Alm. Salg,97,7216,4,1969,
 607,Rækkehus,Langesøvej 104,7000, Fredericia,620000 ,16-03-1997,Alm. Salg,76,8158,3,1983,
-607,Ejerlejlighed,Buen 2,7000, Fredericia,674000 ,16-03-1997,Alm. Salg,75,8987,3,1913,
-607,Ejerlejlighed,Buen 4,7000, Fredericia,674000 ,16-03-1997,Alm. Salg,89,7573,2,1913,
 607,Ejerlejlighed,"Ydunsvej 51, 2. tv",7000, Fredericia,300000 ,16-03-1997,Alm. Salg,76,3947,4,1957,
 607,Ejerlejlighed,"Havepladsvej 156, st. 3",7000, Fredericia,308000 ,16-03-1997,Alm. Salg,44,7000,2,1955,
-607,Ejerlejlighed,Ågade 91,7000, Fredericia,674000 ,16-03-1997,Alm. Salg,152,4434,5,1913,
 607,Villa,Nordre Kobbelvej 84,7000, Fredericia,574500 ,16-03-1997,Alm. Salg,88,6528,4,1969,
 607,Villa,Willumsensvænget 10,7000, Fredericia,753000 ,14-03-1997,Alm. Salg,136,5537,6,1969,
 607,Villa,Vesterdalsvej 32,7000, Fredericia,717332 ,14-03-1997,Alm. Salg,97,7395,3,1921,
@@ -17786,7 +17450,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Rækkehus,Bissensvej 9,7000, Fredericia,550000 ,28-08-1996,Alm. Salg,79,6962,3,1966,
 607,Rækkehus,Bissensvej 85,7000, Fredericia,530000 ,28-08-1996,Alm. Salg,102,5196,3,1967,
 607,Villa,Østergade 21,7000, Fredericia,730000 ,28-08-1996,Alm. Salg,333,2192,9,1910,
-607,Rækkehus,"Prinsessegade 61, st",7000, Fredericia,1350000 ,27-08-1996,Alm. Salg,85,15882,2,1798,
 607,Ejerlejlighed,"Falkevej 20, 2. tv",7000, Fredericia,345000 ,27-08-1996,Alm. Salg,60,5750,3,1938,
 607,Villa,Østerbyvej 28,7000, Fredericia,447368 ,27-08-1996,Alm. Salg,138,3242,3,1880,
 607,Villa,Vejrmosegårds Allé 24,7000, Fredericia,1275000 ,27-08-1996,Alm. Salg,205,6220,6,1974,
@@ -18035,8 +17698,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Granbakken 13,7000, Fredericia,1164000 ,21-05-1996,Alm. Salg,198,5879,5,1973,
 607,Rækkehus,Nørre Voldgade 80,7000, Fredericia,615000 ,20-05-1996,Alm. Salg,140,4393,6,1897,
 607,Villa,Gotfred Fibigers Vej 9,7000, Fredericia,175000 ,20-05-1996,Alm. Salg,161,1087,6,1997,
-607,Ejerlejlighed,"Egeskovvej 29, 1. tv",7000, Fredericia,1750000 ,19-05-1996,Alm. Salg,78,22436,3,1926,
-607,Ejerlejlighed,"Egeskovvej 29, 2. tv",7000, Fredericia,1750000 ,19-05-1996,Alm. Salg,78,22436,2,1926,
 607,Villa,Skyttevej 4,7000, Fredericia,737000 ,19-05-1996,Alm. Salg,90,8189,4,1950,
 607,Villa,Højrupvej 88,7000, Fredericia,419994 ,19-05-1996,Alm. Salg,80,5250,4,1880,
 607,Villa,Lærkevej 18,7000, Fredericia,735000 ,19-05-1996,Alm. Salg,201,3657,7,1965,
@@ -18116,17 +17777,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Ansgarsvej 12,7000, Fredericia,240943 ,16-04-1996,Andet,133,1812,5,1923,
 607,Rækkehus,Thorvaldsensvej 13,7000, Fredericia,385000 ,15-04-1996,Alm. Salg,61,6311,2,1971,
 607,Villa,Odinsvej 39,7000, Fredericia,650000 ,15-04-1996,Alm. Salg,92,7065,2,1939,
-607,Ejerlejlighed,"Jyllandsgade 26, 1",7000, Fredericia,1989000 ,14-04-1996,Fam. Salg,116,17147,4,1905,
-607,Ejerlejlighed,"Jyllandsgade 26, 2",7000, Fredericia,1989000 ,14-04-1996,Fam. Salg,116,17147,4,1905,
-607,Ejerlejlighed,"Jyllandsgade 26, 3",7000, Fredericia,1989000 ,14-04-1996,Fam. Salg,116,17147,4,1905,
-607,Ejerlejlighed,"Dalegade 61, 2. th",7000, Fredericia,1989000 ,14-04-1996,Fam. Salg,135,14733,5,1905,
-607,Ejerlejlighed,"Dalegade 61, 1. tv",7000, Fredericia,1989000 ,14-04-1996,Fam. Salg,145,13717,5,1905,
-607,Ejerlejlighed,"Dalegade 61, 1. th",7000, Fredericia,1989000 ,14-04-1996,Fam. Salg,135,14733,3,1905,
-607,Ejerlejlighed,"Dalegade 61, 2. tv",7000, Fredericia,1989000 ,14-04-1996,Fam. Salg,145,13717,5,1905,
-607,Ejerlejlighed,"Dalegade 61, 3. th",7000, Fredericia,1989000 ,14-04-1996,Fam. Salg,135,14733,4,1905,
-607,Ejerlejlighed,"Dalegade 61, 3. tv",7000, Fredericia,1989000 ,14-04-1996,Fam. Salg,145,13717,5,1905,
-607,Ejerlejlighed,"Dalegade 61, 4. 1",7000, Fredericia,1989000 ,14-04-1996,Fam. Salg,148,13439,5,1905,
-607,Ejerlejlighed,"Dalegade 61, 4. 3",7000, Fredericia,1989000 ,14-04-1996,Fam. Salg,87,22862,2,1905,
 607,Villa,Lunddalvej 27,7000, Fredericia,975000 ,14-04-1996,Alm. Salg,140,6964,4,1976,
 607,Villa,Møllebovænget 14,7000, Fredericia,500000 ,14-04-1996,Alm. Salg,241,2075,7,1896,
 607,Villa,Elboskrænten 9,7000, Fredericia,866000 ,14-04-1996,Fam. Salg,149,5812,4,1974,
@@ -18144,17 +17794,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Fasanvej 11,7000, Fredericia,780000 ,09-04-1996,Alm. Salg,154,5065,5,1925,
 607,Villa,Holmemarksvej 46,7000, Fredericia,154000 ,09-04-1996,Andet,93,1656,3,1960,
 607,Villa,Poppelvænget 9,7000, Fredericia,1100000 ,09-04-1996,Alm. Salg,191,5759,7,1969,
-607,Ejerlejlighed,"Sundegade 21, st. 4",7000, Fredericia,1465000 ,08-04-1996,Alm. Salg,75,19533,1,1900,
-607,Ejerlejlighed,"Sundegade 21, 1. 1",7000, Fredericia,1465000 ,08-04-1996,Alm. Salg,69,21232,1,1900,
 607,Ejerlejlighed,"Nørre Voldgade 98, 3. th",7000, Fredericia,176000 ,08-04-1996,Alm. Salg,52,3385,2,1898,
-607,Ejerlejlighed,"Sundegade 21, 1. 2",7000, Fredericia,1465000 ,08-04-1996,Alm. Salg,69,21232,2,1900,
 607,Villa,Albert Naurs Vej 21,7000, Fredericia,674000 ,08-04-1996,Alm. Salg,82,8220,4,1970,
 607,Villa,Bogvænget 29,7000, Fredericia,145000 ,07-04-1996,Alm. Salg,175,829,5,1996,
-607,Ejerlejlighed,"Ydunsvej 45, 1. tv",7000, Fredericia,198600 ,02-04-1996,Alm. Salg,81,2452,4,1957,
-607,Ejerlejlighed,"Ydunsvej 51, 2. tv",7000, Fredericia,185400 ,02-04-1996,Alm. Salg,76,2439,4,1957,
 607,Ejerlejlighed,"Ydunsvej 51, 2. th",7000, Fredericia,211900 ,02-04-1996,Alm. Salg,93,2278,5,1957,
-607,Ejerlejlighed,"Havepladsvej 150, st. th",7000, Fredericia,185400 ,02-04-1996,Alm. Salg,82,2261,3,1955,
-607,Ejerlejlighed,"Havepladsvej 154, 1. tv",7000, Fredericia,198600 ,02-04-1996,Alm. Salg,81,2452,2,1955,
 607,Ejerlejlighed,"Havepladsvej 156, st. 3",7000, Fredericia,225100 ,02-04-1996,Alm. Salg,44,5116,2,1955,
 607,Villa,Skovløbervænget 3A,7000, Fredericia,769000 ,02-04-1996,Alm. Salg,131,5870,4,1957,
 607,Ejerlejlighed,"Havepladsvej 172, st. tv",7000, Fredericia,380000 ,01-04-1996,Alm. Salg,83,4578,3,1966,
@@ -18248,12 +17891,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Elbosvinget 8,7000, Fredericia,695000 ,22-02-1996,Alm. Salg,130,5346,5,1974,
 607,Villa,Carl Roses Vej 2B,7000, Fredericia,560000 ,22-02-1996,Fam. Salg,135,4148,4,1935,
 607,Villa,Stenhøjvej 66,7000, Fredericia,638000 ,22-02-1996,Alm. Salg,118,5407,4,1971,
-607,Rækkehus,Bjergegade 76,7000, Fredericia,595000 ,21-02-1996,Alm. Salg,146,4075,6,1897,
 607,Ejerlejlighed,"Dalegade 47, 2",7000, Fredericia,297000 ,21-02-1996,Alm. Salg,82,3622,2,1909,
 607,Villa,Fuglsangparken 8,7000, Fredericia,156750 ,21-02-1996,Alm. Salg,126,1244,4,1996,
 607,Villa,Thorsvej 58,7000, Fredericia,711000 ,20-02-1996,Alm. Salg,69,10304,3,1948,
 607,Villa,Stensgårdsvej 41,7000, Fredericia,895000 ,20-02-1996,Alm. Salg,132,6780,6,1978,
-607,Villa,"Gl. Ribevej 72, st",7000, Fredericia,580000 ,20-02-1996,Alm. Salg,403,1439,8,1900,
 607,Villa,Grønkjærsvej 22,7000, Fredericia,820000 ,19-02-1996,Alm. Salg,115,7130,4,1972,
 607,Rækkehus,Marstrandsvænget 8,7000, Fredericia,550000 ,17-02-1996,Alm. Salg,80,6875,3,1966,
 607,Villa,Ahornvænget 3,7000, Fredericia,897000 ,15-02-1996,Alm. Salg,175,5126,5,1974,
@@ -18347,9 +17988,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Lillenæs 45,7000, Fredericia,1543787 ,19-12-1995,Alm. Salg,122,12654,4,1968,
 607,Rækkehus,Ansgarsvej 27,7000, Fredericia,640000 ,18-12-1995,Alm. Salg,133,4812,4,1923,
 607,Ejerlejlighed,"Vesterbrogade 31, 3. tv",7000, Fredericia,350000 ,18-12-1995,Alm. Salg,98,3571,4,1955,
-607,Ejerlejlighed,"Vendersgade 5, 2. th",7000, Fredericia,550000 ,18-12-1995,Alm. Salg,114,4825,3,1904,
 607,Villa,Jadevænget 14,7000, Fredericia,730000 ,18-12-1995,Fam. Salg,174,4195,7,1972,
-607,Villa,Nyager 34,7000, Fredericia,550000 ,18-12-1995,Alm. Salg,101,5446,3,1977,
 607,Villa,Blåhøj 50,7000, Fredericia,1212000 ,18-12-1995,Alm. Salg,151,8026,5,1984,
 607,Villa,Ravnsgårdsvej 48,7000, Fredericia,168000 ,17-12-1995,Alm. Salg,162,1037,5,1996,
 607,Rækkehus,Sonnesvej 52,7000, Fredericia,475000 ,15-12-1995,Alm. Salg,77,6169,3,1968,
@@ -18385,7 +18024,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Grønlandsvej 9,7000, Fredericia,575000 ,27-11-1995,Alm. Salg,98,5867,4,1942,
 607,Villa,Odinsvej 7,7000, Fredericia,791240 ,27-11-1995,Alm. Salg,149,5310,5,1935,
 607,Villa,Krogsagervej 43,7000, Fredericia,771000 ,27-11-1995,Alm. Salg,144,5354,4,1975,
-607,Ejerlejlighed,"Torvegade 2, 1",7000, Fredericia,2556000 ,26-11-1995,Alm. Salg,144,17750,5,1902,
 607,Ejerlejlighed,"6.Julivej 87, st. th",7000, Fredericia,295000 ,26-11-1995,Alm. Salg,86,3430,4,1953,
 607,Ejerlejlighed,"Købmagergade 39, st. th",7000, Fredericia,150000 ,26-11-1995,Alm. Salg,57,2632,2,1903,
 607,Villa,Øster Voldgade 28,7000, Fredericia,1050000 ,26-11-1995,Alm. Salg,191,5497,6,1923,
@@ -18568,8 +18206,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Hannerup Engvej 31,7000, Fredericia,264616 ,07-09-1995,Fam. Salg,200,1323,7,1930,
 607,Villa,Nymarksvej 63,7000, Fredericia,275000 ,06-09-1995,Alm. Salg,222,1239,6,2011,
 607,Villa,Septembervej 8,7000, Fredericia,70000 ,06-09-1995,Alm. Salg,30,2333,3,1958,
-607,Rækkehus,"Luthersvej 17, 1",7000, Fredericia,595000 ,05-09-1995,Alm. Salg,178,3343,6,1911,
-607,Ejerlejlighed,"Luthersvej 17, st",7000, Fredericia,595000 ,05-09-1995,Alm. Salg,63,9444,2,1911,
 607,Villa,Vesterled 1C,7000, Fredericia,845820 ,05-09-1995,Alm. Salg,156,5422,5,1976,
 607,Villa,Herthavej 13,7000, Fredericia,670000 ,04-09-1995,Alm. Salg,103,6505,4,1933,
 607,Villa,Ellipsen 26,7000, Fredericia,185000 ,04-09-1995,Alm. Salg,162,1142,5,1996,
@@ -18627,7 +18263,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Rækkehus,Kongensgade 63,7000, Fredericia,745000 ,10-08-1995,Alm. Salg,238,3130,8,1896,
 607,Villa,Vejlby Kirkevej 19,7000, Fredericia,384460 ,10-08-1995,Alm. Salg,140,2746,3,1900,
 607,Villa,Lærkevej 8,7000, Fredericia,850000 ,09-08-1995,Alm. Salg,153,5556,7,1932,
-607,Villa,Skovbøllingvej 7,7000, Fredericia,50000 ,09-08-1995,Alm. Salg,167,299,4,1945,
 607,Ejerlejlighed,"Jernbanegade 9, 1. tv",7000, Fredericia,227000 ,08-08-1995,Alm. Salg,67,3388,2,1935,
 607,Villa,Lathyrusvej 13,7000, Fredericia,508000 ,08-08-1995,Alm. Salg,87,5839,3,1962,
 607,Villa,Fredericiavej 17,7000, Fredericia,840000 ,08-08-1995,Alm. Salg,150,5600,5,1945,
@@ -18660,10 +18295,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,J. P. Jacobsens Vej 3,7000, Fredericia,769000 ,28-07-1995,Alm. Salg,153,5026,4,1961,
 607,Villa,Granbakken 14,7000, Fredericia,675000 ,28-07-1995,Alm. Salg,115,5870,4,1973,
 607,Villa,Æblevej 5,7000, Fredericia,497000 ,27-07-1995,Alm. Salg,88,5648,3,1956,
-607,Ejerlejlighed,"Vesterbrogade 33, 4. th",7000, Fredericia,65000 ,26-07-1995,Alm. Salg,51,1275,2,1955,
 607,Ejerlejlighed,"6.Julivej 91, st. th",7000, Fredericia,260000 ,26-07-1995,Alm. Salg,75,3467,3,1948,
-607,Ejerlejlighed,"6.Julivej 91, st. tv",7000, Fredericia,65000 ,26-07-1995,Alm. Salg,83,783,3,1948,
-607,Ejerlejlighed,"6.Julivej 91, 2. tv",7000, Fredericia,65000 ,26-07-1995,Alm. Salg,61,1066,3,1948,
 607,Villa,Gefionsvej 26,7000, Fredericia,500000 ,26-07-1995,Alm. Salg,65,7692,2,1938,
 607,Ejerlejlighed,"Vesterbrogade 33, 2. mf",7000, Fredericia,145000 ,25-07-1995,Alm. Salg,54,2685,2,1955,
 607,Ejerlejlighed,"Sjællandsgade 77A, 1. tv",7000, Fredericia,395000 ,24-07-1995,Alm. Salg,100,3950,3,1970,
@@ -18824,10 +18456,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Klintebjerg 18,7000, Fredericia,1248000 ,14-05-1995,Alm. Salg,195,6400,5,1984,
 607,Villa,Gl. Landevej 18,7000, Fredericia,740000 ,14-05-1995,Alm. Salg,127,5827,4,1976,
 607,Villa,Grethevej 14,7000, Fredericia,595000 ,14-05-1995,Alm. Salg,140,4250,5,1938,
-607,Ejerlejlighed,Nørrebrogade 52,7000, Fredericia,695000 ,10-05-1995,Alm. Salg,36,19306,1,1927,
-607,Ejerlejlighed,"Primulavej 1, st",7000, Fredericia,695000 ,10-05-1995,Alm. Salg,85,8176,3,1927,
-607,Ejerlejlighed,"Primulavej 1, 1",7000, Fredericia,695000 ,10-05-1995,Alm. Salg,72,9653,3,1927,
-607,Ejerlejlighed,"Primulavej 1A, 1",7000, Fredericia,695000 ,10-05-1995,Alm. Salg,66,10530,2,1927,
 607,Ejerlejlighed,"Jernbanegade 17, 3. th",7000, Fredericia,120000 ,09-05-1995,Alm. Salg,67,1791,2,1935,
 607,Villa,Spicavænget 11,7000, Fredericia,885000 ,09-05-1995,Alm. Salg,149,5940,5,1978,
 607,Villa,Nymarksvej 63,7000, Fredericia,155000 ,09-05-1995,Auktion,222,698,6,2011,
@@ -18999,7 +18627,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Ejerlejlighed,"Sjællandsgade 42, 1. tv",7000, Fredericia,292000 ,23-02-1995,Alm. Salg,82,3561,3,1900,
 607,Villa,Ellipsen 50,7000, Fredericia,135000 ,23-02-1995,Alm. Salg,181,746,6,1995,
 607,Villa,Brovadvej 6,7000, Fredericia,891000 ,23-02-1995,Alm. Salg,161,5534,6,1985,
-607,Villa,Lathyrusvej 19,7000, Fredericia,350000 ,22-02-1995,Alm. Salg,110,3182,5,1926,
 607,Ejerlejlighed,"Nørre Voldgade 98, 1. th",7000, Fredericia,275000 ,21-02-1995,Alm. Salg,52,5288,2,1898,
 607,Ejerlejlighed,"Oldenborggade 70, 1. tv",7000, Fredericia,185000 ,21-02-1995,Alm. Salg,57,3246,2,1917,
 607,Villa,Egumvej 71,7000, Fredericia,531000 ,21-02-1995,Alm. Salg,153,3471,6,1930,
@@ -19041,7 +18668,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Rækkehus,Vendersgade 34,7000, Fredericia,1175000 ,06-02-1995,Alm. Salg,99,11869,3,1877,
 607,Villa,Herthavej 19,7000, Fredericia,625000 ,06-02-1995,Alm. Salg,103,6068,4,1960,
 607,Villa,Lillenæs 62,7000, Fredericia,916000 ,06-02-1995,Alm. Salg,183,5005,5,1987,
-607,Rækkehus,Sjællandsgade 57A,7000, Fredericia,380000 ,05-02-1995,Fam. Salg,49,7755,2,1902,
 607,Rækkehus,Anders Billes Vej 23,7000, Fredericia,590000 ,05-02-1995,Alm. Salg,100,5900,3,1921,
 607,Villa,Snaremosevej 204,7000, Fredericia,880738 ,05-02-1995,Alm. Salg,178,4948,6,1985,
 607,Villa,Ellipsen 48,7000, Fredericia,135000 ,05-02-1995,Alm. Salg,245,551,10,1996,
@@ -19205,9 +18831,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Digevænget 12,7000, Fredericia,695000 ,22-11-1994,Alm. Salg,109,6376,4,1976,
 607,Ejerlejlighed,"Lathyrusvej 23, st. tv",7000, Fredericia,290000 ,21-11-1994,Alm. Salg,58,5000,2,1937,
 607,Villa,Stationsvej 28,7000, Fredericia,430000 ,19-11-1994,Alm. Salg,171,2515,4,1920,
-607,Ejerlejlighed,"Oldenborggade 12, st",7000, Fredericia,240000 ,17-11-1994,Alm. Salg,44,5455,2,1897,
-607,Ejerlejlighed,"Oldenborggade 12, 1",7000, Fredericia,240000 ,17-11-1994,Alm. Salg,106,2264,4,1897,
-607,Ejerlejlighed,"Vesterbrogade 33, 4. tv",7000, Fredericia,240000 ,17-11-1994,Alm. Salg,96,2500,3,1955,
 607,Ejerlejlighed,"Kongensgade 47A, 2",7000, Fredericia,460000 ,17-11-1994,Alm. Salg,172,2674,6,1902,
 607,Ejerlejlighed,"Havepladsvej 158, 1. 3",7000, Fredericia,210000 ,17-11-1994,Alm. Salg,47,4468,2,1955,
 607,Villa,Krogtoftevej 19,7000, Fredericia,686885 ,17-11-1994,Alm. Salg,106,6480,4,1984,
@@ -19379,8 +19002,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Østergade 37,7000, Fredericia,370000 ,04-09-1994,Alm. Salg,143,2587,5,1909,
 607,Rækkehus,Ussinggårdsvej 9,7000, Fredericia,700000 ,01-09-1994,Alm. Salg,132,5303,4,1979,
 607,Rækkehus,Bjergegade 79,7000, Fredericia,285000 ,01-09-1994,Alm. Salg,137,2080,6,1898,
-607,Ejerlejlighed,"Kongensgade 47A, 1",7000, Fredericia,325000 ,01-09-1994,Alm. Salg,166,1958,6,1902,
-607,Ejerlejlighed,"Glentevej 14, 1. tv",7000, Fredericia,325000 ,01-09-1994,Alm. Salg,76,4276,3,1935,
 607,Villa,Willumsensvænget 12,7000, Fredericia,535000 ,01-09-1994,Alm. Salg,145,3690,4,1970,
 607,Ejerlejlighed,"Vesterbrogade 29, 4. 3",7000, Fredericia,160000 ,31-08-1994,Alm. Salg,34,4706,1,1955,
 607,Ejerlejlighed,"Kongensgade 47A, st",7000, Fredericia,355262 ,31-08-1994,Alm. Salg,139,2556,4,1902,
@@ -19871,12 +19492,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Frederik 3.s Vej 18,7000, Fredericia,370000 ,17-01-1994,Alm. Salg,161,2298,6,1919,
 607,Villa,Møllebo Allé 3,7000, Fredericia,975000 ,17-01-1994,Alm. Salg,248,3931,8,1978,
 607,Villa,Fredericiavej 16,7000, Fredericia,550000 ,17-01-1994,Alm. Salg,96,5729,4,1959,
-607,Ejerlejlighed,"Humlevænget 5, 1",7000, Fredericia,340000 ,16-01-1994,Auktion,88,3864,4,1953,
 607,Villa,Devantiersvej 12,7000, Fredericia,635000 ,16-01-1994,Alm. Salg,114,5570,4,1978,
 607,Villa,Regulusvænget 14,7000, Fredericia,715000 ,16-01-1994,Alm. Salg,172,4157,6,1969,
 607,Villa,Prangervej 95,7000, Fredericia,380000 ,16-01-1994,Alm. Salg,92,4130,5,1935,
 607,Villa,H. C. Andersens Vej 4,7000, Fredericia,492000 ,16-01-1994,Alm. Salg,70,7029,2,1954,
-607,Villa,Humlevænget 7,7000, Fredericia,340000 ,16-01-1994,Auktion,134,2537,4,1943,
 607,Villa,Ågade 90,7000, Fredericia,426556 ,16-01-1994,Alm. Salg,232,1839,8,1977,
 607,Villa,Forsythiavej 20,7000, Fredericia,120000 ,16-01-1994,Alm. Salg,128,938,5,1994,
 607,Rækkehus,Dalegade 95,7000, Fredericia,135000 ,14-01-1994,Alm. Salg,157,860,6,1896,
@@ -19888,12 +19507,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Tårupvej 10,7000, Fredericia,650000 ,12-01-1994,Alm. Salg,172,3779,7,1900,
 607,Villa,Hvidtjørnevej 7,7000, Fredericia,112500 ,12-01-1994,Alm. Salg,157,717,5,1996,
 607,Villa,Holtegårdsvej 1,7000, Fredericia,852000 ,10-01-1994,Alm. Salg,169,5041,6,1968,
-607,Ejerlejlighed,"Dronningensgade 58, st. tv",7000, Fredericia,340000 ,09-01-1994,Fam. Salg,50,6800,2,1896,
-607,Ejerlejlighed,"Dronningensgade 58, 1",7000, Fredericia,340000 ,09-01-1994,Fam. Salg,35,9714,2,1896,
-607,Ejerlejlighed,"Dronningensgade 58, st. th",7000, Fredericia,340000 ,09-01-1994,Fam. Salg,53,6415,2,1896,
-607,Ejerlejlighed,"Jyllandsgade 64, st",7000, Fredericia,340000 ,09-01-1994,Fam. Salg,44,7727,2,1896,
-607,Ejerlejlighed,"Jyllandsgade 64, 1. tv",7000, Fredericia,340000 ,09-01-1994,Fam. Salg,68,5000,2,1896,
-607,Ejerlejlighed,"Jyllandsgade 64, 1. th",7000, Fredericia,340000 ,09-01-1994,Fam. Salg,38,8947,2,1896,
 607,Villa,Krügersvej 64,7000, Fredericia,861000 ,09-01-1994,Alm. Salg,195,4415,5,1971,
 607,Villa,Fredericiavej 14,7000, Fredericia,790000 ,09-01-1994,Alm. Salg,145,5448,3,1984,
 607,Villa,Jerndorffsvænget 2,7000, Fredericia,556393 ,06-01-1994,Alm. Salg,88,6323,4,1970,
@@ -20252,9 +19865,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Rækkehus,Calvinsvej 37,7000, Fredericia,587500 ,01-07-1993,Alm. Salg,98,5995,3,1979,
 607,Rækkehus,Havrevænget 11,7000, Fredericia,486000 ,30-06-1993,Alm. Salg,81,6000,3,1963,
 607,Rækkehus,Abildgaardsvænget 22,7000, Fredericia,450000 ,30-06-1993,Alm. Salg,83,5422,3,1965,
-607,Rækkehus,"Luthersvej 17, 1",7000, Fredericia,500000 ,30-06-1993,Alm. Salg,178,2809,6,1911,
 607,Ejerlejlighed,"Vendersgade 5, 2. th",7000, Fredericia,550000 ,30-06-1993,Alm. Salg,114,4825,3,1904,
-607,Ejerlejlighed,"Luthersvej 17, st",7000, Fredericia,500000 ,30-06-1993,Alm. Salg,63,7937,2,1911,
 607,Villa,Birkholmvej 3,7000, Fredericia,797000 ,30-06-1993,Alm. Salg,166,4801,6,1974,
 607,Villa,Prangervej 96,7000, Fredericia,493000 ,30-06-1993,Alm. Salg,120,4108,4,1963,
 607,Villa,Skippervænget 2,7000, Fredericia,430000 ,30-06-1993,Alm. Salg,117,3675,4,1978,
@@ -20339,14 +19950,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Rækkehus,Vinkildegårdsvej 3,7000, Fredericia,525000 ,02-06-1993,Alm. Salg,93,5645,3,1979,
 607,Villa,Knud Rasmussens Vej 11,7000, Fredericia,162500 ,02-06-1993,Alm. Salg,158,1028,6,1994,
 607,Villa,Elboparken 7,7000, Fredericia,485000 ,02-06-1993,Alm. Salg,115,4217,3,1967,
-607,Ejerlejlighed,"Sjællandsgade 11, st. tv",7000, Fredericia,700000 ,01-06-1993,Alm. Salg,48,14583,2,1900,
-607,Ejerlejlighed,"Sjællandsgade 11, st. th",7000, Fredericia,700000 ,01-06-1993,Alm. Salg,87,8046,3,1900,
-607,Ejerlejlighed,"Sjællandsgade 11, 1. th",7000, Fredericia,700000 ,01-06-1993,Alm. Salg,87,8046,3,1900,
-607,Ejerlejlighed,"Sjællandsgade 11, 1. tv",7000, Fredericia,700000 ,01-06-1993,Alm. Salg,48,14583,2,1900,
-607,Ejerlejlighed,"Norgesgade 32, st",7000, Fredericia,700000 ,01-06-1993,Alm. Salg,47,14894,2,1900,
-607,Ejerlejlighed,"Norgesgade 32, 1",7000, Fredericia,700000 ,01-06-1993,Alm. Salg,57,12281,3,1900,
-607,Ejerlejlighed,"Norgesgade 32, 2. th",7000, Fredericia,700000 ,01-06-1993,Alm. Salg,68,10294,3,1900,
-607,Ejerlejlighed,"Norgesgade 32, 2. tv",7000, Fredericia,700000 ,01-06-1993,Alm. Salg,73,9589,3,1900,
 607,Villa,Smalagervej 31,7000, Fredericia,628752 ,01-06-1993,Alm. Salg,124,5071,3,1970,
 607,Villa,Brovadvej 22,7000, Fredericia,293624 ,01-06-1993,Alm. Salg,174,1687,6,1968,
 607,Villa,Fælledvej 47,7000, Fredericia,479500 ,01-06-1993,Alm. Salg,143,3353,5,1926,
@@ -20511,15 +20114,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Bregnevej 1,7000, Fredericia,486000 ,15-02-1993,Alm. Salg,139,3496,5,1921,
 607,Rækkehus,Johannes Larsens Vænge 4,7000, Fredericia,255679 ,14-02-1993,Alm. Salg,105,2435,4,1965,
 607,Ejerlejlighed,"Havepladsvej 158, st. 3",7000, Fredericia,246000 ,14-02-1993,Alm. Salg,47,5234,2,1955,
-607,Ejerlejlighed,"Sundegade 21, st. 2",7000, Fredericia,800000 ,11-02-1993,Alm. Salg,48,16667,1,1900,
-607,Ejerlejlighed,"Sundegade 21, st. 1",7000, Fredericia,800000 ,11-02-1993,Alm. Salg,48,16667,1,1900,
-607,Ejerlejlighed,"Sundegade 21, st. 4",7000, Fredericia,800000 ,11-02-1993,Alm. Salg,75,10667,1,1900,
-607,Ejerlejlighed,"Sundegade 21, st. 3",7000, Fredericia,800000 ,11-02-1993,Alm. Salg,42,19048,1,1900,
-607,Ejerlejlighed,"Sundegade 21, 1. 1",7000, Fredericia,800000 ,11-02-1993,Alm. Salg,69,11594,1,1900,
-607,Ejerlejlighed,Vendersgade 56A,7000, Fredericia,800000 ,11-02-1993,Alm. Salg,39,20513,1,1900,
-607,Ejerlejlighed,"Sundegade 21, 1. 2",7000, Fredericia,800000 ,11-02-1993,Alm. Salg,69,11594,2,1900,
-607,Ejerlejlighed,"Sundegade 21, 1. 4",7000, Fredericia,800000 ,11-02-1993,Alm. Salg,47,17021,1,1900,
-607,Ejerlejlighed,"Sundegade 21, 1. 3",7000, Fredericia,800000 ,11-02-1993,Alm. Salg,39,20513,1,1900,
 607,Villa,Odinsvej 4,7000, Fredericia,248233 ,11-02-1993,Alm. Salg,151,1644,5,1931,
 607,Villa,Trelde Næsvej 47,7000, Fredericia,1200000 ,10-02-1993,Alm. Salg,210,5714,5,1967,
 607,Ejerlejlighed,"Calvinsvej 43, 2",7000, Fredericia,160000 ,08-02-1993,Alm. Salg,59,2712,2,1938,
@@ -20576,8 +20170,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Rækkehus,Tuxensvej 39,7000, Fredericia,455021 ,17-12-1992,Fam. Salg,98,4643,4,1972,
 607,Ejerlejlighed,"Calvinsvej 41, st. tv",7000, Fredericia,259000 ,17-12-1992,Alm. Salg,66,3924,2,1938,
 607,Villa,Thorvaldsensvej 36,7000, Fredericia,630000 ,17-12-1992,Alm. Salg,128,4922,5,1979,
-607,Rækkehus,Langesøvej 116,7000, Fredericia,350000 ,16-12-1992,Alm. Salg,91,3846,4,1981,
-607,Villa,Lindevej 6,7000, Fredericia,350000 ,16-12-1992,Alm. Salg,106,3302,3,1965,
 607,Villa,Baunegårdsvej 7,7000, Fredericia,835127 ,16-12-1992,Alm. Salg,163,5123,5,1985,
 607,Villa,Riegelsvej 2,7000, Fredericia,595000 ,16-12-1992,Alm. Salg,110,5409,4,1965,
 607,Ejerlejlighed,"Nørre Voldgade 98, 2. th",7000, Fredericia,260000 ,15-12-1992,Alm. Salg,52,5000,2,1898,
@@ -20587,12 +20179,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Alrøvænget 6,7000, Fredericia,489000 ,14-12-1992,Alm. Salg,99,4939,4,1965,
 607,Villa,Follerup Møllevej 20,7000, Fredericia,580000 ,14-12-1992,Alm. Salg,202,2871,5,1900,
 607,Villa,Krogtoftevej 4,7000, Fredericia,670000 ,14-12-1992,Alm. Salg,122,5492,4,1984,
-607,Ejerlejlighed,"Vendersgade 12, 1",7000, Fredericia,1775325 ,13-12-1992,Fam. Salg,77,23056,4,1888,
-607,Ejerlejlighed,"Danmarksgade 5, 1. th",7000, Fredericia,1775325 ,13-12-1992,Fam. Salg,78,22761,2,1888,
-607,Ejerlejlighed,"Danmarksgade 5, 2. mf",7000, Fredericia,1775325 ,13-12-1992,Fam. Salg,78,22761,2,1888,
-607,Ejerlejlighed,"Danmarksgade 5, 2. th",7000, Fredericia,1775325 ,13-12-1992,Fam. Salg,86,20643,3,1888,
-607,Ejerlejlighed,"Danmarksgade 5, 2. tv",7000, Fredericia,1775325 ,13-12-1992,Fam. Salg,90,19726,3,1888,
-607,Ejerlejlighed,"Danmarksgade 5, 1. tv",7000, Fredericia,1775325 ,13-12-1992,Fam. Salg,143,12415,4,1888,
 607,Villa,Odderstedvej 14,7000, Fredericia,760000 ,13-12-1992,Alm. Salg,223,3408,5,1900,
 607,Villa,Ravnsgårdsvej 11,7000, Fredericia,634768 ,11-12-1992,Fam. Salg,126,5038,4,1984,
 607,Villa,Tværvej 1,7000, Fredericia,610000 ,10-12-1992,Alm. Salg,117,5214,5,1965,
@@ -20608,8 +20194,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Gørtlervej 6,7000, Fredericia,1839233 ,30-11-1992,Alm. Salg,93,19777,3,1976,
 607,Villa,Violvej 8,7000, Fredericia,620000 ,30-11-1992,Alm. Salg,129,4806,6,1971,
 607,Rækkehus,Stævnebogårdsvej 33,7000, Fredericia,550000 ,29-11-1992,Alm. Salg,91,6044,4,1978,
-607,Ejerlejlighed,"Danmarksgade 31, 1",7000, Fredericia,1019401 ,29-11-1992,Alm. Salg,97,10509,4,1909,
-607,Ejerlejlighed,"Købmagergade 22, 1",7000, Fredericia,1019401 ,29-11-1992,Alm. Salg,67,15215,2,1909,
 607,Villa,Holtegårdsvej 27,7000, Fredericia,572000 ,29-11-1992,Alm. Salg,97,5897,4,1969,
 607,Villa,Calvinsvej 25,7000, Fredericia,605550 ,29-11-1992,Alm. Salg,163,3715,6,1933,
 607,Villa,Forsythiavej 17,7000, Fredericia,570000 ,25-11-1992,Alm. Salg,109,5229,4,1986,
@@ -21245,15 +20829,11 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Fælledvej 25,7000, Fredericia,520000 ,27-01-1992,Alm. Salg,126,4127,5,1930,
 607,Villa,Højrupvej 115,7000, Fredericia,350000 ,27-01-1992,Fam. Salg,185,1892,8,1959,
 607,Villa,Kolding Landevej 86,7000, Fredericia,420000 ,27-01-1992,Alm. Salg,175,2400,5,1937,
-607,Ejerlejlighed,"Jernbanegade 13, 4. th",7000, Fredericia,385000 ,26-01-1992,Alm. Salg,106,3632,3,1935,
 607,Villa,Agernvænget 2,7000, Fredericia,440000 ,26-01-1992,Alm. Salg,129,3411,5,1969,
 607,Villa,Fjordvejen 43,7000, Fredericia,740000 ,26-01-1992,Fam. Salg,187,3957,6,1904,
 607,Villa,Løvagervej 20,7000, Fredericia,812000 ,26-01-1992,Fam. Salg,146,5562,5,1971,
 607,Villa,Rødkjærsvej 20,7000, Fredericia,420000 ,26-01-1992,Fam. Salg,104,4038,3,1971,
-607,Villa,Bøgeskovvej 8,7000, Fredericia,385000 ,26-01-1992,Alm. Salg,128,3008,3,1964,
 607,Villa,Odinsvej 59,7000, Fredericia,450000 ,25-01-1992,Alm. Salg,198,2273,6,1955,
-607,Rækkehus,Langesøvej 74,7000, Fredericia,460000 ,23-01-1992,Alm. Salg,76,6053,3,1981,
-607,Villa,Brovadvej 28,7000, Fredericia,460000 ,23-01-1992,Fam. Salg,136,3382,5,1963,
 607,Rækkehus,Thorvaldsensvej 49,7000, Fredericia,535000 ,22-01-1992,Fam. Salg,106,5047,4,1971,
 607,Villa,I. P. Hartmanns Vej 2,7000, Fredericia,535485 ,22-01-1992,Fam. Salg,131,4088,5,1970,
 607,Villa,Mosegårdsvej 27,7000, Fredericia,698000 ,21-01-1992,Alm. Salg,115,6070,4,1980,
@@ -21271,7 +20851,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 607,Villa,Østergårdsvej 13,7000, Fredericia,590000 ,16-01-1992,Alm. Salg,148,3986,5,1969,
 607,Ejerlejlighed,"Indre Ringvej 23, 2. tv",7000, Fredericia,305000 ,15-01-1992,Alm. Salg,80,3813,3,1955,
 607,Villa,Baunegårdsvej 74,7000, Fredericia,670000 ,15-01-1992,Fam. Salg,180,3722,6,1973,
-607,Rækkehus,Sjællandsgade 57A,7000, Fredericia,605000 ,13-01-1992,Alm. Salg,49,12347,2,1902,
 607,Villa,Bogvænget 12,7000, Fredericia,310000 ,13-01-1992,Alm. Salg,103,3010,3,1979,
 607,Villa,Krügersvej 38,7000, Fredericia,209000 ,12-01-1992,Auktion,128,1633,4,1916,
 607,Villa,Skærbækvej 78,7000, Fredericia,250000 ,12-01-1992,Alm. Salg,108,2315,3,1962,

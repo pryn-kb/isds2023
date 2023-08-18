@@ -1,7 +1,5 @@
 municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,type_of_sale,square_meters,square_meters_price,rooms,year_of_construction,The percentage difference between the latest bid price and the sale price
 741,Villa,Bisgård Mark 24,8305, Samsø,544000 ,19-12-2022,Fam. Salg,113,4814,4,1922,
-741,Rækkehus,Langgade 18. tv,8305, Samsø,2300000 ,18-12-2022,Andet,41,56098,1,1920,
-741,Ejerlejlighed,"Langgade 18, 1",8305, Samsø,2300000 ,18-12-2022,Andet,70,32857,3,1877,
 741,Villa,Kolby Hovedgade 22,8305, Samsø,110000 ,15-12-2022,Alm. Salg,106,1038,5,1877,
 741,Villa,Marsk Stigs Vej 11,8305, Samsø,1000000 ,14-12-2022,Alm. Salg,109,9174,5,1924,-9%
 741,Villa,Besser Smedegade 3,8305, Samsø,280000 ,13-12-2022,Andet,127,2205,5,1870,
@@ -17,8 +15,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 741,Villa,Jakob M. Hansens Vej 5,8305, Samsø,500000 ,31-10-2022,Fam. Salg,125,4000,4,2009,
 741,Rækkehus,Vrangstrup 5,8305, Samsø,525000 ,30-10-2022,Alm. Salg,113,4646,3,1777,-12%
 741,Villa,Kærbakken 17,8305, Samsø,503000 ,24-10-2022,Alm. Salg,85,5918,4,1925,
-741,Rækkehus,Langgade 18. tv,8305, Samsø,2300000 ,20-10-2022,Andet,41,56098,1,1920,
-741,Ejerlejlighed,"Langgade 18, 1",8305, Samsø,2300000 ,20-10-2022,Andet,70,32857,3,1877,
 741,Villa,Hellemosevej 2,8305, Samsø,2500000 ,12-10-2022,Alm. Salg,152,16447,6,1919,-17%
 741,Villa,Østerløkkevej 51,8305, Samsø,2025000 ,11-10-2022,Alm. Salg,170,11912,6,1880,-6%
 741,Villa,Høneballevej 15,8305, Samsø,1975000 ,06-10-2022,Alm. Salg,157,12580,6,1870,-4%
@@ -46,14 +42,12 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 741,Villa,Strandbakkevej 9,8305, Samsø,1500000 ,06-07-2022,Alm. Salg,188,7979,6,1907,
 741,Villa,Nylandsvej 4,8305, Samsø,2800000 ,04-07-2022,Alm. Salg,72,38889,3,1955,
 741,Villa,Bakken 14,8305, Samsø,2485000 ,03-07-2022,Alm. Salg,130,19115,4,2004,
-741,Rækkehus,Nordby Hovedgade 13B,8305, Samsø,2602000 ,30-06-2022,Alm. Salg,110,23655,4,1957,
 741,Villa,Mågevej 3,8305, Samsø,1975000 ,24-06-2022,Alm. Salg,194,10180,4,1938,-18%
 741,Villa,Kærvej 36,8305, Samsø,1495000 ,19-06-2022,Alm. Salg,116,12888,5,1917,
 741,Villa,Kolby Hovedgade 53,8305, Samsø,1160000 ,17-06-2022,Alm. Salg,158,7342,4,1870,-3%
 741,Villa,Søndenbysvej 8,8305, Samsø,544000 ,16-06-2022,Alm. Salg,92,5913,4,1973,
 741,Villa,Brundby Hovedgade 46,8305, Samsø,1545000 ,15-06-2022,Alm. Salg,185,8351,8,1850,
 741,Villa,Maarup Skolegyde 13,8305, Samsø,1900000 ,15-06-2022,Alm. Salg,163,11656,6,1979,
-741,Villa,Stauns 10D,8305, Samsø,446250 ,12-06-2022,Fam. Salg,70,6375,1,1954,
 741,Villa,Slagterivej 33,8305, Samsø,2500000 ,08-06-2022,Alm. Salg,92,27174,5,1952,
 741,Villa,Granbakken 15,8305, Samsø,612500 ,01-06-2022,Alm. Salg,193,3174,6,1980,
 741,Villa,Østerløkkevej 55,8305, Samsø,1725000 ,01-06-2022,Alm. Salg,136,12684,6,1877,6%
@@ -387,8 +381,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 741,Villa,Søndergade 16,8305, Samsø,515000 ,28-04-2020,Alm. Salg,158,3259,3,1877,-6%
 741,Villa,Ørby Hovedgade 22,8305, Samsø,220000 ,23-04-2020,Alm. Salg,95,2316,3,1934,
 741,Villa,Søholmvej 10,8305, Samsø,745000 ,22-04-2020,Alm. Salg,91,8187,4,1964,
-741,Rækkehus,Stauns 2A,8305, Samsø,712000 ,21-04-2020,Fam. Salg,35,20343,2,1910,
-741,Villa,Stauns 2,8305, Samsø,712000 ,21-04-2020,Fam. Salg,170,4188,5,1910,
 741,Villa,Torupdal 10,8305, Samsø,400000 ,20-04-2020,Alm. Salg,178,2247,4,1903,-60%
 741,Villa,Drachmannsvej 15D,8305, Samsø,1000000 ,19-04-2020,Alm. Salg,142,7042,5,2021,
 741,Villa,Trekanten 12,8305, Samsø,695000 ,06-04-2020,Alm. Salg,152,4572,5,1877,
@@ -517,7 +509,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 741,Villa,Vinkelvej 11,8305, Samsø,1430000 ,08-03-2019,Alm. Salg,88,16250,3,1961,
 741,Villa,Brundbyvej 3,8305, Samsø,1250000 ,07-03-2019,Alm. Salg,178,7022,6,1900,-3%
 741,Villa,Egevej 1,8305, Samsø,995000 ,02-03-2019,Alm. Salg,134,7425,5,1831,
-741,Ejerlejlighed,"Maarup Hovedgade 15B, 1. tv",8305, Samsø,3325000 ,28-02-2019,Andet,82,40549,3,1954,
 741,Villa,Østergade 7,8305, Samsø,100000 ,27-02-2019,Andet,114,877,4,1935,
 741,Villa,Vestervang 1,8305, Samsø,775000 ,25-02-2019,Alm. Salg,147,5272,5,1974,
 741,Villa,Søndergade 2,8305, Samsø,360000 ,19-02-2019,Alm. Salg,80,4500,3,1893,-15%
@@ -538,7 +529,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 741,Villa,Præstegårdsvej 9,8305, Samsø,525000 ,20-12-2018,Alm. Salg,80,6563,4,1953,-9%
 741,Villa,Langgade 10,8305, Samsø,625000 ,20-12-2018,Andet,68,5208,5,1898,
 741,Villa,Plantagevej 56B,8305, Samsø,1900000 ,18-12-2018,Fam. Salg,121,15702,4,1928,
-741,Rækkehus,Nordby Hovedgade 13B,8305, Samsø,2300000 ,17-12-2018,Alm. Salg,110,20909,4,1957,
 741,Villa,Brundbyvej 3,8305, Samsø,1050000 ,17-12-2018,Alm. Salg,178,5899,6,1900,-19%
 741,Villa,Byvejen 27,8305, Samsø,815000 ,17-12-2018,Alm. Salg,128,6367,4,1938,
 741,Villa,Kaasen 67,8305, Samsø,435000 ,14-12-2018,Fam. Salg,170,2559,5,1895,
@@ -577,7 +567,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 741,Villa,Stensbjergvej 4,8305, Samsø,1000000 ,19-08-2018,Alm. Salg,114,8772,5,1876,
 741,Villa,Smedegade 8,8305, Samsø,800000 ,13-08-2018,Auktion,110,7273,4,1935,
 741,Villa,Maarup Skolegyde 2,8305, Samsø,1195000 ,05-08-2018,Alm. Salg,129,9264,5,1876,
-741,Villa,Langgade 4C,8305, Samsø,956250 ,25-07-2018,Fam. Salg,86,11119,3,2016,
 741,Villa,Krogen 6,8305, Samsø,374000 ,24-07-2018,Fam. Salg,93,4022,5,1880,
 741,Villa,Holms Bakke 18,8305, Samsø,2500000 ,19-07-2018,Alm. Salg,158,15823,5,2008,
 741,Villa,Havvejen 138,8305, Samsø,995000 ,10-07-2018,Alm. Salg,94,10585,5,1949,
@@ -686,8 +675,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 741,Villa,Vestervang 13,8305, Samsø,1045000 ,21-07-2017,Alm. Salg,191,5471,6,1977,-5%
 741,Villa,Landevejen 24,8305, Samsø,645000 ,20-07-2017,Alm. Salg,207,3116,5,1888,
 741,Villa,Kolby Hovedgade 13,8305, Samsø,695000 ,20-07-2017,Alm. Salg,92,7554,4,1862,
-741,Ejerlejlighed,"Molboens Bakke 2, 1",8305, Samsø,1925000 ,19-07-2017,Alm. Salg,50,38500,1,1947,
-741,Villa,Nordby Hovedgade 15,8305, Samsø,1925000 ,19-07-2017,Alm. Salg,178,10815,9,1928,
 741,Villa,Besser Hovedgade 26,8305, Samsø,375000 ,10-07-2017,Alm. Salg,78,4808,3,1800,
 741,Villa,Brundby Hovedgade 24,8305, Samsø,2750000 ,10-07-2017,Alm. Salg,303,9076,10,1950,-5%
 741,Rækkehus,Strandvejen 68,8305, Samsø,612000 ,06-07-2017,Fam. Salg,146,4192,4,1907,
@@ -696,7 +683,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 741,Villa,Præstemarksvej 7,8305, Samsø,260000 ,05-07-2017,Fam. Salg,126,2063,4,1959,
 741,Villa,Østervangen 26,8305, Samsø,625000 ,04-07-2017,Alm. Salg,159,3931,6,1888,
 741,Villa,Brundbyvej 3,8305, Samsø,1050000 ,02-07-2017,Alm. Salg,178,5899,6,1900,
-741,Rækkehus,Smedegade 38B,8305, Samsø,347000 ,26-06-2017,Auktion,23,15087,2,1946,
 741,Villa,Bisgård Mark 14,8305, Samsø,500000 ,26-06-2017,Alm. Salg,108,4630,3,1922,
 741,Villa,Maarup Havn 9,8305, Samsø,1105000 ,22-06-2017,Fam. Salg,147,7517,5,1903,
 741,Villa,Holmevej 7,8305, Samsø,500000 ,19-06-2017,Auktion,223,2242,3,2023,
@@ -801,12 +787,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 741,Villa,Ringvejen 1,8305, Samsø,1600000 ,06-06-2016,Alm. Salg,190,8421,5,1777,-5%
 741,Villa,Marsk Stigs Vej 22,8305, Samsø,38270 ,05-06-2016,Alm. Salg,144,266,5,1904,
 741,Villa,Nylandsvej 13,8305, Samsø,1000000 ,02-06-2016,Alm. Salg,123,8130,5,2017,
-741,Ejerlejlighed,"Maarup Hovedgade 15B, 1. tv",8305, Samsø,105000 ,27-05-2016,Fam. Salg,82,1280,3,1954,
 741,Villa,Nordre Møllevej 3,8305, Samsø,770000 ,26-05-2016,Alm. Salg,70,11000,3,1960,-3%
 741,Ejerlejlighed,"Havnevej 4A, 2. th",8305, Samsø,450500 ,24-05-2016,Fam. Salg,50,9010,2,1922,
 741,Ejerlejlighed,"Havnevej 4B, st. tv",8305, Samsø,550000 ,23-05-2016,Alm. Salg,36,15278,1,1922,-4%
-741,Rækkehus,Langdalen 6A,8305, Samsø,1525000 ,15-05-2016,Alm. Salg,171,5888,5,1897,-16%
-741,Villa,Langdalen 6,8305, Samsø,1525000 ,15-05-2016,Alm. Salg,110,13864,5,1897,-16%
 741,Villa,Brundby Hovedgade 50A,8305, Samsø,600000 ,14-05-2016,Alm. Salg,67,8955,3,1953,-4%
 741,Villa,Besser Smedegade 10,8305, Samsø,1925000 ,08-05-2016,Alm. Salg,118,16314,4,2007,
 741,Villa,Skrænten 1,8305, Samsø,500000 ,04-05-2016,Alm. Salg,116,4310,4,1973,-8%
@@ -977,8 +960,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 741,Villa,Sygehusvej 4,8305, Samsø,412500 ,15-06-2014,Alm. Salg,182,2266,7,1942,-13%
 741,Villa,Vestervang 4,8305, Samsø,900000 ,15-06-2014,Alm. Salg,260,3462,6,1978,-5%
 741,Villa,Besser Smedegade 3,8305, Samsø,600000 ,10-06-2014,Alm. Salg,127,4724,5,1870,-14%
-741,Ejerlejlighed,"Krogen 2, 1",8305, Samsø,600000 ,09-06-2014,Auktion,72,8333,2,1947,
-741,Villa,Krogen 2,8305, Samsø,600000 ,09-06-2014,Auktion,112,5357,4,1887,
 741,Villa,Møllegaardsvej 4,8305, Samsø,745000 ,03-06-2014,Alm. Salg,177,4209,6,1975,
 741,Villa,Landevejen 12,8305, Samsø,50000 ,02-06-2014,Alm. Salg,136,368,6,1928,
 741,Villa,Landevejen 4,8305, Samsø,900000 ,20-05-2014,Alm. Salg,207,4348,7,1849,-44%
@@ -1024,21 +1005,11 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 741,Villa,Søndergade 8,8305, Samsø,275000 ,18-10-2013,Alm. Salg,93,2957,4,1890,-27%
 741,Villa,Kolby Hovedgade 17,8305, Samsø,650000 ,12-10-2013,Alm. Salg,198,3283,5,1848,-24%
 741,Villa,Hosebåndet 1,8305, Samsø,775000 ,01-10-2013,Alm. Salg,134,5784,4,1967,
-741,Ejerlejlighed,Skolebakken 10,8305, Samsø,1803911 ,30-09-2013,Auktion,967,1720,35,1958,
 741,Villa,Skolegade 3,8305, Samsø,2025000 ,25-09-2013,Fam. Salg,104,19471,6,1777,
 741,Villa,Issehoved 18,8305, Samsø,500000 ,23-09-2013,Alm. Salg,120,4167,2,2017,
 741,Villa,Issehoved 20,8305, Samsø,900000 ,23-09-2013,Alm. Salg,145,6207,5,1952,
 741,Villa,Havvejen 60,8305, Samsø,450000 ,18-09-2013,Alm. Salg,120,3750,4,1942,
 741,Villa,Drachmannsvej 18,8305, Samsø,375000 ,17-09-2013,Alm. Salg,92,4076,4,2014,
-741,Ejerlejlighed,"Marsk Stigs Vej 2, st. 1",8305, Samsø,702422 ,16-09-2013,Auktion,55,12771,2,1887,1%
-741,Ejerlejlighed,"Marsk Stigs Vej 2, st. 2",8305, Samsø,702422 ,16-09-2013,Auktion,45,15609,2,1887,1%
-741,Ejerlejlighed,"Marsk Stigs Vej 2, st. 4",8305, Samsø,702422 ,16-09-2013,Auktion,35,20069,1,1887,1%
-741,Ejerlejlighed,"Marsk Stigs Vej 2, st. 3",8305, Samsø,702422 ,16-09-2013,Auktion,54,13008,3,1887,1%
-741,Ejerlejlighed,"Marsk Stigs Vej 2, 1. th",8305, Samsø,702422 ,16-09-2013,Auktion,29,24221,1,1887,1%
-741,Ejerlejlighed,"Marsk Stigs Vej 2, 1. tv",8305, Samsø,702422 ,16-09-2013,Auktion,29,24221,1,1887,1%
-741,Ejerlejlighed,Sygehusvej 9,8305, Samsø,702422 ,16-09-2013,Auktion,116,6055,4,1984,-26%
-741,Ejerlejlighed,"Møllebakkevej 9, st",8305, Samsø,702422 ,16-09-2013,Auktion,45,15609,2,1984,-26%
-741,Ejerlejlighed,"Møllebakkevej 9, 1",8305, Samsø,702422 ,16-09-2013,Auktion,56,12543,2,1984,-26%
 741,Villa,Onsbjerg Hovedgade 14,8305, Samsø,550000 ,15-09-2013,Alm. Salg,88,6250,4,1959,-21%
 741,Villa,Besser Hovedgade 19,8305, Samsø,500000 ,15-09-2013,Alm. Salg,282,1773,8,1916,-14%
 741,Villa,Vinkelvej 7,8305, Samsø,650000 ,11-09-2013,Alm. Salg,98,6633,3,1935,-10%
@@ -1401,7 +1372,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 741,Villa,Skolevænget 44,8305, Samsø,1700000 ,19-10-2008,Alm. Salg,162,10494,5,1976,
 741,Villa,Havvejen 146,8305, Samsø,1450000 ,28-09-2008,Alm. Salg,172,8430,5,1947,-12%
 741,Villa,Tværvej 19,8305, Samsø,450000 ,28-09-2008,Alm. Salg,60,7500,4,1730,-24%
-741,Villa,Besser Hovedgade 9,8305, Samsø,800000 ,28-09-2008,Andet,117,6838,4,1938,-50%
 741,Villa,Møllebakkevej 12,8305, Samsø,376000 ,27-09-2008,Alm. Salg,119,3160,6,1895,
 741,Villa,Kærvej 13,8305, Samsø,2200000 ,25-09-2008,Alm. Salg,107,20561,2,1877,
 741,Villa,Ballenvej 21,8305, Samsø,680000 ,17-09-2008,Alm. Salg,137,4964,4,1910,
@@ -1657,7 +1627,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 741,Villa,Eskevej 3,8305, Samsø,1350000 ,02-10-2006,Alm. Salg,160,8438,6,1887,
 741,Villa,Eskevej 1,8305, Samsø,1085000 ,01-10-2006,Alm. Salg,92,11793,2,1937,
 741,Villa,Tanderup Hovedgade 21,8305, Samsø,980000 ,27-09-2006,Alm. Salg,100,9800,3,1870,
-741,Villa,Langgade 24B,8305, Samsø,3900000 ,21-09-2006,Alm. Salg,103,32231,3,1900,
 741,Villa,Bakken 2,8305, Samsø,200000 ,20-09-2006,Alm. Salg,180,1111,6,2008,
 741,Villa,Sygehusvej 12,8305, Samsø,1127500 ,18-09-2006,Alm. Salg,148,7618,5,1915,
 741,Villa,Brundby Hovedgade 54,8305, Samsø,975000 ,17-09-2006,Alm. Salg,90,10833,4,1892,
@@ -1760,9 +1729,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 741,Villa,Besser Smedegade 10,8305, Samsø,24000 ,01-02-2006,Alm. Salg,118,203,4,2007,
 741,Villa,Ørby Hovedgade 40,8305, Samsø,760000 ,31-01-2006,Alm. Salg,103,7379,5,1877,
 741,Villa,Nylandsvej 8,8305, Samsø,1000000 ,29-01-2006,Alm. Salg,124,8065,5,1932,
-741,Ejerlejlighed,"Molboens Bakke 2, 1",8305, Samsø,1375000 ,22-01-2006,Alm. Salg,50,27500,1,1947,
 741,Villa,Ørby Hovedgade 24,8305, Samsø,215000 ,22-01-2006,Alm. Salg,84,2560,3,1900,
-741,Villa,Nordby Hovedgade 15,8305, Samsø,1375000 ,22-01-2006,Alm. Salg,178,7725,9,1928,
 741,Villa,Højvangsvej 25,8305, Samsø,545555 ,21-01-2006,Alm. Salg,285,1837,9,1911,
 741,Ejerlejlighed,Slagterivej 7C,8305, Samsø,1496985 ,18-01-2006,Alm. Salg,81,18481,4,1934,
 741,Villa,Landevejen 40,8305, Samsø,1325000 ,16-01-2006,Alm. Salg,168,7887,5,1956,
@@ -1816,8 +1783,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 741,Villa,Lerbakkevej 5,8305, Samsø,1150000 ,26-09-2005,Alm. Salg,142,8099,5,1955,
 741,Villa,Engen 6,8305, Samsø,1510000 ,25-09-2005,Alm. Salg,144,10486,5,2005,
 741,Villa,Furden 14,8305, Samsø,775000 ,19-09-2005,Alm. Salg,218,3555,6,1970,
-741,Rækkehus,Langdalen 6A,8305, Samsø,850000 ,14-09-2005,Alm. Salg,171,3282,5,1897,
-741,Villa,Langdalen 6,8305, Samsø,850000 ,14-09-2005,Alm. Salg,110,7727,5,1897,
 741,Villa,Ballenvej 28A,8305, Samsø,130000 ,13-09-2005,Alm. Salg,141,922,5,2006,
 741,Villa,Kolby Hovedgade 53,8305, Samsø,550000 ,04-09-2005,Alm. Salg,158,3481,4,1870,
 741,Villa,Ørby Hovedgade 64,8305, Samsø,380000 ,01-09-2005,Alm. Salg,66,5758,3,1877,
@@ -1935,7 +1900,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 741,Villa,Bakken 6,8305, Samsø,112500 ,02-01-2005,Alm. Salg,149,755,4,2008,
 741,Villa,Issehoved 21,8305, Samsø,570625 ,01-01-2005,Alm. Salg,202,2825,4,1900,
 741,Villa,Bøgevej 30,8305, Samsø,100000 ,31-12-2004,Fam. Salg,130,769,6,1850,
-741,Villa,Langgade 4C,8305, Samsø,260000 ,30-12-2004,Alm. Salg,86,3023,3,2016,
 741,Villa,Højvangsvej 2,8305, Samsø,695000 ,27-12-2004,Alm. Salg,131,5305,5,1934,
 741,Villa,Langemarksvej 10,8305, Samsø,600000 ,21-12-2004,Fam. Salg,103,5825,4,1900,
 741,Villa,Nordby Skolegyde 3,8305, Samsø,610000 ,21-12-2004,Alm. Salg,196,3112,7,1902,
@@ -1943,7 +1907,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 741,Villa,Kolby Hovedgade 51,8305, Samsø,380000 ,18-12-2004,Alm. Salg,100,3800,6,1910,
 741,Villa,Søndergade 28,8305, Samsø,283876 ,15-12-2004,Alm. Salg,131,2167,5,1937,
 741,Villa,Østerløkkevej 3,8305, Samsø,600000 ,15-12-2004,Alm. Salg,150,4000,6,1977,
-741,Rækkehus,Smedegade 38B,8305, Samsø,840000 ,09-12-2004,Alm. Salg,23,36522,2,1946,
 741,Villa,Skrænten 11,8305, Samsø,975000 ,09-12-2004,Alm. Salg,108,9028,5,1985,
 741,Rækkehus,Langgade 6A,8305, Samsø,1970000 ,05-12-2004,Alm. Salg,196,10051,5,1885,
 741,Villa,Maarup Hovedgade 29,8305, Samsø,307000 ,05-12-2004,Andet,149,2060,6,1948,
@@ -1995,7 +1958,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 741,Villa,Nordby Hovedgade 1,8305, Samsø,395000 ,25-07-2004,Fam. Salg,128,3086,4,1855,
 741,Villa,Sælvig 38,8305, Samsø,475000 ,25-07-2004,Alm. Salg,128,3711,5,1912,
 741,Villa,Bakken 13,8305, Samsø,733312 ,25-07-2004,Andet,131,5598,5,2001,
-741,Rækkehus,Besservej 3B,8305, Samsø,1050000 ,18-07-2004,Alm. Salg,65,16154,4,1931,
 741,Ejerlejlighed,"Havnevej 4B, 2. th",8305, Samsø,217800 ,17-07-2004,Fam. Salg,50,4356,2,1922,
 741,Ejerlejlighed,"Havnevej 4B, st. th",8305, Samsø,515000 ,14-07-2004,Alm. Salg,37,13919,1,1922,
 741,Villa,Tværvej 24,8305, Samsø,504000 ,14-07-2004,Alm. Salg,72,7000,3,1860,
@@ -2045,7 +2007,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 741,Villa,Kolby Hovedgade 54,8305, Samsø,703000 ,01-03-2004,Alm. Salg,110,6391,3,1979,
 741,Villa,Kaasen 14,8305, Samsø,625000 ,29-02-2004,Alm. Salg,147,4252,5,1907,
 741,Villa,Skrænten 19,8305, Samsø,825000 ,26-02-2004,Alm. Salg,108,7639,4,1996,
-741,Ejerlejlighed,"Maarup Hovedgade 15B, 1. tv",8305, Samsø,1215032 ,21-02-2004,Alm. Salg,82,14817,3,1954,
 741,Villa,Tingvej 4,8305, Samsø,785000 ,18-02-2004,Alm. Salg,183,4290,6,1877,
 741,Villa,Sygehusvej 18,8305, Samsø,700000 ,16-02-2004,Alm. Salg,166,4217,5,1956,
 741,Villa,Søholmvej 8,8305, Samsø,1075000 ,15-02-2004,Alm. Salg,310,3468,10,1863,
@@ -2118,7 +2079,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 741,Villa,Højvangsvej 23,8305, Samsø,350000 ,22-08-2003,Alm. Salg,131,2672,5,1911,
 741,Villa,Kalkhavesvej 3,8305, Samsø,1350000 ,20-08-2003,Alm. Salg,91,14835,4,1877,
 741,Villa,Skolegade 11A,8305, Samsø,400357 ,19-08-2003,Alm. Salg,127,3152,4,1860,
-741,Villa,Stauns 10D,8305, Samsø,525000 ,18-08-2003,Alm. Salg,70,7500,1,1954,
 741,Villa,Skægsholm 13,8305, Samsø,849000 ,17-08-2003,Alm. Salg,198,4288,10,1908,
 741,Villa,Brundby Hovedgade 98,8305, Samsø,935000 ,17-08-2003,Alm. Salg,194,4820,6,1901,
 741,Villa,Sønderstræde 13,8305, Samsø,509000 ,17-08-2003,Fam. Salg,167,3048,4,1827,
@@ -2161,8 +2121,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 741,Villa,Dalen 6,8305, Samsø,850000 ,27-05-2003,Alm. Salg,142,5986,5,1971,
 741,Villa,Vestre Ringvej 12,8305, Samsø,620000 ,25-05-2003,Fam. Salg,148,4189,7,1965,
 741,Villa,Søndergade 28,8305, Samsø,425000 ,20-05-2003,Alm. Salg,131,3244,5,1937,
-741,Ejerlejlighed,"Molboens Bakke 2, 1",8305, Samsø,1250000 ,19-05-2003,Alm. Salg,50,25000,1,1947,
-741,Villa,Nordby Hovedgade 15,8305, Samsø,1250000 ,19-05-2003,Alm. Salg,178,7022,9,1928,
 741,Ejerlejlighed,"Havnevej 4A, 1. tv",8305, Samsø,430000 ,18-05-2003,Alm. Salg,38,11316,1,1922,
 741,Villa,Søndenbysvej 10,8305, Samsø,342500 ,18-05-2003,Alm. Salg,78,4391,4,1777,
 741,Villa,Snorgyden 6,8305, Samsø,650000 ,18-05-2003,Fam. Salg,143,4545,4,1871,
@@ -2428,8 +2386,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 741,Villa,Nordby Hovedgade 5,8305, Samsø,735000 ,26-02-2001,Alm. Salg,181,4061,5,1976,
 741,Villa,Kassundet 8,8305, Samsø,198376 ,22-02-2001,Fam. Salg,110,1803,5,1864,
 741,Villa,Præstegyden 2,8305, Samsø,310000 ,19-02-2001,Fam. Salg,111,2793,5,1777,
-741,Ejerlejlighed,"Høtoftevej 5, 1. th",8305, Samsø,820000 ,18-02-2001,Alm. Salg,53,15472,2,1976,
-741,Villa,Høtoftevej 5,8305, Samsø,820000 ,18-02-2001,Alm. Salg,104,7885,4,1976,
 741,Villa,Brundbyvej 20,8305, Samsø,700000 ,17-02-2001,Alm. Salg,162,4321,6,1877,
 741,Villa,Østervangen 20,8305, Samsø,234000 ,14-02-2001,Alm. Salg,73,3205,4,1897,
 741,Villa,Frederiksberg 7,8305, Samsø,872000 ,25-01-2001,Alm. Salg,128,6813,5,1975,
@@ -2534,16 +2490,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 741,Villa,Ørby Hovedgade 3,8305, Samsø,241959 ,21-05-2000,Alm. Salg,110,2200,4,1801,
 741,Villa,Østervej 24,8305, Samsø,80000 ,16-05-2000,Alm. Salg,127,630,5,1922,
 741,Villa,Landevejen 7,8305, Samsø,1330000 ,14-05-2000,Alm. Salg,235,5660,5,1894,
-741,Rækkehus,Stauns 2A,8305, Samsø,220000 ,07-05-2000,Alm. Salg,35,6286,2,1910,
-741,Villa,Stauns 2,8305, Samsø,220000 ,07-05-2000,Alm. Salg,170,1294,5,1910,
 741,Villa,Vadstrup 9,8305, Samsø,450000 ,03-05-2000,Alm. Salg,122,3689,5,1922,
 741,Villa,Teglværksvej 16,8305, Samsø,810000 ,03-05-2000,Alm. Salg,140,5786,5,1992,
 741,Villa,Højvangsvej 19,8305, Samsø,1025000 ,01-05-2000,Alm. Salg,186,5511,8,1886,
-741,Rækkehus,Stauns 2A,8305, Samsø,125000 ,25-04-2000,Alm. Salg,35,3571,2,1910,
-741,Villa,Stauns 2,8305, Samsø,125000 ,25-04-2000,Alm. Salg,170,735,5,1910,
 741,Villa,Nylandsvej 5,8305, Samsø,153000 ,24-04-2000,Alm. Salg,126,1214,4,2022,
-741,Rækkehus,Stauns 2A,8305, Samsø,569500 ,23-04-2000,Fam. Salg,35,16271,2,1910,
-741,Villa,Stauns 2,8305, Samsø,569500 ,23-04-2000,Fam. Salg,170,3350,5,1910,
 741,Villa,Bøgeshøjvej 2,8305, Samsø,3000000 ,10-04-2000,Alm. Salg,339,8850,10,1917,
 741,Villa,Maarup Hovedgade 26,8305, Samsø,475000 ,09-04-2000,Alm. Salg,146,3253,5,1954,
 741,Villa,Brundby Hovedgade 28,8305, Samsø,747000 ,09-04-2000,Alm. Salg,146,5116,5,1930,
@@ -2570,7 +2520,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 741,Villa,Østervangen 30,8305, Samsø,450533 ,28-02-2000,Fam. Salg,98,4597,4,1890,
 741,Villa,Pallegyden 1,8305, Samsø,701000 ,27-02-2000,Alm. Salg,180,3894,5,1900,
 741,Villa,Besservej 14,8305, Samsø,380000 ,27-02-2000,Alm. Salg,105,3619,3,1877,
-741,Villa,Langgade 24B,8305, Samsø,1492000 ,24-02-2000,Alm. Salg,103,12331,3,1900,
 741,Villa,Mejerivej 2,8305, Samsø,400000 ,24-02-2000,Alm. Salg,165,2424,6,1875,
 741,Villa,Østervangen 46,8305, Samsø,338000 ,23-02-2000,Alm. Salg,84,4024,3,1877,
 741,Villa,Brundby Hovedgade 24,8305, Samsø,980000 ,22-02-2000,Alm. Salg,303,3234,10,1950,
@@ -2815,10 +2764,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 741,Villa,Østerløkkevej 21,8305, Samsø,350000 ,27-03-1998,Fam. Salg,128,2734,7,1900,
 741,Villa,Tingvej 4,8305, Samsø,502038 ,23-03-1998,Alm. Salg,183,2743,6,1877,
 741,Villa,Ringvejen 11,8305, Samsø,350000 ,23-03-1998,Alm. Salg,187,1872,5,1877,
-741,Ejerlejlighed,"Høtoftevej 5, 1. th",8305, Samsø,696400 ,22-03-1998,Alm. Salg,53,13140,2,1976,
 741,Villa,Ballebjergvejen 27,8305, Samsø,1075884 ,22-03-1998,Alm. Salg,126,8539,4,1968,
 741,Villa,Brundby Hovedgade 44,8305, Samsø,766000 ,22-03-1998,Alm. Salg,259,2958,8,1903,
-741,Villa,Høtoftevej 5,8305, Samsø,696400 ,22-03-1998,Alm. Salg,104,6696,4,1976,
 741,Villa,Søndergade 6,8305, Samsø,360000 ,22-03-1998,Alm. Salg,75,4800,3,1904,
 741,Villa,Ørby Hovedgade 51,8305, Samsø,113500 ,22-03-1998,Alm. Salg,186,610,6,1860,
 741,Villa,Langemarksvej 7,8305, Samsø,265000 ,22-03-1998,Alm. Salg,98,2704,4,1890,
@@ -2828,9 +2775,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 741,Villa,Plantagevej 56B,8305, Samsø,650000 ,22-03-1998,Alm. Salg,121,5372,4,1928,
 741,Villa,Hæderlighedsgyden 2,8305, Samsø,55000 ,22-03-1998,Alm. Salg,97,567,3,1868,
 741,Villa,Skolevænget 10,8305, Samsø,900000 ,22-03-1998,Alm. Salg,161,5590,6,1977,
-741,Ejerlejlighed,Sygehusvej 9,8305, Samsø,416500 ,19-03-1998,Fam. Salg,116,3591,4,1984,
-741,Ejerlejlighed,"Møllebakkevej 9, st",8305, Samsø,416500 ,19-03-1998,Fam. Salg,45,9256,2,1984,
-741,Ejerlejlighed,"Møllebakkevej 9, 1",8305, Samsø,416500 ,19-03-1998,Fam. Salg,56,7438,2,1984,
 741,Villa,Tanderup Hovedgade 29,8305, Samsø,282061 ,17-03-1998,Alm. Salg,153,1844,5,1880,
 741,Villa,Sildeballe 12,8305, Samsø,1850000 ,15-03-1998,Alm. Salg,253,7312,11,1938,
 741,Villa,Ørby Hovedgade 8,8305, Samsø,500000 ,07-03-1998,Alm. Salg,100,5000,3,1800,
@@ -2878,7 +2822,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 741,Ejerlejlighed,"Langgade 26, 1",8305, Samsø,1875000 ,13-10-1997,Alm. Salg,122,15369,3,1927,
 741,Villa,Maren Finds Gyde 10,8305, Samsø,233184 ,09-10-1997,Fam. Salg,75,3109,4,1700,
 741,Ejerlejlighed,"Havnevej 4A, st. tv",8305, Samsø,281900 ,05-10-1997,Alm. Salg,38,7418,1,1922,
-741,Ejerlejlighed,"Krogen 2, 1",8305, Samsø,218000 ,05-10-1997,Alm. Salg,72,3028,2,1947,
 741,Villa,Tværvej 7,8305, Samsø,300000 ,05-10-1997,Alm. Salg,72,4167,4,1775,
 741,Villa,Trolleborgvej 18,8305, Samsø,564000 ,05-10-1997,Alm. Salg,196,2878,6,1931,
 741,Villa,Furden 12,8305, Samsø,440000 ,05-10-1997,Alm. Salg,109,4037,4,1940,
@@ -2888,7 +2831,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 741,Villa,Storegade 35,8305, Samsø,424400 ,05-10-1997,Alm. Salg,259,1639,7,1871,
 741,Villa,Østervangen 24,8305, Samsø,200000 ,05-10-1997,Alm. Salg,142,1408,7,1900,
 741,Villa,Toftebjerg Hovedgade 16,8305, Samsø,150000 ,05-10-1997,Alm. Salg,114,1316,5,1932,
-741,Villa,Krogen 2,8305, Samsø,218000 ,05-10-1997,Alm. Salg,112,1946,4,1887,
 741,Villa,Strandkrogen 37,8305, Samsø,850000 ,05-10-1997,Alm. Salg,197,4315,5,2016,
 741,Villa,Marsk Stigs Vej 20A,8305, Samsø,1200000 ,05-10-1997,Alm. Salg,117,10256,4,1964,
 741,Ejerlejlighed,"Holmsborg 7E, 1",8305, Samsø,444253 ,03-10-1997,Alm. Salg,52,8543,2,1901,
@@ -2970,7 +2912,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 741,Villa,Egevej 4,8305, Samsø,448000 ,24-03-1997,Alm. Salg,154,2909,6,1949,
 741,Villa,Besser Hovedgade 56,8305, Samsø,279350 ,20-03-1997,Alm. Salg,119,2347,5,1911,
 741,Villa,Svømpen 6,8305, Samsø,375960 ,19-03-1997,Alm. Salg,143,2629,4,1852,
-741,Ejerlejlighed,"Maarup Hovedgade 15B, 1. tv",8305, Samsø,1658210 ,16-03-1997,Alm. Salg,82,20222,3,1954,
 741,Villa,Kolby Hovedgade 56,8305, Samsø,131000 ,08-03-1997,Alm. Salg,72,1819,3,1877,
 741,Villa,Toftebjerg Hovedgade 26,8305, Samsø,475000 ,03-03-1997,Alm. Salg,105,4524,4,1877,
 741,Villa,Besser Hovedgade 33,8305, Samsø,25126 ,28-02-1997,Alm. Salg,250,101,7,1877,
@@ -3014,7 +2955,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 741,Villa,Langgade 34,8305, Samsø,640325 ,27-10-1996,Alm. Salg,150,4269,6,1926,
 741,Villa,Vestermarksvej 52,8305, Samsø,347500 ,27-10-1996,Fam. Salg,111,3131,5,1976,
 741,Villa,Morten Madsens Vej 32,8305, Samsø,200000 ,27-10-1996,Alm. Salg,82,2439,6,1825,
-741,Villa,Stauns 10D,8305, Samsø,200000 ,16-10-1996,Alm. Salg,70,2857,1,1954,
 741,Villa,Alstrup 9,8305, Samsø,306000 ,15-10-1996,Fam. Salg,157,1949,5,1877,
 741,Villa,Alstrupvej 2,8305, Samsø,20825 ,09-10-1996,Fam. Salg,177,118,5,2007,
 741,Rækkehus,Vestergade 17,8305, Samsø,144800 ,30-09-1996,Alm. Salg,80,1810,4,1867,
@@ -3023,7 +2963,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 741,Villa,Sygehusvej 27,8305, Samsø,445000 ,24-09-1996,Alm. Salg,140,3179,5,1920,
 741,Villa,Byvejen 11,8305, Samsø,1900000 ,03-09-1996,Alm. Salg,114,16667,3,1964,
 741,Villa,Torup Møllevej 5,8305, Samsø,80000 ,02-09-1996,Alm. Salg,92,870,3,1810,
-741,Rækkehus,Besservej 3B,8305, Samsø,373000 ,01-09-1996,Alm. Salg,65,5738,4,1931,
 741,Villa,Frederiksberg 12,8305, Samsø,556600 ,01-09-1996,Alm. Salg,152,3662,4,1908,
 741,Villa,Onsbjerg Hovedgade 30,8305, Samsø,420000 ,01-09-1996,Alm. Salg,110,3818,5,1935,
 741,Villa,Smedegade 27,8305, Samsø,622000 ,01-09-1996,Alm. Salg,140,3190,6,1949,
@@ -3158,12 +3097,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 741,Villa,Langøre 28,8305, Samsø,539000 ,08-09-1995,Alm. Salg,85,6341,4,1934,
 741,Villa,M.B. Jensens Vej 13,8305, Samsø,395000 ,05-09-1995,Alm. Salg,209,1890,8,1850,
 741,Villa,Byvejen 7,8305, Samsø,396000 ,05-09-1995,Alm. Salg,130,3046,4,1978,
-741,Ejerlejlighed,"Krogen 2, 1",8305, Samsø,210000 ,03-09-1995,Alm. Salg,72,2917,2,1947,
 741,Villa,Bøgeshøjvej 5,8305, Samsø,405000 ,03-09-1995,Alm. Salg,83,4880,4,1924,
 741,Villa,Bøgeshøjvej 13,8305, Samsø,300000 ,03-09-1995,Alm. Salg,232,1293,6,1720,
 741,Villa,Mejerivej 25,8305, Samsø,314500 ,03-09-1995,Alm. Salg,114,2759,3,1954,
 741,Villa,Vestermarksvej 57,8305, Samsø,278000 ,03-09-1995,Alm. Salg,396,702,13,1875,
-741,Villa,Krogen 2,8305, Samsø,210000 ,03-09-1995,Alm. Salg,112,1875,4,1887,
 741,Villa,Kærbakken 11,8305, Samsø,200000 ,03-09-1995,Alm. Salg,160,1250,4,1877,
 741,Ejerlejlighed,"Havnevej 4C, 2. th",8305, Samsø,400000 ,30-08-1995,Alm. Salg,92,4348,2,1922,
 741,Villa,Aavej 20,8305, Samsø,380671 ,29-08-1995,Alm. Salg,140,2719,4,1926,
@@ -3224,7 +3161,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 741,Villa,Teglværksvej 20,8305, Samsø,510000 ,20-03-1995,Alm. Salg,159,3208,7,1977,
 741,Villa,Besser Hovedgade 6,8305, Samsø,395000 ,16-03-1995,Alm. Salg,204,1936,6,1920,
 741,Villa,Vestergade 27,8305, Samsø,227204 ,15-03-1995,Fam. Salg,140,1623,6,1868,
-741,Villa,Langgade 4C,8305, Samsø,611762 ,12-03-1995,Alm. Salg,86,7114,3,2016,
 741,Villa,Vrangstrup 16,8305, Samsø,441175 ,07-03-1995,Alm. Salg,296,1490,9,1892,
 741,Villa,Stadionsvej 6,8305, Samsø,400000 ,02-03-1995,Alm. Salg,104,3306,5,1973,
 741,Villa,Kaasen 32,8305, Samsø,460000 ,20-02-1995,Alm. Salg,93,4946,5,1910,
@@ -3311,7 +3247,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 741,Villa,Vesterløkken 14,8305, Samsø,392000 ,01-07-1994,Alm. Salg,106,3698,3,1852,
 741,Villa,Molboens Bakke 8,8305, Samsø,570000 ,28-06-1994,Fam. Salg,197,2893,6,1981,
 741,Rækkehus,Østervangen 40,8305, Samsø,235000 ,26-06-1994,Alm. Salg,96,2448,3,1857,
-741,Ejerlejlighed,Tanderupvej 5,8305, Samsø,300570 ,26-06-1994,Alm. Salg,60,5010,3,1918,
 741,Villa,Brundby Hovedgade 43,8305, Samsø,200000 ,26-06-1994,Alm. Salg,291,687,4,1910,
 741,Villa,Ballenvej 27,8305, Samsø,275000 ,26-06-1994,Alm. Salg,191,1440,8,1915,
 741,Villa,Ørby Hovedgade 9,8305, Samsø,195000 ,26-06-1994,Alm. Salg,149,1309,5,1877,
@@ -3320,7 +3255,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 741,Villa,Sælvig 50,8305, Samsø,915857 ,26-06-1994,Alm. Salg,278,3294,7,1978,
 741,Villa,Maren Finds Gyde 2,8305, Samsø,279670 ,26-06-1994,Alm. Salg,97,2883,3,1802,
 741,Villa,Torupdal 2,8305, Samsø,410000 ,26-06-1994,Alm. Salg,171,2398,7,1936,
-741,Villa,Tanderupvej 5,8305, Samsø,300570 ,26-06-1994,Alm. Salg,248,1212,7,1918,
 741,Villa,Krogen 9,8305, Samsø,295000 ,06-06-1994,Alm. Salg,110,2682,4,1890,
 741,Villa,Langemarksvej 10,8305, Samsø,83000 ,02-06-1994,Alm. Salg,103,806,4,1900,
 741,Villa,Vestergyde 3,8305, Samsø,187000 ,31-05-1994,Fam. Salg,289,647,11,1700,
@@ -3420,7 +3354,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 741,Villa,Vestermarksvej 30,8305, Samsø,164734 ,08-08-1993,Alm. Salg,255,646,6,1932,
 741,Villa,Kolby Hovedgade 31,8305, Samsø,354000 ,05-08-1993,Alm. Salg,141,2511,7,1870,
 741,Ejerlejlighed,Strandvejen 12,8305, Samsø,1104670 ,04-08-1993,Alm. Salg,150,3682,6,1900,
-741,Rækkehus,Smedegade 38B,8305, Samsø,250000 ,01-08-1993,Alm. Salg,23,10870,2,1946,
 741,Villa,Slagterivej 8,8305, Samsø,255000 ,25-07-1993,Fam. Salg,183,1393,6,1934,
 741,Villa,Besser Hovedgade 35,8305, Samsø,252000 ,25-07-1993,Fam. Salg,191,1319,6,1938,
 741,Villa,Byvejen 4A,8305, Samsø,350000 ,25-07-1993,Alm. Salg,130,2692,3,1968,

@@ -438,8 +438,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 201,Rækkehus,Gartnervænget 1,3450, Allerød,4295000 ,12-07-2021,Alm. Salg,110,39045,3,2016,
 201,Villa,"Birkevej 5, st",3450, Allerød,2210000 ,08-07-2021,Fam. Salg,144,15347,4,1934,
 201,Villa,Platanhaven 21,3450, Allerød,5025000 ,08-07-2021,Alm. Salg,169,29734,6,1974,-4%
-201,Rækkehus,Frugtlunden 52,3450, Allerød,4350000 ,07-07-2021,Alm. Salg,108,40278,3,2018,
-201,Villa,Poppelvej 3,3450, Allerød,4350000 ,07-07-2021,Alm. Salg,184,23641,6,2022,
 201,Ejerlejlighed,"Rådhusparken 1, 3. th",3450, Allerød,4300000 ,04-07-2021,Alm. Salg,106,40566,4,2017,-4%
 201,Rækkehus,Drabæk Huse 26,3450, Allerød,4650000 ,01-07-2021,Alm. Salg,150,31000,5,2018,
 201,Villa,Berberishaven 4,3450, Allerød,4995000 ,01-07-2021,Alm. Salg,140,35679,5,1968,
@@ -848,8 +846,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 201,Villa,Skyttevej 1,3450, Allerød,4545000 ,03-10-2020,Alm. Salg,189,24048,5,1975,
 201,Villa,Enhøjsvej 29,3450, Allerød,3125000 ,03-10-2020,Alm. Salg,236,13242,8,2022,-5%
 201,Villa,Enhøjsvej 35,3450, Allerød,5495000 ,03-10-2020,Alm. Salg,160,34344,5,2011,-2%
-201,Rækkehus,Skyttevangen 40,3450, Allerød,3200000 ,01-10-2020,Alm. Salg,124,25806,4,1988,-3%
-201,Villa,Gravenstensvej 19,3450, Allerød,3200000 ,01-10-2020,Alm. Salg,175,18286,4,2022,-1%
 201,Villa,Høveltsvangsvej 55,3450, Allerød,4785000 ,30-09-2020,Alm. Salg,201,23806,6,1961,-3%
 201,Rækkehus,Søvangen 4,3450, Allerød,2525000 ,29-09-2020,Alm. Salg,89,28371,4,1988,-2%
 201,Ejerlejlighed,"Ørnevang 12, st. tv",3450, Allerød,1515000 ,29-09-2020,Alm. Salg,80,18938,3,1965,
@@ -2420,15 +2416,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 201,Rækkehus,Sjælsøparken 8,3450, Allerød,2995000 ,11-03-2017,Alm. Salg,127,23583,4,1967,
 201,Villa,Grønningen 28,3450, Allerød,2195000 ,11-03-2017,Alm. Salg,185,11865,6,2019,
 201,Rækkehus,Møllemoseparken 138,3450, Allerød,3495000 ,08-03-2017,Alm. Salg,134,26082,4,2014,
-201,Ejerlejlighed,"Stationspassagen 4, st. th",3450, Allerød,17250000 ,08-03-2017,Alm. Salg,52,331731,2,1969,
-201,Ejerlejlighed,"Stationspassagen 4, st. tv",3450, Allerød,17250000 ,08-03-2017,Alm. Salg,77,224026,3,1969,
-201,Ejerlejlighed,"M D Madsensvej 5A, 1",3450, Allerød,17250000 ,08-03-2017,Alm. Salg,83,207831,2,1963,
-201,Ejerlejlighed,"M D Madsensvej 5A, 2",3450, Allerød,17250000 ,08-03-2017,Alm. Salg,178,96910,5,1963,
 201,Ejerlejlighed,"Ørnevang 24, 2. tv",3450, Allerød,1495000 ,08-03-2017,Alm. Salg,92,16250,3,1965,
-201,Ejerlejlighed,"Stationspassagen 4, 1. tv",3450, Allerød,17250000 ,08-03-2017,Alm. Salg,96,179688,3,1969,
-201,Ejerlejlighed,"M D Madsensvej 5C, 1. tv",3450, Allerød,17250000 ,08-03-2017,Alm. Salg,95,181579,4,1963,
 201,Ejerlejlighed,"Rådhusparken 2, st. th",3450, Allerød,2900000 ,08-03-2017,Alm. Salg,136,21324,4,2017,0%
-201,Ejerlejlighed,"Stationspassagen 4, 1. th",3450, Allerød,17250000 ,08-03-2017,Alm. Salg,96,179688,3,1969,
 201,Villa,Kratbjergvej 5,3450, Allerød,4050000 ,06-03-2017,Alm. Salg,109,37156,4,1959,-2%
 201,Villa,Elmevej 25,3450, Allerød,3145000 ,06-03-2017,Alm. Salg,185,17000,7,1971,
 201,Villa,Engdraget 6,3450, Allerød,3500000 ,06-03-2017,Alm. Salg,191,18325,5,1987,-2%
@@ -2446,8 +2435,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 201,Ejerlejlighed,"Rådhusparken 1, st. tv",3450, Allerød,2799500 ,23-02-2017,Alm. Salg,136,20585,4,2017,
 201,Villa,Bakkevej 43,3450, Allerød,2343053 ,21-02-2017,Alm. Salg,185,12665,8,1953,-54%
 201,Villa,Storkevang 6,3450, Allerød,3125000 ,20-02-2017,Alm. Salg,118,26483,4,1966,-4%
-201,Rækkehus,Prins Valdemars Alle 13C,3450, Allerød,1200000 ,19-02-2017,Alm. Salg,56,21429,2,1913,
-201,Ejerlejlighed,"Prins Valdemars Alle 13B, 1",3450, Allerød,1200000 ,19-02-2017,Alm. Salg,66,18182,2,1913,
 201,Villa,Farremosen 16,3450, Allerød,1600000 ,19-02-2017,Alm. Salg,103,15534,3,1968,
 201,Villa,Platanhaven 4,3450, Allerød,3300000 ,19-02-2017,Alm. Salg,178,18539,6,1974,-6%
 201,Villa,Rosenlundvej 19,3540, Lynge,5245000 ,18-02-2017,Alm. Salg,280,18732,4,1850,
@@ -2623,7 +2610,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 201,Villa,Blovstrød Byvej 22,3450, Allerød,4987500 ,28-09-2016,Alm. Salg,241,20695,8,1880,-3%
 201,Villa,Parkvej 28,3450, Allerød,400000 ,28-09-2016,Fam. Salg,182,2198,5,1970,
 201,Villa,Skovvejen 17,3450, Allerød,1798000 ,27-09-2016,Alm. Salg,175,10274,5,2018,
-201,Villa,Grønningen 2,3450, Allerød,80233163 ,27-09-2016,Alm. Salg,218,368042,4,2018,
 201,Villa,Hammersholt Byvej 41C,3400, Hillerød,2900000 ,24-09-2016,Alm. Salg,176,16477,7,1895,-3%
 201,Villa,Gl Lyngevej 92B,3450, Allerød,4350000 ,21-09-2016,Alm. Salg,138,31522,5,2000,-1%
 201,Villa,Enhøjsvej 34,3450, Allerød,2975000 ,21-09-2016,Alm. Salg,164,18140,5,1942,-1%
@@ -2872,8 +2858,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 201,Ejerlejlighed,"Ørnevang 30, st. 2",3450, Allerød,725000 ,09-03-2016,Auktion,46,15761,1,1965,
 201,Villa,Statenevej 11,3450, Allerød,5200000 ,09-03-2016,Alm. Salg,208,25000,7,2013,-2%
 201,Rækkehus,Gartnervænget 17,3450, Allerød,3250000 ,08-03-2016,Alm. Salg,110,29545,3,2016,
-201,Rækkehus,Skyttemosen 49,3450, Allerød,2650000 ,07-03-2016,Alm. Salg,124,21371,4,1987,-2%
-201,Villa,Gl Skolegårdsvej 38,3450, Allerød,2650000 ,07-03-2016,Alm. Salg,123,21545,5,1966,-5%
 201,Villa,Bygvænget 12,3450, Allerød,2950000 ,05-03-2016,Alm. Salg,153,19281,6,1969,-2%
 201,Villa,Ravnsholtvej 22,3450, Allerød,4075000 ,03-03-2016,Alm. Salg,192,21224,6,1952,-4%
 201,Villa,Lyngbakken 20,3540, Lynge,3010000 ,02-03-2016,Alm. Salg,205,14683,6,1965,1%
@@ -3511,8 +3495,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 201,Rækkehus,Williamsvej 4,3450, Allerød,2645000 ,13-08-2014,Alm. Salg,103,25680,3,2014,
 201,Villa,Møllemoseparken 190,3450, Allerød,4735000 ,13-08-2014,Alm. Salg,185,25595,5,2012,-2%
 201,Villa,Porsevej 18,3450, Allerød,3525000 ,12-08-2014,Alm. Salg,160,22031,5,1974,-5%
-201,Rækkehus,Prins Valdemars Alle 13C,3450, Allerød,875000 ,11-08-2014,Alm. Salg,56,15625,2,1913,
-201,Ejerlejlighed,"Prins Valdemars Alle 13B, 1",3450, Allerød,875000 ,11-08-2014,Alm. Salg,66,13258,2,1913,
 201,Ejerlejlighed,"Allerød Park 11, st. th",3450, Allerød,2565000 ,11-08-2014,Alm. Salg,92,27880,3,2008,
 201,Rækkehus,Mosevænget 28,3450, Allerød,2575000 ,06-08-2014,Alm. Salg,118,21822,4,1993,-3%
 201,Rækkehus,Toftevej 43,3450, Allerød,2570000 ,06-08-2014,Alm. Salg,116,22155,4,1963,1%
@@ -3605,8 +3587,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 201,Villa,Kvædevej 10,3450, Allerød,1900000 ,14-05-2014,Alm. Salg,177,10734,5,2015,
 201,Rækkehus,Møllemoseparken 102,3450, Allerød,3100000 ,13-05-2014,Alm. Salg,140,22143,5,2014,
 201,Rækkehus,Grev Moltkevej 10,3450, Allerød,3495000 ,13-05-2014,Alm. Salg,135,25889,4,2014,3%
-201,Rækkehus,Askevangen 64,3450, Allerød,1900000 ,12-05-2014,Alm. Salg,112,16964,5,1973,-11%
-201,Villa,Grev Moltkevej 7,3450, Allerød,1900000 ,12-05-2014,Alm. Salg,246,7724,8,2016,
 201,Rækkehus,Møllemoseparken 144,3450, Allerød,2950000 ,11-05-2014,Alm. Salg,140,21071,5,2014,
 201,Villa,Duevej 12,3450, Allerød,3450000 ,11-05-2014,Alm. Salg,143,24126,5,1981,-1%
 201,Rækkehus,Williamsvej 10,3450, Allerød,2645000 ,10-05-2014,Alm. Salg,103,25680,3,2014,
@@ -3892,9 +3872,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 201,Villa,Nyvej 9,3450, Allerød,2300000 ,26-07-2013,Fam. Salg,160,14375,5,2014,
 201,Rækkehus,Møllemoseparken 119,3450, Allerød,3245000 ,25-07-2013,Alm. Salg,136,23860,5,2013,
 201,Villa,Vejgårdsparken 27,3450, Allerød,1468500 ,24-07-2013,Andet,187,7853,6,1977,
-201,Rækkehus,Valnøddevej 3,3450, Allerød,2200000 ,22-07-2013,Alm. Salg,93,23656,3,2005,-8%
 201,Rækkehus,Søvangen 26,3450, Allerød,1875000 ,22-07-2013,Alm. Salg,89,21067,4,1988,
-201,Ejerlejlighed,"Allerød Park 5, st. th",3450, Allerød,2200000 ,22-07-2013,Alm. Salg,120,18333,4,2008,-8%
 201,Villa,Vassingerødvej 123,3540, Lynge,1400000 ,18-07-2013,Alm. Salg,106,13208,4,1962,-17%
 201,Villa,Kastaniebakken 3,3540, Lynge,2995000 ,16-07-2013,Alm. Salg,140,21393,5,1967,-3%
 201,Villa,Havrevænget 13,3450, Allerød,3200000 ,16-07-2013,Alm. Salg,149,21477,8,1962,-3%
@@ -4371,9 +4349,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 201,Rækkehus,Magnolievangen 59,3450, Allerød,1125000 ,03-11-2011,Fam. Salg,112,10045,4,1975,
 201,Rækkehus,Pinievangen 102,3450, Allerød,714717 ,31-10-2011,Fam. Salg,112,6381,5,1975,
 201,Ejerlejlighed,"Lilledal 27, 1. mf",3450, Allerød,1840000 ,30-10-2011,Alm. Salg,123,14959,1,2007,-3%
-201,Rækkehus,Rådyrvænget 46,3450, Allerød,2850000 ,29-10-2011,Alm. Salg,141,20213,4,1980,
 201,Villa,Lillegårdsvej 6,3450, Allerød,2700000 ,29-10-2011,Alm. Salg,160,16875,5,1970,-7%
-201,Villa,Østervang 18,3450, Allerød,2850000 ,29-10-2011,Alm. Salg,170,16765,6,1970,-8%
 201,Villa,Skovbrinken 1,3450, Allerød,4050000 ,25-10-2011,Alm. Salg,174,23276,6,1917,-12%
 201,Villa,Vassingerød Bygade 13,3540, Lynge,1200000 ,19-10-2011,Alm. Salg,130,9231,5,1864,-8%
 201,Villa,Bjergagervej 6,3540, Lynge,743497 ,18-10-2011,Andet,133,5590,5,1981,
@@ -4505,10 +4481,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 201,Rækkehus,Søengen 62,3450, Allerød,1995000 ,29-03-2011,Alm. Salg,89,22416,4,1987,
 201,Ejerlejlighed,Rørmosevænget 23,3450, Allerød,2250000 ,29-03-2011,Alm. Salg,108,20833,4,2006,-6%
 201,Ejerlejlighed,"Lilledal 27, 1. mf",3450, Allerød,1300000 ,27-03-2011,Alm. Salg,123,10569,1,2007,-35%
-201,Ejerlejlighed,Fritz Hansens Vej 22,3450, Allerød,1500000 ,27-03-2011,Alm. Salg,147,10204,4,2009,
 201,Ejerlejlighed,Fritz Hansens Vej 18,3450, Allerød,1700000 ,27-03-2011,Alm. Salg,142,11972,4,2009,-26%
 201,Ejerlejlighed,Fritz Hansens Vej 16,3450, Allerød,2600000 ,27-03-2011,Alm. Salg,147,17687,4,2009,
-201,Villa,Kirsebæralle 15,3450, Allerød,1500000 ,27-03-2011,Alm. Salg,143,10490,5,1950,
 201,Villa,Prøvestensvej 13,3450, Allerød,2350000 ,27-03-2011,Alm. Salg,172,13663,5,1969,
 201,Rækkehus,Nøglegårdsvænge 31,3540, Lynge,1678800 ,25-03-2011,Fam. Salg,147,11420,4,2004,
 201,Villa,Søbredden 4,3450, Allerød,2350000 ,23-03-2011,Fam. Salg,179,13128,5,1973,
@@ -5082,18 +5056,14 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 201,Rækkehus,Ligustervangen 79,3450, Allerød,2015280 ,14-06-2009,Alm. Salg,112,17994,4,1974,2%
 201,Rækkehus,Søengen 24,3450, Allerød,1775000 ,14-06-2009,Alm. Salg,89,19944,4,1987,-4%
 201,Rækkehus,Engtoften 12,3540, Lynge,2800000 ,14-06-2009,Alm. Salg,172,16279,4,1988,-15%
-201,Rækkehus,Rosmosevej 8,3450, Allerød,2650000 ,14-06-2009,Alm. Salg,138,19203,6,1956,-8%
-201,Rækkehus,Skytteengen 11,3450, Allerød,2500000 ,14-06-2009,Alm. Salg,147,17007,4,1988,
 201,Rækkehus,Bakketoppen 37,3450, Allerød,2000000 ,14-06-2009,Alm. Salg,96,20833,4,1962,-5%
 201,Rækkehus,Skyttemosen 69,3450, Allerød,2095000 ,14-06-2009,Alm. Salg,124,16895,4,1987,-7%
 201,Rækkehus,Møllemoseparken 3,3450, Allerød,3400000 ,14-06-2009,Alm. Salg,145,23448,4,2009,
 201,Rækkehus,Møllemoseparken 35,3450, Allerød,3100000 ,14-06-2009,Alm. Salg,131,23664,4,2009,
-201,Villa,Røglevej 140,3450, Allerød,2650000 ,14-06-2009,Alm. Salg,147,18027,5,1975,-9%
 201,Villa,V Heisesvej 16,3450, Allerød,3550000 ,14-06-2009,Alm. Salg,136,26103,4,1998,-11%
 201,Villa,Kratbjergvej 26,3450, Allerød,3875000 ,14-06-2009,Alm. Salg,196,19770,7,1957,-9%
 201,Villa,Mimosevej 8,3450, Allerød,3295000 ,14-06-2009,Alm. Salg,158,20854,6,1969,
 201,Villa,Søvangen 3,3450, Allerød,2380000 ,14-06-2009,Alm. Salg,117,20342,3,1988,-5%
-201,Villa,Havebovej 2,3450, Allerød,2500000 ,14-06-2009,Alm. Salg,143,17483,3,1974,-11%
 201,Villa,Tokkekøbvej 19,3450, Allerød,3450000 ,14-06-2009,Alm. Salg,178,19382,7,1971,-7%
 201,Villa,Vejgårdsparken 51,3450, Allerød,1080255 ,14-06-2009,Alm. Salg,150,7202,5,1976,
 201,Villa,Vinkelvej 7,3540, Lynge,1500000 ,14-06-2009,Alm. Salg,143,10490,5,1964,-25%
@@ -5196,10 +5166,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 201,Villa,Enhøjsvej 34,3450, Allerød,2700000 ,15-11-2008,Alm. Salg,164,16463,5,1942,-2%
 201,Villa,Tjørnevej 3,3450, Allerød,1880000 ,10-11-2008,Auktion,160,11750,6,1950,
 201,Rækkehus,Ville Heise Park 22,3450, Allerød,2750000 ,02-11-2008,Alm. Salg,125,22000,4,1970,
-201,Rækkehus,Cedervangen 36,3450, Allerød,2350000 ,02-11-2008,Alm. Salg,112,20982,5,1973,-8%
 201,Rækkehus,Østre Teglværksvej 2C,3450, Allerød,2900000 ,02-11-2008,Alm. Salg,103,28155,4,1956,
 201,Rækkehus,Skyttemosen 65,3450, Allerød,1500000 ,02-11-2008,Fam. Salg,147,10204,5,1987,
-201,Ejerlejlighed,"Allerød Park 11, st. th",3450, Allerød,2350000 ,02-11-2008,Alm. Salg,92,25543,3,2008,2%
 201,Ejerlejlighed,"Allerød Park 12, 1. th",3450, Allerød,2950000 ,02-11-2008,Alm. Salg,92,32065,3,2008,
 201,Villa,Wolthersvej 2,3450, Allerød,2100000 ,02-11-2008,Alm. Salg,120,17500,6,1850,-22%
 201,Villa,Krobakken 5,3540, Lynge,2400000 ,02-11-2008,Alm. Salg,146,16438,4,1968,-17%
@@ -5221,11 +5189,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 201,Rækkehus,Magnolievangen 14,3450, Allerød,2595000 ,22-09-2008,Alm. Salg,112,23170,4,1975,
 201,Rækkehus,Lynge Stationsvej 1B,3540, Lynge,1998000 ,21-09-2008,Alm. Salg,95,21032,4,1988,
 201,Rækkehus,Akacievej 4,3450, Allerød,2900000 ,21-09-2008,Alm. Salg,115,25217,4,2005,-11%
-201,Ejerlejlighed,"Lilledal 27, 1. mf",3450, Allerød,13200200 ,21-09-2008,Alm. Salg,123,107319,1,2007,
-201,Ejerlejlighed,"Lilledal 31, 1. th",3450, Allerød,13200200 ,21-09-2008,Alm. Salg,147,89797,3,2007,
-201,Ejerlejlighed,"Lilledal 31, 2. th",3450, Allerød,13200200 ,21-09-2008,Alm. Salg,147,89797,3,2007,
-201,Ejerlejlighed,Fritz Hansens Vej 18,3450, Allerød,13200200 ,21-09-2008,Alm. Salg,142,92959,4,2009,
-201,Ejerlejlighed,Fritz Hansens Vej 20,3450, Allerød,13200200 ,21-09-2008,Alm. Salg,142,92959,4,2009,
 201,Villa,Solbærvej 26,3450, Allerød,2500000 ,21-09-2008,Alm. Salg,160,15625,6,1971,-17%
 201,Villa,Delfinvej 15,3450, Allerød,1231500 ,21-09-2008,Andet,112,10996,4,1981,
 201,Villa,Vejgårdsparken 6,3450, Allerød,3400000 ,21-09-2008,Alm. Salg,170,20000,5,1974,-3%
@@ -5359,14 +5322,12 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 201,Villa,Engdraget 12,3450, Allerød,3100000 ,24-04-2008,Alm. Salg,123,25203,3,1988,-6%
 201,Rækkehus,Syrenvej 10,3450, Allerød,2600000 ,21-04-2008,Alm. Salg,104,25000,3,1959,-7%
 201,Rækkehus,Skyttekrogen 13,3450, Allerød,2650000 ,20-04-2008,Alm. Salg,129,20543,4,1985,
-201,Rækkehus,Skyttemosen 31,3450, Allerød,2950000 ,20-04-2008,Alm. Salg,124,23790,4,1987,-8%
 201,Rækkehus,Sjælsøparken 41,3450, Allerød,2280000 ,20-04-2008,Alm. Salg,127,17953,4,1967,-9%
 201,Rækkehus,Skyttemosen 53,3450, Allerød,2500000 ,20-04-2008,Alm. Salg,124,20161,4,1987,-11%
 201,Ejerlejlighed,"Amtsvej 5, 1. th",3450, Allerød,3445000 ,20-04-2008,Alm. Salg,134,25709,3,2007,
 201,Ejerlejlighed,"Vassingerødvej 143, 1",3540, Lynge,4661413 ,20-04-2008,Andet,97,48056,2,1910,
 201,Ejerlejlighed,"Allerød Park 5, 2. th",3450, Allerød,3000000 ,20-04-2008,Alm. Salg,120,25000,4,2008,-21%
 201,Ejerlejlighed,"Ørnevang 32, 1. 2",3450, Allerød,1100000 ,20-04-2008,Alm. Salg,46,23913,1,1965,-8%
-201,Ejerlejlighed,"Allerød Park 12, 1. th",3450, Allerød,2950000 ,20-04-2008,Alm. Salg,92,32065,3,2008,-2%
 201,Ejerlejlighed,"Allerød Park 10, st. th",3450, Allerød,2550000 ,20-04-2008,Alm. Salg,93,27419,3,2008,-6%
 201,Villa,Frederiksborgvej 31,3450, Allerød,2000000 ,20-04-2008,Alm. Salg,135,14815,4,1897,-12%
 201,Villa,Lobovej 5,3450, Allerød,4950000 ,20-04-2008,Alm. Salg,172,28779,6,1997,
@@ -5395,9 +5356,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 201,Villa,Vejgårdsparken 13,3450, Allerød,4125000 ,02-04-2008,Alm. Salg,163,25307,7,1980,-6%
 201,Ejerlejlighed,"Lilledal 27, 2. mf",3450, Allerød,2525000 ,01-04-2008,Alm. Salg,125,20200,1,2007,
 201,Villa,Rørmosevej 6,3450, Allerød,5100000 ,30-03-2008,Alm. Salg,165,30909,5,2008,
-201,Rækkehus,Parkvej 46,3450, Allerød,2400000 ,27-03-2008,Alm. Salg,100,24000,4,2004,
 201,Rækkehus,Røglevænget 66,3450, Allerød,3200000 ,27-03-2008,Alm. Salg,136,23529,5,1975,-4%
-201,Ejerlejlighed,"Allerød Park 10, st. tv",3450, Allerød,2400000 ,27-03-2008,Alm. Salg,92,26087,3,2008,
 201,Ejerlejlighed,"Lilledal 29, 2. mf",3450, Allerød,3000000 ,27-03-2008,Alm. Salg,161,18634,4,2007,
 201,Ejerlejlighed,"Lilledal 27, 2. th",3450, Allerød,2500000 ,27-03-2008,Alm. Salg,136,18382,2,2007,
 201,Ejerlejlighed,"Lilledal 27, 1. th",3450, Allerød,2000000 ,27-03-2008,Alm. Salg,136,14706,2,2007,
@@ -5456,8 +5415,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 201,Villa,Gråstenvej 3,3450, Allerød,2735000 ,06-01-2008,Fam. Salg,155,17645,5,1996,
 201,Villa,Enebærhaven 6,3450, Allerød,3800000 ,06-01-2008,Alm. Salg,140,27143,5,1969,-9%
 201,Villa,Sandholmvej 16,3450, Allerød,3100000 ,02-01-2008,Alm. Salg,163,19018,5,1962,-11%
-201,Rækkehus,Søvangen 44,3450, Allerød,2400000 ,01-01-2008,Alm. Salg,89,26966,4,1989,-3%
-201,Ejerlejlighed,Rørmosevænget 25,3450, Allerød,2400000 ,01-01-2008,Alm. Salg,108,22222,4,2006,-13%
 201,Villa,Lathyrusvej 10,3450, Allerød,2110000 ,29-12-2007,Alm. Salg,159,13270,5,1970,
 201,Villa,Poppelalle 6,3540, Lynge,2600000 ,26-12-2007,Alm. Salg,114,22807,3,1976,-10%
 201,Villa,Hjortevænget 11,3450, Allerød,3075000 ,19-12-2007,Alm. Salg,127,24213,4,1979,-12%
@@ -5622,7 +5579,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 201,Villa,Gl Lyngevej 92B,3450, Allerød,4300000 ,28-06-2007,Alm. Salg,138,31159,5,2000,-4%
 201,Villa,Ålekæret 50,3450, Allerød,1712118 ,27-06-2007,Fam. Salg,161,10634,5,1986,
 201,Ejerlejlighed,"Ørnevang 30, 1. 3",3450, Allerød,1400000 ,25-06-2007,Alm. Salg,58,24138,2,1965,-6%
-201,Rækkehus,Kollerød Bygade 27,3450, Allerød,10702777 ,24-06-2007,Alm. Salg,86,66892,4,1961,
 201,Rækkehus,Toftevej 45,3450, Allerød,3200000 ,24-06-2007,Alm. Salg,123,26016,4,1962,
 201,Ejerlejlighed,"Ørnevang 8, 2. tv",3450, Allerød,1700000 ,24-06-2007,Alm. Salg,92,18478,3,1965,-4%
 201,Ejerlejlighed,"Ørnevang 18, 1. th",3450, Allerød,1040000 ,24-06-2007,Alm. Salg,106,9811,4,1965,
@@ -5638,7 +5594,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 201,Villa,Østre Teglværksvej 19,3450, Allerød,4120000 ,24-06-2007,Alm. Salg,149,27651,4,1900,18%
 201,Villa,Lynge Bygade 17,3540, Lynge,2995000 ,24-06-2007,Alm. Salg,103,29078,5,1938,
 201,Villa,Kollerødvej 18,3450, Allerød,3920000 ,24-06-2007,Alm. Salg,181,21657,6,1960,
-201,Villa,Kollerød Bygade 23,3450, Allerød,10702777 ,24-06-2007,Alm. Salg,250,42811,6,1996,
 201,Rækkehus,Skyttemosen 1,3450, Allerød,2935000 ,23-06-2007,Alm. Salg,129,22752,4,1987,
 201,Villa,Østervang 15,3450, Allerød,3200000 ,23-06-2007,Alm. Salg,158,20253,6,1968,
 201,Villa,Rugvænget 3,3450, Allerød,2750000 ,19-06-2007,Alm. Salg,99,27778,4,1959,
@@ -5664,7 +5619,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 201,Rækkehus,Akacievej 11,3450, Allerød,3450000 ,14-05-2007,Alm. Salg,115,30000,4,2005,
 201,Rækkehus,Askevangen 72,3450, Allerød,1125000 ,14-05-2007,Alm. Salg,112,10045,5,1973,
 201,Villa,Møllemoseparken 42,3450, Allerød,2610000 ,14-05-2007,Alm. Salg,205,12732,6,2009,
-201,Rækkehus,Søvangen 14,3450, Allerød,2800000 ,13-05-2007,Alm. Salg,91,30769,4,1988,
 201,Ejerlejlighed,"Amtsvej 5, 3. tv",3450, Allerød,3800000 ,13-05-2007,Alm. Salg,124,30645,3,2007,
 201,Villa,Rosmosevej 3B,3450, Allerød,2100000 ,13-05-2007,Alm. Salg,87,24138,4,1958,
 201,Villa,Rønnebakken 9,3540, Lynge,2750000 ,13-05-2007,Alm. Salg,125,22000,4,1966,
@@ -5674,7 +5628,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 201,Villa,Møllemoseparken 12,3450, Allerød,2751000 ,13-05-2007,Alm. Salg,189,14556,6,2008,
 201,Villa,Møllemoseparken 18,3450, Allerød,2655620 ,13-05-2007,Alm. Salg,165,16095,5,2008,
 201,Villa,Møllemoseparken 26,3450, Allerød,2630001 ,13-05-2007,Alm. Salg,165,15939,4,2008,
-201,Villa,Møllemoseparken 16,3450, Allerød,2800000 ,13-05-2007,Alm. Salg,189,14815,6,2008,
 201,Villa,Møllemoseparken 24,3450, Allerød,2625000 ,13-05-2007,Alm. Salg,194,13531,5,2008,
 201,Villa,Møllemoseparken 49,3450, Allerød,2705000 ,13-05-2007,Alm. Salg,151,17914,5,2009,
 201,Villa,Møllemoseparken 40,3450, Allerød,2918000 ,13-05-2007,Alm. Salg,165,17685,5,2008,
@@ -6009,7 +5962,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 201,Rækkehus,Sjælsøparken 41,3450, Allerød,3000000 ,04-05-2006,Alm. Salg,127,23622,4,1967,
 201,Villa,Slangerupvej 35,3540, Lynge,2635000 ,04-05-2006,Alm. Salg,183,14399,5,1922,
 201,Ejerlejlighed,"Allerød Park 18, st",3450, Allerød,1895000 ,01-05-2006,Alm. Salg,67,28284,2,2006,
-201,Villa,Prins Valdemars Alle 2D,3450, Allerød,4000000 ,01-05-2006,Alm. Salg,58,68966,2,1945,
 201,Villa,Rønnealle 31,3450, Allerød,2895000 ,01-05-2006,Alm. Salg,110,26318,5,1957,
 201,Rækkehus,Røglevænget 54,3450, Allerød,3465000 ,30-04-2006,Alm. Salg,136,25478,5,1973,
 201,Villa,Røglevej 90,3450, Allerød,4625000 ,30-04-2006,Alm. Salg,140,33036,4,1973,
@@ -6112,7 +6064,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 201,Ejerlejlighed,"Ørnevang 30, st. 1",3450, Allerød,895000 ,05-02-2006,Alm. Salg,46,19457,1,1965,
 201,Rækkehus,Bakketoppen 21,3450, Allerød,1600000 ,04-02-2006,Fam. Salg,96,16667,4,1962,
 201,Rækkehus,Cedervangen 80,3450, Allerød,875000 ,02-02-2006,Fam. Salg,112,7813,3,1973,
-201,Villa,Prins Valdemars Alle 2D,3450, Allerød,1491000 ,01-02-2006,Alm. Salg,58,25707,2,1945,
 201,Villa,Vildroseparken 32,3540, Lynge,3785000 ,01-02-2006,Alm. Salg,137,27628,6,1997,
 201,Rækkehus,Uggeløsegård 14,3540, Lynge,2155000 ,29-01-2006,Alm. Salg,117,18419,4,1998,
 201,Rækkehus,Ligustervangen 19,3450, Allerød,2545000 ,29-01-2006,Alm. Salg,112,22723,4,1974,
@@ -6702,8 +6653,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 201,Villa,Lundevej 5,3450, Allerød,1250000 ,09-08-2004,Alm. Salg,87,14368,4,1940,
 201,Villa,Rørmoseparken 40,3450, Allerød,2795000 ,07-08-2004,Alm. Salg,118,23686,4,1983,
 201,Rækkehus,Dalbovej 5,3450, Allerød,2491000 ,04-08-2004,Alm. Salg,146,17062,4,1900,
-201,Rækkehus,Prins Valdemars Alle 13C,3450, Allerød,1107750 ,04-08-2004,Alm. Salg,56,19781,2,1913,
-201,Ejerlejlighed,"Prins Valdemars Alle 13B, 1",3450, Allerød,1107750 ,04-08-2004,Alm. Salg,66,16784,2,1913,
 201,Villa,Mosevej 6,3450, Allerød,2670000 ,01-08-2004,Alm. Salg,201,13284,6,0,
 201,Villa,Syrenhaven 4,3450, Allerød,2275000 ,29-07-2004,Alm. Salg,147,15476,7,1968,
 201,Rækkehus,Søvangen 12,3450, Allerød,1515000 ,28-07-2004,Alm. Salg,75,20200,3,1988,
@@ -7152,13 +7101,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 201,Villa,Stendyssevej 17,3540, Lynge,845646 ,01-07-2003,Andet,140,6040,5,1966,
 201,Rækkehus,Pinievangen 10,3450, Allerød,1735000 ,29-06-2003,Alm. Salg,112,15491,4,1975,
 201,Rækkehus,Enevangen 47,3450, Allerød,1700000 ,29-06-2003,Alm. Salg,112,15179,4,1974,
-201,Ejerlejlighed,"Stationspassagen 4, st. th",3450, Allerød,7418000 ,29-06-2003,Alm. Salg,52,142654,2,1969,
-201,Ejerlejlighed,"Stationspassagen 4, st. tv",3450, Allerød,7418000 ,29-06-2003,Alm. Salg,77,96338,3,1969,
-201,Ejerlejlighed,"M D Madsensvej 5A, 1",3450, Allerød,7418000 ,29-06-2003,Alm. Salg,83,89373,2,1963,
-201,Ejerlejlighed,"M D Madsensvej 5A, 2",3450, Allerød,7418000 ,29-06-2003,Alm. Salg,178,41674,5,1963,
-201,Ejerlejlighed,"Stationspassagen 4, 1. tv",3450, Allerød,7418000 ,29-06-2003,Alm. Salg,96,77271,3,1969,
-201,Ejerlejlighed,"M D Madsensvej 5C, 1. tv",3450, Allerød,7418000 ,29-06-2003,Alm. Salg,95,78084,4,1963,
-201,Ejerlejlighed,"Stationspassagen 4, 1. th",3450, Allerød,7418000 ,29-06-2003,Alm. Salg,96,77271,3,1969,
 201,Villa,Gl Lyngevej 49,3450, Allerød,2600000 ,29-06-2003,Alm. Salg,190,13684,5,1971,
 201,Villa,Højrisvej 7,3540, Lynge,900000 ,29-06-2003,Alm. Salg,202,4455,6,2007,
 201,Villa,Lupinvej 4,3450, Allerød,2300000 ,28-06-2003,Alm. Salg,187,12299,7,1966,
@@ -7596,10 +7538,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 201,Rækkehus,Enevangen 98,3450, Allerød,1550000 ,05-05-2002,Alm. Salg,112,13839,4,1974,
 201,Rækkehus,Blovstrød Byvej 10E,3450, Allerød,1410000 ,05-05-2002,Alm. Salg,89,15843,4,1961,
 201,Rækkehus,Magnolievangen 126,3450, Allerød,650000 ,05-05-2002,Alm. Salg,112,5804,4,1974,
-201,Rækkehus,Prins Valdemars Alle 13C,3450, Allerød,995000 ,05-05-2002,Alm. Salg,56,17768,2,1913,
 201,Rækkehus,Uggeløsegård 9,3540, Lynge,1425000 ,05-05-2002,Alm. Salg,88,16193,4,1997,
 201,Rækkehus,Skyttekrogen 5,3450, Allerød,1625000 ,05-05-2002,Alm. Salg,129,12597,4,1986,
-201,Ejerlejlighed,"Prins Valdemars Alle 13B, 1",3450, Allerød,995000 ,05-05-2002,Alm. Salg,66,15076,2,1913,
 201,Villa,Blåbærhaven 2,3540, Lynge,2198710 ,05-05-2002,Alm. Salg,165,13326,6,1972,
 201,Villa,Baunedalen 15,3540, Lynge,1878500 ,05-05-2002,Alm. Salg,160,11741,6,1986,
 201,Villa,Vestvej 49,3450, Allerød,2150000 ,05-05-2002,Alm. Salg,179,12011,6,1966,
@@ -7665,10 +7605,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 201,Rækkehus,Cedervangen 116,3450, Allerød,1665000 ,01-04-2002,Alm. Salg,112,14866,4,1973,
 201,Villa,Gl Nøglegårdsvej 11,3540, Lynge,845000 ,01-04-2002,Alm. Salg,183,4617,6,2003,
 201,Rækkehus,Sortemosen 42,3450, Allerød,2009232 ,31-03-2002,Alm. Salg,94,21375,5,1962,
-201,Rækkehus,Søengen 80,3450, Allerød,1295000 ,31-03-2002,Fam. Salg,70,18500,3,1987,
 201,Villa,Høveltsvangsvej 59,3450, Allerød,2988470 ,31-03-2002,Alm. Salg,287,10413,10,1905,
 201,Villa,Sandholmvej 14A,3450, Allerød,2300000 ,31-03-2002,Fam. Salg,138,16667,3,1957,
-201,Villa,Gl Amtsvej 30,3450, Allerød,1295000 ,31-03-2002,Alm. Salg,145,8931,5,2022,
 201,Rækkehus,Magnolievangen 37,3450, Allerød,1795000 ,29-03-2002,Alm. Salg,112,16027,4,1975,
 201,Villa,Lynghøjvej 12,3540, Lynge,1480000 ,28-03-2002,Alm. Salg,112,13214,4,1962,
 201,Rækkehus,Enevangen 76,3450, Allerød,1695000 ,26-03-2002,Alm. Salg,112,15134,4,1974,
@@ -8045,9 +7983,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 201,Villa,Rønnebakken 5,3540, Lynge,1795000 ,18-03-2001,Alm. Salg,165,10879,6,1967,
 201,Ejerlejlighed,"Ørnevang 10, 1. tv",3450, Allerød,1044624 ,12-03-2001,Alm. Salg,92,11355,3,1965,
 201,Villa,Kollerød Bygade 2B,3450, Allerød,680000 ,11-03-2001,Alm. Salg,169,4024,5,2002,
-201,Rækkehus,Sortemosen 64,3450, Allerød,2195000 ,05-03-2001,Alm. Salg,152,14441,6,1962,
 201,Rækkehus,Cedervangen 14,3450, Allerød,1475000 ,05-03-2001,Alm. Salg,112,13170,4,1974,
-201,Villa,Sydkæret 1,3450, Allerød,2195000 ,05-03-2001,Alm. Salg,136,16140,4,1989,
 201,Rækkehus,Skyttevangen 33,3450, Allerød,1608190 ,04-03-2001,Alm. Salg,129,12467,4,1988,
 201,Ejerlejlighed,"Ørnevang 22, 1. tv",3450, Allerød,1010000 ,04-03-2001,Alm. Salg,92,10978,3,1965,
 201,Ejerlejlighed,"Ørnevang 30, 2. 4",3450, Allerød,550000 ,04-03-2001,Alm. Salg,46,11957,1,1965,
@@ -8437,13 +8373,11 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 201,Villa,Lærkenborg Alle 2,3450, Allerød,1955000 ,26-02-2000,Alm. Salg,153,12778,5,1976,
 201,Villa,Solbærvej 22,3450, Allerød,1822063 ,25-02-2000,Alm. Salg,141,12922,3,1970,
 201,Villa,Damgårdshave 12,3450, Allerød,2025000 ,22-02-2000,Alm. Salg,130,15577,6,2000,
-201,Rækkehus,Hvilebjergvej 1C,3450, Allerød,8112985 ,20-02-2000,Alm. Salg,80,101412,4,1900,
 201,Rækkehus,Cedervangen 9,3450, Allerød,1300858 ,20-02-2000,Alm. Salg,112,11615,4,1973,
 201,Rækkehus,Askevangen 2,3450, Allerød,1499961 ,20-02-2000,Alm. Salg,112,13393,4,1973,
 201,Rækkehus,Skyttevangen 4,3450, Allerød,1581651 ,20-02-2000,Alm. Salg,129,12261,4,1988,
 201,Villa,Gravenstensvej 17,3450, Allerød,425000 ,20-02-2000,Alm. Salg,193,2202,5,2021,
 201,Villa,Gl Lyngevej 52,3450, Allerød,1122674 ,20-02-2000,Alm. Salg,82,13691,3,1900,
-201,Villa,Hvilebjergvej 1B,3450, Allerød,8112985 ,20-02-2000,Alm. Salg,100,81130,3,1900,
 201,Villa,Løvsangervang 14,3450, Allerød,2100000 ,20-02-2000,Alm. Salg,157,13376,6,1967,
 201,Villa,Brislingvej 25,3450, Allerød,2375000 ,20-02-2000,Alm. Salg,200,11875,7,1986,
 201,Villa,Kløvermarken 16,3540, Lynge,1510375 ,20-02-2000,Alm. Salg,162,9323,6,1967,
@@ -9154,8 +9088,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 201,Villa,Søvej 2,3450, Allerød,1552400 ,15-04-1998,Alm. Salg,131,11850,3,1959,
 201,Villa,Røglevej 88,3450, Allerød,1927000 ,14-04-1998,Alm. Salg,159,12119,4,1981,
 201,Rækkehus,Magnolievangen 96,3450, Allerød,1214072 ,13-04-1998,Alm. Salg,112,10840,4,1974,
-201,Rækkehus,Prins Valdemars Alle 13C,3450, Allerød,691117 ,13-04-1998,Alm. Salg,56,12341,2,1913,
-201,Ejerlejlighed,"Prins Valdemars Alle 13B, 1",3450, Allerød,691117 ,13-04-1998,Alm. Salg,66,10471,2,1913,
 201,Villa,Højdevej 1,3540, Lynge,1127854 ,13-04-1998,Alm. Salg,101,11167,5,1962,
 201,Villa,Hjortevænget 26,3450, Allerød,1795606 ,13-04-1998,Alm. Salg,147,12215,5,1978,
 201,Rækkehus,Engtoften 8,3540, Lynge,1842840 ,12-04-1998,Alm. Salg,186,9908,6,1987,
@@ -9374,7 +9306,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 201,Villa,Ekkodalen 8,3450, Allerød,1553000 ,02-11-1997,Alm. Salg,138,11254,4,1972,
 201,Villa,Takshaven 4,3450, Allerød,1830112 ,02-11-1997,Alm. Salg,147,12450,5,1970,
 201,Rækkehus,Sjælsøparken 27,3450, Allerød,1266759 ,01-11-1997,Alm. Salg,128,9897,4,1967,
-201,Villa,Prins Valdemars Alle 2D,3450, Allerød,1090000 ,30-10-1997,Alm. Salg,58,18793,2,1945,
 201,Villa,Engvej 2,3450, Allerød,1489163 ,29-10-1997,Alm. Salg,155,9608,5,1966,
 201,Villa,Lærkenborg Alle 34,3450, Allerød,1350206 ,27-10-1997,Alm. Salg,132,10229,4,1976,
 201,Villa,Cortlandvej 2,3450, Allerød,675000 ,27-10-1997,Alm. Salg,156,4327,6,1998,
@@ -9724,7 +9655,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 201,Rækkehus,Skyttevangen 33,3450, Allerød,1048000 ,26-01-1997,Alm. Salg,129,8124,4,1988,
 201,Ejerlejlighed,"Ørnevang 28, st. 4",3450, Allerød,387375 ,26-01-1997,Alm. Salg,47,8242,1,1965,
 201,Villa,Bastrupvej 13,3540, Lynge,1148734 ,26-01-1997,Alm. Salg,149,7710,5,1909,
-201,Villa,Prins Valdemars Alle 2D,3450, Allerød,1334536 ,26-01-1997,Alm. Salg,58,23009,2,1945,
 201,Villa,V Heisesvej 16,3450, Allerød,325000 ,26-01-1997,Alm. Salg,136,2390,4,1998,
 201,Villa,V Heisesvej 26,3450, Allerød,1050000 ,26-01-1997,Alm. Salg,72,14583,3,1938,
 201,Villa,Rytterhegnet 7,3450, Allerød,886734 ,26-01-1997,Alm. Salg,325,2728,12,1976,
@@ -10000,10 +9930,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 201,Villa,Valmuevej 5,3450, Allerød,1456121 ,27-05-1996,Alm. Salg,158,9216,6,1969,
 201,Villa,Høveltsvangsvej 37,3450, Allerød,350000 ,27-05-1996,Alm. Salg,170,2059,5,1999,
 201,Rækkehus,Blovstrød Byvej 10E,3450, Allerød,921000 ,26-05-1996,Alm. Salg,89,10348,4,1961,
-201,Rækkehus,Prins Valdemars Alle 13C,3450, Allerød,540000 ,26-05-1996,Alm. Salg,56,9643,2,1913,
 201,Rækkehus,Rådyrvænget 42,3450, Allerød,1079000 ,26-05-1996,Alm. Salg,144,7493,4,1980,
 201,Rækkehus,Skyttemosen 19,3450, Allerød,979250 ,26-05-1996,Alm. Salg,124,7897,4,1987,
-201,Ejerlejlighed,"Prins Valdemars Alle 13B, 1",3450, Allerød,540000 ,26-05-1996,Alm. Salg,66,8182,2,1913,
 201,Ejerlejlighed,"Ørnevang 2, 1. tv",3450, Allerød,560000 ,26-05-1996,Alm. Salg,89,6292,3,1965,
 201,Ejerlejlighed,"Ørnevang 14, 1. th",3450, Allerød,575000 ,26-05-1996,Alm. Salg,108,5324,4,1965,
 201,Ejerlejlighed,"Ørnevang 22, 2. tv",3450, Allerød,586075 ,26-05-1996,Alm. Salg,92,6370,3,1965,
@@ -10878,9 +10806,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 201,Villa,Melchiorsvej 27,3450, Allerød,980131 ,23-02-1994,Alm. Salg,195,5026,4,1947,
 201,Villa,Svinget 5,3450, Allerød,795000 ,23-02-1994,Alm. Salg,149,5336,7,1953,
 201,Rækkehus,Søengen 66,3450, Allerød,675000 ,20-02-1994,Alm. Salg,70,9643,3,1987,
-201,Rækkehus,Prins Valdemars Alle 13C,3450, Allerød,505000 ,20-02-1994,Andet,56,9018,2,1913,
 201,Rækkehus,Søvangen 14,3450, Allerød,770000 ,20-02-1994,Alm. Salg,91,8462,4,1988,
-201,Ejerlejlighed,"Prins Valdemars Alle 13B, 1",3450, Allerød,505000 ,20-02-1994,Andet,66,7652,2,1913,
 201,Villa,Kratbjergvej 15A,3450, Allerød,458900 ,20-02-1994,Alm. Salg,158,2904,5,1994,
 201,Villa,Frederiksborgvej 45,3450, Allerød,411150 ,20-02-1994,Fam. Salg,168,2447,4,1912,
 201,Villa,Hjortevænget 24,3450, Allerød,1440000 ,20-02-1994,Alm. Salg,140,10286,5,1985,
@@ -11272,8 +11198,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 201,Rækkehus,Skyttemosen 31,3450, Allerød,467439 ,11-02-1993,Alm. Salg,124,3770,4,1987,
 201,Villa,Blovstrød Byvej 19,3450, Allerød,900000 ,11-02-1993,Alm. Salg,121,7438,2,1914,
 201,Villa,Rønnealle 42A,3450, Allerød,725000 ,10-02-1993,Alm. Salg,134,5410,3,1968,
-201,Rækkehus,Røglevænget 8,3450, Allerød,775000 ,07-02-1993,Fam. Salg,135,5741,5,1973,
-201,Villa,Frederiksborgvej 33,3450, Allerød,775000 ,07-02-1993,Alm. Salg,150,5167,6,1897,
 201,Villa,Engdraget 12,3450, Allerød,860000 ,07-02-1993,Alm. Salg,123,6992,3,1988,
 201,Villa,Rønnealle 44,3450, Allerød,760000 ,07-02-1993,Alm. Salg,178,4270,5,1962,
 201,Villa,Vassingerødvej 137,3540, Lynge,717452 ,06-02-1993,Alm. Salg,155,4629,4,1968,

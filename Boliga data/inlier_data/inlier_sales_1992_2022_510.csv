@@ -47,7 +47,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Lokesvej 23,6100, Haderslev,1300000 ,27-11-2022,Alm. Salg,123,10569,5,1981,-3%
 510,Villa,Lertevej 16,6560, Sommersted,265000 ,27-11-2022,Alm. Salg,118,2246,4,1946,-23%
 510,Villa,Toftvej 1,6100, Haderslev,1600000 ,26-11-2022,Alm. Salg,130,12308,4,1900,-4%
-510,Villa,Starup Engvej 13,6100, Haderslev,1595000 ,24-11-2022,Alm. Salg,101,15792,4,1968,
 510,Villa,Vinkelvej 18,6500, Vojens,585000 ,24-11-2022,Alm. Salg,126,4643,5,1966,-2%
 510,Villa,Grusgravvej 2,6500, Vojens,260000 ,24-11-2022,Alm. Salg,100,2600,3,1910,
 510,Villa,Østerskovvej 58,6100, Haderslev,930000 ,23-11-2022,Alm. Salg,107,8692,3,1952,-7%
@@ -85,7 +84,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Lindevej 5,6500, Vojens,340000 ,06-11-2022,Alm. Salg,96,3542,4,1962,-9%
 510,Villa,Lille Bakkevej 1,6100, Haderslev,1800000 ,06-11-2022,Alm. Salg,136,13235,5,1928,-10%
 510,Villa,Postvænget 17,6510, Gram,350000 ,06-11-2022,Alm. Salg,129,2713,4,1970,
-510,Villa,Ladegårdvej 41,6100, Haderslev,2695000 ,05-11-2022,Alm. Salg,171,15760,6,1880,
 510,Villa,Grønningen 27,6100, Haderslev,1505000 ,04-11-2022,Alm. Salg,102,14755,5,1957,-3%
 510,Villa,Hovedgaden Øst 57,6500, Vojens,470000 ,03-11-2022,Alm. Salg,170,2765,4,1912,-5%
 510,Villa,Damager 6,6100, Haderslev,1150000 ,03-11-2022,Andet,189,6085,8,1987,
@@ -154,7 +152,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Gammel Skjoldagervej 9,6510, Gram,425000 ,30-09-2022,Alm. Salg,94,4521,3,1944,
 510,Villa,Tøndervej 12,6070, Christiansfeld,2695000 ,29-09-2022,Alm. Salg,185,14568,8,1939,
 510,Villa,Damager 8,6560, Sommersted,870000 ,28-09-2022,Alm. Salg,142,6127,4,1968,
-510,Villa,Starup Skovvej 13,6100, Haderslev,2000000 ,28-09-2022,Alm. Salg,124,16129,4,1962,-9%
 510,Villa,Tovskovvej 49,6560, Sommersted,400000 ,27-09-2022,Alm. Salg,99,4040,3,1800,-10%
 510,Villa,Sydhavnsvej 18,6100, Haderslev,1990000 ,27-09-2022,Alm. Salg,172,11570,7,1949,-9%
 510,Villa,Runebakken 82,6500, Vojens,1172500 ,26-09-2022,Alm. Salg,150,7817,5,1979,-2%
@@ -206,12 +203,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Birkvej 5,6510, Gram,338500 ,29-08-2022,Fam. Salg,237,1428,7,1947,
 510,Villa,Kalmargårdparken 13,6100, Haderslev,2440000 ,29-08-2022,Alm. Salg,157,15541,5,2013,
 510,Rækkehus,Vestergade 19,6100, Haderslev,609242 ,28-08-2022,Alm. Salg,127,4797,5,1877,
-510,Ejerlejlighed,Moltrupvej 19B,6100, Haderslev,895000 ,25-08-2022,Alm. Salg,81,11049,2,1901,-10%
 510,Villa,Tornsangervej 2,6500, Vojens,1200000 ,25-08-2022,Alm. Salg,303,3960,6,1977,-14%
 510,Villa,Bøgevej 26,6500, Vojens,1795000 ,25-08-2022,Alm. Salg,142,12641,6,1964,
-510,Villa,Slotsvej 15,6510, Gram,325000 ,25-08-2022,Alm. Salg,142,1498,8,1900,-18%
 510,Villa,Aabenraa Landevej 131,6100, Haderslev,1050000 ,25-08-2022,Alm. Salg,234,4487,10,1877,-12%
-510,Villa,Moltrupvej 19A,6100, Haderslev,895000 ,25-08-2022,Alm. Salg,152,5888,5,1901,-10%
 510,Ejerlejlighed,"Vestergade 29A, 1. th",6100, Haderslev,855000 ,24-08-2022,Alm. Salg,83,10301,3,1875,-2%
 510,Villa,Hørløkkevej 7,6500, Vojens,400000 ,24-08-2022,Alm. Salg,158,2532,7,1962,-19%
 510,Villa,Vilstrup Bysving 2,6100, Haderslev,1045000 ,23-08-2022,Alm. Salg,120,8708,5,1977,-5%
@@ -225,7 +219,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Gyvelvej 12,6500, Vojens,750000 ,18-08-2022,Alm. Salg,144,5208,4,1964,-6%
 510,Villa,Sønderballe Hoved 4,6100, Haderslev,310000 ,18-08-2022,Alm. Salg,117,2650,4,1965,
 510,Villa,Møllebakken 19,6500, Vojens,895000 ,17-08-2022,Alm. Salg,162,5525,4,1963,
-510,Villa,"Tovskovvej 20B, 1",6560, Sommersted,100000 ,17-08-2022,Alm. Salg,187,535,8,1908,
 510,Villa,Vadstedvej 18,6560, Sommersted,4300000 ,17-08-2022,Andet,356,12079,6,1800,
 510,Villa,Vilstrup Vestertoft 9,6100, Haderslev,2195000 ,16-08-2022,Alm. Salg,191,11492,6,2008,
 510,Villa,Ejsbølvej 35,6100, Haderslev,925000 ,15-08-2022,Alm. Salg,108,8565,4,1959,-7%
@@ -239,7 +232,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Rækkehus,Birkevænget 41,6541, Bevtoft,775000 ,10-08-2022,Alm. Salg,117,6624,4,1982,
 510,Ejerlejlighed,"Aastrupvej 52, 2",6100, Haderslev,840000 ,10-08-2022,Alm. Salg,92,9130,2,1913,-11%
 510,Villa,Fuglebakkevej 10,6100, Haderslev,1050000 ,10-08-2022,Alm. Salg,140,7500,6,1954,-12%
-510,Rækkehus,Landgangen 2,6100, Haderslev,2475000 ,09-08-2022,Alm. Salg,159,15566,5,2008,-5%
 510,Villa,P.A. Madvigs Vej 30,6100, Haderslev,1400000 ,09-08-2022,Alm. Salg,106,13208,4,1930,-6%
 510,Villa,Øsby Møllebjerg 14,6100, Haderslev,545000 ,09-08-2022,Alm. Salg,170,3206,5,1964,
 510,Villa,Vesterrisvej 12,6100, Haderslev,1310000 ,09-08-2022,Alm. Salg,107,12243,5,1985,
@@ -296,7 +288,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Rækkehus,Odinsvej 241,6500, Vojens,925000 ,07-07-2022,Alm. Salg,104,8894,3,1979,-6%
 510,Villa,Marstrup Kirkevej 84,6100, Haderslev,320370 ,07-07-2022,Alm. Salg,140,2288,6,1966,
 510,Villa,Ustrupvej 22,6500, Vojens,1400000 ,07-07-2022,Alm. Salg,151,9272,5,1973,
-510,Villa,Kongevej 18,6100, Haderslev,2350000 ,07-07-2022,Alm. Salg,145,16207,6,1929,-6%
 510,Villa,Løvsangervej 5,6500, Vojens,1200000 ,05-07-2022,Alm. Salg,163,7362,4,1977,-7%
 510,Rækkehus,Parkvej 47,6100, Haderslev,1450000 ,04-07-2022,Fam. Salg,155,9355,6,1963,
 510,Villa,Marstrup Bygade 166,6100, Haderslev,600000 ,04-07-2022,Fam. Salg,176,3409,5,1890,
@@ -336,7 +327,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Rosenvænget 55,6100, Haderslev,1325000 ,15-06-2022,Alm. Salg,140,9464,4,1973,-11%
 510,Ejerlejlighed,"Teaterstien 19, 4. 29",6100, Haderslev,1000000 ,13-06-2022,Alm. Salg,88,11364,3,1962,
 510,Villa,Vestre Byvej 13,6500, Vojens,575000 ,13-06-2022,Alm. Salg,120,4792,4,1963,-3%
-510,Villa,Ravnstoft 7,6100, Haderslev,2895000 ,13-06-2022,Alm. Salg,178,16264,5,2006,
 510,Villa,Vilstrupvej 12,6100, Haderslev,750000 ,13-06-2022,Alm. Salg,106,7075,4,1976,
 510,Villa,Nederbyvænget 368,6100, Haderslev,1945000 ,12-06-2022,Alm. Salg,135,14407,4,1986,-3%
 510,Villa,Dyssebakken 155,6500, Vojens,2750000 ,10-06-2022,Alm. Salg,194,14175,7,2009,
@@ -350,7 +340,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Kelstrup Bygade 37,6100, Haderslev,250000 ,08-06-2022,Alm. Salg,189,1323,4,1777,
 510,Villa,Kelstrup Bygade 50,6100, Haderslev,995000 ,07-06-2022,Alm. Salg,100,9950,4,1965,
 510,Villa,Hjerndrup Landevej 64,6070, Christiansfeld,953820 ,06-06-2022,Alm. Salg,225,4239,7,1840,
-510,Villa,Rosenbakken 14,6100, Haderslev,2195000 ,06-06-2022,Alm. Salg,136,16140,5,1974,
 510,Villa,Bakkevej 19,6560, Sommersted,875000 ,06-06-2022,Alm. Salg,125,7000,3,1969,-2%
 510,Villa,Ærøvej 129,6100, Haderslev,1650000 ,05-06-2022,Alm. Salg,151,10927,7,1976,
 510,Villa,Boskovvej 9,6100, Haderslev,1100000 ,05-06-2022,Alm. Salg,180,6111,5,1976,
@@ -476,28 +465,21 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Rækkehus,Skjoldsvænge 48,6500, Vojens,620000 ,03-04-2022,Alm. Salg,122,5082,4,1976,-8%
 510,Villa,Vester Lindetvej 15,6510, Gram,380000 ,03-04-2022,Andet,126,3016,3,1959,
 510,Villa,Farrisvej 4,6560, Sommersted,370000 ,03-04-2022,Alm. Salg,126,2937,4,1955,-6%
-510,Rækkehus,Kroghs Kobbel 11,6100, Haderslev,1725000 ,02-04-2022,Alm. Salg,106,16274,4,1964,2%
-510,Villa,Østergade 43A,6510, Gram,475000 ,02-04-2022,Alm. Salg,159,2987,5,1974,
 510,Villa,Engkær 17,6100, Haderslev,950000 ,31-03-2022,Alm. Salg,129,7364,6,1950,
 510,Villa,Lindøvej 115,6100, Haderslev,1595000 ,31-03-2022,Alm. Salg,127,12559,4,1988,
 510,Villa,Hjartbrovej 3,6541, Bevtoft,745000 ,31-03-2022,Alm. Salg,124,6008,4,1967,
 510,Villa,Gammel Bevtoftvej 1,6500, Vojens,775000 ,31-03-2022,Alm. Salg,257,3016,8,1969,-3%
 510,Villa,Birkevej 13,6100, Haderslev,975000 ,31-03-2022,Alm. Salg,79,12342,3,1957,
-510,Ejerlejlighed,"Gammelbrovej 70, st. th",6100, Haderslev,275000 ,30-03-2022,Alm. Salg,173,1590,6,1986,
-510,Villa,Gammelbrovej 80A,6100, Haderslev,275000 ,30-03-2022,Alm. Salg,130,2115,5,1872,
 510,Villa,Tørning Banke 5,6500, Vojens,1800000 ,29-03-2022,Alm. Salg,170,10588,5,2001,-5%
 510,Villa,Østerled 5,6510, Gram,1095000 ,29-03-2022,Alm. Salg,122,8975,4,1940,
 510,Villa,Lyøvej 53,6100, Haderslev,1445000 ,29-03-2022,Alm. Salg,152,9507,5,1975,
 510,Villa,Krügersvej 68,6541, Bevtoft,310000 ,29-03-2022,Alm. Salg,150,2067,3,1940,
-510,Villa,Fuglebakkevej 1,6100, Haderslev,1570000 ,29-03-2022,Alm. Salg,98,16020,4,1957,-7%
 510,Villa,Småkærvej 23,6100, Haderslev,600000 ,29-03-2022,Alm. Salg,199,3015,6,1942,
 510,Villa,Starup Engvej 16,6100, Haderslev,1125000 ,28-03-2022,Alm. Salg,125,9000,4,1965,-5%
 510,Villa,H.C. Andersens Vej 5,6100, Haderslev,1800000 ,28-03-2022,Alm. Salg,157,11465,5,1969,0%
 510,Villa,Bramdrup Bygade 53,6100, Haderslev,550000 ,28-03-2022,Alm. Salg,150,3667,5,1800,-4%
 510,Villa,Kærtoft 6,6100, Haderslev,1199000 ,28-03-2022,Alm. Salg,152,7888,6,1979,3%
 510,Rækkehus,Øsbygade 68A,6100, Haderslev,1295000 ,27-03-2022,Alm. Salg,94,13777,3,2011,
-510,Rækkehus,"Lauesgårdsvej 11, st. th",6100, Haderslev,365000 ,27-03-2022,Alm. Salg,90,4056,3,1855,
-510,Villa,Havvejen 56,6100, Haderslev,365000 ,27-03-2022,Alm. Salg,112,3259,5,1917,
 510,Villa,Nygårdsvej 1,6500, Vojens,680000 ,27-03-2022,Alm. Salg,108,6296,4,1945,-2%
 510,Villa,Gabøl Byvej 20,6500, Vojens,1050000 ,27-03-2022,Alm. Salg,247,4251,8,1914,
 510,Villa,Vibevej 15,6500, Vojens,945000 ,27-03-2022,Alm. Salg,152,6217,5,1973,
@@ -593,7 +575,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Grønningen 26,6100, Haderslev,1940000 ,10-02-2022,Alm. Salg,130,13957,7,1949,-11%
 510,Villa,Ringvej 28,6500, Vojens,830000 ,10-02-2022,Alm. Salg,121,6860,4,1842,-2%
 510,Villa,Strandelhjørn Bygade 22,6500, Vojens,250000 ,10-02-2022,Alm. Salg,139,1799,4,1900,
-510,Villa,Ærøvej 21,6100, Haderslev,2305000 ,09-02-2022,Alm. Salg,146,15788,4,1976,-4%
 510,Villa,Møllevej 42,6500, Vojens,585862 ,09-02-2022,Auktion,176,3329,4,1955,
 510,Villa,Elmevej 5,6100, Haderslev,1150000 ,09-02-2022,Alm. Salg,182,6319,7,1935,-4%
 510,Villa,Folevej 48,6510, Gram,500000 ,07-02-2022,Alm. Salg,165,3030,3,1908,-9%
@@ -616,13 +597,11 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Siøvej 1,6100, Haderslev,1350000 ,31-01-2022,Alm. Salg,130,10385,5,1979,-3%
 510,Villa,Hajstrupgade 69,6100, Haderslev,1000000 ,31-01-2022,Alm. Salg,200,5000,11,1847,-11%
 510,Villa,Skovbyvej 33,6500, Vojens,350000 ,27-01-2022,Alm. Salg,71,4930,3,1852,
-510,Villa,Langelandsvej 99,6100, Haderslev,2180000 ,27-01-2022,Alm. Salg,136,16029,5,2007,-4%
 510,Rækkehus,Kroghs Kobbel 73,6100, Haderslev,1100000 ,26-01-2022,Alm. Salg,107,10280,4,1970,-15%
 510,Villa,Øsbygade 85,6100, Haderslev,975000 ,26-01-2022,Alm. Salg,311,3135,6,1938,-11%
 510,Villa,Jeppe Aakjærs Vej 5,6100, Haderslev,1645000 ,26-01-2022,Alm. Salg,170,9676,6,1970,
 510,Villa,Chr. Andersens Vej 2,6510, Gram,840000 ,25-01-2022,Alm. Salg,126,6667,4,1971,
 510,Villa,Hægersgade 10,6100, Haderslev,1185000 ,23-01-2022,Alm. Salg,91,13022,4,1860,-11%
-510,Villa,Vendekobbel 35,6100, Haderslev,2745000 ,23-01-2022,Alm. Salg,172,15959,8,1953,
 510,Villa,Grønlandsvej 60,6100, Haderslev,1830000 ,21-01-2022,Alm. Salg,140,13071,4,1972,
 510,Rækkehus,Odinsvej 215,6500, Vojens,795000 ,20-01-2022,Alm. Salg,104,7644,4,1978,-6%
 510,Villa,Skrågyde 17,6100, Haderslev,620000 ,20-01-2022,Alm. Salg,94,6596,4,1962,-11%
@@ -654,7 +633,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Abkærvej 6,6500, Vojens,350000 ,05-01-2022,Alm. Salg,95,3684,4,1936,
 510,Villa,Moltrup Bygade 60,6100, Haderslev,100530 ,04-01-2022,Alm. Salg,172,584,5,2023,
 510,Villa,Vibevej 11B,6500, Vojens,840000 ,03-01-2022,Alm. Salg,156,5385,5,1980,-6%
-510,Villa,Aarø 205B,6100, Haderslev,275000 ,03-01-2022,Alm. Salg,236,1165,8,1929,
 510,Villa,Solsortevej 5,6100, Haderslev,2550000 ,03-01-2022,Alm. Salg,200,12750,8,1950,-4%
 510,Villa,Ejsbølsvinget 42,6100, Haderslev,1500000 ,03-01-2022,Alm. Salg,197,7614,6,2022,
 510,Villa,Fjelstrup Nørrevej 55,6100, Haderslev,720000 ,01-01-2022,Alm. Salg,140,5143,5,1942,-8%
@@ -671,7 +649,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Spurvevej 14,6500, Vojens,880000 ,22-12-2021,Alm. Salg,145,6069,5,1968,-2%
 510,Villa,Overgade 11,6500, Vojens,850000 ,22-12-2021,Alm. Salg,202,4208,6,1875,-5%
 510,Villa,Postvænget 13,6510, Gram,1545000 ,22-12-2021,Alm. Salg,175,8829,6,1970,
-510,Villa,Diernæsvej 11A,6100, Haderslev,3050000 ,22-12-2021,Alm. Salg,196,15561,5,2007,-7%
 510,Villa,Vinkelvej 7,6510, Gram,440000 ,22-12-2021,Alm. Salg,96,4583,4,1968,-7%
 510,Villa,Bygmarksvej 40,6500, Vojens,375000 ,21-12-2021,Alm. Salg,116,3233,4,1965,-5%
 510,Villa,Tjørnebakken 35,6510, Gram,650000 ,21-12-2021,Alm. Salg,124,5242,4,1975,
@@ -684,11 +661,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Sjællandsgade 6,6500, Vojens,687500 ,16-12-2021,Andet,125,5500,6,1952,
 510,Villa,Åbenråvej 4,6510, Gram,400000 ,16-12-2021,Alm. Salg,83,4819,3,1900,
 510,Villa,Eskærhøjvej 41D,6100, Haderslev,1545000 ,16-12-2021,Alm. Salg,154,10032,5,1974,-3%
-510,Ejerlejlighed,"Gammelbrovej 70, st. th",6100, Haderslev,50000 ,15-12-2021,Fam. Salg,173,289,6,1986,
 510,Villa,Hovedgaden Vest 93,6500, Vojens,600000 ,15-12-2021,Alm. Salg,187,3209,6,1903,
 510,Villa,Søvang 14,6100, Haderslev,715000 ,15-12-2021,Andet,136,5257,5,1973,
 510,Villa,Aarø 201,6100, Haderslev,595000 ,15-12-2021,Alm. Salg,145,4103,4,1928,-5%
-510,Villa,Gammelbrovej 80A,6100, Haderslev,50000 ,15-12-2021,Fam. Salg,130,385,5,1872,
 510,Rækkehus,Hjerndrupvej 126,6070, Christiansfeld,588022 ,14-12-2021,Alm. Salg,205,2868,4,1905,-54%
 510,Villa,Jernhytvej 25,6500, Vojens,475000 ,14-12-2021,Alm. Salg,92,5163,3,1960,-4%
 510,Villa,Skolekobbel 3,6510, Gram,525000 ,14-12-2021,Alm. Salg,84,6250,3,1962,
@@ -706,7 +681,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Solbærvej 7,6500, Vojens,464595 ,06-12-2021,Alm. Salg,135,3441,4,1970,
 510,Ejerlejlighed,"Skibbrogade 33, 1",6100, Haderslev,1150000 ,05-12-2021,Alm. Salg,111,10360,3,1910,-8%
 510,Villa,Østerled 13A,6510, Gram,660000 ,05-12-2021,Alm. Salg,122,5410,4,1979,-5%
-510,Villa,Storegade 160,6560, Sommersted,250000 ,04-12-2021,Alm. Salg,250,1000,8,1902,
 510,Rækkehus,Thrigesvej 114,6100, Haderslev,1235000 ,02-12-2021,Alm. Salg,121,10207,4,1975,-8%
 510,Villa,Langelandsvej 59,6100, Haderslev,2950000 ,02-12-2021,Alm. Salg,214,13785,6,2005,-5%
 510,Villa,Ærøvej 77,6100, Haderslev,1010000 ,01-12-2021,Alm. Salg,134,7537,4,1974,-8%
@@ -783,7 +757,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Løvsangervej 9,6500, Vojens,1045000 ,29-10-2021,Alm. Salg,166,6295,3,1978,5%
 510,Villa,Høgelundvej 8,6500, Vojens,530000 ,28-10-2021,Alm. Salg,117,4530,4,1961,-1%
 510,Villa,Tovskovvej 68,6560, Sommersted,395000 ,28-10-2021,Alm. Salg,79,5000,3,1955,
-510,Villa,Ryes Møllevej 10,6100, Haderslev,2975000 ,28-10-2021,Alm. Salg,187,15909,8,1930,-5%
 510,Villa,Holtvej 2,6510, Gram,1035000 ,28-10-2021,Alm. Salg,179,5782,5,1900,-5%
 510,Villa,Engkær 18,6500, Vojens,600000 ,27-10-2021,Alm. Salg,140,4286,5,1971,-14%
 510,Villa,Mågevej 7,6500, Vojens,700000 ,27-10-2021,Alm. Salg,117,5983,4,1967,-20%
@@ -796,7 +769,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Blæsbjerg 4,6510, Gram,715000 ,21-10-2021,Alm. Salg,102,7010,5,1967,-8%
 510,Villa,Kløvervej 6,6500, Vojens,825000 ,21-10-2021,Alm. Salg,78,10577,3,1956,-2%
 510,Villa,Hjartbro Byvej 4,6541, Bevtoft,385000 ,20-10-2021,Alm. Salg,102,3775,4,1957,-9%
-510,Villa,Ny Erlevvej 24,6100, Haderslev,4070000 ,20-10-2021,Alm. Salg,255,15961,7,1946,-3%
 510,Villa,Eskærhøjvej 30,6100, Haderslev,845000 ,20-10-2021,Alm. Salg,116,7284,4,1963,-15%
 510,Villa,Sillerup Møllevej 55,6100, Haderslev,1845000 ,19-10-2021,Alm. Salg,232,7953,11,1970,
 510,Villa,Vojensvej 6,6500, Vojens,275000 ,19-10-2021,Fam. Salg,115,2391,3,1957,
@@ -838,12 +810,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Dyssebakken 37,6500, Vojens,1200000 ,01-10-2021,Alm. Salg,142,8451,5,1999,
 510,Villa,Odinsvej 25,6500, Vojens,1965000 ,01-10-2021,Alm. Salg,210,9357,5,1972,
 510,Ejerlejlighed,"Storegade 28, 1",6100, Haderslev,1092244 ,30-09-2021,Alm. Salg,90,12136,2,1914,
-510,Ejerlejlighed,"Gammelbrovej 70, st. th",6100, Haderslev,183600 ,30-09-2021,Fam. Salg,173,1061,6,1986,
 510,Villa,Simmersted Byvej 26,6500, Vojens,405000 ,30-09-2021,Fam. Salg,134,3022,8,1900,
 510,Villa,Lyngvej 10,6500, Vojens,800000 ,30-09-2021,Alm. Salg,166,4819,5,1964,-5%
-510,Villa,Vestergade 18,6500, Vojens,1800000 ,30-09-2021,Alm. Salg,262,6870,7,1970,
 510,Villa,Nørre Vilstrup Bygade 14,6100, Haderslev,900000 ,30-09-2021,Alm. Salg,123,7317,4,1978,-10%
-510,Villa,Gammelbrovej 80A,6100, Haderslev,183600 ,30-09-2021,Fam. Salg,130,1412,5,1872,
 510,Rækkehus,Havrevænget 17,6100, Haderslev,1980000 ,29-09-2021,Alm. Salg,130,15231,4,1972,-1%
 510,Villa,Vibevej 9,6500, Vojens,1299000 ,29-09-2021,Alm. Salg,186,6984,6,1972,
 510,Villa,Lertevej 12,6560, Sommersted,750000 ,29-09-2021,Fam. Salg,181,4144,5,1977,
@@ -948,7 +917,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Drejøvej 10,6100, Haderslev,559628 ,23-08-2021,Andet,142,3941,5,1975,
 510,Villa,Rosenbakken 63,6100, Haderslev,2600000 ,22-08-2021,Alm. Salg,196,13265,7,1976,-4%
 510,Villa,Tjellesen Schmidts Vej 2,6510, Gram,545000 ,22-08-2021,Alm. Salg,125,4360,5,1979,
-510,Villa,Aarø 205B,6100, Haderslev,1050000 ,22-08-2021,Alm. Salg,236,4449,8,1929,-5%
 510,Villa,Hoptrup Hovedgade 69,6100, Haderslev,400000 ,22-08-2021,Alm. Salg,70,5714,2,1900,
 510,Villa,Fælledvej 1,6500, Vojens,1935000 ,19-08-2021,Alm. Salg,203,9532,5,2022,
 510,Villa,Marstrupvej 10,6500, Vojens,945000 ,19-08-2021,Alm. Salg,141,6702,4,1945,-5%
@@ -1039,7 +1007,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Hejsagervej 89,6100, Haderslev,395000 ,07-07-2021,Alm. Salg,149,2651,6,1950,
 510,Villa,Sølvgade 19,6560, Sommersted,703872 ,07-07-2021,Fam. Salg,161,4372,5,1926,
 510,Villa,Diernæsvej 24,6100, Haderslev,450000 ,07-07-2021,Alm. Salg,130,3462,6,1880,
-510,Villa,Østerskovvej 47,6100, Haderslev,5650000 ,06-07-2021,Alm. Salg,349,16189,7,1770,-10%
 510,Villa,Topmejsevej 14,6500, Vojens,1000000 ,06-07-2021,Alm. Salg,130,7692,4,1973,-5%
 510,Villa,Højgade 6,6500, Vojens,525000 ,05-07-2021,Alm. Salg,200,2625,9,1937,
 510,Villa,Vestergade 16,6510, Gram,210000 ,05-07-2021,Alm. Salg,115,1826,5,1900,
@@ -1059,7 +1026,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Humlevænget 20,6100, Haderslev,1125000 ,27-06-2021,Alm. Salg,125,9000,6,1948,
 510,Villa,Grønnevang 25,6560, Sommersted,263500 ,27-06-2021,Alm. Salg,111,2374,4,1935,
 510,Villa,Hammelev Bygade 42,6500, Vojens,1385000 ,27-06-2021,Alm. Salg,182,7610,5,1920,-4%
-510,Villa,Friggsvej 5,6100, Haderslev,2600000 ,25-06-2021,Alm. Salg,167,15569,7,1999,-2%
 510,Villa,Birkevej 41,6100, Haderslev,1685000 ,25-06-2021,Alm. Salg,113,14912,3,1951,
 510,Villa,Hyrupvej 2,6541, Bevtoft,480000 ,24-06-2021,Alm. Salg,116,4138,4,1965,-3%
 510,Villa,Højvej 7,6510, Gram,975000 ,24-06-2021,Alm. Salg,288,3385,7,1972,-2%
@@ -1073,7 +1039,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Høgelundvej 15,6500, Vojens,1285000 ,22-06-2021,Alm. Salg,136,9449,4,1973,
 510,Villa,Feldumvej 72,6100, Haderslev,120000 ,21-06-2021,Alm. Salg,136,882,5,1827,
 510,Villa,Ærøvej 127,6100, Haderslev,2425000 ,21-06-2021,Alm. Salg,199,12186,6,1975,
-510,Villa,Aastrupvej 27,6100, Haderslev,5500000 ,21-06-2021,Alm. Salg,345,15942,11,1924,
 510,Villa,Gyvelvej 4,6500, Vojens,595000 ,20-06-2021,Alm. Salg,136,4375,4,1964,
 510,Villa,Kestrupvej 3,6500, Vojens,520000 ,20-06-2021,Alm. Salg,122,4262,5,1900,-1%
 510,Villa,Gammel Christiansfeldvej 84,6100, Haderslev,930000 ,20-06-2021,Alm. Salg,76,12237,3,1957,
@@ -1105,7 +1070,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Fjellumvej 4,6500, Vojens,250000 ,10-06-2021,Alm. Salg,195,1282,6,1938,
 510,Villa,Diernæs Strandvej 31,6100, Haderslev,620000 ,10-06-2021,Alm. Salg,96,6458,3,1959,-4%
 510,Villa,Benediktevej 8,6500, Vojens,1595000 ,10-06-2021,Alm. Salg,152,10493,5,1962,
-510,Rækkehus,Klosteret 4A,6100, Haderslev,1530000 ,09-06-2021,Alm. Salg,97,15773,4,1750,
 510,Villa,Rosenbakken 39,6100, Haderslev,1765000 ,07-06-2021,Alm. Salg,161,10963,5,1974,
 510,Villa,Bræråvej 29,6100, Haderslev,4100000 ,07-06-2021,Alm. Salg,290,14138,6,1939,-4%
 510,Villa,Boskovvej 49,6100, Haderslev,280000 ,06-06-2021,Fam. Salg,168,1667,5,1978,
@@ -1122,10 +1086,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Langelandsvej 53,6100, Haderslev,1670000 ,31-05-2021,Alm. Salg,130,12846,4,1979,-1%
 510,Ejerlejlighed,"Slotsgade 7, st. tv",6100, Haderslev,785000 ,30-05-2021,Alm. Salg,74,10608,2,1981,-2%
 510,Ejerlejlighed,"Mariegade 16, 1. th",6100, Haderslev,930000 ,30-05-2021,Alm. Salg,76,12237,2,1898,-7%
-510,Villa,Ægirsvej 3,6100, Haderslev,3200000 ,30-05-2021,Alm. Salg,205,15610,6,2001,-4%
 510,Villa,Hørløkkevej 9,6500, Vojens,625000 ,30-05-2021,Alm. Salg,161,3882,5,1960,
 510,Villa,Digevej 4,6100, Haderslev,550000 ,30-05-2021,Alm. Salg,162,3395,6,2022,
-510,Villa,Egevej 10,6100, Haderslev,2945000 ,29-05-2021,Alm. Salg,185,15919,6,1951,-2%
 510,Rækkehus,Slagtergade 28,6100, Haderslev,1995000 ,27-05-2021,Alm. Salg,154,12955,6,1857,
 510,Villa,Skyttevej 10,6510, Gram,500000 ,27-05-2021,Alm. Salg,146,3425,5,1954,-8%
 510,Villa,Grønningen 5,6100, Haderslev,362500 ,27-05-2021,Alm. Salg,153,2369,6,1949,
@@ -1180,7 +1142,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Åvej 42,6510, Gram,440000 ,06-05-2021,Alm. Salg,120,3667,4,1963,
 510,Villa,Ejsbølvej 1A,6100, Haderslev,3000000 ,06-05-2021,Alm. Salg,195,15385,5,1963,-5%
 510,Villa,Nederbyvænget 292,6100, Haderslev,1695000 ,05-05-2021,Alm. Salg,143,11853,5,1987,
-510,Villa,Rosenvænget 12,6100, Haderslev,1995000 ,05-05-2021,Alm. Salg,123,16220,5,1975,
 510,Villa,Aastrupvej 31,6100, Haderslev,4400000 ,05-05-2021,Alm. Salg,398,11055,9,1908,-12%
 510,Villa,Elmegade 6,6500, Vojens,1600000 ,05-05-2021,Alm. Salg,197,8122,6,1966,-3%
 510,Villa,Postvænget 8,6510, Gram,642500 ,05-05-2021,Alm. Salg,158,4066,4,1973,-8%
@@ -1209,7 +1170,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Ørbyhage 25,6100, Haderslev,1020000 ,26-04-2021,Fam. Salg,189,5397,6,1860,
 510,Villa,Kløvervænget 7,6100, Haderslev,1900000 ,26-04-2021,Alm. Salg,148,12838,4,1973,-4%
 510,Villa,Kærvej 9,6560, Sommersted,495000 ,26-04-2021,Alm. Salg,128,3867,4,1970,
-510,Villa,Norgesvej 6D,6100, Haderslev,2100000 ,26-04-2021,Alm. Salg,133,15789,5,1976,
 510,Villa,Mølbyvej 2,6560, Sommersted,80000 ,25-04-2021,Alm. Salg,169,473,4,1877,
 510,Villa,Aastrupvej 72,6100, Haderslev,2950000 ,25-04-2021,Alm. Salg,225,13111,8,1908,-2%
 510,Villa,Violvej 10,6500, Vojens,550000 ,25-04-2021,Alm. Salg,139,3957,4,1975,
@@ -1292,7 +1252,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Hajstrupgade 23,6100, Haderslev,25000 ,29-03-2021,Alm. Salg,103,243,3,1877,-95%
 510,Villa,Eskærhøjvej 34,6100, Haderslev,1700000 ,29-03-2021,Alm. Salg,163,10429,6,1962,-15%
 510,Rækkehus,Elmegade 23E,6500, Vojens,550000 ,28-03-2021,Alm. Salg,82,6707,3,1988,1%
-510,Ejerlejlighed,Aastrupvej 65X,6100, Haderslev,1845000 ,28-03-2021,Alm. Salg,116,15905,4,2005,
 510,Villa,Siøvej 21,6100, Haderslev,2050000 ,28-03-2021,Alm. Salg,138,14855,6,1980,
 510,Villa,Tjørnebakken 27,6100, Haderslev,3995000 ,28-03-2021,Alm. Salg,305,13098,5,1967,
 510,Villa,Søvang 52,6100, Haderslev,795000 ,28-03-2021,Alm. Salg,168,4732,4,1970,-15%
@@ -1355,7 +1314,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Halkvej 116,6100, Haderslev,1295000 ,07-03-2021,Alm. Salg,279,4642,8,1870,
 510,Villa,Vilstrup Bysving 36,6100, Haderslev,313000 ,07-03-2021,Auktion,244,1142,7,1931,
 510,Villa,Baldersager 9,6500, Vojens,895000 ,07-03-2021,Alm. Salg,153,5850,5,1971,-10%
-510,Villa,Fælledvej 10,6100, Haderslev,1845000 ,07-03-2021,Alm. Salg,115,16043,5,1951,
 510,Rækkehus,Nederbyvænget 87,6100, Haderslev,1300000 ,04-03-2021,Alm. Salg,144,9028,5,1982,-3%
 510,Villa,Bjergvang 4,6500, Vojens,410000 ,04-03-2021,Alm. Salg,111,3694,3,1970,-9%
 510,Villa,Fjordglimt 21,6100, Haderslev,2800000 ,04-03-2021,Alm. Salg,181,15470,6,1979,-3%
@@ -1564,7 +1522,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Nørremarksvej 1E,6510, Gram,300000 ,12-12-2020,Alm. Salg,105,2857,4,1969,
 510,Villa,Fjelstrup Nørrevej 20,6100, Haderslev,1320000 ,10-12-2020,Alm. Salg,257,5136,4,1880,-2%
 510,Villa,Flyevej 5,6510, Gram,950000 ,10-12-2020,Alm. Salg,163,5828,6,1979,-5%
-510,Villa,Brombærvej 14,6100, Haderslev,1325000 ,10-12-2020,Alm. Salg,85,15588,4,1928,-4%
 510,Villa,Ribe Landevej 135,6100, Haderslev,1835000 ,10-12-2020,Alm. Salg,216,8495,9,1939,-3%
 510,Villa,Sandtoften 3,6100, Haderslev,271000 ,10-12-2020,Alm. Salg,151,1795,6,2021,-8%
 510,Rækkehus,Kløvervej 15,6500, Vojens,461756 ,09-12-2020,Fam. Salg,103,4483,4,1958,
@@ -1612,7 +1569,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Rolighedsvej 21,6510, Gram,391900 ,24-11-2020,Fam. Salg,175,2239,8,1928,
 510,Villa,Lærkevej 6,6510, Gram,255900 ,24-11-2020,Fam. Salg,127,2015,4,1974,
 510,Villa,Harken 6,6500, Vojens,200000 ,24-11-2020,Alm. Salg,78,2564,3,1954,-33%
-510,Villa,Sundparken 59,6100, Haderslev,2800000 ,24-11-2020,Alm. Salg,180,15556,5,1971,
 510,Ejerlejlighed,"Christiansfeldvej 29, 2",6100, Haderslev,800000 ,23-11-2020,Alm. Salg,86,9302,2,1939,-11%
 510,Villa,Dronning Alexandrines Vej 2A,6100, Haderslev,1625000 ,23-11-2020,Alm. Salg,160,10156,4,1964,-4%
 510,Villa,Hjerndrupvej 166,6070, Christiansfeld,450000 ,23-11-2020,Alm. Salg,133,3383,5,1911,
@@ -1642,7 +1598,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Nautrup 2,6100, Haderslev,2300000 ,15-11-2020,Alm. Salg,176,13068,5,1943,-8%
 510,Rækkehus,Ejsbølvej 33A,6100, Haderslev,1165125 ,14-11-2020,Fam. Salg,110,10592,3,2007,
 510,Villa,Ørstedvej 19,6560, Sommersted,80000 ,14-11-2020,Alm. Salg,60,1333,3,1877,
-510,Rækkehus,Simmerstedvej 89,6100, Haderslev,1700000 ,13-11-2020,Alm. Salg,107,15888,4,1949,-1%
 510,Villa,Sønderskovvej 2,6500, Vojens,600000 ,13-11-2020,Alm. Salg,220,2727,5,2022,
 510,Villa,Åvej 9,6560, Sommersted,295000 ,13-11-2020,Alm. Salg,92,3207,5,1956,
 510,Villa,Gammel Kabdrupvej 1,6100, Haderslev,795000 ,12-11-2020,Alm. Salg,108,7361,4,1877,
@@ -1683,7 +1638,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Ejsbølsvinget 24,6100, Haderslev,800000 ,02-11-2020,Alm. Salg,191,4188,6,2022,
 510,Villa,Ny Allegade 12,6100, Haderslev,1366000 ,01-11-2020,Alm. Salg,222,6153,6,1930,
 510,Villa,Niels Juhlers Toft 14,6500, Vojens,450000 ,01-11-2020,Alm. Salg,150,3000,5,1958,-17%
-510,Villa,Langelandsvej 66,6100, Haderslev,2395000 ,01-11-2020,Alm. Salg,153,15654,6,2007,
 510,Villa,Havvejen 31,6100, Haderslev,865000 ,30-10-2020,Alm. Salg,128,6758,4,1986,
 510,Rækkehus,Badstuegade 7,6100, Haderslev,1245000 ,29-10-2020,Alm. Salg,148,8412,5,1800,-17%
 510,Villa,Over Jerstalvej 58,6500, Vojens,395000 ,29-10-2020,Alm. Salg,154,2565,4,1943,
@@ -1701,7 +1655,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Hammelev Bygade 12A,6500, Vojens,1100000 ,27-10-2020,Alm. Salg,142,7746,4,1987,-8%
 510,Villa,Kløvervej 60,6100, Haderslev,1045000 ,27-10-2020,Alm. Salg,169,6183,6,1961,-9%
 510,Villa,Klokkedal 13,6100, Haderslev,586500 ,27-10-2020,Fam. Salg,112,5237,4,1972,
-510,Villa,Langelandsvej 74,6100, Haderslev,2585000 ,27-10-2020,Alm. Salg,159,16258,5,2007,-4%
 510,Villa,Hoptrup Hovedgade 50,6100, Haderslev,485000 ,26-10-2020,Alm. Salg,97,5000,4,1939,
 510,Villa,Sverdrupvej 25,6100, Haderslev,410000 ,22-10-2020,Alm. Salg,198,2071,6,1913,-14%
 510,Villa,Neder Jerstalvej 6,6541, Bevtoft,350000 ,22-10-2020,Alm. Salg,129,2713,5,1925,
@@ -1750,15 +1703,11 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Tværvej 2,6510, Gram,965000 ,06-10-2020,Alm. Salg,206,4684,6,1964,-3%
 510,Ejerlejlighed,"Naffet 32, 1",6100, Haderslev,750000 ,05-10-2020,Alm. Salg,91,8242,3,1840,
 510,Villa,Søtoften 13,6100, Haderslev,935000 ,05-10-2020,Alm. Salg,150,6233,5,1972,-6%
-510,Villa,Store Klingbjerg 7,6100, Haderslev,3350000 ,05-10-2020,Alm. Salg,211,15877,7,1700,
 510,Villa,Sundparken 74,6100, Haderslev,1263000 ,04-10-2020,Andet,227,5564,7,1987,
 510,Villa,Østergyden 1,6560, Sommersted,98321 ,04-10-2020,Auktion,128,768,4,1877,
-510,Rækkehus,Vilstrup Bysving 8A,6100, Haderslev,750000 ,30-09-2020,Alm. Salg,86,8721,3,1964,-25%
-510,Ejerlejlighed,Vilstrup Bysving 8B,6100, Haderslev,750000 ,30-09-2020,Alm. Salg,129,5814,3,1910,-25%
 510,Villa,Lyøvej 33,6100, Haderslev,1565000 ,30-09-2020,Alm. Salg,124,12621,4,1976,-2%
 510,Villa,Mejerivej 2,6500, Vojens,475000 ,30-09-2020,Alm. Salg,130,3654,4,1905,
 510,Villa,Aastrupvej 92,6100, Haderslev,550000 ,30-09-2020,Alm. Salg,208,2644,3,1922,
-510,Villa,Sundparken 28,6100, Haderslev,750000 ,30-09-2020,Alm. Salg,156,4808,5,1970,-6%
 510,Villa,Nyvej 34,6100, Haderslev,645000 ,30-09-2020,Alm. Salg,108,5972,4,1926,
 510,Villa,Digevej 22,6100, Haderslev,600000 ,30-09-2020,Alm. Salg,171,3509,5,2021,
 510,Ejerlejlighed,"Vestergade 29A, 1. tv",6100, Haderslev,724500 ,29-09-2020,Fam. Salg,74,9791,2,1875,
@@ -1798,7 +1747,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Kastrupvej 18,6510, Gram,548000 ,21-09-2020,Alm. Salg,176,3114,4,1900,-19%
 510,Villa,Fælledvej 5,6500, Vojens,200000 ,20-09-2020,Alm. Salg,114,1754,5,1942,
 510,Villa,Ribe Landevej 30,6100, Haderslev,1700000 ,20-09-2020,Alm. Salg,204,8333,7,1909,-5%
-510,Villa,Vandlingvej 13,6100, Haderslev,2100000 ,20-09-2020,Alm. Salg,131,16031,4,1953,-4%
 510,Villa,Fælleslykkevej 24,6100, Haderslev,1800000 ,20-09-2020,Alm. Salg,136,13235,5,1970,
 510,Villa,Fjølners Toft 3,6100, Haderslev,600000 ,20-09-2020,Alm. Salg,179,3352,6,2021,
 510,Rækkehus,Kroghs Kobbel 93,6100, Haderslev,1300000 ,18-09-2020,Alm. Salg,106,12264,4,1971,
@@ -1932,7 +1880,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Småkærvej 44,6100, Haderslev,450000 ,26-07-2020,Alm. Salg,112,4018,4,1974,-9%
 510,Villa,Nederbyvænget 422,6100, Haderslev,1745000 ,26-07-2020,Alm. Salg,175,9971,4,1979,-8%
 510,Villa,Tjørnebakken 29,6510, Gram,500000 ,24-07-2020,Alm. Salg,139,3597,5,1974,-8%
-510,Villa,Rosenbakken 76,6100, Haderslev,3225000 ,23-07-2020,Alm. Salg,200,16125,6,1998,-8%
 510,Villa,Parkvej 22,6100, Haderslev,1725000 ,23-07-2020,Alm. Salg,164,10518,5,1968,-8%
 510,Villa,Hovslundvej 6,6100, Haderslev,1675000 ,21-07-2020,Alm. Salg,342,4898,7,1964,
 510,Villa,Torvegade 4,6510, Gram,720000 ,21-07-2020,Alm. Salg,161,4472,5,1908,-9%
@@ -2063,7 +2010,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Vesterled 24,6510, Gram,535000 ,13-06-2020,Alm. Salg,108,4954,4,1967,-7%
 510,Ejerlejlighed,"Slotsgade 7, st. th",6100, Haderslev,705000 ,12-06-2020,Alm. Salg,74,9527,2,1981,
 510,Rækkehus,Søndergade 53,6500, Vojens,535000 ,11-06-2020,Alm. Salg,90,5944,4,1963,-17%
-510,Rækkehus,Eskærhaven 3,6100, Haderslev,1600000 ,11-06-2020,Alm. Salg,99,16162,3,2007,-5%
 510,Villa,Margrethevej 14,6500, Vojens,730000 ,11-06-2020,Alm. Salg,148,4932,4,1961,
 510,Villa,Benediktevej 19,6500, Vojens,670000 ,11-06-2020,Alm. Salg,144,4653,4,1960,-4%
 510,Ejerlejlighed,Kannikepladsen 15,6100, Haderslev,1800000 ,10-06-2020,Alm. Salg,128,14063,3,1900,
@@ -2079,7 +2025,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Lyngvej 11,6500, Vojens,1100000 ,07-06-2020,Alm. Salg,135,8148,4,1964,
 510,Villa,Hans Tausens Vej 1,6100, Haderslev,2050000 ,07-06-2020,Alm. Salg,151,13576,6,1987,-5%
 510,Villa,Hindbærvej 10,6500, Vojens,412500 ,07-06-2020,Andet,207,1993,7,1959,
-510,Villa,Louisevej 51,6100, Haderslev,2415000 ,07-06-2020,Alm. Salg,150,16100,7,1954,-3%
 510,Villa,Skjoldsvænge 94,6500, Vojens,750000 ,06-06-2020,Alm. Salg,150,5000,5,1973,-14%
 510,Villa,Pilumvej 4,6100, Haderslev,750936 ,05-06-2020,Fam. Salg,168,4470,5,2006,
 510,Villa,Lokesager 1,6500, Vojens,1295000 ,04-06-2020,Alm. Salg,129,10039,5,1971,
@@ -2147,9 +2092,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Ejsbølhøj 15,6100, Haderslev,725000 ,05-05-2020,Alm. Salg,178,4073,5,2020,-75%
 510,Villa,Kongevej 89,6100, Haderslev,999000 ,04-05-2020,Alm. Salg,122,8189,5,1960,
 510,Villa,Torntvedvej 7,6510, Gram,2125000 ,04-05-2020,Alm. Salg,190,11184,8,2006,-6%
-510,Rækkehus,Ejsbølsvinget 54,6100, Haderslev,500000 ,03-05-2020,Alm. Salg,122,4098,5,2020,
 510,Villa,Hiort Lorenzens Vej 17,6100, Haderslev,1922500 ,03-05-2020,Alm. Salg,148,12990,5,1935,
-510,Villa,Sandjernet 14,6100, Haderslev,500000 ,03-05-2020,Alm. Salg,228,2193,4,2021,-17%
 510,Rækkehus,Aarøsundvej 82B,6100, Haderslev,800000 ,02-05-2020,Fam. Salg,110,7273,4,2005,
 510,Villa,Peblingegyde 22,6100, Haderslev,50000 ,02-05-2020,Alm. Salg,95,526,3,1880,
 510,Villa,Troldhøj 2E,6100, Haderslev,600000 ,01-05-2020,Fam. Salg,166,3614,5,2018,
@@ -2162,7 +2105,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Lilholtvej 1,6500, Vojens,556500 ,28-04-2020,Alm. Salg,152,3661,4,1961,
 510,Villa,Vesterled 17,6510, Gram,275000 ,28-04-2020,Alm. Salg,115,2391,3,1950,-8%
 510,Villa,Bøgely 18,6100, Haderslev,800000 ,27-04-2020,Alm. Salg,177,4520,6,1954,-59%
-510,Villa,Kongevej 25,6100, Haderslev,1150000 ,27-04-2020,Alm. Salg,72,15972,5,1937,-11%
 510,Villa,Aabenraavej 67,6100, Haderslev,1050000 ,26-04-2020,Alm. Salg,138,7609,6,1949,-9%
 510,Villa,Runebakken 64,6500, Vojens,975000 ,26-04-2020,Alm. Salg,124,7863,4,1979,-2%
 510,Villa,Lundingvej 39,6100, Haderslev,825000 ,26-04-2020,Alm. Salg,110,7500,4,1948,
@@ -2236,7 +2178,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Digevej 20,6100, Haderslev,530000 ,11-03-2020,Alm. Salg,200,2650,7,0,-12%
 510,Villa,Tjørnebakken 58,6100, Haderslev,1940000 ,10-03-2020,Alm. Salg,139,13957,5,1969,-3%
 510,Villa,Lille Bakkevej 4,6100, Haderslev,1475000 ,10-03-2020,Alm. Salg,112,13170,4,1933,
-510,Villa,Clausensvej 8,6100, Haderslev,1480000 ,09-03-2020,Alm. Salg,95,15579,4,1925,-4%
 510,Villa,Ålkærvej 2,6500, Vojens,395000 ,09-03-2020,Alm. Salg,174,2270,5,1930,
 510,Villa,Zeisesvej 21,6100, Haderslev,1400000 ,09-03-2020,Alm. Salg,249,5622,7,1934,-12%
 510,Rækkehus,Nederbyvænget 83,6100, Haderslev,1250000 ,08-03-2020,Alm. Salg,144,8681,5,1982,-10%
@@ -2291,8 +2232,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Kolsnapskovvej 3,6500, Vojens,1500000 ,16-02-2020,Fam. Salg,229,6550,8,1907,
 510,Villa,Frejsager 6,6500, Vojens,625000 ,16-02-2020,Alm. Salg,139,4496,4,1972,-21%
 510,Villa,Østergade 40,6510, Gram,1475000 ,14-02-2020,Alm. Salg,221,6674,9,1948,-5%
-510,Rækkehus,Slagtergade 63B,6100, Haderslev,500000 ,13-02-2020,Alm. Salg,96,5208,4,1900,-33%
-510,Ejerlejlighed,"Slagtergade 63C, 1",6100, Haderslev,500000 ,13-02-2020,Alm. Salg,96,5208,3,1900,-33%
 510,Villa,Ladegårdvej 35,6100, Haderslev,1550000 ,13-02-2020,Alm. Salg,149,10403,4,1951,-9%
 510,Villa,Kalmargårdparken 13,6100, Haderslev,2195000 ,13-02-2020,Alm. Salg,157,13981,5,2013,
 510,Villa,Christiansfeldvej 32,6100, Haderslev,1125000 ,12-02-2020,Alm. Salg,75,15000,3,1958,
@@ -2312,7 +2251,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Solkær 7,6100, Haderslev,1275000 ,09-02-2020,Alm. Salg,208,6130,6,1875,-2%
 510,Villa,Flovt Bygade 55,6100, Haderslev,225100 ,09-02-2020,Auktion,113,1992,5,1873,
 510,Villa,Erlevhøj 59,6100, Haderslev,850000 ,09-02-2020,Alm. Salg,165,5152,5,2020,
-510,Villa,Olaf Ryes Vej 5,6100, Haderslev,2550000 ,07-02-2020,Alm. Salg,164,15549,7,1929,
 510,Ejerlejlighed,Aastrupvej 65R,6100, Haderslev,1700000 ,06-02-2020,Alm. Salg,110,15455,4,2005,-5%
 510,Villa,Bakkevej 8,6560, Sommersted,300000 ,06-02-2020,Alm. Salg,105,2857,4,1967,
 510,Villa,Klirevej 10,6500, Vojens,1555000 ,06-02-2020,Alm. Salg,140,11107,5,2003,-3%
@@ -2325,7 +2263,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Ejsbølhøj 21,6100, Haderslev,725000 ,04-02-2020,Alm. Salg,160,4531,5,2020,
 510,Villa,Kongstedvej 4,6500, Vojens,200000 ,03-02-2020,Alm. Salg,112,1786,4,1964,
 510,Villa,Digevej 16,6100, Haderslev,500000 ,03-02-2020,Alm. Salg,160,3125,6,2022,
-510,Villa,Langstrengvej 26,6100, Haderslev,1995000 ,30-01-2020,Alm. Salg,128,15586,4,1931,
 510,Villa,Sønder Vilstrup Bygade 11,6100, Haderslev,750000 ,30-01-2020,Alm. Salg,170,4412,6,1850,-25%
 510,Villa,Christian Hostrups Vej 5,6100, Haderslev,2330000 ,30-01-2020,Alm. Salg,204,11422,5,1970,-2%
 510,Villa,Rolighedsvej 14,6560, Sommersted,544000 ,30-01-2020,Fam. Salg,120,4533,4,1963,
@@ -2385,7 +2322,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Lysmosen 7,6100, Haderslev,1150000 ,30-12-2019,Alm. Salg,147,7823,5,1967,-8%
 510,Villa,Ærtevej 17,6500, Vojens,449472 ,26-12-2019,Andet,195,2305,5,1981,
 510,Villa,Lærkevej 9,6500, Vojens,625000 ,26-12-2019,Alm. Salg,119,5252,5,1968,-7%
-510,Villa,Hægersgade 2,6100, Haderslev,1475000 ,26-12-2019,Alm. Salg,93,15860,3,1700,-6%
 510,Villa,Bellisvej 4,6500, Vojens,900000 ,22-12-2019,Alm. Salg,138,6522,5,1961,-5%
 510,Villa,Ryes Møllevej 39,6100, Haderslev,1475000 ,22-12-2019,Alm. Salg,118,12500,4,1939,-8%
 510,Villa,Moltrup Bygade 37,6100, Haderslev,1550000 ,22-12-2019,Alm. Salg,122,12705,5,2009,-3%
@@ -2506,7 +2442,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Sønder Vilstrup Bygade 47,6100, Haderslev,1395000 ,16-10-2019,Alm. Salg,124,11250,4,2006,-5%
 510,Villa,Solhøj 8,6100, Haderslev,375000 ,16-10-2019,Alm. Salg,220,1705,6,2021,-24%
 510,Villa,Troldhøj 2H,6100, Haderslev,550000 ,16-10-2019,Alm. Salg,214,2570,5,2022,11%
-510,Villa,Troldhøj 10,6100, Haderslev,2475000 ,16-10-2019,Alm. Salg,154,16071,5,2011,-3%
 510,Villa,Nederbyvænget 200,6100, Haderslev,1300000 ,15-10-2019,Alm. Salg,140,9286,5,1979,-7%
 510,Villa,Hejsager Strandvej 161,6100, Haderslev,2400000 ,15-10-2019,Alm. Salg,198,12121,7,1877,-2%
 510,Villa,Fasanvej 6,6500, Vojens,1200000 ,15-10-2019,Alm. Salg,164,7317,4,1971,-14%
@@ -2525,7 +2460,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Hærvejen 2,6500, Vojens,1795000 ,08-10-2019,Alm. Salg,240,7479,8,2011,
 510,Ejerlejlighed,Borgervænget 16,6100, Haderslev,1000000 ,07-10-2019,Alm. Salg,140,7143,4,1981,
 510,Villa,Fjelstrupvej 19,6100, Haderslev,475000 ,07-10-2019,Alm. Salg,136,3493,5,1877,
-510,Villa,Grønningen 50,6100, Haderslev,1400000 ,07-10-2019,Alm. Salg,90,15556,3,1957,-3%
 510,Villa,Lundingvej 46,6100, Haderslev,850000 ,07-10-2019,Andet,145,5862,5,1953,
 510,Rækkehus,Odinsvej 211,6500, Vojens,425000 ,06-10-2019,Alm. Salg,71,5986,2,1978,
 510,Ejerlejlighed,"Moltrupvej 23, 1",6100, Haderslev,700000 ,06-10-2019,Alm. Salg,88,7955,4,1900,
@@ -2535,7 +2469,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Christiansdalvej 45B,6500, Vojens,1040000 ,03-10-2019,Fam. Salg,152,6842,5,1877,
 510,Villa,Hamisgårdvej 5K,6500, Vojens,2900000 ,03-10-2019,Alm. Salg,220,13182,7,2009,1%
 510,Villa,Storegade 99,6100, Haderslev,250000 ,03-10-2019,Alm. Salg,66,3788,3,1877,-9%
-510,Rækkehus,Slagtergade 19A,6100, Haderslev,144270 ,02-10-2019,Alm. Salg,117,1233,4,1911,
 510,Ejerlejlighed,"Åvej 1, st. tv",6510, Gram,1680000 ,02-10-2019,Alm. Salg,111,15135,4,1964,
 510,Ejerlejlighed,"Gammel Brandvej 4, 2. tv",6100, Haderslev,1265000 ,02-10-2019,Alm. Salg,104,12163,4,1820,-9%
 510,Rækkehus,Klosteret 21A,6100, Haderslev,1311062 ,01-10-2019,Alm. Salg,117,11206,3,2008,
@@ -2760,7 +2693,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Thorsager 7,6500, Vojens,950000 ,10-06-2019,Alm. Salg,150,6333,5,1971,-5%
 510,Villa,Ringgade 4,6500, Vojens,865000 ,10-06-2019,Alm. Salg,164,5274,6,1890,-3%
 510,Villa,Primulavej 14,6100, Haderslev,930000 ,10-06-2019,Alm. Salg,127,7323,3,1972,-11%
-510,Villa,Mariegade 12,6100, Haderslev,2820000 ,10-06-2019,Alm. Salg,180,15667,5,1900,-6%
 510,Villa,Fuglesøvej 12,6500, Vojens,1355000 ,10-06-2019,Alm. Salg,172,7878,5,1964,-3%
 510,Ejerlejlighed,Aastrupvej 65K,6100, Haderslev,1605000 ,06-06-2019,Alm. Salg,118,13602,4,2005,
 510,Villa,Bramdrup Bygade 61,6100, Haderslev,926769 ,06-06-2019,Alm. Salg,187,4956,7,1998,-69%
@@ -2792,7 +2724,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Søvang 46,6100, Haderslev,925000 ,23-05-2019,Alm. Salg,145,6379,5,1969,-7%
 510,Villa,Tørning Banke 3B,6500, Vojens,2410000 ,22-05-2019,Alm. Salg,192,12552,5,2005,-3%
 510,Villa,Hammelev Bygade 10B,6500, Vojens,640000 ,22-05-2019,Fam. Salg,219,2922,4,1975,
-510,Villa,Kløvervej 79,6100, Haderslev,800000 ,21-05-2019,Alm. Salg,165,4848,4,1964,
 510,Ejerlejlighed,"Teaterstien 19, 3. 20",6100, Haderslev,398000 ,20-05-2019,Alm. Salg,57,6982,1,1962,-6%
 510,Villa,Keldetvej 33,6100, Haderslev,1675000 ,20-05-2019,Alm. Salg,173,9682,6,1926,-7%
 510,Ejerlejlighed,"Kongevej 16, 1",6100, Haderslev,820000 ,19-05-2019,Alm. Salg,88,9318,3,1939,-8%
@@ -3067,7 +2998,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Køllesvinget 14,6100, Haderslev,486875 ,21-01-2019,Alm. Salg,187,2604,6,2020,
 510,Villa,Ejsbølsvinget 22,6100, Haderslev,800000 ,21-01-2019,Alm. Salg,171,4678,5,2019,
 510,Villa,Vandlingvej 24,6100, Haderslev,700000 ,20-01-2019,Alm. Salg,120,5833,3,1957,-18%
-510,Ejerlejlighed,"Gammelting 5, st",6100, Haderslev,2400000 ,17-01-2019,Alm. Salg,148,16216,4,1837,-4%
 510,Villa,Bjørnøvej 11,6100, Haderslev,975000 ,16-01-2019,Alm. Salg,163,5982,5,1978,-7%
 510,Villa,Ejsbølhøj 36,6100, Haderslev,625000 ,16-01-2019,Alm. Salg,151,4139,5,2019,
 510,Rækkehus,Staruphave 7,6100, Haderslev,925000 ,14-01-2019,Alm. Salg,100,9250,4,1989,-7%
@@ -3134,7 +3064,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Birkevej 16,6100, Haderslev,847500 ,01-12-2018,Alm. Salg,116,7306,5,1957,
 510,Rækkehus,Birkevænget 41,6541, Bevtoft,685000 ,29-11-2018,Alm. Salg,117,5855,4,1982,-6%
 510,Villa,Avnøvej 38,6100, Haderslev,400000 ,29-11-2018,Alm. Salg,84,4762,3,1962,
-510,Villa,Ringvej 22A,6500, Vojens,310000 ,28-11-2018,Auktion,159,1950,4,1914,
 510,Villa,Tårnvej 1,6510, Gram,915000 ,27-11-2018,Alm. Salg,148,6182,4,1987,
 510,Villa,Skjoldsvænge 20,6500, Vojens,775000 ,27-11-2018,Alm. Salg,115,6739,4,1976,-3%
 510,Villa,Gåskærgade 54,6100, Haderslev,3260000 ,27-11-2018,Alm. Salg,225,14489,8,2007,-4%
@@ -3215,7 +3144,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Parkvej 15,6510, Gram,420000 ,22-10-2018,Alm. Salg,133,3158,5,1965,-7%
 510,Villa,Bakkevej 18,6560, Sommersted,370000 ,22-10-2018,Alm. Salg,129,2868,5,1967,
 510,Villa,Hoptrup Hovedgade 2A,6100, Haderslev,1700000 ,21-10-2018,Alm. Salg,210,8095,5,1922,-5%
-510,Rækkehus,Slagtergade 19A,6100, Haderslev,195413 ,19-10-2018,Alm. Salg,117,1670,4,1911,
 510,Villa,Dyssebakken 62,6500, Vojens,840000 ,19-10-2018,Alm. Salg,128,6563,5,1980,-6%
 510,Villa,Paludan-Müllers Vej 6,6100, Haderslev,1770000 ,18-10-2018,Alm. Salg,160,11063,6,1971,-1%
 510,Villa,Egedal 14,6100, Haderslev,675000 ,18-10-2018,Alm. Salg,90,7500,4,1956,-15%
@@ -3319,7 +3247,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Nyvej 21,6510, Gram,80000 ,02-09-2018,Alm. Salg,133,602,5,1965,
 510,Villa,Pottervej 20,6500, Vojens,580000 ,01-09-2018,Alm. Salg,174,3333,6,1967,-10%
 510,Villa,Postvænget 16,6510, Gram,875000 ,01-09-2018,Alm. Salg,185,4730,6,1974,-12%
-510,Villa,Mimersvej 8,6100, Haderslev,2850000 ,30-08-2018,Alm. Salg,178,16011,5,2010,-5%
 510,Rækkehus,Kroghs Kobbel 31,6100, Haderslev,850000 ,29-08-2018,Alm. Salg,106,8019,4,1964,-15%
 510,Villa,Hellehøj 1,6100, Haderslev,975000 ,29-08-2018,Alm. Salg,131,7443,5,1877,-9%
 510,Villa,Over Kestrup 12,6100, Haderslev,1575000 ,27-08-2018,Alm. Salg,211,7464,7,1847,-1%
@@ -3335,7 +3262,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Herregårdsgyden 2,6100, Haderslev,1015000 ,22-08-2018,Alm. Salg,165,6152,5,1905,-7%
 510,Villa,Digevej 14,6100, Haderslev,550000 ,21-08-2018,Alm. Salg,151,3642,6,2019,
 510,Villa,Digevej 18,6100, Haderslev,676503 ,21-08-2018,Alm. Salg,181,3738,6,2018,
-510,Ejerlejlighed,"Gammel Brandvej 4, st. th",6100, Haderslev,1695000 ,20-08-2018,Alm. Salg,106,15991,4,1820,
 510,Villa,Rosenbakken 40,6100, Haderslev,1495000 ,20-08-2018,Alm. Salg,111,13468,4,1976,
 510,Villa,Krügersvej 18,6541, Bevtoft,300000 ,20-08-2018,Alm. Salg,110,2727,7,1958,-13%
 510,Villa,Forretgårdvej 10,6100, Haderslev,1800000 ,20-08-2018,Alm. Salg,216,8333,6,1857,
@@ -3385,7 +3311,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Kongevej 317A,6510, Gram,570000 ,23-07-2018,Alm. Salg,172,3314,7,1978,-12%
 510,Villa,Aastrupvej 70,6100, Haderslev,1150000 ,22-07-2018,Alm. Salg,172,6686,5,1903,-11%
 510,Villa,Tørning Banke 8,6500, Vojens,1895000 ,20-07-2018,Alm. Salg,155,12226,4,2005,
-510,Rækkehus,Troldhøj 1,6100, Haderslev,1720000 ,19-07-2018,Alm. Salg,106,16226,3,2008,-3%
 510,Villa,Søtoften 9,6100, Haderslev,900000 ,19-07-2018,Alm. Salg,160,5625,4,1971,-10%
 510,Villa,Grønningen 23,6100, Haderslev,600000 ,17-07-2018,Alm. Salg,95,6316,4,1954,-25%
 510,Villa,Starup Kirkevej 4,6100, Haderslev,458300 ,17-07-2018,Fam. Salg,115,3985,4,1947,
@@ -3627,7 +3552,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Ejerlejlighed,"Sankt Severin Gade 2, st. th",6100, Haderslev,1495000 ,08-03-2018,Alm. Salg,124,12056,3,1928,
 510,Villa,Hovedgaden Øst 11,6500, Vojens,560000 ,08-03-2018,Alm. Salg,80,7000,4,1959,-6%
 510,Villa,Flovtvej 34,6100, Haderslev,1900000 ,07-03-2018,Alm. Salg,253,7510,8,1925,-5%
-510,Rækkehus,Skovby Bygade 8D,6500, Vojens,240000 ,06-03-2018,Alm. Salg,85,2824,2,1880,
 510,Villa,Ringvej 18,6500, Vojens,275000 ,06-03-2018,Alm. Salg,124,2218,5,1800,
 510,Villa,Møllevej 23,6500, Vojens,455000 ,04-03-2018,Andet,165,2758,6,1969,
 510,Villa,Rosenvænget 32,6100, Haderslev,1900000 ,04-03-2018,Alm. Salg,176,10795,6,1974,-5%
@@ -3813,7 +3737,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Ribe Landevej 27,6100, Haderslev,3675000 ,21-11-2017,Alm. Salg,300,12250,8,1927,-6%
 510,Villa,Hoptrup Hovedgade 56,6100, Haderslev,450000 ,20-11-2017,Alm. Salg,108,4167,5,1957,-9%
 510,Villa,Tøndervej 2E,6500, Vojens,725000 ,19-11-2017,Alm. Salg,205,3537,6,1913,-9%
-510,Rækkehus,Landgangen 14,6100, Haderslev,2500000 ,16-11-2017,Alm. Salg,154,16234,5,2008,-7%
 510,Ejerlejlighed,"Aabenraavej 51, 1",6100, Haderslev,700000 ,15-11-2017,Fam. Salg,181,3867,4,1943,
 510,Villa,Sundparken 22,6100, Haderslev,800000 ,15-11-2017,Alm. Salg,127,6299,5,1969,-11%
 510,Villa,Vilstrup Toftegyde 13,6100, Haderslev,995000 ,14-11-2017,Alm. Salg,128,7773,4,1968,
@@ -3858,7 +3781,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Skolevej 50,6500, Vojens,345000 ,26-10-2017,Alm. Salg,146,2363,4,1965,-13%
 510,Villa,Klokkedal 27,6100, Haderslev,1350000 ,26-10-2017,Alm. Salg,105,12857,3,1957,-2%
 510,Villa,Gefionsvænge 1,6500, Vojens,915000 ,24-10-2017,Alm. Salg,152,6020,5,1973,-8%
-510,Villa,Præstegade 7A,6100, Haderslev,1400000 ,24-10-2017,Alm. Salg,100,14000,2,1934,
 510,Villa,Lokesvej 6A,6100, Haderslev,1300000 ,24-10-2017,Alm. Salg,109,11927,3,1983,-7%
 510,Ejerlejlighed,"Vestergade 42B, 1",6500, Vojens,350000 ,23-10-2017,Alm. Salg,63,5556,2,1890,
 510,Ejerlejlighed,Lembckesvej 1E,6100, Haderslev,128000 ,23-10-2017,Fam. Salg,78,1641,3,2007,
@@ -4022,15 +3944,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Ballehøj 41,6100, Haderslev,1645000 ,18-07-2017,Alm. Salg,147,11190,4,1971,
 510,Villa,Hovedgaden Øst 68,6500, Vojens,385000 ,18-07-2017,Alm. Salg,154,2500,5,1902,
 510,Villa,Margrethevej 35,6500, Vojens,1300000 ,18-07-2017,Alm. Salg,175,7429,6,1961,
-510,Ejerlejlighed,"Olaf Ryes Vej 7, st",6100, Haderslev,800000 ,17-07-2017,Alm. Salg,85,9412,3,1927,
-510,Ejerlejlighed,"Olaf Ryes Vej 7, 1",6100, Haderslev,800000 ,17-07-2017,Alm. Salg,85,9412,3,1927,
-510,Ejerlejlighed,"Moltrupvej 23A, st",6100, Haderslev,800000 ,17-07-2017,Alm. Salg,67,11940,2,1900,
-510,Ejerlejlighed,"Moltrupvej 23A, 1",6100, Haderslev,800000 ,17-07-2017,Alm. Salg,84,9524,4,1900,
 510,Villa,Kærgårdvej 5,6560, Sommersted,1550000 ,17-07-2017,Alm. Salg,233,6652,6,1935,-3%
 510,Villa,Vandlingvej 7,6100, Haderslev,1395000 ,17-07-2017,Alm. Salg,105,13286,4,1964,
 510,Villa,Humlegårdsbæk 19A,6100, Haderslev,1450000 ,14-07-2017,Alm. Salg,126,11508,4,2006,-19%
 510,Villa,Rosenvænget 3,6541, Bevtoft,770000 ,13-07-2017,Alm. Salg,130,5923,4,1973,-3%
-510,Ejerlejlighed,"Hertug Hans Plads 16, 3. tv",6100, Haderslev,1695000 ,12-07-2017,Alm. Salg,107,15841,4,2006,-13%
 510,Villa,Rosenbakken 50,6100, Haderslev,2250000 ,12-07-2017,Andet,172,12363,6,1977,
 510,Villa,Øsby Stadionvej 49,6100, Haderslev,995000 ,12-07-2017,Alm. Salg,118,8432,4,1981,
 510,Villa,Grønningen 5,6100, Haderslev,725000 ,12-07-2017,Alm. Salg,153,4739,6,1949,-27%
@@ -4095,7 +4012,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Tovskovvej 45,6560, Sommersted,118059 ,18-06-2017,Auktion,137,862,6,1905,
 510,Villa,Moltrup Bygade 41,6100, Haderslev,137900 ,18-06-2017,Fam. Salg,148,932,4,2017,
 510,Villa,Lysmosen 5,6100, Haderslev,1675000 ,16-06-2017,Alm. Salg,177,9463,6,1967,
-510,Villa,Tjørnebakken 25,6100, Haderslev,4175000 ,16-06-2017,Alm. Salg,268,15578,8,1966,-3%
 510,Villa,Hejsager Østertoft 7,6100, Haderslev,1750000 ,16-06-2017,Alm. Salg,206,8495,5,2009,-7%
 510,Ejerlejlighed,Allegade 2,6100, Haderslev,570000 ,15-06-2017,Alm. Salg,120,4750,4,1900,-8%
 510,Villa,Hasselvej 10,6510, Gram,1200000 ,15-06-2017,Alm. Salg,144,8333,5,1981,
@@ -4249,7 +4165,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Aarøsund Landevej 189,6100, Haderslev,1260000 ,22-03-2017,Alm. Salg,128,9844,4,1954,-8%
 510,Villa,Fjelstrupvej 12,6100, Haderslev,1200000 ,22-03-2017,Alm. Salg,103,11650,5,1954,
 510,Villa,Aarø 49,6100, Haderslev,1045000 ,22-03-2017,Alm. Salg,194,5387,4,1900,-5%
-510,Villa,Præstegade 7A,6100, Haderslev,1400000 ,22-03-2017,Auktion,100,14000,2,1934,
 510,Ejerlejlighed,"Badstuegade 12A, st. th",6100, Haderslev,1000000 ,21-03-2017,Alm. Salg,108,9259,4,1825,-9%
 510,Villa,Nederbyvænget 408,6100, Haderslev,1995000 ,21-03-2017,Alm. Salg,166,12018,6,1985,
 510,Villa,Nyvej 1,6100, Haderslev,1495000 ,21-03-2017,Alm. Salg,127,11772,4,1920,
@@ -4271,7 +4186,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Rækkehus,Moltrupvej 72,6100, Haderslev,1098000 ,09-03-2017,Fam. Salg,118,9305,4,1970,
 510,Villa,Hjartbro Byvej 8,6541, Bevtoft,375000 ,09-03-2017,Alm. Salg,149,2517,7,1952,-5%
 510,Villa,Kongevej 216,6510, Gram,120000 ,09-03-2017,Alm. Salg,55,2182,2,1870,
-510,Villa,Troldhøj 2E,6100, Haderslev,2606250 ,09-03-2017,Alm. Salg,166,15700,5,2018,
 510,Villa,Færgevej 18,6100, Haderslev,425000 ,08-03-2017,Auktion,117,3632,4,1966,
 510,Villa,Hoptrup Hovedgade 126,6100, Haderslev,57202 ,08-03-2017,Auktion,111,515,5,1938,
 510,Villa,Kelstruphave 104,6100, Haderslev,470000 ,08-03-2017,Auktion,117,4017,4,1975,
@@ -4322,9 +4236,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Bjerning Hovedvej 32,6100, Haderslev,1295000 ,10-02-2017,Alm. Salg,244,5307,7,1934,-4%
 510,Ejerlejlighed,"Ny Erlevvej 29, 1. th",6100, Haderslev,848000 ,09-02-2017,Alm. Salg,75,11307,3,1966,-4%
 510,Villa,Brombærvej 12,6100, Haderslev,1300000 ,08-02-2017,Alm. Salg,149,8725,5,1973,-6%
-510,Ejerlejlighed,"Simmerstedvej 46, st. th",6100, Haderslev,1600000 ,07-02-2017,Alm. Salg,116,13793,3,1938,
-510,Ejerlejlighed,"Simmerstedvej 46, 1. th",6100, Haderslev,1600000 ,07-02-2017,Alm. Salg,116,13793,3,1938,
-510,Ejerlejlighed,"Lavgade 10, 1",6100, Haderslev,1600000 ,07-02-2017,Alm. Salg,115,13913,4,1875,
 510,Villa,Hedevej 2,6500, Vojens,442000 ,06-02-2017,Fam. Salg,165,2679,8,1870,
 510,Villa,Hjortebrovej 17,6100, Haderslev,572125 ,06-02-2017,Alm. Salg,113,5063,5,1953,-4%
 510,Villa,Lænkebjerg 29,6100, Haderslev,750000 ,06-02-2017,Alm. Salg,67,11194,3,1957,
@@ -4342,7 +4253,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Tåsingevej 73,6100, Haderslev,1300000 ,31-01-2017,Alm. Salg,132,9848,5,1977,-7%
 510,Villa,Hoptrup Hovedgade 37,6100, Haderslev,800000 ,30-01-2017,Alm. Salg,200,4000,8,1937,-20%
 510,Villa,Fælleslykkevej 18,6100, Haderslev,1475000 ,30-01-2017,Alm. Salg,150,9833,4,1955,
-510,Villa,Køllesvinget 5,6100, Haderslev,3163224 ,30-01-2017,Alm. Salg,203,15582,6,2017,
 510,Villa,Rundbjerg 14,6100, Haderslev,950000 ,28-01-2017,Alm. Salg,125,7600,5,1968,-5%
 510,Villa,Lembckesvej 50,6100, Haderslev,900000 ,26-01-2017,Alm. Salg,196,4592,5,1932,-10%
 510,Villa,Mosebjergvej 2,6560, Sommersted,585000 ,26-01-2017,Alm. Salg,115,5087,4,1978,-9%
@@ -4415,7 +4325,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Tornsangervej 12,6500, Vojens,575000 ,18-12-2016,Fam. Salg,154,3734,5,1976,
 510,Villa,Blæsbjerg 15,6510, Gram,610000 ,16-12-2016,Alm. Salg,139,4388,4,1968,-10%
 510,Villa,Nørregade 22,6500, Vojens,1300000 ,16-12-2016,Fam. Salg,223,5830,6,1930,
-510,Villa,Lille Klingbjerg 9,6100, Haderslev,3000000 ,15-12-2016,Alm. Salg,189,15873,6,1767,
 510,Villa,Småkærvej 46,6100, Haderslev,735000 ,14-12-2016,Alm. Salg,143,5140,5,1966,-8%
 510,Villa,Aarøsundvej 47C,6100, Haderslev,1555000 ,14-12-2016,Alm. Salg,179,8687,5,1972,-4%
 510,Villa,Spurvevej 10,6500, Vojens,800000 ,14-12-2016,Alm. Salg,142,5634,5,1965,
@@ -4460,7 +4369,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Ballehøj 10,6100, Haderslev,800000 ,21-11-2016,Alm. Salg,169,4734,5,1967,-20%
 510,Villa,Sillerup Møllevej 30,6100, Haderslev,1840000 ,21-11-2016,Alm. Salg,184,10000,5,1874,-8%
 510,Villa,Bøndergårdene 34A,6100, Haderslev,700000 ,21-11-2016,Fam. Salg,145,4828,6,1933,
-510,Villa,Sydhavnsvej 28A,6100, Haderslev,1820000 ,20-11-2016,Alm. Salg,117,15556,4,1966,-9%
 510,Villa,Kelstrupvej 67,6100, Haderslev,1050000 ,19-11-2016,Fam. Salg,88,11932,4,1958,
 510,Villa,Søvang 20,6100, Haderslev,1340000 ,17-11-2016,Alm. Salg,155,8645,6,1973,-4%
 510,Villa,Rosenbakken 1,6100, Haderslev,1270000 ,16-11-2016,Alm. Salg,130,9769,4,1986,
@@ -4624,7 +4532,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Åbjergvej 10,6560, Sommersted,344900 ,31-07-2016,Auktion,128,2695,5,1976,
 510,Villa,Nyvej 2,6510, Gram,350000 ,31-07-2016,Alm. Salg,123,2846,3,1962,-11%
 510,Villa,Ladegårdvej 52,6100, Haderslev,1750000 ,31-07-2016,Alm. Salg,152,11513,4,1727,-12%
-510,Villa,Ravnsborgvej 17,6100, Haderslev,1350000 ,28-07-2016,Alm. Salg,136,9926,5,1942,-20%
 510,Villa,Grønløkke 4,6500, Vojens,560000 ,28-07-2016,Alm. Salg,110,5091,4,1974,-6%
 510,Villa,Dyssebakken 189,6500, Vojens,165000 ,28-07-2016,Alm. Salg,149,1107,5,2017,
 510,Villa,Slagtergade 54A,6100, Haderslev,1645000 ,25-07-2016,Alm. Salg,132,12462,5,1877,-3%
@@ -4811,7 +4718,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Kløvervej 10,6500, Vojens,300000 ,17-04-2016,Alm. Salg,125,2400,4,1957,-33%
 510,Villa,Hejsagervej 38,6100, Haderslev,720000 ,17-04-2016,Fam. Salg,128,5625,4,1970,
 510,Ejerlejlighed,"Teaterstien 19, 3. 19",6100, Haderslev,421500 ,14-04-2016,Alm. Salg,57,7395,1,1962,-23%
-510,Villa,Paludan-Müllers Vej 1,6100, Haderslev,2300000 ,14-04-2016,Alm. Salg,147,15646,4,1971,-7%
 510,Villa,Dyssebakken 93,6500, Vojens,1800000 ,14-04-2016,Alm. Salg,158,11392,5,2008,-5%
 510,Villa,Nordre Ringvej 23,6500, Vojens,350160 ,12-04-2016,Fam. Salg,120,2918,4,1962,
 510,Villa,Bramdrup Bygade 51,6100, Haderslev,1300000 ,11-04-2016,Alm. Salg,275,4727,9,1877,-7%
@@ -5018,7 +4924,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Rækkehus,Bragesvej 41,6100, Haderslev,1400000 ,09-12-2015,Alm. Salg,101,13861,4,2003,
 510,Villa,Dybdalvej 6,6500, Vojens,275000 ,09-12-2015,Alm. Salg,116,2371,4,1900,
 510,Villa,Vinkelvej 7,6510, Gram,230000 ,09-12-2015,Alm. Salg,96,2396,4,1968,-16%
-510,Ejerlejlighed,"Vestergade 39C, 1. mf",6100, Haderslev,1600000 ,08-12-2015,Alm. Salg,105,15238,2,1928,-3%
 510,Villa,Bøndergårdene 35,6100, Haderslev,625000 ,08-12-2015,Alm. Salg,112,5580,5,1877,-4%
 510,Villa,Grønningen 50,6100, Haderslev,620000 ,07-12-2015,Alm. Salg,90,6889,3,1957,-11%
 510,Villa,Fuglesøvej 16,6500, Vojens,1000000 ,06-12-2015,Alm. Salg,148,6757,4,1966,-23%
@@ -5076,7 +4981,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Søndermarksvej 13,6510, Gram,415568 ,05-11-2015,Andet,77,5397,4,1847,
 510,Villa,Tonneshøjvej 34,6100, Haderslev,1696000 ,04-11-2015,Alm. Salg,185,9168,4,2019,
 510,Villa,Stensbækvej 5,6510, Gram,229000 ,04-11-2015,Alm. Salg,147,1558,5,1938,-17%
-510,Villa,Sandjernet 1,6100, Haderslev,2425000 ,04-11-2015,Alm. Salg,151,16060,5,2015,-1%
 510,Villa,Højmarken 25,6510, Gram,666864 ,04-11-2015,Alm. Salg,146,4568,5,2009,
 510,Villa,Martin Reimers Vej 9,6510, Gram,985000 ,03-11-2015,Alm. Salg,257,3833,6,1973,-10%
 510,Villa,Teglgårdsvej 8,6100, Haderslev,1375000 ,03-11-2015,Alm. Salg,123,11179,6,1983,-5%
@@ -5113,7 +5017,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Nyvang 5,6500, Vojens,1065000 ,13-10-2015,Alm. Salg,116,9181,4,1967,-3%
 510,Villa,Topmejsevej 22,6500, Vojens,1075000 ,13-10-2015,Alm. Salg,170,6324,6,1974,
 510,Villa,Medstedgårdsvej 7,6100, Haderslev,395000 ,12-10-2015,Alm. Salg,191,2068,6,1890,-20%
-510,Villa,Slotsgade 13,6100, Haderslev,3695000 ,11-10-2015,Alm. Salg,245,15082,7,1891,
 510,Villa,Odinsvej 25,6500, Vojens,1700000 ,11-10-2015,Alm. Salg,210,8095,5,1972,-1%
 510,Villa,Ydunslund 5,6500, Vojens,800000 ,11-10-2015,Alm. Salg,143,5594,5,1973,-20%
 510,Villa,Sanddallundvej 1,6500, Vojens,925000 ,11-10-2015,Alm. Salg,187,4947,7,1890,-7%
@@ -5132,7 +5035,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Hyrupvej 6,6541, Bevtoft,700000 ,05-10-2015,Alm. Salg,144,4861,4,1959,-21%
 510,Villa,Hermodsvang 3,6500, Vojens,1075000 ,05-10-2015,Alm. Salg,136,7904,5,1971,-10%
 510,Villa,Naffet 46,6100, Haderslev,2365000 ,05-10-2015,Alm. Salg,180,13139,4,1750,-12%
-510,Villa,Sandjernet 3,6100, Haderslev,2420000 ,05-10-2015,Alm. Salg,151,16026,5,2016,-1%
 510,Villa,Odinsvej 169,6500, Vojens,328750 ,04-10-2015,Fam. Salg,120,2740,4,1976,
 510,Villa,Fredstedvej 41B,6100, Haderslev,1500000 ,04-10-2015,Alm. Salg,110,13636,4,1982,-12%
 510,Villa,Christiansfeld Landevej 69,6100, Haderslev,1811000 ,04-10-2015,Alm. Salg,599,3023,15,1880,
@@ -5161,7 +5063,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Fjølners Toft 6,6100, Haderslev,695000 ,23-09-2015,Alm. Salg,181,3840,6,2016,
 510,Villa,Ole Rømers Vej 7B,6100, Haderslev,1650000 ,23-09-2015,Andet,200,8250,6,1974,
 510,Villa,Kløvervænget 37,6100, Haderslev,650000 ,21-09-2015,Fam. Salg,230,2826,9,1972,
-510,Villa,Kløverbakken 11,6100, Haderslev,2395000 ,21-09-2015,Alm. Salg,153,15654,6,2013,
 510,Villa,Sydhavnsvej 18,6100, Haderslev,1840000 ,18-09-2015,Alm. Salg,172,10698,7,1949,-23%
 510,Villa,Abkærparken 36,6500, Vojens,1925000 ,18-09-2015,Alm. Salg,174,11063,7,2008,-3%
 510,Villa,Kelstrup Bygade 36,6100, Haderslev,775000 ,17-09-2015,Alm. Salg,153,5065,6,1973,-8%
@@ -5233,7 +5134,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Ejerlejlighed,"Vestergade 40B, 1",6500, Vojens,216231 ,02-08-2015,Auktion,63,3432,2,1890,-27%
 510,Villa,Kelstruphave 49,6100, Haderslev,750000 ,02-08-2015,Alm. Salg,131,5725,4,1979,-14%
 510,Villa,Vandlingvej 26,6100, Haderslev,1030000 ,02-08-2015,Alm. Salg,136,7574,5,1957,-12%
-510,Villa,Ribe Landevej 5A,6100, Haderslev,1800000 ,02-08-2015,Alm. Salg,288,6250,6,1890,-5%
 510,Villa,Hejsagervej 46,6100, Haderslev,545000 ,02-08-2015,Alm. Salg,172,3169,6,1906,-19%
 510,Villa,Møllebakken 46,6500, Vojens,380000 ,30-07-2015,Alm. Salg,104,3654,4,1962,
 510,Villa,Margrethevej 35,6500, Vojens,800000 ,30-07-2015,Alm. Salg,175,4571,6,1961,-11%
@@ -5373,8 +5273,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Oksbølvej 43,6100, Haderslev,1099000 ,17-05-2015,Alm. Salg,222,4950,7,2016,
 510,Villa,Bøgetoft 31,6100, Haderslev,700000 ,16-05-2015,Alm. Salg,175,4000,6,1000,-7%
 510,Villa,Fælleslykkevej 8,6100, Haderslev,1670000 ,14-05-2015,Alm. Salg,206,8107,5,1936,-7%
-510,Rækkehus,Thrigesvej 108,6100, Haderslev,950000 ,12-05-2015,Alm. Salg,119,7983,4,1975,-5%
-510,Villa,Tjørnebakken 54,6100, Haderslev,950000 ,12-05-2015,Alm. Salg,133,7143,5,1966,-13%
 510,Villa,Møllevej 10,6500, Vojens,610000 ,12-05-2015,Alm. Salg,163,3742,4,1945,
 510,Villa,Herman Bangs Vej 4,6100, Haderslev,1525000 ,12-05-2015,Alm. Salg,130,11731,4,1972,-7%
 510,Rækkehus,Aarøsundvej 82A,6100, Haderslev,1650000 ,11-05-2015,Alm. Salg,110,15000,4,2005,-3%
@@ -5433,10 +5331,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Godthåbsvej 11,6100, Haderslev,977500 ,07-04-2015,Alm. Salg,153,6389,5,1972,
 510,Villa,Kongstedvej 2,6500, Vojens,310000 ,06-04-2015,Alm. Salg,210,1476,7,1912,-31%
 510,Villa,Ejsbølvej 55,6100, Haderslev,728043 ,06-04-2015,Alm. Salg,198,3677,7,1965,
-510,Villa,Sandjernet 7,6100, Haderslev,2350000 ,05-04-2015,Alm. Salg,151,15563,5,2015,-2%
 510,Rækkehus,Grønningen 33,6100, Haderslev,875000 ,04-04-2015,Alm. Salg,97,9021,4,1954,-12%
 510,Villa,Dyssebakken 1,6500, Vojens,1800000 ,03-04-2015,Alm. Salg,184,9783,4,2000,-5%
-510,Rækkehus,Lille Klingbjerg 14,6100, Haderslev,1975000 ,01-04-2015,Alm. Salg,123,16057,3,1850,-6%
 510,Villa,Søvang 20A,6100, Haderslev,1300000 ,31-03-2015,Alm. Salg,273,4762,10,1975,-3%
 510,Villa,Thulesvej 12,6100, Haderslev,593394 ,31-03-2015,Alm. Salg,140,4239,5,1972,-60%
 510,Villa,Sønder Kabdrupvej 22,6100, Haderslev,650000 ,30-03-2015,Fam. Salg,113,5752,5,1877,
@@ -5576,7 +5472,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Nederbyvænget 398,6100, Haderslev,750283 ,15-12-2014,Fam. Salg,184,4078,7,1985,
 510,Villa,Hoptrup Hovedgade 22,6100, Haderslev,850000 ,15-12-2014,Alm. Salg,231,3680,9,1905,-5%
 510,Villa,Kaj Munks Vej 10,6100, Haderslev,1400000 ,15-12-2014,Alm. Salg,136,10294,5,1972,-6%
-510,Villa,Kløvervej 79,6100, Haderslev,753000 ,14-12-2014,Alm. Salg,165,4564,4,1964,
 510,Villa,Solhøj 22,6100, Haderslev,865000 ,14-12-2014,Alm. Salg,161,5373,5,2016,
 510,Villa,Knokbjerg 25,6100, Haderslev,75000 ,13-12-2014,Alm. Salg,122,615,4,1917,
 510,Rækkehus,Strynøvej 2,6100, Haderslev,725000 ,11-12-2014,Fam. Salg,155,4677,5,1977,
@@ -5604,7 +5499,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Grønlandsvej 21,6100, Haderslev,1300000 ,23-11-2014,Alm. Salg,162,8025,5,1968,-5%
 510,Villa,Kløvervej 56,6100, Haderslev,750000 ,23-11-2014,Alm. Salg,145,5172,5,1962,-16%
 510,Villa,Moltrupvej 28,6100, Haderslev,433334 ,23-11-2014,Alm. Salg,203,2135,7,1909,
-510,Rækkehus,Skibbrogade 12D,6100, Haderslev,1495000 ,21-11-2014,Alm. Salg,95,15737,3,1912,
 510,Villa,Nørbygårdvej 34,6100, Haderslev,335000 ,20-11-2014,Alm. Salg,89,3764,3,1867,-3%
 510,Villa,Aarøsund Havn 5,6100, Haderslev,100000 ,20-11-2014,Alm. Salg,107,935,4,1947,
 510,Villa,Lyøvej 11,6100, Haderslev,1345945 ,20-11-2014,Alm. Salg,166,8108,6,1975,-3%
@@ -5813,7 +5707,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Aarø 154,6100, Haderslev,200000 ,24-06-2014,Andet,131,1527,4,1915,
 510,Villa,Aarøsundvej 32,6100, Haderslev,1725000 ,24-06-2014,Alm. Salg,168,10268,6,1928,-3%
 510,Villa,Avnøvej 19,6100, Haderslev,580000 ,23-06-2014,Alm. Salg,142,4085,5,1968,-3%
-510,Ejerlejlighed,"Toldbodgade 7, st. 2",6100, Haderslev,2250000 ,22-06-2014,Alm. Salg,144,15625,4,2013,-25%
 510,Villa,Aarøsundvej 24,6100, Haderslev,770000 ,22-06-2014,Alm. Salg,123,6260,4,1927,
 510,Villa,Kongevej 17,6100, Haderslev,2425000 ,22-06-2014,Alm. Salg,160,15156,7,1942,-3%
 510,Villa,Lokesvej 4,6100, Haderslev,1295000 ,22-06-2014,Alm. Salg,105,12333,5,1965,
@@ -5828,7 +5721,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Ærtevej 17,6500, Vojens,599988 ,11-06-2014,Alm. Salg,195,3077,5,1981,
 510,Villa,Allegade 22,6500, Vojens,1250000 ,11-06-2014,Alm. Salg,118,10593,5,1958,
 510,Rækkehus,Præstevænget 6,6500, Vojens,600000 ,09-06-2014,Alm. Salg,110,5455,4,1965,-11%
-510,Ejerlejlighed,"Nørregade 5, 3",6100, Haderslev,3300000 ,09-06-2014,Alm. Salg,206,16019,7,1903,
 510,Villa,Grønlandsvej 43,6100, Haderslev,2425000 ,05-06-2014,Alm. Salg,169,14349,5,1967,-3%
 510,Villa,Sillerup Møllevej 34,6100, Haderslev,300000 ,05-06-2014,Alm. Salg,198,1515,9,1827,-39%
 510,Rækkehus,Slagtergade 45,6100, Haderslev,10000 ,03-06-2014,Alm. Salg,90,111,4,1827,
@@ -5927,7 +5819,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Skovbyvej 10,6500, Vojens,470000 ,23-03-2014,Alm. Salg,112,4196,4,1935,
 510,Villa,Drosselvej 1,6100, Haderslev,850000 ,23-03-2014,Alm. Salg,127,6693,5,1957,-15%
 510,Villa,Smedevænget 10B,6500, Vojens,295000 ,23-03-2014,Alm. Salg,100,2950,4,1961,-25%
-510,Villa,Dannevang 3,6100, Haderslev,1325000 ,23-03-2014,Alm. Salg,82,16159,4,1957,-5%
 510,Villa,Ryes Møllevej 42,6100, Haderslev,863327 ,20-03-2014,Alm. Salg,130,6641,4,1938,
 510,Villa,Clausensvej 2C,6100, Haderslev,1715000 ,20-03-2014,Alm. Salg,155,11065,5,1926,-3%
 510,Villa,Sundparken 74,6100, Haderslev,1545000 ,18-03-2014,Alm. Salg,227,6806,7,1987,
@@ -5968,7 +5859,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Lærkevej 5,6500, Vojens,600000 ,20-02-2014,Alm. Salg,99,6061,4,1967,
 510,Villa,Rundbjerg 2,6100, Haderslev,195000 ,19-02-2014,Auktion,100,1950,4,1777,-44%
 510,Villa,Kongevej 228,6510, Gram,135000 ,19-02-2014,Auktion,97,1392,4,1877,
-510,Villa,Erlevvej 89,6100, Haderslev,3100000 ,16-02-2014,Alm. Salg,194,15979,6,1964,
 510,Villa,Neder Jernhytvej 1,6500, Vojens,1198000 ,16-02-2014,Fam. Salg,300,3993,6,1930,
 510,Villa,Kongevej 229,6510, Gram,375000 ,16-02-2014,Alm. Salg,198,1894,6,1920,-24%
 510,Villa,Hoptrup Hovedgade 128,6100, Haderslev,350000 ,15-02-2014,Alm. Salg,135,2593,4,1935,
@@ -6024,7 +5914,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Christiansdalvej 29,6500, Vojens,574000 ,19-12-2013,Fam. Salg,140,4100,5,1942,
 510,Villa,Vadstedvej 19,6560, Sommersted,950000 ,19-12-2013,Alm. Salg,137,6934,4,1963,-12%
 510,Villa,Ejsbølvej 28,6100, Haderslev,713641 ,19-12-2013,Alm. Salg,158,4517,7,1955,
-510,Villa,Nannasvej 29,6100, Haderslev,2580000 ,19-12-2013,Alm. Salg,162,15926,5,2013,
 510,Villa,Hørregårdsvej 12,6100, Haderslev,810000 ,18-12-2013,Auktion,130,6231,5,1951,
 510,Villa,Tjørnebakken 11,6510, Gram,375340 ,18-12-2013,Auktion,141,2662,6,1978,
 510,Villa,Kirkeløkke 25,6100, Haderslev,356000 ,18-12-2013,Fam. Salg,109,3266,4,1967,
@@ -6092,7 +5981,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Ørstedvej 2,6560, Sommersted,595000 ,31-10-2013,Alm. Salg,195,3051,4,1850,
 510,Villa,Storegade 94,6560, Sommersted,650000 ,31-10-2013,Alm. Salg,109,5963,4,1949,-7%
 510,Villa,Bellisvej 2,6500, Vojens,835000 ,31-10-2013,Alm. Salg,110,7591,4,1961,-5%
-510,Villa,Fredstedvænget 22,6100, Haderslev,2700000 ,31-10-2013,Alm. Salg,171,15789,5,2011,-10%
 510,Rækkehus,Præstevænget 4,6500, Vojens,575000 ,30-10-2013,Alm. Salg,95,6053,4,1965,-8%
 510,Ejerlejlighed,Dannevirkestræde 10. 2,6100, Haderslev,1250000 ,30-10-2013,Alm. Salg,84,14881,3,2007,-10%
 510,Villa,Drosselvej 15,6100, Haderslev,675000 ,30-10-2013,Alm. Salg,126,5357,4,1950,
@@ -6119,9 +6007,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Lindøvej 152,6100, Haderslev,555000 ,11-10-2013,Alm. Salg,258,2151,6,2017,-3%
 510,Villa,Dalgade 1,6100, Haderslev,1382500 ,10-10-2013,Alm. Salg,120,11521,4,1924,-12%
 510,Villa,Knavvej 21,6100, Haderslev,1375000 ,10-10-2013,Alm. Salg,206,6675,7,1955,-7%
-510,Ejerlejlighed,"Hammelev Bygade 43, kl",6500, Vojens,320000 ,09-10-2013,Auktion,90,3556,3,1967,
 510,Villa,Skovbyvej 19,6500, Vojens,725000 ,09-10-2013,Alm. Salg,154,4708,6,1965,
-510,Villa,Hammelev Bygade 43,6500, Vojens,320000 ,09-10-2013,Auktion,97,3077,6,1967,
 510,Villa,Sønder Ottinggade 16,6100, Haderslev,1650000 ,09-10-2013,Alm. Salg,210,7857,8,1913,-7%
 510,Villa,Marstrup Kirkevej 59,6100, Haderslev,560000 ,08-10-2013,Alm. Salg,155,3613,3,1950,-7%
 510,Villa,Pilumvej 18,6100, Haderslev,2000000 ,08-10-2013,Alm. Salg,166,12048,5,2007,-9%
@@ -6168,7 +6054,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Kløvervænget 33,6100, Haderslev,2010000 ,30-08-2013,Alm. Salg,186,10806,6,1971,-4%
 510,Villa,Birkevej 18,6100, Haderslev,1000000 ,30-08-2013,Alm. Salg,87,11494,4,1951,-7%
 510,Ejerlejlighed,"Mariegade 16, 1. th",6100, Haderslev,945000 ,29-08-2013,Alm. Salg,76,12434,2,1898,-5%
-510,Villa,"Tovskovvej 20B, 1",6560, Sommersted,2500000 ,29-08-2013,Alm. Salg,187,13369,8,1908,
 510,Villa,Eskærhøjvej 73,6100, Haderslev,1590000 ,29-08-2013,Alm. Salg,145,10966,5,1974,-6%
 510,Villa,Skolekobbel 31,6510, Gram,600000 ,29-08-2013,Alm. Salg,115,5217,4,1964,-14%
 510,Ejerlejlighed,"Landgangen 5, 2. th",6100, Haderslev,1375000 ,28-08-2013,Alm. Salg,125,11000,3,2008,-8%
@@ -6369,7 +6254,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Eskærhøjvej 75,6100, Haderslev,1000000 ,26-03-2013,Alm. Salg,138,7246,5,1974,-26%
 510,Villa,Stageløkke 10,6500, Vojens,795000 ,25-03-2013,Alm. Salg,123,6463,4,1968,
 510,Villa,Pionervej 6,6541, Bevtoft,275000 ,25-03-2013,Alm. Salg,97,2835,4,1976,
-510,Rækkehus,Eskærhaven 12,6100, Haderslev,1600000 ,24-03-2013,Alm. Salg,99,16162,3,2007,-6%
 510,Villa,Hærvejen 2,6500, Vojens,705000 ,24-03-2013,Alm. Salg,240,2938,8,2011,
 510,Rækkehus,Aastrupvej 65C,6100, Haderslev,1375000 ,21-03-2013,Alm. Salg,108,12731,4,2004,-8%
 510,Villa,Bygaden 23,6500, Vojens,450000 ,20-03-2013,Alm. Salg,121,3719,3,1961,-24%
@@ -6458,10 +6342,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Kongevej 212,6510, Gram,141000 ,16-01-2013,Auktion,214,659,7,1914,-83%
 510,Rækkehus,Vinkelvej 4,6500, Vojens,352500 ,14-01-2013,Alm. Salg,121,2913,5,1967,
 510,Villa,Raade Bygade 46,6100, Haderslev,350000 ,14-01-2013,Alm. Salg,178,1966,7,1859,
-510,Villa,Engkær 38,6100, Haderslev,2800000 ,14-01-2013,Alm. Salg,176,15909,4,2005,-6%
 510,Villa,Hiort Lorenzens Vej 14,6100, Haderslev,1240000 ,14-01-2013,Alm. Salg,218,5688,7,1995,
-510,Ejerlejlighed,"Toldbodgade 7, 2. th",6100, Haderslev,1880000 ,13-01-2013,Alm. Salg,118,15932,4,2013,
-510,Villa,Langstrengvej 24,6100, Haderslev,2500000 ,11-01-2013,Alm. Salg,160,15625,6,1936,-12%
 510,Villa,Sønder Kabdrupvej 29A,6100, Haderslev,3756000 ,10-01-2013,Alm. Salg,323,11628,6,1757,
 510,Villa,Kalmargårdparken 13,6100, Haderslev,242496 ,10-01-2013,Alm. Salg,157,1545,5,2013,
 510,Villa,Rosenvænget 25,6541, Bevtoft,500000 ,09-01-2013,Alm. Salg,117,4274,2,1975,-16%
@@ -6563,9 +6444,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Brændbjerg 27,6100, Haderslev,1000000 ,09-10-2012,Alm. Salg,211,4739,5,1945,
 510,Villa,Lyøvej 23,6100, Haderslev,1600000 ,08-10-2012,Alm. Salg,153,10458,4,1976,-6%
 510,Villa,Parkvej 4,6100, Haderslev,1385000 ,08-10-2012,Alm. Salg,196,7066,6,1932,-10%
-510,Villa,Nannasvej 20,6100, Haderslev,2242427 ,08-10-2012,Alm. Salg,144,15572,5,2013,
 510,Villa,Hyrupvej 21,6541, Bevtoft,349764 ,07-10-2012,Alm. Salg,150,2332,5,1959,-56%
-510,Villa,Grønningen 22,6100, Haderslev,1740000 ,07-10-2012,Alm. Salg,110,15818,3,1950,
 510,Villa,Aarøsundvej 35A,6100, Haderslev,1025000 ,07-10-2012,Alm. Salg,117,8761,4,1922,
 510,Villa,Muninslund 15,6500, Vojens,1025000 ,04-10-2012,Alm. Salg,136,7537,5,1972,-6%
 510,Ejerlejlighed,"Ribe Landevej 30, 1",6510, Gram,400000 ,03-10-2012,Auktion,167,2395,4,1920,
@@ -6638,7 +6517,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Lundingvej 25,6100, Haderslev,700000 ,16-08-2012,Fam. Salg,276,2536,5,1870,
 510,Villa,Ejsbølvej 20,6100, Haderslev,650000 ,15-08-2012,Alm. Salg,105,6190,6,1957,-6%
 510,Villa,Fredstedvænget 20,6100, Haderslev,448000 ,15-08-2012,Alm. Salg,187,2396,6,2017,
-510,Ejerlejlighed,Slotsgade 14,6100, Haderslev,2629943 ,14-08-2012,Alm. Salg,193,13627,6,1827,
 510,Villa,Dyssebakken 5,6500, Vojens,1850000 ,13-08-2012,Alm. Salg,160,11563,5,2005,-7%
 510,Villa,Kongevej 59A,6510, Gram,377631 ,13-08-2012,Alm. Salg,137,2756,5,1962,-42%
 510,Villa,Langelandsvej 91,6100, Haderslev,1504000 ,13-08-2012,Fam. Salg,264,5697,6,2008,
@@ -6672,7 +6550,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Raade Bygade 64,6100, Haderslev,600000 ,15-07-2012,Alm. Salg,141,4255,4,1979,-12%
 510,Villa,Hasselvej 5,6510, Gram,485000 ,15-07-2012,Fam. Salg,185,2622,7,1978,
 510,Villa,Strandelhjørn Skovvej 15,6500, Vojens,3000000 ,11-07-2012,Alm. Salg,250,12000,7,1827,-14%
-510,Villa,Nannasvej 26,6100, Haderslev,2415000 ,10-07-2012,Alm. Salg,155,15581,6,2012,
 510,Villa,Kastvråvej 14,6560, Sommersted,50000 ,08-07-2012,Auktion,189,265,6,2022,-87%
 510,Villa,Skotvej 4,6560, Sommersted,100000 ,07-07-2012,Alm. Salg,96,1042,3,1880,
 510,Villa,Søndervang 21,6510, Gram,635000 ,06-07-2012,Alm. Salg,117,5427,4,1960,-20%
@@ -6707,7 +6584,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Østergårdsvej 12,6500, Vojens,445000 ,19-06-2012,Alm. Salg,108,4120,4,1962,
 510,Rækkehus,Strynøvej 13,6100, Haderslev,1250000 ,17-06-2012,Alm. Salg,155,8065,6,1978,
 510,Villa,Mejsestien 1,6100, Haderslev,1550000 ,17-06-2012,Alm. Salg,152,10197,5,1973,
-510,Rækkehus,Eskærhaven 11,6100, Haderslev,1600000 ,15-06-2012,Alm. Salg,99,16162,3,2007,-3%
 510,Rækkehus,Solvang 35,6100, Haderslev,2100000 ,15-06-2012,Alm. Salg,157,13376,5,1973,-2%
 510,Villa,Tjørnebakken 12,6100, Haderslev,1100000 ,15-06-2012,Alm. Salg,140,7857,4,1968,-8%
 510,Villa,Skrågyde 11,6100, Haderslev,1140000 ,14-06-2012,Alm. Salg,183,6230,7,1966,-11%
@@ -6728,8 +6604,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Stenvænget 2,6560, Sommersted,600000 ,05-06-2012,Alm. Salg,152,3947,4,1974,-11%
 510,Villa,Violvej 2,6500, Vojens,648000 ,03-06-2012,Alm. Salg,107,6056,4,1973,
 510,Villa,Aastrupvej 81A,6100, Haderslev,1825000 ,31-05-2012,Alm. Salg,206,8859,5,1969,-8%
-510,Ejerlejlighed,Naffet 2A,6500, Vojens,450000 ,30-05-2012,Auktion,116,3879,3,1956,
-510,Villa,Naffet 2B,6500, Vojens,450000 ,30-05-2012,Auktion,116,3879,4,1956,
 510,Villa,Knokbjerg 13,6100, Haderslev,1295000 ,29-05-2012,Fam. Salg,118,10975,4,2006,
 510,Villa,Langelandsvej 121,6100, Haderslev,480000 ,29-05-2012,Alm. Salg,165,2909,5,2013,-2%
 510,Villa,Hyrup Vestermarksvej 4,6520, Toftlund,500000 ,28-05-2012,Alm. Salg,82,6098,4,1948,-16%
@@ -6750,7 +6624,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Gammelbyvej 20,6100, Haderslev,2600000 ,17-05-2012,Alm. Salg,358,7263,7,1880,-26%
 510,Villa,Træhedevej 5,6500, Vojens,690000 ,13-05-2012,Alm. Salg,158,4367,6,1900,-21%
 510,Villa,Haderslevvej 7,6510, Gram,600000 ,13-05-2012,Auktion,197,3046,5,1762,-59%
-510,Villa,Tjørnebakken 6,6100, Haderslev,2295000 ,11-05-2012,Alm. Salg,147,15612,5,1968,
 510,Villa,Egevej 7,6100, Haderslev,4150000 ,11-05-2012,Alm. Salg,283,14664,7,1950,
 510,Villa,Rådhuscentret 8,6500, Vojens,1145000 ,09-05-2012,Alm. Salg,99,11566,3,1938,
 510,Villa,Dyssebakken 65,6500, Vojens,2425000 ,09-05-2012,Alm. Salg,170,14265,5,2008,
@@ -6768,7 +6641,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Hammelev Bygade 21,6500, Vojens,410000 ,29-04-2012,Alm. Salg,181,2265,8,1927,-17%
 510,Villa,Winthersvej 13,6510, Gram,300000 ,29-04-2012,Alm. Salg,88,3409,3,1963,-45%
 510,Villa,Langelandsvej 175,6100, Haderslev,3060000 ,29-04-2012,Alm. Salg,200,15300,7,2007,
-510,Villa,Kalkovnsvej 13,6100, Haderslev,2550000 ,27-04-2012,Alm. Salg,163,15644,6,1972,-14%
 510,Villa,Favrdalen 24,6100, Haderslev,1475000 ,26-04-2012,Alm. Salg,170,8676,6,1972,-5%
 510,Villa,Møllevej 23,6500, Vojens,1402000 ,26-04-2012,Alm. Salg,165,8497,6,1969,-5%
 510,Villa,Præstegårdsvej 37,6500, Vojens,1295000 ,25-04-2012,Alm. Salg,141,9184,4,1948,
@@ -6836,7 +6708,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Tovskovvej 75,6560, Sommersted,15000 ,14-03-2012,Auktion,151,99,6,1880,
 510,Villa,Hajstrupgade 77,6100, Haderslev,10000 ,14-03-2012,Auktion,172,58,7,1912,
 510,Rækkehus,Sønderbro 26L,6100, Haderslev,370000 ,12-03-2012,Alm. Salg,48,7708,2,1952,-6%
-510,Ejerlejlighed,"Vestergade 39C, 1. mf",6100, Haderslev,1675000 ,12-03-2012,Alm. Salg,105,15952,2,1928,
 510,Villa,Damvænget 1,6100, Haderslev,714000 ,12-03-2012,Fam. Salg,122,5852,5,1951,
 510,Villa,Ejsbølvænge 3,6100, Haderslev,521562 ,12-03-2012,Alm. Salg,145,3597,4,2013,
 510,Ejerlejlighed,"Slagtergade 5, 2. th",6100, Haderslev,595000 ,11-03-2012,Alm. Salg,70,8500,2,1900,-14%
@@ -6909,7 +6780,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Nørre Vilstrup Bygade 74D,6100, Haderslev,1600000 ,24-01-2012,Fam. Salg,198,8081,6,2006,
 510,Villa,Stadionvej 9,6510, Gram,350000 ,24-01-2012,Alm. Salg,102,3431,3,1947,-29%
 510,Villa,Thurøvej 59,6100, Haderslev,1495000 ,23-01-2012,Alm. Salg,160,9344,5,1977,
-510,Villa,H.P. Hanssens Vej 22,6100, Haderslev,2375000 ,23-01-2012,Alm. Salg,150,15833,5,1956,-11%
 510,Villa,Langelandsvej 123,6100, Haderslev,2495000 ,23-01-2012,Alm. Salg,179,13939,5,2009,
 510,Villa,Toftevej 4,6500, Vojens,1055000 ,22-01-2012,Alm. Salg,151,6987,5,1972,-8%
 510,Villa,Borgvej 1,6500, Vojens,625000 ,22-01-2012,Alm. Salg,97,6443,5,1800,-7%
@@ -6947,7 +6817,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Hjejlevej 3,6500, Vojens,1200000 ,13-12-2011,Alm. Salg,126,9524,4,1994,-6%
 510,Villa,Vadstedvej 15,6560, Sommersted,1215000 ,13-12-2011,Alm. Salg,304,3997,10,1877,
 510,Villa,Langelandsvej 96,6100, Haderslev,2250000 ,13-12-2011,Fam. Salg,289,7785,7,2006,
-510,Rækkehus,Mimersvej 24,6100, Haderslev,1545000 ,12-12-2011,Alm. Salg,95,16263,3,2007,
 510,Villa,Allegade 30,6500, Vojens,685000 ,11-12-2011,Alm. Salg,137,4536,5,1962,-13%
 510,Villa,Vestvej 6,6100, Haderslev,1695000 ,09-12-2011,Alm. Salg,176,9631,5,2002,
 510,Villa,Ny Allegade 19,6100, Haderslev,3300000 ,09-12-2011,Alm. Salg,234,14103,8,1908,-6%
@@ -6993,11 +6862,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Anne-Marie Vej 10,6500, Vojens,850000 ,10-11-2011,Alm. Salg,152,5592,5,1963,-5%
 510,Villa,Krügersvej 34,6541, Bevtoft,425000 ,09-11-2011,Auktion,269,1580,8,1927,-53%
 510,Villa,Hasselvej 35,6510, Gram,815000 ,09-11-2011,Alm. Salg,131,6221,5,1977,-9%
-510,Villa,Naffet 10C,6100, Haderslev,350000 ,09-11-2011,Alm. Salg,72,4861,2,1982,
 510,Villa,Troldhøj 10,6100, Haderslev,2195000 ,09-11-2011,Alm. Salg,154,14253,5,2011,
 510,Villa,Diernæsvej 13,6100, Haderslev,850000 ,08-11-2011,Fam. Salg,103,8252,5,1952,
 510,Villa,Vestergade 68,6500, Vojens,1050000 ,07-11-2011,Alm. Salg,130,8077,5,1936,-19%
-510,Villa,Storegade 160,6560, Sommersted,250000 ,07-11-2011,Alm. Salg,250,1000,8,1902,
 510,Villa,Marstrup Kirkevej 60,6100, Haderslev,953750 ,06-11-2011,Alm. Salg,121,7882,5,1931,-3%
 510,Villa,Ternevej 9,6500, Vojens,750000 ,06-11-2011,Auktion,181,4144,5,1968,-25%
 510,Villa,Langstrengvej 9,6100, Haderslev,1150000 ,06-11-2011,Fam. Salg,98,11735,4,1957,
@@ -7029,8 +6896,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Hans Tausens Vej 66,6100, Haderslev,1625000 ,05-10-2011,Alm. Salg,160,10156,7,1997,-1%
 510,Villa,Vilstrupvej 6,6100, Haderslev,922687 ,05-10-2011,Auktion,143,6452,6,1951,
 510,Villa,Ydunslund 4,6500, Vojens,1065000 ,05-10-2011,Alm. Salg,133,8008,5,1973,-6%
-510,Rækkehus,Badstuegade 6,6100, Haderslev,850000 ,04-10-2011,Alm. Salg,201,4229,8,1882,
-510,Villa,Badstuegade 6A,6100, Haderslev,850000 ,04-10-2011,Alm. Salg,88,9659,3,1882,
 510,Villa,Selbjerg 20,6100, Haderslev,1045000 ,03-10-2011,Fam. Salg,167,6257,5,1968,
 510,Villa,Egedal 37,6100, Haderslev,255000 ,03-10-2011,Alm. Salg,207,1143,7,1938,-94%
 510,Villa,Langtoften 28,6100, Haderslev,950000 ,02-10-2011,Andet,149,6376,5,2008,
@@ -7065,7 +6930,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Ejerlejlighed,"Aabenraavej 51, st",6100, Haderslev,1387500 ,16-09-2011,Alm. Salg,145,9569,4,1943,-7%
 510,Villa,Knokbjerg 18,6100, Haderslev,475000 ,14-09-2011,Alm. Salg,168,2827,5,1807,
 510,Villa,Sparlundvej 43,6100, Haderslev,845000 ,14-09-2011,Alm. Salg,158,5348,6,1947,-6%
-510,Rækkehus,Landgangen 8,6100, Haderslev,2495000 ,13-09-2011,Alm. Salg,154,16201,5,2008,
 510,Ejerlejlighed,"Allegade 9B, st",6100, Haderslev,725000 ,13-09-2011,Alm. Salg,78,9295,2,1895,-8%
 510,Villa,Skovbyvej 1,6100, Haderslev,1200000 ,13-09-2011,Fam. Salg,130,9231,6,1800,
 510,Villa,Brandenhofvej 2,6510, Gram,635000 ,13-09-2011,Alm. Salg,111,5721,4,1970,
@@ -7110,9 +6974,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Rækkehus,Christiansdalvej 10C,6500, Vojens,900000 ,08-08-2011,Alm. Salg,128,7031,4,1973,
 510,Villa,Sohlsvej 6,6100, Haderslev,2000000 ,08-08-2011,Alm. Salg,157,12739,6,1908,-16%
 510,Ejerlejlighed,"Højgade 15, st. th",6100, Haderslev,585000 ,07-08-2011,Alm. Salg,82,7134,3,1900,
-510,Ejerlejlighed,Østergade 22B,6510, Gram,450000 ,07-08-2011,Alm. Salg,121,3719,4,1954,-23%
 510,Villa,B.S. Ingemanns Vej 5,6100, Haderslev,1470000 ,07-08-2011,Alm. Salg,164,8963,7,1971,-8%
-510,Villa,Østergade 22A,6510, Gram,450000 ,07-08-2011,Alm. Salg,93,4839,4,1954,-23%
 510,Villa,Ungdomsskolevej 7,6500, Vojens,1025000 ,05-08-2011,Alm. Salg,119,8613,5,1944,-5%
 510,Ejerlejlighed,Nederbyvænget 71A,6100, Haderslev,775000 ,04-08-2011,Alm. Salg,61,12705,2,1988,-3%
 510,Villa,Rosenbakken 15,6100, Haderslev,1500000 ,04-08-2011,Alm. Salg,136,11029,4,1973,-6%
@@ -7136,7 +6998,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Moltrup Bygade 76,6100, Haderslev,950000 ,17-07-2011,Alm. Salg,133,7143,4,1970,-5%
 510,Villa,Fredstedvej 10A,6100, Haderslev,479120 ,17-07-2011,Alm. Salg,171,2802,5,2012,
 510,Villa,Sandefjordvej 5,6100, Haderslev,2100000 ,14-07-2011,Alm. Salg,233,9013,6,1971,-8%
-510,Rækkehus,Slagtergade 19A,6100, Haderslev,1450000 ,13-07-2011,Auktion,117,12393,4,1911,
 510,Villa,Lyøvej 13,6100, Haderslev,1276000 ,13-07-2011,Alm. Salg,221,5774,6,1976,-14%
 510,Villa,Åvej 13,6510, Gram,925000 ,13-07-2011,Auktion,218,4243,8,1923,-38%
 510,Villa,Unionvej 11,6500, Vojens,150000 ,13-07-2011,Auktion,135,1111,3,1900,
@@ -7292,7 +7153,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Bogfinkevej 11,6100, Haderslev,1585000 ,07-04-2011,Alm. Salg,136,11654,5,1972,
 510,Rækkehus,Øsbygade 68B,6100, Haderslev,1350000 ,06-04-2011,Alm. Salg,94,14362,3,2011,-3%
 510,Villa,Koldingvej 115,6500, Vojens,975000 ,06-04-2011,Alm. Salg,152,6414,6,1900,
-510,Villa,Slotsgrunden 5,6100, Haderslev,1400000 ,06-04-2011,Auktion,86,16279,3,1875,
 510,Villa,Strandelhjørnvej 14,6500, Vojens,1344216 ,05-04-2011,Fam. Salg,277,4853,8,1860,
 510,Villa,Allegade 1,6500, Vojens,725000 ,05-04-2011,Alm. Salg,179,4050,10,1914,-9%
 510,Villa,Bevtoftvej 42,6541, Bevtoft,1170000 ,05-04-2011,Alm. Salg,338,3462,5,1930,-3%
@@ -7310,7 +7170,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Østergade 9,6510, Gram,200000 ,27-03-2011,Alm. Salg,227,881,7,1924,
 510,Rækkehus,Thorsvej 27,6100, Haderslev,810000 ,25-03-2011,Alm. Salg,90,9000,5,1962,-8%
 510,Rækkehus,Parkvej 12,6541, Bevtoft,695000 ,24-03-2011,Fam. Salg,104,6683,3,1979,
-510,Ejerlejlighed,"Landgangen 3, 2. tv",6100, Haderslev,2125000 ,24-03-2011,Alm. Salg,134,15858,3,2008,-8%
 510,Villa,Skinkelsvej 24,6100, Haderslev,770000 ,23-03-2011,Alm. Salg,120,6417,6,1959,-3%
 510,Villa,Aarø 38,6100, Haderslev,1095000 ,23-03-2011,Alm. Salg,148,7399,5,1978,10%
 510,Villa,Mellemhave 5,6500, Vojens,575000 ,23-03-2011,Alm. Salg,199,2889,5,1830,-11%
@@ -7344,9 +7203,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Stadion Alle 5,6500, Vojens,775000 ,04-03-2011,Alm. Salg,115,6739,4,1962,-3%
 510,Villa,Sønder Vilstrup Bygade 14,6100, Haderslev,700000 ,03-03-2011,Alm. Salg,255,2745,6,1926,
 510,Rækkehus,Simmerstedvej 84,6100, Haderslev,1600000 ,02-03-2011,Andet,119,13445,5,1952,
-510,Ejerlejlighed,"Nørregade 5, 3",6100, Haderslev,3281700 ,02-03-2011,Auktion,206,15931,7,1903,
 510,Villa,Fjelstrupvej 125,6100, Haderslev,675000 ,02-03-2011,Alm. Salg,132,5114,5,1920,-5%
-510,Rækkehus,Østergade 6A,6100, Haderslev,500000 ,28-02-2011,Alm. Salg,50,10000,2,1887,
 510,Villa,Erlevvej 89,6100, Haderslev,3000000 ,28-02-2011,Alm. Salg,194,15464,6,1964,-20%
 510,Ejerlejlighed,"Jomfrustien 26, 3. tv",6100, Haderslev,710000 ,27-02-2011,Alm. Salg,82,8659,3,1911,-11%
 510,Villa,Marstrup Sønderby 14,6100, Haderslev,800000 ,27-02-2011,Alm. Salg,198,4040,4,1942,-11%
@@ -7361,7 +7218,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Hovedgaden Vest 81,6500, Vojens,660000 ,20-02-2011,Alm. Salg,125,5280,6,1904,-5%
 510,Villa,Lille Klokkedal 2,6100, Haderslev,596372 ,19-02-2011,Andet,112,5325,4,1972,-47%
 510,Villa,Tværvej 17,6500, Vojens,925000 ,19-02-2011,Alm. Salg,89,10393,3,1981,-6%
-510,Villa,Aarøsundvej 62,6100, Haderslev,1900000 ,16-02-2011,Alm. Salg,120,15833,4,1933,-5%
 510,Villa,Lilholtvej 15,6500, Vojens,575000 ,16-02-2011,Alm. Salg,100,5750,4,1962,-3%
 510,Villa,Ørstedvej 10,6560, Sommersted,640000 ,16-02-2011,Alm. Salg,189,3386,8,1912,-8%
 510,Villa,Perlevej 12,6560, Sommersted,625000 ,15-02-2011,Alm. Salg,111,5631,3,1953,-7%
@@ -7473,7 +7329,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Ærøvej 34,6100, Haderslev,647500 ,08-12-2010,Fam. Salg,145,4466,5,1975,
 510,Villa,H.C. Andersens Vej 11,6100, Haderslev,2150000 ,07-12-2010,Alm. Salg,262,8206,6,1970,-14%
 510,Villa,Bukholmvej 54,6100, Haderslev,660000 ,07-12-2010,Alm. Salg,104,6346,4,1965,
-510,Ejerlejlighed,"Vestergade 39B, 1. tv",6100, Haderslev,1800000 ,05-12-2010,Alm. Salg,115,15652,3,1928,
 510,Villa,Christian Hostrups Vej 5,6100, Haderslev,2150000 ,05-12-2010,Alm. Salg,204,10539,5,1970,-6%
 510,Villa,Nannasvej 23,6100, Haderslev,595000 ,05-12-2010,Alm. Salg,158,3766,6,2011,
 510,Villa,Grønningen 30,6100, Haderslev,875000 ,05-12-2010,Auktion,230,3804,7,1962,
@@ -7540,7 +7395,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Dyssebakken 88,6500, Vojens,960000 ,30-10-2010,Alm. Salg,169,5680,6,1980,-4%
 510,Villa,Storegade 64,6560, Sommersted,575000 ,28-10-2010,Alm. Salg,156,3686,5,1946,
 510,Villa,Fredstedvænget 2,6100, Haderslev,863850 ,28-10-2010,Alm. Salg,209,4133,4,2014,
-510,Ejerlejlighed,"Hansborggade 10, st. th",6100, Haderslev,1950000 ,27-10-2010,Auktion,123,15854,3,2007,
 510,Villa,Skovbyvej 19,6500, Vojens,795000 ,27-10-2010,Alm. Salg,154,5162,6,1965,
 510,Villa,Simmersted Byvej 31A,6500, Vojens,1100000 ,27-10-2010,Alm. Salg,143,7692,5,1985,-12%
 510,Villa,Lapmejsevej 9,6500, Vojens,1185000 ,26-10-2010,Alm. Salg,138,8587,5,1976,-4%
@@ -7716,7 +7570,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Tværbjerg 5,6100, Haderslev,950000 ,22-07-2010,Alm. Salg,144,6597,5,1972,-10%
 510,Villa,Vodskovvej 5,6560, Sommersted,525000 ,22-07-2010,Alm. Salg,174,3017,5,1900,-6%
 510,Villa,Aarø 53,6100, Haderslev,850000 ,20-07-2010,Alm. Salg,168,5060,4,2014,
-510,Villa,Grønningen 25,6100, Haderslev,2175000 ,19-07-2010,Alm. Salg,139,15647,4,1953,
 510,Villa,Skovbøllingvej 40,6100, Haderslev,334249 ,19-07-2010,Fam. Salg,182,1837,7,1965,
 510,Villa,Slagtergade 14,6100, Haderslev,2250000 ,18-07-2010,Alm. Salg,198,11364,7,1849,-10%
 510,Villa,Grønlandsvej 52,6100, Haderslev,1425000 ,16-07-2010,Alm. Salg,136,10478,4,1973,-3%
@@ -7764,7 +7617,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Dyssebakken 185,6500, Vojens,2360828 ,27-06-2010,Alm. Salg,173,13646,5,2011,
 510,Villa,Hyrupvej 11,6541, Bevtoft,610000 ,23-06-2010,Fam. Salg,155,3935,6,1953,
 510,Villa,Hovedgaden Øst 44,6500, Vojens,620000 ,23-06-2010,Alm. Salg,119,5210,4,1971,-11%
-510,Rækkehus,Katsund 10,6100, Haderslev,1995000 ,22-06-2010,Alm. Salg,124,16089,4,1837,
 510,Villa,Mosekær 14,6500, Vojens,775000 ,22-06-2010,Alm. Salg,105,7381,4,1978,-3%
 510,Villa,Sønderhaven 17,6100, Haderslev,1150000 ,22-06-2010,Alm. Salg,175,6571,5,1965,-11%
 510,Villa,Kløverbakken 5,6100, Haderslev,1555614 ,22-06-2010,Alm. Salg,150,10371,5,2008,
@@ -7825,8 +7677,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Diernæsvej 12,6100, Haderslev,600000 ,24-05-2010,Alm. Salg,94,6383,3,1959,
 510,Villa,Fasanvej 3,6100, Haderslev,2350000 ,24-05-2010,Alm. Salg,170,13824,6,1950,-6%
 510,Villa,Langtoften 40,6100, Haderslev,366520 ,24-05-2010,Alm. Salg,193,1899,7,2010,
-510,Villa,Nannasvej 49,6100, Haderslev,2595000 ,22-05-2010,Alm. Salg,162,16019,6,2010,
-510,Rækkehus,Katsund 16,6100, Haderslev,1600000 ,20-05-2010,Alm. Salg,101,15842,4,1850,-6%
 510,Villa,Vesterkær 1,6500, Vojens,730000 ,20-05-2010,Alm. Salg,130,5615,6,1957,-3%
 510,Villa,Langtoften 34,6100, Haderslev,258510 ,20-05-2010,Alm. Salg,193,1339,6,2011,
 510,Villa,Over Jerstalvej 46B,6500, Vojens,721700 ,19-05-2010,Fam. Salg,118,6116,5,1943,
@@ -7921,7 +7771,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Nordre Ringvej 22,6500, Vojens,970000 ,28-03-2010,Alm. Salg,148,6554,5,1961,-3%
 510,Villa,Hoptrup Hovedgade 46,6100, Haderslev,1300000 ,28-03-2010,Alm. Salg,173,7514,6,1872,-23%
 510,Villa,Fårehave 212,6100, Haderslev,509220 ,27-03-2010,Alm. Salg,226,2253,5,2010,
-510,Villa,Risager 42,6100, Haderslev,2300000 ,26-03-2010,Alm. Salg,145,15862,5,2006,-6%
 510,Villa,Ryes Møllevej 49,6100, Haderslev,1475000 ,25-03-2010,Alm. Salg,105,14048,3,1932,-8%
 510,Villa,Tørninglundvej 3,6500, Vojens,233051 ,25-03-2010,Alm. Salg,80,2913,3,1920,
 510,Villa,Tørninglundvej 3,6500, Vojens,41000 ,24-03-2010,Auktion,80,513,3,1920,
@@ -7934,7 +7783,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Nørregade 22,6500, Vojens,1050000 ,23-03-2010,Alm. Salg,223,4709,6,1930,
 510,Villa,Fredstedvænget 15,6100, Haderslev,584500 ,22-03-2010,Alm. Salg,204,2865,6,2014,
 510,Villa,Hamisgårdvej 5G,6500, Vojens,347500 ,22-03-2010,Alm. Salg,168,2068,7,2010,
-510,Rækkehus,Bragesvej 45,6100, Haderslev,1600000 ,21-03-2010,Alm. Salg,101,15842,4,2003,-6%
 510,Villa,Engkær 7,6100, Haderslev,1595000 ,21-03-2010,Alm. Salg,125,12760,4,1985,
 510,Villa,Paludan-Müllers Vej 1,6100, Haderslev,1410000 ,21-03-2010,Alm. Salg,147,9592,4,1971,-12%
 510,Villa,Fårehave 119,6100, Haderslev,307800 ,21-03-2010,Alm. Salg,156,1973,5,2013,
@@ -8011,7 +7859,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Skolekobbel 5,6510, Gram,400000 ,10-02-2010,Alm. Salg,76,5263,3,1961,-24%
 510,Villa,Fredeshøj 13,6100, Haderslev,200000 ,10-02-2010,Auktion,130,1538,5,1870,
 510,Rækkehus,Kløvervej 17,6500, Vojens,735000 ,09-02-2010,Alm. Salg,111,6622,4,1958,-6%
-510,Rækkehus,Mimersvej 24,6100, Haderslev,1525000 ,09-02-2010,Alm. Salg,95,16053,3,2007,-6%
 510,Villa,Ærøvej 63,6100, Haderslev,1800000 ,09-02-2010,Alm. Salg,205,8780,7,1976,-9%
 510,Villa,Storegade 174,6560, Sommersted,670000 ,09-02-2010,Andet,169,3964,7,1932,
 510,Villa,Vandsangervej 1,6500, Vojens,1550000 ,08-02-2010,Fam. Salg,283,5477,7,1981,
@@ -8096,7 +7943,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Åmosevej 3,6560, Sommersted,1275000 ,17-12-2009,Alm. Salg,156,8173,5,1977,
 510,Villa,Vandlingvej 7,6100, Haderslev,1200000 ,17-12-2009,Alm. Salg,105,11429,4,1964,-14%
 510,Villa,Bøgevej 28,6500, Vojens,1125000 ,15-12-2009,Alm. Salg,105,10714,4,1965,
-510,Villa,Skjoldbjerg 16,6100, Haderslev,1520000 ,15-12-2009,Alm. Salg,95,16000,5,1951,-3%
 510,Villa,Bræråvej 16,6100, Haderslev,785000 ,15-12-2009,Fam. Salg,108,7269,4,1965,
 510,Villa,P. Christian Kochs Vej 11,6510, Gram,450000 ,15-12-2009,Alm. Salg,112,4018,4,1968,-9%
 510,Villa,Nannasvej 3,6100, Haderslev,2182180 ,15-12-2009,Alm. Salg,153,14263,5,2010,
@@ -8213,10 +8059,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Hammelev Bygade 42,6500, Vojens,1400000 ,15-10-2009,Alm. Salg,182,7692,5,1920,-12%
 510,Villa,Blomtoften 3,6500, Vojens,875000 ,14-10-2009,Alm. Salg,120,7292,4,1876,
 510,Villa,Nordre Ringvej 43,6500, Vojens,1000000 ,13-10-2009,Alm. Salg,150,6667,4,1962,-16%
-510,Rækkehus,Vestergade 37,6100, Haderslev,1800000 ,12-10-2009,Alm. Salg,114,15789,4,1827,-10%
 510,Villa,Mimersvej 12,6100, Haderslev,237600 ,09-10-2009,Alm. Salg,180,1320,5,2017,
-510,Ejerlejlighed,"Torvet 2A, 1",6510, Gram,1090000 ,08-10-2009,Alm. Salg,92,11848,4,1825,-9%
-510,Ejerlejlighed,"Torvet 2B, 1",6510, Gram,1090000 ,08-10-2009,Alm. Salg,119,9160,4,1825,-9%
 510,Villa,Maren Sørensens Vej 2,6100, Haderslev,870000 ,08-10-2009,Alm. Salg,92,9457,4,1952,-8%
 510,Villa,Nellikevej 2,6100, Haderslev,915000 ,08-10-2009,Alm. Salg,137,6679,4,1971,-8%
 510,Ejerlejlighed,"Jomfrustien 26, 1. tv",6100, Haderslev,600000 ,07-10-2009,Alm. Salg,87,6897,3,1911,
@@ -8230,13 +8073,11 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Østerled 2,6510, Gram,787000 ,04-10-2009,Alm. Salg,100,7870,3,1947,-5%
 510,Villa,Primulavej 18,6100, Haderslev,1100000 ,04-10-2009,Alm. Salg,128,8594,4,1971,-4%
 510,Villa,Tranevej 34,6500, Vojens,1600000 ,04-10-2009,Alm. Salg,156,10256,5,1970,-6%
-510,Villa,Tyrsvej 1,6100, Haderslev,2400000 ,03-10-2009,Alm. Salg,153,15686,5,2008,
 510,Villa,Runebakken 20,6500, Vojens,1590000 ,02-10-2009,Alm. Salg,163,9755,6,1980,-5%
 510,Villa,Fårehave 115,6100, Haderslev,418500 ,01-10-2009,Alm. Salg,179,2338,8,2010,
 510,Villa,Solbakken 8,6100, Haderslev,1495000 ,30-09-2009,Alm. Salg,101,14802,3,1927,
 510,Villa,Simmerstedvej 106,6100, Haderslev,1350000 ,29-09-2009,Alm. Salg,102,13235,4,1960,-8%
 510,Villa,Simmerstedholm 4,6500, Vojens,2495000 ,29-09-2009,Alm. Salg,244,10225,8,1941,
-510,Ejerlejlighed,"Aabenraavej 51, st",6100, Haderslev,2349219 ,27-09-2009,Alm. Salg,145,16202,4,1943,-6%
 510,Villa,Søndervang 12,6500, Vojens,250000 ,27-09-2009,Auktion,201,1244,7,1963,
 510,Villa,Maren Sørensens Vej 21,6100, Haderslev,1295000 ,24-09-2009,Alm. Salg,134,9664,4,1971,
 510,Villa,Fasanvej 4,6500, Vojens,1325000 ,23-09-2009,Alm. Salg,156,8494,6,1971,-4%
@@ -8248,7 +8089,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Tjørnebakken 28,6100, Haderslev,1000000 ,21-09-2009,Alm. Salg,154,6494,5,2013,
 510,Villa,Vilstrup Bysving 18,6100, Haderslev,700000 ,20-09-2009,Alm. Salg,143,4895,5,1958,-12%
 510,Villa,Langelandsvej 165,6100, Haderslev,510000 ,20-09-2009,Alm. Salg,171,2982,5,2011,
-510,Villa,Kærsangervej 11,6100, Haderslev,1340000 ,20-09-2009,Alm. Salg,84,15952,3,1959,-10%
 510,Rækkehus,Birkevænget 55,6541, Bevtoft,850000 ,18-09-2009,Alm. Salg,117,7265,4,1982,
 510,Villa,Kløverbakken 10,6100, Haderslev,675000 ,16-09-2009,Alm. Salg,185,3649,5,2011,
 510,Villa,Favrdalen 75,6100, Haderslev,1450000 ,14-09-2009,Alm. Salg,240,6042,6,1972,-14%
@@ -8295,7 +8135,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Skaus Vej 5,6500, Vojens,1000000 ,16-08-2009,Alm. Salg,142,7042,6,1931,-9%
 510,Villa,Vinkelvej 11,6510, Gram,695000 ,16-08-2009,Alm. Salg,144,4826,5,1969,-10%
 510,Villa,Kalmargårdvej 6,6100, Haderslev,589888 ,14-08-2009,Alm. Salg,208,2836,4,1900,-62%
-510,Rækkehus,Slagtergade 19A,6100, Haderslev,1063000 ,13-08-2009,Auktion,117,9085,4,1911,
 510,Ejerlejlighed,"Badstuegade 12, st",6100, Haderslev,1215000 ,13-08-2009,Alm. Salg,97,12526,3,1825,-4%
 510,Villa,Ballehøj 8,6100, Haderslev,1000000 ,13-08-2009,Alm. Salg,136,7353,4,1964,
 510,Villa,Langelandsvej 127,6100, Haderslev,531500 ,13-08-2009,Alm. Salg,152,3497,5,2014,
@@ -8309,7 +8148,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Rosengade 16,6500, Vojens,850000 ,09-08-2009,Alm. Salg,133,6391,4,1972,-5%
 510,Villa,P.A. Madvigs Vej 25,6100, Haderslev,1330000 ,09-08-2009,Alm. Salg,105,12667,4,1982,-5%
 510,Villa,Storegade 116,6560, Sommersted,560000 ,09-08-2009,Alm. Salg,153,3660,5,1906,-6%
-510,Villa,Borgervænget 13,6100, Haderslev,3150000 ,09-08-2009,Andet,194,16237,6,1725,
 510,Villa,Dyssebakken 1,6500, Vojens,2000000 ,08-08-2009,Alm. Salg,184,10870,4,2000,-5%
 510,Villa,Abkærvej 13,6500, Vojens,700000 ,06-08-2009,Alm. Salg,164,4268,7,1962,-3%
 510,Villa,Marstrup Bygade 134,6100, Haderslev,1620000 ,05-08-2009,Alm. Salg,254,6378,9,1908,
@@ -8393,7 +8231,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Fjelstrup Landevej 56,6100, Haderslev,700000 ,17-06-2009,Alm. Salg,175,4000,6,1903,-12%
 510,Villa,Æblevej 9,6500, Vojens,1100000 ,15-06-2009,Alm. Salg,140,7857,5,1973,-2%
 510,Villa,Solvang 17,6100, Haderslev,1550000 ,15-06-2009,Alm. Salg,100,15500,4,1946,-11%
-510,Rækkehus,Troldhøj 7,6100, Haderslev,1660000 ,14-06-2009,Alm. Salg,106,15660,3,2008,
 510,Villa,Brunbjergvej 5,6500, Vojens,740000 ,14-06-2009,Alm. Salg,104,7115,3,1840,-7%
 510,Villa,Lillebro 13,6100, Haderslev,1093500 ,14-06-2009,Andet,160,6834,5,2006,
 510,Villa,Aarø 154,6100, Haderslev,550000 ,13-06-2009,Fam. Salg,131,4198,4,1915,
@@ -8751,7 +8588,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Langelandsvej 141,6100, Haderslev,250000 ,01-10-2008,Alm. Salg,153,1634,6,2008,
 510,Villa,Over Jerstalvej 28,6500, Vojens,400000 ,30-09-2008,Alm. Salg,102,3922,4,1958,
 510,Villa,Ærtevej 54,6500, Vojens,900000 ,30-09-2008,Fam. Salg,156,5769,4,2002,
-510,Villa,Aarøsundvej 20A,6100, Haderslev,2640000 ,30-09-2008,Fam. Salg,165,16000,8,1930,
 510,Villa,Hyrup Bygade 25,6100, Haderslev,800000 ,30-09-2008,Fam. Salg,100,8000,3,1964,
 510,Rækkehus,Kroghs Kobbel 5,6100, Haderslev,1100000 ,28-09-2008,Alm. Salg,107,10280,4,1963,-4%
 510,Rækkehus,Kærsangervej 24,6100, Haderslev,1070000 ,28-09-2008,Alm. Salg,98,10918,4,1949,-7%
@@ -8778,7 +8614,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Ejerlejlighed,"Sankt Severin Gade 2, 1. mf",6100, Haderslev,1295000 ,13-09-2008,Alm. Salg,119,10882,2,1928,
 510,Villa,Humlegårdsbæk 2A,6100, Haderslev,1600000 ,13-09-2008,Alm. Salg,128,12500,6,1987,-6%
 510,Villa,Ved Majen 11,6500, Vojens,1200000 ,11-09-2008,Alm. Salg,157,7643,5,1976,
-510,Rækkehus,Bragesvej 8,6100, Haderslev,1700000 ,10-09-2008,Alm. Salg,107,15888,4,2004,
 510,Ejerlejlighed,"Slotsgade 7, 2",6100, Haderslev,639828 ,10-09-2008,Alm. Salg,139,4603,4,1981,-60%
 510,Villa,Hoptrup Hovedgade 96,6100, Haderslev,675000 ,10-09-2008,Alm. Salg,72,9375,3,1827,
 510,Villa,Præstegårdsalleen 9,6100, Haderslev,905000 ,10-09-2008,Alm. Salg,130,6962,4,1963,
@@ -8796,19 +8631,16 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Ejerlejlighed,"Ribe Landevej 4, 1",6100, Haderslev,1260000 ,02-09-2008,Alm. Salg,118,10678,3,1910,-3%
 510,Villa,Tovskovvej 42,6560, Sommersted,580000 ,02-09-2008,Alm. Salg,60,9667,3,1947,-9%
 510,Villa,Margrethevej 3,6510, Gram,710000 ,02-09-2008,Alm. Salg,124,5726,4,1977,
-510,Rækkehus,Bragesvej 8,6100, Haderslev,1550000 ,01-09-2008,Alm. Salg,107,14486,4,2004,
 510,Rækkehus,Bragesvej 37,6100, Haderslev,1525000 ,01-09-2008,Alm. Salg,101,15099,4,2003,
 510,Rækkehus,Bragesvej 53,6100, Haderslev,1500000 ,01-09-2008,Alm. Salg,101,14851,4,2003,
 510,Villa,Nørbygårdvej 1,6100, Haderslev,1250000 ,01-09-2008,Alm. Salg,149,8389,5,1969,-2%
 510,Villa,Ribe Landevej 110,6100, Haderslev,1350000 ,01-09-2008,Alm. Salg,200,6750,7,1968,-10%
-510,Villa,Bragesvej 35,6100, Haderslev,1550000 ,01-09-2008,Alm. Salg,101,15347,4,2003,
 510,Villa,Søgård Alle 7,6100, Haderslev,515000 ,01-09-2008,Andet,129,3992,4,1973,
 510,Villa,Vesterrisvej 10,6100, Haderslev,750000 ,31-08-2008,Alm. Salg,123,6098,5,1984,
 510,Villa,Rosenbakken 6,6100, Haderslev,1660000 ,30-08-2008,Alm. Salg,138,12029,3,1973,
 510,Villa,Nederbyvænget 372,6100, Haderslev,1925000 ,29-08-2008,Alm. Salg,155,12419,7,1986,-1%
 510,Villa,Aarø 178,6100, Haderslev,1200000 ,29-08-2008,Alm. Salg,189,6349,6,1979,
 510,Villa,Ørby 16,6100, Haderslev,1314850 ,28-08-2008,Alm. Salg,142,9260,5,1963,
-510,Villa,Storegade 152C,6560, Sommersted,160000 ,28-08-2008,Auktion,57,2807,2,1895,
 510,Villa,Strandelhjørn Bygade 28,6500, Vojens,341735 ,28-08-2008,Alm. Salg,195,1752,8,2008,
 510,Villa,Hyldevænget 33D,6560, Sommersted,201195 ,28-08-2008,Alm. Salg,122,1649,5,2009,
 510,Villa,Nederbyvænget 346,6100, Haderslev,1700000 ,27-08-2008,Alm. Salg,165,10303,6,1986,-7%
@@ -8958,7 +8790,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Marstrup Kirkevej 80,6100, Haderslev,885000 ,16-06-2008,Alm. Salg,112,7902,4,1968,-1%
 510,Villa,Teglværksvej 6,6510, Gram,525000 ,16-06-2008,Alm. Salg,109,4817,3,1956,-9%
 510,Villa,Tøndervej 1,6500, Vojens,310250 ,16-06-2008,Fam. Salg,150,2068,6,1900,
-510,Villa,Lænkebjerg 13,6100, Haderslev,1035000 ,15-06-2008,Alm. Salg,66,15682,3,1957,-1%
 510,Villa,Frejsager 4,6500, Vojens,1395000 ,15-06-2008,Alm. Salg,136,10257,4,1971,
 510,Villa,Vestergade 68,6100, Haderslev,715845 ,15-06-2008,Alm. Salg,156,4589,7,1900,
 510,Villa,Porsevej 4A,6100, Haderslev,2570000 ,15-06-2008,Alm. Salg,162,14770,5,1973,
@@ -8970,7 +8801,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Skydsbjerg 7,6100, Haderslev,945000 ,11-06-2008,Alm. Salg,120,7875,4,1966,-5%
 510,Villa,Skjoldsvænge 8,6500, Vojens,1275000 ,11-06-2008,Alm. Salg,130,9808,4,1974,
 510,Villa,Torvegade 8,6510, Gram,1050000 ,11-06-2008,Alm. Salg,138,6105,5,1926,
-510,Villa,Rolighedsvej 14,6100, Haderslev,2675000 ,11-06-2008,Alm. Salg,170,15735,5,1923,
 510,Villa,Ahornvej 37,6100, Haderslev,1326000 ,11-06-2008,Alm. Salg,145,9145,6,1952,
 510,Villa,Hovedgaden Øst 42,6500, Vojens,725000 ,09-06-2008,Alm. Salg,142,5106,5,1940,-3%
 510,Villa,Kirkevej 15,6510, Gram,1300000 ,09-06-2008,Alm. Salg,121,10744,4,1900,
@@ -9031,7 +8861,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Bæk Nørremark 7,6500, Vojens,673979 ,20-05-2008,Fam. Salg,150,4493,5,1887,
 510,Villa,Lundingvej 40,6100, Haderslev,650000 ,19-05-2008,Andet,167,3892,5,1875,
 510,Villa,Stærevej 2,6100, Haderslev,1135000 ,19-05-2008,Alm. Salg,100,11350,4,1958,-1%
-510,Rækkehus,Troldhøj 15,6100, Haderslev,1917976 ,18-05-2008,Alm. Salg,122,15721,4,2008,
 510,Villa,Hoptrup Hovedgade 86,6100, Haderslev,825000 ,18-05-2008,Alm. Salg,98,8418,5,1900,
 510,Villa,Skolevej 26,6500, Vojens,825000 ,18-05-2008,Alm. Salg,97,8505,4,1937,-2%
 510,Villa,Birkelund 23,6100, Haderslev,246420 ,18-05-2008,Alm. Salg,158,1560,6,2009,
@@ -9054,7 +8883,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Grønningen 25,6100, Haderslev,1925000 ,08-05-2008,Alm. Salg,139,13849,4,1953,
 510,Villa,Ribe Landevej 44,6100, Haderslev,1900000 ,08-05-2008,Alm. Salg,150,12667,6,1910,
 510,Rækkehus,Kærsangervej 22,6100, Haderslev,1000000 ,07-05-2008,Alm. Salg,98,10204,4,1949,
-510,Villa,Tjørnebakken 10,6100, Haderslev,2175000 ,07-05-2008,Alm. Salg,130,15761,5,1969,-5%
 510,Villa,Havesangervej 6,6500, Vojens,1150000 ,07-05-2008,Alm. Salg,119,9664,3,1980,
 510,Rækkehus,Staruphave 10,6100, Haderslev,1295000 ,06-05-2008,Alm. Salg,96,13490,4,1989,
 510,Villa,Engtoften 2,6560, Sommersted,1135000 ,06-05-2008,Alm. Salg,134,8470,5,1967,
@@ -9078,7 +8906,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Margrethevej 24,6500, Vojens,1225000 ,29-04-2008,Alm. Salg,120,10208,5,1963,
 510,Villa,Ringvej 7,6500, Vojens,755000 ,29-04-2008,Alm. Salg,117,6453,4,1910,-5%
 510,Ejerlejlighed,"Allegade 5, 1. tv",6100, Haderslev,525000 ,28-04-2008,Alm. Salg,40,13125,1,1890,-7%
-510,Ejerlejlighed,Aastrupvej 65S,6100, Haderslev,1895000 ,28-04-2008,Alm. Salg,117,16197,4,2005,
 510,Villa,Bjergvang 9,6500, Vojens,1150000 ,28-04-2008,Alm. Salg,126,9127,4,1970,
 510,Villa,Mimersvej 5,6100, Haderslev,725000 ,27-04-2008,Alm. Salg,167,4341,6,2013,
 510,Villa,Solvej 2,6500, Vojens,750000 ,26-04-2008,Alm. Salg,88,8523,3,1954,
@@ -9125,7 +8952,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Rønkærgårdvej 4,6100, Haderslev,975000 ,08-04-2008,Alm. Salg,96,10156,3,1953,
 510,Villa,Tøndervej 40,6500, Vojens,895000 ,06-04-2008,Alm. Salg,157,5701,3,1939,
 510,Villa,Kongevej 65,6100, Haderslev,1800000 ,06-04-2008,Alm. Salg,163,11043,4,1970,-5%
-510,Villa,Tjørnebakken 26,6100, Haderslev,3050000 ,06-04-2008,Alm. Salg,192,15885,6,1969,-3%
 510,Villa,Moltrupvej 29,6100, Haderslev,1285000 ,06-04-2008,Alm. Salg,166,7741,6,1907,
 510,Villa,Hoptrup Hovedgade 100,6100, Haderslev,1625000 ,04-04-2008,Alm. Salg,171,9503,8,1931,-2%
 510,Ejerlejlighed,"Slotsvej 25, 1",6510, Gram,1275000 ,03-04-2008,Alm. Salg,230,5543,5,1936,
@@ -9165,7 +8991,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Rovstrupvej 15,6100, Haderslev,1140000 ,24-03-2008,Alm. Salg,118,9661,6,1947,
 510,Villa,Fælledvej 2,6100, Haderslev,1300000 ,24-03-2008,Alm. Salg,104,12500,4,1905,
 510,Villa,Sundparken 2,6100, Haderslev,1790000 ,24-03-2008,Alm. Salg,189,9471,5,1967,-5%
-510,Rækkehus,Troldhøj 33,6100, Haderslev,1695000 ,23-03-2008,Alm. Salg,106,15991,3,2008,
 510,Villa,Storegade 188,6560, Sommersted,520000 ,23-03-2008,Alm. Salg,64,8125,2,1953,
 510,Villa,Kelstrupvej 62,6100, Haderslev,500779 ,18-03-2008,Andet,111,4512,4,1939,
 510,Villa,Ustrupvej 10,6500, Vojens,735000 ,18-03-2008,Alm. Salg,150,4900,7,1943,-2%
@@ -9184,7 +9009,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Nyvej 19,6500, Vojens,335914 ,13-03-2008,Alm. Salg,112,2999,5,1958,
 510,Villa,Ribevej 10,6500, Vojens,695000 ,13-03-2008,Alm. Salg,129,5388,4,1949,
 510,Villa,Lillegårdsvej 12,6070, Christiansfeld,650000 ,13-03-2008,Alm. Salg,148,5963,6,1900,-5%
-510,Villa,Risager 36,6100, Haderslev,2575000 ,13-03-2008,Alm. Salg,164,15701,6,2006,-14%
 510,Rækkehus,Stationsvej 3,6500, Vojens,880000 ,11-03-2008,Alm. Salg,138,6377,6,1947,-2%
 510,Ejerlejlighed,Sønderbro 26G,6100, Haderslev,310000 ,11-03-2008,Alm. Salg,41,7561,2,1986,
 510,Villa,Kirkealle 29,6510, Gram,580000 ,11-03-2008,Alm. Salg,112,5179,5,1935,-3%
@@ -9239,8 +9063,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Ribe Landevej 30,6100, Haderslev,1063101 ,19-02-2008,Fam. Salg,204,5211,7,1909,
 510,Villa,Slotsvej 43,6510, Gram,500000 ,19-02-2008,Alm. Salg,155,3226,6,1935,-15%
 510,Villa,Godthåbsvej 9,6100, Haderslev,1500000 ,19-02-2008,Alm. Salg,142,10563,5,1972,-5%
-510,Rækkehus,Storegade 120B,6560, Sommersted,750000 ,18-02-2008,Alm. Salg,63,11905,2,1959,
-510,Villa,Storegade 120,6560, Sommersted,750000 ,18-02-2008,Alm. Salg,128,5859,3,1925,
 510,Villa,Lillebro 8,6100, Haderslev,1500000 ,18-02-2008,Fam. Salg,233,6438,6,2007,
 510,Villa,Nyvang 11,6500, Vojens,1125000 ,17-02-2008,Alm. Salg,121,9298,6,1964,
 510,Villa,Kærtoft 10,6100, Haderslev,600000 ,17-02-2008,Alm. Salg,134,4478,6,1982,
@@ -9256,7 +9078,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Eskærhøjvej 35,6100, Haderslev,1518884 ,11-02-2008,Fam. Salg,239,6355,5,2006,
 510,Villa,Moltrupvej 25,6100, Haderslev,1100000 ,11-02-2008,Alm. Salg,138,7971,4,1907,-2%
 510,Villa,Genvej 8,6560, Sommersted,650000 ,08-02-2008,Alm. Salg,105,6190,3,1879,-13%
-510,Rækkehus,Hertug Hans Gade 9A,6100, Haderslev,2400000 ,07-02-2008,Alm. Salg,148,16216,4,1926,-4%
 510,Ejerlejlighed,"Aastrupvej 52, 2",6100, Haderslev,1060000 ,07-02-2008,Alm. Salg,92,11522,2,1913,-2%
 510,Villa,Kærager 9,6500, Vojens,1290000 ,07-02-2008,Alm. Salg,158,8165,5,1976,
 510,Villa,Ribe Landevej 7,6100, Haderslev,3050000 ,07-02-2008,Alm. Salg,244,12500,7,1893,-5%
@@ -9266,7 +9087,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Langelandsvej 153,6100, Haderslev,557000 ,05-02-2008,Alm. Salg,240,2321,5,2008,
 510,Villa,Hjartbro Skovvej 9,6541, Bevtoft,1500000 ,04-02-2008,Alm. Salg,205,7317,6,1860,
 510,Villa,Louisevej 51,6100, Haderslev,1490000 ,04-02-2008,Alm. Salg,150,9933,7,1954,-7%
-510,Villa,Nederbyvænget 314,6100, Haderslev,2400000 ,03-02-2008,Alm. Salg,151,15894,6,1994,-7%
 510,Ejerlejlighed,"Højgade 9, 1",6100, Haderslev,1725000 ,02-02-2008,Alm. Salg,163,10583,4,1850,-5%
 510,Villa,Favrdalen 19,6100, Haderslev,1400000 ,02-02-2008,Alm. Salg,107,13084,3,1972,-5%
 510,Villa,Over Kestrup 11,6100, Haderslev,630000 ,02-02-2008,Fam. Salg,109,5780,4,1969,
@@ -9375,7 +9195,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Ejerlejlighed,"Badstuegade 12, 1",6100, Haderslev,1435000 ,12-12-2007,Alm. Salg,161,8913,4,1825,-4%
 510,Villa,Akmajvej 12,6560, Sommersted,850000 ,12-12-2007,Alm. Salg,114,7456,4,1971,
 510,Villa,Solhøj 7,6100, Haderslev,737000 ,12-12-2007,Alm. Salg,285,2586,7,2021,
-510,Villa,Langelandsvej 59,6100, Haderslev,3400000 ,11-12-2007,Alm. Salg,214,15888,6,2005,
 510,Villa,Tovskovvej 16,6560, Sommersted,895000 ,11-12-2007,Alm. Salg,88,10170,2,1960,
 510,Villa,Langelandsvej 141,6100, Haderslev,405200 ,11-12-2007,Alm. Salg,153,2648,6,2008,
 510,Rækkehus,Odinsvej 219,6500, Vojens,885000 ,10-12-2007,Alm. Salg,96,9219,3,1979,
@@ -9485,9 +9304,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Skyttevej 1,6510, Gram,950000 ,04-11-2007,Alm. Salg,126,7540,4,1936,
 510,Villa,Birkevej 13,6510, Gram,1030000 ,04-11-2007,Alm. Salg,170,6059,5,1969,
 510,Villa,Præstevænget 12,6100, Haderslev,775000 ,04-11-2007,Alm. Salg,127,6102,5,1964,
-510,Villa,Sydhavnsvej 26,6100, Haderslev,2825000 ,04-11-2007,Alm. Salg,176,16051,7,1945,
 510,Villa,Starup Fjordvej 35,6100, Haderslev,1700000 ,03-11-2007,Alm. Salg,211,8057,3,1967,-14%
-510,Rækkehus,Troldhøj 27,6100, Haderslev,1695000 ,02-11-2007,Alm. Salg,106,15991,3,2007,
 510,Villa,Christiansdalvej 4,6500, Vojens,1225000 ,01-11-2007,Alm. Salg,106,11557,3,1957,
 510,Villa,Ved Majen 1,6500, Vojens,520000 ,01-11-2007,Fam. Salg,149,3490,4,1969,
 510,Villa,Nederbyvænget 192,6100, Haderslev,2250000 ,01-11-2007,Alm. Salg,176,12784,3,1980,
@@ -9517,7 +9334,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Solhøj 1,6100, Haderslev,567000 ,28-10-2007,Alm. Salg,173,3277,6,2009,
 510,Villa,Rolighedsvej 21,6100, Haderslev,780000 ,28-10-2007,Alm. Salg,183,4262,6,1926,
 510,Villa,Kalmargårdparken 3,6100, Haderslev,307315 ,28-10-2007,Alm. Salg,195,1576,4,2009,
-510,Villa,Kløverbakken 6,6100, Haderslev,2695000 ,28-10-2007,Alm. Salg,168,16042,5,2007,
 510,Villa,Hamisgårdvej 5B,6500, Vojens,488250 ,27-10-2007,Alm. Salg,149,3277,6,2008,
 510,Villa,Skovvej 18,6510, Gram,455000 ,26-10-2007,Alm. Salg,113,4027,6,1962,
 510,Villa,Svanevej 38,6100, Haderslev,283000 ,25-10-2007,Fam. Salg,188,1505,6,1947,
@@ -9533,7 +9349,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Hestehaven 32,6100, Haderslev,825000 ,23-10-2007,Alm. Salg,106,7783,4,1962,
 510,Villa,Engkær 10,6100, Haderslev,1395000 ,23-10-2007,Alm. Salg,98,14235,4,1959,
 510,Villa,Christian Winthers Vej 7,6100, Haderslev,1845000 ,23-10-2007,Alm. Salg,145,12724,4,1972,
-510,Villa,Hørregårdsvej 12,6100, Haderslev,2100000 ,23-10-2007,Alm. Salg,130,16154,5,1951,
 510,Villa,Øsbygade 97,6100, Haderslev,767500 ,23-10-2007,Fam. Salg,197,3896,5,1902,
 510,Villa,Prinsensvej 4,6100, Haderslev,1940000 ,23-10-2007,Alm. Salg,170,11412,7,1969,-3%
 510,Villa,Nederbyvænget 416,6100, Haderslev,590000 ,23-10-2007,Alm. Salg,171,3450,5,1978,
@@ -9547,11 +9362,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Simmersted Byvej 20A,6500, Vojens,1095000 ,21-10-2007,Alm. Salg,134,8172,4,1973,
 510,Villa,Hovedgaden Øst 20,6500, Vojens,550000 ,21-10-2007,Alm. Salg,132,4167,5,1943,
 510,Villa,Østerled 17,6510, Gram,700000 ,21-10-2007,Alm. Salg,102,6863,4,1955,
-510,Villa,Simmerstedvej 39,6100, Haderslev,1775000 ,21-10-2007,Alm. Salg,113,15708,4,1933,-1%
 510,Ejerlejlighed,"Hansborggade 12, st",6100, Haderslev,900000 ,19-10-2007,Alm. Salg,144,6250,4,2007,
 510,Villa,Lærkevej 6,6100, Haderslev,1850000 ,18-10-2007,Alm. Salg,202,9158,9,1962,-7%
 510,Villa,Ustrupvej 12,6500, Vojens,737500 ,18-10-2007,Alm. Salg,141,5230,6,1950,-5%
-510,Villa,Kærsangervej 17,6100, Haderslev,1500000 ,18-10-2007,Alm. Salg,158,9494,5,1974,-6%
 510,Villa,Langstrengvej 26,6100, Haderslev,840000 ,17-10-2007,Alm. Salg,128,6563,4,1931,
 510,Villa,Solvang 19,6100, Haderslev,1080000 ,17-10-2007,Alm. Salg,72,15000,2,1956,
 510,Villa,Marstrup Kirkevej 84,6100, Haderslev,1225000 ,16-10-2007,Alm. Salg,140,8750,6,1966,-4%
@@ -9654,7 +9467,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Langdyssevej 6,6500, Vojens,550000 ,13-09-2007,Alm. Salg,89,6180,2,1837,
 510,Villa,Vesterled 13,6510, Gram,600000 ,13-09-2007,Alm. Salg,146,4110,5,1949,
 510,Villa,Ejsbølvej 54,6100, Haderslev,1200000 ,13-09-2007,Alm. Salg,93,12903,3,1964,-4%
-510,Rækkehus,Troldhøj 29,6100, Haderslev,1695000 ,12-09-2007,Alm. Salg,106,15991,3,2007,
 510,Villa,Starup Kirkevej 5,6100, Haderslev,1395000 ,12-09-2007,Alm. Salg,120,11625,4,1963,
 510,Villa,Hovedgaden Vest 88,6500, Vojens,850000 ,12-09-2007,Alm. Salg,270,3148,7,1916,
 510,Villa,Tøndervej 87,6500, Vojens,375000 ,11-09-2007,Alm. Salg,105,3571,3,1949,
@@ -9700,7 +9512,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Stationsvej 24,6500, Vojens,785000 ,28-08-2007,Alm. Salg,143,5490,6,1946,-5%
 510,Villa,Pilevej 6,6500, Vojens,1595000 ,28-08-2007,Alm. Salg,145,11000,4,1983,
 510,Villa,Ribe Landevej 70,6100, Haderslev,980000 ,28-08-2007,Alm. Salg,119,8235,4,1938,3%
-510,Rækkehus,Vestergade 57A,6500, Vojens,1625000 ,27-08-2007,Alm. Salg,100,9969,4,1959,
 510,Rækkehus,Tåsingevej 40,6100, Haderslev,705000 ,27-08-2007,Alm. Salg,67,10522,2,1979,-6%
 510,Villa,Vilstrup Bysving 38,6100, Haderslev,750000 ,27-08-2007,Alm. Salg,124,6048,4,1948,
 510,Villa,Tøndervej 38,6500, Vojens,630000 ,26-08-2007,Alm. Salg,64,9844,2,1937,
@@ -9854,9 +9665,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Rækkehus,Eskærhaven 2,6100, Haderslev,510000 ,26-06-2007,Alm. Salg,99,5152,3,2007,
 510,Villa,Vismarlundvej 18,6500, Vojens,850000 ,26-06-2007,Alm. Salg,118,7203,3,1942,
 510,Villa,Ahornvej 14,6100, Haderslev,873000 ,26-06-2007,Alm. Salg,108,8083,4,1951,
-510,Ejerlejlighed,"Lavgade 6, 2",6100, Haderslev,800000 ,25-06-2007,Alm. Salg,88,9091,3,1897,
-510,Ejerlejlighed,"Christiansfeldvej 11, st",6100, Haderslev,800000 ,25-06-2007,Alm. Salg,162,4938,4,1900,
-510,Ejerlejlighed,"Christiansfeldvej 11, 1",6100, Haderslev,800000 ,25-06-2007,Alm. Salg,150,5333,5,1900,
 510,Villa,Hjerndrupvej 128,6070, Christiansfeld,145000 ,25-06-2007,Auktion,178,815,6,2008,
 510,Villa,Moltrup Bygade 37,6100, Haderslev,156000 ,25-06-2007,Alm. Salg,122,1279,5,2009,-3%
 510,Villa,Grønlandsvej 48,6100, Haderslev,852724 ,24-06-2007,Andet,138,6179,5,1973,
@@ -9890,7 +9698,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Skovvej 10,6510, Gram,215000 ,16-06-2007,Alm. Salg,106,2028,2,1941,
 510,Villa,Kolsnapskovvej 3,6500, Vojens,1000000 ,16-06-2007,Alm. Salg,229,4367,8,1907,
 510,Villa,Birkevej 5,6100, Haderslev,1400000 ,15-06-2007,Alm. Salg,122,11475,4,1964,
-510,Rækkehus,Simmerstedvej 95,6100, Haderslev,1715000 ,14-06-2007,Alm. Salg,107,16028,4,1949,
 510,Villa,Jernhytvej 27,6500, Vojens,975000 ,14-06-2007,Alm. Salg,169,5769,8,1959,
 510,Villa,Humlevænget 21,6100, Haderslev,1178000 ,14-06-2007,Alm. Salg,194,6072,6,1948,
 510,Villa,Langelandsvej 181,6100, Haderslev,460000 ,14-06-2007,Alm. Salg,231,1991,7,2008,
@@ -9922,7 +9729,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Øsby Stadionvej 77,6100, Haderslev,170000 ,10-06-2007,Alm. Salg,171,994,5,2010,
 510,Villa,Allegade 4,6500, Vojens,1650000 ,08-06-2007,Alm. Salg,214,7710,7,1912,
 510,Rækkehus,Gammel Skovbyvej 5,6500, Vojens,2305000 ,07-06-2007,Alm. Salg,220,10477,6,1902,
-510,Rækkehus,Klosteret 14,6100, Haderslev,840000 ,07-06-2007,Alm. Salg,52,16154,2,1850,-6%
 510,Villa,Hestehaven 59,6100, Haderslev,1275000 ,07-06-2007,Alm. Salg,164,7774,7,1900,
 510,Villa,Hejsager Østertoft 7,6100, Haderslev,65000 ,07-06-2007,Alm. Salg,206,316,5,2009,
 510,Villa,Høgelundvej 7,6500, Vojens,500000 ,06-06-2007,Alm. Salg,162,3086,6,1913,
@@ -10059,7 +9865,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Thurøvej 7,6100, Haderslev,1700000 ,23-04-2007,Alm. Salg,161,10559,4,1977,
 510,Villa,Nyvej 2,6500, Vojens,700000 ,23-04-2007,Fam. Salg,181,3867,8,1965,
 510,Villa,Neder Jerstalvej 30,6541, Bevtoft,495000 ,23-04-2007,Alm. Salg,110,4500,4,1958,
-510,Villa,Ahornvej 52,6100, Haderslev,1545000 ,23-04-2007,Alm. Salg,95,16263,5,1950,
 510,Villa,Sankt Vincents Vej 9,6510, Gram,850000 ,22-04-2007,Alm. Salg,164,5183,5,1973,
 510,Villa,Grønningen 27,6100, Haderslev,999000 ,22-04-2007,Alm. Salg,102,9794,5,1957,
 510,Villa,Nederbyvænget 280,6100, Haderslev,1437500 ,22-04-2007,Alm. Salg,133,10808,4,1987,
@@ -10068,7 +9873,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Buen 18,6541, Bevtoft,795000 ,22-04-2007,Alm. Salg,141,5638,6,1968,
 510,Villa,Nyvej 32,6100, Haderslev,900000 ,22-04-2007,Alm. Salg,100,9000,5,1926,-10%
 510,Villa,Zeises Have 9,6100, Haderslev,1525000 ,20-04-2007,Alm. Salg,128,11914,5,1965,
-510,Villa,Degnegyde 3,6100, Haderslev,2350000 ,19-04-2007,Alm. Salg,147,15986,6,1999,
 510,Villa,Gammel Bevtoftvej 7,6500, Vojens,1278000 ,19-04-2007,Alm. Salg,166,7699,6,1959,-1%
 510,Villa,Vandlingvej 131,6100, Haderslev,637000 ,19-04-2007,Andet,229,2782,6,1928,
 510,Rækkehus,Eskærhaven 11,6100, Haderslev,578900 ,18-04-2007,Alm. Salg,99,5847,3,2007,
@@ -10113,7 +9917,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Fasanvej 4,6100, Haderslev,1695000 ,03-04-2007,Alm. Salg,153,11078,5,1976,
 510,Villa,Kirkealle 10,6510, Gram,1650000 ,02-04-2007,Alm. Salg,245,4472,8,1950,
 510,Villa,Nørremarksvej 9,6510, Gram,550000 ,02-04-2007,Alm. Salg,228,2412,7,1820,
-510,Villa,Tåsingevej 103,6100, Haderslev,500000 ,01-04-2007,Auktion,145,3448,4,1978,
 510,Villa,Vilstrup Vestertoft 12,6100, Haderslev,144150 ,31-03-2007,Alm. Salg,177,814,6,2008,
 510,Villa,Skolekobbel 7,6510, Gram,625000 ,30-03-2007,Alm. Salg,90,6944,3,1957,
 510,Villa,Havesangervej 10,6500, Vojens,1440000 ,30-03-2007,Alm. Salg,136,10588,5,1980,
@@ -10178,7 +9981,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Skolekobbel 30,6510, Gram,623000 ,13-03-2007,Alm. Salg,103,6049,3,1965,
 510,Villa,Lindevej 2,6100, Haderslev,405000 ,13-03-2007,Fam. Salg,295,1373,11,1908,
 510,Villa,Kirkebjergvej 8,6510, Gram,1050000 ,12-03-2007,Alm. Salg,174,6034,6,1969,
-510,Villa,Fælleslykkevej 26,6100, Haderslev,1250000 ,12-03-2007,Alm. Salg,79,15823,2,1940,-4%
 510,Villa,Tjørnebakken 20,6100, Haderslev,1575000 ,11-03-2007,Alm. Salg,128,12305,5,1968,
 510,Villa,Brændbjerg 21,6100, Haderslev,770000 ,11-03-2007,Fam. Salg,158,4873,5,1978,
 510,Villa,Østerskovvej 2,6500, Vojens,1515000 ,11-03-2007,Alm. Salg,167,9072,5,1986,-5%
@@ -10275,7 +10077,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Vandlinggårdvej 8,6100, Haderslev,1325000 ,30-01-2007,Alm. Salg,171,7749,4,1941,
 510,Villa,Benediktevej 22,6500, Vojens,795000 ,30-01-2007,Alm. Salg,134,5933,4,1963,
 510,Villa,Bøgely 20,6100, Haderslev,600000 ,30-01-2007,Alm. Salg,436,1376,6,2008,
-510,Rækkehus,Slagtergade 19A,6100, Haderslev,1700000 ,29-01-2007,Alm. Salg,117,14530,4,1911,
 510,Villa,Nederbyvænget 120,6100, Haderslev,1390000 ,29-01-2007,Alm. Salg,150,9267,6,1978,
 510,Villa,Langelandsvej 41,6100, Haderslev,1400000 ,29-01-2007,Alm. Salg,124,11290,4,1980,
 510,Villa,Birkevej 17,6510, Gram,730000 ,29-01-2007,Alm. Salg,183,3989,6,1973,
@@ -10285,7 +10086,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Brombærvej 52,6100, Haderslev,1475000 ,25-01-2007,Alm. Salg,148,9966,5,1961,
 510,Villa,Bøgevænget 7,6541, Bevtoft,1019887 ,25-01-2007,Alm. Salg,137,7444,5,1980,5%
 510,Villa,Runebakken 16,6500, Vojens,1265000 ,25-01-2007,Alm. Salg,123,10285,5,1979,
-510,Villa,Ærøvej 30,6100, Haderslev,1550000 ,25-01-2007,Alm. Salg,183,8470,5,1976,
 510,Villa,Aarøsund Landevej 172,6100, Haderslev,1275000 ,25-01-2007,Alm. Salg,144,8854,5,1927,
 510,Villa,Skolekobbel 17,6510, Gram,675000 ,25-01-2007,Alm. Salg,128,5273,5,1957,
 510,Villa,Kaj Munks Vej 10,6100, Haderslev,1725000 ,25-01-2007,Alm. Salg,136,12684,5,1972,-1%
@@ -10377,7 +10177,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Skjoldagervej 7,6510, Gram,350000 ,20-12-2006,Alm. Salg,101,3465,2,1959,
 510,Villa,Kløverbakken 10,6100, Haderslev,675000 ,20-12-2006,Alm. Salg,185,3649,5,2011,
 510,Villa,Gammel Stadsvej 5C,6500, Vojens,780000 ,20-12-2006,Fam. Salg,212,3679,6,2011,
-510,Rækkehus,Troldhøj 31,6100, Haderslev,1695000 ,19-12-2006,Alm. Salg,106,15991,3,2007,
 510,Villa,Hyrup Vestermarksvej 4,6520, Toftlund,510000 ,19-12-2006,Alm. Salg,82,6220,4,1948,
 510,Villa,Grønvang 5,6510, Gram,227875 ,19-12-2006,Alm. Salg,140,1628,3,1914,
 510,Villa,Fjelstrup Landevej 78,6100, Haderslev,735000 ,19-12-2006,Alm. Salg,117,6282,4,1877,
@@ -10423,7 +10222,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Løkkeled 1,6100, Haderslev,900000 ,05-12-2006,Fam. Salg,152,5921,6,1943,
 510,Villa,Stadion Alle 2,6500, Vojens,1325000 ,05-12-2006,Alm. Salg,111,11937,5,1939,
 510,Villa,Vilstrup Toftegyde 11,6100, Haderslev,620000 ,05-12-2006,Fam. Salg,112,5536,5,1967,
-510,Rækkehus,Nørremarksvej 1A,6510, Gram,518398 ,04-12-2006,Alm. Salg,202,2566,4,1900,
 510,Villa,Over Jerstalvej 62,6500, Vojens,150000 ,04-12-2006,Alm. Salg,184,815,5,1977,
 510,Villa,Søndervang 11,6510, Gram,730000 ,04-12-2006,Alm. Salg,134,5448,4,1961,
 510,Villa,Damvej 12,6560, Sommersted,840000 ,03-12-2006,Alm. Salg,126,6667,4,1964,
@@ -10443,7 +10241,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Strandelhjørn Bygade 18A,6500, Vojens,995000 ,28-11-2006,Alm. Salg,256,3887,7,1860,
 510,Villa,Hans Tausens Vej 30A,6100, Haderslev,150000 ,28-11-2006,Alm. Salg,234,641,5,2008,
 510,Villa,Tyrsvej 1,6100, Haderslev,650000 ,28-11-2006,Alm. Salg,153,4248,5,2008,
-510,Ejerlejlighed,Lembckesvej 1C,6100, Haderslev,1947000 ,27-11-2006,Alm. Salg,123,15829,4,2007,
 510,Villa,Ryes Møllevej 62,6100, Haderslev,2345000 ,27-11-2006,Alm. Salg,156,15032,5,1949,
 510,Villa,Knud Skovvej 12,6100, Haderslev,573000 ,27-11-2006,Alm. Salg,97,5907,4,1965,
 510,Villa,Nørrehedevej 29,6510, Gram,1295000 ,27-11-2006,Alm. Salg,194,6675,8,1875,
@@ -10507,7 +10304,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Kelstruphave 104,6100, Haderslev,1000000 ,01-11-2006,Alm. Salg,117,8547,4,1975,
 510,Villa,Lapmejsevej 6,6500, Vojens,1260000 ,31-10-2006,Alm. Salg,132,9545,5,1974,
 510,Villa,Diernæsvej 14,6100, Haderslev,442500 ,31-10-2006,Alm. Salg,107,4136,4,1958,
-510,Rækkehus,Jomfrugang 13A,6100, Haderslev,1400000 ,30-10-2006,Alm. Salg,88,15909,4,1905,
 510,Rækkehus,Klosteret 10,6100, Haderslev,467500 ,30-10-2006,Fam. Salg,52,8990,2,1800,
 510,Villa,Damstien 14,6100, Haderslev,2325000 ,30-10-2006,Alm. Salg,292,7962,7,1957,
 510,Villa,Hygumvej 21,6510, Gram,1550000 ,29-10-2006,Alm. Salg,275,5636,5,1875,
@@ -10959,7 +10755,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Tovskovvej 14,6560, Sommersted,475000 ,22-05-2006,Alm. Salg,103,4612,3,1962,
 510,Villa,Ballehøj 28,6100, Haderslev,1060000 ,22-05-2006,Alm. Salg,115,9217,4,1968,
 510,Villa,Industrivej 16,6510, Gram,850000 ,22-05-2006,Auktion,212,4009,7,1975,
-510,Villa,Præstegade 7A,6100, Haderslev,1425000 ,22-05-2006,Alm. Salg,100,14250,2,1934,
 510,Ejerlejlighed,"Lansenervej 1A, 1. tv",6100, Haderslev,680000 ,21-05-2006,Alm. Salg,63,10794,2,1986,
 510,Villa,Sønderhaven 29,6100, Haderslev,1550000 ,21-05-2006,Alm. Salg,136,11397,6,1959,
 510,Villa,Lille Slagtergade 8,6100, Haderslev,1219565 ,21-05-2006,Alm. Salg,102,11957,3,1777,
@@ -11002,7 +10797,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Stærevej 16,6100, Haderslev,1050000 ,09-05-2006,Alm. Salg,103,8898,5,1964,
 510,Villa,Langelandsvej 92,6100, Haderslev,340380 ,09-05-2006,Alm. Salg,165,2063,5,2007,
 510,Villa,Tyrsvej 10,6100, Haderslev,400000 ,09-05-2006,Alm. Salg,129,3101,4,2006,
-510,Ejerlejlighed,Vilstrup Bysving 8B,6100, Haderslev,1895000 ,08-05-2006,Alm. Salg,129,14690,3,1910,
 510,Villa,Langelandsvej 69,6100, Haderslev,2500000 ,08-05-2006,Alm. Salg,196,12755,5,2006,
 510,Villa,Øsby Kirkevej 23,6100, Haderslev,1350000 ,08-05-2006,Alm. Salg,166,8133,5,2006,
 510,Villa,Haderslevvej 1,6510, Gram,450000 ,08-05-2006,Alm. Salg,142,3169,7,1875,
@@ -11425,9 +11219,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Ejerlejlighed,"Naffet 32, st",6100, Haderslev,700000 ,07-12-2005,Alm. Salg,81,8642,3,1840,
 510,Villa,Slotsvej 1,6560, Sommersted,300000 ,07-12-2005,Alm. Salg,100,3000,3,1907,
 510,Villa,Teglgårdsvej 9,6100, Haderslev,1100000 ,07-12-2005,Fam. Salg,150,7333,6,1965,
-510,Rækkehus,Storegade 120B,6560, Sommersted,650000 ,06-12-2005,Fam. Salg,63,10317,2,1959,
 510,Villa,Lænkebjerg 51,6100, Haderslev,1195000 ,06-12-2005,Alm. Salg,147,8129,5,1953,
-510,Villa,Storegade 120,6560, Sommersted,650000 ,06-12-2005,Fam. Salg,128,5078,3,1925,
 510,Villa,Kastrupvej 6,6510, Gram,280000 ,06-12-2005,Alm. Salg,140,2000,5,1905,
 510,Ejerlejlighed,"Storegade 85A, st",6100, Haderslev,795000 ,05-12-2005,Alm. Salg,80,9938,2,1900,
 510,Ejerlejlighed,"Vestergade 42B, 1",6500, Vojens,525000 ,05-12-2005,Alm. Salg,63,8333,2,1890,
@@ -11464,8 +11256,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Nederbyvænget 224,6100, Haderslev,995000 ,22-11-2005,Alm. Salg,205,4854,8,1979,
 510,Villa,Bogfinkevej 19,6100, Haderslev,1295000 ,22-11-2005,Alm. Salg,153,8464,4,1973,
 510,Villa,Vibevej 12,6500, Vojens,790000 ,21-11-2005,Alm. Salg,158,5000,5,1969,
-510,Rækkehus,Slagtergade 63B,6100, Haderslev,325000 ,20-11-2005,Alm. Salg,96,3385,4,1900,
-510,Ejerlejlighed,"Slagtergade 63C, 1",6100, Haderslev,325000 ,20-11-2005,Alm. Salg,96,3385,3,1900,
 510,Villa,Søndervang 24,6500, Vojens,625000 ,20-11-2005,Alm. Salg,105,5952,3,1964,
 510,Villa,Eskærhøjvej 38,6100, Haderslev,1600000 ,20-11-2005,Alm. Salg,170,9412,5,1975,
 510,Villa,Møllesvinget 59,6100, Haderslev,575000 ,20-11-2005,Alm. Salg,411,1399,11,1895,
@@ -11546,7 +11336,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Selbjerg 22,6100, Haderslev,1035000 ,23-10-2005,Fam. Salg,152,6809,4,1970,
 510,Villa,Kirketoften 5,6500, Vojens,535000 ,19-10-2005,Alm. Salg,97,5515,3,1962,
 510,Villa,Laurids Skaus Gade 20B,6100, Haderslev,1245000 ,19-10-2005,Alm. Salg,120,10375,3,1850,
-510,Villa,Sydhavnsvej 10,6100, Haderslev,1950000 ,19-10-2005,Alm. Salg,124,15726,5,1950,
 510,Villa,Fjellumvej 2,6500, Vojens,780000 ,18-10-2005,Alm. Salg,151,5166,4,1960,
 510,Villa,Ryes Møllevej 31,6100, Haderslev,1675000 ,18-10-2005,Alm. Salg,136,12316,3,1935,
 510,Villa,Vestergade 22,6510, Gram,450000 ,18-10-2005,Alm. Salg,177,2542,6,1900,
@@ -11604,7 +11393,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Christiansfeld Landevej 126,6100, Haderslev,1250000 ,25-09-2005,Alm. Salg,223,5605,6,1930,
 510,Villa,Hybenvej 3,6100, Haderslev,1195000 ,25-09-2005,Alm. Salg,136,8787,4,1960,
 510,Villa,Kabdrupvej 59,6100, Haderslev,575000 ,22-09-2005,Alm. Salg,120,4792,6,1962,
-510,Villa,Slotsvej 45B,6510, Gram,1050000 ,22-09-2005,Alm. Salg,124,8468,3,1944,
 510,Villa,Hærvejen 2,6500, Vojens,320000 ,22-09-2005,Alm. Salg,240,1333,8,2011,
 510,Villa,P.A. Madvigs Vej 20,6100, Haderslev,1160000 ,21-09-2005,Alm. Salg,105,11048,4,1957,
 510,Villa,Lænkebjerg 13,6100, Haderslev,850000 ,21-09-2005,Alm. Salg,66,12879,3,1957,
@@ -11658,7 +11446,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Slagtergade 34,6100, Haderslev,1250000 ,05-09-2005,Alm. Salg,158,7911,6,1900,
 510,Villa,Kærager 4,6500, Vojens,825000 ,04-09-2005,Alm. Salg,172,4797,6,1973,
 510,Villa,Gammel Christiansfeldvej 82,6100, Haderslev,50000 ,03-09-2005,Alm. Salg,89,562,4,1958,
-510,Villa,Starup Engvej 6B,6100, Haderslev,4500000 ,01-09-2005,Alm. Salg,284,15845,7,2001,
 510,Villa,Nørre Vilstrup Bygade 91,6100, Haderslev,231317 ,01-09-2005,Alm. Salg,148,1563,5,2008,
 510,Villa,H.C. Andersens Vej 8,6100, Haderslev,1785000 ,01-09-2005,Alm. Salg,182,9808,7,1970,
 510,Villa,Fjelstrupvej 110,6100, Haderslev,400000 ,01-09-2005,Alm. Salg,358,1117,8,1867,
@@ -11908,7 +11695,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Industrivej 8,6560, Sommersted,1695000 ,02-06-2005,Alm. Salg,210,8071,5,1969,
 510,Villa,Aabenraavej 57,6100, Haderslev,2000000 ,02-06-2005,Alm. Salg,192,10417,6,1949,
 510,Villa,Øsby Nedergade 24,6100, Haderslev,760000 ,02-06-2005,Alm. Salg,124,6129,5,1960,
-510,Rækkehus,Østergade 6A,6100, Haderslev,500000 ,01-06-2005,Alm. Salg,50,10000,2,1887,
 510,Ejerlejlighed,"Pladsgade 7A, 2",6100, Haderslev,795000 ,01-06-2005,Alm. Salg,73,10890,3,1900,
 510,Villa,Vonsbækvej 109,6100, Haderslev,650000 ,01-06-2005,Alm. Salg,115,5652,3,1960,
 510,Villa,Pottervej 41,6500, Vojens,260177 ,01-06-2005,Alm. Salg,91,2859,3,1946,
@@ -11922,7 +11708,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Mellemhave 2,6500, Vojens,400000 ,30-05-2005,Fam. Salg,120,3333,3,1882,
 510,Rækkehus,Søndergade 97,6500, Vojens,835000 ,29-05-2005,Alm. Salg,120,6958,4,1960,
 510,Villa,Vidarsvej 7,6100, Haderslev,450000 ,29-05-2005,Alm. Salg,237,1899,7,2007,
-510,Ejerlejlighed,"Torvet 9, 1",6100, Haderslev,1800000 ,26-05-2005,Alm. Salg,112,16071,3,1875,
 510,Villa,Rugmarksvej 12,6500, Vojens,845000 ,26-05-2005,Alm. Salg,116,7284,5,1982,
 510,Villa,Øsby Stadionvej 93,6100, Haderslev,170000 ,25-05-2005,Alm. Salg,155,1097,5,2005,
 510,Villa,Færgevej 79,6100, Haderslev,775000 ,25-05-2005,Alm. Salg,100,7750,3,1948,
@@ -12107,7 +11892,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Vandlingvej 34,6100, Haderslev,850000 ,28-03-2005,Alm. Salg,90,9444,3,1948,
 510,Ejerlejlighed,Naffet 39B,6100, Haderslev,515000 ,27-03-2005,Alm. Salg,58,8879,2,1900,
 510,Villa,Thurøvej 43,6100, Haderslev,1350000 ,27-03-2005,Fam. Salg,162,8333,4,1979,
-510,Villa,Fuglebakkevej 15,6100, Haderslev,1135000 ,27-03-2005,Alm. Salg,72,15764,4,1958,
 510,Villa,Moltrup Bygade 37,6100, Haderslev,76100 ,27-03-2005,Alm. Salg,122,624,5,2009,
 510,Villa,P.A. Madvigs Vej 13,6100, Haderslev,840000 ,25-03-2005,Alm. Salg,99,8485,4,1928,
 510,Villa,Lyøvej 43,6100, Haderslev,525000 ,25-03-2005,Alm. Salg,122,4303,5,1976,
@@ -12332,8 +12116,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Hammelev Bygade 56,6500, Vojens,1245000 ,08-01-2005,Alm. Salg,173,7197,4,1979,
 510,Villa,Martin Reimers Vej 6,6510, Gram,650000 ,08-01-2005,Alm. Salg,137,4745,4,1974,
 510,Villa,Tåsingevej 119,6100, Haderslev,550000 ,07-01-2005,Fam. Salg,152,3618,5,1976,
-510,Ejerlejlighed,"Engvej 9, kl",6560, Sommersted,847246 ,06-01-2005,Alm. Salg,81,10460,4,1973,
-510,Villa,Engvej 9,6560, Sommersted,847246 ,06-01-2005,Alm. Salg,136,6230,4,1973,
 510,Villa,Studiestræde 4,6560, Sommersted,545000 ,05-01-2005,Alm. Salg,262,2080,5,1902,
 510,Villa,Starup Fjordvej 35A,6100, Haderslev,225000 ,04-01-2005,Alm. Salg,234,962,8,2005,
 510,Villa,Aastrupvej 120,6100, Haderslev,1148000 ,03-01-2005,Alm. Salg,164,7000,4,1928,
@@ -12582,8 +12364,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Kongevej 212,6510, Gram,331075 ,29-08-2004,Alm. Salg,214,1547,7,1914,
 510,Villa,Fasanvej 5,6100, Haderslev,900000 ,29-08-2004,Alm. Salg,95,9474,4,1950,
 510,Villa,Vandlingvej 31,6100, Haderslev,1075000 ,28-08-2004,Alm. Salg,110,9773,4,1952,
-510,Ejerlejlighed,Vonsbækvej 42A,6100, Haderslev,300000 ,27-08-2004,Fam. Salg,28,10714,2,1900,
-510,Villa,Vonsbækvej 42,6100, Haderslev,300000 ,27-08-2004,Fam. Salg,275,1091,2,1866,
 510,Villa,Dyssebakken 87,6500, Vojens,106380 ,26-08-2004,Alm. Salg,165,645,5,2005,
 510,Villa,Persillegade 7,6510, Gram,1025000 ,26-08-2004,Alm. Salg,122,8402,4,1996,
 510,Ejerlejlighed,"Skibbrogade 12B, st. th",6100, Haderslev,650000 ,25-08-2004,Alm. Salg,70,9286,2,1912,
@@ -12738,7 +12518,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Simmersted Byvej 13,6500, Vojens,190000 ,30-05-2004,Auktion,100,1900,4,1816,
 510,Villa,Svinget 2,6500, Vojens,385000 ,30-05-2004,Fam. Salg,118,3263,4,1969,
 510,Villa,Fjelstrup Landevej 27,6100, Haderslev,1250000 ,30-05-2004,Alm. Salg,202,6188,8,1923,
-510,Villa,Storegade 152C,6560, Sommersted,600000 ,30-05-2004,Alm. Salg,57,10526,2,1895,
 510,Villa,Runebakken 29,6500, Vojens,865000 ,29-05-2004,Alm. Salg,117,7393,4,1979,
 510,Villa,Frihedsvej 5,6500, Vojens,430298 ,28-05-2004,Alm. Salg,105,4098,5,1870,
 510,Villa,Passagen 1,6500, Vojens,700000 ,27-05-2004,Alm. Salg,127,5512,3,1973,
@@ -12829,13 +12608,11 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Runebakken 116,6500, Vojens,1200000 ,20-04-2004,Alm. Salg,177,6780,5,1978,
 510,Ejerlejlighed,"Gravene 15, 2",6100, Haderslev,995000 ,19-04-2004,Alm. Salg,264,3769,6,1875,
 510,Villa,Kelstruphave 45,6100, Haderslev,1185000 ,19-04-2004,Alm. Salg,162,7315,5,1971,
-510,Ejerlejlighed,Naffet 2A,6500, Vojens,745000 ,18-04-2004,Alm. Salg,116,6422,3,1956,
 510,Villa,Gyvelvej 26,6500, Vojens,635000 ,18-04-2004,Alm. Salg,108,5880,4,1965,
 510,Villa,Fredstedvej 39,6100, Haderslev,1998584 ,18-04-2004,Alm. Salg,146,13689,5,1997,
 510,Villa,Paludan-Müllers Vej 6,6100, Haderslev,1200000 ,18-04-2004,Alm. Salg,160,7500,6,1971,
 510,Villa,Møllebakken 26,6500, Vojens,544000 ,18-04-2004,Alm. Salg,166,3277,6,1962,
 510,Villa,Friggsvej 1,6100, Haderslev,2545000 ,18-04-2004,Alm. Salg,201,12662,7,2000,
-510,Villa,Naffet 2B,6500, Vojens,745000 ,18-04-2004,Alm. Salg,116,6422,4,1956,
 510,Villa,Tranevej 9,6500, Vojens,1180000 ,17-04-2004,Alm. Salg,168,7024,4,1969,
 510,Villa,Hejsagervej 58,6100, Haderslev,700000 ,16-04-2004,Fam. Salg,140,5000,4,1941,
 510,Rækkehus,Slagtergade 41,6100, Haderslev,910000 ,15-04-2004,Alm. Salg,102,8922,4,1852,
@@ -12947,7 +12724,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Havrevænget 16,6100, Haderslev,1225000 ,03-03-2004,Alm. Salg,149,8221,4,1971,
 510,Villa,Hiort Lorenzens Vej 27D,6100, Haderslev,1645000 ,02-03-2004,Alm. Salg,292,5634,9,1963,
 510,Villa,Runebakken 82,6500, Vojens,1100000 ,02-03-2004,Alm. Salg,150,7333,5,1979,
-510,Ejerlejlighed,Slotsgade 14,6100, Haderslev,1796014 ,01-03-2004,Alm. Salg,193,9306,6,1827,
 510,Ejerlejlighed,"Badstuegade 12, 1",6100, Haderslev,875000 ,01-03-2004,Alm. Salg,161,5435,4,1825,
 510,Villa,Ved Banen 5,6510, Gram,94320 ,01-03-2004,Alm. Salg,179,527,6,2005,
 510,Villa,Gabøl Byvej 2,6500, Vojens,920000 ,01-03-2004,Alm. Salg,200,4600,5,1958,
@@ -13008,7 +12784,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Havesangervej 12,6500, Vojens,995000 ,09-02-2004,Alm. Salg,129,7713,4,1979,
 510,Villa,Strandelhjørn Bygade 34,6500, Vojens,350000 ,09-02-2004,Alm. Salg,119,2941,3,1950,
 510,Villa,Ribe Landevej 34,6100, Haderslev,909117 ,08-02-2004,Alm. Salg,254,3579,6,1906,
-510,Villa,Bæk Skovvej 3,6500, Vojens,2850000 ,08-02-2004,Alm. Salg,182,15659,6,1890,
 510,Villa,Dyssebakken 100,6500, Vojens,915000 ,07-02-2004,Alm. Salg,116,7888,4,1980,
 510,Villa,Odinsvej 21,6500, Vojens,1230000 ,07-02-2004,Alm. Salg,195,6308,4,1972,
 510,Villa,Hasselvej 4,6500, Vojens,1080000 ,07-02-2004,Alm. Salg,206,5243,4,1969,
@@ -13094,7 +12869,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Rosenvænget 47,6100, Haderslev,1080000 ,29-12-2003,Alm. Salg,167,6467,6,1975,
 510,Villa,Tågerupvej 4,6560, Sommersted,715000 ,28-12-2003,Alm. Salg,140,5107,4,1911,
 510,Villa,Søvang 18,6100, Haderslev,1010000 ,26-12-2003,Alm. Salg,178,5674,6,1973,
-510,Villa,Brøndstræde 1,6100, Haderslev,800000 ,26-12-2003,Alm. Salg,65,12308,2,1946,
 510,Rækkehus,Aarøsundvej 82B,6100, Haderslev,180000 ,22-12-2003,Alm. Salg,110,1636,4,2005,
 510,Ejerlejlighed,"Gammel Brandvej 4, st. th",6100, Haderslev,1410000 ,22-12-2003,Alm. Salg,106,13302,4,1820,
 510,Villa,Hirsevej 4,6100, Haderslev,925000 ,22-12-2003,Alm. Salg,130,7115,4,2008,
@@ -13755,7 +13529,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Vonsbækvej 66,6100, Haderslev,525000 ,07-02-2003,Alm. Salg,98,5357,4,1959,
 510,Ejerlejlighed,Nederbyvænget 69A,6100, Haderslev,490000 ,06-02-2003,Alm. Salg,62,7903,2,1988,
 510,Rækkehus,Klosteret 4A,6100, Haderslev,945000 ,05-02-2003,Alm. Salg,97,9742,4,1750,
-510,Villa,Moltrupvej 30,6100, Haderslev,1075000 ,05-02-2003,Alm. Salg,130,8269,6,1912,
 510,Villa,Skovbyvej 15,6500, Vojens,500000 ,04-02-2003,Alm. Salg,100,5000,5,1962,
 510,Villa,Sønder Vilstrup Bygade 9,6100, Haderslev,350000 ,04-02-2003,Alm. Salg,110,3182,6,1912,
 510,Villa,Erlevvej 66,6100, Haderslev,1960000 ,04-02-2003,Alm. Salg,215,9116,6,1944,
@@ -13819,8 +13592,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Hammelev Bygade 10B,6500, Vojens,878059 ,17-12-2002,Alm. Salg,219,4009,4,1975,
 510,Villa,Ringvej 28,6500, Vojens,495000 ,17-12-2002,Alm. Salg,121,4091,4,1842,
 510,Rækkehus,Højgade 7,6100, Haderslev,1700000 ,15-12-2002,Alm. Salg,176,9659,5,1721,
-510,Ejerlejlighed,"Slagtergade 77, st",6100, Haderslev,1300000 ,15-12-2002,Alm. Salg,104,12500,4,1900,
-510,Ejerlejlighed,"Slagtergade 77, 1. tv",6100, Haderslev,1300000 ,15-12-2002,Alm. Salg,92,14130,4,1900,
 510,Ejerlejlighed,Hammelev Bygade 2A,6500, Vojens,419194 ,15-12-2002,Alm. Salg,210,1996,8,1827,
 510,Villa,Ærtevej 6,6500, Vojens,137212 ,15-12-2002,Alm. Salg,134,1024,3,2003,
 510,Villa,Søndermarksvej 20,6510, Gram,212500 ,15-12-2002,Fam. Salg,127,1673,5,1959,
@@ -14116,7 +13887,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Fælleslykkevej 10,6100, Haderslev,1165000 ,24-07-2002,Alm. Salg,156,7468,6,1937,
 510,Rækkehus,Nederbyvænget 89,6100, Haderslev,967513 ,23-07-2002,Alm. Salg,116,8341,4,1982,
 510,Villa,Havegårdsvej 34,6100, Haderslev,1300000 ,22-07-2002,Alm. Salg,182,7143,6,1928,
-510,Rækkehus,Lavgade 8A,6100, Haderslev,1930000 ,21-07-2002,Alm. Salg,125,15440,4,1795,
 510,Villa,Thurøvej 81,6100, Haderslev,1140000 ,21-07-2002,Alm. Salg,236,4831,7,1978,
 510,Villa,Folevej 30,6510, Gram,700000 ,20-07-2002,Alm. Salg,198,3535,6,1939,
 510,Villa,Rosenbakken 41,6100, Haderslev,1295000 ,20-07-2002,Alm. Salg,153,8464,4,1977,
@@ -14379,17 +14149,14 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Christine Frederikke Vej 1,6100, Haderslev,975000 ,06-04-2002,Alm. Salg,136,7169,4,1926,
 510,Villa,Kastrupvej 9,6510, Gram,249173 ,06-04-2002,Alm. Salg,226,1103,10,1913,
 510,Villa,Lænkebjerg 17,6100, Haderslev,809988 ,04-04-2002,Alm. Salg,96,8437,2,1957,
-510,Ejerlejlighed,"Vestergade 17C, 1",6500, Vojens,2200000 ,03-04-2002,Alm. Salg,138,15942,3,1900,
 510,Villa,Skyttevej 1,6510, Gram,750000 ,03-04-2002,Alm. Salg,126,5952,4,1936,
 510,Villa,Lyøvej 1,6100, Haderslev,830000 ,03-04-2002,Alm. Salg,163,5092,5,1976,
 510,Villa,Damstien 14A,6100, Haderslev,1640000 ,03-04-2002,Alm. Salg,136,12059,4,1985,
 510,Villa,Hjerndrup Landevej 28,6070, Christiansfeld,1000000 ,03-04-2002,Alm. Salg,184,5435,5,1927,
 510,Villa,Kaj Munks Vej 15,6100, Haderslev,1975000 ,03-04-2002,Alm. Salg,241,8195,8,1974,
 510,Villa,Ejsbølvej 3,6100, Haderslev,675000 ,03-04-2002,Alm. Salg,186,3629,8,1963,
-510,Ejerlejlighed,"Sønder Ottinggade 18A, 1",6100, Haderslev,1250000 ,02-04-2002,Alm. Salg,223,5605,7,1914,
 510,Ejerlejlighed,Nederbyvænget 99B,6100, Haderslev,525000 ,02-04-2002,Alm. Salg,69,7609,2,1983,
 510,Villa,Kirkealle 19,6510, Gram,425000 ,02-04-2002,Alm. Salg,210,2024,6,1875,
-510,Villa,Havvejen 6A,6100, Haderslev,1250000 ,02-04-2002,Alm. Salg,150,8333,5,1985,
 510,Villa,Vester Lindetvej 15,6510, Gram,250000 ,30-03-2002,Alm. Salg,126,1984,3,1959,
 510,Villa,Keldetvej 33,6100, Haderslev,860000 ,28-03-2002,Alm. Salg,173,4971,6,1926,
 510,Villa,Simmersted Byvej 26,6500, Vojens,720000 ,26-03-2002,Alm. Salg,134,5373,8,1900,
@@ -14434,7 +14201,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Runebakken 11,6500, Vojens,985000 ,05-03-2002,Alm. Salg,137,7190,5,1979,
 510,Villa,Hejsager Strandvej 43,6100, Haderslev,689922 ,04-03-2002,Alm. Salg,168,4107,5,1944,
 510,Villa,Grønnevang 3,6560, Sommersted,586434 ,04-03-2002,Alm. Salg,263,2230,7,1897,
-510,Ejerlejlighed,Borgervænget 9B,6100, Haderslev,2275000 ,03-03-2002,Alm. Salg,143,15909,3,2003,
 510,Villa,Ved Majen 14,6510, Gram,143000 ,02-03-2002,Alm. Salg,123,1163,4,1870,
 510,Ejerlejlighed,Nørregade 2A,6500, Vojens,345000 ,28-02-2002,Alm. Salg,72,4792,3,1963,
 510,Villa,Jernhytvej 20,6500, Vojens,675000 ,28-02-2002,Alm. Salg,95,7105,3,1955,
@@ -14451,7 +14217,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Ribevej 35,6500, Vojens,762229 ,24-02-2002,Alm. Salg,157,4855,5,1877,
 510,Villa,Nørrevang 25,6500, Vojens,1175000 ,24-02-2002,Alm. Salg,191,6152,7,1963,
 510,Villa,Ahornvej 15,6100, Haderslev,1085000 ,24-02-2002,Alm. Salg,134,8097,5,1954,
-510,Ejerlejlighed,Borgervænget 9A,6100, Haderslev,2209000 ,23-02-2002,Alm. Salg,136,16243,3,2003,
 510,Ejerlejlighed,"Sønderbro 30, st",6100, Haderslev,600000 ,22-02-2002,Alm. Salg,89,6742,3,1903,
 510,Villa,Solbakken 11,6100, Haderslev,944000 ,21-02-2002,Alm. Salg,140,6743,5,1928,
 510,Villa,Ribevej 41A,6500, Vojens,400000 ,21-02-2002,Alm. Salg,88,4545,3,1900,
@@ -14464,9 +14229,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Ejerlejlighed,"Naffet 30, 1",6100, Haderslev,1225000 ,19-02-2002,Alm. Salg,174,7040,4,1851,
 510,Villa,Raursherred 2,6100, Haderslev,3015313 ,19-02-2002,Alm. Salg,210,14359,6,1850,
 510,Ejerlejlighed,"Frejasvej 6, st. tv",6100, Haderslev,369908 ,18-02-2002,Alm. Salg,30,12330,1,1961,
-510,Ejerlejlighed,"Slagtergade 77, st",6100, Haderslev,1164497 ,17-02-2002,Alm. Salg,104,11197,4,1900,
-510,Ejerlejlighed,"Slagtergade 77, 1. tv",6100, Haderslev,1164497 ,17-02-2002,Alm. Salg,92,12658,4,1900,
-510,Ejerlejlighed,"Marie Margrethe Vej 10, 1. th",6100, Haderslev,1257552 ,17-02-2002,Alm. Salg,83,15151,2,1935,
 510,Villa,Teglværksvej 2,6510, Gram,300000 ,17-02-2002,Auktion,114,2632,3,1956,
 510,Villa,Fjelstrup Landevej 57,6100, Haderslev,415000 ,17-02-2002,Alm. Salg,90,4611,3,1949,
 510,Villa,Knokbjerg 63,6100, Haderslev,1025000 ,17-02-2002,Alm. Salg,197,5203,5,1985,
@@ -14561,7 +14323,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Ejerlejlighed,"Jomfrustien 26, 2. tv",6100, Haderslev,560000 ,27-12-2001,Alm. Salg,87,6437,3,1911,
 510,Villa,Baldersvej 4,6100, Haderslev,979784 ,27-12-2001,Alm. Salg,122,8031,4,1968,
 510,Villa,Haderslevvej 7,6510, Gram,1190753 ,27-12-2001,Alm. Salg,197,6044,5,1762,
-510,Rækkehus,Naffet 23,6100, Haderslev,1020000 ,26-12-2001,Alm. Salg,90,11333,2,1925,
 510,Villa,Ribe Landevej 157,6100, Haderslev,450000 ,26-12-2001,Alm. Salg,112,4018,4,1938,
 510,Villa,Hyldevænget 3,6560, Sommersted,1000000 ,22-12-2001,Alm. Salg,147,6803,5,1985,
 510,Villa,Kirkebjergvej 23,6510, Gram,675000 ,21-12-2001,Alm. Salg,124,5444,4,1969,
@@ -14605,7 +14366,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Rækkehus,Kroghs Kobbel 55,6100, Haderslev,950000 ,30-11-2001,Alm. Salg,106,8962,4,1966,
 510,Villa,Drosselvej 28,6100, Haderslev,1300000 ,27-11-2001,Alm. Salg,199,6533,6,1968,
 510,Villa,Kærsmindevej 28,6100, Haderslev,458000 ,27-11-2001,Auktion,195,2349,7,1945,
-510,Rækkehus,Nørremarksvej 1A,6510, Gram,275308 ,26-11-2001,Alm. Salg,202,1363,4,1900,
 510,Villa,Eskærhøjvej 87,6100, Haderslev,1375000 ,26-11-2001,Alm. Salg,159,8648,5,1974,
 510,Ejerlejlighed,"Storegade 33, 2",6100, Haderslev,1100000 ,25-11-2001,Alm. Salg,108,10185,3,1981,
 510,Villa,Mosebjergvej 3,6560, Sommersted,850000 ,24-11-2001,Alm. Salg,132,6439,5,1977,
@@ -14865,12 +14625,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Vestervang 1,6500, Vojens,895000 ,07-07-2001,Alm. Salg,120,7458,4,1942,
 510,Villa,Vandlingvej 59,6100, Haderslev,910000 ,07-07-2001,Alm. Salg,110,8273,4,1960,
 510,Villa,Kelstruphave 115,6100, Haderslev,295000 ,06-07-2001,Alm. Salg,150,1967,6,1872,
-510,Ejerlejlighed,"Hammelev Bygade 43, kl",6500, Vojens,1200000 ,05-07-2001,Alm. Salg,90,13333,3,1967,
 510,Villa,Stensbækvej 13,6510, Gram,300000 ,05-07-2001,Alm. Salg,120,2500,8,1956,
 510,Villa,Neder Jerstalvej 13,6541, Bevtoft,525000 ,05-07-2001,Alm. Salg,118,4449,4,1948,
 510,Villa,Tormajvej 29,6100, Haderslev,622000 ,05-07-2001,Andet,108,5759,4,1933,
 510,Villa,Eskærhøjvej 77,6100, Haderslev,1200000 ,05-07-2001,Alm. Salg,160,7500,4,1974,
-510,Villa,Hammelev Bygade 43,6500, Vojens,1200000 ,05-07-2001,Alm. Salg,97,11538,6,1967,
 510,Villa,Olaf Ryes Vej 1,6100, Haderslev,1137218 ,04-07-2001,Fam. Salg,195,5832,7,1928,
 510,Villa,Knokbjerg 6,6100, Haderslev,575000 ,03-07-2001,Alm. Salg,100,5750,4,1960,
 510,Villa,Kastrup Forte 2,6510, Gram,358500 ,03-07-2001,Alm. Salg,101,3550,3,1960,
@@ -15194,7 +14952,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Kongevej 324,6510, Gram,188999 ,28-01-2001,Auktion,156,1212,6,1935,
 510,Villa,Vandlingvej 4,6100, Haderslev,994126 ,28-01-2001,Alm. Salg,120,8284,4,1961,
 510,Villa,Bragesvej 21,6100, Haderslev,550000 ,28-01-2001,Alm. Salg,210,2619,5,2003,
-510,Villa,Vonsbækvej 51,6100, Haderslev,5930000 ,28-01-2001,Alm. Salg,370,16027,9,1775,
 510,Ejerlejlighed,"Frejasvej 8, 1. tv",6100, Haderslev,275000 ,27-01-2001,Alm. Salg,33,8333,1,1961,
 510,Villa,Skovbyvej 5,6100, Haderslev,570000 ,27-01-2001,Alm. Salg,149,3826,5,1965,
 510,Villa,Tøndervej 3,6500, Vojens,736299 ,27-01-2001,Alm. Salg,130,5664,4,1777,
@@ -15362,7 +15119,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Fjellumvej 13,6500, Vojens,1111000 ,01-11-2000,Alm. Salg,147,7558,5,2000,
 510,Villa,Præsteskoven 57,6100, Haderslev,350000 ,31-10-2000,Alm. Salg,192,1823,8,1777,
 510,Villa,Jernhytvej 33,6500, Vojens,430000 ,31-10-2000,Alm. Salg,90,4778,3,1960,
-510,Villa,Aabenraavej 26C,6100, Haderslev,1162798 ,31-10-2000,Alm. Salg,80,14535,3,1980,
 510,Villa,Stadion Alle 4,6500, Vojens,695000 ,30-10-2000,Alm. Salg,150,4633,5,1925,
 510,Villa,Fjelstrup Nørrevej 82,6100, Haderslev,780000 ,29-10-2000,Alm. Salg,189,4127,8,1827,
 510,Villa,Nygade 11,6500, Vojens,810000 ,29-10-2000,Alm. Salg,243,3333,7,1975,
@@ -15574,7 +15330,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Hjerndrup Nørrevej 3,6070, Christiansfeld,451587 ,14-07-2000,Alm. Salg,147,3072,6,1900,
 510,Villa,Sundparken 39,6100, Haderslev,950000 ,13-07-2000,Alm. Salg,150,6333,6,1958,
 510,Rækkehus,Parkvej 6F,6560, Sommersted,554028 ,12-07-2000,Alm. Salg,90,6156,3,1982,
-510,Rækkehus,Slagtergade 61,6100, Haderslev,1275000 ,11-07-2000,Alm. Salg,80,15938,3,1877,
 510,Villa,Ægirsvej 15,6100, Haderslev,317000 ,11-07-2000,Alm. Salg,163,1945,6,2001,
 510,Villa,Hørløkkevej 46,6500, Vojens,817280 ,11-07-2000,Alm. Salg,156,5239,4,1975,
 510,Villa,Hyrupvej 55,6541, Bevtoft,360000 ,10-07-2000,Alm. Salg,90,4000,5,1960,
@@ -15605,7 +15360,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Birkevej 41,6100, Haderslev,842809 ,30-06-2000,Alm. Salg,113,7458,3,1951,
 510,Villa,Moltrupvej 15,6100, Haderslev,775000 ,30-06-2000,Alm. Salg,129,6008,6,1904,
 510,Rækkehus,Aastrupvej 138,6100, Haderslev,760000 ,29-06-2000,Alm. Salg,170,4471,6,1923,
-510,Rækkehus,Vestergade 57A,6500, Vojens,1096937 ,29-06-2000,Andet,100,6730,4,1959,
 510,Villa,Aastrup Alle 59,6100, Haderslev,754555 ,29-06-2000,Alm. Salg,117,6449,5,1980,
 510,Villa,Hejsager Strandvej 45,6100, Haderslev,561000 ,29-06-2000,Alm. Salg,140,4007,5,1949,
 510,Ejerlejlighed,"Vestergade 13A, 2. th",6500, Vojens,1263592 ,28-06-2000,Andet,277,4562,6,1946,
@@ -15807,7 +15561,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Råkærvej 13,6100, Haderslev,716000 ,22-03-2000,Alm. Salg,96,7458,4,1962,
 510,Villa,Kongevej 229,6510, Gram,460738 ,22-03-2000,Alm. Salg,198,2327,6,1920,
 510,Villa,Kløvervænget 39,6100, Haderslev,1335000 ,22-03-2000,Alm. Salg,240,5563,5,1973,
-510,Rækkehus,Jomfrugang 3,6100, Haderslev,433333 ,21-03-2000,Fam. Salg,114,3801,4,1911,
 510,Ejerlejlighed,"Moltrupvej 8, 2. th",6100, Haderslev,475000 ,21-03-2000,Fam. Salg,76,6250,3,1926,
 510,Villa,Øsby Stadionvej 41,6100, Haderslev,864065 ,21-03-2000,Alm. Salg,115,7514,4,1978,
 510,Villa,Skjoldsvænge 24,6500, Vojens,825000 ,21-03-2000,Alm. Salg,115,7174,4,1977,
@@ -15838,11 +15591,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Allegade 12,6500, Vojens,920000 ,14-03-2000,Alm. Salg,120,7667,4,1953,
 510,Villa,Sundparken 5,6100, Haderslev,1050000 ,14-03-2000,Alm. Salg,142,7394,5,1974,
 510,Villa,Buen 17,6541, Bevtoft,575000 ,14-03-2000,Alm. Salg,123,4675,5,1969,
-510,Ejerlejlighed,"Gammelting 16, 1. th",6100, Haderslev,470000 ,13-03-2000,Fam. Salg,87,5402,3,1928,
-510,Ejerlejlighed,"Sønderbro 26K, st. th",6100, Haderslev,470000 ,13-03-2000,Alm. Salg,67,7015,2,1900,
 510,Villa,Starup Fjordvej 5,6100, Haderslev,425000 ,13-03-2000,Alm. Salg,190,2237,5,2000,
 510,Villa,Langstrengvej 22,6100, Haderslev,800000 ,12-03-2000,Alm. Salg,147,5442,4,1930,
-510,Villa,Skomagervej 9,6100, Haderslev,550000 ,12-03-2000,Alm. Salg,190,2895,4,1777,
 510,Villa,Mølleheld 5,6100, Haderslev,635000 ,12-03-2000,Fam. Salg,113,5619,5,1965,
 510,Villa,Vesterled 8,6510, Gram,510000 ,12-03-2000,Andet,112,4554,5,1939,
 510,Villa,Vestergade 66,6500, Vojens,1180000 ,11-03-2000,Alm. Salg,177,6667,5,1948,
@@ -15955,8 +15705,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Fjellumvej 19,6500, Vojens,845000 ,10-01-2000,Alm. Salg,168,5030,5,1961,
 510,Villa,Brunbjergvej 3,6500, Vojens,285000 ,09-01-2000,Auktion,446,639,5,1905,
 510,Villa,Ringvej 7,6500, Vojens,415000 ,06-01-2000,Alm. Salg,117,3547,4,1910,
-510,Ejerlejlighed,Naffet 2A,6500, Vojens,520000 ,05-01-2000,Alm. Salg,116,4483,3,1956,
-510,Villa,Naffet 2B,6500, Vojens,520000 ,05-01-2000,Alm. Salg,116,4483,4,1956,
 510,Villa,Solsikkevej 7A,6100, Haderslev,2175000 ,04-01-2000,Alm. Salg,173,12572,6,1976,
 510,Villa,Tornsangervej 2,6100, Haderslev,1445000 ,04-01-2000,Alm. Salg,140,10321,5,1974,
 510,Villa,Kongevej 203,6510, Gram,350000 ,04-01-2000,Alm. Salg,176,1989,5,1912,
@@ -16037,11 +15785,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Toldertoftvej 1,6100, Haderslev,312250 ,09-11-1999,Andet,128,2439,4,1897,
 510,Villa,Øsbygade 31,6100, Haderslev,1100000 ,08-11-1999,Alm. Salg,243,4527,8,1920,
 510,Villa,Rosenvænget 7,6541, Bevtoft,535000 ,08-11-1999,Alm. Salg,152,3520,6,1973,
-510,Rækkehus,Storegade 120B,6560, Sommersted,995000 ,07-11-1999,Alm. Salg,63,15794,2,1959,
 510,Villa,P. Grejsens Vej 3,6500, Vojens,110000 ,07-11-1999,Alm. Salg,181,608,3,2002,
 510,Villa,Odinsvej 53,6100, Haderslev,280060 ,07-11-1999,Alm. Salg,173,1619,6,2000,
 510,Villa,Aarø 36,6100, Haderslev,980000 ,07-11-1999,Fam. Salg,130,7538,4,1979,
-510,Villa,Storegade 120,6560, Sommersted,995000 ,07-11-1999,Alm. Salg,128,7773,3,1925,
 510,Villa,H.P. Hanssens Vej 6,6100, Haderslev,1000000 ,07-11-1999,Alm. Salg,141,7092,6,1951,
 510,Villa,Steveltvej 40,6100, Haderslev,809938 ,07-11-1999,Alm. Salg,184,4402,5,1843,
 510,Villa,Klydevej 6,6500, Vojens,1250000 ,05-11-1999,Alm. Salg,140,8929,5,1999,
@@ -16120,9 +15866,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Danmarksgade 4,6500, Vojens,1300000 ,28-09-1999,Alm. Salg,276,4710,8,1907,
 510,Villa,Ryes Møllevej 56,6100, Haderslev,824430 ,27-09-1999,Alm. Salg,137,6018,7,1952,
 510,Villa,Odinsvej 43,6100, Haderslev,329975 ,27-09-1999,Alm. Salg,142,2324,6,2002,
-510,Ejerlejlighed,Allegade 7,6500, Vojens,725000 ,26-09-1999,Alm. Salg,81,8951,4,1936,
-510,Ejerlejlighed,Ungdomsskolevej 1,6500, Vojens,725000 ,26-09-1999,Alm. Salg,67,10821,2,1936,
-510,Ejerlejlighed,Ungdomsskolevej 1A,6500, Vojens,725000 ,26-09-1999,Alm. Salg,76,9539,3,1936,
 510,Villa,Hovedgaden Øst 25,6500, Vojens,573096 ,26-09-1999,Alm. Salg,160,3582,6,1949,
 510,Villa,Jernhytvej 43,6500, Vojens,330000 ,26-09-1999,Fam. Salg,94,3511,4,1953,
 510,Villa,Øsbygade 75,6100, Haderslev,238000 ,26-09-1999,Fam. Salg,140,1700,6,1900,
@@ -16195,10 +15938,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Aarø 38,6100, Haderslev,295792 ,23-08-1999,Andet,148,1999,5,1978,
 510,Villa,Aastrupvej 123,6100, Haderslev,2001000 ,23-08-1999,Alm. Salg,201,9955,5,1959,
 510,Villa,Nyvej 24,6100, Haderslev,795000 ,23-08-1999,Alm. Salg,139,5719,6,1925,
-510,Ejerlejlighed,Naffet 2A,6500, Vojens,436000 ,22-08-1999,Alm. Salg,116,3759,3,1956,
 510,Villa,Skovvej 1,6510, Gram,238000 ,22-08-1999,Alm. Salg,142,1676,5,1931,
 510,Villa,Vester Lindetvej 24,6510, Gram,1050000 ,22-08-1999,Alm. Salg,142,7394,5,1986,
-510,Villa,Naffet 2B,6500, Vojens,436000 ,22-08-1999,Alm. Salg,116,3759,4,1956,
 510,Villa,Klydevej 4,6500, Vojens,1077000 ,22-08-1999,Alm. Salg,151,7132,6,1999,
 510,Villa,Klydevej 8,6500, Vojens,247400 ,22-08-1999,Alm. Salg,143,1730,5,2001,
 510,Villa,Kalmargårdparken 26,6100, Haderslev,143723 ,21-08-1999,Alm. Salg,169,850,6,2000,
@@ -16300,7 +16041,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Rækkehus,Odinsvej 15,6100, Haderslev,615000 ,12-07-1999,Alm. Salg,90,6833,6,1957,
 510,Villa,Lindealle 21,6510, Gram,340818 ,11-07-1999,Alm. Salg,246,1385,6,1944,
 510,Villa,Ladegårdvej 3,6500, Vojens,475000 ,11-07-1999,Alm. Salg,196,2423,9,1925,
-510,Rækkehus,Hertug Hans Gade 9A,6100, Haderslev,1450000 ,10-07-1999,Alm. Salg,148,9797,4,1926,
 510,Villa,Rosenbakken 80,6100, Haderslev,455000 ,10-07-1999,Alm. Salg,184,2473,6,2000,
 510,Villa,Allegade 6,6500, Vojens,1450000 ,10-07-1999,Alm. Salg,186,7796,5,1986,
 510,Ejerlejlighed,Nederbyvænget 71A,6100, Haderslev,475000 ,09-07-1999,Alm. Salg,61,7787,2,1988,
@@ -16349,7 +16089,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Dronning Alexandrines Vej 4,6100, Haderslev,1552500 ,28-06-1999,Alm. Salg,242,6415,5,1970,
 510,Villa,Tovskovvej 68,6560, Sommersted,428156 ,28-06-1999,Alm. Salg,79,5420,3,1955,
 510,Villa,Margrethevej 10,6510, Gram,590514 ,28-06-1999,Alm. Salg,101,5847,3,1977,
-510,Rækkehus,Østergade 6A,6100, Haderslev,500000 ,27-06-1999,Alm. Salg,50,10000,2,1887,
 510,Rækkehus,Skjoldsvænge 64,6500, Vojens,709863 ,27-06-1999,Alm. Salg,122,5819,4,1978,
 510,Ejerlejlighed,"Aastrupvej 84A, st",6100, Haderslev,697000 ,27-06-1999,Alm. Salg,102,6833,3,1937,
 510,Villa,Skinkelsvej 6,6100, Haderslev,344000 ,27-06-1999,Alm. Salg,84,4095,4,1948,
@@ -16503,7 +16242,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Følsterengen 7,6510, Gram,105400 ,04-05-1999,Alm. Salg,210,502,7,2000,
 510,Villa,P.A. Madvigs Vej 38,6100, Haderslev,865000 ,03-05-1999,Alm. Salg,179,4832,7,1958,
 510,Rækkehus,Aarøsundvej 77C,6100, Haderslev,920000 ,02-05-1999,Alm. Salg,109,8440,4,1981,
-510,Ejerlejlighed,"Storegade 82, 1",6100, Haderslev,2550000 ,02-05-1999,Alm. Salg,159,16038,4,1850,
 510,Villa,Stampemøllevej 22,6510, Gram,551000 ,02-05-1999,Alm. Salg,254,2169,7,1910,
 510,Villa,Sønderhaven 15,6100, Haderslev,1263160 ,28-04-1999,Alm. Salg,146,8652,6,1942,
 510,Villa,Runebakken 85,6500, Vojens,910000 ,28-04-1999,Alm. Salg,140,6500,4,1979,
@@ -16552,7 +16290,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Overgade 11,6500, Vojens,603132 ,08-04-1999,Alm. Salg,202,2986,6,1875,
 510,Villa,Jepsens Vej 1,6500, Vojens,200000 ,07-04-1999,Alm. Salg,138,1449,5,1880,
 510,Villa,Stensbækvej 22,6510, Gram,260020 ,06-04-1999,Alm. Salg,118,2204,5,1870,
-510,Villa,Ringvej 22A,6500, Vojens,1250000 ,06-04-1999,Alm. Salg,159,7862,4,1914,
 510,Villa,Træhedevej 5,6500, Vojens,297500 ,06-04-1999,Fam. Salg,158,1883,6,1900,
 510,Villa,Nørregade 23,6500, Vojens,633477 ,05-04-1999,Alm. Salg,93,6812,3,1950,
 510,Villa,Hovslundvej 47,6100, Haderslev,285180 ,05-04-1999,Alm. Salg,79,3610,3,1857,
@@ -16675,7 +16412,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Ejerlejlighed,"Kongevej 3, 1",6510, Gram,1360000 ,09-02-1999,Auktion,208,6538,4,1938,
 510,Villa,Tapagervej 2,6100, Haderslev,151000 ,09-02-1999,Alm. Salg,165,915,9,1902,
 510,Villa,Winthersvej 20,6510, Gram,350000 ,09-02-1999,Alm. Salg,91,3846,3,1953,
-510,Rækkehus,Nørremarksvej 1A,6510, Gram,347952 ,08-02-1999,Alm. Salg,202,1723,4,1900,
 510,Villa,Ny Erlevvej 8A,6100, Haderslev,1375000 ,08-02-1999,Alm. Salg,210,6548,8,1988,
 510,Ejerlejlighed,"Jomfrustien 26, 2. th",6100, Haderslev,491000 ,07-02-1999,Alm. Salg,87,5644,3,1911,
 510,Villa,Raursherred 13,6100, Haderslev,200000 ,07-02-1999,Fam. Salg,98,2041,4,1877,
@@ -16764,7 +16500,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Ejerlejlighed,"Gammelting 16, 1. tv",6100, Haderslev,509000 ,28-12-1998,Alm. Salg,82,6207,3,1928,
 510,Villa,Peblingegyde 20,6100, Haderslev,150000 ,28-12-1998,Alm. Salg,169,888,4,1852,
 510,Ejerlejlighed,"Clausensvej 2A, st",6100, Haderslev,620000 ,22-12-1998,Alm. Salg,89,6966,3,1945,
-510,Villa,Flovt Bygade 9,6100, Haderslev,2900000 ,22-12-1998,Alm. Salg,180,16111,4,1860,
 510,Rækkehus,Badstuegade 3,6100, Haderslev,1239000 ,21-12-1998,Alm. Salg,182,6808,5,1800,
 510,Villa,Ryes Møllevej 58,6100, Haderslev,639653 ,21-12-1998,Alm. Salg,121,5286,5,1936,
 510,Villa,Vernsgårdvej 2,6100, Haderslev,325000 ,21-12-1998,Alm. Salg,120,2708,5,1945,
@@ -16956,10 +16691,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Tovskovvej 12,6560, Sommersted,443000 ,21-09-1998,Alm. Salg,116,3819,5,1930,
 510,Villa,Kabdrupvej 38,6100, Haderslev,390000 ,21-09-1998,Andet,110,2806,4,1897,
 510,Villa,Oksbølvej 35,6100, Haderslev,901818 ,21-09-1998,Alm. Salg,109,8274,3,1800,
-510,Ejerlejlighed,Rådhuscentret 2A,6500, Vojens,718000 ,20-09-1998,Alm. Salg,66,10879,3,1999,
-510,Ejerlejlighed,Rådhuscentret 2C,6500, Vojens,718000 ,20-09-1998,Alm. Salg,66,10879,3,1999,
-510,Ejerlejlighed,"Vestergade 72, st",6500, Vojens,718000 ,20-09-1998,Alm. Salg,113,6354,3,1930,
-510,Ejerlejlighed,"Vestergade 72, 1",6500, Vojens,718000 ,20-09-1998,Alm. Salg,102,7039,3,1930,
 510,Villa,Kærsmindevej 11,6100, Haderslev,909000 ,20-09-1998,Alm. Salg,186,4887,6,1790,
 510,Villa,Bøgely 27,6100, Haderslev,840000 ,18-09-1998,Fam. Salg,196,4286,5,1955,
 510,Villa,Hørregårdsvej 14,6100, Haderslev,902000 ,17-09-1998,Alm. Salg,115,7843,5,1951,
@@ -17144,7 +16875,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Avnøvej 3,6100, Haderslev,565000 ,29-06-1998,Alm. Salg,83,6807,3,1954,
 510,Villa,Virkelystvej 17,6100, Haderslev,799515 ,29-06-1998,Alm. Salg,123,6500,7,1960,
 510,Rækkehus,Rosenalle 5A,6500, Vojens,520572 ,28-06-1998,Alm. Salg,116,4488,4,1920,
-510,Ejerlejlighed,"Gammel Christiansfeldvej 51, 1",6100, Haderslev,2792273 ,28-06-1998,Alm. Salg,178,15687,5,1955,
 510,Villa,Haderslevvej 7,6500, Vojens,765000 ,28-06-1998,Alm. Salg,164,4665,6,1935,
 510,Villa,Kolsnapvej 17,6500, Vojens,250000 ,28-06-1998,Alm. Salg,100,2500,5,1931,
 510,Villa,Løvvej 1,6500, Vojens,185000 ,28-06-1998,Alm. Salg,237,781,5,1940,
@@ -17472,9 +17202,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Højgårdvej 37,6100, Haderslev,61455 ,02-03-1998,Fam. Salg,149,412,6,2005,
 510,Villa,Abkærvej 13,6500, Vojens,409000 ,02-03-1998,Alm. Salg,164,2494,7,1962,
 510,Villa,Boskovvej 56,6100, Haderslev,890000 ,02-03-1998,Alm. Salg,182,4890,7,1936,
-510,Ejerlejlighed,Julius Nielsens Vej 2A,6500, Vojens,553000 ,01-03-1998,Alm. Salg,36,15361,1,1930,
-510,Ejerlejlighed,"Vestergade 50, st",6500, Vojens,553000 ,01-03-1998,Alm. Salg,100,5530,3,1930,
-510,Ejerlejlighed,"Vestergade 50, 1",6500, Vojens,553000 ,01-03-1998,Alm. Salg,72,7681,2,1930,
 510,Villa,Over Jerstalvej 29,6500, Vojens,251624 ,01-03-1998,Alm. Salg,89,2827,4,1953,
 510,Villa,Rolighedsvej 9,6510, Gram,230292 ,01-03-1998,Alm. Salg,96,2399,3,1947,
 510,Villa,Vendekobbel 49,6100, Haderslev,997000 ,01-03-1998,Alm. Salg,160,6231,7,1946,
@@ -17716,8 +17443,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Rosenbakken 62,6100, Haderslev,3098000 ,23-11-1997,Alm. Salg,326,9503,6,1987,
 510,Villa,Kongstedvej 6,6500, Vojens,135000 ,23-11-1997,Alm. Salg,105,1286,5,1910,
 510,Villa,Aabenraavej 5,6100, Haderslev,1116000 ,23-11-1997,Fam. Salg,154,7247,5,1923,
-510,Rækkehus,Vilstrup Bysving 8A,6100, Haderslev,839024 ,22-11-1997,Fam. Salg,86,9756,3,1964,
-510,Ejerlejlighed,Vilstrup Bysving 8B,6100, Haderslev,839024 ,22-11-1997,Fam. Salg,129,6504,3,1910,
 510,Villa,Tovskovvej 62,6560, Sommersted,390000 ,22-11-1997,Alm. Salg,115,3391,4,1949,
 510,Villa,Odinsvej 193,6500, Vojens,715000 ,21-11-1997,Alm. Salg,120,5958,4,1974,
 510,Villa,Fjelstrup Nørrevej 7,6100, Haderslev,596000 ,20-11-1997,Alm. Salg,115,5183,5,1939,
@@ -17800,7 +17525,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Kongevej 5,6100, Haderslev,860000 ,20-10-1997,Fam. Salg,218,3945,9,1923,
 510,Villa,Hyrup Vestermarksvej 4,6520, Toftlund,365000 ,19-10-1997,Alm. Salg,82,4451,4,1948,
 510,Villa,Kelstrupvej 47,6100, Haderslev,600000 ,19-10-1997,Alm. Salg,279,2151,7,1890,
-510,Villa,Vestergade 18,6500, Vojens,1450000 ,19-10-1997,Alm. Salg,262,5534,7,1970,
 510,Villa,Egedal 15A,6100, Haderslev,639000 ,19-10-1997,Alm. Salg,140,4564,5,1974,
 510,Villa,Lænkebjerg 39,6100, Haderslev,451835 ,19-10-1997,Alm. Salg,90,5020,4,1957,
 510,Villa,Lundingvej 7,6100, Haderslev,733000 ,19-10-1997,Alm. Salg,96,7635,3,1990,
@@ -17855,7 +17579,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Benediktevej 21,6500, Vojens,510293 ,29-09-1997,Alm. Salg,92,5547,3,1951,
 510,Villa,Krügersvej 10,6541, Bevtoft,280000 ,28-09-1997,Alm. Salg,121,2314,4,1945,
 510,Villa,Solvej 9,6500, Vojens,631406 ,28-09-1997,Alm. Salg,120,5262,5,1963,
-510,Villa,Aabenraavej 26C,6100, Haderslev,470508 ,28-09-1997,Alm. Salg,80,5881,3,1980,
 510,Villa,Hajstrupgade 23,6100, Haderslev,359000 ,28-09-1997,Alm. Salg,103,3485,3,1877,
 510,Rækkehus,Lille Klingbjerg 16,6100, Haderslev,1080000 ,27-09-1997,Alm. Salg,117,9231,4,1850,
 510,Villa,Lokesvej 4,6100, Haderslev,796740 ,27-09-1997,Alm. Salg,105,7588,5,1965,
@@ -18069,9 +17792,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Pladsgade 3,6100, Haderslev,191515 ,03-07-1997,Alm. Salg,82,2336,3,1890,
 510,Villa,Kongevej 219,6510, Gram,265000 ,03-07-1997,Alm. Salg,70,3786,2,1920,
 510,Villa,H.P. Sørensens Vej 8,6510, Gram,850000 ,03-07-1997,Alm. Salg,166,5120,5,1972,
-510,Rækkehus,Hovedgaden Vest 97D,6500, Vojens,630000 ,02-07-1997,Alm. Salg,63,10000,1,1964,
 510,Ejerlejlighed,"Pladsgade 7A, st",6100, Haderslev,244415 ,02-07-1997,Alm. Salg,72,3395,3,1900,
-510,Villa,Hovedgaden Vest 95,6500, Vojens,630000 ,02-07-1997,Alm. Salg,98,6429,3,1896,
 510,Villa,Sønder Vilstrup Bygade 6,6100, Haderslev,450000 ,02-07-1997,Alm. Salg,122,3689,4,1890,
 510,Villa,Hoptrup Kirkeby 20,6100, Haderslev,484860 ,02-07-1997,Alm. Salg,165,2939,5,1964,
 510,Villa,Hoptrup Kirkeby 36,6100, Haderslev,196746 ,02-07-1997,Fam. Salg,126,1561,4,1963,
@@ -18103,7 +17824,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Tåsingevej 51,6100, Haderslev,449123 ,26-06-1997,Alm. Salg,134,3352,5,1976,
 510,Villa,Skovbøllingvej 40,6100, Haderslev,968000 ,26-06-1997,Alm. Salg,182,5319,7,1965,
 510,Rækkehus,Skovmosevej 5A,6510, Gram,420000 ,25-06-1997,Alm. Salg,70,6000,2,1956,
-510,Villa,"Tovskovvej 20B, 1",6560, Sommersted,800000 ,25-06-1997,Alm. Salg,187,4278,8,1908,
 510,Villa,Lindøvej 97,6100, Haderslev,275000 ,25-06-1997,Alm. Salg,170,1618,5,1999,
 510,Villa,Krügersvej 32,6541, Bevtoft,500000 ,25-06-1997,Alm. Salg,163,3067,7,1869,
 510,Villa,Ribevej 106,6500, Vojens,336000 ,25-06-1997,Alm. Salg,160,2100,5,1929,
@@ -18194,7 +17914,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Kongevej 231B,6510, Gram,538958 ,25-05-1997,Alm. Salg,148,3642,5,1980,
 510,Villa,Skibelundvej 8,6500, Vojens,680000 ,24-05-1997,Alm. Salg,232,2931,6,1900,
 510,Villa,Øsbygade 111,6100, Haderslev,1471000 ,23-05-1997,Alm. Salg,181,8127,6,2018,
-510,Ejerlejlighed,Slotsgade 14,6100, Haderslev,1425382 ,22-05-1997,Alm. Salg,193,7385,6,1827,
 510,Villa,Solbakken 35,6100, Haderslev,730000 ,22-05-1997,Alm. Salg,112,6518,4,1971,
 510,Villa,Krokusvej 4,6500, Vojens,725000 ,21-05-1997,Alm. Salg,140,5179,4,1971,
 510,Villa,Bæk Møllenaf 8,6100, Haderslev,849656 ,20-05-1997,Alm. Salg,218,3898,4,1900,
@@ -18445,7 +18164,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Anne-Marie Vej 10,6500, Vojens,746800 ,18-02-1997,Alm. Salg,152,4913,5,1963,
 510,Villa,Dæmningen 9,6500, Vojens,294529 ,18-02-1997,Alm. Salg,100,2945,3,1967,
 510,Villa,Kærtoft 14,6100, Haderslev,55800 ,18-02-1997,Alm. Salg,98,569,4,1998,
-510,Villa,Skibbrogade 13A,6100, Haderslev,590000 ,18-02-1997,Alm. Salg,37,15946,1,1852,
 510,Ejerlejlighed,"Vestergade 40B, 1",6500, Vojens,288647 ,17-02-1997,Alm. Salg,63,4582,2,1890,
 510,Villa,Bæk Møllenaf 17,6100, Haderslev,1500000 ,17-02-1997,Alm. Salg,200,7500,6,0,
 510,Rækkehus,Birkelund 7,6100, Haderslev,609000 ,16-02-1997,Alm. Salg,144,4229,6,1989,
@@ -18827,7 +18545,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Skotvej 2,6560, Sommersted,780000 ,10-09-1996,Alm. Salg,329,2371,14,1865,
 510,Villa,Siøvej 18,6100, Haderslev,1018000 ,09-09-1996,Alm. Salg,133,7654,5,1986,
 510,Villa,Østerskovvej 1A,6500, Vojens,630207 ,09-09-1996,Alm. Salg,227,2776,7,1971,
-510,Villa,Selbjerg 40,6100, Haderslev,600000 ,09-09-1996,Alm. Salg,175,3429,5,1970,
 510,Villa,Kærvej 2,6560, Sommersted,444000 ,09-09-1996,Fam. Salg,113,3929,4,1971,
 510,Villa,Søvang 32,6100, Haderslev,873000 ,08-09-1996,Alm. Salg,158,5525,5,1970,
 510,Villa,Hovedgaden Øst 45,6500, Vojens,395000 ,08-09-1996,Alm. Salg,122,3238,3,1960,
@@ -19243,9 +18960,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Winthersvej 5,6510, Gram,699000 ,01-04-1996,Alm. Salg,233,3000,7,1971,
 510,Villa,Hedehusvej 2,6630, Rødding,740000 ,01-04-1996,Alm. Salg,145,5103,4,1941,
 510,Villa,Præstegårdsalleen 4,6100, Haderslev,415000 ,01-04-1996,Alm. Salg,215,1930,7,1961,
-510,Ejerlejlighed,"Slotsgade 33, 1. tv",6100, Haderslev,1350000 ,31-03-1996,Alm. Salg,135,10000,4,1902,
 510,Villa,Godthåbsvej 48,6100, Haderslev,352318 ,31-03-1996,Alm. Salg,165,2135,7,1972,
-510,Villa,Aabenraavej 26C,6100, Haderslev,1047000 ,31-03-1996,Alm. Salg,80,13088,3,1980,
 510,Villa,Langelandsvej 37,6100, Haderslev,969000 ,30-03-1996,Alm. Salg,130,7454,5,1981,
 510,Villa,Errested Kirkevej 17,6100, Haderslev,250000 ,30-03-1996,Alm. Salg,220,1136,6,1877,
 510,Villa,Krügersvej 10,6541, Bevtoft,240000 ,29-03-1996,Alm. Salg,121,1983,4,1945,
@@ -19260,7 +18975,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Brorsbølvej 9,6100, Haderslev,610000 ,27-03-1996,Alm. Salg,124,4919,4,1964,
 510,Villa,Erlevvej 90,6100, Haderslev,460000 ,27-03-1996,Alm. Salg,245,1878,8,1996,
 510,Villa,Hyldevej 6,6541, Bevtoft,95000 ,27-03-1996,Alm. Salg,200,475,6,1830,
-510,Ejerlejlighed,"Slotsgade 33, 1. tv",6100, Haderslev,1700000 ,26-03-1996,Alm. Salg,135,12593,4,1902,
 510,Villa,Aarøsund Havn 15,6100, Haderslev,673628 ,26-03-1996,Alm. Salg,215,3133,5,1928,
 510,Villa,Rugmarksvej 34,6500, Vojens,786000 ,26-03-1996,Alm. Salg,176,4466,6,1985,
 510,Villa,Søvang 9,6100, Haderslev,677000 ,26-03-1996,Alm. Salg,122,5549,4,1971,
@@ -19279,11 +18993,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Lindøvej 73,6100, Haderslev,132000 ,21-03-1996,Alm. Salg,155,852,6,1996,
 510,Villa,Hajstrupgade 73,6100, Haderslev,526340 ,21-03-1996,Alm. Salg,151,3486,3,1877,
 510,Villa,Tværbjerg 8,6100, Haderslev,500290 ,20-03-1996,Alm. Salg,153,3270,6,1877,
-510,Rækkehus,Moltrupvej 70,6100, Haderslev,573000 ,19-03-1996,Alm. Salg,118,4856,4,1970,
 510,Villa,Voldborgvej 5,6500, Vojens,210000 ,19-03-1996,Alm. Salg,122,1721,5,1850,
 510,Villa,Dyssebakken 25,6500, Vojens,91901 ,19-03-1996,Alm. Salg,151,609,5,1997,
 510,Villa,Avnøvej 21,6100, Haderslev,369890 ,19-03-1996,Fam. Salg,147,2516,5,1968,
-510,Villa,Hoptrup Hovedgade 73,6100, Haderslev,573000 ,19-03-1996,Alm. Salg,125,4584,6,1827,
 510,Villa,Grønningen 17,6100, Haderslev,469500 ,18-03-1996,Alm. Salg,129,3640,4,1930,
 510,Villa,Vestermarksvej 1,6510, Gram,456691 ,18-03-1996,Alm. Salg,127,3596,4,1800,
 510,Ejerlejlighed,"Naffet 32, 1",6100, Haderslev,487000 ,17-03-1996,Alm. Salg,91,5352,3,1840,
@@ -19391,7 +19103,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Allegade 42,6500, Vojens,426000 ,04-02-1996,Alm. Salg,88,4841,4,1959,
 510,Villa,Aastrupvej 43,6100, Haderslev,1006999 ,04-02-1996,Alm. Salg,225,4476,9,1908,
 510,Villa,Favstrupvej 135,6100, Haderslev,1232000 ,02-02-1996,Alm. Salg,204,6039,6,1980,
-510,Villa,Aarø 205B,6100, Haderslev,285000 ,02-02-1996,Alm. Salg,236,1208,8,1929,
 510,Ejerlejlighed,Naffet 39B,6100, Haderslev,315000 ,01-02-1996,Alm. Salg,58,5431,2,1900,
 510,Villa,Over Jerstalvej 30,6500, Vojens,525640 ,01-02-1996,Alm. Salg,112,4693,3,1957,
 510,Villa,Solbakken 24,6100, Haderslev,841000 ,01-02-1996,Alm. Salg,100,8410,4,1955,
@@ -19604,14 +19315,12 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Marstrup Sønderby 20,6100, Haderslev,545762 ,07-11-1995,Alm. Salg,110,4961,4,1900,
 510,Villa,Strandelhjørn Bygade 19,6500, Vojens,284000 ,07-11-1995,Alm. Salg,120,2367,5,1934,
 510,Rækkehus,Ribe Landevej 98E,6100, Haderslev,742000 ,06-11-1995,Alm. Salg,98,7571,4,1992,
-510,Rækkehus,Aabenraavej 18B,6100, Haderslev,570000 ,06-11-1995,Alm. Salg,130,4385,3,1911,
 510,Villa,Folevej 64,6510, Gram,267232 ,06-11-1995,Alm. Salg,184,1452,7,1938,
 510,Villa,Birkevej 9,6100, Haderslev,607500 ,06-11-1995,Alm. Salg,102,5956,4,1954,
 510,Villa,Ejsbølvej 4A,6100, Haderslev,768000 ,06-11-1995,Alm. Salg,139,5525,4,1954,
 510,Villa,Vestergade 22,6510, Gram,344618 ,06-11-1995,Alm. Salg,177,1947,6,1900,
 510,Villa,Ørstedvej 6,6560, Sommersted,30000 ,05-11-1995,Alm. Salg,188,160,6,1840,
 510,Villa,Ribevej 62,6500, Vojens,360500 ,04-11-1995,Alm. Salg,99,3641,3,1954,
-510,Villa,Nyvej 3A,6100, Haderslev,775000 ,01-11-1995,Alm. Salg,90,8611,3,1920,
 510,Ejerlejlighed,"Vestergade 13A, 1. th",6500, Vojens,420000 ,31-10-1995,Alm. Salg,117,3590,3,1946,
 510,Villa,Fjordglimt 33,6100, Haderslev,545000 ,31-10-1995,Alm. Salg,184,2962,6,2022,
 510,Villa,Vilstrupvej 165,6100, Haderslev,276000 ,31-10-1995,Alm. Salg,220,1255,5,1885,
@@ -19708,13 +19417,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Aastrupvej 61,6100, Haderslev,1801701 ,24-09-1995,Alm. Salg,288,6256,8,1914,
 510,Villa,Hovstgyde 4,6100, Haderslev,349000 ,24-09-1995,Alm. Salg,198,1763,4,1860,
 510,Villa,Havvejen 31,6100, Haderslev,740000 ,24-09-1995,Alm. Salg,128,5781,4,1986,
-510,Ejerlejlighed,"Jomfrustien 10A, 1",6100, Haderslev,1400000 ,21-09-1995,Alm. Salg,93,15054,3,1906,
-510,Ejerlejlighed,"Jomfrustien 10A, 2",6100, Haderslev,1400000 ,21-09-1995,Alm. Salg,93,15054,3,1906,
-510,Ejerlejlighed,Høppners Gård 2A,6100, Haderslev,1400000 ,21-09-1995,Alm. Salg,128,10938,3,1906,
-510,Ejerlejlighed,"Jomfrustien 10C, 2",6100, Haderslev,1400000 ,21-09-1995,Alm. Salg,149,9396,5,1906,
-510,Ejerlejlighed,"Jomfrustien 10C, 1",6100, Haderslev,1400000 ,21-09-1995,Alm. Salg,139,10072,5,1906,
-510,Ejerlejlighed,"Jomfrustien 10C, 3",6100, Haderslev,1400000 ,21-09-1995,Alm. Salg,119,11765,3,1906,
-510,Ejerlejlighed,"Jomfrustien 10A, 3",6100, Haderslev,1400000 ,21-09-1995,Alm. Salg,123,11382,3,1906,
 510,Villa,Kongevej 335,6510, Gram,249000 ,21-09-1995,Alm. Salg,196,1270,6,1913,
 510,Villa,Drosselvej 2,6100, Haderslev,748091 ,21-09-1995,Alm. Salg,173,4324,5,1955,
 510,Villa,Ærøvej 111,6100, Haderslev,753000 ,21-09-1995,Alm. Salg,230,3274,10,1977,
@@ -19928,11 +19630,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Gyvelvej 38,6500, Vojens,472000 ,28-06-1995,Alm. Salg,114,4140,3,1964,
 510,Villa,Chr. Andersens Vej 33,6510, Gram,832000 ,28-06-1995,Alm. Salg,189,4402,6,1977,
 510,Villa,Hoptrup Hovedgade 57,6100, Haderslev,480000 ,28-06-1995,Alm. Salg,179,2682,6,1930,
-510,Ejerlejlighed,Naffet 2A,6500, Vojens,392454 ,27-06-1995,Alm. Salg,116,3383,3,1956,
 510,Ejerlejlighed,"Gammelting 16, 1. tv",6100, Haderslev,320000 ,27-06-1995,Alm. Salg,82,3902,3,1928,
 510,Villa,Simmerstedvej 106,6100, Haderslev,215589 ,27-06-1995,Alm. Salg,102,2114,4,1960,
 510,Villa,Errestedvej 43,6100, Haderslev,650000 ,27-06-1995,Alm. Salg,171,3801,7,1936,
-510,Villa,Naffet 2B,6500, Vojens,392454 ,27-06-1995,Alm. Salg,116,3383,4,1956,
 510,Villa,Ejsbølvej 30,6100, Haderslev,490000 ,27-06-1995,Alm. Salg,90,5444,3,1957,
 510,Villa,Jepsens Vej 1,6500, Vojens,224932 ,26-06-1995,Alm. Salg,138,1630,5,1880,
 510,Villa,Hyrup Bygade 6,6100, Haderslev,780000 ,26-06-1995,Alm. Salg,219,3562,7,1850,
@@ -20189,7 +19889,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Hoptrup Hovedgade 43,6100, Haderslev,399693 ,22-03-1995,Alm. Salg,194,2060,6,1922,
 510,Villa,Allegade 38,6500, Vojens,448500 ,20-03-1995,Alm. Salg,114,3934,3,1960,
 510,Villa,Nederbyvænget 384,6100, Haderslev,727000 ,20-03-1995,Alm. Salg,154,4721,5,1980,
-510,Villa,Storegade 152C,6560, Sommersted,400000 ,20-03-1995,Alm. Salg,57,7018,2,1895,
 510,Rækkehus,Ribe Landevej 98A,6100, Haderslev,678000 ,19-03-1995,Alm. Salg,98,6918,4,1994,
 510,Villa,Haderslevvej 5,6500, Vojens,496400 ,19-03-1995,Alm. Salg,170,2920,5,1932,
 510,Villa,Tjørnebakken 41,6100, Haderslev,1800000 ,19-03-1995,Alm. Salg,281,6406,6,1966,
@@ -20320,7 +20019,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Simmersted Byvej 13,6500, Vojens,315000 ,01-02-1995,Alm. Salg,100,3150,4,1816,
 510,Villa,Nyvej 36,6100, Haderslev,510000 ,01-02-1995,Alm. Salg,123,4146,4,1952,
 510,Villa,Møllebakken 4,6541, Bevtoft,110000 ,31-01-1995,Alm. Salg,128,859,5,1932,
-510,Rækkehus,Vestergade 57A,6500, Vojens,620000 ,30-01-1995,Alm. Salg,100,3804,4,1959,
 510,Villa,Færgevej 21,6100, Haderslev,787000 ,30-01-1995,Alm. Salg,120,6558,5,1986,
 510,Villa,Lysmosen 26,6100, Haderslev,524000 ,30-01-1995,Alm. Salg,124,4226,4,1969,
 510,Villa,Vandværksvej 1,6510, Gram,218000 ,30-01-1995,Alm. Salg,150,1453,4,1962,
@@ -20364,12 +20062,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Enghavevej 4,6100, Haderslev,629200 ,12-01-1995,Fam. Salg,170,3701,5,1954,
 510,Villa,Aastrupvej 124,6100, Haderslev,575000 ,12-01-1995,Alm. Salg,133,4323,5,1926,
 510,Rækkehus,Ny Allegade 8,6100, Haderslev,1100000 ,11-01-1995,Alm. Salg,359,3064,19,1933,
-510,Rækkehus,Vestergade 50A,6100, Haderslev,650000 ,11-01-1995,Alm. Salg,84,7738,3,1875,
-510,Ejerlejlighed,Pladsgade 5B,6100, Haderslev,650000 ,11-01-1995,Alm. Salg,60,10833,3,1900,
-510,Ejerlejlighed,"Pladsgade 5A, st. tv",6100, Haderslev,650000 ,11-01-1995,Alm. Salg,52,12500,2,1900,
-510,Ejerlejlighed,"Vestergade 50, st",6100, Haderslev,650000 ,11-01-1995,Alm. Salg,45,14444,2,1855,
-510,Ejerlejlighed,"Vestergade 50, 1",6100, Haderslev,650000 ,11-01-1995,Alm. Salg,90,7222,4,1855,
-510,Ejerlejlighed,Pladsgade 5C,6100, Haderslev,650000 ,11-01-1995,Alm. Salg,62,10484,2,1900,
 510,Villa,Skjoldsvænge 24,6500, Vojens,535000 ,11-01-1995,Alm. Salg,115,4652,4,1977,
 510,Villa,Spurvevej 16,6500, Vojens,480000 ,11-01-1995,Alm. Salg,143,3357,5,1967,
 510,Villa,Elmevej 11,6100, Haderslev,234376 ,11-01-1995,Andet,137,1711,4,1935,
@@ -20478,7 +20170,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Gammel Christiansfeldvej 98,6100, Haderslev,450000 ,17-11-1994,Alm. Salg,147,3061,6,1947,
 510,Villa,Havremarksvej 13,6500, Vojens,550000 ,17-11-1994,Alm. Salg,166,3313,4,1970,
 510,Rækkehus,Staruphave 3,6100, Haderslev,485000 ,16-11-1994,Alm. Salg,98,4949,4,1989,
-510,Rækkehus,Naffet 23,6100, Haderslev,794367 ,15-11-1994,Alm. Salg,90,8826,2,1925,
 510,Villa,Langstrengvej 18,6100, Haderslev,576000 ,15-11-1994,Alm. Salg,100,5760,5,1954,
 510,Villa,Kongevej 338B,6510, Gram,35000 ,14-11-1994,Alm. Salg,234,150,6,2012,
 510,Villa,Rylevej 2,6500, Vojens,320000 ,14-11-1994,Alm. Salg,126,2540,4,1994,
@@ -20491,7 +20182,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Ryes Møllevej 46,6100, Haderslev,565000 ,09-11-1994,Alm. Salg,140,4036,5,1933,
 510,Villa,Ved Banen 8,6510, Gram,115417 ,08-11-1994,Alm. Salg,235,491,6,1995,
 510,Villa,Vestermarksvej 6,6510, Gram,767815 ,08-11-1994,Alm. Salg,245,3134,7,1864,
-510,Rækkehus,Hertug Hans Gade 34A,6100, Haderslev,569481 ,07-11-1994,Alm. Salg,40,14237,2,1932,
 510,Ejerlejlighed,Fælledvej 5A,6100, Haderslev,500000 ,06-11-1994,Alm. Salg,126,3968,4,1961,
 510,Villa,Svanevej 41,6100, Haderslev,295000 ,06-11-1994,Alm. Salg,195,1513,6,1950,
 510,Villa,Christian Hostrups Vej 5,6100, Haderslev,945000 ,06-11-1994,Alm. Salg,204,4632,5,1970,
@@ -20558,7 +20248,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Krügersvej 15,6541, Bevtoft,238000 ,10-10-1994,Fam. Salg,100,2380,3,1965,
 510,Villa,Mirabellevej 3,6500, Vojens,632000 ,10-10-1994,Alm. Salg,163,3877,5,1973,
 510,Rækkehus,Staruphave 9,6100, Haderslev,465000 ,09-10-1994,Alm. Salg,96,4844,4,1989,
-510,Villa,Terkelsgade 7,6100, Haderslev,415000 ,09-10-1994,Alm. Salg,74,5608,3,1850,
 510,Villa,Rylevej 6,6500, Vojens,860000 ,08-10-1994,Alm. Salg,199,4322,6,1995,
 510,Villa,Mellemgade 2,6500, Vojens,109000 ,08-10-1994,Alm. Salg,120,908,4,1956,
 510,Ejerlejlighed,"Frejasvej 8, st. th",6100, Haderslev,165000 ,07-10-1994,Alm. Salg,30,5500,1,1961,
@@ -20701,7 +20390,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Rækkehus,Møllebakken 2A,6500, Vojens,388000 ,11-08-1994,Alm. Salg,120,3233,4,1977,
 510,Ejerlejlighed,"Frejasvej 4, st. tv",6100, Haderslev,140000 ,11-08-1994,Alm. Salg,30,4667,1,1961,
 510,Villa,Tåsingevej 39,6100, Haderslev,725000 ,11-08-1994,Alm. Salg,147,4932,5,1977,
-510,Rækkehus,Østergade 6A,6100, Haderslev,500000 ,10-08-1994,Alm. Salg,50,10000,2,1887,
 510,Villa,Blæsbjerg 2,6510, Gram,419440 ,10-08-1994,Alm. Salg,108,3884,4,1967,
 510,Villa,Eskærhøjvej 39H,6100, Haderslev,215280 ,09-08-1994,Alm. Salg,179,1203,6,1995,
 510,Villa,Bræråvej 23,6100, Haderslev,290000 ,08-08-1994,Alm. Salg,110,2636,4,1936,
@@ -20753,7 +20441,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Ribevej 92,6500, Vojens,410000 ,04-07-1994,Alm. Salg,177,2316,4,1877,
 510,Villa,Stærevej 2,6100, Haderslev,492000 ,04-07-1994,Alm. Salg,100,4920,4,1958,
 510,Villa,Aastrupvej 33,6100, Haderslev,583000 ,04-07-1994,Alm. Salg,258,2260,6,1898,
-510,Rækkehus,Naffet 23,6100, Haderslev,565000 ,03-07-1994,Auktion,90,6278,2,1925,
 510,Villa,Skjoldbjerg 5,6100, Haderslev,571673 ,03-07-1994,Alm. Salg,162,3529,6,1948,
 510,Villa,Fælledvej 5,6500, Vojens,220000 ,03-07-1994,Alm. Salg,114,1930,5,1942,
 510,Villa,Selbjerg 28,6100, Haderslev,495000 ,03-07-1994,Alm. Salg,130,3808,5,1969,
@@ -20946,12 +20633,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Ejerlejlighed,"Præstegade 16, st",6100, Haderslev,600000 ,20-04-1994,Alm. Salg,179,3352,4,1903,
 510,Villa,Lille Klokkedal 3,6100, Haderslev,433500 ,20-04-1994,Fam. Salg,185,2343,5,1974,
 510,Villa,Søholm 17,6100, Haderslev,1028000 ,19-04-1994,Alm. Salg,202,5089,7,1984,
-510,Ejerlejlighed,Flovt Bygade 17A,6100, Haderslev,565000 ,18-04-1994,Fam. Salg,120,4708,5,1835,
 510,Villa,Langstrengvej 14,6100, Haderslev,500000 ,18-04-1994,Alm. Salg,122,4098,5,1928,
 510,Villa,Svanevej 15,6100, Haderslev,670406 ,18-04-1994,Alm. Salg,146,4592,5,1962,
 510,Villa,Vestervej 2,6560, Sommersted,497000 ,18-04-1994,Alm. Salg,140,3550,6,1929,
 510,Villa,Ballehøj 1,6100, Haderslev,495000 ,18-04-1994,Alm. Salg,153,3235,7,1956,
-510,Villa,Flovt Bygade 17B,6100, Haderslev,565000 ,18-04-1994,Fam. Salg,90,6278,3,1955,
 510,Villa,Nederbyvænget 324,6100, Haderslev,150000 ,18-04-1994,Alm. Salg,149,1007,6,1994,
 510,Villa,Ejsbølvej 19,6100, Haderslev,250000 ,18-04-1994,Alm. Salg,98,2551,4,1949,
 510,Ejerlejlighed,"Pladsgade 7A, 1",6100, Haderslev,485000 ,17-04-1994,Alm. Salg,73,6644,3,1900,
@@ -21025,7 +20710,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Hjejlevej 8,6500, Vojens,765000 ,22-03-1994,Alm. Salg,164,4665,5,1994,
 510,Villa,Vestergade 2,6510, Gram,250000 ,22-03-1994,Alm. Salg,145,1724,4,1965,
 510,Villa,Margrethevej 43,6500, Vojens,435000 ,22-03-1994,Alm. Salg,129,3372,5,1961,
-510,Rækkehus,Vestergade 57A,6500, Vojens,465921 ,21-03-1994,Auktion,100,2858,4,1959,
 510,Rækkehus,Thrigesvej 104,6100, Haderslev,285000 ,21-03-1994,Fam. Salg,119,2395,4,1974,
 510,Villa,Skovby Bygade 4,6500, Vojens,305000 ,21-03-1994,Alm. Salg,131,2328,5,1943,
 510,Villa,Diernæsvej 218A,6100, Haderslev,975000 ,20-03-1994,Alm. Salg,130,7500,4,1995,
@@ -21072,10 +20756,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Ejerlejlighed,"Naffet 36, 2",6100, Haderslev,375400 ,27-02-1994,Alm. Salg,75,5005,2,1984,
 510,Villa,Langtoften 23,6100, Haderslev,408000 ,27-02-1994,Fam. Salg,160,2550,5,1980,
 510,Villa,Rovstrupvej 55,6100, Haderslev,170000 ,25-02-1994,Alm. Salg,80,2125,3,1877,
-510,Ejerlejlighed,"Storegade 62A, 2",6100, Haderslev,300000 ,24-02-1994,Alm. Salg,40,7500,2,1877,
-510,Ejerlejlighed,"Storegade 62A, 1",6100, Haderslev,300000 ,24-02-1994,Alm. Salg,65,4615,2,1877,
-510,Ejerlejlighed,"Moltrupvej 23A, st",6100, Haderslev,300000 ,24-02-1994,Alm. Salg,67,4478,2,1900,
-510,Ejerlejlighed,"Moltrupvej 23A, 1",6100, Haderslev,300000 ,24-02-1994,Alm. Salg,84,3571,4,1900,
 510,Villa,Dyssebakken 50,6500, Vojens,955000 ,24-02-1994,Alm. Salg,177,5395,6,1987,
 510,Villa,Primulavej 28,6100, Haderslev,580000 ,24-02-1994,Alm. Salg,137,4234,4,1973,
 510,Villa,Runebakken 11,6500, Vojens,685000 ,23-02-1994,Alm. Salg,137,5000,5,1979,
@@ -21189,8 +20869,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Ejsbølvej 42,6100, Haderslev,810500 ,13-01-1994,Alm. Salg,115,7048,5,1965,
 510,Villa,Benediktevej 2,6500, Vojens,520000 ,13-01-1994,Alm. Salg,94,5532,3,1962,
 510,Villa,Kaj Munks Vej 10,6100, Haderslev,856240 ,13-01-1994,Alm. Salg,136,6296,5,1972,
-510,Rækkehus,Skovby Bygade 8D,6500, Vojens,790000 ,12-01-1994,Alm. Salg,85,9294,2,1880,
-510,Rækkehus,Østergade 6A,6100, Haderslev,250000 ,12-01-1994,Alm. Salg,50,5000,2,1887,
 510,Villa,Revsøgårdvej 3,6560, Sommersted,665000 ,12-01-1994,Alm. Salg,161,4130,6,1877,
 510,Villa,Skydebanevej 4,6500, Vojens,360000 ,11-01-1994,Fam. Salg,192,1875,6,1951,
 510,Villa,Aastrupvej 23,6100, Haderslev,658510 ,11-01-1994,Alm. Salg,213,3092,8,1925,
@@ -21696,7 +21374,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Hasselvej 41,6510, Gram,450000 ,18-05-1993,Alm. Salg,120,3750,4,1978,
 510,Villa,Tøndervej 1,6500, Vojens,260000 ,18-05-1993,Alm. Salg,150,1733,6,1900,
 510,Villa,Bøgevej 1A,6500, Vojens,620000 ,18-05-1993,Alm. Salg,143,4336,5,1982,
-510,Ejerlejlighed,"Fredstedvej 70, 1",6100, Haderslev,2250000 ,17-05-1993,Alm. Salg,123,13235,4,1951,
 510,Villa,Aastrupvej 158,6100, Haderslev,475000 ,17-05-1993,Alm. Salg,72,6597,3,1957,
 510,Villa,Boskovvej 49,6100, Haderslev,621300 ,17-05-1993,Alm. Salg,168,3698,5,1978,
 510,Ejerlejlighed,"Vestergade 13B, 1. 2",6500, Vojens,260000 ,16-05-1993,Alm. Salg,122,2131,3,1946,
@@ -21713,12 +21390,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Rækkehus,Lille Klingbjerg 14,6100, Haderslev,645000 ,12-05-1993,Alm. Salg,123,5244,3,1850,
 510,Rækkehus,Skibbrogade 4C,6100, Haderslev,690000 ,12-05-1993,Alm. Salg,128,5391,3,1963,
 510,Villa,Ved Færgegården 2B,6100, Haderslev,3500000 ,12-05-1993,Alm. Salg,310,11290,8,1830,
-510,Ejerlejlighed,"Sønderbro 34, st. th",6100, Haderslev,700000 ,11-05-1993,Alm. Salg,50,14000,2,1903,
-510,Ejerlejlighed,"Sønderbro 34, 1. th",6100, Haderslev,700000 ,11-05-1993,Alm. Salg,78,8974,2,1903,
-510,Ejerlejlighed,"Sønderbro 34, 2",6100, Haderslev,700000 ,11-05-1993,Alm. Salg,87,8046,3,1903,
-510,Ejerlejlighed,"Sønderbro 34, 1. tv",6100, Haderslev,700000 ,11-05-1993,Alm. Salg,61,11475,3,1903,
-510,Ejerlejlighed,Buegade 2A,6100, Haderslev,700000 ,11-05-1993,Alm. Salg,79,8861,2,1903,
-510,Ejerlejlighed,"Sønderbro 34, st. tv",6100, Haderslev,700000 ,11-05-1993,Alm. Salg,69,10145,2,1903,
 510,Villa,Christiansdalvej 5,6500, Vojens,212600 ,11-05-1993,Alm. Salg,87,2444,3,1946,
 510,Villa,Ribe Landevej 30,6100, Haderslev,500000 ,11-05-1993,Fam. Salg,204,2451,7,1909,
 510,Villa,Ribe Landevej 56,6100, Haderslev,375000 ,10-05-1993,Alm. Salg,172,2180,7,1900,
@@ -21807,7 +21478,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Rosenvænget 48,6541, Bevtoft,170892 ,21-03-1993,Alm. Salg,128,1335,4,1977,
 510,Villa,Allegade 12,6500, Vojens,625000 ,21-03-1993,Alm. Salg,120,5208,4,1953,
 510,Villa,Kvistrupvej 28,6100, Haderslev,245404 ,21-03-1993,Auktion,170,1444,4,1974,
-510,Villa,Niels Juhlers Toft 3A,6500, Vojens,2350000 ,21-03-1993,Alm. Salg,145,16207,5,1952,
 510,Villa,Aarø 126,6100, Haderslev,283000 ,21-03-1993,Alm. Salg,127,2228,6,1900,
 510,Villa,Skjoldsvænge 36,6500, Vojens,518300 ,19-03-1993,Alm. Salg,115,4507,4,1977,
 510,Villa,Færgevej 99,6100, Haderslev,580000 ,17-03-1993,Alm. Salg,250,2320,10,1906,
@@ -21840,7 +21510,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Lokesager 7,6500, Vojens,560000 ,27-02-1993,Alm. Salg,135,4148,5,1971,
 510,Villa,Grønlandsvej 30,6100, Haderslev,970000 ,26-02-1993,Alm. Salg,212,4575,6,1972,
 510,Ejerlejlighed,"Allegade 9B, 1. tv",6100, Haderslev,144000 ,25-02-1993,Alm. Salg,61,2361,2,1895,
-510,Ejerlejlighed,"Vestergade 25, 1",6510, Gram,2556803 ,24-02-1993,Alm. Salg,160,15980,4,1911,
 510,Villa,Runebakken 91,6500, Vojens,660000 ,24-02-1993,Alm. Salg,144,4583,5,1980,
 510,Villa,Dæmningen 70,6500, Vojens,325000 ,24-02-1993,Alm. Salg,263,1236,10,1911,
 510,Villa,Nyvang 5,6500, Vojens,420000 ,23-02-1993,Alm. Salg,116,3621,4,1967,
@@ -22198,7 +21867,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Platanvej 4,6500, Vojens,627000 ,24-08-1992,Alm. Salg,132,4750,5,1986,
 510,Villa,Ringgade 14,6500, Vojens,320000 ,24-08-1992,Alm. Salg,108,2963,4,1980,
 510,Villa,Povlsgårdvej 22,6100, Haderslev,500000 ,21-08-1992,Alm. Salg,290,1724,5,1889,
-510,Ejerlejlighed,"Apotekergade 9A, 1",6100, Haderslev,4500000 ,20-08-1992,Alm. Salg,279,16129,9,1842,
 510,Villa,Marielystvej 7,6100, Haderslev,1090000 ,20-08-1992,Alm. Salg,160,6813,6,1934,
 510,Villa,Voldborgvej 1,6500, Vojens,244117 ,20-08-1992,Alm. Salg,252,969,6,1849,
 510,Villa,Moltrup Bygade 4,6100, Haderslev,465000 ,20-08-1992,Alm. Salg,146,3185,6,1970,
@@ -22313,7 +21981,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Søgårdvej 10B,6100, Haderslev,50000 ,24-06-1992,Andet,144,347,6,1997,
 510,Villa,Kirkevej 7,6560, Sommersted,64100 ,24-06-1992,Alm. Salg,92,697,3,2001,
 510,Villa,Toften 2,6510, Gram,373000 ,24-06-1992,Auktion,170,2194,6,1975,
-510,Villa,Aabenraavej 26C,6100, Haderslev,1050000 ,24-06-1992,Andet,80,13125,3,1980,
 510,Villa,Simmerstedvej 66,6100, Haderslev,681658 ,24-06-1992,Alm. Salg,104,6554,3,1911,
 510,Villa,Marielystvej 7,6100, Haderslev,535000 ,23-06-1992,Fam. Salg,160,3344,6,1934,
 510,Villa,Revsøgårdvej 3,6560, Sommersted,615000 ,23-06-1992,Alm. Salg,161,3820,6,1877,
@@ -22377,12 +22044,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Kongevej 67,6510, Gram,265000 ,31-05-1992,Alm. Salg,229,1157,8,1943,
 510,Villa,Ryes Møllevej 16,6100, Haderslev,485187 ,31-05-1992,Alm. Salg,153,3171,7,1956,
 510,Villa,Hornsgårdvej 7,6510, Gram,165000 ,31-05-1992,Alm. Salg,116,1422,5,1682,
-510,Ejerlejlighed,"Bispegade 6, 2. th",6100, Haderslev,140004 ,29-05-1992,Alm. Salg,85,1647,3,1875,
-510,Ejerlejlighed,"Bispegade 6, 2. tv",6100, Haderslev,140004 ,29-05-1992,Alm. Salg,40,3500,2,1875,
-510,Ejerlejlighed,"Bispegade 6, 1. th",6100, Haderslev,140004 ,29-05-1992,Alm. Salg,113,1239,4,1875,
-510,Ejerlejlighed,"Jomfrustien 16, 2",6100, Haderslev,140004 ,29-05-1992,Alm. Salg,144,972,4,1902,
-510,Ejerlejlighed,"Jomfrustien 16, 1",6100, Haderslev,140004 ,29-05-1992,Alm. Salg,144,972,4,1902,
-510,Ejerlejlighed,"Jomfrustien 16, 3",6100, Haderslev,140004 ,29-05-1992,Alm. Salg,142,986,4,1902,
 510,Villa,Præsteskoven 48,6100, Haderslev,2400000 ,28-05-1992,Alm. Salg,342,7018,11,1901,
 510,Rækkehus,Parkvej 15,6541, Bevtoft,365000 ,26-05-1992,Alm. Salg,129,2829,3,1979,
 510,Villa,Søvejen 9,6500, Vojens,195000 ,26-05-1992,Alm. Salg,185,1054,7,1890,
@@ -22521,7 +22182,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Runebakken 77,6500, Vojens,515000 ,31-03-1992,Alm. Salg,116,4440,4,1979,
 510,Villa,Runebakken 86,6500, Vojens,550000 ,31-03-1992,Fam. Salg,134,4104,4,1981,
 510,Rækkehus,Strynøvej 14,6100, Haderslev,465000 ,30-03-1992,Alm. Salg,114,4079,4,1977,
-510,Villa,Lembckesvej 38,6100, Haderslev,340000 ,30-03-1992,Alm. Salg,176,1932,6,1956,
 510,Villa,Birkevej 8,6510, Gram,360000 ,29-03-1992,Alm. Salg,130,2769,4,1971,
 510,Villa,Smedevænget 12,6500, Vojens,495000 ,29-03-1992,Alm. Salg,132,3750,5,1954,
 510,Villa,Sommerstedvej 28,6560, Sommersted,200000 ,29-03-1992,Alm. Salg,121,1653,5,1955,
@@ -22563,7 +22223,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Storegade 182,6560, Sommersted,300000 ,16-03-1992,Alm. Salg,93,3226,3,1963,
 510,Villa,Øsby Næsvej 147,6100, Haderslev,575000 ,15-03-1992,Alm. Salg,168,3423,5,1985,
 510,Villa,Hjerndrupvej 162,6070, Christiansfeld,260000 ,15-03-1992,Alm. Salg,97,2680,4,1947,
-510,Villa,"Margrethevej 21, st",6500, Vojens,550000 ,15-03-1992,Alm. Salg,136,4044,4,1962,
 510,Villa,Aabenraavej 49,6100, Haderslev,790000 ,15-03-1992,Fam. Salg,248,3185,9,1911,
 510,Villa,Klokkedal 2,6100, Haderslev,475000 ,15-03-1992,Fam. Salg,145,3276,5,1969,
 510,Villa,Møllevænget 6,6541, Bevtoft,255000 ,14-03-1992,Alm. Salg,134,1903,4,1980,
@@ -22609,7 +22268,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Villa,Nautrup 2,6100, Haderslev,850000 ,19-02-1992,Alm. Salg,176,4830,5,1943,
 510,Villa,Erik Eriksens Vej 8,6500, Vojens,270000 ,18-02-1992,Alm. Salg,107,2523,5,1890,
 510,Villa,Tovskovvej 62,6560, Sommersted,20000 ,18-02-1992,Andet,115,174,4,1949,
-510,Villa,Storegade 152C,6560, Sommersted,450000 ,18-02-1992,Alm. Salg,57,7895,2,1895,
 510,Villa,Topmejsevej 4,6500, Vojens,810000 ,17-02-1992,Fam. Salg,215,3767,6,1975,
 510,Villa,Aarøsundvej 58,6100, Haderslev,435000 ,17-02-1992,Alm. Salg,105,4143,4,1932,
 510,Ejerlejlighed,"Hertug Valdemars Vej 13A, 1",6100, Haderslev,460844 ,16-02-1992,Alm. Salg,92,5009,2,1907,
@@ -22672,7 +22330,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 510,Rækkehus,Vestergade 28,6100, Haderslev,218000 ,26-01-1992,Fam. Salg,62,3516,2,1825,
 510,Villa,Stageløkke 8,6500, Vojens,257841 ,26-01-1992,Alm. Salg,100,2578,4,1965,
 510,Villa,Møllevej 8,6500, Vojens,270000 ,26-01-1992,Alm. Salg,147,1837,6,1948,
-510,Villa,Slotsgrunden 5,6100, Haderslev,745000 ,24-01-1992,Alm. Salg,86,8663,3,1875,
 510,Rækkehus,Fasanvej 29,6100, Haderslev,430000 ,22-01-1992,Alm. Salg,96,4479,4,1951,
 510,Rækkehus,Odinsvej 21,6100, Haderslev,480000 ,22-01-1992,Alm. Salg,98,4898,4,1959,
 510,Villa,Christiansdalvej 8,6500, Vojens,431675 ,22-01-1992,Alm. Salg,205,2106,6,1979,

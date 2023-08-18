@@ -188,8 +188,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Villa,Sundbylillevej 12,3550, Slangerup,2250000 ,13-07-2022,Alm. Salg,117,19231.0,4,1969,
 250,Villa,Pilevej 11,4050, Skibby,1550000 ,13-07-2022,Alm. Salg,130,11923.0,5,1967,-3%
 250,Villa,Jerichausvej 3B,3630, Jægerspris,5485000 ,12-07-2022,Alm. Salg,234,23440.0,7,1981,-7%
-250,Rækkehus,Snogekær 25G,3630, Jægerspris,2100000 ,11-07-2022,Alm. Salg,112,18750.0,4,2009,
-250,Villa,Fredbo Vænge 19,3630, Jægerspris,2100000 ,11-07-2022,Alm. Salg,120,17500.0,5,1971,-16%
 250,Villa,Hovedgaden 49,3630, Jægerspris,3170000 ,10-07-2022,Alm. Salg,267,11873.0,9,1902,-1%
 250,Villa,Irisvej 1,3600, Frederikssund,2860000 ,10-07-2022,Alm. Salg,140,20429.0,5,1930,-5%
 250,Villa,Højbovej 4,3600, Frederikssund,1970000 ,09-07-2022,Alm. Salg,72,27361.0,3,1938,
@@ -232,7 +230,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Villa,Lille Rørbækvej 2A,3600, Frederikssund,3300000 ,15-06-2022,Alm. Salg,185,17838.0,3,1999,-6%
 250,Villa,Østerled 6,3600, Frederikssund,3900000 ,15-06-2022,Alm. Salg,137,28467.0,5,1962,-2%
 250,Villa,Ranunkelvej 22,3600, Frederikssund,3750000 ,14-06-2022,Alm. Salg,186,20161.0,7,1967,
-250,Villa,Vinkelvej 30,3600, Frederikssund,2350000 ,13-06-2022,Alm. Salg,168,13988.0,6,1960,-6%
 250,Villa,Degnevænget 2,3600, Frederikssund,1365000 ,13-06-2022,Fam. Salg,101,13515.0,3,1961,
 250,Villa,Syrenvej 1,3550, Slangerup,1020000 ,13-06-2022,Fam. Salg,116,8793.0,4,1965,
 250,Villa,Bakkekammen 141,3600, Frederikssund,2950000 ,10-06-2022,Fam. Salg,199,14824.0,6,2005,
@@ -951,7 +948,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Rækkehus,Færgevej 61A,3600, Frederikssund,2473689 ,24-05-2021,Andet,103,24016.0,4,1956,
 250,Rækkehus,Talrækkerne 17,3600, Frederikssund,3350000 ,24-05-2021,Alm. Salg,116,28879.0,4,2022,
 250,Ejerlejlighed,"Færgeparken 12, 2. tv",3600, Frederikssund,1775000 ,24-05-2021,Alm. Salg,67,26493.0,2,1987,8%
-250,Villa,"Poppelvej 28A, 1",3630, Jægerspris,544000 ,24-05-2021,Alm. Salg,74,7351.0,2,1777,
 250,Villa,Morbærvænget 11,3600, Frederikssund,1760000 ,24-05-2021,Alm. Salg,111,15856.0,3,1973,
 250,Villa,Vestervej 90,3600, Frederikssund,3650000 ,24-05-2021,Alm. Salg,244,14959.0,6,1967,4%
 250,Villa,Hindbærvænget 2,3630, Jægerspris,2995000 ,24-05-2021,Alm. Salg,136,22022.0,4,1979,
@@ -1037,7 +1033,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Villa,Rørsangervej 9,3600, Frederikssund,2085000 ,27-04-2021,Alm. Salg,103,20243.0,4,1963,
 250,Villa,Thyrasvej 48,3630, Jægerspris,2695000 ,27-04-2021,Alm. Salg,151,17848.0,5,1973,
 250,Villa,Kirkegade 24A,4050, Skibby,4050000 ,27-04-2021,Alm. Salg,283,14311.0,8,1905,
-250,Rækkehus,Stationsparken 10,3600, Frederikssund,2800000 ,26-04-2021,Alm. Salg,86,32558.0,3,1997,
 250,Villa,Sønderby Bro 24,4050, Skibby,1900000 ,26-04-2021,Alm. Salg,158,12025.0,6,1880,-5%
 250,Villa,Jordhøjvej 4,3550, Slangerup,3150000 ,26-04-2021,Alm. Salg,147,21429.0,6,1948,
 250,Villa,Meransletten 3,3630, Jægerspris,1753315 ,26-04-2021,Alm. Salg,168,10436.0,6,2019,
@@ -1263,7 +1258,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Villa,Gyldenstens Vænge 150,3600, Frederikssund,1475000 ,15-02-2021,Alm. Salg,172,8576.0,5,2016,
 250,Villa,Muldager 37,3600, Frederikssund,1453000 ,14-02-2021,Fam. Salg,157,9255.0,5,1972,
 250,Villa,Tollerupparken 5,3600, Frederikssund,2355000 ,14-02-2021,Alm. Salg,129,18256.0,4,1968,-2%
-250,Villa,Færgevej 24,3600, Frederikssund,7450000 ,14-02-2021,Alm. Salg,227,32819.0,7,1890,
 250,Villa,Møllevej 37,3630, Jægerspris,1450000 ,14-02-2021,Alm. Salg,135,10741.0,2,1928,-3%
 250,Villa,Fogedgårdsvej 26,4050, Skibby,1675000 ,14-02-2021,Alm. Salg,147,11395.0,5,1965,2%
 250,Rækkehus,Snorresvej 12,3600, Frederikssund,2180000 ,13-02-2021,Alm. Salg,111,19640.0,6,1971,
@@ -1624,9 +1618,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Rækkehus,Bakkekammen 158,3600, Frederikssund,3295000 ,22-09-2020,Alm. Salg,132,24962.0,4,2007,
 250,Ejerlejlighed,Gyldenstens Vænge 184,3600, Frederikssund,1462500 ,22-09-2020,Alm. Salg,60,24375.0,2,2008,5%
 250,Rækkehus,Stenøvej 16,3630, Jægerspris,2495000 ,21-09-2020,Alm. Salg,121,20620.0,4,2018,
-250,Rækkehus,Bakkehøjen 18,3600, Frederikssund,1900000 ,21-09-2020,Alm. Salg,89,21348.0,3,1999,-5%
 250,Rækkehus,Amsterdamhusene 58,3600, Frederikssund,1125000 ,21-09-2020,Fam. Salg,165,6818.0,5,2002,
-250,Villa,Frederiksværkvej 14,3600, Frederikssund,1900000 ,21-09-2020,Alm. Salg,135,14074.0,4,1959,-5%
 250,Rækkehus,Jernhøjvænge 3,4050, Skibby,2050000 ,20-09-2020,Alm. Salg,98,20918.0,3,2004,-5%
 250,Ejerlejlighed,Kongensgade 14D,3550, Slangerup,1600000 ,20-09-2020,Alm. Salg,82,19512.0,3,1902,-3%
 250,Villa,Vestergaardsvej 1,3630, Jægerspris,2025000 ,20-09-2020,Alm. Salg,207,9783.0,5,1969,-8%
@@ -1783,7 +1775,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Villa,Spurvevej 10,3550, Slangerup,1750000 ,21-07-2020,Alm. Salg,168,10417.0,5,2021,
 250,Rækkehus,Bakkekammen 31,3600, Frederikssund,2495000 ,20-07-2020,Alm. Salg,127,19646.0,5,2005,
 250,Ejerlejlighed,"Hovedgaden 15B, 1. tv",4050, Skibby,705000 ,20-07-2020,Alm. Salg,72,9792.0,3,1920,1%
-250,Villa,Søvej 7B,3600, Frederikssund,3495000 ,20-07-2020,Alm. Salg,107,32664.0,3,1935,
 250,Villa,Ahornvej 3,3630, Jægerspris,2045000 ,20-07-2020,Alm. Salg,210,9738.0,6,1962,
 250,Villa,Sikavej 48,4050, Skibby,2480000 ,19-07-2020,Alm. Salg,122,20328.0,4,2003,4%
 250,Villa,Svanemosevej 53A,3630, Jægerspris,1850000 ,17-07-2020,Alm. Salg,156,11859.0,5,2021,
@@ -1847,7 +1838,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Villa,Hillerødvej 12,3550, Slangerup,1900000 ,22-06-2020,Alm. Salg,109,17431.0,4,1961,4%
 250,Villa,Gyvelvej 12,3600, Frederikssund,1850000 ,22-06-2020,Alm. Salg,96,19271.0,3,1948,-1%
 250,Villa,Dyrlægegårds Alle 122,3600, Frederikssund,2595000 ,22-06-2020,Alm. Salg,114,22763.0,4,1977,
-250,Rækkehus,Hørup Skovvej 4,3550, Slangerup,6500000 ,21-06-2020,Alm. Salg,198,32828.0,6,1900,-7%
 250,Villa,Tværvej 12,4050, Skibby,1600000 ,21-06-2020,Alm. Salg,147,10884.0,5,1967,0%
 250,Villa,Sikavej 53,4050, Skibby,1775000 ,21-06-2020,Alm. Salg,158,11234.0,6,1979,-5%
 250,Villa,Lupinvej 15,3550, Slangerup,1131223 ,21-06-2020,Alm. Salg,169,6694.0,6,1972,
@@ -2690,7 +2680,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Rækkehus,Møllehaven 103,3550, Slangerup,1657500 ,06-05-2019,Fam. Salg,127,13051.0,4,2003,
 250,Villa,Magnoliavej 22,3630, Jægerspris,2250000 ,06-05-2019,Alm. Salg,147,15306.0,3,1973,
 250,Villa,Enghaven 49,3630, Jægerspris,1360000 ,06-05-2019,Alm. Salg,108,12593.0,5,1962,-3%
-250,Villa,Strandvej 8,3600, Frederikssund,3700000 ,05-05-2019,Alm. Salg,135,27407.0,5,1927,
 250,Villa,Dådyrvej 54,4050, Skibby,2510000 ,04-05-2019,Alm. Salg,143,17552.0,4,2007,-3%
 250,Villa,Benediktevej 4,3550, Slangerup,1650000 ,03-05-2019,Alm. Salg,128,12891.0,4,1971,
 250,Villa,Strandgårds Alle 100,3600, Frederikssund,3000000 ,02-05-2019,Alm. Salg,136,22059.0,4,1978,-12%
@@ -2980,7 +2969,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Villa,Ved Skellet 4,3630, Jægerspris,1995000 ,05-12-2018,Alm. Salg,169,11805.0,5,1967,
 250,Villa,Engbakken 10,4050, Skibby,2850000 ,05-12-2018,Alm. Salg,231,12338.0,7,1910,-5%
 250,Ejerlejlighed,Havnegade 20D,3600, Frederikssund,2090054 ,04-12-2018,Andet,162,12902.0,5,1880,
-250,Villa,Strandbakken 21,3600, Frederikssund,3935000 ,03-12-2018,Alm. Salg,120,32792.0,5,1998,-2%
 250,Villa,Byvangen 6,3550, Slangerup,2295000 ,02-12-2018,Alm. Salg,141,16277.0,5,1972,
 250,Villa,Mejerigårdsvej 14,3630, Jægerspris,2070000 ,02-12-2018,Alm. Salg,135,15333.0,5,1966,-1%
 250,Villa,Manderupvej 3,3550, Slangerup,2415000 ,29-11-2018,Alm. Salg,169,14290.0,4,1962,-2%
@@ -3280,11 +3268,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Villa,Frederiksborgvej 2,3550, Slangerup,3600000 ,23-07-2018,Alm. Salg,173,20809.0,7,1923,-3%
 250,Ejerlejlighed,Roskildevej 13A,3600, Frederikssund,1495000 ,22-07-2018,Alm. Salg,66,22652.0,3,1896,
 250,Villa,Tollerupparken 2,3600, Frederikssund,2425000 ,21-07-2018,Alm. Salg,164,14787.0,5,2020,
-250,Ejerlejlighed,Kocksvej 5C,3600, Frederikssund,2500000 ,19-07-2018,Alm. Salg,138,18116.0,3,1979,
 250,Villa,Fasanvej 16,3600, Frederikssund,5200000 ,19-07-2018,Alm. Salg,224,23214.0,8,1952,-5%
 250,Villa,Rugtoften 17,3630, Jægerspris,1575000 ,19-07-2018,Alm. Salg,96,16406.0,4,1968,-1%
 250,Villa,Kirkeåsen 3,3630, Jægerspris,1950000 ,19-07-2018,Alm. Salg,140,13929.0,4,1969,-2%
-250,Villa,Kocksvej 5A,3600, Frederikssund,2500000 ,19-07-2018,Alm. Salg,101,24752.0,3,1900,
 250,Villa,Irisvej 46,4050, Skibby,1875000 ,18-07-2018,Alm. Salg,160,11719.0,5,1973,-4%
 250,Villa,Anders Jensensvej 3,3550, Slangerup,1375000 ,16-07-2018,Alm. Salg,88,15625.0,3,1959,
 250,Villa,Bellisvej 1,4050, Skibby,750000 ,16-07-2018,Fam. Salg,132,5682.0,4,1973,
@@ -3655,8 +3641,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Villa,Engdraget 14,3600, Frederikssund,1865000 ,27-01-2018,Alm. Salg,107,17430.0,4,1961,-7%
 250,Villa,Anemonevej 7,4050, Skibby,800000 ,25-01-2018,Alm. Salg,159,5031.0,5,1976,
 250,Rækkehus,Jernhøjvænge 29,4050, Skibby,1800000 ,23-01-2018,Alm. Salg,98,18367.0,3,2003,
-250,Ejerlejlighed,"Ågade 1, 2. 219",3600, Frederikssund,1500000 ,23-01-2018,Alm. Salg,76,19737.0,3,1964,-6%
-250,Ejerlejlighed,"Færgevej 61, 1. tv",3600, Frederikssund,1500000 ,23-01-2018,Alm. Salg,127,11811.0,4,1956,
 250,Villa,Lerager 57,3600, Frederikssund,1675000 ,23-01-2018,Alm. Salg,87,19253.0,3,1969,-7%
 250,Rækkehus,Primulavej 4,3600, Frederikssund,1875000 ,22-01-2018,Alm. Salg,92,20380.0,4,1965,-4%
 250,Villa,Fuglebakken 1,3630, Jægerspris,1500000 ,22-01-2018,Alm. Salg,150,10000.0,5,2020,-12%
@@ -3819,12 +3803,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Villa,Nørrevej 4,3600, Frederikssund,4995000 ,21-10-2017,Alm. Salg,182,27445.0,5,1974,
 250,Rækkehus,Fogedgårdsvej 31,4050, Skibby,1795000 ,19-10-2017,Alm. Salg,92,19511.0,3,2018,
 250,Villa,Elmevej 2,3600, Frederikssund,600000 ,19-10-2017,Fam. Salg,236,2542.0,6,1940,
-250,Rækkehus,Møllehaven 9,3550, Slangerup,1880000 ,18-10-2017,Alm. Salg,127,14803.0,4,2004,-24%
 250,Rækkehus,Mølleengen 105,3550, Slangerup,2385000 ,18-10-2017,Alm. Salg,112,21295.0,3,2001,-1%
 250,Ejerlejlighed,"Hovedgaden 40B, 1",3630, Jægerspris,1185000 ,18-10-2017,Alm. Salg,78,15192.0,2,2005,-7%
 250,Ejerlejlighed,"Færgeparken 11, 2. tv",3600, Frederikssund,1365000 ,18-10-2017,Alm. Salg,67,20373.0,2,1987,-6%
 250,Villa,Søhøj 7,4050, Skibby,1070777 ,18-10-2017,Alm. Salg,118,9074.0,4,1989,
-250,Villa,Møllehaven 79,3550, Slangerup,1880000 ,18-10-2017,Alm. Salg,82,22927.0,3,2004,-1%
 250,Villa,Violvej 6,4050, Skibby,1525000 ,18-10-2017,Alm. Salg,135,11296.0,4,1973,-1%
 250,Villa,Strandvænget 16,3600, Frederikssund,1550000 ,17-10-2017,Alm. Salg,123,12602.0,3,1963,-9%
 250,Rækkehus,Søhøj 13,4050, Skibby,1675000 ,16-10-2017,Alm. Salg,88,19034.0,3,2007,
@@ -4630,9 +4612,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Villa,Møllebakken 5,3600, Frederikssund,1485000 ,23-08-2016,Alm. Salg,112,13259.0,4,1965,
 250,Villa,Dyrlægegårds Alle 24,3600, Frederikssund,2645000 ,23-08-2016,Alm. Salg,149,17752.0,7,1977,
 250,Villa,Snogekær 15S,3630, Jægerspris,590000 ,22-08-2016,Alm. Salg,152,3882.0,6,2019,
-250,Ejerlejlighed,Ørnholmvej 6B,3550, Slangerup,3900000 ,21-08-2016,Alm. Salg,170,14029.0,6,1940,-2%
 250,Villa,Hestefolden 4,3630, Jægerspris,2375000 ,21-08-2016,Alm. Salg,112,21205.0,4,2001,1%
-250,Villa,Ørnholmvej 6A,3550, Slangerup,3900000 ,21-08-2016,Alm. Salg,213,18310.0,6,1900,-2%
 250,Villa,Ingridvej 17,3550, Slangerup,2350000 ,20-08-2016,Alm. Salg,219,10731.0,7,1978,-6%
 250,Villa,Parkvej 27,3550, Slangerup,1935000 ,16-08-2016,Alm. Salg,115,16826.0,4,1966,
 250,Villa,Frejasvej 137,3600, Frederikssund,1695000 ,16-08-2016,Alm. Salg,112,15134.0,4,1974,
@@ -4863,7 +4843,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Villa,Svinget 21,4050, Skibby,1685000 ,25-04-2016,Alm. Salg,129,13062.0,5,1988,
 250,Rækkehus,Bakkekammen 138,3600, Frederikssund,2600000 ,24-04-2016,Alm. Salg,132,19697.0,4,2006,-3%
 250,Rækkehus,Gyldenstens Vænge 59,3600, Frederikssund,2345000 ,24-04-2016,Alm. Salg,130,18038.0,4,2008,
-250,Villa,Havnegade 6B,3600, Frederikssund,3000000 ,24-04-2016,Alm. Salg,166,18072.0,4,1540,
 250,Ejerlejlighed,"Lundevej 18C, st",3600, Frederikssund,1325000 ,23-04-2016,Alm. Salg,92,14402.0,4,1847,-5%
 250,Villa,Bakkekammen 125,3600, Frederikssund,3700000 ,23-04-2016,Alm. Salg,154,24026.0,5,2004,-3%
 250,Villa,Færgevej 82,3600, Frederikssund,2250000 ,20-04-2016,Alm. Salg,133,16917.0,3,1920,-5%
@@ -5115,13 +5094,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Villa,Bakkevænget 41,3600, Frederikssund,2225000 ,24-11-2015,Alm. Salg,209,10646.0,7,1976,
 250,Rækkehus,Møllehaven 23,3550, Slangerup,2250000 ,23-11-2015,Alm. Salg,127,17717.0,4,2003,-5%
 250,Ejerlejlighed,"Ådalsvej 60, st. tv",3600, Frederikssund,1160000 ,23-11-2015,Alm. Salg,82,14146.0,3,1964,
-250,Ejerlejlighed,Hovedgaden 70C,4050, Skibby,2129000 ,23-11-2015,Auktion,67,31776.0,3,0,
-250,Ejerlejlighed,Hovedgaden 70H,4050, Skibby,2129000 ,23-11-2015,Auktion,67,31776.0,3,0,
-250,Ejerlejlighed,"Skolevej 1, st",4050, Skibby,2129000 ,23-11-2015,Auktion,72,29569.0,3,1957,
-250,Ejerlejlighed,Hovedgaden 70F,4050, Skibby,2129000 ,23-11-2015,Auktion,67,31776.0,3,0,
-250,Ejerlejlighed,Hovedgaden 70E,4050, Skibby,2129000 ,23-11-2015,Auktion,67,31776.0,3,0,
-250,Ejerlejlighed,Hovedgaden 70G,4050, Skibby,2129000 ,23-11-2015,Auktion,65,32754.0,3,0,
-250,Ejerlejlighed,Hovedgaden 70D,4050, Skibby,2129000 ,23-11-2015,Auktion,65,32754.0,3,0,
 250,Villa,Grønnevej 7,4050, Skibby,695500 ,23-11-2015,Auktion,126,5520.0,4,1958,
 250,Villa,Klintevej 7,3600, Frederikssund,925000 ,23-11-2015,Andet,115,8043.0,4,1959,-53%
 250,Villa,Skolevej 3,4050, Skibby,1050000 ,23-11-2015,Auktion,152,6908.0,5,1900,
@@ -5466,8 +5438,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Villa,Gyldenstens Vænge 71,3600, Frederikssund,3450000 ,31-05-2015,Fam. Salg,162,21296.0,6,2008,
 250,Villa,Morbærvænget 21,3600, Frederikssund,1500000 ,30-05-2015,Alm. Salg,120,12500.0,4,1972,-3%
 250,Rækkehus,Jernhøjvænge 19,4050, Skibby,1480000 ,28-05-2015,Alm. Salg,98,15102.0,3,2003,-1%
-250,Ejerlejlighed,"Ågade 1, 2. 209",3600, Frederikssund,1095000 ,28-05-2015,Alm. Salg,62,17661.0,2,1964,-4%
-250,Ejerlejlighed,"Færgeparken 13, st. tv",3600, Frederikssund,1095000 ,28-05-2015,Alm. Salg,67,16343.0,2,1987,
 250,Villa,Kirkegade 38,4050, Skibby,1010000 ,28-05-2015,Alm. Salg,128,7891.0,4,1961,2%
 250,Villa,Kingovej 11,3550, Slangerup,1050000 ,28-05-2015,Andet,98,10714.0,4,1959,
 250,Rækkehus,Vangedevej 1,3600, Frederikssund,1495000 ,27-05-2015,Alm. Salg,72,20764.0,3,1957,
@@ -5592,10 +5562,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Rækkehus,Frejasvej 171,3600, Frederikssund,1900000 ,04-04-2015,Alm. Salg,149,12752.0,5,1971,
 250,Ejerlejlighed,"Roskildevej 3B, st. tv",3600, Frederikssund,600000 ,02-04-2015,Alm. Salg,49,12245.0,2,1900,-14%
 250,Villa,Dyrlægegårds Alle 90,3600, Frederikssund,2130000 ,02-04-2015,Alm. Salg,148,14392.0,5,1977,-3%
-250,Rækkehus,Færgevej 7E,3600, Frederikssund,1850000 ,01-04-2015,Alm. Salg,74,25000.0,3,2016,
 250,Rækkehus,Færgevej 7B,3600, Frederikssund,1995000 ,01-04-2015,Alm. Salg,100,19950.0,3,1827,
 250,Villa,Grønnevej 4,3600, Frederikssund,1275000 ,01-04-2015,Alm. Salg,79,16139.0,3,1958,
-250,Villa,Frejasvej 55,3600, Frederikssund,1850000 ,01-04-2015,Alm. Salg,112,16518.0,4,1975,-2%
 250,Villa,Bakkevej 4,3600, Frederikssund,2400000 ,31-03-2015,Alm. Salg,236,10169.0,7,1907,-9%
 250,Villa,Englodden 12,3600, Frederikssund,1900000 ,31-03-2015,Alm. Salg,113,16814.0,3,1976,-4%
 250,Villa,Strandgårds Alle 86,3600, Frederikssund,2500000 ,31-03-2015,Alm. Salg,156,16026.0,6,1979,-4%
@@ -5724,7 +5692,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Ejerlejlighed,"Færgeparken 14, 1. tv",3600, Frederikssund,1095000 ,20-01-2015,Alm. Salg,67,16343.0,2,1987,
 250,Villa,Solvej 5,3600, Frederikssund,1795000 ,20-01-2015,Alm. Salg,118,15212.0,4,1934,
 250,Rækkehus,Snogekær 44R,3630, Jægerspris,310500 ,19-01-2015,Alm. Salg,103,3015.0,2,2015,
-250,Rækkehus,Snogekær 44A,3630, Jægerspris,3929500 ,19-01-2015,Alm. Salg,120,32746.0,3,2015,
 250,Rækkehus,Linderupvej 33,3600, Frederikssund,1227557 ,19-01-2015,Fam. Salg,142,8645.0,4,1970,
 250,Ejerlejlighed,"Bøgealle 22, st. th",3600, Frederikssund,925000 ,19-01-2015,Alm. Salg,64,14453.0,2,1964,3%
 250,Villa,Meransletten 13,3630, Jægerspris,1300000 ,19-01-2015,Alm. Salg,236,5508.0,7,2016,
@@ -6079,7 +6046,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Villa,Åbrinken 4,3550, Slangerup,1695000 ,25-05-2014,Alm. Salg,168,10089.0,8,1967,
 250,Villa,Græse Bygade 31,3600, Frederikssund,3100000 ,21-05-2014,Alm. Salg,185,16757.0,6,1933,
 250,Villa,Lupinvej 2,4050, Skibby,793500 ,21-05-2014,Auktion,118,6725.0,4,1973,
-250,Villa,Bavnen 9A,4050, Skibby,675000 ,21-05-2014,Auktion,118,5720.0,4,1920,
 250,Villa,Tulipanvej 6,3600, Frederikssund,1750000 ,21-05-2014,Alm. Salg,121,14463.0,4,1974,-5%
 250,Rækkehus,Kongshøj Alle 17,3550, Slangerup,780800 ,19-05-2014,Alm. Salg,106,7366.0,4,1988,
 250,Villa,Højdevej 3,3600, Frederikssund,900000 ,19-05-2014,Alm. Salg,101,8911.0,4,1952,
@@ -6375,9 +6341,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Villa,Græsevej 6,3600, Frederikssund,2850000 ,17-09-2013,Alm. Salg,256,11133.0,7,1915,-5%
 250,Villa,Marbæk Alle 46,3600, Frederikssund,1900000 ,16-09-2013,Alm. Salg,141,13475.0,6,1978,-9%
 250,Villa,Lindegaardsvej 9,3630, Jægerspris,1150000 ,16-09-2013,Alm. Salg,88,8846.0,4,1958,-18%
-250,Ejerlejlighed,Kocksvej 5C,3600, Frederikssund,1775000 ,15-09-2013,Alm. Salg,138,12862.0,3,1979,
 250,Villa,Håndværkervangen 21,3550, Slangerup,2900000 ,15-09-2013,Alm. Salg,181,16022.0,6,1999,-15%
-250,Villa,Kocksvej 5A,3600, Frederikssund,1775000 ,15-09-2013,Alm. Salg,101,17574.0,3,1900,
 250,Villa,Ådalsvej 50,3600, Frederikssund,1750000 ,12-09-2013,Alm. Salg,133,13158.0,5,1963,-9%
 250,Villa,Birkemosevej 11A,3550, Slangerup,1500000 ,11-09-2013,Alm. Salg,116,12931.0,3,1962,-3%
 250,Villa,Poppelvej 4,3600, Frederikssund,1343394 ,11-09-2013,Alm. Salg,218,6162.0,7,1962,
@@ -6581,7 +6545,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Rækkehus,Mølleengen 61,3550, Slangerup,1800000 ,08-04-2013,Alm. Salg,98,18367.0,3,2000,-5%
 250,Villa,Indelukket 3,3600, Frederikssund,1698000 ,08-04-2013,Alm. Salg,130,13062.0,4,1968,
 250,Rækkehus,Frederiksborgvej 9B,3550, Slangerup,3000105 ,07-04-2013,Alm. Salg,120,25001.0,4,1877,
-250,Ejerlejlighed,"Sydkajen 8, 1. th",3600, Frederikssund,3550000 ,07-04-2013,Alm. Salg,109,32569.0,3,2005,-4%
 250,Villa,Byvej 18,3600, Frederikssund,900000 ,07-04-2013,Alm. Salg,111,8108.0,4,1952,-10%
 250,Villa,Åskrænten 5,3600, Frederikssund,2165000 ,07-04-2013,Alm. Salg,108,20046.0,3,1998,-4%
 250,Villa,Dyrlægegårds Alle 77,3600, Frederikssund,2200000 ,07-04-2013,Fam. Salg,136,16176.0,6,1977,
@@ -7184,7 +7147,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Villa,Ådalsvej 59,3600, Frederikssund,2000000 ,05-11-2011,Alm. Salg,125,16000.0,4,1964,-13%
 250,Villa,Rønnebærvej 3,3600, Frederikssund,850000 ,01-11-2011,Auktion,124,6855.0,4,1945,
 250,Rækkehus,Søhøj 21,4050, Skibby,1480000 ,31-10-2011,Fam. Salg,88,16818.0,3,2007,
-250,Villa,"Poppelvej 28A, 1",3630, Jægerspris,492359 ,31-10-2011,Alm. Salg,74,6654.0,2,1777,
 250,Villa,Gyvelvej 2,3600, Frederikssund,1395000 ,31-10-2011,Alm. Salg,175,7971.0,6,2016,
 250,Villa,Vangedevej 48,3600, Frederikssund,2380000 ,30-10-2011,Alm. Salg,175,13600.0,5,1966,-6%
 250,Villa,Hillerødvej 1A,3550, Slangerup,475000 ,26-10-2011,Auktion,170,2794.0,6,2014,
@@ -7697,8 +7659,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Villa,Gyldenstens Vænge 84,3600, Frederikssund,895000 ,25-08-2010,Alm. Salg,169,5296.0,7,2011,
 250,Villa,Gyldenstens Vænge 80,3600, Frederikssund,995000 ,25-08-2010,Alm. Salg,163,6104.0,5,2011,
 250,Rækkehus,Byhøjen 166,3600, Frederikssund,1650000 ,24-08-2010,Alm. Salg,91,18132.0,3,2001,-5%
-250,Rækkehus,Byhøjen 137,3600, Frederikssund,2100000 ,23-08-2010,Alm. Salg,106,19811.0,4,2003,-1%
-250,Villa,Søvej 4,3600, Frederikssund,2100000 ,23-08-2010,Alm. Salg,152,13816.0,4,1933,-8%
 250,Villa,Tollerupparken 12,3600, Frederikssund,2400000 ,23-08-2010,Alm. Salg,145,16552.0,5,1971,-4%
 250,Villa,Rugvænget 7,3600, Frederikssund,1725000 ,22-08-2010,Alm. Salg,105,16429.0,4,1960,-7%
 250,Villa,Damgårdsvej 22,4050, Skibby,1325000 ,22-08-2010,Alm. Salg,106,12500.0,4,1968,-5%
@@ -7885,10 +7845,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Rækkehus,Rosenhaven 13,4050, Skibby,600000 ,16-04-2010,Alm. Salg,123,4878.0,5,1980,-64%
 250,Ejerlejlighed,"Ådalsvej 54, st. tv",3600, Frederikssund,657709 ,15-04-2010,Auktion,82,8021.0,3,1964,
 250,Ejerlejlighed,"Ådalsvej 54, 1. th",3600, Frederikssund,731966 ,15-04-2010,Auktion,90,8133.0,4,1964,
-250,Ejerlejlighed,"Ådalsvej 58, st. tv",3600, Frederikssund,625884 ,15-04-2010,Auktion,82,7633.0,3,1964,
-250,Ejerlejlighed,"Bøgealle 20, st. tv",3600, Frederikssund,625884 ,15-04-2010,Auktion,82,7633.0,3,1964,
 250,Ejerlejlighed,"Bøgealle 22, 1. tv",3600, Frederikssund,572843 ,15-04-2010,Auktion,75,7638.0,3,1964,
-250,Ejerlejlighed,"Bøgealle 26, st. tv",3600, Frederikssund,625884 ,15-04-2010,Auktion,82,7633.0,3,1964,
 250,Villa,Parkvej 27,3550, Slangerup,841000 ,15-04-2010,Andet,115,7313.0,4,1966,
 250,Villa,Skuldelevvej 11,4050, Skibby,1775000 ,15-04-2010,Alm. Salg,122,14549.0,6,1996,-11%
 250,Villa,Mølledammen 38,3550, Slangerup,542600 ,15-04-2010,Fam. Salg,122,4448.0,4,2002,
@@ -8336,7 +8293,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Villa,Gulspurvevej 21,3600, Frederikssund,1750000 ,18-03-2009,Alm. Salg,120,14583.0,4,1969,-12%
 250,Rækkehus,Fjordskrænten 20,3600, Frederikssund,900000 ,17-03-2009,Andet,93,9677.0,3,1986,
 250,Villa,Kyndbyvej 37,3630, Jægerspris,1300000 ,17-03-2009,Alm. Salg,136,9559.0,3,1976,-17%
-250,Villa,"Poppelvej 28A, 1",3630, Jægerspris,380000 ,16-03-2009,Auktion,74,5135.0,2,1777,
 250,Villa,Skoleparken 56,3600, Frederikssund,2150000 ,16-03-2009,Alm. Salg,143,15035.0,6,1967,-14%
 250,Rækkehus,Bystrædet 3E,4050, Skibby,1411000 ,15-03-2009,Alm. Salg,93,15172.0,3,1990,-9%
 250,Rækkehus,Birkemosevej 5Y,3550, Slangerup,2050000 ,15-03-2009,Alm. Salg,112,18304.0,5,2006,-10%
@@ -8347,8 +8303,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Rækkehus,Snogekær 44R,3630, Jægerspris,125000 ,09-03-2009,Auktion,103,1214.0,2,2015,
 250,Rækkehus,Snogekær 44P,3630, Jægerspris,111000 ,09-03-2009,Auktion,120,925.0,3,2015,
 250,Rækkehus,Snogekær 44N,3630, Jægerspris,106000 ,09-03-2009,Auktion,120,883.0,3,2015,
-250,Ejerlejlighed,"Roskildevej 31, st. tv",3600, Frederikssund,1000000 ,08-03-2009,Alm. Salg,96,10417.0,4,1925,
-250,Ejerlejlighed,Fredensgade 13,3600, Frederikssund,1000000 ,08-03-2009,Alm. Salg,71,14085.0,2,1998,
 250,Villa,Vinkelvej 11,3600, Frederikssund,1190000 ,08-03-2009,Fam. Salg,182,6538.0,6,1971,
 250,Villa,Ventevej 50,3600, Frederikssund,2450000 ,07-03-2009,Alm. Salg,186,13172.0,5,1930,-12%
 250,Villa,Drosselvej 3,3550, Slangerup,950000 ,04-03-2009,Andet,124,7661.0,5,1972,
@@ -8768,8 +8722,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Villa,Sikavej 48,4050, Skibby,2595000 ,29-02-2008,Alm. Salg,122,21270.0,4,2003,
 250,Rækkehus,Mølleengen 57,3550, Slangerup,2500000 ,27-02-2008,Alm. Salg,112,22321.0,4,2000,-7%
 250,Rækkehus,Bakkekammen 96,3600, Frederikssund,2345000 ,27-02-2008,Alm. Salg,114,20570.0,3,2007,
-250,Ejerlejlighed,"Ådalsvej 62, 1. th",3600, Frederikssund,1500000 ,27-02-2008,Alm. Salg,90,16667.0,4,1964,-9%
-250,Villa,Roskildevej 176,3600, Frederikssund,1500000 ,27-02-2008,Alm. Salg,190,7895.0,5,1877,-20%
 250,Villa,Vølundsvej 5A,3600, Frederikssund,3600000 ,27-02-2008,Alm. Salg,125,28800.0,4,1973,
 250,Rækkehus,Søhøj 20,4050, Skibby,1695000 ,26-02-2008,Alm. Salg,88,19261.0,3,2008,
 250,Rækkehus,Bakkekammen 73,3600, Frederikssund,1650000 ,24-02-2008,Fam. Salg,127,12992.0,5,2005,
@@ -8904,10 +8856,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Villa,Skibbyvej 11,4050, Skibby,1500000 ,19-11-2007,Auktion,111,13514.0,3,1827,-24%
 250,Villa,J. F. Willumsens Vej 38,3600, Frederikssund,2005500 ,18-11-2007,Andet,276,7266.0,10,1910,
 250,Villa,Beckersvej 5,3630, Jægerspris,2375000 ,18-11-2007,Alm. Salg,149,15940.0,6,1958,
-250,Rækkehus,Frederiksborgvej 30,3600, Frederikssund,2195000 ,15-11-2007,Alm. Salg,90,24389.0,3,1961,
 250,Rækkehus,Rollosvej 3,3600, Frederikssund,2525000 ,15-11-2007,Alm. Salg,150,16833.0,5,1971,
 250,Rækkehus,Bakkegården 18,3630, Jægerspris,1995000 ,15-11-2007,Alm. Salg,108,18472.0,3,2000,
-250,Ejerlejlighed,Lodshaven 4,3600, Frederikssund,2195000 ,15-11-2007,Alm. Salg,91,24121.0,3,1999,
 250,Villa,Syrenvej 11,3600, Frederikssund,900000 ,15-11-2007,Fam. Salg,127,7087.0,4,1961,
 250,Villa,Søndervej 6,4050, Skibby,3107500 ,14-11-2007,Alm. Salg,157,19793.0,6,1922,-5%
 250,Villa,Svinget 13,4050, Skibby,2225000 ,13-11-2007,Fam. Salg,117,19017.0,4,1968,
@@ -9344,7 +9294,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Rækkehus,Kongshøjparken 117,3550, Slangerup,1785000 ,04-03-2007,Fam. Salg,124,14395.0,4,1973,
 250,Villa,Slåenbjerghuse 19,3600, Frederikssund,978210 ,04-03-2007,Fam. Salg,189,5176.0,4,2006,
 250,Rækkehus,Englystvej 44,3600, Frederikssund,3150000 ,28-02-2007,Alm. Salg,189,16667.0,5,1969,
-250,Rækkehus,Bakkekammen 115,3600, Frederikssund,2545000 ,28-02-2007,Alm. Salg,78,32628.0,3,2005,-2%
 250,Villa,Bakkevej 6,3550, Slangerup,3075000 ,28-02-2007,Alm. Salg,126,24405.0,4,1965,
 250,Villa,Gadekærsvej 2,4050, Skibby,2420000 ,27-02-2007,Alm. Salg,175,13829.0,8,1877,-3%
 250,Villa,Østergade 19,4050, Skibby,1158000 ,26-02-2007,Fam. Salg,80,14475.0,2,1877,
@@ -9793,9 +9742,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Villa,Gyldenstens Vænge 73,3600, Frederikssund,3993731 ,04-06-2006,Alm. Salg,157,25438.0,5,2007,
 250,Rækkehus,Hovmandsvej 2,3550, Slangerup,1950000 ,03-06-2006,Alm. Salg,85,22941.0,4,1986,
 250,Villa,Primulavej 7,3600, Frederikssund,2595000 ,02-06-2006,Alm. Salg,103,25194.0,4,1964,
-250,Rækkehus,Søhøj 23,4050, Skibby,1850000 ,01-06-2006,Alm. Salg,88,21023.0,3,2007,
 250,Villa,Vibevej 4,3600, Frederikssund,3000000 ,01-06-2006,Alm. Salg,194,15464.0,6,1950,
-250,Villa,Vigvejen 6,4050, Skibby,1850000 ,01-06-2006,Alm. Salg,130,14231.0,4,1850,
 250,Rækkehus,Bakkehøjen 6,3600, Frederikssund,2500000 ,31-05-2006,Alm. Salg,119,21008.0,5,1999,
 250,Ejerlejlighed,"Bøgealle 26, 1. tv",3600, Frederikssund,960000 ,31-05-2006,Fam. Salg,75,12800.0,3,1964,
 250,Villa,Vibevej 10,3550, Slangerup,1372500 ,30-05-2006,Andet,146,8798.0,6,1965,
@@ -10085,9 +10032,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Villa,Drosselvej 1,3600, Frederikssund,2250000 ,12-01-2006,Alm. Salg,98,22959.0,4,1967,
 250,Villa,Dyrlægegårds Alle 101,3600, Frederikssund,3495000 ,12-01-2006,Alm. Salg,136,25699.0,4,1978,
 250,Rækkehus,Snerlevej 2,3600, Frederikssund,2305000 ,11-01-2006,Alm. Salg,121,19050.0,4,1975,
-250,Ejerlejlighed,Ørnholmvej 6B,3550, Slangerup,3975000 ,10-01-2006,Alm. Salg,170,14299.0,6,1940,
 250,Villa,Fogedgårdsvej 10,4050, Skibby,1695000 ,10-01-2006,Alm. Salg,130,13038.0,4,1965,
-250,Villa,Ørnholmvej 6A,3550, Slangerup,3975000 ,10-01-2006,Alm. Salg,213,18662.0,6,1900,
 250,Villa,Skoleparken 4,3600, Frederikssund,2000000 ,09-01-2006,Fam. Salg,118,16949.0,5,1969,
 250,Villa,Hovedgaden 144A,3630, Jægerspris,4500000 ,09-01-2006,Alm. Salg,173,26012.0,5,2005,
 250,Villa,Skrænten 10,3550, Slangerup,1050000 ,08-01-2006,Andet,135,6325.0,5,1966,
@@ -10565,11 +10510,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Villa,Marbækvej 15A,4050, Skibby,3650000 ,10-07-2005,Alm. Salg,502,7271.0,9,1970,
 250,Villa,Snogekær 16,3630, Jægerspris,775000 ,10-07-2005,Alm. Salg,176,4403.0,6,2006,
 250,Villa,Strandbakken 22,3600, Frederikssund,3185000 ,09-07-2005,Alm. Salg,159,20031.0,5,1998,
-250,Ejerlejlighed,"Ådalsvej 54, st. tv",3600, Frederikssund,908612 ,07-07-2005,Alm. Salg,82,11081.0,3,1964,
-250,Ejerlejlighed,"Ådalsvej 58, st. tv",3600, Frederikssund,908612 ,07-07-2005,Alm. Salg,82,11081.0,3,1964,
-250,Ejerlejlighed,"Bøgealle 20, st. tv",3600, Frederikssund,908612 ,07-07-2005,Alm. Salg,82,11081.0,3,1964,
 250,Ejerlejlighed,"Bøgealle 22, 1. tv",3600, Frederikssund,824924 ,07-07-2005,Alm. Salg,75,10999.0,3,1964,
-250,Ejerlejlighed,"Bøgealle 26, st. tv",3600, Frederikssund,908612 ,07-07-2005,Alm. Salg,82,11081.0,3,1964,
 250,Villa,Lerager 44,3600, Frederikssund,2435000 ,07-07-2005,Alm. Salg,133,18308.0,5,1969,
 250,Rækkehus,Bakkekammen 69,3600, Frederikssund,1790000 ,05-07-2005,Alm. Salg,130,13769.0,4,2005,
 250,Rækkehus,Bakkekammen 79,3600, Frederikssund,2100000 ,05-07-2005,Alm. Salg,130,16154.0,3,2005,
@@ -10596,7 +10537,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Villa,Bjergvejen 15B,3600, Frederikssund,855777 ,29-06-2005,Alm. Salg,140,6113.0,4,2006,
 250,Rækkehus,Bavnen 9E,4050, Skibby,950000 ,28-06-2005,Alm. Salg,63,15079.0,2,1989,
 250,Ejerlejlighed,Fredensgade 33,3600, Frederikssund,2350000 ,28-06-2005,Alm. Salg,147,15986.0,4,1998,
-250,Villa,Dalvejen 2,3600, Frederikssund,1775000 ,28-06-2005,Alm. Salg,132,13447.0,4,1975,
 250,Villa,Ved Skellet 7,3630, Jægerspris,1450000 ,28-06-2005,Alm. Salg,104,13942.0,4,1965,
 250,Villa,Hybenvej 3,3600, Frederikssund,1725000 ,28-06-2005,Alm. Salg,127,13583.0,6,1961,
 250,Villa,Nakkedamsvej 96,4050, Skibby,1100000 ,28-06-2005,Alm. Salg,120,9167.0,4,1880,
@@ -11197,7 +11137,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Villa,Parkalle 8,3600, Frederikssund,1750000 ,11-10-2004,Alm. Salg,102,17157.0,3,1962,
 250,Villa,Gammel Dalbyvej 4A,3630, Jægerspris,1585000 ,11-10-2004,Alm. Salg,160,9906.0,6,1920,
 250,Villa,Røriksvej 4,3600, Frederikssund,1735000 ,10-10-2004,Alm. Salg,126,13770.0,5,1965,
-250,Villa,Ågårdsstræde 8,3550, Slangerup,49000 ,10-10-2004,Fam. Salg,106,462.0,5,1967,
 250,Villa,Sct Nilsvej 10,3550, Slangerup,2250000 ,10-10-2004,Alm. Salg,206,10922.0,7,1979,
 250,Rækkehus,Kignæshaven 11,3630, Jægerspris,1630000 ,09-10-2004,Alm. Salg,99,16465.0,4,1988,
 250,Rækkehus,Gammel Færgegårdsvej 1,3630, Jægerspris,1840000 ,09-10-2004,Alm. Salg,179,10279.0,5,1990,
@@ -11544,10 +11483,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Villa,Nordmandsvej 5,4050, Skibby,1490000 ,15-04-2004,Alm. Salg,181,8232.0,6,1966,
 250,Ejerlejlighed,"Ådalsvej 54, st. tv",3600, Frederikssund,517000 ,14-04-2004,Alm. Salg,82,6305.0,3,1964,
 250,Ejerlejlighed,"Ådalsvej 54, 1. th",3600, Frederikssund,583000 ,14-04-2004,Alm. Salg,90,6478.0,4,1964,
-250,Ejerlejlighed,"Ådalsvej 58, st. tv",3600, Frederikssund,506000 ,14-04-2004,Alm. Salg,82,6171.0,3,1964,
-250,Ejerlejlighed,"Bøgealle 20, st. tv",3600, Frederikssund,506000 ,14-04-2004,Alm. Salg,82,6171.0,3,1964,
 250,Ejerlejlighed,"Bøgealle 22, 1. tv",3600, Frederikssund,473000 ,14-04-2004,Alm. Salg,75,6307.0,3,1964,
-250,Ejerlejlighed,"Bøgealle 26, st. tv",3600, Frederikssund,506000 ,14-04-2004,Alm. Salg,82,6171.0,3,1964,
 250,Villa,Lyøvej 13,3550, Slangerup,1825000 ,14-04-2004,Alm. Salg,140,13036.0,6,1972,
 250,Villa,Vestervej 14,4050, Skibby,1120000 ,14-04-2004,Alm. Salg,85,13176.0,2,1900,
 250,Ejerlejlighed,"Stationsvej 10, st. th",4050, Skibby,765000 ,13-04-2004,Alm. Salg,54,14167.0,2,1936,
@@ -11892,7 +11828,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Villa,Månevej 19,3550, Slangerup,1300000 ,04-11-2003,Alm. Salg,170,7647.0,5,1800,
 250,Rækkehus,Grønnevej 18,4050, Skibby,1269477 ,03-11-2003,Alm. Salg,105,12090.0,4,1971,
 250,Villa,Hjortevænget 1,4050, Skibby,500000 ,02-11-2003,Alm. Salg,161,3106.0,5,2005,
-250,Villa,Møllevej 8A,3630, Jægerspris,1200000 ,02-11-2003,Alm. Salg,216,5556.0,9,1907,
 250,Rækkehus,Rollosvej 24,3600, Frederikssund,1500000 ,31-10-2003,Alm. Salg,126,11905.0,4,1971,
 250,Rækkehus,Mariendalsvej 1B,3600, Frederikssund,1450000 ,30-10-2003,Alm. Salg,103,14078.0,4,1928,
 250,Villa,Bystrædet 7,4050, Skibby,70000 ,30-10-2003,Alm. Salg,40,1750.0,2,1900,
@@ -12213,10 +12148,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Villa,Dyrlægegårds Alle 43,3600, Frederikssund,1850000 ,15-06-2003,Alm. Salg,132,14015.0,4,1978,
 250,Villa,Hovedgaden 18,4050, Skibby,558000 ,15-06-2003,Alm. Salg,105,5314.0,4,1939,
 250,Ejerlejlighed,"Sydkajen 18, 1. tv",3600, Frederikssund,2245251 ,14-06-2003,Alm. Salg,113,19869.0,3,2004,
-250,Ejerlejlighed,Ørnholmvej 6B,3550, Slangerup,3100000 ,14-06-2003,Alm. Salg,170,11151.0,6,1940,
 250,Villa,Klinten 10,3600, Frederikssund,1700000 ,14-06-2003,Alm. Salg,146,11644.0,6,1965,
 250,Villa,Vigvejen 2,4050, Skibby,350000 ,14-06-2003,Alm. Salg,70,5000.0,2,1862,
-250,Villa,Ørnholmvej 6A,3550, Slangerup,3100000 ,14-06-2003,Alm. Salg,213,14554.0,6,1900,
 250,Rækkehus,Fjordparken 18,3600, Frederikssund,1065000 ,12-06-2003,Alm. Salg,70,15214.0,3,1982,
 250,Rækkehus,Højdevej 12A,3600, Frederikssund,935000 ,12-06-2003,Fam. Salg,99,9444.0,4,1919,
 250,Rækkehus,Sydkajen 85,3600, Frederikssund,2009736 ,11-06-2003,Alm. Salg,114,17629.0,4,2004,
@@ -12239,14 +12172,12 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Villa,Marbækvej 11,3600, Frederikssund,1995000 ,03-06-2003,Alm. Salg,184,10842.0,4,1928,
 250,Ejerlejlighed,"Kocksvej 13, st. 3",3600, Frederikssund,850000 ,02-06-2003,Alm. Salg,52,16346.0,2,1971,
 250,Villa,Landerslevvej 132,3630, Jægerspris,795000 ,02-06-2003,Alm. Salg,51,15588.0,2,1954,
-250,Rækkehus,Byhøjen 115,3600, Frederikssund,1495000 ,01-06-2003,Alm. Salg,106,14104.0,3,2004,
 250,Villa,Hans Atkesvej 12,3550, Slangerup,1250000 ,01-06-2003,Alm. Salg,134,9328.0,4,1965,
 250,Villa,Enghøj 6,3550, Slangerup,1975000 ,01-06-2003,Alm. Salg,168,11756.0,5,1972,
 250,Villa,Frihedsvej 4,3630, Jægerspris,1120000 ,01-06-2003,Alm. Salg,136,8235.0,5,1979,
 250,Villa,Møllehaven 52,3550, Slangerup,1990000 ,01-06-2003,Alm. Salg,172,11570.0,7,1999,
 250,Villa,Granvej 2,4050, Skibby,1462000 ,01-06-2003,Alm. Salg,133,10992.0,5,1972,
 250,Villa,Sct Nilsvej 10,3550, Slangerup,1956847 ,01-06-2003,Alm. Salg,206,9499.0,7,1979,
-250,Villa,Roarsvej 4,3600, Frederikssund,1495000 ,01-06-2003,Alm. Salg,142,10528.0,6,1962,
 250,Villa,Morbærvænget 43,3600, Frederikssund,1400000 ,01-06-2003,Alm. Salg,124,11290.0,4,1972,
 250,Villa,Nygårdsvej 6,3550, Slangerup,1645000 ,01-06-2003,Alm. Salg,147,11190.0,4,1967,
 250,Ejerlejlighed,"Sydkajen 20, 1. tv",3600, Frederikssund,1829651 ,31-05-2003,Alm. Salg,95,19259.0,3,2004,
@@ -12733,8 +12664,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Villa,Roskildevej 181,3600, Frederikssund,1200000 ,09-09-2002,Alm. Salg,199,6030.0,6,1806,
 250,Villa,Søndervangen 21,3630, Jægerspris,400000 ,09-09-2002,Alm. Salg,113,3540.0,4,2004,
 250,Villa,Buen 6,4050, Skibby,1186000 ,09-09-2002,Alm. Salg,129,9194.0,4,1969,
-250,Ejerlejlighed,Amsterdamhusene 9,3600, Frederikssund,1550000 ,08-09-2002,Alm. Salg,79,19620.0,2,2002,
-250,Villa,Vasevænget 13,3600, Frederikssund,1550000 ,08-09-2002,Alm. Salg,117,13248.0,4,1971,
 250,Villa,Rønnebærvej 2,3600, Frederikssund,1300000 ,08-09-2002,Fam. Salg,75,17333.0,4,1951,
 250,Villa,Skriverbakken 1,3550, Slangerup,1356846 ,08-09-2002,Alm. Salg,100,13568.0,4,1962,
 250,Rækkehus,Mølledammen 105,3550, Slangerup,550000 ,06-09-2002,Alm. Salg,124,4435.0,5,2003,
@@ -12890,7 +12819,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Villa,Søndervangen 19,3630, Jægerspris,400000 ,30-06-2002,Alm. Salg,171,2339.0,5,2006,
 250,Rækkehus,Egeparken 7,4050, Skibby,925459 ,29-06-2002,Alm. Salg,75,12339.0,2,1980,
 250,Villa,Elverhøjen 9,3600, Frederikssund,1705000 ,27-06-2002,Alm. Salg,116,14698.0,4,1988,
-250,Villa,Møllevej 8A,3630, Jægerspris,948069 ,27-06-2002,Alm. Salg,216,4389.0,9,1907,
 250,Rækkehus,Byhøjen 132,3600, Frederikssund,1285000 ,26-06-2002,Alm. Salg,91,14121.0,3,2002,
 250,Villa,Kirkegade 42,4050, Skibby,1165000 ,26-06-2002,Alm. Salg,199,5854.0,8,1974,
 250,Villa,Akacievej 8,3600, Frederikssund,1150000 ,26-06-2002,Alm. Salg,119,9664.0,4,1963,
@@ -12989,7 +12917,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Rækkehus,Mølledammen 51,3550, Slangerup,1694166 ,14-05-2002,Alm. Salg,128,13236.0,4,2001,
 250,Rækkehus,Byhøjen 117,3600, Frederikssund,1285000 ,14-05-2002,Alm. Salg,91,14121.0,3,2002,
 250,Villa,Hjortevænget 6,4050, Skibby,452500 ,14-05-2002,Alm. Salg,173,2616.0,7,2003,
-250,Villa,Havnegade 6B,3600, Frederikssund,1450000 ,13-05-2002,Fam. Salg,166,8735.0,4,1540,
 250,Villa,Strandlystvej 16,3600, Frederikssund,1700000 ,13-05-2002,Alm. Salg,148,11486.0,4,1969,
 250,Villa,Møllehaven 46,3550, Slangerup,1850000 ,12-05-2002,Alm. Salg,168,11012.0,7,2001,
 250,Villa,Ventevej 46,3600, Frederikssund,760000 ,12-05-2002,Alm. Salg,157,4841.0,6,2003,
@@ -13021,7 +12948,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Villa,Irisvej 59,4050, Skibby,607000 ,29-04-2002,Fam. Salg,125,4856.0,3,1973,
 250,Rækkehus,Møllehaven 31,3550, Slangerup,1862096 ,28-04-2002,Alm. Salg,127,14662.0,4,2002,
 250,Rækkehus,Bakkehøjen 21,3600, Frederikssund,1435000 ,28-04-2002,Alm. Salg,108,13287.0,4,1999,
-250,Ejerlejlighed,"Jernbanegade 16, 1",3600, Frederikssund,3505000 ,28-04-2002,Alm. Salg,108,32454.0,3,1922,
 250,Ejerlejlighed,Amsterdamhusene 16,3600, Frederikssund,2550000 ,28-04-2002,Alm. Salg,137,18613.0,4,2002,
 250,Ejerlejlighed,Amsterdamhusene 20,3600, Frederikssund,2686975 ,28-04-2002,Alm. Salg,135,19904.0,4,2002,
 250,Ejerlejlighed,Amsterdamhusene 22,3600, Frederikssund,2566831 ,28-04-2002,Alm. Salg,135,19014.0,4,2002,
@@ -13683,7 +13609,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Villa,Nyvej 2A,4050, Skibby,905000 ,19-06-2001,Alm. Salg,190,4763.0,6,1931,
 250,Villa,Rolf Krakesvej 33,3600, Frederikssund,1702444 ,19-06-2001,Alm. Salg,114,14934.0,4,1958,
 250,Rækkehus,Slåenbjerghuse 39,3600, Frederikssund,425000 ,17-06-2001,Alm. Salg,144,2951.0,4,2002,
-250,Rækkehus,Lindeparken 8,3550, Slangerup,1425000 ,17-06-2001,Alm. Salg,90,15833.0,3,1988,
 250,Rækkehus,Banevænget 82,3550, Slangerup,1400000 ,17-06-2001,Alm. Salg,95,14737.0,4,1999,
 250,Villa,Påstrupvej 2,3550, Slangerup,1630145 ,17-06-2001,Alm. Salg,186,8764.0,4,1870,
 250,Villa,Mosebuen 9,3550, Slangerup,1295000 ,17-06-2001,Alm. Salg,125,10360.0,3,1969,
@@ -13692,7 +13617,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Villa,Amledsvej 6,3600, Frederikssund,1280000 ,17-06-2001,Alm. Salg,113,11327.0,4,1968,
 250,Villa,Mågevej 11,3600, Frederikssund,436326 ,17-06-2001,Andet,117,3729.0,4,1938,
 250,Villa,Østergaardsvej 24,3630, Jægerspris,940000 ,17-06-2001,Alm. Salg,228,4123.0,5,1900,
-250,Villa,Duevej 7,3550, Slangerup,1425000 ,17-06-2001,Alm. Salg,123,11585.0,4,1965,
 250,Villa,Mølledammen 8,3550, Slangerup,2024870 ,14-06-2001,Alm. Salg,130,15576.0,6,2002,
 250,Villa,Dunhammervej 20,3600, Frederikssund,1550000 ,13-06-2001,Alm. Salg,134,11567.0,4,1977,
 250,Villa,Lille Druedalsvej 5,3630, Jægerspris,1370280 ,13-06-2001,Alm. Salg,120,11419.0,4,1972,
@@ -14044,9 +13968,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Villa,Møllehaven 24,3550, Slangerup,2115660 ,21-12-2000,Alm. Salg,130,16274.0,6,2001,
 250,Villa,Øvej 26,3550, Slangerup,1307820 ,21-12-2000,Alm. Salg,118,11083.0,4,1920,
 250,Villa,Kirkeåsen 1,3630, Jægerspris,725000 ,20-12-2000,Alm. Salg,130,5577.0,4,1970,
-250,Rækkehus,Sønderparken 53,3550, Slangerup,1450000 ,19-12-2000,Alm. Salg,151,9603.0,5,1998,
 250,Villa,Sigerslevvestervej 46,3600, Frederikssund,1400000 ,19-12-2000,Alm. Salg,148,9459.0,5,1920,
-250,Villa,Kongensgade 73,3550, Slangerup,1450000 ,19-12-2000,Alm. Salg,116,12500.0,4,1995,
 250,Ejerlejlighed,Lodshaven 18,3600, Frederikssund,1685000 ,18-12-2000,Alm. Salg,130,12962.0,3,1999,
 250,Villa,Gammel Draabyvej 11B,3630, Jægerspris,1784000 ,18-12-2000,Alm. Salg,145,12303.0,4,1994,
 250,Rækkehus,Birkevænget 9,3630, Jægerspris,1600000 ,17-12-2000,Alm. Salg,94,17021.0,3,1960,
@@ -14093,8 +14015,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Villa,Bakkesvinget 4,3550, Slangerup,590000 ,03-12-2000,Alm. Salg,186,3172.0,5,2001,
 250,Villa,Dyrlægegårds Alle 126,3600, Frederikssund,1514470 ,02-12-2000,Alm. Salg,133,11387.0,5,1977,
 250,Villa,Ventevej 32,3600, Frederikssund,1175000 ,01-12-2000,Alm. Salg,99,11869.0,4,1964,
-250,Rækkehus,Slåenbjerghuse 50,3600, Frederikssund,525000 ,30-11-2000,Alm. Salg,128,4102.0,4,2000,
-250,Villa,Slåenbjerghuse 36,3600, Frederikssund,525000 ,30-11-2000,Alm. Salg,141,3723.0,5,2001,
 250,Villa,Ellevej 6,4050, Skibby,1216000 ,30-11-2000,Alm. Salg,117,10393.0,3,1969,
 250,Villa,Dådyrvej 35,4050, Skibby,563000 ,30-11-2000,Fam. Salg,154,3656.0,5,1980,
 250,Rækkehus,Slåenbjerghuse 2,3600, Frederikssund,1795000 ,29-11-2000,Alm. Salg,129,13915.0,5,1999,
@@ -14214,7 +14134,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Villa,Sikavej 21,4050, Skibby,510000 ,10-10-2000,Alm. Salg,140,3643.0,4,1978,
 250,Villa,Gyvelkrogen 16,3630, Jægerspris,1375000 ,10-10-2000,Alm. Salg,198,6944.0,5,1978,
 250,Villa,Englodsvej 2,4050, Skibby,498000 ,10-10-2000,Alm. Salg,217,2295.0,5,2015,
-250,Rækkehus,"Havnegade 13M, 2",3600, Frederikssund,2327288 ,09-10-2000,Fam. Salg,142,16389.0,3,1914,
 250,Villa,Mølleengen 32,3550, Slangerup,2010000 ,09-10-2000,Alm. Salg,130,15462.0,6,1999,
 250,Villa,Klintevej 38,3600, Frederikssund,376000 ,09-10-2000,Alm. Salg,147,2558.0,4,2001,
 250,Ejerlejlighed,"Brobæksgade 3, 1",3550, Slangerup,442000 ,08-10-2000,Fam. Salg,50,8840.0,1,1875,
@@ -14783,9 +14702,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Villa,Møllehaven 64,3550, Slangerup,442000 ,20-12-1999,Alm. Salg,173,2555.0,5,2000,
 250,Villa,Slåenbjerghuse 12,3600, Frederikssund,525000 ,19-12-1999,Alm. Salg,129,4070.0,5,2000,
 250,Villa,Sigerslevvestervej 44,3600, Frederikssund,825000 ,18-12-1999,Alm. Salg,188,4388.0,7,2015,
-250,Rækkehus,Slåenbjerghuse 30,3600, Frederikssund,1645000 ,16-12-1999,Alm. Salg,128,12852.0,4,2000,
 250,Ejerlejlighed,"Færgeparken 7, 2. th",3600, Frederikssund,636405 ,16-12-1999,Alm. Salg,67,9499.0,2,1987,
-250,Villa,Slåenbjerghuse 12,3600, Frederikssund,1645000 ,16-12-1999,Alm. Salg,129,12752.0,5,2000,
 250,Villa,Nyvej 6,4050, Skibby,1018818 ,16-12-1999,Alm. Salg,130,7837.0,3,1959,
 250,Rækkehus,Bakkegården 20,3630, Jægerspris,857000 ,15-12-1999,Alm. Salg,76,11276.0,3,2000,
 250,Rækkehus,Slåenbjerghuse 2,3600, Frederikssund,475000 ,15-12-1999,Alm. Salg,129,3682.0,5,1999,
@@ -15186,7 +15103,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Villa,Birkealle 35,3630, Jægerspris,700000 ,24-06-1999,Alm. Salg,157,4459.0,5,1940,
 250,Rækkehus,Mølleengen 33,3550, Slangerup,1394000 ,23-06-1999,Alm. Salg,128,10891.0,4,1999,
 250,Villa,Roskildevej 102,3600, Frederikssund,1324800 ,23-06-1999,Alm. Salg,167,7933.0,5,1930,
-250,Villa,Bløden 47,3600, Frederikssund,1592000 ,22-06-1999,Alm. Salg,111,14342.0,4,1857,
 250,Villa,Bygvænget 2,3600, Frederikssund,1315780 ,22-06-1999,Alm. Salg,169,7786.0,6,1960,
 250,Ejerlejlighed,"Færgevej 23, st. tv",3600, Frederikssund,134615 ,21-06-1999,Alm. Salg,45,2991.0,2,1927,
 250,Villa,Buen 6,4050, Skibby,1130405 ,21-06-1999,Alm. Salg,129,8763.0,4,1969,
@@ -16012,7 +15928,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Villa,Rugvænget 8,3600, Frederikssund,1340500 ,22-05-1998,Alm. Salg,125,10724.0,6,1959,
 250,Villa,Tollerupparken 8,3600, Frederikssund,1050000 ,20-05-1998,Alm. Salg,148,7095.0,6,1968,
 250,Villa,Vestervej 20,4050, Skibby,1031539 ,20-05-1998,Alm. Salg,130,7935.0,4,1827,
-250,Villa,"Poppelvej 28A, 1",3630, Jægerspris,2012096 ,18-05-1998,Alm. Salg,74,27190.0,2,1777,
 250,Rækkehus,Markleddet 28,3600, Frederikssund,841000 ,17-05-1998,Alm. Salg,91,9242.0,4,1957,
 250,Villa,Svanemosevej 51,3630, Jægerspris,325000 ,17-05-1998,Alm. Salg,153,2124.0,6,2004,
 250,Villa,Elverhøjen 12,3600, Frederikssund,1301000 ,17-05-1998,Alm. Salg,110,11827.0,4,1998,
@@ -16306,7 +16221,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Villa,Skibbyvej 18,4050, Skibby,759220 ,09-01-1998,Alm. Salg,102,7443.0,4,1961,
 250,Ejerlejlighed,"Hovedgaden 15B, 2. tv",4050, Skibby,398732 ,08-01-1998,Alm. Salg,51,7818.0,2,1920,
 250,Villa,Ll Troldmosevej 6,4050, Skibby,390000 ,08-01-1998,Alm. Salg,89,4382.0,4,2022,
-250,Villa,Bavnen 9A,4050, Skibby,569463 ,08-01-1998,Alm. Salg,118,4826.0,4,1920,
 250,Villa,Vestervej 26,4050, Skibby,413406 ,08-01-1998,Alm. Salg,164,2521.0,4,1930,
 250,Villa,Pilehaven 4,4050, Skibby,55000 ,07-01-1998,Alm. Salg,123,447.0,5,1999,
 250,Villa,Store Rørbækvej 10C,3600, Frederikssund,1023741 ,05-01-1998,Fam. Salg,136,7528.0,4,1900,
@@ -16340,7 +16254,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Villa,Lundevej 22,3600, Frederikssund,1023940 ,22-12-1997,Alm. Salg,199,5145.0,8,1898,
 250,Rækkehus,Skuldsvej 3,3600, Frederikssund,939000 ,21-12-1997,Alm. Salg,115,8165.0,4,1971,
 250,Villa,Degnevænget 11,3600, Frederikssund,483631 ,21-12-1997,Alm. Salg,196,2468.0,7,1963,
-250,Villa,Møllevej 8A,3630, Jægerspris,810516 ,21-12-1997,Alm. Salg,216,3752.0,9,1907,
 250,Villa,Kong Skjoldsvej 21,3600, Frederikssund,903000 ,21-12-1997,Alm. Salg,130,6946.0,4,1959,
 250,Villa,Kirkegade 44,4050, Skibby,325000 ,18-12-1997,Alm. Salg,72,4514.0,4,1943,
 250,Villa,Strandgårds Alle 108,3600, Frederikssund,2690078 ,18-12-1997,Alm. Salg,187,14385.0,5,1983,
@@ -16368,13 +16281,11 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Villa,Falkenborgvej 15,3600, Frederikssund,1040000 ,09-12-1997,Alm. Salg,120,8667.0,5,1961,
 250,Rækkehus,Bjarkesvej 34,3600, Frederikssund,957736 ,08-12-1997,Alm. Salg,126,7601.0,4,1971,
 250,Villa,Dyrlægegårds Alle 103,3600, Frederikssund,1648000 ,08-12-1997,Alm. Salg,158,10430.0,5,1979,
-250,Ejerlejlighed,"Ådalsvej 58, 1. th",3600, Frederikssund,600000 ,07-12-1997,Alm. Salg,90,6667.0,4,1964,
 250,Ejerlejlighed,"Hans Atkesvej 6, st",3550, Slangerup,807085 ,07-12-1997,Alm. Salg,109,7404.0,3,1963,
 250,Villa,Engvej 2,3550, Slangerup,882350 ,07-12-1997,Alm. Salg,93,9488.0,3,1968,
 250,Villa,Mølleengen 16,3550, Slangerup,475000 ,07-12-1997,Alm. Salg,130,3654.0,5,1997,
 250,Villa,Kong Skjoldsvej 6,3600, Frederikssund,620500 ,07-12-1997,Alm. Salg,95,6532.0,4,1959,
 250,Villa,Vigvejen 6,4050, Skibby,876412 ,07-12-1997,Alm. Salg,130,6742.0,4,1850,
-250,Villa,Klintevej 26,3600, Frederikssund,600000 ,07-12-1997,Alm. Salg,156,3846.0,5,1947,
 250,Villa,Roskildevej 10,3600, Frederikssund,147545 ,07-12-1997,Fam. Salg,120,1230.0,4,1935,
 250,Villa,Strandbakken 27,3600, Frederikssund,60000 ,07-12-1997,Andet,200,300.0,5,2017,
 250,Villa,Skuldelevvej 30,4050, Skibby,975000 ,06-12-1997,Alm. Salg,118,8263.0,4,1958,
@@ -16611,7 +16522,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Villa,Strandgårds Alle 7,3600, Frederikssund,369273 ,20-08-1997,Alm. Salg,109,3388.0,4,1979,
 250,Villa,Dyssegaardsvej 2A,3630, Jægerspris,567493 ,19-08-1997,Alm. Salg,122,4652.0,5,1925,
 250,Villa,Elverhøjen 3,3600, Frederikssund,1526000 ,19-08-1997,Alm. Salg,122,12508.0,4,1996,
-250,Villa,Hovedgaden 41B,3630, Jægerspris,1333758 ,19-08-1997,Alm. Salg,130,10260.0,4,1887,
 250,Villa,Kyndbyvej 30,3630, Jægerspris,805200 ,19-08-1997,Alm. Salg,160,5033.0,5,1950,
 250,Rækkehus,Kongshøjparken 81,3550, Slangerup,856700 ,17-08-1997,Alm. Salg,124,6909.0,5,1972,
 250,Rækkehus,Lindeparken 5,3550, Slangerup,891500 ,17-08-1997,Alm. Salg,106,8410.0,3,1988,
@@ -16662,7 +16572,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Villa,Englystvej 14,3600, Frederikssund,906835 ,27-07-1997,Alm. Salg,125,7255.0,4,1951,
 250,Villa,Strandbakken 2,3600, Frederikssund,470000 ,26-07-1997,Alm. Salg,187,2513.0,7,1999,
 250,Rækkehus,Bystrædet 3F,4050, Skibby,286000 ,25-07-1997,Fam. Salg,93,3075.0,4,1990,
-250,Villa,Roskildevej 17A,3600, Frederikssund,1074080 ,25-07-1997,Alm. Salg,102,10530.0,4,1925,
 250,Villa,Strandbakken 8,3600, Frederikssund,420000 ,25-07-1997,Alm. Salg,181,2320.0,9,1998,
 250,Villa,Borgmestervænget 52,3600, Frederikssund,1203500 ,24-07-1997,Alm. Salg,135,8915.0,4,1969,
 250,Villa,Selsøvej 12,4050, Skibby,833000 ,23-07-1997,Alm. Salg,273,3051.0,7,1920,
@@ -16737,8 +16646,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Villa,Hyggevej 27,3630, Jægerspris,714000 ,22-06-1997,Alm. Salg,162,4407.0,6,1964,
 250,Villa,Hvedemarken 19,3550, Slangerup,1162000 ,22-06-1997,Alm. Salg,125,9296.0,4,1980,
 250,Villa,Skibbyvej 52,4050, Skibby,502000 ,22-06-1997,Alm. Salg,91,5516.0,5,1827,
-250,Rækkehus,Banegraven 10B,3550, Slangerup,1647000 ,19-06-1997,Alm. Salg,52,31673.0,1,2020,
-250,Villa,Banegraven 10A,3550, Slangerup,1647000 ,19-06-1997,Alm. Salg,116,14198.0,4,1850,
 250,Villa,Muldager 63,3600, Frederikssund,1299750 ,19-06-1997,Auktion,153,8495.0,5,1973,
 250,Villa,Strædet 6,3600, Frederikssund,927000 ,19-06-1997,Alm. Salg,110,8427.0,3,1965,
 250,Villa,Frejasvej 95,3600, Frederikssund,950000 ,19-06-1997,Alm. Salg,112,8482.0,4,1974,
@@ -16774,7 +16681,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Villa,Nordvangen 6,4050, Skibby,785000 ,08-06-1997,Alm. Salg,146,5377.0,6,1974,
 250,Villa,Saltsøvej 2,4050, Skibby,384000 ,08-06-1997,Alm. Salg,189,2032.0,6,1880,
 250,Villa,Strandbakken 21,3600, Frederikssund,510000 ,07-06-1997,Alm. Salg,120,4250.0,5,1998,
-250,Ejerlejlighed,Roskildevej 114B,3600, Frederikssund,487000 ,05-06-1997,Alm. Salg,75,6493.0,2,1930,
 250,Villa,Ådalsvej 63,3600, Frederikssund,995539 ,05-06-1997,Alm. Salg,112,8889.0,4,1963,
 250,Villa,Københavnsvej 40,3550, Slangerup,963000 ,05-06-1997,Alm. Salg,116,8302.0,3,1969,
 250,Villa,Lille Marbækvej 7,3600, Frederikssund,699200 ,04-06-1997,Alm. Salg,96,7283.0,2,1950,
@@ -17190,8 +17096,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Villa,Heegårdsvej 10,3550, Slangerup,775000 ,10-11-1996,Alm. Salg,119,6513.0,5,1964,
 250,Villa,Ved Mosen 5,4050, Skibby,685000 ,10-11-1996,Alm. Salg,113,6062.0,4,1950,
 250,Villa,Agerhøjen 2,3550, Slangerup,300000 ,09-11-1996,Alm. Salg,218,1376.0,6,1997,
-250,Ejerlejlighed,Kocksvej 5C,3600, Frederikssund,1314871 ,08-11-1996,Alm. Salg,138,9528.0,3,1979,
-250,Villa,Kocksvej 5A,3600, Frederikssund,1314871 ,08-11-1996,Alm. Salg,101,13019.0,3,1900,
 250,Villa,Fogedgårdsvej 18,4050, Skibby,742160 ,07-11-1996,Alm. Salg,112,6626.0,3,1964,
 250,Villa,Hillerødvej 22,3550, Slangerup,1201000 ,06-11-1996,Alm. Salg,161,7460.0,6,1961,
 250,Villa,Bakkebo 36,3550, Slangerup,1717104 ,06-11-1996,Alm. Salg,153,11223.0,5,1992,
@@ -17741,10 +17645,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Villa,Lyøvej 20,3550, Slangerup,954140 ,01-02-1996,Alm. Salg,140,6815.0,5,1972,
 250,Villa,Frederiksborgvej 9,3600, Frederikssund,895000 ,31-01-1996,Alm. Salg,164,5457.0,4,1926,
 250,Villa,Kastaniealle 7,3600, Frederikssund,297516 ,29-01-1996,Andet,153,1945.0,5,1905,
-250,Ejerlejlighed,"Kongensgade 34, 1",3550, Slangerup,1000000 ,28-01-1996,Alm. Salg,90,11111.0,2,1920,
-250,Ejerlejlighed,Kvinderupvej 24A,3550, Slangerup,1000000 ,28-01-1996,Alm. Salg,80,12500.0,3,1900,
-250,Ejerlejlighed,Kvinderupvej 24B,3550, Slangerup,1000000 ,28-01-1996,Alm. Salg,106,9434.0,3,1900,
-250,Ejerlejlighed,Kvinderupvej 24C,3550, Slangerup,1000000 ,28-01-1996,Alm. Salg,80,12500.0,4,1900,
 250,Villa,Hybenvej 20,3630, Jægerspris,886810 ,28-01-1996,Alm. Salg,123,7210.0,4,1978,
 250,Villa,Bakkebo 56,3550, Slangerup,1192000 ,28-01-1996,Alm. Salg,126,9460.0,4,1991,
 250,Villa,Møllevej 20,3630, Jægerspris,780000 ,28-01-1996,Alm. Salg,132,5909.0,5,1923,
@@ -17757,10 +17657,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Villa,Roskildevej 128A,3600, Frederikssund,525000 ,23-01-1996,Alm. Salg,172,3052.0,8,1898,
 250,Rækkehus,Selsøvej 9B,4050, Skibby,400000 ,22-01-1996,Fam. Salg,73,5479.0,3,1972,
 250,Rækkehus,Agervej 51,3550, Slangerup,770000 ,21-01-1996,Alm. Salg,140,5500.0,6,1984,
-250,Ejerlejlighed,"Jernbanegade 34, 1",3600, Frederikssund,1100000 ,21-01-1996,Alm. Salg,78,14103.0,3,1897,
 250,Villa,Skovvejen 16,4050, Skibby,500000 ,21-01-1996,Alm. Salg,120,4167.0,2,1800,
 250,Villa,Hellesø 6,4050, Skibby,342500 ,21-01-1996,Andet,76,4507.0,4,1877,
-250,Villa,Asgård 26,3600, Frederikssund,1100000 ,21-01-1996,Alm. Salg,113,9735.0,4,1986,
 250,Rækkehus,Rosenfeldt 71,3600, Frederikssund,730579 ,20-01-1996,Alm. Salg,78,9366.0,3,1987,
 250,Villa,Platanvej 20,3600, Frederikssund,638687 ,20-01-1996,Alm. Salg,102,6262.0,4,1962,
 250,Villa,Mejerigårdsvej 21,3630, Jægerspris,704000 ,20-01-1996,Alm. Salg,99,7111.0,4,1890,
@@ -17770,8 +17668,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Rækkehus,Fjordskrænten 18,3600, Frederikssund,795000 ,17-01-1996,Alm. Salg,93,8548.0,3,1986,
 250,Villa,Kirkevænget 4,3630, Jægerspris,240118 ,16-01-1996,Fam. Salg,144,1667.0,4,1970,
 250,Villa,Solsikkevej 7,3600, Frederikssund,1245000 ,16-01-1996,Alm. Salg,177,7034.0,4,1969,
-250,Ejerlejlighed,"Ådalsvej 62, st. th",3600, Frederikssund,340000 ,14-01-1996,Alm. Salg,64,5313.0,2,1964,
-250,Ejerlejlighed,"Bøgealle 28, 1. tv",3600, Frederikssund,340000 ,14-01-1996,Alm. Salg,75,4533.0,3,1964,
 250,Villa,Østergade 9,4050, Skibby,505000 ,14-01-1996,Alm. Salg,102,4951.0,4,1842,
 250,Villa,Hofvej 22,3600, Frederikssund,498500 ,14-01-1996,Alm. Salg,211,2363.0,6,1965,
 250,Villa,Lerager 40,3600, Frederikssund,450500 ,13-01-1996,Fam. Salg,102,4417.0,4,1969,
@@ -17791,7 +17687,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Rækkehus,Egilsvej 10,3600, Frederikssund,805680 ,28-12-1995,Alm. Salg,126,6394.0,4,1971,
 250,Ejerlejlighed,"Bruhnsvej 11A, 1. th",3600, Frederikssund,384000 ,28-12-1995,Alm. Salg,76,5053.0,3,1934,
 250,Villa,Nordvejen 19,4050, Skibby,678869 ,28-12-1995,Fam. Salg,666,1019.0,17,1874,
-250,Villa,Møllevej 8A,3630, Jægerspris,730000 ,28-12-1995,Alm. Salg,216,3380.0,9,1907,
 250,Villa,Nøddevang 3,3550, Slangerup,868250 ,28-12-1995,Alm. Salg,147,5906.0,5,1974,
 250,Villa,Tollerupparken 37,3600, Frederikssund,505000 ,27-12-1995,Fam. Salg,126,4008.0,5,1969,
 250,Rækkehus,Rosenfeldt 74,3600, Frederikssund,291134 ,26-12-1995,Alm. Salg,80,3639.0,3,1987,
@@ -17912,7 +17807,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Villa,Askevej 11,3630, Jægerspris,694000 ,19-10-1995,Alm. Salg,125,5552.0,5,1963,
 250,Villa,Roskildevej 180,3600, Frederikssund,657000 ,18-10-1995,Alm. Salg,136,4831.0,4,1877,
 250,Villa,Frihedsvej 4,3630, Jægerspris,879554 ,18-10-1995,Alm. Salg,136,6467.0,5,1979,
-250,Villa,Syrenvej 14,3600, Frederikssund,650000 ,16-10-1995,Alm. Salg,109,5963.0,4,1965,
 250,Rækkehus,Egebjergvej 3A,4050, Skibby,1705000 ,15-10-1995,Fam. Salg,70,24357.0,2,1940,
 250,Villa,Askevej 14,4050, Skibby,662960 ,15-10-1995,Alm. Salg,117,5666.0,3,1969,
 250,Rækkehus,Frejasvej 23,3600, Frederikssund,683867 ,14-10-1995,Alm. Salg,68,10057.0,2,1988,
@@ -18170,57 +18064,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Villa,Enghaven 10,3630, Jægerspris,230000 ,16-05-1995,Alm. Salg,100,2300.0,4,1777,
 250,Rækkehus,Agervej 23,3550, Slangerup,658800 ,15-05-1995,Alm. Salg,79,8339.0,2,1985,
 250,Rækkehus,Grønnevej 9B,4050, Skibby,590000 ,15-05-1995,Alm. Salg,103,5728.0,4,1987,
-250,Ejerlejlighed,"Lærkevej 16, st. 3",3600, Frederikssund,1132677 ,15-05-1995,Auktion,90,12585.0,3,2021,
-250,Ejerlejlighed,"Lærkevej 16, st. 2",3600, Frederikssund,1132677 ,15-05-1995,Auktion,135,8390.0,4,2021,
-250,Ejerlejlighed,"A C Hansensvej 10B, 1. tv",3600, Frederikssund,1132677 ,15-05-1995,Auktion,81,13984.0,3,2021,
-250,Ejerlejlighed,"Lærkevej 16, 4. 4",3600, Frederikssund,1132677 ,15-05-1995,Auktion,69,16416.0,2,2021,
-250,Ejerlejlighed,"A C Hansensvej 10B, st. tv",3600, Frederikssund,1132677 ,15-05-1995,Auktion,81,13984.0,3,2021,
-250,Ejerlejlighed,"A C Hansensvej 10A, st. th",3600, Frederikssund,1132677 ,15-05-1995,Auktion,81,13984.0,3,2021,
-250,Ejerlejlighed,"Lærkevej 16, 2. 2",3600, Frederikssund,1132677 ,15-05-1995,Auktion,71,15953.0,2,2021,
-250,Ejerlejlighed,"A C Hansensvej 10A, 3. th",3600, Frederikssund,1132677 ,15-05-1995,Auktion,81,13984.0,3,2021,
-250,Ejerlejlighed,"A C Hansensvej 10B, 3. mf",3600, Frederikssund,1132677 ,15-05-1995,Auktion,61,18568.0,2,2021,
-250,Ejerlejlighed,"Lærkevej 16, 5. 2",3600, Frederikssund,1132677 ,15-05-1995,Auktion,70,16181.0,2,2021,
-250,Ejerlejlighed,"A C Hansensvej 10B, st. th",3600, Frederikssund,1132677 ,15-05-1995,Auktion,76,14904.0,3,2021,
-250,Ejerlejlighed,"A C Hansensvej 10B, 2. th",3600, Frederikssund,1132677 ,15-05-1995,Auktion,76,14904.0,3,2021,
-250,Ejerlejlighed,"A C Hansensvej 10A, 2. mf",3600, Frederikssund,1132677 ,15-05-1995,Auktion,62,18269.0,2,2021,
-250,Ejerlejlighed,"A C Hansensvej 10A, 3. mf",3600, Frederikssund,1132677 ,15-05-1995,Auktion,62,18269.0,2,2021,
-250,Ejerlejlighed,"A C Hansensvej 10A, st. mf",3600, Frederikssund,1132677 ,15-05-1995,Auktion,62,18269.0,2,2021,
-250,Ejerlejlighed,"Lærkevej 16, 4. 2",3600, Frederikssund,1132677 ,15-05-1995,Auktion,70,16181.0,2,2021,
-250,Ejerlejlighed,"Lærkevej 16, 1. 2",3600, Frederikssund,1132677 ,15-05-1995,Auktion,71,15953.0,2,2021,
-250,Ejerlejlighed,"Lærkevej 16, 1. 3",3600, Frederikssund,1132677 ,15-05-1995,Auktion,90,12585.0,3,2021,
-250,Ejerlejlighed,"Lærkevej 16, 2. 4",3600, Frederikssund,1132677 ,15-05-1995,Auktion,69,16416.0,2,2021,
-250,Ejerlejlighed,"A C Hansensvej 10A, 2. th",3600, Frederikssund,1132677 ,15-05-1995,Auktion,81,13984.0,3,2021,
-250,Ejerlejlighed,"Lærkevej 16, 1. 1",3600, Frederikssund,1132677 ,15-05-1995,Auktion,71,15953.0,2,2021,
-250,Ejerlejlighed,"Lærkevej 16, 1. 4",3600, Frederikssund,1132677 ,15-05-1995,Auktion,69,16416.0,2,2021,
-250,Ejerlejlighed,"Lærkevej 16, st. 4",3600, Frederikssund,1132677 ,15-05-1995,Auktion,69,16416.0,2,2021,
-250,Ejerlejlighed,"A C Hansensvej 10A, st. tv",3600, Frederikssund,1132677 ,15-05-1995,Auktion,76,14904.0,3,2021,
-250,Ejerlejlighed,"A C Hansensvej 10B, 1. mf",3600, Frederikssund,1132677 ,15-05-1995,Auktion,61,18568.0,2,2021,
-250,Ejerlejlighed,"Lærkevej 16, 3. 1",3600, Frederikssund,1132677 ,15-05-1995,Auktion,71,15953.0,2,2021,
-250,Ejerlejlighed,"Lærkevej 16, 4. 1",3600, Frederikssund,1132677 ,15-05-1995,Auktion,71,15953.0,2,2021,
-250,Ejerlejlighed,"A C Hansensvej 10A, 2. tv",3600, Frederikssund,1132677 ,15-05-1995,Auktion,76,14904.0,3,2021,
-250,Ejerlejlighed,"A C Hansensvej 10B, 2. mf",3600, Frederikssund,1132677 ,15-05-1995,Auktion,61,18568.0,2,2021,
-250,Ejerlejlighed,"A C Hansensvej 10A, 3. tv",3600, Frederikssund,1132677 ,15-05-1995,Auktion,76,14904.0,3,2021,
-250,Ejerlejlighed,"Lærkevej 16, 5. 3",3600, Frederikssund,1132677 ,15-05-1995,Auktion,90,12585.0,3,2021,
-250,Ejerlejlighed,"Lærkevej 16, 2. 3",3600, Frederikssund,1132677 ,15-05-1995,Auktion,90,12585.0,3,2021,
-250,Ejerlejlighed,"A C Hansensvej 10B, 2. tv",3600, Frederikssund,1132677 ,15-05-1995,Auktion,81,13984.0,3,2021,
-250,Ejerlejlighed,"Lærkevej 16, 4. 3",3600, Frederikssund,1132677 ,15-05-1995,Auktion,90,12585.0,3,2021,
-250,Ejerlejlighed,"Lærkevej 16, 2. 1",3600, Frederikssund,1132677 ,15-05-1995,Auktion,71,15953.0,2,2021,
-250,Ejerlejlighed,"A C Hansensvej 10B, 1. th",3600, Frederikssund,1132677 ,15-05-1995,Auktion,76,14904.0,3,2021,
-250,Ejerlejlighed,"Lærkevej 16, 3. 2",3600, Frederikssund,1132677 ,15-05-1995,Auktion,71,15953.0,2,2021,
-250,Ejerlejlighed,"Lærkevej 16, 6. 4",3600, Frederikssund,1132677 ,15-05-1995,Auktion,69,16416.0,2,2021,
-250,Ejerlejlighed,"A C Hansensvej 10B, 3. tv",3600, Frederikssund,1132677 ,15-05-1995,Auktion,81,13984.0,3,2021,
-250,Ejerlejlighed,"Lærkevej 16, 5. 1",3600, Frederikssund,1132677 ,15-05-1995,Auktion,71,15953.0,2,2021,
-250,Ejerlejlighed,"A C Hansensvej 10B, st. mf",3600, Frederikssund,1132677 ,15-05-1995,Auktion,61,18568.0,2,2021,
-250,Ejerlejlighed,"A C Hansensvej 10A, 1. mf",3600, Frederikssund,1132677 ,15-05-1995,Auktion,62,18269.0,2,2021,
-250,Ejerlejlighed,"Lærkevej 16, 6. 1",3600, Frederikssund,1132677 ,15-05-1995,Auktion,71,15953.0,2,2021,
-250,Ejerlejlighed,"A C Hansensvej 10B, 3. th",3600, Frederikssund,1132677 ,15-05-1995,Auktion,76,14904.0,3,2021,
-250,Ejerlejlighed,"Lærkevej 16, 3. 3",3600, Frederikssund,1132677 ,15-05-1995,Auktion,90,12585.0,3,2021,
-250,Ejerlejlighed,"Lærkevej 16, 6. 3",3600, Frederikssund,1132677 ,15-05-1995,Auktion,90,12585.0,3,2021,
-250,Ejerlejlighed,"A C Hansensvej 10A, 1. th",3600, Frederikssund,1132677 ,15-05-1995,Auktion,81,13984.0,3,2021,
-250,Ejerlejlighed,"Lærkevej 16, 5. 4",3600, Frederikssund,1132677 ,15-05-1995,Auktion,69,16416.0,2,2021,
-250,Ejerlejlighed,"Lærkevej 16, 6. 2",3600, Frederikssund,1132677 ,15-05-1995,Auktion,70,16181.0,2,2021,
-250,Ejerlejlighed,"A C Hansensvej 10A, 1. tv",3600, Frederikssund,1132677 ,15-05-1995,Auktion,76,14904.0,3,2021,
-250,Ejerlejlighed,"Lærkevej 16, 3. 4",3600, Frederikssund,1132677 ,15-05-1995,Auktion,69,16416.0,2,2021,
 250,Villa,Skarndalsvej 2,3630, Jægerspris,210000 ,14-05-1995,Alm. Salg,100,2100.0,2,1867,
 250,Villa,Morænevej 60,3550, Slangerup,1108927 ,14-05-1995,Alm. Salg,150,7393.0,4,1969,
 250,Villa,Frederiksborgvej 2C,3600, Frederikssund,380800 ,14-05-1995,Fam. Salg,207,1840.0,8,1938,
@@ -18256,11 +18099,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Villa,Toftekrogen 23,3630, Jægerspris,630000 ,29-04-1995,Alm. Salg,133,4737.0,5,1977,
 250,Villa,Tjørnevej 14,3600, Frederikssund,2050000 ,29-04-1995,Alm. Salg,299,6856.0,8,1977,
 250,Villa,Egebakken 7,3600, Frederikssund,1030166 ,28-04-1995,Alm. Salg,105,9811.0,4,1985,
-250,Ejerlejlighed,"Bløden 3, 1",3600, Frederikssund,2500000 ,27-04-1995,Alm. Salg,93,26882.0,4,1700,
 250,Villa,Falkenborgvej 11,3600, Frederikssund,600000 ,27-04-1995,Alm. Salg,104,5769.0,5,1951,
-250,Ejerlejlighed,Frederikssundsvej 40,3600, Frederikssund,1140362 ,24-04-1995,Alm. Salg,76,15005.0,2,1900,
 250,Villa,Kignæsbakken 13,3630, Jægerspris,815104 ,24-04-1995,Alm. Salg,135,6038.0,3,1959,
-250,Villa,Frederikssundsvej 40,3600, Frederikssund,1140362 ,24-04-1995,Alm. Salg,195,5848.0,11,1927,
 250,Villa,Mejerigårdsvej 16,3630, Jægerspris,639400 ,24-04-1995,Alm. Salg,228,2804.0,5,1877,
 250,Villa,Stenager 25,3600, Frederikssund,915000 ,22-04-1995,Alm. Salg,167,5479.0,6,1973,
 250,Villa,Syrenvej 18,4050, Skibby,705430 ,22-04-1995,Alm. Salg,170,4150.0,5,1973,
@@ -18287,57 +18127,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Villa,Lerager 35,3600, Frederikssund,705450 ,04-04-1995,Alm. Salg,112,6299.0,4,1968,
 250,Villa,Havretoften 1B,3630, Jægerspris,650000 ,03-04-1995,Alm. Salg,160,4063.0,5,1918,
 250,Rækkehus,Kongshøjparken 47,3550, Slangerup,695000 ,02-04-1995,Alm. Salg,124,5605.0,5,1972,
-250,Ejerlejlighed,"Lærkevej 16, st. 3",3600, Frederikssund,1666000 ,02-04-1995,Alm. Salg,90,18511.0,3,2021,
-250,Ejerlejlighed,"Lærkevej 16, st. 2",3600, Frederikssund,1666000 ,02-04-1995,Alm. Salg,135,12341.0,4,2021,
-250,Ejerlejlighed,"A C Hansensvej 10B, 1. tv",3600, Frederikssund,1666000 ,02-04-1995,Alm. Salg,81,20568.0,3,2021,
-250,Ejerlejlighed,"Lærkevej 16, 4. 4",3600, Frederikssund,1666000 ,02-04-1995,Alm. Salg,69,24145.0,2,2021,
-250,Ejerlejlighed,"A C Hansensvej 10B, st. tv",3600, Frederikssund,1666000 ,02-04-1995,Alm. Salg,81,20568.0,3,2021,
-250,Ejerlejlighed,"A C Hansensvej 10A, st. th",3600, Frederikssund,1666000 ,02-04-1995,Alm. Salg,81,20568.0,3,2021,
-250,Ejerlejlighed,"Lærkevej 16, 2. 2",3600, Frederikssund,1666000 ,02-04-1995,Alm. Salg,71,23465.0,2,2021,
-250,Ejerlejlighed,"A C Hansensvej 10A, 3. th",3600, Frederikssund,1666000 ,02-04-1995,Alm. Salg,81,20568.0,3,2021,
-250,Ejerlejlighed,"A C Hansensvej 10B, 3. mf",3600, Frederikssund,1666000 ,02-04-1995,Alm. Salg,61,27311.0,2,2021,
-250,Ejerlejlighed,"Lærkevej 16, 5. 2",3600, Frederikssund,1666000 ,02-04-1995,Alm. Salg,70,23800.0,2,2021,
-250,Ejerlejlighed,"A C Hansensvej 10B, st. th",3600, Frederikssund,1666000 ,02-04-1995,Alm. Salg,76,21921.0,3,2021,
-250,Ejerlejlighed,"A C Hansensvej 10B, 2. th",3600, Frederikssund,1666000 ,02-04-1995,Alm. Salg,76,21921.0,3,2021,
-250,Ejerlejlighed,"A C Hansensvej 10A, 2. mf",3600, Frederikssund,1666000 ,02-04-1995,Alm. Salg,62,26871.0,2,2021,
-250,Ejerlejlighed,"A C Hansensvej 10A, 3. mf",3600, Frederikssund,1666000 ,02-04-1995,Alm. Salg,62,26871.0,2,2021,
-250,Ejerlejlighed,"A C Hansensvej 10A, st. mf",3600, Frederikssund,1666000 ,02-04-1995,Alm. Salg,62,26871.0,2,2021,
-250,Ejerlejlighed,"Lærkevej 16, 4. 2",3600, Frederikssund,1666000 ,02-04-1995,Alm. Salg,70,23800.0,2,2021,
-250,Ejerlejlighed,"Lærkevej 16, 1. 2",3600, Frederikssund,1666000 ,02-04-1995,Alm. Salg,71,23465.0,2,2021,
-250,Ejerlejlighed,"Lærkevej 16, 1. 3",3600, Frederikssund,1666000 ,02-04-1995,Alm. Salg,90,18511.0,3,2021,
-250,Ejerlejlighed,"Lærkevej 16, 2. 4",3600, Frederikssund,1666000 ,02-04-1995,Alm. Salg,69,24145.0,2,2021,
-250,Ejerlejlighed,"A C Hansensvej 10A, 2. th",3600, Frederikssund,1666000 ,02-04-1995,Alm. Salg,81,20568.0,3,2021,
-250,Ejerlejlighed,"Lærkevej 16, 1. 1",3600, Frederikssund,1666000 ,02-04-1995,Alm. Salg,71,23465.0,2,2021,
-250,Ejerlejlighed,"Lærkevej 16, 1. 4",3600, Frederikssund,1666000 ,02-04-1995,Alm. Salg,69,24145.0,2,2021,
-250,Ejerlejlighed,"Lærkevej 16, st. 4",3600, Frederikssund,1666000 ,02-04-1995,Alm. Salg,69,24145.0,2,2021,
-250,Ejerlejlighed,"A C Hansensvej 10A, st. tv",3600, Frederikssund,1666000 ,02-04-1995,Alm. Salg,76,21921.0,3,2021,
-250,Ejerlejlighed,"A C Hansensvej 10B, 1. mf",3600, Frederikssund,1666000 ,02-04-1995,Alm. Salg,61,27311.0,2,2021,
-250,Ejerlejlighed,"Lærkevej 16, 3. 1",3600, Frederikssund,1666000 ,02-04-1995,Alm. Salg,71,23465.0,2,2021,
-250,Ejerlejlighed,"Lærkevej 16, 4. 1",3600, Frederikssund,1666000 ,02-04-1995,Alm. Salg,71,23465.0,2,2021,
-250,Ejerlejlighed,"A C Hansensvej 10A, 2. tv",3600, Frederikssund,1666000 ,02-04-1995,Alm. Salg,76,21921.0,3,2021,
-250,Ejerlejlighed,"A C Hansensvej 10B, 2. mf",3600, Frederikssund,1666000 ,02-04-1995,Alm. Salg,61,27311.0,2,2021,
-250,Ejerlejlighed,"A C Hansensvej 10A, 3. tv",3600, Frederikssund,1666000 ,02-04-1995,Alm. Salg,76,21921.0,3,2021,
-250,Ejerlejlighed,"Lærkevej 16, 5. 3",3600, Frederikssund,1666000 ,02-04-1995,Alm. Salg,90,18511.0,3,2021,
-250,Ejerlejlighed,"Lærkevej 16, 2. 3",3600, Frederikssund,1666000 ,02-04-1995,Alm. Salg,90,18511.0,3,2021,
-250,Ejerlejlighed,"A C Hansensvej 10B, 2. tv",3600, Frederikssund,1666000 ,02-04-1995,Alm. Salg,81,20568.0,3,2021,
-250,Ejerlejlighed,"Lærkevej 16, 4. 3",3600, Frederikssund,1666000 ,02-04-1995,Alm. Salg,90,18511.0,3,2021,
-250,Ejerlejlighed,"Lærkevej 16, 2. 1",3600, Frederikssund,1666000 ,02-04-1995,Alm. Salg,71,23465.0,2,2021,
-250,Ejerlejlighed,"A C Hansensvej 10B, 1. th",3600, Frederikssund,1666000 ,02-04-1995,Alm. Salg,76,21921.0,3,2021,
-250,Ejerlejlighed,"Lærkevej 16, 3. 2",3600, Frederikssund,1666000 ,02-04-1995,Alm. Salg,71,23465.0,2,2021,
-250,Ejerlejlighed,"Lærkevej 16, 6. 4",3600, Frederikssund,1666000 ,02-04-1995,Alm. Salg,69,24145.0,2,2021,
-250,Ejerlejlighed,"A C Hansensvej 10B, 3. tv",3600, Frederikssund,1666000 ,02-04-1995,Alm. Salg,81,20568.0,3,2021,
-250,Ejerlejlighed,"Lærkevej 16, 5. 1",3600, Frederikssund,1666000 ,02-04-1995,Alm. Salg,71,23465.0,2,2021,
-250,Ejerlejlighed,"A C Hansensvej 10B, st. mf",3600, Frederikssund,1666000 ,02-04-1995,Alm. Salg,61,27311.0,2,2021,
-250,Ejerlejlighed,"A C Hansensvej 10A, 1. mf",3600, Frederikssund,1666000 ,02-04-1995,Alm. Salg,62,26871.0,2,2021,
-250,Ejerlejlighed,"Lærkevej 16, 6. 1",3600, Frederikssund,1666000 ,02-04-1995,Alm. Salg,71,23465.0,2,2021,
-250,Ejerlejlighed,"A C Hansensvej 10B, 3. th",3600, Frederikssund,1666000 ,02-04-1995,Alm. Salg,76,21921.0,3,2021,
-250,Ejerlejlighed,"Lærkevej 16, 3. 3",3600, Frederikssund,1666000 ,02-04-1995,Alm. Salg,90,18511.0,3,2021,
-250,Ejerlejlighed,"Lærkevej 16, 6. 3",3600, Frederikssund,1666000 ,02-04-1995,Alm. Salg,90,18511.0,3,2021,
-250,Ejerlejlighed,"A C Hansensvej 10A, 1. th",3600, Frederikssund,1666000 ,02-04-1995,Alm. Salg,81,20568.0,3,2021,
-250,Ejerlejlighed,"Lærkevej 16, 5. 4",3600, Frederikssund,1666000 ,02-04-1995,Alm. Salg,69,24145.0,2,2021,
-250,Ejerlejlighed,"Lærkevej 16, 6. 2",3600, Frederikssund,1666000 ,02-04-1995,Alm. Salg,70,23800.0,2,2021,
-250,Ejerlejlighed,"A C Hansensvej 10A, 1. tv",3600, Frederikssund,1666000 ,02-04-1995,Alm. Salg,76,21921.0,3,2021,
-250,Ejerlejlighed,"Lærkevej 16, 3. 4",3600, Frederikssund,1666000 ,02-04-1995,Alm. Salg,69,24145.0,2,2021,
 250,Villa,Erik Ejegodsvej 4,3550, Slangerup,900000 ,02-04-1995,Alm. Salg,130,6923.0,4,1964,
 250,Villa,Rosenhaven 28,4050, Skibby,572500 ,02-04-1995,Alm. Salg,128,4473.0,4,1979,
 250,Villa,Vænget 11,3630, Jægerspris,552500 ,02-04-1995,Fam. Salg,237,2331.0,8,1877,
@@ -18651,9 +18440,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Villa,Roskildevej 113,3600, Frederikssund,420000 ,21-09-1994,Alm. Salg,249,1687.0,6,1910,
 250,Villa,Bygaden 18,4050, Skibby,423500 ,20-09-1994,Alm. Salg,81,5228.0,2,1939,
 250,Villa,Lyngerupvej 67,3630, Jægerspris,299314 ,19-09-1994,Alm. Salg,186,1609.0,8,1957,
-250,Rækkehus,Søgårdsvej 1B,3550, Slangerup,1143000 ,18-09-1994,Auktion,80,14288.0,2,1850,
 250,Ejerlejlighed,Kongensgade 14C,3550, Slangerup,525000 ,18-09-1994,Alm. Salg,82,6402.0,3,1902,
-250,Villa,Søgårdsvej 2A,3550, Slangerup,1143000 ,18-09-1994,Auktion,142,8049.0,3,1880,
 250,Villa,Søhøj 3,4050, Skibby,635316 ,17-09-1994,Alm. Salg,192,3309.0,5,1992,
 250,Villa,Roskildevej 148,3600, Frederikssund,670000 ,17-09-1994,Alm. Salg,132,5076.0,5,1935,
 250,Villa,Vasevænget 23,3600, Frederikssund,829230 ,16-09-1994,Alm. Salg,152,5455.0,4,1972,
@@ -18827,7 +18614,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Villa,Degnebakken 26,4050, Skibby,1150000 ,06-06-1994,Alm. Salg,195,5897.0,6,1950,
 250,Villa,Havnegade 19C,3600, Frederikssund,230000 ,05-06-1994,Alm. Salg,85,2706.0,2,1998,
 250,Villa,Fyrrehegnet 68,3630, Jægerspris,584000 ,05-06-1994,Alm. Salg,103,5670.0,4,1986,
-250,Villa,Hovedgaden 41B,3630, Jægerspris,707000 ,04-06-1994,Alm. Salg,130,5438.0,4,1887,
 250,Villa,Sundparken 14,3600, Frederikssund,382823 ,04-06-1994,Fam. Salg,197,1943.0,7,1960,
 250,Villa,Kingovej 15,3550, Slangerup,762000 ,03-06-1994,Alm. Salg,97,7856.0,3,1961,
 250,Rækkehus,Vandværksvej 2,4050, Skibby,275000 ,01-06-1994,Alm. Salg,97,2835.0,3,1920,
@@ -19089,26 +18875,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Villa,Marbæk Alle 15,3600, Frederikssund,815000 ,11-01-1994,Alm. Salg,133,6128.0,5,1978,
 250,Villa,Snostrupvej 5,3600, Frederikssund,530000 ,10-01-1994,Fam. Salg,100,5300.0,4,1945,
 250,Rækkehus,Kongshøjparken 85,3550, Slangerup,675000 ,09-01-1994,Alm. Salg,124,5444.0,6,1972,
-250,Ejerlejlighed,Pilealle 2D,3600, Frederikssund,1300000 ,09-01-1994,Alm. Salg,105,12381.0,4,1888,
 250,Ejerlejlighed,"Bygaden 6B, st",3550, Slangerup,241000 ,09-01-1994,Auktion,76,3171.0,2,1850,
-250,Ejerlejlighed,Roskildevej 101A,3600, Frederikssund,1300000 ,09-01-1994,Alm. Salg,95,13684.0,3,1888,
-250,Ejerlejlighed,Roskildevej 101C,3600, Frederikssund,1300000 ,09-01-1994,Alm. Salg,75,17333.0,2,1888,
-250,Ejerlejlighed,"Roskildevej 101D, 1. 5",3600, Frederikssund,1300000 ,09-01-1994,Alm. Salg,107,12150.0,3,1888,
-250,Ejerlejlighed,"Roskildevej 101D, 1. 6",3600, Frederikssund,1300000 ,09-01-1994,Alm. Salg,96,13542.0,4,1888,
-250,Ejerlejlighed,"Roskildevej 101D, 1. 8",3600, Frederikssund,1300000 ,09-01-1994,Alm. Salg,78,16667.0,3,1888,
-250,Ejerlejlighed,Roskildevej 101E,3600, Frederikssund,1300000 ,09-01-1994,Alm. Salg,89,14607.0,3,1888,
-250,Ejerlejlighed,"Roskildevej 101D, 1. 7",3600, Frederikssund,1300000 ,09-01-1994,Alm. Salg,109,11927.0,3,1888,
-250,Ejerlejlighed,Roskildevej 101F,3600, Frederikssund,1300000 ,09-01-1994,Alm. Salg,71,18310.0,3,1888,
-250,Ejerlejlighed,Roskildevej 101B,3600, Frederikssund,1300000 ,09-01-1994,Alm. Salg,94,13830.0,3,1888,
-250,Ejerlejlighed,"Roskildevej 101D, st. 1",3600, Frederikssund,1300000 ,09-01-1994,Alm. Salg,79,16456.0,3,1888,
-250,Ejerlejlighed,"Roskildevej 101D, st. 3",3600, Frederikssund,1300000 ,09-01-1994,Alm. Salg,123,10569.0,3,1888,
-250,Ejerlejlighed,"Roskildevej 101D, st. 2",3600, Frederikssund,1300000 ,09-01-1994,Alm. Salg,146,8904.0,4,1888,
-250,Ejerlejlighed,"Roskildevej 101D, st. 4",3600, Frederikssund,1300000 ,09-01-1994,Alm. Salg,127,10236.0,4,1888,
-250,Ejerlejlighed,Maglehøjvej 1B,3600, Frederikssund,1300000 ,09-01-1994,Alm. Salg,86,15116.0,2,1975,
-250,Ejerlejlighed,Maglehøjvej 1C,3600, Frederikssund,1300000 ,09-01-1994,Alm. Salg,94,13830.0,2,1975,
-250,Ejerlejlighed,Maglehøjvej 1D,3600, Frederikssund,1300000 ,09-01-1994,Alm. Salg,40,32500.0,2,1975,
 250,Villa,Jordhøjvej 20,3550, Slangerup,4349 ,09-01-1994,Fam. Salg,177,25.0,6,1740,
-250,Villa,Maglehøjvej 1A,3600, Frederikssund,1300000 ,09-01-1994,Alm. Salg,142,9155.0,3,1920,
 250,Villa,Byvej 74,3600, Frederikssund,545000 ,08-01-1994,Alm. Salg,80,6813.0,2,1955,
 250,Rækkehus,Agervej 35,3550, Slangerup,600000 ,06-01-1994,Alm. Salg,79,7595.0,3,1985,
 250,Villa,Møllebakken 4,3600, Frederikssund,670000 ,06-01-1994,Alm. Salg,163,4110.0,6,1964,
@@ -19600,7 +19368,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Rækkehus,Gl Københavnsvej 7B,3550, Slangerup,526250 ,20-03-1993,Alm. Salg,124,4244.0,4,1956,
 250,Villa,Klosterbakken 3A,3550, Slangerup,50000 ,18-03-1993,Alm. Salg,131,382.0,3,1996,
 250,Villa,Skelvej 8,3600, Frederikssund,790000 ,18-03-1993,Alm. Salg,105,7524.0,4,1956,
-250,Villa,Landerslevvej 131B,3630, Jægerspris,402750 ,16-03-1993,Fam. Salg,160,2517.0,4,1900,
 250,Villa,Dyrlægegårds Alle 176,3600, Frederikssund,704323 ,15-03-1993,Alm. Salg,114,6178.0,5,1977,
 250,Villa,Østergaardsvej 26,3630, Jægerspris,650000 ,15-03-1993,Alm. Salg,177,3672.0,5,1968,
 250,Villa,Nyvej 23,3630, Jægerspris,400000 ,13-03-1993,Alm. Salg,191,2094.0,7,1964,
@@ -19609,20 +19376,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Villa,Blommehaven 12,3630, Jægerspris,635000 ,09-03-1993,Alm. Salg,116,5474.0,4,1980,
 250,Villa,Erik Arupsvej 1,3550, Slangerup,590000 ,08-03-1993,Alm. Salg,149,3960.0,6,1951,
 250,Villa,Kongensgade 39,3550, Slangerup,540000 ,08-03-1993,Alm. Salg,123,4390.0,4,1929,
-250,Ejerlejlighed,Kirketorvet 7,3550, Slangerup,1300000 ,07-03-1993,Alm. Salg,69,18841.0,2,1995,
-250,Ejerlejlighed,Kirketorvet 9,3550, Slangerup,1300000 ,07-03-1993,Alm. Salg,82,15854.0,2,1995,
-250,Ejerlejlighed,Kirketorvet 11,3550, Slangerup,1300000 ,07-03-1993,Alm. Salg,82,15854.0,2,1995,
-250,Ejerlejlighed,Kirketorvet 13,3550, Slangerup,1300000 ,07-03-1993,Alm. Salg,69,18841.0,2,1995,
-250,Ejerlejlighed,Møllestræde 1,3550, Slangerup,1300000 ,07-03-1993,Alm. Salg,67,13830.0,4,1995,
-250,Ejerlejlighed,Møllestræde 3,3550, Slangerup,1300000 ,07-03-1993,Alm. Salg,80,16250.0,2,1995,
-250,Ejerlejlighed,Møllestræde 5,3550, Slangerup,1300000 ,07-03-1993,Alm. Salg,80,16250.0,2,1995,
-250,Ejerlejlighed,Møllestræde 7,3550, Slangerup,1300000 ,07-03-1993,Alm. Salg,68,19118.0,2,1995,
-250,Ejerlejlighed,Møllestræde 9,3550, Slangerup,1300000 ,07-03-1993,Alm. Salg,78,16667.0,2,1995,
-250,Ejerlejlighed,Møllestræde 11,3550, Slangerup,1300000 ,07-03-1993,Alm. Salg,65,20000.0,2,1995,
-250,Ejerlejlighed,Møllestræde 13,3550, Slangerup,1300000 ,07-03-1993,Alm. Salg,69,18841.0,2,1995,
-250,Ejerlejlighed,Møllestræde 15,3550, Slangerup,1300000 ,07-03-1993,Alm. Salg,81,16049.0,2,1995,
-250,Ejerlejlighed,Møllestræde 17,3550, Slangerup,1300000 ,07-03-1993,Alm. Salg,80,16250.0,2,1995,
-250,Ejerlejlighed,Møllestræde 19,3550, Slangerup,1300000 ,07-03-1993,Alm. Salg,68,19118.0,2,1995,
 250,Villa,Bakkedraget 19,3630, Jægerspris,675000 ,07-03-1993,Alm. Salg,212,3184.0,6,1971,
 250,Villa,Kvinderupvej 30,3550, Slangerup,587566 ,07-03-1993,Alm. Salg,151,3891.0,5,1965,
 250,Villa,Sct Bernardvej 10,3550, Slangerup,816000 ,02-03-1993,Alm. Salg,178,4584.0,6,1979,
@@ -19918,7 +19671,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Villa,Strandvej 2,3630, Jægerspris,360000 ,18-08-1992,Alm. Salg,126,2857.0,4,1950,
 250,Villa,Englodden 9,3600, Frederikssund,815000 ,18-08-1992,Alm. Salg,125,6520.0,4,1976,
 250,Villa,Skarndalsvej 6,3630, Jægerspris,485000 ,17-08-1992,Alm. Salg,80,6063.0,3,1960,
-250,Villa,Bavnen 9A,4050, Skibby,450000 ,17-08-1992,Alm. Salg,118,3814.0,4,1920,
 250,Villa,Jordhøjvej 2A,3550, Slangerup,548750 ,16-08-1992,Alm. Salg,110,4989.0,5,1923,
 250,Villa,Gulspurvevej 6,3600, Frederikssund,695000 ,16-08-1992,Alm. Salg,112,6205.0,5,1968,
 250,Villa,Mejsevej 8,3550, Slangerup,735000 ,16-08-1992,Alm. Salg,138,5326.0,4,1968,
@@ -19963,7 +19715,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Villa,Solsortevej 9,3600, Frederikssund,540000 ,19-07-1992,Alm. Salg,101,5347.0,4,1966,
 250,Villa,Skibbyvej 10,4050, Skibby,795000 ,19-07-1992,Alm. Salg,252,3155.0,9,1927,
 250,Villa,Smedeengen 5,3630, Jægerspris,514518 ,17-07-1992,Alm. Salg,98,5250.0,4,1961,
-250,Villa,Klintevej 2A,3600, Frederikssund,340000 ,16-07-1992,Alm. Salg,157,2166.0,4,1996,
 250,Villa,Byvej 40,3600, Frederikssund,275000 ,15-07-1992,Alm. Salg,164,1677.0,6,1930,
 250,Villa,Byvangen 7,3550, Slangerup,1050000 ,15-07-1992,Alm. Salg,178,5899.0,6,1976,
 250,Villa,Færgevej 19,3600, Frederikssund,550000 ,15-07-1992,Alm. Salg,222,2477.0,7,1902,
@@ -20170,11 +19921,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 250,Villa,Bygaden 19,4050, Skibby,538157 ,30-03-1992,Alm. Salg,181,2973.0,6,1863,
 250,Villa,Fasanvej 19,3600, Frederikssund,1185000 ,30-03-1992,Andet,179,6620.0,5,1945,
 250,Villa,Dyrlægegårds Alle 7,3600, Frederikssund,765000 ,30-03-1992,Alm. Salg,122,6270.0,5,1977,
-250,Ejerlejlighed,"Vinkelvej 2, 1. th",3630, Jægerspris,1934273 ,29-03-1992,Alm. Salg,60,32238.0,2,1900,
-250,Ejerlejlighed,"Vinkelvej 2, 1. tv",3630, Jægerspris,1934273 ,29-03-1992,Alm. Salg,60,32238.0,2,1900,
-250,Ejerlejlighed,"Hovedgaden 24, 1",3630, Jægerspris,1934273 ,29-03-1992,Alm. Salg,90,21492.0,4,1900,
 250,Villa,Dyrlægegårds Alle 180,3600, Frederikssund,1500000 ,29-03-1992,Alm. Salg,169,8876.0,5,1986,
-250,Villa,Hovedgaden 22,3630, Jægerspris,1934273 ,29-03-1992,Alm. Salg,150,12895.0,5,1900,
 250,Villa,Industrivej 28A,4050, Skibby,995000 ,29-03-1992,Auktion,225,4422.0,7,1971,
 250,Villa,Askevej 36,3630, Jægerspris,475000 ,29-03-1992,Auktion,234,2030.0,9,1965,
 250,Villa,Jættehøj 10,3550, Slangerup,735000 ,28-03-1992,Fam. Salg,106,6934.0,4,1971,

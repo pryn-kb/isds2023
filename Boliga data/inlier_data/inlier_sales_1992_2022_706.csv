@@ -113,8 +113,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Lærkevej 20,8550, Ryomgård,2200000 ,25-09-2022,Alm. Salg,214,10280.0,7,1957,-12%
 706,Villa,Esby Bygade 21,8420, Knebel,1365000 ,25-09-2022,Alm. Salg,197,6929.0,7,1979,-14%
 706,Villa,Adilsvej 20,8400, Ebeltoft,2495000 ,25-09-2022,Alm. Salg,143,17448.0,4,2008,
-706,Ejerlejlighed,"Vestergade 19, 1",8550, Ryomgård,650000 ,22-09-2022,Alm. Salg,70,9286.0,2,1934,-24%
-706,Villa,"Vestergade 19, st",8550, Ryomgård,650000 ,22-09-2022,Alm. Salg,137,4745.0,4,1934,-24%
 706,Villa,Nordlyvej 130,8550, Ryomgård,1400000 ,22-09-2022,Andet,216,6481.0,6,2005,
 706,Villa,Overgade 13,8400, Ebeltoft,1720000 ,21-09-2022,Fam. Salg,199,8643.0,5,1866,
 706,Villa,Fresiavej 4,8400, Ebeltoft,1995000 ,21-09-2022,Alm. Salg,116,17198.0,4,1970,
@@ -139,7 +137,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Herman Bangs Vej 15,8400, Ebeltoft,2895000 ,06-09-2022,Alm. Salg,144,20104.0,4,1978,
 706,Villa,Stejlbjerg 39,8543, Hornslet,1698750 ,06-09-2022,Alm. Salg,145,11716.0,4,1986,
 706,Villa,Sundbyvej 13,8560, Kolind,419465 ,05-09-2022,Fam. Salg,196,2140.0,7,1907,
-706,Villa,Rosenkrantzvej 17,8543, Hornslet,3720000 ,04-09-2022,Alm. Salg,178,20899.0,5,1966,-7%
 706,Villa,Hvedevangen 21,8410, Rønde,3100000 ,03-09-2022,Alm. Salg,177,17514.0,6,2004,
 706,Villa,Lyngbakken 38,8544, Mørke,900000 ,01-09-2022,Alm. Salg,139,6475.0,6,1877,
 706,Villa,Fyrreslugten 8,8400, Ebeltoft,3300000 ,01-09-2022,Alm. Salg,186,17742.0,6,1997,-7%
@@ -161,7 +158,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Skovsangervej 2,8410, Rønde,2540000 ,26-08-2022,Alm. Salg,151,16821.0,4,2013,-2%
 706,Rækkehus,Dråby Bygade 45,8400, Ebeltoft,569500 ,25-08-2022,Andet,62,9185.0,1,1850,
 706,Villa,Junovej 3,8400, Ebeltoft,525000 ,25-08-2022,Alm. Salg,145,3621.0,5,0,
-706,Villa,Herman Bangs Vej 4,8400, Ebeltoft,3000000 ,24-08-2022,Alm. Salg,144,20833.0,5,1981,-3%
 706,Ejerlejlighed,"Tingvej 40, 1",8543, Hornslet,850000 ,23-08-2022,Alm. Salg,94,9043.0,3,1896,-10%
 706,Villa,Toftevej 10,8550, Ryomgård,1098000 ,23-08-2022,Alm. Salg,65,16892.0,3,1957,
 706,Villa,Skoletoften 15,8420, Knebel,1800000 ,22-08-2022,Alm. Salg,126,14286.0,5,1966,-5%
@@ -284,7 +280,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Hortensiavej 3,8400, Ebeltoft,1775000 ,09-06-2022,Alm. Salg,153,11601.0,5,1970,
 706,Villa,Løgtenvej 25,8543, Hornslet,2700000 ,07-06-2022,Alm. Salg,171,15789.0,6,1960,
 706,Villa,Nyvej 3,8581, Nimtofte,950000 ,07-06-2022,Alm. Salg,161,5901.0,7,1919,-5%
-706,Villa,Rosenholmvej 12,8543, Hornslet,2755000 ,07-06-2022,Alm. Salg,132,20871.0,5,1914,-8%
 706,Villa,Vestergade 85,8550, Ryomgård,800000 ,07-06-2022,Alm. Salg,127,6299.0,4,1933,-20%
 706,Ejerlejlighed,Bakkehegnet 14,8400, Ebeltoft,700000 ,06-06-2022,Alm. Salg,61,11475.0,2,1965,
 706,Villa,Silkehalevej 12,8400, Ebeltoft,1055000 ,06-06-2022,Alm. Salg,74,14257.0,3,1982,6%
@@ -426,7 +421,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Ebeltoftvej 18,8410, Rønde,600000 ,22-03-2022,Alm. Salg,103,5825.0,3,1937,-6%
 706,Villa,Randersvej 148,8544, Mørke,1492000 ,22-03-2022,Alm. Salg,128,11656.0,4,1994,
 706,Villa,Stilbjergvej 16A,8420, Knebel,608805 ,21-03-2022,Auktion,126,4832.0,4,1979,
-706,Villa,Frederiks Alle 22,8410, Rønde,2250000 ,20-03-2022,Alm. Salg,112,20089.0,4,1910,-2%
 706,Villa,Strandparken 17,8400, Ebeltoft,2595000 ,20-03-2022,Alm. Salg,181,14337.0,6,2006,
 706,Villa,Stadionvej 33,8543, Hornslet,1300000 ,20-03-2022,Alm. Salg,189,6878.0,6,2023,
 706,Villa,Stadionvej 39,8543, Hornslet,1200000 ,20-03-2022,Alm. Salg,178,6742.0,5,2023,
@@ -560,9 +554,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Stadionvej 43,8543, Hornslet,1285000 ,09-01-2022,Alm. Salg,188,6835.0,5,0,
 706,Villa,Stadionvej 38,8543, Hornslet,1555000 ,09-01-2022,Alm. Salg,200,7775.0,5,0,
 706,Villa,Skolemarken 8,8400, Ebeltoft,2700000 ,07-01-2022,Alm. Salg,193,13990.0,7,2006,
-706,Ejerlejlighed,Storkhøjevej 15,8400, Ebeltoft,1096000 ,06-01-2022,Alm. Salg,205,5346.0,5,1974,10%
 706,Villa,Lærkevej 18,8543, Hornslet,1233000 ,06-01-2022,Fam. Salg,134,9201.0,3,1964,
-706,Villa,Storkhøjevej 15,8400, Ebeltoft,1096000 ,06-01-2022,Alm. Salg,375,2923.0,10,1974,10%
 706,Villa,Ramtenvej 4,8581, Nimtofte,795000 ,05-01-2022,Alm. Salg,147,5408.0,4,1924,
 706,Villa,Tøstrupvej 58,8581, Nimtofte,712717 ,05-01-2022,Alm. Salg,196,3636.0,7,1926,
 706,Villa,Bakkedraget 1,8400, Ebeltoft,2830000 ,05-01-2022,Alm. Salg,145,19517.0,5,1967,-2%
@@ -782,7 +774,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Nordlyvej 128,8550, Ryomgård,2198000 ,23-09-2021,Alm. Salg,121,18165.0,4,2004,
 706,Villa,Storegade 13,8550, Ryomgård,725000 ,23-09-2021,Alm. Salg,180,4028.0,5,1900,-3%
 706,Villa,Sivestedvej 9,8560, Kolind,1473000 ,22-09-2021,Alm. Salg,202,7292.0,10,1890,-2%
-706,Villa,Gåsebakken 15,8410, Rønde,2998000 ,22-09-2021,Alm. Salg,144,20819.0,5,2000,
 706,Villa,Søndervang 38,8444, Balle,800000 ,21-09-2021,Alm. Salg,144,5556.0,4,1921,-6%
 706,Villa,Dalsvinget 5,8444, Balle,695000 ,21-09-2021,Alm. Salg,114,6096.0,4,1959,
 706,Villa,Bittevej 1,8543, Hornslet,231300 ,21-09-2021,Andet,233,993.0,9,1870,
@@ -878,7 +869,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Bøgeslugten 8,8400, Ebeltoft,2375000 ,05-08-2021,Alm. Salg,140,16964.0,6,1985,
 706,Villa,Lærkevej 10,8543, Hornslet,2195000 ,05-08-2021,Alm. Salg,145,15138.0,6,1963,
 706,Villa,Kappelgårdparken 31,8410, Rønde,900000 ,04-08-2021,Alm. Salg,176,5114.0,4,0,
-706,Villa,Hovedgaden 46B,8410, Rønde,3000000 ,03-08-2021,Alm. Salg,127,18405.0,4,1928,
 706,Villa,Eskebakken 47,8581, Nimtofte,725000 ,03-08-2021,Alm. Salg,124,5847.0,4,1978,-3%
 706,Villa,Herman Bangs Vej 11,8400, Ebeltoft,1998000 ,02-08-2021,Alm. Salg,128,15609.0,4,1978,
 706,Villa,Hovedvangen 32B,8400, Ebeltoft,2955000 ,30-07-2021,Alm. Salg,245,12061.0,6,1989,
@@ -1071,13 +1061,11 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Eskerodvej 18A,8543, Hornslet,1700000 ,10-05-2021,Alm. Salg,151,11258.0,5,2017,
 706,Villa,Dråby Bygade 33,8400, Ebeltoft,1770000 ,08-05-2021,Alm. Salg,134,13209.0,3,1910,
 706,Villa,Storkevej 8,8544, Mørke,1545000 ,08-05-2021,Alm. Salg,142,10880.0,6,1907,-3%
-706,Villa,Østergårdsparken 7,8410, Rønde,5375000 ,08-05-2021,Alm. Salg,258,20833.0,4,2006,-1%
 706,Villa,Vestre Fasanvej 2,8410, Rønde,2700000 ,06-05-2021,Alm. Salg,230,11739.0,5,1971,-2%
 706,Villa,Toften 3,8544, Mørke,1650000 ,05-05-2021,Alm. Salg,149,11074.0,5,1972,
 706,Villa,Kærtoften 12,8410, Rønde,580000 ,05-05-2021,Alm. Salg,94,6170.0,5,1880,10%
 706,Villa,Slåenvej 4,8543, Hornslet,2435000 ,05-05-2021,Alm. Salg,124,19637.0,4,1973,-2%
 706,Villa,Fuglevænget 87,8543, Hornslet,2749000 ,04-05-2021,Alm. Salg,179,15358.0,6,1979,
-706,Villa,Nygade 5,8400, Ebeltoft,2735000 ,04-05-2021,Alm. Salg,130,21038.0,4,1888,-7%
 706,Villa,Fynsvej 4,8400, Ebeltoft,2000000 ,04-05-2021,Fam. Salg,155,12903.0,5,1968,
 706,Villa,Svinget 5,8400, Ebeltoft,3350000 ,04-05-2021,Alm. Salg,194,17268.0,5,1935,-9%
 706,Villa,Askevej 1,8550, Ryomgård,1575000 ,04-05-2021,Alm. Salg,171,9211.0,6,1972,5%
@@ -1120,7 +1108,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Elsegårde Skovvej 6F,8400, Ebeltoft,345000 ,22-04-2021,Alm. Salg,248,1391.0,5,2023,
 706,Villa,Carl Th. Dreyers Vej 27,8400, Ebeltoft,450000 ,22-04-2021,Alm. Salg,194,2320.0,5,2022,
 706,Villa,Dejret Bygade 31,8420, Knebel,1060000 ,22-04-2021,Alm. Salg,86,12326.0,3,1911,-3%
-706,Rækkehus,Vendehøj 54,8543, Hornslet,2946930 ,21-04-2021,Alm. Salg,140,21050.0,5,2022,
 706,Villa,Kirkebjergvej 13,8420, Knebel,1495000 ,21-04-2021,Alm. Salg,127,11772.0,4,1963,
 706,Villa,Kaløvej 31,8543, Hornslet,2195000 ,20-04-2021,Alm. Salg,137,16022.0,4,1877,
 706,Villa,Stilbjergvej 10,8420, Knebel,1570000 ,20-04-2021,Alm. Salg,142,11056.0,5,1979,-7%
@@ -1144,14 +1131,12 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Ejerlejlighed,Juulsbakke 6D,8400, Ebeltoft,1100000 ,14-04-2021,Fam. Salg,65,16923.0,2,1778,
 706,Villa,Bykrogen 3,8420, Knebel,3000000 ,14-04-2021,Alm. Salg,249,12048.0,8,1958,
 706,Villa,Stubbe Søvej 5,8400, Ebeltoft,775000 ,13-04-2021,Alm. Salg,95,8158.0,4,1946,
-706,Villa,Tendrup Møllevej 5,8543, Hornslet,4150000 ,13-04-2021,Alm. Salg,198,20960.0,4,2008,-3%
 706,Rækkehus,Tendrup Hovvej 1E,8543, Hornslet,1525000 ,12-04-2021,Alm. Salg,82,18598.0,2,1984,-2%
 706,Villa,Dalgårdsvej 8,8410, Rønde,940000 ,12-04-2021,Alm. Salg,147,6395.0,6,1949,-6%
 706,Villa,Vagtelvej 2,8560, Kolind,1600000 ,12-04-2021,Alm. Salg,139,11511.0,5,1974,
 706,Villa,Mosevej 4,8544, Mørke,1500000 ,12-04-2021,Alm. Salg,154,9740.0,5,1997,-2%
 706,Villa,Nørregade 7,8410, Rønde,1325000 ,12-04-2021,Alm. Salg,120,11042.0,4,1973,-11%
 706,Villa,Nørreled 19,8543, Hornslet,1350000 ,12-04-2021,Alm. Salg,145,9310.0,4,1927,-8%
-706,Rækkehus,Vendehøj 56,8543, Hornslet,2917638 ,11-04-2021,Alm. Salg,140,20840.0,5,2022,
 706,Villa,Kristoffervejen 1,8400, Ebeltoft,2420000 ,11-04-2021,Alm. Salg,195,12410.0,11,1930,-3%
 706,Villa,Kollerup Sti 8,8400, Ebeltoft,1360000 ,11-04-2021,Alm. Salg,83,16386.0,3,1954,-3%
 706,Villa,Kelstrupvej 19,8560, Kolind,1375000 ,11-04-2021,Alm. Salg,218,6307.0,6,1910,-2%
@@ -1176,7 +1161,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Ladegårdsparken 114,8410, Rønde,3950000 ,04-04-2021,Alm. Salg,195,20256.0,7,2010,-1%
 706,Villa,Vipstjertvej 13,8400, Ebeltoft,1495000 ,03-04-2021,Alm. Salg,100,14950.0,4,1988,
 706,Villa,Park Alle 33,8550, Ryomgård,1230000 ,03-04-2021,Alm. Salg,124,9919.0,4,1977,-5%
-706,Villa,Stejlbjerg 47,8543, Hornslet,2495000 ,02-04-2021,Alm. Salg,119,20966.0,4,1984,
 706,Villa,Plantagen 1,8400, Ebeltoft,2390000 ,02-04-2021,Alm. Salg,184,12989.0,7,1988,
 706,Villa,Fasanvej 1B,8410, Rønde,1998000 ,01-04-2021,Alm. Salg,162,12333.0,6,1973,
 706,Villa,Hyrdebakken 7,8400, Ebeltoft,2675000 ,01-04-2021,Alm. Salg,167,16018.0,6,2005,-4%
@@ -1214,9 +1198,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Vibevej 19,8543, Hornslet,2525000 ,18-03-2021,Alm. Salg,170,14853.0,4,1968,-3%
 706,Villa,Majgårdsvej 25,8400, Ebeltoft,2175000 ,18-03-2021,Alm. Salg,174,12500.0,5,2004,
 706,Villa,Fyrreskrænten 30,8400, Ebeltoft,1755000 ,18-03-2021,Alm. Salg,117,15000.0,5,1997,10%
-706,Ejerlejlighed,Frederikslundvej 2A,8550, Ryomgård,1100000 ,17-03-2021,Alm. Salg,97,11340.0,4,1962,
 706,Villa,Fuglekongevej 50,8400, Ebeltoft,1111112 ,17-03-2021,Alm. Salg,65,17094.0,3,1979,40%
-706,Villa,Frederikslundvej 2,8550, Ryomgård,1100000 ,17-03-2021,Alm. Salg,233,4721.0,9,1962,
 706,Ejerlejlighed,"Tingvej 15A, 2. 2",8543, Hornslet,925000 ,16-03-2021,Alm. Salg,66,14015.0,1,1982,
 706,Villa,Esmarcksvej 39,8550, Ryomgård,2175000 ,16-03-2021,Alm. Salg,153,14216.0,5,1986,-1%
 706,Villa,Skovbakken 25,8550, Ryomgård,1625000 ,16-03-2021,Alm. Salg,136,11949.0,5,1977,-1%
@@ -1248,7 +1230,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Havrevænget 24,8410, Rønde,1370000 ,09-03-2021,Fam. Salg,122,11230.0,5,1978,
 706,Villa,Rosenhøjvej 26,8410, Rønde,3250000 ,09-03-2021,Alm. Salg,195,16667.0,7,1974,-1%
 706,Villa,Dalgårdsvej 37,8410, Rønde,2698000 ,09-03-2021,Alm. Salg,140,19271.0,5,2018,
-706,Villa,Engvej 11E,8543, Hornslet,3000000 ,09-03-2021,Alm. Salg,145,20690.0,4,2021,
 706,Villa,Ladegårdsparken 27,8410, Rønde,2600000 ,09-03-2021,Andet,247,10526.0,9,2019,
 706,Villa,Borupvej 31,8543, Hornslet,1740000 ,08-03-2021,Alm. Salg,170,10235.0,6,1912,
 706,Villa,Stationsvej 18,8410, Rønde,1520000 ,08-03-2021,Alm. Salg,149,10201.0,5,1955,-5%
@@ -1347,7 +1328,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Plantagen 13,8400, Ebeltoft,2475000 ,26-01-2021,Alm. Salg,154,16071.0,4,1998,-1%
 706,Rækkehus,Energivej 124C,8420, Knebel,840000 ,25-01-2021,Alm. Salg,82,10244.0,3,1997,-5%
 706,Villa,Alpedalen 9,8543, Hornslet,2960000 ,25-01-2021,Alm. Salg,186,15914.0,8,1971,-1%
-706,Villa,Solsortevej 5,8410, Rønde,3498000 ,25-01-2021,Alm. Salg,167,20946.0,5,2018,
 706,Rækkehus,Rytterparken 30,8543, Hornslet,1550000 ,24-01-2021,Alm. Salg,90,17222.0,3,1984,-6%
 706,Rækkehus,Thorsagervej 5,8544, Mørke,800000 ,24-01-2021,Alm. Salg,77,10390.0,3,1883,-5%
 706,Villa,Ballevej 9,8560, Kolind,4400000 ,24-01-2021,Alm. Salg,316,13924.0,8,1900,-8%
@@ -1418,7 +1398,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Lindevej 7,8543, Hornslet,1600000 ,29-12-2020,Alm. Salg,92,17391.0,3,1958,-6%
 706,Villa,Holmehøj 31,8400, Ebeltoft,160000 ,29-12-2020,Alm. Salg,59,2712.0,2,0,-18%
 706,Rækkehus,Kirkegårdsvej 2,8400, Ebeltoft,850000 ,28-12-2020,Alm. Salg,120,7083.0,5,1893,
-706,Villa,Frederikslundvej 2,8550, Ryomgård,3750000 ,28-12-2020,Alm. Salg,233,16094.0,9,1962,
 706,Villa,Holmensvej 11B,8400, Ebeltoft,1900000 ,27-12-2020,Alm. Salg,116,16379.0,5,2005,-5%
 706,Villa,Moselunden 8,8544, Mørke,1399000 ,27-12-2020,Alm. Salg,103,13583.0,5,1989,
 706,Villa,Hovedgaden 4A,8400, Ebeltoft,1425000 ,27-12-2020,Alm. Salg,131,10878.0,6,1947,2%
@@ -1461,7 +1440,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Solvangsvej 6,8400, Ebeltoft,2350000 ,13-12-2020,Alm. Salg,125,18800.0,4,1978,-4%
 706,Villa,Majgårdsvej 47,8400, Ebeltoft,2320000 ,12-12-2020,Alm. Salg,133,17444.0,6,2008,-3%
 706,Villa,K L Knudsensvej 28,8550, Ryomgård,851488 ,10-12-2020,Alm. Salg,130,6550.0,4,1998,
-706,Villa,Multebærvej 14,8410, Rønde,2965000 ,10-12-2020,Alm. Salg,142,20880.0,3,1997,
 706,Villa,L. Jørgensens Alle 7,8410, Rønde,3050000 ,10-12-2020,Alm. Salg,211,14455.0,8,1963,-7%
 706,Villa,Havvej 6,8420, Knebel,1970000 ,09-12-2020,Alm. Salg,193,10207.0,6,1968,-1%
 706,Villa,P. Vejsgaardsvænget 39,8550, Ryomgård,563640 ,09-12-2020,Alm. Salg,151,3733.0,4,0,
@@ -1559,7 +1537,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Sognevejen 9,8560, Kolind,367058 ,26-10-2020,Andet,88,4171.0,2,1850,
 706,Villa,Grævlingevej 3,8400, Ebeltoft,2650000 ,26-10-2020,Alm. Salg,148,17905.0,5,1960,-5%
 706,Villa,Skovvej 6A,8550, Ryomgård,1265000 ,26-10-2020,Alm. Salg,116,10905.0,4,1969,6%
-706,Villa,Overblikket 12,8543, Hornslet,3500000 ,26-10-2020,Alm. Salg,167,20958.0,6,2015,
 706,Villa,Strandvejen 15,8400, Ebeltoft,2950000 ,25-10-2020,Alm. Salg,210,14048.0,6,1931,-2%
 706,Villa,Elsegårdevej 41,8400, Ebeltoft,1750000 ,25-10-2020,Alm. Salg,235,3723.0,12,1600,-8%
 706,Villa,Lærkevej 7,8543, Hornslet,2795000 ,25-10-2020,Alm. Salg,171,16345.0,6,1963,-3%
@@ -1889,7 +1866,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Ahornvej 2,8543, Hornslet,2075000 ,07-06-2020,Alm. Salg,158,13133.0,6,1970,-5%
 706,Villa,Solskrænten 10,8410, Rønde,686000 ,07-06-2020,Fam. Salg,147,4667.0,5,1969,
 706,Villa,Ladegårdsparken 37,8410, Rønde,799000 ,07-06-2020,Alm. Salg,194,4119.0,5,2021,
-706,Villa,Egsmark Høje 2,8400, Ebeltoft,3500000 ,07-06-2020,Alm. Salg,167,20958.0,4,2019,
 706,Villa,Industrivej 11,8410, Rønde,2500000 ,06-06-2020,Alm. Salg,178,14045.0,8,1985,
 706,Ejerlejlighed,"Havnevej 10E, 1",8400, Ebeltoft,2330000 ,05-06-2020,Alm. Salg,133,17519.0,3,2007,-3%
 706,Villa,Fuglslev Bygade 3,8400, Ebeltoft,1950000 ,05-06-2020,Alm. Salg,169,11538.0,4,1910,-2%
@@ -2015,7 +1991,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Glismosevej 30,8544, Mørke,1695000 ,07-04-2020,Alm. Salg,270,6278.0,8,1851,
 706,Villa,Grønfeld Bygade 7,8400, Ebeltoft,1428000 ,07-04-2020,Alm. Salg,119,12000.0,5,1967,2%
 706,Villa,Søparken 6,8550, Ryomgård,2600000 ,06-04-2020,Alm. Salg,158,16456.0,4,2008,-4%
-706,Villa,Lillerupvej 54,8410, Rønde,2775000 ,06-04-2020,Alm. Salg,133,20865.0,5,1980,
 706,Villa,Ternevej 9,8544, Mørke,1695000 ,05-04-2020,Alm. Salg,173,9798.0,7,1965,
 706,Villa,Ebeltoftvej 28,8544, Mørke,1440000 ,05-04-2020,Fam. Salg,166,8675.0,6,1901,
 706,Villa,Hovedgaden 32,8544, Mørke,1020000 ,05-04-2020,Andet,176,5795.0,5,2006,
@@ -2038,7 +2013,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Gråkærsvej 3,8444, Balle,795000 ,26-03-2020,Alm. Salg,90,8833.0,3,1962,
 706,Villa,Ahornvej 3,8550, Ryomgård,579000 ,26-03-2020,Alm. Salg,128,4523.0,4,1969,
 706,Villa,Rostvedvej 21,8410, Rønde,1275000 ,25-03-2020,Alm. Salg,135,9444.0,4,1902,-2%
-706,Villa,Vestergade 41,8550, Ryomgård,1825000 ,25-03-2020,Alm. Salg,87,20977.0,2,1939,
 706,Villa,P. Vejsgaardsvænget 65,8550, Ryomgård,455000 ,23-03-2020,Alm. Salg,163,2791.0,5,2021,-4%
 706,Villa,Lillerupvej 52,8410, Rønde,2950000 ,22-03-2020,Alm. Salg,151,19536.0,6,1985,
 706,Villa,Plantagen 37,8400, Ebeltoft,722500 ,22-03-2020,Fam. Salg,140,5161.0,6,1988,
@@ -2353,7 +2327,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Lufthavnsvej 25,8410, Rønde,1420000 ,13-10-2019,Alm. Salg,201,7065.0,5,1874,-5%
 706,Villa,Stabelhøjen 2,8400, Ebeltoft,1500000 ,13-10-2019,Alm. Salg,197,7614.0,5,1989,-6%
 706,Villa,Astrupvej 3A,8550, Ryomgård,1298000 ,13-10-2019,Alm. Salg,190,6832.0,5,1969,
-706,Ejerlejlighed,Hvide Hus Vej 2A,8400, Ebeltoft,2250000 ,10-10-2019,Alm. Salg,107,21028.0,3,2007,-10%
 706,Villa,Holme Bygade 16,8400, Ebeltoft,1375000 ,10-10-2019,Alm. Salg,180,7639.0,4,1880,-8%
 706,Villa,Korbærvej 4,8410, Rønde,1875000 ,10-10-2019,Alm. Salg,138,13587.0,4,1973,-1%
 706,Villa,Åvangen 40,8444, Balle,900000 ,10-10-2019,Alm. Salg,143,6294.0,5,1979,-5%
@@ -2436,7 +2409,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Vinkelvej 32,8544, Mørke,700000 ,31-08-2019,Alm. Salg,112,6250.0,4,1963,
 706,Villa,Fuglevænget 31,8543, Hornslet,1835000 ,29-08-2019,Alm. Salg,110,16682.0,4,1975,
 706,Villa,Vestergade 26,8550, Ryomgård,1625000 ,29-08-2019,Alm. Salg,179,9078.0,5,1928,-4%
-706,Villa,Tjørnevej 14,8543, Hornslet,2906000 ,29-08-2019,Alm. Salg,139,20906.0,5,2007,0%
 706,Villa,Landevejen 83,8543, Hornslet,1350000 ,28-08-2019,Alm. Salg,105,12857.0,3,1915,
 706,Villa,Mimosavej 25,8400, Ebeltoft,2250000 ,28-08-2019,Alm. Salg,155,14516.0,4,2007,-2%
 706,Villa,Fynsgade 3,8560, Kolind,1750000 ,27-08-2019,Alm. Salg,146,11986.0,6,1956,-3%
@@ -2619,8 +2591,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Fuglevænget 37,8543, Hornslet,2080000 ,27-05-2019,Alm. Salg,133,15639.0,5,1975,-1%
 706,Villa,Bøjstrupvej 48,8550, Ryomgård,1398000 ,27-05-2019,Alm. Salg,140,9986.0,4,1912,
 706,Villa,Axel Munchsvej 73,8550, Ryomgård,664643 ,27-05-2019,Andet,146,4552.0,4,1980,
-706,Rækkehus,"Fasanvej 7A, 1",8410, Rønde,996800 ,26-05-2019,Fam. Salg,204,4886.0,7,1971,
-706,Ejerlejlighed,Fasanvej 7B,8410, Rønde,996800 ,26-05-2019,Fam. Salg,107,9316.0,3,1971,
 706,Villa,Digtervænget 22,8400, Ebeltoft,1000000 ,26-05-2019,Alm. Salg,172,5814.0,7,1974,
 706,Ejerlejlighed,"Tingvej 15A, 1",8543, Hornslet,1325000 ,25-05-2019,Alm. Salg,111,11937.0,3,1982,-2%
 706,Villa,Ramtenvej 8,8581, Nimtofte,498000 ,24-05-2019,Alm. Salg,90,5533.0,3,1954,
@@ -2766,8 +2736,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Adelgade 70,8400, Ebeltoft,750000 ,16-03-2019,Alm. Salg,118,6356.0,5,1900,
 706,Villa,Balevej 11,8544, Mørke,200000 ,14-03-2019,Alm. Salg,120,1667.0,1,1800,-50%
 706,Villa,Dalslugten 7,8400, Ebeltoft,1800000 ,14-03-2019,Alm. Salg,117,15385.0,5,1985,-5%
-706,Rækkehus,"Maarupvej 8, 1",8560, Kolind,975000 ,13-03-2019,Alm. Salg,72,13542.0,2,1937,
-706,Ejerlejlighed,"Maarupvej 8, st",8560, Kolind,975000 ,13-03-2019,Alm. Salg,72,13542.0,2,1937,
 706,Villa,Strandgårdshøj 8,8400, Ebeltoft,1425000 ,13-03-2019,Alm. Salg,155,9194.0,4,1955,-2%
 706,Villa,Skovbrynet 17B,8544, Mørke,1215744 ,13-03-2019,Andet,147,8270.0,4,1981,
 706,Villa,Kvædevej 22,8543, Hornslet,2465000 ,12-03-2019,Alm. Salg,157,15701.0,5,1994,-1%
@@ -2890,7 +2858,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Havrevangen 24,8400, Ebeltoft,1720000 ,18-12-2018,Alm. Salg,141,12199.0,6,1976,-3%
 706,Villa,Th. Robdrups Vej 8,8444, Balle,595000 ,17-12-2018,Alm. Salg,104,5721.0,5,1961,
 706,Villa,Vorregårdsparken 53,8410, Rønde,2250000 ,17-12-2018,Alm. Salg,203,11084.0,7,2010,
-706,Rækkehus,Rytterparken 28,8543, Hornslet,1460000 ,16-12-2018,Alm. Salg,70,20857.0,2,1984,-3%
 706,Villa,Ellekærparken 21,8543, Hornslet,2600000 ,16-12-2018,Alm. Salg,146,17808.0,5,1978,-2%
 706,Villa,Skolevej 31A,8410, Rønde,1150000 ,15-12-2018,Alm. Salg,116,9914.0,3,1964,-11%
 706,Villa,Skovtoften 44,8550, Ryomgård,1100000 ,14-12-2018,Fam. Salg,188,5851.0,5,2008,
@@ -3135,13 +3102,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Skovskadevej 5,8400, Ebeltoft,1785000 ,19-08-2018,Alm. Salg,150,11900.0,4,1981,-3%
 706,Villa,Brovej 6,8543, Hornslet,3075000 ,18-08-2018,Alm. Salg,151,20364.0,5,1912,
 706,Rækkehus,Snedkervænget 6,8543, Hornslet,2049000 ,16-08-2018,Alm. Salg,107,19150.0,4,2009,
-706,Ejerlejlighed,"Slotsvej 4, st",8543, Hornslet,58729 ,16-08-2018,Andet,82,716.0,4,1880,
-706,Ejerlejlighed,"Slotsvej 4, 1",8543, Hornslet,58729 ,16-08-2018,Andet,128,459.0,4,1880,
-706,Ejerlejlighed,Rosenholmvej 103,8543, Hornslet,58729 ,16-08-2018,Andet,60,979.0,4,1900,
-706,Ejerlejlighed,Rosenholmvej 107,8543, Hornslet,58729 ,16-08-2018,Andet,60,979.0,2,1900,
-706,Ejerlejlighed,Rosenholmvej 109,8543, Hornslet,58729 ,16-08-2018,Andet,121,485.0,5,1840,
-706,Ejerlejlighed,Rosenholmvej 111,8543, Hornslet,58729 ,16-08-2018,Andet,66,890.0,3,1840,
-706,Ejerlejlighed,Rosenholmvej 105,8543, Hornslet,58729 ,16-08-2018,Andet,65,904.0,3,1900,
 706,Villa,Æblehaven 15,8543, Hornslet,2850000 ,16-08-2018,Alm. Salg,151,18874.0,6,1998,-1%
 706,Villa,Bugtrupvej 30,8560, Kolind,700000 ,16-08-2018,Alm. Salg,120,5833.0,4,1960,
 706,Villa,Møllebjergvej 4,8420, Knebel,2445000 ,16-08-2018,Alm. Salg,133,18383.0,4,1960,
@@ -3175,13 +3135,11 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Bugtrupvej 28,8560, Kolind,1045000 ,01-08-2018,Alm. Salg,96,10885.0,3,1955,-5%
 706,Villa,Sletterhagevej 36,8420, Knebel,720000 ,01-08-2018,Alm. Salg,51,14118.0,2,1885,4%
 706,Villa,Hyacintvej 13,8543, Hornslet,500000 ,01-08-2018,Alm. Salg,100,5000.0,4,1900,-37%
-706,Villa,Adelgade 35A,8400, Ebeltoft,150000 ,31-07-2018,Alm. Salg,63,2381.0,1,1902,
 706,Villa,Vinkelvej 5,8400, Ebeltoft,892500 ,31-07-2018,Fam. Salg,156,5721.0,6,1978,
 706,Villa,Hyllested Bygade 25,8400, Ebeltoft,600000 ,31-07-2018,Fam. Salg,208,2885.0,7,1966,
 706,Villa,Skovbrynet 12,8550, Ryomgård,1200000 ,30-07-2018,Alm. Salg,192,6250.0,7,1967,-7%
 706,Villa,Møllevej 6,8544, Mørke,1950000 ,30-07-2018,Alm. Salg,193,10104.0,7,1903,-2%
 706,Villa,Ved Fredskoven 7,8400, Ebeltoft,2250000 ,30-07-2018,Alm. Salg,172,13081.0,6,1877,
-706,Villa,Gåsebakken 19,8410, Rønde,3200000 ,29-07-2018,Alm. Salg,152,21053.0,6,2002,
 706,Villa,Drosselvej 2,8544, Mørke,1575000 ,26-07-2018,Alm. Salg,196,8036.0,7,1973,-6%
 706,Villa,Asgilhøjevej 43,8420, Knebel,2000000 ,26-07-2018,Alm. Salg,233,8584.0,8,1928,-5%
 706,Villa,Strandbakken 8,8420, Knebel,660000 ,26-07-2018,Alm. Salg,169,3905.0,5,2019,11%
@@ -3202,8 +3160,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Vrinners Bygade 22,8420, Knebel,1735000 ,15-07-2018,Alm. Salg,144,12049.0,3,1887,-8%
 706,Villa,Stovbakken 3,8544, Mørke,920000 ,15-07-2018,Alm. Salg,104,8846.0,4,1949,-8%
 706,Villa,Balevej 4,8544, Mørke,1390000 ,15-07-2018,Alm. Salg,103,13495.0,3,1978,0%
-706,Ejerlejlighed,Ryomgaardvej 1,8581, Nimtofte,400000 ,12-07-2018,Alm. Salg,117,3419.0,3,1900,-6%
-706,Ejerlejlighed,"Torvet 2, 1",8581, Nimtofte,400000 ,12-07-2018,Alm. Salg,142,2817.0,5,1900,-6%
 706,Villa,Gl. Byvej 6,8420, Knebel,500000 ,11-07-2018,Alm. Salg,127,3937.0,2,1974,
 706,Villa,Multebærvej 12,8410, Rønde,2950000 ,11-07-2018,Alm. Salg,156,18910.0,4,1998,-5%
 706,Villa,Bøgebjerget 10,8420, Knebel,1195000 ,11-07-2018,Alm. Salg,179,6676.0,5,0,
@@ -3311,9 +3267,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Herold Svarres Vej 10,8543, Hornslet,2730000 ,29-05-2018,Fam. Salg,151,18079.0,5,2018,
 706,Rækkehus,Kirkevej 7A,8410, Rønde,850000 ,28-05-2018,Alm. Salg,119,7143.0,4,1900,-8%
 706,Villa,Mejsevej 2,8544, Mørke,725500 ,28-05-2018,Andet,126,5758.0,4,1987,
-706,Ejerlejlighed,Storkhøjevej 15,8400, Ebeltoft,1125000 ,27-05-2018,Alm. Salg,205,5488.0,5,1974,-2%
 706,Villa,Ballesvej 47,8543, Hornslet,900000 ,27-05-2018,Andet,102,8824.0,5,1945,
-706,Villa,Storkhøjevej 15,8400, Ebeltoft,1125000 ,27-05-2018,Alm. Salg,375,3000.0,10,1974,-2%
 706,Villa,Plantagen 25,8400, Ebeltoft,1520000 ,27-05-2018,Alm. Salg,134,11343.0,5,1998,-5%
 706,Villa,Vorregårdsparken 61,8410, Rønde,715000 ,26-05-2018,Alm. Salg,212,3373.0,5,2021,-6%
 706,Villa,Søndre Strandvej 6,8400, Ebeltoft,925000 ,24-05-2018,Alm. Salg,94,9840.0,3,1960,-16%
@@ -3430,10 +3384,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Havrevænget 16,8410, Rønde,2035000 ,26-03-2018,Alm. Salg,248,8206.0,7,1976,-7%
 706,Villa,Havvej 1,8420, Knebel,900000 ,26-03-2018,Alm. Salg,162,5556.0,3,1909,-10%
 706,Villa,Ballevej 23,8400, Ebeltoft,700000 ,25-03-2018,Alm. Salg,106,6604.0,3,1963,-6%
-706,Villa,Molsvej 23B,8410, Rønde,975000 ,25-03-2018,Alm. Salg,104,9375.0,4,1968,
 706,Villa,Rytterparken 16,8543, Hornslet,2180000 ,22-03-2018,Alm. Salg,137,15912.0,4,1976,-5%
 706,Villa,Grønnemarkvej 10,8543, Hornslet,3450000 ,22-03-2018,Alm. Salg,297,11616.0,8,1837,-9%
-706,Villa,Bjødstrupvej 5,8410, Rønde,2975000 ,22-03-2018,Alm. Salg,242,12293.0,6,1902,
 706,Villa,Gartnervænget 7,8543, Hornslet,1792500 ,21-03-2018,Andet,170,10544.0,6,1997,
 706,Villa,Østergårdsparken 24,8410, Rønde,1700000 ,21-03-2018,Alm. Salg,186,9140.0,5,2019,-5%
 706,Villa,Ringsøvej 4,8550, Ryomgård,575000 ,20-03-2018,Alm. Salg,87,6609.0,4,1930,
@@ -3573,8 +3525,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Erantisvej 5,8543, Hornslet,840000 ,30-12-2017,Alm. Salg,140,6000.0,5,1969,
 706,Villa,I.P.Christensens Vej 5,8400, Ebeltoft,2455000 ,26-12-2017,Alm. Salg,192,12786.0,6,1998,-2%
 706,Villa,Skelkløften 8,8400, Ebeltoft,900000 ,25-12-2017,Alm. Salg,114,7895.0,3,1965,-18%
-706,Ejerlejlighed,Frederikslundvej 2A,8550, Ryomgård,375000 ,21-12-2017,Alm. Salg,97,3866.0,4,1962,
-706,Villa,Frederikslundvej 2,8550, Ryomgård,375000 ,21-12-2017,Alm. Salg,233,1609.0,9,1962,
 706,Villa,Brombærvej 7,8410, Rønde,3225000 ,21-12-2017,Alm. Salg,183,17623.0,7,1970,
 706,Villa,K L Knudsensvej 8,8550, Ryomgård,2195000 ,20-12-2017,Alm. Salg,173,12688.0,6,2000,-4%
 706,Villa,Stovbakken 16,8544, Mørke,3100000 ,20-12-2017,Alm. Salg,236,13136.0,7,1972,
@@ -3735,15 +3685,12 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Møllebækvej 5,8400, Ebeltoft,2000000 ,08-10-2017,Alm. Salg,244,8197.0,7,1904,-9%
 706,Villa,Dråby Bygade 10B,8400, Ebeltoft,1375000 ,07-10-2017,Alm. Salg,156,8814.0,5,1904,-8%
 706,Ejerlejlighed,Strandgårdshøj 4E,8400, Ebeltoft,900000 ,06-10-2017,Fam. Salg,93,9677.0,3,1949,
-706,Villa,Stubbe Søvej 7B,8400, Ebeltoft,3900000 ,05-10-2017,Alm. Salg,186,20968.0,4,2007,-3%
 706,Villa,Nedergade 10,8400, Ebeltoft,1300000 ,05-10-2017,Alm. Salg,91,14286.0,2,1898,-13%
 706,Villa,Østre Fasanvej 22,8410, Rønde,2600000 ,04-10-2017,Alm. Salg,155,16774.0,4,1976,
 706,Villa,Skovskadevej 9,8400, Ebeltoft,1000000 ,04-10-2017,Alm. Salg,117,8547.0,4,1985,-5%
-706,Villa,Østergårdsparken 10,8410, Rønde,5070000 ,04-10-2017,Alm. Salg,242,20950.0,8,2007,-4%
 706,Villa,Fuglekongevej 48,8400, Ebeltoft,730000 ,03-10-2017,Auktion,122,5984.0,4,1979,
 706,Villa,Kirkevangen 12,8420, Knebel,2100000 ,03-10-2017,Alm. Salg,158,13291.0,6,1969,-4%
 706,Villa,Søbakken 2,8543, Hornslet,895000 ,03-10-2017,Alm. Salg,180,4972.0,6,2019,
-706,Villa,Kystvejen 117,8400, Ebeltoft,1795000 ,02-10-2017,Alm. Salg,86,20872.0,3,1959,
 706,Villa,Reberbanen 23,8400, Ebeltoft,1595000 ,02-10-2017,Alm. Salg,170,9382.0,3,1945,
 706,Villa,Skovdalen 5,8400, Ebeltoft,1750000 ,01-10-2017,Alm. Salg,205,8537.0,3,1974,-5%
 706,Villa,Sivestedvej 13,8560, Kolind,350534 ,29-09-2017,Fam. Salg,137,2559.0,3,1900,
@@ -4342,7 +4289,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Sjellebrovej 15,8544, Mørke,1014000 ,26-10-2016,Alm. Salg,175,5794.0,4,1887,
 706,Villa,Enghavevej 15,8543, Hornslet,1495000 ,25-10-2016,Alm. Salg,106,14104.0,4,1962,
 706,Villa,Thorsgade 22,8410, Rønde,925000 ,25-10-2016,Alm. Salg,181,5110.0,5,1907,-16%
-706,Villa,Nyvej 10,8543, Hornslet,3050000 ,24-10-2016,Alm. Salg,181,16851.0,6,1933,-7%
 706,Villa,Vestervej 18,8544, Mørke,1685000 ,23-10-2016,Alm. Salg,192,8776.0,5,1971,-1%
 706,Villa,Grødehøjvænget 30,8410, Rønde,1200000 ,23-10-2016,Fam. Salg,155,7742.0,5,2007,
 706,Villa,Kaløvej 14,8543, Hornslet,4320000 ,22-10-2016,Alm. Salg,236,18305.0,6,2002,-14%
@@ -4434,7 +4380,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Havrebakken 2,8560, Kolind,710000 ,27-08-2016,Alm. Salg,100,7100.0,3,1959,-11%
 706,Rækkehus,Ravnhøjvej 2B,8543, Hornslet,977500 ,25-08-2016,Fam. Salg,90,10861.0,4,1986,
 706,Rækkehus,Torngårdsparken 15,8543, Hornslet,1510000 ,24-08-2016,Alm. Salg,100,15100.0,4,1983,-1%
-706,Ejerlejlighed,"Havnevej 8G, 1",8400, Ebeltoft,2275000 ,24-08-2016,Alm. Salg,109,20872.0,4,2007,-9%
 706,Villa,Nyvej 2,8410, Rønde,920000 ,24-08-2016,Alm. Salg,133,6917.0,4,1975,-8%
 706,Villa,Skolevej 12,8550, Ryomgård,475000 ,24-08-2016,Alm. Salg,170,2794.0,6,1967,-39%
 706,Villa,Østre Fasanvej 34,8410, Rønde,1200000 ,24-08-2016,Alm. Salg,92,13043.0,3,1984,-7%
@@ -4555,8 +4500,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Skovvej 13,8543, Hornslet,1901363 ,20-06-2016,Fam. Salg,243,7825.0,4,1952,
 706,Villa,Lyngbakken 12,8544, Mørke,600000 ,20-06-2016,Fam. Salg,88,6818.0,3,1875,
 706,Villa,Gyden 3,8420, Knebel,1095000 ,20-06-2016,Alm. Salg,165,6636.0,5,1930,-8%
-706,Ejerlejlighed,Ryomgaardvej 1,8581, Nimtofte,250000 ,19-06-2016,Alm. Salg,117,2137.0,3,1900,-54%
-706,Ejerlejlighed,"Torvet 2, 1",8581, Nimtofte,250000 ,19-06-2016,Alm. Salg,142,1761.0,5,1900,-54%
 706,Villa,Sandmarkvej 15,8544, Mørke,2255000 ,19-06-2016,Alm. Salg,259,8707.0,6,1890,-6%
 706,Villa,Skovtoften 96,8550, Ryomgård,2150000 ,19-06-2016,Alm. Salg,140,15357.0,5,2007,-6%
 706,Villa,Glismosevej 23,8544, Mørke,820000 ,18-06-2016,Alm. Salg,126,6508.0,5,1902,
@@ -4617,7 +4560,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Hyacintvej 2,8543, Hornslet,1385000 ,11-05-2016,Alm. Salg,130,10654.0,4,1965,-4%
 706,Villa,Alvejen 4,8550, Ryomgård,2365000 ,10-05-2016,Alm. Salg,325,7277.0,7,1860,-1%
 706,Villa,Ellevvej 4,8410, Rønde,950000 ,10-05-2016,Alm. Salg,210,4524.0,7,2017,-21%
-706,Villa,Ebeltoftvej 107B,8544, Mørke,1400000 ,10-05-2016,Alm. Salg,152,9211.0,6,1902,-3%
 706,Villa,Røndevej 18,8400, Ebeltoft,2650000 ,09-05-2016,Alm. Salg,214,12383.0,7,1873,-2%
 706,Villa,Akelejevej 1,8410, Rønde,1100000 ,09-05-2016,Alm. Salg,158,6962.0,5,1967,
 706,Villa,Tendrupvej 28,8543, Hornslet,800000 ,09-05-2016,Alm. Salg,80,10000.0,3,1952,-3%
@@ -4630,7 +4572,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Elgvej 8,8400, Ebeltoft,852762 ,03-05-2016,Auktion,92,9269.0,4,2001,
 706,Villa,Ternevej 6,8544, Mørke,471500 ,03-05-2016,Auktion,105,4490.0,4,1964,
 706,Villa,Skovtoften 54,8550, Ryomgård,2200000 ,03-05-2016,Alm. Salg,228,9649.0,5,2007,-4%
-706,Ejerlejlighed,"Jernbanegade 11C, 2",8400, Ebeltoft,1575000 ,02-05-2016,Alm. Salg,101,15594.0,3,1900,
 706,Villa,Silkehalevej 21,8400, Ebeltoft,850000 ,02-05-2016,Alm. Salg,91,9341.0,3,1977,-1%
 706,Villa,Sofienlund 18,8543, Hornslet,700000 ,02-05-2016,Alm. Salg,160,4375.0,5,2018,
 706,Villa,Lillevej 5,8543, Hornslet,1000000 ,02-05-2016,Alm. Salg,100,10000.0,5,1910,-9%
@@ -4737,7 +4678,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Dråbydalen 7,8400, Ebeltoft,800000 ,29-02-2016,Alm. Salg,141,5674.0,4,1965,-20%
 706,Villa,Axel Munchsvej 11,8550, Ryomgård,1465000 ,28-02-2016,Alm. Salg,172,8517.0,5,1980,-2%
 706,Villa,Landevejen 42,8543, Hornslet,1795000 ,28-02-2016,Alm. Salg,148,12128.0,4,1935,
-706,Villa,Molsvej 23B,8410, Rønde,1050000 ,25-02-2016,Alm. Salg,104,10096.0,4,1968,-9%
 706,Villa,Ebeltoftvej 62A,8410, Rønde,1180000 ,25-02-2016,Fam. Salg,94,12553.0,4,1953,
 706,Ejerlejlighed,Bakkehegnet 10F,8400, Ebeltoft,485000 ,24-02-2016,Alm. Salg,52,9327.0,2,1965,-8%
 706,Villa,Skovdalen 3,8400, Ebeltoft,1000000 ,24-02-2016,Alm. Salg,160,6250.0,6,1974,-17%
@@ -4947,7 +4887,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Agertoften 2,8400, Ebeltoft,350000 ,18-09-2015,Alm. Salg,90,3889.0,2,1800,-7%
 706,Villa,Bakkevej 3,8400, Ebeltoft,1250000 ,15-09-2015,Alm. Salg,67,18657.0,3,1961,
 706,Villa,Stovbakken 31,8544, Mørke,2100000 ,15-09-2015,Alm. Salg,175,12000.0,6,1955,-4%
-706,Villa,Nedergade 36B,8400, Ebeltoft,1901539 ,14-09-2015,Alm. Salg,112,16978.0,3,1948,6%
 706,Villa,Gyden 12,8420, Knebel,475000 ,13-09-2015,Alm. Salg,107,4439.0,4,1967,
 706,Villa,Vibevej 13,8410, Rønde,1200000 ,13-09-2015,Alm. Salg,86,13953.0,3,1958,-14%
 706,Villa,Girafvej 9,8400, Ebeltoft,1850000 ,13-09-2015,Alm. Salg,128,14453.0,5,2005,-2%
@@ -5269,7 +5208,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Rækkehus,Rytterparken 66,8543, Hornslet,900000 ,11-03-2015,Fam. Salg,70,12857.0,2,1988,
 706,Villa,Pusthusvej 10,8543, Hornslet,1630000 ,11-03-2015,Alm. Salg,167,9760.0,7,1852,-4%
 706,Villa,Nøddehegnet 7,8400, Ebeltoft,700000 ,11-03-2015,Alm. Salg,124,5645.0,4,1961,-12%
-706,Villa,Tingvej 7C,8543, Hornslet,1650000 ,11-03-2015,Alm. Salg,118,13983.0,4,1863,-8%
 706,Villa,Søndervang 15,8444, Balle,125000 ,10-03-2015,Auktion,150,833.0,3,1850,-75%
 706,Villa,Axel Munchsvej 75,8550, Ryomgård,1665000 ,09-03-2015,Alm. Salg,175,9514.0,6,1980,-2%
 706,Villa,Smouenvej 2,8410, Rønde,1975000 ,09-03-2015,Alm. Salg,182,10852.0,5,1936,-1%
@@ -5303,7 +5241,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Stabrandvej 27,8560, Kolind,998000 ,24-02-2015,Alm. Salg,128,7797.0,4,1780,
 706,Villa,Pederstrup Bygade 15,8560, Kolind,75000 ,24-02-2015,Auktion,110,682.0,4,1932,
 706,Villa,Strandvejen 158,8410, Rønde,3300000 ,24-02-2015,Alm. Salg,182,18132.0,5,1900,-6%
-706,Villa,Hovedgaden 46B,8410, Rønde,2615000 ,22-02-2015,Alm. Salg,127,16043.0,4,1928,
 706,Villa,Kløvevej 24,8544, Mørke,1395000 ,22-02-2015,Alm. Salg,149,9362.0,4,1971,
 706,Villa,Poppelvej 4,8550, Ryomgård,1080000 ,22-02-2015,Alm. Salg,114,9474.0,4,1973,-6%
 706,Villa,Storegade 26,8550, Ryomgård,1100000 ,19-02-2015,Alm. Salg,141,7801.0,5,1934,-8%
@@ -5373,7 +5310,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Søkjersvej 22,8400, Ebeltoft,940000 ,17-12-2014,Alm. Salg,83,11325.0,2,1973,
 706,Villa,Åvangen 10,8444, Balle,125000 ,17-12-2014,Alm. Salg,140,893.0,4,2015,
 706,Villa,Lykkesholmvej 20,8444, Balle,375000 ,16-12-2014,Alm. Salg,91,4121.0,3,1963,-5%
-706,Villa,Bjerg-Thomsensvej 67,8410, Rønde,3050000 ,16-12-2014,Alm. Salg,145,21034.0,4,2001,-1%
 706,Villa,Hjulgårdsvej 4,8420, Knebel,145000 ,16-12-2014,Auktion,80,1813.0,4,1810,
 706,Villa,I.P.Christensens Vej 4,8400, Ebeltoft,720000 ,16-12-2014,Auktion,124,5806.0,5,1960,
 706,Rækkehus,Overgårdsparken 35,8410, Rønde,2065000 ,15-12-2014,Alm. Salg,131,15763.0,3,2007,-1%
@@ -5490,7 +5426,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Mejerivej 15,8560, Kolind,475000 ,06-10-2014,Alm. Salg,88,5398.0,3,1963,-20%
 706,Villa,Kirkevej 10,8410, Rønde,700000 ,06-10-2014,Alm. Salg,125,5600.0,3,1952,-18%
 706,Villa,Enggårdsbakken 63,8560, Kolind,927774 ,06-10-2014,Alm. Salg,130,7137.0,5,2012,
-706,Villa,Munkebakken 17,8400, Ebeltoft,2750000 ,05-10-2014,Alm. Salg,132,20833.0,6,1986,-4%
 706,Villa,Lerbakken 32,8410, Rønde,1570000 ,02-10-2014,Alm. Salg,162,9691.0,5,1979,-7%
 706,Villa,Storegade 35,8550, Ryomgård,200000 ,30-09-2014,Auktion,158,1266.0,4,1949,
 706,Villa,Holmensvej 30,8400, Ebeltoft,925000 ,30-09-2014,Alm. Salg,140,6607.0,3,2020,
@@ -6164,7 +6099,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Nygårdsvænget 7,8410, Rønde,1310000 ,26-03-2013,Alm. Salg,120,10917.0,5,1976,-12%
 706,Villa,Rønne Alle 13,8410, Rønde,2600000 ,26-03-2013,Alm. Salg,177,14689.0,5,1932,0%
 706,Villa,Skaarupvej 7,8560, Kolind,576854 ,26-03-2013,Andet,126,4578.0,5,1885,
-706,Villa,Strandparken 9,8410, Rønde,3600000 ,24-03-2013,Alm. Salg,172,20930.0,6,2004,-4%
 706,Villa,Fuglekongevej 58,8400, Ebeltoft,1995000 ,22-03-2013,Alm. Salg,162,12315.0,5,1977,
 706,Villa,Majsvangen 34,8400, Ebeltoft,1495000 ,22-03-2013,Alm. Salg,93,16075.0,4,1998,
 706,Rækkehus,Toften 21,8400, Ebeltoft,1175000 ,19-03-2013,Alm. Salg,85,13824.0,3,1979,-13%
@@ -6335,10 +6269,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Gl. Elkærvej 18,8420, Knebel,275000 ,24-10-2012,Alm. Salg,192,1432.0,6,2017,
 706,Villa,Vesterkærvej 5,8400, Ebeltoft,495000 ,23-10-2012,Alm. Salg,208,2380.0,6,1948,
 706,Villa,Kildevej 19,8420, Knebel,1325000 ,23-10-2012,Alm. Salg,157,8439.0,4,1765,-5%
-706,Rækkehus,Lunbakkevej 1A,8400, Ebeltoft,1250000 ,22-10-2012,Alm. Salg,67,18657.0,1,1927,-16%
 706,Villa,Solbakken 1,8550, Ryomgård,150000 ,22-10-2012,Alm. Salg,63,2381.0,2,1959,-61%
 706,Villa,Skårhavvej 10,8420, Knebel,425000 ,22-10-2012,Alm. Salg,107,3972.0,4,1877,-6%
-706,Villa,Lunbakkevej 1,8400, Ebeltoft,1250000 ,22-10-2012,Alm. Salg,213,5869.0,6,1912,-16%
 706,Rækkehus,Kvædevej 34A,8543, Hornslet,1270000 ,21-10-2012,Alm. Salg,100,12700.0,4,1998,-9%
 706,Villa,Rugvangen 7,8560, Kolind,1425000 ,21-10-2012,Alm. Salg,128,11133.0,4,1975,-5%
 706,Rækkehus,Vestre Fasanvej 25,8410, Rønde,1050000 ,20-10-2012,Alm. Salg,115,9130.0,4,1976,-9%
@@ -6431,9 +6363,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Ndr. Strandvej 24,8400, Ebeltoft,1600000 ,17-08-2012,Alm. Salg,122,13115.0,4,1944,-11%
 706,Villa,Estrupvej 58,8543, Hornslet,1470000 ,17-08-2012,Alm. Salg,151,9735.0,5,1938,-2%
 706,Villa,Skovskadevej 18,8400, Ebeltoft,960000 ,17-08-2012,Alm. Salg,74,12973.0,4,1974,-4%
-706,Ejerlejlighed,Skolegyde 10,8544, Mørke,1100000 ,16-08-2012,Alm. Salg,70,15714.0,3,1907,-33%
 706,Villa,Vesterskovgårdsvej 19B,8544, Mørke,1180000 ,16-08-2012,Alm. Salg,146,8082.0,5,1917,-2%
-706,Villa,Skolegyde 10,8544, Mørke,1100000 ,16-08-2012,Alm. Salg,316,3481.0,8,1907,-33%
 706,Villa,Balevej 59,8544, Mørke,1585000 ,15-08-2012,Alm. Salg,138,11486.0,4,1937,-6%
 706,Villa,Dalgårdsparken 38,8543, Hornslet,2250000 ,14-08-2012,Alm. Salg,137,16423.0,6,1998,-2%
 706,Villa,Stejlbjerg 17,8543, Hornslet,1940000 ,13-08-2012,Alm. Salg,188,10319.0,6,1980,-8%
@@ -6564,8 +6494,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Gml Landevej 27,8544, Mørke,1100000 ,28-04-2012,Alm. Salg,227,4846.0,7,1927,-12%
 706,Villa,Stationsvej 2,8410, Rønde,1050000 ,28-04-2012,Alm. Salg,182,5769.0,8,1935,-12%
 706,Villa,P. Vejsgaardsvænget 6,8550, Ryomgård,3250000 ,27-04-2012,Alm. Salg,244,13320.0,6,2007,
-706,Rækkehus,"Maarupvej 8, 1",8560, Kolind,350000 ,26-04-2012,Auktion,72,4861.0,2,1937,
-706,Ejerlejlighed,"Maarupvej 8, st",8560, Kolind,350000 ,26-04-2012,Auktion,72,4861.0,2,1937,
 706,Villa,Skelhøjvej 4,8543, Hornslet,2125000 ,26-04-2012,Alm. Salg,185,11486.0,8,1972,-13%
 706,Villa,Grønningen 3,8400, Ebeltoft,400000 ,26-04-2012,Alm. Salg,60,6667.0,2,1850,-50%
 706,Villa,Tøstrupvej 27,8581, Nimtofte,774500 ,26-04-2012,Andet,192,4034.0,5,1930,
@@ -6668,7 +6596,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Rækkehus,Kvædevej 25A,8543, Hornslet,1025000 ,05-02-2012,Alm. Salg,74,13851.0,3,1981,-2%
 706,Ejerlejlighed,Birkevej 41D,8410, Rønde,1595000 ,05-02-2012,Alm. Salg,106,15047.0,3,2000,
 706,Villa,Tendrup Møllevej 10,8543, Hornslet,736880 ,01-02-2012,Alm. Salg,156,4724.0,5,2013,
-706,Rækkehus,Strandparken 24,8410, Rønde,3795000 ,31-01-2012,Alm. Salg,182,20852.0,4,2012,
 706,Ejerlejlighed,"Molsvej 23D, 1. tv",8410, Rønde,870000 ,31-01-2012,Alm. Salg,71,12254.0,3,1964,
 706,Villa,Strandparken 1,8410, Rønde,1868573 ,30-01-2012,Fam. Salg,204,9160.0,5,2004,
 706,Villa,Solsortevej 2,8410, Rønde,900000 ,30-01-2012,Fam. Salg,134,6716.0,4,1959,
@@ -7039,7 +6966,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Stejlbjerg 8,8543, Hornslet,2660000 ,06-04-2011,Alm. Salg,183,14536.0,7,1984,-1%
 706,Villa,Mimosavej 2,8400, Ebeltoft,1565000 ,05-04-2011,Auktion,167,9371.0,5,1969,-8%
 706,Villa,Vorregårdsparken 25,8410, Rønde,700000 ,05-04-2011,Alm. Salg,198,3535.0,6,2011,-8%
-706,Rækkehus,Strandparken 26,8410, Rønde,3792500 ,03-04-2011,Alm. Salg,182,20838.0,4,2011,-5%
 706,Villa,Nauhøjvej 19,8410, Rønde,948360 ,03-04-2011,Fam. Salg,220,4311.0,6,1998,
 706,Villa,Østergårdsparken 9,8410, Rønde,3150000 ,03-04-2011,Alm. Salg,243,12963.0,4,2005,
 706,Villa,Multebærvej 12,8410, Rønde,1497501 ,03-04-2011,Andet,156,9599.0,4,1998,
@@ -7050,7 +6976,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Vibevej 9,8410, Rønde,905000 ,28-03-2011,Alm. Salg,103,8786.0,3,1961,-17%
 706,Villa,Æblehaven 11,8543, Hornslet,1450000 ,28-03-2011,Alm. Salg,173,8382.0,2,1999,
 706,Villa,Bakkevænget 9,8410, Rønde,1200000 ,28-03-2011,Alm. Salg,121,9917.0,5,1985,-4%
-706,Villa,Tingvej 7C,8543, Hornslet,1050000 ,28-03-2011,Alm. Salg,118,8898.0,4,1863,-58%
 706,Rækkehus,Nødagervej 5,8560, Kolind,110000 ,27-03-2011,Auktion,61,1803.0,3,1860,
 706,Villa,Hovgårdvej 28,8543, Hornslet,1770000 ,26-03-2011,Alm. Salg,123,14390.0,6,1963,-6%
 706,Villa,Trekronervej 16,8410, Rønde,550000 ,23-03-2011,Alm. Salg,110,5000.0,5,1970,-27%
@@ -7246,8 +7171,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Ejerlejlighed,Skudehavnen 13B,8400, Ebeltoft,788000 ,20-10-2010,Alm. Salg,48,16417.0,2,1978,-39%
 706,Villa,Pibesvanevej 12,8544, Mørke,432000 ,20-10-2010,Alm. Salg,185,2335.0,5,2015,-10%
 706,Villa,Krogen 5,8444, Balle,80000 ,19-10-2010,Alm. Salg,70,1143.0,5,1877,
-706,Rækkehus,Regnbuen 34,8400, Ebeltoft,1595000 ,18-10-2010,Alm. Salg,105,15190.0,3,2007,
-706,Villa,Majsvangen 2,8400, Ebeltoft,1595000 ,18-10-2010,Alm. Salg,123,12967.0,6,1988,
 706,Villa,Århusvej 26,8410, Rønde,995000 ,17-10-2010,Auktion,143,6958.0,5,1905,11%
 706,Villa,Ny Lufthavnsvej 31,8400, Ebeltoft,550000 ,16-10-2010,Alm. Salg,123,4472.0,3,2012,-54%
 706,Villa,Baunehøjparken 9,8410, Rønde,660000 ,14-10-2010,Alm. Salg,190,3474.0,5,2014,0%
@@ -7756,8 +7679,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Vestergade 52,8550, Ryomgård,800000 ,02-11-2009,Alm. Salg,132,5369.0,4,1954,
 706,Villa,Kongsvej 7,8550, Ryomgård,1175000 ,01-11-2009,Alm. Salg,146,8048.0,4,1953,
 706,Villa,Fasanvej 14,8544, Mørke,1598000 ,01-11-2009,Alm. Salg,165,9685.0,7,1972,
-706,Rækkehus,Hændelshøj 23,8543, Hornslet,1325000 ,31-10-2009,Alm. Salg,88,15057.0,3,1988,-5%
-706,Villa,Rosenvang 28,8543, Hornslet,1325000 ,31-10-2009,Alm. Salg,119,11134.0,4,1964,
 706,Rækkehus,Vesterågade 17,8560, Kolind,540000 ,29-10-2009,Alm. Salg,89,6067.0,3,1943,
 706,Villa,Græsvangen 16,8400, Ebeltoft,1400000 ,29-10-2009,Alm. Salg,136,10294.0,4,1978,
 706,Villa,Sognevejen 13,8560, Kolind,750000 ,29-10-2009,Alm. Salg,212,3538.0,6,1850,
@@ -8185,8 +8106,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Risvangen 5,8400, Ebeltoft,1550000 ,03-11-2008,Alm. Salg,130,11923.0,5,2014,
 706,Villa,Skovgårdevej 33,8420, Knebel,4200000 ,03-11-2008,Alm. Salg,269,15613.0,8,2008,-16%
 706,Villa,Strandgårdshøj 3,8400, Ebeltoft,4800000 ,03-11-2008,Alm. Salg,259,18533.0,10,1942,-13%
-706,Ejerlejlighed,Lynghøjvej 41,8543, Hornslet,235000 ,02-11-2008,Alm. Salg,65,3615.0,2,1850,
-706,Villa,Hønebjergvej 19,8543, Hornslet,235000 ,02-11-2008,Alm. Salg,270,870.0,8,1876,
 706,Villa,Ndr. Strandvej 32,8400, Ebeltoft,3850000 ,02-11-2008,Alm. Salg,191,20157.0,7,1951,
 706,Villa,Skolemarken 12,8400, Ebeltoft,1198859 ,31-10-2008,Alm. Salg,200,5994.0,9,2005,
 706,Villa,Nørregyde 6,8410, Rønde,1577000 ,28-10-2008,Andet,212,7439.0,4,1990,
@@ -8328,7 +8247,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Dråbydalen 24,8400, Ebeltoft,1650000 ,01-07-2008,Alm. Salg,134,12313.0,5,1965,
 706,Villa,Midtvangen 2A,8400, Ebeltoft,845000 ,30-06-2008,Alm. Salg,215,3930.0,5,2012,
 706,Rækkehus,Stationsvej 10A,8544, Mørke,940000 ,29-06-2008,Andet,79,11899.0,3,1983,
-706,Rækkehus,"Skindergade 4, 1",8400, Ebeltoft,2500000 ,29-06-2008,Fam. Salg,162,15432.0,7,1949,
 706,Villa,Grågåsevej 10,8544, Mørke,485000 ,29-06-2008,Alm. Salg,207,2343.0,6,2009,
 706,Villa,Holmehøj 2A,8400, Ebeltoft,625000 ,28-06-2008,Alm. Salg,184,3397.0,5,2021,
 706,Villa,Skovvangen 13,8400, Ebeltoft,700000 ,27-06-2008,Alm. Salg,246,2846.0,8,2009,
@@ -8450,8 +8368,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Østergårdsparken 28,8410, Rønde,1150000 ,01-05-2008,Alm. Salg,221,5204.0,7,2011,-31%
 706,Villa,Knebel Bygade 56,8420, Knebel,750000 ,30-04-2008,Fam. Salg,142,5282.0,4,1923,
 706,Villa,Vestergade 15,8444, Balle,645000 ,30-04-2008,Alm. Salg,92,7011.0,4,1958,
-706,Rækkehus,Elsegårdevej 44A,8400, Ebeltoft,470000 ,29-04-2008,Alm. Salg,60,7833.0,3,1932,
-706,Villa,Elsegårdevej 46,8400, Ebeltoft,470000 ,29-04-2008,Alm. Salg,113,4159.0,3,2006,
 706,Rækkehus,Nyvang 5A,8400, Ebeltoft,1330000 ,28-04-2008,Alm. Salg,89,14944.0,3,1982,-1%
 706,Villa,Havevej 16,8543, Hornslet,1875000 ,28-04-2008,Alm. Salg,128,14648.0,4,1963,-6%
 706,Villa,Vestre Fasanvej 36,8410, Rønde,1340000 ,28-04-2008,Fam. Salg,123,10894.0,5,1958,
@@ -8668,8 +8584,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Moesbakken 48,8410, Rønde,2885000 ,07-12-2007,Alm. Salg,145,19897.0,3,1999,
 706,Villa,Kolstrupvej 3,8581, Nimtofte,900000 ,06-12-2007,Alm. Salg,128,7031.0,6,1952,-10%
 706,Villa,Øervej 11A,8400, Ebeltoft,810000 ,06-12-2007,Alm. Salg,147,5510.0,2,1976,-30%
-706,Ejerlejlighed,Ebeltoftvej 27,8544, Mørke,1500000 ,05-12-2007,Alm. Salg,100,15000.0,4,1900,
-706,Ejerlejlighed,Østervej 4,8544, Mørke,1500000 ,05-12-2007,Alm. Salg,90,16667.0,4,1900,
 706,Villa,Tigervej 19,8400, Ebeltoft,2990000 ,05-12-2007,Alm. Salg,149,20067.0,5,2007,7%
 706,Villa,Tigervej 15,8400, Ebeltoft,1300000 ,05-12-2007,Alm. Salg,265,4906.0,6,2010,
 706,Villa,Enggårdsbakken 47,8560, Kolind,380000 ,05-12-2007,Alm. Salg,171,2222.0,4,2009,
@@ -8806,9 +8720,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Ågårdvej 35,8543, Hornslet,979000 ,26-09-2007,Alm. Salg,199,4920.0,5,2008,
 706,Rækkehus,Toften 22,8410, Rønde,2000000 ,25-09-2007,Alm. Salg,124,16129.0,5,2002,-8%
 706,Villa,Drasbeksgade 21,8560, Kolind,1375000 ,25-09-2007,Alm. Salg,192,7161.0,3,1900,-4%
-706,Ejerlejlighed,"Vibæk Strandvej 12B, 1",8400, Ebeltoft,400000 ,24-09-2007,Andet,101,3960.0,4,1989,
 706,Villa,Bjødstrupvej 3,8410, Rønde,500000 ,24-09-2007,Alm. Salg,132,3788.0,4,1971,
-706,Villa,Vibæk Strandvej 12C,8400, Ebeltoft,400000 ,24-09-2007,Andet,89,4494.0,2,1999,
 706,Villa,Tved Bygade 12,8420, Knebel,1130000 ,24-09-2007,Alm. Salg,120,9417.0,5,1960,
 706,Villa,Toften 14,8410, Rønde,1306513 ,24-09-2007,Andet,188,6950.0,6,2001,
 706,Villa,Vorregårdsparken 83,8410, Rønde,1325000 ,23-09-2007,Alm. Salg,210,6310.0,8,2012,33%
@@ -8824,8 +8736,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Øksenhøjvej 17,8544, Mørke,1095000 ,16-09-2007,Alm. Salg,135,8111.0,6,1934,
 706,Villa,Århusvej 10,8400, Ebeltoft,750000 ,16-09-2007,Alm. Salg,80,9375.0,2,1961,-3%
 706,Villa,Marbækvej 7,8544, Mørke,200000 ,16-09-2007,Alm. Salg,26,7692.0,2,2018,
-706,Ejerlejlighed,"Nygade 4, st",8550, Ryomgård,1890000 ,15-09-2007,Fam. Salg,96,19688.0,3,1930,
-706,Ejerlejlighed,Vestergade 15B,8550, Ryomgård,1890000 ,15-09-2007,Fam. Salg,94,20106.0,4,1930,
 706,Villa,Stenhøjevej 4,8400, Ebeltoft,1575000 ,15-09-2007,Andet,136,11581.0,4,1927,
 706,Villa,Strandbakken 9,8420, Knebel,1995000 ,15-09-2007,Alm. Salg,141,14149.0,4,1973,
 706,Villa,P. Vejsgaardsvænget 6,8550, Ryomgård,3495000 ,15-09-2007,Alm. Salg,244,14324.0,6,2007,
@@ -8933,7 +8843,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Ballevej 12,8400, Ebeltoft,1665000 ,24-07-2007,Alm. Salg,210,7929.0,6,1916,
 706,Villa,Alpevej 24,8543, Hornslet,1075000 ,23-07-2007,Alm. Salg,132,8144.0,5,1967,-54%
 706,Villa,Grødehøjvænget 28,8410, Rønde,280000 ,23-07-2007,Alm. Salg,183,1530.0,7,2017,
-706,Villa,Gåsebakken 14,8410, Rønde,3200000 ,22-07-2007,Alm. Salg,152,21053.0,5,2004,
 706,Villa,Vinkelvej 5,8581, Nimtofte,952500 ,22-07-2007,Alm. Salg,140,6804.0,5,1948,
 706,Villa,Atlasvej 21A,8400, Ebeltoft,2250000 ,17-07-2007,Alm. Salg,175,12857.0,5,2007,
 706,Villa,Dyrhøjvej 34,8420, Knebel,1195000 ,17-07-2007,Alm. Salg,192,6224.0,5,1917,
@@ -9110,7 +9019,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Asylvej 15,8420, Knebel,2500000 ,01-05-2007,Alm. Salg,203,12315.0,9,1915,-4%
 706,Villa,Syrenvej 1,8410, Rønde,875000 ,01-05-2007,Alm. Salg,86,10174.0,3,1894,
 706,Villa,Korupskovvej 7,8550, Ryomgård,950000 ,01-05-2007,Alm. Salg,120,7917.0,5,1872,
-706,Ejerlejlighed,"Jernbanegade 11C, 2",8400, Ebeltoft,1500000 ,30-04-2007,Andet,101,14851.0,3,1900,
 706,Villa,Tendrup Hovvej 18,8543, Hornslet,2125000 ,30-04-2007,Alm. Salg,109,19495.0,3,1959,-3%
 706,Villa,Strandparken 15,8400, Ebeltoft,2200000 ,30-04-2007,Alm. Salg,181,12155.0,6,2006,
 706,Villa,Vestergade 18,8550, Ryomgård,1867000 ,29-04-2007,Alm. Salg,168,11113.0,6,1929,
@@ -9282,7 +9190,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Tendrupvej 15,8543, Hornslet,1935000 ,10-02-2007,Alm. Salg,160,12094.0,3,1932,-3%
 706,Villa,Vibevej 10,8550, Ryomgård,1025000 ,09-02-2007,Alm. Salg,92,11141.0,3,1951,
 706,Villa,Søndermarken 52,8560, Kolind,485000 ,09-02-2007,Alm. Salg,250,1940.0,10,2017,
-706,Villa,Lunbakkevej 1,8400, Ebeltoft,1860000 ,08-02-2007,Alm. Salg,213,8732.0,6,1912,
 706,Villa,Vestervej 6,8544, Mørke,1695000 ,08-02-2007,Alm. Salg,116,14612.0,4,1972,
 706,Rækkehus,Engparken 21,8550, Ryomgård,123200 ,07-02-2007,Alm. Salg,79,1559.0,3,2016,
 706,Rækkehus,Engparken 19,8550, Ryomgård,111800 ,07-02-2007,Alm. Salg,77,1452.0,3,2016,
@@ -9560,7 +9467,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Nødagervej 56A,8560, Kolind,1115000 ,07-09-2006,Alm. Salg,195,5718.0,7,1962,
 706,Villa,Grønningen 9,8410, Rønde,898000 ,07-09-2006,Alm. Salg,143,6280.0,4,1973,
 706,Rækkehus,Overgårdsparken 49,8410, Rønde,450000 ,05-09-2006,Alm. Salg,117,3846.0,3,2007,
-706,Ejerlejlighed,"Adelgade 24A, 1",8400, Ebeltoft,1750000 ,05-09-2006,Alm. Salg,84,20833.0,5,1690,
 706,Villa,Adilsvej 12,8400, Ebeltoft,500000 ,05-09-2006,Alm. Salg,155,3226.0,5,2012,
 706,Rækkehus,Birkevej 27,8410, Rønde,1875000 ,04-09-2006,Alm. Salg,125,15000.0,4,1979,
 706,Villa,Strandparken 23,8400, Ebeltoft,2297000 ,04-09-2006,Alm. Salg,159,14447.0,4,2003,
@@ -9723,7 +9629,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Søparken 7,8550, Ryomgård,411950 ,02-07-2006,Alm. Salg,188,2191.0,4,2007,
 706,Rækkehus,Nedergade 5,8400, Ebeltoft,2750000 ,01-07-2006,Alm. Salg,150,18333.0,4,1855,
 706,Villa,Søndervang 40,8444, Balle,30000 ,30-06-2006,Alm. Salg,95,231.0,3,1920,
-706,Villa,Jernbanegade 24,8400, Ebeltoft,2700000 ,30-06-2006,Alm. Salg,129,20930.0,4,1960,
 706,Villa,Molsvej 58,8410, Rønde,425000 ,30-06-2006,Alm. Salg,156,2724.0,5,2014,
 706,Villa,Egsmark Høje 60,8400, Ebeltoft,1000000 ,30-06-2006,Alm. Salg,190,5263.0,4,2022,
 706,Rækkehus,Gåsebakken 47,8410, Rønde,2325000 ,29-06-2006,Alm. Salg,119,19538.0,3,2006,
@@ -10054,7 +9959,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Skovvej 54,8550, Ryomgård,534000 ,02-03-2006,Fam. Salg,70,7629.0,4,1941,
 706,Villa,Hvedevangen 56,8410, Rønde,450000 ,02-03-2006,Alm. Salg,200,2250.0,8,2007,
 706,Villa,Østergade 10,8550, Ryomgård,998000 ,02-03-2006,Alm. Salg,111,8991.0,4,1979,
-706,Villa,Solvangsvej 24,8400, Ebeltoft,2625000 ,02-03-2006,Alm. Salg,125,21000.0,4,1980,
 706,Villa,Egil Fischers Vej 3,8400, Ebeltoft,720000 ,02-03-2006,Alm. Salg,162,4444.0,7,1943,
 706,Villa,H C Andersensvej 11,8560, Kolind,1100000 ,02-03-2006,Alm. Salg,92,11957.0,3,1955,
 706,Villa,Klæbjergvej 30,8420, Knebel,3450000 ,01-03-2006,Alm. Salg,177,19492.0,5,1801,
@@ -10296,7 +10200,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Rækkehus,Hændelshøj 10,8543, Hornslet,1415000 ,20-11-2005,Alm. Salg,102,13873.0,4,1987,
 706,Villa,Smedebakken 10,8400, Ebeltoft,1095000 ,20-11-2005,Alm. Salg,115,9522.0,4,1985,
 706,Villa,Majgårdsvej 3,8400, Ebeltoft,1935000 ,19-11-2005,Alm. Salg,131,14771.0,4,2003,
-706,Villa,Villershøj 1A,8400, Ebeltoft,2250000 ,19-11-2005,Fam. Salg,165,13636.0,6,1932,
 706,Villa,Baunevænget 9,8410, Rønde,2650000 ,19-11-2005,Alm. Salg,183,14481.0,5,1974,
 706,Villa,Bøgeslugten 16,8400, Ebeltoft,2100000 ,19-11-2005,Alm. Salg,154,13636.0,6,1986,
 706,Villa,Ballevej 2,8400, Ebeltoft,600000 ,18-11-2005,Alm. Salg,300,2000.0,6,1907,
@@ -10522,10 +10425,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Skelhøjvej 1,8543, Hornslet,3035000 ,05-09-2005,Alm. Salg,170,17853.0,6,1988,
 706,Villa,Århusvej 17,8400, Ebeltoft,700000 ,05-09-2005,Alm. Salg,201,3483.0,5,1946,
 706,Villa,Adilsvej 30,8400, Ebeltoft,375000 ,05-09-2005,Alm. Salg,133,2820.0,5,2006,
-706,Ejerlejlighed,Storkhøjevej 15,8400, Ebeltoft,565913 ,04-09-2005,Alm. Salg,205,2761.0,5,1974,
 706,Villa,Tornskadevej 54,8400, Ebeltoft,895000 ,04-09-2005,Alm. Salg,106,8443.0,4,1980,
-706,Villa,Skolegyde 10,8544, Mørke,1485000 ,04-09-2005,Alm. Salg,316,4699.0,8,1907,
-706,Villa,Storkhøjevej 15,8400, Ebeltoft,565913 ,04-09-2005,Alm. Salg,375,1509.0,10,1974,
 706,Rækkehus,Birkevej 25,8410, Rønde,688500 ,01-09-2005,Fam. Salg,125,5508.0,4,1978,
 706,Villa,Brunmosevej 1,8550, Ryomgård,640000 ,01-09-2005,Alm. Salg,98,6531.0,3,1910,
 706,Villa,Vestergade 28,8550, Ryomgård,1501111 ,01-09-2005,Alm. Salg,160,9382.0,3,1928,
@@ -10693,7 +10593,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Rækkehus,Søndergade 3,8400, Ebeltoft,688728 ,01-07-2005,Fam. Salg,132,5218.0,3,1852,
 706,Rækkehus,Overgade 43D,8400, Ebeltoft,1230000 ,30-06-2005,Alm. Salg,95,12947.0,4,1984,
 706,Rækkehus,Bakkevænget 25,8410, Rønde,862500 ,30-06-2005,Alm. Salg,99,8712.0,3,1998,
-706,Villa,Jernbanegade 24,8400, Ebeltoft,2150000 ,30-06-2005,Alm. Salg,129,16667.0,4,1960,
 706,Villa,Vinkelvej 16,8581, Nimtofte,390000 ,30-06-2005,Alm. Salg,170,2294.0,9,1865,
 706,Villa,Vegavej 3,8400, Ebeltoft,887962 ,30-06-2005,Andet,142,6253.0,5,1993,
 706,Villa,Nøddehegnet 9,8400, Ebeltoft,740000 ,30-06-2005,Alm. Salg,120,6167.0,3,1965,
@@ -11101,7 +11000,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Nyvej 1,8410, Rønde,1238000 ,16-02-2005,Alm. Salg,135,9170.0,4,1973,
 706,Villa,Fuglsøvej 92,8420, Knebel,2270000 ,16-02-2005,Alm. Salg,265,5470.0,11,1884,
 706,Villa,Rosenholmvej 57,8543, Hornslet,865000 ,16-02-2005,Alm. Salg,151,5728.0,4,1965,
-706,Rækkehus,Adelgade 18,8400, Ebeltoft,2300000 ,15-02-2005,Andet,122,11058.0,8,1800,
 706,Villa,Skoletoften 7,8420, Knebel,1000000 ,15-02-2005,Alm. Salg,126,7937.0,5,1965,
 706,Villa,Skovvej 27,8550, Ryomgård,525000 ,15-02-2005,Alm. Salg,90,5833.0,3,1932,
 706,Villa,Dråbydalen 3,8400, Ebeltoft,940000 ,15-02-2005,Alm. Salg,118,7966.0,5,1966,
@@ -11259,7 +11157,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Gustav Wieds Vej 4,8400, Ebeltoft,1950000 ,19-12-2004,Alm. Salg,181,10773.0,5,1985,
 706,Villa,Tendrup Møllevej 73,8543, Hornslet,437000 ,16-12-2004,Alm. Salg,125,3496.0,4,2005,
 706,Villa,Agersvinget 28,8420, Knebel,1100000 ,16-12-2004,Alm. Salg,188,5851.0,5,2001,
-706,Villa,Tingvej 7C,8543, Hornslet,1235000 ,16-12-2004,Alm. Salg,118,10466.0,4,1863,
 706,Villa,Vestre Fasanvej 33,8410, Rønde,2900000 ,15-12-2004,Alm. Salg,235,12340.0,7,1989,
 706,Villa,Rytterparken 6,8543, Hornslet,1360000 ,14-12-2004,Alm. Salg,137,9927.0,3,1975,
 706,Villa,Perlevej 18,8550, Ryomgård,850000 ,14-12-2004,Alm. Salg,110,7727.0,4,1968,
@@ -11337,7 +11234,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Mimosavej 15,8400, Ebeltoft,562000 ,17-11-2004,Andet,129,4357.0,6,1962,
 706,Villa,Vibæklund 9,8400, Ebeltoft,1450000 ,17-11-2004,Alm. Salg,205,7073.0,7,1977,
 706,Villa,Vestervej 10,8544, Mørke,1149000 ,17-11-2004,Alm. Salg,128,8977.0,4,1971,
-706,Rækkehus,Rodsøvej 5,8400, Ebeltoft,1150000 ,16-11-2004,Alm. Salg,140,8214.0,5,1969,
 706,Villa,Nygade 6,8400, Ebeltoft,2495000 ,16-11-2004,Alm. Salg,129,19341.0,4,1997,
 706,Villa,Løgtenvej 11,8543, Hornslet,700000 ,16-11-2004,Alm. Salg,254,2756.0,7,1947,
 706,Villa,Marienholtvej 7,8550, Ryomgård,830000 ,16-11-2004,Alm. Salg,342,2427.0,6,1910,
@@ -11346,7 +11242,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Rolighedsvej 2,8400, Ebeltoft,1385000 ,16-11-2004,Alm. Salg,160,8656.0,5,1969,
 706,Villa,Stabrandvej 25,8560, Kolind,388000 ,16-11-2004,Alm. Salg,117,3316.0,4,1900,
 706,Villa,Hybenvej 1,8543, Hornslet,1570000 ,16-11-2004,Alm. Salg,106,14811.0,5,1958,
-706,Villa,Ndr. Strandvej 68,8400, Ebeltoft,1150000 ,16-11-2004,Alm. Salg,97,11856.0,4,1960,
 706,Villa,Kornvangen 21,8400, Ebeltoft,1650000 ,15-11-2004,Alm. Salg,124,13306.0,5,1990,
 706,Villa,Havevej 16,8543, Hornslet,1050000 ,14-11-2004,Alm. Salg,128,8203.0,4,1963,
 706,Villa,Østergårdsparken 2,8410, Rønde,775000 ,14-11-2004,Alm. Salg,225,3444.0,5,2009,
@@ -11856,8 +11751,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Helshøjvej 1,8410, Rønde,620500 ,06-04-2004,Fam. Salg,128,4848.0,4,1950,
 706,Villa,Tendrup Hovvej 18,8543, Hornslet,1175000 ,05-04-2004,Alm. Salg,109,10780.0,3,1959,
 706,Villa,Bøgevej 14,8550, Ryomgård,1165000 ,05-04-2004,Alm. Salg,182,6401.0,6,1975,
-706,Rækkehus,Thorsgade 52A,8410, Rønde,550000 ,04-04-2004,Alm. Salg,75,7333.0,3,1907,
-706,Ejerlejlighed,"Thorsgade 52B, 1",8410, Rønde,550000 ,04-04-2004,Alm. Salg,50,11000.0,2,1907,
 706,Villa,Fuglsangsalle 5,8410, Rønde,800000 ,04-04-2004,Alm. Salg,129,6202.0,4,1965,
 706,Villa,Vesterskovgårdsvej 35B,8544, Mørke,680000 ,04-04-2004,Alm. Salg,93,7312.0,3,1985,
 706,Villa,Kastanievej 6,8550, Ryomgård,995000 ,04-04-2004,Alm. Salg,145,6862.0,4,1974,
@@ -12283,8 +12176,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Ellevvej 4,8410, Rønde,1251400 ,01-09-2003,Fam. Salg,210,5959.0,7,2017,
 706,Villa,Rughaven 22,8410, Rønde,979000 ,01-09-2003,Alm. Salg,132,7417.0,4,1975,
 706,Rækkehus,Rosenholmvej 54,8543, Hornslet,575000 ,31-08-2003,Fam. Salg,68,8456.0,4,1902,
-706,Ejerlejlighed,"Erik Menveds Vej 19, 1",8400, Ebeltoft,1052335 ,31-08-2003,Alm. Salg,66,15944.0,2,1961,
-706,Villa,"Jernbanegade 26, 1",8400, Ebeltoft,1052335 ,31-08-2003,Alm. Salg,83,12679.0,3,1961,
 706,Villa,Kraghøjvej 10,8560, Kolind,445000 ,31-08-2003,Fam. Salg,213,2089.0,5,1930,
 706,Villa,Møllevej 6A,8581, Nimtofte,750000 ,31-08-2003,Alm. Salg,218,3440.0,9,1911,
 706,Villa,Toftevej 4,8550, Ryomgård,650000 ,31-08-2003,Alm. Salg,108,6019.0,3,1953,
@@ -12379,7 +12270,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Hovedgaden 37,8544, Mørke,669000 ,18-07-2003,Alm. Salg,113,5920.0,6,1902,
 706,Villa,Floravej 16,8400, Ebeltoft,850000 ,18-07-2003,Fam. Salg,109,7798.0,5,1979,
 706,Villa,Stationsvej 53,8410, Rønde,900000 ,17-07-2003,Alm. Salg,156,5769.0,5,1972,
-706,Villa,Jernbanegade 24,8400, Ebeltoft,1500000 ,17-07-2003,Alm. Salg,129,11628.0,4,1960,
 706,Villa,Ebdrupvej 24,8560, Kolind,442028 ,17-07-2003,Alm. Salg,192,2302.0,4,1900,
 706,Villa,Solvangsvej 22,8400, Ebeltoft,1480000 ,17-07-2003,Alm. Salg,125,11840.0,4,1983,
 706,Villa,Knudshøjvej 6,8420, Knebel,270000 ,17-07-2003,Fam. Salg,180,1500.0,7,1900,
@@ -12463,10 +12353,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Granvej 7,8400, Ebeltoft,1750000 ,18-06-2003,Alm. Salg,242,7231.0,6,1993,
 706,Villa,Violvej 1,8400, Ebeltoft,1235000 ,17-06-2003,Alm. Salg,144,8576.0,5,1968,
 706,Villa,Bispemosevej 12,8444, Balle,595000 ,17-06-2003,Alm. Salg,133,4474.0,4,1946,
-706,Ejerlejlighed,"Frederiks Alle 22, 1",8410, Rønde,755000 ,15-06-2003,Andet,57,13246.0,2,1910,
 706,Villa,Nauhøjvej 5,8410, Rønde,875000 ,15-06-2003,Alm. Salg,116,7543.0,5,1965,
 706,Villa,Ringsøvej 8,8550, Ryomgård,500000 ,15-06-2003,Alm. Salg,125,4000.0,4,1940,
-706,Villa,Frederiks Alle 22,8410, Rønde,755000 ,15-06-2003,Andet,112,6741.0,4,1910,
 706,Villa,Dagstrupvej 29,8544, Mørke,1100000 ,15-06-2003,Alm. Salg,172,6395.0,4,1923,
 706,Villa,Strandparken 65,8410, Rønde,843375 ,15-06-2003,Alm. Salg,192,4393.0,5,2005,
 706,Villa,Solbakken 24,8410, Rønde,1180000 ,15-06-2003,Alm. Salg,150,7867.0,4,1972,
@@ -12509,8 +12397,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,K L Knudsensvej 10,8550, Ryomgård,152521 ,22-05-2003,Alm. Salg,125,1220.0,4,2004,
 706,Villa,Dråby Søvej 13,8400, Ebeltoft,1675000 ,22-05-2003,Alm. Salg,169,9911.0,5,1906,
 706,Villa,Skolevej 31A,8410, Rønde,835000 ,21-05-2003,Alm. Salg,116,7198.0,3,1964,
-706,Rækkehus,Grenåvej 7A,8410, Rønde,785000 ,19-05-2003,Alm. Salg,100,7850.0,6,1810,
-706,Ejerlejlighed,Grenåvej 7C,8410, Rønde,785000 ,19-05-2003,Alm. Salg,78,10064.0,4,1810,
 706,Villa,Balevej 21,8544, Mørke,1550000 ,19-05-2003,Alm. Salg,138,11232.0,4,1966,
 706,Villa,Vagtelvej 51,8560, Kolind,1220000 ,18-05-2003,Alm. Salg,242,5041.0,7,1976,
 706,Villa,Eg Bygade 8,8420, Knebel,960000 ,18-05-2003,Alm. Salg,251,3825.0,8,1848,
@@ -12621,7 +12507,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Skovhøjen 3,8400, Ebeltoft,1787500 ,30-03-2003,Alm. Salg,208,8594.0,8,1975,
 706,Villa,Gåsebakken 12,8410, Rønde,378000 ,30-03-2003,Alm. Salg,169,2237.0,5,2004,
 706,Villa,Hyrdedalen 9,8400, Ebeltoft,264200 ,30-03-2003,Alm. Salg,130,2032.0,5,2003,
-706,Villa,Strandgårdshøj 68,8400, Ebeltoft,1100000 ,27-03-2003,Alm. Salg,137,8029.0,4,1961,
 706,Villa,Syrenvej 6,8550, Ryomgård,485000 ,27-03-2003,Alm. Salg,85,5706.0,3,1943,
 706,Villa,Søkjersvej 16,8400, Ebeltoft,440000 ,27-03-2003,Alm. Salg,88,5000.0,5,1778,
 706,Rækkehus,Ballesvej 73B,8543, Hornslet,960142 ,26-03-2003,Alm. Salg,88,10911.0,3,1997,
@@ -12826,11 +12711,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Reberbanen 10,8400, Ebeltoft,560000 ,02-12-2002,Alm. Salg,447,1253.0,7,2005,
 706,Villa,Nørreport 14,8400, Ebeltoft,850000 ,02-12-2002,Alm. Salg,130,6538.0,5,1927,
 706,Rækkehus,Lamavej 5B,8400, Ebeltoft,642384 ,01-12-2002,Fam. Salg,85,7557.0,4,1988,
-706,Ejerlejlighed,Storkhøjevej 15,8400, Ebeltoft,1630000 ,01-12-2002,Fam. Salg,205,7951.0,5,1974,
 706,Villa,Gyden 13,8420, Knebel,225000 ,01-12-2002,Alm. Salg,95,2368.0,3,1915,
 706,Villa,Hvedevangen 9,8410, Rønde,330000 ,01-12-2002,Alm. Salg,152,2171.0,5,2004,
 706,Villa,Øksenhøjvej 4,8544, Mørke,1095000 ,01-12-2002,Alm. Salg,227,4824.0,7,1959,
-706,Villa,Storkhøjevej 15,8400, Ebeltoft,1630000 ,01-12-2002,Fam. Salg,375,4347.0,10,1974,
 706,Villa,Asylvej 16,8420, Knebel,1395000 ,30-11-2002,Alm. Salg,240,5813.0,9,1914,
 706,Villa,Ndr. Strandvej 78,8400, Ebeltoft,1004012 ,30-11-2002,Andet,199,5045.0,6,1961,
 706,Villa,Tved Bygade 28,8420, Knebel,790489 ,28-11-2002,Alm. Salg,105,7528.0,4,1950,
@@ -12861,10 +12744,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Syrenvej 9,8550, Ryomgård,1098000 ,18-11-2002,Alm. Salg,240,4575.0,6,1955,
 706,Villa,Søkjersvej 6,8400, Ebeltoft,770000 ,18-11-2002,Alm. Salg,145,5310.0,4,1902,
 706,Villa,Lærkevej 1,8550, Ryomgård,890000 ,18-11-2002,Alm. Salg,144,6181.0,4,1973,
-706,Ejerlejlighed,"Ebeltoftvej 23, st",8544, Mørke,587500 ,17-11-2002,Fam. Salg,100,5875.0,2,1934,
 706,Villa,Fårupvej 19,8544, Mørke,1210000 ,17-11-2002,Alm. Salg,208,5817.0,8,1908,
 706,Villa,Frederiks Alle 6,8410, Rønde,1329000 ,17-11-2002,Alm. Salg,174,7638.0,5,1915,
-706,Villa,"Ebeltoftvej 23, 1",8544, Mørke,587500 ,17-11-2002,Fam. Salg,100,5875.0,4,1934,
 706,Villa,Vestergade 29,8444, Balle,650000 ,17-11-2002,Alm. Salg,146,4452.0,6,1931,
 706,Villa,Gl. Byvej 7,8420, Knebel,1400000 ,15-11-2002,Alm. Salg,143,9790.0,5,1988,
 706,Villa,Kølbakken 7,8400, Ebeltoft,700000 ,14-11-2002,Alm. Salg,106,6604.0,4,1967,
@@ -12939,10 +12820,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Herman Bangs Vej 19,8400, Ebeltoft,1295000 ,10-10-2002,Alm. Salg,147,8810.0,2,1977,
 706,Villa,Grønningen 7,8410, Rønde,550000 ,10-10-2002,Alm. Salg,101,5446.0,3,1968,
 706,Villa,Reberbanen 15,8400, Ebeltoft,1348000 ,10-10-2002,Alm. Salg,104,12962.0,4,1957,
-706,Ejerlejlighed,"Overgade 26, st. th",8400, Ebeltoft,1500000 ,09-10-2002,Alm. Salg,120,12500.0,3,1902,
-706,Ejerlejlighed,"Overgade 26, 1. mf",8400, Ebeltoft,1500000 ,09-10-2002,Alm. Salg,120,12500.0,4,1902,
-706,Ejerlejlighed,"Overgade 26, 2",8400, Ebeltoft,1500000 ,09-10-2002,Alm. Salg,90,16667.0,3,1902,
-706,Ejerlejlighed,Villadsgyde 1,8400, Ebeltoft,1500000 ,09-10-2002,Alm. Salg,91,16484.0,1,1902,
 706,Villa,Hvidebrovej 6,8550, Ryomgård,1150000 ,09-10-2002,Alm. Salg,153,7516.0,6,1890,
 706,Villa,Strandparken 7,8410, Rønde,381375 ,09-10-2002,Alm. Salg,199,1916.0,6,2004,
 706,Villa,Strandparken 61,8410, Rønde,606375 ,09-10-2002,Alm. Salg,221,2744.0,7,2004,
@@ -13039,9 +12916,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Vibæklund 6,8400, Ebeltoft,465000 ,30-08-2002,Alm. Salg,105,4429.0,4,2009,
 706,Villa,Lykkesholmvej 8,8444, Balle,527000 ,29-08-2002,Fam. Salg,120,4392.0,4,1965,
 706,Villa,Tjørnevej 45,8543, Hornslet,360000 ,29-08-2002,Alm. Salg,212,1698.0,4,2003,
-706,Ejerlejlighed,"Søkjersvej 21A, 1",8400, Ebeltoft,965000 ,28-08-2002,Andet,115,8391.0,4,1953,
 706,Villa,Skansebakken 22,8400, Ebeltoft,1460000 ,28-08-2002,Alm. Salg,196,7449.0,5,1972,
-706,Villa,Søkjersvej 21,8400, Ebeltoft,965000 ,28-08-2002,Andet,95,10158.0,4,1953,
 706,Villa,Sivestedvej 40,8560, Kolind,422107 ,28-08-2002,Alm. Salg,198,2132.0,7,1918,
 706,Villa,Ved Fredskoven 7,8400, Ebeltoft,1300000 ,28-08-2002,Alm. Salg,172,7558.0,6,1877,
 706,Villa,Rolighedsvej 7,8410, Rønde,525000 ,28-08-2002,Alm. Salg,147,3571.0,5,1945,
@@ -13327,8 +13202,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Stilbjergvej 4,8420, Knebel,845000 ,16-04-2002,Alm. Salg,140,6036.0,5,1975,
 706,Villa,Søndergade 9,8400, Ebeltoft,2100652 ,16-04-2002,Alm. Salg,246,8539.0,6,1967,
 706,Villa,Skolevej 25,8410, Rønde,1114122 ,15-04-2002,Alm. Salg,119,9362.0,4,1957,
-706,Rækkehus,"Maarupvej 8, 1",8560, Kolind,546000 ,14-04-2002,Alm. Salg,72,7583.0,2,1937,
-706,Ejerlejlighed,"Maarupvej 8, st",8560, Kolind,546000 ,14-04-2002,Alm. Salg,72,7583.0,2,1937,
 706,Villa,Hyllested Bygade 2,8400, Ebeltoft,848000 ,14-04-2002,Alm. Salg,161,5267.0,6,1936,
 706,Villa,Fuglevænget 3,8543, Hornslet,1375000 ,14-04-2002,Alm. Salg,203,6773.0,5,1975,
 706,Villa,Sønderskovvej 3,8543, Hornslet,309166 ,14-04-2002,Alm. Salg,130,2378.0,5,1912,
@@ -13462,10 +13335,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Rækkehus,Toften 15,8400, Ebeltoft,897299 ,01-02-2002,Alm. Salg,85,10556.0,3,1979,
 706,Villa,Svinget 9,8400, Ebeltoft,3300000 ,01-02-2002,Alm. Salg,235,14043.0,8,1938,
 706,Villa,H C Andersensvej 18,8560, Kolind,650000 ,31-01-2002,Alm. Salg,103,6311.0,4,1945,
-706,Ejerlejlighed,"Frederiks Alle 22, 1",8410, Rønde,650000 ,30-01-2002,Alm. Salg,57,11404.0,2,1910,
 706,Villa,Søndermarken 87,8560, Kolind,514605 ,30-01-2002,Alm. Salg,213,2416.0,8,1986,
 706,Villa,Søndermarken 103,8560, Kolind,1420000 ,30-01-2002,Alm. Salg,158,8987.0,6,1998,
-706,Villa,Frederiks Alle 22,8410, Rønde,650000 ,30-01-2002,Alm. Salg,112,5804.0,4,1910,
 706,Rækkehus,Regnbuen 24,8400, Ebeltoft,1125000 ,29-01-2002,Alm. Salg,107,10514.0,3,1998,
 706,Villa,Stenhøjevej 9,8400, Ebeltoft,1034000 ,29-01-2002,Alm. Salg,102,10137.0,2,1820,
 706,Villa,Kløvevej 30,8544, Mørke,798000 ,29-01-2002,Alm. Salg,117,6821.0,3,1971,
@@ -13474,9 +13345,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Vinkelvej 11,8544, Mørke,1074000 ,27-01-2002,Alm. Salg,157,6841.0,5,1958,
 706,Villa,Brunmosevej 1,8550, Ryomgård,237059 ,26-01-2002,Alm. Salg,98,2419.0,3,1910,
 706,Villa,Multebærvej 30,8410, Rønde,275000 ,24-01-2002,Alm. Salg,149,1846.0,5,2004,
-706,Ejerlejlighed,"Slotsvej 4, st",8543, Hornslet,1497118 ,23-01-2002,Alm. Salg,82,18258.0,4,1880,
-706,Ejerlejlighed,"Slotsvej 4, 1",8543, Hornslet,1497118 ,23-01-2002,Alm. Salg,128,11696.0,4,1880,
-706,Ejerlejlighed,Rosenholmvej 109,8543, Hornslet,1497118 ,23-01-2002,Alm. Salg,121,12373.0,5,1840,
 706,Villa,Bøjstrupvej 18,8550, Ryomgård,400000 ,23-01-2002,Alm. Salg,183,2186.0,5,1912,
 706,Villa,Ramtenvej 32,8581, Nimtofte,680000 ,23-01-2002,Andet,167,4072.0,6,1978,
 706,Villa,Hyacintvej 14,8543, Hornslet,675000 ,21-01-2002,Alm. Salg,202,3342.0,6,1889,
@@ -14099,9 +13967,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Planetvej 25,8400, Ebeltoft,1500000 ,06-03-2001,Alm. Salg,116,12931.0,4,2001,
 706,Villa,Poppelvej 3,8550, Ryomgård,770000 ,06-03-2001,Alm. Salg,127,6063.0,4,1972,
 706,Villa,Toften 14,8410, Rønde,1616000 ,06-03-2001,Alm. Salg,188,8596.0,6,2001,
-706,Ejerlejlighed,"Sønderholmvej 15, st",8543, Hornslet,1210000 ,05-03-2001,Alm. Salg,65,18615.0,3,1902,
-706,Ejerlejlighed,"Sønderholmvej 15, 1",8543, Hornslet,1210000 ,05-03-2001,Alm. Salg,65,18615.0,3,1902,
-706,Ejerlejlighed,Lindåvej 15,8543, Hornslet,1210000 ,05-03-2001,Alm. Salg,128,9453.0,5,1902,
 706,Villa,Primulavej 5,8400, Ebeltoft,1220000 ,05-03-2001,Alm. Salg,159,7673.0,5,1969,
 706,Villa,Dalgårdsparken 74,8543, Hornslet,1595000 ,05-03-2001,Alm. Salg,141,11312.0,5,1996,
 706,Villa,Ballevej 10,8400, Ebeltoft,730410 ,03-03-2001,Alm. Salg,193,3785.0,5,1907,
@@ -14180,9 +14045,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Birkevej 20,8543, Hornslet,970000 ,19-01-2001,Fam. Salg,113,8584.0,4,1965,
 706,Villa,Skovsvinget 17,8543, Hornslet,1089588 ,17-01-2001,Alm. Salg,142,7673.0,7,1967,
 706,Villa,Pederstrup Bygade 8,8560, Kolind,430000 ,17-01-2001,Fam. Salg,98,4388.0,3,1964,
-706,Rækkehus,Kirkevej 5B,8410, Rønde,780000 ,16-01-2001,Fam. Salg,114,6842.0,4,1855,
 706,Rækkehus,Torngårdsparken 29,8543, Hornslet,1049000 ,16-01-2001,Alm. Salg,106,9896.0,4,1988,
-706,Ejerlejlighed,Kirkevej 5A,8410, Rønde,780000 ,16-01-2001,Fam. Salg,121,6446.0,5,1855,
 706,Villa,Mågevej 1,8410, Rønde,400000 ,16-01-2001,Fam. Salg,230,1739.0,4,0,
 706,Villa,Ebeltoftvej 123,8544, Mørke,450000 ,16-01-2001,Fam. Salg,164,2744.0,3,1920,
 706,Villa,Balevej 57,8544, Mørke,285655 ,15-01-2001,Alm. Salg,95,3007.0,4,1930,
@@ -14374,9 +14237,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Asgilhøjevej 39,8420, Knebel,970178 ,05-10-2000,Andet,142,6832.0,6,1916,
 706,Villa,Skiffardvej 5,8560, Kolind,475000 ,04-10-2000,Alm. Salg,144,3299.0,7,1880,
 706,Villa,Hulvejen 11,8543, Hornslet,302115 ,04-10-2000,Alm. Salg,65,4648.0,4,1906,
-706,Ejerlejlighed,"Vestergade 19, 1",8550, Ryomgård,600000 ,03-10-2000,Alm. Salg,70,8571.0,2,1934,
 706,Villa,Fuglevænget 91,8543, Hornslet,1225000 ,03-10-2000,Alm. Salg,184,6658.0,6,1976,
-706,Villa,"Vestergade 19, st",8550, Ryomgård,600000 ,03-10-2000,Alm. Salg,137,4380.0,4,1934,
 706,Villa,Gåsebakken 19,8410, Rønde,378000 ,03-10-2000,Alm. Salg,152,2487.0,6,2002,
 706,Villa,Hirsevangen 10,8400, Ebeltoft,275000 ,02-10-2000,Alm. Salg,110,2500.0,3,2003,
 706,Villa,Maarupvej 50,8560, Kolind,101000 ,02-10-2000,Auktion,178,567.0,6,1877,
@@ -14737,7 +14598,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Landevejen 51A,8543, Hornslet,1007594 ,29-04-2000,Alm. Salg,147,6854.0,4,1955,
 706,Villa,Havhusevej 17,8410, Rønde,661806 ,28-04-2000,Alm. Salg,150,4412.0,4,2004,
 706,Villa,Gl. Kærvej 6,8400, Ebeltoft,1300000 ,27-04-2000,Alm. Salg,212,6132.0,5,1967,
-706,Rækkehus,Ebeltoftvej 21B,8544, Mørke,520000 ,26-04-2000,Alm. Salg,102,5098.0,2,1900,
 706,Villa,Ellemandsvej 4,8420, Knebel,600000 ,26-04-2000,Alm. Salg,156,3846.0,5,1880,
 706,Villa,Skansevej 11,8400, Ebeltoft,838000 ,26-04-2000,Alm. Salg,167,5018.0,5,1964,
 706,Villa,Ternevej 9,8544, Mørke,1044000 ,25-04-2000,Alm. Salg,173,6035.0,7,1965,
@@ -14820,10 +14680,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Solbakken 10,8550, Ryomgård,658887 ,21-03-2000,Alm. Salg,113,5831.0,7,1954,
 706,Villa,Holmensvej 15,8400, Ebeltoft,215000 ,20-03-2000,Alm. Salg,122,1762.0,6,2001,
 706,Villa,Solskrænten 50B,8410, Rønde,1425744 ,20-03-2000,Alm. Salg,254,5613.0,6,1972,
-706,Ejerlejlighed,"Ballevej 32, 1",8400, Ebeltoft,559619 ,19-03-2000,Alm. Salg,81,6909.0,5,1927,
 706,Ejerlejlighed,Birkevej 41D,8410, Rønde,998000 ,19-03-2000,Alm. Salg,106,9415.0,3,2000,
 706,Ejerlejlighed,"Tingvej 15A, 1",8543, Hornslet,881000 ,19-03-2000,Alm. Salg,111,7937.0,3,1982,
-706,Villa,"Ballevej 32, st",8400, Ebeltoft,559619 ,19-03-2000,Alm. Salg,196,2855.0,5,1927,
 706,Villa,Rytterparken 88,8543, Hornslet,840000 ,19-03-2000,Alm. Salg,83,10120.0,3,1986,
 706,Villa,Park Alle 9,8550, Ryomgård,1254044 ,19-03-2000,Alm. Salg,175,7166.0,8,1953,
 706,Villa,Trøstmosen 14,8543, Hornslet,1247746 ,19-03-2000,Alm. Salg,125,9982.0,5,1986,
@@ -15790,7 +15648,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Nyvang 2A,8400, Ebeltoft,756000 ,04-01-1999,Alm. Salg,146,5178.0,5,1954,
 706,Villa,Kelstrupvej 19,8560, Kolind,621000 ,04-01-1999,Alm. Salg,218,2849.0,6,1910,
 706,Rækkehus,Æblehaven 40,8543, Hornslet,1025000 ,28-12-1998,Alm. Salg,107,9579.0,4,1988,
-706,Villa,Jernbanegade 24,8400, Ebeltoft,1357000 ,28-12-1998,Alm. Salg,129,10519.0,4,1960,
 706,Villa,Estrupvej 9,8543, Hornslet,648000 ,28-12-1998,Alm. Salg,184,3522.0,5,1967,
 706,Villa,Skovgårdevej 13,8420, Knebel,974000 ,27-12-1998,Alm. Salg,150,6493.0,4,1867,
 706,Villa,Kollerup Sti 9,8400, Ebeltoft,489000 ,27-12-1998,Alm. Salg,148,3304.0,4,1958,
@@ -15804,17 +15661,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Skolevej 17,8550, Ryomgård,875000 ,21-12-1998,Alm. Salg,147,5952.0,5,1979,
 706,Villa,Trøstmosen 12,8543, Hornslet,1083111 ,21-12-1998,Alm. Salg,108,10029.0,4,1988,
 706,Rækkehus,Ballesvej 75,8543, Hornslet,720000 ,20-12-1998,Alm. Salg,74,9730.0,2,1997,
-706,Ejerlejlighed,"Borupvej 11, 1",8543, Hornslet,1000000 ,20-12-1998,Alm. Salg,114,8772.0,5,2000,
 706,Villa,Teglmosevej 1,8544, Mørke,488364 ,20-12-1998,Alm. Salg,153,3192.0,5,1890,
 706,Villa,Hovedgaden 1,8410, Rønde,474760 ,20-12-1998,Alm. Salg,94,5051.0,4,1900,
 706,Villa,Bygvænget 2,8544, Mørke,535000 ,20-12-1998,Fam. Salg,156,3429.0,4,1967,
 706,Villa,Fyrreslugten 32,8400, Ebeltoft,309000 ,20-12-1998,Alm. Salg,189,1635.0,6,2003,
-706,Villa,Borupvej 11A,8543, Hornslet,1000000 ,20-12-1998,Alm. Salg,105,9524.0,3,2000,
-706,Ejerlejlighed,"Overgade 26, st. th",8400, Ebeltoft,1250000 ,17-12-1998,Andet,120,10417.0,3,1902,
-706,Ejerlejlighed,"Overgade 26, 1. mf",8400, Ebeltoft,1250000 ,17-12-1998,Andet,120,10417.0,4,1902,
-706,Ejerlejlighed,"Overgade 26, 2",8400, Ebeltoft,1250000 ,17-12-1998,Andet,90,13889.0,3,1902,
-706,Ejerlejlighed,"Villadsgyde 1, 1",8400, Ebeltoft,1250000 ,17-12-1998,Andet,70,17857.0,2,1902,
-706,Ejerlejlighed,Villadsgyde 1,8400, Ebeltoft,1250000 ,17-12-1998,Andet,91,13736.0,1,1902,
 706,Villa,Tornskadevej 46,8400, Ebeltoft,420000 ,17-12-1998,Alm. Salg,138,3043.0,4,1980,
 706,Villa,Bykrogen 12,8420, Knebel,403000 ,16-12-1998,Alm. Salg,87,4632.0,3,1877,
 706,Villa,Nørrehaldvej 2,8400, Ebeltoft,650000 ,16-12-1998,Alm. Salg,96,6771.0,3,1961,
@@ -15979,8 +15829,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Ravnhøjvej 21,8543, Hornslet,1241000 ,06-10-1998,Alm. Salg,188,6601.0,6,1989,
 706,Villa,Vestre Fasanvej 37,8410, Rønde,1509000 ,06-10-1998,Alm. Salg,141,8825.0,8,1973,
 706,Rækkehus,Karetmagerstien 13,8400, Ebeltoft,1125700 ,05-10-1998,Alm. Salg,108,10423.0,4,1988,
-706,Ejerlejlighed,Adelgade 62A,8400, Ebeltoft,2631000 ,05-10-1998,Alm. Salg,125,21048.0,3,1775,
-706,Ejerlejlighed,Nytorv 2,8400, Ebeltoft,2631000 ,05-10-1998,Alm. Salg,127,20717.0,2,1775,
 706,Villa,Majgårdsvej 3,8400, Ebeltoft,458000 ,05-10-1998,Alm. Salg,131,3496.0,4,2003,
 706,Villa,Havrevangen 1,8400, Ebeltoft,65000 ,05-10-1998,Alm. Salg,120,542.0,3,1998,
 706,Villa,Horstvedvej 24,8560, Kolind,499893 ,05-10-1998,Alm. Salg,157,3184.0,5,1921,
@@ -16076,11 +15924,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Trøstmosen 22,8543, Hornslet,886363 ,26-08-1998,Alm. Salg,121,7325.0,4,1986,
 706,Villa,Thorsgade 58F,8410, Rønde,866000 ,26-08-1998,Alm. Salg,126,6873.0,4,1981,
 706,Villa,Skolevej 25,8410, Rønde,407620 ,25-08-1998,Alm. Salg,119,3425.0,4,1957,
-706,Ejerlejlighed,"Overgade 26, st. th",8400, Ebeltoft,1250000 ,24-08-1998,Alm. Salg,120,10417.0,3,1902,
-706,Ejerlejlighed,"Overgade 26, 1. mf",8400, Ebeltoft,1250000 ,24-08-1998,Alm. Salg,120,10417.0,4,1902,
-706,Ejerlejlighed,"Overgade 26, 2",8400, Ebeltoft,1250000 ,24-08-1998,Alm. Salg,90,13889.0,3,1902,
-706,Ejerlejlighed,"Villadsgyde 1, 1",8400, Ebeltoft,1250000 ,24-08-1998,Alm. Salg,70,17857.0,2,1902,
-706,Ejerlejlighed,Villadsgyde 1,8400, Ebeltoft,1250000 ,24-08-1998,Alm. Salg,91,13736.0,1,1902,
 706,Villa,Thorsagervej 9,8550, Ryomgård,411000 ,24-08-1998,Alm. Salg,100,4110.0,5,1873,
 706,Villa,Overgade 49,8400, Ebeltoft,490486 ,24-08-1998,Alm. Salg,44,11147.0,4,1903,
 706,Villa,Gl. Krovej 6,8420, Knebel,1517843 ,24-08-1998,Alm. Salg,154,9856.0,6,1971,
@@ -16220,7 +16063,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Sønderholmvej 21,8543, Hornslet,714603 ,29-06-1998,Alm. Salg,160,4466.0,5,1964,
 706,Villa,Jens Baggesens Vej 13,8400, Ebeltoft,1185091 ,29-06-1998,Alm. Salg,220,5387.0,6,1980,
 706,Rækkehus,Torngårdsparken 30,8543, Hornslet,842000 ,28-06-1998,Alm. Salg,106,7943.0,4,1988,
-706,Villa,Villershøj 1A,8400, Ebeltoft,1370000 ,28-06-1998,Alm. Salg,165,8303.0,6,1932,
 706,Villa,Voldumvej 1,8543, Hornslet,400000 ,28-06-1998,Alm. Salg,100,4000.0,2,1885,
 706,Villa,Vinkelvej 3A,8581, Nimtofte,500000 ,28-06-1998,Alm. Salg,190,2632.0,8,1875,
 706,Villa,Solvangsvej 23,8544, Mørke,231804 ,28-06-1998,Andet,167,1388.0,5,1999,
@@ -17019,8 +16861,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Plantagen 9,8400, Ebeltoft,1207000 ,17-08-1997,Alm. Salg,155,7787.0,6,1997,
 706,Villa,Grimsvej 1,8400, Ebeltoft,882000 ,15-08-1997,Alm. Salg,98,9000.0,6,1964,
 706,Rækkehus,L. Jørgensens Alle 6,8410, Rønde,100000 ,14-08-1997,Alm. Salg,47,2128.0,2,1947,
-706,Rækkehus,Adelgade 18,8400, Ebeltoft,1850000 ,14-08-1997,Alm. Salg,122,8894.0,8,1800,
-706,Ejerlejlighed,"Adelgade 16A, 1",8400, Ebeltoft,1850000 ,14-08-1997,Alm. Salg,96,19271.0,4,1964,
 706,Villa,Porskærvej 52,8420, Knebel,360000 ,14-08-1997,Fam. Salg,161,2236.0,7,1870,
 706,Villa,Molsvej 14,8410, Rønde,525000 ,14-08-1997,Alm. Salg,118,4449.0,6,1925,
 706,Villa,Skansebakken 8,8400, Ebeltoft,1098000 ,14-08-1997,Alm. Salg,174,6310.0,5,1973,
@@ -17044,7 +16884,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Stejlbjerg 16,8543, Hornslet,960000 ,10-08-1997,Alm. Salg,119,8067.0,4,1984,
 706,Villa,Humlevej 7,8543, Hornslet,1171404 ,10-08-1997,Alm. Salg,159,7367.0,5,1989,
 706,Villa,Havvej 21,8420, Knebel,2000000 ,10-08-1997,Alm. Salg,325,6154.0,5,2004,
-706,Villa,Kystvejen 51C,8400, Ebeltoft,1300000 ,10-08-1997,Alm. Salg,86,15116.0,2,1934,
 706,Rækkehus,Rosenholmvej 56,8543, Hornslet,780000 ,09-08-1997,Alm. Salg,140,5571.0,5,1900,
 706,Villa,Agersvinget 15,8420, Knebel,214289 ,09-08-1997,Fam. Salg,125,1714.0,4,1979,
 706,Villa,Rosenholmvej 72,8543, Hornslet,749000 ,09-08-1997,Alm. Salg,113,6628.0,5,1959,
@@ -17576,7 +17415,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Multebærvej 19,8410, Rønde,219000 ,08-02-1997,Alm. Salg,133,1647.0,4,1997,
 706,Villa,Majsvangen 16,8400, Ebeltoft,130000 ,07-02-1997,Alm. Salg,148,878.0,5,1998,
 706,Villa,Solbakkevej 11,8550, Ryomgård,594999 ,07-02-1997,Alm. Salg,220,2705.0,4,1950,
-706,Villa,Villershøj 1A,8400, Ebeltoft,1078000 ,06-02-1997,Fam. Salg,165,6533.0,6,1932,
 706,Villa,Multebærvej 26,8410, Rønde,269000 ,06-02-1997,Alm. Salg,150,1793.0,8,2002,
 706,Villa,Toftevej 5,8400, Ebeltoft,966000 ,05-02-1997,Alm. Salg,151,6397.0,6,1986,
 706,Villa,Glismosevej 7,8544, Mørke,518500 ,05-02-1997,Alm. Salg,175,2963.0,6,1920,
@@ -17598,19 +17436,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Østre Fasanvej 33,8410, Rønde,185000 ,30-01-1997,Alm. Salg,210,881.0,5,1998,
 706,Villa,Skovgårdevej 29,8420, Knebel,722500 ,30-01-1997,Fam. Salg,292,2474.0,13,1954,
 706,Villa,Nyballevej 17,8444, Balle,468000 ,30-01-1997,Alm. Salg,88,5318.0,3,1948,
-706,Ejerlejlighed,"Jomfru Gundersvej 2A, 1. 5",8544, Mørke,638300 ,29-01-1997,Alm. Salg,63,10132.0,2,1900,
-706,Ejerlejlighed,"Nørreled 28B, 1. th",8544, Mørke,638300 ,29-01-1997,Alm. Salg,73,8744.0,4,1900,
-706,Ejerlejlighed,"Nørreled 28D, st. 3",8544, Mørke,638300 ,29-01-1997,Alm. Salg,60,10638.0,3,1900,
-706,Ejerlejlighed,"Nørreled 28A, st",8544, Mørke,638300 ,29-01-1997,Alm. Salg,80,7979.0,3,1900,
-706,Ejerlejlighed,"Jomfru Gundersvej 2A, 1. 4",8544, Mørke,638300 ,29-01-1997,Alm. Salg,60,10638.0,2,1900,
-706,Ejerlejlighed,"Jomfru Gundersvej 2A, 1. 1",8544, Mørke,638300 ,29-01-1997,Alm. Salg,68,9387.0,1,1900,
-706,Ejerlejlighed,"Jomfru Gundersvej 2A, st. 1",8544, Mørke,638300 ,29-01-1997,Alm. Salg,98,6513.0,3,1900,
-706,Ejerlejlighed,"Nørreled 28B, 1. tv",8544, Mørke,638300 ,29-01-1997,Alm. Salg,64,9973.0,3,1900,
-706,Ejerlejlighed,"Jomfru Gundersvej 2A, 1. 3",8544, Mørke,638300 ,29-01-1997,Alm. Salg,57,11198.0,2,1900,
-706,Ejerlejlighed,"Nørreled 28C, st",8544, Mørke,638300 ,29-01-1997,Alm. Salg,83,7690.0,3,1900,
-706,Ejerlejlighed,"Nørreled 28D, st. 4",8544, Mørke,638300 ,29-01-1997,Alm. Salg,59,10819.0,3,1900,
-706,Ejerlejlighed,"Jomfru Gundersvej 2A, 1. 2",8544, Mørke,638300 ,29-01-1997,Alm. Salg,101,6320.0,3,1900,
-706,Ejerlejlighed,"Nørreled 28D, st. 1",8544, Mørke,638300 ,29-01-1997,Alm. Salg,98,6513.0,3,1900,
 706,Villa,Skovdalen 5,8400, Ebeltoft,1104000 ,29-01-1997,Alm. Salg,205,5385.0,3,1974,
 706,Villa,Nygårdsvænget 15,8410, Rønde,621000 ,29-01-1997,Alm. Salg,145,4283.0,5,1975,
 706,Villa,Holger Drachmanns V 22,8400, Ebeltoft,1132500 ,29-01-1997,Alm. Salg,200,5663.0,7,1976,
@@ -17736,10 +17561,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Thorsgade 13,8410, Rønde,416500 ,09-12-1996,Alm. Salg,104,4005.0,6,1934,
 706,Villa,Kløvevej 34,8544, Mørke,807503 ,09-12-1996,Alm. Salg,150,5383.0,3,1970,
 706,Villa,Parkvej 15,8544, Mørke,346788 ,09-12-1996,Fam. Salg,144,2408.0,7,1956,
-706,Rækkehus,Erantisvej 8,8400, Ebeltoft,620000 ,08-12-1996,Fam. Salg,102,6078.0,5,1988,
 706,Villa,Flintbakken 3,8410, Rønde,366811 ,08-12-1996,Alm. Salg,241,1522.0,5,1867,
 706,Villa,Gl. Mejerivej 11,8400, Ebeltoft,1418000 ,08-12-1996,Alm. Salg,376,3771.0,10,1917,
-706,Villa,Kirkegade 14,8400, Ebeltoft,620000 ,08-12-1996,Fam. Salg,103,6019.0,5,1948,
 706,Rækkehus,Ballesvej 73F,8543, Hornslet,595000 ,05-12-1996,Alm. Salg,88,6761.0,3,1997,
 706,Villa,Bygvænget 3,8544, Mørke,575000 ,04-12-1996,Alm. Salg,126,4563.0,4,1974,
 706,Villa,Nedergade 1,8400, Ebeltoft,885000 ,04-12-1996,Alm. Salg,150,5900.0,6,1900,
@@ -17827,9 +17650,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Overgade 13,8400, Ebeltoft,1150000 ,23-10-1996,Alm. Salg,199,5779.0,5,1866,
 706,Villa,Nordlyvej 40,8550, Ryomgård,650000 ,23-10-1996,Alm. Salg,140,4643.0,5,1976,
 706,Rækkehus,Villadsgyde 4,8400, Ebeltoft,402000 ,22-10-1996,Alm. Salg,57,7053.0,3,1900,
-706,Rækkehus,Lunbakkevej 1A,8400, Ebeltoft,675000 ,22-10-1996,Alm. Salg,67,10075.0,1,1927,
 706,Villa,Gærdesmuttevej 41,8400, Ebeltoft,250000 ,22-10-1996,Alm. Salg,96,2604.0,2,1973,
-706,Villa,Lunbakkevej 1,8400, Ebeltoft,675000 ,22-10-1996,Alm. Salg,213,3169.0,6,1912,
 706,Villa,Lerbakken 15,8410, Rønde,958000 ,21-10-1996,Alm. Salg,226,4239.0,7,1910,
 706,Villa,Slotsvej 40,8543, Hornslet,401630 ,21-10-1996,Alm. Salg,110,3651.0,6,1937,
 706,Villa,Planetvej 24,8400, Ebeltoft,160000 ,21-10-1996,Alm. Salg,125,1280.0,4,1998,
@@ -18047,10 +17868,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Sydvænget 5,8400, Ebeltoft,582000 ,04-08-1996,Fam. Salg,128,4547.0,4,1981,
 706,Villa,Planetvej 21,8400, Ebeltoft,396000 ,04-08-1996,Alm. Salg,162,2444.0,4,1981,
 706,Villa,Park Alle 9,8550, Ryomgård,807798 ,03-08-1996,Alm. Salg,175,4616.0,8,1953,
-706,Ejerlejlighed,"Stationsvej 7, st",8581, Nimtofte,370288 ,02-08-1996,Alm. Salg,81,4571.0,3,1900,
-706,Ejerlejlighed,"Stationsvej 7, 1",8581, Nimtofte,370288 ,02-08-1996,Alm. Salg,65,5697.0,2,1900,
-706,Ejerlejlighed,"Stationsvej 7, 2",8581, Nimtofte,370288 ,02-08-1996,Alm. Salg,76,4872.0,3,1900,
-706,Ejerlejlighed,Vinkelvej 20A,8581, Nimtofte,370288 ,02-08-1996,Alm. Salg,73,5072.0,2,1900,
 706,Villa,Tværvangen 3,8400, Ebeltoft,736068 ,01-08-1996,Alm. Salg,164,4488.0,6,1989,
 706,Villa,Mågevej 6,8544, Mørke,406158 ,31-07-1996,Fam. Salg,94,4321.0,4,1965,
 706,Villa,Digtervænget 20,8400, Ebeltoft,880000 ,31-07-1996,Alm. Salg,160,5500.0,4,1973,
@@ -18548,7 +18365,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Thorsgade 10,8410, Rønde,425000 ,15-01-1996,Alm. Salg,100,4250.0,4,1977,
 706,Rækkehus,Krokusvej 11,8400, Ebeltoft,658231 ,14-01-1996,Fam. Salg,113,5825.0,5,1985,
 706,Villa,Hjortetakvej 8,8543, Hornslet,560000 ,14-01-1996,Alm. Salg,136,4118.0,5,1971,
-706,Villa,Isgårdsvej 8,8420, Knebel,275000 ,14-01-1996,Alm. Salg,101,2723.0,5,1850,
 706,Villa,Rosenkrantzvej 8,8543, Hornslet,775000 ,14-01-1996,Alm. Salg,137,5657.0,4,1969,
 706,Villa,Strandgårdshøj 3,8400, Ebeltoft,1738000 ,14-01-1996,Alm. Salg,259,6710.0,10,1942,
 706,Villa,Bispemosevej 12,8444, Balle,349000 ,13-01-1996,Alm. Salg,133,2624.0,4,1946,
@@ -18592,11 +18408,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Skovvej 17,8543, Hornslet,1242000 ,17-12-1995,Alm. Salg,203,6118.0,7,1977,
 706,Villa,Ønbjergvej 14,8543, Hornslet,1120500 ,17-12-1995,Fam. Salg,173,6477.0,8,1996,
 706,Villa,Pederstrup Bygade 19,8560, Kolind,345000 ,17-12-1995,Alm. Salg,110,3136.0,5,1941,
-706,Ejerlejlighed,Skolegade 4,8550, Ryomgård,681317 ,14-12-1995,Alm. Salg,89,7655.0,2,1927,
-706,Ejerlejlighed,"Vestergade 23, st. th",8550, Ryomgård,681317 ,14-12-1995,Alm. Salg,45,15140.0,1,1927,
-706,Ejerlejlighed,"Vestergade 23, 1. th",8550, Ryomgård,681317 ,14-12-1995,Alm. Salg,101,6746.0,3,1927,
-706,Ejerlejlighed,"Vestergade 23, st. tv",8550, Ryomgård,681317 ,14-12-1995,Alm. Salg,62,10989.0,2,1927,
-706,Ejerlejlighed,"Vestergade 23, 1. tv",8550, Ryomgård,681317 ,14-12-1995,Alm. Salg,61,11169.0,1,1927,
 706,Villa,Sognevejen 2,8560, Kolind,595000 ,14-12-1995,Alm. Salg,195,3051.0,6,1900,
 706,Villa,Bjerg-Thomsensvej 75,8410, Rønde,1170310 ,14-12-1995,Alm. Salg,137,8542.0,6,1991,
 706,Villa,Tendrupvej 2,8543, Hornslet,281872 ,14-12-1995,Alm. Salg,100,2819.0,3,1957,
@@ -18968,16 +18779,13 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Holmbjergvej 61,8420, Knebel,438000 ,22-06-1995,Alm. Salg,54,8111.0,3,1969,
 706,Villa,Rosenvang 15,8543, Hornslet,650000 ,22-06-1995,Alm. Salg,124,5242.0,4,1965,
 706,Rækkehus,Landevejen 59B,8543, Hornslet,584000 ,21-06-1995,Alm. Salg,98,5959.0,4,1989,
-706,Villa,Jernbanegade 24,8400, Ebeltoft,822000 ,21-06-1995,Alm. Salg,129,6372.0,4,1960,
 706,Villa,Holmensvej 24,8400, Ebeltoft,240000 ,20-06-1995,Alm. Salg,105,2286.0,3,1999,
 706,Villa,Vinkelvej 1,8581, Nimtofte,415000 ,20-06-1995,Alm. Salg,104,3990.0,4,1900,
 706,Villa,Bakkevangen 12,8400, Ebeltoft,394620 ,20-06-1995,Alm. Salg,221,1786.0,6,1827,
 706,Villa,Nygårdsvænget 19,8410, Rønde,792900 ,19-06-1995,Alm. Salg,134,5917.0,4,1984,
 706,Villa,Stenagervej 34,8400, Ebeltoft,475000 ,19-06-1995,Alm. Salg,195,2436.0,7,2023,
 706,Villa,Ved Kæret 8,8400, Ebeltoft,89686 ,19-06-1995,Alm. Salg,164,547.0,5,1907,
-706,Ejerlejlighed,Tingvej 9B,8543, Hornslet,672000 ,18-06-1995,Auktion,70,9600.0,3,1912,
 706,Villa,Rolfvej 10,8400, Ebeltoft,180000 ,18-06-1995,Alm. Salg,124,1452.0,4,2011,
-706,Villa,Tingvej 9C,8543, Hornslet,672000 ,18-06-1995,Auktion,38,17684.0,1,1912,
 706,Villa,Gråkærsvej 11,8444, Balle,463000 ,18-06-1995,Alm. Salg,108,4287.0,4,1962,
 706,Villa,Vestergade 81,8550, Ryomgård,320000 ,17-06-1995,Alm. Salg,207,1546.0,6,1948,
 706,Rækkehus,Søndergade 16,8560, Kolind,325000 ,15-06-1995,Alm. Salg,91,3571.0,3,1920,
@@ -19245,12 +19053,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Nybrovej 1,8544, Mørke,148000 ,10-03-1995,Alm. Salg,125,1184.0,4,1883,
 706,Villa,Rostvedvej 10,8410, Rønde,318000 ,10-03-1995,Fam. Salg,199,1598.0,7,1850,
 706,Rækkehus,Torngårdsparken 29,8543, Hornslet,660000 ,09-03-1995,Alm. Salg,106,6226.0,4,1988,
-706,Ejerlejlighed,Skrejrupvej 15A,8410, Rønde,450000 ,09-03-1995,Alm. Salg,53,8491.0,2,1967,
-706,Ejerlejlighed,Skrejrupvej 15B,8410, Rønde,450000 ,09-03-1995,Alm. Salg,69,6522.0,2,1967,
-706,Ejerlejlighed,"Føllevej 1, st",8410, Rønde,450000 ,09-03-1995,Alm. Salg,233,1931.0,4,1950,
-706,Ejerlejlighed,"Føllevej 1, st. tv",8410, Rønde,450000 ,09-03-1995,Alm. Salg,58,7759.0,2,1950,
-706,Ejerlejlighed,"Føllevej 1, 1",8410, Rønde,450000 ,09-03-1995,Alm. Salg,112,4018.0,4,1950,
-706,Ejerlejlighed,"Skrejrupvej 15C, 1",8410, Rønde,450000 ,09-03-1995,Alm. Salg,110,4091.0,3,1967,
 706,Rækkehus,Rågevej 9,8410, Rønde,700000 ,08-03-1995,Alm. Salg,123,5691.0,4,1977,
 706,Villa,Jernbanegade 11,8550, Ryomgård,315800 ,08-03-1995,Alm. Salg,144,2193.0,4,1903,
 706,Villa,Toftevej 6,8400, Ebeltoft,650000 ,07-03-1995,Alm. Salg,179,3631.0,8,1971,
@@ -19378,7 +19180,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Rækkehus,"Rønne Alle 2A, st. tv",8410, Rønde,336852 ,02-01-1995,Fam. Salg,125,2695.0,2,1924,
 706,Villa,Lykkedalsvej 5,8544, Mørke,191389 ,02-01-1995,Fam. Salg,150,1276.0,4,1902,
 706,Rækkehus,Havbovej 12,8420, Knebel,544733 ,01-01-1995,Alm. Salg,106,5139.0,4,1981,
-706,Villa,Hovedgaden 26B,8544, Mørke,480928 ,01-01-1995,Alm. Salg,86,5592.0,2,1915,
 706,Villa,Bregnevej 10,8400, Ebeltoft,100000 ,31-12-1994,Alm. Salg,156,641.0,6,1995,
 706,Villa,Kirkegade 20,8400, Ebeltoft,1295000 ,30-12-1994,Alm. Salg,163,7945.0,5,1954,
 706,Ejerlejlighed,Toftevej 7C,8543, Hornslet,523000 ,29-12-1994,Alm. Salg,72,7264.0,2,1989,
@@ -19609,9 +19410,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Rækkehus,Rodsøvej 5,8400, Ebeltoft,538000 ,08-09-1994,Alm. Salg,140,3843.0,5,1969,
 706,Ejerlejlighed,"Hovedgaden 27C, 1. th",8410, Rønde,311000 ,08-09-1994,Alm. Salg,79,3937.0,2,1902,
 706,Villa,Skansebakken 7,8400, Ebeltoft,898000 ,08-09-1994,Alm. Salg,201,4468.0,6,1972,
-706,Rækkehus,Bjødstrupvej 5,8410, Rønde,501000 ,07-09-1994,Auktion,133,3767.0,4,1905,
 706,Villa,Auningvej 25,8544, Mørke,175000 ,07-09-1994,Alm. Salg,247,709.0,9,1850,
-706,Villa,Bjødstrupvej 5,8410, Rønde,501000 ,07-09-1994,Auktion,242,2070.0,6,1902,
 706,Villa,Floravej 12,8400, Ebeltoft,305000 ,07-09-1994,Alm. Salg,134,2276.0,6,1985,
 706,Villa,Holmbjergvej 59,8420, Knebel,389921 ,07-09-1994,Alm. Salg,131,2976.0,4,1924,
 706,Rækkehus,Ravnhøjvej 2A,8543, Hornslet,604904 ,05-09-1994,Alm. Salg,93,6504.0,3,1986,
@@ -19665,7 +19464,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Bugtrupvej 40,8560, Kolind,660000 ,15-08-1994,Alm. Salg,158,4177.0,6,1972,
 706,Villa,Ballevej 17A,8400, Ebeltoft,400000 ,14-08-1994,Alm. Salg,115,3478.0,4,1978,
 706,Villa,Smedebakken 21,8544, Mørke,390000 ,14-08-1994,Alm. Salg,128,3047.0,5,1872,
-706,Villa,Ebeltoftvej 107B,8544, Mørke,560000 ,14-08-1994,Alm. Salg,152,3684.0,6,1902,
 706,Villa,Havrebakken 10,8560, Kolind,899000 ,14-08-1994,Alm. Salg,179,5022.0,6,1972,
 706,Villa,Ballesvej 17,8543, Hornslet,777000 ,13-08-1994,Alm. Salg,146,5322.0,7,1934,
 706,Villa,Kystvejen 89,8400, Ebeltoft,4494419 ,13-08-1994,Andet,280,16051.0,4,1987,
@@ -19811,11 +19609,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Jasminvej 2,8400, Ebeltoft,630000 ,06-06-1994,Alm. Salg,168,3750.0,4,1971,
 706,Villa,Lillerupvej 6,8410, Rønde,388380 ,05-06-1994,Alm. Salg,181,2146.0,6,1962,
 706,Rækkehus,Mejerivej 14,8560, Kolind,271000 ,02-06-1994,Alm. Salg,76,3566.0,3,1939,
-706,Ejerlejlighed,"Sønderholmvej 15, st",8543, Hornslet,25000 ,02-06-1994,Alm. Salg,65,385.0,3,1902,
-706,Ejerlejlighed,"Sønderholmvej 17, st",8543, Hornslet,25000 ,02-06-1994,Alm. Salg,48,521.0,3,1902,
-706,Ejerlejlighed,"Sønderholmvej 15, 1",8543, Hornslet,25000 ,02-06-1994,Alm. Salg,65,385.0,3,1902,
-706,Ejerlejlighed,"Sønderholmvej 17, 1",8543, Hornslet,25000 ,02-06-1994,Alm. Salg,48,521.0,3,1902,
-706,Ejerlejlighed,Lindåvej 15,8543, Hornslet,25000 ,02-06-1994,Alm. Salg,128,195.0,5,1902,
 706,Villa,Hvedevej 13,8560, Kolind,475000 ,02-06-1994,Alm. Salg,114,4167.0,4,1976,
 706,Villa,Plantagen 35,8400, Ebeltoft,406500 ,02-06-1994,Andet,154,2640.0,6,1990,
 706,Villa,Kringelen 5,8560, Kolind,500000 ,01-06-1994,Alm. Salg,94,5319.0,4,1966,
@@ -19878,7 +19671,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Stokbækvej 2,8400, Ebeltoft,413317 ,30-04-1994,Alm. Salg,101,4092.0,3,1967,
 706,Villa,Sønderskovvej 4,8543, Hornslet,394383 ,30-04-1994,Alm. Salg,125,3155.0,6,1911,
 706,Villa,Violvej 1,8543, Hornslet,519324 ,28-04-1994,Alm. Salg,146,3557.0,5,1969,
-706,Villa,Adelgade 35A,8400, Ebeltoft,530000 ,27-04-1994,Fam. Salg,63,8413.0,1,1902,
 706,Villa,Solbakkevej 11,8550, Ryomgård,571561 ,27-04-1994,Alm. Salg,220,2598.0,4,1950,
 706,Villa,Kærbyvej 8,8560, Kolind,379571 ,27-04-1994,Alm. Salg,119,3190.0,3,1917,
 706,Villa,Alpevej 1,8543, Hornslet,545000 ,26-04-1994,Alm. Salg,122,4467.0,4,1954,
@@ -20048,11 +19840,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Nødagervej 17,8560, Kolind,90000 ,10-02-1994,Alm. Salg,61,1475.0,2,1827,
 706,Rækkehus,Rytterparken 26,8543, Hornslet,625000 ,09-02-1994,Alm. Salg,90,6944.0,3,1984,
 706,Villa,Vesterkærvej 28,8400, Ebeltoft,75000 ,09-02-1994,Fam. Salg,103,728.0,3,1827,
-706,Ejerlejlighed,"Sønderholmvej 15, st",8543, Hornslet,200000 ,08-02-1994,Alm. Salg,65,3077.0,3,1902,
-706,Ejerlejlighed,"Sønderholmvej 17, st",8543, Hornslet,200000 ,08-02-1994,Alm. Salg,48,4167.0,3,1902,
-706,Ejerlejlighed,"Sønderholmvej 15, 1",8543, Hornslet,200000 ,08-02-1994,Alm. Salg,65,3077.0,3,1902,
-706,Ejerlejlighed,"Sønderholmvej 17, 1",8543, Hornslet,200000 ,08-02-1994,Alm. Salg,48,4167.0,3,1902,
-706,Ejerlejlighed,Lindåvej 15,8543, Hornslet,200000 ,08-02-1994,Alm. Salg,128,1563.0,5,1902,
 706,Ejerlejlighed,"Tingvej 40, st",8543, Hornslet,310000 ,07-02-1994,Alm. Salg,86,3605.0,3,1896,
 706,Villa,Hændelshøj 3,8543, Hornslet,781000 ,07-02-1994,Alm. Salg,143,5462.0,6,1987,
 706,Villa,Kastrupvej 15,8544, Mørke,265000 ,06-02-1994,Alm. Salg,146,1815.0,3,1904,
@@ -20251,11 +20038,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Solbrinken 8,8400, Ebeltoft,488000 ,29-10-1993,Alm. Salg,84,5810.0,3,1985,
 706,Villa,Fynsgade 2,8560, Kolind,375000 ,29-10-1993,Alm. Salg,149,2517.0,5,1947,
 706,Villa,Skovbakken 35,8550, Ryomgård,213220 ,29-10-1993,Alm. Salg,124,1720.0,4,1979,
-706,Ejerlejlighed,Skolegade 4,8550, Ryomgård,400963 ,28-10-1993,Alm. Salg,89,4505.0,2,1927,
-706,Ejerlejlighed,"Vestergade 23, st. th",8550, Ryomgård,400963 ,28-10-1993,Alm. Salg,45,8910.0,1,1927,
-706,Ejerlejlighed,"Vestergade 23, 1. th",8550, Ryomgård,400963 ,28-10-1993,Alm. Salg,101,3970.0,3,1927,
-706,Ejerlejlighed,"Vestergade 23, st. tv",8550, Ryomgård,400963 ,28-10-1993,Alm. Salg,62,6467.0,2,1927,
-706,Ejerlejlighed,"Vestergade 23, 1. tv",8550, Ryomgård,400963 ,28-10-1993,Alm. Salg,61,6573.0,1,1927,
 706,Villa,Bygvangen 3,8400, Ebeltoft,396000 ,28-10-1993,Alm. Salg,100,3960.0,4,1975,
 706,Villa,Nyholmvej 4,8420, Knebel,348487 ,28-10-1993,Fam. Salg,150,2323.0,4,1959,
 706,Villa,Kastanievej 4,8543, Hornslet,630000 ,28-10-1993,Alm. Salg,124,5081.0,4,1933,
@@ -20329,17 +20111,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Hejlskovvej 32,8544, Mørke,289737 ,06-10-1993,Alm. Salg,152,1906.0,3,1912,
 706,Villa,Boeslumvej 12,8400, Ebeltoft,275000 ,05-10-1993,Alm. Salg,84,3274.0,4,1968,
 706,Villa,Lyngevej 38,8420, Knebel,300000 ,05-10-1993,Alm. Salg,118,2542.0,3,1890,
-706,Ejerlejlighed,"Bakkehegnet 6, st. tv",8400, Ebeltoft,189750 ,04-10-1993,Alm. Salg,31,6121.0,1,1965,
-706,Ejerlejlighed,"Solvangsvej 3, st. th",8400, Ebeltoft,189750 ,04-10-1993,Alm. Salg,31,6121.0,1,1965,
 706,Villa,Enghavevej 7,8543, Hornslet,500000 ,04-10-1993,Andet,195,2564.0,6,1963,
 706,Villa,Vegavej 3,8400, Ebeltoft,508000 ,04-10-1993,Alm. Salg,142,3577.0,5,1993,
-706,Ejerlejlighed,Frederiks Alle 1B,8410, Rønde,1500000 ,03-10-1993,Alm. Salg,97,15464.0,3,1945,
-706,Ejerlejlighed,Frederiks Alle 1A,8410, Rønde,1500000 ,03-10-1993,Alm. Salg,92,16304.0,3,1945,
-706,Ejerlejlighed,"Hovedgaden 6C, 1",8410, Rønde,1500000 ,03-10-1993,Alm. Salg,100,15000.0,3,1945,
-706,Ejerlejlighed,"Frederiks Alle 5, 1. 2",8410, Rønde,1500000 ,03-10-1993,Alm. Salg,85,17647.0,3,1945,
-706,Ejerlejlighed,"Frederiks Alle 5, st",8410, Rønde,1500000 ,03-10-1993,Alm. Salg,86,17442.0,3,1945,
-706,Ejerlejlighed,"Frederiks Alle 5, 1. 3",8410, Rønde,1500000 ,03-10-1993,Alm. Salg,87,17241.0,3,1945,
-706,Ejerlejlighed,"Frederiks Alle 5, 1. 1",8410, Rønde,1500000 ,03-10-1993,Alm. Salg,81,18519.0,3,1945,
 706,Villa,Fasanvej 1B,8410, Rønde,425000 ,03-10-1993,Alm. Salg,162,2623.0,6,1973,
 706,Villa,Hummervej 52,8400, Ebeltoft,783000 ,03-10-1993,Alm. Salg,172,4552.0,6,1973,
 706,Villa,Hortensiavej 4,8400, Ebeltoft,894000 ,03-10-1993,Alm. Salg,144,6208.0,3,1972,
@@ -20662,7 +20435,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Storegade 22,8550, Ryomgård,38034 ,09-05-1993,Fam. Salg,125,304.0,2,1931,
 706,Villa,Thorsgade 10,8410, Rønde,163807 ,09-05-1993,Alm. Salg,100,1638.0,4,1977,
 706,Villa,Holmbjergvej 36,8420, Knebel,755000 ,09-05-1993,Alm. Salg,143,5280.0,5,1920,
-706,Villa,Kystvejen 51C,8400, Ebeltoft,1400000 ,04-05-1993,Alm. Salg,86,16279.0,2,1934,
 706,Villa,Marienhoffvej 21,8550, Ryomgård,381002 ,03-05-1993,Alm. Salg,171,2228.0,6,1926,
 706,Villa,Århusvej 14,8400, Ebeltoft,525000 ,03-05-1993,Alm. Salg,214,2453.0,11,1954,
 706,Ejerlejlighed,"Vibæk Strandvej 8, 1",8400, Ebeltoft,3000000 ,02-05-1993,Alm. Salg,171,17544.0,4,1985,
@@ -20700,11 +20472,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Stensvej 10,8544, Mørke,100 ,12-04-1993,Auktion,215,0.0,4,1650,
 706,Villa,Dråbydalen 12,8400, Ebeltoft,505000 ,06-04-1993,Alm. Salg,101,5000.0,4,1965,
 706,Villa,Vestergade 5,8444, Balle,240000 ,06-04-1993,Alm. Salg,90,2667.0,4,1938,
-706,Ejerlejlighed,Storkhøjevej 15,8400, Ebeltoft,485107 ,05-04-1993,Fam. Salg,205,2366.0,5,1974,
 706,Villa,Hirsevej 10,8544, Mørke,250000 ,05-04-1993,Alm. Salg,140,1786.0,4,1953,
 706,Villa,Finkevej 1,8410, Rønde,550000 ,05-04-1993,Alm. Salg,127,4331.0,5,1980,
 706,Villa,Rønnehaven 4,8400, Ebeltoft,625000 ,05-04-1993,Alm. Salg,114,5482.0,4,1983,
-706,Villa,Storkhøjevej 15,8400, Ebeltoft,485107 ,05-04-1993,Fam. Salg,375,1294.0,10,1974,
 706,Villa,Sænkningen 7,8400, Ebeltoft,795000 ,05-04-1993,Alm. Salg,119,6681.0,3,1960,
 706,Rækkehus,Engparken 17,8550, Ryomgård,45220 ,04-04-1993,Alm. Salg,79,572.0,3,2017,
 706,Villa,Trælgårdsvej 5A,8544, Mørke,45000 ,04-04-1993,Alm. Salg,100,450.0,3,1993,
@@ -20826,8 +20596,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Søgårdsvej 8,8410, Rønde,315797 ,07-02-1993,Alm. Salg,122,2589.0,5,1919,
 706,Villa,Mosesvinget 9,8400, Ebeltoft,123250 ,07-02-1993,Fam. Salg,248,497.0,12,2005,
 706,Villa,Molsvej 55,8410, Rønde,195000 ,04-02-1993,Alm. Salg,132,1477.0,4,1900,
-706,Rækkehus,Randersvej 172A,8544, Mørke,175000 ,02-02-1993,Alm. Salg,62,2823.0,3,1995,
-706,Villa,Randersvej 172,8544, Mørke,175000 ,02-02-1993,Alm. Salg,94,1862.0,3,1910,
 706,Villa,Alvejen 7,8963, Auning,747000 ,01-02-1993,Alm. Salg,264,2830.0,6,1900,
 706,Rækkehus,Tendrup Hovvej 11,8543, Hornslet,443782 ,31-01-1993,Alm. Salg,106,4187.0,4,1979,
 706,Villa,Brovej 4,8543, Hornslet,310000 ,31-01-1993,Andet,144,2153.0,5,1910,
@@ -20835,8 +20603,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Krogen 2,8444, Balle,133470 ,31-01-1993,Alm. Salg,173,772.0,6,1967,
 706,Villa,Søndervangen 12,8410, Rønde,380000 ,30-01-1993,Alm. Salg,231,1645.0,5,1956,
 706,Villa,Engvej 1,8560, Kolind,390000 ,29-01-1993,Alm. Salg,148,2635.0,4,1912,
-706,Rækkehus,Lunbakkevej 1A,8400, Ebeltoft,1220000 ,28-01-1993,Alm. Salg,67,18209.0,1,1927,
-706,Villa,Lunbakkevej 1,8400, Ebeltoft,1220000 ,28-01-1993,Alm. Salg,213,5728.0,6,1912,
 706,Rækkehus,Slotsvej 49,8543, Hornslet,137500 ,27-01-1993,Alm. Salg,112,1228.0,4,1997,
 706,Villa,Holmensvej 50,8400, Ebeltoft,210000 ,27-01-1993,Alm. Salg,108,1944.0,4,2011,
 706,Villa,Vestergade 31,8444, Balle,525000 ,27-01-1993,Alm. Salg,180,2917.0,3,1976,
@@ -21025,9 +20791,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Skovdiget 8,8400, Ebeltoft,670000 ,18-09-1992,Alm. Salg,150,4467.0,4,1976,
 706,Villa,Nødagervej 43,8560, Kolind,198885 ,17-09-1992,Alm. Salg,141,1411.0,7,1901,
 706,Villa,Hybenvangen 8,8400, Ebeltoft,468000 ,17-09-1992,Alm. Salg,73,6411.0,4,1986,
-706,Rækkehus,Grenåvej 7A,8410, Rønde,25000 ,16-09-1992,Alm. Salg,100,250.0,6,1810,
 706,Rækkehus,Møllevej 2,8410, Rønde,160000 ,16-09-1992,Alm. Salg,52,3077.0,3,1837,
-706,Ejerlejlighed,Grenåvej 7C,8410, Rønde,25000 ,16-09-1992,Alm. Salg,78,321.0,4,1810,
 706,Villa,Mosevangen 14,8400, Ebeltoft,100000 ,16-09-1992,Alm. Salg,72,1389.0,3,1965,
 706,Villa,Dagstrupvej 31,8544, Mørke,309000 ,16-09-1992,Alm. Salg,216,1431.0,5,1880,
 706,Villa,Elsegårdevej 45,8400, Ebeltoft,200000 ,16-09-1992,Alm. Salg,256,781.0,15,1856,
@@ -21040,7 +20804,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Stovbakken 32,8544, Mørke,230000 ,13-09-1992,Alm. Salg,160,1438.0,6,1884,
 706,Villa,Brogårdvej 6,8543, Hornslet,360000 ,12-09-1992,Alm. Salg,157,2293.0,5,1890,
 706,Villa,Holmbjergvej 61,8420, Knebel,425000 ,10-09-1992,Alm. Salg,54,7870.0,3,1969,
-706,Rækkehus,Tingvej 25,8543, Hornslet,675000 ,09-09-1992,Alm. Salg,132,5114.0,5,1918,
 706,Rækkehus,Syrenvænget 8,8543, Hornslet,378576 ,09-09-1992,Alm. Salg,75,5048.0,3,1982,
 706,Rækkehus,Storegade 8,8550, Ryomgård,184000 ,09-09-1992,Alm. Salg,109,1688.0,3,1909,
 706,Villa,Baunevænget 49,8410, Rønde,1224723 ,09-09-1992,Alm. Salg,163,7514.0,6,1987,
@@ -21418,8 +21181,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Ejerlejlighed,"Kirkegårdsvej 8, 2",8400, Ebeltoft,417800 ,26-03-1992,Alm. Salg,76,5497.0,2,1900,
 706,Villa,Horstvedvej 14,8560, Kolind,60000 ,26-03-1992,Alm. Salg,201,299.0,8,1938,
 706,Ejerlejlighed,"Reberbanen 9, st",8400, Ebeltoft,293109 ,25-03-1992,Fam. Salg,99,2961.0,3,1987,
-706,Ejerlejlighed,Lindhøjvej 20C,8420, Knebel,955000 ,25-03-1992,Alm. Salg,103,9272.0,3,1956,
-706,Villa,Lindhøjvej 20B,8420, Knebel,955000 ,25-03-1992,Alm. Salg,70,13643.0,2,1965,
 706,Rækkehus,Eskerodvej 4,8543, Hornslet,580000 ,24-03-1992,Andet,85,6824.0,4,1965,
 706,Rækkehus,Bugtrupvej 15,8560, Kolind,450000 ,24-03-1992,Alm. Salg,145,3103.0,4,1935,
 706,Villa,Vandmosevej 5,8544, Mørke,500000 ,24-03-1992,Alm. Salg,216,2315.0,7,1900,
@@ -21496,8 +21257,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Skolevej 1,8410, Rønde,400000 ,18-02-1992,Alm. Salg,173,2312.0,5,1920,
 706,Villa,Eskerodvej 2,8543, Hornslet,503000 ,17-02-1992,Fam. Salg,138,3645.0,5,1947,
 706,Rækkehus,Slotsvej 56,8543, Hornslet,324000 ,16-02-1992,Alm. Salg,91,3560.0,4,1900,
-706,Rækkehus,"Maarupvej 8, 1",8560, Kolind,350000 ,16-02-1992,Alm. Salg,72,4861.0,2,1937,
-706,Ejerlejlighed,"Maarupvej 8, st",8560, Kolind,350000 ,16-02-1992,Alm. Salg,72,4861.0,2,1937,
 706,Villa,Vinkelvej 5,8410, Rønde,495000 ,16-02-1992,Alm. Salg,151,3278.0,4,1963,
 706,Villa,Skovhøjen 7,8400, Ebeltoft,1000000 ,16-02-1992,Alm. Salg,184,5435.0,5,1981,
 706,Villa,Nimtoftevej 52,8550, Ryomgård,385000 ,16-02-1992,Alm. Salg,125,3080.0,4,1957,
@@ -21524,7 +21283,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 706,Villa,Trehøjevej 6,8400, Ebeltoft,510000 ,09-02-1992,Alm. Salg,138,3696.0,5,1967,
 706,Villa,Tulipanvej 3,8543, Hornslet,378000 ,09-02-1992,Fam. Salg,101,3743.0,2,1978,
 706,Rækkehus,Torvet 9,8581, Nimtofte,199359 ,07-02-1992,Alm. Salg,155,1286.0,4,1900,
-706,Villa,Hovedgaden 26B,8544, Mørke,313771 ,06-02-1992,Alm. Salg,86,3649.0,2,1915,
 706,Villa,Kornvangen 38,8400, Ebeltoft,29000 ,05-02-1992,Alm. Salg,143,203.0,5,2006,
 706,Villa,Molsvej 24,8410, Rønde,640000 ,05-02-1992,Alm. Salg,130,4923.0,5,1975,
 706,Villa,Humlevej 23,8543, Hornslet,754940 ,05-02-1992,Alm. Salg,156,4839.0,5,1992,

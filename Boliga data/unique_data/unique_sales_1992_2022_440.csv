@@ -13,7 +13,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Villa,Tavlundsvænget 10,5370, Mesinge,501500 ,14-12-2022,Fam. Salg,105,4776,2,1962,
 440,Villa,Bakkegårds Allé 3,5550, Langeskov,2650000 ,14-12-2022,Alm. Salg,139,19065,5,2018,
 440,Villa,Midskovvej 113,5370, Mesinge,2445000 ,13-12-2022,Alm. Salg,166,14729,5,1990,-2%
-440,Ejerlejlighed,Tvindevej 74C,5350, Rynkeby,7183000 ,12-12-2022,Fam. Salg,105,68410,3,1864,
 440,Villa,Mølleløkken 143,5300, Kerteminde,1835000 ,12-12-2022,Alm. Salg,141,13014,5,1972,-3%
 440,Villa,Strandløkken 3,5330, Munkebo,2000000 ,12-12-2022,Alm. Salg,170,11765,5,1962,-9%
 440,Villa,Odensevej 13,5550, Langeskov,1350000 ,12-12-2022,Andet,145,9310,4,1902,-3%
@@ -247,7 +246,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Villa,Rypevænget 13,5550, Langeskov,1575000 ,22-02-2022,Alm. Salg,120,13125,4,1972,-5%
 440,Villa,Bækskov 2,5290, Marslev,1075000 ,21-02-2022,Alm. Salg,211,5095,8,1905,-10%
 440,Villa,Søgårds Alle 14,5550, Langeskov,463505 ,21-02-2022,Alm. Salg,159,2915,6,2023,
-440,Villa,Jernbanegade 14B,5550, Langeskov,5100000 ,20-02-2022,Andet,220,23182,7,1927,
 440,Villa,Mosegårdsvej 69,5380, Dalby,1250000 ,20-02-2022,Alm. Salg,90,13889,3,1933,-3%
 440,Villa,Langeskovvej 175,5550, Langeskov,15000 ,17-02-2022,Alm. Salg,100,150,4,1864,-99%
 440,Villa,Kærsangervænget 95,5550, Langeskov,1795000 ,17-02-2022,Alm. Salg,147,12211,5,1975,
@@ -310,7 +308,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Rækkehus,Fjordvej 57,5330, Munkebo,1455000 ,14-12-2021,Alm. Salg,94,15479,3,1990,-3%
 440,Villa,Hyrdevej 7,5300, Kerteminde,2000000 ,13-12-2021,Alm. Salg,191,10471,6,2022,
 440,Rækkehus,Præstegade 30,5300, Kerteminde,2585000 ,12-12-2021,Alm. Salg,159,16258,3,1850,
-440,Villa,Fjordvej 6,5330, Munkebo,650000 ,12-12-2021,Alm. Salg,180,3611,7,1880,
 440,Villa,Vejlebæksvej 72,5300, Kerteminde,1375000 ,11-12-2021,Alm. Salg,120,11458,5,1942,-8%
 440,Villa,Rørsangervej 14,5550, Langeskov,1450000 ,09-12-2021,Alm. Salg,172,8430,5,1970,-2%
 440,Villa,Grønningen 37,5330, Munkebo,2595000 ,09-12-2021,Alm. Salg,165,15727,4,1971,-4%
@@ -346,7 +343,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Rækkehus,Toften 222,5330, Munkebo,855000 ,18-11-2021,Alm. Salg,98,8724,4,1972,-4%
 440,Villa,Grøndalsvej 4,5350, Rynkeby,1150000 ,18-11-2021,Alm. Salg,124,9274,5,1978,5%
 440,Villa,Lærkevej 10,5550, Langeskov,750000 ,18-11-2021,Andet,108,6944,4,1961,
-440,Villa,Revninge Bygade 54A,5300, Kerteminde,77000 ,17-11-2021,Alm. Salg,194,397,7,1875,
 440,Villa,Alléparken 2,5290, Marslev,2750000 ,16-11-2021,Alm. Salg,179,15363,6,2011,
 440,Villa,Sybergsvej 33,5300, Kerteminde,614165 ,15-11-2021,Andet,98,6267,4,1948,
 440,Villa,Hindsholmvej 33,5300, Kerteminde,828750 ,14-11-2021,Fam. Salg,183,4529,6,1943,
@@ -432,8 +428,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Villa,Andekæret 38,5300, Kerteminde,1800000 ,08-09-2021,Alm. Salg,166,10843,6,1974,
 440,Villa,Revninge Bygade 49,5300, Kerteminde,1700000 ,07-09-2021,Alm. Salg,213,7981,9,1982,-5%
 440,Villa,Søvangsparken 33,5300, Kerteminde,3450000 ,07-09-2021,Alm. Salg,170,20294,6,2007,-4%
-440,Rækkehus,Nordre Skovgyde 98,5370, Mesinge,1750000 ,01-09-2021,Alm. Salg,117,14957,4,1900,-8%
-440,Villa,Nordre Skovgyde 96,5370, Mesinge,1750000 ,01-09-2021,Alm. Salg,105,16667,4,1900,-8%
 440,Villa,Søgårds Alle 6,5550, Langeskov,489685 ,01-09-2021,Alm. Salg,153,3201,6,2022,
 440,Villa,Tårup Strandpark 59,5300, Kerteminde,1071843 ,01-09-2021,Alm. Salg,174,6160,6,2022,
 440,Villa,Skovgårds Alle 29,5550, Langeskov,604500 ,01-09-2021,Alm. Salg,167,3620,6,2022,
@@ -515,7 +509,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Rækkehus,Toften 224,5330, Munkebo,750000 ,22-06-2021,Fam. Salg,98,7653,3,1972,
 440,Villa,Mølleløkken 71,5300, Kerteminde,2445000 ,22-06-2021,Alm. Salg,143,17098,4,1971,-2%
 440,Villa,Akacievænget 4,5550, Langeskov,900000 ,22-06-2021,Fam. Salg,148,6081,4,1972,
-440,Villa,Kejrup Alle 16,5300, Kerteminde,5915445 ,22-06-2021,Alm. Salg,142,41658,4,1986,
 440,Villa,Møllevænget 4,5550, Langeskov,1275000 ,21-06-2021,Alm. Salg,85,15000,4,1959,-5%
 440,Villa,Egevej 8,5300, Kerteminde,900000 ,21-06-2021,Fam. Salg,98,9184,6,1961,
 440,Villa,Rønninge Bygade 30,5550, Langeskov,1795000 ,21-06-2021,Alm. Salg,150,11967,5,1989,
@@ -569,7 +562,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Villa,Grønvangen 145,5550, Langeskov,1350000 ,21-05-2021,Alm. Salg,129,10465,4,1988,-3%
 440,Villa,Fjordvej 179,5330, Munkebo,1300000 ,21-05-2021,Alm. Salg,122,10656,4,1966,-7%
 440,Villa,Kongshøj Alle 26,5300, Kerteminde,1670000 ,20-05-2021,Alm. Salg,100,16700,4,1986,
-440,Villa,Grønnegårds Alle 5B,5300, Kerteminde,3410000 ,20-05-2021,Alm. Salg,220,15500,7,1915,14%
 440,Villa,Mølleløkken 30,5300, Kerteminde,1500000 ,20-05-2021,Alm. Salg,119,12605,4,1971,-6%
 440,Villa,Tårup Strandpark 23,5300, Kerteminde,3365000 ,20-05-2021,Alm. Salg,185,18189,5,2010,-1%
 440,Villa,Andekæret 181,5300, Kerteminde,2525000 ,19-05-2021,Alm. Salg,142,17782,4,1976,-1%
@@ -622,7 +614,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Villa,Rønningevej 23,5550, Langeskov,900000 ,18-04-2021,Alm. Salg,160,5625,4,1947,
 440,Villa,Midskovvej 226,5370, Mesinge,1037896 ,17-04-2021,Alm. Salg,224,4633,6,1923,
 440,Villa,Slåenhaven 34,5550, Langeskov,2286000 ,15-04-2021,Alm. Salg,135,16933,5,1998,
-440,Villa,Odensevej 18B,5550, Langeskov,300000 ,14-04-2021,Andet,163,1840,3,1916,
 440,Villa,Kertemindevejen 11,5290, Marslev,2375000 ,14-04-2021,Alm. Salg,232,10237,7,1915,-5%
 440,Villa,Fynshovedvej 760,5390, Martofte,1100000 ,14-04-2021,Alm. Salg,102,10784,3,1957,-6%
 440,Villa,Valmuevænget 5,5550, Langeskov,1400000 ,14-04-2021,Alm. Salg,113,12389,4,1972,
@@ -705,7 +696,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Villa,Søvangsparken 65,5300, Kerteminde,3800000 ,25-02-2021,Alm. Salg,183,18009,8,2007,-5%
 440,Villa,Kertemindevejen 42,5290, Marslev,525000 ,24-02-2021,Fam. Salg,132,3977,3,1938,
 440,Rækkehus,Nyhøjen 423,5330, Munkebo,775000 ,23-02-2021,Alm. Salg,103,7524,3,1960,-3%
-440,Villa,Østergårdsvej 23,5330, Munkebo,3929400 ,23-02-2021,Alm. Salg,125,31435,3,1900,
 440,Villa,Rosenlund Alle 9,5350, Rynkeby,1800000 ,23-02-2021,Alm. Salg,168,10714,4,1924,-10%
 440,Villa,Bakkegårdsvej 37,5330, Munkebo,1825000 ,23-02-2021,Alm. Salg,149,12248,5,1979,-4%
 440,Villa,Lærkevej 10,5550, Langeskov,722500 ,23-02-2021,Alm. Salg,108,6690,4,1961,
@@ -830,14 +820,11 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Villa,Tave Bonden 10,5550, Langeskov,575000 ,12-11-2020,Alm. Salg,150,3833,5,2021,-14%
 440,Villa,Sybergsvej 16,5300, Kerteminde,1845000 ,11-11-2020,Alm. Salg,91,20275,4,1951,-3%
 440,Villa,Krogen 3,5370, Mesinge,525000 ,11-11-2020,Alm. Salg,145,3621,5,1907,-5%
-440,Villa,Jernbanegade 14B,5550, Langeskov,1495000 ,10-11-2020,Alm. Salg,220,6795,7,1927,
 440,Villa,Tavlundsvænget 10,5370, Mesinge,434400 ,10-11-2020,Fam. Salg,105,4137,2,1962,
 440,Villa,Sandbjergvej 2,5380, Dalby,525000 ,08-11-2020,Alm. Salg,86,6105,3,1887,-12%
 440,Villa,Bakkegårds Allé 67,5550, Langeskov,2650000 ,08-11-2020,Alm. Salg,177,14972,6,2009,-5%
 440,Villa,Brabækvej 158,5550, Langeskov,75882 ,07-11-2020,Alm. Salg,180,422,5,1998,
-440,Rækkehus,Frydenlundsvej 4,5550, Langeskov,4050000 ,02-11-2020,Alm. Salg,92,44022,3,1921,-10%
 440,Villa,Ulriksholmvej 62,5300, Kerteminde,1375000 ,02-11-2020,Alm. Salg,98,14031,2,1850,
-440,Villa,Frydenlundsvej 6,5550, Langeskov,4050000 ,02-11-2020,Alm. Salg,305,13279,1,1962,-10%
 440,Villa,Fjordvej 121,5330, Munkebo,750000 ,01-11-2020,Alm. Salg,144,5208,5,1912,
 440,Villa,Syrenvej 8,5550, Langeskov,85400 ,27-10-2020,Alm. Salg,204,419,6,1961,
 440,Villa,Havrevænget 10,5550, Langeskov,1300000 ,27-10-2020,Alm. Salg,139,9353,5,1974,-4%
@@ -894,8 +881,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Villa,Bøghsvej 9,5300, Kerteminde,3100000 ,17-09-2020,Alm. Salg,143,21678,3,1962,-7%
 440,Villa,Grønvangen 135,5550, Langeskov,1499000 ,16-09-2020,Alm. Salg,120,12492,6,1990,
 440,Villa,Strandlystvej 30,5330, Munkebo,965000 ,16-09-2020,Alm. Salg,110,8773,4,1963,-3%
-440,Rækkehus,Søvej 40,5550, Langeskov,2175000 ,15-09-2020,Alm. Salg,32,67969,2,1850,
-440,Villa,Søvej 40,5550, Langeskov,2175000 ,15-09-2020,Alm. Salg,123,17683,4,1850,
 440,Ejerlejlighed,"Præstegade 10, st. th",5300, Kerteminde,1950000 ,14-09-2020,Alm. Salg,101,19307,3,1917,-2%
 440,Rækkehus,Langegade 78,5300, Kerteminde,4050000 ,10-09-2020,Alm. Salg,171,23684,5,1890,-4%
 440,Villa,Regnar Langesvej 24,5300, Kerteminde,2470000 ,10-09-2020,Alm. Salg,170,14529,5,1980,
@@ -978,11 +963,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Villa,Fasanvej 2,5550, Langeskov,1525000 ,08-07-2020,Alm. Salg,127,12008,3,1963,-7%
 440,Villa,Tingvej 3,5550, Langeskov,1745000 ,07-07-2020,Alm. Salg,114,15307,4,1958,
 440,Villa,Odensevej 105,5290, Marslev,2995000 ,07-07-2020,Alm. Salg,263,11388,8,1903,
-440,Rækkehus,Fjordvej 4,5330, Munkebo,3600000 ,06-07-2020,Alm. Salg,36,100000,1,1920,
 440,Rækkehus,Tavlundsvej 71,5370, Mesinge,90000 ,06-07-2020,Auktion,88,1023,3,1880,-69%
 440,Rækkehus,Fiskergade 1D,5300, Kerteminde,3925000 ,06-07-2020,Alm. Salg,120,32708,3,1880,
 440,Rækkehus,Varehøj 6,5330, Munkebo,1565000 ,06-07-2020,Alm. Salg,98,15969,3,2007,
-440,Villa,Fjordvej 4,5330, Munkebo,3600000 ,06-07-2020,Alm. Salg,216,16667,7,1920,
 440,Villa,Udsigten 10,5330, Munkebo,1700000 ,06-07-2020,Alm. Salg,210,8095,9,1962,-10%
 440,Villa,Sybergsvej 2E,5300, Kerteminde,2450000 ,02-07-2020,Alm. Salg,76,32237,3,1947,
 440,Villa,Mosevejen 4,5550, Langeskov,975000 ,02-07-2020,Alm. Salg,123,7927,5,1964,-11%
@@ -1101,7 +1084,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Rækkehus,Toften 356,5330, Munkebo,940000 ,22-03-2020,Alm. Salg,98,9592,4,1972,-6%
 440,Villa,Kongshøj Alle 40,5300, Kerteminde,1450000 ,16-03-2020,Alm. Salg,220,6591,7,1986,
 440,Villa,Krabbegårdsvej 9,5330, Munkebo,2500000 ,16-03-2020,Alm. Salg,249,10040,4,1986,-2%
-440,Villa,Jernbanegade 14B,5550, Langeskov,530000 ,15-03-2020,Alm. Salg,220,2409,7,1927,
 440,Villa,Skovgårds Alle 60,5550, Langeskov,512850 ,11-03-2020,Alm. Salg,150,3419,4,2021,
 440,Villa,Odensevej 33,5550, Langeskov,4300000 ,10-03-2020,Andet,220,13694,9,1889,
 440,Villa,Stenlunden 25,5330, Munkebo,1200000 ,09-03-2020,Alm. Salg,107,11215,4,1967,
@@ -1353,7 +1335,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Ejerlejlighed,"Chr. Hansensvej 6, 2. th",5300, Kerteminde,2995000 ,15-07-2019,Alm. Salg,128,23398,4,2008,
 440,Rækkehus,Havnegade 23,5300, Kerteminde,2650000 ,13-07-2019,Alm. Salg,115,23043,3,1921,-5%
 440,Villa,Svalevænget 12,5550, Langeskov,1415000 ,11-07-2019,Alm. Salg,123,11504,5,1963,-4%
-440,Villa,Dalsgårdsvej 25,5350, Rynkeby,8500000 ,10-07-2019,Alm. Salg,129,65891,4,2009,
 440,Villa,Havnegade 13,5300, Kerteminde,3795000 ,10-07-2019,Alm. Salg,156,24327,7,1914,
 440,Villa,Vestergade 132,5300, Kerteminde,3200000 ,09-07-2019,Alm. Salg,131,24427,5,1967,
 440,Villa,Damgårds Alle 63,5300, Kerteminde,2675000 ,08-07-2019,Alm. Salg,145,18448,6,1979,-4%
@@ -1387,7 +1368,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Villa,Mosevangen 105,5330, Munkebo,875000 ,06-06-2019,Alm. Salg,123,7114,6,1963,-5%
 440,Rækkehus,Langegade 69,5300, Kerteminde,2630000 ,03-06-2019,Alm. Salg,201,13085,6,1935,-4%
 440,Villa,Kystvej 2,5300, Kerteminde,2600000 ,03-06-2019,Alm. Salg,180,14444,6,1965,-13%
-440,Villa,Egevænget 1,5300, Kerteminde,2400000 ,03-06-2019,Alm. Salg,89,26966,4,1961,
 440,Villa,Vejruplund 38,5290, Marslev,1200000 ,03-06-2019,Alm. Salg,136,8824,4,1969,
 440,Rækkehus,Nyhøjen 321,5330, Munkebo,745000 ,02-06-2019,Alm. Salg,103,7233,4,1960,-6%
 440,Rækkehus,Ahlefeldtsvej 19,5300, Kerteminde,1885000 ,02-06-2019,Alm. Salg,95,19842,4,1960,-1%
@@ -1401,11 +1381,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Villa,Krabbegårdsvej 58,5330, Munkebo,569835 ,23-05-2019,Alm. Salg,206,2766,7,2021,
 440,Villa,Møllevangen 16,5300, Kerteminde,1685000 ,22-05-2019,Alm. Salg,147,8776,6,1985,-6%
 440,Villa,Drosselvej 6,5550, Langeskov,1795000 ,22-05-2019,Alm. Salg,147,12211,5,1972,
-440,Ejerlejlighed,"Skolegade 9A, 1",5300, Kerteminde,4700000 ,20-05-2019,Alm. Salg,77,61039,2,1890,
-440,Ejerlejlighed,"Skolegade 9A, st",5300, Kerteminde,4700000 ,20-05-2019,Alm. Salg,54,87037,1,1890,
-440,Ejerlejlighed,Langegade 73A,5300, Kerteminde,4700000 ,20-05-2019,Alm. Salg,87,54023,2,1890,
-440,Ejerlejlighed,"Langegade 73B, st",5300, Kerteminde,4700000 ,20-05-2019,Alm. Salg,89,52809,3,1890,
-440,Ejerlejlighed,"Langegade 73B, 1",5300, Kerteminde,4700000 ,20-05-2019,Alm. Salg,69,68116,2,1890,
 440,Villa,Fynshovedvej 694,5390, Martofte,1725000 ,20-05-2019,Alm. Salg,247,6984,9,1937,-3%
 440,Villa,Takshaven 29,5330, Munkebo,1375000 ,20-05-2019,Alm. Salg,145,9483,7,1977,-8%
 440,Villa,Hundslevvej 9,5350, Rynkeby,650000 ,19-05-2019,Alm. Salg,120,5417,5,1962,
@@ -1531,14 +1506,12 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Villa,Mølleløkken 117,5300, Kerteminde,1300000 ,19-12-2018,Alm. Salg,100,13000,4,1971,-3%
 440,Villa,Strandvejen 6,5330, Munkebo,520000 ,19-12-2018,Alm. Salg,110,4727,3,1927,-5%
 440,Villa,Hvileholmsvej 24,5550, Langeskov,1050000 ,17-12-2018,Alm. Salg,127,8268,5,1965,-12%
-440,Rækkehus,"Langegade 55, st. mf",5300, Kerteminde,4500000 ,16-12-2018,Alm. Salg,31,145161,1,1877,
 440,Villa,Urupvej 71,5550, Langeskov,1282225 ,16-12-2018,Fam. Salg,216,5936,8,1827,
 440,Villa,Mosevænget 1,5550, Langeskov,350000 ,16-12-2018,Alm. Salg,99,3535,4,1966,-46%
 440,Villa,Nymarken 53,5300, Kerteminde,840000 ,16-12-2018,Alm. Salg,115,7304,5,1962,
 440,Villa,Søbrinken 8,5550, Langeskov,1100000 ,15-12-2018,Alm. Salg,150,7333,5,1992,
 440,Villa,Præstegyden 17,5300, Kerteminde,1250000 ,13-12-2018,Alm. Salg,120,10417,4,1964,-21%
 440,Villa,Kertinge Bygade 2,5300, Kerteminde,2836000 ,13-12-2018,Alm. Salg,184,15413,3,1800,9%
-440,Villa,Odensevej 44A,5550, Langeskov,8000000 ,12-12-2018,Alm. Salg,202,39604,4,1936,
 440,Villa,Hyrdevej 7,5300, Kerteminde,21000 ,12-12-2018,Alm. Salg,191,110,6,2022,
 440,Rækkehus,Fjordvej 26,5330, Munkebo,100000 ,10-12-2018,Alm. Salg,58,1724,2,1798,
 440,Villa,Sandbjergvej 82,5380, Dalby,1100000 ,10-12-2018,Alm. Salg,162,6790,6,1920,
@@ -1648,7 +1621,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Villa,Midskovvej 220,5370, Mesinge,300000 ,15-08-2018,Alm. Salg,109,2752,3,1881,-24%
 440,Villa,Søvangsparken 36,5300, Kerteminde,2795000 ,15-08-2018,Alm. Salg,173,16156,7,2007,
 440,Villa,Elmevej 39,5300, Kerteminde,2200000 ,14-08-2018,Alm. Salg,147,14966,5,1974,-8%
-440,Villa,Rynkeby Bygade 51C,5350, Rynkeby,2275000 ,13-08-2018,Alm. Salg,98,23214,3,1950,
 440,Villa,Erantisvænget 14,5330, Munkebo,1650000 ,12-08-2018,Alm. Salg,123,13415,4,1987,-3%
 440,Villa,Hindsholmvej 193,5300, Kerteminde,2179000 ,12-08-2018,Alm. Salg,234,8446,4,0,
 440,Villa,Lille Salbyvej 152,5370, Mesinge,2025000 ,11-08-2018,Alm. Salg,188,10771,5,1949,-6%
@@ -1899,8 +1871,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Villa,Krokusvænget 6,5330, Munkebo,1960000 ,22-10-2017,Alm. Salg,127,15433,4,1986,
 440,Villa,Esterhøjvej 21,5370, Mesinge,1220000 ,21-10-2017,Alm. Salg,140,8714,3,1974,
 440,Villa,Pilelunden 18,5550, Langeskov,1275000 ,21-10-2017,Alm. Salg,105,12143,4,1976,-5%
-440,Ejerlejlighed,Langegade 9D,5300, Kerteminde,3300000 ,19-10-2017,Alm. Salg,80,41250,2,1852,
-440,Ejerlejlighed,Kattestræde 11,5300, Kerteminde,3300000 ,19-10-2017,Alm. Salg,64,51563,3,1852,
 440,Villa,Mølleløkken 14,5300, Kerteminde,1420000 ,18-10-2017,Alm. Salg,117,12137,4,1969,-5%
 440,Villa,Engvej 15,5550, Langeskov,1140000 ,17-10-2017,Alm. Salg,109,10459,4,1966,-7%
 440,Rækkehus,Vestergade 49,5300, Kerteminde,1825000 ,16-10-2017,Alm. Salg,84,21726,4,1827,-6%
@@ -1995,12 +1965,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Villa,Engvej 6,5550, Langeskov,925000 ,27-06-2017,Alm. Salg,111,8333,4,1965,-7%
 440,Villa,Tavlundsvænget 8,5370, Mesinge,600000 ,27-06-2017,Alm. Salg,88,6818,4,1962,-7%
 440,Villa,Kærsangervænget 25,5550, Langeskov,1250000 ,27-06-2017,Alm. Salg,104,12019,4,1974,-4%
-440,Rækkehus,Søvej 40,5550, Langeskov,750000 ,26-06-2017,Alm. Salg,32,23438,2,1850,
-440,Villa,Søvej 40,5550, Langeskov,750000 ,26-06-2017,Alm. Salg,123,6098,4,1850,
 440,Villa,Sybergsvej 19,5300, Kerteminde,1214486 ,25-06-2017,Fam. Salg,135,8996,6,1953,
 440,Villa,Nordre Skovvænge 68,5370, Mesinge,2000000 ,24-06-2017,Alm. Salg,160,12500,5,1958,-20%
-440,Rækkehus,Søvej 40,5550, Langeskov,750000 ,22-06-2017,Alm. Salg,32,23438,2,1850,
-440,Villa,Søvej 40,5550, Langeskov,750000 ,22-06-2017,Alm. Salg,123,6098,4,1850,
 440,Villa,Marslev Byvej 11,5290, Marslev,1050000 ,21-06-2017,Fam. Salg,174,6034,6,1952,
 440,Rækkehus,Fiskergade 48,5300, Kerteminde,1275000 ,19-06-2017,Fam. Salg,120,10625,3,1877,
 440,Villa,Mølkensvej 5,5300, Kerteminde,1595000 ,18-06-2017,Alm. Salg,118,13517,5,1964,
@@ -2139,9 +2105,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Ejerlejlighed,"Sønderstræde 8, st",5300, Kerteminde,2300000 ,20-12-2016,Fam. Salg,127,18110,5,1899,
 440,Villa,Odensevej 52,5550, Langeskov,618337 ,20-12-2016,Andet,111,5571,3,1937,-52%
 440,Villa,Rønningevej 28A,5550, Langeskov,1230000 ,20-12-2016,Alm. Salg,112,10982,4,1970,-5%
-440,Rækkehus,Søvej 40,5550, Langeskov,2050000 ,18-12-2016,Alm. Salg,32,64063,2,1850,-11%
 440,Villa,Radstrupvejen 17,5290, Marslev,100000 ,18-12-2016,Alm. Salg,150,667,5,1840,
-440,Villa,Søvej 40,5550, Langeskov,2050000 ,18-12-2016,Alm. Salg,123,16667,4,1850,-11%
 440,Villa,Bakkegårds Allé 44,5550, Langeskov,2485760 ,18-12-2016,Alm. Salg,188,13222,5,2008,
 440,Villa,Tyrebakken 8,5300, Kerteminde,2000000 ,17-12-2016,Alm. Salg,126,15873,5,1956,-23%
 440,Rækkehus,Fiskergade 76,5300, Kerteminde,1960000 ,14-12-2016,Alm. Salg,103,19029,4,1900,-6%
@@ -2272,7 +2236,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Villa,Dalby Bygade 2B,5380, Dalby,1145000 ,04-07-2016,Alm. Salg,90,12722,3,1850,-4%
 440,Villa,Elmevej 58,5300, Kerteminde,1425000 ,03-07-2016,Alm. Salg,120,11875,4,1972,
 440,Rækkehus,Toften 134,5330, Munkebo,1050000 ,30-06-2016,Alm. Salg,98,10714,4,1972,
-440,Rækkehus,Strandgade 23A,5300, Kerteminde,5400000 ,30-06-2016,Alm. Salg,121,44628,5,1912,
 440,Villa,Bakkegårds Allé 98,5550, Langeskov,3150000 ,30-06-2016,Alm. Salg,201,15672,6,2009,-4%
 440,Villa,Mejsevænget 8,5550, Langeskov,875000 ,29-06-2016,Alm. Salg,100,8750,4,1970,-12%
 440,Villa,Odensevej 103,5300, Kerteminde,2925000 ,29-06-2016,Alm. Salg,226,12942,5,1950,-5%
@@ -2286,8 +2249,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Villa,Pilelunden 54,5550, Langeskov,1340000 ,20-06-2016,Alm. Salg,141,9504,5,1978,-8%
 440,Villa,Kærsangervænget 67,5550, Langeskov,1530000 ,20-06-2016,Alm. Salg,126,12143,4,1975,-2%
 440,Villa,Munkebovej 3,5330, Munkebo,50000 ,20-06-2016,Alm. Salg,136,368,4,1968,
-440,Rækkehus,Fiskergade 34,5300, Kerteminde,860000 ,19-06-2016,Alm. Salg,94,9149,4,1851,
-440,Villa,Ladbyvej 38,5300, Kerteminde,860000 ,19-06-2016,Alm. Salg,149,5772,3,1965,-4%
 440,Villa,Bøghsvej 3,5300, Kerteminde,1350000 ,19-06-2016,Alm. Salg,126,10714,4,1964,
 440,Villa,Birkevej 29,5550, Langeskov,2130155 ,18-06-2016,Alm. Salg,171,12457,5,2016,
 440,Villa,Hvileholmsvej 13,5550, Langeskov,441969 ,16-06-2016,Alm. Salg,233,1463,8,1925,
@@ -2420,7 +2381,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Villa,Fyrrehøjen 69,5330, Munkebo,595750 ,02-12-2015,Fam. Salg,191,3119,6,1974,
 440,Villa,Møllebakken 2,5300, Kerteminde,2569750 ,01-12-2015,Fam. Salg,179,14356,7,1835,
 440,Rækkehus,Signebjerg 9,5330, Munkebo,1395000 ,26-11-2015,Alm. Salg,98,14235,3,2008,
-440,Villa,Dalsgårdsvej 25,5350, Rynkeby,7450000 ,26-11-2015,Alm. Salg,129,57752,4,2009,
 440,Villa,Møtrikken 9,5550, Langeskov,2075000 ,25-11-2015,Alm. Salg,149,13926,5,1999,-1%
 440,Villa,Bakkegårds Allé 47,5550, Langeskov,532059 ,25-11-2015,Alm. Salg,136,3912,5,2017,
 440,Villa,Hejrevænget 10,5550, Langeskov,850000 ,24-11-2015,Alm. Salg,113,7522,4,1971,
@@ -2439,20 +2399,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Villa,Dosseringen 36,5300, Kerteminde,2050000 ,01-11-2015,Alm. Salg,133,15414,5,1969,-7%
 440,Villa,Marslev Byvej 31,5290, Marslev,1280000 ,29-10-2015,Alm. Salg,143,8951,6,1946,-9%
 440,Villa,Bakkevej 13,5550, Langeskov,1455533 ,29-10-2015,Fam. Salg,111,13113,5,1954,
-440,Ejerlejlighed,"Langegade 11B, 2. th",5300, Kerteminde,2675000 ,28-10-2015,Alm. Salg,88,30398,86,1907,
-440,Ejerlejlighed,"Langegade 11A, 2",5300, Kerteminde,2675000 ,28-10-2015,Alm. Salg,109,24541,2,1907,
-440,Ejerlejlighed,"Langegade 11B, 2. tv",5300, Kerteminde,2675000 ,28-10-2015,Alm. Salg,60,44583,1,1907,
-440,Ejerlejlighed,"Langegade 11A, st. th",5300, Kerteminde,2675000 ,28-10-2015,Alm. Salg,121,22107,2,1907,
-440,Ejerlejlighed,"Kattestræde 9A, 1",5300, Kerteminde,2675000 ,28-10-2015,Alm. Salg,73,36644,2,1907,
-440,Ejerlejlighed,"Langegade 11A, st. tv",5300, Kerteminde,2675000 ,28-10-2015,Alm. Salg,83,32229,2,1907,
-440,Ejerlejlighed,"Langegade 11A, 1. tv",5300, Kerteminde,2675000 ,28-10-2015,Alm. Salg,59,45339,1,1907,
-440,Ejerlejlighed,"Langegade 11A, 1. th",5300, Kerteminde,2675000 ,28-10-2015,Alm. Salg,121,22107,2,1907,
-440,Ejerlejlighed,"Langegade 11B, st. th",5300, Kerteminde,2675000 ,28-10-2015,Alm. Salg,72,37153,1,1907,
-440,Ejerlejlighed,"Kattestræde 9A, st",5300, Kerteminde,2675000 ,28-10-2015,Alm. Salg,72,37153,1,1907,
-440,Ejerlejlighed,"Langegade 11B, 1. th",5300, Kerteminde,2675000 ,28-10-2015,Alm. Salg,73,36644,1,1907,
-440,Ejerlejlighed,"Langegade 11B, 2. mf",5300, Kerteminde,2675000 ,28-10-2015,Alm. Salg,54,49537,1,1907,
-440,Ejerlejlighed,"Langegade 11B, 1. tv",5300, Kerteminde,2675000 ,28-10-2015,Alm. Salg,73,36644,2,1907,
-440,Ejerlejlighed,"Langegade 11B, st. tv",5300, Kerteminde,2675000 ,28-10-2015,Alm. Salg,73,36644,2,1907,
 440,Villa,Odensevej 705,5300, Kerteminde,550000 ,27-10-2015,Alm. Salg,135,4074,3,1877,
 440,Villa,Sandbjergvej 100,5380, Dalby,300000 ,25-10-2015,Alm. Salg,115,2609,4,1900,
 440,Villa,Birkebjergvej 80,5380, Dalby,920000 ,25-10-2015,Fam. Salg,149,6174,5,1914,
@@ -2569,8 +2515,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Villa,Krokusvænget 13,5330, Munkebo,2200000 ,26-06-2015,Alm. Salg,162,13580,5,1986,-4%
 440,Villa,Grønvangen 133,5550, Langeskov,1600000 ,25-06-2015,Alm. Salg,122,13115,5,1987,-4%
 440,Villa,Dræby Fedvej 509,5330, Munkebo,1800000 ,25-06-2015,Alm. Salg,221,8145,6,1900,-10%
-440,Ejerlejlighed,Langegade 12B,5300, Kerteminde,2498000 ,24-06-2015,Alm. Salg,96,26021,4,1700,
-440,Ejerlejlighed,Trollegade 1,5300, Kerteminde,2498000 ,24-06-2015,Alm. Salg,66,37848,2,1700,
 440,Villa,Vinkelvej 16,5290, Marslev,785000 ,24-06-2015,Alm. Salg,195,4026,5,1908,-56%
 440,Villa,Snekkeled 36,5330, Munkebo,3100000 ,23-06-2015,Alm. Salg,120,25833,4,1952,-2%
 440,Villa,Daltoften 6,5550, Langeskov,1700000 ,23-06-2015,Alm. Salg,158,10759,5,1974,-5%
@@ -2595,7 +2539,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Villa,Møllevangen 7,5300, Kerteminde,2517500 ,08-06-2015,Fam. Salg,136,18511,4,1986,
 440,Villa,Mosekrogen 7,5330, Munkebo,1500000 ,08-06-2015,Alm. Salg,135,11111,5,1971,-6%
 440,Villa,Møllevej 22,5300, Kerteminde,1100000 ,08-06-2015,Auktion,104,10577,3,1962,
-440,Villa,Fynshovedvej 486F,5390, Martofte,450000 ,08-06-2015,Alm. Salg,50,9000,2,1915,
 440,Villa,Næsset 36,5330, Munkebo,3500000 ,02-06-2015,Alm. Salg,147,23810,4,1975,-4%
 440,Villa,Søvangsparken 25,5300, Kerteminde,3475000 ,02-06-2015,Alm. Salg,170,20441,5,2008,-1%
 440,Rækkehus,Vestergade 48,5300, Kerteminde,1225000 ,28-05-2015,Alm. Salg,64,19141,3,1900,-5%
@@ -2879,7 +2822,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Villa,Andekæret 201,5300, Kerteminde,900000 ,04-05-2014,Fam. Salg,104,8654,4,1976,
 440,Villa,Salby Bygade 13,5370, Mesinge,300000 ,29-04-2014,Alm. Salg,84,3571,3,1950,
 440,Villa,Klintevej 27B,5300, Kerteminde,1700000 ,29-04-2014,Alm. Salg,180,9444,6,1951,-15%
-440,Villa,Egevænget 1,5300, Kerteminde,1850000 ,29-04-2014,Alm. Salg,89,20787,4,1961,
 440,Villa,Fynshovedvej 299,5380, Dalby,475000 ,29-04-2014,Alm. Salg,131,3626,5,1852,
 440,Villa,Fynshovedvej 701,5390, Martofte,750000 ,28-04-2014,Alm. Salg,92,8152,4,1852,-6%
 440,Villa,Krabbegårdsvej 29,5330, Munkebo,825000 ,27-04-2014,Alm. Salg,179,4609,7,1978,-17%
@@ -3037,8 +2979,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Villa,Sybergsvej 1,5300, Kerteminde,1775000 ,18-07-2013,Alm. Salg,189,9392,5,1971,-6%
 440,Villa,Søndre Skovgyde 295,5370, Mesinge,450000 ,18-07-2013,Alm. Salg,110,4091,3,1907,-14%
 440,Villa,Kærsangervænget 21,5550, Langeskov,1375000 ,18-07-2013,Alm. Salg,165,8333,5,1976,-5%
-440,Rækkehus,Fjordvej 84B,5330, Munkebo,625000 ,14-07-2013,Alm. Salg,49,12755,3,1962,-14%
-440,Villa,Fjordvej 84A,5330, Munkebo,625000 ,14-07-2013,Alm. Salg,106,5896,4,1927,-14%
 440,Villa,Dalstrøget 8,5550, Langeskov,683000 ,14-07-2013,Alm. Salg,116,5888,4,1973,
 440,Rækkehus,Kongshøj Alle 86,5300, Kerteminde,430000 ,11-07-2013,Alm. Salg,103,4175,4,1986,
 440,Villa,Nordre Skovvænge 38,5370, Mesinge,750000 ,11-07-2013,Alm. Salg,129,5814,4,2014,
@@ -3049,7 +2989,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Villa,Odensevej 241,5300, Kerteminde,900000 ,02-07-2013,Alm. Salg,300,3000,12,1860,
 440,Villa,Bakkegårds Allé 22,5550, Langeskov,175000 ,02-07-2013,Alm. Salg,133,1316,5,2014,
 440,Villa,Hundslevgyden 33,5300, Kerteminde,2325000 ,01-07-2013,Alm. Salg,188,12367,6,1985,-3%
-440,Villa,Odensevej 44A,5550, Langeskov,4250000 ,26-06-2013,Alm. Salg,202,21040,4,1936,
 440,Villa,Bødkerstræde 1,5300, Kerteminde,890000 ,25-06-2013,Alm. Salg,60,14833,3,1877,
 440,Villa,Kærsangervænget 39,5550, Langeskov,1010000 ,25-06-2013,Alm. Salg,106,9528,3,1976,-8%
 440,Rækkehus,Røjrupvej 18B,5550, Langeskov,1150000 ,21-06-2013,Alm. Salg,98,11735,4,1988,-4%
@@ -3265,7 +3204,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Rækkehus,Toften 344,5330, Munkebo,700000 ,22-05-2012,Alm. Salg,98,7143,4,1972,-12%
 440,Rækkehus,Varehøj 11,5330, Munkebo,1140000 ,21-05-2012,Alm. Salg,98,11633,3,2007,-4%
 440,Villa,Marslev Byvej 33,5290, Marslev,7500000 ,21-05-2012,Alm. Salg,183,40984,5,1890,
-440,Villa,Revninge Bygade 54A,5300, Kerteminde,3900000 ,21-05-2012,Alm. Salg,194,20103,7,1875,
 440,Rækkehus,Kastanievej 6A,5550, Langeskov,800000 ,16-05-2012,Alm. Salg,84,9524,3,1985,
 440,Villa,Holevvej 33,5290, Marslev,3136344 ,16-05-2012,Alm. Salg,262,11971,5,1880,-2%
 440,Villa,Røjrupvej 29,5550, Langeskov,385000 ,14-05-2012,Auktion,121,3182,3,1950,
@@ -3371,10 +3309,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Rækkehus,Toften 172,5330, Munkebo,462500 ,16-10-2011,Fam. Salg,98,4719,4,1972,
 440,Villa,Holevvej 37,5290, Marslev,628036 ,16-10-2011,Alm. Salg,116,5414,5,1929,
 440,Villa,Langegade 119,5300, Kerteminde,2325000 ,13-10-2011,Alm. Salg,148,15709,4,1945,-15%
-440,Rækkehus,Frydenlundsvej 4,5550, Langeskov,1100000 ,12-10-2011,Alm. Salg,92,11957,3,1921,-27%
 440,Villa,Midskovvej 56,5370, Mesinge,500000 ,12-10-2011,Alm. Salg,97,5155,3,1962,-26%
 440,Villa,Nørrebrovænget 4,5380, Dalby,405000 ,12-10-2011,Auktion,122,3320,5,1963,-44%
-440,Villa,Frydenlundsvej 6,5550, Langeskov,1100000 ,12-10-2011,Alm. Salg,305,3607,1,1962,-27%
 440,Rækkehus,Sybergsvej 21,5300, Kerteminde,1000000 ,06-10-2011,Alm. Salg,92,10870,4,1954,-7%
 440,Rækkehus,Toften 302,5330, Munkebo,650000 ,06-10-2011,Alm. Salg,98,6633,3,1972,
 440,Villa,Røjrupvej 54,5550, Langeskov,1400000 ,05-10-2011,Fam. Salg,158,8861,4,1965,
@@ -3610,7 +3546,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Villa,Radstrupvejen 3,5290, Marslev,2800000 ,28-09-2010,Alm. Salg,402,6965,10,1843,-5%
 440,Villa,Fjordvej 171,5330, Munkebo,650000 ,27-09-2010,Alm. Salg,180,3611,6,1963,-55%
 440,Villa,Fynshovedvej 512,5390, Martofte,370000 ,20-09-2010,Auktion,108,3426,4,1916,
-440,Ejerlejlighed,Ulriksholmvej 96,5300, Kerteminde,1279080 ,19-09-2010,Alm. Salg,894,858,27,1646,
 440,Rækkehus,Fiskergade 74,5300, Kerteminde,1737500 ,16-09-2010,Alm. Salg,83,20934,2,1878,-7%
 440,Villa,Fabers Alle 60,5300, Kerteminde,2581500 ,16-09-2010,Alm. Salg,162,15935,6,2001,-6%
 440,Villa,Søvangsvej 12,5300, Kerteminde,1775000 ,15-09-2010,Fam. Salg,248,7157,6,2006,
@@ -3711,7 +3646,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Villa,Holevangsvej 127,5300, Kerteminde,748000 ,30-05-2010,Fam. Salg,161,4646,6,1907,
 440,Villa,Dalsgårdsvej 9,5550, Langeskov,950000 ,30-05-2010,Alm. Salg,110,8636,3,1964,-21%
 440,Villa,Tranevænget 10,5550, Langeskov,1300000 ,28-05-2010,Alm. Salg,182,7143,6,1965,-13%
-440,Villa,Rynkeby Bygade 51C,5350, Rynkeby,1200000 ,25-05-2010,Alm. Salg,98,12245,3,1950,
 440,Villa,Vandværksvej 18,5550, Langeskov,920000 ,20-05-2010,Alm. Salg,130,7077,4,1958,-8%
 440,Villa,Søvangsvej 16,5300, Kerteminde,1491682 ,20-05-2010,Fam. Salg,250,5967,6,2007,
 440,Villa,Alléparken 80,5290, Marslev,2000000 ,20-05-2010,Alm. Salg,150,13333,5,1997,-7%
@@ -3863,8 +3797,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Villa,Andekæret 37,5300, Kerteminde,920000 ,19-08-2009,Alm. Salg,130,7077,4,1972,-14%
 440,Villa,Kløvervænget 2,5550, Langeskov,1290000 ,17-08-2009,Alm. Salg,155,8323,6,1967,0%
 440,Villa,Lille Gyde 3,5350, Rynkeby,793000 ,16-08-2009,Fam. Salg,181,4381,3,1912,
-440,Rækkehus,Vestermaegyden 6,5370, Mesinge,2400000 ,11-08-2009,Alm. Salg,112,21429,3,1877,-8%
-440,Villa,Vestermaegyden 4,5370, Mesinge,2400000 ,11-08-2009,Alm. Salg,215,11163,8,1989,-8%
 440,Villa,Urupvej 75,5550, Langeskov,600000 ,11-08-2009,Alm. Salg,109,5505,5,1903,-11%
 440,Villa,Fåredammen 8,5300, Kerteminde,1250000 ,11-08-2009,Alm. Salg,182,6868,6,1941,
 440,Villa,Odensevej 84,5290, Marslev,434277 ,11-08-2009,Alm. Salg,87,4992,3,1877,
@@ -3922,17 +3854,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Villa,Nyborgvej 19,5550, Langeskov,800000 ,07-05-2009,Alm. Salg,85,9412,3,1960,-11%
 440,Villa,Fabers Alle 89,5300, Kerteminde,4000000 ,06-05-2009,Alm. Salg,222,18018,6,2006,
 440,Villa,Valmuevænget 4,5550, Langeskov,1495000 ,06-05-2009,Alm. Salg,146,10240,4,1972,-6%
-440,Ejerlejlighed,"Langegade 2C, 1",5300, Kerteminde,4800000 ,04-05-2009,Alm. Salg,243,19753,7,1677,
-440,Ejerlejlighed,"Langegade 2C, 2. th",5300, Kerteminde,4800000 ,04-05-2009,Alm. Salg,115,41739,3,1677,
-440,Ejerlejlighed,"Søndre Kirkerist 6, st. tv",5300, Kerteminde,4800000 ,04-05-2009,Alm. Salg,59,81356,2,1677,
-440,Ejerlejlighed,"Søndre Kirkerist 6, 2. tv",5300, Kerteminde,4800000 ,04-05-2009,Alm. Salg,103,46602,3,1677,
-440,Ejerlejlighed,"Søndre Kirkerist 6, 2. th",5300, Kerteminde,4800000 ,04-05-2009,Alm. Salg,117,41026,3,1677,
-440,Ejerlejlighed,"Langegade 2C, 2. tv",5300, Kerteminde,4800000 ,04-05-2009,Alm. Salg,126,38095,3,1677,
-440,Ejerlejlighed,"Søndre Kirkerist 4, 1",5300, Kerteminde,4800000 ,04-05-2009,Alm. Salg,70,68571,3,1677,
-440,Ejerlejlighed,"Søndre Kirkerist 6, 1",5300, Kerteminde,4800000 ,04-05-2009,Alm. Salg,109,44037,3,1677,
-440,Ejerlejlighed,"Søndre Kirkerist 2, 1",5300, Kerteminde,4800000 ,04-05-2009,Alm. Salg,94,51064,3,1677,
 440,Villa,Mesterrækken 45,5350, Rynkeby,1115000 ,04-05-2009,Alm. Salg,102,10931,3,1962,-3%
-440,Villa,Søndre Kirkerist 8,5300, Kerteminde,4800000 ,04-05-2009,Alm. Salg,112,42857,1,1650,
 440,Villa,Overdrevet 1,5330, Munkebo,2475000 ,03-05-2009,Alm. Salg,179,13827,8,2007,-8%
 440,Ejerlejlighed,Præstegade 31,5300, Kerteminde,1060000 ,29-04-2009,Alm. Salg,110,9636,6,1902,-13%
 440,Rækkehus,Kongshøj Alle 80,5300, Kerteminde,1550000 ,24-04-2009,Alm. Salg,103,15049,4,1985,-3%
@@ -4003,7 +3925,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Villa,Bogensøvej 410,5390, Martofte,797500 ,13-11-2008,Fam. Salg,245,3255,4,2017,
 440,Villa,Mosegårdsvej 65,5380, Dalby,750000 ,13-11-2008,Alm. Salg,169,4438,6,1934,-16%
 440,Rækkehus,Stenager 1,5330, Munkebo,1425000 ,05-11-2008,Alm. Salg,108,13194,4,2008,
-440,Villa,Dalsgårdsvej 25,5350, Rynkeby,9411500 ,05-11-2008,Alm. Salg,129,72957,4,2009,
 440,Villa,Søvangsparken 31,5300, Kerteminde,2200000 ,04-11-2008,Alm. Salg,193,11399,5,2009,-33%
 440,Rækkehus,Langegade 94,5300, Kerteminde,1260665 ,29-10-2008,Andet,124,10167,4,1877,
 440,Villa,Birkebjergvej 60,5380, Dalby,892500 ,26-10-2008,Fam. Salg,117,7628,5,1827,
@@ -4249,7 +4170,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Rækkehus,Toften 218,5330, Munkebo,847000 ,21-02-2008,Alm. Salg,98,8643,4,1972,-5%
 440,Rækkehus,Toften 208,5330, Munkebo,925000 ,20-02-2008,Alm. Salg,98,9439,4,1972,-2%
 440,Villa,Dræbyvej 8,5330, Munkebo,775000 ,18-02-2008,Alm. Salg,166,4669,4,1919,-3%
-440,Rækkehus,"Langegade 55, st. mf",5300, Kerteminde,6500000 ,14-02-2008,Alm. Salg,31,209677,1,1877,
 440,Villa,Odensevej 713,5300, Kerteminde,525000 ,14-02-2008,Alm. Salg,250,2100,6,1823,
 440,Villa,Alléparken 74,5290, Marslev,722399 ,14-02-2008,Alm. Salg,115,6282,5,1990,
 440,Villa,Ellingevej 15,5550, Langeskov,995000 ,13-02-2008,Fam. Salg,155,6419,5,1962,
@@ -4413,11 +4333,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Villa,Alléparken 38,5290, Marslev,282240 ,23-09-2007,Alm. Salg,153,1845,5,2008,
 440,Villa,Alléparken 44,5290, Marslev,313425 ,23-09-2007,Alm. Salg,138,2271,5,2008,
 440,Rækkehus,"Hans Schacksvej 10, 1",5300, Kerteminde,4850000 ,20-09-2007,Alm. Salg,142,34155,5,1912,
-440,Rækkehus,Strandgade 17A,5300, Kerteminde,3800000 ,20-09-2007,Alm. Salg,74,51351,3,1700,
 440,Villa,Vægterbakken 25,5300, Kerteminde,33000 ,20-09-2007,Alm. Salg,168,196,7,1935,
 440,Villa,Fabers Alle 48,5300, Kerteminde,612650 ,19-09-2007,Fam. Salg,163,3759,6,2000,
 440,Villa,Solbakken 610,5330, Munkebo,965000 ,17-09-2007,Alm. Salg,100,9650,4,1961,
-440,Villa,Dalsgårdsvej 25,5350, Rynkeby,666000 ,17-09-2007,Alm. Salg,129,5163,4,2009,
 440,Villa,Flintager 8,5330, Munkebo,287039 ,16-09-2007,Alm. Salg,175,1640,5,2008,
 440,Villa,Bøghsvej 15,5300, Kerteminde,2780000 ,13-09-2007,Alm. Salg,109,25505,4,1964,-1%
 440,Villa,Marslev Stationsvej 1,5290, Marslev,600000 ,12-09-2007,Alm. Salg,216,2778,9,1940,
@@ -4557,10 +4475,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Ejerlejlighed,"Odensevej 35, 1",5550, Langeskov,7700000 ,13-05-2007,Alm. Salg,161,47826,4,1977,
 440,Villa,Dalstrøget 23,5550, Langeskov,1295000 ,13-05-2007,Alm. Salg,247,5243,4,1900,
 440,Rækkehus,Strandgade 22,5300, Kerteminde,1250000 ,10-05-2007,Andet,112,11161,4,1910,
-440,Rækkehus,Hans Tausensgade 39A,5550, Langeskov,2695000 ,10-05-2007,Alm. Salg,72,37431,1,1800,
 440,Villa,Solbakken 522,5330, Munkebo,1025000 ,10-05-2007,Alm. Salg,103,9951,4,1991,
 440,Villa,Tavlundsvej 56,5370, Mesinge,1050000 ,10-05-2007,Alm. Salg,139,7554,6,1897,
-440,Villa,Hans Tausensgade 39,5550, Langeskov,2695000 ,10-05-2007,Alm. Salg,302,8924,9,1897,
 440,Villa,Rønninge Bygade 2,5550, Langeskov,1150000 ,09-05-2007,Alm. Salg,87,13218,3,1962,
 440,Rækkehus,Lykkeshøj 15,5330, Munkebo,479000 ,08-05-2007,Alm. Salg,127,3772,5,2007,
 440,Villa,Bakkegårdsvej 52,5330, Munkebo,985514 ,07-05-2007,Fam. Salg,156,6317,5,1989,
@@ -4629,11 +4545,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Villa,Bakkegårds Allé 71,5550, Langeskov,448230 ,28-02-2007,Alm. Salg,215,2085,6,2007,
 440,Rækkehus,Strandvejen 51,5300, Kerteminde,1150000 ,26-02-2007,Alm. Salg,104,11058,4,1899,
 440,Rækkehus,Langegade 70B,5300, Kerteminde,1210000 ,24-02-2007,Alm. Salg,75,16133,3,1875,
-440,Ejerlejlighed,"Bødkerstræde 2, 1",5300, Kerteminde,3500000 ,21-02-2007,Alm. Salg,74,47297,3,1875,
-440,Ejerlejlighed,"Bødkerstræde 2, st",5300, Kerteminde,3500000 ,21-02-2007,Alm. Salg,38,92105,2,1875,
-440,Ejerlejlighed,Bødkerstræde 4,5300, Kerteminde,3500000 ,21-02-2007,Alm. Salg,57,61404,2,1875,
-440,Ejerlejlighed,"Præstegade 40, 1",5300, Kerteminde,3500000 ,21-02-2007,Alm. Salg,65,53846,2,1875,
-440,Ejerlejlighed,"Præstegade 40, st",5300, Kerteminde,3500000 ,21-02-2007,Alm. Salg,61,57377,2,1875,
 440,Villa,Alléparken 114,5290, Marslev,7077654 ,19-02-2007,Alm. Salg,175,40444,5,2020,
 440,Villa,Hundslevvej 15,5350, Rynkeby,1230000 ,18-02-2007,Alm. Salg,120,10250,4,1961,-2%
 440,Villa,Mesinge Bygade 28,5370, Mesinge,1100000 ,18-02-2007,Alm. Salg,270,4074,7,1750,-21%
@@ -4718,7 +4629,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Villa,Egevej 2,5300, Kerteminde,835000 ,19-11-2006,Fam. Salg,89,9382,4,1961,
 440,Villa,Slåenhaven 38,5550, Langeskov,1940000 ,17-11-2006,Alm. Salg,152,12763,5,1998,
 440,Rækkehus,Lykkeshøj 9,5330, Munkebo,425000 ,15-11-2006,Alm. Salg,127,3346,4,2007,
-440,Villa,Odensevej 18B,5550, Langeskov,900000 ,15-11-2006,Alm. Salg,163,5521,3,1916,
 440,Villa,Alléparken 23,5290, Marslev,669437 ,15-11-2006,Andet,167,4009,6,1988,
 440,Villa,Syvstjernen 14,5330, Munkebo,2300000 ,15-11-2006,Alm. Salg,124,18548,4,1956,
 440,Villa,Søvangsparken 20,5300, Kerteminde,429750 ,14-11-2006,Alm. Salg,154,2791,6,2010,
@@ -4755,48 +4665,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Villa,Vejruplund 33,5290, Marslev,1300000 ,13-10-2006,Alm. Salg,134,9701,4,1972,
 440,Villa,Fynshovedvej 327,5380, Dalby,545000 ,13-10-2006,Alm. Salg,112,4866,3,1967,
 440,Villa,Højen 12,5330, Munkebo,2600000 ,13-10-2006,Alm. Salg,179,14525,6,2006,
-440,Ejerlejlighed,"Præstegade 5B, st. th",5300, Kerteminde,30150000 ,11-10-2006,Alm. Salg,77,391558,2,1800,
-440,Ejerlejlighed,"Præstegade 5B, st. tv",5300, Kerteminde,30150000 ,11-10-2006,Alm. Salg,74,407432,2,1800,
-440,Ejerlejlighed,"Præstegade 5B, 1. th",5300, Kerteminde,30150000 ,11-10-2006,Alm. Salg,77,391558,2,1800,
-440,Ejerlejlighed,Præstegade 5C,5300, Kerteminde,30150000 ,11-10-2006,Alm. Salg,52,579808,2,1800,
-440,Ejerlejlighed,"Præstegade 5B, 1. tv",5300, Kerteminde,30150000 ,11-10-2006,Alm. Salg,74,407432,2,1800,
-440,Ejerlejlighed,"Muusgården 1, 1. 1",5300, Kerteminde,30150000 ,11-10-2006,Alm. Salg,108,279167,3,1800,
-440,Ejerlejlighed,"Muusgården 1, st",5300, Kerteminde,30150000 ,11-10-2006,Alm. Salg,108,279167,3,1800,
-440,Ejerlejlighed,"Muusgården 1, 1. 10",5300, Kerteminde,30150000 ,11-10-2006,Alm. Salg,60,502500,2,1800,
-440,Ejerlejlighed,Muusgården 16,5300, Kerteminde,30150000 ,11-10-2006,Alm. Salg,46,655435,2,1800,
-440,Ejerlejlighed,Muusgården 20,5300, Kerteminde,30150000 ,11-10-2006,Alm. Salg,53,568868,2,1800,
-440,Ejerlejlighed,Muusgården 14,5300, Kerteminde,30150000 ,11-10-2006,Alm. Salg,76,396711,2,1800,
-440,Ejerlejlighed,Muusgården 11,5300, Kerteminde,30150000 ,11-10-2006,Alm. Salg,48,628125,2,1800,
-440,Ejerlejlighed,"Muusgården 1, 1. 4",5300, Kerteminde,30150000 ,11-10-2006,Alm. Salg,85,354706,2,1800,
-440,Ejerlejlighed,"Muusgården 1, 1. 3",5300, Kerteminde,30150000 ,11-10-2006,Alm. Salg,87,346552,2,1800,
-440,Ejerlejlighed,"Muusgården 1, 1. 2",5300, Kerteminde,30150000 ,11-10-2006,Alm. Salg,97,310825,2,1800,
-440,Ejerlejlighed,"Muusgården 1, 1. 6",5300, Kerteminde,30150000 ,11-10-2006,Alm. Salg,64,471094,2,1800,
-440,Ejerlejlighed,"Muusgården 1, 1. 5",5300, Kerteminde,30150000 ,11-10-2006,Alm. Salg,90,335000,2,1800,
-440,Ejerlejlighed,"Muusgården 1, 1. 8",5300, Kerteminde,30150000 ,11-10-2006,Alm. Salg,59,511017,2,1800,
-440,Ejerlejlighed,"Muusgården 1, 1. 7",5300, Kerteminde,30150000 ,11-10-2006,Alm. Salg,57,528947,2,1800,
-440,Ejerlejlighed,"Muusgården 1, 1. 9",5300, Kerteminde,30150000 ,11-10-2006,Alm. Salg,54,558333,2,1800,
-440,Ejerlejlighed,Muusgården 3. th,5300, Kerteminde,30150000 ,11-10-2006,Alm. Salg,52,579808,2,1800,
-440,Ejerlejlighed,Muusgården 2,5300, Kerteminde,30150000 ,11-10-2006,Alm. Salg,94,320745,3,1800,
-440,Ejerlejlighed,Muusgården 3. tv,5300, Kerteminde,30150000 ,11-10-2006,Alm. Salg,103,292718,3,1800,
-440,Ejerlejlighed,"Muusgården 4, 1. 1",5300, Kerteminde,30150000 ,11-10-2006,Alm. Salg,75,402000,2,1800,
-440,Ejerlejlighed,"Muusgården 4, 1. 3",5300, Kerteminde,30150000 ,11-10-2006,Alm. Salg,64,471094,2,1800,
-440,Ejerlejlighed,"Muusgården 4, 1. 4",5300, Kerteminde,30150000 ,11-10-2006,Alm. Salg,64,471094,2,1800,
-440,Ejerlejlighed,"Muusgården 4, 1. 5",5300, Kerteminde,30150000 ,11-10-2006,Alm. Salg,57,528947,2,1800,
-440,Ejerlejlighed,"Muusgården 4, 1. 2",5300, Kerteminde,30150000 ,11-10-2006,Alm. Salg,58,519828,2,1800,
-440,Ejerlejlighed,"Muusgården 4, 1. 6",5300, Kerteminde,30150000 ,11-10-2006,Alm. Salg,60,502500,1,1800,
-440,Ejerlejlighed,Muusgården 6,5300, Kerteminde,30150000 ,11-10-2006,Alm. Salg,47,641489,2,1800,
-440,Ejerlejlighed,Muusgården 8,5300, Kerteminde,30150000 ,11-10-2006,Alm. Salg,46,655435,2,1800,
-440,Ejerlejlighed,Muusgården 7. tv,5300, Kerteminde,30150000 ,11-10-2006,Alm. Salg,64,471094,2,1800,
-440,Ejerlejlighed,Muusgården 7. th,5300, Kerteminde,30150000 ,11-10-2006,Alm. Salg,65,463846,2,1800,
-440,Ejerlejlighed,Muusgården 10,5300, Kerteminde,30150000 ,11-10-2006,Alm. Salg,64,471094,2,1800,
-440,Ejerlejlighed,Muusgården 12,5300, Kerteminde,30150000 ,11-10-2006,Alm. Salg,78,386538,2,1800,
-440,Ejerlejlighed,"Muusgården 22, 2",5300, Kerteminde,30150000 ,11-10-2006,Alm. Salg,124,243145,3,1800,
-440,Ejerlejlighed,"Muusgården 24, 1",5300, Kerteminde,30150000 ,11-10-2006,Alm. Salg,104,289904,2,1800,
-440,Ejerlejlighed,"Muusgården 24, 2",5300, Kerteminde,30150000 ,11-10-2006,Alm. Salg,104,289904,2,1800,
-440,Ejerlejlighed,"Muusgården 24, st",5300, Kerteminde,30150000 ,11-10-2006,Alm. Salg,56,538393,1,1800,
-440,Ejerlejlighed,Muusgården 18,5300, Kerteminde,30150000 ,11-10-2006,Alm. Salg,46,655435,2,1800,
-440,Ejerlejlighed,"Muusgården 22, 1",5300, Kerteminde,30150000 ,11-10-2006,Alm. Salg,124,243145,3,1800,
-440,Ejerlejlighed,"Muusgården 22, st",5300, Kerteminde,30150000 ,11-10-2006,Alm. Salg,227,132819,6,1800,
 440,Villa,Østerled 8,5550, Langeskov,1050000 ,11-10-2006,Alm. Salg,133,7895,6,1900,
 440,Villa,Kirsebærvænget 3,5550, Langeskov,1165000 ,11-10-2006,Alm. Salg,121,9628,4,1972,
 440,Villa,Kærsangervænget 51,5550, Langeskov,1695000 ,11-10-2006,Alm. Salg,164,10335,4,1975,
@@ -5269,8 +5137,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Villa,Søvangsparken 51,5300, Kerteminde,308250 ,25-10-2005,Alm. Salg,178,1732,7,2006,
 440,Villa,Kongshøj Alle 51,5300, Kerteminde,1395000 ,24-10-2005,Alm. Salg,116,12026,4,1986,
 440,Villa,Søvangsparken 60,5300, Kerteminde,461996 ,24-10-2005,Alm. Salg,184,2511,6,2010,
-440,Rækkehus,Vestermaegyden 6,5370, Mesinge,2159360 ,23-10-2005,Alm. Salg,112,19280,3,1877,
-440,Villa,Vestermaegyden 4,5370, Mesinge,2159360 ,23-10-2005,Alm. Salg,215,10044,8,1989,
 440,Villa,Kongshøj Alle 61,5300, Kerteminde,1728000 ,23-10-2005,Alm. Salg,148,11676,5,1985,
 440,Villa,Skovvej 10,5300, Kerteminde,1320000 ,22-10-2005,Fam. Salg,97,13608,4,1934,
 440,Villa,Vedbendvej 18,5550, Langeskov,995000 ,20-10-2005,Alm. Salg,104,9567,3,1966,
@@ -5429,21 +5295,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Villa,Søvej 14,5390, Martofte,1700000 ,24-06-2005,Alm. Salg,216,7870,5,1890,
 440,Rækkehus,Ternevej 1,5550, Langeskov,1094000 ,23-06-2005,Alm. Salg,124,8823,6,1964,
 440,Villa,Langøvej 268,5390, Martofte,820000 ,22-06-2005,Alm. Salg,96,8542,3,1959,
-440,Ejerlejlighed,"Strandvejen 23, st. tv",5300, Kerteminde,8975000 ,21-06-2005,Alm. Salg,101,88861,4,1901,
-440,Ejerlejlighed,"Strandvejen 23, 1. th",5300, Kerteminde,8975000 ,21-06-2005,Alm. Salg,107,83879,4,1901,
-440,Ejerlejlighed,"Strandvejen 23, st. th",5300, Kerteminde,8975000 ,21-06-2005,Alm. Salg,91,98626,4,1901,
-440,Ejerlejlighed,"Strandvejen 23, 2. tv",5300, Kerteminde,8975000 ,21-06-2005,Alm. Salg,126,71230,4,1901,
-440,Ejerlejlighed,"Strandvejen 23, 2. th",5300, Kerteminde,8975000 ,21-06-2005,Alm. Salg,56,160268,2,1901,
-440,Ejerlejlighed,"Strandvejen 23, 1. tv",5300, Kerteminde,8975000 ,21-06-2005,Alm. Salg,100,89750,4,1901,
-440,Ejerlejlighed,"Trollegade 4B, st",5300, Kerteminde,8975000 ,21-06-2005,Alm. Salg,91,66481,4,1901,
-440,Ejerlejlighed,"Trollegade 4B, 2. th",5300, Kerteminde,8975000 ,21-06-2005,Alm. Salg,71,126408,2,1901,
-440,Ejerlejlighed,"Trollegade 4B, 1",5300, Kerteminde,8975000 ,21-06-2005,Alm. Salg,130,69038,4,1901,
-440,Ejerlejlighed,"Trollegade 4B, 2. tv",5300, Kerteminde,8975000 ,21-06-2005,Alm. Salg,65,138077,3,1901,
-440,Ejerlejlighed,"Trollegade 4A, st. th",5300, Kerteminde,8975000 ,21-06-2005,Alm. Salg,76,118092,3,1901,
-440,Ejerlejlighed,"Trollegade 4A, st. tv",5300, Kerteminde,8975000 ,21-06-2005,Alm. Salg,85,105588,2,1901,
-440,Ejerlejlighed,"Trollegade 4A, 1. th",5300, Kerteminde,8975000 ,21-06-2005,Alm. Salg,81,110802,2,1901,
-440,Ejerlejlighed,"Trollegade 4A, 1. tv",5300, Kerteminde,8975000 ,21-06-2005,Alm. Salg,84,106845,3,1901,
-440,Ejerlejlighed,"Trollegade 4A, 2",5300, Kerteminde,8975000 ,21-06-2005,Alm. Salg,118,76059,3,1901,
 440,Rækkehus,Odensevej 16,5300, Kerteminde,892500 ,18-06-2005,Fam. Salg,63,14167,2,1973,
 440,Villa,Odensevej 54,5550, Langeskov,860000 ,15-06-2005,Alm. Salg,142,6056,4,1939,
 440,Villa,Egevænget 9,5330, Munkebo,1750000 ,15-06-2005,Alm. Salg,319,5486,8,1975,
@@ -5510,7 +5361,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Villa,Rynkeby Bygade 14,5350, Rynkeby,940000 ,07-05-2005,Alm. Salg,145,6483,4,1934,
 440,Rækkehus,Nyhøjen 302,5330, Munkebo,615000 ,06-05-2005,Alm. Salg,106,5802,4,1960,
 440,Villa,Lundsgårdsvej 1,5540, Ullerslev,500000 ,03-05-2005,Alm. Salg,99,5051,3,1954,
-440,Rækkehus,Bogensøvej 284,5390, Martofte,5750000 ,02-05-2005,Alm. Salg,122,47131,3,2009,
 440,Rækkehus,Præstegårdsstræde 7,5300, Kerteminde,1435000 ,02-05-2005,Alm. Salg,91,15769,3,1869,
 440,Villa,Revninge Bygade 24,5300, Kerteminde,1207500 ,02-05-2005,Alm. Salg,112,10781,5,1953,
 440,Villa,Næsset 38,5330, Munkebo,2155000 ,02-05-2005,Alm. Salg,352,6122,5,1972,
@@ -5590,7 +5440,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Rækkehus,Nyhøjen 417,5330, Munkebo,750500 ,20-02-2005,Alm. Salg,106,7080,4,1960,
 440,Rækkehus,Sønderstræde 2,5300, Kerteminde,2125000 ,19-02-2005,Alm. Salg,120,11806,8,1870,
 440,Villa,Andekæret 2,5300, Kerteminde,1495000 ,15-02-2005,Alm. Salg,183,8169,7,1974,
-440,Villa,Østergårdsvej 23,5330, Munkebo,10880000 ,14-02-2005,Fam. Salg,125,87040,3,1900,
 440,Villa,Andekæret 199,5300, Kerteminde,1012500 ,10-02-2005,Alm. Salg,127,7972,3,1976,
 440,Villa,Sybergsvej 1,5300, Kerteminde,1500000 ,09-02-2005,Alm. Salg,189,7937,5,1971,
 440,Villa,Mosevejen 6,5550, Langeskov,620000 ,08-02-2005,Alm. Salg,100,6200,3,1921,
@@ -5668,7 +5517,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Villa,Fabers Alle 101,5300, Kerteminde,330786 ,05-12-2004,Alm. Salg,211,1568,7,2005,
 440,Villa,Bakkegårdsvej 44,5330, Munkebo,576572 ,05-12-2004,Andet,125,4613,4,1993,
 440,Villa,Havrevænget 14,5550, Langeskov,1100000 ,02-12-2004,Alm. Salg,177,6215,6,1974,
-440,Villa,Revninge Bygade 54A,5300, Kerteminde,1063962 ,30-11-2004,Andet,194,5484,7,1875,
 440,Villa,Krabbegårdsvej 55,5330, Munkebo,1450000 ,30-11-2004,Alm. Salg,140,10357,4,1978,
 440,Villa,Næsset 26,5330, Munkebo,3700000 ,27-11-2004,Alm. Salg,201,14176,7,1973,
 440,Villa,Christen Koldsvej 6,5380, Dalby,950000 ,26-11-2004,Alm. Salg,137,6934,4,1982,
@@ -5751,7 +5599,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Villa,Tyrebakken 13,5300, Kerteminde,1700000 ,10-09-2004,Alm. Salg,142,11972,6,1958,
 440,Villa,Søbrinken 28,5550, Langeskov,1735000 ,07-09-2004,Alm. Salg,140,12393,4,1997,
 440,Villa,Pilelunden 20,5550, Langeskov,900000 ,07-09-2004,Alm. Salg,106,8491,4,1977,
-440,Villa,Hans Tausensgade 41,5550, Langeskov,3000000 ,05-09-2004,Alm. Salg,285,10526,12,1858,
 440,Rækkehus,Sybergsvej 23,5300, Kerteminde,1025000 ,03-09-2004,Alm. Salg,92,11141,5,1952,
 440,Villa,Pilelunden 46,5550, Langeskov,1175000 ,02-09-2004,Alm. Salg,131,8969,4,1978,
 440,Villa,Marslev Byvej 39,5290, Marslev,969000 ,01-09-2004,Alm. Salg,147,6592,4,1965,
@@ -5830,18 +5677,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Villa,Udsigten 8,5330, Munkebo,900000 ,26-05-2004,Alm. Salg,134,6716,4,1965,
 440,Villa,Østergade 5,5300, Kerteminde,1600000 ,25-05-2004,Alm. Salg,127,12598,7,1927,
 440,Villa,Snekkeled 14,5330, Munkebo,2500000 ,25-05-2004,Alm. Salg,133,18797,3,2007,
-440,Ejerlejlighed,"Langegade 2C, 1",5300, Kerteminde,3500000 ,24-05-2004,Alm. Salg,243,14403,7,1677,
-440,Ejerlejlighed,"Langegade 2C, 2. th",5300, Kerteminde,3500000 ,24-05-2004,Alm. Salg,115,30435,3,1677,
-440,Ejerlejlighed,"Søndre Kirkerist 6, st. tv",5300, Kerteminde,3500000 ,24-05-2004,Alm. Salg,59,59322,2,1677,
-440,Ejerlejlighed,"Søndre Kirkerist 6, 2. tv",5300, Kerteminde,3500000 ,24-05-2004,Alm. Salg,103,33981,3,1677,
-440,Ejerlejlighed,"Søndre Kirkerist 6, 2. th",5300, Kerteminde,3500000 ,24-05-2004,Alm. Salg,117,29915,3,1677,
-440,Ejerlejlighed,"Langegade 2C, 2. tv",5300, Kerteminde,3500000 ,24-05-2004,Alm. Salg,126,27778,3,1677,
-440,Ejerlejlighed,"Søndre Kirkerist 4, 1",5300, Kerteminde,3500000 ,24-05-2004,Alm. Salg,70,50000,3,1677,
-440,Ejerlejlighed,"Søndre Kirkerist 6, 1",5300, Kerteminde,3500000 ,24-05-2004,Alm. Salg,109,32110,3,1677,
-440,Ejerlejlighed,"Søndre Kirkerist 2, 1",5300, Kerteminde,3500000 ,24-05-2004,Alm. Salg,94,37234,3,1677,
 440,Villa,Hulvejsbakken 8,5330, Munkebo,1150000 ,24-05-2004,Alm. Salg,124,9274,3,1969,
 440,Villa,Lykkesminde 5,5330, Munkebo,208328 ,24-05-2004,Alm. Salg,164,1270,6,2004,
-440,Villa,Søndre Kirkerist 8,5300, Kerteminde,3500000 ,24-05-2004,Alm. Salg,112,31250,1,1650,
 440,Rækkehus,Fiskergade 75,5300, Kerteminde,2650000 ,23-05-2004,Alm. Salg,100,26500,3,1877,
 440,Villa,Grønningen 23,5330, Munkebo,180000 ,23-05-2004,Alm. Salg,163,1104,6,1972,
 440,Villa,Fjordvej 92,5330, Munkebo,775000 ,23-05-2004,Alm. Salg,129,6008,5,1932,
@@ -6116,11 +5953,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Rækkehus,Toften 218,5330, Munkebo,550000 ,22-07-2003,Alm. Salg,98,5612,4,1972,
 440,Villa,Bispehaven 23,5550, Langeskov,1365000 ,21-07-2003,Alm. Salg,129,10581,5,2000,
 440,Villa,Dræbyvej 4,5330, Munkebo,413341 ,21-07-2003,Alm. Salg,170,2431,5,1886,
-440,Rækkehus,Ternevej 1,5550, Langeskov,780000 ,20-07-2003,Alm. Salg,124,6290,6,1964,
-440,Villa,Vagtelvænget 6,5550, Langeskov,780000 ,20-07-2003,Alm. Salg,113,6903,4,1971,
 440,Villa,Møllebakken 4,5300, Kerteminde,3895000 ,20-07-2003,Alm. Salg,203,19187,5,1900,
 440,Rækkehus,Fiskergade 27,5300, Kerteminde,1466666 ,17-07-2003,Alm. Salg,92,15942,6,1877,
-440,Rækkehus,Strandgade 17A,5300, Kerteminde,2900000 ,13-07-2003,Andet,74,39189,3,1700,
 440,Villa,Viby Bygade 6,5370, Mesinge,525000 ,13-07-2003,Alm. Salg,60,8750,2,1877,
 440,Villa,Fynshovedvej 352,5380, Dalby,590000 ,13-07-2003,Alm. Salg,98,6020,5,1956,
 440,Villa,Brabækvej 62,5550, Langeskov,780000 ,13-07-2003,Alm. Salg,213,3662,5,1800,
@@ -6148,12 +5982,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Rækkehus,Toften 180,5330, Munkebo,750000 ,22-06-2003,Alm. Salg,98,7653,4,1972,
 440,Villa,Møllevænget 9,5300, Kerteminde,1325000 ,22-06-2003,Alm. Salg,155,8548,5,1936,
 440,Rækkehus,Strandgade 22,5300, Kerteminde,350000 ,21-06-2003,Andet,112,3125,4,1910,
-440,Ejerlejlighed,"Strandvejen 27A, st",5300, Kerteminde,1459600 ,21-06-2003,Andet,87,16777,2,1910,
-440,Ejerlejlighed,"Strandvejen 27A, 1",5300, Kerteminde,1459600 ,21-06-2003,Andet,95,15364,2,1910,
-440,Ejerlejlighed,"Strandvejen 27A, 2",5300, Kerteminde,1459600 ,21-06-2003,Andet,137,10654,4,1910,
-440,Ejerlejlighed,Strandvejen 27B,5300, Kerteminde,1459600 ,21-06-2003,Andet,50,29192,2,1910,
-440,Ejerlejlighed,Strandvejen 27C,5300, Kerteminde,1459600 ,21-06-2003,Andet,118,12369,2,1910,
-440,Ejerlejlighed,"Trollegade 5, 1",5300, Kerteminde,1459600 ,21-06-2003,Andet,103,14171,3,1910,
 440,Villa,Kongshøj Alle 48,5300, Kerteminde,1315000 ,19-06-2003,Alm. Salg,157,8376,4,1986,
 440,Villa,Hundslevgyden 116,5300, Kerteminde,675000 ,19-06-2003,Alm. Salg,131,5153,3,1894,
 440,Villa,Stavnsagergyden 8,5550, Langeskov,649400 ,18-06-2003,Alm. Salg,91,7136,3,1922,
@@ -6201,7 +6029,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Villa,Bakkegårdsvej 47,5330, Munkebo,1200000 ,14-04-2003,Alm. Salg,140,8571,4,1986,
 440,Villa,Havnevejen 101,5300, Kerteminde,850000 ,11-04-2003,Alm. Salg,127,6693,4,1961,
 440,Villa,Mølleløkken 63,5300, Kerteminde,1150000 ,10-04-2003,Alm. Salg,119,9664,5,1971,
-440,Rækkehus,Bogensøvej 284,5390, Martofte,4500000 ,09-04-2003,Alm. Salg,122,36885,3,2009,
 440,Villa,Kongshøj Alle 6,5300, Kerteminde,1625000 ,08-04-2003,Alm. Salg,178,9129,6,1987,
 440,Rækkehus,Vestergade 50,5300, Kerteminde,1200000 ,07-04-2003,Alm. Salg,102,11765,4,1893,
 440,Villa,Havnevejen 122,5300, Kerteminde,480000 ,07-04-2003,Alm. Salg,97,4948,3,1952,
@@ -6213,7 +6040,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Villa,Bækskov 12,5290, Marslev,405000 ,30-03-2003,Auktion,100,4050,4,1962,
 440,Villa,Rynkeby Bygade 67,5350, Rynkeby,415000 ,30-03-2003,Alm. Salg,132,3144,6,1880,
 440,Villa,Holevangsvej 17,5300, Kerteminde,300000 ,29-03-2003,Alm. Salg,323,929,9,1777,
-440,Villa,Egevænget 1,5300, Kerteminde,1900000 ,26-03-2003,Alm. Salg,89,21348,4,1961,
 440,Villa,Fabers Alle 44,5300, Kerteminde,229230 ,25-03-2003,Alm. Salg,173,1325,5,2004,
 440,Villa,Vinkelvej 5,5290, Marslev,825000 ,25-03-2003,Alm. Salg,133,6203,4,1930,
 440,Villa,Strandlystvej 31,5330, Munkebo,970000 ,23-03-2003,Alm. Salg,158,6139,5,1967,
@@ -6249,16 +6075,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Rækkehus,Fjordvej 72,5330, Munkebo,590000 ,12-02-2003,Alm. Salg,75,7867,3,1850,
 440,Villa,Enghavevej 30,5390, Martofte,293250 ,12-02-2003,Fam. Salg,180,1629,7,1888,
 440,Rækkehus,Toften 128,5330, Munkebo,790000 ,10-02-2003,Alm. Salg,98,8061,4,1972,
-440,Ejerlejlighed,"Stationsvej 32, 1",5550, Langeskov,1250000 ,10-02-2003,Alm. Salg,60,20833,2,1898,
-440,Ejerlejlighed,"Stationsvej 34, st",5550, Langeskov,1250000 ,10-02-2003,Alm. Salg,85,14706,3,1898,
-440,Ejerlejlighed,"Stationsvej 32, st",5550, Langeskov,1250000 ,10-02-2003,Alm. Salg,60,20833,2,1898,
-440,Ejerlejlighed,"Stationsvej 34, 1",5550, Langeskov,1250000 ,10-02-2003,Alm. Salg,85,14706,3,1898,
-440,Ejerlejlighed,"Stationsvej 36, st",5550, Langeskov,1250000 ,10-02-2003,Alm. Salg,66,18939,3,1898,
-440,Ejerlejlighed,"Stationsvej 36, 1",5550, Langeskov,1250000 ,10-02-2003,Alm. Salg,66,18939,3,1898,
-440,Ejerlejlighed,"Stationsvej 38, 1",5550, Langeskov,1250000 ,10-02-2003,Alm. Salg,85,14706,3,1898,
-440,Ejerlejlighed,"Stationsvej 38, st",5550, Langeskov,1250000 ,10-02-2003,Alm. Salg,85,14706,3,1898,
-440,Ejerlejlighed,"Nyborgvej 11B, 1",5550, Langeskov,1250000 ,10-02-2003,Alm. Salg,81,15432,3,1910,
-440,Ejerlejlighed,"Nyborgvej 11B, st",5550, Langeskov,1250000 ,10-02-2003,Alm. Salg,81,15432,3,1910,
 440,Villa,Mosevangen 316,5330, Munkebo,860000 ,10-02-2003,Alm. Salg,145,5931,5,1972,
 440,Villa,Revningevej 213,5300, Kerteminde,850000 ,09-02-2003,Alm. Salg,148,5743,4,1914,
 440,Villa,Lille Gyde 9,5350, Rynkeby,680000 ,09-02-2003,Alm. Salg,99,6869,3,1953,
@@ -6293,8 +6109,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Villa,Nymarken 15,5300, Kerteminde,31000 ,19-12-2002,Auktion,136,228,5,1900,
 440,Villa,Kastelvej 70,5370, Mesinge,575000 ,18-12-2002,Alm. Salg,125,4600,4,1970,
 440,Rækkehus,Nyhøjen 407,5330, Munkebo,540000 ,17-12-2002,Fam. Salg,104,5192,4,1960,
-440,Ejerlejlighed,Langegade 9D,5300, Kerteminde,2934107 ,17-12-2002,Alm. Salg,80,36676,2,1852,
-440,Ejerlejlighed,Kattestræde 11,5300, Kerteminde,2934107 ,17-12-2002,Alm. Salg,64,45845,3,1852,
 440,Villa,Hans Tausensgade 33,5550, Langeskov,331631 ,16-12-2002,Andet,133,2493,5,1890,
 440,Villa,Ladbyvej 41,5300, Kerteminde,815000 ,16-12-2002,Alm. Salg,120,6792,3,1999,
 440,Rækkehus,Vestergade 32,5300, Kerteminde,1070000 ,15-12-2002,Alm. Salg,105,10190,4,1777,
@@ -6333,7 +6147,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Villa,Degneløkkevej 86,5300, Kerteminde,470000 ,24-10-2002,Alm. Salg,161,2919,4,1930,
 440,Villa,Kongshøj Alle 88,5300, Kerteminde,1285000 ,23-10-2002,Alm. Salg,127,10118,4,1997,
 440,Villa,Odensevej 70,5550, Langeskov,655000 ,22-10-2002,Alm. Salg,137,4781,4,1954,
-440,Villa,Grønnegårds Alle 5B,5300, Kerteminde,1300000 ,22-10-2002,Alm. Salg,220,5909,7,1915,
 440,Rækkehus,Fjordvej 79,5330, Munkebo,500000 ,21-10-2002,Alm. Salg,125,4000,4,1827,
 440,Rækkehus,Toften 308,5330, Munkebo,660000 ,20-10-2002,Alm. Salg,98,6735,4,1972,
 440,Rækkehus,Nyhøjen 704,5330, Munkebo,598400 ,20-10-2002,Alm. Salg,103,5810,4,1960,
@@ -6595,10 +6408,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Villa,Lærkevej 12,5550, Langeskov,550000 ,24-01-2002,Alm. Salg,185,2973,5,1800,
 440,Villa,Hundslevgyden 131,5300, Kerteminde,300000 ,24-01-2002,Fam. Salg,90,3333,3,1902,
 440,Rækkehus,Kongshøj Alle 116,5300, Kerteminde,957000 ,23-01-2002,Alm. Salg,101,9475,4,1985,
-440,Rækkehus,Strandgade 15B,5300, Kerteminde,3746872 ,23-01-2002,Alm. Salg,75,49958,3,1880,
-440,Ejerlejlighed,"Langegade 18C, 1",5300, Kerteminde,3746872 ,23-01-2002,Alm. Salg,118,31753,3,1880,
-440,Ejerlejlighed,"Langegade 18C, 2",5300, Kerteminde,3746872 ,23-01-2002,Alm. Salg,75,49958,2,1880,
-440,Ejerlejlighed,Strandgade 15A,5300, Kerteminde,3746872 ,23-01-2002,Alm. Salg,49,76467,2,1880,
 440,Villa,Kølstrup Bygade 46,5300, Kerteminde,900000 ,21-01-2002,Alm. Salg,180,5000,6,1878,
 440,Villa,Dyrlægerækken 27,5350, Rynkeby,620000 ,21-01-2002,Alm. Salg,168,3444,7,1886,
 440,Villa,Brabækvej 108,5550, Langeskov,1320000 ,20-01-2002,Alm. Salg,183,7213,5,1923,
@@ -6683,18 +6492,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Villa,Pal.Müllersvej 8,5300, Kerteminde,1440000 ,15-10-2001,Alm. Salg,216,6667,5,1952,
 440,Villa,Munkebovej 5,5330, Munkebo,543750 ,13-10-2001,Fam. Salg,178,3055,6,1913,
 440,Rækkehus,Dosseringen 24,5300, Kerteminde,600000 ,10-10-2001,Fam. Salg,113,5310,4,1913,
-440,Ejerlejlighed,"Lindholms Passage 2, 1. tv",5300, Kerteminde,3305000 ,10-10-2001,Alm. Salg,31,106613,1,1954,
-440,Ejerlejlighed,"Lindholms Passage 2, 2",5300, Kerteminde,3305000 ,10-10-2001,Alm. Salg,108,30602,3,1954,
-440,Ejerlejlighed,"Lindholms Passage 6, 1. th",5300, Kerteminde,3305000 ,10-10-2001,Alm. Salg,94,35160,3,1677,
-440,Ejerlejlighed,"Lindholms Passage 6, 2",5300, Kerteminde,3305000 ,10-10-2001,Alm. Salg,125,26440,4,1677,
-440,Ejerlejlighed,"Lindholms Passage 6, 1. tv",5300, Kerteminde,3305000 ,10-10-2001,Alm. Salg,131,25229,4,1677,
-440,Ejerlejlighed,"Langegade 42A, 1",5300, Kerteminde,3305000 ,10-10-2001,Alm. Salg,93,35538,2,1877,
-440,Ejerlejlighed,Langegade 42B,5300, Kerteminde,3305000 ,10-10-2001,Alm. Salg,91,36319,3,1877,
-440,Ejerlejlighed,"Lindholms Passage 2, st. th",5300, Kerteminde,3305000 ,10-10-2001,Alm. Salg,46,71848,2,1954,
-440,Ejerlejlighed,"Lindholms Passage 2, st. tv",5300, Kerteminde,3305000 ,10-10-2001,Alm. Salg,65,50846,1,1954,
-440,Ejerlejlighed,"Lindholms Passage 2, 1. th",5300, Kerteminde,3305000 ,10-10-2001,Alm. Salg,84,39345,2,1954,
-440,Ejerlejlighed,"Langegade 42A, st",5300, Kerteminde,3305000 ,10-10-2001,Alm. Salg,77,42922,2,1877,
-440,Ejerlejlighed,Langegade 40B,5300, Kerteminde,3305000 ,10-10-2001,Alm. Salg,91,36319,3,1677,
 440,Villa,Røjrupvej 44,5550, Langeskov,800000 ,10-10-2001,Alm. Salg,118,6780,4,1964,
 440,Villa,Damgårds Alle 37,5300, Kerteminde,1050000 ,10-10-2001,Alm. Salg,127,8268,5,1979,
 440,Rækkehus,Tværgade 16,5300, Kerteminde,837526 ,09-10-2001,Andet,102,8211,3,1877,
@@ -6952,19 +6749,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Villa,Odensevej 59,5550, Langeskov,665000 ,27-12-2000,Alm. Salg,107,6215,3,1949,
 440,Villa,Pilelunden 7,5550, Langeskov,416075 ,27-12-2000,Fam. Salg,99,4203,4,1977,
 440,Villa,Stavnsagergyden 11,5550, Langeskov,1050000 ,26-12-2000,Alm. Salg,158,6646,5,1946,
-440,Ejerlejlighed,Stationsvej 10,5550, Langeskov,4625000 ,21-12-2000,Alm. Salg,64,72266,2,1990,
-440,Ejerlejlighed,"Stationsvej 14, st",5550, Langeskov,4625000 ,21-12-2000,Alm. Salg,33,140152,1,1990,
-440,Ejerlejlighed,Stationsvej 12,5550, Langeskov,4625000 ,21-12-2000,Alm. Salg,33,140152,1,1990,
-440,Ejerlejlighed,"Stationsvej 14, 1",5550, Langeskov,4625000 ,21-12-2000,Alm. Salg,45,102778,1,1990,
-440,Ejerlejlighed,"Jernbanegade 6A, st. th",5550, Langeskov,4625000 ,21-12-2000,Alm. Salg,60,77083,2,1876,
-440,Ejerlejlighed,"Jernbanegade 6A, st. tv",5550, Langeskov,4625000 ,21-12-2000,Alm. Salg,59,78390,2,1876,
-440,Ejerlejlighed,"Jernbanegade 6A, 1. tv",5550, Langeskov,4625000 ,21-12-2000,Alm. Salg,75,61667,2,1876,
-440,Ejerlejlighed,"Jernbanegade 6A, 1. mf",5550, Langeskov,4625000 ,21-12-2000,Alm. Salg,60,77083,2,1876,
-440,Ejerlejlighed,"Jernbanegade 6A, 1. th",5550, Langeskov,4625000 ,21-12-2000,Alm. Salg,60,77083,2,1876,
-440,Ejerlejlighed,Stationsvej 2,5550, Langeskov,4625000 ,21-12-2000,Alm. Salg,71,65141,3,1990,
-440,Ejerlejlighed,Stationsvej 4,5550, Langeskov,4625000 ,21-12-2000,Alm. Salg,64,72266,2,1990,
-440,Ejerlejlighed,Stationsvej 6,5550, Langeskov,4625000 ,21-12-2000,Alm. Salg,64,72266,2,1990,
-440,Ejerlejlighed,Stationsvej 8,5550, Langeskov,4625000 ,21-12-2000,Alm. Salg,64,72266,2,1990,
 440,Villa,Dosseringen 32,5300, Kerteminde,1335000 ,20-12-2000,Alm. Salg,119,11218,6,1925,
 440,Villa,Grønvangen 193,5550, Langeskov,935000 ,19-12-2000,Alm. Salg,129,7248,4,1987,
 440,Villa,Smedegyden 8,5380, Dalby,603500 ,17-12-2000,Alm. Salg,154,3919,6,1972,
@@ -7057,8 +6841,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Villa,Gyvelvej 8,5550, Langeskov,291000 ,26-09-2000,Andet,96,3031,3,1961,
 440,Villa,Blommehaven 4,5350, Rynkeby,796000 ,25-09-2000,Alm. Salg,96,8292,3,1970,
 440,Villa,Bækskov 55,5290, Marslev,900000 ,25-09-2000,Alm. Salg,110,8182,4,1963,
-440,Ejerlejlighed,Langegade 9D,5300, Kerteminde,1400000 ,24-09-2000,Alm. Salg,80,17500,2,1852,
-440,Ejerlejlighed,Kattestræde 11,5300, Kerteminde,1400000 ,24-09-2000,Alm. Salg,64,21875,3,1852,
 440,Rækkehus,Toften 112,5330, Munkebo,640000 ,21-09-2000,Alm. Salg,98,6531,4,1972,
 440,Villa,Bystævnevej 20,5390, Martofte,700000 ,19-09-2000,Alm. Salg,213,3286,7,1737,
 440,Villa,Industrivej 19,5550, Langeskov,1400000 ,19-09-2000,Alm. Salg,120,11667,4,1974,
@@ -7098,8 +6880,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Villa,Viby Bygade 13,5370, Mesinge,961610 ,10-08-2000,Alm. Salg,208,4623,7,1846,
 440,Villa,Skovvangsvej 8,5550, Langeskov,1411265 ,10-08-2000,Alm. Salg,187,7547,4,1917,
 440,Villa,Falkevænget 4,5550, Langeskov,1150000 ,08-08-2000,Alm. Salg,148,7770,6,1973,
-440,Rækkehus,Søvej 40,5550, Langeskov,660000 ,07-08-2000,Alm. Salg,32,20625,2,1850,
-440,Villa,Søvej 40,5550, Langeskov,660000 ,07-08-2000,Alm. Salg,123,5366,4,1850,
 440,Villa,Grønvangen 155,5550, Langeskov,860000 ,06-08-2000,Alm. Salg,101,8515,4,1987,
 440,Villa,Kongshøj Alle 92,5300, Kerteminde,1035000 ,06-08-2000,Alm. Salg,107,9673,4,1988,
 440,Villa,Fabers Alle 60,5300, Kerteminde,224640 ,03-08-2000,Alm. Salg,162,1387,6,2001,
@@ -7242,7 +7022,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Villa,Fynshovedvej 327,5380, Dalby,262500 ,02-03-2000,Alm. Salg,112,2344,3,1967,
 440,Rækkehus,Fiskergade 10,5300, Kerteminde,1450000 ,01-03-2000,Alm. Salg,109,13303,3,1868,
 440,Villa,Snekkeled 4,5330, Munkebo,1137430 ,01-03-2000,Alm. Salg,130,8749,5,2001,
-440,Villa,Rynkeby Bygade 11,5350, Rynkeby,1293000 ,01-03-2000,Alm. Salg,120,10775,4,1907,
 440,Villa,Mølleløkken 87,5300, Kerteminde,1450000 ,28-02-2000,Alm. Salg,165,8788,5,1972,
 440,Villa,Ved Stranden 8,5300, Kerteminde,557000 ,28-02-2000,Alm. Salg,304,1832,6,2001,
 440,Rækkehus,Nyhøjen 225,5330, Munkebo,580000 ,27-02-2000,Alm. Salg,103,5631,4,1960,
@@ -7309,7 +7088,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Villa,Fynshovedvej 629,5390, Martofte,3501000 ,28-12-1999,Fam. Salg,120,29175,4,1900,
 440,Villa,Fjordvej 81,5330, Munkebo,476000 ,28-12-1999,Alm. Salg,110,4327,5,1850,
 440,Villa,Mølkensvej 15,5300, Kerteminde,1050000 ,22-12-1999,Andet,92,11413,4,1964,
-440,Villa,Revninge Bygade 54A,5300, Kerteminde,1052000 ,21-12-1999,Alm. Salg,194,5423,7,1875,
 440,Villa,Degneløkkevej 14,5300, Kerteminde,902805 ,20-12-1999,Fam. Salg,142,6358,5,1966,
 440,Villa,Kirsebærhaven 18,5350, Rynkeby,91773 ,20-12-1999,Alm. Salg,149,616,6,2001,
 440,Rækkehus,Fjordvej 77,5330, Munkebo,447000 ,19-12-1999,Alm. Salg,65,6877,2,1852,
@@ -7366,17 +7144,11 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Villa,Nyborgvej 12,5550, Langeskov,250000 ,01-11-1999,Fam. Salg,136,1838,7,1900,
 440,Villa,Krogen 5,5370, Mesinge,320000 ,01-11-1999,Alm. Salg,54,5926,2,1880,
 440,Rækkehus,Vestergade 68,5300, Kerteminde,995000 ,31-10-1999,Alm. Salg,84,11845,4,1777,
-440,Ejerlejlighed,"Bødkerstræde 2, 1",5300, Kerteminde,1400000 ,31-10-1999,Alm. Salg,74,18919,3,1875,
-440,Ejerlejlighed,"Bødkerstræde 2, st",5300, Kerteminde,1400000 ,31-10-1999,Alm. Salg,38,36842,2,1875,
-440,Ejerlejlighed,Bødkerstræde 4,5300, Kerteminde,1400000 ,31-10-1999,Alm. Salg,57,24561,2,1875,
-440,Ejerlejlighed,"Præstegade 40, 1",5300, Kerteminde,1400000 ,31-10-1999,Alm. Salg,65,21538,2,1875,
-440,Ejerlejlighed,"Præstegade 40, st",5300, Kerteminde,1400000 ,31-10-1999,Alm. Salg,61,22951,2,1875,
 440,Villa,Ellingevej 7,5550, Langeskov,869374 ,31-10-1999,Alm. Salg,148,5874,5,1948,
 440,Villa,Kongshøj Alle 97,5300, Kerteminde,974500 ,31-10-1999,Alm. Salg,99,9843,4,1989,
 440,Villa,Kongshøj Alle 107,5300, Kerteminde,1100000 ,31-10-1999,Alm. Salg,115,9565,4,1990,
 440,Rækkehus,Nyhøjen 301,5330, Munkebo,557360 ,28-10-1999,Alm. Salg,106,5258,4,1960,
 440,Villa,Kærsangervænget 60,5550, Langeskov,959143 ,28-10-1999,Alm. Salg,126,7612,4,1978,
-440,Villa,Hans Tausensgade 41,5550, Langeskov,320000 ,27-10-1999,Alm. Salg,285,1123,12,1858,
 440,Villa,Krogen 7,5370, Mesinge,521000 ,27-10-1999,Alm. Salg,90,5789,5,1827,
 440,Villa,Fabers Alle 56,5300, Kerteminde,226530 ,26-10-1999,Alm. Salg,145,1562,6,2001,
 440,Villa,Mejerivejen 7A,5290, Marslev,277057 ,22-10-1999,Andet,212,1307,5,1858,
@@ -7445,7 +7217,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Villa,Damgårds Alle 23,5300, Kerteminde,1259000 ,15-08-1999,Alm. Salg,129,9760,4,1978,
 440,Villa,Odensevej 22,5550, Langeskov,1625000 ,12-08-1999,Alm. Salg,144,11285,3,1877,
 440,Villa,Møllevænget 12,5300, Kerteminde,1650000 ,10-08-1999,Alm. Salg,171,9649,5,1985,
-440,Rækkehus,Hans Tausensgade 40C,5550, Langeskov,1372000 ,08-08-1999,Alm. Salg,84,16333,3,1827,
 440,Rækkehus,Fjordvej 73,5330, Munkebo,475000 ,08-08-1999,Alm. Salg,158,3006,2,1870,
 440,Villa,Blommehaven 18,5350, Rynkeby,1041261 ,04-08-1999,Alm. Salg,131,7949,4,1984,
 440,Villa,Odensevej 348,5300, Kerteminde,601000 ,02-08-1999,Alm. Salg,90,6678,4,1943,
@@ -7655,16 +7426,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Villa,Irisvænget 6,5550, Langeskov,828330 ,03-01-1999,Alm. Salg,104,7965,3,1972,
 440,Rækkehus,Fjordvænget 7,5300, Kerteminde,1084714 ,29-12-1998,Alm. Salg,111,9772,4,1999,
 440,Rækkehus,Fjordvænget 11,5300, Kerteminde,974540 ,29-12-1998,Alm. Salg,96,10151,3,1999,
-440,Ejerlejlighed,"Stationsvej 32, 1",5550, Langeskov,775000 ,28-12-1998,Alm. Salg,60,12917,2,1898,
-440,Ejerlejlighed,"Stationsvej 34, st",5550, Langeskov,775000 ,28-12-1998,Alm. Salg,85,9118,3,1898,
-440,Ejerlejlighed,"Stationsvej 32, st",5550, Langeskov,775000 ,28-12-1998,Alm. Salg,60,12917,2,1898,
-440,Ejerlejlighed,"Stationsvej 34, 1",5550, Langeskov,775000 ,28-12-1998,Alm. Salg,85,9118,3,1898,
-440,Ejerlejlighed,"Stationsvej 36, st",5550, Langeskov,775000 ,28-12-1998,Alm. Salg,66,11742,3,1898,
-440,Ejerlejlighed,"Stationsvej 36, 1",5550, Langeskov,775000 ,28-12-1998,Alm. Salg,66,11742,3,1898,
-440,Ejerlejlighed,"Stationsvej 38, 1",5550, Langeskov,775000 ,28-12-1998,Alm. Salg,85,9118,3,1898,
-440,Ejerlejlighed,"Stationsvej 38, st",5550, Langeskov,775000 ,28-12-1998,Alm. Salg,85,9118,3,1898,
-440,Ejerlejlighed,"Nyborgvej 11B, 1",5550, Langeskov,775000 ,28-12-1998,Alm. Salg,81,9568,3,1910,
-440,Ejerlejlighed,"Nyborgvej 11B, st",5550, Langeskov,775000 ,28-12-1998,Alm. Salg,81,9568,3,1910,
 440,Villa,Andekæret 34,5300, Kerteminde,1089000 ,27-12-1998,Alm. Salg,240,4538,7,1974,
 440,Villa,Kastanievej 20,5550, Langeskov,1202000 ,22-12-1998,Alm. Salg,163,7029,4,1972,
 440,Villa,Hans Schacksvej 303,5300, Kerteminde,510000 ,21-12-1998,Alm. Salg,152,3355,6,1936,
@@ -7856,16 +7617,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Villa,Alléparken 72,5290, Marslev,894000 ,22-06-1998,Alm. Salg,129,6930,4,1990,
 440,Villa,Hundslevvej 103,5300, Kerteminde,450000 ,21-06-1998,Alm. Salg,201,2239,9,1850,
 440,Villa,Bakkevej 20,5550, Langeskov,915000 ,21-06-1998,Alm. Salg,186,4919,7,1937,
-440,Ejerlejlighed,"Stationsvej 32, 1",5550, Langeskov,775000 ,17-06-1998,Fam. Salg,60,12917,2,1898,
-440,Ejerlejlighed,"Stationsvej 34, st",5550, Langeskov,775000 ,17-06-1998,Fam. Salg,85,9118,3,1898,
-440,Ejerlejlighed,"Stationsvej 32, st",5550, Langeskov,775000 ,17-06-1998,Fam. Salg,60,12917,2,1898,
-440,Ejerlejlighed,"Stationsvej 34, 1",5550, Langeskov,775000 ,17-06-1998,Fam. Salg,85,9118,3,1898,
-440,Ejerlejlighed,"Stationsvej 36, st",5550, Langeskov,775000 ,17-06-1998,Fam. Salg,66,11742,3,1898,
-440,Ejerlejlighed,"Stationsvej 36, 1",5550, Langeskov,775000 ,17-06-1998,Fam. Salg,66,11742,3,1898,
-440,Ejerlejlighed,"Stationsvej 38, 1",5550, Langeskov,775000 ,17-06-1998,Fam. Salg,85,9118,3,1898,
-440,Ejerlejlighed,"Stationsvej 38, st",5550, Langeskov,775000 ,17-06-1998,Fam. Salg,85,9118,3,1898,
-440,Ejerlejlighed,"Nyborgvej 11B, 1",5550, Langeskov,775000 ,17-06-1998,Fam. Salg,81,9568,3,1910,
-440,Ejerlejlighed,"Nyborgvej 11B, st",5550, Langeskov,775000 ,17-06-1998,Fam. Salg,81,9568,3,1910,
 440,Villa,Odensevej 81B,5290, Marslev,1109626 ,17-06-1998,Alm. Salg,142,7349,5,1837,
 440,Villa,Vedbendvej 7,5550, Langeskov,681000 ,17-06-1998,Alm. Salg,100,6810,3,1965,
 440,Villa,Stavnsagergyden 7,5550, Langeskov,537000 ,17-06-1998,Alm. Salg,135,3978,4,1945,
@@ -7995,16 +7746,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Villa,Grønvangen 191,5550, Langeskov,899698 ,22-03-1998,Alm. Salg,112,8033,4,1986,
 440,Villa,Irisvænget 2,5550, Langeskov,860130 ,22-03-1998,Alm. Salg,117,7352,3,1972,
 440,Villa,Stenlunden 3,5330, Munkebo,950000 ,22-03-1998,Alm. Salg,158,6013,4,1968,
-440,Ejerlejlighed,"Stationsvej 32, 1",5550, Langeskov,775000 ,19-03-1998,Andet,60,12917,2,1898,
-440,Ejerlejlighed,"Stationsvej 34, st",5550, Langeskov,775000 ,19-03-1998,Andet,85,9118,3,1898,
-440,Ejerlejlighed,"Stationsvej 32, st",5550, Langeskov,775000 ,19-03-1998,Andet,60,12917,2,1898,
-440,Ejerlejlighed,"Stationsvej 34, 1",5550, Langeskov,775000 ,19-03-1998,Andet,85,9118,3,1898,
-440,Ejerlejlighed,"Stationsvej 36, st",5550, Langeskov,775000 ,19-03-1998,Andet,66,11742,3,1898,
-440,Ejerlejlighed,"Stationsvej 36, 1",5550, Langeskov,775000 ,19-03-1998,Andet,66,11742,3,1898,
-440,Ejerlejlighed,"Stationsvej 38, 1",5550, Langeskov,775000 ,19-03-1998,Andet,85,9118,3,1898,
-440,Ejerlejlighed,"Stationsvej 38, st",5550, Langeskov,775000 ,19-03-1998,Andet,85,9118,3,1898,
-440,Ejerlejlighed,"Nyborgvej 11B, 1",5550, Langeskov,775000 ,19-03-1998,Andet,81,9568,3,1910,
-440,Ejerlejlighed,"Nyborgvej 11B, st",5550, Langeskov,775000 ,19-03-1998,Andet,81,9568,3,1910,
 440,Villa,Mosevangen 218,5330, Munkebo,926000 ,19-03-1998,Alm. Salg,124,5824,8,1970,
 440,Villa,Møllevænget 10,5550, Langeskov,1099007 ,18-03-1998,Alm. Salg,200,5495,6,1967,
 440,Villa,Dalstrøget 16,5550, Langeskov,271097 ,18-03-1998,Fam. Salg,115,2357,4,1973,
@@ -8073,12 +7814,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Villa,Rynkebyvej 198,5350, Rynkeby,319000 ,07-01-1998,Alm. Salg,130,2231,5,1918,
 440,Rækkehus,Strandgade 24,5300, Kerteminde,625000 ,06-01-1998,Alm. Salg,93,6720,4,1870,
 440,Rækkehus,Nyhøjen 225,5330, Munkebo,515900 ,06-01-1998,Alm. Salg,103,5009,4,1960,
-440,Ejerlejlighed,"Strandvejen 27A, st",5300, Kerteminde,1800000 ,06-01-1998,Alm. Salg,87,20690,2,1910,
-440,Ejerlejlighed,"Strandvejen 27A, 1",5300, Kerteminde,1800000 ,06-01-1998,Alm. Salg,95,18947,2,1910,
-440,Ejerlejlighed,"Strandvejen 27A, 2",5300, Kerteminde,1800000 ,06-01-1998,Alm. Salg,137,13139,4,1910,
-440,Ejerlejlighed,Strandvejen 27B,5300, Kerteminde,1800000 ,06-01-1998,Alm. Salg,50,36000,2,1910,
-440,Ejerlejlighed,Strandvejen 27C,5300, Kerteminde,1800000 ,06-01-1998,Alm. Salg,118,15254,2,1910,
-440,Ejerlejlighed,"Trollegade 5, 1",5300, Kerteminde,1800000 ,06-01-1998,Alm. Salg,103,17476,3,1910,
 440,Villa,Kirsebærhaven 17,5350, Rynkeby,107017 ,05-01-1998,Alm. Salg,172,622,6,2000,
 440,Villa,Ved Stranden 4,5300, Kerteminde,435000 ,04-01-1998,Alm. Salg,183,2377,5,1998,
 440,Villa,Nonnebovej 6,5550, Langeskov,918411 ,30-12-1997,Alm. Salg,179,5131,4,1963,
@@ -8324,11 +8059,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Villa,Fynshovedvej 547,5390, Martofte,345000 ,22-05-1997,Alm. Salg,111,3108,4,1727,
 440,Rækkehus,Toften 212,5330, Munkebo,585000 ,21-05-1997,Alm. Salg,98,5969,4,1972,
 440,Rækkehus,Havnegade 32,5300, Kerteminde,1095000 ,21-05-1997,Alm. Salg,154,7110,6,1930,
-440,Ejerlejlighed,"Skolegade 9A, 1",5300, Kerteminde,825000 ,21-05-1997,Alm. Salg,77,10714,2,1890,
-440,Ejerlejlighed,"Skolegade 9A, st",5300, Kerteminde,825000 ,21-05-1997,Alm. Salg,54,15278,1,1890,
-440,Ejerlejlighed,Langegade 73A,5300, Kerteminde,825000 ,21-05-1997,Alm. Salg,87,9483,2,1890,
-440,Ejerlejlighed,"Langegade 73B, st",5300, Kerteminde,825000 ,21-05-1997,Alm. Salg,89,9270,3,1890,
-440,Ejerlejlighed,"Langegade 73B, 1",5300, Kerteminde,825000 ,21-05-1997,Alm. Salg,69,11957,2,1890,
 440,Villa,Engvej 7,5550, Langeskov,322999 ,19-05-1997,Alm. Salg,107,3019,4,1965,
 440,Villa,Alléparken 93,5290, Marslev,71340 ,19-05-1997,Alm. Salg,89,802,3,2000,
 440,Rækkehus,Langegade 103,5300, Kerteminde,588000 ,15-05-1997,Alm. Salg,82,7171,4,1750,
@@ -8725,21 +8455,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Villa,Ved Stranden 34,5300, Kerteminde,535000 ,12-05-1996,Alm. Salg,162,3302,5,1996,
 440,Villa,Rønningevej 25,5550, Langeskov,763000 ,12-05-1996,Alm. Salg,128,5961,4,1948,
 440,Villa,Engbjergvej 1,5290, Marslev,640000 ,10-05-1996,Alm. Salg,143,4476,4,1827,
-440,Ejerlejlighed,"Strandvejen 23, st. tv",5300, Kerteminde,4100000 ,09-05-1996,Alm. Salg,101,40594,4,1901,
-440,Ejerlejlighed,"Strandvejen 23, 1. th",5300, Kerteminde,4100000 ,09-05-1996,Alm. Salg,107,38318,4,1901,
-440,Ejerlejlighed,"Strandvejen 23, st. th",5300, Kerteminde,4100000 ,09-05-1996,Alm. Salg,91,45055,4,1901,
-440,Ejerlejlighed,"Strandvejen 23, 2. tv",5300, Kerteminde,4100000 ,09-05-1996,Alm. Salg,126,32540,4,1901,
-440,Ejerlejlighed,"Strandvejen 23, 2. th",5300, Kerteminde,4100000 ,09-05-1996,Alm. Salg,56,73214,2,1901,
-440,Ejerlejlighed,"Strandvejen 23, 1. tv",5300, Kerteminde,4100000 ,09-05-1996,Alm. Salg,100,41000,4,1901,
-440,Ejerlejlighed,"Trollegade 4B, st",5300, Kerteminde,4100000 ,09-05-1996,Alm. Salg,91,30370,4,1901,
-440,Ejerlejlighed,"Trollegade 4B, 2. th",5300, Kerteminde,4100000 ,09-05-1996,Alm. Salg,71,57746,2,1901,
-440,Ejerlejlighed,"Trollegade 4B, 1",5300, Kerteminde,4100000 ,09-05-1996,Alm. Salg,130,31538,4,1901,
-440,Ejerlejlighed,"Trollegade 4B, 2. tv",5300, Kerteminde,4100000 ,09-05-1996,Alm. Salg,65,63077,3,1901,
-440,Ejerlejlighed,"Trollegade 4A, st. th",5300, Kerteminde,4100000 ,09-05-1996,Alm. Salg,76,53947,3,1901,
-440,Ejerlejlighed,"Trollegade 4A, st. tv",5300, Kerteminde,4100000 ,09-05-1996,Alm. Salg,85,48235,2,1901,
-440,Ejerlejlighed,"Trollegade 4A, 1. th",5300, Kerteminde,4100000 ,09-05-1996,Alm. Salg,81,50617,2,1901,
-440,Ejerlejlighed,"Trollegade 4A, 1. tv",5300, Kerteminde,4100000 ,09-05-1996,Alm. Salg,84,48810,3,1901,
-440,Ejerlejlighed,"Trollegade 4A, 2",5300, Kerteminde,4100000 ,09-05-1996,Alm. Salg,118,34746,3,1901,
 440,Villa,Rypevænget 1,5550, Langeskov,918000 ,09-05-1996,Alm. Salg,166,5530,4,1971,
 440,Villa,Brabækvej 158,5550, Langeskov,176092 ,09-05-1996,Fam. Salg,180,978,5,1998,
 440,Rækkehus,Nyhøjen 425,5330, Munkebo,361800 ,08-05-1996,Alm. Salg,103,3513,4,1960,
@@ -8779,7 +8494,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Villa,Dalby Bygade 39,5380, Dalby,804700 ,14-04-1996,Alm. Salg,297,2709,9,1922,
 440,Villa,Bakkegårdsvej 32,5330, Munkebo,695000 ,14-04-1996,Alm. Salg,147,4728,5,1979,
 440,Villa,Rynkeby Bygade 39,5350, Rynkeby,479000 ,11-04-1996,Alm. Salg,122,3926,3,1939,
-440,Villa,Odensevej 44A,5550, Langeskov,2094000 ,10-04-1996,Alm. Salg,202,10366,4,1936,
 440,Villa,Engvej 23,5550, Langeskov,560000 ,10-04-1996,Alm. Salg,157,3567,4,1966,
 440,Villa,Byløkkevænget 7,5350, Rynkeby,434000 ,10-04-1996,Fam. Salg,106,4094,3,1966,
 440,Villa,Revninge Bygade 25,5300, Kerteminde,520000 ,08-04-1996,Alm. Salg,113,4602,5,1968,
@@ -8883,14 +8597,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Villa,Ladbyvej 206,5300, Kerteminde,1530838 ,20-12-1995,Alm. Salg,144,10631,4,2003,
 440,Villa,Henriettevej 3,5550, Langeskov,380000 ,18-12-1995,Alm. Salg,120,3167,4,1934,
 440,Villa,Bakkegårdsvej 19,5330, Munkebo,202270 ,17-12-1995,Alm. Salg,157,1288,6,1979,
-440,Villa,Grønnegårds Alle 5B,5300, Kerteminde,975000 ,16-12-1995,Alm. Salg,220,4432,7,1915,
 440,Villa,Radstrupvejen 6,5290, Marslev,640000 ,16-12-1995,Alm. Salg,175,3657,4,1900,
 440,Villa,Revninge Bygade 30,5300, Kerteminde,480000 ,14-12-1995,Alm. Salg,169,2840,5,1910,
 440,Villa,Bækskov 38,5290, Marslev,507500 ,14-12-1995,Alm. Salg,95,5342,4,1962,
-440,Rækkehus,Ulriksholmvej 21,5300, Kerteminde,1170000 ,13-12-1995,Fam. Salg,30,39000,1,2000,
-440,Rækkehus,Ternevej 29,5550, Langeskov,525000 ,13-12-1995,Alm. Salg,92,5707,4,1970,
-440,Villa,Ulriksholmvej 21,5300, Kerteminde,1170000 ,13-12-1995,Fam. Salg,169,6923,6,1913,
-440,Villa,Stavnsagergyden 4,5550, Langeskov,525000 ,13-12-1995,Alm. Salg,149,3523,3,1943,
 440,Villa,Røjrupvej 50,5550, Langeskov,455000 ,11-12-1995,Alm. Salg,96,4740,4,1965,
 440,Villa,Rønningevej 30,5550, Langeskov,540482 ,11-12-1995,Alm. Salg,110,4913,3,1955,
 440,Villa,Lindøalleen 113,5330, Munkebo,475000 ,10-12-1995,Alm. Salg,190,2500,5,1890,
@@ -9217,8 +8926,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Villa,Dyssevænget 11,5330, Munkebo,655000 ,25-01-1995,Alm. Salg,150,4367,5,1972,
 440,Villa,Bakkevej 2,5550, Langeskov,540110 ,25-01-1995,Alm. Salg,118,4577,4,1910,
 440,Villa,Strandlystvej 35,5330, Munkebo,675000 ,24-01-1995,Alm. Salg,157,4299,5,1967,
-440,Rækkehus,Fjordvej 84B,5330, Munkebo,400000 ,22-01-1995,Alm. Salg,49,8163,3,1962,
-440,Villa,Fjordvej 84A,5330, Munkebo,400000 ,22-01-1995,Alm. Salg,106,3774,4,1927,
 440,Rækkehus,Fiskergade 48,5300, Kerteminde,925000 ,19-01-1995,Alm. Salg,120,7708,3,1877,
 440,Villa,Pilelunden 64,5550, Langeskov,617000 ,19-01-1995,Alm. Salg,101,6109,4,1978,
 440,Rækkehus,Nyhøjen 117,5330, Munkebo,320000 ,16-01-1995,Alm. Salg,103,3107,4,1960,
@@ -9236,8 +8943,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Villa,Grønningen 13,5330, Munkebo,750000 ,01-01-1995,Alm. Salg,180,4167,5,1972,
 440,Villa,Nymarken 7,5330, Munkebo,374000 ,01-01-1995,Fam. Salg,174,1898,8,1921,
 440,Villa,Møllegyden 7,5540, Ullerslev,1070000 ,29-12-1994,Fam. Salg,302,3223,9,1877,
-440,Ejerlejlighed,Langegade 9D,5300, Kerteminde,528000 ,28-12-1994,Alm. Salg,80,6600,2,1852,
-440,Ejerlejlighed,Kattestræde 11,5300, Kerteminde,528000 ,28-12-1994,Alm. Salg,64,8250,3,1852,
 440,Villa,Elmevej 5,5550, Langeskov,495000 ,22-12-1994,Alm. Salg,120,4125,4,1967,
 440,Villa,Alléparken 5,5290, Marslev,782400 ,22-12-1994,Alm. Salg,153,5114,4,1986,
 440,Villa,Bakkegårdsvej 48,5330, Munkebo,565000 ,22-12-1994,Alm. Salg,145,3897,5,1979,
@@ -9559,18 +9264,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Villa,Odensevej 99,5300, Kerteminde,885000 ,04-02-1994,Alm. Salg,112,7902,4,1965,
 440,Rækkehus,Fjordvej 44,5330, Munkebo,315000 ,03-02-1994,Alm. Salg,84,3750,3,1906,
 440,Villa,Revninge Bygade 10B,5300, Kerteminde,705000 ,03-02-1994,Alm. Salg,165,4273,4,1981,
-440,Ejerlejlighed,"Langegade 1B, 1. th",5300, Kerteminde,2250000 ,01-02-1994,Alm. Salg,120,18750,4,1935,
-440,Ejerlejlighed,"Langegade 1B, 1. tv",5300, Kerteminde,2250000 ,01-02-1994,Alm. Salg,101,22277,3,1935,
-440,Ejerlejlighed,"Langegade 1B, 2. th",5300, Kerteminde,2250000 ,01-02-1994,Alm. Salg,92,24457,3,1935,
-440,Ejerlejlighed,"Langegade 1B, 2. tv",5300, Kerteminde,2250000 ,01-02-1994,Alm. Salg,128,17578,4,1935,
-440,Ejerlejlighed,"Langegade 1B, 3. th",5300, Kerteminde,2250000 ,01-02-1994,Alm. Salg,83,27108,5,1935,
-440,Ejerlejlighed,"Langegade 1B, 3. tv",5300, Kerteminde,2250000 ,01-02-1994,Alm. Salg,112,20089,4,1935,
-440,Ejerlejlighed,"Fiskergade 1C, st. th",5300, Kerteminde,2250000 ,01-02-1994,Alm. Salg,64,35156,3,1935,
-440,Ejerlejlighed,"Fiskergade 1C, st. tv",5300, Kerteminde,2250000 ,01-02-1994,Alm. Salg,53,42453,2,1935,
-440,Ejerlejlighed,"Fiskergade 1C, 1. tv",5300, Kerteminde,2250000 ,01-02-1994,Alm. Salg,55,40909,3,1935,
-440,Ejerlejlighed,"Fiskergade 1C, 1. th",5300, Kerteminde,2250000 ,01-02-1994,Alm. Salg,55,40909,2,1935,
-440,Ejerlejlighed,"Fiskergade 1B, 1",5300, Kerteminde,2250000 ,01-02-1994,Alm. Salg,62,18443,4,1935,
-440,Ejerlejlighed,"Langegade 1B, st. tv",5300, Kerteminde,2250000 ,01-02-1994,Alm. Salg,99,22727,4,1935,
 440,Villa,Andekæret 39,5300, Kerteminde,695000 ,01-02-1994,Alm. Salg,121,5744,4,1974,
 440,Villa,Vejruplund 25,5290, Marslev,540000 ,01-02-1994,Alm. Salg,133,4060,5,1970,
 440,Rækkehus,Fiskergade 12,5300, Kerteminde,595000 ,30-01-1994,Alm. Salg,89,6685,2,1900,
@@ -9721,8 +9414,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Villa,Kærsangervænget 75,5550, Langeskov,455000 ,23-08-1993,Alm. Salg,116,3922,5,1975,
 440,Villa,Svanevej 5,5550, Langeskov,404000 ,19-08-1993,Alm. Salg,124,3258,3,1964,
 440,Villa,Smedevænget 3,5550, Langeskov,385000 ,17-08-1993,Alm. Salg,219,1758,5,1947,
-440,Ejerlejlighed,"Odensevej 40, 1",5550, Langeskov,1454000 ,16-08-1993,Alm. Salg,57,25509,3,1950,
-440,Villa,Odensevej 38,5550, Langeskov,1454000 ,16-08-1993,Alm. Salg,123,11821,5,1950,
 440,Villa,Kærsangervænget 101,5550, Langeskov,595000 ,15-08-1993,Alm. Salg,120,4958,4,1975,
 440,Villa,Søbrinken 10,5550, Langeskov,126880 ,15-08-1993,Alm. Salg,205,619,4,1994,
 440,Rækkehus,Nyhøjen 313,5330, Munkebo,365000 ,10-08-1993,Alm. Salg,103,3544,4,1960,
@@ -9923,10 +9614,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Villa,Lotusvænget 8,5330, Munkebo,315510 ,08-11-1992,Andet,100,3155,4,1986,
 440,Villa,Drigstrup Bygade 17,5300, Kerteminde,600000 ,05-11-1992,Alm. Salg,202,2970,5,1838,
 440,Villa,Odensevej 11,5550, Langeskov,144000 ,05-11-1992,Fam. Salg,177,814,6,1904,
-440,Rækkehus,Strandgade 15B,5300, Kerteminde,750000 ,02-11-1992,Alm. Salg,75,10000,3,1880,
-440,Ejerlejlighed,"Langegade 18C, 1",5300, Kerteminde,750000 ,02-11-1992,Alm. Salg,118,6356,3,1880,
-440,Ejerlejlighed,"Langegade 18C, 2",5300, Kerteminde,750000 ,02-11-1992,Alm. Salg,75,10000,2,1880,
-440,Ejerlejlighed,Strandgade 15A,5300, Kerteminde,750000 ,02-11-1992,Alm. Salg,49,15306,2,1880,
 440,Villa,Salby Bygade 38,5370, Mesinge,310000 ,02-11-1992,Alm. Salg,240,1292,10,1860,
 440,Villa,Bakkevej 12,5550, Langeskov,512292 ,02-11-1992,Alm. Salg,115,4455,5,1955,
 440,Villa,Ellingevej 25,5550, Langeskov,248425 ,01-11-1992,Andet,192,1294,5,1827,
@@ -10081,8 +9768,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Villa,Søbrinken 8,5550, Langeskov,123200 ,21-05-1992,Alm. Salg,150,821,5,1992,
 440,Villa,Havnevejen 138,5300, Kerteminde,480000 ,20-05-1992,Alm. Salg,208,2308,4,1947,
 440,Rækkehus,Tværgade 2F,5300, Kerteminde,630000 ,19-05-1992,Alm. Salg,85,7412,2,1988,
-440,Rækkehus,Frydenlundsvej 4,5550, Langeskov,100000 ,18-05-1992,Alm. Salg,92,1087,3,1921,
-440,Villa,Frydenlundsvej 6,5550, Langeskov,100000 ,18-05-1992,Alm. Salg,305,328,1,1962,
 440,Villa,Tøndeskovrækken 53,5350, Rynkeby,172963 ,17-05-1992,Alm. Salg,190,910,3,1840,
 440,Villa,Fjordvej 75,5330, Munkebo,370000 ,17-05-1992,Alm. Salg,104,3558,5,1877,
 440,Rækkehus,Toften 358,5330, Munkebo,392500 ,12-05-1992,Alm. Salg,98,4005,4,1972,
@@ -10112,16 +9797,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Rækkehus,Kølstrup Bygade 55B,5300, Kerteminde,1826914 ,28-04-1992,Fam. Salg,94,19435,5,1760,
 440,Villa,Granhaven 47,5330, Munkebo,695000 ,28-04-1992,Fam. Salg,149,4664,6,1974,
 440,Villa,Elmevej 34,5300, Kerteminde,820000 ,27-04-1992,Fam. Salg,180,4556,4,1970,
-440,Ejerlejlighed,"Strandgade 49, st. th",5300, Kerteminde,550000 ,26-04-1992,Alm. Salg,63,8730,2,1934,
-440,Ejerlejlighed,"Strandgade 49, st. tv",5300, Kerteminde,550000 ,26-04-1992,Alm. Salg,46,11957,2,1934,
-440,Ejerlejlighed,"Strandgade 49, 1",5300, Kerteminde,550000 ,26-04-1992,Alm. Salg,92,5978,5,1934,
-440,Ejerlejlighed,Peder Møllerstr 2,5300, Kerteminde,550000 ,26-04-1992,Alm. Salg,40,13750,2,1918,
-440,Ejerlejlighed,"Peder Møllerstr 4, st. th",5300, Kerteminde,550000 ,26-04-1992,Alm. Salg,63,8730,2,1918,
-440,Ejerlejlighed,"Peder Møllerstr 4, 1. tv",5300, Kerteminde,550000 ,26-04-1992,Alm. Salg,70,7857,3,1918,
-440,Ejerlejlighed,"Peder Møllerstr 4, st. tv",5300, Kerteminde,550000 ,26-04-1992,Alm. Salg,70,7857,3,1918,
-440,Ejerlejlighed,"Peder Møllerstr 4, 2. th",5300, Kerteminde,550000 ,26-04-1992,Alm. Salg,42,13095,2,1918,
-440,Ejerlejlighed,"Peder Møllerstr 4, 2. tv",5300, Kerteminde,550000 ,26-04-1992,Alm. Salg,60,9167,3,1918,
-440,Ejerlejlighed,"Peder Møllerstr 4, 1. th",5300, Kerteminde,550000 ,26-04-1992,Alm. Salg,63,8730,2,1918,
 440,Villa,Hundslevgyden 1,5300, Kerteminde,500000 ,26-04-1992,Alm. Salg,200,2500,8,1979,
 440,Villa,Ølunden 2,5330, Munkebo,600000 ,26-04-1992,Alm. Salg,182,3297,7,1969,
 440,Villa,Kristine Rudesvej 24,5300, Kerteminde,549740 ,21-04-1992,Alm. Salg,91,6041,2,1946,
@@ -10183,20 +9858,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 440,Villa,Hyldegårdsvej 2,5550, Langeskov,363000 ,27-02-1992,Alm. Salg,172,2110,3,1902,
 440,Villa,Nyborgvej 23,5550, Langeskov,372434 ,27-02-1992,Fam. Salg,136,2738,4,1927,
 440,Villa,Stenlunden 19,5330, Munkebo,535000 ,26-02-1992,Alm. Salg,111,4820,4,1968,
-440,Villa,Grønnegårds Alle 5B,5300, Kerteminde,650000 ,25-02-1992,Alm. Salg,220,2955,7,1915,
 440,Rækkehus,Præstegade 62,5300, Kerteminde,450000 ,24-02-1992,Alm. Salg,48,9375,2,1900,
 440,Rækkehus,Vestergade 38,5300, Kerteminde,575000 ,24-02-1992,Fam. Salg,133,4323,5,1858,
 440,Rækkehus,Toften 110,5330, Munkebo,360000 ,24-02-1992,Alm. Salg,98,3673,4,1972,
-440,Ejerlejlighed,"Strandgade 49, st. th",5300, Kerteminde,275489 ,24-02-1992,Fam. Salg,63,4373,2,1934,
-440,Ejerlejlighed,"Strandgade 49, st. tv",5300, Kerteminde,275489 ,24-02-1992,Fam. Salg,46,5989,2,1934,
-440,Ejerlejlighed,"Strandgade 49, 1",5300, Kerteminde,275489 ,24-02-1992,Fam. Salg,92,2994,5,1934,
-440,Ejerlejlighed,Peder Møllerstr 2,5300, Kerteminde,275489 ,24-02-1992,Fam. Salg,40,6887,2,1918,
-440,Ejerlejlighed,"Peder Møllerstr 4, st. th",5300, Kerteminde,275489 ,24-02-1992,Fam. Salg,63,4373,2,1918,
-440,Ejerlejlighed,"Peder Møllerstr 4, 1. tv",5300, Kerteminde,275489 ,24-02-1992,Fam. Salg,70,3936,3,1918,
-440,Ejerlejlighed,"Peder Møllerstr 4, st. tv",5300, Kerteminde,275489 ,24-02-1992,Fam. Salg,70,3936,3,1918,
-440,Ejerlejlighed,"Peder Møllerstr 4, 2. th",5300, Kerteminde,275489 ,24-02-1992,Fam. Salg,42,6559,2,1918,
-440,Ejerlejlighed,"Peder Møllerstr 4, 2. tv",5300, Kerteminde,275489 ,24-02-1992,Fam. Salg,60,4591,3,1918,
-440,Ejerlejlighed,"Peder Møllerstr 4, 1. th",5300, Kerteminde,275489 ,24-02-1992,Fam. Salg,63,4373,2,1918,
 440,Villa,Blommehaven 9,5350, Rynkeby,310000 ,23-02-1992,Alm. Salg,112,2768,4,1974,
 440,Villa,Østergade 2,5300, Kerteminde,863000 ,23-02-1992,Alm. Salg,100,8630,3,1926,
 440,Villa,Rynkeby Bygade 14,5350, Rynkeby,630000 ,23-02-1992,Alm. Salg,145,4345,4,1934,
