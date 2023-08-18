@@ -355,11 +355,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 240,Rækkehus,Nøddelunden 158,2765, Smørum,2810000 ,03-05-2022,Alm. Salg,94,29894,4,1989,-6%
 240,Villa,Folekær 6,2765, Smørum,4110000 ,02-05-2022,Alm. Salg,175,23486,5,1967,3%
 240,Rækkehus,Krebsen 61,3650, Ølstykke,2825000 ,01-05-2022,Alm. Salg,114,24781,5,1971,-1%
-240,Rækkehus,Kongemosen 18,2765, Smørum,3000000 ,28-04-2022,Alm. Salg,105,28571,3,2006,-3%
 240,Rækkehus,Hesselholm 215,3670, Veksø Sjælland,3985000 ,28-04-2022,Alm. Salg,140,28464,6,1982,0%
 240,Villa,Teglkær 23,2765, Smørum,4250000 ,28-04-2022,Alm. Salg,211,20142,6,1976,-5%
 240,Villa,Kratvej 6,3660, Stenløse,2650000 ,28-04-2022,Alm. Salg,139,19065,4,1887,-5%
-240,Villa,Solbærvangen 45,2765, Smørum,3000000 ,28-04-2022,Andet,162,18519,5,1975,
 240,Villa,Kornvænget 28,3660, Stenløse,3545000 ,27-04-2022,Alm. Salg,164,21616,6,1962,-1%
 240,Rækkehus,Mølleparken 12,3660, Stenløse,1237500 ,26-04-2022,Fam. Salg,90,13750,3,1976,
 240,Rækkehus,Jadevej 7,3650, Ølstykke,3450000 ,26-04-2022,Alm. Salg,108,31944,3,1997,
@@ -722,7 +720,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 240,Villa,Krogtoften 6,3660, Stenløse,3800000 ,06-11-2021,Alm. Salg,117,32479,4,1968,
 240,Villa,Skebjergvej 24A,2765, Smørum,3595000 ,06-11-2021,Alm. Salg,109,32982,4,1967,-3%
 240,Villa,Cellovej 4,3650, Ølstykke,3400000 ,04-11-2021,Alm. Salg,202,16832,5,1969,-3%
-240,Villa,Nybøllevej 40A,2765, Smørum,4000000 ,04-11-2021,Alm. Salg,123,32520,4,1962,
 240,Rækkehus,Kong Eriks Have 13,2765, Smørum,3450000 ,03-11-2021,Alm. Salg,98,35204,4,2005,
 240,Villa,Åkandehaven 78,2765, Smørum,4550000 ,03-11-2021,Alm. Salg,155,29355,4,1971,
 240,Villa,Rosenvænget 28,3660, Stenløse,2825000 ,03-11-2021,Alm. Salg,115,24565,4,1968,-6%
@@ -1646,7 +1643,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 240,Villa,Einersvej 11,3660, Stenløse,4450000 ,17-12-2020,Alm. Salg,184,24185,6,1970,1%
 240,Rækkehus,Egernleddet 104,3660, Stenløse,3580000 ,16-12-2020,Alm. Salg,125,28640,3,2008,
 240,Rækkehus,Kongevænget 23,2765, Smørum,3850000 ,16-12-2020,Alm. Salg,156,24679,5,2012,-4%
-240,Villa,Smørum Nordre Gade 9A,2765, Smørum,7650000 ,16-12-2020,Alm. Salg,261,29310,6,1874,-4%
 240,Rækkehus,Lammeengen 8,2765, Smørum,3250000 ,15-12-2020,Alm. Salg,133,24436,4,2021,
 240,Ejerlejlighed,"Søhøj Park 5, 1. 6",3650, Ølstykke,1625000 ,14-12-2020,Fam. Salg,92,17663,4,2007,
 240,Villa,Cedervej 20,3650, Ølstykke,2325000 ,14-12-2020,Alm. Salg,108,21528,4,1967,-3%
@@ -3584,9 +3580,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 240,Rækkehus,Hindbærvangen 113,2765, Smørum,2525000 ,04-09-2018,Alm. Salg,111,22748,4,1975,5%
 240,Villa,Havrevænget 22,3660, Stenløse,3325000 ,04-09-2018,Alm. Salg,149,22315,5,1971,-2%
 240,Villa,Hagbardsvej 32,3650, Ølstykke,2295000 ,04-09-2018,Alm. Salg,110,20864,4,1977,
-240,Ejerlejlighed,"Råbrovej 62A, 1",2765, Smørum,4500000 ,03-09-2018,Alm. Salg,138,32609,1,1937,
 240,Villa,Helmersvej 7,3660, Stenløse,3200000 ,03-09-2018,Fam. Salg,143,22378,5,1976,
-240,Villa,Råbrovej 62A,2765, Smørum,4500000 ,03-09-2018,Alm. Salg,160,28125,7,1937,
 240,Villa,Gjelstensåsen 147,3650, Ølstykke,3388000 ,03-09-2018,Alm. Salg,166,20410,5,1988,3%
 240,Villa,Petuniavej 25,3650, Ølstykke,2395000 ,03-09-2018,Alm. Salg,108,22176,4,1971,
 240,Rækkehus,Kong Knuds Park 42,2765, Smørum,516667 ,02-09-2018,Alm. Salg,116,4454,4,2015,
@@ -4154,8 +4148,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 240,Villa,Store Gryde 2,2765, Smørum,2250000 ,10-01-2018,Alm. Salg,185,12162,4,2021,
 240,Rækkehus,Astershaven 153,2765, Smørum,3025000 ,09-01-2018,Alm. Salg,106,28538,4,1971,-2%
 240,Villa,Hagbardsvej 23,3650, Ølstykke,3050000 ,09-01-2018,Alm. Salg,160,19063,4,1980,-5%
-240,Rækkehus,Skorpionen 9,3650, Ølstykke,2295000 ,08-01-2018,Alm. Salg,114,20132,5,1971,
-240,Villa,Cedervej 19,3650, Ølstykke,2295000 ,08-01-2018,Alm. Salg,110,20864,4,1969,
 240,Villa,Gartnersvinget 5,3650, Ølstykke,2880000 ,08-01-2018,Auktion,151,19073,5,1963,
 240,Rækkehus,Marienlystvej 1A,3650, Ølstykke,2574524 ,07-01-2018,Alm. Salg,91,28291,3,2017,2%
 240,Villa,Ørnebjergvej 39,3650, Ølstykke,2645000 ,06-01-2018,Alm. Salg,120,22042,5,1966,
@@ -4257,11 +4249,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 240,Rækkehus,Egernleddet 136,3660, Stenløse,3170000 ,16-11-2017,Alm. Salg,125,25360,4,2019,
 240,Rækkehus,Præstegårdsvej 27,3660, Stenløse,2140000 ,16-11-2017,Alm. Salg,88,24318,4,1967,
 240,Rækkehus,Latyrushaven 95,2765, Smørum,2400000 ,16-11-2017,Alm. Salg,106,22642,4,1973,-2%
-240,Rækkehus,Frodes Have 50,3650, Ølstykke,2195000 ,16-11-2017,Alm. Salg,106,20708,4,2008,
 240,Ejerlejlighed,Sandalsparken 100,3660, Stenløse,1400000 ,16-11-2017,Alm. Salg,59,23729,2,1976,-5%
 240,Villa,Veksø Bygade 24,3670, Veksø Sjælland,1860000 ,16-11-2017,Alm. Salg,107,17383,4,1800,-7%
 240,Villa,Bauneholmvej 19,3660, Stenløse,3300000 ,16-11-2017,Alm. Salg,120,27500,4,1967,
-240,Villa,Druevej 5,3650, Ølstykke,2195000 ,16-11-2017,Alm. Salg,139,15791,5,1969,
 240,Rækkehus,Præstegårdsvej 13,3660, Stenløse,2345000 ,15-11-2017,Alm. Salg,117,20043,4,1967,
 240,Rækkehus,Søtofteparken 140,3660, Stenløse,2275000 ,15-11-2017,Alm. Salg,130,17500,5,1975,-5%
 240,Villa,Ganehøj Alle 38,3660, Stenløse,1833000 ,15-11-2017,Alm. Salg,140,13093,5,1978,
@@ -4700,7 +4690,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 240,Rækkehus,Hindbærvangen 107,2765, Smørum,2300000 ,23-05-2017,Alm. Salg,111,20721,4,1975,-6%
 240,Villa,Bundsvej 16,3660, Stenløse,6500000 ,23-05-2017,Alm. Salg,278,23381,10,1780,
 240,Villa,Flodvej 9,2765, Smørum,3795000 ,23-05-2017,Alm. Salg,174,21810,5,1974,1%
-240,Villa,Smørum Bygade 31A,2765, Smørum,5450000 ,23-05-2017,Alm. Salg,273,19963,5,1875,-6%
 240,Rækkehus,Kongemosen 12,2765, Smørum,2400000 ,22-05-2017,Alm. Salg,105,22857,3,2006,-4%
 240,Rækkehus,Skorpionen 1,3650, Ølstykke,2150000 ,22-05-2017,Alm. Salg,114,18860,5,1971,3%
 240,Rækkehus,Ametystvej 20,3650, Ølstykke,1770000 ,22-05-2017,Alm. Salg,99,17879,4,1988,-1%
@@ -5683,7 +5672,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 240,Ejerlejlighed,Sandalsparken 15,3660, Stenløse,1620000 ,14-01-2016,Alm. Salg,74,21892,3,1975,-2%
 240,Villa,Gjelstensåsen 315,3650, Ølstykke,2850000 ,14-01-2016,Alm. Salg,149,19128,5,1998,-3%
 240,Villa,Gøgevej 11,3660, Stenløse,2695000 ,14-01-2016,Alm. Salg,158,17057,6,1967,
-240,Villa,Smørum Bygade 37B,2765, Smørum,1650000 ,14-01-2016,Andet,105,15714,4,1961,
 240,Villa,Lyngevej 90,3660, Stenløse,4950000 ,13-01-2016,Alm. Salg,220,22500,5,1850,
 240,Villa,Rådyrleddet 4,3660, Stenløse,2875000 ,13-01-2016,Fam. Salg,182,15797,6,2006,
 240,Villa,Fyrrevej 15,3650, Ølstykke,1807500 ,13-01-2016,Alm. Salg,106,17052,4,1966,-2%
@@ -6167,11 +6155,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 240,Villa,Skræderkær 3,3660, Stenløse,3000000 ,11-05-2015,Alm. Salg,213,14085,8,1970,
 240,Villa,Solbærvangen 33,2765, Smørum,3600000 ,11-05-2015,Alm. Salg,133,27068,5,1973,-1%
 240,Rækkehus,Højdevej 19,3660, Stenløse,1825000 ,10-05-2015,Alm. Salg,111,16441,3,1989,-4%
-240,Rækkehus,Kildegårdsvej 4,3650, Ølstykke,1800000 ,10-05-2015,Alm. Salg,104,17308,4,2002,-5%
 240,Rækkehus,Smørumnedrevej 20B,2765, Smørum,1375000 ,10-05-2015,Alm. Salg,59,23305,2,1980,2%
 240,Rækkehus,Askebjerggårdsvej 19,2765, Smørum,2700000 ,10-05-2015,Alm. Salg,112,24107,4,2007,
 240,Villa,Hindbærvangen 62,2765, Smørum,3175000 ,10-05-2015,Alm. Salg,117,27137,4,1989,-5%
-240,Villa,Drosselvej 32,3650, Ølstykke,1800000 ,10-05-2015,Alm. Salg,171,10526,5,1967,-10%
 240,Villa,Valmuehaven 58,2765, Smørum,3250000 ,09-05-2015,Alm. Salg,150,21667,4,1973,-1%
 240,Rækkehus,Frodes Have 50,3650, Ølstykke,2000000 ,07-05-2015,Alm. Salg,106,18868,4,2008,
 240,Ejerlejlighed,"Pærevangen 8, 2. th",2765, Smørum,1480000 ,07-05-2015,Alm. Salg,95,15579,3,1981,0%
@@ -7337,8 +7323,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 240,Rækkehus,Løven 6,3650, Ølstykke,1325000 ,29-05-2013,Alm. Salg,114,11623,5,1970,-1%
 240,Villa,Kildebækken 6,3660, Stenløse,1115000 ,29-05-2013,Alm. Salg,176,6335,7,2014,
 240,Villa,Kildebækken 8,3660, Stenløse,1093000 ,29-05-2013,Alm. Salg,171,6392,4,2016,
-240,Ejerlejlighed,"Søhøj Park 6, st. 3",3650, Ølstykke,2595000 ,28-05-2013,Alm. Salg,92,28207,3,2006,
-240,Villa,Pelargonievej 7,3650, Ølstykke,2595000 ,28-05-2013,Alm. Salg,139,18669,4,1968,
 240,Villa,Kildebækken 17,3660, Stenløse,1211113 ,28-05-2013,Alm. Salg,173,7001,7,2015,
 240,Villa,Kildebækken 9,3660, Stenløse,1162500 ,28-05-2013,Alm. Salg,180,6458,5,2014,
 240,Villa,Kildebækken 7,3660, Stenløse,1300009 ,28-05-2013,Alm. Salg,176,7386,5,2014,
@@ -7831,8 +7815,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 240,Ejerlejlighed,Sandalsparken 70,3660, Stenløse,887500 ,13-06-2012,Alm. Salg,51,17402,2,1976,-6%
 240,Villa,Kærdalen 35,3660, Stenløse,1350000 ,13-06-2012,Alm. Salg,167,8084,5,2013,
 240,Rækkehus,Storkevej 8,3650, Ølstykke,2595000 ,12-06-2012,Alm. Salg,132,19659,4,2012,
-240,Ejerlejlighed,Veksø Bygade 32,3670, Veksø Sjælland,2027628 ,12-06-2012,Andet,92,22039,4,1950,
-240,Villa,Veksø Bygade 32,3670, Veksø Sjælland,2027628 ,12-06-2012,Andet,244,7090,9,1925,
 240,Villa,Rødkælkevej 16,3660, Stenløse,2100000 ,12-06-2012,Alm. Salg,156,13462,5,1971,-11%
 240,Villa,Nederkær 2,2765, Smørum,1625000 ,12-06-2012,Alm. Salg,213,7629,5,2015,-19%
 240,Villa,Petuniavej 3,3650, Ølstykke,1500000 ,12-06-2012,Alm. Salg,150,10000,4,1968,-10%
@@ -8020,9 +8002,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 240,Villa,Opalvej 20,3650, Ølstykke,2700000 ,21-12-2011,Alm. Salg,141,19149,5,1999,-10%
 240,Villa,Damvej 3,3660, Stenløse,1560000 ,20-12-2011,Alm. Salg,80,19500,3,1959,1%
 240,Rækkehus,Løven 8,3650, Ølstykke,725000 ,19-12-2011,Andet,114,6360,5,1970,
-240,Rækkehus,Brøndsted 149,3670, Veksø Sjælland,1600000 ,19-12-2011,Alm. Salg,102,15686,4,1989,-6%
 240,Ejerlejlighed,"Pærevangen 12, 1. th",2765, Smørum,1262250 ,19-12-2011,Alm. Salg,96,13148,4,1981,-6%
-240,Villa,Dyrlægevej 5,3670, Veksø Sjælland,1600000 ,19-12-2011,Auktion,159,10063,4,1800,
 240,Villa,Rørsangervej 28,3650, Ølstykke,1301557 ,18-12-2011,Andet,124,10496,5,1972,
 240,Rækkehus,Vandmanden 57,3650, Ølstykke,1600000 ,17-12-2011,Fam. Salg,114,14035,5,1971,
 240,Rækkehus,Krebsen 69,3650, Ølstykke,1495000 ,15-12-2011,Alm. Salg,114,13114,5,1971,
@@ -8252,7 +8232,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 240,Ejerlejlighed,Bryggertorvet 6,3650, Ølstykke,900000 ,12-06-2011,Alm. Salg,68,13235,3,1988,-10%
 240,Villa,Stærevej 12,3660, Stenløse,2415000 ,10-06-2011,Alm. Salg,136,17757,5,1967,-3%
 240,Villa,Opalvej 41,3650, Ølstykke,2700000 ,09-06-2011,Alm. Salg,110,24545,4,2002,-3%
-240,Villa,Smørum Bygade 37B,2765, Smørum,2376000 ,09-06-2011,Alm. Salg,105,22629,4,1961,
 240,Rækkehus,Egernleddet 17,3660, Stenløse,2225000 ,08-06-2011,Alm. Salg,120,18542,4,2011,
 240,Rækkehus,Latyrushaven 47,2765, Smørum,2075000 ,07-06-2011,Alm. Salg,109,19037,4,1973,-5%
 240,Rækkehus,Brøndsted 135,3670, Veksø Sjælland,1675000 ,07-06-2011,Alm. Salg,90,18611,3,1989,-4%
@@ -9032,8 +9011,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 240,Villa,Lotusvej 11,3650, Ølstykke,1650000 ,29-11-2009,Alm. Salg,160,10313,6,1969,-15%
 240,Villa,Vinlandsvej 1,3650, Ølstykke,2695000 ,26-11-2009,Alm. Salg,157,17166,4,1985,
 240,Rækkehus,Åkandehaven 196,2765, Smørum,1850000 ,24-11-2009,Alm. Salg,106,17453,4,1974,-6%
-240,Ejerlejlighed,Bryggertorvet 35D,3650, Ølstykke,795000 ,24-11-2009,Alm. Salg,45,17667,1,1988,
-240,Villa,Stationsvej 5A,3650, Ølstykke,795000 ,24-11-2009,Alm. Salg,153,5196,4,1965,
 240,Rækkehus,Østergade 39,3660, Stenløse,1500000 ,23-11-2009,Alm. Salg,96,15625,3,1984,1%
 240,Rækkehus,Nøddelunden 336,2765, Smørum,1645000 ,22-11-2009,Andet,61,26967,3,1991,
 240,Villa,Møllevangen 6,3660, Stenløse,1260000 ,22-11-2009,Alm. Salg,80,15750,3,1958,-16%
@@ -9070,11 +9047,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 240,Villa,Yrsavej 8,3660, Stenløse,1600000 ,05-11-2009,Alm. Salg,130,12308,3,1973,-11%
 240,Villa,Råbroparken 56,2765, Smørum,2975000 ,04-11-2009,Alm. Salg,125,23800,4,1996,-7%
 240,Ejerlejlighed,"Pærevangen 8, 1. mf",2765, Smørum,1000000 ,03-11-2009,Alm. Salg,56,17857,2,1981,-7%
-240,Ejerlejlighed,Ledøjetoften 12,2765, Smørum,2700000 ,03-11-2009,Auktion,176,15341,4,1920,
 240,Villa,Helgesvej 3,3660, Stenløse,2350000 ,03-11-2009,Alm. Salg,143,16434,6,1975,
 240,Villa,Grimskær 2,3660, Stenløse,2770000 ,03-11-2009,Alm. Salg,144,19236,5,1972,-4%
 240,Villa,Engholmvej 3,3660, Stenløse,2850000 ,03-11-2009,Alm. Salg,176,16193,6,1730,-5%
-240,Villa,Ledøjetoften 12,2765, Smørum,2700000 ,03-11-2009,Auktion,293,9215,8,1920,
 240,Villa,Tusindfrydvej 12,3650, Ølstykke,1100000 ,03-11-2009,Auktion,78,14103,3,1976,-29%
 240,Villa,Rosenvænget 26,3660, Stenløse,1750000 ,03-11-2009,Alm. Salg,125,14000,4,1968,-3%
 240,Villa,Vølundsvej 15,3650, Ølstykke,1835000 ,02-11-2009,Alm. Salg,157,11688,4,1981,-6%
@@ -9137,9 +9112,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 240,Villa,Gjelstensåsen 289,3650, Ølstykke,3454435 ,01-10-2009,Alm. Salg,185,18673,6,1998,-4%
 240,Villa,Løvsangervej 5,3660, Stenløse,2050000 ,01-10-2009,Alm. Salg,112,18304,4,1967,-2%
 240,Villa,Stationsvej 73,3650, Ølstykke,2975000 ,01-10-2009,Alm. Salg,167,17814,6,1964,
-240,Rækkehus,Diamantvej 2,3650, Ølstykke,1650000 ,29-09-2009,Alm. Salg,82,20122,3,1997,-3%
 240,Rækkehus,Maglemosen 12,3650, Ølstykke,2050000 ,29-09-2009,Alm. Salg,100,20500,4,2003,-2%
-240,Villa,Gjelstensåsen 43,3650, Ølstykke,1650000 ,29-09-2009,Auktion,168,9821,7,1987,-45%
 240,Villa,Irisvej 6,3660, Stenløse,2565000 ,28-09-2009,Alm. Salg,143,17937,4,1974,-1%
 240,Villa,Åkandehaven 10,2765, Smørum,3000000 ,28-09-2009,Alm. Salg,197,15228,7,1971,-6%
 240,Rækkehus,Brøndsted 414,3670, Veksø Sjælland,1565000 ,27-09-2009,Alm. Salg,94,16649,4,1992,-9%
@@ -9214,7 +9187,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 240,Rækkehus,Birkevej 14,3660, Stenløse,1657500 ,02-08-2009,Fam. Salg,114,14539,5,1970,
 240,Rækkehus,Latyrushaven 26,2765, Smørum,1750000 ,02-08-2009,Alm. Salg,109,16055,4,1973,-3%
 240,Rækkehus,Krebsen 94,3650, Ølstykke,1555000 ,02-08-2009,Alm. Salg,114,13640,5,1971,-3%
-240,Rækkehus,Hesselparken 30,3660, Stenløse,3000000 ,02-08-2009,Andet,124,24194,4,1999,
 240,Rækkehus,Skorpionen 56,3650, Ølstykke,1950000 ,02-08-2009,Alm. Salg,114,17105,5,1971,
 240,Rækkehus,Regnersvej 129,3650, Ølstykke,1810000 ,02-08-2009,Alm. Salg,96,18854,3,2005,-4%
 240,Rækkehus,Stenlillevej 30,3660, Stenløse,1840000 ,02-08-2009,Alm. Salg,106,17358,4,1999,-8%
@@ -9223,7 +9195,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 240,Villa,Baneskrænten 3,2765, Smørum,2300000 ,02-08-2009,Alm. Salg,248,9274,6,1968,-18%
 240,Villa,Farumvej 15,3660, Stenløse,3250000 ,02-08-2009,Alm. Salg,150,21667,5,1971,-7%
 240,Villa,Ganløseparken 42,3660, Stenløse,4300000 ,02-08-2009,Alm. Salg,200,21500,6,1979,-14%
-240,Villa,Ganløseparken 54,3660, Stenløse,3000000 ,02-08-2009,Alm. Salg,140,21429,7,1966,-9%
 240,Villa,Slagslunde Bygade 17,3660, Stenløse,623340 ,02-08-2009,Auktion,84,7421,3,1800,
 240,Villa,Hvedevej 28,2765, Smørum,1537500 ,02-08-2009,Fam. Salg,162,9491,5,1973,
 240,Villa,Tvillingevej 26,2765, Smørum,2520000 ,02-08-2009,Alm. Salg,170,14824,7,1974,
@@ -10652,8 +10623,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 240,Rækkehus,Dronning Charlottes Vej 11,3650, Ølstykke,2611000 ,13-02-2007,Andet,106,24632,4,2006,
 240,Rækkehus,Dronning Charlottes Vej 12,3650, Ølstykke,2565000 ,13-02-2007,Andet,106,24198,3,2006,
 240,Villa,Liljehaven 65,2765, Smørum,1065955 ,12-02-2007,Fam. Salg,142,7507,4,1976,
-240,Rækkehus,Skorpionen 45,3650, Ølstykke,1400000 ,10-02-2007,Alm. Salg,114,12281,5,1971,
-240,Villa,Gartnersvinget 10,3650, Ølstykke,1400000 ,10-02-2007,Fam. Salg,129,10853,3,1966,
 240,Rækkehus,Latyrushaven 44,2765, Smørum,1369850 ,08-02-2007,Alm. Salg,109,12567,4,1973,-54%
 240,Ejerlejlighed,"Pærevangen 24, 1. tv",2765, Smørum,1745000 ,08-02-2007,Alm. Salg,80,21813,2,1981,-3%
 240,Villa,Birkemosen 14,3650, Ølstykke,2950000 ,08-02-2007,Alm. Salg,101,29208,3,1961,
@@ -11006,7 +10975,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 240,Ejerlejlighed,Rørsangervej 4I,3650, Ølstykke,1550000 ,29-05-2006,Alm. Salg,68,22794,2,1972,
 240,Rækkehus,Løven 20,3650, Ølstykke,2300000 ,28-05-2006,Alm. Salg,114,20175,5,1970,
 240,Rækkehus,Bragesvej 11,3650, Ølstykke,2559000 ,28-05-2006,Alm. Salg,96,26656,4,1989,
-240,Rækkehus,Bragesvej 25,3650, Ølstykke,2995000 ,28-05-2006,Alm. Salg,112,26741,4,1996,
 240,Rækkehus,Thyra Danebods Vej 61,3650, Ølstykke,2600000 ,28-05-2006,Alm. Salg,125,20800,5,1968,
 240,Rækkehus,Skorpionen 30,3650, Ølstykke,997500 ,28-05-2006,Andet,114,8750,5,1971,
 240,Rækkehus,Skorpionen 40,3650, Ølstykke,2325000 ,28-05-2006,Alm. Salg,114,20395,5,1971,
@@ -11015,7 +10983,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 240,Rækkehus,Kornvænget 56,3650, Ølstykke,2075000 ,28-05-2006,Alm. Salg,127,16339,4,1979,
 240,Rækkehus,Vædderen 17,3650, Ølstykke,1925000 ,28-05-2006,Alm. Salg,114,16886,5,1970,
 240,Rækkehus,Park Alle 8,3650, Ølstykke,2525000 ,28-05-2006,Alm. Salg,122,20697,5,1968,
-240,Rækkehus,Løven 15,3650, Ølstykke,2295000 ,28-05-2006,Alm. Salg,114,20132,5,1970,
 240,Ejerlejlighed,Niels Olsens Vej 16,3650, Ølstykke,2450000 ,28-05-2006,Alm. Salg,120,20417,4,2003,
 240,Ejerlejlighed,Bryggerparken 28,3650, Ølstykke,1150000 ,28-05-2006,Alm. Salg,110,10455,5,2003,
 240,Villa,Krakasvej 3,3650, Ølstykke,2370000 ,28-05-2006,Alm. Salg,133,17820,5,1991,
@@ -11025,9 +10992,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 240,Villa,Obovej 2,3650, Ølstykke,2640000 ,28-05-2006,Alm. Salg,170,15529,6,1969,
 240,Villa,Fasanvej 13,3650, Ølstykke,1350000 ,28-05-2006,Fam. Salg,142,9507,5,1971,
 240,Villa,Violvej 39,3650, Ølstykke,3200000 ,28-05-2006,Alm. Salg,136,23529,5,1985,
-240,Villa,Dronning Dagmars Vej 96,3650, Ølstykke,2295000 ,28-05-2006,Alm. Salg,137,16752,5,1979,
 240,Villa,Gjelstensåsen 115,3650, Ølstykke,3195000 ,28-05-2006,Alm. Salg,150,21300,6,1988,
-240,Villa,Vesterbygdvej 7,3650, Ølstykke,2995000 ,28-05-2006,Alm. Salg,140,21393,5,1972,
 240,Villa,Svalehøjvej 36,3650, Ølstykke,900000 ,28-05-2006,Alm. Salg,342,2632,12,2012,
 240,Villa,Miklagårdsvej 8,3650, Ølstykke,3395000 ,27-05-2006,Alm. Salg,158,21487,5,1972,
 240,Ejerlejlighed,"Pærevangen 17, 1. tv",2765, Smørum,1895000 ,26-05-2006,Alm. Salg,80,23688,2,1981,
@@ -11230,11 +11195,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 240,Rækkehus,Hirsevænget 4A,3650, Ølstykke,2395000 ,19-02-2006,Alm. Salg,139,17230,5,1987,
 240,Rækkehus,Krebsen 18,3650, Ølstykke,1850000 ,19-02-2006,Alm. Salg,114,16228,5,1971,
 240,Rækkehus,Krebsen 80,3650, Ølstykke,1675000 ,19-02-2006,Alm. Salg,114,14693,5,1971,
-240,Rækkehus,Regnersvej 15,3650, Ølstykke,2400000 ,19-02-2006,Alm. Salg,98,24490,3,2005,
 240,Rækkehus,Granatvej 3,3650, Ølstykke,2695000 ,19-02-2006,Alm. Salg,108,24954,4,1999,
 240,Rækkehus,Vandmanden 23,3650, Ølstykke,701065 ,19-02-2006,Alm. Salg,114,6150,5,1971,
 240,Rækkehus,Vandmanden 22,3650, Ølstykke,755378 ,19-02-2006,Alm. Salg,114,6626,5,1971,
-240,Rækkehus,Kornvænget 14,3650, Ølstykke,1995000 ,19-02-2006,Alm. Salg,119,16765,4,1978,
 240,Rækkehus,Stenbukken 30,3650, Ølstykke,1700000 ,19-02-2006,Alm. Salg,114,14912,5,1970,
 240,Rækkehus,Kornvænget 132,3650, Ølstykke,2325000 ,19-02-2006,Alm. Salg,127,18307,4,1979,
 240,Rækkehus,Rytterbakken 1B,3650, Ølstykke,1685000 ,19-02-2006,Alm. Salg,82,20549,3,2006,
@@ -11242,13 +11205,11 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 240,Ejerlejlighed,Bryggerparken 12,3650, Ølstykke,1900000 ,19-02-2006,Alm. Salg,94,20213,4,2003,
 240,Ejerlejlighed,Bryggertorvet 29,3650, Ølstykke,1336000 ,19-02-2006,Alm. Salg,50,26720,1,1988,
 240,Ejerlejlighed,"Østervej 15, 1",3650, Ølstykke,1270000 ,19-02-2006,Alm. Salg,72,17639,2,1935,
-240,Villa,Rørsangervej 15,3650, Ølstykke,1995000 ,19-02-2006,Alm. Salg,119,16765,4,1971,
 240,Villa,Skjoldsvej 26,3650, Ølstykke,2180000 ,19-02-2006,Alm. Salg,126,17302,4,1979,
 240,Villa,Ægirsvej 5,3650, Ølstykke,892500 ,19-02-2006,Fam. Salg,184,4851,6,1991,
 240,Villa,Solsikkevej 26,3650, Ølstykke,1090236 ,19-02-2006,Fam. Salg,154,7079,5,1971,
 240,Villa,Stationsvej 16,3650, Ølstykke,2450000 ,19-02-2006,Alm. Salg,193,12694,6,1952,
 240,Villa,Harpevej 4,3650, Ølstykke,957500 ,19-02-2006,Alm. Salg,287,3336,7,1968,
-240,Villa,Marklandsvej 7,3650, Ølstykke,2400000 ,19-02-2006,Alm. Salg,135,17778,4,1971,
 240,Villa,Sigridsvej 26,3650, Ølstykke,600000 ,19-02-2006,Fam. Salg,177,3390,5,1980,
 240,Villa,Sigridsvej 16,3650, Ølstykke,2795000 ,19-02-2006,Alm. Salg,143,19545,5,1980,
 240,Villa,Engholmvej 11A,3660, Stenløse,1600000 ,19-02-2006,Alm. Salg,177,9040,5,2000,
@@ -11588,10 +11549,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 240,Ejerlejlighed,"Pærevangen 17, 1. th",2765, Smørum,1625000 ,06-09-2005,Alm. Salg,96,16927,3,1981,
 240,Ejerlejlighed,"Skovvangsvej 63, st. tv",3660, Stenløse,1345000 ,06-09-2005,Alm. Salg,77,17468,3,1953,
 240,Rækkehus,Uffesvej 1,3650, Ølstykke,1899000 ,05-09-2005,Alm. Salg,88,21580,4,1988,
-240,Rækkehus,Krebsen 9,3650, Ølstykke,1795000 ,04-09-2005,Alm. Salg,114,15746,5,1971,
 240,Rækkehus,Ny Toftegårdsvej 30,3650, Ølstykke,892500 ,04-09-2005,Alm. Salg,117,7628,3,1986,
 240,Ejerlejlighed,"Søhøj Park 8, st. 2",3650, Ølstykke,1745000 ,04-09-2005,Alm. Salg,81,21543,3,2006,
-240,Ejerlejlighed,"Søhøj Park 7, st. 3",3650, Ølstykke,1795000 ,04-09-2005,Alm. Salg,92,19511,3,2006,
 240,Villa,Snerlevej 7,3650, Ølstykke,2495000 ,04-09-2005,Alm. Salg,140,17821,5,1969,
 240,Villa,Ryttervænget 13,3650, Ølstykke,950000 ,04-09-2005,Alm. Salg,176,5398,5,1880,
 240,Villa,Dronning Dagmars Vej 68,3650, Ølstykke,353500 ,04-09-2005,Andet,137,2580,4,1978,
@@ -11666,7 +11625,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 240,Rækkehus,Georginehaven 26,2765, Smørum,2345000 ,26-07-2005,Alm. Salg,106,22123,4,1973,
 240,Rækkehus,Thyra Danebods Vej 53,3650, Ølstykke,1835000 ,24-07-2005,Alm. Salg,124,14798,5,1968,
 240,Rækkehus,Krebsen 51,3650, Ølstykke,1385000 ,24-07-2005,Alm. Salg,102,13578,4,1971,
-240,Rækkehus,Skorpionen 19,3650, Ølstykke,1675000 ,24-07-2005,Alm. Salg,114,14693,5,1971,
 240,Rækkehus,Vandmanden 11,3650, Ølstykke,1725000 ,24-07-2005,Alm. Salg,114,15132,5,1971,
 240,Rækkehus,Dronning Margrethes Vej 77,3650, Ølstykke,1680000 ,24-07-2005,Alm. Salg,109,15413,4,1966,
 240,Rækkehus,Skorpionen 29,3650, Ølstykke,537721 ,24-07-2005,Andet,114,4717,5,1971,
@@ -11674,13 +11632,11 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 240,Rækkehus,Rytterbakken 1F,3650, Ølstykke,1000000 ,24-07-2005,Andet,82,12195,3,2005,
 240,Rækkehus,Kornvænget 94,3650, Ølstykke,1800000 ,24-07-2005,Alm. Salg,127,14173,4,1979,
 240,Rækkehus,Hagbardsvej 54,3650, Ølstykke,1795000 ,24-07-2005,Alm. Salg,125,14360,5,1977,
-240,Rækkehus,Helgesvej 36,3650, Ølstykke,1850000 ,24-07-2005,Alm. Salg,125,14800,5,1975,
 240,Rækkehus,Nøddelunden 86,2765, Smørum,1925000 ,24-07-2005,Alm. Salg,72,26736,3,1989,
 240,Ejerlejlighed,Bryggerparken 1,3650, Ølstykke,1860000 ,24-07-2005,Alm. Salg,110,16909,5,2003,
 240,Ejerlejlighed,"Rådhus Alle 22, 1. 4",3650, Ølstykke,1198000 ,24-07-2005,Alm. Salg,70,17114,2,1974,
 240,Ejerlejlighed,"Rådhus Alle 22, 1. 7",3650, Ølstykke,1425000 ,24-07-2005,Alm. Salg,76,18750,2,1974,
 240,Ejerlejlighed,Bryggertorvet 35G,3650, Ølstykke,925000 ,24-07-2005,Alm. Salg,45,20556,1,1988,
-240,Ejerlejlighed,"Østervej 15, 2",3650, Ølstykke,1675000 ,24-07-2005,Alm. Salg,63,26587,2,1935,
 240,Villa,Svalehøjvej 32,3650, Ølstykke,995500 ,24-07-2005,Alm. Salg,211,4718,5,2006,
 240,Villa,Hagbardsvej 104,3650, Ølstykke,2250000 ,24-07-2005,Alm. Salg,146,15411,4,1975,
 240,Villa,Rørsangervej 32,3650, Ølstykke,370000 ,24-07-2005,Fam. Salg,114,3246,4,1971,
@@ -11958,9 +11914,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 240,Villa,Vestagervej 26,3660, Stenløse,2800000 ,24-03-2005,Alm. Salg,195,14359,8,1978,
 240,Villa,Rosenhaven 20,3660, Stenløse,2125000 ,24-03-2005,Alm. Salg,125,17000,4,1969,
 240,Rækkehus,Kirsebærvangen 176,2765, Smørum,800000 ,22-03-2005,Alm. Salg,106,7547,4,1974,
-240,Rækkehus,Ellekær Vænge 6,3660, Stenløse,700000 ,22-03-2005,Alm. Salg,139,5036,4,2005,
 240,Villa,Rosendalvej 20,3660, Stenløse,1837500 ,22-03-2005,Alm. Salg,134,13713,3,1964,
-240,Villa,Ellekær Vænge 14,3660, Stenløse,700000 ,22-03-2005,Alm. Salg,139,5036,4,2006,
 240,Ejerlejlighed,"Blommevangen 2, 2. mf",2765, Smørum,1095000 ,21-03-2005,Alm. Salg,56,19554,2,1980,
 240,Villa,Vesterled 10,3650, Ølstykke,2125000 ,21-03-2005,Alm. Salg,142,14965,4,1975,
 240,Villa,Bentevej 7,3660, Stenløse,1865000 ,21-03-2005,Alm. Salg,129,14457,4,1970,
@@ -12045,7 +11999,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 240,Rækkehus,Georginehaven 68,2765, Smørum,1645000 ,26-01-2005,Alm. Salg,106,15519,4,1973,
 240,Ejerlejlighed,"Blommevangen 2, 1. tv",2765, Smørum,1700000 ,26-01-2005,Alm. Salg,112,15179,4,1980,
 240,Ejerlejlighed,Sandalsparken 76,3660, Stenløse,1100000 ,26-01-2005,Fam. Salg,82,13415,3,1976,
-240,Villa,Blødemosevej 2D,3660, Stenløse,4325000 ,25-01-2005,Alm. Salg,271,15959,5,1952,
 240,Villa,Langdyssen 21,3550, Slangerup,4250000 ,25-01-2005,Alm. Salg,203,20936,6,1968,
 240,Villa,Haraldsvej 2,3660, Stenløse,1100000 ,25-01-2005,Fam. Salg,143,7692,5,1976,
 240,Rækkehus,Tranemosevej 13B,3660, Stenløse,1275000 ,24-01-2005,Alm. Salg,60,21250,2,1990,
@@ -12149,9 +12102,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 240,Rækkehus,Maglemosen 30,3650, Ølstykke,1590000 ,21-11-2004,Alm. Salg,99,16061,3,2005,
 240,Rækkehus,Maglemosen 32,3650, Ølstykke,1525000 ,21-11-2004,Alm. Salg,100,15250,3,2004,
 240,Rækkehus,Fiskene 19,3650, Ølstykke,1250000 ,21-11-2004,Alm. Salg,102,12255,4,1971,
-240,Rækkehus,Skorpionen 46,3650, Ølstykke,1395000 ,21-11-2004,Alm. Salg,114,12237,5,1971,
 240,Rækkehus,Stenbukken 40,3650, Ølstykke,1350000 ,21-11-2004,Alm. Salg,114,11842,5,1970,
-240,Ejerlejlighed,"Ørnebjergvej 5S, 1. tv",3650, Ølstykke,1395000 ,21-11-2004,Alm. Salg,70,19929,3,2005,
 240,Villa,Gjelstensåsen 179,3650, Ølstykke,870500 ,21-11-2004,Andet,168,5182,6,1996,
 240,Villa,Liljevej 5,3650, Ølstykke,699071 ,21-11-2004,Andet,108,6473,4,1972,
 240,Villa,Smaragdvej 9,3650, Ølstykke,2670000 ,21-11-2004,Alm. Salg,141,18936,5,2001,
@@ -12508,11 +12459,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 240,Rækkehus,Krebsen 24,3650, Ølstykke,1200000 ,30-05-2004,Alm. Salg,114,10526,5,1971,
 240,Rækkehus,Maglemosen 6,3650, Ølstykke,1593141 ,30-05-2004,Alm. Salg,99,16092,3,2005,
 240,Rækkehus,Maglemosen 14,3650, Ølstykke,1524970 ,30-05-2004,Alm. Salg,100,15250,3,2003,
-240,Rækkehus,Maglemosen 26,3650, Ølstykke,1575000 ,30-05-2004,Alm. Salg,99,15909,3,2005,
 240,Rækkehus,Krebsen 81,3650, Ølstykke,1350000 ,30-05-2004,Alm. Salg,114,11842,5,1971,
-240,Rækkehus,Skjoldsvej 38,3650, Ølstykke,1550000 ,30-05-2004,Alm. Salg,125,12400,4,1975,
 240,Rækkehus,Fiskene 12,3650, Ølstykke,1140000 ,30-05-2004,Alm. Salg,102,11176,4,1971,
-240,Rækkehus,Skorpionen 23,3650, Ølstykke,1325000 ,30-05-2004,Alm. Salg,114,11623,4,1971,
 240,Rækkehus,Dronning Dagmars Vej 23,3650, Ølstykke,1855000 ,30-05-2004,Alm. Salg,108,17176,3,2000,
 240,Rækkehus,Mjølners Plads 8,3650, Ølstykke,1495000 ,30-05-2004,Alm. Salg,108,13843,4,1989,
 240,Ejerlejlighed,"Bakkevej 1C, st. th",3650, Ølstykke,1160000 ,30-05-2004,Alm. Salg,68,17059,2,1924,
@@ -12530,7 +12478,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 240,Villa,Vesterled 30,3650, Ølstykke,1655000 ,30-05-2004,Alm. Salg,120,13792,4,1975,
 240,Villa,Svanevej 12,3650, Ølstykke,1598000 ,30-05-2004,Alm. Salg,140,11414,5,1968,
 240,Villa,Hagbardsvej 108,3650, Ølstykke,1750000 ,30-05-2004,Alm. Salg,107,16355,4,1975,
-240,Villa,Skjoldsvej 18,3650, Ølstykke,1550000 ,30-05-2004,Alm. Salg,140,11071,5,1978,
 240,Villa,Solvej 2B,3650, Ølstykke,1760000 ,30-05-2004,Alm. Salg,137,12847,4,1960,
 240,Villa,Dildalvej 7,3650, Ølstykke,500000 ,30-05-2004,Alm. Salg,239,2092,7,1877,
 240,Villa,Fyrrevej 8,3650, Ølstykke,1887100 ,30-05-2004,Alm. Salg,133,14189,5,1977,
@@ -12545,7 +12492,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 240,Villa,Møllehøjvej 1,3650, Ølstykke,1095000 ,30-05-2004,Alm. Salg,138,7935,5,1935,
 240,Villa,Lærkevej 38,3650, Ølstykke,1735000 ,30-05-2004,Alm. Salg,158,10981,6,1967,
 240,Villa,Lærkevej 45,3650, Ølstykke,2095000 ,30-05-2004,Alm. Salg,155,13516,6,1969,
-240,Villa,Lærkevej 49,3650, Ølstykke,1575000 ,30-05-2004,Alm. Salg,110,14318,4,1968,
 240,Villa,Regnersvej 140,3650, Ølstykke,920000 ,30-05-2004,Alm. Salg,147,6259,5,2005,
 240,Villa,Jarlsvej 21,3650, Ølstykke,1899000 ,30-05-2004,Alm. Salg,143,13280,3,1980,
 240,Villa,Lejrevej 18,3650, Ølstykke,1590000 ,29-05-2004,Alm. Salg,171,9298,4,1972,
@@ -12788,7 +12734,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 240,Rækkehus,Rubinvej 15,3650, Ølstykke,1549000 ,08-02-2004,Alm. Salg,85,18224,3,2004,
 240,Rækkehus,Stenbukken 4,3650, Ølstykke,824500 ,08-02-2004,Fam. Salg,114,7232,5,1970,
 240,Ejerlejlighed,Rørsangervej 4D,3650, Ølstykke,900000 ,08-02-2004,Fam. Salg,71,12676,3,1974,
-240,Ejerlejlighed,Niels Olsens Vej 16,3650, Ølstykke,1575000 ,08-02-2004,Alm. Salg,120,13125,4,2003,
 240,Villa,Liljevej 2,3650, Ølstykke,1950000 ,08-02-2004,Alm. Salg,190,10263,6,1969,
 240,Villa,Liljevej 16,3650, Ølstykke,1595000 ,08-02-2004,Alm. Salg,109,14633,3,1967,
 240,Villa,Hjørdisvej 13,3650, Ølstykke,1625000 ,08-02-2004,Alm. Salg,117,13889,4,1981,
@@ -12797,7 +12742,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 240,Villa,Regnersvej 56,3650, Ølstykke,775000 ,08-02-2004,Alm. Salg,148,5236,5,2005,
 240,Villa,Opalvej 37,3650, Ølstykke,1865000 ,08-02-2004,Alm. Salg,115,16217,4,1999,
 240,Villa,Lærkevej 27,3650, Ølstykke,1375000 ,08-02-2004,Alm. Salg,105,13095,4,1970,
-240,Villa,Helgesvej 12,3650, Ølstykke,1575000 ,08-02-2004,Alm. Salg,117,13462,5,1975,
 240,Rækkehus,Søagerbakken 103,2765, Smørum,1695000 ,07-02-2004,Alm. Salg,90,18833,3,1991,
 240,Ejerlejlighed,"Pærevangen 14, 2. th",2765, Smørum,1200000 ,07-02-2004,Alm. Salg,95,12632,3,1981,
 240,Villa,Skjoldsvej 5,3650, Ølstykke,1695000 ,06-02-2004,Alm. Salg,123,13780,4,1978,
@@ -12870,11 +12814,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 240,Rækkehus,Søagerbakken 45,2765, Smørum,1345000 ,04-01-2004,Alm. Salg,68,19779,3,1991,
 240,Rækkehus,Skytten 15,3650, Ølstykke,1275000 ,04-01-2004,Alm. Salg,114,11184,5,1970,
 240,Rækkehus,Kornvænget 108,3650, Ølstykke,1570000 ,04-01-2004,Alm. Salg,127,12362,4,1979,
-240,Ejerlejlighed,Niels Olsens Vej 6,3650, Ølstykke,1575000 ,04-01-2004,Alm. Salg,120,13125,4,2003,
-240,Ejerlejlighed,Bryggertorvet 35G,3650, Ølstykke,715000 ,04-01-2004,Alm. Salg,45,15889,1,1988,
 240,Villa,Veksø Bygade 9,3670, Veksø Sjælland,880000 ,04-01-2004,Alm. Salg,120,7333,5,1880,
-240,Villa,Cedervej 30,3650, Ølstykke,1575000 ,04-01-2004,Alm. Salg,163,9663,6,1969,
-240,Villa,Harmonivej 21,3650, Ølstykke,715000 ,04-01-2004,Alm. Salg,162,4414,3,2005,
 240,Villa,Skuldelevvej 1,3650, Ølstykke,1697000 ,04-01-2004,Alm. Salg,135,12570,4,1978,
 240,Villa,Heimdalsvej 4,3650, Ølstykke,2000000 ,04-01-2004,Alm. Salg,127,15748,4,1995,
 240,Villa,Regnersvej 112,3650, Ølstykke,825000 ,04-01-2004,Alm. Salg,164,5030,5,2005,
@@ -12920,8 +12860,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 240,Villa,Æblevangen 112,2765, Smørum,2200000 ,08-12-2003,Alm. Salg,150,14667,4,1979,
 240,Villa,Vibevej 22,3660, Stenløse,900000 ,08-12-2003,Alm. Salg,176,5114,4,2020,
 240,Rækkehus,Regnersvej 45,3650, Ølstykke,1935000 ,07-12-2003,Alm. Salg,109,17752,4,2005,
-240,Ejerlejlighed,Smørum Nordre Gade 9B,2765, Smørum,4300000 ,07-12-2003,Alm. Salg,182,23626,3,1874,
-240,Villa,Smørum Nordre Gade 9A,2765, Smørum,4300000 ,07-12-2003,Alm. Salg,261,16475,6,1874,
 240,Ejerlejlighed,"Pærevangen 10, 1. th",2765, Smørum,1275000 ,05-12-2003,Alm. Salg,95,13421,4,1981,
 240,Villa,Højdevej 14,3660, Stenløse,375000 ,05-12-2003,Fam. Salg,96,3906,3,1960,
 240,Villa,Skibsted 116,3670, Veksø Sjælland,1975000 ,04-12-2003,Alm. Salg,140,14107,5,1981,
@@ -13211,7 +13149,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 240,Rækkehus,Ametystvej 34,3650, Ølstykke,1395000 ,03-08-2003,Alm. Salg,95,14684,4,1988,
 240,Rækkehus,Stengårdsvej 15,3650, Ølstykke,2000000 ,03-08-2003,Alm. Salg,149,13423,5,2005,
 240,Rækkehus,Krebsen 20,3650, Ølstykke,1225330 ,03-08-2003,Alm. Salg,114,10749,5,1971,
-240,Rækkehus,Frejas Plads 24,3650, Ølstykke,1430000 ,03-08-2003,Alm. Salg,108,13241,4,1967,
 240,Rækkehus,Skjoldsvej 23,3650, Ølstykke,1370000 ,03-08-2003,Alm. Salg,125,10960,4,1975,
 240,Rækkehus,Kildegårdsvej 6,3650, Ølstykke,725000 ,03-08-2003,Alm. Salg,104,6971,4,2002,
 240,Rækkehus,Vandmanden 49,3650, Ølstykke,1249840 ,03-08-2003,Alm. Salg,114,10964,5,1971,
@@ -13622,11 +13559,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 240,Rækkehus,Søtofteparken 7,3660, Stenløse,1400000 ,06-01-2003,Alm. Salg,123,11382,5,1972,
 240,Rækkehus,Tangbjergvej 1A,3650, Ølstykke,1750000 ,05-01-2003,Auktion,156,11218,6,1900,
 240,Rækkehus,Hagbardsvej 68,3650, Ølstykke,1423000 ,05-01-2003,Alm. Salg,125,11384,5,1977,
-240,Rækkehus,Krebsen 42,3650, Ølstykke,1295000 ,05-01-2003,Alm. Salg,102,12696,4,1971,
 240,Rækkehus,Hjaltesvej 30,3650, Ølstykke,900000 ,05-01-2003,Andet,117,7692,4,2001,
 240,Rækkehus,Krebsen 75,3650, Ølstykke,1313320 ,05-01-2003,Alm. Salg,114,11520,5,1971,
 240,Rækkehus,Fiskene 35,3650, Ølstykke,1265000 ,05-01-2003,Alm. Salg,114,11096,5,1971,
-240,Ejerlejlighed,Bryggerparken 21,3650, Ølstykke,1295000 ,05-01-2003,Alm. Salg,90,14389,4,2003,
 240,Villa,Jarlsvej 33,3650, Ølstykke,1710000 ,05-01-2003,Alm. Salg,185,9243,5,1980,
 240,Villa,Gjelstensåsen 223,3650, Ølstykke,2500000 ,05-01-2003,Alm. Salg,165,15152,5,1996,
 240,Villa,Snerlevej 12,3650, Ølstykke,1625000 ,05-01-2003,Alm. Salg,173,9393,6,1967,
@@ -13937,7 +13872,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 240,Villa,Folekær 3,2765, Smørum,1900000 ,07-07-2002,Alm. Salg,123,15447,3,1969,
 240,Villa,Ladbyvej 9,3650, Ølstykke,1810000 ,07-07-2002,Alm. Salg,196,9235,6,2022,
 240,Villa,Engvej 42,3650, Ølstykke,686666 ,06-07-2002,Fam. Salg,112,6131,4,1968,
-240,Villa,Smørum Bygade 37B,2765, Smørum,2775000 ,06-07-2002,Alm. Salg,105,26429,4,1961,
 240,Rækkehus,Søsumvej 111,3670, Veksø Sjælland,1625020 ,04-07-2002,Alm. Salg,101,16089,2,2002,
 240,Rækkehus,Astershaven 169,2765, Smørum,1337768 ,04-07-2002,Fam. Salg,106,12620,4,1971,
 240,Ejerlejlighed,"Pærevangen 3, st. mf",2765, Smørum,850000 ,04-07-2002,Alm. Salg,56,15179,2,1981,
@@ -16027,9 +15961,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 240,Villa,Søholmvej 15,3650, Ølstykke,1757321 ,26-07-1999,Alm. Salg,160,10983,5,1877,
 240,Villa,Opalvej 37,3650, Ølstykke,1529991 ,26-07-1999,Alm. Salg,115,13304,4,1999,
 240,Villa,Åkandehaven 12,2765, Smørum,1880180 ,26-07-1999,Alm. Salg,155,12130,5,1971,
-240,Ejerlejlighed,"Råbrovej 62A, 1",2765, Smørum,546680 ,25-07-1999,Alm. Salg,138,3961,1,1937,
 240,Ejerlejlighed,"Blommevangen 8, 1. mf",2765, Smørum,627189 ,25-07-1999,Alm. Salg,56,11200,2,1980,
-240,Villa,Råbrovej 62A,2765, Smørum,546680 ,25-07-1999,Alm. Salg,160,3417,7,1937,
 240,Villa,Højstedgårdsvej 21,3660, Stenløse,556310 ,25-07-1999,Andet,168,3311,5,1969,
 240,Villa,Æblevangen 82,2765, Smørum,1710327 ,25-07-1999,Alm. Salg,150,11402,4,1979,
 240,Villa,Hindbærvangen 80,2765, Smørum,1774000 ,25-07-1999,Alm. Salg,117,15162,4,1994,
@@ -16626,7 +16558,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 240,Villa,Tulipanhaven 37,2765, Smørum,1574115 ,13-09-1998,Alm. Salg,178,8843,6,1970,
 240,Villa,Elmevej 15,3660, Stenløse,1200000 ,13-09-1998,Alm. Salg,197,6091,4,1964,
 240,Villa,Stangkær 18,2765, Smørum,1487522 ,13-09-1998,Alm. Salg,137,10858,5,1967,
-240,Villa,Smørum Bygade 31A,2765, Smørum,2515000 ,13-09-1998,Alm. Salg,273,9212,5,1875,
 240,Rækkehus,Birkevej 7,3660, Stenløse,1241720 ,10-09-1998,Alm. Salg,143,8683,5,1966,
 240,Ejerlejlighed,"Blommevangen 1, st. th",2765, Smørum,319475 ,09-09-1998,Alm. Salg,95,3363,4,1980,
 240,Ejerlejlighed,Sandalsparken 21,3660, Stenløse,976447 ,08-09-1998,Alm. Salg,98,9964,4,1975,
@@ -16957,9 +16888,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 240,Rækkehus,Nøddelunden 264,2765, Smørum,1269322 ,19-04-1998,Alm. Salg,120,10578,4,1991,
 240,Rækkehus,Nøddelunden 256,2765, Smørum,1286602 ,19-04-1998,Alm. Salg,118,10903,4,1990,
 240,Rækkehus,Hyldekær 61,2765, Smørum,1408410 ,19-04-1998,Alm. Salg,123,11450,5,1987,
-240,Ejerlejlighed,"Råbrovej 62A, 1",2765, Smørum,58000 ,19-04-1998,Alm. Salg,138,420,1,1937,
 240,Villa,Risbyvej 78,2765, Smørum,1450000 ,19-04-1998,Fam. Salg,184,7880,7,1881,
-240,Villa,Råbrovej 62A,2765, Smørum,58000 ,19-04-1998,Alm. Salg,160,363,7,1937,
 240,Villa,Jordbærvangen 65,2765, Smørum,1948300 ,19-04-1998,Alm. Salg,171,11394,4,1976,
 240,Rækkehus,Thyra Danebods Vej 49,3650, Ølstykke,919580 ,18-04-1998,Alm. Salg,124,7416,5,1966,
 240,Villa,Vestagervej 19,3660, Stenløse,2823993 ,16-04-1998,Alm. Salg,163,17325,5,1980,
@@ -19898,7 +19827,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 240,Rækkehus,Krebsen 10,3650, Ølstykke,420000 ,21-08-1994,Alm. Salg,114,3684,5,1971,
 240,Rækkehus,Thyra Danebods Vej 1,3650, Ølstykke,628432 ,21-08-1994,Alm. Salg,124,5068,5,1967,
 240,Rækkehus,Krebsen 24,3650, Ølstykke,400000 ,21-08-1994,Alm. Salg,114,3509,5,1971,
-240,Rækkehus,Roarsvej 60,3650, Ølstykke,552000 ,21-08-1994,Alm. Salg,125,4416,5,1975,
 240,Rækkehus,Skorpionen 1,3650, Ølstykke,488120 ,21-08-1994,Alm. Salg,114,4282,5,1971,
 240,Rækkehus,Skorpionen 23,3650, Ølstykke,600000 ,21-08-1994,Alm. Salg,114,5263,4,1971,
 240,Rækkehus,Vandmanden 25,3650, Ølstykke,550000 ,21-08-1994,Alm. Salg,102,5392,4,1971,
@@ -19921,7 +19849,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 240,Villa,Ørnebjergvej 87,3650, Ølstykke,301723 ,21-08-1994,Alm. Salg,114,2647,5,1966,
 240,Villa,Felevej 8,3650, Ølstykke,596460 ,21-08-1994,Alm. Salg,108,5523,4,1965,
 240,Villa,Fasanvej 7,3650, Ølstykke,572000 ,21-08-1994,Fam. Salg,135,4237,5,1977,
-240,Villa,Lærkevej 3,3650, Ølstykke,552000 ,21-08-1994,Auktion,111,4973,4,1972,
 240,Villa,Gjelstensåsen 77,3650, Ølstykke,837912 ,21-08-1994,Alm. Salg,120,6983,4,1988,
 240,Villa,Druevej 27,3650, Ølstykke,673740 ,21-08-1994,Alm. Salg,113,5962,4,1967,
 240,Villa,Tværvej 5,3650, Ølstykke,1075990 ,21-08-1994,Alm. Salg,176,6114,6,1969,
@@ -20347,18 +20274,15 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 240,Villa,Runevej 7,3650, Ølstykke,222200 ,30-11-1993,Alm. Salg,115,1932,4,1995,
 240,Rækkehus,Kirsebærvangen 57,2765, Smørum,581432 ,29-11-1993,Alm. Salg,106,5485,4,1974,
 240,Villa,Liljevej 10,3650, Ølstykke,676000 ,29-11-1993,Alm. Salg,110,6145,4,1966,
-240,Rækkehus,Hagbardsvej 76,3650, Ølstykke,690000 ,28-11-1993,Alm. Salg,125,5520,5,1977,
 240,Rækkehus,Park Alle 49,3650, Ølstykke,625000 ,28-11-1993,Alm. Salg,122,5123,4,1969,
 240,Rækkehus,Thyra Danebods Vej 47,3650, Ølstykke,636190 ,28-11-1993,Alm. Salg,129,4932,5,1968,
 240,Rækkehus,Skjoldsvej 63,3650, Ølstykke,680000 ,28-11-1993,Alm. Salg,125,5440,4,1975,
 240,Rækkehus,Skorpionen 57,3650, Ølstykke,565000 ,28-11-1993,Alm. Salg,114,4956,5,1971,
 240,Rækkehus,Vandmanden 46,3650, Ølstykke,388030 ,28-11-1993,Alm. Salg,114,3404,5,1971,
 240,Rækkehus,Fiskene 54,3650, Ølstykke,500700 ,28-11-1993,Alm. Salg,102,4909,4,1971,
-240,Rækkehus,Hagbardsvej 42,3650, Ølstykke,580000 ,28-11-1993,Alm. Salg,125,4640,5,1977,
 240,Rækkehus,Hagbardsvej 43,3650, Ølstykke,729500 ,28-11-1993,Alm. Salg,125,5836,5,1977,
 240,Rækkehus,Stenbukken 39,3650, Ølstykke,255775 ,28-11-1993,Fam. Salg,114,2244,5,1970,
 240,Rækkehus,Vandmanden 56,3650, Ølstykke,540000 ,28-11-1993,Alm. Salg,114,4737,5,1971,
-240,Villa,Frederiksborgvej 60A,3650, Ølstykke,690000 ,28-11-1993,Alm. Salg,153,4510,4,1880,
 240,Villa,Andantevej 16,3650, Ølstykke,615000 ,28-11-1993,Fam. Salg,135,4556,4,1967,
 240,Villa,Hagbardsvej 106,3650, Ølstykke,720000 ,28-11-1993,Alm. Salg,131,5496,5,1976,
 240,Villa,Ægirsvej 2,3650, Ølstykke,222200 ,28-11-1993,Alm. Salg,187,1188,5,1997,
@@ -20369,7 +20293,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 240,Villa,Kærgårdsvej 3,3650, Ølstykke,685000 ,28-11-1993,Alm. Salg,111,6171,4,1935,
 240,Villa,Harmonivej 15,3650, Ølstykke,840000 ,28-11-1993,Alm. Salg,189,4444,6,1974,
 240,Villa,Hørvænget 14,3650, Ølstykke,935000 ,28-11-1993,Alm. Salg,162,5772,5,1971,
-240,Villa,Fasanvej 21,3650, Ølstykke,580000 ,28-11-1993,Alm. Salg,168,3452,7,1968,
 240,Villa,Agervænget 32,3650, Ølstykke,820000 ,28-11-1993,Alm. Salg,138,5942,4,1969,
 240,Villa,Smørum Bygade 28,2765, Smørum,218000 ,28-11-1993,Alm. Salg,168,1298,6,1999,
 240,Villa,Duevej 9,3650, Ølstykke,805000 ,28-11-1993,Alm. Salg,119,6765,4,1970,
@@ -20584,12 +20507,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 240,Villa,Korskær 23,3660, Stenløse,900000 ,09-08-1993,Fam. Salg,170,5294,7,1970,
 240,Rækkehus,Krebsen 106,3650, Ølstykke,495000 ,08-08-1993,Alm. Salg,114,4342,5,1971,
 240,Rækkehus,Søagerbakken 129,2765, Smørum,745300 ,08-08-1993,Alm. Salg,90,8281,3,1991,
-240,Ejerlejlighed,"Rådhus Alle 10D, 1. 3",3650, Ølstykke,675000 ,08-08-1993,Alm. Salg,77,8766,3,1988,
 240,Ejerlejlighed,"Rådhus Alle 10D, 1. 7",3650, Ølstykke,487258 ,08-08-1993,Alm. Salg,59,8259,2,1988,
 240,Villa,Snerlevej 14,3650, Ølstykke,595000 ,08-08-1993,Alm. Salg,155,3839,6,1968,
 240,Villa,Andantevej 2,3650, Ølstykke,461000 ,08-08-1993,Alm. Salg,124,3718,4,1969,
 240,Villa,Skenkelsøvej 33,3650, Ølstykke,390388 ,08-08-1993,Alm. Salg,222,1759,6,1916,
-240,Villa,Jomsborgvej 21,3650, Ølstykke,675000 ,08-08-1993,Alm. Salg,124,5444,5,1979,
 240,Villa,Træløbervej 2,3660, Stenløse,1025000 ,08-08-1993,Alm. Salg,178,5758,5,1966,
 240,Villa,Fagotvej 13,3650, Ølstykke,695000 ,08-08-1993,Alm. Salg,118,5890,5,1965,
 240,Villa,Københavnsvej 44,3650, Ølstykke,730000 ,08-08-1993,Alm. Salg,124,5887,4,1977,
@@ -20715,7 +20636,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 240,Villa,Jordbærvangen 68,2765, Smørum,947870 ,08-06-1993,Alm. Salg,156,6076,5,1973,
 240,Rækkehus,Park Alle 31,3650, Ølstykke,671900 ,06-06-1993,Alm. Salg,122,5507,5,1969,
 240,Rækkehus,Vandmanden 47,3650, Ølstykke,408000 ,06-06-1993,Alm. Salg,102,4000,4,1971,
-240,Rækkehus,Stenbukken 19,3650, Ølstykke,575000 ,06-06-1993,Alm. Salg,114,5044,5,1970,
 240,Rækkehus,Stenbukken 35,3650, Ølstykke,530000 ,06-06-1993,Alm. Salg,114,4649,5,1970,
 240,Rækkehus,Kornvænget 126,3650, Ølstykke,462388 ,06-06-1993,Andet,119,3886,4,1979,
 240,Rækkehus,Pomonavej 2A,3650, Ølstykke,322000 ,06-06-1993,Auktion,101,3188,4,2009,
@@ -20724,7 +20644,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 240,Villa,Liljevej 6,3650, Ølstykke,718721 ,06-06-1993,Alm. Salg,168,4278,6,1969,
 240,Villa,Hagbardsvej 89,3650, Ølstykke,695000 ,06-06-1993,Alm. Salg,125,5560,4,1975,
 240,Villa,Hirsevænget 12,3650, Ølstykke,845000 ,06-06-1993,Alm. Salg,138,6123,4,1975,
-240,Villa,Engvej 42,3650, Ølstykke,575000 ,06-06-1993,Alm. Salg,112,5134,4,1968,
 240,Villa,Fyrkatvej 11,3650, Ølstykke,791000 ,06-06-1993,Alm. Salg,143,5531,5,1976,
 240,Villa,Fyrkatvej 14,3650, Ølstykke,752500 ,06-06-1993,Alm. Salg,143,5262,5,1976,
 240,Villa,Gulnarevej 8,3660, Stenløse,820000 ,06-06-1993,Alm. Salg,137,5985,5,1970,
@@ -20998,10 +20917,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 240,Rækkehus,Hyldekær 51,2765, Smørum,851178 ,02-11-1992,Alm. Salg,120,7093,5,1987,
 240,Rækkehus,Georginehaven 37,2765, Smørum,625000 ,01-11-1992,Alm. Salg,109,5734,4,1973,
 240,Ejerlejlighed,"Pærevangen 16, st. tv",2765, Smørum,347000 ,01-11-1992,Alm. Salg,112,3098,4,1981,
-240,Ejerlejlighed,Ledøjetoften 12,2765, Smørum,1121760 ,01-11-1992,Auktion,176,6374,4,1920,
 240,Villa,Råbrovej 60,2765, Smørum,1300000 ,01-11-1992,Alm. Salg,345,3768,5,2021,
 240,Villa,Solbærvangen 45,2765, Smørum,990000 ,01-11-1992,Fam. Salg,162,6111,5,1975,
-240,Villa,Ledøjetoften 12,2765, Smørum,1121760 ,01-11-1992,Auktion,293,3829,8,1920,
 240,Rækkehus,Park Alle 2,3650, Ølstykke,657900 ,31-10-1992,Alm. Salg,122,5393,5,1968,
 240,Villa,Druevej 2,3650, Ølstykke,720000 ,31-10-1992,Alm. Salg,140,5143,5,1973,
 240,Villa,Bauneholmvej 36,3660, Stenløse,666000 ,29-10-1992,Fam. Salg,116,5741,5,1966,
@@ -21366,7 +21283,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 240,Villa,Københavnsvej 18,3650, Ølstykke,730000 ,07-04-1992,Alm. Salg,114,6404,4,1896,
 240,Villa,Åkandehaven 138,2765, Smørum,895000 ,06-04-1992,Alm. Salg,155,5774,5,1970,
 240,Rækkehus,Strædet 2A,3660, Stenløse,281666 ,05-04-1992,Alm. Salg,213,1322,7,1884,
-240,Rækkehus,Uffesvej 11,3650, Ølstykke,750000 ,05-04-1992,Alm. Salg,96,7813,4,1988,
 240,Rækkehus,Vægten 22,3650, Ølstykke,458082 ,05-04-1992,Fam. Salg,114,4018,5,1971,
 240,Rækkehus,Latyrushaven 38,2765, Smørum,159029 ,05-04-1992,Andet,106,1500,4,1973,
 240,Rækkehus,Skytten 21,3650, Ølstykke,400000 ,05-04-1992,Auktion,114,3509,5,1970,
@@ -21378,7 +21294,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 240,Villa,Vestervej 10,3650, Ølstykke,304793 ,05-04-1992,Fam. Salg,120,2540,4,1960,
 240,Villa,Ørnebjergvej 4,3650, Ølstykke,349000 ,05-04-1992,Auktion,170,2053,6,1961,
 240,Villa,Harmonivej 34,3650, Ølstykke,716625 ,05-04-1992,Alm. Salg,168,4266,5,1972,
-240,Villa,Agervænget 14,3650, Ølstykke,750000 ,05-04-1992,Alm. Salg,115,6522,4,1971,
 240,Villa,Klokkekildevej 67,3550, Slangerup,450000 ,05-04-1992,Auktion,105,4286,4,1955,
 240,Villa,Granvej 8,3650, Ølstykke,561448 ,05-04-1992,Fam. Salg,100,5614,4,1967,
 240,Villa,Ryttervænget 28,3650, Ølstykke,675000 ,05-04-1992,Alm. Salg,103,6553,4,1965,
@@ -21494,18 +21409,15 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 240,Rækkehus,Astershaven 141,2765, Smørum,711103 ,03-02-1992,Alm. Salg,106,6709,4,1971,
 240,Villa,Svendsvej 4,3650, Ølstykke,525000 ,03-02-1992,Alm. Salg,156,3365,6,1963,
 240,Rækkehus,Park Alle 30,3650, Ølstykke,360000 ,02-02-1992,Auktion,122,2951,5,1968,
-240,Rækkehus,Uffesvej 13,3650, Ølstykke,695000 ,02-02-1992,Alm. Salg,94,7394,4,1988,
 240,Rækkehus,Hagbardsvej 86,3650, Ølstykke,536939 ,02-02-1992,Alm. Salg,125,4296,5,1977,
 240,Rækkehus,Løven 41,3650, Ølstykke,530000 ,02-02-1992,Alm. Salg,114,4649,5,1970,
 240,Rækkehus,Thyra Danebods Vej 23,3650, Ølstykke,625000 ,02-02-1992,Alm. Salg,109,5734,4,1967,
 240,Rækkehus,Thyra Danebods Vej 21,3650, Ølstykke,620000 ,02-02-1992,Alm. Salg,124,5000,5,1967,
-240,Rækkehus,Krebsen 55,3650, Ølstykke,570000 ,02-02-1992,Alm. Salg,114,5000,5,1971,
 240,Rækkehus,Stenbukken 14,3650, Ølstykke,501707 ,02-02-1992,Alm. Salg,114,4401,5,1970,
 240,Rækkehus,Kornvænget 114,3650, Ølstykke,690000 ,02-02-1992,Alm. Salg,127,5433,4,1979,
 240,Villa,Krakasvej 4,3650, Ølstykke,1060000 ,02-02-1992,Alm. Salg,164,6463,5,1989,
 240,Villa,Krakasvej 10,3650, Ølstykke,592756 ,02-02-1992,Fam. Salg,126,4704,5,1989,
 240,Villa,Krakasvej 12,3650, Ølstykke,150000 ,02-02-1992,Alm. Salg,118,1271,4,1992,
-240,Villa,Roarsvej 15,3650, Ølstykke,695000 ,02-02-1992,Alm. Salg,108,6435,3,1974,
 240,Villa,Niels Olsens Vej 11,3650, Ølstykke,650000 ,02-02-1992,Alm. Salg,159,4088,6,1981,
 240,Villa,Levkøjvej 3,3650, Ølstykke,425000 ,02-02-1992,Alm. Salg,156,2724,6,1968,
 240,Villa,Højdevej 3,3660, Stenløse,492000 ,02-02-1992,Alm. Salg,165,2982,6,1964,
@@ -21516,7 +21428,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 240,Villa,Rosenhaven 22,3660, Stenløse,950000 ,02-02-1992,Alm. Salg,160,5938,4,1968,
 240,Villa,Harmonivej 17,3650, Ølstykke,284728 ,02-02-1992,Fam. Salg,150,1898,5,1970,
 240,Villa,Hasselvej 22,3650, Ølstykke,440000 ,02-02-1992,Alm. Salg,122,3607,4,1972,
-240,Villa,Hvedevænget 14,3650, Ølstykke,570000 ,02-02-1992,Alm. Salg,146,3904,4,1969,
 240,Villa,Miklagårdsvej 5,3650, Ølstykke,810000 ,02-02-1992,Andet,163,4969,5,1972,
 240,Villa,Dronning Dagmars Vej 22,3650, Ølstykke,670200 ,02-02-1992,Alm. Salg,137,4892,4,1978,
 240,Villa,Lotusvej 15,3650, Ølstykke,800000 ,02-02-1992,Fam. Salg,142,5634,5,1970,

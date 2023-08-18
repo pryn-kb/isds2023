@@ -25,7 +25,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Mågevænget 10,5540, Ullerslev,1370000 ,05-12-2022,Alm. Salg,120,11417.0,4,1972,-8%
 450,Rækkehus,Grævlingevænget 26,5800, Nyborg,799000 ,04-12-2022,Fam. Salg,95,8411.0,4,1978,
 450,Villa,Strandparken 61,5800, Nyborg,750000 ,02-12-2022,Fam. Salg,150,5000.0,4,1971,
-450,Rækkehus,Nørrevoldgade 3,5800, Nyborg,3050000 ,29-11-2022,Alm. Salg,160,19063.0,4,1893,-5%
 450,Villa,Degneløkken 107,5540, Ullerslev,1940000 ,28-11-2022,Alm. Salg,169,11479.0,5,1997,-3%
 450,Villa,L. Kr. Larsensvej 28,5540, Ullerslev,650000 ,27-11-2022,Alm. Salg,96,6771.0,3,1961,
 450,Rækkehus,Risvej 93,5800, Nyborg,1100000 ,26-11-2022,Alm. Salg,100,11000.0,4,1970,-8%
@@ -61,12 +60,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Lindevej 26,5800, Nyborg,1050000 ,02-11-2022,Alm. Salg,112,9375.0,3,1939,-12%
 450,Villa,Nørremosevej 5,5853, Ørbæk,275000 ,02-11-2022,Fam. Salg,143,1923.0,4,2023,
 450,Villa,Langæblevej 1,5871, Frørup,285000 ,01-11-2022,Alm. Salg,80,3563.0,3,1907,-12%
-450,Ejerlejlighed,"Jernbanegade 1, st",5800, Nyborg,1078000 ,31-10-2022,Fam. Salg,110,9800.0,4,1893,
-450,Ejerlejlighed,"Jernbanegade 1, 1",5800, Nyborg,1078000 ,31-10-2022,Fam. Salg,110,9800.0,4,1893,
-450,Ejerlejlighed,"Jernbanegade 1, 2",5800, Nyborg,1078000 ,31-10-2022,Fam. Salg,110,9800.0,4,1893,
-450,Ejerlejlighed,"Havnegade 18, 2",5800, Nyborg,1078000 ,31-10-2022,Fam. Salg,110,9800.0,4,1893,
-450,Ejerlejlighed,"Havnegade 18, st",5800, Nyborg,1078000 ,31-10-2022,Fam. Salg,110,9800.0,4,1893,
-450,Ejerlejlighed,"Havnegade 18, 1",5800, Nyborg,1078000 ,31-10-2022,Fam. Salg,110,9800.0,4,1893,
 450,Villa,Rørbækvej 12,5540, Ullerslev,800000 ,31-10-2022,Alm. Salg,250,3200.0,7,1925,
 450,Villa,Ravnekærlund 79,5800, Nyborg,1092410 ,30-10-2022,Fam. Salg,184,5937.0,5,2007,
 450,Villa,Hjortevænget 141,5800, Nyborg,2050000 ,27-10-2022,Alm. Salg,146,14041.0,5,1975,
@@ -107,7 +100,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Nymarksvej 89,5800, Nyborg,1300000 ,16-09-2022,Alm. Salg,119,10924.0,4,1974,-7%
 450,Villa,Møllervej 10,5800, Nyborg,750000 ,15-09-2022,Fam. Salg,110,6818.0,4,1963,
 450,Villa,Mejerivænget 55,5853, Ørbæk,2700000 ,13-09-2022,Alm. Salg,197,13706.0,6,2004,-7%
-450,Villa,Hybenvænget 6,5800, Nyborg,1795000 ,13-09-2022,Alm. Salg,96,18698.0,4,1971,
 450,Villa,Kertemindevej 50,5540, Ullerslev,1175000 ,13-09-2022,Alm. Salg,120,9792.0,4,1997,-2%
 450,Villa,Drosselvej 6,5540, Ullerslev,2825000 ,13-09-2022,Alm. Salg,176,16051.0,5,1969,-5%
 450,Villa,Mejerivænget 110,5853, Ørbæk,322527 ,13-09-2022,Alm. Salg,137,2354.0,4,0,
@@ -318,8 +310,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Åvænget 1,5853, Ørbæk,1295000 ,12-04-2022,Alm. Salg,135,9593.0,4,1975,
 450,Rækkehus,Kertemindevej 100,5800, Nyborg,1800000 ,11-04-2022,Alm. Salg,235,7660.0,11,1847,-5%
 450,Rækkehus,Skovparken 2E,5853, Ørbæk,750000 ,11-04-2022,Alm. Salg,75,10000.0,4,1982,
-450,Villa,Nyborgvej 27B,5853, Ørbæk,4775000 ,11-04-2022,Alm. Salg,258,18508.0,7,2008,-3%
-450,Villa,Lindevej 14,5800, Nyborg,2500000 ,11-04-2022,Alm. Salg,135,18519.0,5,1933,-5%
 450,Villa,Grævlingevænget 170,5800, Nyborg,944083 ,11-04-2022,Fam. Salg,132,7152.0,4,1977,
 450,Villa,Gl. Langeskov 70,5550, Langeskov,960000 ,11-04-2022,Alm. Salg,69,13913.0,2,1947,-4%
 450,Villa,Fasanvej 12,5800, Nyborg,98000 ,11-04-2022,Alm. Salg,188,521.0,3,0,
@@ -331,10 +321,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Måre Byvej 39,5853, Ørbæk,735000 ,07-04-2022,Alm. Salg,110,6682.0,3,1963,
 450,Villa,Teglgårdsvej 3,5540, Ullerslev,1930000 ,06-04-2022,Alm. Salg,182,10604.0,4,1969,-3%
 450,Villa,Degneløkken 77,5540, Ullerslev,2195000 ,06-04-2022,Alm. Salg,137,16022.0,4,1977,
-450,Villa,Steensager 69,5800, Nyborg,3375000 ,06-04-2022,Alm. Salg,179,18855.0,6,2008,
 450,Villa,Højbjergvej 11,5540, Ullerslev,1200000 ,04-04-2022,Alm. Salg,182,6593.0,6,1947,-7%
 450,Villa,Teglgårdsvej 14,5800, Nyborg,562500 ,03-04-2022,Alm. Salg,110,5114.0,5,1902,-19%
-450,Villa,Langhuse 15,5800, Nyborg,3650000 ,02-04-2022,Alm. Salg,196,18622.0,6,2016,-1%
 450,Villa,Bækvej 10,5871, Frørup,2650000 ,31-03-2022,Alm. Salg,298,8893.0,8,1886,-2%
 450,Villa,Nymarksvej 65,5800, Nyborg,1950000 ,31-03-2022,Alm. Salg,140,13929.0,6,1969,-7%
 450,Villa,Strandparken 115,5800, Nyborg,2240000 ,31-03-2022,Alm. Salg,191,11728.0,6,1971,-2%
@@ -488,7 +476,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Rådyrvænget 133,5800, Nyborg,1700000 ,07-12-2021,Alm. Salg,130,13077.0,4,1986,-10%
 450,Villa,Kogsbøllevej 15B,5800, Nyborg,2150000 ,07-12-2021,Alm. Salg,157,13694.0,5,2010,
 450,Villa,Svendborgvej 40,5853, Ørbæk,1625000 ,06-12-2021,Alm. Salg,132,12311.0,5,1900,-4%
-450,Villa,Sofienbergvej 28,5800, Nyborg,2855000 ,06-12-2021,Alm. Salg,153,18660.0,5,2005,2%
 450,Villa,Gudrunvej 7,5800, Nyborg,1250000 ,05-12-2021,Alm. Salg,86,14535.0,4,1950,-3%
 450,Villa,Sømosevej 13,5874, Hesselager,3172500 ,05-12-2021,Alm. Salg,282,11250.0,5,1879,-1%
 450,Ejerlejlighed,"Strandvejen 11, 1",5800, Nyborg,812500 ,02-12-2021,Alm. Salg,96,8464.0,3,1908,
@@ -516,7 +503,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Løbegangen 106,5800, Nyborg,772330 ,14-11-2021,Alm. Salg,174,4439.0,5,2022,
 450,Villa,Fasanvej 7,5800, Nyborg,650000 ,12-11-2021,Alm. Salg,106,6132.0,3,1961,-18%
 450,Rækkehus,Hjortevænget 11,5800, Nyborg,831000 ,10-11-2021,Fam. Salg,92,9033.0,3,1977,
-450,Ejerlejlighed,"Østervoldgade 66, st. tv",5800, Nyborg,2250000 ,10-11-2021,Alm. Salg,121,18595.0,4,1999,
 450,Villa,Gl. Landevej 8,5874, Hesselager,1800000 ,10-11-2021,Alm. Salg,234,7692.0,7,1930,
 450,Villa,Nymarksvej 98,5800, Nyborg,1550000 ,10-11-2021,Alm. Salg,103,15049.0,4,1970,
 450,Villa,Solholm 9,5540, Ullerslev,2400000 ,10-11-2021,Alm. Salg,165,14545.0,5,1986,
@@ -592,7 +578,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Rækkehus,Risvej 21,5800, Nyborg,1065000 ,26-09-2021,Alm. Salg,72,14792.0,3,1970,
 450,Villa,Korkendrupvej 5,5540, Ullerslev,723000 ,25-09-2021,Alm. Salg,117,6179.0,7,1927,4%
 450,Villa,Kogsbøllevej 46,5800, Nyborg,650000 ,23-09-2021,Alm. Salg,133,4887.0,4,1800,-6%
-450,Villa,Nyborgvej 27B,5853, Ørbæk,4900000 ,22-09-2021,Andet,258,18992.0,7,2008,
 450,Villa,Engvej 17,5853, Ørbæk,1995000 ,22-09-2021,Alm. Salg,185,10784.0,8,1974,
 450,Villa,Strandparken 54,5800, Nyborg,1250000 ,21-09-2021,Alm. Salg,103,12136.0,4,1969,-7%
 450,Villa,Regissevej 7,5853, Ørbæk,1170000 ,21-09-2021,Alm. Salg,136,8603.0,5,1900,-2%
@@ -678,12 +663,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Sofienbergparken 5,5800, Nyborg,2125000 ,18-07-2021,Alm. Salg,160,13281.0,5,1985,-6%
 450,Villa,Ellingevej 29,5853, Ørbæk,3050000 ,18-07-2021,Alm. Salg,252,12103.0,4,1984,-5%
 450,Villa,Strandparken 100,5800, Nyborg,1670000 ,18-07-2021,Alm. Salg,118,14153.0,4,1971,-1%
-450,Villa,Langhuse 9,5800, Nyborg,2845000 ,18-07-2021,Alm. Salg,152,18717.0,5,2019,
 450,Rækkehus,Hirsevej 63,5800, Nyborg,1225000 ,15-07-2021,Alm. Salg,96,12760.0,4,1969,-5%
-450,Rækkehus,Kirkeballe 12B,5540, Ullerslev,695000 ,14-07-2021,Alm. Salg,113,6150.0,5,1970,-13%
 450,Villa,Bækvej 19,5871, Frørup,875000 ,14-07-2021,Alm. Salg,120,7292.0,3,1966,-2%
 450,Villa,Skolevej 2,5800, Nyborg,975000 ,14-07-2021,Alm. Salg,125,7800.0,3,1957,-2%
-450,Villa,Kirkeballe 12A,5540, Ullerslev,695000 ,14-07-2021,Alm. Salg,113,3658.0,7,1970,-13%
 450,Villa,Dyrehavevej 47,5800, Nyborg,5650000 ,14-07-2021,Alm. Salg,250,17656.0,7,1925,
 450,Villa,Kirsebærhaven 62,5540, Ullerslev,3150000 ,14-07-2021,Alm. Salg,178,17697.0,5,2009,-2%
 450,Villa,Bøjdenvej 95,5800, Nyborg,400000 ,13-07-2021,Alm. Salg,142,2817.0,5,1877,
@@ -1024,7 +1006,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Toften 2,5540, Ullerslev,1240000 ,20-12-2020,Alm. Salg,157,7898.0,5,1984,-2%
 450,Villa,Vibevej 34,5540, Ullerslev,1120000 ,20-12-2020,Fam. Salg,243,4609.0,8,1967,
 450,Rækkehus,Grævlingevænget 81,5800, Nyborg,1150000 ,17-12-2020,Alm. Salg,100,11500.0,4,1980,-4%
-450,Villa,Nymarksvej 24,5800, Nyborg,2565000 ,17-12-2020,Alm. Salg,136,18860.0,5,1935,-5%
 450,Villa,Sofienbergvej 28,5800, Nyborg,1200000 ,17-12-2020,Andet,153,7843.0,5,2005,
 450,Villa,Kirkekrogen 6,5540, Ullerslev,725000 ,16-12-2020,Andet,122,5943.0,5,1955,
 450,Villa,Øksendrupvej 2,5871, Frørup,220000 ,15-12-2020,Auktion,123,1789.0,5,1875,
@@ -1048,7 +1029,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Odensevej 144,5800, Nyborg,1300000 ,06-12-2020,Alm. Salg,179,7263.0,5,1900,-7%
 450,Villa,Strandalleen 43,5800, Nyborg,4200000 ,06-12-2020,Alm. Salg,272,15441.0,9,1958,-6%
 450,Villa,Odensevej 2,5540, Ullerslev,582320 ,05-12-2020,Alm. Salg,126,4622.0,5,1928,
-450,Villa,Strandparken 38,5800, Nyborg,3395000 ,03-12-2020,Alm. Salg,180,18861.0,4,1969,
 450,Villa,Lærkevej 7,5853, Ørbæk,745000 ,03-12-2020,Alm. Salg,115,6478.0,4,1967,
 450,Villa,Langhuse 14,5800, Nyborg,594658 ,03-12-2020,Alm. Salg,183,3249.0,5,2021,
 450,Rækkehus,Majsvej 69,5800, Nyborg,820000 ,02-12-2020,Fam. Salg,85,9647.0,4,1973,
@@ -1232,7 +1212,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Ejerlejlighed,"Åparken 3, 1",5800, Nyborg,357000 ,06-08-2020,Alm. Salg,59,6051.0,2,1969,
 450,Rækkehus,Nyenstad 11,5800, Nyborg,935000 ,05-08-2020,Fam. Salg,130,7192.0,5,1974,
 450,Villa,Hjejlevej 6,5800, Nyborg,1150000 ,05-08-2020,Alm. Salg,117,9829.0,2,1948,-9%
-450,Villa,Ravnekærlund 67,5800, Nyborg,3150000 ,04-08-2020,Alm. Salg,165,19091.0,5,2007,
 450,Villa,Svendborgvej 3,5540, Ullerslev,1530000 ,02-08-2020,Alm. Salg,92,16630.0,4,1954,-4%
 450,Villa,Nyborgvej 18,5540, Ullerslev,1212500 ,02-08-2020,Alm. Salg,152,7977.0,6,1909,-6%
 450,Villa,Assensvej 11,5853, Ørbæk,2900000 ,02-08-2020,Alm. Salg,413,7022.0,11,1897,
@@ -1240,7 +1219,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Pilevej 32,5800, Nyborg,1750000 ,30-07-2020,Alm. Salg,181,9669.0,6,1960,-7%
 450,Villa,Mullerupvej 14,5540, Ullerslev,970000 ,29-07-2020,Alm. Salg,163,5951.0,6,1964,-12%
 450,Rækkehus,Fjordvej 13,5800, Nyborg,1325000 ,28-07-2020,Alm. Salg,105,12619.0,4,1934,-8%
-450,Villa,Pilevej 23,5800, Nyborg,1700000 ,28-07-2020,Alm. Salg,92,18478.0,4,1961,3%
 450,Villa,Lamdrupvej 85,5853, Ørbæk,326000 ,28-07-2020,Auktion,95,3432.0,4,1969,
 450,Villa,Svendborg Landevej 25,5871, Frørup,75000 ,27-07-2020,Alm. Salg,227,276.0,7,1915,
 450,Villa,Ole Suhrsgade 13,5800, Nyborg,1500000 ,24-07-2020,Alm. Salg,228,6579.0,10,1900,-8%
@@ -1300,7 +1278,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Hagenborgvej 4,5871, Frørup,1700000 ,17-06-2020,Alm. Salg,211,8057.0,6,1900,-4%
 450,Rækkehus,Bjergbakken 21,5871, Frørup,425000 ,16-06-2020,Alm. Salg,86,4942.0,3,1981,
 450,Ejerlejlighed,"Østervoldgade 56B, 1. th",5800, Nyborg,900000 ,16-06-2020,Alm. Salg,86,10465.0,3,1878,-5%
-450,Villa,Dyrehavevej 42,5800, Nyborg,3500000 ,16-06-2020,Alm. Salg,189,18519.0,8,1900,-5%
 450,Villa,Kertemindevej 6,5800, Nyborg,1475000 ,16-06-2020,Alm. Salg,119,12395.0,4,1932,
 450,Villa,Lamdrupvej 3,5800, Nyborg,1200000 ,16-06-2020,Alm. Salg,158,7595.0,5,1938,-9%
 450,Rækkehus,Skovparken 2E,5853, Ørbæk,550000 ,15-06-2020,Fam. Salg,75,7333.0,4,1982,
@@ -1396,7 +1373,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Skaboeshusevænget 3,5800, Nyborg,1830000 ,28-03-2020,Fam. Salg,187,9786.0,6,1777,
 450,Villa,Idavej 3,5800, Nyborg,550000 ,27-03-2020,Alm. Salg,89,6180.0,3,1957,-15%
 450,Villa,Fasanvej 17,5540, Ullerslev,230000 ,26-03-2020,Alm. Salg,171,1345.0,6,0,-16%
-450,Villa,Nybrogade 4,5800, Nyborg,1200000 ,26-03-2020,Alm. Salg,237,5063.0,7,1894,
 450,Villa,Ved Mosen 1,5540, Ullerslev,895000 ,25-03-2020,Alm. Salg,133,6729.0,4,1966,
 450,Villa,Ellingevej 22,5853, Ørbæk,270000 ,25-03-2020,Fam. Salg,179,1508.0,6,1911,
 450,Villa,Strandparken 123,5800, Nyborg,1600000 ,25-03-2020,Alm. Salg,157,10191.0,5,1972,0%
@@ -1474,7 +1450,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Rækkehus,Risvej 35,5800, Nyborg,1070000 ,28-01-2020,Alm. Salg,84,12738.0,4,1970,-7%
 450,Villa,Langhuse 10,5800, Nyborg,638738 ,28-01-2020,Alm. Salg,185,3453.0,5,2020,
 450,Villa,Pårupvej 50A,5540, Ullerslev,615123 ,27-01-2020,Alm. Salg,140,4394.0,4,1773,
-450,Villa,Siøvej 9A,5800, Nyborg,2995000 ,27-01-2020,Andet,159,18836.0,6,1986,
 450,Villa,Sentvedvej 27,5853, Ørbæk,1300000 ,26-01-2020,Alm. Salg,163,7975.0,4,1922,-4%
 450,Villa,Skovhusvej 5,5800, Nyborg,550000 ,26-01-2020,Alm. Salg,105,5238.0,4,1963,-8%
 450,Villa,Skovvej 13,5800, Nyborg,1225000 ,26-01-2020,Alm. Salg,107,11449.0,4,1951,-12%
@@ -1530,7 +1505,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Ferritslevvej 18,5800, Nyborg,695000 ,28-11-2019,Alm. Salg,119,5840.0,6,1920,
 450,Villa,Odensevej 112,5853, Ørbæk,600000 ,27-11-2019,Alm. Salg,145,4138.0,5,1926,-14%
 450,Villa,Hjortevænget 38,5800, Nyborg,1875000 ,27-11-2019,Alm. Salg,142,13204.0,5,1976,-3%
-450,Villa,"Aldershvilevej 10, st",5800, Nyborg,3900000 ,27-11-2019,Alm. Salg,345,11304.0,7,1832,-2%
 450,Villa,Kirkevænget 14,5800, Nyborg,770000 ,26-11-2019,Alm. Salg,136,5662.0,6,1963,-3%
 450,Villa,Blomstervænget 3,5874, Hesselager,450000 ,25-11-2019,Alm. Salg,90,5000.0,2,1946,
 450,Villa,Skellerupvej 7,5540, Ullerslev,180000 ,25-11-2019,Alm. Salg,149,1208.0,7,1825,-9%
@@ -1576,7 +1550,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Egernvænget 13,5800, Nyborg,1125000 ,28-10-2019,Alm. Salg,107,10514.0,2,1974,-6%
 450,Villa,Gl. Vindingevej 120,5800, Nyborg,1675000 ,28-10-2019,Alm. Salg,101,16584.0,3,2006,-1%
 450,Villa,Sentvedvej 14,5853, Ørbæk,410000 ,28-10-2019,Alm. Salg,182,2253.0,5,2009,
-450,Villa,Lindevej 18,5800, Nyborg,2850000 ,28-10-2019,Alm. Salg,150,19000.0,3,1934,
 450,Rækkehus,Skovparken 2A,5853, Ørbæk,585000 ,27-10-2019,Alm. Salg,85,6882.0,4,1982,
 450,Villa,Korkendrupvej 1,5540, Ullerslev,370000 ,24-10-2019,Alm. Salg,140,2643.0,6,1873,-13%
 450,Ejerlejlighed,"Dyrehavevej 85, kl",5800, Nyborg,450000 ,23-10-2019,Alm. Salg,57,7895.0,2,1907,
@@ -1658,7 +1631,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Valmuevænget 5,5540, Ullerslev,1430000 ,28-08-2019,Alm. Salg,144,9931.0,4,1972,-1%
 450,Villa,Regissevej 10,5853, Ørbæk,2210000 ,28-08-2019,Alm. Salg,195,11333.0,4,1916,-4%
 450,Villa,Idavej 12,5800, Nyborg,1272500 ,28-08-2019,Alm. Salg,70,18179.0,3,1952,
-450,Villa,Elmevej 11,5800, Nyborg,1475000 ,28-08-2019,Alm. Salg,80,18438.0,4,1948,
 450,Villa,Birkevej 1,5800, Nyborg,2025000 ,28-08-2019,Alm. Salg,166,12199.0,4,1932,-3%
 450,Villa,Egernvænget 28,5800, Nyborg,1900000 ,27-08-2019,Alm. Salg,188,10106.0,7,1975,-5%
 450,Villa,Bøjdenvej 72,5800, Nyborg,1700000 ,27-08-2019,Alm. Salg,171,9942.0,7,1933,
@@ -1830,7 +1802,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Lamdrupvej 101,5853, Ørbæk,1000000 ,16-04-2019,Alm. Salg,180,5556.0,6,1846,-9%
 450,Villa,Hjortevænget 164,5800, Nyborg,1595000 ,16-04-2019,Alm. Salg,131,12176.0,4,1975,
 450,Villa,Bøjdenvej 62,5800, Nyborg,2950000 ,16-04-2019,Alm. Salg,250,11800.0,8,1935,-2%
-450,Villa,Østerøvej 48,5800, Nyborg,3475000 ,15-04-2019,Alm. Salg,184,18886.0,5,1930,-3%
 450,Villa,Mejerivænget 22,5853, Ørbæk,1760000 ,14-04-2019,Alm. Salg,149,11812.0,4,1999,-5%
 450,Villa,Vedbendvænget 13,5800, Nyborg,935000 ,14-04-2019,Fam. Salg,122,7664.0,4,1971,
 450,Villa,Tunnelvej 20,5800, Nyborg,575000 ,14-04-2019,Fam. Salg,136,4228.0,5,1777,
@@ -2017,7 +1988,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Ejerlejlighed,"Østervoldgade 69, 1",5800, Nyborg,1250000 ,17-11-2018,Alm. Salg,90,13889.0,3,1860,
 450,Villa,Skovparken 19,5853, Ørbæk,500000 ,14-11-2018,Alm. Salg,100,5000.0,4,1977,
 450,Ejerlejlighed,"Helletoften 9, 3. tv",5800, Nyborg,600000 ,12-11-2018,Alm. Salg,89,6742.0,3,1969,
-450,Villa,Vestergade 6,5540, Ullerslev,1290000 ,12-11-2018,Alm. Salg,190,6789.0,7,1928,
 450,Villa,Rådyrvænget 166,5800, Nyborg,644237 ,12-11-2018,Andet,115,5602.0,4,1984,
 450,Villa,Smedevænget 5,5853, Ørbæk,1120000 ,11-11-2018,Alm. Salg,178,6292.0,5,1973,-3%
 450,Villa,Kertemindevej 29,5800, Nyborg,1670000 ,11-11-2018,Andet,120,13917.0,5,1890,
@@ -2096,10 +2066,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Bakkevej 13,5540, Ullerslev,306521 ,16-09-2018,Fam. Salg,132,2322.0,5,1964,
 450,Villa,Ferritslevvej 48,5540, Ullerslev,1560000 ,13-09-2018,Alm. Salg,196,7959.0,5,1870,-8%
 450,Villa,Koledhusvej 5,5853, Ørbæk,795000 ,13-09-2018,Alm. Salg,80,9938.0,3,1955,
-450,Rækkehus,Kirkeballe 12B,5540, Ullerslev,290000 ,11-09-2018,Alm. Salg,113,2566.0,5,1970,-68%
 450,Villa,Regstrupvej 32,5800, Nyborg,1475000 ,11-09-2018,Alm. Salg,269,5483.0,8,1912,-60%
 450,Villa,Østervoldgade 62,5800, Nyborg,2275000 ,11-09-2018,Alm. Salg,147,15476.0,4,1893,-5%
-450,Villa,Kirkeballe 12A,5540, Ullerslev,290000 ,11-09-2018,Alm. Salg,113,1526.0,7,1970,-68%
 450,Villa,Kertemindevej 28,5800, Nyborg,1015000 ,11-09-2018,Alm. Salg,176,5767.0,3,1909,-6%
 450,Villa,Fjordparken 5,5800, Nyborg,1450000 ,09-09-2018,Alm. Salg,113,12832.0,4,1980,-3%
 450,Rækkehus,Grævlingevænget 20,5800, Nyborg,1025000 ,06-09-2018,Alm. Salg,95,10789.0,4,1978,-6%
@@ -2207,7 +2175,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Rygårdsvej 22,5874, Hesselager,420000 ,26-06-2018,Alm. Salg,87,4828.0,4,1933,6%
 450,Villa,Åvej 8,5871, Frørup,450000 ,25-06-2018,Andet,490,918.0,8,1898,
 450,Villa,Løbegangen 81,5800, Nyborg,870646 ,25-06-2018,Alm. Salg,187,4656.0,5,2019,
-450,Villa,Regissevej 3D,5871, Frørup,4225000 ,24-06-2018,Alm. Salg,224,18862.0,4,1846,
 450,Rækkehus,Gartnergade 11,5800, Nyborg,680000 ,22-06-2018,Fam. Salg,73,9315.0,3,1909,
 450,Rækkehus,Skovparken 2B,5853, Ørbæk,605000 ,21-06-2018,Alm. Salg,85,7118.0,4,1982,-6%
 450,Villa,Højbovej 1,5871, Frørup,1245000 ,20-06-2018,Alm. Salg,151,8245.0,4,1973,-4%
@@ -2314,7 +2281,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Bøjdenvej 8,5800, Nyborg,1750000 ,03-04-2018,Alm. Salg,164,10671.0,6,1930,-3%
 450,Villa,Nymarksvej 107,5800, Nyborg,634051 ,03-04-2018,Alm. Salg,185,3427.0,7,1975,
 450,Villa,Odensevej 84,5853, Ørbæk,562670 ,02-04-2018,Alm. Salg,170,3310.0,6,1907,
-450,Villa,Fjordvej 7,5800, Nyborg,2954000 ,30-03-2018,Alm. Salg,156,18936.0,6,1927,2%
 450,Villa,Hebevej 8,5800, Nyborg,1000000 ,29-03-2018,Alm. Salg,94,10638.0,3,1950,-5%
 450,Rækkehus,Provst Hjortsvej 38,5800, Nyborg,1400000 ,28-03-2018,Alm. Salg,124,11290.0,4,1925,-7%
 450,Villa,Rådyrvænget 127,5800, Nyborg,2000000 ,28-03-2018,Alm. Salg,151,13245.0,6,1985,
@@ -2345,8 +2311,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Nymarksvej 85,5800, Nyborg,1370000 ,08-03-2018,Alm. Salg,136,10074.0,5,1976,
 450,Villa,Sentvedvej 40,5871, Frørup,555000 ,07-03-2018,Auktion,195,2846.0,7,1827,
 450,Villa,Juelsbergvej 4,5800, Nyborg,613000 ,07-03-2018,Fam. Salg,168,3649.0,6,1800,
-450,Ejerlejlighed,"Byvejen 7, 1",5874, Hesselager,925000 ,06-03-2018,Alm. Salg,96,9635.0,4,1879,-7%
-450,Villa,Byvejen 7,5874, Hesselager,925000 ,06-03-2018,Alm. Salg,139,6655.0,5,1879,-7%
 450,Villa,Granvej 129,5540, Ullerslev,1300000 ,05-03-2018,Alm. Salg,163,7975.0,5,1974,
 450,Ejerlejlighed,"Adelgade 8, 2. 11",5800, Nyborg,1300000 ,04-03-2018,Alm. Salg,112,11607.0,4,1970,
 450,Villa,Gudrunvej 17,5800, Nyborg,295000 ,01-03-2018,Fam. Salg,168,1756.0,5,2000,
@@ -2405,7 +2369,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Ejerlejlighed,"Knudshovedvej 21, 1. tv",5800, Nyborg,725000 ,11-01-2018,Alm. Salg,65,11154.0,2,2000,
 450,Villa,Østermarksvej 1B,5853, Ørbæk,64300 ,11-01-2018,Alm. Salg,149,432.0,6,1961,
 450,Villa,Præstevænget 4,5800, Nyborg,1375000 ,10-01-2018,Alm. Salg,137,10036.0,5,1969,-11%
-450,Villa,Provst Hjortsvej 12,5800, Nyborg,2750000 ,09-01-2018,Alm. Salg,147,18707.0,6,1930,-4%
 450,Villa,Øhavevej 21,5800, Nyborg,600000 ,07-01-2018,Alm. Salg,100,6000.0,3,1949,-19%
 450,Villa,Egevej 8,5800, Nyborg,995000 ,07-01-2018,Alm. Salg,95,10474.0,4,1965,
 450,Villa,Vinkelvej 14,5853, Ørbæk,737500 ,03-01-2018,Alm. Salg,84,8780.0,3,1968,
@@ -2721,7 +2684,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Rækkehus,Buen 4B,5853, Ørbæk,780000 ,03-04-2017,Alm. Salg,74,10541.0,3,1983,-2%
 450,Villa,Hesselgade 8,5800, Nyborg,925000 ,31-03-2017,Alm. Salg,93,9946.0,4,1948,
 450,Ejerlejlighed,"Adelgade 9, st. th",5800, Nyborg,1050000 ,30-03-2017,Alm. Salg,145,7241.0,6,1896,-19%
-450,Villa,Mårvænget 39,5800, Nyborg,2050000 ,30-03-2017,Alm. Salg,107,19159.0,4,1986,-9%
 450,Ejerlejlighed,"Åparken 9, 3",5800, Nyborg,375000 ,28-03-2017,Alm. Salg,59,6356.0,2,1969,-17%
 450,Villa,Bytoften 16,5540, Ullerslev,960000 ,28-03-2017,Alm. Salg,119,8067.0,4,1972,
 450,Villa,Engdraget 13,5853, Ørbæk,625000 ,28-03-2017,Alm. Salg,104,6010.0,4,1980,-10%
@@ -2850,7 +2812,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Bredahlsgade 15,5800, Nyborg,1750000 ,13-11-2016,Alm. Salg,141,12411.0,5,1922,-1%
 450,Villa,Kertemindevej 29,5800, Nyborg,382500 ,11-11-2016,Fam. Salg,120,3188.0,5,1890,
 450,Rækkehus,Harevænget 9,5800, Nyborg,804000 ,06-11-2016,Fam. Salg,92,8739.0,3,1974,
-450,Villa,Strandalleen 6,5800, Nyborg,3400000 ,03-11-2016,Alm. Salg,178,19101.0,4,1975,-8%
 450,Villa,Elmevej 1,5800, Nyborg,2100000 ,02-11-2016,Andet,143,14685.0,6,1946,-4%
 450,Villa,Kullerup Byvej 5,5853, Ørbæk,775000 ,01-11-2016,Alm. Salg,103,7524.0,3,1937,-13%
 450,Villa,Ravnholtvej 17,5853, Ørbæk,1600000 ,01-11-2016,Alm. Salg,286,5594.0,7,1966,7%
@@ -2905,7 +2866,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Kjærsvej 21,5800, Nyborg,700000 ,29-09-2016,Alm. Salg,124,5645.0,3,1960,-12%
 450,Villa,Byvejen 16,5874, Hesselager,120000 ,27-09-2016,Auktion,152,789.0,4,1908,
 450,Villa,Kirstensvej 5,5800, Nyborg,880000 ,26-09-2016,Alm. Salg,90,9778.0,4,1960,
-450,Villa,"Aldershvilevej 10, st",5800, Nyborg,3300000 ,26-09-2016,Alm. Salg,345,9565.0,7,1832,
 450,Villa,Rønnebærvænget 28,5800, Nyborg,775000 ,25-09-2016,Alm. Salg,159,4874.0,5,1974,
 450,Villa,Boesensgade 5,5800, Nyborg,2585000 ,23-09-2016,Alm. Salg,172,15029.0,7,1932,-4%
 450,Villa,Fjordparken 15,5800, Nyborg,1250000 ,21-09-2016,Alm. Salg,132,9470.0,4,1978,-4%
@@ -2927,7 +2887,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Sentvedvej 55,5871, Frørup,200000 ,07-09-2016,Alm. Salg,110,1818.0,3,1963,-32%
 450,Villa,Regissevej 11,5853, Ørbæk,875000 ,07-09-2016,Alm. Salg,215,4070.0,7,1888,-8%
 450,Villa,Rønningevej 7,5540, Ullerslev,350000 ,07-09-2016,Alm. Salg,98,3571.0,4,1964,-26%
-450,Villa,Assensvej 4,5853, Ørbæk,1500000 ,07-09-2016,Andet,129,11628.0,6,1900,
 450,Villa,Øksendrupvej 45,5871, Frørup,56342 ,06-09-2016,Alm. Salg,113,499.0,4,1874,
 450,Villa,Refsvindinge Byvej 32,5853, Ørbæk,140000 ,06-09-2016,Alm. Salg,84,1667.0,3,1870,
 450,Villa,Grævlingevænget 148,5800, Nyborg,1645000 ,06-09-2016,Alm. Salg,141,11667.0,5,1986,-3%
@@ -3157,7 +3116,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Kirkeskov 1,5540, Ullerslev,523836 ,18-01-2016,Alm. Salg,169,3100.0,5,1900,
 450,Villa,Fjordvej 27,5800, Nyborg,1100000 ,17-01-2016,Alm. Salg,114,9649.0,3,1934,-15%
 450,Villa,Buen 31,5853, Ørbæk,650000 ,14-01-2016,Alm. Salg,108,6019.0,3,1986,-19%
-450,Villa,Bøgevej 12,5800, Nyborg,1900000 ,14-01-2016,Alm. Salg,102,18627.0,3,1949,-1%
 450,Villa,Kastanievænget 12,5800, Nyborg,569087 ,13-01-2016,Auktion,182,3127.0,6,2017,
 450,Villa,Villumstrupvej 10,5853, Ørbæk,496000 ,12-01-2016,Auktion,120,4133.0,3,2006,
 450,Villa,Hellerupvej 51,5853, Ørbæk,1200000 ,08-01-2016,Alm. Salg,151,7947.0,4,1966,-7%
@@ -3194,7 +3152,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Boholtvej 5,5871, Frørup,255000 ,06-12-2015,Alm. Salg,185,1378.0,5,1902,-68%
 450,Villa,Krogyden 8,5540, Ullerslev,2100000 ,02-12-2015,Alm. Salg,241,8714.0,7,1984,-7%
 450,Villa,Gl. Vindingevej 3,5800, Nyborg,2225000 ,01-12-2015,Alm. Salg,174,12787.0,6,1937,-9%
-450,Villa,Kronprinsensgade 19,5800, Nyborg,4160000 ,01-12-2015,Alm. Salg,223,18655.0,9,1909,-3%
 450,Villa,Egevej 13,5800, Nyborg,1000000 ,30-11-2015,Alm. Salg,95,10526.0,2,1964,-5%
 450,Villa,Kogsbøllevej 17,5800, Nyborg,1365360 ,29-11-2015,Alm. Salg,292,4676.0,6,1897,
 450,Rækkehus,Gl. Vindingevej 224,5800, Nyborg,875000 ,26-11-2015,Alm. Salg,94,9309.0,4,1989,-3%
@@ -3225,7 +3182,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Mågevænget 10,5540, Ullerslev,1100000 ,28-10-2015,Alm. Salg,120,9167.0,4,1972,-4%
 450,Villa,Knudshovedvej 26,5800, Nyborg,840000 ,27-10-2015,Alm. Salg,94,8936.0,3,1887,-6%
 450,Villa,Gartnervænget 17,5800, Nyborg,550000 ,27-10-2015,Andet,141,3901.0,5,1973,
-450,Villa,Assensvej 4,5853, Ørbæk,350000 ,27-10-2015,Alm. Salg,129,2713.0,6,1900,-26%
 450,Rækkehus,Wørishøffersgade 7,5800, Nyborg,968000 ,25-10-2015,Fam. Salg,117,8274.0,6,1904,
 450,Villa,Rygårdsvej 4,5874, Hesselager,1150000 ,25-10-2015,Alm. Salg,203,5665.0,7,1905,-4%
 450,Villa,Hustomten 50,5800, Nyborg,593562 ,25-10-2015,Alm. Salg,170,3492.0,5,2016,
@@ -3280,7 +3236,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Langhuse 22,5800, Nyborg,526800 ,30-08-2015,Alm. Salg,179,2943.0,6,2016,
 450,Ejerlejlighed,"Nørrevoldgade 72, 2",5800, Nyborg,685000 ,28-08-2015,Alm. Salg,80,8563.0,3,1981,-8%
 450,Villa,Thorsløkken 8,5800, Nyborg,925000 ,27-08-2015,Alm. Salg,109,8486.0,5,1963,-7%
-450,Villa,Lundsager 32A,5540, Ullerslev,1400000 ,27-08-2015,Alm. Salg,257,5447.0,7,1920,-13%
 450,Villa,Bøjdenvej 14,5800, Nyborg,595254 ,27-08-2015,Fam. Salg,142,4192.0,3,1931,
 450,Villa,Egernvænget 120,5800, Nyborg,1605000 ,27-08-2015,Alm. Salg,165,9727.0,4,1974,-2%
 450,Rækkehus,Stentevej 21,5800, Nyborg,580000 ,26-08-2015,Auktion,103,5631.0,4,1954,
@@ -3369,7 +3324,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Hvedevej 9,5800, Nyborg,1212000 ,30-05-2015,Alm. Salg,116,10448.0,4,1965,-6%
 450,Villa,Skovvej 24,5800, Nyborg,1375000 ,28-05-2015,Alm. Salg,139,9892.0,5,1959,
 450,Villa,Mart. Rasmussensgade 27,5800, Nyborg,2100000 ,28-05-2015,Alm. Salg,193,10881.0,10,1920,-2%
-450,Ejerlejlighed,"Vesterhavnen 6, 3. tv",5800, Nyborg,3250000 ,27-05-2015,Alm. Salg,173,18786.0,4,2014,
 450,Ejerlejlighed,"Vesterhavnen 13, st. 4",5800, Nyborg,1450000 ,27-05-2015,Alm. Salg,90,16111.0,3,2007,-3%
 450,Villa,Nymarksvej 33,5800, Nyborg,1200000 ,27-05-2015,Alm. Salg,125,9600.0,4,1923,-10%
 450,Villa,Bøjdenvej 37,5800, Nyborg,1225000 ,27-05-2015,Alm. Salg,127,9646.0,6,1932,
@@ -3414,7 +3368,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Åløkkevej 3,5800, Nyborg,865000 ,21-04-2015,Alm. Salg,100,8650.0,4,1966,-1%
 450,Villa,Rosildevænget 7,5800, Nyborg,1525000 ,20-04-2015,Alm. Salg,239,6381.0,5,1927,-10%
 450,Villa,Regisse Vænge 4,5853, Ørbæk,365500 ,19-04-2015,Fam. Salg,125,2924.0,4,1979,
-450,Ejerlejlighed,"Sydkajen 4, 1. tv",5800, Nyborg,3100000 ,17-04-2015,Alm. Salg,162,19136.0,4,2006,-3%
 450,Rækkehus,Wørishøffersgade 6,5800, Nyborg,970000 ,16-04-2015,Alm. Salg,104,9327.0,5,1903,
 450,Villa,Granvej 157,5540, Ullerslev,1025000 ,15-04-2015,Alm. Salg,112,9152.0,4,1977,-6%
 450,Villa,Sentvedvej 9,5853, Ørbæk,50000 ,15-04-2015,Auktion,242,207.0,5,2023,
@@ -3600,7 +3553,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Rosildevænget 2,5800, Nyborg,725000 ,24-09-2014,Alm. Salg,135,5370.0,4,1937,-14%
 450,Rækkehus,Hjortevænget 63,5800, Nyborg,1140000 ,23-09-2014,Alm. Salg,105,10857.0,5,1978,-5%
 450,Rækkehus,Nyenstad 29,5800, Nyborg,1625000 ,22-09-2014,Alm. Salg,130,12500.0,5,1974,-7%
-450,Villa,Kystvej 30,5800, Nyborg,2600000 ,22-09-2014,Alm. Salg,139,18705.0,4,1935,-26%
 450,Rækkehus,Majsvej 1,5800, Nyborg,650000 ,21-09-2014,Alm. Salg,105,6190.0,5,1972,-6%
 450,Villa,Korkendrupvej 26,5540, Ullerslev,160484 ,21-09-2014,Fam. Salg,125,1284.0,5,1957,
 450,Rækkehus,Grævlingevænget 14,5800, Nyborg,900000 ,18-09-2014,Alm. Salg,95,9474.0,4,1978,-8%
@@ -3628,7 +3580,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Ejerlejlighed,Skellerup Byvej 31B,5540, Ullerslev,89748 ,03-09-2014,Auktion,170,528.0,3,1903,
 450,Villa,Nymarksvej 23,5800, Nyborg,2285000 ,03-09-2014,Alm. Salg,149,15336.0,6,1922,-5%
 450,Villa,Steensager 82,5800, Nyborg,2600000 ,03-09-2014,Alm. Salg,170,15294.0,5,2010,-6%
-450,Villa,Kronprinsensgade 19,5800, Nyborg,4160000 ,03-09-2014,Alm. Salg,223,18655.0,9,1909,
 450,Villa,Falkevej 3,5800, Nyborg,650000 ,01-09-2014,Alm. Salg,179,3631.0,4,2018,
 450,Villa,Toftevænget 15,5800, Nyborg,1225000 ,29-08-2014,Alm. Salg,153,8007.0,5,1971,
 450,Villa,Frørup Byvej 3B,5871, Frørup,368000 ,28-08-2014,Alm. Salg,201,1831.0,5,1959,-33%
@@ -3638,7 +3589,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Steensager 12,5800, Nyborg,2095000 ,27-08-2014,Alm. Salg,157,13344.0,6,2014,
 450,Villa,Hustomten 9,5800, Nyborg,621395 ,27-08-2014,Alm. Salg,156,3983.0,4,2015,
 450,Villa,Strandparken 72,5800, Nyborg,1425000 ,26-08-2014,Alm. Salg,160,8906.0,6,1970,-5%
-450,Villa,Strandparken 133,5800, Nyborg,3000000 ,26-08-2014,Alm. Salg,160,18750.0,6,1971,4%
 450,Villa,Flødstrupvej 16,5540, Ullerslev,300000 ,26-08-2014,Alm. Salg,150,2000.0,5,1800,-45%
 450,Ejerlejlighed,"Tårnvej 12, 1",5800, Nyborg,530000 ,25-08-2014,Alm. Salg,74,7162.0,2,1901,-11%
 450,Villa,Degneløkken 109,5540, Ullerslev,1550000 ,24-08-2014,Alm. Salg,196,7908.0,6,1986,
@@ -3713,7 +3663,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Vindingevej 25,5800, Nyborg,2775000 ,15-06-2014,Alm. Salg,204,13603.0,9,1915,
 450,Villa,L. Kr. Larsensvej 27,5540, Ullerslev,845000 ,13-06-2014,Alm. Salg,129,6550.0,5,1962,-6%
 450,Villa,Glorupvej 10,5853, Ørbæk,225000 ,12-06-2014,Alm. Salg,140,1607.0,4,1878,-43%
-450,Villa,Knudshovedvej 18,5800, Nyborg,1406800 ,12-06-2014,Fam. Salg,112,12561.0,3,1827,
 450,Villa,Skaboeshusevej 130A,5800, Nyborg,1700000 ,11-06-2014,Fam. Salg,230,7391.0,5,1962,
 450,Villa,Idavej 1,5800, Nyborg,1420000 ,11-06-2014,Alm. Salg,111,12793.0,4,1922,-5%
 450,Rækkehus,Risvej 3,5800, Nyborg,885000 ,10-06-2014,Fam. Salg,96,9219.0,4,1969,
@@ -3757,7 +3706,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Hjortevænget 26,5800, Nyborg,1545000 ,17-04-2014,Alm. Salg,139,11115.0,5,1976,-3%
 450,Villa,Odensevej 134,5800, Nyborg,1250000 ,15-04-2014,Alm. Salg,183,6831.0,6,1951,-6%
 450,Villa,L. Kr. Larsensvej 13,5540, Ullerslev,575000 ,13-04-2014,Alm. Salg,137,4197.0,5,1960,-8%
-450,Villa,Strandparken 133,5800, Nyborg,3000000 ,09-04-2014,Alm. Salg,160,18750.0,6,1971,
 450,Villa,Odensevej 1,5540, Ullerslev,675000 ,09-04-2014,Auktion,114,5921.0,5,1938,
 450,Villa,Ferritslevvej 75,5540, Ullerslev,100000 ,08-04-2014,Alm. Salg,151,662.0,3,1900,-43%
 450,Villa,Hjortevænget 145,5800, Nyborg,1155000 ,08-04-2014,Alm. Salg,122,9467.0,5,1975,-6%
@@ -3829,7 +3777,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Rækkehus,Ravnekærlund 128,5800, Nyborg,1430000 ,08-12-2013,Alm. Salg,98,14592.0,3,2005,-4%
 450,Villa,Bøgevej 5,5800, Nyborg,1365000 ,05-12-2013,Alm. Salg,108,12639.0,4,1950,-9%
 450,Rækkehus,Lunavej 17,5800, Nyborg,800000 ,04-12-2013,Alm. Salg,88,9091.0,3,1955,-11%
-450,Ejerlejlighed,Blegdamsgade 5A. th,5800, Nyborg,2500000 ,01-12-2013,Alm. Salg,132,18939.0,3,1953,-11%
 450,Rækkehus,Majsvej 42,5800, Nyborg,650000 ,29-11-2013,Alm. Salg,73,8904.0,2,1973,-18%
 450,Rækkehus,Jernbanegade 21,5800, Nyborg,850000 ,28-11-2013,Fam. Salg,145,5862.0,5,1869,
 450,Villa,L. Kr. Larsensvej 5,5540, Ullerslev,650000 ,28-11-2013,Alm. Salg,104,6250.0,3,1954,-13%
@@ -3947,8 +3894,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Rækkehus,Vindingevej 43,5800, Nyborg,665000 ,04-07-2013,Alm. Salg,116,5733.0,5,1918,-11%
 450,Villa,Naurvænget 1,5800, Nyborg,608885 ,04-07-2013,Andet,114,5341.0,4,1969,-54%
 450,Villa,Hjejlevej 28,5800, Nyborg,457800 ,03-07-2013,Auktion,120,3815.0,5,1947,
-450,Rækkehus,Ravnekærlund 126,5800, Nyborg,1400000 ,30-06-2013,Alm. Salg,98,14286.0,3,2005,-3%
-450,Villa,Ahornvej 6,5800, Nyborg,1400000 ,30-06-2013,Alm. Salg,114,12281.0,4,1972,-5%
 450,Rækkehus,Risvej 78,5800, Nyborg,875000 ,29-06-2013,Alm. Salg,106,8255.0,4,1972,-7%
 450,Villa,Thorsløkken 9,5800, Nyborg,1180000 ,27-06-2013,Alm. Salg,92,12826.0,4,1963,-9%
 450,Villa,Kragelundvej 1,5853, Ørbæk,1650000 ,27-06-2013,Alm. Salg,245,6735.0,9,1847,-8%
@@ -4155,7 +4100,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Generalgyden 1,5853, Ørbæk,727431 ,21-11-2012,Auktion,138,5271.0,4,1962,
 450,Villa,Odensevej 67B,5853, Ørbæk,290000 ,21-11-2012,Auktion,147,1973.0,5,1890,
 450,Villa,Tjørnevej 25,5800, Nyborg,1715000 ,20-11-2012,Alm. Salg,190,9026.0,8,1966,
-450,Villa,Pårupvej 24,5540, Ullerslev,3000000 ,20-11-2012,Alm. Salg,160,18750.0,6,1910,-22%
 450,Villa,Egernvænget 126,5800, Nyborg,800000 ,20-11-2012,Andet,190,4211.0,6,1973,
 450,Villa,Humlevænget 18,5800, Nyborg,1650000 ,19-11-2012,Alm. Salg,137,12044.0,5,1936,-3%
 450,Villa,Tjørnevej 2,5853, Ørbæk,900000 ,19-11-2012,Alm. Salg,210,4286.0,5,1968,-25%
@@ -4204,7 +4148,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Huslodderne 4,5853, Ørbæk,625000 ,30-09-2012,Alm. Salg,105,5952.0,4,1963,-7%
 450,Villa,Bæltbåden 2,5800, Nyborg,1250000 ,30-09-2012,Fam. Salg,259,4826.0,5,2018,
 450,Villa,Grejsdalen 2,5800, Nyborg,1650000 ,29-09-2012,Alm. Salg,243,6790.0,7,1962,-8%
-450,Villa,Holms Alle 17,5800, Nyborg,2150000 ,27-09-2012,Alm. Salg,115,18696.0,5,1935,-2%
 450,Villa,Tunnelvej 20,5800, Nyborg,500000 ,26-09-2012,Alm. Salg,136,3676.0,5,1777,-16%
 450,Rækkehus,Vindingevej 31,5800, Nyborg,1150000 ,25-09-2012,Alm. Salg,151,7616.0,4,1921,
 450,Ejerlejlighed,"Åparken 1, 3",5800, Nyborg,240000 ,25-09-2012,Alm. Salg,60,4000.0,2,1969,-19%
@@ -4593,7 +4536,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Harevænget 154,5800, Nyborg,2000000 ,25-05-2011,Alm. Salg,156,12821.0,5,1974,-7%
 450,Ejerlejlighed,"Vesterhavnen 17, 1. 1",5800, Nyborg,2250000 ,24-05-2011,Alm. Salg,130,17308.0,3,2006,
 450,Villa,Strandalleen 23,5800, Nyborg,2000000 ,22-05-2011,Alm. Salg,158,12658.0,6,1969,-9%
-450,Villa,Skovhavevej 4,5540, Ullerslev,3591250 ,18-05-2011,Fam. Salg,188,19102.0,5,2002,
 450,Villa,L. Kr. Larsensvej 36,5540, Ullerslev,495000 ,18-05-2011,Alm. Salg,100,4950.0,3,1961,-10%
 450,Rækkehus,Grævlingevænget 18,5800, Nyborg,1295000 ,16-05-2011,Alm. Salg,95,13632.0,4,1978,
 450,Villa,Møllegyden 2,5853, Ørbæk,1295000 ,16-05-2011,Alm. Salg,167,7754.0,3,1980,
@@ -4744,7 +4686,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Stationsvænget 1,5853, Ørbæk,1150000 ,09-12-2010,Fam. Salg,113,10177.0,4,1971,
 450,Villa,Vestergade 7,5540, Ullerslev,400000 ,08-12-2010,Auktion,113,3540.0,4,1900,
 450,Rækkehus,Gl. Vindingevej 214,5800, Nyborg,1025000 ,06-12-2010,Alm. Salg,94,10904.0,4,1989,-9%
-450,Villa,Vagtstien 4,5800, Nyborg,2175000 ,04-12-2010,Alm. Salg,115,18913.0,4,2006,-3%
 450,Ejerlejlighed,"Helletoften 12, 3. th",5800, Nyborg,930000 ,03-12-2010,Alm. Salg,85,10941.0,3,1969,-2%
 450,Villa,Grævlingevænget 129,5800, Nyborg,1785000 ,02-12-2010,Alm. Salg,168,10625.0,6,1977,-15%
 450,Rækkehus,Risvej 97,5800, Nyborg,1287000 ,01-12-2010,Alm. Salg,100,12870.0,4,1972,-4%
@@ -4983,7 +4924,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Rækkehus,Risvej 23,5800, Nyborg,850000 ,21-04-2010,Alm. Salg,72,11806.0,3,1971,-3%
 450,Villa,Dyrehavevej 28,5800, Nyborg,2825000 ,21-04-2010,Alm. Salg,320,8828.0,9,1907,-12%
 450,Villa,Dyrehavevej 14,5800, Nyborg,2250000 ,20-04-2010,Alm. Salg,202,11139.0,6,1902,-6%
-450,Ejerlejlighed,"Dronningensvej 9, 1",5800, Nyborg,1800000 ,19-04-2010,Alm. Salg,95,18947.0,2,1984,
 450,Villa,Kragelundvej 14,5853, Ørbæk,640515 ,19-04-2010,Alm. Salg,240,2669.0,8,1890,
 450,Villa,Thorsløkken 5,5800, Nyborg,1995000 ,18-04-2010,Alm. Salg,158,12627.0,5,1967,
 450,Villa,Bøjdenvej 42,5800, Nyborg,1625000 ,15-04-2010,Alm. Salg,129,12597.0,4,1935,-10%
@@ -5039,8 +4979,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Æblevej 17,5853, Ørbæk,2000000 ,21-02-2010,Alm. Salg,197,10152.0,5,2008,-11%
 450,Villa,Lindavænget 10,5800, Nyborg,1550000 ,18-02-2010,Alm. Salg,147,10544.0,5,1980,
 450,Villa,Pårupvej 67,5540, Ullerslev,700000 ,18-02-2010,Alm. Salg,106,6604.0,4,1916,
-450,Rækkehus,Vestergade 2,5800, Nyborg,1200000 ,16-02-2010,Alm. Salg,112,10714.0,3,1900,
-450,Ejerlejlighed,"Vestergade 2, 1",5800, Nyborg,1200000 ,16-02-2010,Alm. Salg,126,9524.0,3,1900,
 450,Villa,Pårupvej 45,5540, Ullerslev,600000 ,16-02-2010,Fam. Salg,168,3571.0,6,1877,
 450,Villa,Nytoften 10,5871, Frørup,520000 ,16-02-2010,Auktion,148,3514.0,5,1974,
 450,Villa,Møllegyden 8,5540, Ullerslev,715000 ,15-02-2010,Alm. Salg,94,7606.0,3,1955,-20%
@@ -5157,7 +5095,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Pilevej 12,5800, Nyborg,1585000 ,13-10-2009,Alm. Salg,169,9379.0,5,1934,-12%
 450,Villa,Libavej 26,5853, Ørbæk,885000 ,13-10-2009,Andet,225,3933.0,5,1970,-52%
 450,Villa,Nordmarksvej 23,5800, Nyborg,700000 ,13-10-2009,Alm. Salg,58,12069.0,2,1948,-15%
-450,Villa,"Aldershvilevej 10, st",5800, Nyborg,2773500 ,13-10-2009,Andet,345,8039.0,7,1832,-53%
 450,Villa,Karensvej 1,5800, Nyborg,1595000 ,13-10-2009,Alm. Salg,120,13292.0,6,1982,
 450,Villa,Granvej 91,5540, Ullerslev,1295000 ,11-10-2009,Alm. Salg,108,11991.0,4,1977,
 450,Villa,Sneverkilde 6,5871, Frørup,439622 ,08-10-2009,Andet,150,2931.0,6,1960,-48%
@@ -5269,9 +5206,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Grubbens Alle 11,5871, Frørup,1150000 ,29-06-2009,Alm. Salg,185,6216.0,4,1963,
 450,Villa,Hustomten 38,5800, Nyborg,457560 ,29-06-2009,Alm. Salg,153,2991.0,6,2010,
 450,Villa,Sentvedvej 50,5871, Frørup,850000 ,27-06-2009,Alm. Salg,82,10366.0,2,1958,-3%
-450,Ejerlejlighed,"Slotsgade 33A, 1",5800, Nyborg,1955000 ,24-06-2009,Fam. Salg,133,14699.0,3,1870,
-450,Ejerlejlighed,"Nørregade 11B, 2",5800, Nyborg,4632500 ,24-06-2009,Fam. Salg,296,15650.0,6,1892,
-450,Ejerlejlighed,"Østervoldgade 79, 1",5800, Nyborg,2082500 ,24-06-2009,Fam. Salg,115,18109.0,3,1859,
 450,Villa,Ravnekærlund 140,5800, Nyborg,1450000 ,24-06-2009,Alm. Salg,195,7436.0,5,2010,
 450,Ejerlejlighed,"Helletoften 11, 1. tv",5800, Nyborg,630000 ,22-06-2009,Alm. Salg,85,7412.0,3,1969,-8%
 450,Villa,Byvænget 1,5874, Hesselager,1300000 ,22-06-2009,Alm. Salg,118,11017.0,4,2009,
@@ -5504,7 +5438,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Rækkehus,Degneløkken 111B,5540, Ullerslev,895000 ,14-09-2008,Alm. Salg,70,12786.0,3,1989,
 450,Villa,Regissevej 2A,5871, Frørup,595000 ,14-09-2008,Alm. Salg,108,5509.0,4,1870,
 450,Villa,Vestergade 26,5540, Ullerslev,960000 ,14-09-2008,Alm. Salg,108,8889.0,3,1965,-8%
-450,Villa,Idavej 12,5800, Nyborg,1300000 ,13-09-2008,Alm. Salg,70,18571.0,3,1952,-4%
 450,Villa,Toften 8,5540, Ullerslev,850000 ,11-09-2008,Alm. Salg,95,8947.0,3,1985,-5%
 450,Villa,Præstevænget 54,5800, Nyborg,1425000 ,09-09-2008,Alm. Salg,120,11875.0,4,1970,-5%
 450,Rækkehus,Hovmarken 5,5540, Ullerslev,995000 ,08-09-2008,Alm. Salg,109,9128.0,4,1977,-5%
@@ -5547,7 +5480,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Bøgevej 14,5800, Nyborg,1825000 ,10-08-2008,Alm. Salg,108,16898.0,5,1949,-1%
 450,Villa,Bækvej 8,5871, Frørup,3275000 ,10-08-2008,Alm. Salg,274,11953.0,9,1926,
 450,Villa,Fasanvej 20,5540, Ullerslev,1630000 ,10-08-2008,Alm. Salg,131,12443.0,4,1980,
-450,Villa,Mårvænget 16,5800, Nyborg,2500000 ,10-08-2008,Alm. Salg,160,15625.0,5,1980,
 450,Villa,Steensager 61,5800, Nyborg,467324 ,10-08-2008,Alm. Salg,211,2215.0,7,2010,
 450,Villa,Grimshavevej 5,5871, Frørup,620500 ,09-08-2008,Fam. Salg,86,7215.0,3,1923,
 450,Villa,Rosildevænget 7,5800, Nyborg,2300000 ,07-08-2008,Alm. Salg,239,9623.0,5,1927,-8%
@@ -5665,7 +5597,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Rækkehus,Nørrevoldgade 2,5800, Nyborg,1695000 ,05-05-2008,Alm. Salg,94,18032.0,3,1774,
 450,Villa,Kogsbøllevej 23A,5800, Nyborg,300000 ,05-05-2008,Alm. Salg,157,1911.0,4,2010,
 450,Villa,Kertemindevej 55,5540, Ullerslev,1065000 ,04-05-2008,Alm. Salg,147,7245.0,4,1850,
-450,Villa,Lærkeparken 6,5800, Nyborg,2450000 ,03-05-2008,Alm. Salg,132,18561.0,5,1999,
 450,Villa,Sentvedvej 10,5853, Ørbæk,2075000 ,30-04-2008,Alm. Salg,267,7772.0,8,1900,-4%
 450,Ejerlejlighed,"Odensevej 7, st. 4",5540, Ullerslev,343989 ,29-04-2008,Fam. Salg,73,4712.0,2,1920,
 450,Ejerlejlighed,"Odensevej 7, 1. 9",5540, Ullerslev,330105 ,29-04-2008,Fam. Salg,62,5324.0,2,1920,
@@ -5771,7 +5702,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Kirkekrogen 12,5540, Ullerslev,850000 ,02-03-2008,Alm. Salg,97,8763.0,3,1800,-5%
 450,Villa,Gl. Vindingevej 126,5800, Nyborg,1675000 ,29-02-2008,Alm. Salg,101,16584.0,3,2006,
 450,Rækkehus,Vindingevej 26,5800, Nyborg,1200000 ,28-02-2008,Alm. Salg,91,13187.0,4,1924,-11%
-450,Ejerlejlighed,"Færgevej 1, 2. th",5800, Nyborg,2200000 ,27-02-2008,Alm. Salg,119,18487.0,3,2003,-2%
 450,Villa,Egernvænget 19,5800, Nyborg,1925000 ,27-02-2008,Alm. Salg,140,13750.0,5,1974,-1%
 450,Villa,Valmuevej 11,5800, Nyborg,703185 ,27-02-2008,Andet,115,6115.0,4,1965,
 450,Ejerlejlighed,"Kronprinsensgade 8, st",5800, Nyborg,950000 ,26-02-2008,Alm. Salg,67,14179.0,2,1900,
@@ -5863,7 +5793,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Byvejen 6,5874, Hesselager,900000 ,19-12-2007,Alm. Salg,135,6667.0,7,1912,-3%
 450,Villa,Postkrogen 25,5540, Ullerslev,1075000 ,19-12-2007,Alm. Salg,146,7363.0,8,1900,-2%
 450,Villa,Bøgebjerget 2,5853, Ørbæk,1100000 ,19-12-2007,Fam. Salg,152,7237.0,4,1800,
-450,Villa,Humlevænget 10,5800, Nyborg,3070000 ,18-12-2007,Alm. Salg,160,19188.0,4,1938,
 450,Villa,Refsvindinge Byvej 21A,5853, Ørbæk,1500000 ,18-12-2007,Alm. Salg,160,9375.0,4,1919,
 450,Villa,Kogsbøllevej 36,5800, Nyborg,1485000 ,18-12-2007,Alm. Salg,220,6750.0,8,1850,-5%
 450,Villa,Skolevænget 2,5853, Ørbæk,1550000 ,17-12-2007,Alm. Salg,183,8470.0,5,1968,
@@ -6041,13 +5970,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Skrænten 3,5853, Ørbæk,1232500 ,30-08-2007,Fam. Salg,149,8272.0,3,1990,
 450,Ejerlejlighed,"Strandvejen 10C, 1. th",5800, Nyborg,1450000 ,29-08-2007,Alm. Salg,127,11417.0,4,1985,-2%
 450,Villa,Fjordparken 33,5800, Nyborg,2450000 ,29-08-2007,Alm. Salg,174,14080.0,6,1977,
-450,Rækkehus,Kirkeballe 12B,5540, Ullerslev,1125000 ,28-08-2007,Alm. Salg,113,9956.0,5,1970,
-450,Villa,Ravnekærlund 77,5800, Nyborg,3125000 ,28-08-2007,Alm. Salg,167,18713.0,5,2006,
 450,Villa,Ferritslevvej 78,5540, Ullerslev,1350000 ,28-08-2007,Alm. Salg,193,6995.0,7,1949,-2%
 450,Villa,Tronnealle 92,5800, Nyborg,1750000 ,28-08-2007,Alm. Salg,120,14583.0,5,1987,
 450,Villa,Kokkehavevej 4,5853, Ørbæk,1225000 ,28-08-2007,Alm. Salg,133,9211.0,5,1800,-5%
 450,Villa,Balsgyden 11,5540, Ullerslev,2350000 ,28-08-2007,Alm. Salg,181,12983.0,4,1842,
-450,Villa,Kirkeballe 12A,5540, Ullerslev,1125000 ,28-08-2007,Alm. Salg,113,5921.0,7,1970,
 450,Rækkehus,Enebærvej 6B,5853, Ørbæk,700000 ,27-08-2007,Alm. Salg,90,7778.0,3,1989,
 450,Ejerlejlighed,Skippergade 26B,5800, Nyborg,1425000 ,27-08-2007,Alm. Salg,81,17593.0,3,1770,
 450,Villa,Kertemindevej 147,5800, Nyborg,111040 ,27-08-2007,Alm. Salg,265,419.0,6,1842,
@@ -6060,7 +5986,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Ravnekærlund 172,5800, Nyborg,580462 ,23-08-2007,Alm. Salg,172,3375.0,5,2008,
 450,Villa,Fjordparken 25,5800, Nyborg,1452000 ,22-08-2007,Alm. Salg,97,14969.0,4,1981,
 450,Villa,Odensevej 122A,5800, Nyborg,1265000 ,22-08-2007,Alm. Salg,113,11195.0,4,1935,
-450,Villa,Østerøvej 71,5800, Nyborg,2675000 ,21-08-2007,Alm. Salg,140,19107.0,6,1900,-4%
 450,Villa,Strandparken 7,5800, Nyborg,1350000 ,21-08-2007,Alm. Salg,123,10976.0,3,1966,
 450,Villa,Nyborgvej 6,5540, Ullerslev,2400000 ,21-08-2007,Alm. Salg,212,8824.0,8,1973,
 450,Villa,Teglgårdsvej 3,5800, Nyborg,1475000 ,21-08-2007,Alm. Salg,181,7338.0,7,1900,
@@ -6384,7 +6309,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Ejerlejlighed,"Kronprinsensgade 4, 1",5800, Nyborg,960000 ,31-01-2007,Alm. Salg,83,11566.0,2,1898,
 450,Villa,Gedsbergvej 14,5540, Ullerslev,1100000 ,30-01-2007,Alm. Salg,116,9483.0,4,1946,-8%
 450,Rækkehus,Bystævnet 13,5800, Nyborg,460000 ,28-01-2007,Alm. Salg,67,6866.0,3,1827,
-450,Villa,Svendborgvej 53,5540, Ullerslev,2000000 ,28-01-2007,Alm. Salg,206,9709.0,8,1906,
 450,Villa,Gl. Vindingevej 190,5800, Nyborg,3000000 ,27-01-2007,Alm. Salg,206,14563.0,6,2002,-5%
 450,Villa,Vinkelvej 11,5800, Nyborg,1690000 ,26-01-2007,Alm. Salg,137,12336.0,5,1908,
 450,Villa,Stenhavevej 2,5853, Ørbæk,3750000 ,26-01-2007,Alm. Salg,393,9542.0,10,1800,
@@ -6587,7 +6511,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Ejerlejlighed,"Odensevej 139, st",5800, Nyborg,1290000 ,22-09-2006,Alm. Salg,181,7127.0,7,1900,
 450,Villa,Odensevej 145,5800, Nyborg,1300000 ,22-09-2006,Alm. Salg,160,8125.0,6,1920,
 450,Villa,Odensevej 149,5800, Nyborg,350000 ,22-09-2006,Alm. Salg,103,3398.0,4,1930,
-450,Villa,Ravnekærlund 19,5800, Nyborg,2925000 ,19-09-2006,Alm. Salg,157,18631.0,5,2005,
 450,Villa,Kertemindevej 23,5800, Nyborg,580000 ,19-09-2006,Alm. Salg,119,4874.0,5,1780,
 450,Ejerlejlighed,"Vesterhavnen 20, st. th",5800, Nyborg,1596000 ,18-09-2006,Alm. Salg,123,12976.0,3,2006,
 450,Villa,Stenbæksvej 3,5800, Nyborg,1300000 ,18-09-2006,Alm. Salg,140,9286.0,5,1956,
@@ -6603,7 +6526,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Kogsbøllevej 91,5871, Frørup,635000 ,14-09-2006,Alm. Salg,120,5292.0,4,1860,
 450,Ejerlejlighed,"Adelgade 6, st. 2",5800, Nyborg,619000 ,13-09-2006,Alm. Salg,63,9825.0,2,1900,
 450,Villa,Fjordvej 10,5800, Nyborg,1850000 ,13-09-2006,Alm. Salg,151,12252.0,6,1933,
-450,Ejerlejlighed,"Sydkajen 2, 2. th",5800, Nyborg,2398000 ,10-09-2006,Alm. Salg,127,18882.0,3,2006,
 450,Ejerlejlighed,"Helletoften 12, 3. th",5800, Nyborg,740000 ,10-09-2006,Alm. Salg,85,8706.0,3,1969,
 450,Villa,Åskovvej 4,5800, Nyborg,1595000 ,10-09-2006,Alm. Salg,168,9494.0,6,1904,
 450,Villa,Odensevej 23,5540, Ullerslev,375000 ,07-09-2006,Alm. Salg,125,3000.0,2,1866,
@@ -6722,12 +6644,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Bytoften 23,5540, Ullerslev,1125000 ,28-06-2006,Alm. Salg,126,8929.0,6,1973,
 450,Villa,Kertemindevej 58,5540, Ullerslev,1495000 ,28-06-2006,Alm. Salg,170,8794.0,5,1925,
 450,Villa,Ravnekærlund 87,5800, Nyborg,421800 ,28-06-2006,Alm. Salg,162,2604.0,5,2007,
-450,Ejerlejlighed,"Dampskibsmolen 5, 2. tv",5800, Nyborg,1910686 ,27-06-2006,Alm. Salg,101,18918.0,2,2003,
 450,Ejerlejlighed,"Helletoften 14, 3. tv",5800, Nyborg,625000 ,27-06-2006,Alm. Salg,78,8013.0,3,1969,
 450,Villa,Korkendrupvej 21,5540, Ullerslev,625000 ,27-06-2006,Alm. Salg,110,5682.0,4,1777,
 450,Ejerlejlighed,"Vesterhavnen 20, 1. th",5800, Nyborg,1796000 ,26-06-2006,Alm. Salg,123,14602.0,3,2006,
 450,Rækkehus,Gl. Vindingevej 212,5800, Nyborg,1045000 ,25-06-2006,Alm. Salg,94,11117.0,4,1989,
-450,Ejerlejlighed,"Dampskibsmolen 3, 2. th",5800, Nyborg,1860000 ,25-06-2006,Andet,98,18980.0,2,2003,
 450,Villa,Regstrupvej 35,5800, Nyborg,1295000 ,25-06-2006,Alm. Salg,164,7896.0,6,1901,
 450,Villa,Flødstrupvej 41,5540, Ullerslev,180000 ,25-06-2006,Alm. Salg,94,1915.0,5,1827,
 450,Villa,Ravnekærlund 81,5800, Nyborg,362970 ,25-06-2006,Alm. Salg,164,2213.0,5,2007,
@@ -6789,7 +6709,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Rækkehus,Grævlingevænget 42,5800, Nyborg,1350000 ,21-05-2006,Alm. Salg,126,10714.0,4,1977,
 450,Rækkehus,Grævlingevænget 76,5800, Nyborg,1075000 ,21-05-2006,Alm. Salg,93,11559.0,4,1979,
 450,Villa,Jydehaven 5,5540, Ullerslev,740000 ,21-05-2006,Alm. Salg,111,6667.0,4,1888,
-450,Ejerlejlighed,"Vesterhavnen 20, 2. tv",5800, Nyborg,2995000 ,18-05-2006,Alm. Salg,158,18956.0,4,2006,
 450,Villa,Bækstrup Mark 5,5540, Ullerslev,945000 ,18-05-2006,Alm. Salg,113,8363.0,3,1865,
 450,Villa,Juulskovvej 11,5853, Ørbæk,915000 ,18-05-2006,Alm. Salg,181,5055.0,4,1875,
 450,Villa,Sneverkilde 6,5871, Frørup,880000 ,18-05-2006,Alm. Salg,150,5867.0,6,1960,
@@ -7015,7 +6934,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Hellerupvej 51,5853, Ørbæk,333014 ,05-01-2006,Andet,151,2205.0,4,1966,
 450,Villa,Mejerivænget 63,5853, Ørbæk,332947 ,05-01-2006,Alm. Salg,333,1000.0,8,2010,
 450,Rækkehus,Hjortevænget 23,5800, Nyborg,1108150 ,04-01-2006,Alm. Salg,107,10357.0,5,1977,
-450,Ejerlejlighed,"Sydkajen 2, 2. tv",5800, Nyborg,2998000 ,03-01-2006,Alm. Salg,159,18855.0,3,2006,
 450,Ejerlejlighed,"Strandvejen 10C, 1. th",5800, Nyborg,1250000 ,03-01-2006,Alm. Salg,127,9843.0,4,1985,
 450,Villa,Øksendrupvej 6,5871, Frørup,830000 ,02-01-2006,Alm. Salg,171,4854.0,4,1937,
 450,Villa,Carlsmindevej 8,5800, Nyborg,1890000 ,01-01-2006,Alm. Salg,155,12194.0,5,1936,
@@ -7041,7 +6959,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Kogsbøllevej 8,5800, Nyborg,850000 ,12-12-2005,Alm. Salg,111,7658.0,5,1887,
 450,Ejerlejlighed,"Nørrevoldgade 48B, 2",5800, Nyborg,795000 ,11-12-2005,Alm. Salg,71,11197.0,3,1867,
 450,Ejerlejlighed,"Christianslundsvej 71, 1",5800, Nyborg,1500000 ,11-12-2005,Alm. Salg,134,11194.0,3,1910,
-450,Ejerlejlighed,"Vesterhavnen 14, 2. tv",5800, Nyborg,2897000 ,11-12-2005,Alm. Salg,156,18571.0,5,2006,
 450,Ejerlejlighed,Skippergade 26B,5800, Nyborg,1100000 ,11-12-2005,Alm. Salg,81,13580.0,3,1770,
 450,Villa,Fjordparken 6,5800, Nyborg,1352420 ,11-12-2005,Fam. Salg,113,11968.0,4,1979,
 450,Villa,Bøgevej 8,5853, Ørbæk,1312500 ,11-12-2005,Alm. Salg,168,7813.0,6,1963,
@@ -7199,7 +7116,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Grævlingevænget 178,5800, Nyborg,1450000 ,12-09-2005,Alm. Salg,144,10069.0,5,1977,
 450,Rækkehus,Risvej 61,5800, Nyborg,895000 ,11-09-2005,Alm. Salg,100,8950.0,4,1969,
 450,Villa,Skaboeshusevænget 9,5800, Nyborg,2750000 ,11-09-2005,Alm. Salg,259,10618.0,4,1984,
-450,Villa,Østerøvej 30,5800, Nyborg,1950000 ,10-09-2005,Alm. Salg,102,19118.0,5,1929,
 450,Rækkehus,Stentevej 29,5800, Nyborg,1040000 ,09-09-2005,Alm. Salg,88,11818.0,3,1955,
 450,Ejerlejlighed,"Vesterhavnen 22, st. tv",5800, Nyborg,2160000 ,09-09-2005,Alm. Salg,143,15105.0,3,2006,
 450,Villa,Humlevænget 33,5800, Nyborg,446300 ,08-09-2005,Andet,94,4748.0,3,1949,
@@ -7273,7 +7189,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Skovvej 15,5540, Ullerslev,671500 ,02-08-2005,Fam. Salg,119,5643.0,4,1964,
 450,Villa,Frisengårdsvej 62,5800, Nyborg,1075000 ,01-08-2005,Alm. Salg,108,9954.0,4,1933,
 450,Rækkehus,Ravnekærlund 114,5800, Nyborg,1138000 ,31-07-2005,Alm. Salg,98,11612.0,3,2005,
-450,Rækkehus,Vestergade 10B,5800, Nyborg,590000 ,31-07-2005,Alm. Salg,101,5842.0,3,1900,
 450,Villa,Fjordparken 70,5800, Nyborg,2225000 ,31-07-2005,Alm. Salg,236,9428.0,8,1979,
 450,Villa,Bøgevænget 2,5853, Ørbæk,925000 ,31-07-2005,Alm. Salg,139,6655.0,4,1975,
 450,Villa,Ferritslevvej 86,5540, Ullerslev,1135000 ,31-07-2005,Alm. Salg,162,7006.0,5,1942,
@@ -7668,7 +7583,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Øhavevej 24,5800, Nyborg,584000 ,04-01-2005,Alm. Salg,128,4563.0,3,1948,
 450,Villa,Havrevej 18,5800, Nyborg,1125000 ,03-01-2005,Alm. Salg,154,7305.0,5,1964,
 450,Villa,Øksendrupvej 33E,5871, Frørup,525000 ,03-01-2005,Alm. Salg,91,5769.0,3,1850,
-450,Ejerlejlighed,"Dampskibsmolen 5, 2. th",5800, Nyborg,1900000 ,02-01-2005,Alm. Salg,103,18447.0,4,2003,
 450,Villa,Strandalleen 62,5800, Nyborg,3250000 ,02-01-2005,Alm. Salg,427,7611.0,9,2008,
 450,Villa,Tjørnevej 32,5800, Nyborg,1130000 ,02-01-2005,Alm. Salg,128,8828.0,4,1962,
 450,Villa,Frørupvej 2,5871, Frørup,130000 ,02-01-2005,Auktion,149,872.0,5,1920,
@@ -7735,7 +7649,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Kystvej 17,5800, Nyborg,1325000 ,16-11-2004,Alm. Salg,131,10115.0,4,1930,
 450,Villa,Kogsbøllevej 91,5871, Frørup,585000 ,16-11-2004,Alm. Salg,120,4875.0,4,1860,
 450,Rækkehus,Risvej 62,5800, Nyborg,950000 ,15-11-2004,Alm. Salg,104,9135.0,4,1971,
-450,Ejerlejlighed,"Dampskibsmolen 5, 2. th",5800, Nyborg,1900000 ,15-11-2004,Alm. Salg,103,18447.0,4,2003,
 450,Ejerlejlighed,"Dampskibsmolen 5, 2. tv",5800, Nyborg,1855000 ,15-11-2004,Alm. Salg,101,18366.0,2,2003,
 450,Villa,Ringvej 8,5853, Ørbæk,50000 ,15-11-2004,Alm. Salg,148,338.0,5,1999,
 450,Villa,Vestergade 3,5800, Nyborg,859570 ,15-11-2004,Alm. Salg,104,8265.0,5,1940,
@@ -7821,8 +7734,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Rækkehus,Grævlingevænget 86,5800, Nyborg,995000 ,15-09-2004,Alm. Salg,93,10699.0,4,1979,
 450,Rækkehus,Hjortevænget 5,5800, Nyborg,1075000 ,14-09-2004,Alm. Salg,95,11316.0,4,1976,
 450,Rækkehus,Majsvej 31,5800, Nyborg,950000 ,13-09-2004,Alm. Salg,100,9500.0,4,1972,
-450,Ejerlejlighed,"Vesterhavnen 16, 2. th",5800, Nyborg,3247000 ,13-09-2004,Alm. Salg,176,18449.0,4,2006,
-450,Ejerlejlighed,"Vesterhavnen 22, 2. tv",5800, Nyborg,3247000 ,09-09-2004,Alm. Salg,175,18554.0,4,2006,
 450,Villa,Søndervænget 6,5871, Frørup,110000 ,09-09-2004,Alm. Salg,177,516.0,7,1912,
 450,Rækkehus,Vestervoldgade 35,5800, Nyborg,650000 ,08-09-2004,Alm. Salg,86,7558.0,5,1800,
 450,Rækkehus,Risvej 1,5800, Nyborg,782000 ,04-09-2004,Alm. Salg,99,7899.0,5,1969,
@@ -8207,7 +8118,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Tårup Byvej 12,5871, Frørup,1460000 ,06-11-2003,Alm. Salg,240,6083.0,7,1825,
 450,Rækkehus,Åvænget 44,5853, Ørbæk,623000 ,04-11-2003,Auktion,110,5664.0,4,1989,
 450,Villa,Drosselvej 8,5540, Ullerslev,900000 ,04-11-2003,Alm. Salg,138,6522.0,3,1969,
-450,Villa,Hindemaevej 88,5540, Ullerslev,1300000 ,03-11-2003,Fam. Salg,70,18571.0,3,1914,
 450,Villa,Skovsbovej 243B,5540, Ullerslev,930000 ,02-11-2003,Alm. Salg,129,7209.0,4,1978,
 450,Villa,Ferritslevvej 121,5540, Ullerslev,389500 ,02-11-2003,Andet,207,1882.0,5,1913,
 450,Villa,Åløkkevej 60,5800, Nyborg,865000 ,02-11-2003,Alm. Salg,271,3192.0,8,1875,
@@ -8230,9 +8140,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Vendegyden 1,5540, Ullerslev,640000 ,20-10-2003,Alm. Salg,141,4539.0,4,1877,
 450,Villa,Kertemindevej 4,5540, Ullerslev,670000 ,16-10-2003,Alm. Salg,130,5154.0,4,1955,
 450,Rækkehus,Skovparken 4A,5853, Ørbæk,650000 ,15-10-2003,Alm. Salg,99,6566.0,4,1982,
-450,Rækkehus,Åvej 6C,5800, Nyborg,795200 ,15-10-2003,Alm. Salg,122,6518.0,4,1934,
 450,Ejerlejlighed,"Færgevej 1, 1. th",5800, Nyborg,1640000 ,15-10-2003,Alm. Salg,119,13782.0,3,2003,
-450,Villa,Åvej 6B,5800, Nyborg,795200 ,15-10-2003,Alm. Salg,115,6915.0,4,1840,
 450,Villa,Mejerivænget 76,5853, Ørbæk,1625000 ,15-10-2003,Alm. Salg,140,11607.0,5,2002,
 450,Rækkehus,Enebærvej 37B,5853, Ørbæk,570000 ,14-10-2003,Alm. Salg,62,9194.0,2,2003,
 450,Ejerlejlighed,"Svanedamsgade 27, 1",5800, Nyborg,1545000 ,14-10-2003,Alm. Salg,151,10232.0,5,1930,
@@ -8468,7 +8376,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Hannesborgvej 82,5540, Ullerslev,2225000 ,01-06-2003,Alm. Salg,323,6889.0,8,1925,
 450,Rækkehus,Nordmarksvej 39,5800, Nyborg,685000 ,30-05-2003,Alm. Salg,72,9514.0,3,1952,
 450,Rækkehus,Grævlingevænget 77,5800, Nyborg,895000 ,29-05-2003,Alm. Salg,125,7160.0,4,1980,
-450,Ejerlejlighed,Kertemindevej 4B,5800, Nyborg,1150000 ,29-05-2003,Alm. Salg,65,17692.0,2,1952,
 450,Villa,Egevej 37,5800, Nyborg,980000 ,29-05-2003,Alm. Salg,95,10316.0,3,1965,
 450,Villa,Nymarksvej 52,5800, Nyborg,1250000 ,28-05-2003,Alm. Salg,125,10000.0,5,1951,
 450,Villa,Kogsbøllevej 57,5800, Nyborg,474069 ,27-05-2003,Alm. Salg,134,3538.0,4,1777,
@@ -8565,12 +8472,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Møllehaven 64,5853, Ørbæk,1200000 ,11-03-2003,Alm. Salg,151,7947.0,5,1987,
 450,Villa,Humlevænget 46,5800, Nyborg,930000 ,10-03-2003,Alm. Salg,114,8158.0,4,1949,
 450,Villa,Stenhavevej 13,5853, Ørbæk,1098000 ,10-03-2003,Alm. Salg,149,7369.0,6,1940,
-450,Ejerlejlighed,"Adelgade 7, 3",5800, Nyborg,1280282 ,09-03-2003,Fam. Salg,104,12310.0,3,1875,
-450,Ejerlejlighed,"Adelgade 7, 2",5800, Nyborg,1280282 ,09-03-2003,Fam. Salg,148,8651.0,4,1875,
-450,Ejerlejlighed,"Adelgade 7, st",5800, Nyborg,1280282 ,09-03-2003,Fam. Salg,70,18290.0,2,1875,
-450,Ejerlejlighed,"Adelgade 7, 1",5800, Nyborg,1280282 ,09-03-2003,Fam. Salg,148,8651.0,4,1875,
-450,Ejerlejlighed,"Østervoldgade 49, 1",5800, Nyborg,1280282 ,09-03-2003,Fam. Salg,101,12676.0,5,1700,
-450,Ejerlejlighed,"Østervoldgade 49, 2",5800, Nyborg,1280282 ,09-03-2003,Fam. Salg,101,12676.0,5,1700,
 450,Villa,Fjordparken 52,5800, Nyborg,1170000 ,09-03-2003,Alm. Salg,156,7500.0,4,1977,
 450,Villa,Thorsløkken 8,5800, Nyborg,810000 ,08-03-2003,Alm. Salg,109,7431.0,5,1963,
 450,Villa,Kirkeballe 9,5540, Ullerslev,800000 ,06-03-2003,Alm. Salg,136,5882.0,4,1970,
@@ -8580,9 +8481,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Falstervej 1,5800, Nyborg,2500000 ,04-03-2003,Alm. Salg,175,14286.0,6,1987,
 450,Villa,Lindevej 21,5800, Nyborg,1510000 ,03-03-2003,Alm. Salg,168,8988.0,8,1944,
 450,Rækkehus,Buen 10B,5853, Ørbæk,750000 ,02-03-2003,Alm. Salg,95,7895.0,4,1980,
-450,Rækkehus,Hirsevej 77,5800, Nyborg,950000 ,02-03-2003,Alm. Salg,114,8333.0,5,1968,
 450,Villa,Vænget 1,5800, Nyborg,1265000 ,02-03-2003,Alm. Salg,150,8433.0,4,1965,
-450,Villa,Skovvej 13,5800, Nyborg,950000 ,02-03-2003,Alm. Salg,107,8879.0,4,1951,
 450,Villa,Gl. Byvej 2,5540, Ullerslev,770176 ,02-03-2003,Alm. Salg,160,4814.0,6,1938,
 450,Villa,Grævlingevænget 188,5800, Nyborg,1295000 ,01-03-2003,Alm. Salg,171,7573.0,6,1977,
 450,Villa,Svendborgvej 50,5853, Ørbæk,1025000 ,27-02-2003,Alm. Salg,113,9071.0,4,1883,
@@ -9297,7 +9196,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Assensvej 96,5853, Ørbæk,2600000 ,29-08-2001,Alm. Salg,199,13065.0,6,1900,
 450,Villa,Birchs Alle 1,5800, Nyborg,1150000 ,29-08-2001,Alm. Salg,197,5838.0,8,1900,
 450,Villa,Lillemøllevej 6,5800, Nyborg,620000 ,28-08-2001,Alm. Salg,107,5794.0,4,1900,
-450,Villa,Teglvænget 29,5540, Ullerslev,100000 ,28-08-2001,Alm. Salg,83,1205.0,2,1956,
 450,Villa,Skalkendrupvej 89,5800, Nyborg,725000 ,28-08-2001,Alm. Salg,218,3326.0,7,1877,
 450,Ejerlejlighed,"Helletoften 14, 3. th",5800, Nyborg,528100 ,24-08-2001,Alm. Salg,93,5678.0,4,1969,
 450,Villa,Granvej 57,5540, Ullerslev,895475 ,23-08-2001,Alm. Salg,130,6888.0,5,1972,
@@ -9911,12 +9809,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Ejerlejlighed,"Nybrogade 2B, st. tv",5800, Nyborg,1140000 ,21-05-2000,Alm. Salg,134,8507.0,4,1877,
 450,Villa,Erantisvænget 10,5540, Ullerslev,456500 ,20-05-2000,Fam. Salg,150,3043.0,5,1975,
 450,Villa,Ravnholtvej 18,5853, Ørbæk,660000 ,18-05-2000,Alm. Salg,169,3905.0,5,1870,
-450,Ejerlejlighed,"Wørishøffersgade 28, st",5800, Nyborg,1400000 ,17-05-2000,Alm. Salg,86,16279.0,2,1929,
 450,Villa,Wørishøffersgade 26,5800, Nyborg,720662 ,17-05-2000,Alm. Salg,145,4970.0,5,1904,
 450,Villa,Kogsbøllevej 10,5800, Nyborg,570000 ,17-05-2000,Alm. Salg,158,3608.0,5,1909,
 450,Villa,Kabinettet 3,5800, Nyborg,1303850 ,17-05-2000,Alm. Salg,169,7715.0,4,1927,
 450,Villa,Vestergade 19,5540, Ullerslev,1000000 ,17-05-2000,Alm. Salg,170,5882.0,5,1963,
-450,Villa,Strandalleen 14,5800, Nyborg,1400000 ,17-05-2000,Alm. Salg,160,8750.0,5,1932,
 450,Villa,Ellingevej 17B,5853, Ørbæk,377265 ,17-05-2000,Alm. Salg,149,2532.0,4,1974,
 450,Villa,Lindevej 24,5800, Nyborg,1120000 ,16-05-2000,Alm. Salg,127,8819.0,5,1938,
 450,Villa,Mullerupvej 30,5540, Ullerslev,695000 ,16-05-2000,Alm. Salg,99,7020.0,4,1955,
@@ -9983,7 +9879,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Ejerlejlighed,"Odensevej 7, st. 5",5540, Ullerslev,350000 ,31-03-2000,Alm. Salg,54,6481.0,2,1920,
 450,Rækkehus,Enebærvej 8B,5853, Ørbæk,530000 ,30-03-2000,Alm. Salg,66,8030.0,3,1990,
 450,Rækkehus,Skippergade 26,5800, Nyborg,1095000 ,30-03-2000,Alm. Salg,121,9050.0,4,1600,
-450,Ejerlejlighed,Kertemindevej 4B,5800, Nyborg,1153694 ,30-03-2000,Alm. Salg,65,17749.0,2,1952,
 450,Villa,Lærkevej 1,5853, Ørbæk,179420 ,30-03-2000,Fam. Salg,130,1380.0,4,1967,
 450,Villa,Svendborgvej 54,5540, Ullerslev,2640000 ,30-03-2000,Fam. Salg,145,18207.0,5,1911,
 450,Villa,Birkevej 8,5800, Nyborg,1079500 ,30-03-2000,Alm. Salg,140,7711.0,6,1946,
@@ -10042,7 +9937,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Bøgevej 46,5800, Nyborg,777080 ,23-02-2000,Alm. Salg,138,5631.0,5,1964,
 450,Villa,Bøgebjerget 8,5853, Ørbæk,1025000 ,23-02-2000,Alm. Salg,195,5256.0,6,1905,
 450,Ejerlejlighed,"Nørrevoldgade 76, 2. th",5800, Nyborg,610000 ,22-02-2000,Alm. Salg,90,6778.0,3,1929,
-450,Ejerlejlighed,Kertemindevej 4B,5800, Nyborg,1045000 ,22-02-2000,Alm. Salg,65,16077.0,2,1952,
 450,Rækkehus,Skovparken 4B,5853, Ørbæk,601000 ,17-02-2000,Alm. Salg,82,7329.0,3,1982,
 450,Villa,Nordenhusevej 4,5800, Nyborg,720000 ,17-02-2000,Alm. Salg,204,3529.0,5,1920,
 450,Ejerlejlighed,"Adelgade 2, 1. tv",5800, Nyborg,1300000 ,16-02-2000,Alm. Salg,135,9630.0,4,1800,
@@ -10123,7 +10017,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Lervadvej 36,5540, Ullerslev,87634 ,09-12-1999,Alm. Salg,129,679.0,4,2000,
 450,Ejerlejlighed,"Åparken 29, st",5800, Nyborg,295942 ,08-12-1999,Alm. Salg,59,5016.0,2,1969,
 450,Villa,Ole Suhrsgade 13,5800, Nyborg,1350000 ,08-12-1999,Alm. Salg,228,5921.0,10,1900,
-450,Villa,Teglvænget 29,5540, Ullerslev,165000 ,07-12-1999,Alm. Salg,83,1988.0,2,1956,
 450,Villa,Ludvig Hansensvej 7,5800, Nyborg,795000 ,07-12-1999,Alm. Salg,130,6115.0,4,1940,
 450,Villa,Gartnervænget 4,5800, Nyborg,745399 ,07-12-1999,Alm. Salg,148,5036.0,5,1967,
 450,Rækkehus,Hirsevej 89,5800, Nyborg,745000 ,06-12-1999,Alm. Salg,96,7760.0,4,1969,
@@ -10292,7 +10185,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Bøjdenvej 38,5800, Nyborg,729946 ,27-08-1999,Alm. Salg,113,6460.0,5,1933,
 450,Villa,Hovmarken 25,5540, Ullerslev,1067297 ,25-08-1999,Alm. Salg,181,5897.0,7,1979,
 450,Villa,Boholtvej 3,5871, Frørup,305000 ,24-08-1999,Alm. Salg,173,1763.0,5,1960,
-450,Villa,Gartnervej 8,5800, Nyborg,2300000 ,23-08-1999,Alm. Salg,80,19167.0,5,1946,
 450,Villa,Granvej 97,5540, Ullerslev,500000 ,22-08-1999,Alm. Salg,140,3571.0,5,1974,
 450,Villa,Frørupvej 2,5871, Frørup,150000 ,22-08-1999,Auktion,149,1007.0,5,1920,
 450,Rækkehus,Grævlingevænget 84,5800, Nyborg,812000 ,19-08-1999,Alm. Salg,93,8731.0,4,1979,
@@ -10395,7 +10287,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Frisengårdsvej 104,5800, Nyborg,700000 ,26-06-1999,Fam. Salg,88,7955.0,3,1955,
 450,Villa,Tårup Byvej 48,5871, Frørup,572000 ,25-06-1999,Alm. Salg,111,5153.0,5,1917,
 450,Villa,Åløkkevej 32,5800, Nyborg,661445 ,24-06-1999,Alm. Salg,119,5558.0,5,1969,
-450,Villa,Teglvænget 29,5540, Ullerslev,1000000 ,23-06-1999,Alm. Salg,83,12048.0,2,1956,
 450,Villa,Provst Hjortsvej 20,5800, Nyborg,675000 ,23-06-1999,Alm. Salg,130,5192.0,6,1926,
 450,Villa,Ellestedvej 2B,5853, Ørbæk,240000 ,23-06-1999,Fam. Salg,159,1509.0,5,1914,
 450,Rækkehus,Rådyrvænget 3,5800, Nyborg,690000 ,22-06-1999,Alm. Salg,97,7113.0,3,1978,
@@ -10547,7 +10438,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Pårupvej 26,5540, Ullerslev,354000 ,14-03-1999,Alm. Salg,75,4720.0,4,1860,
 450,Ejerlejlighed,"Søndergade 18, st. tv",5800, Nyborg,303500 ,12-03-1999,Alm. Salg,47,6457.0,2,1850,
 450,Villa,Parkvej 10,5800, Nyborg,275000 ,11-03-1999,Alm. Salg,77,3571.0,4,2000,
-450,Villa,Teglvænget 29,5540, Ullerslev,1000000 ,11-03-1999,Alm. Salg,83,12048.0,2,1956,
 450,Villa,Langemosevej 6,5853, Ørbæk,280000 ,11-03-1999,Fam. Salg,180,1556.0,6,1907,
 450,Villa,Åkærvej 15,5800, Nyborg,650000 ,11-03-1999,Fam. Salg,159,4088.0,5,1850,
 450,Villa,Drosselvej 1,5540, Ullerslev,842000 ,09-03-1999,Alm. Salg,140,6014.0,5,1970,
@@ -11468,7 +11358,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Skellerupvej 13,5540, Ullerslev,579000 ,09-07-1997,Alm. Salg,143,4049.0,6,1927,
 450,Villa,Pilevænget 1,5800, Nyborg,742540 ,09-07-1997,Alm. Salg,79,9399.0,3,1953,
 450,Villa,Strandalleen 5,5800, Nyborg,600000 ,09-07-1997,Alm. Salg,85,7059.0,3,1949,
-450,Villa,Teglvænget 29,5540, Ullerslev,150000 ,08-07-1997,Alm. Salg,83,1807.0,2,1956,
 450,Villa,Birkevænget 9,5853, Ørbæk,695000 ,08-07-1997,Alm. Salg,175,3971.0,6,1976,
 450,Villa,L. Kr. Larsensvej 29,5540, Ullerslev,477000 ,08-07-1997,Alm. Salg,70,6814.0,2,1960,
 450,Villa,Ferritslevvej 96,5540, Ullerslev,1120000 ,07-07-1997,Alm. Salg,250,4480.0,6,1912,
@@ -11573,8 +11462,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Kirke Alle 5,5871, Frørup,425000 ,01-05-1997,Alm. Salg,107,3972.0,5,1850,
 450,Ejerlejlighed,"Åparken 15, 3",5800, Nyborg,216494 ,30-04-1997,Alm. Salg,61,3549.0,2,1969,
 450,Rækkehus,Degnelodden 1B,5874, Hesselager,357000 ,29-04-1997,Alm. Salg,110,3245.0,3,1875,
-450,Ejerlejlighed,"Aldershvilevej 8, 1",5800, Nyborg,1850000 ,29-04-1997,Alm. Salg,112,16518.0,4,1898,
-450,Villa,"Aldershvilevej 10, st",5800, Nyborg,1850000 ,29-04-1997,Alm. Salg,345,5362.0,7,1832,
 450,Ejerlejlighed,"Helletoften 13, 2. tv",5800, Nyborg,275000 ,28-04-1997,Alm. Salg,71,3873.0,2,1969,
 450,Villa,Skaboeshusevej 106,5800, Nyborg,871000 ,28-04-1997,Alm. Salg,154,5656.0,4,1902,
 450,Villa,Hvedevej 11,5800, Nyborg,728350 ,28-04-1997,Alm. Salg,95,7667.0,2,1965,
@@ -11779,7 +11666,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Teglgårdsvej 5,5800, Nyborg,470000 ,18-12-1996,Alm. Salg,100,4700.0,4,1891,
 450,Villa,Skovvej 21,5540, Ullerslev,580000 ,17-12-1996,Alm. Salg,116,5000.0,4,1969,
 450,Villa,Dyrehavevej 2,5800, Nyborg,450000 ,16-12-1996,Alm. Salg,117,3846.0,3,1950,
-450,Villa,Nybrogade 4,5800, Nyborg,331570 ,16-12-1996,Alm. Salg,237,1399.0,7,1894,
 450,Villa,Svendborgvej 45,5540, Ullerslev,568000 ,16-12-1996,Alm. Salg,188,3021.0,6,1904,
 450,Villa,Grimshavevej 2,5871, Frørup,500000 ,14-12-1996,Alm. Salg,111,4505.0,7,1916,
 450,Villa,Strandalleen 65,5800, Nyborg,1264000 ,12-12-1996,Alm. Salg,217,5825.0,8,1972,
@@ -12004,9 +11890,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Fjordparken 2,5800, Nyborg,810000 ,12-08-1996,Alm. Salg,129,6279.0,4,1980,
 450,Villa,Sentvedvej 29,5853, Ørbæk,700000 ,11-08-1996,Alm. Salg,196,3571.0,5,1923,
 450,Rækkehus,Risvej 41,5800, Nyborg,486000 ,08-08-1996,Alm. Salg,84,5786.0,4,1971,
-450,Rækkehus,Svendborgvej 53,5540, Ullerslev,900000 ,08-08-1996,Alm. Salg,102,8824.0,4,1906,
 450,Villa,Kertemindevej 50,5540, Ullerslev,295000 ,08-08-1996,Alm. Salg,120,2458.0,4,1997,
-450,Villa,Svendborgvej 53,5540, Ullerslev,900000 ,08-08-1996,Alm. Salg,206,4369.0,8,1906,
 450,Villa,Kragelundvej 14,5853, Ørbæk,310000 ,06-08-1996,Alm. Salg,240,1292.0,8,1890,
 450,Villa,Bækvej 1,5871, Frørup,788044 ,05-08-1996,Fam. Salg,275,2866.0,7,1969,
 450,Ejerlejlighed,"Åparken 21, 3",5800, Nyborg,220000 ,04-08-1996,Alm. Salg,59,3729.0,2,1969,
@@ -12452,7 +12336,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Bakkevænget 4,5800, Nyborg,715000 ,16-10-1995,Alm. Salg,135,5296.0,4,1947,
 450,Villa,Toften 6,5540, Ullerslev,755000 ,16-10-1995,Alm. Salg,150,5033.0,5,1985,
 450,Villa,Nymarksvej 83,5800, Nyborg,640000 ,16-10-1995,Alm. Salg,133,4812.0,5,1976,
-450,Villa,Stenbæksvej 8B,5800, Nyborg,760000 ,16-10-1995,Alm. Salg,109,6972.0,4,1947,
 450,Rækkehus,Enebærvej 35B,5853, Ørbæk,425000 ,15-10-1995,Alm. Salg,72,5903.0,3,1989,
 450,Villa,Strandparken 37,5800, Nyborg,675000 ,14-10-1995,Alm. Salg,118,5720.0,4,1968,
 450,Rækkehus,Østervoldgade 61,5800, Nyborg,466200 ,13-10-1995,Alm. Salg,160,2914.0,5,1877,
@@ -12673,11 +12556,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Vinkelvej 16,5800, Nyborg,130000 ,01-06-1995,Alm. Salg,181,718.0,6,1997,
 450,Villa,Rygårdsvej 9,5874, Hesselager,342000 ,01-06-1995,Alm. Salg,135,2533.0,5,1935,
 450,Villa,Ravnholtvej 18,5853, Ørbæk,456492 ,31-05-1995,Alm. Salg,169,2701.0,5,1870,
-450,Ejerlejlighed,"Slotsgade 7, 1",5800, Nyborg,700000 ,30-05-1995,Alm. Salg,64,10938.0,2,1854,
-450,Ejerlejlighed,"Mellemgade 1, st",5800, Nyborg,700000 ,30-05-1995,Alm. Salg,48,14583.0,2,1880,
-450,Ejerlejlighed,"Slotsgade 9, 1",5800, Nyborg,700000 ,30-05-1995,Alm. Salg,68,10294.0,3,1897,
-450,Ejerlejlighed,"Mellemgade 1, 1",5800, Nyborg,700000 ,30-05-1995,Alm. Salg,65,10769.0,3,1880,
-450,Ejerlejlighed,"Slotsgade 9, 2",5800, Nyborg,700000 ,30-05-1995,Alm. Salg,40,17500.0,1,1897,
 450,Villa,Hjortevænget 111,5800, Nyborg,742000 ,28-05-1995,Fam. Salg,158,4696.0,5,1975,
 450,Villa,Juelsbergvej 1,5800, Nyborg,510000 ,27-05-1995,Alm. Salg,141,3617.0,5,1949,
 450,Villa,Kragelundvej 8,5853, Ørbæk,525000 ,26-05-1995,Alm. Salg,156,3365.0,4,1905,
@@ -12774,9 +12652,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Bækvej 16,5871, Frørup,149762 ,26-03-1995,Fam. Salg,135,1109.0,6,1887,
 450,Rækkehus,Hjortevænget 37,5800, Nyborg,505000 ,24-03-1995,Alm. Salg,92,5489.0,4,1976,
 450,Villa,Bymosen 7,5800, Nyborg,265137 ,24-03-1995,Andet,136,1950.0,5,1979,
-450,Ejerlejlighed,"Nørregade 11B, 2",5800, Nyborg,2380000 ,23-03-1995,Fam. Salg,296,8041.0,6,1892,
-450,Ejerlejlighed,"Vægtergade 1, 1. th",5800, Nyborg,2380000 ,23-03-1995,Fam. Salg,140,17000.0,2,1892,
-450,Ejerlejlighed,"Vægtergade 1, 1. tv",5800, Nyborg,2380000 ,23-03-1995,Fam. Salg,157,15159.0,5,1892,
 450,Villa,Vognmandsvej 13,5800, Nyborg,180000 ,23-03-1995,Andet,119,1513.0,5,1918,
 450,Villa,Odensevej 32,5853, Ørbæk,269000 ,23-03-1995,Alm. Salg,150,1793.0,6,1910,
 450,Rækkehus,Sentvedvej 42B,5871, Frørup,137578 ,22-03-1995,Fam. Salg,65,2117.0,2,1880,
@@ -12797,10 +12672,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Ludvig Hansensvej 31,5800, Nyborg,281000 ,12-03-1995,Auktion,89,3157.0,4,1941,
 450,Ejerlejlighed,"Christianslundsvej 53, 3",5800, Nyborg,200000 ,09-03-1995,Alm. Salg,58,3448.0,3,1900,
 450,Rækkehus,Risvej 107,5800, Nyborg,474000 ,08-03-1995,Alm. Salg,72,6583.0,3,1972,
-450,Ejerlejlighed,"Nørrevoldgade 49, 1",5800, Nyborg,495000 ,08-03-1995,Alm. Salg,118,4195.0,4,1895,
 450,Villa,Nordmarksvej 25,5800, Nyborg,555000 ,08-03-1995,Alm. Salg,120,4625.0,5,1951,
 450,Villa,Egernvænget 152,5800, Nyborg,460000 ,08-03-1995,Alm. Salg,142,3239.0,5,1973,
-450,Villa,Bøjdenvej 132A,5800, Nyborg,495000 ,08-03-1995,Alm. Salg,196,2526.0,7,1857,
 450,Villa,Strandparken 123,5800, Nyborg,768000 ,08-03-1995,Alm. Salg,157,4892.0,5,1972,
 450,Villa,Øksendrupvej 47,5871, Frørup,490000 ,06-03-1995,Alm. Salg,148,3311.0,6,1935,
 450,Villa,Knudshovedvej 26,5800, Nyborg,476195 ,05-03-1995,Alm. Salg,94,5066.0,3,1887,
@@ -13014,12 +12887,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Fasanvej 25,5800, Nyborg,410000 ,04-10-1994,Alm. Salg,120,3417.0,4,1973,
 450,Villa,Lærkevej 3,5540, Ullerslev,398000 ,03-10-1994,Alm. Salg,131,3038.0,5,1964,
 450,Rækkehus,Sentvedvej 42D,5871, Frørup,245510 ,02-10-1994,Alm. Salg,87,2822.0,3,1880,
-450,Ejerlejlighed,"Mart. Rasmussensgade 3, st",5800, Nyborg,100000 ,02-10-1994,Alm. Salg,92,1087.0,4,1907,
-450,Ejerlejlighed,"Mart. Rasmussensgade 3, 1",5800, Nyborg,100000 ,02-10-1994,Alm. Salg,74,1351.0,4,1907,
-450,Ejerlejlighed,"Jernbanegade 20, 1. th",5800, Nyborg,100000 ,02-10-1994,Alm. Salg,44,2273.0,2,1850,
-450,Ejerlejlighed,"Jernbanegade 20, st. tv",5800, Nyborg,100000 ,02-10-1994,Alm. Salg,46,2174.0,2,1850,
-450,Ejerlejlighed,"Jernbanegade 20, st. th",5800, Nyborg,100000 ,02-10-1994,Alm. Salg,55,1818.0,5,1850,
-450,Ejerlejlighed,"Jernbanegade 20, 1. tv",5800, Nyborg,100000 ,02-10-1994,Alm. Salg,41,2439.0,2,1850,
 450,Villa,Bystævnet 16,5800, Nyborg,175000 ,02-10-1994,Alm. Salg,233,751.0,5,1905,
 450,Villa,Svendborgvej 90,5853, Ørbæk,310000 ,02-10-1994,Alm. Salg,93,1694.0,6,1890,
 450,Villa,Svendborgvej 104,5853, Ørbæk,525000 ,02-10-1994,Alm. Salg,124,4234.0,4,1875,
@@ -13197,8 +13064,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Tjørnevej 4,5800, Nyborg,365000 ,24-06-1994,Alm. Salg,94,3883.0,4,1963,
 450,Rækkehus,Enebærvej 1A,5853, Ørbæk,255000 ,23-06-1994,Fam. Salg,70,3643.0,3,1989,
 450,Rækkehus,Risvej 62,5800, Nyborg,485000 ,23-06-1994,Alm. Salg,104,4663.0,4,1971,
-450,Ejerlejlighed,"Vægtergade 2, st. 1",5800, Nyborg,208000 ,23-06-1994,Fam. Salg,49,4245.0,3,1800,
-450,Ejerlejlighed,"Nørregade 13, 1",5800, Nyborg,208000 ,23-06-1994,Fam. Salg,85,2447.0,4,1800,
 450,Villa,Flødstrupvej 45,5540, Ullerslev,600000 ,23-06-1994,Alm. Salg,175,3429.0,8,1959,
 450,Rækkehus,Bondemosevej 58,5540, Ullerslev,445000 ,22-06-1994,Alm. Salg,115,3870.0,5,1979,
 450,Villa,Østerøvej 12,5800, Nyborg,1100000 ,22-06-1994,Alm. Salg,192,5729.0,6,1910,
@@ -13544,7 +13409,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Nyborgvej 13,5540, Ullerslev,425000 ,20-10-1993,Alm. Salg,160,2656.0,5,1850,
 450,Rækkehus,Provst Hjortsvej 56,5800, Nyborg,300000 ,19-10-1993,Alm. Salg,160,1875.0,6,1927,
 450,Rækkehus,Hovmarken 19,5540, Ullerslev,300235 ,19-10-1993,Alm. Salg,88,3412.0,3,1978,
-450,Rækkehus,Vestergade 10B,5800, Nyborg,330000 ,19-10-1993,Alm. Salg,101,3267.0,3,1900,
 450,Villa,Gl. Landevej 9,5874, Hesselager,470000 ,17-10-1993,Alm. Salg,134,3507.0,5,1889,
 450,Villa,Mullerupvej 21,5540, Ullerslev,435000 ,17-10-1993,Alm. Salg,114,3816.0,3,1877,
 450,Villa,Kertemindevej 161,5800, Nyborg,695000 ,14-10-1993,Alm. Salg,143,4860.0,5,1850,
@@ -13804,7 +13668,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Rækkehus,Wørishøffersgade 10,5800, Nyborg,310000 ,16-05-1993,Alm. Salg,109,2844.0,5,1904,
 450,Villa,Rosenvænget 4,5800, Nyborg,471105 ,16-05-1993,Fam. Salg,168,2804.0,5,1968,
 450,Villa,Nørrevoldgade 47,5800, Nyborg,458000 ,16-05-1993,Alm. Salg,177,2588.0,6,1894,
-450,Villa,Vestergade 6,5540, Ullerslev,1900000 ,16-05-1993,Alm. Salg,190,10000.0,7,1928,
 450,Villa,Krogvænget 5,5800, Nyborg,2093266 ,16-05-1993,Alm. Salg,303,6908.0,7,1862,
 450,Villa,Præstevænget 6,5800, Nyborg,760000 ,16-05-1993,Alm. Salg,175,4343.0,6,1969,
 450,Rækkehus,Bellisvænget 6,5800, Nyborg,338170 ,13-05-1993,Alm. Salg,58,5831.0,3,1990,
@@ -13839,7 +13702,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Rækkehus,Risvej 78,5800, Nyborg,525000 ,22-04-1993,Alm. Salg,106,4953.0,4,1972,
 450,Ejerlejlighed,"Åparken 11, 3",5800, Nyborg,215000 ,21-04-1993,Alm. Salg,59,3644.0,2,1969,
 450,Villa,Tjørnevej 18,5800, Nyborg,475000 ,19-04-1993,Alm. Salg,98,4847.0,4,1961,
-450,Rækkehus,"Knudshovedvej 15, st. 1",5800, Nyborg,190000 ,18-04-1993,Auktion,87,2184.0,2,1902,
 450,Villa,Skovgyden 61,5800, Nyborg,565000 ,18-04-1993,Alm. Salg,200,2825.0,6,1933,
 450,Villa,Vinkelvej 16,5800, Nyborg,105000 ,18-04-1993,Alm. Salg,181,580.0,6,1997,
 450,Villa,Margrethevej 2,5800, Nyborg,1183973 ,18-04-1993,Alm. Salg,142,8338.0,5,1917,
@@ -13925,21 +13787,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Solvænget 1,5800, Nyborg,481500 ,29-01-1993,Alm. Salg,81,5944.0,4,1956,
 450,Villa,Sølystvej 25,5800, Nyborg,235000 ,28-01-1993,Alm. Salg,179,1313.0,9,1898,
 450,Villa,Østerøvej 42,5800, Nyborg,475000 ,28-01-1993,Alm. Salg,117,4060.0,6,1934,
-450,Ejerlejlighed,"Wørishøffersgade 32, st. tv",5800, Nyborg,826000 ,26-01-1993,Alm. Salg,55,15018.0,2,1904,
-450,Ejerlejlighed,"Wørishøffersgade 32, st. th",5800, Nyborg,826000 ,26-01-1993,Alm. Salg,57,14491.0,3,1904,
-450,Ejerlejlighed,"Wørishøffersgade 32, 1. th",5800, Nyborg,826000 ,26-01-1993,Alm. Salg,63,13111.0,3,1904,
-450,Ejerlejlighed,"Wørishøffersgade 32, 1. tv",5800, Nyborg,826000 ,26-01-1993,Alm. Salg,55,15018.0,3,1904,
-450,Ejerlejlighed,"Wørishøffersgade 32, 2. th",5800, Nyborg,826000 ,26-01-1993,Alm. Salg,63,13111.0,3,1904,
-450,Ejerlejlighed,"Wørishøffersgade 32, 2. tv",5800, Nyborg,826000 ,26-01-1993,Alm. Salg,55,15018.0,3,1904,
-450,Ejerlejlighed,"Wørishøffersgade 32, 3",5800, Nyborg,826000 ,26-01-1993,Alm. Salg,44,18773.0,2,1904,
-450,Ejerlejlighed,"Svanedamsgade 13, st. tv",5800, Nyborg,826000 ,26-01-1993,Alm. Salg,69,11971.0,2,1904,
-450,Ejerlejlighed,"Svanedamsgade 13, st. th",5800, Nyborg,826000 ,26-01-1993,Alm. Salg,57,14491.0,2,1904,
-450,Ejerlejlighed,"Svanedamsgade 13, 1. th",5800, Nyborg,826000 ,26-01-1993,Alm. Salg,63,13111.0,3,1904,
-450,Ejerlejlighed,"Svanedamsgade 13, 2. th",5800, Nyborg,826000 ,26-01-1993,Alm. Salg,63,13111.0,2,1904,
-450,Ejerlejlighed,"Svanedamsgade 13, 2. tv",5800, Nyborg,826000 ,26-01-1993,Alm. Salg,71,11634.0,3,1904,
-450,Ejerlejlighed,"Svanedamsgade 13, 1. tv",5800, Nyborg,826000 ,26-01-1993,Alm. Salg,71,11634.0,3,1904,
-450,Ejerlejlighed,"Svanedamsgade 13, 3. th",5800, Nyborg,826000 ,26-01-1993,Alm. Salg,47,17574.0,3,1904,
-450,Ejerlejlighed,"Svanedamsgade 13, 3. tv",5800, Nyborg,826000 ,26-01-1993,Alm. Salg,83,9952.0,3,1904,
 450,Ejerlejlighed,"Vægtergade 14, 1. tv",5800, Nyborg,400000 ,25-01-1993,Alm. Salg,105,3810.0,3,1857,
 450,Rækkehus,Gartnergade 21,5800, Nyborg,149000 ,24-01-1993,Auktion,97,1536.0,3,1909,
 450,Ejerlejlighed,"Strandvejen 14, 1",5800, Nyborg,220000 ,24-01-1993,Auktion,121,1818.0,3,1927,
@@ -14054,17 +13901,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Kjærsvej 6,5800, Nyborg,267000 ,02-10-1992,Alm. Salg,70,3814.0,4,1956,
 450,Villa,Hjortevænget 116,5800, Nyborg,802500 ,01-10-1992,Alm. Salg,157,5111.0,4,1976,
 450,Villa,Gl. Byvej 6,5540, Ullerslev,315000 ,01-10-1992,Alm. Salg,92,3424.0,3,1957,
-450,Ejerlejlighed,"Vestervoldgade 8, 1",5800, Nyborg,1200000 ,29-09-1992,Alm. Salg,123,9756.0,4,1892,
-450,Ejerlejlighed,"Vestervoldgade 8, 2",5800, Nyborg,1200000 ,29-09-1992,Alm. Salg,103,11650.0,3,1892,
-450,Ejerlejlighed,"Vestervoldgade 8, st",5800, Nyborg,1200000 ,29-09-1992,Alm. Salg,123,9756.0,4,1892,
-450,Ejerlejlighed,"Korsgade 18, 1",5800, Nyborg,1200000 ,29-09-1992,Alm. Salg,77,15584.0,2,1900,
-450,Ejerlejlighed,"Korsgade 18, st",5800, Nyborg,1200000 ,29-09-1992,Alm. Salg,77,15584.0,2,1900,
-450,Ejerlejlighed,"Korsgade 18, 3",5800, Nyborg,1200000 ,29-09-1992,Alm. Salg,65,18462.0,2,1900,
-450,Ejerlejlighed,"Vestervoldgade 32, st. th",5800, Nyborg,1200000 ,29-09-1992,Alm. Salg,64,18750.0,3,1901,
-450,Ejerlejlighed,"Vestervoldgade 32, 1. th",5800, Nyborg,1200000 ,29-09-1992,Alm. Salg,64,18750.0,3,1901,
-450,Ejerlejlighed,"Korsgade 18, 2",5800, Nyborg,1200000 ,29-09-1992,Alm. Salg,77,15584.0,2,1900,
-450,Ejerlejlighed,"Vestervoldgade 32, 2. th",5800, Nyborg,1200000 ,29-09-1992,Alm. Salg,85,14118.0,2,1901,
-450,Ejerlejlighed,"Vestervoldgade 32, 2. tv",5800, Nyborg,1200000 ,29-09-1992,Alm. Salg,85,14118.0,2,1901,
 450,Villa,Kirkekrogen 5,5540, Ullerslev,420000 ,29-09-1992,Alm. Salg,236,1780.0,7,1937,
 450,Villa,Gl. Langeskov 45,5550, Langeskov,314903 ,28-09-1992,Alm. Salg,90,3499.0,4,1932,
 450,Villa,Kløvervej 3,5540, Ullerslev,395000 ,27-09-1992,Alm. Salg,142,2782.0,4,1965,
@@ -14083,11 +13919,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 450,Villa,Rådyrvænget 170,5800, Nyborg,520000 ,23-09-1992,Alm. Salg,111,4685.0,4,1979,
 450,Villa,Refsvindinge Byvej 3,5853, Ørbæk,1155297 ,21-09-1992,Andet,144,8023.0,6,1900,
 450,Villa,Sludevej 1,5871, Frørup,220000 ,21-09-1992,Alm. Salg,100,2200.0,3,1910,
-450,Ejerlejlighed,"Slotsgade 7, 1",5800, Nyborg,700000 ,20-09-1992,Auktion,64,10938.0,2,1854,
-450,Ejerlejlighed,"Mellemgade 1, st",5800, Nyborg,700000 ,20-09-1992,Auktion,48,14583.0,2,1880,
-450,Ejerlejlighed,"Slotsgade 9, 1",5800, Nyborg,700000 ,20-09-1992,Auktion,68,10294.0,3,1897,
-450,Ejerlejlighed,"Mellemgade 1, 1",5800, Nyborg,700000 ,20-09-1992,Auktion,65,10769.0,3,1880,
-450,Ejerlejlighed,"Slotsgade 9, 2",5800, Nyborg,700000 ,20-09-1992,Auktion,40,17500.0,1,1897,
 450,Ejerlejlighed,"Nørrevoldgade 23, 1",5800, Nyborg,627518 ,20-09-1992,Auktion,108,5810.0,3,1898,
 450,Villa,Pilevej 24,5800, Nyborg,530000 ,20-09-1992,Alm. Salg,125,4240.0,5,1961,
 450,Villa,Frisengårdsvej 21,5800, Nyborg,450000 ,20-09-1992,Alm. Salg,140,3214.0,5,1917,

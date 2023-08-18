@@ -673,7 +673,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 165,Ejerlejlighed,Egebo 2A,2620, Albertslund,3040000 ,09-07-2020,Alm. Salg,140,21714,5,2008,-1%
 165,Rækkehus,Pilehusene 32,2600, Glostrup,2845000 ,08-07-2020,Alm. Salg,114,24956,4,1973,
 165,Ejerlejlighed,"Topperne 15, 3. 32",2620, Albertslund,366666 ,07-07-2020,Fam. Salg,49,7483,2,1972,
-165,Villa,Ledøjevej 20A,2620, Albertslund,3700000 ,07-07-2020,Alm. Salg,191,19372,5,1878,
 165,Ejerlejlighed,"Topperne 11, 2. 22",2620, Albertslund,1070000 ,06-07-2020,Alm. Salg,49,21837,2,1972,-2%
 165,Ejerlejlighed,Egebo 3,2620, Albertslund,2575000 ,01-07-2020,Alm. Salg,105,24524,3,2008,-1%
 165,Ejerlejlighed,"Topperne 10, st. 2",2620, Albertslund,785000 ,29-06-2020,Alm. Salg,33,23788,1,1971,-8%
@@ -2274,8 +2273,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 165,Rækkehus,Rypehusene 30,2620, Albertslund,2025000 ,29-05-2014,Alm. Salg,127,15945,5,1972,-8%
 165,Rækkehus,Tranehusene 50,2620, Albertslund,2047000 ,27-05-2014,Alm. Salg,108,18954,4,1972,
 165,Rækkehus,Fængselsvej 22,2620, Albertslund,1530000 ,26-05-2014,Alm. Salg,133,11504,5,1918,-4%
-165,Rækkehus,Skovskrænten 8B,2620, Albertslund,3500000 ,22-05-2014,Alm. Salg,181,19337,6,1986,-8%
-165,Villa,Vridsløsestræde 9,2620, Albertslund,3500000 ,22-05-2014,Alm. Salg,185,18919,5,1975,-3%
 165,Rækkehus,Tranehusene 62,2620, Albertslund,1995000 ,19-05-2014,Alm. Salg,112,17813,4,1972,
 165,Rækkehus,Robinievej 125,2620, Albertslund,2700000 ,19-05-2014,Alm. Salg,131,20611,5,2008,
 165,Rækkehus,Robinievej 55,2620, Albertslund,2730000 ,14-05-2014,Alm. Salg,130,21000,5,2008,-2%
@@ -2681,8 +2678,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 165,Rækkehus,Fasanhusene 43,2620, Albertslund,1975000 ,26-05-2012,Alm. Salg,106,14522,6,1968,
 165,Villa,Hvidager 37,2620, Albertslund,2350000 ,20-05-2012,Alm. Salg,138,17029,5,1971,-6%
 165,Ejerlejlighed,Mölndalsparken 97,2620, Albertslund,1395000 ,19-05-2012,Alm. Salg,67,20821,3,1986,
-165,Rækkehus,Ledøjevej 20B,2620, Albertslund,400000 ,15-05-2012,Alm. Salg,50,8000,2,1928,
-165,Villa,Ledøjevej 20A,2620, Albertslund,400000 ,15-05-2012,Alm. Salg,191,2094,5,1878,
 165,Ejerlejlighed,"Topperne 13, 3. 33",2620, Albertslund,1250000 ,12-05-2012,Alm. Salg,100,12500,4,1972,-7%
 165,Ejerlejlighed,"Topperne 32, 1. 12",2620, Albertslund,545000 ,10-05-2012,Alm. Salg,49,11122,2,1972,-6%
 165,Rækkehus,Askebo 40,2620, Albertslund,2100000 ,09-05-2012,Alm. Salg,105,20000,3,2012,
@@ -3253,9 +3248,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 165,Ejerlejlighed,"Topperne 20, 3. 32",2620, Albertslund,710000 ,08-11-2008,Alm. Salg,49,14490,2,1972,
 165,Ejerlejlighed,"Topperne 13, 2. 23",2620, Albertslund,1500000 ,03-11-2008,Alm. Salg,100,15000,4,1972,-10%
 165,Villa,Kvædehaven 60,2600, Glostrup,3150000 ,27-10-2008,Alm. Salg,172,18314,5,1969,-10%
-165,Rækkehus,Robinievej 109,2620, Albertslund,2175540 ,26-10-2008,Andet,131,16607,4,2008,
 165,Rækkehus,Lange Eng 26,2620, Albertslund,2579540 ,26-10-2008,Andet,130,19843,5,2008,
-165,Rækkehus,Lange Eng 13,2620, Albertslund,2236140 ,26-10-2008,Andet,97,23053,4,2008,
 165,Ejerlejlighed,Lange Eng 15,2620, Albertslund,1690740 ,26-10-2008,Andet,69,24503,3,2008,
 165,Ejerlejlighed,Lange Eng 17,2620, Albertslund,2700740 ,26-10-2008,Andet,120,22506,5,2008,
 165,Rækkehus,Falkehusene 45,2620, Albertslund,2095000 ,23-10-2008,Alm. Salg,106,19764,4,1968,
@@ -6633,9 +6626,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 165,Villa,Herstedøstervej 39,2620, Albertslund,1916250 ,07-11-1994,Alm. Salg,294,6518,8,1988,
 165,Villa,Porsager 57,2620, Albertslund,700360 ,06-11-1994,Alm. Salg,107,6545,4,1965,
 165,Villa,Lerstræde 16,2620, Albertslund,910000 ,02-11-1994,Alm. Salg,140,6500,6,1902,
-165,Rækkehus,Ledøjevej 20B,2620, Albertslund,1400000 ,01-11-1994,Alm. Salg,50,28000,2,1928,
 165,Rækkehus,Rypehusene 8,2620, Albertslund,694920 ,01-11-1994,Alm. Salg,108,6434,4,1972,
-165,Villa,Ledøjevej 20A,2620, Albertslund,1400000 ,01-11-1994,Alm. Salg,191,7330,5,1878,
 165,Villa,Albertslundvej 5,2620, Albertslund,480000 ,31-10-1994,Alm. Salg,84,5714,4,1923,
 165,Ejerlejlighed,"Topperne 2, st. 2",2620, Albertslund,125000 ,30-10-1994,Alm. Salg,33,3788,1,1971,
 165,Ejerlejlighed,Mölndalsparken 14,2620, Albertslund,495000 ,26-10-1994,Alm. Salg,63,7857,2,1986,

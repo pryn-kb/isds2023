@@ -7,7 +7,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 260,Villa,Gl Kikhavnvej 26,3390, Hundested,697000 ,19-12-2022,Fam. Salg,102,6833,5,1956,
 260,Villa,Møllekrogen 15,3370, Melby,2075000 ,19-12-2022,Alm. Salg,126,16468,4,1962,-5%
 260,Rækkehus,Elverdamsvej 8B,3300, Frederiksværk,2195000 ,18-12-2022,Fam. Salg,138,15906,4,1980,
-260,Ejerlejlighed,"Læssevejen 2, st. tv",3390, Hundested,2650000 ,18-12-2022,Alm. Salg,99,26768,4,2016,
 260,Villa,Bakkebjerg 8,3390, Hundested,1350000 ,18-12-2022,Alm. Salg,101,13366,4,1960,-10%
 260,Villa,Enghavevej 6,3300, Frederiksværk,1800000 ,17-12-2022,Alm. Salg,103,17476,6,1895,
 260,Villa,Rypevej 11,3300, Frederiksværk,1600000 ,14-12-2022,Fam. Salg,151,10596,5,1977,
@@ -114,7 +113,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 260,Ejerlejlighed,"Nørregade 20B, st",3300, Frederiksværk,1880000 ,22-08-2022,Alm. Salg,97,19381,3,2000,
 260,Villa,Lynæsbakken 14,3390, Hundested,1600000 ,22-08-2022,Alm. Salg,165,9697,4,1970,-6%
 260,Villa,Tscherningsgade 5,3300, Frederiksværk,2560000 ,21-08-2022,Alm. Salg,160,16000,5,1954,-8%
-260,Villa,Lyngbakken 1,3390, Hundested,1895000 ,21-08-2022,Alm. Salg,71,26690,4,1934,
 260,Villa,Skovvangen 7,3390, Hundested,1850000 ,20-08-2022,Alm. Salg,122,15164,4,1964,-7%
 260,Villa,Vinderød Enghavevej 5,3300, Frederiksværk,1650000 ,14-08-2022,Alm. Salg,104,15865,4,1938,-5%
 260,Villa,Bødkergårdsvej 2,3300, Frederiksværk,2350000 ,13-08-2022,Alm. Salg,130,18077,5,1980,-2%
@@ -262,7 +260,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 260,Villa,Laksegade 8,3390, Hundested,2013672 ,18-04-2022,Alm. Salg,138,14592,3,1943,
 260,Villa,Natviolvej 5,3310, Ølsted,1026500 ,18-04-2022,Fam. Salg,220,4666,9,1974,
 260,Rækkehus,Bavnager 208,3310, Ølsted,3100000 ,17-04-2022,Alm. Salg,121,25620,4,2008,-1%
-260,Villa,Kirkevænget 22,3300, Frederiksværk,4995000 ,17-04-2022,Alm. Salg,188,26569,6,2017,
 260,Villa,Valdemar Poulsensvej 11,3390, Hundested,790000 ,16-04-2022,Fam. Salg,57,13860,2,1957,
 260,Villa,Sitkabakken 9,3390, Hundested,2700000 ,16-04-2022,Fam. Salg,163,16564,5,2020,
 260,Villa,Gerdasvej 1,3360, Liseleje,1920000 ,15-04-2022,Alm. Salg,116,16552,4,1976,-4%
@@ -287,7 +284,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 260,Villa,Fredsvej 14,3390, Hundested,4100000 ,29-03-2022,Alm. Salg,180,22778,6,1974,-2%
 260,Villa,Sverkilstrupvejen 9,3390, Hundested,2400000 ,29-03-2022,Andet,145,16552,6,1978,
 260,Villa,Rosenvænget 20,3390, Hundested,1280000 ,29-03-2022,Alm. Salg,91,14066,3,1962,
-260,Villa,Åkandevej 4A,3390, Hundested,1295000 ,29-03-2022,Alm. Salg,48,26979,3,1968,8%
 260,Rækkehus,Stokrosevej 3,3310, Ølsted,2595000 ,28-03-2022,Alm. Salg,114,22763,3,2006,
 260,Villa,Hyacintvej 9,3390, Hundested,2995000 ,28-03-2022,Alm. Salg,177,16921,5,1978,
 260,Villa,Winniesvej 29,3360, Liseleje,2625000 ,28-03-2022,Alm. Salg,117,22436,4,1970,-3%
@@ -316,7 +312,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 260,Villa,Gøgevænget 24,3390, Hundested,2100000 ,16-03-2022,Alm. Salg,121,17355,4,1971,-4%
 260,Villa,Karlshøjvej 34,3390, Hundested,2350000 ,15-03-2022,Alm. Salg,123,19106,4,1978,7%
 260,Villa,Vibjerg Sandvej 16,3310, Ølsted,795000 ,15-03-2022,Alm. Salg,151,5265,6,0,
-260,Villa,Skibsvænget 6,3300, Frederiksværk,4425000 ,15-03-2022,Alm. Salg,166,26657,5,2019,-1%
 260,Villa,Peder Olsensvej 24,3390, Hundested,3365000 ,14-03-2022,Alm. Salg,225,14956,8,1974,-4%
 260,Villa,Rørvej 3,3300, Frederiksværk,2195000 ,14-03-2022,Alm. Salg,125,17560,5,1972,-4%
 260,Villa,Konvalvej 5,3390, Hundested,2400000 ,14-03-2022,Alm. Salg,92,26087,4,1885,
@@ -329,7 +324,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 260,Villa,Porthusvej 10,3390, Hundested,4100000 ,09-03-2022,Alm. Salg,204,20098,5,1950,
 260,Villa,Helsingevej 90,3300, Frederiksværk,1925000 ,09-03-2022,Alm. Salg,174,11063,6,1927,-4%
 260,Villa,Dyssevænget 31,3300, Frederiksværk,2350000 ,08-03-2022,Alm. Salg,130,18077,4,1969,
-260,Villa,Arresøparken 2,3300, Frederiksværk,2231250 ,08-03-2022,Fam. Salg,182,12260,5,1911,
 260,Villa,Høgevej 6B,3390, Hundested,2420000 ,07-03-2022,Alm. Salg,182,13297,6,1979,1%
 260,Villa,Månelysvej 15,3310, Ølsted,300000 ,07-03-2022,Fam. Salg,124,2419,4,1973,
 260,Villa,Elmevej 9,3300, Frederiksværk,2095000 ,06-03-2022,Alm. Salg,95,22053,3,1959,
@@ -573,7 +567,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 260,Villa,Skovløbervej 13,3300, Frederiksværk,2475000 ,12-09-2021,Alm. Salg,102,24265,4,1965,
 260,Villa,Baggersvej 88,3300, Frederiksværk,1695000 ,10-09-2021,Alm. Salg,103,16456,4,1967,
 260,Villa,Enghavevej 4,3300, Frederiksværk,2850000 ,10-09-2021,Alm. Salg,163,17485,5,2009,-5%
-260,Villa,Solkrogen 14,3390, Hundested,2200000 ,09-09-2021,Alm. Salg,83,26506,3,1960,
 260,Villa,Hyldevej 25,3300, Frederiksværk,2590000 ,09-09-2021,Alm. Salg,206,12573,8,1969,
 260,Villa,Jens Søndergårdsvej 15,3390, Hundested,2550000 ,09-09-2021,Alm. Salg,112,22768,5,1973,
 260,Villa,Baggersvej 53,3300, Frederiksværk,1400000 ,09-09-2021,Fam. Salg,144,9722,4,1967,
@@ -624,8 +617,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 260,Ejerlejlighed,"H.J. Henriksens Vej 10C, st",3310, Ølsted,1975000 ,12-08-2021,Alm. Salg,108,18287,4,1955,
 260,Ejerlejlighed,"Vinkelvej 2E, st. mfth",3300, Frederiksværk,685000 ,10-08-2021,Alm. Salg,42,16310,1,1947,
 260,Villa,Søndergade 52,3390, Hundested,2500000 ,10-08-2021,Alm. Salg,143,17483,5,1933,9%
-260,Rækkehus,Hanehovedvej 154B,3300, Frederiksværk,1995000 ,08-08-2021,Alm. Salg,96,20781,4,2003,
-260,Villa,Vinderød Skov 71,3300, Frederiksværk,1995000 ,08-08-2021,Alm. Salg,125,15960,4,1928,
 260,Villa,Horsehaven 6,3310, Ølsted,2395000 ,08-08-2021,Alm. Salg,153,15654,4,1966,
 260,Villa,Oldtidsvej 17,3300, Frederiksværk,967367 ,08-08-2021,Fam. Salg,81,11943,4,1960,
 260,Villa,K F Ulrichsvej 6,3300, Frederiksværk,1495000 ,07-08-2021,Alm. Salg,65,23000,3,1972,
@@ -862,7 +853,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 260,Rækkehus,Tårnvænget 29,3300, Frederiksværk,2595000 ,22-03-2021,Alm. Salg,100,25950,3,2021,
 260,Villa,Fabriksvej 20,3310, Ølsted,1700000 ,22-03-2021,Andet,170,10000,5,2016,
 260,Ejerlejlighed,"Bjørnebakkevej 11, 1",3300, Frederiksværk,1815000 ,21-03-2021,Alm. Salg,87,20862,3,2006,1%
-260,Villa,Nordbakken 5,3390, Hundested,1520000 ,21-03-2021,Alm. Salg,57,26667,3,1975,2%
 260,Villa,St Karlsmindevej 39,3390, Hundested,2295000 ,19-03-2021,Alm. Salg,148,15507,6,1974,
 260,Rækkehus,Tårnvænget 25,3300, Frederiksværk,2668270 ,18-03-2021,Alm. Salg,106,25172,3,2021,
 260,Ejerlejlighed,"H.J. Henriksens Vej 10C, 1",3310, Ølsted,1398000 ,18-03-2021,Alm. Salg,72,19417,3,1955,
@@ -1181,7 +1171,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 260,Villa,Helsingevej 104,3300, Frederiksværk,1665000 ,30-09-2020,Alm. Salg,209,7967,6,1936,
 260,Villa,Vinderød Skov 61,3300, Frederiksværk,1125000 ,30-09-2020,Alm. Salg,117,9615,5,1924,
 260,Villa,Rødtjørnevej 39B,3300, Frederiksværk,1275000 ,30-09-2020,Alm. Salg,150,8500,5,1986,
-260,Villa,Arresøparken 2,3300, Frederiksværk,4650000 ,30-09-2020,Alm. Salg,182,25549,5,1911,-15%
 260,Villa,Ranunkelvej 4,3390, Hundested,1495000 ,29-09-2020,Alm. Salg,96,15573,3,1964,
 260,Ejerlejlighed,"Krudttårnsbakken 1, st. th",3300, Frederiksværk,1650000 ,28-09-2020,Alm. Salg,77,21429,2,2003,
 260,Villa,Karlsgavevej 16,3300, Frederiksværk,1500000 ,27-09-2020,Alm. Salg,105,14286,3,1957,
@@ -1540,7 +1529,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 260,Villa,Plantagevej 22,3390, Hundested,1175000 ,09-02-2020,Alm. Salg,63,18651,3,1942,-2%
 260,Villa,Grønlandsvej 17,3390, Hundested,455000 ,06-02-2020,Fam. Salg,114,3991,4,1978,
 260,Villa,Auderød Byvej 16A,3300, Frederiksværk,2695000 ,05-02-2020,Alm. Salg,150,17967,5,1999,
-260,Villa,Thorsvej 2A,3300, Frederiksværk,2000000 ,05-02-2020,Alm. Salg,124,16129,4,1954,
 260,Villa,Ellevej 20,3300, Frederiksværk,2195000 ,05-02-2020,Alm. Salg,161,13634,5,1979,
 260,Villa,Hejrebakken 11,3390, Hundested,1470000 ,04-02-2020,Alm. Salg,126,11667,4,1976,-2%
 260,Villa,Hundestedgårdsvej 21,3390, Hundested,1495000 ,04-02-2020,Alm. Salg,152,9836,5,1947,
@@ -1553,7 +1541,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 260,Villa,Bukketornvej 22,3300, Frederiksværk,1595000 ,29-01-2020,Alm. Salg,115,13870,4,1974,
 260,Villa,Krokusvænget 10,3390, Hundested,2250000 ,29-01-2020,Alm. Salg,152,14803,4,1986,
 260,Villa,Tinsoldaten 11,3300, Frederiksværk,2950000 ,29-01-2020,Alm. Salg,148,19932,4,2006,
-260,Villa,Strandvejen 54B,3300, Frederiksværk,1159000 ,28-01-2020,Alm. Salg,104,11144,4,1920,
 260,Rækkehus,Tårnvænget 11,3300, Frederiksværk,2550000 ,27-01-2020,Alm. Salg,106,24057,3,2020,
 260,Rækkehus,Tårnvænget 1,3300, Frederiksværk,2800000 ,27-01-2020,Alm. Salg,128,21875,4,2020,
 260,Rækkehus,Bavnager 218,3310, Ølsted,2470000 ,27-01-2020,Alm. Salg,121,20413,4,2008,-1%
@@ -2037,9 +2024,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 260,Villa,Lindebjergvænget 10,3370, Melby,1925000 ,21-02-2019,Alm. Salg,246,7825,6,1890,-4%
 260,Villa,Stokrosevej 11,3310, Ølsted,1695000 ,21-02-2019,Alm. Salg,115,14739,4,2007,-6%
 260,Villa,Egholmvej 6,3310, Ølsted,766097 ,20-02-2019,Alm. Salg,129,5939,4,1973,
-260,Rækkehus,Lynæs Fortvej 69,3390, Hundested,2300000 ,19-02-2019,Alm. Salg,98,23469,3,1952,-10%
 260,Villa,Gl Frederiksværkvej 14,3390, Hundested,2100000 ,19-02-2019,Alm. Salg,175,12000,6,2007,
-260,Villa,Gl Frederiksværkvej 16,3390, Hundested,2300000 ,19-02-2019,Alm. Salg,197,11675,6,2007,
 260,Villa,Havlitvej 13,3390, Hundested,1147500 ,18-02-2019,Fam. Salg,181,6340,4,1960,
 260,Villa,Nørrevangen 30,3300, Frederiksværk,1970000 ,18-02-2019,Alm. Salg,172,11453,6,1976,
 260,Villa,Torupvejen 147,3390, Hundested,2700000 ,16-02-2019,Alm. Salg,159,16981,6,1922,
@@ -3459,8 +3444,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 260,Villa,Duevej 4,3390, Hundested,1300000 ,03-02-2016,Alm. Salg,200,6500,4,1974,-18%
 260,Villa,Brøndalstien 33A,3390, Hundested,1800000 ,03-02-2016,Alm. Salg,157,11465,5,2007,-10%
 260,Villa,Smallegade 11,3390, Hundested,2818500 ,03-02-2016,Alm. Salg,134,21034,4,1987,-9%
-260,Rækkehus,Forsythiavej 48,3390, Hundested,900000 ,02-02-2016,Andet,98,9184,3,1979,
-260,Villa,Sverigesvej 4,3390, Hundested,900000 ,02-02-2016,Alm. Salg,213,4225,8,1980,
 260,Villa,Bjørnebakken 4,3390, Hundested,303000 ,02-02-2016,Fam. Salg,133,2278,4,1975,
 260,Villa,Helsingevej 24,3300, Frederiksværk,1250000 ,02-02-2016,Alm. Salg,152,8224,6,1917,-10%
 260,Villa,Jasminvej 11,3390, Hundested,600000 ,02-02-2016,Alm. Salg,108,5556,5,1989,
@@ -3517,7 +3500,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 260,Villa,Tørvelodsvej 19,3360, Liseleje,475000 ,15-12-2015,Alm. Salg,90,5278,4,1959,
 260,Villa,Melbyvej 10,3360, Liseleje,1395000 ,15-12-2015,Alm. Salg,130,10731,7,1937,
 260,Villa,Egholmvej 6,3310, Ølsted,680000 ,14-12-2015,Fam. Salg,129,5271,4,1973,
-260,Ejerlejlighed,"Nørregade 28, 1",3390, Hundested,3500000 ,13-12-2015,Alm. Salg,132,26515,3,1915,
 260,Villa,Hulgårdsvej 27,3300, Frederiksværk,1450000 ,13-12-2015,Alm. Salg,90,16111,3,1952,-3%
 260,Villa,Industrileddet 1,3300, Frederiksværk,2695000 ,13-12-2015,Alm. Salg,127,21220,4,1981,
 260,Villa,Carl Amossensvej 4,3300, Frederiksværk,576368 ,10-12-2015,Alm. Salg,64,9006,2,1953,
@@ -4793,11 +4775,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 260,Villa,Skelvej 9,3300, Frederiksværk,1100000 ,03-06-2012,Alm. Salg,103,10680,3,1968,-8%
 260,Villa,Irisvej 6,3300, Frederiksværk,1250000 ,02-06-2012,Alm. Salg,104,12019,4,1967,-3%
 260,Rækkehus,Kattegat Strandhave 35,3390, Hundested,2250000 ,30-05-2012,Alm. Salg,105,21429,4,2003,-10%
-260,Ejerlejlighed,"Nørregade 39B, st",3390, Hundested,3530000 ,30-05-2012,Alm. Salg,131,26947,3,1915,
 260,Rækkehus,Nyhusgade 15,3300, Frederiksværk,1195000 ,29-05-2012,Alm. Salg,63,18968,2,1987,-8%
 260,Villa,Nørremosevej 4,3300, Frederiksværk,895000 ,29-05-2012,Alm. Salg,91,9835,4,1962,
 260,Villa,Odinsvej 1A,3300, Frederiksværk,1045000 ,29-05-2012,Alm. Salg,72,14514,3,1955,-5%
-260,Ejerlejlighed,"Nørregade 39B, st",3390, Hundested,3530000 ,28-05-2012,Alm. Salg,131,26947,3,1915,
 260,Villa,Gjeresvej 9,3300, Frederiksværk,1650000 ,28-05-2012,Alm. Salg,116,14224,5,1952,-8%
 260,Villa,Hyldevænget 10A,3390, Hundested,2330000 ,28-05-2012,Alm. Salg,140,16643,5,2007,8%
 260,Villa,Overdrevsvej 18,3390, Hundested,1625000 ,27-05-2012,Alm. Salg,179,9078,5,1954,-7%
@@ -4885,8 +4865,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 260,Villa,Radmersvej 10,3390, Hundested,2600000 ,29-02-2012,Alm. Salg,144,18056,3,1935,-7%
 260,Villa,Gyden 1,3300, Frederiksværk,695000 ,29-02-2012,Alm. Salg,102,6814,3,1916,
 260,Ejerlejlighed,Tscherningsgade 4N,3300, Frederiksværk,1495000 ,28-02-2012,Alm. Salg,65,23000,3,2012,
-260,Rækkehus,Kattegat Strandhave 19,3390, Hundested,1800000 ,27-02-2012,Alm. Salg,105,17143,4,2003,
-260,Villa,Havlitvej 23,3390, Hundested,1800000 ,27-02-2012,Alm. Salg,205,8780,5,1967,
 260,Villa,L O Rasmussensvej 2,3390, Hundested,697500 ,27-02-2012,Fam. Salg,152,4589,8,1900,
 260,Ejerlejlighed,"Bjørnebakkevej 7, 1",3300, Frederiksværk,1200000 ,26-02-2012,Alm. Salg,85,14118,3,2006,-7%
 260,Villa,Grøndalsvej 1,3300, Frederiksværk,900000 ,25-02-2012,Alm. Salg,90,10000,4,1964,-5%
@@ -4923,7 +4901,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 260,Villa,Anker Heegaardsgade 6,3300, Frederiksværk,2550000 ,08-01-2012,Alm. Salg,365,6986,7,1897,-14%
 260,Villa,Mariagårdsvej 19,3300, Frederiksværk,1510000 ,07-01-2012,Alm. Salg,146,10342,4,1988,-8%
 260,Villa,Porthusvej 25,3390, Hundested,1450000 ,05-01-2012,Alm. Salg,206,7039,6,1974,-6%
-260,Villa,Nørregade 25F,3390, Hundested,1650000 ,02-01-2012,Auktion,86,19186,4,1935,
 260,Villa,Præsthøjvej 21,3300, Frederiksværk,1895000 ,28-12-2011,Alm. Salg,112,16920,5,1941,
 260,Ejerlejlighed,"Classensvej 16, st. mf",3360, Liseleje,450000 ,27-12-2011,Alm. Salg,47,9574,1,1964,
 260,Villa,Kornblomstvej 4,3310, Ølsted,1150000 ,20-12-2011,Alm. Salg,134,8582,5,1971,-11%
@@ -5127,8 +5104,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 260,Villa,Hillerødvej 134A,3300, Frederiksværk,800000 ,04-05-2011,Alm. Salg,106,7547,4,1975,-11%
 260,Villa,Torupvejen 132,3390, Hundested,1025000 ,03-05-2011,Alm. Salg,93,11022,4,1960,
 260,Rækkehus,Helsingevej 79B,3300, Frederiksværk,2600000 ,02-05-2011,Alm. Salg,128,20313,4,1910,
-260,Rækkehus,Hundestedgårdsvej 20,3390, Hundested,995000 ,02-05-2011,Alm. Salg,96,10365,3,1974,
-260,Villa,Toppen 18,3390, Hundested,995000 ,02-05-2011,Alm. Salg,100,9950,5,1968,
 260,Villa,Kildebovej 2,3310, Ølsted,1895000 ,02-05-2011,Alm. Salg,116,16336,4,1954,
 260,Villa,Lodsensvej 16,3390, Hundested,1000000 ,01-05-2011,Alm. Salg,113,8850,4,1961,-9%
 260,Villa,Vinkelvej 6,3300, Frederiksværk,768577 ,01-05-2011,Alm. Salg,112,6862,3,1948,-52%
@@ -6046,7 +6021,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 260,Villa,Baggersvej 80,3300, Frederiksværk,1975000 ,01-06-2008,Alm. Salg,158,12500,5,1968,-9%
 260,Villa,Forsythiavej 3,3390, Hundested,1445000 ,01-06-2008,Alm. Salg,75,19267,3,1980,
 260,Villa,Fyrrehegnet 6,3390, Hundested,3000000 ,31-05-2008,Fam. Salg,145,20690,5,1934,
-260,Ejerlejlighed,"Torvegade 20, 2. mf",3300, Frederiksværk,1550000 ,26-05-2008,Alm. Salg,58,26724,2,2006,-3%
 260,Villa,Rosenvænget 2A,3300, Frederiksværk,1950000 ,26-05-2008,Alm. Salg,86,22674,4,1951,-7%
 260,Villa,Bystævnet 7,3300, Frederiksværk,2215000 ,25-05-2008,Alm. Salg,164,13506,4,1972,-2%
 260,Villa,Møllevangsvej 37A,3300, Frederiksværk,1835000 ,24-05-2008,Alm. Salg,99,18535,3,1960,
@@ -6113,7 +6087,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 260,Villa,Kastaniealle 3,3300, Frederiksværk,2710000 ,26-03-2008,Alm. Salg,204,13284,9,1949,
 260,Villa,K.A. Larssensgade 12,3300, Frederiksværk,1950000 ,26-03-2008,Alm. Salg,160,12188,5,1900,
 260,Villa,Snerosevej 7,3310, Ølsted,2000000 ,25-03-2008,Alm. Salg,147,13605,5,1974,-9%
-260,Rækkehus,Kattegat Strandhave 19,3390, Hundested,2800000 ,24-03-2008,Alm. Salg,105,26667,4,2003,-7%
 260,Ejerlejlighed,"Frederikssundsvej 6B, 1. th",3300, Frederiksværk,1825000 ,24-03-2008,Alm. Salg,93,19624,3,1860,-9%
 260,Rækkehus,Havesangervej 4,3390, Hundested,1840000 ,23-03-2008,Alm. Salg,96,19167,3,1969,-8%
 260,Villa,Møllevangsvej 83,3300, Frederiksværk,1325000 ,23-03-2008,Fam. Salg,149,8893,4,1927,
@@ -6177,12 +6150,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 260,Villa,Møllebakken 7A,3370, Melby,1750000 ,29-01-2008,Alm. Salg,142,12324,5,1957,-5%
 260,Villa,Åsebro 23,3300, Frederiksværk,2250000 ,28-01-2008,Alm. Salg,181,12431,7,1907,-10%
 260,Villa,Spodsbjergvej 19,3390, Hundested,1600000 ,28-01-2008,Fam. Salg,124,12903,5,1976,
-260,Ejerlejlighed,"Vinderød Skov 43, 1",3300, Frederiksværk,1600000 ,27-01-2008,Alm. Salg,60,26667,2,1937,
 260,Villa,Perikumvej 14,3310, Ølsted,2800000 ,26-01-2008,Alm. Salg,202,13861,6,1974,
 260,Villa,Kristtornvej 33,3300, Frederiksværk,2295000 ,26-01-2008,Alm. Salg,134,17127,4,1984,
 260,Villa,Hyldevej 3,3300, Frederiksværk,1400000 ,24-01-2008,Alm. Salg,105,13333,4,1966,
 260,Villa,Lars Madsensvej 9,3300, Frederiksværk,3050000 ,24-01-2008,Alm. Salg,155,19677,6,2007,-5%
-260,Rækkehus,Kattegat Strandhave 15,3390, Hundested,2810000 ,22-01-2008,Alm. Salg,105,26762,4,2003,-2%
 260,Villa,Irisvænget 3,3390, Hundested,2300000 ,22-01-2008,Alm. Salg,108,21296,4,1999,-7%
 260,Rækkehus,Sverigesvej 5A,3390, Hundested,2018000 ,21-01-2008,Alm. Salg,96,21021,3,1987,
 260,Rækkehus,Bavnager 234,3310, Ølsted,2330000 ,21-01-2008,Alm. Salg,111,20991,4,2008,
@@ -6193,7 +6164,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 260,Rækkehus,Bavnager 214,3310, Ølsted,2395000 ,14-01-2008,Alm. Salg,111,21577,4,2008,
 260,Villa,Jasminvej 11,3390, Hundested,2000000 ,14-01-2008,Alm. Salg,108,18519,5,1989,-7%
 260,Villa,Grønagervej 1A,3300, Frederiksværk,1400000 ,14-01-2008,Alm. Salg,78,17949,4,1954,-9%
-260,Villa,Nørregade 81A,3390, Hundested,1450000 ,13-01-2008,Alm. Salg,128,11328,4,1924,
 260,Villa,Levkøjvej 6,3390, Hundested,1250000 ,12-01-2008,Andet,171,7310,5,1978,
 260,Villa,Høgevej 7,3390, Hundested,2750000 ,12-01-2008,Alm. Salg,170,16176,6,1972,
 260,Rækkehus,Hovedgaden 53D,3310, Ølsted,2095000 ,09-01-2008,Alm. Salg,93,22527,4,2007,
@@ -6385,7 +6355,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 260,Villa,Amtsvejen 33,3390, Hundested,1995000 ,12-08-2007,Alm. Salg,90,22167,6,1937,
 260,Villa,L Frederiksensvej 11,3390, Hundested,1200000 ,11-08-2007,Fam. Salg,126,9524,3,1953,
 260,Villa,Brødemosevej 78,3300, Frederiksværk,1550000 ,11-08-2007,Alm. Salg,72,21528,4,1727,-3%
-260,Villa,St Karlsmindevej 18,3390, Hundested,2595000 ,09-08-2007,Alm. Salg,96,27031,3,1957,
 260,Villa,Arresøvænget 17,3300, Frederiksværk,3345000 ,09-08-2007,Alm. Salg,144,23229,6,2004,
 260,Villa,Kærmindestien 8A,3390, Hundested,1997500 ,09-08-2007,Alm. Salg,244,8186,7,1894,
 260,Rækkehus,Brederødvej 1A. 1,3300, Frederiksværk,2020000 ,04-08-2007,Alm. Salg,123,16423,3,1959,
@@ -6419,12 +6388,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 260,Villa,Søndergade 52,3390, Hundested,2350000 ,10-07-2007,Alm. Salg,143,16434,5,1933,-6%
 260,Rækkehus,Ørnevej 3A,3390, Hundested,1998000 ,09-07-2007,Alm. Salg,96,20813,4,1989,
 260,Villa,Stadionvej 17,3390, Hundested,1895000 ,08-07-2007,Alm. Salg,114,16623,5,1966,-5%
-260,Ejerlejlighed,"Tscherningsgade 2A, st",3300, Frederiksværk,1470000 ,07-07-2007,Alm. Salg,55,26727,2,1900,-2%
 260,Villa,Ølstedvej 18,3310, Ølsted,2305000 ,07-07-2007,Alm. Salg,145,15897,4,1935,5%
 260,Villa,Ubberupvej 18B,3310, Ølsted,5825000 ,04-07-2007,Alm. Salg,226,25774,6,1876,
 260,Villa,Knudsvej 6B,3300, Frederiksværk,2000000 ,03-07-2007,Alm. Salg,152,13158,8,1898,-9%
 260,Villa,Fjordvej 42,3390, Hundested,2352438 ,02-07-2007,Alm. Salg,91,25851,4,1960,
-260,Villa,Auderød Byvej 9,3300, Frederiksværk,4200000 ,01-07-2007,Alm. Salg,156,26923,4,1900,-6%
 260,Villa,Musettevej 6,3360, Liseleje,2000000 ,01-07-2007,Alm. Salg,126,15873,5,1955,-5%
 260,Villa,Bagerstræde 11,3390, Hundested,3800000 ,30-06-2007,Alm. Salg,163,23313,4,1917,-5%
 260,Villa,Granhøjvej 3B,3390, Hundested,1200000 ,30-06-2007,Alm. Salg,74,16216,3,1910,-28%
@@ -6504,7 +6471,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 260,Villa,Solsortvej 6,3390, Hundested,1750000 ,29-04-2007,Alm. Salg,104,16827,4,1968,
 260,Villa,Lodsensvej 6,3390, Hundested,3895000 ,29-04-2007,Alm. Salg,196,19872,5,1949,
 260,Villa,Smedegade 9,3390, Hundested,1300000 ,29-04-2007,Alm. Salg,112,11607,6,1933,-13%
-260,Villa,Oldtidsvej 6A,3300, Frederiksværk,3995000 ,29-04-2007,Alm. Salg,149,26812,4,1960,
 260,Rækkehus,Skovsneglevej 3B,3300, Frederiksværk,1895000 ,28-04-2007,Alm. Salg,79,23987,3,1991,
 260,Ejerlejlighed,"Krudttårnsbakken 1, 1. tv",3300, Frederiksværk,1595000 ,28-04-2007,Alm. Salg,73,21849,2,2003,
 260,Villa,Gyvelvej 10,3390, Hundested,2635000 ,28-04-2007,Alm. Salg,100,26350,4,1965,
@@ -6570,7 +6536,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 260,Ejerlejlighed,"Posthustorvet 9E, 1. th",3300, Frederiksværk,1650000 ,18-03-2007,Alm. Salg,89,18539,3,1877,
 260,Villa,Kildevej 16A,3300, Frederiksværk,2600000 ,17-03-2007,Alm. Salg,130,20000,4,1979,-4%
 260,Villa,Helsingevej 128,3300, Frederiksværk,775000 ,15-03-2007,Alm. Salg,110,7045,4,1958,
-260,Villa,Fyrrehegnet 4A,3390, Hundested,1650000 ,14-03-2007,Alm. Salg,61,27049,2,1963,
 260,Villa,Primulavænget 16,3390, Hundested,1895000 ,14-03-2007,Alm. Salg,186,10188,6,1974,
 260,Villa,Fjordvej 1B,3390, Hundested,1700000 ,12-03-2007,Andet,109,15596,4,2007,
 260,Villa,Liljevænget 1,3390, Hundested,2350000 ,11-03-2007,Alm. Salg,111,21171,4,2001,-2%
@@ -6727,7 +6692,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 260,Villa,Søbakken 3,3300, Frederiksværk,2670000 ,28-10-2006,Alm. Salg,115,23217,4,1964,
 260,Villa,Skovbakkevej 29,3300, Frederiksværk,692500 ,26-10-2006,Fam. Salg,179,3869,5,1972,
 260,Villa,Melby Enghavevej 29,3370, Melby,1745000 ,26-10-2006,Alm. Salg,104,16779,3,1962,
-260,Rækkehus,Valseværksgade 3B,3300, Frederiksværk,2700000 ,25-10-2006,Alm. Salg,100,27000,5,1777,
 260,Villa,Dalen 30,3390, Hundested,1450000 ,25-10-2006,Alm. Salg,68,21324,3,1965,
 260,Villa,Vibevej 7,3300, Frederiksværk,600000 ,25-10-2006,Fam. Salg,123,4878,5,1953,
 260,Villa,Bøgevej 13,3300, Frederiksværk,2265000 ,25-10-2006,Alm. Salg,125,18120,4,1960,
@@ -6828,7 +6792,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 260,Villa,Golfbakken 1,3300, Frederiksværk,895000 ,27-08-2006,Alm. Salg,110,8136,3,1945,
 260,Villa,Skovmarken 9,3390, Hundested,2695000 ,26-08-2006,Alm. Salg,120,22458,5,1972,
 260,Ejerlejlighed,Tscherningsgade 2B,3300, Frederiksværk,1995000 ,24-08-2006,Alm. Salg,84,23750,3,1900,
-260,Villa,Vinderød Skov 40A,3300, Frederiksværk,2950000 ,24-08-2006,Alm. Salg,111,26577,4,1938,
 260,Villa,Åkandevej 4A,3390, Hundested,500000 ,24-08-2006,Alm. Salg,48,10417,3,1968,
 260,Villa,Ubberupvej 18B,3310, Ølsted,1400000 ,24-08-2006,Andet,226,6195,6,1876,
 260,Villa,Granhøjvej 3A,3390, Hundested,2150000 ,24-08-2006,Alm. Salg,142,15141,5,2009,
@@ -6874,7 +6837,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 260,Villa,Bjørnebakkevej 20,3300, Frederiksværk,3650000 ,25-07-2006,Alm. Salg,158,23101,4,2006,
 260,Villa,Orkidevænget 7,3390, Hundested,1975000 ,23-07-2006,Alm. Salg,100,19750,4,1981,
 260,Villa,Kongelysvej 26,3300, Frederiksværk,2695000 ,22-07-2006,Alm. Salg,119,22647,2,1999,
-260,Villa,Fyrrebakken 9,3300, Frederiksværk,2795000 ,19-07-2006,Alm. Salg,104,26875,3,1972,
 260,Villa,Lyngstien 5,3390, Hundested,1400000 ,19-07-2006,Alm. Salg,60,23333,3,1947,
 260,Villa,Kongelysvej 20,3300, Frederiksværk,2975000 ,19-07-2006,Alm. Salg,154,19318,5,1999,
 260,Villa,Auderødvej 50,3300, Frederiksværk,3700000 ,19-07-2006,Alm. Salg,250,14800,9,1956,
@@ -6908,14 +6870,12 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 260,Villa,Tinsoldaten 19,3300, Frederiksværk,2695000 ,29-06-2006,Alm. Salg,113,23850,4,2006,
 260,Villa,Askevej 4,3300, Frederiksværk,1750000 ,28-06-2006,Alm. Salg,106,16509,4,1965,
 260,Villa,Solvangsvej 20,3300, Frederiksværk,2550000 ,27-06-2006,Alm. Salg,153,16667,5,1973,
-260,Villa,Hans P. Andersensvej 5,3300, Frederiksværk,1720000 ,27-06-2006,Alm. Salg,64,26875,3,1957,
 260,Villa,Solvangsvej 16,3300, Frederiksværk,2080000 ,26-06-2006,Alm. Salg,135,15407,4,1974,
 260,Villa,Strandvejen 176,3300, Frederiksværk,2095000 ,26-06-2006,Alm. Salg,126,16627,4,1953,
 260,Ejerlejlighed,"Jernbanegade 11, 1. 1",3300, Frederiksværk,2295000 ,25-06-2006,Alm. Salg,115,19957,4,1900,
 260,Villa,Tømrergade 7,3390, Hundested,1640000 ,25-06-2006,Alm. Salg,90,18222,3,1957,
 260,Villa,Søndergade 27,3390, Hundested,1685000 ,25-06-2006,Alm. Salg,118,14280,5,1930,
 260,Villa,Gl. Mariagårdsvej 10,3300, Frederiksværk,1995000 ,25-06-2006,Alm. Salg,96,20781,4,1984,
-260,Villa,N.R. Olsensvej 4A,3360, Liseleje,1595000 ,25-06-2006,Alm. Salg,59,27034,2,1929,
 260,Villa,Bjørnebakkevej 16,3300, Frederiksværk,2695000 ,25-06-2006,Alm. Salg,121,22273,3,2006,
 260,Villa,Liselejevej 54,3360, Liseleje,3400000 ,24-06-2006,Alm. Salg,163,16832,7,1770,
 260,Villa,Industriskellet 4,3300, Frederiksværk,2495000 ,24-06-2006,Alm. Salg,157,15892,5,1974,
@@ -6929,8 +6889,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 260,Villa,Frederiksværkvej 86,3390, Hundested,3295000 ,19-06-2006,Alm. Salg,261,12625,8,1987,
 260,Villa,Amtsvejen 42,3390, Hundested,1860000 ,19-06-2006,Alm. Salg,102,18235,4,1932,
 260,Villa,Hulgårdsvej 9,3300, Frederiksværk,3195000 ,19-06-2006,Alm. Salg,205,15585,5,1972,
-260,Rækkehus,Gl. Evetoftevej 42,3300, Frederiksværk,1775000 ,18-06-2006,Alm. Salg,106,16745,4,2006,
-260,Ejerlejlighed,"Simonsensvej 2, st",3300, Frederiksværk,1775000 ,18-06-2006,Alm. Salg,104,17067,4,2006,
 260,Villa,Carlsvej 2,3300, Frederiksværk,2100000 ,18-06-2006,Alm. Salg,179,11732,4,1897,
 260,Villa,Elverhøj 30,3300, Frederiksværk,2701750 ,18-06-2006,Alm. Salg,140,19298,5,2006,
 260,Villa,Elmevej 5E,3300, Frederiksværk,750000 ,18-06-2006,Alm. Salg,186,4032,6,2007,
@@ -6980,7 +6938,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 260,Villa,Ahornvej 8,3300, Frederiksværk,1795000 ,22-05-2006,Alm. Salg,74,24257,3,1951,
 260,Ejerlejlighed,"Krudttårnsbakken 7, 1. mf",3300, Frederiksværk,2445000 ,21-05-2006,Alm. Salg,136,17978,4,2007,
 260,Ejerlejlighed,"Krudttårnsbakken 11, 1. mf",3300, Frederiksværk,2745000 ,21-05-2006,Alm. Salg,136,20184,4,2007,
-260,Villa,Nyhusgade 8B,3300, Frederiksværk,1598000 ,21-05-2006,Alm. Salg,60,26633,2,2001,
 260,Villa,Gl Kikhavnvej 1,3390, Hundested,1795000 ,20-05-2006,Alm. Salg,123,14593,5,1943,
 260,Villa,Diskovej 1,3390, Hundested,3400000 ,18-05-2006,Alm. Salg,165,20606,4,2000,
 260,Villa,Vinderød Skov 121A,3300, Frederiksværk,2000000 ,18-05-2006,Alm. Salg,218,9174,6,2008,
@@ -7201,7 +7158,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 260,Villa,Torupvejen 21,3390, Hundested,1900000 ,05-02-2006,Alm. Salg,206,9223,9,2010,
 260,Villa,Primulavænget 9,3390, Hundested,1428246 ,05-02-2006,Auktion,189,7557,5,1972,
 260,Villa,Agertoften 8,3390, Hundested,1550000 ,05-02-2006,Alm. Salg,129,12016,4,1975,
-260,Ejerlejlighed,"Vandværksvej 3, st. th",3390, Hundested,2209000 ,04-02-2006,Alm. Salg,82,26939,2,1922,
 260,Villa,Rylevej 14,3390, Hundested,1450000 ,04-02-2006,Alm. Salg,113,12832,3,1932,
 260,Villa,Gormsvej 1,3300, Frederiksværk,1975000 ,04-02-2006,Alm. Salg,113,17478,4,1970,
 260,Rækkehus,Bjørnebakkevej 50,3300, Frederiksværk,2915000 ,02-02-2006,Alm. Salg,148,19696,4,2006,
@@ -7406,11 +7362,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 260,Villa,Strandvejen 29A,3300, Frederiksværk,1300154 ,06-10-2005,Andet,144,9029,6,1951,
 260,Villa,Norgesvej 4,3390, Hundested,1975808 ,06-10-2005,Alm. Salg,77,25660,2,1954,
 260,Rækkehus,Skovsvinget 3C,3390, Hundested,1800000 ,05-10-2005,Alm. Salg,169,10651,5,1923,
-260,Ejerlejlighed,"Havnevej 1, 1. tv",3300, Frederiksværk,2400000 ,05-10-2005,Alm. Salg,90,26667,3,2012,
-260,Ejerlejlighed,"Hermannsgade 2, 1. tv",3300, Frederiksværk,2400000 ,05-10-2005,Alm. Salg,89,26966,3,2014,
-260,Ejerlejlighed,"Havnevej 1, st. tv",3300, Frederiksværk,2400000 ,05-10-2005,Alm. Salg,89,26966,3,2012,
-260,Ejerlejlighed,"Havnevej 1, st. th",3300, Frederiksværk,2400000 ,05-10-2005,Alm. Salg,90,26667,4,2012,
-260,Ejerlejlighed,"Havnevej 1, 1. th",3300, Frederiksværk,2400000 ,05-10-2005,Alm. Salg,89,26966,2,2012,
 260,Villa,Lille Havelsevej 50,3310, Ølsted,1550000 ,05-10-2005,Fam. Salg,186,8333,5,2020,
 260,Villa,Gl Kikhavnvej 2,3390, Hundested,1875000 ,05-10-2005,Alm. Salg,111,16892,4,1953,
 260,Villa,Smedesvinget 5,3390, Hundested,1695000 ,05-10-2005,Alm. Salg,119,14244,4,1979,
@@ -7683,14 +7634,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 260,Villa,Sandskåret 3A,3360, Liseleje,2095000 ,19-05-2005,Alm. Salg,154,13604,5,1980,
 260,Villa,Peder Madsensvej 1,3390, Hundested,1033390 ,19-05-2005,Alm. Salg,110,9394,4,2018,
 260,Villa,Tollerupvej 122,3370, Melby,1295000 ,18-05-2005,Alm. Salg,92,14076,3,1925,
-260,Ejerlejlighed,"Hermannsgade 2, 1. th",3300, Frederiksværk,1800000 ,17-05-2005,Alm. Salg,86,20930,3,2014,
-260,Ejerlejlighed,"Havnevej 1, 1. tv",3300, Frederiksværk,1800000 ,17-05-2005,Alm. Salg,90,20000,3,2012,
-260,Ejerlejlighed,"Hermannsgade 2, st. tv",3300, Frederiksværk,1800000 ,17-05-2005,Alm. Salg,76,23684,3,2014,
-260,Ejerlejlighed,"Hermannsgade 2, 1. tv",3300, Frederiksværk,1800000 ,17-05-2005,Alm. Salg,89,20225,3,2014,
-260,Ejerlejlighed,"Hermannsgade 2, st. th",3300, Frederiksværk,1800000 ,17-05-2005,Alm. Salg,73,24658,3,2014,
-260,Ejerlejlighed,"Havnevej 1, st. tv",3300, Frederiksværk,1800000 ,17-05-2005,Alm. Salg,89,20225,3,2012,
-260,Ejerlejlighed,"Havnevej 1, st. th",3300, Frederiksværk,1800000 ,17-05-2005,Alm. Salg,90,20000,4,2012,
-260,Ejerlejlighed,"Havnevej 1, 1. th",3300, Frederiksværk,1800000 ,17-05-2005,Alm. Salg,89,20225,2,2012,
 260,Villa,Nellikevej 35,3300, Frederiksværk,1650000 ,17-05-2005,Alm. Salg,114,14474,4,1979,
 260,Villa,Strandgade 21,3300, Frederiksværk,2000000 ,17-05-2005,Alm. Salg,170,11765,5,1922,
 260,Villa,Karlsgavevej 13,3300, Frederiksværk,1795000 ,17-05-2005,Alm. Salg,126,14246,5,1969,
@@ -7888,7 +7831,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 260,Villa,Bjørnedalsvej 18,3300, Frederiksværk,1800000 ,22-01-2005,Alm. Salg,80,22500,3,1954,
 260,Villa,Hanevej 2,3300, Frederiksværk,1455000 ,22-01-2005,Alm. Salg,96,15156,4,1983,
 260,Villa,Bellisbakken 4,3390, Hundested,1695000 ,22-01-2005,Alm. Salg,124,13669,3,1977,
-260,Ejerlejlighed,"Nørregade 39B, st",3390, Hundested,3450000 ,19-01-2005,Alm. Salg,131,26336,3,1915,
 260,Villa,Solvænget 6,3300, Frederiksværk,1675000 ,18-01-2005,Alm. Salg,133,12594,5,1936,
 260,Villa,Strandvejen 103,3300, Frederiksværk,1425000 ,18-01-2005,Alm. Salg,115,12391,5,1936,
 260,Rækkehus,"Vinderød Enghavevej 3, 1",3300, Frederiksværk,1275000 ,17-01-2005,Alm. Salg,137,9307,4,1900,
@@ -7971,7 +7913,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 260,Villa,Nørregade 60,3390, Hundested,1925000 ,23-11-2004,Alm. Salg,173,11127,7,1920,
 260,Villa,Brødemosevej 37,3300, Frederiksværk,1038500 ,23-11-2004,Andet,114,9110,5,1727,
 260,Villa,Kærmindestien 8A,3390, Hundested,253196 ,22-11-2004,Alm. Salg,244,1038,7,1894,
-260,Ejerlejlighed,Godthåbsvej 5,3390, Hundested,2460000 ,21-11-2004,Alm. Salg,140,17571,6,1963,
 260,Villa,Sukkertoppen 5,3390, Hundested,700000 ,21-11-2004,Fam. Salg,145,4828,3,1985,
 260,Villa,Lynæsborgvej 4,3390, Hundested,1885000 ,21-11-2004,Alm. Salg,186,10134,8,1978,
 260,Villa,Birkebakkerne 26,3310, Ølsted,780000 ,21-11-2004,Alm. Salg,149,5235,7,1959,
@@ -8098,9 +8039,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 260,Villa,Bakkegade 9,3300, Frederiksværk,2670000 ,24-08-2004,Alm. Salg,145,18414,6,1914,
 260,Villa,Urnevænget 8,3300, Frederiksværk,1575000 ,24-08-2004,Alm. Salg,150,10500,4,1968,
 260,Rækkehus,Åsebro 9H,3300, Frederiksværk,1000000 ,23-08-2004,Alm. Salg,82,12195,3,2006,
-260,Ejerlejlighed,Kattegat Strandhave 7,3390, Hundested,1250000 ,22-08-2004,Alm. Salg,86,14535,3,2003,
 260,Villa,Torupvejen 51,3390, Hundested,2566250 ,22-08-2004,Alm. Salg,211,12162,4,1930,
-260,Villa,Spodsbjergvej 7,3390, Hundested,1250000 ,22-08-2004,Alm. Salg,147,8503,4,1980,
 260,Villa,Lodsensvej 16,3390, Hundested,1350000 ,22-08-2004,Alm. Salg,113,11947,4,1961,
 260,Villa,Krokusvænget 10,3390, Hundested,1750000 ,22-08-2004,Alm. Salg,152,11513,4,1986,
 260,Villa,Ellevej 88,3300, Frederiksværk,1695000 ,22-08-2004,Alm. Salg,129,13140,4,1948,
@@ -8422,10 +8361,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 260,Villa,Smedesvinget 1,3390, Hundested,1500000 ,15-02-2004,Alm. Salg,180,8333,6,1977,
 260,Villa,Skovbjergvej 20,3300, Frederiksværk,1765000 ,15-02-2004,Alm. Salg,163,10828,5,1958,
 260,Villa,Narssakvej 8,3390, Hundested,1371719 ,14-02-2004,Alm. Salg,114,12033,4,1978,
-260,Rækkehus,Skippergade 1D,3390, Hundested,1675000 ,13-02-2004,Alm. Salg,75,22333,2,1900,
-260,Ejerlejlighed,"Skippergade 1C, 1",3390, Hundested,1675000 ,13-02-2004,Alm. Salg,67,25000,3,1900,
-260,Ejerlejlighed,"Søndergade 31C, 1",3390, Hundested,1675000 ,13-02-2004,Alm. Salg,101,16584,3,1937,
-260,Villa,Skippergade 1A,3390, Hundested,1675000 ,13-02-2004,Alm. Salg,74,22635,3,1900,
 260,Villa,Aavej 17,3300, Frederiksværk,1290000 ,12-02-2004,Alm. Salg,121,10661,5,1972,
 260,Villa,Sommervænget 14,3390, Hundested,1795000 ,11-02-2004,Alm. Salg,150,11967,4,1975,
 260,Villa,Nørregade 98,3390, Hundested,995000 ,11-02-2004,Alm. Salg,124,8024,3,1907,
@@ -9099,7 +9034,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 260,Villa,Orkidevænget 8,3390, Hundested,1025929 ,12-01-2003,Alm. Salg,100,10259,4,1981,
 260,Villa,Kornvænget 3,3390, Hundested,850000 ,12-01-2003,Alm. Salg,90,9444,3,1965,
 260,Villa,Glentevej 8,3390, Hundested,1150000 ,12-01-2003,Fam. Salg,121,9504,4,1978,
-260,Ejerlejlighed,"Hillerødvej 2A, st. th",3300, Frederiksværk,1012500 ,09-01-2003,Alm. Salg,38,26645,2,1900,
 260,Villa,Annexvej 1,3310, Ølsted,1475000 ,09-01-2003,Alm. Salg,131,11260,6,1972,
 260,Villa,Torupvejen 145,3390, Hundested,850000 ,09-01-2003,Alm. Salg,146,5822,5,1939,
 260,Villa,Karlsgavevej 56,3300, Frederiksværk,1195000 ,07-01-2003,Andet,96,12448,3,1953,
@@ -9372,7 +9306,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 260,Ejerlejlighed,"Bagerstræde 3C, st",3300, Frederiksværk,1060000 ,29-06-2002,Alm. Salg,78,13590,2,1999,
 260,Villa,Kattegatvejen 6,3390, Hundested,2650000 ,29-06-2002,Alm. Salg,242,10950,8,1728,
 260,Villa,Skåninggårdsvej 1,3300, Frederiksværk,1066776 ,28-06-2002,Alm. Salg,85,12550,3,1950,
-260,Ejerlejlighed,"Nørregade 39B, st",3390, Hundested,2950000 ,27-06-2002,Andet,131,22519,3,1915,
 260,Villa,Kildebakkevej 3,3300, Frederiksværk,1215000 ,27-06-2002,Alm. Salg,121,10041,3,1958,
 260,Villa,Liselejevej 58,3360, Liseleje,1450000 ,26-06-2002,Alm. Salg,196,7398,8,1751,
 260,Villa,Nørremosevej 1,3300, Frederiksværk,1988424 ,26-06-2002,Alm. Salg,200,9942,7,1961,
@@ -9919,7 +9852,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 260,Villa,Auderød Byvej 20,3300, Frederiksværk,475000 ,27-06-2001,Alm. Salg,142,3345,4,1827,
 260,Rækkehus,Vibehus Have 4,3390, Hundested,1135000 ,26-06-2001,Alm. Salg,87,13046,3,2002,
 260,Villa,Skovdalsvej 16,3300, Frederiksværk,884200 ,26-06-2001,Alm. Salg,121,7307,5,1950,
-260,Villa,"Liselejevej 52A, st. th",3360, Liseleje,1900000 ,25-06-2001,Alm. Salg,220,8636,8,1920,
 260,Villa,Tjørnevej 15,3390, Hundested,952221 ,25-06-2001,Alm. Salg,114,8353,4,1950,
 260,Villa,Rødtjørnevej 8,3300, Frederiksværk,1614214 ,25-06-2001,Alm. Salg,171,9440,7,1972,
 260,Rækkehus,Bjørnebakken 33,3390, Hundested,909000 ,24-06-2001,Alm. Salg,99,9182,3,1976,
@@ -10722,9 +10654,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 260,Villa,Karlshøjvej 30,3390, Hundested,1057343 ,18-01-2000,Alm. Salg,130,8133,5,1981,
 260,Villa,Kornblomstvej 7,3310, Ølsted,1610874 ,18-01-2000,Alm. Salg,124,12991,4,2000,
 260,Villa,Ubberupvej 21,3310, Ølsted,475000 ,18-01-2000,Alm. Salg,67,7090,4,1930,
-260,Ejerlejlighed,"Lillevej 1, 1. th",3390, Hundested,1419093 ,17-01-2000,Alm. Salg,82,17306,4,1960,
-260,Ejerlejlighed,"Nørregade 39B, st",3390, Hundested,1419093 ,17-01-2000,Alm. Salg,131,10833,3,1915,
-260,Ejerlejlighed,"Lillevej 1, 1. tv",3390, Hundested,1419093 ,17-01-2000,Alm. Salg,68,20869,3,1960,
 260,Villa,Violvej 2,3300, Frederiksværk,825000 ,17-01-2000,Alm. Salg,84,9821,4,1965,
 260,Villa,Stationsvej 6,3390, Hundested,1030000 ,17-01-2000,Alm. Salg,116,8879,3,1960,
 260,Villa,Lillebjergvej 9C,3390, Hundested,732700 ,16-01-2000,Alm. Salg,56,13084,3,1978,
@@ -12312,15 +12241,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 260,Villa,Bakkegade 9,3300, Frederiksværk,817702 ,07-03-1997,Alm. Salg,145,5639,6,1914,
 260,Villa,Antilopevej 3,3300, Frederiksværk,155000 ,06-03-1997,Alm. Salg,240,646,5,1998,
 260,Villa,Bronzevænget 15,3300, Frederiksværk,995000 ,06-03-1997,Alm. Salg,190,5237,6,1970,
-260,Rækkehus,Skippergade 1D,3390, Hundested,1100000 ,04-03-1997,Alm. Salg,75,14667,2,1900,
-260,Ejerlejlighed,"Skippergade 1C, 1",3390, Hundested,1100000 ,04-03-1997,Alm. Salg,67,16418,3,1900,
-260,Ejerlejlighed,"Skippergade 1B, st",3390, Hundested,1100000 ,04-03-1997,Alm. Salg,46,23913,3,1900,
-260,Ejerlejlighed,"Søndergade 31C, st",3390, Hundested,1100000 ,04-03-1997,Alm. Salg,51,21569,2,1937,
-260,Ejerlejlighed,"Søndergade 31C, 1",3390, Hundested,1100000 ,04-03-1997,Alm. Salg,101,10891,3,1937,
 260,Villa,Parkovsvej 20,3300, Frederiksværk,2062000 ,04-03-1997,Alm. Salg,257,8023,9,1800,
 260,Villa,Ahornvej 56,3300, Frederiksværk,704335 ,04-03-1997,Alm. Salg,179,3935,6,1957,
 260,Villa,Obovej 3,3360, Liseleje,484500 ,04-03-1997,Fam. Salg,103,4704,4,1974,
-260,Villa,Skippergade 1A,3390, Hundested,1100000 ,04-03-1997,Alm. Salg,74,14865,3,1900,
 260,Villa,Solvej 3B,3300, Frederiksværk,350000 ,03-03-1997,Alm. Salg,155,2258,3,1998,
 260,Villa,Kirkebakken 50,3390, Hundested,582300 ,03-03-1997,Alm. Salg,181,3217,7,1960,
 260,Villa,Rødtjørnevej 10,3300, Frederiksværk,901000 ,02-03-1997,Alm. Salg,134,6724,5,1973,
@@ -12370,7 +12293,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 260,Villa,Agnetevej 6,3300, Frederiksværk,1182000 ,07-01-1997,Alm. Salg,190,6221,7,1976,
 260,Villa,Enghjørnet 14,3300, Frederiksværk,660000 ,06-01-1997,Alm. Salg,108,6111,4,1969,
 260,Villa,Vinderød Enghavevej 6,3300, Frederiksværk,440000 ,06-01-1997,Fam. Salg,76,5789,3,1947,
-260,Ejerlejlighed,Liselejevej 64C,3360, Liseleje,2100000 ,05-01-1997,Alm. Salg,165,12727,5,1957,
 260,Ejerlejlighed,"Classensvej 8, 1. tv",3360, Liseleje,860000 ,05-01-1997,Alm. Salg,144,5972,2,1964,
 260,Villa,Parallelvej 19,3300, Frederiksværk,952000 ,05-01-1997,Alm. Salg,143,6657,5,1980,
 260,Villa,Ærtestien 3,3390, Hundested,771266 ,05-01-1997,Alm. Salg,160,4820,5,1971,
@@ -12566,14 +12488,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 260,Villa,Gjeresvej 12,3300, Frederiksværk,461000 ,25-08-1996,Alm. Salg,131,3519,8,1955,
 260,Villa,Overdrevsvej 41,3390, Hundested,496000 ,24-08-1996,Alm. Salg,102,4863,2,1902,
 260,Villa,Engdraget 2,3390, Hundested,280000 ,22-08-1996,Alm. Salg,116,2414,5,1963,
-260,Ejerlejlighed,"Hermannsgade 2, 1. th",3300, Frederiksværk,900000 ,20-08-1996,Alm. Salg,86,10465,3,2014,
-260,Ejerlejlighed,"Havnevej 1, 1. tv",3300, Frederiksværk,900000 ,20-08-1996,Alm. Salg,90,10000,3,2012,
-260,Ejerlejlighed,"Hermannsgade 2, st. tv",3300, Frederiksværk,900000 ,20-08-1996,Alm. Salg,76,11842,3,2014,
-260,Ejerlejlighed,"Hermannsgade 2, 1. tv",3300, Frederiksværk,900000 ,20-08-1996,Alm. Salg,89,10112,3,2014,
-260,Ejerlejlighed,"Hermannsgade 2, st. th",3300, Frederiksværk,900000 ,20-08-1996,Alm. Salg,73,12329,3,2014,
-260,Ejerlejlighed,"Havnevej 1, st. tv",3300, Frederiksværk,900000 ,20-08-1996,Alm. Salg,89,10112,3,2012,
-260,Ejerlejlighed,"Havnevej 1, st. th",3300, Frederiksværk,900000 ,20-08-1996,Alm. Salg,90,10000,4,2012,
-260,Ejerlejlighed,"Havnevej 1, 1. th",3300, Frederiksværk,900000 ,20-08-1996,Alm. Salg,89,10112,2,2012,
 260,Villa,Åsebro 44,3300, Frederiksværk,449500 ,20-08-1996,Alm. Salg,140,3211,4,1944,
 260,Villa,Bakkegade 1A,3300, Frederiksværk,575000 ,20-08-1996,Alm. Salg,120,4792,5,1961,
 260,Villa,Knudsvej 6A,3300, Frederiksværk,265457 ,19-08-1996,Alm. Salg,158,1680,7,1940,
@@ -12629,7 +12543,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 260,Villa,Hjortemosevej 1,3300, Frederiksværk,675000 ,16-07-1996,Alm. Salg,157,4299,4,1930,
 260,Villa,H N Andersensvej 14,3390, Hundested,897000 ,16-07-1996,Alm. Salg,194,4624,7,1961,
 260,Villa,Højdevej 17,3390, Hundested,550000 ,14-07-1996,Alm. Salg,108,5093,3,1974,
-260,Villa,Arresøparken 2,3300, Frederiksværk,1550000 ,14-07-1996,Alm. Salg,182,8516,5,1911,
 260,Villa,Liselejevej 56,3360, Liseleje,1100000 ,13-07-1996,Alm. Salg,245,4490,7,1784,
 260,Villa,Snerosevej 2,3310, Ølsted,825500 ,13-07-1996,Alm. Salg,133,6207,4,1974,
 260,Villa,Liselundskrogen 2,3360, Liseleje,212000 ,11-07-1996,Alm. Salg,167,1269,4,1997,
@@ -13276,14 +13189,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 260,Villa,Melbyvej 106B,3370, Melby,1500000 ,18-04-1995,Alm. Salg,253,5929,5,1877,
 260,Villa,Astersvej 6,3310, Ølsted,608000 ,17-04-1995,Alm. Salg,114,5333,4,1974,
 260,Villa,Møllevej 22,3370, Melby,125000 ,17-04-1995,Alm. Salg,130,962,4,1995,
-260,Rækkehus,Skippergade 1D,3390, Hundested,950000 ,16-04-1995,Alm. Salg,75,12667,2,1900,
-260,Ejerlejlighed,"Skippergade 1C, 1",3390, Hundested,950000 ,16-04-1995,Alm. Salg,67,14179,3,1900,
-260,Ejerlejlighed,"Skippergade 1B, st",3390, Hundested,950000 ,16-04-1995,Alm. Salg,46,20652,3,1900,
-260,Ejerlejlighed,"Søndergade 31C, st",3390, Hundested,950000 ,16-04-1995,Alm. Salg,51,18627,2,1937,
-260,Ejerlejlighed,"Søndergade 31C, 1",3390, Hundested,950000 ,16-04-1995,Alm. Salg,101,9406,3,1937,
 260,Villa,Snerosevej 5,3310, Ølsted,750000 ,16-04-1995,Alm. Salg,133,5639,5,1974,
 260,Villa,Riddersporevej 8,3390, Hundested,325000 ,16-04-1995,Alm. Salg,35,9286,2,1967,
-260,Villa,Skippergade 1A,3390, Hundested,950000 ,16-04-1995,Alm. Salg,74,12838,3,1900,
 260,Villa,Møllekrogen 1,3370, Melby,315000 ,15-04-1995,Alm. Salg,97,3247,4,1965,
 260,Villa,Frederikssundsvej 17,3300, Frederiksværk,450000 ,13-04-1995,Alm. Salg,136,3309,4,1886,
 260,Villa,Brødemosevej 76,3300, Frederiksværk,379000 ,11-04-1995,Alm. Salg,98,3867,3,1877,
@@ -13759,7 +13666,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 260,Villa,Steffensvej 4,3390, Hundested,355371 ,10-04-1994,Alm. Salg,108,3290,3,1943,
 260,Villa,Ankerstien 10B,3390, Hundested,942000 ,10-04-1994,Alm. Salg,126,7476,4,1994,
 260,Villa,Thorsvej 6,3300, Frederiksværk,222180 ,10-04-1994,Alm. Salg,245,907,7,1956,
-260,Villa,Godthåbsvej 12D,3300, Frederiksværk,817000 ,10-04-1994,Auktion,71,11507,2,1910,
 260,Villa,Nellikevej 35,3300, Frederiksværk,650000 ,09-04-1994,Alm. Salg,114,5702,4,1979,
 260,Villa,Havlitvej 11,3390, Hundested,570000 ,09-04-1994,Alm. Salg,90,6333,3,1962,
 260,Villa,Møllebakkevej 6,3300, Frederiksværk,630000 ,09-04-1994,Alm. Salg,141,4468,5,1962,
@@ -13989,7 +13895,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 260,Villa,Hermannsgade 10,3300, Frederiksværk,482820 ,09-10-1993,Alm. Salg,78,6190,3,1943,
 260,Villa,Æblevej 5,3370, Melby,570000 ,08-10-1993,Alm. Salg,190,3000,5,1966,
 260,Rækkehus,Havesangervej 6,3390, Hundested,550000 ,07-10-1993,Alm. Salg,94,5851,3,1969,
-260,Villa,Byvej 7E,3310, Ølsted,800000 ,07-10-1993,Alm. Salg,33,24242,2,1942,
 260,Villa,På Bakken 10,3310, Ølsted,425000 ,04-10-1993,Alm. Salg,143,2972,6,1956,
 260,Villa,Femkløvervej 1,3310, Ølsted,695000 ,04-10-1993,Alm. Salg,165,4212,5,1972,
 260,Villa,Lerbjergvej 23,3390, Hundested,279563 ,03-10-1993,Alm. Salg,153,1827,5,1971,
@@ -14121,10 +14026,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 260,Villa,Helsingevej 85,3300, Frederiksværk,505000 ,30-06-1993,Alm. Salg,106,4764,3,1937,
 260,Villa,Søndergade 92,3390, Hundested,317000 ,30-06-1993,Alm. Salg,80,3963,3,1948,
 260,Villa,Vandværksvej 22,3390, Hundested,442000 ,29-06-1993,Fam. Salg,166,2663,3,1976,
-260,Ejerlejlighed,Havnegade 2A,3390, Hundested,1900000 ,27-06-1993,Alm. Salg,167,11377,4,1916,
-260,Ejerlejlighed,Havnegade 2C,3390, Hundested,1900000 ,27-06-1993,Alm. Salg,145,13103,4,1877,
-260,Ejerlejlighed,"Nørregade 4A, 1",3390, Hundested,1900000 ,27-06-1993,Alm. Salg,179,10615,4,1916,
-260,Ejerlejlighed,Nørregade 4B,3390, Hundested,1900000 ,27-06-1993,Alm. Salg,74,25676,2,1916,
 260,Villa,Kongelysvej 32,3300, Frederiksværk,780000 ,27-06-1993,Alm. Salg,161,4845,5,1991,
 260,Villa,Jonnasvej 12,3360, Liseleje,630000 ,27-06-1993,Alm. Salg,118,5339,5,1971,
 260,Villa,Klostervangen 34,3360, Liseleje,375000 ,27-06-1993,Alm. Salg,65,5769,3,1935,
@@ -14234,7 +14135,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 260,Villa,Højbjergvej 60,3390, Hundested,360300 ,16-03-1993,Alm. Salg,85,4239,3,1963,
 260,Villa,Nellikevej 19,3300, Frederiksværk,535000 ,14-03-1993,Alm. Salg,128,4180,5,1980,
 260,Villa,Irisvej 3,3300, Frederiksværk,625000 ,14-03-1993,Alm. Salg,188,3324,7,1969,
-260,Villa,Nørregade 94D,3390, Hundested,1100000 ,14-03-1993,Alm. Salg,56,19643,3,1950,
 260,Villa,Vinderød Skov 85,3300, Frederiksværk,272699 ,14-03-1993,Alm. Salg,100,2727,4,1937,
 260,Villa,Sukkertoppen 8,3390, Hundested,695000 ,11-03-1993,Alm. Salg,164,4238,5,1991,
 260,Villa,Karlsgavevej 32,3300, Frederiksværk,463750 ,09-03-1993,Alm. Salg,105,4417,3,1893,
@@ -14290,15 +14190,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 260,Villa,Carlsvej 31,3300, Frederiksværk,724750 ,19-01-1993,Alm. Salg,191,3795,5,1827,
 260,Villa,Kongelysvej 18,3300, Frederiksværk,660000 ,19-01-1993,Alm. Salg,128,5156,5,1991,
 260,Villa,Kløvervej 6,3390, Hundested,450000 ,19-01-1993,Alm. Salg,165,2727,4,1980,
-260,Ejerlejlighed,Tscherningsgade 3,3300, Frederiksværk,482120 ,18-01-1993,Alm. Salg,68,7090,3,1930,
-260,Ejerlejlighed,"Fredens Alle 6B, st",3300, Frederiksværk,482120 ,18-01-1993,Alm. Salg,47,10258,2,1930,
-260,Ejerlejlighed,"Fredens Alle 6C, 1. 2",3300, Frederiksværk,482120 ,18-01-1993,Alm. Salg,44,10957,2,1930,
-260,Ejerlejlighed,"Fredens Alle 6C, 1. 1",3300, Frederiksværk,482120 ,18-01-1993,Alm. Salg,42,11479,2,1930,
-260,Ejerlejlighed,"Fredens Alle 6C, 1. 3",3300, Frederiksværk,482120 ,18-01-1993,Alm. Salg,20,24106,1,1930,
-260,Ejerlejlighed,"Fredens Alle 6C, 1. 4",3300, Frederiksværk,482120 ,18-01-1993,Alm. Salg,57,8458,2,1930,
-260,Ejerlejlighed,"Fredens Alle 6D, st",3300, Frederiksværk,482120 ,18-01-1993,Alm. Salg,54,8928,2,1930,
-260,Ejerlejlighed,"Fredens Alle 6C, 1. 5",3300, Frederiksværk,482120 ,18-01-1993,Alm. Salg,55,8766,3,1930,
-260,Ejerlejlighed,"Fredens Alle 6E, st",3300, Frederiksværk,482120 ,18-01-1993,Alm. Salg,49,9839,1,1930,
 260,Villa,Natviolvej 13,3310, Ølsted,650000 ,18-01-1993,Alm. Salg,133,4887,4,1974,
 260,Villa,Nørregade 18,3390, Hundested,260000 ,17-01-1993,Fam. Salg,70,3714,3,1835,
 260,Villa,Skovmarken 3,3390, Hundested,665000 ,14-01-1993,Alm. Salg,117,5684,4,1971,
@@ -14335,21 +14226,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 260,Villa,Bellisbakken 6,3390, Hundested,1100000 ,06-12-1992,Alm. Salg,208,5288,5,1986,
 260,Villa,Store Havelsevej 6,3310, Ølsted,597594 ,04-12-1992,Fam. Salg,145,4121,5,1917,
 260,Ejerlejlighed,"Liselejevej 2A, 1. th",3360, Liseleje,280000 ,03-12-1992,Alm. Salg,62,4516,2,1950,
-260,Ejerlejlighed,"Skansevej 6, st. 2",3390, Hundested,685000 ,01-12-1992,Alm. Salg,50,13700,1,1963,
-260,Ejerlejlighed,"Skansevej 6, st. 1",3390, Hundested,685000 ,01-12-1992,Alm. Salg,50,13700,1,1963,
-260,Ejerlejlighed,"Skansevej 6, st. 5",3390, Hundested,685000 ,01-12-1992,Alm. Salg,43,15930,1,1963,
-260,Ejerlejlighed,"Skansevej 6, st. 4",3390, Hundested,685000 ,01-12-1992,Alm. Salg,43,15930,1,1963,
-260,Ejerlejlighed,"Skansevej 6, st. 3",3390, Hundested,685000 ,01-12-1992,Alm. Salg,43,15930,1,1963,
-260,Ejerlejlighed,"Skansevej 6, 1. 5",3390, Hundested,685000 ,01-12-1992,Alm. Salg,39,17564,1,1963,
-260,Ejerlejlighed,"Skansevej 6, 1. 2",3390, Hundested,685000 ,01-12-1992,Alm. Salg,45,15222,1,1963,
-260,Ejerlejlighed,"Skansevej 6, 1. 1",3390, Hundested,685000 ,01-12-1992,Alm. Salg,45,15222,1,1963,
-260,Ejerlejlighed,"Skansevej 6, st. 6",3390, Hundested,685000 ,01-12-1992,Alm. Salg,43,15930,1,1963,
-260,Ejerlejlighed,"Skansevej 6, st. 8",3390, Hundested,685000 ,01-12-1992,Alm. Salg,63,10873,1,1963,
-260,Ejerlejlighed,"Skansevej 6, 1. 4",3390, Hundested,685000 ,01-12-1992,Alm. Salg,45,15222,1,1963,
-260,Ejerlejlighed,Godthåbsvej 5,3390, Hundested,685000 ,01-12-1992,Alm. Salg,140,4893,6,1963,
-260,Ejerlejlighed,"Skansevej 6, 1. 6",3390, Hundested,685000 ,01-12-1992,Alm. Salg,39,17564,1,1963,
-260,Ejerlejlighed,"Skansevej 6, st. 7",3390, Hundested,685000 ,01-12-1992,Alm. Salg,63,10873,1,1963,
-260,Ejerlejlighed,"Skansevej 6, 1. 3",3390, Hundested,685000 ,01-12-1992,Alm. Salg,45,15222,1,1963,
 260,Villa,Riddersporevej 6A,3390, Hundested,498000 ,01-12-1992,Alm. Salg,145,3434,4,1973,
 260,Villa,Smedesvinget 10,3390, Hundested,450000 ,30-11-1992,Alm. Salg,117,3846,4,1977,
 260,Rækkehus,Kærsangervej 12,3390, Hundested,534154 ,29-11-1992,Alm. Salg,98,5451,4,1968,
@@ -14367,7 +14243,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 260,Villa,Hillerødvej 116,3300, Frederiksværk,365000 ,19-11-1992,Alm. Salg,106,3443,4,1915,
 260,Villa,Store Havelsevej 126,3310, Ølsted,242500 ,19-11-1992,Alm. Salg,135,1796,5,1902,
 260,Villa,Kærmindebakken 2,3390, Hundested,715000 ,17-11-1992,Alm. Salg,137,5219,4,1797,
-260,Villa,Nørregade 70B,3300, Frederiksværk,480000 ,14-11-1992,Alm. Salg,60,8000,2,1900,
 260,Villa,Ærtestien 3,3390, Hundested,880000 ,14-11-1992,Alm. Salg,160,5500,5,1971,
 260,Villa,Umanakvej 6,3390, Hundested,490000 ,13-11-1992,Alm. Salg,136,3603,3,1979,
 260,Villa,Solvej 8,3300, Frederiksværk,317000 ,12-11-1992,Alm. Salg,117,2709,4,1939,
@@ -14519,9 +14394,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 260,Villa,Vinderød Enghavevej 11,3300, Frederiksværk,545000 ,25-06-1992,Alm. Salg,135,4037,4,1952,
 260,Villa,Kristtornvej 21,3300, Frederiksværk,1250000 ,25-06-1992,Alm. Salg,184,6793,4,1977,
 260,Villa,Overdrevsvej 9,3390, Hundested,480000 ,25-06-1992,Alm. Salg,118,4068,5,1936,
-260,Rækkehus,Skovsneglevej 3B,3300, Frederiksværk,635000 ,23-06-1992,Alm. Salg,79,8038,3,1991,
 260,Ejerlejlighed,"Anker Heegaardsgade 16, 1",3300, Frederiksværk,353317 ,23-06-1992,Alm. Salg,69,5121,3,1923,
-260,Villa,Skovsneglevej 1B,3300, Frederiksværk,635000 ,23-06-1992,Alm. Salg,134,4739,5,1998,
 260,Villa,Natviolvej 3,3310, Ølsted,570000 ,23-06-1992,Alm. Salg,133,4286,5,1973,
 260,Villa,Ternevej 9,3300, Frederiksværk,495000 ,21-06-1992,Alm. Salg,96,5156,4,1956,
 260,Rækkehus,Forsythiavej 37,3390, Hundested,387431 ,17-06-1992,Alm. Salg,98,3953,3,1979,

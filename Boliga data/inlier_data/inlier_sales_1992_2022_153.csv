@@ -126,7 +126,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 153,Villa,Flintelunden 4,2660, Brøndby Strand,3675000 ,27-03-2022,Alm. Salg,101,36386,3,2001,-3%
 153,Rækkehus,Åparken 49,2605, Brøndby,3302000 ,24-03-2022,Alm. Salg,96,34396,3,1959,3%
 153,Rækkehus,Holstedparken 65,2660, Brøndby Strand,3375000 ,23-03-2022,Alm. Salg,119,28361,4,1978,-3%
-153,Villa,Poppel Allé 3,2660, Brøndby Strand,7350000 ,23-03-2022,Alm. Salg,183,40164,5,1969,-8%
 153,Villa,Hederavej 5,2605, Brøndby,3800000 ,22-03-2022,Alm. Salg,115,33043,3,1961,-2%
 153,Villa,Vestager 19,2605, Brøndby,1500000 ,20-03-2022,Fam. Salg,223,6726,5,2008,
 153,Rækkehus,Holstedparken 33,2660, Brøndby Strand,3605000 ,17-03-2022,Alm. Salg,119,30294,4,1978,
@@ -562,7 +561,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 153,Villa,Knudslundvej 31,2605, Brøndby,1775000 ,01-09-2020,Alm. Salg,125,14200,4,1961,
 153,Villa,Seminarievej 5,2605, Brøndby,2915000 ,01-09-2020,Alm. Salg,102,28578,4,1720,-3%
 153,Rækkehus,Søholtparken 83,2660, Brøndby Strand,3080000 ,31-08-2020,Alm. Salg,102,30196,3,2000,-2%
-153,Villa,Brøndbyvester Strandvej 2,2660, Brøndby Strand,5200000 ,31-08-2020,Alm. Salg,129,40310,4,1969,0%
 153,Villa,Græstoftevej 15,2605, Brøndby,3405000 ,30-08-2020,Alm. Salg,127,26811,5,1956,-3%
 153,Villa,Hedegårds Allé 28,2605, Brøndby,3600000 ,29-08-2020,Alm. Salg,173,20809,7,1978,-3%
 153,Ejerlejlighed,"Brøndbyvestervej 68A, 1. 3",2605, Brøndby,1195000 ,26-08-2020,Alm. Salg,46,25978,1,1967,
@@ -1474,8 +1472,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 153,Villa,Agerlunden 22,2660, Brøndby Strand,200000 ,09-04-2017,Fam. Salg,113,1770,4,2003,
 153,Villa,Lærkehøj 40,2605, Brøndby,3150000 ,02-04-2017,Alm. Salg,110,28636,4,1963,-1%
 153,Rækkehus,Mosebakkevej 6,2605, Brøndby,2100000 ,30-03-2017,Alm. Salg,114,18421,4,1957,-2%
-153,Ejerlejlighed,"Brøndbyøstervej 84A, 1",2605, Brøndby,4300000 ,29-03-2017,Alm. Salg,167,25749,5,1956,
-153,Villa,Brøndbyøstervej 84B,2605, Brøndby,4300000 ,29-03-2017,Alm. Salg,95,24855,4,1856,
 153,Rækkehus,Ved Lindelund 135,2605, Brøndby,3295000 ,28-03-2017,Alm. Salg,130,25346,4,1978,
 153,Villa,Kløverhøj 17,2605, Brøndby,3550000 ,27-03-2017,Alm. Salg,141,25177,4,1984,-3%
 153,Villa,Egehøj 16,2605, Brøndby,2200000 ,26-03-2017,Alm. Salg,77,28571,3,1959,-2%
@@ -1799,8 +1795,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 153,Villa,Silervej 7,2660, Brøndby Strand,3425000 ,02-12-2015,Alm. Salg,130,26346,5,1957,-1%
 153,Villa,Knudslundvej 32,2605, Brøndby,1450000 ,02-12-2015,Alm. Salg,160,9063,5,2016,-6%
 153,Villa,Lundedammen 30,2605, Brøndby,3100000 ,01-12-2015,Alm. Salg,176,17614,8,1966,-3%
-153,Rækkehus,Horsedammen 6,2605, Brøndby,2525000 ,24-11-2015,Alm. Salg,100,25250,3,1980,-3%
-153,Villa,Åparken 10,2605, Brøndby,2525000 ,24-11-2015,Alm. Salg,125,20200,3,1958,-1%
 153,Villa,Mannavej 6,2605, Brøndby,3145000 ,23-11-2015,Alm. Salg,138,22790,5,1954,-2%
 153,Rækkehus,Skyttedammen 2,2605, Brøndby,2300000 ,22-11-2015,Alm. Salg,76,30263,3,1990,
 153,Villa,Bygaden 44,2605, Brøndby,1518900 ,22-11-2015,Auktion,90,16877,3,1937,
@@ -3066,10 +3060,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 153,Rækkehus,Åkrogen 13,2605, Brøndby,2220000 ,14-07-2009,Alm. Salg,156,14231,6,1971,-3%
 153,Rækkehus,Søholtparken 43,2660, Brøndby Strand,2200000 ,14-07-2009,Alm. Salg,111,19820,4,1998,-4%
 153,Villa,Hedegrænsen 47,2605, Brøndby,1800000 ,14-07-2009,Alm. Salg,146,12329,5,1961,-10%
-153,Rækkehus,Rytterdammen 17,2605, Brøndby,2000000 ,13-07-2009,Alm. Salg,90,22222,4,1988,
 153,Rækkehus,Bispelodden 7,2605, Brøndby,950000 ,13-07-2009,Andet,90,10556,4,1958,
 153,Ejerlejlighed,"Brøndbyvestervej 36, 1. th",2605, Brøndby,1090000 ,13-07-2009,Auktion,79,13797,3,1971,
-153,Villa,Hedegrænsen 79,2605, Brøndby,2000000 ,13-07-2009,Alm. Salg,169,11834,6,1960,-9%
 153,Villa,Lillevang 3,2605, Brøndby,1995000 ,08-07-2009,Alm. Salg,160,12469,4,1939,
 153,Villa,Hedegrænsen 5,2605, Brøndby,1250000 ,07-07-2009,Alm. Salg,170,7353,5,2015,
 153,Rækkehus,Dyringparken 254,2660, Brøndby Strand,1650000 ,06-07-2009,Alm. Salg,138,11957,4,1978,-11%
@@ -4943,8 +4935,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 153,Villa,Englunden 10,2660, Brøndby Strand,1696000 ,17-04-2002,Alm. Salg,113,15009,4,2002,
 153,Villa,Englunden 20,2660, Brøndby Strand,1670000 ,17-04-2002,Alm. Salg,150,11133,6,2002,
 153,Rækkehus,Ved Lindelund 263,2605, Brøndby,1658802 ,16-04-2002,Alm. Salg,130,12760,4,1980,
-153,Ejerlejlighed,"Brøndbyøstervej 84A, 1",2605, Brøndby,1800000 ,16-04-2002,Alm. Salg,167,10778,5,1956,
-153,Villa,Brøndbyøstervej 84B,2605, Brøndby,1800000 ,16-04-2002,Alm. Salg,95,10405,4,1856,
 153,Rækkehus,Holstedparken 3,2660, Brøndby Strand,1529000 ,15-04-2002,Alm. Salg,119,12849,4,1978,
 153,Rækkehus,Ved Lindelund 251,2605, Brøndby,1650000 ,15-04-2002,Alm. Salg,130,12692,4,1980,
 153,Villa,Bækkelunden 37,2660, Brøndby Strand,1876252 ,15-04-2002,Alm. Salg,130,14433,6,2002,
@@ -5338,9 +5328,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 153,Villa,Bådsmandsvej 32,2660, Brøndby Strand,1150000 ,16-01-2001,Alm. Salg,113,10177,3,1959,
 153,Villa,Østergårdsvænget 10,2605, Brøndby,1795300 ,16-01-2001,Alm. Salg,136,13201,4,1990,
 153,Rækkehus,Åparken 96,2605, Brøndby,1100000 ,15-01-2001,Fam. Salg,102,10784,4,1958,
-153,Ejerlejlighed,"Brøndbyøstervej 84A, 1",2605, Brøndby,840000 ,15-01-2001,Fam. Salg,167,5030,5,1956,
 153,Villa,Hvedemarksvej 30,2605, Brøndby,1340244 ,15-01-2001,Alm. Salg,132,10153,5,1970,
-153,Villa,Brøndbyøstervej 84B,2605, Brøndby,840000 ,15-01-2001,Fam. Salg,95,4855,4,1856,
 153,Villa,Rolandsvej 9,2605, Brøndby,896644 ,14-01-2001,Alm. Salg,101,8878,3,1948,
 153,Villa,Agerlunden 2,2660, Brøndby Strand,1878958 ,14-01-2001,Alm. Salg,181,10381,7,2001,
 153,Rækkehus,Bystedparken 12,2660, Brøndby Strand,1393797 ,12-01-2001,Alm. Salg,138,10100,4,1978,

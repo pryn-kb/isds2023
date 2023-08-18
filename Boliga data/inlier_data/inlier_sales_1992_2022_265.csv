@@ -17,7 +17,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Ejerlejlighed,"Neergårdsparken 15, 1. 4",4000, Roskilde,900000 ,20-12-2022,Alm. Salg,73,12329.0,3,1968,
 265,Villa,Tellusvej 12,4040, Jyllinge,2715000 ,20-12-2022,Alm. Salg,128,21211.0,5,1986,-9%
 265,Ejerlejlighed,"Helligkorsvej 15A, st. tv",4000, Roskilde,1700000 ,19-12-2022,Alm. Salg,62,27419.0,2,1937,-3%
-265,Villa,Klostervang 1,4000, Roskilde,6275000 ,19-12-2022,Alm. Salg,147,42687.0,6,1909,-3%
 265,Villa,Fiskergårdsvej 20,4000, Roskilde,2700000 ,19-12-2022,Alm. Salg,138,19565.0,5,1973,-10%
 265,Ejerlejlighed,"Gartnervang 30, 1. th",4000, Roskilde,1550000 ,18-12-2022,Alm. Salg,84,18452.0,3,1968,
 265,Villa,Peblingevej 3,4000, Roskilde,3000000 ,17-12-2022,Alm. Salg,109,27523.0,4,1962,-9%
@@ -109,7 +108,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Vernersvej 12,4040, Jyllinge,3750000 ,12-11-2022,Alm. Salg,155,24194.0,5,1999,-6%
 265,Ejerlejlighed,"Roskildevænget 59, 2. tv",4000, Roskilde,997500 ,10-11-2022,Andet,72,13854.0,3,1962,
 265,Villa,Vestavej 18A,4040, Jyllinge,5100000 ,10-11-2022,Alm. Salg,185,27568.0,5,2020,-5%
-265,Villa,Hagenæs 7,4040, Jyllinge,5200000 ,10-11-2022,Alm. Salg,123,42276.0,4,1997,4%
 265,Villa,Stiesager 4,4000, Roskilde,1300000 ,09-11-2022,Fam. Salg,156,8333.0,6,1984,
 265,Villa,Engholmparken 16,4000, Roskilde,3700000 ,09-11-2022,Alm. Salg,190,19474.0,7,0,-7%
 265,Ejerlejlighed,Møllehusene 1,4000, Roskilde,3250000 ,08-11-2022,Alm. Salg,98,33163.0,2,1906,
@@ -131,8 +129,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Rækkehus,Lauravej 8,4040, Jyllinge,3937500 ,30-10-2022,Alm. Salg,138,28533.0,4,0,-6%
 265,Rækkehus,Egen 21,4000, Roskilde,2600000 ,30-10-2022,Alm. Salg,110,23636.0,5,1968,-7%
 265,Rækkehus,Kristiansminde 28,4000, Roskilde,3295000 ,30-10-2022,Alm. Salg,98,33622.0,4,2007,
-265,Ejerlejlighed,"Poppellunden 4, 4. th",4000, Roskilde,3100000 ,30-10-2022,Alm. Salg,92,33696.0,3,2017,-3%
-265,Villa,Gundsølillevej 11,4000, Roskilde,3100000 ,30-10-2022,Alm. Salg,118,26271.0,4,1965,
 265,Villa,Frederiksborgvej 122A,4000, Roskilde,7500000 ,30-10-2022,Alm. Salg,210,33784.0,6,1976,
 265,Ejerlejlighed,"Dommervænget 8D, 2. th",4000, Roskilde,2100000 ,29-10-2022,Alm. Salg,89,23596.0,4,1968,-4%
 265,Villa,Stiesager 5,4000, Roskilde,3800000 ,29-10-2022,Alm. Salg,174,21839.0,4,1750,-5%
@@ -160,7 +156,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Glentevej 18,4040, Jyllinge,2700000 ,17-10-2022,Alm. Salg,115,23478.0,4,1992,
 265,Villa,Tønsbergvej 21,4000, Roskilde,2600000 ,17-10-2022,Fam. Salg,136,19118.0,5,2006,
 265,Rækkehus,Hedemølleparken 5,4000, Roskilde,765000 ,16-10-2022,Fam. Salg,105,7286.0,4,1981,
-265,Ejerlejlighed,"Sankt Peders Stræde 9, 2. th",4000, Roskilde,4225000 ,16-10-2022,Alm. Salg,100,42250.0,4,1931,-6%
 265,Villa,Svanevej 8,4000, Roskilde,4050000 ,16-10-2022,Alm. Salg,112,36161.0,5,1956,1%
 265,Villa,Bøgevej 28,4040, Jyllinge,1020000 ,16-10-2022,Fam. Salg,54,18889.0,3,1962,
 265,Villa,Stormandshøjen 16,4000, Roskilde,7795000 ,16-10-2022,Alm. Salg,204,38211.0,5,2013,
@@ -175,7 +170,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Ejerlejlighed,"Ahornlunden 13, 1. 1",4000, Roskilde,3870000 ,09-10-2022,Alm. Salg,103,37573.0,3,2014,-3%
 265,Villa,Ericavej 22,4040, Jyllinge,1600000 ,09-10-2022,Alm. Salg,103,15534.0,3,1980,
 265,Ejerlejlighed,"Møllehusvej 129, st. th",4000, Roskilde,1375000 ,07-10-2022,Alm. Salg,55,25000.0,2,1975,-7%
-265,Villa,Slæggerupvej 202B,4000, Roskilde,760000 ,06-10-2022,Alm. Salg,111,6847.0,4,1973,
 265,Villa,Snekkevej 47,4040, Jyllinge,3200000 ,06-10-2022,Alm. Salg,149,21477.0,5,1975,-11%
 265,Ejerlejlighed,"Bifaldet 7, 3. tv",4000, Roskilde,4559205 ,05-10-2022,Alm. Salg,127,35899.0,4,2023,
 265,Ejerlejlighed,"Bifaldet 9, st",4000, Roskilde,3004697 ,05-10-2022,Alm. Salg,99,30350.0,3,2023,
@@ -342,9 +336,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Ejerlejlighed,"Ahornlunden 15, 3. 2",4000, Roskilde,4400000 ,11-08-2022,Alm. Salg,116,37931.0,4,2013,-2%
 265,Villa,Emilsgave 55,4130, Viby Sjælland,3400000 ,11-08-2022,Alm. Salg,165,20606.0,6,1979,-5%
 265,Villa,Frederiksborgvej 112,4000, Roskilde,1500000 ,11-08-2022,Alm. Salg,129,11628.0,4,1913,
-265,Rækkehus,Jasminvænget 9,4000, Roskilde,2250000 ,10-08-2022,Alm. Salg,56,40179.0,2,1959,-4%
 265,Ejerlejlighed,"Neergårdsparken 29, st. 1",4000, Roskilde,1965000 ,10-08-2022,Alm. Salg,73,26918.0,3,1968,-2%
-265,Ejerlejlighed,Løvparken 2B,4000, Roskilde,2250000 ,10-08-2022,Alm. Salg,73,30822.0,2,1974,-4%
 265,Villa,Søster Svenstrup Byvej 13B,4130, Viby Sjælland,1750000 ,10-08-2022,Alm. Salg,123,14228.0,4,1850,-5%
 265,Villa,Fåborgvej 24,4000, Roskilde,5800000 ,10-08-2022,Alm. Salg,154,37662.0,5,1974,-3%
 265,Villa,Rytterkær 19,4000, Roskilde,4250000 ,09-08-2022,Alm. Salg,185,22973.0,6,1877,-9%
@@ -473,7 +465,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Lilletoften 3,4040, Jyllinge,4900000 ,13-06-2022,Alm. Salg,167,29341.0,6,2001,-2%
 265,Villa,Svalevænget 13,4130, Viby Sjælland,3395000 ,13-06-2022,Alm. Salg,132,25720.0,5,1973,
 265,Villa,Kirkegårdsvej 18,4000, Roskilde,2550000 ,13-06-2022,Alm. Salg,138,18478.0,5,1975,-2%
-265,Villa,Klintevej 10,4000, Roskilde,3925000 ,13-06-2022,Alm. Salg,92,42663.0,4,1961,
 265,Villa,Møllevej 5,4040, Jyllinge,2000000 ,13-06-2022,Alm. Salg,100,20000.0,4,1865,-13%
 265,Villa,Hejrevej 33,4000, Roskilde,3250000 ,13-06-2022,Alm. Salg,147,22109.0,5,1961,
 265,Villa,Holmehøjen 58,4000, Roskilde,4850000 ,13-06-2022,Alm. Salg,171,28363.0,5,2018,-3%
@@ -850,10 +841,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Juvelvej 5,4040, Jyllinge,1550000 ,10-02-2022,Fam. Salg,158,9810.0,4,1971,
 265,Villa,Østervang 13,4000, Roskilde,7695000 ,10-02-2022,Alm. Salg,184,41821.0,6,1942,
 265,Rækkehus,Birthevej 3A,4040, Jyllinge,3175000 ,09-02-2022,Alm. Salg,135,23519.0,4,2022,
-265,Ejerlejlighed,"Neergårdsparken 29, st. 3",4000, Roskilde,950000 ,09-02-2022,Alm. Salg,38,25000.0,1,1968,-17%
 265,Villa,Klosterengen 77,4000, Roskilde,4700000 ,09-02-2022,Alm. Salg,189,24868.0,4,1964,-6%
 265,Villa,I P Hansens Vej 21,4000, Roskilde,5995000 ,09-02-2022,Alm. Salg,168,35685.0,6,1953,
-265,Villa,Kirkevænget 4,4000, Roskilde,950000 ,09-02-2022,Alm. Salg,78,12179.0,3,1777,
 265,Villa,Bymarken 15,4130, Viby Sjælland,2900000 ,09-02-2022,Alm. Salg,165,17576.0,5,1978,-3%
 265,Villa,Østervej 12,4621, Gadstrup,2700000 ,09-02-2022,Alm. Salg,106,25472.0,4,1961,-3%
 265,Rækkehus,Indfaldet 59,4000, Roskilde,4607504 ,08-02-2022,Alm. Salg,125,36860.0,5,0,
@@ -1110,7 +1099,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Bredekæret 21,4000, Roskilde,1300000 ,28-11-2021,Alm. Salg,119,10924.0,4,1988,
 265,Villa,Langløbet 2,4040, Jyllinge,2600000 ,28-11-2021,Fam. Salg,146,17808.0,4,1960,
 265,Ejerlejlighed,"Ejboparken 29, st. mf",4000, Roskilde,650000 ,27-11-2021,Fam. Salg,43,15116.0,1,1968,
-265,Villa,Roskildevej 79,4030, Tune,3500000 ,27-11-2021,Alm. Salg,145,24138.0,4,1961,
 265,Villa,Ågeruphøj 39,4000, Roskilde,3495000 ,27-11-2021,Alm. Salg,123,28415.0,6,1997,
 265,Ejerlejlighed,"Knud Den Stores Vej 32B, 2. tv",4000, Roskilde,2600000 ,25-11-2021,Alm. Salg,80,32500.0,3,1966,-2%
 265,Villa,Anneksgårdsvej 8,4000, Roskilde,3000000 ,25-11-2021,Andet,143,20979.0,4,1973,
@@ -1173,7 +1161,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Ejerlejlighed,"Sankt Hans Gade 20, 1",4000, Roskilde,4250000 ,09-11-2021,Alm. Salg,114,37281.0,3,1905,
 265,Ejerlejlighed,"Ejboparken 49, 2. tv",4000, Roskilde,2050000 ,09-11-2021,Alm. Salg,78,26282.0,3,1967,-2%
 265,Ejerlejlighed,"Københavnsvej 7, 2. th",4000, Roskilde,1195000 ,09-11-2021,Alm. Salg,42,28452.0,2,1880,
-265,Villa,Odensevej 24,4000, Roskilde,4257000 ,09-11-2021,Alm. Salg,101,42149.0,3,1963,
 265,Villa,Egernvænget 11,4000, Roskilde,5350000 ,09-11-2021,Alm. Salg,155,34516.0,5,2001,
 265,Villa,Københavnsvej 95,4000, Roskilde,1200000 ,09-11-2021,Alm. Salg,116,10345.0,3,1926,-20%
 265,Rækkehus,Terrasserne 145,4000, Roskilde,3106000 ,08-11-2021,Alm. Salg,104,29865.0,4,1982,2%
@@ -1241,7 +1228,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Østervang 6,4000, Roskilde,926619 ,25-10-2021,Fam. Salg,120,7722.0,4,1934,
 265,Villa,Dalengen 6,4040, Jyllinge,2005000 ,25-10-2021,Alm. Salg,60,33417.0,4,1964,1%
 265,Ejerlejlighed,"Dommervænget 6B, 2. tv",4000, Roskilde,2375000 ,24-10-2021,Alm. Salg,88,26989.0,4,1968,
-265,Ejerlejlighed,"Vindingevej 6, 1. mf",4000, Roskilde,3525000 ,24-10-2021,Alm. Salg,83,42470.0,2,2018,-1%
 265,Ejerlejlighed,Jernbanegade 12E,4000, Roskilde,2750000 ,24-10-2021,Alm. Salg,152,18092.0,5,1896,
 265,Villa,Bakkesvinget 43,4000, Roskilde,4200000 ,24-10-2021,Alm. Salg,131,32061.0,5,1967,-2%
 265,Villa,Præstemarksvænge 28,4000, Roskilde,3750000 ,24-10-2021,Alm. Salg,127,29528.0,5,1931,-1%
@@ -1324,10 +1310,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Ejerlejlighed,"Køgevej 3, 1",4000, Roskilde,4800000 ,02-10-2021,Alm. Salg,228,21053.0,6,1929,-10%
 265,Villa,Søparken 62,4000, Roskilde,4900000 ,02-10-2021,Alm. Salg,162,30247.0,5,1976,
 265,Villa,Bødkers Vænge 24,4621, Gadstrup,3500000 ,02-10-2021,Alm. Salg,148,23649.0,6,1962,0%
-265,Rækkehus,Åvej 1C,4000, Roskilde,4000000 ,30-09-2021,Alm. Salg,96,41667.0,4,1983,
 265,Ejerlejlighed,"Roskildevænget 41, st. tv",4000, Roskilde,1898000 ,30-09-2021,Alm. Salg,72,26361.0,3,1962,
 265,Villa,Tjørnegårdsvej 31,4000, Roskilde,4200000 ,30-09-2021,Alm. Salg,268,15000.0,6,1959,-13%
-265,Villa,Svanevej 36,4000, Roskilde,4000000 ,30-09-2021,Alm. Salg,210,19048.0,5,0,-11%
 265,Ejerlejlighed,Løvparken 4B,4000, Roskilde,2375000 ,29-09-2021,Alm. Salg,73,32534.0,2,1974,
 265,Ejerlejlighed,"Neergårdsparken 27, st. th",4000, Roskilde,1960000 ,29-09-2021,Alm. Salg,74,26486.0,3,1968,
 265,Villa,Skelbækvej 2,4130, Viby Sjælland,2575000 ,29-09-2021,Alm. Salg,110,23409.0,5,1935,-4%
@@ -1645,7 +1629,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Rækkehus,Lauravej 20,4040, Jyllinge,3125000 ,04-07-2021,Alm. Salg,113,27655.0,3,2022,-5%
 265,Rækkehus,Hedemølleparken 6,4000, Roskilde,3145000 ,04-07-2021,Alm. Salg,105,29952.0,4,1980,
 265,Rækkehus,Ternevej 5D,4000, Roskilde,3295000 ,04-07-2021,Alm. Salg,88,37443.0,3,2002,
-265,Villa,Gammel Vindingevej 2,4000, Roskilde,3495000 ,04-07-2021,Alm. Salg,83,42108.0,3,1948,
 265,Villa,Guldstjernevej 2,4000, Roskilde,3700000 ,04-07-2021,Alm. Salg,134,27612.0,4,1972,0%
 265,Villa,Klevekær 19,4000, Roskilde,3300000 ,03-07-2021,Alm. Salg,138,23913.0,4,1965,0%
 265,Ejerlejlighed,Djalma Lunds Gård 1,4000, Roskilde,4650000 ,01-07-2021,Alm. Salg,125,37200.0,3,1850,-7%
@@ -1896,7 +1879,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Rækkehus,Lauravej 30,4040, Jyllinge,2625000 ,09-05-2021,Alm. Salg,115,22826.0,3,0,
 265,Rækkehus,Søparken 107,4000, Roskilde,2750000 ,09-05-2021,Alm. Salg,124,22177.0,6,1971,
 265,Villa,Store Valbyvej 245B,4000, Roskilde,1468068 ,09-05-2021,Fam. Salg,167,8791.0,5,1971,
-265,Villa,Rørholm 52,4000, Roskilde,6000000 ,09-05-2021,Alm. Salg,142,42254.0,5,1985,0%
 265,Villa,Grydehøjvej 56,4000, Roskilde,2550000 ,09-05-2021,Alm. Salg,110,23182.0,4,1976,11%
 265,Villa,Engblommevej 2,4040, Jyllinge,2950000 ,09-05-2021,Alm. Salg,178,16573.0,7,1957,-2%
 265,Villa,Krogager 8,4000, Roskilde,4800000 ,08-05-2021,Alm. Salg,432,11111.0,11,1958,
@@ -2047,7 +2029,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Lundbjerggård 1,4000, Roskilde,7495000 ,13-04-2021,Alm. Salg,194,38634.0,6,2019,
 265,Ejerlejlighed,Sværdagervej 13,4040, Jyllinge,2895000 ,12-04-2021,Alm. Salg,140,20679.0,3,1961,
 265,Ejerlejlighed,"Gartnervang 45, 2. mf",4000, Roskilde,561453 ,12-04-2021,Alm. Salg,42,13368.0,1,1970,
-265,Villa,Sankt Hans Gade 12B,4000, Roskilde,1615000 ,12-04-2021,Fam. Salg,41,39390.0,2,1900,
 265,Villa,Strandgårdsvej 39,4000, Roskilde,5600000 ,12-04-2021,Alm. Salg,176,31818.0,6,1969,0%
 265,Villa,Syv Holmevej 16,4130, Viby Sjælland,1550000 ,12-04-2021,Alm. Salg,91,17033.0,3,1777,-9%
 265,Villa,Assensvej 18,4000, Roskilde,5300000 ,12-04-2021,Alm. Salg,163,32515.0,6,1969,
@@ -2063,9 +2044,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Vestergade 66,4000, Roskilde,3500000 ,09-04-2021,Alm. Salg,94,37234.0,3,1935,
 265,Villa,Brudelysvej 4,4000, Roskilde,4000000 ,09-04-2021,Alm. Salg,173,23121.0,4,1969,
 265,Rækkehus,Søengen 13,4000, Roskilde,3400000 ,08-04-2021,Fam. Salg,112,30357.0,4,2017,
-265,Ejerlejlighed,"Roskildevænget 47, 1. tv",4000, Roskilde,2100000 ,08-04-2021,Alm. Salg,76,27632.0,3,1962,0%
 265,Ejerlejlighed,"Holbækvej 8, 2. th",4000, Roskilde,1025000 ,08-04-2021,Fam. Salg,58,17672.0,2,1945,
-265,Ejerlejlighed,"Knud Den Stores Vej 38, 2. 112",4000, Roskilde,2100000 ,08-04-2021,Alm. Salg,84,25000.0,3,1969,
 265,Ejerlejlighed,"Borgediget 31, 2",4000, Roskilde,1700000 ,08-04-2021,Alm. Salg,52,32692.0,2,1904,0%
 265,Ejerlejlighed,"Ejboparken 37, 2. mf",4000, Roskilde,1000000 ,08-04-2021,Fam. Salg,43,23256.0,1,1969,
 265,Villa,Vernersvej 32,4040, Jyllinge,4050000 ,08-04-2021,Alm. Salg,149,27181.0,4,2016,-3%
@@ -2216,7 +2195,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Ejerlejlighed,"Asylgade 46, 1. 15",4000, Roskilde,1121000 ,11-03-2021,Alm. Salg,37,30297.0,1,1924,2%
 265,Villa,Sandvejen 40,4000, Roskilde,2751000 ,11-03-2021,Alm. Salg,92,29902.0,4,1937,2%
 265,Villa,Møllehusvej 87,4000, Roskilde,4425000 ,11-03-2021,Alm. Salg,157,28185.0,4,1973,-2%
-265,Rækkehus,Skovbogade 17,4000, Roskilde,5395000 ,10-03-2021,Alm. Salg,128,42148.0,5,1912,
 265,Ejerlejlighed,"Ejboparken 43, st. mf",4000, Roskilde,1330000 ,10-03-2021,Alm. Salg,43,30930.0,1,1967,4%
 265,Villa,Sommervej 19,4040, Jyllinge,1995000 ,10-03-2021,Alm. Salg,80,24938.0,3,1981,
 265,Villa,Linkøpingvej 203,4000, Roskilde,6200000 ,10-03-2021,Alm. Salg,162,38272.0,5,2000,-5%
@@ -2318,7 +2296,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Ejerlejlighed,"Knud Den Stores Vej 32A, 1. th",4000, Roskilde,2265000 ,21-02-2021,Alm. Salg,72,31458.0,3,1966,-1%
 265,Villa,Vesttoften 2,4040, Jyllinge,2095000 ,21-02-2021,Alm. Salg,218,9610.0,6,2022,
 265,Villa,Jupitervej 7,4040, Jyllinge,2605000 ,21-02-2021,Alm. Salg,114,22851.0,5,1974,-7%
-265,Rækkehus,Himmelev Have 80,4000, Roskilde,5200000 ,20-02-2021,Alm. Salg,122,42623.0,4,2015,-1%
 265,Rækkehus,Kirsebærhegnet 47,4040, Jyllinge,2495000 ,20-02-2021,Alm. Salg,104,23990.0,3,2001,
 265,Ejerlejlighed,"Dommervænget 12D, 1. th",4000, Roskilde,2120000 ,20-02-2021,Alm. Salg,89,23820.0,4,1968,1%
 265,Ejerlejlighed,"Gartnervang 30, 1. tv",4000, Roskilde,1950000 ,20-02-2021,Alm. Salg,71,27465.0,2,1968,5%
@@ -2338,11 +2315,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Ejerlejlighed,"Knud Den Stores Vej 36, 2. 211",4000, Roskilde,2850000 ,17-02-2021,Alm. Salg,84,33929.0,3,1971,-1%
 265,Ejerlejlighed,"Ejboparken 21, 2. mf",4000, Roskilde,1225000 ,17-02-2021,Alm. Salg,43,28488.0,1,1968,3%
 265,Ejerlejlighed,"Gartnervang 28, 3. mf",4000, Roskilde,1255000 ,17-02-2021,Alm. Salg,47,26702.0,1,1968,
-265,Ejerlejlighed,"Lysalleen 562, st. tv",4000, Roskilde,3195000 ,17-02-2021,Alm. Salg,99,32273.0,3,2020,
 265,Ejerlejlighed,Tinghusvej 13,4000, Roskilde,4245000 ,17-02-2021,Alm. Salg,115,36913.0,4,2020,
 265,Villa,Fiskeparken 7,4000, Roskilde,4550000 ,17-02-2021,Alm. Salg,162,28086.0,5,1965,
 265,Villa,Brillantvej 27,4040, Jyllinge,3195000 ,17-02-2021,Alm. Salg,155,20613.0,5,1971,
-265,Villa,Magnoliavej 6,4000, Roskilde,3195000 ,17-02-2021,Alm. Salg,190,16816.0,6,2022,-1%
 265,Villa,Ågerupvej 53,4000, Roskilde,2875000 ,17-02-2021,Alm. Salg,156,18429.0,6,1985,-4%
 265,Villa,Rørsangervej 9,4000, Roskilde,4355000 ,17-02-2021,Alm. Salg,108,40324.0,4,1962,1%
 265,Villa,Tofteengen 13,4000, Roskilde,442500 ,17-02-2021,Fam. Salg,165,2682.0,4,2013,
@@ -2410,7 +2385,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Rækkehus,Lysalleen 7D,4000, Roskilde,3970000 ,04-02-2021,Alm. Salg,120,33083.0,5,2015,-1%
 265,Ejerlejlighed,"Allehelgensgade 33, 3. th",4000, Roskilde,2600000 ,04-02-2021,Alm. Salg,88,29545.0,3,1895,-5%
 265,Ejerlejlighed,"Syvmose Allé 4, st. th",4130, Viby Sjælland,2475000 ,04-02-2021,Alm. Salg,110,22500.0,4,2020,
-265,Ejerlejlighed,"Ringstedgade 17A, 2. tv",4000, Roskilde,4700000 ,04-02-2021,Alm. Salg,111,42342.0,4,2015,
 265,Ejerlejlighed,"Syvmose Allé 2, 2. mf",4130, Viby Sjælland,1850000 ,04-02-2021,Alm. Salg,76,24342.0,2,2020,
 265,Villa,Plantagevej 19,4040, Jyllinge,1825000 ,04-02-2021,Alm. Salg,112,16295.0,5,1996,
 265,Villa,Købmandsgården 8,4130, Viby Sjælland,3450000 ,04-02-2021,Alm. Salg,179,19274.0,5,1973,
@@ -2462,12 +2436,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Sneppeengen 1,4000, Roskilde,1795000 ,26-01-2021,Alm. Salg,159,11289.0,6,2022,
 265,Villa,Fasanengen 7,4000, Roskilde,1695000 ,26-01-2021,Alm. Salg,167,10150.0,6,2021,
 265,Villa,Pernillevej 29,4040, Jyllinge,1695000 ,26-01-2021,Alm. Salg,230,7370.0,6,0,
-265,Rækkehus,Toppen 207,4000, Roskilde,1750000 ,25-01-2021,Fam. Salg,124,14113.0,5,2013,
 265,Ejerlejlighed,"Dommervænget 14D, st. tv",4000, Roskilde,2265000 ,25-01-2021,Alm. Salg,86,26337.0,4,1968,-2%
 265,Villa,Poppelvej 3,4040, Jyllinge,1740000 ,25-01-2021,Alm. Salg,70,24857.0,4,1990,-2%
 265,Villa,Blodhøjvej 22,4040, Jyllinge,891500 ,25-01-2021,Alm. Salg,150,5943.0,5,2000,
 265,Villa,Ågerupvej 57,4000, Roskilde,3150000 ,25-01-2021,Alm. Salg,180,17500.0,8,1880,-2%
-265,Villa,Sneppeengen 3,4000, Roskilde,1750000 ,25-01-2021,Alm. Salg,160,10938.0,6,2022,
 265,Rækkehus,Kirsebærhegnet 7,4040, Jyllinge,2425000 ,24-01-2021,Alm. Salg,108,22454.0,4,2000,-1%
 265,Villa,Sønderlundsvej 93,4000, Roskilde,5500000 ,24-01-2021,Alm. Salg,180,30556.0,6,1965,
 265,Villa,Jagtvej 6,4040, Jyllinge,4000000 ,24-01-2021,Alm. Salg,159,25157.0,4,1968,-5%
@@ -2544,7 +2516,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Rækkehus,Kildehøj 35,4040, Jyllinge,2825000 ,12-01-2021,Alm. Salg,129,21899.0,4,2001,-6%
 265,Ejerlejlighed,"Helligkorsvej 38, 1. tv",4000, Roskilde,1695000 ,12-01-2021,Alm. Salg,49,34592.0,2,1938,
 265,Ejerlejlighed,"Møllehusvej 14, 1. 4",4000, Roskilde,1650000 ,12-01-2021,Alm. Salg,54,30556.0,2,1946,
-265,Ejerlejlighed,"Vindingevej 4, st. mf",4000, Roskilde,3075000 ,12-01-2021,Alm. Salg,72,42708.0,2,2018,-4%
 265,Ejerlejlighed,"Ahornlunden 15, 5. 4",4000, Roskilde,4000000 ,12-01-2021,Alm. Salg,116,34483.0,4,2013,-2%
 265,Rækkehus,Tønsbergvej 166,4000, Roskilde,4745000 ,11-01-2021,Alm. Salg,136,34890.0,6,2008,-2%
 265,Rækkehus,Toppen 1,4000, Roskilde,3180000 ,11-01-2021,Alm. Salg,97,32784.0,3,2017,0%
@@ -2644,10 +2615,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Ejerlejlighed,"Jernbanegade 29, 1",4000, Roskilde,4575000 ,16-12-2020,Alm. Salg,148,30912.0,5,1901,
 265,Villa,Engblommevej 22,4040, Jyllinge,4300000 ,16-12-2020,Alm. Salg,171,25146.0,5,2018,-1%
 265,Villa,Holmeager 7,4000, Roskilde,4300000 ,16-12-2020,Alm. Salg,165,26061.0,5,2011,-1%
-265,Rækkehus,Hedemølleparken 8,4000, Roskilde,3195000 ,15-12-2020,Alm. Salg,105,30429.0,4,1980,
 265,Ejerlejlighed,"Stenkær 6A, 1. 10",4000, Roskilde,850000 ,15-12-2020,Alm. Salg,34,25000.0,1,1963,-5%
 265,Villa,Kirstenvej 8,4130, Viby Sjælland,2662500 ,15-12-2020,Alm. Salg,184,14470.0,7,1976,
-265,Villa,Wæbersvej 8,4000, Roskilde,3195000 ,15-12-2020,Alm. Salg,124,25766.0,5,1907,
 265,Villa,Bakkedraget 35,4000, Roskilde,2355000 ,15-12-2020,Alm. Salg,224,10513.0,6,1960,18%
 265,Villa,Gondolvej 16,4040, Jyllinge,2350000 ,15-12-2020,Alm. Salg,157,14968.0,5,1969,-6%
 265,Villa,Tranevej 1B,4000, Roskilde,2950000 ,15-12-2020,Alm. Salg,236,12500.0,6,2023,
@@ -2895,14 +2864,12 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Snebærvej 4,4000, Roskilde,2995000 ,03-11-2020,Alm. Salg,95,31526.0,4,1967,
 265,Villa,Norddalen 1,4000, Roskilde,4665000 ,03-11-2020,Alm. Salg,160,29156.0,4,1973,-1%
 265,Rækkehus,Terrasserne 55,4000, Roskilde,3100000 ,02-11-2020,Alm. Salg,101,30693.0,3,1982,-3%
-265,Rækkehus,Ellenvej 3,4040, Jyllinge,3000000 ,02-11-2020,Alm. Salg,138,21739.0,4,0,
 265,Rækkehus,"Eget Bo 38, st. tv",4000, Roskilde,3725000 ,02-11-2020,Alm. Salg,130,28654.0,5,1955,-6%
 265,Rækkehus,Smedegårdsparken 35,4000, Roskilde,3300000 ,02-11-2020,Alm. Salg,140,23571.0,6,1978,-3%
 265,Ejerlejlighed,"Gyvelvej 5, 3. th",4000, Roskilde,900000 ,02-11-2020,Fam. Salg,65,13846.0,3,1957,
 265,Villa,Grønnegade 18,4000, Roskilde,5500000 ,02-11-2020,Alm. Salg,169,32544.0,6,1929,-2%
 265,Villa,Svendborgvej 8,4000, Roskilde,4650000 ,02-11-2020,Alm. Salg,160,29063.0,6,1965,-3%
 265,Villa,Norddalen 13,4000, Roskilde,2350000 ,02-11-2020,Andet,158,14873.0,5,1973,
-265,Villa,Neptunvej 26,4040, Jyllinge,3000000 ,02-11-2020,Alm. Salg,178,16854.0,5,1972,-6%
 265,Villa,Røglevangen 19,4000, Roskilde,1248038 ,02-11-2020,Andet,122,10230.0,4,1965,
 265,Rækkehus,Ellenvej 33,4040, Jyllinge,2437500 ,01-11-2020,Alm. Salg,138,17663.0,4,0,
 265,Villa,Hagenæs 55,4040, Jyllinge,3875000 ,01-11-2020,Alm. Salg,102,37990.0,4,1975,-5%
@@ -3001,13 +2968,11 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Ejerlejlighed,"Gartnervang 42, 1. tv",4000, Roskilde,1850000 ,15-10-2020,Alm. Salg,67,27612.0,2,1969,
 265,Ejerlejlighed,"Pærelunden 5, 4. th",4000, Roskilde,2835000 ,15-10-2020,Alm. Salg,92,30815.0,3,2017,-1%
 265,Villa,Elmevej 45,4000, Roskilde,4675000 ,15-10-2020,Alm. Salg,134,34888.0,5,1952,-3%
-265,Rækkehus,Hyrdehøj Alle 28,4000, Roskilde,3800000 ,14-10-2020,Alm. Salg,123,30894.0,4,2020,-2%
 265,Rækkehus,Dagmarvej 37,4040, Jyllinge,3500000 ,14-10-2020,Alm. Salg,138,25362.0,4,2021,
 265,Rækkehus,Lysalleen 9G,4000, Roskilde,3995000 ,14-10-2020,Alm. Salg,120,33292.0,5,2015,
 265,Ejerlejlighed,"Ringstedvej 71A, st",4000, Roskilde,2600000 ,14-10-2020,Alm. Salg,100,26000.0,4,1906,-4%
 265,Villa,Parkvej 7,4130, Viby Sjælland,2150000 ,14-10-2020,Alm. Salg,112,19196.0,3,1962,-2%
 265,Rækkehus,Strædet 7,4000, Roskilde,2475000 ,13-10-2020,Alm. Salg,99,25000.0,4,1780,
-265,Ejerlejlighed,"Bredgade 7B, st. th",4000, Roskilde,2695000 ,13-10-2020,Alm. Salg,64,42109.0,2,1980,
 265,Ejerlejlighed,"Ringstedgade 54E, 1",4000, Roskilde,1850000 ,13-10-2020,Alm. Salg,93,19892.0,4,1902,-1%
 265,Villa,Meldager 11,4000, Roskilde,2600000 ,13-10-2020,Alm. Salg,113,23009.0,5,1967,-7%
 265,Villa,Kolibrivej 11,4040, Jyllinge,3495000 ,13-10-2020,Alm. Salg,159,21981.0,5,2004,
@@ -3022,7 +2987,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Døvnældevej 10,4000, Roskilde,3000000 ,12-10-2020,Alm. Salg,180,16667.0,5,2021,
 265,Villa,Birthevej 2,4040, Jyllinge,2800000 ,12-10-2020,Andet,153,18301.0,6,1971,
 265,Villa,Gormsvej 10,4000, Roskilde,4755000 ,12-10-2020,Alm. Salg,134,35485.0,4,1916,6%
-265,Villa,Dronning Ingeborgs Vej 24,4000, Roskilde,6925000 ,12-10-2020,Alm. Salg,164,42226.0,6,1956,
 265,Villa,Forsythiavej 1,4000, Roskilde,3100000 ,12-10-2020,Alm. Salg,97,31959.0,4,1954,-4%
 265,Villa,Toftebuen 35,4000, Roskilde,5795000 ,12-10-2020,Alm. Salg,209,27727.0,7,2020,
 265,Villa,Hønskevejen 8,4130, Viby Sjælland,3500000 ,11-10-2020,Alm. Salg,165,21212.0,6,1902,-4%
@@ -3091,10 +3055,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Rækkehus,Ellenvej 9,4040, Jyllinge,2625000 ,28-09-2020,Alm. Salg,138,19022.0,4,2021,
 265,Rækkehus,Ellenvej 15,4040, Jyllinge,2850000 ,28-09-2020,Alm. Salg,138,20652.0,4,0,
 265,Rækkehus,Ellenvej 13,4040, Jyllinge,2750000 ,28-09-2020,Alm. Salg,138,19928.0,4,0,
-265,Ejerlejlighed,"Blågårdsstræde 4, 3. th",4000, Roskilde,2725000 ,28-09-2020,Alm. Salg,86,31686.0,3,1932,-3%
 265,Ejerlejlighed,"Gyvelvej 12D, 2. th",4000, Roskilde,1650000 ,28-09-2020,Alm. Salg,75,22000.0,3,1967,-3%
 265,Villa,Vor Frue Hovedgade 37,4000, Roskilde,4500000 ,28-09-2020,Alm. Salg,197,22843.0,5,2020,-1%
-265,Villa,Motelvej 13,4000, Roskilde,2725000 ,28-09-2020,Alm. Salg,122,22336.0,4,1965,-4%
 265,Villa,Frederiksborgvej 198,4000, Roskilde,7050693 ,28-09-2020,Alm. Salg,180,33575.0,8,1907,41%
 265,Villa,Hyldetoften 7,4000, Roskilde,1810000 ,28-09-2020,Alm. Salg,151,11987.0,4,1976,
 265,Villa,Skyttevej 15,4000, Roskilde,5695000 ,28-09-2020,Alm. Salg,168,33899.0,5,1955,
@@ -3193,16 +3155,12 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Ternevej 88,4000, Roskilde,3000000 ,11-09-2020,Alm. Salg,114,26316.0,5,1900,
 265,Ejerlejlighed,"Allehelgensgade 21, 3. th",4000, Roskilde,2800000 ,10-09-2020,Alm. Salg,78,35897.0,4,1910,-3%
 265,Ejerlejlighed,"Ejboparken 9, st. mf",4000, Roskilde,995000 ,10-09-2020,Alm. Salg,43,23140.0,1,1967,
-265,Rækkehus,Toftebuen 18,4000, Roskilde,4350000 ,09-09-2020,Alm. Salg,137,31752.0,4,2019,
-265,Ejerlejlighed,Løvparken 4F,4000, Roskilde,1700000 ,09-09-2020,Alm. Salg,73,23288.0,2,1974,-3%
 265,Ejerlejlighed,"Dommervænget 14C, st. th",4000, Roskilde,2150000 ,09-09-2020,Alm. Salg,87,24713.0,4,1968,-5%
 265,Ejerlejlighed,"Hersegade 7A, st. th",4000, Roskilde,3250000 ,09-09-2020,Alm. Salg,110,29545.0,3,1904,-8%
 265,Ejerlejlighed,"Skomagergade 21, 2. 311",4000, Roskilde,1695000 ,09-09-2020,Alm. Salg,61,27787.0,2,1975,
-265,Ejerlejlighed,"Roskildevænget 32, st. tv",4000, Roskilde,1700000 ,09-09-2020,Alm. Salg,62,27419.0,2,1961,-1%
 265,Villa,Odensevej 39,4000, Roskilde,5415000 ,09-09-2020,Alm. Salg,151,35861.0,3,1964,2%
 265,Villa,Okseholm 4,4000, Roskilde,4500000 ,09-09-2020,Alm. Salg,151,29801.0,5,1973,-3%
 265,Villa,Halmstykket 3,4000, Roskilde,4600000 ,09-09-2020,Alm. Salg,160,28750.0,6,2003,-4%
-265,Villa,Holmehøjen 54,4000, Roskilde,4350000 ,09-09-2020,Alm. Salg,162,26852.0,6,2019,-3%
 265,Villa,Johannevej 3,4040, Jyllinge,1350000 ,09-09-2020,Alm. Salg,175,7714.0,6,2022,
 265,Rækkehus,Tingvej 45C,4000, Roskilde,2600000 ,08-09-2020,Alm. Salg,99,26263.0,4,1986,-4%
 265,Villa,Indelukket 11,4040, Jyllinge,2700000 ,08-09-2020,Alm. Salg,121,22314.0,4,1997,-5%
@@ -3384,8 +3342,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Pernillevej 38,4040, Jyllinge,1595000 ,02-08-2020,Alm. Salg,177,9011.0,6,2021,
 265,Rækkehus,Joensuuvej 158,4000, Roskilde,3595000 ,01-08-2020,Alm. Salg,108,33287.0,5,2004,
 265,Rækkehus,Toftebuen 8,4000, Roskilde,4300000 ,30-07-2020,Alm. Salg,137,31387.0,4,2019,
-265,Ejerlejlighed,"Roskildevænget 38, st. th",4000, Roskilde,1690000 ,30-07-2020,Alm. Salg,62,27258.0,2,1961,-6%
-265,Ejerlejlighed,"Asylgade 24, st. mf",4000, Roskilde,1690000 ,30-07-2020,Alm. Salg,52,32500.0,2,1960,
 265,Ejerlejlighed,"Vænget 1, 1. tv",4130, Viby Sjælland,1850000 ,30-07-2020,Alm. Salg,95,19474.0,3,1897,-7%
 265,Villa,Tellusvej 5,4040, Jyllinge,3605000 ,30-07-2020,Alm. Salg,183,19699.0,6,1986,0%
 265,Villa,Pernillevej 81,4040, Jyllinge,1395000 ,30-07-2020,Alm. Salg,141,9894.0,4,2021,
@@ -3414,7 +3370,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Paketvej 6,4040, Jyllinge,3900000 ,27-07-2020,Alm. Salg,165,23636.0,6,1970,-2%
 265,Villa,Vestergade 6,4130, Viby Sjælland,1900000 ,27-07-2020,Alm. Salg,101,18812.0,4,1924,-5%
 265,Villa,Pernillevej 79,4040, Jyllinge,1395000 ,27-07-2020,Alm. Salg,180,7750.0,5,2021,
-265,Villa,Himmelev Bygade 11,4000, Roskilde,3725000 ,27-07-2020,Alm. Salg,88,42330.0,4,1954,-2%
 265,Rækkehus,Kometvej 25,4040, Jyllinge,2275000 ,26-07-2020,Alm. Salg,111,20495.0,4,1977,-5%
 265,Ejerlejlighed,"Gartnervang 14, st. th",4000, Roskilde,1730000 ,26-07-2020,Alm. Salg,78,22179.0,3,1967,
 265,Villa,Dunhammervej 8,4000, Roskilde,3795000 ,26-07-2020,Alm. Salg,132,28750.0,5,1968,
@@ -3431,7 +3386,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Møllevej 1,4130, Viby Sjælland,114324 ,23-07-2020,Alm. Salg,232,493.0,6,1900,
 265,Villa,Bymarken 7,4130, Viby Sjælland,1995000 ,23-07-2020,Alm. Salg,110,18136.0,4,1977,
 265,Villa,Åvej 2,4040, Jyllinge,1995000 ,23-07-2020,Alm. Salg,66,30227.0,4,1989,
-265,Villa,Frederiksborgvej 119A,4000, Roskilde,9725000 ,23-07-2020,Alm. Salg,229,42467.0,7,1978,-2%
 265,Rækkehus,Toftebuen 12,4000, Roskilde,4200000 ,22-07-2020,Alm. Salg,137,30657.0,4,2020,
 265,Ejerlejlighed,"Helligkorsvej 8B, 1. tv",4000, Roskilde,2250000 ,22-07-2020,Alm. Salg,78,28846.0,3,1920,
 265,Ejerlejlighed,"Gartnervang 49, 1. mf",4000, Roskilde,1200000 ,22-07-2020,Fam. Salg,42,28571.0,1,1970,
@@ -3517,7 +3471,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Finnjollevej 23,4040, Jyllinge,3500000 ,06-07-2020,Alm. Salg,173,20231.0,5,1968,-3%
 265,Villa,Østtoften 21,4040, Jyllinge,2300000 ,06-07-2020,Alm. Salg,96,23958.0,3,1965,
 265,Villa,Kildemosevej 8,4000, Roskilde,2395000 ,06-07-2020,Alm. Salg,159,15063.0,5,1967,
-265,Villa,Hedegade 5,4000, Roskilde,6850000 ,06-07-2020,Alm. Salg,162,42284.0,5,2002,-2%
 265,Villa,Frederiksborgvej 179B,4000, Roskilde,7675000 ,06-07-2020,Alm. Salg,237,32384.0,5,2022,-3%
 265,Ejerlejlighed,"Havnevej 36, st. th",4000, Roskilde,3550000 ,05-07-2020,Alm. Salg,118,30085.0,5,1960,-3%
 265,Villa,Nålekrogen 2,4040, Jyllinge,3875000 ,05-07-2020,Alm. Salg,227,17070.0,6,2000,-3%
@@ -4100,9 +4053,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Østervang 68,4000, Roskilde,3800000 ,27-02-2020,Alm. Salg,160,23750.0,4,1966,-1%
 265,Villa,Solsikkevej 11,4040, Jyllinge,3075000 ,27-02-2020,Alm. Salg,125,24600.0,4,2002,-1%
 265,Villa,Johannevej 10,4040, Jyllinge,1395000 ,27-02-2020,Alm. Salg,156,8942.0,6,2021,
-265,Rækkehus,Kløvervej 40,4000, Roskilde,1350000 ,26-02-2020,Fam. Salg,110,12273.0,5,1944,
 265,Ejerlejlighed,"Vognmandsmarken 4, st. mf",4000, Roskilde,1200000 ,26-02-2020,Alm. Salg,47,25532.0,1,1971,-4%
-265,Ejerlejlighed,"Gartnervang 44, st. mf",4000, Roskilde,1350000 ,26-02-2020,Alm. Salg,42,32143.0,1,1969,
 265,Ejerlejlighed,"Vognmandsmarken 12, 3. mf",4000, Roskilde,1145000 ,26-02-2020,Alm. Salg,42,27262.0,1,1971,0%
 265,Villa,Elmevej 17,4000, Roskilde,2910000 ,26-02-2020,Alm. Salg,107,27196.0,4,1958,-3%
 265,Villa,Lindevej 6,4040, Jyllinge,2155000 ,26-02-2020,Alm. Salg,91,23681.0,5,1959,-2%
@@ -4156,7 +4107,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Skyttevej 13,4000, Roskilde,3200000 ,16-02-2020,Alm. Salg,139,23022.0,7,1958,
 265,Rækkehus,Engholmvej 13,4000, Roskilde,3350000 ,15-02-2020,Alm. Salg,107,31308.0,4,1966,
 265,Rækkehus,Kristiansminde 51,4000, Roskilde,3450000 ,15-02-2020,Alm. Salg,102,33824.0,4,2007,-4%
-265,Villa,Dronning Sofies Vej 14,4000, Roskilde,7695000 ,15-02-2020,Alm. Salg,182,42280.0,6,1936,1%
 265,Villa,Dyssevej 15,4000, Roskilde,2480000 ,15-02-2020,Alm. Salg,150,16533.0,4,1965,-4%
 265,Rækkehus,Engmarken 13,4000, Roskilde,4140441 ,13-02-2020,Alm. Salg,126,32861.0,4,2020,
 265,Villa,Birkeengen 16,4040, Jyllinge,3935000 ,13-02-2020,Alm. Salg,151,26060.0,6,2017,-2%
@@ -4359,8 +4309,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Rækkehus,Hyrdehøj Alle 46,4000, Roskilde,3670000 ,26-12-2019,Alm. Salg,124,29597.0,4,2020,
 265,Villa,Dronning Sofies Vej 19,4000, Roskilde,3000000 ,26-12-2019,Fam. Salg,198,15152.0,7,1946,
 265,Ejerlejlighed,"Hedevænget 11, 1. tv",4000, Roskilde,1650000 ,22-12-2019,Alm. Salg,60,27500.0,2,1963,
-265,Ejerlejlighed,"Gyvelvej 12A, st. th",4000, Roskilde,1695000 ,22-12-2019,Alm. Salg,75,22600.0,3,1967,
-265,Ejerlejlighed,"Ejboparken 39, st. th",4000, Roskilde,1695000 ,22-12-2019,Alm. Salg,78,21731.0,3,1969,
 265,Villa,Store Valbyvej 210,4000, Roskilde,3225000 ,22-12-2019,Alm. Salg,171,18860.0,4,1965,-2%
 265,Ejerlejlighed,"Fælledvej 18, 2. tv",4000, Roskilde,1475000 ,21-12-2019,Alm. Salg,54,27315.0,2,1948,-1%
 265,Villa,Magnoliavej 4,4000, Roskilde,3250000 ,21-12-2019,Alm. Salg,113,28761.0,5,1960,-4%
@@ -4733,7 +4681,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Vor Frue Kirkevej 14,4000, Roskilde,1815000 ,29-09-2019,Alm. Salg,90,20167.0,4,1964,1%
 265,Villa,Guldblommevej 3,4000, Roskilde,4720000 ,29-09-2019,Alm. Salg,173,27283.0,5,1994,-2%
 265,Villa,Tørvekær 4,4000, Roskilde,5185000 ,29-09-2019,Alm. Salg,163,31810.0,5,2005,0%
-265,Villa,"Frederiksborgvej 105B, st",4000, Roskilde,12980132 ,28-09-2019,Andet,305,42558.0,7,2022,
 265,Villa,Skolevej 18,4000, Roskilde,5120000 ,27-09-2019,Alm. Salg,158,32405.0,6,2017,-1%
 265,Rækkehus,Toftebuen 3,4000, Roskilde,3350000 ,26-09-2019,Alm. Salg,117,28632.0,4,2020,
 265,Rækkehus,Toftebuen 17,4000, Roskilde,3250000 ,26-09-2019,Alm. Salg,117,27778.0,4,2020,
@@ -5230,7 +5177,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Dragevej 40,4040, Jyllinge,2825000 ,17-06-2019,Alm. Salg,136,20772.0,5,1969,-2%
 265,Villa,Kringlevej 23,4040, Jyllinge,1535000 ,17-06-2019,Alm. Salg,74,20743.0,4,1957,2%
 265,Villa,Veddelev Bygade 2,4000, Roskilde,4400000 ,17-06-2019,Alm. Salg,183,24044.0,5,1981,-2%
-265,Ejerlejlighed,"Munkebro 13, 2. th",4000, Roskilde,3720000 ,16-06-2019,Alm. Salg,88,42273.0,4,1931,-1%
 265,Ejerlejlighed,"Roskildevænget 50, 2. tv",4000, Roskilde,930000 ,16-06-2019,Fam. Salg,62,15000.0,2,1961,
 265,Ejerlejlighed,"Gartnervang 44, 3. tv",4000, Roskilde,1950000 ,16-06-2019,Alm. Salg,79,24684.0,3,1969,
 265,Ejerlejlighed,"Poppellunden 3, st. th",4000, Roskilde,1100000 ,16-06-2019,Fam. Salg,102,10784.0,2,2017,
@@ -5378,7 +5324,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Ejerlejlighed,"Roskildevænget 34, 1. tv",4000, Roskilde,1700000 ,11-05-2019,Alm. Salg,62,27419.0,3,1961,
 265,Villa,Grønningen 1,4000, Roskilde,6850000 ,11-05-2019,Alm. Salg,164,41768.0,4,2004,
 265,Villa,Tjørnevænge 7,4621, Gadstrup,1595000 ,11-05-2019,Alm. Salg,119,13403.0,4,1963,
-265,Villa,Havevang 11,4000, Roskilde,4390000 ,10-05-2019,Alm. Salg,103,42621.0,5,1934,-2%
 265,Ejerlejlighed,"Hedevænget 6, st. th",4000, Roskilde,1895000 ,09-05-2019,Alm. Salg,78,24295.0,3,1961,
 265,Ejerlejlighed,"Ejboparken 41, 2. tv",4000, Roskilde,1800000 ,09-05-2019,Alm. Salg,82,21951.0,3,1969,-2%
 265,Villa,Kløverengen 14,4130, Viby Sjælland,2900000 ,09-05-2019,Alm. Salg,169,17160.0,6,2000,-3%
@@ -5402,11 +5347,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Haraldsborgvej 55,4000, Roskilde,5700000 ,06-05-2019,Alm. Salg,199,28643.0,5,1963,
 265,Villa,Dalen 4,4130, Viby Sjælland,2535000 ,06-05-2019,Alm. Salg,160,15844.0,6,1936,-2%
 265,Rækkehus,Ådalen 1,4000, Roskilde,3825000 ,05-05-2019,Alm. Salg,136,28125.0,5,2018,
-265,Rækkehus,Linkøpingvej 169,4000, Roskilde,2700000 ,05-05-2019,Alm. Salg,79,34177.0,3,2006,4%
 265,Ejerlejlighed,"Gartnervang 20, 1. th",4000, Roskilde,1525000 ,05-05-2019,Alm. Salg,65,23462.0,2,1968,-8%
 265,Ejerlejlighed,"Roskildevænget 20, 2. tv",4000, Roskilde,1760000 ,05-05-2019,Alm. Salg,71,24789.0,3,1962,-2%
 265,Villa,Kornvej 40,4040, Jyllinge,1300000 ,05-05-2019,Alm. Salg,170,7647.0,5,2020,
-265,Villa,Stenlandsvej 32,4000, Roskilde,2700000 ,05-05-2019,Alm. Salg,92,29348.0,3,1969,-2%
 265,Villa,Smakkevej 10,4040, Jyllinge,2750000 ,05-05-2019,Alm. Salg,124,22177.0,4,1972,-4%
 265,Rækkehus,Skovly 43,4130, Viby Sjælland,2690555 ,04-05-2019,Alm. Salg,130,20697.0,4,2019,
 265,Villa,Knudsvej 11A,4000, Roskilde,3995000 ,04-05-2019,Alm. Salg,117,34145.0,4,1930,
@@ -5438,9 +5381,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Anemonevej 21,4000, Roskilde,3495000 ,29-04-2019,Alm. Salg,125,27960.0,5,1968,
 265,Villa,Rolighedsvej 2,4000, Roskilde,3795000 ,29-04-2019,Alm. Salg,125,30360.0,4,1909,
 265,Villa,Toftebuen 51,4000, Roskilde,1950000 ,29-04-2019,Alm. Salg,181,10773.0,6,2020,
-265,Ejerlejlighed,"Stenagervej 14, st. th",4000, Roskilde,1550000 ,28-04-2019,Alm. Salg,56,27679.0,2,1944,
 265,Villa,Meldager 15,4000, Roskilde,3475000 ,28-04-2019,Alm. Salg,152,22862.0,5,1966,-1%
-265,Villa,Aastoften 3,4000, Roskilde,1550000 ,28-04-2019,Alm. Salg,137,11314.0,5,1966,
 265,Villa,Merringgårdsvej 11,4000, Roskilde,2660000 ,28-04-2019,Alm. Salg,135,19704.0,4,1974,
 265,Villa,Hejrevej 14,4000, Roskilde,3325000 ,28-04-2019,Alm. Salg,127,26181.0,4,1964,-5%
 265,Villa,Østervang 39,4000, Roskilde,3000000 ,28-04-2019,Alm. Salg,95,31579.0,3,1955,-9%
@@ -5530,7 +5471,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Ejerlejlighed,"Sankt Laurentii Vej 3, 1. th",4000, Roskilde,2352000 ,04-04-2019,Alm. Salg,69,34087.0,2,1908,2%
 265,Ejerlejlighed,"Gartnervang 30, 1. mf",4000, Roskilde,1160000 ,04-04-2019,Alm. Salg,47,24681.0,1,1968,-3%
 265,Villa,Kløvervej 13,4000, Roskilde,4230000 ,04-04-2019,Alm. Salg,123,34390.0,5,1938,-4%
-265,Villa,Bregnevej 24,4000, Roskilde,3600000 ,04-04-2019,Alm. Salg,125,28800.0,5,1951,-5%
 265,Villa,Tjærebyvej 55,4000, Roskilde,1600000 ,04-04-2019,Alm. Salg,135,6154.0,9,1900,
 265,Rækkehus,Terrasserne 76,4000, Roskilde,2920000 ,03-04-2019,Alm. Salg,100,29200.0,4,1982,-3%
 265,Villa,Dalvej 3,4040, Jyllinge,2050000 ,03-04-2019,Fam. Salg,120,17083.0,4,1976,
@@ -5633,8 +5573,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Valmuevej 14,4000, Roskilde,5200000 ,10-03-2019,Alm. Salg,166,31325.0,4,2015,-4%
 265,Rækkehus,Skovly 39,4130, Viby Sjælland,2550000 ,09-03-2019,Alm. Salg,130,19615.0,4,2019,
 265,Ejerlejlighed,"Roskildevænget 71, 1. tv",4000, Roskilde,1975000 ,09-03-2019,Alm. Salg,81,24383.0,3,1962,-1%
-265,Rækkehus,Fyrren 16,4000, Roskilde,1150000 ,07-03-2019,Fam. Salg,110,10455.0,5,1969,
-265,Ejerlejlighed,"Ejboparken 1, 2. mf",4000, Roskilde,1150000 ,07-03-2019,Alm. Salg,43,26744.0,1,1967,5%
 265,Villa,Veddelev Bygade 55,4000, Roskilde,2250000 ,07-03-2019,Alm. Salg,100,22500.0,5,1852,-10%
 265,Rækkehus,Jernaldermarken 64,4000, Roskilde,3700000 ,06-03-2019,Alm. Salg,120,30833.0,3,2013,-3%
 265,Ejerlejlighed,"Vognmandsmarken 6, 3. th",4000, Roskilde,2051000 ,06-03-2019,Alm. Salg,82,25012.0,3,1971,3%
@@ -5877,7 +5815,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Ejerlejlighed,"Ejboparken 31, 2. mf",4000, Roskilde,825000 ,14-01-2019,Alm. Salg,43,19186.0,1,1969,
 265,Villa,Clermontgade 28,4000, Roskilde,4675000 ,14-01-2019,Alm. Salg,133,35150.0,4,1925,0%
 265,Villa,Søster Svenstrup Byvej 12,4130, Viby Sjælland,2700000 ,14-01-2019,Fam. Salg,136,19853.0,5,1727,
-265,Villa,Svendsvej 8,4000, Roskilde,2800000 ,14-01-2019,Alm. Salg,199,14070.0,8,1892,-7%
 265,Villa,Granhøj 4,4040, Jyllinge,1625000 ,14-01-2019,Fam. Salg,195,8333.0,5,2000,
 265,Ejerlejlighed,"Lysalleen 546, st. th",4000, Roskilde,4250000 ,13-01-2019,Alm. Salg,129,32946.0,4,2020,
 265,Villa,Fiskeparken 11,4000, Roskilde,1300000 ,13-01-2019,Andet,135,9630.0,4,1968,
@@ -5889,9 +5826,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Ejerlejlighed,"Gyvelvej 7, 3. th",4000, Roskilde,1595000 ,09-01-2019,Alm. Salg,56,28482.0,2,1957,
 265,Ejerlejlighed,"Skovbovængets Alle 3, 1",4000, Roskilde,3795000 ,09-01-2019,Alm. Salg,123,30854.0,4,1911,
 265,Ejerlejlighed,"Roskildevænget 28, st. th",4000, Roskilde,1895000 ,09-01-2019,Alm. Salg,71,26690.0,3,1962,
-265,Rækkehus,Toftebuen 114,4000, Roskilde,3600000 ,08-01-2019,Alm. Salg,141,25532.0,4,2020,3%
 265,Rækkehus,Terrasserne 134,4000, Roskilde,1900000 ,08-01-2019,Alm. Salg,104,18269.0,4,1982,
-265,Ejerlejlighed,"Himmelev Have 1, st. 3",4000, Roskilde,3600000 ,08-01-2019,Alm. Salg,118,30508.0,3,2016,
 265,Villa,Biensvej 3,4621, Gadstrup,965000 ,08-01-2019,Alm. Salg,164,5884.0,5,2021,-3%
 265,Rækkehus,Hedemøllevænget 21,4000, Roskilde,2500000 ,07-01-2019,Fam. Salg,105,23810.0,4,1983,
 265,Ejerlejlighed,"Roskildevænget 65, 1. tv",4000, Roskilde,1815000 ,07-01-2019,Alm. Salg,76,23882.0,3,1962,-3%
@@ -6207,9 +6142,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Herringløse Bygade 24,4000, Roskilde,2495000 ,17-10-2018,Alm. Salg,168,14851.0,5,1954,
 265,Rækkehus,Skovly 29,4130, Viby Sjælland,2550000 ,16-10-2018,Alm. Salg,130,19615.0,4,2019,
 265,Rækkehus,Eget Bo 26C,4000, Roskilde,2450000 ,16-10-2018,Alm. Salg,88,27841.0,1,1961,-2%
-265,Ejerlejlighed,"Hovedgaden 10A, st",4000, Roskilde,4250000 ,16-10-2018,Alm. Salg,123,34553.0,5,1937,
 265,Ejerlejlighed,"Ejboparken 69, st. mf",4000, Roskilde,985000 ,16-10-2018,Alm. Salg,43,22907.0,1,1969,-1%
-265,Ejerlejlighed,"Ryttergårdsvej 1B, st",4000, Roskilde,4250000 ,16-10-2018,Alm. Salg,117,36325.0,3,1937,
 265,Villa,Klokkervej 6,4622, Havdrup,1230000 ,16-10-2018,Alm. Salg,91,13516.0,3,1951,-5%
 265,Villa,Karlslundevejen 3,4621, Gadstrup,2100000 ,16-10-2018,Alm. Salg,132,15909.0,5,1968,-4%
 265,Ejerlejlighed,"Gyvelvej 3, 2. th",4000, Roskilde,2100000 ,15-10-2018,Alm. Salg,70,30000.0,3,1957,
@@ -6266,10 +6199,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Ejerlejlighed,"Frederiksborgvej 38D, st. 3",4000, Roskilde,900000 ,30-09-2018,Fam. Salg,51,17647.0,1,1967,
 265,Ejerlejlighed,Løvparken 4H,4000, Roskilde,935000 ,30-09-2018,Fam. Salg,84,11131.0,3,1974,
 265,Villa,Skolelodsvej 9,4000, Roskilde,2275000 ,30-09-2018,Alm. Salg,143,15909.0,5,1973,-1%
-265,Villa,Solvej 2A,4040, Jyllinge,2507500 ,30-09-2018,Fam. Salg,140,17911.0,4,1930,
 265,Villa,Solvænget 4,4621, Gadstrup,1450000 ,30-09-2018,Alm. Salg,129,11240.0,4,1959,
 265,Rækkehus,Klokkervej 85,4000, Roskilde,3075000 ,27-09-2018,Alm. Salg,139,22122.0,4,1976,-4%
-265,Rækkehus,Ved Toftekæret 16,4000, Roskilde,5700000 ,27-09-2018,Alm. Salg,134,42537.0,4,2016,
 265,Villa,Havnevej 2,4040, Jyllinge,2550000 ,27-09-2018,Alm. Salg,199,12814.0,4,1764,-15%
 265,Villa,Ågeruphøj 53,4000, Roskilde,2900000 ,27-09-2018,Alm. Salg,201,14428.0,7,1997,2%
 265,Villa,Valnødvej 18,4000, Roskilde,3300000 ,27-09-2018,Alm. Salg,121,27273.0,4,1961,-3%
@@ -6356,8 +6287,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Ejerlejlighed,"Vognmandsmarken 8, 1. tv",4000, Roskilde,1645000 ,11-09-2018,Alm. Salg,82,20061.0,3,1971,-5%
 265,Ejerlejlighed,"Ringstedvej 55, st",4000, Roskilde,2250000 ,11-09-2018,Alm. Salg,98,22959.0,3,1924,
 265,Ejerlejlighed,"Gyvelvej 13, 1. mf",4000, Roskilde,1150000 ,11-09-2018,Alm. Salg,42,27381.0,1,1962,
-265,Ejerlejlighed,"Trekroner Centervej 79, 3. 15",4000, Roskilde,3295000 ,11-09-2018,Alm. Salg,118,27924.0,4,2019,
-265,Ejerlejlighed,"Ringstedgade 65, st",4000, Roskilde,3295000 ,11-09-2018,Alm. Salg,128,25742.0,4,1900,
 265,Villa,Himmelevgårdsvej 10,4000, Roskilde,5300000 ,11-09-2018,Alm. Salg,178,29775.0,5,2007,-1%
 265,Rækkehus,Skovly 23,4130, Viby Sjælland,2750000 ,10-09-2018,Alm. Salg,125,22000.0,3,2019,8%
 265,Rækkehus,Himmelev Skovvej 87,4000, Roskilde,3095000 ,10-09-2018,Alm. Salg,106,29198.0,4,2005,
@@ -6374,10 +6303,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Lundetoften 43,4130, Viby Sjælland,2575000 ,09-09-2018,Alm. Salg,171,15058.0,6,2006,
 265,Villa,Fasanvænget 3,4040, Jyllinge,2515000 ,06-09-2018,Alm. Salg,125,20120.0,7,1960,-3%
 265,Rækkehus,Hjørnekilden 13,4000, Roskilde,2300000 ,05-09-2018,Alm. Salg,109,21101.0,4,1973,-2%
-265,Ejerlejlighed,"Kornerups Vænge 6, 2. tv",4000, Roskilde,4195000 ,05-09-2018,Alm. Salg,121,34669.0,4,1916,-1%
 265,Ejerlejlighed,"Neergårdsparken 15, 1. 4",4000, Roskilde,1595000 ,05-09-2018,Alm. Salg,73,21849.0,3,1968,
 265,Villa,Kastelsvej 6,4000, Roskilde,1575000 ,05-09-2018,Fam. Salg,185,8514.0,4,1916,
-265,Villa,Humlebakken 9,4000, Roskilde,4195000 ,05-09-2018,Alm. Salg,184,22799.0,7,2004,
 265,Villa,Birkede Brovej 10,4130, Viby Sjælland,1650000 ,05-09-2018,Alm. Salg,285,5789.0,11,1912,-8%
 265,Villa,Bakkesvinget 19,4000, Roskilde,2810000 ,05-09-2018,Alm. Salg,170,16529.0,5,1966,4%
 265,Villa,Skolevej 23,4130, Viby Sjælland,1400742 ,05-09-2018,Fam. Salg,159,8810.0,5,2006,
@@ -6571,10 +6498,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Ørebjergvej 3,4000, Roskilde,2295000 ,17-07-2018,Alm. Salg,151,15199.0,5,1971,
 265,Villa,Violvej 4,4000, Roskilde,3620000 ,17-07-2018,Alm. Salg,155,23355.0,5,1944,1%
 265,Villa,Strandagervej 22,4040, Jyllinge,2595000 ,17-07-2018,Alm. Salg,177,14661.0,6,2019,
-265,Rækkehus,Søparken 103,4000, Roskilde,2595000 ,16-07-2018,Alm. Salg,124,20927.0,6,1971,
 265,Ejerlejlighed,"Roskildevænget 45, st. th",4000, Roskilde,1845000 ,16-07-2018,Alm. Salg,81,22778.0,3,1962,
 265,Ejerlejlighed,"Roskildevænget 4, 2. th",4000, Roskilde,1550000 ,16-07-2018,Alm. Salg,74,20946.0,3,1962,
-265,Ejerlejlighed,"Knud Den Stores Vej 38, 3. 117",4000, Roskilde,2595000 ,16-07-2018,Alm. Salg,98,26480.0,3,1969,
 265,Ejerlejlighed,"Roskildevænget 64, st. tv",4000, Roskilde,1800000 ,16-07-2018,Alm. Salg,76,23684.0,3,1961,-3%
 265,Ejerlejlighed,"Himmelev Have 1, 1. 3",4000, Roskilde,3750000 ,16-07-2018,Alm. Salg,118,31780.0,3,2016,
 265,Villa,Ramsøvejen 4,4621, Gadstrup,964000 ,16-07-2018,Auktion,158,6101.0,7,1887,
@@ -6609,8 +6534,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Rækkehus,Linkøpingvej 139,4000, Roskilde,3200000 ,07-07-2018,Alm. Salg,108,29630.0,4,2005,
 265,Villa,Østervang 26,4000, Roskilde,4800000 ,07-07-2018,Alm. Salg,146,32877.0,4,1939,-1%
 265,Villa,Samsøvej 15,4000, Roskilde,2600000 ,06-07-2018,Alm. Salg,130,20000.0,4,1960,-5%
-265,Ejerlejlighed,"Møllehusene 14, st. th",4000, Roskilde,1650000 ,05-07-2018,Alm. Salg,61,27049.0,2,1999,-3%
-265,Ejerlejlighed,"Ejboparken 23, st. tv",4000, Roskilde,1650000 ,05-07-2018,Alm. Salg,78,21154.0,3,1968,
 265,Ejerlejlighed,"Dommervænget 14A, 1. th",4000, Roskilde,2350000 ,05-07-2018,Alm. Salg,109,21560.0,4,1968,
 265,Villa,Rypevej 8,4000, Roskilde,2970000 ,05-07-2018,Alm. Salg,122,24344.0,3,1963,-1%
 265,Rækkehus,Ejlskovvej 9,4000, Roskilde,4300000 ,04-07-2018,Alm. Salg,132,32576.0,4,1999,
@@ -6702,7 +6625,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Rækkehus,Kometvej 31,4040, Jyllinge,2000000 ,17-06-2018,Alm. Salg,111,18018.0,4,1977,-5%
 265,Villa,Poppel Alle 8,4000, Roskilde,4750000 ,17-06-2018,Alm. Salg,129,36822.0,4,1930,
 265,Villa,Rønøs Alle 13,4000, Roskilde,1930000 ,17-06-2018,Alm. Salg,137,14088.0,5,1928,-3%
-265,Villa,Klostervej 1,4000, Roskilde,5850000 ,17-06-2018,Alm. Salg,138,42391.0,4,1934,-2%
 265,Villa,Fasanvænget 42,4040, Jyllinge,1742000 ,17-06-2018,Fam. Salg,170,10247.0,3,1996,
 265,Villa,Bøgevej 15,4000, Roskilde,4900000 ,17-06-2018,Alm. Salg,134,36567.0,4,1967,4%
 265,Ejerlejlighed,"Roskildevænget 18, 2. th",4000, Roskilde,1695000 ,16-06-2018,Alm. Salg,57,29737.0,2,1962,
@@ -6867,9 +6789,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Karavelvej 23,4040, Jyllinge,2750000 ,13-05-2018,Alm. Salg,134,20522.0,5,1970,-2%
 265,Ejerlejlighed,"Roskildevænget 60, st. th",4000, Roskilde,1875000 ,12-05-2018,Alm. Salg,76,24671.0,3,1961,
 265,Villa,Kirkebakken 68,4621, Gadstrup,2600000 ,12-05-2018,Alm. Salg,150,17333.0,4,1973,-2%
-265,Ejerlejlighed,"Ringstedvej 69, 1",4000, Roskilde,1750000 ,10-05-2018,Alm. Salg,64,27344.0,2,1924,-3%
-265,Ejerlejlighed,"Ringstedvej 69, st",4000, Roskilde,1750000 ,10-05-2018,Alm. Salg,78,22436.0,3,1924,-3%
-265,Ejerlejlighed,"Pærelunden 7, st. tv",4000, Roskilde,1750000 ,10-05-2018,Alm. Salg,66,26515.0,2,2017,
 265,Ejerlejlighed,Sankt Mortens Vej 1B,4000, Roskilde,3000000 ,09-05-2018,Alm. Salg,131,22901.0,5,1907,-6%
 265,Rækkehus,Egen 11,4000, Roskilde,2575000 ,08-05-2018,Alm. Salg,110,23409.0,5,1968,-4%
 265,Ejerlejlighed,"Vindingevej 55, st",4000, Roskilde,2495000 ,08-05-2018,Alm. Salg,93,26828.0,3,1949,
@@ -7150,9 +7069,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Ternevej 8,4040, Jyllinge,1475000 ,04-03-2018,Alm. Salg,79,18671.0,4,1973,-8%
 265,Villa,Grønnegade 9B,4621, Gadstrup,2095000 ,03-03-2018,Alm. Salg,135,15519.0,4,1975,
 265,Villa,Ledagervej 38,4000, Roskilde,2250000 ,02-03-2018,Alm. Salg,166,13554.0,6,2019,
-265,Rækkehus,Toppen 159,4000, Roskilde,3800000 ,01-03-2018,Alm. Salg,123,30894.0,4,2016,
 265,Ejerlejlighed,"Roskildevænget 27, 2. tv",4000, Roskilde,812500 ,01-03-2018,Andet,76,10691.0,3,1960,
-265,Villa,Østre Kirkevej 9,4000, Roskilde,3800000 ,01-03-2018,Alm. Salg,152,25000.0,4,1961,-5%
 265,Villa,Kirkebakken 33,4621, Gadstrup,3100000 ,01-03-2018,Alm. Salg,201,15423.0,6,1973,
 265,Villa,Vor Frue Kirkevej 20,4000, Roskilde,2400000 ,01-03-2018,Alm. Salg,186,12903.0,5,1964,-4%
 265,Villa,Valnødvej 17,4000, Roskilde,3995000 ,01-03-2018,Alm. Salg,124,32218.0,4,1962,
@@ -7189,9 +7106,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Stålmosevej 43,4000, Roskilde,4933750 ,25-02-2018,Alm. Salg,184,26814.0,5,2015,
 265,Villa,Assendløsevejen 26,4130, Viby Sjælland,1850000 ,24-02-2018,Alm. Salg,120,15417.0,3,1953,-2%
 265,Villa,Bredengen 38,4000, Roskilde,3495000 ,23-02-2018,Alm. Salg,163,21442.0,5,1970,-3%
-265,Rækkehus,Rønne Alle 27,4000, Roskilde,3800000 ,22-02-2018,Alm. Salg,140,27143.0,4,1929,-5%
 265,Villa,Stålmosevej 1,4000, Roskilde,2995000 ,22-02-2018,Alm. Salg,156,19199.0,4,1965,
-265,Villa,Helligkorsvej 77,4000, Roskilde,3800000 ,22-02-2018,Alm. Salg,98,38776.0,4,1929,-5%
 265,Ejerlejlighed,"Sankt Hans Gade 11B, st. 3",4000, Roskilde,1145000 ,21-02-2018,Alm. Salg,42,27262.0,1,1970,-3%
 265,Ejerlejlighed,"Frederiksborgvej 38A, st. 1",4000, Roskilde,1425000 ,21-02-2018,Alm. Salg,51,27941.0,1,1967,-2%
 265,Ejerlejlighed,"Weysegangen 6, 1",4000, Roskilde,3000000 ,21-02-2018,Alm. Salg,118,25424.0,4,1960,
@@ -7304,7 +7219,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Rækkehus,Jernaldermarken 14,4000, Roskilde,2995000 ,25-01-2018,Alm. Salg,112,26741.0,4,2018,
 265,Ejerlejlighed,"Algade 25A, 3",4000, Roskilde,5000000 ,25-01-2018,Alm. Salg,166,30120.0,5,1925,-9%
 265,Villa,Kajakvej 28,4040, Jyllinge,1411250 ,25-01-2018,Fam. Salg,136,10377.0,5,1976,
-265,Villa,Grønningen 5,4000, Roskilde,7800000 ,25-01-2018,Alm. Salg,184,42391.0,5,2002,-5%
 265,Villa,Tårnvang 8,4000, Roskilde,3200000 ,25-01-2018,Alm. Salg,82,39024.0,2,1935,-3%
 265,Villa,Lærkevej 58,4000, Roskilde,2895000 ,25-01-2018,Alm. Salg,81,35741.0,3,1953,
 265,Villa,Clermontgade 32,4000, Roskilde,3750000 ,24-01-2018,Alm. Salg,92,40761.0,4,1932,-3%
@@ -7317,7 +7231,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Ejerlejlighed,"Havnevej 18, 3. th",4000, Roskilde,1795000 ,23-01-2018,Alm. Salg,59,30424.0,2,1960,
 265,Villa,Egevej 47,4000, Roskilde,3900000 ,23-01-2018,Fam. Salg,141,27660.0,5,1955,
 265,Villa,Stenlandsvej 36,4000, Roskilde,2475000 ,23-01-2018,Alm. Salg,117,21154.0,3,1969,-1%
-265,Villa,Hedegade 5,4000, Roskilde,6900000 ,23-01-2018,Alm. Salg,162,42593.0,5,2002,-1%
 265,Rækkehus,Toppen 187,4000, Roskilde,4500000 ,22-01-2018,Alm. Salg,162,27778.0,4,2016,
 265,Ejerlejlighed,"Ringstedgade 65, st",4000, Roskilde,1810000 ,22-01-2018,Alm. Salg,128,14141.0,4,1900,
 265,Villa,Villavej 14,4000, Roskilde,4000000 ,22-01-2018,Alm. Salg,152,26316.0,6,1890,-11%
@@ -7456,9 +7369,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Ramsøbakken 85,4621, Gadstrup,1250000 ,14-12-2017,Alm. Salg,182,6868.0,5,2018,
 265,Rækkehus,Darupvej 152,4000, Roskilde,2000000 ,13-12-2017,Alm. Salg,84,23810.0,4,1910,0%
 265,Villa,Gundsølillevej 11,4000, Roskilde,2605000 ,13-12-2017,Alm. Salg,118,22076.0,4,1965,2%
-265,Ejerlejlighed,"Vognmandsmarken 12, 3. mf",4000, Roskilde,965000 ,12-12-2017,Alm. Salg,42,22976.0,1,1971,
 265,Ejerlejlighed,"Gartnervang 26, st. tv",4000, Roskilde,1395000 ,12-12-2017,Alm. Salg,71,19648.0,2,1968,
-265,Ejerlejlighed,"Gartnervang 30, 1. mf",4000, Roskilde,965000 ,12-12-2017,Alm. Salg,47,20532.0,1,1968,
 265,Villa,Hyldeholm 13,4000, Roskilde,3000000 ,12-12-2017,Alm. Salg,165,18182.0,4,1971,-6%
 265,Rækkehus,Nymarks Vænge 24,4000, Roskilde,2200000 ,11-12-2017,Alm. Salg,82,26829.0,3,1960,-3%
 265,Ejerlejlighed,"Gartnervang 26, st. th",4000, Roskilde,1300000 ,11-12-2017,Alm. Salg,88,14773.0,3,1968,
@@ -8078,11 +7989,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Rækkehus,Knudsvej 30,4000, Roskilde,1450000 ,11-07-2017,Alm. Salg,114,12719.0,4,1904,-52%
 265,Rækkehus,Kirsebærhegnet 13,4040, Jyllinge,1950000 ,11-07-2017,Alm. Salg,92,21196.0,3,2000,-2%
 265,Ejerlejlighed,"Ahornlunden 7, 4. th",4000, Roskilde,3235000 ,11-07-2017,Alm. Salg,113,28628.0,4,2008,0%
-265,Rækkehus,Søengen 27,4000, Roskilde,2995000 ,10-07-2017,Alm. Salg,125,23960.0,4,2018,
 265,Ejerlejlighed,"Poppellunden 1, 3. mf",4000, Roskilde,4195000 ,10-07-2017,Alm. Salg,160,26219.0,5,2017,
 265,Villa,Himmelev Sognevej 59,4000, Roskilde,3315000 ,10-07-2017,Alm. Salg,167,19850.0,6,1965,
 265,Villa,Bygvej 20,4040, Jyllinge,1495000 ,10-07-2017,Alm. Salg,66,22652.0,2,1962,
-265,Rækkehus,Linkøpingvej 137,4000, Roskilde,3050000 ,09-07-2017,Alm. Salg,108,28241.0,4,2005,
 265,Rækkehus,Kirsebærhegnet 5,4040, Jyllinge,1999000 ,09-07-2017,Alm. Salg,104,19221.0,4,2001,-5%
 265,Rækkehus,Toppen 23,4000, Roskilde,2950000 ,09-07-2017,Alm. Salg,104,28365.0,3,2017,6%
 265,Ejerlejlighed,"Jernbanegade 42, 1. tv",4000, Roskilde,1395000 ,09-07-2017,Alm. Salg,49,28469.0,2,1890,
@@ -8090,7 +7999,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Ejerlejlighed,"Haraldsborgvej 4C, 1. tv",4000, Roskilde,1325000 ,09-07-2017,Alm. Salg,46,28804.0,1,1959,-2%
 265,Villa,Kirkebakken 64,4621, Gadstrup,1895000 ,09-07-2017,Alm. Salg,125,15160.0,4,1972,-5%
 265,Villa,Store Valbyvej 245C,4000, Roskilde,2225000 ,09-07-2017,Alm. Salg,167,13323.0,6,1971,-7%
-265,Villa,Pilevej 9,4000, Roskilde,3050000 ,09-07-2017,Alm. Salg,106,28774.0,5,1948,2%
 265,Villa,Hagenæsdal 15,4040, Jyllinge,2470000 ,08-07-2017,Alm. Salg,97,25464.0,4,1988,-1%
 265,Rækkehus,Herringløse Bygade 26C,4000, Roskilde,1000000 ,07-07-2017,Alm. Salg,72,13889.0,4,1959,-9%
 265,Villa,Søager 1,4000, Roskilde,2950000 ,07-07-2017,Alm. Salg,150,19667.0,5,1971,
@@ -8168,12 +8076,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Lille Grønnegade 7,4000, Roskilde,2875000 ,21-06-2017,Fam. Salg,154,18669.0,5,1896,
 265,Villa,Marken 4,4000, Roskilde,5250000 ,21-06-2017,Alm. Salg,174,30172.0,4,2016,-3%
 265,Rækkehus,Terrasserne 73,4000, Roskilde,2750000 ,20-06-2017,Alm. Salg,104,26442.0,4,1982,
-265,Rækkehus,Linkøpingvej 193,4000, Roskilde,3195000 ,20-06-2017,Alm. Salg,108,29583.0,4,2006,
 265,Rækkehus,Nymarken 15,4130, Viby Sjælland,2400000 ,20-06-2017,Alm. Salg,120,20000.0,5,2009,2%
 265,Ejerlejlighed,"Dommervænget 14D, 2. th",4000, Roskilde,1855000 ,20-06-2017,Alm. Salg,89,20843.0,4,1968,0%
 265,Villa,Nygade 10,4000, Roskilde,3400000 ,20-06-2017,Alm. Salg,200,17000.0,5,2018,
 265,Villa,Ametystvej 22,4040, Jyllinge,2000000 ,20-06-2017,Alm. Salg,111,18018.0,5,1970,-9%
-265,Villa,Gadekæret 2,4000, Roskilde,3195000 ,20-06-2017,Alm. Salg,145,22034.0,5,1897,
 265,Villa,Jernaldergården 12,4000, Roskilde,5595000 ,20-06-2017,Alm. Salg,167,33503.0,5,2012,2%
 265,Rækkehus,Ladegårdsvej 4,4000, Roskilde,2000000 ,19-06-2017,Alm. Salg,98,20408.0,4,1982,0%
 265,Ejerlejlighed,"Poppellunden 3, 1. th",4000, Roskilde,2695000 ,19-06-2017,Alm. Salg,108,24954.0,3,2017,
@@ -8369,9 +8275,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Toftevangen 33,4130, Viby Sjælland,1995000 ,09-05-2017,Alm. Salg,132,15114.0,5,1969,
 265,Rækkehus,Vestergade 10B,4000, Roskilde,2850000 ,08-05-2017,Alm. Salg,101,28218.0,4,1931,-5%
 265,Ejerlejlighed,"Roskildevænget 33, 2. tv",4000, Roskilde,1725000 ,08-05-2017,Alm. Salg,76,22697.0,3,1960,
-265,Ejerlejlighed,"Lille Højbrøndsstræde 5, st",4000, Roskilde,3500000 ,08-05-2017,Alm. Salg,139,25180.0,4,1907,-5%
 265,Ejerlejlighed,"Gartnervang 38, st. tv",4000, Roskilde,1547998 ,08-05-2017,Alm. Salg,67,23104.0,2,1969,4%
-265,Villa,"Lille Højbrøndsstræde 5, 1",4000, Roskilde,3500000 ,08-05-2017,Alm. Salg,134,26119.0,3,1907,-5%
 265,Villa,Holmevej 17,4000, Roskilde,3000000 ,08-05-2017,Alm. Salg,130,23077.0,4,1932,
 265,Villa,Piledyssen 18,4000, Roskilde,1950000 ,08-05-2017,Alm. Salg,116,16810.0,5,1972,-9%
 265,Villa,Frederiksborgvej 137B,4000, Roskilde,7550000 ,08-05-2017,Alm. Salg,208,36298.0,5,1981,-3%
@@ -8653,8 +8557,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Ejerlejlighed,"Bøgevej 1A, 1. 3",4000, Roskilde,1595000 ,08-03-2017,Alm. Salg,63,25317.0,2,1978,
 265,Villa,Enghaven 4,4000, Roskilde,3500000 ,08-03-2017,Alm. Salg,153,20468.0,5,1973,-3%
 265,Villa,Skolevej 23,4130, Viby Sjælland,2775000 ,08-03-2017,Alm. Salg,159,17453.0,5,2006,
-265,Ejerlejlighed,"Helligkorsvej 39, 1. 1",4000, Roskilde,1650000 ,07-03-2017,Alm. Salg,63,26190.0,4,1944,-1%
-265,Ejerlejlighed,Ejboparken 83A,4000, Roskilde,1650000 ,07-03-2017,Alm. Salg,78,21154.0,2,1989,
 265,Villa,Solsortevej 24,4000, Roskilde,4420000 ,07-03-2017,Alm. Salg,105,42095.0,4,1952,-4%
 265,Villa,Dronning Margrethes Vej 30,4000, Roskilde,7425000 ,07-03-2017,Alm. Salg,218,34060.0,7,1928,0%
 265,Villa,Åbakkevej 5,4130, Viby Sjælland,2995000 ,07-03-2017,Alm. Salg,168,17827.0,3,1717,-6%
@@ -8995,8 +8897,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Himmelev Bygade 76B,4000, Roskilde,3850000 ,08-12-2016,Andet,203,18966.0,5,1976,
 265,Villa,Præstemarksvej 76,4000, Roskilde,2485000 ,08-12-2016,Alm. Salg,101,24604.0,4,1961,-4%
 265,Rækkehus,Toppen 25,4000, Roskilde,3125249 ,07-12-2016,Alm. Salg,108,28937.0,3,2017,2%
-265,Ejerlejlighed,Sankt Ols Gade 15C,4000, Roskilde,1545000 ,07-12-2016,Alm. Salg,61,25328.0,2,1800,
-265,Ejerlejlighed,"Dommervænget 4A, 2. tv",4000, Roskilde,1545000 ,07-12-2016,Alm. Salg,79,19557.0,3,1968,-3%
 265,Ejerlejlighed,"Poppellunden 2, 3. tv",4000, Roskilde,2750000 ,07-12-2016,Alm. Salg,113,24336.0,4,2017,
 265,Villa,Nymarksvej 40,4000, Roskilde,2195000 ,07-12-2016,Alm. Salg,84,26131.0,3,1939,
 265,Villa,Hødersvej 7,4000, Roskilde,3400000 ,07-12-2016,Alm. Salg,116,29310.0,4,1957,
@@ -9154,17 +9054,13 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Runddyssevej 3,4000, Roskilde,2500000 ,07-11-2016,Alm. Salg,143,17483.0,4,1966,-5%
 265,Ejerlejlighed,"Holbækvej 26, 2. th",4000, Roskilde,1000000 ,06-11-2016,Fam. Salg,65,15385.0,3,1946,
 265,Ejerlejlighed,"Roskildevænget 58, st. tv",4000, Roskilde,1648000 ,06-11-2016,Alm. Salg,76,21684.0,3,1961,3%
-265,Ejerlejlighed,"Pærelunden 1, st. th",4000, Roskilde,2595000 ,06-11-2016,Alm. Salg,113,22965.0,4,2017,
-265,Ejerlejlighed,"Poppellunden 3, st. tv",4000, Roskilde,2595000 ,06-11-2016,Alm. Salg,108,24028.0,3,2017,
 265,Ejerlejlighed,"Poppellunden 3, st. th",4000, Roskilde,2195000 ,06-11-2016,Alm. Salg,102,21520.0,2,2017,
 265,Villa,Bakkedraget 14,4000, Roskilde,3100000 ,06-11-2016,Alm. Salg,132,23485.0,5,1963,-4%
 265,Ejerlejlighed,"Hersegade 20, 1. tv",4000, Roskilde,2499000 ,05-11-2016,Alm. Salg,87,28724.0,3,1935,
 265,Villa,Østervang 49,4000, Roskilde,3350000 ,05-11-2016,Alm. Salg,123,27236.0,4,1950,-4%
 265,Rækkehus,Åvej 19B,4000, Roskilde,3875000 ,03-11-2016,Alm. Salg,152,25493.0,6,1986,-3%
 265,Rækkehus,Søparken 11,4000, Roskilde,2395000 ,03-11-2016,Alm. Salg,124,19315.0,6,1974,
-265,Rækkehus,Haraldsborgvej 104,4000, Roskilde,2995000 ,03-11-2016,Alm. Salg,81,36975.0,4,1962,
 265,Ejerlejlighed,Th Nielsens Vej 14D,4000, Roskilde,1400000 ,03-11-2016,Alm. Salg,61,22951.0,2,1899,-5%
-265,Ejerlejlighed,"Poppellunden 2, 1. th",4000, Roskilde,2995000 ,03-11-2016,Alm. Salg,138,21703.0,4,2017,
 265,Ejerlejlighed,"Gartnervang 40, st. th",4000, Roskilde,1410000 ,02-11-2016,Alm. Salg,67,21045.0,2,1969,-4%
 265,Ejerlejlighed,"Poppellunden 5, st. th",4000, Roskilde,2995000 ,02-11-2016,Alm. Salg,137,21861.0,3,2017,
 265,Villa,Parkagervej 3,4621, Gadstrup,1995000 ,02-11-2016,Alm. Salg,105,19000.0,3,1966,
@@ -9831,9 +9727,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Karavelvej 14,4040, Jyllinge,2250000 ,13-05-2016,Alm. Salg,185,12162.0,6,1976,-2%
 265,Ejerlejlighed,"Ejboparken 71, st. th",4000, Roskilde,1275000 ,12-05-2016,Alm. Salg,78,16346.0,3,1969,-3%
 265,Ejerlejlighed,"Neergårdsparken 21, 1. 2",4000, Roskilde,795000 ,12-05-2016,Alm. Salg,38,20921.0,1,1968,
-265,Ejerlejlighed,"Jernbanegade 17, 1. tv",4000, Roskilde,3525000 ,12-05-2016,Fam. Salg,84,41964.0,3,1889,
-265,Ejerlejlighed,"Jernbanegade 17, 2",4000, Roskilde,3525000 ,12-05-2016,Fam. Salg,142,24824.0,5,1889,
-265,Ejerlejlighed,"Køgevej 1, 2",4000, Roskilde,3525000 ,12-05-2016,Fam. Salg,93,37903.0,3,1889,
 265,Villa,Holbækvej 78,4000, Roskilde,2400000 ,12-05-2016,Alm. Salg,93,25806.0,4,1926,
 265,Rækkehus,Østre Kirkevej 6K,4000, Roskilde,2595000 ,11-05-2016,Alm. Salg,90,28833.0,3,1998,
 265,Rækkehus,Bøgen 18,4000, Roskilde,2100000 ,11-05-2016,Alm. Salg,110,19091.0,4,1966,-3%
@@ -10633,8 +10526,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Ejerlejlighed,"Møllehusene 3, 3. tv",4000, Roskilde,3300000 ,21-10-2015,Alm. Salg,151,21854.0,4,1906,-3%
 265,Ejerlejlighed,"Skomagergade 25, 1. 203",4000, Roskilde,421300 ,21-10-2015,Andet,50,8426.0,1,1974,
 265,Ejerlejlighed,"Ejboparken 29, st. th",4000, Roskilde,1225000 ,21-10-2015,Alm. Salg,78,15705.0,3,1968,-11%
-265,Ejerlejlighed,"Gartnervang 46, st. th",4000, Roskilde,1495000 ,21-10-2015,Alm. Salg,79,18924.0,3,1969,
-265,Ejerlejlighed,"Ejboparken 41, 2. tv",4000, Roskilde,1495000 ,21-10-2015,Alm. Salg,82,18232.0,3,1969,
 265,Ejerlejlighed,"Grønnegade 16, st. th",4000, Roskilde,750000 ,21-10-2015,Andet,61,12295.0,4,1990,
 265,Villa,Klosterengen 91,4000, Roskilde,2935000 ,21-10-2015,Alm. Salg,131,22405.0,5,1965,-7%
 265,Villa,Strandvejen 7,4040, Jyllinge,4900000 ,21-10-2015,Alm. Salg,176,27841.0,6,1927,-2%
@@ -10779,12 +10670,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Rækkehus,Ramsøbakken 30,4621, Gadstrup,1900000 ,16-09-2015,Fam. Salg,96,19792.0,3,2008,
 265,Villa,Bøgevej 21,4040, Jyllinge,1345000 ,16-09-2015,Alm. Salg,71,18944.0,5,1962,-4%
 265,Villa,Østervang 19,4000, Roskilde,4000000 ,16-09-2015,Alm. Salg,176,22727.0,7,1944,0%
-265,Rækkehus,Hedemølleparken 23,4000, Roskilde,2250000 ,15-09-2015,Alm. Salg,105,21429.0,4,1980,-2%
 265,Ejerlejlighed,"Helligkorsvej 38, 2. tv",4000, Roskilde,600000 ,15-09-2015,Alm. Salg,34,17647.0,1,1938,1%
 265,Ejerlejlighed,"Dommervænget 6D, 2. tv",4000, Roskilde,1725000 ,15-09-2015,Alm. Salg,86,20058.0,4,1968,
 265,Ejerlejlighed,"Vestergade 9, 1",4000, Roskilde,2375000 ,15-09-2015,Alm. Salg,90,26389.0,3,1917,-1%
 265,Ejerlejlighed,"Ahornlunden 9, st. th",4000, Roskilde,2395000 ,15-09-2015,Alm. Salg,101,23713.0,3,2008,
-265,Villa,Rosenvang 10,4000, Roskilde,2250000 ,15-09-2015,Alm. Salg,139,16187.0,5,1966,-7%
 265,Villa,Lindevej 5,4040, Jyllinge,2195000 ,15-09-2015,Alm. Salg,107,20514.0,4,1997,
 265,Villa,Dronning Sofies Vej 92,4000, Roskilde,1812500 ,15-09-2015,Fam. Salg,116,15625.0,4,1951,
 265,Ejerlejlighed,"Gartnervang 42, 3. mf",4000, Roskilde,289000 ,14-09-2015,Fam. Salg,42,6881.0,1,1969,
@@ -10974,11 +10863,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Lystbådevej 38,4040, Jyllinge,1350000 ,29-07-2015,Alm. Salg,135,10000.0,6,1970,
 265,Rækkehus,Holmebakken 16,4000, Roskilde,2148000 ,28-07-2015,Alm. Salg,114,18842.0,3,2011,
 265,Rækkehus,Joensuuvej 18,4000, Roskilde,2350000 ,28-07-2015,Alm. Salg,88,26705.0,4,2006,
-265,Ejerlejlighed,"Gartnervang 12, 3. tv",4000, Roskilde,1500000 ,28-07-2015,Alm. Salg,78,19231.0,3,1967,-3%
 265,Ejerlejlighed,"Neergårdsparken 27, st. tv",4000, Roskilde,1195000 ,28-07-2015,Alm. Salg,62,19274.0,2,1968,
 265,Villa,Opalvej 2,4040, Jyllinge,2175000 ,28-07-2015,Alm. Salg,137,15876.0,5,1968,-5%
 265,Villa,Havevang 43,4000, Roskilde,2425000 ,28-07-2015,Alm. Salg,124,19556.0,4,1969,-2%
-265,Villa,Jernaldergården 2,4000, Roskilde,1500000 ,28-07-2015,Fam. Salg,158,9494.0,4,2012,
 265,Rækkehus,Terrasserne 50,4000, Roskilde,2650000 ,27-07-2015,Alm. Salg,101,26238.0,4,1982,
 265,Villa,Ametystvej 20,4040, Jyllinge,2075000 ,27-07-2015,Alm. Salg,128,16211.0,4,1970,-2%
 265,Villa,Plantagevej 6,4040, Jyllinge,1175000 ,27-07-2015,Alm. Salg,165,7121.0,4,2016,-2%
@@ -11194,7 +11081,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Ejerlejlighed,"Akacielunden 1, 1. th",4000, Roskilde,3195000 ,04-06-2015,Alm. Salg,133,24023.0,4,2015,
 265,Villa,Elmevej 19,4000, Roskilde,4499000 ,04-06-2015,Alm. Salg,145,31028.0,5,1951,
 265,Villa,Stenkrogen 49,4040, Jyllinge,3140000 ,04-06-2015,Alm. Salg,181,17348.0,6,1986,-2%
-265,Rækkehus,Linkøpingvej 157,4000, Roskilde,2195000 ,03-06-2015,Alm. Salg,79,27785.0,3,2006,2%
 265,Rækkehus,Egen 38,4000, Roskilde,2000000 ,03-06-2015,Alm. Salg,110,18182.0,5,1968,
 265,Rækkehus,Himmelev Bygade 32A,4000, Roskilde,1300000 ,03-06-2015,Fam. Salg,105,12381.0,4,2005,
 265,Rækkehus,Birkekær 33,4000, Roskilde,3364000 ,03-06-2015,Alm. Salg,125,26912.0,4,2016,
@@ -11202,7 +11088,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Bandholmvej 1,4000, Roskilde,1030876 ,03-06-2015,Fam. Salg,117,8811.0,4,1966,
 265,Villa,Vibevej 11,4130, Viby Sjælland,1470000 ,03-06-2015,Alm. Salg,100,14700.0,4,1964,-8%
 265,Villa,Syvskæppevej 7,4000, Roskilde,1207000 ,03-06-2015,Fam. Salg,175,6897.0,7,2006,
-265,Villa,Toftager 20,4000, Roskilde,2195000 ,03-06-2015,Alm. Salg,120,18292.0,4,1969,
 265,Villa,Nordtoften 28,4040, Jyllinge,2650000 ,03-06-2015,Alm. Salg,134,19776.0,5,1960,-2%
 265,Rækkehus,Agerhønevej 2,4000, Roskilde,2995000 ,02-06-2015,Alm. Salg,108,27731.0,3,2015,
 265,Ejerlejlighed,"Frederiksborgvej 38D, 2. 3",4000, Roskilde,1100000 ,02-06-2015,Alm. Salg,51,21569.0,1,1967,
@@ -11367,11 +11252,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Rækkehus,Kristiansminde 29,4000, Roskilde,2200000 ,27-04-2015,Alm. Salg,98,22449.0,3,2009,-3%
 265,Ejerlejlighed,"Ejboparken 55, 1. mf",4000, Roskilde,604539 ,27-04-2015,Auktion,43,14059.0,1,1967,
 265,Ejerlejlighed,"Blågårdsstræde 4, 2. tv",4000, Roskilde,2255916 ,27-04-2015,Alm. Salg,89,25347.0,3,1932,8%
-265,Rækkehus,Terrasserne 14,4000, Roskilde,2150000 ,26-04-2015,Alm. Salg,101,21287.0,3,1981,3%
 265,Rækkehus,Himmelev Have 10,4000, Roskilde,3555301 ,26-04-2015,Alm. Salg,103,34517.0,3,2015,
 265,Ejerlejlighed,"Gyvelvej 9, st. tv",4000, Roskilde,1570000 ,26-04-2015,Alm. Salg,82,19146.0,3,1962,-7%
 265,Ejerlejlighed,"Akacielunden 1, 2. tv",4000, Roskilde,3195000 ,26-04-2015,Alm. Salg,145,22034.0,4,2015,
-265,Villa,Engbækvej 6,4000, Roskilde,2150000 ,26-04-2015,Alm. Salg,125,17200.0,3,1700,-6%
 265,Villa,Mørbjergvænget 56,4000, Roskilde,2300000 ,26-04-2015,Alm. Salg,143,16084.0,4,1971,
 265,Villa,Kærholmen 17,4000, Roskilde,750000 ,26-04-2015,Alm. Salg,145,5172.0,4,2016,-6%
 265,Rækkehus,Ternevej 7C,4000, Roskilde,2600000 ,25-04-2015,Alm. Salg,88,29545.0,3,2002,
@@ -11603,10 +11486,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Dragevej 39,4040, Jyllinge,2046000 ,09-03-2015,Fam. Salg,136,15044.0,4,1969,
 265,Villa,Fyrrevej 1,4040, Jyllinge,852628 ,09-03-2015,Andet,150,5684.0,7,2005,
 265,Rækkehus,Himmelev Have 38,4000, Roskilde,3110850 ,08-03-2015,Alm. Salg,115,27051.0,4,2015,
-265,Rækkehus,Skovmosevej 10,4000, Roskilde,2895000 ,08-03-2015,Alm. Salg,125,23160.0,5,2015,
 265,Rækkehus,Skovmosevej 6,4000, Roskilde,2685000 ,08-03-2015,Alm. Salg,125,21480.0,4,2015,
 265,Ejerlejlighed,"Møllehusene 3, 1. th",4000, Roskilde,1750000 ,08-03-2015,Alm. Salg,117,14957.0,2,1906,
-265,Ejerlejlighed,"Akacielunden 7, 2. tv",4000, Roskilde,2895000 ,08-03-2015,Alm. Salg,133,21767.0,4,2015,
 265,Villa,Lilletoften 4,4040, Jyllinge,1425000 ,08-03-2015,Alm. Salg,212,6722.0,5,2015,-5%
 265,Villa,Københavnsvej 104,4000, Roskilde,1825000 ,08-03-2015,Alm. Salg,95,19211.0,5,1943,-4%
 265,Villa,Marken 4,4000, Roskilde,1360000 ,08-03-2015,Alm. Salg,174,7816.0,4,2016,
@@ -11686,7 +11567,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Nyvang 23,4000, Roskilde,3050000 ,19-02-2015,Alm. Salg,143,21329.0,6,1954,-10%
 265,Villa,Agnetevej 19,4040, Jyllinge,1975000 ,19-02-2015,Alm. Salg,115,17174.0,4,1995,-6%
 265,Ejerlejlighed,"Blågårdsstræde 4, 2. th",4000, Roskilde,2000000 ,18-02-2015,Alm. Salg,86,23256.0,3,1932,-5%
-265,Villa,Frederiksborgvej 169,4000, Roskilde,6550000 ,18-02-2015,Alm. Salg,155,42258.0,5,1958,-2%
 265,Villa,Kirkegårdsvej 1,4000, Roskilde,1600000 ,18-02-2015,Alm. Salg,148,10811.0,6,1974,-11%
 265,Rækkehus,Helligkorsvej 50,4000, Roskilde,2755000 ,17-02-2015,Alm. Salg,116,23750.0,4,1933,4%
 265,Rækkehus,Ejlesøvej 2,4000, Roskilde,2225000 ,17-02-2015,Alm. Salg,119,18697.0,4,1980,
@@ -11700,13 +11580,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Jernaldermarken 37,4000, Roskilde,4700000 ,16-02-2015,Alm. Salg,175,26857.0,6,2008,-1%
 265,Rækkehus,Lynghøjen 45,4000, Roskilde,1825000 ,15-02-2015,Alm. Salg,85,21471.0,3,1989,1%
 265,Rækkehus,Ramsøbakken 20,4621, Gadstrup,2250000 ,15-02-2015,Alm. Salg,121,18595.0,4,2008,
-265,Ejerlejlighed,"Roskildevænget 36, 2. tv",4000, Roskilde,1375000 ,15-02-2015,Alm. Salg,72,19097.0,3,1961,
-265,Ejerlejlighed,Løvparken 4F,4000, Roskilde,1375000 ,15-02-2015,Alm. Salg,73,18836.0,2,1974,-1%
 265,Ejerlejlighed,"Gartnervang 24, st. mf",4000, Roskilde,900000 ,15-02-2015,Alm. Salg,41,21951.0,1,1968,-5%
 265,Villa,Vibevej 42,4130, Viby Sjælland,2050000 ,15-02-2015,Alm. Salg,199,10302.0,8,1967,-5%
 265,Villa,Lindevej 46,4000, Roskilde,1991000 ,15-02-2015,Fam. Salg,127,15677.0,6,1943,
 265,Villa,Svend Estridsens Vej 6,4000, Roskilde,4995000 ,15-02-2015,Alm. Salg,136,36728.0,5,1958,-4%
-265,Villa,Elleorevej 20,4000, Roskilde,6900000 ,14-02-2015,Alm. Salg,162,42593.0,5,1984,
 265,Villa,Grævlingbakken 9,4000, Roskilde,1460000 ,14-02-2015,Alm. Salg,254,5748.0,6,2017,-68%
 265,Villa,Elmevej 43,4000, Roskilde,3500000 ,13-02-2015,Alm. Salg,151,23179.0,5,1955,0%
 265,Ejerlejlighed,"Himmelev Have 1, 1. 4",4000, Roskilde,2674123 ,12-02-2015,Alm. Salg,94,28448.0,2,2016,
@@ -12074,9 +11951,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Isafjordvej 13,4000, Roskilde,4600000 ,06-11-2014,Alm. Salg,150,30667.0,5,2003,
 265,Villa,Skovmosevej 19,4000, Roskilde,1595584 ,06-11-2014,Alm. Salg,162,9849.0,5,2016,
 265,Villa,Skovmosevej 5,4000, Roskilde,1395000 ,06-11-2014,Alm. Salg,158,8829.0,5,2015,
-265,Rækkehus,Hedemølleparken 4,4000, Roskilde,2150000 ,05-11-2014,Alm. Salg,105,20476.0,4,1980,-2%
 265,Ejerlejlighed,"Holbækvej 12, 3. th",4000, Roskilde,1065000 ,05-11-2014,Alm. Salg,57,18684.0,2,1945,-3%
-265,Ejerlejlighed,"Ahornlunden 11, st. 3",4000, Roskilde,2150000 ,05-11-2014,Alm. Salg,103,20874.0,3,2014,
 265,Villa,Gulddyssevej 44,4000, Roskilde,870000 ,05-11-2014,Auktion,130,6692.0,4,1966,
 265,Villa,Bakkeager 36,4040, Jyllinge,3235000 ,05-11-2014,Alm. Salg,139,23273.0,4,1996,-5%
 265,Villa,Hedegårdsvej 17,4000, Roskilde,3200000 ,04-11-2014,Alm. Salg,126,25397.0,3,1933,-3%
@@ -12148,13 +12023,11 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Ejerlejlighed,"Holbækvej 2, 2. tv",4000, Roskilde,1895000 ,19-10-2014,Alm. Salg,101,18762.0,3,1969,
 265,Villa,Søndergade 27A,4130, Viby Sjælland,2300000 ,19-10-2014,Alm. Salg,186,12366.0,5,1904,-8%
 265,Villa,Knud Den Stores Vej 9,4000, Roskilde,4100000 ,19-10-2014,Alm. Salg,189,21693.0,7,1952,-4%
-265,Rækkehus,Smedegårdsparken 29,4000, Roskilde,2400000 ,18-10-2014,Alm. Salg,140,17143.0,6,1978,
 265,Ejerlejlighed,"Roskildevænget 50, st. tv",4000, Roskilde,1245000 ,18-10-2014,Alm. Salg,62,20081.0,2,1961,-2%
 265,Ejerlejlighed,Linkøpingvej 27,4000, Roskilde,2000000 ,18-10-2014,Alm. Salg,109,18349.0,3,2008,-2%
 265,Villa,Strandparken 1,4000, Roskilde,3800000 ,18-10-2014,Alm. Salg,147,25850.0,4,1969,-5%
 265,Villa,Anemonevej 11,4040, Jyllinge,1795000 ,18-10-2014,Alm. Salg,100,17950.0,4,1986,
 265,Villa,Strandparken 8,4000, Roskilde,3575000 ,18-10-2014,Alm. Salg,149,23993.0,5,1969,-6%
-265,Villa,Mørbjergparken 54,4000, Roskilde,2400000 ,18-10-2014,Alm. Salg,143,16783.0,3,1971,-4%
 265,Villa,Skovmosevej 15,4000, Roskilde,1475000 ,18-10-2014,Alm. Salg,167,8832.0,5,2015,
 265,Rækkehus,Himmelev Have 66,4000, Roskilde,2920621 ,16-10-2014,Alm. Salg,115,25397.0,4,2015,
 265,Ejerlejlighed,"Neergårdsparken 39, 2. 2",4000, Roskilde,550000 ,16-10-2014,Alm. Salg,38,14474.0,1,1968,
@@ -12166,11 +12039,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Ramsøbakken 95,4621, Gadstrup,975000 ,15-10-2014,Alm. Salg,209,4665.0,4,2016,-7%
 265,Villa,Asylgade 36,4000, Roskilde,3000000 ,15-10-2014,Alm. Salg,173,17341.0,5,1911,-12%
 265,Villa,Villavej 5,4000, Roskilde,6000000 ,14-10-2014,Alm. Salg,195,30769.0,9,1898,-25%
-265,Rækkehus,Terrasserne 3,4000, Roskilde,2150000 ,13-10-2014,Alm. Salg,101,21287.0,3,1981,-2%
 265,Rækkehus,Haraldsborgvej 110,4000, Roskilde,2300000 ,13-10-2014,Alm. Salg,81,28395.0,4,1962,
 265,Ejerlejlighed,"Roskildevænget 41, 2. th",4000, Roskilde,1200000 ,13-10-2014,Alm. Salg,62,19355.0,3,1962,-2%
 265,Ejerlejlighed,"Roskildevænget 24, 1. th",4000, Roskilde,1345000 ,13-10-2014,Alm. Salg,71,18944.0,3,1962,
-265,Villa,Lønbjergparken 63,4000, Roskilde,2150000 ,13-10-2014,Alm. Salg,136,15809.0,5,1972,-6%
 265,Villa,Humlebakken 6,4000, Roskilde,3585000 ,13-10-2014,Alm. Salg,164,21860.0,7,2005,-6%
 265,Villa,Kirsebærhaven 13,4000, Roskilde,3150000 ,13-10-2014,Alm. Salg,135,23333.0,5,1971,
 265,Villa,Horsevænget 19,4130, Viby Sjælland,1950000 ,13-10-2014,Alm. Salg,174,11207.0,5,1973,-2%
@@ -12463,7 +12334,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Ejerlejlighed,"Hedevænget 2, 1. th",4000, Roskilde,775000 ,09-07-2014,Alm. Salg,47,16489.0,1,1961,
 265,Villa,Ahornvej 19,4040, Jyllinge,1150000 ,09-07-2014,Alm. Salg,173,6647.0,3,2016,-6%
 265,Villa,Kærholmen 8,4000, Roskilde,849000 ,09-07-2014,Alm. Salg,153,5549.0,5,2015,-5%
-265,Rækkehus,Ved Toftekæret 2,4000, Roskilde,6092000 ,08-07-2014,Alm. Salg,144,42306.0,4,2016,
 265,Ejerlejlighed,"Knud Den Stores Vej 38, 1. 110",4000, Roskilde,1795000 ,08-07-2014,Alm. Salg,94,19096.0,3,1969,
 265,Villa,Fjordvej 14,4000, Roskilde,3200000 ,08-07-2014,Alm. Salg,130,24615.0,6,1939,-3%
 265,Villa,Dronning Sofies Vej 21,4000, Roskilde,2523000 ,08-07-2014,Andet,121,20851.0,3,1953,
@@ -12477,11 +12347,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Bygvej 14,4040, Jyllinge,2325000 ,06-07-2014,Alm. Salg,164,14177.0,5,1965,-7%
 265,Villa,Svanevej 17,4000, Roskilde,2100000 ,06-07-2014,Alm. Salg,176,11932.0,5,2015,-6%
 265,Villa,Toftevangen 27,4130, Viby Sjælland,312500 ,06-07-2014,Alm. Salg,181,1727.0,6,1970,
-265,Ejerlejlighed,"Grønnegade 16, st. tv",4000, Roskilde,1500000 ,03-07-2014,Alm. Salg,48,31250.0,1,1990,
-265,Ejerlejlighed,"Frederiksborgvej 523C, 1. 3",4000, Roskilde,1500000 ,03-07-2014,Alm. Salg,62,24194.0,2,1920,
-265,Ejerlejlighed,"Frederiksborgvej 523C, st. th",4000, Roskilde,1500000 ,03-07-2014,Alm. Salg,118,12712.0,3,1920,
-265,Ejerlejlighed,"Frederiksborgvej 523C, 1. 2",4000, Roskilde,1500000 ,03-07-2014,Alm. Salg,121,12397.0,3,1920,
-265,Ejerlejlighed,"Frederiksborgvej 523C, 1. 1",4000, Roskilde,1500000 ,03-07-2014,Alm. Salg,41,36585.0,1,1920,
 265,Villa,Brøndgade 1,4000, Roskilde,2250000 ,03-07-2014,Alm. Salg,125,18000.0,4,1822,
 265,Villa,Ageren 4,4000, Roskilde,573600 ,03-07-2014,Alm. Salg,146,3929.0,6,2015,
 265,Villa,Sankt Jørgens Vej 22,4000, Roskilde,5400000 ,03-07-2014,Alm. Salg,150,36000.0,4,2010,-5%
@@ -12741,10 +12606,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Østervang 90,4000, Roskilde,2520000 ,23-04-2014,Alm. Salg,121,20826.0,4,1968,-3%
 265,Villa,Marken 7,4000, Roskilde,1165000 ,23-04-2014,Alm. Salg,195,5974.0,7,2015,
 265,Villa,Tofteengen 40,4000, Roskilde,3995000 ,23-04-2014,Alm. Salg,156,25609.0,4,2010,
-265,Rækkehus,Terrasserne 43,4000, Roskilde,2300000 ,22-04-2014,Alm. Salg,120,19167.0,5,1982,-1%
 265,Rækkehus,Linkøpingvej 149,4000, Roskilde,1845000 ,22-04-2014,Alm. Salg,77,23961.0,3,2006,-8%
 265,Ejerlejlighed,"Roskildevænget 8, 1. th",4000, Roskilde,1345000 ,22-04-2014,Alm. Salg,71,18944.0,3,1962,0%
-265,Ejerlejlighed,Linkøpingvej 61,4000, Roskilde,2300000 ,22-04-2014,Alm. Salg,126,18254.0,4,2008,
 265,Villa,Nymarksvej 22,4000, Roskilde,1460000 ,22-04-2014,Alm. Salg,173,8439.0,5,2015,
 265,Villa,Toftevangen 53,4130, Viby Sjælland,725000 ,22-04-2014,Andet,112,6473.0,4,1972,
 265,Ejerlejlighed,"Neergårdsparken 31, 2. 3",4000, Roskilde,475000 ,21-04-2014,Alm. Salg,38,12500.0,1,1968,-10%
@@ -12926,7 +12789,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Fjordparken 5,4000, Roskilde,3725000 ,18-02-2014,Alm. Salg,154,24188.0,5,1970,
 265,Rækkehus,Agerkrogen 2,4040, Jyllinge,2300000 ,17-02-2014,Alm. Salg,140,16429.0,3,2003,-4%
 265,Villa,Nymarksvej 35,4000, Roskilde,1700000 ,17-02-2014,Auktion,100,17000.0,3,1930,
-265,Villa,Bregnevej 27,4000, Roskilde,2200000 ,17-02-2014,Alm. Salg,187,11765.0,6,2014,-4%
 265,Villa,Assendløsevejen 68,4130, Viby Sjælland,700000 ,17-02-2014,Auktion,90,7778.0,3,1952,-22%
 265,Rækkehus,Holmehøjen 20,4000, Roskilde,2182500 ,16-02-2014,Alm. Salg,121,18037.0,4,2014,0%
 265,Ejerlejlighed,Ringstedgade 76D,4000, Roskilde,2350000 ,16-02-2014,Alm. Salg,137,17153.0,3,1788,
@@ -13207,18 +13069,15 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Krydservej 28,4040, Jyllinge,1595000 ,30-10-2013,Alm. Salg,148,10777.0,5,1970,
 265,Villa,Dronning Sofies Vej 121,4000, Roskilde,2190000 ,30-10-2013,Alm. Salg,142,15423.0,4,1962,-9%
 265,Villa,Møllehusvej 88,4000, Roskilde,2490000 ,29-10-2013,Alm. Salg,119,20924.0,5,1943,
-265,Rækkehus,Klosterengen 54N,4000, Roskilde,2350000 ,28-10-2013,Alm. Salg,91,25824.0,4,1988,
 265,Ejerlejlighed,"Roskildevænget 39, st. th",4000, Roskilde,1249000 ,28-10-2013,Alm. Salg,72,17347.0,3,1962,
 265,Ejerlejlighed,"Roskildevænget 43, st. tv",4000, Roskilde,1252000 ,28-10-2013,Alm. Salg,77,16260.0,3,1962,
 265,Ejerlejlighed,"Dommervænget 12B, 2. th",4000, Roskilde,1375000 ,28-10-2013,Alm. Salg,87,15805.0,4,1968,-1%
 265,Villa,Fuglebakken 7,4000, Roskilde,3750000 ,28-10-2013,Alm. Salg,148,25338.0,4,1966,-1%
 265,Villa,Stenkær 17,4000, Roskilde,3795000 ,28-10-2013,Alm. Salg,160,23719.0,6,2005,-10%
-265,Villa,Nordgaardsvej 1A,4000, Roskilde,2350000 ,28-10-2013,Alm. Salg,128,18359.0,4,1973,-2%
 265,Villa,Fynsvej 51,4000, Roskilde,2395000 ,28-10-2013,Alm. Salg,144,16632.0,5,1967,
 265,Rækkehus,Terrasserne 78,4000, Roskilde,2495000 ,27-10-2013,Alm. Salg,99,25202.0,4,1982,
 265,Rækkehus,Ramsøbakken 14,4621, Gadstrup,2095000 ,27-10-2013,Alm. Salg,121,17314.0,4,2007,-3%
 265,Ejerlejlighed,"Vognmandsmarken 10, 2. mf",4000, Roskilde,690000 ,27-10-2013,Alm. Salg,42,16429.0,1,1971,-5%
-265,Villa,Vestergade 42,4000, Roskilde,2200000 ,27-10-2013,Alm. Salg,140,15714.0,4,1934,
 265,Villa,Aastoften 16,4000, Roskilde,1745000 ,27-10-2013,Alm. Salg,174,10029.0,6,1966,
 265,Villa,Svaleøvej 7,4000, Roskilde,3850000 ,27-10-2013,Alm. Salg,153,25163.0,7,1942,-6%
 265,Ejerlejlighed,"Ejboparken 55, st. tv",4000, Roskilde,1240000 ,26-10-2013,Alm. Salg,78,15897.0,3,1967,-4%
@@ -13229,10 +13088,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Rytterkær 25,4000, Roskilde,4000000 ,24-10-2013,Alm. Salg,187,21390.0,5,1900,-3%
 265,Villa,Mørbjergparken 11,4000, Roskilde,2625000 ,24-10-2013,Alm. Salg,143,18357.0,5,1971,-6%
 265,Villa,Skovbovængets Alle 25,4000, Roskilde,3205000 ,24-10-2013,Alm. Salg,135,23741.0,5,1907,7%
-265,Ejerlejlighed,"Borgediget 47, 1. th",4000, Roskilde,3903858 ,23-10-2013,Auktion,115,33947.0,4,1914,
-265,Ejerlejlighed,"Borgediget 47, 1. tv",4000, Roskilde,3903858 ,23-10-2013,Auktion,95,41093.0,3,1914,
-265,Ejerlejlighed,"Borgediget 47, 2. th",4000, Roskilde,3903858 ,23-10-2013,Auktion,115,33947.0,4,1914,
-265,Ejerlejlighed,"Borgediget 47, 2. tv",4000, Roskilde,3903858 ,23-10-2013,Auktion,95,41093.0,3,1914,
 265,Ejerlejlighed,"Havnevej 22, st. tv",4000, Roskilde,1575000 ,23-10-2013,Alm. Salg,78,20192.0,3,1960,
 265,Villa,Samsøvej 8,4000, Roskilde,1800000 ,23-10-2013,Alm. Salg,151,11921.0,5,1960,-2%
 265,Villa,Kildeager 5,4621, Gadstrup,1150000 ,23-10-2013,Alm. Salg,133,8647.0,5,1963,-4%
@@ -13416,14 +13271,12 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Grævlingbakken 9,4000, Roskilde,1216000 ,27-08-2013,Alm. Salg,254,4787.0,6,2017,-20%
 265,Villa,Odensevej 34,4000, Roskilde,3500000 ,26-08-2013,Alm. Salg,151,23179.0,4,1961,-7%
 265,Villa,Dronning Sofies Vej 33,4000, Roskilde,4300000 ,26-08-2013,Alm. Salg,176,24432.0,6,1968,-4%
-265,Rækkehus,Nymarks Vænge 33,4000, Roskilde,2300000 ,25-08-2013,Alm. Salg,124,18548.0,5,1962,-4%
 265,Ejerlejlighed,"Møllehusene 3, 2. tv",4000, Roskilde,1675000 ,25-08-2013,Alm. Salg,91,18407.0,2,1906,-7%
 265,Ejerlejlighed,"Roskildevænget 41, 2. tv",4000, Roskilde,1105000 ,25-08-2013,Alm. Salg,72,15347.0,3,1962,
 265,Ejerlejlighed,"Ro's Have 18B, 1. 9",4000, Roskilde,2875000 ,25-08-2013,Alm. Salg,121,23760.0,3,2008,-4%
 265,Villa,Bjældevej 18,4000, Roskilde,5750000 ,25-08-2013,Alm. Salg,198,29040.0,5,1962,
 265,Villa,I P Hansens Vej 19,4000, Roskilde,3400000 ,25-08-2013,Alm. Salg,114,29825.0,5,1957,-3%
 265,Villa,Sløjen 8,4000, Roskilde,1022000 ,25-08-2013,Alm. Salg,162,6309.0,5,1965,
-265,Villa,Stenlandsvej 38,4000, Roskilde,2300000 ,25-08-2013,Alm. Salg,143,16084.0,4,1969,
 265,Villa,Fynsvej 45,4000, Roskilde,2350000 ,25-08-2013,Alm. Salg,112,20982.0,4,1965,-2%
 265,Villa,Neptunvej 12,4040, Jyllinge,2575000 ,24-08-2013,Alm. Salg,185,13919.0,6,1971,-8%
 265,Rækkehus,Jyllingeparken 36,4040, Jyllinge,2150000 ,22-08-2013,Alm. Salg,123,17480.0,4,1978,
@@ -13451,7 +13304,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Ejerlejlighed,"Havnevej 34, st. th",4000, Roskilde,1620000 ,14-08-2013,Alm. Salg,85,19059.0,3,1960,
 265,Villa,Egesvinget 21,4040, Jyllinge,1195000 ,14-08-2013,Alm. Salg,210,5690.0,7,2021,-10%
 265,Villa,Bogensevej 17,4000, Roskilde,2250000 ,14-08-2013,Alm. Salg,168,13393.0,6,2016,-6%
-265,Villa,Frederiksborgvej 123E,4000, Roskilde,10800000 ,14-08-2013,Alm. Salg,255,42353.0,9,1914,
 265,Villa,Østervænget 39,4000, Roskilde,1295000 ,14-08-2013,Alm. Salg,204,6348.0,6,2015,
 265,Villa,Tårnvang 4,4000, Roskilde,2750000 ,13-08-2013,Alm. Salg,88,31250.0,3,1934,-4%
 265,Villa,Lokesvej 1,4000, Roskilde,2000000 ,13-08-2013,Alm. Salg,125,16000.0,4,1957,
@@ -13730,11 +13582,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Vestergade 50,4000, Roskilde,3370000 ,27-04-2013,Alm. Salg,132,25530.0,5,1936,-5%
 265,Villa,Rugvej 14,4040, Jyllinge,850000 ,26-04-2013,Andet,83,10241.0,4,1971,
 265,Ejerlejlighed,"Roskildevænget 33, 2. th",4000, Roskilde,1220000 ,24-04-2013,Alm. Salg,76,16053.0,3,1960,-2%
-265,Ejerlejlighed,"Holbækvej 18, st. th",4000, Roskilde,995000 ,24-04-2013,Alm. Salg,65,15308.0,3,1946,
 265,Villa,Bygaden 31,4040, Jyllinge,5225000 ,24-04-2013,Alm. Salg,156,33494.0,6,1926,-4%
 265,Villa,Henrik Nielsens Vej 30,4000, Roskilde,2400000 ,24-04-2013,Alm. Salg,118,20339.0,4,1946,-6%
 265,Villa,Fasanvej 3,4000, Roskilde,3020000 ,24-04-2013,Alm. Salg,108,27963.0,4,1952,-5%
-265,Villa,Tofteengen 17,4000, Roskilde,995000 ,24-04-2013,Alm. Salg,185,5378.0,6,2015,
 265,Villa,Ageren 18,4000, Roskilde,1048004 ,24-04-2013,Alm. Salg,166,6313.0,5,2014,
 265,Villa,Tønsbergvej 1,4000, Roskilde,2900000 ,24-04-2013,Alm. Salg,136,21324.0,6,2006,-3%
 265,Rækkehus,Lynghøjen 29,4000, Roskilde,1650000 ,23-04-2013,Alm. Salg,85,19412.0,3,1989,-1%
@@ -13789,14 +13639,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Stormandshøjen 8,4000, Roskilde,1600000 ,03-04-2013,Alm. Salg,171,9357.0,5,2014,
 265,Rækkehus,Pilekrogen 1A,4000, Roskilde,1450000 ,02-04-2013,Alm. Salg,98,14796.0,3,1983,-9%
 265,Rækkehus,Østervænget 22,4000, Roskilde,2845000 ,02-04-2013,Alm. Salg,137,20766.0,3,2013,
-265,Ejerlejlighed,"Hovedgaden 10A, st",4000, Roskilde,2850000 ,02-04-2013,Alm. Salg,123,23171.0,5,1937,
-265,Ejerlejlighed,"Hovedgaden 10B, 1",4000, Roskilde,2850000 ,02-04-2013,Alm. Salg,84,33929.0,4,1937,
-265,Ejerlejlighed,"Hovedgaden 10B, st",4000, Roskilde,2850000 ,02-04-2013,Alm. Salg,85,33529.0,2,1937,
 265,Ejerlejlighed,"Roskildevænget 6, 1. tv",4000, Roskilde,1175000 ,02-04-2013,Alm. Salg,71,16549.0,3,1962,-1%
 265,Ejerlejlighed,"Knud Den Stores Vej 38, 3. 116",4000, Roskilde,1340000 ,02-04-2013,Alm. Salg,67,20000.0,2,1969,-4%
-265,Ejerlejlighed,"Ryttergårdsvej 1A, 1",4000, Roskilde,2850000 ,02-04-2013,Alm. Salg,92,30978.0,3,1937,
-265,Ejerlejlighed,"Ryttergårdsvej 1B, 1",4000, Roskilde,2850000 ,02-04-2013,Alm. Salg,69,41304.0,2,1937,
-265,Ejerlejlighed,"Ryttergårdsvej 1B, st",4000, Roskilde,2850000 ,02-04-2013,Alm. Salg,117,24359.0,3,1937,
 265,Rækkehus,Østervænget 12,4000, Roskilde,2595000 ,01-04-2013,Alm. Salg,128,20273.0,3,2013,
 265,Villa,Stærevej 22,4040, Jyllinge,4500000 ,01-04-2013,Andet,298,15101.0,10,2008,
 265,Villa,Vestergade 39,4000, Roskilde,1423605 ,31-03-2013,Alm. Salg,90,15818.0,3,1955,
@@ -14075,8 +13919,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Ledagervej 27,4000, Roskilde,1575000 ,18-12-2012,Alm. Salg,72,21875.0,3,1951,-21%
 265,Villa,Marken 15,4000, Roskilde,1335000 ,18-12-2012,Alm. Salg,225,5933.0,8,2013,
 265,Rækkehus,Holmehøjen 40,4000, Roskilde,2095000 ,17-12-2012,Alm. Salg,114,18377.0,4,2012,
-265,Ejerlejlighed,"Jernbanegade 33, st. mf",4000, Roskilde,1100000 ,17-12-2012,Alm. Salg,79,13924.0,3,1900,-12%
-265,Ejerlejlighed,"Roskildevænget 3, 1. th",4000, Roskilde,1100000 ,17-12-2012,Alm. Salg,72,15278.0,3,1960,
 265,Ejerlejlighed,"Kløvervej 19, 1",4000, Roskilde,1750000 ,17-12-2012,Alm. Salg,106,16509.0,3,1947,-8%
 265,Villa,Fiskervejen 68,4000, Roskilde,6500000 ,17-12-2012,Alm. Salg,296,21959.0,6,1974,-13%
 265,Villa,Frederiksborgvej 126,4000, Roskilde,7150000 ,17-12-2012,Alm. Salg,232,30819.0,7,1932,-11%
@@ -14417,11 +14259,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Ejerlejlighed,"Gartnervang 2E, st. th",4000, Roskilde,1295000 ,29-08-2012,Alm. Salg,70,18500.0,2,1978,
 265,Ejerlejlighed,"Borgediget 14B, 2. th",4000, Roskilde,985000 ,29-08-2012,Alm. Salg,48,20521.0,2,1903,-1%
 265,Ejerlejlighed,"Roskildevænget 51, 1. th",4000, Roskilde,1280000 ,29-08-2012,Alm. Salg,76,16842.0,3,1962,
-265,Ejerlejlighed,"Roskildevænget 20, 2. th",4000, Roskilde,1000000 ,29-08-2012,Alm. Salg,57,17544.0,2,1962,
 265,Villa,Lysevangsvej 8,4000, Roskilde,887060 ,29-08-2012,Alm. Salg,136,6523.0,6,1907,
 265,Villa,Rødbyvej 5,4000, Roskilde,5500000 ,29-08-2012,Alm. Salg,224,24554.0,6,1966,10%
 265,Villa,Elisevej 7,4130, Viby Sjælland,2399000 ,29-08-2012,Alm. Salg,180,12495.0,7,1976,
-265,Villa,Præstemarksvej 56,4000, Roskilde,1000000 ,29-08-2012,Fam. Salg,199,5025.0,4,1900,
 265,Ejerlejlighed,"Neergårdsparken 25, st. mf",4000, Roskilde,602121 ,28-08-2012,Fam. Salg,39,15439.0,1,1968,
 265,Villa,Rådalsgård Strandpark 39,4040, Jyllinge,2850000 ,28-08-2012,Alm. Salg,355,8028.0,5,2014,-8%
 265,Villa,Søbredden 41,4000, Roskilde,2875000 ,28-08-2012,Alm. Salg,150,19167.0,4,1976,
@@ -14651,7 +14491,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Marken 18,4000, Roskilde,1391000 ,06-06-2012,Alm. Salg,155,8974.0,5,2013,
 265,Rækkehus,Ellekærvej 3,4000, Roskilde,1150000 ,05-06-2012,Andet,120,9583.0,5,2007,
 265,Rækkehus,Kometvej 27,4040, Jyllinge,1530000 ,05-06-2012,Alm. Salg,111,13784.0,4,1977,-10%
-265,Rækkehus,Toppen 229,4000, Roskilde,5445500 ,05-06-2012,Alm. Salg,128,42543.0,4,2013,
 265,Rækkehus,Kristiansminde 38,4000, Roskilde,2425000 ,05-06-2012,Alm. Salg,102,23775.0,4,2007,-3%
 265,Villa,Sandparken 12,4000, Roskilde,1100000 ,05-06-2012,Alm. Salg,128,8594.0,4,1990,
 265,Villa,Kastanievænget 14,4130, Viby Sjælland,1670000 ,05-06-2012,Alm. Salg,118,14153.0,4,1966,-1%
@@ -15008,8 +14847,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Ejerlejlighed,"Ejboparken 75, 1. th",4000, Roskilde,1035000 ,08-01-2012,Alm. Salg,78,13269.0,3,1969,-6%
 265,Villa,Ageren 29,4000, Roskilde,1667000 ,08-01-2012,Alm. Salg,220,7577.0,8,2014,
 265,Villa,Marken 3,4000, Roskilde,1201000 ,08-01-2012,Alm. Salg,179,6709.0,4,2012,
-265,Rækkehus,Jyllingeparken 12,4040, Jyllinge,1750000 ,07-01-2012,Alm. Salg,119,14706.0,4,1978,-5%
-265,Villa,Evertvej 11,4040, Jyllinge,1750000 ,07-01-2012,Alm. Salg,136,12868.0,5,1970,-8%
 265,Villa,Bakkeager 16,4040, Jyllinge,3725000 ,05-01-2012,Alm. Salg,174,21408.0,5,2003,-7%
 265,Villa,Tværengen 5,4000, Roskilde,2350000 ,05-01-2012,Alm. Salg,161,14596.0,4,1968,-2%
 265,Villa,Lysevangsvej 11,4000, Roskilde,1650000 ,05-01-2012,Alm. Salg,147,11224.0,5,1900,
@@ -15896,8 +15733,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Rækkehus,Ladegårdsvej 36,4000, Roskilde,625000 ,15-12-2010,Alm. Salg,98,6378.0,4,1982,
 265,Rækkehus,Gyldenkærnevej 15,4000, Roskilde,3390000 ,15-12-2010,Alm. Salg,134,25299.0,4,2005,
 265,Ejerlejlighed,"Roskildevænget 42, 2. th",4000, Roskilde,1290000 ,15-12-2010,Alm. Salg,76,16974.0,3,1961,-4%
-265,Ejerlejlighed,Løvparken 2G,4000, Roskilde,950000 ,15-12-2010,Alm. Salg,73,13014.0,2,1974,-5%
-265,Ejerlejlighed,"Roskildevænget 61, 1. th",4000, Roskilde,950000 ,15-12-2010,Alm. Salg,62,15323.0,2,1962,-5%
 265,Ejerlejlighed,"Haraldsborgvej 4B, st. tv",4000, Roskilde,701730 ,15-12-2010,Alm. Salg,43,16319.0,1,1959,-14%
 265,Ejerlejlighed,"Gyvelvej 12A, st. th",4000, Roskilde,1250000 ,15-12-2010,Alm. Salg,75,16667.0,3,1967,
 265,Villa,Lindevej 47,4000, Roskilde,3300000 ,15-12-2010,Alm. Salg,179,18436.0,5,1943,-6%
@@ -15963,7 +15798,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Tofteengen 21,4000, Roskilde,1275000 ,20-11-2010,Alm. Salg,170,7500.0,5,2013,-6%
 265,Villa,Tofteengen 1,4000, Roskilde,900000 ,20-11-2010,Alm. Salg,157,5732.0,5,2011,-3%
 265,Villa,Tornager 13,4000, Roskilde,2350000 ,18-11-2010,Alm. Salg,162,14506.0,6,1968,
-265,Rækkehus,Rønne Alle 27,4000, Roskilde,2065000 ,17-11-2010,Alm. Salg,140,14750.0,4,1929,-10%
 265,Rækkehus,Vesttoften 13A,4040, Jyllinge,2552000 ,17-11-2010,Alm. Salg,149,17128.0,5,1920,
 265,Rækkehus,Vesttoften 9A,4040, Jyllinge,1958000 ,17-11-2010,Alm. Salg,173,11318.0,6,1800,
 265,Ejerlejlighed,"Roskildevænget 8, 2. tv",4000, Roskilde,1195000 ,17-11-2010,Alm. Salg,71,16831.0,3,1962,
@@ -15971,7 +15805,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Ejerlejlighed,"Ejboparken 47, 1. mf",4000, Roskilde,555000 ,17-11-2010,Alm. Salg,43,12907.0,1,1967,-2%
 265,Ejerlejlighed,"Neergårdsparken 27, 1. th",4000, Roskilde,847731 ,17-11-2010,Fam. Salg,74,11456.0,3,1968,
 265,Villa,Solsikkevej 34,4040, Jyllinge,1675000 ,17-11-2010,Alm. Salg,82,20427.0,4,1973,-12%
-265,Villa,Helligkorsvej 77,4000, Roskilde,2065000 ,17-11-2010,Alm. Salg,98,21071.0,4,1929,-10%
 265,Villa,Tønsbergvej 5,4000, Roskilde,3200000 ,17-11-2010,Alm. Salg,153,20915.0,6,2006,
 265,Rækkehus,Vesttoften 13B,4040, Jyllinge,1932000 ,16-11-2010,Alm. Salg,158,12228.0,6,1920,
 265,Rækkehus,Vesttoften 9B,4040, Jyllinge,1646000 ,16-11-2010,Alm. Salg,154,10688.0,5,1800,
@@ -16368,10 +16201,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Tofteengen 22,4000, Roskilde,800000 ,10-07-2010,Alm. Salg,149,5369.0,5,2011,
 265,Villa,Maribovej 8,4000, Roskilde,1690101 ,08-07-2010,Alm. Salg,176,9603.0,7,1973,
 265,Villa,Villavej 16,4000, Roskilde,4600000 ,08-07-2010,Alm. Salg,187,24599.0,8,1905,
-265,Ejerlejlighed,"Ringstedgade 29A, 1. th",4000, Roskilde,1150000 ,07-07-2010,Alm. Salg,57,20175.0,2,1913,
 265,Villa,Elmevej 19,4000, Roskilde,3600000 ,07-07-2010,Alm. Salg,145,24828.0,5,1951,
 265,Villa,Åvej 7B,4000, Roskilde,900000 ,07-07-2010,Alm. Salg,150,6000.0,5,2014,
-265,Villa,Stormandshøjen 13,4000, Roskilde,1150000 ,07-07-2010,Alm. Salg,180,6389.0,5,2011,
 265,Villa,Stormandshøjen 28,4000, Roskilde,1040000 ,07-07-2010,Alm. Salg,179,5810.0,5,2011,
 265,Ejerlejlighed,"Helligkorsvej 40, 1. tv",4000, Roskilde,850000 ,06-07-2010,Alm. Salg,52,16346.0,2,1938,-5%
 265,Ejerlejlighed,"Knud Den Stores Vej 32B, 1. tv",4000, Roskilde,1500000 ,06-07-2010,Alm. Salg,80,18750.0,3,1966,
@@ -16600,8 +16431,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Pilevej 12,4000, Roskilde,2050000 ,06-05-2010,Alm. Salg,76,26974.0,2,1953,-7%
 265,Ejerlejlighed,Algade 46B,4000, Roskilde,3100000 ,05-05-2010,Alm. Salg,135,22963.0,3,1830,-3%
 265,Ejerlejlighed,"Skovbovængets Alle 3, 1",4000, Roskilde,1970000 ,05-05-2010,Alm. Salg,123,16016.0,4,1911,-1%
-265,Ejerlejlighed,"Algade 25A, 1",4000, Roskilde,2500000 ,05-05-2010,Alm. Salg,166,15060.0,5,1925,-7%
-265,Villa,Søndervang 13,4000, Roskilde,2500000 ,05-05-2010,Alm. Salg,113,22124.0,3,1923,-2%
 265,Villa,Kløvervej 53,4040, Jyllinge,1300000 ,05-05-2010,Andet,179,7263.0,5,1964,-26%
 265,Villa,Ramsøbakken 48,4621, Gadstrup,1000000 ,05-05-2010,Alm. Salg,195,5128.0,6,2010,
 265,Rækkehus,Søparken 57,4000, Roskilde,2065000 ,04-05-2010,Alm. Salg,128,16133.0,6,1973,-1%
@@ -17338,12 +17167,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Norddalen 6,4000, Roskilde,4500000 ,23-07-2009,Alm. Salg,187,24064.0,5,1971,-17%
 265,Rækkehus,Vestergade 10B,4000, Roskilde,2350000 ,20-07-2009,Alm. Salg,101,23267.0,4,1931,-4%
 265,Villa,Kløvervej 64,4040, Jyllinge,2700000 ,20-07-2009,Alm. Salg,120,22500.0,4,2004,-10%
-265,Rækkehus,Pibergårdsvej 20,4040, Jyllinge,1700000 ,19-07-2009,Alm. Salg,123,13821.0,4,1980,-8%
 265,Rækkehus,Bøgen 18,4000, Roskilde,1615000 ,19-07-2009,Andet,110,14682.0,4,1966,
 265,Rækkehus,Fyrren 4,4000, Roskilde,1600000 ,19-07-2009,Alm. Salg,110,14545.0,5,1969,-11%
 265,Villa,Mosevangen 23,4130, Viby Sjælland,2005000 ,19-07-2009,Alm. Salg,105,19095.0,3,1985,1%
 265,Villa,Havrevej 24,4040, Jyllinge,3700000 ,19-07-2009,Alm. Salg,169,21893.0,7,2004,-6%
-265,Villa,Jupitervej 10,4040, Jyllinge,1700000 ,19-07-2009,Alm. Salg,114,14912.0,4,1974,-15%
 265,Villa,Havnevej 23,4000, Roskilde,5995000 ,19-07-2009,Alm. Salg,236,25403.0,8,1918,
 265,Villa,Ørstedvej 36C,4622, Havdrup,2700000 ,19-07-2009,Alm. Salg,178,15169.0,4,2005,
 265,Rækkehus,Løvsangervej 9,4000, Roskilde,2750000 ,18-07-2009,Alm. Salg,117,23504.0,4,1978,-2%
@@ -17700,10 +17527,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Horsekilden 21,4000, Roskilde,2450000 ,23-02-2009,Alm. Salg,166,14759.0,6,1967,-6%
 265,Villa,Bogfinkevej 39,4040, Jyllinge,2800000 ,23-02-2009,Alm. Salg,158,17722.0,5,1998,-15%
 265,Rækkehus,Dronning Margrethes Vej 18C,4000, Roskilde,3300000 ,22-02-2009,Alm. Salg,117,28205.0,4,1987,-6%
-265,Rækkehus,Jyllingeparken 86,4040, Jyllinge,1100000 ,22-02-2009,Alm. Salg,125,8800.0,4,1978,
 265,Ejerlejlighed,"Møllehusvej 14, 3. tv",4000, Roskilde,1025000 ,22-02-2009,Alm. Salg,36,28472.0,1,1946,
 265,Ejerlejlighed,"Roskildevænget 57, st. tv",4000, Roskilde,621362 ,22-02-2009,Andet,62,10022.0,2,1962,
-265,Villa,Hirsevej 2,4040, Jyllinge,1100000 ,22-02-2009,Fam. Salg,171,6433.0,6,1963,
 265,Ejerlejlighed,"Ejboparken 41, st. th",4000, Roskilde,1100000 ,21-02-2009,Alm. Salg,79,13924.0,3,1969,-4%
 265,Villa,Østerbo 1,4000, Roskilde,1495000 ,21-02-2009,Alm. Salg,109,13716.0,4,1968,
 265,Villa,Skovbovængets Alle 10,4000, Roskilde,6395000 ,21-02-2009,Alm. Salg,223,28677.0,7,1906,
@@ -18006,7 +17831,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Agerfløjen 7,4130, Viby Sjælland,2560000 ,29-08-2008,Alm. Salg,151,16954.0,4,1975,-7%
 265,Villa,Engblommevej 21,4040, Jyllinge,1100000 ,28-08-2008,Alm. Salg,137,8029.0,5,2009,-24%
 265,Ejerlejlighed,"Munkebro 13, 1. tv",4000, Roskilde,2400000 ,27-08-2008,Alm. Salg,95,25263.0,4,1931,-3%
-265,Villa,Dronning Margrethes Vej 35,4000, Roskilde,10450000 ,27-08-2008,Alm. Salg,248,42137.0,8,1914,-3%
 265,Rækkehus,Københavnsvej 96B,4000, Roskilde,2495000 ,26-08-2008,Alm. Salg,102,24461.0,4,1958,
 265,Ejerlejlighed,"Ejboparken 45, st. tv",4000, Roskilde,1400000 ,25-08-2008,Alm. Salg,78,17949.0,3,1967,
 265,Ejerlejlighed,"Ejboparken 55, 1. tv",4000, Roskilde,1475000 ,24-08-2008,Alm. Salg,78,18910.0,3,1967,
@@ -18134,8 +17958,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Hans Olsensvej 3,4130, Viby Sjælland,2750000 ,30-06-2008,Alm. Salg,161,17081.0,4,1964,-8%
 265,Rækkehus,Holmevænget 24,4000, Roskilde,1845000 ,29-06-2008,Alm. Salg,95,19421.0,4,1986,-3%
 265,Rækkehus,Jyllingeparken 16,4040, Jyllinge,2500000 ,29-06-2008,Alm. Salg,126,19841.0,4,1978,-7%
-265,Rækkehus,Joensuuvej 52,4000, Roskilde,2750000 ,29-06-2008,Alm. Salg,108,25463.0,4,2006,-8%
-265,Ejerlejlighed,Løvparken 10A,4000, Roskilde,1625000 ,29-06-2008,Alm. Salg,73,22260.0,2,1974,-7%
 265,Ejerlejlighed,"Gyvelvej 12D, 1. tv",4000, Roskilde,2600000 ,29-06-2008,Alm. Salg,75,34667.0,3,1967,
 265,Villa,Søndergade 59,4130, Viby Sjælland,2150000 ,29-06-2008,Alm. Salg,97,22165.0,3,1892,
 265,Villa,Søvang 18,4000, Roskilde,3650000 ,29-06-2008,Alm. Salg,137,26642.0,4,1954,-9%
@@ -18143,9 +17965,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,I P Hansens Vej 9,4000, Roskilde,1847069 ,29-06-2008,Fam. Salg,182,10149.0,7,1951,
 265,Villa,Osvej 55,4040, Jyllinge,1700000 ,29-06-2008,Alm. Salg,93,18280.0,4,1965,-6%
 265,Villa,Lærkevej 24,4000, Roskilde,3203000 ,29-06-2008,Andet,123,26041.0,5,1951,
-265,Villa,Ellebjergvej 4,4000, Roskilde,2750000 ,29-06-2008,Alm. Salg,249,11044.0,6,2014,
 265,Villa,Skovbovængets Alle 10,4000, Roskilde,4895000 ,29-06-2008,Alm. Salg,223,21951.0,7,1906,
-265,Villa,Kløvervej 48,4000, Roskilde,1625000 ,29-06-2008,Alm. Salg,196,8291.0,7,1962,
 265,Villa,Baldersvej 22,4000, Roskilde,1750000 ,29-06-2008,Alm. Salg,175,10000.0,4,1961,
 265,Rækkehus,Linkøpingvej 165,4000, Roskilde,2150000 ,28-06-2008,Alm. Salg,77,27922.0,3,2006,-6%
 265,Villa,Mågevej 17,4040, Jyllinge,1850000 ,28-06-2008,Alm. Salg,130,14231.0,3,2016,-7%
@@ -18477,10 +18297,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Paulsvej 10,4040, Jyllinge,2350000 ,03-03-2008,Alm. Salg,116,20259.0,5,1969,
 265,Villa,Toftevangen 24,4130, Viby Sjælland,2450000 ,03-03-2008,Alm. Salg,165,14848.0,4,1973,-6%
 265,Rækkehus,Bymarken 11A,4130, Viby Sjælland,2075000 ,02-03-2008,Alm. Salg,95,21842.0,4,1986,-7%
-265,Ejerlejlighed,"Havnevej 32, 1. th",4000, Roskilde,2650000 ,02-03-2008,Alm. Salg,109,24312.0,4,1960,-2%
 265,Ejerlejlighed,"Gartnervang 14, 3. mf",4000, Roskilde,995000 ,02-03-2008,Alm. Salg,41,24268.0,1,1967,
 265,Ejerlejlighed,"Neergårdsparken 21, 2. 4",4000, Roskilde,1395000 ,02-03-2008,Alm. Salg,73,19110.0,3,1968,
-265,Villa,Maribovej 16,4000, Roskilde,2650000 ,02-03-2008,Fam. Salg,133,19925.0,5,1972,
 265,Villa,Margrethevej 6,4130, Viby Sjælland,1742500 ,02-03-2008,Fam. Salg,212,8219.0,6,1976,
 265,Villa,Svanevænget 12,4040, Jyllinge,879847 ,02-03-2008,Fam. Salg,75,11731.0,2,2000,
 265,Villa,Evertvej 26,4040, Jyllinge,3800000 ,02-03-2008,Alm. Salg,200,19000.0,4,1969,-11%
@@ -18514,7 +18332,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Ejerlejlighed,"Gartnervang 14, 1. mf",4000, Roskilde,945000 ,19-02-2008,Alm. Salg,41,23049.0,1,1967,-3%
 265,Ejerlejlighed,"Gartnervang 26, st. th",4000, Roskilde,1640000 ,19-02-2008,Alm. Salg,88,18636.0,3,1968,-3%
 265,Villa,Middelfartvej 16,4000, Roskilde,4100000 ,19-02-2008,Alm. Salg,186,22043.0,6,1971,-5%
-265,Villa,Byvolden 25B,4000, Roskilde,2373695 ,19-02-2008,Andet,56,42387.0,2,1900,
 265,Villa,Jernaldermarken 9,4000, Roskilde,2186900 ,19-02-2008,Alm. Salg,209,10464.0,7,2009,
 265,Ejerlejlighed,"Gartnervang 14, 2. mf",4000, Roskilde,930000 ,18-02-2008,Alm. Salg,41,22683.0,1,1967,
 265,Villa,Lundeparken 1,4130, Viby Sjælland,4595000 ,18-02-2008,Alm. Salg,172,26715.0,6,2006,-4%
@@ -18528,13 +18345,11 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Ejerlejlighed,"Klostervang 10, st",4000, Roskilde,4150000 ,14-02-2008,Alm. Salg,139,29856.0,5,1912,
 265,Ejerlejlighed,"Ahornlunden 9, 1. tv",4000, Roskilde,2095000 ,14-02-2008,Alm. Salg,84,24940.0,2,2008,
 265,Villa,Kong Valdemars Vej 36,4000, Roskilde,2210000 ,14-02-2008,Alm. Salg,130,17000.0,5,1947,
-265,Rækkehus,Bredgade 17D,4000, Roskilde,2500000 ,13-02-2008,Alm. Salg,102,24510.0,3,1850,-9%
 265,Ejerlejlighed,"Havnevej 30, 1. th",4000, Roskilde,1402500 ,13-02-2008,Fam. Salg,76,18454.0,2,1960,
 265,Ejerlejlighed,"Vognmandsmarken 8, st. tv",4000, Roskilde,1595000 ,13-02-2008,Alm. Salg,82,19451.0,3,1971,
 265,Ejerlejlighed,"Neergårdsparken 11, 2. tv",4000, Roskilde,1275000 ,13-02-2008,Alm. Salg,62,20565.0,2,1968,7%
 265,Ejerlejlighed,"Henrik Nielsens Vej 40, 1",4000, Roskilde,2625000 ,13-02-2008,Alm. Salg,115,22826.0,3,1945,-8%
 265,Ejerlejlighed,"Havnevej 20, st. th",4000, Roskilde,977500 ,13-02-2008,Fam. Salg,62,15766.0,2,1960,
-265,Villa,Veddelev Bygade 35,4000, Roskilde,2500000 ,13-02-2008,Alm. Salg,202,12376.0,4,1910,-52%
 265,Villa,Klosterengen 106,4000, Roskilde,3495000 ,13-02-2008,Alm. Salg,121,28884.0,5,1950,-3%
 265,Villa,Sikærsvej 1,4621, Gadstrup,2250000 ,13-02-2008,Alm. Salg,127,17717.0,5,1985,-13%
 265,Ejerlejlighed,"Sankt Peders Stræde 9, 3. th",4000, Roskilde,2850000 ,12-02-2008,Alm. Salg,100,28500.0,4,1931,-5%
@@ -18558,7 +18373,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Valorevej 41,4130, Viby Sjælland,2345000 ,10-02-2008,Alm. Salg,167,14042.0,4,1953,
 265,Villa,Drosselvej 47,4000, Roskilde,2750000 ,10-02-2008,Alm. Salg,125,22000.0,5,1958,-5%
 265,Villa,Himmelev Sognevej 59,4000, Roskilde,4600000 ,10-02-2008,Alm. Salg,167,27545.0,6,1965,
-265,Villa,Ro's Have 5A,4000, Roskilde,3500000 ,10-02-2008,Alm. Salg,100,35000.0,3,1936,
 265,Rækkehus,Løvsangervej 17,4000, Roskilde,3600000 ,09-02-2008,Alm. Salg,117,30769.0,4,1978,
 265,Ejerlejlighed,"Ejboparken 21, st. th",4000, Roskilde,1147500 ,08-02-2008,Fam. Salg,81,14167.0,3,1968,
 265,Ejerlejlighed,"Ejboparken 37, st. mf",4000, Roskilde,775000 ,08-02-2008,Alm. Salg,43,18023.0,1,1969,-3%
@@ -18761,8 +18575,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Emilsgave 114,4130, Viby Sjælland,2175000 ,14-11-2007,Alm. Salg,94,23138.0,4,1980,-7%
 265,Villa,Bøgevej 36,4000, Roskilde,3900000 ,14-11-2007,Alm. Salg,113,34513.0,5,1953,-7%
 265,Villa,Lærkevej 21,4040, Jyllinge,3900000 ,13-11-2007,Alm. Salg,155,25161.0,5,2005,-2%
-265,Ejerlejlighed,"Hedevænget 3, 1. tv",4000, Roskilde,1275000 ,12-11-2007,Alm. Salg,60,21250.0,2,1961,-2%
-265,Ejerlejlighed,"Holbækvej 24, 1. tv",4000, Roskilde,1275000 ,12-11-2007,Alm. Salg,65,19615.0,2,1946,
 265,Villa,Marsvej 22,4040, Jyllinge,2800000 ,12-11-2007,Alm. Salg,145,19310.0,4,1975,
 265,Ejerlejlighed,"Sankt Hans Gade 11B, st. 7",4000, Roskilde,2180000 ,11-11-2007,Alm. Salg,97,22474.0,4,1970,-1%
 265,Ejerlejlighed,"Skomagergade 25, 1. 210",4000, Roskilde,915000 ,11-11-2007,Alm. Salg,50,18300.0,1,1974,
@@ -18838,7 +18650,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Nyvang 1A,4000, Roskilde,2227500 ,21-10-2007,Alm. Salg,90,24750.0,3,1927,
 265,Rækkehus,Svogerslev Hovedgade 31C,4000, Roskilde,500000 ,20-10-2007,Alm. Salg,73,6849.0,2,1943,
 265,Villa,Præstemarksvej 13,4040, Jyllinge,2775000 ,19-10-2007,Alm. Salg,116,23922.0,4,2001,-7%
-265,Ejerlejlighed,Klintevej 2A,4000, Roskilde,5700000 ,18-10-2007,Alm. Salg,167,34132.0,6,1927,
 265,Ejerlejlighed,"Jernbanegade 42, st. th",4000, Roskilde,995000 ,17-10-2007,Alm. Salg,47,21170.0,1,1890,
 265,Ejerlejlighed,"Dronning Margrethes Vej 12, 3. tv",4000, Roskilde,2750000 ,17-10-2007,Alm. Salg,90,30556.0,3,1931,
 265,Ejerlejlighed,"Gartnervang 48, 1. tv",4000, Roskilde,1675000 ,17-10-2007,Fam. Salg,82,20427.0,3,1969,
@@ -18954,10 +18765,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Rækkehus,Løvsangervej 52,4000, Roskilde,1700000 ,08-09-2007,Fam. Salg,117,14530.0,5,1978,
 265,Ejerlejlighed,"Gartnervang 49, st. mf",4000, Roskilde,1125000 ,08-09-2007,Alm. Salg,42,26786.0,1,1970,
 265,Rækkehus,Vesterdal 6,4000, Roskilde,1133500 ,06-09-2007,Alm. Salg,225,5038.0,6,1830,
-265,Rækkehus,Kirsebærhegnet 11,4040, Jyllinge,2100000 ,06-09-2007,Alm. Salg,92,22826.0,3,2000,
 265,Ejerlejlighed,"Holbækvej 32B, 1. 5",4000, Roskilde,799000 ,06-09-2007,Fam. Salg,51,15667.0,2,1960,
 265,Villa,Strandgårdsvej 19,4000, Roskilde,3210000 ,06-09-2007,Alm. Salg,135,23778.0,4,1967,0%
-265,Villa,Strandvænget 16,4040, Jyllinge,2100000 ,06-09-2007,Alm. Salg,153,13725.0,5,2016,
 265,Villa,Snoldelev Bygade 43,4621, Gadstrup,1900000 ,06-09-2007,Alm. Salg,107,17757.0,4,1943,-12%
 265,Rækkehus,Lynghøjen 9,4000, Roskilde,2300000 ,05-09-2007,Alm. Salg,85,27059.0,3,1989,-4%
 265,Rækkehus,Tønsbergvej 132,4000, Roskilde,2750000 ,05-09-2007,Alm. Salg,80,34375.0,3,2006,
@@ -19145,8 +18954,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Rådalsgård Strandpark 14,4040, Jyllinge,2500000 ,02-07-2007,Alm. Salg,236,10593.0,8,2010,-15%
 265,Villa,Aastoften 19,4000, Roskilde,3500000 ,02-07-2007,Alm. Salg,164,21341.0,5,1967,-5%
 265,Villa,Hasselvænget 1,4130, Viby Sjælland,3250000 ,02-07-2007,Alm. Salg,168,19345.0,5,1971,-8%
-265,Rækkehus,Tønsbergvej 206,4000, Roskilde,725000 ,01-07-2007,Alm. Salg,136,5331.0,5,2008,
-265,Villa,Tønsbergvej 158,4000, Roskilde,725000 ,01-07-2007,Alm. Salg,136,5331.0,5,2008,
 265,Villa,Tørvekær 9,4000, Roskilde,4900000 ,01-07-2007,Alm. Salg,160,30625.0,5,2006,-2%
 265,Rækkehus,Tønsbergvej 174,4000, Roskilde,725000 ,30-06-2007,Andet,106,6840.0,3,2008,
 265,Rækkehus,Hjørnekilden 31,4000, Roskilde,2525000 ,30-06-2007,Alm. Salg,109,23165.0,4,1974,-6%
@@ -19454,7 +19261,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Gadstrupparken 69,4621, Gadstrup,2500000 ,31-03-2007,Alm. Salg,199,12563.0,6,2008,-10%
 265,Villa,Kløverdalen 4,4000, Roskilde,2700000 ,29-03-2007,Alm. Salg,94,28723.0,4,1954,-2%
 265,Villa,Fynsvej 55,4000, Roskilde,4300000 ,29-03-2007,Alm. Salg,175,24571.0,4,2007,
-265,Villa,Ro's Have 5A,4000, Roskilde,3500000 ,29-03-2007,Andet,100,35000.0,3,1936,
 265,Villa,Sommervej 9,4040, Jyllinge,2000000 ,28-03-2007,Alm. Salg,78,25641.0,2,1964,
 265,Ejerlejlighed,"Neergårdsparken 41, 1. mf",4000, Roskilde,975000 ,27-03-2007,Alm. Salg,39,25000.0,1,1968,
 265,Ejerlejlighed,"Ejboparken 69, 2. tv",4000, Roskilde,1695000 ,27-03-2007,Alm. Salg,81,20926.0,3,1969,-1%
@@ -19776,7 +19582,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Kildevænget 15,4000, Roskilde,1900000 ,14-11-2006,Fam. Salg,86,22093.0,3,1961,
 265,Villa,Københavnsvej 95,4000, Roskilde,3145000 ,11-11-2006,Alm. Salg,116,27112.0,3,1926,
 265,Villa,Dyssegårdsvænget 2,4621, Gadstrup,2800000 ,11-11-2006,Alm. Salg,123,22764.0,4,1979,
-265,Villa,Hedegade 8,4000, Roskilde,6050000 ,11-11-2006,Alm. Salg,142,42606.0,6,1909,
 265,Ejerlejlighed,"Kongebakken 50, 3. th",4000, Roskilde,2200000 ,10-11-2006,Alm. Salg,71,30986.0,3,1960,
 265,Ejerlejlighed,"Ejboparken 61, 2. th",4000, Roskilde,1595000 ,09-11-2006,Alm. Salg,78,20449.0,3,1968,
 265,Villa,Okseholm 25,4000, Roskilde,4750000 ,09-11-2006,Alm. Salg,197,24112.0,5,1971,
@@ -19853,7 +19658,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Klintevej 9,4000, Roskilde,3000000 ,09-10-2006,Alm. Salg,117,25641.0,5,1936,
 265,Villa,Spurvevej 3,4000, Roskilde,4150000 ,09-10-2006,Alm. Salg,130,31923.0,4,1966,
 265,Rækkehus,Kristiansminde 40,4000, Roskilde,2825000 ,08-10-2006,Alm. Salg,98,28827.0,4,2007,
-265,Villa,Kirkebakken 5,4000, Roskilde,2795000 ,08-10-2006,Alm. Salg,73,38288.0,3,1827,
 265,Villa,Bredekæret 17,4000, Roskilde,3600000 ,08-10-2006,Alm. Salg,150,24000.0,5,1992,
 265,Villa,Kristiansminde 47,4000, Roskilde,3295000 ,08-10-2006,Alm. Salg,149,22114.0,6,2007,
 265,Ejerlejlighed,"Gartnervang 47, 1. th",4000, Roskilde,1795000 ,07-10-2006,Alm. Salg,79,22722.0,3,1970,
@@ -19991,24 +19795,17 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Brovej 25,4000, Roskilde,2995000 ,14-08-2006,Alm. Salg,181,16547.0,5,1986,
 265,Rækkehus,Joensuuvej 60,4000, Roskilde,2300000 ,13-08-2006,Alm. Salg,108,21296.0,4,2006,
 265,Rækkehus,Joensuuvej 24,4000, Roskilde,2275000 ,13-08-2006,Alm. Salg,114,19956.0,4,2006,
-265,Rækkehus,Joensuuvej 34,4000, Roskilde,1925000 ,13-08-2006,Alm. Salg,88,21875.0,4,2006,
 265,Rækkehus,Joensuuvej 14,4000, Roskilde,2050000 ,13-08-2006,Alm. Salg,94,21809.0,4,2006,
-265,Rækkehus,Joensuuvej 16,4000, Roskilde,1825000 ,13-08-2006,Alm. Salg,88,20739.0,4,2006,
 265,Rækkehus,Joensuuvej 52,4000, Roskilde,2425000 ,13-08-2006,Alm. Salg,108,22454.0,4,2006,
-265,Rækkehus,Joensuuvej 32,4000, Roskilde,1050000 ,13-08-2006,Alm. Salg,88,11932.0,4,2006,
 265,Rækkehus,Joensuuvej 28,4000, Roskilde,2065000 ,13-08-2006,Alm. Salg,94,21968.0,4,2006,
 265,Rækkehus,Joensuuvej 58,4000, Roskilde,2125000 ,13-08-2006,Alm. Salg,108,19676.0,4,2006,
 265,Rækkehus,Joensuuvej 62,4000, Roskilde,2335000 ,13-08-2006,Alm. Salg,114,20482.0,4,2006,
 265,Rækkehus,Joensuuvej 20,4000, Roskilde,1895000 ,13-08-2006,Alm. Salg,88,21534.0,4,2006,
-265,Ejerlejlighed,"Gartnervang 42, 2. mf",4000, Roskilde,1050000 ,13-08-2006,Alm. Salg,42,25000.0,1,1969,
 265,Ejerlejlighed,"Ejboparken 37, st. tv",4000, Roskilde,1675000 ,13-08-2006,Alm. Salg,78,21474.0,3,1969,
 265,Ejerlejlighed,"Gartnervang 26, 2. tv",4000, Roskilde,1450000 ,13-08-2006,Alm. Salg,71,20423.0,2,1968,
 265,Ejerlejlighed,"Joensuuvej 10, 2. th",4000, Roskilde,1975000 ,13-08-2006,Alm. Salg,104,18990.0,4,2006,
-265,Ejerlejlighed,"Joensuuvej 12, st. tv",4000, Roskilde,1900000 ,13-08-2006,Alm. Salg,104,18269.0,4,2006,
-265,Ejerlejlighed,"Joensuuvej 10, st. th",4000, Roskilde,1825000 ,13-08-2006,Alm. Salg,104,17548.0,4,2006,
 265,Ejerlejlighed,"Joensuuvej 10, 1. th",4000, Roskilde,1875000 ,13-08-2006,Alm. Salg,104,18029.0,4,2006,
 265,Villa,Horsevænget 27,4130, Viby Sjælland,2840000 ,13-08-2006,Alm. Salg,174,16322.0,6,1973,
-265,Villa,Nymarksvej 14,4000, Roskilde,1900000 ,13-08-2006,Alm. Salg,183,10383.0,6,1961,
 265,Villa,Ternevej 3,4130, Viby Sjælland,2253400 ,13-08-2006,Alm. Salg,152,14825.0,5,1974,
 265,Villa,Ramsøvejen 4,4621, Gadstrup,1799000 ,13-08-2006,Alm. Salg,158,11386.0,7,1887,
 265,Villa,Æblehaven 7,4130, Viby Sjælland,2285000 ,13-08-2006,Alm. Salg,108,21157.0,5,1968,
@@ -20504,8 +20301,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Ejerlejlighed,"Kongebakken 15, 1. th",4000, Roskilde,2135000 ,22-03-2006,Alm. Salg,84,25417.0,3,1960,
 265,Villa,Fiskeparken 12,4000, Roskilde,2495000 ,22-03-2006,Alm. Salg,97,25722.0,5,1966,
 265,Ejerlejlighed,"Skomagergade 36A, 2",4000, Roskilde,3300000 ,21-03-2006,Alm. Salg,124,26613.0,2,1837,
-265,Ejerlejlighed,Bondetinget 23,4000, Roskilde,2584070 ,20-03-2006,Andet,80,32301.0,3,1850,
-265,Ejerlejlighed,Blågårdsstræde 10,4000, Roskilde,2584070 ,20-03-2006,Andet,137,18862.0,4,1850,
 265,Ejerlejlighed,"Hersegade 5, 2. th",4000, Roskilde,2395000 ,20-03-2006,Alm. Salg,86,27849.0,3,1880,
 265,Villa,Ågårdsvænget 1,4130, Viby Sjælland,3000000 ,20-03-2006,Alm. Salg,148,20270.0,5,1991,
 265,Villa,Bøgevej 19,4000, Roskilde,2850000 ,20-03-2006,Alm. Salg,98,29082.0,4,1950,
@@ -20569,8 +20364,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Hejrevej 58,4000, Roskilde,1700808 ,07-03-2006,Andet,98,17355.0,4,1962,
 265,Ejerlejlighed,"Eget Bo 51, st. th",4000, Roskilde,1995000 ,06-03-2006,Alm. Salg,79,25253.0,3,2003,
 265,Ejerlejlighed,"Møllehusene 8, 1. th",4000, Roskilde,1285000 ,05-03-2006,Alm. Salg,64,20078.0,2,1999,
-265,Ejerlejlighed,"Frederiksborgvej 38C, 1. 3",4000, Roskilde,1525000 ,05-03-2006,Alm. Salg,51,29902.0,1,1967,
-265,Ejerlejlighed,"Eget Bo 2, st. tv",4000, Roskilde,1525000 ,05-03-2006,Alm. Salg,64,23828.0,2,1973,
 265,Villa,Veddelev Bygade 70,4000, Roskilde,2575000 ,05-03-2006,Alm. Salg,68,37868.0,2,1800,
 265,Villa,Hvedstrupvej 1,4000, Roskilde,646500 ,05-03-2006,Alm. Salg,141,4585.0,4,1900,
 265,Villa,Nymarksvej 40,4000, Roskilde,2465000 ,05-03-2006,Alm. Salg,84,29345.0,3,1939,
@@ -20841,12 +20634,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Anemonevej 23,4000, Roskilde,3200000 ,18-12-2005,Alm. Salg,130,24615.0,4,1968,
 265,Villa,Frederiksborgvej 118,4000, Roskilde,4200005 ,18-12-2005,Alm. Salg,191,21990.0,6,1917,
 265,Villa,Ledreborg Alle 120,4000, Roskilde,2198000 ,18-12-2005,Alm. Salg,131,16779.0,5,1968,
-265,Rækkehus,Kirkebakken 7,4000, Roskilde,3100000 ,17-12-2005,Alm. Salg,92,33696.0,4,1840,
 265,Ejerlejlighed,"Hersegade 25, 2",4000, Roskilde,1995000 ,17-12-2005,Alm. Salg,118,16907.0,3,1907,
 265,Villa,Lilletoften 7,4040, Jyllinge,2055000 ,17-12-2005,Alm. Salg,136,15110.0,7,1960,
 265,Villa,Ledreborg Alle 124,4000, Roskilde,1950000 ,17-12-2005,Alm. Salg,111,17568.0,4,1968,
 265,Villa,Skovbovængets Alle 19,4000, Roskilde,2150000 ,17-12-2005,Fam. Salg,152,14145.0,6,1906,
-265,Villa,Himmelev Sognevej 59,4000, Roskilde,3100000 ,17-12-2005,Fam. Salg,167,18563.0,6,1965,
 265,Rækkehus,Løvsangervej 29,4000, Roskilde,2850000 ,15-12-2005,Alm. Salg,117,24359.0,5,1978,
 265,Rækkehus,Blågårdsstræde 8C,4000, Roskilde,1815000 ,15-12-2005,Fam. Salg,79,22975.0,3,1910,
 265,Ejerlejlighed,"Neergårdsparken 39, 1. 1",4000, Roskilde,1345000 ,15-12-2005,Alm. Salg,73,18425.0,3,1968,
@@ -20925,14 +20716,12 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Rækkehus,Frederiksborgvej 53B,4000, Roskilde,3225000 ,30-11-2005,Alm. Salg,112,28795.0,5,1945,
 265,Rækkehus,Himmelev Skovvej 61,4000, Roskilde,2695000 ,30-11-2005,Alm. Salg,106,25425.0,4,2005,
 265,Rækkehus,Jasminvænget 13,4000, Roskilde,1305000 ,30-11-2005,Auktion,55,23727.0,2,1958,
-265,Ejerlejlighed,"Roskildevænget 41, 1. th",4000, Roskilde,1510000 ,30-11-2005,Alm. Salg,62,24355.0,2,1962,
 265,Ejerlejlighed,"Gyvelvej 13, st. th",4000, Roskilde,1295000 ,30-11-2005,Alm. Salg,57,22719.0,2,1962,
 265,Ejerlejlighed,"Gartnervang 26, 1. tv",4000, Roskilde,1300000 ,30-11-2005,Alm. Salg,71,18310.0,2,1968,
 265,Villa,Korskær 6,4000, Roskilde,2275000 ,30-11-2005,Alm. Salg,199,11432.0,5,1956,
 265,Villa,Egebjerg 34,4000, Roskilde,3400000 ,30-11-2005,Alm. Salg,165,20606.0,5,1999,
 265,Villa,Himmelev Sognevej 49,4000, Roskilde,2610000 ,30-11-2005,Alm. Salg,108,24167.0,4,1960,
 265,Villa,Agnetevej 37,4040, Jyllinge,740000 ,30-11-2005,Fam. Salg,195,3795.0,8,2008,
-265,Villa,Mårhaven 9,4000, Roskilde,1510000 ,30-11-2005,Alm. Salg,163,9264.0,5,2007,
 265,Villa,Københavnsvej 273,4000, Roskilde,2800000 ,30-11-2005,Alm. Salg,161,17391.0,5,1986,
 265,Rækkehus,Ibsgården 6,4000, Roskilde,3295000 ,29-11-2005,Alm. Salg,122,27008.0,4,1976,
 265,Rækkehus,Himmelev Skovvej 65,4000, Roskilde,2080000 ,29-11-2005,Alm. Salg,106,19623.0,4,2005,
@@ -20955,32 +20744,12 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Ramsømaglevej 25,4621, Gadstrup,2850000 ,27-11-2005,Alm. Salg,199,14322.0,7,1971,
 265,Villa,Motelvej 16,4000, Roskilde,2275000 ,26-11-2005,Alm. Salg,121,18802.0,4,1964,
 265,Villa,Mågevej 10,4130, Viby Sjælland,2795000 ,26-11-2005,Alm. Salg,112,24955.0,3,1975,
-265,Rækkehus,Pibergården 4,4040, Jyllinge,2725000 ,24-11-2005,Alm. Salg,113,24115.0,2,2000,
 265,Villa,Søvang 6,4000, Roskilde,3050000 ,24-11-2005,Alm. Salg,98,31122.0,3,1933,
-265,Villa,Bygaden 46A,4040, Jyllinge,2725000 ,24-11-2005,Alm. Salg,161,16925.0,6,1989,
 265,Villa,Fyrrevej 6,4040, Jyllinge,3630000 ,24-11-2005,Alm. Salg,191,19005.0,7,2006,
 265,Villa,Kildevænget 6,4621, Gadstrup,2575000 ,24-11-2005,Alm. Salg,175,14714.0,5,1980,
 265,Villa,Tønsbergvej 49,4000, Roskilde,895000 ,24-11-2005,Alm. Salg,153,5850.0,5,2006,
 265,Villa,Gondolvej 11,4040, Jyllinge,2745000 ,23-11-2005,Alm. Salg,165,16636.0,4,1970,
 265,Rækkehus,Fyrren 21,4000, Roskilde,1895000 ,22-11-2005,Alm. Salg,110,17227.0,5,1969,
-265,Ejerlejlighed,"Fælledvej 6, st. th",4000, Roskilde,2125000 ,22-11-2005,Fam. Salg,57,37281.0,2,1938,
-265,Ejerlejlighed,"Fælledvej 6, st. tv",4000, Roskilde,2125000 ,22-11-2005,Fam. Salg,60,35417.0,2,1938,
-265,Ejerlejlighed,"Fælledvej 6, 1. tv",4000, Roskilde,2125000 ,22-11-2005,Fam. Salg,60,35417.0,2,1938,
-265,Ejerlejlighed,"Fælledvej 6, 1. th",4000, Roskilde,2125000 ,22-11-2005,Fam. Salg,57,37281.0,2,1938,
-265,Ejerlejlighed,"Fælledvej 6, 2. th",4000, Roskilde,2125000 ,22-11-2005,Fam. Salg,54,39352.0,2,1938,
-265,Ejerlejlighed,"Fælledvej 6, 2. tv",4000, Roskilde,2125000 ,22-11-2005,Fam. Salg,57,37281.0,2,1938,
-265,Ejerlejlighed,"Helligkorsvej 17B, 2. th",4000, Roskilde,2125000 ,22-11-2005,Fam. Salg,50,42500.0,2,1937,
-265,Ejerlejlighed,"Helligkorsvej 17B, 1. th",4000, Roskilde,2125000 ,22-11-2005,Fam. Salg,50,42500.0,2,1937,
-265,Ejerlejlighed,"Helligkorsvej 17B, st. th",4000, Roskilde,2125000 ,22-11-2005,Fam. Salg,50,42500.0,2,1937,
-265,Ejerlejlighed,"Helligkorsvej 17A, st. tv",4000, Roskilde,2125000 ,22-11-2005,Fam. Salg,50,42500.0,2,1937,
-265,Ejerlejlighed,"Helligkorsvej 17A, 1. tv",4000, Roskilde,2125000 ,22-11-2005,Fam. Salg,50,42500.0,2,1937,
-265,Ejerlejlighed,"Helligkorsvej 17A, 2. tv",4000, Roskilde,2125000 ,22-11-2005,Fam. Salg,50,42500.0,2,1937,
-265,Ejerlejlighed,"Fælledvej 4, st. tv",4000, Roskilde,2125000 ,22-11-2005,Fam. Salg,57,37281.0,2,1938,
-265,Ejerlejlighed,"Fælledvej 4, st. th",4000, Roskilde,2125000 ,22-11-2005,Fam. Salg,60,35417.0,2,1938,
-265,Ejerlejlighed,"Fælledvej 4, 1. tv",4000, Roskilde,2125000 ,22-11-2005,Fam. Salg,57,37281.0,2,1938,
-265,Ejerlejlighed,"Fælledvej 4, 2. th",4000, Roskilde,2125000 ,22-11-2005,Fam. Salg,57,37281.0,2,1938,
-265,Ejerlejlighed,"Fælledvej 4, 1. th",4000, Roskilde,2125000 ,22-11-2005,Fam. Salg,60,35417.0,2,1938,
-265,Ejerlejlighed,"Fælledvej 4, 2. tv",4000, Roskilde,2125000 ,22-11-2005,Fam. Salg,54,39352.0,2,1938,
 265,Villa,Jagtvej 27,4040, Jyllinge,4900000 ,22-11-2005,Alm. Salg,200,24500.0,6,1969,
 265,Villa,Norddalen 6,4000, Roskilde,3795000 ,22-11-2005,Alm. Salg,187,20294.0,5,1971,
 265,Villa,Kringlevej 25,4040, Jyllinge,1550000 ,22-11-2005,Alm. Salg,175,8857.0,6,2021,
@@ -21213,8 +20982,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Ejerlejlighed,"Roskildevænget 31, st. tv",4000, Roskilde,1450000 ,26-09-2005,Alm. Salg,76,19079.0,3,1960,
 265,Villa,Kildevej 2,4000, Roskilde,2250000 ,26-09-2005,Alm. Salg,125,18000.0,4,1880,
 265,Villa,Snoldelev Bygade 31,4621, Gadstrup,700000 ,26-09-2005,Andet,128,5469.0,4,1962,
-265,Ejerlejlighed,"Lille Højbrøndsstræde 5, st",4000, Roskilde,2825000 ,25-09-2005,Andet,139,20324.0,4,1907,
-265,Villa,"Lille Højbrøndsstræde 5, 1",4000, Roskilde,2825000 ,25-09-2005,Andet,134,21082.0,3,1907,
 265,Villa,Hasselvej 1,4040, Jyllinge,2125000 ,25-09-2005,Alm. Salg,145,14655.0,7,1965,
 265,Villa,Kløvervej 28,4000, Roskilde,1700000 ,25-09-2005,Fam. Salg,114,14912.0,5,1942,
 265,Villa,Gadstrupparken 9,4621, Gadstrup,2525000 ,25-09-2005,Alm. Salg,175,14429.0,6,1970,
@@ -21342,8 +21109,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Ejerlejlighed,"Neergårdsparken 27, 2. tv",4000, Roskilde,1145000 ,31-08-2005,Alm. Salg,62,18468.0,2,1968,
 265,Ejerlejlighed,"Ejboparken 63, st. mf",4000, Roskilde,800000 ,31-08-2005,Alm. Salg,43,18605.0,1,1968,
 265,Ejerlejlighed,"Roskildevænget 55, 1. tv",4000, Roskilde,663000 ,31-08-2005,Alm. Salg,62,10694.0,2,1962,
-265,Ejerlejlighed,"Eget Bo 37, st. tv",4000, Roskilde,1395000 ,31-08-2005,Alm. Salg,61,22869.0,2,2003,
-265,Ejerlejlighed,"Havnevej 22, 3. th",4000, Roskilde,1395000 ,31-08-2005,Alm. Salg,59,23644.0,2,1960,
 265,Villa,Bakkesvinget 26,4000, Roskilde,1998000 ,31-08-2005,Alm. Salg,98,16932.0,5,1967,
 265,Villa,Store Valbyvej 218,4000, Roskilde,999000 ,31-08-2005,Alm. Salg,111,9000.0,4,1700,
 265,Villa,Agerfløjen 27,4130, Viby Sjælland,2595000 ,31-08-2005,Alm. Salg,198,13106.0,5,1977,
@@ -21915,10 +21680,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Kamstrupsti 10,4000, Roskilde,1300000 ,06-05-2005,Alm. Salg,109,11927.0,4,1925,
 265,Rækkehus,Eget Bo 26C,4000, Roskilde,1775000 ,05-05-2005,Alm. Salg,88,20170.0,1,1961,
 265,Villa,Haraldsborgvej 99,4000, Roskilde,2700000 ,05-05-2005,Alm. Salg,225,12000.0,4,1968,
-265,Ejerlejlighed,"Frederiksborgvej 38B, 1. 4",4000, Roskilde,1300000 ,03-05-2005,Alm. Salg,51,25490.0,1,1967,
 265,Ejerlejlighed,"Holbækvej 12, 3. tv",4000, Roskilde,1045000 ,03-05-2005,Alm. Salg,57,18333.0,2,1945,
 265,Villa,Stenagervej 6,4000, Roskilde,1320369 ,03-05-2005,Andet,135,9781.0,3,1947,
-265,Villa,Th Nielsens Vej 1,4000, Roskilde,1300000 ,03-05-2005,Alm. Salg,134,9701.0,5,1896,
 265,Villa,Liden Kirstens Vej 13,4000, Roskilde,1965000 ,03-05-2005,Alm. Salg,203,9680.0,5,1952,
 265,Rækkehus,Pibergårdsvej 16,4040, Jyllinge,1850000 ,02-05-2005,Alm. Salg,123,15041.0,4,1980,
 265,Villa,Dronning Sofies Vej 81,4000, Roskilde,2900000 ,02-05-2005,Alm. Salg,228,12719.0,7,1958,
@@ -21993,11 +21756,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Gulddyssevej 12,4000, Roskilde,1895000 ,18-04-2005,Fam. Salg,144,13160.0,5,1966,
 265,Villa,Langengen 16,4000, Roskilde,2295000 ,18-04-2005,Alm. Salg,129,17791.0,4,1973,
 265,Villa,Sydtoften 23,4040, Jyllinge,1250000 ,18-04-2005,Alm. Salg,58,21552.0,2,1960,
-265,Rækkehus,Joensuuvej 116,4000, Roskilde,1900000 ,17-04-2005,Alm. Salg,94,20213.0,4,2005,
 265,Rækkehus,Joensuuvej 112,4000, Roskilde,2045000 ,17-04-2005,Alm. Salg,108,18935.0,5,2005,
 265,Rækkehus,Kildehusene 17,4040, Jyllinge,2100000 ,17-04-2005,Alm. Salg,97,21649.0,4,2001,
 265,Ejerlejlighed,Joensuuvej 120A,4000, Roskilde,1200000 ,17-04-2005,Alm. Salg,52,23077.0,2,2005,
-265,Ejerlejlighed,Joensuuvej 122,4000, Roskilde,1900000 ,17-04-2005,Alm. Salg,95,20000.0,4,2005,
 265,Villa,Østergade 58,4000, Roskilde,1330830 ,17-04-2005,Fam. Salg,149,8932.0,6,1930,
 265,Rækkehus,Ågeruphøj 22,4000, Roskilde,1995000 ,16-04-2005,Alm. Salg,146,13664.0,6,1986,
 265,Villa,Pileparkvej 8,4000, Roskilde,1867500 ,16-04-2005,Alm. Salg,130,14365.0,6,1904,
@@ -22106,120 +21867,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Hyldeholm 17,4000, Roskilde,1100000 ,20-03-2005,Andet,238,4622.0,7,1970,
 265,Villa,Dronning Sofies Vej 31A,4000, Roskilde,2570000 ,20-03-2005,Alm. Salg,174,14770.0,5,1979,
 265,Rækkehus,Egen 12,4000, Roskilde,1695000 ,19-03-2005,Alm. Salg,110,15409.0,6,1968,
-265,Ejerlejlighed,"Gartnervang 32, 2. mf",4000, Roskilde,635000 ,19-03-2005,Alm. Salg,47,13511.0,1,1968,
-265,Ejerlejlighed,"Gartnervang 32, 2. th",4000, Roskilde,960000 ,19-03-2005,Alm. Salg,71,13521.0,2,1968,
-265,Ejerlejlighed,"Gartnervang 32, 3. mf",4000, Roskilde,635000 ,19-03-2005,Alm. Salg,47,13511.0,1,1968,
-265,Ejerlejlighed,"Gartnervang 32, 3. th",4000, Roskilde,960000 ,19-03-2005,Alm. Salg,71,13521.0,2,1968,
-265,Ejerlejlighed,"Gartnervang 34, st. mf",4000, Roskilde,635000 ,19-03-2005,Alm. Salg,42,15119.0,1,1969,
-265,Ejerlejlighed,"Gartnervang 34, 1. mf",4000, Roskilde,635000 ,19-03-2005,Alm. Salg,42,15119.0,1,1969,
-265,Ejerlejlighed,"Gartnervang 34, 1. tv",4000, Roskilde,960000 ,19-03-2005,Alm. Salg,67,14328.0,2,1969,
-265,Ejerlejlighed,"Gartnervang 34, 2. tv",4000, Roskilde,960000 ,19-03-2005,Alm. Salg,67,14328.0,2,1969,
-265,Ejerlejlighed,"Gartnervang 34, 3. th",4000, Roskilde,1190000 ,19-03-2005,Alm. Salg,82,14512.0,3,1969,
-265,Ejerlejlighed,"Gartnervang 10, 1. mf",4000, Roskilde,635000 ,19-03-2005,Alm. Salg,41,15488.0,1,1967,
-265,Ejerlejlighed,"Gartnervang 10, 2. mf",4000, Roskilde,635000 ,19-03-2005,Alm. Salg,41,15488.0,1,1967,
-265,Ejerlejlighed,"Gartnervang 10, 2. tv",4000, Roskilde,960000 ,19-03-2005,Alm. Salg,65,14769.0,2,1967,
-265,Ejerlejlighed,"Gartnervang 36, 2. tv",4000, Roskilde,1190000 ,19-03-2005,Alm. Salg,79,15063.0,3,1969,
-265,Ejerlejlighed,"Gartnervang 12, 1. tv",4000, Roskilde,1190000 ,19-03-2005,Alm. Salg,78,15256.0,3,1967,
-265,Ejerlejlighed,"Gartnervang 12, 2. mf",4000, Roskilde,635000 ,19-03-2005,Alm. Salg,41,15488.0,1,1967,
-265,Ejerlejlighed,"Gartnervang 12, 2. tv",4000, Roskilde,1190000 ,19-03-2005,Alm. Salg,78,15256.0,3,1967,
-265,Ejerlejlighed,"Gartnervang 36, 3. tv",4000, Roskilde,1190000 ,19-03-2005,Alm. Salg,79,15063.0,3,1969,
-265,Ejerlejlighed,"Gartnervang 38, 1. tv",4000, Roskilde,960000 ,19-03-2005,Alm. Salg,67,14328.0,2,1969,
-265,Ejerlejlighed,"Gartnervang 12, 3. tv",4000, Roskilde,1190000 ,19-03-2005,Alm. Salg,78,15256.0,3,1967,
-265,Ejerlejlighed,"Gartnervang 14, 1. mf",4000, Roskilde,635000 ,19-03-2005,Alm. Salg,41,15488.0,1,1967,
-265,Ejerlejlighed,"Gartnervang 38, 3. mf",4000, Roskilde,635000 ,19-03-2005,Alm. Salg,42,15119.0,1,1969,
-265,Ejerlejlighed,"Gartnervang 38, 3. tv",4000, Roskilde,960000 ,19-03-2005,Alm. Salg,67,14328.0,2,1969,
-265,Ejerlejlighed,"Gartnervang 14, 2. mf",4000, Roskilde,635000 ,19-03-2005,Alm. Salg,41,15488.0,1,1967,
-265,Ejerlejlighed,"Gartnervang 39, 2. mf",4000, Roskilde,635000 ,19-03-2005,Alm. Salg,42,15119.0,1,1970,
-265,Ejerlejlighed,"Gartnervang 39, 2. tv",4000, Roskilde,1190000 ,19-03-2005,Alm. Salg,82,14512.0,3,1970,
-265,Ejerlejlighed,"Gartnervang 39, 3. th",4000, Roskilde,960000 ,19-03-2005,Alm. Salg,67,14328.0,2,1970,
-265,Ejerlejlighed,"Gartnervang 39, 3. mf",4000, Roskilde,635000 ,19-03-2005,Alm. Salg,42,15119.0,1,1970,
-265,Ejerlejlighed,"Gartnervang 40, st. tv",4000, Roskilde,1190000 ,19-03-2005,Alm. Salg,82,14512.0,3,1969,
-265,Ejerlejlighed,"Vognmandsmarken 2, 1. tv",4000, Roskilde,960000 ,19-03-2005,Alm. Salg,71,13521.0,2,1971,
-265,Ejerlejlighed,"Vognmandsmarken 2, 2. mf",4000, Roskilde,635000 ,19-03-2005,Alm. Salg,47,13511.0,1,1971,
-265,Ejerlejlighed,"Gartnervang 16, 1. th",4000, Roskilde,960000 ,19-03-2005,Alm. Salg,65,14769.0,2,1967,
-265,Ejerlejlighed,"Gartnervang 40, 1. tv",4000, Roskilde,1190000 ,19-03-2005,Alm. Salg,82,14512.0,3,1969,
-265,Ejerlejlighed,"Vognmandsmarken 2, 3. th",4000, Roskilde,1190000 ,19-03-2005,Alm. Salg,88,13523.0,3,1971,
-265,Ejerlejlighed,"Gartnervang 40, 2. th",4000, Roskilde,960000 ,19-03-2005,Alm. Salg,67,14328.0,2,1969,
-265,Ejerlejlighed,"Gartnervang 40, 2. tv",4000, Roskilde,1190000 ,19-03-2005,Alm. Salg,82,14512.0,3,1969,
-265,Ejerlejlighed,"Gartnervang 16, 1. tv",4000, Roskilde,1190000 ,19-03-2005,Alm. Salg,85,14000.0,3,1967,
-265,Ejerlejlighed,"Gartnervang 16, 2. tv",4000, Roskilde,1190000 ,19-03-2005,Alm. Salg,85,14000.0,3,1967,
-265,Ejerlejlighed,"Gartnervang 40, 2. mf",4000, Roskilde,635000 ,19-03-2005,Alm. Salg,42,15119.0,1,1969,
-265,Ejerlejlighed,"Gartnervang 40, 3. th",4000, Roskilde,960000 ,19-03-2005,Alm. Salg,67,14328.0,2,1969,
-265,Ejerlejlighed,"Gartnervang 40, 3. tv",4000, Roskilde,1190000 ,19-03-2005,Alm. Salg,82,14512.0,3,1969,
-265,Ejerlejlighed,"Gartnervang 14, 2. tv",4000, Roskilde,960000 ,19-03-2005,Alm. Salg,65,14769.0,2,1967,
-265,Ejerlejlighed,"Vognmandsmarken 4, st. mf",4000, Roskilde,635000 ,19-03-2005,Alm. Salg,47,13511.0,1,1971,
-265,Ejerlejlighed,"Gartnervang 41, 1. mf",4000, Roskilde,635000 ,19-03-2005,Alm. Salg,42,15119.0,1,1970,
-265,Ejerlejlighed,"Vognmandsmarken 4, 2. mf",4000, Roskilde,635000 ,19-03-2005,Alm. Salg,47,13511.0,1,1971,
-265,Ejerlejlighed,"Gartnervang 41, 2. mf",4000, Roskilde,635000 ,19-03-2005,Alm. Salg,42,15119.0,1,1970,
-265,Ejerlejlighed,"Gartnervang 41, 1. tv",4000, Roskilde,960000 ,19-03-2005,Alm. Salg,67,14328.0,2,1970,
-265,Ejerlejlighed,"Gartnervang 41, 2. tv",4000, Roskilde,960000 ,19-03-2005,Alm. Salg,67,14328.0,2,1970,
-265,Ejerlejlighed,"Gartnervang 47, 3. th",4000, Roskilde,1190000 ,19-03-2005,Alm. Salg,79,15063.0,3,1970,
-265,Ejerlejlighed,"Gartnervang 24, st. th",4000, Roskilde,960000 ,19-03-2005,Alm. Salg,65,14769.0,2,1968,
-265,Ejerlejlighed,"Gartnervang 24, 1. th",4000, Roskilde,960000 ,19-03-2005,Alm. Salg,65,14769.0,2,1968,
-265,Ejerlejlighed,"Gartnervang 18, 1. mf",4000, Roskilde,635000 ,19-03-2005,Alm. Salg,41,15488.0,1,1968,
-265,Ejerlejlighed,"Vognmandsmarken 6, 2. th",4000, Roskilde,1190000 ,19-03-2005,Alm. Salg,82,14512.0,3,1971,
-265,Ejerlejlighed,"Gartnervang 42, 2. th",4000, Roskilde,1190000 ,19-03-2005,Alm. Salg,82,14512.0,3,1969,
 265,Ejerlejlighed,"Gartnervang 18, 2. th",4000, Roskilde,190000 ,19-03-2005,Alm. Salg,82,2317.0,3,1968,
-265,Ejerlejlighed,"Gartnervang 42, 2. tv",4000, Roskilde,960000 ,19-03-2005,Alm. Salg,67,14328.0,2,1969,
-265,Ejerlejlighed,"Vognmandsmarken 6, 3. tv",4000, Roskilde,960000 ,19-03-2005,Alm. Salg,67,14328.0,2,1971,
-265,Ejerlejlighed,"Gartnervang 42, 3. tv",4000, Roskilde,960000 ,19-03-2005,Alm. Salg,67,14328.0,2,1969,
-265,Ejerlejlighed,"Gartnervang 18, 3. th",4000, Roskilde,1190000 ,19-03-2005,Alm. Salg,82,14512.0,3,1968,
-265,Ejerlejlighed,"Vognmandsmarken 8, 1. mf",4000, Roskilde,635000 ,19-03-2005,Alm. Salg,42,15119.0,1,1971,
-265,Ejerlejlighed,"Vognmandsmarken 8, 1. th",4000, Roskilde,960000 ,19-03-2005,Alm. Salg,67,14328.0,2,1971,
 265,Ejerlejlighed,"Haraldsborgvej 6B, st. tv",4000, Roskilde,1105000 ,19-03-2005,Alm. Salg,43,25698.0,1,1961,
-265,Ejerlejlighed,"Gartnervang 44, 1. mf",4000, Roskilde,635000 ,19-03-2005,Alm. Salg,42,15119.0,1,1969,
-265,Ejerlejlighed,"Vognmandsmarken 8, 2. mf",4000, Roskilde,635000 ,19-03-2005,Alm. Salg,42,15119.0,1,1971,
-265,Ejerlejlighed,"Vognmandsmarken 8, 2. tv",4000, Roskilde,1190000 ,19-03-2005,Alm. Salg,82,14512.0,3,1971,
-265,Ejerlejlighed,"Vognmandsmarken 8, 2. th",4000, Roskilde,960000 ,19-03-2005,Alm. Salg,67,14328.0,2,1971,
-265,Ejerlejlighed,"Gartnervang 41, 3. mf",4000, Roskilde,635000 ,19-03-2005,Alm. Salg,42,15119.0,1,1970,
-265,Ejerlejlighed,"Gartnervang 41, 3. tv",4000, Roskilde,960000 ,19-03-2005,Alm. Salg,67,14328.0,2,1970,
-265,Ejerlejlighed,"Vognmandsmarken 6, st. tv",4000, Roskilde,960000 ,19-03-2005,Alm. Salg,67,14328.0,2,1971,
-265,Ejerlejlighed,"Gartnervang 22, 2. mf",4000, Roskilde,635000 ,19-03-2005,Alm. Salg,41,15488.0,1,1968,
-265,Ejerlejlighed,"Gartnervang 44, 2. th",4000, Roskilde,960000 ,19-03-2005,Alm. Salg,67,14328.0,2,1969,
-265,Ejerlejlighed,"Vognmandsmarken 10, st. mf",4000, Roskilde,635000 ,19-03-2005,Alm. Salg,42,15119.0,1,1971,
-265,Ejerlejlighed,"Vognmandsmarken 10, 1. tv",4000, Roskilde,960000 ,19-03-2005,Alm. Salg,67,14328.0,2,1971,
-265,Ejerlejlighed,"Gartnervang 20, st. th",4000, Roskilde,960000 ,19-03-2005,Alm. Salg,65,14769.0,3,1968,
-265,Ejerlejlighed,"Vognmandsmarken 10, 1. mf",4000, Roskilde,635000 ,19-03-2005,Alm. Salg,42,15119.0,1,1971,
-265,Ejerlejlighed,"Gartnervang 45, 1. th",4000, Roskilde,960000 ,19-03-2005,Alm. Salg,67,14328.0,2,1970,
-265,Ejerlejlighed,"Vognmandsmarken 10, 2. mf",4000, Roskilde,635000 ,19-03-2005,Alm. Salg,42,15119.0,1,1971,
-265,Ejerlejlighed,"Gartnervang 24, 1. mf",4000, Roskilde,635000 ,19-03-2005,Alm. Salg,41,15488.0,1,1968,
-265,Ejerlejlighed,"Gartnervang 48, 1. mf",4000, Roskilde,635000 ,19-03-2005,Alm. Salg,42,15119.0,1,1969,
-265,Ejerlejlighed,"Gartnervang 24, 2. mf",4000, Roskilde,635000 ,19-03-2005,Alm. Salg,41,15488.0,1,1968,
-265,Ejerlejlighed,"Gartnervang 24, 2. th",4000, Roskilde,960000 ,19-03-2005,Alm. Salg,65,14769.0,2,1968,
-265,Ejerlejlighed,"Gartnervang 24, 2. tv",4000, Roskilde,1190000 ,19-03-2005,Alm. Salg,82,14512.0,3,1968,
-265,Ejerlejlighed,"Gartnervang 48, 3. th",4000, Roskilde,960000 ,19-03-2005,Alm. Salg,67,14328.0,2,1969,
-265,Ejerlejlighed,"Vognmandsmarken 10, 3. th",4000, Roskilde,1190000 ,19-03-2005,Alm. Salg,82,14512.0,3,1971,
-265,Ejerlejlighed,"Vognmandsmarken 10, 3. tv",4000, Roskilde,960000 ,19-03-2005,Alm. Salg,71,13521.0,2,1971,
-265,Ejerlejlighed,"Gartnervang 20, 3. tv",4000, Roskilde,1190000 ,19-03-2005,Alm. Salg,78,15256.0,3,1968,
-265,Ejerlejlighed,"Vognmandsmarken 12, st. tv",4000, Roskilde,1190000 ,19-03-2005,Alm. Salg,82,14512.0,3,1971,
 265,Ejerlejlighed,"Gartnervang 45, 3. mf",4000, Roskilde,850000 ,19-03-2005,Alm. Salg,42,20238.0,1,1970,
-265,Ejerlejlighed,"Vognmandsmarken 12, 2. mf",4000, Roskilde,635000 ,19-03-2005,Alm. Salg,42,15119.0,1,1971,
-265,Ejerlejlighed,"Gartnervang 46, 1. mf",4000, Roskilde,635000 ,19-03-2005,Alm. Salg,42,15119.0,1,1969,
-265,Ejerlejlighed,"Vognmandsmarken 12, 3. tv",4000, Roskilde,1190000 ,19-03-2005,Alm. Salg,82,14512.0,3,1971,
-265,Ejerlejlighed,"Vognmandsmarken 12, 3. th",4000, Roskilde,960000 ,19-03-2005,Alm. Salg,67,14328.0,2,1971,
-265,Ejerlejlighed,"Gartnervang 49, 2. th",4000, Roskilde,960000 ,19-03-2005,Alm. Salg,67,14328.0,2,1970,
-265,Ejerlejlighed,"Gartnervang 49, 2. tv",4000, Roskilde,1190000 ,19-03-2005,Alm. Salg,79,15063.0,3,1970,
-265,Ejerlejlighed,"Gartnervang 26, 2. mf",4000, Roskilde,635000 ,19-03-2005,Alm. Salg,47,13511.0,1,1968,
-265,Ejerlejlighed,"Gartnervang 51, 1. th",4000, Roskilde,1190000 ,19-03-2005,Alm. Salg,82,14512.0,3,1970,
-265,Ejerlejlighed,"Gartnervang 49, 3. tv",4000, Roskilde,1190000 ,19-03-2005,Alm. Salg,79,15063.0,3,1970,
-265,Ejerlejlighed,"Gartnervang 51, 1. tv",4000, Roskilde,960000 ,19-03-2005,Alm. Salg,67,14328.0,2,1970,
-265,Ejerlejlighed,"Gartnervang 51, 2. th",4000, Roskilde,1190000 ,19-03-2005,Alm. Salg,82,14512.0,3,1970,
-265,Ejerlejlighed,"Gartnervang 26, 3. th",4000, Roskilde,1190000 ,19-03-2005,Alm. Salg,88,13523.0,3,1968,
-265,Ejerlejlighed,"Gartnervang 51, 2. mf",4000, Roskilde,635000 ,19-03-2005,Alm. Salg,42,15119.0,1,1970,
-265,Ejerlejlighed,"Gartnervang 51, 3. th",4000, Roskilde,1190000 ,19-03-2005,Alm. Salg,82,14512.0,3,1970,
-265,Ejerlejlighed,"Gartnervang 28, st. mf",4000, Roskilde,635000 ,19-03-2005,Alm. Salg,47,13511.0,1,1968,
-265,Ejerlejlighed,"Gartnervang 28, st. tv",4000, Roskilde,1190000 ,19-03-2005,Alm. Salg,84,14167.0,3,1968,
-265,Ejerlejlighed,"Gartnervang 28, 2. mf",4000, Roskilde,635000 ,19-03-2005,Alm. Salg,47,13511.0,1,1968,
-265,Ejerlejlighed,"Gartnervang 28, 3. th",4000, Roskilde,960000 ,19-03-2005,Alm. Salg,71,13521.0,2,1968,
-265,Ejerlejlighed,"Gartnervang 28, 3. tv",4000, Roskilde,1190000 ,19-03-2005,Alm. Salg,84,14167.0,3,1968,
-265,Ejerlejlighed,"Gartnervang 30, st. tv",4000, Roskilde,960000 ,19-03-2005,Alm. Salg,71,13521.0,2,1968,
-265,Ejerlejlighed,"Gartnervang 30, 1. th",4000, Roskilde,1190000 ,19-03-2005,Alm. Salg,84,14167.0,3,1968,
-265,Ejerlejlighed,"Gartnervang 30, 2. th",4000, Roskilde,1190000 ,19-03-2005,Alm. Salg,84,14167.0,3,1968,
-265,Ejerlejlighed,"Gartnervang 47, 1. th",4000, Roskilde,1190000 ,19-03-2005,Alm. Salg,79,15063.0,3,1970,
-265,Ejerlejlighed,"Gartnervang 48, 1. tv",4000, Roskilde,1190000 ,19-03-2005,Alm. Salg,82,14512.0,3,1969,
-265,Ejerlejlighed,"Gartnervang 48, 2. mf",4000, Roskilde,635000 ,19-03-2005,Alm. Salg,42,15119.0,1,1969,
-265,Ejerlejlighed,"Gartnervang 49, 1. mf",4000, Roskilde,635000 ,19-03-2005,Alm. Salg,42,15119.0,1,1970,
-265,Ejerlejlighed,"Gartnervang 46, 3. tv",4000, Roskilde,960000 ,19-03-2005,Alm. Salg,67,14328.0,2,1969,
 265,Villa,Bakkefløjen 8,4130, Viby Sjælland,2070000 ,19-03-2005,Alm. Salg,210,9857.0,7,1974,
 265,Villa,Mosevej 3,4130, Viby Sjælland,1675000 ,19-03-2005,Alm. Salg,112,14955.0,4,1966,
 265,Villa,Frederiksborgvej 106,4000, Roskilde,3700000 ,19-03-2005,Alm. Salg,178,20787.0,5,2018,
@@ -23052,8 +22702,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Rækkehus,Åsbjergvænge 31,4000, Roskilde,1400000 ,24-07-2004,Alm. Salg,123,11382.0,5,1987,
 265,Ejerlejlighed,"Roskildevænget 37, st. tv",4000, Roskilde,1040000 ,24-07-2004,Alm. Salg,62,16774.0,2,1962,
 265,Ejerlejlighed,"Allehelgensgade 18, 2. tv",4000, Roskilde,2175000 ,24-07-2004,Alm. Salg,99,21970.0,3,1882,
-265,Ejerlejlighed,Ellevej 7C,3670, Veksø Sjælland,1235000 ,24-07-2004,Alm. Salg,167,7395.0,4,2012,
-265,Villa,Ellevej 7,3670, Veksø Sjælland,1235000 ,24-07-2004,Alm. Salg,226,5465.0,7,2007,
 265,Rækkehus,Præstemarksvej 52A,4000, Roskilde,2725000 ,22-07-2004,Alm. Salg,130,20962.0,5,2005,
 265,Ejerlejlighed,"Eget Bo 2, 1. th",4000, Roskilde,1160000 ,22-07-2004,Alm. Salg,64,18125.0,2,1973,
 265,Villa,Lyøvej 13,4000, Roskilde,2060000 ,22-07-2004,Alm. Salg,213,9671.0,5,1971,
@@ -23402,7 +23050,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Rækkehus,Aspen 3,4000, Roskilde,1440000 ,28-04-2004,Alm. Salg,110,13091.0,4,1966,
 265,Rækkehus,Jyllingeparken 156,4040, Jyllinge,800000 ,28-04-2004,Andet,123,6504.0,4,1978,
 265,Villa,Ericavej 2,4040, Jyllinge,301750 ,28-04-2004,Fam. Salg,175,1724.0,6,2007,
-265,Villa,Havelodden 10,4000, Roskilde,1600000 ,28-04-2004,Alm. Salg,137,11679.0,5,1958,
 265,Villa,Lupinvej 40,4040, Jyllinge,900000 ,28-04-2004,Alm. Salg,183,4918.0,4,2007,
 265,Rækkehus,Østre Kirkevej 6K,4000, Roskilde,1805000 ,27-04-2004,Alm. Salg,90,20056.0,3,1998,
 265,Rækkehus,Ladegårdsvej 26,4000, Roskilde,1485000 ,27-04-2004,Alm. Salg,98,15153.0,4,1982,
@@ -23540,9 +23187,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Rækkehus,Joensuuvej 162,4000, Roskilde,1995000 ,25-03-2004,Alm. Salg,108,18472.0,5,2004,
 265,Rækkehus,Lynghøjen 25,4000, Roskilde,1390000 ,24-03-2004,Alm. Salg,85,16353.0,3,1989,
 265,Rækkehus,Smedegårdsparken 36,4000, Roskilde,1878000 ,24-03-2004,Alm. Salg,142,13225.0,5,1978,
-265,Ejerlejlighed,"Roskildevænget 33, 2. tv",4000, Roskilde,1100000 ,24-03-2004,Alm. Salg,76,14474.0,3,1960,
 265,Ejerlejlighed,"Ejboparken 11, 2. tv",4000, Roskilde,895000 ,24-03-2004,Alm. Salg,78,11474.0,3,1967,
-265,Ejerlejlighed,"Dommervænget 14C, 2. th",4000, Roskilde,1100000 ,24-03-2004,Alm. Salg,87,12644.0,4,1968,
 265,Ejerlejlighed,"Roskildevænget 29, 1. th",4000, Roskilde,1085000 ,24-03-2004,Alm. Salg,76,14276.0,3,1960,
 265,Villa,Emilsgave 121,4130, Viby Sjælland,1630000 ,24-03-2004,Alm. Salg,114,14298.0,4,1980,
 265,Villa,Motelvej 35,4000, Roskilde,1900000 ,23-03-2004,Alm. Salg,163,11656.0,4,1966,
@@ -23660,12 +23305,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Ejerlejlighed,"Helligkorsvej 15A, 1. th",4000, Roskilde,1120000 ,24-02-2004,Alm. Salg,62,18065.0,2,1937,
 265,Villa,Horsevænget 2,4130, Viby Sjælland,1690000 ,24-02-2004,Alm. Salg,140,12071.0,5,1973,
 265,Ejerlejlighed,"Dommervænget 8D, st. tv",4000, Roskilde,1195000 ,23-02-2004,Alm. Salg,86,13895.0,4,1968,
-265,Ejerlejlighed,"Munkebro 13, 1. th",4000, Roskilde,1895000 ,23-02-2004,Alm. Salg,88,21534.0,3,1931,
 265,Villa,Bogfinkevej 81,4040, Jyllinge,1195000 ,23-02-2004,Alm. Salg,195,6128.0,6,2007,
 265,Villa,Åfløjen 34,4130, Viby Sjælland,2025000 ,23-02-2004,Alm. Salg,164,12348.0,5,1977,
 265,Villa,Jønksvej 5,4000, Roskilde,2150000 ,23-02-2004,Alm. Salg,182,11813.0,5,1997,
 265,Villa,I P Hansens Vej 21,4000, Roskilde,2495000 ,23-02-2004,Alm. Salg,168,14851.0,6,1953,
-265,Villa,Røglevangen 2,4000, Roskilde,1895000 ,23-02-2004,Alm. Salg,126,15040.0,4,1967,
 265,Villa,Fjordager 19,4040, Jyllinge,1035000 ,23-02-2004,Alm. Salg,158,6551.0,6,2007,
 265,Villa,Frederiksborgvej 3B,4000, Roskilde,2850000 ,23-02-2004,Alm. Salg,152,18750.0,4,1981,
 265,Villa,Himmelevvej 14,4000, Roskilde,2101000 ,23-02-2004,Alm. Salg,152,13822.0,5,1957,
@@ -23719,8 +23362,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Fasanvænget 38,4040, Jyllinge,2295000 ,11-02-2004,Alm. Salg,132,17386.0,3,2000,
 265,Villa,Toftevangen 26,4130, Viby Sjælland,1775000 ,11-02-2004,Alm. Salg,190,9342.0,5,1974,
 265,Ejerlejlighed,"Dommervænget 8B, 2. th",4000, Roskilde,1065000 ,10-02-2004,Alm. Salg,87,12241.0,4,1968,
-265,Ejerlejlighed,"Borgediget 47, 1. th",4000, Roskilde,4250000 ,10-02-2004,Alm. Salg,115,36957.0,4,1914,
-265,Ejerlejlighed,"Borgediget 47, 2. th",4000, Roskilde,4250000 ,10-02-2004,Alm. Salg,115,36957.0,4,1914,
 265,Ejerlejlighed,"Kongebakken 15, 2. tv",4000, Roskilde,1495000 ,10-02-2004,Alm. Salg,84,17798.0,2,1960,
 265,Villa,Spurvevænget 5,4130, Viby Sjælland,1470000 ,10-02-2004,Alm. Salg,131,11221.0,4,1964,
 265,Villa,Gåseageren 17,4000, Roskilde,1950000 ,10-02-2004,Alm. Salg,150,13000.0,4,1987,
@@ -23874,9 +23515,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Hedegade 37,4000, Roskilde,2150000 ,04-01-2004,Alm. Salg,157,13694.0,5,1940,
 265,Rækkehus,Kirsebærhegnet 15,4040, Jyllinge,1495000 ,03-01-2004,Alm. Salg,92,16250.0,3,2000,
 265,Villa,Engblommevej 2,4040, Jyllinge,1575000 ,03-01-2004,Alm. Salg,178,8848.0,7,1957,
-265,Ejerlejlighed,"Lille Højbrøndsstræde 5, st",4000, Roskilde,1650000 ,01-01-2004,Alm. Salg,139,11871.0,4,1907,
 265,Villa,Kornvej 29,4040, Jyllinge,1424505 ,01-01-2004,Alm. Salg,158,9016.0,7,2005,
-265,Villa,"Lille Højbrøndsstræde 5, 1",4000, Roskilde,1650000 ,01-01-2004,Alm. Salg,134,12313.0,3,1907,
 265,Villa,Vibesøvej 7,4000, Roskilde,1283333 ,01-01-2004,Alm. Salg,987,1300.0,32,1900,
 265,Ejerlejlighed,"Havnevej 18, 1. mf",4000, Roskilde,340000 ,31-12-2003,Fam. Salg,26,13077.0,1,1960,
 265,Villa,Dronning Emmas Vej 23,4000, Roskilde,2535000 ,29-12-2003,Alm. Salg,119,21303.0,4,1959,
@@ -23910,12 +23549,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Østtoften 34,4040, Jyllinge,1124000 ,17-12-2003,Alm. Salg,173,6497.0,6,1961,
 265,Villa,Nålekrogen 5,4040, Jyllinge,2370000 ,17-12-2003,Alm. Salg,136,17426.0,4,1997,
 265,Villa,Hirsevej 10,4040, Jyllinge,1400000 ,17-12-2003,Alm. Salg,144,9722.0,6,1962,
-265,Ejerlejlighed,"Køgevej 2, 1. tv",4000, Roskilde,5937807 ,16-12-2003,Fam. Salg,181,32806.0,6,1908,
-265,Ejerlejlighed,"Køgevej 2, 2. tv",4000, Roskilde,5937807 ,16-12-2003,Fam. Salg,181,32806.0,6,1908,
-265,Ejerlejlighed,"Køgevej 2, 3. tv",4000, Roskilde,5937807 ,16-12-2003,Fam. Salg,215,27618.0,8,1908,
-265,Ejerlejlighed,"Jernbanegade 19, 1",4000, Roskilde,5937807 ,16-12-2003,Fam. Salg,168,35344.0,5,1908,
-265,Ejerlejlighed,"Jernbanegade 19, 2",4000, Roskilde,5937807 ,16-12-2003,Fam. Salg,168,35344.0,5,1908,
-265,Ejerlejlighed,"Jernbanegade 19, 3",4000, Roskilde,5937807 ,16-12-2003,Fam. Salg,168,35344.0,5,1908,
 265,Villa,Sommervej 9,4040, Jyllinge,1250001 ,16-12-2003,Alm. Salg,78,16026.0,2,1964,
 265,Villa,Humlevej 10,4040, Jyllinge,1945000 ,16-12-2003,Alm. Salg,128,15195.0,4,1967,
 265,Villa,Åvej 6,4130, Viby Sjælland,1115000 ,16-12-2003,Alm. Salg,96,11615.0,4,1961,
@@ -23944,9 +23577,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Rækkehus,Klokkervej 107,4000, Roskilde,2075000 ,09-12-2003,Alm. Salg,139,14928.0,4,1978,
 265,Rækkehus,Søparken 113,4000, Roskilde,1550000 ,09-12-2003,Alm. Salg,128,12109.0,6,1971,
 265,Villa,Akacievej 22,4000, Roskilde,1335000 ,09-12-2003,Alm. Salg,171,7807.0,4,2009,
-265,Ejerlejlighed,"Hovedgaden 10A, st",4000, Roskilde,4450000 ,08-12-2003,Alm. Salg,123,36179.0,5,1937,
 265,Ejerlejlighed,"Ringstedgade 20A, 1",4000, Roskilde,4100000 ,08-12-2003,Alm. Salg,162,25309.0,6,1870,
-265,Ejerlejlighed,"Ryttergårdsvej 1B, st",4000, Roskilde,4450000 ,08-12-2003,Alm. Salg,117,38034.0,3,1937,
 265,Villa,Store Valbyvej 249,4000, Roskilde,1600000 ,08-12-2003,Alm. Salg,223,7175.0,5,1877,
 265,Villa,Jyllingehøj 2,4040, Jyllinge,4350000 ,08-12-2003,Alm. Salg,257,16926.0,6,1965,
 265,Rækkehus,Jyllingeparken 30,4040, Jyllinge,1595000 ,07-12-2003,Alm. Salg,131,12176.0,4,1978,
@@ -23992,12 +23623,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Knudsvej 13,4040, Jyllinge,1185000 ,24-11-2003,Alm. Salg,92,12880.0,2,1964,
 265,Villa,Fruervej 16,4621, Gadstrup,1875000 ,24-11-2003,Alm. Salg,161,11646.0,5,1975,
 265,Ejerlejlighed,"Helligkorsvej 18A, 1. tv",4000, Roskilde,480243 ,23-11-2003,Andet,59,8140.0,2,1940,
-265,Ejerlejlighed,Ellevej 7C,3670, Veksø Sjælland,575000 ,23-11-2003,Alm. Salg,167,3443.0,4,2012,
 265,Villa,Stenkrogen 33,4040, Jyllinge,2550000 ,23-11-2003,Alm. Salg,157,16242.0,5,1988,
 265,Villa,Bymarken 45A,4000, Roskilde,1485000 ,23-11-2003,Alm. Salg,85,17471.0,3,1962,
 265,Villa,Vestergade 58,4000, Roskilde,1730000 ,23-11-2003,Alm. Salg,86,20116.0,4,1935,
 265,Villa,Humlebakken 8,4000, Roskilde,635000 ,23-11-2003,Alm. Salg,171,3713.0,7,2005,
-265,Villa,Ellevej 7,3670, Veksø Sjælland,575000 ,23-11-2003,Alm. Salg,226,2544.0,7,2007,
 265,Villa,Lærkevej 2,4040, Jyllinge,800000 ,22-11-2003,Alm. Salg,171,4678.0,6,2007,
 265,Ejerlejlighed,"Asylgade 28, 1. th",4000, Roskilde,1449000 ,21-11-2003,Alm. Salg,79,18342.0,4,1960,
 265,Ejerlejlighed,"Neergårdsparken 19, st. th",4000, Roskilde,950000 ,20-11-2003,Alm. Salg,74,12838.0,3,1968,
@@ -24076,9 +23705,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Ejerlejlighed,"Københavnsvej 28, 1",4000, Roskilde,2300000 ,30-10-2003,Alm. Salg,55,41818.0,3,1923,
 265,Villa,Ørsted Bygade 12,4622, Havdrup,1097904 ,30-10-2003,Alm. Salg,130,8445.0,4,1850,
 265,Rækkehus,Kometvej 31,4040, Jyllinge,1500000 ,29-10-2003,Alm. Salg,111,13514.0,4,1977,
-265,Ejerlejlighed,"Hedevænget 1, st. tv",4000, Roskilde,1075000 ,29-10-2003,Alm. Salg,78,13782.0,3,1961,
 265,Ejerlejlighed,"Helligkorsvej 24, 2. th",4000, Roskilde,1499739 ,29-10-2003,Alm. Salg,92,16302.0,2,1936,
-265,Ejerlejlighed,"Roskildevænget 69, st. th",4000, Roskilde,1075000 ,29-10-2003,Alm. Salg,76,14145.0,3,1962,
 265,Villa,Grethevej 1,4130, Viby Sjælland,1750000 ,29-10-2003,Alm. Salg,151,11589.0,4,1975,
 265,Villa,Rørholm 4,4000, Roskilde,2200000 ,28-10-2003,Alm. Salg,174,12644.0,5,1985,
 265,Villa,Dronning Sofies Vej 75,4000, Roskilde,2400000 ,28-10-2003,Alm. Salg,190,12632.0,7,1954,
@@ -24139,11 +23766,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Ejerlejlighed,"Algade 38, 2. th",4000, Roskilde,700000 ,14-10-2003,Alm. Salg,110,6364.0,3,1900,
 265,Ejerlejlighed,"Algade 38, 2. tv",4000, Roskilde,500000 ,14-10-2003,Alm. Salg,147,3401.0,5,1900,
 265,Ejerlejlighed,"Holbækvej 30, 3. tv",4000, Roskilde,785000 ,14-10-2003,Alm. Salg,51,15392.0,2,1946,
-265,Ejerlejlighed,Ellevej 7C,3670, Veksø Sjælland,1100000 ,14-10-2003,Alm. Salg,167,6587.0,4,2012,
 265,Villa,Solsortevej 6,4000, Roskilde,1895000 ,14-10-2003,Alm. Salg,122,15533.0,4,1959,
 265,Villa,Motelvej 52,4000, Roskilde,1595000 ,14-10-2003,Alm. Salg,111,14369.0,4,1969,
 265,Villa,Glentevej 17,4040, Jyllinge,1400000 ,14-10-2003,Alm. Salg,123,11382.0,4,1968,
-265,Villa,Ellevej 7,3670, Veksø Sjælland,1100000 ,14-10-2003,Alm. Salg,226,4867.0,7,2007,
 265,Villa,Drosselvej 42,4000, Roskilde,1995000 ,14-10-2003,Alm. Salg,196,10179.0,7,1961,
 265,Villa,Skovbovængets Sidealle 5,4000, Roskilde,1900000 ,14-10-2003,Alm. Salg,146,13014.0,5,1909,
 265,Villa,Svogerslev Hovedgade 39,4000, Roskilde,1365000 ,13-10-2003,Alm. Salg,239,5711.0,6,1880,
@@ -24291,11 +23916,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Ejerlejlighed,"Møllehusvej 12, 3. th",4000, Roskilde,865000 ,01-09-2003,Alm. Salg,53,16321.0,2,1946,
 265,Villa,Sivholmvej 1,4000, Roskilde,1450000 ,01-09-2003,Fam. Salg,101,14356.0,4,1962,
 265,Villa,Dyssegårdsvej 12,4621, Gadstrup,1599999 ,01-09-2003,Alm. Salg,124,12903.0,4,1971,
-265,Rækkehus,Stenleddet 25,4000, Roskilde,1500000 ,31-08-2003,Alm. Salg,99,15152.0,4,1966,
 265,Rækkehus,Sønderlundsvej 28A,4000, Roskilde,1700000 ,31-08-2003,Alm. Salg,110,15455.0,5,1957,
 265,Ejerlejlighed,"Ejboparken 3, st. tv",4000, Roskilde,1050000 ,31-08-2003,Alm. Salg,78,13462.0,3,1967,
 265,Villa,Dalvej 4,4040, Jyllinge,1856561 ,31-08-2003,Alm. Salg,129,14392.0,3,1982,
-265,Villa,Lysholmsvej 7,4000, Roskilde,1500000 ,31-08-2003,Fam. Salg,136,11029.0,5,1964,
 265,Villa,Strandvænget 13,4040, Jyllinge,2075000 ,30-08-2003,Alm. Salg,128,16211.0,3,2017,
 265,Villa,Ericavej 22,4040, Jyllinge,1275000 ,30-08-2003,Alm. Salg,103,12379.0,3,1980,
 265,Villa,Vibevej 14,4040, Jyllinge,1790895 ,30-08-2003,Alm. Salg,132,13567.0,5,1985,
@@ -24808,13 +24431,11 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Ejerlejlighed,"Ejboparken 15, 2. th",4000, Roskilde,975000 ,17-04-2003,Alm. Salg,78,12500.0,3,1967,
 265,Villa,Amager Huse 5,4320, Lejre,100000 ,17-04-2003,Alm. Salg,80,1250.0,3,1878,
 265,Villa,Stærevej 12,4040, Jyllinge,406080 ,16-04-2003,Alm. Salg,215,1889.0,9,1975,
-265,Rækkehus,Børnehøjen 13,4000, Roskilde,1600000 ,15-04-2003,Alm. Salg,107,14953.0,4,1969,
 265,Ejerlejlighed,"Knud Den Stores Vej 32C, st. tv",4000, Roskilde,1400000 ,15-04-2003,Alm. Salg,89,15730.0,4,1966,
 265,Ejerlejlighed,"Hedevænget 7, st. th",4000, Roskilde,1050000 ,15-04-2003,Alm. Salg,60,17500.0,2,1963,
 265,Villa,Motelvej 45,4000, Roskilde,1690000 ,15-04-2003,Alm. Salg,139,12158.0,4,1969,
 265,Villa,Aastoften 7,4000, Roskilde,2195000 ,15-04-2003,Alm. Salg,126,17421.0,4,1968,
 265,Villa,Langengen 44,4000, Roskilde,1695000 ,15-04-2003,Alm. Salg,129,13140.0,4,1972,
-265,Villa,Kornerups Vænge 5,4000, Roskilde,1600000 ,15-04-2003,Fam. Salg,214,7477.0,7,1918,
 265,Villa,Solsortevej 1,4000, Roskilde,1740000 ,14-04-2003,Alm. Salg,151,11523.0,6,1975,
 265,Villa,Mellemtoften 13,4040, Jyllinge,775000 ,14-04-2003,Fam. Salg,132,5871.0,6,1995,
 265,Villa,Ørebjergvej 65,4000, Roskilde,1615000 ,14-04-2003,Alm. Salg,144,11215.0,5,1967,
@@ -25280,10 +24901,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Store Møllevænge 17,4000, Roskilde,1285000 ,15-11-2002,Alm. Salg,118,10890.0,4,1945,
 265,Rækkehus,Egen 29,4000, Roskilde,1470000 ,14-11-2002,Alm. Salg,110,13364.0,5,1968,
 265,Ejerlejlighed,"Gyvelvej 3, 3. tv",4000, Roskilde,885000 ,14-11-2002,Alm. Salg,55,16091.0,3,1957,
-265,Ejerlejlighed,"Møllehusene 9, st. th",4000, Roskilde,2150000 ,14-11-2002,Alm. Salg,134,16045.0,3,1886,
 265,Ejerlejlighed,"Holbækvej 4, 4. tv",4000, Roskilde,675000 ,14-11-2002,Alm. Salg,45,15000.0,1,1969,
 265,Villa,Platanvej 19,4000, Roskilde,1885000 ,14-11-2002,Alm. Salg,132,14280.0,5,1950,
-265,Villa,Motelvej 39,4000, Roskilde,2150000 ,14-11-2002,Alm. Salg,157,13694.0,4,1970,
 265,Villa,Venusvej 2,4040, Jyllinge,926500 ,14-11-2002,Fam. Salg,129,7182.0,5,1986,
 265,Villa,Holbækvej 15,4000, Roskilde,1500000 ,14-11-2002,Fam. Salg,200,7500.0,7,1930,
 265,Ejerlejlighed,"Tofthøjvej 18, 2. tv",4130, Viby Sjælland,900000 ,13-11-2002,Alm. Salg,74,12162.0,2,1968,
@@ -26013,12 +25632,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Dronning Sofies Vej 48,4000, Roskilde,2050000 ,02-05-2002,Auktion,137,14964.0,5,1953,
 265,Rækkehus,Terrasserne 31,4000, Roskilde,1400000 ,01-05-2002,Alm. Salg,104,13462.0,3,1982,
 265,Villa,Fyrrevej 12,4040, Jyllinge,1103983 ,01-05-2002,Alm. Salg,79,13974.0,4,1980,
-265,Rækkehus,Eleonoravej 2F,4000, Roskilde,1650000 ,30-04-2002,Alm. Salg,72,22917.0,2,1873,
 265,Ejerlejlighed,"Møllehusvej 129, 2. mf",4000, Roskilde,500000 ,30-04-2002,Alm. Salg,32,15625.0,1,1975,
 265,Ejerlejlighed,"Knud Den Stores Vej 36, 3. 216",4000, Roskilde,910000 ,30-04-2002,Alm. Salg,67,13582.0,2,1971,
 265,Ejerlejlighed,"Kornerups Vænge 6, 3. tv",4000, Roskilde,1895000 ,30-04-2002,Alm. Salg,98,19337.0,4,1916,
 265,Villa,Mosevangen 5,4130, Viby Sjælland,850000 ,30-04-2002,Alm. Salg,181,4696.0,4,1970,
-265,Villa,Tuevænget 13,4000, Roskilde,1650000 ,30-04-2002,Alm. Salg,148,11149.0,6,1973,
 265,Villa,Ruggårdsvej 1,4000, Roskilde,1575000 ,30-04-2002,Alm. Salg,145,10862.0,5,1924,
 265,Villa,Byvolden 36,4000, Roskilde,1420000 ,30-04-2002,Alm. Salg,168,8452.0,5,1933,
 265,Ejerlejlighed,"Dommervænget 12B, 2. th",4000, Roskilde,1210000 ,29-04-2002,Alm. Salg,87,13908.0,4,1968,
@@ -26467,8 +26084,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Norddalen 21,4000, Roskilde,2030000 ,01-01-2002,Alm. Salg,157,12930.0,4,1972,
 265,Villa,Brordrupvej 14A,4621, Gadstrup,1250000 ,31-12-2001,Fam. Salg,96,13021.0,3,1960,
 265,Villa,Osvej 15,4040, Jyllinge,1026937 ,31-12-2001,Fam. Salg,126,8150.0,3,1998,
-265,Ejerlejlighed,Bondetinget 23,4000, Roskilde,2900000 ,30-12-2001,Fam. Salg,80,36250.0,3,1850,
-265,Ejerlejlighed,Blågårdsstræde 10,4000, Roskilde,2900000 ,30-12-2001,Fam. Salg,137,21168.0,4,1850,
 265,Villa,Biensvej 20,4621, Gadstrup,1645291 ,30-12-2001,Alm. Salg,130,12656.0,6,1946,
 265,Villa,Holmevej 60,3670, Veksø Sjælland,1795000 ,30-12-2001,Andet,135,13296.0,5,1964,
 265,Ejerlejlighed,"Helligkorsvej 40, 1. tv",4000, Roskilde,850000 ,29-12-2001,Alm. Salg,52,16346.0,2,1938,
@@ -26836,10 +26451,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Eriksvej 34,4000, Roskilde,1417120 ,08-09-2001,Alm. Salg,87,16289.0,4,1954,
 265,Villa,Sengeløsevej 6,4000, Roskilde,3604490 ,08-09-2001,Alm. Salg,268,13450.0,6,1838,
 265,Villa,Rundingen 3,4000, Roskilde,2000000 ,08-09-2001,Alm. Salg,169,11834.0,7,1850,
-265,Rækkehus,Egen 4,4000, Roskilde,1450000 ,06-09-2001,Alm. Salg,110,13182.0,5,1968,
 265,Villa,Store Valbyvej 245C,4000, Roskilde,1295000 ,06-09-2001,Alm. Salg,167,7754.0,6,1971,
 265,Villa,Dronning Sofies Vej 103,4000, Roskilde,1598000 ,06-09-2001,Alm. Salg,76,21026.0,3,1952,
-265,Villa,Kløvervej 32,4000, Roskilde,1450000 ,06-09-2001,Alm. Salg,106,13679.0,4,1952,
 265,Villa,Sandparken 5,4000, Roskilde,2065000 ,05-09-2001,Alm. Salg,130,15885.0,5,1992,
 265,Ejerlejlighed,"Neergårdsparken 31, 1. 3",4000, Roskilde,595000 ,04-09-2001,Alm. Salg,38,15658.0,1,1968,
 265,Ejerlejlighed,"Ejboparken 9, 2. mf",4000, Roskilde,580001 ,04-09-2001,Alm. Salg,43,13488.0,1,1967,
@@ -27575,7 +27188,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Dalvej 2B,4040, Jyllinge,1124335 ,03-03-2001,Alm. Salg,94,11961.0,5,1962,
 265,Villa,Egebjerg 29,4000, Roskilde,2800000 ,02-03-2001,Alm. Salg,166,16867.0,6,1999,
 265,Villa,Himmelev Sognevej 61,4000, Roskilde,1915856 ,01-03-2001,Alm. Salg,135,14192.0,5,1964,
-265,Ejerlejlighed,"Jernbanegade 17, 2",4000, Roskilde,4300000 ,28-02-2001,Fam. Salg,142,30282.0,5,1889,
 265,Villa,Sommervej 7,4040, Jyllinge,500000 ,28-02-2001,Alm. Salg,154,3247.0,4,2007,
 265,Villa,Fasanvænget 6,4040, Jyllinge,784730 ,28-02-2001,Alm. Salg,142,5526.0,6,2007,
 265,Villa,Kløvervej 7,4130, Viby Sjælland,1200000 ,28-02-2001,Fam. Salg,146,8219.0,5,1963,
@@ -27791,12 +27403,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Ejerlejlighed,"Dommervænget 12A, 2. th",4000, Roskilde,1296361 ,02-01-2001,Alm. Salg,109,11893.0,3,1968,
 265,Ejerlejlighed,"Roskildevænget 10, 2. tv",4000, Roskilde,832360 ,01-01-2001,Alm. Salg,71,11723.0,3,1962,
 265,Villa,Skovbogade 41,4000, Roskilde,1378000 ,01-01-2001,Alm. Salg,104,13250.0,4,1908,
-265,Ejerlejlighed,"Eriksvej 6, st. 6",4000, Roskilde,1700000 ,31-12-2000,Alm. Salg,48,35417.0,1,1914,
-265,Ejerlejlighed,"Eriksvej 6, st. 8",4000, Roskilde,1700000 ,31-12-2000,Alm. Salg,40,42500.0,2,1914,
-265,Ejerlejlighed,"Eriksvej 6, 1. tv",4000, Roskilde,1700000 ,31-12-2000,Alm. Salg,53,32075.0,2,1914,
-265,Ejerlejlighed,"Eriksvej 6, 1. th",4000, Roskilde,1700000 ,31-12-2000,Alm. Salg,86,19767.0,3,1914,
-265,Ejerlejlighed,"Knudsvej 45, 1",4000, Roskilde,1700000 ,31-12-2000,Alm. Salg,147,11565.0,5,1914,
-265,Ejerlejlighed,"Knudsvej 45, st",4000, Roskilde,1700000 ,31-12-2000,Alm. Salg,62,27419.0,1,1914,
 265,Villa,Uglebakken 18,4040, Jyllinge,405691 ,31-12-2000,Alm. Salg,78,5201.0,3,1960,
 265,Villa,Rådalsgård Strandpark 8,4040, Jyllinge,1450000 ,29-12-2000,Fam. Salg,112,12946.0,4,1991,
 265,Villa,Fiskergårdsvej 8,4000, Roskilde,1350000 ,29-12-2000,Alm. Salg,138,9783.0,4,1974,
@@ -27924,7 +27530,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Søfrydvej 9,4040, Jyllinge,3592000 ,26-11-2000,Alm. Salg,132,27212.0,5,1985,
 265,Villa,Venusvej 7,4040, Jyllinge,1750000 ,26-11-2000,Auktion,175,10000.0,5,1986,
 265,Villa,Nordtoften 16,4040, Jyllinge,900000 ,26-11-2000,Alm. Salg,169,5325.0,5,1965,
-265,Villa,Oddestensvej 1A,4040, Jyllinge,7775000 ,26-11-2000,Alm. Salg,183,42486.0,5,2016,
 265,Rækkehus,Kildehøj 31,4040, Jyllinge,300000 ,25-11-2000,Alm. Salg,132,2273.0,5,2001,
 265,Villa,Haraldsborgvej 68,4000, Roskilde,1370000 ,25-11-2000,Alm. Salg,114,12018.0,5,1957,
 265,Villa,Lærkevej 42,4040, Jyllinge,2100921 ,24-11-2000,Alm. Salg,123,17081.0,5,1999,
@@ -29859,8 +29464,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Hasselvej 3,4040, Jyllinge,925000 ,13-06-1999,Alm. Salg,199,4648.0,6,1967,
 265,Villa,Solsikkevej 4,4040, Jyllinge,794000 ,13-06-1999,Alm. Salg,162,4901.0,5,2017,
 265,Ejerlejlighed,"Roskildevænget 8, 1. th",4000, Roskilde,737844 ,12-06-1999,Alm. Salg,71,10392.0,3,1962,
-265,Ejerlejlighed,Ejboparken 87A,4000, Roskilde,750000 ,12-06-1999,Alm. Salg,74,10135.0,2,1989,
-265,Ejerlejlighed,"Kongebakken 50, 3. th",4000, Roskilde,750000 ,12-06-1999,Alm. Salg,71,10563.0,3,1960,
 265,Villa,Poppelvej 3,4040, Jyllinge,1026208 ,12-06-1999,Alm. Salg,70,14660.0,4,1990,
 265,Rækkehus,Terrasserne 27,4000, Roskilde,1141000 ,11-06-1999,Alm. Salg,104,10971.0,3,1982,
 265,Ejerlejlighed,"Roskildevænget 65, 2. tv",4000, Roskilde,794045 ,11-06-1999,Alm. Salg,76,10448.0,3,1962,
@@ -32968,21 +32571,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Valmuevej 6,4000, Roskilde,384109 ,06-05-1997,Andet,140,2744.0,3,1912,
 265,Villa,Bogøvej 7,4000, Roskilde,1479981 ,06-05-1997,Alm. Salg,169,8757.0,5,1973,
 265,Ejerlejlighed,"Ejboparken 5, 1. mf",4000, Roskilde,295580 ,04-05-1997,Alm. Salg,43,6874.0,1,1967,
-265,Ejerlejlighed,"Helligkorsvej 1, st. tv",4000, Roskilde,2200000 ,04-05-1997,Alm. Salg,63,34921.0,2,1914,
-265,Ejerlejlighed,"Helligkorsvej 1, 1. tv",4000, Roskilde,2200000 ,04-05-1997,Alm. Salg,63,34921.0,2,1914,
-265,Ejerlejlighed,"Borgediget 47, st. mf",4000, Roskilde,2200000 ,04-05-1997,Alm. Salg,76,28947.0,3,1914,
-265,Ejerlejlighed,"Borgediget 47, st. th",4000, Roskilde,2200000 ,04-05-1997,Alm. Salg,88,25000.0,3,1914,
-265,Ejerlejlighed,"Helligkorsvej 1, 1. th",4000, Roskilde,2200000 ,04-05-1997,Alm. Salg,83,26506.0,2,1914,
-265,Ejerlejlighed,"Helligkorsvej 1, 2. tv",4000, Roskilde,2200000 ,04-05-1997,Alm. Salg,63,34921.0,2,1914,
-265,Ejerlejlighed,"Borgediget 47, 1. th",4000, Roskilde,2200000 ,04-05-1997,Alm. Salg,115,19130.0,4,1914,
-265,Ejerlejlighed,"Borgediget 47, 1. tv",4000, Roskilde,2200000 ,04-05-1997,Alm. Salg,95,23158.0,3,1914,
-265,Ejerlejlighed,"Borgediget 47, 2. th",4000, Roskilde,2200000 ,04-05-1997,Alm. Salg,115,19130.0,4,1914,
-265,Ejerlejlighed,"Borgediget 47, 2. tv",4000, Roskilde,2200000 ,04-05-1997,Alm. Salg,95,23158.0,3,1914,
 265,Ejerlejlighed,"Roskildevænget 21, 2. tv",4000, Roskilde,472425 ,04-05-1997,Alm. Salg,62,7620.0,2,1960,
-265,Ejerlejlighed,"Helligkorsvej 1, 2. th",4000, Roskilde,2200000 ,04-05-1997,Alm. Salg,83,26506.0,2,1914,
-265,Ejerlejlighed,"Helligkorsvej 1, 3",4000, Roskilde,2200000 ,04-05-1997,Alm. Salg,88,25000.0,3,1914,
-265,Ejerlejlighed,"Borgediget 47, 3. tv",4000, Roskilde,2200000 ,04-05-1997,Alm. Salg,63,34921.0,2,1914,
-265,Ejerlejlighed,"Borgediget 47, 3. th",4000, Roskilde,2200000 ,04-05-1997,Alm. Salg,80,27500.0,2,1914,
 265,Villa,Okseholm 13,4000, Roskilde,1601055 ,04-05-1997,Alm. Salg,250,6404.0,6,1971,
 265,Villa,Finnjollevej 25,4040, Jyllinge,1366000 ,04-05-1997,Alm. Salg,168,8131.0,6,1970,
 265,Villa,Frederiksborgvej 124,4000, Roskilde,1437540 ,04-05-1997,Alm. Salg,137,10493.0,4,1925,
@@ -33785,7 +33374,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Ejerlejlighed,"Ejboparken 33, 2. th",4000, Roskilde,538400 ,13-10-1996,Alm. Salg,78,6903.0,3,1969,
 265,Villa,Stormarksvej 6,4040, Jyllinge,1587124 ,13-10-1996,Alm. Salg,204,7780.0,4,1954,
 265,Villa,Jyllingehøj 11,4040, Jyllinge,925000 ,13-10-1996,Alm. Salg,111,8333.0,3,1973,
-265,Villa,Ro's Have 5A,4000, Roskilde,995040 ,13-10-1996,Alm. Salg,100,9950.0,3,1936,
 265,Rækkehus,Himmelev Skovvej 55,4000, Roskilde,888000 ,12-10-1996,Alm. Salg,127,6992.0,5,1981,
 265,Villa,Bygvej 25,4040, Jyllinge,375000 ,12-10-1996,Alm. Salg,145,2586.0,5,1998,
 265,Rækkehus,Tjørneparken 19,4000, Roskilde,979450 ,10-10-1996,Alm. Salg,108,9069.0,4,1972,
@@ -35295,7 +34883,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Ejerlejlighed,"Asylgade 26, 2. th",4000, Roskilde,299000 ,28-09-1995,Alm. Salg,39,7667.0,1,1960,
 265,Villa,Gåseageren 17,4000, Roskilde,1352000 ,28-09-1995,Alm. Salg,150,9013.0,4,1987,
 265,Villa,Lupinvej 40,4040, Jyllinge,120000 ,28-09-1995,Alm. Salg,183,656.0,4,2007,
-265,Villa,Slæggerupvej 202B,4000, Roskilde,1584300 ,28-09-1995,Alm. Salg,111,14273.0,4,1973,
 265,Ejerlejlighed,"Helligkorsvej 15A, 2. tv",4000, Roskilde,458113 ,27-09-1995,Alm. Salg,62,7389.0,2,1937,
 265,Villa,Søtoften 17,4000, Roskilde,1395000 ,27-09-1995,Alm. Salg,150,9300.0,5,1973,
 265,Villa,Poppel Alle 38,4000, Roskilde,1121530 ,27-09-1995,Alm. Salg,226,4963.0,7,1972,
@@ -35995,11 +35582,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Rækkehus,Åsbjergvænge 29,4000, Roskilde,767641 ,11-04-1995,Alm. Salg,95,8080.0,3,1987,
 265,Ejerlejlighed,"Neergårdsparken 37, 1. 1",4000, Roskilde,415000 ,11-04-1995,Alm. Salg,73,5685.0,3,1968,
 265,Ejerlejlighed,"Neergårdsparken 25, 1. th",4000, Roskilde,413000 ,11-04-1995,Alm. Salg,62,6661.0,2,1968,
-265,Ejerlejlighed,"Havnevej 26, 1. th",4000, Roskilde,530000 ,11-04-1995,Alm. Salg,88,6023.0,3,1960,
 265,Villa,Vibygårdsvej 2,4130, Viby Sjælland,949000 ,11-04-1995,Alm. Salg,142,6683.0,4,1972,
 265,Villa,Holbækvej 84,4000, Roskilde,720204 ,11-04-1995,Alm. Salg,109,6607.0,4,1918,
 265,Villa,Gammel Landevej 15,4000, Roskilde,1290000 ,11-04-1995,Alm. Salg,202,6386.0,7,1920,
-265,Villa,Nordhøjen 3,4000, Roskilde,530000 ,11-04-1995,Fam. Salg,182,2912.0,6,1974,
 265,Villa,Bogøvej 28,4000, Roskilde,920000 ,11-04-1995,Alm. Salg,143,6434.0,3,1972,
 265,Rækkehus,Fyrren 12,4000, Roskilde,600000 ,10-04-1995,Alm. Salg,110,5455.0,5,1969,
 265,Ejerlejlighed,"Møllehusvej 110, st. th",4000, Roskilde,441500 ,10-04-1995,Alm. Salg,63,7008.0,3,1958,
@@ -36191,16 +35776,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Solsortevej 11,4130, Viby Sjælland,775800 ,26-02-1995,Alm. Salg,120,6465.0,4,1965,
 265,Villa,Sankt Agnes Vej 20,4000, Roskilde,861000 ,25-02-1995,Alm. Salg,111,7757.0,4,1967,
 265,Ejerlejlighed,"Ejboparken 63, st. tv",4000, Roskilde,373500 ,24-02-1995,Alm. Salg,78,4788.0,3,1968,
-265,Ejerlejlighed,"Eriksvej 6, st. 6",4000, Roskilde,1181000 ,23-02-1995,Auktion,48,24604.0,1,1914,
-265,Ejerlejlighed,"Eriksvej 6, st. 8",4000, Roskilde,1181000 ,23-02-1995,Auktion,40,29525.0,2,1914,
-265,Ejerlejlighed,"Eriksvej 6, 1. tv",4000, Roskilde,1181000 ,23-02-1995,Auktion,53,22283.0,2,1914,
-265,Ejerlejlighed,"Eriksvej 6, 1. th",4000, Roskilde,1181000 ,23-02-1995,Auktion,86,13733.0,3,1914,
 265,Ejerlejlighed,"Hersegade 21A, st. th",4000, Roskilde,564339 ,23-02-1995,Alm. Salg,59,9565.0,2,1880,
-265,Ejerlejlighed,"Knudsvej 45, 1",4000, Roskilde,1181000 ,23-02-1995,Auktion,147,8034.0,5,1914,
 265,Ejerlejlighed,"Helligkorsvej 18B, 1. th",4000, Roskilde,478685 ,23-02-1995,Alm. Salg,59,8113.0,2,1940,
-265,Ejerlejlighed,"Eriksvej 6, st. 2",4000, Roskilde,1181000 ,23-02-1995,Auktion,38,31079.0,1,1914,
-265,Ejerlejlighed,"Eriksvej 6, st. 3",4000, Roskilde,1181000 ,23-02-1995,Auktion,35,33743.0,1,1914,
-265,Ejerlejlighed,"Knudsvej 45, st",4000, Roskilde,1181000 ,23-02-1995,Auktion,62,19048.0,1,1914,
 265,Villa,Dronning Sofies Vej 32,4000, Roskilde,1270000 ,23-02-1995,Alm. Salg,129,9845.0,5,1952,
 265,Villa,Vindingevej 40,4000, Roskilde,1029980 ,23-02-1995,Alm. Salg,162,6358.0,7,1957,
 265,Rækkehus,Hasselen 20,4000, Roskilde,715000 ,22-02-1995,Fam. Salg,110,6500.0,5,1970,
@@ -36660,8 +36237,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Birkeengen 36,4040, Jyllinge,150000 ,08-10-1994,Alm. Salg,147,1020.0,6,2005,
 265,Villa,Kokholmvej 2,4130, Viby Sjælland,547512 ,08-10-1994,Alm. Salg,130,4212.0,6,1827,
 265,Ejerlejlighed,"Ejboparken 29, 2. tv",4000, Roskilde,325000 ,06-10-1994,Alm. Salg,81,4012.0,3,1968,
-265,Ejerlejlighed,Bondetinget 23,4000, Roskilde,1520000 ,05-10-1994,Alm. Salg,80,19000.0,3,1850,
-265,Ejerlejlighed,Blågårdsstræde 10,4000, Roskilde,1520000 ,05-10-1994,Alm. Salg,137,11095.0,4,1850,
 265,Villa,Kornvej 41,4040, Jyllinge,613000 ,05-10-1994,Alm. Salg,87,7046.0,3,1976,
 265,Villa,Spurvevej 1,4040, Jyllinge,450000 ,05-10-1994,Alm. Salg,152,2961.0,5,1963,
 265,Villa,Dyssegårdsvej 20,4621, Gadstrup,770000 ,05-10-1994,Alm. Salg,114,6754.0,3,1970,
@@ -37588,20 +37163,16 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Hirsevej 6,4040, Jyllinge,859600 ,10-02-1994,Alm. Salg,120,7163.0,4,1967,
 265,Rækkehus,Jasminvænget 9,4000, Roskilde,570000 ,09-02-1994,Alm. Salg,56,10179.0,2,1959,
 265,Ejerlejlighed,"Knud Den Stores Vej 36, st. 202",4000, Roskilde,704177 ,09-02-1994,Alm. Salg,94,7491.0,3,1971,
-265,Villa,Københavnsvej 28D,4000, Roskilde,415000 ,09-02-1994,Auktion,77,5390.0,2,1962,
 265,Rækkehus,Klokkervej 28B,4000, Roskilde,899000 ,08-02-1994,Alm. Salg,106,8481.0,4,1983,
 265,Villa,Lindevej 29,4000, Roskilde,697000 ,08-02-1994,Fam. Salg,124,5621.0,3,1942,
 265,Villa,Barnekæret 3,4000, Roskilde,671601 ,08-02-1994,Alm. Salg,110,6105.0,4,1978,
 265,Rækkehus,Langagervej 5D,4000, Roskilde,780000 ,07-02-1994,Alm. Salg,90,8667.0,3,1984,
 265,Rækkehus,Himmelev Bygade 17A,4000, Roskilde,925000 ,07-02-1994,Alm. Salg,92,10054.0,3,1986,
-265,Ejerlejlighed,"Jernbanegade 33, 2. th",4000, Roskilde,430000 ,07-02-1994,Auktion,126,3413.0,4,1900,
-265,Ejerlejlighed,"Knud Den Stores Vej 36, 3. 217",4000, Roskilde,430000 ,07-02-1994,Alm. Salg,98,4388.0,3,1971,
 265,Ejerlejlighed,"Gyvelvej 9, 1. th",4000, Roskilde,417000 ,07-02-1994,Alm. Salg,79,5278.0,3,1962,
 265,Ejerlejlighed,"Knud Den Stores Vej 38, 2. 112",4000, Roskilde,572200 ,07-02-1994,Alm. Salg,84,6812.0,3,1969,
 265,Villa,Søbredden 4,4000, Roskilde,865000 ,07-02-1994,Alm. Salg,175,4943.0,6,1976,
 265,Villa,Kamstrupvej 60,4000, Roskilde,2250000 ,07-02-1994,Alm. Salg,274,8212.0,10,1897,
 265,Ejerlejlighed,"Dommervænget 12A, 2. th",4000, Roskilde,361000 ,06-02-1994,Auktion,109,3312.0,3,1968,
-265,Villa,Store Gråbrødrestræde 15,4000, Roskilde,2100000 ,06-02-1994,Alm. Salg,65,32308.0,2,1895,
 265,Villa,Olesvej 13,4040, Jyllinge,142000 ,06-02-1994,Auktion,74,1919.0,3,1963,
 265,Villa,Høgevænget 13,4040, Jyllinge,175000 ,06-02-1994,Andet,198,884.0,5,1997,
 265,Rækkehus,Kometvej 49,4040, Jyllinge,675000 ,05-02-1994,Alm. Salg,111,6081.0,4,1977,
@@ -38684,9 +38255,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Gadevang 3,4000, Roskilde,650000 ,26-04-1993,Alm. Salg,48,13542.0,2,1852,
 265,Villa,Skovvej 13,4040, Jyllinge,1175000 ,26-04-1993,Alm. Salg,205,5732.0,7,1964,
 265,Ejerlejlighed,"Roskildevænget 16, 2. tv",4000, Roskilde,340000 ,25-04-1993,Alm. Salg,57,5965.0,2,1962,
-265,Ejerlejlighed,Klintevej 2B,4000, Roskilde,1690000 ,25-04-1993,Alm. Salg,83,20361.0,3,1927,
-265,Ejerlejlighed,Klintevej 2A,4000, Roskilde,1690000 ,25-04-1993,Alm. Salg,167,10120.0,6,1927,
-265,Ejerlejlighed,Østergade 64,4000, Roskilde,1690000 ,25-04-1993,Alm. Salg,107,15794.0,3,1927,
 265,Villa,Storkevej 12,4040, Jyllinge,225000 ,25-04-1993,Alm. Salg,173,1301.0,6,1960,
 265,Rækkehus,Egen 6,4000, Roskilde,556917 ,23-04-1993,Andet,110,5063.0,5,1968,
 265,Rækkehus,Egen 34,4000, Roskilde,401000 ,22-04-1993,Auktion,110,3645.0,5,1969,
@@ -39291,7 +38859,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Ejerlejlighed,"Asylgade 24, st. mf",4000, Roskilde,394500 ,31-08-1992,Alm. Salg,52,7587.0,2,1960,
 265,Villa,Vestavej 3,4040, Jyllinge,225000 ,31-08-1992,Alm. Salg,159,1415.0,5,2001,
 265,Villa,Dalengen 35,4040, Jyllinge,230000 ,31-08-1992,Alm. Salg,91,2527.0,3,2010,
-265,Villa,Roskildevej 79,4030, Tune,340000 ,31-08-1992,Fam. Salg,145,2345.0,4,1961,
 265,Villa,Hasselvej 12,4040, Jyllinge,365000 ,31-08-1992,Alm. Salg,169,2160.0,4,1972,
 265,Villa,Hyldevænget 11,4621, Gadstrup,850000 ,31-08-1992,Alm. Salg,121,7025.0,4,1988,
 265,Villa,Tværengen 8,4000, Roskilde,720000 ,31-08-1992,Fam. Salg,153,4706.0,5,1969,
@@ -39468,7 +39035,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Lindevej 11,4130, Viby Sjælland,535000 ,30-06-1992,Alm. Salg,115,4652.0,3,1962,
 265,Rækkehus,Smedegårdsparken 38,4000, Roskilde,785000 ,29-06-1992,Alm. Salg,140,5607.0,5,1978,
 265,Ejerlejlighed,"Knud Den Stores Vej 34, 1. 110",4000, Roskilde,635275 ,29-06-1992,Alm. Salg,94,6758.0,3,1971,
-265,Villa,Lille Højbrøndsstræde 3B,4000, Roskilde,2196000 ,29-06-1992,Alm. Salg,140,15686.0,5,1904,
 265,Villa,Birkede Brovej 21,4130, Viby Sjælland,510000 ,29-06-1992,Alm. Salg,152,3355.0,4,1962,
 265,Villa,Guldblommevej 19,4000, Roskilde,895000 ,29-06-1992,Fam. Salg,153,5850.0,5,1971,
 265,Villa,Drosselvej 1,4000, Roskilde,910000 ,29-06-1992,Alm. Salg,126,7222.0,5,1956,
@@ -39726,7 +39292,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Ejerlejlighed,"Gartnervang 2C, 3. tv",4000, Roskilde,465000 ,19-04-1992,Alm. Salg,70,6643.0,2,1978,
 265,Villa,Lilletoften 3,4040, Jyllinge,12000 ,19-04-1992,Auktion,167,72.0,6,2001,
 265,Villa,Kornvej 18,4040, Jyllinge,350000 ,19-04-1992,Fam. Salg,134,2612.0,4,1999,
-265,Villa,Biensvej 5B,4621, Gadstrup,385215 ,19-04-1992,Alm. Salg,74,5206.0,3,1919,
 265,Villa,Gammel Skolevej 12B,4621, Gadstrup,820000 ,19-04-1992,Alm. Salg,146,5616.0,4,1992,
 265,Villa,Søndervænget 2,4621, Gadstrup,505000 ,19-04-1992,Alm. Salg,155,3258.0,5,1980,
 265,Villa,Dronning Sofies Vej 28,4000, Roskilde,1133682 ,19-04-1992,Alm. Salg,188,6030.0,6,1957,
@@ -39835,15 +39400,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 265,Villa,Frederiksborgvej 23B,4000, Roskilde,1400000 ,24-03-1992,Fam. Salg,162,8642.0,5,1961,
 265,Villa,Bredekæret 22,4000, Roskilde,820000 ,24-03-1992,Alm. Salg,152,5395.0,6,1988,
 265,Villa,Vestergade 68,4000, Roskilde,675500 ,24-03-1992,Alm. Salg,96,7036.0,4,1935,
-265,Ejerlejlighed,"Køgevej 1B, 1. 2",4000, Roskilde,1430872 ,23-03-1992,Fam. Salg,54,26498.0,1,1889,
-265,Ejerlejlighed,"Køgevej 1B, 1. 1",4000, Roskilde,1430872 ,23-03-1992,Fam. Salg,57,25103.0,1,1889,
-265,Ejerlejlighed,"Køgevej 1B, 1. 3",4000, Roskilde,1430872 ,23-03-1992,Fam. Salg,58,24670.0,1,1889,
-265,Ejerlejlighed,"Jernbanegade 17, st. tv",4000, Roskilde,1430872 ,23-03-1992,Fam. Salg,67,21356.0,3,1889,
-265,Ejerlejlighed,"Jernbanegade 17, 1. th",4000, Roskilde,1430872 ,23-03-1992,Fam. Salg,69,20737.0,3,1889,
-265,Ejerlejlighed,"Jernbanegade 17, 1. tv",4000, Roskilde,1430872 ,23-03-1992,Fam. Salg,84,17034.0,3,1889,
-265,Ejerlejlighed,"Jernbanegade 17, 2",4000, Roskilde,1430872 ,23-03-1992,Fam. Salg,142,10077.0,5,1889,
-265,Ejerlejlighed,"Køgevej 1, 1",4000, Roskilde,1430872 ,23-03-1992,Fam. Salg,49,29201.0,2,1889,
-265,Ejerlejlighed,"Køgevej 1, 2",4000, Roskilde,1430872 ,23-03-1992,Fam. Salg,93,15386.0,3,1889,
 265,Villa,Maglekildevej 9,4000, Roskilde,582610 ,23-03-1992,Alm. Salg,211,2761.0,6,1827,
 265,Villa,Okseholm 1,4000, Roskilde,717009 ,23-03-1992,Alm. Salg,232,3091.0,7,1971,
 265,Villa,Dunhammervej 23,4000, Roskilde,790500 ,23-03-1992,Fam. Salg,163,4850.0,5,1967,

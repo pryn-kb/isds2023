@@ -48,14 +48,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Stokholtsvej 34,4173, Fjenneslev,3900000 ,05-11-2022,Alm. Salg,230,16957,4,1777,-7%
 340,Rækkehus,Alleen 10A,4180, Sorø,895000 ,02-11-2022,Alm. Salg,87,10287,3,1912,
 340,Ejerlejlighed,"Sorøparken 8, 2. th",4180, Sorø,1000000 ,02-11-2022,Alm. Salg,86,11628,3,1966,-16%
-340,Villa,Kongebrovej 41,4180, Sorø,2600000 ,02-11-2022,Fam. Salg,120,21667,5,1954,
-340,Ejerlejlighed,Ringstedvej 124,4173, Fjenneslev,2582000 ,01-11-2022,Auktion,244,10582,6,1898,
-340,Ejerlejlighed,Ringstedvej 124A,4173, Fjenneslev,2582000 ,01-11-2022,Auktion,189,13661,7,1898,
-340,Villa,Fjenneslevmaglevej 3,4173, Fjenneslev,2582000 ,01-11-2022,Auktion,178,10626,5,1898,
 340,Villa,Sorøvej 82,4295, Stenlille,550000 ,30-10-2022,Fam. Salg,90,6111,6,1877,
 340,Villa,Gartnerivej 10,4180, Sorø,1256000 ,29-10-2022,Fam. Salg,93,13505,5,1958,
-340,Rækkehus,Møllevej 10C,4180, Sorø,1495000 ,28-10-2022,Alm. Salg,74,20203,2,1986,-6%
-340,Ejerlejlighed,"Søndergade 23, 1. th",4180, Sorø,1495000 ,28-10-2022,Alm. Salg,100,14950,3,1982,
 340,Villa,Elmebjergvej 2,4180, Sorø,2350000 ,27-10-2022,Fam. Salg,132,17803,4,1949,
 340,Villa,Langevej 1,4173, Fjenneslev,875000 ,27-10-2022,Alm. Salg,112,7813,3,1827,-12%
 340,Ejerlejlighed,"Nybovej 12A, 1",4293, Dianalund,995000 ,26-10-2022,Alm. Salg,100,9950,3,2001,
@@ -88,7 +82,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Smedevej 18,4180, Sorø,3600000 ,28-09-2022,Alm. Salg,224,16071,6,1966,-5%
 340,Villa,Karsholtevej 45,4293, Dianalund,1150000 ,27-09-2022,Alm. Salg,121,9504,5,1960,-4%
 340,Villa,Banevej 23,4180, Sorø,4850000 ,26-09-2022,Alm. Salg,260,18654,10,1912,
-340,Villa,H. P. Christensensvej 5,4180, Sorø,4600000 ,22-09-2022,Alm. Salg,212,21698,6,1963,-4%
 340,Villa,Hovedgaden 101,4295, Stenlille,850000 ,18-09-2022,Alm. Salg,120,7083,3,1959,
 340,Villa,Næstvedvej 7,4180, Sorø,2100000 ,18-09-2022,Alm. Salg,138,15217,7,1957,-12%
 340,Villa,Dagmarsvej 16,4173, Fjenneslev,2695000 ,16-09-2022,Alm. Salg,158,17057,6,2009,
@@ -102,7 +95,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Margrethevej 4,4173, Fjenneslev,895000 ,06-09-2022,Alm. Salg,70,12786,3,1962,
 340,Villa,Sorøvej 17,4295, Stenlille,675000 ,05-09-2022,Alm. Salg,132,5114,4,1951,-4%
 340,Villa,Jyderupvej 56,4291, Ruds Vedby,2595000 ,03-09-2022,Alm. Salg,252,10298,5,1870,
-340,Villa,Ll. Ladegaardsvej 19,4180, Sorø,1975000 ,02-09-2022,Alm. Salg,91,21703,3,1930,-1%
 340,Villa,Veddevej 41,4295, Stenlille,775000 ,01-09-2022,Alm. Salg,85,9118,3,1957,
 340,Villa,Haverupvej 4,4180, Sorø,825000 ,01-09-2022,Alm. Salg,72,11458,3,1905,-8%
 340,Villa,Lundtoftevej 18,4293, Dianalund,1295000 ,01-09-2022,Alm. Salg,139,9317,4,1970,
@@ -174,7 +166,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Rækkehus,Holbergsvej 39,4293, Dianalund,1375000 ,30-06-2022,Alm. Salg,100,13750,5,1952,
 340,Villa,Parkvej 17,4295, Stenlille,1500000 ,29-06-2022,Alm. Salg,160,9375,5,1976,-9%
 340,Villa,Lårupvej 41,4293, Dianalund,325000 ,29-06-2022,Alm. Salg,80,4063,2,1880,-7%
-340,Villa,Færøvej 45,4293, Dianalund,3150000 ,29-06-2022,Alm. Salg,144,21875,6,2019,-1%
 340,Villa,Søvang 4,4190, Munke Bjergby,680190 ,28-06-2022,Andet,220,3092,7,2001,
 340,Villa,Hesselbjergvej 2,4293, Dianalund,1045000 ,27-06-2022,Alm. Salg,173,6040,4,1878,
 340,Villa,Rosenvænget 9,4173, Fjenneslev,1650000 ,27-06-2022,Alm. Salg,106,15566,4,1967,-3%
@@ -243,7 +234,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Nyrupvej 23,4296, Nyrup,887500 ,28-04-2022,Alm. Salg,152,5839,5,1930,
 340,Rækkehus,Sportsvej 7,4291, Ruds Vedby,598000 ,27-04-2022,Alm. Salg,86,6953,4,1948,
 340,Villa,Søstrædet 10,4180, Sorø,1092500 ,25-04-2022,Alm. Salg,139,7860,5,1974,
-340,Villa,Heglingevej 21,4180, Sorø,3195000 ,25-04-2022,Alm. Salg,149,21443,6,1967,
 340,Villa,Slettebjergvej 48,4295, Stenlille,1820000 ,25-04-2022,Alm. Salg,134,13582,5,2010,-4%
 340,Rækkehus,Møllegårdsvej 63A,4295, Stenlille,812000 ,24-04-2022,Alm. Salg,76,10684,3,1986,2%
 340,Villa,Tangagervej 8,4180, Sorø,2412500 ,21-04-2022,Alm. Salg,172,14026,5,1900,-3%
@@ -253,14 +243,12 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Holbergsvej 105,4293, Dianalund,1255000 ,19-04-2022,Alm. Salg,119,10546,4,1948,-3%
 340,Villa,Hybenvænget 1,4180, Sorø,1745000 ,18-04-2022,Alm. Salg,104,16779,3,1967,
 340,Villa,Skuerupvej 6,4295, Stenlille,2750000 ,18-04-2022,Alm. Salg,188,14628,5,1938,-4%
-340,Villa,Østervej 6,4180, Sorø,2895000 ,14-04-2022,Alm. Salg,134,21604,5,1938,
 340,Villa,Dambrovej 2,4180, Sorø,1745000 ,13-04-2022,Alm. Salg,135,12926,4,1962,-3%
 340,Villa,Sorøvej 11,4291, Ruds Vedby,995000 ,11-04-2022,Alm. Salg,143,6958,7,1924,
 340,Villa,Kirkevej 32,4180, Sorø,3195000 ,11-04-2022,Alm. Salg,154,20747,5,1966,
 340,Ejerlejlighed,"Vestergade 13, st. tv",4180, Sorø,1480000 ,10-04-2022,Alm. Salg,79,18734,2,1969,-5%
 340,Villa,Alstedvej 85,4173, Fjenneslev,3400000 ,10-04-2022,Alm. Salg,264,12879,7,1877,-3%
 340,Villa,Bakkevej 10,4180, Sorø,1640000 ,10-04-2022,Alm. Salg,90,18222,5,1932,-3%
-340,Villa,Heglingevej 22,4180, Sorø,3115000 ,10-04-2022,Alm. Salg,144,21632,4,1969,4%
 340,Villa,Grønningen 42,4293, Dianalund,1940000 ,07-04-2022,Alm. Salg,142,13662,4,2001,-3%
 340,Villa,Banevej 9,4180, Sorø,650000 ,07-04-2022,Alm. Salg,204,3186,6,0,-7%
 340,Villa,Bakkekammen 2,4291, Ruds Vedby,1100000 ,06-04-2022,Alm. Salg,106,10377,4,1976,-4%
@@ -289,7 +277,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Rækkehus,Hovedgaden 109,4295, Stenlille,955000 ,16-03-2022,Alm. Salg,85,11235,3,1928,-4%
 340,Villa,Lundtoftevej 38,4293, Dianalund,1575000 ,15-03-2022,Alm. Salg,113,13938,4,1965,
 340,Villa,Merløsevej 16,4296, Nyrup,1695000 ,14-03-2022,Auktion,124,13669,6,1904,
-340,Villa,Egevangs Alle 4,4180, Sorø,2200000 ,14-03-2022,Alm. Salg,101,21782,3,1927,-4%
 340,Villa,Brandsmarkvej 27,4180, Sorø,765000 ,14-03-2022,Alm. Salg,128,5977,4,1956,
 340,Villa,Søstrædet 8,4180, Sorø,1995000 ,13-03-2022,Alm. Salg,132,15114,5,1971,
 340,Rækkehus,Møllegårdsvej 43A,4295, Stenlille,1200000 ,10-03-2022,Alm. Salg,85,14118,3,1984,
@@ -377,7 +364,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Ringstedvej 197,4173, Fjenneslev,280000 ,11-01-2022,Auktion,122,1728,6,1935,
 340,Villa,Hestebjergsvangen 2,4180, Sorø,1278200 ,11-01-2022,Alm. Salg,170,7519,5,2022,32%
 340,Villa,Assentorpvej 13,4295, Stenlille,2135000 ,10-01-2022,Alm. Salg,187,11417,7,1901,-3%
-340,Villa,Ellemosevej 3,4180, Sorø,2100000 ,10-01-2022,Alm. Salg,97,21649,3,1940,-8%
 340,Villa,Møllegårdsvej 2,4295, Stenlille,1350000 ,10-01-2022,Alm. Salg,238,5672,10,1972,
 340,Villa,Holbækvej 53,4180, Sorø,2630000 ,10-01-2022,Alm. Salg,153,17190,4,2005,0%
 340,Rækkehus,Bavnevang 2,4180, Sorø,2950000 ,09-01-2022,Alm. Salg,142,20775,4,2001,-2%
@@ -388,8 +374,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Husrækken 7,4180, Sorø,2875000 ,02-01-2022,Alm. Salg,224,12835,6,1950,-4%
 340,Villa,Parkvej 36,4293, Dianalund,835026 ,31-12-2021,Alm. Salg,129,6473,5,1969,
 340,Villa,Søbrinken 6,4190, Munke Bjergby,2495000 ,29-12-2021,Alm. Salg,152,16414,6,2004,
-340,Ejerlejlighed,Storgade 40B,4180, Sorø,2000000 ,28-12-2021,Alm. Salg,169,11834,7,1900,
-340,Ejerlejlighed,Byvolden 15,4180, Sorø,2000000 ,28-12-2021,Alm. Salg,135,14815,3,1900,
 340,Villa,Møllegårdsvej 69,4295, Stenlille,1950000 ,27-12-2021,Alm. Salg,145,13448,4,1986,-2%
 340,Villa,Lundtoftevej 41,4293, Dianalund,1825000 ,26-12-2021,Alm. Salg,230,7935,6,1975,-12%
 340,Villa,Jernbanegade 4,4291, Ruds Vedby,1450000 ,23-12-2021,Alm. Salg,308,4708,6,1904,
@@ -453,7 +437,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Rækkehus,Anemonevej 4,4180, Sorø,1700000 ,01-11-2021,Alm. Salg,80,21250,3,1991,
 340,Villa,Absalonsgade 28,4180, Sorø,2395000 ,01-11-2021,Alm. Salg,114,21009,4,1932,
 340,Villa,Hovedgaden 83,4295, Stenlille,1495000 ,31-10-2021,Alm. Salg,120,12458,4,1966,
-340,Rækkehus,Bavnevang 13,4180, Sorø,2600000 ,28-10-2021,Alm. Salg,121,21488,4,2003,-2%
 340,Villa,Merbjergvej 44,4293, Dianalund,1330000 ,28-10-2021,Alm. Salg,131,10153,4,1920,-5%
 340,Rækkehus,Marienlunden 11A,4296, Nyrup,850000 ,27-10-2021,Alm. Salg,95,8947,3,1990,
 340,Villa,Alstedvej 11,4173, Fjenneslev,1675000 ,27-10-2021,Alm. Salg,199,8417,5,1878,
@@ -532,7 +515,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Færøvej 41,4293, Dianalund,2995000 ,06-09-2021,Alm. Salg,170,17618,5,2012,
 340,Rækkehus,Banevej 11A,4180, Sorø,2075000 ,03-09-2021,Alm. Salg,98,21173,4,1860,
 340,Villa,Øgårdsvej 12,4293, Dianalund,425000 ,02-09-2021,Fam. Salg,149,2852,6,1968,
-340,Rækkehus,Abildvang 15,4180, Sorø,2620000 ,01-09-2021,Alm. Salg,120,21833,4,2005,-1%
 340,Villa,Parnasvej 14,4180, Sorø,3900000 ,01-09-2021,Alm. Salg,201,19403,8,1910,1%
 340,Villa,Fuglebakken 37,4291, Ruds Vedby,1270000 ,30-08-2021,Alm. Salg,126,10079,4,1978,-2%
 340,Villa,Poppelvang 41,4180, Sorø,4350000 ,30-08-2021,Alm. Salg,216,20139,4,2005,
@@ -562,7 +544,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Havrevænget 20,4173, Fjenneslev,1270000 ,15-08-2021,Alm. Salg,122,10410,4,1967,2%
 340,Villa,Bjernedevej 66,4180, Sorø,2550000 ,13-08-2021,Alm. Salg,140,18214,6,1827,-2%
 340,Villa,Sønderskovvej 3,4180, Sorø,2100000 ,13-08-2021,Alm. Salg,116,18103,4,1923,-4%
-340,Villa,Søbakken 22,4180, Sorø,2645000 ,13-08-2021,Alm. Salg,122,21680,4,1969,
 340,Rækkehus,Hovedgaden 107,4295, Stenlille,670000 ,12-08-2021,Alm. Salg,86,7791,2,1928,-4%
 340,Villa,Egesvinget 6,4180, Sorø,1950000 ,11-08-2021,Alm. Salg,147,13265,4,1967,
 340,Villa,Holbækvej 43,4180, Sorø,2050000 ,10-08-2021,Alm. Salg,155,13226,5,1911,-7%
@@ -601,7 +582,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Fyrrevænget 38,4293, Dianalund,1575000 ,12-07-2021,Alm. Salg,134,11754,5,1986,
 340,Ejerlejlighed,"Munkevænget 20, st. tv",4180, Sorø,1645000 ,08-07-2021,Alm. Salg,89,18483,2,1986,
 340,Villa,Kongstedvej 5,4293, Dianalund,970000 ,08-07-2021,Alm. Salg,135,7185,4,1950,-3%
-340,Villa,Abildvej 15,4180, Sorø,2450000 ,07-07-2021,Alm. Salg,112,21875,4,1927,
 340,Villa,Døjringevej 34,4190, Munke Bjergby,1345000 ,07-07-2021,Alm. Salg,158,8513,3,1964,
 340,Villa,Merbjergvej 1,4293, Dianalund,725000 ,06-07-2021,Fam. Salg,68,10662,3,1888,
 340,Villa,Parkvej 2,4180, Sorø,225000 ,06-07-2021,Alm. Salg,173,1301,4,2023,-9%
@@ -640,7 +620,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Peder Paars Vej 19,4293, Dianalund,1525000 ,22-06-2021,Alm. Salg,133,11466,5,1977,
 340,Villa,Enghavevej 2,4295, Stenlille,800000 ,22-06-2021,Alm. Salg,164,4878,7,1906,
 340,Villa,Bjernedevej 10,4180, Sorø,2475000 ,21-06-2021,Alm. Salg,233,10622,8,1924,-5%
-340,Villa,Engstien 28,4180, Sorø,3345000 ,20-06-2021,Alm. Salg,153,21863,6,2012,
 340,Villa,Birkevej 8,4291, Ruds Vedby,795000 ,19-06-2021,Alm. Salg,103,7718,4,1958,
 340,Villa,Niløsevej 8,4293, Dianalund,1355000 ,19-06-2021,Alm. Salg,197,6878,4,1912,-3%
 340,Ejerlejlighed,"Søndergade 24, 1. tv",4180, Sorø,1000000 ,17-06-2021,Andet,99,10101,2,1969,
@@ -652,7 +631,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Banevej 5,4296, Nyrup,1325000 ,15-06-2021,Alm. Salg,136,9743,5,1909,-5%
 340,Villa,Snerlevej 5,4293, Dianalund,1365000 ,15-06-2021,Alm. Salg,136,10037,5,1974,-2%
 340,Villa,Ringstedvej 173,4173, Fjenneslev,900000 ,14-06-2021,Alm. Salg,89,10112,5,1923,
-340,Villa,Ellemosevej 11,4180, Sorø,3275000 ,14-06-2021,Alm. Salg,151,21689,5,1974,-2%
 340,Villa,Fredensvej 12,4180, Sorø,1900000 ,14-06-2021,Alm. Salg,112,16964,3,1930,0%
 340,Villa,Søtoften 6,4180, Sorø,2575000 ,13-06-2021,Alm. Salg,140,18393,4,1971,
 340,Villa,Nyrupvej 62,4180, Sorø,675000 ,12-06-2021,Alm. Salg,109,6193,6,1940,
@@ -673,7 +651,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Dyssevej 14,4180, Sorø,1350000 ,02-06-2021,Alm. Salg,103,13107,3,1948,
 340,Villa,Vedde Byvej 19,4295, Stenlille,1175000 ,02-06-2021,Alm. Salg,145,8103,5,1919,-9%
 340,Villa,Leandersvej 9,4293, Dianalund,1675000 ,02-06-2021,Alm. Salg,146,11473,4,1975,
-340,Villa,Solbakkevej 1B,4180, Sorø,5750000 ,01-06-2021,Alm. Salg,268,21455,7,1926,
 340,Villa,Egesvinget 10,4180, Sorø,1995000 ,01-06-2021,Alm. Salg,120,16625,4,1968,
 340,Villa,Kalundborgvej 4,4291, Ruds Vedby,600000 ,01-06-2021,Alm. Salg,86,6977,2,1853,
 340,Villa,Nyrupvej 48,4296, Nyrup,801000 ,31-05-2021,Auktion,210,3814,6,1877,-33%
@@ -738,7 +715,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Vedde Byvej 27,4295, Stenlille,960000 ,23-04-2021,Alm. Salg,171,5614,4,1906,-4%
 340,Villa,Topshøjvej 5,4180, Sorø,1340000 ,22-04-2021,Alm. Salg,96,13958,4,1890,-4%
 340,Villa,Nyrupvej 16,4296, Nyrup,1850000 ,21-04-2021,Alm. Salg,161,11491,5,1947,-7%
-340,Villa,Tjørnevang 11,4180, Sorø,3100000 ,21-04-2021,Alm. Salg,145,21379,6,2004,0%
 340,Villa,Store Bjørnevej 9,4293, Dianalund,1795000 ,21-04-2021,Alm. Salg,162,11080,6,1972,
 340,Ejerlejlighed,"Østervej 4, st",4180, Sorø,800000 ,20-04-2021,Fam. Salg,81,9877,2,1946,
 340,Ejerlejlighed,"Sorøparken 5, 1. th",4180, Sorø,995000 ,20-04-2021,Alm. Salg,77,12922,3,1966,
@@ -747,7 +723,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Plessensvej 17,4180, Sorø,1495000 ,19-04-2021,Alm. Salg,128,11680,3,1932,
 340,Villa,Dyssevej 5,4180, Sorø,3600000 ,19-04-2021,Alm. Salg,389,9254,9,1913,
 340,Villa,Rosenvej 8,4293, Dianalund,1285000 ,18-04-2021,Alm. Salg,80,16063,3,1936,
-340,Villa,Apotekervej 4,4180, Sorø,1825000 ,18-04-2021,Alm. Salg,84,21726,3,1945,
 340,Villa,Elmebjergvej 46,4180, Sorø,35000 ,18-04-2021,Alm. Salg,65,538,2,1865,
 340,Villa,Bøgelunden 17,4180, Sorø,1259517 ,18-04-2021,Andet,181,6959,6,2008,
 340,Villa,Rolighedsvej 18,4296, Nyrup,815000 ,17-04-2021,Alm. Salg,150,5433,5,1963,-14%
@@ -787,7 +762,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Rækkehus,Møllehusene 12,4295, Stenlille,1448000 ,25-03-2021,Alm. Salg,108,13407,4,2004,
 340,Villa,Hovedgaden 82,4295, Stenlille,1720000 ,25-03-2021,Alm. Salg,142,12113,3,1969,-4%
 340,Villa,Søholm 2,4180, Sorø,2800000 ,24-03-2021,Alm. Salg,177,15819,6,1966,-3%
-340,Villa,Apotekervej 10,4180, Sorø,1157500 ,24-03-2021,Alm. Salg,53,21840,2,1947,
 340,Villa,Hyldevej 8,4295, Stenlille,1585000 ,24-03-2021,Alm. Salg,136,11654,5,1989,
 340,Villa,Frederiksbergvej 5,4180, Sorø,3155000 ,23-03-2021,Alm. Salg,149,21174,5,1909,
 340,Villa,Lynge Byvej 24,4180, Sorø,2600000 ,23-03-2021,Alm. Salg,156,16667,4,1900,-6%
@@ -943,7 +917,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Leandersvej 16,4293, Dianalund,1250000 ,17-12-2020,Fam. Salg,173,7225,7,1976,
 340,Villa,Gøgdamsvej 5,4180, Sorø,1450000 ,16-12-2020,Alm. Salg,190,7632,6,2022,-9%
 340,Villa,Døjringevej 41,4180, Sorø,1995000 ,16-12-2020,Alm. Salg,272,7335,6,1830,
-340,Villa,J. F. Fengers Vænge 6,4180, Sorø,4295000 ,16-12-2020,Alm. Salg,197,21802,5,2019,
 340,Villa,Fuglebakken 8,4291, Ruds Vedby,950000 ,14-12-2020,Alm. Salg,170,5588,7,1973,-5%
 340,Villa,Sorøvej 21,4291, Ruds Vedby,800000 ,14-12-2020,Alm. Salg,136,5882,4,1949,
 340,Villa,Rydevang 11,4180, Sorø,1195000 ,14-12-2020,Alm. Salg,137,8723,4,1966,
@@ -962,7 +935,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Ellevej 2,4293, Dianalund,1055000 ,07-12-2020,Alm. Salg,127,8307,3,1962,-6%
 340,Villa,Lorupvej 13,4180, Sorø,3600000 ,07-12-2020,Alm. Salg,292,12329,6,1971,-8%
 340,Villa,Haverupvej 19A,4180, Sorø,1048500 ,06-12-2020,Fam. Salg,204,5140,5,1983,
-340,Villa,Anemonevej 15,4180, Sorø,3075000 ,03-12-2020,Alm. Salg,144,21354,5,1988,
 340,Ejerlejlighed,"Sorøparken 2, st. th",4180, Sorø,1095000 ,02-12-2020,Alm. Salg,65,16846,3,1966,
 340,Villa,Storkens Kvarter 28,4180, Sorø,1695000 ,02-12-2020,Alm. Salg,111,15270,4,1988,
 340,Rækkehus,Møllehaven 4,4180, Sorø,2005000 ,29-11-2020,Alm. Salg,122,16434,5,1981,-2%
@@ -986,7 +958,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Ternevej 6,4291, Ruds Vedby,432129 ,18-11-2020,Fam. Salg,129,3350,3,1970,
 340,Villa,Plantagevej 9,4180, Sorø,1197500 ,18-11-2020,Fam. Salg,80,14969,3,1890,
 340,Villa,Gartnerivej 12,4180, Sorø,1800000 ,17-11-2020,Alm. Salg,148,12162,4,1968,
-340,Villa,"Saxogade 4, st",4180, Sorø,1995000 ,17-11-2020,Alm. Salg,100,19950,3,1902,
 340,Villa,Odinsvej 15,4180, Sorø,2300000 ,16-11-2020,Alm. Salg,134,17164,4,1973,-2%
 340,Villa,Vinkelvej 3,4180, Sorø,3075000 ,15-11-2020,Alm. Salg,176,17472,5,1920,-1%
 340,Villa,Holbergsvej 81B,4293, Dianalund,1260000 ,12-11-2020,Fam. Salg,200,6300,7,1900,
@@ -1014,11 +985,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Hasselvej 6,4295, Stenlille,1032160 ,01-11-2020,Fam. Salg,120,8601,4,1973,
 340,Villa,Åmosevej 13,4293, Dianalund,415000 ,01-11-2020,Alm. Salg,113,3673,3,1897,-16%
 340,Villa,Drosselvej 20,4293, Dianalund,1555000 ,30-10-2020,Alm. Salg,186,8360,6,1977,-6%
-340,Ejerlejlighed,Ringstedvej 124,4173, Fjenneslev,1525000 ,28-10-2020,Alm. Salg,244,6250,6,1898,
-340,Ejerlejlighed,Fjenneslevmaglevej 1A,4173, Fjenneslev,1525000 ,28-10-2020,Alm. Salg,101,15099,3,1898,
-340,Ejerlejlighed,Ringstedvej 124A,4173, Fjenneslev,1525000 ,28-10-2020,Alm. Salg,189,8069,7,1898,
 340,Villa,Bøgelunden 10,4180, Sorø,824250 ,28-10-2020,Fam. Salg,166,4965,5,2006,
-340,Villa,Fjenneslevmaglevej 3,4173, Fjenneslev,1525000 ,28-10-2020,Alm. Salg,178,6276,5,1898,
 340,Villa,Lindebjærgvej 21,4180, Sorø,1995000 ,27-10-2020,Alm. Salg,170,11735,5,1929,
 340,Villa,Vedde Byvej 31,4295, Stenlille,577600 ,27-10-2020,Auktion,172,3358,6,1860,
 340,Villa,Lærkevej 15,4180, Sorø,1600000 ,26-10-2020,Alm. Salg,99,16162,4,1949,-4%
@@ -1217,12 +1184,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Rosenvej 11,4293, Dianalund,1100000 ,05-07-2020,Alm. Salg,128,5946,6,1963,
 340,Villa,Højbjærgvej 7,4180, Sorø,2250000 ,05-07-2020,Alm. Salg,224,10045,6,1937,
 340,Villa,Assentorpvej 109,4295, Stenlille,1375000 ,05-07-2020,Alm. Salg,100,13750,3,1890,
-340,Ejerlejlighed,Ringstedvej 124,4173, Fjenneslev,1525000 ,03-07-2020,Alm. Salg,244,6250,6,1898,
-340,Ejerlejlighed,Fjenneslevmaglevej 1A,4173, Fjenneslev,1525000 ,03-07-2020,Alm. Salg,101,15099,3,1898,
-340,Ejerlejlighed,Ringstedvej 124A,4173, Fjenneslev,1525000 ,03-07-2020,Alm. Salg,189,8069,7,1898,
 340,Villa,Ringstedvej 229,4173, Fjenneslev,1050000 ,03-07-2020,Alm. Salg,129,8140,4,1950,
 340,Villa,Engstien 2,4180, Sorø,515000 ,03-07-2020,Alm. Salg,189,2725,5,0,
-340,Villa,Fjenneslevmaglevej 3,4173, Fjenneslev,1525000 ,03-07-2020,Alm. Salg,178,6276,5,1898,
 340,Ejerlejlighed,"Søndergade 14, 2. th",4180, Sorø,985000 ,01-07-2020,Alm. Salg,67,14701,2,1982,-1%
 340,Villa,Færøvej 70,4293, Dianalund,2667000 ,01-07-2020,Alm. Salg,167,15970,5,2008,
 340,Villa,Holbækvej 75,4180, Sorø,1317500 ,30-06-2020,Fam. Salg,151,7486,6,1900,
@@ -1341,7 +1304,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Havrevænget 38,4173, Fjenneslev,750000 ,01-04-2020,Alm. Salg,156,4808,5,1973,-6%
 340,Villa,Kongebrovej 43,4180, Sorø,3100000 ,31-03-2020,Alm. Salg,175,17714,8,1953,-9%
 340,Villa,Agervænget 4,4293, Dianalund,1485000 ,30-03-2020,Alm. Salg,133,11165,5,1978,
-340,Villa,Esbern Snaresvej 20,4180, Sorø,3650000 ,30-03-2020,Alm. Salg,167,21856,6,1945,
 340,Villa,Søholm 13,4180, Sorø,824730 ,30-03-2020,Alm. Salg,138,5976,5,1966,
 340,Villa,Øbrovej 5A,4295, Stenlille,643500 ,30-03-2020,Alm. Salg,184,3497,4,1890,
 340,Villa,Saxogade 11,4180, Sorø,985000 ,29-03-2020,Alm. Salg,204,4828,9,1892,
@@ -1454,7 +1416,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Rækkehus,Grønningen 4A,4293, Dianalund,825000 ,08-01-2020,Alm. Salg,66,12500,2,1988,-8%
 340,Villa,Smedevej 20,4180, Sorø,2950000 ,08-01-2020,Alm. Salg,235,12553,6,1969,-6%
 340,Villa,Kragerupvej 9,4291, Ruds Vedby,1130800 ,06-01-2020,Auktion,191,5920,6,1900,
-340,Villa,Frederiksvej 24,4180, Sorø,4850000 ,06-01-2020,Alm. Salg,222,21847,8,1902,
 340,Villa,Odinsvej 10,4180, Sorø,1845000 ,05-01-2020,Alm. Salg,152,12138,5,1975,-3%
 340,Villa,Verupvej 21,4293, Dianalund,650000 ,03-01-2020,Alm. Salg,63,10317,2,1987,-6%
 340,Villa,Møllevej 1,4293, Dianalund,975000 ,02-01-2020,Alm. Salg,146,6678,5,1965,-2%
@@ -1690,7 +1651,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Topshøjvej 61,4180, Sorø,1500000 ,21-06-2019,Alm. Salg,115,13043,3,1963,-4%
 340,Villa,Søndermarksvej 4,4293, Dianalund,1550000 ,19-06-2019,Alm. Salg,136,11397,4,1954,-3%
 340,Villa,Thyrasvej 44,4173, Fjenneslev,2350000 ,19-06-2019,Alm. Salg,143,16434,4,1999,-2%
-340,Villa,Rundhøjskrogen 6,4180, Sorø,3195000 ,19-06-2019,Alm. Salg,149,21443,5,2017,
 340,Rækkehus,Møllehaven 8,4180, Sorø,1720000 ,18-06-2019,Alm. Salg,122,14098,5,1981,-4%
 340,Rækkehus,Abildvang 33,4180, Sorø,2125000 ,17-06-2019,Alm. Salg,105,20238,4,2005,-3%
 340,Villa,Søskovvej 33,4180, Sorø,2300000 ,17-06-2019,Alm. Salg,134,17164,5,1977,
@@ -1709,7 +1669,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Absalonsgade 34,4180, Sorø,1695000 ,02-06-2019,Alm. Salg,192,8828,5,2020,
 340,Villa,Enghavevej 5,4295, Stenlille,895000 ,31-05-2019,Alm. Salg,141,6348,3,1725,
 340,Villa,Kildeagervej 3A,4173, Fjenneslev,1795000 ,30-05-2019,Alm. Salg,153,11732,6,1976,
-340,Villa,Solbakkevej 5,4180, Sorø,2995000 ,30-05-2019,Alm. Salg,138,21703,5,1932,
 340,Villa,Verupvej 52,4293, Dianalund,600000 ,30-05-2019,Alm. Salg,116,5172,5,1898,-14%
 340,Villa,Atterup Vænge 9,4293, Dianalund,1295000 ,30-05-2019,Alm. Salg,132,9811,6,1974,
 340,Villa,Tusindfrydvej 4,4180, Sorø,3350000 ,28-05-2019,Alm. Salg,178,18820,5,1999,-4%
@@ -1778,7 +1737,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Holbergsvej 64,4293, Dianalund,950000 ,06-04-2019,Alm. Salg,88,10795,3,1945,
 340,Villa,Mosaikvej 4,4293, Dianalund,2750000 ,05-04-2019,Alm. Salg,164,16768,4,2008,
 340,Villa,Sorøvej 57,4295, Stenlille,1995000 ,04-04-2019,Alm. Salg,176,11335,7,1898,
-340,Rækkehus,Søgade 4,4180, Sorø,3200000 ,03-04-2019,Alm. Salg,147,21769,5,1790,-3%
 340,Villa,Alstedvej 14,4173, Fjenneslev,835000 ,02-04-2019,Alm. Salg,152,5493,6,1962,
 340,Villa,Rolighedsvej 3,4296, Nyrup,1230000 ,01-04-2019,Alm. Salg,180,6833,5,1907,-12%
 340,Ejerlejlighed,"Fægangen 10, st. th",4180, Sorø,1100000 ,31-03-2019,Alm. Salg,77,14286,3,1969,
@@ -1797,7 +1755,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Brobyvej 15,4180, Sorø,60480 ,21-03-2019,Alm. Salg,130,465,5,1922,
 340,Villa,Sejevej 1,4180, Sorø,790000 ,20-03-2019,Alm. Salg,135,5852,5,2021,-4%
 340,Villa,Elmebjergvej 6,4180, Sorø,1950000 ,20-03-2019,Alm. Salg,151,12914,5,1949,3%
-340,Villa,Kastanievej 5,4180, Sorø,2995000 ,20-03-2019,Alm. Salg,140,21393,5,1954,
 340,Villa,Finlandsvej 5,4293, Dianalund,815000 ,18-03-2019,Auktion,102,7990,4,1981,
 340,Villa,Norgesvej 39,4293, Dianalund,1150000 ,16-03-2019,Alm. Salg,117,9829,4,1982,
 340,Villa,Færøvej 15,4180, Sorø,2950000 ,16-03-2019,Alm. Salg,229,12882,6,1977,
@@ -2020,7 +1977,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Ringstedvej 101,4180, Sorø,750000 ,25-09-2018,Auktion,87,8621,5,2004,
 340,Villa,Ll. Ladegaardsvej 2B,4180, Sorø,1050000 ,24-09-2018,Auktion,123,8537,5,1917,
 340,Ejerlejlighed,"Søndergade 12, st. th",4180, Sorø,1305000 ,23-09-2018,Alm. Salg,81,16111,2,1982,-10%
-340,Villa,Absalonsgade 23,4180, Sorø,3150000 ,23-09-2018,Alm. Salg,147,21429,5,1917,
 340,Villa,Parkvej 23,4293, Dianalund,1250000 ,22-09-2018,Alm. Salg,111,11261,4,1973,
 340,Villa,Rosenvej 1,4180, Sorø,3750000 ,22-09-2018,Alm. Salg,257,14591,10,1902,-6%
 340,Rækkehus,Dalen 4,4180, Sorø,2430000 ,20-09-2018,Alm. Salg,141,17234,4,2007,
@@ -2643,7 +2599,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Baldersvej 2,4180, Sorø,1525000 ,22-05-2017,Fam. Salg,189,8069,6,2007,
 340,Villa,Flinterupvej 23,4180, Sorø,850000 ,21-05-2017,Fam. Salg,192,4427,6,1961,
 340,Villa,Kyringevej 104,4296, Nyrup,2750000 ,21-05-2017,Alm. Salg,199,13819,4,1893,-2%
-340,Villa,Toften 7,4180, Sorø,5750000 ,20-05-2017,Alm. Salg,268,21455,6,1976,-3%
 340,Villa,Hauchsvej 5,4180, Sorø,3800000 ,20-05-2017,Alm. Salg,229,16239,7,1920,
 340,Villa,Kongebrovej 30,4180, Sorø,1399000 ,19-05-2017,Alm. Salg,159,8799,5,2018,-7%
 340,Villa,Hasselvej 7,4295, Stenlille,850000 ,17-05-2017,Alm. Salg,112,7589,3,1973,-10%
@@ -2858,10 +2813,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Kildeagervej 2,4173, Fjenneslev,581193 ,23-11-2016,Alm. Salg,133,4370,4,1983,
 340,Villa,Parkvej 39,4293, Dianalund,950000 ,23-11-2016,Alm. Salg,168,5655,4,1972,-13%
 340,Villa,Slagelsevej 27,4291, Ruds Vedby,605000 ,23-11-2016,Fam. Salg,192,3151,4,1969,
-340,Villa,Asser Riigsvej 22,4180, Sorø,3265000 ,21-11-2016,Alm. Salg,153,21340,5,1935,-1%
 340,Villa,Barnedysringen 16,4180, Sorø,657200 ,21-11-2016,Alm. Salg,186,3533,5,2017,
 340,Ejerlejlighed,"Storgade 31A, 1",4180, Sorø,1685000 ,20-11-2016,Alm. Salg,105,11866,4,1908,
-340,Villa,Tokesvej 9,4180, Sorø,2695000 ,20-11-2016,Alm. Salg,125,21560,5,1933,
 340,Villa,Syrenvej 16,4295, Stenlille,1495000 ,17-11-2016,Alm. Salg,166,9006,4,1979,
 340,Villa,Gammelgang 4,4293, Dianalund,140000 ,16-11-2016,Alm. Salg,189,741,5,1917,-89%
 340,Villa,Hovedgaden 29,4295, Stenlille,730000 ,16-11-2016,Alm. Salg,120,6083,4,1907,-8%
@@ -3333,7 +3286,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Merløsevej 19,4296, Nyrup,1190000 ,30-08-2015,Alm. Salg,223,5336,5,1934,-8%
 340,Villa,Holbergsvej 117,4293, Dianalund,150000 ,30-08-2015,Alm. Salg,155,968,8,1925,-23%
 340,Villa,Jagtvej 4,4180, Sorø,1445000 ,30-08-2015,Alm. Salg,126,11468,6,1935,-3%
-340,Villa,Lundsgårdsvej 9C,4180, Sorø,910000 ,30-08-2015,Alm. Salg,100,9100,3,0,-17%
 340,Villa,Topshøjvænge 6,4180, Sorø,963000 ,27-08-2015,Fam. Salg,150,6420,5,2005,
 340,Villa,Leandersvej 20,4293, Dianalund,1150000 ,26-08-2015,Alm. Salg,133,8647,5,1976,
 340,Villa,Assentorpvej 47,4295, Stenlille,925000 ,25-08-2015,Alm. Salg,137,6752,4,1971,-7%
@@ -3357,7 +3309,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Peter Damsvej 70,4180, Sorø,2475000 ,05-08-2015,Alm. Salg,219,11301,8,1949,-5%
 340,Villa,Tersløsevej 7,4293, Dianalund,350000 ,04-08-2015,Alm. Salg,92,3804,3,1873,
 340,Villa,Holbergsvej 125,4293, Dianalund,1195000 ,04-08-2015,Alm. Salg,126,9484,5,1935,
-340,Villa,Kongebrovej 41,4180, Sorø,2600000 ,03-08-2015,Alm. Salg,120,21667,5,1954,
 340,Ejerlejlighed,"Vestergade 13, 1. th",4180, Sorø,870000 ,02-08-2015,Alm. Salg,79,11013,2,1969,
 340,Villa,Døjringevej 26,4190, Munke Bjergby,770000 ,31-07-2015,Alm. Salg,80,9625,3,1954,-3%
 340,Villa,Risagervej 4,4295, Stenlille,425000 ,31-07-2015,Alm. Salg,110,3864,4,1979,
@@ -3428,7 +3379,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Slagelsevej 17,4291, Ruds Vedby,190417 ,10-06-2015,Auktion,133,1432,5,1932,
 340,Villa,Diget 2,4180, Sorø,1395000 ,10-06-2015,Alm. Salg,122,11434,4,1965,-3%
 340,Villa,Døjringevej 12,4190, Munke Bjergby,375000 ,10-06-2015,Alm. Salg,138,2717,3,1890,
-340,Villa,Fru Ingesvej 26,4180, Sorø,2650000 ,09-06-2015,Alm. Salg,124,21371,4,1929,-5%
 340,Villa,Parnasvej 65,4180, Sorø,1575000 ,09-06-2015,Alm. Salg,135,11667,4,1917,-12%
 340,Villa,Feldskovvej 5,4180, Sorø,3100000 ,09-06-2015,Alm. Salg,180,17222,6,1920,
 340,Villa,Tusindfrydvej 10,4180, Sorø,3385000 ,09-06-2015,Alm. Salg,169,20030,5,1999,
@@ -3827,7 +3777,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Nordskovvej 38,4295, Stenlille,895000 ,16-03-2014,Alm. Salg,105,8524,4,1893,-10%
 340,Villa,Slagelsevej 26,4291, Ruds Vedby,585000 ,13-03-2014,Alm. Salg,144,4063,6,1918,
 340,Villa,Pilevej 2,4180, Sorø,925000 ,11-03-2014,Alm. Salg,110,8409,4,1968,-16%
-340,Villa,Slagelsevej 8C,4291, Ruds Vedby,590000 ,11-03-2014,Andet,46,12826,2,1903,
 340,Villa,Grønagervej 10,4173, Fjenneslev,650000 ,11-03-2014,Alm. Salg,120,5417,4,1973,-10%
 340,Rækkehus,Møllegårdsvej 43B,4295, Stenlille,845000 ,07-03-2014,Alm. Salg,85,9941,4,1984,-6%
 340,Villa,Kildeagervej 3A,4173, Fjenneslev,1320000 ,07-03-2014,Alm. Salg,153,8627,6,1976,-5%
@@ -4235,7 +4184,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Fru Ingesvej 4,4180, Sorø,2735000 ,05-10-2012,Alm. Salg,210,13024,6,1923,-14%
 340,Villa,Solvænget 30,4180, Sorø,1595000 ,04-10-2012,Alm. Salg,126,12659,5,1969,-6%
 340,Villa,Dr Christiansens Vej 2,4293, Dianalund,995000 ,04-10-2012,Alm. Salg,141,7057,6,1932,-9%
-340,Villa,Absalonsgade 19,4180, Sorø,4125000 ,03-10-2012,Alm. Salg,192,21484,6,1913,-2%
 340,Villa,Mimersvej 8,4180, Sorø,3400000 ,03-10-2012,Alm. Salg,173,19653,5,2008,
 340,Villa,Solbakkevej 17,4180, Sorø,1195000 ,02-10-2012,Alm. Salg,158,7563,5,1927,
 340,Villa,Frederiksbergvej 9,4180, Sorø,1150000 ,02-10-2012,Alm. Salg,107,10748,3,1987,-15%
@@ -4401,7 +4349,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Havrevænget 13,4173, Fjenneslev,500000 ,18-04-2012,Alm. Salg,78,6410,3,1945,-16%
 340,Villa,Slagelsevej 10,4180, Sorø,2850000 ,17-04-2012,Alm. Salg,214,13318,9,1912,
 340,Villa,Esbern Snaresvej 32,4180, Sorø,2625000 ,16-04-2012,Alm. Salg,192,13672,8,1948,-6%
-340,Villa,Slagelsevej 8C,4291, Ruds Vedby,135000 ,16-04-2012,Auktion,46,2935,2,1903,
 340,Villa,Havrevænget 19,4173, Fjenneslev,830000 ,15-04-2012,Alm. Salg,109,7615,3,1974,
 340,Villa,Tuelsøvej 36,4180, Sorø,2800000 ,14-04-2012,Alm. Salg,173,16185,5,1973,-13%
 340,Villa,Leandersvej 3,4293, Dianalund,1100000 ,13-04-2012,Alm. Salg,157,7006,6,1976,-8%
@@ -4563,7 +4510,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Hybenvej 8,4295, Stenlille,875000 ,13-09-2011,Alm. Salg,111,7883,4,1963,-12%
 340,Villa,Tjørnevang 3,4180, Sorø,2375000 ,12-09-2011,Alm. Salg,176,13494,5,2004,-5%
 340,Villa,Fyrrevejen 29,4180, Sorø,1400000 ,11-09-2011,Alm. Salg,115,12174,4,1967,-6%
-340,Villa,Johnstrupsvej 6,4180, Sorø,3800000 ,10-09-2011,Alm. Salg,178,21348,5,1902,
 340,Villa,Ringstedvej 142,4173, Fjenneslev,645000 ,09-09-2011,Alm. Salg,95,6789,4,1918,
 340,Villa,Esbern Snaresvej 22A,4180, Sorø,2500000 ,08-09-2011,Alm. Salg,156,16026,5,1980,-12%
 340,Villa,Hejreskovvej 14,4173, Fjenneslev,1000000 ,05-09-2011,Auktion,172,5814,7,1966,
@@ -4630,9 +4576,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Sølvagerparken 15,4293, Dianalund,1500000 ,13-06-2011,Alm. Salg,110,13636,4,2008,
 340,Villa,Strandvejen 35,4180, Sorø,900000 ,12-06-2011,Alm. Salg,132,6818,3,1907,-25%
 340,Villa,Fru Ingesvej 21,4180, Sorø,3600000 ,09-06-2011,Alm. Salg,220,16364,7,1936,
-340,Ejerlejlighed,Holbergsvej 61B,4293, Dianalund,750000 ,08-06-2011,Alm. Salg,71,10563,3,1908,
-340,Ejerlejlighed,Pilegårdsvej 10,4293, Dianalund,750000 ,08-06-2011,Alm. Salg,129,5814,6,1908,
-340,Villa,Holbergsvej 61A,4293, Dianalund,750000 ,08-06-2011,Alm. Salg,60,12500,2,1908,
 340,Villa,Havrevænget 19,4173, Fjenneslev,450000 ,08-06-2011,Alm. Salg,109,4128,3,1974,-9%
 340,Villa,Sølvagervej 4,4293, Dianalund,320000 ,07-06-2011,Alm. Salg,144,2222,6,1924,8%
 340,Villa,Skolebakken 4,4190, Munke Bjergby,1200000 ,02-06-2011,Alm. Salg,176,6818,5,1972,-14%
@@ -4665,7 +4608,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Søbakken 5,4180, Sorø,1100000 ,06-05-2011,Alm. Salg,105,10476,3,1971,-8%
 340,Villa,Tokesvej 8,4180, Sorø,1862500 ,03-05-2011,Alm. Salg,149,12500,5,1930,-13%
 340,Ejerlejlighed,"Fægangen 14, 1. mf",4180, Sorø,160000 ,02-05-2011,Auktion,27,5926,1,1969,
-340,Villa,Udbyhøjvej 6,4180, Sorø,3650000 ,29-04-2011,Alm. Salg,170,21471,6,1983,-9%
 340,Villa,Borødvej 11,4180, Sorø,2250000 ,29-04-2011,Alm. Salg,141,15957,3,1990,-6%
 340,Villa,Lærkevej 4,4180, Sorø,1900000 ,29-04-2011,Alm. Salg,131,14504,4,1937,-5%
 340,Ejerlejlighed,"Sorøparken 1, 2. th",4180, Sorø,440000 ,27-04-2011,Auktion,77,5714,3,1966,-39%
@@ -5052,7 +4994,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Ejerlejlighed,"Munkevænget 20, st. th",4180, Sorø,1000000 ,23-02-2010,Alm. Salg,79,12658,2,1986,-9%
 340,Rækkehus,Malerivej 7,4293, Dianalund,1461000 ,22-02-2010,Alm. Salg,116,12595,3,2010,-2%
 340,Villa,Holbækvej 74,4180, Sorø,2350000 ,20-02-2010,Alm. Salg,150,15667,6,1930,-6%
-340,Villa,Rustkammervej 68,4180, Sorø,1800000 ,18-02-2010,Alm. Salg,111,16216,4,1936,
 340,Villa,Topshøjvej 89,4180, Sorø,302338 ,17-02-2010,Alm. Salg,225,1344,6,1928,
 340,Villa,Stokholtsvej 31,4173, Fjenneslev,2225000 ,16-02-2010,Alm. Salg,152,14638,3,1880,12%
 340,Rækkehus,Tværmarksvej 12,4291, Ruds Vedby,780000 ,15-02-2010,Alm. Salg,91,8571,4,1980,-13%
@@ -5100,7 +5041,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Smedevej 61,4180, Sorø,1700000 ,04-01-2010,Alm. Salg,120,14167,5,1880,
 340,Villa,Smedevej 18,4180, Sorø,1700000 ,03-01-2010,Alm. Salg,224,7589,6,1966,-13%
 340,Rækkehus,Slettebjerggård 4,4295, Stenlille,1400000 ,29-12-2009,Alm. Salg,144,9722,4,2008,-2%
-340,Villa,Plantagevej 1B,4180, Sorø,2247500 ,26-12-2009,Alm. Salg,185,12149,6,1860,
 340,Villa,Fyrrevejen 14,4180, Sorø,1750000 ,20-12-2009,Alm. Salg,130,13462,5,1969,-3%
 340,Villa,Kamillevej 7,4180, Sorø,2300000 ,17-12-2009,Alm. Salg,145,15862,5,1986,-8%
 340,Villa,Heimdalsvej 6,4180, Sorø,2950000 ,16-12-2009,Alm. Salg,212,13915,7,2007,-5%
@@ -5174,7 +5114,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Fuglebakken 23,4291, Ruds Vedby,875000 ,04-10-2009,Alm. Salg,118,7415,4,1974,-2%
 340,Ejerlejlighed,"Vestergade 15, st. tv",4180, Sorø,910000 ,02-10-2009,Alm. Salg,79,11519,3,1969,
 340,Ejerlejlighed,"Sorøparken 6, 3. tv",4180, Sorø,795000 ,29-09-2009,Alm. Salg,70,11357,3,1966,
-340,Villa,Esbern Snaresvej 17,4180, Sorø,3350000 ,28-09-2009,Alm. Salg,154,21753,7,1949,-4%
 340,Villa,Thorsvej 9,4180, Sorø,1750000 ,27-09-2009,Alm. Salg,149,11745,5,1978,-16%
 340,Villa,Bøgevænget 24,4293, Dianalund,1200000 ,25-09-2009,Alm. Salg,106,11321,4,1973,-11%
 340,Villa,Hvidtjørnevej 1,4180, Sorø,2000000 ,24-09-2009,Alm. Salg,181,11050,7,1969,-13%
@@ -5324,7 +5263,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Assentorpvej 26,4295, Stenlille,1120000 ,26-03-2009,Auktion,143,7832,4,1967,
 340,Villa,Dr Christiansens Vej 7,4293, Dianalund,1900000 ,26-03-2009,Alm. Salg,182,10440,7,1955,-19%
 340,Villa,Bakken 2,4296, Nyrup,1500000 ,25-03-2009,Alm. Salg,158,9494,6,1964,-6%
-340,Rækkehus,Priorgade 3E,4180, Sorø,3074193 ,23-03-2009,Alm. Salg,143,21498,3,1856,18%
 340,Villa,Nordskovvej 32,4295, Stenlille,675000 ,23-03-2009,Alm. Salg,186,3629,5,1912,-34%
 340,Villa,Parkvej 1,4293, Dianalund,900000 ,23-03-2009,Alm. Salg,111,8108,3,1973,
 340,Villa,Tjørnevej 8,4293, Dianalund,695000 ,23-03-2009,Alm. Salg,62,11210,3,1961,
@@ -5333,7 +5271,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Verupvej 18,4293, Dianalund,837500 ,18-03-2009,Alm. Salg,170,4926,5,1941,
 340,Villa,Topshøjvej 93,4180, Sorø,1350000 ,18-03-2009,Alm. Salg,131,10305,5,1877,-19%
 340,Villa,H. P. Christensensvej 8,4180, Sorø,1175000 ,17-03-2009,Alm. Salg,129,9109,6,1942,-16%
-340,Villa,Birkemosevej 2,4293, Dianalund,895000 ,17-03-2009,Alm. Salg,41,21829,3,1948,
 340,Villa,Heglingevej 16,4180, Sorø,1800000 ,17-03-2009,Alm. Salg,176,10227,4,1968,-17%
 340,Villa,Fulbyvej 50,4180, Sorø,2150000 ,17-03-2009,Auktion,177,12147,3,1904,
 340,Villa,Rudsgade 54,4291, Ruds Vedby,722239 ,16-03-2009,Fam. Salg,197,3666,7,1952,
@@ -5345,8 +5282,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Skovvej 25B,4291, Ruds Vedby,941159 ,04-03-2009,Alm. Salg,151,6233,6,2019,
 340,Ejerlejlighed,Vestergade 42,4180, Sorø,1200000 ,03-03-2009,Alm. Salg,120,10000,5,1691,
 340,Ejerlejlighed,Vestergade 38,4180, Sorø,800000 ,03-03-2009,Alm. Salg,100,8000,5,1691,
-340,Ejerlejlighed,Vestergade 44,4180, Sorø,900000 ,03-03-2009,Alm. Salg,72,12500,3,1691,
-340,Ejerlejlighed,Bredahlsvej 1,4180, Sorø,900000 ,03-03-2009,Alm. Salg,68,13235,3,1691,
 340,Villa,Herrestrupvej 6,4293, Dianalund,550000 ,02-03-2009,Alm. Salg,132,4167,4,1952,-39%
 340,Villa,Assentorpvej 6,4295, Stenlille,750000 ,01-03-2009,Alm. Salg,158,4747,7,1900,-6%
 340,Villa,Ringstedvej 128,4173, Fjenneslev,815000 ,01-03-2009,Alm. Salg,110,7409,3,1900,-16%
@@ -5465,7 +5400,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Mågevej 5,4293, Dianalund,1295000 ,14-09-2008,Alm. Salg,145,8931,4,1970,
 340,Villa,Pernillesvej 8,4293, Dianalund,1425000 ,14-09-2008,Alm. Salg,132,10795,4,1978,-8%
 340,Villa,Liljevænget 4,4173, Fjenneslev,1300000 ,14-09-2008,Alm. Salg,140,9286,5,1977,-4%
-340,Rækkehus,Abildvang 27,4180, Sorø,2250000 ,11-09-2008,Alm. Salg,105,21429,4,2004,-4%
 340,Villa,Veddevej 17,4190, Munke Bjergby,950000 ,09-09-2008,Alm. Salg,96,9896,3,1960,-13%
 340,Villa,Slagelsevej 12,4180, Sorø,1405000 ,08-09-2008,Alm. Salg,152,9243,5,1927,-6%
 340,Villa,Kvædevej 9,4291, Ruds Vedby,1150000 ,07-09-2008,Alm. Salg,98,11735,4,1986,-8%
@@ -5538,7 +5472,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Elmebjergvej 12,4180, Sorø,2065000 ,17-06-2008,Alm. Salg,130,15885,6,1877,-1%
 340,Villa,Saxogade 11,4180, Sorø,900000 ,17-06-2008,Alm. Salg,204,4412,9,1892,
 340,Villa,Ydunsvej 9,4180, Sorø,3275000 ,16-06-2008,Alm. Salg,159,20597,5,2008,-4%
-340,Villa,Holbækvej 13,4180, Sorø,2360000 ,15-06-2008,Alm. Salg,109,21651,4,1930,-1%
 340,Villa,Vinkelvej 12,4180, Sorø,2897000 ,14-06-2008,Alm. Salg,156,18571,4,1922,
 340,Villa,Døjringevej 5,4190, Munke Bjergby,804267 ,14-06-2008,Andet,112,7181,4,1922,
 340,Villa,Hejreskovvej 8,4173, Fjenneslev,300000 ,14-06-2008,Alm. Salg,170,1765,4,1900,-75%
@@ -5642,7 +5575,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Rækkehus,Holbergsvej 43,4293, Dianalund,500000 ,11-03-2008,Fam. Salg,100,5000,5,1952,
 340,Villa,Rugvænget 17,4293, Dianalund,1495000 ,11-03-2008,Alm. Salg,132,11326,5,1980,
 340,Villa,Kirkevej 22,4180, Sorø,1925000 ,10-03-2008,Alm. Salg,218,8830,6,1955,-3%
-340,Rækkehus,Abildvang 23,4180, Sorø,2275000 ,09-03-2008,Alm. Salg,105,21667,4,2003,-1%
 340,Villa,Fyrrevejen 29,4180, Sorø,1650000 ,09-03-2008,Alm. Salg,115,14348,4,1967,
 340,Villa,Bøgevænget 38,4293, Dianalund,812000 ,09-03-2008,Alm. Salg,106,7660,4,1973,
 340,Villa,Sønderskovvej 18B,4180, Sorø,1550000 ,09-03-2008,Alm. Salg,77,20130,3,1938,-3%
@@ -5769,7 +5701,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Herrestrupvej 15,4293, Dianalund,1750000 ,18-11-2007,Alm. Salg,294,5952,8,1928,-3%
 340,Villa,Molbechs Alle 21,4180, Sorø,750000 ,18-11-2007,Alm. Salg,155,4839,4,2009,-45%
 340,Villa,Søskovvej 16,4180, Sorø,2335000 ,17-11-2007,Alm. Salg,134,17425,5,1974,
-340,Ejerlejlighed,"Munkevænget 20, 1. tv",4180, Sorø,1900000 ,15-11-2007,Alm. Salg,89,21348,2,1986,
 340,Villa,Rugvænget 35,4293, Dianalund,1875000 ,15-11-2007,Alm. Salg,136,13787,4,1981,
 340,Villa,Kirkevej 12,4180, Sorø,2295000 ,14-11-2007,Alm. Salg,123,18659,5,1920,
 340,Villa,Lundsgårdsvej 8,4180, Sorø,1850000 ,14-11-2007,Alm. Salg,115,16087,5,1937,-7%
@@ -5837,7 +5768,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Vedde Byvej 38,4295, Stenlille,1095000 ,30-09-2007,Alm. Salg,114,9605,4,1911,
 340,Rækkehus,Bavnevang 1,4180, Sorø,2370000 ,29-09-2007,Alm. Salg,121,19587,4,2000,
 340,Villa,Pernillesvej 15,4293, Dianalund,1585000 ,28-09-2007,Alm. Salg,114,13904,4,1977,-1%
-340,Villa,Tjørnevang 19,4180, Sorø,3300000 ,27-09-2007,Alm. Salg,153,21569,5,2004,-3%
 340,Villa,Grønningen 83,4293, Dianalund,2525000 ,27-09-2007,Alm. Salg,145,17414,6,2002,-6%
 340,Villa,Tjørnevej 3,4293, Dianalund,1025000 ,26-09-2007,Alm. Salg,86,11919,3,1963,-7%
 340,Rækkehus,Slettebjerggård 8,4295, Stenlille,1535000 ,25-09-2007,Alm. Salg,144,10660,3,2008,
@@ -5901,16 +5831,13 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Lærkevej 4,4293, Dianalund,850000 ,07-08-2007,Alm. Salg,100,8500,3,1956,
 340,Villa,Bakkevænget 31,4293, Dianalund,1635000 ,06-08-2007,Alm. Salg,121,13512,4,1975,-4%
 340,Villa,Skuerup Mark 6B,4295, Stenlille,837615 ,06-08-2007,Fam. Salg,152,5511,3,1998,
-340,Villa,Poppelvang 31,4180, Sorø,3095000 ,05-08-2007,Alm. Salg,143,21643,4,2005,
 340,Rækkehus,Thyrasvej 60,4173, Fjenneslev,1050000 ,02-08-2007,Alm. Salg,65,16154,2,1991,-4%
 340,Villa,Hasselvej 2,4180, Sorø,2000000 ,31-07-2007,Alm. Salg,103,19417,4,1967,
-340,Rækkehus,Tømrerparken 85,4180, Sorø,2085000 ,30-07-2007,Alm. Salg,97,21495,3,2000,0%
 340,Villa,Egekærsvej 5,4173, Fjenneslev,1070000 ,30-07-2007,Alm. Salg,80,13375,2,1870,
 340,Villa,Odinsvej 18,4180, Sorø,2335000 ,30-07-2007,Alm. Salg,153,15261,4,1975,
 340,Villa,Bakkevej 3,4295, Stenlille,1195000 ,30-07-2007,Alm. Salg,124,9637,4,1966,
 340,Villa,Frederiksbergvej 14,4180, Sorø,3650000 ,30-07-2007,Alm. Salg,214,17056,8,1914,
 340,Rækkehus,Sportsvej 9,4291, Ruds Vedby,112500 ,28-07-2007,Fam. Salg,86,1308,4,1950,
-340,Ejerlejlighed,"Munkevænget 12, 1. mf",4180, Sorø,1135000 ,28-07-2007,Alm. Salg,52,21827,1,1973,
 340,Villa,Rønnebærvej 6,4293, Dianalund,2250000 ,28-07-2007,Alm. Salg,152,14803,6,1947,
 340,Villa,Havrevænget 28,4173, Fjenneslev,985000 ,26-07-2007,Alm. Salg,83,11867,4,1970,
 340,Villa,Hedeborydevej 13,4293, Dianalund,1695000 ,25-07-2007,Alm. Salg,117,14487,4,1908,
@@ -5935,10 +5862,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Elmebjergvej 9,4180, Sorø,1530000 ,12-07-2007,Alm. Salg,117,13077,5,1907,-16%
 340,Villa,Dybendalvej 12,4190, Munke Bjergby,2250000 ,12-07-2007,Alm. Salg,143,15734,6,1925,
 340,Villa,Færøvej 31,4293, Dianalund,425000 ,12-07-2007,Alm. Salg,150,2833,5,2013,
-340,Rækkehus,Lundtoftevej 2A,4293, Dianalund,1710000 ,11-07-2007,Andet,97,17629,3,2007,
 340,Villa,Enighedsvej 7,4180, Sorø,2550000 ,11-07-2007,Alm. Salg,191,13351,7,1920,-2%
 340,Villa,Kirkevej 14,4295, Stenlille,1850000 ,11-07-2007,Alm. Salg,190,9737,6,1975,
-340,Villa,Leandersvej 13,4293, Dianalund,1710000 ,11-07-2007,Alm. Salg,135,12667,3,1977,-8%
 340,Villa,Frederiksberg 7,4293, Dianalund,795000 ,11-07-2007,Alm. Salg,44,18068,3,1962,
 340,Villa,Syrenvej 26,4295, Stenlille,1750000 ,11-07-2007,Alm. Salg,148,11824,5,1978,
 340,Villa,Fulbyvej 33,4180, Sorø,1300000 ,10-07-2007,Alm. Salg,168,7738,6,1961,
@@ -5996,7 +5921,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Nyrupvej 21,4296, Nyrup,280000 ,10-06-2007,Alm. Salg,107,2617,3,1915,
 340,Villa,Kærvej 12,4173, Fjenneslev,2200000 ,10-06-2007,Fam. Salg,205,10732,6,1775,
 340,Villa,Fulbyvej 67,4180, Sorø,1350000 ,10-06-2007,Alm. Salg,144,9375,5,1900,
-340,Villa,Frejasvej 2,4180, Sorø,3357308 ,10-06-2007,Alm. Salg,155,21660,5,2008,
 340,Villa,Rustkammervej 54,4180, Sorø,1510000 ,08-06-2007,Alm. Salg,106,14245,5,1948,
 340,Villa,Herrestrupvej 39,4293, Dianalund,1395000 ,07-06-2007,Alm. Salg,145,9621,5,1925,
 340,Villa,Dybendalvej 1A,4190, Munke Bjergby,850000 ,05-06-2007,Fam. Salg,279,3047,6,2015,
@@ -6024,7 +5948,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Dyssevej 14,4180, Sorø,1285000 ,20-05-2007,Alm. Salg,103,12476,3,1948,-5%
 340,Villa,Storkens Kvarter 13,4180, Sorø,2975000 ,20-05-2007,Alm. Salg,180,16528,5,1987,
 340,Villa,Skulpturvej 2,4293, Dianalund,360000 ,20-05-2007,Alm. Salg,172,2093,7,2013,
-340,Rækkehus,Peter Damsvej 56,4180, Sorø,2445000 ,17-05-2007,Alm. Salg,113,21637,3,2008,
 340,Villa,Frederiksbergvej 59,4180, Sorø,2650000 ,17-05-2007,Alm. Salg,158,16772,5,1970,
 340,Villa,Kløvervænget 13,4173, Fjenneslev,1600000 ,17-05-2007,Alm. Salg,115,13913,5,1973,
 340,Villa,Skælskørvej 44,4180, Sorø,1465000 ,17-05-2007,Alm. Salg,220,6104,7,1942,
@@ -6035,7 +5958,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Færøvej 30,4293, Dianalund,300000 ,14-05-2007,Alm. Salg,145,2069,5,2008,
 340,Villa,Færøvej 17,4293, Dianalund,265400 ,14-05-2007,Alm. Salg,159,1669,5,2008,
 340,Villa,Bakkevej 24A,4293, Dianalund,450000 ,14-05-2007,Alm. Salg,186,2419,5,2022,
-340,Rækkehus,Peter Damsvej 58,4180, Sorø,2445000 ,13-05-2007,Alm. Salg,113,21637,3,2008,
 340,Villa,Islandsvej 21,4293, Dianalund,1675000 ,13-05-2007,Alm. Salg,105,15952,4,1986,-4%
 340,Villa,Bøgevænget 24,4293, Dianalund,1495000 ,13-05-2007,Alm. Salg,106,14104,4,1973,
 340,Villa,Skjalm Hvidesvej 15,4180, Sorø,3750000 ,12-05-2007,Alm. Salg,181,20718,8,1950,
@@ -6145,7 +6067,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Assentorpvej 39,4295, Stenlille,900000 ,26-02-2007,Alm. Salg,104,8654,5,1906,-10%
 340,Villa,Tusindfrydvej 15,4180, Sorø,3795000 ,26-02-2007,Alm. Salg,202,18787,6,1998,
 340,Rækkehus,Dalen 8,4180, Sorø,2395000 ,25-02-2007,Alm. Salg,141,16986,4,2007,
-340,Rækkehus,Frihedsvej 23,4180, Sorø,1300000 ,25-02-2007,Alm. Salg,60,21667,2,1962,
 340,Ejerlejlighed,"Sorøparken 1, 3. tv",4180, Sorø,1100000 ,25-02-2007,Alm. Salg,78,14103,3,1966,-8%
 340,Villa,Ødemarksvej 3,4180, Sorø,2725000 ,25-02-2007,Alm. Salg,141,19326,5,1900,
 340,Villa,Holbækvej 88,4180, Sorø,2120000 ,25-02-2007,Alm. Salg,129,16434,8,1937,
@@ -6208,7 +6129,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Dr Sells Vej 25,4293, Dianalund,850000 ,14-01-2007,Alm. Salg,71,11972,3,1850,
 340,Villa,Frejasvej 10,4180, Sorø,856260 ,14-01-2007,Alm. Salg,147,5825,7,2007,
 340,Villa,Bøgelunden 14,4180, Sorø,2200000 ,13-01-2007,Alm. Salg,190,11579,4,2007,
-340,Villa,Tjørnevang 20,4180, Sorø,3295000 ,11-01-2007,Alm. Salg,153,21536,6,2002,
 340,Villa,Vibevej 2,4295, Stenlille,1425000 ,11-01-2007,Alm. Salg,125,11400,5,1969,
 340,Villa,Birkevej 13,4291, Ruds Vedby,1575000 ,11-01-2007,Alm. Salg,135,11667,3,1940,
 340,Villa,Slettebjergvej 46,4295, Stenlille,440000 ,10-01-2007,Alm. Salg,138,3188,5,2008,
@@ -6257,7 +6177,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Rødtjørnevej 10,4180, Sorø,2885000 ,03-12-2006,Alm. Salg,144,20035,5,1970,
 340,Villa,Løngvej 2,4180, Sorø,754654 ,02-12-2006,Fam. Salg,231,3267,7,1948,
 340,Villa,Birkemosevej 9,4293, Dianalund,2695000 ,01-12-2006,Alm. Salg,393,6858,8,1899,
-340,Rækkehus,Dalen 10,4180, Sorø,3027823 ,30-11-2006,Alm. Salg,141,21474,4,2007,
 340,Villa,Ringstedvej 181,4173, Fjenneslev,1370000 ,30-11-2006,Alm. Salg,119,11513,3,1950,
 340,Villa,Toplærkevej 10,4190, Munke Bjergby,160000 ,30-11-2006,Alm. Salg,103,1553,4,2012,
 340,Villa,Enghavevej 6,4295, Stenlille,1100000 ,29-11-2006,Alm. Salg,120,9167,4,1907,
@@ -6280,7 +6199,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Topshøjvej 13A,4180, Sorø,375000 ,04-11-2006,Alm. Salg,200,1875,6,2008,
 340,Villa,Violvænget 15,4173, Fjenneslev,1995000 ,02-11-2006,Alm. Salg,156,12788,5,1971,
 340,Villa,Glentevej 2,4291, Ruds Vedby,1275000 ,01-11-2006,Alm. Salg,110,11591,3,1969,
-340,Ejerlejlighed,Absalonsgade 13G,4180, Sorø,1267500 ,31-10-2006,Alm. Salg,59,21483,2,1988,
 340,Villa,Sølvagervej 4,4293, Dianalund,1425000 ,31-10-2006,Alm. Salg,144,9896,6,1924,
 340,Villa,Færøvej 27,4293, Dianalund,404040 ,31-10-2006,Alm. Salg,134,3015,5,2015,
 340,Villa,Irisvænget 3,4173, Fjenneslev,1300000 ,30-10-2006,Alm. Salg,133,9774,4,1976,
@@ -6449,7 +6367,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Skellebjergvej 20,4293, Dianalund,1415000 ,24-07-2006,Alm. Salg,181,7818,5,1900,
 340,Villa,Nyvej 4,4291, Ruds Vedby,1145000 ,23-07-2006,Alm. Salg,93,12312,3,1926,
 340,Villa,Møllevej 22,4180, Sorø,2195000 ,23-07-2006,Alm. Salg,124,17702,3,1965,
-340,Villa,Fru Ingesvej 5,4180, Sorø,3200000 ,23-07-2006,Alm. Salg,148,21622,5,1923,
 340,Rækkehus,Drosselvej 39,4295, Stenlille,1496000 ,22-07-2006,Alm. Salg,82,18244,3,1984,
 340,Villa,Skulpturvej 10,4293, Dianalund,360000 ,20-07-2006,Alm. Salg,134,2687,4,2008,
 340,Villa,Apotekervej 2,4180, Sorø,1316952 ,19-07-2006,Alm. Salg,94,14010,4,1954,
@@ -6479,7 +6396,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Egesvinget 41,4180, Sorø,2150000 ,03-07-2006,Alm. Salg,160,13438,4,1972,
 340,Villa,Færøvej 33,4293, Dianalund,281050 ,03-07-2006,Alm. Salg,181,1553,6,2007,
 340,Villa,Verupvej 9,4293, Dianalund,1285000 ,02-07-2006,Alm. Salg,138,9312,5,1961,
-340,Villa,Vinkelvej 11,4180, Sorø,2575000 ,02-07-2006,Alm. Salg,118,21822,5,1906,
 340,Villa,Fru Ingesvej 12,4180, Sorø,3895000 ,02-07-2006,Alm. Salg,188,20718,6,1920,
 340,Villa,Nybovej 1,4293, Dianalund,1495000 ,30-06-2006,Alm. Salg,113,13230,4,1930,
 340,Villa,Skuerup Mark 6B,4295, Stenlille,2598000 ,30-06-2006,Alm. Salg,152,17092,3,1998,
@@ -6607,7 +6523,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Bakkevænget 5,4293, Dianalund,1425000 ,07-05-2006,Alm. Salg,121,11777,4,1975,
 340,Villa,Stenstrupvej 35,4180, Sorø,495000 ,07-05-2006,Alm. Salg,230,2152,7,2008,
 340,Ejerlejlighed,"Nybovej 14C, st",4293, Dianalund,1375000 ,05-05-2006,Alm. Salg,100,13750,3,2005,
-340,Ejerlejlighed,"Søgade 12, st",4180, Sorø,4000000 ,04-05-2006,Alm. Salg,183,21858,5,1887,
 340,Villa,Assentorpvej 52,4295, Stenlille,600000 ,03-05-2006,Alm. Salg,113,5310,5,1927,
 340,Villa,Grandalen 14,4291, Ruds Vedby,1497000 ,03-05-2006,Alm. Salg,142,10542,5,1972,
 340,Villa,Sværdsholtevej 12,4295, Stenlille,510000 ,03-05-2006,Alm. Salg,94,5426,5,1907,
@@ -6641,7 +6556,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Vestervej 1,4295, Stenlille,1500000 ,20-04-2006,Alm. Salg,157,9554,5,1963,
 340,Villa,Rosenvej 8,4293, Dianalund,1200000 ,20-04-2006,Alm. Salg,80,15000,3,1936,
 340,Villa,Skjalm Hvidesvej 11,4180, Sorø,3930000 ,20-04-2006,Alm. Salg,193,20363,7,1949,
-340,Villa,Bøgelunden 4,4180, Sorø,3050000 ,19-04-2006,Alm. Salg,143,21329,5,2006,
 340,Ejerlejlighed,Priorgade 3B,4180, Sorø,1445000 ,18-04-2006,Alm. Salg,76,19013,2,1856,
 340,Ejerlejlighed,"Storgade 31A, 2",4180, Sorø,560256 ,18-04-2006,Alm. Salg,99,5659,5,1908,
 340,Villa,Store Bjørnevej 9,4293, Dianalund,1950000 ,18-04-2006,Alm. Salg,162,12037,6,1972,
@@ -6649,14 +6563,12 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Finlandsvej 25,4293, Dianalund,2400000 ,17-04-2006,Alm. Salg,159,15094,6,2001,
 340,Villa,Storkens Kvarter 13,4180, Sorø,2635000 ,16-04-2006,Alm. Salg,180,14639,5,1987,
 340,Villa,Skuerup Mark 2,4295, Stenlille,1075000 ,14-04-2006,Alm. Salg,205,5244,5,1880,
-340,Villa,Fredensvej 15,4180, Sorø,1915000 ,13-04-2006,Alm. Salg,89,21517,5,1954,
 340,Villa,Absalonsgade 23,4180, Sorø,2895000 ,12-04-2006,Alm. Salg,147,19694,5,1917,
 340,Villa,Poppelvang 20,4180, Sorø,2650000 ,12-04-2006,Alm. Salg,152,17434,4,2004,
 340,Villa,Haverupvej 49,4180, Sorø,2460000 ,12-04-2006,Alm. Salg,179,13743,6,2003,
 340,Villa,Drosselvej 19,4295, Stenlille,1495000 ,11-04-2006,Alm. Salg,120,12458,4,1970,
 340,Villa,Haverupvej 17,4180, Sorø,1000000 ,10-04-2006,Alm. Salg,85,11765,3,1958,
 340,Ejerlejlighed,"Søndergade 24, 1. th",4180, Sorø,1600000 ,09-04-2006,Alm. Salg,99,16162,2,1969,
-340,Ejerlejlighed,"Munkevænget 8, 1. th",4180, Sorø,1070000 ,09-04-2006,Alm. Salg,49,21837,1,1973,
 340,Villa,Strandvejen 33,4180, Sorø,2295000 ,09-04-2006,Alm. Salg,157,14618,6,1930,
 340,Villa,Ellemosevej 3,4180, Sorø,1898000 ,09-04-2006,Alm. Salg,97,19567,3,1940,
 340,Villa,Haverupvej 61,4180, Sorø,3405000 ,07-04-2006,Alm. Salg,181,18812,5,2005,
@@ -6673,9 +6585,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Nyrupvej 48,4296, Nyrup,1000004 ,31-03-2006,Andet,210,4762,6,1877,
 340,Villa,Lillevangsvej 12,4180, Sorø,476000 ,31-03-2006,Fam. Salg,90,5289,2,1830,
 340,Villa,Kalundborgvej 111,4190, Munke Bjergby,845000 ,30-03-2006,Alm. Salg,77,10974,3,1919,
-340,Ejerlejlighed,"Storgade 38C, 1",4180, Sorø,1315301 ,28-03-2006,Fam. Salg,82,16040,3,1801,
-340,Ejerlejlighed,"Østergade 1C, st",4180, Sorø,1315301 ,28-03-2006,Fam. Salg,95,13845,3,1801,
-340,Ejerlejlighed,"Storgade 38, 1. tv",4180, Sorø,1315301 ,28-03-2006,Fam. Salg,141,9328,3,1801,
 340,Villa,Skolebakken 4,4190, Munke Bjergby,1875000 ,28-03-2006,Alm. Salg,176,10653,5,1972,
 340,Villa,Lokesvej 8,4180, Sorø,950111 ,28-03-2006,Alm. Salg,174,5460,5,2008,
 340,Villa,Ydunsvej 5,4180, Sorø,901000 ,28-03-2006,Alm. Salg,160,5631,6,2008,
@@ -6688,7 +6597,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Heimdalsvej 8,4180, Sorø,927000 ,27-03-2006,Alm. Salg,165,5618,5,2007,
 340,Villa,Mimersvej 7,4180, Sorø,1035000 ,27-03-2006,Alm. Salg,165,6273,4,2010,
 340,Villa,Ydunsvej 1,4180, Sorø,778000 ,27-03-2006,Alm. Salg,170,4576,5,2008,
-340,Rækkehus,Anemonevej 18,4180, Sorø,1400000 ,26-03-2006,Alm. Salg,64,21875,2,1988,
 340,Rækkehus,Øgårdsvej 3B,4293, Dianalund,125000 ,26-03-2006,Alm. Salg,97,1289,4,2006,
 340,Villa,Thyrasvej 4,4173, Fjenneslev,1895000 ,26-03-2006,Alm. Salg,241,7863,9,1977,
 340,Villa,Rødengvej 14,4180, Sorø,2200000 ,26-03-2006,Alm. Salg,217,10138,8,1867,
@@ -6718,8 +6626,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Kulbyvej 49,4291, Ruds Vedby,651500 ,19-03-2006,Alm. Salg,270,2413,6,2006,
 340,Villa,Snerlevej 8,4293, Dianalund,1250000 ,19-03-2006,Alm. Salg,176,7102,6,1972,
 340,Villa,Granbakkevej 26,4295, Stenlille,859819 ,19-03-2006,Andet,256,3359,7,1900,
-340,Rækkehus,Rudsgade 39B,4291, Ruds Vedby,2150000 ,16-03-2006,Alm. Salg,150,14333,4,1910,
-340,Villa,Rudsgade 39A,4291, Ruds Vedby,2150000 ,16-03-2006,Alm. Salg,148,14527,6,1912,
 340,Villa,Ringstedvej 24,4180, Sorø,2075000 ,16-03-2006,Alm. Salg,208,9976,7,1938,
 340,Rækkehus,Hvidtjørnevej 3B,4295, Stenlille,420000 ,15-03-2006,Fam. Salg,85,4941,3,1989,
 340,Villa,Bygaden 18,4296, Nyrup,975000 ,15-03-2006,Alm. Salg,184,5299,9,1925,
@@ -6763,7 +6669,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Kirkevej 11,4180, Sorø,800000 ,26-02-2006,Fam. Salg,110,7273,4,1971,
 340,Villa,Poppelvang 8,4180, Sorø,2895000 ,26-02-2006,Alm. Salg,188,15399,4,2005,
 340,Villa,Kirkevej 22,4180, Sorø,1895000 ,26-02-2006,Alm. Salg,218,8693,6,1955,
-340,Rækkehus,Anemonevej 16,4180, Sorø,1395000 ,25-02-2006,Alm. Salg,64,21797,2,1990,
 340,Villa,Rødtjørnevej 17,4180, Sorø,2450000 ,25-02-2006,Alm. Salg,174,14080,8,1970,
 340,Villa,Rolighedsvej 4,4293, Dianalund,1400000 ,25-02-2006,Alm. Salg,113,12389,5,1947,
 340,Villa,Slettebjergvej 11,4295, Stenlille,1900000 ,23-02-2006,Alm. Salg,140,13571,5,2006,
@@ -7058,7 +6963,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Rækkehus,Lucernevej 2,4180, Sorø,1383000 ,05-09-2005,Alm. Salg,107,12925,4,1987,
 340,Ejerlejlighed,"Fægangen 10, 1. th",4180, Sorø,1345000 ,05-09-2005,Alm. Salg,91,14780,4,1969,
 340,Villa,Granbakkevej 46,4295, Stenlille,4170000 ,05-09-2005,Alm. Salg,320,11090,10,1900,
-340,Villa,Lundsgårdsvej 9C,4180, Sorø,1400000 ,05-09-2005,Alm. Salg,100,14000,3,0,
 340,Villa,Fulbyvej 30,4180, Sorø,1350000 ,04-09-2005,Alm. Salg,170,7941,5,1908,
 340,Villa,Frederiksbergvej 8,4180, Sorø,750000 ,04-09-2005,Alm. Salg,134,5597,5,1922,
 340,Villa,Åmosevej 10,4293, Dianalund,1250000 ,04-09-2005,Alm. Salg,143,8741,4,1929,
@@ -7080,7 +6984,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Danasvej 12,4293, Dianalund,1075000 ,28-08-2005,Alm. Salg,153,7026,4,1907,
 340,Villa,Parnasvej 19,4180, Sorø,3100000 ,28-08-2005,Alm. Salg,308,10065,7,1952,
 340,Villa,Parnasvej 11,4180, Sorø,150000 ,27-08-2005,Alm. Salg,250,600,7,2017,
-340,Villa,Hauchsvej 2,4180, Sorø,3190000 ,26-08-2005,Alm. Salg,149,21409,7,1918,
 340,Villa,Rugvænget 1,4293, Dianalund,892500 ,25-08-2005,Fam. Salg,132,6761,5,1980,
 340,Villa,Pernillesvej 27,4293, Dianalund,1795000 ,25-08-2005,Alm. Salg,123,14593,5,1976,
 340,Villa,Dagmarsvej 18,4173, Fjenneslev,380000 ,25-08-2005,Alm. Salg,140,2714,5,2006,
@@ -7116,7 +7019,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Åvænget 10,4293, Dianalund,1800000 ,12-08-2005,Alm. Salg,196,9184,6,1973,
 340,Ejerlejlighed,"Nybovej 14C, 1",4293, Dianalund,1195000 ,11-08-2005,Alm. Salg,100,11950,3,2005,
 340,Villa,Grønningen 24,4293, Dianalund,1825000 ,11-08-2005,Alm. Salg,165,11061,6,1999,
-340,Villa,"Brobyvej 91A, st",4180, Sorø,1700000 ,10-08-2005,Alm. Salg,149,11409,5,1930,
 340,Villa,Assentorpvej 80,4295, Stenlille,1130000 ,09-08-2005,Alm. Salg,106,10660,5,1907,
 340,Villa,Valmuevej 4,4180, Sorø,2575000 ,08-08-2005,Alm. Salg,161,15994,5,1986,
 340,Villa,Ll. Ladegaardsvej 13,4180, Sorø,850000 ,08-08-2005,Fam. Salg,122,6967,4,1939,
@@ -7611,8 +7513,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Kragerupvej 9,4291, Ruds Vedby,1695000 ,13-11-2004,Alm. Salg,191,8874,6,1900,
 340,Villa,Yrsavej 7,4173, Fjenneslev,1250000 ,12-11-2004,Alm. Salg,158,7911,5,1973,
 340,Rækkehus,Banevej 11E,4180, Sorø,1310000 ,11-11-2004,Alm. Salg,109,12018,4,1984,
-340,Ejerlejlighed,Plantagevej 1A,4180, Sorø,1500000 ,11-11-2004,Alm. Salg,100,15000,4,1860,
-340,Villa,Plantagevej 1B,4180, Sorø,1500000 ,11-11-2004,Alm. Salg,185,8108,6,1860,
 340,Ejerlejlighed,"Fægangen 12, 1. mf",4180, Sorø,440000 ,10-11-2004,Alm. Salg,27,16296,1,1969,
 340,Villa,Peder Madsens Vej 11,4291, Ruds Vedby,1050000 ,10-11-2004,Alm. Salg,171,6140,5,1926,
 340,Villa,Ødemarksvej 2,4180, Sorø,1095000 ,09-11-2004,Alm. Salg,203,5394,4,1902,
@@ -7762,8 +7662,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Odinsvej 24,4180, Sorø,1325000 ,08-08-2004,Alm. Salg,129,10271,4,1974,
 340,Villa,Dansbrovej 7,4180, Sorø,424326 ,08-08-2004,Alm. Salg,230,1845,6,1947,
 340,Villa,Engkrogen 6,4295, Stenlille,975000 ,07-08-2004,Alm. Salg,180,5417,5,1955,
-340,Ejerlejlighed,Storgade 40B,4180, Sorø,2435000 ,04-08-2004,Alm. Salg,169,14408,7,1900,
-340,Ejerlejlighed,Byvolden 15,4180, Sorø,2435000 ,04-08-2004,Alm. Salg,135,18037,3,1900,
 340,Villa,Sorøvej 45,4295, Stenlille,807700 ,04-08-2004,Alm. Salg,112,7212,5,1957,
 340,Villa,Gartnervænget 4,4173, Fjenneslev,469092 ,04-08-2004,Andet,172,2727,4,1970,
 340,Rækkehus,Bavnevang 11,4180, Sorø,1590000 ,03-08-2004,Alm. Salg,121,13140,4,2003,
@@ -7840,7 +7738,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Poppelvang 3,4180, Sorø,360000 ,21-06-2004,Alm. Salg,141,2553,5,2005,
 340,Rækkehus,Kamillevej 12,4180, Sorø,920799 ,20-06-2004,Alm. Salg,112,8221,5,1987,
 340,Villa,Kongevejen 3,4180, Sorø,1300000 ,20-06-2004,Alm. Salg,120,10833,5,1979,
-340,Villa,Søleddet 8,4180, Sorø,1625000 ,20-06-2004,Alm. Salg,151,10762,4,1969,
 340,Villa,Bakkekammen 14,4291, Ruds Vedby,1015000 ,20-06-2004,Alm. Salg,133,7632,5,1980,
 340,Villa,Søskovvej 32,4180, Sorø,1470000 ,19-06-2004,Alm. Salg,121,12149,4,1979,
 340,Ejerlejlighed,"Søndergade 14, 1. tv",4180, Sorø,1050000 ,18-06-2004,Alm. Salg,81,12963,2,1982,
@@ -7864,11 +7761,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Rækkehus,Tværmarksvej 20,4291, Ruds Vedby,760000 ,10-06-2004,Alm. Salg,91,8352,3,1979,
 340,Villa,Søtoften 6,4180, Sorø,1525000 ,08-06-2004,Alm. Salg,140,10893,4,1971,
 340,Villa,Banevej 8,4293, Dianalund,710000 ,08-06-2004,Alm. Salg,110,6455,5,1908,
-340,Ejerlejlighed,Plantagevej 1A,4180, Sorø,1050000 ,07-06-2004,Alm. Salg,100,10500,4,1860,
 340,Villa,Krøjerupvej 19,4180, Sorø,750000 ,07-06-2004,Alm. Salg,96,7813,3,1924,
 340,Villa,Borgvej 7,4180, Sorø,1885000 ,07-06-2004,Alm. Salg,138,13659,4,1972,
 340,Villa,Øgårdsvej 7,4293, Dianalund,645000 ,07-06-2004,Alm. Salg,136,4743,5,1962,
-340,Villa,Plantagevej 1B,4180, Sorø,1050000 ,07-06-2004,Alm. Salg,185,5676,6,1860,
 340,Ejerlejlighed,"Molbechs Alle 45B, 1. tv",4180, Sorø,835000 ,06-06-2004,Alm. Salg,73,11438,3,1934,
 340,Villa,Bjernedevej 17,4180, Sorø,1115000 ,06-06-2004,Alm. Salg,125,8920,6,1960,
 340,Villa,Marienlunden 34,4296, Nyrup,130000 ,05-06-2004,Alm. Salg,180,722,5,2005,
@@ -8103,7 +7998,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Holbergsvej 89,4293, Dianalund,1028663 ,29-01-2004,Alm. Salg,85,12102,4,1929,
 340,Villa,Karsholtevej 41,4293, Dianalund,1190265 ,29-01-2004,Alm. Salg,142,8382,5,1961,
 340,Villa,Guldbergsvej 5,4180, Sorø,425000 ,28-01-2004,Alm. Salg,117,3632,4,1827,
-340,Ejerlejlighed,Storgade 40B,4180, Sorø,3400000 ,26-01-2004,Alm. Salg,169,20118,7,1900,
 340,Rækkehus,Dr Sells Vej 17A,4293, Dianalund,890000 ,25-01-2004,Alm. Salg,128,6953,5,1935,
 340,Villa,Skjalm Hvidesvej 9,4180, Sorø,1740000 ,25-01-2004,Alm. Salg,184,9457,6,1951,
 340,Villa,Ringstedvej 243,4173, Fjenneslev,934000 ,25-01-2004,Alm. Salg,174,5368,5,1908,
@@ -8494,7 +8388,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Fredensvej 2,4180, Sorø,1280000 ,01-05-2003,Alm. Salg,149,8591,6,1900,
 340,Villa,Knudsvej 3,4180, Sorø,1495000 ,01-05-2003,Alm. Salg,108,13843,6,1912,
 340,Rækkehus,Abildvang 8,4180, Sorø,1345000 ,30-04-2003,Alm. Salg,105,12810,4,2003,
-340,Villa,Slagelsevej 16C,4180, Sorø,645791 ,30-04-2003,Auktion,61,10587,2,1907,
 340,Rækkehus,Valmuevej 5,4180, Sorø,1130000 ,29-04-2003,Alm. Salg,106,10660,4,1987,
 340,Villa,Skovvej 25B,4291, Ruds Vedby,837091 ,29-04-2003,Alm. Salg,151,5544,6,2019,
 340,Villa,Strandvejen 28,4180, Sorø,1167122 ,28-04-2003,Alm. Salg,126,9263,5,1908,
@@ -8639,8 +8532,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Banevej 14,4293, Dianalund,750000 ,12-01-2003,Alm. Salg,122,6148,3,1908,
 340,Ejerlejlighed,"Sorøparken 5, st. th",4180, Sorø,440000 ,09-01-2003,Fam. Salg,65,6769,3,1966,
 340,Villa,Enighedsvej 4,4180, Sorø,1030000 ,09-01-2003,Alm. Salg,154,6688,6,1913,
-340,Ejerlejlighed,"Saxogade 4, 1",4180, Sorø,950000 ,08-01-2003,Alm. Salg,80,11875,3,1902,
-340,Villa,"Saxogade 4, st",4180, Sorø,950000 ,08-01-2003,Alm. Salg,100,9500,3,1902,
 340,Villa,Søbakken 16,4180, Sorø,1495000 ,08-01-2003,Alm. Salg,166,9006,6,1970,
 340,Villa,Rustkammervej 72,4180, Sorø,517961 ,07-01-2003,Alm. Salg,195,2656,7,1924,
 340,Villa,Plessensvej 1,4180, Sorø,350000 ,07-01-2003,Alm. Salg,77,4545,3,1867,
@@ -9034,9 +8925,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Sværdsholtevej 11,4295, Stenlille,1960145 ,03-04-2002,Alm. Salg,192,10209,8,1942,
 340,Villa,Marienlunden 7,4296, Nyrup,45000 ,03-04-2002,Alm. Salg,130,346,5,2005,
 340,Villa,Elmebjergvej 7,4180, Sorø,612500 ,02-04-2002,Alm. Salg,135,4537,5,1930,
-340,Rækkehus,Ringstedvej 15B,4180, Sorø,1045008 ,01-04-2002,Alm. Salg,49,21327,1,1914,
-340,Ejerlejlighed,"Ringstedvej 15A, 1",4180, Sorø,1045008 ,01-04-2002,Alm. Salg,75,13933,1,1914,
-340,Villa,"Ringstedvej 15A, st",4180, Sorø,1045008 ,01-04-2002,Alm. Salg,75,13933,2,1914,
 340,Villa,Mejerivej 12,4296, Nyrup,1500000 ,30-03-2002,Alm. Salg,195,7692,4,1859,
 340,Villa,Frederiksbergvej 50,4180, Sorø,986449 ,30-03-2002,Alm. Salg,96,10276,3,1902,
 340,Villa,Søndergade 53,4180, Sorø,330000 ,29-03-2002,Alm. Salg,197,1675,6,2003,
@@ -9163,7 +9051,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Verupvej 40,4293, Dianalund,1078000 ,12-01-2002,Alm. Salg,120,8983,4,1968,
 340,Villa,Veddevej 58,4295, Stenlille,614168 ,12-01-2002,Alm. Salg,117,5249,7,1922,
 340,Villa,Parnasvej 51,4180, Sorø,1225000 ,12-01-2002,Alm. Salg,150,8167,4,1880,
-340,Rækkehus,Hovedgaden 43D,4295, Stenlille,815675 ,09-01-2002,Alm. Salg,120,6797,3,1984,
 340,Villa,Hyldevej 30,4180, Sorø,850000 ,08-01-2002,Alm. Salg,102,8333,4,1967,
 340,Ejerlejlighed,"Sorøparken 4, 1. th",4180, Sorø,515000 ,07-01-2002,Alm. Salg,77,6688,3,1966,
 340,Villa,Enghavevej 17A,4180, Sorø,1070000 ,07-01-2002,Alm. Salg,83,12892,4,1957,
@@ -9272,7 +9159,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Niels Klims Vej 16,4293, Dianalund,1157699 ,14-10-2001,Alm. Salg,139,8329,5,1978,
 340,Villa,Banevej 14,4180, Sorø,942797 ,13-10-2001,Andet,216,4365,6,1925,
 340,Ejerlejlighed,"Munkevænget 8, 1. tv",4180, Sorø,742000 ,12-10-2001,Alm. Salg,83,8940,2,1973,
-340,Villa,Hovedgaden 46E,4295, Stenlille,780000 ,12-10-2001,Alm. Salg,88,8864,3,2004,
 340,Villa,Vedde Byvej 34,4295, Stenlille,779268 ,12-10-2001,Alm. Salg,122,6387,5,1900,
 340,Ejerlejlighed,"Nybovej 12A, st",4293, Dianalund,965000 ,11-10-2001,Alm. Salg,100,9650,3,2001,
 340,Villa,Verupvej 42,4293, Dianalund,1053647 ,11-10-2001,Alm. Salg,98,10752,3,1877,
@@ -9679,7 +9565,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Hjortholmvej 5,4173, Fjenneslev,629280 ,11-02-2001,Alm. Salg,96,6555,3,1877,
 340,Villa,Solbakkevej 7,4180, Sorø,945000 ,11-02-2001,Alm. Salg,107,8832,3,1930,
 340,Villa,Bakkevej 7,4180, Sorø,747390 ,11-02-2001,Alm. Salg,103,7256,5,1947,
-340,Villa,Rolighed 22A,4180, Sorø,1228226 ,11-02-2001,Alm. Salg,70,17546,3,0,
 340,Ejerlejlighed,"Sorøparken 5, 1. tv",4180, Sorø,476081 ,10-02-2001,Alm. Salg,77,6183,3,1966,
 340,Villa,Engvej 12,4291, Ruds Vedby,460000 ,10-02-2001,Alm. Salg,155,2968,4,1901,
 340,Villa,Trautnersvej 18,4180, Sorø,2305000 ,09-02-2001,Alm. Salg,224,10290,7,1907,
@@ -9750,7 +9635,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Holbergsvej 89,4293, Dianalund,592160 ,19-12-2000,Alm. Salg,85,6967,4,1929,
 340,Villa,Fuglebakken 25,4291, Ruds Vedby,807000 ,18-12-2000,Alm. Salg,127,6354,5,1975,
 340,Villa,Thyrasvej 4,4173, Fjenneslev,1396000 ,18-12-2000,Alm. Salg,241,5793,9,1977,
-340,Villa,Slagelsevej 8C,4291, Ruds Vedby,748000 ,18-12-2000,Alm. Salg,46,16261,2,1903,
 340,Villa,Ringstedvej 136,4173, Fjenneslev,682900 ,17-12-2000,Alm. Salg,140,4878,4,1887,
 340,Villa,Assentorpvej 54,4295, Stenlille,848600 ,17-12-2000,Alm. Salg,130,6528,5,1969,
 340,Villa,Karsholtevej 12,4293, Dianalund,586000 ,15-12-2000,Alm. Salg,81,7235,3,1955,
@@ -10429,12 +10313,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Haverupvej 55,4180, Sorø,77732 ,23-09-1999,Alm. Salg,196,397,6,2002,
 340,Villa,Haverupvej 61,4180, Sorø,37300 ,23-09-1999,Alm. Salg,181,206,5,2005,
 340,Villa,Haverupvej 59,4180, Sorø,70662 ,23-09-1999,Alm. Salg,167,423,6,2003,
-340,Ejerlejlighed,Plantagevej 1A,4180, Sorø,445000 ,22-09-1999,Alm. Salg,100,4450,4,1860,
 340,Villa,Veddevej 54,4295, Stenlille,653000 ,22-09-1999,Alm. Salg,138,4732,6,1890,
 340,Villa,Anemonevej 15,4180, Sorø,1380000 ,22-09-1999,Alm. Salg,144,9583,5,1988,
 340,Villa,Assentorpvej 8,4295, Stenlille,539000 ,22-09-1999,Alm. Salg,179,3011,7,1903,
 340,Villa,Skolebakken 2,4190, Munke Bjergby,838908 ,22-09-1999,Alm. Salg,160,5243,3,1966,
-340,Villa,Plantagevej 1B,4180, Sorø,445000 ,22-09-1999,Alm. Salg,185,2405,6,1860,
 340,Villa,Peter Damsvej 52,4180, Sorø,1298682 ,22-09-1999,Alm. Salg,151,8601,5,1969,
 340,Rækkehus,Lucernevej 18,4180, Sorø,383715 ,20-09-1999,Alm. Salg,107,3586,4,1988,
 340,Villa,Ll. Ebberupvej 4,4200, Slagelse,775505 ,19-09-1999,Alm. Salg,172,4509,5,1907,
@@ -10464,7 +10346,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Grønningen 32,4293, Dianalund,69390 ,31-08-1999,Alm. Salg,131,530,5,2000,
 340,Villa,Skovvej 31,4291, Ruds Vedby,427851 ,30-08-1999,Alm. Salg,127,3369,3,1947,
 340,Villa,Søholm 12,4180, Sorø,1503134 ,30-08-1999,Alm. Salg,216,6959,7,1968,
-340,Rækkehus,Flinterupvej 13,4180, Sorø,522234 ,29-08-1999,Alm. Salg,70,7460,4,1958,
 340,Villa,Frederiksbergvej 37,4180, Sorø,760000 ,29-08-1999,Fam. Salg,156,4872,6,1941,
 340,Villa,Agervænget 18,4293, Dianalund,1042000 ,29-08-1999,Alm. Salg,146,7137,5,1979,
 340,Villa,Danasvej 10,4293, Dianalund,756000 ,29-08-1999,Alm. Salg,95,7958,4,1925,
@@ -11042,7 +10923,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Vibevej 2A,4180, Sorø,908340 ,17-09-1998,Alm. Salg,134,6779,4,1963,
 340,Villa,Pilegårdsvej 2,4173, Fjenneslev,310000 ,16-09-1998,Alm. Salg,84,3690,3,1952,
 340,Villa,Vestervej 6,4180, Sorø,1216000 ,15-09-1998,Alm. Salg,181,6718,3,1934,
-340,Villa,Slagelsevej 16C,4180, Sorø,884303 ,15-09-1998,Alm. Salg,61,14497,2,1907,
 340,Ejerlejlighed,"Fægangen 16, st. th",4180, Sorø,575000 ,13-09-1998,Alm. Salg,134,4291,5,1969,
 340,Villa,Valmuevej 2,4180, Sorø,1345110 ,13-09-1998,Alm. Salg,129,10427,4,1987,
 340,Villa,Ødemarksvej 7,4180, Sorø,767000 ,11-09-1998,Alm. Salg,90,8522,4,1810,
@@ -11076,9 +10956,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Pedersborg Torv 4,4180, Sorø,366960 ,24-08-1998,Alm. Salg,104,3528,5,1777,
 340,Villa,Glentevej 10,4291, Ruds Vedby,784000 ,22-08-1998,Alm. Salg,146,5370,5,1970,
 340,Rækkehus,Kamillevej 16,4180, Sorø,785234 ,21-08-1998,Alm. Salg,82,9576,4,1987,
-340,Rækkehus,Ringstedvej 15B,4180, Sorø,835933 ,20-08-1998,Alm. Salg,49,17060,1,1914,
-340,Ejerlejlighed,"Ringstedvej 15A, 1",4180, Sorø,835933 ,20-08-1998,Alm. Salg,75,11146,1,1914,
-340,Villa,"Ringstedvej 15A, st",4180, Sorø,835933 ,20-08-1998,Alm. Salg,75,11146,2,1914,
 340,Villa,Vedde Byvej 6,4295, Stenlille,255000 ,19-08-1998,Alm. Salg,219,1164,3,2000,
 340,Villa,Munke Bjergbyvej 26,4190, Munke Bjergby,1214000 ,19-08-1998,Alm. Salg,296,4101,9,1890,
 340,Villa,Holbækvej 62,4180, Sorø,298500 ,18-08-1998,Fam. Salg,97,3077,2,1922,
@@ -11280,12 +11157,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Tersløsevej 8,4190, Munke Bjergby,964800 ,01-05-1998,Alm. Salg,219,4405,6,1909,
 340,Ejerlejlighed,"Molbechs Alle 45C, st",4180, Sorø,437000 ,30-04-1998,Alm. Salg,52,8404,2,1934,
 340,Villa,Tusindfrydvej 17,4180, Sorø,260289 ,30-04-1998,Alm. Salg,140,1859,5,1999,
-340,Ejerlejlighed,Ringstedvej 124,4173, Fjenneslev,1124478 ,29-04-1998,Alm. Salg,244,4609,6,1898,
-340,Ejerlejlighed,Fjenneslevmaglevej 1A,4173, Fjenneslev,1124478 ,29-04-1998,Alm. Salg,101,11133,3,1898,
-340,Ejerlejlighed,Ringstedvej 124A,4173, Fjenneslev,1124478 ,29-04-1998,Alm. Salg,189,5950,7,1898,
 340,Villa,Agervænget 27,4293, Dianalund,975260 ,29-04-1998,Alm. Salg,129,7560,4,1980,
 340,Villa,Søtoften 5,4180, Sorø,1286748 ,29-04-1998,Alm. Salg,187,6881,5,1970,
-340,Villa,Fjenneslevmaglevej 3,4173, Fjenneslev,1124478 ,29-04-1998,Alm. Salg,178,4627,5,1898,
 340,Ejerlejlighed,"Sorøparken 4, st. tv",4180, Sorø,261515 ,28-04-1998,Alm. Salg,47,5564,1,1966,
 340,Villa,Rydevang 5,4180, Sorø,924301 ,28-04-1998,Alm. Salg,136,6796,4,1970,
 340,Villa,Hybenvej 35,4291, Ruds Vedby,660237 ,28-04-1998,Alm. Salg,174,3794,6,1976,
@@ -11515,11 +11388,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Gartnervænget 10,4173, Fjenneslev,610400 ,20-11-1997,Alm. Salg,113,5402,4,1777,
 340,Villa,Storkens Kvarter 25,4180, Sorø,907267 ,19-11-1997,Alm. Salg,189,4800,5,1987,
 340,Villa,Merbjergvej 44,4293, Dianalund,275139 ,19-11-1997,Alm. Salg,131,2100,4,1920,
-340,Ejerlejlighed,Storgade 40B,4180, Sorø,1800000 ,18-11-1997,Alm. Salg,169,10651,7,1900,
-340,Ejerlejlighed,"Storgade 42A, 1",4180, Sorø,1800000 ,18-11-1997,Alm. Salg,145,12414,4,1918,
-340,Ejerlejlighed,Storgade 42B,4180, Sorø,1800000 ,18-11-1997,Alm. Salg,131,13740,2,1918,
-340,Ejerlejlighed,"Storgade 42A, 2",4180, Sorø,1800000 ,18-11-1997,Alm. Salg,182,9890,5,1918,
-340,Ejerlejlighed,Byvolden 15,4180, Sorø,1800000 ,18-11-1997,Alm. Salg,135,13333,3,1900,
 340,Villa,Krøjerup Overdrev 13,4180, Sorø,466775 ,18-11-1997,Alm. Salg,174,2683,3,1928,
 340,Villa,Bygaden 11,4293, Dianalund,649808 ,18-11-1997,Alm. Salg,160,4061,6,1905,
 340,Villa,Enighedsvej 3,4293, Dianalund,568384 ,17-11-1997,Alm. Salg,105,5413,3,1929,
@@ -11735,8 +11603,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Svendsvej 8,4180, Sorø,1048000 ,30-06-1997,Alm. Salg,161,6509,5,1930,
 340,Villa,Holbækvej 51,4180, Sorø,1073884 ,30-06-1997,Alm. Salg,114,9420,4,1914,
 340,Rækkehus,Lucernevej 12,4180, Sorø,682749 ,29-06-1997,Alm. Salg,107,6381,4,1988,
-340,Rækkehus,Rudsgade 39B,4291, Ruds Vedby,638005 ,29-06-1997,Alm. Salg,150,4253,4,1910,
-340,Villa,Rudsgade 39A,4291, Ruds Vedby,638005 ,29-06-1997,Alm. Salg,148,4311,6,1912,
 340,Villa,Bjernedevej 60,4180, Sorø,197000 ,29-06-1997,Alm. Salg,152,1296,4,1871,
 340,Villa,Ringstedvej 22,4180, Sorø,776000 ,29-06-1997,Alm. Salg,144,5389,5,1941,
 340,Villa,Suserupvej 47,4180, Sorø,826400 ,29-06-1997,Alm. Salg,128,6456,6,1850,
@@ -11784,12 +11650,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Jernbanegade 12,4291, Ruds Vedby,582575 ,07-06-1997,Alm. Salg,132,4413,4,1960,
 340,Rækkehus,Anemonevej 16,4180, Sorø,585513 ,05-06-1997,Alm. Salg,64,9149,2,1990,
 340,Rækkehus,Åvænget 8,4180, Sorø,685000 ,05-06-1997,Alm. Salg,82,8354,3,1984,
-340,Ejerlejlighed,"Kirkestræde 2, 1. th",4296, Nyrup,900000 ,05-06-1997,Alm. Salg,72,12500,3,1913,
-340,Ejerlejlighed,"Kirkestræde 2, 1. tv",4296, Nyrup,900000 ,05-06-1997,Alm. Salg,56,16071,3,1913,
-340,Ejerlejlighed,"Kirkestræde 2, 2. th",4296, Nyrup,900000 ,05-06-1997,Alm. Salg,56,16071,2,1913,
-340,Ejerlejlighed,"Kirkestræde 2, 2. tv",4296, Nyrup,900000 ,05-06-1997,Alm. Salg,42,21429,2,1913,
-340,Ejerlejlighed,"Bygaden 10, 1",4296, Nyrup,900000 ,05-06-1997,Alm. Salg,90,10000,5,1913,
-340,Ejerlejlighed,"Bygaden 10, st",4296, Nyrup,900000 ,05-06-1997,Alm. Salg,90,10000,1,1913,
 340,Villa,Rydevang 1,4180, Sorø,601310 ,05-06-1997,Alm. Salg,117,5139,5,1904,
 340,Villa,Yrsavej 1,4173, Fjenneslev,867650 ,05-06-1997,Alm. Salg,188,4615,5,1973,
 340,Villa,Alstedvej 55,4173, Fjenneslev,642500 ,04-06-1997,Alm. Salg,149,4312,5,1858,
@@ -11809,7 +11669,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Fyrrevænget 10,4293, Dianalund,778040 ,26-05-1997,Alm. Salg,127,6126,4,1973,
 340,Villa,Skælskørvej 33,4180, Sorø,277868 ,26-05-1997,Alm. Salg,143,1943,4,1912,
 340,Villa,Holbækvej 72,4180, Sorø,825096 ,26-05-1997,Alm. Salg,168,4911,6,1928,
-340,Villa,Rolighed 22A,4180, Sorø,625000 ,26-05-1997,Alm. Salg,70,8929,3,0,
 340,Villa,Vestervej 12,4180, Sorø,1046000 ,25-05-1997,Alm. Salg,187,5594,6,1925,
 340,Villa,Bromme Østermark 30,4190, Munke Bjergby,700370 ,25-05-1997,Alm. Salg,199,3519,4,1900,
 340,Villa,Holbergsvej 38,4293, Dianalund,525000 ,25-05-1997,Alm. Salg,160,3281,4,1951,
@@ -12049,14 +11908,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Sorøvej 30,4295, Stenlille,1706000 ,07-01-1997,Alm. Salg,228,7482,6,1925,
 340,Villa,Hvidtjørnevej 4,4295, Stenlille,645635 ,07-01-1997,Alm. Salg,123,5249,5,1989,
 340,Villa,Orebovej 23,4295, Stenlille,714700 ,07-01-1997,Alm. Salg,158,4523,5,1900,
-340,Ejerlejlighed,Storgade 34C,4180, Sorø,399850 ,06-01-1997,Alm. Salg,133,3006,4,1897,
-340,Ejerlejlighed,Storgade 32B,4180, Sorø,399850 ,06-01-1997,Alm. Salg,101,3959,5,1897,
-340,Ejerlejlighed,"Storgade 32C, st. tv",4180, Sorø,399850 ,06-01-1997,Alm. Salg,112,3570,3,1897,
-340,Ejerlejlighed,"Østergade 2A, 1. tv",4180, Sorø,399850 ,06-01-1997,Alm. Salg,71,5632,2,1897,
-340,Ejerlejlighed,"Storgade 34B, 1. th",4180, Sorø,399850 ,06-01-1997,Alm. Salg,104,3845,3,1897,
-340,Ejerlejlighed,"Østergade 2A, 1. th",4180, Sorø,399850 ,06-01-1997,Alm. Salg,101,3959,3,1897,
-340,Ejerlejlighed,"Storgade 32C, st. th",4180, Sorø,399850 ,06-01-1997,Alm. Salg,92,4346,3,1897,
-340,Ejerlejlighed,"Storgade 34B, 1. tv",4180, Sorø,399850 ,06-01-1997,Alm. Salg,97,4122,3,1897,
 340,Villa,Nordskovvej 22,4295, Stenlille,1120870 ,04-01-1997,Alm. Salg,171,6555,5,1912,
 340,Villa,Norgesvej 13,4293, Dianalund,758120 ,04-01-1997,Alm. Salg,133,5700,5,1980,
 340,Villa,Rustkammervej 72,4180, Sorø,415000 ,01-01-1997,Alm. Salg,195,2128,7,1924,
@@ -12382,11 +12233,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Kongebrovej 10,4180, Sorø,780000 ,15-06-1996,Alm. Salg,125,6240,3,1960,
 340,Villa,Frederiksbergvej 43,4180, Sorø,768000 ,14-06-1996,Alm. Salg,163,4712,6,1920,
 340,Ejerlejlighed,"Alleen 11A, st",4180, Sorø,908250 ,11-06-1996,Alm. Salg,155,5860,4,1940,
-340,Ejerlejlighed,Ringstedvej 124,4173, Fjenneslev,700000 ,11-06-1996,Alm. Salg,244,2869,6,1898,
-340,Ejerlejlighed,Fjenneslevmaglevej 1A,4173, Fjenneslev,700000 ,11-06-1996,Alm. Salg,101,6931,3,1898,
-340,Ejerlejlighed,Ringstedvej 124A,4173, Fjenneslev,700000 ,11-06-1996,Alm. Salg,189,3704,7,1898,
 340,Villa,Niels Klims Vej 6,4293, Dianalund,695000 ,11-06-1996,Alm. Salg,133,5226,4,1978,
-340,Villa,Fjenneslevmaglevej 3,4173, Fjenneslev,700000 ,11-06-1996,Alm. Salg,178,2881,5,1898,
 340,Villa,Holbækvej 73,4180, Sorø,587565 ,10-06-1996,Alm. Salg,182,3228,8,1912,
 340,Villa,Titmosevej 1,4200, Slagelse,297500 ,10-06-1996,Andet,235,1266,6,2005,
 340,Villa,Munke Bjergbyvej 31,4190, Munke Bjergby,300000 ,10-06-1996,Alm. Salg,200,1500,6,1927,
@@ -12616,7 +12463,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Rækkehus,Hvidtjørnevej 3A,4295, Stenlille,541500 ,09-01-1996,Alm. Salg,85,6371,3,1989,
 340,Ejerlejlighed,"Fægangen 16, st. tv",4180, Sorø,325000 ,09-01-1996,Alm. Salg,126,2579,5,1969,
 340,Villa,Brohusevej 7,4173, Fjenneslev,455100 ,09-01-1996,Alm. Salg,95,4791,4,1877,
-340,Villa,Rolighed 22A,4180, Sorø,705000 ,08-01-1996,Alm. Salg,70,10071,3,0,
 340,Villa,Knudsvej 2B,4180, Sorø,1000000 ,08-01-1996,Alm. Salg,98,10204,1,2008,
 340,Villa,Frederiksvej 11,4180, Sorø,362500 ,07-01-1996,Andet,233,1556,9,1907,
 340,Villa,Råbjergvej 4,4295, Stenlille,495000 ,03-01-1996,Alm. Salg,123,4024,4,1930,
@@ -12627,11 +12473,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Peter Damsvej 1,4180, Sorø,1030000 ,28-12-1995,Alm. Salg,210,4905,9,1909,
 340,Villa,Sorøvej 59,4295, Stenlille,410000 ,27-12-1995,Alm. Salg,189,2169,8,1952,
 340,Villa,Skyttevej 22,4293, Dianalund,190000 ,27-12-1995,Alm. Salg,45,4222,2,1955,
-340,Villa,Ringstedvej 11,4180, Sorø,477630 ,27-12-1995,Andet,150,3184,5,1927,
 340,Villa,Assentorpvej 55,4295, Stenlille,929930 ,27-12-1995,Alm. Salg,272,3419,5,1947,
-340,Ejerlejlighed,Holbergsvej 61B,4293, Dianalund,590000 ,26-12-1995,Alm. Salg,71,8310,3,1908,
-340,Ejerlejlighed,Pilegårdsvej 10,4293, Dianalund,590000 ,26-12-1995,Alm. Salg,129,4574,6,1908,
-340,Villa,Holbergsvej 61A,4293, Dianalund,590000 ,26-12-1995,Alm. Salg,60,9833,2,1908,
 340,Villa,Veddevej 10,4190, Munke Bjergby,606000 ,26-12-1995,Alm. Salg,152,3987,5,1880,
 340,Rækkehus,Vinkelvej 16B,4295, Stenlille,290000 ,20-12-1995,Alm. Salg,90,3222,3,1988,
 340,Villa,Sønderskovvej 21,4180, Sorø,380000 ,20-12-1995,Alm. Salg,89,4270,3,1926,
@@ -12770,7 +12612,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Birkemosevej 15,4293, Dianalund,150000 ,23-09-1995,Alm. Salg,95,1579,4,1986,
 340,Rækkehus,Tværmarksvej 14,4291, Ruds Vedby,365000 ,21-09-1995,Alm. Salg,91,4011,4,1980,
 340,Villa,Esbern Snaresvej 32,4180, Sorø,995000 ,21-09-1995,Alm. Salg,192,5182,8,1948,
-340,Villa,Hovedgaden 46E,4295, Stenlille,525000 ,20-09-1995,Alm. Salg,88,5966,3,2004,
 340,Villa,Peter Damsvej 10,4180, Sorø,310656 ,20-09-1995,Alm. Salg,143,2172,5,1916,
 340,Villa,Drosselvej 8,4293, Dianalund,601000 ,19-09-1995,Alm. Salg,132,4553,4,1974,
 340,Villa,Døjringevej 12,4190, Munke Bjergby,160000 ,19-09-1995,Alm. Salg,138,1159,3,1890,
@@ -12884,7 +12725,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Rudsgade 26,4291, Ruds Vedby,225000 ,11-07-1995,Alm. Salg,143,1573,5,1907,
 340,Villa,Fulbyvej 2,4180, Sorø,940000 ,11-07-1995,Alm. Salg,134,7015,6,1910,
 340,Villa,Åvej 2E,4293, Dianalund,545000 ,10-07-1995,Alm. Salg,169,3225,5,1965,
-340,Villa,Stationsvej 6C,4293, Dianalund,424634 ,10-07-1995,Alm. Salg,40,10616,1,1900,
 340,Villa,Rudsgade 50,4291, Ruds Vedby,487650 ,10-07-1995,Alm. Salg,112,4354,4,1939,
 340,Villa,Næstvedvej 6,4180, Sorø,795504 ,10-07-1995,Alm. Salg,166,4792,7,1953,
 340,Villa,Karsholtevej 49,4293, Dianalund,450000 ,09-07-1995,Alm. Salg,105,4286,5,1954,
@@ -13471,7 +13311,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Lårupvej 6,4295, Stenlille,365000 ,21-06-1994,Alm. Salg,88,4148,3,1957,
 340,Villa,Anemonevej 19,4180, Sorø,403000 ,20-06-1994,Alm. Salg,137,2942,4,1989,
 340,Villa,Døjringevej 4,4190, Munke Bjergby,150000 ,20-06-1994,Alm. Salg,120,1250,4,1940,
-340,Villa,Saxogade 12B,4180, Sorø,600000 ,20-06-1994,Fam. Salg,97,6186,4,1892,
 340,Villa,Sorøvej 63,4296, Nyrup,370000 ,19-06-1994,Alm. Salg,90,4111,5,1885,
 340,Villa,Havrevænget 17,4173, Fjenneslev,430000 ,19-06-1994,Alm. Salg,99,4343,3,1970,
 340,Villa,Mågevej 8,4293, Dianalund,500000 ,19-06-1994,Alm. Salg,138,3623,4,1970,
@@ -13483,7 +13322,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Rugvænget 47,4293, Dianalund,541726 ,15-06-1994,Alm. Salg,99,5472,4,1981,
 340,Ejerlejlighed,Hovedgaden 52,4295, Stenlille,455000 ,14-06-1994,Alm. Salg,72,6319,3,1900,
 340,Villa,Haverupvej 45,4180, Sorø,750000 ,14-06-1994,Alm. Salg,321,2336,5,1922,
-340,Villa,Slagelsevej 16C,4180, Sorø,540000 ,14-06-1994,Alm. Salg,61,8852,2,1907,
 340,Ejerlejlighed,Vedelsgade 13B,4180, Sorø,260000 ,13-06-1994,Alm. Salg,50,5200,2,1908,
 340,Villa,Jernbanegade 14,4291, Ruds Vedby,390000 ,13-06-1994,Alm. Salg,170,2294,6,1957,
 340,Villa,Fuglagervej 9,4173, Fjenneslev,350000 ,13-06-1994,Alm. Salg,77,4545,3,1852,
@@ -13574,7 +13412,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Drosselvej 13,4295, Stenlille,631000 ,15-04-1994,Alm. Salg,178,3545,4,1972,
 340,Villa,Døjringevej 5,4190, Munke Bjergby,151751 ,15-04-1994,Alm. Salg,112,1355,4,1922,
 340,Ejerlejlighed,Absalonsgade 13E,4180, Sorø,450000 ,13-04-1994,Alm. Salg,76,5921,2,1988,
-340,Villa,Slagelsevej 16C,4180, Sorø,210000 ,13-04-1994,Auktion,61,3443,2,1907,
 340,Villa,Hovedgaden 31,4295, Stenlille,250000 ,12-04-1994,Auktion,154,1623,5,1900,
 340,Villa,Holbækvej 78,4180, Sorø,640000 ,12-04-1994,Alm. Salg,143,4476,5,1931,
 340,Rækkehus,Lucernevej 18,4180, Sorø,599000 ,11-04-1994,Alm. Salg,107,5598,4,1988,
@@ -13646,8 +13483,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Karsholtevej 1,4293, Dianalund,373989 ,02-03-1994,Alm. Salg,129,2899,4,1935,
 340,Villa,Skjalm Hvidesvej 15,4180, Sorø,969143 ,28-02-1994,Alm. Salg,181,5354,8,1950,
 340,Villa,Pedersborg Torv 2,4180, Sorø,510000 ,28-02-1994,Alm. Salg,135,3778,5,1904,
-340,Ejerlejlighed,"Munkevænget 14, st. tv",4180, Sorø,480000 ,27-02-1994,Alm. Salg,83,5783,2,1973,
-340,Villa,Plantagevej 9,4180, Sorø,480000 ,27-02-1994,Auktion,80,6000,3,1890,
 340,Villa,Hedeborydevej 10,4293, Dianalund,355000 ,27-02-1994,Alm. Salg,96,3698,4,1935,
 340,Villa,Vedde Byvej 31,4295, Stenlille,225000 ,25-02-1994,Alm. Salg,172,1308,6,1860,
 340,Villa,Fasanvej 12,4295, Stenlille,500000 ,23-02-1994,Alm. Salg,144,3472,4,1968,
@@ -13844,9 +13679,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Ll. Ebberupvej 1,4200, Slagelse,325000 ,22-09-1993,Alm. Salg,207,1570,8,1885,
 340,Villa,Snerlevej 5,4293, Dianalund,532244 ,20-09-1993,Alm. Salg,136,3914,5,1974,
 340,Villa,Ottesvej 14,4180, Sorø,514000 ,19-09-1993,Alm. Salg,77,6675,3,1961,
-340,Ejerlejlighed,"Storgade 38C, 1",4180, Sorø,600000 ,16-09-1993,Alm. Salg,82,7317,3,1801,
-340,Ejerlejlighed,"Østergade 1C, st",4180, Sorø,600000 ,16-09-1993,Alm. Salg,95,6316,3,1801,
-340,Ejerlejlighed,"Storgade 38, 1. tv",4180, Sorø,600000 ,16-09-1993,Alm. Salg,141,4255,3,1801,
 340,Villa,Stenmaglevej 3,4295, Stenlille,402310 ,16-09-1993,Alm. Salg,198,2032,5,1880,
 340,Villa,Tjørntvedvej 37,4295, Stenlille,244183 ,14-09-1993,Alm. Salg,176,1387,6,1875,
 340,Rækkehus,Saxogade 5B,4180, Sorø,210000 ,12-09-1993,Alm. Salg,119,1765,4,1996,
@@ -13929,7 +13761,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Sognefogedvej 21,4180, Sorø,1037589 ,22-07-1993,Alm. Salg,163,6366,5,1798,
 340,Villa,Pernillesvej 10,4293, Dianalund,574540 ,22-07-1993,Alm. Salg,182,3157,6,1977,
 340,Villa,Døjringevej 49,4180, Sorø,475000 ,22-07-1993,Alm. Salg,117,4060,4,1946,
-340,Villa,Hovedgaden 46E,4295, Stenlille,425000 ,21-07-1993,Alm. Salg,88,4830,3,2004,
 340,Villa,Vestervang 4,4293, Dianalund,400000 ,21-07-1993,Alm. Salg,176,2273,6,1924,
 340,Villa,Frederiksbergvej 43,4180, Sorø,765000 ,20-07-1993,Alm. Salg,163,4693,6,1920,
 340,Villa,Krøjerup Overdrev 15,4180, Sorø,325000 ,20-07-1993,Alm. Salg,125,2600,3,1920,
@@ -14291,8 +14122,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Munke Bjergbyvej 24,4190, Munke Bjergby,161250 ,26-08-1992,Alm. Salg,77,2094,3,1877,
 340,Villa,Åvej 7,4293, Dianalund,370000 ,25-08-1992,Alm. Salg,125,2960,5,1964,
 340,Villa,Møllemarksvej 30,4291, Ruds Vedby,620000 ,25-08-1992,Alm. Salg,140,4429,5,1975,
-340,Ejerlejlighed,Stationsvej 2A,4293, Dianalund,410000 ,24-08-1992,Alm. Salg,90,4556,4,1942,
-340,Villa,"Stationsvej 2B, 1",4293, Dianalund,410000 ,24-08-1992,Alm. Salg,79,5190,3,1942,
 340,Villa,Suserupvej 63,4180, Sorø,323603 ,24-08-1992,Alm. Salg,72,4494,3,1802,
 340,Villa,Fuglebakken 33,4291, Ruds Vedby,470000 ,23-08-1992,Alm. Salg,133,3534,5,1973,
 340,Villa,Stationsvej 16,4293, Dianalund,475000 ,23-08-1992,Alm. Salg,192,2474,7,1900,
@@ -14354,8 +14183,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Slagelsevej 47,4180, Sorø,675000 ,05-07-1992,Fam. Salg,147,4592,5,1908,
 340,Villa,Gartnervænget 6,4173, Fjenneslev,510000 ,05-07-1992,Alm. Salg,284,1796,6,1877,
 340,Villa,Søbredden 3,4180, Sorø,1400000 ,02-07-1992,Alm. Salg,187,7487,7,1900,
-340,Ejerlejlighed,"Storgade 36, 1",4180, Sorø,3102000 ,30-06-1992,Alm. Salg,184,16859,5,1897,
-340,Ejerlejlighed,"Storgade 36, 2",4180, Sorø,3102000 ,30-06-1992,Alm. Salg,184,16859,5,1897,
 340,Villa,Agervænget 15,4293, Dianalund,445000 ,30-06-1992,Alm. Salg,137,3248,5,1979,
 340,Villa,Holbergsvej 6,4180, Sorø,640000 ,30-06-1992,Alm. Salg,171,3743,7,1917,
 340,Rækkehus,Frihedsvej 31,4180, Sorø,435000 ,29-06-1992,Alm. Salg,72,6042,2,1969,
@@ -14435,12 +14262,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 340,Villa,Nyrupvej 14,4296, Nyrup,410000 ,11-05-1992,Alm. Salg,138,2971,6,1943,
 340,Villa,Absalonsgade 22,4180, Sorø,760000 ,11-05-1992,Alm. Salg,229,3319,8,1907,
 340,Villa,Suserupvej 7,4180, Sorø,175000 ,11-05-1992,Alm. Salg,350,500,8,1969,
-340,Ejerlejlighed,"Kirkestræde 2, 1. th",4296, Nyrup,340000 ,10-05-1992,Auktion,72,4722,3,1913,
-340,Ejerlejlighed,"Kirkestræde 2, 1. tv",4296, Nyrup,340000 ,10-05-1992,Auktion,56,6071,3,1913,
-340,Ejerlejlighed,"Kirkestræde 2, 2. th",4296, Nyrup,340000 ,10-05-1992,Auktion,56,6071,2,1913,
-340,Ejerlejlighed,"Kirkestræde 2, 2. tv",4296, Nyrup,340000 ,10-05-1992,Auktion,42,8095,2,1913,
-340,Ejerlejlighed,"Bygaden 10, 1",4296, Nyrup,340000 ,10-05-1992,Auktion,90,3778,5,1913,
-340,Ejerlejlighed,"Bygaden 10, st",4296, Nyrup,340000 ,10-05-1992,Auktion,90,3778,1,1913,
 340,Villa,Søstrædet 13,4180, Sorø,765000 ,10-05-1992,Fam. Salg,136,5625,5,1970,
 340,Villa,Broby Overdrev 8,4180, Sorø,325000 ,10-05-1992,Alm. Salg,189,1720,7,1870,
 340,Villa,Fyrrevejen 32,4180, Sorø,710000 ,09-05-1992,Alm. Salg,154,4610,4,1969,

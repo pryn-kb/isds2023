@@ -165,7 +165,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 159,Rækkehus,Kildebakken 3D,2860, Søborg,4450000 ,13-08-2022,Alm. Salg,102,43627,4,2004,
 159,Ejerlejlighed,"Kiplings Alle 20, 1. tv",2860, Søborg,1845000 ,13-08-2022,Alm. Salg,50,36900,2,1942,
 159,Ejerlejlighed,"Buegården 5, 3. th",2880, Bagsværd,1800000 ,11-08-2022,Alm. Salg,43,41860,2,1975,0%
-159,Villa,Stavnsbjerg Alle 55,2860, Søborg,3850000 ,11-08-2022,Alm. Salg,74,52027,4,1937,1%
 159,Rækkehus,Christoffers Alle 188,2800, Kongens Lyngby,4195000 ,10-08-2022,Alm. Salg,90,46611,4,1945,-7%
 159,Ejerlejlighed,"Kildebakken 42, st. tv",2860, Søborg,1105000 ,10-08-2022,Fam. Salg,50,22100,2,1936,
 159,Ejerlejlighed,"Christoffers Alle 66, st. 4",2800, Kongens Lyngby,1450000 ,10-08-2022,Alm. Salg,41,35366,2,1943,-6%
@@ -251,7 +250,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 159,Ejerlejlighed,"Buddingevej 260, 1. m",2860, Søborg,1145000 ,08-06-2022,Alm. Salg,36,31806,1,1961,
 159,Rækkehus,Toftekærsvej 145,2860, Søborg,4541000 ,07-06-2022,Alm. Salg,98,46337,5,1949,
 159,Ejerlejlighed,"Gyngemose Parkvej 26, 6. mf",2860, Søborg,3499000 ,07-06-2022,Alm. Salg,88,39761,3,2007,
-159,Rækkehus,Ærtemarken 11,2860, Søborg,4375000 ,06-06-2022,Alm. Salg,84,52083,3,1948,-1%
 159,Ejerlejlighed,"Pilegårdsvej 32, 1. th",2860, Søborg,1750000 ,06-06-2022,Alm. Salg,55,31818,2,1966,
 159,Ejerlejlighed,"Gyngemose Parkvej 8B, 3. tv",2860, Søborg,850000 ,06-06-2022,Fam. Salg,102,8333,4,2013,
 159,Villa,Niels Bohrs Alle 13,2860, Søborg,7500000 ,06-06-2022,Alm. Salg,168,44643,6,1904,-6%
@@ -376,7 +374,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 159,Villa,Hvedemarken 23,2860, Søborg,4600000 ,31-03-2022,Alm. Salg,203,22660,5,2023,-8%
 159,Ejerlejlighed,"Telefonvej 4D, 1. tv",2860, Søborg,4395000 ,28-03-2022,Alm. Salg,100,43950,4,2007,
 159,Villa,Stavnsbjerg Alle 41,2860, Søborg,4200000 ,28-03-2022,Alm. Salg,140,30000,6,1936,-2%
-159,Rækkehus,Hørmarken 6,2880, Bagsværd,3275000 ,27-03-2022,Alm. Salg,63,51984,3,1943,-1%
 159,Rækkehus,Maj Alle 40,2860, Søborg,3400000 ,27-03-2022,Alm. Salg,99,34343,3,1948,-8%
 159,Ejerlejlighed,"Møllemarken 8, st. th",2880, Bagsværd,2725000 ,26-03-2022,Alm. Salg,69,39493,3,1947,
 159,Ejerlejlighed,"Lauggårds Alle 10, st. th",2860, Søborg,1200000 ,24-03-2022,Alm. Salg,65,18462,3,1946,
@@ -559,8 +556,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 159,Ejerlejlighed,"Bagsværd Hovedgade 77, 3. b",2880, Bagsværd,2100000 ,08-01-2022,Alm. Salg,67,31343,2,1960,
 159,Ejerlejlighed,"Gedvad 39, 1. tv",2800, Kongens Lyngby,1225000 ,06-01-2022,Alm. Salg,42,29167,2,1946,-6%
 159,Rækkehus,Snogegårdsvej 141B,2860, Søborg,3920000 ,05-01-2022,Alm. Salg,81,48395,3,1961,-2%
-159,Ejerlejlighed,Præstebrovej 46,2860, Søborg,1497500 ,04-01-2022,Alm. Salg,109,13739,2,1950,
-159,Ejerlejlighed,Forsvarsvej 2,2860, Søborg,1497500 ,04-01-2022,Alm. Salg,78,19199,4,1950,
 159,Ejerlejlighed,"Christianehøj 92, st. th",2860, Søborg,1450000 ,04-01-2022,Alm. Salg,45,32222,2,1940,-3%
 159,Ejerlejlighed,"Bondemarken 2, st. tv",2880, Bagsværd,2200000 ,03-01-2022,Alm. Salg,64,34375,3,1946,-4%
 159,Villa,Lillegårds Alle 83,2860, Søborg,3575000 ,03-01-2022,Alm. Salg,106,33726,3,1932,-6%
@@ -605,7 +600,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 159,Ejerlejlighed,"Aldershvilevej 108, 1. a",2880, Bagsværd,2720000 ,09-12-2021,Alm. Salg,87,31264,4,1966,-5%
 159,Villa,Stubmarken 24,2860, Søborg,5250000 ,09-12-2021,Alm. Salg,175,30000,3,1934,-4%
 159,Ejerlejlighed,"Gladsaxevej 71, st. th",2860, Søborg,2125000 ,08-12-2021,Alm. Salg,67,31716,3,1946,-3%
-159,Villa,Bæverstien 16,2880, Bagsværd,5600000 ,08-12-2021,Alm. Salg,108,51852,4,1963,-2%
 159,Villa,Stavnsbjerg Alle 45,2860, Søborg,3400000 ,08-12-2021,Alm. Salg,180,18889,5,2023,
 159,Villa,Vadgårdsvej 14,2860, Søborg,4495000 ,07-12-2021,Alm. Salg,186,24167,7,2023,
 159,Ejerlejlighed,"Grønnemose Alle 75, 2. th",2860, Søborg,340000 ,06-12-2021,Fam. Salg,103,3301,5,1931,
@@ -628,7 +622,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 159,Villa,Bag Fortet 5,2860, Søborg,3220000 ,25-11-2021,Alm. Salg,90,35778,3,1953,-1%
 159,Rækkehus,Ved Kagså 10,2860, Søborg,90000 ,23-11-2021,Alm. Salg,97,928,3,1956,
 159,Ejerlejlighed,"Buddinge Hovedgade 74F, st",2860, Søborg,5710000 ,23-11-2021,Alm. Salg,169,33787,6,1988,-1%
-159,Rækkehus,Elletoften 32,2800, Kongens Lyngby,6225000 ,22-11-2021,Alm. Salg,120,51875,4,1960,-4%
 159,Ejerlejlighed,"Elledalen 4, 1. th",2800, Kongens Lyngby,2100000 ,22-11-2021,Alm. Salg,80,26250,3,1959,
 159,Ejerlejlighed,"Bagsværd Hovedgade 198, 1. th",2880, Bagsværd,3250000 ,21-11-2021,Alm. Salg,94,34574,4,1954,
 159,Villa,Christianehøj 141,2860, Søborg,6012000 ,21-11-2021,Alm. Salg,137,43883,4,1962,
@@ -752,7 +745,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 159,Ejerlejlighed,"Bagsværd Hovedgade 116B, 1. b",2880, Bagsværd,2395000 ,21-09-2021,Alm. Salg,87,27529,3,1969,
 159,Rækkehus,Stengårdsvænge 112,2800, Kongens Lyngby,4100000 ,20-09-2021,Alm. Salg,103,39806,5,1955,-7%
 159,Rækkehus,Bykrogen 21,2860, Søborg,2850000 ,20-09-2021,Alm. Salg,84,33929,3,1948,
-159,Ejerlejlighed,"Nordtoftevej 52, st",2860, Søborg,5203000 ,20-09-2021,Alm. Salg,100,52030,4,1940,4%
 159,Ejerlejlighed,"Tinghøjvej 46, 9. 3",2860, Søborg,1800000 ,20-09-2021,Alm. Salg,58,31034,2,1963,-3%
 159,Ejerlejlighed,"Vadholm 4, 1. th",2800, Kongens Lyngby,700000 ,20-09-2021,Alm. Salg,43,16279,2,1943,
 159,Ejerlejlighed,"Tinghøjvej 46, 1. 3",2860, Søborg,1250000 ,20-09-2021,Alm. Salg,46,27174,1,1963,-2%
@@ -1176,7 +1168,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 159,Ejerlejlighed,"Tinghøjvej 49B, st. mf",2860, Søborg,2375000 ,13-04-2021,Alm. Salg,65,36538,2,2015,-5%
 159,Villa,Blomstermarken 2,2860, Søborg,5255000 ,13-04-2021,Alm. Salg,137,38358,3,1962,5%
 159,Villa,Lillegårds Alle 73,2860, Søborg,2890000 ,13-04-2021,Alm. Salg,177,16328,6,2023,
-159,Rækkehus,Hedevænget 2A,2800, Kongens Lyngby,3850000 ,12-04-2021,Alm. Salg,74,52027,2,1950,
 159,Rækkehus,Hjortestien 16,2860, Søborg,3375000 ,12-04-2021,Alm. Salg,109,30963,4,1958,
 159,Villa,Valdemars Alle 43,2860, Søborg,4560000 ,12-04-2021,Alm. Salg,129,35349,4,1967,1%
 159,Ejerlejlighed,"Bondehavevej 9, 1. tv",2880, Bagsværd,2685000 ,11-04-2021,Alm. Salg,72,37292,3,1940,0%
@@ -1449,7 +1440,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 159,Ejerlejlighed,"Buegården 7, 2. th",2880, Bagsværd,1975000 ,14-01-2021,Alm. Salg,60,32917,2,1975,
 159,Villa,Krogshøjvej 140,2880, Bagsværd,4350000 ,14-01-2021,Alm. Salg,131,33206,6,1935,-3%
 159,Rækkehus,Lillegårds Alle 17,2860, Søborg,4100000 ,13-01-2021,Alm. Salg,158,25949,5,1930,-2%
-159,Rækkehus,Søborg Parkalle 148,2860, Søborg,4460000 ,13-01-2021,Alm. Salg,86,51860,3,1967,
 159,Ejerlejlighed,"Bakkedraget 29A, 1",2860, Søborg,1600000 ,13-01-2021,Alm. Salg,60,26667,2,1920,-9%
 159,Ejerlejlighed,"Bagsværd Hovedgade 99, 2. g",2880, Bagsværd,880000 ,13-01-2021,Alm. Salg,36,24444,1,1966,-2%
 159,Ejerlejlighed,"Søborg Hovedgade 221, 3. o",2860, Søborg,1495000 ,12-01-2021,Alm. Salg,50,29900,1,1964,
@@ -2100,8 +2090,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 159,Rækkehus,Mosekrogen 53,2860, Søborg,4525000 ,05-06-2020,Alm. Salg,99,45707,5,1956,-7%
 159,Ejerlejlighed,"Maglegårds Alle 53, 1. th",2860, Søborg,1785000 ,04-06-2020,Alm. Salg,52,34327,3,1946,
 159,Rækkehus,Raftevej 30,2800, Kongens Lyngby,4795000 ,03-06-2020,Alm. Salg,127,37756,6,1954,
-159,Ejerlejlighed,"Søborg Hovedgade 203, 3. 1",2860, Søborg,2600000 ,03-06-2020,Alm. Salg,81,32099,3,1964,-2%
-159,Ejerlejlighed,"Gyngemose Parkvej 10, 1. mf",2860, Søborg,2600000 ,03-06-2020,Alm. Salg,87,29885,3,2007,-2%
 159,Villa,Christoffers Alle 146B,2800, Kongens Lyngby,5150000 ,03-06-2020,Alm. Salg,112,45982,4,1954,-2%
 159,Villa,Bagsværdvej 251,2880, Bagsværd,4650000 ,03-06-2020,Alm. Salg,164,28354,6,1968,3%
 159,Villa,Huldbergs Alle 20,2800, Kongens Lyngby,2186500 ,03-06-2020,Alm. Salg,101,21649,4,1953,
@@ -2160,7 +2148,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 159,Villa,Slotsparken 18A,2880, Bagsværd,5700000 ,09-05-2020,Alm. Salg,210,27143,5,2021,-5%
 159,Ejerlejlighed,"Buddinge Hovedgade 226, 1. th",2880, Bagsværd,1810000 ,07-05-2020,Alm. Salg,58,31207,2,1946,-4%
 159,Villa,Septembervej 20,2860, Søborg,2750000 ,07-05-2020,Alm. Salg,89,30899,3,1956,
-159,Villa,Søborghus Alle 19,2860, Søborg,7150000 ,07-05-2020,Alm. Salg,138,51812,5,1924,
 159,Villa,Svends Alle 40,2800, Kongens Lyngby,2123815 ,06-05-2020,Alm. Salg,196,9832,6,1939,
 159,Rækkehus,Peder Hesselsvej 8,2880, Bagsværd,3850000 ,05-05-2020,Alm. Salg,102,37745,4,1957,-4%
 159,Rækkehus,Mørkhøj Parkalle 22E,2860, Søborg,4475000 ,05-05-2020,Alm. Salg,153,29248,5,2006,0%
@@ -2263,8 +2250,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 159,Rækkehus,Søborg Parkalle 74,2860, Søborg,3750000 ,12-03-2020,Alm. Salg,86,43605,3,1960,
 159,Rækkehus,Ærtemarken 103,2860, Søborg,3320000 ,11-03-2020,Alm. Salg,74,44865,2,1956,-5%
 159,Ejerlejlighed,"Buegården 19, 1. th",2880, Bagsværd,1965000 ,11-03-2020,Alm. Salg,60,32750,2,1975,
-159,Ejerlejlighed,"Esberns Alle 1, 2. 1",2860, Søborg,1595000 ,11-03-2020,Alm. Salg,55,29000,2,1938,
-159,Ejerlejlighed,"Gladsaxevej 32, 2. tv",2860, Søborg,1595000 ,11-03-2020,Alm. Salg,48,33229,2,1934,
 159,Ejerlejlighed,"Vadstrupvej 26, 1. th",2880, Bagsværd,3295000 ,11-03-2020,Alm. Salg,118,27924,3,1991,
 159,Villa,Haspegårdsvej 39A,2880, Bagsværd,2175000 ,10-03-2020,Fam. Salg,156,13942,5,1999,
 159,Rækkehus,Kornmarken 19,2880, Bagsværd,3425000 ,08-03-2020,Alm. Salg,92,37228,4,1948,-2%
@@ -2454,7 +2439,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 159,Ejerlejlighed,"Bagsværd Hovedgade 99, 8. c",2880, Bagsværd,459000 ,19-12-2019,Fam. Salg,38,12079,1,1966,
 159,Villa,Skovbrynet 51,2880, Bagsværd,4050000 ,19-12-2019,Alm. Salg,203,19951,6,1968,
 159,Ejerlejlighed,"Tinghøjvej 42, 3. 2",2860, Søborg,610500 ,18-12-2019,Alm. Salg,46,13272,1,1963,
-159,Villa,Stengårds Alle 91,2800, Kongens Lyngby,1931240 ,18-12-2019,Andet,126,15327,4,1935,
 159,Villa,Bagsværdvej 197A,2880, Bagsværd,4600000 ,18-12-2019,Fam. Salg,147,31293,5,1961,
 159,Villa,Runebergs Alle 34,2860, Søborg,330000 ,18-12-2019,Alm. Salg,194,1701,7,2014,
 159,Rækkehus,Maj Alle 109,2860, Søborg,2800000 ,17-12-2019,Alm. Salg,106,26415,4,1950,-3%
@@ -2565,7 +2549,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 159,Ejerlejlighed,"Godtgemt 19, 1. th",2880, Bagsværd,1950000 ,06-11-2019,Alm. Salg,65,30000,3,1955,
 159,Ejerlejlighed,"Gladsaxevej 63, 1. th",2860, Søborg,1840000 ,05-11-2019,Alm. Salg,67,27463,3,1946,-2%
 159,Ejerlejlighed,"Bagsværd Hovedgade 188, 2. e",2880, Bagsværd,1200000 ,04-11-2019,Alm. Salg,50,24000,1,1960,-2%
-159,Villa,Spergelmarken 19,2860, Søborg,4580000 ,04-11-2019,Alm. Salg,88,52045,3,1939,-4%
 159,Ejerlejlighed,"Christianehøj 90, st. tv",2860, Søborg,1250000 ,03-11-2019,Alm. Salg,44,28409,2,1940,-6%
 159,Villa,Højgårds Alle 12,2880, Bagsværd,4500000 ,01-11-2019,Alm. Salg,181,24862,6,1923,-5%
 159,Ejerlejlighed,"Lauggårds Alle 12, st. th",2860, Søborg,2100000 ,30-10-2019,Alm. Salg,65,32308,3,1946,-2%
@@ -2586,10 +2569,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 159,Rækkehus,Raftevej 26,2800, Kongens Lyngby,5251000 ,23-10-2019,Alm. Salg,128,41023,6,1954,
 159,Ejerlejlighed,"Carl Blochs Alle 5, st. th",2860, Søborg,2130000 ,23-10-2019,Alm. Salg,64,33281,3,1927,-1%
 159,Villa,Lavtoftevej 8,2860, Søborg,5950000 ,23-10-2019,Alm. Salg,139,42806,6,1951,
-159,Rækkehus,Ved Kagså 62,2860, Søborg,2600000 ,22-10-2019,Alm. Salg,80,32500,3,1956,-2%
 159,Rækkehus,Christoffers Alle 188,2800, Kongens Lyngby,3500000 ,22-10-2019,Alm. Salg,90,38889,4,1945,-3%
 159,Rækkehus,Bagsværd Hovedgade 40B,2880, Bagsværd,3400000 ,22-10-2019,Alm. Salg,91,37363,3,1951,-3%
-159,Ejerlejlighed,"Kildebakken 17, st. tv",2860, Søborg,2600000 ,22-10-2019,Alm. Salg,77,33766,3,1939,-4%
 159,Villa,Gladsaxe Møllevej 153,2860, Søborg,3650000 ,22-10-2019,Alm. Salg,122,29918,4,1954,-3%
 159,Villa,Lyngen 21B,2800, Kongens Lyngby,3600000 ,22-10-2019,Alm. Salg,190,18947,5,2021,
 159,Rækkehus,Buddingevej 130A,2800, Kongens Lyngby,3200000 ,21-10-2019,Alm. Salg,89,35955,4,1990,-5%
@@ -2918,7 +2899,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 159,Rækkehus,Stengårds Alle 68,2800, Kongens Lyngby,3925000 ,12-06-2019,Alm. Salg,87,45115,4,1955,
 159,Ejerlejlighed,"Bagsværd Hovedgade 83D, 1",2880, Bagsværd,1750000 ,12-06-2019,Alm. Salg,63,27778,2,1960,-3%
 159,Ejerlejlighed,"Christianehøj 67, 1. th",2860, Søborg,1465000 ,12-06-2019,Alm. Salg,44,33295,2,1943,-2%
-159,Villa,Skovdiget 16,2880, Bagsværd,3700000 ,12-06-2019,Alm. Salg,130,28462,5,1975,-5%
 159,Rækkehus,Elledalen 19,2800, Kongens Lyngby,3595000 ,11-06-2019,Alm. Salg,100,35950,4,1959,-3%
 159,Ejerlejlighed,"Tinghøjvej 40, 3. 1",2860, Søborg,2050000 ,11-06-2019,Alm. Salg,87,23563,3,1963,-4%
 159,Ejerlejlighed,"Novembervej 13, 2. tv",2860, Søborg,1845000 ,11-06-2019,Alm. Salg,66,27955,3,1958,-8%
@@ -3241,12 +3221,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 159,Ejerlejlighed,"Tinghøjvej 22, st. tv",2860, Søborg,1670000 ,27-01-2019,Alm. Salg,51,32745,2,1949,-1%
 159,Ejerlejlighed,"Søborg Hovedgade 171, 3. tv",2860, Søborg,2995000 ,27-01-2019,Alm. Salg,84,35655,4,1984,
 159,Ejerlejlighed,"Gedvad 41, st. tv",2800, Kongens Lyngby,847500 ,27-01-2019,Fam. Salg,49,17296,2,1946,
-159,Ejerlejlighed,"Hesteskoen 11, 1. th",2880, Bagsværd,3500000 ,27-01-2019,Alm. Salg,103,33981,2,2023,
-159,Ejerlejlighed,"Hesteskoen 9, st",2880, Bagsværd,3500000 ,27-01-2019,Alm. Salg,103,33981,2,2023,
-159,Ejerlejlighed,"Hesteskoen 13, 1. tv",2880, Bagsværd,3500000 ,27-01-2019,Alm. Salg,103,33981,2,2023,
-159,Ejerlejlighed,"Hesteskoen 11, 1. tv",2880, Bagsværd,3500000 ,27-01-2019,Alm. Salg,95,36842,2,2023,
-159,Ejerlejlighed,"Hesteskoen 13, 1. th",2880, Bagsværd,3500000 ,27-01-2019,Alm. Salg,95,36842,2,2023,
-159,Ejerlejlighed,"Kørom 2, st",2880, Bagsværd,3500000 ,27-01-2019,Alm. Salg,103,33981,2,2023,
 159,Villa,Grønnemose Alle 70,2860, Søborg,5550000 ,27-01-2019,Alm. Salg,126,44048,5,1947,
 159,Villa,Mars Alle 30,2860, Søborg,3010000 ,27-01-2019,Fam. Salg,128,23516,4,1957,
 159,Villa,Oktobervej 2,2860, Søborg,3925000 ,24-01-2019,Alm. Salg,180,21806,5,1942,-2%
@@ -3419,7 +3393,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 159,Villa,Skovtoften 20,2880, Bagsværd,5200000 ,11-11-2018,Alm. Salg,187,27807,6,1975,-5%
 159,Villa,Hjortevænget 70,2880, Bagsværd,1225000 ,11-11-2018,Andet,118,10381,3,1967,
 159,Ejerlejlighed,"Telefonvej 4F, 3. tv",2860, Søborg,3425000 ,08-11-2018,Alm. Salg,92,37228,4,2007,-1%
-159,Rækkehus,Tjørnevænget 59,2800, Kongens Lyngby,4995000 ,07-11-2018,Alm. Salg,96,52031,4,1957,
 159,Ejerlejlighed,"Buegården 17, 3. th",2880, Bagsværd,690000 ,07-11-2018,Alm. Salg,43,16047,2,1975,
 159,Ejerlejlighed,"Bagsværd Hovedgade 99, 2. m",2880, Bagsværd,950000 ,07-11-2018,Alm. Salg,38,25000,1,1966,-2%
 159,Villa,Augustvej 84,2860, Søborg,4550000 ,07-11-2018,Alm. Salg,155,29355,4,1935,-4%
@@ -3502,8 +3475,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 159,Ejerlejlighed,"Aldershvilevej 121C, st. tv",2880, Bagsværd,1550000 ,10-10-2018,Alm. Salg,55,28182,2,1964,-6%
 159,Villa,Aldershvilevej 147,2880, Bagsværd,7100000 ,10-10-2018,Alm. Salg,206,34466,4,2002,-5%
 159,Villa,Mørkhøj Bygade 8A,2860, Søborg,3700000 ,10-10-2018,Alm. Salg,134,27612,4,2003,-7%
-159,Ejerlejlighed,"Gladsaxevej 76, st. tv",2860, Søborg,1250000 ,09-10-2018,Fam. Salg,36,34722,1,1949,
-159,Ejerlejlighed,"Buddingevej 190, 2. 205",2860, Søborg,1250000 ,09-10-2018,Alm. Salg,45,27778,2,1971,-6%
 159,Villa,Grønnemose Alle 128,2860, Søborg,6150000 ,08-10-2018,Alm. Salg,123,50000,5,1930,
 159,Villa,Marienborg Alle 98,2860, Søborg,6000000 ,08-10-2018,Alm. Salg,151,39735,6,1930,
 159,Rækkehus,Søborg Parkalle 144,2860, Søborg,3200000 ,07-10-2018,Alm. Salg,86,37209,4,1967,-2%
@@ -4582,9 +4553,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 159,Rækkehus,Esberns Alle 14E,2860, Søborg,1425000 ,07-08-2017,Fam. Salg,118,12076,5,1975,
 159,Ejerlejlighed,"Runebergs Alle 42, st. tv",2860, Søborg,1865000 ,07-08-2017,Alm. Salg,50,37300,2,1933,1%
 159,Ejerlejlighed,"Gyngemose Parkvej 26, 4. th",2860, Søborg,2975000 ,07-08-2017,Alm. Salg,107,27804,4,2007,-1%
-159,Ejerlejlighed,"Vadstrupvej 28, st",2880, Bagsværd,3700000 ,07-08-2017,Alm. Salg,130,28462,4,1991,
 159,Villa,Skovdiget 12,2880, Bagsværd,4400000 ,07-08-2017,Alm. Salg,141,31206,5,1932,
-159,Villa,Bagsværd Hovedgade 41,2880, Bagsværd,3700000 ,07-08-2017,Alm. Salg,116,31897,7,1924,-3%
 159,Ejerlejlighed,"Bagsværd Hovedgade 77, 3. b",2880, Bagsværd,1460000 ,06-08-2017,Alm. Salg,67,21791,2,1960,1%
 159,Villa,Mars Alle 46,2860, Søborg,4444000 ,05-08-2017,Alm. Salg,203,21892,5,1937,
 159,Rækkehus,Mørkhøj Parkalle 2H,2860, Søborg,4350000 ,03-08-2017,Alm. Salg,153,28431,5,2006,-1%
@@ -4611,7 +4580,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 159,Rækkehus,Grønnemose Alle 61B,2860, Søborg,3495000 ,26-07-2017,Alm. Salg,99,35303,3,1978,
 159,Villa,Gorkis Alle 8,2860, Søborg,7100000 ,26-07-2017,Alm. Salg,146,48630,5,1926,
 159,Ejerlejlighed,"Buegården 7, 1. th",2880, Bagsværd,1545000 ,25-07-2017,Alm. Salg,60,25750,2,1975,
-159,Rækkehus,Rugtoften 25,2880, Bagsværd,3590000 ,24-07-2017,Alm. Salg,69,52029,3,1944,0%
 159,Rækkehus,Sandkrogen 62,2800, Kongens Lyngby,3670000 ,24-07-2017,Alm. Salg,114,32193,4,1953,-1%
 159,Villa,Kongshvilebakken 16,2800, Kongens Lyngby,10300000 ,24-07-2017,Alm. Salg,218,47248,5,1962,-14%
 159,Rækkehus,Mosekrogen 15,2860, Søborg,4700000 ,23-07-2017,Alm. Salg,107,43925,4,1943,
@@ -4990,12 +4958,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 159,Villa,Møllevænget 4,2800, Kongens Lyngby,4250000 ,14-03-2017,Alm. Salg,120,35417,4,1984,-5%
 159,Villa,Blomstermarken 38,2860, Søborg,2980000 ,14-03-2017,Alm. Salg,153,19477,6,1933,-1%
 159,Rækkehus,Gammelmosevej 291,2880, Bagsværd,5500000 ,13-03-2017,Alm. Salg,158,34810,4,2016,-5%
-159,Ejerlejlighed,"Gyngemose Parkvej 15, 3. tv",2860, Søborg,2800000 ,13-03-2017,Alm. Salg,92,30435,3,2006,
 159,Ejerlejlighed,"Christianehøj 69, 1. th",2860, Søborg,1275000 ,13-03-2017,Alm. Salg,44,28977,2,1943,
 159,Ejerlejlighed,"Bagsværd Hovedgade 161, 1. 5",2880, Bagsværd,2745000 ,13-03-2017,Alm. Salg,87,31552,3,2017,
 159,Villa,Marienborg Alle 82,2860, Søborg,1997500 ,13-03-2017,Alm. Salg,107,18668,4,1924,
 159,Villa,Lillegårds Alle 74,2860, Søborg,4050000 ,13-03-2017,Alm. Salg,154,26299,7,1935,-3%
-159,Villa,Rybjerg Alle 95,2860, Søborg,2800000 ,13-03-2017,Alm. Salg,146,19178,4,1959,-3%
 159,Ejerlejlighed,"Aldershvilevej 100, st. c",2880, Bagsværd,1495000 ,12-03-2017,Alm. Salg,54,27685,2,1973,
 159,Ejerlejlighed,"Kiplings Alle 48, st. th",2860, Søborg,2850000 ,12-03-2017,Alm. Salg,86,33140,3,1928,-1%
 159,Villa,Aldershvilevej 22,2880, Bagsværd,4650000 ,12-03-2017,Alm. Salg,154,30195,5,1972,-1%
@@ -5478,11 +5444,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 159,Ejerlejlighed,"Bagsværd Hovedgade 99, 14. k",2880, Bagsværd,795000 ,15-09-2016,Alm. Salg,38,20921,1,1966,
 159,Villa,Vibevænget 115,2880, Bagsværd,5250000 ,15-09-2016,Alm. Salg,186,28226,6,1948,
 159,Rækkehus,Snogegårdsvej 143B,2860, Søborg,3206000 ,14-09-2016,Alm. Salg,87,36851,4,1957,1%
-159,Rækkehus,Pinievej 10B,2880, Bagsværd,3495000 ,14-09-2016,Alm. Salg,115,30391,4,2017,
 159,Ejerlejlighed,"Søborg Hovedgade 137A, 2. th",2860, Søborg,995000 ,14-09-2016,Alm. Salg,43,23140,2,1939,
 159,Villa,Jægergangen 15,2880, Bagsværd,3500000 ,14-09-2016,Alm. Salg,110,31818,4,1996,-7%
 159,Villa,Mølleåsen 6,2800, Kongens Lyngby,4200000 ,14-09-2016,Alm. Salg,136,30882,6,1972,-2%
-159,Villa,Vadstrupkrogen 5,2880, Bagsværd,3495000 ,14-09-2016,Alm. Salg,121,28884,4,1984,
 159,Villa,Stavnsbjerg Alle 65,2860, Søborg,1801500 ,14-09-2016,Alm. Salg,177,10178,3,1936,
 159,Ejerlejlighed,"Søborg Hovedgade 215, 4. k",2860, Søborg,725000 ,13-09-2016,Alm. Salg,39,18590,1,1964,
 159,Ejerlejlighed,"Maglegårds Alle 123, 2. th",2860, Søborg,1498000 ,13-09-2016,Alm. Salg,60,24967,3,1947,
@@ -5504,7 +5468,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 159,Ejerlejlighed,"Bondehavevej 10D, st. mf",2880, Bagsværd,1200000 ,10-09-2016,Alm. Salg,52,23077,2,1969,-7%
 159,Rækkehus,Gammelmosevej 179D,2800, Kongens Lyngby,1700000 ,09-09-2016,Andet,123,13821,4,2015,
 159,Ejerlejlighed,"Tinghøjvej 46, 3. 3",2860, Søborg,625000 ,09-09-2016,Fam. Salg,46,13587,1,1963,
-159,Rækkehus,Hedevænget 36,2800, Kongens Lyngby,3800000 ,08-09-2016,Alm. Salg,73,52055,3,1950,-2%
 159,Ejerlejlighed,"Runebergs Alle 48, 1. th",2860, Søborg,2010000 ,08-09-2016,Alm. Salg,71,28310,3,1938,1%
 159,Rækkehus,Bykrogen 12,2860, Søborg,2200000 ,07-09-2016,Alm. Salg,84,26190,4,1948,-2%
 159,Ejerlejlighed,"Runebergs Alle 29, 1. th",2860, Søborg,1480000 ,07-09-2016,Alm. Salg,59,25085,3,1928,-1%
@@ -5658,7 +5621,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 159,Ejerlejlighed,"Tinghøjvej 46, 10. 4",2860, Søborg,1625000 ,18-07-2016,Alm. Salg,64,25391,2,1963,-2%
 159,Ejerlejlighed,"Bagsværd Hovedgade 81D, 3",2880, Bagsværd,1475000 ,18-07-2016,Alm. Salg,78,18910,3,1960,-8%
 159,Ejerlejlighed,"Kiplings Alle 38, st. th",2860, Søborg,1145000 ,18-07-2016,Alm. Salg,52,22019,2,1942,-4%
-159,Rækkehus,Hedevænget 46,2800, Kongens Lyngby,3800000 ,17-07-2016,Alm. Salg,73,52055,3,1950,-5%
 159,Ejerlejlighed,"Bagsværd Hovedgade 98, 2. j",2880, Bagsværd,3250000 ,17-07-2016,Alm. Salg,110,29545,4,2017,4%
 159,Villa,Marienborg Alle 82,2860, Søborg,3995000 ,17-07-2016,Alm. Salg,107,37336,4,1924,
 159,Villa,Gammelmosevej 137,2800, Kongens Lyngby,3850000 ,17-07-2016,Alm. Salg,170,22647,4,1934,-4%
@@ -5884,10 +5846,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 159,Villa,Hvedemarken 30,2860, Søborg,3850000 ,11-05-2016,Alm. Salg,105,36667,4,1935,
 159,Rækkehus,Pinievej 10C,2880, Bagsværd,3695000 ,10-05-2016,Alm. Salg,123,30041,4,2017,
 159,Rækkehus,Klintemarken 14D,2860, Søborg,2850000 ,10-05-2016,Alm. Salg,89,32022,4,1989,-5%
-159,Rækkehus,Buddinge Hovedgade 144,2860, Søborg,3650000 ,10-05-2016,Alm. Salg,119,30672,5,1975,
 159,Ejerlejlighed,"Bagsværd Hovedgade 99, 14. n",2880, Bagsværd,1299000 ,10-05-2016,Alm. Salg,62,20952,2,1966,
 159,Ejerlejlighed,"Buddinge Hovedgade 224, 1. tv",2880, Bagsværd,1115000 ,10-05-2016,Alm. Salg,56,19911,3,1946,-7%
-159,Villa,Nordtoftevej 57,2860, Søborg,3650000 ,10-05-2016,Alm. Salg,120,30417,4,1928,-5%
 159,Rækkehus,Ved Kagså 66,2860, Søborg,2700000 ,09-05-2016,Alm. Salg,114,23684,4,1956,-3%
 159,Ejerlejlighed,"Esberns Alle 1, 1. 2",2860, Søborg,1295000 ,09-05-2016,Alm. Salg,55,23545,2,1938,
 159,Ejerlejlighed,"Buddingevej 190, 2. 204",2860, Søborg,985000 ,09-05-2016,Alm. Salg,45,21889,2,1971,
@@ -6502,8 +6462,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 159,Ejerlejlighed,"Bagsværdvej 103, st",2800, Kongens Lyngby,1500000 ,25-09-2015,Fam. Salg,109,13761,4,1930,
 159,Ejerlejlighed,"Buddingevej 250, 1. 109",2860, Søborg,850000 ,24-09-2015,Alm. Salg,45,18889,2,1971,0%
 159,Ejerlejlighed,"Christoffers Alle 66, st. 4",2800, Kongens Lyngby,1050000 ,24-09-2015,Alm. Salg,41,25610,2,1943,
-159,Ejerlejlighed,"Søborg Hovedgade 92, 1. tv",2860, Søborg,2800000 ,24-09-2015,Alm. Salg,140,20000,6,1927,
-159,Ejerlejlighed,"Telefonvej 4D, 1. th",2860, Søborg,2800000 ,24-09-2015,Alm. Salg,92,30435,4,2007,-3%
 159,Villa,Åsen 18,2880, Bagsværd,4700000 ,24-09-2015,Alm. Salg,151,31126,5,1951,-6%
 159,Villa,Mars Alle 44,2860, Søborg,3975000 ,24-09-2015,Alm. Salg,195,20385,5,1937,-7%
 159,Villa,Christopher Boecks Alle 96,2860, Søborg,5225000 ,23-09-2015,Alm. Salg,172,30378,6,1937,-5%
@@ -6895,8 +6853,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 159,Ejerlejlighed,"Gladsaxevej 65, 2. th",2860, Søborg,1400000 ,12-05-2015,Alm. Salg,70,20000,3,1946,-3%
 159,Ejerlejlighed,"Novembervej 13, st. th",2860, Søborg,822000 ,12-05-2015,Alm. Salg,52,15808,2,1958,-8%
 159,Ejerlejlighed,"Gyngemose Parkvej 13, 5. th",2860, Søborg,1570000 ,12-05-2015,Alm. Salg,69,22754,2,2006,-2%
-159,Ejerlejlighed,Præstebrovej 46,2860, Søborg,1995000 ,12-05-2015,Alm. Salg,109,18303,2,1950,
-159,Ejerlejlighed,Forsvarsvej 2,2860, Søborg,1995000 ,12-05-2015,Alm. Salg,78,25577,4,1950,
 159,Ejerlejlighed,"Maglegårds Alle 129, 1. tv",2860, Søborg,1375000 ,12-05-2015,Alm. Salg,64,21484,3,1947,
 159,Villa,Septembervej 140,2860, Søborg,3125000 ,12-05-2015,Alm. Salg,152,20559,7,1940,-4%
 159,Rækkehus,Fortgrunden 4,2880, Bagsværd,3700000 ,11-05-2015,Alm. Salg,95,38947,4,1957,3%
@@ -7200,9 +7156,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 159,Rækkehus,Jordbærvænget 11,2880, Bagsværd,3595000 ,28-01-2015,Alm. Salg,115,31261,4,1957,
 159,Rækkehus,Klintemarken 8D,2860, Søborg,1550000 ,28-01-2015,Alm. Salg,70,22143,3,1989,
 159,Ejerlejlighed,"Bindeledet 11, 2. th",2880, Bagsværd,1249000 ,28-01-2015,Alm. Salg,69,18101,2,1969,-4%
-159,Ejerlejlighed,"Buddingevej 240, 1. th",2860, Søborg,1300000 ,27-01-2015,Alm. Salg,63,20635,3,1936,-2%
 159,Ejerlejlighed,"Bagsværd Hovedgade 58, st. b",2880, Bagsværd,1040000 ,27-01-2015,Alm. Salg,51,20392,2,1961,-5%
-159,Ejerlejlighed,"Pilegårdsvej 22, 1. th",2860, Søborg,1300000 ,27-01-2015,Alm. Salg,70,18571,3,1966,-4%
 159,Villa,Wergelands Alle 20,2860, Søborg,2332500 ,27-01-2015,Andet,114,20461,5,1914,
 159,Rækkehus,Mosekrogen 7,2860, Søborg,3950000 ,26-01-2015,Alm. Salg,103,38350,4,1943,4%
 159,Rækkehus,Hedevænget 46,2800, Kongens Lyngby,2650000 ,26-01-2015,Alm. Salg,73,36301,3,1950,-5%
@@ -7723,8 +7677,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 159,Villa,Ærtemarken 56,2860, Søborg,3700000 ,02-07-2014,Alm. Salg,182,20330,8,1947,-3%
 159,Rækkehus,Buddingevej 188B,2860, Søborg,1300000 ,01-07-2014,Alm. Salg,101,12871,4,1998,
 159,Rækkehus,Tordisvej 6,2880, Bagsværd,2950000 ,01-07-2014,Alm. Salg,106,27830,4,1958,-2%
-159,Rækkehus,Gladsaxe Møllevej 154C,2860, Søborg,2150000 ,01-07-2014,Fam. Salg,102,21078,4,1958,
-159,Ejerlejlighed,"Gyngemose Parkvej 15, 5. tv",2860, Søborg,2150000 ,01-07-2014,Alm. Salg,92,23370,3,2006,
 159,Villa,Åsen 8,2880, Bagsværd,4308000 ,01-07-2014,Alm. Salg,159,27094,5,1951,
 159,Rækkehus,Ved Kagså 44,2860, Søborg,2490000 ,30-06-2014,Alm. Salg,80,31125,3,1956,
 159,Rækkehus,Strømskellet 2,2880, Bagsværd,2500000 ,30-06-2014,Alm. Salg,122,20492,4,1983,-6%
@@ -7844,9 +7796,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 159,Ejerlejlighed,"Gyngemose Parkvej 55, 6. tv",2860, Søborg,1970000 ,19-05-2014,Alm. Salg,87,22644,3,2008,-1%
 159,Villa,Værebrovej 208,2880, Bagsværd,4300000 ,19-05-2014,Alm. Salg,168,25595,7,2012,-4%
 159,Villa,Knuds Alle 26,2800, Kongens Lyngby,2900000 ,19-05-2014,Alm. Salg,96,30208,4,1941,-3%
-159,Rækkehus,Hanehøj 14B,2880, Bagsværd,1450000 ,18-05-2014,Fam. Salg,96,15104,3,1979,
 159,Ejerlejlighed,"Maglegårds Alle 59, 2. tv",2860, Søborg,448685 ,18-05-2014,Andet,64,7011,3,1946,-59%
-159,Ejerlejlighed,"Bindeledet 16, 3. th",2880, Bagsværd,1450000 ,18-05-2014,Alm. Salg,82,17683,3,1952,-6%
 159,Villa,Christopher Boecks Alle 106,2860, Søborg,4100000 ,18-05-2014,Alm. Salg,184,22283,6,1933,-5%
 159,Villa,Ved Højgård 7,2880, Bagsværd,4250000 ,18-05-2014,Alm. Salg,160,26563,5,1955,-4%
 159,Villa,Rensdyrvej 14,2860, Søborg,2400000 ,18-05-2014,Alm. Salg,143,16783,6,1954,
@@ -8111,8 +8061,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 159,Villa,Buddinge Hovedgade 147,2860, Søborg,3975000 ,16-01-2014,Alm. Salg,211,18839,8,1980,-6%
 159,Villa,Råvænget 22,2880, Bagsværd,2375000 ,16-01-2014,Alm. Salg,138,17210,5,1958,
 159,Villa,Aldershvilevej 37,2880, Bagsværd,4050000 ,16-01-2014,Alm. Salg,153,26471,6,1964,-6%
-159,Rækkehus,Kildebakkegårds Alle 56A,2860, Søborg,2250000 ,14-01-2014,Alm. Salg,94,23936,4,1981,-13%
-159,Ejerlejlighed,"Gyngemose Parkvej 7, 3. tv",2860, Søborg,2250000 ,14-01-2014,Alm. Salg,98,22959,3,2007,-5%
 159,Ejerlejlighed,"Runebergs Alle 29, st. th",2860, Søborg,1300000 ,13-01-2014,Alm. Salg,59,22034,3,1928,-5%
 159,Ejerlejlighed,"Bagsværd Hovedgade 83A, 1. th",2880, Bagsværd,1450000 ,13-01-2014,Alm. Salg,94,15426,4,1960,-9%
 159,Rækkehus,Jordbærvænget 12B,2880, Bagsværd,3395000 ,12-01-2014,Alm. Salg,123,27602,5,1973,
@@ -8384,8 +8332,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 159,Villa,Maglekrogen 10C,2860, Søborg,3750000 ,19-08-2013,Alm. Salg,122,30738,4,1986,
 159,Rækkehus,Solbærvænget 34,2880, Bagsværd,1995000 ,18-08-2013,Alm. Salg,80,24938,4,1960,-13%
 159,Ejerlejlighed,"Tinghøjvej 58, 1. 108",2860, Søborg,525000 ,18-08-2013,Alm. Salg,48,10938,1,1973,-24%
-159,Ejerlejlighed,Præstebrovej 46,2860, Søborg,1425000 ,18-08-2013,Alm. Salg,109,13073,2,1950,
-159,Ejerlejlighed,Forsvarsvej 2,2860, Søborg,1425000 ,18-08-2013,Alm. Salg,78,18269,4,1950,
 159,Ejerlejlighed,"Elledalen 2, 1. mf",2800, Kongens Lyngby,675000 ,18-08-2013,Alm. Salg,40,16875,2,1959,
 159,Villa,Runebergs Alle 28,2860, Søborg,5200000 ,18-08-2013,Alm. Salg,268,19403,7,1928,-13%
 159,Ejerlejlighed,"Kildebakken 41, st. tv",2860, Søborg,1000000 ,17-08-2013,Alm. Salg,68,14706,3,1960,-4%
@@ -9061,7 +9007,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 159,Rækkehus,Marie Grubbes Alle 38,2800, Kongens Lyngby,1657500 ,12-08-2012,Alm. Salg,110,15068,5,1959,-16%
 159,Villa,Marienborg Alle 13,2860, Søborg,4450000 ,12-08-2012,Alm. Salg,143,31119,5,1914,-5%
 159,Villa,Stavnsbjerg Alle 28,2860, Søborg,1500000 ,12-08-2012,Alm. Salg,80,18750,3,1937,-14%
-159,Villa,Mosevangen 21,2860, Søborg,4150000 ,12-08-2012,Alm. Salg,80,51875,3,1935,
 159,Villa,Septembervej 34,2860, Søborg,2050000 ,11-08-2012,Alm. Salg,126,16270,3,1940,-7%
 159,Villa,Elmevænget 8A,2880, Bagsværd,3800000 ,11-08-2012,Alm. Salg,207,18357,8,2016,-9%
 159,Rækkehus,Triumfvej 116,2800, Kongens Lyngby,2700000 ,08-08-2012,Alm. Salg,138,19565,4,1980,-7%
@@ -9868,7 +9813,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 159,Villa,Bæverstien 35,2880, Bagsværd,3000000 ,17-03-2011,Alm. Salg,109,27523,4,1956,-8%
 159,Rækkehus,Møllekrogen 5,2800, Kongens Lyngby,2945000 ,15-03-2011,Alm. Salg,82,35915,4,1946,-2%
 159,Ejerlejlighed,"Gladsaxevej 73, 3. th",2860, Søborg,575000 ,15-03-2011,Alm. Salg,88,6534,3,1946,
-159,Villa,Stengårds Alle 91,2800, Kongens Lyngby,2550000 ,15-03-2011,Alm. Salg,126,20238,4,1935,-15%
 159,Ejerlejlighed,"Søborg Hovedgade 215, 4. o",2860, Søborg,480000 ,14-03-2011,Alm. Salg,31,15484,1,1964,
 159,Villa,Haraldslundvej 55,2800, Kongens Lyngby,900000 ,14-03-2011,Andet,129,6977,2,1920,
 159,Villa,Augustvej 62,2860, Søborg,1080500 ,14-03-2011,Andet,193,5598,7,2021,
@@ -9893,10 +9837,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 159,Rækkehus,Tinghøjvej 25,2860, Søborg,2500000 ,05-03-2011,Alm. Salg,89,28090,4,1949,-9%
 159,Villa,Skjulet 3,2880, Bagsværd,3070000 ,02-03-2011,Alm. Salg,137,22409,5,1966,-4%
 159,Villa,Juni Alle 89,2860, Søborg,1930000 ,02-03-2011,Auktion,108,17870,4,1956,0%
-159,Ejerlejlighed,"Aldershvilevej 109, 1. 3",2880, Bagsværd,578000 ,28-02-2011,Fam. Salg,44,13136,2,1960,
 159,Ejerlejlighed,"Aldershvilevej 111, st. 3",2880, Bagsværd,569500 ,28-02-2011,Fam. Salg,44,12943,2,1960,
-159,Ejerlejlighed,"Bagsværd Hovedgade 188, st. a",2880, Bagsværd,578000 ,28-02-2011,Fam. Salg,50,11560,2,1960,
-159,Ejerlejlighed,"Bagsværd Hovedgade 188, st. b",2880, Bagsværd,578000 ,28-02-2011,Fam. Salg,50,11560,1,1960,
 159,Ejerlejlighed,"Bagsværd Hovedgade 194, 2. tv",2880, Bagsværd,705500 ,28-02-2011,Fam. Salg,62,11379,2,1954,
 159,Ejerlejlighed,"Godtgemt 7, st. a",2880, Bagsværd,629000 ,28-02-2011,Fam. Salg,46,13674,1,1965,
 159,Ejerlejlighed,"Klausdalsbrovej 42, 1. th",2860, Søborg,710000 ,28-02-2011,Auktion,43,16512,2,1943,
@@ -11066,12 +11007,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 159,Villa,Aldershvilevej 16,2880, Bagsværd,3840000 ,28-01-2009,Alm. Salg,160,24000,6,1927,-12%
 159,Ejerlejlighed,"Maglegårds Alle 129, 2. th",2860, Søborg,1050000 ,27-01-2009,Alm. Salg,71,14789,4,1947,-9%
 159,Rækkehus,Christoffers Alle 119,2800, Kongens Lyngby,2425000 ,25-01-2009,Alm. Salg,131,18511,5,1953,-19%
-159,Rækkehus,Gammelmosevej 295C,2880, Bagsværd,2000000 ,25-01-2009,Alm. Salg,122,16393,4,1957,-16%
 159,Rækkehus,Bagsværd Hovedgade 65,2880, Bagsværd,2250000 ,25-01-2009,Alm. Salg,107,21028,5,1946,-8%
 159,Ejerlejlighed,"Christoffers Alle 68, st. tv",2800, Kongens Lyngby,570000 ,25-01-2009,Alm. Salg,41,13902,2,1943,
 159,Ejerlejlighed,"Bondehavevej 10C, 1. th",2880, Bagsværd,1350000 ,25-01-2009,Alm. Salg,80,16875,3,1969,-23%
 159,Villa,Frøstjernevej 9,2880, Bagsværd,4205000 ,25-01-2009,Alm. Salg,219,19201,8,1970,
-159,Villa,Bæverstien 23,2880, Bagsværd,2000000 ,25-01-2009,Alm. Salg,112,17857,4,1962,-9%
 159,Rækkehus,Maglekrogen 28,2860, Søborg,1950000 ,24-01-2009,Alm. Salg,82,23780,3,1948,-2%
 159,Rækkehus,Marienborg Alle 77A,2860, Søborg,2250000 ,24-01-2009,Alm. Salg,90,25000,4,1968,-10%
 159,Rækkehus,Pinievej 14,2880, Bagsværd,2440000 ,20-01-2009,Alm. Salg,102,23922,4,1955,-13%
@@ -11338,10 +11277,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 159,Ejerlejlighed,"Pilegårdsvej 40, 2. th",2860, Søborg,1360000 ,30-06-2008,Fam. Salg,68,20000,3,1966,
 159,Villa,Vandkarsevej 47A,2880, Bagsværd,3400000 ,30-06-2008,Alm. Salg,161,21118,4,1929,-9%
 159,Villa,Huldbergs Alle 16,2800, Kongens Lyngby,1550000 ,30-06-2008,Alm. Salg,156,9936,6,1907,
-159,Rækkehus,Ærtekrogen 11,2860, Søborg,3000000 ,29-06-2008,Alm. Salg,104,28846,4,1948,-6%
 159,Rækkehus,Hedevænget 52,2800, Kongens Lyngby,3170000 ,29-06-2008,Alm. Salg,112,28304,5,1962,-2%
 159,Ejerlejlighed,"Gladsaxe Møllevej 99, st. th",2860, Søborg,1500000 ,29-06-2008,Alm. Salg,68,22059,3,1965,
-159,Villa,Stavnsbjerg Alle 21,2860, Søborg,3000000 ,29-06-2008,Alm. Salg,173,17341,5,1938,-3%
 159,Rækkehus,Einarsvej 17B,2800, Kongens Lyngby,3380000 ,28-06-2008,Alm. Salg,117,28889,4,1970,
 159,Rækkehus,Mørkhøj Parkalle 26E,2860, Søborg,3225000 ,28-06-2008,Alm. Salg,153,21078,5,2007,-13%
 159,Ejerlejlighed,"Borremosen 5, 1. tv",2800, Kongens Lyngby,1200000 ,28-06-2008,Alm. Salg,71,16901,3,1950,-14%
@@ -12228,7 +12165,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 159,Villa,Bakkesvinget 16,2880, Bagsværd,4200000 ,22-03-2007,Alm. Salg,136,30882,5,1968,
 159,Villa,Fremtidsvej 16,2860, Søborg,4500000 ,19-03-2007,Alm. Salg,157,28662,5,1963,
 159,Villa,Åsen 21,2880, Bagsværd,6045000 ,19-03-2007,Alm. Salg,195,26056,7,1936,
-159,Rækkehus,Søborg Parkalle 48,2860, Søborg,2700000 ,18-03-2007,Alm. Salg,86,31395,4,1956,
 159,Rækkehus,Hedevænget 20,2800, Kongens Lyngby,2875000 ,18-03-2007,Alm. Salg,73,39384,3,1950,-4%
 159,Ejerlejlighed,"Bagsværd Hovedgade 99, 2. j",2880, Bagsværd,725000 ,18-03-2007,Alm. Salg,38,19079,1,1966,
 159,Ejerlejlighed,"Gladsaxevej 100, 1. th",2860, Søborg,1215000 ,18-03-2007,Fam. Salg,68,17868,3,1932,
@@ -12239,7 +12175,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 159,Villa,Skjulet 5,2880, Bagsværd,3000000 ,18-03-2007,Alm. Salg,268,11194,7,2023,-6%
 159,Villa,Udmarken 11,2860, Søborg,1657500 ,18-03-2007,Fam. Salg,255,6500,7,2020,
 159,Villa,Aakjærs Alle 12,2860, Søborg,4150000 ,18-03-2007,Alm. Salg,191,21728,9,1913,-6%
-159,Villa,Juni Alle 35,2860, Søborg,2700000 ,18-03-2007,Alm. Salg,83,32530,4,1948,
 159,Villa,Ilbjerg Alle 12,2860, Søborg,2050000 ,18-03-2007,Alm. Salg,134,15299,6,1935,-11%
 159,Ejerlejlighed,"Bagsværd Hovedgade 116B, 14. a",2880, Bagsværd,1400000 ,17-03-2007,Alm. Salg,67,20896,2,1969,
 159,Villa,Hanehøj 72,2880, Bagsværd,2150000 ,17-03-2007,Alm. Salg,85,25294,4,1957,
@@ -12320,9 +12255,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 159,Ejerlejlighed,"Bondehavevej 9, st. tv",2880, Bagsværd,1552500 ,11-02-2007,Fam. Salg,72,21563,3,1940,
 159,Ejerlejlighed,"Bondehavevej 9, 1. tv",2880, Bagsværd,1387500 ,11-02-2007,Fam. Salg,72,19271,3,1940,
 159,Ejerlejlighed,"Bondehavevej 7, 1. th",2880, Bagsværd,1237500 ,11-02-2007,Fam. Salg,64,19336,3,1940,
-159,Ejerlejlighed,Præstebrovej 46,2860, Søborg,2100000 ,11-02-2007,Alm. Salg,109,19266,2,1950,
 159,Ejerlejlighed,"Tinghøjvej 42, 2. 1",2860, Søborg,1775000 ,11-02-2007,Alm. Salg,87,20402,3,1963,
-159,Ejerlejlighed,Forsvarsvej 2,2860, Søborg,2100000 ,11-02-2007,Alm. Salg,78,26923,4,1950,
 159,Ejerlejlighed,"Bagsværd Hovedgade 99, 14. e",2880, Bagsværd,810000 ,11-02-2007,Alm. Salg,38,21316,1,1966,-4%
 159,Villa,Stengårds Alle 140,2800, Kongens Lyngby,2970000 ,11-02-2007,Alm. Salg,118,25169,4,1954,-15%
 159,Villa,Skovalleen 17,2880, Bagsværd,4300000 ,11-02-2007,Alm. Salg,123,34959,5,1964,
@@ -12449,7 +12382,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 159,Ejerlejlighed,"Søborg Hovedgade 35B, 3. 1",2860, Søborg,3250000 ,10-12-2006,Alm. Salg,114,28509,4,2003,
 159,Ejerlejlighed,"Tinghøjvej 50, st. mf",2860, Søborg,875000 ,10-12-2006,Alm. Salg,46,19022,1,1965,
 159,Ejerlejlighed,"Søborg Hovedgade 106, 3. 2",2860, Søborg,2280000 ,10-12-2006,Alm. Salg,121,18843,3,1992,
-159,Ejerlejlighed,"Maglegårds Alle 1, 3. th",2860, Søborg,2600000 ,10-12-2006,Alm. Salg,113,23009,5,1928,
 159,Ejerlejlighed,"Gladsaxe Møllevej 101, 2. tv",2860, Søborg,1500000 ,10-12-2006,Alm. Salg,53,28302,4,1965,
 159,Ejerlejlighed,"Bagsværd Hovedgade 91, 2. tv",2880, Bagsværd,1900000 ,10-12-2006,Alm. Salg,67,28358,3,1950,
 159,Ejerlejlighed,"Buddingevej 260, st. i",2860, Søborg,620500 ,10-12-2006,Fam. Salg,36,17236,1,1961,
@@ -12458,7 +12390,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 159,Ejerlejlighed,"Novembervej 13, 1. mf",2860, Søborg,595000 ,10-12-2006,Alm. Salg,36,16528,1,1958,
 159,Ejerlejlighed,"Gladsaxevej 80, 3. th",2860, Søborg,1698000 ,10-12-2006,Alm. Salg,58,29276,3,1949,
 159,Ejerlejlighed,"Bagsværd Hovedgade 58, 2. b",2880, Bagsværd,1250000 ,10-12-2006,Alm. Salg,51,24510,2,1961,
-159,Ejerlejlighed,"Gyngemose Parkvej 15, 1. th",2860, Søborg,2600000 ,10-12-2006,Alm. Salg,95,27368,3,2006,
 159,Ejerlejlighed,Godtgemt 28,2880, Bagsværd,175667 ,10-12-2006,Fam. Salg,62,2833,3,1955,
 159,Ejerlejlighed,Godtgemt 26,2880, Bagsværd,184167 ,10-12-2006,Fam. Salg,66,2790,3,1955,
 159,Ejerlejlighed,"Kong Hans Alle 3, st. tv",2860, Søborg,800000 ,10-12-2006,Alm. Salg,47,17021,2,1944,
@@ -12467,11 +12398,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 159,Ejerlejlighed,"Aldershvilevej 107, 1. th",2880, Bagsværd,252167 ,10-12-2006,Fam. Salg,88,2866,4,1955,
 159,Ejerlejlighed,"Maglegårds Alle 125, 1. th",2860, Søborg,1675000 ,10-12-2006,Alm. Salg,64,26172,3,1947,
 159,Ejerlejlighed,"Aldershvilevej 107, st. 4",2880, Bagsværd,136000 ,10-12-2006,Fam. Salg,45,3022,1,1955,
-159,Ejerlejlighed,"Carl Blochs Alle 5, 2. tv",2860, Søborg,2250000 ,10-12-2006,Alm. Salg,67,33582,3,1927,
 159,Ejerlejlighed,"Gyngemose Parkvej 10, st. tv",2860, Søborg,2665000 ,10-12-2006,Alm. Salg,87,30632,3,2007,
 159,Ejerlejlighed,"Gyngemose Parkvej 7, 2. th",2860, Søborg,2225000 ,10-12-2006,Alm. Salg,93,23925,3,2007,
-159,Ejerlejlighed,"Gyngemose Parkvej 7, 5. tv",2860, Søborg,2400000 ,10-12-2006,Alm. Salg,98,24490,3,2007,
-159,Ejerlejlighed,"Gyngemose Parkvej 7, 3. th",2860, Søborg,2250000 ,10-12-2006,Alm. Salg,93,24194,3,2007,
 159,Ejerlejlighed,"Gyngemose Parkvej 7, 2. tv",2860, Søborg,2325000 ,10-12-2006,Alm. Salg,98,23724,3,2007,
 159,Ejerlejlighed,"Gyngemose Parkvej 7, 3. tv",2860, Søborg,2350000 ,10-12-2006,Alm. Salg,98,23980,3,2007,
 159,Ejerlejlighed,"Gyngemose Parkvej 7, 5. th",2860, Søborg,2300000 ,10-12-2006,Alm. Salg,93,24731,3,2007,
@@ -12492,7 +12420,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 159,Villa,Aakjærs Alle 23,2860, Søborg,3806000 ,10-12-2006,Alm. Salg,116,32810,5,1946,
 159,Villa,Christoffers Alle 40,2800, Kongens Lyngby,1425711 ,10-12-2006,Andet,206,6921,7,1951,
 159,Villa,Søvej 25,2880, Bagsværd,6500000 ,10-12-2006,Alm. Salg,275,23636,10,1967,
-159,Villa,Aprilvej 62,2860, Søborg,2400000 ,10-12-2006,Alm. Salg,121,19835,5,1953,
 159,Villa,Moseskrænten 19,2860, Søborg,6300000 ,10-12-2006,Alm. Salg,236,26695,8,1923,
 159,Villa,Hjortevænget 62,2880, Bagsværd,2720000 ,10-12-2006,Alm. Salg,184,14783,6,1974,
 159,Villa,Nydamsvej 19,2880, Bagsværd,3292500 ,10-12-2006,Andet,158,20839,4,1954,
@@ -13056,9 +12983,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 159,Ejerlejlighed,"Gladsaxevej 67, 1. 1",2860, Søborg,1225000 ,27-02-2006,Alm. Salg,49,25000,1,1959,
 159,Ejerlejlighed,"Bagsværd Hovedgade 99, 3. h",2880, Bagsværd,910000 ,27-02-2006,Alm. Salg,40,22750,1,1966,
 159,Ejerlejlighed,"Søborg Hovedgade 165, st. tv",2860, Søborg,2360000 ,27-02-2006,Alm. Salg,114,20702,3,1980,
-159,Rækkehus,Grævlingestien 23A,2880, Bagsværd,1500000 ,26-02-2006,Alm. Salg,95,15789,4,1952,
 159,Rækkehus,Hjortestien 18,2860, Søborg,2445000 ,26-02-2006,Alm. Salg,100,24450,4,1958,
-159,Ejerlejlighed,"Buegården 3, 1. th",2880, Bagsværd,1500000 ,26-02-2006,Alm. Salg,60,25000,2,1975,
 159,Villa,Højgårds Alle 1,2880, Bagsværd,4550000 ,26-02-2006,Alm. Salg,163,27914,6,1920,
 159,Villa,Buddingevej 109,2800, Kongens Lyngby,3345000 ,26-02-2006,Alm. Salg,123,27195,6,1952,
 159,Ejerlejlighed,"Aldershvilevej 111, st. 1",2880, Bagsværd,710000 ,25-02-2006,Alm. Salg,37,19189,1,1960,
@@ -13383,7 +13308,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 159,Rækkehus,Porsevænget 48,2800, Kongens Lyngby,2950000 ,24-10-2005,Alm. Salg,67,44030,2,1948,
 159,Rækkehus,Kramsvad 21,2800, Kongens Lyngby,2312000 ,23-10-2005,Alm. Salg,90,25689,4,1949,
 159,Rækkehus,Ellehjørnet 8,2800, Kongens Lyngby,2800000 ,23-10-2005,Alm. Salg,98,28571,5,1957,
-159,Rækkehus,Ved Kagså 7,2860, Søborg,2495000 ,23-10-2005,Alm. Salg,123,20285,3,1956,
 159,Rækkehus,Sandkrogen 29,2800, Kongens Lyngby,2920000 ,23-10-2005,Alm. Salg,96,30417,4,1948,
 159,Rækkehus,Raftevej 10,2800, Kongens Lyngby,2795000 ,23-10-2005,Alm. Salg,128,21836,6,1954,
 159,Rækkehus,Stengårdsvænge 51,2800, Kongens Lyngby,2908000 ,23-10-2005,Alm. Salg,92,31609,4,1959,
@@ -13399,7 +13323,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 159,Villa,Bagsværdvej 100,2800, Kongens Lyngby,3495000 ,23-10-2005,Alm. Salg,191,18298,6,1927,
 159,Villa,Stenkrogen 17,2800, Kongens Lyngby,4900000 ,23-10-2005,Alm. Salg,154,31818,4,1998,
 159,Villa,Christoffers Alle 94,2800, Kongens Lyngby,2995000 ,23-10-2005,Alm. Salg,89,33652,4,1938,
-159,Villa,Maj Alle 142,2860, Søborg,2495000 ,23-10-2005,Alm. Salg,78,31987,3,1954,
 159,Villa,Buddinge Hovedgade 330,2880, Bagsværd,3125000 ,23-10-2005,Alm. Salg,85,36765,3,1938,
 159,Ejerlejlighed,"Buddingevej 250, 2. 203",2860, Søborg,935000 ,22-10-2005,Alm. Salg,45,20778,2,1971,
 159,Ejerlejlighed,"Tinghøjvej 58, st. 12",2860, Søborg,1569305 ,20-10-2005,Alm. Salg,60,26155,2,1973,
@@ -13528,8 +13451,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 159,Villa,Østerhegn 14,2880, Bagsværd,4500000 ,07-09-2005,Alm. Salg,150,30000,6,1924,
 159,Ejerlejlighed,"Tinghøjvej 36, st. tv",2860, Søborg,1350000 ,06-09-2005,Alm. Salg,65,20769,2,1965,
 159,Ejerlejlighed,"Søborghus Alle 4, st",2860, Søborg,2625000 ,05-09-2005,Alm. Salg,88,29830,4,1924,
-159,Ejerlejlighed,"Vadgårdsvej 3, 1. th",2860, Søborg,1225000 ,05-09-2005,Alm. Salg,57,21491,3,1946,
-159,Ejerlejlighed,Ved Kagså 2C,2860, Søborg,1225000 ,05-09-2005,Alm. Salg,45,27222,1,1958,
 159,Villa,Septembervej 167,2860, Søborg,2755000 ,05-09-2005,Alm. Salg,171,16111,7,1939,
 159,Rækkehus,Silene Alle 14B,2860, Søborg,3175000 ,04-09-2005,Alm. Salg,97,32732,5,1980,
 159,Rækkehus,Marie Grubbes Alle 56,2800, Kongens Lyngby,2575000 ,04-09-2005,Alm. Salg,97,26546,5,1959,
@@ -13744,7 +13665,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 159,Ejerlejlighed,"Kildebakken 37, 1. th",2860, Søborg,701776 ,26-06-2005,Andet,50,14036,2,1960,
 159,Ejerlejlighed,"Christianehøj 67, st. tv",2860, Søborg,885000 ,26-06-2005,Alm. Salg,44,20114,2,1943,
 159,Ejerlejlighed,"Godtgemt 9, st. th",2880, Bagsværd,1800000 ,26-06-2005,Alm. Salg,69,26087,3,1965,
-159,Ejerlejlighed,"Lauggårds Alle 18, st. th",2860, Søborg,1280000 ,26-06-2005,Alm. Salg,65,19692,3,1946,
 159,Ejerlejlighed,"Tinghøjvej 44, st. 1",2860, Søborg,1199000 ,26-06-2005,Alm. Salg,64,18734,2,1963,
 159,Ejerlejlighed,"Frødings Alle 9, st. tv",2860, Søborg,945000 ,26-06-2005,Alm. Salg,46,20543,2,1942,
 159,Ejerlejlighed,"Søborg Hovedgade 215, 4. o",2860, Søborg,650000 ,26-06-2005,Alm. Salg,31,20968,1,1964,
@@ -13756,7 +13676,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 159,Villa,Langemosevej 26,2880, Bagsværd,4800000 ,26-06-2005,Alm. Salg,200,21053,6,1963,
 159,Villa,Julivej 5,2860, Søborg,1105000 ,26-06-2005,Alm. Salg,85,13000,3,1935,
 159,Villa,Aldershvilevej 65B,2880, Bagsværd,3250000 ,26-06-2005,Alm. Salg,206,15777,7,1971,
-159,Villa,Ærtemarken 101,2860, Søborg,1280000 ,26-06-2005,Fam. Salg,80,16000,3,1955,
 159,Villa,Sydtoftevej 24,2860, Søborg,4366000 ,26-06-2005,Alm. Salg,128,34109,5,1929,
 159,Rækkehus,Lillemosevej 2B,2800, Kongens Lyngby,2970000 ,25-06-2005,Alm. Salg,115,25826,4,1979,
 159,Villa,Mørkhøjvej 144G,2860, Søborg,1675000 ,25-06-2005,Alm. Salg,59,28390,2,1977,
@@ -14427,8 +14346,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 159,Rækkehus,Toftekærsvej 140,2860, Søborg,2435000 ,01-12-2004,Alm. Salg,89,27360,4,1949,
 159,Ejerlejlighed,"Vandtårnsvej 44, 1",2860, Søborg,1650000 ,01-12-2004,Alm. Salg,90,18333,3,1941,
 159,Villa,Gladsaxevej 84,2860, Søborg,2325000 ,30-11-2004,Alm. Salg,130,17885,5,1922,
-159,Ejerlejlighed,Præstebrovej 46,2860, Søborg,1760000 ,29-11-2004,Alm. Salg,109,16147,2,1950,
-159,Ejerlejlighed,Forsvarsvej 2,2860, Søborg,1760000 ,29-11-2004,Alm. Salg,78,22564,4,1950,
 159,Ejerlejlighed,"Christianehøj 47, 1. tv",2860, Søborg,731000 ,28-11-2004,Alm. Salg,59,12390,3,1955,
 159,Ejerlejlighed,"Søborg Hovedgade 150, st",2860, Søborg,4000000 ,28-11-2004,Alm. Salg,262,15267,1,2016,
 159,Ejerlejlighed,"Buegården 9, st. th",2880, Bagsværd,1200000 ,27-11-2004,Alm. Salg,57,21053,2,1975,
@@ -14784,12 +14701,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 159,Villa,Præstebrovej 50,2860, Søborg,1998000 ,14-06-2004,Alm. Salg,128,15609,4,1966,
 159,Rækkehus,Søvej 17C,2880, Bagsværd,2620000 ,13-06-2004,Alm. Salg,172,15233,4,1977,
 159,Rækkehus,Hørmarken 38,2880, Bagsværd,1105000 ,13-06-2004,Fam. Salg,64,17266,3,1943,
-159,Ejerlejlighed,"Kiplings Alle 38, 2. tv",2860, Søborg,850000 ,13-06-2004,Alm. Salg,49,17347,2,1942,
 159,Ejerlejlighed,"Buddingevej 210, 2. th",2860, Søborg,1065000 ,13-06-2004,Alm. Salg,59,18051,3,1943,
 159,Ejerlejlighed,"Bygmarken 24, 1",2860, Søborg,1700000 ,13-06-2004,Alm. Salg,97,17526,4,1935,
 159,Ejerlejlighed,"Buddinge Hovedgade 224, 1. th",2880, Bagsværd,1095000 ,13-06-2004,Alm. Salg,55,19909,3,1946,
 159,Ejerlejlighed,"Møllemarken 14, 1. tv",2880, Bagsværd,1310000 ,13-06-2004,Alm. Salg,69,18986,3,1947,
-159,Ejerlejlighed,"Gladsaxevej 32, 2. tv",2860, Søborg,850000 ,13-06-2004,Alm. Salg,48,17708,2,1934,
 159,Villa,Harestien 6,2880, Bagsværd,1896000 ,13-06-2004,Alm. Salg,95,19958,4,1956,
 159,Villa,Højvangen 19,2860, Søborg,2525000 ,13-06-2004,Alm. Salg,104,24279,4,1965,
 159,Villa,Bakkesvinget 6,2880, Bagsværd,1900000 ,13-06-2004,Alm. Salg,185,10270,5,1971,
@@ -15302,10 +15217,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 159,Ejerlejlighed,"Christoffers Alle 158, st",2800, Kongens Lyngby,1795000 ,11-12-2003,Alm. Salg,108,16620,3,1941,
 159,Villa,Nydamsvej 33,2880, Bagsværd,2800000 ,10-12-2003,Alm. Salg,152,18421,5,1952,
 159,Ejerlejlighed,"Bagsværd Hovedgade 116A, 5. e",2880, Bagsværd,1250000 ,07-12-2003,Alm. Salg,91,13736,3,1969,
-159,Ejerlejlighed,"Gladsaxe Møllevej 109, 1. th",2860, Søborg,895000 ,07-12-2003,Alm. Salg,50,17900,2,1965,
 159,Ejerlejlighed,"Søborg Hovedgade 73, 1. 3",2860, Søborg,639855 ,07-12-2003,Alm. Salg,43,14880,2,1961,
 159,Ejerlejlighed,"Havevej 22, 1. th",2860, Søborg,1045000 ,07-12-2003,Alm. Salg,64,16328,3,1953,
-159,Ejerlejlighed,"Kildebakken 42, st. th",2860, Søborg,895000 ,07-12-2003,Alm. Salg,50,17900,2,1936,
 159,Ejerlejlighed,"Pilegårdsvej 32, 2. tv",2860, Søborg,1249000 ,07-12-2003,Alm. Salg,70,17843,3,1966,
 159,Villa,Oktobervej 14,2860, Søborg,1625000 ,07-12-2003,Alm. Salg,185,8784,6,1941,
 159,Villa,Græsmarken 17,2860, Søborg,641899 ,07-12-2003,Andet,86,7464,4,1944,
@@ -15941,33 +15854,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 159,Ejerlejlighed,"Bagsværd Hovedgade 188, 3. a",2880, Bagsværd,899000 ,30-03-2003,Alm. Salg,63,14270,2,1960,
 159,Ejerlejlighed,"Bagsværd Hovedgade 99, 9. d",2880, Bagsværd,610000 ,30-03-2003,Alm. Salg,38,16053,1,1966,
 159,Ejerlejlighed,"Søborg Hovedgade 137A, 2. th",2860, Søborg,639743 ,30-03-2003,Alm. Salg,43,14878,2,1939,
-159,Ejerlejlighed,"Søborg Hovedgade 123, 2. tv",2860, Søborg,2450000 ,30-03-2003,Alm. Salg,108,22685,3,2011,
-159,Ejerlejlighed,"Søborg Hovedgade 127, 4. th",2860, Søborg,2450000 ,30-03-2003,Alm. Salg,110,22273,3,2011,
-159,Ejerlejlighed,"Søborg Hovedgade 127, 4. tv",2860, Søborg,2450000 ,30-03-2003,Alm. Salg,108,22685,3,2011,
-159,Ejerlejlighed,"Søborg Hovedgade 127, 1. th",2860, Søborg,2450000 ,30-03-2003,Alm. Salg,110,22273,3,2011,
-159,Ejerlejlighed,"Søborg Hovedgade 127, 3. tv",2860, Søborg,2450000 ,30-03-2003,Alm. Salg,108,22685,3,2011,
-159,Ejerlejlighed,"Søborg Hovedgade 123, 4. th",2860, Søborg,2450000 ,30-03-2003,Alm. Salg,109,22477,3,2011,
-159,Ejerlejlighed,"Andersen Nexø Vej 3, 4. tv",2860, Søborg,2450000 ,30-03-2003,Alm. Salg,110,22273,3,2011,
-159,Ejerlejlighed,"Søborg Hovedgade 123, 2. th",2860, Søborg,2450000 ,30-03-2003,Alm. Salg,109,22477,3,2011,
-159,Ejerlejlighed,"Andersen Nexø Vej 3, 2. th",2860, Søborg,2450000 ,30-03-2003,Alm. Salg,110,22273,3,2011,
-159,Ejerlejlighed,"Søborg Hovedgade 123, 1. tv",2860, Søborg,2450000 ,30-03-2003,Alm. Salg,108,22685,3,2011,
-159,Ejerlejlighed,"Andersen Nexø Vej 3, 2. mf",2860, Søborg,2450000 ,30-03-2003,Alm. Salg,76,32237,2,2011,
-159,Ejerlejlighed,"Andersen Nexø Vej 3, 3. th",2860, Søborg,2450000 ,30-03-2003,Alm. Salg,110,22273,3,2011,
-159,Ejerlejlighed,"Søborg Hovedgade 127, 3. th",2860, Søborg,2450000 ,30-03-2003,Alm. Salg,110,22273,3,2011,
-159,Ejerlejlighed,"Søborg Hovedgade 127, 1. tv",2860, Søborg,2450000 ,30-03-2003,Alm. Salg,108,22685,3,2011,
-159,Ejerlejlighed,"Søborg Hovedgade 127, 2. tv",2860, Søborg,2450000 ,30-03-2003,Alm. Salg,108,22685,3,2011,
-159,Ejerlejlighed,"Søborg Hovedgade 123, 3. th",2860, Søborg,2450000 ,30-03-2003,Alm. Salg,109,22477,3,2011,
-159,Ejerlejlighed,"Andersen Nexø Vej 3, 1. mf",2860, Søborg,2450000 ,30-03-2003,Alm. Salg,76,32237,2,2011,
-159,Ejerlejlighed,"Søborg Hovedgade 123, 1. th",2860, Søborg,2450000 ,30-03-2003,Alm. Salg,109,22477,3,2011,
-159,Ejerlejlighed,"Andersen Nexø Vej 3, 3. mf",2860, Søborg,2450000 ,30-03-2003,Alm. Salg,76,32237,2,2011,
-159,Ejerlejlighed,"Søborg Hovedgade 123, 3. tv",2860, Søborg,2450000 ,30-03-2003,Alm. Salg,108,22685,3,2011,
-159,Ejerlejlighed,"Andersen Nexø Vej 3, 2. tv",2860, Søborg,2450000 ,30-03-2003,Alm. Salg,125,19600,3,2011,
-159,Ejerlejlighed,"Søborg Hovedgade 127, 2. th",2860, Søborg,2450000 ,30-03-2003,Alm. Salg,110,22273,3,2011,
-159,Ejerlejlighed,"Andersen Nexø Vej 3, 1. tv",2860, Søborg,2450000 ,30-03-2003,Alm. Salg,125,19600,3,2011,
-159,Ejerlejlighed,"Andersen Nexø Vej 3, 1. th",2860, Søborg,2450000 ,30-03-2003,Alm. Salg,110,22273,3,2011,
-159,Ejerlejlighed,"Andersen Nexø Vej 3, 3. tv",2860, Søborg,2450000 ,30-03-2003,Alm. Salg,125,19600,3,2011,
-159,Ejerlejlighed,"Andersen Nexø Vej 3, 4. th",2860, Søborg,2450000 ,30-03-2003,Alm. Salg,110,22273,3,2011,
-159,Ejerlejlighed,"Søborg Hovedgade 123, 4. tv",2860, Søborg,2450000 ,30-03-2003,Alm. Salg,108,22685,3,2011,
 159,Villa,Aakjærs Alle 27,2860, Søborg,2400000 ,30-03-2003,Alm. Salg,133,18045,4,1911,
 159,Villa,Krogshøjvej 131,2880, Bagsværd,2400000 ,29-03-2003,Alm. Salg,130,18462,4,1988,
 159,Villa,Roslev Alle 6,2860, Søborg,935000 ,29-03-2003,Fam. Salg,83,11265,3,1934,
@@ -16060,14 +15946,12 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 159,Rækkehus,Sandtoften 35,2800, Kongens Lyngby,1470000 ,23-02-2003,Alm. Salg,95,15474,3,1954,
 159,Rækkehus,Solbærvænget 39,2880, Bagsværd,2060000 ,23-02-2003,Alm. Salg,114,18070,4,1960,
 159,Ejerlejlighed,"Pilegårdsvej 54, st. 4",2860, Søborg,600000 ,23-02-2003,Alm. Salg,39,15385,1,1966,
-159,Ejerlejlighed,"Gladsaxevej 73, 2. th",2860, Søborg,1300000 ,23-02-2003,Alm. Salg,112,11607,4,1946,
 159,Ejerlejlighed,"Maglegårds Alle 57, 2. tv",2860, Søborg,959947 ,23-02-2003,Alm. Salg,60,15999,3,1946,
 159,Ejerlejlighed,"Godtgemt 9, st. tv",2880, Bagsværd,1095000 ,23-02-2003,Alm. Salg,68,16103,3,1965,
 159,Ejerlejlighed,"Bagsværd Hovedgade 77, st. d",2880, Bagsværd,580000 ,23-02-2003,Alm. Salg,50,11600,2,1960,
 159,Ejerlejlighed,"Tinghøjvej 44, 9. 4",2860, Søborg,950000 ,23-02-2003,Alm. Salg,64,14844,2,1963,
 159,Ejerlejlighed,"Pilegårdsvej 32, st. th",2860, Søborg,830000 ,23-02-2003,Alm. Salg,55,15091,2,1966,
 159,Villa,Rugmarken 18,2860, Søborg,1625000 ,23-02-2003,Alm. Salg,278,5845,5,1936,
-159,Villa,Septembervej 76,2860, Søborg,1300000 ,23-02-2003,Alm. Salg,78,16667,3,1941,
 159,Villa,Kildebakkegårds Alle 67,2860, Søborg,3050000 ,23-02-2003,Alm. Salg,172,17733,6,1927,
 159,Villa,Christoffers Alle 63,2800, Kongens Lyngby,2575000 ,23-02-2003,Alm. Salg,146,17637,4,1987,
 159,Villa,Bagsværdvej 195A,2880, Bagsværd,1900000 ,23-02-2003,Alm. Salg,152,12500,5,1955,
@@ -16382,7 +16266,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 159,Rækkehus,Ærtemarken 35B,2860, Søborg,1790000 ,24-09-2002,Alm. Salg,135,13259,4,1949,
 159,Rækkehus,Stengårds Alle 58,2800, Kongens Lyngby,1695000 ,24-09-2002,Alm. Salg,88,19261,5,1955,
 159,Villa,Snogegårdsvej 155,2860, Søborg,1550000 ,24-09-2002,Alm. Salg,158,9810,7,1959,
-159,Villa,Klausdalsbrovej 105,2860, Søborg,1200000 ,24-09-2002,Fam. Salg,177,6780,10,1958,
 159,Rækkehus,Tordisvej 36,2880, Bagsværd,1960000 ,23-09-2002,Alm. Salg,106,18491,4,1958,
 159,Rækkehus,Kildebakkegårds Alle 56B,2860, Søborg,1750000 ,22-09-2002,Alm. Salg,94,18617,4,1981,
 159,Villa,Råvænget 28,2880, Bagsværd,1425000 ,22-09-2002,Alm. Salg,80,17813,4,1958,
@@ -16662,8 +16545,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 159,Villa,Augustvej 9,2860, Søborg,1500000 ,12-06-2002,Alm. Salg,131,11450,5,1956,
 159,Ejerlejlighed,"Bagsværd Hovedgade 99, 8. n",2880, Bagsværd,955000 ,11-06-2002,Alm. Salg,62,15403,2,1966,
 159,Ejerlejlighed,"Søborg Hovedgade 60, 2. 3",2860, Søborg,801000 ,10-06-2002,Alm. Salg,47,17043,1,1959,
-159,Rækkehus,Grævlingestien 19A,2880, Bagsværd,1500000 ,09-06-2002,Alm. Salg,88,17045,5,1952,
-159,Ejerlejlighed,"Bagsværd Hovedgade 83B, 1. th",2880, Bagsværd,1500000 ,09-06-2002,Alm. Salg,95,15789,4,1960,
 159,Ejerlejlighed,"Bagsværd Hovedgade 99, 4. l",2880, Bagsværd,550000 ,09-06-2002,Alm. Salg,38,14474,1,1966,
 159,Ejerlejlighed,"Bagsværd Hovedgade 99, 7. e",2880, Bagsværd,600000 ,09-06-2002,Alm. Salg,38,15789,2,1966,
 159,Ejerlejlighed,"Lauggårds Alle 62B, 1",2860, Søborg,818530 ,09-06-2002,Alm. Salg,45,18190,2,1905,
@@ -16855,8 +16736,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 159,Ejerlejlighed,"Lauggårds Alle 10, 1. th",2860, Søborg,1050000 ,26-03-2002,Alm. Salg,65,16154,3,1946,
 159,Rækkehus,Mosekrogen 33,2860, Søborg,1860000 ,25-03-2002,Alm. Salg,97,19175,5,1943,
 159,Ejerlejlighed,"Buddingevej 180, 1. 108",2860, Søborg,740000 ,25-03-2002,Alm. Salg,46,16087,2,1970,
-159,Ejerlejlighed,Præstebrovej 46,2860, Søborg,1263574 ,25-03-2002,Alm. Salg,109,11592,2,1950,
-159,Ejerlejlighed,Forsvarsvej 2,2860, Søborg,1263574 ,25-03-2002,Alm. Salg,78,16200,4,1950,
 159,Villa,Augustvej 125,2860, Søborg,1799000 ,25-03-2002,Alm. Salg,128,14055,5,1942,
 159,Rækkehus,Fremtidsvej 39,2860, Søborg,1600000 ,24-03-2002,Alm. Salg,97,16495,4,1954,
 159,Rækkehus,Mosevej 57,2860, Søborg,2074865 ,24-03-2002,Alm. Salg,99,20958,5,1943,
@@ -17487,11 +17366,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 159,Ejerlejlighed,"Aldershvilevej 113, 1. 1",2880, Bagsværd,565000 ,08-07-2001,Alm. Salg,37,15270,1,1960,
 159,Ejerlejlighed,"Bagsværd Hovedgade 111, 1. th",2880, Bagsværd,980000 ,08-07-2001,Alm. Salg,63,15556,3,1946,
 159,Ejerlejlighed,"Bagsværdvej 133E, st. th",2800, Kongens Lyngby,1550000 ,08-07-2001,Alm. Salg,96,16146,3,1968,
-159,Ejerlejlighed,"Tinghøjvej 38, 2. mf",2860, Søborg,575000 ,08-07-2001,Alm. Salg,48,11979,1,1965,
 159,Ejerlejlighed,"Tinghøjvej 42, st. 2",2860, Søborg,544000 ,08-07-2001,Alm. Salg,46,11826,1,1963,
 159,Ejerlejlighed,"Bagsværd Hovedgade 99, 6. h",2880, Bagsværd,690000 ,08-07-2001,Alm. Salg,40,17250,1,1966,
 159,Ejerlejlighed,"Bagsværd Hovedgade 77, 1. c",2880, Bagsværd,962019 ,08-07-2001,Alm. Salg,82,11732,2,1960,
-159,Villa,Snogegårdsvej 151,2860, Søborg,575000 ,08-07-2001,Fam. Salg,117,4915,4,1937,
 159,Villa,Bæverstien 5,2880, Bagsværd,1891929 ,08-07-2001,Alm. Salg,135,14014,6,1939,
 159,Villa,Roslev Alle 4,2860, Søborg,1211260 ,08-07-2001,Alm. Salg,116,10442,4,1955,
 159,Rækkehus,Gammelmosevej 317I,2880, Bagsværd,1875000 ,07-07-2001,Alm. Salg,95,19737,4,1987,
@@ -17727,8 +17604,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 159,Ejerlejlighed,"Pilegårdsvej 50, 2. 3",2860, Søborg,470000 ,15-04-2001,Fam. Salg,44,10682,1,1966,
 159,Ejerlejlighed,"Buddingevej 180, 2. 201",2860, Søborg,445000 ,15-04-2001,Alm. Salg,35,12714,1,1970,
 159,Ejerlejlighed,"Bagsværd Hovedgade 196, 2. th",2880, Bagsværd,1045000 ,15-04-2001,Alm. Salg,83,12590,3,1954,
-159,Ejerlejlighed,Præstebrovej 46,2860, Søborg,1257990 ,15-04-2001,Alm. Salg,109,11541,2,1950,
-159,Ejerlejlighed,Forsvarsvej 2,2860, Søborg,1257990 ,15-04-2001,Alm. Salg,78,16128,4,1950,
 159,Ejerlejlighed,"Aldershvilevej 107, st. 3",2880, Bagsværd,680000 ,15-04-2001,Alm. Salg,44,15455,1,1955,
 159,Villa,Knuds Alle 60,2800, Kongens Lyngby,1450000 ,15-04-2001,Alm. Salg,169,8580,6,1961,
 159,Villa,Højgårds Vænge 5,2880, Bagsværd,1392736 ,15-04-2001,Fam. Salg,160,8705,5,1942,
@@ -17815,33 +17690,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 159,Rækkehus,Toftekærsvej 100,2860, Søborg,1540000 ,11-03-2001,Alm. Salg,87,17701,4,1949,
 159,Rækkehus,Septembervej 95,2860, Søborg,1050000 ,11-03-2001,Fam. Salg,98,10714,4,1957,
 159,Ejerlejlighed,"Møllemarken 12, 1. tv",2880, Bagsværd,1075000 ,11-03-2001,Alm. Salg,69,15580,3,1947,
-159,Ejerlejlighed,"Søborg Hovedgade 123, 2. tv",2860, Søborg,1800000 ,11-03-2001,Alm. Salg,108,16667,3,2011,
-159,Ejerlejlighed,"Søborg Hovedgade 127, 4. th",2860, Søborg,1800000 ,11-03-2001,Alm. Salg,110,16364,3,2011,
-159,Ejerlejlighed,"Søborg Hovedgade 127, 4. tv",2860, Søborg,1800000 ,11-03-2001,Alm. Salg,108,16667,3,2011,
-159,Ejerlejlighed,"Søborg Hovedgade 127, 1. th",2860, Søborg,1800000 ,11-03-2001,Alm. Salg,110,16364,3,2011,
-159,Ejerlejlighed,"Søborg Hovedgade 127, 3. tv",2860, Søborg,1800000 ,11-03-2001,Alm. Salg,108,16667,3,2011,
-159,Ejerlejlighed,"Søborg Hovedgade 123, 4. th",2860, Søborg,1800000 ,11-03-2001,Alm. Salg,109,16514,3,2011,
-159,Ejerlejlighed,"Andersen Nexø Vej 3, 4. tv",2860, Søborg,1800000 ,11-03-2001,Alm. Salg,110,16364,3,2011,
-159,Ejerlejlighed,"Søborg Hovedgade 123, 2. th",2860, Søborg,1800000 ,11-03-2001,Alm. Salg,109,16514,3,2011,
-159,Ejerlejlighed,"Andersen Nexø Vej 3, 2. th",2860, Søborg,1800000 ,11-03-2001,Alm. Salg,110,16364,3,2011,
-159,Ejerlejlighed,"Søborg Hovedgade 123, 1. tv",2860, Søborg,1800000 ,11-03-2001,Alm. Salg,108,16667,3,2011,
-159,Ejerlejlighed,"Andersen Nexø Vej 3, 2. mf",2860, Søborg,1800000 ,11-03-2001,Alm. Salg,76,23684,2,2011,
-159,Ejerlejlighed,"Andersen Nexø Vej 3, 3. th",2860, Søborg,1800000 ,11-03-2001,Alm. Salg,110,16364,3,2011,
-159,Ejerlejlighed,"Søborg Hovedgade 127, 3. th",2860, Søborg,1800000 ,11-03-2001,Alm. Salg,110,16364,3,2011,
-159,Ejerlejlighed,"Søborg Hovedgade 127, 1. tv",2860, Søborg,1800000 ,11-03-2001,Alm. Salg,108,16667,3,2011,
-159,Ejerlejlighed,"Søborg Hovedgade 127, 2. tv",2860, Søborg,1800000 ,11-03-2001,Alm. Salg,108,16667,3,2011,
-159,Ejerlejlighed,"Søborg Hovedgade 123, 3. th",2860, Søborg,1800000 ,11-03-2001,Alm. Salg,109,16514,3,2011,
-159,Ejerlejlighed,"Andersen Nexø Vej 3, 1. mf",2860, Søborg,1800000 ,11-03-2001,Alm. Salg,76,23684,2,2011,
-159,Ejerlejlighed,"Søborg Hovedgade 123, 1. th",2860, Søborg,1800000 ,11-03-2001,Alm. Salg,109,16514,3,2011,
-159,Ejerlejlighed,"Andersen Nexø Vej 3, 3. mf",2860, Søborg,1800000 ,11-03-2001,Alm. Salg,76,23684,2,2011,
-159,Ejerlejlighed,"Søborg Hovedgade 123, 3. tv",2860, Søborg,1800000 ,11-03-2001,Alm. Salg,108,16667,3,2011,
-159,Ejerlejlighed,"Andersen Nexø Vej 3, 2. tv",2860, Søborg,1800000 ,11-03-2001,Alm. Salg,125,14400,3,2011,
-159,Ejerlejlighed,"Søborg Hovedgade 127, 2. th",2860, Søborg,1800000 ,11-03-2001,Alm. Salg,110,16364,3,2011,
-159,Ejerlejlighed,"Andersen Nexø Vej 3, 1. tv",2860, Søborg,1800000 ,11-03-2001,Alm. Salg,125,14400,3,2011,
-159,Ejerlejlighed,"Andersen Nexø Vej 3, 1. th",2860, Søborg,1800000 ,11-03-2001,Alm. Salg,110,16364,3,2011,
-159,Ejerlejlighed,"Andersen Nexø Vej 3, 3. tv",2860, Søborg,1800000 ,11-03-2001,Alm. Salg,125,14400,3,2011,
-159,Ejerlejlighed,"Andersen Nexø Vej 3, 4. th",2860, Søborg,1800000 ,11-03-2001,Alm. Salg,110,16364,3,2011,
-159,Ejerlejlighed,"Søborg Hovedgade 123, 4. tv",2860, Søborg,1800000 ,11-03-2001,Alm. Salg,108,16667,3,2011,
 159,Villa,Aprilvej 127,2860, Søborg,1935359 ,11-03-2001,Alm. Salg,141,13726,6,1949,
 159,Villa,Svends Alle 41,2800, Kongens Lyngby,948025 ,09-03-2001,Alm. Salg,93,10194,5,1935,
 159,Ejerlejlighed,"Buddingevej 250, 2. 207",2860, Søborg,695000 ,07-03-2001,Alm. Salg,45,15444,2,1971,
@@ -20383,9 +20231,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 159,Ejerlejlighed,"Kildebakken 51, 2. th",2860, Søborg,199062 ,16-08-1998,Alm. Salg,53,3756,2,1960,
 159,Ejerlejlighed,"Frødings Alle 9A, st. th",2860, Søborg,371937 ,16-08-1998,Alm. Salg,51,7293,2,1942,
 159,Ejerlejlighed,"Søborg Hovedgade 165, st. th",2860, Søborg,961000 ,16-08-1998,Alm. Salg,91,10560,3,1980,
-159,Ejerlejlighed,Præstebrovej 46,2860, Søborg,1074980 ,15-08-1998,Alm. Salg,109,9862,2,1950,
 159,Ejerlejlighed,"Klausdalsbrovej 40, st. tv",2860, Søborg,407000 ,15-08-1998,Alm. Salg,43,9465,2,1943,
-159,Ejerlejlighed,Forsvarsvej 2,2860, Søborg,1074980 ,15-08-1998,Alm. Salg,78,13782,4,1950,
 159,Villa,Christopher Boecks Alle 83,2860, Søborg,1554380 ,15-08-1998,Alm. Salg,111,14003,4,1963,
 159,Villa,Ulvebjerg 6,2880, Bagsværd,2081360 ,15-08-1998,Alm. Salg,123,16922,4,1993,
 159,Rækkehus,Ved Kagså 12,2860, Søborg,1175000 ,14-08-1998,Alm. Salg,98,11990,4,1956,
@@ -22656,8 +22502,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 159,Rækkehus,Nybro Vænge 30,2800, Kongens Lyngby,1204700 ,08-05-1996,Alm. Salg,92,13095,4,1957,
 159,Ejerlejlighed,"Bagsværd Hovedgade 116B, 6. a",2880, Bagsværd,399000 ,08-05-1996,Alm. Salg,67,5955,2,1969,
 159,Ejerlejlighed,"Maglegårds Alle 59, st. tv",2860, Søborg,457473 ,08-05-1996,Alm. Salg,64,7148,3,1946,
-159,Ejerlejlighed,Præstebrovej 46,2860, Søborg,694200 ,08-05-1996,Alm. Salg,109,6369,2,1950,
-159,Ejerlejlighed,Forsvarsvej 2,2860, Søborg,694200 ,08-05-1996,Alm. Salg,78,8900,4,1950,
 159,Villa,Onsbjerg Alle 6,2860, Søborg,760830 ,08-05-1996,Alm. Salg,110,6917,5,1935,
 159,Rækkehus,Christoffers Alle 136,2800, Kongens Lyngby,804000 ,07-05-1996,Fam. Salg,99,8121,4,1952,
 159,Villa,Kildebakkegårds Alle 67,2860, Søborg,1266710 ,07-05-1996,Alm. Salg,172,7365,6,1927,
@@ -23979,8 +23823,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 159,Ejerlejlighed,"Buddingevej 260, st. e",2860, Søborg,189844 ,09-10-1994,Alm. Salg,36,5273,1,1961,
 159,Ejerlejlighed,"Aldershvilevej 121B, st. tv",2880, Bagsværd,374894 ,09-10-1994,Alm. Salg,55,6816,2,1964,
 159,Ejerlejlighed,"Lauggårds Alle 10, 1. tv",2860, Søborg,533000 ,09-10-1994,Alm. Salg,76,7013,3,1946,
-159,Ejerlejlighed,"Vadholm 4, 1. tv",2800, Kongens Lyngby,100000 ,09-10-1994,Alm. Salg,43,2326,2,1943,
-159,Ejerlejlighed,"Christoffers Alle 66, 1. 4",2800, Kongens Lyngby,100000 ,09-10-1994,Alm. Salg,41,2439,2,1943,
 159,Villa,Bagsværdvej 249,2880, Bagsværd,1370000 ,09-10-1994,Alm. Salg,168,8155,5,1969,
 159,Villa,Kongshvilebakken 38,2800, Kongens Lyngby,1686502 ,09-10-1994,Alm. Salg,276,6111,4,2021,
 159,Villa,Langemosevej 19,2880, Bagsværd,831000 ,09-10-1994,Alm. Salg,93,8935,3,1951,
@@ -23988,33 +23830,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 159,Villa,Gladsaxe Møllevej 145,2860, Søborg,579729 ,09-10-1994,Alm. Salg,77,7529,3,1935,
 159,Rækkehus,Engkrogen 28,2860, Søborg,864250 ,08-10-1994,Alm. Salg,104,8310,4,1948,
 159,Villa,Klintemarken 26,2860, Søborg,975000 ,08-10-1994,Alm. Salg,199,4899,6,1949,
-159,Ejerlejlighed,"Søborg Hovedgade 123, 2. tv",2860, Søborg,1042000 ,05-10-1994,Alm. Salg,108,9648,3,2011,
-159,Ejerlejlighed,"Søborg Hovedgade 127, 4. th",2860, Søborg,1042000 ,05-10-1994,Alm. Salg,110,9473,3,2011,
-159,Ejerlejlighed,"Søborg Hovedgade 127, 4. tv",2860, Søborg,1042000 ,05-10-1994,Alm. Salg,108,9648,3,2011,
-159,Ejerlejlighed,"Søborg Hovedgade 127, 1. th",2860, Søborg,1042000 ,05-10-1994,Alm. Salg,110,9473,3,2011,
-159,Ejerlejlighed,"Søborg Hovedgade 127, 3. tv",2860, Søborg,1042000 ,05-10-1994,Alm. Salg,108,9648,3,2011,
-159,Ejerlejlighed,"Søborg Hovedgade 123, 4. th",2860, Søborg,1042000 ,05-10-1994,Alm. Salg,109,9560,3,2011,
-159,Ejerlejlighed,"Andersen Nexø Vej 3, 4. tv",2860, Søborg,1042000 ,05-10-1994,Alm. Salg,110,9473,3,2011,
-159,Ejerlejlighed,"Søborg Hovedgade 123, 2. th",2860, Søborg,1042000 ,05-10-1994,Alm. Salg,109,9560,3,2011,
-159,Ejerlejlighed,"Andersen Nexø Vej 3, 2. th",2860, Søborg,1042000 ,05-10-1994,Alm. Salg,110,9473,3,2011,
-159,Ejerlejlighed,"Søborg Hovedgade 123, 1. tv",2860, Søborg,1042000 ,05-10-1994,Alm. Salg,108,9648,3,2011,
-159,Ejerlejlighed,"Andersen Nexø Vej 3, 2. mf",2860, Søborg,1042000 ,05-10-1994,Alm. Salg,76,13711,2,2011,
-159,Ejerlejlighed,"Andersen Nexø Vej 3, 3. th",2860, Søborg,1042000 ,05-10-1994,Alm. Salg,110,9473,3,2011,
-159,Ejerlejlighed,"Søborg Hovedgade 127, 3. th",2860, Søborg,1042000 ,05-10-1994,Alm. Salg,110,9473,3,2011,
-159,Ejerlejlighed,"Søborg Hovedgade 127, 1. tv",2860, Søborg,1042000 ,05-10-1994,Alm. Salg,108,9648,3,2011,
-159,Ejerlejlighed,"Søborg Hovedgade 127, 2. tv",2860, Søborg,1042000 ,05-10-1994,Alm. Salg,108,9648,3,2011,
-159,Ejerlejlighed,"Søborg Hovedgade 123, 3. th",2860, Søborg,1042000 ,05-10-1994,Alm. Salg,109,9560,3,2011,
-159,Ejerlejlighed,"Andersen Nexø Vej 3, 1. mf",2860, Søborg,1042000 ,05-10-1994,Alm. Salg,76,13711,2,2011,
-159,Ejerlejlighed,"Søborg Hovedgade 123, 1. th",2860, Søborg,1042000 ,05-10-1994,Alm. Salg,109,9560,3,2011,
-159,Ejerlejlighed,"Andersen Nexø Vej 3, 3. mf",2860, Søborg,1042000 ,05-10-1994,Alm. Salg,76,13711,2,2011,
-159,Ejerlejlighed,"Søborg Hovedgade 123, 3. tv",2860, Søborg,1042000 ,05-10-1994,Alm. Salg,108,9648,3,2011,
-159,Ejerlejlighed,"Andersen Nexø Vej 3, 2. tv",2860, Søborg,1042000 ,05-10-1994,Alm. Salg,125,8336,3,2011,
-159,Ejerlejlighed,"Søborg Hovedgade 127, 2. th",2860, Søborg,1042000 ,05-10-1994,Alm. Salg,110,9473,3,2011,
-159,Ejerlejlighed,"Andersen Nexø Vej 3, 1. tv",2860, Søborg,1042000 ,05-10-1994,Alm. Salg,125,8336,3,2011,
-159,Ejerlejlighed,"Andersen Nexø Vej 3, 1. th",2860, Søborg,1042000 ,05-10-1994,Alm. Salg,110,9473,3,2011,
-159,Ejerlejlighed,"Andersen Nexø Vej 3, 3. tv",2860, Søborg,1042000 ,05-10-1994,Alm. Salg,125,8336,3,2011,
-159,Ejerlejlighed,"Andersen Nexø Vej 3, 4. th",2860, Søborg,1042000 ,05-10-1994,Alm. Salg,110,9473,3,2011,
-159,Ejerlejlighed,"Søborg Hovedgade 123, 4. tv",2860, Søborg,1042000 ,05-10-1994,Alm. Salg,108,9648,3,2011,
 159,Villa,Selma Lagerløfs Alle 40,2860, Søborg,967264 ,05-10-1994,Alm. Salg,116,8338,4,1914,
 159,Villa,Vilhelm Bergsøes Alle 22B,2860, Søborg,537060 ,04-10-1994,Alm. Salg,114,4711,5,1911,
 159,Rækkehus,Toftekærsvej 135,2860, Søborg,945000 ,03-10-1994,Alm. Salg,98,9643,5,1949,
@@ -24632,21 +24447,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 159,Villa,Hanehøj 36,2880, Bagsværd,1277000 ,01-02-1994,Alm. Salg,110,11609,4,1994,
 159,Villa,Rensdyrvej 10,2860, Søborg,910000 ,31-01-1994,Alm. Salg,102,8922,5,1956,
 159,Rækkehus,Buddinge Hovedgade 228A,2880, Bagsværd,740000 ,30-01-1994,Alm. Salg,86,8605,4,1987,
-159,Ejerlejlighed,"Gladsaxevej 109, st. tv",2860, Søborg,1150000 ,30-01-1994,Alm. Salg,52,22115,1,1961,
-159,Ejerlejlighed,"Gladsaxevej 109, 1. th",2860, Søborg,1150000 ,30-01-1994,Alm. Salg,44,26136,1,1961,
-159,Ejerlejlighed,"Gladsaxevej 109, 1. tv",2860, Søborg,1150000 ,30-01-1994,Alm. Salg,52,22115,1,1961,
-159,Ejerlejlighed,"Gladsaxevej 109, 2. th",2860, Søborg,1150000 ,30-01-1994,Alm. Salg,44,26136,1,1961,
-159,Ejerlejlighed,"Gladsaxevej 109, 2. tv",2860, Søborg,1150000 ,30-01-1994,Alm. Salg,52,22115,1,1961,
-159,Ejerlejlighed,"Uranienborg Alle 1, st. th",2860, Søborg,1150000 ,30-01-1994,Alm. Salg,52,22115,1,1961,
 159,Ejerlejlighed,"Godtgemt 9, st. th",2880, Bagsværd,439750 ,30-01-1994,Alm. Salg,69,6373,3,1965,
-159,Ejerlejlighed,"Uranienborg Alle 1, 1. tv",2860, Søborg,1150000 ,30-01-1994,Alm. Salg,41,28049,1,1961,
-159,Ejerlejlighed,"Uranienborg Alle 1, 1. th",2860, Søborg,1150000 ,30-01-1994,Alm. Salg,52,22115,1,1961,
-159,Ejerlejlighed,"Uranienborg Alle 1, 2. th",2860, Søborg,1150000 ,30-01-1994,Alm. Salg,52,22115,1,1961,
-159,Ejerlejlighed,"Uranienborg Alle 1, 2. tv",2860, Søborg,1150000 ,30-01-1994,Alm. Salg,41,28049,1,1961,
 159,Ejerlejlighed,"Aldershvilevej 121B, 1. th",2880, Bagsværd,505000 ,30-01-1994,Alm. Salg,90,5611,4,1964,
 159,Ejerlejlighed,"Buddinge Hovedgade 226, 2. th",2880, Bagsværd,333000 ,30-01-1994,Alm. Salg,58,5741,2,1946,
-159,Ejerlejlighed,"Gladsaxevej 109, 3. tv",2860, Søborg,1150000 ,30-01-1994,Alm. Salg,48,23958,1,1961,
-159,Ejerlejlighed,"Gladsaxevej 109, 3. th",2860, Søborg,1150000 ,30-01-1994,Alm. Salg,74,15541,2,1961,
 159,Ejerlejlighed,"Tinghøjvej 46, 1. 3",2860, Søborg,229000 ,30-01-1994,Alm. Salg,46,4978,1,1963,
 159,Villa,Grævlingestien 6,2880, Bagsværd,680000 ,30-01-1994,Alm. Salg,167,4072,6,1934,
 159,Villa,Krogmosevej 27,2880, Bagsværd,1625000 ,30-01-1994,Alm. Salg,168,9673,5,1979,
@@ -24746,13 +24549,11 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 159,Ejerlejlighed,"Kiplings Alle 1, 2. tv",2860, Søborg,415000 ,12-12-1993,Alm. Salg,67,6194,3,1932,
 159,Ejerlejlighed,"Søborg Hovedgade 137A, 2. tv",2860, Søborg,385000 ,12-12-1993,Alm. Salg,60,6417,2,1939,
 159,Ejerlejlighed,"Godtgemt 21, st. th",2880, Bagsværd,377000 ,12-12-1993,Alm. Salg,65,5800,3,1955,
-159,Ejerlejlighed,"Vadbro 4, 2. tv",2860, Søborg,510000 ,12-12-1993,Alm. Salg,97,5258,4,1950,
 159,Villa,Einarsvej 9B,2800, Kongens Lyngby,1072000 ,12-12-1993,Alm. Salg,182,5890,5,2016,
 159,Villa,Marsk Stigs Alle 9,2880, Bagsværd,849000 ,12-12-1993,Alm. Salg,131,6481,4,1924,
 159,Villa,Holmevej 29,2860, Søborg,1080297 ,12-12-1993,Alm. Salg,116,9313,4,1926,
 159,Villa,Højvangen 28,2860, Søborg,758506 ,12-12-1993,Alm. Salg,101,7510,3,1924,
 159,Villa,Skovsøen 20,2880, Bagsværd,623179 ,12-12-1993,Fam. Salg,178,3501,6,1970,
-159,Villa,Onsbjerg Alle 6,2860, Søborg,510000 ,12-12-1993,Alm. Salg,110,4636,5,1935,
 159,Villa,Gorkis Alle 18,2860, Søborg,1302741 ,12-12-1993,Alm. Salg,116,11231,4,1962,
 159,Villa,Tværledet 16,2880, Bagsværd,921000 ,12-12-1993,Alm. Salg,156,5904,5,1953,
 159,Rækkehus,Rugmarken 83,2860, Søborg,840000 ,11-12-1993,Alm. Salg,110,7636,5,1956,
@@ -24807,12 +24608,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 159,Ejerlejlighed,"Niels Finsens Alle 100, 2. e",2860, Søborg,400000 ,31-10-1993,Alm. Salg,68,5882,2,1970,
 159,Ejerlejlighed,"Godtgemt 5, st. d",2880, Bagsværd,274000 ,31-10-1993,Alm. Salg,43,6372,1,1964,
 159,Ejerlejlighed,"Aldershvilevej 100, 1. g",2880, Bagsværd,795367 ,31-10-1993,Alm. Salg,117,6798,4,1973,
-159,Ejerlejlighed,Præstebrovej 46,2860, Søborg,567048 ,31-10-1993,Alm. Salg,109,5202,2,1950,
 159,Ejerlejlighed,"Tinghøjvej 42, 4. 4",2860, Søborg,440000 ,31-10-1993,Alm. Salg,87,5057,2,1963,
 159,Ejerlejlighed,"Klausdalsbrovej 38, st. tv",2860, Søborg,183920 ,31-10-1993,Alm. Salg,43,4277,2,1943,
 159,Ejerlejlighed,"Bagsværd Hovedgade 99, 12. a",2880, Bagsværd,310000 ,31-10-1993,Fam. Salg,40,7750,1,1966,
 159,Ejerlejlighed,"Christianehøj 88, 1. th",2860, Søborg,310000 ,31-10-1993,Alm. Salg,44,7045,2,1940,
-159,Ejerlejlighed,Forsvarsvej 2,2860, Søborg,567048 ,31-10-1993,Alm. Salg,78,7270,4,1950,
 159,Villa,Runebergs Alle 7,2860, Søborg,301408 ,31-10-1993,Fam. Salg,161,1872,4,1916,
 159,Villa,Skjulet 7,2880, Bagsværd,1300000 ,31-10-1993,Alm. Salg,138,9420,5,1967,
 159,Rækkehus,Gedvad 17,2800, Kongens Lyngby,740000 ,30-10-1993,Alm. Salg,102,7255,5,1956,
@@ -26173,8 +25972,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 159,Villa,Aldershvilevej 51,2880, Bagsværd,342729 ,16-01-1992,Andet,108,3173,4,1951,
 159,Ejerlejlighed,"Lauggårds Alle 16, 2. tv",2860, Søborg,435000 ,15-01-1992,Alm. Salg,64,6797,2,1946,
 159,Rækkehus,Louisehøj 15,2880, Bagsværd,815000 ,13-01-1992,Alm. Salg,98,8316,4,1954,
-159,Ejerlejlighed,"Buddingevej 260, st. k",2860, Søborg,275000 ,13-01-1992,Alm. Salg,36,7639,1,1961,
-159,Ejerlejlighed,"Pilegårdsvej 58, st. 1",2860, Søborg,275000 ,13-01-1992,Alm. Salg,41,6707,1,1966,
 159,Villa,Ærtemarken 92,2860, Søborg,810000 ,13-01-1992,Alm. Salg,85,9529,4,1938,
 159,Rækkehus,Nybro Vænge 63,2800, Kongens Lyngby,432139 ,12-01-1992,Fam. Salg,89,4855,4,1957,
 159,Villa,Skovdiget 155,2880, Bagsværd,1150000 ,12-01-1992,Alm. Salg,147,7823,4,1964,

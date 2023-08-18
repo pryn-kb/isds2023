@@ -246,7 +246,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 350,Villa,Karlebyvej 19,4070, Kirke Hyllinge,2165000 ,29-03-2022,Alm. Salg,120,18042,4,1947,-6%
 350,Villa,Bausager 8,4000, Roskilde,3395000 ,29-03-2022,Alm. Salg,121,28058,4,1968,
 350,Villa,Bigårdsvej 1,4070, Kirke Hyllinge,3425000 ,28-03-2022,Alm. Salg,191,17932,5,1978,4%
-350,Villa,Kirkebakken 2,4320, Lejre,4500000 ,28-03-2022,Alm. Salg,159,28302,6,1965,-10%
 350,Rækkehus,Østager 11,4070, Kirke Hyllinge,3195000 ,26-03-2022,Alm. Salg,136,23493,5,2022,
 350,Villa,Møllebjergvej 20,4330, Hvalsø,4973000 ,26-03-2022,Alm. Salg,249,19972,5,2001,
 350,Villa,Tranevej 8,4070, Kirke Hyllinge,2685000 ,24-03-2022,Alm. Salg,120,22375,4,1978,8%
@@ -272,7 +271,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 350,Villa,Trebiens Alle 42,4330, Hvalsø,1900000 ,09-03-2022,Alm. Salg,179,10615,3,2023,
 350,Villa,Ingridsvej 4,4070, Kirke Hyllinge,2270000 ,07-03-2022,Alm. Salg,114,19912,4,1973,1%
 350,Villa,Gammel Skolevej 3,4070, Kirke Hyllinge,1650000 ,06-03-2022,Alm. Salg,122,13525,4,1972,-5%
-350,Villa,Møllerjorden 50,4320, Lejre,4500000 ,05-03-2022,Alm. Salg,159,28302,5,1988,-3%
 350,Villa,Liljevej 3,4330, Hvalsø,1500000 ,03-03-2022,Alm. Salg,165,9091,5,1974,-6%
 350,Villa,Engtoften 31,4320, Lejre,2585000 ,02-03-2022,Alm. Salg,113,22876,6,1969,-4%
 350,Villa,Ejby Strandvej 14,4070, Kirke Hyllinge,2890000 ,02-03-2022,Alm. Salg,168,17202,5,1969,-2%
@@ -1014,7 +1012,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 350,Villa,Bygaden 44,4070, Kirke Hyllinge,1560000 ,27-10-2020,Alm. Salg,114,13684,3,1930,-2%
 350,Villa,Hyllingeparken 13,4070, Kirke Hyllinge,2595001 ,27-10-2020,Alm. Salg,155,16742,5,1976,0%
 350,Villa,Højagervej 4,4070, Kirke Hyllinge,2195000 ,27-10-2020,Alm. Salg,137,16022,5,1985,
-350,Villa,Herslev Bygade 19,4000, Roskilde,4600000 ,26-10-2020,Alm. Salg,189,24339,4,1770,
 350,Villa,Lindenborgvej 127,4000, Roskilde,1925000 ,26-10-2020,Alm. Salg,95,20263,4,1939,-3%
 350,Villa,Byvejen 54,4320, Lejre,1949000 ,26-10-2020,Alm. Salg,119,16378,5,1962,
 350,Villa,Højby Kærvej 1,4320, Lejre,2080000 ,25-10-2020,Alm. Salg,208,10000,6,2018,
@@ -1163,7 +1160,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 350,Villa,Rugvangen 13,4060, Kirke Såby,2600000 ,26-07-2020,Alm. Salg,191,13613,5,1976,-3%
 350,Villa,Bigårdsvej 10,4070, Kirke Hyllinge,2295000 ,24-07-2020,Alm. Salg,179,12821,5,1973,
 350,Villa,Tranemosevej 4,4070, Kirke Hyllinge,2100000 ,22-07-2020,Alm. Salg,163,12883,5,1939,-4%
-350,Villa,Klostergårdsvej 17,4000, Roskilde,4295000 ,21-07-2020,Alm. Salg,308,13945,7,1900,-4%
 350,Villa,Mosevej 3,4070, Kirke Hyllinge,1825000 ,20-07-2020,Alm. Salg,145,12586,5,1964,
 350,Villa,Løvstikkevej 6,4330, Hvalsø,1595000 ,20-07-2020,Alm. Salg,177,9011,6,2021,
 350,Villa,Hovedvejen 168B,4320, Lejre,1750000 ,18-07-2020,Alm. Salg,182,9615,4,1900,
@@ -1548,10 +1544,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 350,Villa,Hyldevænget 14,4060, Kirke Såby,1395000 ,24-09-2019,Alm. Salg,108,12917,4,1985,
 350,Villa,Ved Fjorden 16,4070, Kirke Hyllinge,1400000 ,22-09-2019,Alm. Salg,156,8974,5,1977,
 350,Villa,Vinkelvej 14,4070, Kirke Hyllinge,1650000 ,22-09-2019,Alm. Salg,129,12791,6,1971,-3%
-350,Rækkehus,Lejrevej 15B. 1,4320, Lejre,3057374 ,20-09-2019,Alm. Salg,108,28309,4,2020,
 350,Villa,Kærvej 22,4070, Kirke Hyllinge,400000 ,19-09-2019,Alm. Salg,173,2312,4,2021,
 350,Villa,Anders Rasmussensvej 3,4070, Kirke Hyllinge,1075000 ,19-09-2019,Alm. Salg,132,8144,4,1972,
-350,Villa,Vinkelvej 5,4320, Lejre,2775000 ,17-09-2019,Alm. Salg,98,28316,3,1920,
 350,Villa,Solvænget 1,4330, Hvalsø,1133000 ,16-09-2019,Auktion,147,7707,5,1925,
 350,Villa,Ejbyvej 5,4060, Kirke Såby,1416500 ,16-09-2019,Fam. Salg,195,7264,6,2007,
 350,Villa,Munkedammen 6,4320, Lejre,3500000 ,15-09-2019,Alm. Salg,129,27132,6,1966,
@@ -1845,7 +1839,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 350,Villa,Valnøddevej 12,4070, Kirke Hyllinge,3495000 ,30-01-2019,Alm. Salg,220,15886,6,2006,
 350,Villa,Gårdager 5,4070, Kirke Hyllinge,480000 ,30-01-2019,Alm. Salg,183,2623,5,2020,-3%
 350,Villa,Gevninge Bygade 60,4000, Roskilde,2285000 ,29-01-2019,Alm. Salg,127,17992,4,1827,-4%
-350,Villa,Hovedgaden 14B,4330, Hvalsø,3300000 ,27-01-2019,Alm. Salg,148,22297,5,1930,
 350,Villa,Avlsmosevænget 18,4330, Hvalsø,1219107 ,27-01-2019,Alm. Salg,202,6035,7,1976,-54%
 350,Villa,Holmegårdsvej 14,4320, Lejre,1950000 ,27-01-2019,Fam. Salg,154,12662,5,1972,
 350,Villa,Bygmarken 104,4060, Kirke Såby,2200000 ,27-01-2019,Alm. Salg,168,13095,5,1996,-6%
@@ -2205,9 +2198,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 350,Villa,Kornblomstvej 2,4070, Kirke Hyllinge,1950000 ,23-04-2018,Auktion,157,12420,5,2000,-25%
 350,Villa,Agervang 26,4070, Kirke Hyllinge,3995000 ,23-04-2018,Alm. Salg,220,18159,6,1967,
 350,Villa,Skovbrinken 21,4060, Kirke Såby,1555000 ,23-04-2018,Alm. Salg,150,10367,5,1973,1%
-350,Rækkehus,Smedekildevej 32,4320, Lejre,2445000 ,22-04-2018,Alm. Salg,88,27784,1,2019,
 350,Villa,Grønager 27,4000, Roskilde,2420000 ,22-04-2018,Alm. Salg,194,12474,6,1969,-3%
-350,Villa,Lejrevej 82,4320, Lejre,2445000 ,22-04-2018,Alm. Salg,141,17340,4,1980,
 350,Villa,Aggerupvej 6A,4330, Hvalsø,3595000 ,21-04-2018,Alm. Salg,195,18436,5,2006,
 350,Villa,Svenningsvej 2,4070, Kirke Hyllinge,2245000 ,21-04-2018,Alm. Salg,125,17960,3,1977,-2%
 350,Rækkehus,Tvethøjvej 43,4320, Lejre,2730000 ,17-04-2018,Alm. Salg,99,27576,5,2019,
@@ -2434,8 +2425,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 350,Villa,Lindevej 2,4330, Hvalsø,1830000 ,09-11-2017,Alm. Salg,98,18673,3,1958,-2%
 350,Villa,Ternevænget 11,4060, Kirke Såby,2000000 ,07-11-2017,Alm. Salg,124,16129,4,1976,-5%
 350,Villa,Kjærgårds Vænge 71,4330, Hvalsø,900000 ,06-11-2017,Alm. Salg,166,5422,5,2018,
-350,Rækkehus,Klostergårdsvej 17A,4000, Roskilde,2200000 ,05-11-2017,Fam. Salg,148,14865,4,1900,
-350,Villa,Klostergårdsvej 17,4000, Roskilde,2200000 ,05-11-2017,Fam. Salg,308,7143,7,1900,
 350,Villa,Skolemarken 4,4320, Lejre,1730000 ,05-11-2017,Alm. Salg,155,11161,5,2019,-57%
 350,Villa,Lyndbyparken 12,4070, Kirke Hyllinge,2450000 ,02-11-2017,Alm. Salg,135,18148,4,1983,
 350,Villa,Valdemarsgård 2,4320, Lejre,1475000 ,02-11-2017,Alm. Salg,149,9899,5,2019,
@@ -2581,7 +2570,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 350,Villa,Kattingevej 12,4000, Roskilde,3300000 ,07-08-2017,Alm. Salg,170,19412,5,1917,
 350,Villa,Bovelgårdsvej 23,4070, Kirke Hyllinge,2000000 ,06-08-2017,Alm. Salg,166,12048,5,1978,0%
 350,Villa,Gøderup Mosevej 4,4000, Roskilde,340000 ,06-08-2017,Alm. Salg,229,1485,9,2018,
-350,Villa,Valdemarsgård 28,4320, Lejre,1550000 ,03-08-2017,Alm. Salg,166,9337,5,2018,
 350,Villa,Taaftegaards Vænge 6,4070, Kirke Hyllinge,3575000 ,02-08-2017,Alm. Salg,169,21154,4,2004,
 350,Rækkehus,Oldvejsparken 64,4000, Roskilde,1595000 ,01-08-2017,Alm. Salg,84,18988,3,1974,-3%
 350,Villa,Højby Kærvej 1,4320, Lejre,2000000 ,01-08-2017,Alm. Salg,208,9615,6,2018,
@@ -3059,7 +3047,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 350,Villa,Enebærhaven 20,4330, Hvalsø,1920000 ,01-06-2016,Alm. Salg,96,20000,3,2001,-4%
 350,Villa,Rolighedsvej 5,4320, Lejre,2997000 ,01-06-2016,Alm. Salg,136,22037,5,1930,0%
 350,Villa,Bybrønden 6,4070, Kirke Hyllinge,1475000 ,01-06-2016,Alm. Salg,108,13657,4,1827,
-350,Ejerlejlighed,"Søvej 22B, 1",4330, Hvalsø,2050000 ,31-05-2016,Alm. Salg,110,18636,4,1900,
 350,Villa,Lorentzensvej 10,4070, Kirke Hyllinge,900000 ,31-05-2016,Alm. Salg,133,6767,4,1976,
 350,Villa,Hovedvejen 21,4000, Roskilde,600000 ,31-05-2016,Alm. Salg,97,6186,3,1948,
 350,Villa,Kattinge Bygade 18,4000, Roskilde,1920000 ,31-05-2016,Alm. Salg,119,16134,4,1894,
@@ -3163,7 +3150,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 350,Rækkehus,Oldvejsparken 150,4000, Roskilde,1800000 ,10-03-2016,Alm. Salg,113,15929,4,1974,-5%
 350,Villa,Åkandevej 31,4330, Hvalsø,737500 ,10-03-2016,Alm. Salg,168,4390,6,1961,
 350,Villa,Toftevej 8,4000, Roskilde,1800000 ,09-03-2016,Alm. Salg,116,15517,4,1965,-8%
-350,Villa,Hovedgaden 14B,4330, Hvalsø,2000000 ,08-03-2016,Andet,148,13514,5,1930,
 350,Villa,Baldersvej 3B,4060, Kirke Såby,1400000 ,08-03-2016,Alm. Salg,153,9150,4,1950,-6%
 350,Villa,Lertoften 12,4000, Roskilde,3140000 ,07-03-2016,Alm. Salg,146,21507,6,2005,-1%
 350,Rækkehus,Hyldebjerg 40,4330, Hvalsø,1450000 ,06-03-2016,Alm. Salg,131,11069,3,1974,
@@ -3796,7 +3782,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 350,Villa,Biltris Gade 30,4070, Kirke Hyllinge,1120000 ,05-05-2014,Alm. Salg,147,7619,3,1971,-6%
 350,Villa,Smedevej 21A,4070, Kirke Hyllinge,1215000 ,03-05-2014,Alm. Salg,94,12926,3,1990,-6%
 350,Villa,Landevejen 49,4060, Kirke Såby,450000 ,01-05-2014,Andet,100,4500,2,1940,
-350,Villa,Ejby Strandvej 4A,4070, Kirke Hyllinge,950000 ,30-04-2014,Auktion,70,13571,3,1978,
 350,Villa,Baunemosen 2,4320, Lejre,450000 ,30-04-2014,Alm. Salg,188,2394,4,2016,
 350,Villa,Hegnet 15,4330, Hvalsø,1475000 ,29-04-2014,Alm. Salg,141,10461,5,1974,-3%
 350,Villa,Brotoften 19,4320, Lejre,900000 ,28-04-2014,Andet,121,7438,4,1962,
@@ -4063,7 +4048,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 350,Villa,Byager 2,4330, Hvalsø,1150000 ,13-05-2013,Alm. Salg,122,9426,5,1962,-4%
 350,Villa,Holbækvej 25,4330, Hvalsø,777821 ,12-05-2013,Fam. Salg,108,7202,5,1942,
 350,Rækkehus,Hyldebjerg 52,4330, Hvalsø,1100000 ,11-05-2013,Fam. Salg,131,8397,5,1974,
-350,Villa,Hovedgaden 32,4330, Hvalsø,1970000 ,06-05-2013,Auktion,89,22135,1,1993,
 350,Rækkehus,Hyldebjerg 75,4330, Hvalsø,1400000 ,05-05-2013,Alm. Salg,81,17284,2,2001,-2%
 350,Villa,Baunemosen 9,4320, Lejre,2400000 ,05-05-2013,Alm. Salg,160,15000,6,2008,-8%
 350,Villa,Engtoften 11,4320, Lejre,1550000 ,04-05-2013,Alm. Salg,162,9568,6,1966,-6%
@@ -4427,7 +4411,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 350,Villa,Møllerjorden 47,4320, Lejre,2900000 ,01-11-2011,Alm. Salg,161,18012,5,1988,-8%
 350,Villa,Tølløsevej 7,4330, Hvalsø,1850000 ,30-10-2011,Alm. Salg,186,9946,5,1927,-7%
 350,Villa,Hyllingeparken 21,4070, Kirke Hyllinge,2100000 ,25-10-2011,Alm. Salg,161,13043,5,1976,-8%
-350,Villa,Herslev Bygade 19,4000, Roskilde,4100000 ,24-10-2011,Auktion,189,21693,4,1770,
 350,Villa,Østergade 7,4070, Kirke Hyllinge,1325000 ,24-10-2011,Auktion,153,8660,3,1847,-8%
 350,Villa,Nørregårdsvej 15,4320, Lejre,1625000 ,23-10-2011,Alm. Salg,148,10980,4,1971,-9%
 350,Villa,Ejby Strandvej 14,4070, Kirke Hyllinge,1100000 ,20-10-2011,Alm. Salg,168,6548,5,1969,-26%
@@ -4767,7 +4750,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 350,Villa,Slåenhaven 7,4330, Hvalsø,2380000 ,12-07-2010,Fam. Salg,186,12796,5,2008,
 350,Villa,Slåenhaven 9,4330, Hvalsø,2465000 ,12-07-2010,Fam. Salg,161,15311,5,2008,
 350,Villa,Baunehøj 34,4320, Lejre,1125000 ,11-07-2010,Alm. Salg,126,8929,4,1976,-34%
-350,Villa,Byager 11C,4330, Hvalsø,3331250 ,07-07-2010,Alm. Salg,150,22208,3,1900,-1%
 350,Villa,Hortenziavej 12,4330, Hvalsø,1525000 ,04-07-2010,Alm. Salg,118,12924,4,1974,-1%
 350,Villa,Irisvej 11,4070, Kirke Hyllinge,2025000 ,04-07-2010,Alm. Salg,128,15820,4,1989,-2%
 350,Villa,Højdevej 22,4070, Kirke Hyllinge,650000 ,04-07-2010,Fam. Salg,127,4710,5,1969,
@@ -4941,7 +4923,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 350,Rækkehus,Maglehøjen 12,4320, Lejre,2075000 ,29-11-2009,Alm. Salg,127,16339,4,1979,-10%
 350,Villa,Lertoften 24,4000, Roskilde,3700000 ,28-11-2009,Alm. Salg,177,20904,5,2006,-7%
 350,Villa,Roskildevej 22,4330, Hvalsø,960000 ,24-11-2009,Alm. Salg,99,9697,3,1957,-4%
-350,Villa,Hovedgaden 14B,4330, Hvalsø,3995000 ,23-11-2009,Alm. Salg,148,26993,5,1930,
 350,Villa,Langetoften 15,4320, Lejre,1050000 ,22-11-2009,Alm. Salg,144,7292,3,1961,-19%
 350,Villa,Fjordager 48,4000, Roskilde,2850000 ,21-11-2009,Alm. Salg,157,18153,6,2007,-5%
 350,Villa,Gershøj Havnevej 4,4070, Kirke Hyllinge,890000 ,19-11-2009,Auktion,122,7295,4,1825,-51%
@@ -5004,8 +4985,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 350,Villa,Karlebyvej 64,4070, Kirke Hyllinge,1650000 ,03-09-2009,Alm. Salg,188,8777,4,1827,-8%
 350,Villa,Holmegårdsvej 15,4320, Lejre,1700000 ,02-09-2009,Alm. Salg,135,12593,4,1973,-12%
 350,Rækkehus,Gyvelvej 11,4070, Kirke Hyllinge,1200000 ,30-08-2009,Alm. Salg,95,12632,5,1985,-13%
-350,Rækkehus,Brombærhaven 14,4070, Kirke Hyllinge,1600000 ,30-08-2009,Alm. Salg,92,17391,3,2006,-8%
-350,Villa,Hyllingeparken 15B,4070, Kirke Hyllinge,1600000 ,30-08-2009,Alm. Salg,180,8889,5,1980,-11%
 350,Villa,Baldersvej 1,4060, Kirke Såby,995000 ,30-08-2009,Alm. Salg,110,9045,3,1957,
 350,Villa,Snebærvej 8,4060, Kirke Såby,1725000 ,30-08-2009,Alm. Salg,150,11500,4,1976,-4%
 350,Villa,Svinget 3A,4000, Roskilde,2134762 ,29-08-2009,Alm. Salg,180,11860,6,1986,
@@ -5065,7 +5044,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 350,Villa,Ejby Strandvej 35,4070, Kirke Hyllinge,1935000 ,19-06-2009,Alm. Salg,168,11518,6,1850,-3%
 350,Villa,Bovelgårdsvej 7,4070, Kirke Hyllinge,1650000 ,18-06-2009,Alm. Salg,136,12132,4,1974,-8%
 350,Rækkehus,Kornvænget 43,4320, Lejre,1995000 ,17-06-2009,Alm. Salg,131,15229,4,2008,
-350,Villa,Hovedgaden 14B,4330, Hvalsø,2100000 ,17-06-2009,Alm. Salg,148,14189,5,1930,
 350,Villa,Kampevej 9,4330, Hvalsø,2350000 ,14-06-2009,Alm. Salg,226,10398,7,1969,-6%
 350,Villa,Hovedvejen 130,4320, Lejre,2250000 ,12-06-2009,Alm. Salg,209,10766,8,1910,-10%
 350,Villa,Hovedvejen 130,4320, Lejre,2250000 ,11-06-2009,Auktion,209,10766,8,1910,-10%
@@ -5491,7 +5469,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 350,Villa,Åvej 22,4070, Kirke Hyllinge,2300000 ,05-10-2007,Alm. Salg,187,12299,4,1863,-8%
 350,Villa,Kattinge Bygade 20,4000, Roskilde,2530000 ,03-10-2007,Alm. Salg,142,17817,4,1827,-3%
 350,Rækkehus,Landmandslyst 6,4320, Lejre,1740000 ,02-10-2007,Alm. Salg,90,19333,3,1998,
-350,Villa,Byvejen 61F,4320, Lejre,2700000 ,02-10-2007,Fam. Salg,160,16875,5,1964,
 350,Villa,Solsortevænget 7,4060, Kirke Såby,2250000 ,01-10-2007,Alm. Salg,125,18000,4,1975,
 350,Villa,Knudsvej 22,4070, Kirke Hyllinge,1995000 ,01-10-2007,Alm. Salg,114,17500,4,1972,
 350,Villa,Byvejen 33,4320, Lejre,1945621 ,30-09-2007,Alm. Salg,104,18708,4,1900,
@@ -5846,7 +5823,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 350,Villa,Tårnbjerggårdsvej 19,4320, Lejre,2500000 ,24-10-2006,Alm. Salg,126,19841,4,1977,
 350,Villa,Præstemarksvej 5,4070, Kirke Hyllinge,2440000 ,22-10-2006,Alm. Salg,155,15742,5,1967,
 350,Villa,Thorsvej 22,4060, Kirke Såby,2960000 ,19-10-2006,Alm. Salg,187,15829,5,1996,
-350,Villa,Fjordager 9,4000, Roskilde,3625320 ,17-10-2006,Alm. Salg,128,28323,4,2007,
 350,Villa,Fjordager 1,4000, Roskilde,3275278 ,16-10-2006,Alm. Salg,128,25588,5,2009,
 350,Rækkehus,Enebærhaven 26,4330, Hvalsø,2265000 ,15-10-2006,Alm. Salg,94,24096,3,2001,
 350,Villa,Fjordager 7,4000, Roskilde,3559547 ,15-10-2006,Alm. Salg,156,22818,6,2007,
@@ -6248,10 +6224,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 350,Villa,Merianhaven 12,4330, Hvalsø,807750 ,07-12-2005,Alm. Salg,172,4696,5,2007,
 350,Villa,Flintebjerg 3,4320, Lejre,3100000 ,06-12-2005,Alm. Salg,139,22302,5,2003,
 350,Villa,Hovedvejen 266,4320, Lejre,2048000 ,06-12-2005,Alm. Salg,127,16126,5,1941,
-350,Rækkehus,Gundestedvej 40B,4330, Hvalsø,917000 ,05-12-2005,Alm. Salg,67,13687,2,2017,
 350,Villa,Bentsensvej 11,4330, Hvalsø,1495000 ,05-12-2005,Alm. Salg,125,11960,4,1920,
-350,Villa,Gundestedvej 21,4330, Hvalsø,917000 ,05-12-2005,Alm. Salg,130,7054,5,2007,
-350,Villa,Hovedgaden 14B,4330, Hvalsø,2880000 ,04-12-2005,Alm. Salg,148,19459,5,1930,
 350,Villa,Vestergade 16,4330, Hvalsø,2305000 ,03-12-2005,Alm. Salg,120,19208,3,1958,
 350,Villa,Havrevænget 89,4060, Kirke Såby,2295000 ,03-12-2005,Alm. Salg,180,12750,5,1973,
 350,Villa,Merianhaven 10,4330, Hvalsø,3558390 ,29-11-2005,Alm. Salg,132,26958,4,2007,
@@ -7752,7 +7725,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 350,Villa,Liljevej 13,4330, Hvalsø,1195000 ,19-08-2002,Alm. Salg,162,7377,5,1974,
 350,Villa,Lindenborgvej 161,4000, Roskilde,2900000 ,19-08-2002,Alm. Salg,219,13242,6,1920,
 350,Rækkehus,Ny Ringstedvej 5,4330, Hvalsø,1660000 ,18-08-2002,Alm. Salg,90,18444,3,2002,
-350,Ejerlejlighed,Byager 17,4330, Hvalsø,1350000 ,18-08-2002,Alm. Salg,180,7500,6,1850,
 350,Villa,Stengårdsvej 1,4330, Hvalsø,1225000 ,17-08-2002,Alm. Salg,100,12250,4,1964,
 350,Villa,Engvejen 4,4320, Lejre,1270000 ,15-08-2002,Alm. Salg,80,15875,4,1962,
 350,Rækkehus,Brødledsvej 5B,4330, Hvalsø,1195000 ,11-08-2002,Alm. Salg,85,14059,3,1992,
@@ -9354,8 +9326,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 350,Villa,Sandbanken 45,4320, Lejre,1745000 ,08-12-1998,Alm. Salg,140,12464,5,1999,
 350,Rækkehus,Landmandslyst 5,4320, Lejre,916000 ,06-12-1998,Alm. Salg,88,10409,3,1998,
 350,Rækkehus,Landmandslyst 2,4320, Lejre,802000 ,06-12-1998,Alm. Salg,65,12338,2,1998,
-350,Rækkehus,Landmandslyst 1,4320, Lejre,895000 ,06-12-1998,Alm. Salg,90,9944,3,1998,
-350,Ejerlejlighed,Landmandslyst 7,4320, Lejre,895000 ,06-12-1998,Alm. Salg,90,9944,3,1998,
 350,Ejerlejlighed,Landmandslyst 8,4320, Lejre,911000 ,06-12-1998,Alm. Salg,90,10122,3,1998,
 350,Ejerlejlighed,Landmandslyst 10,4320, Lejre,795000 ,06-12-1998,Alm. Salg,65,12231,2,1998,
 350,Ejerlejlighed,Landmandslyst 17,4320, Lejre,922000 ,06-12-1998,Alm. Salg,90,10244,3,1998,
@@ -9640,11 +9610,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 350,Villa,Tølløsevej 26,4330, Hvalsø,1024520 ,18-05-1998,Alm. Salg,94,10899,3,1956,
 350,Villa,Pilevej 5,4070, Kirke Hyllinge,1281560 ,18-05-1998,Alm. Salg,156,8215,5,1967,
 350,Rækkehus,Oldvejsparken 19,4000, Roskilde,817040 ,17-05-1998,Alm. Salg,70,11672,3,1973,
-350,Rækkehus,Klostergårdsvej 17A,4000, Roskilde,1984000 ,17-05-1998,Alm. Salg,148,13405,4,1900,
 350,Villa,Uglestrup Gade 2A,4060, Kirke Såby,1230770 ,17-05-1998,Alm. Salg,154,7992,4,1995,
 350,Villa,Rønnevej 6,4070, Kirke Hyllinge,1063511 ,17-05-1998,Alm. Salg,111,9581,5,1978,
 350,Villa,Hyllingeparken 81,4070, Kirke Hyllinge,1116000 ,17-05-1998,Alm. Salg,115,9704,4,1986,
-350,Villa,Klostergårdsvej 17,4000, Roskilde,1984000 ,17-05-1998,Alm. Salg,308,6442,7,1900,
 350,Villa,Lyøvænget 6,4060, Kirke Såby,45000 ,17-05-1998,Andet,182,247,5,2022,
 350,Villa,Skovvej 19,4330, Hvalsø,905904 ,16-05-1998,Alm. Salg,183,4950,6,1850,
 350,Villa,Bovelgårdsvej 37,4070, Kirke Hyllinge,714000 ,15-05-1998,Alm. Salg,160,4463,6,1975,
@@ -10426,7 +10394,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 350,Villa,Gevninge Bygade 42B,4000, Roskilde,935000 ,11-08-1996,Alm. Salg,116,8060,4,1827,
 350,Villa,Ravnshøjvej 10,4000, Roskilde,933986 ,11-08-1996,Alm. Salg,191,4890,5,1937,
 350,Villa,Tværvej 6,4070, Kirke Hyllinge,505722 ,11-08-1996,Alm. Salg,132,3831,4,1993,
-350,Villa,Hovedgaden 14B,4330, Hvalsø,750000 ,11-08-1996,Alm. Salg,148,5068,5,1930,
 350,Villa,Mosevej 2,4330, Hvalsø,291376 ,11-08-1996,Andet,114,2556,3,1955,
 350,Villa,Rytterbakken 11,4000, Roskilde,1700000 ,11-08-1996,Alm. Salg,198,8586,6,1987,
 350,Villa,Lindenborgvej 144,4000, Roskilde,404063 ,11-08-1996,Andet,131,3084,3,1904,
@@ -10534,7 +10501,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 350,Villa,Morsøvej 28,4060, Kirke Såby,1675640 ,01-06-1996,Alm. Salg,358,4681,12,1893,
 350,Rækkehus,Gyvelvej 12,4070, Kirke Hyllinge,485000 ,27-05-1996,Alm. Salg,94,5160,3,1986,
 350,Rækkehus,Hyldebjerg 70,4330, Hvalsø,905250 ,26-05-1996,Alm. Salg,131,6910,4,1974,
-350,Villa,Herslev Bygade 19,4000, Roskilde,1258000 ,26-05-1996,Alm. Salg,189,6656,4,1770,
 350,Villa,Morsøvej 4,4060, Kirke Såby,1140088 ,26-05-1996,Alm. Salg,160,7126,4,1827,
 350,Villa,Stensager 4,4330, Hvalsø,180680 ,26-05-1996,Alm. Salg,134,1348,6,1997,
 350,Villa,Tolstrupvej 54,4330, Hvalsø,583300 ,26-05-1996,Alm. Salg,93,6272,4,1941,
@@ -11154,7 +11120,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 350,Villa,Åkandevej 19,4330, Hvalsø,460000 ,23-11-1994,Alm. Salg,70,6571,3,1961,
 350,Villa,Vinkelvej 5,4320, Lejre,740000 ,21-11-1994,Alm. Salg,98,7551,3,1920,
 350,Villa,Lillemarken 1,4000, Roskilde,935000 ,17-11-1994,Alm. Salg,122,7664,5,1964,
-350,Villa,Hovedgaden 14B,4330, Hvalsø,1464055 ,17-11-1994,Alm. Salg,148,9892,5,1930,
 350,Villa,Kornbakken 20,4070, Kirke Hyllinge,608000 ,17-11-1994,Alm. Salg,100,6080,3,1969,
 350,Villa,Acacievej 12,4060, Kirke Såby,425000 ,17-11-1994,Alm. Salg,151,2815,4,2013,
 350,Villa,Bygmarken 9,4060, Kirke Såby,697000 ,14-11-1994,Alm. Salg,149,4678,5,1973,
@@ -11603,7 +11568,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 350,Villa,Jenslevvej 63,4070, Kirke Hyllinge,39542 ,03-10-1993,Alm. Salg,178,222,6,1999,
 350,Villa,Tranemosevej 19,4070, Kirke Hyllinge,585000 ,03-10-1993,Alm. Salg,101,5792,4,1974,
 350,Villa,Lønspjæld 26,4320, Lejre,374000 ,30-09-1993,Fam. Salg,154,2429,5,1984,
-350,Villa,Hovedgaden 14B,4330, Hvalsø,1559640 ,28-09-1993,Alm. Salg,148,10538,5,1930,
 350,Villa,Kildevangsvej 15,4000, Roskilde,2100000 ,27-09-1993,Alm. Salg,192,10938,5,1905,
 350,Villa,Stengårdsvej 1,4330, Hvalsø,600000 ,26-09-1993,Alm. Salg,100,6000,4,1964,
 350,Villa,Bigårdsvej 49,4070, Kirke Hyllinge,330782 ,26-09-1993,Alm. Salg,136,2432,4,1976,
@@ -11878,7 +11842,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 350,Villa,Bygmarken 101,4060, Kirke Såby,568000 ,05-12-1992,Alm. Salg,127,4472,5,1976,
 350,Villa,Sonnerupvej 64,4060, Kirke Såby,770000 ,05-12-1992,Alm. Salg,159,4843,5,1850,
 350,Villa,Ejby Strandvej 19,4070, Kirke Hyllinge,660000 ,02-12-1992,Alm. Salg,85,7765,3,1804,
-350,Ejerlejlighed,"Søvej 22B, 1",4330, Hvalsø,2995000 ,01-12-1992,Alm. Salg,110,27227,4,1900,
 350,Villa,Elverdamsvej 2,4060, Kirke Såby,610322 ,01-12-1992,Alm. Salg,105,5813,4,1907,
 350,Villa,Gershøjvej 87,4070, Kirke Hyllinge,320000 ,29-11-1992,Alm. Salg,107,2991,5,1951,
 350,Villa,Mosevej 20,4330, Hvalsø,975000 ,29-11-1992,Alm. Salg,184,5299,4,1974,

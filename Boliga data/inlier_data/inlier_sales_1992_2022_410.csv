@@ -21,7 +21,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Rækkehus,Nørregade 34,5592, Ejby,330000 ,14-12-2022,Alm. Salg,83,3976.0,4,1890,
 410,Villa,Holmelundsvej 16,5592, Ejby,2000000 ,14-12-2022,Alm. Salg,226,8850.0,7,1974,-9%
 410,Villa,Vestergade 76,5500, Middelfart,1775000 ,14-12-2022,Alm. Salg,94,18883.0,2,1933,-1%
-410,Villa,Kålsbjergvej 15,5500, Middelfart,1600000 ,14-12-2022,Alm. Salg,149,10738.0,6,1827,-9%
 410,Villa,Slåenkvisten 2,5500, Middelfart,2650000 ,14-12-2022,Alm. Salg,200,13250.0,6,2006,-12%
 410,Villa,Møllebakken 21,5500, Middelfart,2600000 ,11-12-2022,Alm. Salg,162,16049.0,5,1971,-10%
 410,Ejerlejlighed,"Algade 20A, 1. tv",5500, Middelfart,1475000 ,08-12-2022,Alm. Salg,84,17560.0,2,1800,-10%
@@ -37,7 +36,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Odensevej 155,5500, Middelfart,673777 ,30-11-2022,Andet,215,3134.0,10,1927,
 410,Villa,Rugårdsvej 155,5464, Brenderup Fyn,1295000 ,28-11-2022,Alm. Salg,101,12822.0,3,1952,
 410,Villa,Slåenkvisten 7,5500, Middelfart,1277500 ,27-11-2022,Alm. Salg,169,7559.0,6,2007,
-410,Villa,Helleflynderen 11,5500, Middelfart,3600000 ,26-11-2022,Alm. Salg,162,22222.0,6,2022,-5%
 410,Rækkehus,Bøgevænget 8,5500, Middelfart,1875000 ,23-11-2022,Alm. Salg,129,14535.0,6,1970,-6%
 410,Villa,Vejrøvænget 46,5500, Middelfart,2075000 ,23-11-2022,Alm. Salg,120,17292.0,4,1976,-3%
 410,Villa,Ærøvænget 94,5500, Middelfart,1600000 ,22-11-2022,Fam. Salg,167,9581.0,6,2006,
@@ -67,8 +65,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Middelfartvej 92,5466, Asperup,750000 ,25-10-2022,Fam. Salg,223,3363.0,5,1932,
 410,Villa,Langevænget 4,5500, Middelfart,3600000 ,24-10-2022,Alm. Salg,179,20112.0,6,2015,0%
 410,Villa,Stiklingen 11,5500, Middelfart,3275000 ,23-10-2022,Alm. Salg,161,20342.0,5,2018,-1%
-410,Rækkehus,Søndergade 90,5500, Middelfart,1145000 ,21-10-2022,Fam. Salg,103,11117.0,4,1890,
-410,Villa,Gartnervej 8,5500, Middelfart,1145000 ,21-10-2022,Fam. Salg,133,8609.0,5,1958,
 410,Villa,Stengade 22,5463, Harndrup,900000 ,20-10-2022,Alm. Salg,125,7200.0,4,1933,-3%
 410,Villa,Ærøvænget 120,5500, Middelfart,3350000 ,20-10-2022,Alm. Salg,168,19940.0,5,2010,
 410,Villa,Blidkærvej 6,5592, Ejby,165000 ,19-10-2022,Alm. Salg,86,1919.0,4,1930,-56%
@@ -122,7 +118,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Kirkebyvænget 6,5592, Ejby,350000 ,11-09-2022,Alm. Salg,162,2160.0,5,2023,
 410,Villa,Tværgade 29,5592, Ejby,435000 ,10-09-2022,Fam. Salg,96,4531.0,4,1971,
 410,Rækkehus,Hyllehøjvej 18,5500, Middelfart,1650000 ,08-09-2022,Alm. Salg,100,16500.0,2,1962,-3%
-410,Villa,Østergade 1,5591, Gelsted,750000 ,08-09-2022,Alm. Salg,118,6356.0,6,1910,-33%
 410,Villa,Assensvej 49,5500, Middelfart,2045000 ,07-09-2022,Alm. Salg,118,17331.0,5,1932,-7%
 410,Ejerlejlighed,"Bjergbanksvej 2, st. 4",5500, Middelfart,1000000 ,06-09-2022,Alm. Salg,71,14085.0,2,1966,
 410,Villa,Havelodden 12,5500, Middelfart,3075000 ,06-09-2022,Alm. Salg,167,18413.0,5,1997,-5%
@@ -138,7 +133,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Røjle Bygade 119,5500, Middelfart,2400000 ,01-09-2022,Alm. Salg,176,13636.0,5,1919,-4%
 410,Villa,Hindballevej 11,5466, Asperup,1495000 ,01-09-2022,Alm. Salg,142,10528.0,5,1908,
 410,Ejerlejlighed,"Fænøsund Park 11, 2. 11",5500, Middelfart,2300000 ,31-08-2022,Alm. Salg,117,19658.0,3,2022,
-410,Villa,Vestergade 10B,5500, Middelfart,2400000 ,31-08-2022,Alm. Salg,112,21429.0,4,1927,
 410,Villa,Bolsvej 46,5500, Middelfart,2495000 ,31-08-2022,Alm. Salg,229,10895.0,5,1912,
 410,Villa,Tranebærkvisten 2,5500, Middelfart,2900000 ,31-08-2022,Alm. Salg,142,20423.0,6,2007,-2%
 410,Villa,H C Lumbyes Vej 21,5500, Middelfart,2795000 ,31-08-2022,Alm. Salg,170,16441.0,5,1986,-3%
@@ -230,7 +224,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Korsvejs Alle 13,5500, Middelfart,1900000 ,26-06-2022,Alm. Salg,117,16239.0,4,1980,
 410,Villa,Mosevangen 8,5592, Ejby,1362000 ,26-06-2022,Alm. Salg,120,11350.0,4,1987,-9%
 410,Villa,Grønnegade 23,5591, Gelsted,950000 ,26-06-2022,Fam. Salg,216,4398.0,7,1900,
-410,Villa,Rosenvænget 21,5500, Middelfart,2649000 ,26-06-2022,Alm. Salg,120,22075.0,4,1940,
 410,Villa,Svinget 2B,5591, Gelsted,2080000 ,25-06-2022,Alm. Salg,200,10400.0,4,2012,-5%
 410,Villa,Dæmningen 97,5500, Middelfart,2935000 ,23-06-2022,Alm. Salg,178,16489.0,7,1902,-11%
 410,Villa,Münstervej 29,5500, Middelfart,2595000 ,23-06-2022,Alm. Salg,152,17072.0,4,1956,
@@ -277,7 +270,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Sandøvænget 30,5500, Middelfart,2475000 ,24-05-2022,Alm. Salg,177,13983.0,6,1978,
 410,Rækkehus,Blommevænget 4,5500, Middelfart,1475000 ,23-05-2022,Alm. Salg,100,14750.0,4,1969,-6%
 410,Villa,Kauslundevej 11,5500, Middelfart,1400000 ,23-05-2022,Alm. Salg,160,8750.0,5,1908,-6%
-410,Villa,Odensevej 61,5500, Middelfart,2270000 ,23-05-2022,Alm. Salg,101,22475.0,4,1927,0%
 410,Villa,H P Johansens Vej 15,5500, Middelfart,1595000 ,22-05-2022,Alm. Salg,98,16276.0,5,1956,
 410,Villa,Middelfartvej 64,5466, Asperup,2195000 ,20-05-2022,Alm. Salg,120,18292.0,6,1933,
 410,Villa,Rydskovvej 39,5560, Aarup,312000 ,19-05-2022,Andet,146,2137.0,5,1827,
@@ -324,7 +316,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Koesmosevej 17,5500, Middelfart,1500000 ,27-04-2022,Alm. Salg,73,20548.0,3,1941,0%
 410,Villa,Stribgårdvej 17,5500, Middelfart,1900000 ,26-04-2022,Alm. Salg,118,16102.0,4,1975,-5%
 410,Villa,Lerbjergvej 13,5500, Middelfart,1837000 ,25-04-2022,Alm. Salg,184,9984.0,6,1900,6%
-410,Villa,Laksevænget 6,5500, Middelfart,4225000 ,25-04-2022,Alm. Salg,188,22473.0,6,2010,
 410,Rækkehus,Stationsvej 8,5500, Middelfart,1025000 ,24-04-2022,Alm. Salg,105,9762.0,4,1929,-5%
 410,Villa,Egelundvej 10,5464, Brenderup Fyn,1225000 ,24-04-2022,Alm. Salg,156,7853.0,4,1870,-5%
 410,Villa,Kystmarken 30,5500, Middelfart,1395000 ,24-04-2022,Alm. Salg,198,7045.0,5,0,
@@ -359,11 +350,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Drejøvænget 27,5500, Middelfart,1995000 ,06-04-2022,Alm. Salg,139,14353.0,5,1975,
 410,Rækkehus,Søndergade 36,5591, Gelsted,243000 ,05-04-2022,Fam. Salg,86,2826.0,4,1897,
 410,Ejerlejlighed,"Gl Vestergade 28, st. mf",5500, Middelfart,1812500 ,05-04-2022,Alm. Salg,93,19489.0,2,1999,-3%
-410,Villa,Bjørnøvænget 13,5500, Middelfart,3305500 ,05-04-2022,Alm. Salg,149,22185.0,6,1977,3%
 410,Villa,Færøvej 13,5500, Middelfart,1925000 ,05-04-2022,Alm. Salg,104,18510.0,3,1965,-4%
 410,Villa,Kystmarken 32,5500, Middelfart,1395000 ,05-04-2022,Alm. Salg,206,6772.0,6,0,
 410,Rækkehus,Gl. Odensevej 25F,5591, Gelsted,1175000 ,04-04-2022,Alm. Salg,95,12368.0,3,2007,
-410,Rækkehus,Blindebomsvej 9,5500, Middelfart,5500000 ,04-04-2022,Alm. Salg,250,22000.0,6,1901,-2%
 410,Villa,Hjortebjergvej 9,5463, Harndrup,850000 ,04-04-2022,Alm. Salg,136,6250.0,6,1961,-11%
 410,Villa,Vejrøvænget 13,5500, Middelfart,2695000 ,04-04-2022,Alm. Salg,144,18715.0,4,1974,
 410,Villa,Hollændervej 27,5500, Middelfart,1720000 ,04-04-2022,Alm. Salg,97,17732.0,4,1962,-3%
@@ -415,19 +404,16 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Kærbyvej 23,5466, Asperup,1075000 ,12-03-2022,Alm. Salg,128,8398.0,4,1978,
 410,Villa,Hygindvej 23,5592, Ejby,1550000 ,11-03-2022,Alm. Salg,107,14486.0,4,1958,-3%
 410,Villa,Assensvej 45,5500, Middelfart,950000 ,10-03-2022,Alm. Salg,125,7600.0,5,1930,-21%
-410,Villa,Oven Bæltet 8,5500, Middelfart,3275000 ,10-03-2022,Alm. Salg,148,22128.0,5,1999,-1%
 410,Villa,Vestergade 29,5500, Middelfart,1750000 ,10-03-2022,Alm. Salg,120,14583.0,6,1900,-5%
 410,Villa,Engvangen 4,5592, Ejby,378250 ,10-03-2022,Fam. Salg,94,4024.0,1,1986,
 410,Villa,Vandværksvej 47,5500, Middelfart,635000 ,10-03-2022,Alm. Salg,170,3735.0,6,1914,-15%
 410,Rækkehus,Viaduktvej 9,5500, Middelfart,1055000 ,09-03-2022,Alm. Salg,99,10657.0,4,1900,
 410,Villa,Bøgevej 4,5580, Nørre Aaby,1075000 ,09-03-2022,Fam. Salg,187,5749.0,5,2005,
 410,Villa,Søndergade 11,5580, Nørre Aaby,2400000 ,09-03-2022,Alm. Salg,150,16000.0,5,1901,
-410,Villa,Sperlingvænget 18,5500, Middelfart,3700000 ,08-03-2022,Alm. Salg,167,22156.0,5,2020,
 410,Villa,Store Landevej 3,5580, Nørre Aaby,500000 ,07-03-2022,Alm. Salg,105,4762.0,4,1858,
 410,Villa,Tennisvej 7,5580, Nørre Aaby,1100000 ,07-03-2022,Alm. Salg,125,8800.0,7,1941,-17%
 410,Rækkehus,Nygade 4,5500, Middelfart,2600000 ,06-03-2022,Alm. Salg,166,15663.0,7,1900,
 410,Villa,Koesmosevej 5,5500, Middelfart,545000 ,06-03-2022,Alm. Salg,67,8134.0,2,1929,-1%
-410,Villa,Langevænget 10,5500, Middelfart,3850000 ,03-03-2022,Alm. Salg,173,22254.0,5,2016,
 410,Villa,Perikonhaven 19,5500, Middelfart,900000 ,03-03-2022,Alm. Salg,175,5143.0,5,2022,
 410,Villa,Idrætsvej 2,5463, Harndrup,870000 ,02-03-2022,Alm. Salg,96,9063.0,3,1963,-3%
 410,Villa,Ridderstien 19,5463, Harndrup,695000 ,02-03-2022,Alm. Salg,162,4290.0,5,1928,
@@ -442,7 +428,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Ludvigsgårdevej 14,5591, Gelsted,400000 ,27-02-2022,Andet,112,3571.0,3,1907,
 410,Villa,Nøddelunden 46,5580, Nørre Aaby,1075000 ,27-02-2022,Alm. Salg,126,8532.0,4,1974,-10%
 410,Villa,Helleflynderen 3,5500, Middelfart,1095000 ,27-02-2022,Alm. Salg,213,5141.0,6,2022,
-410,Ejerlejlighed,Nørregade 7,5592, Ejby,3100000 ,24-02-2022,Alm. Salg,159,12016.0,8,1907,
 410,Villa,Grønnegade 30,5591, Gelsted,925000 ,24-02-2022,Alm. Salg,159,5818.0,6,1967,-2%
 410,Villa,Æbeløvej 5,5466, Asperup,775000 ,24-02-2022,Alm. Salg,97,7990.0,4,1963,
 410,Villa,Østre Hougvej 37,5500, Middelfart,2295000 ,23-02-2022,Alm. Salg,148,15507.0,4,1959,
@@ -470,7 +455,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Endelavevej 60,5500, Middelfart,2375000 ,13-02-2022,Alm. Salg,124,19153.0,4,1986,
 410,Villa,Stikkelsbærkvisten 10,5500, Middelfart,3775000 ,13-02-2022,Alm. Salg,177,21328.0,6,2007,-3%
 410,Villa,Øster Alle 46,5500, Middelfart,2395000 ,12-02-2022,Alm. Salg,138,17355.0,3,1927,-4%
-410,Villa,Vestergade 44,5500, Middelfart,2215000 ,12-02-2022,Alm. Salg,99,22374.0,3,1930,1%
 410,Villa,Stribgårdvej 2,5500, Middelfart,2075000 ,10-02-2022,Alm. Salg,160,12969.0,6,1977,
 410,Villa,Gadstrup 13,5580, Nørre Aaby,345000 ,09-02-2022,Alm. Salg,78,4423.0,4,1957,-13%
 410,Villa,Månevænget 27,5592, Ejby,1405000 ,09-02-2022,Alm. Salg,138,10181.0,4,1976,-3%
@@ -485,7 +469,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Hindbærranken 2,5500, Middelfart,2920000 ,02-02-2022,Alm. Salg,150,19467.0,6,2007,-1%
 410,Villa,Hollændervej 157,5500, Middelfart,1425000 ,02-02-2022,Alm. Salg,91,15659.0,3,1968,-5%
 410,Rækkehus,Knorregade 19,5500, Middelfart,500000 ,01-02-2022,Alm. Salg,100,5000.0,3,0,-28%
-410,Villa,Røjlemosevej 46,5500, Middelfart,4300000 ,01-02-2022,Alm. Salg,194,22165.0,5,2001,
 410,Villa,Kauslundevej 41,5500, Middelfart,1125000 ,31-01-2022,Alm. Salg,175,6429.0,5,1947,-19%
 410,Villa,Køstrupvej 15,5464, Brenderup Fyn,506250 ,31-01-2022,Andet,331,1529.0,7,1827,
 410,Villa,Nørregade 115,5592, Ejby,260000 ,31-01-2022,Alm. Salg,90,2889.0,4,1900,
@@ -560,12 +543,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Nørregade 13,5592, Ejby,280000 ,13-12-2021,Alm. Salg,54,5185.0,1,1974,
 410,Villa,Vestergade 25,5500, Middelfart,3950000 ,12-12-2021,Alm. Salg,290,13621.0,8,1912,
 410,Villa,Bjørnøvænget 28,5500, Middelfart,2495000 ,12-12-2021,Alm. Salg,130,19192.0,5,1975,
-410,Villa,Kauslundevej 20,5500, Middelfart,3445000 ,09-12-2021,Alm. Salg,155,22226.0,4,1898,
 410,Villa,Norgesvej 26,5500, Middelfart,690000 ,09-12-2021,Fam. Salg,156,4423.0,6,1954,
 410,Villa,Mosevænget 7,5500, Middelfart,1800000 ,09-12-2021,Alm. Salg,143,12587.0,4,1953,-5%
 410,Villa,Rugårdsvej 252,5464, Brenderup Fyn,675000 ,08-12-2021,Alm. Salg,94,7181.0,3,1890,-10%
 410,Villa,Rømøvænget 129,5500, Middelfart,4025000 ,08-12-2021,Alm. Salg,206,19539.0,5,2008,-3%
-410,Villa,Sofiendalvej 86,5500, Middelfart,3825000 ,06-12-2021,Alm. Salg,174,21983.0,5,1999,
 410,Villa,Møllebakken 19,5500, Middelfart,2406810 ,05-12-2021,Alm. Salg,116,20748.0,4,1967,10%
 410,Villa,Bogøvænget 64,5500, Middelfart,1750000 ,05-12-2021,Fam. Salg,190,9211.0,7,1994,
 410,Villa,Jyllandsvej 36,5500, Middelfart,805500 ,05-12-2021,Andet,100,8055.0,4,1953,
@@ -577,7 +558,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Kirkebyvænget 10,5592, Ejby,350000 ,29-11-2021,Alm. Salg,150,2333.0,5,2022,
 410,Villa,Søndergade 152,5591, Gelsted,850000 ,28-11-2021,Alm. Salg,124,6855.0,4,1973,
 410,Villa,Lyøvænget 58,5500, Middelfart,2550000 ,27-11-2021,Alm. Salg,163,15644.0,6,1978,-5%
-410,Rækkehus,Viaduktvej 24,5500, Middelfart,1780000 ,25-11-2021,Alm. Salg,79,22532.0,2,1900,
 410,Villa,Vejrøvænget 21,5500, Middelfart,1800000 ,25-11-2021,Alm. Salg,125,14400.0,4,1969,-10%
 410,Villa,Aabylundvænget 5,5580, Nørre Aaby,1695000 ,25-11-2021,Alm. Salg,170,9971.0,5,1986,-6%
 410,Villa,Gelsted Mose 12,5591, Gelsted,560000 ,23-11-2021,Alm. Salg,90,6222.0,4,1930,
@@ -614,7 +594,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Søndergade 3,5591, Gelsted,500000 ,09-11-2021,Alm. Salg,121,2439.0,4,1885,
 410,Villa,Skovgyden 3,5466, Asperup,225000 ,08-11-2021,Andet,71,3169.0,6,1912,
 410,Villa,Jydekrogen 5,5580, Nørre Aaby,1750000 ,07-11-2021,Alm. Salg,148,11824.0,4,1933,
-410,Villa,Rørkærsvej 14,5500, Middelfart,3050000 ,06-11-2021,Alm. Salg,136,22426.0,4,1910,5%
 410,Villa,Lykkegaardsvej 1,5466, Asperup,700000 ,04-11-2021,Alm. Salg,105,6667.0,3,1942,
 410,Villa,H C Lumbyes Vej 23,5500, Middelfart,2395000 ,02-11-2021,Alm. Salg,132,18144.0,5,1979,
 410,Villa,Sivkærvej 21,5591, Gelsted,950000 ,31-10-2021,Alm. Salg,78,12179.0,4,1953,
@@ -751,7 +730,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Sildegravsbanken 6,5466, Asperup,2100000 ,28-08-2021,Alm. Salg,270,7778.0,6,1875,
 410,Villa,Enghavevej 18,5580, Nørre Aaby,1350000 ,26-08-2021,Alm. Salg,152,8882.0,5,1978,
 410,Villa,Lundevej 6,5591, Gelsted,1130000 ,26-08-2021,Alm. Salg,147,7687.0,5,1972,
-410,Villa,Rømøvænget 69,5500, Middelfart,3950000 ,26-08-2021,Alm. Salg,176,22443.0,6,2007,-1%
 410,Villa,Skovgyden 17,5466, Asperup,3385000 ,25-08-2021,Alm. Salg,204,16593.0,4,1880,
 410,Villa,Drejerbakken 19,5592, Ejby,3000000 ,25-08-2021,Alm. Salg,170,17647.0,4,2014,-8%
 410,Villa,Sofiendalvej 94,5500, Middelfart,3311100 ,24-08-2021,Alm. Salg,165,20067.0,8,1979,2%
@@ -934,7 +912,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Østre Hougvej 18,5500, Middelfart,2300000 ,31-05-2021,Alm. Salg,156,14744.0,5,1932,
 410,Villa,Brovejen 321,5500, Middelfart,1350000 ,30-05-2021,Alm. Salg,96,14063.0,4,1959,
 410,Villa,Rolighedsvej 21,5580, Nørre Aaby,945000 ,30-05-2021,Alm. Salg,90,10500.0,3,1965,
-410,Villa,Elmegade 20,5500, Middelfart,3360000 ,30-05-2021,Alm. Salg,150,22400.0,4,1939,-1%
 410,Villa,Havevænget 13,5500, Middelfart,2150000 ,29-05-2021,Alm. Salg,114,18860.0,3,1972,-6%
 410,Villa,Algade 38,5592, Ejby,1900000 ,29-05-2021,Andet,293,5956.0,10,1900,
 410,Villa,Bjørnøvænget 27,5500, Middelfart,2585000 ,29-05-2021,Alm. Salg,132,19583.0,3,1976,
@@ -1010,7 +987,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Vibyvej 19,5580, Nørre Aaby,1925000 ,04-05-2021,Alm. Salg,154,12500.0,5,1923,2%
 410,Villa,Ørredvænget 50,5500, Middelfart,3395000 ,04-05-2021,Alm. Salg,160,21219.0,5,2019,-6%
 410,Villa,Egelundvej 30,5464, Brenderup Fyn,480000 ,03-05-2021,Alm. Salg,87,5517.0,4,1900,
-410,Villa,Slugten 26,5500, Middelfart,4995000 ,03-05-2021,Alm. Salg,225,22200.0,5,1987,
 410,Villa,Fjordmarken 20,5500, Middelfart,1575000 ,03-05-2021,Alm. Salg,234,6731.0,6,0,
 410,Villa,Kærbyvej 5,5466, Asperup,1275000 ,02-05-2021,Alm. Salg,134,9515.0,4,1972,-2%
 410,Villa,Assensvej 131,5500, Middelfart,2900000 ,02-05-2021,Alm. Salg,190,15263.0,5,1961,-3%
@@ -1249,7 +1225,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Østergade 57,5580, Nørre Aaby,1087114 ,29-01-2021,Alm. Salg,151,7199.0,4,1931,
 410,Villa,Gelsted Byvej 5,5591, Gelsted,750000 ,28-01-2021,Alm. Salg,204,3676.0,4,1980,-6%
 410,Villa,Liljehaven 20,5500, Middelfart,1195000 ,28-01-2021,Alm. Salg,182,6566.0,5,2021,
-410,Ejerlejlighed,Østergade 49,5500, Middelfart,2800000 ,27-01-2021,Alm. Salg,149,11915.0,10,1901,-14%
 410,Villa,Åvej 2,5500, Middelfart,654909 ,27-01-2021,Fam. Salg,273,2399.0,7,1864,
 410,Villa,Drejøvænget 58,5500, Middelfart,2175000 ,27-01-2021,Alm. Salg,174,12500.0,6,1979,-2%
 410,Villa,"Hessgade 31, 1",5500, Middelfart,2450000 ,26-01-2021,Alm. Salg,157,15605.0,5,1927,-2%
@@ -1288,7 +1263,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Bogensevej 74,5464, Brenderup Fyn,255000 ,13-01-2021,Alm. Salg,94,2713.0,4,1937,
 410,Villa,Åløkkevej 10,5463, Harndrup,2200000 ,13-01-2021,Alm. Salg,212,10377.0,10,1882,-3%
 410,Villa,Æbeløvej 3,5466, Asperup,1000000 ,13-01-2021,Alm. Salg,120,8333.0,5,1965,
-410,Villa,Ærøvænget 100,5500, Middelfart,3253500 ,13-01-2021,Alm. Salg,144,22594.0,5,2008,
 410,Villa,Siøvænget 76,5500, Middelfart,2125000 ,12-01-2021,Alm. Salg,134,15858.0,4,1977,
 410,Villa,Jernbanevej 33,5592, Ejby,750000 ,12-01-2021,Alm. Salg,244,3074.0,7,1963,-16%
 410,Villa,Kilevænget 10,5500, Middelfart,950000 ,11-01-2021,Alm. Salg,121,7851.0,3,1974,
@@ -1367,7 +1341,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Rækkehus,Blommevænget 6,5500, Middelfart,1625000 ,26-11-2020,Alm. Salg,100,16250.0,5,1969,
 410,Villa,Rugårdsvej 179,5464, Brenderup Fyn,780000 ,26-11-2020,Alm. Salg,143,5455.0,4,1948,-2%
 410,Villa,Kauslundevej 66,5500, Middelfart,2495000 ,26-11-2020,Alm. Salg,214,11659.0,7,1995,
-410,Villa,Norgesvej 32,5500, Middelfart,2145000 ,26-11-2020,Alm. Salg,96,22344.0,3,1954,
 410,Rækkehus,Tjørnevej 14A,5591, Gelsted,700000 ,25-11-2020,Alm. Salg,93,7527.0,2,1979,-22%
 410,Ejerlejlighed,"Søndergade 79C, 1. th",5500, Middelfart,1495000 ,25-11-2020,Alm. Salg,87,17184.0,3,1912,
 410,Villa,Lundevej 23,5591, Gelsted,1410000 ,25-11-2020,Alm. Salg,161,8758.0,7,1974,-6%
@@ -1459,7 +1432,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Søndergade 10,5580, Nørre Aaby,1800000 ,21-10-2020,Alm. Salg,190,9474.0,5,1900,
 410,Rækkehus,Hessgade 68,5500, Middelfart,1200000 ,20-10-2020,Alm. Salg,88,13636.0,3,1932,-2%
 410,Villa,Udsigten 3,5580, Nørre Aaby,1550000 ,20-10-2020,Alm. Salg,121,12810.0,6,1989,-3%
-410,Ejerlejlighed,"Blankegaardsvej 4A, st",5466, Asperup,4400000 ,19-10-2020,Alm. Salg,413,10654.0,13,1868,-6%
 410,Villa,Ærtebjergvej 3,5500, Middelfart,800000 ,19-10-2020,Auktion,124,6452.0,6,1777,-26%
 410,Villa,Sevanen 15,5580, Nørre Aaby,661000 ,19-10-2020,Andet,141,4688.0,4,1987,
 410,Villa,Omøvænget 4,5500, Middelfart,2050000 ,19-10-2020,Alm. Salg,176,11648.0,5,1979,-4%
@@ -1485,7 +1457,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Lundevej 2,5580, Nørre Aaby,700000 ,09-10-2020,Fam. Salg,116,6034.0,5,1913,
 410,Villa,Fennikelvej 5,5500, Middelfart,1595000 ,08-10-2020,Alm. Salg,120,13292.0,5,1960,
 410,Villa,Korsvejs Alle 4,5500, Middelfart,1895000 ,07-10-2020,Alm. Salg,95,19947.0,4,1947,
-410,Villa,Ærøvænget 72,5500, Middelfart,3900000 ,06-10-2020,Alm. Salg,180,21667.0,5,2006,
 410,Villa,Lungeskovvej 14,5591, Gelsted,399000 ,06-10-2020,Alm. Salg,170,2347.0,5,1850,
 410,Villa,Brovejen 374,5500, Middelfart,1400000 ,05-10-2020,Alm. Salg,149,9396.0,5,1960,-2%
 410,Villa,Kirkevej 60,5580, Nørre Aaby,2695000 ,05-10-2020,Alm. Salg,175,15400.0,6,1936,
@@ -1580,7 +1551,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Solskinsvænget 17,5500, Middelfart,1405000 ,23-08-2020,Alm. Salg,136,10331.0,4,1969,1%
 410,Villa,Koldinghuse Syd 24,5580, Nørre Aaby,1425000 ,23-08-2020,Alm. Salg,136,10478.0,5,1976,-5%
 410,Villa,Hybenvænget 2,5580, Nørre Aaby,1435000 ,21-08-2020,Alm. Salg,145,9897.0,4,1970,-4%
-410,Villa,Ærøvænget 64,5500, Middelfart,3690000 ,20-08-2020,Alm. Salg,165,22364.0,5,2007,
 410,Villa,Kirkevej 12,5580, Nørre Aaby,1275000 ,19-08-2020,Alm. Salg,164,7774.0,4,1905,-9%
 410,Villa,Julievej 49,5500, Middelfart,1650000 ,19-08-2020,Alm. Salg,144,11458.0,5,1976,-8%
 410,Villa,Bubbelvej 85,5464, Brenderup Fyn,1115000 ,19-08-2020,Alm. Salg,190,5868.0,5,1777,
@@ -1669,7 +1639,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Gelsted Mose 31,5591, Gelsted,700000 ,02-07-2020,Alm. Salg,106,6604.0,4,1951,-7%
 410,Villa,Sofiendalvej 3,5500, Middelfart,1595000 ,02-07-2020,Alm. Salg,151,10563.0,5,1975,
 410,Villa,Mikkelsbro 1,5580, Nørre Aaby,2525000 ,02-07-2020,Alm. Salg,182,13874.0,4,1963,-3%
-410,Villa,Rosenvænget 37,5500, Middelfart,1925000 ,02-07-2020,Alm. Salg,85,22647.0,4,1954,-4%
 410,Villa,Lerbjergvej 9,5500, Middelfart,850000 ,02-07-2020,Alm. Salg,231,3680.0,6,1913,-13%
 410,Villa,Sønder Alle 39,5500, Middelfart,3800000 ,02-07-2020,Alm. Salg,220,17273.0,5,2022,
 410,Villa,Åbakkevej 39,5464, Brenderup Fyn,1310000 ,01-07-2020,Alm. Salg,194,6753.0,6,1800,-6%
@@ -1693,7 +1662,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Hovedvejen 51,5500, Middelfart,1795000 ,25-06-2020,Alm. Salg,131,13702.0,5,1927,
 410,Villa,Åbakken 8,5580, Nørre Aaby,2525000 ,25-06-2020,Alm. Salg,181,13950.0,7,2007,-3%
 410,Villa,Lyøvænget 9,5500, Middelfart,1900000 ,24-06-2020,Alm. Salg,107,17757.0,4,1987,-5%
-410,Villa,Ærøvænget 28,5500, Middelfart,2858000 ,23-06-2020,Alm. Salg,128,22328.0,5,2005,
 410,Villa,Åvænget 7,5463, Harndrup,650000 ,23-06-2020,Alm. Salg,101,6436.0,4,1969,
 410,Villa,Ørredvænget 6,5500, Middelfart,810000 ,23-06-2020,Alm. Salg,172,4709.0,5,2021,
 410,Villa,Berlin 43,5463, Harndrup,596700 ,22-06-2020,Auktion,128,4662.0,3,1912,
@@ -1718,7 +1686,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Kåsvænget 46,5500, Middelfart,2635000 ,14-06-2020,Alm. Salg,155,17000.0,6,1967,-4%
 410,Villa,Ørredvænget 40,5500, Middelfart,810000 ,14-06-2020,Alm. Salg,156,5192.0,5,2021,
 410,Villa,Røjlemosevej 20,5500, Middelfart,3100000 ,12-06-2020,Alm. Salg,171,18129.0,6,1929,-5%
-410,Villa,Ærøvænget 90,5500, Middelfart,3650000 ,12-06-2020,Alm. Salg,164,22256.0,6,2008,
 410,Rækkehus,Nygade 59,5500, Middelfart,1212500 ,11-06-2020,Alm. Salg,186,6519.0,6,1900,
 410,Villa,Margaardvej 50,5580, Nørre Aaby,362500 ,11-06-2020,Andet,120,3021.0,5,1897,
 410,Villa,Vejlbyvej 36,5500, Middelfart,1365000 ,11-06-2020,Alm. Salg,163,8374.0,6,1978,-9%
@@ -1835,7 +1802,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Nørre Alle 27,5500, Middelfart,2227500 ,21-04-2020,Alm. Salg,288,7734.0,6,2022,
 410,Villa,Aulbjergvej 12,5591, Gelsted,762500 ,20-04-2020,Alm. Salg,155,4919.0,5,1900,
 410,Villa,Korsbjergvej 11,5500, Middelfart,3100000 ,20-04-2020,Alm. Salg,205,15122.0,6,1888,-3%
-410,Villa,Gl Strandvej 136,5500, Middelfart,4875000 ,20-04-2020,Alm. Salg,221,22059.0,5,1971,
 410,Villa,Stengade 23,5463, Harndrup,900000 ,20-04-2020,Alm. Salg,142,6338.0,5,1940,-10%
 410,Villa,Tårup Udlod 36,5591, Gelsted,251000 ,20-04-2020,Alm. Salg,50,5020.0,2,1880,
 410,Villa,Bryggervej 16,5464, Brenderup Fyn,3495000 ,20-04-2020,Alm. Salg,248,14093.0,8,2016,
@@ -2059,7 +2025,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Søndergade 83,5591, Gelsted,575000 ,27-11-2019,Alm. Salg,100,5750.0,3,1920,-4%
 410,Villa,Lyøvej 12,5466, Asperup,3800000 ,27-11-2019,Alm. Salg,227,16740.0,7,2000,
 410,Villa,Drejøvænget 26,5500, Middelfart,1960000 ,27-11-2019,Alm. Salg,130,15077.0,5,1975,
-410,Villa,Kingstrupvej 150,5591, Gelsted,932441 ,27-11-2019,Alm. Salg,270,3453.0,2,1902,
 410,Villa,Telefonvænget 20,5500, Middelfart,1695000 ,26-11-2019,Alm. Salg,125,13560.0,5,1985,
 410,Villa,Bubbelvej 85,5464, Brenderup Fyn,1115000 ,26-11-2019,Alm. Salg,190,5868.0,5,1777,-7%
 410,Villa,Skovvej 29,5463, Harndrup,862500 ,26-11-2019,Alm. Salg,198,4356.0,7,1900,
@@ -2215,7 +2180,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Gelsted Mose 48,5591, Gelsted,225000 ,10-09-2019,Alm. Salg,191,1178.0,7,2021,-31%
 410,Villa,Bogensevej 82,5500, Middelfart,1300000 ,09-09-2019,Alm. Salg,113,11504.0,3,1948,-4%
 410,Villa,Vestergårdvej 39,5500, Middelfart,849492 ,09-09-2019,Fam. Salg,160,5309.0,6,1989,
-410,Rækkehus,Blindebomsvej 4,5500, Middelfart,1850000 ,05-09-2019,Alm. Salg,83,22289.0,4,1918,-2%
 410,Rækkehus,Solsortevej 16,5500, Middelfart,1000000 ,05-09-2019,Alm. Salg,85,11765.0,3,1930,-9%
 410,Ejerlejlighed,"Søndergade 79C, 2. tv",5500, Middelfart,1615000 ,05-09-2019,Alm. Salg,114,14167.0,4,1912,-2%
 410,Villa,Ejby Engvej 8,5592, Ejby,895000 ,05-09-2019,Alm. Salg,130,6885.0,5,1976,
@@ -2226,7 +2190,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Hollændervej 59,5500, Middelfart,2055000 ,03-09-2019,Alm. Salg,123,16707.0,4,1963,
 410,Villa,Ruerne 16,5591, Gelsted,136000 ,03-09-2019,Alm. Salg,44,3091.0,3,0,
 410,Villa,Fynsvænget 6,5500, Middelfart,1825000 ,02-09-2019,Alm. Salg,165,11061.0,4,1968,-4%
-410,Rækkehus,Smedegade 20,5500, Middelfart,1200000 ,01-09-2019,Alm. Salg,53,22642.0,2,1890,
 410,Villa,Havevej 3,5500, Middelfart,1750000 ,29-08-2019,Alm. Salg,136,12868.0,4,1985,-8%
 410,Villa,Åvej 2,5500, Middelfart,970000 ,29-08-2019,Alm. Salg,273,3553.0,7,1864,-22%
 410,Villa,Norgesvej 11,5500, Middelfart,1900000 ,29-08-2019,Alm. Salg,96,19792.0,4,1934,-5%
@@ -2360,7 +2323,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Bogensevej 85,5500, Middelfart,849709 ,10-06-2019,Auktion,91,9337.0,4,1910,
 410,Villa,Storebæltsvænget 58,5500, Middelfart,1925000 ,10-06-2019,Alm. Salg,120,16042.0,4,1983,-4%
 410,Villa,Akelejehaven 18,5500, Middelfart,1000000 ,10-06-2019,Alm. Salg,171,5848.0,6,2019,
-410,Villa,Grønningen 25,5500, Middelfart,3210000 ,10-06-2019,Alm. Salg,143,22448.0,6,1999,7%
 410,Villa,Æbleparken 19,5464, Brenderup Fyn,2395000 ,08-06-2019,Alm. Salg,153,15654.0,5,2008,
 410,Villa,Kirkevej 14,5580, Nørre Aaby,1050000 ,06-06-2019,Alm. Salg,113,9292.0,4,1915,-7%
 410,Villa,Solvænget 1,5592, Ejby,995000 ,06-06-2019,Alm. Salg,163,6104.0,6,1962,
@@ -2516,7 +2478,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Rækkehus,Algade 12,5500, Middelfart,4650000 ,22-03-2019,Alm. Salg,213,21831.0,4,1774,
 410,Villa,Teglgårdsparken 32,5500, Middelfart,3165000 ,21-03-2019,Alm. Salg,172,18401.0,5,1999,
 410,Villa,Solbærkvisten 10,5500, Middelfart,2450000 ,21-03-2019,Alm. Salg,156,15705.0,5,2007,-2%
-410,Ejerlejlighed,"Fænøsund Park 1, st. 3",5500, Middelfart,2395000 ,20-03-2019,Alm. Salg,108,22176.0,2,2007,
 410,Villa,Karolinevej 11,5500, Middelfart,2120000 ,20-03-2019,Alm. Salg,128,16563.0,4,1976,
 410,Villa,Kongebrovej 37,5500, Middelfart,4200000 ,20-03-2019,Alm. Salg,192,21875.0,7,1925,-2%
 410,Villa,Kærbyvænget 5,5466, Asperup,2050000 ,20-03-2019,Alm. Salg,149,13758.0,6,2008,-2%
@@ -2690,7 +2651,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Algade 54,5592, Ejby,1000000 ,27-11-2018,Alm. Salg,110,9091.0,4,1939,-16%
 410,Villa,Præstebuen 22,5592, Ejby,180000 ,25-11-2018,Alm. Salg,162,1111.0,5,1930,
 410,Villa,Jyllandsvej 4,5500, Middelfart,1000000 ,25-11-2018,Alm. Salg,121,8264.0,4,1917,-23%
-410,Villa,Brændeskovvej 81,5500, Middelfart,3525000 ,22-11-2018,Alm. Salg,159,22170.0,6,2004,-3%
 410,Villa,Violvej 1,5500, Middelfart,1000000 ,22-11-2018,Fam. Salg,90,11111.0,3,1957,
 410,Villa,Majsvej 14,5500, Middelfart,1195000 ,20-11-2018,Alm. Salg,114,10482.0,4,1967,
 410,Villa,Østre Hougvej 83,5500, Middelfart,907000 ,19-11-2018,Auktion,159,5704.0,7,1963,
@@ -2754,7 +2714,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Stribgårdvej 53,5500, Middelfart,1500000 ,10-10-2018,Alm. Salg,124,12097.0,4,1978,-10%
 410,Villa,Brændeskovvej 67,5500, Middelfart,2975000 ,10-10-2018,Alm. Salg,159,18711.0,4,2005,
 410,Villa,Strømøvænget 10,5500, Middelfart,2285000 ,09-10-2018,Alm. Salg,140,16321.0,4,1976,
-410,Ejerlejlighed,"Fænøsund Park 5, st. th",5500, Middelfart,3205000 ,08-10-2018,Alm. Salg,144,22257.0,3,2005,-3%
 410,Villa,Behrendtsvej 2,5500, Middelfart,1950000 ,08-10-2018,Alm. Salg,133,14662.0,6,1900,
 410,Villa,Byllerup 9,5580, Nørre Aaby,1595000 ,08-10-2018,Alm. Salg,116,13750.0,4,1896,
 410,Villa,Kastanievej 4,5580, Nørre Aaby,800000 ,08-10-2018,Alm. Salg,93,8602.0,4,1943,
@@ -2861,7 +2820,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Morbærkvisten 4,5500, Middelfart,2450000 ,12-08-2018,Alm. Salg,149,16443.0,6,2006,-2%
 410,Villa,Stjernevænget 10,5592, Ejby,775000 ,11-08-2018,Fam. Salg,141,5496.0,3,1969,
 410,Villa,Eskørgyden 15,5592, Ejby,956078 ,11-08-2018,Andet,151,6332.0,6,1993,
-410,Villa,Hestehaven 5,5500, Middelfart,4600000 ,07-08-2018,Alm. Salg,208,22115.0,6,1973,-7%
 410,Villa,Voldbyvej 8,5500, Middelfart,1700000 ,07-08-2018,Alm. Salg,189,8995.0,7,1896,-8%
 410,Villa,Karensvej 19,5500, Middelfart,1800000 ,07-08-2018,Alm. Salg,154,11688.0,4,1969,-3%
 410,Villa,Aabylundvej 8,5580, Nørre Aaby,1795000 ,07-08-2018,Alm. Salg,257,6984.0,8,1865,
@@ -2875,7 +2833,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Middelfartvej 277,5464, Brenderup Fyn,464000 ,31-07-2018,Fam. Salg,161,2882.0,7,1911,
 410,Rækkehus,Tværgade 8,5500, Middelfart,2035000 ,30-07-2018,Alm. Salg,185,11000.0,9,1900,-3%
 410,Villa,Brovangen 24,5464, Brenderup Fyn,1075000 ,30-07-2018,Alm. Salg,149,7215.0,5,1840,-7%
-410,Villa,Mosevænget 17,5500, Middelfart,4500000 ,30-07-2018,Alm. Salg,200,22500.0,5,1802,
 410,Villa,Kildehøj 1,5500, Middelfart,3110000 ,30-07-2018,Alm. Salg,148,21014.0,5,2009,-6%
 410,Villa,Engvej 28,5464, Brenderup Fyn,1100000 ,29-07-2018,Alm. Salg,244,4508.0,6,1980,-21%
 410,Villa,Jydekrogen 7,5580, Nørre Aaby,855000 ,29-07-2018,Alm. Salg,135,6333.0,5,1877,-4%
@@ -2884,9 +2841,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Kirkevej 40,5464, Brenderup Fyn,628327 ,26-07-2018,Fam. Salg,185,3396.0,6,1850,
 410,Villa,Chr Dannings Vej 38,5500, Middelfart,2150000 ,24-07-2018,Alm. Salg,151,14238.0,6,1986,-2%
 410,Ejerlejlighed,"Gl Vestergade 30, st",5500, Middelfart,1550000 ,23-07-2018,Alm. Salg,81,19136.0,2,1999,-3%
-410,Rækkehus,Nygade 7,5500, Middelfart,1750000 ,22-07-2018,Alm. Salg,135,12963.0,6,1907,-8%
 410,Villa,Vestergade 2B,5500, Middelfart,3000000 ,22-07-2018,Alm. Salg,155,19355.0,3,1910,-6%
-410,Villa,Hollændervej 4,5500, Middelfart,1750000 ,22-07-2018,Alm. Salg,225,7778.0,7,1965,-5%
 410,Villa,Svinget 3,5591, Gelsted,200000 ,22-07-2018,Alm. Salg,87,2299.0,4,1875,
 410,Villa,Æbleparken 10,5464, Brenderup Fyn,325000 ,19-07-2018,Alm. Salg,189,1720.0,5,2019,-27%
 410,Villa,Skærbæksmøllevej 5,5500, Middelfart,1525000 ,16-07-2018,Alm. Salg,120,12708.0,3,1900,-4%
@@ -2923,10 +2878,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Øster Alle 48,5500, Middelfart,2895000 ,02-07-2018,Alm. Salg,151,19172.0,6,1963,
 410,Villa,Læsøvej 6,5466, Asperup,925000 ,02-07-2018,Alm. Salg,135,6852.0,5,1979,-7%
 410,Villa,Postmosevej 56,5500, Middelfart,1750000 ,02-07-2018,Alm. Salg,150,11667.0,5,1972,-6%
-410,Ejerlejlighed,"Fænøsund Park 8, 3. tv",5500, Middelfart,2350000 ,01-07-2018,Alm. Salg,106,22170.0,3,2017,
 410,Villa,Bues Gyde 36,5592, Ejby,172447 ,30-06-2018,Alm. Salg,107,1612.0,4,1900,
 410,Rækkehus,Odensevej 22,5500, Middelfart,1085000 ,28-06-2018,Alm. Salg,69,15725.0,4,1900,
-410,Villa,Sverigesvej 9,5500, Middelfart,2150000 ,28-06-2018,Alm. Salg,96,22396.0,4,1949,-1%
 410,Villa,Egelundvej 15,5464, Brenderup Fyn,1355000 ,28-06-2018,Alm. Salg,133,10188.0,4,1975,-3%
 410,Villa,Røjlemosevej 38,5500, Middelfart,2400000 ,28-06-2018,Alm. Salg,204,11765.0,6,1979,-14%
 410,Villa,Rankegårdsvænget 2,5466, Asperup,2000000 ,27-06-2018,Alm. Salg,192,10417.0,5,2006,-9%
@@ -2937,7 +2890,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Hindballevej 9,5466, Asperup,570000 ,27-06-2018,Alm. Salg,94,6064.0,3,1959,-5%
 410,Villa,Lærkestræde 12,5466, Asperup,1100000 ,27-06-2018,Alm. Salg,183,6011.0,5,1974,
 410,Villa,Æbleparken 4,5464, Brenderup Fyn,50000 ,27-06-2018,Andet,172,291.0,5,2020,-87%
-410,Villa,Egevej 36,5500, Middelfart,3400000 ,26-06-2018,Alm. Salg,152,22368.0,6,1927,1%
 410,Rækkehus,Møllehaven 3,5500, Middelfart,1050000 ,25-06-2018,Alm. Salg,70,15000.0,3,1986,
 410,Villa,Præstebuen 18,5592, Ejby,50000 ,25-06-2018,Andet,110,455.0,4,1887,
 410,Villa,Gelsted Byvej 10,5591, Gelsted,247800 ,25-06-2018,Auktion,193,1284.0,7,1918,
@@ -2976,7 +2928,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Ærøvænget 28,5500, Middelfart,2595000 ,07-06-2018,Alm. Salg,128,20273.0,5,2005,
 410,Villa,Bjørnøvænget 36,5500, Middelfart,2850000 ,07-06-2018,Alm. Salg,166,17169.0,5,1976,-3%
 410,Rækkehus,Algade 13,5500, Middelfart,2200000 ,06-06-2018,Andet,117,18803.0,4,1800,0%
-410,Rækkehus,Baaringvad 18B,5580, Nørre Aaby,3200000 ,06-06-2018,Andet,106,16931.0,6,1997,
 410,Villa,Skovgyden 1,5466, Asperup,880000 ,06-06-2018,Alm. Salg,107,8224.0,5,1827,
 410,Villa,Karsevænget 8,5500, Middelfart,1475000 ,04-06-2018,Alm. Salg,83,17771.0,3,1957,-5%
 410,Villa,Æbleparken 1,5464, Brenderup Fyn,2375000 ,04-06-2018,Alm. Salg,151,15728.0,6,2016,-1%
@@ -3030,7 +2981,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Rugårdsvej 53,5463, Harndrup,1395000 ,29-04-2018,Alm. Salg,217,6429.0,8,1867,-7%
 410,Villa,Postmosevej 71,5500, Middelfart,1350000 ,26-04-2018,Alm. Salg,149,9060.0,5,1971,
 410,Villa,Løkkevej 18,5500, Middelfart,3075000 ,25-04-2018,Alm. Salg,148,20777.0,5,1985,-4%
-410,Villa,Vestergade 57,5500, Middelfart,1350000 ,25-04-2018,Alm. Salg,103,13107.0,3,1927,
 410,Villa,Søndermarken 5,5580, Nørre Aaby,2325000 ,25-04-2018,Alm. Salg,154,15097.0,5,2007,
 410,Rækkehus,Brovejen 124,5500, Middelfart,975000 ,24-04-2018,Alm. Salg,88,11080.0,4,1922,-2%
 410,Villa,Gelsted Mose 19,5591, Gelsted,265000 ,23-04-2018,Alm. Salg,136,1949.0,4,2018,-7%
@@ -3238,7 +3188,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Rolundvej 27,5591, Gelsted,872000 ,04-12-2017,Alm. Salg,148,5892.0,5,1966,
 410,Villa,Røjle Bygade 54,5500, Middelfart,1675000 ,03-12-2017,Alm. Salg,136,12316.0,5,2004,-4%
 410,Villa,Hyllehøjvej 8B,5500, Middelfart,625000 ,30-11-2017,Andet,175,3571.0,5,2019,26%
-410,Rækkehus,Smedegade 27,5500, Middelfart,1875000 ,27-11-2017,Alm. Salg,83,22590.0,3,1830,-1%
 410,Villa,Sevanen 14,5580, Nørre Aaby,850000 ,27-11-2017,Alm. Salg,126,6746.0,4,1986,
 410,Villa,Omøvænget 10,5500, Middelfart,1895000 ,26-11-2017,Alm. Salg,130,14577.0,5,1985,-3%
 410,Villa,Østre Hougvej 18,5500, Middelfart,1795000 ,26-11-2017,Alm. Salg,156,11506.0,5,1932,
@@ -3293,7 +3242,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Karensvej 5,5500, Middelfart,1925000 ,26-10-2017,Alm. Salg,112,17188.0,4,1966,2%
 410,Villa,Hygindvej 72,5592, Ejby,350000 ,25-10-2017,Alm. Salg,168,2083.0,6,1827,-50%
 410,Villa,Kirstensvej 5,5500, Middelfart,750000 ,25-10-2017,Alm. Salg,103,7282.0,4,1975,
-410,Villa,Mellemmarkvej 27,5500, Middelfart,3875000 ,22-10-2017,Alm. Salg,175,22143.0,7,1939,-3%
 410,Villa,Bubbelvej 75,5464, Brenderup Fyn,850000 ,22-10-2017,Alm. Salg,143,5944.0,5,1920,-8%
 410,Villa,Rudbæksbanke 10,5500, Middelfart,2100000 ,22-10-2017,Alm. Salg,168,12500.0,6,1957,-16%
 410,Villa,Stribgårdvej 12,5500, Middelfart,920000 ,22-10-2017,Alm. Salg,187,4920.0,6,2018,-73%
@@ -3334,18 +3282,15 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Rækkehus,Strandvejen 286,5500, Middelfart,1450000 ,25-09-2017,Alm. Salg,180,8056.0,4,1860,-18%
 410,Villa,Tjørnevænget 8,5592, Ejby,1450000 ,25-09-2017,Alm. Salg,148,9797.0,5,1923,-9%
 410,Villa,Kamillavej 7,5500, Middelfart,1700000 ,25-09-2017,Alm. Salg,114,14912.0,3,1950,-5%
-410,Villa,Siøvænget 21,5500, Middelfart,4950000 ,25-09-2017,Alm. Salg,174,22098.0,5,1976,
 410,Villa,Gl Assensvej 40,5580, Nørre Aaby,1875000 ,24-09-2017,Alm. Salg,298,6292.0,9,1900,-6%
 410,Rækkehus,Nørregade 30,5592, Ejby,765000 ,21-09-2017,Alm. Salg,87,8793.0,3,1877,-4%
 410,Villa,Fønsvej 3,5580, Nørre Aaby,925000 ,21-09-2017,Alm. Salg,132,7008.0,4,1951,-16%
 410,Villa,Brændeskovvej 107,5500, Middelfart,3995000 ,21-09-2017,Alm. Salg,203,19680.0,4,2014,
 410,Rækkehus,Bøgevænget 14,5500, Middelfart,1100000 ,19-09-2017,Alm. Salg,85,12941.0,3,1969,-8%
-410,Rækkehus,Rs Poulsens Vej 22B,5500, Middelfart,595000 ,19-09-2017,Fam. Salg,50,11900.0,2,1900,
 410,Villa,Kauslundevej 11,5500, Middelfart,1400000 ,19-09-2017,Alm. Salg,160,8750.0,5,1908,
 410,Villa,Tårupvej 34,5500, Middelfart,1608500 ,19-09-2017,Alm. Salg,171,9406.0,4,1770,
 410,Villa,Østerbyvej 19,5500, Middelfart,2300000 ,19-09-2017,Alm. Salg,240,9583.0,8,1999,-8%
 410,Villa,Rolundvej 28,5591, Gelsted,1050000 ,19-09-2017,Alm. Salg,137,7664.0,5,1970,
-410,Villa,Rs Poulsens Vej 22A,5500, Middelfart,595000 ,19-09-2017,Fam. Salg,86,6919.0,3,1973,
 410,Villa,Solskinsvænget 35,5500, Middelfart,830800 ,18-09-2017,Auktion,129,6440.0,5,1965,
 410,Villa,Stribgårdvej 71,5500, Middelfart,2400000 ,17-09-2017,Alm. Salg,183,13115.0,6,1977,-8%
 410,Villa,Jyllandsvej 44,5500, Middelfart,2450000 ,17-09-2017,Alm. Salg,239,10251.0,8,1912,-2%
@@ -3384,7 +3329,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Lundsgårdsvej 26,5463, Harndrup,450000 ,20-08-2017,Alm. Salg,200,2250.0,7,1840,-14%
 410,Villa,Akelejehaven 30,5500, Middelfart,1000000 ,20-08-2017,Alm. Salg,180,5556.0,4,2022,
 410,Ejerlejlighed,"Fænøsund Park 8, st. th",5500, Middelfart,2000000 ,17-08-2017,Alm. Salg,121,16529.0,4,2017,
-410,Villa,Gl Strandvej 73,5500, Middelfart,4400000 ,17-08-2017,Alm. Salg,195,22564.0,6,1929,-1%
 410,Villa,Vestergade 74,5500, Middelfart,2630000 ,17-08-2017,Alm. Salg,125,21040.0,3,1933,
 410,Villa,Syrenvej 6,5464, Brenderup Fyn,785000 ,16-08-2017,Alm. Salg,123,6382.0,4,1980,
 410,Villa,Solbærkvisten 2,5500, Middelfart,2550000 ,16-08-2017,Alm. Salg,165,15455.0,6,2007,
@@ -3512,7 +3456,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Assensvej 29,5591, Gelsted,427788 ,05-06-2017,Fam. Salg,132,3241.0,5,1948,
 410,Villa,Lundevej 11,5580, Nørre Aaby,1198000 ,05-06-2017,Alm. Salg,146,8205.0,5,1970,
 410,Villa,Møllebakken 2,5500, Middelfart,1350000 ,03-06-2017,Alm. Salg,134,10075.0,5,1967,
-410,Rækkehus,Søndergade 9,5500, Middelfart,3170000 ,01-06-2017,Alm. Salg,143,22168.0,4,1731,-5%
 410,Villa,Fjellerupvej 78,5560, Aarup,1200000 ,01-06-2017,Alm. Salg,251,4781.0,6,1900,-14%
 410,Villa,Byholmvej 16,5592, Ejby,1800000 ,01-06-2017,Alm. Salg,305,5902.0,6,1870,
 410,Villa,Sønder Alle 29,5500, Middelfart,2370000 ,01-06-2017,Alm. Salg,121,19587.0,4,1904,-3%
@@ -3528,7 +3471,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,"Brenderupvej 28, 1",5464, Brenderup Fyn,750000 ,25-05-2017,Alm. Salg,204,3676.0,6,1912,
 410,Villa,Rydskovvej 14,5560, Aarup,875000 ,23-05-2017,Alm. Salg,73,11986.0,4,2005,
 410,Villa,Rønnevej 20,5580, Nørre Aaby,795000 ,23-05-2017,Alm. Salg,126,6310.0,4,1966,
-410,Rækkehus,"Brovejen 285, st. th",5500, Middelfart,2240000 ,22-05-2017,Alm. Salg,99,22626.0,3,1959,
 410,Villa,Ridderstien 12,5463, Harndrup,1025000 ,22-05-2017,Alm. Salg,143,7168.0,5,1930,-6%
 410,Villa,Elmegade 25,5500, Middelfart,1325000 ,22-05-2017,Alm. Salg,102,12990.0,4,1938,-5%
 410,Villa,Fuglebakken 15,5500, Middelfart,2300000 ,21-05-2017,Alm. Salg,259,8880.0,7,1972,
@@ -3585,10 +3527,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Vestergårdvej 33,5500, Middelfart,2295000 ,05-04-2017,Alm. Salg,160,14344.0,6,1994,
 410,Villa,Solvænget 4,5592, Ejby,615000 ,04-04-2017,Alm. Salg,93,6613.0,3,1962,-12%
 410,Villa,Alrøvænget 3,5500, Middelfart,2525000 ,04-04-2017,Alm. Salg,168,15030.0,5,1996,-3%
-410,Ejerlejlighed,"Østergade 1, 1",5591, Gelsted,250000 ,03-04-2017,Auktion,31,8065.0,2,1918,
 410,Villa,Kauslundevej 14,5500, Middelfart,265000 ,03-04-2017,Auktion,134,1978.0,3,1847,
 410,Villa,Fynsvej 4,5466, Asperup,675000 ,03-04-2017,Alm. Salg,126,5357.0,5,1963,
-410,Villa,Østergade 1,5591, Gelsted,250000 ,03-04-2017,Auktion,118,2119.0,6,1910,
 410,Villa,Middelfartvej 44,5466, Asperup,1289985 ,03-04-2017,Auktion,190,6789.0,4,1827,
 410,Villa,Sofiendalvej 46,5500, Middelfart,925000 ,02-04-2017,Alm. Salg,128,7227.0,4,1959,-29%
 410,Villa,Jacob Gades Vej 2,5500, Middelfart,2660000 ,02-04-2017,Alm. Salg,146,18219.0,5,1998,-5%
@@ -3735,8 +3675,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Stiklingen 7,5500, Middelfart,533000 ,20-12-2016,Alm. Salg,197,2706.0,5,2018,7%
 410,Rækkehus,Skovgade 3,5500, Middelfart,1700000 ,19-12-2016,Alm. Salg,101,16832.0,4,1877,
 410,Ejerlejlighed,"Østergade 12, 1",5580, Nørre Aaby,367800 ,19-12-2016,Auktion,127,2896.0,4,1900,
-410,Ejerlejlighed,Hårevej 50A,5591, Gelsted,1360000 ,19-12-2016,Fam. Salg,83,16386.0,3,1934,
-410,Villa,Hårevej 48,5591, Gelsted,1360000 ,19-12-2016,Fam. Salg,271,5018.0,4,2008,
 410,Villa,Brovejen 194,5500, Middelfart,1460000 ,19-12-2016,Alm. Salg,154,9481.0,8,1955,-7%
 410,Villa,Ejbyvej 59,5463, Harndrup,175000 ,18-12-2016,Alm. Salg,93,1882.0,4,1896,
 410,Villa,H C Lumbyes Vej 41,5500, Middelfart,2900000 ,18-12-2016,Alm. Salg,169,17160.0,6,1985,-6%
@@ -3756,28 +3694,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Akelejehaven 2,5500, Middelfart,1017950 ,08-12-2016,Alm. Salg,184,5532.0,5,2017,2%
 410,Villa,Akelejehaven 28,5500, Middelfart,1050000 ,08-12-2016,Alm. Salg,222,4730.0,8,2018,5%
 410,Villa,Perikonhaven 3,5500, Middelfart,1156800 ,08-12-2016,Alm. Salg,225,5141.0,5,2017,16%
-410,Ejerlejlighed,"Hyldebærgrenen 12, 1. 2",5500, Middelfart,900000 ,07-12-2016,Alm. Salg,96,9375.0,3,2018,
-410,Ejerlejlighed,"Hyldebærgrenen 2, 1. 2",5500, Middelfart,900000 ,07-12-2016,Alm. Salg,96,9375.0,3,2018,
-410,Ejerlejlighed,Mirabellegrenen 3,5500, Middelfart,900000 ,07-12-2016,Alm. Salg,89,10112.0,3,2018,
-410,Ejerlejlighed,Hyldebærgrenen 4,5500, Middelfart,900000 ,07-12-2016,Alm. Salg,89,10112.0,3,2018,
-410,Ejerlejlighed,Hyldebærgrenen 8,5500, Middelfart,900000 ,07-12-2016,Alm. Salg,85,10588.0,3,2018,
-410,Ejerlejlighed,Mirabellegrenen 5,5500, Middelfart,900000 ,07-12-2016,Alm. Salg,102,8824.0,4,2018,
-410,Ejerlejlighed,"Mirabellegrenen 1, 1. 1",5500, Middelfart,900000 ,07-12-2016,Alm. Salg,109,8257.0,4,2018,
-410,Ejerlejlighed,Mirabellegrenen 7,5500, Middelfart,900000 ,07-12-2016,Alm. Salg,85,10588.0,3,2018,
-410,Ejerlejlighed,Hyldebærgrenen 22,5500, Middelfart,900000 ,07-12-2016,Alm. Salg,89,10112.0,3,2018,
-410,Ejerlejlighed,"Hyldebærgrenen 2, 1. 1",5500, Middelfart,900000 ,07-12-2016,Alm. Salg,92,9783.0,3,2018,
-410,Ejerlejlighed,Hyldebærgrenen 10,5500, Middelfart,900000 ,07-12-2016,Alm. Salg,89,10112.0,3,2018,
-410,Ejerlejlighed,Mirabellegrenen 9,5500, Middelfart,900000 ,07-12-2016,Alm. Salg,89,10112.0,3,2018,
-410,Ejerlejlighed,Hyldebærgrenen 20,5500, Middelfart,900000 ,07-12-2016,Alm. Salg,85,10588.0,3,2018,
-410,Ejerlejlighed,"Hyldebærgrenen 12, 1. 1",5500, Middelfart,900000 ,07-12-2016,Alm. Salg,92,9783.0,3,2018,
-410,Ejerlejlighed,"Hyldebærgrenen 18, 1. 2",5500, Middelfart,900000 ,07-12-2016,Alm. Salg,92,9783.0,3,2018,
-410,Ejerlejlighed,"Hyldebærgrenen 16, 1",5500, Middelfart,900000 ,07-12-2016,Alm. Salg,115,7826.0,4,2018,
-410,Ejerlejlighed,Hyldebærgrenen 6,5500, Middelfart,900000 ,07-12-2016,Alm. Salg,85,10588.0,3,2018,
-410,Ejerlejlighed,"Mirabellegrenen 1, 1. 2",5500, Middelfart,900000 ,07-12-2016,Alm. Salg,96,9375.0,3,2018,
-410,Ejerlejlighed,Hyldebærgrenen 14,5500, Middelfart,900000 ,07-12-2016,Alm. Salg,106,8491.0,4,2018,
-410,Ejerlejlighed,"Mirabellegrenen 11, 1. 2",5500, Middelfart,900000 ,07-12-2016,Alm. Salg,96,9375.0,3,2018,
-410,Ejerlejlighed,"Hyldebærgrenen 18, 1. 1",5500, Middelfart,900000 ,07-12-2016,Alm. Salg,96,9375.0,3,2018,
-410,Ejerlejlighed,"Mirabellegrenen 11, 1. 1",5500, Middelfart,900000 ,07-12-2016,Alm. Salg,92,9783.0,3,2018,
 410,Villa,Søndergade 39,5580, Nørre Aaby,725000 ,07-12-2016,Alm. Salg,127,5709.0,5,1914,
 410,Ejerlejlighed,"Østergade 14A, 1",5500, Middelfart,2127059 ,06-12-2016,Alm. Salg,152,13994.0,3,1906,
 410,Villa,Vestergade 24,5500, Middelfart,1700000 ,06-12-2016,Alm. Salg,215,7907.0,7,1912,
@@ -3874,7 +3790,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Bues Gyde 24,5592, Ejby,192800 ,16-10-2016,Auktion,165,1168.0,9,1877,
 410,Villa,Møllevej 32,5591, Gelsted,635000 ,16-10-2016,Alm. Salg,131,4847.0,5,1910,-9%
 410,Villa,Stribgårdvej 4,5500, Middelfart,1965000 ,16-10-2016,Alm. Salg,142,13838.0,5,2008,-12%
-410,Ejerlejlighed,"Fænøsund Park 1, 1. 3",5500, Middelfart,2430000 ,13-10-2016,Alm. Salg,108,22500.0,2,2007,
 410,Villa,Lyøvænget 29,5500, Middelfart,1475000 ,13-10-2016,Alm. Salg,105,14048.0,4,1978,
 410,Villa,Smutvejen 4B,5500, Middelfart,595000 ,13-10-2016,Alm. Salg,139,4281.0,5,2017,
 410,Rækkehus,Hyldebærgrenen 35,5500, Middelfart,1450000 ,10-10-2016,Alm. Salg,98,14796.0,4,2007,-3%
@@ -3888,7 +3803,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Tårupvej 46,5591, Gelsted,800000 ,06-10-2016,Alm. Salg,90,8889.0,4,1992,-11%
 410,Rækkehus,Teglgårdsparken 58,5500, Middelfart,2475000 ,05-10-2016,Alm. Salg,115,21522.0,4,1968,-1%
 410,Villa,Margaardvej 40,5580, Nørre Aaby,500000 ,05-10-2016,Alm. Salg,104,4808.0,3,1912,-16%
-410,Villa,Vesterløkke Alle 12,5500, Middelfart,2600000 ,05-10-2016,Alm. Salg,118,22034.0,5,1936,
 410,Rækkehus,Skovgade 10,5500, Middelfart,2350000 ,04-10-2016,Alm. Salg,136,17279.0,5,1900,-2%
 410,Villa,Nørregade 152,5592, Ejby,754500 ,03-10-2016,Fam. Salg,120,6288.0,4,1946,
 410,Villa,Spurvevej 3,5500, Middelfart,1300000 ,02-10-2016,Fam. Salg,152,8553.0,5,1963,
@@ -3923,7 +3837,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Præstebuen 9,5592, Ejby,995000 ,13-09-2016,Alm. Salg,135,7370.0,4,1928,
 410,Rækkehus,Kamillavej 3,5500, Middelfart,1340000 ,12-09-2016,Alm. Salg,136,9853.0,6,1922,-11%
 410,Villa,Røjle Bygade 113,5500, Middelfart,1200000 ,12-09-2016,Alm. Salg,206,5825.0,7,1967,-7%
-410,Villa,Jyllandsvej 37A,5500, Middelfart,1400000 ,08-09-2016,Alm. Salg,116,12069.0,4,0,
 410,Rækkehus,Fredensvej 5,5500, Middelfart,1120000 ,07-09-2016,Alm. Salg,95,11789.0,3,1927,-3%
 410,Villa,Søndermarken 63,5580, Nørre Aaby,1099328 ,07-09-2016,Andet,154,7138.0,6,2012,
 410,Ejerlejlighed,"Bjergbanksvej 4, 1. 2",5500, Middelfart,974000 ,06-09-2016,Alm. Salg,80,12175.0,3,1966,
@@ -3940,7 +3853,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Rækkehus,Gl Banegårdsvej 23,5500, Middelfart,1330000 ,31-08-2016,Alm. Salg,107,12430.0,4,1890,-5%
 410,Villa,Siøvænget 74,5500, Middelfart,1500000 ,29-08-2016,Alm. Salg,114,13158.0,4,1977,-12%
 410,Villa,Violvej 10,5500, Middelfart,1300000 ,29-08-2016,Alm. Salg,107,12150.0,4,1957,-10%
-410,Ejerlejlighed,"Algade 11, 1",5500, Middelfart,2960000 ,28-08-2016,Alm. Salg,134,22090.0,5,1850,-1%
 410,Villa,Kongeløkken 5,5580, Nørre Aaby,1145000 ,28-08-2016,Alm. Salg,134,8545.0,4,1979,-4%
 410,Villa,Pilevej 19,5500, Middelfart,1400000 ,25-08-2016,Alm. Salg,108,12963.0,5,1972,-2%
 410,Villa,Hørkærvej 3,5591, Gelsted,272207 ,24-08-2016,Fam. Salg,113,2409.0,5,1910,
@@ -3968,7 +3880,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Søndervangen 5,5592, Ejby,895000 ,08-08-2016,Alm. Salg,130,6885.0,4,1977,
 410,Villa,Kingstrupvej 43,5592, Ejby,680000 ,06-08-2016,Fam. Salg,145,4690.0,4,1935,
 410,Villa,Brændeskovvej 23,5500, Middelfart,3395000 ,06-08-2016,Alm. Salg,186,18253.0,6,2007,
-410,Villa,Rudbæksbanke 8,5500, Middelfart,2895000 ,05-08-2016,Alm. Salg,128,22617.0,5,1960,-3%
 410,Rækkehus,Skovgade 37,5500, Middelfart,2250000 ,04-08-2016,Alm. Salg,118,19068.0,4,1907,-8%
 410,Villa,Hovedvejen 122,5500, Middelfart,995000 ,04-08-2016,Alm. Salg,233,4270.0,7,1908,-64%
 410,Villa,Birkevej 4,5464, Brenderup Fyn,1895000 ,04-08-2016,Alm. Salg,177,10706.0,5,2002,
@@ -4101,7 +4012,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Middelfartvej 254,5464, Brenderup Fyn,675000 ,02-05-2016,Alm. Salg,80,8438.0,3,1919,-7%
 410,Villa,Lillegade 5,5592, Ejby,200000 ,02-05-2016,Alm. Salg,140,1429.0,4,2017,
 410,Rækkehus,Højskolevej 4,5500, Middelfart,2115000 ,01-05-2016,Alm. Salg,117,18077.0,4,2016,
-410,Rækkehus,Gl Vestergade 16,5500, Middelfart,1350000 ,29-04-2016,Alm. Salg,61,22131.0,2,1927,-2%
 410,Villa,Byvejen 60,5466, Asperup,1210859 ,28-04-2016,Alm. Salg,185,6545.0,6,1930,-50%
 410,Villa,Gl. Odensevej 26,5591, Gelsted,1900000 ,28-04-2016,Alm. Salg,176,10795.0,6,1933,0%
 410,Villa,Karensvej 17,5500, Middelfart,2100000 ,28-04-2016,Alm. Salg,158,13291.0,5,1965,5%
@@ -4179,7 +4089,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Bro Skov 18,5464, Brenderup Fyn,1000000 ,17-03-2016,Alm. Salg,160,6250.0,3,1942,-7%
 410,Villa,Fjellerupvej 2,5463, Harndrup,1468000 ,17-03-2016,Alm. Salg,172,8535.0,7,1858,
 410,Villa,Stenbidervænget 1,5500, Middelfart,725000 ,16-03-2016,Alm. Salg,182,3984.0,5,2016,
-410,Villa,Gl Strandvej 77A,5500, Middelfart,6000000 ,15-03-2016,Alm. Salg,269,22305.0,7,2019,
 410,Villa,Industrivej 6,5592, Ejby,2700000 ,13-03-2016,Alm. Salg,270,10000.0,10,1922,0%
 410,Villa,Bubbelvej 83,5464, Brenderup Fyn,750000 ,13-03-2016,Alm. Salg,80,9375.0,3,1900,-12%
 410,Villa,Røjle Bygade 53,5500, Middelfart,515200 ,11-03-2016,Alm. Salg,141,3654.0,5,1944,-35%
@@ -4222,7 +4131,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Knabosholmvej 3,5463, Harndrup,1100000 ,12-02-2016,Alm. Salg,137,8029.0,8,1930,
 410,Villa,Margaardvej 41,5580, Nørre Aaby,875000 ,11-02-2016,Alm. Salg,94,9309.0,3,1964,
 410,Villa,Tennisvej 2,5580, Nørre Aaby,380000 ,11-02-2016,Alm. Salg,84,4524.0,2,1931,-23%
-410,Villa,Gl Strandvej 13,5500, Middelfart,3900000 ,09-02-2016,Alm. Salg,174,22414.0,6,1907,-21%
 410,Villa,Chr Dannings Vej 48,5500, Middelfart,2275000 ,08-02-2016,Alm. Salg,192,11849.0,6,1986,-5%
 410,Villa,Majsvej 19,5500, Middelfart,793000 ,07-02-2016,Fam. Salg,136,5831.0,5,1970,
 410,Villa,Åvænget 29,5463, Harndrup,970000 ,06-02-2016,Alm. Salg,140,6929.0,4,1975,-3%
@@ -4283,9 +4191,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Æbleparken 24,5464, Brenderup Fyn,35000 ,16-12-2015,Fam. Salg,135,259.0,6,2021,
 410,Villa,Kustrupvej 21,5500, Middelfart,5427500 ,15-12-2015,Alm. Salg,260,20875.0,10,1864,
 410,Villa,Fjellerupvej 85,5560, Aarup,125000 ,14-12-2015,Auktion,89,1404.0,5,1957,
-410,Ejerlejlighed,"Østergade 26, 1",5580, Nørre Aaby,1050000 ,13-12-2015,Alm. Salg,49,21429.0,2,1880,-19%
 410,Villa,Balslevvej 55,5592, Ejby,800000 ,13-12-2015,Fam. Salg,148,5405.0,4,1956,
-410,Villa,Østergade 26,5580, Nørre Aaby,1050000 ,13-12-2015,Alm. Salg,110,9545.0,5,1880,-19%
 410,Villa,Hollændervej 76,5500, Middelfart,1125000 ,13-12-2015,Alm. Salg,90,12500.0,3,1963,-6%
 410,Villa,Sophievej 21,5500, Middelfart,2025000 ,10-12-2015,Alm. Salg,99,20455.0,4,1966,-6%
 410,Villa,Fruerhøjvej 28,5464, Brenderup Fyn,1300000 ,10-12-2015,Alm. Salg,238,5462.0,7,1942,
@@ -4344,7 +4250,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Ærøvænget 92,5500, Middelfart,850000 ,09-11-2015,Alm. Salg,175,4857.0,5,2020,
 410,Ejerlejlighed,"Østergade 24, 1",5500, Middelfart,575000 ,08-11-2015,Alm. Salg,70,8214.0,3,1875,
 410,Villa,Hjarnøvænget 3,5500, Middelfart,1049792 ,08-11-2015,Andet,149,7046.0,5,1996,
-410,Villa,Kongebrovej 35,5500, Middelfart,3175000 ,07-11-2015,Alm. Salg,141,22518.0,5,1932,-7%
 410,Rækkehus,Gl Vestergade 5,5500, Middelfart,927000 ,05-11-2015,Fam. Salg,62,14952.0,2,1870,
 410,Rækkehus,Gl Vestergade 17,5500, Middelfart,1490000 ,05-11-2015,Fam. Salg,92,16196.0,3,1890,
 410,Villa,Rydskovvej 33,5560, Aarup,1683750 ,05-11-2015,Andet,129,13052.0,5,1827,
@@ -4358,9 +4263,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Munkegårdsvej 8,5464, Brenderup Fyn,600000 ,01-11-2015,Alm. Salg,120,5000.0,4,1974,-20%
 410,Villa,Nygade 21,5592, Ejby,935000 ,31-10-2015,Alm. Salg,103,9078.0,5,1965,-6%
 410,Villa,Solvænget 8,5500, Middelfart,1445000 ,30-10-2015,Alm. Salg,153,9444.0,5,1968,-3%
-410,Ejerlejlighed,"Østergade 1, 1",5591, Gelsted,550000 ,29-10-2015,Andet,31,17742.0,2,1918,
 410,Villa,Morbærkvisten 7,5500, Middelfart,2400000 ,29-10-2015,Alm. Salg,161,14907.0,6,2006,-1%
-410,Villa,Østergade 1,5591, Gelsted,550000 ,29-10-2015,Andet,118,4661.0,6,1910,
 410,Villa,H C Lumbyes Vej 29,5500, Middelfart,2575000 ,29-10-2015,Alm. Salg,275,9364.0,7,1988,-3%
 410,Villa,Drejøvej 4,5466, Asperup,2350000 ,28-10-2015,Alm. Salg,166,14157.0,5,2007,-8%
 410,Villa,Brovejen 293,5500, Middelfart,975000 ,27-10-2015,Alm. Salg,75,13000.0,3,1957,
@@ -4518,7 +4421,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Røjleklintvej 21,5500, Middelfart,3600000 ,16-07-2015,Alm. Salg,178,20225.0,5,1994,-10%
 410,Villa,Strandvejen 169,5500, Middelfart,2500000 ,16-07-2015,Alm. Salg,178,14045.0,7,1964,
 410,Villa,Kogagervej 17,5500, Middelfart,1000000 ,15-07-2015,Alm. Salg,293,3413.0,5,1933,
-410,Rækkehus,Gl Vestergade 55,5500, Middelfart,3850000 ,13-07-2015,Alm. Salg,173,22254.0,6,1864,-4%
 410,Villa,Majsvej 9,5500, Middelfart,849500 ,13-07-2015,Alm. Salg,111,7653.0,4,1969,
 410,Villa,Øster Alle 56,5500, Middelfart,1100000 ,13-07-2015,Alm. Salg,93,11828.0,4,1930,-15%
 410,Villa,Fyllestedvej 38,5464, Brenderup Fyn,100000 ,13-07-2015,Alm. Salg,85,1176.0,3,1961,
@@ -4677,7 +4579,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Sofiendalvej 35A,5500, Middelfart,528000 ,21-04-2015,Alm. Salg,175,3017.0,5,2016,
 410,Villa,Stribgårdvej 12,5500, Middelfart,300000 ,21-04-2015,Andet,187,1604.0,6,2018,-91%
 410,Ejerlejlighed,"Fænøsund Park 12, 2. tv",5500, Middelfart,1950000 ,20-04-2015,Alm. Salg,111,17568.0,3,2008,-4%
-410,Rækkehus,Teglgårdsparken 52,5500, Middelfart,2650000 ,19-04-2015,Alm. Salg,118,22458.0,3,1968,-7%
 410,Villa,Chr Dannings Vej 53,5500, Middelfart,1440000 ,19-04-2015,Alm. Salg,136,10588.0,4,1979,-4%
 410,Villa,Gl. Odensevej 26,5591, Gelsted,400000 ,19-04-2015,Alm. Salg,176,2273.0,6,1933,-24%
 410,Villa,Færgegårdvej 10,5500, Middelfart,2000000 ,19-04-2015,Alm. Salg,182,10989.0,6,1976,-5%
@@ -4792,7 +4693,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Kløvervej 6,5500, Middelfart,580000 ,14-02-2015,Andet,156,3718.0,4,1967,
 410,Villa,Münstervej 35B,5500, Middelfart,1250000 ,14-02-2015,Alm. Salg,179,6983.0,5,2017,-7%
 410,Villa,Anholtvej 45,5500, Middelfart,1820000 ,13-02-2015,Alm. Salg,156,11667.0,5,1978,-4%
-410,Villa,Skrillingevej 24A,5500, Middelfart,3500000 ,12-02-2015,Alm. Salg,267,13109.0,7,1854,-12%
 410,Villa,Odinsvej 6,5500, Middelfart,1195000 ,12-02-2015,Alm. Salg,174,6868.0,7,1968,-8%
 410,Villa,Kirstensvej 10,5500, Middelfart,2500000 ,12-02-2015,Alm. Salg,215,11628.0,7,1978,
 410,Villa,Øster Alle 42,5500, Middelfart,1900000 ,11-02-2015,Alm. Salg,148,12838.0,5,1924,-13%
@@ -4805,7 +4705,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Postmosevej 49,5500, Middelfart,1485000 ,09-02-2015,Alm. Salg,98,15153.0,3,1969,-1%
 410,Villa,Højskredvej 7,5500, Middelfart,550000 ,09-02-2015,Alm. Salg,223,2466.0,5,2015,
 410,Villa,Ørslevvej 25,5592, Ejby,800000 ,08-02-2015,Alm. Salg,269,2974.0,5,1880,-18%
-410,Rækkehus,Østergade 49,5580, Nørre Aaby,1150000 ,05-02-2015,Fam. Salg,109,10550.0,4,0,
 410,Villa,Hasseriisvej 20,5500, Middelfart,200000 ,05-02-2015,Alm. Salg,75,2667.0,4,1951,-43%
 410,Villa,Hollændervej 75,5500, Middelfart,1495000 ,04-02-2015,Alm. Salg,133,11241.0,5,1972,
 410,Villa,Peter Cornelius Vej 9,5500, Middelfart,1350000 ,03-02-2015,Alm. Salg,124,10887.0,4,1973,-3%
@@ -4909,10 +4808,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Møllevej 26,5591, Gelsted,725000 ,17-11-2014,Alm. Salg,169,4290.0,4,1897,-8%
 410,Villa,Stribgårdvej 27,5500, Middelfart,1075000 ,13-11-2014,Alm. Salg,136,7904.0,4,1975,-16%
 410,Rækkehus,Rs Poulsens Vej 10,5500, Middelfart,900000 ,12-11-2014,Andet,57,15789.0,3,1948,
-410,Ejerlejlighed,"Odensevej 19, 1",5500, Middelfart,1590000 ,12-11-2014,Andet,97,16392.0,3,1930,
-410,Ejerlejlighed,"Odensevej 19, 2",5500, Middelfart,1590000 ,12-11-2014,Andet,77,20649.0,4,1930,
-410,Ejerlejlighed,"Nygade 63, 1",5500, Middelfart,1590000 ,12-11-2014,Andet,77,20649.0,2,1900,
-410,Ejerlejlighed,"Nygade 63, st",5500, Middelfart,1590000 ,12-11-2014,Andet,77,20649.0,1,1900,
 410,Rækkehus,Sofiendalvej 16C,5500, Middelfart,765000 ,11-11-2014,Alm. Salg,108,7083.0,3,2016,
 410,Villa,Gl Banegårdsvej 39,5500, Middelfart,2250000 ,10-11-2014,Alm. Salg,156,14423.0,5,1953,
 410,Villa,Bogøvænget 30,5500, Middelfart,2267000 ,06-11-2014,Alm. Salg,170,13335.0,7,1995,-5%
@@ -4920,14 +4815,11 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Poppelvænget 3,5500, Middelfart,1350000 ,05-11-2014,Alm. Salg,158,8544.0,5,1972,-10%
 410,Villa,Gartnervej 8,5500, Middelfart,1050000 ,05-11-2014,Alm. Salg,133,7895.0,5,1958,-3%
 410,Villa,Åbakkevej 44,5464, Brenderup Fyn,625000 ,04-11-2014,Alm. Salg,110,5682.0,3,1967,
-410,Villa,Østre Hougvej 81,5500, Middelfart,1347000 ,04-11-2014,Alm. Salg,61,22082.0,2,1953,1%
 410,Villa,Kilevænget 9,5500, Middelfart,1150000 ,03-11-2014,Auktion,151,7616.0,5,1974,
 410,Villa,Vesterløkke Alle 22,5500, Middelfart,3450000 ,03-11-2014,Alm. Salg,170,20294.0,6,1928,-1%
 410,Rækkehus,Odensevej 78,5500, Middelfart,1415000 ,31-10-2014,Alm. Salg,118,11992.0,3,1900,-2%
-410,Ejerlejlighed,"Østergade 1, 1",5591, Gelsted,550000 ,30-10-2014,Alm. Salg,31,17742.0,2,1918,-15%
 410,Ejerlejlighed,"Fænøsund Park 16, 1. th",5500, Middelfart,2000000 ,30-10-2014,Alm. Salg,111,18018.0,3,2008,-5%
 410,Villa,Røjlemosevej 10,5500, Middelfart,1780000 ,30-10-2014,Alm. Salg,113,15752.0,3,1929,-11%
-410,Villa,Østergade 1,5591, Gelsted,550000 ,30-10-2014,Alm. Salg,118,4661.0,6,1910,-15%
 410,Villa,Lyøvænget 6,5500, Middelfart,1665000 ,30-10-2014,Alm. Salg,130,12808.0,5,1977,-10%
 410,Rækkehus,Søndergade 54,5500, Middelfart,1100000 ,29-10-2014,Alm. Salg,74,14865.0,3,1875,-8%
 410,Villa,Margaardvej 32,5580, Nørre Aaby,340000 ,29-10-2014,Alm. Salg,157,2166.0,4,1915,-14%
@@ -4986,7 +4878,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Nørregade 26,5592, Ejby,360000 ,11-09-2014,Alm. Salg,135,2667.0,5,1900,-10%
 410,Villa,Skovbrynet 6,5500, Middelfart,1900000 ,11-09-2014,Alm. Salg,140,13571.0,6,1952,-5%
 410,Villa,Rømøvænget 159,5500, Middelfart,2775000 ,11-09-2014,Alm. Salg,162,17130.0,6,2008,-4%
-410,Ejerlejlighed,"Fænøsund Park 5, st. tv",5500, Middelfart,2695000 ,10-09-2014,Alm. Salg,120,22458.0,3,2005,
 410,Villa,Chr Dannings Vej 58,5500, Middelfart,1895000 ,10-09-2014,Alm. Salg,144,13160.0,4,2000,
 410,Rækkehus,Ferskenvænget 14,5500, Middelfart,1225000 ,07-09-2014,Alm. Salg,72,17014.0,3,1970,
 410,Villa,Rømøvænget 85,5500, Middelfart,2840000 ,07-09-2014,Alm. Salg,158,17975.0,6,2007,-2%
@@ -5004,7 +4895,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Drejøvænget 2,5500, Middelfart,1700000 ,31-08-2014,Alm. Salg,149,11409.0,5,1973,-5%
 410,Villa,Tårup Udlod 36,5591, Gelsted,120000 ,31-08-2014,Alm. Salg,50,2400.0,2,1880,
 410,Villa,Nørre Alle 30,5500, Middelfart,2400000 ,28-08-2014,Alm. Salg,165,14545.0,5,1955,
-410,Rækkehus,Buggesgade 4,5500, Middelfart,2375000 ,27-08-2014,Alm. Salg,107,22196.0,3,1900,
 410,Villa,Viaduktvej 51,5500, Middelfart,405000 ,27-08-2014,Alm. Salg,86,4709.0,3,1910,-5%
 410,Villa,Vejrøvænget 62,5500, Middelfart,1501050 ,26-08-2014,Alm. Salg,138,10877.0,5,1973,2%
 410,Villa,Aabylundvej 14,5580, Nørre Aaby,740000 ,26-08-2014,Alm. Salg,124,5968.0,3,1961,-17%
@@ -5112,7 +5002,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Skaboes Gyde 10,5591, Gelsted,650000 ,12-06-2014,Alm. Salg,179,3631.0,6,1967,
 410,Villa,Drejøvænget 4,5500, Middelfart,1880000 ,11-06-2014,Alm. Salg,160,11750.0,6,1975,-6%
 410,Rækkehus,Behrendtsvej 36,5500, Middelfart,1700000 ,10-06-2014,Alm. Salg,118,14407.0,6,1919,-5%
-410,Villa,Kingstrupvej 150,5591, Gelsted,650000 ,10-06-2014,Alm. Salg,270,2407.0,2,1902,
 410,Villa,Røjlemosevej 64,5500, Middelfart,3450000 ,09-06-2014,Alm. Salg,186,18548.0,5,1962,-4%
 410,Villa,Fænøsund Haven 6,5500, Middelfart,3000000 ,05-06-2014,Alm. Salg,174,17241.0,4,1887,
 410,Villa,Storebæltsvænget 51,5500, Middelfart,1350000 ,04-06-2014,Alm. Salg,106,12736.0,4,1981,-10%
@@ -5259,7 +5148,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Egevej 7,5500, Middelfart,617061 ,02-02-2014,Fam. Salg,86,7175.0,3,1953,
 410,Villa,Merianvej 10,5500, Middelfart,1075000 ,02-02-2014,Alm. Salg,90,11944.0,3,1963,-9%
 410,Villa,Ørsbjergskov 6,5591, Gelsted,498836 ,02-02-2014,Alm. Salg,144,3464.0,3,1900,
-410,Ejerlejlighed,"Fænøsund Park 5, st. th",5500, Middelfart,3225000 ,31-01-2014,Alm. Salg,144,22396.0,3,2005,
 410,Villa,Solvænget 13,5592, Ejby,700000 ,30-01-2014,Alm. Salg,89,7865.0,3,1965,-12%
 410,Villa,Postmosevej 41,5500, Middelfart,1325000 ,28-01-2014,Alm. Salg,136,9743.0,5,1968,-2%
 410,Villa,Myntevænget 12,5500, Middelfart,725000 ,27-01-2014,Andet,101,7178.0,4,1938,
@@ -5315,7 +5203,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Sandøvænget 32,5500, Middelfart,1600000 ,05-12-2013,Alm. Salg,194,8247.0,6,1978,-11%
 410,Villa,Sevanen 3,5580, Nørre Aaby,1700000 ,04-12-2013,Alm. Salg,167,10180.0,6,1985,-3%
 410,Villa,Færgegårdvej 77,5500, Middelfart,900000 ,04-12-2013,Auktion,141,6383.0,5,1975,-40%
-410,Rækkehus,Søndergade 49B,5591, Gelsted,435000 ,02-12-2013,Auktion,62,7016.0,1,1950,-56%
 410,Villa,Ærøvænget 18,5500, Middelfart,2068500 ,02-12-2013,Alm. Salg,186,11121.0,4,2002,
 410,Rækkehus,Blommevænget 6,5500, Middelfart,1215000 ,28-11-2013,Alm. Salg,100,12150.0,5,1969,
 410,Villa,Münstervej 8,5500, Middelfart,1415000 ,28-11-2013,Alm. Salg,156,9071.0,5,1957,-7%
@@ -5442,8 +5329,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Nederballevej 15,5463, Harndrup,200000 ,19-08-2013,Alm. Salg,60,3333.0,2,1783,-20%
 410,Villa,Rørkærsvej 7,5500, Middelfart,2565000 ,19-08-2013,Alm. Salg,176,14574.0,6,1961,-5%
 410,Rækkehus,Odensevej 109,5500, Middelfart,975000 ,17-08-2013,Alm. Salg,109,8945.0,3,1913,
-410,Ejerlejlighed,"Røjle Bygade 117, 1",5500, Middelfart,1000000 ,15-08-2013,Fam. Salg,72,13889.0,3,1900,
-410,Villa,"Røjle Bygade 117, st",5500, Middelfart,1000000 ,15-08-2013,Fam. Salg,105,9524.0,3,1900,
 410,Rækkehus,Odensevej 30,5500, Middelfart,730000 ,14-08-2013,Alm. Salg,68,10735.0,2,1900,-8%
 410,Villa,Grønnegade 3,5591, Gelsted,411000 ,14-08-2013,Alm. Salg,128,3211.0,3,1961,3%
 410,Villa,Kastanievej 4,5580, Nørre Aaby,375000 ,14-08-2013,Alm. Salg,93,4032.0,4,1943,
@@ -5452,7 +5337,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Kåsvænget 33,5500, Middelfart,1057500 ,11-08-2013,Andet,126,8393.0,5,1968,-52%
 410,Villa,Gl Landevej 86,5500, Middelfart,1170000 ,11-08-2013,Alm. Salg,146,8014.0,4,1900,-19%
 410,Villa,Havrevej 1,5500, Middelfart,1033719 ,08-08-2013,Fam. Salg,207,4994.0,7,1972,
-410,Villa,Kåsvej 25,5500, Middelfart,3825000 ,08-08-2013,Alm. Salg,172,22238.0,6,1960,-4%
 410,Villa,Kålsbjergvej 5,5500, Middelfart,1120000 ,07-08-2013,Alm. Salg,89,12584.0,3,1964,-3%
 410,Villa,Ny Møllevej 3,5500, Middelfart,450000 ,07-08-2013,Alm. Salg,128,3516.0,4,2015,
 410,Villa,Blindebomsvej 26,5500, Middelfart,1950000 ,05-08-2013,Alm. Salg,133,14662.0,4,1910,-13%
@@ -5498,7 +5382,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Rækkehus,Røjlemosevej 4,5500, Middelfart,950000 ,30-06-2013,Auktion,100,9500.0,5,1918,
 410,Villa,Grønnegade 22,5591, Gelsted,685000 ,30-06-2013,Alm. Salg,113,6062.0,4,1965,
 410,Villa,Vidarvej 7,5500, Middelfart,685000 ,28-06-2013,Alm. Salg,121,5661.0,4,1929,-9%
-410,Rækkehus,Nørregade 20A,5592, Ejby,220000 ,27-06-2013,Andet,83,2651.0,3,1970,
 410,Villa,Lerbjergvej 38,5500, Middelfart,2500000 ,26-06-2013,Alm. Salg,187,13369.0,6,1927,-7%
 410,Villa,Korsbjergvej 8,5500, Middelfart,612375 ,25-06-2013,Andet,186,3292.0,7,1971,
 410,Villa,Tennisvej 20,5580, Nørre Aaby,510000 ,24-06-2013,Auktion,122,4180.0,4,1931,
@@ -5609,7 +5492,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Kammavej 6,5500, Middelfart,1000000 ,14-03-2013,Alm. Salg,162,6173.0,5,2018,
 410,Villa,Bubbelvej 11,5592, Ejby,290000 ,13-03-2013,Alm. Salg,140,2071.0,4,1920,-23%
 410,Villa,Kirkebyvænget 18,5592, Ejby,440800 ,13-03-2013,Alm. Salg,198,2226.0,5,2014,
-410,Rækkehus,Nørregade 20A,5592, Ejby,71000 ,11-03-2013,Auktion,83,855.0,3,1970,
 410,Villa,Skaboes Gyde 24,5591, Gelsted,55001 ,11-03-2013,Auktion,83,663.0,3,1902,
 410,Villa,Korsvejs Alle 25,5500, Middelfart,1250000 ,07-03-2013,Alm. Salg,84,14881.0,4,1964,-3%
 410,Villa,Østre Hougvej 63,5500, Middelfart,1400000 ,06-03-2013,Alm. Salg,97,14433.0,4,1965,-2%
@@ -5684,7 +5566,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Rudbæksbanke 31B,5500, Middelfart,1950000 ,19-12-2012,Alm. Salg,137,14234.0,5,2016,
 410,Villa,Æbeløvej 8,5466, Asperup,1000000 ,19-12-2012,Alm. Salg,182,5495.0,7,1971,-23%
 410,Villa,Æbleparken 32,5464, Brenderup Fyn,340000 ,19-12-2012,Alm. Salg,149,2282.0,6,2013,
-410,Villa,Plantagen 18,5500, Middelfart,4176300 ,18-12-2012,Alm. Salg,188,22214.0,5,2005,-4%
 410,Villa,Søndermarken 48,5580, Nørre Aaby,926038 ,18-12-2012,Alm. Salg,131,7069.0,4,2009,
 410,Rækkehus,Rugårdsvej 198,5464, Brenderup Fyn,700000 ,17-12-2012,Auktion,112,6250.0,3,1967,
 410,Villa,Koldinghuse Syd 8A,5580, Nørre Aaby,585000 ,17-12-2012,Alm. Salg,224,2612.0,6,1967,-19%
@@ -6047,7 +5928,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Vejrupvej 64,5464, Brenderup Fyn,130000 ,13-02-2012,Auktion,131,992.0,4,1929,
 410,Villa,Aabylundvænget 5,5580, Nørre Aaby,1875000 ,13-02-2012,Alm. Salg,170,11029.0,5,1986,-6%
 410,Rækkehus,Smedegade 2,5500, Middelfart,1250000 ,12-02-2012,Alm. Salg,143,8741.0,4,1830,
-410,Ejerlejlighed,"Brogade 2B, st. 3",5500, Middelfart,2600000 ,10-02-2012,Alm. Salg,116,22414.0,3,1801,
 410,Villa,Ny Møllevej 19,5500, Middelfart,850000 ,09-02-2012,Alm. Salg,120,7083.0,6,1950,-15%
 410,Villa,Kohavevej 5,5466, Asperup,3950000 ,09-02-2012,Alm. Salg,250,15800.0,10,1917,
 410,Villa,Fuglebakken 2,5500, Middelfart,1375000 ,08-02-2012,Alm. Salg,209,6579.0,5,1972,-21%
@@ -6061,7 +5941,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Rækkehus,Hyldebærgrenen 58,5500, Middelfart,1400000 ,30-01-2012,Alm. Salg,98,14286.0,4,2007,-11%
 410,Villa,Anholtvej 5,5500, Middelfart,1925000 ,29-01-2012,Alm. Salg,149,12919.0,5,1978,-8%
 410,Villa,Nørre Alle 57,5500, Middelfart,2100000 ,29-01-2012,Alm. Salg,129,16279.0,4,2021,-16%
-410,Rækkehus,Buggesgade 2,5500, Middelfart,1675000 ,26-01-2012,Alm. Salg,76,22039.0,3,1847,-8%
 410,Ejerlejlighed,"Gl Vestergade 28, 1. mf",5500, Middelfart,1265000 ,26-01-2012,Alm. Salg,89,14213.0,3,1999,-2%
 410,Villa,Holsevej 40,5464, Brenderup Fyn,350000 ,24-01-2012,Alm. Salg,100,3500.0,3,1870,-11%
 410,Villa,Kåsvej 10,5500, Middelfart,1240000 ,23-01-2012,Alm. Salg,131,9466.0,5,1920,-17%
@@ -6078,7 +5957,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Hovedvejen 249,5580, Nørre Aaby,610000 ,16-01-2012,Alm. Salg,98,6224.0,4,1915,-6%
 410,Villa,Margaardvej 16,5580, Nørre Aaby,640569 ,12-01-2012,Andet,141,4543.0,4,1935,
 410,Villa,Skrillinge Strand 62,5500, Middelfart,2360000 ,12-01-2012,Fam. Salg,219,10776.0,8,1918,
-410,Villa,Vestergade 57,5500, Middelfart,965000 ,11-01-2012,Andet,103,9369.0,3,1927,
 410,Villa,Hollændervej 9,5500, Middelfart,692231 ,10-01-2012,Alm. Salg,120,5769.0,4,1962,
 410,Villa,Gl Slotsvej 7,5500, Middelfart,1293000 ,09-01-2012,Alm. Salg,148,8736.0,6,1955,
 410,Villa,Tellerupvej 4,5592, Ejby,500000 ,08-01-2012,Alm. Salg,118,4237.0,5,1963,-28%
@@ -6206,9 +6084,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Rolighedsvej 4,5580, Nørre Aaby,646000 ,20-09-2011,Fam. Salg,80,8075.0,4,1952,
 410,Villa,Køstrupvej 12,5464, Brenderup Fyn,800000 ,20-09-2011,Alm. Salg,131,6107.0,5,1827,
 410,Villa,Færøvej 11,5500, Middelfart,1750000 ,20-09-2011,Alm. Salg,129,13566.0,4,1965,-8%
-410,Rækkehus,Rs Poulsens Vej 22B,5500, Middelfart,1100000 ,19-09-2011,Auktion,50,22000.0,2,1900,
 410,Villa,Svinget 4,5500, Middelfart,1450000 ,19-09-2011,Auktion,114,12719.0,4,1939,-22%
-410,Villa,Rs Poulsens Vej 22A,5500, Middelfart,1100000 ,19-09-2011,Auktion,86,12791.0,3,1973,
 410,Villa,Vejrøvænget 15,5500, Middelfart,1750000 ,16-09-2011,Alm. Salg,130,13462.0,4,1972,-5%
 410,Villa,Adlerhusvej 21,5500, Middelfart,1250000 ,14-09-2011,Alm. Salg,80,15625.0,3,1950,-10%
 410,Villa,Volpeshøjvej 10,5464, Brenderup Fyn,100000 ,12-09-2011,Alm. Salg,60,1667.0,2,1800,-59%
@@ -6218,7 +6094,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Margaardvej 53,5580, Nørre Aaby,1025000 ,08-09-2011,Alm. Salg,96,10677.0,4,1934,-9%
 410,Rækkehus,Æblevænget 8,5500, Middelfart,1575000 ,07-09-2011,Alm. Salg,118,13347.0,5,1971,
 410,Ejerlejlighed,"Østergade 36, 1",5580, Nørre Aaby,440000 ,07-09-2011,Alm. Salg,85,5176.0,3,1880,
-410,Villa,Gl Strandvej 35,5500, Middelfart,4500000 ,04-09-2011,Alm. Salg,200,22500.0,5,1931,-10%
 410,Villa,Vindebjergvej 4A,5463, Harndrup,574313 ,04-09-2011,Alm. Salg,96,5982.0,2,1976,
 410,Villa,Kauslundevej 66,5500, Middelfart,2135000 ,01-09-2011,Alm. Salg,214,9977.0,7,1995,-18%
 410,Villa,Bros Alle 10,5500, Middelfart,2350000 ,30-08-2011,Alm. Salg,162,14506.0,8,1954,
@@ -6305,7 +6180,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Nøkkerosen 9,5592, Ejby,1147500 ,11-06-2011,Fam. Salg,134,8563.0,4,1996,
 410,Villa,Balslevvej 54,5592, Ejby,885000 ,09-06-2011,Alm. Salg,150,5900.0,5,1890,-6%
 410,Villa,Hyllehøjvej 14,5500, Middelfart,1395000 ,09-06-2011,Alm. Salg,120,11625.0,5,1963,
-410,Villa,Ærøvænget 8,5500, Middelfart,3195000 ,09-06-2011,Alm. Salg,145,22034.0,5,2004,
 410,Villa,Assensvej 38,5500, Middelfart,1000000 ,08-06-2011,Alm. Salg,110,9091.0,5,1921,
 410,Rækkehus,Islandsvej 8,5500, Middelfart,1425000 ,06-06-2011,Alm. Salg,74,19257.0,3,1950,-5%
 410,Villa,Gelsted Mose 1,5591, Gelsted,500000 ,06-06-2011,Alm. Salg,105,4762.0,3,1917,-33%
@@ -6318,8 +6192,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Bros Alle 4,5500, Middelfart,1125000 ,26-05-2011,Alm. Salg,155,7258.0,5,1908,-12%
 410,Villa,Månevænget 21,5592, Ejby,1095000 ,25-05-2011,Alm. Salg,123,8902.0,4,1977,
 410,Villa,Ærøvænget 142,5500, Middelfart,910000 ,25-05-2011,Alm. Salg,192,4740.0,5,2012,
-410,Ejerlejlighed,"Østergade 24, 1",5580, Nørre Aaby,575000 ,24-05-2011,Alm. Salg,71,8099.0,3,1922,
-410,Ejerlejlighed,Grandvej 4,5580, Nørre Aaby,575000 ,24-05-2011,Alm. Salg,98,5867.0,3,1922,
 410,Villa,Egelundvej 2,5464, Brenderup Fyn,793167 ,24-05-2011,Andet,283,2803.0,8,1917,
 410,Villa,Laksevænget 14,5500, Middelfart,800000 ,24-05-2011,Alm. Salg,161,4969.0,5,2011,-16%
 410,Villa,Münstervej 37B,5500, Middelfart,1200000 ,24-05-2011,Alm. Salg,174,6897.0,3,2017,-44%
@@ -6405,7 +6277,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Røjle Bygade 97,5500, Middelfart,1795000 ,21-03-2011,Alm. Salg,131,13702.0,5,1931,
 410,Villa,Storebæltsvænget 66,5500, Middelfart,1625000 ,20-03-2011,Alm. Salg,142,11444.0,4,1985,-11%
 410,Villa,Nederballevej 6,5463, Harndrup,120000 ,20-03-2011,Alm. Salg,109,1101.0,4,2014,
-410,Villa,Rømøvænget 19,5500, Middelfart,4200000 ,16-03-2011,Alm. Salg,190,22105.0,7,2008,-4%
 410,Villa,Bogøvænget 6,5500, Middelfart,2600000 ,11-03-2011,Alm. Salg,166,15663.0,5,1995,-2%
 410,Ejerlejlighed,"Algade 20C, 2. th",5500, Middelfart,1435000 ,10-03-2011,Alm. Salg,99,14495.0,2,1800,-3%
 410,Rækkehus,Udsigten 35,5500, Middelfart,1375000 ,09-03-2011,Alm. Salg,131,10496.0,4,1969,-8%
@@ -6436,7 +6307,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Kilevænget 12,5500, Middelfart,2270000 ,10-02-2011,Alm. Salg,161,14099.0,6,1997,
 410,Villa,Øster Alle 65,5500, Middelfart,2650000 ,08-02-2011,Alm. Salg,130,20385.0,5,1930,-8%
 410,Villa,Åbakken 20,5580, Nørre Aaby,995000 ,08-02-2011,Alm. Salg,201,4950.0,5,2008,
-410,Villa,Vesterløkke Alle 22,5500, Middelfart,3825000 ,08-02-2011,Alm. Salg,170,22500.0,6,1928,-9%
 410,Villa,Gelstedvej 35,5591, Gelsted,947283 ,07-02-2011,Alm. Salg,105,9022.0,4,1963,
 410,Villa,Danmarksvej 33,5500, Middelfart,950000 ,07-02-2011,Alm. Salg,122,7787.0,4,1965,-3%
 410,Villa,Fasanvej 41,5500, Middelfart,1500000 ,06-02-2011,Fam. Salg,94,15957.0,3,1963,
@@ -6626,9 +6496,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Postmosevej 59,5500, Middelfart,1000000 ,13-09-2010,Alm. Salg,136,7353.0,3,1969,
 410,Villa,Kildehøj 2,5500, Middelfart,2800000 ,13-09-2010,Alm. Salg,148,18919.0,5,2009,-7%
 410,Villa,Tyttebærkvisten 9,5500, Middelfart,2440000 ,13-09-2010,Alm. Salg,161,15155.0,6,2008,
-410,Rækkehus,Islandsvej 6,5500, Middelfart,1500000 ,09-09-2010,Alm. Salg,81,18519.0,3,1950,-3%
 410,Villa,Tværgade 13,5500, Middelfart,950000 ,09-09-2010,Alm. Salg,50,19000.0,2,1965,-2%
-410,Villa,Hestehaven 2,5500, Middelfart,1500000 ,09-09-2010,Alm. Salg,159,9434.0,5,1965,-9%
 410,Villa,Industrivej 10,5500, Middelfart,927500 ,09-09-2010,Fam. Salg,110,8432.0,4,1932,
 410,Villa,Sevanen 17,5580, Nørre Aaby,2000000 ,08-09-2010,Alm. Salg,177,11299.0,5,1992,-9%
 410,Villa,Vejrøvænget 4,5500, Middelfart,1850000 ,07-09-2010,Alm. Salg,155,11935.0,5,1975,-5%
@@ -6662,7 +6530,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Drejøvænget 62,5500, Middelfart,1135000 ,17-08-2010,Alm. Salg,120,9458.0,6,1958,-5%
 410,Villa,Langevænget 37,5500, Middelfart,800000 ,15-08-2010,Alm. Salg,151,5298.0,5,2011,
 410,Villa,Vindebjergvej 5,5463, Harndrup,1100000 ,13-08-2010,Alm. Salg,94,11702.0,4,1900,-11%
-410,Villa,Viaduktvej 8,5500, Middelfart,2595000 ,11-08-2010,Auktion,117,22179.0,3,1960,
 410,Villa,Øster Alle 19,5500, Middelfart,1495000 ,10-08-2010,Alm. Salg,105,14238.0,3,1991,
 410,Villa,Østre Hougvej 23,5500, Middelfart,1200000 ,09-08-2010,Fam. Salg,88,13636.0,4,1913,
 410,Villa,Kastanievej 3,5580, Nørre Aaby,1025000 ,09-08-2010,Alm. Salg,100,10250.0,4,1958,-5%
@@ -6725,7 +6592,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Havevej 10,5500, Middelfart,1650000 ,16-06-2010,Alm. Salg,114,14474.0,4,1963,-8%
 410,Villa,Laksevænget 10,5500, Middelfart,850000 ,16-06-2010,Alm. Salg,184,4620.0,6,2011,
 410,Rækkehus,Industrivej 6,5500, Middelfart,1275000 ,15-06-2010,Alm. Salg,102,12500.0,4,1915,-9%
-410,Ejerlejlighed,"Havnegade 37, 1",5500, Middelfart,2300000 ,14-06-2010,Alm. Salg,102,22549.0,4,1877,-8%
 410,Villa,Røjle Bygade 47,5500, Middelfart,895000 ,13-06-2010,Alm. Salg,106,8443.0,3,1958,
 410,Villa,Møllebakken 1,5500, Middelfart,2000000 ,13-06-2010,Alm. Salg,215,9302.0,6,1970,
 410,Villa,Nørregade 102,5592, Ejby,520000 ,13-06-2010,Alm. Salg,100,5200.0,3,1906,-5%
@@ -6753,7 +6619,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Skovhaven 23,5464, Brenderup Fyn,1250000 ,27-05-2010,Alm. Salg,107,11682.0,5,1900,-3%
 410,Villa,Blåbærkvisten 7,5500, Middelfart,1680000 ,26-05-2010,Auktion,129,13023.0,5,2007,
 410,Villa,Chr Dannings Vej 66,5500, Middelfart,3350000 ,25-05-2010,Alm. Salg,176,19034.0,6,2000,
-410,Ejerlejlighed,"Fænøsund Park 15, st. th",5500, Middelfart,3275000 ,24-05-2010,Alm. Salg,147,22279.0,3,2005,-6%
 410,Villa,Assensvej 131,5500, Middelfart,2395000 ,20-05-2010,Alm. Salg,190,12605.0,5,1961,
 410,Rækkehus,Brovejen 116,5500, Middelfart,503000 ,19-05-2010,Alm. Salg,88,5716.0,3,1890,
 410,Rækkehus,Viaduktvej 14,5500, Middelfart,700000 ,19-05-2010,Alm. Salg,79,8861.0,3,1915,-6%
@@ -6897,8 +6762,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Kærbyvej 7,5466, Asperup,859703 ,04-02-2010,Andet,182,4724.0,6,1963,
 410,Villa,Kåsvej 20,5500, Middelfart,1270000 ,04-02-2010,Alm. Salg,190,6684.0,5,1959,-2%
 410,Rækkehus,Kvædevænget 22,5500, Middelfart,1080000 ,03-02-2010,Alm. Salg,73,14795.0,3,1970,-1%
-410,Rækkehus,Udsigten 23,5500, Middelfart,1100000 ,02-02-2010,Alm. Salg,80,13750.0,3,1969,
-410,Villa,Elmegade 30,5500, Middelfart,1100000 ,02-02-2010,Alm. Salg,141,7801.0,6,1940,
 410,Villa,Sofiendalvej 31,5500, Middelfart,50000 ,02-02-2010,Alm. Salg,149,336.0,5,2011,
 410,Villa,Juelsmindevænget 8,5463, Harndrup,109920 ,01-02-2010,Alm. Salg,142,774.0,5,2011,
 410,Villa,Bogensevej 47,5500, Middelfart,1950000 ,28-01-2010,Alm. Salg,145,13448.0,4,1972,-2%
@@ -7251,7 +7114,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Assensvej 87,5500, Middelfart,1950000 ,29-03-2009,Alm. Salg,304,6414.0,8,1951,
 410,Villa,Havevej 1,5500, Middelfart,1000000 ,29-03-2009,Fam. Salg,85,11765.0,4,1958,
 410,Villa,Søndergade 105,5591, Gelsted,425000 ,29-03-2009,Alm. Salg,127,3346.0,5,1906,-25%
-410,Ejerlejlighed,"Algade 20C, 1. th",5500, Middelfart,2875000 ,27-03-2009,Andet,127,22638.0,3,1800,
 410,Ejerlejlighed,"Havnegade 20, 1. th",5500, Middelfart,2805000 ,26-03-2009,Fam. Salg,146,19212.0,3,2005,
 410,Villa,Vibyvej 11,5580, Nørre Aaby,1275000 ,26-03-2009,Alm. Salg,106,12028.0,4,1917,-4%
 410,Rækkehus,Odensevej 80,5500, Middelfart,775000 ,25-03-2009,Alm. Salg,146,5308.0,6,1914,-9%
@@ -7337,7 +7199,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Kingstrupvej 143,5591, Gelsted,1000 ,11-01-2009,Auktion,72,14.0,3,1800,
 410,Rækkehus,Nygade 32,5500, Middelfart,1150000 ,09-01-2009,Alm. Salg,98,11735.0,4,1900,-28%
 410,Villa,Juelsmindevej 26,5463, Harndrup,1425000 ,05-01-2009,Alm. Salg,160,8906.0,4,2007,-5%
-410,Rækkehus,Øster Alle 37,5500, Middelfart,1945000 ,30-12-2008,Andet,88,22102.0,3,1927,
 410,Villa,Lungeskovvej 31,5591, Gelsted,906500 ,30-12-2008,Andet,189,4796.0,6,1880,
 410,Villa,Nørre Alle 37,5500, Middelfart,8375000 ,29-12-2008,Andet,472,17744.0,7,1960,42%
 410,Villa,Svinget 4,5500, Middelfart,1135186 ,22-12-2008,Andet,114,9958.0,4,1939,
@@ -7358,7 +7219,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Røjle Bygade 132,5500, Middelfart,1150000 ,07-12-2008,Alm. Salg,149,7012.0,4,1889,
 410,Villa,Vejrøvænget 94,5500, Middelfart,1000000 ,07-12-2008,Alm. Salg,90,11111.0,3,1965,-5%
 410,Villa,Kystvejen 14B,5466, Asperup,2000000 ,07-12-2008,Alm. Salg,195,10256.0,5,2017,
-410,Villa,Føns Strandvej 11,5580, Nørre Aaby,2950000 ,03-12-2008,Alm. Salg,134,22015.0,7,1850,-15%
 410,Villa,Færøvej 9,5500, Middelfart,1500000 ,02-12-2008,Fam. Salg,126,11905.0,4,1965,
 410,Villa,Margaardvej 20,5580, Nørre Aaby,815000 ,30-11-2008,Alm. Salg,132,6174.0,5,1900,-4%
 410,Villa,Havevej 13,5500, Middelfart,1125000 ,30-11-2008,Alm. Salg,101,11139.0,4,1963,
@@ -7375,7 +7235,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Nørre Alle 31,5500, Middelfart,7663000 ,19-11-2008,Alm. Salg,370,20711.0,8,1911,
 410,Villa,Byvejen 37,5466, Asperup,1200000 ,18-11-2008,Alm. Salg,162,7407.0,5,1970,-20%
 410,Villa,Nøddevænget 12,5500, Middelfart,2995000 ,17-11-2008,Alm. Salg,159,18836.0,6,1999,
-410,Ejerlejlighed,"Fænøsund Park 16, 1. tv",5500, Middelfart,2075000 ,16-11-2008,Alm. Salg,92,22554.0,2,2008,
 410,Villa,Juelsmindevej 63A,5592, Ejby,1200000 ,16-11-2008,Alm. Salg,210,5714.0,7,2010,
 410,Villa,Gelsted Mose 19,5591, Gelsted,200000 ,15-11-2008,Alm. Salg,136,1471.0,4,2018,
 410,Villa,Skovhaven 15,5464, Brenderup Fyn,895000 ,13-11-2008,Alm. Salg,75,11933.0,3,1895,
@@ -7606,7 +7465,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Banevænget 2,5500, Middelfart,1795000 ,15-05-2008,Alm. Salg,137,13102.0,5,1911,-3%
 410,Villa,Hollændervej 90,5500, Middelfart,1800000 ,15-05-2008,Fam. Salg,196,9184.0,8,1970,
 410,Villa,Vibyvej 42,5580, Nørre Aaby,850000 ,15-05-2008,Alm. Salg,78,10897.0,3,1956,-5%
-410,Ejerlejlighed,"Algade 20B, 2. tv",5500, Middelfart,1320000 ,14-05-2008,Alm. Salg,60,22000.0,2,1800,
 410,Villa,Kobbermosevej 5,5591, Gelsted,748000 ,14-05-2008,Fam. Salg,105,7124.0,4,1902,
 410,Villa,Koesmosevej 27,5500, Middelfart,961000 ,14-05-2008,Fam. Salg,69,13928.0,3,1937,
 410,Villa,Mølleløkken 13,5500, Middelfart,600000 ,14-05-2008,Andet,156,3846.0,3,1973,
@@ -7633,7 +7491,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Vesterløkke Alle 14,5500, Middelfart,2000000 ,06-05-2008,Alm. Salg,109,18349.0,4,1935,-5%
 410,Villa,Brovejen 24,5500, Middelfart,1204000 ,05-05-2008,Auktion,129,9333.0,6,1960,-25%
 410,Rækkehus,Blindebomsvej 4,5500, Middelfart,1675000 ,04-05-2008,Alm. Salg,83,20181.0,4,1918,
-410,Villa,Skærbæksmøllevej 4,5500, Middelfart,4100000 ,04-05-2008,Alm. Salg,181,22652.0,5,1700,-9%
 410,Villa,Jacob Gades Vej 14,5500, Middelfart,2175000 ,04-05-2008,Alm. Salg,110,19773.0,4,1986,-3%
 410,Villa,Nørre Alle 21,5500, Middelfart,8100000 ,02-05-2008,Alm. Salg,464,17457.0,12,1900,-6%
 410,Rækkehus,Hyldebærgrenen 46,5500, Middelfart,1800000 ,01-05-2008,Alm. Salg,98,18367.0,4,2007,-2%
@@ -7918,8 +7775,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Gl Strandvej 81,5500, Middelfart,2700000 ,11-11-2007,Alm. Salg,154,17532.0,5,1932,-6%
 410,Villa,Rudbæksbanke 2,5500, Middelfart,942500 ,10-11-2007,Alm. Salg,135,6981.0,5,1980,
 410,Villa,Havrevænget 18,5464, Brenderup Fyn,280000 ,09-11-2007,Alm. Salg,173,1618.0,5,2008,
-410,Ejerlejlighed,"Brovejen 244B, 1",5500, Middelfart,1175000 ,08-11-2007,Andet,92,12772.0,3,1913,
-410,Ejerlejlighed,Hessgade 76,5500, Middelfart,1175000 ,08-11-2007,Andet,64,18359.0,2,1913,
 410,Ejerlejlighed,Korsbjergvej 38,5500, Middelfart,2750000 ,08-11-2007,Alm. Salg,208,13221.0,4,1955,
 410,Villa,Fjellerupvej 21,5463, Harndrup,1895000 ,08-11-2007,Alm. Salg,150,12633.0,4,1900,
 410,Villa,Skovlunden 69,5500, Middelfart,2676000 ,08-11-2007,Alm. Salg,137,19533.0,5,2008,
@@ -7970,7 +7825,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Majsvej 9,5500, Middelfart,1575000 ,23-10-2007,Alm. Salg,111,14189.0,4,1969,-3%
 410,Villa,Omøvænget 8,5500, Middelfart,2450000 ,22-10-2007,Alm. Salg,158,15506.0,4,1982,
 410,Villa,Indslevvej 34,5580, Nørre Aaby,710000 ,21-10-2007,Fam. Salg,117,6068.0,2,1877,
-410,Villa,Ærøvænget 72,5500, Middelfart,3995000 ,21-10-2007,Alm. Salg,180,22194.0,5,2006,
 410,Villa,Gl Møllevej 17,5500, Middelfart,1795000 ,21-10-2007,Alm. Salg,141,12730.0,4,1938,
 410,Villa,Alrøvænget 3,5500, Middelfart,2440000 ,20-10-2007,Alm. Salg,168,14524.0,5,1996,-2%
 410,Villa,Sophievej 8,5500, Middelfart,1250000 ,18-10-2007,Alm. Salg,148,8446.0,4,1918,
@@ -7989,7 +7843,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Åvænget 3,5463, Harndrup,865000 ,10-10-2007,Alm. Salg,120,7208.0,4,1800,-3%
 410,Villa,Værkstedsvej 21,5500, Middelfart,2100000 ,10-10-2007,Alm. Salg,112,18750.0,4,1973,
 410,Villa,Åbakken 9,5580, Nørre Aaby,248158 ,10-10-2007,Alm. Salg,140,1773.0,6,2009,
-410,Villa,Knorregade 38B,5500, Middelfart,1400000 ,09-10-2007,Alm. Salg,74,18919.0,3,1925,
 410,Villa,Ridderstien 17,5463, Harndrup,1385000 ,09-10-2007,Alm. Salg,122,11352.0,5,1932,
 410,Villa,Staurbyskovvej 18,5500, Middelfart,290000 ,09-10-2007,Alm. Salg,81,3580.0,3,1777,
 410,Villa,Hyllehøjvej 8A,5500, Middelfart,898000 ,09-10-2007,Andet,166,5410.0,5,2008,
@@ -8014,7 +7867,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Fyrrevej 24,5591, Gelsted,767711 ,01-10-2007,Andet,177,4337.0,5,1977,
 410,Villa,Bøgevej 19,5580, Nørre Aaby,266478 ,01-10-2007,Alm. Salg,200,1332.0,6,2021,
 410,Rækkehus,Bros Alle 14,5500, Middelfart,2259500 ,30-09-2007,Andet,198,11412.0,8,1932,
-410,Villa,Røjlemosevej 46,5500, Middelfart,4325000 ,30-09-2007,Alm. Salg,194,22294.0,5,2001,
 410,Villa,Møllebakken 58,5500, Middelfart,2000000 ,30-09-2007,Fam. Salg,126,15873.0,4,1972,
 410,Villa,Bjørnøvænget 18,5500, Middelfart,1650000 ,30-09-2007,Alm. Salg,113,14602.0,4,1976,
 410,Villa,Røjlemosevej 44,5500, Middelfart,900000 ,30-09-2007,Alm. Salg,240,3750.0,7,2012,
@@ -8029,7 +7881,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Søndermarken 18,5580, Nørre Aaby,281880 ,27-09-2007,Alm. Salg,137,2058.0,6,2008,
 410,Rækkehus,Hyldebærgrenen 31,5500, Middelfart,1528000 ,26-09-2007,Alm. Salg,98,15592.0,4,2007,
 410,Villa,Ejbyvej 54,5463, Harndrup,875000 ,26-09-2007,Alm. Salg,152,5757.0,5,1975,
-410,Villa,Røjlemosevej 8,5500, Middelfart,2350000 ,26-09-2007,Alm. Salg,106,22170.0,4,1928,-6%
 410,Villa,Fynsvej 5,5466, Asperup,1750000 ,26-09-2007,Alm. Salg,146,11986.0,5,1978,
 410,Villa,Østergade 64,5580, Nørre Aaby,1325000 ,26-09-2007,Alm. Salg,118,11229.0,3,1950,
 410,Villa,Tangmosen 21,5500, Middelfart,2030000 ,26-09-2007,Alm. Salg,162,12531.0,2,2019,
@@ -8166,7 +8017,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Rækkehus,Brovejen 112,5500, Middelfart,950000 ,16-07-2007,Alm. Salg,88,10795.0,3,1910,-3%
 410,Rækkehus,Hessgade 35,5500, Middelfart,726003 ,16-07-2007,Fam. Salg,129,5628.0,5,1898,
 410,Villa,H P Johansens Vej 11,5500, Middelfart,2050000 ,15-07-2007,Alm. Salg,156,13141.0,7,1907,
-410,Villa,Jacob Gades Vej 2,5500, Middelfart,3250000 ,15-07-2007,Alm. Salg,146,22260.0,5,1998,2%
 410,Villa,Rømøvænget 5,5500, Middelfart,1600000 ,15-07-2007,Alm. Salg,191,8377.0,6,2010,
 410,Villa,Hegnet 1,5500, Middelfart,1995000 ,14-07-2007,Alm. Salg,154,12955.0,6,1953,-5%
 410,Villa,Gl Møllevej 10,5500, Middelfart,1470848 ,14-07-2007,Alm. Salg,78,18857.0,3,1943,-2%
@@ -8194,7 +8044,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Kildevej 4,5463, Harndrup,1201000 ,04-07-2007,Alm. Salg,113,10628.0,4,1964,9%
 410,Villa,Skræppedalsvej 32,5592, Ejby,1000000 ,04-07-2007,Alm. Salg,101,9901.0,4,1954,
 410,Villa,Middelfartvej 108,5466, Asperup,1495000 ,04-07-2007,Alm. Salg,125,11960.0,5,1913,-12%
-410,Villa,Kålsbjergvej 15,5500, Middelfart,278681 ,03-07-2007,Alm. Salg,149,1870.0,6,1827,
 410,Villa,Kløvermarken 10,5580, Nørre Aaby,260460 ,03-07-2007,Alm. Salg,137,1901.0,5,2008,
 410,Rækkehus,Nørregade 11,5592, Ejby,2500000 ,02-07-2007,Alm. Salg,126,9921.0,8,1910,
 410,Villa,Tunøvænget 16,5500, Middelfart,1670000 ,02-07-2007,Alm. Salg,132,12652.0,4,1975,
@@ -8203,7 +8052,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Tingløkken 8,5580, Nørre Aaby,1925000 ,29-06-2007,Alm. Salg,156,12340.0,5,1971,
 410,Villa,Møllevej 15,5591, Gelsted,135000 ,28-06-2007,Alm. Salg,100,1350.0,3,2008,
 410,Ejerlejlighed,"Assensvej 189, 1",5500, Middelfart,1995000 ,27-06-2007,Alm. Salg,135,14778.0,4,1900,
-410,Villa,Brovejen 128B,5500, Middelfart,1650000 ,27-06-2007,Alm. Salg,83,19880.0,2,1933,
 410,Rækkehus,Hyldebærgrenen 55,5500, Middelfart,1528000 ,26-06-2007,Alm. Salg,98,15592.0,4,2007,
 410,Villa,Kingstrupvej 88,5591, Gelsted,1100000 ,26-06-2007,Alm. Salg,146,7534.0,7,1877,
 410,Villa,Solskrænten 5,5500, Middelfart,1510000 ,26-06-2007,Alm. Salg,148,10203.0,5,1975,
@@ -8276,7 +8124,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Kirkevej 74,5580, Nørre Aaby,1276000 ,24-05-2007,Alm. Salg,118,10814.0,4,1932,
 410,Villa,Humlevej 13,5500, Middelfart,1560000 ,24-05-2007,Alm. Salg,106,14717.0,4,1970,
 410,Villa,Fruerhøjvej 41,5464, Brenderup Fyn,1275000 ,24-05-2007,Alm. Salg,106,12028.0,6,1917,
-410,Villa,Gl Strandvej 63,5500, Middelfart,4900000 ,23-05-2007,Alm. Salg,220,22273.0,6,1920,
 410,Villa,Volpeshøjvej 7,5464, Brenderup Fyn,2444444 ,23-05-2007,Alm. Salg,251,9739.0,7,1880,-2%
 410,Villa,Kirkebjergvej 24,5466, Asperup,858155 ,23-05-2007,Alm. Salg,154,5572.0,6,1777,
 410,Villa,Skånevej 2,5500, Middelfart,1700000 ,21-05-2007,Alm. Salg,118,14407.0,4,1975,
@@ -8289,7 +8136,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Rækkehus,Hyldebærgrenen 43,5500, Middelfart,1535000 ,18-05-2007,Alm. Salg,96,15990.0,4,2007,
 410,Rækkehus,Søndergade 10,5500, Middelfart,816000 ,17-05-2007,Fam. Salg,82,9951.0,4,1870,
 410,Rækkehus,Hessgade 44,5500, Middelfart,1095000 ,15-05-2007,Alm. Salg,84,13036.0,3,1902,
-410,Ejerlejlighed,"Fænøsund Park 1, st. 3",5500, Middelfart,2395000 ,15-05-2007,Alm. Salg,108,22176.0,2,2007,
 410,Villa,Rugårdsvej 199,5464, Brenderup Fyn,2700000 ,15-05-2007,Alm. Salg,221,12217.0,9,1927,
 410,Villa,Egelundvej 35,5464, Brenderup Fyn,885000 ,15-05-2007,Alm. Salg,98,9031.0,3,1964,
 410,Villa,Margaardvej 50,5580, Nørre Aaby,1040000 ,15-05-2007,Alm. Salg,120,8667.0,5,1897,
@@ -8305,9 +8151,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Margaardvej 68,5580, Nørre Aaby,1395000 ,10-05-2007,Alm. Salg,221,6312.0,7,1844,
 410,Villa,Kingstrupvej 110,5591, Gelsted,920000 ,10-05-2007,Alm. Salg,210,4381.0,7,1912,
 410,Rækkehus,Gl. Odensevej 25K,5591, Gelsted,1295000 ,09-05-2007,Alm. Salg,95,13632.0,3,2007,
-410,Ejerlejlighed,"Østerbyvej 16, 1",5500, Middelfart,1400000 ,08-05-2007,Alm. Salg,107,13084.0,1,1964,
 410,Villa,Vestervangen 4,5592, Ejby,1450000 ,08-05-2007,Alm. Salg,135,10741.0,5,1976,
-410,Villa,Østerbyvej 16,5500, Middelfart,1400000 ,08-05-2007,Alm. Salg,349,4011.0,6,2008,
 410,Villa,Skovbrynet 7,5500, Middelfart,1785000 ,08-05-2007,Alm. Salg,140,12750.0,5,1952,
 410,Villa,Gl. Odensevej 4,5591, Gelsted,710000 ,07-05-2007,Auktion,114,4671.0,6,1961,
 410,Villa,Jyllandsvej 35,5500, Middelfart,1735000 ,07-05-2007,Alm. Salg,125,13880.0,4,1943,
@@ -8431,7 +8275,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Søndermarken 14,5580, Nørre Aaby,244449 ,18-03-2007,Alm. Salg,155,1577.0,5,2008,
 410,Villa,Rønnebærgrenen 56,5500, Middelfart,687878 ,18-03-2007,Alm. Salg,174,3953.0,5,2009,
 410,Villa,Søndermarken 24,5580, Nørre Aaby,248400 ,18-03-2007,Alm. Salg,155,1603.0,5,2009,
-410,Ejerlejlighed,"Blankegaardsvej 4A, st",5466, Asperup,3255000 ,17-03-2007,Alm. Salg,413,7881.0,13,1868,
 410,Villa,Kløvervej 15,5500, Middelfart,1500000 ,15-03-2007,Alm. Salg,144,10417.0,4,1970,
 410,Villa,Fønsvej 20,5580, Nørre Aaby,1370000 ,15-03-2007,Alm. Salg,150,9133.0,4,1933,
 410,Rækkehus,Nygade 12,5500, Middelfart,2965000 ,14-03-2007,Alm. Salg,182,16291.0,6,1898,
@@ -8461,7 +8304,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Rømøvænget 101,5500, Middelfart,730000 ,28-02-2007,Alm. Salg,149,4899.0,6,2007,
 410,Villa,Rømøvænget 123,5500, Middelfart,795000 ,28-02-2007,Alm. Salg,179,4441.0,5,2017,
 410,Rækkehus,Viaduktvej 61,5500, Middelfart,950000 ,27-02-2007,Alm. Salg,92,10326.0,3,1914,
-410,Ejerlejlighed,"Fænøsund Park 5, 1. th",5500, Middelfart,3225000 ,27-02-2007,Alm. Salg,144,22396.0,3,2005,
 410,Villa,Røjle Bygade 74,5500, Middelfart,850000 ,26-02-2007,Alm. Salg,182,4670.0,4,1877,
 410,Villa,Banebroen 8,5592, Ejby,795000 ,26-02-2007,Alm. Salg,136,5846.0,5,1936,
 410,Villa,Kildehøj 4,5500, Middelfart,2835000 ,26-02-2007,Alm. Salg,148,19155.0,5,2008,
@@ -8486,7 +8328,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Bogensevej 65,5464, Brenderup Fyn,730000 ,18-02-2007,Fam. Salg,100,7300.0,3,1956,
 410,Villa,Aulbyvej 12,5500, Middelfart,650000 ,17-02-2007,Alm. Salg,124,5242.0,3,1900,
 410,Villa,Tårupvej 6,5591, Gelsted,750000 ,15-02-2007,Alm. Salg,97,7732.0,3,1935,-6%
-410,Ejerlejlighed,"Fænøsund Park 1, 1. 4",5500, Middelfart,1935000 ,14-02-2007,Alm. Salg,86,22500.0,2,2007,
 410,Villa,Ellegaardsvej 1,5580, Nørre Aaby,700000 ,14-02-2007,Alm. Salg,87,8046.0,4,1969,
 410,Villa,Rømøvænget 137,5500, Middelfart,695000 ,14-02-2007,Alm. Salg,158,4399.0,6,2008,
 410,Rækkehus,Øster Alle 37,5500, Middelfart,945000 ,13-02-2007,Alm. Salg,88,10739.0,3,1927,
@@ -8618,7 +8459,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Tornhøjvangen 11,5591, Gelsted,156470 ,13-12-2006,Alm. Salg,262,597.0,7,2008,
 410,Villa,Assensvej 33,5500, Middelfart,1475000 ,12-12-2006,Alm. Salg,115,12826.0,4,1937,
 410,Villa,Æblehaven 6,5580, Nørre Aaby,3005000 ,12-12-2006,Alm. Salg,269,11171.0,6,1973,
-410,Villa,Siøvænget 3,5500, Middelfart,3475000 ,12-12-2006,Alm. Salg,153,22712.0,5,1975,
 410,Ejerlejlighed,"Grønnegade 4, st. tv",5500, Middelfart,985000 ,11-12-2006,Alm. Salg,62,15887.0,2,1877,
 410,Villa,Østervangen 23,5580, Nørre Aaby,1843000 ,11-12-2006,Alm. Salg,143,12888.0,5,1997,
 410,Rækkehus,Nygade 6,5500, Middelfart,1140000 ,10-12-2006,Fam. Salg,90,12667.0,3,1900,
@@ -8725,7 +8565,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Byvejen 6,5466, Asperup,1820000 ,01-11-2006,Alm. Salg,152,11974.0,5,1927,
 410,Villa,Rømøvænget 169,5500, Middelfart,695000 ,01-11-2006,Alm. Salg,110,6318.0,4,2008,
 410,Villa,Søndergade 27,5591, Gelsted,125000 ,31-10-2006,Alm. Salg,217,576.0,8,1927,
-410,Rækkehus,Søndergade 5,5500, Middelfart,1355000 ,30-10-2006,Alm. Salg,60,22583.0,3,1827,
 410,Villa,Solvænget 9,5592, Ejby,1010000 ,30-10-2006,Alm. Salg,122,8279.0,3,1963,
 410,Villa,Behrendtsvej 26,5500, Middelfart,2000000 ,30-10-2006,Alm. Salg,153,13072.0,4,1935,
 410,Villa,Endelavevej 31,5500, Middelfart,2530000 ,30-10-2006,Alm. Salg,167,15150.0,5,1997,
@@ -8782,7 +8621,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Balslevvej 54,5592, Ejby,885000 ,01-10-2006,Alm. Salg,150,5900.0,5,1890,
 410,Villa,Mølleløkken 14,5500, Middelfart,1300000 ,01-10-2006,Alm. Salg,121,10744.0,4,1971,
 410,Villa,Indslevvej 28,5580, Nørre Aaby,268000 ,30-09-2006,Alm. Salg,81,3309.0,3,1777,
-410,Villa,Damgårdvej 1,5500, Middelfart,3095000 ,28-09-2006,Alm. Salg,137,22591.0,3,1987,
 410,Villa,Rømøvænget 89,5500, Middelfart,725000 ,28-09-2006,Alm. Salg,151,4801.0,5,2008,
 410,Villa,Nørre Alle 5,5500, Middelfart,2805000 ,28-09-2006,Fam. Salg,150,18700.0,4,1971,
 410,Villa,Byvejen 10,5466, Asperup,425000 ,27-09-2006,Alm. Salg,151,2815.0,5,2009,
@@ -9097,7 +8935,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Vorsøvænget 6,5500, Middelfart,2545000 ,10-05-2006,Alm. Salg,158,16108.0,5,1997,
 410,Villa,Hjortebjergvej 1,5463, Harndrup,725000 ,10-05-2006,Alm. Salg,126,5754.0,4,1935,
 410,Villa,Rs Poulsens Vej 2B,5500, Middelfart,950000 ,10-05-2006,Fam. Salg,111,8559.0,5,1956,
-410,Rækkehus,Søndergade 49B,5591, Gelsted,800000 ,09-05-2006,Alm. Salg,62,12903.0,1,1950,
 410,Villa,Stribgårdvej 33,5500, Middelfart,2110000 ,09-05-2006,Alm. Salg,176,11989.0,5,1975,
 410,Villa,Østre Hougvej 81,5500, Middelfart,537500 ,09-05-2006,Alm. Salg,61,8811.0,2,1953,
 410,Villa,Rømøvænget 77,5500, Middelfart,682000 ,09-05-2006,Alm. Salg,184,3707.0,6,2007,
@@ -9246,27 +9083,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Vejrøvænget 18,5500, Middelfart,1575000 ,12-03-2006,Alm. Salg,121,13017.0,4,1974,
 410,Villa,Karensvej 15,5500, Middelfart,1950000 ,12-03-2006,Alm. Salg,113,17257.0,5,1967,
 410,Villa,Korsvejs Alle 20,5500, Middelfart,1560000 ,12-03-2006,Alm. Salg,160,9750.0,5,1962,
-410,Ejerlejlighed,"Hans Bangsvej 3, st",5500, Middelfart,1055000 ,11-03-2006,Fam. Salg,94,11223.0,3,0,
-410,Ejerlejlighed,"Hans Bangsvej 3, 1",5500, Middelfart,1055000 ,11-03-2006,Fam. Salg,95,11105.0,3,0,
-410,Ejerlejlighed,"Hans Bangsvej 5, st",5500, Middelfart,1055000 ,11-03-2006,Fam. Salg,66,15985.0,2,0,
-410,Ejerlejlighed,"Gl Banegårdsvej 9C, 1. tv",5500, Middelfart,1055000 ,11-03-2006,Fam. Salg,89,11854.0,3,0,
-410,Ejerlejlighed,"Hans Bangsvej 1, st. th",5500, Middelfart,1055000 ,11-03-2006,Fam. Salg,90,11722.0,3,0,
-410,Ejerlejlighed,"Østergade 51, 2. th",5500, Middelfart,1055000 ,11-03-2006,Fam. Salg,102,10343.0,3,0,
-410,Ejerlejlighed,"Hans Bangsvej 1, st. tv",5500, Middelfart,1055000 ,11-03-2006,Fam. Salg,91,11593.0,3,0,
-410,Ejerlejlighed,"Gl Banegårdsvej 9C, st. th",5500, Middelfart,1055000 ,11-03-2006,Fam. Salg,89,11854.0,3,0,
-410,Ejerlejlighed,"Østergade 51, 1. tv",5500, Middelfart,1055000 ,11-03-2006,Fam. Salg,104,10144.0,3,0,
-410,Ejerlejlighed,"Hans Bangsvej 1, 2. th",5500, Middelfart,1055000 ,11-03-2006,Fam. Salg,87,12126.0,3,0,
-410,Ejerlejlighed,"Hans Bangsvej 1, 2. tv",5500, Middelfart,1055000 ,11-03-2006,Fam. Salg,87,12126.0,3,0,
-410,Ejerlejlighed,"Hans Bangsvej 1, 1. tv",5500, Middelfart,1055000 ,11-03-2006,Fam. Salg,92,11467.0,3,0,
-410,Ejerlejlighed,"Østergade 51, 1. th",5500, Middelfart,1055000 ,11-03-2006,Fam. Salg,108,9769.0,3,0,
-410,Ejerlejlighed,"Gl Banegårdsvej 9C, 1. th",5500, Middelfart,1055000 ,11-03-2006,Fam. Salg,89,11854.0,3,0,
-410,Ejerlejlighed,"Gl Banegårdsvej 9C, st. tv",5500, Middelfart,1055000 ,11-03-2006,Fam. Salg,89,11854.0,3,0,
-410,Ejerlejlighed,"Hans Bangsvej 3, 2",5500, Middelfart,1055000 ,11-03-2006,Fam. Salg,85,12412.0,3,0,
-410,Ejerlejlighed,"Gl Banegårdsvej 9C, 2. tv",5500, Middelfart,1055000 ,11-03-2006,Fam. Salg,86,12267.0,3,0,
-410,Ejerlejlighed,"Gl Banegårdsvej 9C, 2. th",5500, Middelfart,1055000 ,11-03-2006,Fam. Salg,86,12267.0,3,0,
-410,Ejerlejlighed,"Hans Bangsvej 1, 1. th",5500, Middelfart,1055000 ,11-03-2006,Fam. Salg,91,11593.0,3,0,
-410,Ejerlejlighed,"Østergade 51, 2. tv",5500, Middelfart,1055000 ,11-03-2006,Fam. Salg,102,10343.0,3,0,
-410,Ejerlejlighed,"Østergade 51, st",5500, Middelfart,1055000 ,11-03-2006,Fam. Salg,126,8373.0,3,0,
 410,Villa,Fynsvej 18,5500, Middelfart,1465000 ,10-03-2006,Alm. Salg,140,10464.0,4,1965,
 410,Rækkehus,Münstervej 26,5500, Middelfart,1465000 ,09-03-2006,Alm. Salg,146,10034.0,5,1920,
 410,Rækkehus,Bøgevænget 12,5500, Middelfart,900000 ,09-03-2006,Alm. Salg,85,10588.0,3,1969,
@@ -9420,7 +9236,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Alrøvænget 10,5500, Middelfart,1900000 ,05-01-2006,Alm. Salg,211,9005.0,8,1996,
 410,Rækkehus,Knorregade 37,5500, Middelfart,820000 ,04-01-2006,Alm. Salg,44,18636.0,2,1850,
 410,Rækkehus,Gl Banegårdsvej 10,5500, Middelfart,540000 ,04-01-2006,Fam. Salg,73,7397.0,3,1910,
-410,Villa,Vestergade 57,5500, Middelfart,740000 ,04-01-2006,Andet,103,7184.0,3,1927,
 410,Villa,Hollændervej 91,5500, Middelfart,1425000 ,04-01-2006,Alm. Salg,121,11777.0,4,1972,
 410,Villa,Toppen 5,5500, Middelfart,500000 ,03-01-2006,Alm. Salg,234,2137.0,7,2007,
 410,Villa,Koldinghuse Syd 27,5580, Nørre Aaby,530000 ,03-01-2006,Alm. Salg,140,3786.0,5,1908,
@@ -9468,7 +9283,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Tornhøjvangen 15,5591, Gelsted,89255 ,20-12-2005,Alm. Salg,161,554.0,5,2006,
 410,Villa,Kingstrupvej 109,5591, Gelsted,475000 ,18-12-2005,Alm. Salg,67,7090.0,5,1864,
 410,Villa,Vestergårdvej 39,5500, Middelfart,1995000 ,18-12-2005,Alm. Salg,160,12469.0,6,1989,
-410,Villa,Grønnegade 4,5591, Gelsted,1217000 ,17-12-2005,Alm. Salg,95,12811.0,4,1960,
 410,Villa,Omøvænget 2,5500, Middelfart,930000 ,17-12-2005,Andet,176,5284.0,6,1978,
 410,Villa,Brovejen 159,5500, Middelfart,1050000 ,16-12-2005,Alm. Salg,96,10938.0,5,1920,
 410,Villa,Nørregade 44,5592, Ejby,725000 ,16-12-2005,Alm. Salg,123,5894.0,4,1904,
@@ -9482,12 +9296,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Røjle Bygade 82,5500, Middelfart,1750000 ,12-12-2005,Alm. Salg,362,4834.0,11,1866,
 410,Villa,Skaboes Gyde 8,5591, Gelsted,1799000 ,12-12-2005,Alm. Salg,284,6335.0,7,1968,
 410,Rækkehus,Brovejen 124,5500, Middelfart,990000 ,11-12-2005,Alm. Salg,88,11250.0,4,1922,
-410,Ejerlejlighed,"Brogade 4A, 1. 7",5500, Middelfart,2000000 ,11-12-2005,Alm. Salg,107,18692.0,3,1801,
 410,Villa,Kauslundevej 13,5500, Middelfart,985000 ,11-12-2005,Alm. Salg,141,6986.0,3,1850,
 410,Villa,Nørregade 17,5592, Ejby,284288 ,11-12-2005,Andet,140,2031.0,5,1875,
 410,Villa,Tårup Udlod 18,5591, Gelsted,1525000 ,11-12-2005,Alm. Salg,176,8665.0,5,1890,
 410,Villa,Juelsmindevej 5,5463, Harndrup,425000 ,11-12-2005,Alm. Salg,109,3899.0,4,1948,
-410,Villa,Langedamsvej 9,5500, Middelfart,2000000 ,11-12-2005,Alm. Salg,102,19608.0,4,1935,
 410,Villa,Tårupvej 49,5591, Gelsted,760000 ,11-12-2005,Alm. Salg,110,6909.0,3,1968,
 410,Villa,Altonavej 10,5463, Harndrup,975000 ,11-12-2005,Alm. Salg,175,5571.0,8,1912,
 410,Villa,Tornhøjvangen 13,5591, Gelsted,89355 ,11-12-2005,Alm. Salg,143,625.0,5,2006,
@@ -9561,7 +9373,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Brændeskovvej 17,5500, Middelfart,645000 ,16-11-2005,Alm. Salg,201,3209.0,7,2006,
 410,Villa,Slåenkvisten 5,5500, Middelfart,365500 ,15-11-2005,Alm. Salg,180,2031.0,5,2006,
 410,Villa,Stengade 22,5463, Harndrup,760000 ,14-11-2005,Alm. Salg,125,6080.0,4,1933,
-410,Rækkehus,Strandvejen 226,5500, Middelfart,2503044 ,13-11-2005,Alm. Salg,113,22151.0,3,2004,
 410,Rækkehus,Strandparken 25,5500, Middelfart,2116646 ,13-11-2005,Alm. Salg,113,18731.0,3,2003,
 410,Rækkehus,Strandparken 21,5500, Middelfart,2236696 ,13-11-2005,Alm. Salg,113,19794.0,3,2003,
 410,Rækkehus,Strandparken 3,5500, Middelfart,1912163 ,13-11-2005,Alm. Salg,96,19918.0,3,2003,
@@ -9581,7 +9392,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Rømøvænget 47,5500, Middelfart,662000 ,13-11-2005,Alm. Salg,207,3198.0,7,2007,
 410,Villa,Åbakken 14,5580, Nørre Aaby,202665 ,11-11-2005,Alm. Salg,136,1490.0,5,2006,
 410,Villa,Thorsvej 17,5500, Middelfart,97400 ,11-11-2005,Alm. Salg,136,716.0,6,2007,
-410,Ejerlejlighed,"Fænøsund Park 15, st. tv",5500, Middelfart,2700000 ,10-11-2005,Alm. Salg,120,22500.0,3,2005,
 410,Villa,Storegade 85,5592, Ejby,705000 ,10-11-2005,Alm. Salg,131,5382.0,4,1936,
 410,Villa,Østergade 57,5580, Nørre Aaby,825000 ,10-11-2005,Alm. Salg,151,5464.0,4,1931,
 410,Villa,Rudbæksmøllevej 2,5500, Middelfart,1525000 ,09-11-2005,Alm. Salg,125,12200.0,4,1960,
@@ -9708,7 +9518,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Ludvig Storms Vej 3,5500, Middelfart,925000 ,13-09-2005,Alm. Salg,90,10278.0,3,1961,
 410,Villa,Skydsbjergvej 23,5463, Harndrup,3803362 ,12-09-2005,Alm. Salg,188,20231.0,5,1925,
 410,Villa,Vibyvænget 9,5580, Nørre Aaby,1040000 ,12-09-2005,Alm. Salg,167,6228.0,6,1965,
-410,Ejerlejlighed,"Havnegade 22, st. th",5500, Middelfart,3250000 ,11-09-2005,Alm. Salg,146,22260.0,4,2005,
 410,Villa,Hindbærranken 1,5500, Middelfart,317250 ,11-09-2005,Alm. Salg,147,2158.0,6,2006,
 410,Villa,Hindbærranken 5,5500, Middelfart,325000 ,11-09-2005,Alm. Salg,146,2226.0,6,2006,
 410,Villa,Brovejen 194,5500, Middelfart,1160000 ,11-09-2005,Alm. Salg,154,7532.0,8,1955,
@@ -9810,10 +9619,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Elmegade 36,5500, Middelfart,1600000 ,09-08-2005,Alm. Salg,128,12500.0,4,1939,
 410,Villa,Kærbyvænget 11,5466, Asperup,220584 ,09-08-2005,Alm. Salg,213,1036.0,8,2007,
 410,Rækkehus,Gl Banegårdsvej 8,5500, Middelfart,975000 ,08-08-2005,Alm. Salg,104,9375.0,3,1898,
-410,Villa,Skrillingevej 24A,5500, Middelfart,3340000 ,08-08-2005,Alm. Salg,267,12509.0,7,1854,
 410,Villa,Brovejen 31,5500, Middelfart,1125000 ,08-08-2005,Alm. Salg,95,11842.0,4,1952,
 410,Villa,Münstervej 42,5500, Middelfart,1020000 ,08-08-2005,Alm. Salg,254,4016.0,7,2016,
-410,Ejerlejlighed,"Havnegade 20, st. tv",5500, Middelfart,3250000 ,07-08-2005,Alm. Salg,145,22414.0,4,2005,
 410,Villa,Storegade 51,5592, Ejby,375000 ,07-08-2005,Alm. Salg,206,1820.0,9,1907,
 410,Villa,Hollændervej 132,5500, Middelfart,1395000 ,07-08-2005,Alm. Salg,140,9964.0,4,1971,
 410,Villa,Tanderupvej 17,5591, Gelsted,885000 ,07-08-2005,Alm. Salg,119,7437.0,4,1973,
@@ -9853,7 +9660,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Voldbyvej 22,5500, Middelfart,1785000 ,20-07-2005,Alm. Salg,177,10085.0,6,1910,
 410,Villa,Algade 35,5592, Ejby,715000 ,20-07-2005,Alm. Salg,129,5543.0,6,1924,
 410,Villa,Ulvsbjergvej 20,5500, Middelfart,2250000 ,19-07-2005,Alm. Salg,271,6902.0,9,1898,
-410,Ejerlejlighed,"Havnegade 22, st. tv",5500, Middelfart,3250000 ,18-07-2005,Alm. Salg,145,22414.0,4,2005,
 410,Villa,Kærbyvænget 9,5466, Asperup,226846 ,18-07-2005,Alm. Salg,200,1134.0,5,2006,
 410,Villa,Chr Dannings Vej 34,5500, Middelfart,1585000 ,17-07-2005,Alm. Salg,120,13208.0,5,1988,
 410,Villa,Adlerhusvej 11,5500, Middelfart,1825000 ,17-07-2005,Alm. Salg,155,11774.0,7,1965,
@@ -9980,17 +9786,13 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Odensevej 142,5500, Middelfart,550000 ,02-06-2005,Fam. Salg,177,3107.0,8,1906,
 410,Villa,H C Lumbyes Vej 3,5500, Middelfart,1425000 ,02-06-2005,Alm. Salg,126,11310.0,5,1997,
 410,Rækkehus,Gl. Odensevej 25B,5591, Gelsted,136007 ,01-06-2005,Alm. Salg,95,1432.0,3,2006,
-410,Ejerlejlighed,"Havnegade 24, st. tv",5500, Middelfart,3250000 ,01-06-2005,Alm. Salg,145,22414.0,4,2005,
 410,Villa,H P Johansens Vej 12,5500, Middelfart,1135000 ,01-06-2005,Alm. Salg,129,8798.0,5,1954,
 410,Villa,Sofiendalvej 19,5500, Middelfart,685000 ,01-06-2005,Alm. Salg,153,4477.0,4,2005,
 410,Villa,Fønsvej 16,5580, Nørre Aaby,700000 ,01-06-2005,Alm. Salg,81,8642.0,4,1953,
 410,Villa,Kildevej 5,5463, Harndrup,590000 ,31-05-2005,Alm. Salg,98,6020.0,4,1777,
 410,Villa,Nørregade 75,5592, Ejby,1065000 ,31-05-2005,Alm. Salg,146,7295.0,6,1940,
 410,Villa,Havevænget 17,5500, Middelfart,1495000 ,30-05-2005,Alm. Salg,154,9708.0,6,1972,
-410,Ejerlejlighed,Teglværksgade 33,5500, Middelfart,300000 ,29-05-2005,Alm. Salg,117,2564.0,3,1961,
 410,Ejerlejlighed,"Rs Andersensvej 1, 1",5580, Nørre Aaby,995000 ,29-05-2005,Alm. Salg,127,7835.0,5,1969,
-410,Ejerlejlighed,"Teglværksgade 35, kl",5500, Middelfart,300000 ,29-05-2005,Alm. Salg,98,3061.0,2,1962,
-410,Ejerlejlighed,Jernbanegade 8B,5500, Middelfart,300000 ,29-05-2005,Alm. Salg,135,2222.0,4,1962,
 410,Villa,Søndergade 112,5591, Gelsted,798000 ,29-05-2005,Alm. Salg,140,5700.0,5,1933,
 410,Villa,Kingstrupvej 111,5591, Gelsted,495000 ,29-05-2005,Alm. Salg,97,5103.0,3,1880,
 410,Villa,Skolevej 5,5580, Nørre Aaby,1356531 ,29-05-2005,Alm. Salg,166,8172.0,7,1923,
@@ -10085,8 +9887,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Brovejen 321,5500, Middelfart,870000 ,18-04-2005,Alm. Salg,96,9063.0,4,1959,
 410,Villa,Middelfartvej 209,5464, Brenderup Fyn,1100000 ,18-04-2005,Alm. Salg,165,6667.0,5,1877,
 410,Rækkehus,H P Priors Vej 5,5500, Middelfart,1185000 ,17-04-2005,Alm. Salg,120,9875.0,4,1920,
-410,Rækkehus,Søndergade 141,5591, Gelsted,325000 ,17-04-2005,Alm. Salg,88,3693.0,4,1902,
-410,Ejerlejlighed,Søndergade 141A,5591, Gelsted,325000 ,17-04-2005,Alm. Salg,66,4924.0,2,1902,
 410,Villa,Byvejen 28,5466, Asperup,885000 ,17-04-2005,Alm. Salg,112,7902.0,3,1931,
 410,Villa,Skolevej 3,5464, Brenderup Fyn,450000 ,17-04-2005,Fam. Salg,184,2446.0,5,1942,
 410,Villa,Blankegaardsvej 3,5466, Asperup,338966 ,17-04-2005,Fam. Salg,185,1832.0,5,1905,
@@ -10100,7 +9900,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Strømøvænget 12,5500, Middelfart,1400000 ,13-04-2005,Alm. Salg,140,10000.0,5,1976,
 410,Villa,Syrenvej 1,5580, Nørre Aaby,725000 ,13-04-2005,Alm. Salg,88,8239.0,3,1968,
 410,Villa,Egelundvej 16A,5464, Brenderup Fyn,1450000 ,12-04-2005,Alm. Salg,148,9797.0,5,1998,
-410,Ejerlejlighed,"Havnegade 24, st. th",5500, Middelfart,3250000 ,11-04-2005,Alm. Salg,146,22260.0,4,2005,
 410,Villa,Bygvænget 7,5464, Brenderup Fyn,910000 ,11-04-2005,Alm. Salg,195,4667.0,6,1976,
 410,Villa,Ronæsvej 5,5580, Nørre Aaby,975000 ,08-04-2005,Alm. Salg,119,8193.0,4,1896,
 410,Villa,Sofiendalvej 78,5500, Middelfart,2400000 ,07-04-2005,Alm. Salg,167,14371.0,5,1999,
@@ -10145,8 +9944,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Nederballevej 2,5463, Harndrup,610000 ,20-03-2005,Alm. Salg,102,5980.0,5,1953,
 410,Villa,Odensevej 191,5500, Middelfart,600000 ,20-03-2005,Fam. Salg,152,3947.0,5,1974,
 410,Ejerlejlighed,Tunnelvej 2,5580, Nørre Aaby,750000 ,19-03-2005,Auktion,156,4808.0,6,1910,
-410,Ejerlejlighed,"Østerbyvej 16, 1",5500, Middelfart,380000 ,19-03-2005,Alm. Salg,107,3551.0,1,1964,
-410,Villa,Østerbyvej 16,5500, Middelfart,380000 ,19-03-2005,Alm. Salg,349,1089.0,6,2008,
 410,Villa,Margaardvej 42,5580, Nørre Aaby,518500 ,17-03-2005,Fam. Salg,120,4321.0,6,1912,
 410,Villa,Tårupvej 9,5500, Middelfart,1330000 ,17-03-2005,Alm. Salg,168,7917.0,6,1979,
 410,Villa,Plantagen 25,5500, Middelfart,585000 ,17-03-2005,Alm. Salg,209,2799.0,5,2008,
@@ -10165,7 +9962,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Ejerlejlighed,"Havnegade 28, st. th",5500, Middelfart,2550000 ,13-03-2005,Alm. Salg,120,21250.0,4,2005,
 410,Villa,Brændeskovvej 83,5500, Middelfart,2280000 ,13-03-2005,Alm. Salg,167,13653.0,6,2004,
 410,Villa,Hovvej 24,5591, Gelsted,250000 ,13-03-2005,Alm. Salg,329,760.0,11,1890,
-410,Villa,Hovvej 56B,5591, Gelsted,800000 ,13-03-2005,Alm. Salg,166,4819.0,3,1982,
 410,Villa,Algade 50,5592, Ejby,675000 ,13-03-2005,Alm. Salg,138,4891.0,6,1929,
 410,Villa,Nørregade 70,5592, Ejby,750000 ,13-03-2005,Andet,132,5682.0,6,1902,
 410,Villa,Hygindvej 56,5592, Ejby,950000 ,13-03-2005,Alm. Salg,260,3654.0,7,1802,
@@ -10214,8 +10010,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Skovgyden 17,5466, Asperup,1025000 ,17-02-2005,Alm. Salg,204,5025.0,4,1880,
 410,Villa,Røjle Bygade 93,5500, Middelfart,925000 ,17-02-2005,Alm. Salg,109,8486.0,4,1928,
 410,Villa,Brovejen 40,5500, Middelfart,1075000 ,17-02-2005,Alm. Salg,76,14145.0,3,1950,
-410,Ejerlejlighed,Teglværksgade 33,5500, Middelfart,2375000 ,16-02-2005,Alm. Salg,117,20299.0,3,1961,
-410,Ejerlejlighed,Jernbanegade 8B,5500, Middelfart,2375000 ,16-02-2005,Alm. Salg,135,17593.0,4,1962,
 410,Villa,Elmegade 32,5500, Middelfart,1445000 ,16-02-2005,Alm. Salg,118,12246.0,5,1936,
 410,Villa,Solvænget 8,5500, Middelfart,647500 ,16-02-2005,Fam. Salg,153,4232.0,5,1968,
 410,Villa,Idrætsvej 2,5463, Harndrup,540000 ,15-02-2005,Alm. Salg,96,5625.0,3,1963,
@@ -10292,7 +10086,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Rækkehus,Smedegade 28,5500, Middelfart,795000 ,17-01-2005,Alm. Salg,49,16224.0,2,1880,
 410,Villa,Kirkevej 27,5580, Nørre Aaby,500000 ,17-01-2005,Alm. Salg,148,3378.0,4,1914,
 410,Rækkehus,Viaduktvej 11,5500, Middelfart,765000 ,16-01-2005,Alm. Salg,53,14434.0,3,1920,
-410,Villa,Vestergade 57,5500, Middelfart,660000 ,16-01-2005,Alm. Salg,103,6408.0,3,1927,
 410,Villa,Vindebjergvej 36,5463, Harndrup,1000000 ,16-01-2005,Alm. Salg,200,5000.0,6,1936,
 410,Villa,Tværgade 16,5500, Middelfart,700000 ,15-01-2005,Alm. Salg,76,9211.0,3,1902,
 410,Villa,Chr Dannings Vej 26,5500, Middelfart,1275000 ,14-01-2005,Alm. Salg,130,9808.0,4,1985,
@@ -10317,7 +10110,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Kastanievej 6,5580, Nørre Aaby,569500 ,04-01-2005,Fam. Salg,117,4868.0,5,1934,
 410,Rækkehus,Smedegade 28,5500, Middelfart,700000 ,03-01-2005,Alm. Salg,49,14286.0,2,1880,
 410,Villa,Vejrøvænget 10,5500, Middelfart,1125000 ,03-01-2005,Alm. Salg,121,9298.0,4,1974,
-410,Villa,Vestergade 10B,5500, Middelfart,1000000 ,02-01-2005,Andet,112,8929.0,4,1927,
 410,Villa,Lyøvænget 52,5500, Middelfart,1275000 ,02-01-2005,Alm. Salg,167,7635.0,4,1980,
 410,Villa,Røjle Bygade 59,5500, Middelfart,1185000 ,31-12-2004,Alm. Salg,133,8910.0,5,1957,
 410,Rækkehus,Odensevej 78,5500, Middelfart,1195000 ,29-12-2004,Alm. Salg,118,10127.0,3,1900,
@@ -10600,8 +10392,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Ny Møllevej 11,5500, Middelfart,1135000 ,11-07-2004,Alm. Salg,116,9784.0,4,1933,
 410,Villa,Kirstensvej 20,5500, Middelfart,1435000 ,11-07-2004,Alm. Salg,155,9258.0,5,1978,
 410,Villa,Rolundvej 24,5591, Gelsted,840000 ,09-07-2004,Alm. Salg,180,4667.0,6,1958,
-410,Rækkehus,Udsigten 35,5500, Middelfart,1100000 ,08-07-2004,Alm. Salg,131,8397.0,4,1969,
-410,Villa,Havevej 7,5500, Middelfart,1100000 ,08-07-2004,Alm. Salg,91,12088.0,3,1961,
 410,Villa,Bogensevej 122,5500, Middelfart,1035000 ,08-07-2004,Alm. Salg,145,7138.0,5,1908,
 410,Villa,Hårevej 47,5591, Gelsted,1700000 ,07-07-2004,Alm. Salg,137,12409.0,4,1902,
 410,Villa,Øster Alle 35,5500, Middelfart,1650000 ,07-07-2004,Alm. Salg,150,11000.0,3,1947,
@@ -10659,7 +10449,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Stribgårdvej 95,5500, Middelfart,1315000 ,06-06-2004,Alm. Salg,144,9132.0,5,1977,
 410,Villa,Brændeskovvej 55,5500, Middelfart,434800 ,03-06-2004,Alm. Salg,139,3128.0,6,2005,
 410,Villa,Mosevænget 5,5500, Middelfart,1250000 ,02-06-2004,Alm. Salg,137,9124.0,4,1928,
-410,Villa,Brovejen 157B,5500, Middelfart,750000 ,02-06-2004,Alm. Salg,38,19737.0,1,1900,
 410,Villa,Gelsted Mose 37,5591, Gelsted,1180000 ,01-06-2004,Alm. Salg,244,4836.0,7,1976,
 410,Villa,Oven Bæltet 26,5500, Middelfart,2475000 ,01-06-2004,Alm. Salg,271,9133.0,6,1967,
 410,Villa,Hovedvejen 41,5500, Middelfart,535000 ,01-06-2004,Alm. Salg,156,3429.0,8,1890,
@@ -10732,7 +10521,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Tjørnevænget 6,5500, Middelfart,1250000 ,02-05-2004,Alm. Salg,196,6378.0,6,1965,
 410,Villa,Oven Bæltet 2,5500, Middelfart,330000 ,02-05-2004,Alm. Salg,160,2063.0,5,2007,
 410,Villa,Tangmosen 19,5500, Middelfart,940000 ,01-05-2004,Alm. Salg,88,10682.0,4,1960,
-410,Ejerlejlighed,"Havnegade 26, st. tv",5500, Middelfart,2800000 ,29-04-2004,Alm. Salg,125,22400.0,4,2005,
 410,Villa,Tennisvej 3,5580, Nørre Aaby,760000 ,29-04-2004,Alm. Salg,118,6441.0,5,1946,
 410,Villa,Koldinghuse Syd 25,5580, Nørre Aaby,845000 ,29-04-2004,Alm. Salg,359,2354.0,8,1907,
 410,Villa,Margaardvej 34,5580, Nørre Aaby,600000 ,28-04-2004,Alm. Salg,120,5000.0,4,1900,
@@ -10855,10 +10643,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Rækkehus,Vestergårdvej 57B,5500, Middelfart,1085000 ,01-03-2004,Alm. Salg,129,8411.0,5,1989,
 410,Rækkehus,Smedegade 4,5500, Middelfart,838000 ,01-03-2004,Alm. Salg,75,11173.0,3,1870,
 410,Villa,Mølleløkken 22,5500, Middelfart,1238000 ,01-03-2004,Alm. Salg,161,7689.0,5,1978,
-410,Ejerlejlighed,"Gl Vestergade 32, 1. th",5500, Middelfart,1350000 ,29-02-2004,Alm. Salg,96,14063.0,3,1999,
 410,Villa,Nørregade 19,5592, Ejby,750000 ,29-02-2004,Alm. Salg,163,3488.0,6,1900,
 410,Villa,Vestergade 69,5500, Middelfart,1160000 ,29-02-2004,Alm. Salg,128,9063.0,4,1930,
-410,Villa,Lærkevej 13,5500, Middelfart,1350000 ,29-02-2004,Alm. Salg,117,11538.0,4,1966,
 410,Rækkehus,Jyllandsvej 27,5500, Middelfart,775000 ,28-02-2004,Alm. Salg,99,7828.0,4,1927,
 410,Villa,Münstervej 42,5500, Middelfart,500000 ,28-02-2004,Alm. Salg,254,1969.0,7,2016,
 410,Villa,Margaardvej 14,5580, Nørre Aaby,895000 ,27-02-2004,Alm. Salg,108,8287.0,5,1939,
@@ -10920,7 +10706,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Sletterødvej 20,5463, Harndrup,465000 ,25-01-2004,Alm. Salg,88,5284.0,4,1915,
 410,Villa,Fruerhøjvej 16,5464, Brenderup Fyn,720000 ,25-01-2004,Alm. Salg,108,6667.0,4,1950,
 410,Villa,Munkegårdsvej 6,5464, Brenderup Fyn,405000 ,25-01-2004,Alm. Salg,101,4010.0,3,1967,
-410,Villa,Gl Strandvej 7,5500, Middelfart,2975000 ,25-01-2004,Alm. Salg,133,22368.0,6,1900,
 410,Villa,Skydsbjergvej 5,5463, Harndrup,268293 ,25-01-2004,Andet,181,1482.0,8,1969,
 410,Villa,Røjle Bygade 50,5500, Middelfart,92500 ,24-01-2004,Alm. Salg,138,670.0,5,2009,
 410,Villa,Kirkevej 10,5580, Nørre Aaby,1051050 ,23-01-2004,Alm. Salg,182,5775.0,5,1902,
@@ -11019,7 +10804,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Hollændervej 5,5500, Middelfart,887500 ,17-11-2003,Alm. Salg,117,7585.0,5,1962,
 410,Villa,Assensvej 11,5580, Nørre Aaby,2200000 ,17-11-2003,Alm. Salg,195,11282.0,5,1915,
 410,Villa,Stengade 28,5463, Harndrup,450000 ,16-11-2003,Alm. Salg,84,5357.0,4,1962,
-410,Villa,Rudbæksbanke 9,5500, Middelfart,2800000 ,14-11-2003,Alm. Salg,126,22222.0,5,1956,
 410,Ejerlejlighed,"Bjergbanksvej 2, st. 1",5500, Middelfart,595000 ,13-11-2003,Alm. Salg,71,8380.0,2,1966,
 410,Villa,Ronæsbrovej 12A,5580, Nørre Aaby,859989 ,13-11-2003,Alm. Salg,130,6615.0,5,1986,
 410,Villa,Brændeskovvej 69,5500, Middelfart,473100 ,13-11-2003,Alm. Salg,172,2751.0,5,2005,
@@ -11040,7 +10824,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Kærbyvej 10,5466, Asperup,434514 ,30-10-2003,Andet,180,2414.0,5,1877,
 410,Villa,Rosenvænget 34,5500, Middelfart,875000 ,30-10-2003,Alm. Salg,85,10294.0,3,1940,
 410,Villa,Dyregårdsvej 21,5591, Gelsted,875000 ,30-10-2003,Alm. Salg,204,4289.0,7,1927,
-410,Villa,Hovvej 56B,5591, Gelsted,95000 ,29-10-2003,Fam. Salg,166,572.0,3,1982,
 410,Villa,Tjærepletten 18,5500, Middelfart,308125 ,29-10-2003,Fam. Salg,114,2703.0,3,1982,
 410,Villa,Hovvej 23,5591, Gelsted,499000 ,27-10-2003,Alm. Salg,70,7129.0,2,1850,
 410,Villa,Sivkærvej 8,5591, Gelsted,375000 ,27-10-2003,Alm. Salg,77,4870.0,3,1950,
@@ -11073,7 +10856,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Byvejen 64,5466, Asperup,1065000 ,10-10-2003,Alm. Salg,240,4438.0,8,1911,
 410,Villa,Bogensevej 106,5464, Brenderup Fyn,300000 ,10-10-2003,Alm. Salg,120,2500.0,4,1942,
 410,Villa,Tårupvej 4,5591, Gelsted,900000 ,08-10-2003,Alm. Salg,175,5143.0,6,1924,
-410,Villa,Rs Poulsens Vej 22A,5500, Middelfart,1275000 ,08-10-2003,Alm. Salg,86,14826.0,3,1973,
 410,Rækkehus,Fredenslundsvej 11,5500, Middelfart,895000 ,07-10-2003,Alm. Salg,80,11188.0,2,1930,
 410,Villa,Mosevangen 5,5592, Ejby,700000 ,07-10-2003,Alm. Salg,94,7447.0,4,1981,
 410,Rækkehus,Frederiksgade 2,5500, Middelfart,780000 ,06-10-2003,Alm. Salg,81,9630.0,2,1920,
@@ -11124,11 +10906,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,H C Lumbyes Vej 53,5500, Middelfart,1540000 ,17-09-2003,Alm. Salg,161,9565.0,6,1979,
 410,Villa,Hønnerupvej 119,5463, Harndrup,785000 ,16-09-2003,Alm. Salg,121,6488.0,4,1965,
 410,Villa,Myntevænget 16,5500, Middelfart,410567 ,16-09-2003,Andet,99,4147.0,5,1951,
-410,Ejerlejlighed,"Vibyvej 1, 2",5580, Nørre Aaby,1550000 ,15-09-2003,Alm. Salg,74,20946.0,4,1912,
-410,Ejerlejlighed,"Vibyvej 1, 1",5580, Nørre Aaby,1550000 ,15-09-2003,Alm. Salg,97,15979.0,3,1912,
-410,Ejerlejlighed,"Søndergade 2, st. tv",5580, Nørre Aaby,1550000 ,15-09-2003,Alm. Salg,107,14486.0,3,1912,
-410,Ejerlejlighed,"Søndergade 2, 1",5580, Nørre Aaby,1550000 ,15-09-2003,Alm. Salg,110,14091.0,3,1912,
-410,Ejerlejlighed,"Søndergade 2, st. th",5580, Nørre Aaby,1550000 ,15-09-2003,Alm. Salg,100,15500.0,3,1912,
 410,Villa,Ørsbjergskov 4,5591, Gelsted,516606 ,14-09-2003,Alm. Salg,100,5166.0,3,1876,
 410,Villa,Ridderstien 19,5463, Harndrup,771830 ,12-09-2003,Alm. Salg,162,4764.0,5,1928,
 410,Villa,Mikkelsbro 7,5580, Nørre Aaby,940000 ,12-09-2003,Alm. Salg,134,7015.0,5,1954,
@@ -11153,7 +10930,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Rørupgyden 36,5560, Aarup,400000 ,03-09-2003,Fam. Salg,116,3448.0,4,1963,
 410,Ejerlejlighed,"Stationsvej 13, st",5500, Middelfart,418000 ,01-09-2003,Alm. Salg,52,8038.0,2,1930,
 410,Villa,Kirkevej 50,5580, Nørre Aaby,700000 ,01-09-2003,Alm. Salg,120,5833.0,6,1983,
-410,Villa,Rolighedsvej 10,5500, Middelfart,3550000 ,01-09-2003,Alm. Salg,158,22468.0,4,1852,
 410,Villa,Kærbyvej 5B,5466, Asperup,660000 ,31-08-2003,Alm. Salg,130,5077.0,5,1964,
 410,Villa,Plantagen 21,5500, Middelfart,312000 ,31-08-2003,Alm. Salg,166,1880.0,4,2006,
 410,Villa,Vestergårdvej 25,5500, Middelfart,920000 ,31-08-2003,Alm. Salg,100,9200.0,3,1990,
@@ -11290,7 +11066,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Ejerlejlighed,"Østergade 26, 1",5500, Middelfart,1979000 ,24-06-2003,Alm. Salg,132,14992.0,3,1940,
 410,Villa,Storegade 54,5592, Ejby,807054 ,24-06-2003,Alm. Salg,176,4586.0,8,1850,
 410,Villa,Stribgårdvej 59,5500, Middelfart,1335000 ,24-06-2003,Alm. Salg,129,10349.0,5,1977,
-410,Rækkehus,Gl Vestergade 35,5500, Middelfart,1585000 ,23-06-2003,Alm. Salg,71,22324.0,2,1877,
 410,Villa,Tværgade 4,5592, Ejby,440000 ,23-06-2003,Alm. Salg,105,4190.0,5,1910,
 410,Villa,Humlevej 7,5500, Middelfart,1153000 ,23-06-2003,Alm. Salg,106,10877.0,4,1968,
 410,Villa,Bogøvænget 52,5500, Middelfart,1320000 ,23-06-2003,Alm. Salg,171,7719.0,7,1988,
@@ -11324,7 +11099,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Gl Strandvej 118,5500, Middelfart,1598000 ,11-06-2003,Alm. Salg,203,7872.0,7,1934,
 410,Villa,Idrætsvej 41,5580, Nørre Aaby,755000 ,11-06-2003,Alm. Salg,225,3356.0,9,1875,
 410,Villa,Hønneruplundvej 9,5591, Gelsted,545000 ,11-06-2003,Alm. Salg,106,5142.0,5,1935,
-410,Rækkehus,Münstervej 26,5500, Middelfart,950000 ,10-06-2003,Alm. Salg,146,6507.0,5,1920,
 410,Villa,Kærbyholmvej 4,5466, Asperup,121000 ,10-06-2003,Auktion,136,890.0,4,1877,
 410,Villa,Nederballevej 22,5463, Harndrup,360000 ,10-06-2003,Alm. Salg,101,3564.0,3,1827,
 410,Rækkehus,Hessgade 26,5500, Middelfart,1240000 ,09-06-2003,Alm. Salg,145,8552.0,5,1917,
@@ -11458,7 +11232,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Færgegårdvej 17,5500, Middelfart,1170000 ,13-03-2003,Alm. Salg,138,8478.0,4,1975,
 410,Villa,Østergade 78,5580, Nørre Aaby,1038000 ,12-03-2003,Alm. Salg,115,9026.0,3,1936,
 410,Villa,Havrevænget 9,5464, Brenderup Fyn,845505 ,12-03-2003,Fam. Salg,174,4859.0,6,2001,
-410,Ejerlejlighed,Kirkevej 30B,5580, Nørre Aaby,1650000 ,11-03-2003,Andet,95,17368.0,3,2004,
 410,Villa,Rolighedsvej 12,5580, Nørre Aaby,610101 ,10-03-2003,Fam. Salg,170,3589.0,7,1954,
 410,Villa,Tybrindvej 10,5592, Ejby,1450000 ,09-03-2003,Alm. Salg,241,6017.0,7,1860,
 410,Villa,Postmosevej 77,5500, Middelfart,1008349 ,05-03-2003,Alm. Salg,121,8333.0,4,1970,
@@ -11860,18 +11633,15 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Myntevænget 13,5500, Middelfart,785000 ,24-06-2002,Fam. Salg,99,7929.0,4,1963,
 410,Villa,Tybrindvej 37,5592, Ejby,1100000 ,24-06-2002,Alm. Salg,114,9649.0,5,1862,
 410,Villa,Kørvelvej 9,5500, Middelfart,1080000 ,24-06-2002,Alm. Salg,94,11489.0,4,1961,
-410,Rækkehus,Rs Poulsens Vej 22B,5500, Middelfart,599222 ,23-06-2002,Alm. Salg,50,11984.0,2,1900,
 410,Villa,Søndergade 50,5591, Gelsted,935000 ,23-06-2002,Alm. Salg,140,6679.0,7,1920,
 410,Villa,Tværgade 13,5500, Middelfart,430000 ,23-06-2002,Alm. Salg,50,8600.0,2,1965,
 410,Villa,Hjortebjergvænget 9,5463, Harndrup,1095000 ,23-06-2002,Alm. Salg,129,8488.0,6,1900,
 410,Villa,Nederballevej 21,5463, Harndrup,371000 ,23-06-2002,Alm. Salg,105,3533.0,3,1823,
-410,Villa,Rs Poulsens Vej 22A,5500, Middelfart,599222 ,23-06-2002,Alm. Salg,86,6968.0,3,1973,
 410,Villa,Vindebjergvej 4,5463, Harndrup,396175 ,22-06-2002,Alm. Salg,146,2714.0,5,1923,
 410,Villa,Middelfartvej 279,5464, Brenderup Fyn,515000 ,20-06-2002,Alm. Salg,80,6438.0,3,1800,
 410,Rækkehus,Nørregade 30,5592, Ejby,399000 ,19-06-2002,Alm. Salg,87,4586.0,3,1877,
 410,Villa,Assensvej 61,5500, Middelfart,775000 ,19-06-2002,Alm. Salg,97,7990.0,5,1935,
 410,Villa,Havevej 9,5500, Middelfart,1030000 ,18-06-2002,Alm. Salg,104,9904.0,4,1963,
-410,Villa,Bankejorden 1,5466, Asperup,540000 ,18-06-2002,Alm. Salg,107,5047.0,3,2002,
 410,Villa,Rosenvænget 55,5500, Middelfart,1225552 ,18-06-2002,Alm. Salg,129,9500.0,3,1942,
 410,Villa,Fyrstedgyden 14,5592, Ejby,296240 ,18-06-2002,Fam. Salg,147,2015.0,5,1910,
 410,Villa,Ellesø Gade 8,5592, Ejby,457000 ,17-06-2002,Alm. Salg,190,2405.0,3,1880,
@@ -11994,7 +11764,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Drejøvænget 16A,5500, Middelfart,150000 ,18-04-2002,Alm. Salg,152,987.0,5,2002,
 410,Villa,Kirkebjergvej 28,5466, Asperup,561000 ,18-04-2002,Alm. Salg,114,4921.0,4,1910,
 410,Rækkehus,Udsigten 11,5500, Middelfart,770000 ,16-04-2002,Alm. Salg,84,9167.0,3,1969,
-410,Villa,Odensevej 128B,5500, Middelfart,575000 ,16-04-2002,Alm. Salg,106,5425.0,4,2006,
 410,Villa,Vejrupvej 64,5464, Brenderup Fyn,886000 ,15-04-2002,Alm. Salg,131,6763.0,4,1929,
 410,Villa,Kærsgårdvej 38,5464, Brenderup Fyn,595000 ,15-04-2002,Alm. Salg,132,4508.0,3,1900,
 410,Villa,Rudbæksbanke 4,5500, Middelfart,1745000 ,15-04-2002,Alm. Salg,179,9749.0,6,1957,
@@ -12062,7 +11831,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Rolighedsvej 2,5580, Nørre Aaby,695000 ,07-03-2002,Alm. Salg,100,6950.0,3,1951,
 410,Villa,Røjleskovvej 15,5500, Middelfart,1200000 ,07-03-2002,Alm. Salg,151,7947.0,5,1926,
 410,Villa,Østre Hougvej 28,5500, Middelfart,975000 ,05-03-2002,Alm. Salg,101,9653.0,4,1930,
-410,Ejerlejlighed,Kirkevej 30B,5580, Nørre Aaby,1650000 ,04-03-2002,Alm. Salg,95,17368.0,3,2004,
 410,Villa,Chr Dannings Vej 14,5500, Middelfart,850000 ,04-03-2002,Alm. Salg,206,4126.0,7,1980,
 410,Ejerlejlighed,"Bjergbanksvej 2, 2. 1",5500, Middelfart,314050 ,03-03-2002,Andet,71,4423.0,2,1966,
 410,Villa,Skovløkken 15,5580, Nørre Aaby,320000 ,03-03-2002,Alm. Salg,161,1988.0,4,1927,
@@ -12130,9 +11898,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,H P Johansens Vej 11,5500, Middelfart,675000 ,27-01-2002,Alm. Salg,156,4327.0,7,1907,
 410,Villa,Blankegaardvænget 5,5466, Asperup,793000 ,27-01-2002,Alm. Salg,130,6100.0,4,1915,
 410,Rækkehus,Fredenslundsvej 12,5500, Middelfart,877634 ,24-01-2002,Alm. Salg,73,12022.0,2,1933,
-410,Rækkehus,Baaringvad 18B,5580, Nørre Aaby,1575000 ,24-01-2002,Alm. Salg,106,8333.0,6,1997,
 410,Villa,Skolevej 1,5580, Nørre Aaby,1250000 ,24-01-2002,Alm. Salg,142,8803.0,6,1913,
-410,Villa,Baaringvad 18A,5580, Nørre Aaby,1575000 ,24-01-2002,Alm. Salg,100,15750.0,2,1900,
 410,Villa,Vejlbyvej 42,5500, Middelfart,1050000 ,23-01-2002,Alm. Salg,275,3818.0,9,1902,
 410,Villa,Mellemmarkvej 10,5500, Middelfart,451237 ,23-01-2002,Andet,146,3091.0,4,1880,
 410,Villa,Damgyden 11,5592, Ejby,600000 ,23-01-2002,Alm. Salg,218,2752.0,4,1927,
@@ -12232,7 +11998,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Pytten 7,5580, Nørre Aaby,283333 ,18-11-2001,Fam. Salg,170,1667.0,5,1975,
 410,Villa,Jægersmindevej 25,5463, Harndrup,500000 ,18-11-2001,Alm. Salg,141,3546.0,7,1845,
 410,Villa,Chr Dannings Vej 30,5500, Middelfart,1275000 ,18-11-2001,Alm. Salg,156,8173.0,5,1990,
-410,Rækkehus,Baaringvad 18B,5580, Nørre Aaby,2800000 ,15-11-2001,Alm. Salg,106,14815.0,6,1997,
 410,Villa,Færgegårdvej 57,5500, Middelfart,1085000 ,15-11-2001,Alm. Salg,130,8346.0,5,1976,
 410,Villa,Tårupvej 2,5591, Gelsted,290722 ,14-11-2001,Alm. Salg,121,2403.0,6,1909,
 410,Villa,Kogagervej 32,5500, Middelfart,127050 ,13-11-2001,Alm. Salg,207,614.0,4,1900,
@@ -12249,7 +12014,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Mikkelsbro 14,5580, Nørre Aaby,690000 ,05-11-2001,Alm. Salg,122,5656.0,4,1901,
 410,Villa,Skovvej 18,5463, Harndrup,50000 ,05-11-2001,Alm. Salg,135,370.0,5,2002,
 410,Rækkehus,Søndergade 6,5500, Middelfart,720000 ,04-11-2001,Alm. Salg,90,8000.0,4,1827,
-410,Rækkehus,Algade 32B,5592, Ejby,403750 ,04-11-2001,Fam. Salg,140,2884.0,3,1965,
 410,Villa,Wedellsborgvej 72,5592, Ejby,450000 ,04-11-2001,Alm. Salg,142,3169.0,6,1904,
 410,Rækkehus,Kongebrovej 10,5500, Middelfart,883260 ,01-11-2001,Alm. Salg,100,8833.0,5,1910,
 410,Villa,Stribgårdvej 51,5500, Middelfart,1160589 ,31-10-2001,Alm. Salg,132,8792.0,4,1976,
@@ -12515,7 +12279,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Havevej 7,5500, Middelfart,730000 ,30-05-2001,Alm. Salg,91,8022.0,3,1961,
 410,Villa,Storebæltsvænget 51,5500, Middelfart,990815 ,30-05-2001,Alm. Salg,106,9347.0,4,1981,
 410,Rækkehus,Falstersvej 40,5500, Middelfart,635000 ,29-05-2001,Alm. Salg,49,12959.0,2,1947,
-410,Villa,Vestergade 10B,5500, Middelfart,1100000 ,29-05-2001,Alm. Salg,112,9821.0,4,1927,
 410,Villa,Kirkevej 14,5580, Nørre Aaby,708600 ,29-05-2001,Alm. Salg,113,6271.0,4,1915,
 410,Villa,Ridderstien 15,5463, Harndrup,530000 ,29-05-2001,Alm. Salg,99,5354.0,4,1964,
 410,Villa,A C Hansens Alle 20,5500, Middelfart,945000 ,28-05-2001,Alm. Salg,97,9742.0,3,1934,
@@ -12823,7 +12586,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Rækkehus,Knorregade 39,5500, Middelfart,515000 ,16-11-2000,Alm. Salg,49,10510.0,2,1850,
 410,Villa,Stribgårdvej 55,5500, Middelfart,1085000 ,16-11-2000,Alm. Salg,167,6497.0,4,1978,
 410,Villa,Storegade 11,5592, Ejby,980000 ,16-11-2000,Alm. Salg,160,6125.0,5,1900,
-410,Villa,Rs Poulsens Vej 22A,5500, Middelfart,1185000 ,15-11-2000,Alm. Salg,86,13779.0,3,1973,
 410,Rækkehus,Søndergade 40,5500, Middelfart,1240000 ,14-11-2000,Alm. Salg,129,9612.0,5,1850,
 410,Rækkehus,Viaduktvej 11,5500, Middelfart,535000 ,14-11-2000,Alm. Salg,53,10094.0,3,1920,
 410,Villa,Koesmosevej 11,5500, Middelfart,638500 ,14-11-2000,Alm. Salg,117,5457.0,4,1932,
@@ -12843,7 +12605,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Rækkehus,Frederiksgade 54,5500, Middelfart,450000 ,07-11-2000,Alm. Salg,43,10465.0,2,1981,
 410,Villa,Røjle Møllevej 6,5500, Middelfart,1587000 ,07-11-2000,Alm. Salg,175,9069.0,4,1799,
 410,Villa,Middelfartvej 271,5464, Brenderup Fyn,655000 ,07-11-2000,Alm. Salg,132,4962.0,4,1900,
-410,Villa,Brovejen 157B,5500, Middelfart,755000 ,07-11-2000,Alm. Salg,38,19868.0,1,1900,
 410,Villa,Borgvænget 3,5500, Middelfart,1812955 ,06-11-2000,Alm. Salg,164,11055.0,5,1996,
 410,Villa,Brovej 16,5464, Brenderup Fyn,450000 ,05-11-2000,Alm. Salg,130,3462.0,3,1948,
 410,Villa,Vinkelvej 8,5591, Gelsted,387047 ,05-11-2000,Andet,218,1775.0,5,1905,
@@ -12899,9 +12660,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Kirkevej 13,5580, Nørre Aaby,684000 ,09-10-2000,Alm. Salg,228,3000.0,7,1928,
 410,Villa,Rønnevej 3,5580, Nørre Aaby,874992 ,09-10-2000,Alm. Salg,164,5335.0,6,1912,
 410,Villa,Rosenvænget 27,5500, Middelfart,745000 ,09-10-2000,Alm. Salg,112,6652.0,3,1936,
-410,Rækkehus,Skrillingevej 24B,5500, Middelfart,2675000 ,08-10-2000,Alm. Salg,143,18706.0,3,1925,
 410,Rækkehus,H P Priors Vej 23,5500, Middelfart,838000 ,08-10-2000,Alm. Salg,118,7102.0,4,1919,
-410,Villa,Skrillingevej 24A,5500, Middelfart,2675000 ,08-10-2000,Alm. Salg,267,10019.0,7,1854,
 410,Villa,Vestergade 74,5500, Middelfart,870000 ,08-10-2000,Alm. Salg,125,6960.0,3,1933,
 410,Villa,Odinsvej 8,5500, Middelfart,785000 ,08-10-2000,Alm. Salg,106,7406.0,4,1969,
 410,Villa,Omøvænget 19,5500, Middelfart,1450000 ,08-10-2000,Alm. Salg,163,8896.0,5,1986,
@@ -12914,7 +12673,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Vestergade 9,5500, Middelfart,430000 ,04-10-2000,Alm. Salg,134,3209.0,5,1900,
 410,Villa,Nørre Alle 4,5500, Middelfart,693000 ,04-10-2000,Alm. Salg,177,3915.0,5,1960,
 410,Villa,Rosenvænget 6,5580, Nørre Aaby,805000 ,03-10-2000,Alm. Salg,118,6822.0,5,1929,
-410,Villa,Strandvejen 191,5500, Middelfart,3800000 ,02-10-2000,Alm. Salg,169,22485.0,4,1995,
 410,Villa,Røjle Bygade 128,5500, Middelfart,1100000 ,02-10-2000,Alm. Salg,178,6180.0,4,1961,
 410,Rækkehus,Teglværksgade 6,5500, Middelfart,965000 ,01-10-2000,Fam. Salg,138,6993.0,6,1910,
 410,Villa,Assensvej 117,5500, Middelfart,1110000 ,01-10-2000,Alm. Salg,133,8346.0,4,1962,
@@ -13352,7 +13110,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Nederballevænget 6,5463, Harndrup,1400580 ,01-02-2000,Alm. Salg,197,7110.0,9,1980,
 410,Villa,Færgegårdvej 76,5500, Middelfart,1300000 ,01-02-2000,Alm. Salg,159,8176.0,5,1980,
 410,Villa,Lyøvej 2,5466, Asperup,200000 ,31-01-2000,Alm. Salg,228,877.0,5,2000,
-410,Rækkehus,Nørregade 20A,5592, Ejby,522500 ,30-01-2000,Alm. Salg,83,6295.0,3,1970,
 410,Villa,Bogensevej 72,5464, Brenderup Fyn,918000 ,30-01-2000,Alm. Salg,84,10929.0,4,1923,
 410,Rækkehus,Jyllandsvej 10,5500, Middelfart,775000 ,28-01-2000,Alm. Salg,87,8908.0,3,1914,
 410,Villa,A C Hansens Alle 11,5500, Middelfart,1075000 ,28-01-2000,Alm. Salg,97,11082.0,4,1926,
@@ -13557,12 +13314,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Humlevej 7,5500, Middelfart,1056000 ,16-09-1999,Fam. Salg,106,9962.0,4,1968,
 410,Villa,Kørvelvej 5,5500, Middelfart,669741 ,16-09-1999,Andet,215,3115.0,7,1962,
 410,Villa,Nørre Alle 73,5500, Middelfart,2010000 ,16-09-1999,Alm. Salg,231,8701.0,6,1929,
-410,Ejerlejlighed,"Nygade 40, st. th",5500, Middelfart,1050000 ,15-09-1999,Alm. Salg,63,16667.0,4,1902,
-410,Ejerlejlighed,"Nygade 40, 1. th",5500, Middelfart,1050000 ,15-09-1999,Alm. Salg,70,15000.0,3,1902,
-410,Ejerlejlighed,"Nygade 40, st. tv",5500, Middelfart,1050000 ,15-09-1999,Alm. Salg,58,18103.0,3,1902,
-410,Ejerlejlighed,"Nygade 40, 1. tv",5500, Middelfart,1050000 ,15-09-1999,Alm. Salg,58,18103.0,3,1902,
-410,Ejerlejlighed,"Hessgade 12A, st",5500, Middelfart,1050000 ,15-09-1999,Alm. Salg,87,12069.0,2,1927,
-410,Ejerlejlighed,"Hessgade 12A, 1. tv",5500, Middelfart,1050000 ,15-09-1999,Alm. Salg,67,15672.0,3,1927,
 410,Villa,Hvedevej 10,5500, Middelfart,1170000 ,15-09-1999,Alm. Salg,109,10734.0,4,1967,
 410,Villa,Tornhøjvangen 1,5591, Gelsted,174033 ,15-09-1999,Alm. Salg,179,972.0,7,2001,
 410,Villa,Søndergade 7,5591, Gelsted,279764 ,14-09-1999,Alm. Salg,112,2498.0,4,1890,
@@ -14071,8 +13822,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Holsevej 47,5464, Brenderup Fyn,204000 ,12-01-1999,Fam. Salg,132,1545.0,4,1892,
 410,Villa,Drosselvej 5,5500, Middelfart,1225000 ,12-01-1999,Alm. Salg,128,9570.0,5,1965,
 410,Villa,Granlyvej 22,5592, Ejby,430000 ,12-01-1999,Alm. Salg,129,3333.0,5,1952,
-410,Ejerlejlighed,"Østergade 24, 1",5580, Nørre Aaby,1400000 ,11-01-1999,Alm. Salg,71,19718.0,3,1922,
-410,Ejerlejlighed,Grandvej 4,5580, Nørre Aaby,1400000 ,11-01-1999,Alm. Salg,98,14286.0,3,1922,
 410,Villa,Endelavevej 24,5500, Middelfart,233744 ,11-01-1999,Alm. Salg,181,1291.0,8,1999,
 410,Villa,Østergade 83,5580, Nørre Aaby,1026288 ,10-01-1999,Alm. Salg,188,5459.0,6,1947,
 410,Villa,Sofiendalvej 86,5500, Middelfart,235000 ,10-01-1999,Alm. Salg,174,1351.0,5,1999,
@@ -14428,7 +14177,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Rækkehus,Grønnegade 12,5500, Middelfart,695000 ,24-06-1998,Alm. Salg,106,6557.0,4,1890,
 410,Villa,Byvejen 21,5466, Asperup,85000 ,24-06-1998,Alm. Salg,173,491.0,5,1800,
 410,Villa,Karsevænget 7,5500, Middelfart,674620 ,24-06-1998,Alm. Salg,90,7496.0,4,1963,
-410,Rækkehus,Søndergade 49B,5591, Gelsted,160000 ,23-06-1998,Alm. Salg,62,2581.0,1,1950,
 410,Villa,Fynsvej 6,5466, Asperup,530000 ,23-06-1998,Alm. Salg,100,5300.0,4,1966,
 410,Villa,Lyøvænget 82,5500, Middelfart,989700 ,23-06-1998,Alm. Salg,121,8179.0,5,1978,
 410,Villa,Bøgelundgyden 19,5500, Middelfart,526338 ,21-06-1998,Alm. Salg,141,3733.0,5,1900,
@@ -14511,8 +14259,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Gl Strandvej 167,5500, Middelfart,2300000 ,21-05-1998,Alm. Salg,237,9705.0,9,1924,
 410,Villa,Voldbyvej 17,5500, Middelfart,2100000 ,21-05-1998,Alm. Salg,194,10825.0,8,1895,
 410,Villa,Bogensevej 108,5464, Brenderup Fyn,794000 ,20-05-1998,Alm. Salg,228,3482.0,6,1931,
-410,Villa,Hans Bangsvej 29,5500, Middelfart,390548 ,19-05-1998,Andet,74,5278.0,3,1900,
-410,Ejerlejlighed,"Østergade 15, 1",5500, Middelfart,390548 ,19-05-1998,Andet,140,2790.0,6,1900,
 410,Villa,Røjle Bygade 33,5500, Middelfart,618977 ,19-05-1998,Alm. Salg,148,4182.0,4,1996,
 410,Villa,Røjle Bygade 37A,5500, Middelfart,40000 ,19-05-1998,Alm. Salg,92,435.0,3,2002,
 410,Villa,Abelonelundvej 33,5500, Middelfart,1234000 ,19-05-1998,Alm. Salg,226,5460.0,6,1910,
@@ -14666,7 +14412,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Sofiendalvej 21,5500, Middelfart,779815 ,19-03-1998,Alm. Salg,100,7798.0,4,1977,
 410,Villa,Gamborgvej 33,5500, Middelfart,671731 ,19-03-1998,Alm. Salg,100,6717.0,4,1939,
 410,Villa,Hasseriisvej 20,5500, Middelfart,674979 ,19-03-1998,Alm. Salg,75,9000.0,4,1951,
-410,Rækkehus,Søndergade 49B,5591, Gelsted,150000 ,17-03-1998,Alm. Salg,62,2419.0,1,1950,
 410,Villa,Kauslundevej 117,5500, Middelfart,586000 ,17-03-1998,Alm. Salg,105,5581.0,3,1944,
 410,Villa,Fredensvej 10,5500, Middelfart,871000 ,17-03-1998,Alm. Salg,93,9366.0,3,1925,
 410,Villa,Karolinevej 19,5500, Middelfart,1175000 ,17-03-1998,Alm. Salg,128,9180.0,4,1978,
@@ -14993,7 +14738,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Østervangen 22,5580, Nørre Aaby,106742 ,05-10-1997,Alm. Salg,152,702.0,5,1998,
 410,Villa,Sverigesvej 9,5500, Middelfart,535000 ,02-10-1997,Auktion,96,5573.0,4,1949,
 410,Villa,Åbjergvej 27,5464, Brenderup Fyn,510000 ,02-10-1997,Alm. Salg,128,3984.0,3,1955,
-410,Villa,Knorregade 38B,5500, Middelfart,635000 ,01-10-1997,Alm. Salg,74,8581.0,3,1925,
 410,Villa,Østervangen 20,5580, Nørre Aaby,91266 ,01-10-1997,Alm. Salg,159,574.0,5,1998,
 410,Rækkehus,Hessgade 36,5500, Middelfart,576000 ,30-09-1997,Fam. Salg,108,5333.0,4,1886,
 410,Villa,Østre Hougvej 3,5500, Middelfart,1200000 ,30-09-1997,Alm. Salg,155,7742.0,6,1919,
@@ -15073,8 +14817,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Langgyden 12A,5580, Nørre Aaby,364000 ,28-08-1997,Alm. Salg,161,2261.0,6,1997,
 410,Villa,Odensevej 136A,5500, Middelfart,155000 ,28-08-1997,Alm. Salg,143,1084.0,4,1998,
 410,Villa,Østergade 67,5580, Nørre Aaby,325441 ,28-08-1997,Fam. Salg,106,3070.0,3,1947,
-410,Villa,Hans Bangsvej 29,5500, Middelfart,941734 ,27-08-1997,Alm. Salg,74,12726.0,3,1900,
-410,Ejerlejlighed,"Østergade 15, 1",5500, Middelfart,941734 ,27-08-1997,Alm. Salg,140,6727.0,6,1900,
 410,Villa,Gelsted Mose 10,5591, Gelsted,575000 ,27-08-1997,Alm. Salg,142,4049.0,4,1935,
 410,Villa,Assensvej 153,5500, Middelfart,404617 ,27-08-1997,Alm. Salg,90,4496.0,5,1900,
 410,Villa,Hollændervej 120,5500, Middelfart,998190 ,27-08-1997,Alm. Salg,138,6611.0,5,1973,
@@ -15135,8 +14877,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Vestre Hougvej 3,5500, Middelfart,936464 ,11-08-1997,Alm. Salg,115,8143.0,5,1938,
 410,Villa,Åvænget 23,5463, Harndrup,825000 ,11-08-1997,Alm. Salg,200,4125.0,6,1978,
 410,Rækkehus,Ved Fyret 17,5500, Middelfart,1425000 ,10-08-1997,Alm. Salg,124,11492.0,3,1998,
-410,Ejerlejlighed,"Algade 59B, 1. tv",5500, Middelfart,2050000 ,10-08-1997,Alm. Salg,116,17672.0,2,1905,
-410,Ejerlejlighed,"Algade 59B, 1. th",5500, Middelfart,2050000 ,10-08-1997,Alm. Salg,96,21354.0,3,1905,
 410,Villa,Ejbykrog 15,5592, Ejby,801000 ,10-08-1997,Alm. Salg,248,3230.0,6,1873,
 410,Villa,Bolsvej 31,5500, Middelfart,109108 ,10-08-1997,Alm. Salg,104,1049.0,3,2007,
 410,Villa,Karensvej 6,5500, Middelfart,1012695 ,09-08-1997,Alm. Salg,176,5754.0,5,1977,
@@ -15179,7 +14919,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Julievej 17,5500, Middelfart,1010000 ,22-07-1997,Alm. Salg,173,5838.0,6,1965,
 410,Villa,Villavej 10,5500, Middelfart,598000 ,21-07-1997,Alm. Salg,96,6229.0,3,1926,
 410,Villa,Bjørnøvænget 48,5500, Middelfart,822983 ,21-07-1997,Alm. Salg,136,6051.0,5,1980,
-410,Rækkehus,Algade 13D,5592, Ejby,400000 ,20-07-1997,Alm. Salg,102,3922.0,3,1981,
 410,Villa,Søndergade 112,5591, Gelsted,565000 ,20-07-1997,Alm. Salg,140,4036.0,5,1933,
 410,Villa,Søndergade 118,5591, Gelsted,136328 ,20-07-1997,Alm. Salg,80,1704.0,4,1933,
 410,Villa,Kærsgårdvej 34,5464, Brenderup Fyn,207151 ,20-07-1997,Fam. Salg,152,1363.0,5,2014,
@@ -15311,11 +15050,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Kongebrovej 25,5500, Middelfart,1415000 ,31-05-1997,Alm. Salg,145,9759.0,5,1918,
 410,Villa,Bues Gyde 20,5592, Ejby,374000 ,31-05-1997,Alm. Salg,129,2899.0,5,2019,
 410,Rækkehus,H P Priors Vej 27,5500, Middelfart,685000 ,29-05-1997,Alm. Salg,120,5708.0,4,1920,
-410,Ejerlejlighed,"Blankegaardsvej 4A, st",5466, Asperup,271903 ,29-05-1997,Alm. Salg,413,658.0,13,1868,
 410,Villa,Nybølvej 26,5500, Middelfart,769000 ,29-05-1997,Alm. Salg,123,6252.0,4,1971,
 410,Villa,Vejrøvænget 27,5500, Middelfart,753000 ,29-05-1997,Alm. Salg,189,3984.0,6,1974,
 410,Villa,Emtekær Gade 13,5592, Ejby,354000 ,29-05-1997,Alm. Salg,124,2855.0,5,1964,
-410,Villa,Blankegaardsvej 4,5466, Asperup,271903 ,29-05-1997,Alm. Salg,138,1970.0,3,1943,
 410,Villa,Østervangen 23,5580, Nørre Aaby,90630 ,29-05-1997,Alm. Salg,143,634.0,5,1997,
 410,Villa,Fasanvej 19,5500, Middelfart,1006000 ,28-05-1997,Alm. Salg,137,7343.0,4,1965,
 410,Rækkehus,Ferskenvænget 6,5500, Middelfart,605000 ,27-05-1997,Alm. Salg,85,7118.0,5,1969,
@@ -15717,8 +15454,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Tingløkken 11,5580, Nørre Aaby,1115000 ,17-11-1996,Alm. Salg,175,6371.0,5,1973,
 410,Villa,Brovejen 22,5500, Middelfart,267500 ,17-11-1996,Alm. Salg,102,2623.0,3,1953,
 410,Villa,Fasanvej 9,5500, Middelfart,416331 ,17-11-1996,Alm. Salg,82,5077.0,3,1960,
-410,Rækkehus,"Hessgade 20, 1",5500, Middelfart,703200 ,13-11-1996,Alm. Salg,75,9376.0,4,1900,
-410,Ejerlejlighed,"Hessgade 20, st",5500, Middelfart,703200 ,13-11-1996,Alm. Salg,115,6115.0,4,1900,
 410,Villa,Vejrøvænget 23,5500, Middelfart,893019 ,13-11-1996,Alm. Salg,171,5222.0,4,1974,
 410,Villa,Koesmosevej 42,5500, Middelfart,425000 ,12-11-1996,Alm. Salg,102,4167.0,3,1938,
 410,Rækkehus,Skrillingevej 19,5500, Middelfart,150000 ,11-11-1996,Auktion,105,1429.0,4,1877,
@@ -15753,8 +15488,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Møllevænget 2,5592, Ejby,655000 ,03-11-1996,Andet,167,3018.0,8,1950,
 410,Villa,Tanderupvej 9,5591, Gelsted,383200 ,03-11-1996,Auktion,125,3066.0,4,1965,
 410,Villa,Algade 55,5592, Ejby,650000 ,03-11-1996,Alm. Salg,167,3892.0,6,1952,
-410,Ejerlejlighed,Sognefogedløkken 1,5592, Ejby,1100000 ,31-10-1996,Alm. Salg,176,6250.0,6,1890,
-410,Ejerlejlighed,"Algade 16, 1",5592, Ejby,1100000 ,31-10-1996,Alm. Salg,89,12360.0,4,1890,
 410,Villa,Birkehøjvej 4,5500, Middelfart,645500 ,31-10-1996,Alm. Salg,110,5868.0,4,1967,
 410,Villa,Karensvej 12,5500, Middelfart,968719 ,31-10-1996,Alm. Salg,184,5265.0,9,1967,
 410,Villa,Enghavevej 4,5580, Nørre Aaby,895000 ,30-10-1996,Alm. Salg,140,6393.0,3,1964,
@@ -15793,9 +15526,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Lyøvænget 38,5500, Middelfart,287263 ,15-10-1996,Andet,130,2210.0,5,1977,
 410,Villa,Åkanden 9,5592, Ejby,82280 ,14-10-1996,Alm. Salg,145,567.0,5,1997,
 410,Villa,Vestergade 31,5500, Middelfart,660000 ,14-10-1996,Alm. Salg,273,2418.0,9,1914,
-410,Rækkehus,Meyersgade 8,5500, Middelfart,500000 ,13-10-1996,Alm. Salg,108,4630.0,4,1911,
 410,Rækkehus,Skovgade 2,5500, Middelfart,705736 ,13-10-1996,Alm. Salg,112,6301.0,4,1890,
-410,Villa,Fuglebakken 18,5500, Middelfart,500000 ,13-10-1996,Alm. Salg,205,2439.0,5,1997,
 410,Villa,Ronæsskovvej 9,5580, Nørre Aaby,850000 ,13-10-1996,Alm. Salg,187,4545.0,4,1936,
 410,Villa,Carl Nielsens Vej 21,5500, Middelfart,300000 ,13-10-1996,Alm. Salg,214,1402.0,7,1997,
 410,Villa,Jægersmindevej 28,5463, Harndrup,245000 ,13-10-1996,Alm. Salg,88,2784.0,3,1962,
@@ -16041,9 +15772,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Rækkehus,Teglgårdsparken 50,5500, Middelfart,451000 ,23-06-1996,Alm. Salg,166,2717.0,5,1968,
 410,Villa,Brovejen 44,5500, Middelfart,425000 ,23-06-1996,Alm. Salg,98,4337.0,3,1935,
 410,Villa,Hønnerupvej 15,5591, Gelsted,295000 ,23-06-1996,Alm. Salg,161,1832.0,3,1867,
-410,Rækkehus,Odensevej 74,5500, Middelfart,450000 ,20-06-1996,Alm. Salg,135,3333.0,4,1910,
 410,Villa,Bogensevej 47,5500, Middelfart,1075000 ,20-06-1996,Alm. Salg,145,7414.0,4,1972,
-410,Villa,Egevej 34,5500, Middelfart,450000 ,20-06-1996,Fam. Salg,128,3516.0,5,1956,
 410,Villa,Enghavevej 27,5580, Nørre Aaby,595000 ,20-06-1996,Alm. Salg,95,6263.0,4,1965,
 410,Villa,Køstrupvej 12,5464, Brenderup Fyn,375000 ,20-06-1996,Alm. Salg,131,2863.0,5,1827,
 410,Villa,Udsigten 3,5580, Nørre Aaby,270363 ,20-06-1996,Alm. Salg,121,2234.0,6,1989,
@@ -16187,7 +15916,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Tangmosen 21,5500, Middelfart,665000 ,22-04-1996,Alm. Salg,162,4105.0,2,2019,
 410,Rækkehus,Knorregade 29,5500, Middelfart,581000 ,21-04-1996,Alm. Salg,97,5990.0,3,1850,
 410,Rækkehus,Odensevej 56,5500, Middelfart,481000 ,21-04-1996,Alm. Salg,83,5795.0,3,1907,
-410,Villa,Koesmosevej 19,5500, Middelfart,500000 ,21-04-1996,Alm. Salg,102,4902.0,5,1939,
 410,Villa,Mølleløkken 15,5500, Middelfart,650000 ,21-04-1996,Alm. Salg,140,4643.0,4,1975,
 410,Villa,Danavej 5,5580, Nørre Aaby,360000 ,21-04-1996,Alm. Salg,92,3913.0,3,1903,
 410,Villa,Hollændervej 105,5500, Middelfart,900000 ,21-04-1996,Alm. Salg,156,5769.0,4,1971,
@@ -16335,8 +16063,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Østergade 9,5580, Nørre Aaby,604000 ,08-02-1996,Alm. Salg,231,2615.0,8,1900,
 410,Villa,Norgesvej 30,5500, Middelfart,536000 ,08-02-1996,Alm. Salg,106,5057.0,4,1954,
 410,Villa,Villavej 1,5580, Nørre Aaby,550000 ,08-02-1996,Alm. Salg,125,4400.0,4,1927,
-410,Rækkehus,Skovgade 45,5500, Middelfart,450000 ,07-02-1996,Alm. Salg,99,4545.0,4,1907,
-410,Ejerlejlighed,"Nygade 52, 1",5500, Middelfart,450000 ,07-02-1996,Alm. Salg,78,5769.0,3,1912,
 410,Rækkehus,Frederiksgade 40,5500, Middelfart,340000 ,06-02-1996,Alm. Salg,43,7907.0,2,1981,
 410,Rækkehus,Blindebomsvej 4,5500, Middelfart,375000 ,06-02-1996,Alm. Salg,83,4518.0,4,1918,
 410,Villa,Tingløkken 26,5580, Nørre Aaby,980000 ,06-02-1996,Alm. Salg,133,7368.0,5,1985,
@@ -16398,7 +16124,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Rækkehus,Gl Vestergade 4,5500, Middelfart,520000 ,22-12-1995,Alm. Salg,91,5714.0,3,1899,
 410,Rækkehus,Meyersgade 20,5500, Middelfart,500000 ,21-12-1995,Alm. Salg,94,5319.0,3,1900,
 410,Rækkehus,Knorregade 21,5500, Middelfart,487892 ,20-12-1995,Alm. Salg,55,8871.0,4,1827,
-410,Ejerlejlighed,"Blankegaardsvej 4A, st",5466, Asperup,3777475 ,20-12-1995,Fam. Salg,413,9146.0,13,1868,
 410,Villa,Provstskovvej 21,5500, Middelfart,550000 ,20-12-1995,Alm. Salg,73,7534.0,4,1964,
 410,Villa,Kirkebjergvej 5,5466, Asperup,1334500 ,20-12-1995,Fam. Salg,210,6355.0,7,1917,
 410,Villa,Østergade 18,5591, Gelsted,485000 ,20-12-1995,Alm. Salg,121,4008.0,5,1930,
@@ -16587,8 +16312,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Søndergade 169,5591, Gelsted,500000 ,24-09-1995,Alm. Salg,139,3597.0,3,1965,
 410,Villa,Kilden 4,5500, Middelfart,1150000 ,24-09-1995,Alm. Salg,161,7143.0,4,1995,
 410,Villa,Rugårdsvej 15,5463, Harndrup,304000 ,24-09-1995,Alm. Salg,96,3167.0,4,1873,
-410,Rækkehus,Skrillingevej 24B,5500, Middelfart,1720000 ,23-09-1995,Alm. Salg,143,12028.0,3,1925,
-410,Villa,Skrillingevej 24A,5500, Middelfart,1720000 ,23-09-1995,Alm. Salg,267,6442.0,7,1854,
 410,Villa,Søndergade 99,5591, Gelsted,357440 ,20-09-1995,Alm. Salg,121,2954.0,6,1900,
 410,Villa,Røjle Bygade 99,5500, Middelfart,375000 ,19-09-1995,Alm. Salg,128,2930.0,7,1931,
 410,Villa,Byvejen 64,5466, Asperup,385000 ,19-09-1995,Alm. Salg,240,1604.0,8,1911,
@@ -16817,9 +16540,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Store Landevej 23A,5580, Nørre Aaby,608000 ,11-06-1995,Alm. Salg,300,1737.0,8,1957,
 410,Villa,Juelsmindevænget 9,5463, Harndrup,83113 ,11-06-1995,Alm. Salg,143,581.0,5,1995,
 410,Villa,Limosevej 36,5580, Nørre Aaby,610000 ,11-06-1995,Alm. Salg,248,2460.0,8,1880,
-410,Rækkehus,Tellerupvej 28,5591, Gelsted,360000 ,10-06-1995,Alm. Salg,62,5806.0,3,1900,
 410,Villa,Skolevej 5,5464, Brenderup Fyn,380000 ,10-06-1995,Alm. Salg,110,3455.0,3,1960,
-410,Villa,Tellerupvej 28,5591, Gelsted,360000 ,10-06-1995,Alm. Salg,89,4045.0,4,1827,
 410,Villa,Graderupvej 12,5463, Harndrup,335079 ,09-06-1995,Alm. Salg,110,3046.0,3,1956,
 410,Villa,Fønsvej 12,5580, Nørre Aaby,482964 ,09-06-1995,Alm. Salg,126,3833.0,6,1961,
 410,Villa,Chr Dannings Vej 28,5500, Middelfart,1135000 ,09-06-1995,Alm. Salg,171,6637.0,4,1987,
@@ -16941,7 +16662,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Nederballevej 2,5463, Harndrup,263000 ,23-04-1995,Alm. Salg,102,2578.0,5,1953,
 410,Villa,Heimdalsvej 15,5500, Middelfart,675000 ,23-04-1995,Alm. Salg,140,4821.0,7,1910,
 410,Villa,Rugårdsvej 86,5463, Harndrup,410000 ,23-04-1995,Alm. Salg,171,2398.0,5,1926,
-410,Villa,Brovejen 157B,5500, Middelfart,430000 ,23-04-1995,Alm. Salg,38,11316.0,1,1900,
 410,Villa,Storebæltsvænget 72,5500, Middelfart,952000 ,20-04-1995,Alm. Salg,141,6752.0,4,1984,
 410,Villa,Bubbelvej 46B,5464, Brenderup Fyn,785000 ,20-04-1995,Alm. Salg,195,4026.0,4,1908,
 410,Villa,Myntevænget 12,5500, Middelfart,415000 ,19-04-1995,Alm. Salg,101,4109.0,4,1938,
@@ -17097,9 +16817,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Østre Hougvej 14,5500, Middelfart,550000 ,16-02-1995,Alm. Salg,98,5612.0,4,1932,
 410,Villa,Tværgade 12,5592, Ejby,610000 ,16-02-1995,Alm. Salg,131,4656.0,4,1969,
 410,Villa,Stengade 5,5463, Harndrup,285000 ,15-02-1995,Alm. Salg,160,1781.0,7,1914,
-410,Rækkehus,Meyersgade 24,5500, Middelfart,425000 ,14-02-1995,Alm. Salg,88,4830.0,3,1900,
-410,Rækkehus,Lollandsvej 11A,5500, Middelfart,225000 ,14-02-1995,Alm. Salg,152,1480.0,4,1980,
-410,Villa,Tværvej 1,5500, Middelfart,425000 ,14-02-1995,Alm. Salg,99,4293.0,5,1928,
 410,Villa,Storebæltsvænget 96,5500, Middelfart,902460 ,14-02-1995,Alm. Salg,165,5469.0,5,1986,
 410,Villa,Kåsvej 25,5500, Middelfart,1325000 ,14-02-1995,Alm. Salg,172,7703.0,6,1960,
 410,Villa,Assensvej 4,5500, Middelfart,355000 ,14-02-1995,Fam. Salg,98,3622.0,5,1946,
@@ -17262,7 +16979,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Søndergade 11,5591, Gelsted,75000 ,15-11-1994,Alm. Salg,112,670.0,4,1900,
 410,Villa,Jydekrogen 9,5580, Nørre Aaby,150000 ,15-11-1994,Alm. Salg,71,2113.0,3,1873,
 410,Rækkehus,Kongebrovej 10,5500, Middelfart,525000 ,14-11-1994,Alm. Salg,100,5250.0,5,1910,
-410,Rækkehus,Lollandsvej 11A,5500, Middelfart,575000 ,14-11-1994,Alm. Salg,152,3783.0,4,1980,
 410,Villa,Koesmosevej 25,5500, Middelfart,395000 ,14-11-1994,Alm. Salg,93,4247.0,4,1937,
 410,Villa,Gyvelhøj 4,5500, Middelfart,81000 ,14-11-1994,Alm. Salg,231,351.0,6,1995,
 410,Villa,Kamillavej 14,5500, Middelfart,201355 ,14-11-1994,Fam. Salg,168,1199.0,6,2001,
@@ -17302,13 +17018,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Færgegårdvej 2,5500, Middelfart,900000 ,26-10-1994,Alm. Salg,114,7895.0,4,1977,
 410,Villa,Holsevej 43,5464, Brenderup Fyn,302500 ,25-10-1994,Alm. Salg,98,3087.0,4,1857,
 410,Villa,Rørupgyden 34,5560, Aarup,260000 ,25-10-1994,Alm. Salg,88,2955.0,3,1962,
-410,Villa,Jyllandsvej 37A,5500, Middelfart,750000 ,25-10-1994,Alm. Salg,116,6466.0,4,0,
 410,Villa,Møllevej 5,5591, Gelsted,90000 ,25-10-1994,Alm. Salg,194,464.0,8,1900,
 410,Villa,Idrætsvej 11,5580, Nørre Aaby,470000 ,25-10-1994,Alm. Salg,169,2781.0,5,2009,
 410,Villa,Kåsvænget 16,5500, Middelfart,850000 ,25-10-1994,Alm. Salg,148,5743.0,6,1969,
-410,Ejerlejlighed,"Østergade 1, 1",5591, Gelsted,400000 ,24-10-1994,Fam. Salg,31,12903.0,2,1918,
 410,Villa,Gl Assensvej 16,5580, Nørre Aaby,112000 ,24-10-1994,Fam. Salg,91,1231.0,4,1905,
-410,Villa,Østergade 1,5591, Gelsted,400000 ,24-10-1994,Fam. Salg,118,3390.0,6,1910,
 410,Rækkehus,Brovejen 117,5500, Middelfart,271000 ,23-10-1994,Auktion,108,2509.0,3,1901,
 410,Rækkehus,Brovejen 170,5500, Middelfart,255000 ,23-10-1994,Alm. Salg,99,2576.0,4,1920,
 410,Villa,Bro Skov 18,5464, Brenderup Fyn,73000 ,23-10-1994,Auktion,160,456.0,3,1942,
@@ -17428,16 +17141,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Storegade 31,5592, Ejby,300000 ,28-08-1994,Alm. Salg,105,2857.0,4,1944,
 410,Villa,Fyrstedgyden 7,5592, Ejby,181048 ,27-08-1994,Alm. Salg,85,2130.0,4,1912,
 410,Villa,Jacob Gades Vej 19,5500, Middelfart,120000 ,27-08-1994,Alm. Salg,177,678.0,6,1994,
-410,Ejerlejlighed,"Vestergade 86A, st",5500, Middelfart,800000 ,26-08-1994,Alm. Salg,101,7921.0,4,1925,
-410,Ejerlejlighed,"Vestergade 86C, 1",5500, Middelfart,800000 ,26-08-1994,Alm. Salg,57,14035.0,2,1925,
-410,Ejerlejlighed,"Vestergade 86B, st",5500, Middelfart,800000 ,26-08-1994,Alm. Salg,96,8333.0,3,1925,
-410,Ejerlejlighed,"Vestergade 86D, 2",5500, Middelfart,800000 ,26-08-1994,Alm. Salg,77,10390.0,3,1925,
-410,Ejerlejlighed,"Vestergade 86E, 1",5500, Middelfart,800000 ,26-08-1994,Alm. Salg,57,14035.0,2,1925,
-410,Ejerlejlighed,"Rørkærsvej 3C, 1",5500, Middelfart,800000 ,26-08-1994,Alm. Salg,55,14545.0,2,1946,
-410,Ejerlejlighed,"Rørkærsvej 3B, st",5500, Middelfart,800000 ,26-08-1994,Alm. Salg,60,13333.0,2,1946,
-410,Ejerlejlighed,"Rørkærsvej 3D, 1",5500, Middelfart,800000 ,26-08-1994,Alm. Salg,55,14545.0,2,1946,
-410,Ejerlejlighed,"Vestergade 86F, st",5500, Middelfart,800000 ,26-08-1994,Alm. Salg,138,5797.0,3,1925,
-410,Ejerlejlighed,"Rørkærsvej 3A, st",5500, Middelfart,800000 ,26-08-1994,Alm. Salg,50,16000.0,1,1946,
 410,Villa,Åvænget 6,5463, Harndrup,420000 ,26-08-1994,Alm. Salg,159,2642.0,4,1877,
 410,Villa,Rørkærsvej 27,5500, Middelfart,480000 ,26-08-1994,Alm. Salg,129,3721.0,3,1953,
 410,Rækkehus,Gotlandsvej 15,5500, Middelfart,425000 ,24-08-1994,Alm. Salg,85,5000.0,4,1965,
@@ -17715,7 +17418,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Odensevej 122,5500, Middelfart,470000 ,03-05-1994,Alm. Salg,96,4896.0,4,1914,
 410,Rækkehus,Buggesgade 4,5500, Middelfart,535000 ,02-05-1994,Alm. Salg,107,5000.0,3,1900,
 410,Villa,Postmosevej 53,5500, Middelfart,635000 ,02-05-1994,Alm. Salg,185,3432.0,8,1969,
-410,Rækkehus,Algade 32B,5592, Ejby,400000 ,01-05-1994,Alm. Salg,140,2857.0,3,1965,
 410,Villa,Rydskovvej 14,5560, Aarup,290000 ,01-05-1994,Alm. Salg,73,3973.0,4,2005,
 410,Villa,Tennisvej 9,5580, Nørre Aaby,230000 ,01-05-1994,Alm. Salg,127,1811.0,4,1937,
 410,Villa,Jægersmindevej 24,5463, Harndrup,420000 ,01-05-1994,Alm. Salg,107,3925.0,4,1915,
@@ -18026,9 +17728,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Rækkehus,Buggesgade 11,5500, Middelfart,515203 ,12-11-1993,Alm. Salg,118,4366.0,4,1877,
 410,Villa,Fynsvej 24,5500, Middelfart,630000 ,12-11-1993,Alm. Salg,106,5943.0,4,1968,
 410,Villa,Vesterløkke Alle 22,5500, Middelfart,459000 ,11-11-1993,Fam. Salg,170,2700.0,6,1928,
-410,Rækkehus,Hessgade 36,5500, Middelfart,425000 ,08-11-1993,Alm. Salg,108,3935.0,4,1886,
 410,Villa,Nøkkerosen 1,5592, Ejby,121625 ,08-11-1993,Alm. Salg,125,973.0,4,1994,
-410,Villa,Mariemøllevej 2,5500, Middelfart,425000 ,08-11-1993,Alm. Salg,140,3036.0,4,1995,
 410,Villa,Jacob Gades Vej 15,5500, Middelfart,90000 ,07-11-1993,Auktion,163,552.0,4,1995,
 410,Ejerlejlighed,"Østergade 62, 1",5500, Middelfart,350000 ,06-11-1993,Alm. Salg,125,2800.0,4,1877,
 410,Villa,Chr Dannings Vej 18,5500, Middelfart,835000 ,05-11-1993,Alm. Salg,129,6473.0,4,1988,
@@ -18212,7 +17912,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Færgegårdvej 84,5500, Middelfart,830000 ,13-08-1993,Alm. Salg,146,5685.0,5,1978,
 410,Villa,Vestergade 65,5500, Middelfart,595000 ,11-08-1993,Alm. Salg,166,3584.0,4,1933,
 410,Villa,Gl Strandvej 81,5500, Middelfart,501500 ,10-08-1993,Fam. Salg,154,3256.0,5,1932,
-410,Villa,Jyllandsvej 37A,5500, Middelfart,500000 ,10-08-1993,Alm. Salg,116,4310.0,4,0,
 410,Villa,Behrendtsvej 20,5500, Middelfart,585000 ,10-08-1993,Alm. Salg,113,5177.0,4,1935,
 410,Villa,Fjellerupvej 39,5463, Harndrup,240000 ,09-08-1993,Auktion,113,2124.0,3,1900,
 410,Villa,Fasanvej 36,5500, Middelfart,430000 ,09-08-1993,Alm. Salg,107,4019.0,3,1962,
@@ -18558,8 +18257,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Vestergade 11,5500, Middelfart,246500 ,30-12-1992,Fam. Salg,134,1840.0,6,1903,
 410,Villa,Hollændervej 93,5500, Middelfart,655000 ,29-12-1992,Alm. Salg,135,4852.0,6,1971,
 410,Villa,Skræppedalsvej 36,5592, Ejby,238000 ,29-12-1992,Alm. Salg,84,2833.0,3,1949,
-410,Ejerlejlighed,"Østerbyvej 16, 1",5500, Middelfart,550000 ,26-12-1992,Alm. Salg,107,5140.0,1,1964,
-410,Villa,Østerbyvej 16,5500, Middelfart,550000 ,26-12-1992,Alm. Salg,349,1576.0,6,2008,
 410,Villa,Søndergade 27,5591, Gelsted,435000 ,25-12-1992,Alm. Salg,217,2005.0,8,1927,
 410,Villa,Sletterødvej 12,5463, Harndrup,234000 ,22-12-1992,Alm. Salg,82,2854.0,4,1890,
 410,Villa,Hovedvejen 242,5580, Nørre Aaby,400000 ,22-12-1992,Alm. Salg,109,3670.0,4,1935,
@@ -18620,8 +18317,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Rækkehus,Nygade 28,5500, Middelfart,294000 ,16-11-1992,Alm. Salg,97,3031.0,4,1898,
 410,Rækkehus,Kvædevænget 16,5500, Middelfart,345000 ,16-11-1992,Alm. Salg,72,4792.0,3,1970,
 410,Villa,Assensvej 28,5500, Middelfart,410000 ,16-11-1992,Alm. Salg,78,5256.0,2,1931,
-410,Rækkehus,"Hessgade 20, 1",5500, Middelfart,540000 ,15-11-1992,Alm. Salg,75,7200.0,4,1900,
-410,Ejerlejlighed,"Hessgade 20, st",5500, Middelfart,540000 ,15-11-1992,Alm. Salg,115,4696.0,4,1900,
 410,Villa,Bogensevej 49,5464, Brenderup Fyn,115000 ,15-11-1992,Alm. Salg,88,1307.0,3,1890,
 410,Villa,Varbjergvej 9,5464, Brenderup Fyn,420000 ,15-11-1992,Alm. Salg,174,2414.0,6,1907,
 410,Villa,Birkevej 6,5580, Nørre Aaby,585000 ,15-11-1992,Alm. Salg,129,4535.0,5,1969,
@@ -18631,7 +18326,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Rækkehus,Odensevej 22,5500, Middelfart,350000 ,11-11-1992,Alm. Salg,69,5072.0,4,1900,
 410,Villa,Gl Assensvej 7,5580, Nørre Aaby,590000 ,11-11-1992,Alm. Salg,290,2034.0,7,1912,
 410,Villa,Myntevænget 22,5500, Middelfart,305000 ,11-11-1992,Alm. Salg,77,3961.0,2,1955,
-410,Villa,Brovejen 157B,5500, Middelfart,400000 ,11-11-1992,Alm. Salg,38,10526.0,1,1900,
 410,Villa,Storebæltsvænget 22,5500, Middelfart,545000 ,10-11-1992,Alm. Salg,139,3921.0,5,1984,
 410,Rækkehus,Kvædevænget 14,5500, Middelfart,365000 ,09-11-1992,Alm. Salg,73,5000.0,3,1970,
 410,Villa,Bogensevej 103,5500, Middelfart,570000 ,09-11-1992,Alm. Salg,132,4318.0,5,1937,
@@ -18652,9 +18346,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Ørslevvej 4,5592, Ejby,44000 ,01-11-1992,Auktion,108,407.0,2,1917,
 410,Rækkehus,Middelfartvej 20,5466, Asperup,172600 ,31-10-1992,Auktion,92,1876.0,2,1852,
 410,Rækkehus,Frederiksgade 60,5500, Middelfart,250000 ,30-10-1992,Alm. Salg,43,5814.0,2,1981,
-410,Ejerlejlighed,"Røjle Bygade 117, 1",5500, Middelfart,350000 ,29-10-1992,Fam. Salg,72,4861.0,3,1900,
 410,Villa,Brovejen 378,5500, Middelfart,550000 ,29-10-1992,Alm. Salg,138,3986.0,4,1961,
-410,Villa,"Røjle Bygade 117, st",5500, Middelfart,350000 ,29-10-1992,Fam. Salg,105,3333.0,3,1900,
 410,Villa,Jyllandsvej 36,5500, Middelfart,580000 ,29-10-1992,Alm. Salg,100,5800.0,4,1953,
 410,Rækkehus,Møllehaven 7,5500, Middelfart,495000 ,27-10-1992,Alm. Salg,70,7071.0,3,1986,
 410,Villa,Strandvejen 201,5500, Middelfart,585000 ,27-10-1992,Alm. Salg,205,2854.0,5,1994,
@@ -18953,10 +18645,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 410,Villa,Adlerhusvej 1,5500, Middelfart,495000 ,05-05-1992,Fam. Salg,105,4714.0,3,1935,
 410,Villa,Anholtvej 19,5500, Middelfart,570000 ,05-05-1992,Alm. Salg,151,3775.0,5,1978,
 410,Villa,Drejerbakken 4,5592, Ejby,180000 ,04-05-1992,Alm. Salg,161,1118.0,8,1966,
-410,Rækkehus,Baaringvad 18B,5580, Nørre Aaby,1500000 ,03-05-1992,Alm. Salg,106,7937.0,6,1997,
 410,Villa,Storebæltsvænget 72,5500, Middelfart,735000 ,03-05-1992,Alm. Salg,141,5213.0,4,1984,
 410,Villa,Balslevvej 48,5592, Ejby,45401 ,03-05-1992,Andet,103,441.0,4,1931,
-410,Villa,Baaringvad 18A,5580, Nørre Aaby,1500000 ,03-05-1992,Alm. Salg,100,15000.0,2,1900,
 410,Villa,Rudbæksbanke 39,5500, Middelfart,380000 ,03-05-1992,Alm. Salg,115,3304.0,3,1960,
 410,Villa,Vibyvej 35,5580, Nørre Aaby,270000 ,02-05-1992,Alm. Salg,136,1985.0,4,1912,
 410,Villa,Hjortebjergvej 13,5463, Harndrup,355000 ,30-04-1992,Alm. Salg,97,3660.0,5,1932,

@@ -5,7 +5,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Borgergade 12,6752, Glejbjerg,1225000 ,22-12-2022,Alm. Salg,161,7609,4,1969,
 575,Villa,Rugvænget 14,6600, Vejen,1965000 ,21-12-2022,Alm. Salg,222,8851,6,1970,
 575,Villa,Langforte 4,6630, Rødding,650000 ,21-12-2022,Alm. Salg,160,4063,5,1827,
-575,Ejerlejlighed,"Jernbanegade 8, 1",6650, Brørup,800000 ,20-12-2022,Alm. Salg,110,7273,4,1929,-36%
 575,Villa,Baunevej 9,6622, Bække,247196 ,20-12-2022,Andet,108,2289,5,1962,
 575,Villa,Tværvej 7,6622, Bække,499641 ,20-12-2022,Andet,115,4345,5,1910,
 575,Villa,Bakkevænge 7,6630, Rødding,380000 ,19-12-2022,Alm. Salg,111,3423,5,1970,
@@ -28,7 +27,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Mølvejgårdsvej 13,6630, Rødding,1600000 ,09-12-2022,Alm. Salg,230,6957,6,1920,
 575,Rækkehus,Østre Alle 12,6670, Holsted,170000 ,08-12-2022,Fam. Salg,95,1789,3,1920,
 575,Villa,Kirsebærvej 27,6600, Vejen,1845000 ,07-12-2022,Alm. Salg,171,10789,5,1979,
-575,Villa,Rovedvej 24,6600, Vejen,2500000 ,07-12-2022,Alm. Salg,181,13812,5,1922,
 575,Villa,Frederiksbergvej 23,6600, Vejen,570000 ,07-12-2022,Alm. Salg,80,7125,4,1946,
 575,Villa,"Østergade 27, st",6630, Rødding,1570000 ,05-12-2022,Alm. Salg,192,8177,6,1930,-5%
 575,Villa,Øster Lindet Præstegårdsvej 3,6630, Rødding,845000 ,04-12-2022,Alm. Salg,115,7348,4,1957,
@@ -100,14 +98,12 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Østergade 46,6650, Brørup,795000 ,13-10-2022,Alm. Salg,148,5372,4,1967,
 575,Villa,Vestergade 42,6622, Bække,1000000 ,13-10-2022,Alm. Salg,134,7463,4,1973,-9%
 575,Villa,Vesterled 9,6600, Vejen,1395000 ,12-10-2022,Alm. Salg,109,12798,4,1957,
-575,Villa,Skolegade 9,6600, Vejen,715000 ,12-10-2022,Alm. Salg,117,6111,4,1909,-10%
 575,Villa,Enggårdsvej 17,6600, Vejen,2494000 ,12-10-2022,Alm. Salg,204,12225,6,2016,0%
 575,Villa,Ryttervænget 45,6752, Glejbjerg,1550000 ,11-10-2022,Alm. Salg,199,7789,5,2002,-6%
 575,Villa,Rugtoften 65,6630, Rødding,1230000 ,07-10-2022,Alm. Salg,180,6833,5,1980,-5%
 575,Villa,Skjoldborgsvej 13,6600, Vejen,1090000 ,06-10-2022,Alm. Salg,120,9083,4,1965,
 575,Villa,Højskolevænget 11,6630, Rødding,1445000 ,05-10-2022,Alm. Salg,210,6881,6,1980,-9%
 575,Villa,Dovervej 6,6660, Lintrup,1500000 ,05-10-2022,Alm. Salg,173,8671,5,1910,
-575,Villa,Integade 5,6600, Vejen,700000 ,04-10-2022,Andet,81,8642,3,1927,
 575,Villa,V. Skibelundvej 4,6600, Vejen,1225000 ,04-10-2022,Alm. Salg,168,7292,5,1877,7%
 575,Villa,Skolegade 7,6630, Rødding,420000 ,03-10-2022,Alm. Salg,122,3443,4,1936,-30%
 575,Villa,Anemonevej 11,6650, Brørup,500000 ,02-10-2022,Alm. Salg,118,4237,5,1972,
@@ -198,10 +194,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Baunevej 5,6622, Bække,1095000 ,09-08-2022,Alm. Salg,136,8051,4,1959,
 575,Villa,Overmarken 4,6670, Holsted,1225000 ,09-08-2022,Alm. Salg,123,9959,4,1999,2%
 575,Villa,Mejerivej 5,6630, Rødding,325000 ,09-08-2022,Alm. Salg,95,3421,3,1877,
-575,Villa,Overmarken 121,6670, Holsted,2748000 ,09-08-2022,Alm. Salg,197,13949,5,2008,-2%
 575,Villa,Hovedgaden 25,6621, Gesten,350000 ,07-08-2022,Alm. Salg,109,3211,3,1947,-22%
 575,Villa,Øster Åstrupvej 12,6752, Glejbjerg,500000 ,07-08-2022,Alm. Salg,60,8333,2,1960,3%
-575,Villa,Koldingvej 13,6600, Vejen,2100000 ,07-08-2022,Alm. Salg,152,13816,4,1998,5%
 575,Villa,Ellestrup 51,6600, Vejen,1650000 ,06-08-2022,Alm. Salg,159,10377,4,1979,-6%
 575,Villa,Møgelmosevej 12,6630, Rødding,1495000 ,04-08-2022,Alm. Salg,160,9344,8,1944,
 575,Villa,Bækkevej 11,6650, Brørup,400500 ,04-08-2022,Alm. Salg,94,4261,4,1956,
@@ -332,7 +326,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Rødding Bakkevej 21,6630, Rødding,575000 ,22-05-2022,Alm. Salg,98,5867,5,1960,-12%
 575,Villa,Niels Skovgaards Vej 21,6600, Vejen,455700 ,22-05-2022,Alm. Salg,180,2532,5,2022,
 575,Rækkehus,Overmarken 27B,6670, Holsted,735000 ,21-05-2022,Alm. Salg,90,8167,4,1978,-5%
-575,Villa,Villesholmvænget 20,6621, Gesten,2687000 ,19-05-2022,Alm. Salg,193,13922,6,2006,
 575,Villa,Petreavej 10,6622, Bække,875000 ,19-05-2022,Alm. Salg,108,8102,4,1965,-2%
 575,Villa,Byagervej 57,6650, Brørup,1550000 ,18-05-2022,Alm. Salg,128,12109,6,1977,
 575,Villa,Marsvænget 53,6670, Holsted,203590 ,18-05-2022,Alm. Salg,181,1125,5,2023,
@@ -357,7 +350,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Rytterdam 5,6630, Rødding,425000 ,07-05-2022,Alm. Salg,115,3696,3,1960,
 575,Villa,Gettrupvej 35,6752, Glejbjerg,890000 ,05-05-2022,Alm. Salg,172,5174,7,1928,-11%
 575,Villa,Byagervej 52,6650, Brørup,975000 ,04-05-2022,Alm. Salg,205,4756,6,1976,-11%
-575,Villa,Søndergade 42,6650, Brørup,650000 ,04-05-2022,Alm. Salg,120,5417,6,1902,-24%
 575,Villa,Terpvej 69,6630, Rødding,970000 ,04-05-2022,Alm. Salg,122,7951,6,1941,
 575,Villa,Øster Lindet Præstegårdsvej 21,6630, Rødding,1050000 ,04-05-2022,Alm. Salg,210,5000,7,1964,
 575,Villa,Tirslundvej 36,6650, Brørup,575000 ,04-05-2022,Alm. Salg,135,4259,4,1914,
@@ -382,7 +374,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Niels Skovgaards Vej 5,6600, Vejen,433440 ,21-04-2022,Alm. Salg,155,2796,4,0,
 575,Villa,Lyngbakkevej 7,6600, Vejen,851000 ,20-04-2022,Andet,140,6079,4,1979,
 575,Villa,Allegade 43,6650, Brørup,900000 ,19-04-2022,Alm. Salg,172,5233,5,1927,
-575,Villa,Integade 5,6600, Vejen,675000 ,19-04-2022,Alm. Salg,81,8333,3,1927,
 575,Villa,Gejsingvej 35,6600, Vejen,680000 ,19-04-2022,Auktion,145,4690,6,1925,
 575,Villa,Gyvelvej 11,6621, Gesten,350000 ,19-04-2022,Alm. Salg,86,4070,4,1997,
 575,Villa,Plantagevej 9,6600, Vejen,1260000 ,18-04-2022,Alm. Salg,131,9618,4,1907,-5%
@@ -396,7 +387,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Foldingbrovej 59,6650, Brørup,384000 ,11-04-2022,Alm. Salg,126,3048,3,1907,
 575,Villa,Fabriksvej 12,6600, Vejen,1850000 ,10-04-2022,Alm. Salg,180,10278,6,1962,-2%
 575,Villa,Lundtoftevej 14,6683, Føvling,745000 ,10-04-2022,Alm. Salg,128,5820,4,1952,
-575,Villa,Damhus 70,6600, Vejen,1450000 ,08-04-2022,Alm. Salg,104,13942,4,1985,
 575,Villa,Mannehøj 7,6600, Vejen,2600000 ,07-04-2022,Alm. Salg,209,12440,4,2005,-4%
 575,Villa,Blæsbjerg 2,6630, Rødding,550000 ,07-04-2022,Alm. Salg,132,4167,5,1972,-15%
 575,Villa,Højskolevænget 7,6630, Rødding,1380000 ,06-04-2022,Alm. Salg,153,9020,5,1979,-3%
@@ -656,7 +646,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Skovbøllingvej 2,6752, Glejbjerg,825000 ,08-11-2021,Alm. Salg,143,5769,4,1965,
 575,Villa,Gastrupvej 14,6630, Rødding,200000 ,07-11-2021,Alm. Salg,90,2222,3,1771,
 575,Villa,Hedevangen 18,6670, Holsted,650000 ,06-11-2021,Fam. Salg,153,4248,5,2000,
-575,Villa,Vangevej 17A,6600, Vejen,2200000 ,04-11-2021,Alm. Salg,173,12717,4,1966,
 575,Villa,Gyvelvej 10,6670, Holsted,775000 ,04-11-2021,Alm. Salg,124,6250,4,1976,-3%
 575,Villa,Barsbøl Søndermark 8,6630, Rødding,228511 ,04-11-2021,Alm. Salg,175,1306,5,2022,
 575,Villa,Kongevænget 38,6600, Vejen,1422500 ,04-11-2021,Fam. Salg,160,8891,5,2017,
@@ -711,7 +700,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Frederiksbergvej 28,6600, Vejen,675000 ,06-10-2021,Alm. Salg,96,7031,4,1966,
 575,Villa,Vejlevej 34,6650, Brørup,325000 ,05-10-2021,Alm. Salg,133,2444,4,1897,-34%
 575,Villa,Gesten Kærvej 22,6621, Gesten,500000 ,04-10-2021,Alm. Salg,149,3356,3,2022,-16%
-575,Villa,Søvej 32,6630, Rødding,1450000 ,03-10-2021,Alm. Salg,104,13942,5,1955,
 575,Villa,Ravnbjerg 3,6630, Rødding,1095000 ,03-10-2021,Alm. Salg,132,8295,5,1977,
 575,Villa,Østre Alle 11,6670, Holsted,305000 ,03-10-2021,Alm. Salg,90,3389,5,1875,-23%
 575,Villa,Hennekesdamvej 11,6630, Rødding,550000 ,02-10-2021,Alm. Salg,109,5046,4,1947,-12%
@@ -762,7 +750,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Snerlevej 15,6600, Vejen,1100000 ,09-09-2021,Alm. Salg,137,8029,5,1962,2%
 575,Villa,Grindstedvej 48,6682, Hovborg,1293060 ,09-09-2021,Alm. Salg,120,10776,6,1775,0%
 575,Villa,Højgade 16,6630, Rødding,570000 ,09-09-2021,Alm. Salg,118,4831,4,1970,-4%
-575,Villa,Esbjergvej 74,6650, Brørup,2100000 ,09-09-2021,Alm. Salg,150,14000,5,2006,-8%
 575,Villa,Rølkjær 36,6600, Vejen,651080 ,09-09-2021,Fam. Salg,162,4019,5,2009,
 575,Villa,Skovbrynet 14,6650, Brørup,1405000 ,08-09-2021,Alm. Salg,218,6445,7,1969,-6%
 575,Villa,Akacievej 7,6600, Vejen,1625000 ,08-09-2021,Alm. Salg,141,11525,5,1971,-1%
@@ -935,7 +922,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Søhøj 1,6630, Rødding,2845000 ,07-06-2021,Alm. Salg,242,11756,9,1970,-2%
 575,Villa,Kongeåvej 120,6660, Lintrup,295000 ,07-06-2021,Alm. Salg,70,4214,2,1898,
 575,Villa,Fredensvej 5,6650, Brørup,995000 ,06-06-2021,Alm. Salg,102,9755,4,1963,
-575,Ejerlejlighed,"Søndergade 33, st",6650, Brørup,1100000 ,05-06-2021,Alm. Salg,80,13750,3,1910,
 575,Villa,Gestenvej 29,6600, Vejen,2400000 ,05-06-2021,Alm. Salg,304,7895,10,2003,-4%
 575,Villa,Søndergade 52,6670, Holsted,1195000 ,03-06-2021,Alm. Salg,136,8787,4,1885,
 575,Villa,Mågevej 41,6600, Vejen,1525000 ,03-06-2021,Alm. Salg,116,13147,4,1979,-1%
@@ -1085,7 +1071,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Poul la Cours Vej 26,6600, Vejen,592000 ,28-03-2021,Alm. Salg,191,3099,5,2022,
 575,Rækkehus,Vestre Stationsvej 12,6621, Gesten,730000 ,25-03-2021,Alm. Salg,101,7228,4,1980,-3%
 575,Villa,Sandmarken 13,6600, Vejen,2550000 ,25-03-2021,Alm. Salg,211,12085,6,1970,-1%
-575,Villa,Kirsebærvej 50,6600, Vejen,1610000 ,25-03-2021,Alm. Salg,115,14000,4,1977,-1%
 575,Villa,Rosenvænget 18,6670, Holsted,798000 ,25-03-2021,Alm. Salg,95,8400,4,1964,
 575,Villa,Ryttervænget 67,6752, Glejbjerg,1670000 ,25-03-2021,Alm. Salg,170,9824,6,2003,
 575,Villa,Københovedvej 19,6630, Rødding,120000 ,25-03-2021,Alm. Salg,162,741,4,2022,
@@ -1174,7 +1159,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Bakkevænge 5,6630, Rødding,850000 ,22-02-2021,Alm. Salg,150,5667,6,1968,
 575,Villa,Villesholmvænget 8,6621, Gesten,1530000 ,22-02-2021,Alm. Salg,186,8226,6,2007,-3%
 575,Villa,Terpvej 33,6630, Rødding,287500 ,21-02-2021,Alm. Salg,100,2875,4,1963,-17%
-575,Villa,Ørnevej 5,6600, Vejen,1995000 ,21-02-2021,Alm. Salg,143,13951,5,1969,
 575,Villa,Østergade 28B,6670, Holsted,515000 ,21-02-2021,Alm. Salg,172,2994,5,1954,-12%
 575,Villa,Vestervang 101,6650, Brørup,367819 ,21-02-2021,Alm. Salg,191,1926,6,2021,
 575,Villa,Ribevej 35,6630, Rødding,1150000 ,18-02-2021,Alm. Salg,345,3333,10,1912,-4%
@@ -1251,7 +1235,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Poul la Cours Vej 49,6600, Vejen,899000 ,18-01-2021,Alm. Salg,196,4587,5,2023,
 575,Villa,Favrskovvej 56,6670, Holsted,1912500 ,17-01-2021,Alm. Salg,188,10173,6,1931,-2%
 575,Villa,Gammelby Mosevej 3,6600, Vejen,300000 ,17-01-2021,Alm. Salg,178,1685,5,0,
-575,Villa,Sandmarken 33,6600, Vejen,2225000 ,14-01-2021,Alm. Salg,161,13820,5,1971,-7%
 575,Villa,Hustedgade 8A,6650, Brørup,672500 ,14-01-2021,Alm. Salg,132,4804,5,1958,
 575,Villa,Mågevej 8,6600, Vejen,1475000 ,14-01-2021,Alm. Salg,150,9833,5,1961,-1%
 575,Villa,Birkevænget 2A,6600, Vejen,772500 ,13-01-2021,Fam. Salg,177,4364,7,1969,
@@ -1465,7 +1448,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Drachmannsvej 13,6600, Vejen,1445000 ,21-09-2020,Alm. Salg,123,11748,4,1966,
 575,Villa,Nygade 17,6621, Gesten,760000 ,20-09-2020,Alm. Salg,107,7103,3,1972,-2%
 575,Villa,Vestervang 18,6650, Brørup,1662500 ,20-09-2020,Alm. Salg,150,11083,4,1998,-8%
-575,Ejerlejlighed,"Torvegade 1, 3. tv",6600, Vejen,1750000 ,17-09-2020,Alm. Salg,200,8750,7,1968,
 575,Villa,Nyvej 20,6660, Lintrup,595000 ,17-09-2020,Alm. Salg,100,5950,4,1955,
 575,Villa,Vester Alle 13,6600, Vejen,734931 ,17-09-2020,Andet,135,5444,5,1931,-51%
 575,Villa,Tulipanvej 5,6670, Holsted,1600000 ,16-09-2020,Alm. Salg,221,7240,7,1969,-11%
@@ -1491,7 +1473,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Egevænget 35,6600, Vejen,950000 ,07-09-2020,Alm. Salg,118,8051,5,1976,-27%
 575,Villa,Tværgade 15,6621, Gesten,885000 ,07-09-2020,Alm. Salg,190,4658,5,1947,-6%
 575,Villa,Kratvænget 19,6630, Rødding,675000 ,06-09-2020,Fam. Salg,154,4383,6,1996,
-575,Villa,Kongehøj 5,6600, Vejen,3125000 ,04-09-2020,Alm. Salg,226,13827,7,2008,-2%
 575,Rækkehus,Solbærvænget 10A,6600, Vejen,625000 ,03-09-2020,Alm. Salg,166,3765,6,1905,
 575,Villa,Eskelund Kærvej 6,6650, Brørup,2680000 ,03-09-2020,Alm. Salg,206,13010,6,2003,
 575,Villa,Ryttervej 6,6600, Vejen,1865000 ,03-09-2020,Alm. Salg,245,7612,8,1977,-2%
@@ -1597,7 +1578,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Klokkehøj 14,6630, Rødding,1610000 ,09-07-2020,Alm. Salg,157,10255,5,2009,
 575,Villa,Gyvelvej 73,6621, Gesten,1010000 ,08-07-2020,Alm. Salg,177,5706,6,1980,-4%
 575,Villa,Kirkevej 12,6621, Gesten,330000 ,08-07-2020,Alm. Salg,120,2750,5,1860,-10%
-575,Villa,Borgergade 49,6752, Glejbjerg,550000 ,07-07-2020,Alm. Salg,403,1365,10,1924,-26%
 575,Villa,Toften 43,6650, Brørup,1000000 ,07-07-2020,Alm. Salg,128,7813,6,1983,-9%
 575,Villa,Hvedevænget 18,6600, Vejen,1000000 ,06-07-2020,Alm. Salg,138,7246,5,1973,
 575,Villa,Nørregade 64,6650, Brørup,287500 ,04-07-2020,Fam. Salg,139,2068,5,1933,
@@ -1708,7 +1688,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Søndergyden 5,6630, Rødding,1375000 ,26-05-2020,Alm. Salg,148,9291,5,1934,
 575,Villa,Elmevej 11,6630, Rødding,1300000 ,26-05-2020,Alm. Salg,176,7386,6,1976,-6%
 575,Villa,Højskolelunden 4,6630, Rødding,448333 ,25-05-2020,Fam. Salg,276,1624,5,2020,
-575,Ejerlejlighed,"Nørregade 4, st",6622, Bække,93353 ,24-05-2020,Fam. Salg,106,881,4,1954,
 575,Villa,Nørretoft 9,6660, Lintrup,760000 ,24-05-2020,Alm. Salg,138,5507,5,1970,-4%
 575,Villa,Borgergade 69,6752, Glejbjerg,311975 ,24-05-2020,Andet,130,2400,4,1939,
 575,Villa,Grunnetsgade 42,6600, Vejen,850000 ,24-05-2020,Alm. Salg,127,6693,4,1950,-5%
@@ -1901,7 +1880,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Skovvænget 5,6670, Holsted,600000 ,20-01-2020,Alm. Salg,157,3822,5,1966,
 575,Villa,Søndermarken 21,6630, Rødding,825000 ,20-01-2020,Alm. Salg,103,8010,4,1967,-8%
 575,Villa,Vestergyden 1,6600, Vejen,577107 ,20-01-2020,Andet,154,3747,5,1952,
-575,Villa,Søndervangvej 14C,6600, Vejen,591000 ,20-01-2020,Alm. Salg,100,5910,4,2020,
 575,Villa,Bryggergade 6,6600, Vejen,1050000 ,19-01-2020,Alm. Salg,88,11932,3,1954,
 575,Villa,Markdannersvej 29,6600, Vejen,560000 ,18-01-2020,Alm. Salg,96,5833,5,1967,-6%
 575,Villa,Marsvej 9,6600, Vejen,650000 ,16-01-2020,Fam. Salg,146,4452,4,1973,
@@ -1934,7 +1912,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Rækkehus,Søndergade 41,6670, Holsted,250000 ,21-12-2019,Alm. Salg,92,2717,3,1880,
 575,Villa,Sommerlyst 7,6630, Rødding,910000 ,21-12-2019,Alm. Salg,130,7000,5,1957,-4%
 575,Villa,Skolegade 14,6670, Holsted,320000 ,21-12-2019,Alm. Salg,118,2712,3,1930,
-575,Ejerlejlighed,Ribe-Vejle Landevej 85,6622, Bække,1500000 ,19-12-2019,Alm. Salg,80,11905,6,1939,
 575,Villa,Ladelundvej 93,6600, Vejen,861581 ,18-12-2019,Alm. Salg,198,4351,5,0,
 575,Villa,Jels Bakkevej 4,6630, Rødding,1140000 ,18-12-2019,Alm. Salg,138,8261,4,1955,
 575,Villa,Enebærvej 8,6600, Vejen,1000000 ,18-12-2019,Alm. Salg,122,8197,4,1963,-9%
@@ -2101,7 +2078,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Jernbanegade 22,6650, Brørup,1150000 ,12-09-2019,Alm. Salg,130,8846,4,1965,-2%
 575,Villa,Landbovænget 14,6650, Brørup,599500 ,10-09-2019,Auktion,102,5877,3,1956,-20%
 575,Villa,Grammingtoften 24,6630, Rødding,795000 ,10-09-2019,Alm. Salg,100,7950,4,2005,
-575,Villa,Rølkjær 3,6600, Vejen,2200000 ,10-09-2019,Alm. Salg,157,14013,5,2007,-4%
 575,Villa,Nygade 24,6650, Brørup,1195000 ,09-09-2019,Alm. Salg,110,10864,5,1950,
 575,Rækkehus,Brinken 11,6670, Holsted,575000 ,08-09-2019,Alm. Salg,108,5324,4,1969,-3%
 575,Villa,Gl Hygumvej 10,6630, Rødding,450000 ,08-09-2019,Alm. Salg,122,3689,5,1928,
@@ -2208,7 +2184,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Lindbjergvej 2,6630, Rødding,575000 ,24-06-2019,Alm. Salg,116,4957,5,1933,
 575,Villa,Vestergade 27,6600, Vejen,1375000 ,23-06-2019,Alm. Salg,159,8648,4,1963,-6%
 575,Villa,Kongevænget 100,6600, Vejen,326800 ,23-06-2019,Alm. Salg,184,1776,5,2021,
-575,Villa,Rosengade 33,6600, Vejen,2070000 ,22-06-2019,Alm. Salg,149,13893,5,1931,0%
 575,Villa,Dover Markvej 1,6660, Lintrup,250000 ,21-06-2019,Alm. Salg,168,1488,4,2020,
 575,Villa,Dalgårdsvej 60,6600, Vejen,1600000 ,21-06-2019,Alm. Salg,145,11034,4,1986,-3%
 575,Villa,Hovborgvej 26,6650, Brørup,629000 ,20-06-2019,Fam. Salg,108,5824,4,1900,
@@ -2367,7 +2342,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Højgade 5,6630, Rødding,680000 ,02-04-2019,Alm. Salg,84,8095,3,1956,-6%
 575,Villa,Rugtoften 68,6630, Rødding,780000 ,01-04-2019,Alm. Salg,137,5693,4,1979,
 575,Villa,Grønhøjgade 2,6600, Vejen,1460000 ,01-04-2019,Alm. Salg,156,9359,4,1950,-2%
-575,Villa,Vorupvænget 137,6600, Vejen,1740000 ,01-04-2019,Alm. Salg,125,13920,4,2015,0%
 575,Villa,Torps Alle 25,6600, Vejen,1975000 ,31-03-2019,Alm. Salg,144,13715,5,1964,
 575,Villa,Rosenvænget 29,6670, Holsted,1775000 ,31-03-2019,Alm. Salg,169,10503,6,1998,-4%
 575,Villa,Ryttervænget 2,6752, Glejbjerg,865000 ,29-03-2019,Alm. Salg,168,5149,5,1980,-3%
@@ -2378,7 +2352,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Enghavevej 2,6630, Rødding,950000 ,28-03-2019,Alm. Salg,154,6169,6,1947,-13%
 575,Villa,Kongehøj 197,6600, Vejen,428744 ,28-03-2019,Alm. Salg,147,2917,4,2019,
 575,Villa,Torps Alle 3,6600, Vejen,1295000 ,27-03-2019,Alm. Salg,207,6256,5,1932,
-575,Ejerlejlighed,Farrisvej 11C,6630, Rødding,650000 ,25-03-2019,Alm. Salg,140,4643,3,1907,
 575,Villa,Rammelhøj 28,6630, Rødding,695000 ,24-03-2019,Alm. Salg,173,4017,7,1976,
 575,Villa,Bakkevænge 14,6630, Rødding,575000 ,24-03-2019,Alm. Salg,109,5275,3,1966,-3%
 575,Villa,Gammelmark 15,6630, Rødding,50000 ,24-03-2019,Alm. Salg,108,463,4,1951,
@@ -2446,7 +2419,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Lunderskovvej 32,6622, Bække,100000 ,13-02-2019,Alm. Salg,122,820,6,1910,
 575,Villa,Æblevænget 28,6600, Vejen,945000 ,13-02-2019,Auktion,120,7875,4,1972,
 575,Villa,Krogslundvej 2,6621, Gesten,257000 ,13-02-2019,Alm. Salg,197,1305,7,1900,
-575,Villa,Rølkjær 7,6600, Vejen,3350000 ,13-02-2019,Alm. Salg,242,13843,6,2015,-4%
 575,Villa,Koldingvej 3,6600, Vejen,950000 ,12-02-2019,Alm. Salg,106,8962,5,1960,
 575,Villa,Lyngvej 16,6600, Vejen,925000 ,12-02-2019,Fam. Salg,200,4625,6,1970,
 575,Villa,Læborg Kirkevej 22,6600, Vejen,1740000 ,12-02-2019,Alm. Salg,190,9158,3,1886,-3%
@@ -2454,7 +2426,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Vestergade 4,6670, Holsted,400000 ,10-02-2019,Alm. Salg,138,2899,4,1926,
 575,Villa,Fuglesangsalle 4,6600, Vejen,1162448 ,09-02-2019,Alm. Salg,175,6643,7,1907,
 575,Villa,Grønningen 9,6630, Rødding,760000 ,09-02-2019,Alm. Salg,135,5630,6,1971,-5%
-575,Villa,Mannehøj 117,6600, Vejen,2480000 ,09-02-2019,Alm. Salg,178,13933,6,2007,-4%
 575,Ejerlejlighed,"Ahorngade 2C, 1",6600, Vejen,450000 ,08-02-2019,Alm. Salg,67,6716,2,1880,
 575,Villa,Søndergade 70,6600, Vejen,2195000 ,08-02-2019,Alm. Salg,211,10403,6,1961,
 575,Villa,Sdr Hygum Birkevej 10,6630, Rødding,320000 ,08-02-2019,Alm. Salg,116,2759,3,1969,
@@ -2474,7 +2445,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Søndergade 70,6670, Holsted,675000 ,30-01-2019,Alm. Salg,126,5357,3,1921,-3%
 575,Villa,Hovedgaden 45,6621, Gesten,800000 ,29-01-2019,Alm. Salg,208,3846,8,1912,-11%
 575,Villa,Ryttervej 14,6600, Vejen,895000 ,29-01-2019,Alm. Salg,193,4637,7,1979,
-575,Villa,Rølkjær 22,6600, Vejen,2825000 ,29-01-2019,Alm. Salg,202,13985,6,2007,
 575,Villa,Nygade 10,6621, Gesten,970000 ,28-01-2019,Alm. Salg,114,8509,4,1971,-3%
 575,Villa,Foldingbrovej 48,6650, Brørup,225000 ,28-01-2019,Alm. Salg,303,743,8,1867,
 575,Villa,Skodborg Nørregade 3,6630, Rødding,527000 ,27-01-2019,Fam. Salg,121,4355,5,1966,
@@ -2575,7 +2545,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Højgade 22,6630, Rødding,518500 ,03-12-2018,Fam. Salg,120,4321,6,1966,
 575,Villa,Fredensgade 44,6670, Holsted,399500 ,03-12-2018,Fam. Salg,77,5188,3,1961,
 575,Ejerlejlighed,Nørregade 37E,6600, Vejen,1100000 ,02-12-2018,Alm. Salg,102,10784,2,1896,
-575,Ejerlejlighed,"Nørregade 35A, 1",6600, Vejen,2800000 ,02-12-2018,Alm. Salg,210,13333,3,1918,-5%
 575,Villa,Kaptajnsvej 4,6670, Holsted,1200000 ,02-12-2018,Alm. Salg,134,8955,7,1946,
 575,Villa,Nørregade 40,6622, Bække,485423 ,02-12-2018,Fam. Salg,135,3596,5,1986,
 575,Villa,Drachmannsvej 10,6600, Vejen,1050000 ,02-12-2018,Alm. Salg,104,10096,4,1984,-4%
@@ -2649,8 +2618,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Nørre Vittrupvej 16,6650, Brørup,507937 ,16-10-2018,Andet,183,2776,5,1900,
 575,Villa,Skodborg Møllegade 4,6630, Rødding,470000 ,16-10-2018,Alm. Salg,149,3154,5,1907,-14%
 575,Rækkehus,Skodborg Engvej 17,6630, Rødding,745000 ,15-10-2018,Alm. Salg,84,8869,3,1968,
-575,Ejerlejlighed,"Låsledvej 1, 1",6630, Rødding,1258447 ,15-10-2018,Alm. Salg,170,7403,7,1923,
-575,Ejerlejlighed,"Låsledvej 1, st. th",6630, Rødding,1258447 ,15-10-2018,Alm. Salg,112,11236,4,1923,
 575,Rækkehus,Rolighedsvej 25,6600, Vejen,960000 ,14-10-2018,Alm. Salg,96,10000,4,1919,-4%
 575,Villa,Neptunvej 2,6600, Vejen,2375000 ,12-10-2018,Alm. Salg,240,9896,9,1972,-5%
 575,Villa,Vester Alle 48,6600, Vejen,1625000 ,10-10-2018,Alm. Salg,127,12795,5,1934,-2%
@@ -2666,7 +2633,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Kongeåvej 4,6600, Vejen,1540000 ,04-10-2018,Alm. Salg,218,7064,7,1890,-3%
 575,Villa,Ribevej 94,6630, Rødding,533334 ,04-10-2018,Alm. Salg,230,2319,5,2009,
 575,Villa,Rugvænget 22,6600, Vejen,1220000 ,04-10-2018,Alm. Salg,161,7578,5,1970,-5%
-575,Rækkehus,Mannehøj 51,6600, Vejen,1595000 ,03-10-2018,Alm. Salg,115,13870,4,2007,
 575,Villa,Toften 27,6650, Brørup,1100000 ,03-10-2018,Alm. Salg,132,8333,5,1980,
 575,Rækkehus,Lynggårdsvej 17B,6600, Vejen,905000 ,01-10-2018,Alm. Salg,93,9731,4,1997,7%
 575,Rækkehus,Anemonevej 11,6670, Holsted,225489 ,30-09-2018,Fam. Salg,67,3366,2,1974,
@@ -2723,7 +2689,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Kongeåvej 142,6660, Lintrup,50000 ,27-08-2018,Alm. Salg,140,357,6,1975,
 575,Villa,Bakkegårdsparken 74,6630, Rødding,1700000 ,27-08-2018,Alm. Salg,136,12500,4,2008,-15%
 575,Rækkehus,Høgevej 7A,6600, Vejen,270000 ,26-08-2018,Fam. Salg,85,3176,3,1979,
-575,Villa,Baslund 77,6600, Vejen,2860000 ,26-08-2018,Alm. Salg,207,13816,6,2005,-1%
 575,Villa,Søndergade 70,6650, Brørup,850000 ,26-08-2018,Andet,112,7589,4,1920,
 575,Villa,Bakken 6,6670, Holsted,725000 ,23-08-2018,Alm. Salg,242,2996,8,1971,-9%
 575,Villa,Lintrupvej 68,6630, Rødding,230000 ,23-08-2018,Alm. Salg,128,1797,5,1935,-2%
@@ -2744,7 +2709,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Anlægsvej 1,6600, Vejen,1065000 ,15-08-2018,Alm. Salg,155,6871,5,1880,-3%
 575,Villa,Vorupvænget 121,6600, Vejen,1635000 ,15-08-2018,Alm. Salg,125,13080,4,2015,
 575,Villa,Bækkevej 11,6650, Brørup,216750 ,14-08-2018,Alm. Salg,94,2306,4,1956,
-575,Villa,Dalgårdsvej 104,6600, Vejen,2095000 ,13-08-2018,Alm. Salg,150,13967,5,1998,
 575,Villa,Frederiksbergvej 21,6600, Vejen,1050000 ,12-08-2018,Alm. Salg,156,6731,5,1913,-4%
 575,Villa,Borgergade 86,6752, Glejbjerg,700000 ,12-08-2018,Alm. Salg,158,4430,6,1920,-5%
 575,Villa,Rølkjær 60,6600, Vejen,7195000 ,11-08-2018,Alm. Salg,607,11853,12,2006,
@@ -2929,7 +2893,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Hovedgaden 18,6621, Gesten,1095000 ,13-04-2018,Alm. Salg,213,5141,4,1948,
 575,Villa,Tværgade 3,6621, Gesten,1160000 ,13-04-2018,Alm. Salg,180,6444,6,1968,-3%
 575,Villa,Landbovænget 18,6650, Brørup,1075000 ,12-04-2018,Alm. Salg,157,6847,5,1976,-10%
-575,Villa,Åhaven 11,6600, Vejen,2475000 ,12-04-2018,Alm. Salg,179,13827,5,2008,-5%
 575,Villa,Maltvej 37,6600, Vejen,1000000 ,11-04-2018,Alm. Salg,152,6579,5,1965,
 575,Villa,Vinkelvej 4,6670, Holsted,920000 ,11-04-2018,Alm. Salg,177,5198,7,1972,-8%
 575,Villa,Grindstedvej 13,6670, Holsted,725000 ,11-04-2018,Alm. Salg,178,4073,6,1914,-19%
@@ -3029,7 +2992,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Erantisvej 11,6650, Brørup,1270000 ,04-02-2018,Alm. Salg,230,5522,9,1972,-2%
 575,Villa,Nygade 10,6670, Holsted,299674 ,04-02-2018,Alm. Salg,154,1946,5,1952,-40%
 575,Villa,Klovtoftvej 16,6630, Rødding,1500000 ,01-02-2018,Alm. Salg,223,6726,7,1977,-5%
-575,Ejerlejlighed,Farrisvej 11C,6630, Rødding,650000 ,31-01-2018,Auktion,140,4643,3,1907,
 575,Villa,Hagensvej 5,6650, Brørup,370000 ,30-01-2018,Alm. Salg,125,2960,5,1918,-25%
 575,Villa,Bækkevej 20,6650, Brørup,445000 ,30-01-2018,Andet,101,4406,5,1907,-4%
 575,Villa,Søndergade 24,6622, Bække,770000 ,30-01-2018,Alm. Salg,156,4936,3,1962,-3%
@@ -3198,7 +3160,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Haderslevvej 4,6630, Rødding,1450000 ,13-10-2017,Alm. Salg,221,6561,6,1936,-3%
 575,Villa,Bækkevej 19,6650, Brørup,210000 ,12-10-2017,Alm. Salg,74,2838,4,1900,-40%
 575,Villa,Ådalen 14,6600, Vejen,2315000 ,11-10-2017,Alm. Salg,171,13538,5,2005,-5%
-575,Villa,Hennekesdamvej 4,6630, Rødding,350000 ,11-10-2017,Alm. Salg,93,3763,3,1963,
 575,Villa,Borgergade 71,6752, Glejbjerg,750000 ,10-10-2017,Alm. Salg,238,3151,8,1934,
 575,Villa,Grønningen 12,6630, Rødding,870000 ,10-10-2017,Alm. Salg,145,6000,4,1971,-3%
 575,Villa,Kornmarken 12,6650, Brørup,430000 ,10-10-2017,Auktion,193,2228,5,1977,-43%
@@ -3213,7 +3174,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Jels Søndergade 33,6630, Rødding,1100000 ,04-10-2017,Alm. Salg,183,6011,4,1964,
 575,Villa,Ladelundvej 95,6600, Vejen,275000 ,03-10-2017,Alm. Salg,134,2052,3,1940,-70%
 575,Villa,Lindevej 27,6630, Rødding,467500 ,03-10-2017,Fam. Salg,157,2978,4,1904,
-575,Rækkehus,Mannehøj 48,6600, Vejen,1595000 ,02-10-2017,Alm. Salg,115,13870,4,2009,
 575,Villa,Grønnegade 38,6600, Vejen,430000 ,02-10-2017,Fam. Salg,70,6143,2,1947,
 575,Villa,Saturnvej 2,6600, Vejen,1200000 ,01-10-2017,Alm. Salg,141,8511,4,1972,-12%
 575,Villa,Gunnarsvej 10,6600, Vejen,1300000 ,01-10-2017,Alm. Salg,121,10744,4,1925,-5%
@@ -3443,7 +3403,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Lyngparken 38,6670, Holsted,1280000 ,10-05-2017,Alm. Salg,154,8312,5,1978,-8%
 575,Villa,Skodborg Stadionvej 5,6630, Rødding,710000 ,10-05-2017,Alm. Salg,103,6893,4,1960,-8%
 575,Villa,Koldingvej 4,6630, Rødding,276912 ,10-05-2017,Auktion,115,2408,3,1955,
-575,Villa,Læborgvej 39,6650, Brørup,2400000 ,10-05-2017,Alm. Salg,173,13873,5,1986,-4%
 575,Villa,Kongevænget 22,6600, Vejen,374343 ,10-05-2017,Alm. Salg,171,2189,5,2018,
 575,Villa,Brombærgangen 5,6600, Vejen,1330000 ,09-05-2017,Alm. Salg,243,5473,8,1966,-8%
 575,Villa,Sølykke 11,6600, Vejen,2500000 ,09-05-2017,Alm. Salg,192,13021,5,2008,-7%
@@ -3577,13 +3536,11 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Vestervang 54,6650, Brørup,2480000 ,19-02-2017,Alm. Salg,239,10377,6,2006,-4%
 575,Villa,Barsbøl Søndermark 19,6630, Rødding,291729 ,19-02-2017,Alm. Salg,289,1009,5,2017,
 575,Villa,Kirsebærvej 89,6600, Vejen,1315000 ,16-02-2017,Alm. Salg,188,6995,5,1980,-6%
-575,Villa,Ribe-Vejle Landevej 47,6622, Bække,850000 ,15-02-2017,Fam. Salg,151,5629,4,1957,
 575,Villa,Malt Mosevej 12,6600, Vejen,2700000 ,15-02-2017,Alm. Salg,221,12217,5,2009,-10%
 575,Villa,Kløvermarken 11,6683, Føvling,450000 ,14-02-2017,Alm. Salg,118,3814,4,1977,-10%
 575,Villa,Midtervang 4,6630, Rødding,640000 ,13-02-2017,Alm. Salg,125,5120,5,1950,-14%
 575,Villa,Frederiksbergvej 25,6600, Vejen,310000 ,13-02-2017,Alm. Salg,127,2441,3,1900,
 575,Villa,Ahorngade 5,6600, Vejen,1395000 ,13-02-2017,Alm. Salg,135,10333,4,1918,
-575,Villa,Søvangen 9,6650, Brørup,2325000 ,13-02-2017,Alm. Salg,168,13839,5,2009,-1%
 575,Villa,Højgade 50,6630, Rødding,740000 ,12-02-2017,Alm. Salg,112,6607,4,1969,-7%
 575,Villa,Akacievej 4,6600, Vejen,945000 ,12-02-2017,Alm. Salg,116,8147,4,1973,
 575,Villa,Kragelundvej 6,6622, Bække,86250 ,09-02-2017,Fam. Salg,121,713,4,1877,
@@ -3691,7 +3648,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Grammingtoften 19,6630, Rødding,1345000 ,28-11-2016,Alm. Salg,184,7310,5,1997,
 575,Villa,Højvangen 16,6650, Brørup,1020000 ,27-11-2016,Alm. Salg,137,7445,4,1987,-9%
 575,Villa,Okslundvej 52,6650, Brørup,150000 ,27-11-2016,Alm. Salg,122,1230,4,1902,-39%
-575,Villa,Søbakken 3,6650, Brørup,2275000 ,27-11-2016,Alm. Salg,163,13957,4,2012,-1%
 575,Villa,Øster Alle 67,6600, Vejen,682500 ,25-11-2016,Fam. Salg,146,4675,4,1922,
 575,Villa,Villesholmvænget 12,6621, Gesten,900000 ,24-11-2016,Alm. Salg,80,11250,3,1997,-10%
 575,Villa,Neptunvej 6,6600, Vejen,1795000 ,23-11-2016,Alm. Salg,199,9020,7,1972,-5%
@@ -3703,7 +3659,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Barsbøl Søndermark 11,6630, Rødding,168524 ,21-11-2016,Alm. Salg,182,926,5,2017,
 575,Villa,Kragelundvej 1,6622, Bække,284874 ,19-11-2016,Andet,230,1239,8,1915,
 575,Villa,Askovvej 12,6600, Vejen,1130000 ,18-11-2016,Alm. Salg,119,9496,4,1955,-8%
-575,Villa,Staushedevejen 24,6621, Gesten,3000000 ,16-11-2016,Alm. Salg,200,13953,5,1931,
 575,Villa,Galgetoften 12,6630, Rødding,915000 ,16-11-2016,Alm. Salg,134,6828,5,1978,
 575,Villa,Lindknudvej 5,6650, Brørup,1475000 ,16-11-2016,Alm. Salg,176,8381,4,1934,
 575,Villa,Vestervang 12,6650, Brørup,1430000 ,16-11-2016,Alm. Salg,130,11000,4,2002,-4%
@@ -3714,7 +3669,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Kronborgvej 1A,6600, Vejen,50000 ,14-11-2016,Alm. Salg,209,239,5,1897,
 575,Villa,Rugholmvej 9,6600, Vejen,515000 ,14-11-2016,Alm. Salg,137,3759,5,1906,-14%
 575,Villa,Overmarken 74,6670, Holsted,1460000 ,14-11-2016,Alm. Salg,137,10657,4,1978,-2%
-575,Villa,Jels Søndergade 12,6630, Rødding,550000 ,14-11-2016,Alm. Salg,252,2183,12,1923,
 575,Villa,Jens Hørlücksvej 1,6630, Rødding,900000 ,13-11-2016,Alm. Salg,208,4327,7,1938,-7%
 575,Villa,Fredensgade 14,6670, Holsted,765000 ,13-11-2016,Alm. Salg,171,4474,4,1913,-4%
 575,Villa,Frederiksbergvej 51,6600, Vejen,950000 ,13-11-2016,Fam. Salg,136,6985,4,1981,
@@ -4383,7 +4337,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Søageren 55,6650, Brørup,292648 ,11-08-2015,Alm. Salg,182,1608,5,2016,
 575,Villa,Vestervang 53,6650, Brørup,274871 ,11-08-2015,Alm. Salg,171,1607,5,2016,
 575,Villa,Kongehøj 176,6600, Vejen,435688 ,11-08-2015,Alm. Salg,200,2178,6,2016,
-575,Villa,Integade 5,6600, Vejen,650000 ,10-08-2015,Alm. Salg,81,8025,3,1927,
 575,Villa,Nørrevænget 6,6670, Holsted,585000 ,10-08-2015,Alm. Salg,102,5735,4,1980,-16%
 575,Villa,Vesterled 3,6650, Brørup,880000 ,10-08-2015,Alm. Salg,103,8544,3,1994,-2%
 575,Villa,Solhøj 8,6600, Vejen,600000 ,10-08-2015,Alm. Salg,156,3846,7,1971,
@@ -4637,7 +4590,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Tulipanvej 3,6670, Holsted,665000 ,06-02-2015,Alm. Salg,135,4926,5,1973,-5%
 575,Villa,Elmevænget 3,6600, Vejen,1450000 ,06-02-2015,Alm. Salg,140,10357,5,1974,-3%
 575,Villa,Hyldelund Bakkevej 4,6650, Brørup,520000 ,05-02-2015,Alm. Salg,109,4771,4,1954,-13%
-575,Ejerlejlighed,"Sønderalle 1, 1",6630, Rødding,1408000 ,04-02-2015,Auktion,192,7333,5,1903,
 575,Villa,Enebærvej 11,6600, Vejen,1000000 ,04-02-2015,Alm. Salg,131,7634,4,1962,-9%
 575,Villa,Rammelhøj 53,6630, Rødding,1225000 ,03-02-2015,Alm. Salg,116,10560,4,1977,-4%
 575,Villa,Nyvang 1,6752, Glejbjerg,450000 ,03-02-2015,Alm. Salg,109,4128,4,1964,-28%
@@ -5551,9 +5503,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Rødding Søndervang 5,6630, Rødding,545000 ,21-11-2012,Alm. Salg,137,3978,5,1948,2%
 575,Villa,Kystbækvej 14,6670, Holsted,135000 ,20-11-2012,Auktion,168,804,5,1971,
 575,Villa,Violvej 16,6650, Brørup,1195000 ,18-11-2012,Alm. Salg,160,7469,7,1967,-4%
-575,Rækkehus,Maltvej 7,6600, Vejen,800000 ,17-11-2012,Fam. Salg,125,6400,1,1866,
-575,Villa,Maltvej 7B,6600, Vejen,800000 ,17-11-2012,Fam. Salg,262,3053,6,1866,
-575,Rækkehus,Vejenvej 36B,6600, Vejen,1250000 ,15-11-2012,Alm. Salg,90,13889,4,2004,9%
 575,Villa,Baslund 63,6600, Vejen,2300000 ,15-11-2012,Alm. Salg,174,13218,6,1997,
 575,Villa,Rølkjær 27,6600, Vejen,875000 ,15-11-2012,Alm. Salg,179,4888,5,2013,
 575,Villa,Kirsebærvej 10,6600, Vejen,1100000 ,14-11-2012,Alm. Salg,143,7692,6,1979,-19%
@@ -5687,8 +5636,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Vestervang 7,6600, Vejen,945000 ,23-07-2012,Alm. Salg,152,6217,5,1949,-5%
 575,Villa,Holmeåvænget 9,6682, Hovborg,650000 ,22-07-2012,Alm. Salg,100,6500,3,1990,-6%
 575,Villa,Plantagevej 2A,6600, Vejen,1450000 ,18-07-2012,Alm. Salg,158,9177,5,1984,-2%
-575,Ejerlejlighed,"Låsledvej 1, 1",6630, Rødding,1543497 ,17-07-2012,Alm. Salg,170,9079,7,1923,
-575,Ejerlejlighed,"Låsledvej 1, st. th",6630, Rødding,1543497 ,17-07-2012,Alm. Salg,112,13781,4,1923,
 575,Villa,Vittrupvej 6,6622, Bække,550000 ,17-07-2012,Alm. Salg,120,4583,3,1871,5%
 575,Villa,Kongeåvej 58,6600, Vejen,1100000 ,16-07-2012,Alm. Salg,168,6548,5,1907,-15%
 575,Villa,Baunevej 56,6622, Bække,700000 ,15-07-2012,Alm. Salg,134,5224,5,1971,-15%
@@ -5718,7 +5665,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Gejlager 1,6630, Rødding,200000 ,25-06-2012,Alm. Salg,149,1342,6,2015,
 575,Villa,Sønderfenne 4,6630, Rødding,510494 ,25-06-2012,Alm. Salg,141,3621,5,1997,
 575,Villa,Barsbølmarkvej 10A,6630, Rødding,3500000 ,25-06-2012,Auktion,335,10448,10,1996,
-575,Villa,Æblevænget 15,6600, Vejen,2000000 ,20-06-2012,Alm. Salg,143,13986,5,2005,-7%
 575,Villa,Rammelhøj 3,6630, Rødding,1075000 ,19-06-2012,Alm. Salg,119,9034,5,1969,-2%
 575,Villa,Gyvelvej 19,6621, Gesten,368500 ,19-06-2012,Alm. Salg,122,3020,6,1975,
 575,Rækkehus,Stadionvej 12,6650, Brørup,660000 ,18-06-2012,Alm. Salg,90,7333,4,1980,-17%
@@ -5818,7 +5764,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Klovtoftvej 10,6630, Rødding,1475000 ,21-03-2012,Alm. Salg,212,6958,7,1967,-13%
 575,Villa,Lintrupvej 4,6660, Lintrup,48075 ,21-03-2012,Auktion,171,281,5,1934,
 575,Villa,Lyngvej 8,6600, Vejen,730000 ,21-03-2012,Auktion,175,4171,6,1964,
-575,Villa,Skodborg Søndergade 39B,6630, Rødding,1340000 ,21-03-2012,Auktion,134,10000,3,1942,
 575,Villa,Langbjergvej 6,6621, Gesten,377500 ,18-03-2012,Andet,151,2500,6,1876,
 575,Villa,Rosengade 81,6600, Vejen,1053944 ,18-03-2012,Fam. Salg,112,9410,4,1962,
 575,Villa,Søndergade 86,6670, Holsted,653000 ,18-03-2012,Alm. Salg,204,3201,5,1906,
@@ -5868,7 +5813,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Paxvej 36,6650, Brørup,1135000 ,05-02-2012,Alm. Salg,116,9784,6,1965,-12%
 575,Villa,Venusvej 8,6600, Vejen,1485000 ,05-02-2012,Alm. Salg,154,9643,4,1977,-7%
 575,Villa,Vesterbyvej 5B,6683, Føvling,795000 ,05-02-2012,Alm. Salg,119,6681,4,2003,
-575,Rækkehus,Mannehøj 49,6600, Vejen,1598000 ,02-02-2012,Alm. Salg,115,13896,4,2008,
 575,Villa,Tvilevej 22,6752, Glejbjerg,200000 ,01-02-2012,Alm. Salg,144,1389,3,1928,-32%
 575,Villa,Møllevej 7,6600, Vejen,2445000 ,01-02-2012,Alm. Salg,247,9899,9,1907,2%
 575,Villa,Adsersbølvej 11,6650, Brørup,322500 ,01-02-2012,Alm. Salg,153,2108,4,2014,
@@ -5915,7 +5859,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Nygade 42,6650, Brørup,1100000 ,20-12-2011,Alm. Salg,118,9322,5,1973,
 575,Ejerlejlighed,"Søndergade 9, 1",6600, Vejen,2500000 ,18-12-2011,Andet,188,13298,6,1922,
 575,Villa,Vestergade 25,6650, Brørup,1379000 ,18-12-2011,Alm. Salg,180,7661,6,2009,
-575,Villa,Fredensgade 9A,6600, Vejen,1700000 ,18-12-2011,Andet,128,13281,5,1930,
 575,Villa,Ribe-Vejle Landevej 7,6600, Vejen,1450000 ,17-12-2011,Alm. Salg,204,7108,8,1934,-9%
 575,Rækkehus,Frederiksberggade 4,6670, Holsted,383500 ,15-12-2011,Alm. Salg,190,2018,5,1923,
 575,Villa,Klovtoftvej 2B,6630, Rødding,1800000 ,14-12-2011,Alm. Salg,173,10405,7,1972,
@@ -6457,7 +6400,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Skodborg Søndergade 50A,6630, Rødding,750000 ,12-10-2010,Alm. Salg,160,4688,5,1937,-15%
 575,Villa,Estrupvej 5,6600, Vejen,400000 ,10-10-2010,Alm. Salg,156,2564,5,2010,
 575,Villa,Petreavej 6,6622, Bække,630000 ,10-10-2010,Alm. Salg,100,6300,4,1965,-6%
-575,Villa,Mannehøj 168,6600, Vejen,2195000 ,07-10-2010,Alm. Salg,157,13981,5,2009,
 575,Villa,Bakkevænge 31,6630, Rødding,1300000 ,06-10-2010,Alm. Salg,200,6500,7,1968,-7%
 575,Villa,Rødding Lindealle 15,6630, Rødding,890000 ,04-10-2010,Alm. Salg,87,10230,3,1947,-1%
 575,Villa,Hovborgvej 43,6650, Brørup,476000 ,04-10-2010,Alm. Salg,103,4621,4,1934,
@@ -6478,7 +6420,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Rækkehus,Borgergade 56,6752, Glejbjerg,505000 ,25-09-2010,Alm. Salg,119,4244,3,1925,-13%
 575,Villa,Estrupvej 13,6600, Vejen,474000 ,25-09-2010,Alm. Salg,109,4349,3,1912,-50%
 575,Villa,Kløvermarken 3,6683, Føvling,386750 ,24-09-2010,Alm. Salg,140,2763,5,1979,
-575,Ejerlejlighed,"Låsledvej 1, 1",6630, Rødding,1748626 ,23-09-2010,Auktion,170,10286,7,1923,
 575,Villa,Knagmøllevej 13,6630, Rødding,1298000 ,23-09-2010,Alm. Salg,144,9014,4,1964,
 575,Villa,Nygade 65,6650, Brørup,1450000 ,23-09-2010,Alm. Salg,163,8896,7,1975,-3%
 575,Villa,Gastrupvej 10,6630, Rødding,815000 ,20-09-2010,Alm. Salg,167,4880,4,1929,-9%
@@ -6518,7 +6459,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Skolegade 17,6650, Brørup,840000 ,30-08-2010,Alm. Salg,193,4352,7,1925,-6%
 575,Villa,Gyvelvej 6,6621, Gesten,695000 ,29-08-2010,Alm. Salg,114,6096,4,1966,
 575,Villa,Strebelvej 3,6670, Holsted,120000 ,26-08-2010,Alm. Salg,48,2500,3,1915,-59%
-575,Villa,Borgergade 49,6752, Glejbjerg,698000 ,26-08-2010,Alm. Salg,403,1732,10,1924,
 575,Villa,Vangevej 9,6600, Vejen,1280000 ,26-08-2010,Alm. Salg,97,13196,4,1951,
 575,Villa,Drostrupvadvej 3,6621, Gesten,1877000 ,26-08-2010,Alm. Salg,226,8305,7,1908,-6%
 575,Villa,Nørregade 58,6670, Holsted,800000 ,25-08-2010,Alm. Salg,225,3556,12,1908,-11%
@@ -6539,7 +6479,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Rækkehus,Nygade 11,6670, Holsted,445000 ,14-08-2010,Alm. Salg,96,4635,3,1936,-6%
 575,Villa,Akacievej 7,6600, Vejen,1600000 ,14-08-2010,Alm. Salg,141,11348,5,1971,-6%
 575,Villa,Grønhøjgade 12,6600, Vejen,1132500 ,13-08-2010,Alm. Salg,109,10390,5,1957,-5%
-575,Rækkehus,Mannehøj 45,6600, Vejen,1595000 ,11-08-2010,Alm. Salg,115,13870,4,2008,
 575,Villa,Toften 10,6670, Holsted,790000 ,11-08-2010,Alm. Salg,108,7315,4,1969,-12%
 575,Rækkehus,Nørregade 71B,6600, Vejen,700000 ,09-08-2010,Alm. Salg,63,11111,2,1989,-12%
 575,Villa,Tornumgårdsvej 14,6660, Lintrup,660000 ,09-08-2010,Alm. Salg,206,3204,6,1904,-10%
@@ -6754,7 +6693,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Rækkehus,Anemonevej 1,6670, Holsted,415000 ,25-03-2010,Alm. Salg,67,6194,2,1975,
 575,Villa,Øster Alle 74,6600, Vejen,595000 ,25-03-2010,Alm. Salg,122,4877,3,1925,
 575,Villa,Vejenvej 44,6600, Vejen,925000 ,24-03-2010,Fam. Salg,90,10278,3,1959,
-575,Villa,Solvang 12,6600, Vejen,1334000 ,24-03-2010,Alm. Salg,96,13896,4,1945,-8%
 575,Villa,Mågevej 13,6600, Vejen,700000 ,24-03-2010,Alm. Salg,102,6863,3,1961,-12%
 575,Villa,Hærvejen 2,6622, Bække,1225000 ,24-03-2010,Alm. Salg,145,8448,7,1916,
 575,Villa,Hedelundvej 1,6600, Vejen,850000 ,24-03-2010,Auktion,221,3846,7,1890,
@@ -6839,7 +6777,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Sønderagervej 13,6683, Føvling,75000 ,01-02-2010,Auktion,110,682,2,1954,
 575,Rækkehus,Rolighedsvej 29,6600, Vejen,700000 ,31-01-2010,Alm. Salg,111,6306,3,1919,-10%
 575,Villa,Østervænge 11,6630, Rødding,934675 ,31-01-2010,Fam. Salg,159,5878,5,1976,
-575,Villa,Løbnersvej 8,6683, Føvling,300000 ,31-01-2010,Alm. Salg,142,2113,6,1952,
 575,Villa,Hovedgaden 26,6621, Gesten,1500000 ,30-01-2010,Alm. Salg,261,5747,8,1877,-5%
 575,Villa,Skolegade 42,6670, Holsted,790000 ,29-01-2010,Alm. Salg,128,6172,4,1975,-12%
 575,Villa,Hygumskovvej 24,6630, Rødding,750000 ,29-01-2010,Alm. Salg,155,4839,6,1850,-6%
@@ -7230,7 +7167,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Vestergade 20,6650, Brørup,390000 ,19-03-2009,Alm. Salg,150,2600,5,1913,-29%
 575,Villa,Østergade 21,6670, Holsted,660000 ,19-03-2009,Alm. Salg,111,5946,4,1963,-17%
 575,Villa,Kirsebærvej 91,6600, Vejen,1795000 ,18-03-2009,Alm. Salg,136,13199,5,1978,-5%
-575,Villa,Haraldsholmvej 12,6630, Rødding,1400000 ,17-03-2009,Alm. Salg,100,14000,4,1907,-16%
 575,Villa,Okslundvej 28,6650, Brørup,805000 ,17-03-2009,Alm. Salg,132,6098,5,1917,-1%
 575,Villa,Rosenvænget 22,6630, Rødding,1050000 ,17-03-2009,Alm. Salg,139,7554,6,1984,
 575,Villa,Rugtoften 66,6630, Rødding,1400000 ,15-03-2009,Alm. Salg,267,5243,9,1980,-6%
@@ -7273,7 +7209,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Ribe-Vejle Landevej 120,6622, Bække,700000 ,18-02-2009,Alm. Salg,111,6306,4,1941,
 575,Rækkehus,Overmarken 19C,6670, Holsted,610000 ,17-02-2009,Alm. Salg,87,7011,4,1979,
 575,Ejerlejlighed,Nørregade 37E,6600, Vejen,1400000 ,17-02-2009,Alm. Salg,102,13725,2,1896,
-575,Ejerlejlighed,"Nørregade 35A, 1",6600, Vejen,1675000 ,17-02-2009,Alm. Salg,210,7976,3,1918,
 575,Villa,Krøgebækvej 15,6682, Hovborg,900000 ,17-02-2009,Alm. Salg,141,6383,4,1929,
 575,Villa,Krøgebækvej 20,6682, Hovborg,1800000 ,17-02-2009,Alm. Salg,302,5960,10,1977,0%
 575,Villa,Danmarksgade 4,6600, Vejen,1300000 ,17-02-2009,Alm. Salg,158,8228,6,1961,-7%
@@ -7297,7 +7232,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Syrenvej 6,6600, Vejen,970000 ,03-02-2009,Alm. Salg,157,6178,5,1967,-11%
 575,Villa,Nygade 26,6650, Brørup,1850000 ,31-01-2009,Alm. Salg,172,10756,5,1947,-2%
 575,Villa,Høllundvej 5,6682, Hovborg,630000 ,31-01-2009,Fam. Salg,188,3351,9,1929,
-575,Villa,Skodborg Søndergade 38,6630, Rødding,946754 ,29-01-2009,Alm. Salg,80,11834,3,1900,
 575,Villa,Østergade 16,6630, Rødding,790212 ,29-01-2009,Alm. Salg,133,5941,4,1998,
 575,Villa,Holmeåvej 18,6682, Hovborg,2068650 ,28-01-2009,Alm. Salg,160,12929,4,1925,
 575,Rækkehus,Brinken 11,6670, Holsted,850000 ,27-01-2009,Alm. Salg,108,7870,4,1969,-5%
@@ -7316,7 +7250,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Vorbassevej 4,6622, Bække,2412000 ,18-01-2009,Alm. Salg,201,12000,8,1930,
 575,Villa,Nygade 21,6650, Brørup,1095000 ,15-01-2009,Alm. Salg,115,9522,3,1975,
 575,Villa,Sdr Skovvej 5,6630, Rødding,520000 ,15-01-2009,Alm. Salg,164,3171,5,2010,
-575,Ejerlejlighed,Farrisvej 11C,6630, Rødding,1600000 ,13-01-2009,Fam. Salg,140,11429,3,1907,
 575,Villa,Bakkegårdsparken 69,6630, Rødding,2270000 ,13-01-2009,Alm. Salg,180,12611,5,2008,-5%
 575,Villa,Jordrupvej 8,6600, Vejen,850000 ,12-01-2009,Alm. Salg,185,4595,5,2010,-15%
 575,Rækkehus,Anemonevej 6,6670, Holsted,595000 ,11-01-2009,Alm. Salg,65,9154,3,1975,
@@ -7795,8 +7728,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Terpvej 31,6630, Rødding,420000 ,07-04-2008,Alm. Salg,102,4118,4,1978,
 575,Villa,Anemonevej 3,6600, Vejen,1365000 ,07-04-2008,Alm. Salg,143,9545,5,1963,-2%
 575,Villa,Søbakken 9,6650, Brørup,316239 ,07-04-2008,Alm. Salg,172,1839,5,2011,
-575,Rækkehus,"Nørregade 9, 1",6670, Holsted,925000 ,06-04-2008,Alm. Salg,81,11420,4,1932,
-575,Ejerlejlighed,"Nørregade 9, st. th",6670, Holsted,925000 ,06-04-2008,Alm. Salg,91,10165,3,1932,
 575,Villa,Sommerlyst 13,6630, Rødding,955000 ,06-04-2008,Alm. Salg,181,5276,7,1949,-2%
 575,Villa,Ribe-Vejle Landevej 12,6622, Bække,840000 ,06-04-2008,Alm. Salg,130,6462,4,1949,-3%
 575,Villa,Jels Vestergade 29,6630, Rødding,881371 ,06-04-2008,Fam. Salg,136,6481,5,1971,
@@ -7907,7 +7838,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Galgetoften 51,6630, Rødding,1250000 ,09-02-2008,Alm. Salg,134,9328,4,1977,-3%
 575,Villa,Vinkelvej 1,6650, Brørup,900000 ,07-02-2008,Alm. Salg,202,4455,7,1935,-5%
 575,Villa,Kragelundvej 15,6622, Bække,795000 ,07-02-2008,Alm. Salg,177,4492,5,1940,
-575,Villa,Vester Alle 13,6600, Vejen,1870000 ,07-02-2008,Alm. Salg,135,13852,5,1931,-1%
 575,Villa,Skodborg Vestergade 19A,6630, Rødding,800000 ,07-02-2008,Alm. Salg,80,10000,3,1924,-3%
 575,Villa,Frederiksberggade 3,6670, Holsted,420158 ,06-02-2008,Alm. Salg,103,4079,3,1922,
 575,Villa,Rugtoften 12,6630, Rødding,1075000 ,05-02-2008,Alm. Salg,112,9598,4,1974,
@@ -8094,7 +8024,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Møgelmosevej 21,6630, Rødding,179900 ,01-11-2007,Alm. Salg,169,1064,4,2011,
 575,Villa,Vestervang 90,6650, Brørup,868342 ,30-10-2007,Andet,149,5828,5,1997,
 575,Villa,Morbærvej 37,6600, Vejen,1735000 ,29-10-2007,Alm. Salg,132,13144,5,1977,
-575,Villa,Skovlundvej 1,6660, Lintrup,620000 ,29-10-2007,Alm. Salg,323,1920,7,2011,
 575,Villa,Nedersøparken 20,6630, Rødding,201400 ,29-10-2007,Alm. Salg,156,1291,5,2021,
 575,Villa,Galgetoften 71,6630, Rødding,1550000 ,29-10-2007,Alm. Salg,195,7949,4,1974,
 575,Villa,Bakkegårdsparken 68,6630, Rødding,216200 ,29-10-2007,Alm. Salg,152,1422,4,2008,
@@ -8118,11 +8047,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Tværvej 6,6650, Brørup,1610000 ,17-10-2007,Alm. Salg,163,9877,5,1966,-3%
 575,Villa,Gestenvej 46,6600, Vejen,1150000 ,16-10-2007,Alm. Salg,142,8099,6,1949,
 575,Villa,Enggårdsvej 8,6600, Vejen,269850 ,16-10-2007,Alm. Salg,154,1752,5,2008,
-575,Ejerlejlighed,Tværgade 17A,6621, Gesten,1000000 ,15-10-2007,Fam. Salg,219,4566,4,1920,
 575,Villa,Lindevej 3,6630, Rødding,1175000 ,15-10-2007,Alm. Salg,230,5109,8,1957,-9%
 575,Villa,Ribe-Vejle Landevej 61,6622, Bække,935000 ,15-10-2007,Alm. Salg,132,7083,4,2009,
 575,Villa,Klostergade 4,6622, Bække,785000 ,15-10-2007,Alm. Salg,120,6542,3,1966,
-575,Villa,Tværgade 17,6621, Gesten,1000000 ,15-10-2007,Fam. Salg,303,3300,8,1920,
 575,Villa,Frederiksbergvej 39,6600, Vejen,1415000 ,15-10-2007,Alm. Salg,155,9129,5,1984,
 575,Villa,Vejlevej 2,6650, Brørup,781894 ,14-10-2007,Alm. Salg,90,8688,3,1959,-13%
 575,Villa,Ellestrup 36,6600, Vejen,1875000 ,14-10-2007,Alm. Salg,173,10838,4,1979,
@@ -8452,11 +8379,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Rækkehus,Brinken 12,6670, Holsted,880000 ,07-06-2007,Alm. Salg,104,8462,4,1967,
 575,Villa,Bregnegårdsvej 15,6630, Rødding,895000 ,07-06-2007,Alm. Salg,107,8364,3,1966,
 575,Villa,Gramlandevej 10,6630, Rødding,1000000 ,07-06-2007,Alm. Salg,154,6494,5,1966,
-575,Rækkehus,Mannehøj 35,6600, Vejen,1495000 ,06-06-2007,Alm. Salg,115,13000,4,2008,
 575,Villa,Rammelhøj 27,6630, Rødding,1100000 ,06-06-2007,Alm. Salg,214,5140,8,1977,-8%
 575,Villa,Præstevænget 24,6600, Vejen,2400000 ,06-06-2007,Alm. Salg,257,9339,6,1983,
 575,Villa,Rugvænget 32,6600, Vejen,1275000 ,06-06-2007,Alm. Salg,174,7328,5,1966,-6%
-575,Villa,Svalevej 34,6600, Vejen,1495000 ,06-06-2007,Alm. Salg,131,11412,5,1962,
 575,Villa,Borgergade 83,6752, Glejbjerg,685000 ,06-06-2007,Alm. Salg,102,6716,4,1947,
 575,Villa,Kongevej 45,6630, Rødding,786200 ,06-06-2007,Fam. Salg,122,6444,3,1937,
 575,Villa,Kongehøj 3,6600, Vejen,325000 ,06-06-2007,Alm. Salg,168,1935,5,2008,
@@ -8738,7 +8663,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Gestenvej 48,6600, Vejen,1015000 ,08-03-2007,Alm. Salg,153,6634,7,1949,
 575,Villa,Søvangen 7,6650, Brørup,215754 ,08-03-2007,Alm. Salg,152,1419,5,2007,
 575,Villa,Møgelmosevej 2,6630, Rødding,722500 ,06-03-2007,Alm. Salg,152,4753,6,1890,-3%
-575,Villa,Svalevej 4,6600, Vejen,1013500 ,06-03-2007,Alm. Salg,73,13884,3,1962,
 575,Villa,Nedersøparken 53,6630, Rødding,221200 ,06-03-2007,Alm. Salg,156,1418,5,2007,
 575,Rækkehus,Persillegade 9,6630, Rødding,510000 ,04-03-2007,Alm. Salg,90,5667,3,1969,
 575,Villa,Kirkegade 3,6670, Holsted,705000 ,04-03-2007,Alm. Salg,132,5341,4,1935,
@@ -9171,10 +9095,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Ø. Skibelundvej 20,6600, Vejen,765000 ,31-08-2006,Alm. Salg,99,7727,2,1941,
 575,Villa,Chr Sørensensvej 7,6630, Rødding,1308409 ,31-08-2006,Alm. Salg,220,5947,6,1848,
 575,Villa,Asbovej 60,6622, Bække,1050000 ,31-08-2006,Alm. Salg,173,6069,6,1960,
-575,Ejerlejlighed,Ramsherred 2B,6630, Rødding,800000 ,30-08-2006,Alm. Salg,75,10667,4,1936,
-575,Ejerlejlighed,Ramsherred 2A,6630, Rødding,800000 ,30-08-2006,Alm. Salg,78,10256,2,1923,
-575,Ejerlejlighed,"Låsledvej 1, 1",6630, Rødding,800000 ,30-08-2006,Alm. Salg,170,4706,7,1923,
-575,Ejerlejlighed,"Låsledvej 1, st. th",6630, Rødding,800000 ,30-08-2006,Alm. Salg,112,7143,4,1923,
 575,Villa,Præstevej 1,6650, Brørup,400000 ,30-08-2006,Alm. Salg,136,2941,5,2021,
 575,Villa,Grønningen 16,6630, Rødding,790000 ,30-08-2006,Alm. Salg,141,5603,5,1971,
 575,Villa,Landboelsgade 8B,6630, Rødding,400000 ,30-08-2006,Fam. Salg,92,4348,3,1911,
@@ -9399,7 +9319,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Mannehøj 103,6600, Vejen,236925 ,31-05-2006,Alm. Salg,235,1008,6,2009,
 575,Villa,Lyngbakkevej 3,6600, Vejen,450000 ,31-05-2006,Alm. Salg,175,2571,5,1957,
 575,Villa,Mannehøj 101,6600, Vejen,376761 ,31-05-2006,Alm. Salg,212,1777,6,2008,
-575,Villa,Løbnersvej 8,6683, Føvling,360000 ,30-05-2006,Alm. Salg,142,2535,6,1952,
 575,Villa,Vestervang 84,6650, Brørup,95500 ,30-05-2006,Alm. Salg,219,436,6,2006,
 575,Villa,Vesterbyvej 48,6683, Føvling,225000 ,30-05-2006,Alm. Salg,116,1940,4,1938,
 575,Villa,Rølkjær 12,6600, Vejen,430000 ,30-05-2006,Alm. Salg,195,2205,5,2012,
@@ -9562,13 +9481,11 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Rækkehus,Nørregade 64,6600, Vejen,800000 ,30-03-2006,Alm. Salg,175,4571,6,1900,
 575,Villa,Nørretoft 5,6660, Lintrup,585000 ,30-03-2006,Alm. Salg,102,5735,4,1965,
 575,Villa,Ribe-Vejle Landevej 47,6622, Bække,1100000 ,30-03-2006,Alm. Salg,151,7285,4,1957,
-575,Villa,Mannehøj 21,6600, Vejen,2525000 ,30-03-2006,Alm. Salg,181,13950,6,2006,
 575,Villa,Okslundvej 45,6650, Brørup,465000 ,29-03-2006,Alm. Salg,116,4009,3,1957,
 575,Villa,Klostergade 7,6622, Bække,585000 ,29-03-2006,Alm. Salg,84,6964,3,1947,
 575,Villa,Mannehøj 227,6600, Vejen,271635 ,29-03-2006,Alm. Salg,171,1589,5,2006,
 575,Villa,Dalgårdsvej 109,6600, Vejen,1210000 ,29-03-2006,Alm. Salg,121,10000,4,1985,
 575,Villa,Vælding Bjergvej 5,6650, Brørup,1200000 ,28-03-2006,Alm. Salg,227,5286,5,1912,
-575,Villa,Engholmvej 10,6621, Gesten,2181500 ,28-03-2006,Alm. Salg,148,13984,5,1980,
 575,Villa,Knagmøllevej 15,6630, Rødding,1450000 ,27-03-2006,Alm. Salg,230,6304,7,1700,
 575,Villa,Anemonevej 4,6600, Vejen,910000 ,27-03-2006,Alm. Salg,116,7845,4,1964,
 575,Villa,Klokkehøj 3,6630, Rødding,113750 ,27-03-2006,Alm. Salg,165,689,4,2007,
@@ -9767,7 +9684,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Søparken 23,6650, Brørup,370000 ,17-01-2006,Alm. Salg,222,1667,5,2006,
 575,Rækkehus,Jyllandsgade 9D,6600, Vejen,945000 ,16-01-2006,Alm. Salg,97,9742,4,1999,
 575,Villa,Koldingvej 25,6630, Rødding,1100000 ,16-01-2006,Alm. Salg,140,7857,4,1974,
-575,Villa,Skolegade 9,6600, Vejen,802100 ,15-01-2006,Alm. Salg,117,6856,4,1909,
 575,Villa,Borgergade 63,6752, Glejbjerg,760000 ,15-01-2006,Alm. Salg,157,4841,6,1937,
 575,Villa,Østre Alle 26,6650, Brørup,473000 ,15-01-2006,Fam. Salg,101,4683,4,1965,
 575,Villa,Rølkjær 74,6600, Vejen,299900 ,15-01-2006,Alm. Salg,176,1704,7,2006,
@@ -9826,7 +9742,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Ejerlejlighed,"Jernbanegade 3, st. tv",6670, Holsted,531052 ,14-12-2005,Alm. Salg,103,5156,4,1920,
 575,Ejerlejlighed,"Jernbanegade 3, 1. th",6670, Holsted,320701 ,14-12-2005,Alm. Salg,77,4165,4,1920,
 575,Ejerlejlighed,"Jernbanegade 3, 1. tv",6670, Holsted,484308 ,14-12-2005,Alm. Salg,81,5979,3,1920,
-575,Villa,Skolegade 3,6600, Vejen,915170 ,14-12-2005,Alm. Salg,99,9244,4,1920,
 575,Villa,Dyrskuevej 5,6630, Rødding,450000 ,14-12-2005,Alm. Salg,81,5556,3,1959,
 575,Villa,Kratvænget 12,6630, Rødding,1095000 ,14-12-2005,Alm. Salg,127,8622,4,1980,
 575,Villa,Stationsvej 7A,6600, Vejen,2705000 ,13-12-2005,Alm. Salg,220,9801,8,1981,
@@ -9845,7 +9760,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Håndværkervej 13,6600, Vejen,2200000 ,06-12-2005,Alm. Salg,465,4731,8,2019,
 575,Villa,Stationsvej 2,6752, Glejbjerg,850000 ,06-12-2005,Alm. Salg,155,5484,5,1953,
 575,Villa,Østre Alle 2,6650, Brørup,1202000 ,06-12-2005,Alm. Salg,153,7856,6,1934,
-575,Ejerlejlighed,"Nørregade 34, 1",6650, Brørup,1400000 ,05-12-2005,Fam. Salg,100,14000,4,1979,
 575,Villa,Vestervang 38,6650, Brørup,96875 ,05-12-2005,Alm. Salg,180,538,4,2006,
 575,Villa,Frederiksbergvej 14,6600, Vejen,875000 ,04-12-2005,Alm. Salg,130,6731,5,1925,
 575,Villa,Holtevej 5,6630, Rødding,650000 ,04-12-2005,Fam. Salg,135,4815,4,1932,
@@ -10053,7 +9967,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Bakkegårdsparken 62,6630, Rødding,1685000 ,24-09-2005,Alm. Salg,196,8597,6,2000,
 575,Villa,Ålundvej 2,6670, Holsted,535000 ,24-09-2005,Alm. Salg,224,2388,4,1900,
 575,Villa,Rølkjær 38,6600, Vejen,299900 ,24-09-2005,Alm. Salg,208,1442,5,2006,
-575,Ejerlejlighed,"Nørregade 4, st",6622, Bække,510000 ,23-09-2005,Alm. Salg,106,4811,4,1954,
 575,Villa,Åkjærsvej 8,6600, Vejen,1595000 ,23-09-2005,Alm. Salg,185,8622,8,1964,
 575,Villa,Borgergade 94,6752, Glejbjerg,660000 ,23-09-2005,Alm. Salg,200,3300,4,1979,
 575,Villa,Østergade 35,6600, Vejen,1995000 ,22-09-2005,Alm. Salg,145,13759,7,1933,
@@ -10064,7 +9977,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Kærvej 10,6670, Holsted,895000 ,22-09-2005,Alm. Salg,188,4761,6,1948,
 575,Villa,Hygummark 3,6630, Rødding,448675 ,22-09-2005,Alm. Salg,172,2609,5,1936,
 575,Villa,Bryggergade 8,6600, Vejen,875000 ,22-09-2005,Alm. Salg,180,4861,6,1911,
-575,Villa,Drostrupvej 12,6621, Gesten,2900000 ,22-09-2005,Alm. Salg,207,14010,5,2002,
 575,Villa,Hvedevænget 22,6600, Vejen,712757 ,21-09-2005,Andet,195,3655,6,1973,
 575,Villa,Vestervang 60,6650, Brørup,105730 ,21-09-2005,Alm. Salg,170,622,4,2007,
 575,Villa,Chr Sørensensvej 3,6630, Rødding,600000 ,20-09-2005,Alm. Salg,133,4511,4,1947,
@@ -10475,11 +10387,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Nedersøparken 40,6630, Rødding,202000 ,05-04-2005,Alm. Salg,191,1058,4,2007,
 575,Villa,Slåenvej 7,6600, Vejen,750000 ,04-04-2005,Alm. Salg,108,6944,4,1964,
 575,Villa,Overmarken 46,6670, Holsted,1180000 ,04-04-2005,Alm. Salg,140,8429,5,1997,
-575,Ejerlejlighed,Ramsherred 2B,6630, Rødding,380000 ,03-04-2005,Alm. Salg,75,5067,4,1936,
-575,Ejerlejlighed,Ramsherred 2A,6630, Rødding,380000 ,03-04-2005,Alm. Salg,78,4872,2,1923,
-575,Ejerlejlighed,"Låsledvej 1, 1",6630, Rødding,380000 ,03-04-2005,Alm. Salg,170,2235,7,1923,
-575,Ejerlejlighed,"Låsledvej 1, st. th",6630, Rødding,380000 ,03-04-2005,Alm. Salg,112,3393,4,1923,
-575,Ejerlejlighed,"Låsledvej 1, st. tv",6630, Rødding,380000 ,03-04-2005,Alm. Salg,36,10556,1,1923,
 575,Villa,Esbjergvej 18,6600, Vejen,1535000 ,03-04-2005,Alm. Salg,239,6423,6,1895,
 575,Villa,Fabriksvej 13,6600, Vejen,827000 ,03-04-2005,Alm. Salg,90,9189,4,1961,
 575,Villa,Baslund 85,6600, Vejen,206586 ,03-04-2005,Alm. Salg,194,1065,5,2006,
@@ -10743,7 +10650,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Jels Skovvej 14,6630, Rødding,1195000 ,24-11-2004,Alm. Salg,198,6035,6,1852,
 575,Villa,Holmeåvænget 46,6682, Hovborg,650000 ,24-11-2004,Alm. Salg,105,6190,5,1984,
 575,Villa,Allegade 49,6650, Brørup,760000 ,23-11-2004,Alm. Salg,99,7677,3,1979,
-575,Villa,Integade 5,6600, Vejen,635000 ,23-11-2004,Alm. Salg,81,7840,3,1927,
 575,Villa,Bakstolvej 7,6630, Rødding,990000 ,23-11-2004,Alm. Salg,167,5928,4,1952,
 575,Villa,Syrenvej 26,6650, Brørup,995000 ,23-11-2004,Alm. Salg,130,7654,5,1976,
 575,Villa,Vestergyden 19,6600, Vejen,1360000 ,21-11-2004,Fam. Salg,277,4910,8,1875,
@@ -10816,10 +10722,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Galgetoften 61,6630, Rødding,1160000 ,18-10-2004,Alm. Salg,195,5949,7,1977,
 575,Villa,Låsledvej 2,6630, Rødding,200000 ,18-10-2004,Alm. Salg,170,1176,8,1906,
 575,Rækkehus,Grammingtoften 16A,6630, Rødding,400000 ,17-10-2004,Alm. Salg,66,6061,2,1980,
-575,Rækkehus,Øster Alle 58B,6600, Vejen,895000 ,17-10-2004,Alm. Salg,121,7397,4,1919,
 575,Villa,Vesterled 6,6600, Vejen,580000 ,17-10-2004,Alm. Salg,101,5743,4,1953,
 575,Villa,Skolegade 21,6630, Rødding,695000 ,17-10-2004,Alm. Salg,136,5110,6,1963,
-575,Villa,Læborgvej 42,6600, Vejen,895000 ,17-10-2004,Alm. Salg,135,6630,4,1946,
 575,Villa,Nedersøparken 13,6630, Rødding,206000 ,17-10-2004,Alm. Salg,167,1234,7,2005,
 575,Villa,Lille Veumvej 4,6650, Brørup,760000 ,15-10-2004,Alm. Salg,134,5672,5,1963,
 575,Villa,Plantagevej 20,6600, Vejen,995000 ,15-10-2004,Alm. Salg,148,6723,5,1948,
@@ -10855,7 +10759,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Nørregade 31,6622, Bække,565000 ,30-09-2004,Alm. Salg,95,5947,3,1937,
 575,Villa,Bækkevej 8,6650, Brørup,550000 ,29-09-2004,Alm. Salg,122,4508,5,1952,
 575,Villa,Vestervang 104,6650, Brørup,1375000 ,29-09-2004,Alm. Salg,151,9106,5,1998,
-575,Villa,Ladelundvej 37,6650, Brørup,1918200 ,29-09-2004,Alm. Salg,315,6090,11,1952,
 575,Rækkehus,Østervang 15,6630, Rødding,360000 ,28-09-2004,Alm. Salg,73,4932,2,1952,
 575,Rækkehus,Vejenvej 36F,6600, Vejen,1045000 ,28-09-2004,Alm. Salg,90,11611,4,2004,
 575,Ejerlejlighed,Baungårdsvej 4A,6600, Vejen,432000 ,28-09-2004,Alm. Salg,57,7579,2,1935,
@@ -11254,7 +11157,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Åhaven 5,6600, Vejen,1700000 ,25-02-2004,Alm. Salg,234,7265,6,1966,
 575,Villa,Humlundvej 1,6752, Glejbjerg,687354 ,23-02-2004,Alm. Salg,265,2594,5,1880,
 575,Villa,Præstevænget 8,6630, Rødding,609451 ,23-02-2004,Alm. Salg,107,5696,4,1963,
-575,Ejerlejlighed,Jyllandsgade 9F,6600, Vejen,1300000 ,22-02-2004,Alm. Salg,105,12381,3,1962,
 575,Villa,Fitting Stationsvej 13,6622, Bække,350000 ,22-02-2004,Alm. Salg,123,2846,3,1948,
 575,Villa,Svalevej 34,6600, Vejen,1138800 ,22-02-2004,Alm. Salg,131,8693,5,1962,
 575,Villa,Vesterled 31,6650, Brørup,1225000 ,22-02-2004,Alm. Salg,153,8007,7,1985,
@@ -11293,9 +11195,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Rosengade 79,6600, Vejen,910000 ,05-02-2004,Alm. Salg,168,5417,6,1965,
 575,Villa,Kongevej 20,6630, Rødding,1095000 ,05-02-2004,Alm. Salg,200,5475,6,1887,
 575,Villa,Rødding Toftevej 18,6630, Rødding,615000 ,05-02-2004,Alm. Salg,120,5125,4,1956,
-575,Ejerlejlighed,"Allegade 1, st",6650, Brørup,1358423 ,04-02-2004,Alm. Salg,101,13450,3,2005,
-575,Ejerlejlighed,"Allegade 1, 1. th",6650, Brørup,1358423 ,04-02-2004,Alm. Salg,127,10696,4,2005,
-575,Ejerlejlighed,"Allegade 1, 1. tv",6650, Brørup,1358423 ,04-02-2004,Alm. Salg,124,10955,4,2005,
 575,Villa,Sandmarken 27,6600, Vejen,900000 ,04-02-2004,Alm. Salg,208,4327,6,1970,
 575,Villa,Tobøl Mosevej 1,6683, Føvling,540000 ,04-02-2004,Alm. Salg,135,4000,4,1954,
 575,Villa,Gamstvej 22A,6600, Vejen,776003 ,04-02-2004,Andet,164,4732,3,2015,
@@ -11323,15 +11222,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Kirsebærvej 24,6600, Vejen,1125000 ,22-01-2004,Alm. Salg,147,7653,5,1977,
 575,Villa,Knudevejen 18,6600, Vejen,1487500 ,22-01-2004,Auktion,300,4958,8,1977,
 575,Villa,Nørregade 43,6622, Bække,430000 ,22-01-2004,Alm. Salg,108,3981,4,1938,
-575,Ejerlejlighed,"Allegade 3, 1",6650, Brørup,921333 ,21-01-2004,Alm. Salg,93,9907,3,2005,
-575,Ejerlejlighed,"Allegade 3, st",6650, Brørup,921333 ,21-01-2004,Alm. Salg,93,9907,3,2005,
-575,Ejerlejlighed,"Vandværksvej 2, st. th",6650, Brørup,921333 ,21-01-2004,Alm. Salg,79,11662,3,2005,
-575,Ejerlejlighed,"Vandværksvej 2, st. tv",6650, Brørup,921333 ,21-01-2004,Alm. Salg,78,11812,3,2005,
-575,Ejerlejlighed,"Vandværksvej 2, 1. th",6650, Brørup,921333 ,21-01-2004,Alm. Salg,79,11662,3,2005,
-575,Ejerlejlighed,"Vandværksvej 2, 1. tv",6650, Brørup,921333 ,21-01-2004,Alm. Salg,78,11812,3,2005,
-575,Ejerlejlighed,"Allegade 1, st",6650, Brørup,921333 ,21-01-2004,Alm. Salg,101,9122,3,2005,
-575,Ejerlejlighed,"Allegade 1, 1. th",6650, Brørup,921333 ,21-01-2004,Alm. Salg,127,7255,4,2005,
-575,Ejerlejlighed,"Allegade 1, 1. tv",6650, Brørup,921333 ,21-01-2004,Alm. Salg,124,7430,4,2005,
 575,Villa,Jelsvej 9,6630, Rødding,835000 ,20-01-2004,Alm. Salg,247,3381,6,1900,
 575,Villa,Rødding Bakkevej 7,6630, Rødding,550000 ,20-01-2004,Alm. Salg,92,5978,3,1959,
 575,Ejerlejlighed,"Fynsgade 15, 1. th",6600, Vejen,808387 ,19-01-2004,Alm. Salg,87,9292,2,1958,
@@ -11428,8 +11318,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Skodborg Søndergade 56,6630, Rødding,775000 ,25-11-2003,Alm. Salg,146,5308,5,1937,
 575,Villa,Skolegade 21,6650, Brørup,535000 ,25-11-2003,Alm. Salg,129,4147,3,1952,
 575,Villa,Askov Kirkevej 4,6600, Vejen,675000 ,25-11-2003,Alm. Salg,131,5153,4,1912,
-575,Ejerlejlighed,Skovlundvej 1,6660, Lintrup,280000 ,24-11-2003,Fam. Salg,39,7179,1,2011,
-575,Villa,Skovlundvej 1,6660, Lintrup,280000 ,24-11-2003,Fam. Salg,323,867,7,2011,
 575,Villa,Lykkeskærvej 18,6670, Holsted,497000 ,24-11-2003,Auktion,219,2269,7,1900,
 575,Villa,Skodborg Møllegade 5,6630, Rødding,485000 ,24-11-2003,Alm. Salg,108,4491,4,1964,
 575,Villa,Smedevej 1,6683, Føvling,430000 ,23-11-2003,Alm. Salg,125,3440,6,1944,
@@ -11670,7 +11558,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Gyvelvej 71,6621, Gesten,885000 ,28-07-2003,Alm. Salg,179,4944,7,1979,
 575,Villa,Stationsvej 22,6622, Bække,790000 ,27-07-2003,Alm. Salg,155,5097,5,1979,
 575,Villa,Vittrup Baunevej 1A,6650, Brørup,700000 ,27-07-2003,Alm. Salg,138,5072,4,1978,
-575,Ejerlejlighed,Jyllandsgade 9F,6600, Vejen,1125000 ,24-07-2003,Alm. Salg,105,10714,3,1962,
 575,Villa,Jels Skovvej 22,6630, Rødding,260000 ,21-07-2003,Fam. Salg,258,1008,6,1907,
 575,Villa,Østervang 8,6630, Rødding,580000 ,21-07-2003,Alm. Salg,92,6304,3,1960,
 575,Villa,Rødding Tværvej 10,6630, Rødding,840000 ,17-07-2003,Alm. Salg,135,6222,5,1972,
@@ -11922,7 +11809,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Rækkehus,Østre Alle 10,6670, Holsted,378220 ,20-02-2003,Alm. Salg,95,3981,3,1915,
 575,Villa,Industrivej 14,6630, Rødding,3000000 ,20-02-2003,Alm. Salg,321,9346,9,1974,
 575,Villa,Fredensvej 12,6650, Brørup,889268 ,20-02-2003,Fam. Salg,136,6539,4,1950,
-575,Villa,Skodborg Søndergade 38,6630, Rødding,187000 ,19-02-2003,Alm. Salg,80,2338,3,1900,
 575,Villa,Krøgebækvej 34,6682, Hovborg,280642 ,18-02-2003,Andet,117,2399,5,1950,
 575,Villa,Hedevangen 14,6670, Holsted,1007213 ,18-02-2003,Alm. Salg,135,7461,4,1996,
 575,Villa,Hovedgaden 15,6621, Gesten,899298 ,16-02-2003,Alm. Salg,140,6424,4,1897,
@@ -12237,9 +12123,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Rækkehus,Jyllandsgade 9E,6600, Vejen,862820 ,25-08-2002,Alm. Salg,97,8895,4,1999,
 575,Villa,Bakkevænge 16,6630, Rødding,555000 ,25-08-2002,Alm. Salg,171,3246,6,1970,
 575,Villa,Lyngparken 12,6670, Holsted,926078 ,25-08-2002,Alm. Salg,165,5613,5,1981,
-575,Rækkehus,Lindknudvej 26C,6650, Brørup,800000 ,23-08-2002,Alm. Salg,82,9756,3,1930,
 575,Villa,Søndermarken 9,6630, Rødding,550000 ,23-08-2002,Alm. Salg,149,3691,5,1964,
-575,Villa,Lindknudvej 26A,6650, Brørup,800000 ,23-08-2002,Alm. Salg,208,3846,7,1930,
 575,Rækkehus,Rosengade 30A,6600, Vejen,560000 ,22-08-2002,Alm. Salg,63,8889,2,1986,
 575,Villa,Hennekesdamvej 6,6630, Rødding,790000 ,22-08-2002,Alm. Salg,225,3511,6,1970,
 575,Villa,Nymark 4,6630, Rødding,1140000 ,22-08-2002,Alm. Salg,161,7081,4,1877,
@@ -12491,7 +12375,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Frederiksbergvej 59,6600, Vejen,840000 ,17-03-2002,Alm. Salg,159,5283,4,1924,
 575,Villa,Plantagevej 17,6600, Vejen,730000 ,17-03-2002,Alm. Salg,111,6577,5,1923,
 575,Villa,Anemonevej 2,6650, Brørup,1015000 ,15-03-2002,Alm. Salg,210,4833,6,1973,
-575,Ejerlejlighed,Jyllandsgade 9F,6600, Vejen,1125000 ,14-03-2002,Alm. Salg,105,10714,3,1962,
 575,Villa,Søndergyden 3,6630, Rødding,795000 ,14-03-2002,Alm. Salg,210,3786,7,1930,
 575,Villa,Krokusvej 13,6650, Brørup,700000 ,14-03-2002,Alm. Salg,118,5932,4,1973,
 575,Villa,Skjoldborgsvej 5,6600, Vejen,682018 ,13-03-2002,Alm. Salg,103,6622,4,1966,
@@ -12537,7 +12420,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Lindknudvej 33,6650, Brørup,725000 ,23-02-2002,Alm. Salg,138,5254,5,1932,
 575,Villa,Rosengade 71,6600, Vejen,428000 ,20-02-2002,Alm. Salg,102,4196,4,1943,
 575,Villa,Solvang 10,6600, Vejen,720246 ,20-02-2002,Alm. Salg,96,7503,4,1954,
-575,Ejerlejlighed,Nørregade 21E,6670, Holsted,375000 ,19-02-2002,Alm. Salg,55,6818,2,1915,
 575,Villa,Skodborg Kirkevej 13,6630, Rødding,475000 ,19-02-2002,Alm. Salg,301,1578,7,2020,
 575,Villa,Østre Alle 33,6650, Brørup,640000 ,19-02-2002,Alm. Salg,140,4571,4,1967,
 575,Villa,Rugtoften 12,6630, Rødding,470000 ,18-02-2002,Alm. Salg,112,4196,4,1974,
@@ -12722,7 +12604,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Ribe-Vejle Landevej 91,6622, Bække,200000 ,04-11-2001,Fam. Salg,62,3226,3,1964,
 575,Villa,Nygade 5,6600, Vejen,450000 ,02-11-2001,Alm. Salg,152,2961,5,1900,
 575,Villa,Glibstrupvej 8,6600, Vejen,380000 ,01-11-2001,Alm. Salg,173,2197,4,1919,
-575,Villa,Skolegade 3,6600, Vejen,450000 ,01-11-2001,Alm. Salg,99,4545,4,1920,
 575,Villa,Tirslundvej 49,6650, Brørup,1001000 ,01-11-2001,Alm. Salg,205,4883,9,1914,
 575,Rækkehus,Lynggårdshaven 4,6600, Vejen,995000 ,31-10-2001,Alm. Salg,107,9299,4,2001,
 575,Villa,Grunnetsgade 32,6600, Vejen,532387 ,31-10-2001,Alm. Salg,133,4003,5,1956,
@@ -12861,7 +12742,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Mågevej 33,6600, Vejen,775000 ,20-08-2001,Alm. Salg,188,4122,7,1967,
 575,Villa,Gettrupvej 32,6670, Holsted,250000 ,19-08-2001,Alm. Salg,81,3086,3,1888,
 575,Villa,Gunnarsvej 6,6600, Vejen,862324 ,19-08-2001,Alm. Salg,168,5133,6,1919,
-575,Villa,Skodborg Søndergade 38,6630, Rødding,985138 ,19-08-2001,Alm. Salg,80,12314,3,1900,
 575,Villa,Ellestrup 18,6600, Vejen,986371 ,19-08-2001,Alm. Salg,121,8152,4,1980,
 575,Villa,Tværvej 2,6650, Brørup,603329 ,16-08-2001,Alm. Salg,101,5974,2,1960,
 575,Villa,Ribe-Vejle Landevej 18,6622, Bække,270000 ,16-08-2001,Alm. Salg,70,3857,2,1970,
@@ -12872,9 +12752,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Baslund 71,6600, Vejen,138174 ,12-08-2001,Alm. Salg,162,853,5,2002,
 575,Villa,Mågevej 39,6600, Vejen,1198000 ,12-08-2001,Alm. Salg,164,7305,5,1979,
 575,Villa,Enghavevej 7,6630, Rødding,1010000 ,12-08-2001,Alm. Salg,175,5771,3,2022,
-575,Rækkehus,Maltvej 7,6600, Vejen,1596297 ,10-08-2001,Alm. Salg,125,12770,1,1866,
 575,Villa,Terpvej 3,6630, Rødding,450000 ,10-08-2001,Alm. Salg,105,4286,4,1943,
-575,Villa,Maltvej 7B,6600, Vejen,1596297 ,10-08-2001,Alm. Salg,262,6093,6,1866,
 575,Villa,Skravevej 7,6630, Rødding,400688 ,09-08-2001,Alm. Salg,98,4089,4,1959,
 575,Villa,Mejlbyvej 26,6660, Lintrup,334334 ,08-08-2001,Fam. Salg,210,1592,7,1930,
 575,Villa,Gl. Skolevej 4,6600, Vejen,1103775 ,07-08-2001,Alm. Salg,246,4487,6,2014,
@@ -13219,7 +13097,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Vestergade 25,6670, Holsted,750000 ,16-01-2001,Alm. Salg,158,4747,5,1961,
 575,Villa,H P Andersens Alle 4,6650, Brørup,479044 ,15-01-2001,Alm. Salg,106,4519,4,1931,
 575,Villa,Skodborg Røddingvej 12,6630, Rødding,768720 ,15-01-2001,Fam. Salg,191,4025,7,1964,
-575,Villa,Fredensgade 9A,6600, Vejen,958883 ,15-01-2001,Alm. Salg,128,7491,5,1930,
 575,Villa,Vejlevej 42,6650, Brørup,459987 ,14-01-2001,Alm. Salg,105,4381,4,1892,
 575,Villa,Møgelmosevej 11,6630, Rødding,685000 ,14-01-2001,Alm. Salg,130,5269,4,1932,
 575,Villa,Kronborgvej 36,6600, Vejen,460000 ,14-01-2001,Alm. Salg,118,3898,5,1964,
@@ -13604,12 +13481,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Skodborgskovvej 10,6630, Rødding,1019802 ,22-05-2000,Alm. Salg,230,4434,9,1910,
 575,Villa,Lærkevej 18,6600, Vejen,830000 ,21-05-2000,Alm. Salg,178,4663,6,1968,
 575,Villa,Dalgårdsvej 105,6600, Vejen,1113989 ,21-05-2000,Alm. Salg,120,9283,4,1985,
-575,Rækkehus,Maltvej 7,6600, Vejen,1435436 ,17-05-2000,Alm. Salg,125,11483,1,1866,
 575,Villa,Hejrskovvej 1,6670, Holsted,185000 ,17-05-2000,Alm. Salg,194,954,7,1872,
 575,Villa,Hustedgade 4,6650, Brørup,495000 ,17-05-2000,Alm. Salg,206,2403,6,1917,
 575,Villa,Baungårdsvej 22,6600, Vejen,920000 ,17-05-2000,Alm. Salg,158,5823,3,1952,
 575,Villa,"Ribevej 56, st",6630, Rødding,362500 ,17-05-2000,Alm. Salg,150,2417,6,1920,
-575,Villa,Maltvej 7B,6600, Vejen,1435436 ,17-05-2000,Alm. Salg,262,5479,6,1866,
 575,Villa,Bobøl-Foldingbrovej 13,6683, Føvling,48000 ,15-05-2000,Alm. Salg,154,312,4,1908,
 575,Villa,Vestergade 29,6650, Brørup,429281 ,15-05-2000,Alm. Salg,88,4878,5,1917,
 575,Villa,Fredensvej 11,6650, Brørup,680000 ,15-05-2000,Andet,165,4121,4,1963,
@@ -13865,10 +13740,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Blichersvej 3,6600, Vejen,776834 ,07-12-1999,Alm. Salg,110,7062,4,1964,
 575,Villa,Jelsvej 8,6630, Rødding,81480 ,07-12-1999,Alm. Salg,288,283,9,1875,
 575,Villa,Surhavevej 19,6650, Brørup,510000 ,07-12-1999,Alm. Salg,183,2787,5,1970,
-575,Villa,Holtevej 1,6630, Rødding,400000 ,07-12-1999,Alm. Salg,145,2759,6,1926,
 575,Rækkehus,Rugtoften 82,6630, Rødding,480000 ,06-12-1999,Alm. Salg,86,5581,3,1982,
 575,Ejerlejlighed,"Nørregade 30, 1",6650, Brørup,525000 ,05-12-1999,Alm. Salg,58,9052,3,1895,
-575,Ejerlejlighed,"Jernbanegade 8, 1",6650, Brørup,850000 ,05-12-1999,Alm. Salg,110,7727,4,1929,
 575,Villa,Dalgårdsvej 155,6600, Vejen,126560 ,05-12-1999,Alm. Salg,157,806,5,2000,
 575,Villa,Møllevej 6,6600, Vejen,799700 ,05-12-1999,Alm. Salg,188,4254,6,1900,
 575,Villa,Mølleparken 29,6630, Rødding,875000 ,05-12-1999,Alm. Salg,153,5719,5,1974,
@@ -14104,10 +13977,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Rækkehus,Integade 2A,6600, Vejen,750000 ,05-08-1999,Alm. Salg,93,8065,3,1997,
 575,Villa,Vejenvej 29,6600, Vejen,690000 ,05-08-1999,Alm. Salg,182,3791,8,1926,
 575,Villa,Skodborg Vestergade 15,6630, Rødding,374683 ,05-08-1999,Alm. Salg,142,2639,6,1827,
-575,Ejerlejlighed,Ramsherred 2B,6630, Rødding,590000 ,04-08-1999,Alm. Salg,75,7867,4,1936,
-575,Ejerlejlighed,Ramsherred 2A,6630, Rødding,590000 ,04-08-1999,Alm. Salg,78,7564,2,1923,
-575,Ejerlejlighed,"Låsledvej 1, 1",6630, Rødding,590000 ,04-08-1999,Alm. Salg,170,3471,7,1923,
-575,Ejerlejlighed,"Låsledvej 1, st. th",6630, Rødding,590000 ,04-08-1999,Alm. Salg,112,5268,4,1923,
 575,Villa,Mejlbyvej 22,6660, Lintrup,254378 ,04-08-1999,Alm. Salg,82,3102,3,1950,
 575,Villa,Lærkevej 33,6600, Vejen,698240 ,04-08-1999,Alm. Salg,108,6465,4,1957,
 575,Villa,Overmarken 147,6670, Holsted,124410 ,04-08-1999,Alm. Salg,188,662,6,2001,
@@ -14363,7 +14232,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Ravnbjerg 4,6630, Rødding,925000 ,20-04-1999,Alm. Salg,120,7708,4,1976,
 575,Villa,Ørstedvej 7,6630, Rødding,715000 ,20-04-1999,Alm. Salg,128,5586,5,1970,
 575,Villa,Østergade 10,6650, Brørup,850000 ,20-04-1999,Alm. Salg,241,3527,9,1916,
-575,Villa,Fredensgade 9A,6600, Vejen,399500 ,20-04-1999,Alm. Salg,128,3121,5,1930,
 575,Villa,Harrebyvej 3,6630, Rødding,578000 ,19-04-1999,Fam. Salg,247,2340,4,2007,
 575,Villa,Egholtvej 36,6600, Vejen,425000 ,19-04-1999,Fam. Salg,140,3036,6,1900,
 575,Villa,Jelsvej 25,6630, Rødding,450573 ,19-04-1999,Alm. Salg,188,2397,6,1880,
@@ -14547,9 +14415,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Dalgårdsvej 121,6600, Vejen,1367000 ,22-01-1999,Alm. Salg,151,9053,5,1998,
 575,Villa,Asbovej 15,6600, Vejen,250000 ,21-01-1999,Alm. Salg,172,1453,6,1877,
 575,Villa,Træskodal 10,6630, Rødding,178500 ,21-01-1999,Fam. Salg,279,640,7,1963,
-575,Ejerlejlighed,"Nørregade 55, 1",6650, Brørup,260000 ,20-01-1999,Alm. Salg,49,5306,2,1900,
 575,Villa,Tulipanvej 2,6670, Holsted,497000 ,20-01-1999,Alm. Salg,93,5344,4,1967,
-575,Villa,"Nørregade 55, st",6650, Brørup,260000 ,20-01-1999,Alm. Salg,88,2955,5,1900,
 575,Villa,Vestervang 135,6650, Brørup,81700 ,20-01-1999,Alm. Salg,187,437,5,2003,
 575,Rækkehus,Frederiksbergvej 29M,6600, Vejen,647205 ,19-01-1999,Alm. Salg,124,5219,5,1988,
 575,Villa,Rosenvænget 8,6630, Rødding,133241 ,19-01-1999,Alm. Salg,335,238,14,2004,
@@ -15119,7 +14985,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Østergade 19,6650, Brørup,670266 ,10-05-1998,Alm. Salg,158,4242,5,1912,
 575,Villa,Bækkegård 28,6622, Bække,909000 ,08-05-1998,Alm. Salg,112,8116,4,1986,
 575,Villa,Ø. Gesten Mosevej 6,6621, Gesten,712088 ,07-05-1998,Alm. Salg,167,4264,4,1900,
-575,Ejerlejlighed,Jyllandsgade 9F,6600, Vejen,325000 ,06-05-1998,Alm. Salg,105,3095,3,1962,
 575,Ejerlejlighed,"Rødding Torvet 2, 1",6630, Rødding,725000 ,06-05-1998,Alm. Salg,126,5754,3,1930,
 575,Villa,Højskolevænget 6,6630, Rødding,1276000 ,06-05-1998,Alm. Salg,194,6577,5,1980,
 575,Villa,Toften 3,6670, Holsted,520000 ,06-05-1998,Alm. Salg,147,3537,4,1968,
@@ -15335,7 +15200,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Rækkehus,Søndervænget 5A,6650, Brørup,400000 ,15-02-1998,Alm. Salg,74,5405,3,1977,
 575,Villa,Gammelby Møllevej 1,6600, Vejen,1026000 ,15-02-1998,Alm. Salg,314,3268,10,1826,
 575,Villa,Rammelhøj 43,6630, Rødding,770446 ,15-02-1998,Alm. Salg,191,4034,8,1977,
-575,Villa,Maltvej 76,6600, Vejen,860000 ,15-02-1998,Alm. Salg,149,5772,4,1974,
 575,Villa,Kirkebakken 5,6600, Vejen,275000 ,15-02-1998,Alm. Salg,167,1647,6,1998,
 575,Villa,Dalgårdsvej 127,6600, Vejen,148520 ,15-02-1998,Alm. Salg,159,934,5,1998,
 575,Villa,Dalgårdsvej 131,6600, Vejen,176040 ,15-02-1998,Alm. Salg,186,946,7,1998,
@@ -15455,7 +15319,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Dalbækvej 2A,6670, Holsted,387250 ,21-12-1997,Alm. Salg,445,735,12,1999,
 575,Villa,Rytterdam 3,6630, Rødding,290000 ,21-12-1997,Fam. Salg,187,1551,5,1900,
 575,Rækkehus,Høgevej 12B,6600, Vejen,493700 ,20-12-1997,Alm. Salg,84,5877,3,1978,
-575,Ejerlejlighed,Farrisvej 11C,6630, Rødding,1200000 ,20-12-1997,Alm. Salg,140,8571,3,1907,
 575,Villa,Grunnetsgade 35,6600, Vejen,719370 ,18-12-1997,Alm. Salg,180,3997,5,1943,
 575,Villa,Timmermannsvej 8,6630, Rødding,489921 ,17-12-1997,Alm. Salg,110,4454,4,1978,
 575,Villa,Jelsvej 21,6630, Rødding,288000 ,17-12-1997,Alm. Salg,120,2400,4,1957,
@@ -15501,9 +15364,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Treagervej 8,6670, Holsted,445000 ,25-11-1997,Alm. Salg,115,3870,4,1954,
 575,Villa,Rødding Birkevej 11B,6630, Rødding,132000 ,25-11-1997,Alm. Salg,182,725,6,1998,
 575,Villa,Bryggergade 9,6600, Vejen,650000 ,25-11-1997,Alm. Salg,104,6250,5,1920,
-575,Ejerlejlighed,"Søndergade 33, st",6650, Brørup,499737 ,24-11-1997,Alm. Salg,80,6247,3,1910,
-575,Ejerlejlighed,"Søndergade 33, 1",6650, Brørup,499737 ,24-11-1997,Alm. Salg,45,11105,3,1910,
-575,Ejerlejlighed,Fredensvej 2A,6650, Brørup,499737 ,24-11-1997,Alm. Salg,47,10633,1,1910,
 575,Villa,Gammelbyvej 26,6600, Vejen,307344 ,24-11-1997,Alm. Salg,128,2401,4,1922,
 575,Villa,Tulipanvej 4,6670, Holsted,523000 ,24-11-1997,Alm. Salg,104,5029,3,1969,
 575,Villa,Vorbassevej 9,6682, Hovborg,800000 ,24-11-1997,Alm. Salg,192,4167,7,1868,
@@ -15643,7 +15503,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Kærvej 3,6650, Brørup,810000 ,04-10-1997,Alm. Salg,147,5510,4,1938,
 575,Villa,Kulsviervej 5,6630, Rødding,822489 ,03-10-1997,Alm. Salg,280,2937,8,1877,
 575,Villa,Birkevænget 48,6600, Vejen,929600 ,03-10-1997,Alm. Salg,201,4625,4,1968,
-575,Rækkehus,Maltvej 4B,6600, Vejen,600000 ,02-10-1997,Alm. Salg,84,7143,3,1972,
 575,Villa,Estrupvej 1,6600, Vejen,434112 ,02-10-1997,Alm. Salg,138,3146,5,1938,
 575,Villa,Industriparken 3,6630, Rødding,1050000 ,02-10-1997,Alm. Salg,214,4907,4,1977,
 575,Villa,Gammelbyvej 59,6600, Vejen,570447 ,02-10-1997,Alm. Salg,276,2067,9,1877,
@@ -15925,7 +15784,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Nygade 16,6650, Brørup,220300 ,05-06-1997,Alm. Salg,72,3060,3,1950,
 575,Villa,Tøxensvej 2,6630, Rødding,369085 ,04-06-1997,Alm. Salg,249,1482,10,1914,
 575,Villa,Nørrevænget 4,6670, Holsted,526095 ,04-06-1997,Fam. Salg,102,5158,4,1980,
-575,Rækkehus,Maltvej 4B,6600, Vejen,491000 ,03-06-1997,Alm. Salg,84,5845,3,1972,
 575,Villa,Rugtoften 3,6630, Rødding,831000 ,03-06-1997,Alm. Salg,145,5731,4,1974,
 575,Villa,Rosenvænget 16,6630, Rødding,648000 ,03-06-1997,Alm. Salg,178,3640,5,1983,
 575,Villa,Hovedgaden 11,6621, Gesten,246000 ,03-06-1997,Alm. Salg,134,1836,5,1912,
@@ -16004,7 +15862,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Nørregade 36,6622, Bække,395000 ,08-05-1997,Alm. Salg,122,3238,7,1948,
 575,Villa,Svalevej 8,6600, Vejen,385279 ,08-05-1997,Alm. Salg,78,4939,2,1962,
 575,Ejerlejlighed,"Vejlevej 21, 1",6650, Brørup,700000 ,06-05-1997,Alm. Salg,158,4430,4,1941,
-575,Villa,Sommerlyst 18A,6630, Rødding,236000 ,06-05-1997,Alm. Salg,110,2145,4,1999,
 575,Villa,Egevænget 55,6600, Vejen,728000 ,06-05-1997,Alm. Salg,179,4067,6,1976,
 575,Villa,Baslund 101,6600, Vejen,168211 ,06-05-1997,Alm. Salg,167,1007,5,1997,
 575,Villa,Skovvej 29,6650, Brørup,535000 ,06-05-1997,Alm. Salg,163,3282,5,1965,
@@ -16803,9 +16660,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Åbøllingvej 31,6683, Føvling,845000 ,03-06-1996,Alm. Salg,150,5633,6,1910,
 575,Rækkehus,Mølleparken 24F,6630, Rødding,335000 ,02-06-1996,Alm. Salg,69,4855,2,1980,
 575,Rækkehus,Overmarken 31B,6670, Holsted,166733 ,02-06-1996,Alm. Salg,90,1853,4,1979,
-575,Ejerlejlighed,"Søndergade 33, st",6650, Brørup,343000 ,02-06-1996,Alm. Salg,80,4288,3,1910,
-575,Ejerlejlighed,"Søndergade 33, 1",6650, Brørup,343000 ,02-06-1996,Alm. Salg,45,7622,3,1910,
-575,Ejerlejlighed,Fredensvej 2A,6650, Brørup,343000 ,02-06-1996,Alm. Salg,47,7298,1,1910,
 575,Villa,Gyvelvej 18,6621, Gesten,448000 ,02-06-1996,Alm. Salg,120,3733,3,1968,
 575,Villa,Vesterled 95,6650, Brørup,65000 ,02-06-1996,Alm. Salg,179,363,6,1997,
 575,Villa,Tirslundvej 49,6650, Brørup,706000 ,02-06-1996,Alm. Salg,205,3444,9,1914,
@@ -16849,7 +16703,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Askov Kirkevej 2,6600, Vejen,979000 ,19-05-1996,Alm. Salg,250,3916,6,1908,
 575,Villa,Rammelhøj 34,6630, Rødding,723000 ,18-05-1996,Alm. Salg,198,3652,6,1978,
 575,Villa,Fredensvej 5,6650, Brørup,555000 ,17-05-1996,Alm. Salg,102,5441,4,1963,
-575,Ejerlejlighed,"Søndergade 1, 1",6600, Vejen,1570989 ,16-05-1996,Andet,134,11724,4,1907,
 575,Villa,Sommerlyst 1,6630, Rødding,470080 ,16-05-1996,Alm. Salg,328,1433,6,1887,
 575,Villa,Østergade 35,6600, Vejen,1256000 ,16-05-1996,Alm. Salg,145,8662,7,1933,
 575,Villa,Birkevænget 70,6600, Vejen,212500 ,16-05-1996,Fam. Salg,126,1687,5,1969,
@@ -16878,11 +16731,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Skolegade 46,6670, Holsted,175000 ,07-05-1996,Alm. Salg,150,1167,3,1948,
 575,Villa,Nordhaven 1,6630, Rødding,741000 ,07-05-1996,Alm. Salg,218,3399,6,1974,
 575,Villa,Vester Alle 24,6600, Vejen,465000 ,06-05-1996,Alm. Salg,110,4227,5,1960,
-575,Rækkehus,Nørregade 15B,6622, Bække,602363 ,05-05-1996,Alm. Salg,76,7926,2,1917,
 575,Villa,Klovtoftvej 1,6630, Rødding,720000 ,05-05-1996,Alm. Salg,206,3495,6,1925,
-575,Villa,Borgergade 70,6752, Glejbjerg,1425000 ,05-05-1996,Alm. Salg,185,7703,7,1934,
 575,Villa,Åbrinken 13,6752, Glejbjerg,195000 ,05-05-1996,Alm. Salg,90,2167,3,1955,
-575,Villa,Nørregade 15A,6622, Bække,602363 ,05-05-1996,Alm. Salg,191,2789,8,1917,
 575,Villa,Øster Åstrupvej 6,6752, Glejbjerg,400000 ,05-05-1996,Alm. Salg,160,2500,6,1923,
 575,Villa,Baungårdsvej 30,6600, Vejen,525000 ,05-05-1996,Alm. Salg,98,5357,3,1965,
 575,Villa,Kildevænget 29,6600, Vejen,750000 ,05-05-1996,Alm. Salg,146,5137,4,1973,
@@ -17022,7 +16872,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Svalevej 26,6600, Vejen,393000 ,29-02-1996,Alm. Salg,88,4466,2,1961,
 575,Villa,Jægersborgvej 7,6630, Rødding,400000 ,29-02-1996,Fam. Salg,176,2273,7,1955,
 575,Villa,Hedegårdsvej 2,6670, Holsted,141000 ,29-02-1996,Alm. Salg,200,705,8,1917,
-575,Villa,Fredensgade 9A,6600, Vejen,685000 ,29-02-1996,Alm. Salg,128,5352,5,1930,
 575,Villa,Skodborg Møllegade 13A,6630, Rødding,615000 ,29-02-1996,Alm. Salg,178,3455,8,1974,
 575,Rækkehus,Rugtoften 94,6630, Rødding,325000 ,28-02-1996,Alm. Salg,109,2982,4,1980,
 575,Villa,Haraldsholmvej 12,6630, Rødding,300000 ,28-02-1996,Alm. Salg,100,3000,4,1907,
@@ -17211,7 +17060,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Grindstedvej 56,6682, Hovborg,200000 ,28-11-1995,Alm. Salg,182,1099,6,1915,
 575,Villa,Dalgårdsvej 35,6600, Vejen,900000 ,28-11-1995,Alm. Salg,137,6569,4,1987,
 575,Villa,Østergade 28,6600, Vejen,1125000 ,27-11-1995,Alm. Salg,185,6081,6,1936,
-575,Ejerlejlighed,"Sønderalle 1, 1",6630, Rødding,2350000 ,26-11-1995,Alm. Salg,192,12240,5,1903,
 575,Villa,Hustedvej 5A,6600, Vejen,1140000 ,26-11-1995,Alm. Salg,110,10364,4,1890,
 575,Villa,Kjeldbjergvej 2,6600, Vejen,56000 ,24-11-1995,Alm. Salg,120,467,4,1934,
 575,Villa,Rolighedsvej 6,6670, Holsted,495000 ,23-11-1995,Alm. Salg,154,3214,4,1961,
@@ -17246,7 +17094,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Kornmarken 12,6650, Brørup,638000 ,12-11-1995,Alm. Salg,193,3306,5,1977,
 575,Rækkehus,Brøndsvej 8B,6600, Vejen,390000 ,10-11-1995,Alm. Salg,61,6393,2,1987,
 575,Villa,Torps Alle 43,6600, Vejen,927000 ,10-11-1995,Alm. Salg,242,3831,6,1961,
-575,Ejerlejlighed,Ribe-Vejle Landevej 85,6622, Bække,575000 ,09-11-1995,Alm. Salg,80,4563,6,1939,
 575,Villa,Borgergade 79,6752, Glejbjerg,322000 ,09-11-1995,Alm. Salg,94,2403,5,1951,
 575,Villa,Fredensgade 61,6670, Holsted,194893 ,08-11-1995,Alm. Salg,265,735,10,1997,
 575,Villa,Ellestrup 2,6600, Vejen,795000 ,08-11-1995,Alm. Salg,108,7361,4,1985,
@@ -17262,11 +17109,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Toften 34,6650, Brørup,865000 ,05-11-1995,Alm. Salg,135,6407,5,1986,
 575,Villa,Grenevej 17,6752, Glejbjerg,240000 ,03-11-1995,Fam. Salg,179,1341,7,1900,
 575,Rækkehus,Anemonevej 2,6670, Holsted,270000 ,02-11-1995,Alm. Salg,65,4154,3,1975,
-575,Ejerlejlighed,Tværgade 17A,6621, Gesten,1145000 ,02-11-1995,Alm. Salg,219,5228,4,1920,
 575,Villa,Vejlevej 16,6650, Brørup,325000 ,02-11-1995,Alm. Salg,192,1693,4,1827,
 575,Villa,Rahbæks Alle 6,6650, Brørup,390000 ,02-11-1995,Alm. Salg,257,1518,8,1937,
 575,Villa,Gyden 28,6600, Vejen,450000 ,02-11-1995,Alm. Salg,200,2250,5,1924,
-575,Villa,Tværgade 17,6621, Gesten,1145000 ,02-11-1995,Alm. Salg,303,3779,8,1920,
 575,Villa,Møllevej 9,6622, Bække,222000 ,02-11-1995,Fam. Salg,152,1461,4,1900,
 575,Villa,Skovbøllingvej 28,6752, Glejbjerg,150000 ,02-11-1995,Fam. Salg,72,2083,3,1875,
 575,Villa,Byagervej 57,6650, Brørup,683000 ,01-11-1995,Alm. Salg,128,5336,6,1977,
@@ -17415,10 +17260,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Grammingtoften 2,6630, Rødding,355003 ,03-09-1995,Alm. Salg,94,3777,4,1979,
 575,Villa,Rødding Nørregade 57,6630, Rødding,48025 ,03-09-1995,Alm. Salg,143,336,6,1996,
 575,Villa,Svalevej 8,6600, Vejen,350000 ,01-09-1995,Alm. Salg,78,4487,2,1962,
-575,Ejerlejlighed,"Borgergade 41, 1",6752, Glejbjerg,250000 ,31-08-1995,Alm. Salg,61,4098,2,1927,
 575,Villa,Eskelundvej Nord 14,6650, Brørup,95000 ,31-08-1995,Alm. Salg,138,688,3,1891,
 575,Villa,Æblevænget 13,6600, Vejen,915000 ,31-08-1995,Alm. Salg,194,4716,6,1973,
-575,Villa,"Borgergade 41, st",6752, Glejbjerg,250000 ,31-08-1995,Alm. Salg,82,3049,3,1927,
 575,Villa,Landboelsgade 14,6630, Rødding,291000 ,31-08-1995,Alm. Salg,126,2310,6,1948,
 575,Ejerlejlighed,"Nørregade 36, 1",6600, Vejen,595000 ,30-08-1995,Alm. Salg,109,5459,4,1900,
 575,Villa,Gammelengvej 35,6630, Rødding,240000 ,30-08-1995,Alm. Salg,150,1600,6,1930,
@@ -17473,7 +17316,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Ribe-Vejle Landevej 33,6622, Bække,325000 ,07-08-1995,Alm. Salg,100,3250,3,1954,
 575,Villa,Hedevangen 14,6670, Holsted,44666 ,07-08-1995,Alm. Salg,135,331,4,1996,
 575,Villa,Hedevangen 17,6670, Holsted,5000 ,07-08-1995,Alm. Salg,143,35,5,1996,
-575,Ejerlejlighed,Farrisvej 11C,6630, Rødding,100000 ,06-08-1995,Alm. Salg,140,714,3,1907,
 575,Villa,Rammelhøj 7,6630, Rødding,782000 ,06-08-1995,Alm. Salg,209,3742,6,1977,
 575,Villa,Rovedvej 24,6600, Vejen,1050000 ,06-08-1995,Fam. Salg,181,5801,5,1922,
 575,Villa,Frederiksbergvej 28,6600, Vejen,375000 ,06-08-1995,Alm. Salg,96,3906,4,1966,
@@ -17546,7 +17388,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Lourupvej 24,6690, Gørding,45000 ,04-07-1995,Alm. Salg,100,450,3,2022,
 575,Villa,Nygade 20,6621, Gesten,495000 ,03-07-1995,Alm. Salg,204,2426,7,1967,
 575,Villa,Lynggårdsvej 10,6600, Vejen,595000 ,03-07-1995,Alm. Salg,119,5000,5,1917,
-575,Villa,Skodborg Søndergade 25,6630, Rødding,5400000 ,02-07-1995,Alm. Salg,299,13846,12,1952,
 575,Villa,Bækkevej 19,6650, Brørup,130000 ,02-07-1995,Alm. Salg,74,1757,4,1900,
 575,Villa,Esbjergvej 83,6650, Brørup,480000 ,02-07-1995,Alm. Salg,186,2581,7,1930,
 575,Villa,Saturnvej 1,6600, Vejen,1050000 ,30-06-1995,Alm. Salg,183,5738,6,1972,
@@ -17588,7 +17429,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Stationsvej 6,6600, Vejen,349000 ,20-06-1995,Alm. Salg,138,2529,5,1914,
 575,Rækkehus,Rosengade 18B,6600, Vejen,390000 ,19-06-1995,Alm. Salg,49,7959,2,1988,
 575,Villa,Fællesmarksvej 22,6690, Gørding,573000 ,19-06-1995,Alm. Salg,145,3952,5,2002,
-575,Villa,Skovlundvej 1,6660, Lintrup,765000 ,19-06-1995,Fam. Salg,323,2368,7,2011,
 575,Villa,Lyngvej 9,6600, Vejen,517000 ,19-06-1995,Alm. Salg,116,4457,4,1966,
 575,Villa,Drostrupgårdvej 1,6600, Vejen,445000 ,19-06-1995,Alm. Salg,223,1996,7,1923,
 575,Villa,Hygumskovvej 24,6630, Rødding,144500 ,19-06-1995,Fam. Salg,155,932,6,1850,
@@ -17693,7 +17533,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Staushedevejen 19,6621, Gesten,470000 ,30-04-1995,Fam. Salg,208,2260,6,1910,
 575,Villa,Mølleparken 14,6630, Rødding,650000 ,30-04-1995,Alm. Salg,149,4362,5,1975,
 575,Villa,Ryttervej 30,6600, Vejen,485800 ,30-04-1995,Alm. Salg,129,3766,6,1979,
-575,Villa,Fredensgade 9A,6600, Vejen,565000 ,30-04-1995,Alm. Salg,128,4414,5,1930,
 575,Villa,Gammelbyvej 18,6600, Vejen,138833 ,27-04-1995,Fam. Salg,227,612,7,1877,
 575,Villa,Gyvelvej 15,6600, Vejen,376116 ,27-04-1995,Alm. Salg,186,1919,6,1970,
 575,Villa,Vestergade 5,6622, Bække,267000 ,27-04-1995,Alm. Salg,63,4238,3,1935,
@@ -17737,15 +17576,12 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Holmsmindevej 10,6600, Vejen,680000 ,07-04-1995,Alm. Salg,160,4250,5,1825,
 575,Villa,Fredensgade 42,6670, Holsted,350000 ,07-04-1995,Alm. Salg,147,2381,4,1960,
 575,Rækkehus,Nørrevænget 1,6670, Holsted,455000 ,06-04-1995,Alm. Salg,106,4292,4,1980,
-575,Villa,Søvej 9,6630, Rødding,713552 ,06-04-1995,Alm. Salg,66,10811,3,1825,
 575,Villa,Skovvænget 5,6630, Rødding,725500 ,05-04-1995,Alm. Salg,123,5898,4,1976,
 575,Villa,Galgetoften 51,6630, Rødding,613000 ,05-04-1995,Alm. Salg,134,4575,4,1977,
 575,Villa,Pilevej 8,6600, Vejen,552000 ,05-04-1995,Alm. Salg,153,3608,4,1969,
-575,Ejerlejlighed,Favrskovvej 23,6650, Brørup,324333 ,02-04-1995,Alm. Salg,154,2106,5,1864,
 575,Villa,Vestergade 26C,6670, Holsted,550000 ,02-04-1995,Alm. Salg,111,4955,4,1982,
 575,Villa,Torps Alle 3,6600, Vejen,915000 ,02-04-1995,Alm. Salg,207,4420,5,1932,
 575,Villa,Hedelundvej 1,6600, Vejen,485000 ,02-04-1995,Alm. Salg,221,2195,7,1890,
-575,Villa,Favrskovvej 23D,6650, Brørup,324333 ,02-04-1995,Alm. Salg,160,2027,3,1910,
 575,Villa,Fæsted Engvej 4,6630, Rødding,420000 ,01-04-1995,Alm. Salg,225,1867,7,1933,
 575,Villa,Øster Åstrupvej 6,6752, Glejbjerg,50000 ,31-03-1995,Alm. Salg,160,313,6,1923,
 575,Villa,Rødding Søndervang 1,6630, Rødding,289455 ,30-03-1995,Alm. Salg,120,2412,5,1947,
@@ -17938,8 +17774,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Tvedvej 1,6670, Holsted,625000 ,01-01-1995,Alm. Salg,196,3189,5,1880,
 575,Villa,Søndergade 37,6670, Holsted,264000 ,01-01-1995,Fam. Salg,172,1535,4,1925,
 575,Villa,Surhavevej 29,6650, Brørup,80000 ,29-12-1994,Alm. Salg,160,500,7,1852,
-575,Ejerlejlighed,Favrskovvej 23,6650, Brørup,273000 ,28-12-1994,Alm. Salg,154,1773,5,1864,
-575,Villa,Favrskovvej 23D,6650, Brørup,273000 ,28-12-1994,Alm. Salg,160,1706,3,1910,
 575,Villa,Stadionvej 4,6622, Bække,432000 ,26-12-1994,Alm. Salg,127,3402,3,1940,
 575,Ejerlejlighed,"Torvegade 2, 1. 6",6650, Brørup,180000 ,23-12-1994,Alm. Salg,86,2093,2,1930,
 575,Villa,Gejlager 8,6630, Rødding,1300000 ,22-12-1994,Alm. Salg,292,4452,9,2006,
@@ -17951,8 +17785,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Østre Alle 42,6650, Brørup,350000 ,19-12-1994,Alm. Salg,155,2258,5,1967,
 575,Villa,Staushedevejen 33,6621, Gesten,369000 ,18-12-1994,Alm. Salg,195,1892,4,1900,
 575,Villa,Kronborgvej 6,6600, Vejen,805000 ,18-12-1994,Alm. Salg,196,4107,6,1900,
-575,Ejerlejlighed,Tværgade 17A,6621, Gesten,1045000 ,17-12-1994,Alm. Salg,219,4772,4,1920,
-575,Villa,Tværgade 17,6621, Gesten,1045000 ,17-12-1994,Alm. Salg,303,3449,8,1920,
 575,Villa,Møllevej 4,6622, Bække,300000 ,15-12-1994,Alm. Salg,225,1333,7,1923,
 575,Villa,Skudstrup Markvej 4,6630, Rødding,354603 ,15-12-1994,Fam. Salg,173,2050,6,2013,
 575,Villa,Præstevænget 43,6630, Rødding,935000 ,15-12-1994,Andet,233,2467,17,1968,
@@ -18555,7 +18387,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Nygårdsvej 9,6600, Vejen,675000 ,08-03-1994,Alm. Salg,172,3924,6,1961,
 575,Villa,Rahbæks Alle 11,6650, Brørup,490000 ,08-03-1994,Alm. Salg,118,4153,4,1967,
 575,Villa,Solvang 15,6600, Vejen,435000 ,08-03-1994,Alm. Salg,82,5305,3,1956,
-575,Villa,Jels Søndergade 11B,6630, Rødding,340000 ,08-03-1994,Alm. Salg,89,3820,4,1912,
 575,Villa,Byagervej 54,6650, Brørup,580000 ,07-03-1994,Alm. Salg,154,3766,5,1976,
 575,Villa,Vanggårdsvej 4,6660, Lintrup,558000 ,07-03-1994,Alm. Salg,230,2426,7,1934,
 575,Villa,Nørregade 31,6622, Bække,175000 ,07-03-1994,Alm. Salg,95,1842,3,1937,
@@ -18689,7 +18520,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Kratvænget 11,6630, Rødding,820000 ,03-01-1994,Alm. Salg,137,5985,5,1984,
 575,Villa,Borgergade 104,6752, Glejbjerg,351000 ,02-01-1994,Alm. Salg,119,2950,4,1944,
 575,Villa,Jels Søndergade 36,6630, Rødding,335000 ,02-01-1994,Alm. Salg,187,1791,6,1931,
-575,Ejerlejlighed,Jyllandsgade 9F,6600, Vejen,432000 ,29-12-1993,Alm. Salg,105,4114,3,1962,
 575,Villa,Kronborgvej 14,6600, Vejen,360000 ,29-12-1993,Alm. Salg,120,3000,3,1951,
 575,Villa,Basholthusevej 2,6630, Rødding,177200 ,29-12-1993,Alm. Salg,100,1772,4,1700,
 575,Villa,Vestre Kirkevej 4,6630, Rødding,400000 ,27-12-1993,Alm. Salg,121,3306,4,1961,
@@ -18879,7 +18709,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Dovervej 36,6660, Lintrup,105000 ,04-10-1993,Alm. Salg,154,682,4,1893,
 575,Villa,Byagervej 92,6650, Brørup,625000 ,04-10-1993,Fam. Salg,140,4464,4,1976,
 575,Villa,Vinkelvej 17,6670, Holsted,530000 ,03-10-1993,Alm. Salg,148,3581,6,1974,
-575,Villa,Borgergade 70,6752, Glejbjerg,620000 ,03-10-1993,Alm. Salg,185,3351,7,1934,
 575,Villa,Ribevej 3,6650, Brørup,275000 ,03-10-1993,Alm. Salg,90,3056,4,1958,
 575,Villa,Kornmarken 11,6650, Brørup,592508 ,03-10-1993,Alm. Salg,182,3256,3,1977,
 575,Villa,Fredensgade 44,6670, Holsted,95239 ,03-10-1993,Alm. Salg,77,1237,3,1961,
@@ -18959,12 +18788,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Gammel Rovedvej 1,6600, Vejen,1200000 ,21-08-1993,Alm. Salg,379,3166,10,1900,
 575,Villa,Terpvej 5,6630, Rødding,303750 ,19-08-1993,Alm. Salg,122,2490,4,1949,
 575,Villa,Borgergade 18,6752, Glejbjerg,280000 ,19-08-1993,Alm. Salg,150,1867,6,1916,
-575,Ejerlejlighed,Østergade 1A,6650, Brørup,361000 ,18-08-1993,Alm. Salg,52,6942,2,1910,
-575,Ejerlejlighed,"Nørregade 26, 2",6650, Brørup,361000 ,18-08-1993,Alm. Salg,80,4513,4,1910,
-575,Ejerlejlighed,"Nørregade 26, 1. th",6650, Brørup,361000 ,18-08-1993,Alm. Salg,40,9025,2,1910,
-575,Ejerlejlighed,"Nørregade 26, 1. tv",6650, Brørup,361000 ,18-08-1993,Alm. Salg,80,4513,4,1910,
-575,Ejerlejlighed,"Bryggerstræde 10A, st. th",6650, Brørup,1070000 ,18-08-1993,Alm. Salg,80,13375,2,1892,
-575,Ejerlejlighed,Bryggerstræde 10,6650, Brørup,1070000 ,18-08-1993,Alm. Salg,70,7643,3,1986,
 575,Villa,Rammelhøj 14,6630, Rødding,580000 ,18-08-1993,Alm. Salg,152,3816,6,1977,
 575,Villa,Rosengade 53,6600, Vejen,540000 ,18-08-1993,Alm. Salg,120,4500,3,1946,
 575,Villa,Ryttervej 3,6600, Vejen,395000 ,18-08-1993,Alm. Salg,156,2532,5,1925,
@@ -19097,7 +18920,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Maltvej 34,6600, Vejen,260000 ,12-06-1993,Alm. Salg,165,1576,4,1900,
 575,Villa,Kløvervej 9,6630, Rødding,371000 ,08-06-1993,Alm. Salg,109,3404,4,1967,
 575,Villa,Terpvej 40,6630, Rødding,155000 ,08-06-1993,Alm. Salg,52,2981,2,1936,
-575,Ejerlejlighed,Jyllandsgade 9F,6600, Vejen,720000 ,07-06-1993,Alm. Salg,105,6857,3,1962,
 575,Villa,Vejenvej 21,6600, Vejen,818684 ,07-06-1993,Alm. Salg,200,4093,8,1923,
 575,Villa,Bobøl-Foldingbrovej 8,6683, Føvling,395000 ,07-06-1993,Alm. Salg,175,2257,6,1840,
 575,Villa,Hovedgaden 58,6621, Gesten,425000 ,07-06-1993,Alm. Salg,169,2515,8,1914,
@@ -19430,8 +19252,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 575,Villa,Grønnegade 11,6600, Vejen,435000 ,14-10-1992,Alm. Salg,85,5118,3,1952,
 575,Rækkehus,Torps Alle 9,6600, Vejen,295000 ,13-10-1992,Alm. Salg,88,3352,3,1916,
 575,Rækkehus,Lynggårdsvej 17B,6600, Vejen,519200 ,13-10-1992,Alm. Salg,93,5583,4,1997,
-575,Ejerlejlighed,Tværgade 17A,6621, Gesten,365000 ,13-10-1992,Alm. Salg,219,1667,4,1920,
-575,Villa,Tværgade 17,6621, Gesten,365000 ,13-10-1992,Alm. Salg,303,1205,8,1920,
 575,Villa,Folding Kirkevej 5,6650, Brørup,625000 ,13-10-1992,Alm. Salg,184,3397,6,1924,
 575,Villa,Kornmarken 10,6650, Brørup,620000 ,13-10-1992,Alm. Salg,215,2884,7,1978,
 575,Villa,Præstevænget 17,6630, Rødding,194186 ,12-10-1992,Fam. Salg,190,1022,7,1969,
