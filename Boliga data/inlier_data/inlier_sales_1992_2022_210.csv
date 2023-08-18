@@ -1,0 +1,458 @@
+municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,type_of_sale,square_meters,square_meters_price,rooms,year_of_construction,The percentage difference between the latest bid price and the sale price
+210,Rækkehus,Gl Strandvej 63B,3050, Humlebæk,5900000 ,20-12-2022,Alm. Salg,122,48361,3,1966,
+210,Villa,Hejreskov Alle 21,3050, Humlebæk,3200000 ,01-12-2022,Alm. Salg,76,42105,3,1951,-3%
+210,Villa,Kastanievej 37,3480, Fredensborg,3850000 ,30-11-2022,Alm. Salg,90,42778,5,1920,-4%
+210,Villa,Sørens Alle 3,3050, Humlebæk,5100000 ,28-11-2022,Alm. Salg,72,70833,3,1935,-7%
+210,Villa,Torpenvej 20,3050, Humlebæk,5550000 ,13-11-2022,Alm. Salg,122,45492,4,1906,
+210,Rækkehus,Kovangen 139B,3480, Fredensborg,3705000 ,08-11-2022,Alm. Salg,95,39000,4,1998,3%
+210,Villa,Sandvejen 38,3050, Humlebæk,17000000 ,08-11-2022,Alm. Salg,249,68273,7,1897,-6%
+210,Rækkehus,Brødregårdsvej 41,2980, Kokkedal,3400000 ,06-11-2022,Alm. Salg,89,38202,3,2005,-5%
+210,Villa,Niverød Bakke 42,2990, Nivå,5395000 ,02-11-2022,Alm. Salg,135,39963,4,2016,
+210,Villa,Skolebakken 11,3050, Humlebæk,13000000 ,01-11-2022,Alm. Salg,253,51383,4,2012,
+210,Villa,Møllevangen 10B,3480, Fredensborg,12500000 ,26-10-2022,Alm. Salg,255,49020,7,2019,-7%
+210,Villa,Ejlersvej 15,3050, Humlebæk,6100000 ,20-10-2022,Alm. Salg,145,42069,6,1958,-6%
+210,Villa,Kokkedal Stationsvej 15,2980, Kokkedal,2945000 ,19-10-2022,Alm. Salg,69,42681,3,1936,-2%
+210,Villa,Stationsvej 28,3480, Fredensborg,6250000 ,26-09-2022,Alm. Salg,123,50813,5,1820,-4%
+210,Villa,Birkevænget 16,3050, Humlebæk,6995000 ,18-09-2022,Alm. Salg,131,53397,5,2001,
+210,Villa,Humlebæk Strandvej 17,3050, Humlebæk,4250000 ,11-09-2022,Alm. Salg,106,40094,4,1974,
+210,Villa,Teglbakken 97,2990, Nivå,6222000 ,11-09-2022,Alm. Salg,159,39132,5,2023,0%
+210,Villa,Kastanievej 1,3480, Fredensborg,6250000 ,25-08-2022,Alm. Salg,164,38110,7,1900,
+210,Villa,Bogårdsvej 502,3050, Humlebæk,5795000 ,25-08-2022,Alm. Salg,142,40810,3,1971,
+210,Rækkehus,Gl Strandvej 145,3050, Humlebæk,14000000 ,24-08-2022,Alm. Salg,114,122807,5,1852,-12%
+210,Villa,Dageløkkevej 4,3050, Humlebæk,6495000 ,18-08-2022,Alm. Salg,80,81188,3,1800,
+210,Villa,Ole Kielbergs Vej 2,3050, Humlebæk,7200000 ,15-08-2022,Alm. Salg,175,41143,6,1999,-4%
+210,Villa,Solbakkevej 3,3050, Humlebæk,9900000 ,10-08-2022,Alm. Salg,172,57558,5,1996,
+210,Villa,Skovvænget 19,3480, Fredensborg,3725000 ,08-08-2022,Alm. Salg,82,45427,3,1958,-2%
+210,Villa,Jernbane Alle 6,3050, Humlebæk,7800000 ,01-08-2022,Alm. Salg,144,54167,6,1919,-2%
+210,Ejerlejlighed,Sølyst Strandpark 11,2990, Nivå,7500000 ,30-07-2022,Alm. Salg,150,50000,3,2010,
+210,Rækkehus,Åtoften 94,2990, Nivå,3495000 ,25-07-2022,Alm. Salg,92,37989,3,1970,
+210,Villa,Gl Strandvej 27,3050, Humlebæk,20650000 ,25-07-2022,Alm. Salg,221,93439,5,1915,-12%
+210,Villa,Linde Alle 10,3050, Humlebæk,9350000 ,16-07-2022,Alm. Salg,163,57362,5,1976,-15%
+210,Villa,Gl Strandvej 266,3050, Humlebæk,14800000 ,22-06-2022,Alm. Salg,231,64069,5,1900,
+210,Villa,Damsholtevej 9,2970, Hørsholm,3200000 ,06-06-2022,Alm. Salg,72,44444,3,1946,7%
+210,Rækkehus,Torphusene 4,3050, Humlebæk,4395000 ,05-06-2022,Alm. Salg,111,39595,4,2013,
+210,Villa,Gammel Strandvej 32,2990, Nivå,5606666 ,24-05-2022,Alm. Salg,125,44853,4,1900,2%
+210,Villa,Strand Alle 7,3050, Humlebæk,24000000 ,23-05-2022,Alm. Salg,400,60000,10,1900,-14%
+210,Villa,Niverød Bakke 36,2990, Nivå,6900000 ,21-05-2022,Alm. Salg,183,37705,5,2016,-1%
+210,Villa,Kastanie Alle 2,3050, Humlebæk,10250000 ,18-05-2022,Alm. Salg,177,57910,5,1912,-16%
+210,Villa,Langebjergvej 139,3050, Humlebæk,5800000 ,17-05-2022,Alm. Salg,135,42963,4,1959,
+210,Villa,Hejreskov Alle 28,3050, Humlebæk,9604000 ,14-05-2022,Alm. Salg,240,40017,8,1948,-2%
+210,Rækkehus,Langebjergvej 540,3050, Humlebæk,2350000 ,11-05-2022,Alm. Salg,62,37903,2,1991,
+210,Villa,Gl Strandvej 116C,3050, Humlebæk,9350000 ,10-05-2022,Alm. Salg,143,65385,5,1920,
+210,Villa,Bogårdsvej 318,3050, Humlebæk,6035000 ,05-05-2022,Alm. Salg,137,44051,5,1969,-1%
+210,Rækkehus,Daugløkke Ege 4,3050, Humlebæk,4980000 ,01-05-2022,Alm. Salg,125,39840,3,2018,0%
+210,Villa,Humlebæk Strandvej 137B,3050, Humlebæk,5700000 ,28-04-2022,Alm. Salg,149,38255,5,1987,-5%
+210,Rækkehus,Humlehaven 23,3050, Humlebæk,3370000 ,22-04-2022,Alm. Salg,83,40602,3,1961,-1%
+210,Villa,Svanevej 4,2990, Nivå,4500000 ,21-04-2022,Alm. Salg,120,37500,3,1980,
+210,Rækkehus,Baunebjergvej 104A,3050, Humlebæk,3795000 ,20-04-2022,Alm. Salg,100,37950,4,1979,
+210,Villa,Birkestien 4,2980, Kokkedal,4350000 ,14-04-2022,Alm. Salg,102,42647,3,1963,4%
+210,Villa,Kirkevangen 25,3480, Fredensborg,7700000 ,13-04-2022,Alm. Salg,190,40526,5,2021,-4%
+210,Rækkehus,Kystvej 16A,3050, Humlebæk,7000000 ,12-04-2022,Fam. Salg,149,46980,4,1987,
+210,Villa,Kastanievej 37,3480, Fredensborg,4045000 ,12-04-2022,Alm. Salg,90,44944,5,1920,1%
+210,Villa,Gl Strandvej 108,3050, Humlebæk,11125000 ,10-04-2022,Alm. Salg,174,63937,8,1897,
+210,Villa,Langkildeparken 6,3480, Fredensborg,7350000 ,08-04-2022,Alm. Salg,189,38889,6,2012,
+210,Villa,Gl Strandvej 1A,3050, Humlebæk,6525000 ,07-04-2022,Alm. Salg,92,70924,2,1850,19%
+210,Villa,Boserupvej 320,3050, Humlebæk,4595000 ,06-04-2022,Alm. Salg,118,38941,5,1966,
+210,Villa,Amalievej 4,3050, Humlebæk,8750000 ,27-03-2022,Alm. Salg,186,47043,7,1952,
+210,Villa,Strandvejen 345,2980, Kokkedal,8150000 ,24-03-2022,Alm. Salg,173,47110,4,1964,-19%
+210,Rækkehus,Daugløkke Ege 68,3050, Humlebæk,5745000 ,20-03-2022,Alm. Salg,116,49526,4,2008,
+210,Villa,Endrupvej 15,3480, Fredensborg,6500000 ,19-03-2022,Alm. Salg,161,40373,2,1940,
+210,Villa,Slotsgade 16,3480, Fredensborg,7800000 ,17-03-2022,Alm. Salg,170,45882,5,1727,-5%
+210,Rækkehus,Humlehaven 18,3050, Humlebæk,3400000 ,15-03-2022,Alm. Salg,88,38636,4,1961,
+210,Villa,Niverød Bakke 32,2990, Nivå,7400000 ,07-03-2022,Alm. Salg,190,38947,5,2017,-1%
+210,Villa,Skovparken 30,2990, Nivå,5100000 ,06-03-2022,Alm. Salg,123,41463,4,1985,-2%
+210,Villa,Hans Rostgårdsvej 28,3050, Humlebæk,8500000 ,26-02-2022,Alm. Salg,176,48295,6,1953,-3%
+210,Villa,Frederikkevej 17,3050, Humlebæk,6335000 ,24-02-2022,Alm. Salg,106,59764,5,1955,
+210,Villa,Niverød Bakke 65,2990, Nivå,5725000 ,24-02-2022,Alm. Salg,150,38167,4,2016,-1%
+210,Rækkehus,Gl Strandvej 192,3050, Humlebæk,9800000 ,23-02-2022,Alm. Salg,180,54444,6,1852,-2%
+210,Rækkehus,Humlehaven 10,3050, Humlebæk,2750000 ,13-02-2022,Alm. Salg,63,43651,3,1959,
+210,Rækkehus,Bregnevænget 48,3050, Humlebæk,4050000 ,10-02-2022,Alm. Salg,105,38571,3,1977,
+210,Villa,Humlebæk Strandvej 94,3050, Humlebæk,5225000 ,07-02-2022,Alm. Salg,113,46239,4,1951,-5%
+210,Villa,Violvej 27,3050, Humlebæk,5250000 ,30-01-2022,Alm. Salg,135,38889,5,1976,
+210,Villa,Gl Strandvej 294,3050, Humlebæk,15750000 ,26-01-2022,Alm. Salg,238,66176,7,1910,-2%
+210,Villa,Sørupvej 26,3480, Fredensborg,6995000 ,26-01-2022,Alm. Salg,170,41147,6,1939,
+210,Villa,Dr Louises Alle 14,3480, Fredensborg,5495000 ,25-01-2022,Alm. Salg,117,46966,3,1979,
+210,Rækkehus,Niverødvej 12,2990, Nivå,3095000 ,23-01-2022,Alm. Salg,78,39679,4,1897,3%
+210,Villa,Bournonvillesvej 1A,3480, Fredensborg,4200000 ,19-01-2022,Alm. Salg,104,40385,4,1952,
+210,Villa,Niverød Bakke 14,2990, Nivå,6300000 ,19-01-2022,Alm. Salg,165,38182,5,2015,-1%
+210,Villa,Rønnevej 3,2980, Kokkedal,3550000 ,10-01-2022,Alm. Salg,80,44375,3,1959,-4%
+210,Villa,Slotsvænget 28,3480, Fredensborg,7000000 ,10-01-2022,Alm. Salg,180,38889,6,1964,-4%
+210,Villa,Enebærhaven 502,2980, Kokkedal,5750000 ,09-01-2022,Alm. Salg,150,38333,5,1970,
+210,Villa,Amalievej 1,3050, Humlebæk,2768509 ,26-12-2021,Andet,56,49438,2,1947,
+210,Villa,Kystvej 15,3050, Humlebæk,14332792 ,20-12-2021,Fam. Salg,291,49254,8,1904,
+210,Villa,Laveskov Alle 411,3050, Humlebæk,6400000 ,13-12-2021,Alm. Salg,142,45070,5,1977,-1%
+210,Villa,Gl Strandvej 248,3050, Humlebæk,11600000 ,25-11-2021,Alm. Salg,178,65169,6,1923,1%
+210,Rækkehus,Dageløkkevej 7B,3050, Humlebæk,5700000 ,24-11-2021,Alm. Salg,119,47899,3,1827,-2%
+210,Villa,Sørupvej 72,3480, Fredensborg,12200000 ,24-11-2021,Alm. Salg,206,59223,9,1939,-12%
+210,Rækkehus,Torphusene 52,3050, Humlebæk,4220000 ,22-11-2021,Alm. Salg,111,38018,4,2015,-2%
+210,Villa,Kong Christians Alle 7A,3480, Fredensborg,9350000 ,22-11-2021,Alm. Salg,181,51657,5,2020,-2%
+210,Villa,Bogårdsvej 221,3050, Humlebæk,6135000 ,18-11-2021,Alm. Salg,158,38829,5,1969,-1%
+210,Villa,Vibevej 7,2990, Nivå,6725000 ,04-11-2021,Alm. Salg,131,51336,3,1924,-1%
+210,Villa,Langebjergvej 235,3050, Humlebæk,5900000 ,31-10-2021,Alm. Salg,140,42143,3,1981,-1%
+210,Villa,Vinkelvej 16,2990, Nivå,7250000 ,25-10-2021,Alm. Salg,167,43413,6,1950,
+210,Villa,Hans Rostgårdsvej 11,3050, Humlebæk,7700000 ,18-10-2021,Alm. Salg,203,37931,8,1959,-4%
+210,Rækkehus,Torphusene 50,3050, Humlebæk,4195000 ,16-10-2021,Alm. Salg,111,37793,4,2015,-2%
+210,Villa,Skolebakken 4A,3050, Humlebæk,11300000 ,10-10-2021,Alm. Salg,208,54327,6,1975,-2%
+210,Villa,Sørupvej 9,3480, Fredensborg,6650000 ,10-10-2021,Alm. Salg,162,41049,5,1900,-1%
+210,Villa,Gl Strandvej 200,3050, Humlebæk,4600000 ,10-10-2021,Alm. Salg,80,57500,2,1827,-8%
+210,Villa,Langebjergvej 120,3050, Humlebæk,6025000 ,05-10-2021,Alm. Salg,145,41552,5,1937,1%
+210,Villa,Dysseager 10,2980, Kokkedal,8495000 ,04-10-2021,Alm. Salg,219,38790,6,2021,
+210,Villa,Bakkevej 2,3050, Humlebæk,10200000 ,28-09-2021,Alm. Salg,151,67550,4,1936,3%
+210,Villa,Gl Strandvej 55,3050, Humlebæk,11500000 ,23-09-2021,Alm. Salg,256,44922,7,1959,-4%
+210,Villa,Strandmarken 1,3050, Humlebæk,5065000 ,22-09-2021,Alm. Salg,110,46045,4,1961,-2%
+210,Rækkehus,Gl Strandvej 163F,3050, Humlebæk,8495000 ,15-09-2021,Alm. Salg,161,52764,4,2016,
+210,Rækkehus,Gl Strandvej 163B,3050, Humlebæk,8370000 ,06-09-2021,Alm. Salg,146,57329,4,1918,-1%
+210,Villa,Dronningens Kovang 16,3480, Fredensborg,9375000 ,06-09-2021,Alm. Salg,165,56818,6,1976,-1%
+210,Rækkehus,Humlehaven 36,3050, Humlebæk,3701000 ,05-09-2021,Alm. Salg,87,42540,4,1961,3%
+210,Rækkehus,Gl Strandvej 214,3050, Humlebæk,11500000 ,29-08-2021,Alm. Salg,226,50885,8,1862,-4%
+210,Villa,Avderødvej 61,2980, Kokkedal,3750000 ,24-08-2021,Alm. Salg,90,41667,4,1792,-5%
+210,Rækkehus,Gammel Strandvej 1B,2990, Nivå,6795000 ,17-08-2021,Alm. Salg,170,39971,4,1870,
+210,Villa,Gl Strandvej 290A,3050, Humlebæk,14500000 ,10-08-2021,Alm. Salg,221,65611,6,2018,-3%
+210,Villa,Svanevej 17,2990, Nivå,5350000 ,05-08-2021,Alm. Salg,142,37676,5,1979,
+210,Villa,Strand Alle 9,3050, Humlebæk,19914000 ,29-07-2021,Alm. Salg,267,74584,6,1987,-31%
+210,Villa,Avderødvej 37,2980, Kokkedal,4350000 ,28-07-2021,Alm. Salg,116,37500,4,1938,
+210,Villa,Gl Strandvej 142,3050, Humlebæk,7251000 ,28-07-2021,Alm. Salg,120,60425,5,1931,
+210,Villa,Kirsebærhaven 7,3480, Fredensborg,7750000 ,26-07-2021,Alm. Salg,142,54577,4,1970,
+210,Villa,Helsingørsvej 60,3480, Fredensborg,4800000 ,25-07-2021,Alm. Salg,80,60000,3,1957,
+210,Villa,Kirkevangen 73,3480, Fredensborg,7995000 ,20-07-2021,Alm. Salg,209,38254,6,2018,
+210,Villa,Fyrrevej 4,3480, Fredensborg,6700000 ,17-07-2021,Alm. Salg,123,54472,5,1948,
+210,Villa,Kirkeltevej 120B,3450, Allerød,5500000 ,15-07-2021,Alm. Salg,117,47009,3,1877,
+210,Rækkehus,Jellerød Have 1,2980, Kokkedal,3800000 ,13-07-2021,Alm. Salg,101,37624,4,1961,-2%
+210,Villa,Laveskov Alle 407,3050, Humlebæk,7145000 ,11-07-2021,Alm. Salg,142,50317,5,1977,2%
+210,Villa,Jernbane Alle 3A,3050, Humlebæk,6610000 ,08-07-2021,Alm. Salg,152,43487,5,1976,-3%
+210,Villa,Svanevej 7,2990, Nivå,6805000 ,05-07-2021,Alm. Salg,180,37806,5,1979,1%
+210,Villa,Lillevangsvej 220,3480, Fredensborg,7850000 ,03-07-2021,Alm. Salg,202,38861,7,2005,-3%
+210,Villa,Gl Strandvej 99,3050, Humlebæk,4650000 ,29-06-2021,Alm. Salg,82,56707,3,1775,-5%
+210,Villa,Damsholtevej 17,2970, Hørsholm,17000000 ,28-06-2021,Alm. Salg,334,50898,7,1960,-5%
+210,Rækkehus,Bregnevænget 21,3050, Humlebæk,3950000 ,24-06-2021,Alm. Salg,105,37619,3,1977,-1%
+210,Rækkehus,Hjørnestenen 27,2990, Nivå,3145000 ,16-06-2021,Alm. Salg,81,38827,3,1995,
+210,Villa,Baunebjergvej 121,3050, Humlebæk,6450000 ,10-06-2021,Alm. Salg,165,39091,6,1953,3%
+210,Rækkehus,Torphusene 38,3050, Humlebæk,4095000 ,09-06-2021,Alm. Salg,102,40147,4,2015,
+210,Villa,Gl Strandvej 85,3050, Humlebæk,5450000 ,08-06-2021,Alm. Salg,65,83846,3,1943,
+210,Villa,Jernbane Alle 6,3050, Humlebæk,7075000 ,06-06-2021,Alm. Salg,144,49132,6,1919,-2%
+210,Villa,Hillerødvejen 41A,3480, Fredensborg,6835000 ,05-06-2021,Alm. Salg,173,39509,6,1974,5%
+210,Rækkehus,Daugløkke Ege 16,3050, Humlebæk,5360000 ,27-05-2021,Alm. Salg,142,37746,3,2017,1%
+210,Villa,Fredensborg Kongevej 43,2980, Kokkedal,17400000 ,27-05-2021,Alm. Salg,364,47802,7,1908,-2%
+210,Villa,Kirkeleddet 129,3480, Fredensborg,6700000 ,23-05-2021,Alm. Salg,173,38728,5,1997,
+210,Rækkehus,Babylonevej 2A,3050, Humlebæk,9985000 ,22-05-2021,Alm. Salg,160,62406,6,2008,
+210,Rækkehus,Daugløkke Ege 69,3050, Humlebæk,5611000 ,18-05-2021,Alm. Salg,122,45992,4,2008,
+210,Villa,Svanevej 15,2990, Nivå,6295000 ,18-05-2021,Alm. Salg,139,45288,5,1981,
+210,Villa,Kokkedal Stationsvej 17,2980, Kokkedal,3100000 ,12-05-2021,Alm. Salg,62,50000,3,1943,
+210,Villa,Ejlersvej 6,3050, Humlebæk,6600000 ,03-05-2021,Alm. Salg,141,46809,5,1959,-2%
+210,Rækkehus,Gl Strandvej 82A,3050, Humlebæk,8495000 ,21-04-2021,Alm. Salg,161,52764,5,2021,
+210,Rækkehus,Gl Strandvej 82B,3050, Humlebæk,9495000 ,14-04-2021,Alm. Salg,161,58975,6,2021,
+210,Villa,Humlebæk Strandvej 109,3050, Humlebæk,5645000 ,12-04-2021,Alm. Salg,129,43760,6,1951,
+210,Villa,Ved Hegnet 14,3050, Humlebæk,7155000 ,10-04-2021,Alm. Salg,175,40886,5,2001,2%
+210,Villa,Mågevej 7,2990, Nivå,5350000 ,08-04-2021,Alm. Salg,96,55729,4,1950,
+210,Rækkehus,Guldsmedestien 49,2990, Nivå,26170650 ,04-04-2021,Alm. Salg,121,216286,4,2022,
+210,Villa,Dr Louises Alle 16,3480, Fredensborg,4650000 ,30-03-2021,Alm. Salg,113,41150,4,1979,
+210,Rækkehus,Oldvejen 2,3480, Fredensborg,37800000 ,29-03-2021,Alm. Salg,653,57887,8,1929,
+210,Villa,Baunebjergvej 103,3050, Humlebæk,4150000 ,22-03-2021,Alm. Salg,106,39151,4,1909,4%
+210,Villa,Bakkedal 3,2980, Kokkedal,7970000 ,17-03-2021,Alm. Salg,182,43791,6,2022,
+210,Villa,Gl Strandvej 246,3050, Humlebæk,13495000 ,16-03-2021,Alm. Salg,199,67814,7,1920,-4%
+210,Villa,Vejenbrødvej 31,2980, Kokkedal,3950000 ,11-03-2021,Alm. Salg,99,39899,3,1953,-1%
+210,Villa,Gl Strandvej 272B,3050, Humlebæk,11999999 ,11-03-2021,Alm. Salg,291,41237,5,2023,
+210,Villa,Humlebæk Strandvej 135,3050, Humlebæk,4555000 ,10-03-2021,Alm. Salg,115,39609,5,1946,1%
+210,Villa,Gl Strandvej 23,3050, Humlebæk,18000000 ,09-03-2021,Alm. Salg,229,78603,6,1916,-2%
+210,Villa,Nybovej 7,3490, Kvistgård,16000000 ,20-02-2021,Alm. Salg,373,42895,6,1800,
+210,Villa,Louisevej 3,3050, Humlebæk,4550000 ,17-02-2021,Alm. Salg,79,57595,3,1952,-3%
+210,Rækkehus,Kystvej 35A,3050, Humlebæk,6995000 ,11-02-2021,Alm. Salg,136,51434,5,1978,
+210,Villa,Jernbane Alle 5A,3050, Humlebæk,8805000 ,09-02-2021,Alm. Salg,175,50314,6,1920,4%
+210,Villa,Paludan Müllersvej 12,3480, Fredensborg,6250000 ,01-02-2021,Alm. Salg,142,44014,6,1950,
+210,Villa,Frederikkevej 22,3050, Humlebæk,7175000 ,29-01-2021,Alm. Salg,180,39861,7,1955,-1%
+210,Villa,Gl Strandvej 102A,3050, Humlebæk,6310000 ,25-01-2021,Alm. Salg,142,44437,4,1963,2%
+210,Villa,Humlebæk Strandvej 63,3050, Humlebæk,5495000 ,25-01-2021,Alm. Salg,145,37897,7,1951,
+210,Villa,Gunderødvej 25,2970, Hørsholm,5400000 ,23-01-2021,Alm. Salg,137,39416,4,1877,-2%
+210,Villa,Amalievej 5,3050, Humlebæk,6495000 ,22-01-2021,Alm. Salg,169,38432,6,1950,
+210,Rækkehus,Humlehaven 10,3050, Humlebæk,2595000 ,18-01-2021,Alm. Salg,63,41190,3,1959,
+210,Villa,Hillerødvejen 2,3480, Fredensborg,10650000 ,17-01-2021,Alm. Salg,165,64545,6,1924,-1%
+210,Rækkehus,Nyvej 2A,3050, Humlebæk,8000000 ,13-01-2021,Alm. Salg,100,80000,3,2022,
+210,Villa,Pilevej 3,3480, Fredensborg,6450000 ,11-01-2021,Alm. Salg,161,40062,5,1985,-1%
+210,Villa,Gl Strandvej 260,3050, Humlebæk,16800000 ,02-01-2021,Alm. Salg,223,75336,8,1890,-9%
+210,Villa,Kystvej 9,3050, Humlebæk,17000000 ,25-12-2020,Alm. Salg,290,58621,8,1915,-6%
+210,Ejerlejlighed,"Jernbanegade 36, 1. th",3480, Fredensborg,17200000 ,23-12-2020,Alm. Salg,91,189011,3,1890,
+210,Rækkehus,"Langstrupvej 41, st",3480, Fredensborg,11750000 ,21-12-2020,Alm. Salg,202,58168,5,1850,-6%
+210,Rækkehus,Gl Strandvej 12,3050, Humlebæk,6400000 ,21-12-2020,Alm. Salg,89,71910,5,1800,-1%
+210,Villa,Frederikkevej 32,3050, Humlebæk,8450000 ,15-12-2020,Alm. Salg,165,51212,7,1950,6%
+210,Villa,Skovvej 12,3050, Humlebæk,7170000 ,09-12-2020,Alm. Salg,146,49110,5,1998,
+210,Ejerlejlighed,Baunebjergvej 5C,3050, Humlebæk,7200000 ,07-12-2020,Alm. Salg,93,77419,4,1990,
+210,Villa,Sørupvej 26,3480, Fredensborg,6495000 ,30-11-2020,Alm. Salg,170,38206,6,1939,
+210,Villa,Gl Strandvej 198B,3050, Humlebæk,5000000 ,28-11-2020,Alm. Salg,80,62500,4,1750,-9%
+210,Villa,Gl Strandvej 64,3050, Humlebæk,9025000 ,23-11-2020,Alm. Salg,140,64464,5,1942,
+210,Villa,Strandvejen 340B,2980, Kokkedal,8500000 ,19-11-2020,Alm. Salg,163,52147,5,2005,-6%
+210,Rækkehus,Zoarparken 2,3480, Fredensborg,5900000 ,17-11-2020,Alm. Salg,153,38562,4,1985,-2%
+210,Villa,Gl Strandvej 100,3050, Humlebæk,7995000 ,17-11-2020,Alm. Salg,169,43689,8,1919,
+210,Villa,Gl Strandvej 129,3050, Humlebæk,7100000 ,17-11-2020,Alm. Salg,94,75532,3,1750,-5%
+210,Villa,Wilhelmsvej 3,3050, Humlebæk,8200000 ,29-10-2020,Alm. Salg,180,45556,4,1958,3%
+210,Villa,Hejreskov Alle 21,3050, Humlebæk,2995000 ,28-10-2020,Alm. Salg,76,39408,3,1951,
+210,Rækkehus,Ravnsbjerggårdsvej 134,3480, Fredensborg,42250000 ,21-10-2020,Alm. Salg,145,291379,4,2008,
+210,Rækkehus,Daugløkke Ege 66,3050, Humlebæk,4405000 ,14-10-2020,Alm. Salg,116,37974,4,2008,
+210,Villa,Søholmvej 22,3480, Fredensborg,2427000 ,13-10-2020,Alm. Salg,64,37922,2,1800,1%
+210,Villa,Humlebæk Strandvej 30,3050, Humlebæk,6000000 ,08-10-2020,Alm. Salg,138,43478,6,1952,0%
+210,Villa,Humlebæk Strandvej 103,3050, Humlebæk,3050000 ,29-09-2020,Alm. Salg,62,49194,3,1956,
+210,Villa,Humlebæk Strandvej 32,3050, Humlebæk,5995000 ,18-09-2020,Alm. Salg,150,39967,5,1949,
+210,Villa,Dageløkkevej 10,3050, Humlebæk,6100000 ,16-09-2020,Alm. Salg,152,40132,5,1910,
+210,Villa,Smedebakken 5,2990, Nivå,3620000 ,16-09-2020,Alm. Salg,87,41609,3,1944,1%
+210,Ejerlejlighed,"Slotsgade 3A, 1",3480, Fredensborg,3695000 ,13-09-2020,Alm. Salg,96,38490,3,1966,
+210,Ejerlejlighed,"Gl Strandvej 163E, 1. tv",3050, Humlebæk,6495000 ,08-09-2020,Alm. Salg,119,54580,4,1918,
+210,Villa,Helstedsvej 4,3480, Fredensborg,6850000 ,29-08-2020,Alm. Salg,151,45364,5,1927,-2%
+210,Villa,Gl Strandvej 19,3050, Humlebæk,16495000 ,23-08-2020,Alm. Salg,229,72031,7,1909,
+210,Villa,Damsholtevej 17,2970, Hørsholm,18100000 ,16-08-2020,Alm. Salg,334,54192,7,1960,-8%
+210,Villa,Frederikkevej 4,3050, Humlebæk,7700000 ,12-08-2020,Alm. Salg,190,40526,7,1956,
+210,Villa,Avderødvej 59,2980, Kokkedal,8000000 ,06-08-2020,Alm. Salg,201,39801,6,1882,-3%
+210,Ejerlejlighed,"Gl Strandvej 163E, 2. tv",3050, Humlebæk,3500000 ,24-07-2020,Alm. Salg,83,42169,2,1918,-3%
+210,Villa,Bakkegårdsvej 301,3050, Humlebæk,6650000 ,23-07-2020,Alm. Salg,159,41824,6,1977,
+210,Rækkehus,Humlebæk Strandvej 171,3050, Humlebæk,4600000 ,25-06-2020,Alm. Salg,117,39316,5,1981,
+210,Villa,Kokkedal Stationsvej 17,2980, Kokkedal,2550000 ,19-06-2020,Alm. Salg,62,41129,3,1943,-12%
+210,Villa,Gl Strandvej 87,3050, Humlebæk,9800000 ,18-06-2020,Alm. Salg,255,38431,6,1795,
+210,Villa,Solbakkevej 3,3050, Humlebæk,7995000 ,17-06-2020,Alm. Salg,172,46483,5,1996,
+210,Rækkehus,Daugløkke Ege 52,3050, Humlebæk,5295000 ,31-05-2020,Alm. Salg,133,39812,5,2008,
+210,Ejerlejlighed,"Helsingørsvej 3, st",3480, Fredensborg,5600000 ,31-05-2020,Alm. Salg,126,44444,4,1892,
+210,Villa,Gl Strandvej 106,3050, Humlebæk,7995000 ,23-05-2020,Alm. Salg,187,42754,5,1923,
+210,Villa,Kystvej 8,3050, Humlebæk,7000000 ,17-05-2020,Alm. Salg,127,55118,5,1917,-7%
+210,Villa,Hans Rostgårdsvej 14,3050, Humlebæk,3800000 ,04-05-2020,Alm. Salg,94,40426,4,1954,
+210,Villa,Gl Strandvej 158,3050, Humlebæk,6450000 ,29-04-2020,Alm. Salg,115,56087,5,1905,
+210,Villa,Gl Strandvej 288,3050, Humlebæk,13000000 ,27-01-2020,Alm. Salg,290,44828,7,1929,-10%
+210,Villa,Brønshulevej 8,3480, Fredensborg,18450000 ,26-01-2020,Andet,490,37653,5,2016,-5%
+210,Villa,Gl Strandvej 143,3050, Humlebæk,3923000 ,25-01-2020,Fam. Salg,85,46153,5,1907,
+210,Villa,Skolebakken 17,3050, Humlebæk,25000000 ,17-12-2019,Alm. Salg,222,112613,5,1960,
+210,Villa,Hans Rostgårdsvej 10,3050, Humlebæk,5495000 ,11-11-2019,Alm. Salg,134,41007,5,1953,
+210,Villa,Linde Alle 3,3050, Humlebæk,7750000 ,07-11-2019,Alm. Salg,179,43296,5,1935,
+210,Villa,Gl Strandvej 232,3050, Humlebæk,11050000 ,01-10-2019,Alm. Salg,266,41541,8,1911,-4%
+210,Villa,Nederste Torpenvej 13,3050, Humlebæk,4515000 ,30-09-2019,Alm. Salg,118,38263,5,1958,6%
+210,Villa,Strandhøjsvej 5,3050, Humlebæk,14650000 ,28-09-2019,Alm. Salg,382,38351,7,1992,-7%
+210,Villa,Gl Strandvej 144A,3050, Humlebæk,6195000 ,24-09-2019,Alm. Salg,157,39459,5,1961,-5%
+210,Villa,Bodegårdsvej 11,3050, Humlebæk,6400000 ,23-09-2019,Alm. Salg,136,47059,6,1965,
+210,Villa,Ternevej 2,2990, Nivå,5000000 ,02-09-2019,Alm. Salg,131,38168,4,1981,-5%
+210,Villa,Gl Strandvej 238,3050, Humlebæk,8250000 ,14-08-2019,Alm. Salg,137,60219,6,1942,-2%
+210,Villa,Hillerødvejen 83,3480, Fredensborg,12450000 ,11-08-2019,Alm. Salg,127,98031,4,1900,-3%
+210,Villa,Gl Strandvej 26,3050, Humlebæk,6150000 ,11-08-2019,Alm. Salg,117,52564,5,1815,-5%
+210,Villa,Dageløkkevej 4,3050, Humlebæk,4245000 ,10-08-2019,Alm. Salg,80,53063,3,1800,
+210,Villa,Gl Strandvej 51,3050, Humlebæk,5350000 ,07-08-2019,Alm. Salg,134,39925,3,2000,-2%
+210,Villa,Skeltoftevej 14,3050, Humlebæk,2650000 ,26-07-2019,Alm. Salg,68,38971,4,1950,-5%
+210,Villa,Gl Strandvej 147,3050, Humlebæk,9000000 ,07-07-2019,Alm. Salg,136,56604,6,1906,
+210,Villa,Hans Rostgårdsvej 14,3050, Humlebæk,3700000 ,27-06-2019,Alm. Salg,94,39362,4,1954,-3%
+210,Villa,Skolebakken 17,3050, Humlebæk,25000000 ,18-06-2019,Alm. Salg,222,112613,5,1960,
+210,Villa,Humlebæk Strandvej 103,3050, Humlebæk,2650000 ,18-06-2019,Alm. Salg,62,42742,3,1956,-5%
+210,Villa,Gl Strandvej 120,3050, Humlebæk,6200000 ,30-05-2019,Alm. Salg,146,42466,7,1907,-2%
+210,Villa,Gl Strandvej 157A,3050, Humlebæk,7500000 ,26-05-2019,Alm. Salg,131,57252,5,1850,
+210,Villa,Gl Strandvej 107,3050, Humlebæk,5748000 ,06-05-2019,Alm. Salg,136,42265,5,1846,
+210,Villa,Toftevej 10,3480, Fredensborg,6100000 ,14-04-2019,Alm. Salg,144,42361,6,1923,27%
+210,Villa,Gl Strandvej 149,3050, Humlebæk,8900000 ,05-03-2019,Alm. Salg,133,66917,4,1946,-13%
+210,Villa,Gl Strandvej 204,3050, Humlebæk,5495000 ,03-02-2019,Alm. Salg,120,45792,6,1902,
+210,Villa,Gl Strandvej 290B,3050, Humlebæk,13000000 ,23-01-2019,Alm. Salg,221,58824,6,2018,-3%
+210,Villa,Gl Mejerivej 3,3050, Humlebæk,3295000 ,14-01-2019,Alm. Salg,72,45764,3,1936,
+210,Rækkehus,Teglbakken 76,2990, Nivå,34016550 ,13-01-2019,Alm. Salg,125,272132,4,2020,
+210,Rækkehus,Teglbakken 115,2990, Nivå,29362500 ,13-01-2019,Alm. Salg,125,234900,4,0,
+210,Ejerlejlighed,"Gl Strandvej 163E, 2. tv",3050, Humlebæk,3950000 ,06-01-2019,Alm. Salg,83,47590,2,1918,
+210,Villa,Kastanievej 48,3480, Fredensborg,10000000 ,21-12-2018,Alm. Salg,250,40000,6,1950,
+210,Villa,Gl Strandvej 290A,3050, Humlebæk,8800000 ,09-12-2018,Alm. Salg,221,39819,6,2018,
+210,Villa,Kejserensvej 5,3480, Fredensborg,6300000 ,30-11-2018,Alm. Salg,160,39375,5,1904,-5%
+210,Villa,Frederikkevej 13,3050, Humlebæk,5250000 ,12-11-2018,Alm. Salg,135,38889,4,1947,
+210,Ejerlejlighed,"Grønholtvej 14, st. th",3480, Fredensborg,5567500 ,11-11-2018,Fam. Salg,85,65500,2,1890,
+210,Ejerlejlighed,"Gl Strandvej 163E, 1. tv",3050, Humlebæk,6000000 ,31-10-2018,Alm. Salg,119,50420,4,1918,-3%
+210,Villa,Hejreskov Alle 10,3050, Humlebæk,5925000 ,23-10-2018,Alm. Salg,139,42626,5,2009,-1%
+210,Villa,Gl Strandvej 174,3050, Humlebæk,5700000 ,30-08-2018,Alm. Salg,120,47500,4,1877,-3%
+210,Villa,Amalievej 1,3050, Humlebæk,3600000 ,26-08-2018,Alm. Salg,56,64286,2,1947,-6%
+210,Villa,Bakkedal 21,2980, Kokkedal,3995000 ,22-08-2018,Alm. Salg,98,40765,3,1965,
+210,Villa,Gl Strandvej 246A,3050, Humlebæk,6400000 ,16-08-2018,Alm. Salg,110,49231,5,1975,-4%
+210,Villa,Stillekrog 6,3050, Humlebæk,4600000 ,16-07-2018,Alm. Salg,111,41441,4,1949,-2%
+210,Villa,Gl Strandvej 152,3050, Humlebæk,4345000 ,07-07-2018,Alm. Salg,79,55000,4,1890,
+210,Villa,Skovhegnet 17,3450, Allerød,3125000 ,21-06-2018,Alm. Salg,81,38580,2,1960,
+210,Rækkehus,Humlehaven 6,3050, Humlebæk,2495000 ,13-06-2018,Alm. Salg,63,39603,3,1959,-4%
+210,Villa,Gl Strandvej 101,3050, Humlebæk,5500000 ,12-06-2018,Alm. Salg,99,55556,3,1827,
+210,Villa,Gl Strandvej 141,3050, Humlebæk,7900000 ,12-06-2018,Andet,202,39109,5,2018,
+210,Villa,Grønholtvangen 12B,3480, Fredensborg,7100000 ,04-06-2018,Alm. Salg,120,59167,4,1820,-10%
+210,Villa,Gl Strandvej 304,3050, Humlebæk,10450000 ,03-06-2018,Alm. Salg,241,43361,7,1910,-7%
+210,Ejerlejlighed,"Parken 19, 1. tv",3480, Fredensborg,4791400 ,27-05-2018,Alm. Salg,79,60651,3,1961,
+210,Rækkehus,Nederste Torpenvej 3E,3050, Humlebæk,12077117 ,30-04-2018,Andet,130,92901,4,2014,
+210,Villa,Gl Strandvej 236A,3050, Humlebæk,8995000 ,24-04-2018,Alm. Salg,229,39279,5,1971,
+210,Villa,Gl Strandvej 160A,3050, Humlebæk,3100000 ,18-04-2018,Alm. Salg,70,44286,2,1877,-11%
+210,Villa,Strandmarken 2A,3050, Humlebæk,5075000 ,14-04-2018,Alm. Salg,134,37873,4,1984,-3%
+210,Villa,Gl Strandvej 23A,3050, Humlebæk,27000000 ,08-04-2018,Alm. Salg,448,60268,10,2010,-9%
+210,Villa,Kastanie Alle 3,3050, Humlebæk,6100000 ,01-04-2018,Alm. Salg,149,40940,6,1942,-9%
+210,Villa,Humlebæk Strandvej 42,3050, Humlebæk,3600000 ,16-03-2018,Alm. Salg,75,48000,3,1954,-5%
+210,Villa,Kastanie Alle 9,3050, Humlebæk,10375000 ,14-03-2018,Alm. Salg,206,50364,7,1902,-5%
+210,Villa,Præstemosevej 10B,3480, Fredensborg,26137500 ,12-10-2017,Alm. Salg,45,580833,2,1900,-13%
+210,Villa,Strandvejen 340D,2980, Kokkedal,9550000 ,05-10-2017,Alm. Salg,236,40466,7,2004,-4%
+210,Villa,Gl Strandvej 131,3050, Humlebæk,8750000 ,22-09-2017,Alm. Salg,130,67308,7,1930,-12%
+210,Villa,Gl Strandvej 240C,3050, Humlebæk,5995000 ,21-09-2017,Alm. Salg,135,44407,5,1987,
+210,Villa,Zoarsvej 12,3480, Fredensborg,9800000 ,27-08-2017,Alm. Salg,132,74242,2,1966,
+210,Ejerlejlighed,"Gl Strandvej 163E, 1. th",3050, Humlebæk,5995000 ,23-08-2017,Alm. Salg,120,49958,3,1918,
+210,Villa,Wilhelmsvej 1,3050, Humlebæk,5950000 ,15-08-2017,Alm. Salg,132,45076,4,2003,
+210,Villa,Sørupvej 56,3480, Fredensborg,2250000 ,10-08-2017,Alm. Salg,58,38793,3,1720,-10%
+210,Villa,Gl Strandvej 198B,3050, Humlebæk,4200000 ,17-07-2017,Alm. Salg,80,52500,4,1750,-7%
+210,Villa,Lærkevej 3,3480, Fredensborg,7125000 ,16-07-2017,Alm. Salg,140,50893,4,1943,-2%
+210,Rækkehus,Gl Strandvej 163B,3050, Humlebæk,5850000 ,02-07-2017,Alm. Salg,146,40068,4,1918,
+210,Rækkehus,Fasanvænget 148,2980, Kokkedal,6225000 ,04-05-2017,Alm. Salg,136,45772,5,1971,
+210,Villa,Gl Strandvej 159,3050, Humlebæk,13500000 ,26-04-2017,Alm. Salg,181,74586,9,1934,
+210,Villa,Gl Strandvej 196,3050, Humlebæk,3425000 ,13-04-2017,Alm. Salg,86,39826,2,1710,-6%
+210,Villa,Gl Strandvej 28,3050, Humlebæk,5900000 ,30-01-2017,Alm. Salg,97,60825,3,1907,-2%
+210,Ejerlejlighed,Sølyst Strandpark 9,2990, Nivå,5400000 ,28-01-2017,Alm. Salg,142,38028,3,2010,-2%
+210,Rækkehus,Daugløkke Ege 31,3050, Humlebæk,6150000 ,23-01-2017,Alm. Salg,135,45556,5,2017,
+210,Villa,Gl Strandvej 250A,3050, Humlebæk,6500000 ,19-09-2016,Alm. Salg,170,38235,5,1777,-5%
+210,Villa,Dageløkkevej 17,3050, Humlebæk,4995000 ,15-09-2016,Alm. Salg,115,43435,4,1917,
+210,Villa,Gl Strandvej 125,3050, Humlebæk,7654321 ,03-09-2016,Alm. Salg,89,86004,4,1775,10%
+210,Villa,Gl Strandvej 23A,3050, Humlebæk,22000000 ,25-07-2016,Auktion,448,49107,10,2010,-37%
+210,Villa,Strandvænget 8,3050, Humlebæk,13000000 ,10-07-2016,Alm. Salg,188,69149,6,2007,
+210,Villa,Gl Strandvej 294,3050, Humlebæk,11250000 ,14-06-2016,Alm. Salg,238,47269,7,1910,-5%
+210,Villa,Kystvej 19,3050, Humlebæk,15750000 ,13-06-2016,Alm. Salg,203,77586,10,1905,-5%
+210,Villa,Øresundsvej 2,3050, Humlebæk,3248000 ,07-06-2016,Alm. Salg,82,39610,4,1956,
+210,Rækkehus,Veksebovej 23B,3480, Fredensborg,12000000 ,01-06-2016,Alm. Salg,135,88889,6,1920,-8%
+210,Villa,Gl Strandvej 119,3050, Humlebæk,4816000 ,17-05-2016,Alm. Salg,115,41878,5,1900,15%
+210,Villa,Gl Strandvej 202A,3050, Humlebæk,6200000 ,18-04-2016,Alm. Salg,118,52542,3,1908,-4%
+210,Villa,Strandvænget 7,3050, Humlebæk,12850000 ,05-04-2016,Alm. Salg,228,56360,5,1937,0%
+210,Villa,Zoarsvej 12,3480, Fredensborg,6075000 ,14-03-2016,Alm. Salg,132,46023,2,1966,-5%
+210,Ejerlejlighed,"Gl Strandvej 163E, st. tv",3050, Humlebæk,5900000 ,13-03-2016,Alm. Salg,119,49580,4,1918,-6%
+210,Villa,Gl Strandvej 17,3050, Humlebæk,19250000 ,09-12-2015,Alm. Salg,245,78571,5,1974,
+210,Rækkehus,Endrup Byvej 14C,3480, Fredensborg,20017500 ,03-12-2015,Fam. Salg,204,98125,5,1918,
+210,Villa,Strandvejen 346,2980, Kokkedal,15650000 ,03-12-2015,Alm. Salg,320,48906,6,1918,-17%
+210,Villa,Kongevejen 57,3480, Fredensborg,35000000 ,01-11-2015,Alm. Salg,241,145228,3,2022,-8%
+210,Villa,Gl Strandvej 167,3050, Humlebæk,15375000 ,12-10-2015,Alm. Salg,239,64331,4,2017,
+210,Villa,Gl Strandvej 37,3050, Humlebæk,9000000 ,27-09-2015,Fam. Salg,173,52023,6,1898,
+210,Villa,Dageløkkevej 12,3050, Humlebæk,5600000 ,30-08-2015,Alm. Salg,95,58947,5,1873,-3%
+210,Villa,Strandvejen 340D,2980, Kokkedal,9850000 ,13-08-2015,Alm. Salg,236,41737,7,2004,4%
+210,Villa,Hillerødvejen 83,3480, Fredensborg,6250000 ,19-07-2015,Alm. Salg,127,49213,4,1900,-7%
+210,Villa,Dageløkkevej 17,3050, Humlebæk,4450000 ,29-06-2015,Alm. Salg,115,38696,4,1917,-5%
+210,Villa,Skolebakken 17,3050, Humlebæk,17000000 ,16-06-2015,Alm. Salg,222,76577,5,1960,-4%
+210,Villa,Strandhøjsvej 1E,3050, Humlebæk,10300000 ,11-05-2015,Alm. Salg,200,51500,5,2009,-9%
+210,Villa,Dageløkkevej 6,3050, Humlebæk,3085000 ,05-05-2015,Alm. Salg,53,58208,2,1877,
+210,Villa,Gl Strandvej 91,3050, Humlebæk,6500000 ,05-05-2015,Alm. Salg,133,48872,6,1909,-6%
+210,Villa,Hillerødvejen 2,3480, Fredensborg,10500000 ,29-04-2015,Alm. Salg,165,63636,6,1924,
+210,Villa,Kongevejen 60,3480, Fredensborg,6200000 ,29-03-2015,Alm. Salg,83,74699,4,1954,
+210,Villa,Gl Strandvej 32A,3050, Humlebæk,4548000 ,26-03-2015,Alm. Salg,87,52276,3,1956,-4%
+210,Villa,Gl Strandvej 232,3050, Humlebæk,11100000 ,21-02-2015,Alm. Salg,266,41729,8,1911,-16%
+210,Villa,Gl Strandvej 18,3050, Humlebæk,5145000 ,16-12-2014,Alm. Salg,92,38977,6,1810,-5%
+210,Rækkehus,Kystvej 31C,3050, Humlebæk,11675000 ,22-10-2014,Alm. Salg,185,63108,4,1986,-2%
+210,Villa,Strandhøjsvej 1D,3050, Humlebæk,7300000 ,22-10-2014,Alm. Salg,185,39459,6,1971,-4%
+210,Ejerlejlighed,"Gl Strandvej 163E, st. th",3050, Humlebæk,6400000 ,29-09-2014,Alm. Salg,120,53333,3,1918,
+210,Villa,Strand Alle 2,3050, Humlebæk,7995000 ,29-09-2014,Alm. Salg,208,38438,5,1985,
+210,Villa,Jacobsmindevej 4,3050, Humlebæk,7550000 ,18-09-2014,Alm. Salg,181,41713,6,1924,-6%
+210,Villa,Kongevejen 94,3480, Fredensborg,5900000 ,07-09-2014,Alm. Salg,132,44697,4,1890,-1%
+210,Villa,Gl Strandvej 238,3050, Humlebæk,6200000 ,01-07-2014,Alm. Salg,137,45255,6,1942,-7%
+210,Ejerlejlighed,"Gl Strandvej 163E, 2. th",3050, Humlebæk,4795000 ,29-06-2014,Alm. Salg,83,57771,2,1918,
+210,Ejerlejlighed,"Jernbanegade 16, 1. 6",3480, Fredensborg,8500000 ,25-05-2014,Alm. Salg,102,83333,2,1974,
+210,Villa,Kullabergvej 1,3050, Humlebæk,7500000 ,11-05-2014,Alm. Salg,177,42373,5,2010,-2%
+210,Villa,Gl Strandvej 45,3050, Humlebæk,17500000 ,19-02-2014,Alm. Salg,398,43970,10,1907,-12%
+210,Villa,Gl Strandvej 153,3050, Humlebæk,4200000 ,13-02-2014,Alm. Salg,99,42424,5,1827,-9%
+210,Rækkehus,Niverød Bakke 93,2990, Nivå,7500000 ,20-01-2014,Alm. Salg,123,60976,4,2016,
+210,Villa,Gl Strandvej 165B,3050, Humlebæk,8325000 ,29-10-2013,Alm. Salg,175,47571,5,1836,
+210,Villa,Oldvejen 16,3480, Fredensborg,13350000 ,09-09-2013,Alm. Salg,344,38808,9,1968,
+210,Villa,Gl Strandvej 34A,3050, Humlebæk,3800000 ,19-08-2013,Alm. Salg,84,45238,4,1880,
+210,Villa,Gl Strandvej 222,3050, Humlebæk,4750000 ,30-06-2013,Alm. Salg,113,42035,3,1910,-5%
+210,Villa,Gl Strandvej 17,3050, Humlebæk,19500000 ,25-06-2013,Alm. Salg,245,79592,5,1974,-5%
+210,Villa,Gl Strandvej 216,3050, Humlebæk,7632900 ,16-12-2012,Alm. Salg,117,65238,4,1850,
+210,Rækkehus,Gl Strandvej 131A,3050, Humlebæk,6000000 ,13-11-2012,Alm. Salg,143,41958,4,2018,-14%
+210,Villa,Gl Strandvej 206,3050, Humlebæk,5100000 ,06-11-2012,Alm. Salg,125,40800,4,1907,
+210,Villa,Strandvænget 10,3050, Humlebæk,6200000 ,01-10-2012,Alm. Salg,128,37805,6,1938,-6%
+210,Villa,Kastanie Alle 8,3050, Humlebæk,8500000 ,22-09-2012,Alm. Salg,152,55921,6,1906,-3%
+210,Villa,Gl Strandvej 161,3050, Humlebæk,5250000 ,31-08-2012,Alm. Salg,101,51980,4,1900,-7%
+210,Villa,Strand Alle 7,3050, Humlebæk,17500000 ,22-08-2012,Alm. Salg,400,43750,10,1900,-10%
+210,Villa,Strandhøjsvej 4,3050, Humlebæk,3075000 ,12-08-2012,Alm. Salg,71,43310,3,1934,-7%
+210,Villa,Gl Strandvej 97,3050, Humlebæk,6625000 ,20-07-2012,Alm. Salg,148,44764,5,1837,
+210,Villa,Jacobsmindevej 20B,3050, Humlebæk,4850000 ,10-07-2012,Alm. Salg,120,40417,2,2009,-8%
+210,Villa,Præstemosevej 10B,3480, Fredensborg,20323819 ,02-07-2012,Alm. Salg,45,451640,2,1900,
+210,Villa,Kildehusene 2,2990, Nivå,11150000 ,14-06-2012,Alm. Salg,103,108252,3,2014,
+210,Villa,Egevej 6B,3480, Fredensborg,10500000 ,06-06-2012,Alm. Salg,228,46053,7,2008,
+210,Villa,Gl Strandvej 15,3050, Humlebæk,16995000 ,10-05-2012,Alm. Salg,200,84975,5,1904,
+210,Villa,Gl Strandvej 15,3050, Humlebæk,16995000 ,07-05-2012,Alm. Salg,200,84975,5,1904,
+210,Rækkehus,Brødregårdsvej 38,2980, Kokkedal,90000000 ,19-04-2012,Alm. Salg,138,652174,4,2008,
+210,Villa,Jacobsmindevej 4,3050, Humlebæk,7200000 ,18-04-2012,Alm. Salg,181,39779,6,1924,-4%
+210,Villa,Kystvej 13,3050, Humlebæk,12000000 ,09-02-2012,Alm. Salg,196,61224,5,1912,-4%
+210,Ejerlejlighed,"Teglgårdsvej 339, 1. mf",3050, Humlebæk,2757900 ,28-11-2011,Andet,61,45211,2,1961,
+210,Villa,Gl Strandvej 117A,3050, Humlebæk,7200000 ,02-11-2011,Alm. Salg,122,59016,5,2010,-10%
+210,Ejerlejlighed,"Asminderødgade 42D, 1",3480, Fredensborg,2450000 ,17-08-2011,Alm. Salg,60,40833,3,1921,
+210,Rækkehus,Kystvej 25B,3050, Humlebæk,6800000 ,29-05-2011,Alm. Salg,139,48921,4,1909,-3%
+210,Villa,Gl Strandvej 20,3050, Humlebæk,5400000 ,29-01-2011,Alm. Salg,81,66667,2,1820,-4%
+210,Villa,Dageløkkevej 6,3050, Humlebæk,3000000 ,27-01-2011,Alm. Salg,53,56604,2,1877,-6%
+210,Villa,Egevej 6B,3480, Fredensborg,10500000 ,27-12-2010,Alm. Salg,228,46053,7,2008,-12%
+210,Villa,Gl Strandvej 24,3050, Humlebæk,3426300 ,25-12-2010,Fam. Salg,88,38935,3,1810,
+210,Ejerlejlighed,"Chrst Boecksvej 14, st. th",3480, Fredensborg,15800000 ,21-12-2010,Alm. Salg,74,213514,3,1995,
+210,Villa,Strandvejen 340D,2980, Kokkedal,9500000 ,23-10-2010,Alm. Salg,236,40254,7,2004,-5%
+210,Villa,Gl Strandvej 190,3050, Humlebæk,4250000 ,23-08-2010,Alm. Salg,86,49419,4,1904,-8%
+210,Villa,Dronningens Kovang 14,3480, Fredensborg,15000000 ,18-08-2010,Alm. Salg,277,54152,8,1923,
+210,Villa,Gl Strandvej 268,3050, Humlebæk,9250000 ,21-06-2010,Alm. Salg,193,47927,8,1901,-7%
+210,Villa,Gl Strandvej 31,3050, Humlebæk,16800000 ,24-05-2010,Alm. Salg,354,47458,12,1900,-16%
+210,Villa,Dageløkkevej 40,3050, Humlebæk,4565000 ,21-04-2010,Alm. Salg,59,77373,2,2017,
+210,Ejerlejlighed,Grønholtvej 86B,3480, Fredensborg,10880000 ,01-03-2010,Fam. Salg,192,56667,4,1939,
+210,Villa,Gl Strandvej 216,3050, Humlebæk,7500000 ,15-02-2010,Alm. Salg,117,64103,4,1850,
+210,Villa,Gl Strandvej 232,3050, Humlebæk,11800000 ,15-02-2010,Alm. Salg,266,44361,8,1911,7%
+210,Ejerlejlighed,Sølyst Strandpark 7,2990, Nivå,6430000 ,25-10-2009,Alm. Salg,150,42867,3,2010,
+210,Rækkehus,Sølyst Strandpark 66,2990, Nivå,5990000 ,21-10-2009,Alm. Salg,156,38397,5,2009,
+210,Villa,Kystvej 15,3050, Humlebæk,18000000 ,01-07-2009,Alm. Salg,291,61856,8,1904,-10%
+210,Villa,Damsholtevej 27,2970, Hørsholm,8000000 ,26-03-2009,Alm. Salg,185,43243,6,1931,
+210,Villa,Gl Strandvej 1B,3050, Humlebæk,5960000 ,14-03-2009,Alm. Salg,135,44148,4,1850,-15%
+210,Rækkehus,Gl Strandvej 136A,3050, Humlebæk,7400000 ,16-12-2008,Alm. Salg,195,37949,6,1897,
+210,Villa,Dageløkkevej 6,3050, Humlebæk,2750000 ,22-10-2008,Fam. Salg,53,51887,2,1877,
+210,Villa,Sørens Alle 18,3050, Humlebæk,4750000 ,12-10-2008,Alm. Salg,95,50000,3,1958,
+210,Villa,Langstrupvej 8,3480, Fredensborg,12000000 ,20-09-2008,Alm. Salg,210,57143,7,1988,-25%
+210,Villa,Gl Strandvej 176,3050, Humlebæk,3800000 ,30-08-2008,Alm. Salg,94,40426,4,1817,-7%
+210,Villa,Langkildeparken 39,3480, Fredensborg,10000000 ,10-08-2008,Andet,166,60241,5,2016,285%
+210,Ejerlejlighed,"Avderødvej 27A, 1",2980, Kokkedal,30000000 ,29-07-2008,Alm. Salg,126,238095,3,1897,
+210,Villa,Gl Strandvej 43,3050, Humlebæk,18820000 ,31-05-2008,Alm. Salg,275,68436,9,1910,11%
+210,Villa,Kongevejen 57,3480, Fredensborg,57000000 ,17-05-2008,Alm. Salg,241,236515,3,2022,
+210,Villa,Langebjergvej 107A,3050, Humlebæk,9000000 ,21-02-2008,Alm. Salg,228,39474,6,1900,
+210,Villa,Skovgårdsvej 7,2980, Kokkedal,6700000 ,14-02-2008,Alm. Salg,172,38953,5,1827,-1%
+210,Villa,Gl Strandvej 190,3050, Humlebæk,4975000 ,27-12-2007,Alm. Salg,86,57849,4,1904,
+210,Villa,Dageløkkevej 17,3050, Humlebæk,5750000 ,20-12-2007,Alm. Salg,115,50000,4,1917,-4%
+210,Villa,Gl Strandvej 260,3050, Humlebæk,15500000 ,20-12-2007,Alm. Salg,223,69507,8,1890,
+210,Villa,Kastanie Alle 8,3050, Humlebæk,6795000 ,18-11-2007,Alm. Salg,152,44704,6,1906,
+210,Villa,Sørens Alle 9,3050, Humlebæk,5350000 ,18-09-2007,Alm. Salg,136,39338,4,1900,-3%
+210,Villa,Kongevejen 57,3480, Fredensborg,16200000 ,27-07-2007,Alm. Salg,241,67220,3,2022,
+210,Villa,Fredtoftevej 17,2980, Kokkedal,13050000 ,29-06-2007,Alm. Salg,283,46113,6,1971,-8%
+210,Villa,Gl Strandvej 38,3050, Humlebæk,8000000 ,13-06-2007,Alm. Salg,166,48193,4,1964,-5%
+210,Villa,Gl Strandvej 17,3050, Humlebæk,15200000 ,03-06-2007,Alm. Salg,245,62041,5,1974,-4%
+210,Villa,Torpenvej 27B,3050, Humlebæk,23199000 ,29-04-2007,Alm. Salg,164,141457,5,2009,
+210,Villa,Slotsvænget 28,3480, Fredensborg,6800000 ,28-04-2007,Alm. Salg,180,37778,6,1964,-14%
+210,Villa,Torpenvej 27B,3050, Humlebæk,17270000 ,25-04-2007,Alm. Salg,164,105305,5,2009,
+210,Villa,Damsholtevej 27,2970, Hørsholm,6995000 ,23-04-2007,Alm. Salg,185,37811,6,1931,
+210,Villa,Gl Strandvej 208,3050, Humlebæk,7500000 ,14-04-2007,Alm. Salg,155,48387,6,1907,
+210,Villa,Gl Strandvej 41,3050, Humlebæk,28000000 ,17-03-2007,Alm. Salg,335,83582,7,1900,
+210,Rækkehus,Skovvej 8A,3050, Humlebæk,2670000 ,25-02-2007,Alm. Salg,69,38696,3,1983,
+210,Rækkehus,Babylonevej 2A,3050, Humlebæk,7400000 ,16-02-2007,Alm. Salg,160,46250,6,2008,
+210,Villa,Paludan Müllersvej 3,3480, Fredensborg,6700000 ,08-02-2007,Alm. Salg,170,39412,6,1917,
+210,Villa,Torpenvej 27B,3050, Humlebæk,12375000 ,28-01-2007,Alm. Salg,164,75457,5,2009,
+210,Villa,Kokkedal Stationsvej 17,2980, Kokkedal,2750000 ,18-01-2007,Alm. Salg,62,44355,3,1943,
+210,Villa,Hørsholmvej 1B,3050, Humlebæk,16200000 ,18-01-2007,Alm. Salg,128,126563,5,1920,
+210,Villa,Digelsvej 1B,3480, Fredensborg,14685000 ,18-11-2006,Alm. Salg,241,60934,9,1972,
+210,Villa,Slotsvænget 20,3480, Fredensborg,5600000 ,15-11-2006,Alm. Salg,102,54902,4,1959,
+210,Villa,Dageløkkevej 40,3050, Humlebæk,6900000 ,06-11-2006,Alm. Salg,59,116949,2,2017,
+210,Villa,Hans Rostgårdsvej 1,3050, Humlebæk,9500000 ,04-10-2006,Alm. Salg,214,44393,6,1997,
+210,Villa,Torpenvej 7,3050, Humlebæk,6900000 ,30-09-2006,Alm. Salg,160,43125,6,1928,
+210,Rækkehus,Lågegyde 148A,2980, Kokkedal,5712107 ,28-09-2006,Alm. Salg,150,38081,5,2007,
+210,Villa,Gl Strandvej 161,3050, Humlebæk,8500000 ,23-09-2006,Alm. Salg,101,84158,4,1900,
+210,Villa,Gl Strandvej 117A,3050, Humlebæk,4800000 ,08-09-2006,Alm. Salg,122,39344,5,2010,
+210,Villa,Gl Strandvej 117,3050, Humlebæk,12900000 ,17-08-2006,Alm. Salg,207,62319,5,1875,
+210,Villa,Nederste Torpenvej 3D,3050, Humlebæk,11000000 ,12-08-2006,Alm. Salg,198,55556,7,1945,
+210,Villa,Sørupvej 64B,3480, Fredensborg,6550000 ,27-07-2006,Alm. Salg,154,42532,5,1882,
+210,Villa,Gl Mejerivej 10,3050, Humlebæk,5495000 ,26-07-2006,Alm. Salg,142,38697,4,1996,
+210,Rækkehus,Humlehaven 6,3050, Humlebæk,2400000 ,23-06-2006,Alm. Salg,63,38095,3,1959,
+210,Villa,Skolebakken 6,3050, Humlebæk,8810000 ,13-06-2006,Alm. Salg,201,43831,4,1916,
+210,Rækkehus,Veksebovej 23B,3480, Fredensborg,8250000 ,13-05-2006,Alm. Salg,135,61111,6,1920,
+210,Villa,Syrenvej 3,3480, Fredensborg,16000000 ,24-04-2006,Alm. Salg,182,87912,4,1800,
+210,Villa,Bagerstræde 18,3480, Fredensborg,3075000 ,03-04-2006,Alm. Salg,47,65426,2,1893,
+210,Villa,Strand Alle 6,3050, Humlebæk,7665000 ,21-03-2006,Alm. Salg,203,37759,6,1937,
+210,Ejerlejlighed,"Humlebæk Strandvej 2A, 1",3050, Humlebæk,7500000 ,20-03-2006,Alm. Salg,165,45455,6,1737,
+210,Villa,Hillerødvejen 2,3480, Fredensborg,7050000 ,01-03-2006,Alm. Salg,165,42727,6,1924,
+210,Villa,Hejreskov Alle 7,3050, Humlebæk,6075000 ,19-02-2006,Alm. Salg,151,40232,4,1919,
+210,Villa,Sørupvej 36D,3480, Fredensborg,7500000 ,11-12-2005,Alm. Salg,182,41209,6,1986,
+210,Villa,Lågegyde 35B,2980, Kokkedal,3510000 ,10-12-2005,Alm. Salg,92,38152,4,1928,
+210,Villa,Kystvej 15,3050, Humlebæk,16500000 ,13-11-2005,Alm. Salg,291,56701,8,1904,
+210,Villa,Gl Strandvej 198A,3050, Humlebæk,4500000 ,30-10-2005,Alm. Salg,112,40179,4,1927,
+210,Villa,Gl Strandvej 39,3050, Humlebæk,13700000 ,13-10-2005,Alm. Salg,260,52692,8,1915,
+210,Ejerlejlighed,"Teglgårdsvej 401, st. tv",3050, Humlebæk,3500000 ,05-10-2005,Alm. Salg,53,66038,1,1968,
+210,Villa,Gl Strandvej 161,3050, Humlebæk,5200000 ,31-08-2005,Alm. Salg,101,51485,4,1900,
+210,Villa,Brønsholmvej 12,2980, Kokkedal,49000000 ,05-05-2005,Alm. Salg,81,604938,3,1773,
+210,Villa,Kongevejen 60,3480, Fredensborg,9500000 ,03-10-2004,Alm. Salg,83,114458,4,1954,
+210,Villa,Gl Strandvej 202A,3050, Humlebæk,4911000 ,30-09-2004,Alm. Salg,118,41619,3,1908,
+210,Villa,Kongevejen 60,3480, Fredensborg,5500000 ,31-05-2004,Alm. Salg,83,66265,4,1954,
+210,Villa,Gl Strandvej 41,3050, Humlebæk,19850000 ,17-03-2004,Alm. Salg,335,59254,7,1900,
+210,Villa,Brønsholmvej 12,2980, Kokkedal,4930000 ,22-12-2003,Fam. Salg,81,60864,3,1773,
+210,Ejerlejlighed,"Teglgårdsvej 401, st. tv",3050, Humlebæk,2400000 ,20-11-2003,Alm. Salg,53,45283,1,1968,
+210,Villa,Kystvej 5,3050, Humlebæk,6350000 ,09-11-2003,Alm. Salg,157,40446,4,1905,
+210,Villa,Havnevej 1,3050, Humlebæk,6600000 ,20-09-2001,Alm. Salg,139,47482,6,1798,
+210,Rækkehus,Holmeskovvej 5B,3480, Fredensborg,2400000 ,30-01-2001,Fam. Salg,59,40678,3,1900,
+210,Villa,Hørsholmvej 1B,3050, Humlebæk,6700000 ,12-11-2000,Fam. Salg,128,52344,5,1920,
+210,Rækkehus,Kirkeleddet 402,3480, Fredensborg,42590000 ,24-08-1998,Alm. Salg,113,376903,4,1999,
+210,Villa,Præstemosevej 10B,3480, Fredensborg,3036064 ,23-07-1997,Alm. Salg,45,67468,2,1900,
+210,Villa,Gunderødvej 17,2970, Hørsholm,5215000 ,07-06-1994,Alm. Salg,115,45348,4,1950,

@@ -1,0 +1,653 @@
+municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,type_of_sale,square_meters,square_meters_price,rooms,year_of_construction,The percentage difference between the latest bid price and the sale price
+230,Villa,Carlsmindevej 19,2840, Holte,6800000 ,15-12-2022,Alm. Salg,110,61818,3,1950,-15%
+230,Villa,Skodsborg Strandvej 282,2942, Skodsborg,46000000 ,11-12-2022,Alm. Salg,406,113300,14,1937,
+230,Villa,Alfred Christensens Vej 28,2850, Nærum,8600000 ,10-12-2022,Alm. Salg,139,61871,6,1938,-9%
+230,Villa,Kettebakken 28,2942, Skodsborg,7222000 ,01-12-2022,Alm. Salg,125,57776,4,1963,3%
+230,Villa,Kastanievej 34,2840, Holte,8495000 ,28-11-2022,Alm. Salg,120,70792,4,1957,
+230,Ejerlejlighed,"Vejlesøparken 14, 5. tv",2840, Holte,7600000 ,25-11-2022,Alm. Salg,119,63866,3,1973,-5%
+230,Villa,Søllerødgårdsvej 46,2840, Holte,11600000 ,15-11-2022,Alm. Salg,192,60417,7,1959,-7%
+230,Villa,Vejlesøvej 88,2840, Holte,35600000 ,14-11-2022,Alm. Salg,428,83178,6,1960,-11%
+230,Villa,Fyrrebakken 9,3460, Birkerød,12900000 ,13-11-2022,Alm. Salg,234,55128,6,2011,-1%
+230,Rækkehus,Skodsborgparken 11,2942, Skodsborg,4400000 ,09-11-2022,Alm. Salg,75,58667,4,1897,-8%
+230,Villa,Vejlesøvej 44,2840, Holte,11250000 ,09-11-2022,Alm. Salg,179,62849,6,1947,-6%
+230,Villa,Malmmosevej 51,2840, Holte,11800000 ,09-11-2022,Alm. Salg,202,58416,6,1907,-9%
+230,Rækkehus,Avnholtsvej 35,2950, Vedbæk,11000000 ,06-11-2022,Alm. Salg,164,67073,5,2014,-2%
+230,Ejerlejlighed,"Søllerød Park 4, st. 4",2840, Holte,5500000 ,02-11-2022,Alm. Salg,100,55000,4,1956,-3%
+230,Rækkehus,Carl Plougs Vej 66,3460, Birkerød,8500000 ,01-11-2022,Andet,140,60714,3,1984,
+230,Villa,Rosenvej 2,2950, Vedbæk,6850000 ,30-10-2022,Alm. Salg,94,72872,4,1936,
+230,Villa,Vedbæk Strandvej 468A,2950, Vedbæk,22500000 ,27-10-2022,Alm. Salg,358,62849,7,2005,
+230,Ejerlejlighed,"Skodsborgparken 30, 4. th",2942, Skodsborg,10100000 ,14-10-2022,Alm. Salg,135,74815,3,1963,-8%
+230,Villa,Kohavevej 16,2950, Vedbæk,7200000 ,12-10-2022,Alm. Salg,124,58065,4,1922,
+230,Ejerlejlighed,"Skodsborgparken 22, 1. tv",2942, Skodsborg,6650000 ,06-10-2022,Alm. Salg,111,59910,3,1963,
+230,Villa,Dempeeng 5,2950, Vedbæk,14500000 ,05-10-2022,Alm. Salg,258,56202,5,2020,
+230,Villa,Paradisstien 10,2840, Holte,10170000 ,03-10-2022,Alm. Salg,179,56816,7,1958,
+230,Ejerlejlighed,"Skodsborgparken 20, st. th",2942, Skodsborg,8520000 ,02-10-2022,Alm. Salg,125,68160,3,1981,0%
+230,Villa,Birkebakken 6,3460, Birkerød,8500000 ,28-09-2022,Alm. Salg,153,55556,6,1955,
+230,Villa,Rudersdalsvej 41,2840, Holte,9500000 ,28-09-2022,Alm. Salg,132,71970,4,1900,-5%
+230,Ejerlejlighed,"Skodsborg Strandvej 227, 2. 24",2942, Skodsborg,2600000 ,25-09-2022,Alm. Salg,43,60465,1,1886,-9%
+230,Villa,Skodsborg Strandvej 111,2942, Skodsborg,14700000 ,19-09-2022,Alm. Salg,182,80769,6,1880,-8%
+230,Villa,Sandbjergvej 25,2970, Hørsholm,7000000 ,19-09-2022,Alm. Salg,127,55118,3,2018,-12%
+230,Villa,Carit Etlars Vej 2B,2840, Holte,10250000 ,18-09-2022,Alm. Salg,130,78846,6,1961,-17%
+230,Villa,Tornevangsvej 30,3460, Birkerød,4050000 ,13-09-2022,Alm. Salg,67,60448,3,1946,-6%
+230,Villa,Gøngehusvej 261,2970, Hørsholm,28751088 ,09-09-2022,Alm. Salg,91,315946,3,1989,
+230,Ejerlejlighed,"Vejlesøparken 14, 2. th",2840, Holte,10250000 ,08-09-2022,Alm. Salg,160,64063,5,1973,-2%
+230,Villa,Skodsborg Strandvej 132,2942, Skodsborg,35500000 ,07-09-2022,Alm. Salg,273,130037,6,1935,-8%
+230,Rækkehus,Vestre Paradisvej 29B,2840, Holte,6300000 ,04-09-2022,Alm. Salg,105,60000,5,1958,-7%
+230,Villa,Skovlybakken 17,2840, Holte,7600000 ,30-08-2022,Alm. Salg,139,54676,6,1963,
+230,Rækkehus,Hegnsvej 131,2850, Nærum,6000000 ,16-08-2022,Alm. Salg,108,55556,5,1955,
+230,Villa,Søllerødgårdsvej 35,2840, Holte,27500000 ,16-08-2022,Alm. Salg,312,88141,10,1957,
+230,Villa,Ellesøpark 31,2950, Vedbæk,8295000 ,15-08-2022,Alm. Salg,148,56047,6,1954,
+230,Villa,Odinsvej 3,3460, Birkerød,4995000 ,13-08-2022,Alm. Salg,75,66600,3,1935,
+230,Ejerlejlighed,"Søllerød Park 2, st. 5",2840, Holte,5600000 ,10-08-2022,Alm. Salg,101,55446,4,1956,-3%
+230,Villa,Vedbæk Strandvej 506,2950, Vedbæk,132750000 ,07-08-2022,Andet,877,151368,31,1890,
+230,Villa,Fredskovvej 14,2840, Holte,45000000 ,03-08-2022,Alm. Salg,305,147541,4,2016,-10%
+230,Villa,Kaj Munks Vej 7,3460, Birkerød,9000000 ,01-08-2022,Alm. Salg,163,55215,5,2010,
+230,Villa,Vedbæk Strandvej 487A,2950, Vedbæk,14100000 ,28-07-2022,Alm. Salg,179,78771,6,1954,-5%
+230,Villa,Søllerødvej 93,2840, Holte,16000000 ,24-07-2022,Alm. Salg,205,78049,6,2017,-9%
+230,Villa,Kirsebær Alle 9B,2840, Holte,12500000 ,20-07-2022,Alm. Salg,157,79618,5,1915,-4%
+230,Villa,Skovringen 38,2950, Vedbæk,13600000 ,16-07-2022,Alm. Salg,215,63256,6,2006,-9%
+230,Ejerlejlighed,"Skodsborgparken 10, 2. tv",2942, Skodsborg,7950000 ,13-07-2022,Alm. Salg,112,70982,2,1981,-10%
+230,Villa,Pile Alle 30A,2840, Holte,12600000 ,11-07-2022,Alm. Salg,175,72000,4,1929,-7%
+230,Ejerlejlighed,"Skodsborgparken 24, 1. th",2942, Skodsborg,6795000 ,07-07-2022,Alm. Salg,120,56625,4,1963,-3%
+230,Ejerlejlighed,"Stiholmsvej 1, 3. 11",3460, Birkerød,5900000 ,07-07-2022,Alm. Salg,80,73750,3,1965,
+230,Villa,Grünersvej 13,2840, Holte,16500000 ,07-07-2022,Alm. Salg,220,75000,6,1919,-3%
+230,Ejerlejlighed,"Vejlesøparken 2, 3. tv",2840, Holte,9500000 ,01-07-2022,Alm. Salg,148,64189,5,1973,-5%
+230,Villa,Kong Valdemars Vej 54B,2840, Holte,20250000 ,29-06-2022,Alm. Salg,252,80357,8,1995,
+230,Villa,Vedbæk Strandvej 433A,2950, Vedbæk,11250000 ,26-06-2022,Alm. Salg,188,59840,7,1963,-6%
+230,Ejerlejlighed,"Høje Skodsborgvej 26, st. tv",2942, Skodsborg,4565000 ,22-06-2022,Alm. Salg,79,57785,3,1936,-1%
+230,Ejerlejlighed,"Trørødvej 26, st. 14",2950, Vedbæk,5100000 ,22-06-2022,Alm. Salg,91,56044,3,1902,-2%
+230,Villa,Elmevej 15,2840, Holte,16000000 ,22-06-2022,Andet,217,73733,6,1925,-6%
+230,Villa,Skovskellet 47A,2840, Holte,15800000 ,19-06-2022,Alm. Salg,281,56228,7,1981,-5%
+230,Villa,Bregnerødvej 40,3460, Birkerød,7500000 ,16-06-2022,Alm. Salg,135,55556,3,1973,-6%
+230,Rækkehus,Skodsborgparken 7,2942, Skodsborg,6250000 ,14-06-2022,Alm. Salg,97,64433,3,1920,4%
+230,Villa,Søbakkevej 29,2840, Holte,11900000 ,14-06-2022,Alm. Salg,134,88806,6,1935,
+230,Rækkehus,Lindevangsvej 21C,3460, Birkerød,7500000 ,13-06-2022,Alm. Salg,127,59055,4,1983,
+230,Ejerlejlighed,"Skodsborg Strandvej 225B, 1. th",2942, Skodsborg,17600000 ,08-06-2022,Alm. Salg,219,80365,5,1886,-2%
+230,Villa,Viekær 31,2950, Vedbæk,8050000 ,05-06-2022,Alm. Salg,133,60526,4,1963,-2%
+230,Ejerlejlighed,"Skodsborgparken 38, 2. th",2942, Skodsborg,7495000 ,03-06-2022,Alm. Salg,120,62458,4,1963,
+230,Villa,Høbjergvej 7,2950, Vedbæk,12200000 ,02-06-2022,Alm. Salg,192,63542,4,1935,0%
+230,Villa,Rørmosevej 22,3460, Birkerød,12000000 ,01-06-2022,Andet,188,63830,4,2022,
+230,Ejerlejlighed,"Skodsborg Strandvej 215, 2. tv",2942, Skodsborg,4995000 ,31-05-2022,Alm. Salg,85,58765,3,1890,
+230,Villa,Sandbjergvej 55A,2950, Vedbæk,10249000 ,31-05-2022,Alm. Salg,140,73207,5,1926,
+230,Rækkehus,Gassehaven 34,2840, Holte,8650000 ,26-05-2022,Alm. Salg,156,55449,4,1971,-2%
+230,Villa,Carl Plougs Vej 11,3460, Birkerød,14000000 ,22-05-2022,Alm. Salg,171,81871,5,1962,-7%
+230,Villa,Lyngbakkevej 3,2840, Holte,25000000 ,16-05-2022,Alm. Salg,266,93985,7,2020,
+230,Villa,Enrumvej 33,2950, Vedbæk,8800000 ,15-05-2022,Alm. Salg,144,61111,4,1976,-7%
+230,Rækkehus,Plantagevej 78E,3460, Birkerød,9507500 ,10-05-2022,Alm. Salg,151,62964,5,1982,0%
+230,Villa,Skovvang 4,3460, Birkerød,6150000 ,10-05-2022,Alm. Salg,107,57477,4,1967,-2%
+230,Villa,Holmevej 15,2950, Vedbæk,10250000 ,09-05-2022,Alm. Salg,138,74275,5,1827,-6%
+230,Villa,Østerlund 17,2950, Vedbæk,12100000 ,08-05-2022,Alm. Salg,160,75625,6,1961,-5%
+230,Villa,Rønnebærvej 122,2840, Holte,9350000 ,04-05-2022,Alm. Salg,131,71374,5,1923,-6%
+230,Rækkehus,Langebjerg 78,2850, Nærum,6200000 ,03-05-2022,Alm. Salg,109,56881,4,1968,-9%
+230,Villa,Skolevej 9,2840, Holte,10100000 ,02-05-2022,Alm. Salg,169,59763,6,1959,1%
+230,Villa,De Conincks Vej 21,2840, Holte,36550000 ,29-04-2022,Alm. Salg,329,111094,9,1900,-13%
+230,Villa,Paradisvænget 11,2840, Holte,8750000 ,27-04-2022,Alm. Salg,128,68359,5,1961,
+230,Villa,Skodsborgvej 366,2850, Nærum,8150000 ,24-04-2022,Alm. Salg,128,63672,5,1952,-4%
+230,Villa,Carlsvej 4A,2840, Holte,10500000 ,24-04-2022,Alm. Salg,135,77778,6,1963,-7%
+230,Villa,Arnevangen 2,2840, Holte,16300000 ,23-04-2022,Alm. Salg,215,75814,6,2020,-4%
+230,Villa,Gl.Holte Gade 13,2840, Holte,6000000 ,21-04-2022,Alm. Salg,96,62500,3,1800,-3%
+230,Villa,Rønnebærvej 132,2840, Holte,8910000 ,11-04-2022,Alm. Salg,159,56038,6,1938,-1%
+230,Villa,Rønnebærvej 112,2840, Holte,18000000 ,10-04-2022,Alm. Salg,321,56075,8,2019,-3%
+230,Villa,Carl Plougs Vej 25,3460, Birkerød,14000000 ,04-04-2022,Alm. Salg,241,58091,7,1968,
+230,Villa,Skodsborg Strandvej 114,2942, Skodsborg,45000000 ,27-03-2022,Alm. Salg,321,140187,7,1878,-6%
+230,Rækkehus,Rønnebærvej 96A,2840, Holte,6600000 ,23-03-2022,Alm. Salg,100,66000,4,1957,
+230,Rækkehus,Carl Von Rosensvej 8,2950, Vedbæk,8700000 ,23-03-2022,Alm. Salg,150,58000,5,2015,-1%
+230,Villa,Tesch Alle 14,2840, Holte,17325000 ,21-03-2022,Alm. Salg,149,116275,5,1948,
+230,Villa,Morlenesvej 28,2840, Holte,28750000 ,21-03-2022,Andet,286,100524,7,1900,
+230,Villa,Ved Furesøen 14,2840, Holte,9750000 ,17-03-2022,Alm. Salg,123,79268,6,1928,-10%
+230,Villa,Ved Furesøen 5,2840, Holte,13300000 ,16-03-2022,Alm. Salg,179,74302,6,1930,-4%
+230,Villa,Hørsholm Kongevej 51,2840, Holte,8995000 ,16-03-2022,Alm. Salg,135,66630,3,2016,
+230,Villa,Kohavevej 16,2950, Vedbæk,7200000 ,13-03-2022,Alm. Salg,124,58065,4,1922,-3%
+230,Villa,Morlenesvej 36,2840, Holte,16000000 ,13-03-2022,Alm. Salg,234,68376,10,1912,
+230,Villa,Paradisvænget 16,2840, Holte,15650000 ,09-03-2022,Alm. Salg,206,75971,6,1971,-2%
+230,Ejerlejlighed,"Vejlesøparken 4, 1. tv",2840, Holte,10000000 ,04-03-2022,Alm. Salg,181,55249,5,1973,
+230,Ejerlejlighed,"Skodsborg Strandvej 211, 1. th",2942, Skodsborg,6245000 ,28-02-2022,Alm. Salg,90,69389,2,1889,-1%
+230,Villa,Damgårdsvej 58,3460, Birkerød,4950000 ,28-02-2022,Alm. Salg,78,63462,3,1958,-1%
+230,Villa,Kong Valdemars Vej 31A,2840, Holte,13250000 ,24-02-2022,Alm. Salg,238,55672,10,1984,-5%
+230,Rækkehus,Rønnebærvej 98B,2840, Holte,5625000 ,22-02-2022,Alm. Salg,100,56250,4,1957,-3%
+230,Villa,Marievej 21,2950, Vedbæk,11500000 ,22-02-2022,Fam. Salg,177,64972,7,1903,
+230,Ejerlejlighed,"Skodsborgparken 32, 2. tv",2942, Skodsborg,5100000 ,21-02-2022,Alm. Salg,82,62195,2,1963,-5%
+230,Rækkehus,Rude Vang 42,2840, Holte,7100000 ,18-02-2022,Alm. Salg,100,71000,4,1956,
+230,Villa,Højbjerg Vang 18,2840, Holte,10550000 ,18-02-2022,Alm. Salg,176,59943,6,1987,-4%
+230,Villa,Kastanievej 34,2840, Holte,8495000 ,13-02-2022,Alm. Salg,120,70792,4,1957,
+230,Villa,Dronninggårds Alle 96,2840, Holte,58000000 ,09-02-2022,Alm. Salg,297,195286,8,1895,
+230,Villa,Lindevangsvej 22A,2950, Vedbæk,12750000 ,09-02-2022,Alm. Salg,159,80189,4,2003,
+230,Villa,Nordre Paradisvej 3,2840, Holte,11995000 ,08-02-2022,Alm. Salg,172,69738,6,1967,
+230,Villa,Enrumvej 12,2942, Skodsborg,18500000 ,08-02-2022,Alm. Salg,275,67273,6,1950,
+230,Villa,Mothsvej 69,2840, Holte,8775000 ,07-02-2022,Alm. Salg,129,68023,4,1954,-8%
+230,Ejerlejlighed,"Skodsborgparken 48, 4. tv",2942, Skodsborg,5600000 ,02-02-2022,Alm. Salg,82,68293,2,1963,-2%
+230,Villa,Skovmindevej 14,2840, Holte,18425000 ,27-01-2022,Alm. Salg,213,86502,9,1928,-8%
+230,Villa,Vinkelvej 18,2950, Vedbæk,10350000 ,25-01-2022,Alm. Salg,167,61976,5,1967,-6%
+230,Villa,Pile Alle 24,2840, Holte,14000000 ,25-01-2022,Alm. Salg,176,79545,8,1924,
+230,Villa,Hotelstien 8,2950, Vedbæk,14700000 ,25-01-2022,Alm. Salg,189,77778,6,1916,-2%
+230,Villa,Hotelstien 6,2950, Vedbæk,13200000 ,23-01-2022,Alm. Salg,181,72928,6,1934,-2%
+230,Ejerlejlighed,"Høje Skodsborgvej 28, st. tv",2942, Skodsborg,12400000 ,22-01-2022,Alm. Salg,204,60784,7,1936,-1%
+230,Villa,Arnevangen 33,2840, Holte,9700000 ,22-01-2022,Alm. Salg,144,67361,5,1960,
+230,Villa,Kajerødvej 55,3460, Birkerød,8995000 ,20-01-2022,Alm. Salg,152,59178,7,1937,
+230,Rækkehus,Trudeslund 16,3460, Birkerød,4995000 ,16-01-2022,Fam. Salg,90,55500,3,1981,
+230,Ejerlejlighed,"Skodsborgparken 42, 3. tv",2942, Skodsborg,5050000 ,16-01-2022,Alm. Salg,82,61585,2,1963,-3%
+230,Rækkehus,Manenvej 15,3460, Birkerød,7500000 ,15-01-2022,Alm. Salg,129,58140,5,1953,
+230,Villa,Rudegårds Alle 23,2840, Holte,12700000 ,15-01-2022,Alm. Salg,193,65803,7,1917,-2%
+230,Villa,Høje Bøge 5,2850, Nærum,13800000 ,13-01-2022,Alm. Salg,235,58723,7,1967,-5%
+230,Villa,Rudegårds Alle 19B,2840, Holte,7450000 ,12-01-2022,Alm. Salg,107,69626,4,1962,-7%
+230,Villa,Kong Valdemars Vej 56,2840, Holte,17000000 ,12-01-2022,Alm. Salg,270,62963,7,1994,-3%
+230,Villa,Vedbæk Strandvej 489,2950, Vedbæk,12714808 ,09-01-2022,Alm. Salg,170,74793,5,1964,-8%
+230,Villa,Holmevej 2A,2950, Vedbæk,8950000 ,06-01-2022,Alm. Salg,163,54908,5,1980,-1%
+230,Villa,Frederikslundsvej 1A,2840, Holte,10900000 ,27-12-2021,Alm. Salg,190,57368,7,1967,-9%
+230,Villa,Øverødvej 56,2840, Holte,7056500 ,26-12-2021,Alm. Salg,120,58804,5,1931,
+230,Villa,Alfred Christensens Vej 8,2850, Nærum,11100000 ,23-12-2021,Alm. Salg,186,59677,6,1914,1%
+230,Villa,Lindevangsvej 14A,2950, Vedbæk,15400000 ,21-12-2021,Alm. Salg,231,66667,5,1947,-3%
+230,Ejerlejlighed,"Skodsborgparken 28, 1. th",2942, Skodsborg,6800000 ,19-12-2021,Alm. Salg,120,56667,4,1963,-3%
+230,Ejerlejlighed,"Skodsborgparken 58, 3. th",2942, Skodsborg,8300000 ,16-12-2021,Alm. Salg,120,69167,4,1963,-2%
+230,Villa,Engen 2,3460, Birkerød,6000000 ,14-12-2021,Alm. Salg,105,57143,3,1960,
+230,Ejerlejlighed,"Skodsborgparken 20, 3. th",2942, Skodsborg,9995000 ,12-12-2021,Alm. Salg,125,79960,3,1981,
+230,Villa,Kollemosevej 9A,2840, Holte,12995000 ,06-12-2021,Alm. Salg,152,85493,5,2005,
+230,Villa,Nærumhusvej 4,2850, Nærum,15700000 ,03-12-2021,Alm. Salg,251,62550,6,2013,-2%
+230,Villa,Rønnebærtoften 5,2950, Vedbæk,11495000 ,30-11-2021,Alm. Salg,200,57475,6,1996,
+230,Villa,Skovmindevej 32,2840, Holte,13150000 ,25-11-2021,Alm. Salg,189,69577,5,1917,-5%
+230,Ejerlejlighed,"Skodsborg Strandvej 225B, st. tv",2942, Skodsborg,15800000 ,23-11-2021,Alm. Salg,244,64754,4,1886,
+230,Villa,Landsebakken 15A,2840, Holte,8650000 ,22-11-2021,Alm. Salg,69,125362,3,1943,
+230,Ejerlejlighed,"Skodsborg Strandvej 227, 1. 10",2942, Skodsborg,4500000 ,21-11-2021,Alm. Salg,66,68182,2,1886,
+230,Villa,Rudesøvej 10,2840, Holte,12000000 ,20-11-2021,Alm. Salg,209,57416,7,1992,-4%
+230,Villa,Borgm.Schneiders Vej 99,2840, Holte,10300000 ,18-11-2021,Alm. Salg,175,58857,5,1960,-3%
+230,Ejerlejlighed,"Skodsborgparken 28, 1. tv",2942, Skodsborg,6395000 ,17-11-2021,Alm. Salg,115,55609,3,1963,
+230,Villa,Attemosevej 13,2840, Holte,10750000 ,15-11-2021,Alm. Salg,168,63988,6,1959,-2%
+230,Villa,Vejlegårdsvej 6,2840, Holte,7800000 ,15-11-2021,Alm. Salg,121,64463,4,1953,4%
+230,Ejerlejlighed,"Høje Skodsborgvej 28, 2. tv",2942, Skodsborg,16500000 ,11-11-2021,Alm. Salg,253,65217,8,1936,-4%
+230,Villa,Hjortholmsvej 11,2830, Virum,12800000 ,11-11-2021,Alm. Salg,189,67725,6,1920,
+230,Villa,Kildedalsvej 14,3460, Birkerød,6275000 ,10-11-2021,Alm. Salg,97,64691,5,1906,0%
+230,Villa,Skovringen 16,2950, Vedbæk,7205000 ,09-11-2021,Alm. Salg,128,56289,6,1956,-4%
+230,Villa,Mosevej 2,2840, Holte,17250000 ,08-11-2021,Alm. Salg,271,63653,9,1966,-7%
+230,Villa,Søllerødvej 80,2840, Holte,44000000 ,04-11-2021,Alm. Salg,310,107317,14,1914,
+230,Villa,Nørreeng 7,2950, Vedbæk,16800000 ,04-11-2021,Alm. Salg,254,66142,7,1923,-6%
+230,Rækkehus,Hjortholmsvej 16B,2830, Virum,8495000 ,02-11-2021,Alm. Salg,124,68508,4,1982,
+230,Villa,Kildehøjvej 11,3460, Birkerød,11250000 ,01-11-2021,Alm. Salg,169,66568,6,1934,
+230,Ejerlejlighed,"Vejlesøparken 4, 2. th",2840, Holte,9725000 ,28-10-2021,Alm. Salg,160,60781,5,1973,2%
+230,Villa,Skodsborg Strandvej 198,2942, Skodsborg,27300000 ,26-10-2021,Alm. Salg,205,133171,8,1907,-2%
+230,Ejerlejlighed,"Høje Skodsborgvej 4, 3. th",2942, Skodsborg,5250000 ,24-10-2021,Alm. Salg,96,54688,4,1936,-4%
+230,Ejerlejlighed,"Høje Skodsborgvej 16, 3. tv",2942, Skodsborg,5150000 ,21-10-2021,Alm. Salg,79,65190,3,1936,-1%
+230,Villa,Kong Valdemars Vej 42A,2840, Holte,14500000 ,17-10-2021,Alm. Salg,206,70388,6,1969,
+230,Villa,Kong Valdemars Vej 2,2840, Holte,23700000 ,15-10-2021,Alm. Salg,241,98340,6,1953,-3%
+230,Villa,Olesvej 13,2950, Vedbæk,23000000 ,15-10-2021,Alm. Salg,274,83942,8,1973,-15%
+230,Villa,Tesch Alle 4,2840, Holte,21550000 ,14-10-2021,Alm. Salg,332,64910,9,1900,-2%
+230,Villa,Skodsborg Strandvej 170,2942, Skodsborg,28000000 ,12-10-2021,Alm. Salg,342,81871,4,0,
+230,Villa,Poppel Alle 34B,2840, Holte,13500000 ,08-10-2021,Alm. Salg,236,57203,7,1919,
+230,Villa,Margrethevej 23,2840, Holte,15000000 ,08-10-2021,Alm. Salg,202,74257,6,1918,-9%
+230,Villa,Højbjerg Vang 22,2840, Holte,10000000 ,05-10-2021,Alm. Salg,179,55866,5,1987,
+230,Villa,Attemosevej 33,2840, Holte,19750000 ,05-10-2021,Alm. Salg,252,78373,7,1989,-4%
+230,Villa,Poulsvej 9,2950, Vedbæk,10950000 ,03-10-2021,Alm. Salg,163,67178,6,1949,-3%
+230,Villa,Vedbæk Strandvej 312,2950, Vedbæk,27000000 ,30-09-2021,Alm. Salg,264,102273,7,1964,-3%
+230,Villa,Præstejorden 10,2850, Nærum,6895000 ,30-09-2021,Alm. Salg,120,57458,4,1961,
+230,Villa,Søllerødvej 86B,2840, Holte,25015000 ,28-09-2021,Alm. Salg,247,101275,7,1963,5%
+230,Villa,Vinkelvej 16,2950, Vedbæk,9450000 ,28-09-2021,Alm. Salg,143,66084,5,1968,
+230,Villa,Olesvej 9,2950, Vedbæk,16800000 ,28-09-2021,Alm. Salg,266,63158,8,1954,
+230,Villa,Margrethe Alle 6,2950, Vedbæk,12000000 ,23-09-2021,Alm. Salg,210,57143,6,1924,-8%
+230,Villa,Kongevejen 405B,2840, Holte,4700000 ,23-09-2021,Alm. Salg,70,67143,3,1939,-6%
+230,Ejerlejlighed,"Henrikshøj 14, 1. 1",2950, Vedbæk,7658000 ,21-09-2021,Alm. Salg,124,61758,3,2016,2%
+230,Villa,Søndervangen 86,3460, Birkerød,6700000 ,21-09-2021,Alm. Salg,121,55372,6,1953,-4%
+230,Rækkehus,Skodsborg Strandvej 262A,2942, Skodsborg,17000000 ,16-09-2021,Alm. Salg,198,85859,6,1977,-15%
+230,Villa,Lyngbakkevej 2B,2840, Holte,16400000 ,12-09-2021,Alm. Salg,241,68050,8,1963,-1%
+230,Ejerlejlighed,"Skodsborgparken 36, 3. th",2942, Skodsborg,8300000 ,09-09-2021,Alm. Salg,122,68033,4,1963,-2%
+230,Villa,Toftevej 22,2840, Holte,16550000 ,07-09-2021,Alm. Salg,230,71957,7,1931,10%
+230,Villa,Lindevangsvej 12,2950, Vedbæk,10750000 ,02-09-2021,Alm. Salg,150,71667,5,1932,
+230,Villa,Gl. Dronninggårds Alle 12,2840, Holte,13250000 ,30-08-2021,Alm. Salg,195,67949,6,1916,-9%
+230,Ejerlejlighed,"Skodsborgparken 44, 5. th",2942, Skodsborg,10450000 ,24-08-2021,Alm. Salg,97,107732,2,1963,-3%
+230,Rækkehus,Haugesundvej 46,2850, Nærum,5999999 ,23-08-2021,Alm. Salg,109,55046,4,1968,
+230,Villa,Skodsborg Strandvej 114,2942, Skodsborg,43000000 ,23-08-2021,Alm. Salg,321,133956,7,1878,-7%
+230,Villa,Morlenesvej 27,2840, Holte,14500000 ,23-08-2021,Alm. Salg,194,74742,7,1993,0%
+230,Villa,Skodsborgvej 144B,2840, Holte,14525000 ,21-08-2021,Alm. Salg,220,66023,6,1976,-3%
+230,Villa,Tjørnehøj 10,2840, Holte,10900000 ,19-08-2021,Alm. Salg,197,55330,6,1969,-1%
+230,Villa,Lyngdalen 6,2850, Nærum,11100000 ,19-08-2021,Alm. Salg,172,64535,5,1951,3%
+230,Villa,Hestefolden 6,2840, Holte,11000000 ,19-08-2021,Alm. Salg,163,67485,5,1958,-8%
+230,Villa,Clarasvej 1,2950, Vedbæk,10200000 ,19-08-2021,Alm. Salg,164,62195,5,2016,2%
+230,Villa,Kastanievej 19,2840, Holte,6537000 ,15-08-2021,Alm. Salg,106,61670,5,1953,9%
+230,Villa,Vedbæk Strandvej 475,2950, Vedbæk,13800000 ,12-08-2021,Alm. Salg,237,58228,6,1933,
+230,Villa,Malerbakken 11,2840, Holte,10500000 ,11-08-2021,Alm. Salg,141,74468,5,1959,
+230,Villa,Egemosen 6,2942, Skodsborg,9450000 ,09-08-2021,Alm. Salg,160,59063,5,1969,-4%
+230,Villa,Borgm.Schneiders Vej 90,2840, Holte,7900000 ,04-08-2021,Alm. Salg,142,55634,4,1960,-1%
+230,Villa,Humlebakken 8,3460, Birkerød,6730000 ,04-08-2021,Alm. Salg,112,60089,3,1960,
+230,Villa,Vestre Paradisvej 153,2840, Holte,10500000 ,02-08-2021,Alm. Salg,162,64815,6,1976,-3%
+230,Villa,Kong Valdemars Vej 25A,2840, Holte,16500000 ,29-07-2021,Alm. Salg,231,71429,7,1982,
+230,Villa,Grøndalsvænge 7,3460, Birkerød,9430000 ,28-07-2021,Alm. Salg,151,62450,5,1942,-1%
+230,Rækkehus,Melchiorsvej 10,2950, Vedbæk,10800000 ,27-07-2021,Alm. Salg,164,65854,5,2016,
+230,Villa,Skovskellet 23,2840, Holte,11895000 ,26-07-2021,Alm. Salg,140,84964,5,1923,
+230,Villa,Arnevangen 39,2840, Holte,16950000 ,21-07-2021,Alm. Salg,264,64205,7,2017,-3%
+230,Villa,Østre Paradisvej 63,2840, Holte,8725000 ,21-07-2021,Alm. Salg,159,54874,4,1965,
+230,Villa,Frydenlundsvej 16,2942, Skodsborg,8995000 ,21-07-2021,Alm. Salg,148,60777,4,1959,
+230,Villa,Malmmosevej 37,2840, Holte,8750000 ,20-07-2021,Alm. Salg,159,55031,4,1955,-3%
+230,Villa,Paradishegnet 25,2840, Holte,10125000 ,15-07-2021,Alm. Salg,184,55027,5,1958,
+230,Ejerlejlighed,"Skodsborgparken 36, 4. th",2942, Skodsborg,7495000 ,12-07-2021,Alm. Salg,122,61434,4,1963,
+230,Villa,Hanne Nielsens Vej 4,2840, Holte,11800000 ,10-07-2021,Alm. Salg,180,65556,7,2018,-2%
+230,Villa,Rørsangervej 4,3460, Birkerød,5151000 ,30-06-2021,Alm. Salg,90,57233,3,1958,3%
+230,Villa,Pile Alle 27,2840, Holte,12500000 ,30-06-2021,Alm. Salg,180,69444,4,1962,
+230,Villa,Skodsborg Strandvej 174,2942, Skodsborg,10840000 ,29-06-2021,Alm. Salg,173,62659,7,1727,
+230,Ejerlejlighed,"Skodsborgparken 54, 1. tv",2942, Skodsborg,7100000 ,26-06-2021,Alm. Salg,111,63964,3,1963,-3%
+230,Rækkehus,Ellesvinget 22,2950, Vedbæk,7000000 ,25-06-2021,Alm. Salg,105,66667,4,1974,
+230,Villa,Skovskellet 39B,2840, Holte,13600000 ,25-06-2021,Alm. Salg,210,64762,5,2003,-1%
+230,Villa,Langagervej 7A,2950, Vedbæk,7245000 ,22-06-2021,Alm. Salg,130,55731,5,1999,
+230,Villa,Skodsborg Strandvej 182,2942, Skodsborg,56000000 ,21-06-2021,Alm. Salg,374,149733,8,1895,
+230,Villa,Vedbæk Strandvej 507B,2950, Vedbæk,11525056 ,20-06-2021,Alm. Salg,182,63324,6,1950,
+230,Ejerlejlighed,"Skodsborgparken 40, 4. th",2942, Skodsborg,8000000 ,15-06-2021,Alm. Salg,120,66667,4,1963,-3%
+230,Rækkehus,Trudeslund 16,3460, Birkerød,4995000 ,14-06-2021,Alm. Salg,90,55500,3,1981,
+230,Villa,Dronninggårds Alle 60,2840, Holte,40870989 ,10-06-2021,Alm. Salg,412,99201,10,1898,-3%
+230,Ejerlejlighed,"Henrikshøj 12, 2. 4",2950, Vedbæk,4995000 ,09-06-2021,Fam. Salg,89,56124,3,2016,
+230,Villa,Skodsborg Strandvej 200,2942, Skodsborg,32000000 ,06-06-2021,Alm. Salg,279,114695,10,1907,-2%
+230,Rækkehus,Henrik Thomsens Vej 24,3460, Birkerød,6495000 ,01-06-2021,Alm. Salg,110,59045,5,1953,
+230,Villa,Carl Plougs Vej 53,3460, Birkerød,11000000 ,01-06-2021,Alm. Salg,177,62147,4,1966,
+230,Ejerlejlighed,"Skodsborgparken 42, 4. tv",2942, Skodsborg,4895000 ,27-05-2021,Alm. Salg,82,59695,2,1963,
+230,Villa,Kong Valdemars Vej 66,2840, Holte,11800000 ,27-05-2021,Alm. Salg,177,66667,5,1984,-8%
+230,Rækkehus,Borchsvej 10,2950, Vedbæk,8300000 ,25-05-2021,Alm. Salg,150,55333,5,2014,4%
+230,Villa,Skodsborg Strandvej 33,2942, Skodsborg,16000000 ,25-05-2021,Alm. Salg,256,62500,8,1906,-9%
+230,Villa,Rønnebærtoften 7,2950, Vedbæk,11305000 ,25-05-2021,Alm. Salg,176,64233,6,1921,0%
+230,Villa,Ved Rudesø 4,2840, Holte,16500000 ,25-05-2021,Alm. Salg,195,84615,6,1910,-7%
+230,Villa,Højbjerg Vang 3,2840, Holte,7850000 ,20-05-2021,Alm. Salg,143,54895,5,1987,-2%
+230,Villa,Skovvang 4,3460, Birkerød,5850000 ,20-05-2021,Alm. Salg,107,54673,4,1967,-2%
+230,Villa,Vedbæk Strandvej 425,2950, Vedbæk,10000001 ,18-05-2021,Alm. Salg,159,62893,5,1906,0%
+230,Ejerlejlighed,"Skodsborg Strandvej 225B, 1. th",2942, Skodsborg,17000000 ,17-05-2021,Alm. Salg,219,77626,5,1886,-1%
+230,Villa,Carl Von Rosensvej 5,2950, Vedbæk,13500000 ,15-05-2021,Alm. Salg,230,58696,9,2017,2%
+230,Villa,Vejlesøvej 53A,2840, Holte,8250000 ,12-05-2021,Alm. Salg,136,60662,5,1957,
+230,Rækkehus,Carlsmindeparken 21,2840, Holte,8550000 ,09-05-2021,Alm. Salg,149,57383,5,1969,1%
+230,Rækkehus,Kong Valdemars Vej 32B,2840, Holte,6500000 ,06-05-2021,Alm. Salg,110,59091,4,1984,-3%
+230,Rækkehus,Kuben 18,2840, Holte,5295000 ,02-05-2021,Alm. Salg,91,58187,3,1964,
+230,Ejerlejlighed,"Skodsborgparken 36, 2. tv",2942, Skodsborg,6475000 ,01-05-2021,Alm. Salg,111,58333,3,1963,-5%
+230,Ejerlejlighed,"Skodsborgparken 14, 1. th",2942, Skodsborg,7400000 ,27-04-2021,Alm. Salg,119,62185,3,1981,-5%
+230,Villa,Vagtelvej 7,3460, Birkerød,6505500 ,26-04-2021,Alm. Salg,103,63160,3,1960,
+230,Villa,Fredskovvej 12,2840, Holte,30500000 ,25-04-2021,Alm. Salg,117,260684,5,1928,
+230,Villa,Skyttehaven 7,2950, Vedbæk,19000000 ,22-04-2021,Alm. Salg,250,76000,6,1917,-3%
+230,Rækkehus,Rude Vang 26,2840, Holte,6300000 ,19-04-2021,Alm. Salg,100,63000,4,1956,-3%
+230,Villa,Vasevej 4B,2840, Holte,6720000 ,14-04-2021,Alm. Salg,119,56471,4,1956,3%
+230,Villa,Søndervangen 98,3460, Birkerød,7650000 ,13-04-2021,Alm. Salg,120,63750,3,1969,5%
+230,Villa,Skovskellet 33B,2840, Holte,9725000 ,13-04-2021,Alm. Salg,160,60781,4,1938,-1%
+230,Villa,Attemosevej 24,2840, Holte,10600000 ,09-04-2021,Alm. Salg,154,68831,4,1915,-5%
+230,Villa,Rønnebærvej 64,2840, Holte,7610000 ,06-04-2021,Alm. Salg,116,65603,4,1947,2%
+230,Rækkehus,Parcelvej 30B,2840, Holte,7250000 ,31-03-2021,Alm. Salg,119,60924,5,1952,
+230,Rækkehus,Melchiorsvej 5,2950, Vedbæk,8800000 ,30-03-2021,Alm. Salg,144,61111,5,2016,
+230,Villa,Vestre Paradisvej 55,2840, Holte,7745000 ,30-03-2021,Alm. Salg,134,57799,6,1958,-1%
+230,Villa,Sandskrænten 18,2850, Nærum,8200000 ,29-03-2021,Alm. Salg,147,55782,5,1956,-2%
+230,Villa,Rudegårds Alle 7A,2840, Holte,9800100 ,24-03-2021,Alm. Salg,169,57989,6,1944,-2%
+230,Villa,Fruerhøj 51,2970, Hørsholm,13800000 ,22-03-2021,Alm. Salg,200,69000,2,2015,-1%
+230,Villa,Concordiavej 20,2850, Nærum,6945000 ,22-03-2021,Alm. Salg,120,57875,6,1954,
+230,Villa,Mothsvej 30,2840, Holte,16350000 ,21-03-2021,Alm. Salg,213,76761,6,2009,-1%
+230,Ejerlejlighed,"Vejlesøparken 2, 3. tv",2840, Holte,9800000 ,17-03-2021,Alm. Salg,148,66216,5,1973,-2%
+230,Villa,Skodsborg Strandvej 43,2942, Skodsborg,23500000 ,17-03-2021,Alm. Salg,266,66384,9,1906,-4%
+230,Villa,Vejlesøvej 4,2840, Holte,11300000 ,16-03-2021,Alm. Salg,155,72903,6,1916,
+230,Villa,Olgasvej 4,2950, Vedbæk,9500000 ,11-03-2021,Alm. Salg,125,76000,5,1912,
+230,Villa,Vedbæk Strandvej 453,2950, Vedbæk,14750000 ,10-03-2021,Alm. Salg,252,58532,9,1931,-5%
+230,Ejerlejlighed,"Solbakken 15, 1",2840, Holte,4255000 ,08-03-2021,Alm. Salg,70,60786,3,1932,
+230,Villa,Furesøhave 4B,3460, Birkerød,12500000 ,03-03-2021,Alm. Salg,186,67204,5,1986,-16%
+230,Villa,Alfred Christensens Vej 8,2850, Nærum,10522000 ,25-02-2021,Alm. Salg,186,56570,6,1914,
+230,Villa,Skodsborg Strandvej 258C,2942, Skodsborg,26500000 ,24-02-2021,Alm. Salg,312,84936,8,1896,-11%
+230,Ejerlejlighed,"Skodsborgparken 56, 3. tv",2942, Skodsborg,6900000 ,21-02-2021,Alm. Salg,111,62162,3,1963,-1%
+230,Villa,Kastanietoften 3,2950, Vedbæk,8800000 ,19-02-2021,Alm. Salg,160,55000,6,1905,
+230,Villa,Østerlund 13,2950, Vedbæk,8655000 ,18-02-2021,Alm. Salg,130,66577,4,1968,2%
+230,Villa,Skovvej 31,2950, Vedbæk,6850000 ,18-02-2021,Alm. Salg,124,55242,5,1964,-1%
+230,Villa,Vejlesøvej 62B,2840, Holte,24500000 ,15-02-2021,Alm. Salg,275,89091,6,2020,
+230,Villa,Vedbæk Strandvej 477,2950, Vedbæk,19000000 ,15-02-2021,Alm. Salg,296,64189,8,2013,
+230,Villa,Dronninggårds Alle 103,2840, Holte,14900000 ,07-02-2021,Alm. Salg,221,67421,8,1923,-1%
+230,Villa,Skodsborg Strandvej 91,2942, Skodsborg,9950000 ,06-02-2021,Alm. Salg,179,55587,5,1887,
+230,Villa,Skodsborg Strandvej 81,2942, Skodsborg,12850000 ,03-02-2021,Alm. Salg,193,66580,5,1917,-3%
+230,Villa,Geelsvej 19,2840, Holte,10200000 ,02-02-2021,Alm. Salg,174,58621,6,1907,-7%
+230,Ejerlejlighed,"Skodsborgparken 64, 5",2942, Skodsborg,15400000 ,01-02-2021,Alm. Salg,138,111594,4,1963,6%
+230,Villa,Kildevej 9,2840, Holte,7700000 ,01-02-2021,Alm. Salg,138,55797,7,1877,
+230,Ejerlejlighed,"Skodsborgparken 54, 4. tv",2942, Skodsborg,7000000 ,31-01-2021,Alm. Salg,111,63063,3,1963,-5%
+230,Villa,Frydenlundsvej 92A,2950, Vedbæk,10750000 ,30-01-2021,Alm. Salg,181,59392,6,1970,-1%
+230,Villa,Vedbæk Strandvej 322,2950, Vedbæk,46000000 ,28-01-2021,Alm. Salg,577,79723,14,1904,
+230,Ejerlejlighed,"Skodsborgparken 54, 5. tv",2942, Skodsborg,7325000 ,27-01-2021,Alm. Salg,90,81389,3,1963,-2%
+230,Villa,Attemosevej 20B,2840, Holte,17650000 ,19-01-2021,Alm. Salg,219,80594,7,1922,
+230,Villa,Arnevangen 15,2840, Holte,7300000 ,18-01-2021,Alm. Salg,118,61864,4,1959,-3%
+230,Villa,Pile Alle 11,2840, Holte,9550000 ,14-01-2021,Alm. Salg,167,57186,7,1923,-5%
+230,Villa,Hyldeageren 18,2950, Vedbæk,13100000 ,12-01-2021,Alm. Salg,223,58744,5,1998,-3%
+230,Rækkehus,Skodsborg Strandvej 77,2942, Skodsborg,7500000 ,07-01-2021,Alm. Salg,127,59055,5,1914,-6%
+230,Villa,Enrumdammen 5,2950, Vedbæk,16100000 ,07-01-2021,Alm. Salg,277,58123,9,1964,-4%
+230,Villa,Søvej 25A,2840, Holte,24995000 ,07-01-2021,Alm. Salg,269,92918,8,1942,
+230,Villa,Vejlesøvej 70,2840, Holte,11150000 ,26-12-2020,Alm. Salg,161,69255,4,1908,-3%
+230,Ejerlejlighed,"Skodsborg Strandvej 217, st. tv",2942, Skodsborg,6000000 ,22-12-2020,Alm. Salg,95,63158,4,1890,-8%
+230,Villa,Furesøbakken 15,3460, Birkerød,9400000 ,21-12-2020,Alm. Salg,172,54651,5,1959,-3%
+230,Villa,Kollevænget 6,2840, Holte,7500000 ,20-12-2020,Alm. Salg,112,66964,4,1956,1%
+230,Villa,Rønnebærvej 24,2840, Holte,7495000 ,17-12-2020,Alm. Salg,133,56353,4,1914,
+230,Villa,Enrumvej 10,2942, Skodsborg,8000000 ,16-12-2020,Alm. Salg,111,72072,5,1954,-4%
+230,Villa,Søllerødvej 58,2840, Holte,17700000 ,16-12-2020,Alm. Salg,324,54630,10,1917,
+230,Villa,Malerbakken 13,2840, Holte,13750000 ,30-11-2020,Alm. Salg,225,61111,4,2018,
+230,Ejerlejlighed,"Vejlesøparken 8, 4. tv",2840, Holte,6995000 ,29-11-2020,Alm. Salg,122,57336,3,1973,
+230,Villa,Birkekæret 8,2950, Vedbæk,14000000 ,27-11-2020,Alm. Salg,219,63927,9,1992,
+230,Villa,Geelsvej 35,2840, Holte,16000000 ,20-11-2020,Alm. Salg,261,61303,9,1906,-11%
+230,Villa,Carit Etlars Vej 6,2840, Holte,11250000 ,19-11-2020,Alm. Salg,202,55693,6,1903,-10%
+230,Villa,Skovmindevej 35,2840, Holte,16500000 ,18-11-2020,Alm. Salg,246,67073,7,1926,
+230,Villa,Kollevænget 5,2840, Holte,7901000 ,17-11-2020,Alm. Salg,111,71180,4,1956,
+230,Villa,De Conincks Vej 8,2840, Holte,14625000 ,16-11-2020,Alm. Salg,221,66176,8,1914,-6%
+230,Ejerlejlighed,"Skodsborgparken 42, 4. tv",2942, Skodsborg,4625000 ,09-11-2020,Alm. Salg,82,56402,2,1963,-1%
+230,Villa,Birkebakken 6,2840, Holte,10500000 ,09-11-2020,Alm. Salg,178,58989,6,1922,
+230,Villa,Malerbakken 1,2840, Holte,7002000 ,06-11-2020,Alm. Salg,125,56016,5,1957,
+230,Villa,Vedbæk Strandvej 500,2950, Vedbæk,15525000 ,04-11-2020,Alm. Salg,245,63367,6,2011,-2%
+230,Villa,Vedbæk Strandvej 400,2950, Vedbæk,34000000 ,28-10-2020,Alm. Salg,333,102102,8,1934,-12%
+230,Villa,De Conincks Vej 7,2840, Holte,21800000 ,19-10-2020,Alm. Salg,275,79273,6,2013,-5%
+230,Villa,Kong Valdemars Vej 8B,2840, Holte,10251000 ,18-10-2020,Alm. Salg,183,56016,6,1933,14%
+230,Villa,Skolevej 12,2840, Holte,12250000 ,15-10-2020,Alm. Salg,193,63472,8,1930,-5%
+230,Villa,Fredensvej 1,2950, Vedbæk,15875000 ,14-10-2020,Alm. Salg,249,63755,7,2018,-4%
+230,Villa,Vedbæk Strandvej 344,2950, Vedbæk,48000000 ,14-10-2020,Alm. Salg,593,80944,9,1959,-4%
+230,Villa,Rolighedsvej 11,2942, Skodsborg,16250000 ,06-10-2020,Alm. Salg,281,57829,9,1945,-4%
+230,Villa,Skovmindevej 9,2840, Holte,30000000 ,06-10-2020,Alm. Salg,270,111111,5,2013,
+230,Villa,Malmmosevej 42B,2840, Holte,10825000 ,06-10-2020,Alm. Salg,198,54672,6,2014,-2%
+230,Villa,Birkebakken 11,2840, Holte,9400000 ,04-10-2020,Alm. Salg,170,55294,6,1920,-3%
+230,Villa,Plantagevej 73B,3460, Birkerød,10725000 ,02-10-2020,Alm. Salg,162,66204,4,2018,-4%
+230,Villa,Kastanievej 17,2840, Holte,5295000 ,01-10-2020,Alm. Salg,92,57554,5,1953,
+230,Rækkehus,Avnholtsvej 8,2950, Vedbæk,8600000 ,24-09-2020,Alm. Salg,157,54777,4,2014,
+230,Villa,Geelsvej 4,2840, Holte,18800000 ,22-09-2020,Alm. Salg,271,69373,5,1916,-10%
+230,Villa,Vedbæk Strandvej 501,2950, Vedbæk,13700000 ,22-09-2020,Alm. Salg,200,68500,6,1979,
+230,Ejerlejlighed,"Skodsborgparken 56, 5. th",2942, Skodsborg,7250000 ,20-09-2020,Alm. Salg,97,74742,2,1963,
+230,Villa,Skodsborg Strandvej 39,2942, Skodsborg,19625000 ,17-09-2020,Alm. Salg,246,79776,8,1900,
+230,Villa,Enrumvej 24,2942, Skodsborg,9150000 ,17-09-2020,Alm. Salg,144,63542,5,1958,-4%
+230,Villa,Gyvelvej 14,2942, Skodsborg,10500000 ,17-09-2020,Alm. Salg,182,57692,6,1915,
+230,Villa,Enrumvej 12,2942, Skodsborg,16000000 ,10-09-2020,Alm. Salg,275,58182,6,1950,-2%
+230,Villa,Skodsborg Strandvej 101,2942, Skodsborg,9500000 ,06-09-2020,Alm. Salg,145,65517,5,1885,-5%
+230,Villa,Vedbæk Strandvej 325A,2950, Vedbæk,9950000 ,03-09-2020,Alm. Salg,158,62975,5,1954,
+230,Villa,Skodsborg Strandvej 246,2942, Skodsborg,21000000 ,03-09-2020,Alm. Salg,161,130435,4,1958,
+230,Villa,Dronninggårds Alle 83,2840, Holte,22250000 ,30-08-2020,Alm. Salg,321,69315,11,1898,-5%
+230,Ejerlejlighed,"Skodsborgparken 52, 2. tv",2942, Skodsborg,4700000 ,26-08-2020,Alm. Salg,84,55952,2,1963,
+230,Rækkehus,Rydholt 4,2840, Holte,8245000 ,23-08-2020,Alm. Salg,149,55336,5,1982,-1%
+230,Villa,Mosevej 2,2840, Holte,18000000 ,19-08-2020,Alm. Salg,271,66421,9,1966,-3%
+230,Ejerlejlighed,"Skodsborgparken 32, 4. th",2942, Skodsborg,8225000 ,15-08-2020,Alm. Salg,132,62311,5,1963,-3%
+230,Villa,Rolighedsvej 18,3460, Birkerød,4495000 ,12-08-2020,Alm. Salg,79,56899,3,1938,
+230,Villa,Skodsborg Strandvej 264,2942, Skodsborg,36000000 ,10-08-2020,Alm. Salg,318,113208,9,1897,
+230,Rækkehus,Vedbæk Stationsvej 37B,2950, Vedbæk,4895000 ,27-07-2020,Alm. Salg,88,55625,3,1992,-2%
+230,Ejerlejlighed,"Skodsborgparken 48, 3. tv",2942, Skodsborg,4750000 ,26-07-2020,Alm. Salg,82,57927,3,1963,
+230,Villa,Vedbæk Strandvej 326,2950, Vedbæk,57516000 ,26-07-2020,Alm. Salg,482,119328,6,2019,-12%
+230,Villa,Skodsborg Strandvej 64,2942, Skodsborg,19350000 ,15-07-2020,Alm. Salg,159,121698,5,1913,-2%
+230,Villa,Hyldeageren 18,2950, Vedbæk,12250000 ,14-07-2020,Alm. Salg,223,54933,5,1998,-9%
+230,Villa,Enrumvej 10,2942, Skodsborg,6720000 ,05-07-2020,Alm. Salg,111,60541,5,1954,-7%
+230,Villa,Dronninggårds Alle 109,2840, Holte,25000000 ,01-07-2020,Alm. Salg,358,69832,9,2004,-12%
+230,Villa,Olesvej 12,2950, Vedbæk,8500000 ,30-06-2020,Alm. Salg,110,77273,4,1918,
+230,Villa,Kong Georgsvej 21C,2950, Vedbæk,15275000 ,29-06-2020,Alm. Salg,256,59668,5,1918,-7%
+230,Villa,Birkholmsvej 21,2830, Virum,9250000 ,28-06-2020,Alm. Salg,157,58917,5,1917,
+230,Villa,Hyldestykket 27,2970, Hørsholm,5900000 ,28-06-2020,Alm. Salg,80,73750,3,1947,
+230,Ejerlejlighed,"Skodsborgparken 28, 5",2942, Skodsborg,11300000 ,25-06-2020,Alm. Salg,152,74342,4,1963,-6%
+230,Ejerlejlighed,"Skodsborgparken 36, 1. tv",2942, Skodsborg,14000000 ,21-06-2020,Alm. Salg,231,60606,7,1963,-7%
+230,Villa,Havesvinget 15,2950, Vedbæk,7950000 ,19-06-2020,Alm. Salg,140,56786,4,1960,
+230,Villa,Skodsborg Strandvej 170,2942, Skodsborg,20000000 ,16-06-2020,Alm. Salg,342,58480,4,0,
+230,Villa,Trørødvej 14,2950, Vedbæk,8900000 ,16-06-2020,Alm. Salg,156,57051,3,1998,-10%
+230,Villa,Søbakkevej 10,2840, Holte,12100000 ,15-06-2020,Alm. Salg,182,66484,7,1934,
+230,Villa,Carl Plougs Vej 37,3460, Birkerød,9225000 ,08-06-2020,Alm. Salg,140,65893,4,1980,-3%
+230,Villa,Skovmindevej 17,2840, Holte,21125000 ,08-06-2020,Alm. Salg,324,65201,7,2016,-8%
+230,Villa,Dronninggårds Alle 66,2840, Holte,19000000 ,26-05-2020,Alm. Salg,311,61093,7,1947,
+230,Villa,Dronninggårds Alle 60,2840, Holte,35000000 ,19-05-2020,Alm. Salg,412,84951,10,1898,-11%
+230,Villa,Lyngbakkevej 20,2840, Holte,12800000 ,19-05-2020,Alm. Salg,198,64646,9,1917,-5%
+230,Rækkehus,Vedbæk Stationsvej 37A,2950, Vedbæk,4925000 ,05-05-2020,Alm. Salg,88,55966,3,1992,-1%
+230,Villa,Vejlesøvej 48,2840, Holte,9750000 ,28-04-2020,Alm. Salg,146,66781,5,1952,-5%
+230,Villa,Sandbjergvej 16,2950, Vedbæk,9080000 ,15-04-2020,Alm. Salg,158,57468,6,1920,
+230,Villa,Skodsborg Strandvej 174,2942, Skodsborg,11000000 ,23-03-2020,Andet,173,63584,7,1727,-7%
+230,Villa,Vedbæk Strandvej 413,2950, Vedbæk,19475000 ,11-03-2020,Alm. Salg,306,63644,9,1886,0%
+230,Villa,Fredsvej 5,2840, Holte,15950000 ,04-03-2020,Alm. Salg,196,81378,7,1917,-9%
+230,Villa,Høsterkøbvej 7,2970, Hørsholm,6350000 ,03-03-2020,Alm. Salg,114,55702,6,1900,
+230,Rækkehus,Skodsborg Strandvej 262B,2942, Skodsborg,12000000 ,25-02-2020,Alm. Salg,198,60606,7,1977,-7%
+230,Villa,Dronninggårds Alle 120,2840, Holte,33000000 ,25-02-2020,Alm. Salg,282,117021,8,1911,-6%
+230,Villa,Søvej 23,2840, Holte,18700000 ,24-02-2020,Alm. Salg,286,65385,8,1900,-6%
+230,Villa,Turistvej 148,3460, Birkerød,6250000 ,23-02-2020,Alm. Salg,101,61881,4,1961,-6%
+230,Villa,Høbjergvej 5,2950, Vedbæk,8401000 ,10-02-2020,Alm. Salg,151,55636,6,1921,
+230,Villa,Gøngehusvej 214,2950, Vedbæk,27750000 ,05-02-2020,Alm. Salg,476,58298,9,1908,-13%
+230,Villa,Vedbæk Strandvej 414,2950, Vedbæk,38000000 ,06-01-2020,Alm. Salg,444,85586,5,1992,
+230,Villa,Vedbæk Strandvej 498,2950, Vedbæk,26500000 ,11-12-2019,Alm. Salg,281,94306,6,1986,
+230,Villa,Skodsborg Strandvej 174,2942, Skodsborg,11000000 ,09-12-2019,Andet,173,63584,7,1727,-7%
+230,Villa,Geelsvej 1,2840, Holte,21000000 ,27-11-2019,Alm. Salg,315,66667,8,1895,
+230,Ejerlejlighed,"Skodsborgparken 24, 4. tv",2942, Skodsborg,7995000 ,18-11-2019,Alm. Salg,111,72027,3,1963,
+230,Villa,Skodsborg Strandvej 214,2942, Skodsborg,21100000 ,18-11-2019,Alm. Salg,258,81783,5,1978,-16%
+230,Villa,Søbakkevej 12,2840, Holte,17500000 ,14-11-2019,Alm. Salg,216,81019,7,1943,-8%
+230,Villa,Vedbæk Strandvej 338,2950, Vedbæk,28482350 ,13-11-2019,Alm. Salg,426,66860,6,1976,
+230,Villa,Vedbæk Strandvej 504B,2950, Vedbæk,38700000 ,05-11-2019,Alm. Salg,407,95086,8,1952,-30%
+230,Ejerlejlighed,"Kongevejen 343, 1",2840, Holte,4260000 ,30-10-2019,Alm. Salg,74,57568,3,1928,
+230,Villa,Olgasvej 12,2950, Vedbæk,8250000 ,27-10-2019,Alm. Salg,145,56897,7,1911,-3%
+230,Villa,Skodsborg Strandvej 260A,2942, Skodsborg,24500000 ,27-10-2019,Alm. Salg,344,71221,12,1896,-9%
+230,Villa,Fredskovvej 21,2840, Holte,14500000 ,03-10-2019,Alm. Salg,237,61181,6,2022,
+230,Villa,Attemosevej 46,2840, Holte,18600000 ,29-09-2019,Alm. Salg,224,83036,5,1935,-1%
+230,Villa,Enrumdammen 4,2950, Vedbæk,13600000 ,10-09-2019,Alm. Salg,247,55061,6,1877,-3%
+230,Villa,Søllerødgårdsvej 44,2840, Holte,11300000 ,31-08-2019,Alm. Salg,200,56500,6,1953,-10%
+230,Ejerlejlighed,"Skodsborgparken 12, 4. tv",2942, Skodsborg,5820000 ,28-08-2019,Alm. Salg,95,61263,2,1981,
+230,Villa,Dronninggårds Alle 23,2840, Holte,14450000 ,19-08-2019,Alm. Salg,234,61752,8,1933,
+230,Villa,Dronninggårds Alle 25,2840, Holte,13600000 ,19-08-2019,Alm. Salg,229,59389,6,1946,
+230,Villa,Elmevej 13,2840, Holte,9110000 ,30-06-2019,Alm. Salg,156,58397,6,1934,4%
+230,Villa,Ved Furesøen 20,2840, Holte,8700000 ,18-06-2019,Alm. Salg,140,62143,6,1928,1%
+230,Villa,Lindevangsvej 8,2950, Vedbæk,11500000 ,17-06-2019,Alm. Salg,199,57789,7,1934,-6%
+230,Villa,Trørødvej 15,2950, Vedbæk,14750000 ,14-06-2019,Alm. Salg,222,66441,6,1927,-5%
+230,Villa,De Conincks Vej 3A,2840, Holte,17400000 ,29-05-2019,Alm. Salg,257,67704,5,2018,
+230,Villa,Skovskellet 11,2840, Holte,12250000 ,19-05-2019,Alm. Salg,209,58612,6,2016,
+230,Villa,Kong Georgsvej 21A,2950, Vedbæk,15520000 ,30-04-2019,Alm. Salg,284,54648,7,1900,-3%
+230,Ejerlejlighed,"Skodsborg Strandvej 227, 1. 15",2942, Skodsborg,3450000 ,28-04-2019,Alm. Salg,43,80233,1,1886,
+230,Villa,Kildevej 7,2840, Holte,10000000 ,27-03-2019,Alm. Salg,159,62893,6,1898,-8%
+230,Villa,Olesvej 3D,2950, Vedbæk,12700000 ,26-03-2019,Alm. Salg,198,64141,5,1964,-2%
+230,Ejerlejlighed,"Skodsborgparken 52, 4. th",2942, Skodsborg,8195000 ,25-03-2019,Alm. Salg,132,62083,3,1963,3%
+230,Villa,Skodsborg Strandvej 176,2942, Skodsborg,11450000 ,16-03-2019,Alm. Salg,158,72468,4,1900,-8%
+230,Villa,Kohavevej 37,2950, Vedbæk,4675000 ,17-02-2019,Alm. Salg,80,58438,4,1925,-3%
+230,Villa,Olgasvej 8,2950, Vedbæk,8800000 ,13-02-2019,Alm. Salg,139,63309,5,1915,-5%
+230,Ejerlejlighed,"Skodsborgparken 26, 4. th",2942, Skodsborg,7150000 ,11-02-2019,Alm. Salg,120,59583,4,1963,2%
+230,Villa,Geelsvej 24,2840, Holte,18500000 ,28-01-2019,Alm. Salg,315,58730,7,2010,
+230,Villa,Skovmindevej 35,2840, Holte,16500000 ,31-12-2018,Alm. Salg,246,67073,7,1926,-8%
+230,Villa,Dronninggårds Alle 106,2840, Holte,34500000 ,10-12-2018,Alm. Salg,415,83133,12,1918,1%
+230,Villa,Skovridergårdsvej 15,2830, Virum,9000000 ,15-11-2018,Alm. Salg,149,60403,5,1927,-5%
+230,Villa,Olesvej 11,2950, Vedbæk,9650000 ,04-11-2018,Alm. Salg,173,55780,6,1930,-8%
+230,Villa,Storkevænget 5,2840, Holte,13000000 ,01-10-2018,Alm. Salg,168,77381,6,1927,-7%
+230,Ejerlejlighed,"Skodsborg Strandvej 227, 1. 15",2942, Skodsborg,2750000 ,21-09-2018,Alm. Salg,43,63953,1,1886,-8%
+230,Ejerlejlighed,"Skodsborgparken 38, 3. tv",2942, Skodsborg,6175000 ,11-09-2018,Alm. Salg,111,55631,3,1963,-1%
+230,Ejerlejlighed,"Skodsborgparken 24, 5. th",2942, Skodsborg,7750000 ,30-08-2018,Alm. Salg,97,79897,3,1963,
+230,Ejerlejlighed,"Skodsborgparken 22, 5. th",2942, Skodsborg,7400000 ,28-08-2018,Alm. Salg,100,74000,2,1963,
+230,Villa,Fredsvej 5,2840, Holte,12000000 ,28-08-2018,Alm. Salg,196,61224,7,1917,
+230,Villa,Skovmindevej 31,2840, Holte,16510000 ,27-08-2018,Alm. Salg,217,76083,6,1958,
+230,Villa,Dronninggårds Alle 101,2840, Holte,7862500 ,15-08-2018,Alm. Salg,139,56565,5,1929,-2%
+230,Ejerlejlighed,"Skodsborgparken 38, 3. th",2942, Skodsborg,7250000 ,09-08-2018,Alm. Salg,120,60417,4,1963,-2%
+230,Ejerlejlighed,"Skodsborgparken 38, 4. th",2942, Skodsborg,6845000 ,30-07-2018,Alm. Salg,120,57042,4,1963,
+230,Villa,Fredskovvej 21,2840, Holte,13300000 ,04-07-2018,Alm. Salg,237,56118,6,2022,
+230,Villa,Dronninggårds Alle 42,2840, Holte,10500000 ,27-06-2018,Alm. Salg,132,79545,5,1954,
+230,Villa,Dronningholmsvej 3,2840, Holte,15600000 ,12-06-2018,Alm. Salg,285,54737,7,2017,-2%
+230,Villa,Ved Furesøen 20,2840, Holte,8600000 ,11-06-2018,Alm. Salg,140,61429,6,1928,
+230,Villa,Dronningholmsvej 11,2840, Holte,15900000 ,06-06-2018,Alm. Salg,242,65702,7,1961,
+230,Villa,Vedbæk Strandvej 464,2950, Vedbæk,55000000 ,28-05-2018,Alm. Salg,682,80645,12,1999,
+230,Villa,Damgårdsvej 3A,3460, Birkerød,12000000 ,24-05-2018,Alm. Salg,197,60914,6,1997,
+230,Villa,Udsigten 5,2950, Vedbæk,16500000 ,22-05-2018,Alm. Salg,282,58511,6,2014,-2%
+230,Villa,Dronninggårds Alle 43,2840, Holte,15000000 ,02-05-2018,Alm. Salg,242,61983,6,1920,-6%
+230,Ejerlejlighed,"Skodsborg Strandvej 225A, 2. th",2942, Skodsborg,11000000 ,30-04-2018,Alm. Salg,194,56701,4,1886,-4%
+230,Villa,Sandbjergvej 28,2950, Vedbæk,12800000 ,25-04-2018,Alm. Salg,231,55411,3,2015,-7%
+230,Ejerlejlighed,"Skodsborgparken 16, 3. th",2942, Skodsborg,5650000 ,12-04-2018,Alm. Salg,97,58247,2,1981,-6%
+230,Ejerlejlighed,"Øverødvej 79, 1",2840, Holte,4350000 ,19-02-2018,Alm. Salg,70,62143,4,1899,
+230,Ejerlejlighed,Kohavevej 3B,2950, Vedbæk,8600000 ,16-02-2018,Alm. Salg,108,79630,4,1987,
+230,Rækkehus,Skodsborg Strandvej 258B,2942, Skodsborg,12300000 ,25-01-2018,Alm. Salg,146,84247,5,1988,-11%
+230,Villa,Skodsborg Strandvej 110,2942, Skodsborg,18500000 ,16-01-2018,Alm. Salg,314,58917,8,1890,-14%
+230,Villa,Høje Skodsborgvej 32,2942, Skodsborg,15000000 ,12-12-2017,Alm. Salg,273,54945,6,1934,-6%
+230,Villa,Skodsborg Strandvej 214,2942, Skodsborg,19000000 ,09-12-2017,Alm. Salg,258,73643,5,1978,
+230,Villa,Skovmindevej 33,2840, Holte,14000000 ,28-11-2017,Alm. Salg,256,54688,7,2021,
+230,Villa,De Conincks Vej 5,2840, Holte,25400000 ,19-10-2017,Alm. Salg,278,91367,5,2012,
+230,Villa,Moseranden 5,2970, Hørsholm,14800000 ,16-10-2017,Alm. Salg,250,59200,6,1921,-10%
+230,Ejerlejlighed,"Skodsborgparken 16, 2. tv",2942, Skodsborg,8100000 ,05-10-2017,Andet,141,57447,3,1981,
+230,Ejerlejlighed,"Melchiorsvej 1, st. mf",2950, Vedbæk,7500000 ,01-10-2017,Alm. Salg,136,55147,4,1911,
+230,Villa,Vedbæk Strandvej 338,2950, Vedbæk,32500000 ,27-09-2017,Alm. Salg,426,76291,6,1976,-4%
+230,Villa,Storkevænget 5,2840, Holte,13500000 ,13-09-2017,Alm. Salg,168,80357,6,1927,
+230,Villa,Vedbæk Strandvej 430,2950, Vedbæk,22000000 ,22-08-2017,Alm. Salg,215,102326,8,1900,-12%
+230,Villa,Caroline Mathilde Vej 17,2950, Vedbæk,10000000 ,22-08-2017,Alm. Salg,153,65359,5,1926,
+230,Villa,Dronninggårds Alle 40B,2840, Holte,16500000 ,06-08-2017,Alm. Salg,299,55184,7,1955,
+230,Ejerlejlighed,"Skodsborgparken 46, 3. th",2942, Skodsborg,7250000 ,30-05-2017,Alm. Salg,132,54924,5,1963,
+230,Ejerlejlighed,"Skodsborgparken 60, 5",2942, Skodsborg,11700000 ,29-05-2017,Alm. Salg,165,70909,3,1963,17%
+230,Villa,Øverødvej 36B,2840, Holte,14000000 ,29-05-2017,Alm. Salg,249,56225,7,1981,
+230,Villa,Turistvej 148,3460, Birkerød,5900000 ,24-05-2017,Alm. Salg,101,58416,4,1961,4%
+230,Villa,Skodsborg Strandvej 250,2942, Skodsborg,19000000 ,15-05-2017,Alm. Salg,290,65517,7,1997,-10%
+230,Villa,Præstejorden 11,2850, Nærum,6800000 ,02-05-2017,Alm. Salg,111,61261,2,2019,-3%
+230,Villa,Søllerødvej 62,2840, Holte,17200000 ,01-04-2017,Andet,266,64662,8,1921,
+230,Villa,Skodsborg Strandvej 182,2942, Skodsborg,36000000 ,29-03-2017,Alm. Salg,374,96257,8,1895,-14%
+230,Ejerlejlighed,"Skodsborgparken 64, 3. th",2942, Skodsborg,7250000 ,23-03-2017,Andet,132,54924,3,1963,
+230,Villa,Vedbæk Strandvej 488,2950, Vedbæk,15125000 ,21-03-2017,Andet,153,98856,2,2017,
+230,Villa,Rolighedsvej 4,2942, Skodsborg,19000000 ,21-02-2017,Alm. Salg,326,58282,7,1897,-14%
+230,Ejerlejlighed,"Skodsborgparken 60, 5",2942, Skodsborg,9600000 ,01-02-2017,Alm. Salg,165,58182,3,1963,
+230,Villa,Vedbæk Strandvej 462,2950, Vedbæk,34000000 ,15-01-2017,Alm. Salg,426,79812,7,2007,-13%
+230,Villa,Lillesøvej 1,2970, Hørsholm,15150000 ,18-12-2016,Alm. Salg,240,63125,7,1965,
+230,Villa,Valdkær 16,2840, Holte,6600000 ,24-11-2016,Alm. Salg,110,60000,3,1959,-6%
+230,Ejerlejlighed,"Baneskellet 2B, st",2950, Vedbæk,6100000 ,17-11-2016,Alm. Salg,79,77215,2,2002,
+230,Villa,Gøngehusvej 261,2970, Hørsholm,23050000 ,12-10-2016,Alm. Salg,91,253297,3,1989,
+230,Villa,Skodsborg Strandvej 302,2942, Skodsborg,11700000 ,01-09-2016,Alm. Salg,205,57073,5,2013,
+230,Villa,Fredskovvej 14,2840, Holte,17000000 ,31-08-2016,Andet,305,55738,4,2016,
+230,Villa,Damgårdsvej 5B,3460, Birkerød,12900000 ,16-08-2016,Alm. Salg,210,61429,8,1936,
+230,Villa,Krogholmen 5,2840, Holte,15125000 ,09-08-2016,Alm. Salg,221,68439,6,1954,-8%
+230,Ejerlejlighed,"Skodsborgparken 16, 2. tv",2942, Skodsborg,7995000 ,28-06-2016,Alm. Salg,141,56702,3,1981,
+230,Villa,Skovmindevej 35,2840, Holte,14000000 ,02-06-2016,Alm. Salg,246,56911,7,1926,
+230,Villa,Attemosevej 47,2840, Holte,14600000 ,22-05-2016,Alm. Salg,242,60331,7,2005,-8%
+230,Villa,Skodsborg Strandvej 260A,2942, Skodsborg,27000000 ,24-04-2016,Alm. Salg,344,78488,12,1896,-16%
+230,Ejerlejlighed,"Skodsborgparken 28, 5",2942, Skodsborg,10200000 ,17-04-2016,Alm. Salg,152,67105,4,1963,-14%
+230,Ejerlejlighed,"Skodsborgparken 62, 5. th",2942, Skodsborg,6250000 ,06-04-2016,Alm. Salg,97,64433,3,1963,
+230,Villa,Birkerød Kongevej 16,3460, Birkerød,24000000 ,31-03-2016,Fam. Salg,172,139535,3,1878,
+230,Villa,Dronninggårds Alle 112,2840, Holte,37800000 ,17-03-2016,Alm. Salg,439,86105,8,2008,
+230,Villa,Skodsborg Strandvej 263,2942, Skodsborg,15600000 ,29-02-2016,Alm. Salg,209,74641,4,1981,-2%
+230,Ejerlejlighed,"Skodsborgparken 24, 5. tv",2942, Skodsborg,6800000 ,27-01-2016,Alm. Salg,90,75556,3,1963,-9%
+230,Villa,Rolighedsvej 28,3460, Birkerød,5660000 ,22-11-2015,Alm. Salg,98,57755,3,1937,0%
+230,Villa,Vedbæk Strandvej 413,2950, Vedbæk,17400000 ,27-09-2015,Alm. Salg,306,56863,9,1886,
+230,Villa,Vedbæk Strandvej 488,2950, Vedbæk,15250000 ,24-09-2015,Alm. Salg,153,99673,2,2017,-13%
+230,Villa,Dronninggårds Alle 52,2840, Holte,15100000 ,16-09-2015,Alm. Salg,275,54909,9,1913,-5%
+230,Villa,Vedbæk Strandvej 444,2950, Vedbæk,22500000 ,15-09-2015,Alm. Salg,382,58901,10,1893,-18%
+230,Villa,Tesch Alle 14,2840, Holte,17325000 ,31-07-2015,Alm. Salg,149,116275,5,1948,-8%
+230,Villa,Olgasvej 14,2950, Vedbæk,7425000 ,29-06-2015,Alm. Salg,130,57115,4,2012,
+230,Villa,Vedbæk Strandvej 498,2950, Vedbæk,30000000 ,28-06-2015,Andet,281,106762,6,1986,0%
+230,Villa,Dronninggårds Alle 44A,2840, Holte,14500000 ,10-06-2015,Alm. Salg,250,58000,8,1936,-15%
+230,Villa,Sophie Magdelenes Vej 1C,3460, Birkerød,22800000 ,02-06-2015,Alm. Salg,80,285000,3,1920,
+230,Villa,Søbakkevej 16B,2840, Holte,8100000 ,26-05-2015,Alm. Salg,114,71053,6,1951,
+230,Ejerlejlighed,Hestkøbvej 5A,3460, Birkerød,16434533 ,21-05-2015,Alm. Salg,49,335399,1,1900,
+230,Villa,Dronninggårds Alle 63,2840, Holte,16900000 ,13-05-2015,Alm. Salg,278,60791,5,1905,-11%
+230,Villa,Vedbæk Strandvej 338,2950, Vedbæk,32000000 ,11-05-2015,Alm. Salg,426,75117,6,1976,
+230,Villa,Søbrinken 6,2840, Holte,18300000 ,10-05-2015,Alm. Salg,167,109581,4,1959,
+230,Villa,Poulsvej 7,2950, Vedbæk,4700000 ,07-04-2015,Alm. Salg,86,54651,4,1945,-6%
+230,Villa,Vedbæk Strandvej 484,2950, Vedbæk,58000000 ,18-03-2015,Alm. Salg,530,109434,6,2012,
+230,Villa,Søllerødvej 62,2840, Holte,16300000 ,12-03-2015,Alm. Salg,266,61278,8,1921,-7%
+230,Villa,Kommandanten 10,2950, Vedbæk,16000000 ,26-11-2014,Andet,221,72398,5,2016,246%
+230,Rækkehus,Skodsborg Strandvej 262B,2942, Skodsborg,12500000 ,25-11-2014,Andet,198,63131,7,1977,-7%
+230,Ejerlejlighed,"Skodsborgparken 26, 5. tv",2942, Skodsborg,6500000 ,02-11-2014,Alm. Salg,90,72222,3,1963,
+230,Villa,Vedbæk Strandvej 402,2950, Vedbæk,19600000 ,09-10-2014,Alm. Salg,342,57310,10,1877,
+230,Villa,Furesøbakken 1B,3460, Birkerød,15100000 ,02-07-2014,Alm. Salg,260,58077,6,1997,-5%
+230,Villa,Skodsborg Strandvej 265,2942, Skodsborg,11000000 ,07-06-2014,Alm. Salg,96,114583,4,1933,-4%
+230,Villa,Høje Skodsborgvej 30,2942, Skodsborg,16100000 ,07-05-2014,Alm. Salg,226,71239,6,1928,7%
+230,Villa,Gøngehusvej 75,2950, Vedbæk,16500000 ,14-04-2014,Alm. Salg,107,154206,4,1827,
+230,Villa,Frederikslundsvej 7,2840, Holte,8350000 ,14-03-2014,Alm. Salg,141,59220,4,1947,-4%
+230,Villa,Vedbæk Strandvej 377,2950, Vedbæk,12000000 ,06-03-2014,Alm. Salg,183,65574,5,1995,
+230,Villa,Ubberødvej 35,2970, Hørsholm,7100000 ,17-02-2014,Alm. Salg,86,82558,4,1935,
+230,Villa,De Conincks Vej 21,2840, Holte,19550000 ,30-01-2014,Alm. Salg,329,59422,9,1900,-13%
+230,Villa,Kulsviervej 157,2800, Kongens Lyngby,16000000 ,26-01-2014,Alm. Salg,279,57348,7,1853,
+230,Ejerlejlighed,Rundforbivej 295,2850, Nærum,8200000 ,25-01-2014,Alm. Salg,1,8200000,1,1971,
+230,Villa,Østerskov Krat 1,2950, Vedbæk,3650000 ,14-01-2014,Alm. Salg,54,67593,2,1934,-19%
+230,Villa,Poulsvej 15,2950, Vedbæk,4940000 ,03-11-2013,Alm. Salg,78,63333,3,1953,
+230,Villa,Vedbæk Strandvej 336,2950, Vedbæk,28000000 ,05-09-2013,Alm. Salg,355,78873,6,1976,
+230,Ejerlejlighed,"Skodsborgparken 58, 5. th",2942, Skodsborg,6337500 ,27-06-2013,Alm. Salg,97,65335,2,1963,
+230,Villa,Dronninggårds Alle 100,2840, Holte,41900000 ,06-06-2013,Alm. Salg,520,80577,9,1916,
+230,Rækkehus,Skodsborg Strandvej 258A,2942, Skodsborg,8200000 ,30-05-2013,Alm. Salg,146,56164,5,1988,-14%
+230,Villa,Søndervangen 73,3460, Birkerød,18130070 ,09-04-2013,Auktion,125,145041,5,1956,
+230,Rækkehus,Skodsborg Strandvej 278B,2942, Skodsborg,12000000 ,03-04-2013,Alm. Salg,216,55556,5,1981,-11%
+230,Villa,Vedbæk Strandvej 318,2950, Vedbæk,35000000 ,21-12-2012,Alm. Salg,392,89286,8,1913,-17%
+230,Villa,Attemosevej 94,2840, Holte,13750000 ,15-10-2012,Alm. Salg,250,55000,5,2009,-5%
+230,Villa,Høje Skodsborgvej 42,2942, Skodsborg,12300000 ,28-08-2012,Alm. Salg,185,66486,6,1938,-4%
+230,Villa,Høje Sandbjergvej 17,2840, Holte,37000000 ,27-08-2012,Auktion,288,128472,6,1880,
+230,Rækkehus,Skodsborg Strandvej 258B,2942, Skodsborg,8800000 ,10-06-2012,Alm. Salg,146,60274,5,1988,-7%
+230,Villa,Henriksholms Alle 52,2950, Vedbæk,40000000 ,04-03-2012,Alm. Salg,170,235294,6,1892,
+230,Villa,Skodsborg Strandvej 216,2942, Skodsborg,12200000 ,23-02-2012,Alm. Salg,201,60697,6,1988,-19%
+230,Villa,Hørsholm Kongevej 35,2970, Hørsholm,9033004 ,08-02-2012,Andet,136,66419,4,1968,
+230,Villa,Søvej 19,2840, Holte,17500000 ,19-01-2012,Alm. Salg,311,56270,11,1907,-2%
+230,Villa,Søvej 25A,2840, Holte,25250000 ,08-11-2011,Andet,269,93866,8,1942,
+230,Villa,Skodsborg Strandvej 250,2942, Skodsborg,34250000 ,30-10-2011,Andet,290,118103,7,1997,-1%
+230,Villa,Lillesøvej 3,2970, Hørsholm,9500000 ,28-08-2011,Alm. Salg,120,79167,4,1931,
+230,Ejerlejlighed,Skodsborg Strandvej 154C,2942, Skodsborg,8000000 ,22-08-2011,Alm. Salg,136,58824,5,1887,
+230,Villa,Skodsborg Strandvej 210,2942, Skodsborg,7800000 ,13-06-2011,Alm. Salg,100,78000,4,1958,11%
+230,Villa,Vedbæk Strandvej 463,2950, Vedbæk,26500000 ,06-06-2011,Alm. Salg,433,61201,12,1910,
+230,Villa,Skodsborg Strandvej 15,2942, Skodsborg,19800000 ,02-06-2011,Alm. Salg,260,63871,8,1917,
+230,Ejerlejlighed,"Skodsborgparken 20, 4",2942, Skodsborg,5950000 ,13-03-2011,Alm. Salg,107,55607,3,1981,
+230,Villa,Vedbæk Strandvej 396,2950, Vedbæk,24100000 ,24-01-2011,Alm. Salg,269,89591,6,1974,-14%
+230,Villa,Vedbæk Strandvej 408,2950, Vedbæk,17000000 ,19-01-2011,Alm. Salg,228,74561,7,1890,-32%
+230,Ejerlejlighed,Rundforbivej 295,2850, Nærum,8300000 ,06-01-2011,Alm. Salg,1,8300000,1,1971,
+230,Villa,Østerlund 6,2950, Vedbæk,22500000 ,10-12-2010,Alm. Salg,300,75000,6,2008,
+230,Villa,Vedbæk Strandvej 478,2950, Vedbæk,70000000 ,08-12-2010,Alm. Salg,527,132827,12,1917,
+230,Villa,Kildevældsvej 18,2830, Virum,5100000 ,28-11-2010,Alm. Salg,91,56044,2,1935,
+230,Ejerlejlighed,"Skodsborgparken 26, 5. tv",2942, Skodsborg,5000000 ,16-11-2010,Alm. Salg,90,55556,3,1963,-16%
+230,Villa,Vedbæk Strandvej 434,2950, Vedbæk,35000000 ,16-11-2010,Alm. Salg,403,86849,11,1913,
+230,Villa,Vedbæk Strandvej 451,2950, Vedbæk,16750000 ,08-11-2010,Alm. Salg,300,55833,9,1899,-20%
+230,Villa,Høje Sandbjergvej 16,2840, Holte,60000000 ,03-11-2010,Alm. Salg,575,104348,12,1900,
+230,Rækkehus,Gæslingehaven 2,2950, Vedbæk,9000000 ,08-08-2010,Alm. Salg,136,66176,4,2015,
+230,Villa,Storkevænget 8,2840, Holte,13750000 ,26-07-2010,Alm. Salg,251,54781,7,1928,-7%
+230,Villa,Vedbæk Strandvej 320,2950, Vedbæk,27500000 ,12-04-2010,Alm. Salg,464,59267,9,1964,-7%
+230,Villa,Kæmpehøjvej 4,2950, Vedbæk,18000000 ,09-03-2010,Alm. Salg,232,77586,6,1936,
+230,Ejerlejlighed,"Skodsborgparken 34, 5",2942, Skodsborg,13500000 ,13-01-2010,Alm. Salg,166,81325,3,1963,
+230,Villa,Skodsborg Strandvej 300,2942, Skodsborg,50500000 ,17-08-2009,Alm. Salg,610,82787,9,1956,-13%
+230,Villa,Skodsborg Strandvej 290,2942, Skodsborg,27000000 ,09-07-2009,Alm. Salg,299,90301,8,1961,-8%
+230,Villa,Skodsborg Strandvej 265,2942, Skodsborg,9800000 ,22-06-2009,Alm. Salg,96,102083,4,1933,
+230,Villa,Attemosevej 20B,2840, Holte,18000000 ,31-03-2009,Alm. Salg,219,82192,7,1922,-3%
+230,Villa,Dronninggårds Alle 109,2840, Holte,25000000 ,26-11-2008,Andet,358,69832,9,2004,
+230,Ejerlejlighed,"Vejlesøparken 8, 4. tv",2840, Holte,7100000 ,13-11-2008,Alm. Salg,122,58197,3,1973,
+230,Villa,Carl Plougs Vej 31,3460, Birkerød,17900000 ,27-10-2008,Alm. Salg,224,79911,4,1977,
+230,Villa,Søvej 13,2840, Holte,16500000 ,16-10-2008,Andet,178,92697,6,1907,
+230,Villa,Skodsborg Strandvej 120,2942, Skodsborg,22600000 ,24-09-2008,Alm. Salg,380,59474,8,1891,
+230,Villa,Skodsborg Strandvej 209,2942, Skodsborg,10300000 ,21-09-2008,Alm. Salg,175,58857,5,1899,
+230,Villa,Skodsborg Strandvej 132,2942, Skodsborg,30000000 ,15-09-2008,Alm. Salg,273,109890,6,1935,-33%
+230,Villa,Søvej 25A,2840, Holte,24500000 ,05-08-2008,Alm. Salg,269,91078,8,1942,
+230,Ejerlejlighed,"Skodsborgparken 44, 5. th",2942, Skodsborg,7000000 ,31-07-2008,Fam. Salg,97,72165,2,1963,
+230,Villa,Skodsborg Strandvej 198,2942, Skodsborg,14700000 ,17-07-2008,Alm. Salg,205,71707,8,1907,-8%
+230,Villa,Vedbæk Strandvej 411,2950, Vedbæk,18650000 ,30-06-2008,Alm. Salg,269,69331,8,1850,-1%
+230,Villa,Vedbæk Strandvej 404,2950, Vedbæk,16500000 ,16-06-2008,Alm. Salg,290,56897,7,1860,
+230,Villa,Vedbæk Strandvej 308,2950, Vedbæk,14150000 ,29-05-2008,Alm. Salg,214,66121,7,1907,
+230,Villa,Dronninggårds Alle 122,2840, Holte,20000000 ,19-05-2008,Alm. Salg,175,114286,2,2006,-5%
+230,Ejerlejlighed,"Skodsborgvej 304, 1. tv",2850, Nærum,35268000 ,28-04-2008,Alm. Salg,61,578164,2,1957,
+230,Villa,Gøngehusvej 216,2950, Vedbæk,22550000 ,03-03-2008,Alm. Salg,236,73693,7,1938,
+230,Ejerlejlighed,"Skodsborgparken 56, 1. th",2942, Skodsborg,7000000 ,02-03-2008,Alm. Salg,120,58333,3,1963,
+230,Villa,Skodsborg Strandvej 174,2942, Skodsborg,15000000 ,06-01-2008,Alm. Salg,173,86705,7,1727,-17%
+230,Villa,Plantagevej 76,3460, Birkerød,11500000 ,01-01-2008,Alm. Salg,183,62842,5,1969,
+230,Villa,Søvej 43,2840, Holte,28900000 ,29-10-2007,Alm. Salg,344,84012,12,1915,-10%
+230,Villa,Hyldeageren 18,2950, Vedbæk,14225000 ,27-10-2007,Alm. Salg,223,63789,5,1998,
+230,Villa,Skodsborg Strandvej 260A,2942, Skodsborg,35000000 ,26-10-2007,Fam. Salg,344,101744,12,1896,
+230,Villa,Skodsborg Strandvej 288,2942, Skodsborg,14000000 ,09-10-2007,Alm. Salg,244,57377,7,1958,
+230,Villa,Høje Sandbjergvej 17,2840, Holte,53000000 ,02-09-2007,Alm. Salg,288,184028,6,1880,
+230,Villa,Søbakkevej 14B,2840, Holte,8700000 ,23-08-2007,Alm. Salg,150,58000,4,1985,
+230,Ejerlejlighed,"Skodsborgparken 58, 5. th",2942, Skodsborg,7200000 ,31-07-2007,Andet,97,74227,2,1963,
+230,Villa,Skodsborg Strandvej 290,2942, Skodsborg,37340000 ,17-07-2007,Alm. Salg,299,124883,8,1961,
+230,Villa,Gl. Dronninggårds Alle 18,2840, Holte,11750000 ,16-07-2007,Alm. Salg,199,59045,7,1916,
+230,Ejerlejlighed,"Skodsborgparken 26, 5. th",2942, Skodsborg,7200000 ,02-07-2007,Alm. Salg,97,74227,2,1963,
+230,Villa,Vedbæk Strandvej 411,2950, Vedbæk,18000000 ,17-06-2007,Alm. Salg,269,66915,8,1850,
+230,Ejerlejlighed,"Skodsborgparken 22, 2. tv",2942, Skodsborg,6800000 ,09-06-2007,Alm. Salg,111,61261,3,1963,
+230,Villa,Vedbæk Strandvej 402,2950, Vedbæk,20000000 ,26-04-2007,Alm. Salg,342,58480,10,1877,-9%
+230,Villa,Carl Plougs Vej 61,3460, Birkerød,11200000 ,22-04-2007,Alm. Salg,193,58031,4,1971,-10%
+230,Villa,Lindevangsvej 8,2950, Vedbæk,11000000 ,17-04-2007,Alm. Salg,199,55276,7,1934,-12%
+230,Villa,Bøgevej 8,3460, Birkerød,15500000 ,15-04-2007,Alm. Salg,140,110714,5,1972,
+230,Ejerlejlighed,Hestkøbvej 5A,3460, Birkerød,44000000 ,29-03-2007,Alm. Salg,49,897959,1,1900,
+230,Villa,Skodsborg Strandvej 258C,2942, Skodsborg,30000000 ,28-03-2007,Alm. Salg,312,96154,8,1896,
+230,Ejerlejlighed,"Skodsborgparken 56, 4. tv",2942, Skodsborg,6100000 ,04-02-2007,Alm. Salg,111,54955,3,1963,
+230,Villa,Vedbæk Strandvej 335,2950, Vedbæk,18800000 ,28-01-2007,Alm. Salg,280,67143,9,1864,
+230,Villa,Skodsborg Strandvej 33,2942, Skodsborg,17000000 ,14-01-2007,Andet,256,66406,8,1906,-5%
+230,Villa,Toftebjergvej 31A,2970, Hørsholm,13000000 ,31-12-2006,Alm. Salg,155,83871,4,2014,
+230,Villa,Skodsborg Strandvej 132,2942, Skodsborg,15300000 ,27-12-2006,Alm. Salg,273,56044,6,1935,
+230,Villa,Kulsviervej 157,2800, Kongens Lyngby,24000000 ,14-12-2006,Andet,279,86022,7,1853,
+230,Villa,Rolighedsvej 4,2942, Skodsborg,20000000 ,10-12-2006,Alm. Salg,326,61350,7,1897,
+230,Villa,Nedenomsvej 14B,2970, Hørsholm,19000000 ,10-12-2006,Alm. Salg,325,58462,9,2012,
+230,Villa,Gøngehusvej 75,2950, Vedbæk,11350000 ,18-11-2006,Alm. Salg,107,106075,4,1827,
+230,Villa,Gøngehusvej 268,2970, Hørsholm,15000000 ,11-10-2006,Alm. Salg,73,205479,4,1967,
+230,Villa,Skodsborg Strandvej 250,2942, Skodsborg,18500000 ,10-08-2006,Fam. Salg,290,63793,7,1997,
+230,Villa,Vedbæk Strandvej 438,2950, Vedbæk,27000000 ,07-08-2006,Alm. Salg,271,99631,9,1912,
+230,Villa,Kæmpehøjvej 4,2950, Vedbæk,18500000 ,19-07-2006,Alm. Salg,232,79741,6,1936,
+230,Villa,Kohavevej 37,2950, Vedbæk,4800000 ,15-07-2006,Alm. Salg,80,60000,4,1925,
+230,Villa,Frederikslundsvej 7,2840, Holte,10000000 ,10-07-2006,Alm. Salg,141,70922,4,1947,
+230,Villa,Gøngehusvej 270,2970, Hørsholm,10500000 ,29-06-2006,Alm. Salg,154,68182,5,1935,
+230,Villa,Poulsvej 15,2950, Vedbæk,5600000 ,13-06-2006,Alm. Salg,78,71795,3,1953,
+230,Villa,Skodsborg Strandvej 269,2942, Skodsborg,8950000 ,30-05-2006,Alm. Salg,161,55590,5,1931,
+230,Ejerlejlighed,"Skodsborgparken 30, 3. tv",2942, Skodsborg,4600000 ,29-05-2006,Alm. Salg,82,56098,2,1963,
+230,Villa,Dronninggårds Alle 122,2840, Holte,11100000 ,22-05-2006,Fam. Salg,175,63429,2,2006,
+230,Ejerlejlighed,"Skodsborgparken 54, 5. th",2942, Skodsborg,6000000 ,18-05-2006,Alm. Salg,99,60606,2,1963,
+230,Villa,Storkevænget 7,2840, Holte,12811000 ,17-05-2006,Alm. Salg,225,56938,5,1933,
+230,Villa,Tovesvej 3,2850, Nærum,6250000 ,13-05-2006,Alm. Salg,110,56818,4,1967,
+230,Villa,Kæmpehøjvej 4,2950, Vedbæk,16000000 ,26-02-2006,Alm. Salg,232,68966,6,1936,
+230,Ejerlejlighed,"Skodsborg Strandvej 227, 1. 10",2942, Skodsborg,3900000 ,21-02-2006,Fam. Salg,66,59091,2,1886,
+230,Villa,Storkevænget 3,2840, Holte,12400000 ,20-02-2006,Alm. Salg,198,62626,6,1930,
+230,Villa,Søbakkevej 12,2840, Holte,12500000 ,12-02-2006,Alm. Salg,216,57870,7,1943,
+230,Villa,Gøngehusvej 261,2970, Hørsholm,17000000 ,02-01-2006,Alm. Salg,91,186813,3,1989,
+230,Villa,Vedbæk Strandvej 400,2950, Vedbæk,19000000 ,23-09-2005,Alm. Salg,333,57057,8,1934,
+230,Ejerlejlighed,"Langebjerg 28, 4. th",2850, Nærum,22950006 ,16-07-2005,Alm. Salg,112,204911,4,1968,
+230,Villa,Skodsborg Strandvej 68,2942, Skodsborg,6551000 ,29-07-2004,Alm. Salg,116,56474,5,1933,
+230,Villa,Brådebæksvej 8,2970, Hørsholm,10207000 ,15-01-2004,Alm. Salg,78,130859,2,1949,
+230,Villa,Søndervangen 73,3460, Birkerød,13665339 ,25-09-2003,Alm. Salg,125,109323,5,1956,
+230,Villa,Birkerød Kongevej 16,3460, Birkerød,15000000 ,09-07-2003,Alm. Salg,172,87209,3,1878,
+230,Rækkehus,Grøndalshave 1,3460, Birkerød,8400000 ,08-07-2003,Alm. Salg,93,90323,3,2004,
+230,Ejerlejlighed,"Byagervej 91, st. th",3460, Birkerød,8256000 ,03-02-2002,Andet,66,125091,2,1959,
+230,Ejerlejlighed,"Birkerød Parkvej 28, st. 12",3460, Birkerød,5137500 ,26-03-2001,Alm. Salg,56,91741,2,1959,
+230,Ejerlejlighed,"Birkerød Parkvej 28, st. 12",3460, Birkerød,6850000 ,20-03-2001,Alm. Salg,56,122321,2,1959,
+230,Ejerlejlighed,"Stiholmsvej 1, 1. 1",3460, Birkerød,12281000 ,12-08-1995,Alm. Salg,55,223291,2,1965,
+230,Ejerlejlighed,"Skodsborg Strandvej 156, 2",2942, Skodsborg,14316448 ,29-12-1994,Fam. Salg,201,71226,5,1885,
+230,Ejerlejlighed,"Langebjerg 8, 1. tv",2850, Nærum,13189980 ,25-01-1994,Alm. Salg,112,117768,4,1968,
+230,Ejerlejlighed,"Nærum Hovedgade 15, st. tv-a",2850, Nærum,7853296 ,20-01-1994,Alm. Salg,78,100683,3,1968,
+230,Villa,Egebækvej 98,2850, Nærum,57000000 ,18-03-1993,Alm. Salg,175,325714,5,1919,
+230,Ejerlejlighed,"Skodsborgparken 64, 2. th",2942, Skodsborg,33930199 ,17-11-1992,Fam. Salg,132,257047,5,1963,
+230,Ejerlejlighed,"Langebjerg 8, 1. tv",2850, Nærum,18389000 ,28-06-1992,Alm. Salg,112,164188,4,1968,
+230,Ejerlejlighed,"Nærum Hovedgade 15, st. tv-a",2850, Nærum,10850000 ,28-06-1992,Alm. Salg,78,139103,3,1968,
