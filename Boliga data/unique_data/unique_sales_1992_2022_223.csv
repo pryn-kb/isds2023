@@ -44,8 +44,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 223,Ejerlejlighed,"Ellevej 12B, 2. tv",2970, Hørsholm,2100000 ,12-11-2022,Alm. Salg,87,24138,3,1979,-16%
 223,Villa,Usserød Kongevej 141,2970, Hørsholm,2625000 ,10-11-2022,Alm. Salg,161,16304,5,1800,
 223,Villa,Vibevang 4,2970, Hørsholm,8550000 ,09-11-2022,Alm. Salg,180,47500,7,1955,1%
-223,Rækkehus,Slotsdalen 129,2970, Hørsholm,4375000 ,08-11-2022,Alm. Salg,107,40888,4,1989,-8%
-223,Villa,Kløvervang 57,2970, Hørsholm,4375000 ,08-11-2022,Alm. Salg,203,21552,7,1957,
 223,Villa,Vallerød Banevej 19A,2960, Rungsted Kyst,7400000 ,06-11-2022,Alm. Salg,178,41573,7,1899,-7%
 223,Ejerlejlighed,"Bybjergvej 21, 2. th",2970, Hørsholm,2195000 ,03-11-2022,Alm. Salg,74,29662,3,1963,
 223,Villa,Østre Pennehavevej 2,2960, Rungsted Kyst,3272500 ,03-11-2022,Fam. Salg,223,14675,6,1920,
@@ -179,11 +177,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 223,Rækkehus,Georginevej 9,2970, Hørsholm,5500000 ,18-05-2022,Alm. Salg,158,34810,4,1972,-8%
 223,Rækkehus,Slotsbakken 58,2970, Hørsholm,3475000 ,16-05-2022,Alm. Salg,92,37772,4,1986,-1%
 223,Rækkehus,Bakkehusene 66,2970, Hørsholm,1800000 ,16-05-2022,Andet,138,13043,6,1979,
-223,Ejerlejlighed,Dianas Have 42,2970, Hørsholm,3100000 ,16-05-2022,Alm. Salg,85,36471,2,1992,-11%
 223,Ejerlejlighed,"Usserød Kongevej 4, st. tv",2970, Hørsholm,2135000 ,16-05-2022,Alm. Salg,75,28467,3,1961,-5%
 223,Ejerlejlighed,Strandbjerg 2B,2960, Rungsted Kyst,3795000 ,16-05-2022,Alm. Salg,85,44647,3,1995,
 223,Villa,Nattergalevej 10,2970, Hørsholm,5100000 ,16-05-2022,Alm. Salg,157,32484,6,1964,-3%
-223,Villa,Duevej 22,2970, Hørsholm,3100000 ,16-05-2022,Alm. Salg,145,21379,5,1965,
 223,Rækkehus,Valmuevej 21,2970, Hørsholm,2082500 ,15-05-2022,Fam. Salg,123,16931,4,1963,
 223,Ejerlejlighed,"Usserød Kongevej 4, 2. tv",2970, Hørsholm,2200000 ,15-05-2022,Alm. Salg,75,29333,3,1961,-8%
 223,Ejerlejlighed,"Mikkelborg Park 7, 3. th",2970, Hørsholm,6300000 ,12-05-2022,Alm. Salg,114,55263,4,1987,-3%
@@ -1337,25 +1333,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 223,Villa,Enghave 23,2960, Rungsted Kyst,8600000 ,30-06-2020,Alm. Salg,173,49711,4,1969,-2%
 223,Villa,Solvænget 2,2960, Rungsted Kyst,8795000 ,30-06-2020,Alm. Salg,172,51134,6,1948,
 223,Villa,Rungsted Strandvej 181B,2960, Rungsted Kyst,12500000 ,30-06-2020,Alm. Salg,297,42088,6,1960,-2%
-223,Ejerlejlighed,"Selmersvej 25, st. th",2970, Hørsholm,14500000 ,29-06-2020,Alm. Salg,45,322222,2,1936,
-223,Ejerlejlighed,"Selmersvej 25, st. tv",2970, Hørsholm,14500000 ,29-06-2020,Alm. Salg,47,308511,2,1936,
-223,Ejerlejlighed,"Selmersvej 25, 1. tv",2970, Hørsholm,14500000 ,29-06-2020,Alm. Salg,47,308511,2,1936,
-223,Ejerlejlighed,"Selmersvej 25, 1. th",2970, Hørsholm,14500000 ,29-06-2020,Alm. Salg,45,322222,2,1936,
-223,Ejerlejlighed,"Selmersvej 25, 2. th",2970, Hørsholm,14500000 ,29-06-2020,Alm. Salg,45,322222,2,1936,
-223,Ejerlejlighed,"Selmersvej 27, st. th",2970, Hørsholm,14500000 ,29-06-2020,Alm. Salg,46,315217,2,1936,
-223,Ejerlejlighed,"Selmersvej 25, 2. tv",2970, Hørsholm,14500000 ,29-06-2020,Alm. Salg,47,308511,2,1936,
-223,Ejerlejlighed,"Selmersvej 27, st. tv",2970, Hørsholm,14500000 ,29-06-2020,Alm. Salg,45,322222,2,1936,
-223,Ejerlejlighed,"Selmersvej 27, 1. th",2970, Hørsholm,14500000 ,29-06-2020,Alm. Salg,46,315217,2,1936,
-223,Ejerlejlighed,"Selmersvej 27, 2. th",2970, Hørsholm,14500000 ,29-06-2020,Alm. Salg,46,315217,2,1936,
-223,Ejerlejlighed,"Selmersvej 27, 1. tv",2970, Hørsholm,14500000 ,29-06-2020,Alm. Salg,45,322222,2,1936,
-223,Ejerlejlighed,"Selmersvej 27, 2. tv",2970, Hørsholm,14500000 ,29-06-2020,Alm. Salg,45,322222,2,1936,
-223,Ejerlejlighed,"Ørbæksvej 10F, st. tv",2970, Hørsholm,14500000 ,29-06-2020,Alm. Salg,67,216418,2,1937,
-223,Ejerlejlighed,"Ørbæksvej 10F, kl",2970, Hørsholm,14500000 ,29-06-2020,Alm. Salg,52,278846,1,1937,
-223,Ejerlejlighed,"Ørbæksvej 10F, 2. tv",2970, Hørsholm,14500000 ,29-06-2020,Alm. Salg,67,216418,2,1937,
-223,Ejerlejlighed,"Ørbæksvej 10F, 2. th",2970, Hørsholm,14500000 ,29-06-2020,Alm. Salg,58,250000,2,1937,
-223,Ejerlejlighed,"Ørbæksvej 10F, 1. tv",2970, Hørsholm,14500000 ,29-06-2020,Alm. Salg,67,216418,2,1937,
-223,Ejerlejlighed,"Ørbæksvej 10F, 1. th",2970, Hørsholm,14500000 ,29-06-2020,Alm. Salg,58,250000,2,1937,
-223,Ejerlejlighed,"Ørbæksvej 10F, st. th",2970, Hørsholm,14500000 ,29-06-2020,Alm. Salg,58,250000,2,1937,
 223,Villa,Bukkeballevej 15B,2960, Rungsted Kyst,5200000 ,29-06-2020,Fam. Salg,194,26804,5,1985,
 223,Villa,Kærvej 29,2970, Hørsholm,3995000 ,29-06-2020,Alm. Salg,189,21138,5,1979,
 223,Villa,Egtoftevej 11,2950, Vedbæk,150000000 ,29-06-2020,Alm. Salg,857,161290,21,1920,
@@ -1854,7 +1831,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 223,Ejerlejlighed,"Ørbækgårds Alle 410, 1. tv",2970, Hørsholm,5300000 ,03-07-2019,Alm. Salg,126,42063,4,2002,
 223,Villa,Elmevej 5,2950, Vedbæk,10400000 ,03-07-2019,Alm. Salg,227,45815,7,1948,
 223,Villa,Egtoftevej 5,2950, Vedbæk,18100000 ,03-07-2019,Alm. Salg,451,40133,11,1962,-9%
-223,Villa,Bel Colles Alle 10,2960, Rungsted Kyst,5200000 ,01-07-2019,Alm. Salg,190,27368,6,1969,-5%
 223,Villa,Birkevej 14B,2970, Hørsholm,4114665 ,01-07-2019,Andet,137,30034,6,1968,
 223,Rækkehus,Ewaldsvej 7B,2960, Rungsted Kyst,5245000 ,30-06-2019,Alm. Salg,141,37199,4,1957,
 223,Villa,Fuglemosevænge 26,2970, Hørsholm,3825000 ,30-06-2019,Alm. Salg,158,24209,4,1972,-11%
@@ -2017,8 +1993,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 223,Ejerlejlighed,"Agiltevej 23B, 1. tv",2970, Hørsholm,3200000 ,23-02-2019,Alm. Salg,128,25000,4,1937,-3%
 223,Rækkehus,Slotsbakken 148,2970, Hørsholm,3600000 ,21-02-2019,Alm. Salg,119,30252,4,1986,
 223,Ejerlejlighed,"Bybjergvej 15, st. tv",2970, Hørsholm,630674 ,21-02-2019,Fam. Salg,77,8191,3,1962,
-223,Rækkehus,Slotsdalen 127,2970, Hørsholm,3200000 ,20-02-2019,Alm. Salg,120,26667,4,1989,-5%
-223,Villa,Erantisvej 17,2970, Hørsholm,3200000 ,20-02-2019,Alm. Salg,122,26230,5,1963,-8%
 223,Villa,Hasselvej 4,2970, Hørsholm,4100000 ,19-02-2019,Alm. Salg,127,32283,4,1994,
 223,Rækkehus,Stampevænget 6,2970, Hørsholm,2600000 ,18-02-2019,Alm. Salg,99,26263,3,1986,-5%
 223,Rækkehus,Slotsbakken 230,2970, Hørsholm,3145000 ,17-02-2019,Alm. Salg,100,31450,4,1986,
@@ -2173,8 +2147,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 223,Rækkehus,Ved Åbredden 1,2970, Hørsholm,3295000 ,25-10-2018,Alm. Salg,115,28652,4,1966,
 223,Rækkehus,Slotsdalen 85,2970, Hørsholm,2845000 ,24-10-2018,Alm. Salg,107,26589,4,1989,
 223,Rækkehus,Christianshusvej 169,2970, Hørsholm,2115000 ,24-10-2018,Alm. Salg,93,22742,4,1983,-12%
-223,Ejerlejlighed,"Kammerrådensvej 13, 3. tv",2970, Hørsholm,2200000 ,24-10-2018,Alm. Salg,89,24719,3,1967,-8%
-223,Ejerlejlighed,Byporten 22,2970, Hørsholm,2200000 ,24-10-2018,Alm. Salg,60,36667,2,1987,-2%
 223,Villa,Jens Bornøs Vej 28,2970, Hørsholm,4650000 ,24-10-2018,Alm. Salg,149,31208,6,1971,
 223,Villa,Højagervej 2,2960, Rungsted Kyst,10022243 ,24-10-2018,Alm. Salg,344,29134,10,1902,
 223,Villa,Engvej 5,2960, Rungsted Kyst,5400000 ,24-10-2018,Alm. Salg,142,38028,5,1959,-2%
@@ -3852,8 +3824,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 223,Rækkehus,Dronningvej 13,2970, Hørsholm,3325000 ,03-06-2015,Alm. Salg,128,25977,4,1910,-5%
 223,Villa,Rørhønevej 17,2970, Hørsholm,3670000 ,03-06-2015,Alm. Salg,158,23228,5,1971,-1%
 223,Villa,Sophienberg Vænge 40,2960, Rungsted Kyst,5695000 ,03-06-2015,Alm. Salg,176,32358,5,1954,
-223,Ejerlejlighed,"Kammerrådensvej 17, 1. th",2970, Hørsholm,1650000 ,02-06-2015,Alm. Salg,87,18966,4,1949,
-223,Ejerlejlighed,"Ellevej 6, 2. th",2970, Hørsholm,1650000 ,02-06-2015,Alm. Salg,96,17188,4,1979,
 223,Rækkehus,Stampehusene 1F,2970, Hørsholm,2105000 ,01-06-2015,Alm. Salg,87,24195,3,1992,-2%
 223,Villa,Bolbro Villavej 9D,2960, Rungsted Kyst,8000000 ,01-06-2015,Alm. Salg,188,42553,5,1989,
 223,Ejerlejlighed,"Hørsholm Park 11, 3. mf",2970, Hørsholm,1350000 ,28-05-2015,Alm. Salg,69,19565,2,1969,-3%
@@ -3938,10 +3908,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 223,Villa,Smidstruplund 10,2950, Vedbæk,6360000 ,08-04-2015,Alm. Salg,208,30577,5,1973,-5%
 223,Villa,Svalevej 6,2970, Hørsholm,2865000 ,08-04-2015,Alm. Salg,150,19100,7,1965,-4%
 223,Rækkehus,Ørbækgårds Alle 635,2970, Hørsholm,3130000 ,07-04-2015,Alm. Salg,115,27217,4,1999,-2%
-223,Rækkehus,Stampeengen 20,2970, Hørsholm,2850000 ,07-04-2015,Alm. Salg,114,25000,4,1978,
 223,Ejerlejlighed,"Bybjergvej 13, 1. tv",2970, Hørsholm,1600000 ,07-04-2015,Alm. Salg,77,20779,3,1962,
 223,Ejerlejlighed,"Hørsholm Park 6, 2. mf",2970, Hørsholm,1495000 ,07-04-2015,Alm. Salg,69,21667,2,1969,
-223,Villa,Stolbergsvej 21,2970, Hørsholm,2850000 ,07-04-2015,Alm. Salg,140,20357,5,1920,
 223,Villa,Skovgrænsen 1,2960, Rungsted Kyst,5795000 ,07-04-2015,Alm. Salg,172,33692,5,1977,
 223,Villa,Solkrogen 3,2960, Rungsted Kyst,5450000 ,07-04-2015,Alm. Salg,186,29301,6,1962,-4%
 223,Rækkehus,Immortellevej 2A,2950, Vedbæk,5945000 ,05-04-2015,Alm. Salg,199,29874,7,1985,-5%
@@ -4200,9 +4168,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 223,Rækkehus,Sophienbergvej 39,2960, Rungsted Kyst,5700000 ,25-08-2014,Alm. Salg,220,25909,6,1978,-8%
 223,Ejerlejlighed,"Kammerrådensvej 19, st. tv",2970, Hørsholm,1370000 ,25-08-2014,Alm. Salg,91,15055,2,1949,
 223,Ejerlejlighed,"Gl Hovedgade 8, 2. 15",2970, Hørsholm,1690000 ,25-08-2014,Alm. Salg,101,16733,3,1960,-6%
-223,Ejerlejlighed,"Mellemvang 25, 1",2970, Hørsholm,3850000 ,24-08-2014,Alm. Salg,168,22917,4,1926,-6%
 223,Ejerlejlighed,"Kammerrådensvej 11, 2. th",2970, Hørsholm,1700000 ,24-08-2014,Alm. Salg,102,16667,4,1967,-5%
-223,Villa,Søvang 18,2970, Hørsholm,3850000 ,24-08-2014,Alm. Salg,130,29615,5,1966,1%
 223,Rækkehus,Bakkehusene 77,2970, Hørsholm,2750000 ,21-08-2014,Alm. Salg,138,19928,6,1979,-5%
 223,Villa,Kløvervang 53,2970, Hørsholm,3550000 ,21-08-2014,Alm. Salg,214,16589,5,2015,-4%
 223,Ejerlejlighed,"Mikkelborg Park 2, st. tv",2970, Hørsholm,2195000 ,20-08-2014,Alm. Salg,111,19775,4,1987,
@@ -4264,8 +4230,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 223,Ejerlejlighed,Slotsbakken 68,2970, Hørsholm,1575000 ,01-07-2014,Alm. Salg,69,22826,2,1986,
 223,Ejerlejlighed,"Vallerød Banevej 22B, st",2960, Rungsted Kyst,3999990 ,01-07-2014,Fam. Salg,199,20100,5,1902,
 223,Ejerlejlighed,"Hørsholm Park 16, st",2970, Hørsholm,2150000 ,30-06-2014,Alm. Salg,73,29452,2,1969,
-223,Ejerlejlighed,"Kammerrådensvej 21, st. th",2970, Hørsholm,2495000 ,30-06-2014,Alm. Salg,102,24461,5,1949,
-223,Ejerlejlighed,"Hørsholm Park 11, 4. th",2970, Hørsholm,2495000 ,30-06-2014,Alm. Salg,113,22080,4,1969,
 223,Villa,Mågevej 19,2970, Hørsholm,4055655 ,30-06-2014,Alm. Salg,150,25190,6,1967,
 223,Villa,Markvænget 3,2970, Hørsholm,2200000 ,30-06-2014,Alm. Salg,126,17460,5,1968,-15%
 223,Ejerlejlighed,"Rungsted Bytorv 9, 2. 38",2960, Rungsted Kyst,1300000 ,29-06-2014,Alm. Salg,69,18841,2,1994,-13%
@@ -4588,7 +4552,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 223,Rækkehus,Christiansgave 26,2960, Rungsted Kyst,3800000 ,26-09-2013,Alm. Salg,138,27536,4,1956,-5%
 223,Villa,Anemonevej 17,2970, Hørsholm,2395000 ,26-09-2013,Alm. Salg,145,16517,5,1964,
 223,Villa,Vallerødgade 16B,2960, Rungsted Kyst,8400000 ,26-09-2013,Alm. Salg,347,24207,10,1712,-5%
-223,Villa,Deputat Vænge 2F,2970, Hørsholm,4000000 ,26-09-2013,Alm. Salg,171,12422,8,1915,
 223,Rækkehus,Slotsbakken 27,2970, Hørsholm,862500 ,25-09-2013,Fam. Salg,121,7128,4,1986,
 223,Villa,Helenevej 1,2960, Rungsted Kyst,6100000 ,25-09-2013,Alm. Salg,193,31606,5,1918,-2%
 223,Rækkehus,Østre Pennehavevej 1B,2960, Rungsted Kyst,2000000 ,24-09-2013,Alm. Salg,76,26316,3,1986,
@@ -4684,8 +4647,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 223,Ejerlejlighed,"Hørsholm Park 5, 1. th",2970, Hørsholm,1850000 ,06-07-2013,Alm. Salg,116,15948,4,1969,-5%
 223,Rækkehus,Stampevænget 11,2970, Hørsholm,2100000 ,03-07-2013,Alm. Salg,99,21212,3,1986,-2%
 223,Villa,Thyrasvej 1,2960, Rungsted Kyst,3233750 ,03-07-2013,Alm. Salg,127,25463,4,1973,-6%
-223,Ejerlejlighed,"Højskolevej 16, 1",2960, Rungsted Kyst,3495000 ,01-07-2013,Alm. Salg,154,22695,5,1896,
-223,Villa,Vestre Pennehavevej 8,2960, Rungsted Kyst,3495000 ,01-07-2013,Alm. Salg,225,15533,5,2014,
 223,Villa,Ewaldsvej 17,2960, Rungsted Kyst,4650000 ,01-07-2013,Alm. Salg,188,24734,6,1929,-6%
 223,Rækkehus,Kirkevej 2A,2960, Rungsted Kyst,5600000 ,29-06-2013,Alm. Salg,156,35897,4,1988,-7%
 223,Villa,Fredensvej 1,2970, Hørsholm,293500 ,27-06-2013,Fam. Salg,165,1779,6,1965,
@@ -5149,8 +5110,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 223,Rækkehus,Bakkehusene 55,2970, Hørsholm,2500000 ,02-04-2012,Alm. Salg,128,19531,5,1978,-4%
 223,Villa,Lathyrusvej 3,2970, Hørsholm,2250000 ,02-04-2012,Alm. Salg,126,17857,5,1968,-6%
 223,Villa,Kragevej 9,2970, Hørsholm,2800000 ,01-04-2012,Alm. Salg,138,20290,5,1965,-7%
-223,Rækkehus,Stampevænget 7,2970, Hørsholm,1900000 ,29-03-2012,Alm. Salg,99,19192,3,1986,-5%
-223,Villa,Havevej 34,2970, Hørsholm,1900000 ,29-03-2012,Alm. Salg,176,10795,5,2013,-11%
 223,Villa,Grønsøvej 1,2970, Hørsholm,3600000 ,28-03-2012,Alm. Salg,150,24000,5,1984,-3%
 223,Villa,Højagervej 6,2960, Rungsted Kyst,6950000 ,24-03-2012,Alm. Salg,172,40407,6,1938,
 223,Villa,Bolbrovej 97,2960, Rungsted Kyst,3310000 ,22-03-2012,Alm. Salg,112,24338,4,1970,
@@ -5577,7 +5536,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 223,Villa,Sophienberg Vænge 15,2960, Rungsted Kyst,3525000 ,26-10-2010,Alm. Salg,206,17112,7,2012,-12%
 223,Rækkehus,Ved Stampedammen 40,2970, Hørsholm,2600000 ,25-10-2010,Alm. Salg,117,22222,5,1962,
 223,Villa,Christiansgave 48,2960, Rungsted Kyst,12000000 ,25-10-2010,Alm. Salg,183,65574,6,1956,-19%
-223,Villa,Deputat Vænge 2F,2970, Hørsholm,6000000 ,25-10-2010,Auktion,171,18634,8,1915,
 223,Villa,Mejsevej 6,2970, Hørsholm,2500000 ,24-10-2010,Alm. Salg,158,15823,5,1972,
 223,Ejerlejlighed,"Ahornvej 3C, 2. th",2970, Hørsholm,850000 ,23-10-2010,Alm. Salg,57,14912,2,1981,-11%
 223,Villa,Sanskevej 15C,2960, Rungsted Kyst,2600000 ,23-10-2010,Alm. Salg,175,14857,6,1927,-26%
@@ -5874,8 +5832,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 223,Villa,Parkvej 3,2960, Rungsted Kyst,7807800 ,14-01-2010,Alm. Salg,167,46753,6,1956,
 223,Villa,Stampevej 18,2970, Hørsholm,2295000 ,14-01-2010,Alm. Salg,106,21651,5,1956,
 223,Villa,Constantiavej 13,2960, Rungsted Kyst,4500000 ,14-01-2010,Alm. Salg,200,22500,4,1970,
-223,Rækkehus,Christiansgave 38,2960, Rungsted Kyst,4400000 ,13-01-2010,Fam. Salg,129,34109,4,1956,
-223,Villa,Valdemarsvej 10,2960, Rungsted Kyst,4400000 ,13-01-2010,Alm. Salg,126,34921,6,1917,-11%
 223,Ejerlejlighed,"Bukkeballevej 2D, st",2960, Rungsted Kyst,2400000 ,12-01-2010,Alm. Salg,107,22430,5,1910,
 223,Villa,Bøgebakken 6,2960, Rungsted Kyst,3000000 ,12-01-2010,Alm. Salg,260,11538,5,1978,
 223,Rækkehus,Ådalen 14,2970, Hørsholm,1800000 ,11-01-2010,Alm. Salg,107,16822,4,1970,
@@ -5927,9 +5883,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 223,Villa,Rungsted Strandvej 98,2960, Rungsted Kyst,15000000 ,24-11-2009,Alm. Salg,360,41667,6,1885,
 223,Rækkehus,Nygårdsvænget 51,2970, Hørsholm,2600000 ,23-11-2009,Alm. Salg,132,19697,4,1977,-4%
 223,Rækkehus,Axel Heides Vej 42,2970, Hørsholm,2700000 ,23-11-2009,Alm. Salg,120,22500,3,2008,-19%
-223,Rækkehus,Slotsbakken 166,2970, Hørsholm,1995000 ,23-11-2009,Alm. Salg,92,21685,4,1986,-3%
 223,Ejerlejlighed,"Gl Hovedgade 15A, 2. 10",2970, Hørsholm,1195000 ,23-11-2009,Alm. Salg,56,21339,2,1977,
-223,Ejerlejlighed,"Hørsholm Park 9, 1. tv",2970, Hørsholm,1995000 ,23-11-2009,Alm. Salg,113,17655,3,1969,
 223,Villa,Overdamsvej 7,2970, Hørsholm,865000 ,22-11-2009,Alm. Salg,153,5654,5,1825,
 223,Villa,Slettevang 15,2970, Hørsholm,4500000 ,22-11-2009,Alm. Salg,181,24862,4,1974,-10%
 223,Villa,Grønnegade 5,2970, Hørsholm,3300000 ,22-11-2009,Alm. Salg,117,28205,4,1970,
@@ -7172,8 +7126,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 223,Ejerlejlighed,"Usserød Kongevej 49B, 1. tv",2970, Hørsholm,1575000 ,21-06-2006,Alm. Salg,57,27632,3,1990,
 223,Villa,Kløvervang 27,2970, Hørsholm,4200000 ,21-06-2006,Alm. Salg,144,29167,6,1953,
 223,Ejerlejlighed,"Bybjergvej 13, 1. tv",2970, Hørsholm,1995000 ,20-06-2006,Alm. Salg,77,25909,3,1962,
-223,Rækkehus,Ørbækgårds Alle 823,2970, Hørsholm,4250000 ,19-06-2006,Alm. Salg,115,36957,4,2001,
-223,Villa,Gøgevang 18,2970, Hørsholm,4250000 ,19-06-2006,Alm. Salg,162,26235,8,1944,
 223,Villa,Christianshusvej 155,2970, Hørsholm,3100000 ,19-06-2006,Alm. Salg,108,28704,4,1983,
 223,Rækkehus,Boelsvang 18,2970, Hørsholm,2995000 ,18-06-2006,Alm. Salg,135,22185,5,1977,
 223,Rækkehus,Sømandshvile Park 27,2960, Rungsted Kyst,2100000 ,15-06-2006,Fam. Salg,155,13548,4,1984,
@@ -8189,7 +8141,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 223,Rækkehus,Nygårdsvænget 18,2970, Hørsholm,2495000 ,30-10-2004,Alm. Salg,132,18902,4,1977,
 223,Rækkehus,Ørbækgårds Alle 243,2970, Hørsholm,2244810 ,30-10-2004,Alm. Salg,111,20224,4,2005,
 223,Villa,Engvej 21,2960, Rungsted Kyst,2795000 ,30-10-2004,Alm. Salg,185,15108,5,2007,
-223,Villa,Deputat Vænge 2F,2970, Hørsholm,4500000 ,30-10-2004,Alm. Salg,171,13975,8,1915,
 223,Rækkehus,Helleholm 33,2960, Rungsted Kyst,3950000 ,28-10-2004,Alm. Salg,183,21585,5,1976,
 223,Ejerlejlighed,"Bybjergvej 15, 2. tv",2970, Hørsholm,1400000 ,28-10-2004,Alm. Salg,77,18182,3,1962,
 223,Rækkehus,Ørbækgårds Alle 204,2970, Hørsholm,2505903 ,27-10-2004,Alm. Salg,124,20209,4,2005,
@@ -8507,9 +8458,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 223,Villa,Fredensvej 5,2970, Hørsholm,2600000 ,14-03-2004,Alm. Salg,114,19549,6,1969,
 223,Villa,Louis Petersensvej 20,2960, Rungsted Kyst,4995000 ,14-03-2004,Alm. Salg,206,24248,6,1998,
 223,Rækkehus,Stenhavegård 11,2970, Hørsholm,500000 ,13-03-2004,Fam. Salg,115,4348,4,1993,
-223,Rækkehus,Christianshusvej 9,2970, Hørsholm,2275000 ,13-03-2004,Alm. Salg,146,15582,4,1981,
 223,Villa,Alsvej 93,2970, Hørsholm,2550000 ,13-03-2004,Alm. Salg,118,21610,4,1961,
-223,Villa,Dalvej 12,2970, Hørsholm,2275000 ,13-03-2004,Alm. Salg,114,19956,4,1967,
 223,Villa,Bukkeballevej 58B,2960, Rungsted Kyst,3180000 ,11-03-2004,Alm. Salg,184,17283,7,1968,
 223,Rækkehus,Vallerød Park 2B,2960, Rungsted Kyst,2475000 ,09-03-2004,Alm. Salg,143,17308,4,1992,
 223,Villa,Svendsvej 5,2960, Rungsted Kyst,2995000 ,09-03-2004,Alm. Salg,172,17413,6,1959,
@@ -8544,10 +8493,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 223,Ejerlejlighed,"Hørsholm Park 16, 2. mf",2970, Hørsholm,1150000 ,17-02-2004,Alm. Salg,69,16667,2,1969,
 223,Ejerlejlighed,"Gl Hovedgade 15D, 2. 69",2970, Hørsholm,1250000 ,17-02-2004,Alm. Salg,56,22321,2,1977,
 223,Villa,Uldvejen 6,2970, Hørsholm,4279226 ,16-02-2004,Alm. Salg,152,28153,4,2004,
-223,Rækkehus,Ved Højmosen 45,2970, Hørsholm,2500000 ,15-02-2004,Alm. Salg,169,14793,6,1973,
 223,Ejerlejlighed,Piet Heins Vej 10,2960, Rungsted Kyst,3495000 ,15-02-2004,Fam. Salg,149,23456,3,2002,
 223,Ejerlejlighed,"Vallerød Banevej 22B, st",2960, Rungsted Kyst,254041 ,15-02-2004,Fam. Salg,199,1277,5,1902,
-223,Villa,Usserød Kongevej 105,2970, Hørsholm,2500000 ,15-02-2004,Alm. Salg,107,12500,11,1840,
 223,Villa,Brombærdalen 1,2970, Hørsholm,2320000 ,15-02-2004,Alm. Salg,139,16691,5,1960,
 223,Villa,Bellisvej 17,2970, Hørsholm,360000 ,14-02-2004,Fam. Salg,150,2400,5,1963,
 223,Rækkehus,Skovlyvænget 8,2970, Hørsholm,2031500 ,13-02-2004,Alm. Salg,130,15627,4,1977,
@@ -11073,7 +11020,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 223,Ejerlejlighed,"Bybjergvej 7, st. th",2970, Hørsholm,750000 ,30-06-1998,Alm. Salg,59,12712,2,1962,
 223,Villa,Ravnevej 10,2970, Hørsholm,1386582 ,30-06-1998,Fam. Salg,194,7147,6,1971,
 223,Rækkehus,Bakkehusene 84,2970, Hørsholm,750000 ,29-06-1998,Alm. Salg,138,5435,6,1979,
-223,Rækkehus,Sjælsmarkvej 7,2970, Hørsholm,6000000 ,29-06-1998,Fam. Salg,63,95238,3,1958,
 223,Villa,Bolbrovej 77,2960, Rungsted Kyst,1050000 ,29-06-1998,Alm. Salg,122,8607,5,1917,
 223,Villa,Lathyrusvej 7,2970, Hørsholm,2018840 ,29-06-1998,Alm. Salg,150,13459,5,1968,
 223,Ejerlejlighed,"Gl Hovedgade 15A, 2. 11",2970, Hørsholm,939000 ,28-06-1998,Alm. Salg,66,14227,2,1977,
@@ -11219,23 +11165,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 223,Villa,Kirkebakken 3,2970, Hørsholm,2031900 ,22-03-1998,Alm. Salg,121,16793,5,1959,
 223,Villa,Ørnevej 3,2970, Hørsholm,2200000 ,22-03-1998,Fam. Salg,172,12791,6,1964,
 223,Villa,Breeltehøj 16,2970, Hørsholm,850000 ,21-03-1998,Alm. Salg,174,4885,5,1999,
-223,Ejerlejlighed,"Ved Møllen 5A, st",2970, Hørsholm,18679666 ,18-03-1998,Alm. Salg,67,278801,2,1806,
-223,Ejerlejlighed,"Ved Møllen 5A, 1",2970, Hørsholm,18679666 ,18-03-1998,Alm. Salg,93,200857,3,1806,
-223,Ejerlejlighed,"Ved Møllen 5A, 2",2970, Hørsholm,18679666 ,18-03-1998,Alm. Salg,76,245785,2,1806,
-223,Ejerlejlighed,"Ved Møllen 5B, st",2970, Hørsholm,18679666 ,18-03-1998,Alm. Salg,89,209884,2,1806,
-223,Ejerlejlighed,"Ved Møllen 5B, 1. th",2970, Hørsholm,18679666 ,18-03-1998,Alm. Salg,97,192574,4,1806,
-223,Ejerlejlighed,"Ved Møllen 5B, 1. tv",2970, Hørsholm,18679666 ,18-03-1998,Alm. Salg,95,196628,3,1806,
-223,Ejerlejlighed,"Ved Møllen 5B, 2. tv",2970, Hørsholm,18679666 ,18-03-1998,Alm. Salg,93,200857,3,1806,
-223,Ejerlejlighed,Ved Møllen 7A,2970, Hørsholm,18679666 ,18-03-1998,Alm. Salg,102,183134,3,1917,
-223,Ejerlejlighed,Ved Møllen 7C,2970, Hørsholm,18679666 ,18-03-1998,Alm. Salg,95,196628,3,1917,
-223,Ejerlejlighed,"Ved Møllen 5B, 2. th",2970, Hørsholm,18679666 ,18-03-1998,Alm. Salg,70,266852,2,1806,
-223,Ejerlejlighed,Ved Møllen 7D,2970, Hørsholm,18679666 ,18-03-1998,Alm. Salg,95,196628,3,1917,
-223,Ejerlejlighed,Ved Møllen 7B,2970, Hørsholm,18679666 ,18-03-1998,Alm. Salg,95,196628,3,1917,
-223,Ejerlejlighed,"Gl Hovedgade 9A, st. th",2970, Hørsholm,18679666 ,18-03-1998,Alm. Salg,76,245785,3,1806,
-223,Ejerlejlighed,Gl Hovedgade 9B,2970, Hørsholm,18679666 ,18-03-1998,Alm. Salg,107,174576,4,1806,
-223,Ejerlejlighed,"Gl Hovedgade 9A, 1",2970, Hørsholm,18679666 ,18-03-1998,Alm. Salg,103,181356,3,1806,
-223,Ejerlejlighed,"Gl Hovedgade 9A, st. tv",2970, Hørsholm,18679666 ,18-03-1998,Alm. Salg,74,252428,2,1806,
-223,Ejerlejlighed,Gl Hovedgade 9C,2970, Hørsholm,18679666 ,18-03-1998,Alm. Salg,105,177902,3,1806,
 223,Villa,Thyrasvej 7,2960, Rungsted Kyst,2752980 ,18-03-1998,Alm. Salg,185,14881,7,1969,
 223,Ejerlejlighed,"Hørsholm Park 6, 1. th",2970, Hørsholm,1238000 ,17-03-1998,Alm. Salg,113,10956,4,1969,
 223,Villa,Ørnevej 4,2970, Hørsholm,2060000 ,17-03-1998,Alm. Salg,145,12118,9,1963,
@@ -11446,24 +11375,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 223,Villa,Bloustrødvej 22B,2970, Hørsholm,2574516 ,30-09-1997,Alm. Salg,148,17395,4,1989,
 223,Rækkehus,Selmers Vænge 6,2970, Hørsholm,1265950 ,28-09-1997,Alm. Salg,89,14224,3,1978,
 223,Rækkehus,Ved Højmosen 92,2970, Hørsholm,1650000 ,28-09-1997,Alm. Salg,169,9763,6,1974,
-223,Ejerlejlighed,"Ved Møllen 5A, st",2970, Hørsholm,18530000 ,28-09-1997,Alm. Salg,67,276567,2,1806,
-223,Ejerlejlighed,"Ved Møllen 5A, 1",2970, Hørsholm,18530000 ,28-09-1997,Alm. Salg,93,199247,3,1806,
-223,Ejerlejlighed,"Ved Møllen 5A, 2",2970, Hørsholm,18530000 ,28-09-1997,Alm. Salg,76,243816,2,1806,
-223,Ejerlejlighed,"Ved Møllen 5B, st",2970, Hørsholm,18530000 ,28-09-1997,Alm. Salg,89,208202,2,1806,
-223,Ejerlejlighed,"Ved Møllen 5B, 1. th",2970, Hørsholm,18530000 ,28-09-1997,Alm. Salg,97,191031,4,1806,
-223,Ejerlejlighed,"Ved Møllen 5B, 1. tv",2970, Hørsholm,18530000 ,28-09-1997,Alm. Salg,95,195053,3,1806,
-223,Ejerlejlighed,"Ved Møllen 5B, 2. tv",2970, Hørsholm,18530000 ,28-09-1997,Alm. Salg,93,199247,3,1806,
-223,Ejerlejlighed,Ved Møllen 7A,2970, Hørsholm,18530000 ,28-09-1997,Alm. Salg,102,181667,3,1917,
-223,Ejerlejlighed,Ved Møllen 7C,2970, Hørsholm,18530000 ,28-09-1997,Alm. Salg,95,195053,3,1917,
-223,Ejerlejlighed,"Ved Møllen 5B, 2. th",2970, Hørsholm,18530000 ,28-09-1997,Alm. Salg,70,264714,2,1806,
-223,Ejerlejlighed,Ved Møllen 7D,2970, Hørsholm,18530000 ,28-09-1997,Alm. Salg,95,195053,3,1917,
-223,Ejerlejlighed,Ved Møllen 7B,2970, Hørsholm,18530000 ,28-09-1997,Alm. Salg,95,195053,3,1917,
 223,Ejerlejlighed,"Bybjergvej 15, st. tv",2970, Hørsholm,813820 ,28-09-1997,Alm. Salg,77,10569,3,1962,
-223,Ejerlejlighed,"Gl Hovedgade 9A, st. th",2970, Hørsholm,18530000 ,28-09-1997,Alm. Salg,76,243816,3,1806,
-223,Ejerlejlighed,Gl Hovedgade 9B,2970, Hørsholm,18530000 ,28-09-1997,Alm. Salg,107,173178,4,1806,
-223,Ejerlejlighed,"Gl Hovedgade 9A, 1",2970, Hørsholm,18530000 ,28-09-1997,Alm. Salg,103,179903,3,1806,
-223,Ejerlejlighed,"Gl Hovedgade 9A, st. tv",2970, Hørsholm,18530000 ,28-09-1997,Alm. Salg,74,250405,2,1806,
-223,Ejerlejlighed,Gl Hovedgade 9C,2970, Hørsholm,18530000 ,28-09-1997,Alm. Salg,105,176476,3,1806,
 223,Villa,Ørnevej 18,2970, Hørsholm,1700000 ,28-09-1997,Alm. Salg,176,9659,7,1968,
 223,Rækkehus,Usserød Kongevej 54D,2970, Hørsholm,771826 ,27-09-1997,Alm. Salg,62,12449,2,1986,
 223,Villa,Syrenvej 8B,2970, Hørsholm,1173891 ,27-09-1997,Alm. Salg,115,10208,3,1956,
@@ -11639,23 +11551,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 223,Ejerlejlighed,"Kammerrådensvej 25, st. tv",2970, Hørsholm,750246 ,27-05-1997,Alm. Salg,81,9262,3,1949,
 223,Ejerlejlighed,"Usserød Kongevej 35A, 1. tv",2970, Hørsholm,641000 ,26-05-1997,Alm. Salg,60,10683,2,1939,
 223,Villa,Esbern Snares Vej 3,2960, Rungsted Kyst,1750000 ,26-05-1997,Alm. Salg,218,8028,7,1972,
-223,Ejerlejlighed,"Ved Møllen 5A, st",2970, Hørsholm,4000000 ,25-05-1997,Alm. Salg,67,59701,2,1806,
-223,Ejerlejlighed,"Ved Møllen 5A, 1",2970, Hørsholm,4000000 ,25-05-1997,Alm. Salg,93,43011,3,1806,
-223,Ejerlejlighed,"Ved Møllen 5A, 2",2970, Hørsholm,4000000 ,25-05-1997,Alm. Salg,76,52632,2,1806,
-223,Ejerlejlighed,"Ved Møllen 5B, st",2970, Hørsholm,4000000 ,25-05-1997,Alm. Salg,89,44944,2,1806,
-223,Ejerlejlighed,"Ved Møllen 5B, 1. th",2970, Hørsholm,4000000 ,25-05-1997,Alm. Salg,97,41237,4,1806,
-223,Ejerlejlighed,"Ved Møllen 5B, 1. tv",2970, Hørsholm,4000000 ,25-05-1997,Alm. Salg,95,42105,3,1806,
-223,Ejerlejlighed,"Ved Møllen 5B, 2. tv",2970, Hørsholm,4000000 ,25-05-1997,Alm. Salg,93,43011,3,1806,
-223,Ejerlejlighed,Ved Møllen 7A,2970, Hørsholm,4000000 ,25-05-1997,Alm. Salg,102,39216,3,1917,
-223,Ejerlejlighed,Ved Møllen 7C,2970, Hørsholm,4000000 ,25-05-1997,Alm. Salg,95,42105,3,1917,
-223,Ejerlejlighed,"Ved Møllen 5B, 2. th",2970, Hørsholm,4000000 ,25-05-1997,Alm. Salg,70,57143,2,1806,
-223,Ejerlejlighed,Ved Møllen 7D,2970, Hørsholm,4000000 ,25-05-1997,Alm. Salg,95,42105,3,1917,
-223,Ejerlejlighed,Ved Møllen 7B,2970, Hørsholm,4000000 ,25-05-1997,Alm. Salg,95,42105,3,1917,
-223,Ejerlejlighed,"Gl Hovedgade 9A, st. th",2970, Hørsholm,4000000 ,25-05-1997,Alm. Salg,76,52632,3,1806,
-223,Ejerlejlighed,Gl Hovedgade 9B,2970, Hørsholm,4000000 ,25-05-1997,Alm. Salg,107,37383,4,1806,
-223,Ejerlejlighed,"Gl Hovedgade 9A, 1",2970, Hørsholm,4000000 ,25-05-1997,Alm. Salg,103,38835,3,1806,
-223,Ejerlejlighed,"Gl Hovedgade 9A, st. tv",2970, Hørsholm,4000000 ,25-05-1997,Alm. Salg,74,54054,2,1806,
-223,Ejerlejlighed,Gl Hovedgade 9C,2970, Hørsholm,4000000 ,25-05-1997,Alm. Salg,105,38095,3,1806,
 223,Villa,Stolbergsvej 19,2970, Hørsholm,1574346 ,25-05-1997,Alm. Salg,189,8330,8,1921,
 223,Villa,Allikevej 8,2970, Hørsholm,1646900 ,25-05-1997,Alm. Salg,163,10104,6,1970,
 223,Villa,Bomlærkevej 1,2970, Hørsholm,1920000 ,24-05-1997,Alm. Salg,178,10787,6,1971,
@@ -11943,7 +11838,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 223,Rækkehus,Selmers Vænge 20,2970, Hørsholm,1130110 ,13-08-1996,Alm. Salg,87,12990,3,1978,
 223,Rækkehus,Christiansgave 13,2960, Rungsted Kyst,1221500 ,13-08-1996,Alm. Salg,130,9396,5,1956,
 223,Ejerlejlighed,"Gasværksvej 11, st",2970, Hørsholm,394690 ,13-08-1996,Alm. Salg,48,8223,1,1915,
-223,Villa,Svenstrupvej 3C,2970, Hørsholm,1423350 ,13-08-1996,Alm. Salg,53,26856,2,1877,
 223,Rækkehus,Mikkelborg Alle 12,2970, Hørsholm,1500000 ,12-08-1996,Alm. Salg,148,10135,5,1989,
 223,Rækkehus,Hulsø Ege 19,2960, Rungsted Kyst,1950000 ,11-08-1996,Alm. Salg,187,10428,5,1982,
 223,Ejerlejlighed,Ved Møllen 3,2970, Hørsholm,985000 ,11-08-1996,Alm. Salg,79,12468,2,1773,
@@ -12007,23 +11901,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 223,Villa,Helgasvej 6,2970, Hørsholm,1579000 ,16-06-1996,Alm. Salg,158,9994,5,1956,
 223,Villa,Hulsøvang 6,2960, Rungsted Kyst,2898000 ,15-06-1996,Alm. Salg,196,14786,7,1926,
 223,Villa,Spurvevej 24,2970, Hørsholm,1773271 ,15-06-1996,Alm. Salg,129,13746,4,1967,
-223,Ejerlejlighed,"Ved Møllen 5A, st",2970, Hørsholm,5100000 ,13-06-1996,Alm. Salg,67,76119,2,1806,
-223,Ejerlejlighed,"Ved Møllen 5A, 1",2970, Hørsholm,5100000 ,13-06-1996,Alm. Salg,93,54839,3,1806,
-223,Ejerlejlighed,"Ved Møllen 5A, 2",2970, Hørsholm,5100000 ,13-06-1996,Alm. Salg,76,67105,2,1806,
-223,Ejerlejlighed,"Ved Møllen 5B, st",2970, Hørsholm,5100000 ,13-06-1996,Alm. Salg,89,57303,2,1806,
-223,Ejerlejlighed,"Ved Møllen 5B, 1. th",2970, Hørsholm,5100000 ,13-06-1996,Alm. Salg,97,52577,4,1806,
-223,Ejerlejlighed,"Ved Møllen 5B, 1. tv",2970, Hørsholm,5100000 ,13-06-1996,Alm. Salg,95,53684,3,1806,
-223,Ejerlejlighed,"Ved Møllen 5B, 2. tv",2970, Hørsholm,5100000 ,13-06-1996,Alm. Salg,93,54839,3,1806,
-223,Ejerlejlighed,Ved Møllen 7A,2970, Hørsholm,5100000 ,13-06-1996,Alm. Salg,102,50000,3,1917,
-223,Ejerlejlighed,Ved Møllen 7C,2970, Hørsholm,5100000 ,13-06-1996,Alm. Salg,95,53684,3,1917,
-223,Ejerlejlighed,"Ved Møllen 5B, 2. th",2970, Hørsholm,5100000 ,13-06-1996,Alm. Salg,70,72857,2,1806,
-223,Ejerlejlighed,Ved Møllen 7D,2970, Hørsholm,5100000 ,13-06-1996,Alm. Salg,95,53684,3,1917,
-223,Ejerlejlighed,Ved Møllen 7B,2970, Hørsholm,5100000 ,13-06-1996,Alm. Salg,95,53684,3,1917,
-223,Ejerlejlighed,"Gl Hovedgade 9A, st. th",2970, Hørsholm,5100000 ,13-06-1996,Alm. Salg,76,67105,3,1806,
-223,Ejerlejlighed,Gl Hovedgade 9B,2970, Hørsholm,5100000 ,13-06-1996,Alm. Salg,107,47664,4,1806,
-223,Ejerlejlighed,"Gl Hovedgade 9A, 1",2970, Hørsholm,5100000 ,13-06-1996,Alm. Salg,103,49515,3,1806,
-223,Ejerlejlighed,"Gl Hovedgade 9A, st. tv",2970, Hørsholm,5100000 ,13-06-1996,Alm. Salg,74,68919,2,1806,
-223,Ejerlejlighed,Gl Hovedgade 9C,2970, Hørsholm,5100000 ,13-06-1996,Alm. Salg,105,48571,3,1806,
 223,Villa,Bomlærkevej 11,2970, Hørsholm,1477455 ,13-06-1996,Alm. Salg,179,8254,7,1971,
 223,Villa,Solvænget 2,2960, Rungsted Kyst,2338400 ,13-06-1996,Alm. Salg,172,13595,6,1948,
 223,Villa,Hyldekrogen 3,2970, Hørsholm,1725000 ,12-06-1996,Alm. Salg,167,10329,7,1969,
@@ -12827,23 +12704,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 223,Ejerlejlighed,"Mosevej 9B, 1",2970, Hørsholm,862358 ,01-08-1994,Alm. Salg,135,6388,5,1877,
 223,Rækkehus,Christianshusvej 7,2970, Hørsholm,1082513 ,31-07-1994,Alm. Salg,146,7414,4,1981,
 223,Ejerlejlighed,"Ellevej 14A, st",2970, Hørsholm,590406 ,31-07-1994,Alm. Salg,64,9225,2,1979,
-223,Ejerlejlighed,"Ved Møllen 5A, st",2970, Hørsholm,5320000 ,31-07-1994,Alm. Salg,67,79403,2,1806,
-223,Ejerlejlighed,"Ved Møllen 5A, 1",2970, Hørsholm,5320000 ,31-07-1994,Alm. Salg,93,57204,3,1806,
-223,Ejerlejlighed,"Ved Møllen 5A, 2",2970, Hørsholm,5320000 ,31-07-1994,Alm. Salg,76,70000,2,1806,
-223,Ejerlejlighed,"Ved Møllen 5B, st",2970, Hørsholm,5320000 ,31-07-1994,Alm. Salg,89,59775,2,1806,
-223,Ejerlejlighed,"Ved Møllen 5B, 1. th",2970, Hørsholm,5320000 ,31-07-1994,Alm. Salg,97,54845,4,1806,
-223,Ejerlejlighed,"Ved Møllen 5B, 1. tv",2970, Hørsholm,5320000 ,31-07-1994,Alm. Salg,95,56000,3,1806,
-223,Ejerlejlighed,"Ved Møllen 5B, 2. tv",2970, Hørsholm,5320000 ,31-07-1994,Alm. Salg,93,57204,3,1806,
-223,Ejerlejlighed,Ved Møllen 7A,2970, Hørsholm,5320000 ,31-07-1994,Alm. Salg,102,52157,3,1917,
-223,Ejerlejlighed,Ved Møllen 7C,2970, Hørsholm,5320000 ,31-07-1994,Alm. Salg,95,56000,3,1917,
-223,Ejerlejlighed,"Ved Møllen 5B, 2. th",2970, Hørsholm,5320000 ,31-07-1994,Alm. Salg,70,76000,2,1806,
-223,Ejerlejlighed,Ved Møllen 7D,2970, Hørsholm,5320000 ,31-07-1994,Alm. Salg,95,56000,3,1917,
-223,Ejerlejlighed,Ved Møllen 7B,2970, Hørsholm,5320000 ,31-07-1994,Alm. Salg,95,56000,3,1917,
-223,Ejerlejlighed,"Gl Hovedgade 9A, st. th",2970, Hørsholm,5320000 ,31-07-1994,Alm. Salg,76,70000,3,1806,
-223,Ejerlejlighed,Gl Hovedgade 9B,2970, Hørsholm,5320000 ,31-07-1994,Alm. Salg,107,49720,4,1806,
-223,Ejerlejlighed,"Gl Hovedgade 9A, 1",2970, Hørsholm,5320000 ,31-07-1994,Alm. Salg,103,51650,3,1806,
-223,Ejerlejlighed,"Gl Hovedgade 9A, st. tv",2970, Hørsholm,5320000 ,31-07-1994,Alm. Salg,74,71892,2,1806,
-223,Ejerlejlighed,Gl Hovedgade 9C,2970, Hørsholm,5320000 ,31-07-1994,Alm. Salg,105,50667,3,1806,
 223,Villa,Nebbegårds Alle 2,2970, Hørsholm,34263108 ,30-07-1994,Alm. Salg,306,97616,12,1907,
 223,Rækkehus,Ved Højmosen 21,2970, Hørsholm,1188000 ,27-07-1994,Alm. Salg,169,7030,5,1974,
 223,Rækkehus,Kirstineparken 29,2970, Hørsholm,1609000 ,27-07-1994,Alm. Salg,136,11831,5,1966,
@@ -13518,7 +13378,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 223,Ejerlejlighed,"Hørsholm Park 8, 4. th",2970, Hørsholm,931000 ,30-11-1992,Alm. Salg,113,8239,4,1969,
 223,Ejerlejlighed,"Mosevej 5A, st",2970, Hørsholm,726460 ,30-11-1992,Alm. Salg,84,8648,3,1877,
 223,Villa,Egtoftevej 11,2950, Vedbæk,13200000 ,30-11-1992,Alm. Salg,857,14194,21,1920,
-223,Villa,Svenstrupvej 3C,2970, Hørsholm,975000 ,30-11-1992,Alm. Salg,53,18396,2,1877,
 223,Rækkehus,Christianshusvej 101,2970, Hørsholm,590000 ,29-11-1992,Alm. Salg,91,6484,4,1983,
 223,Villa,Mejsevej 2,2970, Hørsholm,1221200 ,29-11-1992,Andet,151,8087,6,1970,
 223,Villa,Kildevej 19,2960, Rungsted Kyst,1310000 ,28-11-1992,Alm. Salg,178,7360,5,1937,
@@ -13693,7 +13552,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 223,Villa,Constantiaparken 3B,2960, Rungsted Kyst,1500000 ,17-06-1992,Alm. Salg,185,8108,4,1987,
 223,Villa,Gøgevang 54,2970, Hørsholm,327589 ,16-06-1992,Andet,180,1820,4,2010,
 223,Rækkehus,Boelsvang 33,2970, Hørsholm,940000 ,15-06-1992,Alm. Salg,135,6963,5,1982,
-223,Villa,Usserød Kongevej 12D,2970, Hørsholm,1722940 ,15-06-1992,Alm. Salg,75,22973,2,1918,
 223,Villa,Skovduevej 6,2970, Hørsholm,1242000 ,15-06-1992,Alm. Salg,194,6402,6,1972,
 223,Villa,Tjørnevej 25,2970, Hørsholm,967772 ,15-06-1992,Alm. Salg,134,7222,4,1961,
 223,Rækkehus,Sophienbergvej 35,2960, Rungsted Kyst,2275430 ,13-06-1992,Alm. Salg,200,11377,6,1978,

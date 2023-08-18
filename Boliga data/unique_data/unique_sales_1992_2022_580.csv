@@ -45,7 +45,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Sdr Landevej 4,6200, Aabenraa,475000 ,04-12-2022,Alm. Salg,140,3393,5,1923,
 580,Villa,Sønderhavvej 27,6340, Kruså,1600000 ,02-12-2022,Fam. Salg,85,18824,4,1954,
 580,Villa,Genner Bygade 14,6230, Rødekro,900000 ,01-12-2022,Alm. Salg,154,5844,4,1965,-5%
-580,Villa,Sønderborgvej 21A,6340, Kruså,800000 ,01-12-2022,Alm. Salg,166,4819,5,1913,-6%
 580,Villa,Lindholmvej 22,6330, Padborg,445000 ,01-12-2022,Fam. Salg,130,3423,5,1966,
 580,Villa,Nørrevang 14,6200, Aabenraa,1750000 ,30-11-2022,Alm. Salg,98,17857,4,1958,-5%
 580,Villa,Krathusevej 7,6330, Padborg,2596000 ,30-11-2022,Alm. Salg,178,14584,5,1979,
@@ -398,11 +397,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Haderslevvej 28,6200, Aabenraa,2875000 ,10-07-2022,Alm. Salg,216,13310,6,1875,1%
 580,Villa,Agerglimt 31,6340, Kruså,1395000 ,09-07-2022,Alm. Salg,125,11160,4,1982,
 580,Villa,Hejselvej 4,6372, Bylderup-Bov,337000 ,08-07-2022,Alm. Salg,146,2308,4,1925,-10%
-580,Ejerlejlighed,Vestergade 37,6200, Aabenraa,4325000 ,07-07-2022,Alm. Salg,135,32037,4,1965,
-580,Ejerlejlighed,"Nybro 10, 1. th",6200, Aabenraa,4325000 ,07-07-2022,Alm. Salg,98,44133,3,1880,
-580,Ejerlejlighed,"Nybro 10, 1. tv",6200, Aabenraa,4325000 ,07-07-2022,Alm. Salg,54,80093,2,1880,
-580,Ejerlejlighed,"Nybro 10, st. tv",6200, Aabenraa,4325000 ,07-07-2022,Alm. Salg,92,47011,2,1880,
-580,Ejerlejlighed,"Nybro 10, 2",6200, Aabenraa,4325000 ,07-07-2022,Alm. Salg,82,52744,5,1880,
 580,Villa,Løjt Nørregade 17,6200, Aabenraa,2630000 ,07-07-2022,Alm. Salg,190,13842,6,1927,-4%
 580,Villa,Lindbjerg 22,6200, Aabenraa,2900000 ,07-07-2022,Alm. Salg,166,17470,7,1960,-3%
 580,Villa,Skarrevvej 338,6200, Aabenraa,1500000 ,07-07-2022,Alm. Salg,190,7895,6,1979,
@@ -442,10 +436,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Sejersholt 12,6200, Aabenraa,2895000 ,25-06-2022,Alm. Salg,182,15907,6,1967,
 580,Villa,Toften 43,6330, Padborg,1000000 ,25-06-2022,Alm. Salg,117,8547,4,1983,-9%
 580,Villa,Rønholm 4,6230, Rødekro,1794898 ,24-06-2022,Alm. Salg,184,9755,6,1898,
-580,Ejerlejlighed,"Nybrovej 1, st",6230, Rødekro,2450000 ,23-06-2022,Alm. Salg,101,24257,3,1893,
-580,Ejerlejlighed,"Nybrovej 1, 1",6230, Rødekro,2450000 ,23-06-2022,Alm. Salg,90,27222,3,1893,
-580,Ejerlejlighed,"Østergade 5, st",6230, Rødekro,2450000 ,23-06-2022,Alm. Salg,78,31410,3,1893,
-580,Ejerlejlighed,"Østergade 5, 1",6230, Rødekro,2450000 ,23-06-2022,Alm. Salg,69,35507,2,1893,
 580,Villa,Fjordbakken 14,6340, Kruså,2256123 ,23-06-2022,Alm. Salg,151,14941,5,1988,0%
 580,Ejerlejlighed,"Hovedgaden 19, 1",6360, Tinglev,1000000 ,22-06-2022,Alm. Salg,210,4762,6,1912,
 580,Villa,Timianvænget 33,6360, Tinglev,850000 ,22-06-2022,Alm. Salg,109,7798,4,1985,
@@ -486,9 +476,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Assenholmvej 17,6200, Aabenraa,1795000 ,12-06-2022,Alm. Salg,129,13915,3,1880,
 580,Villa,Nørreagervej 46,6360, Tinglev,1070000 ,12-06-2022,Alm. Salg,158,6772,2,1962,-2%
 580,Villa,Midtløkke 24,6200, Aabenraa,674107 ,11-06-2022,Fam. Salg,183,3684,5,1991,
-580,Ejerlejlighed,Ramsherred 19A,6200, Aabenraa,1850000 ,09-06-2022,Alm. Salg,92,20109,2,1700,
-580,Ejerlejlighed,"Skrænten 6, st",6200, Aabenraa,1850000 ,09-06-2022,Alm. Salg,85,21765,3,1930,
-580,Ejerlejlighed,"Skrænten 6, 1",6200, Aabenraa,1850000 ,09-06-2022,Alm. Salg,85,21765,2,1930,
 580,Ejerlejlighed,"Kallemosen 3, st. tv",6200, Aabenraa,2695000 ,09-06-2022,Alm. Salg,124,21734,4,1984,
 580,Ejerlejlighed,"Kallemosen 3, 1. tv",6200, Aabenraa,2700000 ,09-06-2022,Alm. Salg,116,23276,4,1984,0%
 580,Villa,Ved Gruben 16,6340, Kruså,1000000 ,09-06-2022,Alm. Salg,126,7937,4,1965,-2%
@@ -596,7 +583,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Vestertoft 32,6230, Rødekro,1175000 ,05-05-2022,Alm. Salg,115,10217,4,1967,
 580,Villa,Kohagevej 4,6340, Kruså,1800000 ,05-05-2022,Alm. Salg,192,9375,5,1982,
 580,Villa,Højholt 8,6200, Aabenraa,2880000 ,05-05-2022,Alm. Salg,152,18947,6,1961,
-580,Villa,Hærvejen 57,6230, Rødekro,1225000 ,05-05-2022,Alm. Salg,60,20417,2,1914,
 580,Villa,Forstalle 113,6200, Aabenraa,2450000 ,05-05-2022,Alm. Salg,106,23113,4,2022,
 580,Villa,Forstalle 115,6200, Aabenraa,2395000 ,05-05-2022,Alm. Salg,106,22594,4,2022,
 580,Villa,Rødekrovej Vest 18,6200, Aabenraa,650000 ,04-05-2022,Alm. Salg,154,4221,4,1978,
@@ -659,13 +645,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Vestergade 4,6392, Bolderslev,2940000 ,13-04-2022,Alm. Salg,212,13868,4,1910,
 580,Villa,Jernbanegade 54,6330, Padborg,150000 ,13-04-2022,Alm. Salg,140,1071,7,1950,
 580,Rækkehus,Store Pottergade 11,6200, Aabenraa,850000 ,12-04-2022,Alm. Salg,95,8947,3,1744,-15%
-580,Ejerlejlighed,"Storegade 31, 2",6200, Aabenraa,19600000 ,12-04-2022,Alm. Salg,120,163333,3,1962,
-580,Ejerlejlighed,"Rådhusgade 4, 2",6200, Aabenraa,19600000 ,12-04-2022,Alm. Salg,126,155556,3,1962,
-580,Ejerlejlighed,"Storegade 31, 1. th",6200, Aabenraa,19600000 ,12-04-2022,Alm. Salg,115,170435,2,1962,
-580,Ejerlejlighed,"Rådhusgade 4, 1. mf",6200, Aabenraa,19600000 ,12-04-2022,Alm. Salg,65,301538,2,1962,
-580,Ejerlejlighed,"Rådhusgade 4, 1. tv",6200, Aabenraa,19600000 ,12-04-2022,Alm. Salg,122,160656,2,1962,
-580,Ejerlejlighed,"Storegade 31, 1. tv",6200, Aabenraa,19600000 ,12-04-2022,Alm. Salg,102,192157,2,1962,
-580,Ejerlejlighed,"Rådhusgade 4, 1. th",6200, Aabenraa,19600000 ,12-04-2022,Alm. Salg,115,170435,3,1962,
 580,Villa,Bakkegårdsvej 6,6340, Kruså,3787250 ,12-04-2022,Alm. Salg,207,18296,6,1994,
 580,Villa,Kolstrup 43,6200, Aabenraa,2035000 ,12-04-2022,Alm. Salg,170,11971,5,1957,-3%
 580,Villa,Jættevej 15,6200, Aabenraa,1500000 ,11-04-2022,Alm. Salg,152,9868,5,1964,-6%
@@ -883,7 +862,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Hanvedsgade 18,6330, Padborg,1950000 ,31-01-2022,Alm. Salg,145,13448,5,1979,-2%
 580,Villa,Stegholt 40,6200, Aabenraa,3300000 ,31-01-2022,Alm. Salg,156,21154,5,1985,-3%
 580,Villa,Engvej 1,6372, Bylderup-Bov,250000 ,31-01-2022,Alm. Salg,110,2273,5,1951,-24%
-580,Villa,Sønderport 55B,6200, Aabenraa,2875000 ,31-01-2022,Alm. Salg,84,34226,3,1952,
 580,Villa,Fladhøjparken 99,6230, Rødekro,540000 ,31-01-2022,Alm. Salg,186,2903,5,2023,
 580,Villa,Skovgårdsvej 12,6200, Aabenraa,2990000 ,31-01-2022,Alm. Salg,161,18571,6,2008,
 580,Villa,Varnæs Kirkevej 2,6200, Aabenraa,540000 ,30-01-2022,Alm. Salg,116,4655,3,1961,-6%
@@ -1305,7 +1283,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Klintetoften 1,6230, Rødekro,707334 ,09-09-2021,Alm. Salg,174,4065,5,2004,
 580,Villa,Gyden 6,6360, Tinglev,435000 ,09-09-2021,Alm. Salg,150,2900,7,1912,
 580,Villa,Burkal Kirkevej 38,6372, Bylderup-Bov,645000 ,08-09-2021,Alm. Salg,154,4188,6,1952,
-580,Villa,Uge Allegade 9,6360, Tinglev,1250000 ,08-09-2021,Andet,184,6793,6,1952,
 580,Villa,Fuglevænget 6,6230, Rødekro,812500 ,08-09-2021,Fam. Salg,154,5276,5,1969,
 580,Villa,Ådalen 9,6200, Aabenraa,935000 ,08-09-2021,Alm. Salg,133,7030,3,1968,-1%
 580,Villa,Ribevej 16,6230, Rødekro,60000 ,08-09-2021,Andet,285,211,8,2021,
@@ -1528,12 +1505,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Højtoften 8,6200, Aabenraa,1300000 ,23-06-2021,Alm. Salg,207,6280,5,1981,
 580,Villa,Løkkegårdsvej 153,6230, Rødekro,640000 ,23-06-2021,Alm. Salg,165,3879,5,1976,
 580,Villa,Grønningen 54,6230, Rødekro,1196000 ,23-06-2021,Alm. Salg,126,9492,4,1971,0%
-580,Ejerlejlighed,"Callesensgade 32, st. th",6200, Aabenraa,3200000 ,22-06-2021,Alm. Salg,31,103226,1,1900,
-580,Ejerlejlighed,"Callesensgade 32, st. tv",6200, Aabenraa,3200000 ,22-06-2021,Alm. Salg,36,88889,2,1900,
-580,Ejerlejlighed,"Callesensgade 34, st",6200, Aabenraa,3200000 ,22-06-2021,Alm. Salg,117,27350,4,1900,
-580,Ejerlejlighed,"Callesensgade 34, 1",6200, Aabenraa,3200000 ,22-06-2021,Alm. Salg,152,21053,6,1900,
-580,Ejerlejlighed,"Callesensgade 34, 2",6200, Aabenraa,3200000 ,22-06-2021,Alm. Salg,152,21053,6,1900,
-580,Ejerlejlighed,Forstalle 8,6200, Aabenraa,3200000 ,22-06-2021,Alm. Salg,88,36364,2,1900,
 580,Villa,Realskolevej 3,6360, Tinglev,925000 ,22-06-2021,Alm. Salg,166,5572,5,1929,
 580,Villa,Sønderskovvej 107,6200, Aabenraa,549000 ,22-06-2021,Alm. Salg,192,2859,5,2023,
 580,Ejerlejlighed,"Lavgade 19A, st",6200, Aabenraa,850000 ,21-06-2021,Alm. Salg,117,7265,3,1900,
@@ -1569,10 +1540,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Kempesteens Vej 14,6330, Padborg,223904 ,14-06-2021,Alm. Salg,167,1341,4,2022,
 580,Villa,Møllehøj 19,6230, Rødekro,341395 ,14-06-2021,Alm. Salg,167,2044,5,2022,
 580,Rækkehus,Løkkegårdsvej 11U,6230, Rødekro,960000 ,13-06-2021,Alm. Salg,91,10549,4,1989,-2%
-580,Ejerlejlighed,"Nørregade 44, 1",6330, Padborg,510000 ,13-06-2021,Alm. Salg,78,6538,2,1920,-18%
 580,Villa,Høgelsbjerg 13,6200, Aabenraa,2325000 ,13-06-2021,Alm. Salg,196,11862,6,1982,-2%
 580,Villa,Åløkke 42,6372, Bylderup-Bov,660000 ,13-06-2021,Alm. Salg,135,4889,4,1977,-9%
-580,Villa,Nørregade 44,6330, Padborg,510000 ,13-06-2021,Alm. Salg,156,3269,4,1920,-18%
 580,Villa,Langhus 9,6200, Aabenraa,4900000 ,13-06-2021,Alm. Salg,231,21212,7,2016,-2%
 580,Villa,Vikingvej 20,6330, Padborg,900000 ,11-06-2021,Alm. Salg,195,4615,5,1972,-5%
 580,Villa,Fyrreparken 10,6230, Rødekro,1410000 ,10-06-2021,Alm. Salg,117,12051,4,1988,-1%
@@ -1833,7 +1802,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Hærvejen 90,6230, Rødekro,2598000 ,08-04-2021,Alm. Salg,216,12028,5,1900,
 580,Villa,Havretoften 25,6200, Aabenraa,1558000 ,08-04-2021,Alm. Salg,151,10318,5,1978,
 580,Villa,Sejsbjerg 28,6200, Aabenraa,957779 ,08-04-2021,Alm. Salg,199,4813,6,2007,
-580,Villa,Styrtom Bygade 4C,6200, Aabenraa,1700000 ,07-04-2021,Alm. Salg,120,14167,3,1880,
 580,Villa,Hellevadvej 54,6230, Rødekro,600000 ,07-04-2021,Alm. Salg,163,3681,5,1973,
 580,Villa,Gadedam 4,6200, Aabenraa,1075000 ,07-04-2021,Andet,195,5513,5,1870,-10%
 580,Villa,Provstetoften 4,6200, Aabenraa,2350000 ,07-04-2021,Alm. Salg,205,11463,6,1972,-5%
@@ -1937,7 +1905,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Ejerlejlighed,"Møllegården 11, 1. tv",6340, Kruså,595000 ,09-03-2021,Alm. Salg,96,6198,3,1900,
 580,Villa,Genner Bygade 35,6230, Rødekro,312000 ,09-03-2021,Fam. Salg,150,2080,5,1877,
 580,Villa,Løkkegårdsvej 67,6230, Rødekro,599300 ,09-03-2021,Alm. Salg,165,3632,6,1975,
-580,Villa,Gildegade 5E,6200, Aabenraa,5500000 ,08-03-2021,Alm. Salg,84,65476,3,1925,
 580,Villa,Skolevej 36,6340, Kruså,1075000 ,08-03-2021,Alm. Salg,135,7963,4,1965,
 580,Villa,Plantevænget 43,6230, Rødekro,3335000 ,08-03-2021,Alm. Salg,178,18736,5,2018,
 580,Villa,Flinteløkken 17,6200, Aabenraa,1600000 ,07-03-2021,Fam. Salg,126,12698,4,1964,
@@ -2109,7 +2076,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Farverhus 172,6200, Aabenraa,3137500 ,21-01-2021,Alm. Salg,230,13641,6,1974,-4%
 580,Villa,Fjordvej 74,6200, Aabenraa,1400000 ,21-01-2021,Fam. Salg,187,7487,6,2002,
 580,Villa,Nørreskovparken 69,6200, Aabenraa,1425000 ,21-01-2021,Alm. Salg,114,12500,4,1984,
-580,Rækkehus,Kolstrup 39A,6200, Aabenraa,1200000 ,20-01-2021,Alm. Salg,56,21429,2,1988,
 580,Villa,Nygade 66,6330, Padborg,845000 ,20-01-2021,Alm. Salg,107,7897,4,1988,-6%
 580,Villa,Bredevadvej 38,6372, Bylderup-Bov,995000 ,20-01-2021,Alm. Salg,167,5958,11,1928,
 580,Villa,Hjarupvej 15,6200, Aabenraa,3100000 ,20-01-2021,Alm. Salg,179,17318,5,1964,-3%
@@ -2121,20 +2087,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Felsted Nygade 19,6200, Aabenraa,825000 ,17-01-2021,Alm. Salg,180,4583,8,1977,-8%
 580,Villa,Karpedam 21,6200, Aabenraa,3345000 ,17-01-2021,Alm. Salg,197,16980,6,1912,
 580,Villa,Langhus 24,6200, Aabenraa,571000 ,17-01-2021,Alm. Salg,165,3461,5,2022,
-580,Ejerlejlighed,"Nørretorv 3D, st. tv",6200, Aabenraa,7000000 ,14-01-2021,Alm. Salg,97,72165,3,1950,
-580,Ejerlejlighed,"Skolevej 21, st",6200, Aabenraa,7000000 ,14-01-2021,Alm. Salg,102,68627,3,1907,
-580,Ejerlejlighed,"Nørretorv 3D, 1. 4",6200, Aabenraa,7000000 ,14-01-2021,Alm. Salg,141,49645,4,1907,
-580,Ejerlejlighed,"Nørretorv 3D, 1. 1",6200, Aabenraa,7000000 ,14-01-2021,Alm. Salg,137,51095,4,1950,
-580,Ejerlejlighed,Nørretorv 3C,6200, Aabenraa,7000000 ,14-01-2021,Alm. Salg,81,86420,3,1950,
-580,Ejerlejlighed,"Nørretorv 3D, st. mf",6200, Aabenraa,7000000 ,14-01-2021,Alm. Salg,113,61947,3,1950,
-580,Ejerlejlighed,"Nørretorv 3D, st. th",6200, Aabenraa,7000000 ,14-01-2021,Alm. Salg,63,111111,2,1953,
-580,Ejerlejlighed,"Nørretorv 3A, 1. th",6200, Aabenraa,7000000 ,14-01-2021,Alm. Salg,122,57377,3,1950,
-580,Ejerlejlighed,"Nørretorv 3A, 1. tv",6200, Aabenraa,7000000 ,14-01-2021,Alm. Salg,121,57851,3,1950,
-580,Ejerlejlighed,"Nørretorv 3D, 1. 2",6200, Aabenraa,7000000 ,14-01-2021,Alm. Salg,95,73684,3,1950,
-580,Ejerlejlighed,"Nørretorv 3D, 1. 3",6200, Aabenraa,7000000 ,14-01-2021,Alm. Salg,92,73684,3,1950,
-580,Ejerlejlighed,"Skolevej 21, 1",6200, Aabenraa,7000000 ,14-01-2021,Alm. Salg,131,53435,4,1907,
-580,Ejerlejlighed,Skolevej 23,6200, Aabenraa,7000000 ,14-01-2021,Alm. Salg,99,70707,3,1953,
-580,Ejerlejlighed,Nørretorv 3B,6200, Aabenraa,7000000 ,14-01-2021,Alm. Salg,70,100000,3,1950,
 580,Villa,Dyrhave 56,6200, Aabenraa,3250000 ,14-01-2021,Alm. Salg,209,15550,5,1970,-1%
 580,Villa,Kromai 29,6200, Aabenraa,773500 ,14-01-2021,Alm. Salg,132,5860,5,1976,
 580,Villa,Drosselvej 4A,6230, Rødekro,398020 ,14-01-2021,Fam. Salg,134,2970,5,1988,
@@ -2145,7 +2097,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Langhus 28,6200, Aabenraa,575101 ,14-01-2021,Alm. Salg,175,3286,5,2021,
 580,Villa,Langhus 22,6200, Aabenraa,550000 ,14-01-2021,Alm. Salg,167,3293,6,2021,
 580,Rækkehus,Uglekær 114B,6200, Aabenraa,1095000 ,13-01-2021,Alm. Salg,109,10046,3,1979,
-580,Villa,Hovedgaden 18A,6360, Tinglev,250000 ,13-01-2021,Alm. Salg,147,906,7,1930,
 580,Villa,Kådnergade 3,6230, Rødekro,2450000 ,13-01-2021,Alm. Salg,222,11036,7,1827,
 580,Villa,Brystrupvej 11,6230, Rødekro,1350000 ,13-01-2021,Alm. Salg,286,4720,7,1870,
 580,Ejerlejlighed,"Kallemosen 1, 1. tv",6200, Aabenraa,1700000 ,12-01-2021,Alm. Salg,91,18681,3,1984,
@@ -2173,7 +2124,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Frueløkke 169,6200, Aabenraa,1535000 ,05-01-2021,Alm. Salg,140,10964,5,1986,-3%
 580,Villa,Nørballe 6,6200, Aabenraa,10175000 ,04-01-2021,Alm. Salg,239,42573,6,1877,
 580,Villa,Varnæs Søndergade 5,6200, Aabenraa,750000 ,03-01-2021,Fam. Salg,161,4658,6,1898,
-580,Villa,"Kliplev Nygade 7, st. th",6200, Aabenraa,1559733 ,30-12-2020,Alm. Salg,150,10398,5,1956,
 580,Ejerlejlighed,"Flensborgvej 30, st. th",6200, Aabenraa,3255000 ,29-12-2020,Alm. Salg,142,22923,4,1972,
 580,Villa,Nr Hostrupvej 61,6230, Rødekro,1470000 ,29-12-2020,Alm. Salg,264,5568,7,1906,-8%
 580,Villa,Kirkebakken 17,6200, Aabenraa,1125000 ,29-12-2020,Alm. Salg,145,7759,5,1935,-6%
@@ -2315,7 +2265,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Hærvejen 86,6230, Rødekro,250000 ,15-11-2020,Alm. Salg,75,3333,4,1902,-15%
 580,Villa,Varnæsvej 85,6200, Aabenraa,725000 ,15-11-2020,Alm. Salg,232,3125,4,0,
 580,Villa,Åglimt 3,6372, Bylderup-Bov,277500 ,14-11-2020,Auktion,110,2523,5,1963,
-580,Villa,Slotsgade 19B,6200, Aabenraa,1480000 ,14-11-2020,Alm. Salg,149,9933,6,1897,
 580,Villa,Vibevej 9,6340, Kruså,1020000 ,13-11-2020,Fam. Salg,189,5397,5,1972,
 580,Villa,Stadevej 13,6360, Tinglev,400000 ,12-11-2020,Alm. Salg,157,2548,6,1966,
 580,Villa,Rønholm 2,6230, Rødekro,580000 ,12-11-2020,Alm. Salg,158,3671,6,1924,-17%
@@ -2370,7 +2319,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Flensborgvej 312,6200, Aabenraa,125000 ,25-10-2020,Alm. Salg,101,1238,3,1878,
 580,Villa,Almstrupvej 28,6360, Tinglev,950000 ,25-10-2020,Alm. Salg,157,6051,5,1981,-3%
 580,Villa,Langløkke 4,6200, Aabenraa,2275000 ,25-10-2020,Alm. Salg,215,10581,5,1959,-5%
-580,Villa,Sønderport 55B,6200, Aabenraa,2700000 ,24-10-2020,Alm. Salg,84,32143,3,1952,
 580,Villa,Burkal Kirkevej 50,6372, Bylderup-Bov,1200000 ,22-10-2020,Alm. Salg,410,2927,11,1840,-11%
 580,Villa,Langhus 4,6200, Aabenraa,485000 ,22-10-2020,Alm. Salg,187,2594,5,2022,
 580,Villa,Østergade 8,6330, Padborg,390000 ,21-10-2020,Alm. Salg,162,2407,5,1951,-13%
@@ -2539,7 +2487,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Stollig Bygade 29,6200, Aabenraa,430000 ,17-08-2020,Alm. Salg,192,2240,5,2023,
 580,Rækkehus,Kirkevej 47,6360, Tinglev,495000 ,16-08-2020,Alm. Salg,85,5824,4,1980,
 580,Villa,Jættevej 27,6200, Aabenraa,1295000 ,16-08-2020,Alm. Salg,132,9811,5,1966,
-580,Villa,Nygade 38B,6200, Aabenraa,2650000 ,16-08-2020,Alm. Salg,110,24091,4,1902,
 580,Villa,Nørskov 3,6200, Aabenraa,300000 ,16-08-2020,Alm. Salg,220,1364,6,1877,
 580,Villa,Fjordløkke 30,6200, Aabenraa,2600000 ,16-08-2020,Alm. Salg,136,19118,5,1998,-5%
 580,Villa,Midtkobbel 89,6340, Kruså,298790 ,16-08-2020,Alm. Salg,182,1642,5,2021,
@@ -2784,7 +2731,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Møllepold 28,6200, Aabenraa,1312500 ,11-05-2020,Alm. Salg,142,9243,4,1963,-8%
 580,Villa,Sønderborgvej 111,6200, Aabenraa,2300000 ,11-05-2020,Alm. Salg,207,11111,6,1995,-4%
 580,Villa,Fennvej 4,6200, Aabenraa,670000 ,11-05-2020,Alm. Salg,159,4214,4,1827,-4%
-580,Villa,Vestergade 7A,6330, Padborg,35000 ,10-05-2020,Alm. Salg,323,108,4,1819,
 580,Villa,Bajstrup Nyvej 17,6360, Tinglev,345000 ,10-05-2020,Alm. Salg,117,2949,4,1979,-22%
 580,Rækkehus,Teglholt 8,6200, Aabenraa,1640000 ,06-05-2020,Alm. Salg,101,16238,4,1966,
 580,Ejerlejlighed,Ramsherred 12B,6200, Aabenraa,900000 ,06-05-2020,Alm. Salg,96,9375,4,1900,
@@ -2890,9 +2836,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Lindbjerg 16,6200, Aabenraa,1460000 ,24-03-2020,Alm. Salg,166,8795,8,1959,-8%
 580,Villa,Gammel Flensborgvej 20,6200, Aabenraa,3137500 ,24-03-2020,Alm. Salg,194,16173,7,1940,-5%
 580,Villa,Tøndervej 237B,6200, Aabenraa,435000 ,24-03-2020,Alm. Salg,197,2208,5,2021,
-580,Ejerlejlighed,Flensborgvej 48A,6200, Aabenraa,30000000 ,23-03-2020,Alm. Salg,96,312500,4,1968,
 580,Villa,Frøslevvej 30,6330, Padborg,975000 ,23-03-2020,Alm. Salg,91,10714,4,1955,
-580,Villa,Stegholt 53,6200, Aabenraa,30000000 ,23-03-2020,Alm. Salg,219,136986,7,1986,
 580,Villa,Klosterkløften 36,6340, Kruså,150000 ,22-03-2020,Alm. Salg,108,1389,4,1961,
 580,Villa,Runesvinget 27,6330, Padborg,775000 ,22-03-2020,Alm. Salg,151,5132,6,1968,-13%
 580,Villa,Fasanvej 11,6340, Kruså,1975000 ,22-03-2020,Alm. Salg,218,9060,7,1976,-1%
@@ -2905,11 +2849,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Barsmark Bygade 118,6200, Aabenraa,1225000 ,19-03-2020,Alm. Salg,123,9959,3,1827,-9%
 580,Villa,Stegholt 54,6200, Aabenraa,700000 ,18-03-2020,Alm. Salg,129,5426,4,1949,-6%
 580,Villa,Farverhus 118,6200, Aabenraa,2450000 ,18-03-2020,Alm. Salg,202,12129,5,1971,
-580,Rækkehus,Nørreskovparken 1C,6200, Aabenraa,1100000 ,17-03-2020,Alm. Salg,136,8088,6,1982,
 580,Villa,Grønningen 67,6230, Rødekro,1735000 ,17-03-2020,Alm. Salg,196,8852,7,1970,-4%
 580,Villa,Møllevej 2B,6340, Kruså,620000 ,17-03-2020,Alm. Salg,144,4306,5,1955,
 580,Villa,Kandrupvej 6,6200, Aabenraa,300000 ,17-03-2020,Alm. Salg,174,1724,6,2022,
-580,Villa,Hvilehøjvej 7,6200, Aabenraa,1100000 ,17-03-2020,Alm. Salg,188,5851,5,2022,-8%
 580,Ejerlejlighed,"Møllegården 17, st. tv",6340, Kruså,730000 ,16-03-2020,Alm. Salg,103,7087,3,1900,
 580,Ejerlejlighed,"Kildespringet 6, st. th",6200, Aabenraa,2090000 ,16-03-2020,Alm. Salg,109,19174,3,2009,-5%
 580,Villa,Nygade 40,6330, Padborg,880000 ,16-03-2020,Fam. Salg,171,5146,6,1922,
@@ -3018,7 +2960,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Ringgade 27,6330, Padborg,650000 ,30-01-2020,Alm. Salg,119,5462,4,1952,-4%
 580,Villa,Nørrevang 12,6230, Rødekro,600000 ,30-01-2020,Alm. Salg,181,3315,5,1973,
 580,Villa,Sandager 16,6230, Rødekro,840000 ,30-01-2020,Alm. Salg,152,5526,5,1980,-6%
-580,Villa,Vestergade 7A,6330, Padborg,1345000 ,29-01-2020,Alm. Salg,323,4164,4,1819,
 580,Villa,Hovedgaden 63,6230, Rødekro,663521 ,29-01-2020,Alm. Salg,243,2731,4,1957,
 580,Villa,Klovtoftvej 15,6230, Rødekro,175000 ,29-01-2020,Alm. Salg,126,1389,3,1924,-41%
 580,Villa,Grydehøjvej 16,6330, Padborg,850000 ,29-01-2020,Alm. Salg,120,7083,4,1987,-5%
@@ -3052,7 +2993,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Persillevænget 15,6360, Tinglev,800000 ,15-01-2020,Alm. Salg,156,5128,5,2007,
 580,Villa,Fladhøjparken 7,6230, Rødekro,643146 ,15-01-2020,Alm. Salg,160,4020,5,2021,
 580,Villa,Muskatvænget 31,6360, Tinglev,965000 ,14-01-2020,Alm. Salg,110,8773,4,1979,-3%
-580,Villa,Uge Allegade 9,6360, Tinglev,251212 ,13-01-2020,Alm. Salg,184,1365,6,1952,
 580,Villa,Damgade 6,6200, Aabenraa,770000 ,13-01-2020,Alm. Salg,150,5133,4,1877,-3%
 580,Villa,Hærvejen 53,6330, Padborg,1275000 ,13-01-2020,Alm. Salg,161,7919,5,1981,
 580,Villa,Rise Bygade 16,6230, Rødekro,1900000 ,13-01-2020,Alm. Salg,226,8407,5,1952,-4%
@@ -3149,9 +3089,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Ejerlejlighed,"Flensborgvej 30, 1. th",6200, Aabenraa,3015000 ,24-11-2019,Alm. Salg,128,23555,4,1972,6%
 580,Villa,Molevej 5G,6340, Kruså,3700000 ,24-11-2019,Alm. Salg,258,14341,4,0,-7%
 580,Villa,Gammel Tinglevvej 6,6200, Aabenraa,550000 ,24-11-2019,Alm. Salg,140,3929,5,1935,-8%
-580,Ejerlejlighed,Banegaardspladsen 1,6230, Rødekro,2400000 ,21-11-2019,Andet,101,23762,3,1964,
-580,Ejerlejlighed,"Hærvejen 32B, 1",6230, Rødekro,2400000 ,21-11-2019,Andet,100,24000,3,1920,
-580,Ejerlejlighed,"Hærvejen 32C, 1",6230, Rødekro,2400000 ,21-11-2019,Andet,118,20339,3,1920,
 580,Villa,Kiskelundmarkvej 10,6330, Padborg,935000 ,21-11-2019,Alm. Salg,297,3148,7,1880,
 580,Villa,Store Pottergade 3,6200, Aabenraa,800000 ,21-11-2019,Alm. Salg,104,7692,5,1850,-20%
 580,Villa,Banegaardspladsen 3,6230, Rødekro,860000 ,21-11-2019,Andet,195,4410,6,1969,
@@ -3297,7 +3234,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Brunde Kirkevej 20,6230, Rødekro,502886 ,18-09-2019,Alm. Salg,161,3124,5,1972,
 580,Villa,Egeparken 29,6230, Rødekro,1535000 ,18-09-2019,Alm. Salg,148,10372,5,1982,-4%
 580,Villa,Vænget 27,6360, Tinglev,800000 ,18-09-2019,Fam. Salg,185,4324,6,1924,
-580,Villa,Vestergade 17B,6200, Aabenraa,1000000 ,17-09-2019,Alm. Salg,46,21739,2,1986,
 580,Villa,Lindbjergparken 68,6200, Aabenraa,2585000 ,17-09-2019,Alm. Salg,143,18077,4,1984,
 580,Villa,Rugmarken 29,6230, Rødekro,1880000 ,17-09-2019,Alm. Salg,187,10053,5,1979,-6%
 580,Villa,Hovedgaden 51,6360, Tinglev,229000 ,17-09-2019,Alm. Salg,143,1601,5,1939,-22%
@@ -3334,16 +3270,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Bakkegårdsvej 51,6340, Kruså,2450000 ,08-09-2019,Alm. Salg,195,12564,5,2008,-6%
 580,Villa,Gildegade 14,6200, Aabenraa,850000 ,07-09-2019,Alm. Salg,169,5030,7,1983,-9%
 580,Villa,Hjordkærvej 18,6392, Bolderslev,475000 ,06-09-2019,Alm. Salg,260,1827,7,1900,
-580,Ejerlejlighed,"Store Pottergade 2A, st. tv",6200, Aabenraa,7250000 ,05-09-2019,Alm. Salg,68,106618,3,1700,
-580,Ejerlejlighed,"Store Pottergade 2C, 1. tv",6200, Aabenraa,7250000 ,05-09-2019,Alm. Salg,115,63043,4,1700,
-580,Ejerlejlighed,Store Pottergade 2D,6200, Aabenraa,7250000 ,05-09-2019,Alm. Salg,87,83333,1,1700,
-580,Ejerlejlighed,"Store Pottergade 2A, 1. tv",6200, Aabenraa,7250000 ,05-09-2019,Alm. Salg,66,109848,2,1700,
-580,Ejerlejlighed,"Store Pottergade 2A, 1. th",6200, Aabenraa,7250000 ,05-09-2019,Alm. Salg,62,116935,3,1700,
-580,Ejerlejlighed,"Store Pottergade 2C, 1. th",6200, Aabenraa,7250000 ,05-09-2019,Alm. Salg,109,66514,4,1700,
-580,Ejerlejlighed,Store Pottergade 2B,6200, Aabenraa,7250000 ,05-09-2019,Alm. Salg,86,84302,3,1700,
-580,Ejerlejlighed,"Store Pottergade 2A, st. th",6200, Aabenraa,7250000 ,05-09-2019,Alm. Salg,53,136792,3,1700,
-580,Ejerlejlighed,"Ramsherred 44D, 1. tv",6200, Aabenraa,7250000 ,05-09-2019,Alm. Salg,161,45031,5,1700,
-580,Ejerlejlighed,"Ramsherred 44D, 1. th",6200, Aabenraa,7250000 ,05-09-2019,Alm. Salg,113,64159,3,1700,
 580,Villa,Klostervang 16,6200, Aabenraa,1700000 ,05-09-2019,Alm. Salg,187,9091,7,1975,-3%
 580,Villa,Idrætsvej 6,6230, Rødekro,460000 ,05-09-2019,Alm. Salg,128,3594,5,1962,-7%
 580,Villa,Hellevadvej 78,6230, Rødekro,400000 ,05-09-2019,Alm. Salg,99,4040,2,1807,
@@ -3594,7 +3520,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Løjt Nørregade 10,6200, Aabenraa,850000 ,22-05-2019,Alm. Salg,152,5592,4,1820,
 580,Villa,Nygade 32,6330, Padborg,463000 ,22-05-2019,Alm. Salg,144,3215,4,1924,-6%
 580,Villa,Kallemosen 27B,6200, Aabenraa,2775000 ,22-05-2019,Alm. Salg,144,19271,5,2006,
-580,Villa,Haderslevvej 19D,6200, Aabenraa,2700000 ,22-05-2019,Alm. Salg,112,24107,4,1940,
 580,Villa,Lærkeparken 20,6230, Rødekro,1942000 ,21-05-2019,Alm. Salg,145,13393,5,2006,-5%
 580,Villa,Mosevænget 2,6230, Rødekro,998000 ,21-05-2019,Alm. Salg,132,7561,4,1973,
 580,Villa,Bakkegårdsvej 13,6340, Kruså,3600000 ,21-05-2019,Alm. Salg,203,17734,6,2016,
@@ -3769,7 +3694,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Ejerlejlighed,"Ramsherred 45C, 1",6200, Aabenraa,1200000 ,14-03-2019,Alm. Salg,151,7947,5,1827,-7%
 580,Villa,Grænsevejen 98,6360, Tinglev,3100000 ,14-03-2019,Alm. Salg,172,18023,2,1876,
 580,Villa,Urnehovedvej 106,6392, Bolderslev,400000 ,14-03-2019,Fam. Salg,127,3150,5,1998,
-580,Villa,Løjt Storegade 38D,6200, Aabenraa,2000000 ,14-03-2019,Alm. Salg,93,21505,3,1983,
 580,Villa,Lergård 20,6200, Aabenraa,3145000 ,14-03-2019,Alm. Salg,198,15884,6,2006,
 580,Villa,Midtløkke 48,6200, Aabenraa,1525000 ,13-03-2019,Alm. Salg,159,9591,5,2000,-7%
 580,Ejerlejlighed,"Nørreport 10, 1",6200, Aabenraa,1675000 ,12-03-2019,Alm. Salg,132,12689,3,1911,
@@ -3877,9 +3801,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Hydevadvej 36,6230, Rødekro,230000 ,22-01-2019,Alm. Salg,76,3026,3,1964,-16%
 580,Villa,Farversmøllevej 52,6200, Aabenraa,550000 ,22-01-2019,Fam. Salg,114,4825,5,1955,
 580,Villa,Tøndervej 15,6230, Rødekro,1225000 ,22-01-2019,Alm. Salg,200,6125,6,1912,-5%
-580,Ejerlejlighed,Ramsherred 19A,6200, Aabenraa,1875000 ,21-01-2019,Alm. Salg,92,20380,2,1700,
-580,Ejerlejlighed,"Skrænten 6, st",6200, Aabenraa,1875000 ,21-01-2019,Alm. Salg,85,22059,3,1930,
-580,Ejerlejlighed,"Skrænten 6, 1",6200, Aabenraa,1875000 ,21-01-2019,Alm. Salg,85,22059,2,1930,
 580,Villa,Nørremarken 18,6360, Tinglev,667500 ,21-01-2019,Alm. Salg,103,6481,4,1964,-4%
 580,Villa,Toften 15,6230, Rødekro,725000 ,21-01-2019,Alm. Salg,134,5410,5,1970,-12%
 580,Villa,Pebersmarkvej 14,6372, Bylderup-Bov,600000 ,21-01-2019,Alm. Salg,161,3727,4,1978,
@@ -3889,7 +3810,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Midtløkke 16,6200, Aabenraa,1175000 ,17-01-2019,Alm. Salg,138,8514,5,1987,-8%
 580,Villa,Trehøjevej 4,6230, Rødekro,275000 ,17-01-2019,Alm. Salg,170,1618,5,2020,
 580,Villa,Fornbyvej 28,6330, Padborg,1025000 ,17-01-2019,Alm. Salg,176,5824,5,1969,3%
-580,Villa,Wais 28,6200, Aabenraa,800000 ,17-01-2019,Alm. Salg,135,5926,4,1969,-9%
 580,Villa,Pebersmarkvej 20,6372, Bylderup-Bov,20000 ,16-01-2019,Auktion,134,149,4,1929,
 580,Villa,Hasselhaven 20,6330, Padborg,1075000 ,16-01-2019,Alm. Salg,119,9034,3,1973,-2%
 580,Villa,Egeparken 31,6230, Rødekro,1745000 ,16-01-2019,Alm. Salg,152,11480,6,1980,-3%
@@ -3933,9 +3853,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Sønderhavvej 24,6340, Kruså,3960000 ,19-12-2018,Alm. Salg,217,18249,5,1907,-1%
 580,Villa,Kalvehaven 16,6330, Padborg,1300000 ,19-12-2018,Alm. Salg,208,6250,5,1974,-5%
 580,Villa,Buen 7,6340, Kruså,1015000 ,19-12-2018,Alm. Salg,172,5901,5,1966,-7%
-580,Ejerlejlighed,"Hærvejen 3B, 1",6330, Padborg,350000 ,18-12-2018,Alm. Salg,125,2800,5,1900,-50%
 580,Villa,Kragsmosevej 1,6230, Rødekro,300000 ,18-12-2018,Fam. Salg,147,2041,4,1866,
-580,Villa,Hærvejen 3A,6330, Padborg,350000 ,18-12-2018,Alm. Salg,110,3182,3,1860,-50%
 580,Villa,Varnæsvej 123,6200, Aabenraa,450000 ,18-12-2018,Alm. Salg,119,3782,4,1937,
 580,Villa,Fiskergade 6,6200, Aabenraa,350000 ,18-12-2018,Alm. Salg,89,3933,3,1850,-11%
 580,Villa,Kirkegade 52,6230, Rødekro,1335000 ,18-12-2018,Alm. Salg,177,7542,3,1952,-8%
@@ -3977,7 +3895,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Funkevej 6,6230, Rødekro,803550 ,02-12-2018,Fam. Salg,116,6927,3,1920,
 580,Ejerlejlighed,"Kallemosen 1, 1. th",6200, Aabenraa,2150000 ,01-12-2018,Alm. Salg,116,18534,2,1984,
 580,Villa,Skovbakken 25,6200, Aabenraa,3000000 ,30-11-2018,Alm. Salg,177,16949,5,1999,-9%
-580,Villa,Vestergade 7A,6330, Padborg,148169 ,29-11-2018,Alm. Salg,323,459,4,1819,-93%
 580,Villa,Vognmarken 15,6200, Aabenraa,925000 ,29-11-2018,Alm. Salg,99,9343,3,1954,
 580,Villa,Mosevej 14,6340, Kruså,335000 ,29-11-2018,Alm. Salg,106,3160,4,1850,-4%
 580,Villa,Uge Tværgade 6,6360, Tinglev,575000 ,29-11-2018,Alm. Salg,160,3594,4,1965,-11%
@@ -4192,11 +4109,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Broderup Byvej 8,6360, Tinglev,295000 ,28-08-2018,Alm. Salg,124,2379,3,1925,
 580,Villa,Sønderborgvej 39,6340, Kruså,165000 ,27-08-2018,Alm. Salg,74,2230,3,1877,
 580,Villa,Sejsbjerg 24,6200, Aabenraa,1877500 ,27-08-2018,Alm. Salg,160,11734,5,2000,-1%
-580,Ejerlejlighed,"Vinkelvej 2, 1. tv",6230, Rødekro,1100000 ,26-08-2018,Auktion,110,10000,3,1900,
-580,Ejerlejlighed,"Vinkelvej 2, 1",6230, Rødekro,1100000 ,26-08-2018,Auktion,113,9735,3,1900,
-580,Ejerlejlighed,"Vinkelvej 2, st. tv",6230, Rødekro,1100000 ,26-08-2018,Auktion,134,8209,3,1900,
-580,Ejerlejlighed,"Vinkelvej 2, st. th",6230, Rødekro,1100000 ,26-08-2018,Auktion,111,9910,3,1900,
-580,Ejerlejlighed,Vestergade 13,6230, Rødekro,1100000 ,26-08-2018,Auktion,113,9735,3,1900,
 580,Villa,Simondysvej 15,6330, Padborg,521500 ,26-08-2018,Alm. Salg,201,2595,6,1854,
 580,Villa,Ringvej 17,6200, Aabenraa,250000 ,26-08-2018,Fam. Salg,153,1634,6,1965,
 580,Villa,Bøgelhusvej 6,6360, Tinglev,475000 ,26-08-2018,Alm. Salg,126,3770,5,1963,
@@ -4281,8 +4193,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Ejerlejlighed,"Bryggervænget 8, 1. 10",6200, Aabenraa,575000 ,07-07-2018,Alm. Salg,67,8582,2,1969,
 580,Villa,Fjordvejen 90,6340, Kruså,1402500 ,07-07-2018,Fam. Salg,158,8877,7,1890,
 580,Rækkehus,Frueløkke 44,6200, Aabenraa,930000 ,05-07-2018,Alm. Salg,87,10690,4,1980,-15%
-580,Ejerlejlighed,"Frydendal 11G, 5. 71",6200, Aabenraa,650000 ,05-07-2018,Alm. Salg,74,8784,2,1974,
-580,Villa,Løgumklostervej 154,6200, Aabenraa,650000 ,05-07-2018,Alm. Salg,89,7303,4,1954,-13%
 580,Villa,Surreroj 17,6372, Bylderup-Bov,775000 ,05-07-2018,Alm. Salg,163,4755,5,1978,
 580,Villa,Gamle Kongevej 13A,6200, Aabenraa,1600000 ,05-07-2018,Alm. Salg,164,9756,7,1934,-11%
 580,Villa,Midtkobbel 9,6340, Kruså,2045000 ,05-07-2018,Alm. Salg,153,13366,6,2009,-2%
@@ -4380,7 +4290,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Vingelhøjvej 18,6200, Aabenraa,1625000 ,03-06-2018,Fam. Salg,161,10093,5,1966,
 580,Villa,Gadekær 7,6200, Aabenraa,1300000 ,03-06-2018,Alm. Salg,157,8280,6,1943,-7%
 580,Villa,Klostervang 17,6200, Aabenraa,1250000 ,31-05-2018,Alm. Salg,170,7353,6,1976,-2%
-580,Villa,Vestergade 7A,6330, Padborg,50000 ,31-05-2018,Alm. Salg,323,155,4,1819,-98%
 580,Villa,Løkkegårdsvej 74,6230, Rødekro,2300000 ,31-05-2018,Alm. Salg,279,8244,6,1976,
 580,Villa,Møllehøj 19,6230, Rødekro,250000 ,31-05-2018,Alm. Salg,167,1497,5,2022,
 580,Villa,Søst Bygade 12,6230, Rødekro,1350000 ,30-05-2018,Alm. Salg,213,6338,5,1777,-13%
@@ -4714,9 +4623,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Gammel Tinglevvej 76,6200, Aabenraa,1250000 ,24-12-2017,Alm. Salg,186,6720,6,1953,-5%
 580,Rækkehus,Skovparken 60,6200, Aabenraa,2900000 ,21-12-2017,Alm. Salg,146,19863,6,2010,-5%
 580,Rækkehus,Tækkerløkke 48B,6200, Aabenraa,660000 ,21-12-2017,Alm. Salg,100,6600,5,1953,-17%
-580,Ejerlejlighed,"Vestergade 11, st",6230, Rødekro,800000 ,21-12-2017,Fam. Salg,73,10959,2,1899,
-580,Ejerlejlighed,"Vestergade 11, 1",6230, Rødekro,800000 ,21-12-2017,Fam. Salg,73,10959,2,1899,
-580,Ejerlejlighed,Vinkelvej 1,6230, Rødekro,800000 ,21-12-2017,Fam. Salg,146,5479,6,1899,
 580,Villa,Adelbyvej 12,6330, Padborg,1125000 ,21-12-2017,Alm. Salg,137,8212,5,1980,-6%
 580,Villa,Lindbjerg 32,6200, Aabenraa,2235000 ,21-12-2017,Alm. Salg,150,14900,5,1960,
 580,Villa,Ellemosen 14,6200, Aabenraa,1650000 ,21-12-2017,Alm. Salg,232,7112,7,1969,-3%
@@ -4807,8 +4713,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Skovbrynet 10,6340, Kruså,550000 ,19-11-2017,Alm. Salg,125,4400,5,1920,
 580,Villa,Langhus 43,6200, Aabenraa,495000 ,19-11-2017,Alm. Salg,174,2845,5,2019,
 580,Rækkehus,Uglekær 108C,6200, Aabenraa,640000 ,18-11-2017,Fam. Salg,126,5079,5,1977,
-580,Ejerlejlighed,Sofiedalvej 48B,6360, Tinglev,1600000 ,18-11-2017,Alm. Salg,245,6531,6,1936,-6%
-580,Villa,Sofiedalvej 50,6360, Tinglev,1600000 ,18-11-2017,Alm. Salg,143,11189,4,1970,-6%
 580,Villa,Troldkær 23,6200, Aabenraa,1170000 ,18-11-2017,Alm. Salg,186,6290,5,1965,
 580,Villa,Frueløkke 191,6200, Aabenraa,1985000 ,17-11-2017,Alm. Salg,171,11608,6,1994,
 580,Ejerlejlighed,"Callesensgade 4, st. 3",6200, Aabenraa,560000 ,16-11-2017,Alm. Salg,65,8615,2,1978,-6%
@@ -4928,10 +4832,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Lindbjergparken 12,6200, Aabenraa,5200000 ,25-09-2017,Alm. Salg,331,15710,7,1997,
 580,Villa,Møgelmosevej 49,6200, Aabenraa,975000 ,23-09-2017,Alm. Salg,150,6500,5,1975,-2%
 580,Villa,Fladholm 42,6200, Aabenraa,1620000 ,21-09-2017,Alm. Salg,147,11020,6,1981,-4%
-580,Ejerlejlighed,"Genner Bygade 44, st. tv",6230, Rødekro,906200 ,20-09-2017,Auktion,98,9247,4,1930,
-580,Ejerlejlighed,"Genner Bygade 44, 1",6230, Rødekro,906200 ,20-09-2017,Auktion,104,8713,3,1930,
-580,Ejerlejlighed,"Vesterballe 1, st",6230, Rødekro,906200 ,20-09-2017,Auktion,80,11328,3,1930,
-580,Ejerlejlighed,"Vesterballe 1, 1",6230, Rødekro,906200 ,20-09-2017,Auktion,68,13326,2,1930,
 580,Villa,Gråstenvej 37,6200, Aabenraa,935000 ,20-09-2017,Alm. Salg,148,6318,6,1930,-2%
 580,Villa,Posekærvej 24,6200, Aabenraa,1845000 ,20-09-2017,Alm. Salg,150,12300,5,1991,
 580,Villa,Søndergade 7,6392, Bolderslev,95000 ,20-09-2017,Auktion,142,669,7,1900,
@@ -4996,10 +4896,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Hanvedsgade 13,6330, Padborg,676000 ,27-08-2017,Alm. Salg,114,5930,4,1977,-8%
 580,Villa,Bygbjergvej 14,6200, Aabenraa,1095000 ,27-08-2017,Alm. Salg,174,6293,4,1887,
 580,Villa,Vilsbækvej 36A,6330, Padborg,386185 ,25-08-2017,Fam. Salg,115,3358,4,1987,
-580,Rækkehus,Torp Bygade 26,6200, Aabenraa,1880000 ,24-08-2017,Alm. Salg,156,12051,5,1857,-6%
 580,Villa,Stenløkke 8,6200, Aabenraa,885000 ,24-08-2017,Alm. Salg,101,8762,4,1965,-4%
 580,Villa,Varnæsvej 537,6200, Aabenraa,4950000 ,24-08-2017,Alm. Salg,202,24505,7,1962,
-580,Villa,Torp Bygade 28,6200, Aabenraa,1880000 ,24-08-2017,Alm. Salg,273,6886,7,1857,-6%
 580,Villa,Bovrup Kirkevej 23,6200, Aabenraa,396515 ,24-08-2017,Fam. Salg,124,3198,5,2002,
 580,Rækkehus,Hybenvænget 3,6360, Tinglev,496852 ,23-08-2017,Alm. Salg,86,5777,4,1979,
 580,Rækkehus,Barkmøllegade 5A,6200, Aabenraa,750000 ,23-08-2017,Alm. Salg,69,10870,4,1777,
@@ -5039,16 +4937,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Høgelsbjerg 84,6200, Aabenraa,2180000 ,02-08-2017,Alm. Salg,250,7786,5,1975,
 580,Villa,Barsøvænget 14,6200, Aabenraa,2185000 ,02-08-2017,Alm. Salg,158,13829,6,2011,-4%
 580,Rækkehus,Frueløkke 50,6200, Aabenraa,1035000 ,01-08-2017,Alm. Salg,96,10781,4,1980,-5%
-580,Ejerlejlighed,"Store Pottergade 2A, st. tv",6200, Aabenraa,5989980 ,01-08-2017,Fam. Salg,68,88088,3,1700,
-580,Ejerlejlighed,"Store Pottergade 2C, 1. tv",6200, Aabenraa,5989980 ,01-08-2017,Fam. Salg,115,52087,4,1700,
-580,Ejerlejlighed,Store Pottergade 2D,6200, Aabenraa,5989980 ,01-08-2017,Fam. Salg,87,68850,1,1700,
-580,Ejerlejlighed,"Store Pottergade 2A, 1. tv",6200, Aabenraa,5989980 ,01-08-2017,Fam. Salg,66,90757,2,1700,
-580,Ejerlejlighed,"Store Pottergade 2A, 1. th",6200, Aabenraa,5989980 ,01-08-2017,Fam. Salg,62,96613,3,1700,
-580,Ejerlejlighed,"Store Pottergade 2C, 1. th",6200, Aabenraa,5989980 ,01-08-2017,Fam. Salg,109,54954,4,1700,
-580,Ejerlejlighed,Store Pottergade 2B,6200, Aabenraa,5989980 ,01-08-2017,Fam. Salg,86,69651,3,1700,
-580,Ejerlejlighed,"Store Pottergade 2A, st. th",6200, Aabenraa,5989980 ,01-08-2017,Fam. Salg,53,113018,3,1700,
-580,Ejerlejlighed,"Ramsherred 44D, 1. tv",6200, Aabenraa,5989980 ,01-08-2017,Fam. Salg,161,37205,5,1700,
-580,Ejerlejlighed,"Ramsherred 44D, 1. th",6200, Aabenraa,5989980 ,01-08-2017,Fam. Salg,113,53009,3,1700,
 580,Villa,Vibevænget 40,6360, Tinglev,1100000 ,01-08-2017,Alm. Salg,152,7237,5,1976,-8%
 580,Villa,Rodekær 2,6200, Aabenraa,1330000 ,01-08-2017,Alm. Salg,152,8750,5,1968,-5%
 580,Villa,Moseløkke 14,6372, Bylderup-Bov,545000 ,01-08-2017,Alm. Salg,159,3428,5,1978,-8%
@@ -5095,7 +4983,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Olmersvej 4,6360, Tinglev,575000 ,10-07-2017,Alm. Salg,181,3177,5,2022,
 580,Villa,Grænsevejen 114,6372, Bylderup-Bov,150000 ,09-07-2017,Alm. Salg,68,2206,3,1938,-33%
 580,Villa,Vollerup Byvej 32,6392, Bolderslev,606274 ,09-07-2017,Fam. Salg,213,2846,5,1930,
-580,Villa,"Kliplev Nygade 7, st. th",6200, Aabenraa,1400000 ,09-07-2017,Alm. Salg,150,9333,5,1956,
 580,Villa,Østerskovvej 47B,6340, Kruså,1425000 ,08-07-2017,Alm. Salg,132,10795,4,1976,-5%
 580,Villa,Løgumklostervej 103,6372, Bylderup-Bov,425050 ,06-07-2017,Alm. Salg,194,2191,6,1929,
 580,Villa,Vikingvej 4,6330, Padborg,1300000 ,06-07-2017,Alm. Salg,175,7429,6,1964,-7%
@@ -5210,11 +5097,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Hærvejen 25,6230, Rødekro,1000000 ,25-05-2017,Alm. Salg,186,5376,8,1945,
 580,Villa,Nørremark 8,6230, Rødekro,1375000 ,25-05-2017,Alm. Salg,162,8488,5,1974,-5%
 580,Villa,Møllevej 10,6230, Rødekro,475000 ,24-05-2017,Alm. Salg,117,4060,4,1964,-13%
-580,Ejerlejlighed,Viaduktvej 1,6360, Tinglev,1185000 ,23-05-2017,Alm. Salg,55,21545,2,1939,
-580,Ejerlejlighed,"Hovedgaden 14, st. th",6360, Tinglev,1185000 ,23-05-2017,Alm. Salg,60,19750,2,1939,
-580,Ejerlejlighed,"Hovedgaden 14, 1. th",6360, Tinglev,1185000 ,23-05-2017,Alm. Salg,50,23700,2,1939,
-580,Ejerlejlighed,"Hovedgaden 14, st. tv",6360, Tinglev,1185000 ,23-05-2017,Alm. Salg,48,24688,2,1939,
-580,Ejerlejlighed,"Hovedgaden 14, 1. tv",6360, Tinglev,1185000 ,23-05-2017,Alm. Salg,54,21944,2,1939,
 580,Villa,Buskhøjvej 25,6330, Padborg,314438 ,23-05-2017,Alm. Salg,130,2419,4,1962,
 580,Villa,Hanvedsgade 21,6330, Padborg,1000000 ,23-05-2017,Alm. Salg,134,7463,4,1976,-13%
 580,Villa,Kempesteens Vej 5,6330, Padborg,179326 ,23-05-2017,Alm. Salg,166,1080,6,2018,
@@ -5246,7 +5128,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Åbjerg 31,6340, Kruså,410000 ,10-05-2017,Alm. Salg,100,4100,4,1964,-9%
 580,Villa,Brændbjerg 14,6200, Aabenraa,1120000 ,09-05-2017,Alm. Salg,106,10566,4,1965,-2%
 580,Villa,Tranekærvej 8,6372, Bylderup-Bov,675000 ,09-05-2017,Alm. Salg,167,4042,4,1999,-3%
-580,Villa,Gildegade 5E,6200, Aabenraa,3600000 ,08-05-2017,Alm. Salg,84,42857,3,1925,
 580,Villa,Farversmøllevej 121,6200, Aabenraa,625000 ,08-05-2017,Alm. Salg,157,3981,4,1964,
 580,Villa,Kassøvej 51,6230, Rødekro,175000 ,08-05-2017,Alm. Salg,93,1882,4,1949,
 580,Ejerlejlighed,"Storegade 5, 1. tv",6200, Aabenraa,625000 ,07-05-2017,Alm. Salg,159,3931,4,1887,
@@ -5326,7 +5207,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Løkkegårdsvej 27,6230, Rødekro,1250000 ,03-04-2017,Alm. Salg,225,5556,5,1975,-7%
 580,Villa,Brystrupvej 14,6230, Rødekro,859575 ,03-04-2017,Alm. Salg,232,3705,8,1892,
 580,Villa,Fladholm 29,6200, Aabenraa,1100000 ,03-04-2017,Alm. Salg,152,7237,5,1965,
-580,Villa,Søndermarksvej 5,6200, Aabenraa,1000000 ,03-04-2017,Alm. Salg,143,6993,5,1974,
 580,Villa,Grønningen 36,6230, Rødekro,1200000 ,03-04-2017,Alm. Salg,201,5970,6,1968,-7%
 580,Villa,Tøndervej 275,6200, Aabenraa,1025000 ,02-04-2017,Alm. Salg,170,6029,6,1947,-2%
 580,Villa,Jernbanegade 22,6330, Padborg,1170000 ,02-04-2017,Alm. Salg,198,5909,6,1962,-2%
@@ -5340,7 +5220,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Hokkerupvej 18,6340, Kruså,250000 ,28-03-2017,Alm. Salg,97,2577,4,1952,-15%
 580,Villa,Kærhaven 5,6230, Rødekro,935000 ,28-03-2017,Alm. Salg,161,5807,5,1971,-6%
 580,Villa,Ellundvej 18,6330, Padborg,1200000 ,28-03-2017,Alm. Salg,170,7059,5,1977,-6%
-580,Villa,Nygade 63A,6200, Aabenraa,9250000 ,28-03-2017,Alm. Salg,136,68015,4,1885,
 580,Villa,Farverhus 272,6200, Aabenraa,343500 ,26-03-2017,Fam. Salg,130,2642,5,1973,
 580,Villa,Bajstrup Bygade 39,6360, Tinglev,365000 ,26-03-2017,Alm. Salg,112,3259,4,1962,
 580,Ejerlejlighed,"Frydendal 11F, 2. 37",6200, Aabenraa,985000 ,24-03-2017,Alm. Salg,105,9381,3,1974,
@@ -5488,19 +5367,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Varnæsvej 75,6200, Aabenraa,2000000 ,01-01-2017,Andet,128,15625,6,2018,
 580,Ejerlejlighed,"Kystvej 20A, 2",6200, Aabenraa,2215000 ,30-12-2016,Alm. Salg,123,18008,3,1943,
 580,Ejerlejlighed,Kystvej 20B,6200, Aabenraa,2600000 ,30-12-2016,Alm. Salg,152,17105,4,1943,
-580,Ejerlejlighed,"Jernbanegade 6, 1. tv",6200, Aabenraa,3000000 ,28-12-2016,Alm. Salg,72,41667,3,1941,
-580,Ejerlejlighed,"Jernbanegade 6, 1. th",6200, Aabenraa,3000000 ,28-12-2016,Alm. Salg,72,41667,3,1941,
-580,Ejerlejlighed,"Jernbanegade 6, 2. th",6200, Aabenraa,3000000 ,28-12-2016,Alm. Salg,72,41667,3,1941,
-580,Ejerlejlighed,"Jernbanegade 6, 2. tv",6200, Aabenraa,3000000 ,28-12-2016,Alm. Salg,72,41667,3,1941,
-580,Ejerlejlighed,"Jernbanegade 6, st. th",6200, Aabenraa,3000000 ,28-12-2016,Alm. Salg,72,41667,3,1941,
-580,Ejerlejlighed,"Jernbanegade 6, st. tv",6200, Aabenraa,3000000 ,28-12-2016,Alm. Salg,72,41667,3,1941,
-580,Ejerlejlighed,"Slotsgade 31A, st. th",6200, Aabenraa,3000000 ,28-12-2016,Alm. Salg,86,34884,3,1785,
-580,Ejerlejlighed,"Slotsgade 31A, 1. tv",6200, Aabenraa,3000000 ,28-12-2016,Alm. Salg,104,28846,3,1785,
-580,Ejerlejlighed,"Slotsgade 31A, 1. th",6200, Aabenraa,3000000 ,28-12-2016,Alm. Salg,56,53571,2,1785,
-580,Ejerlejlighed,"Slotsgade 31A, st. tv",6200, Aabenraa,3000000 ,28-12-2016,Alm. Salg,82,36585,3,1785,
-580,Ejerlejlighed,"Slotsgade 31B, st. th",6200, Aabenraa,3000000 ,28-12-2016,Alm. Salg,164,18293,6,1900,
-580,Ejerlejlighed,"Slotsgade 31B, st. tv",6200, Aabenraa,3000000 ,28-12-2016,Alm. Salg,58,51724,2,1900,
-580,Villa,Slotsgade 31C,6200, Aabenraa,3000000 ,28-12-2016,Alm. Salg,46,65217,1,1900,
 580,Villa,Løkkegårdsvej 127,6230, Rødekro,1135000 ,26-12-2016,Alm. Salg,120,9458,4,1976,-5%
 580,Ejerlejlighed,"Vestergade 26, st. 2",6200, Aabenraa,220000 ,22-12-2016,Fam. Salg,67,3284,2,1964,
 580,Ejerlejlighed,"Bjerggade 6B, 2. th",6200, Aabenraa,2250000 ,22-12-2016,Alm. Salg,173,13006,5,1879,-2%
@@ -5569,7 +5435,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Dimen 55,6200, Aabenraa,1200000 ,28-11-2016,Alm. Salg,284,4225,9,1949,-25%
 580,Villa,Gravløkke 101,6372, Bylderup-Bov,675000 ,27-11-2016,Alm. Salg,107,6308,5,1997,
 580,Villa,Åbølvej 14,6372, Bylderup-Bov,435000 ,27-11-2016,Andet,145,3000,4,1909,
-580,Villa,Hærvejen 57,6230, Rødekro,828715 ,27-11-2016,Alm. Salg,60,13812,2,1914,
 580,Villa,Rens Nørredam 3,6372, Bylderup-Bov,175000 ,24-11-2016,Alm. Salg,90,1944,4,1810,
 580,Rækkehus,Toften 45,6330, Padborg,560000 ,22-11-2016,Alm. Salg,69,8116,3,1980,
 580,Villa,Øster Hessel 18,6200, Aabenraa,1200000 ,22-11-2016,Alm. Salg,129,9302,4,1973,
@@ -5715,7 +5580,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Ryttergabsvej 6,6330, Padborg,410000 ,20-09-2016,Alm. Salg,100,4100,3,1965,-4%
 580,Villa,Præstegaardsvej 6,6200, Aabenraa,1200000 ,20-09-2016,Alm. Salg,170,7059,6,1870,
 580,Villa,Juelsbjerg 5,6200, Aabenraa,1650000 ,20-09-2016,Alm. Salg,138,11957,5,1986,
-580,Villa,Farversmøllevej 133,6200, Aabenraa,2400000 ,19-09-2016,Alm. Salg,206,11650,7,1965,-1%
 580,Ejerlejlighed,Sønderballevej 11A,6230, Rødekro,425000 ,18-09-2016,Alm. Salg,139,3058,4,1750,
 580,Villa,Hokkerupvej 16,6340, Kruså,250000 ,18-09-2016,Auktion,116,2155,3,1953,
 580,Villa,Lykkevej 36,6200, Aabenraa,1380000 ,18-09-2016,Alm. Salg,220,6273,6,1970,-1%
@@ -5945,7 +5809,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Fuglevænget 9,6230, Rødekro,850000 ,31-05-2016,Alm. Salg,134,6343,5,1964,-5%
 580,Villa,Bodum Bygade 7,6200, Aabenraa,250000 ,31-05-2016,Alm. Salg,173,1445,4,1958,-43%
 580,Villa,Hønsnapvej 1,6340, Kruså,391000 ,31-05-2016,Fam. Salg,119,3286,3,1880,
-580,Villa,Kolstrup 25B,6200, Aabenraa,1250000 ,30-05-2016,Alm. Salg,119,10504,3,1930,
 580,Villa,Nørager 5,6230, Rødekro,616000 ,30-05-2016,Andet,118,5220,5,1972,-52%
 580,Villa,Nørremark 58,6230, Rødekro,1300000 ,30-05-2016,Alm. Salg,153,8497,5,1976,-7%
 580,Villa,Savværksvej 72,6230, Rødekro,2400000 ,29-05-2016,Alm. Salg,184,13043,5,2005,-4%
@@ -6052,9 +5915,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Frueløkke 503,6200, Aabenraa,2017500 ,06-04-2016,Alm. Salg,184,10965,5,2003,-3%
 580,Villa,Hellevad-Bovvej 9,6230, Rødekro,1400000 ,06-04-2016,Alm. Salg,252,5556,8,1677,
 580,Villa,Muskatvænget 1,6360, Tinglev,800000 ,06-04-2016,Alm. Salg,110,7273,4,1979,-6%
-580,Ejerlejlighed,"Barkmøllegade 6, 1",6200, Aabenraa,4088400 ,05-04-2016,Alm. Salg,112,36504,3,1904,
-580,Ejerlejlighed,"Ramsherred 8, 2",6200, Aabenraa,4088400 ,05-04-2016,Alm. Salg,105,38937,4,1904,
-580,Ejerlejlighed,"Ramsherred 8, 1",6200, Aabenraa,4088400 ,05-04-2016,Alm. Salg,149,27439,4,1904,
 580,Villa,Bakkevej 6,6230, Rødekro,1075000 ,05-04-2016,Alm. Salg,199,5402,7,1961,-4%
 580,Villa,Karsevænget 2,6360, Tinglev,975000 ,05-04-2016,Alm. Salg,110,8864,4,1977,-2%
 580,Villa,Hønefossvej 7,6200, Aabenraa,525000 ,05-04-2016,Alm. Salg,105,5000,3,1950,
@@ -6087,7 +5947,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Savværksvej 3,6340, Kruså,195172 ,16-03-2016,Auktion,81,2410,3,1955,
 580,Villa,Hønborg 2,6200, Aabenraa,420000 ,16-03-2016,Alm. Salg,133,3158,4,1978,-20%
 580,Villa,Lille Jyndevadvej 8,6360, Tinglev,409750 ,16-03-2016,Alm. Salg,120,3415,5,1925,-8%
-580,Villa,Gamle Kongevej 4A,6200, Aabenraa,1580000 ,16-03-2016,Fam. Salg,115,13739,3,1933,
 580,Villa,Frueløkke 533,6200, Aabenraa,1900000 ,16-03-2016,Alm. Salg,136,13971,6,2011,-3%
 580,Villa,Lendemark 84,6372, Bylderup-Bov,700000 ,15-03-2016,Alm. Salg,204,3431,6,1975,-3%
 580,Villa,Bolderslev Nørregade 14,6392, Bolderslev,550000 ,15-03-2016,Fam. Salg,166,3313,6,1977,
@@ -6217,12 +6076,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Klemhestvej 2,6200, Aabenraa,1540000 ,03-01-2016,Alm. Salg,156,9872,5,1970,
 580,Villa,Bylderup-Bov Bygade 24,6372, Bylderup-Bov,775000 ,03-01-2016,Alm. Salg,276,2808,9,1928,-13%
 580,Villa,Padborgvej 36,6330, Padborg,1200000 ,03-01-2016,Auktion,237,5063,5,1982,
-580,Ejerlejlighed,"Skrænten 38, 1",6200, Aabenraa,5300000 ,29-12-2015,Alm. Salg,112,47321,3,1899,
-580,Ejerlejlighed,"Ramsherred 53B, 1. th",6200, Aabenraa,5300000 ,29-12-2015,Alm. Salg,88,60227,3,1936,
-580,Ejerlejlighed,"Ramsherred 53B, 1. tv",6200, Aabenraa,5300000 ,29-12-2015,Alm. Salg,94,56383,3,1936,
-580,Ejerlejlighed,"Ramsherred 53B, 2",6200, Aabenraa,5300000 ,29-12-2015,Alm. Salg,94,56383,3,1936,
-580,Ejerlejlighed,"Skrænten 38, st",6200, Aabenraa,5300000 ,29-12-2015,Alm. Salg,112,47321,3,1899,
-580,Ejerlejlighed,"Skrænten 38, 2",6200, Aabenraa,5300000 ,29-12-2015,Alm. Salg,108,49074,4,1899,
 580,Villa,Bøgholmvej 12,6200, Aabenraa,7450000 ,29-12-2015,Alm. Salg,256,29102,9,1920,
 580,Villa,Løgumklostervej 173,6200, Aabenraa,1185000 ,21-12-2015,Alm. Salg,130,9115,6,1934,-12%
 580,Villa,Kalveknækket 31,6340, Kruså,678067 ,21-12-2015,Fam. Salg,175,3875,5,1986,
@@ -6389,7 +6242,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Vinkelvej 5,6340, Kruså,1650000 ,01-10-2015,Alm. Salg,239,6371,7,2023,
 580,Villa,Store Pottergade 20,6200, Aabenraa,700000 ,01-10-2015,Alm. Salg,99,7071,5,1838,
 580,Villa,Kongenshøj 7,6340, Kruså,205000 ,30-09-2015,Alm. Salg,117,1752,4,1920,
-580,Villa,Langbjergvej 7,6200, Aabenraa,425000 ,30-09-2015,Alm. Salg,135,3148,5,1935,-29%
 580,Villa,Hasselkær 56,6200, Aabenraa,850000 ,30-09-2015,Alm. Salg,120,7083,5,1981,-5%
 580,Villa,Frudam 11,6200, Aabenraa,100000 ,30-09-2015,Alm. Salg,128,781,5,1897,
 580,Villa,Nørretoft 38,6200, Aabenraa,870000 ,30-09-2015,Alm. Salg,99,8788,3,2000,
@@ -6937,8 +6789,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Jørgensgård 52,6200, Aabenraa,775000 ,21-11-2014,Alm. Salg,187,4144,7,1898,
 580,Villa,Høgelsbjerg 84,6200, Aabenraa,1220000 ,20-11-2014,Fam. Salg,250,4357,5,1975,
 580,Villa,Moseløkke 14,6372, Bylderup-Bov,565000 ,20-11-2014,Alm. Salg,159,3553,5,1978,
-580,Rækkehus,Uge Bygade 24B,6360, Tinglev,275000 ,19-11-2014,Auktion,205,1341,7,1881,
-580,Ejerlejlighed,Uge Bygade 24A,6360, Tinglev,275000 ,19-11-2014,Auktion,44,6250,2,1881,
 580,Villa,Nygade 21,6330, Padborg,350526 ,19-11-2014,Auktion,167,2099,7,1934,-65%
 580,Villa,Frudam 5,6200, Aabenraa,101400 ,19-11-2014,Auktion,226,449,7,1825,
 580,Villa,Gyden 1,6360, Tinglev,250000 ,19-11-2014,Auktion,98,2551,3,1964,-29%
@@ -6964,7 +6814,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Uge Kådnervej 20,6360, Tinglev,4990000 ,06-11-2014,Alm. Salg,145,34414,4,1972,
 580,Villa,Urnehovedvej 9,6392, Bolderslev,12505 ,06-11-2014,Alm. Salg,199,63,7,2015,
 580,Villa,Østergade 29,6230, Rødekro,570000 ,05-11-2014,Alm. Salg,91,6264,3,1952,-10%
-580,Villa,Uge Allegade 9,6360, Tinglev,276000 ,05-11-2014,Alm. Salg,184,1500,6,1952,
 580,Rækkehus,Bjergholt 11,6200, Aabenraa,1795000 ,04-11-2014,Alm. Salg,153,11732,6,1978,
 580,Villa,Grønnevej 14,6230, Rødekro,680000 ,04-11-2014,Alm. Salg,117,5812,3,1942,
 580,Villa,Rolighedsvej 2,6392, Bolderslev,175175 ,03-11-2014,Andet,136,1288,4,1937,
@@ -7100,8 +6949,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Stubbæk Bygade 25,6200, Aabenraa,1075000 ,26-08-2014,Alm. Salg,140,7679,5,1957,-2%
 580,Villa,Bøgholmvej 5,6200, Aabenraa,1025000 ,24-08-2014,Alm. Salg,275,3727,6,1907,-20%
 580,Villa,Lærkevej 9,6340, Kruså,750000 ,24-08-2014,Alm. Salg,179,4190,5,1965,-12%
-580,Villa,Haraldsdalvej 13B,6330, Padborg,2240259 ,24-08-2014,Auktion,78,28721,2,1897,
-580,Villa,Nygade 56B,6200, Aabenraa,2370243 ,24-08-2014,Auktion,58,40866,1,1958,
 580,Villa,Varnæsvej 587,6200, Aabenraa,250000 ,23-08-2014,Alm. Salg,182,1374,6,2017,
 580,Villa,Aabenraavej 43,6230, Rødekro,600000 ,21-08-2014,Alm. Salg,170,3529,6,1929,-8%
 580,Villa,Sønderborgvej 100,6200, Aabenraa,545000 ,21-08-2014,Andet,137,3978,5,1935,
@@ -7347,9 +7194,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Nørrevang 12,6230, Rødekro,925000 ,24-03-2014,Alm. Salg,181,5110,5,1973,-7%
 580,Villa,Smedefod 10,6392, Bolderslev,430000 ,21-03-2014,Alm. Salg,96,4479,3,1964,-10%
 580,Villa,Arnhøjvej 3,6230, Rødekro,530000 ,21-03-2014,Alm. Salg,128,4141,5,1936,-7%
-580,Ejerlejlighed,Sofiedalvej 48B,6360, Tinglev,600000 ,20-03-2014,Alm. Salg,245,2449,6,1936,
 580,Villa,Myrkærvej 15,6392, Bolderslev,375000 ,20-03-2014,Alm. Salg,100,3750,3,1969,-17%
-580,Villa,Sofiedalvej 50,6360, Tinglev,600000 ,20-03-2014,Alm. Salg,143,4196,4,1970,
 580,Villa,Hasselkær 39B,6200, Aabenraa,815000 ,20-03-2014,Alm. Salg,142,5739,5,1981,-7%
 580,Villa,Ravsted Hovedgade 37,6372, Bylderup-Bov,400000 ,20-03-2014,Fam. Salg,168,2381,4,1960,
 580,Villa,Hærvejen 64,6230, Rødekro,1760000 ,20-03-2014,Alm. Salg,176,10000,4,2019,
@@ -7359,7 +7204,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Rønsdamvej 3,6330, Padborg,595000 ,19-03-2014,Alm. Salg,125,4760,5,1956,
 580,Villa,Ærholm 16,6200, Aabenraa,1470556 ,19-03-2014,Fam. Salg,175,8403,6,1966,
 580,Villa,Nygade 11,6330, Padborg,950000 ,19-03-2014,Auktion,238,3992,6,1952,
-580,Villa,Nørreagervej 1G,6360, Tinglev,3700000 ,19-03-2014,Alm. Salg,98,37755,3,2011,
 580,Villa,Myrkærvej 31,6392, Bolderslev,200000 ,18-03-2014,Alm. Salg,89,2247,4,1970,-32%
 580,Villa,Varnæs Kirkevej 1,6200, Aabenraa,1650000 ,18-03-2014,Alm. Salg,229,7205,6,1837,-8%
 580,Villa,Tværgade 3,6200, Aabenraa,425000 ,18-03-2014,Alm. Salg,142,2993,5,1932,-19%
@@ -7529,7 +7373,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Mejerivej 3,6330, Padborg,925000 ,30-10-2013,Alm. Salg,184,5027,8,1959,
 580,Villa,Hønkysvej 6,6230, Rødekro,175000 ,30-10-2013,Auktion,120,1458,3,1912,
 580,Villa,Smedefod 51,6392, Bolderslev,1598000 ,29-10-2013,Alm. Salg,251,6367,10,1848,34%
-580,Villa,Hovedgaden 18A,6360, Tinglev,1230000 ,29-10-2013,Alm. Salg,147,4457,7,1930,
 580,Villa,Kidingvej 40,6200, Aabenraa,700000 ,29-10-2013,Alm. Salg,163,4046,8,1860,-56%
 580,Villa,Kokhaven 28,6230, Rødekro,1040000 ,28-10-2013,Alm. Salg,127,8189,5,1978,-5%
 580,Villa,Fuglevænget 21,6230, Rødekro,757000 ,28-10-2013,Fam. Salg,128,5914,4,1969,
@@ -7807,9 +7650,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Bjerndrup Bygade 1,6200, Aabenraa,10001 ,15-05-2013,Auktion,184,54,6,1904,-97%
 580,Villa,Margrethevej 1,6200, Aabenraa,550000 ,14-05-2013,Alm. Salg,132,4167,5,1964,
 580,Villa,Jørgensgård 53,6200, Aabenraa,1600000 ,14-05-2013,Alm. Salg,181,8840,7,1958,-15%
-580,Ejerlejlighed,Sofiedalvej 48B,6360, Tinglev,600000 ,13-05-2013,Alm. Salg,245,2449,6,1936,
 580,Villa,Nybølvej 11,6230, Rødekro,1300000 ,13-05-2013,Alm. Salg,145,8966,4,1956,
-580,Villa,Sofiedalvej 50,6360, Tinglev,600000 ,13-05-2013,Alm. Salg,143,4196,4,1970,
 580,Villa,Skovgårdsvej 150,6200, Aabenraa,2300000 ,13-05-2013,Alm. Salg,403,5707,11,1948,-2%
 580,Villa,Skovvej 16,6340, Kruså,700000 ,13-05-2013,Alm. Salg,186,3763,5,1974,-17%
 580,Villa,Slotsgade 30,6200, Aabenraa,1975000 ,12-05-2013,Alm. Salg,334,5913,8,1795,-1%
@@ -7867,10 +7708,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Stolligvej 72,6200, Aabenraa,1650000 ,09-04-2013,Alm. Salg,200,8250,7,1887,-11%
 580,Villa,Nørrehaven 4,6360, Tinglev,585000 ,09-04-2013,Alm. Salg,120,4875,4,1977,-16%
 580,Villa,Brunbjergparken 66,6200, Aabenraa,400000 ,08-04-2013,Alm. Salg,164,2439,5,2014,
-580,Ejerlejlighed,"Nørregade 26A, 1",6330, Padborg,614000 ,07-04-2013,Auktion,70,8771,2,1927,-31%
 580,Villa,Nørreskovvej 7,6340, Kruså,400000 ,07-04-2013,Alm. Salg,171,2339,5,1970,-19%
 580,Villa,Lunden 29,6230, Rødekro,1175000 ,07-04-2013,Alm. Salg,118,9958,4,1980,-6%
-580,Villa,Nørregade 26B,6330, Padborg,614000 ,07-04-2013,Auktion,167,3677,6,1971,-31%
 580,Villa,Gml Bygade 5,6200, Aabenraa,250000 ,05-04-2013,Alm. Salg,113,2212,6,1956,
 580,Villa,Høgelsbjerg 62,6200, Aabenraa,1695000 ,04-04-2013,Alm. Salg,185,9162,4,1974,
 580,Villa,Plantevænget 1F,6230, Rødekro,438725 ,03-04-2013,Alm. Salg,142,3090,5,2013,
@@ -7894,11 +7733,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Tørsbølvej 10,6340, Kruså,1350000 ,19-03-2013,Alm. Salg,156,8654,5,1951,
 580,Villa,Varnæsvigvej 4,6200, Aabenraa,550000 ,18-03-2013,Alm. Salg,128,4297,3,1900,-11%
 580,Villa,Lærkeparken 30,6230, Rødekro,2020000 ,18-03-2013,Alm. Salg,153,13203,5,2005,-1%
-580,Rækkehus,Lillegade 12A,6200, Aabenraa,720000 ,17-03-2013,Auktion,149,4832,4,1966,
 580,Villa,Kongensgade 103,6200, Aabenraa,650000 ,17-03-2013,Alm. Salg,172,3779,6,1955,
 580,Villa,Nygade 53,6330, Padborg,1585000 ,17-03-2013,Alm. Salg,170,9324,5,2005,-12%
 580,Villa,Nørremark 40,6230, Rødekro,500000 ,17-03-2013,Alm. Salg,133,3759,4,1974,-33%
-580,Villa,Lillegade 12C,6200, Aabenraa,720000 ,17-03-2013,Auktion,159,4364,5,1964,
 580,Villa,Lundtoftvej 4,6200, Aabenraa,430000 ,13-03-2013,Alm. Salg,130,3308,5,1914,-21%
 580,Rækkehus,Store Pottergade 17,6200, Aabenraa,484000 ,12-03-2013,Alm. Salg,96,5042,3,1755,-19%
 580,Villa,Brystrupvej 31,6230, Rødekro,1965000 ,12-03-2013,Alm. Salg,91,21593,4,1925,
@@ -8212,18 +8049,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Nørtoft 3,6340, Kruså,400000 ,27-08-2012,Alm. Salg,209,1914,6,2013,-11%
 580,Villa,Runesvinget 41,6330, Padborg,875000 ,26-08-2012,Alm. Salg,186,4704,5,1967,
 580,Villa,Tømmergården 13,6200, Aabenraa,1000000 ,23-08-2012,Alm. Salg,91,10989,4,1947,
-580,Ejerlejlighed,"Storegade 6, 1. tv",6200, Aabenraa,4200000 ,22-08-2012,Alm. Salg,93,45161,2,1867,
 580,Ejerlejlighed,"Ramsherred 31B, 2",6200, Aabenraa,8300000 ,22-08-2012,Alm. Salg,120,69167,5,1840,
-580,Ejerlejlighed,Karpedam 8A,6200, Aabenraa,4200000 ,22-08-2012,Alm. Salg,77,54545,2,1908,
-580,Ejerlejlighed,Karpedam 8B. th,6200, Aabenraa,4200000 ,22-08-2012,Alm. Salg,82,51220,2,1908,
-580,Ejerlejlighed,Karpedam 8B. tv,6200, Aabenraa,4200000 ,22-08-2012,Alm. Salg,87,48276,4,1908,
-580,Ejerlejlighed,"Karpedam 8D, 2",6200, Aabenraa,4200000 ,22-08-2012,Alm. Salg,103,40777,5,1908,
-580,Ejerlejlighed,Karpedam 8C,6200, Aabenraa,4200000 ,22-08-2012,Alm. Salg,88,47727,2,1908,
-580,Ejerlejlighed,"Karpedam 8D, 1",6200, Aabenraa,4200000 ,22-08-2012,Alm. Salg,135,31111,5,1908,
-580,Ejerlejlighed,"Karpedam 8D, st",6200, Aabenraa,4200000 ,22-08-2012,Alm. Salg,135,31111,5,1908,
-580,Ejerlejlighed,"Storegade 6, 1. th",6200, Aabenraa,4200000 ,22-08-2012,Alm. Salg,93,45161,2,1867,
-580,Ejerlejlighed,"Storegade 6, 2",6200, Aabenraa,4200000 ,22-08-2012,Alm. Salg,144,29167,4,1867,
-580,Villa,Hovedgaden 18A,6360, Tinglev,299028 ,22-08-2012,Auktion,147,1083,7,1930,
 580,Villa,Østergade 11,6200, Aabenraa,480000 ,22-08-2012,Alm. Salg,135,3556,4,1892,-9%
 580,Villa,Rugmarken 31,6360, Tinglev,725080 ,21-08-2012,Alm. Salg,158,4589,5,1976,
 580,Villa,Rolighedsvej 6,6330, Padborg,815000 ,21-08-2012,Alm. Salg,150,5433,5,1952,
@@ -8250,13 +8076,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Borgmesterløkken 7B,6200, Aabenraa,1330000 ,06-08-2012,Alm. Salg,146,9110,5,1971,-7%
 580,Villa,Skovbakken 41,6200, Aabenraa,1375000 ,05-08-2012,Fam. Salg,191,7199,6,1998,
 580,Villa,Vingelhøjvej 2G,6200, Aabenraa,2900000 ,05-08-2012,Alm. Salg,188,15426,6,2009,-11%
-580,Ejerlejlighed,J P Junggreens Gang 1,6200, Aabenraa,6500000 ,02-08-2012,Alm. Salg,70,92857,3,1951,
-580,Ejerlejlighed,"Ramsherred 41B, 1. th",6200, Aabenraa,6500000 ,02-08-2012,Alm. Salg,62,104839,2,1951,
-580,Ejerlejlighed,"Ramsherred 41B, 2. th",6200, Aabenraa,6500000 ,02-08-2012,Alm. Salg,60,108333,2,1951,
-580,Ejerlejlighed,"Ramsherred 41B, 2. tv",6200, Aabenraa,6500000 ,02-08-2012,Alm. Salg,85,76471,3,1951,
-580,Ejerlejlighed,"Ramsherred 41B, 3. tv",6200, Aabenraa,6500000 ,02-08-2012,Alm. Salg,55,118182,3,1951,
-580,Ejerlejlighed,"Ramsherred 41B, 3. th",6200, Aabenraa,6500000 ,02-08-2012,Alm. Salg,73,89041,2,1951,
-580,Ejerlejlighed,"Ramsherred 41B, 1. tv",6200, Aabenraa,6500000 ,02-08-2012,Alm. Salg,83,78313,3,1951,
 580,Villa,Frydendalvej 22,6330, Padborg,350000 ,01-08-2012,Auktion,114,3070,4,1969,-41%
 580,Villa,Ravsted Hovedgade 89,6372, Bylderup-Bov,99859 ,01-08-2012,Auktion,100,999,3,1948,
 580,Villa,Skovhøj 32,6200, Aabenraa,1798390 ,01-08-2012,Alm. Salg,104,17292,3,2006,
@@ -8352,7 +8171,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Rækkehus,Kurparken 6,6340, Kruså,2635000 ,31-05-2012,Alm. Salg,129,20426,4,1980,-12%
 580,Villa,Søndervænget 16,6230, Rødekro,855000 ,31-05-2012,Alm. Salg,122,7008,4,1946,
 580,Villa,Blæsbjergvej 4,6200, Aabenraa,610000 ,30-05-2012,Alm. Salg,76,8026,5,1960,-2%
-580,Villa,Søndervænget 1,6230, Rødekro,623000 ,30-05-2012,Auktion,70,5417,5,1928,
 580,Villa,Grydehøjvej 5,6330, Padborg,70000 ,30-05-2012,Alm. Salg,152,461,6,2012,
 580,Villa,Lavgade 18,6200, Aabenraa,880000 ,29-05-2012,Alm. Salg,89,9888,3,1907,-5%
 580,Villa,Fogderup Østermark 15,6372, Bylderup-Bov,150000 ,29-05-2012,Alm. Salg,112,1339,4,1942,-40%
@@ -8428,7 +8246,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Moseløkke 16,6372, Bylderup-Bov,535000 ,22-04-2012,Alm. Salg,130,4115,4,1977,-21%
 580,Villa,Aabenraavej 1,6340, Kruså,1195000 ,22-04-2012,Alm. Salg,206,5801,5,1932,-4%
 580,Villa,Engsig 3,6200, Aabenraa,2095000 ,21-04-2012,Alm. Salg,132,15871,6,1973,
-580,Ejerlejlighed,Nr Ønlevvej 16,6230, Rødekro,794036 ,20-04-2012,Alm. Salg,31,13234,2,1976,
 580,Villa,Runesvinget 19,6330, Padborg,700000 ,20-04-2012,Alm. Salg,124,5645,4,1965,-3%
 580,Villa,Vesterballevej 3,6200, Aabenraa,900000 ,20-04-2012,Alm. Salg,292,3082,8,1969,
 580,Villa,Øster Hessel 2,6200, Aabenraa,830000 ,19-04-2012,Alm. Salg,112,7411,5,1974,-7%
@@ -8519,7 +8336,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Kådnermarksvej 12E,6330, Padborg,47500 ,21-02-2012,Alm. Salg,144,330,6,2013,
 580,Villa,Tækkerløkke 32,6200, Aabenraa,1370000 ,16-02-2012,Alm. Salg,175,7829,6,1951,-2%
 580,Villa,Oksevejen 31,6360, Tinglev,468000 ,15-02-2012,Fam. Salg,124,3774,5,1937,
-580,Ejerlejlighed,Nr Ønlevvej 16,6230, Rødekro,12800000 ,14-02-2012,Alm. Salg,31,213333,2,1976,
 580,Villa,Buskhøjvej 43,6330, Padborg,457309 ,14-02-2012,Fam. Salg,98,4666,4,1963,
 580,Villa,Fogderup Nørremark 2,6372, Bylderup-Bov,445000 ,14-02-2012,Alm. Salg,102,4363,3,1967,-10%
 580,Villa,Tråsbøl Bygade 6,6200, Aabenraa,687500 ,14-02-2012,Alm. Salg,119,5777,5,1969,-1%
@@ -8739,7 +8555,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Vibevej 9,6340, Kruså,650000 ,16-09-2011,Alm. Salg,189,3439,5,1972,
 580,Villa,Havstedvej 38,6372, Bylderup-Bov,875000 ,15-09-2011,Alm. Salg,158,5538,6,1949,
 580,Villa,Brogade 1,6392, Bolderslev,256650 ,15-09-2011,Fam. Salg,118,2175,4,1940,
-580,Rækkehus,Strandgade 1A,6200, Aabenraa,8711325 ,14-09-2011,Alm. Salg,156,55842,5,1989,
 580,Ejerlejlighed,"Kallemosen 1, 2. th",6200, Aabenraa,1900000 ,14-09-2011,Alm. Salg,106,17925,3,1984,-4%
 580,Villa,Rugbjergvej 30,6230, Rødekro,6225000 ,14-09-2011,Alm. Salg,122,51025,4,1960,
 580,Villa,Brændbjerg 5,6200, Aabenraa,2200000 ,14-09-2011,Alm. Salg,149,14765,5,1966,-4%
@@ -8813,9 +8628,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Møllevej 8,6340, Kruså,279953 ,04-08-2011,Andet,117,2393,3,1961,
 580,Villa,Lille Bjerggade 3,6200, Aabenraa,845000 ,02-08-2011,Alm. Salg,96,8802,3,1946,
 580,Villa,Farverhus 14B,6200, Aabenraa,1100000 ,01-08-2011,Alm. Salg,181,6077,6,1974,-15%
-580,Ejerlejlighed,Ramsherred 19A,6200, Aabenraa,2400000 ,31-07-2011,Auktion,92,26087,2,1700,
-580,Ejerlejlighed,"Skrænten 6, st",6200, Aabenraa,2400000 ,31-07-2011,Auktion,85,28235,3,1930,
-580,Ejerlejlighed,"Skrænten 6, 1",6200, Aabenraa,2400000 ,31-07-2011,Auktion,85,28235,2,1930,
 580,Villa,Hegnet 5,6330, Padborg,260000 ,31-07-2011,Auktion,178,1461,6,1961,-71%
 580,Villa,Granvænget 2,6340, Kruså,1720000 ,31-07-2011,Alm. Salg,174,9885,5,1980,
 580,Villa,Povlskrovej 7,6360, Tinglev,1100000 ,28-07-2011,Alm. Salg,260,4231,5,1878,-4%
@@ -9013,7 +8825,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Rækkehus,Fladholm 50,6200, Aabenraa,1370000 ,23-03-2011,Alm. Salg,121,11322,5,1981,0%
 580,Ejerlejlighed,Grønnevej 15A,6360, Tinglev,220000 ,23-03-2011,Auktion,128,1719,4,1920,
 580,Villa,Aabenraavej 11,6340, Kruså,1050000 ,23-03-2011,Alm. Salg,208,5048,6,1980,
-580,Villa,Hjelmalle 22A,6200, Aabenraa,2000000 ,23-03-2011,Alm. Salg,72,27778,2,1975,
 580,Villa,Rise Bygade 43,6230, Rødekro,1240000 ,22-03-2011,Alm. Salg,169,7337,8,1877,-4%
 580,Villa,Klosterkløften 17,6340, Kruså,695000 ,22-03-2011,Alm. Salg,101,6881,3,1962,
 580,Villa,Rise Bygade 6,6230, Rødekro,1025000 ,22-03-2011,Alm. Salg,138,7428,4,1959,-2%
@@ -9363,25 +9174,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Høgelsbjerg 108,6200, Aabenraa,956157 ,05-10-2010,Fam. Salg,127,6417,5,1973,
 580,Villa,Møllehøj 1,6230, Rødekro,2075000 ,04-10-2010,Alm. Salg,167,12425,5,2006,0%
 580,Villa,Naldtangvej 12A,6200, Aabenraa,4375000 ,04-10-2010,Alm. Salg,235,18617,4,1964,-1%
-580,Ejerlejlighed,Nygade 68B,6200, Aabenraa,5000000 ,03-10-2010,Auktion,79,63291,3,1904,
-580,Ejerlejlighed,"Nygade 68A, 2. tv",6200, Aabenraa,5000000 ,03-10-2010,Auktion,71,70423,3,1904,
-580,Ejerlejlighed,"Nygade 68A, 2. th",6200, Aabenraa,5000000 ,03-10-2010,Auktion,71,70423,4,1904,
-580,Ejerlejlighed,Nygade 68G,6200, Aabenraa,5000000 ,03-10-2010,Auktion,34,147059,2,1904,
-580,Ejerlejlighed,"Nygade 68A, st",6200, Aabenraa,5000000 ,03-10-2010,Auktion,87,57471,3,1904,
-580,Ejerlejlighed,"Nygade 68A, 1. th",6200, Aabenraa,5000000 ,03-10-2010,Auktion,114,43860,4,1904,
-580,Ejerlejlighed,"Nygade 68A, 1. tv",6200, Aabenraa,5000000 ,03-10-2010,Auktion,88,56818,3,1904,
-580,Ejerlejlighed,Vestergade 20C,6200, Aabenraa,5000000 ,03-10-2010,Auktion,89,56180,3,1926,
-580,Ejerlejlighed,Nygade 68C. th,6200, Aabenraa,5000000 ,03-10-2010,Auktion,44,113636,1,1951,
-580,Ejerlejlighed,"Nygade 68D, 1",6200, Aabenraa,5000000 ,03-10-2010,Auktion,82,60976,3,1911,
-580,Ejerlejlighed,"Vestergade 20A, 2. tv",6200, Aabenraa,5000000 ,03-10-2010,Auktion,74,67568,3,1926,
-580,Ejerlejlighed,"Vestergade 20A, st",6200, Aabenraa,5000000 ,03-10-2010,Auktion,147,34014,5,1926,
-580,Ejerlejlighed,"Vestergade 20A, 2. th",6200, Aabenraa,5000000 ,03-10-2010,Auktion,74,67568,3,1926,
-580,Ejerlejlighed,"Nygade 68D, st. mf",6200, Aabenraa,5000000 ,03-10-2010,Auktion,71,70423,3,1911,
-580,Ejerlejlighed,"Vestergade 20A, 1. tv",6200, Aabenraa,5000000 ,03-10-2010,Auktion,89,56180,3,1926,
-580,Ejerlejlighed,"Vestergade 20A, 1. th",6200, Aabenraa,5000000 ,03-10-2010,Auktion,88,56818,3,1926,
-580,Ejerlejlighed,"Nygade 68D, st. th",6200, Aabenraa,5000000 ,03-10-2010,Auktion,59,84746,2,1911,
-580,Ejerlejlighed,"Nygade 68D, st. tv",6200, Aabenraa,5000000 ,03-10-2010,Auktion,118,42373,4,1911,
-580,Ejerlejlighed,Vestergade 20B,6200, Aabenraa,5000000 ,03-10-2010,Auktion,127,39370,5,1926,
 580,Villa,Sottrupholmvej 7,6372, Bylderup-Bov,1525000 ,03-10-2010,Alm. Salg,279,5466,11,1947,-5%
 580,Villa,Varnæsvej 70,6200, Aabenraa,560000 ,03-10-2010,Andet,268,2090,4,2012,
 580,Villa,Hegnet 10,6330, Padborg,825000 ,30-09-2010,Alm. Salg,141,5851,5,1961,-13%
@@ -9571,8 +9363,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Østerløkke 12,6330, Padborg,1000000 ,06-07-2010,Alm. Salg,176,5682,6,1973,
 580,Villa,Rønsdamvej 19,6330, Padborg,1100000 ,06-07-2010,Alm. Salg,156,7051,5,1967,
 580,Villa,Rantzausvej 13,6200, Aabenraa,316000 ,06-07-2010,Alm. Salg,173,1827,6,2012,
-580,Ejerlejlighed,"Opnørplads 2, 2",6200, Aabenraa,5150000 ,05-07-2010,Alm. Salg,120,42917,4,1953,
-580,Ejerlejlighed,"Skibbroen 3, 2",6200, Aabenraa,5150000 ,05-07-2010,Alm. Salg,132,39015,4,1953,
 580,Villa,Varnæsvej 225,6200, Aabenraa,1650000 ,05-07-2010,Alm. Salg,205,8049,6,1957,
 580,Rækkehus,Kurparken 11,6340, Kruså,2300000 ,04-07-2010,Alm. Salg,142,16197,4,1981,
 580,Villa,Bjolderupvej 66,6392, Bolderslev,1275000 ,04-07-2010,Alm. Salg,180,7083,4,1878,-9%
@@ -9829,7 +9619,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Gamle Kongevej 64,6200, Aabenraa,1285000 ,16-03-2010,Alm. Salg,110,11682,3,1960,-1%
 580,Villa,Bag Hjelm 36,6200, Aabenraa,1135000 ,15-03-2010,Alm. Salg,94,12074,3,1949,-9%
 580,Villa,Oldermandsløkken 8,6200, Aabenraa,1215000 ,15-03-2010,Alm. Salg,133,9135,4,1968,-4%
-580,Villa,Oksevej 10A,6330, Padborg,900000 ,15-03-2010,Alm. Salg,49,18367,2,1948,
 580,Villa,Agertoften 44,6230, Rødekro,1290000 ,15-03-2010,Alm. Salg,150,8600,6,1978,
 580,Villa,Farversmøllevej 40,6200, Aabenraa,850000 ,15-03-2010,Alm. Salg,109,7798,3,1951,
 580,Villa,Kratløkke 13B,6200, Aabenraa,895000 ,15-03-2010,Alm. Salg,146,6130,5,1982,
@@ -9862,13 +9651,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Bakkesvinget 15D,6340, Kruså,1795000 ,04-03-2010,Alm. Salg,182,9863,5,1984,
 580,Ejerlejlighed,"Gammel Flensborgvej 9, st",6200, Aabenraa,3600000 ,03-03-2010,Alm. Salg,139,25899,4,2010,
 580,Villa,Felsted Nygade 31,6200, Aabenraa,585000 ,03-03-2010,Alm. Salg,118,4958,4,1965,-16%
-580,Villa,Hærvejen 57,6230, Rødekro,1683000 ,03-03-2010,Auktion,60,28050,2,1914,
 580,Villa,Nybølvej 9,6230, Rødekro,1310000 ,02-03-2010,Alm. Salg,145,9034,4,1958,-5%
 580,Villa,Hinderupvej 3,6230, Rødekro,600000 ,02-03-2010,Alm. Salg,194,3093,5,1951,
 580,Villa,Kløvermarken 2,6230, Rødekro,1300000 ,02-03-2010,Alm. Salg,140,9286,4,1971,
 580,Villa,Vollerup Byvej 18,6392, Bolderslev,610000 ,28-02-2010,Auktion,200,3050,8,1890,
-580,Ejerlejlighed,"Opnørplads 2, 2",6200, Aabenraa,6500000 ,25-02-2010,Alm. Salg,120,54167,4,1953,
-580,Ejerlejlighed,"Skibbroen 3, 2",6200, Aabenraa,6500000 ,25-02-2010,Alm. Salg,132,49242,4,1953,
 580,Rækkehus,Kalveknækket 4,6340, Kruså,980000 ,24-02-2010,Fam. Salg,91,10769,3,1980,
 580,Villa,Nybrovej 15,6230, Rødekro,706000 ,24-02-2010,Auktion,142,4972,5,1931,-44%
 580,Villa,Musvitvej 13,6340, Kruså,1530000 ,24-02-2010,Fam. Salg,223,6861,7,1977,
@@ -9994,13 +9780,11 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Frueløkke 169,6200, Aabenraa,1595000 ,08-12-2009,Alm. Salg,140,11393,5,1986,
 580,Villa,Farverhus 15,6200, Aabenraa,1650000 ,08-12-2009,Alm. Salg,170,9706,5,1974,-2%
 580,Villa,Stadionvej 20,6392, Bolderslev,390000 ,08-12-2009,Alm. Salg,87,4483,3,1952,
-580,Rækkehus,Varnæs Søndergade 1A,6200, Aabenraa,600000 ,07-12-2009,Alm. Salg,75,8000,2,1907,
 580,Villa,Garverland 6,6372, Bylderup-Bov,1400000 ,07-12-2009,Fam. Salg,203,6897,8,1977,
 580,Villa,Gammel Vippelvej 18,6360, Tinglev,900000 ,07-12-2009,Alm. Salg,171,5263,4,1875,
 580,Villa,Plantevænget 11,6230, Rødekro,2000000 ,07-12-2009,Alm. Salg,188,10638,6,2009,-16%
 580,Villa,Nystadvej 46,6372, Bylderup-Bov,200000 ,06-12-2009,Alm. Salg,183,1093,6,2015,-58%
 580,Villa,Nybølvej 26,6230, Rødekro,1200000 ,05-12-2009,Fam. Salg,138,8696,5,1972,
-580,Ejerlejlighed,"Flensborgvej 18, 1",6340, Kruså,2350000 ,03-12-2009,Alm. Salg,122,19262,5,1937,
 580,Villa,Tøndervej 221,6200, Aabenraa,1600000 ,03-12-2009,Alm. Salg,152,10526,6,1950,-6%
 580,Villa,Sønderhavvej 21,6340, Kruså,959500 ,03-12-2009,Alm. Salg,157,6111,7,1936,-70%
 580,Villa,Ørslevvej 2,6230, Rødekro,255000 ,03-12-2009,Alm. Salg,181,1409,5,2014,
@@ -10290,7 +10074,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Forstalle 75,6200, Aabenraa,5300000 ,25-06-2009,Andet,224,23661,6,1991,
 580,Villa,Lindsnakkevej 9,6200, Aabenraa,2900000 ,25-06-2009,Fam. Salg,200,14500,6,1923,
 580,Villa,Skovgårdsvej 22,6200, Aabenraa,569250 ,25-06-2009,Alm. Salg,149,3820,6,2011,
-580,Villa,Slotsgade 23B,6200, Aabenraa,2550000 ,24-06-2009,Auktion,118,21610,5,1707,
 580,Villa,Jørgensgård 33,6200, Aabenraa,2550000 ,23-06-2009,Alm. Salg,196,13010,6,1905,-6%
 580,Villa,Rosenvænget 22,6230, Rødekro,1652500 ,23-06-2009,Alm. Salg,135,12241,4,1997,-3%
 580,Villa,Korupvej 45,6230, Rødekro,250000 ,23-06-2009,Alm. Salg,239,1046,6,1860,
@@ -10680,7 +10463,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Stubbæk Nyvej 12,6200, Aabenraa,850000 ,05-11-2008,Alm. Salg,102,8333,5,1964,-5%
 580,Villa,Margrethegårdsvej 65,6200, Aabenraa,350000 ,04-11-2008,Alm. Salg,147,2381,5,2012,
 580,Ejerlejlighed,"Skovparken 44, st. mf",6200, Aabenraa,2145000 ,03-11-2008,Alm. Salg,113,18982,3,2009,
-580,Villa,Hærvejen 57,6230, Rødekro,2100000 ,02-11-2008,Alm. Salg,60,35000,2,1914,
 580,Villa,Nørreagervej 28,6360, Tinglev,530000 ,02-11-2008,Alm. Salg,102,5196,4,1953,-4%
 580,Ejerlejlighed,"Vestergade 26, st. 3",6200, Aabenraa,575000 ,31-10-2008,Alm. Salg,67,8582,2,1964,
 580,Villa,Løgumklostervej 10,6230, Rødekro,275000 ,30-10-2008,Alm. Salg,132,2083,5,1877,
@@ -10742,13 +10524,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Søndermark 37,6200, Aabenraa,400000 ,02-10-2008,Alm. Salg,126,3175,5,1964,-11%
 580,Villa,Flensborgvej 75B,6360, Tinglev,495000 ,02-10-2008,Auktion,233,2124,8,1978,-41%
 580,Villa,Solbakken 62,6230, Rødekro,1144996 ,02-10-2008,Andet,165,6939,5,1965,
-580,Ejerlejlighed,"Storegade 31, 2",6200, Aabenraa,13000000 ,30-09-2008,Alm. Salg,120,108333,3,1962,
-580,Ejerlejlighed,"Rådhusgade 4, 2",6200, Aabenraa,13000000 ,30-09-2008,Alm. Salg,126,103175,3,1962,
-580,Ejerlejlighed,"Storegade 31, 1. th",6200, Aabenraa,13000000 ,30-09-2008,Alm. Salg,115,113043,2,1962,
-580,Ejerlejlighed,"Rådhusgade 4, 1. mf",6200, Aabenraa,13000000 ,30-09-2008,Alm. Salg,65,200000,2,1962,
-580,Ejerlejlighed,"Rådhusgade 4, 1. tv",6200, Aabenraa,13000000 ,30-09-2008,Alm. Salg,122,106557,2,1962,
-580,Ejerlejlighed,"Storegade 31, 1. tv",6200, Aabenraa,13000000 ,30-09-2008,Alm. Salg,102,127451,2,1962,
-580,Ejerlejlighed,"Rådhusgade 4, 1. th",6200, Aabenraa,13000000 ,30-09-2008,Alm. Salg,115,113043,3,1962,
 580,Villa,Tværgade 10,6200, Aabenraa,700000 ,30-09-2008,Alm. Salg,138,5072,5,1932,-9%
 580,Ejerlejlighed,"Øster Løgumvej 53, 1",6230, Rødekro,756270 ,29-09-2008,Alm. Salg,294,2572,6,2010,
 580,Villa,Hejselvej 22,6372, Bylderup-Bov,950000 ,29-09-2008,Alm. Salg,195,4872,5,1959,
@@ -10761,13 +10536,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Stationsvej 14A,6230, Rødekro,200000 ,29-09-2008,Alm. Salg,600,333,15,1897,-50%
 580,Villa,Hovbjerg 12,6360, Tinglev,1150000 ,28-09-2008,Alm. Salg,138,8333,6,1938,
 580,Villa,Nørremark 25,6230, Rødekro,1460000 ,28-09-2008,Alm. Salg,142,10282,4,1975,-6%
-580,Ejerlejlighed,"Jernbanegade 10, st. th",6200, Aabenraa,4000000 ,27-09-2008,Alm. Salg,77,51948,3,1942,
-580,Ejerlejlighed,"Jernbanegade 10, st. tv",6200, Aabenraa,4000000 ,27-09-2008,Alm. Salg,77,51948,3,1942,
-580,Ejerlejlighed,"Jernbanegade 10, 1. th",6200, Aabenraa,4000000 ,27-09-2008,Alm. Salg,77,51948,3,1942,
-580,Ejerlejlighed,"Jernbanegade 10, 2. th",6200, Aabenraa,4000000 ,27-09-2008,Alm. Salg,77,51948,3,1942,
-580,Ejerlejlighed,"Jernbanegade 10, 2. tv",6200, Aabenraa,4000000 ,27-09-2008,Alm. Salg,77,51948,3,1942,
-580,Ejerlejlighed,"Jernbanegade 10, 1. tv",6200, Aabenraa,4000000 ,27-09-2008,Alm. Salg,77,51948,3,1942,
-580,Ejerlejlighed,Ramsherred 12B,6200, Aabenraa,4000000 ,27-09-2008,Alm. Salg,96,41667,4,1900,
 580,Villa,Forstalle 35,6200, Aabenraa,2080000 ,26-09-2008,Alm. Salg,149,13960,5,1933,
 580,Villa,Buen 78,6200, Aabenraa,1525000 ,25-09-2008,Alm. Salg,138,11051,6,1987,-1%
 580,Ejerlejlighed,Nybro 20C,6200, Aabenraa,775000 ,24-09-2008,Alm. Salg,67,11567,2,1988,-2%
@@ -10916,7 +10684,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Varnæsvigvej 27,6200, Aabenraa,704293 ,31-07-2008,Alm. Salg,127,5546,4,1966,
 580,Villa,Fjordvej 10,6200, Aabenraa,1675000 ,31-07-2008,Alm. Salg,150,11167,6,1953,
 580,Villa,Plantevænget 1D,6230, Rødekro,411903 ,31-07-2008,Alm. Salg,152,2710,6,2009,
-580,Villa,Nygade 63A,6200, Aabenraa,3555555 ,31-07-2008,Alm. Salg,136,26144,4,1885,
 580,Villa,Midtløkke 54,6200, Aabenraa,350000 ,31-07-2008,Alm. Salg,162,2160,4,2021,
 580,Ejerlejlighed,"Møllegården 11, st. tv",6340, Kruså,765000 ,29-07-2008,Alm. Salg,105,7286,3,1900,
 580,Villa,Vilsbækvej 33,6330, Padborg,1565000 ,29-07-2008,Alm. Salg,202,7748,8,1909,-2%
@@ -10959,8 +10726,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Stationsvej 1,6200, Aabenraa,1175000 ,08-07-2008,Alm. Salg,153,7680,5,1964,
 580,Villa,Skovvej 11A,6340, Kruså,1645000 ,08-07-2008,Alm. Salg,244,6742,8,1972,-3%
 580,Ejerlejlighed,"Storegade 11, 1",6200, Aabenraa,2200000 ,07-07-2008,Alm. Salg,97,22680,2,1678,
-580,Ejerlejlighed,Storetorv 5A,6200, Aabenraa,6400000 ,07-07-2008,Alm. Salg,131,48855,3,1983,
-580,Ejerlejlighed,Humlehaven 8,6200, Aabenraa,6400000 ,07-07-2008,Alm. Salg,168,38095,3,1983,
 580,Villa,Parkvej 28,6340, Kruså,990000 ,06-07-2008,Alm. Salg,108,9167,2,1954,
 580,Villa,Bøgeparken 19,6230, Rødekro,1950000 ,05-07-2008,Alm. Salg,142,13732,5,1999,-2%
 580,Villa,Nefeskovvej 9,6230, Rødekro,80000 ,05-07-2008,Alm. Salg,68,1176,2,2023,
@@ -11003,7 +10768,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Padborgvej 31,6330, Padborg,1100000 ,24-06-2008,Alm. Salg,247,4453,10,1962,-8%
 580,Villa,Høgelsbjerg 108,6200, Aabenraa,820097 ,24-06-2008,Alm. Salg,127,5504,5,1973,
 580,Villa,Pilekær 9,6200, Aabenraa,220900 ,24-06-2008,Alm. Salg,167,1323,7,2009,
-580,Villa,Uge Allegade 9,6360, Tinglev,2800000 ,23-06-2008,Alm. Salg,184,15217,6,1952,
 580,Villa,Varnæsvigvej 4,6200, Aabenraa,825000 ,22-06-2008,Alm. Salg,128,6445,3,1900,
 580,Villa,Toften 88,6330, Padborg,595000 ,22-06-2008,Alm. Salg,89,6685,4,1984,
 580,Villa,Stubbæk Toften 6,6200, Aabenraa,798000 ,22-06-2008,Alm. Salg,85,9388,4,1965,
@@ -11030,11 +10794,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Husholt 8,6200, Aabenraa,2895000 ,15-06-2008,Alm. Salg,184,15734,6,1982,
 580,Villa,Barsøvænget 16,6200, Aabenraa,365750 ,15-06-2008,Alm. Salg,176,2078,6,2010,
 580,Villa,Nørretoft 51,6200, Aabenraa,250000 ,14-06-2008,Alm. Salg,195,1282,7,2015,
-580,Ejerlejlighed,Viaduktvej 1,6360, Tinglev,1440000 ,12-06-2008,Alm. Salg,55,26182,2,1939,
-580,Ejerlejlighed,"Hovedgaden 14, st. th",6360, Tinglev,1440000 ,12-06-2008,Alm. Salg,60,24000,2,1939,
-580,Ejerlejlighed,"Hovedgaden 14, 1. th",6360, Tinglev,1440000 ,12-06-2008,Alm. Salg,50,28800,2,1939,
-580,Ejerlejlighed,"Hovedgaden 14, st. tv",6360, Tinglev,1440000 ,12-06-2008,Alm. Salg,48,30000,2,1939,
-580,Ejerlejlighed,"Hovedgaden 14, 1. tv",6360, Tinglev,1440000 ,12-06-2008,Alm. Salg,54,26667,2,1939,
 580,Ejerlejlighed,"Kildespringet 4, st. tv",6200, Aabenraa,3000000 ,12-06-2008,Alm. Salg,144,20833,4,2009,
 580,Ejerlejlighed,"Kildespringet 2, st. tv",6200, Aabenraa,2900000 ,12-06-2008,Alm. Salg,131,22137,4,2009,
 580,Ejerlejlighed,"Kildespringet 4, 1. th",6200, Aabenraa,2300000 ,12-06-2008,Alm. Salg,109,21101,4,2009,
@@ -11101,8 +10860,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Ejerlejlighed,"Gammel Flensborgvej 3, 1. th",6200, Aabenraa,4700000 ,21-05-2008,Alm. Salg,183,25683,4,2010,
 580,Villa,Hærulfgade 19,6230, Rødekro,975000 ,21-05-2008,Alm. Salg,118,8263,4,1961,
 580,Villa,Hærvejen 82,6230, Rødekro,1375000 ,21-05-2008,Alm. Salg,168,8185,7,1920,
-580,Rækkehus,Uge Bygade 24B,6360, Tinglev,700000 ,20-05-2008,Alm. Salg,205,3415,7,1881,
-580,Ejerlejlighed,Uge Bygade 24A,6360, Tinglev,700000 ,20-05-2008,Alm. Salg,44,15909,2,1881,
 580,Villa,Rugmarken 6,6360, Tinglev,895000 ,20-05-2008,Alm. Salg,105,8524,3,1977,-4%
 580,Villa,Østerbro 9,6230, Rødekro,1295000 ,20-05-2008,Alm. Salg,135,9593,4,1969,
 580,Villa,Grønningen 7,6340, Kruså,1003000 ,18-05-2008,Alm. Salg,115,8722,4,1980,
@@ -11110,7 +10867,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Frøslevvej 51,6330, Padborg,363245 ,18-05-2008,Alm. Salg,130,2794,5,1958,
 580,Villa,Mosevej 23,6200, Aabenraa,1200000 ,18-05-2008,Alm. Salg,174,6897,7,1986,-14%
 580,Villa,Hærvejen 21A,6330, Padborg,1725000 ,18-05-2008,Alm. Salg,267,6461,9,1887,
-580,Villa,Hærvejen 57,6230, Rødekro,1800000 ,18-05-2008,Alm. Salg,60,30000,2,1914,29%
 580,Villa,Lærkeparken 15,6230, Rødekro,2990000 ,18-05-2008,Alm. Salg,202,14802,6,2007,
 580,Villa,Barsøvænget 10,6200, Aabenraa,382000 ,18-05-2008,Alm. Salg,166,2301,5,2017,
 580,Villa,Vingelhøjvej 69,6200, Aabenraa,576000 ,18-05-2008,Alm. Salg,262,2198,7,2010,
@@ -11121,7 +10877,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Farverhus 204,6200, Aabenraa,2280000 ,15-05-2008,Alm. Salg,159,14340,5,1973,-1%
 580,Villa,Bolderslev Hovedgade 20,6392, Bolderslev,2000000 ,15-05-2008,Alm. Salg,307,6515,8,1857,
 580,Villa,Varnæsvej 156,6200, Aabenraa,910000 ,15-05-2008,Alm. Salg,163,5583,4,1933,
-580,Villa,Hærvejen 57,6230, Rødekro,622086 ,15-05-2008,Andet,60,10368,2,1914,-55%
 580,Villa,Sejsbjerg 93,6200, Aabenraa,81500 ,15-05-2008,Alm. Salg,145,562,5,2009,
 580,Villa,Uglekær 52,6200, Aabenraa,1675000 ,14-05-2008,Alm. Salg,186,9005,5,1976,-1%
 580,Ejerlejlighed,"Skibbrogade 12, 2",6200, Aabenraa,715000 ,13-05-2008,Alm. Salg,68,10515,2,1867,-4%
@@ -11205,11 +10960,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Bøgholmvej 3,6200, Aabenraa,2175000 ,14-04-2008,Alm. Salg,226,9624,8,1870,1%
 580,Villa,Nørskov 1,6200, Aabenraa,12610040 ,14-04-2008,Alm. Salg,180,70056,6,1987,
 580,Villa,Almstrupvej 10,6360, Tinglev,565000 ,14-04-2008,Alm. Salg,114,4956,5,1975,-2%
-580,Ejerlejlighed,Viaduktvej 1,6360, Tinglev,149522 ,13-04-2008,Fam. Salg,55,2719,2,1939,
-580,Ejerlejlighed,"Hovedgaden 14, st. th",6360, Tinglev,149522 ,13-04-2008,Fam. Salg,60,2492,2,1939,
-580,Ejerlejlighed,"Hovedgaden 14, 1. th",6360, Tinglev,149522 ,13-04-2008,Fam. Salg,50,2990,2,1939,
-580,Ejerlejlighed,"Hovedgaden 14, st. tv",6360, Tinglev,149522 ,13-04-2008,Fam. Salg,48,3115,2,1939,
-580,Ejerlejlighed,"Hovedgaden 14, 1. tv",6360, Tinglev,149522 ,13-04-2008,Fam. Salg,54,2769,2,1939,
 580,Ejerlejlighed,"Skovparken 44, st. tv",6200, Aabenraa,1965000 ,13-04-2008,Alm. Salg,108,18194,3,2009,
 580,Ejerlejlighed,"Skovparken 44, 1. mf",6200, Aabenraa,2145000 ,13-04-2008,Alm. Salg,113,18982,3,2009,
 580,Villa,Frueløkke 458,6200, Aabenraa,1850000 ,13-04-2008,Alm. Salg,148,12500,5,1987,
@@ -11364,7 +11114,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Agertoften 10,6230, Rødekro,1315000 ,24-02-2008,Alm. Salg,129,10194,3,1977,
 580,Villa,Haderslevvej 107,6200, Aabenraa,1360000 ,24-02-2008,Alm. Salg,133,10226,5,1954,-3%
 580,Villa,Gråstenvej 29,6200, Aabenraa,675000 ,24-02-2008,Fam. Salg,109,6193,5,1898,
-580,Villa,Søndervænget 1,6230, Rødekro,1200000 ,24-02-2008,Alm. Salg,70,10435,5,1928,
 580,Villa,Klosterbakken 57,6230, Rødekro,2570000 ,24-02-2008,Alm. Salg,164,15671,6,2008,
 580,Villa,Rens Øvej 2,6372, Bylderup-Bov,450000 ,23-02-2008,Alm. Salg,92,4891,3,1952,
 580,Villa,Bolderslevskovvej 4,6392, Bolderslev,292500 ,23-02-2008,Andet,147,1990,4,1948,
@@ -11405,10 +11154,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Varnæsvej 588,6200, Aabenraa,1070000 ,06-02-2008,Alm. Salg,192,5573,5,1913,-7%
 580,Villa,Kastanievej 13,6360, Tinglev,419034 ,06-02-2008,Alm. Salg,143,2930,5,1943,
 580,Villa,Skolegade 21,6230, Rødekro,294500 ,06-02-2008,Alm. Salg,227,1297,7,2008,
-580,Ejerlejlighed,Nybro 20D,6200, Aabenraa,750000 ,05-02-2008,Alm. Salg,67,11194,2,1988,-3%
 580,Villa,Højvang 1A,6230, Rødekro,1000000 ,05-02-2008,Alm. Salg,156,6410,5,1933,-11%
 580,Villa,Almstrupvej 16,6360, Tinglev,400000 ,05-02-2008,Auktion,110,3636,4,1974,
-580,Villa,Smedetoft 2,6200, Aabenraa,750000 ,05-02-2008,Alm. Salg,156,4808,6,1959,-6%
 580,Villa,Skovbakken 41,6200, Aabenraa,2850000 ,04-02-2008,Alm. Salg,191,14921,6,1998,
 580,Villa,Troldkær 1,6200, Aabenraa,1395000 ,04-02-2008,Alm. Salg,129,10814,4,1967,
 580,Rækkehus,Ravsted Ågade 1,6372, Bylderup-Bov,335000 ,03-02-2008,Alm. Salg,47,7128,2,1906,
@@ -11817,12 +11564,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Varnæsvej 159,6200, Aabenraa,1500000 ,17-09-2007,Alm. Salg,200,7500,6,1878,
 580,Villa,Lillegade 11,6200, Aabenraa,760000 ,17-09-2007,Alm. Salg,109,6972,4,1926,
 580,Rækkehus,Hybenvænget 62,6360, Tinglev,615000 ,16-09-2007,Alm. Salg,96,6406,4,1979,
-580,Ejerlejlighed,"Barkmøllegade 12, st",6200, Aabenraa,7200000 ,16-09-2007,Andet,74,97297,2,1877,
-580,Ejerlejlighed,"Barkmøllegade 12, 1",6200, Aabenraa,7200000 ,16-09-2007,Andet,74,97297,2,1877,
-580,Ejerlejlighed,"Borgmester Finks Gade 4C, st",6200, Aabenraa,7200000 ,16-09-2007,Andet,57,126316,2,1877,
-580,Ejerlejlighed,"Borgmester Finks Gade 4A, st. tv",6200, Aabenraa,7200000 ,16-09-2007,Andet,119,60504,4,1877,
-580,Ejerlejlighed,"Borgmester Finks Gade 4A, st. th",6200, Aabenraa,7200000 ,16-09-2007,Andet,54,133333,2,1877,
-580,Ejerlejlighed,"Borgmester Finks Gade 2B, 1",6200, Aabenraa,7200000 ,16-09-2007,Andet,134,53731,4,1877,
 580,Villa,Tøndervej 189,6200, Aabenraa,650000 ,16-09-2007,Alm. Salg,169,3846,7,1930,
 580,Villa,Styrtom Engvej 6,6200, Aabenraa,1830000 ,16-09-2007,Alm. Salg,154,11883,5,1970,-3%
 580,Villa,Skånevej 4,6230, Rødekro,6400000 ,16-09-2007,Andet,306,14747,10,1907,
@@ -12010,10 +11751,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Ejerlejlighed,Løkkegårdsvej 11I,6230, Rødekro,75000 ,09-07-2007,Alm. Salg,124,605,3,1963,
 580,Villa,Lojovej 17,6200, Aabenraa,662568 ,09-07-2007,Andet,142,4666,6,1961,
 580,Villa,Midtkobbel 23,6340, Kruså,99770 ,09-07-2007,Alm. Salg,190,525,5,2008,
-580,Ejerlejlighed,"Fiskergade 1A, 2",6200, Aabenraa,550000 ,08-07-2007,Alm. Salg,109,5046,3,1920,
 580,Villa,Husholt 6,6200, Aabenraa,2600000 ,08-07-2007,Alm. Salg,174,14943,6,1984,
 580,Villa,Engglimt 5,6340, Kruså,925000 ,08-07-2007,Alm. Salg,117,7906,4,1966,
-580,Villa,Barsmark Bygade 131,6200, Aabenraa,550000 ,08-07-2007,Alm. Salg,260,2115,8,2010,-4%
 580,Villa,Klosterkløften 3,6340, Kruså,595000 ,08-07-2007,Alm. Salg,156,3814,6,1962,
 580,Villa,Kalveknækket 11,6340, Kruså,2595000 ,08-07-2007,Alm. Salg,194,13376,6,2007,
 580,Ejerlejlighed,Nørregade 56B,6330, Padborg,875000 ,06-07-2007,Alm. Salg,67,13060,3,1954,
@@ -12061,7 +11800,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Sønderhavvej 8F,6340, Kruså,1500000 ,28-06-2007,Alm. Salg,157,9554,4,2010,
 580,Rækkehus,Fjordløkke 130,6200, Aabenraa,3275000 ,27-06-2007,Alm. Salg,130,25192,4,1988,
 580,Villa,Rise Bygade 55,6230, Rødekro,582000 ,27-06-2007,Alm. Salg,130,4477,6,1940,
-580,Villa,Kirkegårdsvej 32,6200, Aabenraa,1250000 ,26-06-2007,Alm. Salg,131,9542,3,1877,
 580,Villa,Tværgade 6,6230, Rødekro,492500 ,26-06-2007,Andet,93,5296,4,1956,
 580,Villa,Flensborg Landevej 27,6200, Aabenraa,500000 ,26-06-2007,Alm. Salg,99,5051,4,1860,
 580,Villa,Fladholm 12,6200, Aabenraa,1850000 ,26-06-2007,Alm. Salg,134,13806,5,2008,
@@ -12078,12 +11816,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Havremarken 27,6340, Kruså,695000 ,24-06-2007,Alm. Salg,116,5991,4,1977,
 580,Villa,Midtkobbel 1,6340, Kruså,82610 ,24-06-2007,Alm. Salg,153,540,6,2008,
 580,Villa,Hyndingholmvej 12,6372, Bylderup-Bov,550000 ,23-06-2007,Alm. Salg,100,5500,3,1953,-15%
-580,Ejerlejlighed,"Vinkelvej 2, 1. tv",6230, Rødekro,3595000 ,21-06-2007,Andet,110,32682,3,1900,
 580,Ejerlejlighed,"Skrænten 2A, 2",6200, Aabenraa,4500000 ,21-06-2007,Alm. Salg,60,75000,2,1800,
-580,Ejerlejlighed,"Vinkelvej 2, 1",6230, Rødekro,3595000 ,21-06-2007,Andet,113,31814,3,1900,
-580,Ejerlejlighed,"Vinkelvej 2, st. tv",6230, Rødekro,3595000 ,21-06-2007,Andet,134,26828,3,1900,
-580,Ejerlejlighed,"Vinkelvej 2, st. th",6230, Rødekro,3595000 ,21-06-2007,Andet,111,32387,3,1900,
-580,Ejerlejlighed,Vestergade 13,6230, Rødekro,3595000 ,21-06-2007,Andet,113,31814,3,1900,
 580,Villa,Højtoften 10,6200, Aabenraa,810000 ,21-06-2007,Alm. Salg,111,7297,4,1978,-2%
 580,Villa,Brombærvænget 13,6360, Tinglev,963000 ,21-06-2007,Alm. Salg,107,9000,4,1999,
 580,Ejerlejlighed,"Kildespringet 2, st. th",6200, Aabenraa,3900000 ,20-06-2007,Alm. Salg,169,23077,4,2009,
@@ -12527,9 +12260,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Skolevej 30,6340, Kruså,750000 ,04-02-2007,Alm. Salg,108,6944,4,1970,
 580,Villa,Kallemosen 27C,6200, Aabenraa,2341000 ,04-02-2007,Alm. Salg,144,16257,5,2006,
 580,Villa,Aabenraavej 25A,6340, Kruså,510000 ,01-02-2007,Alm. Salg,263,1939,8,1934,
-580,Rækkehus,Søderupvej 22,6230, Rødekro,545000 ,31-01-2007,Alm. Salg,51,10686,3,1856,-31%
 580,Villa,Løjt Nørregade 24,6200, Aabenraa,580745 ,31-01-2007,Andet,182,3191,6,1906,
-580,Villa,Søderupvej 24,6230, Rødekro,545000 ,31-01-2007,Alm. Salg,227,2401,5,1856,-31%
 580,Villa,Lykkevej 16,6200, Aabenraa,597500 ,31-01-2007,Andet,156,3830,4,1972,
 580,Villa,Avntoftvej 35,6200, Aabenraa,1200000 ,31-01-2007,Fam. Salg,121,9917,4,1902,
 580,Villa,Havretoften 14,6200, Aabenraa,646000 ,31-01-2007,Alm. Salg,152,4250,6,1978,
@@ -12806,7 +12537,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Kirkegade 55,6230, Rødekro,665000 ,03-10-2006,Alm. Salg,80,8313,3,1967,
 580,Villa,Moseløkke 14,6372, Bylderup-Bov,680000 ,02-10-2006,Alm. Salg,159,4277,5,1978,
 580,Villa,Løjt Nørrevang 1,6200, Aabenraa,995000 ,01-10-2006,Alm. Salg,129,7713,4,1934,
-580,Villa,"Skibbrogade 2B, 1",6200, Aabenraa,1870000 ,30-09-2006,Alm. Salg,40,46750,1,1890,
 580,Villa,Lillevang 12,6230, Rødekro,775000 ,30-09-2006,Alm. Salg,82,9451,4,1972,
 580,Villa,Åløkke 4,6230, Rødekro,860000 ,30-09-2006,Alm. Salg,167,5150,5,2020,
 580,Villa,Slogsherredsvej 16,6372, Bylderup-Bov,825000 ,30-09-2006,Alm. Salg,202,4084,6,1910,
@@ -12994,9 +12724,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Bøgholmvej 10,6200, Aabenraa,1175000 ,08-08-2006,Alm. Salg,253,4644,9,1800,
 580,Villa,Lillegade 20,6360, Tinglev,625000 ,08-08-2006,Alm. Salg,94,6649,3,1953,
 580,Villa,Hasselkær 20B,6200, Aabenraa,226115 ,08-08-2006,Alm. Salg,162,1396,5,2009,
-580,Ejerlejlighed,"Barkmøllegade 6, 1",6200, Aabenraa,3700000 ,07-08-2006,Alm. Salg,112,33036,3,1904,
-580,Ejerlejlighed,"Ramsherred 8, 2",6200, Aabenraa,3700000 ,07-08-2006,Alm. Salg,105,35238,4,1904,
-580,Ejerlejlighed,"Ramsherred 8, 1",6200, Aabenraa,3700000 ,07-08-2006,Alm. Salg,149,24832,4,1904,
 580,Villa,Havstedvej 55,6372, Bylderup-Bov,295000 ,07-08-2006,Alm. Salg,104,2837,4,1900,
 580,Villa,Blåkrogvej 11,6200, Aabenraa,1300000 ,07-08-2006,Alm. Salg,210,6190,5,1937,
 580,Villa,Klosterbakken 50,6230, Rødekro,1195000 ,07-08-2006,Alm. Salg,161,7422,5,1972,
@@ -13334,7 +13061,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Søndermark 3,6200, Aabenraa,750000 ,07-05-2006,Alm. Salg,325,2308,8,1900,
 580,Villa,Slogsherredsvej 62,6372, Bylderup-Bov,700000 ,07-05-2006,Alm. Salg,128,5469,4,1983,
 580,Villa,Eskær 2,6200, Aabenraa,1150000 ,07-05-2006,Fam. Salg,140,7419,7,1929,
-580,Villa,Sønderhavvej 10B,6340, Kruså,1970000 ,07-05-2006,Alm. Salg,273,7216,8,1930,
 580,Villa,Højholt 5,6200, Aabenraa,1545000 ,07-05-2006,Alm. Salg,224,6897,9,1963,
 580,Villa,Birkevej 10,6200, Aabenraa,995000 ,07-05-2006,Alm. Salg,105,9476,4,1963,
 580,Villa,Bjerggade 13,6200, Aabenraa,4200000 ,06-05-2006,Alm. Salg,290,14483,8,1914,
@@ -13435,8 +13161,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Kirkeplads 8,6200, Aabenraa,2100000 ,03-04-2006,Alm. Salg,445,4719,12,1737,
 580,Villa,Søst Markvej 3,6230, Rødekro,2320435 ,03-04-2006,Alm. Salg,201,11544,7,1924,
 580,Rækkehus,Åløkke 44B,6372, Bylderup-Bov,370000 ,02-04-2006,Alm. Salg,80,4625,3,1974,
-580,Ejerlejlighed,Terkelsbøl Bygade 50B,6360, Tinglev,90160 ,02-04-2006,Andet,94,593,3,1924,
-580,Villa,Terkelsbøl Bygade 50A,6360, Tinglev,90160 ,02-04-2006,Andet,279,323,6,1924,
 580,Villa,Løgumklostervej 23,6230, Rødekro,250000 ,02-04-2006,Fam. Salg,111,2252,3,1700,
 580,Villa,Kirkegade 52,6230, Rødekro,1050000 ,02-04-2006,Alm. Salg,177,5932,3,1952,
 580,Villa,Brunbjergvej 48,6200, Aabenraa,550000 ,31-03-2006,Fam. Salg,135,4074,6,1975,
@@ -13585,9 +13309,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Vesterballe 22,6230, Rødekro,850000 ,23-02-2006,Alm. Salg,204,4167,7,1916,
 580,Rækkehus,Kirkegårdsvej 26,6200, Aabenraa,50000 ,22-02-2006,Alm. Salg,94,532,3,2006,
 580,Ejerlejlighed,"Frydendal 11F, st. 31",6200, Aabenraa,575000 ,22-02-2006,Alm. Salg,91,6319,2,1974,
-580,Ejerlejlighed,Banegaardspladsen 1,6230, Rødekro,4220000 ,22-02-2006,Alm. Salg,101,41782,3,1964,
-580,Ejerlejlighed,"Hærvejen 32B, 1",6230, Rødekro,4220000 ,22-02-2006,Alm. Salg,100,42200,3,1920,
-580,Ejerlejlighed,"Hærvejen 32C, 1",6230, Rødekro,4220000 ,22-02-2006,Alm. Salg,118,35763,3,1920,
 580,Villa,Søndervejen 22,6340, Kruså,800000 ,22-02-2006,Alm. Salg,237,3376,10,1955,
 580,Villa,Grønningen 8,6340, Kruså,1465000 ,22-02-2006,Alm. Salg,234,6261,7,1979,
 580,Villa,Bygaden 13,6340, Kruså,390000 ,22-02-2006,Alm. Salg,75,5200,3,1932,
@@ -13655,9 +13376,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Kolstrup 32,6200, Aabenraa,270000 ,05-02-2006,Auktion,112,2411,3,1870,
 580,Villa,Grønningen 34,6230, Rødekro,1350000 ,04-02-2006,Alm. Salg,179,7542,5,1972,
 580,Villa,Lunden 20,6230, Rødekro,1225000 ,03-02-2006,Alm. Salg,141,8688,4,1980,
-580,Ejerlejlighed,"Barkmøllegade 6, 1",6200, Aabenraa,2850000 ,02-02-2006,Alm. Salg,112,25446,3,1904,
-580,Ejerlejlighed,"Ramsherred 8, 2",6200, Aabenraa,2850000 ,02-02-2006,Alm. Salg,105,27143,4,1904,
-580,Ejerlejlighed,"Ramsherred 8, 1",6200, Aabenraa,2850000 ,02-02-2006,Alm. Salg,149,19128,4,1904,
 580,Villa,Løjt Nørregade 35,6200, Aabenraa,885000 ,02-02-2006,Alm. Salg,95,9316,3,1800,
 580,Villa,Søndergade 7,6392, Bolderslev,625000 ,01-02-2006,Alm. Salg,142,4401,7,1900,
 580,Villa,Varnæs Søndergade 10,6200, Aabenraa,220000 ,01-02-2006,Alm. Salg,79,2785,3,1890,
@@ -13755,9 +13473,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Bylderup-Bov Bygade 26,6372, Bylderup-Bov,390000 ,27-12-2005,Alm. Salg,169,2308,5,1935,
 580,Villa,Hovedgaden 34A,6360, Tinglev,570000 ,27-12-2005,Alm. Salg,139,4101,6,1922,
 580,Villa,Vingelhøjvej 9,6200, Aabenraa,2100000 ,27-12-2005,Alm. Salg,342,6140,8,1915,
-580,Ejerlejlighed,Ramsherred 19A,6200, Aabenraa,4050000 ,26-12-2005,Alm. Salg,92,44022,2,1700,
-580,Ejerlejlighed,"Skrænten 6, st",6200, Aabenraa,4050000 ,26-12-2005,Alm. Salg,85,47647,3,1930,
-580,Ejerlejlighed,"Skrænten 6, 1",6200, Aabenraa,4050000 ,26-12-2005,Alm. Salg,85,47647,2,1930,
 580,Villa,Lillegade 14,6360, Tinglev,715000 ,24-12-2005,Alm. Salg,105,6810,4,1948,
 580,Villa,Kastanievej 8,6230, Rødekro,637355 ,24-12-2005,Andet,150,4249,5,2004,
 580,Villa,Højtoften 21,6200, Aabenraa,920000 ,22-12-2005,Alm. Salg,112,8214,4,1978,
@@ -13888,15 +13603,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Bredevad Byvej 13,6372, Bylderup-Bov,252287 ,16-11-2005,Alm. Salg,161,1567,3,1920,
 580,Villa,Uge Kådnervej 1,6360, Tinglev,302956 ,16-11-2005,Fam. Salg,171,1772,6,1925,
 580,Villa,Foldingbrovej 15,6230, Rødekro,750000 ,15-11-2005,Alm. Salg,144,5208,5,1877,
-580,Villa,Hovedgaden 18A,6360, Tinglev,820000 ,15-11-2005,Alm. Salg,147,2971,7,1930,
 580,Villa,Perbølvej 4,6392, Bolderslev,687000 ,15-11-2005,Alm. Salg,140,4907,4,1957,
 580,Villa,Væxjøvej 40,6200, Aabenraa,687100 ,15-11-2005,Alm. Salg,139,4943,4,1962,
 580,Villa,Aagade 7,6200, Aabenraa,60000 ,15-11-2005,Alm. Salg,139,432,3,2006,
 580,Ejerlejlighed,"Løkkegårdsvej 11F, 1. tv",6230, Rødekro,745000 ,14-11-2005,Alm. Salg,98,7602,4,1963,
-580,Ejerlejlighed,"Genner Bygade 44, st. tv",6230, Rødekro,836148 ,14-11-2005,Alm. Salg,98,8532,4,1930,
-580,Ejerlejlighed,"Genner Bygade 44, 1",6230, Rødekro,836148 ,14-11-2005,Alm. Salg,104,8040,3,1930,
-580,Ejerlejlighed,"Vesterballe 1, st",6230, Rødekro,836148 ,14-11-2005,Alm. Salg,80,10452,3,1930,
-580,Ejerlejlighed,"Vesterballe 1, 1",6230, Rødekro,836148 ,14-11-2005,Alm. Salg,68,12296,2,1930,
 580,Villa,Engsig 1,6200, Aabenraa,650000 ,14-11-2005,Alm. Salg,217,2995,6,1972,
 580,Villa,Engvej 30,6200, Aabenraa,750000 ,14-11-2005,Alm. Salg,83,9036,3,1957,
 580,Ejerlejlighed,"Rådhusgade 6B, 1. 3",6200, Aabenraa,940000 ,13-11-2005,Alm. Salg,101,9307,3,1967,
@@ -14020,10 +13730,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Kolstien 6,6200, Aabenraa,1500000 ,02-10-2005,Fam. Salg,126,11905,4,1965,
 580,Villa,Bakkegårdsvej 29,6340, Kruså,360000 ,02-10-2005,Alm. Salg,228,1579,7,2007,
 580,Villa,Terkelsbøl Bygade 23,6360, Tinglev,590000 ,01-10-2005,Alm. Salg,116,5086,4,1965,
-580,Ejerlejlighed,"Jernbanegade 15, 1. th",6360, Tinglev,1850000 ,29-09-2005,Alm. Salg,83,22289,3,1898,
-580,Ejerlejlighed,"Jernbanegade 15, 1. tv",6360, Tinglev,1850000 ,29-09-2005,Alm. Salg,62,29839,2,1898,
-580,Ejerlejlighed,"Jernbanegade 17, st",6360, Tinglev,1850000 ,29-09-2005,Alm. Salg,83,22289,3,1898,
-580,Ejerlejlighed,"Hovedgaden 15, st",6360, Tinglev,1850000 ,29-09-2005,Alm. Salg,62,29839,2,1898,
 580,Villa,Nr Ønlevvej 27,6230, Rødekro,680000 ,29-09-2005,Alm. Salg,143,4755,5,1965,
 580,Villa,Gadedam 2,6200, Aabenraa,500000 ,28-09-2005,Alm. Salg,127,3937,5,1897,
 580,Villa,Vibevej 10,6230, Rødekro,675000 ,28-09-2005,Alm. Salg,119,5672,4,1965,
@@ -14089,10 +13795,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Tvedvej 1,6372, Bylderup-Bov,238000 ,12-09-2005,Auktion,169,1408,6,1929,
 580,Villa,Lindeparken 10,6230, Rødekro,138420 ,12-09-2005,Alm. Salg,149,929,5,2006,
 580,Ejerlejlighed,Nygade 47B,6200, Aabenraa,865000 ,11-09-2005,Alm. Salg,100,8650,4,1744,
-580,Ejerlejlighed,"Hærvejen 19, 1",6230, Rødekro,1300000 ,11-09-2005,Alm. Salg,105,12381,5,1910,
-580,Ejerlejlighed,"Hærvejen 19, st. th",6230, Rødekro,1300000 ,11-09-2005,Alm. Salg,35,37143,2,1910,
-580,Ejerlejlighed,"Hærvejen 19, st. tv",6230, Rødekro,1300000 ,11-09-2005,Alm. Salg,95,13684,5,1910,
-580,Ejerlejlighed,Funkevej 1,6230, Rødekro,1300000 ,11-09-2005,Alm. Salg,110,11818,4,1910,
 580,Villa,Dybvighovedvej 204,6200, Aabenraa,870000 ,11-09-2005,Alm. Salg,222,3919,9,1986,
 580,Villa,Løkkegårdsvej 55,6230, Rødekro,1250000 ,11-09-2005,Alm. Salg,150,8333,3,1974,
 580,Villa,Kliplev Søndergade 3,6200, Aabenraa,685000 ,11-09-2005,Alm. Salg,148,4628,4,1934,
@@ -14292,10 +13994,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Bredevad Byvej 13,6372, Bylderup-Bov,4944732 ,06-07-2005,Alm. Salg,161,30713,3,1920,
 580,Villa,Bodum Bygade 5,6200, Aabenraa,350000 ,06-07-2005,Alm. Salg,147,2381,4,1940,
 580,Villa,Vestvejen 181,6200, Aabenraa,1185000 ,06-07-2005,Alm. Salg,127,9331,5,1956,
-580,Ejerlejlighed,Skrænten 64,6200, Aabenraa,2167500 ,05-07-2005,Alm. Salg,55,39409,1,1802,
-580,Ejerlejlighed,"Storegade 23B, 1",6200, Aabenraa,2167500 ,05-07-2005,Alm. Salg,63,34405,3,1802,
-580,Ejerlejlighed,"Skrænten 62, 1",6200, Aabenraa,2167500 ,05-07-2005,Alm. Salg,71,30528,3,1802,
-580,Ejerlejlighed,"Skrænten 62, st",6200, Aabenraa,2167500 ,05-07-2005,Alm. Salg,83,26114,3,1802,
 580,Villa,Åbenråvej 151,6360, Tinglev,715000 ,05-07-2005,Alm. Salg,182,3929,6,1951,
 580,Villa,Åglimt 10,6372, Bylderup-Bov,500000 ,05-07-2005,Alm. Salg,110,4545,4,1966,
 580,Villa,Forstalle 15,6200, Aabenraa,700000 ,05-07-2005,Alm. Salg,168,4167,7,1900,
@@ -14422,11 +14120,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Grønnevej 36,6360, Tinglev,735000 ,30-05-2005,Alm. Salg,151,4868,4,1935,
 580,Villa,Søndermosevej 4,6330, Padborg,425000 ,30-05-2005,Alm. Salg,78,5449,2,1949,
 580,Villa,Skrænten 12,6340, Kruså,625000 ,30-05-2005,Alm. Salg,118,5297,5,1925,
-580,Rækkehus,Lillegade 12A,6200, Aabenraa,1487500 ,29-05-2005,Fam. Salg,149,9983,4,1966,
 580,Villa,Todsbølvej 42,6360, Tinglev,350000 ,29-05-2005,Alm. Salg,192,1823,6,1878,
 580,Villa,Kirkegårdsvej 20,6200, Aabenraa,1437500 ,29-05-2005,Fam. Salg,159,9041,5,1996,
 580,Villa,Skovhøj 42,6200, Aabenraa,1651000 ,29-05-2005,Alm. Salg,143,11545,4,2006,
-580,Villa,Lillegade 12C,6200, Aabenraa,1487500 ,29-05-2005,Fam. Salg,159,9015,5,1964,
 580,Rækkehus,Frueløkke 36,6200, Aabenraa,750000 ,28-05-2005,Alm. Salg,96,7813,4,1980,
 580,Rækkehus,Toften 27,6200, Aabenraa,1045000 ,26-05-2005,Alm. Salg,117,8932,4,1985,
 580,Villa,Uge Allegade 23,6360, Tinglev,610000 ,26-05-2005,Alm. Salg,122,5000,4,1971,
@@ -14506,9 +14202,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Karpedam 7,6200, Aabenraa,2750000 ,03-05-2005,Alm. Salg,292,9418,8,1912,
 580,Rækkehus,Kalveknækket 22,6340, Kruså,825000 ,02-05-2005,Alm. Salg,98,8418,3,1986,
 580,Ejerlejlighed,"Bryggervænget 6, 1. 10",6200, Aabenraa,655000 ,02-05-2005,Alm. Salg,67,9776,2,1969,
-580,Ejerlejlighed,"Barkmøllegade 6, 1",6200, Aabenraa,2750000 ,02-05-2005,Alm. Salg,112,24554,3,1904,
-580,Ejerlejlighed,"Ramsherred 8, 2",6200, Aabenraa,2750000 ,02-05-2005,Alm. Salg,105,26190,4,1904,
-580,Ejerlejlighed,"Ramsherred 8, 1",6200, Aabenraa,2750000 ,02-05-2005,Alm. Salg,149,18456,4,1904,
 580,Villa,Flensborgvej 34,6360, Tinglev,465000 ,02-05-2005,Alm. Salg,109,4266,3,1870,
 580,Villa,Strandgade 3,6200, Aabenraa,1170000 ,02-05-2005,Alm. Salg,170,6882,3,1967,
 580,Villa,Mjølsvej 25,6230, Rødekro,1050000 ,02-05-2005,Alm. Salg,168,6250,5,1973,
@@ -14532,13 +14225,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Ravsted Hovedgade 27,6372, Bylderup-Bov,75000 ,27-04-2005,Alm. Salg,140,536,4,1890,
 580,Villa,Vollerup Byvej 10,6392, Bolderslev,395000 ,26-04-2005,Alm. Salg,100,3950,3,1960,
 580,Villa,Troldkær 8,6200, Aabenraa,1330000 ,26-04-2005,Alm. Salg,151,8365,5,1967,
-580,Ejerlejlighed,Lille Pottergade 2B,6200, Aabenraa,3400000 ,25-04-2005,Alm. Salg,46,73913,2,1877,
-580,Ejerlejlighed,Lille Pottergade 2A,6200, Aabenraa,3400000 ,25-04-2005,Alm. Salg,81,41975,3,1877,
-580,Ejerlejlighed,Lille Pottergade 2C,6200, Aabenraa,3400000 ,25-04-2005,Alm. Salg,79,43038,3,1877,
-580,Ejerlejlighed,Lille Pottergade 2D,6200, Aabenraa,3400000 ,25-04-2005,Alm. Salg,65,52308,3,1877,
-580,Ejerlejlighed,"Store Pottergade 25B, st",6200, Aabenraa,3400000 ,25-04-2005,Alm. Salg,58,58621,2,1877,
-580,Ejerlejlighed,"Store Pottergade 25B, 1. th",6200, Aabenraa,3400000 ,25-04-2005,Alm. Salg,42,80952,2,1877,
-580,Ejerlejlighed,"Store Pottergade 25B, 1. tv",6200, Aabenraa,3400000 ,25-04-2005,Alm. Salg,54,62963,2,1877,
 580,Villa,Smedegade 1,6200, Aabenraa,900000 ,24-04-2005,Alm. Salg,223,4036,7,1911,
 580,Villa,Kirkevej 107,6360, Tinglev,706000 ,24-04-2005,Alm. Salg,137,5153,5,1973,
 580,Villa,Slogsåvej 8,6372, Bylderup-Bov,1583000 ,24-04-2005,Alm. Salg,201,7876,4,1982,
@@ -14566,13 +14252,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Uglekær 24,6200, Aabenraa,1185000 ,17-04-2005,Alm. Salg,153,7745,5,1977,
 580,Villa,Sdr Landevej 12,6200, Aabenraa,356431 ,17-04-2005,Alm. Salg,62,5749,3,1942,
 580,Villa,Bjerndrup Bygade 8,6200, Aabenraa,937500 ,17-04-2005,Alm. Salg,202,4641,9,1913,
-580,Ejerlejlighed,Lille Pottergade 2B,6200, Aabenraa,3740000 ,16-04-2005,Andet,46,81304,2,1877,
-580,Ejerlejlighed,Lille Pottergade 2A,6200, Aabenraa,3740000 ,16-04-2005,Andet,81,46173,3,1877,
-580,Ejerlejlighed,Lille Pottergade 2C,6200, Aabenraa,3740000 ,16-04-2005,Andet,79,47342,3,1877,
-580,Ejerlejlighed,Lille Pottergade 2D,6200, Aabenraa,3740000 ,16-04-2005,Andet,65,57538,3,1877,
-580,Ejerlejlighed,"Store Pottergade 25B, st",6200, Aabenraa,3740000 ,16-04-2005,Andet,58,64483,2,1877,
-580,Ejerlejlighed,"Store Pottergade 25B, 1. th",6200, Aabenraa,3740000 ,16-04-2005,Andet,42,89048,2,1877,
-580,Ejerlejlighed,"Store Pottergade 25B, 1. tv",6200, Aabenraa,3740000 ,16-04-2005,Andet,54,69259,2,1877,
 580,Villa,Søndervejen 38,6340, Kruså,548000 ,15-04-2005,Alm. Salg,137,4000,5,1946,
 580,Villa,Rådmandsløkken 12,6200, Aabenraa,750000 ,14-04-2005,Alm. Salg,104,7212,3,1976,
 580,Villa,Jernbanegade 3,6200, Aabenraa,1695000 ,14-04-2005,Alm. Salg,204,8309,6,1936,
@@ -14705,7 +14384,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Lille Kolstrup 24B,6200, Aabenraa,2100000 ,02-03-2005,Alm. Salg,233,9013,7,1967,
 580,Villa,Frueløkke 187,6200, Aabenraa,1395000 ,01-03-2005,Alm. Salg,131,10649,5,1986,
 580,Villa,Eskedalvej 7,6200, Aabenraa,1950000 ,01-03-2005,Alm. Salg,184,10598,6,2012,
-580,Villa,Bajstrup Bygade 51C,6360, Tinglev,700000 ,01-03-2005,Fam. Salg,414,1691,10,1927,
 580,Villa,Søndergade 1A,6392, Bolderslev,475000 ,01-03-2005,Alm. Salg,96,4948,2,1905,
 580,Villa,Gravløkke 57,6372, Bylderup-Bov,35500 ,28-02-2005,Alm. Salg,193,184,4,2005,
 580,Villa,Bag Volden 10,6392, Bolderslev,455547 ,28-02-2005,Alm. Salg,158,2883,5,1974,
@@ -14793,8 +14471,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Svinget 6,6200, Aabenraa,1225000 ,26-01-2005,Alm. Salg,181,6768,7,1922,
 580,Villa,Margretetoft 7,6372, Bylderup-Bov,830000 ,26-01-2005,Fam. Salg,138,6014,4,1998,
 580,Ejerlejlighed,"Frydendal 11G, 1. 52",6200, Aabenraa,520000 ,25-01-2005,Alm. Salg,91,5714,2,1974,
-580,Ejerlejlighed,"Nørregade 26A, 1",6330, Padborg,675000 ,25-01-2005,Alm. Salg,70,9643,2,1927,
-580,Villa,Nørregade 26B,6330, Padborg,675000 ,25-01-2005,Alm. Salg,167,4042,6,1971,
 580,Villa,Slotsgade 28,6200, Aabenraa,1200000 ,24-01-2005,Alm. Salg,170,7059,5,1798,
 580,Villa,Nybro 11,6200, Aabenraa,500000 ,24-01-2005,Alm. Salg,73,6849,3,1845,
 580,Ejerlejlighed,"Gamle Kongevej 43, 2",6200, Aabenraa,330000 ,22-01-2005,Alm. Salg,77,4286,4,1938,
@@ -14834,11 +14510,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Nygade 68,6330, Padborg,815000 ,10-01-2005,Alm. Salg,107,7617,4,1988,
 580,Villa,Hovedgaden 49,6360, Tinglev,580000 ,10-01-2005,Alm. Salg,106,5472,4,1961,
 580,Villa,Varnæsvej 181,6200, Aabenraa,2500000 ,10-01-2005,Alm. Salg,223,11211,6,2008,
-580,Ejerlejlighed,Viaduktvej 1,6360, Tinglev,959000 ,09-01-2005,Alm. Salg,55,17436,2,1939,
-580,Ejerlejlighed,"Hovedgaden 14, st. th",6360, Tinglev,959000 ,09-01-2005,Alm. Salg,60,15983,2,1939,
-580,Ejerlejlighed,"Hovedgaden 14, 1. th",6360, Tinglev,959000 ,09-01-2005,Alm. Salg,50,19180,2,1939,
-580,Ejerlejlighed,"Hovedgaden 14, st. tv",6360, Tinglev,959000 ,09-01-2005,Alm. Salg,48,19979,2,1939,
-580,Ejerlejlighed,"Hovedgaden 14, 1. tv",6360, Tinglev,959000 ,09-01-2005,Alm. Salg,54,17759,2,1939,
 580,Villa,Stemmildvej 34,6372, Bylderup-Bov,245000 ,09-01-2005,Alm. Salg,84,2917,3,1928,
 580,Villa,Broderup Byvej 7,6360, Tinglev,1315000 ,09-01-2005,Alm. Salg,167,7874,5,2007,
 580,Villa,Tøndervej 259,6200, Aabenraa,995000 ,06-01-2005,Alm. Salg,97,10258,4,1954,
@@ -14886,7 +14557,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Ravsted Nørregade 25,6372, Bylderup-Bov,350000 ,12-12-2004,Andet,105,3333,3,1965,
 580,Villa,Fogderup Bygade 22,6372, Bylderup-Bov,545000 ,12-12-2004,Alm. Salg,173,3150,5,1900,
 580,Villa,Centrumsgaden 39,6330, Padborg,773111 ,12-12-2004,Alm. Salg,166,4657,5,1976,
-580,Villa,Søndervænget 1,6230, Rødekro,570000 ,12-12-2004,Alm. Salg,70,4957,5,1928,
 580,Villa,Vollerup Byvej 46,6392, Bolderslev,499000 ,12-12-2004,Alm. Salg,247,2020,7,1831,
 580,Villa,Barkmøllegade 10,6200, Aabenraa,550000 ,12-12-2004,Alm. Salg,103,5340,5,1877,
 580,Villa,Tværvejen 10,6360, Tinglev,475000 ,09-12-2004,Alm. Salg,146,3253,6,1945,
@@ -14906,7 +14576,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Kalvehaven 4,6330, Padborg,730000 ,05-12-2004,Alm. Salg,126,5794,4,1975,
 580,Villa,Præstegaardsvej 6,6200, Aabenraa,288293 ,04-12-2004,Andet,170,1696,6,1870,
 580,Villa,Pilekær 3,6200, Aabenraa,836056 ,04-12-2004,Alm. Salg,166,5036,6,2001,
-580,Villa,Hærvejen 57,6230, Rødekro,865000 ,04-12-2004,Alm. Salg,60,14417,2,1914,
 580,Villa,Vognmarken 5,6330, Padborg,500000 ,04-12-2004,Alm. Salg,78,6410,3,1945,
 580,Villa,Nørbyvej 19A,6200, Aabenraa,173500 ,03-12-2004,Andet,72,2410,2,1956,
 580,Villa,Hokkerup Gade 6,6340, Kruså,2263214 ,03-12-2004,Alm. Salg,301,7519,10,1854,
@@ -14971,9 +14640,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Kromai 49,6200, Aabenraa,1200000 ,08-11-2004,Alm. Salg,156,7692,5,1977,
 580,Villa,Toften 15,6200, Aabenraa,860000 ,08-11-2004,Alm. Salg,92,9348,3,1953,
 580,Villa,Vingelhøjvej 2G,6200, Aabenraa,1280000 ,08-11-2004,Alm. Salg,188,6809,6,2009,
-580,Ejerlejlighed,Ramsherred 19A,6200, Aabenraa,3200000 ,07-11-2004,Alm. Salg,92,34783,2,1700,
-580,Ejerlejlighed,"Skrænten 6, st",6200, Aabenraa,3200000 ,07-11-2004,Alm. Salg,85,37647,3,1930,
-580,Ejerlejlighed,"Skrænten 6, 1",6200, Aabenraa,3200000 ,07-11-2004,Alm. Salg,85,37647,2,1930,
 580,Villa,Hjelmalle 21,6200, Aabenraa,1325000 ,07-11-2004,Alm. Salg,253,5237,8,1922,
 580,Villa,Mejerivej 4,6330, Padborg,560000 ,07-11-2004,Alm. Salg,150,3733,4,1958,
 580,Villa,Agertoften 25,6230, Rødekro,1000000 ,07-11-2004,Alm. Salg,136,7353,5,1977,
@@ -15207,8 +14873,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Løjt Nørregade 36,6200, Aabenraa,115000 ,23-07-2004,Alm. Salg,138,833,5,1864,
 580,Villa,Terkelsbøl Bygade 74,6360, Tinglev,660000 ,22-07-2004,Alm. Salg,326,2025,10,1887,
 580,Villa,Løjt Skolegade 16,6200, Aabenraa,383484 ,22-07-2004,Alm. Salg,152,2523,6,1952,
-580,Rækkehus,Torp Bygade 26,6200, Aabenraa,1785000 ,21-07-2004,Alm. Salg,156,11442,5,1857,
-580,Villa,Torp Bygade 28,6200, Aabenraa,1785000 ,21-07-2004,Alm. Salg,273,6538,7,1857,
 580,Ejerlejlighed,"Frydendal 11G, 1. 51",6200, Aabenraa,570000 ,20-07-2004,Alm. Salg,91,6264,2,1974,
 580,Villa,Savværksvej 19,6230, Rødekro,268999 ,20-07-2004,Alm. Salg,173,1555,5,2005,
 580,Villa,Stadionvej 15,6392, Bolderslev,450000 ,20-07-2004,Alm. Salg,117,3846,4,1946,
@@ -15307,7 +14971,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Agertoften 4,6230, Rødekro,947500 ,12-06-2004,Alm. Salg,147,6446,5,1977,
 580,Villa,Lærkeparken 13,6230, Rødekro,208260 ,11-06-2004,Alm. Salg,177,1177,5,2006,
 580,Villa,Gl Skolevej 4,6200, Aabenraa,400000 ,11-06-2004,Alm. Salg,147,2721,6,1850,
-580,Villa,Oksevej 10A,6330, Padborg,680000 ,10-06-2004,Alm. Salg,49,13878,2,1948,
 580,Villa,Grønningen 33,6340, Kruså,1175000 ,10-06-2004,Alm. Salg,223,5269,8,1979,
 580,Villa,Gammel Sottrupvej 11,6372, Bylderup-Bov,845000 ,10-06-2004,Alm. Salg,157,5382,4,1981,
 580,Villa,Søndervang 13,6200, Aabenraa,100000 ,09-06-2004,Alm. Salg,105,952,4,2005,
@@ -15369,7 +15032,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Sofiedalvej 57,6330, Padborg,495000 ,24-05-2004,Alm. Salg,98,5051,4,1952,
 580,Villa,Gamle Kongevej 68,6200, Aabenraa,500000 ,23-05-2004,Fam. Salg,120,4167,4,1933,
 580,Villa,Ribevej 36,6230, Rødekro,395000 ,23-05-2004,Alm. Salg,109,3624,6,1956,
-580,Villa,Hærvejen 57,6230, Rødekro,570000 ,23-05-2004,Fam. Salg,60,9500,2,1914,
 580,Villa,Årslev Kirkevej 3,6230, Rødekro,800000 ,23-05-2004,Alm. Salg,376,2128,5,1868,
 580,Villa,Rens Voldgade 8,6372, Bylderup-Bov,430000 ,22-05-2004,Alm. Salg,110,3909,4,1979,
 580,Villa,Hokkerup Gade 2,6340, Kruså,1425000 ,20-05-2004,Alm. Salg,298,4782,5,1777,
@@ -15393,8 +15055,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Adelbyvej 18,6330, Padborg,960000 ,10-05-2004,Alm. Salg,132,7273,4,1980,
 580,Villa,Hærulfgade 2,6230, Rødekro,383000 ,10-05-2004,Alm. Salg,95,4032,4,1906,
 580,Rækkehus,Slotsgade 42,6200, Aabenraa,500000 ,09-05-2004,Auktion,227,2203,8,1900,
-580,Ejerlejlighed,"Ramsherred 45C, 1",6200, Aabenraa,800000 ,09-05-2004,Alm. Salg,151,5298,5,1827,
-580,Villa,Forstalle 73,6200, Aabenraa,800000 ,09-05-2004,Alm. Salg,162,4938,7,1962,
 580,Villa,Ravsted Hovedgade 74,6372, Bylderup-Bov,250000 ,09-05-2004,Auktion,180,1389,9,1936,
 580,Villa,Hovedgaden 35,6360, Tinglev,650000 ,09-05-2004,Alm. Salg,194,3351,6,1909,
 580,Rækkehus,Fladholm 46,6200, Aabenraa,1085000 ,05-05-2004,Alm. Salg,121,8967,5,1981,
@@ -15432,9 +15092,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Jellingvej 4,6330, Padborg,625000 ,21-04-2004,Alm. Salg,131,4771,4,1964,
 580,Villa,Gl Skovbølvej 10,6200, Aabenraa,575000 ,20-04-2004,Alm. Salg,87,6609,2,1967,
 580,Villa,Sønderborgvej 124,6200, Aabenraa,275000 ,20-04-2004,Alm. Salg,124,2218,3,1927,
-580,Rækkehus,Torp Bygade 26,6200, Aabenraa,1500000 ,19-04-2004,Alm. Salg,156,9615,5,1857,
 580,Villa,Løkkegårdsvej 59,6230, Rødekro,1100000 ,19-04-2004,Alm. Salg,153,7190,3,1975,
-580,Villa,Torp Bygade 28,6200, Aabenraa,1500000 ,19-04-2004,Alm. Salg,273,5495,7,1857,
 580,Villa,Søndermosevej 19,6330, Padborg,845000 ,19-04-2004,Alm. Salg,179,4721,6,1966,
 580,Villa,Savværksvej 13,6230, Rødekro,210374 ,18-04-2004,Alm. Salg,145,1451,5,2005,
 580,Villa,Farverhus 8,6200, Aabenraa,925000 ,18-04-2004,Alm. Salg,99,9343,4,1952,
@@ -15572,8 +15230,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Jørgensgård 19,6200, Aabenraa,3065000 ,29-02-2004,Alm. Salg,233,13155,7,1932,
 580,Villa,Hulvejen 10,6340, Kruså,850000 ,29-02-2004,Alm. Salg,127,6693,4,1967,
 580,Villa,Sportsvej 3,6360, Tinglev,690000 ,29-02-2004,Alm. Salg,159,4340,4,1964,
-580,Rækkehus,Torp Bygade 26,6200, Aabenraa,1500000 ,28-02-2004,Alm. Salg,156,9615,5,1857,
-580,Villa,Torp Bygade 28,6200, Aabenraa,1500000 ,28-02-2004,Alm. Salg,273,5495,7,1857,
 580,Villa,Rens Bygade 18,6372, Bylderup-Bov,494000 ,27-02-2004,Alm. Salg,196,2520,6,1947,
 580,Villa,Åløkke 82,6372, Bylderup-Bov,510000 ,26-02-2004,Alm. Salg,132,3864,4,1975,
 580,Villa,Klintvej 2,6230, Rødekro,500000 ,26-02-2004,Alm. Salg,227,2203,5,1899,
@@ -15664,7 +15320,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Løkkegårdsvej 122,6230, Rødekro,433108 ,27-01-2004,Alm. Salg,97,4465,4,1975,
 580,Rækkehus,Hybenvænget 26,6360, Tinglev,350000 ,26-01-2004,Alm. Salg,89,3933,4,1980,
 580,Ejerlejlighed,"Jaruplundvej 9, 1. 3",6330, Padborg,375000 ,26-01-2004,Alm. Salg,63,5952,2,1979,
-580,Ejerlejlighed,"Søndergade 20A, 2",6200, Aabenraa,1991773 ,26-01-2004,Alm. Salg,139,14329,2,1758,
 580,Villa,Lillevang 2,6230, Rødekro,650000 ,26-01-2004,Alm. Salg,100,6500,4,1955,
 580,Villa,Volmersvej 6,6330, Padborg,605000 ,25-01-2004,Alm. Salg,110,5500,4,1932,
 580,Villa,Søgård Ringvej 20,6200, Aabenraa,895000 ,25-01-2004,Alm. Salg,170,5265,3,1973,
@@ -15722,10 +15377,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Buskhøjvej 37,6330, Padborg,598683 ,04-01-2004,Alm. Salg,129,4641,4,1964,
 580,Villa,Lavgade 20,6200, Aabenraa,875000 ,04-01-2004,Alm. Salg,90,9722,3,1907,
 580,Villa,Hasselkær 55,6200, Aabenraa,1250000 ,02-01-2004,Alm. Salg,145,8621,6,2003,
-580,Ejerlejlighed,"Jernbanegade 15, 1. th",6360, Tinglev,11253 ,01-01-2004,Alm. Salg,83,136,3,1898,
-580,Ejerlejlighed,"Jernbanegade 15, 1. tv",6360, Tinglev,11253 ,01-01-2004,Alm. Salg,62,182,2,1898,
-580,Ejerlejlighed,"Jernbanegade 17, st",6360, Tinglev,11253 ,01-01-2004,Alm. Salg,83,136,3,1898,
-580,Ejerlejlighed,"Hovedgaden 15, st",6360, Tinglev,11253 ,01-01-2004,Alm. Salg,62,182,2,1898,
 580,Villa,Todsbølvej 38,6360, Tinglev,148511 ,01-01-2004,Alm. Salg,172,863,7,1700,
 580,Villa,Fjordvejen 74,6340, Kruså,3500000 ,31-12-2003,Alm. Salg,213,16432,7,2006,
 580,Villa,Sønder Hostrup Bygade 30,6200, Aabenraa,350000 ,31-12-2003,Alm. Salg,70,5000,4,1880,
@@ -15767,10 +15418,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Frueløkke 145,6200, Aabenraa,1300000 ,10-12-2003,Alm. Salg,157,8280,5,1986,
 580,Villa,Flydsholmvej 3,6372, Bylderup-Bov,8704000 ,10-12-2003,Alm. Salg,288,30222,10,1933,
 580,Villa,Havremarken 55,6340, Kruså,570000 ,10-12-2003,Alm. Salg,125,4560,5,1980,
-580,Rækkehus,Hærvejen 59A,6330, Padborg,1630000 ,09-12-2003,Fam. Salg,126,12937,5,1875,
 580,Villa,Gamle Kongevej 50,6200, Aabenraa,912500 ,09-12-2003,Alm. Salg,131,6966,4,1914,
 580,Villa,Kastanievej 5,6230, Rødekro,188825 ,09-12-2003,Alm. Salg,154,1226,5,2004,
-580,Villa,Hærvejen 59C,6330, Padborg,1630000 ,09-12-2003,Fam. Salg,268,6082,6,1978,
 580,Villa,Haderslevvej 29,6200, Aabenraa,650000 ,09-12-2003,Alm. Salg,130,5000,5,1875,
 580,Villa,Høgelsbjerg 60,6200, Aabenraa,1150000 ,08-12-2003,Fam. Salg,192,5990,4,1973,
 580,Villa,Fjordvej 76,6200, Aabenraa,368000 ,08-12-2003,Alm. Salg,274,1343,8,2005,
@@ -15872,12 +15521,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Solsortvej 6,6230, Rødekro,800000 ,28-10-2003,Alm. Salg,149,5369,5,1973,
 580,Villa,Hovedgaden 122D,6360, Tinglev,990000 ,28-10-2003,Alm. Salg,141,7021,4,2001,
 580,Rækkehus,Hybenvænget 32,6360, Tinglev,400000 ,27-10-2003,Alm. Salg,86,4651,4,1980,
-580,Ejerlejlighed,"Callesensgade 32, st. th",6200, Aabenraa,1950000 ,27-10-2003,Alm. Salg,31,62903,1,1900,
-580,Ejerlejlighed,"Callesensgade 32, st. tv",6200, Aabenraa,1950000 ,27-10-2003,Alm. Salg,36,54167,2,1900,
-580,Ejerlejlighed,"Callesensgade 34, st",6200, Aabenraa,1950000 ,27-10-2003,Alm. Salg,117,16667,4,1900,
-580,Ejerlejlighed,"Callesensgade 34, 1",6200, Aabenraa,1950000 ,27-10-2003,Alm. Salg,152,12829,6,1900,
-580,Ejerlejlighed,"Callesensgade 34, 2",6200, Aabenraa,1950000 ,27-10-2003,Alm. Salg,152,12829,6,1900,
-580,Ejerlejlighed,Forstalle 8,6200, Aabenraa,1950000 ,27-10-2003,Alm. Salg,88,22159,2,1900,
 580,Villa,Vestergade 6,6330, Padborg,1075000 ,27-10-2003,Alm. Salg,298,3607,9,1904,
 580,Villa,Bygmarken 38,6360, Tinglev,950000 ,27-10-2003,Alm. Salg,180,5278,6,1980,
 580,Villa,Flensborgvej 312,6200, Aabenraa,170000 ,27-10-2003,Alm. Salg,101,1683,3,1878,
@@ -16002,13 +15645,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Hellevadvej 68,6230, Rødekro,800000 ,14-09-2003,Alm. Salg,94,8511,4,1961,
 580,Villa,Haderslevvej 113,6200, Aabenraa,760000 ,14-09-2003,Auktion,178,4270,7,1956,
 580,Villa,Vestervang 23,6230, Rødekro,695000 ,14-09-2003,Alm. Salg,130,5346,5,1965,
-580,Ejerlejlighed,J P Junggreens Gang 1,6200, Aabenraa,1700000 ,12-09-2003,Fam. Salg,70,24286,3,1951,
-580,Ejerlejlighed,"Ramsherred 41B, 1. th",6200, Aabenraa,1700000 ,12-09-2003,Fam. Salg,62,27419,2,1951,
-580,Ejerlejlighed,"Ramsherred 41B, 2. th",6200, Aabenraa,1700000 ,12-09-2003,Fam. Salg,60,28333,2,1951,
-580,Ejerlejlighed,"Ramsherred 41B, 2. tv",6200, Aabenraa,1700000 ,12-09-2003,Fam. Salg,85,20000,3,1951,
-580,Ejerlejlighed,"Ramsherred 41B, 3. tv",6200, Aabenraa,1700000 ,12-09-2003,Fam. Salg,55,30909,3,1951,
-580,Ejerlejlighed,"Ramsherred 41B, 3. th",6200, Aabenraa,1700000 ,12-09-2003,Fam. Salg,73,23288,2,1951,
-580,Ejerlejlighed,"Ramsherred 41B, 1. tv",6200, Aabenraa,1700000 ,12-09-2003,Fam. Salg,83,20482,3,1951,
 580,Rækkehus,Frueløkke 74,6200, Aabenraa,685000 ,11-09-2003,Alm. Salg,87,7874,4,1980,
 580,Villa,Nørrevang 1,6200, Aabenraa,810000 ,10-09-2003,Alm. Salg,108,7500,4,1958,
 580,Villa,Flensborgvej 131,6360, Tinglev,180000 ,10-09-2003,Alm. Salg,92,1957,3,1952,
@@ -16020,7 +15656,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Engvej 7,6200, Aabenraa,850000 ,09-09-2003,Fam. Salg,83,10241,2,1998,
 580,Ejerlejlighed,"Klinkbjerg 4A, 2. tv",6200, Aabenraa,540000 ,08-09-2003,Alm. Salg,64,8438,2,1900,
 580,Villa,Kravlundvej 2,6360, Tinglev,707500 ,08-09-2003,Alm. Salg,218,3245,6,1968,
-580,Villa,Søndergade 18C,6200, Aabenraa,1300000 ,07-09-2003,Alm. Salg,108,12037,3,1880,
 580,Villa,Tøndervej 157,6200, Aabenraa,340000 ,07-09-2003,Alm. Salg,197,1726,5,1912,
 580,Villa,Nr Ønlevvej 20,6230, Rødekro,355000 ,04-09-2003,Alm. Salg,124,2863,6,1946,
 580,Villa,Søndervejen 30,6340, Kruså,330000 ,03-09-2003,Alm. Salg,144,2292,5,1952,
@@ -16338,12 +15973,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Rækkehus,Aabenraavej 9A,6340, Kruså,1850000 ,28-04-2003,Alm. Salg,79,23418,3,1935,
 580,Villa,Frøslevvej 10B,6330, Padborg,550000 ,28-04-2003,Alm. Salg,110,5000,5,1957,
 580,Villa,Forstalle 90,6200, Aabenraa,990000 ,28-04-2003,Alm. Salg,120,8250,4,1965,
-580,Ejerlejlighed,"Callesensgade 32, st. th",6200, Aabenraa,675000 ,27-04-2003,Fam. Salg,31,21774,1,1900,
-580,Ejerlejlighed,"Callesensgade 32, st. tv",6200, Aabenraa,675000 ,27-04-2003,Fam. Salg,36,18750,2,1900,
-580,Ejerlejlighed,"Callesensgade 34, st",6200, Aabenraa,675000 ,27-04-2003,Fam. Salg,117,5769,4,1900,
-580,Ejerlejlighed,"Callesensgade 34, 1",6200, Aabenraa,675000 ,27-04-2003,Fam. Salg,152,4441,6,1900,
-580,Ejerlejlighed,"Callesensgade 34, 2",6200, Aabenraa,675000 ,27-04-2003,Fam. Salg,152,4441,6,1900,
-580,Ejerlejlighed,Forstalle 8,6200, Aabenraa,675000 ,27-04-2003,Fam. Salg,88,7670,2,1900,
 580,Villa,Tøndervej 207,6200, Aabenraa,915000 ,27-04-2003,Alm. Salg,127,7205,3,1956,
 580,Villa,Møllepold 30,6200, Aabenraa,738672 ,27-04-2003,Alm. Salg,143,5166,8,1963,
 580,Villa,Møllevænget 17,6200, Aabenraa,1926063 ,27-04-2003,Alm. Salg,159,12114,5,1995,
@@ -16563,7 +16192,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Frueløkke 193,6200, Aabenraa,156750 ,20-01-2003,Andet,175,896,5,2006,
 580,Rækkehus,Gartnervænget 4,6360, Tinglev,435000 ,19-01-2003,Alm. Salg,75,5800,3,1990,
 580,Ejerlejlighed,Lundtoft Bygade 1A,6200, Aabenraa,145919 ,19-01-2003,Auktion,192,760,5,1902,
-580,Rækkehus,Kolstrup 39A,6200, Aabenraa,1100000 ,17-01-2003,Alm. Salg,56,19643,2,1988,
 580,Villa,Enghaven 14,6230, Rødekro,925000 ,17-01-2003,Alm. Salg,169,5473,5,1973,
 580,Villa,Timianvænget 27,6360, Tinglev,832236 ,16-01-2003,Alm. Salg,161,5169,5,1984,
 580,Ejerlejlighed,"Storegade 24, 1",6200, Aabenraa,6950000 ,15-01-2003,Andet,237,29325,7,1723,
@@ -16674,7 +16302,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Ottergårdforte 75,6200, Aabenraa,7464937 ,25-11-2002,Andet,482,15487,8,1850,
 580,Villa,Spramshusevej 153,6200, Aabenraa,2051054 ,25-11-2002,Andet,109,18817,5,1745,
 580,Villa,Løjt Skolegade 4,6200, Aabenraa,3934581 ,25-11-2002,Andet,200,19673,6,1765,
-580,Villa,Skibbroen 8B,6200, Aabenraa,1500000 ,25-11-2002,Andet,50,30000,2,1870,
 580,Villa,Sønderballevej 37,6230, Rødekro,3382170 ,25-11-2002,Andet,122,27723,5,1973,
 580,Villa,Rundemøllevej 180,6200, Aabenraa,10837072 ,25-11-2002,Andet,210,51605,5,1874,
 580,Villa,Stennevej 76,6200, Aabenraa,4365621 ,25-11-2002,Andet,279,15647,6,1965,
@@ -16687,7 +16314,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Barsmark Bygade 260,6200, Aabenraa,1839527 ,25-11-2002,Andet,120,15329,5,1770,
 580,Villa,Barsmark Bygade 261,6200, Aabenraa,731282 ,25-11-2002,Andet,85,8603,4,1968,
 580,Villa,Løjt Gildegade 2,6200, Aabenraa,520000 ,25-11-2002,Andet,57,9123,2,1827,
-580,Villa,Skibbrogade 9B,6200, Aabenraa,2105940 ,25-11-2002,Andet,94,22404,2,1897,
 580,Villa,Barsmark Bygade 231,6200, Aabenraa,620030 ,25-11-2002,Andet,90,6889,3,1700,
 580,Villa,Barsmark Bygade 232,6200, Aabenraa,1897922 ,25-11-2002,Andet,124,15306,6,1800,
 580,Villa,Barsmark Bygade 238,6200, Aabenraa,3243581 ,25-11-2002,Andet,166,19540,5,1788,
@@ -16785,12 +16411,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Bøgevang 5,6200, Aabenraa,465000 ,13-10-2002,Alm. Salg,102,4559,3,1974,
 580,Villa,Vestertoft 29,6230, Rødekro,810000 ,13-10-2002,Alm. Salg,154,5260,5,1966,
 580,Villa,Flensborglandevej 1,6360, Tinglev,725000 ,13-10-2002,Alm. Salg,175,4143,6,1932,
-580,Ejerlejlighed,"Barkmøllegade 12, st",6200, Aabenraa,3500000 ,10-10-2002,Alm. Salg,74,47297,2,1877,
-580,Ejerlejlighed,"Barkmøllegade 12, 1",6200, Aabenraa,3500000 ,10-10-2002,Alm. Salg,74,47297,2,1877,
-580,Ejerlejlighed,"Borgmester Finks Gade 4C, st",6200, Aabenraa,3500000 ,10-10-2002,Alm. Salg,57,61404,2,1877,
-580,Ejerlejlighed,"Borgmester Finks Gade 4A, st. tv",6200, Aabenraa,3500000 ,10-10-2002,Alm. Salg,119,29412,4,1877,
-580,Ejerlejlighed,"Borgmester Finks Gade 4A, st. th",6200, Aabenraa,3500000 ,10-10-2002,Alm. Salg,54,64815,2,1877,
-580,Ejerlejlighed,"Borgmester Finks Gade 2B, 1",6200, Aabenraa,3500000 ,10-10-2002,Alm. Salg,134,26119,4,1877,
 580,Villa,Dyreparkvej 9,6372, Bylderup-Bov,140108 ,10-10-2002,Alm. Salg,237,591,7,2012,
 580,Rækkehus,Frydendalvej 17A,6330, Padborg,1170000 ,09-10-2002,Alm. Salg,43,27209,2,1989,
 580,Ejerlejlighed,"Kallemosen 1, st. tv",6200, Aabenraa,1250000 ,09-10-2002,Alm. Salg,98,12755,3,1984,
@@ -16878,7 +16498,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Gl Skolevej 19,6200, Aabenraa,398000 ,04-09-2002,Fam. Salg,174,1834,10,1863,
 580,Villa,Skolegade 24,6340, Kruså,390000 ,04-09-2002,Alm. Salg,94,4149,3,1962,
 580,Villa,Fjordvej 68,6200, Aabenraa,422000 ,04-09-2002,Alm. Salg,213,1981,4,2003,
-580,Villa,Kolstrup 25B,6200, Aabenraa,1100000 ,03-09-2002,Alm. Salg,119,9244,3,1930,
 580,Villa,Skibbrogade 14,6200, Aabenraa,300000 ,03-09-2002,Alm. Salg,74,4054,3,1744,
 580,Villa,Mellerup Bygade 10,6392, Bolderslev,525000 ,02-09-2002,Alm. Salg,131,4008,4,1868,
 580,Ejerlejlighed,"Reberbanen 43, 2. tv",6200, Aabenraa,565000 ,01-09-2002,Alm. Salg,76,7434,3,1939,
@@ -17128,7 +16747,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Søndermosevej 9,6330, Padborg,570000 ,16-05-2002,Alm. Salg,86,6628,3,1966,
 580,Villa,Nørrevang 3,6230, Rødekro,915000 ,16-05-2002,Alm. Salg,138,6630,5,1973,
 580,Villa,Gammel Tinglevvej 9,6200, Aabenraa,590000 ,14-05-2002,Alm. Salg,111,5315,6,1949,
-580,Villa,Aabenraavej 3B,6340, Kruså,633113 ,13-05-2002,Alm. Salg,54,11724,2,1955,
 580,Villa,Flensborglandevej 38,6360, Tinglev,515000 ,13-05-2002,Alm. Salg,179,2877,4,1935,
 580,Villa,Holmvej 1,6200, Aabenraa,1690000 ,12-05-2002,Alm. Salg,170,9941,7,1927,
 580,Villa,Pebersmarkvej 38,6372, Bylderup-Bov,500000 ,12-05-2002,Fam. Salg,142,3521,4,1967,
@@ -17201,7 +16819,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Fjordvej 66,6200, Aabenraa,314000 ,11-04-2002,Alm. Salg,237,1325,7,2003,
 580,Villa,Engvej 18,6372, Bylderup-Bov,434033 ,11-04-2002,Alm. Salg,100,4340,4,1958,
 580,Ejerlejlighed,"Skrænten 50, st. th",6200, Aabenraa,625000 ,10-04-2002,Alm. Salg,76,8224,2,1827,
-580,Villa,Nygade 38B,6200, Aabenraa,2400000 ,10-04-2002,Alm. Salg,110,21818,4,1902,
 580,Villa,Vollerup Byvej 18,6392, Bolderslev,655000 ,10-04-2002,Alm. Salg,200,3275,8,1890,
 580,Villa,Rundemøllevej 34,6200, Aabenraa,875000 ,10-04-2002,Alm. Salg,144,6076,4,1939,
 580,Villa,Skovbølgårdsmark 3,6200, Aabenraa,665981 ,09-04-2002,Alm. Salg,183,3639,5,1907,
@@ -17321,7 +16938,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Buen 88A,6200, Aabenraa,1630000 ,19-02-2002,Alm. Salg,195,8359,5,1988,
 580,Villa,Toften 3,6230, Rødekro,675000 ,19-02-2002,Alm. Salg,109,6193,4,1970,
 580,Villa,Lindbjerg 82,6200, Aabenraa,950000 ,19-02-2002,Alm. Salg,204,4657,8,1961,
-580,Villa,Slotsgade 23B,6200, Aabenraa,425000 ,19-02-2002,Fam. Salg,118,3602,5,1707,
 580,Villa,Sejersholt 10,6200, Aabenraa,890000 ,19-02-2002,Alm. Salg,106,8396,4,1968,
 580,Villa,Hasselkær 35,6200, Aabenraa,700000 ,19-02-2002,Andet,176,3977,5,1991,
 580,Villa,Grønnevej 20,6200, Aabenraa,1300000 ,19-02-2002,Alm. Salg,100,13000,4,1966,
@@ -17345,7 +16961,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Løjt Nørregade 46,6200, Aabenraa,700000 ,10-02-2002,Alm. Salg,120,5833,5,1959,
 580,Villa,Savværksvej 72,6230, Rødekro,262564 ,10-02-2002,Alm. Salg,184,1427,5,2005,
 580,Villa,Storegade 6,6340, Kruså,498000 ,09-02-2002,Alm. Salg,170,2929,7,1877,
-580,Villa,Kummelefort 21A,6340, Kruså,1045665 ,08-02-2002,Alm. Salg,116,9014,4,1945,
 580,Ejerlejlighed,Ramsherred 12B,6200, Aabenraa,2200000 ,07-02-2002,Alm. Salg,96,22917,4,1900,
 580,Villa,Grønningen 69,6230, Rødekro,860000 ,07-02-2002,Alm. Salg,156,5513,5,1971,
 580,Villa,Kongensgade 112,6200, Aabenraa,370000 ,07-02-2002,Alm. Salg,113,3274,3,1965,
@@ -17379,8 +16994,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Bjerndrup Bygade 14,6200, Aabenraa,437000 ,27-01-2002,Alm. Salg,192,2276,9,1910,
 580,Villa,Flensborgvej 52,6360, Tinglev,235000 ,25-01-2002,Alm. Salg,140,1416,5,1750,
 580,Villa,Havretoften 24,6200, Aabenraa,850000 ,25-01-2002,Fam. Salg,140,6071,4,1977,
-580,Rækkehus,Kirkegårdsvej 28,6200, Aabenraa,500000 ,24-01-2002,Alm. Salg,85,5882,2,1987,
-580,Villa,Blansvej 13,6200, Aabenraa,500000 ,24-01-2002,Alm. Salg,130,3846,5,1962,
 580,Villa,Ravsted Hovedgade 47,6372, Bylderup-Bov,2093000 ,24-01-2002,Alm. Salg,171,12240,6,1983,
 580,Ejerlejlighed,"Bryggervænget 8, 1. 7",6200, Aabenraa,365000 ,23-01-2002,Alm. Salg,65,5615,2,1969,
 580,Villa,Smedefod 51,6392, Bolderslev,956328 ,23-01-2002,Alm. Salg,251,3810,10,1848,
@@ -17863,10 +17476,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Slogsgaden 4,6372, Bylderup-Bov,384395 ,24-06-2001,Alm. Salg,180,2136,5,1875,
 580,Villa,Nydam 7,6200, Aabenraa,95000 ,24-06-2001,Alm. Salg,169,562,4,2002,
 580,Villa,Hvidhøjvej 2,6372, Bylderup-Bov,325000 ,22-06-2001,Alm. Salg,124,2621,5,1960,
-580,Rækkehus,Nygade 6D,6200, Aabenraa,1375000 ,21-06-2001,Alm. Salg,102,13480,3,1905,
 580,Rækkehus,Frueløkke 56,6200, Aabenraa,685000 ,21-06-2001,Alm. Salg,68,10074,2,1980,
 580,Ejerlejlighed,"Nygade 47C, st",6200, Aabenraa,353698 ,21-06-2001,Alm. Salg,43,8226,1,1744,
-580,Villa,Nygade 6A,6200, Aabenraa,1375000 ,21-06-2001,Alm. Salg,144,9549,5,1908,
 580,Villa,Borgmesterløkken 7,6200, Aabenraa,1119620 ,21-06-2001,Alm. Salg,149,7514,6,1957,
 580,Villa,Nyhusvej 19,6330, Padborg,1575000 ,21-06-2001,Alm. Salg,232,6789,6,1979,
 580,Villa,Farversmøllevej 56,6200, Aabenraa,873407 ,21-06-2001,Alm. Salg,161,5425,8,1960,
@@ -17986,44 +17597,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Kolstrup 58,6200, Aabenraa,1245000 ,09-05-2001,Alm. Salg,188,6622,6,1946,
 580,Villa,Frueløkke 153,6200, Aabenraa,1138000 ,09-05-2001,Alm. Salg,141,8071,5,1986,
 580,Rækkehus,Kirkevej 65B,6360, Tinglev,685399 ,08-05-2001,Alm. Salg,121,5664,5,1979,
-580,Ejerlejlighed,"Callesensgade 21A, st. tv",6200, Aabenraa,11260000 ,08-05-2001,Alm. Salg,90,125111,3,1921,
-580,Ejerlejlighed,"Callesensgade 21A, st. th",6200, Aabenraa,11260000 ,08-05-2001,Alm. Salg,90,125111,3,1921,
-580,Ejerlejlighed,"Callesensgade 21A, 1. th",6200, Aabenraa,11260000 ,08-05-2001,Alm. Salg,90,125111,3,1921,
-580,Ejerlejlighed,"Lavgade 7, 1. tv",6200, Aabenraa,11260000 ,08-05-2001,Alm. Salg,87,129425,4,1921,
-580,Ejerlejlighed,"Lavgade 9, st. th",6200, Aabenraa,11260000 ,08-05-2001,Alm. Salg,74,152162,3,1921,
-580,Ejerlejlighed,"Lavgade 7, 1. th",6200, Aabenraa,11260000 ,08-05-2001,Alm. Salg,74,152162,3,1921,
-580,Ejerlejlighed,"Lavgade 9, st. tv",6200, Aabenraa,11260000 ,08-05-2001,Alm. Salg,70,160857,2,1921,
-580,Ejerlejlighed,"Lavgade 9, 1. th",6200, Aabenraa,11260000 ,08-05-2001,Alm. Salg,87,129425,3,1921,
-580,Ejerlejlighed,"Lavgade 9, 1. tv",6200, Aabenraa,11260000 ,08-05-2001,Alm. Salg,74,152162,3,1921,
-580,Ejerlejlighed,"Callesensgade 21B, 1. th",6200, Aabenraa,11260000 ,08-05-2001,Alm. Salg,76,148158,3,1921,
-580,Ejerlejlighed,"Callesensgade 21B, st. th",6200, Aabenraa,11260000 ,08-05-2001,Alm. Salg,76,148158,3,1921,
-580,Ejerlejlighed,"Callesensgade 21A, 1. tv",6200, Aabenraa,11260000 ,08-05-2001,Alm. Salg,100,112600,4,1921,
-580,Ejerlejlighed,"Callesensgade 21B, 1. tv",6200, Aabenraa,11260000 ,08-05-2001,Alm. Salg,76,148158,3,1921,
-580,Ejerlejlighed,"Callesensgade 21B, st. tv",6200, Aabenraa,11260000 ,08-05-2001,Alm. Salg,76,148158,3,1921,
-580,Ejerlejlighed,"Callesensgade 21C, st",6200, Aabenraa,11260000 ,08-05-2001,Alm. Salg,91,123736,3,1921,
-580,Ejerlejlighed,"Callesensgade 21C, 1",6200, Aabenraa,11260000 ,08-05-2001,Alm. Salg,91,123736,3,1921,
-580,Ejerlejlighed,"Callesensgade 23, st. th",6200, Aabenraa,11260000 ,08-05-2001,Alm. Salg,90,125111,3,1921,
-580,Ejerlejlighed,"Callesensgade 23, st. tv",6200, Aabenraa,11260000 ,08-05-2001,Alm. Salg,90,125111,3,1921,
-580,Ejerlejlighed,"Callesensgade 23, 1. tv",6200, Aabenraa,11260000 ,08-05-2001,Alm. Salg,100,112600,4,1921,
-580,Ejerlejlighed,"Callesensgade 23, 1. th",6200, Aabenraa,11260000 ,08-05-2001,Alm. Salg,90,125111,3,1921,
-580,Ejerlejlighed,"Callesensgade 25, st. th",6200, Aabenraa,11260000 ,08-05-2001,Alm. Salg,90,125111,3,1921,
-580,Ejerlejlighed,"Callesensgade 25, st. tv",6200, Aabenraa,11260000 ,08-05-2001,Alm. Salg,90,125111,3,1921,
-580,Ejerlejlighed,"Callesensgade 25, 1. tv",6200, Aabenraa,11260000 ,08-05-2001,Alm. Salg,100,112600,4,1921,
-580,Ejerlejlighed,"Callesensgade 25, 1. th",6200, Aabenraa,11260000 ,08-05-2001,Alm. Salg,90,125111,3,1921,
-580,Ejerlejlighed,"Lavgade 7, st. tv",6200, Aabenraa,11260000 ,08-05-2001,Alm. Salg,74,152162,3,1921,
-580,Ejerlejlighed,"Lavgade 7, st. th",6200, Aabenraa,11260000 ,08-05-2001,Alm. Salg,74,152162,2,1921,
-580,Ejerlejlighed,"Lavgade 11, st. tv",6200, Aabenraa,11260000 ,08-05-2001,Alm. Salg,74,152162,3,1921,
-580,Ejerlejlighed,"Lavgade 11, st. th",6200, Aabenraa,11260000 ,08-05-2001,Alm. Salg,70,160857,2,1921,
-580,Ejerlejlighed,"Lavgade 11, 1. th",6200, Aabenraa,11260000 ,08-05-2001,Alm. Salg,74,152162,3,1921,
-580,Ejerlejlighed,"Lavgade 11, 1. tv",6200, Aabenraa,11260000 ,08-05-2001,Alm. Salg,87,129425,3,1921,
-580,Ejerlejlighed,"Lavgade 13, st. th",6200, Aabenraa,11260000 ,08-05-2001,Alm. Salg,74,152162,3,1921,
-580,Ejerlejlighed,"Lavgade 13, 1. tv",6200, Aabenraa,11260000 ,08-05-2001,Alm. Salg,74,152162,2,1921,
-580,Ejerlejlighed,"Lavgade 13, st. tv",6200, Aabenraa,11260000 ,08-05-2001,Alm. Salg,74,152162,3,1921,
-580,Ejerlejlighed,"Lavgade 13, 1. th",6200, Aabenraa,11260000 ,08-05-2001,Alm. Salg,87,129425,3,1921,
-580,Ejerlejlighed,"Lavgade 5B, st. th",6200, Aabenraa,11260000 ,08-05-2001,Alm. Salg,88,127955,3,1921,
-580,Ejerlejlighed,"Lavgade 5B, st. tv",6200, Aabenraa,11260000 ,08-05-2001,Alm. Salg,88,127955,3,1921,
-580,Ejerlejlighed,"Lavgade 5B, 1. tv",6200, Aabenraa,11260000 ,08-05-2001,Alm. Salg,88,127955,4,1921,
-580,Ejerlejlighed,"Lavgade 5B, 1. th",6200, Aabenraa,11260000 ,08-05-2001,Alm. Salg,99,113737,3,1921,
 580,Villa,Hærvejen 53,6330, Padborg,550000 ,08-05-2001,Alm. Salg,161,3416,5,1981,
 580,Villa,Aabenraavej 33,6340, Kruså,757674 ,08-05-2001,Alm. Salg,150,5051,5,1948,
 580,Villa,Lindeparken 63,6230, Rødekro,152440 ,08-05-2001,Alm. Salg,126,1210,4,2002,
@@ -18072,9 +17645,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Langløkke 9,6200, Aabenraa,1120000 ,25-04-2001,Alm. Salg,194,5773,5,1958,
 580,Villa,Vibevej 20,6230, Rødekro,750500 ,25-04-2001,Alm. Salg,135,5559,6,1975,
 580,Villa,Tjørnesti 24,6200, Aabenraa,350000 ,25-04-2001,Alm. Salg,120,2917,4,2006,
-580,Ejerlejlighed,Banegaardspladsen 1,6230, Rødekro,1700000 ,24-04-2001,Alm. Salg,101,16832,3,1964,
-580,Ejerlejlighed,"Hærvejen 32B, 1",6230, Rødekro,1700000 ,24-04-2001,Alm. Salg,100,17000,3,1920,
-580,Ejerlejlighed,"Hærvejen 32C, 1",6230, Rødekro,1700000 ,24-04-2001,Alm. Salg,118,14407,3,1920,
 580,Villa,Uglekær 126,6200, Aabenraa,1050000 ,23-04-2001,Alm. Salg,162,6481,5,1976,
 580,Villa,Parkvej 51,6230, Rødekro,154199 ,23-04-2001,Alm. Salg,177,871,5,2001,
 580,Villa,Stubbæk Bygade 14,6200, Aabenraa,839140 ,23-04-2001,Alm. Salg,166,5055,4,1907,
@@ -18137,7 +17707,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Birkevej 30,6200, Aabenraa,390000 ,27-03-2001,Alm. Salg,100,3900,4,1955,
 580,Villa,Hanvedsgade 12,6330, Padborg,1122000 ,27-03-2001,Alm. Salg,173,6486,5,1976,
 580,Villa,Høgelsbjerg 25,6200, Aabenraa,945000 ,27-03-2001,Alm. Salg,128,7383,5,1985,
-580,Villa,Skibbrogade 9B,6200, Aabenraa,2050000 ,27-03-2001,Alm. Salg,94,21809,2,1897,
 580,Ejerlejlighed,"Sønderport 3, 1. tv",6200, Aabenraa,450000 ,26-03-2001,Alm. Salg,58,7759,2,1843,
 580,Ejerlejlighed,"Storetorv 4B, 2",6200, Aabenraa,385357 ,26-03-2001,Alm. Salg,63,6117,4,1865,
 580,Villa,Trøjborgvej 2,6340, Kruså,1100000 ,26-03-2001,Alm. Salg,138,7971,5,1953,
@@ -18212,7 +17781,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Jørgensgård 43A,6200, Aabenraa,1800000 ,21-02-2001,Alm. Salg,286,6294,10,1906,
 580,Villa,Nørrevang 2,6230, Rødekro,680000 ,21-02-2001,Alm. Salg,123,5528,3,1973,
 580,Villa,Jørgensmaj 4,6200, Aabenraa,1080000 ,19-02-2001,Alm. Salg,135,8000,5,1935,
-580,Villa,Sønderhavvej 10B,6340, Kruså,1100000 ,19-02-2001,Alm. Salg,273,4029,8,1930,
 580,Villa,Bov Tværvej 25,6372, Bylderup-Bov,297000 ,19-02-2001,Alm. Salg,75,3960,3,1880,
 580,Villa,Rugbjergvej 7,6230, Rødekro,1304040 ,18-02-2001,Alm. Salg,289,4512,6,1914,
 580,Villa,Uglekær 49,6200, Aabenraa,1100000 ,18-02-2001,Alm. Salg,143,7692,5,1979,
@@ -18230,10 +17798,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Korupvej 8,6372, Bylderup-Bov,10250000 ,14-02-2001,Alm. Salg,84,122024,4,1956,
 580,Rækkehus,Fjordløkke 95,6200, Aabenraa,1172000 ,12-02-2001,Alm. Salg,101,11604,4,1989,
 580,Villa,Byvænget 7,6200, Aabenraa,877390 ,12-02-2001,Alm. Salg,115,7629,4,1987,
-580,Ejerlejlighed,"Hærvejen 19, 1",6230, Rødekro,775000 ,11-02-2001,Alm. Salg,105,7381,5,1910,
-580,Ejerlejlighed,"Hærvejen 19, st. th",6230, Rødekro,775000 ,11-02-2001,Alm. Salg,35,22143,2,1910,
-580,Ejerlejlighed,"Hærvejen 19, st. tv",6230, Rødekro,775000 ,11-02-2001,Alm. Salg,95,8158,5,1910,
-580,Ejerlejlighed,Funkevej 1,6230, Rødekro,775000 ,11-02-2001,Alm. Salg,110,7045,4,1910,
 580,Villa,Birkevej 34,6200, Aabenraa,1075000 ,11-02-2001,Alm. Salg,138,7790,5,1956,
 580,Villa,Åglimt 12,6372, Bylderup-Bov,570000 ,11-02-2001,Alm. Salg,110,5182,3,1966,
 580,Villa,Parkvej 43,6230, Rødekro,180226 ,11-02-2001,Alm. Salg,147,1226,4,2002,
@@ -18278,9 +17842,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Bakkevej 1,6200, Aabenraa,491320 ,26-01-2001,Alm. Salg,101,4865,3,1906,
 580,Ejerlejlighed,Kirkegade 61,6230, Rødekro,3500000 ,25-01-2001,Alm. Salg,180,19444,5,1966,
 580,Villa,Vibevej 12,6230, Rødekro,868000 ,25-01-2001,Alm. Salg,137,6336,5,1968,
-580,Rækkehus,Søderupvej 22,6230, Rødekro,1533515 ,24-01-2001,Fam. Salg,51,30069,3,1856,
 580,Villa,Jørgensgård 13,6200, Aabenraa,949184 ,24-01-2001,Alm. Salg,230,4127,9,1907,
-580,Villa,Søderupvej 24,6230, Rødekro,1533515 ,24-01-2001,Fam. Salg,227,6756,5,1856,
 580,Villa,Midtkobbel 19,6340, Kruså,148200 ,23-01-2001,Alm. Salg,146,1015,5,2001,
 580,Villa,Solsortvej 7,6230, Rødekro,765000 ,23-01-2001,Alm. Salg,132,5795,4,1973,
 580,Villa,Vester Hessel 4,6200, Aabenraa,462500 ,22-01-2001,Alm. Salg,138,3351,5,1977,
@@ -18441,7 +18003,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Ejerlejlighed,"Bryggervænget 8, st. 3",6200, Aabenraa,540000 ,30-10-2000,Alm. Salg,65,8308,2,1969,
 580,Villa,Vestermarken 27,6360, Tinglev,123246 ,30-10-2000,Alm. Salg,163,756,5,2002,
 580,Villa,Fogderup Mellemvej 2,6372, Bylderup-Bov,278000 ,30-10-2000,Alm. Salg,94,2957,3,1960,
-580,Villa,Uge Allegade 9,6360, Tinglev,3080551 ,29-10-2000,Alm. Salg,184,16742,6,1952,
 580,Villa,Vestermarken 39,6360, Tinglev,660000 ,29-10-2000,Alm. Salg,118,5593,4,1981,
 580,Villa,Hærvejen 78,6330, Padborg,553000 ,29-10-2000,Alm. Salg,187,2957,5,2005,
 580,Villa,Lindeparken 39,6230, Rødekro,132645 ,29-10-2000,Alm. Salg,140,947,4,2001,
@@ -18571,7 +18132,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Sønderhavvej 36,6340, Kruså,816000 ,04-09-2000,Fam. Salg,169,4828,2,1807,
 580,Villa,Fjordvejen 74,6340, Kruså,3200000 ,03-09-2000,Alm. Salg,213,15023,7,2006,
 580,Villa,Løjt Søndervang 4,6200, Aabenraa,835000 ,03-09-2000,Alm. Salg,140,5964,5,1970,
-580,Villa,Oksevej 10A,6330, Padborg,719855 ,01-09-2000,Alm. Salg,49,14691,2,1948,
 580,Villa,Fyrreparken 19,6230, Rødekro,1010000 ,31-08-2000,Alm. Salg,161,6273,4,1987,
 580,Villa,Vestermarken 25,6360, Tinglev,116253 ,31-08-2000,Alm. Salg,155,750,5,2001,
 580,Villa,Banevej 5,6372, Bylderup-Bov,425000 ,31-08-2000,Alm. Salg,153,2778,6,1970,
@@ -18836,8 +18396,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Kalvehaven 11,6330, Padborg,1243000 ,23-05-2000,Alm. Salg,219,5676,5,1972,
 580,Villa,Rønnevej 2,6200, Aabenraa,640000 ,23-05-2000,Alm. Salg,132,4848,5,1972,
 580,Villa,Højmark 17,6340, Kruså,910000 ,23-05-2000,Alm. Salg,183,4973,6,1967,
-580,Ejerlejlighed,Ramsherred 12B,6200, Aabenraa,1300000 ,22-05-2000,Alm. Salg,96,13542,4,1900,
-580,Villa,Kirkebakken 6,6200, Aabenraa,1300000 ,22-05-2000,Alm. Salg,155,8387,7,1924,
 580,Villa,Løjt Nørrevang 25,6200, Aabenraa,1035000 ,22-05-2000,Alm. Salg,162,6389,4,1965,
 580,Villa,Haderslevvej 15,6200, Aabenraa,1765000 ,22-05-2000,Alm. Salg,309,5712,10,1893,
 580,Villa,Gildegade 13,6200, Aabenraa,600000 ,21-05-2000,Alm. Salg,90,6667,3,1754,
@@ -19033,7 +18591,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Blæsbjergvej 19,6200, Aabenraa,538320 ,02-03-2000,Alm. Salg,132,4078,4,1965,
 580,Villa,Vilsbækvej 15A,6330, Padborg,532763 ,02-03-2000,Alm. Salg,157,3393,8,1913,
 580,Villa,Højvang 1B,6230, Rødekro,780000 ,01-03-2000,Fam. Salg,135,5778,4,1986,
-580,Villa,Slotsgade 31C,6200, Aabenraa,2133734 ,01-03-2000,Alm. Salg,46,46386,1,1900,
 580,Villa,Lykkevej 1,6200, Aabenraa,453000 ,29-02-2000,Fam. Salg,114,3974,3,1942,
 580,Villa,Surreroj 3,6372, Bylderup-Bov,370000 ,29-02-2000,Alm. Salg,92,4022,3,1965,
 580,Villa,Skovhøj 56,6200, Aabenraa,1395000 ,29-02-2000,Alm. Salg,107,13037,3,2001,
@@ -19050,7 +18607,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Ejerlejlighed,"Bryggervænget 6, st. 4",6200, Aabenraa,500000 ,22-02-2000,Alm. Salg,65,7692,2,1969,
 580,Villa,Østergade 52,6230, Rødekro,879082 ,22-02-2000,Alm. Salg,152,5783,4,1947,
 580,Villa,Fogderup Bygade 18,6372, Bylderup-Bov,340000 ,22-02-2000,Alm. Salg,210,1619,6,1870,
-580,Villa,Aabenraavej 3B,6340, Kruså,575000 ,22-02-2000,Alm. Salg,54,10648,2,1955,
 580,Villa,Søndermosevej 14,6330, Padborg,385000 ,22-02-2000,Alm. Salg,79,4873,3,1951,
 580,Villa,Bytoften 21,6200, Aabenraa,850000 ,22-02-2000,Alm. Salg,220,3864,5,1987,
 580,Villa,Åløkke 16,6230, Rødekro,1009038 ,22-02-2000,Alm. Salg,142,7106,4,1970,
@@ -19102,7 +18658,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Fjordvænget 5,6340, Kruså,800000 ,02-02-2000,Alm. Salg,132,6061,3,1971,
 580,Ejerlejlighed,"Frydendal 11G, 4. 65",6200, Aabenraa,1100000 ,31-01-2000,Alm. Salg,122,9016,3,1974,
 580,Villa,Kragelundvej 4,6330, Padborg,350000 ,31-01-2000,Alm. Salg,105,3333,4,1952,
-580,Villa,Gildegade 5E,6200, Aabenraa,1350000 ,31-01-2000,Alm. Salg,84,16071,3,1925,
 580,Villa,Farverhus 216,6200, Aabenraa,1070000 ,31-01-2000,Alm. Salg,184,5815,5,1973,
 580,Villa,Hærvejen 5,6230, Rødekro,500000 ,31-01-2000,Alm. Salg,104,4808,6,1923,
 580,Villa,Uge Vesterballe 8,6360, Tinglev,100000 ,31-01-2000,Alm. Salg,136,735,5,1844,
@@ -19115,20 +18670,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Vægterpladsen 1,6200, Aabenraa,1750000 ,30-01-2000,Alm. Salg,282,6206,7,1740,
 580,Rækkehus,Fladholm 48,6200, Aabenraa,961429 ,27-01-2000,Alm. Salg,121,7946,5,1981,
 580,Villa,Kliplev Nygade 13,6200, Aabenraa,673000 ,27-01-2000,Alm. Salg,123,5472,5,1955,
-580,Ejerlejlighed,"Jernbanegade 15, 1. th",6360, Tinglev,360000 ,26-01-2000,Alm. Salg,83,4337,3,1898,
-580,Ejerlejlighed,"Jernbanegade 15, 1. tv",6360, Tinglev,360000 ,26-01-2000,Alm. Salg,62,5806,2,1898,
-580,Ejerlejlighed,"Jernbanegade 17, st",6360, Tinglev,360000 ,26-01-2000,Alm. Salg,83,4337,3,1898,
-580,Ejerlejlighed,"Hovedgaden 15, st",6360, Tinglev,360000 ,26-01-2000,Alm. Salg,62,5806,2,1898,
 580,Villa,Mørkær 1,6372, Bylderup-Bov,760000 ,26-01-2000,Alm. Salg,130,5846,4,1986,
 580,Villa,Ravsted Storegade 30,6372, Bylderup-Bov,350000 ,26-01-2000,Alm. Salg,112,3125,4,1964,
 580,Villa,Løjt Skolegade 38,6200, Aabenraa,3500000 ,26-01-2000,Fam. Salg,404,8663,10,1867,
 580,Ejerlejlighed,Løkkegårdsvej 11D,6230, Rødekro,428000 ,25-01-2000,Alm. Salg,76,5632,2,1963,
-580,Ejerlejlighed,"Jernbanegade 2A, 1",6230, Rødekro,3400000 ,25-01-2000,Alm. Salg,101,33663,3,1988,
-580,Ejerlejlighed,"Hærvejen 28, st. 1",6230, Rødekro,3400000 ,25-01-2000,Alm. Salg,47,72340,2,1907,
-580,Ejerlejlighed,"Hærvejen 28, 1. mf",6230, Rødekro,3400000 ,25-01-2000,Alm. Salg,109,31193,4,1907,
-580,Ejerlejlighed,"Hærvejen 28, 1. th",6230, Rødekro,3400000 ,25-01-2000,Alm. Salg,40,85000,2,1907,
-580,Ejerlejlighed,"Hærvejen 28, 2. tv",6230, Rødekro,3400000 ,25-01-2000,Alm. Salg,63,53968,3,1907,
-580,Ejerlejlighed,"Hærvejen 28, 2. th",6230, Rødekro,3400000 ,25-01-2000,Alm. Salg,86,39535,2,1907,
 580,Villa,Agertoften 6,6230, Rødekro,750657 ,25-01-2000,Alm. Salg,157,4781,6,1976,
 580,Villa,Vestvejen 106,6200, Aabenraa,300000 ,25-01-2000,Alm. Salg,163,1840,6,1931,
 580,Villa,Vestergade 23,6392, Bolderslev,235072 ,23-01-2000,Alm. Salg,105,2239,4,1952,
@@ -19348,13 +18893,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Fjordvejen 33,6340, Kruså,1162000 ,12-10-1999,Alm. Salg,139,8360,4,1959,
 580,Villa,Egeparken 62,6230, Rødekro,942015 ,12-10-1999,Alm. Salg,136,6927,4,1980,
 580,Villa,Timianvænget 15A,6360, Tinglev,690000 ,12-10-1999,Alm. Salg,111,6216,4,1989,
-580,Ejerlejlighed,"Callesensgade 4, st. 1",6200, Aabenraa,750000 ,11-10-1999,Alm. Salg,96,7813,2,1978,
 580,Villa,Fyrreparken 16,6230, Rødekro,106029 ,11-10-1999,Alm. Salg,145,731,5,2000,
 580,Villa,Forstalle 74,6200, Aabenraa,850000 ,11-10-1999,Alm. Salg,112,7589,4,1967,
-580,Villa,Ahlefeldtvej 18,6200, Aabenraa,750000 ,11-10-1999,Alm. Salg,156,4808,4,1972,
-580,Rækkehus,Hærvejen 59A,6330, Padborg,39000 ,10-10-1999,Alm. Salg,126,310,5,1875,
 580,Villa,Brunbjergvej 24,6200, Aabenraa,895000 ,10-10-1999,Alm. Salg,125,7160,4,1977,
-580,Villa,Hærvejen 59C,6330, Padborg,39000 ,10-10-1999,Alm. Salg,268,146,6,1978,
 580,Villa,Stationsvej 42,6230, Rødekro,481384 ,10-10-1999,Alm. Salg,88,5470,3,1965,
 580,Villa,Vingelhøjvej 20,6200, Aabenraa,1360000 ,09-10-1999,Alm. Salg,219,6210,7,1966,
 580,Villa,Agerglimt 1,6340, Kruså,556000 ,07-10-1999,Alm. Salg,145,3834,5,1981,
@@ -19419,8 +18960,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Runesvinget 17,6330, Padborg,650000 ,15-09-1999,Alm. Salg,144,4514,4,1964,
 580,Villa,Skrænten 8,6340, Kruså,609950 ,15-09-1999,Alm. Salg,150,4066,5,1924,
 580,Villa,Nydam 5,6200, Aabenraa,97000 ,15-09-1999,Alm. Salg,187,519,7,2000,
-580,Rækkehus,Nygade 6D,6200, Aabenraa,1200000 ,14-09-1999,Alm. Salg,102,11765,3,1905,
-580,Villa,Nygade 6A,6200, Aabenraa,1200000 ,14-09-1999,Alm. Salg,144,8333,5,1908,
 580,Villa,Bakkevej 9,6200, Aabenraa,1004555 ,14-09-1999,Alm. Salg,143,7025,5,1969,
 580,Villa,Røllum Bygade 17,6200, Aabenraa,400060 ,14-09-1999,Alm. Salg,70,5715,3,1907,
 580,Villa,Nefeskovvej 9,6230, Rødekro,70000 ,14-09-1999,Alm. Salg,68,1029,2,2023,
@@ -19511,7 +19050,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Møllevej 22B,6230, Rødekro,1080000 ,11-08-1999,Alm. Salg,160,6750,5,1986,
 580,Villa,Snekrog 7,6200, Aabenraa,900192 ,10-08-1999,Alm. Salg,72,12503,3,1949,
 580,Villa,Løjt Vestervang 15,6200, Aabenraa,1009000 ,10-08-1999,Alm. Salg,165,6115,5,1969,
-580,Villa,Hovedgaden 18A,6360, Tinglev,607444 ,10-08-1999,Alm. Salg,147,2201,7,1930,
 580,Villa,Gammel Ribevej 195,6200, Aabenraa,363216 ,10-08-1999,Fam. Salg,224,1622,4,1841,
 580,Villa,Fyrreparken 15,6230, Rødekro,910000 ,09-08-1999,Alm. Salg,124,7339,5,1987,
 580,Villa,Tværgade 4,6230, Rødekro,650000 ,09-08-1999,Alm. Salg,120,5417,6,1945,
@@ -19934,11 +19472,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Højvangvej 16,6372, Bylderup-Bov,235000 ,16-03-1999,Alm. Salg,86,2733,3,1949,
 580,Villa,Klosterbakken 18,6230, Rødekro,949158 ,16-03-1999,Alm. Salg,152,6244,5,1972,
 580,Villa,Visherredsvej 14,6330, Padborg,35000000 ,16-03-1999,Alm. Salg,161,217391,5,1977,
-580,Ejerlejlighed,Viaduktvej 1,6360, Tinglev,1047619 ,15-03-1999,Alm. Salg,55,19048,2,1939,
-580,Ejerlejlighed,"Hovedgaden 14, st. th",6360, Tinglev,1047619 ,15-03-1999,Alm. Salg,60,17460,2,1939,
-580,Ejerlejlighed,"Hovedgaden 14, 1. th",6360, Tinglev,1047619 ,15-03-1999,Alm. Salg,50,20952,2,1939,
-580,Ejerlejlighed,"Hovedgaden 14, st. tv",6360, Tinglev,1047619 ,15-03-1999,Alm. Salg,48,21825,2,1939,
-580,Ejerlejlighed,"Hovedgaden 14, 1. tv",6360, Tinglev,1047619 ,15-03-1999,Alm. Salg,54,19400,2,1939,
 580,Villa,Brystrupvej 37,6230, Rødekro,530000 ,15-03-1999,Alm. Salg,243,2181,8,1925,
 580,Villa,Nr Hostrup Bygade 3,6230, Rødekro,25000 ,15-03-1999,Fam. Salg,46,543,2,1852,
 580,Villa,Hovslundvej 27,6230, Rødekro,452000 ,15-03-1999,Alm. Salg,246,1837,9,1927,
@@ -19983,7 +19516,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Engsig 11,6200, Aabenraa,1100000 ,25-02-1999,Alm. Salg,156,7051,4,1972,
 580,Villa,Buen 298,6200, Aabenraa,874842 ,25-02-1999,Alm. Salg,123,7113,5,1978,
 580,Villa,Østergade 33,6230, Rødekro,1030000 ,24-02-1999,Alm. Salg,180,5722,6,1959,
-580,Villa,Nygade 38B,6200, Aabenraa,550000 ,24-02-1999,Alm. Salg,110,5000,4,1902,
 580,Villa,Teglværksvej 14,6200, Aabenraa,105000 ,24-02-1999,Alm. Salg,96,1094,3,2003,
 580,Villa,Hasselkær 35,6200, Aabenraa,1335000 ,24-02-1999,Alm. Salg,176,7585,5,1991,
 580,Villa,Solbakken 36,6230, Rødekro,640000 ,24-02-1999,Alm. Salg,109,5872,4,1964,
@@ -20085,12 +19617,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Åvejen 3,6230, Rødekro,825000 ,19-01-1999,Alm. Salg,168,4911,5,1939,
 580,Villa,Kolstrup 48,6200, Aabenraa,450000 ,18-01-1999,Fam. Salg,144,3125,6,1936,
 580,Villa,Lendemark 31,6372, Bylderup-Bov,325000 ,18-01-1999,Alm. Salg,77,4221,4,1934,
-580,Rækkehus,Torp Bygade 26,6200, Aabenraa,570000 ,17-01-1999,Alm. Salg,156,3654,5,1857,
 580,Ejerlejlighed,"Karpedam 6, 2",6200, Aabenraa,500000 ,17-01-1999,Alm. Salg,121,4132,4,1907,
 580,Villa,Vestergade 35,6230, Rødekro,656000 ,17-01-1999,Alm. Salg,199,3296,6,1920,
 580,Villa,Midtløkke 38,6200, Aabenraa,176000 ,17-01-1999,Alm. Salg,154,1143,6,1999,
 580,Villa,Sottrupvej 40,6372, Bylderup-Bov,220000 ,17-01-1999,Fam. Salg,123,1789,6,1956,
-580,Villa,Torp Bygade 28,6200, Aabenraa,570000 ,17-01-1999,Alm. Salg,273,2088,7,1857,
 580,Villa,Hovedgaden 95,6360, Tinglev,82810 ,17-01-1999,Alm. Salg,162,511,4,1975,
 580,Ejerlejlighed,Klinkbjerg 10B,6200, Aabenraa,739982 ,15-01-1999,Alm. Salg,102,7255,3,1988,
 580,Villa,Kidingvej 15,6200, Aabenraa,520000 ,15-01-1999,Alm. Salg,109,4771,4,1957,
@@ -20118,7 +19648,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Kelstrupskovvej 4,6340, Kruså,475000 ,07-01-1999,Alm. Salg,142,3345,6,1900,
 580,Villa,Oksevej 24,6330, Padborg,484000 ,07-01-1999,Auktion,249,1944,6,1924,
 580,Villa,Tråsbøl Bygade 10,6200, Aabenraa,695000 ,07-01-1999,Alm. Salg,139,5000,6,1936,
-580,Villa,Søndergade 18C,6200, Aabenraa,602372 ,07-01-1999,Alm. Salg,108,5578,3,1880,
 580,Villa,Sønder Hostrup Toftevej 1,6200, Aabenraa,651979 ,06-01-1999,Alm. Salg,185,3524,5,1878,
 580,Villa,Rådmandsløkken 29,6200, Aabenraa,717000 ,05-01-1999,Alm. Salg,74,9689,3,1959,
 580,Villa,Kirkegade 29,6230, Rødekro,585000 ,05-01-1999,Alm. Salg,154,3799,4,1939,
@@ -20139,8 +19668,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Sønderport 47,6200, Aabenraa,1030000 ,28-12-1998,Alm. Salg,134,7687,4,1944,
 580,Villa,Østergade 44,6200, Aabenraa,610000 ,28-12-1998,Alm. Salg,110,5545,4,1952,
 580,Villa,Forstalle 45,6200, Aabenraa,713697 ,28-12-1998,Alm. Salg,101,7066,5,1955,
-580,Ejerlejlighed,Storetorv 5A,6200, Aabenraa,3060509 ,27-12-1998,Alm. Salg,131,23363,3,1983,
-580,Ejerlejlighed,Humlehaven 8,6200, Aabenraa,3060509 ,27-12-1998,Alm. Salg,168,18217,3,1983,
 580,Villa,Tøndervej 16,6230, Rødekro,995000 ,27-12-1998,Alm. Salg,193,5155,6,1912,
 580,Villa,Urnehovedvej 95,6392, Bolderslev,35001 ,27-12-1998,Alm. Salg,156,224,6,2000,
 580,Ejerlejlighed,"Frydendal 11F, 4. 46",6200, Aabenraa,670103 ,22-12-1998,Alm. Salg,96,6980,2,1974,
@@ -20148,20 +19675,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Grænsevejen 63,6360, Tinglev,170000 ,22-12-1998,Alm. Salg,89,1910,4,1924,
 580,Villa,Kragsmosevej 1,6230, Rødekro,808000 ,22-12-1998,Fam. Salg,147,5497,4,1866,
 580,Villa,Bylderup Kirkevej 8,6372, Bylderup-Bov,250000 ,22-12-1998,Fam. Salg,114,2193,4,1790,
-580,Ejerlejlighed,"Nørretorv 3D, st. tv",6200, Aabenraa,9900000 ,21-12-1998,Alm. Salg,97,102062,3,1950,
-580,Ejerlejlighed,"Skolevej 21, st",6200, Aabenraa,9900000 ,21-12-1998,Alm. Salg,102,97059,3,1907,
-580,Ejerlejlighed,"Nørretorv 3D, 1. 4",6200, Aabenraa,9900000 ,21-12-1998,Alm. Salg,141,70213,4,1907,
-580,Ejerlejlighed,"Nørretorv 3D, 1. 1",6200, Aabenraa,9900000 ,21-12-1998,Alm. Salg,137,72263,4,1950,
-580,Ejerlejlighed,Nørretorv 3C,6200, Aabenraa,9900000 ,21-12-1998,Alm. Salg,81,122222,3,1950,
-580,Ejerlejlighed,"Nørretorv 3D, st. mf",6200, Aabenraa,9900000 ,21-12-1998,Alm. Salg,113,87611,3,1950,
-580,Ejerlejlighed,"Nørretorv 3D, st. th",6200, Aabenraa,9900000 ,21-12-1998,Alm. Salg,63,157143,2,1953,
-580,Ejerlejlighed,"Nørretorv 3A, 1. th",6200, Aabenraa,9900000 ,21-12-1998,Alm. Salg,122,81148,3,1950,
-580,Ejerlejlighed,"Nørretorv 3A, 1. tv",6200, Aabenraa,9900000 ,21-12-1998,Alm. Salg,121,81818,3,1950,
-580,Ejerlejlighed,"Nørretorv 3D, 1. 2",6200, Aabenraa,9900000 ,21-12-1998,Alm. Salg,95,104211,3,1950,
-580,Ejerlejlighed,"Nørretorv 3D, 1. 3",6200, Aabenraa,9900000 ,21-12-1998,Alm. Salg,92,104211,3,1950,
-580,Ejerlejlighed,"Skolevej 21, 1",6200, Aabenraa,9900000 ,21-12-1998,Alm. Salg,131,75573,4,1907,
-580,Ejerlejlighed,Skolevej 23,6200, Aabenraa,9900000 ,21-12-1998,Alm. Salg,99,100000,3,1953,
-580,Ejerlejlighed,Nørretorv 3B,6200, Aabenraa,9900000 ,21-12-1998,Alm. Salg,70,141429,3,1950,
 580,Ejerlejlighed,Øbeningvej 36B,6230, Rødekro,3500000 ,21-12-1998,Alm. Salg,177,19774,5,2007,
 580,Villa,Rosenvænget 34,6230, Rødekro,129960 ,21-12-1998,Alm. Salg,133,977,4,1999,
 580,Villa,Nygade 53,6330, Padborg,93500 ,21-12-1998,Alm. Salg,170,550,5,2005,
@@ -20341,7 +19854,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Grænsevejen 114,6372, Bylderup-Bov,62000 ,11-10-1998,Alm. Salg,68,912,3,1938,
 580,Villa,Fjordmarken 1,6200, Aabenraa,80631 ,09-10-1998,Alm. Salg,123,656,4,1999,
 580,Villa,Løjt Nørrevang 1,6200, Aabenraa,690000 ,08-10-1998,Alm. Salg,129,5349,4,1934,
-580,Villa,Sønderport 55B,6200, Aabenraa,689000 ,08-10-1998,Alm. Salg,84,8202,3,1952,
 580,Villa,Flensborgvej 206,6200, Aabenraa,545000 ,07-10-1998,Alm. Salg,154,3539,6,1947,
 580,Villa,Callesensvej 2,6230, Rødekro,853030 ,07-10-1998,Alm. Salg,128,6664,4,1972,
 580,Villa,Kløvertoften 14,6200, Aabenraa,1099477 ,07-10-1998,Alm. Salg,152,7233,5,1976,
@@ -20512,7 +20024,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Solbakken 6,6230, Rødekro,788000 ,16-08-1998,Alm. Salg,171,4608,6,1964,
 580,Villa,Granvænget 26,6340, Kruså,550000 ,16-08-1998,Alm. Salg,103,5340,4,1981,
 580,Villa,Bovvej 11,6372, Bylderup-Bov,555000 ,16-08-1998,Alm. Salg,140,3964,5,1972,
-580,Villa,Uge Allegade 9,6360, Tinglev,85000 ,15-08-1998,Alm. Salg,184,462,6,1952,
 580,Villa,Granholm 8,6200, Aabenraa,510000 ,15-08-1998,Alm. Salg,55,9273,2,1953,
 580,Villa,Felsted Nygade 5,6200, Aabenraa,815000 ,14-08-1998,Alm. Salg,193,4223,6,1972,
 580,Rækkehus,Hybenvænget 34,6360, Tinglev,385000 ,13-08-1998,Alm. Salg,96,4010,4,1980,
@@ -20528,7 +20039,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Grænsevejen 93,6360, Tinglev,360000 ,11-08-1998,Alm. Salg,98,3673,3,1765,
 580,Villa,Gamle Bodumvej 1,6200, Aabenraa,500000 ,11-08-1998,Alm. Salg,105,4762,3,1963,
 580,Villa,Nedertoften 1,6230, Rødekro,955000 ,11-08-1998,Alm. Salg,151,6325,5,1984,
-580,Villa,Kolstrup 25B,6200, Aabenraa,820000 ,10-08-1998,Alm. Salg,119,6891,3,1930,
 580,Villa,Agertoften 6,6230, Rødekro,660000 ,10-08-1998,Alm. Salg,157,4204,6,1976,
 580,Villa,Kirkegade 63,6230, Rødekro,498000 ,09-08-1998,Alm. Salg,125,3984,4,1895,
 580,Villa,Østergade 4,6392, Bolderslev,537000 ,09-08-1998,Alm. Salg,290,1852,9,1913,
@@ -20654,12 +20164,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Bjerggade 19,6200, Aabenraa,1435000 ,23-06-1998,Alm. Salg,146,9829,5,1950,
 580,Villa,Vidjevej 4,6372, Bylderup-Bov,410000 ,22-06-1998,Alm. Salg,210,1952,4,1872,
 580,Villa,Stennevej 56,6200, Aabenraa,3000000 ,22-06-1998,Alm. Salg,521,5758,10,1911,
-580,Ejerlejlighed,"Varnæsvej 329C, 1",6200, Aabenraa,1500000 ,21-06-1998,Alm. Salg,156,9615,5,2015,
 580,Villa,Kliplev Toftevej 14,6200, Aabenraa,400000 ,21-06-1998,Alm. Salg,143,2797,5,1966,
 580,Villa,Bøgeparken 15,6230, Rødekro,100925 ,21-06-1998,Alm. Salg,137,737,4,1999,
 580,Villa,Genner Bygade 12,6230, Rødekro,493000 ,21-06-1998,Alm. Salg,116,4250,4,1967,
 580,Villa,Klostervang 35,6200, Aabenraa,640000 ,21-06-1998,Alm. Salg,122,5246,5,1977,
-580,Villa,Varnæsvej 327,6200, Aabenraa,1500000 ,21-06-1998,Alm. Salg,78,19231,2,1875,
 580,Villa,Kobro 3,6372, Bylderup-Bov,428169 ,21-06-1998,Alm. Salg,229,1870,6,1930,
 580,Villa,Vibevej 15,6340, Kruså,1447382 ,21-06-1998,Alm. Salg,178,8131,5,1973,
 580,Villa,Bodumvej 213,6200, Aabenraa,520000 ,21-06-1998,Alm. Salg,100,5200,4,1925,
@@ -20814,9 +20322,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Uglekær 24,6200, Aabenraa,937620 ,30-04-1998,Alm. Salg,153,6128,5,1977,
 580,Villa,Brunbjergvej 70,6200, Aabenraa,836641 ,30-04-1998,Alm. Salg,173,4836,5,1930,
 580,Villa,Bajstrup Bygade 45,6360, Tinglev,458380 ,30-04-1998,Alm. Salg,165,2778,5,1932,
-580,Ejerlejlighed,Ramsherred 19A,6200, Aabenraa,1370000 ,29-04-1998,Alm. Salg,92,14891,2,1700,
-580,Ejerlejlighed,"Skrænten 6, st",6200, Aabenraa,1370000 ,29-04-1998,Alm. Salg,85,16118,3,1930,
-580,Ejerlejlighed,"Skrænten 6, 1",6200, Aabenraa,1370000 ,29-04-1998,Alm. Salg,85,16118,2,1930,
 580,Villa,Præstegaardsvej 11,6200, Aabenraa,500000 ,29-04-1998,Alm. Salg,139,3597,4,1963,
 580,Villa,Krusmøllevej 2,6200, Aabenraa,321000 ,29-04-1998,Alm. Salg,83,3867,3,1960,
 580,Villa,Nørbyvej 2,6200, Aabenraa,530000 ,29-04-1998,Alm. Salg,211,2512,3,1828,
@@ -21628,12 +21133,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Ahlefeldtvej 8,6200, Aabenraa,464000 ,09-07-1997,Alm. Salg,132,3515,5,1973,
 580,Villa,Urnehovedvej 106,6392, Bolderslev,5000 ,09-07-1997,Alm. Salg,127,39,5,1998,
 580,Villa,Lille Jyndevadvej 2,6360, Tinglev,418000 ,09-07-1997,Alm. Salg,232,1802,8,1952,
-580,Rækkehus,Torp Bygade 26,6200, Aabenraa,3449000 ,08-07-1997,Alm. Salg,156,22109,5,1857,
 580,Villa,Buen 100,6200, Aabenraa,830000 ,08-07-1997,Alm. Salg,161,4663,7,1975,
 580,Villa,Hjelmalle 26,6200, Aabenraa,1000000 ,08-07-1997,Fam. Salg,208,4808,9,1939,
 580,Villa,Nyhusvej 12,6330, Padborg,848000 ,08-07-1997,Alm. Salg,137,6190,5,1980,
 580,Villa,Jørgensgård 28,6200, Aabenraa,707000 ,08-07-1997,Alm. Salg,184,3842,8,1908,
-580,Villa,Torp Bygade 28,6200, Aabenraa,3449000 ,08-07-1997,Alm. Salg,273,12634,7,1857,
 580,Rækkehus,Gildegade 6,6200, Aabenraa,482000 ,07-07-1997,Alm. Salg,78,6179,3,1750,
 580,Villa,Hokkerup Gade 14A,6340, Kruså,310000 ,07-07-1997,Alm. Salg,91,3407,4,1900,
 580,Villa,Jørgensgård 19,6200, Aabenraa,2015000 ,07-07-1997,Alm. Salg,233,8648,7,1932,
@@ -21823,12 +21326,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Rugmarken 19,6230, Rødekro,840000 ,14-05-1997,Alm. Salg,114,7368,4,1983,
 580,Villa,Bajstrup Bygade 31,6360, Tinglev,370000 ,14-05-1997,Alm. Salg,119,3109,5,1968,
 580,Villa,Gamle Bodumvej 10,6200, Aabenraa,720400 ,14-05-1997,Alm. Salg,153,4708,4,1975,
-580,Ejerlejlighed,"Skrænten 38, 1",6200, Aabenraa,3565000 ,13-05-1997,Andet,112,31830,3,1899,
-580,Ejerlejlighed,"Ramsherred 53B, 1. th",6200, Aabenraa,3565000 ,13-05-1997,Andet,88,40511,3,1936,
-580,Ejerlejlighed,"Ramsherred 53B, 1. tv",6200, Aabenraa,3565000 ,13-05-1997,Andet,94,37926,3,1936,
-580,Ejerlejlighed,"Ramsherred 53B, 2",6200, Aabenraa,3565000 ,13-05-1997,Andet,94,37926,3,1936,
-580,Ejerlejlighed,"Skrænten 38, st",6200, Aabenraa,3565000 ,13-05-1997,Andet,112,31830,3,1899,
-580,Ejerlejlighed,"Skrænten 38, 2",6200, Aabenraa,3565000 ,13-05-1997,Andet,108,33009,4,1899,
 580,Villa,Østergade 46,6230, Rødekro,337727 ,13-05-1997,Alm. Salg,197,1714,9,1954,
 580,Villa,Lindbjergparken 127,6200, Aabenraa,1478000 ,13-05-1997,Alm. Salg,177,8350,6,1988,
 580,Villa,Skovby Bygade 30,6200, Aabenraa,425000 ,13-05-1997,Alm. Salg,137,3102,5,2014,
@@ -21900,7 +21397,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Bjerndrup Bygade 34,6200, Aabenraa,250000 ,20-04-1997,Fam. Salg,80,3125,4,1942,
 580,Villa,Nørregade 3,6200, Aabenraa,353000 ,20-04-1997,Alm. Salg,123,2870,3,1961,
 580,Villa,Drejbjergvej 7,6200, Aabenraa,467200 ,20-04-1997,Alm. Salg,184,2539,6,1947,
-580,Villa,Ingesvej 5,6200, Aabenraa,510000 ,20-04-1997,Alm. Salg,120,4250,4,1972,
 580,Villa,Urnehovedvej 33,6392, Bolderslev,587000 ,20-04-1997,Alm. Salg,118,4975,4,1977,
 580,Villa,Bygmarken 25,6230, Rødekro,870547 ,20-04-1997,Alm. Salg,148,5882,5,1978,
 580,Villa,Kirkegade 35,6230, Rødekro,485000 ,20-04-1997,Alm. Salg,127,3819,4,1959,
@@ -21945,7 +21441,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Ternevænget 143,6360, Tinglev,88125 ,09-04-1997,Alm. Salg,144,612,5,1997,
 580,Villa,Tøndervej 32,6340, Kruså,200000 ,08-04-1997,Alm. Salg,67,2985,2,1954,
 580,Villa,Nørreagervej 11A,6360, Tinglev,300000 ,08-04-1997,Alm. Salg,143,2098,5,1944,
-580,Villa,Lillegade 18,6200, Aabenraa,125000 ,08-04-1997,Alm. Salg,108,1157,4,1930,
 580,Villa,Tarrelyk 14,6200, Aabenraa,1150000 ,07-04-1997,Alm. Salg,132,8712,4,1983,
 580,Villa,Skovbølgaardvej 4,6200, Aabenraa,570000 ,07-04-1997,Alm. Salg,109,5229,4,1939,
 580,Villa,Nørrekurv 9,6372, Bylderup-Bov,500000 ,07-04-1997,Alm. Salg,93,5376,3,1875,
@@ -22074,7 +21569,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Solvænget 4,6200, Aabenraa,450000 ,25-02-1997,Alm. Salg,115,3913,4,1930,
 580,Villa,Møllevænget 4,6200, Aabenraa,330000 ,25-02-1997,Alm. Salg,151,2185,5,1998,
 580,Villa,Kromai 41,6200, Aabenraa,634500 ,24-02-1997,Alm. Salg,114,5566,4,1976,
-580,Villa,"Skibbrogade 2B, 1",6200, Aabenraa,940000 ,24-02-1997,Alm. Salg,40,23500,1,1890,
 580,Villa,Wais 5C,6200, Aabenraa,890000 ,24-02-1997,Alm. Salg,165,5394,8,1977,
 580,Villa,Grydehøjvej 22,6330, Padborg,61187 ,23-02-1997,Alm. Salg,129,474,4,1997,
 580,Villa,Skovbakken 11,6340, Kruså,600000 ,23-02-1997,Alm. Salg,108,5556,3,1959,
@@ -22137,7 +21631,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Birkevej 26,6200, Aabenraa,761000 ,03-02-1997,Alm. Salg,178,4275,6,1958,
 580,Villa,Skoleløkke 19,6200, Aabenraa,120000 ,03-02-1997,Alm. Salg,147,816,4,1997,
 580,Villa,Sønderballevej 31,6230, Rødekro,360000 ,03-02-1997,Alm. Salg,154,2338,4,1870,
-580,Villa,Sønderport 37C,6200, Aabenraa,170206 ,03-02-1997,Fam. Salg,70,2432,3,1932,
 580,Villa,Fjordvejen 22,6340, Kruså,2532100 ,03-02-1997,Alm. Salg,270,9378,8,1998,
 580,Villa,Østerløkke 6,6200, Aabenraa,975000 ,02-02-1997,Alm. Salg,136,7169,4,1968,
 580,Villa,Møllegade 5,6230, Rødekro,516622 ,02-02-1997,Alm. Salg,142,3638,4,1946,
@@ -22152,7 +21645,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Rugmarken 58,6360, Tinglev,618000 ,30-01-1997,Alm. Salg,129,4791,4,1977,
 580,Villa,Stentoftvej 15,6200, Aabenraa,802000 ,30-01-1997,Alm. Salg,107,7495,3,1961,
 580,Villa,Hærvejen 80,6230, Rødekro,703000 ,30-01-1997,Alm. Salg,216,3255,10,1908,
-580,Villa,Uge Allegade 9,6360, Tinglev,2839975 ,29-01-1997,Andet,184,15435,6,1952,
 580,Villa,Østerskovvej 15A,6340, Kruså,610592 ,29-01-1997,Alm. Salg,162,3769,4,1961,
 580,Villa,Hovedgaden 45,6360, Tinglev,600000 ,29-01-1997,Andet,248,2419,12,1927,
 580,Villa,Ternevænget 137,6360, Tinglev,88250 ,29-01-1997,Alm. Salg,144,613,5,1997,
@@ -22429,7 +21921,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Østervang 13,6200, Aabenraa,925000 ,09-10-1996,Alm. Salg,160,5781,6,1970,
 580,Villa,Kummelefort 6,6340, Kruså,1496000 ,09-10-1996,Alm. Salg,284,5268,8,1877,
 580,Villa,Urnehovedvej 52,6392, Bolderslev,470000 ,09-10-1996,Alm. Salg,174,2701,7,1976,
-580,Villa,"Østergade 20B, st",6230, Rødekro,400000 ,08-10-1996,Alm. Salg,63,6349,3,1927,
 580,Villa,Fjordbakken 12,6340, Kruså,200000 ,07-10-1996,Alm. Salg,193,1036,7,2010,
 580,Villa,Bjerndrup Bygade 27,6200, Aabenraa,223000 ,06-10-1996,Alm. Salg,119,1874,5,1952,
 580,Villa,Ravsted Hovedgade 20,6372, Bylderup-Bov,320000 ,06-10-1996,Alm. Salg,129,2481,4,1954,
@@ -23047,7 +22538,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Ejerlejlighed,"Rise Bygade 36, 1",6230, Rødekro,675000 ,18-03-1996,Alm. Salg,80,8438,3,1897,
 580,Villa,Fyrreparken 17,6230, Rødekro,967000 ,18-03-1996,Alm. Salg,151,6404,5,1989,
 580,Villa,Vibevej 5,6340, Kruså,585000 ,18-03-1996,Alm. Salg,110,5318,3,1971,
-580,Villa,Hærvejen 57,6230, Rødekro,365500 ,18-03-1996,Fam. Salg,60,6092,2,1914,
 580,Villa,Mjølsvej 32,6230, Rødekro,235000 ,17-03-1996,Alm. Salg,105,2238,4,1963,
 580,Villa,Dyrhave 41,6200, Aabenraa,1325000 ,17-03-1996,Alm. Salg,184,7201,4,1969,
 580,Villa,Stenskær 13,6372, Bylderup-Bov,380500 ,17-03-1996,Alm. Salg,141,2199,7,1969,
@@ -23163,11 +22653,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Buen 50,6200, Aabenraa,699000 ,12-02-1996,Alm. Salg,153,4569,5,1974,
 580,Villa,Hærvejen 93,6200, Aabenraa,360000 ,12-02-1996,Alm. Salg,230,1565,7,1790,
 580,Villa,Urnehovedvej 4,6392, Bolderslev,720000 ,12-02-1996,Alm. Salg,176,4091,5,1977,
-580,Ejerlejlighed,"Vinkelvej 2, 1. tv",6230, Rødekro,1500000 ,11-02-1996,Fam. Salg,110,13636,3,1900,
-580,Ejerlejlighed,"Vinkelvej 2, 1",6230, Rødekro,1500000 ,11-02-1996,Fam. Salg,113,13274,3,1900,
-580,Ejerlejlighed,"Vinkelvej 2, st. tv",6230, Rødekro,1500000 ,11-02-1996,Fam. Salg,134,11194,3,1900,
-580,Ejerlejlighed,"Vinkelvej 2, st. th",6230, Rødekro,1500000 ,11-02-1996,Fam. Salg,111,13514,3,1900,
-580,Ejerlejlighed,Vestergade 13,6230, Rødekro,1500000 ,11-02-1996,Fam. Salg,113,13274,3,1900,
 580,Villa,Jaruplundvej 4,6330, Padborg,68000 ,11-02-1996,Alm. Salg,179,380,5,1996,
 580,Villa,Bygmarken 8,6360, Tinglev,50000 ,11-02-1996,Alm. Salg,195,256,6,1996,
 580,Villa,Styrtom Skovvej 6,6200, Aabenraa,725000 ,11-02-1996,Alm. Salg,187,3877,5,1957,
@@ -23223,7 +22708,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Bytoften 4,6200, Aabenraa,80000 ,14-01-1996,Alm. Salg,237,338,6,1902,
 580,Villa,Egeparken 49,6230, Rødekro,796000 ,14-01-1996,Alm. Salg,136,5853,5,1979,
 580,Villa,Stadionvej 10,6392, Bolderslev,302000 ,14-01-1996,Alm. Salg,105,2876,3,1918,
-580,Villa,Skibbroen 8B,6200, Aabenraa,1100000 ,12-01-1996,Alm. Salg,50,22000,2,1870,
 580,Villa,Oksevejen 23,6230, Rødekro,52000 ,11-01-1996,Alm. Salg,90,578,2,1900,
 580,Villa,Søglimt 3,6340, Kruså,495000 ,10-01-1996,Alm. Salg,122,4057,4,1959,
 580,Villa,Aagade 6,6200, Aabenraa,193000 ,10-01-1996,Alm. Salg,68,2838,2,1927,
@@ -23242,16 +22726,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Rugbjergvej 30,6230, Rødekro,2912000 ,27-12-1995,Fam. Salg,122,23869,4,1960,
 580,Villa,Søstvej 29,6200, Aabenraa,1720000 ,27-12-1995,Andet,328,5244,10,1974,
 580,Villa,Nørreagervej 16A,6360, Tinglev,322522 ,27-12-1995,Alm. Salg,110,1772,5,1932,
-580,Ejerlejlighed,"Store Pottergade 2A, st. tv",6200, Aabenraa,2510000 ,21-12-1995,Fam. Salg,68,36912,3,1700,
-580,Ejerlejlighed,"Store Pottergade 2C, 1. tv",6200, Aabenraa,2510000 ,21-12-1995,Fam. Salg,115,21826,4,1700,
-580,Ejerlejlighed,Store Pottergade 2D,6200, Aabenraa,2510000 ,21-12-1995,Fam. Salg,87,28851,1,1700,
-580,Ejerlejlighed,"Store Pottergade 2A, 1. tv",6200, Aabenraa,2510000 ,21-12-1995,Fam. Salg,66,38030,2,1700,
-580,Ejerlejlighed,"Store Pottergade 2A, 1. th",6200, Aabenraa,2510000 ,21-12-1995,Fam. Salg,62,40484,3,1700,
-580,Ejerlejlighed,"Store Pottergade 2C, 1. th",6200, Aabenraa,2510000 ,21-12-1995,Fam. Salg,109,23028,4,1700,
-580,Ejerlejlighed,Store Pottergade 2B,6200, Aabenraa,2510000 ,21-12-1995,Fam. Salg,86,29186,3,1700,
-580,Ejerlejlighed,"Store Pottergade 2A, st. th",6200, Aabenraa,2510000 ,21-12-1995,Fam. Salg,53,47358,3,1700,
-580,Ejerlejlighed,"Ramsherred 44D, 1. tv",6200, Aabenraa,2510000 ,21-12-1995,Fam. Salg,161,15590,5,1700,
-580,Ejerlejlighed,"Ramsherred 44D, 1. th",6200, Aabenraa,2510000 ,21-12-1995,Fam. Salg,113,22212,3,1700,
 580,Villa,Nygade 24,6330, Padborg,575000 ,21-12-1995,Alm. Salg,158,3639,5,1927,
 580,Villa,Nørrehesselvej 29,6200, Aabenraa,671500 ,21-12-1995,Fam. Salg,110,6105,3,2001,
 580,Villa,Vestergade 49,6230, Rødekro,364124 ,21-12-1995,Alm. Salg,62,5873,3,1943,
@@ -23344,7 +22818,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Gadekær 11,6200, Aabenraa,280500 ,19-11-1995,Fam. Salg,136,2063,6,1870,
 580,Villa,Ravnholt 50,6200, Aabenraa,475000 ,19-11-1995,Alm. Salg,179,2654,3,1877,
 580,Villa,Åbovej 3,6372, Bylderup-Bov,265000 ,16-11-1995,Alm. Salg,93,2849,4,1957,
-580,Villa,Uge Allegade 9,6360, Tinglev,2180000 ,16-11-1995,Alm. Salg,184,11848,6,1952,
 580,Villa,Uge Allegade 11,6360, Tinglev,220000 ,16-11-1995,Alm. Salg,163,1350,5,1937,
 580,Villa,Uge Allegade 14,6360, Tinglev,140000 ,16-11-1995,Alm. Salg,238,588,7,1890,
 580,Villa,Uge Allegade 13,6360, Tinglev,160000 ,16-11-1995,Alm. Salg,173,925,9,1901,
@@ -23414,7 +22887,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Padborgvej 25,6330, Padborg,395000 ,26-10-1995,Alm. Salg,168,2351,7,1922,
 580,Villa,Barsø Bygade 59,6210, Barsø,370000 ,26-10-1995,Alm. Salg,138,2681,4,1827,
 580,Villa,Grydehøjvej 8,6330, Padborg,882000 ,26-10-1995,Alm. Salg,120,7350,5,1986,
-580,Villa,Hjelmalle 22A,6200, Aabenraa,779364 ,25-10-1995,Alm. Salg,72,10825,2,1975,
 580,Villa,Posekærvej 38,6200, Aabenraa,292000 ,24-10-1995,Alm. Salg,182,1604,5,1996,
 580,Villa,Jaruplundvej 6,6330, Padborg,68000 ,23-10-1995,Alm. Salg,151,450,5,1996,
 580,Villa,Perbølvej 35,6392, Bolderslev,550000 ,23-10-1995,Alm. Salg,156,3526,6,1780,
@@ -23422,7 +22894,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Kummelefort 10A,6340, Kruså,545000 ,22-10-1995,Alm. Salg,179,3045,5,2021,
 580,Villa,Possemosen 12,6200, Aabenraa,965000 ,22-10-1995,Alm. Salg,114,8465,4,1982,
 580,Villa,Klovtoftvej 6,6230, Rødekro,175000 ,22-10-1995,Alm. Salg,124,1411,5,1920,
-580,Villa,Hjelmalle 22A,6200, Aabenraa,779000 ,22-10-1995,Auktion,72,10819,2,1975,
 580,Villa,Felsted Nygade 34,6200, Aabenraa,414000 ,19-10-1995,Alm. Salg,89,4652,3,1965,
 580,Villa,Søglimt 12,6340, Kruså,750000 ,19-10-1995,Alm. Salg,156,4808,4,1964,
 580,Villa,Stenløkke 17,6200, Aabenraa,318880 ,19-10-1995,Alm. Salg,95,3357,4,1964,
@@ -23482,7 +22953,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Høgelsbjerg 33,6200, Aabenraa,386724 ,01-10-1995,Alm. Salg,126,3069,5,1985,
 580,Villa,Callesensgade 1,6200, Aabenraa,100180 ,01-10-1995,Fam. Salg,231,434,7,1912,
 580,Rækkehus,Tråsbøl Bygade 30,6200, Aabenraa,230000 ,30-09-1995,Alm. Salg,81,2840,3,1905,
-580,Villa,Sønderport 37C,6200, Aabenraa,432690 ,30-09-1995,Alm. Salg,70,6181,3,1932,
 580,Villa,Nørreagervej 52,6360, Tinglev,650000 ,29-09-1995,Alm. Salg,245,2653,6,1977,
 580,Villa,Nørreskovvej 15,6230, Rødekro,564337 ,29-09-1995,Alm. Salg,136,4150,4,1971,
 580,Ejerlejlighed,Hovedgaden 24A,6360, Tinglev,675000 ,28-09-1995,Alm. Salg,124,5444,4,1926,
@@ -23573,7 +23043,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Lillegade 9,6200, Aabenraa,221000 ,04-09-1995,Fam. Salg,116,1905,4,1910,
 580,Villa,Grydehøjvej 16,6330, Padborg,347000 ,04-09-1995,Fam. Salg,120,2892,4,1987,
 580,Villa,Valdemarsgade 5,6330, Padborg,115000 ,03-09-1995,Alm. Salg,231,498,9,1927,
-580,Villa,Haderslevvej 68C,6200, Aabenraa,700000 ,31-08-1995,Alm. Salg,67,10448,3,1925,
 580,Villa,Ingebølvej 14,6392, Bolderslev,450000 ,31-08-1995,Alm. Salg,197,2284,7,1931,
 580,Villa,Jernbanegade 10,6330, Padborg,150000 ,31-08-1995,Alm. Salg,154,974,3,1932,
 580,Villa,Åløkke 37,6230, Rødekro,520000 ,31-08-1995,Alm. Salg,116,4483,4,1969,
@@ -23595,7 +23064,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Rækkehus,Borgmesterløkken 13B,6200, Aabenraa,525000 ,27-08-1995,Alm. Salg,92,5707,5,1953,
 580,Villa,Engvej 8,6230, Rødekro,774000 ,27-08-1995,Alm. Salg,139,5568,5,1979,
 580,Villa,Burkal Skolevej 22,6372, Bylderup-Bov,581770 ,27-08-1995,Alm. Salg,235,2476,11,1912,
-580,Villa,Styrtom Bygade 4C,6200, Aabenraa,350000 ,26-08-1995,Alm. Salg,120,2917,3,1880,
 580,Villa,Jættevej 19,6200, Aabenraa,667000 ,25-08-1995,Alm. Salg,166,4018,5,1964,
 580,Villa,Vestermarken 31,6360, Tinglev,517554 ,24-08-1995,Alm. Salg,101,5124,4,1984,
 580,Villa,Dyrhave 69,6200, Aabenraa,1611734 ,24-08-1995,Alm. Salg,214,7531,5,1973,
@@ -23622,20 +23090,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Vandværksvej 13,6340, Kruså,265511 ,20-08-1995,Alm. Salg,168,1580,4,1962,
 580,Villa,Lundtoftvej 15A,6200, Aabenraa,580000 ,19-08-1995,Alm. Salg,192,3021,7,1982,
 580,Villa,Bakkevej 9,6200, Aabenraa,780000 ,19-08-1995,Alm. Salg,143,5455,5,1969,
-580,Ejerlejlighed,"Vestergade 25, 1",6200, Aabenraa,3373359 ,17-08-1995,Alm. Salg,117,28832,3,1830,
-580,Ejerlejlighed,"Vestergade 25, 2. tv",6200, Aabenraa,3373359 ,17-08-1995,Alm. Salg,26,129745,2,1830,
-580,Ejerlejlighed,"Vestergade 25, st. tv",6200, Aabenraa,3373359 ,17-08-1995,Alm. Salg,45,74964,2,1830,
-580,Ejerlejlighed,Vestergade 29,6200, Aabenraa,3373359 ,17-08-1995,Alm. Salg,81,41646,2,1874,
-580,Ejerlejlighed,"Vestergade 25, 2. th",6200, Aabenraa,3373359 ,17-08-1995,Alm. Salg,47,71774,2,1830,
-580,Ejerlejlighed,"Nybro 1A, st",6200, Aabenraa,3373359 ,17-08-1995,Alm. Salg,60,56223,2,1874,
-580,Ejerlejlighed,"Nybro 1A, 1. tv",6200, Aabenraa,3373359 ,17-08-1995,Alm. Salg,63,53545,2,1874,
-580,Ejerlejlighed,"Nybro 1A, 1. th",6200, Aabenraa,3373359 ,17-08-1995,Alm. Salg,85,39687,3,1874,
-580,Ejerlejlighed,Nybro 1B,6200, Aabenraa,3373359 ,17-08-1995,Alm. Salg,43,78450,2,1874,
-580,Ejerlejlighed,"Nybro 1C, st. tv",6200, Aabenraa,3373359 ,17-08-1995,Alm. Salg,79,42701,2,1902,
-580,Ejerlejlighed,"Nybro 1C, 1. th",6200, Aabenraa,3373359 ,17-08-1995,Alm. Salg,147,22948,4,1902,
-580,Ejerlejlighed,"Nybro 1C, st. th",6200, Aabenraa,3373359 ,17-08-1995,Alm. Salg,42,80318,2,1902,
-580,Ejerlejlighed,"Nybro 1C, 1. tv",6200, Aabenraa,3373359 ,17-08-1995,Alm. Salg,85,39687,3,1902,
-580,Villa,Nybro 1E,6200, Aabenraa,3373359 ,17-08-1995,Alm. Salg,46,73334,1,1902,
 580,Villa,Volmersvej 2A,6330, Padborg,128000 ,17-08-1995,Alm. Salg,215,595,5,1996,
 580,Villa,Åløkke 66,6372, Bylderup-Bov,217481 ,17-08-1995,Alm. Salg,127,1712,4,1976,
 580,Ejerlejlighed,"Gammel Tinglevvej 10, st",6200, Aabenraa,320000 ,16-08-1995,Alm. Salg,132,2424,3,1936,
@@ -23980,10 +23434,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Ejerlejlighed,Nybro 20A,6200, Aabenraa,392000 ,10-04-1995,Alm. Salg,88,4455,3,1800,
 580,Villa,Myrkærvej 17,6392, Bolderslev,323000 ,10-04-1995,Alm. Salg,120,2692,4,1968,
 580,Villa,Hønefossvej 12,6200, Aabenraa,828000 ,10-04-1995,Alm. Salg,166,4988,5,1951,
-580,Ejerlejlighed,Skrænten 64,6200, Aabenraa,2100000 ,09-04-1995,Alm. Salg,55,38182,1,1802,
-580,Ejerlejlighed,"Storegade 23B, 1",6200, Aabenraa,2100000 ,09-04-1995,Alm. Salg,63,33333,3,1802,
-580,Ejerlejlighed,"Skrænten 62, 1",6200, Aabenraa,2100000 ,09-04-1995,Alm. Salg,71,29577,3,1802,
-580,Ejerlejlighed,"Skrænten 62, st",6200, Aabenraa,2100000 ,09-04-1995,Alm. Salg,83,25301,3,1802,
 580,Villa,Bygaden 4B,6340, Kruså,499000 ,09-04-1995,Alm. Salg,115,4339,4,1989,
 580,Villa,Burkal Kirkevej 44,6372, Bylderup-Bov,175000 ,09-04-1995,Alm. Salg,157,1115,4,1775,
 580,Villa,Mosevej 15,6200, Aabenraa,120000 ,09-04-1995,Alm. Salg,218,550,6,1996,
@@ -24173,7 +23623,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Ravsted Hovedgade 1,6372, Bylderup-Bov,455000 ,01-02-1995,Alm. Salg,219,2078,7,1900,
 580,Villa,Egeparken 17,6230, Rødekro,465000 ,31-01-1995,Alm. Salg,122,3811,5,1981,
 580,Villa,Strandvej 4,6340, Kruså,660000 ,30-01-1995,Alm. Salg,117,5641,5,2003,
-580,Villa,Callesensgade 13C,6200, Aabenraa,500000 ,30-01-1995,Andet,79,6329,2,1923,
 580,Villa,Hokkerup Gade 14A,6340, Kruså,360000 ,29-01-1995,Alm. Salg,91,3956,4,1900,
 580,Villa,Hyndingvej 9,6372, Bylderup-Bov,58000 ,29-01-1995,Alm. Salg,155,374,5,1870,
 580,Villa,Løjt Svinget 6,6200, Aabenraa,548000 ,29-01-1995,Alm. Salg,124,4419,4,1968,
@@ -24852,7 +24301,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Hønkysvej 6,6230, Rødekro,172955 ,30-05-1994,Fam. Salg,120,1441,3,1912,
 580,Villa,Bølåvej 2,6360, Tinglev,348180 ,30-05-1994,Alm. Salg,169,2060,5,1956,
 580,Villa,Gl Skovbølvej 18,6200, Aabenraa,230000 ,29-05-1994,Alm. Salg,80,2875,3,1877,
-580,Villa,Vestergade 17B,6200, Aabenraa,374000 ,29-05-1994,Andet,46,8130,2,1986,
 580,Villa,Toften 66,6330, Padborg,505000 ,29-05-1994,Alm. Salg,89,5674,4,1984,
 580,Villa,Hovedgaden 67,6360, Tinglev,340000 ,29-05-1994,Alm. Salg,138,2464,5,1958,
 580,Villa,Sønderhavvej 19,6340, Kruså,847000 ,29-05-1994,Alm. Salg,198,4278,6,1936,
@@ -24930,7 +24378,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Ejerlejlighed,"Frydendal 11F, st. 31",6200, Aabenraa,312000 ,30-04-1994,Alm. Salg,91,3429,2,1974,
 580,Ejerlejlighed,"Callesensgade 19, st",6200, Aabenraa,546000 ,27-04-1994,Alm. Salg,97,5629,3,1920,
 580,Villa,Fællesgade 4,6230, Rødekro,820000 ,27-04-1994,Alm. Salg,158,5190,4,1987,
-580,Villa,Vestergade 17B,6200, Aabenraa,460000 ,27-04-1994,Andet,46,10000,2,1986,
 580,Villa,Stenskær 14,6372, Bylderup-Bov,455000 ,27-04-1994,Alm. Salg,177,2571,4,1971,
 580,Villa,Ådalen 9,6200, Aabenraa,353000 ,27-04-1994,Alm. Salg,133,2654,3,1968,
 580,Villa,Ravsted Storegade 45,6372, Bylderup-Bov,220000 ,27-04-1994,Alm. Salg,78,2821,4,1943,
@@ -25214,8 +24661,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Hovedgaden 68,6360, Tinglev,720000 ,09-02-1994,Alm. Salg,154,4675,7,1960,
 580,Villa,Møllevej 53,6230, Rødekro,500000 ,09-02-1994,Alm. Salg,130,3846,4,1978,
 580,Rækkehus,Æblevænget 10,6330, Padborg,475000 ,08-02-1994,Alm. Salg,86,5523,3,1988,
-580,Rækkehus,Borgmesterløkken 36,6200, Aabenraa,230000 ,08-02-1994,Alm. Salg,90,2556,4,1941,
-580,Villa,Søndermark 27,6200, Aabenraa,230000 ,08-02-1994,Alm. Salg,84,2738,3,1940,
 580,Villa,Nørager 11,6230, Rødekro,778950 ,08-02-1994,Alm. Salg,180,4328,7,1973,
 580,Villa,Kromai 68,6200, Aabenraa,913000 ,08-02-1994,Alm. Salg,136,6713,5,1984,
 580,Villa,Frueløkke 231,6200, Aabenraa,180000 ,08-02-1994,Alm. Salg,177,1017,5,1994,
@@ -25263,7 +24708,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Buskhøjvej 43,6330, Padborg,525000 ,26-01-1994,Alm. Salg,98,5357,4,1963,
 580,Villa,Noldevej 19,6372, Bylderup-Bov,200000 ,26-01-1994,Alm. Salg,209,957,6,1898,
 580,Villa,Rugmarken 6,6230, Rødekro,770000 ,26-01-1994,Alm. Salg,136,5662,5,1984,
-580,Villa,Slotsgade 31C,6200, Aabenraa,1486689 ,26-01-1994,Fam. Salg,46,32319,1,1900,
 580,Villa,Surreroj 25,6372, Bylderup-Bov,504000 ,26-01-1994,Alm. Salg,149,3383,6,1977,
 580,Villa,Kromai 115,6200, Aabenraa,660000 ,26-01-1994,Alm. Salg,132,5000,4,1978,
 580,Villa,Strandgade 32,6200, Aabenraa,450000 ,25-01-1994,Alm. Salg,114,3947,4,1964,
@@ -25608,20 +25052,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Løkkegårdsvej 68,6230, Rødekro,534000 ,13-09-1993,Alm. Salg,145,3683,5,1976,
 580,Villa,Valdemarsgade 12,6330, Padborg,820000 ,13-09-1993,Alm. Salg,186,4409,5,1935,
 580,Villa,Løjt Gildegade 1,6200, Aabenraa,240000 ,13-09-1993,Fam. Salg,96,2500,4,1965,
-580,Ejerlejlighed,"Nørretorv 3D, st. tv",6200, Aabenraa,7100000 ,12-09-1993,Andet,97,73196,3,1950,
-580,Ejerlejlighed,"Skolevej 21, st",6200, Aabenraa,7100000 ,12-09-1993,Andet,102,69608,3,1907,
-580,Ejerlejlighed,"Nørretorv 3D, 1. 4",6200, Aabenraa,7100000 ,12-09-1993,Andet,141,50355,4,1907,
-580,Ejerlejlighed,"Nørretorv 3D, 1. 1",6200, Aabenraa,7100000 ,12-09-1993,Andet,137,51825,4,1950,
-580,Ejerlejlighed,Nørretorv 3C,6200, Aabenraa,7100000 ,12-09-1993,Andet,81,87654,3,1950,
-580,Ejerlejlighed,"Nørretorv 3D, st. mf",6200, Aabenraa,7100000 ,12-09-1993,Andet,113,62832,3,1950,
-580,Ejerlejlighed,"Nørretorv 3D, st. th",6200, Aabenraa,7100000 ,12-09-1993,Andet,63,112698,2,1953,
-580,Ejerlejlighed,"Nørretorv 3A, 1. th",6200, Aabenraa,7100000 ,12-09-1993,Andet,122,58197,3,1950,
-580,Ejerlejlighed,"Nørretorv 3A, 1. tv",6200, Aabenraa,7100000 ,12-09-1993,Andet,121,58678,3,1950,
-580,Ejerlejlighed,"Nørretorv 3D, 1. 2",6200, Aabenraa,7100000 ,12-09-1993,Andet,95,74737,3,1950,
-580,Ejerlejlighed,"Nørretorv 3D, 1. 3",6200, Aabenraa,7100000 ,12-09-1993,Andet,92,74737,3,1950,
-580,Ejerlejlighed,"Skolevej 21, 1",6200, Aabenraa,7100000 ,12-09-1993,Andet,131,54198,4,1907,
-580,Ejerlejlighed,Skolevej 23,6200, Aabenraa,7100000 ,12-09-1993,Andet,99,71717,3,1953,
-580,Ejerlejlighed,Nørretorv 3B,6200, Aabenraa,7100000 ,12-09-1993,Andet,70,101429,3,1950,
 580,Villa,Gamle Kongevej 78,6200, Aabenraa,712000 ,12-09-1993,Alm. Salg,99,7192,4,1955,
 580,Villa,Nybølvej 7,6230, Rødekro,369000 ,12-09-1993,Alm. Salg,172,2145,4,1910,
 580,Villa,Åløkke 30,6230, Rødekro,615000 ,12-09-1993,Alm. Salg,116,5302,4,1971,
@@ -25690,7 +25120,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Kragelundvej 3B,6330, Padborg,635000 ,24-08-1993,Alm. Salg,240,2646,10,1956,
 580,Villa,Søgård Ringvej 25,6200, Aabenraa,50000 ,23-08-1993,Alm. Salg,164,305,5,1994,
 580,Rækkehus,Kalveknækket 10,6340, Kruså,429000 ,22-08-1993,Alm. Salg,133,3226,4,1980,
-580,Ejerlejlighed,"Søndergade 20A, 2",6200, Aabenraa,500000 ,22-08-1993,Andet,139,3597,2,1758,
 580,Villa,Varnæsvej 536,6200, Aabenraa,204000 ,22-08-1993,Fam. Salg,114,1789,4,1997,
 580,Villa,Hærvejen 97,6230, Rødekro,500000 ,22-08-1993,Alm. Salg,140,3571,5,1949,
 580,Villa,Varnæsvej 67,6200, Aabenraa,830000 ,21-08-1993,Alm. Salg,176,4716,6,1967,
@@ -25709,7 +25138,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Lindholmvej 23,6330, Padborg,505000 ,16-08-1993,Alm. Salg,129,3915,4,1967,
 580,Villa,Fjordvejen 25,6340, Kruså,2025000 ,16-08-1993,Alm. Salg,289,7007,4,1982,
 580,Villa,Varnæsvigvej 39,6200, Aabenraa,807500 ,15-08-1993,Alm. Salg,187,4318,5,1969,
-580,Villa,Slotsgade 17B,6200, Aabenraa,926500 ,15-08-1993,Fam. Salg,131,7073,6,1800,
 580,Villa,Hærvejen 48,6230, Rødekro,330000 ,15-08-1993,Alm. Salg,159,2075,4,0,
 580,Villa,Ellundvej 49,6330, Padborg,755000 ,15-08-1993,Alm. Salg,161,4689,6,1986,
 580,Villa,Hasselhaven 16,6330, Padborg,588000 ,15-08-1993,Alm. Salg,165,3564,4,1972,
@@ -25821,8 +25249,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Søndervænget 30,6230, Rødekro,436000 ,04-07-1993,Fam. Salg,150,2907,7,1957,
 580,Villa,Ryttervad 4,6330, Padborg,2000 ,04-07-1993,Alm. Salg,206,10,6,2009,
 580,Villa,Søglimt 6,6340, Kruså,560000 ,02-07-1993,Alm. Salg,250,2240,7,1827,
-580,Rækkehus,Uge Bygade 24B,6360, Tinglev,538063 ,01-07-1993,Alm. Salg,205,2625,7,1881,
-580,Ejerlejlighed,Uge Bygade 24A,6360, Tinglev,538063 ,01-07-1993,Alm. Salg,44,12229,2,1881,
 580,Villa,Lavgade 4,6200, Aabenraa,380000 ,01-07-1993,Fam. Salg,86,4419,4,1907,
 580,Villa,Ravsted Skolegade 9,6372, Bylderup-Bov,204000 ,01-07-1993,Fam. Salg,84,2429,2,1954,
 580,Villa,Bag Volden 6,6392, Bolderslev,458000 ,01-07-1993,Alm. Salg,182,2516,5,1973,
@@ -25864,7 +25290,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Stalholt 9,6200, Aabenraa,660000 ,20-06-1993,Alm. Salg,149,4430,6,1967,
 580,Villa,Vingelhøjvej 22,6200, Aabenraa,180000 ,20-06-1993,Alm. Salg,256,703,8,1830,
 580,Villa,Mågevej 2,6230, Rødekro,580000 ,20-06-1993,Alm. Salg,176,3295,4,1970,
-580,Villa,Skibbrogade 9B,6200, Aabenraa,1326126 ,20-06-1993,Andet,94,14108,2,1897,
 580,Villa,Nørreskovparken 85,6200, Aabenraa,860000 ,18-06-1993,Alm. Salg,146,5890,6,1986,
 580,Villa,Havstedvej 58,6372, Bylderup-Bov,135000 ,17-06-1993,Alm. Salg,120,1125,4,1930,
 580,Villa,Rugmarken 44,6360, Tinglev,400000 ,17-06-1993,Alm. Salg,144,2778,4,1978,
@@ -25942,7 +25367,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Hokkerup Gade 5,6340, Kruså,700000 ,16-05-1993,Alm. Salg,229,3057,6,1840,
 580,Villa,Engvej 1,6340, Kruså,647000 ,16-05-1993,Auktion,116,5578,4,1950,
 580,Villa,Havretoften 20,6200, Aabenraa,966000 ,16-05-1993,Alm. Salg,128,7547,4,1979,
-580,Villa,Løjt Storegade 38D,6200, Aabenraa,1540000 ,16-05-1993,Andet,93,16559,3,1983,
 580,Villa,Vestergade 24,6392, Bolderslev,370000 ,15-05-1993,Fam. Salg,250,1480,8,1911,
 580,Villa,Fjordbakken 11,6340, Kruså,170000 ,14-05-1993,Alm. Salg,230,739,5,1997,
 580,Ejerlejlighed,Klinkbjerg 8B,6200, Aabenraa,617049 ,13-05-1993,Alm. Salg,102,6050,3,1988,
@@ -26023,7 +25447,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Bakkesvinget 15C,6340, Kruså,400000 ,05-04-1993,Alm. Salg,111,3604,4,1965,
 580,Villa,Brunbjergvej 22,6200, Aabenraa,704000 ,05-04-1993,Alm. Salg,150,4693,5,1976,
 580,Villa,Vejbækvej 7,6330, Padborg,500000 ,04-04-1993,Alm. Salg,150,3333,3,1877,
-580,Villa,Aabenraavej 3B,6340, Kruså,484500 ,04-04-1993,Fam. Salg,54,8972,2,1955,
 580,Villa,Høgelsbjerg 58,6200, Aabenraa,365000 ,01-04-1993,Fam. Salg,185,1973,5,1972,
 580,Villa,Brunbjergvej 75,6200, Aabenraa,219000 ,01-04-1993,Alm. Salg,209,1048,6,1856,
 580,Villa,Kirkegårdsvej 4,6200, Aabenraa,390000 ,01-04-1993,Alm. Salg,128,3047,4,1870,
@@ -26149,10 +25572,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Bjerggade 13,6200, Aabenraa,190000 ,02-02-1993,Auktion,290,655,8,1914,
 580,Villa,Nygade 1,6392, Bolderslev,307622 ,02-02-1993,Alm. Salg,179,1719,7,1965,
 580,Villa,Gamle Søstvej 142,6200, Aabenraa,769542 ,02-02-1993,Alm. Salg,242,3180,6,1948,
-580,Ejerlejlighed,"Skrænten 50, 2. th",6200, Aabenraa,475000 ,01-02-1993,Alm. Salg,128,3711,4,1827,
 580,Villa,Svangkærvej 10,6340, Kruså,565000 ,01-02-1993,Alm. Salg,190,2974,8,1977,
 580,Villa,Mørkær 4,6372, Bylderup-Bov,400000 ,01-02-1993,Alm. Salg,164,2439,6,1977,
-580,Villa,Styrtom Skovvej 4,6200, Aabenraa,475000 ,01-02-1993,Alm. Salg,75,6333,3,1960,
 580,Villa,Molevej 16,6340, Kruså,715000 ,01-02-1993,Alm. Salg,308,2321,6,1920,
 580,Villa,Hvedemarken 34,6230, Rødekro,660000 ,01-02-1993,Alm. Salg,169,3905,5,1978,
 580,Villa,Højmark 5,6340, Kruså,625000 ,31-01-1993,Alm. Salg,195,3205,7,1965,
@@ -26418,9 +25839,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Genner Bygade 71,6230, Rødekro,392240 ,30-09-1992,Alm. Salg,146,2687,4,1949,
 580,Villa,Frueløkke 225,6200, Aabenraa,868852 ,30-09-1992,Alm. Salg,176,4937,5,1988,
 580,Villa,Stubbækvej 16,6200, Aabenraa,200000 ,30-09-1992,Fam. Salg,117,1709,4,1970,
-580,Ejerlejlighed,Banegaardspladsen 1,6230, Rødekro,1667500 ,29-09-1992,Andet,101,16510,3,1964,
-580,Ejerlejlighed,"Hærvejen 32B, 1",6230, Rødekro,1667500 ,29-09-1992,Andet,100,16675,3,1920,
-580,Ejerlejlighed,"Hærvejen 32C, 1",6230, Rødekro,1667500 ,29-09-1992,Andet,118,14131,3,1920,
 580,Villa,Kløvermarken 30,6230, Rødekro,595000 ,29-09-1992,Alm. Salg,158,3766,4,1972,
 580,Villa,Ravsted Skolegade 35,6372, Bylderup-Bov,465000 ,29-09-1992,Alm. Salg,148,3142,3,1977,
 580,Villa,Nygade 12,6330, Padborg,455000 ,29-09-1992,Alm. Salg,156,2917,4,1920,
@@ -26890,12 +26308,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Øbeningvej 2,6230, Rødekro,5000000 ,31-03-1992,Alm. Salg,90,55556,4,1960,
 580,Villa,Søndermark 26,6200, Aabenraa,110000 ,30-03-1992,Fam. Salg,97,1134,3,1874,
 580,Villa,Løvmosevej 8,6230, Rødekro,650000 ,30-03-1992,Fam. Salg,273,2381,9,2004,
-580,Ejerlejlighed,Flensborgvej 48A,6200, Aabenraa,17500000 ,29-03-1992,Alm. Salg,96,182292,4,1968,
 580,Villa,Kirkevej 87,6360, Tinglev,630000 ,29-03-1992,Fam. Salg,196,3214,5,1974,
 580,Villa,Blåkrogvej 11,6200, Aabenraa,82874 ,29-03-1992,Alm. Salg,210,395,5,1937,
 580,Villa,Centrumsgaden 41,6330, Padborg,530000 ,29-03-1992,Alm. Salg,156,3397,5,1975,
 580,Villa,Stennevej 76,6200, Aabenraa,756500 ,29-03-1992,Fam. Salg,279,2711,6,1965,
-580,Villa,Stegholt 53,6200, Aabenraa,17500000 ,29-03-1992,Alm. Salg,219,79909,7,1986,
 580,Villa,Søndergade 20,6230, Rødekro,408000 ,29-03-1992,Alm. Salg,138,2957,5,1974,
 580,Villa,Lillegade 13,6200, Aabenraa,440000 ,29-03-1992,Fam. Salg,162,2716,5,1870,
 580,Villa,Østergade 21,6200, Aabenraa,229500 ,29-03-1992,Fam. Salg,161,1425,6,1910,
@@ -26923,7 +26339,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Møllepold 13,6200, Aabenraa,550000 ,23-03-1992,Alm. Salg,126,4365,4,1972,
 580,Villa,Bolderslev Nørregade 18,6392, Bolderslev,428000 ,23-03-1992,Alm. Salg,140,3057,5,1977,
 580,Villa,Klintvej 6,6230, Rødekro,295200 ,23-03-1992,Alm. Salg,240,1230,8,1904,
-580,Villa,Haraldsdalvej 13B,6330, Padborg,1080000 ,23-03-1992,Alm. Salg,78,13846,2,1897,
 580,Villa,Nørrevang 44,6230, Rødekro,475000 ,23-03-1992,Fam. Salg,173,2746,6,1972,
 580,Villa,Kirkegade 6,6230, Rødekro,140000 ,23-03-1992,Alm. Salg,145,966,6,1933,
 580,Ejerlejlighed,Hovedgaden 37,6360, Tinglev,676751 ,22-03-1992,Alm. Salg,102,3317,8,1911,
@@ -27040,9 +26455,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 580,Villa,Haderslevvej 37B,6200, Aabenraa,840000 ,20-02-1992,Fam. Salg,176,4773,5,1975,
 580,Villa,Ellundvej 3,6330, Padborg,620000 ,19-02-1992,Alm. Salg,156,3974,5,1978,
 580,Villa,Kallemosen 8,6200, Aabenraa,280000 ,19-02-1992,Alm. Salg,109,2569,4,1942,
-580,Ejerlejlighed,"Barkmøllegade 6, 1",6200, Aabenraa,1122000 ,18-02-1992,Fam. Salg,112,10018,3,1904,
-580,Ejerlejlighed,"Ramsherred 8, 2",6200, Aabenraa,1122000 ,18-02-1992,Fam. Salg,105,10686,4,1904,
-580,Ejerlejlighed,"Ramsherred 8, 1",6200, Aabenraa,1122000 ,18-02-1992,Fam. Salg,149,7530,4,1904,
 580,Villa,Lendemark 55,6372, Bylderup-Bov,380000 ,18-02-1992,Alm. Salg,138,2754,4,1970,
 580,Villa,Løvmosevej 6,6230, Rødekro,2345000 ,18-02-1992,Fam. Salg,94,24947,3,1888,
 580,Rækkehus,Fjordløkke 124,6200, Aabenraa,1220000 ,17-02-1992,Alm. Salg,130,9385,4,1988,

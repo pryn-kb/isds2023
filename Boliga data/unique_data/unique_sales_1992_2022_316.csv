@@ -374,7 +374,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Vestvejen 12A,4440, Mørkøv,1495000 ,14-07-2022,Alm. Salg,148,10101,4,1976,
 316,Villa,Dønnerupvej 2,4450, Jyderup,1700000 ,14-07-2022,Alm. Salg,116,14655,3,1912,
 316,Villa,Mosevej 30,4340, Tølløse,2595000 ,14-07-2022,Alm. Salg,134,19366,4,1947,
-316,Villa,Ringstedvej 12,4520, Svinninge,900000 ,14-07-2022,Andet,100,9000,5,1882,
 316,Rækkehus,Æblegården 1,4300, Holbæk,2700000 ,13-07-2022,Alm. Salg,89,30337,3,2008,
 316,Villa,Snerlevej 16,4340, Tølløse,2495000 ,13-07-2022,Alm. Salg,137,18212,4,1978,-4%
 316,Villa,Trudsvej 1,4300, Holbæk,3650000 ,13-07-2022,Alm. Salg,130,28077,5,2003,-1%
@@ -803,7 +802,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Skolevej 50,4440, Mørkøv,445500 ,06-03-2022,Andet,117,3808,4,1955,
 316,Villa,Skolelodden 3,4520, Svinninge,1250000 ,06-03-2022,Alm. Salg,106,11792,4,1965,-3%
 316,Villa,Tværvej 3,4440, Mørkøv,965000 ,06-03-2022,Alm. Salg,54,17870,2,1913,-3%
-316,Villa,Ringstedvej 12,4520, Svinninge,1300000 ,06-03-2022,Andet,100,13000,5,1882,
 316,Villa,Strandvejen 16,4520, Svinninge,638846 ,05-03-2022,Fam. Salg,214,2985,10,1935,
 316,Villa,Elmegården 12,4450, Jyderup,3350000 ,05-03-2022,Alm. Salg,188,17819,7,2004,
 316,Rækkehus,Hybenvang 24,4300, Holbæk,2695000 ,03-03-2022,Alm. Salg,90,29944,3,2004,
@@ -872,10 +870,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Tranekær 54,4532, Gislinge,2400000 ,15-02-2022,Alm. Salg,141,17021,4,1999,-2%
 316,Villa,Sejergårdsvej 1,4340, Tølløse,930000 ,15-02-2022,Alm. Salg,136,6838,5,1917,-51%
 316,Villa,Søskrænten 3,4340, Tølløse,1485000 ,15-02-2022,Alm. Salg,188,7899,8,1979,-4%
-316,Rækkehus,Munkholmvej 93,4300, Holbæk,2295000 ,14-02-2022,Alm. Salg,125,18360,5,1934,
 316,Villa,Hvedevænget 7,4300, Holbæk,1755000 ,14-02-2022,Alm. Salg,91,19286,3,1967,-12%
 316,Villa,Dragerupvej 10,4300, Holbæk,1895000 ,14-02-2022,Alm. Salg,117,16197,4,1960,
-316,Villa,Johannevej 10,4300, Holbæk,2295000 ,14-02-2022,Alm. Salg,129,17791,4,1966,
 316,Villa,Dyssevej 2,4300, Holbæk,1450000 ,14-02-2022,Alm. Salg,120,12083,4,1973,-9%
 316,Rækkehus,Jernvænget 26,4300, Holbæk,3095050 ,13-02-2022,Alm. Salg,107,28926,4,2023,
 316,Ejerlejlighed,"Smedelundsgade 30B, 1. th",4300, Holbæk,1785000 ,13-02-2022,Alm. Salg,100,17850,3,1925,-11%
@@ -1273,12 +1269,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Solholm 6B,4520, Svinninge,750000 ,16-10-2021,Alm. Salg,60,12500,3,1958,
 316,Villa,Dahliavej 18,4420, Regstrup,3400000 ,15-10-2021,Alm. Salg,157,21656,6,2005,
 316,Villa,Frugtparken 22,4300, Holbæk,4500000 ,15-10-2021,Alm. Salg,218,20642,6,1973,
-316,Ejerlejlighed,Udbyvej 1A,4300, Holbæk,1850000 ,14-10-2021,Alm. Salg,63,29365,2,1940,
 316,Villa,Rævebæk 2,4440, Mørkøv,1350000 ,14-10-2021,Alm. Salg,97,13918,4,1966,-3%
 316,Villa,Bakkedraget 28,4340, Tølløse,2445000 ,14-10-2021,Alm. Salg,128,19102,5,1985,-2%
 316,Villa,Kathrinevej 18,4300, Holbæk,3350000 ,14-10-2021,Alm. Salg,124,27016,4,1965,-4%
 316,Villa,Kvarmløsevej 62,4340, Tølløse,785029 ,14-10-2021,Fam. Salg,148,5304,8,1895,
-316,Villa,Udbyvej 1C,4300, Holbæk,1850000 ,14-10-2021,Alm. Salg,136,13603,6,1938,
 316,Rækkehus,Søbæksparken 66,4450, Jyderup,875000 ,13-10-2021,Alm. Salg,68,12868,3,1985,
 316,Villa,Erantisvej 16,4520, Svinninge,1150000 ,13-10-2021,Andet,120,9583,4,1965,
 316,Villa,Østerled 19,4300, Holbæk,3000000 ,13-10-2021,Alm. Salg,160,18750,5,1918,4%
@@ -1286,9 +1280,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Vestre Strandvej 82,4305, Orø,1570000 ,13-10-2021,Alm. Salg,131,11985,4,1965,
 316,Villa,Bakken 62,4370, Store Merløse,316163 ,12-10-2021,Alm. Salg,104,2823,4,1970,
 316,Villa,Kros Bakke 1,4390, Vipperød,3450000 ,12-10-2021,Alm. Salg,151,22848,6,2022,
-316,Ejerlejlighed,"Kanalstræde 15, 2. 26",4300, Holbæk,3050000 ,11-10-2021,Alm. Salg,91,33516,2,2020,
 316,Villa,Mirabellevej 23,4300, Holbæk,1725000 ,11-10-2021,Alm. Salg,169,10207,6,1973,-4%
-316,Villa,Heibergs Have 22,4300, Holbæk,3050000 ,11-10-2021,Alm. Salg,134,22761,5,1976,
 316,Villa,Nørupvej 45,4300, Holbæk,3595000 ,11-10-2021,Alm. Salg,170,21147,6,2002,
 316,Villa,Dyremosevej 14,4450, Jyderup,1700000 ,10-10-2021,Alm. Salg,120,14167,4,1946,-5%
 316,Villa,Wessels Have 6,4300, Holbæk,2425000 ,10-10-2021,Alm. Salg,123,19715,4,1978,
@@ -1490,7 +1482,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Næsbyvej 34,4305, Orø,1300000 ,21-08-2021,Alm. Salg,170,7647,6,1906,-13%
 316,Villa,Sønderstrupvej 184,4360, Kirke Eskilstrup,1425285 ,21-08-2021,Fam. Salg,266,5358,9,1951,
 316,Villa,Bygvænget 11,4520, Svinninge,2150000 ,20-08-2021,Alm. Salg,190,11316,7,1979,-1%
-316,Villa,Kvarmløsevej 34B,4340, Tølløse,4200000 ,20-08-2021,Alm. Salg,86,48837,3,1927,
 316,Villa,Røglevej 8,4420, Regstrup,645000 ,20-08-2021,Alm. Salg,179,3603,4,2023,
 316,Villa,Christiansmindevej 12,4300, Holbæk,8500000 ,19-08-2021,Alm. Salg,236,36017,6,1948,
 316,Villa,Vestervangen 40,4300, Holbæk,2895000 ,19-08-2021,Alm. Salg,133,21767,4,1972,
@@ -1555,10 +1546,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Agervænget 104,4420, Regstrup,739500 ,29-07-2021,Fam. Salg,122,6061,4,1971,
 316,Villa,Drusebjergvej 6,4520, Svinninge,1360000 ,29-07-2021,Alm. Salg,162,8395,4,1931,-3%
 316,Rækkehus,Kildevangsparken 72,4390, Vipperød,2400000 ,28-07-2021,Alm. Salg,127,18898,4,1979,5%
-316,Rækkehus,Solholmsvej 11B,4520, Svinninge,1250000 ,28-07-2021,Alm. Salg,69,18116,3,1999,
 316,Villa,Lynggårdsvej 2A,4450, Jyderup,850000 ,28-07-2021,Alm. Salg,154,5519,5,1887,-15%
 316,Villa,Møllestensparken 46,4300, Holbæk,1900000 ,28-07-2021,Alm. Salg,117,16239,5,1975,-5%
-316,Villa,Parkvej 18,4520, Svinninge,1250000 ,28-07-2021,Alm. Salg,104,12019,4,1967,-10%
 316,Villa,Præstebrovej 38,4300, Holbæk,2010000 ,28-07-2021,Alm. Salg,122,16475,3,1964,1%
 316,Rækkehus,Rønnevænget 12,4300, Holbæk,2535000 ,27-07-2021,Alm. Salg,117,21667,4,2017,-1%
 316,Ejerlejlighed,"Sønderstedvej 3, st",4340, Tølløse,1395000 ,27-07-2021,Alm. Salg,160,8719,3,1908,
@@ -1606,8 +1595,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Birkevej 5,4340, Tølløse,1975000 ,18-07-2021,Alm. Salg,134,14739,4,1927,-1%
 316,Villa,Oldhøjen 31,4300, Holbæk,5975000 ,18-07-2021,Alm. Salg,180,33194,5,2019,0%
 316,Rækkehus,Godthaabsvej 16,4300, Holbæk,1665000 ,14-07-2021,Alm. Salg,85,19588,3,1911,-5%
-316,Ejerlejlighed,"Hovedgaden 53, 1",4520, Svinninge,2850000 ,14-07-2021,Alm. Salg,150,19000,4,1912,
-316,Ejerlejlighed,Markedsvej 1,4520, Svinninge,2850000 ,14-07-2021,Alm. Salg,92,15833,2,1945,
 316,Rækkehus,Kirsebærdraget 18,4300, Holbæk,2735000 ,13-07-2021,Alm. Salg,120,22792,5,2019,-2%
 316,Rækkehus,Tømrergårdsvej 22,4300, Holbæk,2108170 ,13-07-2021,Alm. Salg,94,22427,4,2022,
 316,Ejerlejlighed,"Sofievej 20, 1",4300, Holbæk,1801500 ,13-07-2021,Alm. Salg,98,18383,4,1902,0%
@@ -1991,15 +1978,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Kærsangervej 85,4300, Holbæk,4945000 ,21-04-2021,Alm. Salg,199,24849,6,1961,-1%
 316,Villa,Skolevej 3,4532, Gislinge,2600000 ,21-04-2021,Alm. Salg,140,18571,5,2021,
 316,Rækkehus,Skrænten 36,4300, Holbæk,3723000 ,20-04-2021,Alm. Salg,145,25676,5,1975,
-316,Ejerlejlighed,"Tidemandsvej 16B, 1. th",4300, Holbæk,7250001 ,20-04-2021,Alm. Salg,125,58000,5,1909,
-316,Ejerlejlighed,"Tidemandsvej 16B, 1. tv",4300, Holbæk,7250001 ,20-04-2021,Alm. Salg,79,91772,4,1909,
-316,Ejerlejlighed,"Chr Hansensvej 30B, 1. th",4300, Holbæk,7250001 ,20-04-2021,Alm. Salg,75,96667,3,1909,
-316,Ejerlejlighed,"Chr Hansensvej 30B, 2. th",4300, Holbæk,7250001 ,20-04-2021,Alm. Salg,63,115079,3,1909,
-316,Ejerlejlighed,"Chr Hansensvej 30C, st. th",4300, Holbæk,7250001 ,20-04-2021,Alm. Salg,52,139423,2,1909,
-316,Ejerlejlighed,"Chr Hansensvej 30C, 2. th",4300, Holbæk,7250001 ,20-04-2021,Alm. Salg,61,118852,3,1909,
-316,Ejerlejlighed,"Chr Hansensvej 30C, st. tv",4300, Holbæk,7250001 ,20-04-2021,Alm. Salg,55,131818,2,1909,
-316,Ejerlejlighed,"Chr Hansensvej 30C, 1. th",4300, Holbæk,7250001 ,20-04-2021,Alm. Salg,68,106618,2,1909,
-316,Ejerlejlighed,"Chr Hansensvej 30C, 1. tv",4300, Holbæk,7250001 ,20-04-2021,Alm. Salg,52,139423,2,1909,
 316,Villa,Kongstrupvej 11,4390, Vipperød,3250000 ,20-04-2021,Andet,259,12548,10,1878,
 316,Villa,Strandvejen 19,4300, Holbæk,3950000 ,20-04-2021,Alm. Salg,149,26510,6,1956,-1%
 316,Villa,Holbækvej 337,4440, Mørkøv,1450000 ,20-04-2021,Alm. Salg,140,10357,4,1877,-3%
@@ -2065,9 +2043,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Æblehaven 47,4390, Vipperød,2495000 ,11-04-2021,Alm. Salg,155,16097,5,1979,
 316,Villa,Hindbærhaven 33,4390, Vipperød,1000000 ,11-04-2021,Alm. Salg,244,4098,7,2023,
 316,Villa,Kros Bakke 4,4390, Vipperød,725000 ,11-04-2021,Alm. Salg,151,4801,5,2022,
-316,Rækkehus,Strandvejen 1B,4300, Holbæk,5500000 ,10-04-2021,Alm. Salg,184,29891,6,1858,
 316,Rækkehus,Skyttens Vej 14B,4300, Holbæk,3079737 ,10-04-2021,Alm. Salg,117,26323,4,2021,3%
-316,Villa,Strandvejen 1A,4300, Holbæk,5500000 ,10-04-2021,Alm. Salg,109,50459,2,1858,
 316,Villa,Strandmøllevej 134C,4300, Holbæk,6054000 ,10-04-2021,Alm. Salg,209,28967,5,2016,
 316,Villa,Byvej 42,4532, Gislinge,1100000 ,10-04-2021,Alm. Salg,173,6358,6,1960,
 316,Villa,Møllervænget 26,4390, Vipperød,2650000 ,09-04-2021,Alm. Salg,139,19065,6,1981,
@@ -3248,9 +3224,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Gl Taastrupvej 2,4300, Holbæk,2595000 ,14-07-2020,Alm. Salg,178,14579,6,1929,
 316,Villa,Damvej 6,4300, Holbæk,1300000 ,14-07-2020,Alm. Salg,149,8725,4,1935,-3%
 316,Rækkehus,Ejler Urnesvej 63,4300, Holbæk,1800000 ,13-07-2020,Alm. Salg,98,18367,3,1964,-10%
-316,Ejerlejlighed,Hovedgaden 38,4532, Gislinge,2100000 ,13-07-2020,Alm. Salg,154,13636,5,1900,
-316,Ejerlejlighed,"Hovedgaden 38, 1",4532, Gislinge,2100000 ,13-07-2020,Alm. Salg,53,39623,2,1900,
-316,Ejerlejlighed,Kirkevej 20,4532, Gislinge,2100000 ,13-07-2020,Alm. Salg,66,31818,2,1900,
 316,Ejerlejlighed,"Isefjords Alle 21, 3. tv",4300, Holbæk,4195000 ,13-07-2020,Alm. Salg,132,31780,4,2021,
 316,Villa,Østre Hovvej 2,4520, Svinninge,2600000 ,13-07-2020,Alm. Salg,162,16049,5,2004,0%
 316,Villa,Halvmånen 45,4300, Holbæk,3295000 ,13-07-2020,Alm. Salg,175,18829,7,2006,
@@ -3351,18 +3324,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Smedelodden 6,4440, Mørkøv,925000 ,24-06-2020,Alm. Salg,126,7341,5,1968,-7%
 316,Villa,Jernbanevej 34,4450, Jyderup,1800000 ,24-06-2020,Alm. Salg,145,12414,5,1927,-5%
 316,Villa,Bygaden 30,4370, Store Merløse,566960 ,24-06-2020,Andet,125,4536,5,2022,
-316,Ejerlejlighed,"Smedelundsgade 8C, 1. tv",4300, Holbæk,10400000 ,23-06-2020,Fam. Salg,83,125301,2,1930,
-316,Ejerlejlighed,"Smedelundsgade 8C, 1. th",4300, Holbæk,10400000 ,23-06-2020,Fam. Salg,105,99048,4,1930,
-316,Ejerlejlighed,"Smedelundsgade 8C, 2. 2",4300, Holbæk,10400000 ,23-06-2020,Fam. Salg,16,650000,1,1930,
-316,Ejerlejlighed,"Smedelundsgade 8C, 2. 1",4300, Holbæk,10400000 ,23-06-2020,Fam. Salg,70,148571,2,1930,
-316,Ejerlejlighed,"Smedelundsgade 8C, 2. 3",4300, Holbæk,10400000 ,23-06-2020,Fam. Salg,17,611765,1,1930,
-316,Ejerlejlighed,"Smedelundsgade 8C, 2. 4",4300, Holbæk,10400000 ,23-06-2020,Fam. Salg,69,150725,2,1930,
-316,Ejerlejlighed,"Kirkestræde 8A, st. th",4300, Holbæk,10400000 ,23-06-2020,Fam. Salg,61,170492,3,1894,
-316,Ejerlejlighed,"Kirkestræde 8A, 1. th",4300, Holbæk,10400000 ,23-06-2020,Fam. Salg,85,122353,4,1894,
-316,Ejerlejlighed,"Kirkestræde 8A, 1. tv",4300, Holbæk,10400000 ,23-06-2020,Fam. Salg,61,170492,3,1894,
-316,Ejerlejlighed,"Kirkestræde 8A, 2. tv",4300, Holbæk,10400000 ,23-06-2020,Fam. Salg,53,196226,2,1894,
-316,Ejerlejlighed,"Kirkestræde 8A, st. tv",4300, Holbæk,10400000 ,23-06-2020,Fam. Salg,64,162500,2,1894,
-316,Ejerlejlighed,"Kirkestræde 8A, 2. th",4300, Holbæk,10400000 ,23-06-2020,Fam. Salg,52,200000,1,1894,
 316,Villa,Roskildevej 29,4300, Holbæk,1995000 ,23-06-2020,Alm. Salg,98,20357,3,1912,
 316,Villa,Kløvermarksvej 5,4300, Holbæk,2250000 ,23-06-2020,Alm. Salg,109,20642,5,1934,-2%
 316,Villa,Jernbanevej 24,4450, Jyderup,1695000 ,23-06-2020,Alm. Salg,136,12463,4,1923,
@@ -3379,18 +3340,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Østervang 12,4300, Holbæk,2395000 ,20-06-2020,Alm. Salg,133,18008,5,1966,
 316,Villa,Ågerupvej 9,4300, Holbæk,4425000 ,19-06-2020,Alm. Salg,196,18438,4,2005,
 316,Villa,Hjortholmvej 1A,4340, Tølløse,1725000 ,19-06-2020,Alm. Salg,129,13372,5,1920,-3%
-316,Ejerlejlighed,"Nygade 7, 1. th",4300, Holbæk,18285000 ,18-06-2020,Fam. Salg,108,169306,4,1885,
-316,Ejerlejlighed,"Nygade 7, 1. tv",4300, Holbæk,18285000 ,18-06-2020,Fam. Salg,83,220301,3,1885,
-316,Ejerlejlighed,"Nygade 7, 2. th",4300, Holbæk,18285000 ,18-06-2020,Fam. Salg,95,192474,2,1885,
-316,Ejerlejlighed,"Nygade 7, 2. tv",4300, Holbæk,18285000 ,18-06-2020,Fam. Salg,91,200934,3,1885,
-316,Ejerlejlighed,"Bysøstræde 8, st. th",4300, Holbæk,18285000 ,18-06-2020,Fam. Salg,90,203167,2,2006,
-316,Ejerlejlighed,"Bysøstræde 8, 1. tv",4300, Holbæk,18285000 ,18-06-2020,Fam. Salg,90,203167,2,2006,
-316,Ejerlejlighed,"Bysøstræde 8, 2. th",4300, Holbæk,18285000 ,18-06-2020,Fam. Salg,73,250479,2,2006,
-316,Ejerlejlighed,"Bysøstræde 8, 1. th",4300, Holbæk,18285000 ,18-06-2020,Fam. Salg,90,203167,2,2006,
-316,Ejerlejlighed,"Bysøstræde 8, 2. tv",4300, Holbæk,18285000 ,18-06-2020,Fam. Salg,73,250479,2,2006,
-316,Ejerlejlighed,"Bysøstræde 8, st. tv",4300, Holbæk,18285000 ,18-06-2020,Fam. Salg,90,203167,2,2006,
 316,Villa,Bygvænget 32,4300, Holbæk,1585000 ,18-06-2020,Alm. Salg,135,11741,5,1972,
-316,Villa,Tømmerupvej 37,4440, Mørkøv,450000 ,18-06-2020,Alm. Salg,142,3169,4,1910,
 316,Villa,Landevejen 11,4520, Svinninge,1040000 ,18-06-2020,Alm. Salg,378,2751,10,1900,-5%
 316,Villa,Agervænget 96,4420, Regstrup,1450000 ,17-06-2020,Alm. Salg,120,12083,4,1973,-3%
 316,Villa,Fasanvej 19B,4300, Holbæk,3550000 ,17-06-2020,Alm. Salg,144,24653,5,1936,-4%
@@ -3489,7 +3439,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Skolevænget 39,4440, Mørkøv,1250000 ,24-05-2020,Alm. Salg,154,8117,5,1975,-3%
 316,Villa,Åmosevej 73,4440, Mørkøv,1800000 ,24-05-2020,Auktion,369,4878,8,1900,
 316,Villa,Stenlillevej 3,4350, Ugerløse,850000 ,24-05-2020,Alm. Salg,120,7083,5,1953,
-316,Villa,Tølløsevej 202,4340, Tølløse,5000000 ,24-05-2020,Fam. Salg,396,12626,6,1820,
 316,Villa,Abildgårdsvej 25,4440, Mørkøv,1245000 ,24-05-2020,Alm. Salg,135,9222,4,1972,
 316,Villa,Teglværksvej 22,4420, Regstrup,5850000 ,22-05-2020,Alm. Salg,424,13797,11,1930,-2%
 316,Villa,Skætterivej 12,4300, Holbæk,3295000 ,22-05-2020,Alm. Salg,149,22114,6,2008,
@@ -3618,7 +3567,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Ringstedvej 258,4350, Ugerløse,25169562 ,14-04-2020,Fam. Salg,110,228814,3,1969,
 316,Villa,Bennebovej 17,4440, Mørkøv,2300000 ,14-04-2020,Alm. Salg,183,12568,4,1907,-4%
 316,Villa,Blomsterhaven 44,4300, Holbæk,3100000 ,14-04-2020,Alm. Salg,167,18563,4,1974,-6%
-316,Villa,Sønderstrupvej 125,4360, Kirke Eskilstrup,400000 ,13-04-2020,Alm. Salg,238,1681,7,1946,
 316,Villa,Vestervangen 15,4300, Holbæk,2500000 ,13-04-2020,Alm. Salg,167,14970,4,1969,-11%
 316,Villa,Roskildevej 321,4390, Vipperød,2200000 ,12-04-2020,Alm. Salg,305,7213,8,1925,-17%
 316,Rækkehus,Ny Kirkevej 2A,4450, Jyderup,1300000 ,11-04-2020,Alm. Salg,86,15116,3,1985,-2%
@@ -3639,7 +3587,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Sønderstedvej 22,4340, Tølløse,1100000 ,02-04-2020,Alm. Salg,133,8271,6,1961,-8%
 316,Villa,Johannesmark 72,4300, Holbæk,745000 ,02-04-2020,Alm. Salg,171,4357,5,2020,
 316,Rækkehus,Rønnevænget 9,4300, Holbæk,2360000 ,01-04-2020,Alm. Salg,114,20702,4,2017,-1%
-316,Villa,Sønderstrupvej 125,4360, Kirke Eskilstrup,400000 ,01-04-2020,Alm. Salg,238,1681,7,1946,
 316,Villa,Blåbærvej 20,4300, Holbæk,1740000 ,01-04-2020,Alm. Salg,163,10675,5,1980,-3%
 316,Villa,Nyrupvej 21,4350, Ugerløse,1830000 ,01-04-2020,Alm. Salg,208,8798,9,1958,-5%
 316,Villa,Fiskervænget 16,4390, Vipperød,2325000 ,01-04-2020,Alm. Salg,154,15097,5,1976,
@@ -3720,7 +3667,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Kalundborgvej 199,4300, Holbæk,2450000 ,08-03-2020,Alm. Salg,207,11836,7,1902,-2%
 316,Villa,Bakkerupvej 19,4440, Mørkøv,1300000 ,07-03-2020,Alm. Salg,130,10000,5,1978,-4%
 316,Villa,Byvej 71,4532, Gislinge,1000000 ,07-03-2020,Alm. Salg,93,10753,3,1959,-16%
-316,Villa,Hovedgaden 18A,4440, Mørkøv,920000 ,06-03-2020,Alm. Salg,75,12267,3,1914,-8%
 316,Villa,Schulin Parken 7,4340, Tølløse,3500000 ,06-03-2020,Alm. Salg,233,15021,6,2014,-4%
 316,Ejerlejlighed,"Strandmøllevej 16, 2. th",4300, Holbæk,1695000 ,05-03-2020,Alm. Salg,78,21731,2,1931,
 316,Villa,Kisserupvej 101,4300, Holbæk,450000 ,04-03-2020,Alm. Salg,75,6000,4,1827,-9%
@@ -4560,12 +4506,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Lergravsvej 31,4300, Holbæk,2340000 ,01-07-2019,Alm. Salg,128,18281,4,1976,-2%
 316,Villa,Staslundevej 9,4300, Holbæk,915000 ,01-07-2019,Alm. Salg,135,6778,4,1974,-32%
 316,Villa,Regnbuen 28,4300, Holbæk,3250000 ,01-07-2019,Alm. Salg,153,21242,6,2010,-1%
-316,Ejerlejlighed,"Ahlgade 3C, 2. tv",4300, Holbæk,625000 ,30-06-2019,Alm. Salg,89,7022,3,1837,
 316,Villa,Jydbækvej 8,4450, Jyderup,1100000 ,30-06-2019,Alm. Salg,103,10680,4,1965,
 316,Villa,Vibevej 15,4532, Gislinge,1950000 ,30-06-2019,Alm. Salg,137,14234,3,1974,
 316,Villa,Drosselvej 6,4370, Store Merløse,1250000 ,30-06-2019,Fam. Salg,164,7622,5,1972,
 316,Villa,Idrætsvej 1,4532, Gislinge,360000 ,30-06-2019,Alm. Salg,143,2517,4,2021,-10%
-316,Villa,Mariehaven 24,4300, Holbæk,625000 ,30-06-2019,Alm. Salg,151,4139,4,2020,
 316,Villa,Torpet 6,4300, Holbæk,3150000 ,30-06-2019,Alm. Salg,200,15750,7,2017,-7%
 316,Ejerlejlighed,"Vejerhusstræde 2, 1. tv",4300, Holbæk,2450000 ,29-06-2019,Alm. Salg,98,25000,3,2008,-2%
 316,Villa,Torslundevej 11,4520, Svinninge,645000 ,27-06-2019,Alm. Salg,65,9923,4,1947,-7%
@@ -4655,11 +4599,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Heimdalsvej 18,4300, Holbæk,1750000 ,06-06-2019,Alm. Salg,128,13672,4,1973,-8%
 316,Villa,Tornehagen 3,4300, Holbæk,2000000 ,06-06-2019,Fam. Salg,206,9709,5,2005,
 316,Villa,Bygaden 87,4305, Orø,550000 ,06-06-2019,Alm. Salg,177,3107,4,1908,
-316,Ejerlejlighed,"Ahlgade 42, 1",4300, Holbæk,16450000 ,05-06-2019,Alm. Salg,167,98503,4,1907,
-316,Ejerlejlighed,"Ahlgade 42, 2",4300, Holbæk,16450000 ,05-06-2019,Alm. Salg,167,98503,4,1907,
-316,Ejerlejlighed,"Ahlgade 42, 3. th",4300, Holbæk,16450000 ,05-06-2019,Alm. Salg,86,191279,2,1907,
-316,Ejerlejlighed,"Ahlgade 42, 3. tv",4300, Holbæk,16450000 ,05-06-2019,Alm. Salg,87,189080,2,1907,
-316,Ejerlejlighed,Bagstræde 9B,4300, Holbæk,16450000 ,05-06-2019,Alm. Salg,112,146875,4,1907,
 316,Villa,Lindholtvej 6,4440, Mørkøv,23500000 ,05-06-2019,Alm. Salg,110,213636,4,1880,
 316,Villa,Ådalen 16,4520, Svinninge,1355000 ,05-06-2019,Alm. Salg,132,9679,5,1973,-3%
 316,Villa,Dalen 16,4300, Holbæk,2400000 ,05-06-2019,Alm. Salg,169,14201,6,1964,-4%
@@ -5471,7 +5410,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Rækkehus,Halvmånen 15,4300, Holbæk,1875000 ,26-09-2018,Alm. Salg,99,18939,5,2005,-6%
 316,Rækkehus,Marievej 6,4300, Holbæk,2134000 ,26-09-2018,Alm. Salg,116,18397,4,1918,
 316,Villa,Rahbeks Have 51,4300, Holbæk,2435000 ,26-09-2018,Alm. Salg,132,18447,4,1976,-2%
-316,Villa,Roskildevej 47B,4300, Holbæk,2850000 ,26-09-2018,Alm. Salg,48,59375,2,1935,
 316,Villa,Kalundborgvej 135,4300, Holbæk,1093000 ,26-09-2018,Andet,142,7697,5,1932,
 316,Villa,Rugmarken 8,4340, Tølløse,794000 ,26-09-2018,Andet,140,5671,4,1972,
 316,Villa,Hvalsøvej 194,4360, Kirke Eskilstrup,875000 ,26-09-2018,Alm. Salg,128,6836,2,1900,6%
@@ -6015,13 +5953,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Ejerlejlighed,Marius Pedersens Vej 145,4300, Holbæk,2280000 ,20-04-2018,Alm. Salg,88,25909,3,2007,
 316,Villa,Falkevej 7,4300, Holbæk,3200000 ,20-04-2018,Alm. Salg,145,22069,5,1960,-3%
 316,Villa,Kærsangervej 4,4450, Jyderup,1880000 ,20-04-2018,Alm. Salg,150,12533,5,1971,-6%
-316,Ejerlejlighed,"Smedelundsgade 2E, 2",4300, Holbæk,18500000 ,19-04-2018,Alm. Salg,71,260563,3,1914,
-316,Ejerlejlighed,"Smedelundsgade 2E, 3",4300, Holbæk,18500000 ,19-04-2018,Alm. Salg,69,268116,3,1914,
-316,Ejerlejlighed,"Ahlgade 74C, 1. tv",4300, Holbæk,18500000 ,19-04-2018,Alm. Salg,109,169725,4,1914,
-316,Ejerlejlighed,"Ahlgade 74C, 3. tv",4300, Holbæk,18500000 ,19-04-2018,Alm. Salg,106,174528,4,1914,
-316,Ejerlejlighed,"Ahlgade 74C, 2. th",4300, Holbæk,18500000 ,19-04-2018,Alm. Salg,150,123333,5,1914,
-316,Ejerlejlighed,"Ahlgade 74C, 2. tv",4300, Holbæk,18500000 ,19-04-2018,Alm. Salg,109,169725,4,1914,
-316,Ejerlejlighed,"Ahlgade 74C, 3. th",4300, Holbæk,18500000 ,19-04-2018,Alm. Salg,138,134058,5,1914,
 316,Villa,Hvedevænget 5,4300, Holbæk,1495000 ,19-04-2018,Alm. Salg,91,16429,4,1966,
 316,Rækkehus,Kirsebærdraget 40,4300, Holbæk,2347450 ,18-04-2018,Alm. Salg,120,19562,6,2018,2%
 316,Rækkehus,Kirsebærdraget 34,4300, Holbæk,2726157 ,18-04-2018,Alm. Salg,136,20045,6,2018,-2%
@@ -6122,7 +6053,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Nørrevang 3,4420, Regstrup,1675000 ,23-03-2018,Alm. Salg,122,13730,4,2000,
 316,Rækkehus,Søbæksparken 64A,4450, Jyderup,675000 ,22-03-2018,Alm. Salg,88,7670,4,1985,
 316,Villa,Kirkevænget 47,4360, Kirke Eskilstrup,1275000 ,22-03-2018,Alm. Salg,112,11384,4,1985,-7%
-316,Villa,Markedsgade 7B,4300, Holbæk,3000000 ,22-03-2018,Alm. Salg,86,34884,4,1907,
 316,Villa,Landevejen 35,4520, Svinninge,2933995 ,22-03-2018,Alm. Salg,178,16483,8,1850,
 316,Villa,Godthaabsvej 72,4300, Holbæk,2850000 ,22-03-2018,Alm. Salg,148,19257,5,1942,-2%
 316,Villa,Østre Hovvej 44,4520, Svinninge,400000 ,22-03-2018,Alm. Salg,190,2105,6,2019,
@@ -6391,7 +6321,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Uglerupvej 4,4300, Holbæk,1925000 ,12-12-2017,Auktion,187,10294,6,1853,67%
 316,Villa,Nyvej 21,4440, Mørkøv,1030000 ,12-12-2017,Alm. Salg,98,10510,3,1934,-6%
 316,Villa,Agervænget 4,4420, Regstrup,1300000 ,12-12-2017,Alm. Salg,133,9774,4,1968,-4%
-316,Villa,Lærkevej 24,4300, Holbæk,4400000 ,12-12-2017,Alm. Salg,242,18182,7,2019,-4%
 316,Villa,Hovedgaden 36,4440, Mørkøv,995000 ,12-12-2017,Alm. Salg,140,7107,6,1900,
 316,Villa,Søstrupvej 36,4300, Holbæk,1250000 ,12-12-2017,Alm. Salg,126,9921,4,1967,-9%
 316,Villa,Bellisvej 27,4520, Svinninge,1650000 ,11-12-2017,Alm. Salg,147,11224,5,1975,-1%
@@ -6634,14 +6563,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Engdraget 29,4300, Holbæk,2475000 ,27-09-2017,Alm. Salg,167,14820,6,1969,-5%
 316,Villa,Kærsangervej 95,4300, Holbæk,1750000 ,27-09-2017,Alm. Salg,165,10606,5,2017,
 316,Villa,Søndermarken 78,4340, Tølløse,795000 ,27-09-2017,Alm. Salg,170,4676,6,2018,
-316,Ejerlejlighed,"Skarridsøgade 5, 1. mf",4450, Jyderup,5125000 ,26-09-2017,Alm. Salg,81,63272,3,1902,
-316,Ejerlejlighed,"Skarridsøgade 5, 1. th",4450, Jyderup,5125000 ,26-09-2017,Alm. Salg,81,63272,2,1902,
-316,Ejerlejlighed,"Drivsåtvej 2A, st",4450, Jyderup,5125000 ,26-09-2017,Alm. Salg,68,75368,2,1964,
-316,Ejerlejlighed,"Drivsåtvej 2A, 1",4450, Jyderup,5125000 ,26-09-2017,Alm. Salg,68,75368,2,1964,
-316,Ejerlejlighed,"Skarridsøgade 5, 2. th",4450, Jyderup,5125000 ,26-09-2017,Alm. Salg,48,106771,2,1902,
-316,Ejerlejlighed,"Skarridsøgade 5, 1. tv",4450, Jyderup,5125000 ,26-09-2017,Alm. Salg,113,45354,3,1902,
-316,Ejerlejlighed,"Skarridsøgade 5, 2. mf",4450, Jyderup,5125000 ,26-09-2017,Alm. Salg,60,85417,2,1902,
-316,Ejerlejlighed,"Skarridsøgade 5, 2. tv",4450, Jyderup,5125000 ,26-09-2017,Alm. Salg,78,65705,2,1902,
 316,Villa,Birkelien 3,4300, Holbæk,410000 ,26-09-2017,Alm. Salg,87,4713,3,1951,
 316,Villa,Holbækvej 349,4440, Mørkøv,1050000 ,26-09-2017,Alm. Salg,154,6818,5,1912,-9%
 316,Villa,Præstevænget 16,4300, Holbæk,1895000 ,26-09-2017,Alm. Salg,132,14356,4,1967,-5%
@@ -6686,9 +6607,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Søndermarken 86,4340, Tølløse,495000 ,17-09-2017,Alm. Salg,170,2912,5,2018,
 316,Villa,Østre Hovvej 54,4520, Svinninge,2475000 ,17-09-2017,Alm. Salg,176,14063,6,2006,
 316,Villa,Bakkedraget 4,4450, Jyderup,990000 ,16-09-2017,Alm. Salg,143,6923,4,1959,-4%
-316,Ejerlejlighed,"Sølystvej 19, 1",4450, Jyderup,1850000 ,14-09-2017,Alm. Salg,82,22561,3,1927,-7%
 316,Ejerlejlighed,"Vejerhusstræde 2, 1. th",4300, Holbæk,2440000 ,14-09-2017,Alm. Salg,113,21593,4,2008,
-316,Villa,Sølystvej 17,4450, Jyderup,1850000 ,14-09-2017,Alm. Salg,230,8043,11,1907,-7%
 316,Villa,Solvej 7,4440, Mørkøv,620000 ,14-09-2017,Alm. Salg,89,6966,4,1954,-11%
 316,Villa,Tingerupvej 6,4330, Hvalsø,1100000 ,14-09-2017,Alm. Salg,130,8462,4,1950,
 316,Villa,Mosevænget 3,4340, Tølløse,1250000 ,14-09-2017,Alm. Salg,104,12019,3,1971,-10%
@@ -6910,11 +6829,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Bjørnevej 8,4390, Vipperød,1450000 ,03-07-2017,Alm. Salg,103,14078,4,1963,
 316,Villa,Strædesbakken 5,4300, Holbæk,2050000 ,03-07-2017,Alm. Salg,98,20918,3,2008,-2%
 316,Villa,Ridebanevej 44,4300, Holbæk,125000 ,03-07-2017,Alm. Salg,144,868,5,2019,
-316,Rækkehus,Truelsdalvej 28,4340, Tølløse,3275000 ,02-07-2017,Auktion,92,24081,4,1850,-18%
-316,Ejerlejlighed,"Søndergade 10, 1",4340, Tølløse,1450000 ,02-07-2017,Alm. Salg,96,15104,3,2007,-3%
 316,Villa,Nørreskovvej 6,4440, Mørkøv,945000 ,02-07-2017,Alm. Salg,77,12273,2,1880,
-316,Villa,Truelsdalvej 28,4340, Tølløse,3275000 ,02-07-2017,Auktion,205,15976,5,1870,-18%
-316,Villa,Snerlevej 6,4340, Tølløse,1450000 ,02-07-2017,Alm. Salg,175,8286,8,1975,-9%
 316,Villa,Kærsangervej 102,4300, Holbæk,2750000 ,02-07-2017,Andet,206,13350,5,2018,
 316,Villa,Knevelsvej 51,4300, Holbæk,2695000 ,02-07-2017,Alm. Salg,176,15313,5,2009,
 316,Villa,Morelhaven 12,4532, Gislinge,2450000 ,02-07-2017,Alm. Salg,164,14939,5,2015,-2%
@@ -6998,17 +6913,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Ejerlejlighed,"Kløvermarksvej 29, 1",4300, Holbæk,1300000 ,01-06-2017,Fam. Salg,81,16049,3,1940,
 316,Villa,Snavevej 6B,4305, Orø,400000 ,01-06-2017,Alm. Salg,30,13333,2,1940,-10%
 316,Villa,Kirkebakken 1,4420, Regstrup,2670000 ,01-06-2017,Alm. Salg,188,14202,8,2004,-1%
-316,Ejerlejlighed,Kastanievej 4A,4300, Holbæk,4900000 ,31-05-2017,Alm. Salg,38,128947,2,1870,
-316,Ejerlejlighed,"Kastanievej 4B, st. th",4300, Holbæk,4900000 ,31-05-2017,Alm. Salg,44,111364,2,1899,
-316,Ejerlejlighed,"Kastanievej 4B, 1. th",4300, Holbæk,4900000 ,31-05-2017,Alm. Salg,44,111364,2,1899,
-316,Ejerlejlighed,"Smedelundsgade 42, 1. th",4300, Holbæk,4900000 ,31-05-2017,Alm. Salg,106,46226,2,1870,
-316,Ejerlejlighed,"Kastanievej 4B, st. tv",4300, Holbæk,4900000 ,31-05-2017,Alm. Salg,44,111364,2,1899,
-316,Ejerlejlighed,"Kastanievej 4B, 1. tv",4300, Holbæk,4900000 ,31-05-2017,Alm. Salg,44,111364,2,1899,
-316,Ejerlejlighed,"Smedelundsgade 42, 1. tv",4300, Holbæk,4900000 ,31-05-2017,Alm. Salg,69,71014,2,1870,
-316,Ejerlejlighed,"Smedelundsgade 42, 2. th",4300, Holbæk,4900000 ,31-05-2017,Alm. Salg,60,81667,2,1870,
-316,Ejerlejlighed,"Smedelundsgade 42, 2. tv",4300, Holbæk,4900000 ,31-05-2017,Alm. Salg,61,80328,2,1870,
-316,Ejerlejlighed,"Kastanievej 4B, 2. th",4300, Holbæk,4900000 ,31-05-2017,Alm. Salg,28,175000,1,1899,
-316,Ejerlejlighed,"Kastanievej 4B, 2. tv",4300, Holbæk,4900000 ,31-05-2017,Alm. Salg,25,196000,1,1899,
 316,Ejerlejlighed,"Ahlgade 4B, 2. th",4300, Holbæk,2000000 ,31-05-2017,Alm. Salg,114,17544,3,2007,
 316,Villa,Gl Taastrupvej 19,4300, Holbæk,1800000 ,31-05-2017,Alm. Salg,83,21687,3,1952,-5%
 316,Villa,Regnbuen 12,4300, Holbæk,3850000 ,31-05-2017,Alm. Salg,194,19845,6,2004,-4%
@@ -7435,9 +7339,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Lindevej 14,4300, Holbæk,2900000 ,29-12-2016,Alm. Salg,301,9635,10,1900,-12%
 316,Villa,Søndermarken 54,4340, Tølløse,495000 ,29-12-2016,Alm. Salg,202,2450,6,2018,-82%
 316,Villa,Gl. Skovvej 30,4340, Tølløse,1700000 ,28-12-2016,Alm. Salg,222,7658,5,1916,
-316,Ejerlejlighed,Hovedgaden 38,4532, Gislinge,1250000 ,27-12-2016,Alm. Salg,154,8117,5,1900,
-316,Ejerlejlighed,"Hovedgaden 38, 1",4532, Gislinge,1250000 ,27-12-2016,Alm. Salg,53,23585,2,1900,
-316,Ejerlejlighed,Kirkevej 20,4532, Gislinge,1250000 ,27-12-2016,Alm. Salg,66,18939,2,1900,
 316,Ejerlejlighed,"Brostræde 3, 2. tv",4300, Holbæk,2350000 ,22-12-2016,Alm. Salg,110,21364,4,2008,
 316,Villa,Munkholmvej 63,4300, Holbæk,2510000 ,22-12-2016,Alm. Salg,126,19921,3,1937,-3%
 316,Villa,Vallestrupvejen 3,4300, Holbæk,1500000 ,22-12-2016,Alm. Salg,190,7895,8,1874,-6%
@@ -7635,8 +7536,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Ivar Bentsens Vej 2,4300, Holbæk,3740000 ,03-10-2016,Alm. Salg,182,20549,6,2000,-3%
 316,Villa,Byvej 65,4532, Gislinge,1000000 ,03-10-2016,Alm. Salg,196,5102,5,2020,-17%
 316,Villa,Kvamvej 7,4450, Jyderup,1800000 ,03-10-2016,Fam. Salg,177,10169,5,1969,
-316,Ejerlejlighed,"Sølystvej 19, 1",4450, Jyderup,1350000 ,02-10-2016,Alm. Salg,82,16463,3,1927,
-316,Villa,Sølystvej 17,4450, Jyderup,1350000 ,02-10-2016,Alm. Salg,230,5870,11,1907,
 316,Villa,Martin Lønnesvej 15,4440, Mørkøv,845000 ,02-10-2016,Alm. Salg,124,6815,4,1967,-6%
 316,Villa,Torpet 34,4300, Holbæk,795000 ,02-10-2016,Alm. Salg,208,3822,5,2017,
 316,Villa,Præsteengen 18,4300, Holbæk,340000 ,02-10-2016,Alm. Salg,175,1943,5,2017,
@@ -8788,13 +8687,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Præsteengen 27,4300, Holbæk,2700000 ,12-07-2015,Alm. Salg,168,16071,4,2010,-3%
 316,Villa,Bygaden 74,4370, Store Merløse,2200000 ,11-07-2015,Alm. Salg,324,6790,11,1930,-4%
 316,Villa,Bybjærg 14,4370, Store Merløse,800000 ,10-07-2015,Fam. Salg,112,7143,4,1985,
-316,Ejerlejlighed,"Smedelundsgade 2E, 2",4300, Holbæk,16300000 ,09-07-2015,Alm. Salg,71,229577,3,1914,
-316,Ejerlejlighed,"Smedelundsgade 2E, 3",4300, Holbæk,16300000 ,09-07-2015,Alm. Salg,69,236232,3,1914,
-316,Ejerlejlighed,"Ahlgade 74C, 1. tv",4300, Holbæk,16300000 ,09-07-2015,Alm. Salg,109,149541,4,1914,
-316,Ejerlejlighed,"Ahlgade 74C, 3. tv",4300, Holbæk,16300000 ,09-07-2015,Alm. Salg,106,153774,4,1914,
-316,Ejerlejlighed,"Ahlgade 74C, 2. th",4300, Holbæk,16300000 ,09-07-2015,Alm. Salg,150,108667,5,1914,
-316,Ejerlejlighed,"Ahlgade 74C, 2. tv",4300, Holbæk,16300000 ,09-07-2015,Alm. Salg,109,149541,4,1914,
-316,Ejerlejlighed,"Ahlgade 74C, 3. th",4300, Holbæk,16300000 ,09-07-2015,Alm. Salg,138,118116,5,1914,
 316,Villa,Lærkevej 8,4350, Ugerløse,775000 ,09-07-2015,Alm. Salg,114,6798,3,1962,-22%
 316,Villa,Strandmøllevej 74,4300, Holbæk,1275000 ,09-07-2015,Fam. Salg,105,12143,4,1939,
 316,Rækkehus,Markvænget 12,4450, Jyderup,925000 ,08-07-2015,Alm. Salg,106,8726,4,1977,-2%
@@ -9068,8 +8960,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Dragerupvej 5,4300, Holbæk,1175000 ,17-03-2015,Alm. Salg,362,3246,5,2022,-2%
 316,Villa,Holbækvej 25,4370, Store Merløse,615000 ,17-03-2015,Alm. Salg,103,5971,4,1951,
 316,Villa,Agervænget 127,4420, Regstrup,1250000 ,17-03-2015,Alm. Salg,122,10246,4,1973,-10%
-316,Ejerlejlighed,"Hovedgaden 53, 1",4520, Svinninge,150000 ,16-03-2015,Alm. Salg,150,1000,4,1912,
-316,Ejerlejlighed,Markedsvej 1,4520, Svinninge,150000 ,16-03-2015,Alm. Salg,92,833,2,1945,
 316,Villa,Vestervangen 86,4300, Holbæk,750000 ,16-03-2015,Alm. Salg,136,5515,5,1969,-12%
 316,Villa,Langholm 7,4390, Vipperød,1450000 ,16-03-2015,Alm. Salg,156,9295,5,1971,-3%
 316,Villa,Anemonevej 14,4520, Svinninge,725000 ,15-03-2015,Alm. Salg,170,4265,7,1974,-9%
@@ -9352,8 +9242,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Rækkehus,Studiestræde 24,4300, Holbæk,1800000 ,02-11-2014,Alm. Salg,90,20000,3,1984,-5%
 316,Villa,Plantagevænget 15,4340, Tølløse,1550000 ,02-11-2014,Alm. Salg,164,9451,5,1970,-9%
 316,Rækkehus,Syrengården 28,4300, Holbæk,2163588 ,01-11-2014,Alm. Salg,117,18492,4,2015,3%
-316,Rækkehus,Gl Kirkevej 13,4300, Holbæk,2000000 ,30-10-2014,Alm. Salg,108,18519,4,2008,0%
-316,Villa,Ewalds Have 54,4300, Holbæk,2000000 ,30-10-2014,Alm. Salg,160,12500,7,1972,
 316,Villa,Holbækvej 162,4450, Jyderup,300000 ,29-10-2014,Alm. Salg,110,2727,5,1966,
 316,Villa,Erantisvej 4,4520, Svinninge,440000 ,27-10-2014,Fam. Salg,133,3308,4,1958,
 316,Villa,Solvangsvej 58,4360, Kirke Eskilstrup,1995000 ,27-10-2014,Fam. Salg,55,36273,2,1920,
@@ -9791,40 +9679,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Søndervang 13,4300, Holbæk,1025500 ,05-03-2014,Auktion,86,11924,3,1961,
 316,Rækkehus,Munkholmvej 49A,4300, Holbæk,2115015 ,04-03-2014,Auktion,123,17195,5,1920,
 316,Ejerlejlighed,"Pakhusstræde 11, 3. th",4300, Holbæk,4420000 ,04-03-2014,Alm. Salg,157,28153,4,2005,-4%
-316,Ejerlejlighed,"Vimmelskaftet 13, st. th",4300, Holbæk,10753578 ,04-03-2014,Auktion,91,118171,3,1911,
-316,Ejerlejlighed,"Vimmelskaftet 13, 2. th",4300, Holbæk,10753578 ,04-03-2014,Auktion,59,182264,2,1911,
-316,Ejerlejlighed,"Vimmelskaftet 13, 1. tv",4300, Holbæk,10753578 ,04-03-2014,Auktion,100,107536,3,1911,
-316,Ejerlejlighed,"Vimmelskaftet 13, 1. th",4300, Holbæk,10753578 ,04-03-2014,Auktion,91,118171,3,1911,
-316,Ejerlejlighed,"Vimmelskaftet 13, st. tv",4300, Holbæk,10753578 ,04-03-2014,Auktion,100,107536,3,1911,
-316,Ejerlejlighed,"Vimmelskaftet 13, 2. tv",4300, Holbæk,10753578 ,04-03-2014,Auktion,65,165440,2,1911,
-316,Ejerlejlighed,"Strandgade 13, 1. th",4300, Holbæk,10753578 ,04-03-2014,Auktion,80,134420,2,1912,
-316,Ejerlejlighed,"Strandgade 13, st. th",4300, Holbæk,10753578 ,04-03-2014,Auktion,80,134420,2,1912,
-316,Ejerlejlighed,"Tidemandsvej 16B, 1. th",4300, Holbæk,7149445 ,04-03-2014,Auktion,125,57196,5,1909,
-316,Ejerlejlighed,"Strandgade 13, st. tv",4300, Holbæk,10753578 ,04-03-2014,Auktion,81,132760,2,1912,
-316,Ejerlejlighed,"Tidemandsvej 16B, 1. tv",4300, Holbæk,7149445 ,04-03-2014,Auktion,79,90499,4,1909,
-316,Ejerlejlighed,"Strandgade 13, 2. th",4300, Holbæk,10753578 ,04-03-2014,Auktion,54,199140,2,1912,
-316,Ejerlejlighed,"Strandgade 13, 1. tv",4300, Holbæk,10753578 ,04-03-2014,Auktion,81,132760,2,1912,
-316,Ejerlejlighed,"Strandgade 13, 2. tv",4300, Holbæk,10753578 ,04-03-2014,Auktion,52,206800,2,1912,
-316,Ejerlejlighed,"Chr Hansensvej 30B, 1. th",4300, Holbæk,7149445 ,04-03-2014,Auktion,75,95326,3,1909,
-316,Ejerlejlighed,"Chr Hansensvej 30B, 2. th",4300, Holbæk,7149445 ,04-03-2014,Auktion,63,113483,3,1909,
-316,Ejerlejlighed,"Chr Hansensvej 30C, st. th",4300, Holbæk,7149445 ,04-03-2014,Auktion,52,137489,2,1909,
-316,Ejerlejlighed,"Chr Hansensvej 30C, 2. th",4300, Holbæk,7149445 ,04-03-2014,Auktion,61,117204,3,1909,
-316,Ejerlejlighed,"Chr Hansensvej 30C, st. tv",4300, Holbæk,7149445 ,04-03-2014,Auktion,55,129990,2,1909,
-316,Ejerlejlighed,"Chr Hansensvej 30C, 1. th",4300, Holbæk,7149445 ,04-03-2014,Auktion,68,105139,2,1909,
-316,Ejerlejlighed,"Chr Hansensvej 30C, 1. tv",4300, Holbæk,7149445 ,04-03-2014,Auktion,52,137489,2,1909,
 316,Villa,Rødkælkevej 6,4300, Holbæk,925000 ,04-03-2014,Alm. Salg,122,7582,4,1975,-23%
 316,Villa,Byvej 38,4532, Gislinge,550000 ,04-03-2014,Alm. Salg,141,3901,6,1950,
 316,Villa,Morelhaven 6,4532, Gislinge,250000 ,04-03-2014,Alm. Salg,152,1645,5,2015,
 316,Villa,Ranunkelvej 21,4300, Holbæk,1250000 ,03-03-2014,Alm. Salg,196,6378,7,1967,
-316,Ejerlejlighed,"Chr Hansensvej 15, st. th",4300, Holbæk,5338756 ,02-03-2014,Auktion,71,75194,3,1910,
-316,Ejerlejlighed,"Chr Hansensvej 15, st. tv",4300, Holbæk,5338756 ,02-03-2014,Auktion,52,102668,2,1910,
-316,Ejerlejlighed,"Chr Hansensvej 15, 2. tv",4300, Holbæk,5338756 ,02-03-2014,Auktion,52,102668,2,1910,
-316,Ejerlejlighed,"Tidemandsvej 18, st",4300, Holbæk,5338756 ,02-03-2014,Auktion,97,55039,3,1910,
-316,Ejerlejlighed,"Tidemandsvej 18, 1",4300, Holbæk,5338756 ,02-03-2014,Auktion,98,54477,3,1910,
-316,Ejerlejlighed,"Tidemandsvej 18, 2",4300, Holbæk,5338756 ,02-03-2014,Auktion,98,54477,3,1910,
-316,Ejerlejlighed,"Chr Hansensvej 15, 1. tv",4300, Holbæk,5338756 ,02-03-2014,Auktion,52,102668,2,1910,
-316,Ejerlejlighed,"Chr Hansensvej 15, 1. th",4300, Holbæk,5338756 ,02-03-2014,Auktion,71,75194,3,1910,
-316,Ejerlejlighed,"Chr Hansensvej 15, 2. th",4300, Holbæk,5338756 ,02-03-2014,Auktion,71,75194,3,1910,
 316,Villa,Kløvermarksvej 16,4300, Holbæk,1884847 ,02-03-2014,Andet,103,18299,4,1925,
 316,Villa,Holbækvej 65,4340, Tølløse,800000 ,27-02-2014,Alm. Salg,131,6107,4,1963,-11%
 316,Rækkehus,Markvænget 6,4450, Jyderup,920000 ,26-02-2014,Alm. Salg,109,8440,4,1977,
@@ -9879,7 +9737,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Gartnerlunden 5,4520, Svinninge,1450000 ,01-02-2014,Andet,117,12393,4,1968,
 316,Villa,Bygaden 7,4520, Svinninge,1058000 ,01-02-2014,Andet,150,7053,4,1890,
 316,Rækkehus,Brolæggerstræde 10,4300, Holbæk,1845000 ,31-01-2014,Alm. Salg,78,23654,3,1989,
-316,Villa,Tølløsevej 188A,4340, Tølløse,3875000 ,31-01-2014,Fam. Salg,294,13180,10,1865,
 316,Rækkehus,Kildevangsparken 8,4390, Vipperød,1415000 ,30-01-2014,Alm. Salg,125,11320,4,1979,-5%
 316,Rækkehus,Søbæksparken 68,4450, Jyderup,700000 ,30-01-2014,Alm. Salg,67,10448,3,1985,-6%
 316,Villa,Risbjergvej 1,4300, Holbæk,1395000 ,30-01-2014,Alm. Salg,156,8942,6,1952,
@@ -9969,7 +9826,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Trønninge Mose 3,4420, Regstrup,2600000 ,11-12-2013,Alm. Salg,223,11659,7,1830,-13%
 316,Villa,Havremarken 38,4390, Vipperød,365000 ,11-12-2013,Auktion,160,2281,4,1877,
 316,Villa,Samsøvej 19,4300, Holbæk,1100500 ,11-12-2013,Alm. Salg,80,13756,3,1948,11%
-316,Villa,Skolegade 11A,4300, Holbæk,2590000 ,11-12-2013,Alm. Salg,56,46250,2,1900,
 316,Villa,Leddet 8,4300, Holbæk,750000 ,11-12-2013,Alm. Salg,178,4213,4,2014,-12%
 316,Rækkehus,Fuglsvej 4,4300, Holbæk,1165000 ,10-12-2013,Alm. Salg,84,13869,2,1903,-3%
 316,Villa,Lundemarksvej 67,4300, Holbæk,2000000 ,10-12-2013,Fam. Salg,153,13072,5,1966,
@@ -10129,7 +9985,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Peder Billesvej 138,4300, Holbæk,1300000 ,11-09-2013,Alm. Salg,103,12621,3,1969,-13%
 316,Villa,Ll Knabstrupvej 1,4420, Regstrup,950000 ,10-09-2013,Alm. Salg,120,7917,4,1847,-3%
 316,Villa,Glæemosevej 2,4340, Tølløse,1100000 ,10-09-2013,Alm. Salg,125,8800,4,1965,-8%
-316,Villa,Ringstedvej 24A,4440, Mørkøv,1795000 ,10-09-2013,Auktion,84,21369,4,1939,
 316,Villa,Bygaden 49,4370, Store Merløse,945000 ,09-09-2013,Alm. Salg,67,14104,3,1955,-21%
 316,Villa,Sandbyvej 23A,4532, Gislinge,875050 ,09-09-2013,Andet,227,3855,6,1904,
 316,Villa,Eliasmindevej 15,4360, Kirke Eskilstrup,937681 ,08-09-2013,Andet,163,5753,6,2000,
@@ -10559,7 +10414,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Rækkehus,Baggesens Have 13,4300, Holbæk,900000 ,17-12-2012,Alm. Salg,61,14754,2,1983,-10%
 316,Villa,Munkholmvej 102,4300, Holbæk,1150000 ,17-12-2012,Alm. Salg,102,11275,3,1952,-21%
 316,Villa,Solbakken 8,4300, Holbæk,5000000 ,17-12-2012,Alm. Salg,257,19455,9,2005,
-316,Ejerlejlighed,Holmstrupvej 8,4450, Jyderup,3762000 ,16-12-2012,Auktion,562,6694,29,1948,
 316,Villa,Egholmvej 20,4370, Store Merløse,725000 ,16-12-2012,Alm. Salg,85,8529,4,1929,-9%
 316,Villa,Tornehagen 2,4300, Holbæk,820000 ,16-12-2012,Alm. Salg,213,3850,7,1912,-39%
 316,Villa,Tornbrinken 11,4450, Jyderup,45000 ,16-12-2012,Auktion,67,672,3,1797,-77%
@@ -10593,7 +10447,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Tjebberupparken 28,4300, Holbæk,900000 ,02-12-2012,Alm. Salg,164,5488,5,1975,-10%
 316,Villa,Stenhusvænget 17,4300, Holbæk,2950000 ,02-12-2012,Alm. Salg,157,18790,6,2005,-5%
 316,Villa,Egevej 4,4340, Tølløse,750000 ,02-12-2012,Alm. Salg,112,6696,4,1979,-16%
-316,Villa,Ringstedvej 12,4520, Svinninge,1000000 ,02-12-2012,Alm. Salg,100,10000,5,1882,
 316,Villa,Minkemarkvej 2,4300, Holbæk,1925000 ,02-12-2012,Alm. Salg,209,9211,7,1988,-4%
 316,Villa,Skætterivej 53,4300, Holbæk,2445000 ,02-12-2012,Alm. Salg,167,14641,5,2007,-4%
 316,Villa,Havremarken 7,4300, Holbæk,935000 ,30-11-2012,Alm. Salg,121,7727,5,1975,-6%
@@ -10754,9 +10607,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Koblet 5,4300, Holbæk,700000 ,03-09-2012,Alm. Salg,168,4167,5,2015,
 316,Villa,Hørby Færgevej 2,4300, Holbæk,680000 ,02-09-2012,Auktion,170,4000,6,1973,
 316,Villa,Bakken 10,4440, Mørkøv,1100000 ,01-09-2012,Alm. Salg,103,10680,3,1930,-12%
-316,Rækkehus,Steenstrups Allé 10,4300, Holbæk,2000000 ,30-08-2012,Alm. Salg,95,21053,4,2004,-5%
 316,Ejerlejlighed,"Kalundborgvej 6D, 1",4300, Holbæk,2825000 ,30-08-2012,Alm. Salg,96,29427,3,1950,-6%
-316,Villa,Stenhusvej 33,4300, Holbæk,2000000 ,30-08-2012,Alm. Salg,151,13245,4,1976,-9%
 316,Villa,Trønningevej 44,4520, Svinninge,1200000 ,30-08-2012,Fam. Salg,134,8955,4,1978,
 316,Rækkehus,Fasanvej 29,4300, Holbæk,1250000 ,29-08-2012,Andet,141,8865,4,1913,
 316,Villa,Strandvejen 3,4520, Svinninge,550000 ,29-08-2012,Alm. Salg,156,3526,6,1918,
@@ -10863,7 +10714,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Abildgårdsvej 27,4440, Mørkøv,1300000 ,26-06-2012,Alm. Salg,127,10236,4,1971,
 316,Ejerlejlighed,"Brostræde 5, 1. tv",4300, Holbæk,1915000 ,25-06-2012,Alm. Salg,110,17409,4,2008,
 316,Villa,Rådbjergvej 20,4450, Jyderup,1450000 ,25-06-2012,Alm. Salg,189,7672,10,1930,
-316,Villa,Bygaden 18B,4370, Store Merløse,200000 ,25-06-2012,Alm. Salg,31,6452,1,1928,
 316,Ejerlejlighed,Baggesens Have 5B,4300, Holbæk,1175000 ,24-06-2012,Alm. Salg,74,15878,2,1984,-9%
 316,Ejerlejlighed,"Konsul Beÿers Allé 26, st. mf",4300, Holbæk,1150000 ,24-06-2012,Alm. Salg,69,16667,2,2007,
 316,Villa,Møllestensparken 19,4300, Holbæk,925000 ,24-06-2012,Alm. Salg,129,7171,5,1976,-10%
@@ -10934,8 +10784,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Emmabodavej 12,4450, Jyderup,1185000 ,13-05-2012,Alm. Salg,149,7953,5,1952,-21%
 316,Villa,Skætterivej 6,4300, Holbæk,1267500 ,11-05-2012,Fam. Salg,188,6742,5,2009,
 316,Rækkehus,Fenrisvej 10,4300, Holbæk,1875000 ,10-05-2012,Alm. Salg,113,16593,5,1987,-4%
-316,Rækkehus,Rækmarken 6A,4300, Holbæk,1950000 ,09-05-2012,Alm. Salg,138,14130,6,1877,
-316,Ejerlejlighed,Rækmarken 6B,4300, Holbæk,1950000 ,09-05-2012,Alm. Salg,139,14029,4,1877,
 316,Ejerlejlighed,Alfred Hansens Have 40,4300, Holbæk,1500000 ,08-05-2012,Alm. Salg,83,18072,3,2005,-5%
 316,Villa,Ryttervænget 1,4390, Vipperød,1300000 ,05-05-2012,Alm. Salg,139,9353,3,1975,-20%
 316,Villa,Roskildevej 91,4300, Holbæk,1575000 ,01-05-2012,Alm. Salg,133,11842,5,1934,-6%
@@ -10973,34 +10821,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Tuse Næs Vej 35,4300, Holbæk,270000 ,17-04-2012,Auktion,145,1862,5,1915,
 316,Villa,Lærkevej 25,4300, Holbæk,1550000 ,17-04-2012,Alm. Salg,238,6513,7,1957,-3%
 316,Rækkehus,Munkholmvej 49A,4300, Holbæk,2031906 ,16-04-2012,Andet,123,16520,5,1920,
-316,Ejerlejlighed,"Smedelundsgade 2E, 2",4300, Holbæk,19451265 ,16-04-2012,Andet,71,273961,3,1914,
-316,Ejerlejlighed,"Smedelundsgade 2E, 3",4300, Holbæk,19451265 ,16-04-2012,Andet,69,281902,3,1914,
-316,Ejerlejlighed,"Ahlgade 74C, 1. tv",4300, Holbæk,19451265 ,16-04-2012,Andet,109,178452,4,1914,
-316,Ejerlejlighed,"Ahlgade 74C, 3. tv",4300, Holbæk,19451265 ,16-04-2012,Andet,106,183503,4,1914,
-316,Ejerlejlighed,"Ahlgade 74C, 2. th",4300, Holbæk,19451265 ,16-04-2012,Andet,150,129675,5,1914,
-316,Ejerlejlighed,"Ahlgade 74C, 2. tv",4300, Holbæk,19451265 ,16-04-2012,Andet,109,178452,4,1914,
-316,Ejerlejlighed,"Ahlgade 74C, 3. th",4300, Holbæk,19451265 ,16-04-2012,Andet,138,140951,5,1914,
-316,Ejerlejlighed,"Vimmelskaftet 13, st. th",4300, Holbæk,11957452 ,16-04-2012,Andet,91,131401,3,1911,
-316,Ejerlejlighed,"Vimmelskaftet 13, 2. th",4300, Holbæk,11957452 ,16-04-2012,Andet,59,202669,2,1911,
-316,Ejerlejlighed,"Vimmelskaftet 13, 1. tv",4300, Holbæk,11957452 ,16-04-2012,Andet,100,119575,3,1911,
-316,Ejerlejlighed,"Vimmelskaftet 13, 1. th",4300, Holbæk,11957452 ,16-04-2012,Andet,91,131401,3,1911,
-316,Ejerlejlighed,"Vimmelskaftet 13, st. tv",4300, Holbæk,11957452 ,16-04-2012,Andet,100,119575,3,1911,
-316,Ejerlejlighed,"Vimmelskaftet 13, 2. tv",4300, Holbæk,11957452 ,16-04-2012,Andet,65,183961,2,1911,
-316,Ejerlejlighed,"Strandgade 13, 1. th",4300, Holbæk,11957452 ,16-04-2012,Andet,80,149468,2,1912,
-316,Ejerlejlighed,"Strandgade 13, st. th",4300, Holbæk,11957452 ,16-04-2012,Andet,80,149468,2,1912,
-316,Ejerlejlighed,"Tidemandsvej 16B, 1. th",4300, Holbæk,9349391 ,16-04-2012,Andet,125,74795,5,1909,
-316,Ejerlejlighed,"Strandgade 13, st. tv",4300, Holbæk,11957452 ,16-04-2012,Andet,81,147623,2,1912,
-316,Ejerlejlighed,"Tidemandsvej 16B, 1. tv",4300, Holbæk,9349391 ,16-04-2012,Andet,79,118347,4,1909,
-316,Ejerlejlighed,"Strandgade 13, 2. th",4300, Holbæk,11957452 ,16-04-2012,Andet,54,221434,2,1912,
-316,Ejerlejlighed,"Strandgade 13, 1. tv",4300, Holbæk,11957452 ,16-04-2012,Andet,81,147623,2,1912,
-316,Ejerlejlighed,"Strandgade 13, 2. tv",4300, Holbæk,11957452 ,16-04-2012,Andet,52,229951,2,1912,
-316,Ejerlejlighed,"Chr Hansensvej 30B, 1. th",4300, Holbæk,9349391 ,16-04-2012,Andet,75,124659,3,1909,
-316,Ejerlejlighed,"Chr Hansensvej 30B, 2. th",4300, Holbæk,9349391 ,16-04-2012,Andet,63,148403,3,1909,
-316,Ejerlejlighed,"Chr Hansensvej 30C, st. th",4300, Holbæk,9349391 ,16-04-2012,Andet,52,179796,2,1909,
-316,Ejerlejlighed,"Chr Hansensvej 30C, 2. th",4300, Holbæk,9349391 ,16-04-2012,Andet,61,153269,3,1909,
-316,Ejerlejlighed,"Chr Hansensvej 30C, st. tv",4300, Holbæk,9349391 ,16-04-2012,Andet,55,169989,2,1909,
-316,Ejerlejlighed,"Chr Hansensvej 30C, 1. th",4300, Holbæk,9349391 ,16-04-2012,Andet,68,137491,2,1909,
-316,Ejerlejlighed,"Chr Hansensvej 30C, 1. tv",4300, Holbæk,9349391 ,16-04-2012,Andet,52,179796,2,1909,
 316,Villa,Sofievej 21,4440, Mørkøv,312500 ,16-04-2012,Alm. Salg,150,2083,4,2013,
 316,Rækkehus,Sønderstrupvej 5H,4340, Tølløse,995000 ,15-04-2012,Alm. Salg,128,7773,3,1952,
 316,Villa,Åparken 5,4370, Store Merløse,460000 ,15-04-2012,Auktion,94,4894,4,1980,
@@ -11044,12 +10864,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Hyldegårdsvej 50,4300, Holbæk,800000 ,14-03-2012,Alm. Salg,97,8247,4,1985,-6%
 316,Villa,Skamstrupvej 53,4440, Mørkøv,500000 ,14-03-2012,Alm. Salg,144,3472,5,1827,-23%
 316,Villa,Kildegårdsvej 3,4370, Store Merløse,450000 ,14-03-2012,Alm. Salg,133,3383,4,1979,
-316,Ejerlejlighed,Baggesens Have 1A,4300, Holbæk,1000000 ,13-03-2012,Alm. Salg,62,16129,2,1984,-13%
 316,Villa,Bygaden 24,4305, Orø,638950 ,13-03-2012,Alm. Salg,103,6203,5,1922,
 316,Villa,Tornbrinken 8,4450, Jyderup,550000 ,13-03-2012,Fam. Salg,133,4135,4,1890,
 316,Villa,Ternevej 7,4340, Tølløse,180000 ,13-03-2012,Andet,186,968,6,1973,
 316,Villa,Barsebæk 64,4300, Holbæk,2050000 ,13-03-2012,Alm. Salg,180,11389,5,1970,-11%
-316,Villa,Knevelsvej 16,4300, Holbæk,1000000 ,13-03-2012,Alm. Salg,180,5556,5,2013,
 316,Villa,Munkevænget 11,4300, Holbæk,2100000 ,12-03-2012,Alm. Salg,139,15108,6,1978,-8%
 316,Villa,Sejergårdsvej 24,4340, Tølløse,1300000 ,12-03-2012,Alm. Salg,120,10833,5,1984,-18%
 316,Rækkehus,Østergade 135,4340, Tølløse,1050000 ,11-03-2012,Alm. Salg,92,11413,4,1988,-8%
@@ -11181,10 +10999,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Ejerlejlighed,Kalundborgvej 12E,4300, Holbæk,3000000 ,12-12-2011,Alm. Salg,148,20270,3,1915,-6%
 316,Villa,Glentevej 9,4450, Jyderup,1595000 ,12-12-2011,Alm. Salg,160,9969,3,1971,
 316,Villa,Solvej 61D,4440, Mørkøv,2700000 ,12-12-2011,Alm. Salg,197,13706,5,2009,-3%
-316,Ejerlejlighed,"Labæk 23, 1",4300, Holbæk,1087000 ,11-12-2011,Auktion,28,38821,1,1900,-44%
 316,Villa,Birkekær 11,4532, Gislinge,1004000 ,11-12-2011,Alm. Salg,111,9045,3,1967,
 316,Villa,Risvænget 20,4300, Holbæk,1662500 ,11-12-2011,Alm. Salg,132,12595,5,1967,-9%
-316,Villa,Labæk 21,4300, Holbæk,1087000 ,11-12-2011,Auktion,179,6073,7,1900,-44%
 316,Villa,Kirsebærhaven 19,4532, Gislinge,1600000 ,11-12-2011,Alm. Salg,133,12030,5,2006,-11%
 316,Ejerlejlighed,"Fuglsvej 1, 1",4300, Holbæk,1820000 ,08-12-2011,Alm. Salg,152,11974,6,1908,-39%
 316,Villa,Hegnet 31,4300, Holbæk,1100000 ,08-12-2011,Alm. Salg,102,10784,3,1949,
@@ -11415,7 +11231,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Hovedgaden 73,4520, Svinninge,1300000 ,02-08-2011,Auktion,258,5039,10,1959,-28%
 316,Villa,Samsøvej 7,4300, Holbæk,1900000 ,02-08-2011,Alm. Salg,125,15200,5,1954,-13%
 316,Rækkehus,Aerolitvej 6,4450, Jyderup,1100000 ,01-08-2011,Alm. Salg,87,12644,3,2001,-4%
-316,Rækkehus,Tingerupvej 2A,4330, Hvalsø,1432578 ,01-08-2011,Alm. Salg,126,11370,3,1952,
 316,Villa,Smutvej 10,4300, Holbæk,700000 ,01-08-2011,Alm. Salg,93,7527,5,1957,-22%
 316,Villa,Østergade 4,4340, Tølløse,515500 ,01-08-2011,Fam. Salg,97,5314,4,1964,
 316,Villa,Åmosevej 90,4440, Mørkøv,295000 ,01-08-2011,Fam. Salg,103,2864,4,1908,
@@ -11449,7 +11264,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Ny Hagestedvej 41,4532, Gislinge,488700 ,11-07-2011,Alm. Salg,128,3818,4,1904,
 316,Villa,Dalstrøget 26,4340, Tølløse,1825000 ,10-07-2011,Alm. Salg,141,12943,5,1985,-4%
 316,Villa,Diget 16,4300, Holbæk,1775000 ,10-07-2011,Alm. Salg,121,14669,4,1920,-4%
-316,Villa,Bygaden 18B,4370, Store Merløse,450000 ,10-07-2011,Alm. Salg,31,14516,1,1928,-5%
 316,Villa,Uglerupvej 16,4300, Holbæk,860000 ,07-07-2011,Alm. Salg,79,10886,3,1864,-9%
 316,Villa,Ahornvej 5,4390, Vipperød,1895000 ,07-07-2011,Alm. Salg,133,14248,4,1977,-5%
 316,Villa,Erantisvej 14,4520, Svinninge,330000 ,06-07-2011,Auktion,104,3173,4,1963,
@@ -12378,7 +12192,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Lergravsvej 28,4300, Holbæk,1483585 ,02-02-2010,Fam. Salg,113,13129,4,1986,
 316,Rækkehus,Kildevangsparken 50,4390, Vipperød,1600000 ,31-01-2010,Alm. Salg,127,12598,4,1979,-14%
 316,Villa,Skimmedevej 18,4390, Vipperød,2600000 ,31-01-2010,Alm. Salg,200,13000,5,1900,-4%
-316,Villa,Ringstedvej 12,4520, Svinninge,7820500 ,31-01-2010,Alm. Salg,100,78205,5,1882,
 316,Villa,Holbækvej 15,4370, Store Merløse,1100000 ,28-01-2010,Alm. Salg,110,10000,6,1937,-4%
 316,Villa,Præsteengen 25,4300, Holbæk,530000 ,27-01-2010,Alm. Salg,203,2611,6,2010,-20%
 316,Villa,Præstevænget 9A,4450, Jyderup,230000 ,27-01-2010,Alm. Salg,129,1783,4,2011,-34%
@@ -12410,15 +12223,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Tåstrupvej 103,4370, Store Merløse,1020000 ,06-01-2010,Auktion,156,6538,7,1917,
 316,Villa,Baldersvej 12,4300, Holbæk,1800000 ,06-01-2010,Alm. Salg,137,13139,4,1971,-8%
 316,Villa,Dumpedalvej 8A,4340, Tølløse,7892500 ,06-01-2010,Fam. Salg,124,63649,3,1971,
-316,Ejerlejlighed,"Chr Hansensvej 15, st. th",4300, Holbæk,4209308 ,05-01-2010,Auktion,71,59286,3,1910,
-316,Ejerlejlighed,"Chr Hansensvej 15, st. tv",4300, Holbæk,4209308 ,05-01-2010,Auktion,52,80948,2,1910,
-316,Ejerlejlighed,"Chr Hansensvej 15, 2. tv",4300, Holbæk,4209308 ,05-01-2010,Auktion,52,80948,2,1910,
-316,Ejerlejlighed,"Tidemandsvej 18, st",4300, Holbæk,4209308 ,05-01-2010,Auktion,97,43395,3,1910,
-316,Ejerlejlighed,"Tidemandsvej 18, 1",4300, Holbæk,4209308 ,05-01-2010,Auktion,98,42952,3,1910,
-316,Ejerlejlighed,"Tidemandsvej 18, 2",4300, Holbæk,4209308 ,05-01-2010,Auktion,98,42952,3,1910,
-316,Ejerlejlighed,"Chr Hansensvej 15, 1. tv",4300, Holbæk,4209308 ,05-01-2010,Auktion,52,80948,2,1910,
-316,Ejerlejlighed,"Chr Hansensvej 15, 1. th",4300, Holbæk,4209308 ,05-01-2010,Auktion,71,59286,3,1910,
-316,Ejerlejlighed,"Chr Hansensvej 15, 2. th",4300, Holbæk,4209308 ,05-01-2010,Auktion,71,59286,3,1910,
 316,Villa,Hejrevej 8,4532, Gislinge,987500 ,05-01-2010,Alm. Salg,104,9495,3,1989,
 316,Villa,Frilandsvej 8,4300, Holbæk,1119000 ,04-01-2010,Alm. Salg,104,10760,4,1925,-14%
 316,Villa,Bukkerupvej 85,4340, Tølløse,2350000 ,04-01-2010,Alm. Salg,197,11929,7,2008,-6%
@@ -12456,8 +12260,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Tjørneholm 57,4350, Ugerløse,200000 ,13-12-2009,Fam. Salg,189,1058,6,2006,
 316,Villa,Bygaden 34,4520, Svinninge,336650 ,13-12-2009,Alm. Salg,390,765,14,1850,
 316,Villa,Sofievej 6A,4300, Holbæk,1625000 ,11-12-2009,Alm. Salg,222,7320,4,1903,
-316,Ejerlejlighed,"Alfred Hansens Have 44, 1. tv",4300, Holbæk,1500000 ,10-12-2009,Alm. Salg,98,15306,3,2005,
-316,Villa,Bækmarksvej 9B,4300, Holbæk,1500000 ,10-12-2009,Alm. Salg,114,13158,3,1952,-3%
 316,Villa,Løvenborgvej 10,4420, Regstrup,985000 ,10-12-2009,Fam. Salg,92,10707,5,1934,
 316,Villa,Sorøvej 148,4350, Ugerløse,2460000 ,10-12-2009,Alm. Salg,203,12118,5,1900,
 316,Villa,Koblet 17,4300, Holbæk,950100 ,10-12-2009,Alm. Salg,150,6334,4,2012,
@@ -12527,7 +12329,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Vestervang 14,4520, Svinninge,615986 ,15-11-2009,Alm. Salg,129,4775,4,1975,-64%
 316,Villa,Hovedgaden 106,4420, Regstrup,1400000 ,15-11-2009,Alm. Salg,149,9396,6,1953,-12%
 316,Villa,Toftegårdsvej 14,4350, Ugerløse,1430000 ,14-11-2009,Alm. Salg,115,12435,4,1976,-4%
-316,Villa,Kvarmløsevej 34B,4340, Tølløse,2677500 ,14-11-2009,Fam. Salg,86,31134,3,1927,
 316,Villa,Rugvænget 14,4520, Svinninge,975000 ,12-11-2009,Auktion,101,9653,4,1980,-22%
 316,Villa,Bygaden 36,4370, Store Merløse,1150000 ,12-11-2009,Alm. Salg,139,8273,7,1907,
 316,Villa,Højvangsparken 15,4300, Holbæk,2150000 ,12-11-2009,Alm. Salg,150,14333,4,1968,
@@ -12558,8 +12359,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Heibergs Have 46,4300, Holbæk,950000 ,29-10-2009,Alm. Salg,116,8190,5,1978,
 316,Villa,Solholm 5,4520, Svinninge,400000 ,29-10-2009,Alm. Salg,68,5882,2,1887,-20%
 316,Villa,Timianvej 17,4300, Holbæk,2000000 ,29-10-2009,Alm. Salg,155,12903,5,1972,-9%
-316,Rækkehus,Dalen 27,4300, Holbæk,2400000 ,28-10-2009,Alm. Salg,123,19512,4,1965,-17%
-316,Ejerlejlighed,Smedelundsgade 40C,4300, Holbæk,2400000 ,28-10-2009,Alm. Salg,69,34783,2,1680,
 316,Villa,Byvej 17,4532, Gislinge,900000 ,28-10-2009,Alm. Salg,150,6000,5,1932,-18%
 316,Villa,Tølløsevej 368,4350, Ugerløse,950000 ,27-10-2009,Alm. Salg,81,11728,3,1955,-5%
 316,Villa,Møllestensparken 7,4300, Holbæk,1800000 ,27-10-2009,Alm. Salg,116,15517,5,1975,
@@ -12824,7 +12623,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Sdr Jernløsevej 71,4420, Regstrup,650000 ,28-05-2009,Auktion,92,7065,3,1912,
 316,Rækkehus,Kildevangsparken 92,4390, Vipperød,1700000 ,27-05-2009,Alm. Salg,127,13386,4,1979,-10%
 316,Villa,Lammefjordsvej 1,4520, Svinninge,695000 ,27-05-2009,Alm. Salg,114,6096,8,1915,-22%
-316,Rækkehus,Teglværksvej 1,4450, Jyderup,1800000 ,26-05-2009,Auktion,128,14063,3,1892,
 316,Ejerlejlighed,Kalundborgvej 253A,4300, Holbæk,949440 ,26-05-2009,Auktion,288,3297,7,1915,
 316,Villa,Ternevej 5,4300, Holbæk,2500000 ,26-05-2009,Alm. Salg,137,18248,5,1938,-11%
 316,Villa,Gl Stenhusvej 4,4300, Holbæk,1210000 ,26-05-2009,Auktion,98,12347,4,1927,
@@ -13060,7 +12858,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Juelsvej 13,4390, Vipperød,1400000 ,15-12-2008,Auktion,157,8917,5,1975,-30%
 316,Villa,Kathrinevej 26,4300, Holbæk,1675000 ,14-12-2008,Alm. Salg,118,14195,6,1966,-9%
 316,Villa,Omfartsvejen 30,4300, Holbæk,900000 ,14-12-2008,Andet,189,4762,6,1978,
-316,Villa,Ringstedvej 12,4520, Svinninge,18000000 ,14-12-2008,Alm. Salg,100,180000,5,1882,
 316,Villa,Møllervænget 41,4390, Vipperød,2100000 ,14-12-2008,Alm. Salg,134,15672,4,1979,-11%
 316,Villa,Kvamvej 4,4450, Jyderup,1905000 ,14-12-2008,Auktion,230,8283,6,1973,
 316,Villa,Hostrups Have 6,4300, Holbæk,3500000 ,13-12-2008,Alm. Salg,181,19337,7,1977,-8%
@@ -13166,34 +12963,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Rækkehus,Holmager 10,4520, Svinninge,1050000 ,30-09-2008,Alm. Salg,91,11538,4,1970,-12%
 316,Rækkehus,Arnakkegårds Alle 11C,4390, Vipperød,1325000 ,30-09-2008,Alm. Salg,60,22083,2,1968,
 316,Rækkehus,Munkholmvej 49A,4300, Holbæk,2500000 ,28-09-2008,Fam. Salg,123,20325,5,1920,
-316,Ejerlejlighed,"Smedelundsgade 2E, 2",4300, Holbæk,18000000 ,28-09-2008,Fam. Salg,71,253521,3,1914,
-316,Ejerlejlighed,"Smedelundsgade 2E, 3",4300, Holbæk,18000000 ,28-09-2008,Fam. Salg,69,260870,3,1914,
-316,Ejerlejlighed,"Ahlgade 74C, 1. tv",4300, Holbæk,18000000 ,28-09-2008,Fam. Salg,109,165138,4,1914,
-316,Ejerlejlighed,"Ahlgade 74C, 3. tv",4300, Holbæk,18000000 ,28-09-2008,Fam. Salg,106,169811,4,1914,
-316,Ejerlejlighed,"Ahlgade 74C, 2. th",4300, Holbæk,18000000 ,28-09-2008,Fam. Salg,150,120000,5,1914,
-316,Ejerlejlighed,"Ahlgade 74C, 2. tv",4300, Holbæk,18000000 ,28-09-2008,Fam. Salg,109,165138,4,1914,
-316,Ejerlejlighed,"Ahlgade 74C, 3. th",4300, Holbæk,18000000 ,28-09-2008,Fam. Salg,138,130435,5,1914,
-316,Ejerlejlighed,"Vimmelskaftet 13, st. th",4300, Holbæk,12000000 ,28-09-2008,Fam. Salg,91,131868,3,1911,
-316,Ejerlejlighed,"Vimmelskaftet 13, 2. th",4300, Holbæk,12000000 ,28-09-2008,Fam. Salg,59,203390,2,1911,
-316,Ejerlejlighed,"Vimmelskaftet 13, 1. tv",4300, Holbæk,12000000 ,28-09-2008,Fam. Salg,100,120000,3,1911,
-316,Ejerlejlighed,"Vimmelskaftet 13, 1. th",4300, Holbæk,12000000 ,28-09-2008,Fam. Salg,91,131868,3,1911,
-316,Ejerlejlighed,"Vimmelskaftet 13, st. tv",4300, Holbæk,12000000 ,28-09-2008,Fam. Salg,100,120000,3,1911,
-316,Ejerlejlighed,"Vimmelskaftet 13, 2. tv",4300, Holbæk,12000000 ,28-09-2008,Fam. Salg,65,184615,2,1911,
-316,Ejerlejlighed,"Strandgade 13, 1. th",4300, Holbæk,12000000 ,28-09-2008,Fam. Salg,80,150000,2,1912,
-316,Ejerlejlighed,"Strandgade 13, st. th",4300, Holbæk,12000000 ,28-09-2008,Fam. Salg,80,150000,2,1912,
-316,Ejerlejlighed,"Tidemandsvej 16B, 1. th",4300, Holbæk,8000000 ,28-09-2008,Fam. Salg,125,64000,5,1909,
-316,Ejerlejlighed,"Strandgade 13, st. tv",4300, Holbæk,12000000 ,28-09-2008,Fam. Salg,81,148148,2,1912,
-316,Ejerlejlighed,"Tidemandsvej 16B, 1. tv",4300, Holbæk,8000000 ,28-09-2008,Fam. Salg,79,101266,4,1909,
-316,Ejerlejlighed,"Strandgade 13, 2. th",4300, Holbæk,12000000 ,28-09-2008,Fam. Salg,54,222222,2,1912,
-316,Ejerlejlighed,"Strandgade 13, 1. tv",4300, Holbæk,12000000 ,28-09-2008,Fam. Salg,81,148148,2,1912,
-316,Ejerlejlighed,"Strandgade 13, 2. tv",4300, Holbæk,12000000 ,28-09-2008,Fam. Salg,52,230769,2,1912,
-316,Ejerlejlighed,"Chr Hansensvej 30B, 1. th",4300, Holbæk,8000000 ,28-09-2008,Fam. Salg,75,106667,3,1909,
-316,Ejerlejlighed,"Chr Hansensvej 30B, 2. th",4300, Holbæk,8000000 ,28-09-2008,Fam. Salg,63,126984,3,1909,
-316,Ejerlejlighed,"Chr Hansensvej 30C, st. th",4300, Holbæk,8000000 ,28-09-2008,Fam. Salg,52,153846,2,1909,
-316,Ejerlejlighed,"Chr Hansensvej 30C, 2. th",4300, Holbæk,8000000 ,28-09-2008,Fam. Salg,61,131148,3,1909,
-316,Ejerlejlighed,"Chr Hansensvej 30C, st. tv",4300, Holbæk,8000000 ,28-09-2008,Fam. Salg,55,145455,2,1909,
-316,Ejerlejlighed,"Chr Hansensvej 30C, 1. th",4300, Holbæk,8000000 ,28-09-2008,Fam. Salg,68,117647,2,1909,
-316,Ejerlejlighed,"Chr Hansensvej 30C, 1. tv",4300, Holbæk,8000000 ,28-09-2008,Fam. Salg,52,153846,2,1909,
 316,Villa,Bygvænget 17,4520, Svinninge,1068000 ,28-09-2008,Fam. Salg,150,7120,4,1979,
 316,Villa,Roskildevej 205,4300, Holbæk,1700000 ,28-09-2008,Alm. Salg,87,19540,3,1945,
 316,Villa,Jernbanevej 36,4450, Jyderup,3655000 ,28-09-2008,Fam. Salg,539,6781,14,1919,
@@ -13367,16 +13136,13 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Adelers Alle 215,4532, Gislinge,2300000 ,30-06-2008,Alm. Salg,141,16312,5,1958,
 316,Villa,Sørningevej 28,4440, Mørkøv,2595000 ,29-06-2008,Alm. Salg,182,14258,7,1901,
 316,Villa,Chr Hansensvej 17,4520, Svinninge,1530000 ,29-06-2008,Alm. Salg,118,12966,3,1967,-4%
-316,Villa,Ringstedvej 12,4520, Svinninge,38000000 ,29-06-2008,Andet,100,380000,5,1882,
 316,Villa,Jernbanevej 14,4440, Mørkøv,1200000 ,29-06-2008,Alm. Salg,278,4317,11,1891,
 316,Villa,Jægervænget 10,4390, Vipperød,1985000 ,28-06-2008,Alm. Salg,147,13503,4,1972,-5%
 316,Villa,Ellebjergvej 32,4450, Jyderup,1200000 ,28-06-2008,Alm. Salg,101,11881,4,1967,-2%
 316,Rækkehus,Æblegården 18,4300, Holbæk,1957000 ,27-06-2008,Alm. Salg,85,23024,3,2008,-7%
 316,Rækkehus,Roskildevej 285B,4390, Vipperød,1500000 ,26-06-2008,Alm. Salg,88,17045,1,1780,-6%
 316,Rækkehus,Labæk 50,4300, Holbæk,2360000 ,26-06-2008,Alm. Salg,90,26222,3,1884,-1%
-316,Ejerlejlighed,"Sølystvej 19, 1",4450, Jyderup,2575000 ,26-06-2008,Alm. Salg,82,31402,3,1927,-13%
 316,Ejerlejlighed,"Teknikvej 6, 1",4532, Gislinge,2046515 ,26-06-2008,Andet,120,17054,4,2010,
-316,Villa,Sølystvej 17,4450, Jyderup,2575000 ,26-06-2008,Alm. Salg,230,11196,11,1907,-13%
 316,Villa,Nyvej 5,4532, Gislinge,1810000 ,26-06-2008,Alm. Salg,115,15739,5,1961,-2%
 316,Villa,Rosenvænget 31,4300, Holbæk,3277271 ,26-06-2008,Alm. Salg,175,18727,5,2009,
 316,Rækkehus,Søbæksparken 74,4450, Jyderup,1450000 ,25-06-2008,Andet,88,16477,4,1985,
@@ -13410,16 +13176,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Elmegården 27,4450, Jyderup,1500000 ,17-06-2008,Alm. Salg,137,10949,4,1973,-4%
 316,Villa,Rs Hansensvej 15,4520, Svinninge,1660000 ,17-06-2008,Alm. Salg,134,12388,5,1969,-4%
 316,Villa,Amtsvejen 45,4460, Snertinge,920000 ,17-06-2008,Alm. Salg,91,10110,4,1900,-8%
-316,Ejerlejlighed,Mejerivej 12,4532, Gislinge,4500000 ,16-06-2008,Fam. Salg,111,40541,4,1964,
-316,Ejerlejlighed,Mejerivej 14,4532, Gislinge,4500000 ,16-06-2008,Fam. Salg,127,35433,4,1964,
-316,Ejerlejlighed,"Mejerivej 16, 1",4532, Gislinge,4500000 ,16-06-2008,Fam. Salg,110,40909,3,1964,
-316,Ejerlejlighed,Mejerivej 18,4532, Gislinge,4500000 ,16-06-2008,Fam. Salg,121,37190,5,1953,
-316,Ejerlejlighed,Mejerivej 20,4532, Gislinge,4500000 ,16-06-2008,Fam. Salg,123,36585,4,1953,
-316,Ejerlejlighed,Mejerivej 22,4532, Gislinge,4500000 ,16-06-2008,Fam. Salg,125,36000,4,1953,
-316,Ejerlejlighed,Byvej 61B,4532, Gislinge,4500000 ,16-06-2008,Fam. Salg,149,30201,3,1964,
-316,Ejerlejlighed,Byvej 61D,4532, Gislinge,4500000 ,16-06-2008,Fam. Salg,165,27273,5,1964,
-316,Ejerlejlighed,Byvej 61C,4532, Gislinge,4500000 ,16-06-2008,Fam. Salg,115,39130,5,1964,
-316,Ejerlejlighed,Byvej 61A,4532, Gislinge,4500000 ,16-06-2008,Fam. Salg,82,54878,2,1964,
 316,Ejerlejlighed,"Ahlgade 4C, st. th",4300, Holbæk,2228000 ,16-06-2008,Alm. Salg,108,20630,3,2007,
 316,Villa,Lærkevej 6,4350, Ugerløse,1100000 ,16-06-2008,Alm. Salg,96,11458,3,1962,
 316,Villa,Aggersvoldvej 31,4450, Jyderup,2470000 ,16-06-2008,Alm. Salg,143,17273,6,1931,-1%
@@ -13712,7 +13468,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Solbakkevej 3,4520, Svinninge,1470000 ,04-03-2008,Alm. Salg,120,12250,5,1971,-8%
 316,Villa,Jernbanevej 25,4450, Jyderup,1275000 ,04-03-2008,Alm. Salg,98,13010,3,1902,
 316,Villa,Vibevej 4,4350, Ugerløse,1750000 ,04-03-2008,Alm. Salg,124,14113,5,1970,-8%
-316,Villa,Ringstedvej 12,4520, Svinninge,4800000 ,03-03-2008,Alm. Salg,100,48000,5,1882,
 316,Villa,Hjortholmvej 43,4340, Tølløse,1875000 ,03-03-2008,Alm. Salg,99,18939,3,1955,-4%
 316,Villa,Kundby Koloni 6,4520, Svinninge,750000 ,03-03-2008,Alm. Salg,260,2885,7,2009,-9%
 316,Rækkehus,Marievej 4,4300, Holbæk,1768000 ,02-03-2008,Andet,92,19217,4,1918,
@@ -13823,11 +13578,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Skovvænget 23,4370, Store Merløse,3090000 ,07-02-2008,Alm. Salg,198,15606,6,1905,-3%
 316,Villa,Agervænget 116,4420, Regstrup,1495000 ,07-02-2008,Alm. Salg,122,12254,4,1973,
 316,Villa,Hellestrupvej 2A,4300, Holbæk,6500000 ,07-02-2008,Alm. Salg,205,31707,9,1907,
-316,Ejerlejlighed,Vinkelvej 3A,4360, Kirke Eskilstrup,3900000 ,06-02-2008,Alm. Salg,43,90698,2,1951,
-316,Ejerlejlighed,Vinkelvej 3B,4360, Kirke Eskilstrup,3900000 ,06-02-2008,Alm. Salg,63,61905,4,1951,
-316,Ejerlejlighed,Vinkelvej 3C,4360, Kirke Eskilstrup,3900000 ,06-02-2008,Alm. Salg,75,52000,2,1951,
-316,Ejerlejlighed,"Tysingevej 6C, 1",4360, Kirke Eskilstrup,3900000 ,06-02-2008,Alm. Salg,52,75000,1,1951,
-316,Ejerlejlighed,"Tysingevej 6C, st",4360, Kirke Eskilstrup,3900000 ,06-02-2008,Alm. Salg,52,75000,1,1951,
 316,Villa,Vestervangen 41,4300, Holbæk,2400000 ,06-02-2008,Alm. Salg,116,20690,4,1967,-2%
 316,Villa,Ibs Huse 6,4440, Mørkøv,750000 ,06-02-2008,Alm. Salg,202,3713,6,1914,
 316,Villa,Sorøvej 148,4350, Ugerløse,3725000 ,06-02-2008,Alm. Salg,203,18350,5,1900,
@@ -13859,14 +13609,12 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Kalundborgvej 59,4300, Holbæk,2000000 ,28-01-2008,Alm. Salg,154,11976,4,1900,-2%
 316,Villa,Møllestensparken 40,4300, Holbæk,2340000 ,28-01-2008,Alm. Salg,117,20000,5,1976,
 316,Villa,Vestervangen 80,4300, Holbæk,1410000 ,28-01-2008,Alm. Salg,114,12368,3,1967,1%
-316,Villa,Markedsgade 7B,4300, Holbæk,2900000 ,27-01-2008,Alm. Salg,86,33721,4,1907,
 316,Villa,Hammershusvej 110,4370, Store Merløse,900000 ,27-01-2008,Alm. Salg,150,6000,5,2009,
 316,Villa,Kildeparken 27,4440, Mørkøv,2274895 ,27-01-2008,Alm. Salg,137,16605,5,2008,14%
 316,Villa,Kildeparken 8,4440, Mørkøv,780670 ,27-01-2008,Alm. Salg,155,5037,5,2022,
 316,Villa,Diget 20,4300, Holbæk,3000000 ,25-01-2008,Alm. Salg,144,20833,4,1929,-3%
 316,Villa,Tjørnevej 8,4300, Holbæk,1850000 ,25-01-2008,Alm. Salg,148,12500,5,1971,-7%
 316,Rækkehus,Hejrevej 16A,4532, Gislinge,1425000 ,24-01-2008,Alm. Salg,89,16011,4,1990,
-316,Villa,Roskildevej 87D,4300, Holbæk,2375000 ,24-01-2008,Alm. Salg,22,107955,2,1925,
 316,Villa,Bognæsvej 46A,4300, Holbæk,15000000 ,24-01-2008,Alm. Salg,90,166667,2,1900,
 316,Villa,Slagelsevej 83,4450, Jyderup,1685000 ,24-01-2008,Alm. Salg,160,10531,5,1900,
 316,Villa,Holbækvej 92,4340, Tølløse,1950000 ,24-01-2008,Alm. Salg,131,14885,4,1932,-5%
@@ -14662,10 +14410,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Rødtjørnevej 2,4340, Tølløse,1875000 ,29-05-2007,Alm. Salg,102,18382,1,1947,
 316,Rækkehus,Æblegården 31,4300, Holbæk,2616101 ,28-05-2007,Alm. Salg,119,21984,4,2008,
 316,Rækkehus,Vestre Hovvej 76,4520, Svinninge,1545000 ,28-05-2007,Alm. Salg,87,17759,3,2008,
-316,Ejerlejlighed,"Brostræde 11, 4. tv",4300, Holbæk,3195000 ,28-05-2007,Alm. Salg,116,27543,4,2011,
 316,Ejerlejlighed,"Vejerhusstræde 6, 3. tv",4300, Holbæk,3295000 ,28-05-2007,Alm. Salg,114,28904,4,2011,
 316,Ejerlejlighed,"Vejerhusstræde 8, 2. tv",4300, Holbæk,3995000 ,28-05-2007,Alm. Salg,114,35044,4,2011,
-316,Ejerlejlighed,"Vejerhusstræde 6, 1. tv",4300, Holbæk,3195000 ,28-05-2007,Alm. Salg,114,28026,4,2011,
 316,Ejerlejlighed,"Vejerhusstræde 8, 5. tv",4300, Holbæk,4295000 ,28-05-2007,Alm. Salg,114,37675,4,2011,
 316,Ejerlejlighed,"Vejerhusstræde 8, 5. th",4300, Holbæk,3695000 ,28-05-2007,Alm. Salg,113,32699,4,2011,
 316,Villa,Lergravsvej 9,4300, Holbæk,2275000 ,28-05-2007,Alm. Salg,115,19783,4,1977,-4%
@@ -14815,7 +14561,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Bøgevej 12,4350, Ugerløse,1300000 ,16-04-2007,Alm. Salg,120,10833,4,1966,
 316,Villa,Engdraget 31,4300, Holbæk,2220000 ,16-04-2007,Alm. Salg,121,18347,4,1969,0%
 316,Villa,Østre Hovvej 26,4520, Svinninge,2195000 ,16-04-2007,Alm. Salg,139,15791,5,2010,
-316,Rækkehus,Tingerupvej 2A,4330, Hvalsø,2000000 ,15-04-2007,Andet,126,15873,3,1952,
 316,Villa,Øvej 20,4340, Tølløse,1695000 ,15-04-2007,Alm. Salg,162,10463,5,1969,
 316,Villa,Ringstedvej 10,4440, Mørkøv,1400000 ,15-04-2007,Alm. Salg,111,12613,4,1919,
 316,Villa,Peder Billesvej 34,4300, Holbæk,2453000 ,15-04-2007,Alm. Salg,82,29915,3,1954,4%
@@ -14832,7 +14577,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Rækkehus,Fuglsvej 12,4300, Holbæk,2250000 ,10-04-2007,Alm. Salg,89,25281,3,1904,
 316,Ejerlejlighed,Erik Menveds Vej 13A,4300, Holbæk,5800000 ,10-04-2007,Alm. Salg,163,35583,5,1916,
 316,Villa,Nørre Hovvej 5,4520, Svinninge,1995000 ,10-04-2007,Alm. Salg,178,11208,6,1980,
-316,Villa,Holbækvej 146,4420, Regstrup,1700000 ,10-04-2007,Alm. Salg,160,10625,5,1906,
 316,Villa,Skætterivej 41,4300, Holbæk,3670000 ,10-04-2007,Alm. Salg,173,21214,6,2006,
 316,Villa,Rødtjørnevej 19,4340, Tølløse,3575000 ,10-04-2007,Alm. Salg,164,21799,7,2008,3%
 316,Ejerlejlighed,"Markedsgade 1, 2. tv",4300, Holbæk,1895000 ,09-04-2007,Alm. Salg,107,17710,5,1949,
@@ -14858,7 +14602,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Munkholmvej 7,4300, Holbæk,6700000 ,30-03-2007,Alm. Salg,302,20552,9,1908,
 316,Villa,Skovvænget 29,4440, Mørkøv,1120017 ,30-03-2007,Alm. Salg,66,16970,3,1902,
 316,Villa,Sdr Jernløsevej 71,4420, Regstrup,1250000 ,30-03-2007,Alm. Salg,92,13587,3,1912,
-316,Villa,Søstrupvej 1C,4300, Holbæk,3400000 ,30-03-2007,Alm. Salg,58,58621,2,1930,
 316,Villa,Kisserupvej 74,4300, Holbæk,4070000 ,29-03-2007,Alm. Salg,168,24226,7,1900,
 316,Villa,Tåstrupvej 103,4370, Store Merløse,1650000 ,29-03-2007,Alm. Salg,156,10577,7,1917,-8%
 316,Villa,Birkekær 60,4532, Gislinge,1100000 ,29-03-2007,Fam. Salg,135,8148,4,1978,
@@ -15161,7 +14904,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Mellemvang 8,4300, Holbæk,3500000 ,27-12-2006,Alm. Salg,164,19774,5,1974,
 316,Villa,Skætterivej 12,4300, Holbæk,1001999 ,27-12-2006,Alm. Salg,149,6725,6,2008,
 316,Villa,Søndervang 26,4300, Holbæk,1975000 ,26-12-2006,Alm. Salg,67,29478,3,1939,
-316,Villa,Gl. Skovvej 148B,4420, Regstrup,1012500 ,26-12-2006,Alm. Salg,190,5329,8,1907,
 316,Villa,Ildervej 18,4300, Holbæk,324000 ,24-12-2006,Fam. Salg,65,4985,3,1974,
 316,Ejerlejlighed,"Ahlgade 4B, 3. th",4300, Holbæk,3024000 ,22-12-2006,Alm. Salg,111,27243,3,2007,
 316,Villa,Landevejen 13,4520, Svinninge,1100000 ,22-12-2006,Alm. Salg,163,6748,6,1913,
@@ -15504,7 +15246,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Løvenborgvej 6,4420, Regstrup,1550000 ,18-09-2006,Alm. Salg,136,11397,4,1930,
 316,Villa,Agervænget 19,4420, Regstrup,1745000 ,18-09-2006,Alm. Salg,124,14073,4,1968,
 316,Villa,Knevelsvej 22,4300, Holbæk,950000 ,18-09-2006,Alm. Salg,165,5758,6,2007,
-316,Villa,Hovedgaden 81B,4520, Svinninge,2600000 ,18-09-2006,Alm. Salg,126,20635,3,1987,
 316,Villa,Skætterivej 10,4300, Holbæk,1325000 ,18-09-2006,Alm. Salg,200,6625,5,2010,
 316,Villa,Blomsterhaven 72,4300, Holbæk,2655000 ,17-09-2006,Alm. Salg,136,19522,4,1973,
 316,Villa,Bakkekammen 11,4300, Holbæk,2500000 ,17-09-2006,Alm. Salg,157,15924,6,1956,
@@ -15722,7 +15463,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Ejerlejlighed,"Vejerhusstræde 5, 1. th",4300, Holbæk,1855000 ,25-07-2006,Alm. Salg,90,20611,3,2006,
 316,Villa,Skætterivej 35,4300, Holbæk,825000 ,25-07-2006,Alm. Salg,185,4459,6,2009,
 316,Ejerlejlighed,"Alfred Hansens Have 44, st. tv",4300, Holbæk,1615000 ,24-07-2006,Alm. Salg,84,19226,3,2005,
-316,Villa,Roskildevej 87D,4300, Holbæk,1865000 ,24-07-2006,Alm. Salg,22,84773,2,1925,
 316,Villa,Østrupvej 82,4350, Ugerløse,2140000 ,24-07-2006,Alm. Salg,142,15070,4,1910,
 316,Rækkehus,Hvedevænget 17,4520, Svinninge,1495000 ,23-07-2006,Alm. Salg,105,14238,4,2004,
 316,Ejerlejlighed,"Bysøstræde 3, 2",4300, Holbæk,2000000 ,23-07-2006,Alm. Salg,79,25316,2,1910,
@@ -15808,11 +15548,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Rækkehus,Roskildevej 83,4300, Holbæk,1385000 ,05-07-2006,Alm. Salg,76,18224,3,1919,
 316,Rækkehus,Æblegården 27,4300, Holbæk,1150000 ,05-07-2006,Alm. Salg,119,9664,4,2007,
 316,Villa,Knevelsvej 18,4300, Holbæk,950000 ,05-07-2006,Alm. Salg,181,5249,6,2007,
-316,Ejerlejlighed,"Ahlgade 42, 1",4300, Holbæk,23715000 ,04-07-2006,Alm. Salg,167,142006,4,1907,
-316,Ejerlejlighed,"Ahlgade 42, 2",4300, Holbæk,23715000 ,04-07-2006,Alm. Salg,167,142006,4,1907,
-316,Ejerlejlighed,"Ahlgade 42, 3. th",4300, Holbæk,23715000 ,04-07-2006,Alm. Salg,86,275756,2,1907,
-316,Ejerlejlighed,"Ahlgade 42, 3. tv",4300, Holbæk,23715000 ,04-07-2006,Alm. Salg,87,272586,2,1907,
-316,Ejerlejlighed,Bagstræde 9B,4300, Holbæk,23715000 ,04-07-2006,Alm. Salg,112,211741,4,1907,
 316,Villa,Stjernedalen 21,4300, Holbæk,1000000 ,04-07-2006,Andet,145,6897,4,2004,
 316,Villa,Stærvej 3,4350, Ugerløse,1475000 ,04-07-2006,Alm. Salg,113,13053,4,1972,
 316,Villa,Strædesbakken 6,4300, Holbæk,2350000 ,03-07-2006,Alm. Salg,120,19583,3,2008,
@@ -15896,7 +15631,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Tjebberupvej 51,4300, Holbæk,2850000 ,18-06-2006,Alm. Salg,164,17378,5,1972,
 316,Villa,Kattekærstrædet 7,4305, Orø,900000 ,18-06-2006,Alm. Salg,82,10976,3,1963,
 316,Villa,Kirkevej 5,4532, Gislinge,1995000 ,18-06-2006,Alm. Salg,138,14457,5,1910,
-316,Villa,Tømmerupvej 37,4440, Mørkøv,2550000 ,18-06-2006,Alm. Salg,142,17958,4,1910,
 316,Villa,Stenhusparken 16,4300, Holbæk,3550000 ,18-06-2006,Alm. Salg,167,21257,5,2005,
 316,Villa,Skætterivej 30,4300, Holbæk,1005000 ,18-06-2006,Alm. Salg,169,5947,6,2010,
 316,Villa,Skætterivej 26,4300, Holbæk,1112000 ,18-06-2006,Alm. Salg,158,7038,6,2010,
@@ -16092,9 +15826,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Nordvestvej 1,4300, Holbæk,3950000 ,04-05-2006,Alm. Salg,162,24383,6,1905,
 316,Villa,Syvvejen 10,4305, Orø,1398000 ,04-05-2006,Alm. Salg,125,11184,4,1976,
 316,Villa,Blomsterhaven 44,4300, Holbæk,2912000 ,04-05-2006,Alm. Salg,167,17437,4,1974,
-316,Rækkehus,Æblegården 16,4300, Holbæk,700000 ,03-05-2006,Alm. Salg,85,8235,3,2008,
 316,Villa,Sønderstedvej 44,4340, Tølløse,1195000 ,03-05-2006,Alm. Salg,102,11716,4,1949,
-316,Villa,Præstebrovej 5,4300, Holbæk,700000 ,03-05-2006,Alm. Salg,77,9091,3,1941,
 316,Villa,Abildgårdsvej 8,4520, Svinninge,1475000 ,03-05-2006,Alm. Salg,90,16389,3,1960,
 316,Villa,Agervænget 8,4420, Regstrup,1995000 ,03-05-2006,Alm. Salg,147,13571,5,1968,
 316,Villa,Strædesbakken 15,4300, Holbæk,2280000 ,03-05-2006,Alm. Salg,111,20541,3,2008,
@@ -16248,21 +15980,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Tranekær 76,4532, Gislinge,666348 ,01-04-2006,Alm. Salg,145,4596,5,2005,
 316,Villa,Østerled 7,4440, Mørkøv,1050000 ,31-03-2006,Alm. Salg,79,13291,3,1966,
 316,Villa,Fasanvej 19A,4300, Holbæk,2425000 ,31-03-2006,Alm. Salg,115,21087,5,1915,
-316,Ejerlejlighed,"Karensmindevej 8, st",4300, Holbæk,9750000 ,30-03-2006,Alm. Salg,129,75581,4,1914,
-316,Ejerlejlighed,"Karensmindevej 8, 1. th",4300, Holbæk,9750000 ,30-03-2006,Alm. Salg,88,110795,3,1914,
-316,Ejerlejlighed,"Karensmindevej 8, 1. tv",4300, Holbæk,9750000 ,30-03-2006,Alm. Salg,60,162500,2,1914,
-316,Ejerlejlighed,"Karensmindevej 8, 2. th",4300, Holbæk,9750000 ,30-03-2006,Alm. Salg,88,110795,3,1914,
-316,Ejerlejlighed,"Karensmindevej 10, st. tv",4300, Holbæk,9750000 ,30-03-2006,Alm. Salg,74,131757,3,1914,
-316,Ejerlejlighed,"Karensmindevej 10, st. th",4300, Holbæk,9750000 ,30-03-2006,Alm. Salg,58,168103,2,1914,
-316,Ejerlejlighed,"Karensmindevej 10, 1. th",4300, Holbæk,9750000 ,30-03-2006,Alm. Salg,58,168103,2,1914,
-316,Ejerlejlighed,"Karensmindevej 10, 1. tv",4300, Holbæk,9750000 ,30-03-2006,Alm. Salg,74,131757,3,1914,
-316,Ejerlejlighed,"Karensmindevej 10, 2. th",4300, Holbæk,9750000 ,30-03-2006,Alm. Salg,58,168103,2,1914,
-316,Ejerlejlighed,"Karensmindevej 10, 2. tv",4300, Holbæk,9750000 ,30-03-2006,Alm. Salg,74,131757,3,1914,
-316,Ejerlejlighed,"Karensmindevej 8, 2. tv",4300, Holbæk,9750000 ,30-03-2006,Alm. Salg,60,162500,2,1914,
 316,Ejerlejlighed,Baggesens Have 1A,4300, Holbæk,250000 ,30-03-2006,Fam. Salg,62,4032,2,1984,
-316,Ejerlejlighed,"Henriettevej 1, 1",4300, Holbæk,9750000 ,30-03-2006,Alm. Salg,86,113372,3,1914,
-316,Ejerlejlighed,"Henriettevej 1, st",4300, Holbæk,9750000 ,30-03-2006,Alm. Salg,66,147727,2,1914,
-316,Ejerlejlighed,"Henriettevej 1, 2",4300, Holbæk,9750000 ,30-03-2006,Alm. Salg,86,113372,3,1914,
 316,Villa,Solvej 19,4440, Mørkøv,560000 ,30-03-2006,Fam. Salg,128,4375,4,1966,
 316,Villa,Risvænget 23,4300, Holbæk,2495000 ,30-03-2006,Alm. Salg,151,16523,6,1996,
 316,Villa,Ll Knabstrupvej 14,4420, Regstrup,1245000 ,30-03-2006,Alm. Salg,121,10289,3,1880,
@@ -16293,7 +16011,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Bøgevej 3,4340, Tølløse,1725000 ,23-03-2006,Alm. Salg,197,8756,6,1969,
 316,Villa,Rosenvej 2C,4520, Svinninge,1355000 ,23-03-2006,Alm. Salg,112,12098,5,1978,
 316,Villa,Bakkedraget 30,4450, Jyderup,895000 ,23-03-2006,Alm. Salg,107,8364,3,1877,
-316,Villa,Bygaden 18B,4370, Store Merløse,1250000 ,23-03-2006,Alm. Salg,31,40323,1,1928,
 316,Villa,Nyvænge 2,4350, Ugerløse,2875000 ,23-03-2006,Alm. Salg,229,12555,7,1924,
 316,Rækkehus,Søbæksparken 72,4450, Jyderup,1050000 ,22-03-2006,Alm. Salg,67,15672,3,1985,
 316,Ejerlejlighed,"Lynggårdsvej 4, 1",4450, Jyderup,2400000 ,22-03-2006,Alm. Salg,120,20000,6,1944,
@@ -16561,9 +16278,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Kvarmløsevej 16,4340, Tølløse,1565000 ,24-01-2006,Alm. Salg,112,13973,2,1875,
 316,Villa,Østergade 30,4340, Tølløse,1650000 ,24-01-2006,Alm. Salg,98,16837,4,1962,
 316,Rækkehus,Steenstrups Allé 24,4300, Holbæk,1875000 ,23-01-2006,Alm. Salg,102,18382,4,2006,
-316,Rækkehus,Truelsdalvej 28,4340, Tølløse,4105000 ,23-01-2006,Alm. Salg,92,30184,4,1850,
 316,Villa,Fuglsangsvej 7,4450, Jyderup,1695000 ,23-01-2006,Alm. Salg,91,18626,3,1958,
-316,Villa,Truelsdalvej 28,4340, Tølløse,4105000 ,23-01-2006,Alm. Salg,205,20024,5,1870,
 316,Villa,Bøgevej 20,4340, Tølløse,1515000 ,23-01-2006,Alm. Salg,114,13289,4,1977,
 316,Villa,Holbækvej 254,4440, Mørkøv,1225000 ,23-01-2006,Alm. Salg,120,10208,4,1935,
 316,Villa,Klerkevej 5,4300, Holbæk,3995000 ,23-01-2006,Alm. Salg,245,16306,7,2004,
@@ -16587,14 +16302,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Tværvej 3,4520, Svinninge,1195000 ,19-01-2006,Alm. Salg,88,13580,3,1950,
 316,Villa,Bygaden 37,4520, Svinninge,1625000 ,19-01-2006,Alm. Salg,177,9181,4,1877,
 316,Rækkehus,Munkholmvej 77,4300, Holbæk,1105000 ,18-01-2006,Fam. Salg,97,11392,4,1935,
-316,Ejerlejlighed,"Kalundborgvej 45, 2. tv",4300, Holbæk,5300000 ,18-01-2006,Alm. Salg,43,123256,1,1900,
 316,Ejerlejlighed,"Blegstræde 2A, 2",4300, Holbæk,775000 ,18-01-2006,Alm. Salg,100,7750,3,1848,
-316,Ejerlejlighed,Rolighedsvej 2,4300, Holbæk,5300000 ,18-01-2006,Alm. Salg,76,69737,3,1900,
-316,Ejerlejlighed,"Kalundborgvej 45, st. th",4300, Holbæk,5300000 ,18-01-2006,Alm. Salg,78,67949,3,1900,
-316,Ejerlejlighed,"Kalundborgvej 45, st. tv",4300, Holbæk,5300000 ,18-01-2006,Alm. Salg,53,100000,2,1900,
-316,Ejerlejlighed,"Kalundborgvej 45, 1. tv",4300, Holbæk,5300000 ,18-01-2006,Alm. Salg,53,100000,2,1900,
-316,Ejerlejlighed,"Kalundborgvej 45, 2. th",4300, Holbæk,5300000 ,18-01-2006,Alm. Salg,61,86885,2,1900,
-316,Ejerlejlighed,"Kalundborgvej 45, 1. th",4300, Holbæk,5300000 ,18-01-2006,Alm. Salg,78,67949,3,1900,
 316,Villa,Østrup Skovvej 6,4350, Ugerløse,1550000 ,18-01-2006,Alm. Salg,121,12810,3,1880,
 316,Villa,Holbækvej 46,4450, Jyderup,2200000 ,18-01-2006,Alm. Salg,187,10732,7,1901,
 316,Villa,Mejsevej 12,4370, Store Merløse,1695000 ,18-01-2006,Alm. Salg,135,12556,4,1972,
@@ -16666,7 +16374,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Vipperød Byvej 29,4390, Vipperød,2465000 ,02-01-2006,Alm. Salg,202,12203,4,1910,
 316,Villa,Havrevænget 11,4520, Svinninge,1850000 ,02-01-2006,Alm. Salg,130,14231,5,2004,
 316,Villa,Lindegården 10,4340, Tølløse,950000 ,02-01-2006,Alm. Salg,84,11310,3,2006,
-316,Villa,Tølløsevej 188A,4340, Tølløse,3400000 ,02-01-2006,Alm. Salg,294,11565,10,1865,
 316,Rækkehus,Steenstrups Allé 18,4300, Holbæk,1850000 ,01-01-2006,Alm. Salg,102,18137,4,2007,
 316,Rækkehus,Steenstrups Allé 20,4300, Holbæk,1865000 ,01-01-2006,Alm. Salg,102,18284,4,2007,
 316,Villa,Aerolitvej 3,4450, Jyderup,1145000 ,01-01-2006,Alm. Salg,119,9622,3,1942,
@@ -16970,12 +16677,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Springstrup 35,4300, Holbæk,1025000 ,17-10-2005,Alm. Salg,82,12500,2,1882,
 316,Villa,Strandvejen 2A,4300, Holbæk,825000 ,17-10-2005,Alm. Salg,135,6111,3,2007,
 316,Rækkehus,Poppelgården 28,4300, Holbæk,695000 ,16-10-2005,Alm. Salg,107,6495,4,2006,
-316,Ejerlejlighed,"Hovedgaden 15, st. th",4520, Svinninge,2500000 ,16-10-2005,Alm. Salg,126,19841,4,1906,
-316,Ejerlejlighed,"Hovedgaden 15, 1. th",4520, Svinninge,2500000 ,16-10-2005,Alm. Salg,83,30120,3,1906,
-316,Ejerlejlighed,"Hovedgaden 15, st. tv",4520, Svinninge,2500000 ,16-10-2005,Alm. Salg,99,25253,2,1906,
-316,Ejerlejlighed,"Hovedgaden 15, 1. tv",4520, Svinninge,2500000 ,16-10-2005,Alm. Salg,76,32895,4,1906,
-316,Ejerlejlighed,"Hovedgaden 15, 2",4520, Svinninge,2500000 ,16-10-2005,Alm. Salg,50,50000,3,1906,
-316,Ejerlejlighed,Flordalsvej 1,4520, Svinninge,2500000 ,16-10-2005,Alm. Salg,92,27174,3,1906,
 316,Villa,Bjergbyvej 1,4520, Svinninge,915000 ,16-10-2005,Alm. Salg,118,7754,5,1910,
 316,Villa,Regstrupparken 44,4420, Regstrup,1325000 ,16-10-2005,Alm. Salg,124,10685,4,1979,
 316,Villa,Elmegården 90,4450, Jyderup,1231996 ,16-10-2005,Alm. Salg,177,6960,6,1975,
@@ -17141,18 +16842,14 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Ringstedvej 202,4300, Holbæk,1800000 ,13-09-2005,Alm. Salg,201,8955,5,1780,
 316,Villa,Østrupvej 11,4350, Ugerløse,1095000 ,13-09-2005,Alm. Salg,64,17109,3,1946,
 316,Villa,Byvej 40,4532, Gislinge,950000 ,13-09-2005,Alm. Salg,76,12500,3,1952,
-316,Rækkehus,Tjebberup Vænge 1,4300, Holbæk,1604000 ,12-09-2005,Alm. Salg,90,17822,2,2005,
 316,Rækkehus,Poppelgården 12,4300, Holbæk,675000 ,12-09-2005,Alm. Salg,115,5870,4,2006,
 316,Villa,Tølløsevej 356,4350, Ugerløse,1295000 ,12-09-2005,Alm. Salg,81,15988,3,1948,
 316,Villa,Irisvej 18,4520, Svinninge,1465000 ,12-09-2005,Alm. Salg,155,9452,5,1978,
-316,Villa,Tjebberup Vænge 31,4300, Holbæk,1604000 ,12-09-2005,Alm. Salg,90,17822,2,2005,
 316,Rækkehus,Poppelgården 19,4300, Holbæk,550000 ,11-09-2005,Alm. Salg,85,6471,3,2007,
 316,Villa,Odinsvej 13,4300, Holbæk,2350000 ,11-09-2005,Alm. Salg,166,14157,5,1972,
 316,Villa,Ågerupvej 109,4390, Vipperød,2100000 ,10-09-2005,Alm. Salg,134,15672,4,1912,
 316,Villa,Christiansmindevej 14,4300, Holbæk,4810000 ,09-09-2005,Alm. Salg,193,24922,5,1953,
 316,Rækkehus,Skolegade 25,4300, Holbæk,1675000 ,08-09-2005,Alm. Salg,102,16422,3,1901,
-316,Rækkehus,Præstebrovej 4B,4300, Holbæk,875000 ,08-09-2005,Alm. Salg,101,8663,4,1922,
-316,Ejerlejlighed,"Slagterivej 8, 2. th",4300, Holbæk,875000 ,08-09-2005,Alm. Salg,43,20349,2,1908,
 316,Villa,Ringstedvej 235,4300, Holbæk,795000 ,08-09-2005,Alm. Salg,134,5933,6,1937,
 316,Villa,Engvejen 1,4420, Regstrup,1145000 ,08-09-2005,Alm. Salg,111,10315,4,1912,
 316,Rækkehus,Poppelgården 30,4300, Holbæk,625000 ,07-09-2005,Alm. Salg,107,5841,4,2006,
@@ -17201,12 +16898,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Dumpedalvej 14,4340, Tølløse,489817 ,31-08-2005,Andet,203,2413,5,2021,
 316,Villa,Ringstedvej 83,4440, Mørkøv,1200000 ,31-08-2005,Alm. Salg,91,13187,4,1957,
 316,Villa,Æblehaven 38,4390, Vipperød,1965000 ,31-08-2005,Alm. Salg,145,13552,5,1979,
-316,Rækkehus,Poppelgården 13,4300, Holbæk,600000 ,30-08-2005,Alm. Salg,95,6316,3,2006,
 316,Villa,Ny Hagestedvej 43,4532, Gislinge,1195000 ,30-08-2005,Alm. Salg,103,11602,3,1958,
 316,Villa,Dyremosevej 27,4450, Jyderup,2495000 ,30-08-2005,Alm. Salg,170,14676,6,1948,
 316,Villa,Holbækvej 1,4340, Tølløse,125000 ,30-08-2005,Alm. Salg,220,568,8,1846,
 316,Villa,Tuse Byvej 100,4300, Holbæk,431250 ,30-08-2005,Andet,173,2493,7,1727,
-316,Villa,Regnbuen 14,4300, Holbæk,600000 ,30-08-2005,Alm. Salg,173,3468,6,2010,
 316,Rækkehus,Trønningevej 14A,4520, Svinninge,1200000 ,29-08-2005,Alm. Salg,362,3315,10,1904,
 316,Rækkehus,Poppelgården 14,4300, Holbæk,675000 ,29-08-2005,Alm. Salg,121,5579,4,2006,
 316,Rækkehus,Dahliaparken 14,4420, Regstrup,380000 ,29-08-2005,Alm. Salg,96,3958,4,2006,
@@ -17852,7 +17547,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Rækkehus,Hovedgaden 3,4520, Svinninge,870000 ,17-03-2005,Alm. Salg,78,11154,3,1938,
 316,Rækkehus,Torslundevej 17C,4520, Svinninge,850000 ,17-03-2005,Alm. Salg,83,10241,3,1993,
 316,Villa,Hylde Alle 5,4300, Holbæk,1620000 ,17-03-2005,Alm. Salg,141,11489,5,1975,
-316,Villa,Sønderstrupvej 125,4360, Kirke Eskilstrup,1150000 ,17-03-2005,Andet,238,4832,7,1946,
 316,Villa,Juelsvej 9,4390, Vipperød,1350000 ,17-03-2005,Alm. Salg,116,11638,4,1965,
 316,Villa,Anemonevej 6,4300, Holbæk,1665000 ,17-03-2005,Alm. Salg,145,11483,4,1966,
 316,Villa,Smedelodden 13,4440, Mørkøv,980689 ,17-03-2005,Alm. Salg,107,9165,4,1972,
@@ -18003,7 +17697,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Vipperød Byvej 6,4390, Vipperød,1139000 ,02-02-2005,Alm. Salg,146,7801,5,1930,
 316,Villa,Sdr Jernløsevej 43C,4420, Regstrup,97000 ,02-02-2005,Alm. Salg,166,584,5,2006,
 316,Villa,Stenhusvej 18A,4300, Holbæk,2295000 ,02-02-2005,Alm. Salg,132,17386,5,2001,
-316,Villa,Søstrupvej 1C,4300, Holbæk,1250000 ,02-02-2005,Alm. Salg,58,21552,2,1930,
 316,Villa,Butterupvej 1,4300, Holbæk,1350000 ,01-02-2005,Alm. Salg,193,6995,5,1890,
 316,Villa,Gartnerlunden 1,4520, Svinninge,593128 ,01-02-2005,Andet,127,4670,4,1967,
 316,Villa,Ivar Bentsens Vej 5,4300, Holbæk,2895000 ,01-02-2005,Alm. Salg,200,14475,6,2005,
@@ -18165,7 +17858,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Sejergårdsvej 16,4340, Tølløse,1840000 ,11-12-2004,Alm. Salg,248,7419,7,1960,
 316,Rækkehus,Hjertebjærgparken 30,4340, Tølløse,1299539 ,09-12-2004,Alm. Salg,120,10829,4,2003,
 316,Rækkehus,Kildevangsparken 38,4390, Vipperød,775000 ,08-12-2004,Alm. Salg,129,6008,4,1979,
-316,Villa,Roskildevej 87D,4300, Holbæk,1650000 ,08-12-2004,Alm. Salg,22,75000,2,1925,
 316,Villa,Agervænget 44,4420, Regstrup,995000 ,08-12-2004,Alm. Salg,125,7960,4,1969,
 316,Villa,Østre Hovvej 8,4520, Svinninge,300000 ,08-12-2004,Alm. Salg,143,2098,5,2005,
 316,Villa,Hovedgaden 31,4420, Regstrup,900000 ,07-12-2004,Alm. Salg,166,5422,4,2017,
@@ -18699,7 +18391,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Skamstrupvej 36,4440, Mørkøv,530000 ,26-06-2004,Alm. Salg,66,8030,3,1962,
 316,Rækkehus,Baggesens Have 73,4300, Holbæk,1295000 ,25-06-2004,Alm. Salg,75,17267,3,1984,
 316,Rækkehus,Birkevej 9C,4300, Holbæk,1095000 ,25-06-2004,Alm. Salg,71,15423,2,1973,
-316,Ejerlejlighed,"Smedelundsgade 22A, 1",4300, Holbæk,32500000 ,25-06-2004,Alm. Salg,64,507813,2,1850,
 316,Villa,Ringstedvej 261,4300, Holbæk,1265000 ,24-06-2004,Alm. Salg,130,9731,6,1895,
 316,Villa,Tranekær 68,4532, Gislinge,225000 ,24-06-2004,Alm. Salg,142,1585,6,2005,
 316,Villa,Stenhusparken 37,4300, Holbæk,630000 ,24-06-2004,Alm. Salg,230,2739,7,2011,
@@ -18747,7 +18438,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Regnbuen 21,4300, Holbæk,502000 ,14-06-2004,Alm. Salg,203,2473,7,2006,
 316,Ejerlejlighed,"Strandstræde 10, st. tv",4300, Holbæk,3002726 ,13-06-2004,Alm. Salg,133,22577,3,2004,
 316,Villa,Mosevej 32,4340, Tølløse,714000 ,13-06-2004,Alm. Salg,142,5028,6,1983,
-316,Villa,Tømmerupvej 37,4440, Mørkøv,1286684 ,12-06-2004,Andet,142,9061,4,1910,
 316,Villa,Emmabodavej 34,4450, Jyderup,1070000 ,12-06-2004,Alm. Salg,108,9907,4,1967,
 316,Rækkehus,Alfred Hansens Have 26,4300, Holbæk,1495000 ,11-06-2004,Alm. Salg,102,14657,4,2004,
 316,Villa,Elmegården 164,4450, Jyderup,1210000 ,11-06-2004,Alm. Salg,152,7961,5,1976,
@@ -18862,7 +18552,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Holbækvej 292,4440, Mørkøv,1208769 ,19-05-2004,Alm. Salg,150,8058,6,1927,
 316,Villa,Vandværksvej 4,4300, Holbæk,2100000 ,19-05-2004,Alm. Salg,131,16031,5,1963,
 316,Villa,Rosenvænget 6,4340, Tølløse,1500000 ,19-05-2004,Alm. Salg,180,8333,6,1969,
-316,Villa,Tølløsevej 202,4340, Tølløse,2750000 ,19-05-2004,Alm. Salg,396,6944,6,1820,
 316,Rækkehus,Alfred Hansens Have 10,4300, Holbæk,1520852 ,18-05-2004,Alm. Salg,99,15362,4,2005,
 316,Ejerlejlighed,"Strandstræde 6, 2. th",4300, Holbæk,2906194 ,18-05-2004,Alm. Salg,137,21213,4,2004,
 316,Villa,Borgergade 2,4360, Kirke Eskilstrup,910000 ,18-05-2004,Alm. Salg,220,4136,6,1902,
@@ -18910,7 +18599,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Kirkebakken 4,4420, Regstrup,250000 ,08-05-2004,Alm. Salg,119,2101,4,2008,
 316,Villa,Kløvervænget 42,4300, Holbæk,2729026 ,07-05-2004,Alm. Salg,190,14363,7,1998,
 316,Villa,Skolevænget 39,4440, Mørkøv,1345000 ,06-05-2004,Alm. Salg,154,8734,5,1975,
-316,Villa,"Kalundborgvej 53B, 1",4300, Holbæk,992150 ,05-05-2004,Alm. Salg,36,27560,2,1931,
 316,Villa,Østrup Skovvej 8,4350, Ugerløse,1300000 ,05-05-2004,Alm. Salg,163,7975,6,1800,
 316,Villa,Vestre Strandvej 22,4305, Orø,1675000 ,05-05-2004,Alm. Salg,202,8292,7,1967,
 316,Villa,Kirkevej 4,4440, Mørkøv,1325000 ,05-05-2004,Alm. Salg,159,8333,5,1934,
@@ -19138,10 +18826,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Tranekær 53,4532, Gislinge,215000 ,08-03-2004,Alm. Salg,147,1463,4,2005,
 316,Villa,Herthavej 16,4300, Holbæk,1665000 ,08-03-2004,Alm. Salg,133,12519,5,1968,
 316,Villa,Skovbakkevej 15,4340, Tølløse,31700 ,08-03-2004,Alm. Salg,260,122,8,1910,
-316,Rækkehus,Halvmånen 1,4300, Holbæk,1750000 ,07-03-2004,Alm. Salg,99,17677,5,2005,
 316,Villa,Parallelvej 46,4300, Holbæk,1125000 ,07-03-2004,Alm. Salg,106,10613,4,1962,
 316,Villa,Kærsangervej 64,4300, Holbæk,3611000 ,07-03-2004,Alm. Salg,267,13524,7,1965,
-316,Villa,Solsortvej 4,4300, Holbæk,1750000 ,07-03-2004,Alm. Salg,268,6530,8,1967,
 316,Villa,Hovedgaden 78,4420, Regstrup,1290000 ,07-03-2004,Alm. Salg,179,7207,6,1930,
 316,Villa,Hovedgaden 59A,4350, Ugerløse,1400000 ,07-03-2004,Alm. Salg,184,7609,4,1910,
 316,Villa,Solhøjen 13,4340, Tølløse,1250000 ,07-03-2004,Alm. Salg,160,7813,6,1974,
@@ -19788,7 +19474,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Kalundborgvej 97,4300, Holbæk,2200000 ,13-08-2003,Alm. Salg,129,17054,4,1914,
 316,Villa,Lergravsvej 36,4300, Holbæk,940000 ,13-08-2003,Alm. Salg,76,12368,3,1897,
 316,Villa,Vestergade 47,4340, Tølløse,1440000 ,13-08-2003,Alm. Salg,124,11613,6,1961,
-316,Villa,Gl. Skovvej 148B,4420, Regstrup,1571635 ,12-08-2003,Alm. Salg,190,8272,8,1907,
 316,Villa,Skyhøj 3,4300, Holbæk,625000 ,11-08-2003,Alm. Salg,156,4006,6,2004,
 316,Villa,Rosenvænget 2,4340, Tølløse,1239123 ,11-08-2003,Alm. Salg,131,9459,5,1969,
 316,Villa,Birke Alle 6,4300, Holbæk,895000 ,10-08-2003,Alm. Salg,193,4637,5,0,
@@ -19894,7 +19579,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Kasernevej 15,4300, Holbæk,1020000 ,09-07-2003,Alm. Salg,100,10200,3,1930,
 316,Villa,Dalstrøget 21,4340, Tølløse,2075000 ,09-07-2003,Alm. Salg,170,12206,6,2002,
 316,Villa,Marievej 62,4300, Holbæk,1238800 ,09-07-2003,Alm. Salg,93,13320,4,1944,
-316,Villa,Kvarmløsevej 34B,4340, Tølløse,1700000 ,09-07-2003,Alm. Salg,86,19767,3,1927,
 316,Rækkehus,Baggesens Have 40,4300, Holbæk,1450000 ,08-07-2003,Alm. Salg,96,15104,4,1987,
 316,Villa,Bakkedraget 1A,4340, Tølløse,350000 ,08-07-2003,Alm. Salg,139,2518,6,2004,
 316,Villa,Åvangsvej 2,4300, Holbæk,574013 ,08-07-2003,Andet,103,5573,4,1952,
@@ -20037,7 +19721,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Nørrevang 12B,4300, Holbæk,1325000 ,01-06-2003,Alm. Salg,178,7444,4,1927,
 316,Villa,Nørre Hovvej 13,4520, Svinninge,995000 ,01-06-2003,Alm. Salg,130,7654,4,1980,
 316,Villa,Udby Kirkevej 12B,4300, Holbæk,775000 ,01-06-2003,Alm. Salg,120,6458,3,1915,
-316,Villa,Ringstedvej 24A,4440, Mørkøv,2860000 ,31-05-2003,Alm. Salg,84,34048,4,1939,
 316,Villa,Stokkebjerg 8,4450, Jyderup,812240 ,30-05-2003,Alm. Salg,98,8288,5,1925,
 316,Rækkehus,Godthaabsvej 11,4300, Holbæk,1230000 ,29-05-2003,Alm. Salg,155,7935,4,1911,
 316,Villa,Vestervangen 45,4300, Holbæk,1478000 ,29-05-2003,Alm. Salg,171,8643,7,1972,
@@ -20119,11 +19802,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Jernbanevej 73,4340, Tølløse,1215000 ,30-04-2003,Alm. Salg,134,9067,3,1910,
 316,Villa,Frugtparken 10,4300, Holbæk,1530000 ,30-04-2003,Alm. Salg,183,8361,4,1968,
 316,Villa,Roskildevej 209,4300, Holbæk,573581 ,30-04-2003,Andet,189,3035,6,2011,
-316,Ejerlejlighed,"Ahlgade 42, 1",4300, Holbæk,6900000 ,29-04-2003,Alm. Salg,167,41317,4,1907,
-316,Ejerlejlighed,"Ahlgade 42, 2",4300, Holbæk,6900000 ,29-04-2003,Alm. Salg,167,41317,4,1907,
-316,Ejerlejlighed,"Ahlgade 42, 3. th",4300, Holbæk,6900000 ,29-04-2003,Alm. Salg,86,80233,2,1907,
-316,Ejerlejlighed,"Ahlgade 42, 3. tv",4300, Holbæk,6900000 ,29-04-2003,Alm. Salg,87,79310,2,1907,
-316,Ejerlejlighed,Bagstræde 9B,4300, Holbæk,6900000 ,29-04-2003,Alm. Salg,112,61607,4,1907,
 316,Villa,Udbyvej 55,4300, Holbæk,834354 ,29-04-2003,Alm. Salg,83,10052,4,1950,
 316,Villa,Toftebanke 6,4390, Vipperød,1310000 ,29-04-2003,Alm. Salg,112,11696,4,1970,
 316,Villa,Dalstrøget 18,4340, Tølløse,1950000 ,29-04-2003,Auktion,165,11818,5,2003,
@@ -20225,16 +19903,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Ny Bjergbyvej 9,4520, Svinninge,1165000 ,26-03-2003,Alm. Salg,166,7018,4,1872,
 316,Rækkehus,Bukkerupvej 114,4340, Tølløse,550000 ,25-03-2003,Alm. Salg,69,7971,3,1877,
 316,Rækkehus,Kildevangsparken 92,4390, Vipperød,1300000 ,25-03-2003,Alm. Salg,127,10236,4,1979,
-316,Ejerlejlighed,"Gl Ringstedvej 17, st. th",4300, Holbæk,3775000 ,25-03-2003,Alm. Salg,91,41484,3,1912,
-316,Ejerlejlighed,"Gl Ringstedvej 17, st. tv",4300, Holbæk,3775000 ,25-03-2003,Alm. Salg,89,42416,3,1912,
 316,Ejerlejlighed,"Nyvej 18B, 1. 2",4450, Jyderup,425000 ,25-03-2003,Alm. Salg,42,10119,1,1984,
-316,Ejerlejlighed,"Gl Ringstedvej 17, 2. th",4300, Holbæk,3775000 ,25-03-2003,Alm. Salg,71,53169,2,1912,
-316,Ejerlejlighed,"Gl Ringstedvej 17, 1. th",4300, Holbæk,3775000 ,25-03-2003,Alm. Salg,91,41484,3,1912,
-316,Ejerlejlighed,"Gl Ringstedvej 17, 1. tv",4300, Holbæk,3775000 ,25-03-2003,Alm. Salg,89,42416,3,1912,
-316,Ejerlejlighed,"Gl Ringstedvej 17, 2. tv",4300, Holbæk,3775000 ,25-03-2003,Alm. Salg,62,60887,3,1912,
-316,Ejerlejlighed,"Rosenvænget 3, st",4300, Holbæk,3775000 ,25-03-2003,Alm. Salg,94,40160,3,1912,
-316,Ejerlejlighed,"Rosenvænget 3, 2",4300, Holbæk,3775000 ,25-03-2003,Alm. Salg,69,54710,3,1912,
-316,Ejerlejlighed,"Rosenvænget 3, 1",4300, Holbæk,3775000 ,25-03-2003,Alm. Salg,94,40160,3,1912,
 316,Villa,Rugvænget 10,4520, Svinninge,975000 ,25-03-2003,Alm. Salg,111,8784,4,1979,
 316,Villa,Torslundevej 39,4520, Svinninge,880000 ,25-03-2003,Alm. Salg,102,8627,4,1965,
 316,Villa,Ved Lunden 9,4300, Holbæk,1625000 ,25-03-2003,Alm. Salg,160,10156,5,1969,
@@ -20256,23 +19925,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Rækkehus,Munkholmvej 49A,4300, Holbæk,1670000 ,20-03-2003,Alm. Salg,123,13577,5,1920,
 316,Rækkehus,Kirkestræde 4P,4300, Holbæk,1076730 ,20-03-2003,Alm. Salg,61,17651,2,1988,
 316,Ejerlejlighed,"Ahlgade 45, 2",4300, Holbæk,1600000 ,20-03-2003,Alm. Salg,113,14159,3,1848,
-316,Ejerlejlighed,"Smedelundsgade 2E, 2",4300, Holbæk,8300000 ,20-03-2003,Alm. Salg,71,116901,3,1914,
-316,Ejerlejlighed,"Smedelundsgade 2E, 3",4300, Holbæk,8300000 ,20-03-2003,Alm. Salg,69,120290,3,1914,
-316,Ejerlejlighed,"Ahlgade 74C, 1. tv",4300, Holbæk,8300000 ,20-03-2003,Alm. Salg,109,76147,4,1914,
-316,Ejerlejlighed,"Ahlgade 74C, 3. tv",4300, Holbæk,8300000 ,20-03-2003,Alm. Salg,106,78302,4,1914,
-316,Ejerlejlighed,"Ahlgade 74C, 2. th",4300, Holbæk,8300000 ,20-03-2003,Alm. Salg,150,55333,5,1914,
-316,Ejerlejlighed,"Ahlgade 74C, 2. tv",4300, Holbæk,8300000 ,20-03-2003,Alm. Salg,109,76147,4,1914,
-316,Ejerlejlighed,"Ahlgade 74C, 3. th",4300, Holbæk,8300000 ,20-03-2003,Alm. Salg,138,60145,5,1914,
-316,Ejerlejlighed,"Tidemandsvej 16B, 1. th",4300, Holbæk,4700000 ,20-03-2003,Alm. Salg,125,37600,5,1909,
-316,Ejerlejlighed,"Tidemandsvej 16B, 1. tv",4300, Holbæk,4700000 ,20-03-2003,Alm. Salg,79,59494,4,1909,
-316,Ejerlejlighed,"Chr Hansensvej 30B, 1. th",4300, Holbæk,4700000 ,20-03-2003,Alm. Salg,75,62667,3,1909,
-316,Ejerlejlighed,"Chr Hansensvej 30B, 2. th",4300, Holbæk,4700000 ,20-03-2003,Alm. Salg,63,74603,3,1909,
-316,Ejerlejlighed,"Chr Hansensvej 30C, st. th",4300, Holbæk,4700000 ,20-03-2003,Alm. Salg,52,90385,2,1909,
-316,Ejerlejlighed,"Chr Hansensvej 30C, 2. th",4300, Holbæk,4700000 ,20-03-2003,Alm. Salg,61,77049,3,1909,
-316,Ejerlejlighed,"Chr Hansensvej 30C, st. tv",4300, Holbæk,4700000 ,20-03-2003,Alm. Salg,55,85455,2,1909,
-316,Ejerlejlighed,"Chr Hansensvej 30C, 1. th",4300, Holbæk,4700000 ,20-03-2003,Alm. Salg,68,69118,2,1909,
-316,Ejerlejlighed,"Chr Hansensvej 30C, 1. tv",4300, Holbæk,4700000 ,20-03-2003,Alm. Salg,52,90385,2,1909,
-316,Villa,Roskildevej 87D,4300, Holbæk,1350000 ,20-03-2003,Alm. Salg,22,61364,2,1925,
 316,Villa,Hovedgaden 87,4520, Svinninge,798000 ,20-03-2003,Alm. Salg,90,8867,2,1960,
 316,Rækkehus,Ny Kirkevej 2D,4450, Jyderup,726292 ,19-03-2003,Alm. Salg,96,7566,2,1985,
 316,Rækkehus,Solbakkevej 17,4520, Svinninge,570000 ,19-03-2003,Alm. Salg,54,10556,2,1972,
@@ -20495,9 +20147,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Arnakkegårds Alle 60,4390, Vipperød,4500000 ,06-01-2003,Alm. Salg,406,11084,8,1973,
 316,Villa,Dahliavej 24,4420, Regstrup,249000 ,06-01-2003,Alm. Salg,154,1617,6,2005,
 316,Villa,Nørrevang 1A,4300, Holbæk,1595000 ,06-01-2003,Alm. Salg,124,12863,3,1935,
-316,Ejerlejlighed,Hovedgaden 38,4532, Gislinge,1030000 ,05-01-2003,Alm. Salg,154,6688,5,1900,
-316,Ejerlejlighed,"Hovedgaden 38, 1",4532, Gislinge,1030000 ,05-01-2003,Alm. Salg,53,19434,2,1900,
-316,Ejerlejlighed,Kirkevej 20,4532, Gislinge,1030000 ,05-01-2003,Alm. Salg,66,15606,2,1900,
 316,Villa,Industrivej 5,4340, Tølløse,2500000 ,05-01-2003,Alm. Salg,128,19531,4,1965,
 316,Villa,Søbæksvej 1,4450, Jyderup,1070000 ,05-01-2003,Alm. Salg,153,6993,3,1949,
 316,Villa,Trønninge By 7,4420, Regstrup,748849 ,05-01-2003,Alm. Salg,227,3299,3,1000,
@@ -20572,7 +20221,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Ved Lunden 13,4300, Holbæk,1550000 ,04-12-2002,Alm. Salg,156,9936,5,1969,
 316,Villa,Arnakkegårds Alle 14,4390, Vipperød,900000 ,04-12-2002,Alm. Salg,154,5844,4,1972,
 316,Villa,Gyvelvej 10,4340, Tølløse,975000 ,04-12-2002,Alm. Salg,98,9949,4,1964,
-316,Villa,Hovedgaden 18A,4440, Mørkøv,750000 ,04-12-2002,Alm. Salg,75,10000,3,1914,
 316,Villa,Rahbeks Have 50,4300, Holbæk,1595000 ,03-12-2002,Alm. Salg,142,11232,4,1978,
 316,Villa,Provstevænget 4,4450, Jyderup,180050 ,03-12-2002,Alm. Salg,193,933,4,2003,
 316,Villa,Frilandsvej 9,4300, Holbæk,1100000 ,03-12-2002,Fam. Salg,118,9322,4,1947,
@@ -20602,7 +20250,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Tømmerupvej 41,4440, Mørkøv,1397000 ,25-11-2002,Alm. Salg,159,8786,4,1860,
 316,Rækkehus,Studiestræde 7F,4300, Holbæk,1550000 ,24-11-2002,Alm. Salg,106,14623,3,2003,
 316,Ejerlejlighed,"Studiestræde 7A, 1. th",4300, Holbæk,1680000 ,24-11-2002,Alm. Salg,104,16154,3,2003,
-316,Villa,Ringstedvej 9C,4440, Mørkøv,2750000 ,24-11-2002,Alm. Salg,275,10000,8,1974,
 316,Villa,Ringstedvej 11,4440, Mørkøv,1100000 ,24-11-2002,Alm. Salg,124,8871,4,1933,
 316,Villa,Lærkevej 5,4450, Jyderup,1073935 ,24-11-2002,Alm. Salg,125,8591,3,1971,
 316,Villa,Ringstedvej 12,4440, Mørkøv,440000 ,24-11-2002,Alm. Salg,148,2973,5,1925,
@@ -20883,11 +20530,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Heibergs Have 57,4300, Holbæk,1395000 ,22-08-2002,Alm. Salg,109,12798,4,1976,
 316,Villa,Heibergs Have 63,4300, Holbæk,1413220 ,22-08-2002,Alm. Salg,108,13085,4,1976,
 316,Rækkehus,Elmevej 27,4520, Svinninge,648000 ,21-08-2002,Alm. Salg,56,11571,2,1987,
-316,Ejerlejlighed,Kalundborgvej 12D,4300, Holbæk,975000 ,21-08-2002,Fam. Salg,61,15984,2,1915,
 316,Villa,Vinkelvej 8,4360, Kirke Eskilstrup,775000 ,21-08-2002,Alm. Salg,105,7381,3,1956,
 316,Villa,Platanvej 6,4360, Kirke Eskilstrup,1040000 ,21-08-2002,Alm. Salg,148,7027,5,1909,
 316,Villa,Rønne Alle 17,4520, Svinninge,915000 ,21-08-2002,Alm. Salg,141,6489,5,1949,
-316,Villa,Roskildevej 215,4300, Holbæk,975000 ,21-08-2002,Alm. Salg,165,5909,7,1934,
 316,Villa,Eriksholmvej 7,4390, Vipperød,1644646 ,21-08-2002,Alm. Salg,243,6768,8,1905,
 316,Villa,Tåstrup Vænge 5,4300, Holbæk,1589390 ,21-08-2002,Alm. Salg,150,10596,5,1981,
 316,Ejerlejlighed,"Havnegade 7, 1. tv",4300, Holbæk,2150000 ,20-08-2002,Alm. Salg,116,18534,3,1985,
@@ -20956,7 +20601,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Nørrevang 21,4300, Holbæk,995000 ,28-07-2002,Alm. Salg,152,6546,5,1927,
 316,Villa,Ternevej 7,4340, Tølløse,1800000 ,28-07-2002,Alm. Salg,186,9677,6,1973,
 316,Villa,Kalundborgvej 185,4300, Holbæk,1600000 ,28-07-2002,Alm. Salg,129,12403,4,1953,
-316,Villa,"Kalundborgvej 53B, 1",4300, Holbæk,1025000 ,26-07-2002,Alm. Salg,36,28472,2,1931,
 316,Villa,Hyrdevænget 1,4390, Vipperød,1519500 ,26-07-2002,Alm. Salg,185,8214,5,1972,
 316,Rækkehus,Baggesens Have 63,4300, Holbæk,1485000 ,25-07-2002,Alm. Salg,116,12802,4,1984,
 316,Villa,Sølystvej 11,4450, Jyderup,471668 ,25-07-2002,Andet,206,2290,6,1917,
@@ -20978,7 +20622,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Rækkehus,Kapellanvej 21,4300, Holbæk,1450000 ,18-07-2002,Alm. Salg,113,12832,3,1919,
 316,Villa,Tåstrup Byvej 29,4300, Holbæk,150000 ,18-07-2002,Alm. Salg,133,1128,5,1935,
 316,Rækkehus,Arnakkegårds Alle 11L,4390, Vipperød,860000 ,17-07-2002,Alm. Salg,96,8958,3,1968,
-316,Villa,Gl. Skovvej 148B,4420, Regstrup,1110000 ,17-07-2002,Auktion,190,5842,8,1907,
 316,Villa,Rs Hansensvej 19,4520, Svinninge,965000 ,17-07-2002,Alm. Salg,128,7539,4,1968,
 316,Villa,Herthavej 9,4300, Holbæk,1515000 ,17-07-2002,Auktion,205,7390,7,1968,
 316,Rækkehus,Hjertebjærgparken 24,4340, Tølløse,1026000 ,15-07-2002,Alm. Salg,105,9771,4,1990,
@@ -21081,16 +20724,12 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Lergravsvej 25,4300, Holbæk,1479000 ,21-06-2002,Alm. Salg,128,11555,4,1977,
 316,Villa,Søndervang 16,4300, Holbæk,1410080 ,21-06-2002,Alm. Salg,162,8704,5,1920,
 316,Rækkehus,Helsevej 14,4520, Svinninge,295000 ,20-06-2002,Alm. Salg,74,3986,2,1973,
-316,Ejerlejlighed,"Hovedgaden 53, 1",4520, Svinninge,1130398 ,20-06-2002,Alm. Salg,150,7536,4,1912,
-316,Ejerlejlighed,Markedsvej 1,4520, Svinninge,1130398 ,20-06-2002,Alm. Salg,92,6280,2,1945,
 316,Villa,Stestrupvej 92,4360, Kirke Eskilstrup,830000 ,20-06-2002,Fam. Salg,151,5497,4,2021,
 316,Villa,Chr Hansensvej 46,4520, Svinninge,995000 ,20-06-2002,Alm. Salg,113,8805,3,1971,
 316,Villa,Havrevænget 17,4520, Svinninge,1100000 ,20-06-2002,Alm. Salg,165,6667,6,1997,
 316,Villa,Trudsvej 3,4300, Holbæk,320000 ,20-06-2002,Alm. Salg,162,1975,6,2003,
 316,Villa,Kildeparken 25,4440, Mørkøv,560000 ,20-06-2002,Alm. Salg,137,4088,5,2008,
-316,Rækkehus,Strandvejen 1B,4300, Holbæk,4200000 ,19-06-2002,Alm. Salg,184,22826,6,1858,
 316,Villa,Lindegårdsparken 21,4360, Kirke Eskilstrup,1097002 ,19-06-2002,Alm. Salg,124,8847,4,1981,
-316,Villa,Strandvejen 1A,4300, Holbæk,4200000 ,19-06-2002,Alm. Salg,109,38532,2,1858,
 316,Villa,Tranekær 60,4532, Gislinge,215000 ,19-06-2002,Alm. Salg,198,1086,7,2003,
 316,Villa,Agervænget 127,4420, Regstrup,1195000 ,19-06-2002,Alm. Salg,122,9795,4,1973,
 316,Villa,Diget 6,4300, Holbæk,1595000 ,19-06-2002,Alm. Salg,226,7058,6,1902,
@@ -22008,9 +21647,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Ranunkelvej 2,4300, Holbæk,1525000 ,24-08-2001,Alm. Salg,123,12398,3,1968,
 316,Villa,Vestervangen 20,4300, Holbæk,1050000 ,24-08-2001,Alm. Salg,150,7000,5,1966,
 316,Rækkehus,Provstevænget 3A,4450, Jyderup,867500 ,23-08-2001,Alm. Salg,83,10452,3,2001,
-316,Rækkehus,Truelsdalvej 28,4340, Tølløse,103326 ,23-08-2001,Alm. Salg,92,760,4,1850,
 316,Rækkehus,Ejler Urnesvej 21,4300, Holbæk,1350000 ,23-08-2001,Alm. Salg,100,13500,3,1964,
-316,Villa,Truelsdalvej 28,4340, Tølløse,103326 ,23-08-2001,Alm. Salg,205,504,5,1870,
 316,Villa,Kløvermarksvej 17,4300, Holbæk,1195000 ,23-08-2001,Alm. Salg,93,12849,3,1926,
 316,Villa,Møllegårdsvej 6,4340, Tølløse,1050022 ,23-08-2001,Alm. Salg,162,6482,9,1827,
 316,Villa,Emmabodavej 12,4450, Jyderup,347557 ,23-08-2001,Alm. Salg,149,2333,5,1952,
@@ -22543,7 +22180,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Peder Billesvej 34,4300, Holbæk,1120735 ,19-03-2001,Alm. Salg,82,13668,3,1954,
 316,Villa,Solengen 6,4340, Tølløse,907020 ,19-03-2001,Alm. Salg,141,6433,7,1973,
 316,Villa,Trudsvej 9,4300, Holbæk,195000 ,19-03-2001,Alm. Salg,141,1383,5,2001,
-316,Villa,Ringstedvej 24A,4440, Mørkøv,1425000 ,19-03-2001,Alm. Salg,84,16964,4,1939,
 316,Rækkehus,Kildevangsparken 108,4390, Vipperød,1003000 ,18-03-2001,Alm. Salg,125,8024,4,1981,
 316,Villa,Møllevej 3,4520, Svinninge,700000 ,18-03-2001,Andet,204,3431,6,1998,
 316,Villa,Idunsvej 11,4300, Holbæk,330000 ,18-03-2001,Alm. Salg,128,2578,4,2001,
@@ -22688,11 +22324,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Hovedgaden 8,4520, Svinninge,561000 ,06-02-2001,Alm. Salg,122,4598,3,1907,
 316,Villa,Strandvejen 2A,4300, Holbæk,500000 ,06-02-2001,Alm. Salg,135,3704,3,2007,
 316,Rækkehus,Fenrisvej 36,4300, Holbæk,1255000 ,05-02-2001,Alm. Salg,116,10819,5,1987,
-316,Ejerlejlighed,"Smedelundsgade 6, 2",4300, Holbæk,5800000 ,05-02-2001,Alm. Salg,69,84058,3,1902,
-316,Ejerlejlighed,"Smedelundsgade 6, 1. th",4300, Holbæk,5800000 ,05-02-2001,Alm. Salg,63,92063,3,1902,
-316,Ejerlejlighed,"Smedelundsgade 6, 1. tv",4300, Holbæk,5800000 ,05-02-2001,Alm. Salg,59,98305,2,1902,
-316,Ejerlejlighed,Kirkestræde 23,4300, Holbæk,5800000 ,05-02-2001,Alm. Salg,88,65909,3,1902,
-316,Ejerlejlighed,Kirkestræde 21,4300, Holbæk,5800000 ,05-02-2001,Alm. Salg,90,64444,3,1902,
 316,Villa,Solvej 3,4450, Jyderup,720000 ,05-02-2001,Alm. Salg,94,7660,4,1972,
 316,Villa,Drosselvej 12,4300, Holbæk,1003800 ,05-02-2001,Alm. Salg,113,8883,6,1959,
 316,Villa,Egernæs 12,4390, Vipperød,1383280 ,05-02-2001,Alm. Salg,136,10171,5,1979,
@@ -22723,14 +22354,11 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Risvænget 3,4300, Holbæk,1024897 ,27-01-2001,Alm. Salg,187,5481,5,1968,
 316,Villa,Provstehøjen 19,4300, Holbæk,1625960 ,27-01-2001,Alm. Salg,138,11782,4,1975,
 316,Villa,Klerkevej 7,4300, Holbæk,350000 ,26-01-2001,Alm. Salg,177,1977,7,2003,
-316,Rækkehus,Truelsdalvej 28,4340, Tølløse,950335 ,24-01-2001,Alm. Salg,92,6988,4,1850,
 316,Villa,Bakkedraget 14,4450, Jyderup,1125000 ,24-01-2001,Alm. Salg,163,6902,5,1938,
-316,Villa,Truelsdalvej 28,4340, Tølløse,950335 ,24-01-2001,Alm. Salg,205,4636,5,1870,
 316,Villa,Kvarmløsevej 35,4340, Tølløse,1260000 ,24-01-2001,Alm. Salg,249,5060,7,1917,
 316,Villa,Rosenvej 3,4340, Tølløse,625000 ,24-01-2001,Alm. Salg,140,4464,5,1887,
 316,Villa,Vallestrupvejen 29,4300, Holbæk,526254 ,23-01-2001,Alm. Salg,102,5159,3,1900,
 316,Villa,Vandværksbakken 3,4450, Jyderup,375000 ,23-01-2001,Fam. Salg,109,3440,4,1986,
-316,Villa,Tølløsevej 202,4340, Tølløse,375000 ,23-01-2001,Alm. Salg,396,947,6,1820,
 316,Villa,Provstevænget 2,4450, Jyderup,137000 ,23-01-2001,Alm. Salg,110,1245,3,2001,
 316,Villa,Wegeners Vej 6,4300, Holbæk,475000 ,22-01-2001,Alm. Salg,238,1996,7,2003,
 316,Villa,Gl. Mårsøvej 3,4300, Holbæk,875031 ,22-01-2001,Alm. Salg,126,6945,5,1890,
@@ -23002,9 +22630,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Bryggervej 3,4520, Svinninge,560303 ,26-10-2000,Alm. Salg,97,5776,3,1958,
 316,Rækkehus,Baggesens Have 49,4300, Holbæk,1124544 ,25-10-2000,Alm. Salg,106,10609,5,1986,
 316,Rækkehus,Arnakkegårds Alle 11L,4390, Vipperød,743000 ,25-10-2000,Alm. Salg,96,7740,3,1968,
-316,Rækkehus,Rækmarken 6A,4300, Holbæk,3740000 ,25-10-2000,Alm. Salg,138,27101,6,1877,
 316,Ejerlejlighed,Baggesens Have 47A,4300, Holbæk,817333 ,25-10-2000,Alm. Salg,75,10898,3,1984,
-316,Ejerlejlighed,Rækmarken 6B,4300, Holbæk,3740000 ,25-10-2000,Alm. Salg,139,26906,4,1877,
 316,Villa,Grønnevang 2,4340, Tølløse,279125 ,25-10-2000,Alm. Salg,277,1008,9,2002,
 316,Villa,Peder Væversvej 6,4340, Tølløse,2576791 ,25-10-2000,Alm. Salg,180,14316,5,1877,
 316,Villa,Holbækvej 34,4340, Tølløse,856744 ,25-10-2000,Alm. Salg,110,7789,4,1966,
@@ -23203,7 +22829,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Tysingevej 14,4360, Kirke Eskilstrup,660000 ,19-08-2000,Alm. Salg,103,6408,4,1952,
 316,Villa,Ved Skoven 4,4300, Holbæk,2598000 ,19-08-2000,Alm. Salg,170,15282,5,1987,
 316,Rækkehus,Ejler Urnesvej 33,4300, Holbæk,1126300 ,18-08-2000,Alm. Salg,98,11493,4,1964,
-316,Villa,Tømmerupvej 37,4440, Mørkøv,1378507 ,18-08-2000,Alm. Salg,142,9708,4,1910,
 316,Villa,Peder Billesvej 134,4300, Holbæk,1359820 ,18-08-2000,Alm. Salg,132,10302,4,1965,
 316,Villa,Hovedgaden 54,4440, Mørkøv,934000 ,17-08-2000,Alm. Salg,188,4968,4,1981,
 316,Villa,Åparken 44,4370, Store Merløse,899871 ,17-08-2000,Alm. Salg,169,5325,5,1977,
@@ -23432,7 +23057,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Tværvej 1,4440, Mørkøv,771683 ,14-06-2000,Alm. Salg,120,6431,4,1923,
 316,Villa,Skamstrupvej 36,4440, Mørkøv,357249 ,14-06-2000,Alm. Salg,66,5413,3,1962,
 316,Villa,Strædet 3,4420, Regstrup,1307839 ,14-06-2000,Alm. Salg,196,6673,7,1980,
-316,Villa,Hovedgaden 70D,4520, Svinninge,1216364 ,14-06-2000,Alm. Salg,109,11159,3,1976,
 316,Villa,Hjortholmvej 140,4340, Tølløse,1115000 ,13-06-2000,Alm. Salg,223,5000,5,1910,
 316,Villa,Lynggårdsvej 11,4450, Jyderup,640000 ,13-06-2000,Alm. Salg,95,6737,4,1958,
 316,Villa,Ågerupvej 109,4390, Vipperød,963922 ,13-06-2000,Alm. Salg,134,7193,4,1912,
@@ -23665,7 +23289,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Solholm 8,4520, Svinninge,415000 ,23-03-2000,Auktion,149,2785,5,1857,
 316,Villa,Bygaden 11,4520, Svinninge,810000 ,23-03-2000,Alm. Salg,124,6532,5,1877,
 316,Rækkehus,Svinget 9,4300, Holbæk,988858 ,22-03-2000,Alm. Salg,109,9072,5,1941,
-316,Rækkehus,Teglværksvej 1,4450, Jyderup,2198135 ,22-03-2000,Alm. Salg,128,17173,3,1892,
 316,Villa,Ådalvej 47,4340, Tølløse,1771680 ,22-03-2000,Alm. Salg,313,5660,4,1996,
 316,Villa,Barsebæk 40,4300, Holbæk,1334546 ,22-03-2000,Alm. Salg,129,10345,4,1970,
 316,Villa,Elmegården 106,4450, Jyderup,1012909 ,22-03-2000,Alm. Salg,139,7287,3,1974,
@@ -23704,18 +23327,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Provstehøjen 3,4300, Holbæk,700000 ,11-03-2000,Alm. Salg,163,4294,4,1975,
 316,Villa,Tømmerupvej 41,4440, Mørkøv,1368900 ,11-03-2000,Alm. Salg,159,8609,4,1860,
 316,Rækkehus,Studiestræde 12,4300, Holbæk,963000 ,10-03-2000,Alm. Salg,81,11889,3,1852,
-316,Ejerlejlighed,"Vimmelskaftet 13, st. th",4300, Holbæk,7600000 ,10-03-2000,Alm. Salg,91,83516,3,1911,
-316,Ejerlejlighed,"Vimmelskaftet 13, 2. th",4300, Holbæk,7600000 ,10-03-2000,Alm. Salg,59,128814,2,1911,
-316,Ejerlejlighed,"Vimmelskaftet 13, 1. tv",4300, Holbæk,7600000 ,10-03-2000,Alm. Salg,100,76000,3,1911,
-316,Ejerlejlighed,"Vimmelskaftet 13, 1. th",4300, Holbæk,7600000 ,10-03-2000,Alm. Salg,91,83516,3,1911,
-316,Ejerlejlighed,"Vimmelskaftet 13, st. tv",4300, Holbæk,7600000 ,10-03-2000,Alm. Salg,100,76000,3,1911,
-316,Ejerlejlighed,"Vimmelskaftet 13, 2. tv",4300, Holbæk,7600000 ,10-03-2000,Alm. Salg,65,116923,2,1911,
-316,Ejerlejlighed,"Strandgade 13, 1. th",4300, Holbæk,7600000 ,10-03-2000,Alm. Salg,80,95000,2,1912,
-316,Ejerlejlighed,"Strandgade 13, st. th",4300, Holbæk,7600000 ,10-03-2000,Alm. Salg,80,95000,2,1912,
-316,Ejerlejlighed,"Strandgade 13, st. tv",4300, Holbæk,7600000 ,10-03-2000,Alm. Salg,81,93827,2,1912,
-316,Ejerlejlighed,"Strandgade 13, 2. th",4300, Holbæk,7600000 ,10-03-2000,Alm. Salg,54,140741,2,1912,
-316,Ejerlejlighed,"Strandgade 13, 1. tv",4300, Holbæk,7600000 ,10-03-2000,Alm. Salg,81,93827,2,1912,
-316,Ejerlejlighed,"Strandgade 13, 2. tv",4300, Holbæk,7600000 ,10-03-2000,Alm. Salg,52,146154,2,1912,
 316,Villa,Adelers Alle 204,4532, Gislinge,852296 ,10-03-2000,Alm. Salg,122,6986,5,1950,
 316,Villa,Vipperød Byvej 15,4390, Vipperød,1422000 ,09-03-2000,Alm. Salg,133,10692,4,1969,
 316,Villa,Ventedgårdsvej 11,4440, Mørkøv,640000 ,09-03-2000,Alm. Salg,98,6531,3,1928,
@@ -23958,7 +23569,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Agervænget 27,4420, Regstrup,973119 ,08-12-1999,Alm. Salg,135,7208,5,1969,
 316,Villa,Rørvangsvej 8,4300, Holbæk,262000 ,08-12-1999,Alm. Salg,164,1598,6,2009,
 316,Villa,Lilleskovvej 11,4350, Ugerløse,806900 ,08-12-1999,Alm. Salg,80,10086,3,1965,
-316,Villa,Ventedgårdsvej 1A,4440, Mørkøv,1009211 ,08-12-1999,Alm. Salg,186,5426,9,1900,
 316,Villa,Blindestræde 3A,4300, Holbæk,650000 ,08-12-1999,Alm. Salg,156,4167,3,2007,
 316,Villa,Ridebanevej 63,4300, Holbæk,240000 ,07-12-1999,Alm. Salg,174,1379,6,2001,
 316,Villa,Stenhusvej 18C,4300, Holbæk,1484000 ,07-12-1999,Alm. Salg,187,7936,7,1971,
@@ -24077,15 +23687,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Nyvej 4,4300, Holbæk,1135000 ,28-10-1999,Alm. Salg,131,8664,5,1975,
 316,Rækkehus,Elmevej 25,4520, Svinninge,460000 ,27-10-1999,Alm. Salg,69,6667,3,1987,
 316,Rækkehus,Rødkælkevej 10A,4300, Holbæk,736000 ,27-10-1999,Alm. Salg,59,12475,2,1975,
-316,Ejerlejlighed,"Chr Hansensvej 15, st. th",4300, Holbæk,1900000 ,27-10-1999,Alm. Salg,71,26761,3,1910,
-316,Ejerlejlighed,"Chr Hansensvej 15, st. tv",4300, Holbæk,1900000 ,27-10-1999,Alm. Salg,52,36538,2,1910,
-316,Ejerlejlighed,"Chr Hansensvej 15, 2. tv",4300, Holbæk,1900000 ,27-10-1999,Alm. Salg,52,36538,2,1910,
-316,Ejerlejlighed,"Tidemandsvej 18, st",4300, Holbæk,1900000 ,27-10-1999,Alm. Salg,97,19588,3,1910,
-316,Ejerlejlighed,"Tidemandsvej 18, 1",4300, Holbæk,1900000 ,27-10-1999,Alm. Salg,98,19388,3,1910,
-316,Ejerlejlighed,"Tidemandsvej 18, 2",4300, Holbæk,1900000 ,27-10-1999,Alm. Salg,98,19388,3,1910,
-316,Ejerlejlighed,"Chr Hansensvej 15, 1. tv",4300, Holbæk,1900000 ,27-10-1999,Alm. Salg,52,36538,2,1910,
-316,Ejerlejlighed,"Chr Hansensvej 15, 1. th",4300, Holbæk,1900000 ,27-10-1999,Alm. Salg,71,26761,3,1910,
-316,Ejerlejlighed,"Chr Hansensvej 15, 2. th",4300, Holbæk,1900000 ,27-10-1999,Alm. Salg,71,26761,3,1910,
 316,Villa,Tåstrupvej 43,4370, Store Merløse,991000 ,27-10-1999,Alm. Salg,128,7742,4,1910,
 316,Villa,Vestvejen 16,4440, Mørkøv,600000 ,27-10-1999,Alm. Salg,224,2679,8,1923,
 316,Villa,Virkelyst 2,4420, Regstrup,1650000 ,27-10-1999,Andet,155,10645,5,1979,
@@ -24674,11 +24275,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Rækkehus,Tveje-Merløse 13B,4300, Holbæk,1447000 ,20-04-1999,Alm. Salg,142,10190,5,1991,
 316,Villa,Urtehaven 3,4300, Holbæk,982000 ,20-04-1999,Alm. Salg,146,6726,6,1974,
 316,Rækkehus,Søndermarken 6,4340, Tølløse,743680 ,19-04-1999,Alm. Salg,74,10050,3,1984,
-316,Ejerlejlighed,Udbyvej 1A,4300, Holbæk,1620000 ,19-04-1999,Alm. Salg,63,25714,2,1940,
 316,Villa,Kuskevænget 13,4390, Vipperød,780000 ,19-04-1999,Alm. Salg,114,6842,5,1974,
 316,Villa,Hyldegårdsvej 23,4300, Holbæk,946200 ,19-04-1999,Alm. Salg,132,7168,4,1973,
 316,Villa,Sdr Jernløsevej 57,4420, Regstrup,587500 ,19-04-1999,Alm. Salg,129,4554,5,1927,
-316,Villa,Udbyvej 1C,4300, Holbæk,1620000 ,19-04-1999,Alm. Salg,136,11912,6,1938,
 316,Ejerlejlighed,"Slagterivej 8, 2. th",4300, Holbæk,586000 ,18-04-1999,Alm. Salg,43,13628,2,1908,
 316,Villa,Åmosevej 126,4440, Mørkøv,875000 ,18-04-1999,Alm. Salg,160,5469,5,1974,
 316,Villa,Hjortholmvej 29,4340, Tølløse,923000 ,17-04-1999,Alm. Salg,125,7384,4,1976,
@@ -24765,10 +24364,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Ringstedvej 194,4300, Holbæk,1338120 ,21-03-1999,Alm. Salg,207,6464,5,1971,
 316,Rækkehus,Fenrisvej 24,4300, Holbæk,1055000 ,20-03-1999,Alm. Salg,113,9336,5,1987,
 316,Villa,Friheden 15,4440, Mørkøv,813000 ,19-03-1999,Alm. Salg,166,4898,6,1926,
-316,Rækkehus,Ejler Urnesvej 61,4300, Holbæk,930000 ,18-03-1999,Alm. Salg,100,9300,3,1964,
 316,Villa,Tølløsevej 374,4350, Ugerløse,425000 ,18-03-1999,Alm. Salg,80,5313,4,1900,
 316,Villa,Gammelbrovej 4,4300, Holbæk,715351 ,18-03-1999,Alm. Salg,114,6275,4,1900,
-316,Villa,Kirsebærvej 2,4300, Holbæk,930000 ,18-03-1999,Alm. Salg,129,7209,4,1967,
 316,Villa,Aggersvoldvej 24,4440, Mørkøv,782372 ,17-03-1999,Alm. Salg,206,3798,7,1914,
 316,Villa,Østervang 20,4300, Holbæk,747740 ,16-03-1999,Alm. Salg,82,9119,3,1962,
 316,Villa,Stauninggårdsvej 6,4305, Orø,498000 ,15-03-1999,Alm. Salg,76,6553,4,1979,
@@ -25022,7 +24619,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Sdr Jernløsevej 6,4420, Regstrup,1500000 ,15-12-1998,Alm. Salg,296,5068,10,1900,
 316,Villa,Jægervænget 7,4390, Vipperød,1116000 ,15-12-1998,Alm. Salg,128,8719,5,1972,
 316,Villa,Mogenstrupvej 9,4420, Regstrup,91666 ,15-12-1998,Alm. Salg,139,659,6,1932,
-316,Ejerlejlighed,"Smedelundsgade 22A, 1",4300, Holbæk,28000000 ,14-12-1998,Alm. Salg,64,437500,2,1850,
 316,Villa,Nybyvej 15A,4390, Vipperød,1300000 ,14-12-1998,Alm. Salg,70,18571,3,1985,
 316,Villa,Højbovej 3,4520, Svinninge,365500 ,14-12-1998,Alm. Salg,104,3514,5,1910,
 316,Villa,Vinkelvej 5,4440, Mørkøv,508000 ,13-12-1998,Alm. Salg,157,3236,6,1924,
@@ -25110,7 +24706,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Rækkehus,Holmager 16,4520, Svinninge,386200 ,19-11-1998,Fam. Salg,86,4491,4,1970,
 316,Villa,Anemonevej 2,4520, Svinninge,850000 ,19-11-1998,Alm. Salg,155,5484,4,1978,
 316,Villa,Knudsensvej 3,4440, Mørkøv,1143240 ,19-11-1998,Alm. Salg,200,5716,9,1957,
-316,Villa,Gl. Skovvej 148B,4420, Regstrup,1617536 ,18-11-1998,Alm. Salg,190,8513,8,1907,
 316,Villa,Møllestensparken 38,4300, Holbæk,818000 ,18-11-1998,Alm. Salg,117,6991,5,1976,
 316,Villa,Urtehaven 33,4300, Holbæk,1050000 ,18-11-1998,Fam. Salg,150,7000,5,1973,
 316,Villa,Ibsvej 35,4440, Mørkøv,697621 ,18-11-1998,Alm. Salg,198,3523,8,1951,
@@ -26075,22 +25670,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Langholm 15,4390, Vipperød,1133840 ,13-01-1998,Alm. Salg,216,5249,6,1973,
 316,Rækkehus,Holbergs Have 15,4300, Holbæk,1305060 ,12-01-1998,Alm. Salg,117,11154,4,1988,
 316,Rækkehus,Søskrænten 7B,4340, Tølløse,677000 ,11-01-1998,Alm. Salg,83,8157,3,1987,
-316,Ejerlejlighed,"Smedelundsgade 2E, 2",4300, Holbæk,3300000 ,11-01-1998,Alm. Salg,71,46479,3,1914,
-316,Ejerlejlighed,"Smedelundsgade 2E, 3",4300, Holbæk,3300000 ,11-01-1998,Alm. Salg,69,47826,3,1914,
-316,Ejerlejlighed,"Ahlgade 74C, 1. tv",4300, Holbæk,3300000 ,11-01-1998,Alm. Salg,109,30275,4,1914,
-316,Ejerlejlighed,"Ahlgade 74C, 3. tv",4300, Holbæk,3300000 ,11-01-1998,Alm. Salg,106,31132,4,1914,
-316,Ejerlejlighed,"Ahlgade 74C, 2. th",4300, Holbæk,3300000 ,11-01-1998,Alm. Salg,150,22000,5,1914,
-316,Ejerlejlighed,"Ahlgade 74C, 2. tv",4300, Holbæk,3300000 ,11-01-1998,Alm. Salg,109,30275,4,1914,
-316,Ejerlejlighed,"Ahlgade 74C, 3. th",4300, Holbæk,3300000 ,11-01-1998,Alm. Salg,138,23913,5,1914,
-316,Ejerlejlighed,"Tidemandsvej 16B, 1. th",4300, Holbæk,1635000 ,11-01-1998,Alm. Salg,125,13080,5,1909,
-316,Ejerlejlighed,"Tidemandsvej 16B, 1. tv",4300, Holbæk,1635000 ,11-01-1998,Alm. Salg,79,20696,4,1909,
-316,Ejerlejlighed,"Chr Hansensvej 30B, 1. th",4300, Holbæk,1635000 ,11-01-1998,Alm. Salg,75,21800,3,1909,
-316,Ejerlejlighed,"Chr Hansensvej 30B, 2. th",4300, Holbæk,1635000 ,11-01-1998,Alm. Salg,63,25952,3,1909,
-316,Ejerlejlighed,"Chr Hansensvej 30C, st. th",4300, Holbæk,1635000 ,11-01-1998,Alm. Salg,52,31442,2,1909,
-316,Ejerlejlighed,"Chr Hansensvej 30C, 2. th",4300, Holbæk,1635000 ,11-01-1998,Alm. Salg,61,26803,3,1909,
-316,Ejerlejlighed,"Chr Hansensvej 30C, st. tv",4300, Holbæk,1635000 ,11-01-1998,Alm. Salg,55,29727,2,1909,
-316,Ejerlejlighed,"Chr Hansensvej 30C, 1. th",4300, Holbæk,1635000 ,11-01-1998,Alm. Salg,68,24044,2,1909,
-316,Ejerlejlighed,"Chr Hansensvej 30C, 1. tv",4300, Holbæk,1635000 ,11-01-1998,Alm. Salg,52,31442,2,1909,
 316,Villa,Møllestensparken 33,4300, Holbæk,859996 ,11-01-1998,Alm. Salg,154,5584,6,1976,
 316,Villa,Rugvænget 6,4520, Svinninge,715000 ,11-01-1998,Alm. Salg,111,6441,3,1979,
 316,Villa,Holbækvej 290,4440, Mørkøv,169280 ,11-01-1998,Alm. Salg,82,2064,2,1772,
@@ -26227,7 +25806,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Bybjærg 12,4370, Store Merløse,785000 ,17-11-1997,Alm. Salg,112,7009,4,1986,
 316,Villa,Svalevej 6,4340, Tølløse,712000 ,17-11-1997,Alm. Salg,144,4944,4,1969,
 316,Villa,Lundemarksvej 52,4300, Holbæk,1033000 ,17-11-1997,Alm. Salg,216,4782,8,1973,
-316,Ejerlejlighed,"Smedelundsgade 22A, 1",4300, Holbæk,23000000 ,16-11-1997,Alm. Salg,64,359375,2,1850,
 316,Villa,Holbækvej 306,4440, Mørkøv,714960 ,16-11-1997,Alm. Salg,124,5766,4,1943,
 316,Villa,Bukkerupvej 113,4340, Tølløse,619268 ,16-11-1997,Alm. Salg,280,2212,7,1860,
 316,Villa,Tølløsevej 40,4340, Tølløse,1320780 ,16-11-1997,Alm. Salg,250,5283,9,1925,
@@ -26513,7 +26091,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Landevejen 21,4520, Svinninge,887000 ,19-08-1997,Alm. Salg,150,5913,4,1777,
 316,Villa,Juelsvej 5,4390, Vipperød,723873 ,18-08-1997,Alm. Salg,173,4184,7,1966,
 316,Villa,Nyrupsvej 18,4520, Svinninge,565000 ,18-08-1997,Alm. Salg,81,6975,3,1965,
-316,Villa,Gl. Skovvej 148B,4420, Regstrup,1417685 ,17-08-1997,Alm. Salg,190,7462,8,1907,
 316,Villa,Violvej 4,4340, Tølløse,984000 ,17-08-1997,Alm. Salg,145,6786,3,1974,
 316,Villa,Præstevænget 3,4450, Jyderup,200000 ,17-08-1997,Alm. Salg,55,3636,2,1897,
 316,Villa,Borgergade 35,4360, Kirke Eskilstrup,560140 ,15-08-1997,Alm. Salg,131,4276,5,1912,
@@ -26683,11 +26260,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Anders Larsensvej 109,4300, Holbæk,787000 ,25-06-1997,Alm. Salg,103,7641,4,1962,
 316,Villa,Riffelhavevej 10,4300, Holbæk,627345 ,25-06-1997,Alm. Salg,147,4268,5,1927,
 316,Villa,Engvej 1,4440, Mørkøv,458806 ,25-06-1997,Alm. Salg,199,2306,7,1902,
-316,Ejerlejlighed,"Skarridsøgade 13, 1. tv",4450, Jyderup,2120920 ,24-06-1997,Alm. Salg,104,20393,4,1938,
-316,Ejerlejlighed,"Skarridsøgade 13, 1. th",4450, Jyderup,2120920 ,24-06-1997,Alm. Salg,104,20393,3,1938,
-316,Ejerlejlighed,"Skarridsøgade 13, 2. tv",4450, Jyderup,2120920 ,24-06-1997,Alm. Salg,104,20393,4,1938,
-316,Ejerlejlighed,"Skarridsøgade 13, 2. th",4450, Jyderup,2120920 ,24-06-1997,Alm. Salg,104,20393,4,1938,
-316,Ejerlejlighed,Drivsåtvej 2B,4450, Jyderup,2120920 ,24-06-1997,Alm. Salg,44,48203,2,1938,
 316,Villa,Kildevangen 27,4440, Mørkøv,631000 ,24-06-1997,Alm. Salg,92,6859,3,1966,
 316,Villa,Byvej 55,4532, Gislinge,467280 ,24-06-1997,Alm. Salg,183,2553,4,1930,
 316,Villa,Løvsangervej 7,4300, Holbæk,997760 ,24-06-1997,Alm. Salg,130,7675,5,1951,
@@ -26796,7 +26368,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Kundbyvej 36,4520, Svinninge,400000 ,27-05-1997,Alm. Salg,191,2094,6,2006,
 316,Villa,Diget 30,4300, Holbæk,292636 ,27-05-1997,Alm. Salg,138,2121,6,1920,
 316,Villa,Kalundborgvej 221B,4300, Holbæk,871000 ,27-05-1997,Alm. Salg,144,6049,3,1924,
-316,Villa,Hovedgaden 81B,4520, Svinninge,750000 ,27-05-1997,Alm. Salg,126,5952,3,1987,
 316,Villa,Tranevej 1,4370, Store Merløse,787000 ,26-05-1997,Alm. Salg,125,6296,5,1972,
 316,Villa,Søgårdsvej 14,4340, Tølløse,118400 ,26-05-1997,Alm. Salg,156,759,5,2000,
 316,Villa,Nyrupsvej 20,4520, Svinninge,404000 ,26-05-1997,Alm. Salg,120,3367,7,1959,
@@ -27097,7 +26668,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Lærkevej 14,4300, Holbæk,718000 ,25-02-1997,Alm. Salg,89,6774,5,1924,
 316,Villa,Bellisvej 6,4300, Holbæk,1226000 ,25-02-1997,Alm. Salg,183,6699,9,1964,
 316,Villa,Villavej 7,4340, Tølløse,425000 ,25-02-1997,Alm. Salg,183,2322,5,1997,
-316,Villa,Hovedgaden 18A,4440, Mørkøv,650000 ,25-02-1997,Alm. Salg,75,8667,3,1914,
 316,Rækkehus,Fasanvej 3,4300, Holbæk,709400 ,24-02-1997,Alm. Salg,108,6569,4,1914,
 316,Ejerlejlighed,"Tølløsevej 9, 1",4340, Tølløse,1057000 ,23-02-1997,Alm. Salg,176,6006,7,1900,
 316,Villa,Smidstrupvej 1,4330, Hvalsø,737000 ,23-02-1997,Alm. Salg,100,7370,3,1859,
@@ -27115,7 +26685,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Svalevej 13,4440, Mørkøv,676000 ,19-02-1997,Alm. Salg,136,4971,3,1980,
 316,Villa,Lergravsvej 39,4300, Holbæk,892000 ,19-02-1997,Alm. Salg,115,7757,3,1977,
 316,Villa,Lærkevej 3,4300, Holbæk,907665 ,19-02-1997,Alm. Salg,125,7261,4,1925,
-316,Villa,Hovedgaden 23A,4350, Ugerløse,132581 ,19-02-1997,Alm. Salg,273,486,9,1887,
 316,Rækkehus,Fenrisvej 30,4300, Holbæk,997000 ,18-02-1997,Alm. Salg,113,8823,5,1987,
 316,Ejerlejlighed,Nordvestvej 7,4520, Svinninge,700000 ,18-02-1997,Alm. Salg,264,2652,5,1963,
 316,Villa,Hellestrupvej 10,4300, Holbæk,1006080 ,18-02-1997,Alm. Salg,141,7135,6,1870,
@@ -27531,13 +27100,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Ejerlejlighed,"Markedsgade 1, 2. tv",4300, Holbæk,730000 ,03-10-1996,Alm. Salg,107,6822,5,1949,
 316,Villa,Ringstedvej 126,4300, Holbæk,629158 ,03-10-1996,Alm. Salg,115,5471,4,1939,
 316,Villa,Elmegården 78,4450, Jyderup,585000 ,03-10-1996,Alm. Salg,108,5417,4,1976,
-316,Ejerlejlighed,"Smedelundsgade 2E, 2",4300, Holbæk,3877443 ,02-10-1996,Alm. Salg,71,54612,3,1914,
-316,Ejerlejlighed,"Smedelundsgade 2E, 3",4300, Holbæk,3877443 ,02-10-1996,Alm. Salg,69,56195,3,1914,
-316,Ejerlejlighed,"Ahlgade 74C, 1. tv",4300, Holbæk,3877443 ,02-10-1996,Alm. Salg,109,35573,4,1914,
-316,Ejerlejlighed,"Ahlgade 74C, 3. tv",4300, Holbæk,3877443 ,02-10-1996,Alm. Salg,106,36580,4,1914,
-316,Ejerlejlighed,"Ahlgade 74C, 2. th",4300, Holbæk,3877443 ,02-10-1996,Alm. Salg,150,25850,5,1914,
-316,Ejerlejlighed,"Ahlgade 74C, 2. tv",4300, Holbæk,3877443 ,02-10-1996,Alm. Salg,109,35573,4,1914,
-316,Ejerlejlighed,"Ahlgade 74C, 3. th",4300, Holbæk,3877443 ,02-10-1996,Alm. Salg,138,28097,5,1914,
 316,Villa,Egernvej 17,4300, Holbæk,650000 ,02-10-1996,Alm. Salg,144,4514,4,1972,
 316,Villa,Vestervangen 16,4300, Holbæk,836320 ,02-10-1996,Alm. Salg,152,5502,5,1966,
 316,Rækkehus,Østre Fælledvej 18,4300, Holbæk,687000 ,01-10-1996,Alm. Salg,80,8588,4,1965,
@@ -27587,11 +27149,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Knabstrupvej 12,4420, Regstrup,1800000 ,16-09-1996,Alm. Salg,310,5806,7,1920,
 316,Villa,Kirkevej 23,4520, Svinninge,630000 ,16-09-1996,Alm. Salg,166,3795,6,1932,
 316,Rækkehus,Kirkevænget 57B,4360, Kirke Eskilstrup,281317 ,15-09-1996,Fam. Salg,111,2534,4,1987,
-316,Ejerlejlighed,"Smedelundsgade 6, 2",4300, Holbæk,1075000 ,15-09-1996,Alm. Salg,69,15580,3,1902,
-316,Ejerlejlighed,"Smedelundsgade 6, 1. th",4300, Holbæk,1075000 ,15-09-1996,Alm. Salg,63,17063,3,1902,
-316,Ejerlejlighed,"Smedelundsgade 6, 1. tv",4300, Holbæk,1075000 ,15-09-1996,Alm. Salg,59,18220,2,1902,
-316,Ejerlejlighed,Kirkestræde 23,4300, Holbæk,1075000 ,15-09-1996,Alm. Salg,88,12216,3,1902,
-316,Ejerlejlighed,Kirkestræde 21,4300, Holbæk,1075000 ,15-09-1996,Alm. Salg,90,11944,3,1902,
 316,Villa,Slettensbjerg 9,4450, Jyderup,494338 ,15-09-1996,Andet,184,2687,5,1900,
 316,Villa,Heibergs Have 59,4300, Holbæk,835000 ,15-09-1996,Fam. Salg,129,6473,5,1976,
 316,Villa,Rugvænget 6,4300, Holbæk,510000 ,15-09-1996,Alm. Salg,98,5204,4,1968,
@@ -27613,7 +27170,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Fjordparken 22,4300, Holbæk,1112178 ,09-09-1996,Alm. Salg,149,7464,5,1969,
 316,Villa,Jernbanevej 63,4340, Tølløse,495000 ,09-09-1996,Alm. Salg,86,5756,5,1932,
 316,Villa,Rylevej 3,4300, Holbæk,1176000 ,09-09-1996,Alm. Salg,149,7893,5,1929,
-316,Villa,Kvarmløsevej 34B,4340, Tølløse,400000 ,08-09-1996,Alm. Salg,86,4651,3,1927,
 316,Rækkehus,Tjørneholm 29,4350, Ugerløse,595000 ,07-09-1996,Alm. Salg,100,5950,4,1990,
 316,Villa,Tempelvej 7,4390, Vipperød,580000 ,06-09-1996,Alm. Salg,240,2417,9,1877,
 316,Villa,Tranevej 1,4370, Store Merløse,710000 ,05-09-1996,Alm. Salg,125,5680,5,1972,
@@ -27770,7 +27326,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Mågevej 3,4450, Jyderup,672000 ,24-07-1996,Alm. Salg,112,6000,4,1976,
 316,Villa,Møllebakken 5,4300, Holbæk,695000 ,23-07-1996,Alm. Salg,106,6557,5,1925,
 316,Villa,Vestergade 46,4340, Tølløse,745080 ,23-07-1996,Alm. Salg,101,7377,5,1959,
-316,Villa,Roskildevej 47B,4300, Holbæk,717088 ,22-07-1996,Alm. Salg,48,14939,2,1935,
 316,Villa,Sdr Jernløsevej 5,4420, Regstrup,557000 ,22-07-1996,Alm. Salg,87,6402,3,1950,
 316,Villa,Kløvervænget 34,4300, Holbæk,1075000 ,22-07-1996,Alm. Salg,167,6437,6,1972,
 316,Villa,Holbækvej 9B,4370, Store Merløse,1000000 ,21-07-1996,Alm. Salg,160,6250,6,1901,
@@ -27849,7 +27404,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Kattekærstrædet 22,4305, Orø,335000 ,28-06-1996,Alm. Salg,102,3284,5,1777,
 316,Villa,Strandvejen 12B,4520, Svinninge,420000 ,28-06-1996,Alm. Salg,167,1867,6,1890,
 316,Villa,Nyvang 5,4520, Svinninge,210000 ,27-06-1996,Alm. Salg,252,833,7,1911,
-316,Rækkehus,Tingerupvej 2A,4330, Hvalsø,1281000 ,26-06-1996,Alm. Salg,126,10167,3,1952,
 316,Villa,Snavevej 9,4305, Orø,626600 ,26-06-1996,Alm. Salg,172,3643,6,1850,
 316,Villa,Engvej 10,4450, Jyderup,615000 ,26-06-1996,Alm. Salg,97,6340,4,1964,
 316,Rækkehus,Solvangsvej 8,4360, Kirke Eskilstrup,700000 ,25-06-1996,Alm. Salg,107,6542,4,1985,
@@ -28230,7 +27784,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Solsortvej 15,4300, Holbæk,594000 ,19-02-1996,Alm. Salg,102,5824,4,1962,
 316,Villa,Holbækvej 33,4340, Tølløse,803750 ,19-02-1996,Alm. Salg,154,5219,4,1930,
 316,Villa,Solvej 18,4440, Mørkøv,500000 ,18-02-1996,Alm. Salg,105,4762,3,1967,
-316,Villa,Ringstedvej 9C,4440, Mørkøv,1253446 ,18-02-1996,Alm. Salg,275,4558,8,1974,
 316,Villa,Nørrevang 13,4300, Holbæk,1033880 ,18-02-1996,Alm. Salg,136,7602,4,1929,
 316,Villa,Egernæs 16,4390, Vipperød,515000 ,18-02-1996,Alm. Salg,114,4518,4,1961,
 316,Villa,Strandmøllevej 162,4300, Holbæk,397190 ,18-02-1996,Andet,238,1669,9,1932,
@@ -28444,12 +27997,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Rækkehus,Helsevej 18,4520, Svinninge,295000 ,15-11-1995,Alm. Salg,60,4917,2,1973,
 316,Villa,Fiskervænget 11,4390, Vipperød,840000 ,15-11-1995,Alm. Salg,158,5316,5,1974,
 316,Rækkehus,Tjørnevej 1,4520, Svinninge,438180 ,14-11-1995,Alm. Salg,90,4869,4,1969,
-316,Ejerlejlighed,"Nygade 8, 2",4300, Holbæk,7750000 ,14-11-1995,Andet,220,35227,7,1931,
-316,Ejerlejlighed,"Nygade 8, 3",4300, Holbæk,7750000 ,14-11-1995,Andet,204,37990,7,1931,
-316,Ejerlejlighed,"Vestergade 4, 1. tv",4300, Holbæk,7750000 ,14-11-1995,Andet,81,95679,4,1907,
-316,Ejerlejlighed,"Vestergade 4, 2. th",4300, Holbæk,7750000 ,14-11-1995,Andet,64,121094,3,1907,
-316,Ejerlejlighed,"Vestergade 4, 1. th",4300, Holbæk,7750000 ,14-11-1995,Andet,73,106164,3,1907,
-316,Ejerlejlighed,"Vestergade 4, 2. tv",4300, Holbæk,7750000 ,14-11-1995,Andet,66,117424,3,1907,
 316,Villa,Vestvejen 5,4440, Mørkøv,560000 ,14-11-1995,Alm. Salg,128,4375,5,1968,
 316,Villa,Munkholmvej 111,4300, Holbæk,204059 ,14-11-1995,Andet,85,2401,3,1960,
 316,Villa,Friheden 8,4440, Mørkøv,160000 ,14-11-1995,Alm. Salg,84,1905,3,1900,
@@ -28534,7 +28081,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Skyttens Vej 1,4300, Holbæk,665000 ,15-10-1995,Alm. Salg,208,3197,9,1916,
 316,Villa,Skyttens Vej 11,4300, Holbæk,560000 ,15-10-1995,Alm. Salg,143,3916,5,1949,
 316,Rækkehus,Højgårdsvej 5,4350, Ugerløse,354900 ,14-10-1995,Alm. Salg,71,4999,3,1981,
-316,Villa,Gl. Skovvej 148B,4420, Regstrup,156472 ,14-10-1995,Alm. Salg,190,824,8,1907,
 316,Villa,Ahornvej 3,4390, Vipperød,828490 ,14-10-1995,Alm. Salg,123,6736,4,1972,
 316,Villa,Møllevangen 2,4300, Holbæk,945500 ,13-10-1995,Alm. Salg,126,7504,4,1957,
 316,Villa,Klosterstræde 6,4300, Holbæk,316400 ,13-10-1995,Alm. Salg,97,3262,4,1900,
@@ -28546,11 +28092,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Nyvangsvej 12,4300, Holbæk,550000 ,10-10-1995,Alm. Salg,110,5000,3,1910,
 316,Villa,Bygaden 32,4370, Store Merløse,425000 ,10-10-1995,Alm. Salg,146,2911,4,1920,
 316,Villa,Mellemvang 10,4300, Holbæk,150000 ,10-10-1995,Alm. Salg,245,612,6,2009,
-316,Rækkehus,Uglerupvej 27B,4300, Holbæk,300000 ,09-10-1995,Alm. Salg,84,3571,3,1905,
 316,Rækkehus,Munkholmvej 89,4300, Holbæk,585000 ,09-10-1995,Alm. Salg,101,5792,3,1934,
 316,Rækkehus,Holbækvej 1,4450, Jyderup,415000 ,09-10-1995,Alm. Salg,71,5845,2,1877,
 316,Villa,Nørupvej 37,4300, Holbæk,325000 ,09-10-1995,Alm. Salg,263,1236,7,1880,
-316,Villa,Uglerupvej 27,4300, Holbæk,300000 ,09-10-1995,Alm. Salg,81,3704,3,1905,
 316,Villa,Blommehaven 67,4390, Vipperød,210000 ,09-10-1995,Andet,188,1117,6,1997,
 316,Villa,Tjebberupparken 11,4300, Holbæk,803070 ,09-10-1995,Alm. Salg,151,5318,4,1973,
 316,Rækkehus,Kildevangsparken 72,4390, Vipperød,512000 ,08-10-1995,Auktion,127,4031,4,1979,
@@ -28847,10 +28391,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Skamstrupvej 29,4440, Mørkøv,340000 ,05-07-1995,Alm. Salg,159,2138,5,1931,
 316,Rækkehus,Holmager 16,4520, Svinninge,385000 ,04-07-1995,Alm. Salg,86,4477,4,1970,
 316,Rækkehus,Ejler Urnesvej 53,4300, Holbæk,650000 ,04-07-1995,Alm. Salg,98,6633,4,1964,
-316,Ejerlejlighed,"Østerstræde 14B, 1",4300, Holbæk,472469 ,04-07-1995,Alm. Salg,57,8289,2,1900,
 316,Villa,Bygaden 58,4370, Store Merløse,645000 ,04-07-1995,Alm. Salg,126,5119,4,1965,
 316,Villa,Rosenvej 16,4520, Svinninge,798549 ,04-07-1995,Alm. Salg,163,4899,5,1978,
-316,Villa,Østerstræde 14B,4300, Holbæk,472469 ,04-07-1995,Alm. Salg,208,2271,5,1900,
 316,Villa,Nyvej 15,4300, Holbæk,750000 ,04-07-1995,Alm. Salg,144,5208,5,1914,
 316,Villa,Højbovej 2,4520, Svinninge,762816 ,03-07-1995,Alm. Salg,157,4238,6,1917,
 316,Villa,Strandmøllevej 92,4300, Holbæk,700000 ,03-07-1995,Alm. Salg,169,4142,7,1928,
@@ -29109,12 +28651,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Tølløsevej 366,4350, Ugerløse,525000 ,21-04-1995,Alm. Salg,100,5250,3,1956,
 316,Villa,Holbækvej 267,4440, Mørkøv,288340 ,21-04-1995,Alm. Salg,144,2002,3,1940,
 316,Rækkehus,Humlehaven 1,4300, Holbæk,640000 ,20-04-1995,Alm. Salg,88,7273,3,1950,
-316,Ejerlejlighed,"Nyvej 2, 1",4450, Jyderup,2325000 ,20-04-1995,Alm. Salg,137,16971,3,1915,
-316,Ejerlejlighed,"Nyvej 2, 2",4450, Jyderup,2325000 ,20-04-1995,Alm. Salg,114,20395,3,1915,
-316,Ejerlejlighed,"Skarridsøgade 49, 1. th",4450, Jyderup,2325000 ,20-04-1995,Alm. Salg,70,33214,2,1915,
-316,Ejerlejlighed,"Skarridsøgade 49, 2. tv",4450, Jyderup,2325000 ,20-04-1995,Alm. Salg,72,32292,3,1915,
-316,Ejerlejlighed,"Skarridsøgade 49, 2. th",4450, Jyderup,2325000 ,20-04-1995,Alm. Salg,57,40789,2,1915,
-316,Ejerlejlighed,"Skarridsøgade 49, 1. tv",4450, Jyderup,2325000 ,20-04-1995,Alm. Salg,80,29063,3,1915,
 316,Villa,Langholm 4,4390, Vipperød,170000 ,20-04-1995,Alm. Salg,190,895,5,1996,
 316,Villa,Nørrevang 5,4300, Holbæk,743340 ,19-04-1995,Alm. Salg,133,5589,5,1928,
 316,Villa,Ahornvej 19,4390, Vipperød,610000 ,19-04-1995,Alm. Salg,123,4959,4,1972,
@@ -29306,15 +28842,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Smedelodden 13,4440, Mørkøv,360000 ,18-02-1995,Alm. Salg,107,3364,4,1972,
 316,Villa,Ringstedvej 267,4350, Ugerløse,680000 ,17-02-1995,Alm. Salg,96,7083,3,1902,
 316,Villa,Lærkevej 14,4450, Jyderup,671640 ,17-02-1995,Alm. Salg,164,4095,5,1971,
-316,Ejerlejlighed,"Tidemandsvej 16B, 1. th",4300, Holbæk,1860000 ,16-02-1995,Alm. Salg,125,14880,5,1909,
-316,Ejerlejlighed,"Tidemandsvej 16B, 1. tv",4300, Holbæk,1860000 ,16-02-1995,Alm. Salg,79,23544,4,1909,
-316,Ejerlejlighed,"Chr Hansensvej 30B, 1. th",4300, Holbæk,1860000 ,16-02-1995,Alm. Salg,75,24800,3,1909,
-316,Ejerlejlighed,"Chr Hansensvej 30B, 2. th",4300, Holbæk,1860000 ,16-02-1995,Alm. Salg,63,29524,3,1909,
-316,Ejerlejlighed,"Chr Hansensvej 30C, st. th",4300, Holbæk,1860000 ,16-02-1995,Alm. Salg,52,35769,2,1909,
-316,Ejerlejlighed,"Chr Hansensvej 30C, 2. th",4300, Holbæk,1860000 ,16-02-1995,Alm. Salg,61,30492,3,1909,
-316,Ejerlejlighed,"Chr Hansensvej 30C, st. tv",4300, Holbæk,1860000 ,16-02-1995,Alm. Salg,55,33818,2,1909,
-316,Ejerlejlighed,"Chr Hansensvej 30C, 1. th",4300, Holbæk,1860000 ,16-02-1995,Alm. Salg,68,27353,2,1909,
-316,Ejerlejlighed,"Chr Hansensvej 30C, 1. tv",4300, Holbæk,1860000 ,16-02-1995,Alm. Salg,52,35769,2,1909,
 316,Villa,Tuse Lågevej 25,4300, Holbæk,585000 ,16-02-1995,Alm. Salg,140,4179,5,1920,
 316,Villa,Skyttevænget 2,4450, Jyderup,280000 ,16-02-1995,Auktion,98,2857,5,1912,
 316,Villa,Holbækvej 31,4450, Jyderup,420000 ,16-02-1995,Alm. Salg,144,2917,7,1934,
@@ -29345,9 +28872,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Grandløse Kirkevej 8,4300, Holbæk,561790 ,05-02-1995,Alm. Salg,112,5016,4,1867,
 316,Villa,Rosenvej 6,4340, Tølløse,387980 ,05-02-1995,Alm. Salg,105,3695,5,1920,
 316,Villa,Sophienholmvej 2,4340, Tølløse,490000 ,04-02-1995,Alm. Salg,173,2832,5,1850,
-316,Ejerlejlighed,Hovedgaden 38,4532, Gislinge,410000 ,03-02-1995,Alm. Salg,154,2662,5,1900,
-316,Ejerlejlighed,"Hovedgaden 38, 1",4532, Gislinge,410000 ,03-02-1995,Alm. Salg,53,7736,2,1900,
-316,Ejerlejlighed,Kirkevej 20,4532, Gislinge,410000 ,03-02-1995,Alm. Salg,66,6212,2,1900,
 316,Villa,Nygade 24,4340, Tølløse,945000 ,03-02-1995,Alm. Salg,166,5693,4,1980,
 316,Villa,Nyvej 8,4440, Mørkøv,65000 ,03-02-1995,Alm. Salg,72,903,3,1845,
 316,Villa,Borgergade 5A,4360, Kirke Eskilstrup,428200 ,02-02-1995,Alm. Salg,93,4604,3,1928,
@@ -29402,8 +28926,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Rækkehus,Skovengen 24,4450, Jyderup,535000 ,20-01-1995,Alm. Salg,94,5691,3,1980,
 316,Villa,Kløvermarksvej 37,4300, Holbæk,925000 ,20-01-1995,Alm. Salg,120,7708,5,1955,
 316,Rækkehus,Studiestræde 26,4300, Holbæk,945000 ,19-01-1995,Alm. Salg,90,10500,4,1984,
-316,Rækkehus,Rækmarken 6A,4300, Holbæk,550000 ,19-01-1995,Alm. Salg,138,3986,6,1877,
-316,Ejerlejlighed,Rækmarken 6B,4300, Holbæk,550000 ,19-01-1995,Alm. Salg,139,3957,4,1877,
 316,Villa,Cikorievej 3,4300, Holbæk,866000 ,19-01-1995,Alm. Salg,133,6511,5,1972,
 316,Villa,Bakkekammen 53,4300, Holbæk,1350000 ,19-01-1995,Alm. Salg,184,7337,5,1947,
 316,Villa,Elmegården 89,4450, Jyderup,695000 ,19-01-1995,Alm. Salg,134,5187,5,1976,
@@ -29419,7 +28941,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Kalundborgvej 96,4300, Holbæk,755000 ,17-01-1995,Alm. Salg,114,6623,5,1981,
 316,Villa,Havrevænget 19,4520, Svinninge,758000 ,17-01-1995,Alm. Salg,163,4650,4,1987,
 316,Villa,Skovbakkevej 6,4340, Tølløse,1115978 ,17-01-1995,Alm. Salg,208,5365,7,1968,
-316,Villa,Bygaden 18B,4370, Store Merløse,270000 ,17-01-1995,Alm. Salg,31,8710,1,1928,
 316,Villa,Vipperødgårds Alle 1,4390, Vipperød,710000 ,17-01-1995,Alm. Salg,125,5680,5,1963,
 316,Villa,Rylevej 7,4300, Holbæk,638000 ,17-01-1995,Alm. Salg,155,4116,6,1977,
 316,Rækkehus,Søskrænten 7B,4340, Tølløse,480000 ,16-01-1995,Alm. Salg,83,5783,3,1987,
@@ -29727,8 +29248,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Frændevej 34,4305, Orø,370000 ,27-09-1994,Alm. Salg,110,3364,3,1969,
 316,Rækkehus,Roskildevej 61,4300, Holbæk,365000 ,26-09-1994,Andet,74,4932,3,1923,
 316,Ejerlejlighed,"Stationsvej 10, 1. mf",4390, Vipperød,286600 ,26-09-1994,Alm. Salg,34,8429,1,1967,
-316,Ejerlejlighed,"Uglerupvej 31, 1",4300, Holbæk,439000 ,26-09-1994,Alm. Salg,174,2523,3,2008,
-316,Villa,Uglerupvej 31,4300, Holbæk,439000 ,26-09-1994,Alm. Salg,204,2152,7,1925,
 316,Villa,Tåstrupvej 125,4370, Store Merløse,374776 ,26-09-1994,Alm. Salg,60,6246,3,1925,
 316,Villa,Ulkestrupvej 5,4440, Mørkøv,395000 ,26-09-1994,Alm. Salg,115,3435,4,1870,
 316,Villa,Ny Taastrupvej 3,4300, Holbæk,620000 ,25-09-1994,Alm. Salg,108,5741,3,1925,
@@ -29742,15 +29261,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Strandvejen 21,4300, Holbæk,380000 ,22-09-1994,Alm. Salg,174,2184,4,1997,
 316,Villa,Agervænget 20,4420, Regstrup,525000 ,22-09-1994,Alm. Salg,122,4303,4,1967,
 316,Rækkehus,Gl Ringstedvej 11,4300, Holbæk,470000 ,21-09-1994,Alm. Salg,90,5222,4,1904,
-316,Ejerlejlighed,"Blegstræde 1, 2. tv",4300, Holbæk,3075000 ,21-09-1994,Alm. Salg,112,27455,4,1912,
-316,Ejerlejlighed,"Blegstræde 1, 3",4300, Holbæk,3075000 ,21-09-1994,Alm. Salg,77,39935,2,1912,
-316,Ejerlejlighed,"Blegstræde 1, 2. th",4300, Holbæk,3075000 ,21-09-1994,Alm. Salg,92,33424,3,1912,
-316,Ejerlejlighed,"Ahlgade 43, 2",4300, Holbæk,3075000 ,21-09-1994,Alm. Salg,123,25000,4,1912,
-316,Ejerlejlighed,"Ahlgade 43, 3",4300, Holbæk,3075000 ,21-09-1994,Alm. Salg,207,14855,8,1912,
 316,Ejerlejlighed,"Ahlgade 15, 1. 6",4300, Holbæk,1125000 ,21-09-1994,Alm. Salg,145,7759,4,1990,
-316,Ejerlejlighed,"Blegstræde 1, 1. th",4300, Holbæk,3075000 ,21-09-1994,Alm. Salg,92,33424,3,1912,
-316,Ejerlejlighed,"Blegstræde 1, st",4300, Holbæk,3075000 ,21-09-1994,Alm. Salg,92,33424,3,1912,
-316,Ejerlejlighed,"Blegstræde 1, 1. tv",4300, Holbæk,3075000 ,21-09-1994,Alm. Salg,112,27455,4,1912,
 316,Villa,Sandmosen 6,4300, Holbæk,1000000 ,21-09-1994,Alm. Salg,137,7299,4,1900,
 316,Villa,Snerlevej 8,4340, Tølløse,730920 ,21-09-1994,Alm. Salg,132,5537,4,1974,
 316,Villa,Hovedgaden 9,4440, Mørkøv,778000 ,21-09-1994,Alm. Salg,228,3412,7,1921,
@@ -29886,8 +29397,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Maglestenen 19,4390, Vipperød,1204157 ,09-08-1994,Alm. Salg,159,7573,6,1987,
 316,Villa,Hovedgaden 11,4440, Mørkøv,140000 ,09-08-1994,Alm. Salg,162,864,5,1928,
 316,Villa,Christiansmindevej 4,4300, Holbæk,882000 ,09-08-1994,Alm. Salg,161,5478,6,1953,
-316,Ejerlejlighed,"Hovedgaden 53, 1",4520, Svinninge,735000 ,08-08-1994,Alm. Salg,150,4900,4,1912,
-316,Ejerlejlighed,Markedsvej 1,4520, Svinninge,735000 ,08-08-1994,Alm. Salg,92,4083,2,1945,
 316,Ejerlejlighed,"Smedelundsgade 20, 1",4300, Holbæk,1100000 ,08-08-1994,Auktion,127,8661,5,1856,
 316,Villa,Bygvænget 35,4520, Svinninge,515000 ,08-08-1994,Alm. Salg,128,4023,4,1977,
 316,Villa,Bakken 5,4440, Mørkøv,510000 ,08-08-1994,Alm. Salg,134,3806,5,1933,
@@ -30123,9 +29632,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Kalundborgvej 163A,4300, Holbæk,875000 ,19-05-1994,Alm. Salg,142,6162,5,1967,
 316,Villa,Mågevej 11,4350, Ugerløse,645000 ,19-05-1994,Alm. Salg,165,3909,5,1972,
 316,Rækkehus,Kasernevej 29,4300, Holbæk,763532 ,18-05-1994,Alm. Salg,126,6060,4,1913,
-316,Rækkehus,Østervang 27E,4300, Holbæk,675000 ,18-05-1994,Alm. Salg,127,5315,4,1979,
 316,Villa,Smedevej 20,4340, Tølløse,262500 ,18-05-1994,Andet,124,2117,4,1977,
-316,Villa,Heibergs Have 25,4300, Holbæk,675000 ,18-05-1994,Alm. Salg,146,4623,4,1974,
 316,Villa,Ibsvej 1,4440, Mørkøv,291411 ,18-05-1994,Alm. Salg,133,2191,6,1910,
 316,Villa,Sejergårdsvej 9,4340, Tølløse,653000 ,18-05-1994,Alm. Salg,100,6530,4,1961,
 316,Villa,Amtsvejen 4,4450, Jyderup,1411570 ,18-05-1994,Alm. Salg,166,8503,4,1988,
@@ -30289,10 +29796,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Hjortholmvej 57,4340, Tølløse,508288 ,23-03-1994,Alm. Salg,157,3238,6,1948,
 316,Villa,Højvangsparken 13,4300, Holbæk,675000 ,23-03-1994,Alm. Salg,140,4821,5,1967,
 316,Villa,Landevejen 85,4532, Gislinge,125000 ,23-03-1994,Alm. Salg,176,710,5,1917,
-316,Ejerlejlighed,"Uglerupvej 31, 1",4300, Holbæk,729200 ,22-03-1994,Alm. Salg,174,4191,3,2008,
 316,Villa,Bagmarken 66,4370, Store Merløse,400000 ,22-03-1994,Auktion,133,3008,5,1970,
 316,Villa,Roskildevej 203D,4300, Holbæk,675000 ,22-03-1994,Alm. Salg,108,6250,4,1963,
-316,Villa,Uglerupvej 31,4300, Holbæk,729200 ,22-03-1994,Alm. Salg,204,3575,7,1925,
 316,Villa,Godthaabsvej 46,4300, Holbæk,450631 ,22-03-1994,Fam. Salg,118,3819,5,1920,
 316,Villa,Skyttens Vej 24,4300, Holbæk,462840 ,22-03-1994,Alm. Salg,112,4133,4,1913,
 316,Villa,Nyrupsvej 8,4520, Svinninge,551496 ,22-03-1994,Alm. Salg,160,3447,6,1952,
@@ -30360,7 +29865,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Provstehøjen 19,4300, Holbæk,759260 ,27-02-1994,Alm. Salg,138,5502,4,1975,
 316,Villa,Østervang 9,4300, Holbæk,608112 ,27-02-1994,Alm. Salg,114,5334,4,1955,
 316,Villa,Østervang 10,4520, Svinninge,335000 ,26-02-1994,Alm. Salg,163,2055,4,1973,
-316,Villa,Roskildevej 87D,4300, Holbæk,542600 ,26-02-1994,Alm. Salg,22,24664,2,1925,
 316,Villa,Nørrevang 6B,4300, Holbæk,1303906 ,26-02-1994,Alm. Salg,176,7409,6,1988,
 316,Villa,Marianevej 5,4300, Holbæk,690000 ,26-02-1994,Alm. Salg,121,5702,4,1917,
 316,Rækkehus,Emmabodavej 19C,4450, Jyderup,440000 ,25-02-1994,Alm. Salg,80,5500,3,1984,
@@ -30598,7 +30102,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Ny Taastrupvej 15,4300, Holbæk,610000 ,04-11-1993,Andet,107,5701,4,1966,
 316,Villa,Holbæk Landevej 26,4350, Ugerløse,277600 ,04-11-1993,Alm. Salg,97,2862,3,1945,
 316,Villa,Peder Billesvej 38,4300, Holbæk,560000 ,03-11-1993,Alm. Salg,144,3889,4,1953,
-316,Villa,Roskildevej 47B,4300, Holbæk,477000 ,02-11-1993,Auktion,48,9938,2,1935,
 316,Villa,Bryggerivej 9,4532, Gislinge,272000 ,02-11-1993,Fam. Salg,126,2159,4,1940,
 316,Villa,Solager 4,4520, Svinninge,560000 ,02-11-1993,Alm. Salg,174,3218,4,1974,
 316,Rækkehus,Arnakkegårds Alle 11C,4390, Vipperød,375000 ,01-11-1993,Andet,60,6250,2,1968,
@@ -30767,8 +30270,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Vestervej 13,4440, Mørkøv,395000 ,28-09-1993,Alm. Salg,79,5000,3,1946,
 316,Villa,Bellisvej 26,4300, Holbæk,639080 ,28-09-1993,Alm. Salg,114,5606,3,1968,
 316,Rækkehus,Skolegade 15,4300, Holbæk,575000 ,27-09-1993,Alm. Salg,129,4457,5,1900,
-316,Ejerlejlighed,"Østerstræde 14B, 1",4300, Holbæk,565200 ,27-09-1993,Alm. Salg,57,9916,2,1900,
-316,Villa,Østerstræde 14B,4300, Holbæk,565200 ,27-09-1993,Alm. Salg,208,2717,5,1900,
 316,Villa,Engdraget 28,4300, Holbæk,654500 ,27-09-1993,Alm. Salg,126,5194,4,1964,
 316,Villa,Martin Lønnesvej 44,4440, Mørkøv,570800 ,27-09-1993,Alm. Salg,115,4963,5,1976,
 316,Villa,Hegnet 5,4300, Holbæk,750000 ,27-09-1993,Alm. Salg,117,6410,4,1912,
@@ -30821,16 +30322,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Skamstrupvej 23,4440, Mørkøv,628256 ,09-09-1993,Alm. Salg,134,4688,3,1975,
 316,Villa,Vestervangen 1,4300, Holbæk,550000 ,09-09-1993,Alm. Salg,108,5093,3,1968,
 316,Villa,Gl Ringstedvej 57,4300, Holbæk,18000 ,09-09-1993,Alm. Salg,100,180,4,1917,
-316,Ejerlejlighed,Mejerivej 12,4532, Gislinge,725000 ,08-09-1993,Alm. Salg,111,6532,4,1964,
-316,Ejerlejlighed,Mejerivej 14,4532, Gislinge,725000 ,08-09-1993,Alm. Salg,127,5709,4,1964,
-316,Ejerlejlighed,"Mejerivej 16, 1",4532, Gislinge,725000 ,08-09-1993,Alm. Salg,110,6591,3,1964,
-316,Ejerlejlighed,Mejerivej 18,4532, Gislinge,725000 ,08-09-1993,Alm. Salg,121,5992,5,1953,
-316,Ejerlejlighed,Mejerivej 20,4532, Gislinge,725000 ,08-09-1993,Alm. Salg,123,5894,4,1953,
-316,Ejerlejlighed,Mejerivej 22,4532, Gislinge,725000 ,08-09-1993,Alm. Salg,125,5800,4,1953,
-316,Ejerlejlighed,Byvej 61B,4532, Gislinge,725000 ,08-09-1993,Alm. Salg,149,4866,3,1964,
-316,Ejerlejlighed,Byvej 61D,4532, Gislinge,725000 ,08-09-1993,Alm. Salg,165,4394,5,1964,
-316,Ejerlejlighed,Byvej 61C,4532, Gislinge,725000 ,08-09-1993,Alm. Salg,115,6304,5,1964,
-316,Ejerlejlighed,Byvej 61A,4532, Gislinge,725000 ,08-09-1993,Alm. Salg,82,8841,2,1964,
 316,Villa,Kongsgårds Alle 10,4300, Holbæk,630000 ,08-09-1993,Alm. Salg,101,6238,4,1987,
 316,Villa,Høedvej 26,4450, Jyderup,597690 ,08-09-1993,Alm. Salg,238,2511,9,1913,
 316,Villa,Bringergården 4,4532, Gislinge,897736 ,08-09-1993,Alm. Salg,164,5474,5,1875,
@@ -31034,7 +30525,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Ejerlejlighed,"Nyvej 18B, 1. 4",4450, Jyderup,265000 ,29-06-1993,Alm. Salg,42,6310,1,1984,
 316,Villa,Maglesøvej 5,4300, Holbæk,120000 ,29-06-1993,Fam. Salg,295,407,8,1974,
 316,Villa,Platanvej 16,4360, Kirke Eskilstrup,480000 ,29-06-1993,Alm. Salg,150,3200,5,1967,
-316,Villa,Hovedgaden 23A,4350, Ugerløse,1000 ,29-06-1993,Auktion,273,4,9,1887,
 316,Rækkehus,Baggesens Have 51,4300, Holbæk,680600 ,28-06-1993,Fam. Salg,104,6544,5,1986,
 316,Villa,Blomsterhaven 66,4300, Holbæk,922000 ,28-06-1993,Alm. Salg,182,5066,5,1973,
 316,Villa,Smithsvej 11,4300, Holbæk,735000 ,28-06-1993,Alm. Salg,161,4565,6,1931,
@@ -31075,7 +30565,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Nørrevang 14,4300, Holbæk,845000 ,13-06-1993,Alm. Salg,108,7824,3,1952,
 316,Villa,Solskrænten 4,4340, Tølløse,231344 ,13-06-1993,Alm. Salg,142,1629,4,1973,
 316,Villa,Strandmøllevej 98,4300, Holbæk,650000 ,13-06-1993,Alm. Salg,186,3495,6,1901,
-316,Villa,Søstrupvej 1C,4300, Holbæk,225000 ,13-06-1993,Alm. Salg,58,3879,2,1930,
 316,Villa,Agervænget 69,4420, Regstrup,495000 ,12-06-1993,Alm. Salg,134,3694,4,1969,
 316,Rækkehus,Kildevangsparken 102,4390, Vipperød,532830 ,10-06-1993,Alm. Salg,125,4263,4,1979,
 316,Villa,Skamstrupvej 90,4440, Mørkøv,320000 ,10-06-1993,Alm. Salg,236,1356,4,1933,
@@ -31162,7 +30651,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Juelsvej 13,4390, Vipperød,307522 ,09-05-1993,Auktion,157,1959,5,1975,
 316,Villa,Holbækvej 57,4450, Jyderup,500000 ,09-05-1993,Alm. Salg,116,4310,4,1973,
 316,Villa,Rs Hansensvej 5,4520, Svinninge,385000 ,09-05-1993,Andet,121,3182,4,1962,
-316,Villa,Søstrupvej 1C,4300, Holbæk,300000 ,09-05-1993,Alm. Salg,58,5172,2,1930,
 316,Villa,Wessels Have 23,4300, Holbæk,970000 ,08-05-1993,Alm. Salg,202,4802,6,1980,
 316,Villa,Gl. Skovvej 131A,4420, Regstrup,213298 ,05-05-1993,Alm. Salg,250,853,9,1877,
 316,Villa,Maglestenen 14,4390, Vipperød,759325 ,05-05-1993,Alm. Salg,164,4630,6,1974,
@@ -31182,8 +30670,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Ejerlejlighed,"Strandmøllevej 16, 2. tv",4300, Holbæk,485000 ,30-04-1993,Alm. Salg,78,6218,3,1931,
 316,Rækkehus,Strandmøllevej 190D,4300, Holbæk,690000 ,29-04-1993,Fam. Salg,131,5267,4,1985,
 316,Rækkehus,Skrænten 28,4300, Holbæk,660000 ,29-04-1993,Fam. Salg,147,4490,5,1975,
-316,Ejerlejlighed,"Nyvej 1, 1. th",4450, Jyderup,1450000 ,29-04-1993,Alm. Salg,128,11328,4,2015,
-316,Ejerlejlighed,"H.P.Folkmannsvej 10, 1",4450, Jyderup,1450000 ,29-04-1993,Alm. Salg,143,10140,4,2015,
 316,Villa,Byvej 65,4532, Gislinge,378612 ,29-04-1993,Alm. Salg,196,1932,5,2020,
 316,Villa,Æblehaven 49,4390, Vipperød,735000 ,29-04-1993,Alm. Salg,163,3621,7,1979,
 316,Rækkehus,Elmevej 27,4520, Svinninge,346176 ,28-04-1993,Alm. Salg,56,6182,2,1987,
@@ -31420,7 +30906,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Agervænget 29,4420, Regstrup,500000 ,13-01-1993,Alm. Salg,172,2907,6,1969,
 316,Villa,Nørre Hovvej 3,4520, Svinninge,77286 ,12-01-1993,Alm. Salg,142,544,4,1997,
 316,Villa,Rævebæk 6,4440, Mørkøv,400000 ,11-01-1993,Alm. Salg,97,4124,3,1969,
-316,Villa,"Kalundborgvej 53B, 1",4300, Holbæk,550000 ,11-01-1993,Alm. Salg,36,15278,2,1931,
 316,Villa,Fjordparken 15,4300, Holbæk,765102 ,11-01-1993,Alm. Salg,170,4501,5,1970,
 316,Villa,Torslunde 15,4520, Svinninge,395000 ,10-01-1993,Alm. Salg,96,4115,3,1907,
 316,Villa,Lærkevej 11,4300, Holbæk,635000 ,10-01-1993,Alm. Salg,135,4704,4,1945,
@@ -31928,7 +31413,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Nyvej 5,4300, Holbæk,206130 ,02-06-1992,Alm. Salg,137,1505,6,1913,
 316,Villa,Lundemarken 3,4520, Svinninge,104000 ,02-06-1992,Auktion,129,806,4,1777,
 316,Villa,Adelers Alle 191,4532, Gislinge,410000 ,02-06-1992,Alm. Salg,143,2867,6,1900,
-316,Rækkehus,Teglværksvej 1,4450, Jyderup,1350000 ,01-06-1992,Alm. Salg,128,10547,3,1892,
 316,Rækkehus,Strædet 2,4420, Regstrup,320000 ,01-06-1992,Alm. Salg,88,3636,4,1780,
 316,Villa,Ahornvej 5,4340, Tølløse,587000 ,01-06-1992,Alm. Salg,159,3692,6,1976,
 316,Villa,Munkholmvej 231,4300, Holbæk,485000 ,01-06-1992,Alm. Salg,116,4181,4,1954,
@@ -32059,7 +31543,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Høedvej 37,4450, Jyderup,575000 ,14-04-1992,Alm. Salg,191,3010,7,1900,
 316,Villa,Irisvej 18,4520, Svinninge,545000 ,14-04-1992,Fam. Salg,155,3516,5,1978,
 316,Villa,Nordre Banevej 10,4300, Holbæk,755050 ,14-04-1992,Fam. Salg,113,6682,4,1914,
-316,Villa,Skolegade 11A,4300, Holbæk,545000 ,14-04-1992,Alm. Salg,56,9732,2,1900,
 316,Villa,Bygaden 56,4370, Store Merløse,545000 ,13-04-1992,Alm. Salg,138,3949,4,1965,
 316,Villa,Kullegårdsvej 15,4350, Ugerløse,585000 ,13-04-1992,Fam. Salg,169,3462,7,1908,
 316,Villa,Nørrevang 3,4300, Holbæk,700000 ,13-04-1992,Fam. Salg,145,4828,7,1918,
@@ -32299,7 +31782,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Birke Alle 3,4300, Holbæk,810000 ,05-02-1992,Fam. Salg,195,4154,6,1978,
 316,Villa,Roskildevej 301,4390, Vipperød,1350000 ,05-02-1992,Alm. Salg,157,8599,6,1890,
 316,Villa,Hegnet 7,4300, Holbæk,779400 ,05-02-1992,Alm. Salg,98,7953,3,1912,
-316,Villa,Tømmerupvej 37,4440, Mørkøv,700000 ,04-02-1992,Alm. Salg,142,4930,4,1910,
 316,Villa,Åmosevej 93,4440, Mørkøv,170000 ,04-02-1992,Alm. Salg,120,1417,5,1900,
 316,Villa,Stenhusvej 1,4300, Holbæk,830000 ,03-02-1992,Fam. Salg,195,4256,6,1926,
 316,Villa,Barsebæk 16,4300, Holbæk,780000 ,02-02-1992,Alm. Salg,136,5735,3,1969,
@@ -32324,8 +31806,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 316,Villa,Bakken 54,4370, Store Merløse,335000 ,26-01-1992,Alm. Salg,116,2888,3,1974,
 316,Villa,Blomsterhaven 28,4300, Holbæk,1200000 ,26-01-1992,Fam. Salg,184,6522,5,1974,
 316,Villa,Borupvej 23,4420, Regstrup,155000 ,26-01-1992,Alm. Salg,161,963,4,2007,
-316,Rækkehus,Rækmarken 6A,4300, Holbæk,475000 ,21-01-1992,Alm. Salg,138,3442,6,1877,
-316,Ejerlejlighed,Rækmarken 6B,4300, Holbæk,475000 ,21-01-1992,Alm. Salg,139,3417,4,1877,
 316,Villa,Store Grandløse 14,4300, Holbæk,603670 ,21-01-1992,Andet,109,5538,4,1927,
 316,Villa,Vallestrupvejen 3,4300, Holbæk,470000 ,20-01-1992,Alm. Salg,190,2474,8,1874,
 316,Rækkehus,Sandby 27,4520, Svinninge,540000 ,19-01-1992,Alm. Salg,168,3214,7,1880,

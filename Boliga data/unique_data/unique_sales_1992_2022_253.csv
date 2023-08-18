@@ -40,9 +40,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 253,Villa,Storebjerg 64,2670, Greve,3300000 ,04-12-2022,Alm. Salg,138,23913,6,1979,-8%
 253,Rækkehus,H C Andersens Vej 1A,2690, Karlslunde,7995000 ,03-12-2022,Andet,172,46483,5,0,
 253,Villa,Hundige Strandvej 48,2670, Greve,1657500 ,02-12-2022,Fam. Salg,116,7931,5,1935,
-253,Ejerlejlighed,Grønnegården 504B,2670, Greve,2500000 ,01-12-2022,Alm. Salg,81,30864,4,1986,-3%
 253,Villa,Krogager 70,2670, Greve,3875000 ,01-12-2022,Alm. Salg,130,29808,5,1977,-3%
-253,Villa,Dønnergårds Alle 137,2670, Greve,2500000 ,01-12-2022,Alm. Salg,120,20833,4,1977,-3%
 253,Villa,Østerbakken 9,4030, Tune,3000000 ,01-12-2022,Alm. Salg,177,16949,6,1967,-8%
 253,Rækkehus,Tunegårdsvænget 36,4030, Tune,4295000 ,30-11-2022,Alm. Salg,115,37348,3,2014,-2%
 253,Villa,Mosebakken 32,2670, Greve,4950000 ,29-11-2022,Alm. Salg,156,31731,4,1974,-5%
@@ -251,7 +249,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 253,Rækkehus,Rosenlyparken 163,2670, Greve,3350000 ,07-06-2022,Alm. Salg,120,27917,5,1972,-1%
 253,Ejerlejlighed,Mosede Strandvej 50. 1,2670, Greve,3175000 ,07-06-2022,Alm. Salg,101,31436,3,1972,-9%
 253,Villa,Lotusvej 9,4030, Tune,3700000 ,07-06-2022,Alm. Salg,117,31624,5,1967,
-253,Villa,Klitvej 1A,2690, Karlslunde,5550000 ,07-06-2022,Alm. Salg,98,56633,3,1937,
 253,Rækkehus,Søhøj 315,2690, Karlslunde,3175000 ,06-06-2022,Alm. Salg,107,29673,4,1978,
 253,Villa,Gl Havnevej 6,2670, Greve,5400000 ,05-06-2022,Alm. Salg,136,39706,3,1974,-2%
 253,Rækkehus,Krogårdsvej 166,2670, Greve,3395000 ,04-06-2022,Alm. Salg,124,27379,5,1971,-7%
@@ -452,7 +449,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 253,Villa,Dønnergårds Alle 25,2670, Greve,3825000 ,14-02-2022,Alm. Salg,168,22768,5,1977,-2%
 253,Villa,Brydeholm 43,2670, Greve,2750000 ,14-02-2022,Fam. Salg,125,22000,4,1965,
 253,Villa,Kildebrønde Landevej 30,2670, Greve,3750000 ,13-02-2022,Alm. Salg,150,25000,5,2006,-6%
-253,Villa,Klitvej 1A,2690, Karlslunde,5500000 ,13-02-2022,Alm. Salg,98,56122,3,1937,
 253,Ejerlejlighed,Grønnegården 648A,2670, Greve,2550000 ,12-02-2022,Alm. Salg,84,30357,4,1986,-5%
 253,Villa,Pilevangen 6,2690, Karlslunde,3225000 ,12-02-2022,Alm. Salg,117,27564,5,1958,-4%
 253,Villa,Østermarksvej 8,2670, Greve,4700000 ,12-02-2022,Alm. Salg,144,32639,4,1975,
@@ -1749,8 +1745,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 253,Villa,Metavang 41,2670, Greve,3410000 ,26-09-2020,Alm. Salg,146,23356,4,1965,-2%
 253,Rækkehus,Rendebjergvænget 38,4030, Tune,2875000 ,24-09-2020,Alm. Salg,122,23566,4,2021,
 253,Rækkehus,Morbærhegnet 68,2670, Greve,1925000 ,24-09-2020,Alm. Salg,69,27899,3,1988,
-253,Rækkehus,Tyttebærkæret 9,2670, Greve,1550000 ,24-09-2020,Fam. Salg,140,11071,4,1977,
-253,Ejerlejlighed,Grønnegården 579B,2670, Greve,1550000 ,24-09-2020,Alm. Salg,60,25833,2,1986,-3%
 253,Villa,Påskestien 1,2670, Greve,3000000 ,24-09-2020,Alm. Salg,164,18293,5,2022,
 253,Villa,Tværager 50,2670, Greve,3375000 ,24-09-2020,Alm. Salg,165,20455,6,1967,-3%
 253,Villa,Storebjerg 17,2670, Greve,2950000 ,24-09-2020,Alm. Salg,141,20922,5,1965,-2%
@@ -2638,9 +2632,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 253,Villa,Kildeagerhusene 27,2690, Karlslunde,3475000 ,19-08-2019,Alm. Salg,107,32477,4,2007,-2%
 253,Rækkehus,Tinghaven 19,4030, Tune,2495000 ,18-08-2019,Alm. Salg,104,23990,3,1972,
 253,Villa,Stenrøjel 9,2670, Greve,3640000 ,17-08-2019,Alm. Salg,213,17089,6,1966,-4%
-253,Rækkehus,Olsbækmark 5,2670, Greve,2495000 ,15-08-2019,Alm. Salg,100,24950,4,1995,
 253,Rækkehus,Løvkærparken 79,4030, Tune,2250000 ,15-08-2019,Alm. Salg,130,17308,5,1974,-2%
-253,Ejerlejlighed,Grønnegården 634A,2670, Greve,2495000 ,15-08-2019,Alm. Salg,84,29702,4,1986,
 253,Villa,Søndervang 26,2670, Greve,1627114 ,15-08-2019,Fam. Salg,150,10847,4,1971,
 253,Ejerlejlighed,Grønnegården 444,2670, Greve,1400000 ,14-08-2019,Alm. Salg,61,22951,2,1984,
 253,Ejerlejlighed,"Søagerparken 3, 1. 2",2670, Greve,2395000 ,14-08-2019,Alm. Salg,79,30316,3,1972,
@@ -3287,8 +3279,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 253,Ejerlejlighed,Grønnegården 560B,2670, Greve,1830000 ,25-09-2018,Alm. Salg,60,30500,2,1986,
 253,Villa,Strandgårdsvej 10,2690, Karlslunde,3350000 ,25-09-2018,Alm. Salg,119,28151,6,1977,-1%
 253,Rækkehus,Gængehaven 43,2690, Karlslunde,3400000 ,24-09-2018,Alm. Salg,143,23776,5,2019,
-253,Ejerlejlighed,"Poppelsvinget 1B, 1. th",2670, Greve,3595000 ,24-09-2018,Alm. Salg,96,37448,4,2010,-3%
-253,Villa,Birgitsvej 3,2670, Greve,3595000 ,24-09-2018,Alm. Salg,132,27235,5,1970,
 253,Rækkehus,Gængehaven 57,2690, Karlslunde,3500000 ,20-09-2018,Alm. Salg,146,23973,5,2019,
 253,Villa,Strandgårdsvej 28,2690, Karlslunde,3200000 ,20-09-2018,Alm. Salg,120,26667,5,1951,
 253,Villa,Løvsangervej 4,2670, Greve,3750000 ,20-09-2018,Alm. Salg,247,15182,5,2020,
@@ -3299,7 +3289,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 253,Rækkehus,Gængehaven 21,2690, Karlslunde,3300000 ,18-09-2018,Alm. Salg,144,22917,5,2019,
 253,Rækkehus,Krogårdsvej 130,2670, Greve,2515000 ,18-09-2018,Alm. Salg,123,20447,3,1970,-3%
 253,Rækkehus,Søagerparken 69,2670, Greve,2795000 ,18-09-2018,Alm. Salg,120,23292,4,1983,
-253,Villa,Kildebrønde Landevej 37,2670, Greve,2525000 ,18-09-2018,Alm. Salg,153,16503,4,1927,
 253,Villa,Tværager 99,2670, Greve,2825000 ,17-09-2018,Alm. Salg,124,22782,4,1963,-4%
 253,Villa,Vandværksvej 20,2670, Greve,2750000 ,17-09-2018,Alm. Salg,227,12115,6,2019,
 253,Villa,Parcelvej 6,2670, Greve,3000000 ,17-09-2018,Alm. Salg,145,20690,5,1877,
@@ -3668,9 +3657,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 253,Rækkehus,Gængehaven 1,2690, Karlslunde,4400000 ,10-04-2018,Alm. Salg,138,31884,5,2019,
 253,Villa,Røglestien 4,4030, Tune,2998000 ,10-04-2018,Alm. Salg,136,22044,5,1970,
 253,Rækkehus,Gængehaven 51,2690, Karlslunde,3400000 ,09-04-2018,Alm. Salg,143,23776,5,2019,
-253,Ejerlejlighed,"Rådhusholmen 4, 1. th",2670, Greve,4295000 ,09-04-2018,Alm. Salg,135,31815,4,2003,
 253,Villa,Karlslunde Parkvej 74,2690, Karlslunde,2930000 ,09-04-2018,Alm. Salg,195,15026,7,1917,-2%
-253,Villa,Svanemosen 35,2670, Greve,4295000 ,09-04-2018,Alm. Salg,168,25565,5,1975,
 253,Rækkehus,Gængehaven 10,2690, Karlslunde,4350000 ,08-04-2018,Alm. Salg,138,31522,5,2019,
 253,Ejerlejlighed,Egelykkeparken 21C,2670, Greve,2050000 ,08-04-2018,Alm. Salg,83,24699,4,2002,
 253,Villa,Olsbæk Strandvej 26,2670, Greve,3900000 ,08-04-2018,Alm. Salg,121,32231,5,1951,-2%
@@ -5524,9 +5511,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 253,Rækkehus,Søagerparken 43,2670, Greve,2395000 ,09-09-2015,Alm. Salg,120,19958,4,1982,
 253,Villa,Lyngen 5,2690, Karlslunde,5050000 ,09-09-2015,Alm. Salg,123,41057,4,1980,-7%
 253,Villa,Bredager 26,2670, Greve,2950000 ,09-09-2015,Alm. Salg,128,23047,4,1969,
-253,Rækkehus,Rønnebærkæret 32,2670, Greve,2600000 ,08-09-2015,Alm. Salg,140,18571,4,1977,-2%
 253,Villa,Mønstedsvej 1A,2670, Greve,2870000 ,08-09-2015,Alm. Salg,103,27864,4,1949,-4%
-253,Villa,Godsparken 67,2670, Greve,2600000 ,08-09-2015,Alm. Salg,118,22034,4,1968,
 253,Rækkehus,Lindehegnet 29,2670, Greve,2270000 ,07-09-2015,Alm. Salg,108,21019,4,1999,-1%
 253,Rækkehus,Tyttebærkæret 41,2670, Greve,2545000 ,07-09-2015,Alm. Salg,140,18179,4,1977,-2%
 253,Villa,Bastebjerg 33,2690, Karlslunde,2750000 ,07-09-2015,Alm. Salg,144,19097,5,1965,
@@ -5607,7 +5592,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 253,Villa,Åtoftevænget 3,2670, Greve,1020000 ,05-08-2015,Alm. Salg,175,5829,5,2018,-15%
 253,Rækkehus,Blåhegnet 56,2670, Greve,1850000 ,04-08-2015,Alm. Salg,112,16518,4,1977,-3%
 253,Villa,Jerismosevej 38,2670, Greve,3750000 ,04-08-2015,Alm. Salg,142,26408,5,1882,-6%
-253,Villa,Mosebakken 62,2670, Greve,2100000 ,04-08-2015,Alm. Salg,198,10606,6,1962,-12%
 253,Villa,Blågårdsvænget 1,2670, Greve,2645000 ,04-08-2015,Alm. Salg,122,21680,4,1979,-4%
 253,Villa,Nørrevej 6,2690, Karlslunde,2420000 ,04-08-2015,Alm. Salg,142,17042,5,1966,
 253,Villa,Lisegårdsvænget 3,4030, Tune,1120000 ,04-08-2015,Alm. Salg,172,6512,4,2016,
@@ -5833,10 +5817,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 253,Villa,Blågårdsparken 28,2670, Greve,2300000 ,13-05-2015,Alm. Salg,133,17293,4,1978,
 253,Rækkehus,Olsbækhave 12,2670, Greve,2180000 ,12-05-2015,Alm. Salg,100,21800,4,1995,-3%
 253,Rækkehus,Agergårdshaven 65,2690, Karlslunde,2750000 ,12-05-2015,Alm. Salg,132,20833,4,2016,
-253,Rækkehus,Vesthegnet 13,2670, Greve,1995000 ,12-05-2015,Alm. Salg,112,17813,4,1976,
 253,Villa,Højdevej 27,2670, Greve,3250000 ,12-05-2015,Alm. Salg,156,20833,4,1968,
 253,Villa,Tavleager 19,2670, Greve,1250000 ,12-05-2015,Fam. Salg,153,8170,6,1968,
-253,Villa,Grønager 10,2670, Greve,1995000 ,12-05-2015,Alm. Salg,117,17051,4,1967,
 253,Villa,Birgitsvej 3,2670, Greve,2800000 ,12-05-2015,Alm. Salg,132,21212,5,1970,-5%
 253,Villa,Nordgårdsvej 99,4030, Tune,1950000 ,11-05-2015,Alm. Salg,125,15600,4,1974,3%
 253,Villa,Kløverager 9,2670, Greve,2850000 ,11-05-2015,Alm. Salg,122,23361,4,1968,
@@ -6213,9 +6195,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 253,Rækkehus,Søhøj 104,2690, Karlslunde,1390000 ,05-11-2014,Alm. Salg,128,10859,5,1977,
 253,Villa,Hedager 41,2670, Greve,3115000 ,05-11-2014,Alm. Salg,167,18653,6,1965,-3%
 253,Rækkehus,Rosenvangsvej 60,2670, Greve,400000 ,04-11-2014,Andet,125,3200,4,1959,
-253,Rækkehus,Gyvelkæden 5,2670, Greve,1800000 ,04-11-2014,Alm. Salg,107,16822,4,1967,-5%
 253,Villa,Hedager 56,2670, Greve,2500000 ,04-11-2014,Alm. Salg,171,14620,5,1969,-4%
-253,Villa,Knoldager 17,2670, Greve,1800000 ,04-11-2014,Alm. Salg,138,13043,4,1964,-5%
 253,Villa,Moserøjel 17,2670, Greve,2275000 ,04-11-2014,Alm. Salg,144,15799,4,1973,-1%
 253,Villa,Belsager 10,2670, Greve,2010000 ,03-11-2014,Alm. Salg,140,14357,5,1967,-6%
 253,Villa,Mosede Højvej 33,2670, Greve,4600000 ,03-11-2014,Alm. Salg,172,26744,4,2009,-8%
@@ -6490,9 +6470,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 253,Villa,Lundager 15,2670, Greve,3163000 ,19-05-2014,Andet,150,21087,5,1970,-4%
 253,Villa,Godsparken 4,2670, Greve,2340000 ,19-05-2014,Alm. Salg,226,10354,7,1969,-6%
 253,Villa,Vangeleddet 43,2670, Greve,3550000 ,19-05-2014,Alm. Salg,195,18205,7,1962,
-253,Rækkehus,Grønnegården 352,2670, Greve,1650000 ,18-05-2014,Alm. Salg,93,17742,4,1986,-3%
 253,Villa,Ved Skellet 22,2670, Greve,1950000 ,18-05-2014,Alm. Salg,201,9701,6,2015,-13%
-253,Villa,Belsager 62,2670, Greve,1650000 ,18-05-2014,Alm. Salg,106,15566,4,1965,
 253,Rækkehus,Rosenlyparken 145,2670, Greve,1475000 ,17-05-2014,Alm. Salg,120,12292,5,1972,
 253,Ejerlejlighed,Grønnegården 578B,2670, Greve,1325000 ,14-05-2014,Alm. Salg,69,19203,3,1986,
 253,Villa,Lykkesholm 42,2690, Karlslunde,2295000 ,14-05-2014,Alm. Salg,145,15828,4,1975,
@@ -10377,7 +10355,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 253,Villa,Storeholm 53,2670, Greve,3095000 ,09-08-2006,Alm. Salg,140,22107,5,1971,
 253,Rækkehus,Kildeagerhusene 25,2690, Karlslunde,2945000 ,08-08-2006,Alm. Salg,105,28048,4,2007,
 253,Rækkehus,Kildeagerhusene 9,2690, Karlslunde,2500000 ,07-08-2006,Alm. Salg,105,23810,4,2007,
-253,Villa,Kildeagerhusene 23,2690, Karlslunde,2945000 ,07-08-2006,Alm. Salg,105,28048,4,2007,
 253,Ejerlejlighed,Grønnegården 501A,2670, Greve,1984180 ,06-08-2006,Alm. Salg,71,27946,3,1986,
 253,Villa,Mønstedsvej 10,2670, Greve,3400000 ,06-08-2006,Alm. Salg,223,15247,6,1942,
 253,Rækkehus,Højvangen 16,2690, Karlslunde,3085000 ,05-08-2006,Alm. Salg,110,28045,5,2007,
@@ -10463,11 +10440,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 253,Rækkehus,Åtoftevænget 31,2670, Greve,2245000 ,19-06-2006,Alm. Salg,95,23632,4,2007,
 253,Rækkehus,Rosenlyparken 166,2670, Greve,2425000 ,18-06-2006,Alm. Salg,120,20208,5,1972,
 253,Rækkehus,Åtoftevænget 19,2670, Greve,2245000 ,18-06-2006,Alm. Salg,95,23632,4,2007,
-253,Rækkehus,Åtoftevænget 21,2670, Greve,1995000 ,18-06-2006,Alm. Salg,85,23471,2,2007,
 253,Rækkehus,Åtoftevænget 20,2670, Greve,2345000 ,18-06-2006,Alm. Salg,103,22767,4,2007,
 253,Rækkehus,Åtoftevænget 26,2670, Greve,2295000 ,18-06-2006,Alm. Salg,94,24415,4,2007,
 253,Rækkehus,Åtoftevænget 30,2670, Greve,1945000 ,18-06-2006,Alm. Salg,85,22882,3,2007,
-253,Ejerlejlighed,"Egelykkeparken 1, 2. tv",2670, Greve,1995000 ,18-06-2006,Alm. Salg,83,24036,3,2000,
 253,Villa,Lundevej 4,4030, Tune,2300000 ,18-06-2006,Alm. Salg,110,20909,4,1972,
 253,Villa,Nældebjerg Alle 2,2670, Greve,2470000 ,18-06-2006,Auktion,126,19603,5,1966,
 253,Rækkehus,Åtoftevænget 6,2670, Greve,2495000 ,17-06-2006,Alm. Salg,85,29353,3,2007,
@@ -10595,11 +10570,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 253,Villa,Ingesvej 6,2690, Karlslunde,1400000 ,03-05-2006,Andet,152,9211,5,1957,
 253,Rækkehus,Søagerparken 183,2670, Greve,2850000 ,02-05-2006,Alm. Salg,118,24153,4,1980,
 253,Rækkehus,Fresiahaven 22,2670, Greve,2250000 ,02-05-2006,Alm. Salg,99,22727,4,2006,
-253,Rækkehus,Fresiahaven 3,2670, Greve,2350000 ,02-05-2006,Alm. Salg,99,23737,4,2006,
 253,Rækkehus,Fresiahaven 9,2670, Greve,2195000 ,02-05-2006,Alm. Salg,99,22172,4,2006,
 253,Rækkehus,Fresiahaven 11,2670, Greve,2295000 ,02-05-2006,Alm. Salg,99,23182,4,2006,
 253,Villa,Årøjel 2,2670, Greve,2795000 ,02-05-2006,Alm. Salg,121,23099,5,1968,
-253,Villa,Fresiahaven 32,2670, Greve,2350000 ,02-05-2006,Alm. Salg,100,23500,4,2006,
 253,Ejerlejlighed,Egelykkeparken 15C,2670, Greve,1995000 ,01-05-2006,Alm. Salg,83,24036,4,2001,
 253,Villa,Rørager 1,2670, Greve,1675000 ,01-05-2006,Fam. Salg,179,9358,6,1900,
 253,Villa,Påskestien 5,2670, Greve,1400000 ,30-04-2006,Alm. Salg,151,9272,6,2009,
@@ -10609,7 +10582,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 253,Ejerlejlighed,"Bakkevolden 1, 3. th",2670, Greve,2095000 ,29-04-2006,Alm. Salg,57,36754,2,2004,
 253,Villa,Nordrøjel 9,2670, Greve,2695000 ,28-04-2006,Alm. Salg,127,21220,4,1969,
 253,Villa,Søndergade 2,4030, Tune,2350000 ,27-04-2006,Alm. Salg,125,18800,4,1907,
-253,Villa,Fresiahaven 30,2670, Greve,2395000 ,27-04-2006,Alm. Salg,100,23950,4,2006,
 253,Villa,Vibevej 2,2670, Greve,3195000 ,26-04-2006,Alm. Salg,213,15000,8,1963,
 253,Ejerlejlighed,"Søagerparken 1, 1. 10",2670, Greve,1345000 ,25-04-2006,Alm. Salg,52,25865,2,1972,
 253,Villa,Ahornvej 32,2690, Karlslunde,2745000 ,25-04-2006,Alm. Salg,136,20184,3,1961,
@@ -10839,8 +10811,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 253,Villa,Skovparken 3,2670, Greve,3350000 ,12-01-2006,Alm. Salg,155,21613,5,1954,
 253,Rækkehus,Ved Rævebakken 26,2670, Greve,2700000 ,11-01-2006,Alm. Salg,136,19853,5,1973,
 253,Rækkehus,Tinggårdsparken 64,4030, Tune,2100000 ,11-01-2006,Alm. Salg,88,23864,3,1988,
-253,Rækkehus,Vesthegnet 71,2670, Greve,2050000 ,11-01-2006,Alm. Salg,112,18304,4,1976,
-253,Ejerlejlighed,Grønnegården 647B,2670, Greve,2050000 ,11-01-2006,Alm. Salg,81,25309,4,1986,
 253,Ejerlejlighed,Egelykkeparken 10A,2670, Greve,1895000 ,11-01-2006,Alm. Salg,83,22831,4,2001,
 253,Ejerlejlighed,Egelykkeparken 25B,2670, Greve,1981000 ,11-01-2006,Alm. Salg,80,24763,4,2002,
 253,Ejerlejlighed,Egelykkeparken 26B,2670, Greve,2006504 ,11-01-2006,Alm. Salg,80,25081,4,2002,
@@ -11509,8 +11479,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 253,Villa,Lundemosen 50,2670, Greve,1995000 ,11-04-2005,Alm. Salg,144,13854,5,1972,
 253,Villa,Søen 25,2690, Karlslunde,2150000 ,11-04-2005,Alm. Salg,126,17063,5,1967,
 253,Villa,Fyrrelys Alle 7,2670, Greve,5495000 ,11-04-2005,Alm. Salg,378,14537,5,2009,
-253,Rækkehus,Blåbærlunden 28,2670, Greve,2300000 ,10-04-2005,Alm. Salg,140,16429,4,1976,
-253,Villa,Mosebakken 15,2670, Greve,2300000 ,10-04-2005,Alm. Salg,131,17557,6,1973,
 253,Villa,Jens Frobergsvej 2,2670, Greve,1650000 ,10-04-2005,Fam. Salg,236,6992,5,2020,
 253,Villa,Tinggårdslunden 30,4030, Tune,1895000 ,09-04-2005,Alm. Salg,111,17072,4,1985,
 253,Villa,Gråbynkevej 15,2670, Greve,2350000 ,08-04-2005,Alm. Salg,157,14968,7,1976,
@@ -12566,11 +12534,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 253,Ejerlejlighed,Egelykkeparken 18C,2670, Greve,1224000 ,10-02-2004,Alm. Salg,71,17239,3,2001,
 253,Ejerlejlighed,"Søagerparken 1, 1. 8",2670, Greve,910000 ,10-02-2004,Alm. Salg,52,17500,2,1972,
 253,Villa,Hellevej 5,2670, Greve,2375220 ,10-02-2004,Alm. Salg,215,11048,5,1967,
-253,Rækkehus,Søagerparken 22,2670, Greve,1750000 ,09-02-2004,Alm. Salg,136,12868,5,1973,
 253,Rækkehus,Byagerparken 81H,4030, Tune,1365000 ,09-02-2004,Alm. Salg,80,17063,3,2000,
 253,Villa,Dønnergårds Alle 129,2670, Greve,1375000 ,09-02-2004,Alm. Salg,112,12277,4,1977,
 253,Villa,Olsbækdal 35,2670, Greve,100067 ,09-02-2004,Alm. Salg,130,770,4,1996,
-253,Villa,Blågårdsvænget 35,2670, Greve,1750000 ,09-02-2004,Alm. Salg,133,13158,5,1979,
 253,Rækkehus,Morbærhegnet 24,2670, Greve,1280000 ,08-02-2004,Alm. Salg,69,18551,3,1988,
 253,Rækkehus,Lundegårdshegnet 90,4030, Tune,766000 ,08-02-2004,Alm. Salg,112,6839,5,1985,
 253,Rækkehus,Løvkærparken 59,4030, Tune,1899000 ,08-02-2004,Alm. Salg,130,14608,5,1974,
@@ -14083,9 +14049,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 253,Villa,Agerkrogen 2,2690, Karlslunde,1975000 ,16-12-2001,Alm. Salg,154,12825,6,1983,
 253,Villa,Ræveholmsvej 3,2690, Karlslunde,2290000 ,16-12-2001,Alm. Salg,202,11337,6,1987,
 253,Villa,Møllevej 5,2690, Karlslunde,975000 ,16-12-2001,Alm. Salg,79,12342,4,1870,
-253,Rækkehus,Morbærhegnet 37,2670, Greve,1350000 ,15-12-2001,Alm. Salg,82,16463,4,1988,
 253,Villa,Arnestien 8,4030, Tune,1895000 ,15-12-2001,Alm. Salg,203,9335,8,1973,
-253,Villa,Hellevej 2,2670, Greve,1350000 ,15-12-2001,Alm. Salg,103,13107,4,1962,
 253,Villa,Hartmannsvej 4,2690, Karlslunde,2000000 ,13-12-2001,Alm. Salg,151,13245,5,2003,
 253,Villa,Hinbjerg 5,2690, Karlslunde,1600000 ,12-12-2001,Alm. Salg,135,11852,5,1966,
 253,Villa,La Cours Vej 4,2670, Greve,1965000 ,11-12-2001,Alm. Salg,93,21129,3,1994,
@@ -17825,7 +17789,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 253,Villa,Østerbakken 87,4030, Tune,1259000 ,25-05-1997,Alm. Salg,147,8565,4,1974,
 253,Villa,Tinggårdshegnet 14,4030, Tune,1133000 ,25-05-1997,Alm. Salg,169,6704,6,1980,
 253,Villa,Nørrevej 18,2690, Karlslunde,1193000 ,25-05-1997,Alm. Salg,135,8837,5,1967,
-253,Villa,Gjersdalsvej 1,2690, Karlslunde,1400000 ,25-05-1997,Alm. Salg,80,17500,3,1900,
 253,Ejerlejlighed,Grønnegården 632A,2670, Greve,686000 ,24-05-1997,Alm. Salg,61,11246,2,1986,
 253,Villa,Solbakken 3,2670, Greve,1212563 ,24-05-1997,Alm. Salg,136,8916,4,1942,
 253,Villa,Birkedalen 6,2670, Greve,1895000 ,24-05-1997,Alm. Salg,165,11485,7,1976,
@@ -20538,8 +20501,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 253,Villa,Birkelyparken 128,2670, Greve,725000 ,24-04-1994,Alm. Salg,172,4215,6,1977,
 253,Villa,Lopholmen 14,2690, Karlslunde,115000 ,24-04-1994,Fam. Salg,166,693,7,1967,
 253,Rækkehus,Grønnegården 434,2670, Greve,325008 ,23-04-1994,Alm. Salg,96,3386,4,1986,
-253,Rækkehus,Grønnegården 224,2670, Greve,860000 ,23-04-1994,Alm. Salg,112,7679,4,1986,
-253,Villa,Ellevej 3,2670, Greve,860000 ,23-04-1994,Alm. Salg,105,8190,4,1960,
 253,Ejerlejlighed,Grønnegården 425,2670, Greve,450000 ,20-04-1994,Alm. Salg,61,7377,2,1984,
 253,Ejerlejlighed,Grønnegården 450,2670, Greve,542644 ,20-04-1994,Alm. Salg,69,7864,3,1984,
 253,Villa,Poppelvej 34,2670, Greve,514520 ,20-04-1994,Alm. Salg,88,5847,2,1963,

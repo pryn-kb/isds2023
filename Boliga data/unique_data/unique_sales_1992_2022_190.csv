@@ -1482,13 +1482,11 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 190,Rækkehus,Maglehøj 28,3520, Farum,3305000 ,18-11-2020,Alm. Salg,132,25038.0,6,1971,
 190,Ejerlejlighed,"Ryetvej 23, st. mf",3500, Værløse,1995000 ,18-11-2020,Alm. Salg,76,26250.0,3,1968,
 190,Villa,Mosegård Park 105,3500, Værløse,4250000 ,18-11-2020,Alm. Salg,152,27961.0,5,1969,-5%
-190,Rækkehus,Laanshøj Alle 85,3500, Værløse,3550000 ,17-11-2020,Alm. Salg,108,32870.0,4,2020,
 190,Rækkehus,Langdyssegårdsvej 34,3500, Værløse,3899000 ,17-11-2020,Alm. Salg,120,32492.0,4,2020,
 190,Rækkehus,Hasselhaven 8,3500, Værløse,2880000 ,17-11-2020,Fam. Salg,106,27170.0,4,2006,
 190,Rækkehus,Rørmosevej 12,3520, Farum,4200000 ,17-11-2020,Alm. Salg,133,31579.0,4,2006,
 190,Ejerlejlighed,"Bymidten 56, 2. l",3500, Værløse,1475000 ,17-11-2020,Alm. Salg,69,21377.0,3,1959,-8%
 190,Villa,Skandrups Alle 49,3500, Værløse,5870000 ,17-11-2020,Alm. Salg,106,55377.0,4,1940,0%
-190,Villa,Bygaden 13,3500, Værløse,3550000 ,17-11-2020,Alm. Salg,99,35859.0,2,1900,-11%
 190,Rækkehus,Sletten 6,3500, Værløse,5595000 ,16-11-2020,Alm. Salg,167,33503.0,5,2021,
 190,Rækkehus,Pilotvej 21,3500, Værløse,2589361 ,16-11-2020,Alm. Salg,58,44644.0,2,2022,
 190,Rækkehus,Officershusene 23,3500, Værløse,3006000 ,16-11-2020,Alm. Salg,127,23669.0,4,2021,
@@ -1863,9 +1861,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 190,Villa,Uglekæret 22,3520, Farum,600000 ,24-06-2020,Fam. Salg,143,4196.0,5,1970,
 190,Rækkehus,Pilotvej 45,3500, Værløse,4818847 ,23-06-2020,Alm. Salg,124,38862.0,5,2021,
 190,Rækkehus,Maglehøj 162,3520, Farum,3200000 ,23-06-2020,Alm. Salg,132,24242.0,6,1972,-3%
-190,Ejerlejlighed,"Ryttergårdsvej 36, st. th",3520, Farum,1750000 ,23-06-2020,Alm. Salg,75,23333.0,3,1963,
 190,Ejerlejlighed,Lyngholmpark 69,3520, Farum,2025000 ,23-06-2020,Alm. Salg,77,26299.0,3,1994,
-190,Ejerlejlighed,"Elmely 1, st. th",3520, Farum,1750000 ,23-06-2020,Alm. Salg,67,26119.0,2,1994,-3%
 190,Villa,Jomfrubakken 27,3500, Værløse,7300000 ,23-06-2020,Alm. Salg,217,33641.0,6,1969,-6%
 190,Rækkehus,Maglehøj 150,3520, Farum,3050000 ,22-06-2020,Alm. Salg,132,23106.0,6,1972,-1%
 190,Rækkehus,Østre Alle 37,3500, Værløse,4400000 ,22-06-2020,Alm. Salg,121,36364.0,4,2015,-6%
@@ -2973,12 +2969,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 190,Ejerlejlighed,"Garnisonsvej 26, 3",3520, Farum,3675000 ,14-10-2018,Alm. Salg,125,29400.0,4,2007,
 190,Villa,Gedevasevej 17,3520, Farum,5300000 ,14-10-2018,Alm. Salg,126,42063.0,3,1962,
 190,Villa,Birketoften 10,3500, Værløse,4350000 ,14-10-2018,Alm. Salg,150,29000.0,5,1972,-6%
-190,Rækkehus,Skovhuskrogen 27,3500, Værløse,4100000 ,11-10-2018,Alm. Salg,116,35345.0,4,2013,
 190,Rækkehus,Stabsvænget 11,3520, Farum,3305000 ,11-10-2018,Alm. Salg,142,23275.0,4,2011,0%
 190,Villa,Brunsøvej 21,3500, Værløse,2550000 ,11-10-2018,Alm. Salg,91,28022.0,4,1959,-15%
 190,Villa,Ryttervænget 38,3520, Farum,4210000 ,11-10-2018,Alm. Salg,196,21480.0,7,1961,-3%
 190,Villa,Hyldevænget 11,3520, Farum,4600000 ,11-10-2018,Alm. Salg,145,31724.0,4,1974,-2%
-190,Villa,Langkær Vænge 14,3500, Værløse,4100000 ,11-10-2018,Alm. Salg,158,25949.0,5,1967,-2%
 190,Villa,Højgårdsvej 13B,3520, Farum,1948666 ,10-10-2018,Andet,186,10477.0,4,2004,
 190,Ejerlejlighed,"Ryttergårdsvej 30, 3. th",3520, Farum,1655000 ,09-10-2018,Alm. Salg,75,22067.0,3,1963,-2%
 190,Rækkehus,Faldskærmsvej 46,3500, Værløse,3495000 ,08-10-2018,Alm. Salg,116,30129.0,4,2018,
@@ -3357,7 +3351,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 190,Rækkehus,Eskadronvænget 2,3520, Farum,2900000 ,11-03-2018,Alm. Salg,106,27358.0,5,2014,-2%
 190,Villa,Søndergårdsvej 69B,3500, Værløse,6400000 ,11-03-2018,Alm. Salg,181,35359.0,5,1935,
 190,Villa,Tingmosen 21,3500, Værløse,5300000 ,10-03-2018,Alm. Salg,143,37063.0,5,1995,
-190,Villa,Tårnet 8,3500, Værløse,1787125 ,10-03-2018,Alm. Salg,175,10212.0,5,2019,
 190,Rækkehus,Ryttervænget 43,3520, Farum,2850000 ,08-03-2018,Alm. Salg,121,23554.0,5,1969,-5%
 190,Villa,Lindevej 40,3500, Værløse,6200000 ,08-03-2018,Alm. Salg,144,43056.0,5,1986,-2%
 190,Villa,Lærketoften 23,3500, Værløse,2107000 ,07-03-2018,Andet,188,11207.0,4,1964,
@@ -3924,9 +3917,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 190,Rækkehus,Syvstjerne Vænge 16,3500, Værløse,3050000 ,03-06-2017,Alm. Salg,124,24597.0,4,1957,2%
 190,Villa,Rolighedsvej 33,3500, Værløse,4000000 ,03-06-2017,Fam. Salg,88,45455.0,3,1970,
 190,Ejerlejlighed,"Kompagnivej 1, 1. th",3520, Farum,4004275 ,01-06-2017,Alm. Salg,129,31041.0,3,2017,
-190,Ejerlejlighed,"Bistrupvej 198, 1",3460, Birkerød,4300000 ,31-05-2017,Alm. Salg,147,29252.0,3,1988,
 190,Ejerlejlighed,"Garnisonsvej 24, 2. th",3520, Farum,2320000 ,31-05-2017,Alm. Salg,98,23673.0,4,2007,-2%
-190,Villa,Bistrupvej 198,3460, Birkerød,4300000 ,31-05-2017,Alm. Salg,150,28667.0,6,1963,
 190,Villa,Rolighedsvej 8C,3500, Værløse,6000000 ,31-05-2017,Alm. Salg,160,37500.0,5,1989,-6%
 190,Villa,Toftegårdsvej 21,3520, Farum,3250000 ,31-05-2017,Alm. Salg,111,29279.0,3,1960,
 190,Rækkehus,Lillevangsvej 85,3520, Farum,2835000 ,30-05-2017,Alm. Salg,108,26250.0,3,2018,
@@ -4526,10 +4517,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 190,Rækkehus,Hasselhaven 7,3500, Værløse,3295000 ,06-07-2016,Alm. Salg,109,30229.0,4,2006,-3%
 190,Rækkehus,Maglehøj 160,3520, Farum,2800000 ,06-07-2016,Alm. Salg,174,16092.0,7,1972,-2%
 190,Rækkehus,Thyhyttevej 12,3500, Værløse,1700000 ,03-07-2016,Alm. Salg,96,17708.0,4,1961,-15%
-190,Ejerlejlighed,"Bistrupvej 198, 1",3460, Birkerød,550000 ,03-07-2016,Alm. Salg,147,3741.0,3,1988,
 190,Ejerlejlighed,"Pionervej 6, 1. 3",3520, Farum,2638381 ,03-07-2016,Alm. Salg,114,23144.0,3,2017,2%
 190,Ejerlejlighed,"Bymidten 63, 1. th",3500, Værløse,2800000 ,03-07-2016,Alm. Salg,88,31818.0,3,2009,
-190,Villa,Bistrupvej 198,3460, Birkerød,550000 ,03-07-2016,Alm. Salg,150,3667.0,6,1963,
 190,Villa,Ganløsevej 1,3520, Farum,2900000 ,03-07-2016,Alm. Salg,139,20863.0,5,1959,
 190,Rækkehus,Vestre Alle 34,3500, Værløse,3850000 ,30-06-2016,Alm. Salg,126,30556.0,4,1912,-4%
 190,Rækkehus,Eskadronvænget 1,3520, Farum,2750000 ,30-06-2016,Alm. Salg,106,25943.0,5,2015,
@@ -5429,8 +5418,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 190,Villa,Hvilebækvænge 19,3520, Farum,2247500 ,08-03-2015,Alm. Salg,180,12486.0,5,1995,
 190,Villa,Kassemosevej 6B,3520, Farum,2450000 ,08-03-2015,Alm. Salg,172,14244.0,5,1973,
 190,Rækkehus,Bøgehaven 90,3500, Værløse,4550000 ,07-03-2015,Alm. Salg,135,33704.0,6,2008,
-190,Ejerlejlighed,"Farum Hovedgade 63, 2",3520, Farum,2000000 ,05-03-2015,Alm. Salg,112,17857.0,4,1902,-6%
-190,Ejerlejlighed,"Garnisonsvej 37, 1. th",3520, Farum,2000000 ,05-03-2015,Alm. Salg,93,21505.0,2,2007,
 190,Villa,Solbakken 8,3520, Farum,3000000 ,05-03-2015,Alm. Salg,112,26786.0,4,1969,
 190,Rækkehus,Røsevangen 13,3520, Farum,2995000 ,04-03-2015,Alm. Salg,144,20799.0,6,1970,
 190,Rækkehus,Korsbjergvænge 64,3520, Farum,2900000 ,04-03-2015,Alm. Salg,130,22308.0,4,2009,-3%
@@ -5801,8 +5788,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 190,Ejerlejlighed,"Ryetvej 51, 2. mf",3500, Værløse,1450000 ,18-07-2014,Alm. Salg,99,14646.0,4,1968,-9%
 190,Rækkehus,Dyssevangen 47,3520, Farum,2885000 ,17-07-2014,Alm. Salg,125,23080.0,5,1967,-2%
 190,Villa,Søndersøvej 43,3500, Værløse,5350000 ,17-07-2014,Alm. Salg,222,24099.0,6,1973,
-190,Ejerlejlighed,"Ryetvej 41, st. th",3500, Værløse,870000 ,14-07-2014,Alm. Salg,63,13810.0,2,1968,-3%
-190,Ejerlejlighed,"Engstedet 3, st. 39",3500, Værløse,870000 ,14-07-2014,Alm. Salg,64,13594.0,2,1970,-3%
 190,Ejerlejlighed,"Bymidten 65, 1. th",3500, Værløse,1475000 ,14-07-2014,Alm. Salg,94,15691.0,3,2009,-36%
 190,Villa,Skovbovænget 31,3500, Værløse,5150000 ,14-07-2014,Alm. Salg,224,22991.0,9,1924,-11%
 190,Villa,Ny Vestergårdsvej 28,3500, Værløse,3325000 ,13-07-2014,Alm. Salg,140,23750.0,6,1967,-4%
@@ -7018,7 +7003,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 190,Rækkehus,Højbovænge 17,3500, Værløse,2650000 ,22-03-2012,Alm. Salg,123,21545.0,5,1964,-5%
 190,Villa,Engstedet 20,3500, Værløse,3300000 ,22-03-2012,Alm. Salg,221,14932.0,7,1966,-12%
 190,Villa,Knud Hjortøsvej 12,3500, Værløse,1000000 ,22-03-2012,Fam. Salg,125,8000.0,4,1918,
-190,Villa,Ballerupvej 70C,3500, Værløse,1000000 ,21-03-2012,Alm. Salg,154,6494.0,6,1947,
 190,Villa,Skolekrogen 34,3500, Værløse,3250000 ,21-03-2012,Alm. Salg,133,24436.0,4,1985,
 190,Villa,Birkevang 32,3500, Værløse,5500000 ,20-03-2012,Alm. Salg,157,35032.0,4,1985,
 190,Rækkehus,Kielshøj 72,3520, Farum,1450000 ,19-03-2012,Auktion,132,10985.0,6,1970,
@@ -7277,8 +7261,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 190,Rækkehus,Vestre Alle 58,3500, Værløse,3495000 ,11-07-2011,Alm. Salg,136,25699.0,5,1912,
 190,Ejerlejlighed,"Elmely 19, st. th",3520, Farum,1445000 ,11-07-2011,Alm. Salg,88,16420.0,3,1994,-3%
 190,Villa,Fensmarks Alle 18,3520, Farum,2075000 ,11-07-2011,Alm. Salg,75,27667.0,3,1940,-5%
-190,Ejerlejlighed,"Bistrupvej 198, 1",3460, Birkerød,5500000 ,10-07-2011,Fam. Salg,147,37415.0,3,1988,
-190,Villa,Bistrupvej 198,3460, Birkerød,5500000 ,10-07-2011,Fam. Salg,150,36667.0,6,1963,
 190,Villa,O B Muusvej 22,3520, Farum,1750000 ,09-07-2011,Fam. Salg,172,10174.0,6,2002,
 190,Villa,Birkegården 81,3500, Værløse,2840000 ,07-07-2011,Alm. Salg,120,23667.0,4,1977,-13%
 190,Rækkehus,Nøddehaven 28,3500, Værløse,3250000 ,05-07-2011,Alm. Salg,127,25591.0,4,2003,-6%
@@ -8309,7 +8291,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 190,Rækkehus,Ravnehusparken 10,3500, Værløse,2400000 ,10-05-2009,Alm. Salg,102,23529.0,4,1987,-8%
 190,Rækkehus,Højeloft Vænge 165,3500, Værløse,2890000 ,10-05-2009,Fam. Salg,148,19527.0,4,1971,
 190,Rækkehus,Korsbjergvænge 48,3520, Farum,2945000 ,10-05-2009,Alm. Salg,135,21815.0,4,2009,
-190,Rækkehus,Korsbjergvænge 74,3520, Farum,2800000 ,10-05-2009,Alm. Salg,135,20741.0,4,2009,
 190,Ejerlejlighed,"Engstedet 3, 2. 61",3500, Værløse,830000 ,10-05-2009,Alm. Salg,62,13387.0,2,1970,-8%
 190,Ejerlejlighed,"Ryetvej 45, 2. tv",3500, Værløse,1410000 ,10-05-2009,Alm. Salg,76,18553.0,3,1968,-12%
 190,Ejerlejlighed,"Lille Værløsevej 47, st. 1",3500, Værløse,2350000 ,10-05-2009,Alm. Salg,95,24737.0,3,2005,-11%
@@ -8319,7 +8300,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 190,Ejerlejlighed,"Paltholmvej 112, st. th",3520, Farum,1495000 ,10-05-2009,Alm. Salg,71,21056.0,2,2007,
 190,Ejerlejlighed,"Farum Hovedgade 82B, st. tv",3520, Farum,1135000 ,10-05-2009,Alm. Salg,76,14934.0,3,1970,-14%
 190,Villa,Gammel Hareskovvej 255,3500, Værløse,2320000 ,10-05-2009,Fam. Salg,198,11717.0,6,1959,
-190,Villa,Fyrrevænget 9,3520, Farum,2800000 ,10-05-2009,Alm. Salg,188,14894.0,4,2011,
 190,Rækkehus,Rønnebærhaven 23,3500, Værløse,2625000 ,07-05-2009,Alm. Salg,110,23864.0,4,2000,-8%
 190,Villa,Bringetoften 4,3500, Værløse,2675000 ,04-05-2009,Alm. Salg,153,17484.0,5,1978,-3%
 190,Villa,Jonstrupvangvej 32,3500, Værløse,2900000 ,04-05-2009,Alm. Salg,197,14721.0,4,1860,-17%
@@ -8399,9 +8379,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 190,Rækkehus,Farum Hovedgade 25F,3520, Farum,1825000 ,17-01-2009,Alm. Salg,83,21988.0,3,1980,-9%
 190,Villa,Syrenvænget 18,3520, Farum,1750000 ,17-01-2009,Alm. Salg,110,15909.0,4,1966,-43%
 190,Rækkehus,Vinkelvej 12B,3520, Farum,2840000 ,14-01-2009,Alm. Salg,127,22362.0,4,1979,
-190,Rækkehus,Stenten 7,3500, Værløse,3060000 ,14-01-2009,Fam. Salg,111,27568.0,4,1956,
 190,Ejerlejlighed,"Ryttergårdsvej 26, 1. th",3520, Farum,1050000 ,14-01-2009,Alm. Salg,75,14000.0,3,1963,-19%
-190,Villa,Kirke Værløsevej 69,3500, Værløse,3060000 ,14-01-2009,Fam. Salg,104,29423.0,4,1961,
 190,Villa,Birkevej 14,3500, Værløse,2575000 ,13-01-2009,Alm. Salg,276,9330.0,7,1968,
 190,Rækkehus,Rørmosevej 70,3520, Farum,2900000 ,11-01-2009,Alm. Salg,117,24786.0,4,2005,-3%
 190,Villa,Anyvej 2,3500, Værløse,3900000 ,09-01-2009,Alm. Salg,103,37864.0,4,1897,
@@ -8491,8 +8469,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 190,Villa,Skolekrogen 58B,3500, Værløse,2136850 ,16-09-2008,Fam. Salg,161,13272.0,5,1986,
 190,Rækkehus,Ravnehusparken 17,3500, Værløse,2000000 ,07-09-2008,Alm. Salg,61,32787.0,2,1987,-11%
 190,Rækkehus,Farum Hovedgade 74C,3520, Farum,2295000 ,07-09-2008,Alm. Salg,89,25787.0,3,2001,
-190,Rækkehus,Birkedalshusene 35,3500, Værløse,2700000 ,07-09-2008,Alm. Salg,119,22689.0,5,1965,-2%
-190,Ejerlejlighed,"Dalsø Park 19B, 1",3500, Værløse,2700000 ,07-09-2008,Alm. Salg,121,22314.0,3,1983,-10%
 190,Ejerlejlighed,"Ryetvej 59, 1. tv",3500, Værløse,1250000 ,07-09-2008,Alm. Salg,76,16447.0,3,1968,-14%
 190,Villa,Anyvej 13,3500, Værløse,3900000 ,07-09-2008,Alm. Salg,134,29104.0,6,1959,-10%
 190,Villa,Gartnerkrogen 28,3500, Værløse,1900000 ,07-09-2008,Andet,182,10440.0,7,1969,
@@ -8528,9 +8504,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 190,Rækkehus,Stenvadpark 26,3520, Farum,2500000 ,19-08-2008,Alm. Salg,117,21368.0,5,1981,-11%
 190,Ejerlejlighed,"Bymidten 75, 3. th",3500, Værløse,2480000 ,19-08-2008,Alm. Salg,90,27556.0,2,2009,-20%
 190,Villa,Klosterbakken 32,3500, Værløse,4000000 ,19-08-2008,Alm. Salg,129,31008.0,5,1963,-5%
-190,Rækkehus,Kielshøj 210,3520, Farum,2500000 ,18-08-2008,Alm. Salg,132,18939.0,6,1970,-6%
 190,Rækkehus,Korsbjergvænge 1,3520, Farum,3995000 ,18-08-2008,Alm. Salg,114,35044.0,4,2009,
-190,Ejerlejlighed,Duemosepark 44,3520, Farum,2500000 ,18-08-2008,Alm. Salg,104,24038.0,4,2007,-4%
 190,Villa,Højeloft Vænge 56,3500, Værløse,3500000 ,18-08-2008,Alm. Salg,196,17857.0,6,1968,-12%
 190,Ejerlejlighed,"Farum Hovedgade 82G, 1. th",3520, Farum,1650000 ,17-08-2008,Alm. Salg,77,21429.0,3,1970,
 190,Rækkehus,Bregnerød Byvej 4A,3520, Farum,2950000 ,16-08-2008,Alm. Salg,120,24583.0,5,2005,-11%
@@ -8544,10 +8518,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 190,Rækkehus,Mosegård Park 19,3500, Værløse,3547500 ,03-08-2008,Alm. Salg,130,27288.0,4,1976,-4%
 190,Rækkehus,Maglehøj 64,3520, Farum,568000 ,03-08-2008,Fam. Salg,132,4303.0,6,1971,
 190,Ejerlejlighed,"Ryetvej 29, 2. tv",3500, Værløse,2000000 ,03-08-2008,Alm. Salg,99,20202.0,4,1968,-9%
-190,Ejerlejlighed,"Garnisonsvej 18, 1. tv",3520, Farum,2300000 ,03-08-2008,Alm. Salg,102,22549.0,4,2007,-4%
 190,Ejerlejlighed,Duemosepark 21,3520, Farum,2800000 ,03-08-2008,Alm. Salg,104,26923.0,4,2007,
 190,Villa,Brudevænget 18,3520, Farum,3075000 ,03-08-2008,Alm. Salg,132,23295.0,5,1972,-8%
-190,Villa,Stavnsholtvej 30,3520, Farum,2300000 ,03-08-2008,Alm. Salg,109,21101.0,3,1960,-13%
 190,Villa,Søvej 17,3500, Værløse,2700000 ,23-07-2008,Alm. Salg,153,17647.0,5,1953,-23%
 190,Rækkehus,Gartnervænget 89,3520, Farum,3200000 ,22-07-2008,Alm. Salg,119,26891.0,5,1967,
 190,Villa,Vibevangen 2,3520, Farum,3225000 ,22-07-2008,Alm. Salg,148,21791.0,4,1968,-2%
@@ -8896,9 +8868,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 190,Ejerlejlighed,"Garnisonsvej 60, 1. tv",3520, Farum,2450000 ,17-10-2007,Alm. Salg,102,24020.0,4,2007,
 190,Villa,Dybedalsvej 31,3520, Farum,1020000 ,16-10-2007,Fam. Salg,138,7391.0,5,1972,
 190,Rækkehus,Korsbjerghave 36,3520, Farum,3900000 ,15-10-2007,Alm. Salg,133,29323.0,4,2007,
-190,Rækkehus,Maglehøj 172,3520, Farum,3200000 ,14-10-2007,Alm. Salg,164,19512.0,7,1972,-8%
 190,Ejerlejlighed,"Bymidten 56, 2. l",3500, Værløse,1148000 ,14-10-2007,Fam. Salg,69,16638.0,3,1959,
-190,Ejerlejlighed,"Garnisonsvej 29, 1. tv",3520, Farum,3200000 ,14-10-2007,Alm. Salg,134,23881.0,4,2007,-3%
 190,Rækkehus,Kastaniehaven 9,3500, Værløse,4100000 ,12-10-2007,Alm. Salg,118,34746.0,4,1998,
 190,Ejerlejlighed,"Nordtoftevej 2, 1. 12",3520, Farum,2250000 ,11-10-2007,Alm. Salg,93,24194.0,3,2003,-6%
 190,Ejerlejlighed,"Ryetvej 31, 2. tv",3500, Værløse,2150000 ,08-10-2007,Alm. Salg,96,22396.0,4,1968,-6%
@@ -9505,8 +9475,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 190,Villa,Lærketoften 17,3500, Værløse,5750000 ,23-07-2006,Alm. Salg,190,30263.0,6,1960,
 190,Ejerlejlighed,"Garnisonsvej 38, 2. tv",3520, Farum,1815000 ,20-07-2006,Alm. Salg,74,24527.0,2,2007,
 190,Ejerlejlighed,"Garnisonsvej 50, 1. th",3520, Farum,2795000 ,20-07-2006,Alm. Salg,102,27402.0,4,2007,
-190,Ejerlejlighed,"Bistrupvej 198, 1",3460, Birkerød,4350000 ,19-07-2006,Andet,147,29592.0,3,1988,
-190,Villa,Bistrupvej 198,3460, Birkerød,4350000 ,19-07-2006,Andet,150,29000.0,6,1963,
 190,Villa,Stavnsholt Gydevej 55,3460, Birkerød,3500000 ,19-07-2006,Andet,239,14644.0,5,2006,
 190,Ejerlejlighed,"Ryttergårdsvej 28, st. tv",3520, Farum,1850000 ,17-07-2006,Alm. Salg,75,24667.0,3,1963,
 190,Ejerlejlighed,"Hareskovhvilevej 8, st. 8",3500, Værløse,850000 ,16-07-2006,Alm. Salg,46,18478.0,1,1959,
@@ -9757,14 +9725,12 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 190,Ejerlejlighed,"Hareskovhvilevej 8, 2. 22",3500, Værløse,552500 ,10-03-2006,Fam. Salg,46,12011.0,1,1959,
 190,Ejerlejlighed,Garnisonsvej 40,3520, Farum,2184875 ,06-03-2006,Alm. Salg,91,24010.0,3,2007,
 190,Ejerlejlighed,"Garnisonsvej 28, st",3520, Farum,2339500 ,06-03-2006,Alm. Salg,91,25709.0,3,2007,
-190,Ejerlejlighed,"Hareskovhvilevej 8, st. 1",3500, Værløse,1150000 ,05-03-2006,Alm. Salg,62,18548.0,2,1959,
 190,Ejerlejlighed,"Bavnehøj Park 29, 1. tv",3500, Værløse,1658300 ,05-03-2006,Alm. Salg,93,17831.0,4,1968,
 190,Ejerlejlighed,"Bavnehøj Park 31, 1. tv",3500, Værløse,1662200 ,05-03-2006,Alm. Salg,93,17873.0,4,1968,
 190,Ejerlejlighed,"Bavnehøj Park 7, 1. 3",3500, Værløse,1450000 ,05-03-2006,Alm. Salg,75,19333.0,3,1969,
 190,Ejerlejlighed,"Bavnehøj Park 1, 1. 4",3500, Værløse,1714649 ,05-03-2006,Alm. Salg,107,16025.0,4,1970,
 190,Ejerlejlighed,"Bavnehøj Park 8, 1. 1",3500, Værløse,1774700 ,05-03-2006,Alm. Salg,115,15432.0,5,1969,
 190,Villa,Mølledalen 20,3500, Værløse,690000 ,05-03-2006,Fam. Salg,152,4539.0,4,1970,
-190,Villa,Poppel Alle 76,3500, Værløse,1150000 ,05-03-2006,Fam. Salg,97,11856.0,3,1955,
 190,Villa,Ballerupvej 39,3500, Værløse,1657500 ,05-03-2006,Fam. Salg,121,13698.0,6,1950,
 190,Villa,Birkegården 39,3500, Værløse,3800000 ,05-03-2006,Alm. Salg,133,28571.0,4,1976,
 190,Villa,Gustav Webersvej 15,3520, Farum,5500000 ,05-03-2006,Alm. Salg,210,23913.0,7,1972,
@@ -11196,8 +11162,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 190,Rækkehus,Mosegård Park 66,3500, Værløse,1920000 ,29-09-2003,Alm. Salg,130,14769.0,5,1967,
 190,Villa,Klaus Nars Vej 2,3520, Farum,1354479 ,29-09-2003,Andet,165,8209.0,5,1955,
 190,Villa,Bastholmen 14,3520, Farum,2133400 ,28-09-2003,Alm. Salg,138,15459.0,7,1965,
-190,Ejerlejlighed,Stavnsholt Gydevej 114,3460, Birkerød,2700000 ,26-09-2003,Fam. Salg,78,34615.0,3,1912,
-190,Villa,Stavnsholt Gydevej 114,3460, Birkerød,2700000 ,26-09-2003,Fam. Salg,226,11947.0,7,2008,
 190,Rækkehus,Hasselhaven 30,3500, Værløse,2447237 ,24-09-2003,Alm. Salg,126,19423.0,4,2004,
 190,Villa,Nordtoftevej 52,3520, Farum,2090000 ,24-09-2003,Alm. Salg,122,17131.0,5,1965,
 190,Villa,Birkegården 77,3500, Værløse,2400000 ,24-09-2003,Fam. Salg,149,16107.0,3,1977,
@@ -14070,8 +14034,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 190,Villa,Rytterkrogen 2,3520, Farum,1723140 ,02-01-1998,Alm. Salg,120,12764.0,5,1965,
 190,Rækkehus,Furesøgårdsvej 21,3520, Farum,1700842 ,01-01-1998,Alm. Salg,148,11492.0,5,1998,
 190,Ejerlejlighed,"Ryttergårdsvej 38, 2. th",3520, Farum,466120 ,29-12-1997,Fam. Salg,76,6133.0,2,1963,
-190,Ejerlejlighed,Gammelgårdsvej 73,3520, Farum,2200000 ,29-12-1997,Alm. Salg,78,28205.0,2,1925,
-190,Villa,Gammelgårdsvej 73,3520, Farum,2200000 ,29-12-1997,Alm. Salg,113,19469.0,3,1925,
 190,Villa,Skovbovænget 31,3500, Værløse,2121000 ,22-12-1997,Alm. Salg,224,9469.0,9,1924,
 190,Villa,Elmebakken 5,3520, Farum,1963400 ,22-12-1997,Alm. Salg,202,9720.0,6,2009,
 190,Rækkehus,Poppelhaven 1,3500, Værløse,1791000 ,21-12-1997,Alm. Salg,126,14214.0,4,1998,
@@ -15714,12 +15676,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 190,Rækkehus,Jonstruphøj 24,3500, Værløse,969000 ,23-11-1994,Alm. Salg,110,8809.0,4,1973,
 190,Villa,Birkegården 62,3500, Værløse,390000 ,22-11-1994,Alm. Salg,115,3391.0,4,1995,
 190,Rækkehus,Ravnehusparken 35,3500, Værløse,635000 ,20-11-1994,Alm. Salg,84,7560.0,3,1987,
-190,Ejerlejlighed,"Ryetvej 19, 2. mf",3500, Værløse,550000 ,20-11-1994,Alm. Salg,96,5729.0,4,1968,
 190,Ejerlejlighed,"Ryetvej 31, 2. tv",3500, Værløse,242920 ,20-11-1994,Fam. Salg,96,2530.0,4,1968,
 190,Ejerlejlighed,"Engstedet 3, st. 38",3500, Værløse,395000 ,20-11-1994,Alm. Salg,62,6371.0,2,1970,
 190,Villa,Farum Gydevej 35,3520, Farum,835682 ,20-11-1994,Alm. Salg,144,5803.0,6,1952,
 190,Villa,Bøgevej 5,3500, Værløse,520000 ,20-11-1994,Alm. Salg,128,4063.0,4,1995,
-190,Villa,Bøgevej 7,3500, Værløse,550000 ,20-11-1994,Alm. Salg,140,3929.0,5,1995,
 190,Villa,Klinthøj Alle 4,3500, Værløse,1640468 ,20-11-1994,Alm. Salg,227,7227.0,6,1976,
 190,Ejerlejlighed,"Ryttergårdsvej 22, 2. mf",3520, Farum,381000 ,18-11-1994,Alm. Salg,53,7189.0,2,1963,
 190,Villa,Smedegade 15C,3500, Værløse,1350000 ,18-11-1994,Alm. Salg,160,8438.0,5,1973,
@@ -16216,10 +16176,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 190,Rækkehus,Mosegård Park 32,3500, Værløse,895800 ,08-01-1994,Alm. Salg,130,6891.0,5,1966,
 190,Villa,Gammel Hareskovvej 277,3500, Værløse,1195302 ,06-01-1994,Alm. Salg,184,6496.0,7,1933,
 190,Rækkehus,Skråplanet 1,3500, Værløse,1195000 ,05-01-1994,Alm. Salg,156,7660.0,7,1974,
-190,Ejerlejlighed,"Gammel Hareskovvej 331, st. 1",3500, Værløse,1143009 ,04-01-1994,Auktion,93,12290.0,4,1900,
-190,Ejerlejlighed,"Gammel Hareskovvej 331, 1",3500, Værløse,1143009 ,04-01-1994,Auktion,125,9144.0,3,1900,
-190,Ejerlejlighed,"Skandrups Alle 2, st",3500, Værløse,1143009 ,04-01-1994,Auktion,62,13138.0,3,1900,
-190,Ejerlejlighed,"Skandrups Alle 2, 1",3500, Værløse,1143009 ,04-01-1994,Auktion,125,9144.0,3,1900,
 190,Ejerlejlighed,"Ryttergårdsvej 20, 2. 213",3520, Farum,474040 ,03-01-1994,Alm. Salg,82,5781.0,3,1965,
 190,Rækkehus,Klostergårdsvej 53,3500, Værløse,923000 ,02-01-1994,Alm. Salg,130,7100.0,5,1975,
 190,Villa,Birkegården 44,3500, Værløse,1274340 ,02-01-1994,Alm. Salg,169,7540.0,5,1977,

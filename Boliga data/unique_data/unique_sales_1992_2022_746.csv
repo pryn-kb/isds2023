@@ -50,10 +50,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Nørregade 17,8464, Galten,1900000 ,23-11-2022,Alm. Salg,130,14615,4,1968,-13%
 746,Rækkehus,Kildebjerg Bakkevej 70,8680, Ry,11013680 ,21-11-2022,Alm. Salg,113,97466,3,2022,
 746,Villa,Svanevej 3,8680, Ry,1657500 ,21-11-2022,Fam. Salg,171,9693,5,1968,
-746,Ejerlejlighed,"Adelgade 47, 2",8660, Skanderborg,7933285 ,20-11-2022,Alm. Salg,107,74143,4,1887,
-746,Ejerlejlighed,"Adelgade 47, 1. th",8660, Skanderborg,7933285 ,20-11-2022,Alm. Salg,95,83508,3,1887,
-746,Ejerlejlighed,"Adelgade 47, 1. tv",8660, Skanderborg,7933285 ,20-11-2022,Alm. Salg,61,130054,2,1887,
-746,Ejerlejlighed,Gasværksvej 8,8660, Skanderborg,7933285 ,20-11-2022,Alm. Salg,40,198332,2,1953,
 746,Villa,Vesterskovvej 19,8660, Skanderborg,4210000 ,20-11-2022,Alm. Salg,135,31185,5,1994,-4%
 746,Villa,Ildervej 3,8680, Ry,2600000 ,20-11-2022,Alm. Salg,105,24762,5,1959,-10%
 746,Villa,Kollens Møllevej 51,8464, Galten,1175000 ,20-11-2022,Alm. Salg,105,11190,2,1907,
@@ -62,9 +58,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Rækkehus,Stjerneparken 14,8660, Skanderborg,3300000 ,16-11-2022,Alm. Salg,106,31132,4,2002,-3%
 746,Villa,Frichsvej 40,8464, Galten,2050000 ,16-11-2022,Alm. Salg,150,13667,6,1975,-4%
 746,Villa,Jens Martin Knudsens Vej 11,8670, Låsby,1904185 ,16-11-2022,Andet,182,10463,6,2008,
-746,Rækkehus,Frydenlund 5,8660, Skanderborg,2250000 ,15-11-2022,Alm. Salg,86,26163,3,1996,
 746,Rækkehus,Pebbelgården 13,8464, Galten,1998000 ,15-11-2022,Alm. Salg,90,22200,3,2006,
-746,Villa,Kærvej 18,8660, Skanderborg,2250000 ,15-11-2022,Alm. Salg,122,18443,4,1974,-2%
 746,Rækkehus,Hvedemarken 18,8362, Hørning,1715000 ,14-11-2022,Alm. Salg,134,12799,4,1977,
 746,Villa,Klostervej 76,8680, Ry,7000000 ,14-11-2022,Alm. Salg,122,57377,5,1920,-20%
 746,Villa,Peders Toft 23,8362, Hørning,2400000 ,14-11-2022,Alm. Salg,127,18898,4,1986,-11%
@@ -145,7 +139,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Skovvej 5,8660, Skanderborg,2300000 ,02-10-2022,Alm. Salg,123,18699,4,1960,-10%
 746,Rækkehus,Lupinvænget 26,8362, Hørning,2100000 ,29-09-2022,Alm. Salg,119,17647,4,1985,
 746,Villa,Hylke Møllevej 27A,8660, Skanderborg,2650000 ,27-09-2022,Alm. Salg,146,18151,5,2008,-2%
-746,Villa,Horsensvej 30,8660, Skanderborg,4000000 ,26-09-2022,Alm. Salg,140,28571,5,1985,
 746,Villa,Skovlundsvej 10,8362, Hørning,2299500 ,26-09-2022,Fam. Salg,175,13140,5,1998,
 746,Rækkehus,Granhøjen 170,8660, Skanderborg,1850000 ,25-09-2022,Alm. Salg,99,18687,4,1984,-14%
 746,Villa,Skrænten 5,8464, Galten,4150000 ,25-09-2022,Alm. Salg,230,18043,6,1985,-6%
@@ -171,8 +164,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Emborgvej 3,8680, Ry,3650000 ,13-09-2022,Alm. Salg,146,25000,7,1939,-8%
 746,Villa,Ny Stillingvej 1,8660, Skanderborg,871250 ,11-09-2022,Fam. Salg,304,2866,8,1935,
 746,Villa,Højlandsvænget 8,8660, Skanderborg,2380000 ,11-09-2022,Alm. Salg,155,15355,5,2001,-5%
-746,Rækkehus,Kildeparken 111,8660, Skanderborg,2150000 ,08-09-2022,Alm. Salg,102,21078,4,1986,-2%
-746,Villa,Solvænget 13,8660, Skanderborg,2150000 ,08-09-2022,Fam. Salg,185,11622,6,1967,
 746,Rækkehus,Kildebjerg Bakkevej 28,8680, Ry,4400000 ,07-09-2022,Alm. Salg,154,28571,3,2022,
 746,Rækkehus,Blomsterparken 73A,8464, Galten,2600000 ,05-09-2022,Alm. Salg,120,21667,4,2018,-4%
 746,Ejerlejlighed,"Banegårdsvej 2, st",8660, Skanderborg,1475000 ,05-09-2022,Alm. Salg,95,15526,3,2003,-18%
@@ -320,9 +311,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Thorsvej 10,8680, Ry,2625000 ,22-06-2022,Alm. Salg,91,28846,4,1961,
 746,Villa,Skovsgårdsvej 12,8362, Hørning,4375000 ,22-06-2022,Alm. Salg,154,28409,5,2006,-2%
 746,Rækkehus,HC Ørsteds Alle 11,8464, Galten,3298000 ,21-06-2022,Alm. Salg,130,25369,4,2012,
-746,Ejerlejlighed,Søndergade 2,8670, Låsby,2025000 ,21-06-2022,Alm. Salg,70,28929,2,1902,-19%
-746,Ejerlejlighed,Gl Silkeborgvej 1A,8670, Låsby,2025000 ,21-06-2022,Alm. Salg,54,37500,2,1902,-19%
-746,Ejerlejlighed,"Gl Silkeborgvej 1, 1",8670, Låsby,2025000 ,21-06-2022,Alm. Salg,80,25313,3,1902,-19%
 746,Villa,Gl Stillingvej 2,8660, Skanderborg,2700000 ,21-06-2022,Alm. Salg,234,11538,6,2008,-4%
 746,Villa,Siim Bygade 139A,8680, Ry,4840000 ,21-06-2022,Alm. Salg,166,29157,5,2007,1%
 746,Rækkehus,Prins Christians Vænge 213,8660, Skanderborg,2525000 ,20-06-2022,Fam. Salg,106,23821,4,2009,
@@ -468,9 +456,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Søndergade 22A,8464, Galten,2145000 ,03-05-2022,Alm. Salg,110,19500,3,1966,
 746,Villa,Bjertrupvej 25,8362, Hørning,2650000 ,03-05-2022,Alm. Salg,128,20703,5,1968,-5%
 746,Villa,Alkenvej 24,8660, Skanderborg,2998000 ,03-05-2022,Alm. Salg,236,12703,5,1875,
-746,Ejerlejlighed,"Banegårdsvej 9A, 1",8660, Skanderborg,5500000 ,01-05-2022,Alm. Salg,84,65476,2,1862,
 746,Villa,Hirsevænget 5,8362, Hørning,2720000 ,01-05-2022,Alm. Salg,144,18889,4,1978,-4%
-746,Villa,Banegårdsvej 9B,8660, Skanderborg,5500000 ,01-05-2022,Alm. Salg,66,83333,2,1978,
 746,Villa,Skovbrynet 28,8670, Låsby,1695000 ,01-05-2022,Alm. Salg,137,12372,5,1975,
 746,Ejerlejlighed,"Engvej 7, 1",8660, Skanderborg,1925000 ,29-04-2022,Alm. Salg,91,21154,3,1895,
 746,Villa,Damtoften 24,8660, Skanderborg,1700000 ,29-04-2022,Alm. Salg,192,8854,7,1924,-8%
@@ -559,17 +545,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Ellens Høj 14,8464, Galten,4298000 ,06-04-2022,Alm. Salg,165,26048,5,2020,
 746,Rækkehus,Østergårds Alle 293,8362, Hørning,3280000 ,05-04-2022,Alm. Salg,140,23429,4,2017,-1%
 746,Rækkehus,Vessøvej 39,8680, Ry,2477000 ,04-04-2022,Alm. Salg,99,25020,3,2008,
-746,Ejerlejlighed,"Adelgade 48, 1. th",8660, Skanderborg,8925000 ,03-04-2022,Fam. Salg,80,111563,2,1964,
-746,Ejerlejlighed,"Adelgade 48, 2. th",8660, Skanderborg,8925000 ,03-04-2022,Fam. Salg,72,123958,2,1964,
-746,Ejerlejlighed,"Adelgade 48, 2. tv",8660, Skanderborg,8925000 ,03-04-2022,Fam. Salg,111,80405,5,1964,
-746,Ejerlejlighed,"Adelgade 48, 1. tv",8660, Skanderborg,8925000 ,03-04-2022,Fam. Salg,147,60714,4,1964,
-746,Ejerlejlighed,"Asylgade 26, st. 2",8660, Skanderborg,8925000 ,03-04-2022,Fam. Salg,57,156579,2,1964,
-746,Ejerlejlighed,"Asylgade 26, st. 1",8660, Skanderborg,8925000 ,03-04-2022,Fam. Salg,60,148750,2,1964,
-746,Ejerlejlighed,"Asylgade 26, st. 3",8660, Skanderborg,8925000 ,03-04-2022,Fam. Salg,57,156579,2,1964,
-746,Ejerlejlighed,"Asylgade 26, 1. mf",8660, Skanderborg,8925000 ,03-04-2022,Fam. Salg,34,262500,1,1964,
-746,Ejerlejlighed,"Asylgade 26, 1. th",8660, Skanderborg,8925000 ,03-04-2022,Fam. Salg,85,105000,2,1964,
-746,Ejerlejlighed,"Asylgade 26, st. 4",8660, Skanderborg,8925000 ,03-04-2022,Fam. Salg,58,153879,2,1964,
-746,Ejerlejlighed,"Asylgade 26, 1. tv",8660, Skanderborg,8925000 ,03-04-2022,Fam. Salg,35,255000,1,1964,
 746,Villa,Heimdalsvej 8,8680, Ry,3568000 ,03-04-2022,Alm. Salg,147,24272,6,1969,
 746,Villa,Vestergade 66,8660, Skanderborg,6800000 ,03-04-2022,Alm. Salg,132,51515,4,1924,-7%
 746,Villa,Einars Lykke 8,8464, Galten,5200000 ,03-04-2022,Alm. Salg,175,29714,5,2018,
@@ -637,10 +612,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Gl Virringvej 1,8660, Skanderborg,1725000 ,13-03-2022,Alm. Salg,63,27381,2,1952,
 746,Villa,Gyden 11,8680, Ry,1900000 ,13-03-2022,Alm. Salg,115,16522,4,1926,
 746,Villa,Rosenvænget 20,8362, Hørning,3750000 ,11-03-2022,Alm. Salg,155,24194,6,1964,-1%
-746,Ejerlejlighed,"Adelgade 47, 2",8660, Skanderborg,7650000 ,10-03-2022,Alm. Salg,107,71495,4,1887,
-746,Ejerlejlighed,"Adelgade 47, 1. th",8660, Skanderborg,7650000 ,10-03-2022,Alm. Salg,95,80526,3,1887,
-746,Ejerlejlighed,"Adelgade 47, 1. tv",8660, Skanderborg,7650000 ,10-03-2022,Alm. Salg,61,125410,2,1887,
-746,Ejerlejlighed,Gasværksvej 8,8660, Skanderborg,7650000 ,10-03-2022,Alm. Salg,40,191250,2,1953,
 746,Ejerlejlighed,"Adelgade 43, 3. tv",8660, Skanderborg,3489000 ,10-03-2022,Alm. Salg,117,29821,3,2007,
 746,Villa,Solvænget 17,8660, Skanderborg,3600000 ,10-03-2022,Alm. Salg,152,23684,6,1970,-1%
 746,Villa,Tønningsletvej 11,8680, Ry,2812500 ,10-03-2022,Alm. Salg,192,14648,8,1943,
@@ -739,12 +710,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Rækkehus,Frejasvej 3B,8680, Ry,1861478 ,14-02-2022,Fam. Salg,93,20016,4,1989,
 746,Ejerlejlighed,"Adelgade 44, 5. th",8660, Skanderborg,2375000 ,14-02-2022,Alm. Salg,204,11642,5,2021,
 746,Villa,Lodbrogsvej 3,8660, Skanderborg,3495000 ,14-02-2022,Alm. Salg,140,24964,4,1987,
-746,Villa,Adelgade 112A,8660, Skanderborg,11750000 ,14-02-2022,Alm. Salg,141,83333,5,1931,
 746,Villa,Stilling Byvej 16,8660, Skanderborg,2950000 ,14-02-2022,Alm. Salg,156,18910,5,1923,
 746,Villa,Blegsø Banke 62,8660, Skanderborg,285000 ,14-02-2022,Andet,151,1887,4,2022,-91%
 746,Rækkehus,Rypevej 8,8362, Hørning,1425000 ,13-02-2022,Alm. Salg,110,12955,4,1975,-11%
 746,Rækkehus,Bækgårdsvej 4,8660, Skanderborg,1295000 ,13-02-2022,Alm. Salg,141,9184,3,1827,
-746,Villa,Dørupvej 2B,8362, Hørning,6500000 ,13-02-2022,Alm. Salg,78,83333,2,1970,
 746,Villa,Skovbygårdsvej 9,8464, Galten,3545000 ,12-02-2022,Alm. Salg,134,26455,4,2014,
 746,Villa,Sanatorievej 16B,8680, Ry,9800000 ,11-02-2022,Alm. Salg,259,37838,6,2001,-2%
 746,Rækkehus,Grumstrupvej 4A,8660, Skanderborg,6600000 ,10-02-2022,Fam. Salg,107,61682,3,1885,
@@ -928,7 +897,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Rækkehus,Kildebjerg Bakkevej 54,8680, Ry,2844417 ,08-12-2021,Alm. Salg,107,26583,4,2022,
 746,Villa,Skovkanten 19,8660, Skanderborg,6700000 ,08-12-2021,Alm. Salg,209,32057,5,2002,-4%
 746,Villa,Vestergårds Alle 88,8362, Hørning,4550000 ,08-12-2021,Alm. Salg,179,25419,5,2011,-2%
-746,Rækkehus,Århusvej 17C,8660, Skanderborg,3400000 ,07-12-2021,Alm. Salg,52,65385,1,1900,
 746,Ejerlejlighed,"Skolebakken 17, 2. th",8464, Galten,920000 ,07-12-2021,Alm. Salg,60,15333,2,1969,-6%
 746,Villa,Thorsvej 23,8464, Galten,1500000 ,07-12-2021,Alm. Salg,172,8721,7,1975,
 746,Ejerlejlighed,"Eskebækparken 18, st. mf",8660, Skanderborg,440000 ,06-12-2021,Alm. Salg,38,11579,1,1968,
@@ -1033,8 +1001,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Vroldgade 7B,8660, Skanderborg,3125000 ,03-11-2021,Alm. Salg,158,19778,6,2007,-1%
 746,Villa,Odinsvej 9,8464, Galten,2200000 ,02-11-2021,Alm. Salg,134,16418,5,1974,-2%
 746,Villa,Nyvej 29,8680, Ry,3410000 ,02-11-2021,Alm. Salg,181,18840,6,1965,7%
-746,Ejerlejlighed,"Adelgade 43, 2. th",8660, Skanderborg,3998000 ,01-11-2021,Alm. Salg,157,25465,4,2007,
-746,Villa,Blishønedalen 26,8660, Skanderborg,3998000 ,01-11-2021,Alm. Salg,145,27572,5,2015,
 746,Rækkehus,Vroldgade 3,8660, Skanderborg,2998000 ,31-10-2021,Alm. Salg,153,19595,5,1877,
 746,Villa,Strungesvej 10,8680, Ry,2900000 ,31-10-2021,Alm. Salg,117,24786,3,1956,-3%
 746,Villa,Ustrupvej 13,8660, Skanderborg,1550000 ,31-10-2021,Alm. Salg,128,12109,5,1904,-3%
@@ -1611,7 +1577,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Rimmersvej 40,8680, Ry,2450000 ,14-05-2021,Alm. Salg,129,18992,5,1989,-2%
 746,Rækkehus,Brunhøj 23A,8362, Hørning,2550000 ,11-05-2021,Alm. Salg,112,22768,4,2000,-4%
 746,Villa,Århusvej 39,8660, Skanderborg,2900000 ,11-05-2021,Alm. Salg,181,16022,6,1923,-3%
-746,Villa,Kirkebakken 7,8660, Skanderborg,6025000 ,11-05-2021,Alm. Salg,66,91288,2,1920,
 746,Villa,Båstrupvej 4,8660, Skanderborg,1850000 ,11-05-2021,Alm. Salg,111,16667,2,1848,-7%
 746,Villa,Samsøvej 17,8464, Galten,2298000 ,11-05-2021,Alm. Salg,115,19983,4,1976,
 746,Villa,Græsballe 15,8660, Skanderborg,1698000 ,11-05-2021,Alm. Salg,199,8533,6,1971,
@@ -1823,7 +1788,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Rækkehus,Rye Mølle Søvej 5,8680, Ry,4295000 ,25-03-2021,Alm. Salg,157,27357,4,2020,
 746,Rækkehus,Ellens Høj 37,8464, Galten,3004000 ,25-03-2021,Alm. Salg,130,23108,6,2019,0%
 746,Villa,Hylkevej 72,8660, Skanderborg,750000 ,25-03-2021,Alm. Salg,195,3846,4,1966,
-746,Villa,Banegårdsvej 19A,8660, Skanderborg,7750000 ,25-03-2021,Alm. Salg,129,60078,4,1976,
 746,Villa,Solvænget 1,8660, Skanderborg,4198000 ,25-03-2021,Alm. Salg,217,19346,7,1964,
 746,Villa,Almuevej 7,8660, Skanderborg,4395000 ,25-03-2021,Alm. Salg,241,18237,9,2000,
 746,Villa,Præstevejen 7C,8660, Skanderborg,22670000 ,25-03-2021,Alm. Salg,140,161929,4,1985,
@@ -1865,11 +1829,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Vestre Skolevej 10,8464, Galten,1635000 ,21-03-2021,Alm. Salg,125,13080,4,1961,-4%
 746,Villa,Storringvej 7,8464, Galten,2200000 ,21-03-2021,Alm. Salg,123,17886,4,1972,-4%
 746,Rækkehus,Prins Christians Vænge 111,8660, Skanderborg,2745000 ,20-03-2021,Alm. Salg,108,25417,4,2013,
-746,Ejerlejlighed,"Skjørringvej 1, 1. th",8464, Galten,3200000 ,20-03-2021,Alm. Salg,69,46377,3,1900,
-746,Ejerlejlighed,"Skjørringvej 1, 1. tv",8464, Galten,3200000 ,20-03-2021,Alm. Salg,89,35955,2,1900,
-746,Ejerlejlighed,"Skjørringvej 1, st",8464, Galten,3200000 ,20-03-2021,Alm. Salg,92,34783,3,1900,
-746,Ejerlejlighed,"Nørregade 37, 1. tv",8464, Galten,3200000 ,20-03-2021,Alm. Salg,54,59259,2,1900,
-746,Ejerlejlighed,"Nørregade 37, st. tv",8464, Galten,3200000 ,20-03-2021,Alm. Salg,60,53333,2,1900,
 746,Villa,Nyvangsvej 8,8362, Hørning,2901000 ,20-03-2021,Alm. Salg,157,18478,5,1968,4%
 746,Villa,Bøgevej 32,8680, Ry,4775000 ,20-03-2021,Alm. Salg,164,29116,5,1923,-4%
 746,Villa,Allegade 12,8362, Hørning,1525000 ,20-03-2021,Alm. Salg,165,9242,7,1965,-5%
@@ -2183,7 +2142,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Rækkehus,Ellens Høj 1,8464, Galten,2645000 ,17-01-2021,Alm. Salg,115,23000,3,2019,
 746,Rækkehus,Fasanvej 3,8362, Hørning,700000 ,17-01-2021,Alm. Salg,110,6364,4,1974,
 746,Rækkehus,Lærkevej 7,8362, Hørning,1275000 ,17-01-2021,Alm. Salg,134,9515,4,1974,
-746,Ejerlejlighed,Pebbelgården 10C,8464, Galten,4700000 ,17-01-2021,Alm. Salg,150,31333,5,1881,
 746,Villa,Bjedstrupvej 21,8660, Skanderborg,3300000 ,17-01-2021,Alm. Salg,368,8967,9,1848,
 746,Villa,Rosenvænget 42,8362, Hørning,2490000 ,17-01-2021,Alm. Salg,154,16169,5,1968,-2%
 746,Villa,Skovvej 4,8670, Låsby,1200000 ,17-01-2021,Alm. Salg,105,11429,4,1973,-11%
@@ -2298,7 +2256,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Mossøvej 5A,8660, Skanderborg,1700000 ,13-12-2020,Alm. Salg,236,7203,9,1966,-5%
 746,Villa,Niels Bohrs Alle 9,8464, Galten,3375000 ,13-12-2020,Alm. Salg,144,23438,6,2004,-5%
 746,Villa,Admiraltoften 31,8660, Skanderborg,1800000 ,13-12-2020,Alm. Salg,170,10588,5,2021,
-746,Villa,Flensted Byvej 3,8670, Låsby,4700000 ,13-12-2020,Alm. Salg,138,34058,6,2006,
 746,Villa,Bavnevænget 14,8660, Skanderborg,2670000 ,11-12-2020,Alm. Salg,167,15988,6,2005,-1%
 746,Rækkehus,Prins Christians Vænge 109,8660, Skanderborg,2975000 ,10-12-2020,Alm. Salg,126,23611,5,2013,-4%
 746,Villa,Akacievej 11,8680, Ry,2145000 ,10-12-2020,Alm. Salg,102,21029,4,1961,
@@ -2329,10 +2286,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Skrænten 3,8362, Hørning,4212500 ,06-12-2020,Alm. Salg,176,23935,5,1975,-2%
 746,Rækkehus,Søbakken 17,8660, Skanderborg,3199000 ,05-12-2020,Alm. Salg,121,26438,4,1986,
 746,Ejerlejlighed,"Adelgade 37A, 1. th",8660, Skanderborg,1298000 ,05-12-2020,Alm. Salg,62,20935,2,1900,
-746,Ejerlejlighed,"Brohaven 2, 1",8362, Hørning,4400000 ,05-12-2020,Alm. Salg,63,69841,2,1930,
-746,Ejerlejlighed,"Brohaven 2, st",8362, Hørning,4400000 ,05-12-2020,Alm. Salg,69,63768,2,1930,
-746,Ejerlejlighed,"Stationsvej 13, 1",8362, Hørning,4400000 ,05-12-2020,Alm. Salg,74,59459,2,1930,
-746,Ejerlejlighed,"Stationsvej 13, st",8362, Hørning,4400000 ,05-12-2020,Alm. Salg,92,47826,3,1930,
 746,Villa,Vestergade 34,8464, Galten,2025000 ,05-12-2020,Alm. Salg,116,17457,4,1978,-3%
 746,Villa,Møllekæret 12,8362, Hørning,3145000 ,05-12-2020,Alm. Salg,147,21395,5,1977,-2%
 746,Villa,Sigkær Vænge 9,8660, Skanderborg,4017500 ,05-12-2020,Alm. Salg,150,26783,5,2022,
@@ -2485,7 +2438,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Ejerlejlighed,"Adelgade 1, 2",8660, Skanderborg,3250000 ,29-10-2020,Alm. Salg,126,25794,4,1922,-1%
 746,Villa,Gammel Skolevej 31,8660, Skanderborg,3408000 ,29-10-2020,Alm. Salg,168,20286,5,1998,-3%
 746,Villa,Birkevænget 9,8362, Hørning,2500000 ,29-10-2020,Alm. Salg,150,16667,6,1967,-7%
-746,Villa,Århusvej 220B,8464, Galten,1650000 ,29-10-2020,Alm. Salg,55,30000,2,1933,
 746,Villa,Søballevej 2,8464, Galten,1445000 ,29-10-2020,Alm. Salg,126,11468,5,1827,-3%
 746,Villa,Nørregårds Alle 4,8362, Hørning,4925000 ,29-10-2020,Alm. Salg,187,26337,6,2016,-1%
 746,Ejerlejlighed,"Krøyer Kielbergs Vej 7B, st. tv",8660, Skanderborg,1525000 ,28-10-2020,Alm. Salg,77,19805,2,1945,-5%
@@ -3219,12 +3171,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Ejerlejlighed,"Rådhuspladsen 5, 1. 2",8362, Hørning,2248000 ,20-04-2020,Alm. Salg,88,25545,3,2020,
 746,Villa,Sønder Alle 9,8362, Hørning,2050000 ,20-04-2020,Alm. Salg,165,12424,5,1970,-1%
 746,Villa,Gl Århusvej 17,8670, Låsby,2500000 ,20-04-2020,Alm. Salg,278,8993,9,2007,
-746,Ejerlejlighed,"Bodalsvej 1, 1. th",8680, Ry,7250000 ,19-04-2020,Alm. Salg,74,97973,4,1939,
-746,Ejerlejlighed,"Bodalsvej 1, 1. tv",8680, Ry,7250000 ,19-04-2020,Alm. Salg,99,73232,2,1939,
-746,Ejerlejlighed,"Bodalsvej 1, 2. th",8680, Ry,7250000 ,19-04-2020,Alm. Salg,56,129464,3,1939,
-746,Ejerlejlighed,"Bodalsvej 1, 2. tv",8680, Ry,7250000 ,19-04-2020,Alm. Salg,72,100694,3,1939,
-746,Ejerlejlighed,"Skanderborgvej 6, 1",8680, Ry,7250000 ,19-04-2020,Alm. Salg,86,84302,3,1939,
-746,Ejerlejlighed,"Skanderborgvej 6, 2",8680, Ry,7250000 ,19-04-2020,Alm. Salg,74,97973,3,1939,
 746,Ejerlejlighed,"Adelgade 44, 5. th",8660, Skanderborg,8498000 ,19-04-2020,Alm. Salg,204,41657,5,2021,
 746,Villa,Vesterskovvej 7,8660, Skanderborg,3228000 ,19-04-2020,Alm. Salg,196,16469,6,2022,
 746,Villa,Østerbro 8,8464, Galten,675000 ,19-04-2020,Alm. Salg,97,5533,5,1900,
@@ -3492,7 +3438,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Siimvej 36,8680, Ry,1262500 ,29-01-2020,Alm. Salg,108,11690,4,1964,
 746,Villa,Irisvænget 6,8362, Hørning,3650000 ,29-01-2020,Alm. Salg,262,13931,6,1972,-3%
 746,Villa,Vestergade 23,8464, Galten,1700000 ,29-01-2020,Alm. Salg,96,17708,4,1968,-10%
-746,Ejerlejlighed,"Klostervej 14, 1",8680, Ry,2722727 ,28-01-2020,Alm. Salg,128,21271,5,1890,
 746,Villa,Kærvej 25,8660, Skanderborg,2895000 ,28-01-2020,Alm. Salg,199,14548,7,1976,
 746,Villa,Vessø Lund 39,8680, Ry,3634000 ,28-01-2020,Alm. Salg,171,21251,6,2021,
 746,Rækkehus,Egevej 29,8680, Ry,2727500 ,27-01-2020,Alm. Salg,125,21820,4,1979,1%
@@ -3509,11 +3454,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Rækkehus,Harevej 20B,8660, Skanderborg,1700000 ,24-01-2020,Alm. Salg,76,22368,3,1996,-5%
 746,Villa,Bakkevej 11,8660, Skanderborg,1905000 ,23-01-2020,Alm. Salg,94,20266,4,1945,-5%
 746,Rækkehus,Østergårds Alle 123,8362, Hørning,2387358 ,22-01-2020,Alm. Salg,126,18947,5,2020,-1%
-746,Ejerlejlighed,"Skjørringvej 1, 1. th",8464, Galten,3200000 ,22-01-2020,Alm. Salg,69,46377,3,1900,
-746,Ejerlejlighed,"Skjørringvej 1, 1. tv",8464, Galten,3200000 ,22-01-2020,Alm. Salg,89,35955,2,1900,
-746,Ejerlejlighed,"Skjørringvej 1, st",8464, Galten,3200000 ,22-01-2020,Alm. Salg,92,34783,3,1900,
-746,Ejerlejlighed,"Nørregade 37, 1. tv",8464, Galten,3200000 ,22-01-2020,Alm. Salg,54,59259,2,1900,
-746,Ejerlejlighed,"Nørregade 37, st. tv",8464, Galten,3200000 ,22-01-2020,Alm. Salg,60,53333,2,1900,
 746,Villa,Haraldsvej 66,8660, Skanderborg,1200000 ,22-01-2020,Fam. Salg,148,8108,5,1978,
 746,Villa,Heimdalsvej 3,8680, Ry,2850000 ,22-01-2020,Alm. Salg,167,17066,5,1969,-2%
 746,Rækkehus,Rugmarken 23,8362, Hørning,2300000 ,21-01-2020,Alm. Salg,133,17293,4,1977,2%
@@ -4233,10 +4173,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Svaneparken 60,8464, Galten,975000 ,10-06-2019,Alm. Salg,214,4556,6,2020,
 746,Villa,Sandemandsvænget 15,8680, Ry,1195000 ,10-06-2019,Alm. Salg,180,6639,5,2021,
 746,Villa,Erantisvænget 22,8362, Hørning,1750000 ,08-06-2019,Alm. Salg,193,9067,5,1972,-8%
-746,Rækkehus,Søbakken 2,8660, Skanderborg,2300000 ,06-06-2019,Alm. Salg,121,19008,4,1986,
 746,Rækkehus,Prins Christians Vænge 143,8660, Skanderborg,3475000 ,06-06-2019,Alm. Salg,146,23801,5,2012,-1%
 746,Villa,Egholmsvej 41,8660, Skanderborg,5150000 ,06-06-2019,Alm. Salg,147,35034,6,1915,-4%
-746,Villa,Dalsvinget 5,8660, Skanderborg,2300000 ,06-06-2019,Alm. Salg,120,19167,4,1973,-4%
 746,Villa,Tycho Brahes Alle 18,8464, Galten,3465000 ,06-06-2019,Alm. Salg,168,20625,7,2008,-1%
 746,Villa,Vestermarksvej 30,8464, Galten,2900000 ,05-06-2019,Alm. Salg,217,13364,7,1890,-8%
 746,Villa,Risvej 5,8660, Skanderborg,950000 ,05-06-2019,Fam. Salg,142,6690,5,1939,
@@ -4688,7 +4626,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Rækkehus,Rypevej 3,8362, Hørning,1120000 ,27-01-2019,Fam. Salg,110,10182,2,1975,
 746,Ejerlejlighed,"Eskebækparken 64, st. tv",8660, Skanderborg,635000 ,27-01-2019,Alm. Salg,51,12451,2,1973,-2%
 746,Villa,Sygehusvej 18,8660, Skanderborg,3700000 ,27-01-2019,Alm. Salg,137,27007,6,1875,
-746,Villa,Sygehusvej 20A,8660, Skanderborg,3300000 ,27-01-2019,Alm. Salg,150,22000,2,1930,
 746,Villa,Stenløkkeparken 55,8660, Skanderborg,1275000 ,27-01-2019,Alm. Salg,112,11384,4,1979,-2%
 746,Ejerlejlighed,"Ovenvande 12A, 1",8660, Skanderborg,3195000 ,24-01-2019,Alm. Salg,147,21735,4,2019,
 746,Villa,Vinkelvej 37,8660, Skanderborg,1985000 ,24-01-2019,Alm. Salg,110,18045,4,1972,-5%
@@ -4876,11 +4813,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Kløvervej 15,8362, Hørning,2650000 ,26-11-2018,Alm. Salg,131,20229,4,1967,2%
 746,Villa,Ringvejen 5,8464, Galten,1400000 ,26-11-2018,Alm. Salg,149,9396,5,1962,
 746,Villa,H C Andersens Vej 16,8660, Skanderborg,2490000 ,26-11-2018,Alm. Salg,146,17055,5,1977,-4%
-746,Rækkehus,Møllegade 99A,8660, Skanderborg,3300000 ,25-11-2018,Alm. Salg,255,12941,5,1924,
 746,Villa,Skanderborgvej 140,8660, Skanderborg,575000 ,25-11-2018,Andet,164,3506,7,1956,
 746,Villa,Adelgade 3,8660, Skanderborg,4550000 ,25-11-2018,Fam. Salg,177,25706,6,1921,
 746,Villa,Tinbækparken 34,8464, Galten,2062500 ,25-11-2018,Alm. Salg,166,12425,6,1973,-6%
-746,Villa,Brunesvej 8,8660, Skanderborg,3300000 ,25-11-2018,Alm. Salg,260,12692,10,1875,-8%
 746,Rækkehus,Østergårds Alle 76,8362, Hørning,2829834 ,22-11-2018,Alm. Salg,158,17910,5,2019,
 746,Rækkehus,Prins Christians Vænge 159,8660, Skanderborg,2450000 ,22-11-2018,Alm. Salg,108,22685,4,2011,-8%
 746,Ejerlejlighed,"Kongefolden 2, 1. mf",8660, Skanderborg,1585000 ,22-11-2018,Alm. Salg,62,25565,2,2007,-1%
@@ -5077,9 +5012,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Lyngballevej 7,8464, Galten,1950000 ,02-10-2018,Alm. Salg,170,11471,5,1903,-2%
 746,Villa,Ryesgade 17,8680, Ry,213000 ,02-10-2018,Fam. Salg,142,1500,4,1895,
 746,Villa,Vroldvej 80,8660, Skanderborg,1380000 ,02-10-2018,Alm. Salg,124,11129,4,1927,
-746,Ejerlejlighed,"Asylgade 40, 2. th",8660, Skanderborg,3298000 ,01-10-2018,Alm. Salg,115,28678,4,2021,
 746,Ejerlejlighed,"Adelgade 42A, 1. tv",8660, Skanderborg,3898000 ,01-10-2018,Alm. Salg,131,29756,4,2021,
-746,Ejerlejlighed,"Adelgade 42, 3. th",8660, Skanderborg,3298000 ,01-10-2018,Alm. Salg,112,29446,4,2021,
 746,Ejerlejlighed,"Asylgade 40, 3. th",8660, Skanderborg,3498000 ,01-10-2018,Alm. Salg,112,31232,4,2021,
 746,Villa,Horsevej 16,8464, Galten,2750000 ,01-10-2018,Alm. Salg,178,15449,7,1978,-2%
 746,Villa,Skrivervænget 4,8680, Ry,1250000 ,01-10-2018,Alm. Salg,183,6831,6,2020,
@@ -5087,7 +5020,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Skovvej 9,8660, Skanderborg,3150000 ,30-09-2018,Alm. Salg,153,20588,6,1962,-4%
 746,Villa,Emborgvej 51,8660, Skanderborg,5700000 ,30-09-2018,Alm. Salg,195,29231,3,1971,-1%
 746,Villa,Vibevej 7,8680, Ry,2725000 ,30-09-2018,Alm. Salg,132,20644,5,1962,
-746,Villa,Århusvej 195,8464, Galten,5000000 ,30-09-2018,Alm. Salg,160,31250,4,1950,
 746,Villa,Skrivervænget 2,8680, Ry,1250000 ,30-09-2018,Alm. Salg,179,6983,6,2019,
 746,Villa,Skivholmevej 77,8464, Galten,350000 ,30-09-2018,Alm. Salg,130,2692,4,1880,-29%
 746,Villa,Horsevej 2,8464, Galten,1700000 ,29-09-2018,Alm. Salg,138,12319,5,1977,-6%
@@ -5203,7 +5135,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Randersvej 79,8680, Ry,4400000 ,29-08-2018,Alm. Salg,130,33846,4,1991,-4%
 746,Villa,Fruering Skovmark 44,8660, Skanderborg,2856800 ,29-08-2018,Alm. Salg,125,22854,4,2019,
 746,Rækkehus,Rosenvænget 89,8362, Hørning,1960000 ,28-08-2018,Alm. Salg,93,21075,4,1965,-2%
-746,Villa,Adelgade 112A,8660, Skanderborg,8000000 ,28-08-2018,Fam. Salg,141,56738,5,1931,
 746,Villa,Risvej 29,8660, Skanderborg,550000 ,28-08-2018,Alm. Salg,77,7143,3,1929,-8%
 746,Villa,Haardalen 49,8680, Ry,4200000 ,28-08-2018,Alm. Salg,190,22105,6,2013,-5%
 746,Ejerlejlighed,"Vestergade 117, st. tv",8660, Skanderborg,900000 ,27-08-2018,Alm. Salg,75,12000,4,1945,
@@ -6135,9 +6066,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Fasanvej 34,8464, Galten,3850000 ,13-11-2017,Alm. Salg,158,24367,6,1998,
 746,Villa,Einars Lykke 17,8464, Galten,1200000 ,13-11-2017,Alm. Salg,181,6630,7,2019,-4%
 746,Rækkehus,Skovsgårdsparken 2,8362, Hørning,2048000 ,12-11-2017,Alm. Salg,92,22261,3,1999,-2%
-746,Ejerlejlighed,"Fregerslevvej 9B, 1",8362, Hørning,1650000 ,12-11-2017,Alm. Salg,56,29464,2,1910,
 746,Villa,Bjergvej 12,8660, Skanderborg,2800000 ,12-11-2017,Alm. Salg,180,15556,4,0,
-746,Villa,Fregerslevvej 9,8362, Hørning,1650000 ,12-11-2017,Alm. Salg,140,11786,6,1910,
 746,Villa,Vestermarken 3B,8660, Skanderborg,1450000 ,12-11-2017,Alm. Salg,160,9063,5,1986,-11%
 746,Villa,Smedevænget 73,8464, Galten,1398000 ,12-11-2017,Alm. Salg,111,12595,4,1978,
 746,Villa,Ringvejen 25,8464, Galten,833378 ,11-11-2017,Andet,138,6039,4,1904,
@@ -6581,8 +6510,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Edelsborgvej 31,8660, Skanderborg,2198000 ,04-07-2017,Alm. Salg,140,15700,6,1985,
 746,Villa,Vroldvej 43,8660, Skanderborg,2700000 ,04-07-2017,Alm. Salg,74,36486,3,1960,
 746,Villa,Skovridervænget 5,8680, Ry,1050000 ,04-07-2017,Alm. Salg,228,4605,8,2020,-2%
-746,Rækkehus,Søkildevej 34B,8680, Ry,1700000 ,03-07-2017,Alm. Salg,90,18889,3,2017,
-746,Villa,Fjeldstedsvej 16,8680, Ry,1700000 ,03-07-2017,Alm. Salg,159,10692,6,1967,
 746,Rækkehus,Åkandevej 9A,8660, Skanderborg,950000 ,02-07-2017,Alm. Salg,125,7600,4,2018,
 746,Rækkehus,Lyngfeldvænget 3,8464, Galten,1548000 ,02-07-2017,Alm. Salg,87,17793,4,1979,
 746,Rækkehus,Frederik d. II's Allé 241,8660, Skanderborg,3750000 ,02-07-2017,Alm. Salg,156,24038,5,2007,-1%
@@ -6713,9 +6640,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Rækkehus,Maskedal 24B,8660, Skanderborg,1485000 ,01-06-2017,Alm. Salg,102,14559,4,2007,-1%
 746,Villa,Adslev Skovvej 3,8362, Hørning,775000 ,01-06-2017,Alm. Salg,120,6458,4,1910,
 746,Villa,Thorsvej 6,8464, Galten,1830000 ,01-06-2017,Alm. Salg,164,11159,5,1973,-4%
-746,Rækkehus,Nørrevænget 13,8464, Galten,1850000 ,31-05-2017,Alm. Salg,100,18500,4,1990,-6%
 746,Rækkehus,Sønder Egevej 4,8680, Ry,5450000 ,31-05-2017,Alm. Salg,199,27387,4,2017,2%
-746,Villa,Præstdam 9,8464, Galten,1850000 ,31-05-2017,Alm. Salg,160,11563,4,1972,
 746,Villa,Kildevej 8,8362, Hørning,2500000 ,31-05-2017,Alm. Salg,170,14706,6,1967,-4%
 746,Villa,Skanderborgvej 25,8362, Hørning,675000 ,31-05-2017,Alm. Salg,52,12981,2,1900,
 746,Villa,Poppelvej 4,8660, Skanderborg,2350000 ,31-05-2017,Alm. Salg,148,15878,4,1971,-6%
@@ -6746,7 +6671,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Ejerlejlighed,"Eskebækparken 21, st. tv",8660, Skanderborg,975000 ,23-05-2017,Alm. Salg,79,12342,3,1967,
 746,Ejerlejlighed,"Eskebækparken 30, 1. th",8660, Skanderborg,1220000 ,23-05-2017,Alm. Salg,79,15443,3,1968,-2%
 746,Ejerlejlighed,"Søbyen 2, 2. th",8660, Skanderborg,3795000 ,23-05-2017,Alm. Salg,174,21810,3,2018,
-746,Villa,Adelgade 107,8660, Skanderborg,4500000 ,23-05-2017,Alm. Salg,410,10976,11,1894,
 746,Villa,Lyngdal 3,8680, Ry,1900000 ,23-05-2017,Alm. Salg,138,13768,4,1966,
 746,Villa,Rugmarken 5,8362, Hørning,2550000 ,23-05-2017,Alm. Salg,142,17958,5,1978,-1%
 746,Villa,Hedelundvej 50,8680, Ry,3200000 ,23-05-2017,Alm. Salg,189,16931,5,2015,-3%
@@ -6903,11 +6827,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Hjorts Alle 44,8660, Skanderborg,849000 ,06-04-2017,Alm. Salg,189,4492,6,2018,
 746,Villa,Ritmestervænget 19,8680, Ry,1350000 ,06-04-2017,Alm. Salg,191,7068,5,2019,
 746,Rækkehus,Nattergalevej 23A,8660, Skanderborg,1750000 ,05-04-2017,Alm. Salg,85,20588,4,1979,-3%
-746,Ejerlejlighed,"Adelgade 92, 1",8660, Skanderborg,11550000 ,05-04-2017,Alm. Salg,93,124194,3,1890,
-746,Ejerlejlighed,"Adelgade 92, 2",8660, Skanderborg,11550000 ,05-04-2017,Alm. Salg,110,105000,3,1890,
 746,Ejerlejlighed,"Adelgade 100, 1",8660, Skanderborg,1242000 ,05-04-2017,Fam. Salg,169,7349,8,1875,
-746,Ejerlejlighed,"Parkvej 13, 1. tv",8660, Skanderborg,11550000 ,05-04-2017,Alm. Salg,85,135882,3,1890,
-746,Ejerlejlighed,"Parkvej 13, 1. th",8660, Skanderborg,11550000 ,05-04-2017,Alm. Salg,77,150000,3,1890,
 746,Villa,Pederslundsvej 15,8660, Skanderborg,259860 ,05-04-2017,Alm. Salg,97,2679,3,1914,
 746,Villa,Bakkelyparken 38,8680, Ry,2900000 ,05-04-2017,Alm. Salg,188,15426,8,1975,-3%
 746,Rækkehus,Bakkevej 35,8670, Låsby,458000 ,04-04-2017,Auktion,76,6026,3,1968,
@@ -7020,10 +6940,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Bjertrupvej 5,8362, Hørning,1740000 ,01-03-2017,Alm. Salg,207,8406,8,1973,-8%
 746,Villa,Firkløvervej 102,8464, Galten,2695000 ,01-03-2017,Alm. Salg,138,19529,6,1998,
 746,Villa,Maries Dal 10,8464, Galten,3750000 ,01-03-2017,Alm. Salg,183,20492,5,2016,-4%
-746,Rækkehus,Rosenkjærvej 17,8660, Skanderborg,2050000 ,28-02-2017,Alm. Salg,106,19340,4,2004,-2%
 746,Ejerlejlighed,Enghavevej 15A,8680, Ry,4995000 ,28-02-2017,Alm. Salg,209,23900,4,1906,
 746,Villa,Engvej 8,8362, Hørning,2400000 ,28-02-2017,Alm. Salg,136,17647,4,1921,-3%
-746,Villa,H C Andersens Vej 12,8660, Skanderborg,2050000 ,28-02-2017,Alm. Salg,117,17521,4,1977,-1%
 746,Villa,Baastrup Lund 26,8464, Galten,2695000 ,28-02-2017,Alm. Salg,130,20731,4,2018,-4%
 746,Villa,Blomsterparken 55,8464, Galten,595000 ,28-02-2017,Alm. Salg,155,3839,5,2018,
 746,Rækkehus,Kildeparken 109,8660, Skanderborg,1695000 ,27-02-2017,Alm. Salg,114,14868,5,1986,
@@ -7209,8 +7127,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Ejerlejlighed,"Søbyen 4, st. tv",8660, Skanderborg,2195000 ,20-12-2016,Alm. Salg,110,19955,4,2018,
 746,Villa,Hømosevej 5,8660, Skanderborg,2750000 ,20-12-2016,Alm. Salg,174,15805,5,1900,-2%
 746,Rækkehus,Skovhaven 8,8670, Låsby,1835000 ,19-12-2016,Alm. Salg,132,13902,5,2017,
-746,Ejerlejlighed,Asylgade 16,8660, Skanderborg,3700000 ,19-12-2016,Alm. Salg,106,34906,3,1920,
-746,Ejerlejlighed,Alleen 7,8660, Skanderborg,3700000 ,19-12-2016,Alm. Salg,117,31624,4,1920,
 746,Villa,Klostervej 62,8680, Ry,4750000 ,19-12-2016,Alm. Salg,208,22837,6,1925,-10%
 746,Villa,Skanderborgvej 29,8680, Ry,2750000 ,19-12-2016,Alm. Salg,177,15537,5,1913,-5%
 746,Villa,Peders Toft 18,8362, Hørning,3550000 ,19-12-2016,Alm. Salg,216,16435,6,1981,-4%
@@ -7639,7 +7555,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Almuevej 15,8660, Skanderborg,3000000 ,09-08-2016,Alm. Salg,164,18293,5,2001,-9%
 746,Villa,Einars Lykke 5,8464, Galten,950000 ,09-08-2016,Alm. Salg,194,4897,5,2017,
 746,Villa,Krøyer Kielbergs Vej 18,8660, Skanderborg,4020000 ,09-08-2016,Alm. Salg,181,22210,5,1930,1%
-746,Ejerlejlighed,"Klostervej 14, 1",8680, Ry,3095220 ,08-08-2016,Alm. Salg,128,24181,5,1890,
 746,Ejerlejlighed,"Mølleparken 1, 2. 7",8660, Skanderborg,1799000 ,08-08-2016,Alm. Salg,96,18740,3,2016,
 746,Villa,Bøghsvej 2,8660, Skanderborg,1670000 ,08-08-2016,Fam. Salg,109,15321,4,1943,
 746,Villa,Ousted Kirkevej 6,8660, Skanderborg,2250000 ,08-08-2016,Alm. Salg,153,14706,4,1968,-10%
@@ -7804,8 +7719,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Einars Lykke 14,8464, Galten,1050000 ,12-06-2016,Alm. Salg,172,6105,5,2018,
 746,Villa,Ryttervænget 8,8680, Ry,1450000 ,12-06-2016,Alm. Salg,202,7178,5,2018,
 746,Villa,Mølletoften 12,8464, Galten,3950000 ,12-06-2016,Alm. Salg,169,23373,5,2016,-4%
-746,Ejerlejlighed,"Bakkeskoven 2, 1",8464, Galten,3188000 ,10-06-2016,Alm. Salg,77,41403,2,1972,
-746,Villa,Bakkeskoven 2,8464, Galten,3188000 ,10-06-2016,Alm. Salg,104,30654,3,1972,
 746,Villa,Kirkevej 39,8670, Låsby,1450000 ,09-06-2016,Alm. Salg,120,12083,4,1978,-3%
 746,Villa,Holmedal 64,8660, Skanderborg,2200000 ,09-06-2016,Alm. Salg,150,14667,5,2010,-4%
 746,Villa,Klanghøj 41,8670, Låsby,2450000 ,09-06-2016,Alm. Salg,152,16118,7,2005,-2%
@@ -8011,7 +7924,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Horsensvej 20,8680, Ry,1020000 ,20-04-2016,Alm. Salg,147,6939,5,1970,-15%
 746,Villa,Hejrevej 12,8680, Ry,4200000 ,20-04-2016,Alm. Salg,170,24706,7,1993,
 746,Villa,Haardalen 43,8680, Ry,1195000 ,20-04-2016,Alm. Salg,187,6390,7,2017,
-746,Rækkehus,Banegårdsvej 42A,8660, Skanderborg,1675000 ,19-04-2016,Alm. Salg,111,15090,4,1785,
 746,Rækkehus,Kildebjerg Bakkevej 25,8680, Ry,2198000 ,19-04-2016,Alm. Salg,114,19281,4,2016,
 746,Ejerlejlighed,"Skolebakken 15, 2. tv",8464, Galten,900000 ,19-04-2016,Alm. Salg,60,15000,2,1965,
 746,Ejerlejlighed,"Østergade 29B, 1",8660, Skanderborg,1250000 ,19-04-2016,Alm. Salg,63,19841,2,1923,-7%
@@ -8134,7 +8046,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Nørregårds Alle 132,8362, Hørning,1449000 ,20-03-2016,Alm. Salg,192,7547,6,2017,
 746,Villa,Baastrup Lund 29,8464, Galten,2795000 ,19-03-2016,Alm. Salg,162,17253,5,2017,
 746,Rækkehus,Vroldgade 3,8660, Skanderborg,2275000 ,18-03-2016,Alm. Salg,153,14869,5,1877,-3%
-746,Rækkehus,Søndergade 60C,8464, Galten,1940000 ,17-03-2016,Alm. Salg,86,22558,3,1910,
 746,Villa,Lyngdal 17,8680, Ry,1375000 ,17-03-2016,Alm. Salg,80,17188,5,1968,-8%
 746,Villa,Helgasvej 15,8660, Skanderborg,2250000 ,17-03-2016,Alm. Salg,155,14516,5,1974,-2%
 746,Villa,"Hårby Bygade 44A, 1",8660, Skanderborg,1250000 ,17-03-2016,Fam. Salg,200,6250,3,1955,
@@ -8272,30 +8183,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Kollens Møllevej 23,8362, Hørning,2600000 ,04-02-2016,Alm. Salg,185,14054,4,1777,4%
 746,Villa,Birkevej 11,8660, Skanderborg,3050000 ,04-02-2016,Alm. Salg,163,18712,5,1956,-5%
 746,Rækkehus,Gartnervænget 52,8680, Ry,890000 ,03-02-2016,Alm. Salg,58,15345,2,1988,-1%
-746,Ejerlejlighed,"Skanderborgvej 36, 2",8680, Ry,1614772 ,03-02-2016,Alm. Salg,72,22427,2,2003,
-746,Ejerlejlighed,"Skanderborgvej 34, 1. tv",8680, Ry,1614772 ,03-02-2016,Alm. Salg,72,22427,2,2003,
-746,Ejerlejlighed,"Skanderborgvej 34, 2. th",8680, Ry,1614772 ,03-02-2016,Alm. Salg,70,23068,2,2003,
-746,Ejerlejlighed,"Skanderborgvej 34, 2. tv",8680, Ry,1614772 ,03-02-2016,Alm. Salg,72,22427,2,2003,
-746,Ejerlejlighed,"Møllevej 2, st",8680, Ry,1614772 ,03-02-2016,Alm. Salg,102,15831,3,2003,
-746,Ejerlejlighed,"Møllevej 2, 2",8680, Ry,1614772 ,03-02-2016,Alm. Salg,102,15831,3,2003,
-746,Ejerlejlighed,"Møllevej 2, 1",8680, Ry,1614772 ,03-02-2016,Alm. Salg,102,15831,3,2003,
-746,Ejerlejlighed,"Møllevej 4, st",8680, Ry,1614772 ,03-02-2016,Alm. Salg,70,23068,2,2003,
-746,Ejerlejlighed,"Møllevej 4, 1",8680, Ry,1614772 ,03-02-2016,Alm. Salg,102,15831,3,2003,
-746,Ejerlejlighed,"Møllevej 4, 2",8680, Ry,1614772 ,03-02-2016,Alm. Salg,102,15831,3,2003,
-746,Ejerlejlighed,"Møllevej 6, st",8680, Ry,1614772 ,03-02-2016,Alm. Salg,101,15988,3,2003,
-746,Ejerlejlighed,"Møllevej 6, 1",8680, Ry,1614772 ,03-02-2016,Alm. Salg,101,15988,3,2003,
-746,Ejerlejlighed,"Møllevej 8, st",8680, Ry,1614772 ,03-02-2016,Alm. Salg,103,15677,3,2003,
-746,Ejerlejlighed,"Møllevej 8, 1",8680, Ry,1614772 ,03-02-2016,Alm. Salg,103,15677,3,2003,
-746,Ejerlejlighed,"Møllevej 8, 2",8680, Ry,1614772 ,03-02-2016,Alm. Salg,103,15677,2,2003,
-746,Ejerlejlighed,"Møllevej 6, 2",8680, Ry,1614772 ,03-02-2016,Alm. Salg,101,15988,3,2003,
-746,Ejerlejlighed,"Møllevej 10, 1",8680, Ry,1614772 ,03-02-2016,Alm. Salg,79,20440,2,2003,
-746,Ejerlejlighed,"Møllevej 10, 2",8680, Ry,1614772 ,03-02-2016,Alm. Salg,79,20440,2,2003,
-746,Ejerlejlighed,"Møllevej 10, st",8680, Ry,1614772 ,03-02-2016,Alm. Salg,79,20440,2,2003,
-746,Ejerlejlighed,"Møllevej 12, st",8680, Ry,1614772 ,03-02-2016,Alm. Salg,59,27369,2,2003,
-746,Ejerlejlighed,"Møllevej 12, 1",8680, Ry,1614772 ,03-02-2016,Alm. Salg,59,27369,2,2003,
-746,Ejerlejlighed,"Møllevej 14, st",8680, Ry,1614772 ,03-02-2016,Alm. Salg,59,27369,2,2003,
-746,Ejerlejlighed,"Møllevej 14, 1",8680, Ry,1614772 ,03-02-2016,Alm. Salg,59,27369,2,2003,
-746,Ejerlejlighed,"Møllevej 14, 2",8680, Ry,1614772 ,03-02-2016,Alm. Salg,118,13685,3,2003,
 746,Villa,Porskjærvej 44,8464, Galten,2600000 ,03-02-2016,Alm. Salg,157,16561,6,1986,-7%
 746,Rækkehus,Agervangen 30,8464, Galten,1495000 ,02-02-2016,Auktion,121,12355,4,1976,
 746,Villa,Søvænget 8,8680, Ry,2200000 ,02-02-2016,Alm. Salg,220,10000,7,1974,
@@ -8597,9 +8484,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Lynghøjvej 50,8660, Skanderborg,1800000 ,02-10-2015,Alm. Salg,161,11180,4,1912,
 746,Villa,Søndergade 17B,8464, Galten,1500000 ,01-10-2015,Alm. Salg,169,8876,5,2020,
 746,Rækkehus,Vestergade 7,8660, Skanderborg,1690000 ,01-10-2015,Alm. Salg,91,18571,4,1870,-6%
-746,Ejerlejlighed,"Hovedgaden 2, st",8670, Låsby,900000 ,01-10-2015,Alm. Salg,62,14516,3,1914,
-746,Ejerlejlighed,"Hovedgaden 2, 1",8670, Låsby,900000 ,01-10-2015,Alm. Salg,62,14516,3,1914,
-746,Ejerlejlighed,Århusvej 1,8670, Låsby,900000 ,01-10-2015,Alm. Salg,114,7895,4,1914,
 746,Villa,Hylkevej 76,8660, Skanderborg,1550000 ,01-10-2015,Alm. Salg,124,12500,5,1965,-3%
 746,Villa,Svaneparken 46,8464, Galten,560000 ,01-10-2015,Andet,155,3613,5,2017,
 746,Rækkehus,Rosenvænget 135,8362, Hørning,1575000 ,30-09-2015,Alm. Salg,93,16935,4,1966,-7%
@@ -9250,19 +9134,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Kildebjerg Skovvej 32,8680, Ry,1345000 ,22-03-2015,Alm. Salg,180,7472,5,2016,
 746,Villa,Annas Have 4,8464, Galten,910000 ,21-03-2015,Alm. Salg,145,6276,5,2016,
 746,Villa,Svaneparken 2,8464, Galten,552000 ,21-03-2015,Alm. Salg,174,3172,5,2015,-20%
-746,Ejerlejlighed,"Kirkevej 36A, st",8660, Skanderborg,7500000 ,19-03-2015,Alm. Salg,66,113636,3,2004,
-746,Ejerlejlighed,"Kirkevej 36B, 1",8660, Skanderborg,7500000 ,19-03-2015,Alm. Salg,83,90361,3,2004,
-746,Ejerlejlighed,"Kirkevej 36C, st",8660, Skanderborg,7500000 ,19-03-2015,Alm. Salg,66,113636,3,2004,
-746,Ejerlejlighed,"Kirkevej 36A, 1",8660, Skanderborg,7500000 ,19-03-2015,Alm. Salg,88,85227,3,2004,
-746,Ejerlejlighed,"Kirkevej 36B, st",8660, Skanderborg,7500000 ,19-03-2015,Alm. Salg,63,119048,3,2004,
-746,Ejerlejlighed,"Kirkevej 36C, 1",8660, Skanderborg,7500000 ,19-03-2015,Alm. Salg,83,90361,3,2004,
-746,Ejerlejlighed,"Kirkevej 36D, 1",8660, Skanderborg,7500000 ,19-03-2015,Alm. Salg,88,85227,3,2004,
-746,Ejerlejlighed,"Adelgade 26, kl. th",8660, Skanderborg,7500000 ,19-03-2015,Alm. Salg,63,119048,2,1830,
-746,Ejerlejlighed,"Adelgade 26, kl. tv",8660, Skanderborg,7500000 ,19-03-2015,Alm. Salg,63,119048,2,1830,
-746,Ejerlejlighed,"Adelgade 26, st",8660, Skanderborg,7500000 ,19-03-2015,Alm. Salg,118,63559,4,1830,
-746,Ejerlejlighed,"Adelgade 26, 1. tv",8660, Skanderborg,7500000 ,19-03-2015,Alm. Salg,89,84270,3,1830,
-746,Ejerlejlighed,"Adelgade 26, 1. th",8660, Skanderborg,7500000 ,19-03-2015,Alm. Salg,89,84270,2,1830,
-746,Ejerlejlighed,"Adelgade 26, 1. mf",8660, Skanderborg,7500000 ,19-03-2015,Alm. Salg,73,102740,3,1830,
 746,Villa,Siimvej 10,8680, Ry,2759600 ,19-03-2015,Alm. Salg,188,14679,5,1955,
 746,Villa,Hårby Bygade 30,8660, Skanderborg,500000 ,19-03-2015,Alm. Salg,124,4032,4,1900,-33%
 746,Villa,Nørregårds Alle 41,8362, Hørning,1142000 ,19-03-2015,Alm. Salg,170,6718,5,2015,
@@ -9716,9 +9587,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Krøyer Kielbergs Vej 13,8660, Skanderborg,4475000 ,25-09-2014,Alm. Salg,255,17549,9,1924,-10%
 746,Villa,Mårvej 41,8660, Skanderborg,1637250 ,24-09-2014,Fam. Salg,159,10297,5,1998,
 746,Villa,Hybenvænget 43,8362, Hørning,2075000 ,24-09-2014,Alm. Salg,154,13474,5,1972,-5%
-746,Rækkehus,Blomsterparken 69A,8464, Galten,675000 ,23-09-2014,Alm. Salg,121,5579,4,2017,
 746,Rækkehus,Egevænget 16,8464, Galten,2198000 ,23-09-2014,Alm. Salg,133,16526,5,1977,
-746,Villa,Blomsterparken 35,8464, Galten,675000 ,23-09-2014,Alm. Salg,182,3709,5,2016,
 746,Rækkehus,Borgergade 10,8660, Skanderborg,2275000 ,22-09-2014,Alm. Salg,97,23454,3,1700,-1%
 746,Villa,Porskjærvej 46,8464, Galten,2600000 ,22-09-2014,Alm. Salg,144,18056,5,1997,-3%
 746,Villa,Emborgvej 14,8680, Ry,1110000 ,21-09-2014,Alm. Salg,116,9569,3,1918,-11%
@@ -9957,7 +9826,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Bragesvej 12,8660, Skanderborg,2700000 ,15-06-2014,Alm. Salg,200,13500,8,2018,
 746,Villa,Blegindvej 11,8362, Hørning,1800000 ,13-06-2014,Alm. Salg,165,10909,3,1900,
 746,Villa,Halkjærvej 2,8660, Skanderborg,2100000 ,13-06-2014,Alm. Salg,120,17500,5,2015,-7%
-746,Ejerlejlighed,"Klostervej 14, 1",8680, Ry,2010000 ,12-06-2014,Auktion,128,15703,5,1890,
 746,Villa,Augustas Vænge 25,8660, Skanderborg,3765000 ,12-06-2014,Alm. Salg,167,22545,5,2007,-3%
 746,Rækkehus,Kildebjerg Skovvej 12B,8680, Ry,2495000 ,11-06-2014,Alm. Salg,140,17821,5,2015,
 746,Rækkehus,Emborgvej 106B,8660, Skanderborg,1550000 ,11-06-2014,Alm. Salg,93,16667,4,2015,
@@ -10159,7 +10027,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Rækkehus,Vessøvej 9B,8680, Ry,2383000 ,17-03-2014,Alm. Salg,140,17021,4,2014,4%
 746,Villa,Skovbygårdsvej 16,8464, Galten,2158000 ,17-03-2014,Alm. Salg,160,13488,5,2014,
 746,Rækkehus,Martin A Hansens Vej 16A,8660, Skanderborg,1450000 ,16-03-2014,Alm. Salg,89,16292,3,1980,
-746,Ejerlejlighed,Nørregade 7,8670, Låsby,635000 ,16-03-2014,Alm. Salg,85,7471,2,1920,-27%
 746,Villa,Siimtoften 2,8660, Skanderborg,2696000 ,16-03-2014,Fam. Salg,195,13826,6,1997,
 746,Villa,Siimtoften 8,8660, Skanderborg,1800000 ,16-03-2014,Alm. Salg,144,12500,5,1995,-5%
 746,Villa,Skovbyparken 99,8464, Galten,2475000 ,16-03-2014,Alm. Salg,229,10808,7,1973,-1%
@@ -10319,7 +10186,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Ejerlejlighed,"Kongefolden 42, st. th",8660, Skanderborg,1925000 ,22-12-2013,Alm. Salg,95,20263,2,2008,-8%
 746,Rækkehus,Vessøvej 7A,8680, Ry,2337500 ,20-12-2013,Alm. Salg,140,16696,4,2014,6%
 746,Villa,Sygehusvej 18,8660, Skanderborg,3500000 ,18-12-2013,Andet,137,25547,6,1875,
-746,Villa,Sygehusvej 20A,8660, Skanderborg,3100000 ,18-12-2013,Andet,150,20667,2,1930,
 746,Villa,Blegindvej 67,8362, Hørning,820828 ,18-12-2013,Alm. Salg,190,4320,5,1963,
 746,Villa,Firkløvervej 96,8464, Galten,2220000 ,18-12-2013,Alm. Salg,133,16692,6,1998,
 746,Villa,Agerhønebakken 10,8660, Skanderborg,1696000 ,18-12-2013,Andet,201,8438,6,2018,-3%
@@ -10876,7 +10742,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Stejlehøjvej 5,8680, Ry,1610000 ,12-03-2013,Alm. Salg,137,11752,3,1973,-3%
 746,Villa,Adslevvej 4,8362, Hørning,1800000 ,12-03-2013,Alm. Salg,155,11613,5,1961,
 746,Villa,Damvej 11,8362, Hørning,1300000 ,12-03-2013,Alm. Salg,123,10569,6,1877,0%
-746,Rækkehus,Århusvej 51C,8660, Skanderborg,4500000 ,10-03-2013,Alm. Salg,50,90000,1,1905,
 746,Villa,Bævervej 10,8660, Skanderborg,2955000 ,10-03-2013,Alm. Salg,153,19314,5,2003,-1%
 746,Villa,Tunøvej 5,8464, Galten,1275000 ,10-03-2013,Alm. Salg,149,8557,5,1976,-6%
 746,Villa,Mølletoften 5,8464, Galten,620200 ,10-03-2013,Alm. Salg,175,3544,5,2013,
@@ -10903,8 +10768,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Mølletoften 3,8464, Galten,620900 ,24-02-2013,Alm. Salg,179,3469,5,2013,
 746,Rækkehus,Skanderupgade 42B,8660, Skanderborg,1555000 ,21-02-2013,Alm. Salg,115,13522,4,1984,-3%
 746,Rækkehus,Agerhønebakken 48,8660, Skanderborg,2475000 ,21-02-2013,Alm. Salg,135,18333,3,2013,
-746,Ejerlejlighed,Tåningvej 9,8660, Skanderborg,760000 ,21-02-2013,Auktion,156,4872,5,1910,-51%
-746,Ejerlejlighed,"Horndrupvej 44, 1",8660, Skanderborg,760000 ,21-02-2013,Auktion,85,8941,3,1910,-51%
 746,Villa,Lillegade 9,8660, Skanderborg,1750000 ,21-02-2013,Alm. Salg,148,11824,5,1877,-5%
 746,Villa,Storhøjvej 8,8660, Skanderborg,750000 ,20-02-2013,Alm. Salg,153,4902,6,1916,-14%
 746,Villa,Vestermarken 6,8660, Skanderborg,1050000 ,20-02-2013,Alm. Salg,112,9375,2,1920,-9%
@@ -10949,7 +10812,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Skovkildeparken 12,8660, Skanderborg,1200000 ,31-01-2013,Fam. Salg,159,7547,4,1983,
 746,Villa,Farrevej 5,8464, Galten,1900000 ,31-01-2013,Alm. Salg,160,11875,6,1986,-5%
 746,Villa,Agerhønebakken 45,8660, Skanderborg,1341455 ,31-01-2013,Alm. Salg,160,8384,5,2013,-54%
-746,Rækkehus,Århusvej 17C,8660, Skanderborg,645000 ,30-01-2013,Auktion,52,12404,1,1900,
 746,Villa,Ny Kirkevej 6,8680, Ry,1074977 ,30-01-2013,Alm. Salg,185,5811,5,1929,
 746,Villa,Gildhøjvej 1,8660, Skanderborg,2114000 ,30-01-2013,Alm. Salg,228,9272,7,1900,-10%
 746,Villa,Porsevænget 31,8464, Galten,2990000 ,30-01-2013,Alm. Salg,170,17588,6,2006,-9%
@@ -11435,7 +11297,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Frodesvej 8,8660, Skanderborg,2550000 ,29-04-2012,Alm. Salg,159,16038,5,1978,-9%
 746,Villa,Østergårds Alle 136,8362, Hørning,3512500 ,29-04-2012,Alm. Salg,184,19090,5,2008,-9%
 746,Villa,Kildebjerg Skovvej 17,8680, Ry,4425000 ,29-04-2012,Alm. Salg,211,20972,6,2007,-5%
-746,Villa,Tåningvej 35D,8660, Skanderborg,45000000 ,29-04-2012,Alm. Salg,150,300000,5,1830,
 746,Villa,Siimvej 73,8680, Ry,1282450 ,28-04-2012,Alm. Salg,147,8724,5,1947,
 746,Villa,Jens Baggesens Vej 5,8660, Skanderborg,1650000 ,26-04-2012,Alm. Salg,121,13636,4,1972,-3%
 746,Villa,Skovlunden 20,8680, Ry,2300000 ,26-04-2012,Alm. Salg,154,14935,5,2012,
@@ -11922,7 +11783,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Rækkehus,Fasanvej 5,8362, Hørning,1900000 ,11-07-2011,Alm. Salg,110,17273,4,1974,-3%
 746,Rækkehus,Vestergade 77,8464, Galten,1745000 ,11-07-2011,Alm. Salg,103,16942,3,1989,-2%
 746,Rækkehus,Søbjergvej 11,8660, Skanderborg,1386000 ,10-07-2011,Alm. Salg,99,14000,4,1992,
-746,Rækkehus,Århusvej 17C,8660, Skanderborg,2500000 ,07-07-2011,Auktion,52,48077,1,1900,
 746,Villa,Engvej 3,8464, Galten,1446911 ,07-07-2011,Andet,264,5481,9,1907,
 746,Villa,Egernvej 6,8680, Ry,1325000 ,07-07-2011,Alm. Salg,115,11522,3,1962,-2%
 746,Rækkehus,Johan Skjoldborgs Vej 3B,8660, Skanderborg,1250000 ,06-07-2011,Alm. Salg,83,15060,3,1979,-7%
@@ -12454,9 +12314,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Horsevej 2D,8464, Galten,925000 ,29-09-2010,Alm. Salg,154,6006,5,2011,
 746,Ejerlejlighed,"Skolebakken 17, 1. tv",8464, Galten,1144000 ,28-09-2010,Alm. Salg,82,13951,3,1969,-5%
 746,Ejerlejlighed,"Søndergade 34, 1",8464, Galten,2316000 ,28-09-2010,Alm. Salg,70,33086,2,1947,
-746,Ejerlejlighed,"Banegårdsvej 9A, 1",8660, Skanderborg,3575000 ,28-09-2010,Alm. Salg,84,42560,2,1862,-11%
 746,Villa,Søndergade 32,8464, Galten,2084000 ,28-09-2010,Alm. Salg,192,10854,7,1961,
-746,Villa,Banegårdsvej 9B,8660, Skanderborg,3575000 ,28-09-2010,Alm. Salg,66,54167,2,1978,-11%
 746,Villa,Gl Århusvej 7,8670, Låsby,968951 ,28-09-2010,Alm. Salg,139,6971,6,1959,-50%
 746,Villa,Dronninghøj 5,8464, Galten,2600000 ,28-09-2010,Alm. Salg,173,15029,5,2009,-4%
 746,Villa,Østergårds Alle 130,8362, Hørning,3050000 ,28-09-2010,Alm. Salg,164,18598,5,2008,-3%
@@ -12476,7 +12334,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Pebbelparken 26,8464, Galten,2300000 ,20-09-2010,Alm. Salg,183,12568,5,1997,-8%
 746,Villa,Hvolbækvej 5A,8660, Skanderborg,1275000 ,20-09-2010,Alm. Salg,110,11591,4,1978,-5%
 746,Villa,Alkenvej 81,8660, Skanderborg,1950000 ,19-09-2010,Alm. Salg,212,9198,6,1925,
-746,Villa,Kirkebakken 7,8660, Skanderborg,3297462 ,19-09-2010,Alm. Salg,66,49962,2,1920,
 746,Villa,Østervangen 15,8464, Galten,1463000 ,19-09-2010,Alm. Salg,227,6445,4,1967,1%
 746,Villa,Vibevænget 17,8464, Galten,1912500 ,19-09-2010,Alm. Salg,132,14489,4,1971,-4%
 746,Villa,Bygmarken 9,8362, Hørning,950000 ,19-09-2010,Fam. Salg,129,7364,4,1976,
@@ -12930,10 +12787,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Ejerlejlighed,"Eskebækparken 82, st. tv",8660, Skanderborg,520000 ,14-03-2010,Alm. Salg,51,10196,2,1972,
 746,Rækkehus,Kildeparken 107,8660, Skanderborg,1670000 ,12-03-2010,Alm. Salg,102,16373,4,1986,-3%
 746,Villa,Falkevej 14,8660, Skanderborg,1800000 ,12-03-2010,Alm. Salg,164,10976,5,1973,-10%
-746,Rækkehus,Drosselvej 1,8362, Hørning,1950000 ,11-03-2010,Alm. Salg,188,10372,4,1974,-2%
 746,Rækkehus,Kongefolden 58,8660, Skanderborg,3000000 ,11-03-2010,Alm. Salg,154,19481,5,2009,-6%
 746,Ejerlejlighed,"Kongefolden 8, 5",8660, Skanderborg,3500000 ,11-03-2010,Alm. Salg,140,25000,4,2009,
-746,Villa,Birkevænget 15,8362, Hørning,1950000 ,11-03-2010,Alm. Salg,163,11963,6,1966,-2%
 746,Rækkehus,Højgårdsparken 121,8464, Galten,1150000 ,10-03-2010,Alm. Salg,53,21698,2,1984,
 746,Ejerlejlighed,"Østergade 1, 1. 13",8660, Skanderborg,950000 ,10-03-2010,Alm. Salg,87,10920,2,1969,
 746,Villa,Skovsvinget 4A,8660, Skanderborg,2450000 ,10-03-2010,Alm. Salg,171,14327,7,1977,-9%
@@ -13324,11 +13179,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Liljevænget 1,8362, Hørning,875000 ,10-08-2009,Fam. Salg,179,4888,5,1974,
 746,Villa,Tycho Brahes Alle 12,8464, Galten,2832500 ,10-08-2009,Alm. Salg,157,18041,5,2007,-6%
 746,Rækkehus,Lynghøjvej 46,8660, Skanderborg,1125000 ,09-08-2009,Alm. Salg,106,10613,4,1920,-6%
-746,Rækkehus,Stjærvej 17A,8660, Skanderborg,1700000 ,09-08-2009,Alm. Salg,167,10180,6,1962,-8%
 746,Rækkehus,Kongefolden 111,8660, Skanderborg,3100000 ,09-08-2009,Alm. Salg,154,20130,5,2008,
 746,Villa,Niels Bohrs Alle 20,8464, Galten,2575000 ,09-08-2009,Alm. Salg,150,17167,6,2004,-4%
 746,Villa,Fugldalen 36,8680, Ry,3220000 ,09-08-2009,Alm. Salg,165,19515,5,2000,
-746,Villa,Højlandsvænget 7,8660, Skanderborg,1700000 ,09-08-2009,Alm. Salg,122,13934,4,2003,-3%
 746,Villa,Egevej 13,8680, Ry,1725000 ,09-08-2009,Alm. Salg,154,11201,5,1980,-4%
 746,Villa,Tebstrup Parkvej 3,8660, Skanderborg,2055495 ,09-08-2009,Alm. Salg,135,15226,5,2009,
 746,Rækkehus,Agervej 36,8464, Galten,1635000 ,07-08-2009,Alm. Salg,130,12577,4,1971,-4%
@@ -13379,8 +13232,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Ahornvej 58,8680, Ry,1700000 ,09-07-2009,Alm. Salg,186,9140,5,1978,
 746,Villa,Vesterbro 22,8464, Galten,2050000 ,09-07-2009,Alm. Salg,156,13141,5,1951,-7%
 746,Rækkehus,Emborgvej 137,8660, Skanderborg,665761 ,08-07-2009,Alm. Salg,121,5502,4,1908,
-746,Ejerlejlighed,P B Lunds Vej 35,8660, Skanderborg,1350000 ,08-07-2009,Alm. Salg,208,6490,6,1913,
-746,Ejerlejlighed,"Anesmindevej 12, kl",8660, Skanderborg,1350000 ,08-07-2009,Alm. Salg,67,20149,2,1913,
 746,Ejerlejlighed,"Klostervej 12, 1",8680, Ry,2600000 ,08-07-2009,Alm. Salg,106,24528,4,1897,
 746,Villa,Toftevej 2,8464, Galten,2250000 ,07-07-2009,Alm. Salg,174,12931,6,1967,
 746,Rækkehus,Kildeparken 121,8660, Skanderborg,1435000 ,06-07-2009,Alm. Salg,102,14069,4,1986,-10%
@@ -13431,7 +13282,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Rækkehus,Skovsgårdsparken 5,8362, Hørning,1625000 ,18-06-2009,Alm. Salg,96,16927,4,1999,-4%
 746,Villa,Ryesgade 21,8680, Ry,2250000 ,18-06-2009,Alm. Salg,146,15411,5,1916,-8%
 746,Villa,Siimtoften 14,8660, Skanderborg,1790000 ,16-06-2009,Alm. Salg,115,15565,4,2001,-5%
-746,Villa,P B Lunds Vej 25,8660, Skanderborg,1900000 ,16-06-2009,Fam. Salg,244,7787,7,1969,
 746,Villa,Østergårds Alle 132,8362, Hørning,3800000 ,16-06-2009,Alm. Salg,206,18447,7,2008,
 746,Rækkehus,Skovlundvej 32,8464, Galten,1450000 ,15-06-2009,Alm. Salg,97,14948,3,2002,-3%
 746,Villa,Blegindvej 50,8362, Hørning,1380000 ,15-06-2009,Alm. Salg,102,13529,3,1900,-5%
@@ -13540,7 +13390,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Horsevej 8,8464, Galten,1650000 ,14-04-2009,Alm. Salg,127,12992,5,1973,-8%
 746,Villa,Sølystvej 22,8660, Skanderborg,4950000 ,14-04-2009,Alm. Salg,155,31935,6,1934,
 746,Villa,Svalevej 9,8660, Skanderborg,1600000 ,13-04-2009,Alm. Salg,181,8840,6,1975,-13%
-746,Ejerlejlighed,Pebbelgården 10C,8464, Galten,1900000 ,12-04-2009,Alm. Salg,150,12667,5,1881,
 746,Villa,Damgårdsvej 41,8660, Skanderborg,1860000 ,12-04-2009,Alm. Salg,132,14091,4,1977,-6%
 746,Villa,Lynghøjvej 56,8660, Skanderborg,1100000 ,12-04-2009,Alm. Salg,164,6707,5,1907,-56%
 746,Rækkehus,Bakkevej 31,8670, Låsby,500000 ,06-04-2009,Alm. Salg,74,6757,4,1968,-28%
@@ -13775,8 +13624,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Rækkehus,Rosenvænget 11,8362, Hørning,1700000 ,02-10-2008,Alm. Salg,93,18280,4,1965,-5%
 746,Villa,Ahornvej 6,8680, Ry,2075000 ,01-10-2008,Alm. Salg,130,15962,6,1977,-5%
 746,Rækkehus,Kongefolden 19,8660, Skanderborg,2275000 ,29-09-2008,Alm. Salg,118,19280,5,2008,-3%
-746,Ejerlejlighed,"Østerskovvej 18, 1",8670, Låsby,3200000 ,29-09-2008,Alm. Salg,50,64000,3,1914,
-746,Villa,Galtenvej 20,8670, Låsby,3200000 ,29-09-2008,Alm. Salg,176,18182,4,1900,
 746,Villa,Højgårdsvej 9,8362, Hørning,2050000 ,28-09-2008,Fam. Salg,155,13226,5,1967,
 746,Villa,Industritoften 12,8660, Skanderborg,2250000 ,27-09-2008,Alm. Salg,163,13804,5,1986,
 746,Villa,Christinedahlsvej 4,8464, Galten,1515000 ,26-09-2008,Alm. Salg,103,14709,4,1976,-5%
@@ -14034,9 +13881,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Sønderbækparken 25,8660, Skanderborg,1600000 ,22-05-2008,Alm. Salg,123,13008,4,1972,-11%
 746,Villa,Elværksvej 17,8464, Galten,1550000 ,22-05-2008,Alm. Salg,160,9688,6,1982,-3%
 746,Villa,Karolinelund 20,8660, Skanderborg,895000 ,22-05-2008,Alm. Salg,221,4050,4,2010,
-746,Rækkehus,Silkeborgvej 39A,8464, Galten,3300000 ,21-05-2008,Alm. Salg,180,18333,6,1827,
 746,Ejerlejlighed,"Skolebakken 9, 1. th",8464, Galten,935000 ,21-05-2008,Alm. Salg,69,13551,2,1964,-6%
-746,Ejerlejlighed,"Silkeborgvej 39, 1",8464, Galten,3300000 ,21-05-2008,Alm. Salg,90,36667,4,1827,
 746,Villa,Hedevej 9,8660, Skanderborg,2100000 ,21-05-2008,Alm. Salg,194,10825,5,1912,
 746,Villa,Kildebakken 19,8680, Ry,3400000 ,21-05-2008,Fam. Salg,135,25185,4,1949,
 746,Rækkehus,Brunhøj 27A,8362, Hørning,2000000 ,20-05-2008,Alm. Salg,112,17857,4,2000,-9%
@@ -14231,78 +14076,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Bjedstrupvej 41,8660, Skanderborg,2600000 ,02-03-2008,Alm. Salg,179,14525,4,1900,-7%
 746,Villa,Tyndeleddet 12,8660, Skanderborg,816000 ,02-03-2008,Fam. Salg,149,5477,6,1946,
 746,Villa,Risvej 40,8660, Skanderborg,1650000 ,02-03-2008,Alm. Salg,150,11000,5,1916,-8%
-746,Ejerlejlighed,"Adelgade 130, 4. th",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,80,237500,4,0,
-746,Ejerlejlighed,"Lille Nyhavn 13, 3. tv",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,198,95960,4,0,
-746,Ejerlejlighed,"Lille Nyhavn 2, 3. tv",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,94,202128,3,0,
-746,Ejerlejlighed,"Lille Nyhavn 16, 3. tv",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,98,193878,2,0,
-746,Ejerlejlighed,"Adelgade 130, 3. tv",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,69,275362,2,0,
-746,Ejerlejlighed,"Lille Nyhavn 18, 1. tv",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,173,109827,3,0,
-746,Ejerlejlighed,"Lille Nyhavn 1, 2. th",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,102,186275,2,0,
-746,Ejerlejlighed,"Lille Nyhavn 13, 1. th",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,117,162393,3,0,
-746,Ejerlejlighed,"Adelgade 130, 1. th",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,78,243590,2,0,
-746,Ejerlejlighed,"Lille Nyhavn 2, 2. th",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,102,186275,3,0,
-746,Ejerlejlighed,"Lille Nyhavn 2, 4. th",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,102,186275,3,0,
-746,Ejerlejlighed,"Lille Nyhavn 1, 1. th",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,102,186275,3,0,
-746,Ejerlejlighed,"Lille Nyhavn 16, 1. th",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,98,193878,3,0,
-746,Ejerlejlighed,"Lille Nyhavn 1, 3. th",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,102,186275,3,0,
-746,Ejerlejlighed,"Lille Nyhavn 12, 3. th",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,198,95960,4,0,
-746,Ejerlejlighed,"Lille Nyhavn 3, 1. th",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,178,106742,5,0,
-746,Ejerlejlighed,"Lille Nyhavn 3, 3. th",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,178,106742,5,0,
-746,Ejerlejlighed,"Lille Nyhavn 12, 4. th",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,198,95960,4,0,
-746,Ejerlejlighed,"Lille Nyhavn 12, 1. tv",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,108,175926,3,0,
-746,Ejerlejlighed,"Lille Nyhavn 18, 2. tv",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,173,109827,3,0,
-746,Ejerlejlighed,"Lille Nyhavn 18, 4. tv",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,173,109827,3,0,
-746,Ejerlejlighed,"Lille Nyhavn 10, 4. tv",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,200,95000,5,0,
-746,Ejerlejlighed,"Lille Nyhavn 18, 2. th",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,134,141791,4,0,
-746,Ejerlejlighed,"Lille Nyhavn 2, 4. tv",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,94,202128,3,0,
-746,Ejerlejlighed,"Adelgade 130, 1. tv",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,69,275362,2,0,
-746,Ejerlejlighed,"Lille Nyhavn 12, 2. tv",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,108,175926,3,0,
-746,Ejerlejlighed,"Adelgade 130, 3. th",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,78,243590,2,0,
-746,Ejerlejlighed,"Adelgade 130, 2. th",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,78,243590,2,0,
-746,Ejerlejlighed,"Lille Nyhavn 2, 3. th",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,102,186275,3,0,
-746,Ejerlejlighed,"Lille Nyhavn 16, 1. tv",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,98,193878,2,0,
-746,Ejerlejlighed,"Lille Nyhavn 13, 4. th",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,117,162393,3,0,
-746,Ejerlejlighed,"Lille Nyhavn 13, 2. th",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,117,162393,3,0,
-746,Ejerlejlighed,"Lille Nyhavn 16, 3. th",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,98,193878,3,0,
-746,Ejerlejlighed,"Lille Nyhavn 13, 4. tv",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,198,95960,4,0,
-746,Ejerlejlighed,"Lille Nyhavn 3, 1. tv",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,200,95000,5,0,
-746,Ejerlejlighed,"Lille Nyhavn 12, 2. th",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,198,95960,4,0,
-746,Ejerlejlighed,"Lille Nyhavn 10, 2. tv",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,200,95000,5,0,
-746,Ejerlejlighed,"Adelgade 130, 4. tv",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,68,279412,2,0,
-746,Ejerlejlighed,"Lille Nyhavn 3, 3. tv",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,200,95000,5,0,
-746,Ejerlejlighed,"Lille Nyhavn 10, 1. th",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,182,104396,5,0,
-746,Ejerlejlighed,"Lille Nyhavn 10, 1. tv",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,200,95000,5,0,
-746,Ejerlejlighed,"Lille Nyhavn 12, 3. tv",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,108,175926,3,0,
-746,Ejerlejlighed,"Lille Nyhavn 18, 3. th",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,134,141791,4,0,
-746,Ejerlejlighed,"Lille Nyhavn 3, 4. th",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,178,106742,5,0,
-746,Ejerlejlighed,"Lille Nyhavn 1, 1. tv",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,102,186275,3,0,
-746,Ejerlejlighed,"Lille Nyhavn 12, 1. th",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,198,95960,4,0,
-746,Ejerlejlighed,"Lille Nyhavn 16, 4. tv",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,98,193878,2,0,
-746,Ejerlejlighed,"Lille Nyhavn 16, 4. th",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,98,193878,3,0,
-746,Ejerlejlighed,"Lille Nyhavn 12, 4. tv",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,108,175926,3,0,
-746,Ejerlejlighed,"Lille Nyhavn 10, 4. th",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,182,104396,5,0,
-746,Ejerlejlighed,"Adelgade 130, 2. tv",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,69,275362,2,0,
-746,Ejerlejlighed,"Lille Nyhavn 2, 1. tv",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,94,202128,3,0,
-746,Ejerlejlighed,"Lille Nyhavn 13, 2. tv",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,198,95960,4,0,
-746,Ejerlejlighed,"Lille Nyhavn 13, 1. tv",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,198,95960,4,0,
-746,Ejerlejlighed,"Lille Nyhavn 18, 4. th",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,134,141791,4,0,
-746,Ejerlejlighed,"Lille Nyhavn 1, 4. th",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,102,186275,3,0,
-746,Ejerlejlighed,"Lille Nyhavn 18, 3. tv",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,173,109827,3,0,
-746,Ejerlejlighed,"Lille Nyhavn 1, 2. tv",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,102,186275,3,0,
-746,Ejerlejlighed,"Lille Nyhavn 3, 2. th",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,178,106742,5,0,
-746,Ejerlejlighed,"Lille Nyhavn 1, 4. tv",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,102,186275,3,0,
-746,Ejerlejlighed,"Lille Nyhavn 10, 3. tv",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,200,95000,5,0,
-746,Ejerlejlighed,"Lille Nyhavn 3, 2. tv",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,200,95000,5,0,
-746,Ejerlejlighed,"Lille Nyhavn 16, 2. th",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,98,193878,3,0,
-746,Ejerlejlighed,"Lille Nyhavn 1, 3. tv",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,102,186275,3,0,
-746,Ejerlejlighed,"Lille Nyhavn 13, 3. th",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,117,162393,3,0,
-746,Ejerlejlighed,"Lille Nyhavn 2, 1. th",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,102,186275,3,0,
-746,Ejerlejlighed,"Lille Nyhavn 2, 2. tv",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,94,202128,3,0,
-746,Ejerlejlighed,"Lille Nyhavn 18, 1. th",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,134,141791,4,0,
-746,Ejerlejlighed,"Lille Nyhavn 3, 4. tv",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,200,95000,5,0,
-746,Ejerlejlighed,"Lille Nyhavn 16, 2. tv",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,98,193878,2,0,
-746,Ejerlejlighed,"Lille Nyhavn 10, 2. th",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,182,104396,5,0,
-746,Ejerlejlighed,"Lille Nyhavn 10, 3. th",8660, Skanderborg,19000000 ,29-02-2008,Alm. Salg,182,104396,5,0,
 746,Villa,Ellelausvej 13,8660, Skanderborg,230000 ,29-02-2008,Alm. Salg,144,1597,6,1948,
 746,Villa,Stadionvej 11,8660, Skanderborg,2300000 ,29-02-2008,Alm. Salg,169,13609,5,1979,-8%
 746,Villa,Blåbærvænget 2,8660, Skanderborg,2900000 ,29-02-2008,Alm. Salg,167,17365,5,1962,-3%
@@ -14515,7 +14288,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Ejerlejlighed,"Kongefolden 4, st. tv",8660, Skanderborg,1740000 ,27-11-2007,Alm. Salg,91,19121,3,2007,
 746,Villa,Allingvej 9,8680, Ry,1450000 ,27-11-2007,Alm. Salg,179,8101,7,1925,-3%
 746,Villa,Vestergårds Alle 32,8362, Hørning,1050000 ,27-11-2007,Alm. Salg,172,6105,5,2008,
-746,Ejerlejlighed,"Klostervej 14, 1",8680, Ry,3150000 ,26-11-2007,Alm. Salg,128,24609,5,1890,
 746,Ejerlejlighed,"Kongefolden 42, 1. mf",8660, Skanderborg,4295000 ,26-11-2007,Alm. Salg,157,27357,3,2008,
 746,Villa,Emborgvej 74,8660, Skanderborg,4700000 ,26-11-2007,Alm. Salg,190,24737,5,1935,
 746,Villa,Lærkevænget 18,8464, Galten,2088000 ,26-11-2007,Alm. Salg,132,15818,5,1998,0%
@@ -14604,9 +14376,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Joh P Sørensens Vej 29,8660, Skanderborg,500000 ,28-10-2007,Alm. Salg,141,3546,5,2011,
 746,Rækkehus,Foerlev Møllevej 35,8660, Skanderborg,1550000 ,26-10-2007,Alm. Salg,155,10000,5,1850,
 746,Villa,Ildervej 8,8680, Ry,2870000 ,26-10-2007,Alm. Salg,220,13045,8,1970,-3%
-746,Ejerlejlighed,"Adelgade 23, st. th",8660, Skanderborg,1700000 ,25-10-2007,Alm. Salg,86,19767,3,1830,
 746,Villa,Kærvej 8,8660, Skanderborg,1200000 ,25-10-2007,Andet,136,8824,6,1967,
-746,Villa,Emborgvej 112,8660, Skanderborg,1700000 ,25-10-2007,Alm. Salg,153,11111,5,1920,
 746,Villa,Brunesvej 10,8660, Skanderborg,2000001 ,25-10-2007,Alm. Salg,213,9390,6,1918,
 746,Villa,Kærvej 1A,8362, Hørning,1000000 ,25-10-2007,Alm. Salg,181,5525,5,2018,
 746,Villa,Holmedal 57,8660, Skanderborg,1475000 ,24-10-2007,Alm. Salg,177,8333,6,1904,-2%
@@ -14900,13 +14670,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Hybenparken 8,8660, Skanderborg,2550000 ,10-07-2007,Alm. Salg,110,23182,4,2001,-5%
 746,Rækkehus,Vesterparken 51,8660, Skanderborg,1845000 ,09-07-2007,Alm. Salg,84,21964,3,1998,
 746,Rækkehus,Bie Rasmussens Vænge 6,8660, Skanderborg,1550000 ,09-07-2007,Alm. Salg,84,18452,3,1988,
-746,Ejerlejlighed,Hostrupsvej 5B,8680, Ry,2003987 ,09-07-2007,Andet,28,71571,1,1975,
-746,Ejerlejlighed,Hostrupsvej 5D,8680, Ry,2003987 ,09-07-2007,Andet,28,71571,1,1975,
-746,Ejerlejlighed,Hostrupsvej 5A,8680, Ry,2003987 ,09-07-2007,Andet,28,71571,1,1975,
-746,Ejerlejlighed,Hostrupsvej 5C,8680, Ry,2003987 ,09-07-2007,Andet,28,71571,1,1975,
-746,Ejerlejlighed,Hostrupsvej 5E,8680, Ry,2003987 ,09-07-2007,Andet,28,71571,1,1975,
-746,Ejerlejlighed,"Klostervej 24, 1. th",8680, Ry,2003987 ,09-07-2007,Andet,58,34552,2,1907,
-746,Ejerlejlighed,"Klostervej 24, 1. tv",8680, Ry,2003987 ,09-07-2007,Andet,58,34552,2,1907,
 746,Villa,Allegade 6,8362, Hørning,1550000 ,09-07-2007,Alm. Salg,141,10993,4,1964,
 746,Villa,Bakkelyparken 16,8680, Ry,2400000 ,09-07-2007,Alm. Salg,182,13187,5,1976,-8%
 746,Villa,Siimvej 26,8680, Ry,2175000 ,08-07-2007,Alm. Salg,171,12719,7,1942,-5%
@@ -15068,10 +14831,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Græsballe 16,8660, Skanderborg,2250000 ,29-05-2007,Alm. Salg,170,13235,4,1969,-10%
 746,Villa,Klanghøj 50,8670, Låsby,2595000 ,29-05-2007,Alm. Salg,150,17300,5,2007,
 746,Rækkehus,Nørre Alle 21A,8660, Skanderborg,1465000 ,28-05-2007,Alm. Salg,75,19533,3,1965,
-746,Rækkehus,Kløverparken 2,8660, Skanderborg,2500000 ,28-05-2007,Alm. Salg,111,22523,4,2004,
 746,Rækkehus,Frederik d. II's Allé 247,8660, Skanderborg,3025000 ,28-05-2007,Alm. Salg,136,22243,5,2007,-3%
 746,Ejerlejlighed,"Ole Lund Kirkegaards Stræde 2C, 1. th",8660, Skanderborg,1120000 ,28-05-2007,Alm. Salg,74,15135,3,1956,
-746,Villa,Skovkildeparken 85,8660, Skanderborg,2500000 ,28-05-2007,Alm. Salg,141,17730,5,2004,
 746,Villa,Kløverparken 7,8660, Skanderborg,2588750 ,28-05-2007,Alm. Salg,115,22511,4,2004,
 746,Villa,Kløverparken 8,8660, Skanderborg,2505500 ,28-05-2007,Alm. Salg,111,22572,4,2004,
 746,Villa,Elisabeths Vænge 8,8660, Skanderborg,1760000 ,28-05-2007,Alm. Salg,220,8000,6,2009,
@@ -15142,7 +14903,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Rækkehus,Frederik d. II's Allé 239,8660, Skanderborg,3550000 ,09-05-2007,Alm. Salg,156,22756,5,2007,
 746,Rækkehus,Frederik d. II's Allé 213,8660, Skanderborg,1895000 ,09-05-2007,Alm. Salg,96,19740,4,2007,
 746,Rækkehus,Frederik d. II's Allé 257,8660, Skanderborg,2790000 ,09-05-2007,Alm. Salg,136,20515,5,2007,
-746,Rækkehus,Skanderborgvej 19B,8680, Ry,3750000 ,09-05-2007,Alm. Salg,43,87209,1,1950,
 746,Ejerlejlighed,"Kongefolden 4, 4. tv",8660, Skanderborg,2280000 ,09-05-2007,Alm. Salg,91,25055,3,2007,
 746,Villa,Søvejen 77,8660, Skanderborg,2700000 ,09-05-2007,Fam. Salg,326,8282,7,2018,
 746,Villa,Hylkevej 114,8660, Skanderborg,520000 ,09-05-2007,Alm. Salg,93,5591,4,1917,
@@ -15262,9 +15022,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Gadebakken 39B,8660, Skanderborg,700000 ,25-03-2007,Alm. Salg,150,4667,5,2008,
 746,Villa,Gefionsvej 4,8680, Ry,2050000 ,25-03-2007,Alm. Salg,197,10406,7,1964,
 746,Rækkehus,Kristiansbakken 17,8660, Skanderborg,1405000 ,24-03-2007,Andet,107,13131,2,2001,
-746,Ejerlejlighed,"Søndergade 26, st. th",8464, Galten,3072500 ,24-03-2007,Fam. Salg,102,30123,5,1939,
-746,Ejerlejlighed,"Skolevej 14, kl",8464, Galten,3072500 ,24-03-2007,Fam. Salg,158,19446,4,1967,
-746,Ejerlejlighed,"Skolevej 14, st",8464, Galten,3072500 ,24-03-2007,Fam. Salg,158,19446,3,1967,
 746,Villa,Vibevænget 61,8464, Galten,1500000 ,24-03-2007,Alm. Salg,130,11538,4,1972,
 746,Villa,Stenløkkeparken 31,8660, Skanderborg,1350000 ,23-03-2007,Alm. Salg,120,11250,4,1973,
 746,Rækkehus,Kløvervej 1A,8362, Hørning,2300000 ,22-03-2007,Alm. Salg,114,20175,4,2006,
@@ -15336,11 +15093,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Kattrupvej 12,8660, Skanderborg,975000 ,26-02-2007,Alm. Salg,88,11080,3,1962,
 746,Villa,Banevænget 3,8660, Skanderborg,1697500 ,26-02-2007,Alm. Salg,171,9927,6,1965,
 746,Villa,Vessøvej 71,8680, Ry,1095000 ,26-02-2007,Alm. Salg,167,6557,6,2010,
-746,Rækkehus,Triersvej 31,8660, Skanderborg,2599000 ,25-02-2007,Alm. Salg,116,22405,4,2000,
 746,Rækkehus,Frederik d. II's Allé 127,8660, Skanderborg,2125000 ,25-02-2007,Alm. Salg,96,22135,4,2007,
 746,Rækkehus,Maskedal 24A,8660, Skanderborg,1525000 ,25-02-2007,Alm. Salg,102,14951,4,2007,
 746,Villa,P B Lunds Vej 20,8660, Skanderborg,3375000 ,25-02-2007,Alm. Salg,119,28361,5,1934,
-746,Villa,Skovkildeparken 94,8660, Skanderborg,2599000 ,25-02-2007,Alm. Salg,153,16987,5,1999,
 746,Villa,Alkenvej 58,8660, Skanderborg,900000 ,25-02-2007,Alm. Salg,105,8571,3,1969,
 746,Villa,Bøgevej 67,8680, Ry,1050000 ,22-02-2007,Alm. Salg,141,7447,6,1984,
 746,Villa,Forten 10,8660, Skanderborg,1050000 ,21-02-2007,Alm. Salg,133,7895,5,1965,
@@ -15496,7 +15251,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Krøyer Kielbergs Vej 18,8660, Skanderborg,1900000 ,29-12-2006,Alm. Salg,181,10497,5,1930,
 746,Villa,Lergravsvej 28A,8660, Skanderborg,1930000 ,26-12-2006,Alm. Salg,140,13786,6,1979,
 746,Villa,Augustas Vænge 28,8660, Skanderborg,1537000 ,22-12-2006,Alm. Salg,202,7609,6,2008,
-746,Ejerlejlighed,Pebbelgården 10C,8464, Galten,1900000 ,21-12-2006,Alm. Salg,150,12667,5,1881,
 746,Villa,Vidkærvej 13,8660, Skanderborg,820000 ,21-12-2006,Alm. Salg,95,8632,3,1900,
 746,Villa,Møllevej 2,8362, Hørning,1975000 ,21-12-2006,Alm. Salg,90,21944,3,1945,
 746,Villa,Stenløkkeparken 15,8660, Skanderborg,971193 ,21-12-2006,Andet,185,5250,5,1971,
@@ -15516,7 +15270,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Hedevej 1,8680, Ry,3400000 ,13-12-2006,Alm. Salg,150,22667,5,2006,
 746,Villa,Risvej 35,8660, Skanderborg,2398000 ,12-12-2006,Alm. Salg,145,16538,4,1916,
 746,Villa,Ryesgade 19,8680, Ry,1245000 ,12-12-2006,Alm. Salg,147,8469,8,1900,
-746,Villa,Sygehusvej 20A,8660, Skanderborg,2500000 ,11-12-2006,Alm. Salg,150,16667,2,1930,
 746,Villa,Kildebjerg Skovvej 23,8680, Ry,956350 ,11-12-2006,Alm. Salg,203,4711,6,2009,
 746,Villa,P B Lunds Vej 22A,8660, Skanderborg,1500000 ,10-12-2006,Alm. Salg,183,8197,6,1969,
 746,Villa,Allegade 13,8362, Hørning,1920000 ,10-12-2006,Alm. Salg,125,15360,3,1900,
@@ -15615,8 +15368,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Siimvej 14,8680, Ry,2725000 ,25-10-2006,Alm. Salg,137,19891,8,1961,
 746,Villa,Augustas Vænge 25,8660, Skanderborg,1477000 ,25-10-2006,Alm. Salg,167,8844,5,2007,
 746,Rækkehus,Brunhøj 31B,8362, Hørning,1495000 ,24-10-2006,Alm. Salg,93,16075,4,1982,
-746,Ejerlejlighed,"Bakkeskoven 2, 1",8464, Galten,2495000 ,24-10-2006,Alm. Salg,77,32403,2,1972,
-746,Villa,Bakkeskoven 2,8464, Galten,2495000 ,24-10-2006,Alm. Salg,104,23990,3,1972,
 746,Villa,Dyrballevej 18,8362, Hørning,3100000 ,23-10-2006,Alm. Salg,140,22143,5,1997,
 746,Rækkehus,Vestergade 67,8464, Galten,1100000 ,21-10-2006,Alm. Salg,58,18966,2,1989,
 746,Villa,Skovvænget 6,8680, Ry,3825000 ,20-10-2006,Alm. Salg,178,21489,5,1998,
@@ -15654,9 +15405,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Randersvej 97,8680, Ry,1630000 ,05-10-2006,Alm. Salg,160,10188,4,1954,
 746,Villa,Lyngvej 16,8660, Skanderborg,3625000 ,04-10-2006,Alm. Salg,297,12205,8,2008,
 746,Villa,Møllegade 81,8660, Skanderborg,1800000 ,04-10-2006,Alm. Salg,144,12500,6,1900,
-746,Rækkehus,Frejasvej 3A,8680, Ry,1495000 ,03-10-2006,Alm. Salg,78,19167,3,1989,
 746,Villa,Farrevej 18,8464, Galten,5094305 ,03-10-2006,Fam. Salg,70,72776,3,1896,
-746,Villa,Randersvej 94,8680, Ry,1495000 ,03-10-2006,Alm. Salg,105,9061,5,1942,
 746,Villa,Klostervej 40,8680, Ry,400296 ,03-10-2006,Fam. Salg,165,2426,6,1906,
 746,Rækkehus,Bakken 13C,8660, Skanderborg,4000000 ,02-10-2006,Alm. Salg,133,30075,4,2007,
 746,Ejerlejlighed,"Adelgade 49, 1",8660, Skanderborg,1000000 ,02-10-2006,Fam. Salg,92,10870,4,1961,
@@ -15684,13 +15433,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Gl Ryvej 26,8362, Hørning,1900000 ,25-09-2006,Alm. Salg,229,8297,5,1974,
 746,Villa,Baldersvej 13,8464, Galten,2398000 ,24-09-2006,Alm. Salg,130,18446,5,1973,
 746,Villa,Lillesøvej 70,8660, Skanderborg,5123000 ,24-09-2006,Alm. Salg,119,43050,4,1978,
-746,Ejerlejlighed,Hostrupsvej 5B,8680, Ry,1957434 ,22-09-2006,Fam. Salg,28,69908,1,1975,
-746,Ejerlejlighed,Hostrupsvej 5D,8680, Ry,1957434 ,22-09-2006,Fam. Salg,28,69908,1,1975,
-746,Ejerlejlighed,Hostrupsvej 5A,8680, Ry,1957434 ,22-09-2006,Fam. Salg,28,69908,1,1975,
-746,Ejerlejlighed,Hostrupsvej 5C,8680, Ry,1957434 ,22-09-2006,Fam. Salg,28,69908,1,1975,
-746,Ejerlejlighed,Hostrupsvej 5E,8680, Ry,1957434 ,22-09-2006,Fam. Salg,28,69908,1,1975,
-746,Ejerlejlighed,"Klostervej 24, 1. th",8680, Ry,1957434 ,22-09-2006,Fam. Salg,58,33749,2,1907,
-746,Ejerlejlighed,"Klostervej 24, 1. tv",8680, Ry,1957434 ,22-09-2006,Fam. Salg,58,33749,2,1907,
 746,Villa,Rugmarken 11,8362, Hørning,2700000 ,21-09-2006,Alm. Salg,190,14211,6,1978,
 746,Villa,Tippethøj 23,8680, Ry,1498169 ,21-09-2006,Fam. Salg,194,7723,5,2005,
 746,Villa,Blåbærvænget 10,8660, Skanderborg,3000000 ,21-09-2006,Alm. Salg,191,15707,7,1965,
@@ -15705,78 +15447,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Vestermarken 1,8670, Låsby,3400000 ,18-09-2006,Alm. Salg,207,16425,7,2002,
 746,Rækkehus,Låsbyvej 48B,8660, Skanderborg,2300000 ,17-09-2006,Alm. Salg,220,10455,6,1963,
 746,Rækkehus,Frederik d. II's Allé 327,8660, Skanderborg,2555000 ,17-09-2006,Alm. Salg,126,20278,5,2007,
-746,Ejerlejlighed,"Adelgade 130, 4. th",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,80,125000,4,0,
-746,Ejerlejlighed,"Lille Nyhavn 13, 3. tv",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,198,50505,4,0,
-746,Ejerlejlighed,"Lille Nyhavn 2, 3. tv",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,94,106383,3,0,
-746,Ejerlejlighed,"Lille Nyhavn 16, 3. tv",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,98,102041,2,0,
-746,Ejerlejlighed,"Adelgade 130, 3. tv",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,69,144928,2,0,
-746,Ejerlejlighed,"Lille Nyhavn 18, 1. tv",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,173,57803,3,0,
-746,Ejerlejlighed,"Lille Nyhavn 1, 2. th",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,102,98039,2,0,
-746,Ejerlejlighed,"Lille Nyhavn 13, 1. th",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,117,85470,3,0,
-746,Ejerlejlighed,"Adelgade 130, 1. th",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,78,128205,2,0,
-746,Ejerlejlighed,"Lille Nyhavn 2, 2. th",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,102,98039,3,0,
-746,Ejerlejlighed,"Lille Nyhavn 2, 4. th",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,102,98039,3,0,
-746,Ejerlejlighed,"Lille Nyhavn 1, 1. th",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,102,98039,3,0,
-746,Ejerlejlighed,"Lille Nyhavn 16, 1. th",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,98,102041,3,0,
-746,Ejerlejlighed,"Lille Nyhavn 1, 3. th",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,102,98039,3,0,
-746,Ejerlejlighed,"Lille Nyhavn 12, 3. th",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,198,50505,4,0,
-746,Ejerlejlighed,"Lille Nyhavn 3, 1. th",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,178,56180,5,0,
-746,Ejerlejlighed,"Lille Nyhavn 3, 3. th",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,178,56180,5,0,
-746,Ejerlejlighed,"Lille Nyhavn 12, 4. th",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,198,50505,4,0,
-746,Ejerlejlighed,"Lille Nyhavn 12, 1. tv",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,108,92593,3,0,
-746,Ejerlejlighed,"Lille Nyhavn 18, 2. tv",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,173,57803,3,0,
-746,Ejerlejlighed,"Lille Nyhavn 18, 4. tv",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,173,57803,3,0,
-746,Ejerlejlighed,"Lille Nyhavn 10, 4. tv",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,200,50000,5,0,
-746,Ejerlejlighed,"Lille Nyhavn 18, 2. th",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,134,74627,4,0,
-746,Ejerlejlighed,"Lille Nyhavn 2, 4. tv",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,94,106383,3,0,
-746,Ejerlejlighed,"Adelgade 130, 1. tv",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,69,144928,2,0,
-746,Ejerlejlighed,"Lille Nyhavn 12, 2. tv",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,108,92593,3,0,
-746,Ejerlejlighed,"Adelgade 130, 3. th",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,78,128205,2,0,
-746,Ejerlejlighed,"Adelgade 130, 2. th",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,78,128205,2,0,
-746,Ejerlejlighed,"Lille Nyhavn 2, 3. th",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,102,98039,3,0,
-746,Ejerlejlighed,"Lille Nyhavn 16, 1. tv",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,98,102041,2,0,
-746,Ejerlejlighed,"Lille Nyhavn 13, 4. th",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,117,85470,3,0,
-746,Ejerlejlighed,"Lille Nyhavn 13, 2. th",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,117,85470,3,0,
-746,Ejerlejlighed,"Lille Nyhavn 16, 3. th",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,98,102041,3,0,
-746,Ejerlejlighed,"Lille Nyhavn 13, 4. tv",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,198,50505,4,0,
-746,Ejerlejlighed,"Lille Nyhavn 3, 1. tv",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,200,50000,5,0,
-746,Ejerlejlighed,"Lille Nyhavn 12, 2. th",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,198,50505,4,0,
-746,Ejerlejlighed,"Lille Nyhavn 10, 2. tv",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,200,50000,5,0,
-746,Ejerlejlighed,"Adelgade 130, 4. tv",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,68,147059,2,0,
-746,Ejerlejlighed,"Lille Nyhavn 3, 3. tv",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,200,50000,5,0,
-746,Ejerlejlighed,"Lille Nyhavn 10, 1. th",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,182,54945,5,0,
-746,Ejerlejlighed,"Lille Nyhavn 10, 1. tv",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,200,50000,5,0,
-746,Ejerlejlighed,"Lille Nyhavn 12, 3. tv",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,108,92593,3,0,
-746,Ejerlejlighed,"Lille Nyhavn 18, 3. th",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,134,74627,4,0,
-746,Ejerlejlighed,"Lille Nyhavn 3, 4. th",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,178,56180,5,0,
-746,Ejerlejlighed,"Lille Nyhavn 1, 1. tv",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,102,98039,3,0,
-746,Ejerlejlighed,"Lille Nyhavn 12, 1. th",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,198,50505,4,0,
-746,Ejerlejlighed,"Lille Nyhavn 16, 4. tv",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,98,102041,2,0,
-746,Ejerlejlighed,"Lille Nyhavn 16, 4. th",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,98,102041,3,0,
-746,Ejerlejlighed,"Lille Nyhavn 12, 4. tv",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,108,92593,3,0,
-746,Ejerlejlighed,"Lille Nyhavn 10, 4. th",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,182,54945,5,0,
-746,Ejerlejlighed,"Adelgade 130, 2. tv",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,69,144928,2,0,
-746,Ejerlejlighed,"Lille Nyhavn 2, 1. tv",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,94,106383,3,0,
-746,Ejerlejlighed,"Lille Nyhavn 13, 2. tv",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,198,50505,4,0,
-746,Ejerlejlighed,"Lille Nyhavn 13, 1. tv",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,198,50505,4,0,
-746,Ejerlejlighed,"Lille Nyhavn 18, 4. th",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,134,74627,4,0,
-746,Ejerlejlighed,"Lille Nyhavn 1, 4. th",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,102,98039,3,0,
-746,Ejerlejlighed,"Lille Nyhavn 18, 3. tv",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,173,57803,3,0,
-746,Ejerlejlighed,"Lille Nyhavn 1, 2. tv",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,102,98039,3,0,
-746,Ejerlejlighed,"Lille Nyhavn 3, 2. th",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,178,56180,5,0,
-746,Ejerlejlighed,"Lille Nyhavn 1, 4. tv",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,102,98039,3,0,
-746,Ejerlejlighed,"Lille Nyhavn 10, 3. tv",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,200,50000,5,0,
-746,Ejerlejlighed,"Lille Nyhavn 3, 2. tv",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,200,50000,5,0,
-746,Ejerlejlighed,"Lille Nyhavn 16, 2. th",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,98,102041,3,0,
-746,Ejerlejlighed,"Lille Nyhavn 1, 3. tv",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,102,98039,3,0,
-746,Ejerlejlighed,"Lille Nyhavn 13, 3. th",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,117,85470,3,0,
-746,Ejerlejlighed,"Lille Nyhavn 2, 1. th",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,102,98039,3,0,
-746,Ejerlejlighed,"Lille Nyhavn 2, 2. tv",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,94,106383,3,0,
-746,Ejerlejlighed,"Lille Nyhavn 18, 1. th",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,134,74627,4,0,
-746,Ejerlejlighed,"Lille Nyhavn 3, 4. tv",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,200,50000,5,0,
-746,Ejerlejlighed,"Lille Nyhavn 16, 2. tv",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,98,102041,2,0,
-746,Ejerlejlighed,"Lille Nyhavn 10, 2. th",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,182,54945,5,0,
-746,Ejerlejlighed,"Lille Nyhavn 10, 3. th",8660, Skanderborg,10000000 ,17-09-2006,Alm. Salg,182,54945,5,0,
 746,Villa,Skovkanten 15,8660, Skanderborg,5650000 ,17-09-2006,Alm. Salg,196,28827,5,2000,
 746,Villa,Selvejervej 4,8680, Ry,918000 ,17-09-2006,Alm. Salg,236,3890,6,2008,
 746,Villa,Joh P Sørensens Vej 27,8660, Skanderborg,395000 ,16-09-2006,Fam. Salg,158,2500,5,2006,
@@ -16278,8 +15948,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Pilevej 5,8660, Skanderborg,2815000 ,03-04-2006,Alm. Salg,160,17594,5,1969,
 746,Villa,Bøgevej 27,8680, Ry,1700000 ,03-04-2006,Alm. Salg,129,13178,4,1983,
 746,Ejerlejlighed,"Mosevangen 3, 1. th",8660, Skanderborg,949000 ,02-04-2006,Alm. Salg,68,13956,2,1966,
-746,Ejerlejlighed,"Fregerslevvej 9B, 1",8362, Hørning,1901996 ,02-04-2006,Alm. Salg,56,33964,2,1910,
-746,Villa,Fregerslevvej 9,8362, Hørning,1901996 ,02-04-2006,Alm. Salg,140,13586,6,1910,
 746,Villa,Lyngdal 3,8680, Ry,1700000 ,02-04-2006,Alm. Salg,138,12319,4,1966,
 746,Villa,Svanevænget 1,8660, Skanderborg,2875000 ,02-04-2006,Alm. Salg,172,16715,5,1947,
 746,Villa,Kildeparken 38,8660, Skanderborg,2495000 ,02-04-2006,Alm. Salg,128,19492,4,1985,
@@ -16569,7 +16237,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Kattrupvej 10C,8660, Skanderborg,1486050 ,15-01-2006,Alm. Salg,115,12922,4,2006,
 746,Ejerlejlighed,"Spongbækken 20, 1",8362, Hørning,985000 ,13-01-2006,Alm. Salg,53,18585,2,1991,
 746,Rækkehus,Grumstrups Alle 20,8660, Skanderborg,1750000 ,12-01-2006,Alm. Salg,110,15909,4,1956,
-746,Ejerlejlighed,Pebbelgården 10C,8464, Galten,2100000 ,12-01-2006,Alm. Salg,150,14000,5,1881,
 746,Villa,Låsbyvej 128,8660, Skanderborg,1560000 ,12-01-2006,Alm. Salg,142,10986,4,1937,
 746,Villa,Gammel Skolevej 26,8660, Skanderborg,2820000 ,12-01-2006,Alm. Salg,203,13892,7,2000,
 746,Rækkehus,Ligustervej 7,8464, Galten,1495000 ,11-01-2006,Alm. Salg,116,12888,4,1980,
@@ -16602,14 +16269,12 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Valmuevænget 13,8362, Hørning,1899000 ,28-12-2005,Alm. Salg,101,18802,4,1997,
 746,Villa,Bolskovvej 15,8660, Skanderborg,1700000 ,28-12-2005,Andet,185,9189,5,1870,
 746,Rækkehus,Frederik d. II's Allé 339,8660, Skanderborg,2990000 ,27-12-2005,Alm. Salg,126,23730,5,2007,
-746,Rækkehus,Århusvej 17C,8660, Skanderborg,2950000 ,27-12-2005,Alm. Salg,52,56731,1,1900,
 746,Villa,Æblehaven 33,8464, Galten,2725000 ,27-12-2005,Alm. Salg,157,17357,6,2002,
 746,Villa,Sønderbækparken 3,8660, Skanderborg,1475000 ,27-12-2005,Alm. Salg,130,11346,3,1971,
 746,Ejerlejlighed,"Vestermosevej 2, st. th",8660, Skanderborg,925000 ,26-12-2005,Alm. Salg,90,10278,2,1935,
 746,Villa,Skovsgårdsvej 35,8362, Hørning,2695000 ,26-12-2005,Alm. Salg,150,17967,5,2002,
 746,Villa,Degnebakken 8,8464, Galten,1698000 ,26-12-2005,Alm. Salg,132,12864,5,1897,
 746,Villa,Fjeldstedsvej 3,8680, Ry,1695000 ,23-12-2005,Alm. Salg,104,16298,3,1966,
-746,Ejerlejlighed,"Eskebækparken 12, st. th",8660, Skanderborg,45806500 ,21-12-2005,Andet,79,579829,3,1967,
 746,Ejerlejlighed,"Møllegade 91, kl.",1064,  ,45806500 ,21-12-2005,Andet,24,1908604,1,1964,
 746,Ejerlejlighed,"Møllegade 91, kl.",1065,  ,45806500 ,21-12-2005,Andet,24,1908604,1,1964,
 746,Ejerlejlighed,"Møllegade 91, kl.",1063,  ,45806500 ,21-12-2005,Andet,26,1761789,1,1964,
@@ -16617,19 +16282,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Ejerlejlighed,"Møllegade 91, kl.",1066,  ,45806500 ,21-12-2005,Andet,24,1908604,1,1964,
 746,Ejerlejlighed,"Møllegade 91, kl.",1067,  ,45806500 ,21-12-2005,Andet,24,1908604,1,1964,
 746,Ejerlejlighed,"Møllegade 91, kl.",1070,  ,45806500 ,21-12-2005,Andet,26,1761789,1,1964,
-746,Ejerlejlighed,"Møllegade 91, st. 1",8660, Skanderborg,45806500 ,21-12-2005,Andet,83,551886,4,1964,
 746,Ejerlejlighed,"Møllegade 91, kl.",1069,  ,45806500 ,21-12-2005,Andet,24,1908604,1,1964,
-746,Ejerlejlighed,"Møllegade 91, st. 3",8660, Skanderborg,45806500 ,21-12-2005,Andet,82,558616,3,1964,
-746,Ejerlejlighed,"Møllegade 91, st. 2",8660, Skanderborg,45806500 ,21-12-2005,Andet,82,558616,3,1964,
-746,Ejerlejlighed,"Møllegade 91, st. 4",8660, Skanderborg,45806500 ,21-12-2005,Andet,97,472232,3,1964,
-746,Ejerlejlighed,"Møllegade 91, 1. 1",8660, Skanderborg,45806500 ,21-12-2005,Andet,83,551886,4,1964,
-746,Ejerlejlighed,"Møllegade 91, 1. 2",8660, Skanderborg,45806500 ,21-12-2005,Andet,82,558616,4,1964,
-746,Ejerlejlighed,"Møllegade 91, 2. 2",8660, Skanderborg,45806500 ,21-12-2005,Andet,82,558616,3,1964,
-746,Ejerlejlighed,"Møllegade 91, 1. 3",8660, Skanderborg,45806500 ,21-12-2005,Andet,82,558616,3,1964,
-746,Ejerlejlighed,"Møllegade 91, 1. 4",8660, Skanderborg,45806500 ,21-12-2005,Andet,97,472232,4,1964,
-746,Ejerlejlighed,"Møllegade 91, 2. 1",8660, Skanderborg,45806500 ,21-12-2005,Andet,83,551886,4,1964,
-746,Ejerlejlighed,"Møllegade 91, 2. 4",8660, Skanderborg,45806500 ,21-12-2005,Andet,97,472232,4,1964,
-746,Ejerlejlighed,"Møllegade 91, 2. 3",8660, Skanderborg,45806500 ,21-12-2005,Andet,82,558616,3,1964,
 746,Villa,Voldbyvej 18B,8464, Galten,1750000 ,21-12-2005,Alm. Salg,103,16990,3,2001,
 746,Villa,Bøgevej 58,8680, Ry,418125 ,21-12-2005,Fam. Salg,122,3427,5,1986,
 746,Rækkehus,Stjerneparken 2,8660, Skanderborg,1999000 ,20-12-2005,Alm. Salg,129,15496,5,2002,
@@ -16784,11 +16437,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Henrik Hertz Vej 19,8660, Skanderborg,2498000 ,03-11-2005,Alm. Salg,167,14958,6,1972,
 746,Rækkehus,Pebbelgården 11,8464, Galten,1237500 ,02-11-2005,Alm. Salg,95,13026,3,2006,
 746,Rækkehus,Kløvervej 1B,8362, Hørning,1798000 ,02-11-2005,Alm. Salg,114,15772,4,2006,
-746,Rækkehus,Kløvervej 1A,8362, Hørning,1698000 ,02-11-2005,Alm. Salg,114,14895,4,2006,
 746,Villa,Egholmsvej 25,8660, Skanderborg,3000000 ,02-11-2005,Alm. Salg,125,24000,4,1910,
 746,Villa,Højtoftevej 45,8660, Skanderborg,875000 ,02-11-2005,Alm. Salg,140,6250,4,1979,
-746,Villa,Kløvervej 1C,8362, Hørning,1698000 ,02-11-2005,Alm. Salg,116,14638,4,2006,
-746,Villa,Kløvervej 3A,8362, Hørning,1498000 ,02-11-2005,Alm. Salg,90,16644,3,2006,
 746,Villa,Skansehøj 29,8680, Ry,2525000 ,01-11-2005,Alm. Salg,139,18165,5,1994,
 746,Villa,Gl Ryvej 9,8362, Hørning,1848000 ,01-11-2005,Alm. Salg,160,11550,6,1900,
 746,Villa,Krøyer Kielbergs Vej 8,8660, Skanderborg,1300000 ,01-11-2005,Alm. Salg,91,14286,5,1927,
@@ -17026,7 +16676,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Nørregade 24,8464, Galten,1250000 ,25-08-2005,Alm. Salg,192,6510,6,1900,
 746,Rækkehus,Parkvej 7A,8660, Skanderborg,1675000 ,24-08-2005,Alm. Salg,110,15227,4,1925,
 746,Ejerlejlighed,"Eskebækparken 53, 1. th",8660, Skanderborg,848000 ,24-08-2005,Alm. Salg,79,10734,3,1970,
-746,Ejerlejlighed,"Klostervej 14, 1",8680, Ry,2300000 ,24-08-2005,Alm. Salg,128,17969,5,1890,
 746,Villa,Ellingvej 9,8660, Skanderborg,135000 ,24-08-2005,Alm. Salg,195,692,6,2008,
 746,Villa,Langkjær 21,8660, Skanderborg,5500000 ,24-08-2005,Alm. Salg,213,25822,7,1963,
 746,Villa,Tunøvej 25,8464, Galten,1498000 ,24-08-2005,Alm. Salg,138,10855,6,1976,
@@ -17155,7 +16804,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Rækkehus,Rosenvænget 35,8362, Hørning,1395000 ,14-07-2005,Alm. Salg,93,15000,3,1965,
 746,Villa,Elgårdsmindelunden 127,8362, Hørning,2210389 ,14-07-2005,Alm. Salg,153,14447,5,2006,
 746,Villa,Nørre Alle 24,8660, Skanderborg,1800000 ,14-07-2005,Alm. Salg,105,17143,3,1946,
-746,Villa,Sygehusvej 20A,8660, Skanderborg,2400000 ,13-07-2005,Alm. Salg,150,16000,2,1930,
 746,Villa,Grønningen 12,8660, Skanderborg,1998700 ,13-07-2005,Alm. Salg,162,12338,5,1976,
 746,Villa,Industritoften 12,8660, Skanderborg,1850000 ,13-07-2005,Alm. Salg,163,11350,5,1986,
 746,Villa,Torrildvej 22,8660, Skanderborg,938000 ,13-07-2005,Alm. Salg,84,11167,3,1941,
@@ -17451,8 +17099,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Forsythiavej 1,8660, Skanderborg,1375000 ,04-05-2005,Alm. Salg,124,11089,4,1974,
 746,Villa,Tulstrupvej 1,8680, Ry,50000 ,04-05-2005,Alm. Salg,306,163,8,1911,
 746,Villa,Bygmarken 9,8362, Hørning,1640000 ,04-05-2005,Alm. Salg,129,12713,4,1976,
-746,Rækkehus,Elgårdsmindelunden 31,8362, Hørning,700000 ,03-05-2005,Alm. Salg,133,5263,4,2007,
-746,Ejerlejlighed,Tværvej 4G,8362, Hørning,700000 ,03-05-2005,Alm. Salg,51,13725,2,1942,
 746,Villa,Klanghøj 54,8670, Låsby,422550 ,03-05-2005,Alm. Salg,167,2530,6,2006,
 746,Villa,Elgårdsmindelunden 1,8362, Hørning,585500 ,03-05-2005,Alm. Salg,170,3444,5,2006,
 746,Villa,Hedevej 3,8680, Ry,2721500 ,03-05-2005,Alm. Salg,178,15289,6,2005,
@@ -17767,7 +17413,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Egernvej 13,8660, Skanderborg,2750000 ,15-02-2005,Alm. Salg,171,16082,5,1998,
 746,Villa,Holmedal 42,8660, Skanderborg,725000 ,15-02-2005,Fam. Salg,164,4421,4,1922,
 746,Villa,Birkevej 29,8660, Skanderborg,1925000 ,15-02-2005,Alm. Salg,175,11000,6,1972,
-746,Rækkehus,Adelgade 32A,8660, Skanderborg,1771740 ,14-02-2005,Fam. Salg,59,30029,2,1976,
 746,Villa,Lillesøvej 1,8660, Skanderborg,975000 ,14-02-2005,Alm. Salg,61,15984,2,1900,
 746,Villa,Baldersvej 5,8680, Ry,1650000 ,14-02-2005,Alm. Salg,155,10645,5,1968,
 746,Ejerlejlighed,"Spongbækken 18, 1",8362, Hørning,895000 ,13-02-2005,Alm. Salg,65,13769,3,1991,
@@ -17944,9 +17589,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Nattergalevej 31,8464, Galten,804775 ,26-12-2004,Fam. Salg,156,5159,6,2000,
 746,Villa,Østervangen 10,8464, Galten,1650000 ,26-12-2004,Alm. Salg,263,6274,6,1967,
 746,Villa,Petersmindevej 2,8362, Hørning,22800000 ,26-12-2004,Alm. Salg,120,190000,4,1972,
-746,Rækkehus,Møllegade 99A,8660, Skanderborg,1350000 ,22-12-2004,Alm. Salg,255,5294,5,1924,
 746,Villa,Lodbrogsvej 39,8660, Skanderborg,738556 ,22-12-2004,Andet,130,5681,4,1987,
-746,Villa,Marielundsvej 6,8660, Skanderborg,1350000 ,22-12-2004,Alm. Salg,166,8133,6,1875,
 746,Villa,Sanatorievej 16C,8680, Ry,1870000 ,21-12-2004,Fam. Salg,153,12222,6,1932,
 746,Villa,Rådyrvej 24,8660, Skanderborg,2360000 ,21-12-2004,Alm. Salg,151,15629,5,1997,
 746,Villa,Langelinie 53,8464, Galten,4678000 ,21-12-2004,Alm. Salg,191,24492,5,2015,
@@ -18578,8 +18221,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Haraldsvej 50,8660, Skanderborg,1514000 ,28-05-2004,Alm. Salg,143,10587,4,1976,
 746,Villa,Klanghøj 13,8670, Låsby,248000 ,28-05-2004,Alm. Salg,141,1759,5,2005,
 746,Villa,Klanghøj 67,8670, Låsby,280000 ,28-05-2004,Alm. Salg,139,2014,5,2005,
-746,Ejerlejlighed,P B Lunds Vej 35,8660, Skanderborg,1595000 ,27-05-2004,Alm. Salg,208,7668,6,1913,
-746,Ejerlejlighed,"Anesmindevej 12, kl",8660, Skanderborg,1595000 ,27-05-2004,Alm. Salg,67,23806,2,1913,
 746,Villa,Havrevej 34,8464, Galten,1335000 ,27-05-2004,Alm. Salg,129,10349,4,1977,
 746,Villa,Stadionvej 12,8660, Skanderborg,935000 ,27-05-2004,Alm. Salg,74,12635,3,1932,
 746,Villa,Gildebakken 10,8680, Ry,450000 ,27-05-2004,Alm. Salg,208,2163,7,2005,
@@ -18952,7 +18593,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Damtoften 30,8660, Skanderborg,670000 ,01-03-2004,Alm. Salg,142,4718,5,1920,
 746,Villa,Risvænget 4,8660, Skanderborg,285000 ,01-03-2004,Alm. Salg,190,1500,6,2004,
 746,Rækkehus,Kristiansbakken 23,8660, Skanderborg,1285000 ,29-02-2004,Alm. Salg,91,14121,3,2002,
-746,Ejerlejlighed,"Lillesøvej 3, 1. 3",8660, Skanderborg,425000 ,29-02-2004,Alm. Salg,37,11486,1,1968,
 746,Villa,Præstdam 32,8464, Galten,1375000 ,29-02-2004,Alm. Salg,148,9291,5,1968,
 746,Villa,Rådyrvej 26,8660, Skanderborg,1998999 ,29-02-2004,Alm. Salg,182,10984,5,1996,
 746,Villa,Thorsvej 7,8680, Ry,875000 ,29-02-2004,Alm. Salg,161,5435,3,1959,
@@ -18961,7 +18601,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Nørre Alle 8,8660, Skanderborg,1699590 ,29-02-2004,Alm. Salg,160,10622,5,1955,
 746,Villa,Banevænget 1I,8660, Skanderborg,1800000 ,29-02-2004,Alm. Salg,104,17308,4,2005,
 746,Villa,Kildebakken 48,8680, Ry,1168000 ,29-02-2004,Alm. Salg,122,9574,5,1965,
-746,Villa,Kirstinelundsvej 7,8660, Skanderborg,425000 ,29-02-2004,Alm. Salg,175,2429,5,2005,
 746,Villa,Vroldvej 68,8660, Skanderborg,835000 ,29-02-2004,Alm. Salg,135,6185,4,1923,
 746,Villa,Bjedstrupvej 45,8660, Skanderborg,1295000 ,28-02-2004,Alm. Salg,173,7486,3,1877,
 746,Ejerlejlighed,"Skolebakken 15, 2. tv",8464, Galten,590000 ,27-02-2004,Alm. Salg,60,9833,2,1965,
@@ -19113,7 +18752,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Porsevænget 71,8464, Galten,411432 ,13-01-2004,Alm. Salg,170,2420,7,2005,
 746,Villa,Edelsborgvej 18,8660, Skanderborg,1995000 ,13-01-2004,Alm. Salg,159,12547,6,1963,
 746,Villa,Dalen 16,8660, Skanderborg,1150000 ,12-01-2004,Alm. Salg,119,9664,4,1978,
-746,Ejerlejlighed,"Eskebækparken 66, st. th",8660, Skanderborg,570000 ,11-01-2004,Alm. Salg,51,11176,2,1973,
 746,Villa,Holtskovgårdsvej 27,8660, Skanderborg,640000 ,11-01-2004,Alm. Salg,162,3951,5,2005,
 746,Villa,Holtskovgårdsvej 25,8660, Skanderborg,465000 ,11-01-2004,Alm. Salg,180,2583,5,2005,
 746,Villa,Holtskovgårdsvej 33,8660, Skanderborg,575000 ,11-01-2004,Alm. Salg,200,2875,5,2004,
@@ -19128,7 +18766,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Holtskovgårdsvej 8,8660, Skanderborg,530000 ,11-01-2004,Alm. Salg,163,3252,5,2004,
 746,Villa,Holtskovgårdsvej 12,8660, Skanderborg,540000 ,11-01-2004,Alm. Salg,177,3051,7,2004,
 746,Villa,Holtskovgårdsvej 13,8660, Skanderborg,525000 ,11-01-2004,Alm. Salg,204,2574,5,2005,
-746,Villa,Holtskovgårdsvej 15,8660, Skanderborg,570000 ,11-01-2004,Alm. Salg,161,3540,5,2005,
 746,Villa,Holtskovgårdsvej 21,8660, Skanderborg,485000 ,11-01-2004,Alm. Salg,172,2820,4,2005,
 746,Villa,Holtskovgårdsvej 19,8660, Skanderborg,505000 ,11-01-2004,Alm. Salg,164,3079,5,2005,
 746,Villa,Skanderborgvej 69,8680, Ry,900000 ,10-01-2004,Alm. Salg,93,9677,2,1948,
@@ -19166,8 +18803,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Randersvej 114,8362, Hørning,3200000 ,23-12-2003,Alm. Salg,93,34409,1,1700,
 746,Villa,Klanghøj 11,8670, Låsby,248000 ,23-12-2003,Alm. Salg,163,1521,4,2004,
 746,Rækkehus,Foerlev Møllevej 37,8660, Skanderborg,395000 ,22-12-2003,Alm. Salg,78,5064,3,1850,
-746,Rækkehus,Vesterparken 73,8660, Skanderborg,1170000 ,21-12-2003,Alm. Salg,84,13929,3,1998,
-746,Villa,Fasanvej 13,8660, Skanderborg,1170000 ,21-12-2003,Alm. Salg,180,6500,6,1973,
 746,Villa,Adelgade 25B,8660, Skanderborg,740000 ,21-12-2003,Alm. Salg,150,4933,5,1900,
 746,Villa,Holmedal 32,8660, Skanderborg,510000 ,21-12-2003,Alm. Salg,100,5100,3,1927,
 746,Rækkehus,Nørre Alle 21C,8660, Skanderborg,1100000 ,19-12-2003,Alm. Salg,79,13924,3,2002,
@@ -19430,7 +19065,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Silkeborgvej 3,8464, Galten,790000 ,24-09-2003,Alm. Salg,106,7453,4,1932,
 746,Rækkehus,Gyvelvej 2A,8464, Galten,940000 ,23-09-2003,Alm. Salg,125,7520,4,1973,
 746,Ejerlejlighed,"Banegårdsvej 2, st",8660, Skanderborg,1150000 ,23-09-2003,Alm. Salg,95,12105,3,2003,
-746,Villa,Horsensvej 30,8660, Skanderborg,1500000 ,23-09-2003,Alm. Salg,140,10714,5,1985,
 746,Villa,Fasanvej 17,8464, Galten,2557000 ,23-09-2003,Alm. Salg,197,12980,6,1999,
 746,Villa,Birkevej 6,8680, Ry,950000 ,23-09-2003,Alm. Salg,127,7480,5,1953,
 746,Villa,Illerupvej 3,8660, Skanderborg,799000 ,22-09-2003,Alm. Salg,100,7990,4,1900,
@@ -19512,7 +19146,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Egevej 22,8680, Ry,1495000 ,23-08-2003,Alm. Salg,167,8952,4,1981,
 746,Villa,Sølystvej 33,8660, Skanderborg,1700000 ,21-08-2003,Alm. Salg,207,8213,6,1924,
 746,Villa,Mosagervænget 44,8464, Galten,1075000 ,21-08-2003,Alm. Salg,121,8884,4,1971,
-746,Rækkehus,Kyhnsvej 13B,8680, Ry,1409355 ,20-08-2003,Alm. Salg,55,25625,2,2005,
 746,Villa,Alling Gyde 8A,8680, Ry,1350000 ,20-08-2003,Alm. Salg,132,10227,5,2001,
 746,Villa,Stampemøllevej 11,8660, Skanderborg,756500 ,20-08-2003,Fam. Salg,226,2955,6,1870,
 746,Villa,Horsensvej 110,8660, Skanderborg,895000 ,20-08-2003,Alm. Salg,120,7458,4,1926,
@@ -19523,7 +19156,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Ejerlejlighed,"Østergade 1, st. 9",8660, Skanderborg,785000 ,18-08-2003,Alm. Salg,73,10753,2,1969,
 746,Villa,Bævervej 1,8660, Skanderborg,2060000 ,18-08-2003,Alm. Salg,215,9581,7,2003,
 746,Villa,Låsbyvej 41,8464, Galten,1450000 ,18-08-2003,Alm. Salg,282,5142,5,1840,
-746,Villa,Flensted Byvej 3,8670, Låsby,1275000 ,18-08-2003,Alm. Salg,138,9239,6,2006,
 746,Rækkehus,Vestergade 69,8464, Galten,755000 ,17-08-2003,Alm. Salg,58,13017,2,1989,
 746,Ejerlejlighed,Nørregade 5B,8464, Galten,585000 ,17-08-2003,Alm. Salg,48,12188,2,1990,
 746,Villa,Tulstrupvej 69,8680, Ry,885000 ,17-08-2003,Alm. Salg,103,8592,4,1927,
@@ -19741,7 +19373,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Rækkehus,Bøgevej 4B,8680, Ry,1102422 ,27-05-2003,Alm. Salg,98,11249,4,1984,
 746,Villa,Vestergade 74,8464, Galten,1187203 ,27-05-2003,Alm. Salg,116,10235,4,1986,
 746,Villa,Engkæret 3,8660, Skanderborg,1740000 ,27-05-2003,Alm. Salg,176,9886,8,1975,
-746,Rækkehus,Århusvej 17C,8660, Skanderborg,1050000 ,26-05-2003,Alm. Salg,52,20192,1,1900,
 746,Ejerlejlighed,"Adelgade 23, st. tv",8660, Skanderborg,929500 ,26-05-2003,Alm. Salg,76,12230,3,1830,
 746,Villa,Søndermarken 48,8670, Låsby,908865 ,26-05-2003,Alm. Salg,260,3496,6,1971,
 746,Villa,Trondvad 39,8362, Hørning,1550000 ,26-05-2003,Alm. Salg,198,7828,7,1978,
@@ -20025,7 +19656,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Agnetevej 29,8680, Ry,1208000 ,04-02-2003,Alm. Salg,113,10690,4,1971,
 746,Villa,Holtshøjen 2,8660, Skanderborg,3640000 ,04-02-2003,Alm. Salg,262,13893,6,1996,
 746,Rækkehus,Harevej 4A,8660, Skanderborg,975000 ,03-02-2003,Alm. Salg,80,12188,4,1992,
-746,Ejerlejlighed,"Klostervej 14, 1",8680, Ry,1700000 ,03-02-2003,Alm. Salg,128,13281,5,1890,
 746,Ejerlejlighed,"Jernbanevej 6C, 1. th",8660, Skanderborg,1045000 ,03-02-2003,Alm. Salg,81,12901,3,1930,
 746,Villa,Lodbrogsvej 5,8660, Skanderborg,1550000 ,03-02-2003,Alm. Salg,169,9172,7,1987,
 746,Villa,Udsigten 13,8464, Galten,1400000 ,03-02-2003,Alm. Salg,165,8485,6,1986,
@@ -20097,30 +19727,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Granhøjen 50,8660, Skanderborg,653727 ,09-01-2003,Fam. Salg,130,5029,5,1983,
 746,Rækkehus,Rosenvænget 151,8362, Hørning,1280000 ,08-01-2003,Alm. Salg,117,10940,4,1966,
 746,Rækkehus,Edelsborgvej 6,8660, Skanderborg,998000 ,08-01-2003,Alm. Salg,96,10396,4,1986,
-746,Ejerlejlighed,"Skanderborgvej 36, 2",8680, Ry,36500000 ,08-01-2003,Alm. Salg,72,506944,2,2003,
-746,Ejerlejlighed,"Skanderborgvej 34, 1. tv",8680, Ry,36500000 ,08-01-2003,Alm. Salg,72,506944,2,2003,
-746,Ejerlejlighed,"Skanderborgvej 34, 2. th",8680, Ry,36500000 ,08-01-2003,Alm. Salg,70,521429,2,2003,
-746,Ejerlejlighed,"Skanderborgvej 34, 2. tv",8680, Ry,36500000 ,08-01-2003,Alm. Salg,72,506944,2,2003,
-746,Ejerlejlighed,"Møllevej 2, st",8680, Ry,36500000 ,08-01-2003,Alm. Salg,102,357843,3,2003,
-746,Ejerlejlighed,"Møllevej 2, 2",8680, Ry,36500000 ,08-01-2003,Alm. Salg,102,357843,3,2003,
-746,Ejerlejlighed,"Møllevej 2, 1",8680, Ry,36500000 ,08-01-2003,Alm. Salg,102,357843,3,2003,
-746,Ejerlejlighed,"Møllevej 4, st",8680, Ry,36500000 ,08-01-2003,Alm. Salg,70,521429,2,2003,
-746,Ejerlejlighed,"Møllevej 4, 1",8680, Ry,36500000 ,08-01-2003,Alm. Salg,102,357843,3,2003,
-746,Ejerlejlighed,"Møllevej 4, 2",8680, Ry,36500000 ,08-01-2003,Alm. Salg,102,357843,3,2003,
-746,Ejerlejlighed,"Møllevej 6, st",8680, Ry,36500000 ,08-01-2003,Alm. Salg,101,361386,3,2003,
-746,Ejerlejlighed,"Møllevej 6, 1",8680, Ry,36500000 ,08-01-2003,Alm. Salg,101,361386,3,2003,
-746,Ejerlejlighed,"Møllevej 8, st",8680, Ry,36500000 ,08-01-2003,Alm. Salg,103,354369,3,2003,
-746,Ejerlejlighed,"Møllevej 8, 1",8680, Ry,36500000 ,08-01-2003,Alm. Salg,103,354369,3,2003,
-746,Ejerlejlighed,"Møllevej 8, 2",8680, Ry,36500000 ,08-01-2003,Alm. Salg,103,354369,2,2003,
-746,Ejerlejlighed,"Møllevej 6, 2",8680, Ry,36500000 ,08-01-2003,Alm. Salg,101,361386,3,2003,
-746,Ejerlejlighed,"Møllevej 10, 1",8680, Ry,36500000 ,08-01-2003,Alm. Salg,79,462025,2,2003,
-746,Ejerlejlighed,"Møllevej 10, 2",8680, Ry,36500000 ,08-01-2003,Alm. Salg,79,462025,2,2003,
-746,Ejerlejlighed,"Møllevej 10, st",8680, Ry,36500000 ,08-01-2003,Alm. Salg,79,462025,2,2003,
-746,Ejerlejlighed,"Møllevej 12, st",8680, Ry,36500000 ,08-01-2003,Alm. Salg,59,618644,2,2003,
-746,Ejerlejlighed,"Møllevej 12, 1",8680, Ry,36500000 ,08-01-2003,Alm. Salg,59,618644,2,2003,
-746,Ejerlejlighed,"Møllevej 14, st",8680, Ry,36500000 ,08-01-2003,Alm. Salg,59,618644,2,2003,
-746,Ejerlejlighed,"Møllevej 14, 1",8680, Ry,36500000 ,08-01-2003,Alm. Salg,59,618644,2,2003,
-746,Ejerlejlighed,"Møllevej 14, 2",8680, Ry,36500000 ,08-01-2003,Alm. Salg,118,309322,3,2003,
 746,Villa,Solhøjparken 20,8464, Galten,1422000 ,08-01-2003,Alm. Salg,165,8618,5,1974,
 746,Villa,Æblehaven 25,8464, Galten,1725000 ,08-01-2003,Alm. Salg,152,11349,6,2003,
 746,Rækkehus,Bie Rasmussens Vænge 5,8660, Skanderborg,1045000 ,07-01-2003,Alm. Salg,84,12440,3,1989,
@@ -20158,16 +19764,13 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Rækkehus,Rypevej 1,8362, Hørning,1151000 ,22-12-2002,Alm. Salg,134,8590,5,1975,
 746,Ejerlejlighed,"Mosevangen 8, 2. th",8660, Skanderborg,880000 ,22-12-2002,Fam. Salg,94,9362,3,1966,
 746,Villa,Damgårdsvej 41,8660, Skanderborg,1295000 ,22-12-2002,Alm. Salg,132,9811,4,1977,
-746,Villa,Tulstrupvej 25A,8680, Ry,1631000 ,22-12-2002,Fam. Salg,381,4281,8,2009,
 746,Villa,Martin A Hansens Vej 3,8660, Skanderborg,1224809 ,21-12-2002,Alm. Salg,112,10936,4,1976,
 746,Villa,Haraldsvej 42,8660, Skanderborg,1271000 ,20-12-2002,Alm. Salg,126,10087,4,1977,
 746,Ejerlejlighed,"Banegårdsvej 24, 1. th",8660, Skanderborg,895000 ,19-12-2002,Alm. Salg,86,10407,3,1989,
 746,Ejerlejlighed,"Skolebakken 9, 1. tv",8464, Galten,630544 ,19-12-2002,Alm. Salg,82,7690,3,1964,
 746,Villa,Skoletoften 25,8660, Skanderborg,1319500 ,19-12-2002,Alm. Salg,149,8856,5,1967,
 746,Villa,Hårbyvej 3,8680, Ry,1625000 ,19-12-2002,Alm. Salg,189,8598,7,1888,
-746,Ejerlejlighed,"Skjørringvej 14, 1",8464, Galten,765000 ,18-12-2002,Alm. Salg,33,23182,1,1897,
 746,Ejerlejlighed,"Skolebakken 25, 1. tv",8464, Galten,650000 ,18-12-2002,Alm. Salg,82,7927,3,1971,
-746,Villa,"Skjørringvej 14, st",8464, Galten,765000 ,18-12-2002,Alm. Salg,75,10200,3,1897,
 746,Villa,Nørre Alle 35,8660, Skanderborg,850000 ,18-12-2002,Fam. Salg,91,9341,4,1963,
 746,Ejerlejlighed,"Røddikvej 40A, 1. th",8464, Galten,525000 ,17-12-2002,Alm. Salg,79,6646,2,1952,
 746,Ejerlejlighed,"Skolebakken 23, 1. th",8464, Galten,700000 ,17-12-2002,Alm. Salg,82,8537,3,1971,
@@ -20351,7 +19954,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Vibevænget 32,8464, Galten,1085000 ,16-10-2002,Alm. Salg,209,5191,7,1970,
 746,Villa,Villavej 15B,8660, Skanderborg,1397000 ,15-10-2002,Alm. Salg,113,12363,4,1986,
 746,Villa,Lundhøjvej 4,8660, Skanderborg,525000 ,15-10-2002,Alm. Salg,209,2512,6,2004,
-746,Ejerlejlighed,Pebbelgården 10C,8464, Galten,1400000 ,14-10-2002,Alm. Salg,150,9333,5,1881,
 746,Villa,Frejasvej 11,8464, Galten,1365000 ,14-10-2002,Alm. Salg,157,8694,5,1972,
 746,Villa,Solgårdsvej 32,8660, Skanderborg,2000000 ,14-10-2002,Alm. Salg,198,10101,7,1951,
 746,Ejerlejlighed,"Skolebakken 13, 2. tv",8464, Galten,637500 ,13-10-2002,Alm. Salg,69,9239,2,1965,
@@ -20644,12 +20246,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Rækkehus,Bukballevej 8,8660, Skanderborg,580280 ,30-06-2002,Alm. Salg,105,5526,3,1902,
 746,Rækkehus,Mossøvænget 12,8680, Ry,1000000 ,30-06-2002,Alm. Salg,89,11236,3,1981,
 746,Rækkehus,Møllegade 61D,8660, Skanderborg,1205000 ,30-06-2002,Alm. Salg,97,12423,4,1986,
-746,Ejerlejlighed,"Banegårdsvej 9A, 1",8660, Skanderborg,1856635 ,30-06-2002,Andet,84,22103,2,1862,
 746,Villa,Siimtoften 20,8660, Skanderborg,285000 ,30-06-2002,Alm. Salg,137,2080,5,2002,
 746,Villa,Engtoften 8,8660, Skanderborg,1370000 ,30-06-2002,Alm. Salg,152,9013,6,1976,
 746,Villa,Bolskovvej 15,8660, Skanderborg,1950000 ,30-06-2002,Alm. Salg,185,10541,5,1870,
 746,Villa,Hybenparken 3,8660, Skanderborg,1550137 ,30-06-2002,Alm. Salg,108,14353,4,2002,
-746,Villa,Banegårdsvej 9B,8660, Skanderborg,1856635 ,30-06-2002,Andet,66,28131,2,1978,
 746,Villa,Almuevej 58,8660, Skanderborg,600000 ,30-06-2002,Alm. Salg,195,3077,8,2002,
 746,Villa,Æblehaven 25,8464, Galten,280000 ,29-06-2002,Alm. Salg,152,1842,6,2003,
 746,Villa,Forsythiavej 1,8660, Skanderborg,1225000 ,27-06-2002,Alm. Salg,124,9879,4,1974,
@@ -20779,12 +20379,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Grumstrups Alle 19,8660, Skanderborg,1350000 ,14-05-2002,Alm. Salg,160,8438,4,1970,
 746,Villa,Emborgvej 92,8660, Skanderborg,1425000 ,14-05-2002,Alm. Salg,253,5632,8,1967,
 746,Villa,Smedekrogen 1,8660, Skanderborg,1580000 ,13-05-2002,Alm. Salg,141,11206,6,2002,
-746,Ejerlejlighed,Engvej 2A,8362, Hørning,1835000 ,12-05-2002,Alm. Salg,61,30082,2,1929,
-746,Ejerlejlighed,"Stationsvej 8, st. tv",8362, Hørning,1835000 ,12-05-2002,Alm. Salg,85,21588,3,1929,
-746,Ejerlejlighed,"Stationsvej 8, st. th",8362, Hørning,1835000 ,12-05-2002,Alm. Salg,77,23831,2,1929,
-746,Ejerlejlighed,"Stationsvej 8, 1. tv",8362, Hørning,1835000 ,12-05-2002,Alm. Salg,81,22654,2,1929,
-746,Ejerlejlighed,"Stationsvej 8, 1. th",8362, Hørning,1835000 ,12-05-2002,Alm. Salg,83,22108,2,1929,
-746,Ejerlejlighed,"Stationsvej 10, 1",8362, Hørning,1835000 ,12-05-2002,Alm. Salg,77,23831,2,1929,
 746,Villa,Alkenvej 61,8660, Skanderborg,1330000 ,12-05-2002,Alm. Salg,150,8867,6,1967,
 746,Villa,Johan Skjoldborgs Vej 18,8660, Skanderborg,950000 ,12-05-2002,Fam. Salg,219,4338,7,1979,
 746,Villa,Thanesvej 10,8660, Skanderborg,737500 ,12-05-2002,Alm. Salg,130,5673,5,1989,
@@ -21237,8 +20831,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Søndergade 16A,8464, Galten,1400000 ,12-11-2001,Alm. Salg,150,9333,5,1985,
 746,Rækkehus,Rosenvænget 87,8362, Hørning,875000 ,11-11-2001,Alm. Salg,125,7000,5,1965,
 746,Rækkehus,Spongparken 2,8362, Hørning,1245000 ,08-11-2001,Alm. Salg,110,11318,4,2002,
-746,Ejerlejlighed,Tåningvej 9,8660, Skanderborg,625000 ,08-11-2001,Alm. Salg,156,4006,5,1910,
-746,Ejerlejlighed,"Horndrupvej 44, 1",8660, Skanderborg,625000 ,08-11-2001,Alm. Salg,85,7353,3,1910,
 746,Rækkehus,Vestergade 59,8464, Galten,705000 ,07-11-2001,Alm. Salg,58,12155,2,1989,
 746,Villa,Haraldsvej 60,8660, Skanderborg,604345 ,07-11-2001,Alm. Salg,166,3641,5,1976,
 746,Villa,Mesingvej 6,8660, Skanderborg,427800 ,06-11-2001,Alm. Salg,137,3123,3,2013,
@@ -21775,7 +21367,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Vrold Tværvej 23,8660, Skanderborg,683875 ,30-04-2001,Alm. Salg,138,4956,3,1966,
 746,Rækkehus,Klostervej 75,8680, Ry,395000 ,29-04-2001,Alm. Salg,120,3292,3,1973,
 746,Rækkehus,Emborgvej 135,8660, Skanderborg,702000 ,29-04-2001,Alm. Salg,148,4743,7,1918,
-746,Rækkehus,Østergade 22,8660, Skanderborg,1350000 ,29-04-2001,Alm. Salg,142,9507,5,1911,
 746,Ejerlejlighed,"Adelgade 37A, st",8660, Skanderborg,598779 ,29-04-2001,Alm. Salg,99,6048,3,1900,
 746,Villa,Siimtoften 26,8660, Skanderborg,285000 ,29-04-2001,Alm. Salg,162,1759,5,2003,
 746,Villa,Skyttehusvej 2B,8464, Galten,110000 ,29-04-2001,Alm. Salg,209,526,8,2002,
@@ -21810,7 +21401,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Bækgårdsvej 43,8660, Skanderborg,1210000 ,18-04-2001,Alm. Salg,118,10254,4,1998,
 746,Villa,Havrevej 16,8464, Galten,1085000 ,18-04-2001,Alm. Salg,148,7331,5,1976,
 746,Villa,Skanderborgvej 10,8362, Hørning,1150667 ,18-04-2001,Alm. Salg,89,12929,4,1948,
-746,Rækkehus,Søndergade 60C,8464, Galten,1000000 ,17-04-2001,Alm. Salg,86,11628,3,1910,
 746,Villa,Kærgårdsvej 2,8660, Skanderborg,1175000 ,17-04-2001,Alm. Salg,122,9631,5,1965,
 746,Villa,Niels Bohrs Vej 15,8670, Låsby,1131463 ,17-04-2001,Alm. Salg,174,6503,7,1976,
 746,Rækkehus,Bakkevej 15,8670, Låsby,600000 ,16-04-2001,Fam. Salg,123,4878,7,1968,
@@ -21931,8 +21521,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Almuevej 11,8660, Skanderborg,2030000 ,04-03-2001,Alm. Salg,167,12156,5,2000,
 746,Rækkehus,Bie Rasmussens Vænge 11,8660, Skanderborg,940000 ,03-03-2001,Alm. Salg,84,11190,4,1989,
 746,Villa,Solsikkevænget 9,8464, Galten,1789861 ,03-03-2001,Alm. Salg,152,11775,6,2002,
-746,Rækkehus,Kristiansvej 10B,8660, Skanderborg,3150000 ,02-03-2001,Alm. Salg,80,39375,3,1875,
-746,Villa,Kristiansvej 10,8660, Skanderborg,3150000 ,02-03-2001,Alm. Salg,213,14789,8,1877,
 746,Rækkehus,Lille Tværvej 4,8670, Låsby,764982 ,01-03-2001,Alm. Salg,117,6538,4,1972,
 746,Ejerlejlighed,"Spongbækken 36, st",8362, Hørning,595070 ,01-03-2001,Alm. Salg,53,11228,2,1991,
 746,Ejerlejlighed,"Kirkevej 34, st. 5",8660, Skanderborg,574532 ,01-03-2001,Alm. Salg,57,10080,2,1972,
@@ -22039,13 +21627,11 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Rækkehus,Bøgevej 1B,8680, Ry,850000 ,23-01-2001,Alm. Salg,86,9884,3,1984,
 746,Villa,Søtoften 2,8362, Hørning,722883 ,23-01-2001,Alm. Salg,174,4155,6,2000,
 746,Villa,Kirkevej 22,8464, Galten,750000 ,23-01-2001,Alm. Salg,120,6250,3,1943,
-746,Ejerlejlighed,"Skivholmevej 82, 1",8464, Galten,1118757 ,22-01-2001,Alm. Salg,80,13984,2,1850,
 746,Villa,Solsikkevænget 15,8464, Galten,1800000 ,22-01-2001,Alm. Salg,157,11465,6,2000,
 746,Villa,Lodbrogsvej 6,8660, Skanderborg,1584000 ,22-01-2001,Alm. Salg,150,10560,6,1986,
 746,Villa,Slåenvænget 8,8660, Skanderborg,1400472 ,22-01-2001,Alm. Salg,211,6637,6,1964,
 746,Villa,Østervangen 7,8464, Galten,1081570 ,22-01-2001,Alm. Salg,199,5435,7,1972,
 746,Villa,Gimlevej 32,8660, Skanderborg,1230000 ,22-01-2001,Alm. Salg,137,8978,5,1979,
-746,Villa,Skivholmevej 82,8464, Galten,1118757 ,22-01-2001,Alm. Salg,160,6992,4,1850,
 746,Villa,Skovbyparken 85,8464, Galten,1350000 ,21-01-2001,Alm. Salg,189,7143,6,1972,
 746,Villa,Skydebanevej 16,8660, Skanderborg,325000 ,21-01-2001,Andet,81,4012,3,1925,
 746,Villa,Gammel Skolevej 23,8660, Skanderborg,1254181 ,21-01-2001,Alm. Salg,211,5944,7,1907,
@@ -22207,12 +21793,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Mågevej 6,8660, Skanderborg,885000 ,20-11-2000,Alm. Salg,135,6556,7,1953,
 746,Villa,Pilevænget 5,8464, Galten,1263000 ,20-11-2000,Alm. Salg,148,8534,6,1969,
 746,Rækkehus,Louisenlund 2C,8660, Skanderborg,406860 ,19-11-2000,Andet,85,4787,3,1775,
-746,Rækkehus,Hjarsbækvej 24,8680, Ry,130880 ,19-11-2000,Alm. Salg,74,1769,3,1937,
-746,Ejerlejlighed,"Skjørringvej 1, 1. th",8464, Galten,1625000 ,19-11-2000,Alm. Salg,69,23551,3,1900,
-746,Ejerlejlighed,"Skjørringvej 1, 1. tv",8464, Galten,1625000 ,19-11-2000,Alm. Salg,89,18258,2,1900,
-746,Ejerlejlighed,"Skjørringvej 1, st",8464, Galten,1625000 ,19-11-2000,Alm. Salg,92,17663,3,1900,
-746,Ejerlejlighed,"Nørregade 37, 1. tv",8464, Galten,1625000 ,19-11-2000,Alm. Salg,54,30093,2,1900,
-746,Ejerlejlighed,"Nørregade 37, st. tv",8464, Galten,1625000 ,19-11-2000,Alm. Salg,60,27083,2,1900,
 746,Villa,Nattergalevej 24,8464, Galten,306695 ,19-11-2000,Alm. Salg,137,2239,6,2001,
 746,Villa,Gammel Skolevej 30,8660, Skanderborg,400000 ,18-11-2000,Alm. Salg,155,2581,5,2001,
 746,Rækkehus,Isagervej 15,8680, Ry,1375000 ,16-11-2000,Alm. Salg,166,8283,6,1974,
@@ -22943,7 +22523,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Gl Ryvej 8,8362, Hørning,1239528 ,26-03-2000,Alm. Salg,241,5143,7,1971,
 746,Villa,Kielsgaardsvej 6,8680, Ry,1050000 ,26-03-2000,Alm. Salg,196,5357,6,2012,
 746,Villa,Gl Skolevej 6,8464, Galten,1600000 ,26-03-2000,Alm. Salg,330,4124,8,1912,
-746,Rækkehus,Banegårdsvej 42A,8660, Skanderborg,1650000 ,23-03-2000,Alm. Salg,111,14865,4,1785,
 746,Villa,Voldbyvej 55B,8464, Galten,535000 ,23-03-2000,Alm. Salg,130,4115,6,1925,
 746,Rækkehus,Foerlev Møllevej 16,8660, Skanderborg,380000 ,22-03-2000,Alm. Salg,109,3486,3,1852,
 746,Villa,Skanderborgvej 53,8680, Ry,1920278 ,22-03-2000,Alm. Salg,150,12802,5,1945,
@@ -24111,10 +23690,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Gammel Skolevej 22,8660, Skanderborg,295000 ,10-03-1999,Alm. Salg,171,1725,6,2004,
 746,Villa,Brunhøj 68,8362, Hørning,1270000 ,10-03-1999,Alm. Salg,128,9922,4,1981,
 746,Villa,Egholmsvej 8,8660, Skanderborg,1036776 ,08-03-1999,Alm. Salg,127,8164,6,1908,
-746,Rækkehus,Kristiansvej 10B,8660, Skanderborg,1000000 ,07-03-1999,Fam. Salg,80,12500,3,1875,
 746,Ejerlejlighed,"Eskebækparken 21, st. mf",8660, Skanderborg,205000 ,07-03-1999,Alm. Salg,38,5395,1,1967,
 746,Villa,Blegindvej 54,8362, Hørning,944000 ,07-03-1999,Alm. Salg,128,7375,3,1907,
-746,Villa,Kristiansvej 10,8660, Skanderborg,1000000 ,07-03-1999,Fam. Salg,213,4695,8,1877,
 746,Villa,Skovkildeparken 50,8660, Skanderborg,1326693 ,06-03-1999,Alm. Salg,151,8786,6,1986,
 746,Villa,Sanatorievej 9,8680, Ry,961044 ,05-03-1999,Alm. Salg,160,6007,5,1945,
 746,Ejerlejlighed,"Kirkevej 7D, 1",8362, Hørning,640000 ,04-03-1999,Alm. Salg,72,8889,2,1988,
@@ -24628,7 +24205,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Nattergalevej 35,8464, Galten,264863 ,06-09-1998,Alm. Salg,136,1948,6,1998,
 746,Villa,Violvej 7,8660, Skanderborg,1125000 ,06-09-1998,Alm. Salg,164,6860,5,1963,
 746,Villa,Bakkelyparken 56,8680, Ry,700000 ,06-09-1998,Andet,167,4192,4,1975,
-746,Villa,Århusvej 220B,8464, Galten,430000 ,06-09-1998,Alm. Salg,55,7818,2,1933,
 746,Villa,Krakesvej 80,8660, Skanderborg,318000 ,05-09-1998,Alm. Salg,155,2052,5,1999,
 746,Ejerlejlighed,"Nørregade 14, 1",8464, Galten,595000 ,04-09-1998,Alm. Salg,73,8151,3,1916,
 746,Rækkehus,Bodalsvej 9,8680, Ry,610000 ,03-09-1998,Alm. Salg,102,5980,4,1900,
@@ -24784,7 +24360,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Rækkehus,Lille Tværvej 8,8670, Låsby,745000 ,01-07-1998,Alm. Salg,117,6368,4,1972,
 746,Villa,Søvangen 22,8464, Galten,1368000 ,01-07-1998,Alm. Salg,211,6483,6,1978,
 746,Villa,Granhøjen 36,8660, Skanderborg,1404682 ,01-07-1998,Alm. Salg,136,10329,4,1981,
-746,Rækkehus,Adelgade 33B,8660, Skanderborg,1900000 ,30-06-1998,Alm. Salg,29,65517,1,1870,
 746,Ejerlejlighed,"Eskebækparken 12, 1. mf",8660, Skanderborg,240000 ,30-06-1998,Alm. Salg,38,6316,1,1967,
 746,Villa,Mesing Hedevej 16,8660, Skanderborg,108750 ,30-06-1998,Alm. Salg,168,647,6,1930,
 746,Villa,Østerskovvej 52,8670, Låsby,718000 ,30-06-1998,Alm. Salg,153,4693,3,1952,
@@ -24833,10 +24408,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Vestre Skolevej 24,8464, Galten,700000 ,17-06-1998,Alm. Salg,83,8434,2,1911,
 746,Ejerlejlighed,"Eskebækparken 20, 1. tv",8660, Skanderborg,575000 ,16-06-1998,Alm. Salg,93,6183,4,1968,
 746,Villa,P B Lunds Vej 20,8660, Skanderborg,1029000 ,16-06-1998,Alm. Salg,119,8647,5,1934,
-746,Ejerlejlighed,"Adelgade 47, 2",8660, Skanderborg,2800000 ,15-06-1998,Alm. Salg,107,26168,4,1887,
-746,Ejerlejlighed,"Adelgade 47, 1. th",8660, Skanderborg,2800000 ,15-06-1998,Alm. Salg,95,29474,3,1887,
-746,Ejerlejlighed,"Adelgade 47, 1. tv",8660, Skanderborg,2800000 ,15-06-1998,Alm. Salg,61,45902,2,1887,
-746,Ejerlejlighed,Gasværksvej 8,8660, Skanderborg,2800000 ,15-06-1998,Alm. Salg,40,70000,2,1953,
 746,Villa,Voldbyvej 44,8464, Galten,100000 ,15-06-1998,Alm. Salg,210,476,7,1873,
 746,Villa,Rådyrvej 3,8660, Skanderborg,1677000 ,15-06-1998,Alm. Salg,149,11255,5,1998,
 746,Villa,Solvænget 13,8660, Skanderborg,1498000 ,15-06-1998,Alm. Salg,185,8097,6,1967,
@@ -25199,7 +24770,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Rækkehus,Klostervej 75,8680, Ry,815000 ,06-03-1998,Alm. Salg,120,6792,3,1973,
 746,Rækkehus,P B Lunds Vej 11,8660, Skanderborg,1142170 ,06-03-1998,Alm. Salg,151,7564,6,1900,
 746,Villa,Albert Dams Vej 5,8660, Skanderborg,968500 ,06-03-1998,Alm. Salg,114,8496,5,1988,
-746,Rækkehus,Hørninggårdsvej 1,8362, Hørning,954000 ,05-03-1998,Alm. Salg,95,10042,3,1998,
 746,Rækkehus,H C Andersens Vej 10B,8660, Skanderborg,849000 ,05-03-1998,Alm. Salg,85,9988,4,1979,
 746,Rækkehus,Hørninggårdsvej 19,8362, Hørning,1004000 ,05-03-1998,Alm. Salg,95,10568,3,1998,
 746,Rækkehus,Hørninggårdsvej 21,8362, Hørning,1007000 ,05-03-1998,Alm. Salg,93,10828,3,1998,
@@ -25207,7 +24777,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Havrevej 23,8464, Galten,1009000 ,05-03-1998,Alm. Salg,149,6772,4,1978,
 746,Villa,Horsensvej 10,8660, Skanderborg,375000 ,05-03-1998,Alm. Salg,188,1995,4,1940,
 746,Villa,Hørninggårdsvej 5,8362, Hørning,984000 ,05-03-1998,Alm. Salg,95,10358,3,1998,
-746,Villa,Hørninggårdsvej 7,8362, Hørning,954000 ,05-03-1998,Alm. Salg,95,10042,3,1998,
 746,Villa,Kiltorn 50,8670, Låsby,156800 ,05-03-1998,Alm. Salg,157,999,5,1998,
 746,Villa,Gl Gramvej 69,8660, Skanderborg,230000 ,05-03-1998,Alm. Salg,99,2323,4,1885,
 746,Villa,Krakesvej 8,8660, Skanderborg,351000 ,04-03-1998,Alm. Salg,188,1867,7,1998,
@@ -25224,16 +24793,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Voldbyvej 99,8464, Galten,759052 ,02-03-1998,Alm. Salg,121,6273,3,1941,
 746,Villa,Vibevænget 38,8464, Galten,935000 ,02-03-1998,Alm. Salg,175,5343,5,1974,
 746,Villa,Skovkildeparken 139,8660, Skanderborg,274000 ,02-03-1998,Alm. Salg,189,1450,5,1999,
-746,Ejerlejlighed,"Blegindvej 2B, 1",8362, Hørning,1900000 ,01-03-1998,Alm. Salg,100,19000,2,1907,
-746,Ejerlejlighed,"Blegindvej 2, st",8362, Hørning,1900000 ,01-03-1998,Alm. Salg,68,27941,2,1907,
-746,Ejerlejlighed,"Blegindvej 2B, 2. tv",8362, Hørning,1900000 ,01-03-1998,Alm. Salg,83,22892,2,1907,
-746,Ejerlejlighed,"Blegindvej 2B, 2. th",8362, Hørning,1900000 ,01-03-1998,Alm. Salg,76,25000,2,1907,
-746,Ejerlejlighed,"Blegindvej 2, 1. th",8362, Hørning,1900000 ,01-03-1998,Alm. Salg,57,33333,3,1907,
-746,Ejerlejlighed,Blegindvej 2C,8362, Hørning,1900000 ,01-03-1998,Alm. Salg,87,21839,2,1907,
-746,Ejerlejlighed,"Blegindvej 2, 1. tv",8362, Hørning,1900000 ,01-03-1998,Alm. Salg,64,29688,2,1907,
-746,Ejerlejlighed,"Fregerslevvej 1, 2",8362, Hørning,1900000 ,01-03-1998,Alm. Salg,51,37255,2,1907,
-746,Ejerlejlighed,"Fregerslevvej 1, 1",8362, Hørning,1900000 ,01-03-1998,Alm. Salg,58,32759,2,1907,
-746,Ejerlejlighed,"Fregerslevvej 1, st",8362, Hørning,1900000 ,01-03-1998,Alm. Salg,62,30645,1,1907,
 746,Ejerlejlighed,"Skolebakken 17, 1. th",8464, Galten,416000 ,01-03-1998,Alm. Salg,69,6029,2,1969,
 746,Rækkehus,Knudsvej 40B,8680, Ry,943000 ,28-02-1998,Alm. Salg,93,10140,4,1990,
 746,Villa,Hvedevej 56,8464, Galten,528422 ,28-02-1998,Alm. Salg,178,2969,7,1978,
@@ -25476,7 +25035,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Pebbelparken 20,8464, Galten,269000 ,19-12-1997,Alm. Salg,131,2053,5,1998,
 746,Villa,Nordmarksvej 8,8464, Galten,320000 ,19-12-1997,Alm. Salg,183,1749,7,2000,
 746,Villa,Gunnarsvej 4,8660, Skanderborg,831000 ,19-12-1997,Alm. Salg,155,5361,6,1967,
-746,Villa,Kirkebakken 7,8660, Skanderborg,1255000 ,19-12-1997,Alm. Salg,66,19015,2,1920,
 746,Rækkehus,Klostervej 90C,8680, Ry,2542109 ,18-12-1997,Alm. Salg,180,14123,5,1973,
 746,Villa,Pebbelparken 22,8464, Galten,246000 ,18-12-1997,Alm. Salg,147,1673,6,1998,
 746,Villa,Gammel Skolevej 31,8660, Skanderborg,315000 ,18-12-1997,Alm. Salg,168,1875,5,1998,
@@ -25491,7 +25049,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Hybenvænget 32,8362, Hørning,326877 ,16-12-1997,Alm. Salg,154,2123,6,1973,
 746,Ejerlejlighed,"Røddikvej 40A, st",8464, Galten,490000 ,15-12-1997,Alm. Salg,101,4851,4,1952,
 746,Villa,Villavej 15,8660, Skanderborg,1135000 ,15-12-1997,Alm. Salg,135,8407,5,1925,
-746,Villa,Adelgade 114X,8660, Skanderborg,937500 ,15-12-1997,Alm. Salg,58,16164,2,1927,
 746,Villa,Bjergvej 40,8660, Skanderborg,1200000 ,15-12-1997,Alm. Salg,236,5085,6,1912,
 746,Villa,Kastaniealle 5,8680, Ry,960000 ,15-12-1997,Alm. Salg,151,6358,6,1958,
 746,Villa,Voldbyvej 29,8464, Galten,745000 ,15-12-1997,Alm. Salg,97,7680,4,1852,
@@ -25659,9 +25216,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Randersvej 88,8680, Ry,6132000 ,08-10-1997,Alm. Salg,168,36500,6,1986,
 746,Villa,Nyvej 12,8680, Ry,800000 ,08-10-1997,Alm. Salg,155,5161,5,1971,
 746,Rækkehus,Rypevej 2,8362, Hørning,807000 ,07-10-1997,Alm. Salg,110,7336,4,1975,
-746,Rækkehus,Ryvejen 27B,8660, Skanderborg,747000 ,07-10-1997,Alm. Salg,58,12879,2,1947,
 746,Villa,Emborgvej 145,8660, Skanderborg,313000 ,07-10-1997,Alm. Salg,60,5217,4,1952,
-746,Villa,Ryvejen 27A,8660, Skanderborg,747000 ,07-10-1997,Alm. Salg,148,5047,5,1877,
 746,Rækkehus,Parkvej 7D,8660, Skanderborg,917695 ,06-10-1997,Alm. Salg,110,8343,4,1925,
 746,Villa,Søndermarken 25,8670, Låsby,850875 ,06-10-1997,Alm. Salg,228,3732,7,1971,
 746,Villa,Krakesvej 55,8660, Skanderborg,266000 ,06-10-1997,Alm. Salg,151,1762,5,1998,
@@ -25752,9 +25307,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Kiltorn 42,8670, Låsby,158800 ,09-09-1997,Alm. Salg,137,1159,5,1998,
 746,Villa,Brunhøj 44,8362, Hørning,925000 ,09-09-1997,Alm. Salg,172,5378,6,1984,
 746,Rækkehus,Søbakken 14,8660, Skanderborg,1188000 ,08-09-1997,Alm. Salg,121,9818,4,1986,
-746,Rækkehus,Ryvejen 27B,8660, Skanderborg,1082544 ,08-09-1997,Alm. Salg,58,18665,2,1947,
 746,Villa,Lærkevænget 2,8464, Galten,165000 ,08-09-1997,Alm. Salg,146,1130,6,1999,
-746,Villa,Ryvejen 27A,8660, Skanderborg,1082544 ,08-09-1997,Alm. Salg,148,7314,5,1877,
 746,Rækkehus,Bie Rasmussens Vænge 9,8660, Skanderborg,731000 ,07-09-1997,Alm. Salg,81,9025,4,1989,
 746,Ejerlejlighed,"Søndergade 19E, 1. tv",8464, Galten,1258068 ,07-09-1997,Alm. Salg,102,12334,4,1910,
 746,Villa,Oddervej 30,8660, Skanderborg,2158000 ,07-09-1997,Alm. Salg,165,13079,8,1959,
@@ -25921,9 +25474,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Krakesvej 73,8660, Skanderborg,1424000 ,14-07-1997,Alm. Salg,150,9493,5,1997,
 746,Villa,Bøgeskovvej 7,8464, Galten,621930 ,14-07-1997,Alm. Salg,88,7067,3,1925,
 746,Villa,Firkløvervej 87,8464, Galten,201400 ,14-07-1997,Alm. Salg,175,1151,6,1998,
-746,Ejerlejlighed,P B Lunds Vej 35,8660, Skanderborg,569000 ,13-07-1997,Alm. Salg,208,2736,6,1913,
 746,Ejerlejlighed,"Eskebækparken 17, st. th",8660, Skanderborg,498342 ,13-07-1997,Alm. Salg,93,5359,4,1967,
-746,Ejerlejlighed,"Anesmindevej 12, kl",8660, Skanderborg,569000 ,13-07-1997,Alm. Salg,67,8493,2,1913,
 746,Villa,Horsensvej 78,8660, Skanderborg,676220 ,13-07-1997,Alm. Salg,172,3932,5,1933,
 746,Villa,Vestergårds Alle 8A,8362, Hørning,2586500 ,13-07-1997,Alm. Salg,150,17243,5,2013,
 746,Villa,Solvænget 8,8660, Skanderborg,966000 ,11-07-1997,Alm. Salg,221,4371,7,1968,
@@ -26770,7 +26321,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Fortevej 4,8464, Galten,698000 ,30-10-1996,Alm. Salg,140,4986,3,1925,
 746,Villa,Blegindvej 44C,8362, Hørning,1258000 ,30-10-1996,Alm. Salg,192,6552,5,1991,
 746,Villa,Østerløkken 8,8660, Skanderborg,1250000 ,30-10-1996,Alm. Salg,147,8503,5,1976,
-746,Villa,Tåningvej 7,8660, Skanderborg,448923 ,29-10-1996,Alm. Salg,150,2993,6,1916,
 746,Villa,Krakesvej 57,8660, Skanderborg,302000 ,29-10-1996,Alm. Salg,143,2112,6,1997,
 746,Villa,Egernvej 3,8660, Skanderborg,393000 ,29-10-1996,Alm. Salg,163,2411,5,1998,
 746,Villa,Risvej 84,8660, Skanderborg,567000 ,29-10-1996,Alm. Salg,91,6231,3,1948,
@@ -26939,8 +26489,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Valmuevænget 7,8362, Hørning,880000 ,16-09-1996,Alm. Salg,115,7652,4,1988,
 746,Villa,Østergade 12A,8660, Skanderborg,556000 ,16-09-1996,Alm. Salg,156,3564,5,1912,
 746,Villa,"Banegårdsvej 32, st",8660, Skanderborg,608000 ,15-09-1996,Alm. Salg,147,4136,5,1900,
-746,Ejerlejlighed,Tåningvej 9,8660, Skanderborg,586000 ,15-09-1996,Alm. Salg,156,3756,5,1910,
-746,Ejerlejlighed,"Horndrupvej 44, 1",8660, Skanderborg,586000 ,15-09-1996,Alm. Salg,85,6894,3,1910,
 746,Villa,Skanderupgade 47,8660, Skanderborg,780000 ,15-09-1996,Alm. Salg,176,4432,5,1904,
 746,Villa,Illerup Gyde 1,8660, Skanderborg,428000 ,15-09-1996,Alm. Salg,103,4155,3,1837,
 746,Villa,Skovvænget 7,8680, Ry,295000 ,15-09-1996,Alm. Salg,159,1855,6,1997,
@@ -27133,7 +26681,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Lyngbakken 29,8660, Skanderborg,1050000 ,18-07-1996,Alm. Salg,113,9292,4,1948,
 746,Villa,Hvolbækvej 5,8660, Skanderborg,735000 ,18-07-1996,Alm. Salg,147,5000,6,1971,
 746,Villa,Vestermarken 7,8660, Skanderborg,1082000 ,18-07-1996,Alm. Salg,167,6479,6,1870,
-746,Villa,Tåningvej 35D,8660, Skanderborg,3574026 ,18-07-1996,Fam. Salg,150,23827,5,1830,
 746,Rækkehus,Vestergade 18B,8660, Skanderborg,700000 ,16-07-1996,Alm. Salg,80,8750,3,1990,
 746,Ejerlejlighed,"Eskebækparken 41, 1. tv",8660, Skanderborg,386000 ,16-07-1996,Alm. Salg,93,4151,4,1970,
 746,Villa,Holmedal 52,8660, Skanderborg,348300 ,16-07-1996,Alm. Salg,267,1304,7,1890,
@@ -27748,8 +27295,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Rækkehus,Gyldenmuld 1,8660, Skanderborg,530000 ,30-01-1996,Alm. Salg,116,4569,4,1976,
 746,Rækkehus,Nørregade 20,8670, Låsby,268000 ,30-01-1996,Alm. Salg,156,1718,6,1800,
 746,Rækkehus,Kamillevej 12B,8680, Ry,437000 ,30-01-1996,Alm. Salg,67,6522,2,1972,
-746,Ejerlejlighed,P B Lunds Vej 35,8660, Skanderborg,500000 ,30-01-1996,Alm. Salg,208,2404,6,1913,
-746,Ejerlejlighed,"Anesmindevej 12, kl",8660, Skanderborg,500000 ,30-01-1996,Alm. Salg,67,7463,2,1913,
 746,Ejerlejlighed,"Eskebækparken 20, st. th",8660, Skanderborg,355000 ,29-01-1996,Alm. Salg,79,4494,3,1968,
 746,Villa,Møltoftvej 9,8660, Skanderborg,1057000 ,29-01-1996,Alm. Salg,224,4719,6,1938,
 746,Villa,Odinsvej 8,8464, Galten,850000 ,28-01-1996,Alm. Salg,205,4146,7,1973,
@@ -28007,17 +27552,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Lillesøvej 1,8660, Skanderborg,505000 ,18-10-1995,Alm. Salg,61,8279,2,1900,
 746,Villa,Siimvej 33,8680, Ry,383000 ,18-10-1995,Andet,118,3246,3,1961,
 746,Rækkehus,Søparken 6,8660, Skanderborg,922881 ,17-10-1995,Alm. Salg,121,7627,5,1972,
-746,Ejerlejlighed,"Adelgade 48, 1. th",8660, Skanderborg,3550000 ,17-10-1995,Alm. Salg,80,44375,2,1964,
-746,Ejerlejlighed,"Adelgade 48, 2. th",8660, Skanderborg,3550000 ,17-10-1995,Alm. Salg,72,49306,2,1964,
-746,Ejerlejlighed,"Adelgade 48, 2. tv",8660, Skanderborg,3550000 ,17-10-1995,Alm. Salg,111,31982,5,1964,
-746,Ejerlejlighed,"Adelgade 48, 1. tv",8660, Skanderborg,3550000 ,17-10-1995,Alm. Salg,147,24150,4,1964,
-746,Ejerlejlighed,"Asylgade 26, st. 2",8660, Skanderborg,3550000 ,17-10-1995,Alm. Salg,57,62281,2,1964,
-746,Ejerlejlighed,"Asylgade 26, st. 1",8660, Skanderborg,3550000 ,17-10-1995,Alm. Salg,60,59167,2,1964,
-746,Ejerlejlighed,"Asylgade 26, st. 3",8660, Skanderborg,3550000 ,17-10-1995,Alm. Salg,57,62281,2,1964,
-746,Ejerlejlighed,"Asylgade 26, 1. mf",8660, Skanderborg,3550000 ,17-10-1995,Alm. Salg,34,104412,1,1964,
-746,Ejerlejlighed,"Asylgade 26, 1. th",8660, Skanderborg,3550000 ,17-10-1995,Alm. Salg,85,41765,2,1964,
-746,Ejerlejlighed,"Asylgade 26, st. 4",8660, Skanderborg,3550000 ,17-10-1995,Alm. Salg,58,61207,2,1964,
-746,Ejerlejlighed,"Asylgade 26, 1. tv",8660, Skanderborg,3550000 ,17-10-1995,Alm. Salg,35,101429,1,1964,
 746,Villa,Voldbyvej 33A,8464, Galten,717660 ,17-10-1995,Alm. Salg,105,6835,4,1986,
 746,Rækkehus,Vestergade 49,8464, Galten,486000 ,16-10-1995,Alm. Salg,58,8379,2,1989,
 746,Rækkehus,Lyngfeldvænget 41,8464, Galten,580000 ,16-10-1995,Alm. Salg,91,6374,4,1980,
@@ -28408,8 +27942,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Skovvej 28,8660, Skanderborg,605000 ,21-06-1995,Alm. Salg,119,5084,4,1963,
 746,Villa,Højgårdsvej 4,8362, Hørning,755000 ,21-06-1995,Alm. Salg,157,4809,5,1965,
 746,Villa,Tulstrupvej 39,8680, Ry,650000 ,21-06-1995,Alm. Salg,136,4779,5,1870,
-746,Ejerlejlighed,P B Lunds Vej 35,8660, Skanderborg,680000 ,20-06-1995,Alm. Salg,208,3269,6,1913,
-746,Ejerlejlighed,"Anesmindevej 12, kl",8660, Skanderborg,680000 ,20-06-1995,Alm. Salg,67,10149,2,1913,
 746,Rækkehus,Klostervej 57,8680, Ry,473000 ,19-06-1995,Alm. Salg,120,3942,3,1973,
 746,Villa,Egholmsvej 32,8660, Skanderborg,574000 ,19-06-1995,Alm. Salg,111,5171,5,1950,
 746,Villa,Syrenvænget 36,8362, Hørning,415000 ,19-06-1995,Auktion,193,2150,6,1971,
@@ -28704,7 +28236,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Gammel Horsensvej 409,8660, Skanderborg,526520 ,21-03-1995,Alm. Salg,182,2893,4,1910,
 746,Villa,Stejlehøjvej 8,8680, Ry,547000 ,21-03-1995,Alm. Salg,122,4484,4,1973,
 746,Villa,Blåbærvænget 12,8660, Skanderborg,1032000 ,21-03-1995,Alm. Salg,190,5432,6,1965,
-746,Villa,Alleen 35,8660, Skanderborg,350000 ,21-03-1995,Alm. Salg,142,2465,4,1995,
 746,Villa,Holtshøjen 4,8660, Skanderborg,800000 ,21-03-1995,Alm. Salg,257,3113,5,1996,
 746,Rækkehus,Horsensvej 102C,8660, Skanderborg,477000 ,20-03-1995,Alm. Salg,73,6534,3,1990,
 746,Rækkehus,Kristiansvej 14B,8660, Skanderborg,630645 ,20-03-1995,Alm. Salg,69,9140,3,1988,
@@ -29153,9 +28684,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Lucernevænget 10,8362, Hørning,910000 ,26-09-1994,Alm. Salg,200,4550,6,1979,
 746,Villa,Herman Bangs Vej 10,8660, Skanderborg,706200 ,26-09-1994,Alm. Salg,111,6362,3,1969,
 746,Rækkehus,Rugmarken 19,8362, Hørning,500000 ,25-09-1994,Alm. Salg,110,4545,4,1977,
-746,Ejerlejlighed,"Hovedgaden 2, st",8670, Låsby,483000 ,25-09-1994,Alm. Salg,62,7790,3,1914,
-746,Ejerlejlighed,"Hovedgaden 2, 1",8670, Låsby,483000 ,25-09-1994,Alm. Salg,62,7790,3,1914,
-746,Ejerlejlighed,Århusvej 1,8670, Låsby,483000 ,25-09-1994,Alm. Salg,114,4237,4,1914,
 746,Villa,Sarabjerg 2,8660, Skanderborg,1234704 ,25-09-1994,Alm. Salg,170,7263,3,1977,
 746,Villa,Mossøvej 1B,8660, Skanderborg,650000 ,23-09-1994,Alm. Salg,275,2364,5,1980,
 746,Villa,Dyrballevej 20,8362, Hørning,315000 ,22-09-1994,Alm. Salg,140,2250,4,1997,
@@ -29875,8 +29403,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Rækkehus,Vestergade 69,8464, Galten,400000 ,16-12-1993,Alm. Salg,58,6897,2,1989,
 746,Rækkehus,Bøgevej 56A,8680, Ry,648750 ,15-12-1993,Alm. Salg,98,6620,4,1985,
 746,Villa,Bøgevej 68,8680, Ry,1045000 ,15-12-1993,Alm. Salg,137,7628,5,1985,
-746,Rækkehus,Hirsevænget 16,8362, Hørning,600000 ,13-12-1993,Alm. Salg,110,5455,4,1979,
-746,Villa,Skovvænget 6,8362, Hørning,600000 ,13-12-1993,Alm. Salg,126,4762,5,1968,
 746,Villa,Gefionsvej 4,8680, Ry,520000 ,13-12-1993,Alm. Salg,197,2640,7,1964,
 746,Ejerlejlighed,Århusvej 58,8660, Skanderborg,340000 ,12-12-1993,Fam. Salg,77,4416,4,1960,
 746,Villa,Tåningvej 26,8660, Skanderborg,895000 ,12-12-1993,Alm. Salg,276,3243,5,1994,
@@ -29963,16 +29489,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Tjørnevej 4,8464, Galten,450000 ,03-11-1993,Alm. Salg,113,3982,3,1959,
 746,Villa,Siimvej 29,8680, Ry,760000 ,03-11-1993,Andet,137,5547,3,1964,
 746,Villa,Nyvej 8,8680, Ry,414810 ,02-11-1993,Alm. Salg,105,3951,3,1900,
-746,Ejerlejlighed,"Blegindvej 2B, 1",8362, Hørning,1652000 ,01-11-1993,Alm. Salg,100,16520,2,1907,
-746,Ejerlejlighed,"Blegindvej 2, st",8362, Hørning,1652000 ,01-11-1993,Alm. Salg,68,24294,2,1907,
-746,Ejerlejlighed,"Blegindvej 2B, 2. tv",8362, Hørning,1652000 ,01-11-1993,Alm. Salg,83,19904,2,1907,
-746,Ejerlejlighed,"Blegindvej 2B, 2. th",8362, Hørning,1652000 ,01-11-1993,Alm. Salg,76,21737,2,1907,
-746,Ejerlejlighed,"Blegindvej 2, 1. th",8362, Hørning,1652000 ,01-11-1993,Alm. Salg,57,28982,3,1907,
-746,Ejerlejlighed,Blegindvej 2C,8362, Hørning,1652000 ,01-11-1993,Alm. Salg,87,18989,2,1907,
-746,Ejerlejlighed,"Blegindvej 2, 1. tv",8362, Hørning,1652000 ,01-11-1993,Alm. Salg,64,25813,2,1907,
-746,Ejerlejlighed,"Fregerslevvej 1, 2",8362, Hørning,1652000 ,01-11-1993,Alm. Salg,51,32392,2,1907,
-746,Ejerlejlighed,"Fregerslevvej 1, 1",8362, Hørning,1652000 ,01-11-1993,Alm. Salg,58,28483,2,1907,
-746,Ejerlejlighed,"Fregerslevvej 1, st",8362, Hørning,1652000 ,01-11-1993,Alm. Salg,62,26645,1,1907,
 746,Villa,Skanderborgvej 82,8680, Ry,520000 ,01-11-1993,Alm. Salg,110,4727,4,1942,
 746,Villa,Århusvej 48,8660, Skanderborg,678000 ,31-10-1993,Alm. Salg,120,5650,5,1955,
 746,Villa,Slotsholmen 9,8660, Skanderborg,550000 ,31-10-1993,Alm. Salg,305,1803,7,1995,
@@ -30037,7 +29553,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Skovsrodvej 49,8670, Låsby,118800 ,19-10-1993,Alm. Salg,120,990,4,1940,
 746,Villa,Platanvej 19,8680, Ry,203175 ,19-10-1993,Alm. Salg,160,1270,5,1994,
 746,Rækkehus,Østergade 20,8660, Skanderborg,575000 ,18-10-1993,Alm. Salg,134,4291,5,1920,
-746,Rækkehus,Banegårdsvej 42A,8660, Skanderborg,685000 ,17-10-1993,Alm. Salg,111,6171,4,1785,
 746,Ejerlejlighed,"Vestermosevej 2, st. th",8660, Skanderborg,318000 ,17-10-1993,Alm. Salg,90,3533,2,1935,
 746,Villa,Århusvej 14,8660, Skanderborg,415000 ,17-10-1993,Alm. Salg,153,2712,5,1908,
 746,Villa,Solvænget 15,8660, Skanderborg,715000 ,17-10-1993,Alm. Salg,134,5336,4,1968,
@@ -30387,8 +29902,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Trondvad 7,8362, Hørning,828000 ,08-06-1993,Alm. Salg,134,6179,4,1977,
 746,Villa,Horsensvej 18,8660, Skanderborg,820000 ,08-06-1993,Alm. Salg,271,3026,8,1777,
 746,Villa,Violvej 24,8680, Ry,807000 ,08-06-1993,Alm. Salg,168,4804,5,1974,
-746,Rækkehus,Silkeborgvej 39A,8464, Galten,1100000 ,07-06-1993,Alm. Salg,180,6111,6,1827,
-746,Ejerlejlighed,"Silkeborgvej 39, 1",8464, Galten,1100000 ,07-06-1993,Alm. Salg,90,12222,4,1827,
 746,Villa,Plantagevej 1,8660, Skanderborg,325000 ,07-06-1993,Alm. Salg,207,1570,7,1953,
 746,Villa,Kratvej 8,8670, Låsby,435000 ,07-06-1993,Alm. Salg,111,3919,4,1956,
 746,Rækkehus,Agervej 36,8464, Galten,575000 ,06-06-1993,Alm. Salg,130,4423,4,1971,
@@ -30502,9 +30015,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Søvej 16A,8680, Ry,1614000 ,19-04-1993,Alm. Salg,138,11696,5,1850,
 746,Villa,Mosagervænget 48,8464, Galten,630000 ,19-04-1993,Alm. Salg,134,4701,4,1971,
 746,Villa,Christinedahlsvej 27,8464, Galten,735000 ,19-04-1993,Alm. Salg,165,4455,6,1976,
-746,Ejerlejlighed,"Fredensvej 26, st",8680, Ry,735261 ,18-04-1993,Alm. Salg,100,7353,3,1944,
-746,Ejerlejlighed,"Fredensvej 26, 1",8680, Ry,735261 ,18-04-1993,Alm. Salg,65,11312,3,1944,
-746,Ejerlejlighed,P Steffensensvej 10,8680, Ry,735261 ,18-04-1993,Alm. Salg,74,9936,3,1944,
 746,Ejerlejlighed,"Ydunsvej 1A, st",8680, Ry,400000 ,18-04-1993,Alm. Salg,95,4211,4,1974,
 746,Ejerlejlighed,"Ydunsvej 1A, 1",8680, Ry,350000 ,18-04-1993,Alm. Salg,102,3431,3,1974,
 746,Villa,Låsbyvej 112,8660, Skanderborg,246500 ,18-04-1993,Fam. Salg,110,2241,3,1942,
@@ -30618,7 +30128,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Tebstrup Skovvej 10,8660, Skanderborg,450000 ,21-02-1993,Alm. Salg,113,3982,5,1963,
 746,Villa,Pilevej 3,8660, Skanderborg,730000 ,21-02-1993,Alm. Salg,159,4591,5,1969,
 746,Villa,Søvejen 4,8362, Hørning,515000 ,21-02-1993,Alm. Salg,140,3679,5,1962,
-746,Villa,Tulstrupvej 25A,8680, Ry,402000 ,21-02-1993,Alm. Salg,381,1055,8,2009,
 746,Villa,Gl Århusvej 14,8670, Låsby,340000 ,21-02-1993,Auktion,198,1717,6,1917,
 746,Ejerlejlighed,"Lillesøvej 3, st. 8",8660, Skanderborg,190000 ,20-02-1993,Alm. Salg,55,3455,1,1968,
 746,Villa,Mursejlervej 3,8660, Skanderborg,285000 ,20-02-1993,Fam. Salg,138,2065,5,1976,
@@ -30907,7 +30416,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Spongbækken 93,8362, Hørning,780000 ,08-09-1992,Alm. Salg,106,7358,4,1992,
 746,Villa,Herman Bangs Vej 7,8660, Skanderborg,863000 ,08-09-1992,Alm. Salg,149,5792,4,1968,
 746,Villa,Rosenparken 8,8464, Galten,560000 ,07-09-1992,Alm. Salg,127,4409,5,1972,
-746,Villa,Horsensvej 73,8660, Skanderborg,590000 ,06-09-1992,Alm. Salg,62,9516,2,1900,
 746,Villa,Tunøvej 35,8464, Galten,590000 ,06-09-1992,Fam. Salg,114,5175,4,1976,
 746,Villa,Herschendsgavevej 17,8660, Skanderborg,624000 ,06-09-1992,Alm. Salg,208,3000,7,1920,
 746,Villa,Sneglebakken 11,8660, Skanderborg,630000 ,06-09-1992,Alm. Salg,134,4701,5,1968,
@@ -31155,7 +30663,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Rimmersvej 8,8680, Ry,630000 ,18-05-1992,Fam. Salg,180,3500,6,1974,
 746,Villa,Cortinavej 28,8660, Skanderborg,1275000 ,18-05-1992,Alm. Salg,213,5986,5,1976,
 746,Villa,Knudsvej 43,8680, Ry,480000 ,18-05-1992,Alm. Salg,134,3582,3,1938,
-746,Villa,Adelgade 114X,8660, Skanderborg,1775000 ,17-05-1992,Alm. Salg,58,30603,2,1927,
 746,Villa,Rimmersvej 9,8680, Ry,730000 ,17-05-1992,Fam. Salg,189,3862,7,1973,
 746,Villa,Århusvej 73,8660, Skanderborg,317022 ,17-05-1992,Alm. Salg,73,4343,3,1954,
 746,Villa,Krøyer Kielbergs Vej 13,8660, Skanderborg,695000 ,17-05-1992,Alm. Salg,255,2725,9,1924,
@@ -31183,8 +30690,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 746,Villa,Agnetevej 34,8680, Ry,590000 ,07-05-1992,Alm. Salg,130,4538,6,1947,
 746,Villa,Smedevænget 47,8464, Galten,645000 ,06-05-1992,Alm. Salg,140,4607,6,1978,
 746,Villa,Frodesvej 20,8660, Skanderborg,676829 ,06-05-1992,Alm. Salg,137,4940,5,1978,
-746,Rækkehus,Harevej 8B,8660, Skanderborg,259000 ,05-05-1992,Alm. Salg,80,3238,4,1992,
-746,Villa,Harevej 6,8660, Skanderborg,259000 ,05-05-1992,Alm. Salg,148,1750,6,1995,
 746,Villa,Regnbuevænget 7,8660, Skanderborg,795000 ,05-05-1992,Fam. Salg,182,4368,6,1934,
 746,Villa,Granhøjen 44,8660, Skanderborg,477000 ,05-05-1992,Alm. Salg,125,3816,4,1981,
 746,Villa,Samsøvej 35,8464, Galten,695000 ,05-05-1992,Alm. Salg,171,4064,7,1976,

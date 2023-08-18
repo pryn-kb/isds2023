@@ -98,12 +98,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 185,Villa,Alkmaar Alle 31,2791, Dragør,3900000 ,05-09-2022,Alm. Salg,119,32773,4,1971,-8%
 185,Villa,Pilegård Alle 38,2770, Kastrup,3145000 ,05-09-2022,Alm. Salg,93,33817,4,1952,-16%
 185,Villa,Kongelundsvej 303,2770, Kastrup,2050000 ,01-09-2022,Fam. Salg,150,13667,5,1953,
-185,Rækkehus,Skøjtevænget 8,2770, Kastrup,5000000 ,31-08-2022,Alm. Salg,109,45872,5,1956,
 185,Ejerlejlighed,"Ved Diget 7, st. th",2770, Kastrup,2550000 ,31-08-2022,Alm. Salg,65,39231,3,1950,-2%
 185,Ejerlejlighed,"Knarreborgvej 3A, st. th",2770, Kastrup,4695000 ,31-08-2022,Alm. Salg,90,52167,3,2006,-2%
 185,Villa,Zinniavej 19,2770, Kastrup,4505000 ,31-08-2022,Alm. Salg,124,36331,5,1931,-6%
 185,Villa,Ryumgårdvej 38,2770, Kastrup,4075000 ,31-08-2022,Alm. Salg,115,35435,3,1963,-5%
-185,Villa,Dueoddevej 22,2770, Kastrup,5000000 ,31-08-2022,Alm. Salg,108,46296,3,1952,-6%
 185,Rækkehus,Dronningborgvej 49,2770, Kastrup,4075000 ,30-08-2022,Alm. Salg,96,42448,4,1952,-5%
 185,Rækkehus,Borrelyngen 21,2770, Kastrup,4725000 ,28-08-2022,Alm. Salg,107,44159,5,1960,-2%
 185,Rækkehus,Bolbrovej 26,2770, Kastrup,5000000 ,25-08-2022,Alm. Salg,169,29586,5,1971,
@@ -867,8 +865,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 185,Ejerlejlighed,Glamsbjergvej 18A,2770, Kastrup,26167250 ,18-03-2021,Alm. Salg,121,216258,4,2018,
 185,Villa,Kongelundsvej 476,2770, Kastrup,3300000 ,18-03-2021,Auktion,132,25000,4,1970,
 185,Ejerlejlighed,"Amager Landevej 82B, 2. tv",2770, Kastrup,2500000 ,17-03-2021,Alm. Salg,75,33333,3,1948,
-185,Ejerlejlighed,"Amager Landevej 12, 1",2770, Kastrup,4600000 ,16-03-2021,Alm. Salg,139,33094,4,1935,
-185,Ejerlejlighed,Ny Skelgårdsvej 2,2770, Kastrup,4600000 ,16-03-2021,Alm. Salg,154,29870,5,1935,
 185,Villa,Præstemarksvej 8,2770, Kastrup,4750000 ,16-03-2021,Alm. Salg,113,42035,3,1940,0%
 185,Villa,Cypres Alle 48,2770, Kastrup,6155000 ,16-03-2021,Alm. Salg,81,75988,4,1949,8%
 185,Ejerlejlighed,"Kofoed Jensens Alle 3, st. tv",2770, Kastrup,1875000 ,15-03-2021,Alm. Salg,54,34722,2,1952,
@@ -1025,8 +1021,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 185,Villa,Eskebøl Alle 21,2770, Kastrup,3500000 ,07-01-2021,Fam. Salg,127,27559,5,1958,
 185,Ejerlejlighed,"Kastrupvej 253, 2. tv",2770, Kastrup,1500000 ,06-01-2021,Alm. Salg,72,20833,3,1939,
 185,Villa,Merkur Alle 14,2770, Kastrup,4075000 ,06-01-2021,Alm. Salg,118,34534,5,1939,-2%
-185,Ejerlejlighed,"Tømmerupvej 246, st. th",2791, Dragør,250000 ,04-01-2021,Alm. Salg,140,1786,3,1904,
-185,Villa,"Tømmerupvej 246, st. tv",2791, Dragør,250000 ,04-01-2021,Alm. Salg,174,1437,8,1904,
 185,Ejerlejlighed,"Soldugvej 18, st. th",2770, Kastrup,1800000 ,03-01-2021,Alm. Salg,58,31034,2,1939,-2%
 185,Villa,Johannesburg Alle 2,2770, Kastrup,3950000 ,03-01-2021,Alm. Salg,163,24233,5,1973,-4%
 185,Rækkehus,Skyttehøj 22,2770, Kastrup,3600000 ,02-01-2021,Alm. Salg,102,35294,4,1953,-4%
@@ -1153,10 +1147,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 185,Rækkehus,Jacob Appels Alle 63,2770, Kastrup,4000000 ,26-10-2020,Alm. Salg,109,36697,5,1951,0%
 185,Villa,Præstefælledvej 114,2770, Kastrup,3800000 ,26-10-2020,Alm. Salg,111,34234,4,1962,0%
 185,Villa,Borgbygård Alle 15,2770, Kastrup,4495000 ,26-10-2020,Alm. Salg,135,33296,4,1928,
-185,Rækkehus,Bryrupvej 39,2770, Kastrup,3800000 ,25-10-2020,Alm. Salg,128,29688,5,1976,
 185,Villa,Th Philipsensvej 41,2770, Kastrup,3795000 ,25-10-2020,Alm. Salg,105,36143,4,1950,
 185,Villa,Tømmerupvang 1,2770, Kastrup,4200000 ,25-10-2020,Alm. Salg,140,30000,5,1978,-1%
-185,Villa,Ryumgårdvej 40,2770, Kastrup,3800000 ,25-10-2020,Alm. Salg,140,27143,6,1986,-5%
 185,Villa,Tårnbygårdvej 6,2770, Kastrup,3950000 ,22-10-2020,Alm. Salg,128,30859,6,1957,-1%
 185,Villa,Amager Landevej 277,2770, Kastrup,5000000 ,22-10-2020,Alm. Salg,151,33113,5,1929,
 185,Villa,Brattingsborgvej 3,2770, Kastrup,5200000 ,22-10-2020,Alm. Salg,155,33548,7,1949,-2%
@@ -2311,8 +2303,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 185,Ejerlejlighed,"Helmer Søgårds Alle 24, 2. tv",2770, Kastrup,2075000 ,17-10-2018,Alm. Salg,67,30970,3,1953,-3%
 185,Villa,Tømmerupvang 12,2770, Kastrup,3080000 ,17-10-2018,Alm. Salg,117,26325,3,1977,-3%
 185,Villa,Vestavej 5,2770, Kastrup,3595000 ,16-10-2018,Alm. Salg,109,32982,3,1972,
-185,Ejerlejlighed,Capellas Alle 2,2770, Kastrup,3280000 ,15-10-2018,Alm. Salg,100,32800,3,1850,-2%
-185,Ejerlejlighed,Amager Landevej 168,2770, Kastrup,3280000 ,15-10-2018,Alm. Salg,119,27563,2,1850,-2%
 185,Villa,Arkturus Alle 14,2770, Kastrup,3375000 ,15-10-2018,Alm. Salg,107,31542,4,1954,-3%
 185,Villa,Oliefabriksvej 162,2770, Kastrup,2950000 ,15-10-2018,Alm. Salg,136,21691,5,1953,-10%
 185,Villa,Arnager Alle 11,2770, Kastrup,4500000 ,14-10-2018,Alm. Salg,166,27108,6,1984,0%
@@ -2410,10 +2400,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 185,Ejerlejlighed,"Alleen 84, 2. tv",2770, Kastrup,2800000 ,30-08-2018,Alm. Salg,86,32558,3,1988,4%
 185,Villa,Doorn Alle 46,2791, Dragør,3800000 ,30-08-2018,Alm. Salg,147,25850,6,1972,-5%
 185,Rækkehus,Kastrupgårdvej 3,2770, Kastrup,127500 ,29-08-2018,Fam. Salg,95,1342,4,1960,
-185,Ejerlejlighed,"Tømmerupvej 246, st. th",2791, Dragør,2061250 ,29-08-2018,Fam. Salg,140,14723,3,1904,
 185,Ejerlejlighed,"Kofoed Jensens Alle 1, 1. th",2770, Kastrup,1010000 ,29-08-2018,Fam. Salg,54,18704,2,1952,
 185,Villa,Ilbro Alle 6,2770, Kastrup,5900000 ,29-08-2018,Alm. Salg,192,30729,6,2005,-4%
-185,Villa,"Tømmerupvej 246, st. tv",2791, Dragør,2061250 ,29-08-2018,Fam. Salg,174,11846,8,1904,
 185,Ejerlejlighed,"Amager Landevej 84, 1. th",2770, Kastrup,2035000 ,28-08-2018,Alm. Salg,70,29071,3,1946,-1%
 185,Villa,Dueoddevej 4,2770, Kastrup,2875000 ,28-08-2018,Alm. Salg,194,14820,6,2019,-4%
 185,Rækkehus,Løjtegårdsvej 25,2770, Kastrup,3520000 ,27-08-2018,Alm. Salg,86,40930,4,1947,1%
@@ -2860,9 +2848,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 185,Villa,Præstefælledvej 19,2770, Kastrup,2750000 ,05-11-2017,Alm. Salg,138,19928,4,1920,
 185,Ejerlejlighed,"Teglkåsvej 1, 2. th",2770, Kastrup,2295000 ,04-11-2017,Alm. Salg,75,30600,3,1949,
 185,Ejerlejlighed,"Helmer Søgårds Alle 10, 2. tv",2770, Kastrup,2150000 ,02-11-2017,Alm. Salg,64,33594,3,1950,-6%
-185,Ejerlejlighed,"Alleen 82, 1. th",2770, Kastrup,3500000 ,01-11-2017,Alm. Salg,108,32407,4,2016,-3%
 185,Villa,Capellas Alle 39,2770, Kastrup,3250000 ,01-11-2017,Alm. Salg,122,26639,4,1934,-1%
-185,Villa,Amager Landevej 226,2770, Kastrup,3500000 ,01-11-2017,Alm. Salg,206,16990,5,1947,-7%
 185,Villa,Th Philipsensvej 51,2770, Kastrup,2600000 ,01-11-2017,Alm. Salg,87,29885,4,1948,
 185,Villa,Doorn Alle 53,2791, Dragør,3795000 ,01-11-2017,Alm. Salg,155,24484,5,1973,
 185,Villa,Capellas Alle 35,2770, Kastrup,2650000 ,30-10-2017,Alm. Salg,101,26238,5,1942,-2%
@@ -3012,20 +2998,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 185,Villa,Brenderupvej 19,2770, Kastrup,3700000 ,07-08-2017,Alm. Salg,128,28906,5,1940,-2%
 185,Ejerlejlighed,"Helmer Søgårds Alle 31, 1. tv",2770, Kastrup,1200000 ,05-08-2017,Alm. Salg,72,16667,3,1952,
 185,Ejerlejlighed,"Alleen 82, 2. tv",2770, Kastrup,3500000 ,05-08-2017,Alm. Salg,108,32407,4,2016,
-185,Ejerlejlighed,"Kastruplundgade 1, 2. tv",2770, Kastrup,15000000 ,03-08-2017,Alm. Salg,48,312500,2,1924,
-185,Ejerlejlighed,"Kastruplundgade 1, 1. th",2770, Kastrup,15000000 ,03-08-2017,Alm. Salg,48,312500,2,1924,
-185,Ejerlejlighed,"Kastruplundgade 1, 1. tv",2770, Kastrup,15000000 ,03-08-2017,Alm. Salg,52,288462,2,1924,
-185,Ejerlejlighed,"Saltværksvej 41, 1. th",2770, Kastrup,15000000 ,03-08-2017,Alm. Salg,72,208333,2,1924,
-185,Ejerlejlighed,"Saltværksvej 41, 2. tv",2770, Kastrup,15000000 ,03-08-2017,Alm. Salg,62,241935,2,1924,
-185,Ejerlejlighed,"Saltværksvej 41, 1. tv",2770, Kastrup,15000000 ,03-08-2017,Alm. Salg,72,208333,2,1924,
-185,Ejerlejlighed,Kastruplundgade 1A. 6,2770, Kastrup,15000000 ,03-08-2017,Alm. Salg,83,180723,2,1924,
-185,Ejerlejlighed,Kastruplundgade 1A. 2,2770, Kastrup,15000000 ,03-08-2017,Alm. Salg,38,394737,1,1924,
-185,Ejerlejlighed,Kastruplundgade 1A. 1,2770, Kastrup,15000000 ,03-08-2017,Alm. Salg,37,405405,1,1924,
-185,Ejerlejlighed,"Saltværksvej 41, 2. th",2770, Kastrup,15000000 ,03-08-2017,Alm. Salg,67,223881,2,1924,
-185,Ejerlejlighed,"Kastruplundgade 1, 2. th",2770, Kastrup,15000000 ,03-08-2017,Alm. Salg,45,333333,2,1924,
-185,Ejerlejlighed,Kastruplundgade 1A. 3,2770, Kastrup,15000000 ,03-08-2017,Alm. Salg,34,441176,1,1924,
-185,Ejerlejlighed,Kastruplundgade 1A. 5,2770, Kastrup,15000000 ,03-08-2017,Alm. Salg,68,220588,2,1924,
-185,Ejerlejlighed,Kastruplundgade 1A. 4,2770, Kastrup,15000000 ,03-08-2017,Alm. Salg,76,197368,2,1924,
 185,Villa,Amager Landevej 19,2770, Kastrup,2076300 ,03-08-2017,Alm. Salg,131,15850,5,1927,
 185,Villa,Natalvej 20,2770, Kastrup,3595000 ,03-08-2017,Alm. Salg,111,32387,4,1974,
 185,Villa,Latyrus Alle 7,2770, Kastrup,4505000 ,02-08-2017,Alm. Salg,148,30439,6,1907,0%
@@ -3119,13 +3091,11 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 185,Rækkehus,Hjallerup Alle 18,2770, Kastrup,3640000 ,21-06-2017,Alm. Salg,127,28661,5,1961,0%
 185,Rækkehus,Skyttehøj 16,2770, Kastrup,3350000 ,21-06-2017,Alm. Salg,100,33500,5,1953,
 185,Villa,Grindsted Alle 13,2770, Kastrup,3195000 ,21-06-2017,Alm. Salg,114,28026,3,1956,
-185,Rækkehus,Skyttehøj 40,2770, Kastrup,3200000 ,20-06-2017,Alm. Salg,104,30769,5,1953,-3%
 185,Rækkehus,Dronningborgvej 27,2770, Kastrup,1000000 ,20-06-2017,Alm. Salg,120,8333,4,1952,
 185,Ejerlejlighed,"Teglkåsvej 4, 2. tv",2770, Kastrup,1520000 ,20-06-2017,Alm. Salg,56,27143,2,1946,2%
 185,Ejerlejlighed,"Højgården 6, 1. 208",2770, Kastrup,2295000 ,20-06-2017,Alm. Salg,75,30600,2,1975,
 185,Villa,Kibækvej 20,2770, Kastrup,5500000 ,20-06-2017,Alm. Salg,170,32353,7,2011,-3%
 185,Villa,Capellas Alle 24,2770, Kastrup,2150000 ,20-06-2017,Alm. Salg,136,15809,5,1943,-13%
-185,Villa,Give Alle 26,2770, Kastrup,3200000 ,20-06-2017,Alm. Salg,155,20645,5,2018,-2%
 185,Rækkehus,Lyrens Alle 2A,2770, Kastrup,1099000 ,19-06-2017,Alm. Salg,97,11330,3,1920,
 185,Villa,Zaandam Alle 4,2791, Dragør,2950000 ,19-06-2017,Alm. Salg,150,19667,4,1974,-5%
 185,Villa,Amager Landevej 35,2770, Kastrup,3495200 ,19-06-2017,Fam. Salg,188,18591,7,1921,
@@ -3601,8 +3571,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 185,Villa,Sønderholm Alle 21,2770, Kastrup,4298000 ,15-09-2016,Alm. Salg,169,25432,7,1949,-1%
 185,Villa,Rhodesiavej 27,2770, Kastrup,2950000 ,14-09-2016,Alm. Salg,137,21533,5,1961,-8%
 185,Villa,Rynkebyvej 22,2770, Kastrup,1657500 ,14-09-2016,Fam. Salg,119,13929,4,1970,
-185,Ejerlejlighed,Saltværksvej 132,2770, Kastrup,2680000 ,13-09-2016,Alm. Salg,43,62326,1,1905,-1%
-185,Ejerlejlighed,Pyrus Alle 1,2770, Kastrup,2680000 ,13-09-2016,Alm. Salg,122,21967,4,1905,-1%
 185,Villa,Nubiensvej 34,2770, Kastrup,2450000 ,13-09-2016,Alm. Salg,180,13611,6,2018,-6%
 185,Ejerlejlighed,"Amager Landevej 3B, 1. th",2770, Kastrup,1850000 ,12-09-2016,Alm. Salg,76,24342,2,1931,-2%
 185,Villa,Magle Alle 11,2770, Kastrup,2875000 ,12-09-2016,Alm. Salg,110,26136,5,1967,
@@ -3915,9 +3883,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 185,Rækkehus,Jacob Appels Alle 32,2770, Kastrup,3100000 ,07-03-2016,Alm. Salg,102,30392,5,1950,
 185,Villa,Ny Skelgårdsvej 10,2770, Kastrup,3375000 ,07-03-2016,Alm. Salg,93,36290,5,1957,
 185,Rækkehus,Amager Strandvej 340,2770, Kastrup,3860000 ,05-03-2016,Alm. Salg,123,31382,4,1931,10%
-185,Ejerlejlighed,"Alleen 82, 3. th",2770, Kastrup,3295000 ,03-03-2016,Alm. Salg,99,33283,4,2016,
 185,Villa,Vosborgvej 45,2770, Kastrup,3900000 ,03-03-2016,Alm. Salg,123,31707,5,1954,-2%
-185,Villa,Hesselvigvej 21,2770, Kastrup,3295000 ,03-03-2016,Alm. Salg,110,29955,4,1964,
 185,Villa,Kollundvej 9,2770, Kastrup,2795000 ,03-03-2016,Alm. Salg,105,26619,4,1968,
 185,Villa,Finnedalsvej 17,2770, Kastrup,2900000 ,02-03-2016,Alm. Salg,190,15263,5,2022,
 185,Villa,Melstedvej 13,2770, Kastrup,1750000 ,02-03-2016,Andet,141,12411,4,1963,
@@ -4593,9 +4559,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 185,Villa,Hilversumvej 45,2791, Dragør,1742663 ,21-02-2015,Fam. Salg,204,8542,6,2013,
 185,Villa,Risbyvej 3,2770, Kastrup,2350000 ,21-02-2015,Alm. Salg,178,13202,5,2016,-6%
 185,Ejerlejlighed,"Kastrupkrogen 15, 2. th",2770, Kastrup,1230000 ,19-02-2015,Alm. Salg,54,22778,2,1939,-2%
-185,Ejerlejlighed,"Kastruplundgade 50, 3. 13",2770, Kastrup,2495000 ,19-02-2015,Alm. Salg,88,28352,3,2001,
 185,Ejerlejlighed,"Alleen 82, st. th",2770, Kastrup,2595000 ,19-02-2015,Alm. Salg,108,24028,4,2016,
-185,Ejerlejlighed,"Alleen 82, st. tv",2770, Kastrup,2495000 ,19-02-2015,Alm. Salg,108,23102,4,2016,
 185,Rækkehus,Vestbirk Alle 33,2770, Kastrup,3100000 ,18-02-2015,Alm. Salg,106,29245,5,1954,-6%
 185,Rækkehus,Skyttehøj 33,2770, Kastrup,2950000 ,18-02-2015,Alm. Salg,119,24790,5,1953,
 185,Villa,Kibækvej 10,2770, Kastrup,2350000 ,18-02-2015,Alm. Salg,93,25269,4,1960,-1%
@@ -5113,20 +5077,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 185,Villa,Skolevænget 5,2770, Kastrup,4200000 ,31-03-2014,Alm. Salg,182,23077,6,1962,-2%
 185,Villa,Vegas Alle 17,2770, Kastrup,1700000 ,31-03-2014,Alm. Salg,79,21519,3,1924,0%
 185,Rækkehus,Snoghøj Alle 53,2770, Kastrup,2825000 ,30-03-2014,Alm. Salg,134,21082,7,1955,5%
-185,Ejerlejlighed,"Kastruplundgade 1, 2. tv",2770, Kastrup,6600000 ,30-03-2014,Alm. Salg,48,137500,2,1924,
-185,Ejerlejlighed,"Kastruplundgade 1, 1. th",2770, Kastrup,6600000 ,30-03-2014,Alm. Salg,48,137500,2,1924,
-185,Ejerlejlighed,"Kastruplundgade 1, 1. tv",2770, Kastrup,6600000 ,30-03-2014,Alm. Salg,52,126923,2,1924,
-185,Ejerlejlighed,"Saltværksvej 41, 1. th",2770, Kastrup,6600000 ,30-03-2014,Alm. Salg,72,91667,2,1924,
-185,Ejerlejlighed,"Saltværksvej 41, 2. tv",2770, Kastrup,6600000 ,30-03-2014,Alm. Salg,62,106452,2,1924,
-185,Ejerlejlighed,"Saltværksvej 41, 1. tv",2770, Kastrup,6600000 ,30-03-2014,Alm. Salg,72,91667,2,1924,
-185,Ejerlejlighed,Kastruplundgade 1A. 6,2770, Kastrup,6600000 ,30-03-2014,Alm. Salg,83,79518,2,1924,
-185,Ejerlejlighed,Kastruplundgade 1A. 2,2770, Kastrup,6600000 ,30-03-2014,Alm. Salg,38,173684,1,1924,
-185,Ejerlejlighed,Kastruplundgade 1A. 1,2770, Kastrup,6600000 ,30-03-2014,Alm. Salg,37,178378,1,1924,
-185,Ejerlejlighed,"Saltværksvej 41, 2. th",2770, Kastrup,6600000 ,30-03-2014,Alm. Salg,67,98507,2,1924,
-185,Ejerlejlighed,"Kastruplundgade 1, 2. th",2770, Kastrup,6600000 ,30-03-2014,Alm. Salg,45,146667,2,1924,
-185,Ejerlejlighed,Kastruplundgade 1A. 3,2770, Kastrup,6600000 ,30-03-2014,Alm. Salg,34,194118,1,1924,
-185,Ejerlejlighed,Kastruplundgade 1A. 5,2770, Kastrup,6600000 ,30-03-2014,Alm. Salg,68,97059,2,1924,
-185,Ejerlejlighed,Kastruplundgade 1A. 4,2770, Kastrup,6600000 ,30-03-2014,Alm. Salg,76,86842,2,1924,
 185,Villa,Tobrukvej 1,2770, Kastrup,1430000 ,30-03-2014,Alm. Salg,160,8938,6,2014,
 185,Villa,Saltværksvej 193,2770, Kastrup,3750000 ,30-03-2014,Alm. Salg,128,29297,4,1928,
 185,Villa,Præstefælledvej 109,2770, Kastrup,2100000 ,30-03-2014,Alm. Salg,186,11290,6,2014,-4%
@@ -5193,8 +5143,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 185,Villa,Suezvej 31,2770, Kastrup,1250000 ,20-02-2014,Alm. Salg,99,12626,5,1957,-48%
 185,Villa,Haag Alle 3,2791, Dragør,3245000 ,20-02-2014,Alm. Salg,193,16813,5,1973,-2%
 185,Rækkehus,Vosborgvej 55,2770, Kastrup,1850000 ,19-02-2014,Alm. Salg,104,17788,5,1953,
-185,Ejerlejlighed,"Amager Landevej 12, 1",2770, Kastrup,1855000 ,19-02-2014,Alm. Salg,139,13345,4,1935,
-185,Ejerlejlighed,Ny Skelgårdsvej 2,2770, Kastrup,1855000 ,19-02-2014,Alm. Salg,154,12045,5,1935,
 185,Villa,Brønderslev Alle 49B,2770, Kastrup,2800000 ,18-02-2014,Alm. Salg,147,19048,5,1965,0%
 185,Villa,Vosborgvej 34,2770, Kastrup,2795000 ,16-02-2014,Alm. Salg,107,26121,5,1954,
 185,Villa,Ryumgårdvej 81,2770, Kastrup,2195000 ,16-02-2014,Alm. Salg,132,16629,4,1983,
@@ -5235,8 +5183,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 185,Villa,Fortgård Alle 14,2770, Kastrup,1767700 ,26-01-2014,Fam. Salg,79,22376,3,1934,
 185,Villa,Amager Landevej 55,2770, Kastrup,2100000 ,26-01-2014,Alm. Salg,86,24419,3,1923,-4%
 185,Villa,Lyngborgvej 5,2770, Kastrup,4450000 ,25-01-2014,Alm. Salg,224,19866,10,1926,-3%
-185,Rækkehus,Langbakken 9,2770, Kastrup,1995000 ,23-01-2014,Alm. Salg,73,27329,3,1950,
-185,Villa,Gedstedvej 24,2770, Kastrup,1995000 ,23-01-2014,Alm. Salg,149,13389,5,2018,
 185,Villa,Gemmas Alle 3,2770, Kastrup,2350000 ,22-01-2014,Alm. Salg,147,15986,4,1924,-5%
 185,Villa,Gyldenvang Alle 22,2770, Kastrup,937224 ,22-01-2014,Andet,96,9763,4,1934,
 185,Ejerlejlighed,"Knarreborgvej 1A, 2. th",2770, Kastrup,2750000 ,21-01-2014,Alm. Salg,105,26190,4,2006,
@@ -6039,8 +5985,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 185,Villa,Tirstrupvej 5,2770, Kastrup,1131300 ,19-06-2012,Fam. Salg,96,11784,2,1940,
 185,Villa,Elborg Alle 31,2791, Dragør,1445000 ,19-06-2012,Fam. Salg,93,15538,3,1964,
 185,Villa,Bygrænsen 53,2770, Kastrup,2550000 ,19-06-2012,Alm. Salg,138,18478,6,1963,-5%
-185,Rækkehus,Stendal 2,2770, Kastrup,2500000 ,18-06-2012,Alm. Salg,105,23810,4,1944,-2%
-185,Villa,Kongelundsvej 323,2770, Kastrup,2500000 ,18-06-2012,Alm. Salg,156,16026,5,1955,-8%
 185,Ejerlejlighed,"Helmer Søgårds Alle 29, 1. th",2770, Kastrup,1350000 ,17-06-2012,Alm. Salg,72,18750,3,1952,-4%
 185,Villa,Grindsted Alle 8,2770, Kastrup,2700000 ,17-06-2012,Alm. Salg,179,15084,6,1965,-4%
 185,Villa,Rich. Granholms Alle 8,2770, Kastrup,2000000 ,16-06-2012,Alm. Salg,129,15504,4,1946,-20%
@@ -6057,9 +6001,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 185,Ejerlejlighed,"Kastruplundgade 72, 2. th",2770, Kastrup,1349000 ,06-06-2012,Alm. Salg,68,19838,2,1952,-4%
 185,Ejerlejlighed,"Amager Landevej 53A, st. tv",2770, Kastrup,990000 ,06-06-2012,Alm. Salg,58,17069,2,1938,-9%
 185,Villa,Karupvej 17,2770, Kastrup,3200000 ,06-06-2012,Alm. Salg,187,17112,6,1962,
-185,Rækkehus,Alleen 139,2770, Kastrup,2700000 ,05-06-2012,Alm. Salg,104,25962,4,1959,-3%
 185,Ejerlejlighed,"Søvang Alle 15, st. th",2770, Kastrup,650000 ,05-06-2012,Alm. Salg,62,10484,2,1918,-6%
-185,Villa,Risbyvej 4,2770, Kastrup,2700000 ,05-06-2012,Alm. Salg,174,15517,5,1934,4%
 185,Villa,Avlum Alle 37,2770, Kastrup,1600000 ,03-06-2012,Alm. Salg,147,10884,6,1965,-11%
 185,Villa,Avnbøl Alle 13,2770, Kastrup,2300000 ,03-06-2012,Auktion,142,16197,4,1962,
 185,Ejerlejlighed,"Helmer Søgårds Alle 17, 2. tv",2770, Kastrup,880000 ,02-06-2012,Alm. Salg,52,16923,2,1952,-2%
@@ -6314,8 +6256,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 185,Rækkehus,Fortgård Alle 26,2770, Kastrup,1800000 ,16-10-2011,Alm. Salg,156,11538,4,1934,-10%
 185,Villa,Hilversumvej 9,2791, Dragør,3135000 ,16-10-2011,Alm. Salg,136,23051,5,1978,-2%
 185,Villa,Vegas Alle 10,2770, Kastrup,1600000 ,16-10-2011,Auktion,185,8649,7,2012,
-185,Ejerlejlighed,Saltværksvej 132,2770, Kastrup,2540000 ,15-10-2011,Alm. Salg,43,59070,1,1905,-5%
-185,Ejerlejlighed,Pyrus Alle 1,2770, Kastrup,2540000 ,15-10-2011,Alm. Salg,122,20820,4,1905,-5%
 185,Ejerlejlighed,"Amager Landevej 90, st. tv",2770, Kastrup,434000 ,12-10-2011,Alm. Salg,69,6290,3,1946,
 185,Ejerlejlighed,"Guldblommevej 20, st. th",2770, Kastrup,1130000 ,11-10-2011,Alm. Salg,74,15270,4,1939,-13%
 185,Villa,Herkules Alle 10,2770, Kastrup,1800000 ,11-10-2011,Alm. Salg,154,11688,7,1935,
@@ -6470,25 +6410,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 185,Villa,Merkur Alle 5,2770, Kastrup,1158500 ,23-05-2011,Alm. Salg,92,12592,3,1937,
 185,Rækkehus,Vestermarie Alle 12,2770, Kastrup,2100000 ,22-05-2011,Fam. Salg,110,19091,5,1949,
 185,Villa,Barritvej 8,2770, Kastrup,3180000 ,18-05-2011,Alm. Salg,144,22083,5,1978,-3%
-185,Ejerlejlighed,"Kastruplundgade 1, 2. tv",2770, Kastrup,4776250 ,17-05-2011,Alm. Salg,48,99505,2,1924,
-185,Ejerlejlighed,"Kastruplundgade 1, 1. th",2770, Kastrup,4776250 ,17-05-2011,Alm. Salg,48,99505,2,1924,
-185,Ejerlejlighed,"Kastruplundgade 1, 1. tv",2770, Kastrup,4776250 ,17-05-2011,Alm. Salg,52,91851,2,1924,
-185,Ejerlejlighed,"Saltværksvej 41, 1. th",2770, Kastrup,4776250 ,17-05-2011,Alm. Salg,72,66337,2,1924,
-185,Ejerlejlighed,"Saltværksvej 41, 2. tv",2770, Kastrup,4776250 ,17-05-2011,Alm. Salg,62,77036,2,1924,
-185,Ejerlejlighed,"Saltværksvej 41, 1. tv",2770, Kastrup,4776250 ,17-05-2011,Alm. Salg,72,66337,2,1924,
 185,Ejerlejlighed,"Kongelundsvej 267, 1",2770, Kastrup,3148923 ,17-05-2011,Alm. Salg,83,37939,3,1973,
-185,Ejerlejlighed,Kastruplundgade 1A. 6,2770, Kastrup,4776250 ,17-05-2011,Alm. Salg,83,57545,2,1924,
-185,Ejerlejlighed,Kastruplundgade 1A. 2,2770, Kastrup,4776250 ,17-05-2011,Alm. Salg,38,125691,1,1924,
-185,Ejerlejlighed,Kastruplundgade 1A. 1,2770, Kastrup,4776250 ,17-05-2011,Alm. Salg,37,129088,1,1924,
-185,Ejerlejlighed,"Saltværksvej 41, 2. th",2770, Kastrup,4776250 ,17-05-2011,Alm. Salg,67,71287,2,1924,
-185,Ejerlejlighed,"Kastruplundgade 1, 2. th",2770, Kastrup,4776250 ,17-05-2011,Alm. Salg,45,106139,2,1924,
-185,Ejerlejlighed,Kastruplundgade 1A. 3,2770, Kastrup,4776250 ,17-05-2011,Alm. Salg,34,140478,1,1924,
-185,Ejerlejlighed,Kastruplundgade 1A. 5,2770, Kastrup,4776250 ,17-05-2011,Alm. Salg,68,70239,2,1924,
-185,Ejerlejlighed,Kastruplundgade 1A. 4,2770, Kastrup,4776250 ,17-05-2011,Alm. Salg,76,62845,2,1924,
 185,Villa,Ved Gærdet 4,2770, Kastrup,1325000 ,15-05-2011,Fam. Salg,149,8893,6,1954,
 185,Villa,Vorgodvej 14,2770, Kastrup,2950000 ,15-05-2011,Alm. Salg,178,16573,6,1968,-2%
 185,Villa,Langeskovvej 15,2770, Kastrup,1800000 ,15-05-2011,Alm. Salg,163,11043,4,2015,3%
-185,Villa,Corneliusmindevej 12B,2770, Kastrup,700000 ,15-05-2011,Alm. Salg,82,8537,3,1925,
 185,Ejerlejlighed,"Maglebo 13, st. tv",2770, Kastrup,2100000 ,14-05-2011,Alm. Salg,101,20792,5,1952,-1%
 185,Villa,Hesselvigvej 4,2770, Kastrup,2775000 ,14-05-2011,Alm. Salg,151,18377,6,1957,-1%
 185,Rækkehus,Torpebakken 3,2770, Kastrup,2475000 ,10-05-2011,Alm. Salg,111,22297,4,1950,-3%
@@ -7048,9 +6973,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 185,Villa,Feldborgvej 24,2770, Kastrup,2900000 ,16-03-2010,Auktion,176,16477,4,1975,
 185,Villa,Rimsøvej 7,2770, Kastrup,1450000 ,16-03-2010,Auktion,155,9355,5,1960,
 185,Rækkehus,Bygrænsen 33,2770, Kastrup,1240000 ,15-03-2010,Auktion,113,10973,3,1964,-50%
-185,Rækkehus,Syvstjerne Alle 23,2770, Kastrup,1650000 ,15-03-2010,Alm. Salg,83,19880,3,1946,-6%
 185,Ejerlejlighed,"Søvang Alle 9, 2. th",2770, Kastrup,545000 ,15-03-2010,Alm. Salg,55,9909,2,1918,-16%
-185,Ejerlejlighed,"Knarreborgvej 5A, 3. tv",2770, Kastrup,1650000 ,15-03-2010,Auktion,77,21429,3,2006,
 185,Villa,Orions Alle 9,2770, Kastrup,1450000 ,15-03-2010,Alm. Salg,96,15104,3,1951,12%
 185,Villa,Villestoftevej 10,2770, Kastrup,2435000 ,15-03-2010,Alm. Salg,146,16678,4,1927,6%
 185,Villa,Starup Alle 20,2770, Kastrup,1800000 ,15-03-2010,Auktion,160,11250,5,1960,
@@ -7102,8 +7025,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 185,Ejerlejlighed,"Helmer Søgårds Alle 27, 2. tv",2770, Kastrup,1250000 ,31-01-2010,Alm. Salg,66,18939,3,1952,
 185,Ejerlejlighed,"Søvang Alle 11, 1. th",2770, Kastrup,431070 ,30-01-2010,Andet,58,7432,2,1918,
 185,Villa,Uldumvej 35,2770, Kastrup,2400000 ,28-01-2010,Alm. Salg,160,15000,4,1935,-4%
-185,Ejerlejlighed,"Knarreborgvej 1B, st. th",2770, Kastrup,2300000 ,27-01-2010,Alm. Salg,102,22549,3,2006,
-185,Villa,Langeskovvej 16,2770, Kastrup,2300000 ,27-01-2010,Alm. Salg,110,20909,3,1989,-4%
 185,Rækkehus,Jacob Appels Alle 37,2770, Kastrup,2100000 ,26-01-2010,Alm. Salg,131,16031,6,1950,-11%
 185,Rækkehus,Jacob Appels Alle 86,2770, Kastrup,2340000 ,26-01-2010,Alm. Salg,122,19180,5,1954,
 185,Ejerlejlighed,"Saltværksvej 211, 2. th",2770, Kastrup,700000 ,26-01-2010,Alm. Salg,60,11667,2,1938,
@@ -7359,9 +7280,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 185,Villa,Helmond Alle 11,2791, Dragør,1695000 ,20-06-2009,Alm. Salg,83,20422,3,1974,
 185,Ejerlejlighed,"Soldugvej 18, 2. tv",2770, Kastrup,820000 ,18-06-2009,Alm. Salg,57,14386,2,1939,-8%
 185,Villa,Diesen Alle 6,2791, Dragør,1500000 ,18-06-2009,Alm. Salg,143,10490,4,1973,-25%
-185,Rækkehus,Spentrup Alle 34,2770, Kastrup,1850000 ,17-06-2009,Alm. Salg,105,17619,4,1956,
 185,Villa,Hilversumvej 21,2791, Dragør,2100000 ,17-06-2009,Alm. Salg,122,17213,4,1971,-4%
-185,Villa,Pretoria Alle 3,2770, Kastrup,1850000 ,17-06-2009,Alm. Salg,121,15289,5,1972,-12%
 185,Villa,Limburg Alle 21,2791, Dragør,1500000 ,17-06-2009,Alm. Salg,105,14286,4,1971,
 185,Rækkehus,Jacob Appels Alle 60,2770, Kastrup,2140000 ,16-06-2009,Alm. Salg,102,20980,5,1951,-9%
 185,Villa,Cypres Alle 39,2770, Kastrup,3325000 ,16-06-2009,Alm. Salg,196,16964,5,2023,
@@ -7436,7 +7355,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 185,Villa,Suezvej 9,2770, Kastrup,950000 ,17-04-2009,Fam. Salg,118,8051,4,1972,
 185,Ejerlejlighed,"Konvalvej 9, st. tv",2770, Kastrup,905000 ,16-04-2009,Alm. Salg,65,13923,2,1966,-9%
 185,Villa,Hjallerup Alle 32,2770, Kastrup,1870000 ,16-04-2009,Fam. Salg,118,15847,5,1954,
-185,Villa,Løjtegårdsvej 6A,2770, Kastrup,2000000 ,16-04-2009,Auktion,53,37736,3,1947,
 185,Ejerlejlighed,"Kastrupkrogen 11, 1. th",2770, Kastrup,825000 ,15-04-2009,Alm. Salg,54,15278,2,1939,
 185,Villa,Zinniavej 9,2770, Kastrup,2400000 ,13-04-2009,Alm. Salg,144,16667,5,1929,-4%
 185,Villa,Hvidstenvej 19,2770, Kastrup,1025000 ,13-04-2009,Alm. Salg,130,7885,5,2009,-14%
@@ -7652,8 +7570,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 185,Villa,Martoftevej 14,2770, Kastrup,2745000 ,19-08-2008,Alm. Salg,122,22500,5,1981,-4%
 185,Villa,Brenderupvej 29,2770, Kastrup,3295000 ,18-08-2008,Alm. Salg,160,20594,6,1940,-3%
 185,Villa,Ved Gærdet 15,2770, Kastrup,2400000 ,15-08-2008,Alm. Salg,91,26374,3,1932,-4%
-185,Ejerlejlighed,"Tømmerupvej 246, st. th",2791, Dragør,236325 ,14-08-2008,Alm. Salg,140,1688,3,1904,
-185,Villa,"Tømmerupvej 246, st. tv",2791, Dragør,236325 ,14-08-2008,Alm. Salg,174,1358,8,1904,
 185,Villa,Brenderupvej 14,2770, Kastrup,2600000 ,14-08-2008,Alm. Salg,98,26531,3,1956,-10%
 185,Ejerlejlighed,"Helmer Søgårds Alle 2, st. tv",2770, Kastrup,1535000 ,12-08-2008,Alm. Salg,78,19679,4,1950,-4%
 185,Villa,Soldugvej 12,2770, Kastrup,2400000 ,12-08-2008,Alm. Salg,145,16552,5,1939,-4%
@@ -8358,7 +8274,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 185,Ejerlejlighed,"Englandsvej 272, 2. th",2770, Kastrup,2775000 ,15-03-2007,Alm. Salg,83,33434,3,2006,
 185,Villa,Crilles Tønnesens Alle 14,2770, Kastrup,3000000 ,15-03-2007,Alm. Salg,169,17751,6,1963,
 185,Rækkehus,Vosborgvej 67,2770, Kastrup,2830000 ,14-03-2007,Alm. Salg,106,26698,4,1953,
-185,Villa,Løjtegårdsvej 6A,2770, Kastrup,1900000 ,14-03-2007,Alm. Salg,53,35849,3,1947,
 185,Villa,Smålyngen 7,2770, Kastrup,3750000 ,14-03-2007,Alm. Salg,106,35377,5,1952,-1%
 185,Villa,Latyrus Alle 22,2770, Kastrup,4100000 ,13-03-2007,Alm. Salg,147,27891,6,1902,
 185,Ejerlejlighed,"Kastruplundgade 64, st. tv",2770, Kastrup,1500000 ,12-03-2007,Alm. Salg,64,23438,3,1952,-21%
@@ -8372,7 +8287,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 185,Villa,Nubiensvej 38,2770, Kastrup,4350000 ,08-03-2007,Alm. Salg,184,23641,7,1980,
 185,Rækkehus,Misteltenvej 11,2770, Kastrup,2700000 ,06-03-2007,Alm. Salg,107,25234,3,1934,
 185,Villa,Dakar Alle 8,2770, Kastrup,2545000 ,05-03-2007,Alm. Salg,173,14711,5,1989,
-185,Villa,Løjtegårdsvej 6A,2770, Kastrup,4250000 ,04-03-2007,Alm. Salg,53,80189,3,1947,
 185,Villa,Skolevænget 15,2770, Kastrup,1050000 ,03-03-2007,Alm. Salg,201,5224,7,2009,
 185,Ejerlejlighed,"Amager Landevej 82A, st. tv",2770, Kastrup,2145000 ,01-03-2007,Alm. Salg,89,24101,4,1948,-7%
 185,Villa,Brønderslev Alle 47B,2770, Kastrup,1295771 ,01-03-2007,Fam. Salg,101,12829,5,1963,
@@ -8406,9 +8320,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 185,Villa,Crilles Tønnesens Alle 1A,2770, Kastrup,1500000 ,08-02-2007,Fam. Salg,125,12000,5,1917,
 185,Villa,Diesen Alle 42,2791, Dragør,1275000 ,07-02-2007,Fam. Salg,183,6967,7,2023,
 185,Villa,Suezvej 19,2770, Kastrup,3965000 ,06-02-2007,Alm. Salg,178,22275,7,1976,
-185,Ejerlejlighed,"Knarreborgvej 5C, 1. th",2770, Kastrup,2775000 ,04-02-2007,Alm. Salg,93,29839,3,2006,
 185,Villa,Tømmerupvej 90,2770, Kastrup,1283557 ,04-02-2007,Andet,322,3986,6,1846,
-185,Villa,Amager Landevej 134,2770, Kastrup,2775000 ,04-02-2007,Alm. Salg,150,18500,4,1940,-4%
 185,Rækkehus,Uldumvej 23,2770, Kastrup,2950000 ,03-02-2007,Alm. Salg,123,23984,6,1950,
 185,Ejerlejlighed,"Kongelundsvej 305, 1",2770, Kastrup,2175000 ,03-02-2007,Alm. Salg,102,21324,5,1959,
 185,Villa,Amager Landevej 222,2770, Kastrup,3950000 ,02-02-2007,Alm. Salg,202,19554,5,1954,
@@ -8579,7 +8491,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 185,Ejerlejlighed,"Saltværksvej 213, 1. tv",2770, Kastrup,1735000 ,28-08-2006,Alm. Salg,60,28917,2,1938,
 185,Villa,Utrecht Alle 16,2791, Dragør,2325000 ,28-08-2006,Alm. Salg,152,15296,5,2007,
 185,Rækkehus,Løjtegårdshaven 10,2770, Kastrup,3800000 ,27-08-2006,Alm. Salg,126,30159,4,2000,
-185,Villa,Egtvedvej 31,2770, Kastrup,2850000 ,27-08-2006,Alm. Salg,106,26887,4,1975,
 185,Villa,Ryslinge Alle 9,2770, Kastrup,2490000 ,27-08-2006,Alm. Salg,191,13037,7,1928,
 185,Villa,Tårnbystræde 19,2770, Kastrup,5450000 ,27-08-2006,Alm. Salg,180,30278,8,1971,
 185,Ejerlejlighed,"Konvalvej 13, 1. th",2770, Kastrup,2200000 ,26-08-2006,Alm. Salg,75,29333,3,1966,
@@ -8673,11 +8584,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 185,Villa,Rynkebyvej 20,2770, Kastrup,3101000 ,27-06-2006,Alm. Salg,150,20673,5,1974,
 185,Villa,Mosbøl Alle 4,2770, Kastrup,2650000 ,27-06-2006,Alm. Salg,95,27895,3,1960,
 185,Villa,Amager Landevej 144,2770, Kastrup,2900000 ,25-06-2006,Alm. Salg,163,17791,5,1923,
-185,Ejerlejlighed,"Knarreborgvej 5C, st. th",2770, Kastrup,2550000 ,21-06-2006,Alm. Salg,86,29651,3,2006,
 185,Ejerlejlighed,"Knarreborgvej 7A, 1. tv",2770, Kastrup,2060000 ,21-06-2006,Alm. Salg,79,26076,3,2006,
 185,Ejerlejlighed,"Knarreborgvej 5B, st. tv",2770, Kastrup,2290000 ,21-06-2006,Alm. Salg,80,28625,3,2006,
 185,Ejerlejlighed,"Knarreborgvej 7B, 3. tv",2770, Kastrup,1995000 ,21-06-2006,Alm. Salg,73,27329,3,2006,
-185,Villa,Majbøl Alle 15,2770, Kastrup,2550000 ,21-06-2006,Alm. Salg,168,15179,5,2016,
 185,Villa,Munkebjergvej 47,2770, Kastrup,2845000 ,21-06-2006,Alm. Salg,116,24526,4,1960,
 185,Villa,Englandsvej 366,2770, Kastrup,2650000 ,21-06-2006,Alm. Salg,109,24312,5,1950,
 185,Rækkehus,Gadbjergvej 34,2770, Kastrup,2326000 ,19-06-2006,Alm. Salg,163,14270,6,2008,
@@ -8752,11 +8661,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 185,Rækkehus,Langbakken 1,2770, Kastrup,2870000 ,21-05-2006,Alm. Salg,115,24957,4,1950,
 185,Villa,Capellas Alle 40,2770, Kastrup,2000000 ,21-05-2006,Alm. Salg,86,23256,4,1935,
 185,Ejerlejlighed,"Soldugvej 18, 2. mf",2770, Kastrup,2150000 ,18-05-2006,Alm. Salg,67,32090,3,1939,
-185,Ejerlejlighed,"Englandsvej 270, st. th",2770, Kastrup,2310000 ,18-05-2006,Alm. Salg,90,25667,3,2006,
 185,Ejerlejlighed,"Knarreborgvej 5C, 3. th",2770, Kastrup,2595000 ,18-05-2006,Alm. Salg,89,29157,3,2006,
 185,Ejerlejlighed,"Knarreborgvej 3A, 1. tv",2770, Kastrup,2015000 ,18-05-2006,Alm. Salg,80,25188,3,2006,
 185,Ejerlejlighed,"Knarreborgvej 9A, 3. tv",2770, Kastrup,2180000 ,18-05-2006,Alm. Salg,77,28312,3,2006,
-185,Ejerlejlighed,"Knarreborgvej 5C, 1. tv",2770, Kastrup,2310000 ,18-05-2006,Alm. Salg,83,27831,3,2006,
 185,Ejerlejlighed,"Knarreborgvej 5B, 1. tv",2770, Kastrup,2175000 ,18-05-2006,Alm. Salg,80,27188,3,2006,
 185,Ejerlejlighed,"Knarreborgvej 7B, 1. th",2770, Kastrup,1815000 ,18-05-2006,Alm. Salg,70,25929,2,2006,
 185,Ejerlejlighed,"Knarreborgvej 7A, 2. tv",2770, Kastrup,2130000 ,18-05-2006,Alm. Salg,79,26962,3,2006,
@@ -8896,10 +8803,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 185,Villa,Præstefælledvej 45,2770, Kastrup,3700000 ,26-03-2006,Fam. Salg,180,20556,7,0,
 185,Ejerlejlighed,"Helmer Søgårds Alle 23, 2. tv",2770, Kastrup,1999000 ,25-03-2006,Alm. Salg,66,30288,3,1952,
 185,Villa,Nubiensvej 36,2770, Kastrup,4200000 ,24-03-2006,Alm. Salg,178,23596,7,1979,
-185,Rækkehus,Løjtegårdsvej 30A,2770, Kastrup,2495000 ,23-03-2006,Alm. Salg,90,27722,4,1954,
 185,Ejerlejlighed,"Østerlarsvej 3, 1. th",2770, Kastrup,1695000 ,23-03-2006,Alm. Salg,57,29737,2,1946,
 185,Villa,Astridsvej 3,2770, Kastrup,1125000 ,23-03-2006,Fam. Salg,95,11842,4,1934,
-185,Villa,Poppelvang 21,2770, Kastrup,2495000 ,23-03-2006,Alm. Salg,124,20121,5,1925,
 185,Ejerlejlighed,"Søvang Alle 11, 2. tv",2770, Kastrup,1625000 ,22-03-2006,Alm. Salg,55,29545,2,1918,
 185,Villa,Karupvej 15,2770, Kastrup,2111000 ,22-03-2006,Alm. Salg,155,13619,6,2011,
 185,Ejerlejlighed,"Kastruplundgade 60, st. tv",2770, Kastrup,1650000 ,21-03-2006,Alm. Salg,67,24627,3,1950,
@@ -9273,7 +9178,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 185,Villa,Sudanvej 10,2770, Kastrup,3850000 ,21-08-2005,Alm. Salg,262,14695,7,1975,
 185,Villa,Tømmerupvang 1,2770, Kastrup,2750000 ,21-08-2005,Alm. Salg,140,19643,5,1978,
 185,Villa,Zaandam Alle 29,2791, Dragør,2155000 ,18-08-2005,Alm. Salg,89,24213,3,1965,
-185,Villa,Løjtegårdsvej 6A,2770, Kastrup,1300000 ,18-08-2005,Alm. Salg,53,24528,3,1947,
 185,Rækkehus,Listedvej 5K,2770, Kastrup,775000 ,15-08-2005,Alm. Salg,26,29808,1,1970,
 185,Ejerlejlighed,"Teglkåsvej 1, 1. tv",2770, Kastrup,1910000 ,15-08-2005,Alm. Salg,89,21461,4,1949,
 185,Ejerlejlighed,"Kofoed Jensens Alle 5, st. th",2770, Kastrup,1500000 ,15-08-2005,Alm. Salg,70,21429,3,1952,
@@ -9400,7 +9304,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 185,Villa,Johannesburg Alle 34,2770, Kastrup,2230000 ,18-06-2005,Alm. Salg,103,21650,4,1969,
 185,Villa,Neptun Alle 19,2770, Kastrup,1017732 ,17-06-2005,Fam. Salg,125,8142,6,1944,
 185,Rækkehus,Uranus Alle 2,2770, Kastrup,2450000 ,16-06-2005,Alm. Salg,98,25000,5,1946,
-185,Villa,Løjtegårdsvej 6A,2770, Kastrup,1000000 ,16-06-2005,Alm. Salg,53,18868,3,1947,
 185,Rækkehus,Jacob Appels Alle 56,2770, Kastrup,2620000 ,15-06-2005,Alm. Salg,102,25686,5,1951,
 185,Rækkehus,Majdal 20,2770, Kastrup,2125000 ,14-06-2005,Alm. Salg,86,24709,3,1944,
 185,Ejerlejlighed,"Amager Landevej 82B, 1. th",2770, Kastrup,1395000 ,14-06-2005,Alm. Salg,78,17885,3,1948,
@@ -9503,8 +9406,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 185,Rækkehus,Ved Stationen 23,2770, Kastrup,1995000 ,28-04-2005,Alm. Salg,108,18472,3,1990,
 185,Rækkehus,Vestermarie Alle 15,2770, Kastrup,2655555 ,28-04-2005,Alm. Salg,110,24141,5,1949,
 185,Rækkehus,Bryrupvej 73,2770, Kastrup,1775000 ,28-04-2005,Alm. Salg,128,13867,5,1976,
-185,Ejerlejlighed,Saltværksvej 132,2770, Kastrup,382884 ,28-04-2005,Alm. Salg,43,8904,1,1905,
-185,Ejerlejlighed,Pyrus Alle 1,2770, Kastrup,382884 ,28-04-2005,Alm. Salg,122,3138,4,1905,
 185,Villa,Munkebjergvej 26,2770, Kastrup,896118 ,28-04-2005,Fam. Salg,150,5974,6,1961,
 185,Rækkehus,Jacob Appels Alle 63,2770, Kastrup,2375000 ,27-04-2005,Alm. Salg,109,21789,5,1951,
 185,Rækkehus,Stenlængen 7,2770, Kastrup,1200000 ,27-04-2005,Fam. Salg,89,13483,4,1966,
@@ -9552,7 +9453,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 185,Villa,Kragebøl Alle 16,2770, Kastrup,2265000 ,06-04-2005,Alm. Salg,150,15100,5,1962,
 185,Villa,Hindholm Alle 14,2770, Kastrup,2654000 ,05-04-2005,Alm. Salg,182,14582,6,1931,
 185,Villa,Emmerich Alle 26,2791, Dragør,998649 ,05-04-2005,Andet,103,9696,3,1960,
-185,Villa,Løjtegårdsvej 6A,2770, Kastrup,2400000 ,05-04-2005,Alm. Salg,53,45283,3,1947,
 185,Villa,Tømmerupvej 16,2770, Kastrup,2300000 ,05-04-2005,Alm. Salg,200,11500,4,1976,
 185,Villa,Banevænget 9,2770, Kastrup,2725000 ,05-04-2005,Alm. Salg,116,23491,5,1942,
 185,Rækkehus,Spentrup Alle 32,2770, Kastrup,1925000 ,04-04-2005,Alm. Salg,100,19250,4,1956,
@@ -9596,9 +9496,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 185,Villa,Gudmevej 8,2770, Kastrup,1725000 ,17-03-2005,Alm. Salg,153,11275,4,2006,
 185,Villa,Hyben Alle 38,2770, Kastrup,2365000 ,17-03-2005,Alm. Salg,162,14599,5,1932,
 185,Villa,Saltværksvej 187,2770, Kastrup,2300000 ,16-03-2005,Alm. Salg,143,16084,4,1928,
-185,Ejerlejlighed,Saltværksvej 132,2770, Kastrup,382884 ,15-03-2005,Andet,43,8904,1,1905,
 185,Ejerlejlighed,"Helmer Søgårds Alle 27, 1. th",2770, Kastrup,1050000 ,15-03-2005,Alm. Salg,55,19091,2,1952,
-185,Ejerlejlighed,Pyrus Alle 1,2770, Kastrup,382884 ,15-03-2005,Andet,122,3138,4,1905,
 185,Ejerlejlighed,"Amager Landevej 88, st. tv",2770, Kastrup,1075000 ,14-03-2005,Alm. Salg,55,19545,2,1946,
 185,Villa,Bolbrovej 9,2770, Kastrup,2140000 ,14-03-2005,Alm. Salg,150,14267,4,1956,
 185,Villa,Ægyptensvej 23,2770, Kastrup,2215000 ,14-03-2005,Alm. Salg,191,11597,5,1981,
@@ -10120,8 +10018,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 185,Villa,Capellas Alle 16,2770, Kastrup,1574752 ,02-05-2004,Auktion,200,7874,6,2018,
 185,Villa,Doorn Alle 39,2791, Dragør,1680000 ,02-05-2004,Alm. Salg,89,18876,3,1970,
 185,Villa,Cypres Alle 21,2770, Kastrup,2050000 ,01-05-2004,Alm. Salg,192,10677,7,1934,
-185,Ejerlejlighed,Capellas Alle 2,2770, Kastrup,1550000 ,30-04-2004,Alm. Salg,100,15500,3,1850,
-185,Ejerlejlighed,Amager Landevej 168,2770, Kastrup,1550000 ,30-04-2004,Alm. Salg,119,13025,2,1850,
 185,Villa,Hindholm Alle 16,2770, Kastrup,1335000 ,30-04-2004,Alm. Salg,166,8042,7,1936,
 185,Villa,Arnager Alle 12,2770, Kastrup,2170000 ,29-04-2004,Alm. Salg,138,15725,5,1935,
 185,Rækkehus,Skyttehøj 33,2770, Kastrup,606242 ,28-04-2004,Andet,119,5094,5,1953,
@@ -10440,8 +10336,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 185,Villa,Volmer Kjærs Alle 3,2770, Kastrup,2250000 ,18-10-2003,Alm. Salg,148,15203,6,1900,
 185,Villa,Brenderupvej 13,2770, Kastrup,1320000 ,18-10-2003,Alm. Salg,76,17368,2,1939,
 185,Ejerlejlighed,"Højgården 4, 1. 214",2770, Kastrup,735000 ,16-10-2003,Alm. Salg,53,13868,1,1975,
-185,Ejerlejlighed,Saltværksvej 132,2770, Kastrup,1875000 ,15-10-2003,Alm. Salg,43,43605,1,1905,
-185,Ejerlejlighed,Pyrus Alle 1,2770, Kastrup,1875000 ,15-10-2003,Alm. Salg,122,15369,4,1905,
 185,Ejerlejlighed,"Helmer Søgårds Alle 11, 1. th",2770, Kastrup,1280000 ,15-10-2003,Alm. Salg,67,19104,3,1950,
 185,Villa,Hindholm Alle 26,2770, Kastrup,1850000 ,15-10-2003,Alm. Salg,69,26812,3,1950,
 185,Villa,Ingstrup Alle 27B,2770, Kastrup,880000 ,14-10-2003,Alm. Salg,117,7521,4,2004,
@@ -10511,7 +10405,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 185,Villa,Højskole Alle 4,2770, Kastrup,1695000 ,07-09-2003,Alm. Salg,179,9469,5,1928,
 185,Villa,Ryumgårdvej 56,2770, Kastrup,1425000 ,05-09-2003,Alm. Salg,102,13971,4,1963,
 185,Rækkehus,Jacob Appels Alle 48,2770, Kastrup,1610000 ,04-09-2003,Alm. Salg,102,15784,4,1951,
-185,Ejerlejlighed,"Ved Lergravene 15B, st. tv",2770, Kastrup,1930428 ,04-09-2003,Alm. Salg,23,83932,1,1900,
 185,Rækkehus,Bryrupvej 37,2770, Kastrup,1635000 ,03-09-2003,Alm. Salg,128,12773,5,1976,
 185,Rækkehus,Ryslinge Alle 36,2770, Kastrup,1675000 ,03-09-2003,Alm. Salg,98,17092,4,1954,
 185,Villa,Limburg Alle 28,2791, Dragør,1023980 ,03-09-2003,Alm. Salg,156,6564,5,1973,
@@ -10683,8 +10576,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 185,Rækkehus,Dronningborgvej 49,2770, Kastrup,1350000 ,02-06-2003,Alm. Salg,96,14063,4,1952,
 185,Ejerlejlighed,"Amager Landevej 53B, 1. tv",2770, Kastrup,1050000 ,02-06-2003,Alm. Salg,57,18421,2,1938,
 185,Villa,Gambiavej 25,2770, Kastrup,1584000 ,02-06-2003,Alm. Salg,141,11234,5,1957,
-185,Ejerlejlighed,Saltværksvej 132,2770, Kastrup,532602 ,01-06-2003,Alm. Salg,43,12386,1,1905,
-185,Ejerlejlighed,Pyrus Alle 1,2770, Kastrup,532602 ,01-06-2003,Alm. Salg,122,4366,4,1905,
 185,Villa,Tranehusvej 9,2770, Kastrup,1695000 ,29-05-2003,Alm. Salg,105,16143,5,1982,
 185,Villa,Kongelundsvej 327,2770, Kastrup,1895000 ,27-05-2003,Alm. Salg,129,14690,5,1981,
 185,Villa,Saltværksvej 201,2770, Kastrup,2000000 ,27-05-2003,Alm. Salg,183,10929,7,1934,
@@ -10991,7 +10882,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 185,Ejerlejlighed,"Teglkåsvej 4, 1. th",2770, Kastrup,925000 ,02-11-2002,Alm. Salg,54,17130,2,1946,
 185,Villa,Grindsted Alle 46,2770, Kastrup,1400000 ,02-11-2002,Alm. Salg,89,15730,4,1955,
 185,Ejerlejlighed,"Højgården 2, st. 117",2770, Kastrup,1295000 ,31-10-2002,Alm. Salg,75,17267,2,1975,
-185,Villa,Løjtegårdsvej 6A,2770, Kastrup,1250000 ,28-10-2002,Alm. Salg,53,23585,3,1947,
 185,Rækkehus,Løjtegårdsvej 30H,2770, Kastrup,1625000 ,27-10-2002,Alm. Salg,90,18056,4,1954,
 185,Ejerlejlighed,"John Tranums Alle 17, 2. th",2770, Kastrup,1250000 ,27-10-2002,Alm. Salg,71,17606,3,1953,
 185,Ejerlejlighed,"Helmer Søgårds Alle 23, 2. th",2770, Kastrup,875000 ,24-10-2002,Alm. Salg,51,17157,2,1952,
@@ -11075,8 +10965,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 185,Villa,Skalbjergvej 7,2770, Kastrup,1595000 ,01-09-2002,Alm. Salg,118,13517,4,1931,
 185,Villa,Præstefælledvej 130,2770, Kastrup,1465000 ,31-08-2002,Alm. Salg,115,12739,4,1953,
 185,Villa,Jerslev Alle 27B,2770, Kastrup,1700000 ,31-08-2002,Alm. Salg,171,9942,6,1960,
-185,Ejerlejlighed,"Helmer Søgårds Alle 3, 2. tv",2770, Kastrup,385885 ,30-08-2002,Andet,62,6224,3,1950,
-185,Villa,Brattingsborgvej 35,2770, Kastrup,385885 ,30-08-2002,Andet,138,2796,3,1958,
 185,Ejerlejlighed,"Amager Landevej 3B, 2. th",2770, Kastrup,1162000 ,29-08-2002,Alm. Salg,76,15289,3,1931,
 185,Ejerlejlighed,"Ved Diget 9, 1. th",2770, Kastrup,1119000 ,29-08-2002,Alm. Salg,65,17215,3,1950,
 185,Villa,Aladdinvej 21,2770, Kastrup,1650000 ,29-08-2002,Alm. Salg,116,14224,4,1971,
@@ -11088,8 +10976,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 185,Villa,Tirstrupvej 3,2770, Kastrup,1715590 ,26-08-2002,Alm. Salg,147,11671,6,1958,
 185,Villa,Egtvedvej 30,2770, Kastrup,1690000 ,26-08-2002,Alm. Salg,106,15943,4,1969,
 185,Villa,Brattingsborgvej 8,2770, Kastrup,1435000 ,25-08-2002,Alm. Salg,81,17716,3,1947,
-185,Ejerlejlighed,Capellas Alle 2,2770, Kastrup,1285000 ,24-08-2002,Alm. Salg,100,12850,3,1850,
-185,Ejerlejlighed,Amager Landevej 168,2770, Kastrup,1285000 ,24-08-2002,Alm. Salg,119,10798,2,1850,
 185,Villa,Knarreborgvej 8,2770, Kastrup,1550000 ,23-08-2002,Alm. Salg,95,16316,4,1965,
 185,Villa,Kongelundsvej 266,2770, Kastrup,1120074 ,22-08-2002,Alm. Salg,89,12585,3,1956,
 185,Ejerlejlighed,"Helmer Søgårds Alle 21, 1. th",2770, Kastrup,1025000 ,21-08-2002,Alm. Salg,72,14236,3,1952,
@@ -11248,8 +11134,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 185,Rækkehus,Skyttehøj 1,2770, Kastrup,1727275 ,22-05-2002,Alm. Salg,104,16608,5,1952,
 185,Villa,Ugandavej 167,2770, Kastrup,1375765 ,22-05-2002,Alm. Salg,199,6913,6,1964,
 185,Villa,Tømmerupvang 69,2770, Kastrup,2100000 ,22-05-2002,Alm. Salg,163,12883,5,1980,
-185,Rækkehus,Restrupvej 39,2770, Kastrup,1598000 ,21-05-2002,Alm. Salg,128,12484,5,1976,
-185,Villa,Killerupvej 11,2770, Kastrup,1598000 ,21-05-2002,Alm. Salg,134,11925,4,1965,
 185,Villa,Nyvang Alle 18,2770, Kastrup,1020000 ,21-05-2002,Alm. Salg,145,7034,5,1937,
 185,Villa,Stubkærvej 7,2770, Kastrup,1262944 ,21-05-2002,Alm. Salg,178,7095,5,2021,
 185,Ejerlejlighed,"Kastrupkrogen 11, 4. tv",2770, Kastrup,820000 ,20-05-2002,Alm. Salg,54,15185,2,1939,
@@ -11318,8 +11202,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 185,Rækkehus,Listedvej 5F,2770, Kastrup,391000 ,08-04-2002,Auktion,26,15038,1,1970,
 185,Villa,Helmond Alle 33,2791, Dragør,876000 ,08-04-2002,Auktion,135,6489,5,1959,
 185,Rækkehus,Ekkodal 5,2770, Kastrup,1546000 ,06-04-2002,Alm. Salg,86,17977,3,1944,
-185,Rækkehus,Hjallerup Alle 10A,2770, Kastrup,850000 ,04-04-2002,Alm. Salg,102,8333,4,1963,
-185,Ejerlejlighed,"Søvang Alle 5B, 1. th",2770, Kastrup,850000 ,04-04-2002,Alm. Salg,58,14655,2,1968,
 185,Ejerlejlighed,"Søvang Alle 15, 1. th",2770, Kastrup,850000 ,03-04-2002,Alm. Salg,62,13710,2,1918,
 185,Villa,Diesen Alle 42,2791, Dragør,1889743 ,03-04-2002,Alm. Salg,183,10326,7,2023,
 185,Villa,Møldrupvej 18,2770, Kastrup,1795000 ,02-04-2002,Alm. Salg,121,14835,4,1973,
@@ -11670,8 +11552,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 185,Ejerlejlighed,"John Tranums Alle 5, 1. th",2770, Kastrup,1025000 ,06-08-2001,Alm. Salg,70,14643,3,1950,
 185,Villa,Munkebjergvej 55,2770, Kastrup,1338000 ,06-08-2001,Alm. Salg,108,12389,4,1972,
 185,Rækkehus,Bygrænsen 35,2770, Kastrup,1530381 ,05-08-2001,Alm. Salg,110,13913,4,1964,
-185,Ejerlejlighed,"Søvang Alle 5B, 2. th",2770, Kastrup,860000 ,05-08-2001,Alm. Salg,58,14828,2,1968,
-185,Ejerlejlighed,"Kastruplundgade 68, 2. th",2770, Kastrup,860000 ,05-08-2001,Alm. Salg,59,14576,3,1952,
 185,Villa,Glamsbjergvej 12,2770, Kastrup,2038000 ,05-08-2001,Alm. Salg,156,13064,6,1965,
 185,Villa,Arkturus Alle 34,2770, Kastrup,1313040 ,04-08-2001,Alm. Salg,77,17052,3,1954,
 185,Rækkehus,Restrupvej 32,2770, Kastrup,1441217 ,03-08-2001,Alm. Salg,128,11260,5,1976,
@@ -11751,8 +11631,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 185,Villa,Gyldenvang Alle 4,2770, Kastrup,1940000 ,30-06-2001,Alm. Salg,116,16724,5,1959,
 185,Villa,Skalbjergvej 12,2770, Kastrup,854100 ,30-06-2001,Andet,109,7836,5,1955,
 185,Villa,Starup Alle 24,2770, Kastrup,1208925 ,28-06-2001,Alm. Salg,85,14223,3,1959,
-185,Ejerlejlighed,Saltværksvej 132,2770, Kastrup,1124500 ,27-06-2001,Alm. Salg,43,26151,1,1905,
-185,Ejerlejlighed,Pyrus Alle 1,2770, Kastrup,1124500 ,27-06-2001,Alm. Salg,122,9217,4,1905,
 185,Villa,Alkmaar Alle 82,2791, Dragør,1918651 ,27-06-2001,Alm. Salg,145,13232,4,1977,
 185,Villa,Oliefabriksvej 89,2770, Kastrup,1369999 ,27-06-2001,Alm. Salg,171,8012,5,1943,
 185,Villa,Præstemarksvej 14,2770, Kastrup,1535000 ,27-06-2001,Alm. Salg,113,13584,4,1937,
@@ -11929,7 +11807,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 185,Ejerlejlighed,"Teglkåsvej 3, st. tv",2770, Kastrup,950000 ,06-03-2001,Alm. Salg,76,12500,3,1949,
 185,Ejerlejlighed,"Helmer Søgårds Alle 11, 1. tv",2770, Kastrup,900000 ,06-03-2001,Alm. Salg,69,13043,3,1950,
 185,Ejerlejlighed,"Guldblommevej 17, st. th",2770, Kastrup,913310 ,06-03-2001,Alm. Salg,58,15747,2,1939,
-185,Villa,Løjtegårdsvej 6A,2770, Kastrup,1156000 ,06-03-2001,Alm. Salg,53,21811,3,1947,
 185,Rækkehus,Jerslev Alle 25C,2770, Kastrup,1542896 ,04-03-2001,Alm. Salg,113,13654,4,1966,
 185,Villa,Grindsted Alle 56,2770, Kastrup,1418287 ,04-03-2001,Alm. Salg,112,12663,4,1984,
 185,Villa,Munkebjergvej 66,2770, Kastrup,1229000 ,02-03-2001,Alm. Salg,110,12802,4,1959,
@@ -12594,9 +12471,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 185,Villa,Bjørnbaksvej 21,2770, Kastrup,1013000 ,30-11-1999,Alm. Salg,141,4584,10,1958,
 185,Villa,Farsøvej 10,2770, Kastrup,1366000 ,29-11-1999,Alm. Salg,137,9971,6,1960,
 185,Villa,Hjallerup Alle 16,2770, Kastrup,1630000 ,29-11-1999,Alm. Salg,236,6907,4,1936,
-185,Villa,Løjtegårdsvej 6A,2770, Kastrup,1000000 ,29-11-1999,Alm. Salg,53,18868,3,1947,
-185,Ejerlejlighed,"Amager Landevej 12, 1",2770, Kastrup,1624396 ,28-11-1999,Alm. Salg,139,11686,4,1935,
-185,Ejerlejlighed,Ny Skelgårdsvej 2,2770, Kastrup,1624396 ,28-11-1999,Alm. Salg,154,10548,5,1935,
 185,Villa,Majbøl Alle 30,2770, Kastrup,950000 ,28-11-1999,Alm. Salg,132,7197,4,1970,
 185,Villa,Kollundvej 4,2770, Kastrup,1448000 ,28-11-1999,Alm. Salg,173,8370,5,1972,
 185,Villa,Sjørringvej 1,2770, Kastrup,1194000 ,28-11-1999,Alm. Salg,143,8350,5,1964,
@@ -12670,7 +12544,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 185,Ejerlejlighed,"Helmer Søgårds Alle 16, 1. tv",2770, Kastrup,951840 ,04-10-1999,Alm. Salg,67,14207,3,1953,
 185,Ejerlejlighed,"Kastrupkrogen 5, 3. th",2770, Kastrup,647207 ,04-10-1999,Alm. Salg,54,11985,2,1939,
 185,Villa,Foldbyvej 19,2770, Kastrup,1710880 ,03-10-1999,Alm. Salg,192,8911,5,1963,
-185,Villa,Løjtegårdsvej 6A,2770, Kastrup,950000 ,03-10-1999,Alm. Salg,53,17925,3,1947,
 185,Rækkehus,Finnegården 12,2770, Kastrup,425740 ,01-10-1999,Alm. Salg,33,12901,1,1970,
 185,Ejerlejlighed,"Amager Landevej 84, st. th",2770, Kastrup,890191 ,30-09-1999,Alm. Salg,70,12717,3,1946,
 185,Villa,Pilegård Alle 61,2770, Kastrup,796000 ,30-09-1999,Alm. Salg,148,5378,6,2004,
@@ -12715,8 +12588,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 185,Rækkehus,Tingbakken 9,2770, Kastrup,1348070 ,05-09-1999,Alm. Salg,113,11930,6,1950,
 185,Rækkehus,Hjallerup Alle 26A,2770, Kastrup,1219999 ,04-09-1999,Alm. Salg,132,9242,7,1961,
 185,Villa,Korningvej 1,2770, Kastrup,1596350 ,04-09-1999,Alm. Salg,167,9559,5,1971,
-185,Ejerlejlighed,Capellas Alle 2,2770, Kastrup,998000 ,02-09-1999,Alm. Salg,100,9980,3,1850,
-185,Ejerlejlighed,Amager Landevej 168,2770, Kastrup,998000 ,02-09-1999,Alm. Salg,119,8387,2,1850,
 185,Villa,Emmerich Alle 6,2791, Dragør,1164590 ,02-09-1999,Alm. Salg,96,12131,3,1973,
 185,Villa,Cypres Alle 15,2770, Kastrup,1074000 ,02-09-1999,Alm. Salg,146,7356,7,1941,
 185,Villa,Ambra Alle 41,2770, Kastrup,1826397 ,02-09-1999,Alm. Salg,115,15882,3,1936,
@@ -12817,8 +12688,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 185,Villa,Nybøl Alle 16B,2770, Kastrup,1545850 ,06-07-1999,Alm. Salg,161,9602,5,1964,
 185,Villa,Præstefælledvej 90B,2770, Kastrup,1325000 ,04-07-1999,Alm. Salg,105,12619,4,1951,
 185,Rækkehus,Vestbirk Alle 73,2770, Kastrup,1409897 ,01-07-1999,Alm. Salg,105,13428,4,1955,
-185,Ejerlejlighed,Saltværksvej 132,2770, Kastrup,888000 ,30-06-1999,Alm. Salg,43,20651,1,1905,
-185,Ejerlejlighed,Pyrus Alle 1,2770, Kastrup,888000 ,30-06-1999,Alm. Salg,122,7279,4,1905,
 185,Villa,Kongelundsvej 310,2770, Kastrup,855048 ,30-06-1999,Alm. Salg,96,8907,4,1955,
 185,Villa,Jerslev Alle 40A,2770, Kastrup,1534700 ,30-06-1999,Alm. Salg,196,7830,5,1934,
 185,Villa,Alkmaar Alle 8,2791, Dragør,1523041 ,29-06-1999,Alm. Salg,157,9701,5,1973,
@@ -12948,10 +12817,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 185,Villa,Hilversumvej 35,2791, Dragør,1428000 ,24-04-1999,Alm. Salg,151,9457,5,1978,
 185,Villa,Studsbøl Alle 2,2770, Kastrup,739500 ,23-04-1999,Fam. Salg,159,4651,5,2022,
 185,Villa,Helmond Alle 33,2791, Dragør,1005019 ,22-04-1999,Alm. Salg,135,7445,5,1959,
-185,Ejerlejlighed,"Maglebo 4, 1. tv",2770, Kastrup,650000 ,21-04-1999,Alm. Salg,77,8442,3,1952,
 185,Villa,Tårnbyhøj Alle 17,2770, Kastrup,1590710 ,21-04-1999,Alm. Salg,157,10132,5,1952,
 185,Villa,Stavlundvej 23,2770, Kastrup,568231 ,21-04-1999,Alm. Salg,209,2719,6,1963,
-185,Villa,Pårupvej 11,2770, Kastrup,650000 ,21-04-1999,Alm. Salg,82,7927,3,1999,
 185,Ejerlejlighed,"Søvang Alle 19, 1. tv",2770, Kastrup,541000 ,20-04-1999,Alm. Salg,62,8726,2,1918,
 185,Villa,Rhodesiavej 25,2770, Kastrup,1204300 ,19-04-1999,Alm. Salg,166,7255,6,1971,
 185,Villa,Apeldoorn Alle 3,2791, Dragør,1010336 ,19-04-1999,Alm. Salg,100,10103,4,1950,
@@ -12964,7 +12831,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 185,Villa,Latyrus Alle 24,2770, Kastrup,1200000 ,15-04-1999,Alm. Salg,177,6780,5,1904,
 185,Ejerlejlighed,"Kofoed Jensens Alle 1, 1. th",2770, Kastrup,530000 ,14-04-1999,Alm. Salg,54,9815,2,1952,
 185,Ejerlejlighed,"Kofoed Jensens Alle 3, 1. tv",2770, Kastrup,593220 ,14-04-1999,Alm. Salg,54,10986,2,1952,
-185,Villa,Løjtegårdsvej 6A,2770, Kastrup,1013268 ,14-04-1999,Alm. Salg,53,19118,3,1947,
 185,Ejerlejlighed,"Helmer Søgårds Alle 8, 1. th",2770, Kastrup,788000 ,13-04-1999,Alm. Salg,72,10944,3,1950,
 185,Villa,Zinniavej 22,2770, Kastrup,1200000 ,13-04-1999,Alm. Salg,133,9023,5,1931,
 185,Ejerlejlighed,"Saltværksvej 211, 1. tv",2770, Kastrup,661562 ,12-04-1999,Alm. Salg,63,10501,2,1938,
@@ -13008,10 +12874,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 185,Villa,Nilensvej 7,2770, Kastrup,868300 ,17-03-1999,Alm. Salg,156,5566,5,1962,
 185,Villa,Amager Landevej 25,2770, Kastrup,1000000 ,16-03-1999,Alm. Salg,194,5155,8,1926,
 185,Rækkehus,Vestbirk Alle 74,2770, Kastrup,657500 ,15-03-1999,Andet,90,7306,4,1954,
-185,Rækkehus,Feldborgvej 3,2770, Kastrup,1317000 ,15-03-1999,Alm. Salg,88,14966,4,1951,
 185,Ejerlejlighed,"Kastrupkrogen 11, 3. th",2770, Kastrup,596000 ,15-03-1999,Alm. Salg,54,11037,2,1939,
 185,Villa,Hillegom Alle 30,2791, Dragør,1453960 ,15-03-1999,Alm. Salg,125,11632,4,1975,
-185,Villa,Ingstrup Alle 8B,2770, Kastrup,1317000 ,15-03-1999,Alm. Salg,149,8839,4,1956,
 185,Villa,Klosterhedevej 9,2770, Kastrup,1627520 ,15-03-1999,Alm. Salg,183,8894,7,1979,
 185,Ejerlejlighed,"John Tranums Alle 29, st. tv",2770, Kastrup,676000 ,14-03-1999,Alm. Salg,69,9797,3,1953,
 185,Villa,Amager Landevej 176,2770, Kastrup,1600000 ,14-03-1999,Alm. Salg,140,11429,5,1999,
@@ -13362,11 +13226,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 185,Villa,Moselundvej 15,2770, Kastrup,1570000 ,02-07-1998,Alm. Salg,132,11894,5,1988,
 185,Villa,Tømmerupvej 22,2770, Kastrup,1071795 ,02-07-1998,Alm. Salg,123,8714,6,1979,
 185,Ejerlejlighed,"Højgården 4, 1. 212",2770, Kastrup,595000 ,01-07-1998,Alm. Salg,66,9015,2,1975,
-185,Ejerlejlighed,"Helmer Søgårds Alle 20, 2. th",2770, Kastrup,400000 ,30-06-1998,Alm. Salg,54,7407,2,1953,
 185,Villa,Vorgodvej 36,2770, Kastrup,1916000 ,30-06-1998,Alm. Salg,248,7726,5,1974,
 185,Villa,Gadbjergvej 24,2770, Kastrup,967360 ,30-06-1998,Alm. Salg,151,6406,5,2012,
 185,Villa,Oliefabriksvej 262,2770, Kastrup,515000 ,30-06-1998,Alm. Salg,175,2943,7,1999,
-185,Villa,Østbirk Alle 10,2770, Kastrup,400000 ,30-06-1998,Alm. Salg,161,2484,5,1999,
 185,Villa,Nubiensvej 14,2770, Kastrup,1132000 ,30-06-1998,Alm. Salg,98,11551,3,1968,
 185,Ejerlejlighed,"Helmer Søgårds Alle 16, 2. th",2770, Kastrup,555000 ,29-06-1998,Alm. Salg,67,8284,3,1953,
 185,Ejerlejlighed,Præstefælledvej 129A,2770, Kastrup,967000 ,29-06-1998,Alm. Salg,98,9867,4,1982,
@@ -13843,7 +13705,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 185,Villa,Kongelundsvej 261,2770, Kastrup,1025000 ,06-11-1997,Alm. Salg,122,8402,5,1960,
 185,Villa,Løjtegårdsvej 144,2770, Kastrup,1178360 ,05-11-1997,Alm. Salg,79,14916,3,1959,
 185,Villa,Helmond Alle 4,2791, Dragør,1025320 ,05-11-1997,Alm. Salg,110,9321,4,1971,
-185,Villa,Løjtegårdsvej 6A,2770, Kastrup,670000 ,05-11-1997,Alm. Salg,53,12642,3,1947,
 185,Villa,Dollerupvej 9,2770, Kastrup,1244456 ,04-11-1997,Alm. Salg,155,8029,6,2019,
 185,Rækkehus,Bryrupvej 51,2770, Kastrup,1015125 ,03-11-1997,Alm. Salg,128,7931,5,1976,
 185,Villa,Haarlem Alle 31,2791, Dragør,965000 ,03-11-1997,Alm. Salg,178,5421,6,1969,
@@ -14003,19 +13864,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 185,Ejerlejlighed,"John Tranums Alle 17, 1. th",2770, Kastrup,515000 ,09-08-1997,Alm. Salg,71,7254,3,1953,
 185,Villa,Amager Landevej 152,2770, Kastrup,1240000 ,09-08-1997,Alm. Salg,154,8052,5,1929,
 185,Rækkehus,Bryrupvej 62,2770, Kastrup,1075000 ,06-08-1997,Alm. Salg,128,8398,5,1976,
-185,Ejerlejlighed,"Teglkåsvej 2, 1. tv",2770, Kastrup,118836 ,06-08-1997,Alm. Salg,54,2201,2,1946,
 185,Ejerlejlighed,"Teglkåsvej 2, 2. th",2770, Kastrup,129235 ,06-08-1997,Alm. Salg,58,2228,2,1946,
-185,Ejerlejlighed,"Østerlarsvej 1, st. th",2770, Kastrup,121807 ,06-08-1997,Alm. Salg,55,2215,2,1946,
-185,Ejerlejlighed,"Østerlarsvej 1, 1. th",2770, Kastrup,121807 ,06-08-1997,Alm. Salg,55,2215,2,1946,
 185,Ejerlejlighed,"Østerlarsvej 1, st. tv",2770, Kastrup,124036 ,06-08-1997,Alm. Salg,56,2215,2,1946,
-185,Ejerlejlighed,"Østerlarsvej 3, st. tv",2770, Kastrup,118836 ,06-08-1997,Alm. Salg,54,2201,2,1946,
-185,Ejerlejlighed,"Østerlarsvej 3, 1. tv",2770, Kastrup,118836 ,06-08-1997,Alm. Salg,54,2201,2,1946,
-185,Ejerlejlighed,"Østerlarsvej 3, 2. th",2770, Kastrup,126264 ,06-08-1997,Alm. Salg,57,2215,2,1946,
 185,Ejerlejlighed,"Amager Landevej 84, 2. tv",2770, Kastrup,131463 ,06-08-1997,Alm. Salg,59,2228,2,1946,
-185,Ejerlejlighed,"Amager Landevej 86, 2. th",2770, Kastrup,121807 ,06-08-1997,Alm. Salg,55,2215,2,1946,
-185,Ejerlejlighed,"Amager Landevej 88, st. tv",2770, Kastrup,121807 ,06-08-1997,Alm. Salg,55,2215,2,1946,
-185,Ejerlejlighed,"Amager Landevej 88, 1. tv",2770, Kastrup,121807 ,06-08-1997,Alm. Salg,55,2215,2,1946,
-185,Ejerlejlighed,"Amager Landevej 88, 2. th",2770, Kastrup,126264 ,06-08-1997,Alm. Salg,57,2215,2,1946,
 185,Ejerlejlighed,"Amager Landevej 90, 3. tv",2770, Kastrup,202022 ,06-08-1997,Alm. Salg,87,2322,3,1946,
 185,Ejerlejlighed,"Amager Landevej 90, 3. th",2770, Kastrup,233217 ,06-08-1997,Alm. Salg,100,2332,4,1946,
 185,Villa,Foldbyvej 1,2770, Kastrup,1267640 ,06-08-1997,Alm. Salg,170,7457,5,1954,
@@ -16239,9 +16090,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 185,Villa,Cypres Alle 1,2770, Kastrup,511940 ,08-09-1993,Alm. Salg,170,3011,4,1905,
 185,Villa,Gammel Kirkevej 110,2770, Kastrup,490000 ,08-09-1993,Auktion,165,2970,6,1984,
 185,Rækkehus,Borrelyngen 18,2770, Kastrup,890240 ,07-09-1993,Alm. Salg,107,8320,5,1960,
-185,Rækkehus,Brønderslev Alle 16,2770, Kastrup,600000 ,06-09-1993,Alm. Salg,89,6742,4,1955,
 185,Ejerlejlighed,"Kastruplundgade 76, 2. th",2770, Kastrup,395000 ,06-09-1993,Alm. Salg,59,6695,3,1952,
-185,Villa,Gemmas Alle 8,2770, Kastrup,600000 ,06-09-1993,Alm. Salg,103,5825,5,1941,
 185,Villa,Amager Landevej 142,2770, Kastrup,583556 ,05-09-1993,Alm. Salg,100,2918,5,1961,
 185,Villa,Ambra Alle 13,2770, Kastrup,941600 ,04-09-1993,Alm. Salg,135,6975,5,1903,
 185,Villa,Rimsøvej 7,2770, Kastrup,663800 ,02-09-1993,Alm. Salg,155,4283,5,1960,
@@ -16532,8 +16381,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 185,Villa,Capellas Alle 28,2770, Kastrup,606000 ,09-02-1993,Alm. Salg,111,5459,5,1943,
 185,Villa,Suezvej 36,2770, Kastrup,760000 ,09-02-1993,Alm. Salg,151,5033,5,1971,
 185,Villa,Ved Diget 29,2770, Kastrup,775000 ,08-02-1993,Alm. Salg,142,5458,5,1936,
-185,Rækkehus,Misteltenvej 4,2770, Kastrup,380000 ,07-02-1993,Alm. Salg,123,3089,6,1934,
-185,Villa,Studsbøl Alle 77,2770, Kastrup,380000 ,07-02-1993,Fam. Salg,145,2621,4,1960,
 185,Villa,Mortel Alle 23,2791, Dragør,552500 ,07-02-1993,Alm. Salg,155,3565,6,1974,
 185,Villa,Avnbøl Alle 17,2770, Kastrup,585000 ,07-02-1993,Alm. Salg,116,5043,4,1958,
 185,Ejerlejlighed,"Kastrupkrogen 9, st. tv",2770, Kastrup,143350 ,06-02-1993,Auktion,54,2655,2,1939,
@@ -16760,8 +16607,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 185,Villa,Højskole Alle 59,2770, Kastrup,865000 ,07-09-1992,Fam. Salg,148,4601,7,1928,
 185,Rækkehus,Testrup Alle 32,2770, Kastrup,595000 ,06-09-1992,Alm. Salg,119,5000,4,1951,
 185,Villa,Limburg Alle 29,2791, Dragør,200000 ,05-09-1992,Alm. Salg,159,1258,5,2008,
-185,Ejerlejlighed,"Amager Landevej 12, 1",2770, Kastrup,747500 ,01-09-1992,Andet,139,5378,4,1935,
-185,Ejerlejlighed,Ny Skelgårdsvej 2,2770, Kastrup,747500 ,01-09-1992,Andet,154,4854,5,1935,
 185,Villa,Capellas Alle 19,2770, Kastrup,350000 ,01-09-1992,Auktion,111,3153,2,1934,
 185,Rækkehus,Vestermarie Alle 32,2770, Kastrup,844000 ,31-08-1992,Alm. Salg,110,7673,5,1949,
 185,Villa,Jetsmarkvej 4,2770, Kastrup,495000 ,31-08-1992,Alm. Salg,81,6111,3,1961,
@@ -16800,8 +16645,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 185,Ejerlejlighed,"Ved Stationen 13, 1",2770, Kastrup,666750 ,04-08-1992,Alm. Salg,50,13335,3,1917,
 185,Villa,Tømmerupvang 66,2770, Kastrup,875000 ,04-08-1992,Alm. Salg,112,7813,4,1977,
 185,Villa,Ryumgårdvej 83,2770, Kastrup,500000 ,04-08-1992,Alm. Salg,87,5747,5,1976,
-185,Ejerlejlighed,Capellas Alle 2,2770, Kastrup,570000 ,03-08-1992,Alm. Salg,100,5700,3,1850,
-185,Ejerlejlighed,Amager Landevej 168,2770, Kastrup,570000 ,03-08-1992,Alm. Salg,119,4790,2,1850,
 185,Ejerlejlighed,"Kastrupkrogen 13, 3. th",2770, Kastrup,415000 ,03-08-1992,Alm. Salg,54,7685,2,1939,
 185,Ejerlejlighed,"Engmarken 15, st. th",2770, Kastrup,423000 ,02-08-1992,Alm. Salg,60,7050,2,1918,
 185,Villa,Kongelundsvej 461,2770, Kastrup,412500 ,02-08-1992,Alm. Salg,97,4253,4,1955,
@@ -16957,7 +16800,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 185,Villa,Grindsted Alle 31,2770, Kastrup,950000 ,26-04-1992,Alm. Salg,159,5975,5,1971,
 185,Villa,Englandsvej 359,2770, Kastrup,638500 ,26-04-1992,Alm. Salg,118,5411,3,1932,
 185,Villa,Bindslev Alle 8,2770, Kastrup,372500 ,26-04-1992,Fam. Salg,99,3763,4,1962,
-185,Villa,Corneliusmindevej 12B,2770, Kastrup,374225 ,26-04-1992,Alm. Salg,82,4564,3,1925,
 185,Villa,Restrupvej 2A,2770, Kastrup,809600 ,23-04-1992,Alm. Salg,159,5092,5,1975,
 185,Villa,Jerslev Alle 41,2770, Kastrup,851600 ,22-04-1992,Alm. Salg,203,4195,6,1962,
 185,Rækkehus,Snorrebakken 19,2770, Kastrup,675000 ,21-04-1992,Alm. Salg,104,6490,3,1950,
@@ -16990,8 +16832,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 185,Villa,Tømmerupvej 281,2791, Dragør,1472700 ,05-04-1992,Alm. Salg,103,14298,4,1929,
 185,Villa,Skarrildvej 5,2770, Kastrup,324490 ,04-04-1992,Alm. Salg,102,3181,4,1956,
 185,Villa,Viby Alle 12,2770, Kastrup,1400000 ,02-04-1992,Alm. Salg,136,10294,4,1995,
-185,Ejerlejlighed,Saltværksvej 132,2770, Kastrup,620000 ,01-04-1992,Alm. Salg,43,14419,1,1905,
-185,Ejerlejlighed,Pyrus Alle 1,2770, Kastrup,620000 ,01-04-1992,Alm. Salg,122,5082,4,1905,
 185,Villa,Tømmerupvej 28,2770, Kastrup,265149 ,01-04-1992,Alm. Salg,135,1964,5,1982,
 185,Rækkehus,Finnegården 32,2770, Kastrup,357000 ,31-03-1992,Alm. Salg,31,11516,1,1970,
 185,Rækkehus,Jacob Appels Alle 55,2770, Kastrup,635000 ,30-03-1992,Alm. Salg,102,6225,5,1951,

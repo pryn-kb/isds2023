@@ -237,7 +237,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Vibevej 9,7130, Juelsminde,1895000 ,21-08-2022,Alm. Salg,151,12550,6,1986,
 766,Villa,Nyvej 10,7160, Tørring,585000 ,21-08-2022,Alm. Salg,108,5417,4,1965,
 766,Villa,Krondyrvej 3,8722, Hedensted,3575000 ,21-08-2022,Alm. Salg,200,17875,7,1919,-3%
-766,Villa,Peter Hansens Vej 11A,8763, Rask Mølle,1100000 ,21-08-2022,Alm. Salg,193,5699,6,1967,
 766,Villa,Lundtoftevej 5,7100, Vejle,1625000 ,21-08-2022,Alm. Salg,135,12037,5,1978,-7%
 766,Villa,Rosavej 49,7160, Tørring,1075250 ,20-08-2022,Fam. Salg,138,7792,5,1980,
 766,Villa,Vandmøllevej 7,7140, Stouby,975000 ,20-08-2022,Fam. Salg,138,7065,5,1865,
@@ -699,7 +698,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Lindvedvej 45,8723, Løsning,1135000 ,15-02-2022,Alm. Salg,195,5821,11,1877,-9%
 766,Villa,Industrivej 26,7171, Uldum,1795000 ,15-02-2022,Alm. Salg,176,10199,7,1978,
 766,Villa,Nørkærvej 10,7140, Stouby,2450000 ,15-02-2022,Alm. Salg,200,12250,4,2009,-9%
-766,Villa,Bjerrevej 322F,8783, Hornsyld,8500000 ,14-02-2022,Alm. Salg,100,85000,4,2020,
 766,Villa,Lindevangen 2,7140, Stouby,2495000 ,13-02-2022,Alm. Salg,153,16307,4,1986,
 766,Villa,Anemonevej 10,8763, Rask Mølle,800000 ,13-02-2022,Alm. Salg,112,7143,5,1966,
 766,Villa,Fejringhusvej 6,8722, Hedensted,2420700 ,13-02-2022,Alm. Salg,172,14074,5,1997,-6%
@@ -726,12 +724,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Bøgeskovvejen 12,8783, Hornsyld,974474 ,06-02-2022,Fam. Salg,213,4575,5,1910,
 766,Villa,Jacobsmindevej 10,8722, Hedensted,1795000 ,03-02-2022,Alm. Salg,150,11967,5,1970,
 766,Villa,Marsvej 49,8723, Løsning,2650000 ,03-02-2022,Alm. Salg,231,11472,5,1977,
-766,Rækkehus,"Bråskovvej 27A, st",8783, Hornsyld,300000 ,02-02-2022,Alm. Salg,11,27273,3,1906,-40%
 766,Villa,Stadion Alle 9,8722, Hedensted,1133090 ,02-02-2022,Andet,137,8271,4,1938,
 766,Villa,Bankagervej 8,8723, Løsning,1350000 ,02-02-2022,Fam. Salg,107,12617,4,1986,
 766,Villa,Gesagervej 16,8723, Løsning,1575000 ,02-02-2022,Fam. Salg,128,12305,5,1877,
 766,Villa,Ved Bækken 10,8722, Hedensted,2510000 ,02-02-2022,Alm. Salg,110,22818,4,2005,
-766,Villa,Bråskovvej 27A,8783, Hornsyld,300000 ,02-02-2022,Alm. Salg,83,3614,3,1906,-40%
 766,Villa,Sikavej 5,8722, Hedensted,4676000 ,02-02-2022,Alm. Salg,183,25552,5,2019,0%
 766,Villa,Smedetoften 6,7160, Tørring,1440000 ,01-02-2022,Alm. Salg,121,11901,5,1972,-1%
 766,Villa,Trekanten 3,8723, Løsning,1950000 ,01-02-2022,Alm. Salg,182,10714,7,1980,-2%
@@ -1050,7 +1046,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Lille Dalby Bakker 139,8722, Hedensted,2585000 ,07-10-2021,Alm. Salg,121,21364,4,2019,-2%
 766,Villa,Odelsgade 5,7130, Juelsminde,3500000 ,06-10-2021,Alm. Salg,176,19886,4,1916,
 766,Rækkehus,Stadionvej 6,8783, Hornsyld,920000 ,05-10-2021,Alm. Salg,80,11500,3,1986,-3%
-766,Villa,Gl Vejlevej 29B,8721, Daugård,130000 ,05-10-2021,Alm. Salg,110,1182,4,1971,
 766,Villa,Møgelkærvej 5,7130, Juelsminde,2925000 ,05-10-2021,Alm. Salg,234,12500,4,1922,-2%
 766,Villa,Gl Ålevej 8,8763, Rask Mølle,29255 ,05-10-2021,Alm. Salg,172,170,6,1900,
 766,Villa,Borgergade 25,7140, Stouby,955000 ,04-10-2021,Alm. Salg,153,6242,7,1895,-4%
@@ -1557,7 +1552,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Lille Dalby Ager 2,8722, Hedensted,849000 ,28-04-2021,Alm. Salg,167,5084,5,2022,
 766,Ejerlejlighed,"Kystvej 17, 1. tv",7130, Juelsminde,4100000 ,27-04-2021,Alm. Salg,167,24551,4,2007,-2%
 766,Villa,Åparken 24,7171, Uldum,855000 ,27-04-2021,Alm. Salg,168,5089,6,1973,14%
-766,Villa,Barrit Langgade 193D,7150, Barrit,1300000 ,27-04-2021,Alm. Salg,50,26000,1,1976,
 766,Villa,Anemonevej 6,8763, Rask Mølle,1525000 ,27-04-2021,Alm. Salg,132,11553,3,1967,-3%
 766,Villa,Stationspladsen 3,8763, Rask Mølle,2340000 ,27-04-2021,Alm. Salg,234,10000,9,1912,-2%
 766,Villa,Østermarksvej 34,7130, Juelsminde,3195000 ,26-04-2021,Alm. Salg,200,15975,7,1880,
@@ -1671,8 +1665,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Kildevej 14,7130, Juelsminde,1675000 ,29-03-2021,Alm. Salg,201,8333,6,1965,-1%
 766,Villa,Kejsdalen 10,7130, Juelsminde,1415000 ,29-03-2021,Alm. Salg,120,11792,3,1986,
 766,Villa,Bjerrevej 447,7130, Juelsminde,1350000 ,29-03-2021,Alm. Salg,165,8182,8,1947,
-766,Rækkehus,"Bredgade 5, st",7160, Tørring,670000 ,28-03-2021,Alm. Salg,112,5982,5,1900,
-766,Ejerlejlighed,"Bredgade 5, 1",7160, Tørring,670000 ,28-03-2021,Alm. Salg,58,11552,3,1900,
 766,Villa,Grobetoften 12,8721, Daugård,2500000 ,28-03-2021,Alm. Salg,175,14286,5,2005,
 766,Villa,Lille Dalby Ager 43,8722, Hedensted,649000 ,28-03-2021,Alm. Salg,173,3751,5,2022,
 766,Villa,Remmerslund Skovby 26,8722, Hedensted,750000 ,28-03-2021,Alm. Salg,164,4573,5,2021,
@@ -1763,8 +1755,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Lille Eje 17,8722, Hedensted,2350000 ,04-03-2021,Alm. Salg,213,11033,6,1967,-4%
 766,Villa,Ranunkelvej 59,8722, Hedensted,3048000 ,04-03-2021,Fam. Salg,231,13195,7,2007,
 766,Villa,Krondyrvej 6,8722, Hedensted,5500000 ,04-03-2021,Alm. Salg,186,29570,4,2014,
-766,Ejerlejlighed,Gl Vejlevej 11,8721, Daugård,1400000 ,03-03-2021,Alm. Salg,208,4746,7,1960,-9%
-766,Ejerlejlighed,Granhøjvej 2,8721, Daugård,1400000 ,03-03-2021,Alm. Salg,75,18667,2,1960,-9%
 766,Villa,Jupitervej 14,8723, Løsning,1335000 ,03-03-2021,Alm. Salg,114,11711,4,1976,-2%
 766,Villa,Barritskovvej 5,7130, Juelsminde,1110000 ,03-03-2021,Alm. Salg,147,7551,6,1965,12%
 766,Villa,Skolebakken 5,8763, Rask Mølle,1400000 ,02-03-2021,Alm. Salg,174,8046,6,1960,
@@ -1778,7 +1768,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Hedebogade 23,8722, Hedensted,2300000 ,01-03-2021,Alm. Salg,108,21296,4,1963,-2%
 766,Villa,Lille Dalby Bakker 143,8722, Hedensted,2845000 ,01-03-2021,Alm. Salg,151,18841,5,2021,
 766,Villa,Torupvænget 18,8722, Hedensted,1930000 ,28-02-2021,Alm. Salg,197,9797,6,1973,-8%
-766,Villa,Gludvej 72D,7130, Juelsminde,2485000 ,28-02-2021,Alm. Salg,75,33133,3,1965,
 766,Villa,Egernvej 24,8722, Hedensted,4145000 ,28-02-2021,Alm. Salg,231,17944,6,2008,-1%
 766,Villa,Lille Dalby Ager 3,8722, Hedensted,599000 ,28-02-2021,Alm. Salg,134,4470,4,2021,
 766,Ejerlejlighed,"Moseparken 11, 1",8722, Hedensted,810000 ,25-02-2021,Alm. Salg,57,14211,2,1983,
@@ -1968,7 +1957,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Vejlevej 46,7130, Juelsminde,600000 ,03-01-2021,Alm. Salg,78,7692,2,1900,
 766,Villa,Gudenåparken 2,7160, Tørring,700000 ,03-01-2021,Alm. Salg,219,3196,5,1947,
 766,Villa,Hedebogade 6,8722, Hedensted,1450000 ,03-01-2021,Alm. Salg,75,19333,3,1960,-2%
-766,Villa,Syrenvej 9,8722, Hedensted,700000 ,03-01-2021,Alm. Salg,121,5785,5,1957,
 766,Villa,Ørumvej 27,8721, Daugård,1700000 ,03-01-2021,Alm. Salg,210,8095,5,1927,
 766,Villa,Nørremarksvej 14,8783, Hornsyld,1700000 ,03-01-2021,Andet,170,10000,5,2007,
 766,Villa,Sebastiansvej 7,7171, Uldum,1617875 ,03-01-2021,Fam. Salg,253,6395,7,2018,
@@ -2091,8 +2079,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Solsortevej 1,7171, Uldum,1100000 ,25-11-2020,Alm. Salg,211,5213,7,1971,-12%
 766,Villa,Remmerslund Skovby 18,8722, Hedensted,800000 ,25-11-2020,Alm. Salg,190,4211,5,2021,
 766,Villa,Remmerslund Skovby 30,8722, Hedensted,700000 ,25-11-2020,Alm. Salg,189,3704,5,2022,
-766,Rækkehus,"Bredgade 5, st",7160, Tørring,645000 ,24-11-2020,Alm. Salg,112,5759,5,1900,-14%
-766,Ejerlejlighed,"Bredgade 5, 1",7160, Tørring,645000 ,24-11-2020,Alm. Salg,58,11121,3,1900,-14%
 766,Villa,Jupitervej 34,8723, Løsning,1000000 ,24-11-2020,Fam. Salg,126,7937,5,1977,
 766,Villa,Skjoldborgsvej 5,8723, Løsning,1250000 ,24-11-2020,Alm. Salg,115,10870,4,1973,-2%
 766,Villa,Febækvej 37,8762, Flemming,1000000 ,24-11-2020,Fam. Salg,193,5181,7,1933,
@@ -2368,10 +2354,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Tranevej 107,8721, Daugård,1465000 ,24-08-2020,Alm. Salg,149,9832,4,1986,-2%
 766,Villa,Hvirringvej 25,8762, Flemming,2250000 ,24-08-2020,Alm. Salg,177,12712,6,1934,-2%
 766,Villa,Horsensvej 14,8722, Hedensted,1580000 ,24-08-2020,Alm. Salg,120,13167,7,1952,-3%
-766,Rækkehus,"Hedebogade 1B, 1",8722, Hedensted,2100000 ,23-08-2020,Alm. Salg,51,41176,2,1952,-4%
 766,Villa,Frederiksbergvej 3,8723, Løsning,900000 ,23-08-2020,Alm. Salg,132,6818,5,1959,-5%
 766,Villa,Ligustervænget 3,7130, Juelsminde,1100000 ,23-08-2020,Alm. Salg,155,7097,5,1979,-6%
-766,Villa,Hedebogade 1A,8722, Hedensted,2100000 ,23-08-2020,Alm. Salg,118,17797,4,1952,-4%
 766,Villa,Vejlevej 96,7140, Stouby,540000 ,23-08-2020,Alm. Salg,98,5510,4,1890,
 766,Villa,Olinesmindevej 32,8722, Hedensted,819128 ,23-08-2020,Alm. Salg,100,8191,3,1988,
 766,Villa,Mølleager 41,7100, Vejle,1699000 ,23-08-2020,Alm. Salg,132,12871,5,1980,
@@ -2724,12 +2708,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Merringvej 82,8723, Løsning,920000 ,27-04-2020,Alm. Salg,152,6053,4,1902,-8%
 766,Villa,Kingos Alle 43,8723, Løsning,1865000 ,26-04-2020,Alm. Salg,158,11804,5,1970,-2%
 766,Villa,Skærvetoften 38,8723, Løsning,1493750 ,26-04-2020,Andet,200,7469,6,2007,
-766,Villa,Nymarksvej 25,8722, Hedensted,1200000 ,26-04-2020,Alm. Salg,91,13187,3,2021,
-766,Ejerlejlighed,"Bredgade 10, 2",8722, Hedensted,1360000 ,23-04-2020,Fam. Salg,80,17000,2,1922,
-766,Ejerlejlighed,"Bredgade 10, 1",8722, Hedensted,1360000 ,23-04-2020,Fam. Salg,80,17000,2,1922,
-766,Ejerlejlighed,"Mosegade 1, 1",8722, Hedensted,1360000 ,23-04-2020,Fam. Salg,84,16190,3,1922,
-766,Ejerlejlighed,"Mosegade 1, 2",8722, Hedensted,1360000 ,23-04-2020,Fam. Salg,60,22667,2,1922,
-766,Ejerlejlighed,"Mosegade 1, st",8722, Hedensted,1360000 ,23-04-2020,Fam. Salg,80,17000,3,1922,
 766,Villa,Borgergade 1,7160, Tørring,950000 ,22-04-2020,Fam. Salg,134,7090,4,1827,
 766,Villa,Nørremarksvej 5,8783, Hornsyld,428141 ,22-04-2020,Alm. Salg,155,2762,6,1914,
 766,Villa,Aldumvej 2,8722, Hedensted,2495000 ,21-04-2020,Alm. Salg,176,14176,4,1998,
@@ -2850,11 +2828,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Pærgårdsvej 5,7130, Juelsminde,3067000 ,27-02-2020,Alm. Salg,174,17626,7,1940,-32%
 766,Villa,Hvirringvej 19,8762, Flemming,550000 ,27-02-2020,Alm. Salg,100,5500,4,1964,-21%
 766,Villa,Skovparken 106,8783, Hornsyld,2260000 ,27-02-2020,Alm. Salg,160,14125,6,1999,
-766,Rækkehus,Hestehaven 7,8721, Daugård,479500 ,26-02-2020,Alm. Salg,90,5328,3,0,
 766,Villa,Kærvej 4,8722, Hedensted,325000 ,26-02-2020,Alm. Salg,125,2600,4,1900,
 766,Villa,Saturnvej 13,8723, Løsning,750000 ,26-02-2020,Fam. Salg,119,6303,4,1976,
 766,Villa,Mølleager 52,7100, Vejle,1100000 ,26-02-2020,Alm. Salg,127,8661,5,1978,
-766,Villa,Hestehaven 7,8721, Daugård,479500 ,26-02-2020,Alm. Salg,82,5848,4,1835,
 766,Villa,Tranevej 27,8721, Daugård,1525000 ,25-02-2020,Alm. Salg,156,9776,5,1978,-6%
 766,Villa,Åparken 5,7171, Uldum,800000 ,25-02-2020,Alm. Salg,116,6897,4,1971,
 766,Villa,Fjordblik 14,7130, Juelsminde,525000 ,25-02-2020,Alm. Salg,145,3621,4,0,-10%
@@ -3212,8 +3188,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Smedegade 7,7130, Juelsminde,385000 ,22-09-2019,Alm. Salg,104,3702,4,1894,-3%
 766,Villa,Heegaardsvej 4,8722, Hedensted,1985000 ,22-09-2019,Alm. Salg,174,11408,8,1973,
 766,Villa,Årupparken 12,8722, Hedensted,1995000 ,22-09-2019,Alm. Salg,144,13854,5,1998,
-766,Ejerlejlighed,Bredgade 4,8722, Hedensted,500000 ,21-09-2019,Andet,90,5556,3,1945,
-766,Ejerlejlighed,Ankersvej 2,8722, Hedensted,500000 ,21-09-2019,Andet,124,4032,3,1945,
 766,Villa,Snaptunvej 39,7130, Juelsminde,740000 ,20-09-2019,Fam. Salg,72,10278,3,1820,
 766,Rækkehus,Grønningen 41,8783, Hornsyld,1350000 ,19-09-2019,Alm. Salg,110,12273,4,1986,
 766,Villa,Vestergade 16,7171, Uldum,1132500 ,19-09-2019,Alm. Salg,116,9763,4,1971,
@@ -3471,12 +3445,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Lupinvej 8,7130, Juelsminde,884500 ,06-06-2019,Andet,151,5858,6,1967,
 766,Villa,Bakkesvinget 5,8723, Løsning,850000 ,06-06-2019,Alm. Salg,112,7589,4,1970,-8%
 766,Villa,Krollerupvej 21,8723, Løsning,21768000 ,06-06-2019,Alm. Salg,80,272100,4,1935,
-766,Rækkehus,Hestehaven 7,8721, Daugård,479500 ,05-06-2019,Alm. Salg,90,5328,3,0,
 766,Villa,Sønderbrogade 94,7160, Tørring,750000 ,05-06-2019,Alm. Salg,64,11719,3,1950,-3%
 766,Villa,Borgergade 55,7160, Tørring,690000 ,05-06-2019,Alm. Salg,158,4367,6,1918,-8%
 766,Villa,Ribevej 12,7171, Uldum,1700000 ,05-06-2019,Alm. Salg,238,7143,10,1864,-5%
 766,Villa,Højmarken 7,8723, Løsning,2400000 ,05-06-2019,Alm. Salg,197,12183,9,2006,-2%
-766,Villa,Hestehaven 7,8721, Daugård,479500 ,05-06-2019,Alm. Salg,82,5848,4,1835,
 766,Villa,Kærsangervej 10,8721, Daugård,1477000 ,04-06-2019,Alm. Salg,130,11362,4,1972,7%
 766,Villa,Frederikslystvej 29,8723, Løsning,3950262 ,04-06-2019,Andet,260,15193,7,1999,
 766,Rækkehus,Neptunvej 13,8723, Løsning,1350000 ,03-06-2019,Fam. Salg,143,9441,4,1978,
@@ -3908,7 +3880,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Lucernevej 1,7130, Juelsminde,1385000 ,05-12-2018,Alm. Salg,148,9358,4,1969,-8%
 766,Villa,Tønballevej 23,7130, Juelsminde,1150000 ,05-12-2018,Alm. Salg,126,9127,4,1977,-4%
 766,Villa,Krondyrvej 9,8722, Hedensted,855000 ,05-12-2018,Alm. Salg,190,4500,6,2020,-2%
-766,Villa,Postvej 4F,7160, Tørring,4100000 ,05-12-2018,Alm. Salg,86,47674,2,2006,
 766,Villa,Dalbyvej 72,8722, Hedensted,650000 ,04-12-2018,Alm. Salg,80,8125,4,1985,-6%
 766,Villa,Kirkedalsvej 23B,7130, Juelsminde,550000 ,04-12-2018,Alm. Salg,157,3503,5,1906,
 766,Rækkehus,Sneppevej 103,8723, Løsning,158878 ,03-12-2018,Fam. Salg,86,1847,3,1986,
@@ -3941,7 +3912,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Rækkehus,Kejsdalen 73,7130, Juelsminde,1080000 ,14-11-2018,Alm. Salg,75,14400,3,1980,-4%
 766,Villa,Rolighedsvej 15,8722, Hedensted,1440000 ,14-11-2018,Alm. Salg,145,9931,4,1960,-4%
 766,Villa,Østerkærvej 7,7160, Tørring,420000 ,14-11-2018,Alm. Salg,110,3818,5,1926,-7%
-766,Villa,Veronavej 2,8722, Hedensted,1000000 ,14-11-2018,Alm. Salg,133,7519,5,1962,-16%
 766,Villa,Grønningen 11,8722, Hedensted,1595000 ,14-11-2018,Alm. Salg,132,12083,4,1974,
 766,Villa,Fasanparken 30,7130, Juelsminde,1375000 ,13-11-2018,Alm. Salg,137,10036,4,1979,-1%
 766,Villa,Anemonevej 12,8763, Rask Mølle,649888 ,13-11-2018,Fam. Salg,177,3672,7,1966,
@@ -4201,9 +4171,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Åparken 27,7171, Uldum,576112 ,01-07-2018,Alm. Salg,115,5010,4,1973,
 766,Villa,Gludvej 84,7130, Juelsminde,1125000 ,01-07-2018,Alm. Salg,110,10227,4,1972,-2%
 766,Villa,Barrit Langgade 6,7150, Barrit,550000 ,01-07-2018,Alm. Salg,167,3293,5,1960,-21%
-766,Ejerlejlighed,"Bredgade 48F, 1. tv",7160, Tørring,1250000 ,30-06-2018,Andet,93,13441,2,2016,
 766,Villa,Solfang 20,7160, Tørring,1150000 ,30-06-2018,Alm. Salg,156,7372,4,1918,-11%
-766,Villa,Alstedvej 6A,7160, Tørring,1250000 ,30-06-2018,Andet,115,10870,3,2011,
 766,Villa,Årupvænget 5,8722, Hedensted,2975000 ,29-06-2018,Alm. Salg,214,13902,6,1996,
 766,Rækkehus,Hestehaven 3B,8721, Daugård,361250 ,28-06-2018,Andet,121,2986,5,1850,-59%
 766,Ejerlejlighed,"Kirkegade 19F, 1",8722, Hedensted,1400000 ,28-06-2018,Alm. Salg,87,16092,3,2007,
@@ -4238,11 +4206,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Bråskovvej 45,8783, Hornsyld,525000 ,14-06-2018,Alm. Salg,129,4070,7,1900,
 766,Villa,Vestergade 15,7171, Uldum,1150000 ,14-06-2018,Alm. Salg,146,7877,4,1972,-4%
 766,Villa,Erantisvej 14,8763, Rask Mølle,1662500 ,14-06-2018,Alm. Salg,190,8750,5,1973,-5%
-766,Rækkehus,Hestehaven 7,8721, Daugård,575000 ,13-06-2018,Alm. Salg,90,6389,3,0,
 766,Villa,Sandbjergvej 15,7130, Juelsminde,895000 ,13-06-2018,Alm. Salg,125,7160,4,1964,
 766,Villa,Bankagervej 75,8723, Løsning,1500000 ,13-06-2018,Alm. Salg,134,11194,4,1990,-6%
 766,Villa,Bakkesvinget 15,8723, Løsning,600000 ,13-06-2018,Alm. Salg,83,7229,3,1969,-14%
-766,Villa,Hestehaven 7,8721, Daugård,575000 ,13-06-2018,Alm. Salg,82,7012,4,1835,
 766,Rækkehus,Sneppevej 49,8723, Løsning,1055000 ,12-06-2018,Alm. Salg,81,13025,3,1983,-3%
 766,Villa,Kalhavevej 59,7171, Uldum,460000 ,12-06-2018,Alm. Salg,174,2644,6,1870,-7%
 766,Villa,Wedelsgade 9,7130, Juelsminde,1400000 ,12-06-2018,Alm. Salg,166,8434,4,1908,
@@ -4252,7 +4218,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Bakkevej 23,8723, Løsning,1380000 ,11-06-2018,Alm. Salg,120,11500,4,1975,0%
 766,Villa,Højskolebakken 14,7171, Uldum,1365000 ,11-06-2018,Alm. Salg,148,9223,6,1996,-2%
 766,Villa,Hybenvej 25,8763, Rask Mølle,1670000 ,11-06-2018,Alm. Salg,165,10121,5,1985,5%
-766,Villa,Bjerrevej 322F,8783, Hornsyld,380000 ,11-06-2018,Alm. Salg,100,3800,4,2020,-23%
 766,Villa,Lille Dalby Bakker 194,8722, Hedensted,865000 ,11-06-2018,Alm. Salg,185,4676,5,2019,
 766,Villa,Stenkærgård 25,8763, Rask Mølle,280000 ,11-06-2018,Alm. Salg,126,2222,4,2019,
 766,Villa,Bolbroholtvej 9. 4,7130, Juelsminde,1250000 ,11-06-2018,Alm. Salg,158,7911,5,2007,-3%
@@ -4403,7 +4368,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Grobetoften 12,8721, Daugård,2150000 ,22-03-2018,Alm. Salg,175,12286,5,2005,-12%
 766,Villa,Korningvej 26,8700, Horsens,4300000 ,22-03-2018,Alm. Salg,212,20283,5,2017,-4%
 766,Rækkehus,Torvegade 7,7160, Tørring,1025000 ,21-03-2018,Alm. Salg,100,10250,4,1912,-5%
-766,Rækkehus,Rasmus Sørensens Sti 2,7171, Uldum,1640000 ,21-03-2018,Alm. Salg,70,23429,2,1850,
 766,Rækkehus,Torupvænget 35,8722, Hedensted,1525000 ,21-03-2018,Alm. Salg,97,15722,4,1998,
 766,Villa,Olinesmindevej 5,8722, Hedensted,1660000 ,21-03-2018,Alm. Salg,128,12969,5,1987,-5%
 766,Villa,Mølleparken 6,8723, Løsning,2025000 ,21-03-2018,Alm. Salg,164,12348,5,2006,
@@ -4531,10 +4495,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Thyras Vænge 50,7100, Vejle,595000 ,28-01-2018,Alm. Salg,194,2449,6,2018,
 766,Villa,Anna Knudsens Vej 2,8723, Løsning,300000 ,28-01-2018,Alm. Salg,181,1657,5,2018,
 766,Villa,Nørremarksvej 30,8783, Hornsyld,525000 ,27-01-2018,Alm. Salg,188,2793,6,2018,
-766,Ejerlejlighed,"Kystvej 2, st",7130, Juelsminde,2550000 ,25-01-2018,Alm. Salg,82,31098,3,1925,
-766,Ejerlejlighed,"Kystvej 2, 1",7130, Juelsminde,2550000 ,25-01-2018,Alm. Salg,82,31098,3,1925,
-766,Ejerlejlighed,Strandhusevej 1A,7130, Juelsminde,2550000 ,25-01-2018,Alm. Salg,72,35417,3,1925,
-766,Ejerlejlighed,Strandhusevej 1B,7130, Juelsminde,2550000 ,25-01-2018,Alm. Salg,74,34459,3,1925,
 766,Villa,Ravnholtvej 22,8783, Hornsyld,2000000 ,25-01-2018,Alm. Salg,140,14286,5,1850,
 766,Villa,Linde Alle 4,8723, Løsning,1215000 ,25-01-2018,Alm. Salg,215,5651,7,1972,-3%
 766,Villa,Kingosvej 33,8762, Flemming,1850000 ,25-01-2018,Alm. Salg,141,13121,4,2007,-7%
@@ -5158,8 +5118,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Jupitervej 27,8723, Løsning,750000 ,09-03-2017,Alm. Salg,136,5515,5,1977,
 766,Villa,Olinesmindevej 44,8722, Hedensted,1192723 ,09-03-2017,Alm. Salg,191,6245,6,1989,
 766,Villa,Nørregade 17,7171, Uldum,700000 ,09-03-2017,Alm. Salg,116,6034,4,1905,-10%
-766,Rækkehus,"Hedebogade 1B, 1",8722, Hedensted,1500000 ,08-03-2017,Alm. Salg,51,29412,2,1952,
-766,Villa,Hedebogade 1A,8722, Hedensted,1500000 ,08-03-2017,Alm. Salg,118,12712,4,1952,
 766,Villa,Aale Bygade 19,7160, Tørring,550000 ,07-03-2017,Alm. Salg,100,5500,3,1964,
 766,Villa,Rørkærvej 6,8722, Hedensted,1725000 ,07-03-2017,Alm. Salg,164,10518,5,1979,-4%
 766,Rækkehus,Rosavej 1B,7160, Tørring,850000 ,06-03-2017,Alm. Salg,91,9341,4,1984,-5%
@@ -5816,10 +5774,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Stenkærgård 6,8763, Rask Mølle,145000 ,29-03-2016,Alm. Salg,139,1043,3,2017,
 766,Villa,Tangbroen 20,8722, Hedensted,2018750 ,29-03-2016,Alm. Salg,224,9012,6,2014,
 766,Villa,Åstrupvej 38,7130, Juelsminde,2125000 ,27-03-2016,Alm. Salg,144,14757,6,1874,
-766,Ejerlejlighed,"Kystvej 2, st",7130, Juelsminde,17000000 ,22-03-2016,Alm. Salg,82,207317,3,1925,
-766,Ejerlejlighed,"Kystvej 2, 1",7130, Juelsminde,17000000 ,22-03-2016,Alm. Salg,82,207317,3,1925,
-766,Ejerlejlighed,Strandhusevej 1A,7130, Juelsminde,17000000 ,22-03-2016,Alm. Salg,72,236111,3,1925,
-766,Ejerlejlighed,Strandhusevej 1B,7130, Juelsminde,17000000 ,22-03-2016,Alm. Salg,74,229730,3,1925,
 766,Villa,Havnegade 13,7130, Juelsminde,2980000 ,22-03-2016,Alm. Salg,198,15051,4,2017,
 766,Villa,Lindvedvej 45,8723, Løsning,975000 ,21-03-2016,Alm. Salg,195,5000,11,1877,-2%
 766,Villa,Industrivej 13,7171, Uldum,1900000 ,21-03-2016,Alm. Salg,202,9406,6,1974,
@@ -6524,8 +6478,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Hedenstedvej 16,8781, Stenderup,1110000 ,24-02-2015,Alm. Salg,126,8810,5,1930,-3%
 766,Villa,Rosenvoldvej 16,7140, Stouby,1262000 ,23-02-2015,Alm. Salg,195,6472,8,1912,
 766,Villa,Vibevej 3,7130, Juelsminde,870000 ,23-02-2015,Alm. Salg,103,8447,3,1973,-11%
-766,Rækkehus,Skolegade 2,7171, Uldum,850000 ,22-02-2015,Fam. Salg,95,8947,4,1900,
-766,Ejerlejlighed,"I P Hansens Vej 18, 1",7171, Uldum,850000 ,22-02-2015,Fam. Salg,94,9043,3,1900,
 766,Villa,Fogedvænget 96,8722, Hedensted,950000 ,22-02-2015,Alm. Salg,173,5491,6,1986,-52%
 766,Villa,Kirketoften 6,7130, Juelsminde,525000 ,22-02-2015,Alm. Salg,124,4234,5,1977,
 766,Villa,Vejlevej 108,7140, Stouby,538307 ,19-02-2015,Alm. Salg,151,3565,4,1964,-51%
@@ -6720,7 +6672,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Stenderupvej 3,8781, Stenderup,655000 ,22-10-2014,Alm. Salg,110,5955,4,1968,-6%
 766,Villa,Rylevej 3,7130, Juelsminde,730478 ,22-10-2014,Alm. Salg,128,5707,6,1964,
 766,Ejerlejlighed,"Kystvej 15, 1. th",7130, Juelsminde,2195000 ,21-10-2014,Alm. Salg,123,17846,3,2007,-4%
-766,Villa,Peter Hansens Vej 11A,8763, Rask Mølle,575000 ,21-10-2014,Alm. Salg,193,2979,6,1967,-28%
 766,Villa,Borgergade 11,7160, Tørring,450000 ,20-10-2014,Auktion,114,3947,4,1950,-47%
 766,Villa,Hovdiget 28,8722, Hedensted,1545000 ,20-10-2014,Alm. Salg,133,11617,4,1985,-3%
 766,Villa,Nedergårdsvej 19,8723, Løsning,1295000 ,19-10-2014,Alm. Salg,148,8750,5,1989,
@@ -7054,12 +7005,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Korningvej 91,8700, Horsens,900000 ,03-03-2014,Alm. Salg,112,8036,4,1968,1%
 766,Villa,Mårvej 33,8722, Hedensted,358939 ,03-03-2014,Alm. Salg,187,1919,6,2014,-89%
 766,Villa,Jupitervej 25,8723, Løsning,369671 ,02-03-2014,Andet,132,2801,5,1977,
-766,Ejerlejlighed,"Wedelsgade 14, 1. th",7130, Juelsminde,2310211 ,28-02-2014,Alm. Salg,64,36097,2,1900,
-766,Ejerlejlighed,"Wedelsgade 14, 2. th",7130, Juelsminde,2310211 ,28-02-2014,Alm. Salg,62,37261,2,1900,
-766,Ejerlejlighed,"Wedelsgade 14, 1. tv",7130, Juelsminde,2310211 ,28-02-2014,Alm. Salg,83,27834,3,1900,
-766,Ejerlejlighed,"Wedelsgade 14, 2. tv",7130, Juelsminde,2310211 ,28-02-2014,Alm. Salg,78,29618,2,1900,
-766,Ejerlejlighed,"Wedelsgade 14, st. tv",7130, Juelsminde,2310211 ,28-02-2014,Alm. Salg,87,26554,3,1900,
-766,Ejerlejlighed,Juelsgade 10,7130, Juelsminde,2310211 ,28-02-2014,Alm. Salg,85,27179,2,1900,
 766,Villa,Hedenstedvej 34,8781, Stenderup,636485 ,28-02-2014,Andet,189,3368,9,1932,
 766,Villa,Bagervænget 19,7150, Barrit,699000 ,26-02-2014,Alm. Salg,125,5592,4,1965,
 766,Villa,Rousthøjs Alle 26,7130, Juelsminde,1325000 ,26-02-2014,Alm. Salg,139,9532,5,1987,-11%
@@ -7932,7 +7877,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Boring 22,8763, Rask Mølle,200000 ,27-06-2012,Auktion,178,1124,6,1949,-66%
 766,Villa,Bygaden 20,7130, Juelsminde,200000 ,27-06-2012,Auktion,95,2105,5,1947,
 766,Villa,Sønderbrogade 8,7160, Tørring,730000 ,27-06-2012,Alm. Salg,124,5887,4,1906,
-766,Villa,Østerbrogade 28A,8722, Hedensted,850000 ,26-06-2012,Alm. Salg,134,6343,4,1920,-15%
 766,Villa,Horsensvej 7,7171, Uldum,995000 ,26-06-2012,Alm. Salg,119,8361,5,1887,
 766,Villa,Snaptunvej 43,7130, Juelsminde,2400000 ,25-06-2012,Alm. Salg,176,13636,6,1971,
 766,Villa,Bråskovvej 12,8783, Hornsyld,848500 ,25-06-2012,Fam. Salg,142,5975,3,2007,
@@ -8471,9 +8415,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Skolehaven 5,7160, Tørring,945000 ,25-05-2011,Alm. Salg,144,6563,5,1978,-5%
 766,Villa,Melhedevej 17B,7160, Tørring,110000 ,24-05-2011,Alm. Salg,405,272,5,2004,
 766,Villa,Rådyrvej 21,8722, Hedensted,725000 ,24-05-2011,Alm. Salg,221,3281,7,2011,
-766,Ejerlejlighed,"Søparken 24, 1. 1",8722, Hedensted,1975000 ,22-05-2011,Alm. Salg,121,16322,4,2007,-1%
 766,Villa,Stenderupvej 19,8781, Stenderup,1150000 ,22-05-2011,Alm. Salg,155,7419,4,1910,-4%
-766,Villa,Lysagervænget 24,8722, Hedensted,1975000 ,22-05-2011,Alm. Salg,140,14107,5,1997,-5%
 766,Villa,Vejlevej 12,8722, Hedensted,875000 ,22-05-2011,Alm. Salg,111,7883,4,1926,-12%
 766,Villa,Bråskovvej 16,8783, Hornsyld,150000 ,22-05-2011,Auktion,115,1304,4,1913,
 766,Villa,Mejsevej 4,8723, Løsning,1400000 ,21-05-2011,Alm. Salg,153,9150,5,1973,-6%
@@ -8505,8 +8447,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Parallelvej 3,7130, Juelsminde,700000 ,03-05-2011,Alm. Salg,71,9859,3,1963,-7%
 766,Villa,Savværksvej 40,7130, Juelsminde,720000 ,03-05-2011,Alm. Salg,191,3770,7,1936,-9%
 766,Villa,Kirkeager 19,7130, Juelsminde,525000 ,03-05-2011,Alm. Salg,151,3477,5,2012,-76%
-766,Rækkehus,Odelsgade 23A,7130, Juelsminde,550000 ,02-05-2011,Alm. Salg,50,11000,2,1987,
-766,Ejerlejlighed,"Odelsgade 23, 1",7130, Juelsminde,550000 ,02-05-2011,Alm. Salg,96,5729,3,1910,
 766,Villa,Snaptunvej 5,7130, Juelsminde,825000 ,02-05-2011,Alm. Salg,221,3733,5,1850,
 766,Villa,Lærkevænget 25,8721, Daugård,800000 ,02-05-2011,Alm. Salg,88,9091,4,1966,
 766,Rækkehus,Hustedgårdvej 12,8722, Hedensted,665000 ,01-05-2011,Alm. Salg,54,12315,2,1982,
@@ -8609,9 +8549,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Højmarksvej 54,8723, Løsning,1650000 ,24-02-2011,Alm. Salg,175,9429,6,1979,-3%
 766,Villa,Jørgensens Alle 9B,8722, Hedensted,490000 ,24-02-2011,Auktion,88,5568,3,1952,-38%
 766,Villa,Vestre Ringvej 11,7140, Stouby,480000 ,24-02-2011,Auktion,64,7500,2,1953,
-766,Ejerlejlighed,"Wedelsgade 7, st",7130, Juelsminde,2095000 ,23-02-2011,Alm. Salg,76,27566,3,1912,
 766,Ejerlejlighed,"Moseparken 11, st",8722, Hedensted,650000 ,23-02-2011,Alm. Salg,57,11404,2,1983,-6%
-766,Ejerlejlighed,"Juelsgade 7, 1",7130, Juelsminde,2095000 ,23-02-2011,Alm. Salg,88,23807,2,1912,
 766,Villa,Præstehaven 2,8722, Hedensted,1050000 ,23-02-2011,Alm. Salg,127,8268,4,1968,
 766,Villa,Barrit Stationsvej 4,7150, Barrit,650000 ,23-02-2011,Auktion,276,2355,8,1908,
 766,Villa,Rævebjergvej 5,8723, Løsning,1095000 ,23-02-2011,Alm. Salg,72,15208,3,1961,-9%
@@ -8635,7 +8573,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Vejlevej 101,7140, Stouby,900000 ,13-02-2011,Fam. Salg,125,7200,3,1973,
 766,Villa,Nørre Snedevej 80,8762, Flemming,2125000 ,13-02-2011,Alm. Salg,194,10954,6,1954,-3%
 766,Villa,Skærvetoften 42,8723, Løsning,460000 ,13-02-2011,Alm. Salg,135,3407,4,2011,
-766,Ejerlejlighed,"Damagervej 8, 1",7130, Juelsminde,210000 ,10-02-2011,Alm. Salg,98,2143,3,1965,
 766,Villa,Museumsvej 36,7130, Juelsminde,671175 ,10-02-2011,Alm. Salg,164,4093,5,1973,
 766,Villa,Møgelkærvej 5,7130, Juelsminde,2520000 ,09-02-2011,Alm. Salg,234,10769,4,1922,
 766,Villa,Gøgevej 14,8723, Løsning,1645000 ,07-02-2011,Alm. Salg,218,7546,7,1974,-3%
@@ -8948,7 +8885,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Wedelsgade 11,7130, Juelsminde,1050000 ,26-08-2010,Alm. Salg,114,9211,4,1934,-19%
 766,Villa,Rådyrvej 3,7160, Tørring,1640000 ,26-08-2010,Alm. Salg,113,14513,4,1976,7%
 766,Villa,Møllersmindevej 2,8763, Rask Mølle,1070000 ,26-08-2010,Alm. Salg,112,9554,4,1965,-2%
-766,Villa,Niels Espes Vej 1A,8722, Hedensted,1750000 ,25-08-2010,Alm. Salg,77,22727,2,1967,
 766,Villa,Skolevej 13,7130, Juelsminde,1950000 ,25-08-2010,Alm. Salg,190,10263,5,1929,
 766,Villa,Hovedvejen 3B,7130, Juelsminde,1035000 ,25-08-2010,Alm. Salg,137,7555,5,1974,-13%
 766,Villa,Bøgballevej 125,7171, Uldum,1125000 ,25-08-2010,Alm. Salg,170,6618,6,1935,-6%
@@ -9223,7 +9159,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Hesselballevej 29,7171, Uldum,1309000 ,24-03-2010,Alm. Salg,139,9417,4,1977,
 766,Villa,Gludvej 113,7130, Juelsminde,1500000 ,24-03-2010,Alm. Salg,158,9494,6,1947,
 766,Villa,Mejsevej 17,8723, Løsning,1050000 ,23-03-2010,Alm. Salg,113,9292,3,1973,-4%
-766,Villa,Aagade 2A,7160, Tørring,1631551 ,22-03-2010,Alm. Salg,79,20653,3,2009,
 766,Villa,Skovbrynet 33,7130, Juelsminde,1800000 ,21-03-2010,Alm. Salg,160,11250,5,1977,
 766,Villa,H Thomsens Vej 5,8723, Løsning,1000000 ,21-03-2010,Alm. Salg,136,7353,4,1965,-9%
 766,Rækkehus,Rosavej 15A,7160, Tørring,900000 ,20-03-2010,Alm. Salg,74,12162,3,1984,
@@ -9925,7 +9860,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Korningvej 133,8700, Horsens,1225000 ,18-01-2009,Alm. Salg,200,6125,5,1932,-4%
 766,Villa,Juelsgade 3,7130, Juelsminde,1250000 ,15-01-2009,Alm. Salg,180,6944,4,1932,
 766,Villa,Tranebovej 15,8723, Løsning,992500 ,15-01-2009,Andet,148,6706,5,1997,
-766,Villa,Havnegade 3. o-g,7130, Juelsminde,1400000 ,15-01-2009,Alm. Salg,60,23333,2,1900,
 766,Villa,Skjøttsvej 10,8722, Hedensted,1495000 ,15-01-2009,Alm. Salg,145,10310,5,1975,
 766,Villa,Vindelevvej 86,7160, Tørring,2350000 ,14-01-2009,Alm. Salg,230,10217,7,1917,
 766,Villa,Jupitervej 14,8723, Løsning,1025000 ,12-01-2009,Alm. Salg,114,8991,4,1976,
@@ -11121,8 +11055,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Båstrupvej 48,8722, Hedensted,1095000 ,13-08-2007,Alm. Salg,148,7399,6,1827,
 766,Villa,Solvangs Alle 3,8723, Løsning,1350000 ,13-08-2007,Alm. Salg,103,13107,4,1967,
 766,Villa,Tværvej 11,8783, Hornsyld,409600 ,13-08-2007,Alm. Salg,195,2101,8,2008,
-766,Rækkehus,Odelsgade 23A,7130, Juelsminde,2575000 ,12-08-2007,Alm. Salg,50,51500,2,1987,
-766,Ejerlejlighed,"Odelsgade 23, 1",7130, Juelsminde,2575000 ,12-08-2007,Alm. Salg,96,26823,3,1910,
 766,Villa,Odelsgade 13,7130, Juelsminde,2300000 ,12-08-2007,Alm. Salg,139,16547,5,1897,
 766,Ejerlejlighed,"Kirkegade 19G, 1",8722, Hedensted,1495000 ,10-08-2007,Alm. Salg,87,17184,3,2007,
 766,Villa,Hvirringvej 12,8762, Flemming,589424 ,09-08-2007,Alm. Salg,129,4569,6,1934,
@@ -11817,10 +11749,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Egernvej 50,8722, Hedensted,475000 ,08-01-2007,Alm. Salg,164,2896,5,2007,
 766,Villa,Tværvej 13,8783, Hornsyld,324400 ,08-01-2007,Alm. Salg,182,1782,7,2008,
 766,Rækkehus,Hustedgårdvej 20,8722, Hedensted,895000 ,07-01-2007,Alm. Salg,54,16574,2,1982,
-766,Ejerlejlighed,Hovedgaden 1A,8763, Rask Mølle,1200000 ,07-01-2007,Alm. Salg,105,11429,4,1900,-13%
-766,Ejerlejlighed,Honumvej 2D,8763, Rask Mølle,1200000 ,07-01-2007,Alm. Salg,119,10084,1,1900,-13%
-766,Ejerlejlighed,Honumvej 2B,8763, Rask Mølle,1200000 ,07-01-2007,Alm. Salg,152,7895,5,1900,-13%
-766,Ejerlejlighed,Honumvej 2A,8763, Rask Mølle,1200000 ,07-01-2007,Alm. Salg,75,16000,2,1900,-13%
 766,Villa,Lilleskovvej 18,7130, Juelsminde,1110000 ,07-01-2007,Alm. Salg,146,7603,7,1877,
 766,Villa,Stourup Hældagervej 9,7130, Juelsminde,550000 ,07-01-2007,Alm. Salg,63,8730,3,1900,
 766,Villa,Saturnvej 15,8723, Løsning,579673 ,04-01-2007,Alm. Salg,132,4391,5,1976,
@@ -12223,9 +12151,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Møllevænget 6,8721, Daugård,170000 ,27-08-2006,Alm. Salg,201,846,6,2019,
 766,Villa,Skovbrynet 34,7130, Juelsminde,550000 ,27-08-2006,Alm. Salg,219,2511,6,2007,
 766,Villa,Midterfolden 5,7150, Barrit,173758 ,27-08-2006,Alm. Salg,152,1143,5,2007,
-766,Ejerlejlighed,"Sønderbrogade 11, 1",7160, Tørring,860000 ,25-08-2006,Alm. Salg,104,8269,3,1904,
-766,Ejerlejlighed,"Sønderbrogade 11, st",7160, Tørring,860000 ,25-08-2006,Alm. Salg,96,8958,3,1904,
-766,Ejerlejlighed,"Østergade 8A, 2",7160, Tørring,860000 ,25-08-2006,Alm. Salg,82,10488,2,1904,
 766,Villa,Nordbakken 16,7130, Juelsminde,860000 ,25-08-2006,Alm. Salg,130,6615,4,1900,
 766,Villa,Tværvej 31,8783, Hornsyld,350000 ,25-08-2006,Alm. Salg,171,2047,6,2007,
 766,Villa,Hustedgårdvej 1,8722, Hedensted,1645000 ,24-08-2006,Alm. Salg,124,13266,4,1981,
@@ -12850,7 +12775,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Gartnervænget 6,8763, Rask Mølle,650000 ,09-02-2006,Alm. Salg,72,9028,3,1925,
 766,Villa,Lærkevej 7,7171, Uldum,1295000 ,09-02-2006,Alm. Salg,141,9184,4,1977,
 766,Villa,Højmarken 7,8723, Løsning,1777375 ,09-02-2006,Alm. Salg,197,9022,9,2006,
-766,Rækkehus,Rasmus Sørensens Sti 2,7171, Uldum,1400000 ,08-02-2006,Alm. Salg,70,20000,2,1850,
 766,Rækkehus,Moseparken 23,8722, Hedensted,1075000 ,08-02-2006,Alm. Salg,77,13961,3,1984,
 766,Villa,Bredgade 44A,7160, Tørring,1400000 ,08-02-2006,Alm. Salg,126,11111,6,1999,
 766,Villa,Torupvej 25,8722, Hedensted,1600000 ,08-02-2006,Alm. Salg,185,8649,4,2009,
@@ -13574,8 +13498,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Rørkærvej 90,8722, Hedensted,3100000 ,19-07-2005,Alm. Salg,246,12602,6,2003,
 766,Villa,Stadion Alle 4,8722, Hedensted,1475000 ,19-07-2005,Alm. Salg,157,9395,5,1937,
 766,Villa,Ølstedbrovej 15,8723, Løsning,4695000 ,19-07-2005,Alm. Salg,60,78250,3,1917,
-766,Rækkehus,Odelsgade 23A,7130, Juelsminde,2000000 ,17-07-2005,Alm. Salg,50,40000,2,1987,
-766,Ejerlejlighed,"Odelsgade 23, 1",7130, Juelsminde,2000000 ,17-07-2005,Alm. Salg,96,20833,3,1910,
 766,Villa,Museumsvej 30,7130, Juelsminde,1090000 ,17-07-2005,Alm. Salg,135,8074,5,1972,
 766,Rækkehus,Barrit Langgade 128,7150, Barrit,659000 ,14-07-2005,Alm. Salg,93,7086,4,1959,
 766,Rækkehus,Aagade 19,7160, Tørring,685000 ,14-07-2005,Alm. Salg,163,4202,6,1929,
@@ -14394,7 +14316,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Jacob Jensens Vej 19,8722, Hedensted,1025000 ,01-12-2004,Alm. Salg,113,9071,4,1960,
 766,Villa,Th Jensens Vej 19,8723, Løsning,1000000 ,30-11-2004,Alm. Salg,112,8929,3,1984,
 766,Villa,Søndergade 24A,8783, Hornsyld,223741 ,29-11-2004,Fam. Salg,199,1124,5,1897,
-766,Ejerlejlighed,"Damagervej 8, 1",7130, Juelsminde,1532000 ,28-11-2004,Alm. Salg,98,15633,3,1965,
 766,Villa,Mejerivej 3,7140, Stouby,595000 ,28-11-2004,Alm. Salg,135,4407,5,1880,
 766,Villa,Askevej 1,7160, Tørring,715000 ,28-11-2004,Alm. Salg,111,6441,4,1983,
 766,Villa,Brund Strandvej 13,7130, Juelsminde,1950000 ,28-11-2004,Alm. Salg,102,19118,5,1930,
@@ -15133,11 +15054,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Rosenvænget 8,7130, Juelsminde,321030 ,24-01-2004,Alm. Salg,140,2293,5,2004,
 766,Villa,Vejlevej 46,7130, Juelsminde,685000 ,23-01-2004,Alm. Salg,78,8782,2,1900,
 766,Villa,Årup Alle 13,8722, Hedensted,365000 ,23-01-2004,Alm. Salg,205,1780,5,2006,
-766,Ejerlejlighed,"Skovvej 1, 1",7160, Tørring,1500000 ,22-01-2004,Alm. Salg,60,25000,3,1906,
-766,Ejerlejlighed,"Skovvej 1, st",7160, Tørring,1500000 ,22-01-2004,Alm. Salg,60,25000,3,1906,
-766,Ejerlejlighed,"Skovvej 1, 2",7160, Tørring,1500000 ,22-01-2004,Alm. Salg,49,30612,2,1906,
-766,Ejerlejlighed,"Sønderbrogade 2, 1",7160, Tørring,1500000 ,22-01-2004,Alm. Salg,85,17647,4,1906,
-766,Ejerlejlighed,"Sønderbrogade 2, st",7160, Tørring,1500000 ,22-01-2004,Alm. Salg,60,25000,3,1906,
 766,Villa,Sønderbrogade 13,7160, Tørring,725000 ,22-01-2004,Alm. Salg,71,10211,3,1954,
 766,Villa,Koksfourt 2,7140, Stouby,650000 ,22-01-2004,Alm. Salg,114,5702,4,1966,
 766,Villa,Gl Vejlevej 20,8721, Daugård,725000 ,22-01-2004,Alm. Salg,172,4215,5,1912,
@@ -15157,12 +15073,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Juelsgade 31,7130, Juelsminde,1065000 ,18-01-2004,Alm. Salg,116,9181,4,1966,
 766,Villa,Hornumkærvej 5,8783, Hornsyld,300000 ,18-01-2004,Fam. Salg,60,5000,3,1920,
 766,Villa,Årupvænget 20,8722, Hedensted,1625000 ,17-01-2004,Alm. Salg,142,11444,5,1998,
-766,Ejerlejlighed,"Wedelsgade 14, 1. th",7130, Juelsminde,2761869 ,15-01-2004,Alm. Salg,64,43154,2,1900,
-766,Ejerlejlighed,"Wedelsgade 14, 2. th",7130, Juelsminde,2761869 ,15-01-2004,Alm. Salg,62,44546,2,1900,
-766,Ejerlejlighed,"Wedelsgade 14, 1. tv",7130, Juelsminde,2761869 ,15-01-2004,Alm. Salg,83,33276,3,1900,
-766,Ejerlejlighed,"Wedelsgade 14, 2. tv",7130, Juelsminde,2761869 ,15-01-2004,Alm. Salg,78,35409,2,1900,
-766,Ejerlejlighed,"Wedelsgade 14, st. tv",7130, Juelsminde,2761869 ,15-01-2004,Alm. Salg,87,31746,3,1900,
-766,Ejerlejlighed,Juelsgade 10,7130, Juelsminde,2761869 ,15-01-2004,Alm. Salg,85,32493,2,1900,
 766,Villa,Lilleskoven 7,8722, Hedensted,1150000 ,15-01-2004,Alm. Salg,178,6461,6,1987,
 766,Villa,Sønderkærvej 18,7160, Tørring,1700000 ,15-01-2004,Alm. Salg,111,15315,6,1868,
 766,Villa,Nygade 1,8722, Hedensted,955000 ,15-01-2004,Alm. Salg,162,5895,5,1950,
@@ -15382,12 +15292,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Nørløkkevej 1,7150, Barrit,497000 ,19-10-2003,Auktion,170,2924,6,1912,
 766,Villa,Klejs Møllevej 5,7130, Juelsminde,745000 ,17-10-2003,Alm. Salg,117,6368,3,1968,
 766,Villa,Ved Bækken 43,8722, Hedensted,296400 ,17-10-2003,Alm. Salg,182,1629,5,2004,
-766,Ejerlejlighed,"Wedelsgade 14, 1. th",7130, Juelsminde,2500000 ,16-10-2003,Alm. Salg,64,39063,2,1900,
-766,Ejerlejlighed,"Wedelsgade 14, 2. th",7130, Juelsminde,2500000 ,16-10-2003,Alm. Salg,62,40323,2,1900,
-766,Ejerlejlighed,"Wedelsgade 14, 1. tv",7130, Juelsminde,2500000 ,16-10-2003,Alm. Salg,83,30120,3,1900,
-766,Ejerlejlighed,"Wedelsgade 14, 2. tv",7130, Juelsminde,2500000 ,16-10-2003,Alm. Salg,78,32051,2,1900,
-766,Ejerlejlighed,"Wedelsgade 14, st. tv",7130, Juelsminde,2500000 ,16-10-2003,Alm. Salg,87,28736,3,1900,
-766,Ejerlejlighed,Juelsgade 10,7130, Juelsminde,2500000 ,16-10-2003,Alm. Salg,85,29412,2,1900,
 766,Villa,Vestergade 39,8723, Løsning,1225000 ,16-10-2003,Alm. Salg,122,10041,5,1920,
 766,Villa,Ved Bækken 58,8722, Hedensted,295500 ,16-10-2003,Alm. Salg,166,1780,5,2004,
 766,Villa,Dalbyvej 22,8722, Hedensted,432080 ,16-10-2003,Andet,106,4076,4,1967,
@@ -15921,7 +15825,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Gl Landevej 24,7100, Vejle,1100000 ,11-03-2003,Alm. Salg,187,5882,6,1909,
 766,Villa,Møllesvinget 7,8763, Rask Mølle,730000 ,11-03-2003,Alm. Salg,169,4320,7,1963,
 766,Villa,Houmarken 4,7130, Juelsminde,400000 ,10-03-2003,Alm. Salg,79,5063,3,1830,
-766,Villa,Peter Hansens Vej 11A,8763, Rask Mølle,795000 ,10-03-2003,Fam. Salg,193,4119,6,1967,
 766,Villa,Kirkevej 4,8723, Løsning,925000 ,10-03-2003,Alm. Salg,167,5539,6,1932,
 766,Villa,Aalevej 60,7160, Tørring,1169054 ,09-03-2003,Alm. Salg,267,4378,7,1900,
 766,Villa,Østerenden 15,8762, Flemming,3235660 ,09-03-2003,Alm. Salg,290,10438,8,1955,
@@ -16072,9 +15975,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Rørkærvej 131,8722, Hedensted,303408 ,17-01-2003,Alm. Salg,146,2078,6,2003,
 766,Villa,Snebærvej 21,8783, Hornsyld,240000 ,16-01-2003,Alm. Salg,128,1875,4,2005,
 766,Villa,Bøgevej 19,8783, Hornsyld,670000 ,16-01-2003,Alm. Salg,111,6036,4,1967,
-766,Ejerlejlighed,"Østergade 8, kl",8723, Løsning,495000 ,15-01-2003,Alm. Salg,48,10313,1,1916,
 766,Villa,Nebelvej 6,7130, Juelsminde,349720 ,15-01-2003,Alm. Salg,137,2553,5,2011,
-766,Villa,Østergade 8,8723, Løsning,495000 ,15-01-2003,Alm. Salg,112,4420,4,1916,
 766,Villa,Sanatorievej 17,7140, Stouby,800000 ,15-01-2003,Alm. Salg,152,5263,6,1958,
 766,Villa,Aalevej 52,7160, Tørring,465000 ,14-01-2003,Alm. Salg,241,1782,6,1900,
 766,Villa,Højmarksvej 14,8723, Løsning,490000 ,14-01-2003,Alm. Salg,81,6049,4,1928,
@@ -16187,7 +16088,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Skovbrynet 32,8722, Hedensted,300000 ,26-11-2002,Alm. Salg,142,2113,5,2003,
 766,Ejerlejlighed,"Vejlevej 1E, 2",7160, Tørring,340000 ,25-11-2002,Alm. Salg,65,5231,2,1902,
 766,Ejerlejlighed,"Hovedgaden 19, st. mf",8763, Rask Mølle,305000 ,25-11-2002,Alm. Salg,55,5545,3,1918,
-766,Villa,Klakringvej 69B,7130, Juelsminde,90667 ,25-11-2002,Fam. Salg,80,1133,3,2003,
 766,Villa,Merringvej 88,8723, Løsning,850000 ,24-11-2002,Alm. Salg,135,6296,5,1912,
 766,Villa,Hedevej 20,8723, Løsning,800000 ,24-11-2002,Alm. Salg,132,6061,4,1910,
 766,Villa,Gramrodevej 26,7130, Juelsminde,470769 ,24-11-2002,Andet,172,2737,3,1915,
@@ -16395,7 +16295,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Byvang 1,7160, Tørring,890000 ,02-09-2002,Alm. Salg,121,7355,3,1974,
 766,Villa,Fjordvej 10,7130, Juelsminde,850000 ,01-09-2002,Alm. Salg,174,4885,5,1969,
 766,Villa,Ørumvej 45,8721, Daugård,711472 ,01-09-2002,Alm. Salg,225,3162,5,1934,
-766,Villa,Vongevej 15A,7160, Tørring,710000 ,01-09-2002,Alm. Salg,96,7396,3,2012,
 766,Villa,Højmarksvej 18,8723, Løsning,355000 ,31-08-2002,Alm. Salg,205,1732,8,1908,
 766,Rækkehus,Gammelgade 2E,8723, Løsning,795000 ,30-08-2002,Alm. Salg,93,8548,3,1983,
 766,Villa,Ny Kirkevej 2,8723, Løsning,1400000 ,30-08-2002,Alm. Salg,187,7487,5,1972,
@@ -16638,9 +16537,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Olinesmindevej 21,8722, Hedensted,1150000 ,07-05-2002,Alm. Salg,117,9829,4,1991,
 766,Villa,Skovbrynet 26,8722, Hedensted,282000 ,07-05-2002,Alm. Salg,211,1336,7,2003,
 766,Villa,Skanderborgvej 56,7171, Uldum,1035000 ,07-05-2002,Alm. Salg,298,3473,8,1894,
-766,Rækkehus,Gramvej 12B,8783, Hornsyld,100000 ,06-05-2002,Fam. Salg,90,1111,3,1868,
 766,Villa,Rørkærvej 4,8722, Hedensted,1809210 ,06-05-2002,Alm. Salg,255,7095,7,1979,
-766,Villa,Gram Møllevej 2,8783, Hornsyld,100000 ,06-05-2002,Fam. Salg,257,389,9,1900,
 766,Villa,Højmarksvej 16,8723, Løsning,740000 ,06-05-2002,Alm. Salg,132,5606,4,1925,
 766,Villa,Sikavej 11,7160, Tørring,308000 ,06-05-2002,Alm. Salg,137,2248,5,2002,
 766,Ejerlejlighed,"Moseparken 7, st",8722, Hedensted,575920 ,05-05-2002,Alm. Salg,57,10104,2,1983,
@@ -16857,7 +16754,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Febækvej 25,8762, Flemming,450000 ,07-02-2002,Fam. Salg,111,4054,3,1974,
 766,Villa,Jacobsmindevej 1,8722, Hedensted,1270669 ,07-02-2002,Alm. Salg,210,6051,7,1971,
 766,Villa,Bogfinkevej 11,8721, Daugård,1115000 ,07-02-2002,Alm. Salg,212,5259,6,1972,
-766,Villa,Aagade 2A,7160, Tørring,495000 ,07-02-2002,Alm. Salg,79,6266,3,2009,
 766,Villa,Tranebovej 61,8723, Løsning,194560 ,06-02-2002,Alm. Salg,182,1069,7,2002,
 766,Villa,Nedergårdsvej 14,8723, Løsning,885000 ,06-02-2002,Alm. Salg,194,4562,6,1978,
 766,Villa,Bjørnsknudevej 38A,7130, Juelsminde,1496000 ,05-02-2002,Alm. Salg,141,10610,4,1916,
@@ -16868,8 +16764,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Hovedvejen 25,7130, Juelsminde,1006026 ,02-02-2002,Alm. Salg,170,5918,4,1973,
 766,Villa,Skolestien 18,7160, Tørring,686168 ,01-02-2002,Alm. Salg,117,5865,3,1967,
 766,Villa,Bækmandsvej 3,8762, Flemming,1262404 ,01-02-2002,Alm. Salg,179,7053,6,1987,
-766,Ejerlejlighed,Bredgade 4,8722, Hedensted,1700000 ,31-01-2002,Alm. Salg,90,18889,3,1945,
-766,Ejerlejlighed,Ankersvej 2,8722, Hedensted,1700000 ,31-01-2002,Alm. Salg,124,13710,3,1945,
 766,Villa,Overvej 22,7140, Stouby,1589090 ,31-01-2002,Alm. Salg,172,9239,8,1904,
 766,Villa,Tranebovej 25,8723, Løsning,161122 ,31-01-2002,Alm. Salg,271,595,6,2002,
 766,Villa,Tranebovej 65,8723, Løsning,199840 ,31-01-2002,Alm. Salg,193,1035,6,2003,
@@ -17002,12 +16896,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Mikkelbro 4,7150, Barrit,297012 ,21-11-2001,Andet,120,2475,3,1977,
 766,Villa,Klakringvej 43B,7130, Juelsminde,44800 ,21-11-2001,Fam. Salg,227,175,7,2001,
 766,Villa,Lilleskoven 45,8722, Hedensted,1053084 ,21-11-2001,Andet,202,5213,5,1996,
-766,Ejerlejlighed,"Ny Skolegade 2A, st",8723, Løsning,1100000 ,20-11-2001,Alm. Salg,93,11828,3,1914,
-766,Ejerlejlighed,"Ny Skolegade 2A, 1",8723, Løsning,1100000 ,20-11-2001,Alm. Salg,83,13253,3,1914,
-766,Ejerlejlighed,"Vestergade 23B, 1",8723, Løsning,1100000 ,20-11-2001,Alm. Salg,70,15714,4,1914,
-766,Ejerlejlighed,"Vestergade 23B, st",8723, Løsning,1100000 ,20-11-2001,Alm. Salg,64,17188,2,1914,
-766,Ejerlejlighed,"Ny Skolegade 2B, st",8723, Løsning,1100000 ,20-11-2001,Alm. Salg,71,15493,3,1914,
-766,Ejerlejlighed,"Vestergade 23A, st",8723, Løsning,1100000 ,20-11-2001,Alm. Salg,92,11957,4,1914,
 766,Villa,Smedetoften 6,7160, Tørring,590000 ,20-11-2001,Fam. Salg,121,4876,5,1972,
 766,Villa,Tangevej 5,8722, Hedensted,1000000 ,19-11-2001,Alm. Salg,147,6803,4,1973,
 766,Villa,Møllevænget 43,7100, Vejle,1510000 ,19-11-2001,Alm. Salg,172,8779,5,1997,
@@ -17857,7 +17745,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Bråskovvej 26,8783, Hornsyld,1314448 ,26-10-2000,Alm. Salg,169,7778,6,1850,
 766,Villa,Grønvej 37,7130, Juelsminde,115000 ,25-10-2000,Alm. Salg,152,757,5,2001,
 766,Villa,Stubberupvej 34,8723, Løsning,840000 ,25-10-2000,Alm. Salg,141,5957,5,1900,
-766,Villa,Aale Bygade 34A,7160, Tørring,532000 ,24-10-2000,Alm. Salg,92,5783,4,1900,
 766,Villa,Savværksvej 1B,7130, Juelsminde,840000 ,24-10-2000,Alm. Salg,182,4615,9,1890,
 766,Villa,Jørgensens Alle 23,8722, Hedensted,1400000 ,23-10-2000,Alm. Salg,210,6667,6,1920,
 766,Villa,Kornelvej 11,8763, Rask Mølle,176514 ,23-10-2000,Alm. Salg,138,1279,4,2001,
@@ -17973,9 +17860,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Barrit Stationsvej 7,7150, Barrit,360000 ,13-09-2000,Alm. Salg,83,4337,3,1960,
 766,Villa,Nørregade 21,8783, Hornsyld,788000 ,13-09-2000,Alm. Salg,134,5881,5,1956,
 766,Villa,Spettrupvej 21,8722, Hedensted,917450 ,13-09-2000,Alm. Salg,147,6241,5,1900,
-766,Ejerlejlighed,"Østergade 8, kl",8723, Løsning,795000 ,12-09-2000,Alm. Salg,48,16563,1,1916,
 766,Villa,Olgavej 4,7160, Tørring,1080000 ,12-09-2000,Alm. Salg,164,6585,6,1973,
-766,Villa,Østergade 8,8723, Løsning,795000 ,12-09-2000,Alm. Salg,112,7098,4,1916,
 766,Villa,Lundgårdsvej 3,7130, Juelsminde,180000 ,12-09-2000,Alm. Salg,98,1837,3,1909,
 766,Villa,Nørkærvej 6,7140, Stouby,995000 ,12-09-2000,Alm. Salg,152,6546,4,1900,
 766,Villa,Kærvej 90,8722, Hedensted,2600000 ,11-09-2000,Alm. Salg,180,14444,6,1933,
@@ -17995,10 +17880,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Viborg Hovedvej 81,7160, Tørring,730000 ,05-09-2000,Alm. Salg,185,3946,6,1920,
 766,Villa,Gramrodevej 26,7130, Juelsminde,1150000 ,05-09-2000,Alm. Salg,172,6686,3,1915,
 766,Villa,Skovhussvinget 16,7160, Tørring,100000 ,05-09-2000,Alm. Salg,205,488,7,1875,
-766,Ejerlejlighed,"Kystvej 2, st",7130, Juelsminde,1245000 ,04-09-2000,Alm. Salg,82,15183,3,1925,
-766,Ejerlejlighed,"Kystvej 2, 1",7130, Juelsminde,1245000 ,04-09-2000,Alm. Salg,82,15183,3,1925,
-766,Ejerlejlighed,Strandhusevej 1A,7130, Juelsminde,1245000 ,04-09-2000,Alm. Salg,72,17292,3,1925,
-766,Ejerlejlighed,Strandhusevej 1B,7130, Juelsminde,1245000 ,04-09-2000,Alm. Salg,74,16824,3,1925,
 766,Villa,Kærvejen 40,7171, Uldum,560000 ,04-09-2000,Alm. Salg,129,4341,6,1900,
 766,Villa,Højmarksvej 5,8723, Løsning,1150000 ,04-09-2000,Alm. Salg,132,8712,5,1927,
 766,Villa,Skolevej 22,7160, Tørring,655000 ,04-09-2000,Alm. Salg,110,5955,4,1965,
@@ -19109,7 +18990,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Stougårds Alle 1,7160, Tørring,338318 ,10-06-1999,Fam. Salg,165,2050,4,1970,
 766,Villa,Hovedvejen 70,8722, Hedensted,1300000 ,09-06-1999,Alm. Salg,197,6599,6,2023,
 766,Villa,Humlevej 5,8722, Hedensted,1235000 ,09-06-1999,Alm. Salg,183,6749,6,1974,
-766,Villa,Veronavej 2,8722, Hedensted,692222 ,09-06-1999,Alm. Salg,133,5205,5,1962,
 766,Villa,Horsensvej 1,7171, Uldum,578812 ,09-06-1999,Alm. Salg,159,3640,4,1964,
 766,Villa,Marsvej 33,8723, Løsning,927035 ,09-06-1999,Alm. Salg,141,6575,5,1976,
 766,Villa,Hvilehøjparken 16,7171, Uldum,84571 ,08-06-1999,Alm. Salg,136,622,4,1999,
@@ -19276,10 +19156,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Vejlevej 87,7140, Stouby,1418735 ,15-04-1999,Alm. Salg,201,7058,5,1980,
 766,Villa,Korningvej 61,8700, Horsens,450000 ,15-04-1999,Alm. Salg,110,4091,3,1855,
 766,Villa,Kirkedalsvej 31,7130, Juelsminde,815956 ,15-04-1999,Alm. Salg,209,3904,7,1870,
-766,Rækkehus,Hestehaven 7,8721, Daugård,239000 ,14-04-1999,Alm. Salg,90,2656,3,0,
 766,Villa,Lysagervænget 9,8722, Hedensted,157140 ,14-04-1999,Alm. Salg,178,883,7,1999,
 766,Villa,Fogedvænget 2,8722, Hedensted,967000 ,14-04-1999,Alm. Salg,136,7110,4,1978,
-766,Villa,Hestehaven 7,8721, Daugård,239000 ,14-04-1999,Alm. Salg,82,2915,4,1835,
 766,Villa,Nyvej 6,7160, Tørring,541217 ,13-04-1999,Alm. Salg,184,2941,7,1950,
 766,Villa,Hovedvejen 4B,7130, Juelsminde,500000 ,13-04-1999,Alm. Salg,136,3676,5,1890,
 766,Villa,Blichersvej 5,8723, Løsning,745000 ,13-04-1999,Alm. Salg,110,6773,4,1967,
@@ -19480,7 +19358,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Hedenstedvej 47,8781, Stenderup,230000 ,07-02-1999,Alm. Salg,80,2875,2,1935,
 766,Villa,Tranevej 18,8721, Daugård,791456 ,07-02-1999,Alm. Salg,99,7995,4,1984,
 766,Villa,Lindvedvej 29,8723, Løsning,604000 ,07-02-1999,Alm. Salg,176,3432,8,1902,
-766,Villa,Aagade 2A,7160, Tørring,674000 ,07-02-1999,Alm. Salg,79,8532,3,2009,
 766,Villa,Teglværksparken 19,7130, Juelsminde,1104212 ,06-02-1999,Alm. Salg,183,6034,6,1982,
 766,Villa,Sindbjerglundvej 14,7100, Vejle,100000 ,06-02-1999,Alm. Salg,115,870,5,1850,
 766,Villa,Klakring Stationsvej 9,7130, Juelsminde,675000 ,04-02-1999,Alm. Salg,149,4530,4,1939,
@@ -19628,7 +19505,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Raskvej 16,7160, Tørring,470000 ,24-11-1998,Alm. Salg,95,4947,3,1966,
 766,Villa,Gl Vejlevej 41,8721, Daugård,480000 ,23-11-1998,Fam. Salg,200,2400,5,1960,
 766,Villa,Bakkesvinget 11,8723, Løsning,695000 ,23-11-1998,Alm. Salg,104,6683,4,1970,
-766,Ejerlejlighed,"Skolestien 4, 1",7160, Tørring,510000 ,22-11-1998,Alm. Salg,81,6296,3,1939,
 766,Villa,Rolighedsvej 2,7160, Tørring,820000 ,22-11-1998,Alm. Salg,205,4000,7,1924,
 766,Villa,Fruens Kirkevej 15,8762, Flemming,280000 ,22-11-1998,Fam. Salg,67,4179,3,1964,
 766,Villa,Sønderbrogade 33,7160, Tørring,397200 ,22-11-1998,Fam. Salg,138,2878,5,1965,
@@ -19791,7 +19667,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Rækkehus,Bækketoften 13,8722, Hedensted,175000 ,16-09-1998,Alm. Salg,97,1804,3,1999,
 766,Villa,Merringvej 62,8723, Løsning,655394 ,16-09-1998,Alm. Salg,151,4340,4,1962,
 766,Villa,Hvedelunden 17,8722, Hedensted,253000 ,16-09-1998,Alm. Salg,137,1847,5,1999,
-766,Villa,Postvej 4F,7160, Tørring,2800000 ,16-09-1998,Alm. Salg,86,32558,2,2006,
 766,Villa,Søren Knudsens Vej 3,7130, Juelsminde,156000 ,15-09-1998,Alm. Salg,144,1083,5,1999,
 766,Villa,Grønningen 2,8722, Hedensted,946000 ,15-09-1998,Alm. Salg,120,7883,4,1974,
 766,Rækkehus,Bækketoften 9,8722, Hedensted,175000 ,14-09-1998,Alm. Salg,97,1804,3,1999,
@@ -20292,8 +20167,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Spurvevej 6,7160, Tørring,101760 ,07-04-1998,Alm. Salg,141,722,5,1998,
 766,Villa,Klakring Stationsvej 5A,7130, Juelsminde,35000000 ,06-04-1998,Alm. Salg,158,221519,6,1982,
 766,Villa,Østervang 16,7160, Tørring,1090000 ,06-04-1998,Alm. Salg,246,4431,9,1978,
-766,Rækkehus,Odelsgade 23A,7130, Juelsminde,1550000 ,05-04-1998,Alm. Salg,50,31000,2,1987,
-766,Ejerlejlighed,"Odelsgade 23, 1",7130, Juelsminde,1550000 ,05-04-1998,Alm. Salg,96,16146,3,1910,
 766,Ejerlejlighed,"Vejlevej 1B, st",7160, Tørring,330000 ,05-04-1998,Alm. Salg,94,3511,3,1902,
 766,Villa,Kalhavevej 31,8763, Rask Mølle,1046000 ,05-04-1998,Alm. Salg,230,4548,6,1910,
 766,Villa,Smedskærlund 5,7140, Stouby,307000 ,05-04-1998,Alm. Salg,108,2843,3,1863,
@@ -20364,7 +20237,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Thyras Vænge 1,7100, Vejle,177219 ,16-03-1998,Alm. Salg,193,918,6,1999,
 766,Villa,Skovkrogen 5,8762, Flemming,1025000 ,16-03-1998,Andet,232,4418,7,1970,
 766,Villa,Bankagervej 24,8723, Løsning,679126 ,15-03-1998,Alm. Salg,97,7001,4,1978,
-766,Villa,Nymarksvej 25,8722, Hedensted,708000 ,15-03-1998,Alm. Salg,91,7780,3,2021,
 766,Villa,Jacobsmindevej 12,8722, Hedensted,897000 ,14-03-1998,Alm. Salg,115,7800,6,1970,
 766,Villa,Vestervang 1,7160, Tørring,865055 ,13-03-1998,Alm. Salg,157,5510,6,1930,
 766,Rækkehus,Korningvej 95B,8700, Horsens,500000 ,12-03-1998,Alm. Salg,81,6173,3,1984,
@@ -20461,9 +20333,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Hvedevænget 10,7130, Juelsminde,739090 ,08-02-1998,Alm. Salg,153,4831,4,1972,
 766,Villa,Berberisvænget 8,7130, Juelsminde,749263 ,08-02-1998,Alm. Salg,90,8325,4,1977,
 766,Villa,Cikorievej 12,8763, Rask Mølle,590000 ,07-02-1998,Alm. Salg,121,4876,4,1971,
-766,Ejerlejlighed,"Østergade 8, kl",8723, Løsning,770000 ,06-02-1998,Alm. Salg,48,16042,1,1916,
 766,Villa,Årupvænget 20,8722, Hedensted,243500 ,06-02-1998,Alm. Salg,142,1715,5,1998,
-766,Villa,Østergade 8,8723, Løsning,770000 ,06-02-1998,Alm. Salg,112,6875,4,1916,
 766,Villa,Pærgårdsvej 16,7130, Juelsminde,665000 ,06-02-1998,Alm. Salg,162,4105,5,1972,
 766,Villa,Stouby Skovvej 17A,7140, Stouby,573310 ,05-02-1998,Alm. Salg,150,3822,7,1860,
 766,Villa,Østermarksvej 9,8762, Flemming,558875 ,05-02-1998,Alm. Salg,140,3992,5,1911,
@@ -21060,7 +20930,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Neder Bjerrevej 8,8783, Hornsyld,1105000 ,24-06-1997,Fam. Salg,205,5390,7,1918,
 766,Ejerlejlighed,"Jernbanegade 10A, 2",8723, Løsning,271500 ,23-06-1997,Alm. Salg,58,4681,2,1906,
 766,Villa,Nørbyvej 8,7130, Juelsminde,611000 ,23-06-1997,Alm. Salg,180,3394,4,1877,
-766,Villa,Vongevej 15A,7160, Tørring,440000 ,23-06-1997,Alm. Salg,96,4583,3,2012,
 766,Villa,Sigurd Stenhøj Vej 1,7150, Barrit,736843 ,23-06-1997,Alm. Salg,210,3509,8,1900,
 766,Rækkehus,Gartnerbakken 68,8722, Hedensted,370000 ,22-06-1997,Alm. Salg,112,3304,4,0,
 766,Villa,Vestergade 38,8723, Løsning,833000 ,22-06-1997,Alm. Salg,140,5553,4,1917,
@@ -21086,10 +20955,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Nørre Snedevej 84,8762, Flemming,390000 ,17-06-1997,Alm. Salg,164,2378,5,1927,
 766,Ejerlejlighed,"Østerbrogade 8, 1",8722, Hedensted,1009000 ,16-06-1997,Alm. Salg,151,6682,4,1907,
 766,Villa,Årupvænget 4,8722, Hedensted,189050 ,16-06-1997,Alm. Salg,135,1400,5,1997,
-766,Rækkehus,"Bredgade 5, st",7160, Tørring,425000 ,15-06-1997,Alm. Salg,112,3795,5,1900,
 766,Rækkehus,Hustedgårdvej 43,8722, Hedensted,281500 ,15-06-1997,Alm. Salg,36,7819,2,1981,
 766,Rækkehus,Kejsdalen 57,7130, Juelsminde,608000 ,15-06-1997,Alm. Salg,100,6080,3,1980,
-766,Ejerlejlighed,"Bredgade 5, 1",7160, Tørring,425000 ,15-06-1997,Alm. Salg,58,7328,3,1900,
 766,Villa,Hesselballevej 10,7171, Uldum,1743827 ,15-06-1997,Alm. Salg,284,6140,4,1900,
 766,Villa,Dybdalsvej 17,8783, Hornsyld,345000 ,15-06-1997,Alm. Salg,68,5074,3,1870,
 766,Villa,Barrit Langgade 185,7150, Barrit,510000 ,15-06-1997,Alm. Salg,114,4474,4,1946,
@@ -21520,7 +21387,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Årupvænget 47,8722, Hedensted,244420 ,07-02-1997,Alm. Salg,140,1746,5,1997,
 766,Villa,Aale Bygade 26,7160, Tørring,375000 ,07-02-1997,Alm. Salg,109,3440,6,1949,
 766,Villa,Hedebogade 5,8722, Hedensted,728000 ,07-02-1997,Alm. Salg,112,6500,3,1954,
-766,Villa,Aagade 2A,7160, Tørring,616005 ,07-02-1997,Alm. Salg,79,7798,3,2009,
 766,Villa,Skovparken 51,8722, Hedensted,1036000 ,05-02-1997,Alm. Salg,220,4709,8,1978,
 766,Villa,Bjerrevej 421,7130, Juelsminde,509000 ,05-02-1997,Alm. Salg,105,4848,3,1900,
 766,Villa,Lindegårdsvej 2,7130, Juelsminde,3150000 ,04-02-1997,Alm. Salg,273,11538,11,1863,
@@ -21585,12 +21451,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Marsvej 10,8723, Løsning,484500 ,13-01-1997,Fam. Salg,132,3670,5,1976,
 766,Villa,Birkevej 20,7100, Vejle,782000 ,12-01-1997,Alm. Salg,150,5213,6,1972,
 766,Villa,Gl Landevej 13,7100, Vejle,692000 ,12-01-1997,Alm. Salg,182,3802,6,1936,
-766,Ejerlejlighed,"Ny Skolegade 2A, st",8723, Løsning,290000 ,11-01-1997,Fam. Salg,93,3118,3,1914,
-766,Ejerlejlighed,"Ny Skolegade 2A, 1",8723, Løsning,290000 ,11-01-1997,Fam. Salg,83,3494,3,1914,
-766,Ejerlejlighed,"Vestergade 23B, 1",8723, Løsning,290000 ,11-01-1997,Fam. Salg,70,4143,4,1914,
-766,Ejerlejlighed,"Vestergade 23B, st",8723, Løsning,290000 ,11-01-1997,Fam. Salg,64,4531,2,1914,
-766,Ejerlejlighed,"Ny Skolegade 2B, st",8723, Løsning,290000 ,11-01-1997,Fam. Salg,71,4085,3,1914,
-766,Ejerlejlighed,"Vestergade 23A, st",8723, Løsning,290000 ,11-01-1997,Fam. Salg,92,3152,4,1914,
 766,Villa,Trekanten 1,8723, Løsning,919000 ,11-01-1997,Alm. Salg,130,7069,4,1964,
 766,Villa,Brædstrupvej 35,7160, Tørring,105877 ,09-01-1997,Alm. Salg,91,1163,2,1920,
 766,Villa,Honum Skovvej 24,8763, Rask Mølle,2060000 ,09-01-1997,Alm. Salg,268,7687,5,2008,
@@ -21984,8 +21844,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Købmagergade 4,7160, Tørring,640000 ,13-08-1996,Fam. Salg,128,5000,4,1959,
 766,Villa,Hornsyldvej 10B,7140, Stouby,775000 ,13-08-1996,Alm. Salg,369,2100,11,1900,
 766,Rækkehus,Kærvænget 22A,8722, Hedensted,410000 ,12-08-1996,Alm. Salg,107,3832,5,1988,
-766,Ejerlejlighed,"Wedelsgade 7, st",7130, Juelsminde,751000 ,12-08-1996,Alm. Salg,76,9882,3,1912,
-766,Ejerlejlighed,"Juelsgade 7, 1",7130, Juelsminde,751000 ,12-08-1996,Alm. Salg,88,8534,2,1912,
 766,Villa,Bygade 3A,7160, Tørring,480000 ,12-08-1996,Alm. Salg,205,2341,6,1909,
 766,Villa,Horsensvej 8,7171, Uldum,600000 ,12-08-1996,Alm. Salg,208,2885,8,1910,
 766,Villa,Rørkærvej 54,8722, Hedensted,983500 ,12-08-1996,Alm. Salg,128,7684,5,1988,
@@ -22578,14 +22436,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Lilleskoven 57,8722, Hedensted,188000 ,21-01-1996,Alm. Salg,100,1880,3,1996,
 766,Villa,Snaptunvej 51,7130, Juelsminde,274000 ,19-01-1996,Alm. Salg,190,1442,7,1954,
 766,Villa,Overbygård 51,7160, Tørring,802000 ,17-01-1996,Alm. Salg,126,6365,5,1986,
-766,Ejerlejlighed,Nørrebrogade 18A,8722, Hedensted,928491 ,16-01-1996,Alm. Salg,98,9474,4,1997,
-766,Ejerlejlighed,Nørrebrogade 18B,8722, Hedensted,928491 ,16-01-1996,Alm. Salg,72,12896,3,1997,
-766,Ejerlejlighed,Nørrebrogade 18D,8722, Hedensted,928491 ,16-01-1996,Alm. Salg,51,18206,2,1997,
-766,Ejerlejlighed,Nørrebrogade 18C,8722, Hedensted,928491 ,16-01-1996,Alm. Salg,55,16882,3,1997,
-766,Ejerlejlighed,Bredgade 9A,8722, Hedensted,928491 ,16-01-1996,Alm. Salg,68,13654,2,1997,
-766,Ejerlejlighed,Bredgade 9C,8722, Hedensted,928491 ,16-01-1996,Alm. Salg,76,12217,3,1997,
-766,Ejerlejlighed,Bredgade 9B,8722, Hedensted,928491 ,16-01-1996,Alm. Salg,79,11753,2,1997,
-766,Ejerlejlighed,Nørrebrogade 18E,8722, Hedensted,928491 ,16-01-1996,Alm. Salg,92,10092,2,1997,
 766,Villa,Gartnervænget 35,7130, Juelsminde,578000 ,15-01-1996,Alm. Salg,170,3400,7,1977,
 766,Villa,Rugvænget 1,7130, Juelsminde,655720 ,15-01-1996,Alm. Salg,164,3998,5,2021,
 766,Villa,Brund Strandvej 3,7130, Juelsminde,120000 ,15-01-1996,Alm. Salg,195,615,8,1806,
@@ -22625,12 +22475,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Fasanparken 26,7130, Juelsminde,715000 ,20-12-1995,Alm. Salg,136,5257,4,1979,
 766,Villa,Skanderborgvej 53,7171, Uldum,565000 ,20-12-1995,Alm. Salg,114,4956,5,1900,
 766,Villa,Blæsbjergvej 3,7150, Barrit,388000 ,20-12-1995,Alm. Salg,110,3527,4,1887,
-766,Ejerlejlighed,"Wedelsgade 14, 1. th",7130, Juelsminde,1250000 ,19-12-1995,Andet,64,19531,2,1900,
-766,Ejerlejlighed,"Wedelsgade 14, 2. th",7130, Juelsminde,1250000 ,19-12-1995,Andet,62,20161,2,1900,
-766,Ejerlejlighed,"Wedelsgade 14, 1. tv",7130, Juelsminde,1250000 ,19-12-1995,Andet,83,15060,3,1900,
-766,Ejerlejlighed,"Wedelsgade 14, 2. tv",7130, Juelsminde,1250000 ,19-12-1995,Andet,78,16026,2,1900,
-766,Ejerlejlighed,"Wedelsgade 14, st. tv",7130, Juelsminde,1250000 ,19-12-1995,Andet,87,14368,3,1900,
-766,Ejerlejlighed,Juelsgade 10,7130, Juelsminde,1250000 ,19-12-1995,Andet,85,14706,2,1900,
 766,Villa,Stouby Kirkevej 7,7140, Stouby,340000 ,19-12-1995,Alm. Salg,194,1753,7,1902,
 766,Villa,Toften 1,7130, Juelsminde,732000 ,19-12-1995,Alm. Salg,191,3832,7,1971,
 766,Villa,Sneppevej 52,8723, Løsning,805000 ,19-12-1995,Alm. Salg,128,6289,5,1986,
@@ -22755,8 +22599,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Uldumvej 4,7160, Tørring,450000 ,30-10-1995,Alm. Salg,156,2885,7,1924,
 766,Villa,Bellisvej 1,8763, Rask Mølle,605000 ,30-10-1995,Alm. Salg,125,4840,3,1967,
 766,Villa,Møllersmindevej 37,8763, Rask Mølle,200000 ,30-10-1995,Alm. Salg,205,976,4,1998,
-766,Rækkehus,"Bredgade 5, st",7160, Tørring,375000 ,29-10-1995,Alm. Salg,112,3348,5,1900,
-766,Ejerlejlighed,"Bredgade 5, 1",7160, Tørring,375000 ,29-10-1995,Alm. Salg,58,6466,3,1900,
 766,Villa,Aldumvej 4,8722, Hedensted,290000 ,29-10-1995,Alm. Salg,227,1278,9,1949,
 766,Villa,Klejs Møllevej 7,7130, Juelsminde,435000 ,29-10-1995,Alm. Salg,120,3625,4,1969,
 766,Villa,Barrit Langgade 82,7150, Barrit,410000 ,29-10-1995,Alm. Salg,90,4556,5,1907,
@@ -22852,7 +22694,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Østerskovvej 4,8722, Hedensted,390000 ,25-09-1995,Alm. Salg,152,2566,4,1917,
 766,Villa,Sneppevej 96,8723, Løsning,716500 ,25-09-1995,Alm. Salg,104,6889,4,1986,
 766,Villa,Årupparken 16,8722, Hedensted,166600 ,25-09-1995,Alm. Salg,155,1075,5,1996,
-766,Villa,Aagade 2A,7160, Tørring,465000 ,25-09-1995,Alm. Salg,79,5886,3,2009,
 766,Villa,Søkjær 12,7130, Juelsminde,769168 ,24-09-1995,Fam. Salg,172,4472,5,1993,
 766,Villa,Neder Bjerrevej 5,8783, Hornsyld,390000 ,24-09-1995,Alm. Salg,105,3714,4,1960,
 766,Villa,Åbrinken 49,7171, Uldum,675000 ,24-09-1995,Alm. Salg,144,4688,5,1977,
@@ -23019,8 +22860,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Kaubækvej 7,8783, Hornsyld,419716 ,06-08-1995,Alm. Salg,101,4156,5,1976,
 766,Villa,Lærkevej 1,8781, Stenderup,520000 ,06-08-1995,Alm. Salg,347,1499,6,1917,
 766,Villa,Fogedvænget 44,8722, Hedensted,425000 ,05-08-1995,Alm. Salg,167,2545,6,1980,
-766,Rækkehus,Hestehaven 7,8721, Daugård,220000 ,04-08-1995,Alm. Salg,90,2444,3,0,
-766,Villa,Hestehaven 7,8721, Daugård,220000 ,04-08-1995,Alm. Salg,82,2683,4,1835,
 766,Rækkehus,Ny Skolegade 10,8723, Løsning,184133 ,03-08-1995,Alm. Salg,116,1587,4,1960,
 766,Villa,Bankagervej 34,8723, Løsning,53360 ,02-08-1995,Alm. Salg,116,460,4,1996,
 766,Villa,Stevnsvej 12,7140, Stouby,475000 ,02-08-1995,Alm. Salg,129,3682,5,1968,
@@ -23087,7 +22926,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Østrupvej 37,7130, Juelsminde,100000 ,04-07-1995,Alm. Salg,147,680,5,1885,
 766,Villa,Stourupvej 15,7130, Juelsminde,365000 ,04-07-1995,Alm. Salg,150,2433,4,1940,
 766,Villa,Søndergade 23,7171, Uldum,310000 ,04-07-1995,Alm. Salg,263,990,10,1908,
-766,Villa,Fasanparken 6,7130, Juelsminde,650000 ,04-07-1995,Alm. Salg,135,4815,4,1980,
 766,Villa,Bakkesvinget 14A,8723, Løsning,445000 ,04-07-1995,Alm. Salg,127,3504,5,1969,
 766,Villa,Vejlevej 20,7160, Tørring,490000 ,04-07-1995,Alm. Salg,126,3889,5,1934,
 766,Rækkehus,Havnegade 5,7130, Juelsminde,590401 ,03-07-1995,Alm. Salg,82,7200,4,1983,
@@ -23195,14 +23033,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Ravnholtvej 31,7130, Juelsminde,430199 ,22-05-1995,Andet,167,2576,7,1940,
 766,Villa,Mosegade 9,8722, Hedensted,415000 ,22-05-1995,Alm. Salg,92,4511,4,1963,
 766,Villa,Fyrrelunden 8,7130, Juelsminde,645700 ,22-05-1995,Alm. Salg,152,4248,4,1974,
-766,Rækkehus,Østerenden 2C,8762, Flemming,1058000 ,21-05-1995,Alm. Salg,64,16531,2,1955,
-766,Ejerlejlighed,"Østerenden 2B, st. tv",8762, Flemming,1058000 ,21-05-1995,Alm. Salg,99,10687,3,1955,
 766,Ejerlejlighed,"Bredgade 20, 1",7160, Tørring,460000 ,21-05-1995,Alm. Salg,50,9200,2,1906,
-766,Ejerlejlighed,"Østerenden 2A, 1",8762, Flemming,1058000 ,21-05-1995,Alm. Salg,102,10373,3,1955,
-766,Ejerlejlighed,"Østerenden 2B, st. th",8762, Flemming,1058000 ,21-05-1995,Alm. Salg,60,17633,2,1955,
-766,Ejerlejlighed,"Hornborgvej 8B, st",8762, Flemming,1058000 ,21-05-1995,Alm. Salg,62,17065,2,1955,
-766,Ejerlejlighed,"Hornborgvej 8A, st",8762, Flemming,1058000 ,21-05-1995,Alm. Salg,72,14694,2,1955,
-766,Ejerlejlighed,"Hornborgvej 6A, 1",8762, Flemming,1058000 ,21-05-1995,Alm. Salg,57,18561,2,1955,
 766,Villa,Ravnholtvej 3,7130, Juelsminde,897000 ,21-05-1995,Alm. Salg,160,5606,8,1876,
 766,Villa,Bjerrevej 299,8783, Hornsyld,537500 ,21-05-1995,Fam. Salg,187,2874,6,1931,
 766,Villa,Vejlevej 5,7160, Tørring,407000 ,21-05-1995,Alm. Salg,147,2769,5,1930,
@@ -23216,7 +23047,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Hvirringvej 23,8762, Flemming,815000 ,16-05-1995,Alm. Salg,142,5739,4,1900,
 766,Villa,Vestergade 16,7140, Stouby,815000 ,16-05-1995,Alm. Salg,196,4158,5,1947,
 766,Villa,Fjordvej 13,7130, Juelsminde,515000 ,15-05-1995,Alm. Salg,175,2943,6,1968,
-766,Villa,Barrit Langgade 193D,7150, Barrit,320158 ,15-05-1995,Fam. Salg,50,6403,1,1976,
 766,Villa,Lilleskoven 44,8722, Hedensted,190000 ,15-05-1995,Alm. Salg,168,1131,5,1995,
 766,Rækkehus,Kejsdalen 89,7130, Juelsminde,227020 ,14-05-1995,Fam. Salg,75,3027,3,1981,
 766,Villa,Skrædderbakken 3,7171, Uldum,193000 ,14-05-1995,Alm. Salg,142,1359,6,1860,
@@ -24103,13 +23933,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Toftevej 7,8723, Løsning,400000 ,17-05-1994,Alm. Salg,96,4167,4,1956,
 766,Villa,Årupparken 44,8722, Hedensted,162750 ,16-05-1994,Alm. Salg,148,1100,5,1996,
 766,Rækkehus,Hustedgårdvej 48,8722, Hedensted,490000 ,15-05-1994,Alm. Salg,86,5698,3,1983,
-766,Rækkehus,Østerenden 2C,8762, Flemming,825000 ,15-05-1994,Auktion,64,12891,2,1955,
-766,Ejerlejlighed,"Østerenden 2B, st. tv",8762, Flemming,825000 ,15-05-1994,Auktion,99,8333,3,1955,
-766,Ejerlejlighed,"Østerenden 2A, 1",8762, Flemming,825000 ,15-05-1994,Auktion,102,8088,3,1955,
-766,Ejerlejlighed,"Østerenden 2B, st. th",8762, Flemming,825000 ,15-05-1994,Auktion,60,13750,2,1955,
-766,Ejerlejlighed,"Hornborgvej 8B, st",8762, Flemming,825000 ,15-05-1994,Auktion,62,13306,2,1955,
-766,Ejerlejlighed,"Hornborgvej 8A, st",8762, Flemming,825000 ,15-05-1994,Auktion,72,11458,2,1955,
-766,Ejerlejlighed,"Hornborgvej 6A, 1",8762, Flemming,825000 ,15-05-1994,Auktion,57,14474,2,1955,
 766,Villa,Rommes Ager 1,7100, Vejle,814804 ,15-05-1994,Alm. Salg,126,6467,6,1990,
 766,Villa,Tønballevej 1A,7130, Juelsminde,1290000 ,15-05-1994,Alm. Salg,162,7963,6,1850,
 766,Villa,Lindvedvej 25,8723, Løsning,267028 ,15-05-1994,Alm. Salg,101,2644,5,1920,
@@ -24301,8 +24124,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Hedenstedvej 18,8781, Stenderup,335000 ,04-03-1994,Alm. Salg,156,2147,4,1899,
 766,Villa,Blæsbjergvej 22,8722, Hedensted,380000 ,04-03-1994,Alm. Salg,106,3585,4,1955,
 766,Villa,Kirkedalsvej 1,7130, Juelsminde,385000 ,04-03-1994,Alm. Salg,146,2637,6,1922,
-766,Ejerlejlighed,"Østergade 8, kl",8723, Løsning,475000 ,03-03-1994,Alm. Salg,48,9896,1,1916,
-766,Villa,Østergade 8,8723, Løsning,475000 ,03-03-1994,Alm. Salg,112,4241,4,1916,
 766,Villa,Lilleskoven 28,8722, Hedensted,171500 ,03-03-1994,Alm. Salg,153,1121,5,1994,
 766,Villa,Hornborgvej 15,8762, Flemming,400000 ,03-03-1994,Alm. Salg,240,1667,11,1900,
 766,Villa,Marsvej 35,8723, Løsning,641950 ,03-03-1994,Alm. Salg,156,4115,5,1977,
@@ -24385,8 +24206,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Gl Landevej 39,7100, Vejle,90568 ,26-01-1994,Alm. Salg,208,435,7,1830,
 766,Villa,Præstebrovej 1,8722, Hedensted,455346 ,26-01-1994,Alm. Salg,199,2288,6,1907,
 766,Villa,Gl Landevej 60,7100, Vejle,565000 ,25-01-1994,Alm. Salg,160,3531,5,1973,
-766,Ejerlejlighed,"Wedelsgade 7, st",7130, Juelsminde,730000 ,24-01-1994,Alm. Salg,76,9605,3,1912,
-766,Ejerlejlighed,"Juelsgade 7, 1",7130, Juelsminde,730000 ,24-01-1994,Alm. Salg,88,8295,2,1912,
 766,Villa,Præstelunden 8,8722, Hedensted,563000 ,24-01-1994,Alm. Salg,108,5213,4,1968,
 766,Villa,Hedenstedvej 40,8781, Stenderup,180000 ,24-01-1994,Auktion,145,1241,5,1930,
 766,Villa,Hvolgårdsvej 34,7160, Tørring,475000 ,24-01-1994,Alm. Salg,120,3958,5,1830,
@@ -24482,8 +24301,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Saturnvej 3,8723, Løsning,695000 ,05-12-1993,Alm. Salg,163,4264,5,1977,
 766,Villa,Bøgballevej 39,7171, Uldum,545000 ,05-12-1993,Alm. Salg,249,2189,10,1871,
 766,Villa,Bråskovvej 70,8783, Hornsyld,400000 ,03-12-1993,Alm. Salg,200,2000,8,1917,
-766,Ejerlejlighed,"Bredalvej 63B, 1",8722, Hedensted,756630 ,02-12-1993,Alm. Salg,78,9700,3,1908,
-766,Villa,Bredalvej 63A,8722, Hedensted,756630 ,02-12-1993,Alm. Salg,168,4504,7,1908,
 766,Villa,Vejlevej 17,7130, Juelsminde,289000 ,02-12-1993,Fam. Salg,186,1554,9,1939,
 766,Villa,Hedenstedvej 12,8723, Løsning,520000 ,02-12-1993,Alm. Salg,114,4561,4,1956,
 766,Rækkehus,Moseparken 21,8722, Hedensted,509448 ,01-12-1993,Alm. Salg,77,6616,3,1984,
@@ -24926,7 +24743,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Skovhusevej 44,8723, Løsning,40000 ,27-05-1993,Alm. Salg,106,377,4,1827,
 766,Villa,Østerbrogade 34,8722, Hedensted,520000 ,27-05-1993,Alm. Salg,154,3377,5,1911,
 766,Villa,Sneppevej 74,8723, Løsning,890000 ,27-05-1993,Alm. Salg,151,5894,6,1987,
-766,Villa,Syrenvej 9,8722, Hedensted,195000 ,27-05-1993,Alm. Salg,121,1612,5,1957,
 766,Villa,Købmagervej 7,7130, Juelsminde,375000 ,27-05-1993,Alm. Salg,121,3099,6,1924,
 766,Rækkehus,Toftevej 10B,7130, Juelsminde,400000 ,26-05-1993,Alm. Salg,62,6452,2,1985,
 766,Villa,Bisholt Strandvej 4,7130, Juelsminde,671030 ,26-05-1993,Alm. Salg,170,3947,6,1942,
@@ -25580,7 +25396,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Marsvej 21,8723, Løsning,400000 ,20-05-1992,Alm. Salg,111,3604,4,1976,
 766,Villa,Spettrupvej 32,8722, Hedensted,515000 ,20-05-1992,Alm. Salg,172,2994,5,1877,
 766,Villa,Marsvej 47,8723, Løsning,510000 ,20-05-1992,Alm. Salg,127,4016,5,1977,
-766,Villa,Havnegade 3. o-g,7130, Juelsminde,500500 ,20-05-1992,Alm. Salg,60,8342,2,1900,
 766,Villa,Spurvevej 40,7160, Tørring,94320 ,19-05-1992,Alm. Salg,126,749,5,1993,
 766,Villa,Svalevej 3,7160, Tørring,510000 ,18-05-1992,Alm. Salg,114,4474,4,1972,
 766,Villa,Rørkærvej 38,8722, Hedensted,895000 ,18-05-1992,Alm. Salg,156,5737,5,1987,
@@ -25632,14 +25447,12 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 766,Villa,Ringvænget 16,8722, Hedensted,806000 ,28-04-1992,Alm. Salg,157,5134,4,1972,
 766,Villa,Moseparken 4,8722, Hedensted,537177 ,28-04-1992,Alm. Salg,110,4883,4,1985,
 766,Villa,J P Nielsens Vej 33,7160, Tørring,450000 ,27-04-1992,Fam. Salg,167,2695,6,1965,
-766,Rækkehus,Hestehaven 7,8721, Daugård,130000 ,26-04-1992,Alm. Salg,90,1444,3,0,
 766,Villa,Vesterled 3,7171, Uldum,210000 ,26-04-1992,Alm. Salg,131,1603,5,1920,
 766,Villa,Langagervej 20,7171, Uldum,625000 ,26-04-1992,Fam. Salg,191,3272,7,1900,
 766,Villa,Ølholm Bygade 49A,7160, Tørring,1325000 ,26-04-1992,Alm. Salg,308,4302,7,1934,
 766,Villa,Rosenvænget 14,7171, Uldum,395000 ,26-04-1992,Auktion,171,2310,6,1976,
 766,Villa,Vejlevej 14,7160, Tørring,307500 ,26-04-1992,Alm. Salg,182,1690,6,1934,
 766,Villa,Bøgevej 10,7160, Tørring,182700 ,26-04-1992,Fam. Salg,140,1305,4,1977,
-766,Villa,Hestehaven 7,8721, Daugård,130000 ,26-04-1992,Alm. Salg,82,1585,4,1835,
 766,Villa,Rosenvoldvej 11,7140, Stouby,135000 ,25-04-1992,Alm. Salg,188,718,6,1997,
 766,Villa,Mettelundvej 11,7100, Vejle,475000 ,24-04-1992,Alm. Salg,141,3369,4,1942,
 766,Villa,Møllevej 21,8783, Hornsyld,500000 ,23-04-1992,Alm. Salg,226,2212,6,1904,

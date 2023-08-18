@@ -48,8 +48,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Skagerraksvej 8,9700, Brønderslev,1825000 ,17-11-2022,Alm. Salg,178,10253,6,1980,-4%
 810,Villa,Irisvej 4,9330, Dronninglund,680000 ,16-11-2022,Alm. Salg,136,5000,3,1966,-20%
 810,Villa,Rosenvængets Alle 15,9700, Brønderslev,1170000 ,16-11-2022,Alm. Salg,134,8731,4,1933,-2%
-810,Ejerlejlighed,V Thorupvej 15,9330, Dronninglund,800000 ,15-11-2022,Auktion,108,7407,3,1936,
-810,Villa,V Thorupvej 15,9330, Dronninglund,800000 ,15-11-2022,Auktion,218,3670,8,1950,
 810,Villa,Jasminvej 6,9700, Brønderslev,800000 ,14-11-2022,Alm. Salg,174,4598,5,1969,-11%
 810,Villa,Vermundsgade 12,9700, Brønderslev,1397500 ,10-11-2022,Alm. Salg,124,11270,4,1966,-3%
 810,Villa,Ø Hassingvej 21,9330, Dronninglund,1495000 ,09-11-2022,Alm. Salg,180,8306,6,1934,
@@ -130,7 +128,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Lærkevej 107,9700, Brønderslev,500000 ,14-09-2022,Alm. Salg,122,4098,4,1900,-16%
 810,Villa,Tusbrovej 12,9330, Dronninglund,1150000 ,13-09-2022,Alm. Salg,192,5990,4,0,
 810,Villa,Valmuevej 8,9740, Jerslev J,55000 ,13-09-2022,Auktion,120,458,3,1975,
-810,Villa,Fynsgade 83,9700, Brønderslev,470000 ,12-09-2022,Alm. Salg,190,2474,5,1966,-27%
 810,Villa,Peter Heises Kvarter 37,9700, Brønderslev,2530000 ,11-09-2022,Alm. Salg,184,13750,6,2001,-8%
 810,Villa,Bogfinkevej 17,9700, Brønderslev,500000 ,11-09-2022,Alm. Salg,129,3226,4,1897,6%
 810,Villa,Kattegatsvej 4,9700, Brønderslev,1015000 ,09-09-2022,Alm. Salg,115,8826,3,1979,
@@ -207,7 +204,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Gravensgade 55,9700, Brønderslev,1200000 ,26-07-2022,Alm. Salg,196,6122,8,1900,-7%
 810,Villa,Stationsvej 21,9330, Dronninglund,800000 ,26-07-2022,Alm. Salg,154,5195,5,1910,-6%
 810,Villa,Allerupvej 25,9320, Hjallerup,890000 ,25-07-2022,Alm. Salg,142,6268,5,1930,-5%
-810,Villa,Multebærvej 14A,9330, Dronninglund,520000 ,25-07-2022,Alm. Salg,60,8667,3,1935,
 810,Villa,Rosenvængets Alle 66,9700, Brønderslev,1200000 ,24-07-2022,Fam. Salg,145,8276,5,1964,
 810,Villa,Bredgade 136,9700, Brønderslev,627000 ,21-07-2022,Alm. Salg,42,14929,2,1937,-10%
 810,Ejerlejlighed,Søhedenvej 10A,9740, Jerslev J,180000 ,20-07-2022,Alm. Salg,135,1333,2,1930,
@@ -504,8 +500,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Ålborgvej 648,9330, Dronninglund,445000 ,19-01-2022,Alm. Salg,123,3618,4,1944,-1%
 810,Villa,Sønderkærvej 7,9330, Dronninglund,1395000 ,19-01-2022,Alm. Salg,185,7541,5,1900,
 810,Rækkehus,Otto Mallings Kvarter 5,9700, Brønderslev,920000 ,18-01-2022,Alm. Salg,103,8932,4,1987,-6%
-810,Rækkehus,Søndergade 55B,9700, Brønderslev,725000 ,17-01-2022,Alm. Salg,118,6144,5,1962,-9%
-810,Villa,Søndergade 55A,9700, Brønderslev,725000 ,17-01-2022,Alm. Salg,99,7323,3,1962,-9%
 810,Villa,Blomstervænget 26,9320, Hjallerup,1225000 ,17-01-2022,Alm. Salg,155,7903,6,1976,-5%
 810,Villa,Ingemannsgade 26,9700, Brønderslev,941500 ,17-01-2022,Alm. Salg,115,8187,4,1962,
 810,Villa,Frederiksgade 75,9700, Brønderslev,1150000 ,17-01-2022,Alm. Salg,125,9200,3,1962,
@@ -763,11 +757,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Fasanvej 71,9700, Brønderslev,1750000 ,07-09-2021,Alm. Salg,145,12069,5,1967,-3%
 810,Villa,Multebærvej 32,9330, Dronninglund,690000 ,07-09-2021,Alm. Salg,91,7582,3,1930,-8%
 810,Villa,Skagensvej 152,9700, Brønderslev,2985000 ,07-09-2021,Alm. Salg,214,13949,6,2007,-4%
-810,Villa,Nørregade 17A,9330, Dronninglund,3500000 ,07-09-2021,Alm. Salg,182,19231,4,1898,
 810,Villa,Strandvænget 3,9340, Asaa,900000 ,05-09-2021,Alm. Salg,132,6818,4,1973,-10%
 810,Villa,Jyllandsgade 31,9700, Brønderslev,1380000 ,05-09-2021,Alm. Salg,79,17468,3,1963,-1%
 810,Villa,Skelbakken 56,9320, Hjallerup,2725000 ,05-09-2021,Alm. Salg,142,19190,6,2018,-2%
-810,Villa,Nørregade 17A,9330, Dronninglund,651000 ,05-09-2021,Alm. Salg,182,3577,4,1898,
 810,Villa,Horsevadvej 135,9740, Jerslev J,80000 ,04-09-2021,Fam. Salg,176,455,6,2022,
 810,Villa,Tennisskoven 25,9320, Hjallerup,3109100 ,04-09-2021,Alm. Salg,165,18843,5,2021,
 810,Rækkehus,Irisvej 17A,9330, Dronninglund,1495000 ,03-09-2021,Alm. Salg,96,15573,4,2009,
@@ -855,7 +847,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Codansvej 5,9700, Brønderslev,1075000 ,17-07-2021,Alm. Salg,141,7624,5,1969,-10%
 810,Villa,Hvilshøj Mark 125,9700, Brønderslev,3550000 ,17-07-2021,Alm. Salg,248,14315,8,2018,2%
 810,Villa,Snerlevej 5,9320, Hjallerup,755000 ,15-07-2021,Alm. Salg,117,6453,4,1945,
-810,Villa,Markedsvej 39,9700, Brønderslev,550000 ,15-07-2021,Alm. Salg,116,4741,5,1880,
 810,Villa,Vestergade 132,9700, Brønderslev,360000 ,15-07-2021,Alm. Salg,76,4737,3,1942,-23%
 810,Villa,Bytoften 30,9330, Dronninglund,1350000 ,14-07-2021,Alm. Salg,155,8710,6,1986,-2%
 810,Villa,Svendsgade 3,9700, Brønderslev,945000 ,14-07-2021,Alm. Salg,88,10739,3,1957,
@@ -878,10 +869,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Sitkavej 3,9320, Hjallerup,850000 ,03-07-2021,Fam. Salg,144,5903,6,1972,
 810,Villa,Ø Mølle 7,9330, Dronninglund,10000000 ,01-07-2021,Alm. Salg,355,28169,5,1997,-2%
 810,Villa,Ådalen 325,9700, Brønderslev,3900000 ,01-07-2021,Alm. Salg,194,20103,5,2007,3%
-810,Villa,"Algade 121A, st",9700, Brønderslev,2100000 ,01-07-2021,Alm. Salg,154,13636,5,1978,-8%
 810,Villa,Tulipanhaven 50,9330, Dronninglund,425000 ,01-07-2021,Alm. Salg,194,2191,5,2022,
 810,Villa,Tulipanhaven 4,9330, Dronninglund,498000 ,01-07-2021,Alm. Salg,165,3018,6,2022,
-810,Ejerlejlighed,Hjørnevej 7. 3,9340, Asaa,280000 ,30-06-2021,Alm. Salg,72,3889,2,1942,
 810,Villa,Sølvgade 37,9700, Brønderslev,125000 ,30-06-2021,Alm. Salg,98,1276,4,1952,
 810,Villa,Peter Heises Kvarter 38,9700, Brønderslev,2135000 ,29-06-2021,Alm. Salg,179,11927,6,1998,-3%
 810,Villa,Solvangsvej 61,9700, Brønderslev,1900000 ,29-06-2021,Alm. Salg,145,13103,5,1973,0%
@@ -1078,7 +1067,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Rosenvængets Alle 36,9700, Brønderslev,1275000 ,13-04-2021,Alm. Salg,102,12500,3,1961,-2%
 810,Villa,Solparken 66,9330, Dronninglund,1221660 ,13-04-2021,Alm. Salg,138,8853,4,1970,2%
 810,Villa,Svalevej 5,9330, Dronninglund,1550000 ,13-04-2021,Alm. Salg,210,7381,6,1966,-3%
-810,Villa,Elmevej 73,9700, Brønderslev,995000 ,13-04-2021,Alm. Salg,225,4422,6,1877,
 810,Villa,Emil Reesens Kvarter 6,9700, Brønderslev,1560000 ,13-04-2021,Alm. Salg,148,10541,6,1980,-2%
 810,Rækkehus,Åvænget 12,9340, Asaa,350000 ,12-04-2021,Alm. Salg,54,6481,2,1977,-18%
 810,Villa,Tryvej 5,9320, Hjallerup,1200000 ,12-04-2021,Alm. Salg,223,5381,5,2022,
@@ -1181,12 +1169,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Bollegade 40,9330, Dronninglund,550000 ,21-02-2021,Alm. Salg,152,3618,6,1729,-8%
 810,Villa,Ådalen 81,9700, Brønderslev,2810000 ,21-02-2021,Alm. Salg,178,15787,3,2007,1%
 810,Villa,Åleje 16,9340, Asaa,3250000 ,19-02-2021,Alm. Salg,172,18895,3,2009,
-810,Ejerlejlighed,"Slotsgade 54, st",9330, Dronninglund,1503600 ,18-02-2021,Fam. Salg,51,29482,2,1893,
 810,Villa,Algade 16,9320, Hjallerup,1625000 ,18-02-2021,Alm. Salg,183,8880,5,1924,-4%
 810,Villa,Bredgade 170,9700, Brønderslev,550000 ,18-02-2021,Alm. Salg,95,5789,4,1949,
 810,Villa,Danmarksgade 10,9700, Brønderslev,2100000 ,18-02-2021,Alm. Salg,167,12575,5,1945,
 810,Villa,Søndergade 28,9320, Hjallerup,650000 ,18-02-2021,Alm. Salg,130,5000,5,1915,-18%
-810,Villa,"Slotsgade 54, 1",9330, Dronninglund,1503600 ,18-02-2021,Fam. Salg,79,19033,2,1893,
 810,Villa,Risagergade 8,9700, Brønderslev,1135000 ,18-02-2021,Alm. Salg,114,9956,4,1952,-5%
 810,Villa,Ådalen 385,9700, Brønderslev,4300000 ,18-02-2021,Alm. Salg,283,15194,6,2013,-8%
 810,Villa,Markedsbakken 12,9320, Hjallerup,767650 ,18-02-2021,Alm. Salg,211,3638,5,2022,
@@ -1257,7 +1243,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Frilandsvej 5,9700, Brønderslev,1040000 ,26-01-2021,Alm. Salg,157,6624,5,1974,-13%
 810,Villa,Bundgarnsvej 7,9340, Asaa,678000 ,26-01-2021,Alm. Salg,200,3390,6,1907,-3%
 810,Villa,Emil Reesens Kvarter 2,9700, Brønderslev,1410000 ,26-01-2021,Alm. Salg,126,11190,4,1980,-3%
-810,Villa,Parkvej 22,9700, Brønderslev,560000 ,25-01-2021,Alm. Salg,105,5333,3,2021,
 810,Villa,Niels Juels Vej 46,9340, Asaa,600000 ,25-01-2021,Alm. Salg,115,5217,4,1980,
 810,Villa,Falkevej 8,9700, Brønderslev,1445000 ,25-01-2021,Alm. Salg,178,8118,5,1973,-2%
 810,Villa,Frederiksgade 84,9700, Brønderslev,1500000 ,25-01-2021,Alm. Salg,147,10204,5,1961,-3%
@@ -1316,11 +1301,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Kongensgade 19,9320, Hjallerup,1460000 ,17-12-2020,Alm. Salg,104,14038,3,1965,-2%
 810,Villa,Parallelvej 1,9700, Brønderslev,1525000 ,16-12-2020,Alm. Salg,121,12603,5,1905,-1%
 810,Villa,Skippergade 24,9340, Asaa,975000 ,15-12-2020,Alm. Salg,170,5735,5,1952,-2%
-810,Ejerlejlighed,Heibergsgade 7,9700, Brønderslev,1550000 ,14-12-2020,Alm. Salg,45,34444,1,1938,
-810,Ejerlejlighed,"Kingosgade 1, 1. th",9700, Brønderslev,1550000 ,14-12-2020,Alm. Salg,57,27193,2,1938,
-810,Ejerlejlighed,"Kingosgade 1, 1. tv",9700, Brønderslev,1550000 ,14-12-2020,Alm. Salg,63,24603,3,1938,
-810,Ejerlejlighed,"Kingosgade 1, st. tv",9700, Brønderslev,1550000 ,14-12-2020,Alm. Salg,55,28182,2,1938,
-810,Ejerlejlighed,"Kingosgade 1, st. th",9700, Brønderslev,1550000 ,14-12-2020,Alm. Salg,65,23846,4,1938,
 810,Villa,Hybenvej 8,9700, Brønderslev,325000 ,14-12-2020,Alm. Salg,142,2289,4,1900,-45%
 810,Villa,Asgård 74,9700, Brønderslev,1260000 ,14-12-2020,Alm. Salg,142,8873,5,1977,-3%
 810,Villa,Smalbyvej 24,9700, Brønderslev,750000 ,14-12-2020,Alm. Salg,140,5357,5,1959,-16%
@@ -1371,7 +1351,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Bredningen 199,9700, Brønderslev,745000 ,12-11-2020,Alm. Salg,137,5438,6,1950,-7%
 810,Villa,Fasanvej 65,9700, Brønderslev,1100000 ,12-11-2020,Fam. Salg,115,9565,5,1967,
 810,Villa,Margrethevej 18,9320, Hjallerup,1100000 ,12-11-2020,Alm. Salg,146,7534,6,1967,
-810,Villa,Vestergade 40,9320, Hjallerup,775000 ,12-11-2020,Alm. Salg,90,8611,3,1950,
 810,Villa,Heimdalsvej 13,9700, Brønderslev,3061000 ,12-11-2020,Alm. Salg,216,14171,9,1970,-1%
 810,Villa,Ådalen 161,9700, Brønderslev,715700 ,11-11-2020,Alm. Salg,212,3376,6,2021,
 810,Ejerlejlighed,"Grønnegade 41, st",9700, Brønderslev,2500000 ,10-11-2020,Alm. Salg,85,29412,3,1953,
@@ -1424,7 +1403,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Abelsgade 14,9700, Brønderslev,2095000 ,18-10-2020,Alm. Salg,180,11639,6,1966,
 810,Villa,Skjoldsgade 7,9700, Brønderslev,1150000 ,18-10-2020,Alm. Salg,149,7718,3,1968,-4%
 810,Villa,Birkagervej 9,9740, Jerslev J,675000 ,18-10-2020,Alm. Salg,136,4963,5,1972,-9%
-810,Villa,Markedsvej 39,9700, Brønderslev,400000 ,18-10-2020,Alm. Salg,116,3448,5,1880,-11%
 810,Villa,Bøgevangen 71,9330, Dronninglund,735000 ,18-10-2020,Alm. Salg,120,6125,4,1975,-8%
 810,Villa,Hedevigsvej 7,9330, Dronninglund,1350000 ,18-10-2020,Alm. Salg,161,8385,5,1980,-10%
 810,Villa,Borgergade 43,9320, Hjallerup,400910 ,17-10-2020,Alm. Salg,117,3427,3,1969,
@@ -1447,8 +1425,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Skelgårdsvej 79,9340, Asaa,325000 ,07-10-2020,Alm. Salg,101,3218,5,1900,
 810,Villa,Holbergsgade 10,9700, Brønderslev,1065000 ,07-10-2020,Alm. Salg,87,12241,5,1948,-5%
 810,Villa,Margrethevej 3,9320, Hjallerup,1960000 ,07-10-2020,Alm. Salg,148,13243,3,1970,-2%
-810,Rækkehus,Lundagervej 2A,9330, Dronninglund,2078089 ,06-10-2020,Andet,116,17915,4,1903,
-810,Ejerlejlighed,"Nørregade 11, 1",9330, Dronninglund,2078089 ,06-10-2020,Andet,93,22345,4,1903,
 810,Villa,Dårbakvej 1,9740, Jerslev J,900000 ,06-10-2020,Fam. Salg,219,4110,5,2013,
 810,Villa,Tennisskoven 89,9320, Hjallerup,3500000 ,05-10-2020,Alm. Salg,186,18817,6,2017,-5%
 810,Villa,Violvej 7,9320, Hjallerup,1615000 ,04-10-2020,Alm. Salg,151,10695,3,1967,-2%
@@ -1672,7 +1648,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Rækkehus,Gadekæret 9,9330, Dronninglund,595500 ,28-05-2020,Alm. Salg,72,8271,3,1981,0%
 810,Villa,Krogensgade 15,9700, Brønderslev,1475000 ,28-05-2020,Alm. Salg,157,9395,7,1938,-8%
 810,Villa,Gl Klæstrupvej 19A,9740, Jerslev J,800000 ,28-05-2020,Alm. Salg,119,6723,5,1902,-3%
-810,Villa,Vestergade 162,9700, Brønderslev,428000 ,28-05-2020,Andet,89,4809,3,1925,
 810,Villa,Mylundvej 85,9740, Jerslev J,325000 ,27-05-2020,Alm. Salg,160,2031,7,1923,-34%
 810,Villa,Enebærvej 24,9330, Dronninglund,2075000 ,26-05-2020,Alm. Salg,159,13050,6,1996,-5%
 810,Villa,Bryggerivej 56,9700, Brønderslev,875000 ,26-05-2020,Alm. Salg,129,6783,5,1907,-5%
@@ -1749,7 +1724,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Rækkehus,Åvænget 6,9340, Asaa,200000 ,14-04-2020,Alm. Salg,54,3704,2,1977,-11%
 810,Villa,Heimdalsvej 7,9700, Brønderslev,2510000 ,14-04-2020,Alm. Salg,210,11952,6,1968,-3%
 810,Villa,Skovbrynet 57,9330, Dronninglund,1445000 ,14-04-2020,Alm. Salg,211,6848,7,1976,-3%
-810,Villa,Fasanvej 56,9700, Brønderslev,1800000 ,13-04-2020,Alm. Salg,130,13846,7,1906,
 810,Villa,Anne-Marievej 5,9740, Jerslev J,225000 ,13-04-2020,Alm. Salg,128,1758,4,1957,-18%
 810,Villa,Valdemarsvej 11,9320, Hjallerup,2995000 ,13-04-2020,Alm. Salg,172,17413,5,2018,-9%
 810,Villa,Strandvejen 296,9340, Asaa,395000 ,08-04-2020,Alm. Salg,96,4115,4,1934,-7%
@@ -1965,7 +1939,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Irisvej 5,9740, Jerslev J,145000 ,17-11-2019,Auktion,144,1007,4,1935,-41%
 810,Villa,Svinehavevej 8,9330, Dronninglund,305000 ,14-11-2019,Alm. Salg,160,1906,5,1928,-12%
 810,Villa,Filholmvej 59,9700, Brønderslev,180000 ,12-11-2019,Alm. Salg,177,1017,8,1928,
-810,Villa,Stengade 2,9320, Hjallerup,5795263 ,11-11-2019,Andet,177,32742,4,1974,
 810,Villa,Fredensgade 17,9700, Brønderslev,1795000 ,11-11-2019,Alm. Salg,135,13296,5,1927,
 810,Rækkehus,Multebærvej 21,9330, Dronninglund,300000 ,10-11-2019,Alm. Salg,75,4000,3,1985,
 810,Ejerlejlighed,"Grønnegade 41, st",9700, Brønderslev,2500000 ,10-11-2019,Alm. Salg,85,29412,3,1953,
@@ -1975,12 +1948,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Hegely 16,9320, Hjallerup,803121 ,10-11-2019,Alm. Salg,126,6374,5,1997,
 810,Villa,Lyøgade 7,9740, Jerslev J,206824 ,10-11-2019,Alm. Salg,181,1143,6,2020,
 810,Ejerlejlighed,"Nørregade 3, 1",9330, Dronninglund,887500 ,09-11-2019,Alm. Salg,140,6339,5,1907,
-810,Ejerlejlighed,Geråvej 1,9330, Dronninglund,3187500 ,09-11-2019,Alm. Salg,92,34647,2,1931,
-810,Ejerlejlighed,"Slotsgade 90, st. tv",9330, Dronninglund,3187500 ,09-11-2019,Alm. Salg,81,39352,2,1931,
-810,Ejerlejlighed,"Slotsgade 90, 1. th",9330, Dronninglund,3187500 ,09-11-2019,Alm. Salg,92,34647,3,1931,
-810,Ejerlejlighed,"Slotsgade 90, 2. th",9330, Dronninglund,3187500 ,09-11-2019,Alm. Salg,73,43664,3,1931,
-810,Ejerlejlighed,"Slotsgade 90, 2. tv",9330, Dronninglund,3187500 ,09-11-2019,Alm. Salg,65,49038,3,1931,
-810,Ejerlejlighed,"Slotsgade 90, 1. tv",9330, Dronninglund,3187500 ,09-11-2019,Alm. Salg,81,39352,3,1931,
 810,Villa,Strandvejen 336,9340, Asaa,595000 ,07-11-2019,Fam. Salg,178,3343,5,1969,
 810,Villa,Moltkesvej 78,9330, Dronninglund,2990000 ,07-11-2019,Alm. Salg,203,14729,6,2012,-5%
 810,Villa,Møllegade 9,9320, Hjallerup,1275000 ,05-11-2019,Alm. Salg,140,9107,4,1902,-9%
@@ -2016,19 +1983,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Smalbyvej 50,9700, Brønderslev,1550000 ,20-10-2019,Alm. Salg,145,10690,6,1948,-3%
 810,Villa,Ørumvej 6,9700, Brønderslev,270000 ,20-10-2019,Auktion,115,2348,3,1972,
 810,Ejerlejlighed,"Skippergade 4, st",9340, Asaa,200000 ,19-10-2019,Alm. Salg,116,1724,3,1909,
-810,Ejerlejlighed,"Fredensgade 1A, 2. 1",9330, Dronninglund,2800000 ,17-10-2019,Alm. Salg,113,24779,3,1950,
-810,Ejerlejlighed,Strømgade 2A,9330, Dronninglund,2800000 ,17-10-2019,Alm. Salg,134,20896,4,1950,
-810,Ejerlejlighed,Strømgade 2B,9330, Dronninglund,2800000 ,17-10-2019,Alm. Salg,132,21212,5,1950,
-810,Ejerlejlighed,Strømgade 2C,9330, Dronninglund,2800000 ,17-10-2019,Alm. Salg,166,16867,5,1950,
-810,Ejerlejlighed,Strømgade 2D,9330, Dronninglund,2800000 ,17-10-2019,Alm. Salg,149,18792,5,1950,
-810,Ejerlejlighed,Fredensgade 1B,9330, Dronninglund,2800000 ,17-10-2019,Alm. Salg,81,34568,3,1950,
-810,Ejerlejlighed,"Fredensgade 1A, 2. 2",9330, Dronninglund,2800000 ,17-10-2019,Alm. Salg,92,30435,2,1950,
-810,Ejerlejlighed,Fredensgade 1D,9330, Dronninglund,2800000 ,17-10-2019,Alm. Salg,68,41176,2,1950,
-810,Ejerlejlighed,"Fredensgade 1A, 1. 2",9330, Dronninglund,2800000 ,17-10-2019,Alm. Salg,83,33735,3,1950,
-810,Ejerlejlighed,Fredensgade 1C,9330, Dronninglund,2800000 ,17-10-2019,Alm. Salg,68,41176,3,1950,
-810,Ejerlejlighed,"Fredensgade 1A, 1. 1",9330, Dronninglund,2800000 ,17-10-2019,Alm. Salg,84,33333,3,1950,
-810,Ejerlejlighed,"Fredensgade 1A, 2. 3",9330, Dronninglund,2800000 ,17-10-2019,Alm. Salg,118,23729,4,1950,
-810,Ejerlejlighed,Fredensgade 1E,9330, Dronninglund,2800000 ,17-10-2019,Alm. Salg,78,35897,2,1950,
 810,Villa,Kastanievej 11,9700, Brønderslev,1150000 ,16-10-2019,Alm. Salg,205,5610,5,1920,
 810,Villa,Agnetevej 12,9740, Jerslev J,45000 ,15-10-2019,Alm. Salg,122,369,5,1927,
 810,Villa,Gerå Engvej 5,9340, Asaa,210000 ,15-10-2019,Alm. Salg,84,2500,3,1961,
@@ -2209,7 +2163,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Vanggårdsvej 29,9700, Brønderslev,3350000 ,25-06-2019,Fam. Salg,112,29911,3,1934,
 810,Villa,Kjølskevej 10,9700, Brønderslev,550000 ,25-06-2019,Alm. Salg,118,4661,5,1955,-8%
 810,Villa,Sommervænget 30,9700, Brønderslev,995000 ,25-06-2019,Fam. Salg,176,5653,6,1995,
-810,Villa,Vestergade 162,9700, Brønderslev,420000 ,25-06-2019,Alm. Salg,89,4719,3,1925,
 810,Villa,Vibevej 8,9330, Dronninglund,840000 ,25-06-2019,Alm. Salg,314,2675,6,1991,
 810,Rækkehus,Vestergade 41,9320, Hjallerup,33649769 ,24-06-2019,Alm. Salg,102,329900,2,1910,
 810,Villa,Multebærvej 30,9330, Dronninglund,1795000 ,24-06-2019,Alm. Salg,107,16776,4,1969,
@@ -2252,7 +2205,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Enebærvej 8,9700, Brønderslev,420000 ,28-05-2019,Alm. Salg,125,3360,4,1964,-13%
 810,Villa,Åglimt 5,9340, Asaa,695000 ,28-05-2019,Alm. Salg,131,5305,6,1936,
 810,Villa,Tennisskoven 69,9320, Hjallerup,1775000 ,28-05-2019,Alm. Salg,128,13867,4,2008,-6%
-810,Villa,Vestergade 46,9320, Hjallerup,400000 ,28-05-2019,Alm. Salg,92,4348,3,1965,
 810,Villa,Fredensgade 2,9330, Dronninglund,945000 ,27-05-2019,Alm. Salg,90,10500,4,1950,
 810,Villa,Solparken 36,9330, Dronninglund,1587500 ,26-05-2019,Alm. Salg,197,8058,6,1974,-5%
 810,Villa,Mads Ledetsvej 2,9700, Brønderslev,300000 ,25-05-2019,Alm. Salg,100,3000,4,1930,-24%
@@ -2301,8 +2253,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Rævdalslunden 60,9330, Dronninglund,350000 ,26-04-2019,Alm. Salg,164,2134,5,2020,
 810,Villa,Astersvej 5,9330, Dronninglund,710000 ,25-04-2019,Alm. Salg,120,5917,4,1954,-16%
 810,Villa,Kongensgade 7,9700, Brønderslev,1725000 ,24-04-2019,Alm. Salg,156,11058,7,1976,-9%
-810,Rækkehus,Skolegade 22,9700, Brønderslev,666000 ,23-04-2019,Alm. Salg,63,10571,2,1908,
-810,Ejerlejlighed,Skolegade 24,9700, Brønderslev,666000 ,23-04-2019,Alm. Salg,57,11684,2,1908,
 810,Villa,Pontoppidansgade 13,9700, Brønderslev,1230000 ,23-04-2019,Alm. Salg,143,8601,4,1973,-12%
 810,Villa,Oscarsvej 2,9320, Hjallerup,1825000 ,23-04-2019,Alm. Salg,145,12586,5,1973,-4%
 810,Villa,Døvlingvej 1,9700, Brønderslev,1280000 ,21-04-2019,Alm. Salg,128,10000,4,1947,-2%
@@ -2394,10 +2344,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Rævdalslunden 64,9330, Dronninglund,379600 ,18-02-2019,Alm. Salg,175,2169,6,2019,
 810,Villa,Søndermarken 36,9320, Hjallerup,1325000 ,17-02-2019,Alm. Salg,130,10192,4,1976,-5%
 810,Villa,Østermarken 319,9320, Hjallerup,705000 ,17-02-2019,Alm. Salg,197,3579,7,2019,
-810,Ejerlejlighed,St Blichersgade 41,9700, Brønderslev,1440000 ,14-02-2019,Alm. Salg,111,12973,4,1934,
-810,Ejerlejlighed,"Algade 125, 1",9700, Brønderslev,1440000 ,14-02-2019,Alm. Salg,87,16552,3,1934,
-810,Ejerlejlighed,"St Blichersgade 39, 1",9700, Brønderslev,1440000 ,14-02-2019,Alm. Salg,85,16941,2,1934,
-810,Ejerlejlighed,"Algade 125, st",9700, Brønderslev,1440000 ,14-02-2019,Alm. Salg,77,18701,4,1934,
 810,Villa,Østermarken 315,9320, Hjallerup,695000 ,14-02-2019,Alm. Salg,183,3798,6,2022,
 810,Villa,Skovtoften 1,9700, Brønderslev,1665000 ,13-02-2019,Alm. Salg,117,14231,4,2003,-7%
 810,Villa,Konvalvej 4,9330, Dronninglund,1285000 ,12-02-2019,Alm. Salg,141,9113,5,1972,-7%
@@ -2465,7 +2411,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Kongensgade 26,9700, Brønderslev,1920000 ,28-12-2018,Alm. Salg,263,7300,6,1937,-4%
 810,Villa,Ørsøvej 6,9330, Dronninglund,1500000 ,27-12-2018,Alm. Salg,133,11278,4,1953,-6%
 810,Villa,Østermarken 325,9320, Hjallerup,760000 ,20-12-2018,Alm. Salg,180,4222,5,2021,
-810,Villa,Stengade 2,9320, Hjallerup,3804135 ,19-12-2018,Andet,177,21492,4,1974,
 810,Villa,Søndermarken 21,9320, Hjallerup,1325000 ,19-12-2018,Alm. Salg,138,9601,4,1976,-1%
 810,Villa,Jomsborgvej 3,9740, Jerslev J,401000 ,19-12-2018,Alm. Salg,127,3157,4,1925,1%
 810,Villa,Palægade 30,9740, Jerslev J,390000 ,18-12-2018,Alm. Salg,162,2407,7,1922,-21%
@@ -2559,8 +2504,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Ålborgvej 675,9330, Dronninglund,264000 ,28-10-2018,Auktion,96,2750,3,1680,
 810,Villa,Asåvej 18,9330, Dronninglund,1200000 ,27-10-2018,Alm. Salg,123,9756,4,1890,-7%
 810,Villa,Søparken 15,9320, Hjallerup,1050000 ,25-10-2018,Alm. Salg,133,7895,4,1980,-4%
-810,Rækkehus,Nørregade 13A,9330, Dronninglund,1300000 ,24-10-2018,Alm. Salg,44,29545,2,1969,
-810,Ejerlejlighed,"Nørregade 13, 1",9330, Dronninglund,1300000 ,24-10-2018,Alm. Salg,138,9420,5,1900,
 810,Villa,Rævdalslunden 90,9330, Dronninglund,2700000 ,24-10-2018,Alm. Salg,171,15789,5,2013,-3%
 810,Villa,Jerslevvej 485,9740, Jerslev J,2150000 ,23-10-2018,Alm. Salg,222,9685,8,1940,-6%
 810,Villa,Saltumvej 331,9700, Brønderslev,275000 ,22-10-2018,Alm. Salg,100,2750,4,1878,-7%
@@ -2644,7 +2587,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Strandvejen 250,9340, Asaa,107000 ,11-09-2018,Auktion,100,1070,3,1954,
 810,Villa,Rødkælkevej 2,9700, Brønderslev,1900000 ,11-09-2018,Alm. Salg,175,10857,5,2004,
 810,Villa,Teglværksvej 12,9700, Brønderslev,200000 ,11-09-2018,Alm. Salg,84,2381,3,1932,-55%
-810,Villa,Ravnstrupvej 38,9320, Hjallerup,24900000 ,10-09-2018,Alm. Salg,140,177857,4,1974,-8%
 810,Villa,Malurtvej 21,9330, Dronninglund,1920000 ,10-09-2018,Alm. Salg,160,12000,4,2004,-4%
 810,Villa,Sommervænget 24,9700, Brønderslev,750000 ,10-09-2018,Alm. Salg,94,7979,4,1985,
 810,Villa,Bogfinkevej 24,9700, Brønderslev,400000 ,10-09-2018,Alm. Salg,69,5797,2,1925,-9%
@@ -2693,41 +2635,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Skagerraksvej 7,9700, Brønderslev,1200000 ,15-08-2018,Alm. Salg,111,10811,5,1982,-7%
 810,Ejerlejlighed,"Spindergården 5, st. th",9700, Brønderslev,700000 ,14-08-2018,Alm. Salg,78,8974,3,1926,-6%
 810,Villa,Lindenovsvej 81,9330, Dronninglund,310000 ,14-08-2018,Alm. Salg,170,1824,6,2018,-11%
-810,Ejerlejlighed,"Nørregade 91, st. th",9700, Brønderslev,15600000 ,13-08-2018,Andet,74,210811,2,1947,
-810,Ejerlejlighed,"Nørregade 91, 1. th",9700, Brønderslev,15600000 ,13-08-2018,Andet,75,208000,3,1947,
-810,Ejerlejlighed,"Nørregade 91, st. tv",9700, Brønderslev,15600000 ,13-08-2018,Andet,86,181395,2,1947,
-810,Ejerlejlighed,"Nørregade 91, 1. tv",9700, Brønderslev,15600000 ,13-08-2018,Andet,71,219718,2,1947,
-810,Ejerlejlighed,"Nørregade 91, 2. th",9700, Brønderslev,15600000 ,13-08-2018,Andet,145,107586,4,1947,
-810,Ejerlejlighed,"Nørregade 91, 2. tv",9700, Brønderslev,15600000 ,13-08-2018,Andet,86,181395,2,1947,
-810,Ejerlejlighed,"Nørregade 93, st. 1",9700, Brønderslev,15600000 ,13-08-2018,Andet,56,278571,2,1947,
-810,Ejerlejlighed,"Nørregade 93, st. 2",9700, Brønderslev,15600000 ,13-08-2018,Andet,56,278571,2,1947,
-810,Ejerlejlighed,"Nørregade 95, 2. tv",9700, Brønderslev,15600000 ,13-08-2018,Andet,159,98113,3,1947,
-810,Ejerlejlighed,"Nørregade 93, st. 4",9700, Brønderslev,15600000 ,13-08-2018,Andet,57,273684,2,1947,
-810,Ejerlejlighed,"Nørregade 93, st. 3",9700, Brønderslev,15600000 ,13-08-2018,Andet,55,283636,2,1947,
-810,Ejerlejlighed,"Nørregade 93, 1. 2",9700, Brønderslev,15600000 ,13-08-2018,Andet,55,283636,2,1947,
-810,Ejerlejlighed,"Nørregade 93, 1. 1",9700, Brønderslev,15600000 ,13-08-2018,Andet,57,273684,2,1947,
-810,Ejerlejlighed,"Nørregade 93, 1. 4",9700, Brønderslev,15600000 ,13-08-2018,Andet,57,273684,2,1947,
-810,Ejerlejlighed,"Nørregade 93, 1. 3",9700, Brønderslev,15600000 ,13-08-2018,Andet,55,283636,2,1947,
-810,Ejerlejlighed,"Nørregade 95, st. th",9700, Brønderslev,15600000 ,13-08-2018,Andet,70,222857,2,1947,
-810,Ejerlejlighed,"Nørregade 95, st. tv",9700, Brønderslev,15600000 ,13-08-2018,Andet,76,205263,2,1947,
-810,Ejerlejlighed,"Nørregade 95, 1. tv",9700, Brønderslev,15600000 ,13-08-2018,Andet,76,205263,2,1947,
-810,Ejerlejlighed,"Nørregade 95, 1. th",9700, Brønderslev,15600000 ,13-08-2018,Andet,70,222857,2,1947,
-810,Ejerlejlighed,"Nørregade 95, 2. th",9700, Brønderslev,15600000 ,13-08-2018,Andet,91,171429,3,1947,
-810,Ejerlejlighed,"Tolstrupvej 5, 1. 5",9700, Brønderslev,15600000 ,13-08-2018,Andet,116,134483,3,2019,
-810,Ejerlejlighed,Tolstrupvej 3,9700, Brønderslev,15600000 ,13-08-2018,Andet,115,135652,3,2019,
-810,Ejerlejlighed,"Tolstrupvej 5, 2. 3",9700, Brønderslev,15600000 ,13-08-2018,Andet,115,135652,3,2019,
-810,Ejerlejlighed,"Tolstrupvej 5, 1. 1",9700, Brønderslev,15600000 ,13-08-2018,Andet,116,134483,3,2019,
-810,Ejerlejlighed,"Tolstrupvej 5, 2. 1",9700, Brønderslev,15600000 ,13-08-2018,Andet,116,134483,3,2019,
-810,Ejerlejlighed,Tolstrupvej 7,9700, Brønderslev,15600000 ,13-08-2018,Andet,115,135652,3,2019,
-810,Ejerlejlighed,"Tolstrupvej 5, 2. 2",9700, Brønderslev,15600000 ,13-08-2018,Andet,115,135652,3,2019,
-810,Ejerlejlighed,"Tolstrupvej 5, 1. 4",9700, Brønderslev,15600000 ,13-08-2018,Andet,115,135652,3,2019,
-810,Ejerlejlighed,"Tolstrupvej 5, 1. 3",9700, Brønderslev,15600000 ,13-08-2018,Andet,115,135652,3,2019,
-810,Ejerlejlighed,Tolstrupvej 11,9700, Brønderslev,15600000 ,13-08-2018,Andet,116,134483,3,2019,
-810,Ejerlejlighed,"Tolstrupvej 5, 2. 5",9700, Brønderslev,15600000 ,13-08-2018,Andet,116,134483,3,2019,
-810,Ejerlejlighed,"Tolstrupvej 5, 1. 2",9700, Brønderslev,15600000 ,13-08-2018,Andet,115,135652,3,2019,
-810,Ejerlejlighed,Tolstrupvej 9,9700, Brønderslev,15600000 ,13-08-2018,Andet,115,135652,3,2019,
-810,Ejerlejlighed,Tolstrupvej 1,9700, Brønderslev,15600000 ,13-08-2018,Andet,116,134483,3,2019,
-810,Ejerlejlighed,"Tolstrupvej 5, 2. 4",9700, Brønderslev,15600000 ,13-08-2018,Andet,115,135652,3,2019,
 810,Villa,Svendsgade 6,9700, Brønderslev,785000 ,12-08-2018,Alm. Salg,170,4618,5,2019,
 810,Villa,Ærøgade 42,9740, Jerslev J,1825000 ,12-08-2018,Alm. Salg,256,7129,9,2007,-9%
 810,Villa,Nibstrupvej 87,9700, Brønderslev,3000000 ,10-08-2018,Alm. Salg,253,11858,8,1941,
@@ -2779,7 +2686,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Rævdalslunden 98,9330, Dronninglund,247525 ,04-07-2018,Alm. Salg,209,1184,5,2021,
 810,Rækkehus,Vestskoven 57,9700, Brønderslev,1295000 ,03-07-2018,Alm. Salg,95,13632,2,2000,-2%
 810,Villa,Hybenvej 10,9700, Brønderslev,960000 ,03-07-2018,Alm. Salg,138,6957,5,1878,-4%
-810,Villa,Bellisvej 1,9330, Dronninglund,1000000 ,03-07-2018,Alm. Salg,65,15385,2,1900,
 810,Villa,Tolstrupvej 56,9700, Brønderslev,600000 ,03-07-2018,Alm. Salg,140,4286,3,1944,-7%
 810,Villa,Ålborgvej 621,9330, Dronninglund,820000 ,03-07-2018,Alm. Salg,173,4740,6,1910,
 810,Villa,Skelbakken 78,9320, Hjallerup,610778 ,03-07-2018,Alm. Salg,215,2841,7,2019,
@@ -2796,9 +2702,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Søhedenvej 80,9750, Østervrå,300000 ,28-06-2018,Alm. Salg,101,2970,4,1930,
 810,Villa,Rosavej 5,9740, Jerslev J,485000 ,28-06-2018,Alm. Salg,187,2594,7,1967,-18%
 810,Rækkehus,Vintervænget 21,9700, Brønderslev,265000 ,27-06-2018,Alm. Salg,80,3313,2,1942,
-810,Ejerlejlighed,"Algade 79, 1",9700, Brønderslev,1460000 ,27-06-2018,Alm. Salg,80,18250,2,1956,
-810,Ejerlejlighed,"Algade 79, st",9700, Brønderslev,1460000 ,27-06-2018,Alm. Salg,78,18718,2,1956,
-810,Ejerlejlighed,Skolegade 1,9700, Brønderslev,1460000 ,27-06-2018,Alm. Salg,76,19211,2,1956,
 810,Villa,Lykkevej 6,9320, Hjallerup,725576 ,27-06-2018,Andet,211,3439,7,1978,
 810,Villa,Hegely 172,9320, Hjallerup,2095000 ,26-06-2018,Alm. Salg,156,13429,5,1997,
 810,Villa,Skippergade 25,9340, Asaa,175000 ,26-06-2018,Alm. Salg,149,1174,5,1886,
@@ -2932,11 +2835,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Tonnismarken 29,9340, Asaa,355000 ,10-04-2018,Alm. Salg,122,2910,4,1966,-5%
 810,Villa,Saltumvej 319,9700, Brønderslev,125000 ,10-04-2018,Alm. Salg,109,1147,4,1905,
 810,Villa,Ådalen 22,9700, Brønderslev,628796 ,09-04-2018,Alm. Salg,203,3098,7,2022,12%
-810,Ejerlejlighed,"Vestergade 48, st. th",9700, Brønderslev,2700000 ,08-04-2018,Auktion,68,39706,3,1934,
-810,Ejerlejlighed,"Vestergade 48, 1. th",9700, Brønderslev,2700000 ,08-04-2018,Auktion,68,39706,3,1934,
-810,Ejerlejlighed,"Vestergade 48, st. tv",9700, Brønderslev,2700000 ,08-04-2018,Auktion,68,39706,3,1934,
-810,Ejerlejlighed,"Vestergade 48, 1. tv",9700, Brønderslev,2700000 ,08-04-2018,Auktion,68,39706,3,1934,
-810,Ejerlejlighed,Øster Alle 1,9700, Brønderslev,2700000 ,08-04-2018,Auktion,98,27551,3,1934,
 810,Villa,Søndermarken 31,9320, Hjallerup,582564 ,08-04-2018,Alm. Salg,116,5022,5,1975,
 810,Villa,Solvangsvej 53,9700, Brønderslev,900000 ,08-04-2018,Alm. Salg,135,6667,5,1968,-5%
 810,Villa,Ådalen 1,9700, Brønderslev,462796 ,08-04-2018,Alm. Salg,120,3857,3,2018,-81%
@@ -2989,7 +2887,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Nørregade 28,9330, Dronninglund,1925000 ,08-03-2018,Alm. Salg,120,16042,5,1932,
 810,Villa,Frederiksgade 95,9700, Brønderslev,850000 ,08-03-2018,Alm. Salg,126,6746,5,1966,-11%
 810,Villa,Frejasvej 31,9700, Brønderslev,900000 ,08-03-2018,Alm. Salg,147,6122,4,1969,-5%
-810,Villa,Vestergade 40,9320, Hjallerup,735000 ,07-03-2018,Alm. Salg,90,8167,3,1950,
 810,Villa,Stadionvej 1,9330, Dronninglund,395000 ,06-03-2018,Alm. Salg,100,3950,3,1942,
 810,Villa,Gøgens Vænge 24,9700, Brønderslev,1340000 ,05-03-2018,Alm. Salg,120,11167,4,1978,-4%
 810,Villa,Søparken 1,9320, Hjallerup,1325000 ,04-03-2018,Alm. Salg,181,7320,4,1978,
@@ -3058,7 +2955,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Porsevej 6,9330, Dronninglund,1795000 ,22-01-2018,Alm. Salg,172,10436,7,1968,-5%
 810,Villa,Lindenovsvej 81,9330, Dronninglund,300000 ,22-01-2018,Alm. Salg,170,1765,6,2018,
 810,Villa,Nobilisvej 4B,9320, Hjallerup,1038500 ,19-01-2018,Andet,145,7162,3,2005,
-810,Villa,Jyllandsgade 23E,9700, Brønderslev,1000000 ,19-01-2018,Alm. Salg,100,10000,4,2018,
 810,Villa,Åleje 21,9340, Asaa,770676 ,18-01-2018,Alm. Salg,185,4166,6,1999,
 810,Villa,Østermarken 28,9320, Hjallerup,2125000 ,17-01-2018,Alm. Salg,159,13365,6,1995,
 810,Villa,Kærbyvej 7,9330, Dronninglund,1200000 ,16-01-2018,Alm. Salg,100,12000,4,1950,-4%
@@ -3143,7 +3039,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Hallingsvej 4,9330, Dronninglund,805000 ,21-11-2017,Alm. Salg,80,10063,3,1955,-5%
 810,Villa,Nordsøvej 10,9700, Brønderslev,1320000 ,21-11-2017,Alm. Salg,135,9778,5,1985,-12%
 810,Villa,Ingemannsgade 39,9700, Brønderslev,820000 ,20-11-2017,Alm. Salg,111,7387,4,1967,-3%
-810,Rækkehus,Store Bouetvej 5,9340, Asaa,125000 ,19-11-2017,Alm. Salg,160,781,4,1932,
 810,Villa,Kroggårdsvej 31,9700, Brønderslev,150000 ,19-11-2017,Auktion,257,584,8,1878,-25%
 810,Villa,Gravensgade 3,9320, Hjallerup,600000 ,18-11-2017,Alm. Salg,146,4110,7,1925,-43%
 810,Villa,Klæstrupvej 70,9740, Jerslev J,365200 ,16-11-2017,Alm. Salg,97,3765,2,1848,
@@ -3193,7 +3088,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Sæbyvej 19,9340, Asaa,300000 ,25-10-2017,Alm. Salg,121,2479,3,1955,-38%
 810,Villa,Stokbrogade 6,9700, Brønderslev,990000 ,23-10-2017,Alm. Salg,102,9706,3,1965,-10%
 810,Villa,Malurtvej 25,9330, Dronninglund,1525000 ,23-10-2017,Alm. Salg,135,11296,3,2003,-3%
-810,Villa,Vestergade 40,9320, Hjallerup,600000 ,23-10-2017,Alm. Salg,90,6667,3,1950,-14%
 810,Villa,I P Hartmanns Kvarter 4,9700, Brønderslev,539063 ,23-10-2017,Alm. Salg,143,3770,5,1979,
 810,Villa,Elmevej 24,9700, Brønderslev,965000 ,22-10-2017,Alm. Salg,106,9104,4,1947,-3%
 810,Villa,Markedsvej 94,9700, Brønderslev,1190000 ,22-10-2017,Alm. Salg,115,10348,4,1964,-4%
@@ -3269,11 +3163,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Voldgade 23,9740, Jerslev J,550000 ,12-09-2017,Alm. Salg,124,4435,4,1959,-15%
 810,Villa,Præstbrovej 36,9330, Dronninglund,500000 ,12-09-2017,Alm. Salg,183,2732,6,1903,-8%
 810,Villa,Jyllandsgade 11,9700, Brønderslev,2095000 ,12-09-2017,Alm. Salg,130,16115,4,1972,
-810,Ejerlejlighed,"Skippergade 2, st. th",9340, Asaa,2050000 ,11-09-2017,Alm. Salg,76,26974,2,1920,
-810,Ejerlejlighed,"Skippergade 2, 1. th",9340, Asaa,2050000 ,11-09-2017,Alm. Salg,57,35965,2,1920,
-810,Ejerlejlighed,"Skippergade 2, st. tv",9340, Asaa,2050000 ,11-09-2017,Alm. Salg,57,35965,2,1920,
-810,Ejerlejlighed,"Skippergade 2, 1. tv",9340, Asaa,2050000 ,11-09-2017,Alm. Salg,96,21354,2,1920,
-810,Ejerlejlighed,Bolværksvej 1A,9340, Asaa,2050000 ,11-09-2017,Alm. Salg,89,23034,2,1920,
 810,Villa,Konvalvej 1,9330, Dronninglund,1326000 ,11-09-2017,Alm. Salg,164,8085,5,1970,2%
 810,Villa,Lyøgade 8,9740, Jerslev J,2300000 ,11-09-2017,Alm. Salg,346,6647,8,2009,-8%
 810,Villa,August Ennas Kvarter 5,9700, Brønderslev,1475000 ,10-09-2017,Alm. Salg,131,11260,5,1982,
@@ -3594,8 +3483,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Solvangsvej 49,9700, Brønderslev,915000 ,13-02-2017,Alm. Salg,128,7148,5,1967,-8%
 810,Villa,Slåenvej 10,9330, Dronninglund,1455000 ,13-02-2017,Alm. Salg,136,10699,5,1970,-3%
 810,Villa,Hjallerup Engvej 11,9320, Hjallerup,10000 ,11-02-2017,Alm. Salg,106,94,3,1931,
-810,Ejerlejlighed,"Dannebrogsgade 2, st",9700, Brønderslev,2400000 ,09-02-2017,Alm. Salg,119,20168,2,1899,
-810,Ejerlejlighed,"Bredgade 71, st",9700, Brønderslev,2400000 ,09-02-2017,Alm. Salg,119,20168,4,1899,
 810,Villa,Stadevej 141,9700, Brønderslev,2300000 ,08-02-2017,Alm. Salg,185,12432,5,1910,-8%
 810,Rækkehus,Irisvej 7B,9330, Dronninglund,590000 ,06-02-2017,Alm. Salg,66,8939,2,1980,-15%
 810,Villa,Olufsgade 63,9700, Brønderslev,1750000 ,02-02-2017,Fam. Salg,222,7883,6,2015,
@@ -3744,7 +3631,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Skovvej 22,9330, Dronninglund,1195000 ,19-10-2016,Alm. Salg,107,11168,4,1962,
 810,Villa,Ørstedsvej 19,9700, Brønderslev,760000 ,18-10-2016,Alm. Salg,130,5846,3,1964,-11%
 810,Villa,Gartnervej 9,9320, Hjallerup,1625000 ,18-10-2016,Alm. Salg,124,13105,5,1999,-4%
-810,Villa,Gutenbergvej 16,9330, Dronninglund,650000 ,17-10-2016,Alm. Salg,81,8025,4,1983,-6%
 810,Villa,Stokbrogade 3,9700, Brønderslev,1000000 ,17-10-2016,Fam. Salg,100,10000,5,1948,
 810,Villa,Sommervænget 26,9700, Brønderslev,975000 ,17-10-2016,Alm. Salg,94,10372,4,1985,-2%
 810,Rækkehus,Nørre Alle 13,9700, Brønderslev,690000 ,13-10-2016,Alm. Salg,75,9200,3,1984,-1%
@@ -3821,7 +3707,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Ingeborg Skeels Vej 28,9330, Dronninglund,510000 ,29-08-2016,Alm. Salg,140,3643,8,1963,-6%
 810,Villa,Blomstervænget 27,9320, Hjallerup,775000 ,28-08-2016,Alm. Salg,106,7311,4,1972,-3%
 810,Villa,Bredgade 192,9700, Brønderslev,290000 ,27-08-2016,Alm. Salg,93,3118,4,1953,
-810,Rækkehus,Store Bouetvej 5,9340, Asaa,120000 ,25-08-2016,Alm. Salg,160,750,4,1932,
 810,Villa,Prinsensvej 7,9320, Hjallerup,1440000 ,25-08-2016,Alm. Salg,124,11613,4,1956,
 810,Villa,Drosselvej 4,9320, Hjallerup,1100000 ,24-08-2016,Alm. Salg,137,8029,5,1966,-8%
 810,Villa,Abelsgade 15,9700, Brønderslev,885000 ,23-08-2016,Alm. Salg,141,6277,5,1965,-6%
@@ -3964,7 +3849,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Rækkehus,Algade 13B,9320, Hjallerup,1400000 ,18-05-2016,Alm. Salg,118,11864,4,1980,
 810,Villa,Nibstrupvej 175,9700, Brønderslev,1210000 ,18-05-2016,Alm. Salg,192,6302,5,1903,-6%
 810,Villa,Knudsejevej 27,9352, Dybvad,25000 ,18-05-2016,Fam. Salg,54,463,3,1875,
-810,Villa,Jyllandsgade 23E,9700, Brønderslev,100000 ,17-05-2016,Alm. Salg,100,1000,4,2018,
 810,Villa,Vermundsgade 9,9700, Brønderslev,1750000 ,15-05-2016,Alm. Salg,162,9831,5,1967,-3%
 810,Villa,Søndermarken 45,9320, Hjallerup,1495000 ,12-05-2016,Alm. Salg,164,9116,5,1975,-6%
 810,Villa,Tennisskoven 101,9320, Hjallerup,3195000 ,12-05-2016,Alm. Salg,181,17652,5,2014,
@@ -4056,9 +3940,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Søndermarken 27,9320, Hjallerup,1560000 ,15-03-2016,Alm. Salg,196,7959,5,1975,-5%
 810,Villa,Elmevej 26,9700, Brønderslev,175000 ,15-03-2016,Alm. Salg,133,1316,5,1954,
 810,Villa,Nørrehaven 19,9320, Hjallerup,2400000 ,14-03-2016,Alm. Salg,188,12766,5,2003,-14%
-810,Ejerlejlighed,"Bredgade 193, 1",9700, Brønderslev,570000 ,13-03-2016,Alm. Salg,60,9500,3,1930,
 810,Villa,Steen Billes Vej 12,9340, Asaa,375000 ,13-03-2016,Auktion,134,2799,5,1974,-50%
-810,Villa,"Bredgade 193, st",9700, Brønderslev,570000 ,13-03-2016,Alm. Salg,78,7308,3,1930,
 810,Villa,Kronborgvej 5,9340, Asaa,620000 ,12-03-2016,Alm. Salg,108,5741,5,1977,
 810,Villa,Østergade 110,9700, Brønderslev,360000 ,10-03-2016,Alm. Salg,80,4500,3,1959,-39%
 810,Villa,Hallundvej 174,9700, Brønderslev,242020 ,09-03-2016,Alm. Salg,139,1741,4,1927,-49%
@@ -4105,12 +3987,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Havblik 9,9340, Asaa,650000 ,10-02-2016,Alm. Salg,165,3939,5,1981,-18%
 810,Villa,Jyllandsgade 53,9700, Brønderslev,550000 ,09-02-2016,Alm. Salg,93,5914,4,1953,-4%
 810,Rækkehus,Møllevangen 41,9320, Hjallerup,875000 ,08-02-2016,Alm. Salg,80,10938,3,1989,
-810,Ejerlejlighed,Algade 75,9700, Brønderslev,3450000 ,08-02-2016,Alm. Salg,100,34500,3,1877,
-810,Ejerlejlighed,"Tygelsgade 2B, 1",9700, Brønderslev,3450000 ,08-02-2016,Alm. Salg,100,34500,4,1877,
-810,Ejerlejlighed,"Tygelsgade 2A, 1",9700, Brønderslev,3450000 ,08-02-2016,Alm. Salg,100,34500,4,1877,
-810,Ejerlejlighed,"Tygelsgade 2C, 1",9700, Brønderslev,3450000 ,08-02-2016,Alm. Salg,94,36702,4,1877,
-810,Ejerlejlighed,"Tygelsgade 2D, st",9700, Brønderslev,3450000 ,08-02-2016,Alm. Salg,47,73404,2,1877,
-810,Ejerlejlighed,"Tygelsgade 2E, st",9700, Brønderslev,3450000 ,08-02-2016,Alm. Salg,33,104545,1,1877,
 810,Villa,Hyldevej 5,9700, Brønderslev,685000 ,07-02-2016,Alm. Salg,90,7611,3,1917,
 810,Villa,Bredgade 172,9700, Brønderslev,1285000 ,07-02-2016,Alm. Salg,148,8682,6,1936,-3%
 810,Villa,Solparken 58,9330, Dronninglund,482000 ,07-02-2016,Auktion,167,2886,7,1972,
@@ -4141,8 +4017,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Skansen 15,9320, Hjallerup,106400 ,10-01-2016,Auktion,135,788,4,1958,
 810,Villa,Bakkevej 9,9740, Jerslev J,537000 ,09-01-2016,Fam. Salg,134,4007,7,1890,
 810,Villa,Rævdalslunden 202,9330, Dronninglund,400000 ,07-01-2016,Alm. Salg,160,2500,6,2016,
-810,Rækkehus,Strandvejen 212A,9370, Hals,1375000 ,05-01-2016,Alm. Salg,51,26961,3,1937,-8%
-810,Villa,Strandvejen 212,9370, Hals,1375000 ,05-01-2016,Alm. Salg,204,6740,8,1937,-8%
 810,Villa,Kærsigvej 1,9320, Hjallerup,2100000 ,05-01-2016,Alm. Salg,137,15328,4,1924,-4%
 810,Villa,Sommervænget 9,9700, Brønderslev,580000 ,04-01-2016,Alm. Salg,87,6667,3,1958,-17%
 810,Villa,Asgård 70,9700, Brønderslev,975000 ,03-01-2016,Alm. Salg,119,8193,6,1977,-18%
@@ -4265,8 +4139,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Løkkenvej 185,9700, Brønderslev,262996 ,01-10-2015,Fam. Salg,93,2828,4,1925,
 810,Villa,Olufsgade 71,9700, Brønderslev,1375000 ,30-09-2015,Alm. Salg,167,8234,5,1972,-14%
 810,Villa,Elmevej 57,9700, Brønderslev,595000 ,29-09-2015,Alm. Salg,182,3269,6,1921,-1%
-810,Rækkehus,Tjørnevej 18,9330, Dronninglund,850000 ,28-09-2015,Alm. Salg,108,7870,5,1976,-5%
-810,Villa,Gl Kongevej 38,9330, Dronninglund,850000 ,28-09-2015,Andet,165,5152,5,1974,
 810,Villa,Margrethevej 13,9320, Hjallerup,950000 ,28-09-2015,Alm. Salg,158,6013,5,1970,-13%
 810,Villa,Åleje 17,9340, Asaa,800000 ,27-09-2015,Alm. Salg,134,5970,4,1980,-11%
 810,Villa,Hvilshøjvej 315,9700, Brønderslev,140000 ,27-09-2015,Alm. Salg,111,1261,4,1938,
@@ -4385,13 +4257,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Borgergade 22,9320, Hjallerup,300000 ,22-06-2015,Alm. Salg,137,2190,3,1935,-14%
 810,Villa,Asgård 64,9700, Brønderslev,1950000 ,21-06-2015,Alm. Salg,253,7708,7,1977,-2%
 810,Villa,Øster Alle 22,9330, Dronninglund,200000 ,21-06-2015,Alm. Salg,138,1449,3,1954,
-810,Ejerlejlighed,"Grønnegade 22, 1",9700, Brønderslev,4400000 ,18-06-2015,Andet,67,65672,2,1934,
-810,Ejerlejlighed,"Rådhusgade 16, 1. th",9700, Brønderslev,4400000 ,18-06-2015,Andet,51,86275,2,1934,
-810,Ejerlejlighed,"Rådhusgade 16, 1. tv",9700, Brønderslev,4400000 ,18-06-2015,Andet,93,47312,4,1934,
-810,Ejerlejlighed,"Rådhusgade 16, 2. tv",9700, Brønderslev,4400000 ,18-06-2015,Andet,79,55696,3,1934,
-810,Ejerlejlighed,"Rådhusgade 16, 2. th",9700, Brønderslev,4400000 ,18-06-2015,Andet,38,115789,2,1934,
-810,Ejerlejlighed,"Grønnegade 24, st. th",9700, Brønderslev,4400000 ,18-06-2015,Andet,140,31429,4,1934,
-810,Ejerlejlighed,"Grønnegade 24, st. tv",9700, Brønderslev,4400000 ,18-06-2015,Andet,76,57895,3,1934,
 810,Villa,Bredningen 104,9700, Brønderslev,207000 ,17-06-2015,Fam. Salg,114,1816,2,1939,
 810,Villa,Sommervænget 20,9700, Brønderslev,850000 ,17-06-2015,Alm. Salg,152,5592,7,1983,-48%
 810,Villa,Birkagervej 7,9740, Jerslev J,525000 ,17-06-2015,Alm. Salg,205,2561,7,1973,
@@ -4494,7 +4359,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Baldersvej 22,9700, Brønderslev,1475000 ,29-03-2015,Alm. Salg,140,10536,4,1969,
 810,Villa,Sølvmågevej 3,9700, Brønderslev,995000 ,29-03-2015,Alm. Salg,115,8652,4,1976,-7%
 810,Villa,Ingemannsgade 34,9700, Brønderslev,1515000 ,29-03-2015,Alm. Salg,151,10033,5,1965,-1%
-810,Villa,Nørregade 17A,9330, Dronninglund,1800000 ,29-03-2015,Alm. Salg,182,9890,4,1898,
 810,Villa,Bjørnbækvej 74,9320, Hjallerup,800000 ,27-03-2015,Fam. Salg,205,3902,7,1911,
 810,Villa,Højen 9,9320, Hjallerup,3125000 ,25-03-2015,Alm. Salg,187,16711,5,2008,-2%
 810,Villa,Østermarken 129,9320, Hjallerup,1555000 ,24-03-2015,Alm. Salg,115,13522,4,1980,-3%
@@ -4519,13 +4383,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Rækkehus,Nygårdsparken 11,9700, Brønderslev,625000 ,10-03-2015,Alm. Salg,89,7022,3,1978,-20%
 810,Villa,Asgård 59,9700, Brønderslev,1350000 ,09-03-2015,Alm. Salg,159,8491,5,1974,-9%
 810,Villa,Otto Mallings Kvarter 2,9700, Brønderslev,420000 ,09-03-2015,Alm. Salg,172,2442,5,2016,
-810,Ejerlejlighed,"Stormgade 1, st",9330, Dronninglund,9000000 ,08-03-2015,Alm. Salg,90,100000,3,1920,
-810,Ejerlejlighed,"Stormgade 1, 1",9330, Dronninglund,9000000 ,08-03-2015,Alm. Salg,90,100000,3,1920,
-810,Ejerlejlighed,"Stormgade 1, 2",9330, Dronninglund,9000000 ,08-03-2015,Alm. Salg,68,132353,2,1920,
-810,Ejerlejlighed,"Slotsgade 49, 2. tv",9330, Dronninglund,9000000 ,08-03-2015,Alm. Salg,85,105882,3,1920,
-810,Ejerlejlighed,"Slotsgade 49, 1. th",9330, Dronninglund,9000000 ,08-03-2015,Alm. Salg,109,82569,3,1920,
-810,Ejerlejlighed,"Slotsgade 49, 2. th",9330, Dronninglund,9000000 ,08-03-2015,Alm. Salg,87,103448,2,1920,
-810,Ejerlejlighed,"Slotsgade 49, 1. tv",9330, Dronninglund,9000000 ,08-03-2015,Alm. Salg,98,91837,3,1920,
 810,Villa,Smedegade 2A,9330, Dronninglund,30540000 ,08-03-2015,Alm. Salg,85,359294,2,1905,
 810,Villa,Lindenovsvej 10,9330, Dronninglund,1155000 ,08-03-2015,Alm. Salg,173,6676,5,1976,-14%
 810,Villa,Agdrupskoven 29,9700, Brønderslev,2400000 ,08-03-2015,Alm. Salg,175,13714,5,2006,-4%
@@ -4664,7 +4521,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Kærbyvej 1,9330, Dronninglund,1515000 ,05-11-2014,Alm. Salg,207,7319,7,1965,-5%
 810,Villa,Solparken 36,9330, Dronninglund,725348 ,05-11-2014,Andet,197,3682,6,1974,-51%
 810,Villa,Elmevej 93,9700, Brønderslev,878000 ,05-11-2014,Alm. Salg,129,6806,3,1936,-2%
-810,Villa,Stengade 2,9320, Hjallerup,2000000 ,04-11-2014,Andet,177,11299,4,1974,
 810,Villa,Rolighedsvej 28,9330, Dronninglund,450695 ,03-11-2014,Alm. Salg,118,3819,4,1973,
 810,Villa,Ravnsøparken 3,9700, Brønderslev,2640000 ,03-11-2014,Alm. Salg,164,16098,5,2005,
 810,Villa,Stavadvej 32,9700, Brønderslev,793000 ,02-11-2014,Auktion,234,3389,7,0,
@@ -4675,7 +4531,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Ådalen 469,9700, Brønderslev,3225000 ,29-10-2014,Alm. Salg,208,15505,5,2012,-5%
 810,Ejerlejlighed,"Kingosvej 1, 1. th",9320, Hjallerup,173040 ,28-10-2014,Alm. Salg,55,3146,2,1951,
 810,Villa,Friggsvej 26,9700, Brønderslev,943728 ,28-10-2014,Alm. Salg,167,5651,5,2001,
-810,Villa,Stengade 2,9320, Hjallerup,3700000 ,27-10-2014,Alm. Salg,177,20904,4,1974,
 810,Villa,Vibekevej 27,9740, Jerslev J,500000 ,27-10-2014,Fam. Salg,104,4808,2,1926,
 810,Villa,Smalbyvej 55,9700, Brønderslev,500000 ,27-10-2014,Alm. Salg,104,4808,3,1951,-8%
 810,Villa,Bundgårdsvej 15,9700, Brønderslev,600000 ,26-10-2014,Fam. Salg,118,4511,4,1967,
@@ -5067,11 +4922,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Vibevej 16,9330, Dronninglund,1320000 ,07-10-2013,Alm. Salg,132,10000,5,1973,-2%
 810,Villa,Lindenovsvej 52,9330, Dronninglund,2230000 ,07-10-2013,Alm. Salg,170,13118,5,2002,-14%
 810,Villa,Rævdalslunden 10,9330, Dronninglund,1950000 ,07-10-2013,Alm. Salg,149,13087,5,2006,-2%
-810,Ejerlejlighed,Heibergsgade 7,9700, Brønderslev,1500000 ,06-10-2013,Alm. Salg,45,33333,1,1938,
-810,Ejerlejlighed,"Kingosgade 1, 1. th",9700, Brønderslev,1500000 ,06-10-2013,Alm. Salg,57,26316,2,1938,
-810,Ejerlejlighed,"Kingosgade 1, 1. tv",9700, Brønderslev,1500000 ,06-10-2013,Alm. Salg,63,23810,3,1938,
-810,Ejerlejlighed,"Kingosgade 1, st. tv",9700, Brønderslev,1500000 ,06-10-2013,Alm. Salg,55,27273,2,1938,
-810,Ejerlejlighed,"Kingosgade 1, st. th",9700, Brønderslev,1500000 ,06-10-2013,Alm. Salg,65,23077,4,1938,
 810,Villa,Svinehavevej 40,9330, Dronninglund,382728 ,06-10-2013,Alm. Salg,127,3014,5,1951,
 810,Villa,Starengvej 40,9700, Brønderslev,1050000 ,06-10-2013,Alm. Salg,324,3241,10,2015,
 810,Villa,Svinehavevej 4,9330, Dronninglund,30000 ,05-10-2013,Alm. Salg,60,500,4,1940,
@@ -5147,8 +4997,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Solvangsvej 40,9700, Brønderslev,775000 ,01-08-2013,Alm. Salg,125,6200,4,1954,-8%
 810,Villa,Vanggårdsvej 35,9700, Brønderslev,1575000 ,31-07-2013,Alm. Salg,249,6325,7,1878,
 810,Villa,Snehvidevej 11,9700, Brønderslev,1375000 ,31-07-2013,Alm. Salg,172,7994,4,1972,-1%
-810,Rækkehus,Brorsonsvej 6,9320, Hjallerup,920000 ,29-07-2013,Alm. Salg,120,7667,5,1971,-8%
-810,Villa,Mosedraget 9,9320, Hjallerup,920000 ,29-07-2013,Alm. Salg,233,3948,6,1905,-60%
 810,Villa,Lindenovsvej 16,9330, Dronninglund,950000 ,29-07-2013,Alm. Salg,166,5723,4,1978,
 810,Villa,Løkkenvej 345,9700, Brønderslev,231026 ,28-07-2013,Alm. Salg,107,2159,5,1892,-42%
 810,Villa,Engbovej 32,9740, Jerslev J,125000 ,28-07-2013,Alm. Salg,144,868,4,1874,
@@ -5192,7 +5040,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Tryvej 48,9330, Dronninglund,860000 ,17-06-2013,Alm. Salg,130,6615,5,1954,-4%
 810,Villa,Geråvej 124,9340, Asaa,850000 ,16-06-2013,Alm. Salg,170,5000,6,1976,-5%
 810,Villa,Hønborgvej 11,9340, Asaa,1495000 ,13-06-2013,Alm. Salg,224,6674,8,1920,
-810,Villa,"Borgergade 3A, 1",9320, Hjallerup,365000 ,13-06-2013,Alm. Salg,148,2466,5,1900,
 810,Ejerlejlighed,"Slotsgade 33, 1",9330, Dronninglund,100000 ,11-06-2013,Alm. Salg,133,752,3,1925,
 810,Villa,Østermarken 6,9320, Hjallerup,1425000 ,11-06-2013,Alm. Salg,129,11047,6,1986,-5%
 810,Villa,Bredkærsvej 2,9320, Hjallerup,950000 ,10-06-2013,Alm. Salg,129,7364,2,1938,-5%
@@ -5348,18 +5195,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Fasanvej 71,9700, Brønderslev,1075000 ,13-01-2013,Alm. Salg,145,7414,5,1967,-10%
 810,Villa,Kvisselholtvej 5,9330, Dronninglund,20000 ,10-01-2013,Alm. Salg,89,225,3,1954,
 810,Villa,Nejstvej 105,9382, Tylstrup,500000 ,09-01-2013,Alm. Salg,70,7143,4,1900,-5%
-810,Ejerlejlighed,"Søndergade 25A, 1",9320, Hjallerup,4000000 ,08-01-2013,Auktion,91,43956,4,1900,
-810,Ejerlejlighed,"Søndergade 25A, st. th",9320, Hjallerup,4000000 ,08-01-2013,Auktion,73,54795,3,1900,
-810,Ejerlejlighed,"Søndergade 25B, 1",9320, Hjallerup,4000000 ,08-01-2013,Auktion,120,33333,2,1930,
-810,Ejerlejlighed,"Søndergade 25B, st. tv",9320, Hjallerup,4000000 ,08-01-2013,Auktion,58,68966,2,1930,
-810,Ejerlejlighed,"Skolegade 2, 1",9320, Hjallerup,4000000 ,08-01-2013,Auktion,69,57971,2,1900,
-810,Ejerlejlighed,"Skolegade 2, st. tv",9320, Hjallerup,4000000 ,08-01-2013,Auktion,91,43956,2,1900,
-810,Ejerlejlighed,"Skolegade 2, st. th",9320, Hjallerup,4000000 ,08-01-2013,Auktion,45,88889,1,1900,
-810,Ejerlejlighed,Søndergade 21,9320, Hjallerup,4000000 ,08-01-2013,Auktion,83,48193,2,1900,
-810,Ejerlejlighed,"Søndergade 25A, st. tv",9320, Hjallerup,4000000 ,08-01-2013,Auktion,73,54795,3,1900,
-810,Ejerlejlighed,"Søndergade 27, 1",9320, Hjallerup,4000000 ,08-01-2013,Auktion,60,66667,2,1920,
 810,Villa,Rosenvængets Alle 24,9700, Brønderslev,600000 ,08-01-2013,Alm. Salg,120,5000,3,1928,-14%
-810,Villa,"Søndergade 27, st",9320, Hjallerup,4000000 ,08-01-2013,Auktion,100,40000,4,1920,
 810,Villa,Løgtvedvej 1,9330, Dronninglund,175000 ,07-01-2013,Auktion,153,1144,7,1780,
 810,Villa,Kvisselholtvej 7,9330, Dronninglund,5000 ,07-01-2013,Auktion,147,34,3,1944,
 810,Villa,Ådalen 557,9700, Brønderslev,653000 ,07-01-2013,Alm. Salg,282,2316,8,2016,
@@ -5802,7 +5638,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Sølvgade 93,9700, Brønderslev,10001 ,28-11-2011,Auktion,124,81,4,1920,
 810,Villa,Drosselvej 1,9320, Hjallerup,825000 ,28-11-2011,Alm. Salg,185,4459,5,1964,-6%
 810,Villa,Hvidkløvervej 6,9320, Hjallerup,575000 ,24-11-2011,Alm. Salg,121,4752,5,1965,-28%
-810,Villa,Bellisvej 1,9330, Dronninglund,1100000 ,24-11-2011,Alm. Salg,65,16923,2,1900,
 810,Villa,Børsgade 6,9330, Dronninglund,675000 ,24-11-2011,Alm. Salg,150,4500,7,1932,-8%
 810,Villa,Rørholtvej 4,9330, Dronninglund,760000 ,23-11-2011,Alm. Salg,170,4471,5,1938,-11%
 810,Villa,Storskovvej 88,9330, Dronninglund,1050000 ,23-11-2011,Alm. Salg,179,5866,7,1928,-11%
@@ -5965,21 +5800,11 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Bredgade 182,9700, Brønderslev,972713 ,13-06-2011,Andet,107,9091,3,1946,
 810,Villa,Ørsøvej 70,9330, Dronninglund,900000 ,13-06-2011,Fam. Salg,108,8333,3,1954,
 810,Villa,Havnegade 42,9340, Asaa,500000 ,12-06-2011,Fam. Salg,118,4237,4,1880,
-810,Ejerlejlighed,"Nørregade 9, 1. th",9330, Dronninglund,1300000 ,07-06-2011,Auktion,82,15854,3,1900,
-810,Ejerlejlighed,"Nørregade 9, 1. tv",9330, Dronninglund,1300000 ,07-06-2011,Auktion,87,14943,5,1900,
-810,Ejerlejlighed,Lundagervej 1B,9330, Dronninglund,1300000 ,07-06-2011,Auktion,93,13978,3,1900,
-810,Ejerlejlighed,Lundagervej 1A,9330, Dronninglund,1300000 ,07-06-2011,Auktion,113,11504,3,1900,
-810,Ejerlejlighed,"Nørregade 9, 2. tv",9330, Dronninglund,1300000 ,07-06-2011,Auktion,69,18841,1,1900,
-810,Ejerlejlighed,Lundagervej 1C,9330, Dronninglund,1300000 ,07-06-2011,Auktion,123,10569,3,1900,
-810,Ejerlejlighed,Lundagervej 1D,9330, Dronninglund,1300000 ,07-06-2011,Auktion,60,21667,1,1900,
-810,Ejerlejlighed,"Nørregade 9, 2. th",9330, Dronninglund,1300000 ,07-06-2011,Auktion,81,16049,2,1900,
 810,Villa,Christiansvej 38,9320, Hjallerup,2000000 ,07-06-2011,Alm. Salg,217,9217,6,1973,
 810,Villa,Skagerraksvej 3,9700, Brønderslev,1750000 ,07-06-2011,Alm. Salg,165,10606,6,1981,-1%
 810,Villa,Rævdalslunden 66,9330, Dronninglund,236000 ,07-06-2011,Alm. Salg,165,1430,6,2012,-20%
 810,Villa,Ravnsøparken 5,9700, Brønderslev,2070000 ,06-06-2011,Alm. Salg,147,14082,5,2004,-1%
 810,Villa,Jerslevvej 485,9740, Jerslev J,910000 ,05-06-2011,Alm. Salg,222,4099,8,1940,-13%
-810,Ejerlejlighed,Bredgade 76A,9700, Brønderslev,435000 ,02-06-2011,Alm. Salg,103,4223,3,1910,
-810,Villa,Bryggerivej 57,9700, Brønderslev,435000 ,02-06-2011,Alm. Salg,85,5118,2,1923,
 810,Villa,Eventyrvej 12,9700, Brønderslev,2500000 ,02-06-2011,Alm. Salg,181,13812,6,1986,-4%
 810,Villa,Lærkevej 142,9700, Brønderslev,895000 ,02-06-2011,Alm. Salg,247,3623,6,1963,
 810,Rækkehus,Trøgdrupvej 15,9320, Hjallerup,475000 ,31-05-2011,Alm. Salg,78,6090,3,1982,-4%
@@ -6163,13 +5988,11 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Blåregnvej 1,9700, Brønderslev,239500 ,29-12-2010,Alm. Salg,188,1274,5,2019,
 810,Villa,Rughaven 8,9320, Hjallerup,391000 ,29-12-2010,Fam. Salg,742,527,12,0,
 810,Villa,Ådalen 453,9700, Brønderslev,285000 ,29-12-2010,Alm. Salg,161,1770,4,2012,
-810,Villa,Vestergade 17,9320, Hjallerup,504225 ,28-12-2010,Alm. Salg,99,5093,3,2022,
 810,Villa,Rævdalslunden 18,9330, Dronninglund,200000 ,27-12-2010,Alm. Salg,161,1242,5,2012,-18%
 810,Villa,Havesangervej 25,9700, Brønderslev,825000 ,22-12-2010,Alm. Salg,134,6157,4,1921,
 810,Villa,Skelbakken 17,9320, Hjallerup,392000 ,22-12-2010,Alm. Salg,191,2052,5,2014,
 810,Villa,Hellumvej 42,9320, Hjallerup,460630 ,21-12-2010,Fam. Salg,112,4113,4,1947,
 810,Villa,Kilden 39,9700, Brønderslev,297500 ,21-12-2010,Alm. Salg,241,1234,5,2013,
-810,Villa,"Algade 121A, st",9700, Brønderslev,826000 ,21-12-2010,Alm. Salg,154,5364,5,1978,
 810,Villa,Rævdalslunden 92,9330, Dronninglund,300000 ,21-12-2010,Alm. Salg,190,1579,6,2012,
 810,Villa,Strandvænget 16,9340, Asaa,183960 ,21-12-2010,Alm. Salg,172,1070,5,2015,
 810,Villa,Broagervej 17,9700, Brønderslev,130000 ,21-12-2010,Alm. Salg,163,798,5,2012,-92%
@@ -6419,11 +6242,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Søndergade 80,9700, Brønderslev,370000 ,22-06-2010,Fam. Salg,147,2517,4,1943,
 810,Villa,Bundgarnsvej 8,9340, Asaa,460000 ,22-06-2010,Alm. Salg,120,3833,4,1935,-7%
 810,Villa,Skovbrynet 33,9330, Dronninglund,1675000 ,21-06-2010,Alm. Salg,173,9682,7,1980,
-810,Ejerlejlighed,Børsgade 9B,9330, Dronninglund,3800000 ,20-06-2010,Alm. Salg,83,45783,2,1930,
-810,Ejerlejlighed,Tranebærvej 3A,9330, Dronninglund,3800000 ,20-06-2010,Alm. Salg,79,48101,3,1930,
-810,Ejerlejlighed,Tranebærvej 3C,9330, Dronninglund,3800000 ,20-06-2010,Alm. Salg,72,52778,3,1930,
-810,Ejerlejlighed,Tranebærvej 3D,9330, Dronninglund,3800000 ,20-06-2010,Alm. Salg,68,55882,3,1930,
-810,Ejerlejlighed,Børsgade 9A,9330, Dronninglund,3800000 ,20-06-2010,Alm. Salg,73,52055,2,1930,
 810,Villa,Jakobsgade 9,9320, Hjallerup,1475000 ,20-06-2010,Alm. Salg,122,12090,4,1973,-8%
 810,Villa,Brorsonsvej 7,9320, Hjallerup,1640000 ,20-06-2010,Alm. Salg,130,12615,5,1967,-3%
 810,Villa,Ingeborg Skeels Vej 32,9330, Dronninglund,573338 ,20-06-2010,Alm. Salg,165,3475,5,1919,
@@ -6473,7 +6291,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Syrenvej 39,9700, Brønderslev,715000 ,18-05-2010,Fam. Salg,145,4931,7,1934,
 810,Villa,Doktorvænget 19,9340, Asaa,149000 ,18-05-2010,Alm. Salg,110,1355,3,2014,
 810,Villa,Moltkesvej 78,9330, Dronninglund,476381 ,18-05-2010,Alm. Salg,203,2347,6,2012,
-810,Villa,Gyvelvej 6,9320, Hjallerup,696000 ,17-05-2010,Alm. Salg,185,3762,6,1969,-29%
 810,Villa,Storskovvej 17,9330, Dronninglund,1595000 ,17-05-2010,Alm. Salg,155,10290,4,1924,
 810,Villa,Emil Reesens Kvarter 7,9700, Brønderslev,1095000 ,17-05-2010,Alm. Salg,115,9522,4,1976,-4%
 810,Villa,Forårsvænget 1,9700, Brønderslev,1100000 ,16-05-2010,Alm. Salg,119,9244,4,1980,-4%
@@ -6558,8 +6375,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Fasanvej 45,9700, Brønderslev,850000 ,04-03-2010,Alm. Salg,226,3761,7,2019,-14%
 810,Villa,Ulvhøjvej 10,9700, Brønderslev,1869000 ,03-03-2010,Alm. Salg,139,13446,4,1860,
 810,Villa,Bredholtvej 6,9330, Dronninglund,387000 ,02-03-2010,Alm. Salg,236,1640,6,1780,-65%
-810,Ejerlejlighed,"Nørregade 10, 1",9330, Dronninglund,1100000 ,01-03-2010,Alm. Salg,102,10784,4,1954,
-810,Ejerlejlighed,Erantisvej 2,9330, Dronninglund,1100000 ,01-03-2010,Alm. Salg,81,13580,2,1954,
 810,Villa,Hedeparken 6,9700, Brønderslev,395000 ,01-03-2010,Alm. Salg,213,1854,6,2012,
 810,Villa,Kraghedevej 209,9382, Tylstrup,970000 ,26-02-2010,Alm. Salg,167,5808,6,1900,-3%
 810,Villa,Lærkevej 95,9700, Brønderslev,50000 ,25-02-2010,Alm. Salg,98,510,3,1920,
@@ -6668,14 +6483,11 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Asgård 53,9700, Brønderslev,1050000 ,05-11-2009,Alm. Salg,138,7609,5,1975,-12%
 810,Villa,Poldervej 6,9700, Brønderslev,1055000 ,05-11-2009,Alm. Salg,215,4907,6,1900,-3%
 810,Villa,Vestergade 126,9700, Brønderslev,1425000 ,05-11-2009,Alm. Salg,119,11975,4,1947,-5%
-810,Ejerlejlighed,Løkkenvej 196,9700, Brønderslev,2670887 ,04-11-2009,Alm. Salg,140,19078,3,1975,
-810,Villa,"Løkkenvej 196, 1",9700, Brønderslev,2670887 ,04-11-2009,Alm. Salg,230,11613,4,1936,
 810,Ejerlejlighed,"Mejerigade 2, 2. th",9700, Brønderslev,425000 ,03-11-2009,Alm. Salg,69,6159,3,1990,
 810,Ejerlejlighed,Torvegade 2,9700, Brønderslev,360000 ,03-11-2009,Alm. Salg,51,7059,2,1990,
 810,Villa,Søndermarken 49,9320, Hjallerup,1440000 ,02-11-2009,Alm. Salg,154,9351,4,1974,-10%
 810,Villa,Hannevej 2,9740, Jerslev J,440000 ,02-11-2009,Alm. Salg,119,3697,4,1969,-26%
 810,Villa,Vestskoven 46,9700, Brønderslev,2060000 ,30-10-2009,Alm. Salg,149,13826,5,2003,-10%
-810,Villa,Strandvejen 393,9340, Asaa,615000 ,29-10-2009,Alm. Salg,137,4489,3,1953,-5%
 810,Villa,Bondersholtvej 108,9740, Jerslev J,1700000 ,28-10-2009,Alm. Salg,272,6250,7,1877,-15%
 810,Villa,Rosenlunden 2,9320, Hjallerup,1500000 ,28-10-2009,Andet,194,7732,5,2007,-50%
 810,Villa,Svinget 73,9700, Brønderslev,750000 ,26-10-2009,Fam. Salg,144,5208,6,1922,
@@ -6688,7 +6500,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Lærkevej 115,9700, Brønderslev,255000 ,22-10-2009,Alm. Salg,89,2865,4,1900,
 810,Villa,Lærkevej 72,9700, Brønderslev,1475000 ,20-10-2009,Alm. Salg,229,6441,7,1860,-1%
 810,Villa,Markedsvej 35,9700, Brønderslev,1075000 ,19-10-2009,Alm. Salg,166,6476,8,1964,-6%
-810,Villa,Ålborgvej 599D,9330, Dronninglund,1410000 ,18-10-2009,Alm. Salg,98,14388,5,1917,
 810,Villa,Skansen 7,9320, Hjallerup,710000 ,15-10-2009,Alm. Salg,141,5035,6,1957,
 810,Villa,Rørholtvej 12,9330, Dronninglund,900000 ,13-10-2009,Alm. Salg,94,9574,3,1948,
 810,Rækkehus,Gadekæret 13,9330, Dronninglund,520000 ,08-10-2009,Alm. Salg,72,7222,3,1981,-13%
@@ -6741,9 +6552,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Vestskoven 44,9700, Brønderslev,2300000 ,21-08-2009,Alm. Salg,158,14557,4,2001,-8%
 810,Rækkehus,Møllevangen 43,9320, Hjallerup,975000 ,20-08-2009,Alm. Salg,80,12188,3,1989,
 810,Villa,Trøgdrupvej 1,9320, Hjallerup,920000 ,20-08-2009,Alm. Salg,170,5412,4,1920,-8%
-810,Ejerlejlighed,"Mejerigade 2A, st. tv",9700, Brønderslev,375000 ,19-08-2009,Alm. Salg,56,6696,2,1990,
 810,Ejerlejlighed,"Mejerigade 2, st. th",9700, Brønderslev,450000 ,19-08-2009,Alm. Salg,69,6522,3,1990,
-810,Ejerlejlighed,Torvegade 2A,9700, Brønderslev,375000 ,19-08-2009,Alm. Salg,51,7353,2,1990,
 810,Villa,Danmarksgade 11,9700, Brønderslev,780000 ,19-08-2009,Alm. Salg,82,9512,3,1954,-2%
 810,Villa,Ulvhøjvej 10,9700, Brønderslev,700000 ,19-08-2009,Alm. Salg,139,5036,4,1860,-75%
 810,Villa,Lærkevej 4,9700, Brønderslev,735000 ,19-08-2009,Alm. Salg,136,5404,3,1969,-5%
@@ -6783,36 +6592,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Rosenlunden 6,9320, Hjallerup,521000 ,16-07-2009,Alm. Salg,183,2847,6,2010,
 810,Rækkehus,Havnegade 13,9340, Asaa,695000 ,15-07-2009,Alm. Salg,112,6205,4,1931,
 810,Villa,Hjørringvej 97,9700, Brønderslev,970000 ,15-07-2009,Alm. Salg,106,9151,4,1941,-3%
-810,Ejerlejlighed,"Vestergade 24, 1. tv",9700, Brønderslev,9250000 ,14-07-2009,Auktion,71,130282,2,1987,
-810,Ejerlejlighed,"Vestergade 24, 1. th",9700, Brønderslev,9250000 ,14-07-2009,Auktion,71,130282,2,1987,
-810,Ejerlejlighed,"Vestergade 24, 2. th",9700, Brønderslev,9250000 ,14-07-2009,Auktion,67,138060,2,1987,
-810,Ejerlejlighed,"Vestergade 26, 1. tv",9700, Brønderslev,9250000 ,14-07-2009,Auktion,75,123333,2,1987,
-810,Ejerlejlighed,"Vestergade 24, 2. tv",9700, Brønderslev,9250000 ,14-07-2009,Auktion,67,138060,2,1987,
-810,Ejerlejlighed,"Vestergade 26, 1. th",9700, Brønderslev,9250000 ,14-07-2009,Auktion,83,111446,3,1987,
-810,Ejerlejlighed,"Ny Banegårdsgade 19, 1. tv",9700, Brønderslev,9250000 ,14-07-2009,Auktion,77,120130,2,1987,
-810,Ejerlejlighed,"Ny Banegårdsgade 19, 2. th",9700, Brønderslev,9250000 ,14-07-2009,Auktion,70,132143,2,1987,
-810,Ejerlejlighed,"Ny Banegårdsgade 19, 2. tv",9700, Brønderslev,9250000 ,14-07-2009,Auktion,72,128472,2,1987,
-810,Ejerlejlighed,"Vestergade 26, 2. th",9700, Brønderslev,9250000 ,14-07-2009,Auktion,77,120130,3,1987,
-810,Ejerlejlighed,"Vestergade 26, 2. tv",9700, Brønderslev,9250000 ,14-07-2009,Auktion,70,132143,2,1987,
-810,Ejerlejlighed,"Ny Banegårdsgade 15, 1. th",9700, Brønderslev,9250000 ,14-07-2009,Auktion,71,130282,2,1987,
-810,Ejerlejlighed,"Algade 16, 2. th",9700, Brønderslev,9250000 ,14-07-2009,Auktion,72,128472,2,1987,
-810,Ejerlejlighed,"Algade 16, 2. tv",9700, Brønderslev,9250000 ,14-07-2009,Auktion,77,120130,2,1987,
-810,Ejerlejlighed,"Algade 20, 2. tv",9700, Brønderslev,9250000 ,14-07-2009,Auktion,74,125000,2,1987,
-810,Ejerlejlighed,"Algade 20, 2. th",9700, Brønderslev,9250000 ,14-07-2009,Auktion,74,125000,2,1987,
-810,Ejerlejlighed,"Algade 26, 2. mf",9700, Brønderslev,9250000 ,14-07-2009,Auktion,74,125000,2,1987,
-810,Ejerlejlighed,"Algade 26, 2. th",9700, Brønderslev,9250000 ,14-07-2009,Auktion,94,98404,3,1987,
-810,Ejerlejlighed,"Algade 32, 2. tv",9700, Brønderslev,9250000 ,14-07-2009,Auktion,74,125000,2,1987,
-810,Ejerlejlighed,"Algade 34, 2. th",9700, Brønderslev,9250000 ,14-07-2009,Auktion,71,130282,2,1987,
-810,Ejerlejlighed,"Algade 34, 2. tv",9700, Brønderslev,9250000 ,14-07-2009,Auktion,71,130282,2,1987,
-810,Ejerlejlighed,"Algade 32, 2. th",9700, Brønderslev,9250000 ,14-07-2009,Auktion,74,125000,2,1987,
-810,Ejerlejlighed,"Algade 40, 2. th",9700, Brønderslev,9250000 ,14-07-2009,Auktion,71,130282,2,1987,
-810,Ejerlejlighed,"Algade 40, 2. tv",9700, Brønderslev,9250000 ,14-07-2009,Auktion,71,130282,2,1987,
-810,Ejerlejlighed,"Ny Banegårdsgade 15, 2. tv",9700, Brønderslev,9250000 ,14-07-2009,Auktion,85,108824,3,1987,
-810,Ejerlejlighed,"Ny Banegårdsgade 17, 2. th",9700, Brønderslev,9250000 ,14-07-2009,Auktion,77,120130,3,1987,
-810,Ejerlejlighed,"Ny Banegårdsgade 17, 2. tv",9700, Brønderslev,9250000 ,14-07-2009,Auktion,67,138060,2,1987,
-810,Ejerlejlighed,"Ny Banegårdsgade 19, 1. th",9700, Brønderslev,9250000 ,14-07-2009,Auktion,75,123333,2,1987,
-810,Ejerlejlighed,"Ny Banegårdsgade 15, 2. th",9700, Brønderslev,9250000 ,14-07-2009,Auktion,67,138060,2,1987,
-810,Ejerlejlighed,"Ny Banegårdsgade 15, 1. tv",9700, Brønderslev,9250000 ,14-07-2009,Auktion,89,103933,3,1987,
 810,Villa,Frederiksgade 75,9700, Brønderslev,975000 ,14-07-2009,Alm. Salg,125,7800,3,1962,-5%
 810,Villa,Tolstrupvej 231,9700, Brønderslev,630000 ,14-07-2009,Fam. Salg,180,3500,6,2010,
 810,Villa,Østermarksvej 14,9320, Hjallerup,1000000 ,13-07-2009,Alm. Salg,148,6757,5,1969,-9%
@@ -6823,13 +6602,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Grønnegade 16,9320, Hjallerup,187500 ,10-07-2009,Alm. Salg,175,1071,6,2010,
 810,Villa,Hylholtvej 47,9340, Asaa,856203 ,09-07-2009,Andet,199,4303,9,1873,-64%
 810,Villa,Bjarkesgade 19,9700, Brønderslev,1545000 ,09-07-2009,Alm. Salg,125,12360,4,1967,
-810,Ejerlejlighed,"Slotsgade 15, st",9330, Dronninglund,3600000 ,08-07-2009,Alm. Salg,164,21951,4,1979,
-810,Ejerlejlighed,"Slotsgade 15, 1. th",9330, Dronninglund,3600000 ,08-07-2009,Alm. Salg,45,80000,2,1979,
-810,Ejerlejlighed,"Slotsgade 15, 1. tv",9330, Dronninglund,3600000 ,08-07-2009,Alm. Salg,80,45000,2,1979,
-810,Ejerlejlighed,"Fredensgade 17, 1. th",9330, Dronninglund,3600000 ,08-07-2009,Alm. Salg,63,57143,2,1946,
-810,Ejerlejlighed,"Fredensgade 17, st. tv",9330, Dronninglund,3600000 ,08-07-2009,Alm. Salg,63,57143,2,1946,
-810,Ejerlejlighed,"Fredensgade 17, st. th",9330, Dronninglund,3600000 ,08-07-2009,Alm. Salg,63,57143,2,1946,
-810,Ejerlejlighed,"Fredensgade 17, 1. tv",9330, Dronninglund,3600000 ,08-07-2009,Alm. Salg,63,57143,2,1946,
 810,Villa,Markedsvej 56,9700, Brønderslev,485590 ,07-07-2009,Alm. Salg,110,4414,5,2017,
 810,Rækkehus,Tjørnevej 18,9330, Dronninglund,900000 ,06-07-2009,Alm. Salg,108,8333,5,1976,-3%
 810,Villa,H C Andersens Alle 2,9700, Brønderslev,1050000 ,06-07-2009,Alm. Salg,144,7292,5,1971,-8%
@@ -6843,14 +6615,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Tolstrupvej 69,9700, Brønderslev,765000 ,30-06-2009,Alm. Salg,134,5709,5,1954,
 810,Ejerlejlighed,"Nørregade 39, 1",9330, Dronninglund,2452665 ,25-06-2009,Andet,77,31853,3,1950,
 810,Villa,Sommervænget 6,9700, Brønderslev,825000 ,25-06-2009,Alm. Salg,113,7301,4,1952,-8%
-810,Ejerlejlighed,"Stormgade 1, st",9330, Dronninglund,9966600 ,24-06-2009,Andet,90,110740,3,1920,
-810,Ejerlejlighed,"Stormgade 1, 1",9330, Dronninglund,9966600 ,24-06-2009,Andet,90,110740,3,1920,
-810,Ejerlejlighed,"Stormgade 1, 2",9330, Dronninglund,9966600 ,24-06-2009,Andet,68,146568,2,1920,
 810,Ejerlejlighed,"Slotsgade 33, 1",9330, Dronninglund,2600000 ,24-06-2009,Andet,133,19549,3,1925,
-810,Ejerlejlighed,"Slotsgade 49, 2. tv",9330, Dronninglund,9966600 ,24-06-2009,Andet,85,117254,3,1920,
-810,Ejerlejlighed,"Slotsgade 49, 1. th",9330, Dronninglund,9966600 ,24-06-2009,Andet,109,91437,3,1920,
-810,Ejerlejlighed,"Slotsgade 49, 2. th",9330, Dronninglund,9966600 ,24-06-2009,Andet,87,114559,2,1920,
-810,Ejerlejlighed,"Slotsgade 49, 1. tv",9330, Dronninglund,9966600 ,24-06-2009,Andet,98,101700,3,1920,
 810,Ejerlejlighed,"Rådhusgade 3, 1. 1",9330, Dronninglund,1065945 ,24-06-2009,Andet,99,10767,2,2006,
 810,Ejerlejlighed,"Rådhusgade 3, 2. 1",9330, Dronninglund,1245743 ,24-06-2009,Andet,113,11024,3,2006,
 810,Ejerlejlighed,"Rådhusgade 3, 2. 2",9330, Dronninglund,1220058 ,24-06-2009,Andet,111,10992,3,2006,
@@ -6974,11 +6739,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Bryggerivej 22,9700, Brønderslev,765000 ,26-03-2009,Alm. Salg,66,11591,2,1958,
 810,Villa,Ternevej 2,9700, Brønderslev,800000 ,26-03-2009,Alm. Salg,210,3810,6,1972,-20%
 810,Rækkehus,Vestskoven 1,9700, Brønderslev,760000 ,25-03-2009,Alm. Salg,85,8941,4,1900,-15%
-810,Ejerlejlighed,Børsgade 9B,9330, Dronninglund,4700000 ,25-03-2009,Alm. Salg,83,56627,2,1930,
-810,Ejerlejlighed,Tranebærvej 3A,9330, Dronninglund,4700000 ,25-03-2009,Alm. Salg,79,59494,3,1930,
-810,Ejerlejlighed,Tranebærvej 3C,9330, Dronninglund,4700000 ,25-03-2009,Alm. Salg,72,65278,3,1930,
-810,Ejerlejlighed,Tranebærvej 3D,9330, Dronninglund,4700000 ,25-03-2009,Alm. Salg,68,69118,3,1930,
-810,Ejerlejlighed,Børsgade 9A,9330, Dronninglund,4700000 ,25-03-2009,Alm. Salg,73,64384,2,1930,
 810,Villa,Tylstrupvej 42,9320, Hjallerup,1000000 ,25-03-2009,Alm. Salg,144,6944,5,1905,
 810,Villa,Ulstedvej 1,9330, Dronninglund,2580000 ,24-03-2009,Fam. Salg,251,10279,6,1926,
 810,Villa,Fredensgade 13,9330, Dronninglund,700000 ,24-03-2009,Alm. Salg,102,6863,4,1956,
@@ -7080,7 +6840,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Hedeparken 8,9700, Brønderslev,350000 ,09-12-2008,Alm. Salg,158,2215,5,2009,
 810,Villa,Sdr Ringgade 59,9740, Jerslev J,585000 ,08-12-2008,Alm. Salg,138,4239,6,1950,-16%
 810,Villa,Bøgevangen 56,9330, Dronninglund,855000 ,07-12-2008,Alm. Salg,193,4430,7,1930,-39%
-810,Villa,"Algade 121A, st",9700, Brønderslev,1595000 ,07-12-2008,Alm. Salg,154,10357,5,1978,
 810,Villa,Verdisvej 14,9700, Brønderslev,2245000 ,07-12-2008,Alm. Salg,152,14770,6,2007,-12%
 810,Villa,Strandvejen 298,9340, Asaa,1500000 ,06-12-2008,Alm. Salg,182,8242,4,1900,
 810,Villa,Hollenstedvej 303,9700, Brønderslev,200000 ,06-12-2008,Alm. Salg,115,1739,5,1953,-11%
@@ -7112,9 +6871,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Lærkevej 42,9700, Brønderslev,389512 ,07-11-2008,Fam. Salg,152,2563,6,1954,
 810,Villa,Astersvej 2,9330, Dronninglund,705500 ,06-11-2008,Alm. Salg,125,5644,5,2017,
 810,Villa,Margrethevej 8,9740, Jerslev J,800000 ,06-11-2008,Alm. Salg,136,5882,5,1982,-9%
-810,Ejerlejlighed,Løkkenvej 196,9700, Brønderslev,2600000 ,04-11-2008,Alm. Salg,140,18571,3,1975,
 810,Villa,Mathildevej 6,9340, Asaa,675000 ,04-11-2008,Alm. Salg,106,6368,3,1955,-10%
-810,Villa,"Løkkenvej 196, 1",9700, Brønderslev,2600000 ,04-11-2008,Alm. Salg,230,11304,4,1936,
 810,Villa,Verdisvej 6,9700, Brønderslev,2400000 ,04-11-2008,Alm. Salg,170,14118,6,2007,-9%
 810,Villa,Dannebrogsgade 48B,9700, Brønderslev,575000 ,04-11-2008,Alm. Salg,115,5000,4,2014,
 810,Villa,Slåenvej 19,9700, Brønderslev,1150000 ,03-11-2008,Alm. Salg,202,5693,6,1971,-4%
@@ -7218,11 +6975,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Dannebrogsgade 69,9700, Brønderslev,750000 ,12-08-2008,Alm. Salg,98,7653,3,1958,-6%
 810,Villa,Buen 3,9330, Dronninglund,670000 ,11-08-2008,Alm. Salg,103,6505,2,1932,-4%
 810,Villa,Rosenlunden 13,9320, Hjallerup,391000 ,11-08-2008,Alm. Salg,204,1917,5,2020,
-810,Ejerlejlighed,Børsgade 9B,9330, Dronninglund,5700000 ,10-08-2008,Alm. Salg,83,68675,2,1930,
-810,Ejerlejlighed,Tranebærvej 3A,9330, Dronninglund,5700000 ,10-08-2008,Alm. Salg,79,72152,3,1930,
-810,Ejerlejlighed,Tranebærvej 3C,9330, Dronninglund,5700000 ,10-08-2008,Alm. Salg,72,79167,3,1930,
-810,Ejerlejlighed,Tranebærvej 3D,9330, Dronninglund,5700000 ,10-08-2008,Alm. Salg,68,83824,3,1930,
-810,Ejerlejlighed,Børsgade 9A,9330, Dronninglund,5700000 ,10-08-2008,Alm. Salg,73,78082,2,1930,
 810,Villa,Danserhøj 21,9700, Brønderslev,295000 ,10-08-2008,Alm. Salg,213,1385,6,2009,
 810,Villa,Højen 28,9320, Hjallerup,475000 ,07-08-2008,Alm. Salg,202,2351,6,2009,
 810,Rækkehus,Tjørnevej 7,9330, Dronninglund,890000 ,06-08-2008,Alm. Salg,101,8812,4,1978,-9%
@@ -7343,11 +7095,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Holtevej 97,9700, Brønderslev,1462500 ,05-06-2008,Alm. Salg,229,6386,6,1908,
 810,Villa,Ålborgvej 740,9320, Hjallerup,655000 ,04-06-2008,Alm. Salg,153,4281,5,1909,
 810,Villa,Tennisskoven 36,9320, Hjallerup,2057109 ,04-06-2008,Alm. Salg,133,15467,5,2008,3%
-810,Ejerlejlighed,"Vestergade 48, st. th",9700, Brønderslev,5500000 ,03-06-2008,Alm. Salg,68,80882,3,1934,
-810,Ejerlejlighed,"Vestergade 48, 1. th",9700, Brønderslev,5500000 ,03-06-2008,Alm. Salg,68,80882,3,1934,
-810,Ejerlejlighed,"Vestergade 48, st. tv",9700, Brønderslev,5500000 ,03-06-2008,Alm. Salg,68,80882,3,1934,
-810,Ejerlejlighed,"Vestergade 48, 1. tv",9700, Brønderslev,5500000 ,03-06-2008,Alm. Salg,68,80882,3,1934,
-810,Ejerlejlighed,Øster Alle 1,9700, Brønderslev,5500000 ,03-06-2008,Alm. Salg,98,56122,3,1934,
 810,Villa,Eriksvej 5,9320, Hjallerup,2896000 ,03-06-2008,Fam. Salg,232,12483,5,1986,
 810,Villa,Vestergade 83,9700, Brønderslev,1265000 ,03-06-2008,Alm. Salg,115,11000,4,1951,-2%
 810,Villa,Lindenovsvej 25,9330, Dronninglund,2095000 ,01-06-2008,Alm. Salg,152,13783,5,1980,
@@ -7405,9 +7152,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Baldersvej 18,9700, Brønderslev,1300000 ,08-05-2008,Alm. Salg,235,5532,7,1967,-4%
 810,Villa,Danserhøj 26,9700, Brønderslev,180000 ,07-05-2008,Alm. Salg,142,1268,5,2009,
 810,Villa,Danserhøj 28,9700, Brønderslev,295000 ,07-05-2008,Alm. Salg,187,1578,7,2015,
-810,Rækkehus,Tolstrupvej 15A,9330, Dronninglund,795000 ,06-05-2008,Alm. Salg,83,9578,2,1940,
 810,Villa,Kirkestræde 4,9740, Jerslev J,340000 ,06-05-2008,Alm. Salg,140,2429,4,1933,-9%
-810,Villa,Tolstrupvej 15,9330, Dronninglund,795000 ,06-05-2008,Alm. Salg,102,7794,4,1940,
 810,Villa,Tennisskoven 18,9320, Hjallerup,348900 ,06-05-2008,Alm. Salg,166,2102,5,2009,
 810,Villa,Blåregnvej 8,9700, Brønderslev,239500 ,05-05-2008,Alm. Salg,201,1192,5,2009,
 810,Rækkehus,Irisvej 13B,9330, Dronninglund,127360 ,04-05-2008,Alm. Salg,110,1158,4,2008,
@@ -7463,11 +7208,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Bryggerivej 54,9700, Brønderslev,770000 ,02-04-2008,Alm. Salg,90,8556,4,1895,-8%
 810,Villa,Fredensgade 10,9330, Dronninglund,950000 ,02-04-2008,Alm. Salg,108,8796,3,1946,-4%
 810,Villa,Urfuglevej 6,9700, Brønderslev,1795000 ,02-04-2008,Alm. Salg,156,11506,5,1980,
-810,Ejerlejlighed,Børsgade 9B,9330, Dronninglund,4950000 ,31-03-2008,Alm. Salg,83,59639,2,1930,
-810,Ejerlejlighed,Tranebærvej 3A,9330, Dronninglund,4950000 ,31-03-2008,Alm. Salg,79,62658,3,1930,
-810,Ejerlejlighed,Tranebærvej 3C,9330, Dronninglund,4950000 ,31-03-2008,Alm. Salg,72,68750,3,1930,
-810,Ejerlejlighed,Tranebærvej 3D,9330, Dronninglund,4950000 ,31-03-2008,Alm. Salg,68,72794,3,1930,
-810,Ejerlejlighed,Børsgade 9A,9330, Dronninglund,4950000 ,31-03-2008,Alm. Salg,73,67808,2,1930,
 810,Villa,Algade 151,9700, Brønderslev,750000 ,31-03-2008,Alm. Salg,136,5515,6,1877,
 810,Villa,Gravensgade 60,9700, Brønderslev,450000 ,31-03-2008,Alm. Salg,110,4091,4,1920,-9%
 810,Villa,Rævdalslunden 50,9330, Dronninglund,215000 ,31-03-2008,Alm. Salg,184,1168,5,2010,
@@ -7476,7 +7216,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Brøndlundvej 8,9320, Hjallerup,1040951 ,30-03-2008,Alm. Salg,173,6017,3,2004,
 810,Villa,Kræen Bjergensvej 5,9700, Brønderslev,1580000 ,30-03-2008,Alm. Salg,149,10604,5,1987,
 810,Villa,Rosenvængets Alle 73,9700, Brønderslev,750000 ,30-03-2008,Alm. Salg,191,3927,8,1966,
-810,Villa,"Elmevej 47, 1",9700, Brønderslev,1050000 ,30-03-2008,Alm. Salg,99,10606,3,1943,
 810,Villa,Ravnholtvej 7,9330, Dronninglund,485000 ,30-03-2008,Alm. Salg,101,4802,3,1915,-9%
 810,Villa,Ådalen 115,9700, Brønderslev,525000 ,30-03-2008,Alm. Salg,214,2453,7,2009,
 810,Villa,Østermarksvej 63,9320, Hjallerup,850000 ,28-03-2008,Alm. Salg,136,6250,5,1900,-5%
@@ -7598,14 +7337,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Smedegade 20,9330, Dronninglund,1025000 ,21-01-2008,Alm. Salg,126,8135,3,1963,
 810,Villa,Solvangsvej 55,9700, Brønderslev,1060000 ,21-01-2008,Alm. Salg,100,10600,4,1967,
 810,Villa,Østermarken 91,9320, Hjallerup,1595000 ,20-01-2008,Alm. Salg,115,13870,4,1980,
-810,Ejerlejlighed,"Nørregade 9, 1. th",9330, Dronninglund,2450000 ,17-01-2008,Alm. Salg,82,29878,3,1900,
-810,Ejerlejlighed,"Nørregade 9, 1. tv",9330, Dronninglund,2450000 ,17-01-2008,Alm. Salg,87,28161,5,1900,
-810,Ejerlejlighed,Lundagervej 1B,9330, Dronninglund,2450000 ,17-01-2008,Alm. Salg,93,26344,3,1900,
-810,Ejerlejlighed,Lundagervej 1A,9330, Dronninglund,2450000 ,17-01-2008,Alm. Salg,113,21681,3,1900,
-810,Ejerlejlighed,"Nørregade 9, 2. tv",9330, Dronninglund,2450000 ,17-01-2008,Alm. Salg,69,35507,1,1900,
-810,Ejerlejlighed,Lundagervej 1C,9330, Dronninglund,2450000 ,17-01-2008,Alm. Salg,123,19919,3,1900,
-810,Ejerlejlighed,Lundagervej 1D,9330, Dronninglund,2450000 ,17-01-2008,Alm. Salg,60,40833,1,1900,
-810,Ejerlejlighed,"Nørregade 9, 2. th",9330, Dronninglund,2450000 ,17-01-2008,Alm. Salg,81,30247,2,1900,
 810,Villa,Eriksgade 23,9700, Brønderslev,1489215 ,17-01-2008,Alm. Salg,210,7092,5,1965,
 810,Villa,Sølvgade 61,9700, Brønderslev,775000 ,17-01-2008,Alm. Salg,110,7045,4,1965,
 810,Villa,Gl Kongevej 9,9330, Dronninglund,1295000 ,17-01-2008,Alm. Salg,207,6256,8,1910,
@@ -7614,11 +7345,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Rævdalslunden 68,9330, Dronninglund,240000 ,14-01-2008,Alm. Salg,170,1412,5,2012,
 810,Villa,Geråvej 8,9330, Dronninglund,1200000 ,13-01-2008,Alm. Salg,130,9231,4,1925,
 810,Villa,Åglimt 1,9340, Asaa,545000 ,13-01-2008,Alm. Salg,123,4431,4,1934,
-810,Ejerlejlighed,"Porsevej 2, 1",9330, Dronninglund,1200000 ,10-01-2008,Alm. Salg,56,21429,1,1970,
-810,Ejerlejlighed,"Hybenvej 4A, 1",9330, Dronninglund,1200000 ,10-01-2008,Alm. Salg,62,19355,2,1970,
-810,Ejerlejlighed,Hybenvej 4B,9330, Dronninglund,1200000 ,10-01-2008,Alm. Salg,75,16000,2,1970,
-810,Ejerlejlighed,"Porsevej 2, st. th",9330, Dronninglund,1200000 ,10-01-2008,Alm. Salg,31,38710,2,1970,
-810,Ejerlejlighed,"Porsevej 2, st. tv",9330, Dronninglund,1200000 ,10-01-2008,Alm. Salg,34,35294,2,1970,
 810,Villa,Rosenlunden 19,9320, Hjallerup,381500 ,10-01-2008,Alm. Salg,268,1424,6,2022,
 810,Villa,Frederiksgade 87,9700, Brønderslev,1350000 ,06-01-2008,Alm. Salg,130,10385,4,1965,-3%
 810,Villa,Markedsvej 18,9700, Brønderslev,765000 ,06-01-2008,Alm. Salg,86,8895,3,1958,2%
@@ -7849,15 +7575,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Dannebrogsgade 101,9700, Brønderslev,958500 ,16-09-2007,Alm. Salg,112,8558,4,1965,
 810,Villa,Tennisskoven 30,9320, Hjallerup,348300 ,16-09-2007,Alm. Salg,250,1393,4,2008,
 810,Villa,Limfjordsvej 6,9700, Brønderslev,1475000 ,14-09-2007,Alm. Salg,132,11174,5,1986,
-810,Ejerlejlighed,"Algade 79, 1",9700, Brønderslev,1480000 ,13-09-2007,Alm. Salg,80,18500,2,1956,
-810,Ejerlejlighed,"Algade 79, st",9700, Brønderslev,1480000 ,13-09-2007,Alm. Salg,78,18974,2,1956,
-810,Ejerlejlighed,Skolegade 1,9700, Brønderslev,1480000 ,13-09-2007,Alm. Salg,76,19474,2,1956,
 810,Villa,Fynsgade 52,9700, Brønderslev,1545000 ,13-09-2007,Alm. Salg,140,11036,5,1967,
 810,Villa,Smalbyvej 18,9700, Brønderslev,610000 ,13-09-2007,Alm. Salg,105,5810,4,1946,
 810,Villa,Dannebrogsgade 78,9700, Brønderslev,457008 ,12-09-2007,Alm. Salg,145,3152,5,1954,
 810,Villa,Verdisvej 31,9700, Brønderslev,2343300 ,12-09-2007,Alm. Salg,153,15316,4,2007,
-810,Ejerlejlighed,"Dahlsvej 4, 1",9330, Dronninglund,600000 ,11-09-2007,Alm. Salg,44,13636,1,1912,
-810,Villa,"Dahlsvej 4, st",9330, Dronninglund,600000 ,11-09-2007,Alm. Salg,73,8219,2,1912,
 810,Villa,Heimdalsvej 4,9700, Brønderslev,1950000 ,11-09-2007,Alm. Salg,155,12581,5,1970,
 810,Villa,Tennisskoven 11,9320, Hjallerup,1445000 ,10-09-2007,Alm. Salg,111,13018,3,2008,
 810,Villa,Ådalen 525,9700, Brønderslev,535000 ,10-09-2007,Alm. Salg,180,2972,6,2011,
@@ -7995,7 +7716,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Ådalen 117,9700, Brønderslev,521125 ,05-07-2007,Alm. Salg,184,2832,4,2013,
 810,Villa,Bøgevangen 40,9330, Dronninglund,1435000 ,04-07-2007,Alm. Salg,158,9082,5,1980,
 810,Villa,Ådalen 531,9700, Brønderslev,535000 ,04-07-2007,Alm. Salg,197,2716,7,2018,
-810,Rækkehus,Store Bouetvej 5,9340, Asaa,240000 ,03-07-2007,Andet,160,1500,4,1932,
 810,Villa,Engvej 9,9700, Brønderslev,1075000 ,03-07-2007,Alm. Salg,141,7624,5,1914,-2%
 810,Villa,Dyrehaven 102,9700, Brønderslev,390000 ,03-07-2007,Alm. Salg,140,2786,5,1966,
 810,Villa,Fredensgade 19,9700, Brønderslev,1716750 ,03-07-2007,Alm. Salg,154,11148,5,1927,
@@ -8009,10 +7729,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Storskovvej 53,9330, Dronninglund,75000 ,28-06-2007,Alm. Salg,110,682,5,1946,
 810,Villa,Kattegatsvej 38,9700, Brønderslev,1365000 ,28-06-2007,Alm. Salg,119,11471,4,1979,
 810,Villa,Solsortevej 9,9320, Hjallerup,1195000 ,28-06-2007,Alm. Salg,189,6323,7,1964,
-810,Rækkehus,Tolstrupvej 15A,9330, Dronninglund,600000 ,27-06-2007,Alm. Salg,83,7229,2,1940,
 810,Ejerlejlighed,"Mejlstedgade 1, 1",9700, Brønderslev,50000 ,27-06-2007,Alm. Salg,182,275,4,1895,
 810,Ejerlejlighed,"Algade 25, 1",9700, Brønderslev,1225000 ,27-06-2007,Alm. Salg,195,6282,4,1895,
-810,Villa,Tolstrupvej 15,9330, Dronninglund,600000 ,27-06-2007,Alm. Salg,102,5882,4,1940,
 810,Villa,Bogfinkevej 39,9700, Brønderslev,455546 ,27-06-2007,Fam. Salg,124,3674,4,1963,
 810,Villa,Vestergårdsgade 40,9700, Brønderslev,1595000 ,27-06-2007,Alm. Salg,157,10159,5,1969,
 810,Villa,Brødholtvej 8,9740, Jerslev J,170000 ,27-06-2007,Fam. Salg,85,2000,3,1877,
@@ -8185,10 +7903,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Sølvgade 96,9700, Brønderslev,765000 ,26-04-2007,Alm. Salg,185,4135,6,1933,
 810,Villa,Ørsøvej 80,9330, Dronninglund,350000 ,26-04-2007,Alm. Salg,130,2692,4,1953,
 810,Villa,Storskovvej 106,9330, Dronninglund,1020000 ,24-04-2007,Alm. Salg,245,4163,8,1940,-3%
-810,Villa,Bellisvej 5,9330, Dronninglund,700000 ,23-04-2007,Alm. Salg,111,6306,4,1913,
 810,Villa,Fanøgade 8,9740, Jerslev J,710000 ,23-04-2007,Alm. Salg,109,6514,4,1976,
 810,Villa,Søndergade 37,9320, Hjallerup,540000 ,23-04-2007,Alm. Salg,77,7013,2,1910,-6%
-810,Villa,Ålborgvej 599D,9330, Dronninglund,1000000 ,23-04-2007,Alm. Salg,98,10204,5,1917,
 810,Villa,Moltkesvej 82,9330, Dronninglund,380880 ,22-04-2007,Alm. Salg,182,2093,5,2009,
 810,Villa,Bøgevangen 1,9330, Dronninglund,526268 ,22-04-2007,Fam. Salg,133,3957,3,1973,
 810,Villa,Buksbomvej 10,9700, Brønderslev,475000 ,21-04-2007,Alm. Salg,159,2987,4,2017,
@@ -8264,7 +7980,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Dalvej 68,9740, Jerslev J,1150000 ,18-03-2007,Alm. Salg,247,4656,7,1927,
 810,Villa,Øster Kærvej 9,9700, Brønderslev,875000 ,17-03-2007,Alm. Salg,90,9722,3,1928,
 810,Villa,Markedsvej 25,9700, Brønderslev,605000 ,17-03-2007,Alm. Salg,88,6875,3,1962,
-810,Villa,Vestergade 17,9320, Hjallerup,1241920 ,15-03-2007,Alm. Salg,99,12545,3,2022,
 810,Villa,Teglværksvej 6,9320, Hjallerup,395000 ,15-03-2007,Alm. Salg,86,4593,4,1960,
 810,Villa,Engvej 39,9700, Brønderslev,1700000 ,14-03-2007,Alm. Salg,181,9392,4,1972,
 810,Villa,Anemonevej 15,9320, Hjallerup,148200 ,14-03-2007,Alm. Salg,239,620,7,2008,
@@ -8326,7 +8041,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Falkevej 14,9700, Brønderslev,740000 ,19-02-2007,Alm. Salg,87,8506,4,1962,
 810,Villa,Endeltvej 1,9330, Dronninglund,1000000 ,18-02-2007,Fam. Salg,160,6250,5,1935,
 810,Villa,Jens Thise Vej 46,9700, Brønderslev,725000 ,18-02-2007,Alm. Salg,98,7398,3,1934,
-810,Villa,Multebærvej 14A,9330, Dronninglund,450500 ,16-02-2007,Fam. Salg,60,7508,3,1935,
 810,Villa,Borgergade 5,9320, Hjallerup,780000 ,16-02-2007,Alm. Salg,165,4457,9,1900,-2%
 810,Villa,Hegely 188,9320, Hjallerup,900000 ,15-02-2007,Alm. Salg,113,7965,4,1986,
 810,Villa,Malurtvej 21,9330, Dronninglund,2095000 ,14-02-2007,Alm. Salg,160,13094,4,2004,
@@ -8796,12 +8510,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Mejerivej 21,9330, Dronninglund,579000 ,29-06-2006,Alm. Salg,136,4257,5,1930,
 810,Villa,Præstevænget 8,9320, Hjallerup,1000000 ,29-06-2006,Alm. Salg,248,4032,5,1928,
 810,Villa,Bredgade 216,9700, Brønderslev,1130000 ,29-06-2006,Alm. Salg,207,5459,6,1935,
-810,Rækkehus,Østergade 101,9700, Brønderslev,2200000 ,28-06-2006,Alm. Salg,55,40000,3,1973,
 810,Ejerlejlighed,"Sæbyvej 3, 1",9340, Asaa,2500000 ,28-06-2006,Alm. Salg,250,10000,10,1908,
 810,Villa,Liden Kirstens Vej 22,9700, Brønderslev,1395000 ,28-06-2006,Alm. Salg,150,9300,6,1972,
 810,Villa,Asbækholtvej 3,9330, Dronninglund,630000 ,28-06-2006,Alm. Salg,132,4773,5,1827,
 810,Villa,Tygelsgade 7,9700, Brønderslev,1450000 ,28-06-2006,Alm. Salg,165,8788,5,1900,
-810,Villa,Algade 194,9700, Brønderslev,2200000 ,28-06-2006,Alm. Salg,218,10092,4,1973,
 810,Villa,Hegely 65,9320, Hjallerup,1260000 ,27-06-2006,Alm. Salg,155,8129,4,1973,
 810,Villa,Smedegade 4,9330, Dronninglund,840000 ,27-06-2006,Alm. Salg,170,4941,5,1900,
 810,Villa,Konstantinsvej 9,9320, Hjallerup,975000 ,27-06-2006,Alm. Salg,163,5982,6,1972,
@@ -9266,16 +8978,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Vibekevej 63,9740, Jerslev J,420000 ,02-12-2005,Alm. Salg,155,2710,3,1960,
 810,Villa,Østergade 39,9320, Hjallerup,995000 ,01-12-2005,Alm. Salg,137,7263,4,1948,
 810,Rækkehus,Hirsholmene 10,9700, Brønderslev,525000 ,30-11-2005,Alm. Salg,72,7292,2,1982,
-810,Ejerlejlighed,"Vestergade 48, st. th",9700, Brønderslev,3750000 ,30-11-2005,Alm. Salg,68,55147,3,1934,
-810,Ejerlejlighed,"Vestergade 48, 1. th",9700, Brønderslev,3750000 ,30-11-2005,Alm. Salg,68,55147,3,1934,
-810,Ejerlejlighed,"Vestergade 48, st. tv",9700, Brønderslev,3750000 ,30-11-2005,Alm. Salg,68,55147,3,1934,
-810,Ejerlejlighed,"Vestergade 48, 1. tv",9700, Brønderslev,3750000 ,30-11-2005,Alm. Salg,68,55147,3,1934,
 810,Ejerlejlighed,"Gravensgade 2, 1. tv",9700, Brønderslev,1300000 ,30-11-2005,Alm. Salg,150,8667,5,1924,
-810,Ejerlejlighed,Øster Alle 1,9700, Brønderslev,3750000 ,30-11-2005,Alm. Salg,98,38265,3,1934,
 810,Villa,Ålborgvej 546,9330, Dronninglund,448000 ,30-11-2005,Alm. Salg,88,5091,5,1937,
 810,Villa,Lundagervej 41,9330, Dronninglund,1560000 ,30-11-2005,Alm. Salg,157,9936,5,1923,
 810,Villa,Hellumvej 27,9740, Jerslev J,575000 ,30-11-2005,Alm. Salg,152,3783,5,1930,
-810,Villa,Parkvej 22,9700, Brønderslev,600000 ,29-11-2005,Alm. Salg,105,5714,3,2021,
 810,Villa,Tylstrupvej 100,9320, Hjallerup,27365000 ,29-11-2005,Alm. Salg,140,195464,3,1906,
 810,Villa,Sølvgade 98,9700, Brønderslev,375000 ,29-11-2005,Alm. Salg,81,4630,2,1960,
 810,Villa,Ålborgvej 83,9700, Brønderslev,70250 ,28-11-2005,Alm. Salg,129,545,5,1865,
@@ -9826,10 +9532,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Svendsgade 16,9700, Brønderslev,800000 ,29-03-2005,Alm. Salg,116,6897,5,1961,
 810,Villa,Liden Kirstens Vej 4,9700, Brønderslev,1360000 ,29-03-2005,Alm. Salg,171,7953,5,1972,
 810,Villa,Buksbomvej 10,9700, Brønderslev,318000 ,29-03-2005,Alm. Salg,159,2000,4,2017,
-810,Ejerlejlighed,St Blichersgade 41,9700, Brønderslev,560000 ,26-03-2005,Alm. Salg,111,5045,4,1934,
-810,Ejerlejlighed,"Algade 125, 1",9700, Brønderslev,560000 ,26-03-2005,Alm. Salg,87,6437,3,1934,
-810,Ejerlejlighed,"St Blichersgade 39, 1",9700, Brønderslev,560000 ,26-03-2005,Alm. Salg,85,6588,2,1934,
-810,Ejerlejlighed,"Algade 125, st",9700, Brønderslev,560000 ,26-03-2005,Alm. Salg,77,7273,4,1934,
 810,Villa,Ørsøvej 40,9330, Dronninglund,340000 ,22-03-2005,Alm. Salg,150,2267,6,1974,
 810,Villa,Ålborgvej 703,9320, Hjallerup,1140000 ,21-03-2005,Alm. Salg,146,7808,3,1931,
 810,Villa,Rosenvænget 16,9320, Hjallerup,300000 ,21-03-2005,Alm. Salg,98,3061,3,1960,
@@ -9858,7 +9560,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Skovtoften 14,9700, Brønderslev,1145000 ,13-03-2005,Alm. Salg,111,10315,3,2002,
 810,Villa,Hellevadvej 8,9320, Hjallerup,680000 ,13-03-2005,Alm. Salg,144,4722,6,1973,
 810,Villa,Boulevarden 18,9740, Jerslev J,565000 ,13-03-2005,Alm. Salg,111,5090,5,1962,
-810,Villa,Vestergade 17,9320, Hjallerup,850000 ,13-03-2005,Fam. Salg,99,8586,3,2022,
 810,Villa,Trøgdrupvej 16,9320, Hjallerup,332469 ,13-03-2005,Alm. Salg,138,2409,4,1975,
 810,Villa,Frejasvej 14,9700, Brønderslev,995000 ,13-03-2005,Alm. Salg,109,9128,3,1966,
 810,Villa,Vibsigvej 9,9700, Brønderslev,475000 ,13-03-2005,Alm. Salg,120,3958,2,1903,
@@ -10144,19 +9845,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Stenberggade 6,9700, Brønderslev,862500 ,03-10-2004,Alm. Salg,104,8293,4,1960,
 810,Villa,Palægade 41,9740, Jerslev J,595000 ,03-10-2004,Alm. Salg,98,6071,3,1961,
 810,Villa,Knudsgade 64,9700, Brønderslev,1099000 ,02-10-2004,Alm. Salg,115,9557,4,1947,
-810,Ejerlejlighed,"Fredensgade 1A, 2. 1",9330, Dronninglund,10000000 ,30-09-2004,Alm. Salg,113,88496,3,1950,
-810,Ejerlejlighed,Strømgade 2A,9330, Dronninglund,10000000 ,30-09-2004,Alm. Salg,134,74627,4,1950,
-810,Ejerlejlighed,Strømgade 2B,9330, Dronninglund,10000000 ,30-09-2004,Alm. Salg,132,75758,5,1950,
-810,Ejerlejlighed,Strømgade 2C,9330, Dronninglund,10000000 ,30-09-2004,Alm. Salg,166,60241,5,1950,
-810,Ejerlejlighed,Strømgade 2D,9330, Dronninglund,10000000 ,30-09-2004,Alm. Salg,149,67114,5,1950,
-810,Ejerlejlighed,Fredensgade 1B,9330, Dronninglund,10000000 ,30-09-2004,Alm. Salg,81,123457,3,1950,
-810,Ejerlejlighed,"Fredensgade 1A, 2. 2",9330, Dronninglund,10000000 ,30-09-2004,Alm. Salg,92,108696,2,1950,
-810,Ejerlejlighed,Fredensgade 1D,9330, Dronninglund,10000000 ,30-09-2004,Alm. Salg,68,147059,2,1950,
-810,Ejerlejlighed,"Fredensgade 1A, 1. 2",9330, Dronninglund,10000000 ,30-09-2004,Alm. Salg,83,120482,3,1950,
-810,Ejerlejlighed,Fredensgade 1C,9330, Dronninglund,10000000 ,30-09-2004,Alm. Salg,68,147059,3,1950,
-810,Ejerlejlighed,"Fredensgade 1A, 1. 1",9330, Dronninglund,10000000 ,30-09-2004,Alm. Salg,84,119048,3,1950,
-810,Ejerlejlighed,"Fredensgade 1A, 2. 3",9330, Dronninglund,10000000 ,30-09-2004,Alm. Salg,118,84746,4,1950,
-810,Ejerlejlighed,Fredensgade 1E,9330, Dronninglund,10000000 ,30-09-2004,Alm. Salg,78,128205,2,1950,
 810,Villa,Ledvogtervej 5,9330, Dronninglund,570000 ,30-09-2004,Alm. Salg,185,3081,10,1900,
 810,Villa,Enebærvej 3,9330, Dronninglund,497500 ,30-09-2004,Andet,157,3169,6,1971,
 810,Villa,Bredningen 85,9700, Brønderslev,410000 ,30-09-2004,Alm. Salg,83,4940,4,1947,
@@ -10170,8 +9858,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Vestergade 119,9700, Brønderslev,850000 ,26-09-2004,Alm. Salg,187,4545,7,1961,
 810,Villa,Mossøparken 6,9700, Brønderslev,270000 ,26-09-2004,Alm. Salg,160,1688,5,2007,
 810,Villa,Klæstrupvej 83,9740, Jerslev J,670000 ,23-09-2004,Alm. Salg,163,4110,5,1929,
-810,Ejerlejlighed,V Thorupvej 15,9330, Dronninglund,828000 ,22-09-2004,Alm. Salg,108,7667,3,1936,
-810,Villa,V Thorupvej 15,9330, Dronninglund,828000 ,22-09-2004,Alm. Salg,218,3798,8,1950,
 810,Villa,Stenbjerggårdsvej 52,9760, Vrå,500000 ,21-09-2004,Alm. Salg,180,2778,5,2019,
 810,Villa,Dorfvej 62,9330, Dronninglund,2145000 ,21-09-2004,Alm. Salg,239,8975,7,1983,
 810,Rækkehus,Otto Mallings Kvarter 19,9700, Brønderslev,798000 ,20-09-2004,Alm. Salg,103,7748,4,1987,
@@ -10469,13 +10155,11 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Vestergade 160,9700, Brønderslev,350551 ,11-03-2004,Andet,212,1654,8,1925,
 810,Villa,Vester Kærvej 3,9700, Brønderslev,795000 ,10-03-2004,Alm. Salg,127,6260,5,1923,
 810,Villa,Smalbyvej 56,9700, Brønderslev,650000 ,10-03-2004,Alm. Salg,107,6075,3,1958,
-810,Ejerlejlighed,"Søndergade 27, 1",9320, Hjallerup,675000 ,09-03-2004,Alm. Salg,60,11250,2,1920,
 810,Villa,Nygade 6,9320, Hjallerup,545000 ,09-03-2004,Alm. Salg,57,9561,2,1930,
 810,Villa,St Blichersgade 38,9700, Brønderslev,810000 ,09-03-2004,Alm. Salg,112,7232,5,1931,
 810,Villa,Rosenvængets Alle 25,9700, Brønderslev,675000 ,09-03-2004,Alm. Salg,121,5579,4,1928,
 810,Villa,Præstelunden 9,9740, Jerslev J,500000 ,09-03-2004,Alm. Salg,128,3906,4,1969,
 810,Villa,Hegely 11,9320, Hjallerup,500000 ,09-03-2004,Fam. Salg,154,3247,5,1974,
-810,Villa,"Søndergade 27, st",9320, Hjallerup,675000 ,09-03-2004,Alm. Salg,100,6750,4,1920,
 810,Villa,Malurtvej 21,9330, Dronninglund,125936 ,08-03-2004,Alm. Salg,160,787,4,2004,
 810,Villa,Lærkevej 49,9700, Brønderslev,650000 ,08-03-2004,Alm. Salg,133,4887,4,1982,
 810,Villa,Idskovvej 53,9352, Dybvad,740000 ,08-03-2004,Alm. Salg,198,3737,6,1900,
@@ -10508,49 +10192,12 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Vester Alle 1,9700, Brønderslev,1100000 ,25-02-2004,Alm. Salg,140,7857,5,1930,
 810,Villa,Peter Heises Kvarter 45,9700, Brønderslev,1430000 ,24-02-2004,Alm. Salg,137,10438,4,1998,
 810,Villa,Dorfvej 7,9330, Dronninglund,695000 ,24-02-2004,Alm. Salg,100,6950,5,1961,
-810,Ejerlejlighed,V Thorupvej 15,9330, Dronninglund,2275000 ,23-02-2004,Alm. Salg,108,21065,3,1936,
 810,Villa,Smørblomstvej 9,9320, Hjallerup,400000 ,23-02-2004,Alm. Salg,129,3101,4,1964,
 810,Villa,Snørholtvej 37,9340, Asaa,257000 ,23-02-2004,Auktion,142,1810,3,2013,
 810,Villa,Gyldenstjernevej 5,9330, Dronninglund,470000 ,23-02-2004,Alm. Salg,106,4434,4,1970,
 810,Villa,Eriksgade 4,9700, Brønderslev,880000 ,23-02-2004,Alm. Salg,114,7719,4,1965,
 810,Villa,Jyllandsgade 31,9700, Brønderslev,795000 ,23-02-2004,Alm. Salg,79,10063,3,1963,
-810,Villa,V Thorupvej 15,9330, Dronninglund,2275000 ,23-02-2004,Alm. Salg,218,10436,8,1950,
 810,Villa,Sølvgade 112,9700, Brønderslev,55000 ,19-02-2004,Auktion,50,1100,3,1890,
-810,Ejerlejlighed,"Nørregade 91, st. th",9700, Brønderslev,4110000 ,18-02-2004,Alm. Salg,74,55541,2,1947,
-810,Ejerlejlighed,"Nørregade 91, 1. th",9700, Brønderslev,4110000 ,18-02-2004,Alm. Salg,75,54800,3,1947,
-810,Ejerlejlighed,"Nørregade 91, st. tv",9700, Brønderslev,4110000 ,18-02-2004,Alm. Salg,86,47791,2,1947,
-810,Ejerlejlighed,"Nørregade 91, 1. tv",9700, Brønderslev,4110000 ,18-02-2004,Alm. Salg,71,57887,2,1947,
-810,Ejerlejlighed,"Nørregade 91, 2. th",9700, Brønderslev,4110000 ,18-02-2004,Alm. Salg,145,28345,4,1947,
-810,Ejerlejlighed,"Nørregade 91, 2. tv",9700, Brønderslev,4110000 ,18-02-2004,Alm. Salg,86,47791,2,1947,
-810,Ejerlejlighed,"Nørregade 93, st. 1",9700, Brønderslev,4110000 ,18-02-2004,Alm. Salg,56,73393,2,1947,
-810,Ejerlejlighed,"Nørregade 93, st. 2",9700, Brønderslev,4110000 ,18-02-2004,Alm. Salg,56,73393,2,1947,
-810,Ejerlejlighed,"Nørregade 95, 2. tv",9700, Brønderslev,4110000 ,18-02-2004,Alm. Salg,159,25849,3,1947,
-810,Ejerlejlighed,"Nørregade 93, st. 4",9700, Brønderslev,4110000 ,18-02-2004,Alm. Salg,57,72105,2,1947,
-810,Ejerlejlighed,"Nørregade 93, st. 3",9700, Brønderslev,4110000 ,18-02-2004,Alm. Salg,55,74727,2,1947,
-810,Ejerlejlighed,"Nørregade 93, 1. 2",9700, Brønderslev,4110000 ,18-02-2004,Alm. Salg,55,74727,2,1947,
-810,Ejerlejlighed,"Nørregade 93, 1. 1",9700, Brønderslev,4110000 ,18-02-2004,Alm. Salg,57,72105,2,1947,
-810,Ejerlejlighed,"Nørregade 93, 1. 4",9700, Brønderslev,4110000 ,18-02-2004,Alm. Salg,57,72105,2,1947,
-810,Ejerlejlighed,"Nørregade 93, 1. 3",9700, Brønderslev,4110000 ,18-02-2004,Alm. Salg,55,74727,2,1947,
-810,Ejerlejlighed,"Nørregade 95, st. th",9700, Brønderslev,4110000 ,18-02-2004,Alm. Salg,70,58714,2,1947,
-810,Ejerlejlighed,"Nørregade 95, st. tv",9700, Brønderslev,4110000 ,18-02-2004,Alm. Salg,76,54079,2,1947,
-810,Ejerlejlighed,"Nørregade 95, 1. tv",9700, Brønderslev,4110000 ,18-02-2004,Alm. Salg,76,54079,2,1947,
-810,Ejerlejlighed,"Nørregade 95, 1. th",9700, Brønderslev,4110000 ,18-02-2004,Alm. Salg,70,58714,2,1947,
-810,Ejerlejlighed,"Nørregade 95, 2. th",9700, Brønderslev,4110000 ,18-02-2004,Alm. Salg,91,45165,3,1947,
-810,Ejerlejlighed,"Tolstrupvej 5, 1. 5",9700, Brønderslev,4110000 ,18-02-2004,Alm. Salg,116,35431,3,2019,
-810,Ejerlejlighed,Tolstrupvej 3,9700, Brønderslev,4110000 ,18-02-2004,Alm. Salg,115,35739,3,2019,
-810,Ejerlejlighed,"Tolstrupvej 5, 2. 3",9700, Brønderslev,4110000 ,18-02-2004,Alm. Salg,115,35739,3,2019,
-810,Ejerlejlighed,"Tolstrupvej 5, 1. 1",9700, Brønderslev,4110000 ,18-02-2004,Alm. Salg,116,35431,3,2019,
-810,Ejerlejlighed,"Tolstrupvej 5, 2. 1",9700, Brønderslev,4110000 ,18-02-2004,Alm. Salg,116,35431,3,2019,
-810,Ejerlejlighed,Tolstrupvej 7,9700, Brønderslev,4110000 ,18-02-2004,Alm. Salg,115,35739,3,2019,
-810,Ejerlejlighed,"Tolstrupvej 5, 2. 2",9700, Brønderslev,4110000 ,18-02-2004,Alm. Salg,115,35739,3,2019,
-810,Ejerlejlighed,"Tolstrupvej 5, 1. 4",9700, Brønderslev,4110000 ,18-02-2004,Alm. Salg,115,35739,3,2019,
-810,Ejerlejlighed,"Tolstrupvej 5, 1. 3",9700, Brønderslev,4110000 ,18-02-2004,Alm. Salg,115,35739,3,2019,
-810,Ejerlejlighed,Tolstrupvej 11,9700, Brønderslev,4110000 ,18-02-2004,Alm. Salg,116,35431,3,2019,
-810,Ejerlejlighed,"Tolstrupvej 5, 2. 5",9700, Brønderslev,4110000 ,18-02-2004,Alm. Salg,116,35431,3,2019,
-810,Ejerlejlighed,"Tolstrupvej 5, 1. 2",9700, Brønderslev,4110000 ,18-02-2004,Alm. Salg,115,35739,3,2019,
-810,Ejerlejlighed,Tolstrupvej 9,9700, Brønderslev,4110000 ,18-02-2004,Alm. Salg,115,35739,3,2019,
-810,Ejerlejlighed,Tolstrupvej 1,9700, Brønderslev,4110000 ,18-02-2004,Alm. Salg,116,35431,3,2019,
-810,Ejerlejlighed,"Tolstrupvej 5, 2. 4",9700, Brønderslev,4110000 ,18-02-2004,Alm. Salg,115,35739,3,2019,
 810,Villa,Hornshøjvej 49,9320, Hjallerup,590000 ,18-02-2004,Alm. Salg,167,3533,5,1901,
 810,Villa,Flyvbjergvej 145,9740, Jerslev J,85000 ,18-02-2004,Alm. Salg,120,708,4,1927,
 810,Villa,Fasanvej 77,9700, Brønderslev,960000 ,18-02-2004,Alm. Salg,134,7164,4,1967,
@@ -11022,9 +10669,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Agdrupskoven 11,9700, Brønderslev,270000 ,07-05-2003,Alm. Salg,169,1598,5,2004,
 810,Villa,Østermarken 49,9320, Hjallerup,1060000 ,07-05-2003,Alm. Salg,165,6424,6,1980,
 810,Rækkehus,Vestergade 41,9320, Hjallerup,3720000 ,06-05-2003,Fam. Salg,102,36471,2,1910,
-810,Ejerlejlighed,"Algade 79, 1",9700, Brønderslev,1200000 ,06-05-2003,Alm. Salg,80,15000,2,1956,
-810,Ejerlejlighed,"Algade 79, st",9700, Brønderslev,1200000 ,06-05-2003,Alm. Salg,78,15385,2,1956,
-810,Ejerlejlighed,Skolegade 1,9700, Brønderslev,1200000 ,06-05-2003,Alm. Salg,76,15789,2,1956,
 810,Villa,Parkvej 31,9700, Brønderslev,485000 ,06-05-2003,Alm. Salg,57,8509,2,1952,
 810,Villa,Danserhøj 41,9700, Brønderslev,295000 ,05-05-2003,Alm. Salg,181,1630,6,2003,
 810,Villa,Vibsigvej 10,9700, Brønderslev,850000 ,05-05-2003,Alm. Salg,115,3881,4,1937,
@@ -11101,12 +10745,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Birkagervej 11,9740, Jerslev J,610000 ,24-03-2003,Alm. Salg,122,5000,3,1973,
 810,Villa,Hylholtvej 47,9340, Asaa,1020000 ,24-03-2003,Alm. Salg,199,5126,9,1873,
 810,Villa,Perikumvej 7,9330, Dronninglund,215328 ,24-03-2003,Alm. Salg,122,1765,3,2003,
-810,Ejerlejlighed,Algade 75,9700, Brønderslev,3030000 ,23-03-2003,Alm. Salg,100,30300,3,1877,
-810,Ejerlejlighed,"Tygelsgade 2B, 1",9700, Brønderslev,3030000 ,23-03-2003,Alm. Salg,100,30300,4,1877,
-810,Ejerlejlighed,"Tygelsgade 2A, 1",9700, Brønderslev,3030000 ,23-03-2003,Alm. Salg,100,30300,4,1877,
-810,Ejerlejlighed,"Tygelsgade 2C, 1",9700, Brønderslev,3030000 ,23-03-2003,Alm. Salg,94,32234,4,1877,
-810,Ejerlejlighed,"Tygelsgade 2D, st",9700, Brønderslev,3030000 ,23-03-2003,Alm. Salg,47,64468,2,1877,
-810,Ejerlejlighed,"Tygelsgade 2E, st",9700, Brønderslev,3030000 ,23-03-2003,Alm. Salg,33,91818,1,1877,
 810,Villa,Ringstedvej 7,9330, Dronninglund,850000 ,23-03-2003,Alm. Salg,144,5903,4,1917,
 810,Villa,Ø Hassingvej 7,9330, Dronninglund,1495000 ,23-03-2003,Alm. Salg,245,6102,6,1938,
 810,Villa,Tonnismarken 1,9340, Asaa,550000 ,23-03-2003,Alm. Salg,125,4400,3,1965,
@@ -11121,9 +10759,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Damgade 3,9700, Brønderslev,594000 ,20-03-2003,Alm. Salg,95,6253,4,1918,
 810,Villa,Hyldemorsvej 26,9700, Brønderslev,995000 ,19-03-2003,Alm. Salg,167,5958,6,1971,
 810,Villa,Pontoppidansgade 26,9700, Brønderslev,1195000 ,19-03-2003,Alm. Salg,187,6390,7,1973,
-810,Rækkehus,Skolegade 22,9700, Brønderslev,644000 ,18-03-2003,Alm. Salg,63,10222,2,1908,
 810,Ejerlejlighed,"Mejerigade 2, st. tv",9700, Brønderslev,368000 ,18-03-2003,Alm. Salg,69,5333,3,1990,
-810,Ejerlejlighed,Skolegade 24,9700, Brønderslev,644000 ,18-03-2003,Alm. Salg,57,11298,2,1908,
 810,Villa,Ålborgvej 447,9382, Tylstrup,1058000 ,18-03-2003,Alm. Salg,195,5426,5,1920,
 810,Villa,Stenberggade 13,9700, Brønderslev,465000 ,17-03-2003,Alm. Salg,121,3843,5,1927,
 810,Villa,Agdrupskoven 18,9700, Brønderslev,270000 ,17-03-2003,Alm. Salg,160,1688,5,2003,
@@ -11162,7 +10798,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Vestskoven 24,9700, Brønderslev,270000 ,03-03-2003,Alm. Salg,120,2250,4,2004,
 810,Villa,Engvej 24,9700, Brønderslev,1035000 ,02-03-2003,Alm. Salg,217,4770,5,1974,
 810,Villa,Kroggårdsvej 38,9700, Brønderslev,295000 ,02-03-2003,Alm. Salg,153,1928,6,1982,
-810,Villa,Vestergade 40,9320, Hjallerup,495000 ,02-03-2003,Alm. Salg,90,5500,3,1950,
 810,Villa,Søndergade 52,9320, Hjallerup,725000 ,02-03-2003,Alm. Salg,144,5035,4,1900,
 810,Villa,Asgård 15,9700, Brønderslev,1275000 ,02-03-2003,Alm. Salg,210,6071,5,1975,
 810,Villa,Rosavej 10,9740, Jerslev J,425000 ,27-02-2003,Alm. Salg,129,3295,5,1960,
@@ -11194,9 +10829,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Mylundvej 123,9740, Jerslev J,387500 ,16-02-2003,Alm. Salg,125,3100,3,1878,
 810,Villa,Kærvangsvej 3,9330, Dronninglund,415000 ,15-02-2003,Alm. Salg,98,4235,4,1945,
 810,Villa,Grandisvej 16,9320, Hjallerup,945000 ,12-02-2003,Alm. Salg,120,7875,4,1971,
-810,Ejerlejlighed,"Dahlsvej 4, 1",9330, Dronninglund,440000 ,11-02-2003,Alm. Salg,44,10000,1,1912,
 810,Villa,Bredningen 96,9700, Brønderslev,325000 ,11-02-2003,Alm. Salg,105,3095,3,1928,
-810,Villa,"Dahlsvej 4, st",9330, Dronninglund,440000 ,11-02-2003,Alm. Salg,73,6027,2,1912,
 810,Villa,Stavadvej 1,9700, Brønderslev,250000 ,10-02-2003,Alm. Salg,127,1969,7,1907,
 810,Villa,Grandisvej 2,9320, Hjallerup,950000 ,10-02-2003,Alm. Salg,184,5163,3,1972,
 810,Villa,August Ennas Kvarter 3,9700, Brønderslev,870000 ,09-02-2003,Alm. Salg,115,7565,4,1977,
@@ -11641,13 +11274,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Klæstrupvej 85,9740, Jerslev J,590000 ,07-05-2002,Alm. Salg,126,4683,6,1929,
 810,Villa,Voersåvej 16,9330, Dronninglund,350000 ,07-05-2002,Alm. Salg,94,3723,3,1956,
 810,Villa,Geråvej 115,9340, Asaa,1090000 ,06-05-2002,Alm. Salg,189,5767,6,1934,
-810,Villa,Vestergade 162,9700, Brønderslev,454000 ,05-05-2002,Alm. Salg,89,5101,3,1925,
 810,Villa,Præstbrovej 99,9330, Dronninglund,870000 ,05-05-2002,Alm. Salg,122,7131,4,1935,
 810,Rækkehus,Lærkevej 14A,9330, Dronninglund,735000 ,04-05-2002,Alm. Salg,82,8963,3,1990,
 810,Villa,Allerupvej 51,9330, Dronninglund,1550000 ,04-05-2002,Alm. Salg,128,12109,5,1930,
-810,Ejerlejlighed,"Algade 79, 1",9700, Brønderslev,1500000 ,02-05-2002,Alm. Salg,80,18750,2,1956,
-810,Ejerlejlighed,"Algade 79, st",9700, Brønderslev,1500000 ,02-05-2002,Alm. Salg,78,19231,2,1956,
-810,Ejerlejlighed,Skolegade 1,9700, Brønderslev,1500000 ,02-05-2002,Alm. Salg,76,19737,2,1956,
 810,Villa,Pontoppidansgade 8,9700, Brønderslev,975000 ,02-05-2002,Alm. Salg,150,6500,5,1973,
 810,Villa,Lindenovsvej 85,9330, Dronninglund,170000 ,02-05-2002,Alm. Salg,149,1141,4,2006,
 810,Villa,Kraghedevej 209,9382, Tylstrup,865000 ,01-05-2002,Alm. Salg,167,5180,6,1900,
@@ -11838,23 +11467,12 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Bredgade 221,9700, Brønderslev,250000 ,16-01-2002,Alm. Salg,116,2155,3,1934,
 810,Villa,Oustrupmøllevej 63,9740, Jerslev J,60000 ,14-01-2002,Alm. Salg,67,896,2,1926,
 810,Villa,Parallelvej 3,9700, Brønderslev,566480 ,14-01-2002,Alm. Salg,100,5665,4,1901,
-810,Villa,Elmevej 73,9700, Brønderslev,780000 ,14-01-2002,Alm. Salg,225,3467,6,1877,
 810,Villa,Strandvejen 315,9340, Asaa,248000 ,11-01-2002,Alm. Salg,100,2480,4,1952,
 810,Villa,Tømmerbyvej 89,9700, Brønderslev,1447000 ,09-01-2002,Alm. Salg,137,10562,4,1977,
 810,Villa,Gravensgade 17,9700, Brønderslev,515000 ,09-01-2002,Fam. Salg,200,2575,7,1910,
 810,Ejerlejlighed,"Gravensgade 2, 2. tv",9700, Brønderslev,450000 ,08-01-2002,Alm. Salg,132,3409,4,1924,
 810,Villa,Munkebækvej 4,9330, Dronninglund,450000 ,06-01-2002,Fam. Salg,163,2761,5,1907,
 810,Villa,Smalbyvej 45,9700, Brønderslev,675000 ,05-01-2002,Alm. Salg,92,7337,4,1957,
-810,Ejerlejlighed,"Algade 87, st",9700, Brønderslev,2796250 ,03-01-2002,Alm. Salg,64,43691,2,1937,
-810,Ejerlejlighed,"Algade 87, 1",9700, Brønderslev,2796250 ,03-01-2002,Alm. Salg,81,34522,3,1937,
-810,Ejerlejlighed,"Krogensgade 7, st. th",9700, Brønderslev,2796250 ,03-01-2002,Alm. Salg,45,62139,1,1937,
-810,Ejerlejlighed,"Krogensgade 7, 1. th",9700, Brønderslev,2796250 ,03-01-2002,Alm. Salg,77,36315,3,1937,
-810,Ejerlejlighed,"Krogensgade 7, 1. tv",9700, Brønderslev,2796250 ,03-01-2002,Alm. Salg,45,62139,1,1937,
-810,Ejerlejlighed,"Krogensgade 9, st. th",9700, Brønderslev,2796250 ,03-01-2002,Alm. Salg,45,62139,1,1937,
-810,Ejerlejlighed,"Krogensgade 7, st. tv",9700, Brønderslev,2796250 ,03-01-2002,Alm. Salg,75,37283,2,1937,
-810,Ejerlejlighed,"Krogensgade 9, 1. tv",9700, Brønderslev,2796250 ,03-01-2002,Alm. Salg,45,62139,1,1937,
-810,Ejerlejlighed,"Krogensgade 9, 1. th",9700, Brønderslev,2796250 ,03-01-2002,Alm. Salg,45,62139,1,1937,
-810,Ejerlejlighed,"Krogensgade 9, st. tv",9700, Brønderslev,2796250 ,03-01-2002,Alm. Salg,45,62139,1,1937,
 810,Villa,Bredgade 103,9700, Brønderslev,383000 ,02-01-2002,Alm. Salg,140,2736,5,1952,
 810,Villa,Sterupvej 24,9740, Jerslev J,220000 ,01-01-2002,Alm. Salg,164,1341,5,1951,
 810,Villa,Søndre Smalbyvej 46,9370, Hals,300000 ,30-12-2001,Alm. Salg,112,2679,4,1880,
@@ -11894,8 +11512,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Ørsøvej 70,9330, Dronninglund,514382 ,07-12-2001,Fam. Salg,108,4763,3,1954,
 810,Villa,Nørregade 20,9330, Dronninglund,1075000 ,06-12-2001,Fam. Salg,160,6719,6,1924,
 810,Villa,Skelgårdsvej 20,9340, Asaa,510000 ,05-12-2001,Alm. Salg,109,4679,4,1964,
-810,Rækkehus,Østergade 101,9700, Brønderslev,2070000 ,04-12-2001,Alm. Salg,55,37636,3,1973,
-810,Villa,Algade 194,9700, Brønderslev,2070000 ,04-12-2001,Alm. Salg,218,9495,4,1973,
 810,Villa,Trøgdrupvej 14,9320, Hjallerup,254938 ,04-12-2001,Alm. Salg,130,1961,4,1973,
 810,Villa,Vestskoven 62,9700, Brønderslev,270000 ,04-12-2001,Alm. Salg,154,1753,5,2003,
 810,Rækkehus,Vestskoven 143,9700, Brønderslev,909120 ,03-12-2001,Alm. Salg,96,9470,4,2002,
@@ -11983,19 +11599,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Nørrehaven 17,9320, Hjallerup,200000 ,14-10-2001,Alm. Salg,174,1149,6,2002,
 810,Villa,Vestergade 146,9700, Brønderslev,545000 ,14-10-2001,Alm. Salg,95,5737,4,1900,
 810,Villa,Hylholtvej 9,9330, Dronninglund,750000 ,13-10-2001,Alm. Salg,112,6696,5,1948,
-810,Ejerlejlighed,"Fredensgade 1A, 2. 1",9330, Dronninglund,1700000 ,11-10-2001,Alm. Salg,113,15044,3,1950,
-810,Ejerlejlighed,Strømgade 2A,9330, Dronninglund,1700000 ,11-10-2001,Alm. Salg,134,12687,4,1950,
-810,Ejerlejlighed,Strømgade 2B,9330, Dronninglund,1700000 ,11-10-2001,Alm. Salg,132,12879,5,1950,
-810,Ejerlejlighed,Strømgade 2C,9330, Dronninglund,1700000 ,11-10-2001,Alm. Salg,166,10241,5,1950,
-810,Ejerlejlighed,Strømgade 2D,9330, Dronninglund,1700000 ,11-10-2001,Alm. Salg,149,11409,5,1950,
-810,Ejerlejlighed,Fredensgade 1B,9330, Dronninglund,1700000 ,11-10-2001,Alm. Salg,81,20988,3,1950,
-810,Ejerlejlighed,"Fredensgade 1A, 2. 2",9330, Dronninglund,1700000 ,11-10-2001,Alm. Salg,92,18478,2,1950,
-810,Ejerlejlighed,Fredensgade 1D,9330, Dronninglund,1700000 ,11-10-2001,Alm. Salg,68,25000,2,1950,
-810,Ejerlejlighed,"Fredensgade 1A, 1. 2",9330, Dronninglund,1700000 ,11-10-2001,Alm. Salg,83,20482,3,1950,
-810,Ejerlejlighed,Fredensgade 1C,9330, Dronninglund,1700000 ,11-10-2001,Alm. Salg,68,25000,3,1950,
-810,Ejerlejlighed,"Fredensgade 1A, 1. 1",9330, Dronninglund,1700000 ,11-10-2001,Alm. Salg,84,20238,3,1950,
-810,Ejerlejlighed,"Fredensgade 1A, 2. 3",9330, Dronninglund,1700000 ,11-10-2001,Alm. Salg,118,14407,4,1950,
-810,Ejerlejlighed,Fredensgade 1E,9330, Dronninglund,1700000 ,11-10-2001,Alm. Salg,78,21795,2,1950,
 810,Villa,Åsen 2,9340, Asaa,378410 ,11-10-2001,Fam. Salg,143,2646,5,1981,
 810,Villa,Markedsvej 49,9700, Brønderslev,460000 ,11-10-2001,Alm. Salg,85,5412,4,1957,
 810,Villa,Skelgårdsvej 1,9340, Asaa,770000 ,09-10-2001,Alm. Salg,130,5923,4,1969,
@@ -12149,8 +11752,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Øster Linderupvej 170,9740, Jerslev J,433000 ,09-07-2001,Alm. Salg,129,3357,5,1904,
 810,Villa,Vestskoven 14,9700, Brønderslev,1150000 ,09-07-2001,Alm. Salg,142,8099,5,1999,
 810,Villa,Sølvmågevej 8,9700, Brønderslev,882500 ,09-07-2001,Alm. Salg,136,6489,4,1975,
-810,Rækkehus,Røgelhedegårde 7A,9320, Hjallerup,750000 ,08-07-2001,Alm. Salg,65,11538,3,1920,
-810,Villa,Røgelhedegårde 5,9320, Hjallerup,750000 ,08-07-2001,Alm. Salg,119,6303,3,2001,
 810,Ejerlejlighed,Vintervænget 16,9700, Brønderslev,411200 ,07-07-2001,Alm. Salg,68,6047,2,1941,
 810,Villa,Skovbrynet 37,9330, Dronninglund,1455000 ,07-07-2001,Alm. Salg,195,7462,8,1977,
 810,Villa,Blomstervænget 23,9320, Hjallerup,1025000 ,05-07-2001,Alm. Salg,168,6101,7,1972,
@@ -12262,14 +11863,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Præstelunden 19,9740, Jerslev J,800000 ,07-05-2001,Alm. Salg,144,5556,3,1967,
 810,Villa,Vestergade 92,9700, Brønderslev,860000 ,07-05-2001,Alm. Salg,151,5695,5,1962,
 810,Villa,Hellevadvej 1C,9320, Hjallerup,23375 ,07-05-2001,Fam. Salg,145,161,4,2016,
-810,Ejerlejlighed,"Nørregade 9, 1. th",9330, Dronninglund,2060000 ,05-05-2001,Alm. Salg,82,25122,3,1900,
-810,Ejerlejlighed,"Nørregade 9, 1. tv",9330, Dronninglund,2060000 ,05-05-2001,Alm. Salg,87,23678,5,1900,
-810,Ejerlejlighed,Lundagervej 1B,9330, Dronninglund,2060000 ,05-05-2001,Alm. Salg,93,22151,3,1900,
-810,Ejerlejlighed,Lundagervej 1A,9330, Dronninglund,2060000 ,05-05-2001,Alm. Salg,113,18230,3,1900,
-810,Ejerlejlighed,"Nørregade 9, 2. tv",9330, Dronninglund,2060000 ,05-05-2001,Alm. Salg,69,29855,1,1900,
-810,Ejerlejlighed,Lundagervej 1C,9330, Dronninglund,2060000 ,05-05-2001,Alm. Salg,123,16748,3,1900,
-810,Ejerlejlighed,Lundagervej 1D,9330, Dronninglund,2060000 ,05-05-2001,Alm. Salg,60,34333,1,1900,
-810,Ejerlejlighed,"Nørregade 9, 2. th",9330, Dronninglund,2060000 ,05-05-2001,Alm. Salg,81,25432,2,1900,
 810,Villa,Trøgdrupvej 12,9320, Hjallerup,550000 ,05-05-2001,Alm. Salg,127,4331,5,1972,
 810,Villa,Astersvej 16,9330, Dronninglund,750000 ,04-05-2001,Alm. Salg,115,6522,4,1964,
 810,Villa,Gravensgade 128,9700, Brønderslev,798000 ,03-05-2001,Alm. Salg,115,6939,4,1976,
@@ -12478,7 +12071,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Rækkehus,Vestskoven 57,9700, Brønderslev,914671 ,03-01-2001,Alm. Salg,95,9628,2,2000,
 810,Villa,Volbrovej 18,9330, Dronninglund,38000 ,03-01-2001,Alm. Salg,114,333,5,1900,
 810,Villa,Borgergade 11,9740, Jerslev J,210000 ,01-01-2001,Alm. Salg,153,1373,6,1907,
-810,Villa,"Elmevej 47, 1",9700, Brønderslev,755000 ,01-01-2001,Alm. Salg,99,7626,3,1943,
 810,Villa,Vestskoven 46,9700, Brønderslev,270000 ,01-01-2001,Alm. Salg,149,1812,5,2003,
 810,Villa,Manna Mosevej 59,9700, Brønderslev,585000 ,27-12-2000,Alm. Salg,144,4063,4,1890,
 810,Villa,Vestermarksvej 29,9320, Hjallerup,280000 ,26-12-2000,Fam. Salg,150,1867,2,0,
@@ -12496,11 +12088,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Æblehaven 3,9330, Dronninglund,805000 ,17-12-2000,Alm. Salg,115,7000,6,1984,
 810,Villa,Mylundvej 21,9740, Jerslev J,167497 ,17-12-2000,Alm. Salg,129,1298,3,1927,
 810,Villa,Strandvejen 278,9340, Asaa,1100000 ,16-12-2000,Alm. Salg,243,4527,4,2006,
-810,Ejerlejlighed,Heibergsgade 7,9700, Brønderslev,1216000 ,14-12-2000,Alm. Salg,45,27022,1,1938,
-810,Ejerlejlighed,"Kingosgade 1, 1. th",9700, Brønderslev,1216000 ,14-12-2000,Alm. Salg,57,21333,2,1938,
-810,Ejerlejlighed,"Kingosgade 1, 1. tv",9700, Brønderslev,1216000 ,14-12-2000,Alm. Salg,63,19302,3,1938,
-810,Ejerlejlighed,"Kingosgade 1, st. tv",9700, Brønderslev,1216000 ,14-12-2000,Alm. Salg,55,22109,2,1938,
-810,Ejerlejlighed,"Kingosgade 1, st. th",9700, Brønderslev,1216000 ,14-12-2000,Alm. Salg,65,18708,4,1938,
 810,Villa,Bryggerivej 16,9700, Brønderslev,387158 ,14-12-2000,Alm. Salg,65,5956,2,1952,
 810,Villa,Hellevadvej 12,9320, Hjallerup,2100000 ,13-12-2000,Alm. Salg,348,6034,6,1901,
 810,Villa,Rugvangen 2,9740, Jerslev J,1169000 ,13-12-2000,Alm. Salg,156,7494,5,1987,
@@ -12672,7 +12259,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Østermarken 189,9320, Hjallerup,240083 ,30-08-2000,Alm. Salg,188,1277,6,2007,
 810,Villa,Hebbelstrupvej 185,9700, Brønderslev,297745 ,30-08-2000,Alm. Salg,122,2441,4,1877,
 810,Villa,Bredgade 195,9700, Brønderslev,690258 ,30-08-2000,Alm. Salg,140,4930,5,1946,
-810,Villa,Ålborgvej 620A,9330, Dronninglund,505000 ,30-08-2000,Alm. Salg,60,8417,3,1930,
 810,Villa,Hjelmkærvej 17,9340, Asaa,230050 ,30-08-2000,Alm. Salg,171,1345,5,1970,
 810,Villa,Ingeborg Skeels Vej 14,9330, Dronninglund,410000 ,30-08-2000,Alm. Salg,108,3796,4,1942,
 810,Villa,Taffelgårdsvej 115,9382, Tylstrup,542370 ,30-08-2000,Alm. Salg,155,3499,6,1942,
@@ -13002,7 +12588,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Tryvej 59,9330, Dronninglund,325000 ,07-03-2000,Fam. Salg,135,2407,4,1963,
 810,Villa,Markedsvej 56,9700, Brønderslev,357000 ,07-03-2000,Alm. Salg,110,3245,5,2017,
 810,Villa,Dannebrogsgade 72,9700, Brønderslev,687867 ,07-03-2000,Alm. Salg,122,5638,4,1960,
-810,Rækkehus,Store Bouetvej 5,9340, Asaa,12700000 ,06-03-2000,Alm. Salg,160,79375,4,1932,
 810,Villa,Sæbyvej 45,9340, Asaa,276000 ,06-03-2000,Alm. Salg,149,1852,5,1942,
 810,Villa,Lemmingsvej 7,9330, Dronninglund,86300 ,06-03-2000,Alm. Salg,107,807,3,2000,
 810,Villa,Klæstrupvej 75,9740, Jerslev J,420000 ,06-03-2000,Alm. Salg,127,3307,4,1913,
@@ -13118,12 +12703,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Lindenovsvej 91,9330, Dronninglund,112334 ,17-12-1999,Alm. Salg,153,734,6,2000,
 810,Villa,Hybenvej 6,9330, Dronninglund,370000 ,16-12-1999,Alm. Salg,76,4868,3,1967,
 810,Ejerlejlighed,"Vestergade 13, 1. th",9700, Brønderslev,296000 ,15-12-1999,Auktion,97,3052,2,1900,
-810,Ejerlejlighed,Geråvej 1,9330, Dronninglund,1800000 ,15-12-1999,Alm. Salg,92,19565,2,1931,
-810,Ejerlejlighed,"Slotsgade 90, st. tv",9330, Dronninglund,1800000 ,15-12-1999,Alm. Salg,81,22222,2,1931,
-810,Ejerlejlighed,"Slotsgade 90, 1. th",9330, Dronninglund,1800000 ,15-12-1999,Alm. Salg,92,19565,3,1931,
-810,Ejerlejlighed,"Slotsgade 90, 2. th",9330, Dronninglund,1800000 ,15-12-1999,Alm. Salg,73,24658,3,1931,
-810,Ejerlejlighed,"Slotsgade 90, 2. tv",9330, Dronninglund,1800000 ,15-12-1999,Alm. Salg,65,27692,3,1931,
-810,Ejerlejlighed,"Slotsgade 90, 1. tv",9330, Dronninglund,1800000 ,15-12-1999,Alm. Salg,81,22222,3,1931,
 810,Villa,Valmuevej 6,9330, Dronninglund,900000 ,15-12-1999,Alm. Salg,142,6338,6,1965,
 810,Villa,Geråvej 102,9340, Asaa,250000 ,15-12-1999,Alm. Salg,177,1412,6,1900,
 810,Villa,Møllegade 3,9320, Hjallerup,408000 ,15-12-1999,Fam. Salg,94,4340,3,1932,
@@ -13169,9 +12748,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Ørsøvej 66,9330, Dronninglund,123000 ,23-11-1999,Alm. Salg,216,569,7,2002,
 810,Villa,Gerå Engvej 18,9340, Asaa,612679 ,21-11-1999,Alm. Salg,130,4713,5,1976,
 810,Villa,Hellevadvej 1B,9320, Hjallerup,550000 ,21-11-1999,Alm. Salg,112,4911,4,1965,
-810,Rækkehus,Røgelhedegårde 7A,9320, Hjallerup,304540 ,18-11-1999,Alm. Salg,65,4685,3,1920,
 810,Villa,August Ennas Kvarter 3,9700, Brønderslev,798980 ,18-11-1999,Alm. Salg,115,6948,4,1977,
-810,Villa,Røgelhedegårde 5,9320, Hjallerup,304540 ,18-11-1999,Alm. Salg,119,2559,3,2001,
 810,Ejerlejlighed,"Vestergade 13, 1. mf",9700, Brønderslev,261000 ,17-11-1999,Auktion,79,3304,3,1900,
 810,Villa,Syrenvej 17,9700, Brønderslev,950000 ,16-11-1999,Alm. Salg,292,3253,8,1987,
 810,Villa,Møllevej 6,9700, Brønderslev,1241000 ,16-11-1999,Alm. Salg,183,6781,5,1932,
@@ -13242,8 +12819,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Ålborgvej 557,9330, Dronninglund,291111 ,14-10-1999,Alm. Salg,80,3639,4,1890,
 810,Villa,Saltumvej 2,9700, Brønderslev,1397282 ,14-10-1999,Alm. Salg,138,10125,5,1930,
 810,Villa,Gærdesmuttevej 7,9700, Brønderslev,585000 ,14-10-1999,Alm. Salg,113,5177,4,1980,
-810,Rækkehus,Søndergade 55B,9700, Brønderslev,577000 ,13-10-1999,Alm. Salg,118,4890,5,1962,
-810,Villa,Søndergade 55A,9700, Brønderslev,577000 ,13-10-1999,Alm. Salg,99,5828,3,1962,
 810,Villa,Frodesgade 18,9700, Brønderslev,1130000 ,13-10-1999,Alm. Salg,171,6608,7,1972,
 810,Villa,Dalgasgade 4,9700, Brønderslev,645000 ,13-10-1999,Alm. Salg,106,6085,4,1961,
 810,Villa,Eventyrvej 5,9700, Brønderslev,930000 ,13-10-1999,Alm. Salg,168,5536,3,1975,
@@ -13270,10 +12845,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Smalbyvej 77,9700, Brønderslev,639006 ,30-09-1999,Alm. Salg,84,7607,3,1954,
 810,Villa,Syrenvej 43,9700, Brønderslev,265648 ,29-09-1999,Fam. Salg,130,2043,6,1938,
 810,Villa,Birkagervej 7,9740, Jerslev J,550044 ,29-09-1999,Alm. Salg,205,2683,7,1973,
-810,Ejerlejlighed,"Skolegade 2, 1",9320, Hjallerup,1200000 ,28-09-1999,Alm. Salg,69,17391,2,1900,
-810,Ejerlejlighed,"Skolegade 2, st. tv",9320, Hjallerup,1200000 ,28-09-1999,Alm. Salg,91,13187,2,1900,
-810,Ejerlejlighed,"Skolegade 2, st. th",9320, Hjallerup,1200000 ,28-09-1999,Alm. Salg,45,26667,1,1900,
-810,Ejerlejlighed,Søndergade 21,9320, Hjallerup,1200000 ,28-09-1999,Alm. Salg,83,14458,2,1900,
 810,Villa,Geråvej 6,9330, Dronninglund,935000 ,28-09-1999,Alm. Salg,156,5994,6,1932,
 810,Villa,Dorfvej 44,9330, Dronninglund,310000 ,28-09-1999,Alm. Salg,107,2897,3,1877,
 810,Villa,Skippergade 20,9340, Asaa,316044 ,28-09-1999,Alm. Salg,68,4648,4,1895,
@@ -13519,11 +13090,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Birkmosevej 300,9740, Jerslev J,340000 ,20-05-1999,Fam. Salg,186,1828,6,1930,
 810,Villa,Vestergade 54,9700, Brønderslev,800000 ,19-05-1999,Alm. Salg,177,4520,7,1902,
 810,Villa,Ravnholtvej 18,9330, Dronninglund,175000 ,19-05-1999,Fam. Salg,134,1306,4,1967,
-810,Ejerlejlighed,"Skippergade 2, st. th",9340, Asaa,820000 ,18-05-1999,Alm. Salg,76,10789,2,1920,
-810,Ejerlejlighed,"Skippergade 2, 1. th",9340, Asaa,820000 ,18-05-1999,Alm. Salg,57,14386,2,1920,
-810,Ejerlejlighed,"Skippergade 2, st. tv",9340, Asaa,820000 ,18-05-1999,Alm. Salg,57,14386,2,1920,
-810,Ejerlejlighed,"Skippergade 2, 1. tv",9340, Asaa,820000 ,18-05-1999,Alm. Salg,96,8542,2,1920,
-810,Ejerlejlighed,Bolværksvej 1A,9340, Asaa,820000 ,18-05-1999,Alm. Salg,89,9213,2,1920,
 810,Rækkehus,Hirsholmene 10,9700, Brønderslev,354392 ,17-05-1999,Alm. Salg,72,4922,2,1982,
 810,Villa,Ålborgvej 530,9330, Dronninglund,240000 ,17-05-1999,Alm. Salg,128,1875,6,1927,
 810,Villa,Kløvermarksvej 22,9700, Brønderslev,865326 ,17-05-1999,Alm. Salg,125,6923,4,1934,
@@ -13660,12 +13226,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Teglvej 3,9340, Asaa,260000 ,01-03-1999,Alm. Salg,159,1635,6,1900,
 810,Villa,Langelandsgade 24,9700, Brønderslev,1160000 ,01-03-1999,Alm. Salg,190,6105,5,1973,
 810,Villa,Løgtvedvej 1,9330, Dronninglund,767934 ,28-02-1999,Alm. Salg,153,5019,7,1780,
-810,Ejerlejlighed,"Algade 33, 1",9700, Brønderslev,550000 ,25-02-1999,Alm. Salg,107,5140,2,1887,
-810,Ejerlejlighed,"Mejlstedgade 6, 1. th",9700, Brønderslev,550000 ,25-02-1999,Alm. Salg,58,9483,1,1887,
-810,Ejerlejlighed,"Mejlstedgade 6, 1. tv",9700, Brønderslev,550000 ,25-02-1999,Alm. Salg,73,7534,2,1887,
 810,Villa,Fasanvej 82,9700, Brønderslev,1085026 ,25-02-1999,Alm. Salg,135,8037,5,1985,
 810,Villa,Nordsøvej 4,9700, Brønderslev,1070274 ,25-02-1999,Alm. Salg,130,8233,5,1984,
-810,Villa,"Elmevej 47, 1",9700, Brønderslev,400000 ,25-02-1999,Alm. Salg,99,4040,3,1943,
 810,Villa,Heimdalsvej 18,9700, Brønderslev,1404169 ,25-02-1999,Alm. Salg,205,6850,5,1970,
 810,Villa,Løkkenvej 288,9700, Brønderslev,1250000 ,25-02-1999,Alm. Salg,243,5144,6,1873,
 810,Villa,Ålborgvej 606,9330, Dronninglund,306000 ,24-02-1999,Alm. Salg,138,2217,5,1880,
@@ -13706,9 +13268,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Bålhøj 27,9700, Brønderslev,745000 ,07-02-1999,Alm. Salg,189,3942,5,1981,
 810,Villa,Øster Kærvej 10,9700, Brønderslev,3000000 ,07-02-1999,Alm. Salg,125,24000,3,1976,
 810,Villa,Elmevej 41,9700, Brønderslev,600000 ,07-02-1999,Alm. Salg,120,5000,4,1934,
-810,Ejerlejlighed,Erantisvej 8,9330, Dronninglund,584654 ,05-02-1999,Alm. Salg,113,5174,3,1900,
-810,Ejerlejlighed,"Stormgade 6, st",9330, Dronninglund,584654 ,05-02-1999,Alm. Salg,50,11693,2,1900,
-810,Ejerlejlighed,"Stormgade 6, 1",9330, Dronninglund,584654 ,05-02-1999,Alm. Salg,50,11693,2,1900,
 810,Villa,Skolegade 3,9700, Brønderslev,450276 ,05-02-1999,Alm. Salg,135,3335,3,0,
 810,Villa,Forårsvænget 7,9700, Brønderslev,700000 ,04-02-1999,Alm. Salg,119,5882,4,1980,
 810,Villa,Hylholtvej 9,9330, Dronninglund,143000 ,02-02-1999,Alm. Salg,112,1277,5,1948,
@@ -14115,13 +13674,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Gl Kongevej 28,9330, Dronninglund,589000 ,01-06-1998,Alm. Salg,156,3776,4,1974,
 810,Villa,Valmuevej 29,9740, Jerslev J,2925000 ,31-05-1998,Alm. Salg,259,11293,8,2019,
 810,Villa,Nygade 15,9320, Hjallerup,651000 ,29-05-1998,Alm. Salg,120,5425,5,1931,
-810,Ejerlejlighed,"Stormgade 1, st",9330, Dronninglund,1850000 ,28-05-1998,Alm. Salg,90,20556,3,1920,
-810,Ejerlejlighed,"Stormgade 1, 1",9330, Dronninglund,1850000 ,28-05-1998,Alm. Salg,90,20556,3,1920,
-810,Ejerlejlighed,"Stormgade 1, 2",9330, Dronninglund,1850000 ,28-05-1998,Alm. Salg,68,27206,2,1920,
-810,Ejerlejlighed,"Slotsgade 49, 2. tv",9330, Dronninglund,1850000 ,28-05-1998,Alm. Salg,85,21765,3,1920,
-810,Ejerlejlighed,"Slotsgade 49, 1. th",9330, Dronninglund,1850000 ,28-05-1998,Alm. Salg,109,16972,3,1920,
-810,Ejerlejlighed,"Slotsgade 49, 2. th",9330, Dronninglund,1850000 ,28-05-1998,Alm. Salg,87,21264,2,1920,
-810,Ejerlejlighed,"Slotsgade 49, 1. tv",9330, Dronninglund,1850000 ,28-05-1998,Alm. Salg,98,18878,3,1920,
 810,Villa,Enebærvej 5,9700, Brønderslev,141870 ,28-05-1998,Alm. Salg,143,992,6,1955,
 810,Villa,Doktorvænget 16,9340, Asaa,565000 ,28-05-1998,Alm. Salg,163,3466,5,1973,
 810,Villa,Skovbrynet 11,9330, Dronninglund,850000 ,28-05-1998,Alm. Salg,155,5484,4,1972,
@@ -14611,8 +14163,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Søgade 11,9340, Asaa,189000 ,02-09-1997,Alm. Salg,126,1500,7,1875,
 810,Villa,I P Hartmanns Kvarter 11,9700, Brønderslev,716636 ,02-09-1997,Alm. Salg,158,4536,5,1979,
 810,Villa,I P Hartmanns Kvarter 15,9700, Brønderslev,926675 ,02-09-1997,Fam. Salg,218,4251,6,1987,
-810,Rækkehus,Nørregade 13A,9330, Dronninglund,900000 ,01-09-1997,Alm. Salg,44,20455,2,1969,
-810,Ejerlejlighed,"Nørregade 13, 1",9330, Dronninglund,900000 ,01-09-1997,Alm. Salg,138,6522,5,1900,
 810,Villa,Syrenvej 8,9700, Brønderslev,631000 ,01-09-1997,Alm. Salg,200,3155,5,1911,
 810,Villa,Præstbrovej 20,9330, Dronninglund,189117 ,01-09-1997,Alm. Salg,93,2034,5,1903,
 810,Villa,Hegely 176,9320, Hjallerup,128269 ,31-08-1997,Alm. Salg,142,903,5,1998,
@@ -14671,10 +14221,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Dorfgade 12,9330, Dronninglund,1079286 ,03-08-1997,Alm. Salg,179,6030,6,1880,
 810,Rækkehus,Nørre Alle 13,9700, Brønderslev,500000 ,01-08-1997,Alm. Salg,75,6667,3,1984,
 810,Villa,Kirkestræde 2,9740, Jerslev J,345000 ,01-08-1997,Alm. Salg,120,2875,4,1918,
-810,Ejerlejlighed,"Skolegade 2, 1",9320, Hjallerup,893627 ,31-07-1997,Alm. Salg,69,12951,2,1900,
-810,Ejerlejlighed,"Skolegade 2, st. tv",9320, Hjallerup,893627 ,31-07-1997,Alm. Salg,91,9820,2,1900,
-810,Ejerlejlighed,"Skolegade 2, st. th",9320, Hjallerup,893627 ,31-07-1997,Alm. Salg,45,19858,1,1900,
-810,Ejerlejlighed,Søndergade 21,9320, Hjallerup,893627 ,31-07-1997,Alm. Salg,83,10767,2,1900,
 810,Villa,Bjørnbækvej 41,9320, Hjallerup,335981 ,31-07-1997,Alm. Salg,110,3054,4,1972,
 810,Villa,Højenvej 127,9700, Brønderslev,385000 ,31-07-1997,Alm. Salg,130,2962,4,1878,
 810,Villa,H C Andersens Alle 16,9700, Brønderslev,995000 ,31-07-1997,Alm. Salg,209,4761,7,1971,
@@ -14696,7 +14242,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Dorfvej 55,9330, Dronninglund,270000 ,20-07-1997,Alm. Salg,184,1467,7,2003,
 810,Villa,Peter Heises Kvarter 38,9700, Brønderslev,160000 ,19-07-1997,Alm. Salg,179,894,6,1998,
 810,Villa,Østermarken 125,9320, Hjallerup,132210 ,17-07-1997,Alm. Salg,193,685,4,1997,
-810,Villa,Stengade 2,9320, Hjallerup,1150000 ,17-07-1997,Alm. Salg,177,6497,4,1974,
 810,Villa,Danmarksgade 2,9700, Brønderslev,735000 ,17-07-1997,Alm. Salg,112,6563,4,1948,
 810,Villa,Fanøgade 19,9740, Jerslev J,368053 ,16-07-1997,Alm. Salg,107,3440,4,1943,
 810,Villa,Ranunkelvej 5,9320, Hjallerup,650000 ,16-07-1997,Alm. Salg,128,5078,3,1978,
@@ -14839,17 +14384,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Gl Kongevej 80,9330, Dronninglund,130000 ,01-05-1997,Alm. Salg,205,634,5,1999,
 810,Villa,Hegely 10,9320, Hjallerup,1050000 ,01-05-1997,Alm. Salg,128,8203,5,1992,
 810,Rækkehus,Otto Mallings Kvarter 25,9700, Brønderslev,560000 ,30-04-1997,Alm. Salg,103,5437,4,1987,
-810,Ejerlejlighed,"Nygade 3, 1",9700, Brønderslev,3000000 ,30-04-1997,Alm. Salg,136,15306,4,1906,
-810,Ejerlejlighed,"Nygade 3, 2. th",9700, Brønderslev,3000000 ,30-04-1997,Alm. Salg,118,25424,3,1906,
-810,Ejerlejlighed,"Nygade 3, 2. tv",9700, Brønderslev,3000000 ,30-04-1997,Alm. Salg,108,27778,3,1906,
-810,Ejerlejlighed,"Algade 15, 1. tv",9700, Brønderslev,3000000 ,30-04-1997,Alm. Salg,116,25862,5,1905,
-810,Ejerlejlighed,"Algade 15, 3. mf",9700, Brønderslev,3000000 ,30-04-1997,Alm. Salg,77,38961,3,1905,
-810,Ejerlejlighed,"Algade 15, 3. th",9700, Brønderslev,3000000 ,30-04-1997,Alm. Salg,44,68182,1,1905,
-810,Ejerlejlighed,"Algade 15, 2. th",9700, Brønderslev,3000000 ,30-04-1997,Alm. Salg,104,28846,4,1905,
-810,Ejerlejlighed,"Algade 15, 2. tv",9700, Brønderslev,3000000 ,30-04-1997,Alm. Salg,116,25862,5,1905,
-810,Ejerlejlighed,"Algade 15, 3. tv",9700, Brønderslev,3000000 ,30-04-1997,Alm. Salg,53,56604,1,1905,
-810,Ejerlejlighed,"Nygade 3, 2. mf",9700, Brønderslev,3000000 ,30-04-1997,Alm. Salg,50,60000,2,1906,
-810,Ejerlejlighed,"Algade 15, 1. th",9700, Brønderslev,3000000 ,30-04-1997,Alm. Salg,110,27273,4,1905,
 810,Villa,Ydunsvej 6,9700, Brønderslev,1617000 ,30-04-1997,Alm. Salg,225,7187,6,1978,
 810,Villa,Havesangervej 9,9700, Brønderslev,150000 ,30-04-1997,Alm. Salg,127,1181,4,1867,
 810,Villa,Sæbyvej 53,9340, Asaa,240000 ,29-04-1997,Alm. Salg,161,1491,6,1939,
@@ -14886,10 +14420,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Græsvangen 3,9740, Jerslev J,605000 ,07-04-1997,Alm. Salg,143,4231,4,1973,
 810,Villa,Tommelisevej 9,9700, Brønderslev,600000 ,07-04-1997,Fam. Salg,169,3352,7,1976,
 810,Villa,Ørnevej 12,9700, Brønderslev,450000 ,07-04-1997,Alm. Salg,104,4327,4,1962,
-810,Ejerlejlighed,Løkkenvej 196,9700, Brønderslev,900000 ,06-04-1997,Alm. Salg,140,6429,3,1975,
 810,Villa,Emil Reesens Kvarter 26,9700, Brønderslev,708733 ,06-04-1997,Alm. Salg,154,4602,5,1978,
 810,Villa,Ålborgvej 623,9330, Dronninglund,500000 ,06-04-1997,Alm. Salg,263,1901,6,1934,
-810,Villa,"Løkkenvej 196, 1",9700, Brønderslev,900000 ,06-04-1997,Alm. Salg,230,3913,4,1936,
 810,Villa,Engvej 39,9700, Brønderslev,777860 ,05-04-1997,Alm. Salg,181,4298,4,1972,
 810,Villa,Søparken 59,9320, Hjallerup,703626 ,05-04-1997,Alm. Salg,157,4482,6,1991,
 810,Villa,Aprilvænget 12,9700, Brønderslev,475000 ,04-04-1997,Alm. Salg,112,4241,4,1978,
@@ -15026,7 +14558,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Slotsgade 32,9330, Dronninglund,720000 ,19-01-1997,Alm. Salg,184,3913,6,1963,
 810,Villa,Trangetvej 8,9330, Dronninglund,170000 ,19-01-1997,Alm. Salg,171,994,7,1953,
 810,Villa,Forårsvænget 7,9700, Brønderslev,552000 ,18-01-1997,Alm. Salg,119,4639,4,1980,
-810,Villa,Markedsvej 39,9700, Brønderslev,325000 ,17-01-1997,Alm. Salg,116,2802,5,1880,
 810,Villa,Bogfinkevej 52,9700, Brønderslev,335000 ,16-01-1997,Alm. Salg,157,2134,5,1901,
 810,Villa,Ærøgade 31,9740, Jerslev J,415000 ,16-01-1997,Alm. Salg,104,3990,5,1963,
 810,Villa,Sønder Alle 13,9330, Dronninglund,98949 ,16-01-1997,Alm. Salg,84,1178,3,1949,
@@ -15051,16 +14582,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Gerå Engvej 11,9340, Asaa,255000 ,03-01-1997,Fam. Salg,107,2383,3,1958,
 810,Villa,Langbrovej 84,9700, Brønderslev,678601 ,03-01-1997,Fam. Salg,300,2262,10,1900,
 810,Villa,Bryggerivej 34,9700, Brønderslev,665000 ,01-01-1997,Alm. Salg,116,5733,4,1974,
-810,Ejerlejlighed,"Algade 87, st",9700, Brønderslev,2141000 ,30-12-1996,Alm. Salg,64,33453,2,1937,
-810,Ejerlejlighed,"Algade 87, 1",9700, Brønderslev,2141000 ,30-12-1996,Alm. Salg,81,26432,3,1937,
-810,Ejerlejlighed,"Krogensgade 7, st. th",9700, Brønderslev,2141000 ,30-12-1996,Alm. Salg,45,47578,1,1937,
-810,Ejerlejlighed,"Krogensgade 7, 1. th",9700, Brønderslev,2141000 ,30-12-1996,Alm. Salg,77,27805,3,1937,
-810,Ejerlejlighed,"Krogensgade 7, 1. tv",9700, Brønderslev,2141000 ,30-12-1996,Alm. Salg,45,47578,1,1937,
-810,Ejerlejlighed,"Krogensgade 9, st. th",9700, Brønderslev,2141000 ,30-12-1996,Alm. Salg,45,47578,1,1937,
-810,Ejerlejlighed,"Krogensgade 7, st. tv",9700, Brønderslev,2141000 ,30-12-1996,Alm. Salg,75,28547,2,1937,
-810,Ejerlejlighed,"Krogensgade 9, 1. tv",9700, Brønderslev,2141000 ,30-12-1996,Alm. Salg,45,47578,1,1937,
-810,Ejerlejlighed,"Krogensgade 9, 1. th",9700, Brønderslev,2141000 ,30-12-1996,Alm. Salg,45,47578,1,1937,
-810,Ejerlejlighed,"Krogensgade 9, st. tv",9700, Brønderslev,2141000 ,30-12-1996,Alm. Salg,45,47578,1,1937,
 810,Villa,Vinkelvej 10,9330, Dronninglund,412000 ,30-12-1996,Alm. Salg,101,4079,3,1968,
 810,Villa,Prinsensgade 3,9700, Brønderslev,1475000 ,30-12-1996,Alm. Salg,204,7230,5,1980,
 810,Villa,Asgård 58,9700, Brønderslev,760000 ,29-12-1996,Alm. Salg,164,4634,6,1977,
@@ -15122,8 +14643,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Gl Klæstrupvej 7,9740, Jerslev J,206000 ,28-11-1996,Alm. Salg,151,1364,7,1906,
 810,Villa,Mylundvej 53,9740, Jerslev J,315000 ,28-11-1996,Alm. Salg,133,2368,6,1955,
 810,Rækkehus,Otto Mallings Kvarter 15,9700, Brønderslev,536000 ,27-11-1996,Alm. Salg,103,5204,4,1987,
-810,Rækkehus,Skolegade 22,9700, Brønderslev,370000 ,27-11-1996,Alm. Salg,63,5873,2,1908,
-810,Ejerlejlighed,Skolegade 24,9700, Brønderslev,370000 ,27-11-1996,Alm. Salg,57,6491,2,1908,
 810,Villa,Trudsvej 1,9700, Brønderslev,288000 ,27-11-1996,Alm. Salg,174,1655,7,1997,
 810,Villa,Kastanie Alle 4,9320, Hjallerup,293000 ,27-11-1996,Alm. Salg,131,2237,3,1931,
 810,Villa,Åkjærsgade 22,9700, Brønderslev,429000 ,27-11-1996,Alm. Salg,98,4378,3,1962,
@@ -15659,11 +15178,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Ålborgvej 710,9330, Dronninglund,263000 ,29-02-1996,Alm. Salg,98,2684,3,1946,
 810,Villa,Flyvbjergvej 198,9740, Jerslev J,195000 ,29-02-1996,Alm. Salg,173,1127,8,1922,
 810,Villa,Birkholtvej 64,9382, Tylstrup,1250000 ,29-02-1996,Alm. Salg,348,3592,10,1890,
-810,Ejerlejlighed,Børsgade 9B,9330, Dronninglund,506137 ,27-02-1996,Alm. Salg,83,6098,2,1930,
-810,Ejerlejlighed,Tranebærvej 3A,9330, Dronninglund,506137 ,27-02-1996,Alm. Salg,79,6407,3,1930,
-810,Ejerlejlighed,Tranebærvej 3C,9330, Dronninglund,506137 ,27-02-1996,Alm. Salg,72,7030,3,1930,
-810,Ejerlejlighed,Tranebærvej 3D,9330, Dronninglund,506137 ,27-02-1996,Alm. Salg,68,7443,3,1930,
-810,Ejerlejlighed,Børsgade 9A,9330, Dronninglund,506137 ,27-02-1996,Alm. Salg,73,6933,2,1930,
 810,Villa,Fyrtøjsvej 17,9700, Brønderslev,1100000 ,27-02-1996,Alm. Salg,158,6962,5,1982,
 810,Villa,Griegsvej 8,9700, Brønderslev,825000 ,26-02-1996,Alm. Salg,119,6111,5,1976,
 810,Villa,Christiansvej 40,9320, Hjallerup,330000 ,25-02-1996,Alm. Salg,160,2063,4,1922,
@@ -15776,11 +15290,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Algade 27,9320, Hjallerup,875000 ,18-12-1995,Alm. Salg,197,4442,6,1927,
 810,Villa,Broagervej 2,9700, Brønderslev,380000 ,18-12-1995,Alm. Salg,88,4318,3,1958,
 810,Villa,Bredgade 123,9700, Brønderslev,298159 ,18-12-1995,Fam. Salg,167,1785,5,1939,
-810,Ejerlejlighed,"Bredgade 193, 1",9700, Brønderslev,335000 ,17-12-1995,Alm. Salg,60,5583,3,1930,
 810,Villa,Emil Reesens Kvarter 14,9700, Brønderslev,653000 ,17-12-1995,Alm. Salg,102,6402,5,1982,
 810,Villa,Hallundvej 245,9700, Brønderslev,600000 ,17-12-1995,Alm. Salg,242,2479,4,1948,
 810,Villa,Knudsejevej 29,9352, Dybvad,246500 ,17-12-1995,Fam. Salg,156,1580,7,1880,
-810,Villa,"Bredgade 193, st",9700, Brønderslev,335000 ,17-12-1995,Alm. Salg,78,4295,3,1930,
 810,Villa,Algade 100,9700, Brønderslev,120000 ,14-12-1995,Alm. Salg,118,1017,3,1907,
 810,Villa,Solvangsvej 33,9700, Brønderslev,323000 ,13-12-1995,Fam. Salg,111,2910,4,1943,
 810,Villa,Voergårdsvej 48,9330, Dronninglund,475000 ,13-12-1995,Alm. Salg,90,5278,4,1916,
@@ -15967,8 +15479,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Søndergade 37,9700, Brønderslev,810000 ,30-08-1995,Alm. Salg,184,4402,5,1953,
 810,Villa,Østergade 143,9700, Brønderslev,345000 ,29-08-1995,Alm. Salg,110,3136,4,1966,
 810,Villa,Bryggerivej 44,9700, Brønderslev,150000 ,29-08-1995,Alm. Salg,115,1304,3,1910,
-810,Rækkehus,Otto Mallings Kvarter 39,9700, Brønderslev,500000 ,28-08-1995,Alm. Salg,103,4854,4,1987,
-810,Villa,Gravensgade 43,9700, Brønderslev,500000 ,28-08-1995,Alm. Salg,171,2924,6,1909,
 810,Villa,Hegely 14,9320, Hjallerup,134113 ,28-08-1995,Alm. Salg,145,925,5,1995,
 810,Villa,Søråvej 9,9330, Dronninglund,187000 ,27-08-1995,Fam. Salg,104,1798,5,1935,
 810,Villa,Thorup Hedevej 6,9330, Dronninglund,105938 ,27-08-1995,Alm. Salg,225,471,5,2017,
@@ -15993,13 +15503,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Fanøgade 10,9740, Jerslev J,317000 ,17-08-1995,Alm. Salg,80,3963,3,1958,
 810,Villa,Bjergvej 8,9330, Dronninglund,130770 ,17-08-1995,Alm. Salg,120,1090,4,1900,
 810,Villa,Syrenvej 16,9700, Brønderslev,149492 ,16-08-1995,Alm. Salg,141,1060,6,1937,
-810,Ejerlejlighed,"Stormgade 1, st",9330, Dronninglund,120000 ,15-08-1995,Andet,90,1333,3,1920,
-810,Ejerlejlighed,"Stormgade 1, 1",9330, Dronninglund,120000 ,15-08-1995,Andet,90,1333,3,1920,
-810,Ejerlejlighed,"Stormgade 1, 2",9330, Dronninglund,120000 ,15-08-1995,Andet,68,1765,2,1920,
-810,Ejerlejlighed,"Slotsgade 49, 2. tv",9330, Dronninglund,120000 ,15-08-1995,Andet,85,1412,3,1920,
-810,Ejerlejlighed,"Slotsgade 49, 1. th",9330, Dronninglund,120000 ,15-08-1995,Andet,109,1101,3,1920,
-810,Ejerlejlighed,"Slotsgade 49, 2. th",9330, Dronninglund,120000 ,15-08-1995,Andet,87,1379,2,1920,
-810,Ejerlejlighed,"Slotsgade 49, 1. tv",9330, Dronninglund,120000 ,15-08-1995,Andet,98,1224,3,1920,
 810,Villa,Bjørnbækvej 74,9320, Hjallerup,400000 ,15-08-1995,Alm. Salg,205,1951,7,1911,
 810,Villa,Olufsgade 22,9700, Brønderslev,615000 ,15-08-1995,Alm. Salg,223,2758,6,1970,
 810,Rækkehus,Godthåbsvej 20,9700, Brønderslev,365000 ,14-08-1995,Alm. Salg,128,2852,4,1974,
@@ -16093,7 +15596,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Irisvej 26,9740, Jerslev J,424000 ,26-06-1995,Alm. Salg,133,3188,6,1959,
 810,Villa,Bålhøj 31,9700, Brønderslev,825000 ,25-06-1995,Alm. Salg,152,5428,5,1979,
 810,Villa,Nordre Smalbyvej 1,9340, Asaa,175000 ,24-06-1995,Alm. Salg,171,1023,5,1875,
-810,Villa,"Algade 121A, st",9700, Brønderslev,358510 ,24-06-1995,Alm. Salg,154,2328,5,1978,
 810,Villa,Klæstrupvej 61,9740, Jerslev J,190000 ,22-06-1995,Alm. Salg,120,1583,5,1940,
 810,Villa,Solvangsvej 35,9700, Brønderslev,335500 ,22-06-1995,Alm. Salg,103,3257,3,1954,
 810,Villa,Æblehaven 3,9330, Dronninglund,540000 ,22-06-1995,Alm. Salg,115,4696,6,1984,
@@ -16135,7 +15637,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Vestergade 112,9700, Brønderslev,515000 ,10-06-1995,Alm. Salg,184,2799,6,1970,
 810,Villa,Frederiksvej 1,9320, Hjallerup,375000 ,09-06-1995,Alm. Salg,91,4121,3,1965,
 810,Villa,Jyllandsgade 15,9700, Brønderslev,1725000 ,09-06-1995,Alm. Salg,176,9801,4,1979,
-810,Villa,Stengade 2,9320, Hjallerup,478074 ,07-06-1995,Fam. Salg,177,2701,4,1974,
 810,Villa,Birkagervej 11,9740, Jerslev J,450000 ,07-06-1995,Alm. Salg,122,3689,3,1973,
 810,Villa,Bredholtvej 6,9330, Dronninglund,515000 ,06-06-1995,Alm. Salg,236,2182,6,1780,
 810,Villa,Høgevej 16,9700, Brønderslev,570000 ,06-06-1995,Alm. Salg,208,2740,7,1972,
@@ -16670,7 +16171,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Lemmingsvej 3,9330, Dronninglund,327000 ,13-07-1994,Alm. Salg,182,1797,5,1930,
 810,Villa,Bastholmvej 67,9740, Jerslev J,160000 ,10-07-1994,Alm. Salg,87,1839,3,1928,
 810,Villa,Irisvej 26,9740, Jerslev J,1350000 ,10-07-1994,Alm. Salg,133,10150,6,1959,
-810,Villa,"Algade 121A, st",9700, Brønderslev,322000 ,10-07-1994,Auktion,154,2091,5,1978,
 810,Villa,Teglværksvej 4,9700, Brønderslev,175000 ,09-07-1994,Alm. Salg,108,1620,3,1900,
 810,Villa,Lærkevej 4,9330, Dronninglund,363847 ,07-07-1994,Alm. Salg,137,2656,4,1963,
 810,Villa,Tylstrupvej 59A,9320, Hjallerup,2510000 ,07-07-1994,Alm. Salg,126,19921,3,2005,
@@ -16747,8 +16247,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Øster Kærvej 23,9700, Brønderslev,318500 ,30-05-1994,Alm. Salg,76,4191,2,1877,
 810,Villa,Hylholtvej 5,9330, Dronninglund,246529 ,30-05-1994,Alm. Salg,100,2465,6,1930,
 810,Villa,Beckersvej 4,9330, Dronninglund,330000 ,29-05-1994,Alm. Salg,141,2340,4,1910,
-810,Rækkehus,Strandvejen 212A,9370, Hals,650000 ,27-05-1994,Alm. Salg,51,12745,3,1937,
-810,Villa,Strandvejen 212,9370, Hals,650000 ,27-05-1994,Alm. Salg,204,3186,8,1937,
 810,Rækkehus,Oiensvej 19B,9330, Dronninglund,275000 ,26-05-1994,Alm. Salg,76,3618,3,1990,
 810,Villa,Vestergade 93,9700, Brønderslev,360000 ,26-05-1994,Alm. Salg,79,3025,4,1945,
 810,Villa,Øster Kærvej 9,9700, Brønderslev,585000 ,25-05-1994,Alm. Salg,90,6500,3,1928,
@@ -16768,8 +16266,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Omorikavej 11,9320, Hjallerup,298850 ,18-05-1994,Alm. Salg,152,1966,7,1952,
 810,Villa,Mejerivej 7,9330, Dronninglund,235000 ,18-05-1994,Alm. Salg,140,1679,6,1912,
 810,Villa,Vibekevej 79,9740, Jerslev J,40000 ,17-05-1994,Alm. Salg,106,377,3,1918,
-810,Rækkehus,Gadekæret 9,9330, Dronninglund,400000 ,16-05-1994,Alm. Salg,72,5556,3,1981,
-810,Villa,Nørrevænget 9,9330, Dronninglund,400000 ,16-05-1994,Alm. Salg,133,3008,4,1954,
 810,Villa,Sitkavej 2,9320, Hjallerup,383500 ,15-05-1994,Fam. Salg,221,1735,5,1986,
 810,Villa,Sitkavej 12,9320, Hjallerup,856738 ,15-05-1994,Alm. Salg,210,4080,5,1971,
 810,Villa,Geråvej 147,9340, Asaa,235000 ,12-05-1994,Alm. Salg,173,1358,5,1880,
@@ -16877,11 +16373,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Sommervænget 14,9700, Brønderslev,300000 ,14-03-1994,Alm. Salg,97,3093,4,1948,
 810,Villa,Søndermarken 99,9320, Hjallerup,278891 ,13-03-1994,Alm. Salg,132,2113,5,1978,
 810,Villa,August Ennas Kvarter 13,9700, Brønderslev,720000 ,13-03-1994,Alm. Salg,152,4737,5,1977,
-810,Ejerlejlighed,Børsgade 9B,9330, Dronninglund,475000 ,10-03-1994,Alm. Salg,83,5723,2,1930,
-810,Ejerlejlighed,Tranebærvej 3A,9330, Dronninglund,475000 ,10-03-1994,Alm. Salg,79,6013,3,1930,
-810,Ejerlejlighed,Tranebærvej 3C,9330, Dronninglund,475000 ,10-03-1994,Alm. Salg,72,6597,3,1930,
-810,Ejerlejlighed,Tranebærvej 3D,9330, Dronninglund,475000 ,10-03-1994,Alm. Salg,68,6985,3,1930,
-810,Ejerlejlighed,Børsgade 9A,9330, Dronninglund,475000 ,10-03-1994,Alm. Salg,73,6507,2,1930,
 810,Villa,Åkandevej 15,9740, Jerslev J,280000 ,10-03-1994,Alm. Salg,105,2667,4,1919,
 810,Villa,Hylholtvej 7,9330, Dronninglund,114031 ,10-03-1994,Andet,160,713,4,1932,
 810,Ejerlejlighed,"Mejerigade 2A, 1. th",9700, Brønderslev,350000 ,09-03-1994,Alm. Salg,56,6250,2,1990,
@@ -17010,7 +16501,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Dannevirkevej 1,9700, Brønderslev,575000 ,03-12-1993,Alm. Salg,237,2426,7,1973,
 810,Villa,Smalbyvej 51,9700, Brønderslev,580000 ,03-12-1993,Alm. Salg,130,4462,5,1959,
 810,Villa,Olufsgade 33,9700, Brønderslev,830000 ,02-12-1993,Alm. Salg,198,4192,5,1960,
-810,Villa,"Algade 121A, st",9700, Brønderslev,575000 ,01-12-1993,Alm. Salg,154,3734,5,1978,
 810,Villa,Kvisselholtvej 27,9330, Dronninglund,273000 ,30-11-1993,Alm. Salg,140,1950,5,1935,
 810,Villa,Mejerivej 8,9330, Dronninglund,190000 ,30-11-1993,Alm. Salg,78,2436,3,1975,
 810,Rækkehus,Tjørnevej 10,9330, Dronninglund,415000 ,29-11-1993,Alm. Salg,108,3843,5,1976,
@@ -17112,7 +16602,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Lykkevej 4,9320, Hjallerup,590000 ,20-10-1993,Alm. Salg,207,2850,6,1900,
 810,Villa,Ærøgade 1,9740, Jerslev J,65000 ,20-10-1993,Alm. Salg,119,478,5,1878,
 810,Villa,Tommelisevej 11,9700, Brønderslev,127869 ,19-10-1993,Fam. Salg,182,703,5,1975,
-810,Villa,Parkvej 22,9700, Brønderslev,250000 ,18-10-1993,Alm. Salg,105,2381,3,2021,
 810,Villa,St Blichersgade 35,9700, Brønderslev,535000 ,18-10-1993,Alm. Salg,112,4777,4,1933,
 810,Villa,Søndergade 93,9700, Brønderslev,575000 ,18-10-1993,Alm. Salg,152,3783,3,1963,
 810,Villa,Konstantinsvej 19,9320, Hjallerup,570000 ,18-10-1993,Alm. Salg,199,2864,6,1972,
@@ -17140,11 +16629,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Palnatokevej 4,9740, Jerslev J,300000 ,07-10-1993,Alm. Salg,191,1571,8,1937,
 810,Villa,Kvisselholtvej 55,9330, Dronninglund,295000 ,07-10-1993,Alm. Salg,131,2252,4,1957,
 810,Villa,Ørsøvej 79,9330, Dronninglund,70000 ,07-10-1993,Alm. Salg,121,579,4,1929,
-810,Rækkehus,Lundagervej 10B,9330, Dronninglund,850000 ,06-10-1993,Alm. Salg,77,11039,2,1921,
-810,Ejerlejlighed,Skolegade 9A,9700, Brønderslev,225000 ,06-10-1993,Alm. Salg,62,3629,2,1890,
 810,Villa,Søndergade 76,9700, Brønderslev,580000 ,06-10-1993,Alm. Salg,109,5321,4,1949,
 810,Villa,Skippergade 24,9340, Asaa,350000 ,06-10-1993,Alm. Salg,170,2059,5,1952,
-810,Villa,Lundagervej 10,9330, Dronninglund,850000 ,06-10-1993,Alm. Salg,150,5667,6,1921,
 810,Villa,J P Jensens Vej 4,9330, Dronninglund,493000 ,05-10-1993,Alm. Salg,148,3331,6,1976,
 810,Villa,Fasanvænget 5,9700, Brønderslev,410000 ,04-10-1993,Alm. Salg,78,5256,3,1982,
 810,Villa,Frederiksgade 88,9700, Brønderslev,445000 ,04-10-1993,Alm. Salg,125,3560,4,1963,
@@ -17445,12 +16931,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Storskovvej 88,9330, Dronninglund,344400 ,27-04-1993,Alm. Salg,179,1924,7,1928,
 810,Villa,Østermarken 119,9320, Hjallerup,154689 ,26-04-1993,Alm. Salg,171,905,6,1993,
 810,Villa,I P Hartmanns Kvarter 14,9700, Brønderslev,525000 ,26-04-1993,Alm. Salg,150,3500,5,1978,
-810,Ejerlejlighed,Algade 75,9700, Brønderslev,1900000 ,25-04-1993,Alm. Salg,100,19000,3,1877,
-810,Ejerlejlighed,"Tygelsgade 2B, 1",9700, Brønderslev,1900000 ,25-04-1993,Alm. Salg,100,19000,4,1877,
-810,Ejerlejlighed,"Tygelsgade 2A, 1",9700, Brønderslev,1900000 ,25-04-1993,Alm. Salg,100,19000,4,1877,
-810,Ejerlejlighed,"Tygelsgade 2C, 1",9700, Brønderslev,1900000 ,25-04-1993,Alm. Salg,94,20213,4,1877,
-810,Ejerlejlighed,"Tygelsgade 2D, st",9700, Brønderslev,1900000 ,25-04-1993,Alm. Salg,47,40426,2,1877,
-810,Ejerlejlighed,"Tygelsgade 2E, st",9700, Brønderslev,1900000 ,25-04-1993,Alm. Salg,33,57576,1,1877,
 810,Villa,Krogensgade 15,9700, Brønderslev,475000 ,25-04-1993,Alm. Salg,157,3025,7,1938,
 810,Villa,Myrtevej 8,9740, Jerslev J,240000 ,25-04-1993,Alm. Salg,143,1678,6,1934,
 810,Villa,Skagerraksvej 5,9700, Brønderslev,700000 ,23-04-1993,Alm. Salg,146,4795,5,1979,
@@ -17968,10 +17448,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Bredningen 85,9700, Brønderslev,196250 ,10-03-1992,Alm. Salg,83,2364,4,1947,
 810,Villa,Kongensgade 10,9700, Brønderslev,470000 ,09-03-1992,Fam. Salg,158,2975,5,1977,
 810,Villa,Geråvej 105,9340, Asaa,285078 ,09-03-1992,Alm. Salg,124,2299,6,1877,
-810,Rækkehus,Røgelhedegårde 7A,9320, Hjallerup,129600 ,08-03-1992,Alm. Salg,65,1994,3,1920,
 810,Villa,Søndermarken 101,9320, Hjallerup,615000 ,08-03-1992,Alm. Salg,153,4020,5,1973,
 810,Villa,Solsortevej 3,9320, Hjallerup,352000 ,08-03-1992,Alm. Salg,85,4141,4,1961,
-810,Villa,Røgelhedegårde 5,9320, Hjallerup,129600 ,08-03-1992,Alm. Salg,119,1089,3,2001,
 810,Villa,Emil Reesens Kvarter 11,9700, Brønderslev,512000 ,07-03-1992,Fam. Salg,120,4267,4,1979,
 810,Rækkehus,Fasanvej 34,9700, Brønderslev,90860 ,05-03-1992,Alm. Salg,92,988,3,1974,
 810,Villa,Pontoppidansgade 25,9700, Brønderslev,333039 ,05-03-1992,Fam. Salg,136,2449,4,1974,
@@ -17994,11 +17472,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 810,Villa,Asgård 33,9700, Brønderslev,620000 ,26-02-1992,Fam. Salg,131,4733,5,1978,
 810,Villa,Sibeliusvej 25,9700, Brønderslev,505000 ,26-02-1992,Fam. Salg,160,3156,5,1975,
 810,Villa,"Slotsgade 58, 1",9330, Dronninglund,765000 ,23-02-1992,Alm. Salg,135,5667,4,1969,
-810,Ejerlejlighed,"Østergade 24, 1. th",9320, Hjallerup,1500000 ,20-02-1992,Alm. Salg,168,8929,5,1890,
-810,Ejerlejlighed,"Algade 2, 1. tv",9320, Hjallerup,1500000 ,20-02-1992,Alm. Salg,127,11811,3,1890,
-810,Ejerlejlighed,"Algade 2, 1. th",9320, Hjallerup,1500000 ,20-02-1992,Alm. Salg,70,21429,1,1890,
-810,Ejerlejlighed,"Algade 2, st",9320, Hjallerup,1500000 ,20-02-1992,Alm. Salg,127,11811,2,1890,
-810,Ejerlejlighed,"Østergade 24, st. th",9320, Hjallerup,1500000 ,20-02-1992,Alm. Salg,80,18750,3,1890,
 810,Villa,Nørre Alle 6A,9700, Brønderslev,385000 ,19-02-1992,Fam. Salg,118,3263,5,1920,
 810,Villa,Fredensgade 11,9700, Brønderslev,236749 ,19-02-1992,Alm. Salg,133,1780,5,1935,
 810,Villa,Asgård 11,9700, Brønderslev,580000 ,19-02-1992,Alm. Salg,165,3515,4,1974,

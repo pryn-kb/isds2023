@@ -217,7 +217,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 563,Villa,Spelmanns Toft 33,6720, Fanø,1520000 ,03-02-2020,Alm. Salg,174,8736,6,2008,
 563,Villa,Nord Land 34,6720, Fanø,1600000 ,30-01-2020,Alm. Salg,192,8333,7,1785,
 563,Ejerlejlighed,"Postvejen 16, 1",6720, Fanø,2680000 ,12-01-2020,Alm. Salg,98,27347,3,1910,
-563,Villa,Lodsvej 31A,6720, Fanø,475000 ,09-01-2020,Alm. Salg,127,3740,2,1944,-14%
 563,Villa,Øgdal 9,6720, Fanø,450000 ,05-01-2020,Alm. Salg,187,2406,5,2023,
 563,Rækkehus,"Hovedgaden 72, 1",6720, Fanø,2170000 ,19-12-2019,Alm. Salg,89,24382,3,1819,
 563,Villa,Bavnebjerg 15,6720, Fanø,1700000 ,16-12-2019,Alm. Salg,134,12687,5,1979,-7%
@@ -266,7 +265,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 563,Villa,Nordre Engvej 5,6720, Fanø,260000 ,13-05-2019,Andet,105,2476,4,1952,
 563,Villa,Nørre Nytoft 9,6720, Fanø,995000 ,12-05-2019,Alm. Salg,216,4606,6,2021,
 563,Villa,Vestervejen 87,6720, Fanø,3000000 ,05-05-2019,Alm. Salg,218,13761,8,1896,
-563,Villa,Sønderho Strandvej 11C,6720, Fanø,2550000 ,29-04-2019,Alm. Salg,140,18214,5,1800,
 563,Villa,Søndre Engvej 14A,6720, Fanø,935000 ,22-04-2019,Fam. Salg,124,7540,5,1850,
 563,Villa,Valdemarsvej 6,6720, Fanø,1425000 ,14-04-2019,Alm. Salg,197,7234,6,1897,-5%
 563,Villa,Bavnebjerg 6,6720, Fanø,1635000 ,09-04-2019,Alm. Salg,264,6193,5,1978,-8%
@@ -791,9 +789,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 563,Villa,Strandvejen 15A,6720, Fanø,1785000 ,18-06-2008,Alm. Salg,178,10028,6,1984,-10%
 563,Rækkehus,Hovedgaden 1A,6720, Fanø,1195000 ,15-06-2008,Alm. Salg,95,12579,3,1880,
 563,Rækkehus,Dagmarsvej 11,6720, Fanø,1400000 ,15-06-2008,Alm. Salg,141,9929,5,1855,
-563,Rækkehus,Toftevej 3C,6720, Fanø,1200000 ,15-06-2008,Alm. Salg,95,12632,4,1977,
 563,Ejerlejlighed,"Navigationsvej 8, 1",6720, Fanø,595000 ,15-06-2008,Alm. Salg,77,7727,2,1920,
-563,Villa,Poppelvej 5,6720, Fanø,1200000 ,15-06-2008,Alm. Salg,123,9756,4,1965,
 563,Villa,Kapelvej 3,6720, Fanø,850000 ,15-06-2008,Andet,346,2457,4,1850,
 563,Villa,Solvænget 11,6720, Fanø,1600000 ,15-06-2008,Alm. Salg,143,11189,4,1970,
 563,Villa,Granvej 2,6720, Fanø,1350000 ,15-06-2008,Alm. Salg,100,13500,5,1986,
@@ -1063,8 +1059,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 563,Villa,Peder Jessens Toft 12,6720, Fanø,995000 ,01-06-2004,Alm. Salg,128,7773,5,1989,
 563,Rækkehus,"Hovedgaden 72, 1",6720, Fanø,850000 ,25-05-2004,Alm. Salg,89,9551,3,1819,
 563,Villa,Hovedgaden 71,6720, Fanø,875000 ,18-05-2004,Alm. Salg,129,6783,6,1834,
-563,Rækkehus,Mellemgaden 21,6720, Fanø,1650000 ,14-05-2004,Fam. Salg,161,10248,6,1805,
-563,Villa,Mellemgaden 19,6720, Fanø,1650000 ,14-05-2004,Fam. Salg,74,22297,3,1928,
 563,Rækkehus,Færgegaardsvej 6,6720, Fanø,675000 ,09-05-2004,Alm. Salg,72,9375,3,1825,
 563,Villa,Engen 26,6720, Fanø,375000 ,08-05-2004,Alm. Salg,206,1820,6,2006,
 563,Rækkehus,Gammel Byvej 1,6720, Fanø,825000 ,06-04-2004,Alm. Salg,78,10577,3,1760,
@@ -1445,7 +1439,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 563,Villa,Nordre Engvej 8,6720, Fanø,300000 ,26-01-1999,Alm. Salg,142,2113,4,2000,
 563,Villa,Bavnebjerg 2,6720, Fanø,110000 ,24-01-1999,Alm. Salg,206,534,7,1999,
 563,Rækkehus,Hovedgaden 92E,6720, Fanø,585000 ,13-12-1998,Alm. Salg,90,6500,3,1977,
-563,Villa,Sønderho Strandvej 11C,6720, Fanø,1800000 ,13-12-1998,Andet,140,12857,5,1800,
 563,Villa,Mellemgaden 18,6720, Fanø,350000 ,22-11-1998,Alm. Salg,186,1882,6,1898,
 563,Villa,Nord Land 24,6720, Fanø,462685 ,19-11-1998,Andet,100,4627,4,1795,
 563,Villa,Strandvejen 28,6720, Fanø,934393 ,18-11-1998,Alm. Salg,162,5768,5,1976,
@@ -1650,7 +1643,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 563,Rækkehus,Vinkelvej 2,6720, Fanø,695000 ,14-05-1996,Alm. Salg,118,5890,6,1863,
 563,Villa,Nord Land 24,6720, Fanø,481759 ,14-05-1996,Alm. Salg,100,4818,4,1795,
 563,Villa,Martin Christensens Vej 1,6720, Fanø,720929 ,12-05-1996,Alm. Salg,103,6999,5,1803,
-563,Villa,Lodsvej 31A,6720, Fanø,324000 ,08-05-1996,Alm. Salg,127,2551,2,1944,
 563,Rækkehus,Mellemgaden 25,6720, Fanø,743000 ,06-05-1996,Alm. Salg,93,7989,4,1760,
 563,Villa,Stadionvej 7,6720, Fanø,882000 ,05-05-1996,Alm. Salg,129,6837,5,1986,
 563,Rækkehus,Labyrinten 12,6720, Fanø,460468 ,30-04-1996,Alm. Salg,67,6873,2,1898,
@@ -1933,8 +1925,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 563,Villa,Bavnebjerg 30,6720, Fanø,570000 ,09-05-1993,Alm. Salg,134,4254,4,1979,
 563,Rækkehus,Svenskervej 8,6720, Fanø,140250 ,30-04-1993,Fam. Salg,77,1821,2,1801,
 563,Rækkehus,Strandslippe 1B,6720, Fanø,800000 ,26-04-1993,Alm. Salg,249,3213,7,1900,
-563,Villa,Sønderho Strandvej 11C,6720, Fanø,850000 ,25-04-1993,Alm. Salg,140,6071,5,1800,
-563,Villa,"Hovedgaden 12B, st. th",6720, Fanø,1800000 ,18-04-1993,Alm. Salg,110,16364,3,1872,
 563,Villa,Kirkestien 1,6720, Fanø,100000 ,15-04-1993,Alm. Salg,171,585,4,1999,
 563,Rækkehus,Skolevej 6,6720, Fanø,650000 ,13-04-1993,Alm. Salg,143,4545,5,1799,
 563,Villa,Rindbyvej 4,6720, Fanø,695133 ,04-04-1993,Alm. Salg,102,6815,4,1861,
@@ -1989,7 +1979,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 563,Villa,Kikkebjergvej 4,6720, Fanø,395000 ,26-07-1992,Alm. Salg,192,2057,7,1889,
 563,Villa,Vestervejen 63,6720, Fanø,600000 ,21-07-1992,Alm. Salg,122,4918,5,1951,
 563,Villa,Strandvejen 8A,6720, Fanø,600000 ,20-07-1992,Fam. Salg,131,4580,7,1969,
-563,Villa,Lodsvej 31A,6720, Fanø,325000 ,19-07-1992,Alm. Salg,127,2559,2,1944,
 563,Rækkehus,Postvejen 27,6720, Fanø,389000 ,14-07-1992,Alm. Salg,154,2526,6,1850,
 563,Villa,Mellemgaden 29,6720, Fanø,571500 ,13-07-1992,Alm. Salg,197,2901,6,1855,
 563,Villa,Bavnebjerg 50,6720, Fanø,750000 ,12-07-1992,Alm. Salg,245,3061,8,1978,

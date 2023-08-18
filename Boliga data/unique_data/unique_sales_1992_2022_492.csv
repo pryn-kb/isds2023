@@ -41,7 +41,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 492,Rækkehus,Møllergade 18,5960, Marstal,1400000 ,19-09-2022,Fam. Salg,114,12281,3,1880,
 492,Villa,Rolighedsvej 22,5960, Marstal,1200000 ,19-09-2022,Alm. Salg,115,10435,6,1954,-7%
 492,Villa,Ronæsvej 2,5960, Marstal,1075000 ,19-09-2022,Alm. Salg,167,6437,3,1900,-10%
-492,Villa,Søbakkevej 4,5985, Søby Ærø,725000 ,18-09-2022,Alm. Salg,83,8735,3,1904,
 492,Villa,Kappelhøj 3,5985, Søby Ærø,995000 ,17-09-2022,Alm. Salg,104,9567,5,1983,
 492,Villa,Harevej 5,5985, Søby Ærø,542500 ,15-09-2022,Fam. Salg,200,2713,6,1825,
 492,Villa,Nørrevejen 3,5985, Søby Ærø,630000 ,14-09-2022,Alm. Salg,83,7590,3,1900,
@@ -281,10 +280,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 492,Rækkehus,Marstalsvejen 20,5960, Marstal,350000 ,26-08-2021,Fam. Salg,100,3500,4,1898,
 492,Villa,Skovbygade 22,5985, Søby Ærø,805000 ,25-08-2021,Alm. Salg,90,8944,3,1857,-5%
 492,Villa,Mellemgade 7,5960, Marstal,670000 ,25-08-2021,Alm. Salg,181,3702,6,1936,
-492,Ejerlejlighed,"Møllergade 36, st. th",5960, Marstal,1500000 ,24-08-2021,Alm. Salg,45,33333,1,1900,
-492,Ejerlejlighed,"Møllergade 36, 1",5960, Marstal,1500000 ,24-08-2021,Alm. Salg,72,20833,2,1900,
-492,Ejerlejlighed,"Møllergade 36, st. tv",5960, Marstal,1500000 ,24-08-2021,Alm. Salg,59,25424,2,1900,
-492,Ejerlejlighed,Kirkestræde 45,5960, Marstal,1500000 ,24-08-2021,Alm. Salg,62,24194,2,1900,
 492,Villa,Byagervej 17,5970, Ærøskøbing,1125000 ,24-08-2021,Alm. Salg,127,8858,4,1975,-6%
 492,Villa,Bredgade 10,5960, Marstal,1295000 ,24-08-2021,Alm. Salg,125,10360,4,1907,-7%
 492,Rækkehus,Havnegade 30,5960, Marstal,735000 ,23-08-2021,Alm. Salg,145,5069,5,1900,-13%
@@ -311,9 +306,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 492,Villa,Vestergade 39,5970, Ærøskøbing,3725000 ,15-07-2021,Alm. Salg,90,21165,6,1850,
 492,Villa,Møllergade 5,5960, Marstal,1550000 ,12-07-2021,Alm. Salg,88,17614,3,1845,-3%
 492,Villa,Kongensgade 37,5960, Marstal,390000 ,12-07-2021,Alm. Salg,94,4149,4,1803,
-492,Rækkehus,"Havnegade 8, st",5960, Marstal,4460000 ,11-07-2021,Alm. Salg,67,66567,2,1900,
 492,Villa,Fiolstræde 6,5960, Marstal,290000 ,11-07-2021,Alm. Salg,34,8529,2,1810,
-492,Villa,"Havnegade 8, 1",5960, Marstal,4460000 ,11-07-2021,Alm. Salg,102,43725,3,1900,
 492,Villa,Stokkebyvej 29,5970, Ærøskøbing,860000 ,07-07-2021,Alm. Salg,99,8687,5,1875,2%
 492,Villa,Abildvej 7,5985, Søby Ærø,780000 ,07-07-2021,Fam. Salg,179,4358,7,1891,
 492,Villa,Gilleballetofte 4,5970, Ærøskøbing,2880000 ,05-07-2021,Alm. Salg,186,15484,6,1882,
@@ -326,8 +319,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 492,Villa,Lebyvej 3,5985, Søby Ærø,750000 ,29-06-2021,Alm. Salg,230,3261,6,1927,-4%
 492,Rækkehus,Skovgyden 27,5960, Marstal,2445000 ,28-06-2021,Alm. Salg,214,11425,5,1850,
 492,Villa,Smedegade 23,5970, Ærøskøbing,3675000 ,25-06-2021,Alm. Salg,122,30123,5,1800,
-492,Ejerlejlighed,Vestergade 28,5960, Marstal,1100000 ,24-06-2021,Alm. Salg,107,10280,2,1918,-12%
-492,Ejerlejlighed,Reberbanen 2A,5960, Marstal,1100000 ,24-06-2021,Alm. Salg,177,6215,3,1918,-12%
 492,Villa,Lodsgyden 3,5985, Søby Ærø,40000 ,24-06-2021,Fam. Salg,91,440,4,1905,
 492,Villa,Færgevej 42,5960, Marstal,1000000 ,24-06-2021,Alm. Salg,184,5435,8,1800,
 492,Villa,Søbakkevej 10,5985, Søby Ærø,130000 ,24-06-2021,Alm. Salg,93,1398,3,1872,
@@ -1120,8 +1111,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 492,Villa,Dunkærgade 16,5970, Ærøskøbing,1563139 ,15-10-2017,Alm. Salg,170,9195,7,1933,
 492,Villa,Vestergade 41B,5970, Ærøskøbing,603000 ,14-10-2017,Alm. Salg,434,1389,8,1783,-45%
 492,Villa,"Vestergade 41C, st. mf",5970, Ærøskøbing,594000 ,14-10-2017,Alm. Salg,169,3515,6,1783,
-492,Ejerlejlighed,Vestergade 28,5960, Marstal,895000 ,12-10-2017,Andet,107,8364,2,1918,
-492,Ejerlejlighed,Reberbanen 2A,5960, Marstal,895000 ,12-10-2017,Andet,177,5056,3,1918,
 492,Villa,Fæstevej 2,5970, Ærøskøbing,1100000 ,12-10-2017,Alm. Salg,278,3957,8,1927,-8%
 492,Villa,Kirkeballevej 1,5970, Ærøskøbing,325000 ,12-10-2017,Alm. Salg,117,2778,4,1864,
 492,Villa,Stenagre 2,5985, Søby Ærø,375550 ,11-10-2017,Fam. Salg,170,2209,5,1910,
@@ -1277,15 +1266,11 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 492,Villa,Vinkelstræde 1,5960, Marstal,397368 ,22-10-2016,Alm. Salg,211,1883,5,1880,
 492,Villa,Galeasevej 2,5960, Marstal,500000 ,19-10-2016,Alm. Salg,139,3597,4,1972,
 492,Villa,Strandvejen 17,5970, Ærøskøbing,1030000 ,16-10-2016,Alm. Salg,96,10729,4,1959,-10%
-492,Rækkehus,Sølvgade 1,5960, Marstal,213500 ,14-10-2016,Fam. Salg,99,2157,2,1890,
 492,Villa,Østergade 9,5960, Marstal,750000 ,14-10-2016,Fam. Salg,95,7895,5,1946,
-492,Villa,Teglgade 32,5960, Marstal,213500 ,14-10-2016,Fam. Salg,85,2512,3,1850,
 492,Rækkehus,Markgade 24,5960, Marstal,23548 ,09-10-2016,Fam. Salg,54,436,3,1797,
 492,Villa,Moseager 21,5970, Ærøskøbing,615000 ,09-10-2016,Alm. Salg,104,5913,3,1982,-5%
 492,Villa,Øster Bregningemark 26,5970, Ærøskøbing,2250000 ,06-10-2016,Alm. Salg,186,12097,6,1916,
-492,Villa,Søbakkevej 4,5985, Søby Ærø,700000 ,05-10-2016,Alm. Salg,83,8434,3,1904,-12%
 492,Villa,Vestergade 14,5960, Marstal,485000 ,30-09-2016,Alm. Salg,146,3322,5,1930,-18%
-492,Villa,Vestergade 60,5970, Ærøskøbing,1000000 ,29-09-2016,Andet,114,5102,9,1890,
 492,Rækkehus,Filosofgangen 6,5960, Marstal,250000 ,26-09-2016,Alm. Salg,76,3289,2,1800,-23%
 492,Villa,Ommelsvejen 33,5960, Marstal,450000 ,26-09-2016,Alm. Salg,107,4206,3,1961,
 492,Villa,Pilevænget 3,5960, Marstal,555000 ,26-09-2016,Alm. Salg,136,4081,5,1967,-7%
@@ -1355,7 +1340,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 492,Villa,Langebro 6,5985, Søby Ærø,550000 ,18-03-2016,Fam. Salg,190,2895,6,1904,
 492,Villa,Vester Bregninge 32,5970, Ærøskøbing,306000 ,12-03-2016,Fam. Salg,73,4192,2,1962,
 492,Villa,Tværvej 4,5970, Ærøskøbing,300000 ,09-03-2016,Fam. Salg,104,2885,4,1959,
-492,Villa,Vestergade 60,5970, Ærøskøbing,1000000 ,09-03-2016,Alm. Salg,114,5102,9,1890,
 492,Rækkehus,Brogade 1A,5970, Ærøskøbing,2450000 ,03-03-2016,Alm. Salg,116,21121,2,1850,
 492,Villa,Sygehusvejen 8,5970, Ærøskøbing,735000 ,01-03-2016,Alm. Salg,73,10068,3,1953,-1%
 492,Villa,Tranderupvej 33,5970, Ærøskøbing,225000 ,25-02-2016,Alm. Salg,140,1607,5,1932,
@@ -1488,8 +1472,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 492,Ejerlejlighed,"Skolegade 32, 1",5960, Marstal,400000 ,15-04-2015,Auktion,82,4878,3,1905,
 492,Villa,Østerbro 38,5985, Søby Ærø,225000 ,29-03-2015,Alm. Salg,164,1372,5,1934,
 492,Rækkehus,Gasværksvej 2,5960, Marstal,200000 ,26-03-2015,Alm. Salg,72,2778,3,1895,
-492,Rækkehus,"Havnegade 8, st",5960, Marstal,1150000 ,26-03-2015,Andet,67,17164,2,1900,
-492,Villa,"Havnegade 8, 1",5960, Marstal,1150000 ,26-03-2015,Andet,102,11275,3,1900,
 492,Villa,Ellehøjvej 25,5985, Søby Ærø,550000 ,25-03-2015,Alm. Salg,141,3901,5,1976,-8%
 492,Villa,Søby Landevej 16,5985, Søby Ærø,116000 ,24-03-2015,Alm. Salg,115,1009,6,1905,-61%
 492,Villa,Nørregade 1,5970, Ærøskøbing,1730000 ,24-03-2015,Alm. Salg,179,9665,7,1821,
@@ -1775,9 +1757,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 492,Villa,Nørrebro 12,5985, Søby Ærø,148700 ,08-08-2012,Auktion,131,1135,5,1900,
 492,Villa,Brogade 4,5970, Ærøskøbing,800000 ,07-08-2012,Alm. Salg,84,9524,3,1900,
 492,Villa,Kirkeballevej 9,5970, Ærøskøbing,450000 ,01-08-2012,Alm. Salg,97,4639,4,1864,
-492,Ejerlejlighed,Nørrevænget 1A,5960, Marstal,510000 ,30-07-2012,Alm. Salg,70,7286,3,1932,
-492,Ejerlejlighed,Kongensgade 42A,5960, Marstal,510000 ,30-07-2012,Alm. Salg,49,10408,2,1932,
-492,Ejerlejlighed,Kongensgade 42B,5960, Marstal,510000 ,30-07-2012,Alm. Salg,84,6071,3,1932,
 492,Villa,Kærvej 11,5960, Marstal,860000 ,24-07-2012,Alm. Salg,160,5375,5,1970,-12%
 492,Villa,Strandstræde 32,5960, Marstal,1100000 ,17-07-2012,Alm. Salg,192,5729,7,1800,
 492,Villa,Vindeballevej 27,5970, Ærøskøbing,650000 ,16-07-2012,Alm. Salg,160,4063,7,1896,-18%
@@ -1885,8 +1864,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 492,Villa,Lille Risevej 9,5970, Ærøskøbing,301750 ,06-07-2011,Fam. Salg,133,2269,4,1900,
 492,Villa,Møllevejen 76,5960, Marstal,1850000 ,04-07-2011,Alm. Salg,185,10000,4,1948,
 492,Villa,Vestergade 17,5970, Ærøskøbing,990000 ,04-07-2011,Fam. Salg,122,8115,4,1908,
-492,Rækkehus,Skippergade 23,5960, Marstal,350000 ,29-06-2011,Fam. Salg,66,5303,3,1850,
-492,Villa,Kragnæs Strandvej 6,5960, Marstal,350000 ,29-06-2011,Fam. Salg,105,3333,3,1860,
 492,Villa,Willemoesgade 15,5960, Marstal,1200000 ,26-06-2011,Alm. Salg,146,8219,4,1959,-7%
 492,Villa,Arnekrogen 3A,5960, Marstal,735000 ,20-06-2011,Alm. Salg,100,7350,4,1970,-5%
 492,Rækkehus,Kongensgade 12,5960, Marstal,447500 ,19-06-2011,Fam. Salg,164,2729,5,1897,
@@ -1934,8 +1911,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 492,Villa,Vester Bregninge 34,5970, Ærøskøbing,417000 ,10-01-2011,Fam. Salg,77,5416,2,1928,
 492,Villa,Abildvej 3,5985, Søby Ærø,575000 ,03-01-2011,Fam. Salg,80,7188,3,1923,
 492,Villa,Møllevejen 33A,5960, Marstal,3100000 ,28-12-2010,Alm. Salg,150,15816,5,1934,
-492,Rækkehus,Brogade 1A,5970, Ærøskøbing,5500000 ,27-12-2010,Alm. Salg,116,47414,2,1850,
-492,Villa,Nørregade 1,5970, Ærøskøbing,5500000 ,27-12-2010,Alm. Salg,179,30726,7,1821,151%
 492,Villa,Langebro 15,5985, Søby Ærø,800000 ,21-12-2010,Alm. Salg,123,6504,4,1970,
 492,Villa,Bondebygade 14,5960, Marstal,600000 ,21-12-2010,Alm. Salg,78,7692,3,1905,-11%
 492,Villa,Vråvejen 3,5970, Ærøskøbing,2150000 ,20-12-2010,Alm. Salg,269,7993,7,1914,-20%
@@ -1971,7 +1946,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 492,Villa,Vesterbro 16,5970, Ærøskøbing,725000 ,05-09-2010,Alm. Salg,112,6473,4,1857,-19%
 492,Villa,Møllevejen 16,5960, Marstal,360000 ,29-08-2010,Alm. Salg,93,3871,3,1913,
 492,Villa,Frydendal 8,5970, Ærøskøbing,290000 ,29-08-2010,Alm. Salg,104,2788,3,1875,
-492,Villa,Langebro 1. 5,5985, Søby Ærø,1200000 ,29-08-2010,Alm. Salg,81,14815,3,1848,
 492,Villa,Søkildevej 7,5970, Ærøskøbing,1310000 ,26-08-2010,Alm. Salg,147,8912,4,1974,-6%
 492,Villa,Ronæsvej 11,5960, Marstal,1200000 ,25-08-2010,Alm. Salg,211,5687,7,1869,-20%
 492,Villa,Tværby 18,5970, Ærøskøbing,158300 ,24-08-2010,Alm. Salg,179,884,7,1900,
@@ -2414,10 +2388,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 492,Villa,Græsvængevej 66,5960, Marstal,900000 ,01-10-2007,Andet,150,6000,6,1915,
 492,Villa,Østerbro 40,5985, Søby Ærø,450000 ,01-10-2007,Alm. Salg,86,5233,4,1931,-9%
 492,Villa,Lærkegade 7,5960, Marstal,733210 ,30-09-2007,Fam. Salg,65,11280,3,1877,
-492,Rækkehus,"Havnegade 8, st",5960, Marstal,900000 ,27-09-2007,Alm. Salg,67,13433,2,1900,-18%
-492,Villa,"Havnegade 8, 1",5960, Marstal,900000 ,27-09-2007,Alm. Salg,102,8824,3,1900,-18%
-492,Ejerlejlighed,"Kongensgade 22, 1",5960, Marstal,1000000 ,23-09-2007,Alm. Salg,72,13889,3,1875,-5%
-492,Ejerlejlighed,"Skovgyden 1A, st",5960, Marstal,1000000 ,23-09-2007,Alm. Salg,62,8475,7,1875,-5%
 492,Villa,Mejerivej 3,5970, Ærøskøbing,800000 ,23-09-2007,Alm. Salg,75,10667,4,1857,-4%
 492,Villa,Ellemosevej 2,5970, Ærøskøbing,1570000 ,21-09-2007,Alm. Salg,259,6062,10,1903,-2%
 492,Villa,Østerbro 8,5985, Søby Ærø,350000 ,18-09-2007,Alm. Salg,115,3043,5,1877,
@@ -2438,11 +2408,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 492,Villa,Strandvejen 7,5970, Ærøskøbing,1800000 ,30-08-2007,Alm. Salg,130,13846,4,1966,
 492,Villa,Reberbanen 3,5960, Marstal,75000 ,30-08-2007,Alm. Salg,132,568,5,1868,
 492,Villa,Kirkeballevej 12,5970, Ærøskøbing,420000 ,30-08-2007,Alm. Salg,178,2360,5,1942,-24%
-492,Ejerlejlighed,"Vestergade 70, 1",5970, Ærøskøbing,885000 ,29-08-2007,Alm. Salg,204,4338,5,1908,
-492,Ejerlejlighed,Baggavle 11,5970, Ærøskøbing,885000 ,29-08-2007,Alm. Salg,94,9415,3,1810,
-492,Ejerlejlighed,Baggavle 7,5970, Ærøskøbing,885000 ,29-08-2007,Alm. Salg,51,17353,2,1964,
-492,Ejerlejlighed,Baggavle 9,5970, Ærøskøbing,885000 ,29-08-2007,Alm. Salg,48,18438,2,1964,
-492,Ejerlejlighed,Baggavle 5,5970, Ærøskøbing,885000 ,29-08-2007,Alm. Salg,159,5566,5,1940,
 492,Villa,Søbygårdsmarksvej 10,5985, Søby Ærø,950000 ,29-08-2007,Alm. Salg,143,6643,6,1870,
 492,Villa,Stokkeby Hovedgade 4,5970, Ærøskøbing,885000 ,28-08-2007,Alm. Salg,131,6756,4,1800,-1%
 492,Villa,Krovejen 8,5960, Marstal,340000 ,28-08-2007,Auktion,78,4359,4,1900,
@@ -2523,11 +2488,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 492,Villa,Rådhusstræde 5,5960, Marstal,1195000 ,08-05-2007,Alm. Salg,138,8659,5,1900,
 492,Villa,Buevej 22,5985, Søby Ærø,480000 ,05-05-2007,Alm. Salg,115,4174,3,1827,
 492,Villa,Buevej 18,5985, Søby Ærø,810000 ,03-05-2007,Alm. Salg,149,5436,8,1850,
-492,Ejerlejlighed,Nørrevænget 1A,5960, Marstal,750000 ,02-05-2007,Alm. Salg,70,10714,3,1932,
-492,Ejerlejlighed,Kongensgade 42A,5960, Marstal,750000 ,02-05-2007,Alm. Salg,49,15306,2,1932,
-492,Ejerlejlighed,Kongensgade 42B,5960, Marstal,750000 ,02-05-2007,Alm. Salg,84,8929,3,1932,
 492,Villa,Græsvængevej 30,5960, Marstal,1650000 ,02-05-2007,Alm. Salg,178,9270,7,1933,-3%
-492,Villa,Langebro 1. 5,5985, Søby Ærø,900000 ,01-05-2007,Alm. Salg,81,11111,3,1848,
 492,Villa,Danmarksgade 13,5960, Marstal,515000 ,30-04-2007,Alm. Salg,137,3759,3,1900,-5%
 492,Villa,Alleen 22,5985, Søby Ærø,400000 ,29-04-2007,Fam. Salg,62,6452,5,1926,
 492,Villa,Kongeballevej 14,5970, Ærøskøbing,450000 ,24-04-2007,Alm. Salg,77,5844,2,1958,
@@ -2799,9 +2760,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 492,Villa,Alleen 17,5985, Søby Ærø,625000 ,11-01-2006,Alm. Salg,97,6443,5,1926,
 492,Villa,Havnevejen 21,5985, Søby Ærø,820000 ,11-01-2006,Alm. Salg,190,4316,6,1936,
 492,Villa,Skovgyden 18,5960, Marstal,300000 ,11-01-2006,Alm. Salg,94,3191,3,1900,
-492,Ejerlejlighed,"Markgade 6, 1",5960, Marstal,1750000 ,10-01-2006,Auktion,126,13889,6,1955,
 492,Villa,Møllevejen 3,5960, Marstal,475000 ,10-01-2006,Alm. Salg,119,3992,5,1897,
-492,Villa,Strandstræde 39,5960, Marstal,1750000 ,10-01-2006,Auktion,66,26515,2,1880,
 492,Rækkehus,Toldbodgade 7,5960, Marstal,675000 ,08-01-2006,Alm. Salg,64,10547,5,1900,
 492,Villa,Smedegade 24,5970, Ærøskøbing,1275000 ,08-01-2006,Alm. Salg,145,8793,6,1828,
 492,Villa,Sygehusvejen 15,5970, Ærøskøbing,780000 ,06-01-2006,Alm. Salg,173,4509,6,1939,
@@ -3036,8 +2995,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 492,Villa,Toftevejen 6,5960, Marstal,670000 ,20-12-2004,Alm. Salg,94,7128,5,1890,
 492,Rækkehus,Kongensgade 31C,5960, Marstal,350000 ,19-12-2004,Alm. Salg,232,1509,5,1800,
 492,Villa,Tværby 22,5970, Ærøskøbing,460000 ,16-12-2004,Alm. Salg,193,2383,8,1851,
-492,Ejerlejlighed,Vestergade 28,5960, Marstal,355000 ,14-12-2004,Auktion,107,3318,2,1918,
-492,Ejerlejlighed,Reberbanen 2A,5960, Marstal,355000 ,14-12-2004,Auktion,177,2006,3,1918,
 492,Villa,St. Rise Landevej 7,5970, Ærøskøbing,308863 ,13-12-2004,Alm. Salg,152,2032,7,1860,
 492,Villa,Vitsø 25,5985, Søby Ærø,925000 ,12-12-2004,Fam. Salg,155,5968,5,1877,
 492,Villa,Ommelsvejen 32,5960, Marstal,325000 ,11-12-2004,Alm. Salg,220,1477,11,1925,
@@ -3435,13 +3392,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 492,Villa,Møllevejen 36,5960, Marstal,680676 ,01-12-2002,Alm. Salg,151,4508,3,1916,
 492,Villa,Bredgade 6,5960, Marstal,820000 ,27-11-2002,Alm. Salg,168,4881,6,1900,
 492,Villa,Ommelsvejen 28,5960, Marstal,1100000 ,27-11-2002,Alm. Salg,152,7237,5,1971,
-492,Rækkehus,Prinsensgade 30,5960, Marstal,300000 ,26-11-2002,Fam. Salg,44,6818,3,1760,
-492,Villa,Prinsensgade 28,5960, Marstal,300000 ,26-11-2002,Fam. Salg,82,3659,2,1876,
 492,Villa,Brogade 15,5970, Ærøskøbing,170000 ,24-11-2002,Fam. Salg,72,2361,3,1877,
 492,Villa,Vindeballegade 21,5970, Ærøskøbing,400000 ,21-11-2002,Andet,152,2632,8,1932,
 492,Villa,Møllegyden 8,5970, Ærøskøbing,190000 ,17-11-2002,Alm. Salg,119,1597,4,1962,
-492,Ejerlejlighed,Bregninge Møllevej 4. tv,5970, Ærøskøbing,750000 ,16-11-2002,Alm. Salg,122,6148,5,1926,
-492,Villa,Bregninge Møllevej 4. th,5970, Ærøskøbing,750000 ,16-11-2002,Alm. Salg,187,4011,4,1926,
 492,Villa,Tranderupgade 30,5970, Ærøskøbing,420000 ,14-11-2002,Alm. Salg,141,2979,5,1890,
 492,Villa,Nørregade 16,5970, Ærøskøbing,470000 ,03-11-2002,Alm. Salg,103,4563,4,1850,
 492,Villa,Tranderupgade 30,5970, Ærøskøbing,420000 ,31-10-2002,Alm. Salg,141,2979,5,1890,
@@ -4137,9 +4090,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 492,Villa,Øster Bregninge 5,5970, Ærøskøbing,380000 ,03-06-1999,Alm. Salg,125,3040,4,1931,
 492,Villa,Nørrebro 6,5985, Søby Ærø,260000 ,03-06-1999,Fam. Salg,118,2203,4,1957,
 492,Villa,Strandvejen 27,5960, Marstal,310000 ,02-06-1999,Alm. Salg,128,2422,4,1903,
-492,Ejerlejlighed,Bregninge Møllevej 4. tv,5970, Ærøskøbing,628119 ,01-06-1999,Alm. Salg,122,5149,5,1926,
 492,Villa,Markgade 17,5960, Marstal,708753 ,01-06-1999,Alm. Salg,139,5099,5,1827,
-492,Villa,Bregninge Møllevej 4. th,5970, Ærøskøbing,628119 ,01-06-1999,Alm. Salg,187,3359,4,1926,
 492,Villa,Vesterløkke 1,5970, Ærøskøbing,242565 ,23-05-1999,Alm. Salg,198,1225,5,1976,
 492,Villa,Strandstræde 29,5960, Marstal,475000 ,16-05-1999,Alm. Salg,123,3862,4,1937,
 492,Villa,Ll. Risemarksvej 13,5970, Ærøskøbing,130000 ,05-05-1999,Alm. Salg,238,546,5,1880,
@@ -4212,10 +4163,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 492,Villa,Smedevejen 16,5970, Ærøskøbing,550000 ,20-01-1999,Alm. Salg,114,4825,4,1960,
 492,Villa,Søndergade 6,5960, Marstal,500000 ,18-01-1999,Alm. Salg,94,5319,3,1850,
 492,Villa,Pilevænget 20,5960, Marstal,570973 ,13-01-1999,Alm. Salg,100,5710,4,1967,
-492,Ejerlejlighed,"Markgade 6, 1",5960, Marstal,624700 ,06-01-1999,Alm. Salg,126,4958,6,1955,
 492,Villa,Rolighedsvej 13,5960, Marstal,625000 ,06-01-1999,Alm. Salg,119,5252,4,1962,
 492,Villa,Sletagervej 2,5970, Ærøskøbing,340000 ,06-01-1999,Alm. Salg,162,2099,6,1865,
-492,Villa,Strandstræde 39,5960, Marstal,624700 ,06-01-1999,Alm. Salg,66,9465,2,1880,
 492,Villa,Færgevej 52,5960, Marstal,574500 ,05-01-1999,Alm. Salg,138,4163,4,1872,
 492,Villa,Græsvængevej 39,5960, Marstal,150000 ,03-01-1999,Alm. Salg,71,2113,4,1905,
 492,Villa,Bymøllevej 4A,5960, Marstal,663000 ,01-01-1999,Fam. Salg,160,4144,5,1978,
@@ -4381,9 +4330,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 492,Villa,Søkildevej 32,5970, Ærøskøbing,425000 ,02-05-1998,Alm. Salg,136,3125,5,1967,
 492,Villa,Nørrebro 12,5985, Søby Ærø,283585 ,02-05-1998,Alm. Salg,131,2165,5,1900,
 492,Villa,Bøssehage 12A,5970, Ærøskøbing,145000 ,01-05-1998,Fam. Salg,110,1318,3,2012,
-492,Ejerlejlighed,Bregninge Møllevej 4. tv,5970, Ærøskøbing,855000 ,30-04-1998,Alm. Salg,122,7008,5,1926,
 492,Villa,Sølvgade 11,5960, Marstal,230000 ,30-04-1998,Alm. Salg,60,3833,3,1777,
-492,Villa,Bregninge Møllevej 4. th,5970, Ærøskøbing,855000 ,30-04-1998,Alm. Salg,187,4572,4,1926,
 492,Villa,Søndre Kystvej 19,5970, Ærøskøbing,700000 ,28-04-1998,Alm. Salg,253,2767,10,1925,
 492,Villa,Hvidtfeldtsgade 14,5960, Marstal,190000 ,27-04-1998,Alm. Salg,103,1845,3,1901,
 492,Villa,Græsvængevej 8,5960, Marstal,237500 ,27-04-1998,Fam. Salg,235,1011,7,1893,
@@ -4706,8 +4653,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 492,Villa,Lille Risevej 10,5970, Ærøskøbing,192500 ,28-10-1996,Fam. Salg,180,1069,5,1910,
 492,Villa,Oldegade 12,5970, Ærøskøbing,120000 ,27-10-1996,Alm. Salg,300,440,12,1895,
 492,Villa,Danmarksgade 11,5960, Marstal,450000 ,23-10-1996,Alm. Salg,74,6081,3,1920,
-492,Ejerlejlighed,Vestergade 28,5960, Marstal,616639 ,22-10-1996,Alm. Salg,107,5763,2,1918,
-492,Ejerlejlighed,Reberbanen 2A,5960, Marstal,616639 ,22-10-1996,Alm. Salg,177,3484,3,1918,
 492,Villa,Alleen 21,5985, Søby Ærø,235000 ,22-10-1996,Alm. Salg,84,2798,4,1958,
 492,Villa,Gyden 2,5970, Ærøskøbing,410000 ,22-10-1996,Alm. Salg,43,9535,3,1860,
 492,Villa,Thorupvej 26,5970, Ærøskøbing,200000 ,20-10-1996,Alm. Salg,85,2353,3,1875,
@@ -5048,9 +4993,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 492,Villa,Havnevejen 14,5985, Søby Ærø,225000 ,28-04-1995,Alm. Salg,190,1184,5,1900,
 492,Rækkehus,Kongensgade 12,5960, Marstal,434000 ,27-04-1995,Alm. Salg,164,2646,5,1897,
 492,Villa,Danmarksgade 6,5960, Marstal,399077 ,27-04-1995,Alm. Salg,98,4072,5,1899,
-492,Ejerlejlighed,"Markgade 6, 1",5960, Marstal,500000 ,23-04-1995,Alm. Salg,126,3968,6,1955,
 492,Villa,Ommelsvejen 1,5960, Marstal,331679 ,23-04-1995,Alm. Salg,151,2197,6,1905,
-492,Villa,Strandstræde 39,5960, Marstal,500000 ,23-04-1995,Alm. Salg,66,7576,2,1880,
 492,Villa,Skovvejen 6,5985, Søby Ærø,440000 ,22-04-1995,Fam. Salg,177,2486,5,1903,
 492,Villa,Møllevejen 38,5960, Marstal,323966 ,19-04-1995,Alm. Salg,143,2265,5,1930,
 492,Villa,Sygehusvejen 2,5970, Ærøskøbing,668492 ,19-04-1995,Alm. Salg,166,4027,4,1890,
@@ -5244,8 +5187,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 492,Villa,Øster Bregninge 46,5970, Ærøskøbing,201000 ,27-04-1994,Alm. Salg,163,1233,8,1914,
 492,Villa,Søbygårdsmarksvej 8,5985, Søby Ærø,112230 ,26-04-1994,Andet,70,1603,2,1750,
 492,Villa,Frydendal 10,5970, Ærøskøbing,171309 ,25-04-1994,Alm. Salg,103,1663,4,1882,
-492,Rækkehus,Teglgade 21,5960, Marstal,150000 ,21-04-1994,Alm. Salg,107,1402,4,1777,
-492,Villa,Teglgade 7,5960, Marstal,150000 ,21-04-1994,Alm. Salg,114,1316,3,1880,
 492,Villa,Strandvejen 19,5960, Marstal,490114 ,20-04-1994,Alm. Salg,136,3604,6,1904,
 492,Villa,Smedegade 10,5970, Ærøskøbing,525000 ,19-04-1994,Alm. Salg,223,2354,6,1870,
 492,Villa,Reberbanen 20,5960, Marstal,375000 ,18-04-1994,Alm. Salg,106,3538,5,1954,
@@ -5320,8 +5261,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 492,Villa,Hovedgaden 28,5960, Marstal,290000 ,19-12-1993,Alm. Salg,139,2086,3,1933,
 492,Villa,Østergade 6,5970, Ærøskøbing,326741 ,19-12-1993,Alm. Salg,129,2533,7,1863,
 492,Rækkehus,Halvejen 5F,5960, Marstal,415000 ,16-12-1993,Alm. Salg,122,3402,3,1989,
-492,Ejerlejlighed,"Hvidtfeldtsgade 2, 1",5960, Marstal,340000 ,16-12-1993,Alm. Salg,100,3400,3,1902,
-492,Ejerlejlighed,Kirkestræde 42,5960, Marstal,340000 ,16-12-1993,Alm. Salg,100,3400,3,1902,
 492,Villa,Søndergade 54,5970, Ærøskøbing,300000 ,16-12-1993,Alm. Salg,145,2069,5,1878,
 492,Villa,Søtoften 18,5970, Ærøskøbing,500000 ,16-12-1993,Fam. Salg,135,3704,4,1968,
 492,Villa,Vestergade 50,5960, Marstal,187000 ,15-12-1993,Fam. Salg,112,1670,5,1910,
@@ -5334,8 +5273,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 492,Rækkehus,Niels Juelsgade 9,5960, Marstal,285000 ,01-12-1993,Alm. Salg,117,2436,3,1893,
 492,Villa,Skovgyden 12,5960, Marstal,200000 ,30-11-1993,Fam. Salg,92,2174,3,1877,
 492,Villa,Bondebygade 2,5960, Marstal,358000 ,26-11-1993,Alm. Salg,132,2712,5,1840,
-492,Ejerlejlighed,Buegade 7,5960, Marstal,350000 ,25-11-1993,Alm. Salg,70,5000,3,1887,
-492,Ejerlejlighed,Færgestræde 2A,5960, Marstal,350000 ,25-11-1993,Alm. Salg,70,5000,3,1887,
 492,Villa,Nørrebro 25,5985, Søby Ærø,220000 ,25-11-1993,Fam. Salg,172,1279,4,1908,
 492,Villa,Hovedgaden 29,5960, Marstal,287750 ,24-11-1993,Alm. Salg,260,1107,9,1780,
 492,Villa,Møllevejen 39A,5960, Marstal,460000 ,24-11-1993,Alm. Salg,111,4144,4,1964,
@@ -5502,9 +5439,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 492,Villa,Smedegade 7,5970, Ærøskøbing,300000 ,28-02-1993,Alm. Salg,93,3226,3,1915,
 492,Villa,Skippergade 38,5960, Marstal,150000 ,18-02-1993,Alm. Salg,46,3261,2,1827,
 492,Villa,Skonnertvej 33,5960, Marstal,98176 ,17-02-1993,Alm. Salg,206,477,8,1993,
-492,Rækkehus,Strandstræde 17,5960, Marstal,150000 ,14-02-1993,Alm. Salg,69,2174,2,1877,
 492,Villa,Havnegade 36,5960, Marstal,270000 ,14-02-1993,Fam. Salg,177,1525,4,1870,
-492,Villa,Strandstræde 2,5960, Marstal,150000 ,14-02-1993,Alm. Salg,107,1402,3,1800,
 492,Villa,Lebyvej 32,5985, Søby Ærø,195000 ,14-02-1993,Alm. Salg,169,1154,3,1820,
 492,Villa,Strandbyvejen 24,5960, Marstal,100000 ,14-02-1993,Fam. Salg,52,1923,4,1880,
 492,Villa,Tranderupgade 30,5970, Ærøskøbing,215000 ,05-02-1993,Fam. Salg,141,1525,5,1890,
@@ -5754,8 +5689,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 492,Villa,Marstalsvejen 30,5960, Marstal,350000 ,21-01-1992,Fam. Salg,158,2215,4,1968,
 492,Villa,Færgevej 43,5960, Marstal,172145 ,19-01-1992,Fam. Salg,139,1238,4,1976,
 492,Villa,Kirkestræde 38,5960, Marstal,125000 ,19-01-1992,Alm. Salg,201,622,5,1890,
-492,Ejerlejlighed,"Kongensgade 22, 1",5960, Marstal,650000 ,17-01-1992,Alm. Salg,72,9028,3,1875,
-492,Ejerlejlighed,"Skovgyden 1A, st",5960, Marstal,650000 ,17-01-1992,Alm. Salg,62,5508,7,1875,
 492,Villa,Nørrevænget 5,5985, Søby Ærø,250000 ,17-01-1992,Alm. Salg,107,2336,5,1925,
 492,Villa,Østerbro 3,5985, Søby Ærø,235000 ,17-01-1992,Alm. Salg,116,2026,4,1890,
 492,Villa,Kirkevejen 39,5960, Marstal,125000 ,15-01-1992,Alm. Salg,70,1786,3,1950,

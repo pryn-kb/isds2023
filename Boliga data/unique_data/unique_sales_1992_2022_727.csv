@@ -192,7 +192,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 727,Villa,Blegevej 10,8300, Odder,2875000 ,03-05-2022,Alm. Salg,141,20390,5,1972,
 727,Villa,Fiskergade 3,8300, Odder,1495000 ,03-05-2022,Alm. Salg,135,11074,4,1900,-4%
 727,Villa,Balshavevej 85,8300, Odder,1800000 ,03-05-2022,Alm. Salg,110,16364,4,1968,
-727,Rækkehus,Aaholmsgade 6C,8300, Odder,3405878 ,30-04-2022,Andet,79,43112,2,1930,
 727,Villa,Aaholmsgade 8,8300, Odder,2800000 ,30-04-2022,Andet,256,10938,6,1930,
 727,Villa,Gartnervænget 1,8300, Odder,2995000 ,29-04-2022,Alm. Salg,166,18042,4,2009,
 727,Rækkehus,Holsteinsgade 35B,8300, Odder,1775000 ,28-04-2022,Alm. Salg,78,22756,2,1954,-6%
@@ -205,7 +204,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 727,Rækkehus,Borgbjergalle 5,8300, Odder,1000000 ,20-04-2022,Alm. Salg,80,12500,4,1941,-5%
 727,Villa,Askelunden 29,8300, Odder,620000 ,20-04-2022,Fam. Salg,131,4733,4,1996,
 727,Villa,Engtoften 8,8300, Odder,1600000 ,20-04-2022,Alm. Salg,177,9040,5,1965,-6%
-727,Villa,Snærild Bakke 2,8300, Odder,2000000 ,18-04-2022,Alm. Salg,387,5168,10,1900,
 727,Villa,Røddalsminde 52,8300, Odder,4675000 ,17-04-2022,Alm. Salg,238,19643,9,2001,0%
 727,Rækkehus,Snærildvej 43B,8300, Odder,2150000 ,16-04-2022,Alm. Salg,95,22632,4,1985,
 727,Villa,Høghus 109,8300, Odder,4500000 ,12-04-2022,Alm. Salg,180,25000,6,2018,-2%
@@ -339,7 +337,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 727,Villa,Blegevej 12,8300, Odder,2750000 ,22-12-2021,Alm. Salg,168,16369,6,1971,-2%
 727,Villa,Kløverbakkevej 20,8300, Odder,2998000 ,20-12-2021,Alm. Salg,125,23984,5,2022,
 727,Villa,Avnbøgevej 5,8300, Odder,2795000 ,20-12-2021,Alm. Salg,127,22008,5,1969,
-727,Villa,Rørthvej 4A,8300, Odder,5200000 ,19-12-2021,Alm. Salg,90,57778,4,1905,
 727,Ejerlejlighed,Banegårdsgade 25,8300, Odder,2100000 ,19-12-2021,Alm. Salg,92,22826,4,1930,-4%
 727,Villa,Skolegade 23,8300, Odder,2375000 ,19-12-2021,Alm. Salg,95,25000,3,1960,-5%
 727,Villa,Vesterhåb 48B,8300, Odder,2611500 ,19-12-2021,Alm. Salg,118,22131,4,2022,
@@ -661,8 +658,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 727,Villa,Østermarksvej 3,8300, Odder,4300000 ,18-05-2021,Alm. Salg,222,19369,7,1957,5%
 727,Villa,Rørthvej 23,8300, Odder,2195000 ,18-05-2021,Alm. Salg,125,17560,5,1900,
 727,Villa,Bøgevej 22,8300, Odder,3650000 ,18-05-2021,Alm. Salg,194,18814,7,1968,-1%
-727,Ejerlejlighed,Passagen 3,8300, Odder,1600000 ,17-05-2021,Alm. Salg,60,26667,2,1885,-13%
-727,Ejerlejlighed,Rådhusgade 18,8300, Odder,1600000 ,17-05-2021,Alm. Salg,100,16000,3,1885,-13%
 727,Villa,Drammelstrupvej 19,8300, Odder,1200000 ,17-05-2021,Alm. Salg,159,7547,7,1902,-7%
 727,Villa,Strandvejen 6A,8300, Odder,2383000 ,17-05-2021,Alm. Salg,160,14894,6,1955,5%
 727,Villa,Kløverbakkevej 33,8300, Odder,3108000 ,17-05-2021,Alm. Salg,104,29885,4,2022,
@@ -1000,11 +995,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 727,Villa,Svinballevej 17,8350, Hundslund,1660000 ,15-11-2020,Alm. Salg,155,10710,4,1942,-6%
 727,Villa,Rodstensgade 1,8300, Odder,2600000 ,13-11-2020,Alm. Salg,253,10277,6,1965,-4%
 727,Villa,Rudevej 6,8300, Odder,895000 ,13-11-2020,Alm. Salg,60,14917,2,1964,
-727,Rækkehus,"Rosensgade 42, 1",8300, Odder,6925000 ,12-11-2020,Alm. Salg,98,70663,2,1924,
-727,Ejerlejlighed,"Aaparkeringen 8, st",8300, Odder,6925000 ,12-11-2020,Alm. Salg,41,168902,3,1887,
-727,Ejerlejlighed,"Aaparkeringen 8, 1",8300, Odder,6925000 ,12-11-2020,Alm. Salg,109,63532,4,1887,
-727,Ejerlejlighed,"Rosensgade 42, 3",8300, Odder,6925000 ,12-11-2020,Alm. Salg,52,133173,2,1924,
-727,Ejerlejlighed,"Rosensgade 42, 2",8300, Odder,6925000 ,12-11-2020,Alm. Salg,98,70663,2,1924,
 727,Villa,Lemmestrupvej 20,8300, Odder,2750000 ,12-11-2020,Fam. Salg,255,10784,5,2007,
 727,Villa,Snærildvej 80,8300, Odder,1950000 ,12-11-2020,Alm. Salg,194,10052,6,1968,-11%
 727,Villa,Stampmøllevej 5,8300, Odder,989500 ,12-11-2020,Fam. Salg,162,4899,6,1965,
@@ -1063,7 +1053,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 727,Villa,Hou Strandpark 70,8300, Odder,725000 ,04-10-2020,Alm. Salg,181,4006,6,2022,
 727,Villa,Overskov 54,8300, Odder,850000 ,04-10-2020,Alm. Salg,184,4620,6,0,
 727,Rækkehus,Kystvejen 99D,8300, Odder,4700000 ,01-10-2020,Alm. Salg,185,25405,5,2003,-6%
-727,Rækkehus,Aaholmsgade 6C,8300, Odder,4305878 ,30-09-2020,Andet,79,54505,2,1930,
 727,Villa,Gosmervej 57,8300, Odder,849000 ,30-09-2020,Alm. Salg,170,4994,8,1906,
 727,Villa,Hou Strandpark 68,8300, Odder,795000 ,30-09-2020,Alm. Salg,165,4818,4,2021,
 727,Villa,Hou Strandpark 98,8300, Odder,645000 ,30-09-2020,Alm. Salg,199,3241,5,2021,
@@ -1289,9 +1278,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 727,Villa,Skovlundsvej 11,8300, Odder,3600000 ,23-04-2020,Alm. Salg,188,19149,5,1968,-9%
 727,Villa,Frederikshaldvej 29,8300, Odder,2995000 ,21-04-2020,Alm. Salg,170,17618,6,1985,
 727,Villa,Aabygade 11,8300, Odder,2045000 ,20-04-2020,Alm. Salg,147,13912,6,1927,-2%
-727,Rækkehus,Katrineholmsalle 123,8300, Odder,1600000 ,19-04-2020,Alm. Salg,85,18824,4,1970,-3%
 727,Villa,Kongshusvej 586,8300, Odder,1190000 ,19-04-2020,Alm. Salg,100,11900,4,1940,
-727,Villa,Parkvej 16,8300, Odder,1600000 ,19-04-2020,Alm. Salg,95,16842,3,1956,-2%
 727,Villa,Smedegade 97,8300, Odder,3120000 ,16-04-2020,Alm. Salg,201,15522,5,2010,-1%
 727,Villa,Bisgaardsvej 3,8300, Odder,2395000 ,15-04-2020,Alm. Salg,169,14172,7,1930,
 727,Villa,Hou Strandpark 41,8300, Odder,650000 ,14-04-2020,Alm. Salg,200,3250,5,2021,-6%
@@ -1305,9 +1292,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 727,Villa,Smedegade 24,8300, Odder,1275000 ,03-04-2020,Alm. Salg,170,7500,4,1963,-15%
 727,Rækkehus,Boulevarden 21B,8300, Odder,2300000 ,01-04-2020,Alm. Salg,96,23958,3,2000,
 727,Villa,Gersdorffsgade 22,8300, Odder,2100000 ,01-04-2020,Alm. Salg,149,14094,3,1973,-16%
-727,Ejerlejlighed,"Holsteinsgade 2, 1. tv",8300, Odder,6900000 ,30-03-2020,Alm. Salg,178,38764,6,1928,
-727,Ejerlejlighed,"Banegårdsgade 8, 2. th",8300, Odder,6900000 ,30-03-2020,Alm. Salg,105,65714,4,1928,
-727,Ejerlejlighed,"Holsteinsgade 2, 2",8300, Odder,6900000 ,30-03-2020,Alm. Salg,76,90789,3,1928,
 727,Rækkehus,Gl Krovej 37B,8300, Odder,1125000 ,29-03-2020,Alm. Salg,90,12500,5,1988,-13%
 727,Villa,Rådhusgade 44,8300, Odder,1100000 ,26-03-2020,Fam. Salg,160,6875,7,1907,
 727,Villa,Lerdrupvej 5,8300, Odder,1100000 ,25-03-2020,Alm. Salg,111,9910,3,1989,-8%
@@ -1421,9 +1405,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 727,Villa,Snærildvej 62A,8300, Odder,3175000 ,04-12-2019,Alm. Salg,152,20888,5,1925,
 727,Villa,Husrækken 19,8350, Hundslund,1900000 ,04-12-2019,Alm. Salg,220,8636,8,1777,-22%
 727,Ejerlejlighed,"Holsteinsgade 24, st",8300, Odder,2000000 ,03-12-2019,Alm. Salg,139,14388,4,1919,
-727,Ejerlejlighed,"Holsteinsgade 24, 1",8300, Odder,1900000 ,03-12-2019,Alm. Salg,159,11950,5,1919,-19%
 727,Villa,Saloparken 339,8300, Odder,2650000 ,03-12-2019,Alm. Salg,143,18531,6,1999,
-727,Villa,Stampmøllevej 2,8300, Odder,1900000 ,03-12-2019,Alm. Salg,160,11875,7,1947,-5%
 727,Villa,Sct. Maries Vænge 10,8300, Odder,795000 ,03-12-2019,Alm. Salg,155,5129,5,2021,
 727,Villa,Hou Strandpark 32,8300, Odder,2550000 ,03-12-2019,Alm. Salg,171,14912,4,2018,
 727,Rækkehus,Hagemannsgade 5,8300, Odder,1498000 ,02-12-2019,Alm. Salg,153,9791,4,1943,
@@ -1476,7 +1458,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 727,Villa,Højvænget 113,8300, Odder,2000000 ,24-10-2019,Alm. Salg,113,17699,4,1974,-5%
 727,Villa,Alrøvej 95,8300, Odder,16750000 ,23-10-2019,Andet,120,139583,4,1962,
 727,Villa,Ballevej 76,8300, Odder,3140000 ,23-10-2019,Alm. Salg,189,16614,6,1960,-2%
-727,Villa,Aakjærvej 78,8300, Odder,1900000 ,22-10-2019,Alm. Salg,193,9845,8,1946,-4%
 727,Rækkehus,Kløvermarksvej 12,8300, Odder,1775000 ,17-10-2019,Alm. Salg,104,17067,4,1988,
 727,Ejerlejlighed,"Rosensgade 63B, 2",8300, Odder,977500 ,17-10-2019,Fam. Salg,101,9678,3,1885,
 727,Villa,Skovlundsvej 22,8300, Odder,1495000 ,16-10-2019,Alm. Salg,136,10993,5,1970,
@@ -1545,11 +1526,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 727,Villa,Alrøvej 381,8300, Odder,970000 ,15-08-2019,Alm. Salg,133,7293,4,1920,-2%
 727,Rækkehus,Klitrosevej 29,8300, Odder,3600000 ,14-08-2019,Alm. Salg,224,16071,5,2021,
 727,Ejerlejlighed,"Nørregade 63B, st. th",8300, Odder,410000 ,13-08-2019,Alm. Salg,30,13667,1,1989,-9%
-727,Rækkehus,"Rosensgade 42, 1",8300, Odder,5300000 ,12-08-2019,Alm. Salg,98,54082,2,1924,
-727,Ejerlejlighed,"Aaparkeringen 8, st",8300, Odder,5300000 ,12-08-2019,Alm. Salg,41,129268,3,1887,
-727,Ejerlejlighed,"Aaparkeringen 8, 1",8300, Odder,5300000 ,12-08-2019,Alm. Salg,109,48624,4,1887,
-727,Ejerlejlighed,"Rosensgade 42, 3",8300, Odder,5300000 ,12-08-2019,Alm. Salg,52,101923,2,1924,
-727,Ejerlejlighed,"Rosensgade 42, 2",8300, Odder,5300000 ,12-08-2019,Alm. Salg,98,54082,2,1924,
 727,Villa,Bøgelunden 35,8300, Odder,750000 ,11-08-2019,Alm. Salg,170,4412,5,2020,
 727,Villa,Bredgade 5,8300, Odder,2600000 ,08-08-2019,Alm. Salg,126,20635,7,1938,-4%
 727,Villa,Rønhøjs Ager 22,8300, Odder,3835000 ,07-08-2019,Alm. Salg,182,21071,5,2007,-2%
@@ -1787,25 +1763,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 727,Villa,Sct. Marie Vej 19,8300, Odder,795000 ,22-01-2019,Alm. Salg,193,4119,5,2019,
 727,Villa,Rørth Ellevej 33,8300, Odder,2675000 ,16-01-2019,Alm. Salg,389,6877,10,1937,-6%
 727,Villa,Aahaven 12,8300, Odder,3400000 ,16-01-2019,Alm. Salg,172,19767,6,2001,-6%
-727,Ejerlejlighed,"Nørregade 7, 1. tv",8300, Odder,18200000 ,15-01-2019,Alm. Salg,62,293548,2,1935,
-727,Ejerlejlighed,"Nørregade 7, 1. th",8300, Odder,18200000 ,15-01-2019,Alm. Salg,77,236364,3,1935,
-727,Ejerlejlighed,"Nørregade 7, 2. th",8300, Odder,18200000 ,15-01-2019,Alm. Salg,77,236364,3,1935,
-727,Ejerlejlighed,"Nørregade 7, st",8300, Odder,18200000 ,15-01-2019,Alm. Salg,107,170093,5,1935,
-727,Ejerlejlighed,"Aabygade 12, st. tv",8300, Odder,18200000 ,15-01-2019,Alm. Salg,61,298361,2,1935,
-727,Ejerlejlighed,"Aabygade 12, 1. th",8300, Odder,18200000 ,15-01-2019,Alm. Salg,61,298361,2,1935,
-727,Ejerlejlighed,"Aabygade 12, st. th",8300, Odder,18200000 ,15-01-2019,Alm. Salg,61,298361,2,1935,
-727,Ejerlejlighed,"Aabygade 12, 1. tv",8300, Odder,18200000 ,15-01-2019,Alm. Salg,61,298361,2,1935,
-727,Ejerlejlighed,"Aabygade 12, 2. th",8300, Odder,18200000 ,15-01-2019,Alm. Salg,61,298361,2,1935,
-727,Ejerlejlighed,"Aabygade 12, 2. tv",8300, Odder,18200000 ,15-01-2019,Alm. Salg,61,298361,2,1935,
-727,Ejerlejlighed,"Aabygade 12, 3. th",8300, Odder,18200000 ,15-01-2019,Alm. Salg,58,313793,2,1935,
-727,Ejerlejlighed,"Aabygade 12, 3. tv",8300, Odder,18200000 ,15-01-2019,Alm. Salg,58,313793,2,1935,
-727,Ejerlejlighed,"Aabygade 14, 2",8300, Odder,18200000 ,15-01-2019,Alm. Salg,106,171698,4,1935,
-727,Ejerlejlighed,"Aabygade 14, st",8300, Odder,18200000 ,15-01-2019,Alm. Salg,104,175000,4,1935,
-727,Ejerlejlighed,"Aabygade 14, 1",8300, Odder,18200000 ,15-01-2019,Alm. Salg,106,171698,4,1935,
-727,Ejerlejlighed,"Aabygade 14, 3",8300, Odder,18200000 ,15-01-2019,Alm. Salg,97,187629,4,1935,
-727,Ejerlejlighed,"Nørregade 7, 3. th",8300, Odder,18200000 ,15-01-2019,Alm. Salg,72,252778,3,1935,
-727,Ejerlejlighed,"Nørregade 7, 3. tv",8300, Odder,18200000 ,15-01-2019,Alm. Salg,58,313793,2,1935,
-727,Ejerlejlighed,"Nørregade 7, 2. tv",8300, Odder,18200000 ,15-01-2019,Alm. Salg,62,293548,2,1935,
 727,Villa,Hagemannsgade 13,8300, Odder,1475000 ,14-01-2019,Alm. Salg,175,8429,4,1932,-8%
 727,Villa,Skovdalsvej 21,8300, Odder,1000000 ,09-01-2019,Fam. Salg,140,3571,6,1976,
 727,Villa,Ulvskovvej 69,8300, Odder,767658 ,08-01-2019,Alm. Salg,126,6093,5,1976,
@@ -2113,7 +2070,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 727,Ejerlejlighed,"Banegårdsgade 12, 1",8300, Odder,1898631 ,20-03-2018,Andet,129,14718,3,1895,
 727,Villa,Lundevej 17,8300, Odder,2385500 ,19-03-2018,Alm. Salg,188,12689,5,1973,0%
 727,Villa,Hedemarksvej 42,8300, Odder,325000 ,19-03-2018,Auktion,86,3779,4,1870,
-727,Villa,Snærild Bakke 2,8300, Odder,8500000 ,19-03-2018,Alm. Salg,387,21964,10,1900,
 727,Villa,Balshavevej 102,8300, Odder,1250000 ,18-03-2018,Alm. Salg,125,10000,4,1900,
 727,Villa,Stiftelsesvej 12,8300, Odder,1335000 ,15-03-2018,Alm. Salg,143,9336,5,1960,-4%
 727,Villa,Krogstrupvej 3,8300, Odder,1895000 ,14-03-2018,Fam. Salg,228,8311,5,1887,
@@ -2481,7 +2437,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 727,Villa,Egholmvej 9,8300, Odder,2395000 ,17-05-2017,Alm. Salg,127,18858,4,2018,
 727,Villa,Østergade 21,8300, Odder,1138572 ,15-05-2017,Alm. Salg,189,6024,8,1905,
 727,Villa,Rørthvej 72,8300, Odder,1175000 ,11-05-2017,Alm. Salg,105,11190,5,1960,-9%
-727,Villa,Grønvej 2,8300, Odder,565000 ,10-05-2017,Alm. Salg,105,5381,2,1876,-29%
 727,Villa,Agervænget 33,8300, Odder,798000 ,10-05-2017,Alm. Salg,170,4694,5,2018,
 727,Villa,Balshavevej 118,8300, Odder,1650000 ,09-05-2017,Alm. Salg,173,9538,5,1975,-3%
 727,Villa,Tjørnevej 4,8300, Odder,2540000 ,09-05-2017,Alm. Salg,148,17162,5,1965,-2%
@@ -2519,14 +2474,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 727,Villa,Oldrupvej 75,8350, Hundslund,800000 ,17-04-2017,Alm. Salg,197,4061,6,1979,-20%
 727,Villa,Overskov 26,8300, Odder,825000 ,17-04-2017,Alm. Salg,249,3313,7,2018,
 727,Ejerlejlighed,"Aaparken 21, 1. tv",8300, Odder,719000 ,14-04-2017,Alm. Salg,61,11787,2,1966,
-727,Ejerlejlighed,"Holsteinsgade 18, 1",8300, Odder,5325000 ,11-04-2017,Alm. Salg,77,69156,3,1907,
-727,Ejerlejlighed,"Holsteinsgade 18, 2",8300, Odder,5325000 ,11-04-2017,Alm. Salg,75,71000,3,1907,
-727,Ejerlejlighed,"Holsteinsgade 18, 3",8300, Odder,5325000 ,11-04-2017,Alm. Salg,71,75000,3,1907,
-727,Ejerlejlighed,"Centrumpladsen 32, 3. th",8300, Odder,5325000 ,11-04-2017,Alm. Salg,71,75000,2,1907,
-727,Ejerlejlighed,"Centrumpladsen 32, 3. tv",8300, Odder,5325000 ,11-04-2017,Alm. Salg,79,67405,3,1907,
-727,Ejerlejlighed,"Centrumpladsen 32, 2. tv",8300, Odder,5325000 ,11-04-2017,Alm. Salg,83,64157,4,1907,
-727,Ejerlejlighed,"Centrumpladsen 32, 1",8300, Odder,5325000 ,11-04-2017,Alm. Salg,158,33703,5,1907,
-727,Ejerlejlighed,"Centrumpladsen 32, 2. th",8300, Odder,5325000 ,11-04-2017,Alm. Salg,77,69156,3,1907,
 727,Villa,Christianslund 66,8300, Odder,1740000 ,11-04-2017,Alm. Salg,111,15676,4,1975,-3%
 727,Villa,Søkrogen 27B,8300, Odder,1795000 ,10-04-2017,Alm. Salg,101,17772,4,2002,
 727,Villa,Hadrupvej 3,8350, Hundslund,625000 ,09-04-2017,Alm. Salg,136,4596,4,1800,-10%
@@ -2886,8 +2833,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 727,Villa,Høghus 46,8300, Odder,700000 ,13-03-2016,Alm. Salg,220,3182,5,2017,
 727,Ejerlejlighed,"Rosensgade 74, 2. th",8300, Odder,850000 ,12-03-2016,Alm. Salg,72,11806,2,1969,-5%
 727,Villa,Randlevvej 65,8300, Odder,1575000 ,11-03-2016,Alm. Salg,162,9722,6,1957,-5%
-727,Ejerlejlighed,Tværgade 5,8300, Odder,1400000 ,09-03-2016,Alm. Salg,89,15730,3,1870,-7%
-727,Ejerlejlighed,Dommerpladsen 30,8300, Odder,1400000 ,09-03-2016,Alm. Salg,68,20588,3,1870,-7%
 727,Villa,Lystgårdsparken 46,8300, Odder,2170000 ,09-03-2016,Alm. Salg,147,14762,5,2005,-1%
 727,Villa,Agervænget 15,8300, Odder,3100000 ,08-03-2016,Alm. Salg,172,18023,6,2016,
 727,Villa,Parkvej 14,8300, Odder,1635000 ,06-03-2016,Alm. Salg,88,18580,3,1952,-4%
@@ -3011,8 +2956,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 727,Ejerlejlighed,"Aaparken 2, 2. th",8300, Odder,675000 ,16-09-2015,Alm. Salg,75,9000,3,1963,
 727,Villa,Vads Møllevej 27,8350, Hundslund,600000 ,16-09-2015,Andet,107,5607,5,1850,
 727,Villa,Torvald Køhlsvej 59,8300, Odder,1875000 ,16-09-2015,Alm. Salg,135,13889,4,1973,-1%
-727,Rækkehus,Kirstinelystvej 31,8300, Odder,750000 ,15-09-2015,Fam. Salg,94,7979,4,1970,
-727,Villa,Blegevej 11,8300, Odder,750000 ,15-09-2015,Andet,117,6410,5,1969,-53%
 727,Villa,Blommevænget 306,8300, Odder,2095000 ,14-09-2015,Alm. Salg,213,9836,7,1976,
 727,Villa,Søkrogen 68B,8300, Odder,1800000 ,14-09-2015,Alm. Salg,99,18182,4,2001,-5%
 727,Villa,Blegevej 12,8300, Odder,1825000 ,10-09-2015,Alm. Salg,168,10863,6,1971,-4%
@@ -3238,10 +3181,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 727,Villa,Rørthvej 106,8300, Odder,875000 ,24-11-2014,Alm. Salg,98,8929,4,1940,-12%
 727,Villa,Ballevej 69,8300, Odder,720000 ,23-11-2014,Fam. Salg,172,4186,7,1900,
 727,Ejerlejlighed,"Nørregade 63A, st. th",8300, Odder,435000 ,20-11-2014,Alm. Salg,30,14500,1,1989,
-727,Ejerlejlighed,Nygade 1B,8300, Odder,2900000 ,20-11-2014,Alm. Salg,56,51786,1,1875,
-727,Ejerlejlighed,"Nygade 1, 1",8300, Odder,2900000 ,20-11-2014,Alm. Salg,80,36250,2,1875,
-727,Ejerlejlighed,"Nygade 1, 2",8300, Odder,2900000 ,20-11-2014,Alm. Salg,119,24370,3,1875,
-727,Ejerlejlighed,Rosensgade 52,8300, Odder,2900000 ,20-11-2014,Alm. Salg,181,16022,3,1875,
 727,Rækkehus,Christianslund 112C,8300, Odder,1574000 ,17-11-2014,Alm. Salg,147,10707,5,1979,-2%
 727,Villa,Snærildvej 45,8300, Odder,2600000 ,17-11-2014,Alm. Salg,170,15294,6,1969,-7%
 727,Villa,Holsteinsgade 39,8300, Odder,2510000 ,17-11-2014,Alm. Salg,161,15590,6,1934,
@@ -3633,17 +3572,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 727,Villa,Kystvejen 95,8300, Odder,4350000 ,07-03-2013,Alm. Salg,308,14123,6,1967,-3%
 727,Villa,Hou Strandpark 11,8300, Odder,1799000 ,06-03-2013,Alm. Salg,126,14278,4,2013,
 727,Ejerlejlighed,"Aaparken 2, st. th",8300, Odder,790000 ,28-02-2013,Alm. Salg,75,10533,3,1963,-7%
-727,Ejerlejlighed,"Tornøegade 6, 1. th",8300, Odder,6425000 ,21-02-2013,Alm. Salg,96,66927,3,1910,
-727,Ejerlejlighed,"Tornøegade 6, 1. tv",8300, Odder,6425000 ,21-02-2013,Alm. Salg,89,72191,3,1910,
-727,Ejerlejlighed,"Tornøegade 6, 2. mf",8300, Odder,6425000 ,21-02-2013,Alm. Salg,96,66927,3,1910,
-727,Ejerlejlighed,"Tornøegade 6, 2. th",8300, Odder,6425000 ,21-02-2013,Alm. Salg,72,89236,2,1910,
-727,Ejerlejlighed,"Tornøegade 6, 2. tv",8300, Odder,6425000 ,21-02-2013,Alm. Salg,91,70604,3,1910,
-727,Ejerlejlighed,"Lillegade 1B, st",8300, Odder,6425000 ,21-02-2013,Alm. Salg,75,85667,3,1906,
-727,Ejerlejlighed,"Lillegade 1B, 1",8300, Odder,6425000 ,21-02-2013,Alm. Salg,88,73011,3,1906,
-727,Ejerlejlighed,Lillegade 1A,8300, Odder,6425000 ,21-02-2013,Alm. Salg,78,82372,3,1910,
-727,Ejerlejlighed,"Tornøegade 6, st. tv",8300, Odder,6425000 ,21-02-2013,Alm. Salg,84,76488,3,1910,
-727,Ejerlejlighed,Lillegade 1,8300, Odder,6425000 ,21-02-2013,Alm. Salg,80,80313,3,1910,
-727,Ejerlejlighed,"Tornøegade 6, st. th",8300, Odder,6425000 ,21-02-2013,Alm. Salg,82,78354,3,1910,
 727,Villa,Rådhusgade 80,8300, Odder,1995000 ,18-02-2013,Alm. Salg,129,15465,5,1916,-2%
 727,Villa,Ankjær 201,8300, Odder,1075000 ,11-02-2013,Andet,154,6981,6,1978,
 727,Villa,Lerdrupvej 65,8300, Odder,825000 ,06-02-2013,Alm. Salg,128,6445,3,1907,-8%
@@ -3755,7 +3683,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 727,Villa,Høghus 36,8300, Odder,875000 ,08-08-2012,Alm. Salg,165,5303,5,2013,
 727,Villa,Alrøvej 343,8300, Odder,500000 ,07-08-2012,Alm. Salg,127,3937,4,1931,-16%
 727,Villa,Århusvej 60,8300, Odder,2050000 ,07-08-2012,Alm. Salg,157,13057,4,1915,-2%
-727,Villa,Strandvejen 133,8300, Odder,3600000 ,05-08-2012,Alm. Salg,202,17822,6,1771,
 727,Villa,Høghus 28,8300, Odder,834726 ,02-08-2012,Alm. Salg,184,4537,6,2015,
 727,Ejerlejlighed,"Aaparken 15, 1. th",8300, Odder,1050000 ,01-08-2012,Alm. Salg,85,12353,4,1966,
 727,Ejerlejlighed,"Østergade 2, 2",8300, Odder,1950000 ,01-08-2012,Alm. Salg,155,12581,3,1905,
@@ -3925,7 +3852,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 727,Villa,Espelunden 10,8300, Odder,3469500 ,25-10-2011,Alm. Salg,196,17702,5,2005,-5%
 727,Rækkehus,Bisgaardsparken 8,8300, Odder,1285000 ,24-10-2011,Alm. Salg,112,11473,4,1968,-5%
 727,Villa,Tingsteds Ager 12,8300, Odder,3475000 ,24-10-2011,Alm. Salg,217,16014,5,2005,-6%
-727,Villa,Aakjærvej 78,8300, Odder,1995000 ,23-10-2011,Alm. Salg,193,10337,8,1946,
 727,Rækkehus,Christianslund 78B,8300, Odder,2150000 ,20-10-2011,Alm. Salg,142,15141,5,1980,-2%
 727,Rækkehus,Christianslund 110B,8300, Odder,1755000 ,20-10-2011,Alm. Salg,144,12188,5,1979,-5%
 727,Villa,Tunø Hovedgade 37,8799,,830000 ,17-10-2011,Fam. Salg,152,5461,4,1882,
@@ -4188,9 +4114,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 727,Villa,Århusvej 94,8300, Odder,600000 ,27-10-2010,Andet,108,5556,5,1930,
 727,Villa,Bilsbækvej 99,8300, Odder,1402500 ,27-10-2010,Fam. Salg,228,6151,6,1870,
 727,Villa,Hesselbjergvej 14,8300, Odder,1285000 ,27-10-2010,Alm. Salg,90,14278,4,1962,-4%
-727,Ejerlejlighed,Balshavevej 50,8300, Odder,1950000 ,26-10-2010,Alm. Salg,415,4699,12,1907,
 727,Ejerlejlighed,"Rosensgade 51B, 2",8300, Odder,945000 ,26-10-2010,Alm. Salg,62,15242,3,1885,
-727,Villa,Balshavevej 50,8300, Odder,1950000 ,26-10-2010,Alm. Salg,145,13448,4,1973,
 727,Villa,Spøttrup Strandvej 25,8300, Odder,2490000 ,24-10-2010,Alm. Salg,257,9689,10,1777,
 727,Villa,Krabbes Ager 20,8300, Odder,2460000 ,22-10-2010,Alm. Salg,139,17698,4,2004,-3%
 727,Villa,Hou Strandpark 4,8300, Odder,750000 ,21-10-2010,Alm. Salg,127,5906,4,2011,
@@ -4303,25 +4227,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 727,Villa,Søndervej 18A,8350, Hundslund,425000 ,14-06-2010,Alm. Salg,175,2429,4,2017,
 727,Villa,Søbyvej 46,8300, Odder,526804 ,12-06-2010,Fam. Salg,101,5216,5,1827,
 727,Villa,Rosensgade 106,8300, Odder,2000000 ,10-06-2010,Alm. Salg,172,11628,6,1900,
-727,Ejerlejlighed,"Rosensgade 18, 1. th",8300, Odder,34020949 ,09-06-2010,Alm. Salg,95,358115,2,1908,
-727,Ejerlejlighed,"Rosensgade 18, 2. th",8300, Odder,34020949 ,09-06-2010,Alm. Salg,108,315009,3,1908,
-727,Ejerlejlighed,"Rosensgade 18, 2. tv",8300, Odder,34020949 ,09-06-2010,Alm. Salg,122,278860,3,1908,
-727,Ejerlejlighed,"Rosensgade 18, 1. tv",8300, Odder,34020949 ,09-06-2010,Alm. Salg,135,252007,2,1908,
-727,Ejerlejlighed,"Rosensgade 18, 3. th",8300, Odder,34020949 ,09-06-2010,Alm. Salg,108,315009,3,1908,
-727,Ejerlejlighed,"Rosensgade 18, 3. tv",8300, Odder,34020949 ,09-06-2010,Alm. Salg,122,278860,3,1908,
-727,Ejerlejlighed,"Rosensgade 18, 4. th",8300, Odder,34020949 ,09-06-2010,Alm. Salg,108,315009,3,1908,
-727,Ejerlejlighed,"Rosensgade 18, 4. tv",8300, Odder,34020949 ,09-06-2010,Alm. Salg,122,278860,3,1908,
-727,Ejerlejlighed,Aabygade 1C. 11,8300, Odder,34020949 ,09-06-2010,Alm. Salg,77,441831,3,1908,
-727,Ejerlejlighed,Aabygade 1C. 4,8300, Odder,34020949 ,09-06-2010,Alm. Salg,71,479168,3,1908,
-727,Ejerlejlighed,Aabygade 1C. 5,8300, Odder,34020949 ,09-06-2010,Alm. Salg,58,586568,3,1908,
-727,Ejerlejlighed,Aabygade 1C. 6,8300, Odder,34020949 ,09-06-2010,Alm. Salg,74,459743,3,1908,
-727,Ejerlejlighed,Aabygade 1C. 2,8300, Odder,34020949 ,09-06-2010,Alm. Salg,58,586568,3,1908,
-727,Ejerlejlighed,Aabygade 1C. 3,8300, Odder,34020949 ,09-06-2010,Alm. Salg,58,586568,3,1908,
-727,Ejerlejlighed,Aabygade 1C. 7,8300, Odder,34020949 ,09-06-2010,Alm. Salg,92,369793,4,1908,
-727,Ejerlejlighed,Aabygade 1C. 1,8300, Odder,34020949 ,09-06-2010,Alm. Salg,90,378011,2,1908,
-727,Ejerlejlighed,Aabygade 1C. 10,8300, Odder,34020949 ,09-06-2010,Alm. Salg,70,486014,2,1908,
-727,Ejerlejlighed,Aabygade 1C. 8,8300, Odder,34020949 ,09-06-2010,Alm. Salg,92,369793,3,1908,
-727,Ejerlejlighed,Aabygade 1C. 9,8300, Odder,34020949 ,09-06-2010,Alm. Salg,93,365817,2,1908,
 727,Villa,Ahornvej 2,8300, Odder,1545000 ,08-06-2010,Alm. Salg,103,15000,3,1973,-2%
 727,Villa,Sødrupvej 1,8350, Hundslund,1100000 ,07-06-2010,Auktion,225,4889,6,1890,-15%
 727,Villa,Jordsteds Ager 21,8300, Odder,1300000 ,07-06-2010,Alm. Salg,140,9286,5,2010,-46%
@@ -5342,8 +5247,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 727,Villa,Jordsteds Ager 38,8300, Odder,2384968 ,10-12-2006,Alm. Salg,125,19080,5,2007,
 727,Villa,Østerlunden 21,8300, Odder,1106000 ,10-12-2006,Alm. Salg,149,7423,6,2007,
 727,Villa,Oldrupvej 86A,8350, Hundslund,603217 ,09-12-2006,Alm. Salg,171,3528,7,2008,
-727,Rækkehus,Christianslund 5F,8300, Odder,2210000 ,06-12-2006,Alm. Salg,148,14932,5,1981,
-727,Villa,Ankjær 149,8300, Odder,2210000 ,06-12-2006,Alm. Salg,199,11106,5,1976,
 727,Villa,Østerlunden 17,8300, Odder,859000 ,06-12-2006,Alm. Salg,211,4071,5,2008,
 727,Villa,Østerlunden 15,8300, Odder,900000 ,06-12-2006,Alm. Salg,161,5590,4,2008,
 727,Villa,Bøgevej 22,8300, Odder,222122 ,04-12-2006,Andet,194,1145,7,1968,
@@ -5366,8 +5269,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 727,Rækkehus,Katrineholmsalle 113,8300, Odder,1650000 ,18-11-2006,Alm. Salg,86,19186,4,1970,
 727,Ejerlejlighed,"Rosensgade 74, 1. tv",8300, Odder,1299000 ,17-11-2006,Alm. Salg,85,15282,3,1969,
 727,Villa,Smedegade 101,8300, Odder,600000 ,16-11-2006,Alm. Salg,140,4286,5,2007,
-727,Ejerlejlighed,Passagen 3,8300, Odder,1425000 ,15-11-2006,Alm. Salg,60,23750,2,1885,
-727,Ejerlejlighed,Rådhusgade 18,8300, Odder,1425000 ,15-11-2006,Alm. Salg,100,14250,3,1885,
 727,Ejerlejlighed,"Aaparken 13, st. th",8300, Odder,975000 ,13-11-2006,Alm. Salg,75,13000,3,1966,
 727,Villa,Rude Havvej 165,8300, Odder,910000 ,11-11-2006,Alm. Salg,199,4573,5,1900,
 727,Rækkehus,Kongshusvej 160A,8300, Odder,1135000 ,08-11-2006,Alm. Salg,91,12473,3,1880,
@@ -5388,7 +5289,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 727,Villa,Lundevej 23,8300, Odder,2499000 ,04-10-2006,Alm. Salg,163,15331,5,1967,
 727,Villa,Bøgelunden 24,8300, Odder,1000000 ,04-10-2006,Alm. Salg,199,5025,7,2008,
 727,Rækkehus,Christianslund 5B,8300, Odder,2340000 ,03-10-2006,Alm. Salg,142,16479,5,1981,
-727,Villa,Søndergade 6,8300, Odder,2140000 ,01-10-2006,Alm. Salg,129,16589,6,1910,
 727,Villa,Bredgade 5,8300, Odder,1422500 ,01-10-2006,Andet,126,11290,7,1938,
 727,Villa,Søkrogen 13B,8300, Odder,2050000 ,01-10-2006,Alm. Salg,116,17672,5,2000,
 727,Villa,Pilevænget 29,8300, Odder,2320000 ,01-10-2006,Alm. Salg,135,17185,4,1973,
@@ -5399,7 +5299,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 727,Ejerlejlighed,"Aaparken 21, st. th",8300, Odder,1095000 ,27-09-2006,Alm. Salg,74,14797,3,1966,
 727,Ejerlejlighed,"Rådhusgade 53, st. th",8300, Odder,895000 ,27-09-2006,Alm. Salg,70,12786,2,1972,
 727,Villa,Vesterskovvej 199,8300, Odder,1520000 ,24-09-2006,Alm. Salg,155,9806,6,1952,
-727,Villa,Rørthvej 4A,8300, Odder,3300000 ,21-09-2006,Alm. Salg,90,36667,4,1905,
 727,Rækkehus,Houvej 6C,8300, Odder,1795000 ,21-09-2006,Alm. Salg,93,19301,4,1986,
 727,Villa,Jonasdalen 53,8300, Odder,2595000 ,21-09-2006,Alm. Salg,193,13446,5,1973,
 727,Villa,Havnegade 14,8300, Odder,1950000 ,21-09-2006,Alm. Salg,169,11538,6,1900,
@@ -5428,7 +5327,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 727,Villa,Rønhøjs Ager 30,8300, Odder,908000 ,10-09-2006,Alm. Salg,150,6053,5,2006,
 727,Villa,Rønhøjs Ager 32,8300, Odder,1010000 ,10-09-2006,Alm. Salg,150,6733,5,2008,
 727,Villa,Skovlundsvej 9,8300, Odder,2595000 ,09-09-2006,Alm. Salg,218,11904,7,1967,
-727,Villa,Købmagergade 2A,8300, Odder,2500000 ,07-09-2006,Alm. Salg,64,25000,3,1905,
 727,Villa,Krabbes Ager 2,8300, Odder,2902000 ,06-09-2006,Alm. Salg,158,18367,6,2004,
 727,Rækkehus,Kildegade 4C,8300, Odder,1625000 ,05-09-2006,Alm. Salg,90,18056,3,2001,
 727,Villa,Blichersvej 24,8300, Odder,1260000 ,05-09-2006,Alm. Salg,79,15949,3,1842,
@@ -5502,8 +5400,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 727,Ejerlejlighed,"Aaparken 11, 1. tv",8300, Odder,1090000 ,29-06-2006,Alm. Salg,75,14533,3,1963,
 727,Villa,Grobshulevej 108,8300, Odder,1550000 ,28-06-2006,Alm. Salg,164,9451,4,1927,
 727,Villa,Rudevej 75,8300, Odder,2245000 ,28-06-2006,Alm. Salg,196,11454,6,1968,
-727,Ejerlejlighed,Gersdorffslundvej 1B,8300, Odder,20800000 ,27-06-2006,Alm. Salg,90,231111,4,1968,
-727,Villa,Gersdorffslundvej 3,8300, Odder,20800000 ,27-06-2006,Alm. Salg,138,150725,4,2012,
 727,Villa,Rønhøjs Ager 38,8300, Odder,3775000 ,27-06-2006,Alm. Salg,216,17477,6,2007,
 727,Rækkehus,Kirstinelystvej 34,8300, Odder,575000 ,25-06-2006,Andet,85,6765,4,1969,
 727,Villa,Torupvej 5,8350, Hundslund,1200000 ,24-06-2006,Fam. Salg,118,10169,6,1920,
@@ -5674,7 +5570,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 727,Villa,Århusvej 84,8300, Odder,1210000 ,26-01-2006,Alm. Salg,92,13152,3,1946,
 727,Villa,Lundevej 4,8300, Odder,1895000 ,25-01-2006,Alm. Salg,108,17546,4,1968,
 727,Villa,Kirstinelystvej 3,8300, Odder,2300000 ,25-01-2006,Alm. Salg,270,8519,7,1970,
-727,Villa,Snærild Bakke 2,8300, Odder,12144990 ,25-01-2006,Fam. Salg,387,31382,10,1900,
 727,Rækkehus,Fyrrevænget 5,8300, Odder,1521250 ,24-01-2006,Alm. Salg,113,13462,4,1987,
 727,Villa,Alrøvej 356,8300, Odder,300000 ,24-01-2006,Fam. Salg,154,1948,6,1905,
 727,Ejerlejlighed,Vennelundsvej 11A,8300, Odder,950000 ,23-01-2006,Alm. Salg,75,12667,3,1990,
@@ -6032,8 +5927,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 727,Villa,Højvænget 310,8300, Odder,6000000 ,15-04-2005,Andet,161,37267,6,1973,
 727,Villa,Bondesvadvej 29,8300, Odder,1315000 ,15-04-2005,Alm. Salg,104,12644,4,1925,
 727,Rækkehus,Enghaven 20,8300, Odder,1465000 ,14-04-2005,Alm. Salg,112,13080,4,1975,
-727,Ejerlejlighed,Tværgade 5,8300, Odder,1850000 ,14-04-2005,Andet,89,20787,3,1870,
-727,Ejerlejlighed,Dommerpladsen 30,8300, Odder,1850000 ,14-04-2005,Andet,68,27206,3,1870,
 727,Villa,Espelunden 1,8300, Odder,420000 ,14-04-2005,Alm. Salg,90,4667,3,2006,
 727,Villa,Lemmestrupvej 8,8300, Odder,3075000 ,14-04-2005,Alm. Salg,217,14171,9,1922,
 727,Villa,Smedegade 63,8300, Odder,1655000 ,14-04-2005,Alm. Salg,176,9403,6,1986,
@@ -6275,14 +6168,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 727,Villa,Lundevej 19,8300, Odder,1870000 ,30-10-2004,Alm. Salg,205,9122,7,1954,
 727,Villa,Randlevvej 24,8300, Odder,1250000 ,30-10-2004,Alm. Salg,176,7102,6,1787,
 727,Villa,Katrineholmsalle 94,8300, Odder,1445000 ,28-10-2004,Alm. Salg,101,14307,4,1970,
-727,Ejerlejlighed,"Holsteinsgade 18, 1",8300, Odder,2763000 ,27-10-2004,Fam. Salg,77,35883,3,1907,
-727,Ejerlejlighed,"Holsteinsgade 18, 2",8300, Odder,2763000 ,27-10-2004,Fam. Salg,75,36840,3,1907,
-727,Ejerlejlighed,"Holsteinsgade 18, 3",8300, Odder,2763000 ,27-10-2004,Fam. Salg,71,38915,3,1907,
-727,Ejerlejlighed,"Centrumpladsen 32, 3. th",8300, Odder,2763000 ,27-10-2004,Fam. Salg,71,38915,2,1907,
-727,Ejerlejlighed,"Centrumpladsen 32, 3. tv",8300, Odder,2763000 ,27-10-2004,Fam. Salg,79,34975,3,1907,
-727,Ejerlejlighed,"Centrumpladsen 32, 2. tv",8300, Odder,2763000 ,27-10-2004,Fam. Salg,83,33289,4,1907,
-727,Ejerlejlighed,"Centrumpladsen 32, 1",8300, Odder,2763000 ,27-10-2004,Fam. Salg,158,17487,5,1907,
-727,Ejerlejlighed,"Centrumpladsen 32, 2. th",8300, Odder,2763000 ,27-10-2004,Fam. Salg,77,35883,3,1907,
 727,Villa,Østerlunden 46,8300, Odder,3195000 ,27-10-2004,Alm. Salg,264,12102,5,1998,
 727,Villa,Bjeragervej 64,8300, Odder,975000 ,26-10-2004,Alm. Salg,134,7276,5,1875,
 727,Villa,Røddalsminde 62,8300, Odder,975000 ,25-10-2004,Andet,174,5603,6,2001,
@@ -6361,7 +6246,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 727,Ejerlejlighed,"Rosensgade 68B, st. tv",8300, Odder,915000 ,19-08-2004,Alm. Salg,91,10055,3,1981,
 727,Villa,Stampmøllevej 44A,8300, Odder,1205000 ,17-08-2004,Alm. Salg,140,8607,5,1934,
 727,Villa,Købmagergade 3,8300, Odder,585500 ,17-08-2004,Andet,204,2870,8,1897,
-727,Villa,Aakjærvej 78,8300, Odder,1375000 ,16-08-2004,Alm. Salg,193,7124,8,1946,
 727,Villa,Frederikshaldvej 36,8300, Odder,760000 ,15-08-2004,Alm. Salg,200,3800,6,2004,
 727,Villa,Hadrupvej 22,8350, Hundslund,950000 ,15-08-2004,Alm. Salg,198,4798,6,1905,
 727,Ejerlejlighed,"Rådhusgade 45, 1. th",8300, Odder,865000 ,11-08-2004,Alm. Salg,85,10176,4,1972,
@@ -6565,7 +6449,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 727,Ejerlejlighed,"Aaparken 9, 1. tv",8300, Odder,749000 ,22-03-2004,Alm. Salg,73,10260,3,1963,
 727,Villa,Syrenvej 14,8300, Odder,1099000 ,22-03-2004,Alm. Salg,107,10271,4,1969,
 727,Villa,Espelunden 37,8300, Odder,400000 ,22-03-2004,Alm. Salg,162,2469,5,2004,
-727,Villa,Rørthvej 4A,8300, Odder,2000000 ,21-03-2004,Alm. Salg,90,22222,4,1905,
 727,Villa,Krabbes Ager 44,8300, Odder,510000 ,21-03-2004,Alm. Salg,201,2537,6,2004,
 727,Villa,Gunnar Madsensgade 18,8300, Odder,170000 ,21-03-2004,Alm. Salg,137,1241,4,2005,
 727,Villa,Oldrupvej 6,8350, Hundslund,820000 ,21-03-2004,Alm. Salg,147,5578,7,1902,
@@ -6618,9 +6501,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 727,Villa,Rønhøjs Ager 12,8300, Odder,1900000 ,25-02-2004,Alm. Salg,159,11950,4,1926,
 727,Ejerlejlighed,"Holsteinsgade 11, 1. 9",8300, Odder,720000 ,24-02-2004,Alm. Salg,78,9231,2,1989,
 727,Rækkehus,Blegevej 53,8300, Odder,975000 ,23-02-2004,Alm. Salg,85,11471,4,1970,
-727,Ejerlejlighed,Gersdorffslundvej 1B,8300, Odder,37000000 ,23-02-2004,Alm. Salg,90,411111,4,1968,
 727,Villa,Krabbes Ager 10,8300, Odder,465000 ,23-02-2004,Alm. Salg,160,2906,5,2004,
-727,Villa,Gersdorffslundvej 3,8300, Odder,37000000 ,23-02-2004,Alm. Salg,138,268116,4,2012,
 727,Villa,Pilevænget 37,8300, Odder,1400000 ,22-02-2004,Alm. Salg,143,9790,4,1974,
 727,Rækkehus,Rådhusgade 67,8300, Odder,1175000 ,20-02-2004,Alm. Salg,142,8275,4,1900,
 727,Villa,Grøvten 20,8799,,182500 ,20-02-2004,Fam. Salg,87,2098,4,1852,
@@ -6751,10 +6632,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 727,Villa,Købmagergade 14,8300, Odder,965000 ,12-11-2003,Alm. Salg,167,5778,6,1909,
 727,Villa,Solvangsalle 18,8300, Odder,1725000 ,12-11-2003,Alm. Salg,145,11897,8,1920,
 727,Villa,Horsensvej 145,8300, Odder,1395000 ,11-11-2003,Fam. Salg,210,6643,8,1903,
-727,Ejerlejlighed,"Torvet 8B, st",8300, Odder,3500000 ,10-11-2003,Alm. Salg,62,56452,3,1902,
-727,Ejerlejlighed,"Torvet 8B, 1",8300, Odder,3500000 ,10-11-2003,Alm. Salg,50,70000,2,1902,
-727,Ejerlejlighed,"Rosensgade 27A, 1",8300, Odder,3500000 ,10-11-2003,Alm. Salg,136,25735,4,1902,
-727,Ejerlejlighed,"Rosensgade 27A, 2",8300, Odder,3500000 ,10-11-2003,Alm. Salg,114,30702,5,1902,
 727,Villa,Blegevej 47,8300, Odder,1035000 ,10-11-2003,Alm. Salg,123,8415,5,1970,
 727,Villa,Stationsvej 19,8300, Odder,885000 ,09-11-2003,Alm. Salg,100,8850,3,1948,
 727,Villa,Gunnar Madsensgade 14,8300, Odder,170000 ,09-11-2003,Alm. Salg,126,1349,6,2004,
@@ -7461,11 +7338,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 727,Villa,Pilevænget 9,8300, Odder,1400000 ,03-02-2002,Alm. Salg,159,8805,6,1975,
 727,Villa,Søkrogen 109,8300, Odder,1750000 ,03-02-2002,Alm. Salg,145,12069,6,1997,
 727,Rækkehus,Christianslund 90B,8300, Odder,910000 ,02-02-2002,Alm. Salg,84,10833,4,1988,
-727,Ejerlejlighed,"Aaparkeringen 6, st",8300, Odder,1800000 ,29-01-2002,Alm. Salg,51,35294,3,1852,
-727,Ejerlejlighed,"Rosensgade 44, 1",8300, Odder,1800000 ,29-01-2002,Alm. Salg,90,20000,3,1909,
-727,Ejerlejlighed,"Rosensgade 44, 2",8300, Odder,1800000 ,29-01-2002,Alm. Salg,90,20000,3,1909,
-727,Ejerlejlighed,"Rosensgade 44, 3",8300, Odder,1800000 ,29-01-2002,Alm. Salg,75,24000,3,1909,
-727,Ejerlejlighed,"Rosensgade 44A, 1",8300, Odder,1800000 ,29-01-2002,Alm. Salg,82,21951,4,1852,
 727,Villa,Torupvej 23,8350, Hundslund,856638 ,28-01-2002,Alm. Salg,124,6908,3,1976,
 727,Ejerlejlighed,"Aaparken 14, 1. th",8300, Odder,715587 ,27-01-2002,Alm. Salg,85,8419,4,1963,
 727,Ejerlejlighed,"Aaparken 21, 1. th",8300, Odder,580000 ,24-01-2002,Alm. Salg,74,7838,3,1966,
@@ -8010,10 +7882,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 727,Villa,Rørthvej 16,8300, Odder,1125000 ,05-11-2000,Alm. Salg,173,6503,6,1905,
 727,Rækkehus,Snærildvej 41D,8300, Odder,919375 ,04-11-2000,Alm. Salg,95,9678,4,1986,
 727,Rækkehus,Enghaven 25,8300, Odder,1109516 ,04-11-2000,Alm. Salg,173,6413,5,1972,
-727,Ejerlejlighed,Nygade 1B,8300, Odder,1799580 ,02-11-2000,Alm. Salg,56,32135,1,1875,
-727,Ejerlejlighed,"Nygade 1, 1",8300, Odder,1799580 ,02-11-2000,Alm. Salg,80,22495,2,1875,
-727,Ejerlejlighed,"Nygade 1, 2",8300, Odder,1799580 ,02-11-2000,Alm. Salg,119,15123,3,1875,
-727,Ejerlejlighed,Rosensgade 52,8300, Odder,1799580 ,02-11-2000,Alm. Salg,181,9942,3,1875,
 727,Villa,Espelunden 25,8300, Odder,380000 ,30-10-2000,Alm. Salg,150,2533,5,2002,
 727,Villa,Espelunden 27,8300, Odder,355000 ,30-10-2000,Alm. Salg,106,3349,4,2001,
 727,Villa,Espelunden 29,8300, Odder,360000 ,30-10-2000,Alm. Salg,151,2384,6,2002,
@@ -8047,7 +7915,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 727,Villa,Birkevej 3,8300, Odder,1175000 ,08-10-2000,Alm. Salg,130,9038,5,1967,
 727,Ejerlejlighed,"Nørregade 63B, 1. th",8300, Odder,349643 ,07-10-2000,Alm. Salg,30,11655,1,1989,
 727,Villa,Havleddet 7,8300, Odder,495000 ,04-10-2000,Alm. Salg,194,2552,8,2004,
-727,Villa,Grønvej 2,8300, Odder,968000 ,02-10-2000,Alm. Salg,105,9219,2,1876,
 727,Villa,Rådhusgade 86,8300, Odder,1000000 ,28-09-2000,Alm. Salg,132,7576,5,1925,
 727,Villa,Saloparken 61,8300, Odder,1520365 ,28-09-2000,Alm. Salg,150,10136,5,1988,
 727,Villa,Splidholmvej 31,8300, Odder,2862500 ,28-09-2000,Alm. Salg,213,13439,6,1800,
@@ -8312,11 +8179,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 727,Villa,Snærildvej 23,8300, Odder,1325000 ,24-02-2000,Alm. Salg,122,10861,6,1923,
 727,Villa,Lundevej 45,8300, Odder,1175000 ,24-02-2000,Alm. Salg,125,9400,4,1972,
 727,Villa,Søndervej 14,8350, Hundslund,798000 ,24-02-2000,Alm. Salg,120,6650,3,1979,
-727,Rækkehus,"Rosensgade 42, 1",8300, Odder,1080000 ,21-02-2000,Alm. Salg,98,11020,2,1924,
-727,Ejerlejlighed,"Aaparkeringen 8, st",8300, Odder,1080000 ,21-02-2000,Alm. Salg,41,26341,3,1887,
-727,Ejerlejlighed,"Aaparkeringen 8, 1",8300, Odder,1080000 ,21-02-2000,Alm. Salg,109,9908,4,1887,
-727,Ejerlejlighed,"Rosensgade 42, 3",8300, Odder,1080000 ,21-02-2000,Alm. Salg,52,20769,2,1924,
-727,Ejerlejlighed,"Rosensgade 42, 2",8300, Odder,1080000 ,21-02-2000,Alm. Salg,98,11020,2,1924,
 727,Villa,Vestergårdsvej 7,8300, Odder,370000 ,21-02-2000,Andet,122,3033,5,1958,
 727,Villa,Kildegade 3,8300, Odder,1000000 ,21-02-2000,Fam. Salg,122,8197,5,1960,
 727,Rækkehus,Christianslund 88C,8300, Odder,908796 ,20-02-2000,Alm. Salg,84,10819,4,1988,
@@ -8654,8 +8516,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 727,Villa,Søkrogen 43,8300, Odder,420000 ,05-05-1999,Alm. Salg,172,2442,6,1999,
 727,Villa,Strandvejen 32,8300, Odder,1275000 ,05-05-1999,Alm. Salg,224,5692,8,1888,
 727,Ejerlejlighed,"Banegårdsgade 12, 1",8300, Odder,870000 ,04-05-1999,Andet,129,6744,3,1895,
-727,Ejerlejlighed,Passagen 3,8300, Odder,760000 ,03-05-1999,Alm. Salg,60,12667,2,1885,
-727,Ejerlejlighed,Rådhusgade 18,8300, Odder,760000 ,03-05-1999,Alm. Salg,100,7600,3,1885,
 727,Villa,Blichersvej 37,8300, Odder,884918 ,03-05-1999,Alm. Salg,166,5331,3,1904,
 727,Villa,Aahaven 2,8300, Odder,390000 ,02-05-1999,Alm. Salg,153,2549,5,2000,
 727,Villa,Østergade 38,8300, Odder,759623 ,29-04-1999,Alm. Salg,120,6330,4,1880,
@@ -8804,17 +8664,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 727,Villa,Langgade 19,8350, Hundslund,499000 ,11-01-1999,Alm. Salg,87,5736,4,1888,
 727,Villa,Rosensgade 99,8300, Odder,1799148 ,11-01-1999,Alm. Salg,180,9995,7,1930,
 727,Villa,Rørthvej 66,8300, Odder,888000 ,11-01-1999,Alm. Salg,113,7858,4,1960,
-727,Ejerlejlighed,"Tornøegade 6, 1. th",8300, Odder,3042000 ,07-01-1999,Alm. Salg,96,31688,3,1910,
-727,Ejerlejlighed,"Tornøegade 6, 1. tv",8300, Odder,3042000 ,07-01-1999,Alm. Salg,89,34180,3,1910,
-727,Ejerlejlighed,"Tornøegade 6, 2. mf",8300, Odder,3042000 ,07-01-1999,Alm. Salg,96,31688,3,1910,
-727,Ejerlejlighed,"Tornøegade 6, 2. th",8300, Odder,3042000 ,07-01-1999,Alm. Salg,72,42250,2,1910,
-727,Ejerlejlighed,"Tornøegade 6, 2. tv",8300, Odder,3042000 ,07-01-1999,Alm. Salg,91,33429,3,1910,
-727,Ejerlejlighed,"Lillegade 1B, st",8300, Odder,3042000 ,07-01-1999,Alm. Salg,75,40560,3,1906,
-727,Ejerlejlighed,"Lillegade 1B, 1",8300, Odder,3042000 ,07-01-1999,Alm. Salg,88,34568,3,1906,
-727,Ejerlejlighed,Lillegade 1A,8300, Odder,3042000 ,07-01-1999,Alm. Salg,78,39000,3,1910,
-727,Ejerlejlighed,"Tornøegade 6, st. tv",8300, Odder,3042000 ,07-01-1999,Alm. Salg,84,36214,3,1910,
-727,Ejerlejlighed,Lillegade 1,8300, Odder,3042000 ,07-01-1999,Alm. Salg,80,38025,3,1910,
-727,Ejerlejlighed,"Tornøegade 6, st. th",8300, Odder,3042000 ,07-01-1999,Alm. Salg,82,37098,3,1910,
 727,Villa,Smedegade 25,8300, Odder,945000 ,05-01-1999,Alm. Salg,116,8147,4,1978,
 727,Rækkehus,Christianslund 86A,8300, Odder,871000 ,04-01-1999,Alm. Salg,84,10369,4,1989,
 727,Villa,Alrøvej 301,8300, Odder,731000 ,01-01-1999,Fam. Salg,282,2592,7,1884,
@@ -10055,25 +9904,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 727,Villa,Randlevvej 65,8300, Odder,725000 ,20-03-1996,Auktion,162,4475,6,1957,
 727,Villa,Højvænget 151,8300, Odder,839000 ,19-03-1996,Alm. Salg,172,4878,6,1973,
 727,Rækkehus,Christianslund 82C,8300, Odder,660000 ,18-03-1996,Alm. Salg,84,7857,4,1988,
-727,Ejerlejlighed,"Nørregade 7, 1. tv",8300, Odder,2600000 ,18-03-1996,Alm. Salg,62,41935,2,1935,
-727,Ejerlejlighed,"Nørregade 7, 1. th",8300, Odder,2600000 ,18-03-1996,Alm. Salg,77,33766,3,1935,
-727,Ejerlejlighed,"Nørregade 7, 2. th",8300, Odder,2600000 ,18-03-1996,Alm. Salg,77,33766,3,1935,
-727,Ejerlejlighed,"Nørregade 7, st",8300, Odder,2600000 ,18-03-1996,Alm. Salg,107,24299,5,1935,
-727,Ejerlejlighed,"Aabygade 12, st. tv",8300, Odder,2600000 ,18-03-1996,Alm. Salg,61,42623,2,1935,
-727,Ejerlejlighed,"Aabygade 12, 1. th",8300, Odder,2600000 ,18-03-1996,Alm. Salg,61,42623,2,1935,
-727,Ejerlejlighed,"Aabygade 12, st. th",8300, Odder,2600000 ,18-03-1996,Alm. Salg,61,42623,2,1935,
-727,Ejerlejlighed,"Aabygade 12, 1. tv",8300, Odder,2600000 ,18-03-1996,Alm. Salg,61,42623,2,1935,
-727,Ejerlejlighed,"Aabygade 12, 2. th",8300, Odder,2600000 ,18-03-1996,Alm. Salg,61,42623,2,1935,
-727,Ejerlejlighed,"Aabygade 12, 2. tv",8300, Odder,2600000 ,18-03-1996,Alm. Salg,61,42623,2,1935,
-727,Ejerlejlighed,"Aabygade 12, 3. th",8300, Odder,2600000 ,18-03-1996,Alm. Salg,58,44828,2,1935,
-727,Ejerlejlighed,"Aabygade 12, 3. tv",8300, Odder,2600000 ,18-03-1996,Alm. Salg,58,44828,2,1935,
-727,Ejerlejlighed,"Aabygade 14, 2",8300, Odder,2600000 ,18-03-1996,Alm. Salg,106,24528,4,1935,
-727,Ejerlejlighed,"Aabygade 14, st",8300, Odder,2600000 ,18-03-1996,Alm. Salg,104,25000,4,1935,
-727,Ejerlejlighed,"Aabygade 14, 1",8300, Odder,2600000 ,18-03-1996,Alm. Salg,106,24528,4,1935,
-727,Ejerlejlighed,"Aabygade 14, 3",8300, Odder,2600000 ,18-03-1996,Alm. Salg,97,26804,4,1935,
-727,Ejerlejlighed,"Nørregade 7, 3. th",8300, Odder,2600000 ,18-03-1996,Alm. Salg,72,36111,3,1935,
-727,Ejerlejlighed,"Nørregade 7, 3. tv",8300, Odder,2600000 ,18-03-1996,Alm. Salg,58,44828,2,1935,
-727,Ejerlejlighed,"Nørregade 7, 2. tv",8300, Odder,2600000 ,18-03-1996,Alm. Salg,62,41935,2,1935,
 727,Ejerlejlighed,"Rørthvej 2, 1",8300, Odder,441000 ,17-03-1996,Alm. Salg,74,5959,3,1925,
 727,Villa,Horsensvej 128,8300, Odder,591000 ,17-03-1996,Alm. Salg,153,3863,5,1910,
 727,Rækkehus,Snærildvej 43B,8300, Odder,624000 ,15-03-1996,Alm. Salg,95,6568,4,1985,
@@ -10244,10 +10074,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 727,Villa,Søkrogen 108,8300, Odder,1175000 ,27-09-1995,Alm. Salg,133,8835,6,1995,
 727,Villa,Skovlundsvej 27,8300, Odder,600000 ,26-09-1995,Alm. Salg,127,4724,3,1964,
 727,Villa,Egevej 8,8300, Odder,289000 ,26-09-1995,Alm. Salg,150,1927,3,2013,
-727,Ejerlejlighed,Nygade 1B,8300, Odder,661431 ,25-09-1995,Fam. Salg,56,11811,1,1875,
-727,Ejerlejlighed,"Nygade 1, 1",8300, Odder,661431 ,25-09-1995,Fam. Salg,80,8268,2,1875,
-727,Ejerlejlighed,"Nygade 1, 2",8300, Odder,661431 ,25-09-1995,Fam. Salg,119,5558,3,1875,
-727,Ejerlejlighed,Rosensgade 52,8300, Odder,661431 ,25-09-1995,Fam. Salg,181,3654,3,1875,
 727,Villa,Århusvej 56,8300, Odder,1640000 ,24-09-1995,Andet,166,9880,4,1966,
 727,Villa,Balshavevej 87,8300, Odder,595000 ,21-09-1995,Alm. Salg,162,3673,7,1962,
 727,Ejerlejlighed,"Aaparken 6, st. th",8300, Odder,362000 ,20-09-1995,Alm. Salg,75,4827,3,1963,
@@ -10881,7 +10707,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 727,Villa,Egehovedet 32,8300, Odder,695000 ,10-04-1994,Alm. Salg,160,4344,5,1973,
 727,Villa,Asylgade 33,8300, Odder,800000 ,10-04-1994,Alm. Salg,389,2057,11,1907,
 727,Rækkehus,Enghaven 5,8300, Odder,695000 ,07-04-1994,Alm. Salg,140,4964,4,1969,
-727,Villa,Aakjærvej 78,8300, Odder,1362000 ,07-04-1994,Alm. Salg,193,7057,8,1946,
 727,Villa,Ankjær 318,8300, Odder,720000 ,07-04-1994,Alm. Salg,128,5625,5,1980,
 727,Villa,Aakjærvej 8,8300, Odder,550000 ,05-04-1994,Alm. Salg,110,5000,5,1860,
 727,Villa,Skolegade 3,8300, Odder,615000 ,05-04-1994,Alm. Salg,120,5125,5,1903,
@@ -10912,7 +10737,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 727,Ejerlejlighed,Rathlousgade 36,8300, Odder,594000 ,16-03-1994,Alm. Salg,114,5211,4,1988,
 727,Rækkehus,Gl Krovej 25B,8300, Odder,700000 ,15-03-1994,Andet,99,7071,5,1988,
 727,Villa,Skolevænget 20,8300, Odder,475000 ,15-03-1994,Alm. Salg,158,3006,6,1954,
-727,Villa,Søndergade 6,8300, Odder,385000 ,13-03-1994,Andet,129,2984,6,1910,
 727,Villa,Christianslund 70,8300, Odder,640000 ,13-03-1994,Alm. Salg,157,4076,7,1977,
 727,Villa,Rudevej 63,8300, Odder,730000 ,13-03-1994,Alm. Salg,177,4124,6,1969,
 727,Villa,Sødrupvej 3,8350, Hundslund,559000 ,10-03-1994,Alm. Salg,178,3140,5,1936,
@@ -11061,25 +10885,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 727,Villa,Jonasdalen 39,8300, Odder,318500 ,19-10-1993,Fam. Salg,135,2359,4,1972,
 727,Villa,Egevej 5,8300, Odder,467500 ,19-10-1993,Fam. Salg,184,2541,10,1929,
 727,Villa,Strandvejen 24,8300, Odder,370000 ,19-10-1993,Fam. Salg,239,1548,6,2002,
-727,Ejerlejlighed,"Nørregade 7, 1. tv",8300, Odder,2467682 ,17-10-1993,Alm. Salg,62,39801,2,1935,
-727,Ejerlejlighed,"Nørregade 7, 1. th",8300, Odder,2467682 ,17-10-1993,Alm. Salg,77,32048,3,1935,
-727,Ejerlejlighed,"Nørregade 7, 2. th",8300, Odder,2467682 ,17-10-1993,Alm. Salg,77,32048,3,1935,
-727,Ejerlejlighed,"Nørregade 7, st",8300, Odder,2467682 ,17-10-1993,Alm. Salg,107,23062,5,1935,
-727,Ejerlejlighed,"Aabygade 12, st. tv",8300, Odder,2467682 ,17-10-1993,Alm. Salg,61,40454,2,1935,
-727,Ejerlejlighed,"Aabygade 12, 1. th",8300, Odder,2467682 ,17-10-1993,Alm. Salg,61,40454,2,1935,
-727,Ejerlejlighed,"Aabygade 12, st. th",8300, Odder,2467682 ,17-10-1993,Alm. Salg,61,40454,2,1935,
-727,Ejerlejlighed,"Aabygade 12, 1. tv",8300, Odder,2467682 ,17-10-1993,Alm. Salg,61,40454,2,1935,
-727,Ejerlejlighed,"Aabygade 12, 2. th",8300, Odder,2467682 ,17-10-1993,Alm. Salg,61,40454,2,1935,
-727,Ejerlejlighed,"Aabygade 12, 2. tv",8300, Odder,2467682 ,17-10-1993,Alm. Salg,61,40454,2,1935,
-727,Ejerlejlighed,"Aabygade 12, 3. th",8300, Odder,2467682 ,17-10-1993,Alm. Salg,58,42546,2,1935,
-727,Ejerlejlighed,"Aabygade 12, 3. tv",8300, Odder,2467682 ,17-10-1993,Alm. Salg,58,42546,2,1935,
-727,Ejerlejlighed,"Aabygade 14, 2",8300, Odder,2467682 ,17-10-1993,Alm. Salg,106,23280,4,1935,
-727,Ejerlejlighed,"Aabygade 14, st",8300, Odder,2467682 ,17-10-1993,Alm. Salg,104,23728,4,1935,
-727,Ejerlejlighed,"Aabygade 14, 1",8300, Odder,2467682 ,17-10-1993,Alm. Salg,106,23280,4,1935,
-727,Ejerlejlighed,"Aabygade 14, 3",8300, Odder,2467682 ,17-10-1993,Alm. Salg,97,25440,4,1935,
-727,Ejerlejlighed,"Nørregade 7, 3. th",8300, Odder,2467682 ,17-10-1993,Alm. Salg,72,34273,3,1935,
-727,Ejerlejlighed,"Nørregade 7, 3. tv",8300, Odder,2467682 ,17-10-1993,Alm. Salg,58,42546,2,1935,
-727,Ejerlejlighed,"Nørregade 7, 2. tv",8300, Odder,2467682 ,17-10-1993,Alm. Salg,62,39801,2,1935,
 727,Villa,Søbyvej 32,8300, Odder,650000 ,17-10-1993,Alm. Salg,245,2653,10,1910,
 727,Ejerlejlighed,"Holsteinsgade 11, 1. 5",8300, Odder,530000 ,15-10-1993,Alm. Salg,78,6795,2,1989,
 727,Rækkehus,Østergade 11,8300, Odder,665000 ,14-10-1993,Alm. Salg,123,5407,5,1890,
@@ -11179,7 +10984,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 727,Villa,Blommevænget 248,8300, Odder,530000 ,07-07-1993,Alm. Salg,116,4569,4,1978,
 727,Villa,Alpevej 3,8300, Odder,925000 ,06-07-1993,Alm. Salg,180,5139,8,1950,
 727,Villa,Strandgade 10,8300, Odder,1030000 ,04-07-1993,Alm. Salg,153,6732,5,1907,
-727,Rækkehus,Aaholmsgade 6C,8300, Odder,3460000 ,01-07-1993,Alm. Salg,79,43797,2,1930,
 727,Villa,Horsensvej 129,8300, Odder,715000 ,01-07-1993,Alm. Salg,161,4441,5,1963,
 727,Rækkehus,Kirstinelystvej 25,8300, Odder,690000 ,30-06-1993,Alm. Salg,140,4929,5,1970,
 727,Villa,Borgbjergalle 18,8300, Odder,680000 ,30-06-1993,Alm. Salg,84,8095,5,1950,

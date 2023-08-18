@@ -88,7 +88,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 173,Villa,Bredevej 20,2830, Virum,8500000 ,29-10-2022,Alm. Salg,188,45213,5,1952,-10%
 173,Rækkehus,Eremitageparken 59,2800, Kongens Lyngby,3295000 ,27-10-2022,Alm. Salg,108,30509,4,1972,-6%
 173,Ejerlejlighed,"Bredebovej 27, st. mf",2800, Kongens Lyngby,1995000 ,27-10-2022,Alm. Salg,56,35625,2,1969,
-173,Villa,Høstvej 4D,2800, Kongens Lyngby,11400000 ,26-10-2022,Fam. Salg,136,83824,5,1787,
 173,Villa,Vintappervej 21,2800, Kongens Lyngby,4750000 ,25-10-2022,Alm. Salg,127,37402,4,1953,-5%
 173,Ejerlejlighed,"Mosevej 8, 2. tv",2800, Kongens Lyngby,4450000 ,24-10-2022,Alm. Salg,87,51149,4,1958,-5%
 173,Villa,Parcelvej 158,2830, Virum,9500000 ,24-10-2022,Alm. Salg,166,57229,6,1938,-5%
@@ -866,7 +865,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 173,Ejerlejlighed,"Frederiksdalsvej 8B, 2. th",2830, Virum,1910000 ,17-08-2021,Alm. Salg,56,34107,2,1940,-9%
 173,Villa,Blomstervænget 1,2800, Kongens Lyngby,8950000 ,17-08-2021,Alm. Salg,145,61724,6,1937,-3%
 173,Villa,Mølleåparken 42,2800, Kongens Lyngby,11250000 ,17-08-2021,Alm. Salg,193,58290,6,1977,-2%
-173,Villa,Nybrovej 500,2800, Kongens Lyngby,700000 ,17-08-2021,Alm. Salg,286,2448,9,1777,
 173,Ejerlejlighed,"Holmelins Tværvej 8D, 1. th",2800, Kongens Lyngby,1801000 ,16-08-2021,Alm. Salg,52,34635,2,1944,3%
 173,Ejerlejlighed,"Mølleåparken 6, 3. k",2800, Kongens Lyngby,235000 ,16-08-2021,Alm. Salg,52,4519,2,1969,-85%
 173,Rækkehus,Islandsvej 5B,2800, Kongens Lyngby,2270201 ,15-08-2021,Fam. Salg,94,24151,4,1939,
@@ -1243,9 +1241,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 173,Rækkehus,Ingvar Nørgaards Vej 6,2800, Kongens Lyngby,6350000 ,03-04-2021,Alm. Salg,139,45683,5,2021,
 173,Rækkehus,Grønnevej 168,2830, Virum,5795000 ,31-03-2021,Alm. Salg,117,49530,5,1951,-2%
 173,Rækkehus,Klokkelyng 12,2830, Virum,6625000 ,31-03-2021,Alm. Salg,140,47321,5,2014,-2%
-173,Rækkehus,Toftebæksvej 51,2800, Kongens Lyngby,6250000 ,30-03-2021,Alm. Salg,121,51653,4,1928,
 173,Villa,Parcelvej 88A,2830, Virum,6000000 ,30-03-2021,Alm. Salg,137,43796,3,1905,
-173,Villa,Egegårdsvej 24A,2800, Kongens Lyngby,6250000 ,30-03-2021,Alm. Salg,137,45620,5,1963,-4%
 173,Rækkehus,Asavænget 20,2800, Kongens Lyngby,6200000 ,29-03-2021,Alm. Salg,107,57944,5,1943,-2%
 173,Rækkehus,Bøgevang 4,2830, Virum,4450000 ,29-03-2021,Alm. Salg,75,59333,4,1937,
 173,Rækkehus,Bredevej 61,2830, Virum,4515000 ,29-03-2021,Alm. Salg,108,41806,4,1944,0%
@@ -1587,166 +1583,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 173,Villa,Strandvejen 693,2930, Klampenborg,11800000 ,23-12-2020,Alm. Salg,243,48560,7,2019,
 173,Rækkehus,Åbrinken 185,2830, Virum,5900000 ,22-12-2020,Alm. Salg,136,43382,5,1956,-2%
 173,Ejerlejlighed,"Eremitageparken 213, 1. c",2800, Kongens Lyngby,1700000 ,22-12-2020,Alm. Salg,48,35417,2,1972,-3%
-173,Ejerlejlighed,"Gyldendalsvej 2, 2. 6",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,35,4160714,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 63, 3. 9",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,34,4283088,1,2021,
-173,Ejerlejlighed,"Gyldendalsvej 2, 3. 2",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,40,3640625,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 63, 4. 4",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,45,3236111,1,2021,
-173,Ejerlejlighed,"Gyldendalsvej 2, 2. 2",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,37,3935811,1,2021,
-173,Ejerlejlighed,"Gyldendalsvej 2, 2. 3",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,37,3935811,1,2021,
-173,Ejerlejlighed,"Gyldendalsvej 2, 2. 13",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,37,3935811,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 65A, 4. 8",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,35,4160714,1,2021,
-173,Ejerlejlighed,"Gyldendalsvej 2, 1. 8",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,37,3935811,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 63, 4. 10",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,34,4283088,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 63, 1. 5",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,45,3236111,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 65A, 1. 15",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,34,4283088,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 63, 4. 11",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,35,4160714,1,2021,
-173,Ejerlejlighed,"Gyldendalsvej 2, 1. 21",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,37,3935811,1,2021,
-173,Ejerlejlighed,"Gyldendalsvej 2, 3. 9",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,37,3935811,1,2021,
-173,Ejerlejlighed,"Gyldendalsvej 2, 1. 14",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,37,3935811,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 63, 4. 8",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,34,4283088,1,2021,
-173,Ejerlejlighed,"Gyldendalsvej 2, 1. 12",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,37,3935811,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 65A, 2. 3",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,45,3236111,1,2021,
-173,Ejerlejlighed,"Gyldendalsvej 2, 1. 18",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,38,3832237,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 63, 2. 1",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,46,3165761,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 65A, 1. 11",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,34,4283088,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 65A, 1. 2",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,45,3236111,1,2021,
-173,Ejerlejlighed,"Gyldendalsvej 2, 2. 15",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,37,3935811,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 63, 2. 4",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,46,3165761,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 65A, 1. 8",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,35,4160714,1,2021,
-173,Ejerlejlighed,"Gyldendalsvej 2, 1. 22",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,38,3832237,1,2021,
-173,Ejerlejlighed,"Gyldendalsvej 2, 1. 16",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,37,3935811,1,2021,
-173,Ejerlejlighed,"Gyldendalsvej 2, 1. 13",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,37,3935811,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 63, 3. 12",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,47,3098404,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 65A, 1. 7",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,34,4283088,1,2021,
-173,Ejerlejlighed,"Gyldendalsvej 2, 4. 5",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,37,3935811,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 63, 1. 8",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,34,4283088,1,2021,
-173,Ejerlejlighed,"Gyldendalsvej 2, 2. 16",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,37,3935811,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 65A, 2. 13",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,34,4283088,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 65A, 1. 14",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,34,4283088,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 65A, 3. 1",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,46,3165761,1,2021,
-173,Ejerlejlighed,"Gyldendalsvej 2, 1. 20",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,37,3935811,1,2021,
-173,Ejerlejlighed,"Gyldendalsvej 2, 4. 9",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,37,3935811,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 65A, 3. 3",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,45,3236111,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 65A, 4. 4",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,34,4283088,1,2021,
-173,Ejerlejlighed,"Gyldendalsvej 2, 3. 6",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,37,3935811,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 63, 2. 10",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,34,4283088,1,2021,
-173,Ejerlejlighed,"Gyldendalsvej 2, 4. 1",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,40,3640625,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 63, 4. 2",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,37,3935811,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 63, 1. 9",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,34,4283088,1,2021,
-173,Ejerlejlighed,"Gyldendalsvej 2, 1. 3",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,37,3935811,1,2021,
-173,Ejerlejlighed,"Gyldendalsvej 2, 3. 3",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,40,3640625,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 63, 2. 6",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,34,4283088,1,2021,
-173,Ejerlejlighed,"Gyldendalsvej 2, 2. 12",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,37,3935811,1,2021,
-173,Ejerlejlighed,"Gyldendalsvej 2, 1. 4",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,37,3935811,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 65A, 3. 5",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,45,3236111,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 63, 1. 3",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,37,3935811,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 65A, 2. 14",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,44,3309659,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 65A, 3. 9",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,51,2855392,1,2021,
-173,Ejerlejlighed,"Gyldendalsvej 2, 1. 7",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,40,3640625,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 65A, 1. 12",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,46,3165761,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 65A, 3. 2",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,45,3236111,1,2021,
-173,Ejerlejlighed,"Gyldendalsvej 2, 2. 4",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,40,3640625,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 65A, 2. 4",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,35,4160714,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 63, 2. 12",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,47,3098404,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 65A, 1. 5",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,45,3236111,1,2021,
-173,Ejerlejlighed,"Gyldendalsvej 2, 2. 9",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,37,3935811,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 65A, 1. 13",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,46,3165761,1,2021,
-173,Ejerlejlighed,"Gyldendalsvej 2, 3. 12",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,37,3935811,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 65A, 3. 8",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,35,4160714,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 63, 3. 2",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,37,3935811,1,2021,
-173,Ejerlejlighed,"Gyldendalsvej 2, 3. 5",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,37,3935811,1,2021,
-173,Ejerlejlighed,"Gyldendalsvej 2, 3. 7",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,37,3935811,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 65A, 2. 2",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,45,3236111,1,2021,
-173,Ejerlejlighed,"Gyldendalsvej 2, 1. 15",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,37,3935811,1,2021,
-173,Ejerlejlighed,"Gyldendalsvej 2, 2. 18",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,38,3832237,1,2021,
-173,Ejerlejlighed,"Gyldendalsvej 2, 3. 13",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,37,3935811,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 63, 1. 7",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,35,4160714,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 63, 4. 9",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,34,4283088,1,2021,
-173,Ejerlejlighed,"Gyldendalsvej 2, 2. 8",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,37,3935811,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 65A, 3. 4",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,35,4160714,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 63, 3. 1",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,46,3165761,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 65A, 2. 10",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,34,4283088,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 65A, 1. 10",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,34,4283088,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 63, 4. 3",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,37,3935811,1,2021,
-173,Ejerlejlighed,"Gyldendalsvej 2, 3. 11",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,37,3935811,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 63, 3. 7",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,35,4160714,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 63, 4. 5",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,45,3236111,1,2021,
-173,Ejerlejlighed,"Gyldendalsvej 2, 2. 11",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,37,3935811,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 63, 4. 6",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,34,4283088,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 63, 3. 6",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,34,4283088,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 65A, 4. 7",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,34,4283088,1,2021,
-173,Ejerlejlighed,"Gyldendalsvej 2, 4. 6",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,38,3832237,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 63, 4. 7",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,34,4283088,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 63, 2. 2",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,37,3935811,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 63, 4. 12",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,47,3098404,1,2021,
-173,Ejerlejlighed,"Gyldendalsvej 2, 1. 19",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,37,3935811,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 65A, 1. 9",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,48,3033854,1,2021,
-173,Ejerlejlighed,"Gyldendalsvej 2, 1. 5",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,37,3935811,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 65A, 1. 3",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,45,3236111,1,2021,
-173,Ejerlejlighed,"Gyldendalsvej 2, 1. 2",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,37,3935811,1,2021,
-173,Ejerlejlighed,"Gyldendalsvej 2, 4. 2",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,37,3935811,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 63, 1. 1",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,46,3165761,2,2021,
-173,Ejerlejlighed,"Gyldendalsvej 2, 1. 17",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,37,3935811,1,2021,
-173,Ejerlejlighed,"Gyldendalsvej 2, 3. 14",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,38,3832237,1,2021,
-173,Ejerlejlighed,"Gyldendalsvej 2, 2. 10",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,37,3935811,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 63, 1. 6",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,34,4283088,1,2021,
-173,Ejerlejlighed,"Gyldendalsvej 2, 3. 10",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,38,3832237,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 63, 2. 11",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,35,4160714,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 65A, 1. 16",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,44,3309659,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 65A, 3. 10",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,46,3165761,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 63, 1. 12",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,47,3098404,2,2021,
-173,Ejerlejlighed,"Gyldendalsvej 2, 1. 10",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,35,4160714,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 65A, 4. 5",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,45,3236111,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 65A, 4. 3",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,45,3236111,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 63, 1. 11",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,35,4160714,1,2021,
-173,Ejerlejlighed,"Gyldendalsvej 2, 4. 3",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,37,3935811,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 63, 3. 8",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,34,4283088,1,2021,
-173,Ejerlejlighed,"Gyldendalsvej 2, 2. 1",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,38,3832237,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 65A, 1. 4",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,35,4160714,1,2021,
-173,Ejerlejlighed,"Gyldendalsvej 2, 2. 7",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,37,3935811,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 65A, 2. 8",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,35,4160714,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 65A, 2. 12",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,38,3832237,1,2021,
-173,Ejerlejlighed,"Gyldendalsvej 2, 3. 4",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,37,3935811,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 63, 1. 2",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,37,3935811,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 65A, 2. 7",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,34,4283088,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 63, 3. 10",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,34,4283088,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 65A, 2. 5",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,45,3236111,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 65A, 1. 6",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,34,4283088,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 63, 3. 4",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,46,3165761,1,2021,
-173,Ejerlejlighed,"Gyldendalsvej 2, 3. 1",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,38,3832237,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 63, 4. 1",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,45,3236111,1,2021,
-173,Ejerlejlighed,"Gyldendalsvej 2, 1. 6",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,40,3640625,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 65A, 2. 6",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,34,4283088,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 63, 3. 11",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,35,4160714,1,2021,
-173,Ejerlejlighed,"Gyldendalsvej 2, 2. 14",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,38,3832237,1,2021,
-173,Ejerlejlighed,"Gyldendalsvej 2, 1. 11",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,37,3935811,1,2021,
-173,Ejerlejlighed,"Gyldendalsvej 2, 2. 17",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,37,3935811,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 63, 3. 5",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,45,3236111,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 65A, 4. 6",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,34,4283088,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 65A, 4. 1",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,45,3236111,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 65A, 2. 9",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,48,3033854,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 63, 1. 10",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,34,4283088,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 63, 2. 9",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,34,4283088,1,2021,
-173,Ejerlejlighed,"Gyldendalsvej 2, 4. 4",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,37,3935811,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 65A, 4. 2",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,45,3236111,1,2021,
-173,Ejerlejlighed,"Gyldendalsvej 2, 3. 8",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,37,3935811,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 63, 2. 5",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,45,3236111,1,2021,
-173,Ejerlejlighed,"Gyldendalsvej 2, 1. 1",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,38,3832237,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 65A, 3. 7",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,34,4283088,1,2021,
-173,Ejerlejlighed,"Gyldendalsvej 2, 2. 5",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,39,3733974,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 63, 3. 3",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,37,3935811,1,2021,
-173,Ejerlejlighed,"Gyldendalsvej 2, 1. 9",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,35,4160714,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 63, 2. 3",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,37,3935811,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 65A, 1. 1",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,46,3165761,1,2021,
-173,Ejerlejlighed,"Gyldendalsvej 2, 4. 10",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,37,3935811,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 63, 1. 4",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,46,3165761,1,2021,
-173,Ejerlejlighed,"Gyldendalsvej 2, 4. 7",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,37,3935811,1,2021,
-173,Ejerlejlighed,"Gyldendalsvej 2, 4. 8",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,37,3935811,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 63, 2. 7",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,35,4160714,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 63, 2. 8",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,34,4283088,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 65A, 2. 11",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,38,3832237,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 65A, 2. 1",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,46,3165761,1,2021,
-173,Ejerlejlighed,"Lyngby Hovedgade 65A, 3. 6",2800, Kongens Lyngby,145625000 ,21-12-2020,Alm. Salg,34,4283088,1,2021,
 173,Rækkehus,Frederiksdalsvej 117,2830, Virum,4700000 ,21-12-2020,Alm. Salg,110,42727,4,1949,-6%
 173,Ejerlejlighed,"Mortonsvej 13, 2. tv",2800, Kongens Lyngby,5300000 ,21-12-2020,Alm. Salg,90,58889,3,1986,-4%
 173,Ejerlejlighed,"Holmelins Tværvej 1B, st. th",2800, Kongens Lyngby,892500 ,21-12-2020,Fam. Salg,65,13731,2,1897,
@@ -2363,8 +2199,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 173,Ejerlejlighed,"Bagsværdvej 71A, 1. tv",2800, Kongens Lyngby,2200000 ,28-05-2020,Alm. Salg,80,27500,3,1938,-8%
 173,Ejerlejlighed,"Mortonsvej 34, st. tv",2800, Kongens Lyngby,4900000 ,28-05-2020,Alm. Salg,80,61250,3,2009,-1%
 173,Villa,Søndervej 3,2830, Virum,5900000 ,28-05-2020,Alm. Salg,131,43704,6,1951,-2%
-173,Ejerlejlighed,"Ulrikkenborg Alle 39, 1. tv",2800, Kongens Lyngby,1550000 ,27-05-2020,Alm. Salg,45,34444,1,1935,
-173,Ejerlejlighed,"Engelsborgvej 20C, st. tv",2800, Kongens Lyngby,1550000 ,27-05-2020,Alm. Salg,47,32979,2,1946,-3%
 173,Ejerlejlighed,"Cedervænget 19, 2. tv",2830, Virum,2485000 ,26-05-2020,Alm. Salg,86,28895,4,1958,-4%
 173,Villa,Højdevej 62,2830, Virum,6900000 ,26-05-2020,Alm. Salg,173,39884,5,1979,-8%
 173,Villa,Trongårdsvej 5B,2800, Kongens Lyngby,6525000 ,26-05-2020,Fam. Salg,189,34524,7,1884,
@@ -2650,10 +2484,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 173,Ejerlejlighed,"Eremitageparken 99, 2. b",2800, Kongens Lyngby,990000 ,16-01-2020,Alm. Salg,33,30000,1,1972,-7%
 173,Villa,Lundtofte Skolestr. 5,2800, Kongens Lyngby,5475000 ,16-01-2020,Alm. Salg,153,35784,4,1860,-3%
 173,Rækkehus,Egholmsvej 5C,2830, Virum,6600000 ,15-01-2020,Alm. Salg,138,47826,4,1989,-3%
-173,Ejerlejlighed,"Engelsborgvej 28A, 2. th",2800, Kongens Lyngby,2200000 ,15-01-2020,Alm. Salg,64,34375,2,1946,-4%
 173,Ejerlejlighed,"Ulrikkenborg Alle 35, st. th",2800, Kongens Lyngby,3600000 ,15-01-2020,Alm. Salg,81,44444,3,1936,-3%
 173,Ejerlejlighed,"Taarbæk Strandvej 65B, st. th",2930, Klampenborg,8000000 ,15-01-2020,Alm. Salg,115,69565,4,1939,-6%
-173,Ejerlejlighed,"Eremitageparken 201, st. c",2800, Kongens Lyngby,2200000 ,15-01-2020,Alm. Salg,81,27160,2,1972,-12%
 173,Ejerlejlighed,Virum Stationsvej 145A,2830, Virum,1910000 ,15-01-2020,Alm. Salg,65,29385,2,1962,-2%
 173,Villa,Chr.Winthers Vej 13,2800, Kongens Lyngby,7000000 ,15-01-2020,Alm. Salg,181,38674,6,1926,-3%
 173,Ejerlejlighed,"Grønnevej 82, 1. tv",2830, Virum,1925000 ,14-01-2020,Alm. Salg,63,30556,2,1948,-4%
@@ -2698,10 +2530,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 173,Ejerlejlighed,"Eremitageparken 109, 1. c",2800, Kongens Lyngby,2000000 ,19-12-2019,Alm. Salg,62,32258,3,1972,-5%
 173,Villa,Kaningårdsvej 38A,2830, Virum,5500000 ,19-12-2019,Alm. Salg,221,24887,5,2020,
 173,Villa,Kaningårdsvej 38B,2830, Virum,4650000 ,19-12-2019,Alm. Salg,207,22464,5,2022,
-173,Rækkehus,Elmevang 39,2830, Virum,3450000 ,18-12-2019,Alm. Salg,78,44231,4,1939,-4%
 173,Ejerlejlighed,"Fuglevadsvej 14, st",2800, Kongens Lyngby,5995000 ,18-12-2019,Alm. Salg,115,52130,4,1903,
 173,Ejerlejlighed,"Virum Stationsvej 141D, st. th",2830, Virum,1420000 ,18-12-2019,Alm. Salg,52,27308,1,1962,-2%
-173,Villa,Bakkevej 42A,2830, Virum,3450000 ,18-12-2019,Andet,145,23793,6,1966,
 173,Villa,Granhøjvej 5,2800, Kongens Lyngby,8600000 ,18-12-2019,Alm. Salg,208,41346,5,2015,-2%
 173,Villa,Hjortekærsvej 144,2800, Kongens Lyngby,7100000 ,18-12-2019,Alm. Salg,168,42262,5,1890,-5%
 173,Ejerlejlighed,"Lyngby Hovedgade 13, 2. th",2800, Kongens Lyngby,4400000 ,17-12-2019,Alm. Salg,92,47826,3,1980,-2%
@@ -3370,9 +3200,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 173,Rækkehus,Frugthegnet 54,2830, Virum,4630000 ,14-03-2019,Alm. Salg,114,40614,5,1953,
 173,Rækkehus,Geelsvænget 6,2830, Virum,2900000 ,14-03-2019,Alm. Salg,88,32955,3,1937,-9%
 173,Rækkehus,Kvædevej 87,2830, Virum,6025000 ,13-03-2019,Alm. Salg,144,41840,5,1953,0%
-173,Ejerlejlighed,"Mølleåparken 57, 2. m",2800, Kongens Lyngby,1675000 ,13-03-2019,Alm. Salg,61,27459,2,1973,-1%
 173,Ejerlejlighed,"Ulrikkenborg Alle 31, 2. th",2800, Kongens Lyngby,2775000 ,13-03-2019,Alm. Salg,81,34259,3,1936,
-173,Ejerlejlighed,"Kirsebærvænget 2, st. tv",2800, Kongens Lyngby,1675000 ,13-03-2019,Alm. Salg,67,25000,2,1952,
 173,Rækkehus,Kvædevej 80,2830, Virum,6400000 ,12-03-2019,Alm. Salg,184,34783,5,1953,-3%
 173,Rækkehus,Klokkelyng 1,2830, Virum,5150000 ,12-03-2019,Alm. Salg,131,39313,5,2014,-2%
 173,Villa,Askimvej 14,2830, Virum,6565000 ,12-03-2019,Alm. Salg,158,41551,7,1949,
@@ -3542,16 +3370,13 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 173,Ejerlejlighed,"Engelsborgvej 26, 1. tv",2800, Kongens Lyngby,2495000 ,12-12-2018,Alm. Salg,64,38984,3,1946,
 173,Villa,Lundtoftevej 270C,2800, Kongens Lyngby,5050000 ,12-12-2018,Alm. Salg,138,36594,5,1975,-4%
 173,Villa,Thorsvej 5,2800, Kongens Lyngby,2852776 ,12-12-2018,Fam. Salg,156,18287,5,1902,
-173,Villa,Taarbæk Strandvej 56,2930, Klampenborg,9500000 ,12-12-2018,Alm. Salg,115,82609,4,1848,
 173,Villa,Fortunparken 38,2800, Kongens Lyngby,6260000 ,11-12-2018,Alm. Salg,195,32103,7,1963,-11%
 173,Rækkehus,Pilevænget 8,2800, Kongens Lyngby,2200000 ,10-12-2018,Alm. Salg,119,18487,5,1947,
 173,Ejerlejlighed,"Eremitageparken 319, 2. d",2800, Kongens Lyngby,1095000 ,10-12-2018,Alm. Salg,41,26707,1,1972,
 173,Ejerlejlighed,"Eremitageparken 11, 2. d",2800, Kongens Lyngby,1095000 ,09-12-2018,Alm. Salg,41,26707,1,1972,
 173,Ejerlejlighed,"Frederiksdalsvej 81, 1. th",2830, Virum,1650000 ,06-12-2018,Alm. Salg,56,29464,2,1944,-3%
 173,Villa,Kongedalen 5,2830, Virum,3995000 ,06-12-2018,Alm. Salg,108,36991,4,1957,
-173,Rækkehus,Buddingevej 27C,2800, Kongens Lyngby,4750000 ,05-12-2018,Alm. Salg,126,37698,5,1935,-4%
 173,Ejerlejlighed,"Ulrikkenborg Alle 1, 2. th",2800, Kongens Lyngby,2130000 ,05-12-2018,Alm. Salg,120,17750,5,1934,
-173,Villa,Ravnholmvej 15,2800, Kongens Lyngby,4750000 ,05-12-2018,Alm. Salg,200,23750,7,1965,-4%
 173,Villa,Søndervej 48G,2830, Virum,4495000 ,04-12-2018,Alm. Salg,195,23051,6,2020,
 173,Villa,Parkvej 43,2830, Virum,7125000 ,04-12-2018,Alm. Salg,148,48142,6,1961,-2%
 173,Villa,Trongårdsparken 99,2800, Kongens Lyngby,6000000 ,02-12-2018,Alm. Salg,148,40541,5,1963,-6%
@@ -4226,9 +4051,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 173,Ejerlejlighed,"Engelsborgvej 10, 2. tv",2800, Kongens Lyngby,3295000 ,07-03-2018,Alm. Salg,86,38314,3,1952,
 173,Villa,Skodsborgvej 21A,2830, Virum,4500000 ,07-03-2018,Alm. Salg,161,27950,5,1988,-5%
 173,Villa,Caroline Amalie Vej 125,2800, Kongens Lyngby,3162500 ,07-03-2018,Fam. Salg,106,29835,4,1913,
-173,Rækkehus,Sorgenfrivænget 17,2830, Virum,4495000 ,06-03-2018,Alm. Salg,135,33296,5,1960,
 173,Ejerlejlighed,"Skovtoftevænget 13, 3. tv",2830, Virum,5250000 ,06-03-2018,Alm. Salg,106,49528,3,1896,50%
-173,Villa,Kongsbjergvej 10,2830, Virum,4495000 ,06-03-2018,Alm. Salg,156,28814,6,1956,
 173,Rækkehus,Agernvej 13,2830, Virum,3750000 ,05-03-2018,Alm. Salg,91,41209,4,1957,-6%
 173,Rækkehus,Kvædevej 73,2830, Virum,5600000 ,05-03-2018,Alm. Salg,142,39437,5,1953,-4%
 173,Ejerlejlighed,"Lyngby Hovedgade 11B, st. tv",2800, Kongens Lyngby,3500000 ,05-03-2018,Alm. Salg,123,28455,4,1977,-7%
@@ -5077,10 +4900,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 173,Ejerlejlighed,"Grønnevej 60, 2. tv",2830, Virum,1250000 ,10-04-2017,Fam. Salg,57,21930,2,1944,
 173,Ejerlejlighed,"Baune Alle 2, 2. a",2800, Kongens Lyngby,2550000 ,10-04-2017,Alm. Salg,91,28022,2,2010,
 173,Ejerlejlighed,"Ulrikkenborg Plads 10C, 3. th",2800, Kongens Lyngby,2300000 ,09-04-2017,Alm. Salg,80,28750,3,1952,-8%
-173,Rækkehus,Skovtoftevænget 5,2830, Virum,6300000 ,06-04-2017,Alm. Salg,154,40909,5,2016,
 173,Ejerlejlighed,"Mortonsvej 40, 1. th",2800, Kongens Lyngby,4645000 ,06-04-2017,Alm. Salg,89,52191,3,2009,-3%
 173,Villa,Ingvar Hjorts Vej 17,2830, Virum,4200000 ,06-04-2017,Alm. Salg,186,22581,5,2018,
-173,Villa,Furesøvej 80,2830, Virum,6300000 ,06-04-2017,Alm. Salg,210,30000,6,2020,-6%
 173,Rækkehus,Elmevang 18,2830, Virum,3400000 ,05-04-2017,Alm. Salg,79,43038,3,1937,-3%
 173,Villa,Skovbovej 6,2800, Kongens Lyngby,4975000 ,05-04-2017,Alm. Salg,152,32730,3,1963,
 173,Villa,V.Stuckenbergs Vej 11,2800, Kongens Lyngby,8600000 ,05-04-2017,Alm. Salg,185,46486,5,1954,
@@ -5302,8 +5123,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 173,Villa,Kaningårdsvej 57,2830, Virum,4600000 ,03-01-2017,Alm. Salg,209,22010,5,2018,
 173,Villa,Parkvej 74,2830, Virum,6650000 ,03-01-2017,Alm. Salg,175,38000,6,1975,-1%
 173,Ejerlejlighed,"Skovvej 4, st. tv",2930, Klampenborg,3500000 ,02-01-2017,Alm. Salg,83,42169,3,1896,
-173,Ejerlejlighed,"Engelsborgvej 20D, 2. tv",2800, Kongens Lyngby,1200000 ,02-01-2017,Alm. Salg,47,25532,2,1946,-6%
-173,Ejerlejlighed,"Holmelins Tværvej 8D, st. th",2800, Kongens Lyngby,1200000 ,02-01-2017,Alm. Salg,52,23077,2,1944,-6%
 173,Rækkehus,Fyrrevang 79,2830, Virum,4150000 ,29-12-2016,Alm. Salg,109,38073,5,1955,-3%
 173,Villa,Hestegangen 19,2800, Kongens Lyngby,3730000 ,29-12-2016,Fam. Salg,172,21686,8,1959,
 173,Villa,Kulsviertoften 41,2800, Kongens Lyngby,2550000 ,29-12-2016,Fam. Salg,120,19318,6,1965,
@@ -5392,7 +5211,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 173,Ejerlejlighed,"Skovtoftevænget 17, 1. tv",2830, Virum,3900000 ,21-11-2016,Alm. Salg,90,43333,3,1896,-4%
 173,Villa,Abildgaardsvej 161,2830, Virum,5107000 ,21-11-2016,Alm. Salg,242,21103,7,2018,2%
 173,Villa,Fuglevadsvej 68,2800, Kongens Lyngby,4800000 ,21-11-2016,Alm. Salg,136,35294,5,1946,-9%
-173,Villa,Nybrovej 500,2800, Kongens Lyngby,27984060 ,21-11-2016,Fam. Salg,286,97846,9,1777,
 173,Rækkehus,Irmelinsvej 24,2800, Kongens Lyngby,4100000 ,20-11-2016,Alm. Salg,91,45055,4,1942,-5%
 173,Rækkehus,Eremitageparken 93,2800, Kongens Lyngby,3075000 ,20-11-2016,Alm. Salg,126,24405,5,1972,-2%
 173,Rækkehus,Hyldehavevej 10,2800, Kongens Lyngby,4725000 ,20-11-2016,Alm. Salg,108,43750,4,1917,-1%
@@ -5597,10 +5415,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 173,Rækkehus,Buddingevej 40B,2800, Kongens Lyngby,4850000 ,04-09-2016,Alm. Salg,132,36742,6,1930,-3%
 173,Rækkehus,Kvædevej 29,2830, Virum,3400000 ,04-09-2016,Alm. Salg,99,34343,4,1946,
 173,Rækkehus,Granparken 175,2800, Kongens Lyngby,2200000 ,04-09-2016,Fam. Salg,119,18487,4,1957,
-173,Ejerlejlighed,"Frederiksdalsvej 138, 1",2830, Virum,506732 ,04-09-2016,Andet,51,9936,2,1947,
 173,Ejerlejlighed,"Lyngby Hovedgade 86A, 2. tv",2800, Kongens Lyngby,1750000 ,04-09-2016,Alm. Salg,63,27778,2,1930,-8%
 173,Ejerlejlighed,"Johan Wilmanns Vej 4, st. mf",2800, Kongens Lyngby,1100000 ,04-09-2016,Alm. Salg,39,28205,1,1936,-8%
-173,Ejerlejlighed,Kirkebakken 1,2830, Virum,506732 ,04-09-2016,Andet,108,4692,4,1947,
 173,Rækkehus,Asavænget 16,2800, Kongens Lyngby,4100000 ,03-09-2016,Alm. Salg,103,39806,4,1943,-5%
 173,Rækkehus,Hjortekærsvej 4B,2800, Kongens Lyngby,4175000 ,01-09-2016,Alm. Salg,130,32115,4,1930,5%
 173,Villa,Kongevejen 169,2830, Virum,3475000 ,01-09-2016,Alm. Salg,155,21061,6,1951,-6%
@@ -5669,10 +5485,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 173,Rækkehus,Blomstervænget 45,2800, Kongens Lyngby,5325000 ,11-08-2016,Alm. Salg,106,50236,4,1936,-3%
 173,Rækkehus,Tornebakken 29,2830, Virum,4995000 ,11-08-2016,Alm. Salg,103,48495,3,1950,
 173,Rækkehus,Stengårds Alle 23C,2800, Kongens Lyngby,4500000 ,11-08-2016,Alm. Salg,136,33088,3,1970,0%
-173,Ejerlejlighed,"Jernbanevej 8A, 2",2800, Kongens Lyngby,5000000 ,11-08-2016,Alm. Salg,171,29240,4,1938,-6%
 173,Ejerlejlighed,"Askevænget 5, 2. tv",2830, Virum,2075000 ,11-08-2016,Alm. Salg,86,24128,4,1961,-6%
 173,Villa,Kongestien 65,2830, Virum,4920000 ,11-08-2016,Alm. Salg,136,36176,4,1943,-2%
-173,Villa,Ved Fortunen 18B,2800, Kongens Lyngby,5000000 ,11-08-2016,Alm. Salg,140,35714,4,1973,-5%
 173,Ejerlejlighed,"Ulrikkenborg Plads 10B, 3. th",2800, Kongens Lyngby,2375000 ,10-08-2016,Alm. Salg,80,29688,3,1952,-3%
 173,Villa,Floradalen 1,2830, Virum,3750000 ,09-08-2016,Alm. Salg,139,26978,5,1950,-6%
 173,Ejerlejlighed,"Bagsværdvej 73, st. th",2800, Kongens Lyngby,1580000 ,08-08-2016,Alm. Salg,70,22571,3,1908,
@@ -6450,14 +6264,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 173,Rækkehus,Bøgevang 42,2830, Virum,3000000 ,09-09-2015,Alm. Salg,82,36585,3,1940,-9%
 173,Villa,Tjørnevej 47,2800, Kongens Lyngby,4000000 ,09-09-2015,Alm. Salg,118,33898,6,1943,-3%
 173,Ejerlejlighed,"Ulrikkenborg Alle 35, 3",2800, Kongens Lyngby,1320000 ,08-09-2015,Fam. Salg,91,14505,3,1936,
-173,Ejerlejlighed,"Asylgade 4, st. th",2800, Kongens Lyngby,5450000 ,08-09-2015,Alm. Salg,57,95614,2,1930,
-173,Ejerlejlighed,"Asylgade 4, st. tv",2800, Kongens Lyngby,5450000 ,08-09-2015,Alm. Salg,57,95614,2,1930,
-173,Ejerlejlighed,"Nørregade 3A, st. th",2800, Kongens Lyngby,5450000 ,08-09-2015,Alm. Salg,42,129762,2,1920,
-173,Ejerlejlighed,"Asylgade 4, 1. tv",2800, Kongens Lyngby,5450000 ,08-09-2015,Alm. Salg,57,95614,2,1930,
-173,Ejerlejlighed,"Asylgade 4, 1. th",2800, Kongens Lyngby,5450000 ,08-09-2015,Alm. Salg,57,95614,2,1930,
-173,Ejerlejlighed,"Nørregade 3A, 1. tv",2800, Kongens Lyngby,5450000 ,08-09-2015,Alm. Salg,42,129762,2,1920,
-173,Ejerlejlighed,"Nørregade 3A, 1. th",2800, Kongens Lyngby,5450000 ,08-09-2015,Alm. Salg,42,129762,2,1920,
-173,Ejerlejlighed,"Nørregade 3A, st. tv",2800, Kongens Lyngby,5450000 ,08-09-2015,Alm. Salg,42,129762,2,1920,
 173,Ejerlejlighed,"Eremitageparken 211, 1. b",2800, Kongens Lyngby,2375000 ,08-09-2015,Alm. Salg,108,21991,4,1972,-3%
 173,Villa,Christian X's Alle 81,2800, Kongens Lyngby,6900000 ,08-09-2015,Alm. Salg,211,32701,8,1934,-14%
 173,Ejerlejlighed,"Cedervænget 23, 1. mf",2830, Virum,1360000 ,07-09-2015,Alm. Salg,50,27200,2,1958,
@@ -6836,7 +6642,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 173,Rækkehus,Kaplevej 67,2830, Virum,3125000 ,23-04-2015,Fam. Salg,126,24802,4,1943,
 173,Ejerlejlighed,"Eremitageparken 103, st. b",2800, Kongens Lyngby,1780000 ,23-04-2015,Alm. Salg,81,21975,2,1972,2%
 173,Villa,Gammel Bagsværdvej 50,2800, Kongens Lyngby,7000000 ,23-04-2015,Alm. Salg,162,43210,6,1931,-7%
-173,Villa,Lundtoftevej 272,2800, Kongens Lyngby,3500000 ,23-04-2015,Alm. Salg,102,34314,5,1950,
 173,Villa,L.F.Cortzens Vej 13,2830, Virum,4600000 ,23-04-2015,Alm. Salg,112,41071,4,1965,-2%
 173,Rækkehus,Holmeparken 31,2830, Virum,3850000 ,22-04-2015,Alm. Salg,107,35981,4,1955,-8%
 173,Rækkehus,Kulsvierparken 73,2800, Kongens Lyngby,3495000 ,22-04-2015,Alm. Salg,144,24271,4,1957,
@@ -6929,9 +6734,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 173,Rækkehus,Klokkelyng 22,2830, Virum,6375000 ,17-03-2015,Alm. Salg,140,45536,5,2014,-2%
 173,Ejerlejlighed,"Dronningens Vænge 2, st. mf",2800, Kongens Lyngby,2220000 ,17-03-2015,Alm. Salg,68,32647,2,2000,1%
 173,Ejerlejlighed,"Nørgaardsvej 19, 2. th",2800, Kongens Lyngby,1420000 ,17-03-2015,Alm. Salg,55,25818,2,1938,-1%
-173,Ejerlejlighed,"Birkholmsvej 21, st",2800, Kongens Lyngby,3795000 ,17-03-2015,Alm. Salg,107,35467,4,1934,
-173,Ejerlejlighed,"Birkholmsvej 21, 1",2800, Kongens Lyngby,3795000 ,17-03-2015,Alm. Salg,61,62213,2,1934,
-173,Ejerlejlighed,"Baune Alle 2, 3. l",2800, Kongens Lyngby,3795000 ,17-03-2015,Alm. Salg,111,34189,3,2010,
 173,Ejerlejlighed,"Baune Alle 2, 3. e",2800, Kongens Lyngby,2395000 ,17-03-2015,Alm. Salg,87,27529,2,2010,
 173,Villa,Agnesvej 9,2800, Kongens Lyngby,5350000 ,17-03-2015,Alm. Salg,117,45726,5,1948,-6%
 173,Ejerlejlighed,"Mølleåparken 57, 1. j",2800, Kongens Lyngby,1300000 ,16-03-2015,Alm. Salg,61,21311,2,1973,-2%
@@ -7296,15 +7098,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 173,Rækkehus,Kvædevej 117,2830, Virum,3995000 ,07-10-2014,Alm. Salg,142,28134,5,1953,
 173,Villa,Furesø Parkvej 24,2830, Virum,3505000 ,07-10-2014,Alm. Salg,168,20863,7,1954,-5%
 173,Villa,Hjortekærsvej 104,2800, Kongens Lyngby,4750000 ,07-10-2014,Alm. Salg,216,21991,3,1954,-5%
-173,Ejerlejlighed,"Kongestien 77, st. th",2830, Virum,11500000 ,06-10-2014,Alm. Salg,104,110577,4,1952,
-173,Ejerlejlighed,"Kongestien 77, st. tv",2830, Virum,11500000 ,06-10-2014,Alm. Salg,109,105505,3,1952,
-173,Ejerlejlighed,"Kongestien 77, 1. th",2830, Virum,11500000 ,06-10-2014,Alm. Salg,89,129213,3,1952,
-173,Ejerlejlighed,"Kongestien 77, 1. tv",2830, Virum,11500000 ,06-10-2014,Alm. Salg,104,110577,4,1952,
 173,Ejerlejlighed,"Buddingevej 72G, 1. tv",2800, Kongens Lyngby,930000 ,06-10-2014,Alm. Salg,56,16607,2,1940,-2%
-173,Ejerlejlighed,"Virumvej 100, st. th",2830, Virum,11500000 ,06-10-2014,Alm. Salg,109,105505,3,1952,
-173,Ejerlejlighed,"Virumvej 100, st. tv",2830, Virum,11500000 ,06-10-2014,Alm. Salg,104,110577,4,1952,
-173,Ejerlejlighed,"Virumvej 100, 1. tv",2830, Virum,11500000 ,06-10-2014,Alm. Salg,84,110577,3,1952,
-173,Ejerlejlighed,"Virumvej 100, 1. th",2830, Virum,11500000 ,06-10-2014,Alm. Salg,98,117347,4,1952,
 173,Villa,Kærparken 9,2800, Kongens Lyngby,3625000 ,06-10-2014,Alm. Salg,138,26268,4,1953,-4%
 173,Rækkehus,Buddingevej 17B,2800, Kongens Lyngby,3825000 ,05-10-2014,Alm. Salg,126,30357,6,1935,-4%
 173,Villa,Nybrovej 224,2800, Kongens Lyngby,2710903 ,05-10-2014,Fam. Salg,197,13761,5,1969,
@@ -8189,9 +7983,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 173,Villa,Granhøjvej 3,2800, Kongens Lyngby,1325000 ,20-08-2013,Fam. Salg,158,8386,5,1926,
 173,Rækkehus,Christian X's Alle 47,2800, Kongens Lyngby,4495000 ,19-08-2013,Alm. Salg,134,33545,5,1935,
 173,Ejerlejlighed,Ole Steffens Vej 5A,2930, Klampenborg,10150000 ,19-08-2013,Alm. Salg,128,79297,4,1902,-3%
-173,Rækkehus,Frem 12,2800, Kongens Lyngby,3300000 ,18-08-2013,Alm. Salg,181,18232,3,1899,
 173,Ejerlejlighed,"Frederiksdalsvej 12A, st. th",2830, Virum,81000 ,18-08-2013,Alm. Salg,61,1328,2,1939,
-173,Villa,Fortunvænget 11,2800, Kongens Lyngby,3300000 ,18-08-2013,Alm. Salg,148,22297,5,1966,-12%
 173,Ejerlejlighed,"Nørgaardsvej 22C, 1. tv",2800, Kongens Lyngby,1225000 ,17-08-2013,Alm. Salg,55,22273,2,1938,3%
 173,Ejerlejlighed,"Bagsværdvej 71B, st. tv",2800, Kongens Lyngby,900000 ,17-08-2013,Alm. Salg,56,16071,2,1938,
 173,Ejerlejlighed,"Eremitageparken 207, 2. c",2800, Kongens Lyngby,900000 ,16-08-2013,Alm. Salg,62,14516,2,1972,-10%
@@ -8447,8 +8239,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 173,Rækkehus,Åbrinken 78,2830, Virum,4500000 ,30-04-2013,Alm. Salg,196,22959,5,1955,-4%
 173,Ejerlejlighed,"Grønnevej 60, 2. tv",2830, Virum,965000 ,30-04-2013,Alm. Salg,57,16930,2,1944,-3%
 173,Villa,Virumbakken 16,2830, Virum,3900000 ,30-04-2013,Alm. Salg,116,33621,4,1954,-2%
-173,Ejerlejlighed,"Frederiksdalsvej 138, 1",2830, Virum,587500 ,29-04-2013,Alm. Salg,51,11520,2,1947,
-173,Ejerlejlighed,Kirkebakken 1,2830, Virum,587500 ,29-04-2013,Alm. Salg,108,5440,4,1947,
 173,Villa,Peter Rørdams Vej 9,2800, Kongens Lyngby,3100000 ,29-04-2013,Alm. Salg,165,18788,8,1940,-17%
 173,Rækkehus,Wienervej 18,2830, Virum,2350000 ,28-04-2013,Fam. Salg,101,23267,5,1938,
 173,Rækkehus,Islandsvej 10C,2800, Kongens Lyngby,2082500 ,28-04-2013,Fam. Salg,86,24215,3,1938,
@@ -8698,8 +8488,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 173,Ejerlejlighed,"Kongsbjergvej 14, st. th",2830, Virum,2700000 ,08-12-2012,Alm. Salg,94,28723,4,1954,
 173,Villa,Frederiksdalsvej 145,2830, Virum,3475000 ,08-12-2012,Alm. Salg,105,33095,6,1949,-3%
 173,Ejerlejlighed,"Frederiksdalsvej 101B, 1. tv",2830, Virum,950000 ,05-12-2012,Alm. Salg,52,18269,2,1946,-5%
-173,Rækkehus,Kulsvierparken 45,2800, Kongens Lyngby,1700000 ,04-12-2012,Alm. Salg,119,14286,4,1957,
-173,Ejerlejlighed,"Vinkelvej 12C, 4. tv",2800, Kongens Lyngby,1700000 ,04-12-2012,Fam. Salg,79,21519,2,1980,
 173,Villa,Højdevej 9A,2830, Virum,5300000 ,04-12-2012,Alm. Salg,199,26633,6,1979,-4%
 173,Villa,Taarbæk Strandvej 107,2930, Klampenborg,6250000 ,04-12-2012,Alm. Salg,152,41118,7,1856,-11%
 173,Rækkehus,Kulsvierparken 69,2800, Kongens Lyngby,2650000 ,03-12-2012,Alm. Salg,119,22269,5,1957,-2%
@@ -9000,25 +8788,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 173,Villa,Egegårdsvej 22B,2800, Kongens Lyngby,4300000 ,30-06-2012,Alm. Salg,178,24157,4,1962,-3%
 173,Villa,Humlevænget 21,2800, Kongens Lyngby,4900000 ,29-06-2012,Alm. Salg,130,37692,5,1994,-7%
 173,Rækkehus,Bredesvinget 2,2830, Virum,2800000 ,28-06-2012,Alm. Salg,114,24561,5,1954,-7%
-173,Ejerlejlighed,Boulevarden 1A,2800, Kongens Lyngby,10000000 ,28-06-2012,Alm. Salg,58,172414,2,1905,
-173,Ejerlejlighed,"Boulevarden 1B, 1. tv",2800, Kongens Lyngby,10000000 ,28-06-2012,Alm. Salg,54,185185,2,1905,
-173,Ejerlejlighed,"Boulevarden 1C, st. th",2800, Kongens Lyngby,10000000 ,28-06-2012,Alm. Salg,60,166667,2,1905,
-173,Ejerlejlighed,"Boulevarden 1B, st. tv",2800, Kongens Lyngby,10000000 ,28-06-2012,Alm. Salg,52,192308,2,1905,
-173,Ejerlejlighed,"Boulevarden 1B, st. th",2800, Kongens Lyngby,10000000 ,28-06-2012,Alm. Salg,45,222222,2,1905,
-173,Ejerlejlighed,"Boulevarden 1B, 1. th",2800, Kongens Lyngby,10000000 ,28-06-2012,Alm. Salg,42,238095,2,1905,
-173,Ejerlejlighed,"Boulevarden 1B, 2",2800, Kongens Lyngby,10000000 ,28-06-2012,Alm. Salg,68,147059,2,1905,
-173,Ejerlejlighed,"Boulevarden 1C, st. tv",2800, Kongens Lyngby,10000000 ,28-06-2012,Alm. Salg,50,200000,2,1905,
-173,Ejerlejlighed,"Boulevarden 1C, 1. tv",2800, Kongens Lyngby,10000000 ,28-06-2012,Alm. Salg,52,192308,2,1905,
-173,Ejerlejlighed,"Boulevarden 1C, 1. th",2800, Kongens Lyngby,10000000 ,28-06-2012,Alm. Salg,61,163934,2,1905,
-173,Ejerlejlighed,"Boulevarden 1C, 2",2800, Kongens Lyngby,10000000 ,28-06-2012,Alm. Salg,78,128205,3,1905,
 173,Ejerlejlighed,"Askevænget 23, 3. th",2830, Virum,1700000 ,28-06-2012,Alm. Salg,87,19540,3,1961,-5%
-173,Ejerlejlighed,"Sorgenfrivej 4A, 1. th",2800, Kongens Lyngby,10000000 ,28-06-2012,Alm. Salg,123,81301,4,1905,
-173,Ejerlejlighed,Sorgenfrivej 4B,2800, Kongens Lyngby,10000000 ,28-06-2012,Alm. Salg,41,243902,1,1905,
-173,Ejerlejlighed,"Sorgenfrivej 4A, 2. th",2800, Kongens Lyngby,10000000 ,28-06-2012,Alm. Salg,123,81301,5,1905,
-173,Ejerlejlighed,"Sorgenfrivej 4A, 2. tv",2800, Kongens Lyngby,10000000 ,28-06-2012,Alm. Salg,87,114943,3,1905,
-173,Ejerlejlighed,"Sorgenfrivej 4A, 3. th",2800, Kongens Lyngby,10000000 ,28-06-2012,Alm. Salg,77,129870,3,1905,
-173,Ejerlejlighed,"Sorgenfrivej 4A, 3. tv",2800, Kongens Lyngby,10000000 ,28-06-2012,Alm. Salg,72,138889,3,1905,
-173,Ejerlejlighed,"Sorgenfrivej 4A, 1. tv",2800, Kongens Lyngby,10000000 ,28-06-2012,Alm. Salg,87,114943,3,1905,
 173,Rækkehus,Bredesvinget 10,2830, Virum,2400000 ,27-06-2012,Alm. Salg,124,19355,6,1954,-4%
 173,Ejerlejlighed,"Virum Torv 9, 1. th",2830, Virum,856250 ,27-06-2012,Alm. Salg,105,8155,4,1944,
 173,Villa,Stengårds Alle 2B,2800, Kongens Lyngby,2300000 ,27-06-2012,Alm. Salg,158,14557,6,2013,-4%
@@ -9360,10 +9130,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 173,Rækkehus,Kaplevej 95,2830, Virum,1775000 ,07-12-2011,Fam. Salg,151,11755,6,1946,
 173,Rækkehus,Åbrinken 165,2830, Virum,4100000 ,07-12-2011,Alm. Salg,135,30370,5,1956,-3%
 173,Ejerlejlighed,"Frederiksdalsvej 8G, 1. tv",2830, Virum,755000 ,07-12-2011,Alm. Salg,58,13017,2,1940,-5%
-173,Ejerlejlighed,"Daugaardsvej 5, 1. tv",2800, Kongens Lyngby,3000000 ,06-12-2011,Auktion,81,37037,4,1950,
 173,Ejerlejlighed,"Eremitageparken 201, 2. c",2800, Kongens Lyngby,740000 ,06-12-2011,Auktion,62,11935,2,1972,
-173,Ejerlejlighed,"Lystoftevej 18A, 1. th",2800, Kongens Lyngby,3000000 ,06-12-2011,Auktion,70,42857,3,1949,
-173,Ejerlejlighed,"Kulsviervej 79B, 1. th",2800, Kongens Lyngby,3000000 ,06-12-2011,Auktion,71,42254,3,1949,
 173,Rækkehus,Irmelinsvej 4,2800, Kongens Lyngby,3150000 ,05-12-2011,Alm. Salg,85,37059,4,1942,-10%
 173,Ejerlejlighed,"Kollelevbakken 5C, 1. tv",2830, Virum,560000 ,05-12-2011,Alm. Salg,51,10980,2,1942,-7%
 173,Villa,Søndervej 17A,2830, Virum,5100000 ,05-12-2011,Alm. Salg,156,32692,6,1940,-11%
@@ -9531,10 +9298,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 173,Villa,Peder Godskes Vej 24,2830, Virum,4000000 ,28-08-2011,Alm. Salg,139,28777,5,1952,-11%
 173,Villa,Fuglsanggårds Allé 24,2830, Virum,4675000 ,28-08-2011,Alm. Salg,177,26412,5,1963,-10%
 173,Rækkehus,Sorgenfrivænget 45,2830, Virum,4250000 ,26-08-2011,Alm. Salg,165,25758,5,1960,
-173,Rækkehus,Stengårds Alle 23B,2800, Kongens Lyngby,4650000 ,24-08-2011,Alm. Salg,154,30195,5,1967,-7%
 173,Ejerlejlighed,"Bredebovej 31, 1. mf",2800, Kongens Lyngby,1135000 ,24-08-2011,Alm. Salg,69,16449,2,1969,-11%
 173,Villa,Abildgaardsvej 63,2830, Virum,2700000 ,24-08-2011,Andet,178,15169,8,1952,-55%
-173,Villa,Langs Hegnet 16,2800, Kongens Lyngby,4650000 ,24-08-2011,Alm. Salg,176,26420,5,1977,-12%
 173,Villa,Strandvejen 667,2930, Klampenborg,7400000 ,24-08-2011,Alm. Salg,158,46835,6,1986,
 173,Ejerlejlighed,"Bredebovej 31, 2. tv",2800, Kongens Lyngby,2610000 ,23-08-2011,Alm. Salg,96,27188,4,1969,-3%
 173,Ejerlejlighed,"Lehwaldsvej 3, 7. c",2800, Kongens Lyngby,1100000 ,17-08-2011,Alm. Salg,68,16176,2,1962,-12%
@@ -9746,8 +9511,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 173,Ejerlejlighed,"Cedervænget 11, 3. tv",2830, Virum,1800000 ,03-04-2011,Alm. Salg,95,18947,5,1958,-5%
 173,Villa,Taarbæk Strandvej 50,2930, Klampenborg,6725000 ,03-04-2011,Alm. Salg,155,43387,4,1870,-7%
 173,Villa,Lorentzensvej 6,2930, Klampenborg,8450000 ,02-04-2011,Alm. Salg,251,33665,10,1870,-6%
-173,Ejerlejlighed,"Frederiksdalsvej 138, 1",2830, Virum,500000 ,31-03-2011,Alm. Salg,51,9804,2,1947,
-173,Ejerlejlighed,Kirkebakken 1,2830, Virum,500000 ,31-03-2011,Alm. Salg,108,4630,4,1947,
 173,Ejerlejlighed,"Mortonsvej 40, 1. th",2800, Kongens Lyngby,2810000 ,31-03-2011,Alm. Salg,89,31573,3,2009,-6%
 173,Villa,Virumvej 80B,2830, Virum,5100000 ,31-03-2011,Alm. Salg,172,29651,4,1962,-7%
 173,Rækkehus,Hemsedal 14,2800, Kongens Lyngby,3250000 ,29-03-2011,Alm. Salg,95,34211,4,1994,
@@ -10453,10 +10216,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 173,Rækkehus,Granparken 35,2800, Kongens Lyngby,3130000 ,23-03-2010,Alm. Salg,119,26303,4,1957,-2%
 173,Villa,Hjortekrogen 7,2800, Kongens Lyngby,2700000 ,22-03-2010,Alm. Salg,132,20455,4,1977,
 173,Villa,Langs Hegnet 44,2800, Kongens Lyngby,4300000 ,22-03-2010,Alm. Salg,186,23118,7,1966,
-173,Rækkehus,Kronebakken 13,2830, Virum,2925000 ,21-03-2010,Alm. Salg,114,25658,5,1951,-16%
 173,Rækkehus,Havretoften 24,2800, Kongens Lyngby,3100000 ,21-03-2010,Alm. Salg,85,36471,3,1946,-3%
 173,Rækkehus,Præstebakken 14,2830, Virum,2245000 ,21-03-2010,Auktion,118,19025,5,1945,
-173,Ejerlejlighed,"Askevænget 45, 2. tv",2830, Virum,2925000 ,21-03-2010,Alm. Salg,163,17945,5,1961,-2%
 173,Ejerlejlighed,"Grønnevej 90, 2. th",2830, Virum,1200000 ,21-03-2010,Alm. Salg,69,17391,3,1948,10%
 173,Villa,Kongestien 23,2830, Virum,3000000 ,21-03-2010,Alm. Salg,148,20270,6,1943,-12%
 173,Villa,Virum Stationsvej 124,2830, Virum,2675000 ,21-03-2010,Alm. Salg,124,21573,5,1941,-4%
@@ -10535,10 +10296,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 173,Rækkehus,Lyngtoften 21,2800, Kongens Lyngby,3555000 ,08-02-2010,Alm. Salg,98,36276,5,1945,0%
 173,Villa,Lottenborgvej 11,2800, Kongens Lyngby,2250000 ,08-02-2010,Alm. Salg,118,19068,6,1894,-10%
 173,Villa,Langs Hegnet 80,2800, Kongens Lyngby,3800000 ,07-02-2010,Alm. Salg,185,20541,5,2014,
-173,Rækkehus,Caroline Amalie Vej 40A,2800, Kongens Lyngby,3600000 ,06-02-2010,Alm. Salg,122,29508,4,1988,
 173,Rækkehus,Havretoften 2,2800, Kongens Lyngby,2600000 ,06-02-2010,Alm. Salg,91,28571,3,1946,-4%
 173,Ejerlejlighed,"Bredebovej 25, st. tv",2800, Kongens Lyngby,1800000 ,06-02-2010,Alm. Salg,92,19565,4,1969,
-173,Villa,Hjortekærsvej 175B,2800, Kongens Lyngby,3600000 ,06-02-2010,Alm. Salg,141,25532,4,1977,-10%
 173,Rækkehus,Spurveskjulsparken 9,2830, Virum,4035000 ,03-02-2010,Alm. Salg,142,28415,5,1968,-4%
 173,Rækkehus,Engelsborgvej 35,2800, Kongens Lyngby,2075000 ,03-02-2010,Fam. Salg,132,15720,6,1929,
 173,Rækkehus,Blomstervænget 91,2800, Kongens Lyngby,4075000 ,03-02-2010,Alm. Salg,102,39951,4,1943,-9%
@@ -10872,8 +10631,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 173,Rækkehus,Askebyvej 2,2830, Virum,2650000 ,28-07-2009,Alm. Salg,139,19065,6,1955,-7%
 173,Rækkehus,Åbrinken 109,2830, Virum,3250000 ,27-07-2009,Alm. Salg,154,21104,5,1955,-7%
 173,Villa,Wienerbyen 5,2830, Virum,4050000 ,27-07-2009,Alm. Salg,120,33750,3,1952,-8%
-173,Ejerlejlighed,"Carlshøjvej 5, 3. th",2800, Kongens Lyngby,1275000 ,26-07-2009,Alm. Salg,80,15938,4,1931,
-173,Ejerlejlighed,"Nørgaardsvej 22C, st. th",2800, Kongens Lyngby,1275000 ,26-07-2009,Alm. Salg,55,23182,2,1938,-2%
 173,Villa,Solvænget 18,2800, Kongens Lyngby,5200000 ,23-07-2009,Alm. Salg,230,22609,9,1935,-12%
 173,Villa,Kærparken 7,2800, Kongens Lyngby,3375000 ,23-07-2009,Alm. Salg,176,19176,6,1955,-9%
 173,Ejerlejlighed,"Grønnevej 90, st. th",2830, Virum,1150000 ,22-07-2009,Alm. Salg,69,16667,3,1948,-11%
@@ -11186,8 +10943,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 173,Ejerlejlighed,"Christian X's Alle 71, 1. 4",2800, Kongens Lyngby,1500000 ,18-02-2009,Alm. Salg,73,20548,2,1935,
 173,Ejerlejlighed,"Bredebovej 27, st. mf",2800, Kongens Lyngby,890000 ,17-02-2009,Alm. Salg,56,15893,2,1969,-11%
 173,Villa,Taarbæk Strandvej 55B,2930, Klampenborg,4500000 ,17-02-2009,Alm. Salg,138,32609,4,1971,-25%
-173,Ejerlejlighed,"Nørgaardsvej 22E, 1. tv",2800, Kongens Lyngby,800000 ,16-02-2009,Alm. Salg,56,14286,2,1938,-36%
-173,Ejerlejlighed,"Gammel Bagsværdvej 24B, st. th",2800, Kongens Lyngby,800000 ,16-02-2009,Alm. Salg,56,14286,2,1943,-11%
 173,Villa,Birkevej 15,2830, Virum,11500000 ,16-02-2009,Alm. Salg,226,50885,7,1999,-8%
 173,Rækkehus,Holmekrogen 67,2830, Virum,2475000 ,14-02-2009,Andet,141,17553,4,1960,-17%
 173,Ejerlejlighed,"Nørgaardsvej 29C, 3. tv",2800, Kongens Lyngby,2600000 ,14-02-2009,Alm. Salg,84,30952,3,1987,-10%
@@ -11408,7 +11163,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 173,Ejerlejlighed,"Nørgaardsvej 18E, 1. tv",2800, Kongens Lyngby,1300000 ,02-09-2008,Alm. Salg,56,23214,2,1938,-7%
 173,Villa,Hvidegårdsparken 76,2800, Kongens Lyngby,4444000 ,02-09-2008,Alm. Salg,220,20200,5,1963,-5%
 173,Rækkehus,Kvædevej 14,2830, Virum,3135000 ,31-08-2008,Alm. Salg,81,38704,3,1945,
-173,Villa,Kildevældsvej 17,2830, Virum,4200000 ,31-08-2008,Fam. Salg,138,30435,5,1968,
 173,Villa,Skovbrynet 94,2800, Kongens Lyngby,13250000 ,30-08-2008,Alm. Salg,238,55672,7,1922,
 173,Villa,Virum Vandvej 18B,2830, Virum,6725000 ,28-08-2008,Alm. Salg,200,33625,4,1998,-10%
 173,Ejerlejlighed,"Lyngbygårdsvej 53, st. th",2800, Kongens Lyngby,1050000 ,26-08-2008,Alm. Salg,61,17213,3,1946,-5%
@@ -11665,8 +11419,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 173,Ejerlejlighed,"Cedervænget 9, st. tv",2830, Virum,1700000 ,09-04-2008,Alm. Salg,74,22973,2,1958,-4%
 173,Ejerlejlighed,"Frederiksdalsvej 10D, 1. th",2830, Virum,1020000 ,09-04-2008,Alm. Salg,56,18214,2,1940,
 173,Villa,Bisp Urnes Vej 3,2830, Virum,4050000 ,09-04-2008,Alm. Salg,195,20769,7,1963,-3%
-173,Ejerlejlighed,"Frederiksdalsvej 138, 1",2830, Virum,1800000 ,08-04-2008,Alm. Salg,51,35294,2,1947,
-173,Ejerlejlighed,Kirkebakken 1,2830, Virum,1800000 ,08-04-2008,Alm. Salg,108,16667,4,1947,
 173,Rækkehus,Wienerbyen 6,2830, Virum,4250000 ,07-04-2008,Alm. Salg,124,34274,3,1938,-5%
 173,Ejerlejlighed,"Lehwaldsvej 5, 3. k",2800, Kongens Lyngby,1195000 ,06-04-2008,Alm. Salg,68,17574,2,1962,
 173,Ejerlejlighed,"Eremitageparken 309, st. c",2800, Kongens Lyngby,2375000 ,06-04-2008,Alm. Salg,115,20652,4,1972,
@@ -11931,8 +11683,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 173,Villa,Vejporten 40,2800, Kongens Lyngby,3125000 ,07-11-2007,Alm. Salg,93,33602,3,1954,
 173,Villa,Sofievej 1B,2800, Kongens Lyngby,2500000 ,07-11-2007,Fam. Salg,95,26316,3,1900,
 173,Villa,Birkholmsvej 17A,2800, Kongens Lyngby,3600000 ,07-11-2007,Alm. Salg,122,29508,4,1969,
-173,Rækkehus,Blomstervænget 75,2800, Kongens Lyngby,3900000 ,05-11-2007,Alm. Salg,128,30469,8,1943,-2%
-173,Ejerlejlighed,"Dronningens Vænge 3, 2. tv",2800, Kongens Lyngby,3900000 ,05-11-2007,Alm. Salg,114,34211,3,2000,
 173,Rækkehus,Gartnerhaven 15,2800, Kongens Lyngby,2200000 ,04-11-2007,Alm. Salg,98,22449,4,1939,
 173,Ejerlejlighed,"Frederiksdalsvej 12E, 2. tv",2830, Virum,1800000 ,04-11-2007,Fam. Salg,83,21687,4,1939,
 173,Ejerlejlighed,"Eremitageparken 109, 1. b",2800, Kongens Lyngby,1350000 ,04-11-2007,Alm. Salg,62,21774,2,1972,
@@ -12071,8 +11821,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 173,Villa,Skovbrynet 27A,2800, Kongens Lyngby,5315000 ,30-08-2007,Alm. Salg,161,33012,5,1972,-1%
 173,Rækkehus,Bredesvinget 20,2830, Virum,4225000 ,29-08-2007,Alm. Salg,135,31296,6,1955,-6%
 173,Rækkehus,Fynsvej 16,2800, Kongens Lyngby,3400000 ,28-08-2007,Alm. Salg,81,41975,4,1940,-8%
-173,Rækkehus,Fyrhøjvej 15,2800, Kongens Lyngby,3700000 ,28-08-2007,Alm. Salg,149,24832,6,1935,
-173,Ejerlejlighed,"Rønne Alle 16, 2. a",2800, Kongens Lyngby,3700000 ,28-08-2007,Alm. Salg,89,41573,3,2002,
 173,Ejerlejlighed,"Lyngby Hovedgade 11B, st. th",2800, Kongens Lyngby,1245000 ,28-08-2007,Alm. Salg,62,20081,2,1977,
 173,Ejerlejlighed,"Bagsværdvej 67C, 1. tv",2800, Kongens Lyngby,1700000 ,28-08-2007,Alm. Salg,72,23611,3,1953,
 173,Rækkehus,Præstebakken 33,2830, Virum,2650000 ,27-08-2007,Alm. Salg,108,24537,4,1948,
@@ -12188,9 +11936,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 173,Ejerlejlighed,"Bredebovej 37, st. tv",2800, Kongens Lyngby,1750000 ,21-06-2007,Alm. Salg,69,25362,2,1969,-3%
 173,Ejerlejlighed,"Kollelevbakken 5C, 1. th",2830, Virum,1095000 ,21-06-2007,Alm. Salg,48,22813,2,1942,
 173,Ejerlejlighed,"Kulsviervej 85B, st. tv",2800, Kongens Lyngby,2000000 ,20-06-2007,Alm. Salg,70,28571,3,1949,-5%
-173,Ejerlejlighed,"Boulevarden 4, st. 11",2800, Kongens Lyngby,2050000 ,20-06-2007,Alm. Salg,73,28082,2,1965,
 173,Ejerlejlighed,"Mortonsvej 11, 2. tv",2800, Kongens Lyngby,3775000 ,20-06-2007,Alm. Salg,84,44940,3,1986,-6%
-173,Ejerlejlighed,"Nørgaardsvej 12, 1. th",2800, Kongens Lyngby,2050000 ,20-06-2007,Alm. Salg,65,31538,2,1990,
 173,Ejerlejlighed,"Engbakken 45, st. th",2830, Virum,1595000 ,19-06-2007,Alm. Salg,56,28482,2,1946,
 173,Ejerlejlighed,"Cedervænget 15, st. th",2830, Virum,2395000 ,19-06-2007,Alm. Salg,86,27849,4,1958,
 173,Villa,Islandsvej 22C,2800, Kongens Lyngby,5900000 ,19-06-2007,Alm. Salg,146,40411,6,1921,-9%
@@ -12276,8 +12022,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 173,Villa,Peder Godskes Vej 13,2830, Virum,3900000 ,21-05-2007,Alm. Salg,190,20526,6,2009,-5%
 173,Ejerlejlighed,"Engelsborgvej 27, 1. th",2800, Kongens Lyngby,2595000 ,20-05-2007,Alm. Salg,103,25194,4,1935,-7%
 173,Ejerlejlighed,"Nørgaardsvej 25, 1. th",2800, Kongens Lyngby,1550000 ,20-05-2007,Alm. Salg,57,27193,2,1938,-3%
-173,Ejerlejlighed,"Holmelins Tværvej 8C, st. tv",2800, Kongens Lyngby,1300000 ,20-05-2007,Alm. Salg,52,25000,2,1944,-13%
-173,Ejerlejlighed,"Buddingevej 72H, 1. tv",2800, Kongens Lyngby,1300000 ,20-05-2007,Alm. Salg,55,23636,2,1940,
 173,Villa,Dyrehavegårdsvej 12,2800, Kongens Lyngby,7350000 ,20-05-2007,Alm. Salg,225,32667,6,1948,-5%
 173,Villa,Nymøllevej 51,2800, Kongens Lyngby,5100000 ,20-05-2007,Alm. Salg,136,37500,6,1907,-3%
 173,Ejerlejlighed,"Bredebovej 37, st. th",2800, Kongens Lyngby,2011800 ,19-05-2007,Alm. Salg,84,23950,3,1969,
@@ -12443,8 +12187,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 173,Villa,Vangeledet 81,2830, Virum,4150000 ,28-02-2007,Alm. Salg,120,34583,3,1954,
 173,Rækkehus,Eremitageparken 113,2800, Kongens Lyngby,2500000 ,27-02-2007,Alm. Salg,126,19841,5,1972,-11%
 173,Ejerlejlighed,"Kulsviervej 81B, 1. th",2800, Kongens Lyngby,1925000 ,27-02-2007,Alm. Salg,71,27113,3,1949,-4%
-173,Ejerlejlighed,"Kulsviervej 87B, 1. tv",2800, Kongens Lyngby,2300000 ,27-02-2007,Alm. Salg,70,32857,3,1949,
-173,Ejerlejlighed,"Lystoftevej 16B, st. tv",2800, Kongens Lyngby,2300000 ,27-02-2007,Alm. Salg,57,40351,2,1949,
 173,Villa,Svendsvej 3,2830, Virum,4300000 ,27-02-2007,Alm. Salg,103,41748,4,1939,-10%
 173,Ejerlejlighed,"Kongevejen 204, 1. th",2830, Virum,1510000 ,26-02-2007,Fam. Salg,84,17976,2,1949,
 173,Villa,Kulsviervænget 4,2800, Kongens Lyngby,2450000 ,26-02-2007,Alm. Salg,146,16781,5,1963,
@@ -13709,9 +13451,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 173,Rækkehus,Grønnevej 170,2830, Virum,3195000 ,22-05-2005,Alm. Salg,114,28026,5,1951,
 173,Ejerlejlighed,"Kollelevbakken 3A, st",2830, Virum,1625000 ,22-05-2005,Alm. Salg,65,25000,3,1944,
 173,Ejerlejlighed,"Mølleåparken 6, 2. j",2800, Kongens Lyngby,750000 ,22-05-2005,Alm. Salg,52,14423,1,1969,
-173,Rækkehus,Åbrinken 116,2830, Virum,3995000 ,21-05-2005,Alm. Salg,177,22571,5,1955,
 173,Ejerlejlighed,"Toftebæksvej 54, 2. tv",2800, Kongens Lyngby,1385000 ,21-05-2005,Alm. Salg,60,23083,3,1931,
-173,Villa,Biskop Monrads Vej 14,2830, Virum,3995000 ,21-05-2005,Alm. Salg,191,20916,7,1956,
 173,Ejerlejlighed,"Hollandsvej 27, st. tv",2800, Kongens Lyngby,1775000 ,19-05-2005,Alm. Salg,71,25000,3,1944,
 173,Villa,Caroline Amalie Vej 74,2800, Kongens Lyngby,5500000 ,19-05-2005,Andet,216,25463,7,1914,
 173,Ejerlejlighed,"Lyngbygårdsvej 65, st. tv",2800, Kongens Lyngby,1150000 ,18-05-2005,Alm. Salg,53,21698,2,1946,
@@ -13790,14 +13530,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 173,Ejerlejlighed,"Eremitageparken 309, st. c",2800, Kongens Lyngby,1998000 ,19-04-2005,Alm. Salg,115,17374,4,1972,
 173,Villa,Birkevej 19,2830, Virum,4995000 ,19-04-2005,Alm. Salg,178,28062,6,1956,
 173,Rækkehus,Eremitageparken 181,2800, Kongens Lyngby,2570000 ,18-04-2005,Alm. Salg,126,20397,5,1972,
-173,Ejerlejlighed,"Kongestien 77, st. th",2830, Virum,13600000 ,18-04-2005,Alm. Salg,104,130769,4,1952,
-173,Ejerlejlighed,"Kongestien 77, st. tv",2830, Virum,13600000 ,18-04-2005,Alm. Salg,109,124771,3,1952,
-173,Ejerlejlighed,"Kongestien 77, 1. th",2830, Virum,13600000 ,18-04-2005,Alm. Salg,89,152809,3,1952,
-173,Ejerlejlighed,"Kongestien 77, 1. tv",2830, Virum,13600000 ,18-04-2005,Alm. Salg,104,130769,4,1952,
-173,Ejerlejlighed,"Virumvej 100, st. th",2830, Virum,13600000 ,18-04-2005,Alm. Salg,109,124771,3,1952,
-173,Ejerlejlighed,"Virumvej 100, st. tv",2830, Virum,13600000 ,18-04-2005,Alm. Salg,104,130769,4,1952,
-173,Ejerlejlighed,"Virumvej 100, 1. tv",2830, Virum,13600000 ,18-04-2005,Alm. Salg,84,130769,3,1952,
-173,Ejerlejlighed,"Virumvej 100, 1. th",2830, Virum,13600000 ,18-04-2005,Alm. Salg,98,138776,4,1952,
 173,Villa,Svendsvej 7,2830, Virum,3225000 ,18-04-2005,Alm. Salg,132,24432,5,1940,
 173,Villa,Kulsviervej 90B,2800, Kongens Lyngby,3500000 ,18-04-2005,Alm. Salg,127,27559,6,1959,
 173,Rækkehus,Geelsvænget 9,2830, Virum,2515000 ,17-04-2005,Alm. Salg,80,31438,4,1937,
@@ -14355,8 +14087,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 173,Ejerlejlighed,"Bredebovej 27, 2. th",2800, Kongens Lyngby,1800000 ,21-08-2004,Alm. Salg,90,20000,3,1969,
 173,Villa,Krogvej 22,2830, Virum,4200000 ,19-08-2004,Alm. Salg,187,22460,6,1936,
 173,Rækkehus,Bøgevang 26,2830, Virum,1800000 ,18-08-2004,Alm. Salg,75,24000,4,1937,
-173,Ejerlejlighed,"Frederiksdalsvej 138, 1",2830, Virum,1045000 ,18-08-2004,Alm. Salg,51,20490,2,1947,
-173,Ejerlejlighed,Kirkebakken 1,2830, Virum,1045000 ,18-08-2004,Alm. Salg,108,9676,4,1947,
 173,Villa,Lyngby Hovedgade 8,2800, Kongens Lyngby,3400000 ,17-08-2004,Alm. Salg,185,18378,8,1900,
 173,Villa,Frugthegnet 7,2830, Virum,2900000 ,17-08-2004,Alm. Salg,158,18354,7,1960,
 173,Rækkehus,Asavænget 36,2800, Kongens Lyngby,2595000 ,15-08-2004,Alm. Salg,103,25194,4,1943,
@@ -14716,10 +14446,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 173,Ejerlejlighed,"Mølleåparken 57, 2. e",2800, Kongens Lyngby,1095000 ,31-03-2004,Alm. Salg,61,17951,2,1973,
 173,Rækkehus,Islandsvej 10B,2800, Kongens Lyngby,1800000 ,30-03-2004,Alm. Salg,66,27273,3,1938,
 173,Rækkehus,Oldenvej 4,2830, Virum,1088536 ,30-03-2004,Andet,91,11962,3,1958,
-173,Rækkehus,Bygdevej 23,2830, Virum,2550000 ,30-03-2004,Alm. Salg,136,18750,5,1949,
 173,Ejerlejlighed,"Frederiksdalsvej 8E, 2. tv",2830, Virum,1345000 ,30-03-2004,Alm. Salg,79,17025,4,1940,
 173,Villa,Skovmærkevej 10,2800, Kongens Lyngby,3450000 ,30-03-2004,Alm. Salg,143,24126,4,1999,
-173,Villa,Parkvej 48,2830, Virum,2550000 ,30-03-2004,Alm. Salg,183,13934,5,2007,
 173,Villa,Vangeledet 91,2830, Virum,3165000 ,29-03-2004,Alm. Salg,148,21385,5,1954,
 173,Villa,Buskevej 1,2830, Virum,500000 ,29-03-2004,Andet,190,2632,8,1951,
 173,Ejerlejlighed,"Krogvej 14, 1",2830, Virum,2060000 ,28-03-2004,Alm. Salg,82,25122,3,1928,
@@ -15161,9 +14889,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 173,Ejerlejlighed,"Eremitageparken 99, 2. b",2800, Kongens Lyngby,625000 ,11-10-2003,Alm. Salg,33,18939,1,1972,
 173,Villa,Kollemosevej 46A,2830, Virum,2600000 ,10-10-2003,Alm. Salg,161,16149,5,1904,
 173,Villa,Kollelevbakken 26,2830, Virum,2390000 ,10-10-2003,Alm. Salg,168,14226,5,1944,
-173,Rækkehus,Kulsvierparken 7,2800, Kongens Lyngby,1050000 ,09-10-2003,Andet,127,8268,4,1957,
 173,Ejerlejlighed,"Gammel Bagsværdvej 24E, st. th",2800, Kongens Lyngby,870000 ,09-10-2003,Alm. Salg,57,15263,2,1943,
-173,Villa,Lundtoftevej 261A,2800, Kongens Lyngby,1050000 ,09-10-2003,Alm. Salg,168,6250,6,2007,
 173,Villa,Birkholmsvej 10C,2800, Kongens Lyngby,2600000 ,09-10-2003,Alm. Salg,154,16883,5,1939,
 173,Rækkehus,Virumvej 71A,2830, Virum,1985000 ,08-10-2003,Alm. Salg,97,20464,4,1950,
 173,Ejerlejlighed,"Cedervænget 41, 3. th",2830, Virum,1500000 ,08-10-2003,Alm. Salg,75,20000,3,1958,
@@ -15238,9 +14964,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 173,Ejerlejlighed,"Mølleåparken 83, 1",2800, Kongens Lyngby,750000 ,15-09-2003,Alm. Salg,45,16667,1,1973,
 173,Ejerlejlighed,"Grønnevej 82, 2. tv",2830, Virum,1100000 ,15-09-2003,Alm. Salg,63,17460,2,1948,
 173,Ejerlejlighed,"Ulrikkenborg Alle 24, st. th",2800, Kongens Lyngby,945000 ,15-09-2003,Alm. Salg,54,17500,2,1934,
-173,Ejerlejlighed,"Hollandsvej 15, st. tv",2800, Kongens Lyngby,1400000 ,14-09-2003,Alm. Salg,55,25455,2,1935,
-173,Ejerlejlighed,"Christian X's Alle 56, 1. tv",2800, Kongens Lyngby,1400000 ,14-09-2003,Alm. Salg,55,25455,2,1935,
-173,Ejerlejlighed,"Christian X's Alle 58, 1. tv",2800, Kongens Lyngby,1400000 ,14-09-2003,Alm. Salg,55,25455,2,1935,
 173,Ejerlejlighed,"Gammel Bagsværdvej 24B, st. tv",2800, Kongens Lyngby,965000 ,14-09-2003,Alm. Salg,56,17232,2,1943,
 173,Villa,Birkedal 15,2800, Kongens Lyngby,2575000 ,14-09-2003,Alm. Salg,113,22788,5,1965,
 173,Rækkehus,Grønnevej 196,2830, Virum,2250000 ,13-09-2003,Alm. Salg,119,18908,5,1951,
@@ -15252,9 +14975,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 173,Villa,Parkvej 46,2830, Virum,3250000 ,11-09-2003,Alm. Salg,211,15403,5,1924,
 173,Rækkehus,Egholmsvej 5E,2830, Virum,4295000 ,10-09-2003,Alm. Salg,184,23342,5,1906,
 173,Rækkehus,Granparken 57,2800, Kongens Lyngby,2160000 ,10-09-2003,Alm. Salg,127,17008,4,1957,
-173,Ejerlejlighed,"Fuglevadsvej 14, st",2800, Kongens Lyngby,2520000 ,09-09-2003,Alm. Salg,115,21913,4,1903,
-173,Ejerlejlighed,"Peter Rørdams Vej 56, st",2800, Kongens Lyngby,2520000 ,09-09-2003,Alm. Salg,110,22909,4,1936,
-173,Ejerlejlighed,"Peter Rørdams Vej 56, 1",2800, Kongens Lyngby,2520000 ,09-09-2003,Alm. Salg,110,22909,4,1936,
 173,Ejerlejlighed,"Kulsviervej 85A, 1. th",2800, Kongens Lyngby,1295000 ,08-09-2003,Alm. Salg,70,18500,3,1949,
 173,Ejerlejlighed,"Lundtoftevej 208A, st",2800, Kongens Lyngby,1595000 ,08-09-2003,Alm. Salg,97,16443,3,1914,
 173,Ejerlejlighed,"Johan Wilmanns Vej 25, st. tv",2800, Kongens Lyngby,1103859 ,07-09-2003,Alm. Salg,57,19366,2,1934,
@@ -15781,8 +15501,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 173,Villa,Langs Hegnet 84,2800, Kongens Lyngby,3100000 ,05-02-2003,Alm. Salg,186,16667,6,1957,
 173,Ejerlejlighed,"Bredebovej 25, 3. th",2800, Kongens Lyngby,1500000 ,04-02-2003,Alm. Salg,97,15464,4,1969,
 173,Ejerlejlighed,"Cedervænget 11, st. mf",2830, Virum,790000 ,04-02-2003,Alm. Salg,50,15800,1,1958,
-173,Ejerlejlighed,"Bredebovej 35, st. mf",2800, Kongens Lyngby,960000 ,03-02-2003,Alm. Salg,56,17143,2,1969,
-173,Ejerlejlighed,"Nørgaardsvej 22B, 1. tv",2800, Kongens Lyngby,960000 ,03-02-2003,Alm. Salg,55,17455,2,1938,
 173,Villa,Langs Hegnet 33,2800, Kongens Lyngby,2700000 ,03-02-2003,Alm. Salg,181,14917,6,1964,
 173,Villa,Argentinavej 7,2800, Kongens Lyngby,3988900 ,03-02-2003,Alm. Salg,190,20994,6,1973,
 173,Ejerlejlighed,"Frederiksdalsvej 101A, 1. th",2830, Virum,807441 ,02-02-2003,Alm. Salg,52,15528,2,1946,
@@ -16762,15 +16480,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 173,Villa,Skovbrynet 100,2800, Kongens Lyngby,4000000 ,27-11-2001,Alm. Salg,342,11696,10,1936,
 173,Villa,Stengårds Alle 1C,2800, Kongens Lyngby,725000 ,27-11-2001,Alm. Salg,109,6651,3,1956,
 173,Villa,Lyngholmsvej 23,2800, Kongens Lyngby,5600000 ,27-11-2001,Andet,185,30270,6,2014,
-173,Ejerlejlighed,"Kongestien 77, st. th",2830, Virum,9650000 ,26-11-2001,Alm. Salg,104,92788,4,1952,
-173,Ejerlejlighed,"Kongestien 77, st. tv",2830, Virum,9650000 ,26-11-2001,Alm. Salg,109,88532,3,1952,
-173,Ejerlejlighed,"Kongestien 77, 1. th",2830, Virum,9650000 ,26-11-2001,Alm. Salg,89,108427,3,1952,
-173,Ejerlejlighed,"Kongestien 77, 1. tv",2830, Virum,9650000 ,26-11-2001,Alm. Salg,104,92788,4,1952,
 173,Ejerlejlighed,"Eremitageparken 209, st. d",2800, Kongens Lyngby,664000 ,26-11-2001,Alm. Salg,62,10710,2,1972,
-173,Ejerlejlighed,"Virumvej 100, st. th",2830, Virum,9650000 ,26-11-2001,Alm. Salg,109,88532,3,1952,
-173,Ejerlejlighed,"Virumvej 100, st. tv",2830, Virum,9650000 ,26-11-2001,Alm. Salg,104,92788,4,1952,
-173,Ejerlejlighed,"Virumvej 100, 1. tv",2830, Virum,9650000 ,26-11-2001,Alm. Salg,84,92788,3,1952,
-173,Ejerlejlighed,"Virumvej 100, 1. th",2830, Virum,9650000 ,26-11-2001,Alm. Salg,98,98469,4,1952,
 173,Ejerlejlighed,"Vinkelvej 12D, 6. th",2800, Kongens Lyngby,1410000 ,25-11-2001,Alm. Salg,79,17848,2,1980,
 173,Ejerlejlighed,"Frederiksdalsvej 10A, 1. tv",2830, Virum,830000 ,25-11-2001,Alm. Salg,57,14561,2,1940,
 173,Villa,Nordlyvej 2,2930, Klampenborg,2100000 ,25-11-2001,Alm. Salg,93,22581,3,1800,
@@ -17615,8 +17325,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 173,Ejerlejlighed,"Cedervænget 9, 1. th",2830, Virum,1325000 ,21-12-2000,Alm. Salg,86,15407,4,1958,
 173,Ejerlejlighed,"Askevænget 13, 2. tv",2830, Virum,1234959 ,21-12-2000,Alm. Salg,86,14360,4,1961,
 173,Villa,Chr.Winthers Vej 21A,2800, Kongens Lyngby,2450000 ,21-12-2000,Alm. Salg,123,19919,5,1949,
-173,Rækkehus,Virumgade 48C,2830, Virum,2250000 ,20-12-2000,Andet,130,17308,4,1978,
-173,Villa,Virumgade 49B,2830, Virum,2250000 ,20-12-2000,Andet,132,17045,4,1963,
 173,Villa,Norgesvej 5B,2800, Kongens Lyngby,2671905 ,19-12-2000,Alm. Salg,168,15904,6,1963,
 173,Ejerlejlighed,"Virum Stationsvej 141B, st",2830, Virum,650000 ,18-12-2000,Alm. Salg,50,13000,1,1962,
 173,Villa,Solvænget 29,2800, Kongens Lyngby,1817200 ,18-12-2000,Alm. Salg,80,22715,4,1935,
@@ -18667,14 +18375,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 173,Ejerlejlighed,"Mølleåparken 15, 2. th",2800, Kongens Lyngby,1472480 ,09-10-1999,Alm. Salg,90,16361,4,1969,
 173,Rækkehus,Parkvej 12A,2830, Virum,2984100 ,08-10-1999,Alm. Salg,132,22607,5,1990,
 173,Rækkehus,Gadevangen 44,2800, Kongens Lyngby,2250000 ,08-10-1999,Alm. Salg,142,15845,5,1964,
-173,Ejerlejlighed,"Kongestien 77, st. th",2830, Virum,6450000 ,07-10-1999,Alm. Salg,104,62019,4,1952,
-173,Ejerlejlighed,"Kongestien 77, st. tv",2830, Virum,6450000 ,07-10-1999,Alm. Salg,109,59174,3,1952,
-173,Ejerlejlighed,"Kongestien 77, 1. th",2830, Virum,6450000 ,07-10-1999,Alm. Salg,89,72472,3,1952,
-173,Ejerlejlighed,"Kongestien 77, 1. tv",2830, Virum,6450000 ,07-10-1999,Alm. Salg,104,62019,4,1952,
-173,Ejerlejlighed,"Virumvej 100, st. th",2830, Virum,6450000 ,07-10-1999,Alm. Salg,109,59174,3,1952,
-173,Ejerlejlighed,"Virumvej 100, st. tv",2830, Virum,6450000 ,07-10-1999,Alm. Salg,104,62019,4,1952,
-173,Ejerlejlighed,"Virumvej 100, 1. tv",2830, Virum,6450000 ,07-10-1999,Alm. Salg,84,62019,3,1952,
-173,Ejerlejlighed,"Virumvej 100, 1. th",2830, Virum,6450000 ,07-10-1999,Alm. Salg,98,65816,4,1952,
 173,Ejerlejlighed,"Bredebovej 27, st. tv",2800, Kongens Lyngby,1189000 ,06-10-1999,Alm. Salg,82,14500,3,1969,
 173,Villa,Lystoftevej 19,2800, Kongens Lyngby,2000074 ,06-10-1999,Alm. Salg,280,7143,7,1740,
 173,Rækkehus,Rytsebækvej 26,2830, Virum,1650260 ,05-10-1999,Alm. Salg,132,12502,5,1955,
@@ -19378,14 +19078,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 173,Rækkehus,Frugthegnet 40,2830, Virum,1652000 ,03-11-1998,Alm. Salg,114,14491,5,1953,
 173,Ejerlejlighed,"Mølleåparken 69, st",2800, Kongens Lyngby,880580 ,02-11-1998,Alm. Salg,61,14436,2,1973,
 173,Ejerlejlighed,"Lyngby Hovedgade 54B, 2. th",2800, Kongens Lyngby,806000 ,01-11-1998,Alm. Salg,68,11853,3,1987,
-173,Ejerlejlighed,"Kongestien 77, st. th",2830, Virum,4257629 ,01-11-1998,Alm. Salg,104,40939,4,1952,
-173,Ejerlejlighed,"Kongestien 77, st. tv",2830, Virum,4257629 ,01-11-1998,Alm. Salg,109,39061,3,1952,
-173,Ejerlejlighed,"Kongestien 77, 1. th",2830, Virum,4257629 ,01-11-1998,Alm. Salg,89,47839,3,1952,
-173,Ejerlejlighed,"Kongestien 77, 1. tv",2830, Virum,4257629 ,01-11-1998,Alm. Salg,104,40939,4,1952,
-173,Ejerlejlighed,"Virumvej 100, st. th",2830, Virum,4257629 ,01-11-1998,Alm. Salg,109,39061,3,1952,
-173,Ejerlejlighed,"Virumvej 100, st. tv",2830, Virum,4257629 ,01-11-1998,Alm. Salg,104,40939,4,1952,
-173,Ejerlejlighed,"Virumvej 100, 1. tv",2830, Virum,4257629 ,01-11-1998,Alm. Salg,84,40939,3,1952,
-173,Ejerlejlighed,"Virumvej 100, 1. th",2830, Virum,4257629 ,01-11-1998,Alm. Salg,98,43445,4,1952,
 173,Ejerlejlighed,"Cedervænget 31, 3. th",2830, Virum,961820 ,01-11-1998,Alm. Salg,75,12824,4,1958,
 173,Villa,Kulsviervej 97A,2800, Kongens Lyngby,1600000 ,01-11-1998,Alm. Salg,196,8163,5,1955,
 173,Villa,Strandvejen 681,2930, Klampenborg,900000 ,01-11-1998,Alm. Salg,183,4918,6,1999,
@@ -19410,7 +19102,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 173,Ejerlejlighed,"Virum Stationsvej 141B, 1. tv",2830, Virum,419749 ,22-10-1998,Alm. Salg,50,8395,1,1962,
 173,Villa,Solvænget 24,2800, Kongens Lyngby,739500 ,22-10-1998,Andet,150,4930,6,1933,
 173,Villa,Furesøvej 9,2830, Virum,3500000 ,22-10-1998,Alm. Salg,204,17157,5,2001,
-173,Villa,Taarbæk Strandvej 56,2930, Klampenborg,888000 ,22-10-1998,Fam. Salg,115,7722,4,1848,
 173,Villa,Virumvej 18,2830, Virum,1866900 ,22-10-1998,Alm. Salg,172,10854,5,1940,
 173,Villa,Askimvej 7,2830, Virum,1760000 ,21-10-1998,Alm. Salg,124,14194,6,1948,
 173,Ejerlejlighed,"Cedervænget 19, 3. tv",2830, Virum,1084879 ,20-10-1998,Alm. Salg,75,14465,4,1958,
@@ -20342,9 +20033,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 173,Rækkehus,Høstvej 13,2800, Kongens Lyngby,1769000 ,14-09-1997,Alm. Salg,146,12116,4,1897,
 173,Ejerlejlighed,"Vinkelvej 12C, 3. th",2800, Kongens Lyngby,896880 ,14-09-1997,Alm. Salg,79,11353,2,1980,
 173,Ejerlejlighed,"Askevænget 19, 2. th",2830, Virum,860000 ,14-09-1997,Alm. Salg,86,10000,4,1961,
-173,Ejerlejlighed,"Frederiksdalsvej 138, 1",2830, Virum,546280 ,14-09-1997,Alm. Salg,51,10711,2,1947,
 173,Ejerlejlighed,"Bagsværdvej 71C, 1. th",2800, Kongens Lyngby,457000 ,14-09-1997,Alm. Salg,56,8161,2,1938,
-173,Ejerlejlighed,Kirkebakken 1,2830, Virum,546280 ,14-09-1997,Alm. Salg,108,5058,4,1947,
 173,Ejerlejlighed,"Vinkelvej 12D, 2. th",2800, Kongens Lyngby,925000 ,13-09-1997,Alm. Salg,90,10278,2,1980,
 173,Ejerlejlighed,"Engelsborgvej 25, st. tv",2800, Kongens Lyngby,858400 ,11-09-1997,Alm. Salg,116,7400,4,1935,
 173,Villa,Chr.Winthers Vej 42,2800, Kongens Lyngby,1655000 ,11-09-1997,Alm. Salg,179,9246,5,1942,
@@ -21537,8 +21226,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 173,Villa,Søndervej 52,2830, Virum,1298370 ,04-05-1996,Alm. Salg,184,7056,4,2020,
 173,Rækkehus,Benvedvænget 11,2830, Virum,1335000 ,01-05-1996,Alm. Salg,135,9889,6,1948,
 173,Rækkehus,Virum Stationsvej 144H,2830, Virum,292460 ,01-05-1996,Alm. Salg,29,10085,1,1961,
-173,Ejerlejlighed,"Frederiksdalsvej 138, 1",2830, Virum,513000 ,01-05-1996,Alm. Salg,51,10059,2,1947,
-173,Ejerlejlighed,Kirkebakken 1,2830, Virum,513000 ,01-05-1996,Alm. Salg,108,4750,4,1947,
 173,Rækkehus,Engbakken 34,2830, Virum,1237000 ,30-04-1996,Alm. Salg,150,8247,5,1937,
 173,Ejerlejlighed,"I.H.Mundts Vej 17, st. th",2830, Virum,667977 ,30-04-1996,Alm. Salg,83,8048,3,1938,
 173,Villa,Grønnevej 122,2830, Virum,1277640 ,30-04-1996,Alm. Salg,95,13449,3,1961,
@@ -23509,7 +23196,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 173,Villa,Prøvekæret 6,2800, Kongens Lyngby,2300000 ,14-12-1993,Alm. Salg,276,8333,7,1979,
 173,Villa,Strandvejen 596,2930, Klampenborg,980000 ,14-12-1993,Fam. Salg,151,6490,6,1905,
 173,Ejerlejlighed,"Mølleåparken 77, st",2800, Kongens Lyngby,562269 ,13-12-1993,Alm. Salg,61,9218,2,1973,
-173,Villa,Taarbæk Strandvej 52E,2930, Klampenborg,292232 ,13-12-1993,Alm. Salg,132,2214,5,1840,
 173,Ejerlejlighed,"Ulrikkenborg Alle 22, 1. tv",2800, Kongens Lyngby,370000 ,12-12-1993,Alm. Salg,54,6852,2,1934,
 173,Villa,Klavs Nebs Vej 10B,2830, Virum,1917000 ,12-12-1993,Alm. Salg,182,10533,5,1994,
 173,Rækkehus,Bygtoften 9,2800, Kongens Lyngby,918000 ,11-12-1993,Alm. Salg,85,10800,4,1944,
@@ -23649,13 +23335,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 173,Ejerlejlighed,"Taarbækdalsvej 1C, 1. 3",2930, Klampenborg,450000 ,13-10-1993,Auktion,63,7143,2,1937,
 173,Villa,Kongestien 65,2830, Virum,417912 ,13-10-1993,Alm. Salg,136,3073,4,1943,
 173,Villa,Hvidegårdsparken 82,2800, Kongens Lyngby,1192800 ,13-10-1993,Alm. Salg,302,3950,9,1965,
-173,Ejerlejlighed,"Gammel Jernbanevej 9, 1",2800, Kongens Lyngby,4890000 ,12-10-1993,Alm. Salg,95,51474,4,1900,
-173,Ejerlejlighed,"Gammel Jernbanevej 9, 2",2800, Kongens Lyngby,4890000 ,12-10-1993,Alm. Salg,93,52581,4,1900,
 173,Ejerlejlighed,"Lehwaldsvej 3, 3. d",2800, Kongens Lyngby,570000 ,12-10-1993,Alm. Salg,101,5644,3,1962,
-173,Ejerlejlighed,"Lyngby Hovedgade 76A, 2",2800, Kongens Lyngby,4890000 ,12-10-1993,Alm. Salg,124,39435,4,1900,
-173,Ejerlejlighed,"Lyngby Hovedgade 76A, 1",2800, Kongens Lyngby,4890000 ,12-10-1993,Alm. Salg,128,38203,5,1900,
 173,Villa,Rustenborgvej 6,2800, Kongens Lyngby,1237000 ,12-10-1993,Alm. Salg,218,5674,5,1898,
-173,Villa,Taarbæk Strandvej 52E,2930, Klampenborg,223734 ,12-10-1993,Alm. Salg,132,1695,5,1840,
 173,Ejerlejlighed,"Boulevarden 6, st. 21",2800, Kongens Lyngby,620000 ,11-10-1993,Alm. Salg,73,8493,2,1965,
 173,Ejerlejlighed,"Grønnevej 62, 2. tv",2830, Virum,473000 ,11-10-1993,Alm. Salg,60,7883,2,1944,
 173,Ejerlejlighed,"Gammel Bagsværdvej 24E, st. th",2800, Kongens Lyngby,365000 ,11-10-1993,Alm. Salg,57,6404,2,1943,
@@ -23775,7 +23456,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 173,Villa,Lundtoftevej 141,2800, Kongens Lyngby,900000 ,29-08-1993,Alm. Salg,101,8911,5,1934,
 173,Villa,Furesøvej 1C,2830, Virum,3000000 ,29-08-1993,Alm. Salg,402,7463,7,1975,
 173,Villa,Hummeltoften 54,2830, Virum,1181610 ,29-08-1993,Alm. Salg,146,8093,5,1957,
-173,Rækkehus,Taarbæk Strandvej 66C,2930, Klampenborg,1300000 ,28-08-1993,Alm. Salg,45,28889,2,1801,
 173,Villa,Krogvej 27,2830, Virum,73000 ,28-08-1993,Alm. Salg,138,529,6,1923,
 173,Villa,Parcelvej 173A,2830, Virum,866000 ,28-08-1993,Alm. Salg,114,7596,2,1923,
 173,Ejerlejlighed,"Lyngbygårdsvej 85, 1. tv",2800, Kongens Lyngby,500000 ,27-08-1993,Alm. Salg,72,6944,4,1946,
@@ -24687,9 +24367,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 173,Villa,Ingridsvej 3,2800, Kongens Lyngby,712500 ,29-04-1992,Fam. Salg,202,3527,6,2016,
 173,Ejerlejlighed,"Virum Stationsvej 149D, 1. tv",2830, Virum,375000 ,28-04-1992,Alm. Salg,52,7212,2,1962,
 173,Ejerlejlighed,"Hollandsvej 19, st. tv",2800, Kongens Lyngby,390613 ,28-04-1992,Fam. Salg,55,7102,2,1935,
-173,Ejerlejlighed,"Frederiksdalsvej 138, 1",2830, Virum,450000 ,26-04-1992,Alm. Salg,51,8824,2,1947,
 173,Ejerlejlighed,"Lyngbygårdsvej 65, st. th",2800, Kongens Lyngby,395000 ,26-04-1992,Alm. Salg,53,7453,2,1946,
-173,Ejerlejlighed,Kirkebakken 1,2830, Virum,450000 ,26-04-1992,Alm. Salg,108,4167,4,1947,
 173,Ejerlejlighed,"Mølleåparken 57, 2. d",2800, Kongens Lyngby,505000 ,26-04-1992,Alm. Salg,61,8279,2,1973,
 173,Rækkehus,Wienerbyen 8,2830, Virum,630000 ,25-04-1992,Fam. Salg,110,5727,4,1977,
 173,Ejerlejlighed,"Cedervænget 37, 1. th",2830, Virum,510600 ,24-04-1992,Alm. Salg,76,6718,3,1958,
@@ -24713,8 +24391,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 173,Villa,Biskop Monrads Vej 4,2830, Virum,1155000 ,13-04-1992,Alm. Salg,102,11324,3,1947,
 173,Villa,Bispekrogen 3,2830, Virum,1135000 ,13-04-1992,Alm. Salg,148,7669,5,1964,
 173,Rækkehus,Granparken 107,2800, Kongens Lyngby,855325 ,12-04-1992,Alm. Salg,119,7188,4,1957,
-173,Ejerlejlighed,"Frederiksdalsvej 138, 1",2830, Virum,400000 ,12-04-1992,Alm. Salg,51,7843,2,1947,
-173,Ejerlejlighed,Kirkebakken 1,2830, Virum,400000 ,12-04-1992,Alm. Salg,108,3704,4,1947,
 173,Villa,Agnesvej 9,2800, Kongens Lyngby,801000 ,10-04-1992,Alm. Salg,117,6846,5,1948,
 173,Rækkehus,Agernvej 29,2830, Virum,800000 ,09-04-1992,Alm. Salg,90,8889,3,1957,
 173,Rækkehus,Høtoften 4,2830, Virum,1067100 ,09-04-1992,Alm. Salg,119,8967,5,1955,

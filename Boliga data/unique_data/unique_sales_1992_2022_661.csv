@@ -223,9 +223,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Poppel Alle 31,7500, Holstebro,1495000 ,07-09-2022,Alm. Salg,128,11680,4,1964,
 661,Villa,Vestsvinget 6,7500, Holstebro,1650000 ,06-09-2022,Alm. Salg,189,8730,7,1980,-13%
 661,Villa,Østervang 9,7830, Vinderup,995000 ,06-09-2022,Alm. Salg,120,8292,4,1971,
-661,Rækkehus,Holstebrovej 22A,7830, Vinderup,100000 ,05-09-2022,Alm. Salg,65,1538,2,1935,
 661,Villa,Sevelvej 85,7830, Vinderup,90000 ,05-09-2022,Alm. Salg,294,306,9,1911,
-661,Villa,Holstebrovej 22,7830, Vinderup,100000 ,05-09-2022,Alm. Salg,180,556,6,1900,
 661,Villa,Tingvej 19,7800, Skive,500000 ,05-09-2022,Alm. Salg,74,6757,3,1961,
 661,Villa,Vald Poulsens Vej 49,7500, Holstebro,1400000 ,04-09-2022,Alm. Salg,163,8589,5,1973,-2%
 661,Villa,Sevelvej 28,7830, Vinderup,635000 ,03-09-2022,Alm. Salg,100,6350,4,1936,-9%
@@ -936,7 +934,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Rækkehus,Lundgade 5,6990, Ulfborg,250000 ,29-11-2021,Alm. Salg,101,2475,4,1921,-29%
 661,Villa,Torsgade 12,6990, Ulfborg,475000 ,29-11-2021,Alm. Salg,120,3958,4,1954,-4%
 661,Villa,Bjertparken 13,7830, Vinderup,840000 ,29-11-2021,Fam. Salg,142,5915,5,2008,
-661,Villa,Straussvej 2,7500, Holstebro,2200000 ,28-11-2021,Alm. Salg,160,13750,4,1961,
 661,Villa,Bakken 5,7500, Holstebro,3545000 ,28-11-2021,Alm. Salg,248,14294,10,2005,-1%
 661,Villa,Fælledvej 3,7570, Vemb,170000 ,28-11-2021,Fam. Salg,100,1700,4,1850,
 661,Villa,Harrestrupvej 10,7500, Holstebro,1462000 ,28-11-2021,Alm. Salg,220,6645,8,1984,-8%
@@ -1541,7 +1538,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Helgesensvej 15,7500, Holstebro,1550000 ,16-05-2021,Alm. Salg,118,13136,5,1942,-3%
 661,Villa,Furesøvej 10,7500, Holstebro,780000 ,16-05-2021,Alm. Salg,153,5098,4,2022,
 661,Ejerlejlighed,"Doktorvænget 6, 1. tv",7500, Holstebro,835000 ,15-05-2021,Alm. Salg,87,9598,4,1962,-1%
-661,Villa,Lemvigvej 8A,7500, Holstebro,1150000 ,15-05-2021,Alm. Salg,75,15333,2,1900,
 661,Villa,Bonderosevej 9,7500, Holstebro,721850 ,15-05-2021,Alm. Salg,220,3281,6,2022,
 661,Villa,Offenbachsvej 303,7500, Holstebro,2075000 ,14-05-2021,Alm. Salg,150,13833,7,1987,-3%
 661,Villa,Bygvænget 10,7500, Holstebro,2100000 ,13-05-2021,Alm. Salg,176,11932,5,1969,
@@ -1599,15 +1595,12 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Ejerlejlighed,"Bisgårdgade 8, 2. th",7500, Holstebro,1075000 ,28-04-2021,Alm. Salg,115,9348,4,1900,-8%
 661,Villa,Skjernvej 59,7500, Holstebro,900000 ,28-04-2021,Alm. Salg,132,6818,5,1924,-31%
 661,Villa,Bispebuen 8,7500, Holstebro,4675000 ,28-04-2021,Alm. Salg,257,18191,8,2007,
-661,Villa,Viborgvej 43A,7500, Holstebro,3625650 ,28-04-2021,Alm. Salg,87,41674,3,1934,
 661,Rækkehus,Dolken 18,7500, Holstebro,2575000 ,27-04-2021,Alm. Salg,134,19216,4,2014,-1%
 661,Villa,Lange-Müllers Vej 7,7500, Holstebro,1895000 ,27-04-2021,Alm. Salg,150,12633,5,1974,
 661,Villa,Chr Winthers Vej 5,7500, Holstebro,1450000 ,27-04-2021,Alm. Salg,145,10000,6,1961,
-661,Rækkehus,Fiilsvej 18B,7500, Holstebro,1275000 ,26-04-2021,Alm. Salg,73,17466,3,1989,-6%
 661,Rækkehus,Skoleparken 22,7500, Holstebro,1435000 ,26-04-2021,Alm. Salg,122,11762,4,1969,-3%
 661,Rækkehus,"Havnevej 12, st. 6",6990, Ulfborg,1100000 ,26-04-2021,Alm. Salg,112,9821,4,2006,
 661,Ejerlejlighed,"Magnus Kjærs Gade 4, 2. tv",7500, Holstebro,1000000 ,26-04-2021,Alm. Salg,95,10526,2,1993,
-661,Villa,Hovedgaden 43,7500, Holstebro,1275000 ,26-04-2021,Alm. Salg,106,12028,3,1959,
 661,Rækkehus,Ulfkjærparken 12,6990, Ulfborg,1207500 ,25-04-2021,Alm. Salg,110,10977,3,2012,
 661,Villa,Chr Winthers Vej 71,7500, Holstebro,2195000 ,25-04-2021,Alm. Salg,186,11801,2,1971,
 661,Villa,Krunderupparken 38,7500, Holstebro,1485000 ,25-04-2021,Alm. Salg,124,11976,5,1980,-1%
@@ -1805,10 +1798,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Hornshøjparken 163,7500, Holstebro,1654000 ,05-03-2021,Alm. Salg,113,14637,5,1985,4%
 661,Villa,Hellesvej 6,7830, Vinderup,250000 ,05-03-2021,Alm. Salg,98,2551,4,1953,-37%
 661,Villa,Ringbrynjen 1,7500, Holstebro,3145000 ,05-03-2021,Alm. Salg,172,18285,6,2017,-2%
-661,Ejerlejlighed,Halgårdvej 2C,7500, Holstebro,1300000 ,04-03-2021,Alm. Salg,95,13684,2,1954,
 661,Villa,Mejdalvej 25,7500, Holstebro,1025000 ,04-03-2021,Alm. Salg,75,13667,3,1952,
 661,Villa,Vesterhavsgade 28,6990, Ulfborg,810000 ,04-03-2021,Alm. Salg,113,7168,4,1946,-5%
-661,Villa,Halgårdvej 2B,7500, Holstebro,1300000 ,04-03-2021,Alm. Salg,181,7182,6,1886,
 661,Villa,Birkevej 7,7500, Holstebro,1795000 ,04-03-2021,Alm. Salg,142,12641,4,1967,
 661,Villa,Bygvænget 27,6990, Ulfborg,1495000 ,04-03-2021,Alm. Salg,171,8743,5,1975,
 661,Villa,Østervang 9,7500, Holstebro,2200000 ,04-03-2021,Alm. Salg,125,17600,4,1951,-8%
@@ -1970,10 +1961,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Smedegårdvej 36,7500, Holstebro,1550000 ,21-01-2021,Alm. Salg,132,11742,4,1972,-3%
 661,Villa,Voldgade 15,7500, Holstebro,335000 ,21-01-2021,Andet,114,2939,4,1951,
 661,Villa,Kusken 21,7500, Holstebro,2780000 ,21-01-2021,Alm. Salg,167,16647,6,2015,
-661,Rækkehus,Elkjærvej 40D,7500, Holstebro,2100000 ,20-01-2021,Alm. Salg,117,17949,4,2013,-3%
 661,Villa,Skjernvej 10,7500, Holstebro,1470000 ,20-01-2021,Alm. Salg,150,9800,6,1902,-5%
 661,Villa,Porsevej 8,7500, Holstebro,5150000 ,20-01-2021,Alm. Salg,225,22889,6,1972,-6%
-661,Villa,Dybbølsgade 28,7500, Holstebro,2100000 ,20-01-2021,Alm. Salg,122,17213,5,1923,-7%
 661,Villa,Under Rødtjørnen 29,7500, Holstebro,561000 ,20-01-2021,Alm. Salg,148,3791,5,2023,
 661,Villa,Furesøvej 2,7500, Holstebro,796000 ,20-01-2021,Alm. Salg,180,4422,6,2021,
 661,Villa,Krunderupparken 94,7500, Holstebro,375000 ,20-01-2021,Alm. Salg,199,1884,6,2022,
@@ -2144,13 +2133,11 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Rækkehus,Webersvej 10,7500, Holstebro,1035000 ,16-11-2020,Alm. Salg,61,16967,3,1985,
 661,Ejerlejlighed,Herningvej 46E,7500, Holstebro,635000 ,16-11-2020,Alm. Salg,60,10583,2,1965,-2%
 661,Villa,Carl Nielsens Vej 25,7500, Holstebro,2280000 ,16-11-2020,Alm. Salg,157,14522,5,1976,
-661,Rækkehus,Under Kastanien 40,7500, Holstebro,2500000 ,15-11-2020,Alm. Salg,160,15625,5,2009,-4%
 661,Ejerlejlighed,Falhedevej 1,7800, Skive,650000 ,15-11-2020,Andet,110,5909,4,1899,
 661,Villa,Fredericiagade 14,7500, Holstebro,1147500 ,15-11-2020,Fam. Salg,166,6913,5,1904,
 661,Villa,Landsbyvænget 10,6990, Ulfborg,145000 ,15-11-2020,Alm. Salg,102,1422,3,1978,
 661,Villa,Anne Franks Vej 4,7500, Holstebro,1975000 ,15-11-2020,Alm. Salg,213,9272,6,1966,-1%
 661,Villa,Under Hvidtjørnen 32,7500, Holstebro,562000 ,15-11-2020,Alm. Salg,250,2248,6,2023,
-661,Villa,Lille Struervej 15,7500, Holstebro,2500000 ,15-11-2020,Alm. Salg,166,15060,5,2008,-7%
 661,Villa,Snedronningen 11,7500, Holstebro,4500000 ,15-11-2020,Alm. Salg,194,23196,5,2009,-5%
 661,Rækkehus,Brahmsvej 66,7500, Holstebro,1235000 ,14-11-2020,Alm. Salg,73,16918,3,1985,-1%
 661,Villa,Kusken 45,7500, Holstebro,2830000 ,14-11-2020,Alm. Salg,167,16946,6,2015,-2%
@@ -2284,13 +2271,11 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Rækkehus,Griegsvej 70,7500, Holstebro,1325000 ,27-09-2020,Fam. Salg,98,13520,4,1977,
 661,Rækkehus,Harbogade 40,6990, Ulfborg,240000 ,27-09-2020,Alm. Salg,127,1890,4,1900,-26%
 661,Rækkehus,Harald Leths Vej 7,7500, Holstebro,1845000 ,27-09-2020,Alm. Salg,105,17571,4,2012,
-661,Ejerlejlighed,"Søndergade 34, 1",7830, Vinderup,230000 ,27-09-2020,Alm. Salg,80,2875,3,1900,
 661,Villa,Fjordvejen 2,7570, Vemb,235000 ,27-09-2020,Alm. Salg,259,907,8,1925,-20%
 661,Villa,Jeppe Aakjærs Vej 70,7500, Holstebro,2400000 ,27-09-2020,Alm. Salg,178,13483,7,1962,-8%
 661,Villa,Kobberupvej 97,7500, Holstebro,1875000 ,27-09-2020,Alm. Salg,155,12097,6,1979,
 661,Villa,Skivevej 71,7500, Holstebro,1615000 ,27-09-2020,Alm. Salg,114,14167,6,1936,-5%
 661,Villa,Klintevej 35,7500, Holstebro,3600000 ,27-09-2020,Alm. Salg,214,13953,7,1970,-5%
-661,Villa,Søndergade 34A,7830, Vinderup,230000 ,27-09-2020,Alm. Salg,65,3538,3,1900,
 661,Villa,Naltoftevej 23,7500, Holstebro,790000 ,27-09-2020,Alm. Salg,149,5302,7,1939,-7%
 661,Villa,Stationsvej 48,7500, Holstebro,1340000 ,27-09-2020,Alm. Salg,142,9437,5,1910,-3%
 661,Rækkehus,Kirkebakken 31B,7830, Vinderup,610000 ,25-09-2020,Alm. Salg,80,7625,3,1987,
@@ -2426,9 +2411,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Sdr Fjandvej 40,6990, Ulfborg,545000 ,11-08-2020,Alm. Salg,144,3785,5,1932,-8%
 661,Villa,Krunderupparken 180,7500, Holstebro,1935000 ,11-08-2020,Alm. Salg,151,12815,5,1997,-3%
 661,Rækkehus,Havfruen 11,7500, Holstebro,1745000 ,10-08-2020,Alm. Salg,125,13960,4,2007,
-661,Ejerlejlighed,"Danmarksgade 8A, 1. tv",7500, Holstebro,1000000 ,10-08-2020,Alm. Salg,70,14286,3,1902,
 661,Villa,Flintøksen 82,7500, Holstebro,2900000 ,10-08-2020,Alm. Salg,168,17262,6,2005,-3%
-661,Villa,Risvænget 8,7500, Holstebro,1000000 ,10-08-2020,Alm. Salg,136,7353,5,1970,
 661,Villa,Broagervej 16,7500, Holstebro,1420000 ,10-08-2020,Alm. Salg,133,10677,4,1914,-5%
 661,Villa,Vindelevgård 224,7830, Vinderup,2250000 ,10-08-2020,Alm. Salg,151,14901,5,2009,-2%
 661,Villa,Fyrtøjet 5,7500, Holstebro,2800000 ,10-08-2020,Alm. Salg,160,17500,6,2007,-3%
@@ -2868,11 +2851,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Estrupvej 2,7500, Holstebro,765000 ,16-03-2020,Alm. Salg,132,5795,4,1978,
 661,Rækkehus,Griegsvej 98,7500, Holstebro,835000 ,15-03-2020,Fam. Salg,111,7523,3,1974,
 661,Rækkehus,Bachsvej 152,7500, Holstebro,950000 ,15-03-2020,Alm. Salg,115,8261,4,1976,
-661,Ejerlejlighed,"Søndergade 34, 1",7830, Vinderup,350000 ,15-03-2020,Andet,80,4375,3,1900,
 661,Villa,Langelinie 20,7500, Holstebro,1420000 ,15-03-2020,Alm. Salg,128,11094,5,1936,-5%
 661,Villa,Østersognsvej 1,6990, Ulfborg,1220000 ,15-03-2020,Alm. Salg,215,5674,4,1935,-2%
 661,Villa,Harald Damtofts Vej 111,7500, Holstebro,1785000 ,15-03-2020,Alm. Salg,170,10500,4,1987,-5%
-661,Villa,Søndergade 34A,7830, Vinderup,350000 ,15-03-2020,Andet,65,5385,3,1900,
 661,Villa,Under Kastanien 39,7500, Holstebro,2921997 ,13-03-2020,Alm. Salg,170,17188,6,2008,-2%
 661,Villa,Odinsvej 11,7500, Holstebro,1295000 ,13-03-2020,Alm. Salg,108,11991,4,1961,-3%
 661,Ejerlejlighed,"Skolegade 30C, 2. tv",7500, Holstebro,1165000 ,12-03-2020,Alm. Salg,81,14383,3,1920,-3%
@@ -2900,9 +2881,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Skrænten 3,7830, Vinderup,800000 ,03-03-2020,Alm. Salg,155,5161,5,1977,-9%
 661,Villa,Burvej 52,7570, Vemb,595000 ,03-03-2020,Alm. Salg,140,4250,7,1951,
 661,Villa,Parkvej 17,7500, Holstebro,2695000 ,03-03-2020,Alm. Salg,199,13543,7,1966,
-661,Ejerlejlighed,"Herningvej 33, st",7500, Holstebro,1950000 ,02-03-2020,Alm. Salg,119,16387,2,1930,-6%
-661,Ejerlejlighed,Svinget 17,7500, Holstebro,1950000 ,02-03-2020,Alm. Salg,112,17411,4,1964,-6%
-661,Ejerlejlighed,"Herningvej 33, 1",7500, Holstebro,1950000 ,02-03-2020,Alm. Salg,77,25325,2,1930,-6%
 661,Villa,Solbakken 2,7500, Holstebro,1750000 ,02-03-2020,Alm. Salg,136,12868,4,1959,-3%
 661,Villa,Nygade 11,7570, Vemb,350000 ,02-03-2020,Alm. Salg,196,1786,5,1916,-11%
 661,Villa,Lathyrusvej 2,7500, Holstebro,1485000 ,02-03-2020,Alm. Salg,110,13500,4,1966,-7%
@@ -2941,19 +2919,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Rækkehus,Emil Reesens Vej 3,7500, Holstebro,1209802 ,23-02-2020,Alm. Salg,127,9526,4,1979,-3%
 661,Ejerlejlighed,"Skolegade 30A, st",7500, Holstebro,650000 ,23-02-2020,Alm. Salg,77,8442,2,1920,-10%
 661,Villa,Hovedgaden 52,7500, Holstebro,1785000 ,23-02-2020,Alm. Salg,161,11087,7,1923,
-661,Ejerlejlighed,"Christiansgade 1A, 3. 2",7500, Holstebro,8000000 ,22-02-2020,Alm. Salg,22,363636,2,1906,
-661,Ejerlejlighed,"Christiansgade 1A, 1. tv",7500, Holstebro,8000000 ,22-02-2020,Alm. Salg,45,177778,2,1906,
-661,Ejerlejlighed,"Christiansgade 1A, 2. tv",7500, Holstebro,8000000 ,22-02-2020,Alm. Salg,45,177778,2,1906,
-661,Ejerlejlighed,"Christiansgade 1A, 3. 3",7500, Holstebro,8000000 ,22-02-2020,Alm. Salg,22,363636,2,1906,
-661,Ejerlejlighed,"Christiansgade 1A, 3. 4",7500, Holstebro,8000000 ,22-02-2020,Alm. Salg,32,250000,3,1906,
-661,Ejerlejlighed,"Christiansgade 1A, 1. th",7500, Holstebro,8000000 ,22-02-2020,Alm. Salg,125,64000,4,1906,
-661,Ejerlejlighed,"Christiansgade 1A, st",7500, Holstebro,8000000 ,22-02-2020,Alm. Salg,45,177778,2,1906,
-661,Ejerlejlighed,"Christiansgade 1A, 2. th",7500, Holstebro,8000000 ,22-02-2020,Alm. Salg,71,112676,3,1906,
-661,Ejerlejlighed,"Christiansgade 1A, 3. 6",7500, Holstebro,8000000 ,22-02-2020,Alm. Salg,22,363636,2,1906,
-661,Ejerlejlighed,"Christiansgade 1A, 3. 5",7500, Holstebro,8000000 ,22-02-2020,Alm. Salg,22,363636,2,1906,
-661,Ejerlejlighed,"Stationsvej 20, st",7500, Holstebro,8000000 ,22-02-2020,Alm. Salg,125,64000,3,1906,
-661,Ejerlejlighed,"Stationsvej 20, 1",7500, Holstebro,8000000 ,22-02-2020,Alm. Salg,125,64000,3,1906,
-661,Ejerlejlighed,"Stationsvej 20, 2",7500, Holstebro,8000000 ,22-02-2020,Alm. Salg,179,44693,4,1906,
 661,Villa,Ingemannsvej 14,7500, Holstebro,1075000 ,22-02-2020,Alm. Salg,133,8083,6,1962,
 661,Villa,Brinken 3,7500, Holstebro,1500000 ,22-02-2020,Alm. Salg,150,10000,6,1953,-6%
 661,Villa,Idrætsvej 4,7500, Holstebro,650000 ,20-02-2020,Alm. Salg,103,6311,4,1967,
@@ -3030,7 +2995,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Webersvej 1,7500, Holstebro,1795000 ,29-01-2020,Alm. Salg,135,13296,6,1986,
 661,Rækkehus,Bachsvej 34C,7500, Holstebro,518509 ,28-01-2020,Alm. Salg,60,8642,3,1983,
 661,Ejerlejlighed,"Doktorvænget 7, st. tv",7500, Holstebro,735000 ,28-01-2020,Alm. Salg,80,9188,3,1963,
-661,Villa,Bjarkesvej 6,7500, Holstebro,1150000 ,28-01-2020,Andet,213,5399,6,1965,
 661,Villa,Kaj Munks Vej 11,7500, Holstebro,2650000 ,28-01-2020,Alm. Salg,145,18276,5,1958,
 661,Villa,Griegsvej 3,7500, Holstebro,2395000 ,28-01-2020,Alm. Salg,150,15967,5,1973,
 661,Villa,Brinken 1,7500, Holstebro,1675000 ,28-01-2020,Alm. Salg,211,7938,6,2022,-7%
@@ -3345,11 +3309,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Holbergsvej 38,7500, Holstebro,1200000 ,23-09-2019,Alm. Salg,61,19672,3,1937,-4%
 661,Villa,Parkvej 184,7500, Holstebro,2550000 ,23-09-2019,Alm. Salg,233,10944,8,1971,-4%
 661,Villa,Straussvej 314,7500, Holstebro,1900000 ,23-09-2019,Alm. Salg,149,12752,5,1987,-5%
-661,Ejerlejlighed,Bredgade 13A. th,6990, Ulfborg,650000 ,22-09-2019,Alm. Salg,61,10656,2,1880,
-661,Ejerlejlighed,Bredgade 13A. tv,6990, Ulfborg,650000 ,22-09-2019,Alm. Salg,61,10656,2,1880,
-661,Ejerlejlighed,"Tømmerslippen 7, 1",6990, Ulfborg,650000 ,22-09-2019,Alm. Salg,129,5039,4,1880,
-661,Ejerlejlighed,"Tømmerslippen 1, 1. tv",6990, Ulfborg,650000 ,22-09-2019,Alm. Salg,98,6633,5,1880,
-661,Ejerlejlighed,"Tømmerslippen 7, st",6990, Ulfborg,650000 ,22-09-2019,Alm. Salg,105,6190,4,1880,
 661,Villa,Bakken 22,7500, Holstebro,3570000 ,22-09-2019,Alm. Salg,233,15322,8,2005,-2%
 661,Villa,Bonderosevej 4,7500, Holstebro,753675 ,22-09-2019,Alm. Salg,171,4407,6,2021,
 661,Villa,Geranievej 3,7500, Holstebro,643000 ,22-09-2019,Alm. Salg,184,3495,5,2021,
@@ -3401,10 +3360,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Egetoften 5,7500, Holstebro,482000 ,09-09-2019,Alm. Salg,173,2786,5,2020,
 661,Rækkehus,Laubsvej 55,7500, Holstebro,1400000 ,08-09-2019,Alm. Salg,126,11111,4,1984,-3%
 661,Rækkehus,Draget 3,7500, Holstebro,1675000 ,08-09-2019,Alm. Salg,114,14693,4,2006,-4%
-661,Ejerlejlighed,"Bredgade 2, 1",6990, Ulfborg,1675000 ,08-09-2019,Alm. Salg,158,10601,5,1875,
-661,Ejerlejlighed,Herredsgade 3A,6990, Ulfborg,1675000 ,08-09-2019,Alm. Salg,77,21753,2,1875,
-661,Ejerlejlighed,Herredsgade 3B,6990, Ulfborg,1675000 ,08-09-2019,Alm. Salg,94,17819,4,1875,
-661,Ejerlejlighed,Herredsgade 1,6990, Ulfborg,1675000 ,08-09-2019,Alm. Salg,117,14316,4,1875,
 661,Villa,Tingager Enge 11,7500, Holstebro,870000 ,07-09-2019,Alm. Salg,180,4833,6,2022,-3%
 661,Villa,Beringsvej 12,7500, Holstebro,1360000 ,05-09-2019,Alm. Salg,125,10880,4,1962,-6%
 661,Villa,Vesterlund 2B,7830, Vinderup,1400000 ,05-09-2019,Alm. Salg,173,8092,5,1910,-3%
@@ -3538,8 +3493,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Tjørnevej 14,7500, Holstebro,1495000 ,10-07-2019,Alm. Salg,196,7628,9,1969,-6%
 661,Rækkehus,Kildevej 15,7500, Holstebro,625000 ,09-07-2019,Alm. Salg,52,12019,1,1979,-3%
 661,Rækkehus,Hjulkronen 4,7500, Holstebro,2305050 ,09-07-2019,Alm. Salg,180,12806,6,2006,
-661,Rækkehus,Emil Reesens Vej 9,7500, Holstebro,1400000 ,09-07-2019,Alm. Salg,127,11024,4,1978,
-661,Villa,Snerlevej 56,7500, Holstebro,1400000 ,09-07-2019,Alm. Salg,110,12727,4,1964,-6%
 661,Villa,Djeldvej 4,7830, Vinderup,750000 ,09-07-2019,Alm. Salg,121,6198,5,1935,
 661,Villa,Skovvikken 4,7500, Holstebro,2715000 ,09-07-2019,Alm. Salg,220,12341,6,2003,-6%
 661,Villa,Parkvej 124,7500, Holstebro,1295000 ,08-07-2019,Alm. Salg,129,10039,3,1970,
@@ -3616,22 +3569,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Bygvænget 30,7500, Holstebro,1575000 ,15-06-2019,Alm. Salg,154,10227,5,1969,
 661,Villa,Vesterled 11,7500, Holstebro,2050000 ,15-06-2019,Alm. Salg,146,14041,5,1943,-9%
 661,Villa,Langgade 74,7500, Holstebro,722500 ,15-06-2019,Fam. Salg,148,4882,6,1979,
-661,Ejerlejlighed,"Åglimt 1, st. th",7500, Holstebro,5550000 ,14-06-2019,Andet,62,89516,2,1938,
-661,Ejerlejlighed,"Åglimt 1, st. tv",7500, Holstebro,5550000 ,14-06-2019,Andet,100,55500,3,1938,
-661,Ejerlejlighed,"Åglimt 1, 1. th",7500, Holstebro,5550000 ,14-06-2019,Andet,62,89516,2,1938,
-661,Ejerlejlighed,"Åglimt 1, 1. tv",7500, Holstebro,5550000 ,14-06-2019,Andet,100,55500,3,1938,
-661,Ejerlejlighed,"Åglimt 1, 2. th",7500, Holstebro,5550000 ,14-06-2019,Andet,62,89516,2,1938,
-661,Ejerlejlighed,"Åglimt 1, 2. tv",7500, Holstebro,5550000 ,14-06-2019,Andet,100,55500,3,1938,
-661,Ejerlejlighed,"Åglimt 1, 3. th",7500, Holstebro,5550000 ,14-06-2019,Andet,55,100909,2,1938,
-661,Ejerlejlighed,"Åglimt 1, 3. tv",7500, Holstebro,5550000 ,14-06-2019,Andet,93,59677,3,1938,
-661,Ejerlejlighed,"Vestergade 23, 2. tv",7500, Holstebro,5550000 ,14-06-2019,Andet,67,82836,2,1938,
-661,Ejerlejlighed,"Vestergade 23, 1. tv",7500, Holstebro,5550000 ,14-06-2019,Andet,67,82836,2,1938,
-661,Ejerlejlighed,"Vestergade 23, 3. tv",7500, Holstebro,5550000 ,14-06-2019,Andet,60,92500,2,1938,
-661,Ejerlejlighed,"Vestergade 23, 3. th",7500, Holstebro,5550000 ,14-06-2019,Andet,72,77083,3,1938,
-661,Ejerlejlighed,"Vestergade 23, st. th",7500, Holstebro,5550000 ,14-06-2019,Andet,79,70253,3,1938,
-661,Ejerlejlighed,"Vestergade 23, st. tv",7500, Holstebro,5550000 ,14-06-2019,Andet,67,82836,2,1938,
-661,Ejerlejlighed,"Vestergade 23, 1. th",7500, Holstebro,5550000 ,14-06-2019,Andet,79,70253,3,1938,
-661,Ejerlejlighed,"Vestergade 23, 2. th",7500, Holstebro,5550000 ,14-06-2019,Andet,79,70253,3,1938,
 661,Villa,Holmegade 21,6990, Ulfborg,365810 ,13-06-2019,Andet,127,2880,4,1943,-59%
 661,Rækkehus,Haydnsvej 14,7500, Holstebro,1445000 ,12-06-2019,Alm. Salg,110,13136,4,1979,
 661,Ejerlejlighed,"Lyksborgvej 40, 2. 224",7500, Holstebro,415000 ,12-06-2019,Alm. Salg,43,9651,2,1973,
@@ -3946,8 +3883,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Wagnersvej 22,7500, Holstebro,1750000 ,10-02-2019,Alm. Salg,175,10000,6,1986,
 661,Villa,Under Rødtjørnen 19,7500, Holstebro,541000 ,10-02-2019,Alm. Salg,188,2878,6,2019,
 661,Rækkehus,Merkurs Torv 6B,7500, Holstebro,2495000 ,07-02-2019,Alm. Salg,164,15213,6,2019,
-661,Ejerlejlighed,Langelinie 9,7500, Holstebro,1600000 ,07-02-2019,Alm. Salg,135,11852,3,1960,
-661,Ejerlejlighed,Tværvej 5,7500, Holstebro,1600000 ,07-02-2019,Alm. Salg,115,13913,4,1960,
 661,Villa,Poppel Alle 121,7500, Holstebro,1985000 ,07-02-2019,Alm. Salg,170,11676,5,1970,-1%
 661,Villa,Blåmunkevej 5,7500, Holstebro,3350000 ,07-02-2019,Alm. Salg,116,28879,5,1951,-4%
 661,Rækkehus,Gl. Hornshøjvej 5,7500, Holstebro,900000 ,06-02-2019,Alm. Salg,80,11250,3,1962,-8%
@@ -4044,15 +3979,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Smedegårdvej 44,7500, Holstebro,652492 ,02-01-2019,Alm. Salg,128,5098,3,1941,-51%
 661,Villa,Under Rødtjørnen 23,7500, Holstebro,562000 ,02-01-2019,Alm. Salg,185,3038,6,2021,
 661,Villa,Hvalfisken 63,7500, Holstebro,620000 ,02-01-2019,Alm. Salg,171,3626,5,2020,
-661,Ejerlejlighed,"Nørregade 44, 2. tv",7500, Holstebro,9400000 ,01-01-2019,Alm. Salg,74,127027,2,1909,
-661,Ejerlejlighed,"Nørregade 44, 2. th",7500, Holstebro,9400000 ,01-01-2019,Alm. Salg,80,117500,2,1909,
-661,Ejerlejlighed,"Nørregade 44, 1. th",7500, Holstebro,9400000 ,01-01-2019,Alm. Salg,80,117500,2,1909,
-661,Ejerlejlighed,"Nørregade 44, 3. th",7500, Holstebro,9400000 ,01-01-2019,Alm. Salg,75,125333,2,1909,
-661,Ejerlejlighed,"Nørregade 44, 1. tv",7500, Holstebro,9400000 ,01-01-2019,Alm. Salg,74,127027,2,1909,
-661,Ejerlejlighed,"Nygade 2, st",7500, Holstebro,9400000 ,01-01-2019,Alm. Salg,111,84685,4,1909,
-661,Ejerlejlighed,"Nygade 2, 1",7500, Holstebro,9400000 ,01-01-2019,Alm. Salg,123,76423,3,1909,
-661,Ejerlejlighed,"Nygade 2, 2",7500, Holstebro,9400000 ,01-01-2019,Alm. Salg,99,94949,3,1909,
-661,Ejerlejlighed,"Nørregade 44, 3. tv",7500, Holstebro,9400000 ,01-01-2019,Alm. Salg,69,136232,2,1909,
 661,Villa,Tingager Enge 18,7500, Holstebro,895000 ,01-01-2019,Alm. Salg,182,4918,6,2021,-10%
 661,Villa,Under Egen 1,7500, Holstebro,2800000 ,31-12-2018,Alm. Salg,204,13725,7,2009,-7%
 661,Villa,Tingagerparken 21,7500, Holstebro,700000 ,31-12-2018,Alm. Salg,170,4118,6,2019,
@@ -4062,14 +3988,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Snerlevej 13,7500, Holstebro,1800000 ,24-12-2018,Alm. Salg,153,11765,3,2021,
 661,Villa,Malurten 19,7500, Holstebro,980000 ,22-12-2018,Alm. Salg,156,6282,6,1964,
 661,Villa,Orion 54,7500, Holstebro,1500000 ,22-12-2018,Alm. Salg,174,8621,5,2017,
-661,Ejerlejlighed,"Ved Vesterport 2, 1",7500, Holstebro,600000 ,20-12-2018,Alm. Salg,42,14286,2,1903,
-661,Ejerlejlighed,"Ved Vesterport 2, st",7500, Holstebro,600000 ,20-12-2018,Alm. Salg,42,14286,2,1903,
-661,Ejerlejlighed,"Skolegade 40, st. th",7500, Holstebro,600000 ,20-12-2018,Alm. Salg,53,11321,2,1903,
-661,Ejerlejlighed,"Skolegade 40, 1. th",7500, Holstebro,600000 ,20-12-2018,Alm. Salg,68,8824,2,1903,
-661,Ejerlejlighed,"Skolegade 40, 1. tv",7500, Holstebro,600000 ,20-12-2018,Alm. Salg,64,9375,3,1903,
-661,Ejerlejlighed,"Skolegade 40, 2. th",7500, Holstebro,600000 ,20-12-2018,Alm. Salg,46,13043,2,1903,
-661,Ejerlejlighed,"Skolegade 40, 2. tv",7500, Holstebro,600000 ,20-12-2018,Alm. Salg,59,10169,2,1903,
-661,Ejerlejlighed,"Skolegade 40, 1. mf",7500, Holstebro,600000 ,20-12-2018,Alm. Salg,44,13636,2,1903,
 661,Villa,Åbrinken 14,7570, Vemb,2050000 ,20-12-2018,Alm. Salg,177,11582,5,2008,-9%
 661,Rækkehus,Gl. Hornshøjvej 18A,7500, Holstebro,1950000 ,19-12-2018,Alm. Salg,118,16525,4,2019,
 661,Villa,Ellehammersvej 3,7500, Holstebro,1402500 ,19-12-2018,Fam. Salg,149,9413,5,1973,
@@ -4130,10 +4048,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Sørvadvej 30,7500, Holstebro,2000000 ,29-11-2018,Alm. Salg,281,7117,5,1973,-8%
 661,Rækkehus,Under Hvidtjørnen 39,7500, Holstebro,2350000 ,28-11-2018,Alm. Salg,146,16096,5,2018,
 661,Rækkehus,Vadet 7,7500, Holstebro,1625000 ,28-11-2018,Fam. Salg,110,14773,5,2014,
-661,Ejerlejlighed,Sevelvej 75,7830, Vinderup,900000 ,28-11-2018,Alm. Salg,50,18000,2,1970,
 661,Villa,Ellehammersvej 71,7500, Holstebro,1730000 ,28-11-2018,Alm. Salg,150,11533,4,1973,-3%
 661,Villa,Kobberupvej 46,7500, Holstebro,2051000 ,28-11-2018,Alm. Salg,157,13064,5,1989,-2%
-661,Villa,Sevelvej 75,7830, Vinderup,900000 ,28-11-2018,Alm. Salg,253,3557,7,0,
 661,Villa,Enghaven 19,6990, Ulfborg,875000 ,28-11-2018,Alm. Salg,174,5029,7,1973,-2%
 661,Rækkehus,Anna Anchers Vej 133,7500, Holstebro,1245000 ,27-11-2018,Alm. Salg,91,13681,4,1988,
 661,Villa,Viborgvej 327,7830, Vinderup,650000 ,27-11-2018,Auktion,272,2390,9,1955,
@@ -4510,16 +4426,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Knud Aggers Vej 48,7500, Holstebro,1300000 ,20-06-2018,Andet,138,9420,5,2000,
 661,Villa,Nørrealle 11,7570, Vemb,735000 ,20-06-2018,Alm. Salg,168,4375,7,1959,
 661,Rækkehus,Gl Struervej 32C,7500, Holstebro,1900000 ,19-06-2018,Alm. Salg,98,19388,3,2011,
-661,Ejerlejlighed,"Møllevej 2, st. th",7830, Vinderup,881000 ,19-06-2018,Alm. Salg,42,20976,2,1890,
-661,Ejerlejlighed,"Møllevej 2, 1",7830, Vinderup,881000 ,19-06-2018,Alm. Salg,110,8009,4,1890,
-661,Ejerlejlighed,"Møllevej 2, st. tv",7830, Vinderup,881000 ,19-06-2018,Alm. Salg,60,14683,3,1890,
-661,Ejerlejlighed,"Nørregade 15, st",7830, Vinderup,881000 ,19-06-2018,Alm. Salg,75,11747,2,1890,
-661,Ejerlejlighed,"Nørregade 15, 1",7830, Vinderup,881000 ,19-06-2018,Alm. Salg,92,9576,3,1890,
-661,Ejerlejlighed,Brogårdsvej 7,7500, Holstebro,2150000 ,19-06-2018,Alm. Salg,91,23626,3,1989,
-661,Ejerlejlighed,"Sønderlandsgade 13, 1",7500, Holstebro,2150000 ,19-06-2018,Alm. Salg,79,27215,3,1915,
-661,Ejerlejlighed,"Sønderlandsgade 13, 2",7500, Holstebro,2150000 ,19-06-2018,Alm. Salg,70,30714,3,1915,
 661,Ejerlejlighed,"Doktorvænget 41, 2. th",7500, Holstebro,695000 ,19-06-2018,Alm. Salg,87,7989,4,1963,
-661,Villa,Danmarksgade 34,7500, Holstebro,4500000 ,19-06-2018,Alm. Salg,44,102273,1,1904,
 661,Villa,Nørhedevej 6,6990, Ulfborg,355000 ,19-06-2018,Alm. Salg,94,3777,3,1962,-5%
 661,Villa,Estrupvej 14,7500, Holstebro,1850000 ,19-06-2018,Alm. Salg,172,10756,6,1976,-7%
 661,Villa,Bjertparken 10,7830, Vinderup,1500000 ,19-06-2018,Fam. Salg,232,6466,6,2009,
@@ -4776,9 +4683,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Søparken 67,6990, Ulfborg,322000 ,22-03-2018,Alm. Salg,202,1594,6,2019,
 661,Villa,Grønlandsvej 2,7500, Holstebro,1200000 ,21-03-2018,Alm. Salg,92,13043,3,1940,
 661,Villa,Lægårdvej 26,7500, Holstebro,2250000 ,21-03-2018,Alm. Salg,165,13636,6,1917,-9%
-661,Rækkehus,Folden 58,7500, Holstebro,1850000 ,20-03-2018,Alm. Salg,124,14919,4,2011,-2%
 661,Villa,Bygvænget 30,7500, Holstebro,780762 ,20-03-2018,Andet,154,5070,5,1969,
-661,Villa,Særkærparken 52,7500, Holstebro,1850000 ,20-03-2018,Alm. Salg,192,9635,6,1971,-7%
 661,Villa,Hvedevænget 13,7500, Holstebro,1810000 ,20-03-2018,Alm. Salg,223,8117,7,1970,5%
 661,Rækkehus,Anlægsvej 2A,7830, Vinderup,950000 ,19-03-2018,Alm. Salg,113,8407,4,2020,
 661,Rækkehus,Anlægsvej 4B,7830, Vinderup,170000 ,19-03-2018,Andet,113,1504,4,2020,
@@ -5191,11 +5096,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Rækkehus,Under Kastanien 18,7500, Holstebro,2101000 ,28-09-2017,Alm. Salg,140,15007,4,2018,
 661,Villa,Agerbækvej 5,7500, Holstebro,815000 ,28-09-2017,Alm. Salg,75,10867,4,1957,-12%
 661,Villa,Mosekrogen 9,7830, Vinderup,898000 ,28-09-2017,Alm. Salg,184,4880,7,1969,
-661,Ejerlejlighed,"Nørregade 53, 2. th",7500, Holstebro,11700000 ,27-09-2017,Alm. Salg,64,182813,2,1880,
-661,Ejerlejlighed,"Nørregade 53, 1",7500, Holstebro,11700000 ,27-09-2017,Alm. Salg,100,117000,3,1880,
-661,Ejerlejlighed,"Nørregade 53, 2. tv",7500, Holstebro,11700000 ,27-09-2017,Alm. Salg,75,156000,2,1880,
-661,Ejerlejlighed,"Bisgårdgade 4, 2",7500, Holstebro,11700000 ,27-09-2017,Alm. Salg,135,86667,4,1880,
-661,Ejerlejlighed,"Bisgårdgade 4, 1. tv",7500, Holstebro,11700000 ,27-09-2017,Alm. Salg,114,102632,2,1880,
 661,Villa,Hirsevænget 2,6990, Ulfborg,1385000 ,27-09-2017,Alm. Salg,142,9754,6,1997,-5%
 661,Villa,Stabyvej 16,6990, Ulfborg,565000 ,27-09-2017,Alm. Salg,119,4748,4,1949,-5%
 661,Ejerlejlighed,"Kirkebyvej 4, 1",6990, Ulfborg,600000 ,26-09-2017,Alm. Salg,225,2667,6,1942,
@@ -5518,11 +5418,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Rækkehus,Holbergsvej 18,7500, Holstebro,1030000 ,10-05-2017,Alm. Salg,95,10842,4,1916,-6%
 661,Villa,Lægårdvej 48,7500, Holstebro,1787500 ,10-05-2017,Alm. Salg,188,9508,5,1932,-19%
 661,Villa,Hyrdinden 7,7500, Holstebro,4100000 ,10-05-2017,Alm. Salg,217,18894,5,2008,
-661,Ejerlejlighed,"Dybbølsgade 2, st. th",7500, Holstebro,1475000 ,09-05-2017,Alm. Salg,22,67045,1,1920,
-661,Ejerlejlighed,"Dybbølsgade 2, st. tv",7500, Holstebro,1475000 ,09-05-2017,Alm. Salg,22,67045,1,1920,
-661,Ejerlejlighed,"Dybbølsgade 2, 1. tv",7500, Holstebro,1475000 ,09-05-2017,Alm. Salg,45,32778,1,1920,
-661,Ejerlejlighed,"Dybbølsgade 2, 1. th",7500, Holstebro,1475000 ,09-05-2017,Alm. Salg,33,44697,1,1920,
-661,Ejerlejlighed,"Struervej 37, 1",7500, Holstebro,1475000 ,09-05-2017,Alm. Salg,58,25431,2,1920,
 661,Villa,Kløvermarken 21,7500, Holstebro,1860000 ,09-05-2017,Alm. Salg,129,14419,5,1966,-4%
 661,Villa,Hailkjærvej 11,7830, Vinderup,200000 ,09-05-2017,Alm. Salg,210,952,5,1900,-72%
 661,Villa,Under Egen 35,7500, Holstebro,2485000 ,09-05-2017,Alm. Salg,160,15531,6,2008,-3%
@@ -5589,7 +5484,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Brorsonsvej 3,7500, Holstebro,800000 ,11-04-2017,Alm. Salg,100,8000,3,1962,-11%
 661,Rækkehus,Staudehaverne 14,7500, Holstebro,187500 ,10-04-2017,Alm. Salg,143,1311,5,2017,
 661,Villa,Slåenvej 106,7500, Holstebro,2020000 ,10-04-2017,Alm. Salg,171,11813,6,1980,
-661,Villa,Platanvej 3,7500, Holstebro,2775000 ,10-04-2017,Alm. Salg,107,25935,4,1966,
 661,Villa,Under Hvidtjørnen 18,7500, Holstebro,541000 ,10-04-2017,Alm. Salg,182,2973,7,2017,
 661,Villa,Under Rødtjørnen 10,7500, Holstebro,566000 ,10-04-2017,Alm. Salg,190,2979,6,2021,
 661,Rækkehus,Skovstjernen 3,7500, Holstebro,1745000 ,09-04-2017,Alm. Salg,111,15721,4,2002,
@@ -5849,9 +5743,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Humlevænget 19,7570, Vemb,1400000 ,02-01-2017,Alm. Salg,190,7368,6,1979,
 661,Ejerlejlighed,"Doktorvænget 3, 2. tv",7500, Holstebro,760000 ,31-12-2016,Fam. Salg,87,8736,4,1963,
 661,Villa,Hornshøjparken 57,7500, Holstebro,1275000 ,29-12-2016,Alm. Salg,102,12500,3,1983,-6%
-661,Ejerlejlighed,"Rådhusstræde 1B, st",7500, Holstebro,10875000 ,28-12-2016,Alm. Salg,92,118207,3,1920,
-661,Ejerlejlighed,"Nørregade 21, 2",7500, Holstebro,10875000 ,28-12-2016,Alm. Salg,91,119505,3,1920,
-661,Ejerlejlighed,"Nørregade 21, 1",7500, Holstebro,10875000 ,28-12-2016,Alm. Salg,98,110969,2,1920,
 661,Villa,Broagervej 51,7500, Holstebro,957000 ,28-12-2016,Alm. Salg,139,6885,4,1963,
 661,Ejerlejlighed,"Søndergade 3, 2",7830, Vinderup,75000 ,27-12-2016,Alm. Salg,148,507,5,1911,
 661,Villa,Niels Steensens Vej 5,7500, Holstebro,1535000 ,22-12-2016,Alm. Salg,128,11992,4,1970,-1%
@@ -6356,11 +6247,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Købmandsgade 18,7500, Holstebro,482000 ,31-05-2016,Alm. Salg,165,2921,6,2018,
 661,Villa,Vesterlund 60,7830, Vinderup,1575000 ,30-05-2016,Alm. Salg,128,12305,4,1973,-1%
 661,Villa,Viborgvej 237A,7500, Holstebro,575000 ,30-05-2016,Fam. Salg,230,2500,7,1960,
-661,Rækkehus,Parkvej 84,7500, Holstebro,595000 ,29-05-2016,Alm. Salg,57,10439,1,1977,
 661,Villa,Kabbelejevej 10,7500, Holstebro,1906000 ,29-05-2016,Alm. Salg,140,13614,5,1970,51%
 661,Villa,Viborgvej 322,7830, Vinderup,40000 ,29-05-2016,Alm. Salg,68,588,3,1957,
 661,Villa,Hellesvej 10,7830, Vinderup,570000 ,29-05-2016,Alm. Salg,116,4914,6,1969,-4%
-661,Villa,Hvamvej 21,7500, Holstebro,595000 ,29-05-2016,Alm. Salg,237,2511,6,1906,
 661,Villa,Hailkjærvej 13,7830, Vinderup,180000 ,28-05-2016,Alm. Salg,222,811,8,2018,
 661,Rækkehus,H.Drachmanns Vej 5,7500, Holstebro,750000 ,26-05-2016,Alm. Salg,61,12295,3,1989,
 661,Rækkehus,Elkjærvej 36D,7500, Holstebro,1750000 ,25-05-2016,Alm. Salg,117,14957,4,2013,-4%
@@ -6374,9 +6263,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Toften 3,7500, Holstebro,1235000 ,21-05-2016,Alm. Salg,120,10292,4,1964,
 661,Ejerlejlighed,Helgolandsgade 29A,7500, Holstebro,850000 ,19-05-2016,Alm. Salg,89,9551,3,1902,-5%
 661,Rækkehus,Jens Søndergaards Vej 40,7500, Holstebro,1360000 ,18-05-2016,Alm. Salg,101,13465,4,2001,-3%
-661,Ejerlejlighed,"Jeppe Schous Gade 8, 1. mf",7500, Holstebro,1500000 ,18-05-2016,Alm. Salg,100,15000,3,1989,1%
 661,Villa,Vestervang 6,7500, Holstebro,2195000 ,18-05-2016,Alm. Salg,83,26446,3,1940,
-661,Villa,Vald Poulsens Vej 34,7500, Holstebro,1500000 ,18-05-2016,Alm. Salg,158,9494,6,1973,-6%
 661,Villa,Lægårdvej 120,7500, Holstebro,825000 ,18-05-2016,Alm. Salg,137,6022,5,1963,-3%
 661,Villa,Harald Damtofts Vej 165,7500, Holstebro,925000 ,18-05-2016,Fam. Salg,155,5968,6,1996,
 661,Villa,Viborgvej 123,7500, Holstebro,730000 ,18-05-2016,Alm. Salg,172,4244,5,1931,-5%
@@ -6458,7 +6345,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Kusken 5,7500, Holstebro,512000 ,19-04-2016,Alm. Salg,141,3631,5,2016,
 661,Villa,Havrevænget 10,7500, Holstebro,770000 ,18-04-2016,Fam. Salg,163,4724,6,1969,
 661,Villa,Frejasvej 8,7500, Holstebro,1650000 ,18-04-2016,Alm. Salg,221,7466,6,1910,-5%
-661,Rækkehus,Skivevej 36A,7500, Holstebro,2940000 ,17-04-2016,Alm. Salg,58,50690,2,1953,
 661,Villa,Parkvej 148,7500, Holstebro,1040000 ,17-04-2016,Alm. Salg,111,9369,4,1969,-11%
 661,Villa,Skolegade 7,6990, Ulfborg,866667 ,17-04-2016,Alm. Salg,127,6824,4,1931,
 661,Villa,Lægårdvej 26,7500, Holstebro,1470000 ,15-04-2016,Alm. Salg,165,8909,6,1917,-13%
@@ -7085,14 +6971,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Smedegårdvej 27,7500, Holstebro,2000000 ,25-06-2015,Alm. Salg,224,8929,8,1927,-5%
 661,Rækkehus,Tjørnevej 139,7500, Holstebro,1800000 ,24-06-2015,Alm. Salg,126,14286,5,1984,-5%
 661,Rækkehus,Ejnar Mikkelsens Vej 69,7500, Holstebro,745000 ,24-06-2015,Alm. Salg,91,8187,4,1978,
-661,Ejerlejlighed,"Sysselting 5, kl",7500, Holstebro,1003500 ,24-06-2015,Andet,37,27122,2,1925,
-661,Ejerlejlighed,"Sysselting 5, st",7500, Holstebro,1003500 ,24-06-2015,Andet,68,14757,3,1925,
-661,Ejerlejlighed,"Sysselting 5, 1",7500, Holstebro,1003500 ,24-06-2015,Andet,50,20070,2,1925,
-661,Ejerlejlighed,"Slugten 18, st. th",7500, Holstebro,1003500 ,24-06-2015,Andet,53,18934,2,1936,
-661,Ejerlejlighed,"Slugten 18, st. tv",7500, Holstebro,1003500 ,24-06-2015,Andet,47,21351,2,1936,
-661,Ejerlejlighed,"Slugten 18, 1. th",7500, Holstebro,1003500 ,24-06-2015,Andet,53,18934,2,1936,
-661,Ejerlejlighed,"Slugten 18, 2",7500, Holstebro,1003500 ,24-06-2015,Andet,43,23337,1,1936,
-661,Ejerlejlighed,"Slugten 18, 1. tv",7500, Holstebro,1003500 ,24-06-2015,Andet,47,21351,2,1936,
 661,Ejerlejlighed,Niels Kjeldsens Vej 20E,7500, Holstebro,258000 ,24-06-2015,Alm. Salg,66,3909,3,1970,
 661,Villa,Mejrup Skolevej 19,7500, Holstebro,975000 ,24-06-2015,Alm. Salg,103,9466,4,1964,
 661,Rækkehus,Mølleparken 7,7500, Holstebro,1516313 ,23-06-2015,Fam. Salg,140,10831,4,1986,
@@ -7201,11 +7079,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Egetoften 28,7500, Holstebro,558000 ,17-05-2015,Alm. Salg,168,3321,5,2016,
 661,Villa,Händelsvej 22,7500, Holstebro,1845000 ,16-05-2015,Alm. Salg,154,11981,6,1977,
 661,Rækkehus,Frugthaverne 6,7500, Holstebro,1955000 ,14-05-2015,Alm. Salg,133,14699,5,2015,
-661,Rækkehus,Under Kastanien 24,7500, Holstebro,2325000 ,12-05-2015,Alm. Salg,153,15196,4,2011,-2%
 661,Villa,Krunderupparken 18,7500, Holstebro,655000 ,12-05-2015,Alm. Salg,133,4925,5,1972,-6%
 661,Villa,Hornshøjparken 109,7500, Holstebro,1750000 ,12-05-2015,Alm. Salg,160,10938,5,1984,-5%
 661,Villa,Flintøksen 45,7500, Holstebro,2330000 ,12-05-2015,Alm. Salg,161,14472,6,2006,-3%
-661,Villa,Ågade 3,7500, Holstebro,2325000 ,12-05-2015,Alm. Salg,153,15196,4,1929,-7%
 661,Villa,Harald Damtofts Vej 73,7500, Holstebro,1260000 ,12-05-2015,Alm. Salg,129,9767,5,1980,-3%
 661,Rækkehus,Gl. Hornshøjvej 1C,7500, Holstebro,1142500 ,11-05-2015,Alm. Salg,92,12418,4,1984,-4%
 661,Rækkehus,Poppel Alle 70,7500, Holstebro,1345000 ,11-05-2015,Alm. Salg,102,13186,5,1966,
@@ -7294,10 +7170,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Rækkehus,Griegsvej 132,7500, Holstebro,975000 ,11-04-2015,Alm. Salg,111,8784,4,1974,
 661,Ejerlejlighed,"Vesterbrogade 42, st",7500, Holstebro,5500000 ,11-04-2015,Alm. Salg,124,44355,3,1939,
 661,Villa,H C Lumbyes Vej 38,7500, Holstebro,1670000 ,11-04-2015,Alm. Salg,171,9766,5,1976,-7%
-661,Ejerlejlighed,"Kielgasten 15, kl",7500, Holstebro,1475000 ,10-04-2015,Alm. Salg,21,70238,1,1906,-26%
-661,Ejerlejlighed,"Kielgasten 15, 1",7500, Holstebro,1475000 ,10-04-2015,Alm. Salg,87,16954,3,1906,-26%
-661,Ejerlejlighed,"Østergade 28, st",7500, Holstebro,1475000 ,10-04-2015,Alm. Salg,83,17771,3,1906,-26%
-661,Ejerlejlighed,"Østergade 28, 2",7500, Holstebro,1475000 ,10-04-2015,Alm. Salg,79,18671,2,1906,-26%
 661,Rækkehus,Haydnsvej 18,7500, Holstebro,500000 ,09-04-2015,Fam. Salg,110,4545,4,1979,
 661,Rækkehus,Diget 7,7500, Holstebro,1995000 ,09-04-2015,Alm. Salg,150,13300,5,2015,
 661,Villa,Under Egen 15,7500, Holstebro,3200000 ,09-04-2015,Alm. Salg,187,17112,5,2013,-2%
@@ -7314,7 +7186,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Skrænten 26,7830, Vinderup,1260000 ,30-03-2015,Alm. Salg,161,7826,6,1999,
 661,Villa,Wagnersvej 212,7500, Holstebro,2035000 ,30-03-2015,Alm. Salg,153,13301,6,1989,
 661,Villa,Bygaden 34,7570, Vemb,800000 ,30-03-2015,Alm. Salg,217,3687,7,1982,-11%
-661,Villa,Holmegade 5C,6990, Ulfborg,800000 ,30-03-2015,Alm. Salg,117,6838,4,1900,-11%
 661,Villa,Vilhelmsborgvej 15,7500, Holstebro,195000 ,29-03-2015,Alm. Salg,95,2053,6,1950,
 661,Villa,Anna Anchers Vej 168,7500, Holstebro,2200000 ,29-03-2015,Alm. Salg,148,14865,5,1994,
 661,Villa,Fiilsvej 20,7500, Holstebro,1899000 ,29-03-2015,Alm. Salg,156,12173,6,1967,-2%
@@ -7439,10 +7310,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Stendisvej 6,7830, Vinderup,495000 ,04-02-2015,Alm. Salg,177,2605,7,1900,
 661,Rækkehus,Meldgårdvej 22,7500, Holstebro,1120000 ,03-02-2015,Alm. Salg,91,12308,4,1991,-3%
 661,Rækkehus,Folden 66,7500, Holstebro,725000 ,03-02-2015,Alm. Salg,110,6591,4,2017,-64%
-661,Ejerlejlighed,Ahlgade 1,7500, Holstebro,3040000 ,03-02-2015,Alm. Salg,122,24918,7,1880,-8%
-661,Ejerlejlighed,Østergade 33C,7500, Holstebro,3040000 ,03-02-2015,Alm. Salg,70,43429,1,1880,-8%
-661,Ejerlejlighed,Østergade 33A,7500, Holstebro,3040000 ,03-02-2015,Alm. Salg,95,32000,4,1880,-8%
-661,Ejerlejlighed,Østergade 33B,7500, Holstebro,3040000 ,03-02-2015,Alm. Salg,141,21560,5,1880,-8%
 661,Villa,Knud Rasmussens Vej 27,7500, Holstebro,534464 ,03-02-2015,Fam. Salg,112,4772,5,1960,
 661,Villa,Porsevej 5,7500, Holstebro,1600000 ,02-02-2015,Andet,206,7767,6,2015,-6%
 661,Rækkehus,Lavhedevej 31,7500, Holstebro,1225000 ,01-02-2015,Alm. Salg,105,11667,4,1978,-9%
@@ -7463,11 +7330,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Istedgade 41,7500, Holstebro,400000 ,21-01-2015,Alm. Salg,118,3390,4,1934,
 661,Villa,Poppel Alle 119,7500, Holstebro,2135000 ,20-01-2015,Alm. Salg,191,11178,7,1969,
 661,Villa,J Skjoldborgs Vej 20,7500, Holstebro,1010000 ,20-01-2015,Alm. Salg,100,10100,4,1960,-15%
-661,Rækkehus,Trekronervej 10,7500, Holstebro,1000000 ,19-01-2015,Fam. Salg,82,12195,3,1955,
 661,Ejerlejlighed,"Jeppe Schous Gade 8, 2. th",7500, Holstebro,1950000 ,19-01-2015,Alm. Salg,140,13929,4,1989,
 661,Villa,Særkærparken 69,7500, Holstebro,1520000 ,19-01-2015,Alm. Salg,134,11343,5,1971,-4%
 661,Villa,Søndergade 22,7570, Vemb,107000 ,19-01-2015,Alm. Salg,162,660,6,1936,-64%
-661,Villa,Elkjærvej 47A,7500, Holstebro,1000000 ,19-01-2015,Alm. Salg,137,7299,5,1977,
 661,Villa,Egetoften 24,7500, Holstebro,481500 ,19-01-2015,Alm. Salg,166,2901,5,2016,
 661,Villa,Carl Nielsens Vej 27,7500, Holstebro,1150000 ,18-01-2015,Alm. Salg,145,7931,5,1975,-4%
 661,Villa,Langgade 77,7500, Holstebro,450000 ,18-01-2015,Alm. Salg,96,4688,4,1962,-24%
@@ -7906,8 +7771,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Rækkehus,Knud Aggers Vej 21,7500, Holstebro,1466500 ,26-05-2014,Alm. Salg,105,13967,4,2003,-8%
 661,Villa,Naurvej 26,7500, Holstebro,52000 ,26-05-2014,Alm. Salg,96,542,4,1910,
 661,Rækkehus,Anna Anchers Vej 63,7500, Holstebro,1395000 ,25-05-2014,Alm. Salg,109,12798,4,1997,
-661,Rækkehus,Baldersvej 4,7500, Holstebro,900000 ,25-05-2014,Alm. Salg,88,10227,4,1965,-10%
-661,Villa,Tværvej 3,7500, Holstebro,900000 ,25-05-2014,Alm. Salg,189,4762,3,2015,
 661,Villa,Grønlandsvej 18,7500, Holstebro,2037500 ,25-05-2014,Alm. Salg,149,13674,4,1940,-10%
 661,Rækkehus,Teglparken 26,7500, Holstebro,250000 ,22-05-2014,Alm. Salg,115,2174,5,2014,
 661,Villa,Skovbrynet 5,7830, Vinderup,323895 ,22-05-2014,Alm. Salg,146,2218,4,1959,-19%
@@ -7998,16 +7861,11 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Østervang 25,7500, Holstebro,988524 ,07-04-2014,Andet,122,8103,5,1954,
 661,Rækkehus,Bachsvej 170,7500, Holstebro,1100000 ,06-04-2014,Alm. Salg,108,10185,4,1977,-8%
 661,Rækkehus,Pile Alle 40,7500, Holstebro,1150000 ,06-04-2014,Alm. Salg,82,14024,3,1963,-4%
-661,Ejerlejlighed,Langelinie 9,7500, Holstebro,750000 ,06-04-2014,Fam. Salg,135,5556,3,1960,
-661,Ejerlejlighed,Tværvej 5,7500, Holstebro,750000 ,06-04-2014,Fam. Salg,115,6522,4,1960,
 661,Villa,Fr Poulsens Vej 5,7500, Holstebro,1880000 ,06-04-2014,Alm. Salg,160,11750,5,1934,
 661,Villa,Snerlevej 32,7500, Holstebro,2050000 ,06-04-2014,Alm. Salg,208,9856,6,1962,-11%
 661,Villa,Nybovej 20,7500, Holstebro,1390000 ,04-04-2014,Alm. Salg,135,10296,3,1968,-11%
-661,Rækkehus,Teglparken 7,7500, Holstebro,250000 ,03-04-2014,Alm. Salg,115,2174,5,2014,
 661,Villa,Ewaldsvej 4,7500, Holstebro,1787500 ,03-04-2014,Alm. Salg,130,13750,6,1925,-5%
-661,Villa,Kløvermarken 21,7500, Holstebro,1500000 ,03-04-2014,Alm. Salg,129,11628,5,1966,-6%
 661,Villa,Gl. Hornshøjvej 7,7500, Holstebro,1600000 ,03-04-2014,Alm. Salg,80,20000,3,1934,-6%
-661,Villa,Tinkerdalsvej 10,7500, Holstebro,250000 ,03-04-2014,Fam. Salg,160,1563,5,2016,
 661,Villa,Naltoftevej 25B,7500, Holstebro,1836000 ,03-04-2014,Alm. Salg,236,7780,7,1989,-3%
 661,Villa,Tjørnevej 79,7500, Holstebro,700000 ,02-04-2014,Fam. Salg,127,5512,5,1979,
 661,Villa,Kabbelejevej 1A,7500, Holstebro,1375000 ,02-04-2014,Andet,137,10036,5,1975,-5%
@@ -8110,16 +7968,13 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Rækkehus,Vadet 42,7500, Holstebro,1925000 ,25-02-2014,Alm. Salg,150,12833,5,2014,
 661,Villa,Hovedgaden 12,7500, Holstebro,350000 ,25-02-2014,Alm. Salg,118,2966,5,1900,-29%
 661,Villa,Østervang 4,7830, Vinderup,825000 ,25-02-2014,Alm. Salg,131,6298,5,1971,-8%
-661,Rækkehus,Prins Buris Vej 2G,7500, Holstebro,1535000 ,23-02-2014,Alm. Salg,90,17056,3,2014,
 661,Villa,Mysundevej 19,7500, Holstebro,575000 ,23-02-2014,Fam. Salg,92,6250,5,1947,
-661,Villa,Vølundsvej 3,7500, Holstebro,1535000 ,23-02-2014,Alm. Salg,195,7872,6,1969,-7%
 661,Villa,Skolegade 17,6990, Ulfborg,1325000 ,22-02-2014,Alm. Salg,51,25980,3,1960,-9%
 661,Villa,Vindelevgård 135,7830, Vinderup,658685 ,22-02-2014,Andet,185,3560,8,1990,
 661,Rækkehus,Frugthaverne 31,7500, Holstebro,791264 ,20-02-2014,Alm. Salg,150,5275,5,2014,
 661,Villa,P.S.Krøyers Vej 31,7500, Holstebro,2050000 ,20-02-2014,Alm. Salg,140,14643,5,1997,-1%
 661,Villa,Idom Kirkevej 29,7500, Holstebro,1800000 ,20-02-2014,Alm. Salg,214,8411,5,1947,-5%
 661,Rækkehus,Tværpilen 19,7500, Holstebro,1875000 ,19-02-2014,Alm. Salg,112,16741,4,2015,
-661,Villa,Helgolandsgade 29C,7500, Holstebro,2190000 ,19-02-2014,Alm. Salg,140,15643,5,1902,
 661,Rækkehus,Kløvermarken 6,7500, Holstebro,1595000 ,18-02-2014,Alm. Salg,101,15792,4,1997,-3%
 661,Villa,Schaumburgvej 12,7500, Holstebro,300000 ,18-02-2014,Alm. Salg,92,3261,4,1920,-45%
 661,Villa,Kusken 52,7500, Holstebro,512000 ,18-02-2014,Alm. Salg,165,3103,6,2014,
@@ -8214,11 +8069,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Toften 15,7830, Vinderup,875000 ,15-12-2013,Alm. Salg,160,5469,5,1963,
 661,Villa,Wagnersvej 80,7500, Holstebro,2395000 ,15-12-2013,Alm. Salg,166,14428,4,1997,
 661,Villa,Bakken 2,7500, Holstebro,2165000 ,12-12-2013,Alm. Salg,138,15688,4,2005,-4%
-661,Ejerlejlighed,Bredgade 13A. th,6990, Ulfborg,600000 ,11-12-2013,Auktion,61,9836,2,1880,
-661,Ejerlejlighed,Bredgade 13A. tv,6990, Ulfborg,600000 ,11-12-2013,Auktion,61,9836,2,1880,
-661,Ejerlejlighed,"Tømmerslippen 7, 1",6990, Ulfborg,600000 ,11-12-2013,Auktion,129,4651,4,1880,
-661,Ejerlejlighed,"Tømmerslippen 1, 1. tv",6990, Ulfborg,600000 ,11-12-2013,Auktion,98,6122,5,1880,
-661,Ejerlejlighed,"Tømmerslippen 7, st",6990, Ulfborg,600000 ,11-12-2013,Auktion,105,5714,4,1880,
 661,Villa,Særkærparken 67,7500, Holstebro,1600000 ,11-12-2013,Alm. Salg,186,8602,7,1971,
 661,Villa,Mosevej 14,7830, Vinderup,1325000 ,11-12-2013,Alm. Salg,196,6760,4,1963,-7%
 661,Villa,Skovbakken 29,7500, Holstebro,940000 ,10-12-2013,Alm. Salg,111,8468,4,1960,-6%
@@ -8424,8 +8274,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Diget 28,7500, Holstebro,456000 ,27-08-2013,Alm. Salg,128,3563,5,2014,
 661,Rækkehus,Linde Alle 1,7500, Holstebro,1095000 ,26-08-2013,Alm. Salg,120,9125,4,2023,
 661,Ejerlejlighed,"Brogården 11, 2. th",7500, Holstebro,415000 ,26-08-2013,Alm. Salg,33,12576,1,1965,-8%
-661,Ejerlejlighed,"Vestergade 6, 1",7830, Vinderup,300000 ,25-08-2013,Alm. Salg,35,8571,2,1905,-14%
-661,Ejerlejlighed,Sydbanevej 1,7830, Vinderup,300000 ,25-08-2013,Alm. Salg,70,4286,3,1905,-14%
 661,Villa,Bjarkesvej 12,7500, Holstebro,1400000 ,25-08-2013,Alm. Salg,170,8235,6,1965,-12%
 661,Villa,Diget 6,7500, Holstebro,450000 ,25-08-2013,Alm. Salg,192,2344,7,2014,
 661,Rækkehus,Under Linden 46,7500, Holstebro,400000 ,22-08-2013,Alm. Salg,130,3077,4,2014,
@@ -8508,14 +8356,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Virkelyst 1,7500, Holstebro,500000 ,08-07-2013,Alm. Salg,190,2632,6,2013,
 661,Villa,Egevænget 30,7500, Holstebro,422000 ,08-07-2013,Alm. Salg,166,2542,6,2018,
 661,Rækkehus,Baldersvej 35,7500, Holstebro,1085000 ,07-07-2013,Alm. Salg,100,10850,4,1965,-4%
-661,Ejerlejlighed,"Lille Østergade 10, 2. tv",7500, Holstebro,6450000 ,07-07-2013,Alm. Salg,58,111207,1,1900,
-661,Ejerlejlighed,"Skovgyden 2, st. th",7500, Holstebro,6450000 ,07-07-2013,Alm. Salg,72,89583,3,1946,
-661,Ejerlejlighed,"Skovgyden 2, st. tv",7500, Holstebro,6450000 ,07-07-2013,Alm. Salg,72,89583,3,1946,
-661,Ejerlejlighed,"Skovgyden 2, 1. tv",7500, Holstebro,6450000 ,07-07-2013,Alm. Salg,72,89583,3,1946,
-661,Ejerlejlighed,"Skovgyden 2, 1. th",7500, Holstebro,6450000 ,07-07-2013,Alm. Salg,72,89583,3,1946,
-661,Ejerlejlighed,"Lille Østergade 10, 1. tv",7500, Holstebro,6450000 ,07-07-2013,Alm. Salg,71,90845,2,1900,
-661,Ejerlejlighed,"Lille Østergade 10, 2. th",7500, Holstebro,6450000 ,07-07-2013,Alm. Salg,58,111207,1,1900,
-661,Ejerlejlighed,"Lille Østergade 10, 1. th",7500, Holstebro,6450000 ,07-07-2013,Alm. Salg,57,113158,2,1900,
 661,Villa,Bjarkesvej 16,7500, Holstebro,2300000 ,07-07-2013,Alm. Salg,163,14110,4,1965,-4%
 661,Villa,Meltoften 5,7500, Holstebro,465000 ,07-07-2013,Alm. Salg,181,2569,8,2014,
 661,Rækkehus,Poppel Alle 62,7500, Holstebro,975000 ,06-07-2013,Alm. Salg,102,9559,4,1966,-8%
@@ -9007,10 +8847,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Chr Lindes Vej 4,7500, Holstebro,1451000 ,04-11-2012,Alm. Salg,134,10828,5,1969,
 661,Villa,Ahornsvinget 15,7500, Holstebro,2350000 ,04-11-2012,Alm. Salg,194,12113,6,2007,-9%
 661,Ejerlejlighed,"Danmarksgade 8A, 1. tv",7500, Holstebro,933755 ,01-11-2012,Alm. Salg,70,13339,3,1902,
-661,Rækkehus,Straussvej 42,7500, Holstebro,1350000 ,31-10-2012,Alm. Salg,90,15000,4,1982,-3%
 661,Villa,Anemonevej 4,7500, Holstebro,1062500 ,31-10-2012,Fam. Salg,131,8111,4,1961,
 661,Villa,Chr. Schmidtsvej 17,7570, Vemb,70000 ,31-10-2012,Alm. Salg,69,1014,2,1935,
-661,Villa,Linde Alle 2B,7500, Holstebro,1350000 ,31-10-2012,Alm. Salg,161,8385,6,1932,
 661,Villa,Birkevej 14,7830, Vinderup,950000 ,30-10-2012,Alm. Salg,117,8120,4,1965,
 661,Villa,Frugthaverne 32,7500, Holstebro,506000 ,30-10-2012,Alm. Salg,230,2200,7,2013,
 661,Villa,Skolegade 8,7570, Vemb,190000 ,29-10-2012,Alm. Salg,108,1759,4,1932,-16%
@@ -9110,11 +8948,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Lyngbakken 14E,7500, Holstebro,4450000 ,10-09-2012,Alm. Salg,196,22704,5,2010,
 661,Rækkehus,Tommelise 60,7500, Holstebro,3855000 ,09-09-2012,Alm. Salg,124,31089,4,2011,
 661,Rækkehus,Hjulkronen 16,7500, Holstebro,1715000 ,09-09-2012,Alm. Salg,180,9528,4,2006,-2%
-661,Rækkehus,Sirvej 5,7500, Holstebro,230250 ,09-09-2012,Alm. Salg,89,2587,3,1963,
 661,Villa,Grønnevej 16,6990, Ulfborg,400000 ,09-09-2012,Alm. Salg,89,4494,4,1957,
 661,Villa,Munkebuen 7,7500, Holstebro,1219486 ,09-09-2012,Fam. Salg,173,7049,7,2006,
 661,Villa,Skolegade 27,7570, Vemb,541238 ,09-09-2012,Fam. Salg,93,5820,3,1936,
-661,Villa,Sirvej 7,7500, Holstebro,230250 ,09-09-2012,Alm. Salg,82,2808,3,1963,
 661,Villa,Parkvej 198,7500, Holstebro,850000 ,06-09-2012,Fam. Salg,166,5120,6,1972,
 661,Villa,Bygaden 22,7570, Vemb,800000 ,06-09-2012,Alm. Salg,135,5926,3,1991,-10%
 661,Rækkehus,Idom Åvej 4,7500, Holstebro,750000 ,05-09-2012,Alm. Salg,111,6757,3,1900,
@@ -9198,8 +9034,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Diget 31,7500, Holstebro,448000 ,29-07-2012,Alm. Salg,165,2715,6,2013,
 661,Villa,Rosenparken 64,7500, Holstebro,1174576 ,27-07-2012,Fam. Salg,157,7481,6,1986,
 661,Rækkehus,Mølleparken 3,7500, Holstebro,1685000 ,25-07-2012,Alm. Salg,140,12036,2,1986,
-661,Ejerlejlighed,Ulfborg Kirkebyvej 8,6990, Ulfborg,200000 ,25-07-2012,Alm. Salg,238,840,8,1900,
-661,Villa,Vembvej 6,6990, Ulfborg,200000 ,25-07-2012,Alm. Salg,131,1527,5,1900,
 661,Villa,Hornshøjparken 139,7500, Holstebro,1650000 ,25-07-2012,Alm. Salg,125,13200,6,1986,
 661,Rækkehus,Havfruen 9,7500, Holstebro,1600000 ,24-07-2012,Alm. Salg,105,15238,4,2008,-6%
 661,Villa,Suensonsvej 18,7500, Holstebro,1255000 ,24-07-2012,Alm. Salg,110,11409,4,1962,-3%
@@ -9321,7 +9155,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Ormstrupvej 7,7500, Holstebro,1150000 ,24-05-2012,Alm. Salg,146,7877,5,1957,-11%
 661,Villa,Rosenparken 47,7500, Holstebro,199000 ,24-05-2012,Alm. Salg,142,1401,6,2013,
 661,Villa,Viborgvej 331,7830, Vinderup,40400 ,23-05-2012,Auktion,84,481,3,1952,
-661,Villa,Vestergade 3,7830, Vinderup,650000 ,23-05-2012,Alm. Salg,81,8025,3,1920,-6%
 661,Villa,Vald Poulsens Vej 31,7500, Holstebro,1770000 ,23-05-2012,Alm. Salg,163,10859,6,1972,-1%
 661,Villa,Østermarken 11,7500, Holstebro,1587875 ,23-05-2012,Fam. Salg,212,7490,5,1966,
 661,Villa,Østersognsvej 1,6990, Ulfborg,1900000 ,22-05-2012,Alm. Salg,215,8837,4,1935,
@@ -9415,10 +9248,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Egevænget 34,7500, Holstebro,425000 ,01-04-2012,Alm. Salg,152,2796,6,2012,
 661,Villa,Havevej 43,7830, Vinderup,548901 ,31-03-2012,Alm. Salg,100,5489,2,1961,
 661,Villa,Geddalvej 65,7830, Vinderup,200000 ,30-03-2012,Alm. Salg,69,2899,2,0,
-661,Rækkehus,Skolegade 4A,6990, Ulfborg,700000 ,29-03-2012,Alm. Salg,65,10769,3,1956,
 661,Villa,Chr Winthers Vej 81,7500, Holstebro,695000 ,29-03-2012,Andet,183,3798,6,1971,
 661,Villa,Skjernvej 28,7500, Holstebro,725000 ,29-03-2012,Alm. Salg,169,4290,5,1910,
-661,Villa,Skolegade 4,6990, Ulfborg,700000 ,29-03-2012,Alm. Salg,65,10769,3,1956,
 661,Villa,Sveavej 5,7500, Holstebro,1295000 ,29-03-2012,Alm. Salg,175,7400,6,2016,
 661,Villa,Skjoldet 18,7500, Holstebro,407000 ,29-03-2012,Andet,178,2287,5,2014,
 661,Villa,Idrætsvej 19,7500, Holstebro,920000 ,28-03-2012,Auktion,140,6571,5,1971,-38%
@@ -9574,9 +9405,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Parkvej 196,7500, Holstebro,1525000 ,27-12-2011,Alm. Salg,189,8069,6,1969,-10%
 661,Rækkehus,Krattet 5,7500, Holstebro,1850000 ,22-12-2011,Alm. Salg,119,15546,4,2012,
 661,Rækkehus,Ullsgade 7,6990, Ulfborg,325000 ,21-12-2011,Alm. Salg,105,3095,6,1928,
-661,Ejerlejlighed,"Rådhusstræde 1B, st",7500, Holstebro,395000 ,21-12-2011,Fam. Salg,92,4293,3,1920,
-661,Ejerlejlighed,"Nørregade 21, 2",7500, Holstebro,395000 ,21-12-2011,Fam. Salg,91,4341,3,1920,
-661,Ejerlejlighed,"Nørregade 21, 1",7500, Holstebro,395000 ,21-12-2011,Fam. Salg,98,4031,2,1920,
 661,Villa,Sønder Alle 7,7500, Holstebro,1725000 ,21-12-2011,Alm. Salg,130,13269,6,1909,-4%
 661,Villa,Diget 3,7500, Holstebro,454095 ,21-12-2011,Alm. Salg,150,3027,6,2012,
 661,Villa,Skovvej 7,6990, Ulfborg,485000 ,20-12-2011,Alm. Salg,112,4330,4,1975,-2%
@@ -9719,14 +9547,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Rækkehus,Feldinghus 14,7500, Holstebro,900000 ,29-09-2011,Alm. Salg,131,6870,5,1987,
 661,Villa,Liden Kirstens Allé 16,7500, Holstebro,3300000 ,29-09-2011,Alm. Salg,241,13693,7,2006,
 661,Villa,Søbakken 12,7500, Holstebro,865025 ,29-09-2011,Fam. Salg,202,4282,6,1974,
-661,Ejerlejlighed,"Lille Østergade 10, 2. tv",7500, Holstebro,3383552 ,28-09-2011,Alm. Salg,58,58337,1,1900,
-661,Ejerlejlighed,"Skovgyden 2, st. th",7500, Holstebro,3383552 ,28-09-2011,Alm. Salg,72,46994,3,1946,
-661,Ejerlejlighed,"Skovgyden 2, st. tv",7500, Holstebro,3383552 ,28-09-2011,Alm. Salg,72,46994,3,1946,
-661,Ejerlejlighed,"Skovgyden 2, 1. tv",7500, Holstebro,3383552 ,28-09-2011,Alm. Salg,72,46994,3,1946,
-661,Ejerlejlighed,"Skovgyden 2, 1. th",7500, Holstebro,3383552 ,28-09-2011,Alm. Salg,72,46994,3,1946,
-661,Ejerlejlighed,"Lille Østergade 10, 1. tv",7500, Holstebro,3383552 ,28-09-2011,Alm. Salg,71,47656,2,1900,
-661,Ejerlejlighed,"Lille Østergade 10, 2. th",7500, Holstebro,3383552 ,28-09-2011,Alm. Salg,58,58337,1,1900,
-661,Ejerlejlighed,"Lille Østergade 10, 1. th",7500, Holstebro,3383552 ,28-09-2011,Alm. Salg,57,59361,2,1900,
 661,Villa,Slåenvej 74,7500, Holstebro,2150000 ,28-09-2011,Alm. Salg,168,12798,5,1978,-6%
 661,Villa,Skivevej 37,7830, Vinderup,725000 ,28-09-2011,Alm. Salg,115,6304,4,1964,-9%
 661,Villa,Østparken 22,7830, Vinderup,655000 ,28-09-2011,Alm. Salg,137,4781,4,1974,-6%
@@ -9745,13 +9565,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Vembvej 27,6990, Ulfborg,420000 ,19-09-2011,Alm. Salg,130,3231,5,1883,
 661,Rækkehus,Mejdalparken 76,7500, Holstebro,1620000 ,18-09-2011,Alm. Salg,97,16701,4,2004,-4%
 661,Villa,Hvedevænget 8,7500, Holstebro,1575000 ,18-09-2011,Alm. Salg,135,11667,5,1970,-1%
-661,Ejerlejlighed,"Holmegade 1, 1. tv",6990, Ulfborg,2700000 ,15-09-2011,Alm. Salg,94,28723,4,1906,
-661,Ejerlejlighed,"Holmegade 1, 1. th",6990, Ulfborg,2700000 ,15-09-2011,Alm. Salg,95,28421,3,1906,
-661,Ejerlejlighed,"Holmegade 1, 2. tv",6990, Ulfborg,2700000 ,15-09-2011,Alm. Salg,27,100000,2,1906,
-661,Ejerlejlighed,"Holmegade 1, 2. th",6990, Ulfborg,2700000 ,15-09-2011,Alm. Salg,29,93103,2,1906,
-661,Ejerlejlighed,"Harbogade 2, 2",6990, Ulfborg,2700000 ,15-09-2011,Alm. Salg,78,34615,3,1906,
-661,Ejerlejlighed,"Harbogade 2, 1",6990, Ulfborg,2700000 ,15-09-2011,Alm. Salg,78,34615,2,1906,
-661,Villa,Harbogade 2B,6990, Ulfborg,2700000 ,15-09-2011,Alm. Salg,50,54000,2,1906,
 661,Rækkehus,Sveavej 2B,7500, Holstebro,1125000 ,14-09-2011,Alm. Salg,78,14423,3,1986,-6%
 661,Villa,Hornshøjparken 35,7500, Holstebro,956000 ,14-09-2011,Fam. Salg,164,5829,6,1983,
 661,Rækkehus,Chr Lindes Vej 8,7500, Holstebro,1270000 ,13-09-2011,Alm. Salg,102,12451,3,1981,
@@ -9867,13 +9680,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Tophøjvej 6,7830, Vinderup,250000 ,29-06-2011,Alm. Salg,55,4545,2,1964,
 661,Rækkehus,Bachsvej 10A,7500, Holstebro,950000 ,28-06-2011,Alm. Salg,60,15833,3,1984,-5%
 661,Rækkehus,Webersvej 16,7500, Holstebro,205215 ,28-06-2011,Alm. Salg,61,3364,3,1986,
-661,Ejerlejlighed,Bredgade 13A. th,6990, Ulfborg,5970313 ,28-06-2011,Fam. Salg,61,97874,2,1880,
-661,Ejerlejlighed,Bredgade 13A. tv,6990, Ulfborg,5970313 ,28-06-2011,Fam. Salg,61,97874,2,1880,
-661,Ejerlejlighed,"Tømmerslippen 7, 1",6990, Ulfborg,5970313 ,28-06-2011,Fam. Salg,129,46281,4,1880,
-661,Ejerlejlighed,"Tømmerslippen 1, 1. tv",6990, Ulfborg,5970313 ,28-06-2011,Fam. Salg,98,60922,5,1880,
-661,Ejerlejlighed,"Tømmerslippen 7, st",6990, Ulfborg,5970313 ,28-06-2011,Fam. Salg,105,56860,4,1880,
 661,Villa,Lystlundvej 1,7500, Holstebro,3149500 ,28-06-2011,Alm. Salg,197,15987,6,1900,
-661,Villa,Madumvej 24,6990, Ulfborg,5970313 ,28-06-2011,Fam. Salg,118,50596,3,1960,
 661,Villa,Kirkevej 11,7830, Vinderup,5970313 ,28-06-2011,Fam. Salg,90,66337,5,1910,
 661,Villa,Skolevej 2,7570, Vemb,475000 ,27-06-2011,Alm. Salg,116,4095,4,1976,-4%
 661,Villa,Skjoldet 11,7500, Holstebro,503103 ,27-06-2011,Alm. Salg,172,2925,6,2012,
@@ -9975,7 +9782,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Søparken 18,7500, Holstebro,2645000 ,07-05-2011,Alm. Salg,182,14533,6,1998,2%
 661,Rækkehus,Trinbrættet 2,7500, Holstebro,590000 ,05-05-2011,Andet,100,5900,4,2023,
 661,Villa,Haydnsvej 64,7500, Holstebro,878347 ,05-05-2011,Alm. Salg,153,5741,6,1979,
-661,Villa,Fredericiagade 15,7500, Holstebro,1500000 ,05-05-2011,Alm. Salg,110,13636,4,1909,-6%
 661,Villa,Under Linden 15,7500, Holstebro,446000 ,05-05-2011,Alm. Salg,157,2841,6,2011,
 661,Villa,Staudehaverne 4,7500, Holstebro,1835000 ,05-05-2011,Alm. Salg,168,10923,6,2011,
 661,Villa,Kirkevej 9,7830, Vinderup,350000 ,04-05-2011,Alm. Salg,88,3977,3,1911,-18%
@@ -10392,10 +10198,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Vinkelvej 8,6990, Ulfborg,1000000 ,12-10-2010,Alm. Salg,155,6452,5,1929,-8%
 661,Villa,Vangen 6,7500, Holstebro,463000 ,12-10-2010,Alm. Salg,165,2806,6,2012,
 661,Rækkehus,Fuglebakken 28A,7830, Vinderup,525000 ,11-10-2010,Alm. Salg,80,6563,3,1986,
-661,Ejerlejlighed,Munkbrovej 2,7500, Holstebro,2500000 ,10-10-2010,Alm. Salg,160,15625,4,1958,
-661,Ejerlejlighed,Herningvej 102C,7500, Holstebro,2500000 ,10-10-2010,Alm. Salg,80,31250,2,1958,
-661,Ejerlejlighed,Herningvej 102B,7500, Holstebro,2500000 ,10-10-2010,Alm. Salg,110,22727,3,1958,
-661,Ejerlejlighed,Herningvej 102A,7500, Holstebro,2500000 ,10-10-2010,Alm. Salg,110,22727,4,1958,
 661,Rækkehus,Feldinghus 23,7500, Holstebro,1650000 ,07-10-2010,Alm. Salg,107,15421,5,1984,-8%
 661,Rækkehus,Vadet 1,7500, Holstebro,684558 ,07-10-2010,Alm. Salg,112,6112,4,2014,-55%
 661,Rækkehus,Chopinsvej 21,7500, Holstebro,472436 ,06-10-2010,Alm. Salg,87,5430,4,1986,
@@ -10504,12 +10306,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Parkvej 174,7500, Holstebro,1850000 ,18-08-2010,Alm. Salg,165,11212,6,1972,-7%
 661,Villa,Hvamvej 16,7500, Holstebro,625000 ,17-08-2010,Alm. Salg,118,5297,4,1953,
 661,Rækkehus,Mjødurten 12,7500, Holstebro,1690000 ,16-08-2010,Alm. Salg,116,14569,4,2004,-5%
-661,Ejerlejlighed,"Horsstræde 1, 1. 3",7500, Holstebro,25000000 ,15-08-2010,Alm. Salg,1,25000000,1,1770,
-661,Ejerlejlighed,"Horsstræde 1, 1. 2",7500, Holstebro,25000000 ,15-08-2010,Alm. Salg,1,25000000,1,1770,
-661,Ejerlejlighed,"Horsstræde 1, 1. 4",7500, Holstebro,25000000 ,15-08-2010,Alm. Salg,1,25000000,1,1770,
-661,Ejerlejlighed,"Nørregade 3, 2. th",7500, Holstebro,25000000 ,15-08-2010,Alm. Salg,134,186567,4,1770,
-661,Ejerlejlighed,"Nørregade 3A, 2",7500, Holstebro,25000000 ,15-08-2010,Alm. Salg,77,324675,2,1770,
-661,Ejerlejlighed,"Nørregade 3, 2. tv",7500, Holstebro,25000000 ,15-08-2010,Alm. Salg,109,229358,3,1770,
 661,Villa,Ageren 2,7500, Holstebro,475000 ,15-08-2010,Alm. Salg,168,2827,6,2011,
 661,Villa,Lundvej 2,7830, Vinderup,1990000 ,13-08-2010,Alm. Salg,242,8223,8,1936,0%
 661,Rækkehus,Bachsvej 72,7500, Holstebro,1550000 ,12-08-2010,Alm. Salg,140,11071,5,1974,-5%
@@ -11033,14 +10829,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Hyrdinden 3,7500, Holstebro,572499 ,16-12-2009,Alm. Salg,250,2290,7,2010,
 661,Ejerlejlighed,"Lyksborgvej 38, 2. 121",7500, Holstebro,450000 ,15-12-2009,Alm. Salg,44,10227,2,1973,
 661,Villa,Tinsoldaten 2,7500, Holstebro,2875000 ,15-12-2009,Alm. Salg,163,17638,5,2008,
-661,Ejerlejlighed,"Vestergade 18, st. tv",7570, Vemb,1105000 ,14-12-2009,Fam. Salg,68,16250,2,1905,
-661,Ejerlejlighed,"Vestergade 18, st. th",7570, Vemb,1105000 ,14-12-2009,Fam. Salg,61,18115,2,1905,
-661,Ejerlejlighed,"Vestergade 18, 1. th",7570, Vemb,1105000 ,14-12-2009,Fam. Salg,44,25114,2,1905,
-661,Ejerlejlighed,"Vestergade 18, 1. tv",7570, Vemb,1105000 ,14-12-2009,Fam. Salg,44,25114,2,1905,
-661,Ejerlejlighed,Nørregade 17A,7570, Vemb,1105000 ,14-12-2009,Fam. Salg,70,15786,2,1888,
-661,Ejerlejlighed,Nørregade 17B,7570, Vemb,1105000 ,14-12-2009,Fam. Salg,49,22551,2,1888,
-661,Ejerlejlighed,Vestergade 2A,7570, Vemb,1105000 ,14-12-2009,Fam. Salg,85,13000,3,1888,
-661,Ejerlejlighed,Vestergade 2B,7570, Vemb,1105000 ,14-12-2009,Fam. Salg,70,15786,2,1888,
 661,Villa,Vestergade 12,7570, Vemb,400000 ,14-12-2009,Fam. Salg,88,3333,5,1910,
 661,Villa,Bredgade 19,6990, Ulfborg,570000 ,14-12-2009,Alm. Salg,107,5327,3,1910,-4%
 661,Villa,Nautrupvej 30,7830, Vinderup,1250000 ,14-12-2009,Alm. Salg,185,6757,4,1896,-7%
@@ -11055,19 +10843,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Ejerlejlighed,"Nørregade 38, 1",7500, Holstebro,5006575 ,10-12-2009,Alm. Salg,173,28940,6,1917,
 661,Villa,Kaj Munks Vej 9,7500, Holstebro,1050000 ,10-12-2009,Alm. Salg,89,11798,3,1959,
 661,Rækkehus,Mølleparken 21,7500, Holstebro,1535000 ,09-12-2009,Andet,89,17247,3,1986,
-661,Ejerlejlighed,"Danmarksgade 28, st. tv",7500, Holstebro,8853000 ,09-12-2009,Andet,53,167038,2,1900,
-661,Ejerlejlighed,"Danmarksgade 28, st. th",7500, Holstebro,8853000 ,09-12-2009,Andet,44,201205,2,1900,
-661,Ejerlejlighed,"Danmarksgade 28, 1. tv",7500, Holstebro,8853000 ,09-12-2009,Andet,45,196733,2,1900,
-661,Ejerlejlighed,"Danmarksgade 28, 1. th",7500, Holstebro,8853000 ,09-12-2009,Andet,52,170250,2,1900,
-661,Ejerlejlighed,"Enghavevej 18, kl",7500, Holstebro,8853000 ,09-12-2009,Andet,29,305276,2,1905,
-661,Ejerlejlighed,"Enghavevej 18, st",7500, Holstebro,8853000 ,09-12-2009,Andet,63,140524,3,1905,
-661,Ejerlejlighed,"Enghavevej 18, 1",7500, Holstebro,8853000 ,09-12-2009,Andet,90,98367,3,1905,
-661,Ejerlejlighed,"Enghavevej 20, st. th",7500, Holstebro,8853000 ,09-12-2009,Andet,52,170250,2,1903,
-661,Ejerlejlighed,"Enghavevej 20, 1. th",7500, Holstebro,8853000 ,09-12-2009,Andet,77,114974,3,1903,
-661,Ejerlejlighed,"Enghavevej 20, st. tv",7500, Holstebro,8853000 ,09-12-2009,Andet,80,110663,3,1903,
-661,Ejerlejlighed,"Enghavevej 20, 1. tv",7500, Holstebro,8853000 ,09-12-2009,Andet,50,177060,2,1903,
-661,Ejerlejlighed,"Enghavevej 20, 2. tv",7500, Holstebro,8853000 ,09-12-2009,Andet,66,134136,4,1903,
-661,Ejerlejlighed,"Enghavevej 20, 2. th",7500, Holstebro,8853000 ,09-12-2009,Andet,60,147550,3,1903,
 661,Villa,Provst Lønstrups Vej 30,7500, Holstebro,2250000 ,09-12-2009,Alm. Salg,142,15845,5,1998,-2%
 661,Villa,Østparken 5,7830, Vinderup,471822 ,09-12-2009,Andet,138,3419,4,1974,
 661,Villa,Helgolandsgade 70,7500, Holstebro,1600000 ,08-12-2009,Alm. Salg,153,10458,6,1973,
@@ -11235,12 +11010,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Steensgårdsvej 30,7500, Holstebro,1035500 ,14-09-2009,Alm. Salg,115,9004,4,2007,-44%
 661,Villa,Under Kastanien 19,7500, Holstebro,2190000 ,13-09-2009,Alm. Salg,154,14221,5,2010,
 661,Villa,Pilestrædet 10,6990, Ulfborg,123333 ,10-09-2009,Fam. Salg,90,1370,4,1952,
-661,Ejerlejlighed,Niels Buggesvej 2,6990, Ulfborg,520000 ,09-09-2009,Auktion,58,8966,2,1912,
-661,Ejerlejlighed,Harbogade 44B,6990, Ulfborg,520000 ,09-09-2009,Auktion,40,13000,2,1910,
 661,Ejerlejlighed,"Østergade 30, 1",7500, Holstebro,2312449 ,09-09-2009,Auktion,73,31677,3,1902,
-661,Ejerlejlighed,"Harbogade 44A, st",6990, Ulfborg,520000 ,09-09-2009,Auktion,80,6500,3,1910,
-661,Ejerlejlighed,"Harbogade 44A, 1",6990, Ulfborg,520000 ,09-09-2009,Auktion,34,15294,2,1910,
-661,Ejerlejlighed,"Harbogade 44C, 1",6990, Ulfborg,520000 ,09-09-2009,Auktion,54,9630,2,1912,
 661,Villa,Skjernvej 72,7500, Holstebro,682500 ,08-09-2009,Alm. Salg,141,4840,3,1924,-12%
 661,Villa,Nørrebrogade 21,7500, Holstebro,1100000 ,07-09-2009,Alm. Salg,81,13580,2,1953,-8%
 661,Villa,Vesterhavsgade 44,6990, Ulfborg,775000 ,05-09-2009,Alm. Salg,96,8073,4,1905,
@@ -11692,9 +11462,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Rækkehus,"Havnevej 12, st. 4",6990, Ulfborg,1140000 ,12-01-2009,Alm. Salg,108,10556,4,2006,
 661,Rækkehus,"Havnevej 12, st. 15",6990, Ulfborg,640000 ,12-01-2009,Alm. Salg,108,5926,4,2006,
 661,Rækkehus,"Havnevej 12, st. 13",6990, Ulfborg,625000 ,11-01-2009,Alm. Salg,108,5787,4,2006,
-661,Ejerlejlighed,"Smedegården 14, 2. tv",7500, Holstebro,1100000 ,11-01-2009,Alm. Salg,112,9821,3,1912,-6%
 661,Villa,Skovbakken 32,7500, Holstebro,65000 ,11-01-2009,Alm. Salg,121,537,4,1961,
-661,Villa,Fredericiagade 18,7500, Holstebro,1100000 ,11-01-2009,Alm. Salg,125,8800,4,1904,-7%
 661,Villa,Bisgårdvej 41,7500, Holstebro,1075000 ,09-01-2009,Alm. Salg,158,6804,5,1973,-19%
 661,Villa,Mejdalvej 55,7500, Holstebro,1010000 ,09-01-2009,Alm. Salg,145,6966,3,1960,-19%
 661,Villa,Mosekrogen 14,7830, Vinderup,785000 ,09-01-2009,Alm. Salg,140,5607,4,1969,-7%
@@ -11768,12 +11536,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Istedgade 27,7500, Holstebro,600000 ,24-11-2008,Alm. Salg,112,5357,3,2009,-14%
 661,Villa,Lyngbakken 14G,7500, Holstebro,1400000 ,24-11-2008,Fam. Salg,236,5932,5,2010,
 661,Villa,Hvedevænget 13,7500, Holstebro,2700000 ,23-11-2008,Alm. Salg,223,12108,7,1970,
-661,Rækkehus,Viborgvej 114A,7500, Holstebro,825000 ,20-11-2008,Alm. Salg,65,12692,2,1904,
 661,Villa,Tingvej 10,7800, Skive,710000 ,20-11-2008,Alm. Salg,98,7245,4,1945,-11%
 661,Villa,Burvej 40,7570, Vemb,725000 ,20-11-2008,Alm. Salg,116,6250,3,1927,-3%
 661,Villa,Grønlandsvej 6,7500, Holstebro,2250000 ,20-11-2008,Alm. Salg,189,11905,8,1929,-2%
 661,Villa,Søgårdvej 25,7830, Vinderup,610000 ,20-11-2008,Alm. Salg,95,6421,4,1959,-18%
-661,Villa,Viborgvej 114,7500, Holstebro,825000 ,20-11-2008,Alm. Salg,113,7301,4,1904,
 661,Ejerlejlighed,Niels Kjeldsens Vej 20E,7500, Holstebro,450000 ,19-11-2008,Alm. Salg,66,6818,3,1970,-5%
 661,Villa,Bigårdsvej 13,7570, Vemb,1060000 ,19-11-2008,Alm. Salg,126,8413,4,1978,-2%
 661,Villa,Langgade 91,7500, Holstebro,500000 ,18-11-2008,Alm. Salg,110,4545,4,1967,-37%
@@ -12007,11 +11773,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Rækkehus,Bredgade 28A,6990, Ulfborg,400000 ,30-07-2008,Alm. Salg,140,2857,4,2011,
 661,Villa,Bygvænget 10,7500, Holstebro,1850000 ,30-07-2008,Alm. Salg,176,10511,5,1969,-3%
 661,Villa,Kobberupvej 85,7500, Holstebro,1400000 ,30-07-2008,Alm. Salg,189,7407,6,1979,-3%
-661,Ejerlejlighed,Bredgade 13A. th,6990, Ulfborg,2625000 ,29-07-2008,Alm. Salg,61,43033,2,1880,
-661,Ejerlejlighed,Bredgade 13A. tv,6990, Ulfborg,2625000 ,29-07-2008,Alm. Salg,61,43033,2,1880,
-661,Ejerlejlighed,"Tømmerslippen 7, 1",6990, Ulfborg,2625000 ,29-07-2008,Alm. Salg,129,20349,4,1880,
-661,Ejerlejlighed,"Tømmerslippen 1, 1. tv",6990, Ulfborg,2625000 ,29-07-2008,Alm. Salg,98,26786,5,1880,
-661,Ejerlejlighed,"Tømmerslippen 7, st",6990, Ulfborg,2625000 ,29-07-2008,Alm. Salg,105,25000,4,1880,
 661,Villa,Idrætsvej 19,7500, Holstebro,1365000 ,29-07-2008,Alm. Salg,140,9750,5,1971,-9%
 661,Villa,Egevænget 12,7500, Holstebro,1615000 ,29-07-2008,Alm. Salg,151,10695,6,1980,
 661,Villa,Kirkevej 11,7830, Vinderup,495000 ,29-07-2008,Alm. Salg,90,5500,5,1910,
@@ -12163,11 +11924,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Skrænten 11,7830, Vinderup,845000 ,09-06-2008,Alm. Salg,152,5559,4,1975,-7%
 661,Villa,Hvamvej 56,7500, Holstebro,650000 ,09-06-2008,Alm. Salg,119,5462,5,1958,-18%
 661,Villa,Nordtoft 5,7500, Holstebro,1600000 ,09-06-2008,Alm. Salg,160,10000,5,1976,-7%
-661,Rækkehus,Bachsvej 12B,7500, Holstebro,965000 ,08-06-2008,Alm. Salg,60,16083,3,1984,
 661,Rækkehus,Helgolandsgade 35,7500, Holstebro,1595000 ,08-06-2008,Alm. Salg,102,15637,4,1911,
 661,Ejerlejlighed,"Brogården 7, st. tv",7500, Holstebro,950000 ,08-06-2008,Alm. Salg,70,13571,3,1965,
 661,Villa,Elme Alle 15,7500, Holstebro,2650000 ,08-06-2008,Alm. Salg,130,20385,5,1942,
-661,Villa,Brusenvej 1,7500, Holstebro,965000 ,08-06-2008,Alm. Salg,75,12867,3,1957,-3%
 661,Villa,Nordtoft 8,7500, Holstebro,1250000 ,08-06-2008,Alm. Salg,119,10504,5,1968,-12%
 661,Villa,Bramsvej 8,6990, Ulfborg,610000 ,08-06-2008,Alm. Salg,90,6778,4,1960,-2%
 661,Villa,Vindelevgård 198,7830, Vinderup,231000 ,08-06-2008,Alm. Salg,148,1561,5,2009,
@@ -12298,8 +12057,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Sevelvej 26,7830, Vinderup,650000 ,30-04-2008,Alm. Salg,140,4643,6,1953,
 661,Villa,Klitvej 26,6990, Ulfborg,410000 ,30-04-2008,Fam. Salg,113,3628,4,1962,
 661,Rækkehus,Laubsvej 81,7500, Holstebro,1460000 ,29-04-2008,Alm. Salg,126,11587,4,1978,-3%
-661,Rækkehus,Krattet 4,7500, Holstebro,1550000 ,29-04-2008,Alm. Salg,100,15500,3,2008,
-661,Villa,Heimdalsvej 13,7500, Holstebro,1550000 ,29-04-2008,Alm. Salg,125,12400,4,1965,-3%
 661,Villa,Tingvej 85,7800, Skive,695000 ,29-04-2008,Alm. Salg,106,6557,3,1864,
 661,Villa,Gl Landevej 11,7830, Vinderup,1350733 ,29-04-2008,Fam. Salg,260,5195,7,1987,
 661,Rækkehus,Krattet 11,7500, Holstebro,1692500 ,28-04-2008,Alm. Salg,104,16274,4,2008,
@@ -13013,42 +12770,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Under Egen 51,7500, Holstebro,416000 ,01-09-2007,Alm. Salg,165,2521,6,2011,
 661,Villa,Bregnevej 3,7500, Holstebro,975000 ,31-08-2007,Alm. Salg,99,9848,3,1964,
 661,Rækkehus,Fingerbøllet 4,7500, Holstebro,1425000 ,30-08-2007,Alm. Salg,105,13571,4,2007,
-661,Ejerlejlighed,"Mejdalvej 1, 3. th",7500, Holstebro,11900000 ,30-08-2007,Fam. Salg,77,154545,3,1949,
-661,Ejerlejlighed,"Mejdalvej 3, 1. th",7500, Holstebro,11900000 ,30-08-2007,Fam. Salg,90,132222,4,1949,
-661,Ejerlejlighed,"Mejdalvej 3, st. th",7500, Holstebro,11900000 ,30-08-2007,Fam. Salg,90,132222,4,1949,
-661,Ejerlejlighed,"Mejdalvej 1, 3. tv",7500, Holstebro,11900000 ,30-08-2007,Fam. Salg,92,129348,4,1949,
-661,Ejerlejlighed,"Mejdalvej 3, st. tv",7500, Holstebro,11900000 ,30-08-2007,Fam. Salg,76,156579,3,1949,
-661,Ejerlejlighed,"Mejdalvej 3, 2. th",7500, Holstebro,11900000 ,30-08-2007,Fam. Salg,90,132222,4,1949,
-661,Ejerlejlighed,"Mejdalvej 3, 1. tv",7500, Holstebro,11900000 ,30-08-2007,Fam. Salg,76,156579,3,1949,
-661,Ejerlejlighed,"Mejdalvej 3, 2. tv",7500, Holstebro,11900000 ,30-08-2007,Fam. Salg,76,156579,3,1949,
-661,Ejerlejlighed,"Mejdalvej 3, 3. tv",7500, Holstebro,11900000 ,30-08-2007,Fam. Salg,76,156579,3,1949,
-661,Ejerlejlighed,"Mejdalvej 3, 3. th",7500, Holstebro,11900000 ,30-08-2007,Fam. Salg,90,132222,4,1949,
-661,Ejerlejlighed,"Østerbrogade 53, 3. th",7500, Holstebro,11900000 ,30-08-2007,Fam. Salg,108,110185,4,1949,
-661,Ejerlejlighed,"Østerbrogade 53, 2. tv",7500, Holstebro,11900000 ,30-08-2007,Fam. Salg,61,195082,2,1949,
-661,Ejerlejlighed,"Østerbrogade 53, 1. tv",7500, Holstebro,11900000 ,30-08-2007,Fam. Salg,61,195082,2,1949,
-661,Ejerlejlighed,"Østerbrogade 51, kl. th",7500, Holstebro,11900000 ,30-08-2007,Fam. Salg,37,321622,1,1949,
-661,Ejerlejlighed,"Østerbrogade 51, kl. tv",7500, Holstebro,11900000 ,30-08-2007,Fam. Salg,49,242857,1,1949,
-661,Ejerlejlighed,"Østerbrogade 51, 1. tv",7500, Holstebro,11900000 ,30-08-2007,Fam. Salg,61,195082,2,1949,
-661,Ejerlejlighed,"Østerbrogade 51, st. th",7500, Holstebro,11900000 ,30-08-2007,Fam. Salg,61,195082,2,1949,
-661,Ejerlejlighed,"Østerbrogade 51, st. tv",7500, Holstebro,11900000 ,30-08-2007,Fam. Salg,61,195082,2,1949,
-661,Ejerlejlighed,"Østerbrogade 51, 1. th",7500, Holstebro,11900000 ,30-08-2007,Fam. Salg,61,195082,2,1949,
-661,Ejerlejlighed,"Østerbrogade 51, 3. th",7500, Holstebro,11900000 ,30-08-2007,Fam. Salg,61,195082,2,1949,
-661,Ejerlejlighed,"Østerbrogade 51, 2. th",7500, Holstebro,11900000 ,30-08-2007,Fam. Salg,61,195082,2,1949,
-661,Ejerlejlighed,"Østerbrogade 53, st. th",7500, Holstebro,11900000 ,30-08-2007,Fam. Salg,76,156579,2,1949,
-661,Ejerlejlighed,"Østerbrogade 51, 3. tv",7500, Holstebro,11900000 ,30-08-2007,Fam. Salg,61,195082,2,1949,
-661,Ejerlejlighed,"Østerbrogade 51, 2. tv",7500, Holstebro,11900000 ,30-08-2007,Fam. Salg,61,195082,2,1949,
-661,Ejerlejlighed,"Østerbrogade 53, st. tv",7500, Holstebro,11900000 ,30-08-2007,Fam. Salg,61,195082,2,1949,
-661,Ejerlejlighed,Østerbrogade 53A,7500, Holstebro,11900000 ,30-08-2007,Fam. Salg,63,188889,2,1949,
-661,Ejerlejlighed,"Østerbrogade 53, 1. th",7500, Holstebro,11900000 ,30-08-2007,Fam. Salg,108,110185,4,1949,
-661,Ejerlejlighed,"Mejdalvej 1, st. tv",7500, Holstebro,11900000 ,30-08-2007,Fam. Salg,61,195082,2,1949,
-661,Ejerlejlighed,"Mejdalvej 1, st. th",7500, Holstebro,11900000 ,30-08-2007,Fam. Salg,77,154545,3,1949,
-661,Ejerlejlighed,"Mejdalvej 1, 1. th",7500, Holstebro,11900000 ,30-08-2007,Fam. Salg,77,154545,3,1949,
-661,Ejerlejlighed,"Mejdalvej 1, 1. tv",7500, Holstebro,11900000 ,30-08-2007,Fam. Salg,92,129348,4,1949,
-661,Ejerlejlighed,"Mejdalvej 1, 2. th",7500, Holstebro,11900000 ,30-08-2007,Fam. Salg,77,154545,3,1949,
-661,Ejerlejlighed,"Mejdalvej 1, 2. tv",7500, Holstebro,11900000 ,30-08-2007,Fam. Salg,92,129348,4,1949,
-661,Ejerlejlighed,"Østerbrogade 53, 3. tv",7500, Holstebro,11900000 ,30-08-2007,Fam. Salg,61,195082,2,1949,
-661,Ejerlejlighed,"Østerbrogade 53, 2. th",7500, Holstebro,11900000 ,30-08-2007,Fam. Salg,108,110185,4,1949,
-661,Villa,Mejdalvej 5,7500, Holstebro,11900000 ,30-08-2007,Fam. Salg,72,165278,3,1945,
 661,Villa,Vindelevgård 188,7830, Vinderup,1375000 ,30-08-2007,Alm. Salg,119,11555,4,1989,
 661,Villa,Holbergsvej 47,7500, Holstebro,1365000 ,30-08-2007,Alm. Salg,146,9349,5,1911,
 661,Villa,Ole Worms Vej 11,7500, Holstebro,1750000 ,30-08-2007,Alm. Salg,157,11146,5,1971,-7%
@@ -13070,11 +12791,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Rosenparken 36,7500, Holstebro,237000 ,26-08-2007,Alm. Salg,184,1288,6,2009,
 661,Rækkehus,Chopinsvej 17,7500, Holstebro,1325000 ,25-08-2007,Alm. Salg,87,15230,4,1986,
 661,Rækkehus,Chopinsvej 62,7500, Holstebro,925000 ,24-08-2007,Alm. Salg,60,15417,3,1982,
-661,Ejerlejlighed,Niels Buggesvej 2,6990, Ulfborg,1650000 ,24-08-2007,Alm. Salg,58,28448,2,1912,
-661,Ejerlejlighed,Harbogade 44B,6990, Ulfborg,1650000 ,24-08-2007,Alm. Salg,40,41250,2,1910,
-661,Ejerlejlighed,"Harbogade 44A, st",6990, Ulfborg,1650000 ,24-08-2007,Alm. Salg,80,20625,3,1910,
-661,Ejerlejlighed,"Harbogade 44A, 1",6990, Ulfborg,1650000 ,24-08-2007,Alm. Salg,34,48529,2,1910,
-661,Ejerlejlighed,"Harbogade 44C, 1",6990, Ulfborg,1650000 ,24-08-2007,Alm. Salg,54,30556,2,1912,
 661,Villa,Rørsgårdsvej 13,7570, Vemb,1245000 ,22-08-2007,Alm. Salg,136,9154,5,1971,
 661,Villa,Nygade 8,7570, Vemb,1195000 ,22-08-2007,Alm. Salg,125,9560,3,1925,
 661,Villa,Porsevej 14,7500, Holstebro,1450000 ,22-08-2007,Fam. Salg,150,9667,4,1976,
@@ -13287,16 +13003,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Prins Buris Vej 45A,7500, Holstebro,1895000 ,18-06-2007,Alm. Salg,161,11770,7,1969,
 661,Villa,Vindelevgård 71,7830, Vinderup,431513 ,18-06-2007,Alm. Salg,233,1852,7,1974,
 661,Rækkehus,Pile Alle 56,7500, Holstebro,1080000 ,17-06-2007,Alm. Salg,82,13171,3,1963,
-661,Ejerlejlighed,Bredgade 13A. th,6990, Ulfborg,1000000 ,17-06-2007,Fam. Salg,61,16393,2,1880,
-661,Ejerlejlighed,Bredgade 13A. tv,6990, Ulfborg,1000000 ,17-06-2007,Fam. Salg,61,16393,2,1880,
-661,Ejerlejlighed,"Tømmerslippen 7, 1",6990, Ulfborg,1000000 ,17-06-2007,Fam. Salg,129,7752,4,1880,
-661,Ejerlejlighed,"Tømmerslippen 1, 1. tv",6990, Ulfborg,1000000 ,17-06-2007,Fam. Salg,98,10204,5,1880,
-661,Ejerlejlighed,"Tømmerslippen 7, st",6990, Ulfborg,1000000 ,17-06-2007,Fam. Salg,105,9524,4,1880,
-661,Ejerlejlighed,"Langelinie 12, kl",7500, Holstebro,1550000 ,17-06-2007,Alm. Salg,50,31000,2,1938,
-661,Ejerlejlighed,"Langelinie 12, st",7500, Holstebro,1550000 ,17-06-2007,Alm. Salg,72,21528,2,1938,
-661,Ejerlejlighed,"Langelinie 12, 1",7500, Holstebro,1550000 ,17-06-2007,Alm. Salg,72,21528,2,1938,
-661,Ejerlejlighed,"Allegade 4, st",7500, Holstebro,1550000 ,17-06-2007,Alm. Salg,82,18902,2,1927,
-661,Ejerlejlighed,"Allegade 4, 1",7500, Holstebro,1550000 ,17-06-2007,Alm. Salg,59,26271,2,1927,
 661,Villa,Djeldvej 18,7830, Vinderup,450000 ,17-06-2007,Alm. Salg,94,4787,3,1947,
 661,Villa,Skjernvej 38B,7500, Holstebro,682500 ,17-06-2007,Andet,141,4840,5,1927,
 661,Villa,Grundtvigsvej 7,7500, Holstebro,1250000 ,17-06-2007,Alm. Salg,128,9766,3,1974,-3%
@@ -13396,7 +13102,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Kuhlausvej 20,7500, Holstebro,1462500 ,17-05-2007,Alm. Salg,138,10598,5,1974,-1%
 661,Villa,Østerbrogade 44,7500, Holstebro,1335000 ,17-05-2007,Alm. Salg,230,5804,10,1939,
 661,Villa,Krunderupparken 28,7500, Holstebro,1332500 ,17-05-2007,Alm. Salg,142,9384,4,1973,-2%
-661,Villa,Skautrupvej 36A,7500, Holstebro,1650000 ,16-05-2007,Alm. Salg,156,10577,3,1938,
 661,Rækkehus,Wagnersvej 29,7500, Holstebro,800000 ,15-05-2007,Alm. Salg,61,13115,3,1984,
 661,Ejerlejlighed,Gl. Hornshøjvej 9E,7500, Holstebro,980000 ,15-05-2007,Alm. Salg,87,11264,3,1896,
 661,Ejerlejlighed,Bisgårdtoft 3D,7500, Holstebro,1975000 ,15-05-2007,Alm. Salg,98,20153,3,2008,
@@ -13451,11 +13156,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Elverhøj 4,7500, Holstebro,2244000 ,01-05-2007,Alm. Salg,156,14385,6,2007,
 661,Villa,Burvej 59,7570, Vemb,425000 ,01-05-2007,Alm. Salg,92,4620,3,1959,
 661,Villa,Händelsvej 24,7500, Holstebro,1595000 ,01-05-2007,Alm. Salg,130,12269,5,1977,
-661,Ejerlejlighed,Niels Buggesvej 2,6990, Ulfborg,1000000 ,30-04-2007,Alm. Salg,58,17241,2,1912,
-661,Ejerlejlighed,Harbogade 44B,6990, Ulfborg,1000000 ,30-04-2007,Alm. Salg,40,25000,2,1910,
-661,Ejerlejlighed,"Harbogade 44A, st",6990, Ulfborg,1000000 ,30-04-2007,Alm. Salg,80,12500,3,1910,
-661,Ejerlejlighed,"Harbogade 44A, 1",6990, Ulfborg,1000000 ,30-04-2007,Alm. Salg,34,29412,2,1910,
-661,Ejerlejlighed,"Harbogade 44C, 1",6990, Ulfborg,1000000 ,30-04-2007,Alm. Salg,54,18519,2,1912,
 661,Villa,Bredgade 18,6990, Ulfborg,530000 ,30-04-2007,Alm. Salg,77,4046,4,1877,
 661,Villa,Broagervej 53,7500, Holstebro,1420000 ,30-04-2007,Alm. Salg,90,15778,4,1923,-2%
 661,Rækkehus,Offenbachsvej 7,7500, Holstebro,1430000 ,29-04-2007,Alm. Salg,111,12883,5,1984,
@@ -13760,14 +13460,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Fjordglimt 11,7830, Vinderup,640000 ,06-02-2007,Alm. Salg,119,5378,5,1978,
 661,Villa,Haretoften 12,7500, Holstebro,2120000 ,06-02-2007,Alm. Salg,186,11398,6,2003,
 661,Villa,Højdevej 13,7500, Holstebro,1447500 ,06-02-2007,Alm. Salg,148,9780,5,1964,-3%
-661,Ejerlejlighed,"Skjernvej 16, st",7500, Holstebro,977500 ,05-02-2007,Fam. Salg,85,11500,3,1921,
 661,Ejerlejlighed,"Doktorvænget 48, 1. tv",7500, Holstebro,895000 ,05-02-2007,Alm. Salg,80,11188,3,1963,
-661,Ejerlejlighed,"Skjernvej 16, 1",7500, Holstebro,977500 ,05-02-2007,Fam. Salg,65,15038,3,1921,
-661,Ejerlejlighed,"Skivevej 73, kl. 1",7500, Holstebro,977500 ,05-02-2007,Fam. Salg,25,39100,1,1930,
-661,Ejerlejlighed,"Skivevej 73, kl. 2",7500, Holstebro,977500 ,05-02-2007,Fam. Salg,22,44432,1,1930,
-661,Ejerlejlighed,"Skivevej 73, kl. 3",7500, Holstebro,977500 ,05-02-2007,Fam. Salg,24,40729,1,1930,
-661,Ejerlejlighed,"Skivevej 73, st",7500, Holstebro,977500 ,05-02-2007,Fam. Salg,71,13768,3,1930,
-661,Ejerlejlighed,"Skivevej 73, 1",7500, Holstebro,977500 ,05-02-2007,Fam. Salg,49,19949,2,1930,
 661,Villa,Majsvænget 14,7500, Holstebro,1425000 ,05-02-2007,Alm. Salg,129,11047,4,1969,
 661,Villa,Skivevej 19,7830, Vinderup,2345000 ,05-02-2007,Alm. Salg,169,13876,6,2005,
 661,Villa,Krunderupparken 9,7500, Holstebro,1925000 ,05-02-2007,Alm. Salg,280,6875,7,1973,
@@ -13792,7 +13485,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Møllevej 6,7500, Holstebro,612500 ,31-01-2007,Andet,162,3781,4,1920,
 661,Villa,Hvamvej 66,7500, Holstebro,1800000 ,31-01-2007,Alm. Salg,307,5863,8,1973,-9%
 661,Villa,Hvolbækvej 2C,7830, Vinderup,1060000 ,31-01-2007,Alm. Salg,241,4398,7,1850,
-661,Rækkehus,Skivevej 36A,7500, Holstebro,3800000 ,30-01-2007,Alm. Salg,58,65517,2,1953,
 661,Rækkehus,Knud Aggers Vej 111,7500, Holstebro,1545000 ,30-01-2007,Alm. Salg,122,12664,4,1999,
 661,Villa,Ålykke 10,7500, Holstebro,1450000 ,30-01-2007,Alm. Salg,128,11328,5,1965,
 661,Villa,Møllevej 20,7500, Holstebro,2678000 ,30-01-2007,Alm. Salg,154,17390,5,1937,
@@ -13837,11 +13529,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Snedronningen 2,7500, Holstebro,418000 ,21-01-2007,Alm. Salg,128,3266,6,2007,
 661,Villa,Sognegårdsvej 18,6990, Ulfborg,578934 ,19-01-2007,Fam. Salg,87,6654,5,1950,
 661,Rækkehus,Fingerbøllet 22,7500, Holstebro,1380000 ,18-01-2007,Alm. Salg,105,13143,4,2007,
-661,Ejerlejlighed,"Doktorvænget 5, 2. tv",7500, Holstebro,800000 ,18-01-2007,Alm. Salg,87,9195,4,1963,
 661,Villa,Søndergade 66,7830, Vinderup,791500 ,18-01-2007,Alm. Salg,174,4549,5,1905,-4%
 661,Villa,Kobberupvej 13,7500, Holstebro,700000 ,18-01-2007,Fam. Salg,136,5147,5,1979,
 661,Villa,Dalgasvej 8,7500, Holstebro,1265000 ,18-01-2007,Alm. Salg,151,8377,4,1963,
-661,Villa,Idomvej 11,7500, Holstebro,800000 ,18-01-2007,Alm. Salg,172,4651,4,2010,
 661,Villa,Brunbjergvej 2,7500, Holstebro,1150000 ,18-01-2007,Alm. Salg,231,4978,6,1966,-3%
 661,Villa,Steensgårdsvej 18,7500, Holstebro,1950000 ,18-01-2007,Alm. Salg,146,13356,5,2007,
 661,Villa,Langgade 83,7500, Holstebro,1016000 ,18-01-2007,Alm. Salg,357,2846,12,1900,
@@ -13999,19 +13689,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Ejerlejlighed,"Langelinie 17, 1. 5",7500, Holstebro,615000 ,23-11-2006,Alm. Salg,53,11604,2,1943,
 661,Villa,Anna Anchers Vej 153,7500, Holstebro,1530000 ,23-11-2006,Fam. Salg,174,8793,5,1995,
 661,Villa,Odinsvej 23,7500, Holstebro,1100000 ,23-11-2006,Alm. Salg,140,7857,4,1957,
-661,Ejerlejlighed,"Danmarksgade 28, st. tv",7500, Holstebro,8760000 ,22-11-2006,Alm. Salg,53,165283,2,1900,
-661,Ejerlejlighed,"Danmarksgade 28, st. th",7500, Holstebro,8760000 ,22-11-2006,Alm. Salg,44,199091,2,1900,
-661,Ejerlejlighed,"Danmarksgade 28, 1. tv",7500, Holstebro,8760000 ,22-11-2006,Alm. Salg,45,194667,2,1900,
-661,Ejerlejlighed,"Danmarksgade 28, 1. th",7500, Holstebro,8760000 ,22-11-2006,Alm. Salg,52,168462,2,1900,
-661,Ejerlejlighed,"Enghavevej 18, kl",7500, Holstebro,8760000 ,22-11-2006,Alm. Salg,29,302069,2,1905,
-661,Ejerlejlighed,"Enghavevej 18, st",7500, Holstebro,8760000 ,22-11-2006,Alm. Salg,63,139048,3,1905,
-661,Ejerlejlighed,"Enghavevej 18, 1",7500, Holstebro,8760000 ,22-11-2006,Alm. Salg,90,97333,3,1905,
-661,Ejerlejlighed,"Enghavevej 20, st. th",7500, Holstebro,8760000 ,22-11-2006,Alm. Salg,52,168462,2,1903,
-661,Ejerlejlighed,"Enghavevej 20, 1. th",7500, Holstebro,8760000 ,22-11-2006,Alm. Salg,77,113766,3,1903,
-661,Ejerlejlighed,"Enghavevej 20, st. tv",7500, Holstebro,8760000 ,22-11-2006,Alm. Salg,80,109500,3,1903,
-661,Ejerlejlighed,"Enghavevej 20, 1. tv",7500, Holstebro,8760000 ,22-11-2006,Alm. Salg,50,175200,2,1903,
-661,Ejerlejlighed,"Enghavevej 20, 2. tv",7500, Holstebro,8760000 ,22-11-2006,Alm. Salg,66,132727,4,1903,
-661,Ejerlejlighed,"Enghavevej 20, 2. th",7500, Holstebro,8760000 ,22-11-2006,Alm. Salg,60,146000,3,1903,
 661,Villa,Søvejen 5,7830, Vinderup,530000 ,22-11-2006,Alm. Salg,138,3841,4,1966,
 661,Villa,Holmegade 19,6990, Ulfborg,1450000 ,22-11-2006,Alm. Salg,238,3333,7,1913,
 661,Villa,Elverhøj 7,7500, Holstebro,3040000 ,22-11-2006,Alm. Salg,185,16432,5,2007,
@@ -14168,9 +13845,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Rækkehus,Draget 16,7500, Holstebro,1395000 ,26-09-2006,Alm. Salg,104,13413,4,2006,
 661,Rækkehus,H.Drachmanns Vej 11,7500, Holstebro,1250000 ,26-09-2006,Alm. Salg,91,13736,4,1989,
 661,Rækkehus,Skolevej 6C,7570, Vemb,525000 ,26-09-2006,Alm. Salg,76,6908,2,1979,
-661,Ejerlejlighed,"Rådhusstræde 1B, st",7500, Holstebro,2131000 ,26-09-2006,Fam. Salg,92,23163,3,1920,
-661,Ejerlejlighed,"Nørregade 21, 2",7500, Holstebro,2131000 ,26-09-2006,Fam. Salg,91,23418,3,1920,
-661,Ejerlejlighed,"Nørregade 21, 1",7500, Holstebro,2131000 ,26-09-2006,Fam. Salg,98,21745,2,1920,
 661,Villa,Humlevænget 69,7570, Vemb,598000 ,26-09-2006,Alm. Salg,115,5200,4,1960,
 661,Villa,Parkvej 128,7500, Holstebro,1700000 ,26-09-2006,Alm. Salg,167,10180,6,1970,
 661,Villa,Brondbjergvej 6,6990, Ulfborg,1115000 ,26-09-2006,Fam. Salg,186,5995,6,1870,
@@ -14507,11 +14181,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Snedronningen 8,7500, Holstebro,437000 ,21-06-2006,Alm. Salg,224,1951,6,2010,
 661,Villa,Nattergalen 4,7500, Holstebro,414000 ,21-06-2006,Alm. Salg,186,2226,5,2008,
 661,Rækkehus,Hjulkronen 16,7500, Holstebro,1494385 ,20-06-2006,Alm. Salg,180,8302,4,2006,
-661,Ejerlejlighed,"Nørregade 53, 2. th",7500, Holstebro,13750000 ,20-06-2006,Alm. Salg,64,214844,2,1880,
-661,Ejerlejlighed,"Nørregade 53, 1",7500, Holstebro,13750000 ,20-06-2006,Alm. Salg,100,137500,3,1880,
-661,Ejerlejlighed,"Nørregade 53, 2. tv",7500, Holstebro,13750000 ,20-06-2006,Alm. Salg,75,183333,2,1880,
-661,Ejerlejlighed,"Bisgårdgade 4, 2",7500, Holstebro,13750000 ,20-06-2006,Alm. Salg,135,101852,4,1880,
-661,Ejerlejlighed,"Bisgårdgade 4, 1. tv",7500, Holstebro,13750000 ,20-06-2006,Alm. Salg,114,120614,2,1880,
 661,Villa,Ryesvej 14,7500, Holstebro,1425000 ,20-06-2006,Alm. Salg,118,12076,6,1947,
 661,Villa,Hasselholtvej 6,7830, Vinderup,1700000 ,20-06-2006,Alm. Salg,218,7798,6,1880,
 661,Villa,Nørlundvej 50,7500, Holstebro,1100000 ,20-06-2006,Fam. Salg,121,9091,5,1950,
@@ -14647,7 +14316,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Klostervej 69,7500, Holstebro,1525000 ,18-05-2006,Alm. Salg,139,10971,6,1997,
 661,Villa,Ole Jensensvej 1,7800, Skive,365000 ,17-05-2006,Alm. Salg,70,5214,3,1942,
 661,Ejerlejlighed,"Doktorvænget 33, st. th",7500, Holstebro,785000 ,16-05-2006,Alm. Salg,87,9023,4,1963,
-661,Villa,Skolegade 49,7500, Holstebro,1900000 ,16-05-2006,Alm. Salg,98,19388,4,1962,
 661,Villa,Engvej 9,7500, Holstebro,1550000 ,16-05-2006,Alm. Salg,135,11481,4,1959,
 661,Villa,Havevej 28,7830, Vinderup,370000 ,16-05-2006,Alm. Salg,78,4744,3,1922,
 661,Villa,Gl Landevej 18,7830, Vinderup,645000 ,16-05-2006,Alm. Salg,118,5466,4,1920,
@@ -14855,7 +14523,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Ejerlejlighed,"Doktorvænget 9, 1. tv",7500, Holstebro,710000 ,14-03-2006,Alm. Salg,79,8987,3,1963,
 661,Villa,Idrætsvej 10,7500, Holstebro,750000 ,14-03-2006,Alm. Salg,100,7500,4,1967,
 661,Villa,Mejdal Søvej 18,7500, Holstebro,390000 ,14-03-2006,Fam. Salg,127,3071,5,2015,
-661,Villa,Over Savstrupvej 2,7500, Holstebro,2550000 ,14-03-2006,Alm. Salg,214,11916,5,1959,
 661,Villa,Elkjærvej 55,7500, Holstebro,1350000 ,14-03-2006,Alm. Salg,171,7895,5,1970,
 661,Villa,Hvedevænget 26,6990, Ulfborg,1245000 ,13-03-2006,Alm. Salg,181,6878,7,1979,
 661,Villa,Krunderupparken 140,7500, Holstebro,221000 ,13-03-2006,Alm. Salg,175,1263,6,2007,
@@ -14902,7 +14569,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Banevænget 5,7830, Vinderup,860000 ,02-03-2006,Alm. Salg,107,8037,4,1984,
 661,Villa,Vesterbrogade 60,7500, Holstebro,1920000 ,02-03-2006,Alm. Salg,153,12549,5,1951,
 661,Villa,Anna Anchers Vej 138,7500, Holstebro,1570000 ,02-03-2006,Alm. Salg,167,9401,5,1994,
-661,Villa,Sveavej 8,7500, Holstebro,1250000 ,02-03-2006,Alm. Salg,99,12626,3,1959,
 661,Villa,Kløvervænget 3,7570, Vemb,798114 ,02-03-2006,Alm. Salg,190,4201,5,2019,
 661,Villa,Åsen 4,7500, Holstebro,411000 ,02-03-2006,Alm. Salg,202,2035,6,2008,
 661,Rækkehus,Skovgårdsvej 3,7500, Holstebro,1095000 ,01-03-2006,Alm. Salg,70,15643,2,1949,
@@ -15138,7 +14804,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Stoppenålen 10,7500, Holstebro,515500 ,04-01-2006,Alm. Salg,194,2657,6,2007,
 661,Rækkehus,Meldgårdvej 47,7500, Holstebro,1125000 ,03-01-2006,Alm. Salg,91,12363,4,1989,
 661,Rækkehus,Brahmsvej 118,7500, Holstebro,900000 ,03-01-2006,Alm. Salg,73,12329,3,1986,
-661,Villa,Over Savstrupvej 2,7500, Holstebro,6250000 ,03-01-2006,Alm. Salg,214,29206,5,1959,
 661,Villa,Vestergade 44,7500, Holstebro,1450000 ,03-01-2006,Alm. Salg,114,12719,5,1933,
 661,Villa,Elverhøj 8,7500, Holstebro,477000 ,03-01-2006,Alm. Salg,239,1996,6,2007,
 661,Villa,Fyrtøjet 6,7500, Holstebro,444345 ,02-01-2006,Alm. Salg,193,2302,6,2006,
@@ -15193,9 +14858,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Rosenparken 95,7500, Holstebro,1200000 ,13-12-2005,Alm. Salg,170,7059,6,1995,
 661,Villa,Steensgårdsvej 41,7500, Holstebro,293000 ,13-12-2005,Alm. Salg,201,1458,6,2007,
 661,Villa,Liden Kirstens Allé 39,7500, Holstebro,385300 ,13-12-2005,Alm. Salg,175,2202,6,2007,
-661,Rækkehus,Bachsvej 122,7500, Holstebro,1300000 ,12-12-2005,Alm. Salg,126,10317,4,1975,
 661,Villa,Mejdalvej 26,7500, Holstebro,950000 ,12-12-2005,Alm. Salg,84,11310,4,1956,
-661,Villa,Ole Rømers Vej 29,7500, Holstebro,1300000 ,12-12-2005,Alm. Salg,150,8667,5,1971,
 661,Villa,Klostervej 111,7500, Holstebro,1450000 ,11-12-2005,Alm. Salg,120,12083,4,1998,
 661,Villa,Draget 22,7500, Holstebro,475001 ,11-12-2005,Alm. Salg,170,2794,6,2007,
 661,Villa,Granbakken 5A,7500, Holstebro,2400000 ,11-12-2005,Alm. Salg,180,11009,7,1959,
@@ -15478,11 +15141,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Klitrosevej 3,7500, Holstebro,1170000 ,22-09-2005,Alm. Salg,142,8239,5,1957,
 661,Villa,Elkjærvej 16,7500, Holstebro,1650000 ,22-09-2005,Alm. Salg,177,9322,6,1971,
 661,Rækkehus,Møllevej 11E,7500, Holstebro,1475000 ,21-09-2005,Alm. Salg,101,14604,4,2006,
-661,Ejerlejlighed,"Nørregade 15, 1. tv",7570, Vemb,680000 ,21-09-2005,Alm. Salg,90,7556,2,1900,
-661,Ejerlejlighed,"Nørregade 15, 1. th",7570, Vemb,680000 ,21-09-2005,Alm. Salg,128,4755,6,1900,
-661,Ejerlejlighed,"Nørregade 15, 2",7570, Vemb,680000 ,21-09-2005,Alm. Salg,32,21250,2,1900,
-661,Ejerlejlighed,"Vestergade 1, st",7570, Vemb,680000 ,21-09-2005,Alm. Salg,92,7391,2,1901,
-661,Ejerlejlighed,"Nørregade 15, st. th",7570, Vemb,680000 ,21-09-2005,Alm. Salg,35,19429,1,1900,
 661,Villa,Vindelevvej 6,7830, Vinderup,89000 ,21-09-2005,Alm. Salg,241,369,8,2007,
 661,Villa,Ålykke 25,7500, Holstebro,1250000 ,21-09-2005,Alm. Salg,141,8865,4,1943,
 661,Villa,Åsen 20,7500, Holstebro,420150 ,21-09-2005,Alm. Salg,182,2309,7,2006,
@@ -15726,12 +15384,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Rækkehus,Gl. Hornshøjvej 1B,7500, Holstebro,1000000 ,01-07-2005,Alm. Salg,92,10870,4,1984,
 661,Rækkehus,Helgolandsgade 30,7500, Holstebro,1275000 ,30-06-2005,Alm. Salg,121,10537,3,1918,
 661,Rækkehus,Parkvej 60,7500, Holstebro,415000 ,30-06-2005,Alm. Salg,57,7281,1,1978,
-661,Ejerlejlighed,"Mejdalvej 8, kl",7500, Holstebro,1250000 ,30-06-2005,Alm. Salg,40,31250,1,1949,
-661,Ejerlejlighed,"Mejdalvej 8, st",7500, Holstebro,1250000 ,30-06-2005,Alm. Salg,72,17361,3,1949,
-661,Ejerlejlighed,"Mejdalvej 8, 1",7500, Holstebro,1250000 ,30-06-2005,Alm. Salg,52,24038,2,1949,
-661,Ejerlejlighed,"Viborgvej 51, st",7500, Holstebro,1250000 ,30-06-2005,Alm. Salg,71,17606,3,1942,
-661,Ejerlejlighed,"Viborgvej 51, kl",7500, Holstebro,1250000 ,30-06-2005,Alm. Salg,15,83333,1,1942,
-661,Ejerlejlighed,"Viborgvej 51, 1",7500, Holstebro,1250000 ,30-06-2005,Alm. Salg,55,22727,2,1942,
 661,Villa,Tornevej 4,6990, Ulfborg,750000 ,30-06-2005,Alm. Salg,102,7353,3,1980,
 661,Villa,Ellehammersvej 63,7500, Holstebro,1345000 ,30-06-2005,Alm. Salg,156,8622,4,1973,
 661,Villa,Grønningen 7,6990, Ulfborg,1025000 ,30-06-2005,Alm. Salg,194,5284,8,1956,
@@ -15962,8 +15614,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Rækkehus,Offenbachsvej 159,7500, Holstebro,463037 ,08-05-2005,Alm. Salg,100,4630,4,1981,
 661,Rækkehus,Kildeparken 4,7500, Holstebro,1170000 ,08-05-2005,Alm. Salg,101,11584,4,1998,
 661,Rækkehus,Chopinsvej 76,7500, Holstebro,695000 ,08-05-2005,Alm. Salg,60,11583,3,1982,
-661,Ejerlejlighed,"Doktorvænget 5, 1. th",7500, Holstebro,640000 ,08-05-2005,Alm. Salg,88,7273,4,1963,
-661,Villa,Skautrupvej 10,7500, Holstebro,640000 ,08-05-2005,Alm. Salg,97,6598,3,1953,
 661,Villa,Odinsvej 4,6990, Ulfborg,91575 ,08-05-2005,Alm. Salg,129,710,4,2005,
 661,Villa,Skautrupvej 6,7500, Holstebro,580000 ,08-05-2005,Alm. Salg,95,6105,4,1949,
 661,Villa,Skautrupvej 8,7500, Holstebro,930000 ,08-05-2005,Alm. Salg,130,7154,4,1949,
@@ -16402,12 +16052,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Vesterhavsgade 46,6990, Ulfborg,300000 ,05-12-2004,Alm. Salg,60,5000,3,1942,
 661,Villa,Staby Kirkevej 19,6990, Ulfborg,345000 ,05-12-2004,Alm. Salg,70,4929,3,1960,
 661,Villa,Østervang 4,7500, Holstebro,1324000 ,05-12-2004,Alm. Salg,155,8542,5,1948,
-661,Ejerlejlighed,"Horsstræde 1, 1. 3",7500, Holstebro,16200000 ,03-12-2004,Alm. Salg,1,16200000,1,1770,
-661,Ejerlejlighed,"Horsstræde 1, 1. 2",7500, Holstebro,16200000 ,03-12-2004,Alm. Salg,1,16200000,1,1770,
-661,Ejerlejlighed,"Horsstræde 1, 1. 4",7500, Holstebro,16200000 ,03-12-2004,Alm. Salg,1,16200000,1,1770,
-661,Ejerlejlighed,"Nørregade 3, 2. th",7500, Holstebro,16200000 ,03-12-2004,Alm. Salg,134,120896,4,1770,
-661,Ejerlejlighed,"Nørregade 3A, 2",7500, Holstebro,16200000 ,03-12-2004,Alm. Salg,77,210390,2,1770,
-661,Ejerlejlighed,"Nørregade 3, 2. tv",7500, Holstebro,16200000 ,03-12-2004,Alm. Salg,109,148624,3,1770,
 661,Villa,Lille Struervej 11,7500, Holstebro,600000 ,02-12-2004,Alm. Salg,130,4615,6,1906,
 661,Villa,Parkvej 154,7500, Holstebro,1370000 ,01-12-2004,Alm. Salg,182,7527,4,1975,
 661,Villa,Bygvænget 19,6990, Ulfborg,1000000 ,01-12-2004,Alm. Salg,184,5435,5,1978,
@@ -16429,10 +16073,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Porsevej 8,7500, Holstebro,2300000 ,25-11-2004,Alm. Salg,225,10222,6,1972,
 661,Villa,Liden Kirstens Allé 4,7500, Holstebro,1600000 ,25-11-2004,Alm. Salg,122,13115,4,2005,
 661,Villa,Anne Franks Vej 8,7500, Holstebro,1150000 ,25-11-2004,Alm. Salg,180,6389,5,1966,
-661,Rækkehus,P.S.Krøyers Vej 12,7500, Holstebro,1250000 ,24-11-2004,Alm. Salg,122,10246,3,1998,
 661,Rækkehus,Anna Anchers Vej 13,7500, Holstebro,995000 ,24-11-2004,Alm. Salg,90,11056,4,1996,
 661,Ejerlejlighed,"Allegade 2C, 1. th",7500, Holstebro,400000 ,24-11-2004,Alm. Salg,49,8163,2,1907,
-661,Ejerlejlighed,"Østergade 17, 1. tv",7500, Holstebro,1250000 ,24-11-2004,Alm. Salg,96,13021,2,1938,
 661,Villa,Hvamvej 26,7500, Holstebro,865000 ,24-11-2004,Alm. Salg,173,5000,6,1942,
 661,Villa,Østerbrogade 34,7500, Holstebro,3000000 ,24-11-2004,Alm. Salg,249,12048,8,1935,
 661,Villa,Allegade 23,7500, Holstebro,1225000 ,24-11-2004,Alm. Salg,138,8877,5,1920,
@@ -16585,12 +16227,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Parkvej 5,7500, Holstebro,537500 ,11-10-2004,Fam. Salg,194,2771,6,1966,
 661,Villa,Suensonsvej 36A,7500, Holstebro,1300000 ,11-10-2004,Alm. Salg,115,11304,5,1985,
 661,Rækkehus,Mjødurten 18,7500, Holstebro,1366959 ,10-10-2004,Alm. Salg,116,11784,4,2004,
-661,Ejerlejlighed,"Kildevej 8G, st. 10",7500, Holstebro,335000 ,10-10-2004,Alm. Salg,33,10152,1,1982,
 661,Villa,Brondbjergvej 6,6990, Ulfborg,550000 ,10-10-2004,Fam. Salg,186,2957,6,1870,
 661,Villa,Anna Anchers Vej 159,7500, Holstebro,1075000 ,10-10-2004,Alm. Salg,200,5375,8,1996,
 661,Villa,Skolevej 16,7570, Vemb,340000 ,10-10-2004,Fam. Salg,162,2099,7,1975,
 661,Villa,Hjelmevej 10,6990, Ulfborg,62400 ,10-10-2004,Alm. Salg,189,330,5,2008,
-661,Villa,Munkebuen 8,7500, Holstebro,335000 ,10-10-2004,Alm. Salg,180,1861,6,2007,
 661,Villa,Skivevej 110,7500, Holstebro,1150000 ,09-10-2004,Alm. Salg,107,10748,4,1930,
 661,Villa,Elkjærvej 135,7500, Holstebro,900000 ,08-10-2004,Alm. Salg,135,6667,5,1970,
 661,Rækkehus,Mjødurten 16,7500, Holstebro,1299000 ,07-10-2004,Alm. Salg,116,11198,4,2004,
@@ -16668,9 +16308,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Nørgårdsvej 30,7830, Vinderup,615000 ,03-09-2004,Alm. Salg,97,6340,2,1960,
 661,Villa,Kobberupvej 119,7500, Holstebro,549998 ,02-09-2004,Andet,152,3618,7,1983,
 661,Villa,Kirkebakken 23,7830, Vinderup,600000 ,01-09-2004,Alm. Salg,135,4444,5,1966,
-661,Rækkehus,Anna Anchers Vej 9,7500, Holstebro,1000000 ,31-08-2004,Alm. Salg,90,11111,4,1996,
 661,Villa,Kalbjergvej 2,7500, Holstebro,1175000 ,31-08-2004,Alm. Salg,157,7484,6,1930,
-661,Villa,Ringkøbingvej 17,7500, Holstebro,1000000 ,31-08-2004,Alm. Salg,140,7143,6,1949,
 661,Villa,Flintøksen 43,7500, Holstebro,287000 ,31-08-2004,Alm. Salg,178,1612,6,2005,
 661,Rækkehus,Emil Reesens Vej 59,7500, Holstebro,1060000 ,30-08-2004,Alm. Salg,127,8346,4,1979,
 661,Rækkehus,Chopinsvej 84,7500, Holstebro,590000 ,29-08-2004,Alm. Salg,60,9833,3,1982,
@@ -16838,7 +16476,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Strandvejen 7,7830, Vinderup,525000 ,18-06-2004,Alm. Salg,106,4953,5,1966,
 661,Villa,Provst Kyndes Vej 8,7500, Holstebro,725000 ,18-06-2004,Alm. Salg,105,6905,4,1961,
 661,Villa,Ingemannsvej 30,7500, Holstebro,1185000 ,18-06-2004,Alm. Salg,142,8345,5,1969,
-661,Villa,Kirkevej 2A,6990, Ulfborg,835000 ,17-06-2004,Alm. Salg,99,8434,4,1938,
 661,Villa,Mysundevej 40,7500, Holstebro,860000 ,17-06-2004,Alm. Salg,80,10750,3,1954,
 661,Villa,Lyngkrogen 14,7500, Holstebro,1495000 ,17-06-2004,Alm. Salg,175,8543,5,1970,
 661,Villa,Tingvej 63,7800, Skive,281174 ,17-06-2004,Alm. Salg,226,1244,9,1946,
@@ -17092,10 +16729,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Dyssegårdsvej 10,7500, Holstebro,1310831 ,09-04-2004,Alm. Salg,187,7010,5,1960,
 661,Villa,Elme Alle 15,7500, Holstebro,1735000 ,08-04-2004,Alm. Salg,130,13346,5,1942,
 661,Rækkehus,Birkelunden 58,7500, Holstebro,700000 ,06-04-2004,Alm. Salg,87,8046,4,1980,
-661,Ejerlejlighed,"Østergade 20, 1",7500, Holstebro,1350000 ,06-04-2004,Alm. Salg,204,6618,5,1942,
 661,Villa,Helgesensvej 2,7500, Holstebro,790000 ,06-04-2004,Alm. Salg,105,7524,3,1942,
 661,Villa,Smedegårdvej 9,7500, Holstebro,1337500 ,06-04-2004,Alm. Salg,191,7003,8,1920,
-661,Villa,Tjørnevej 22,7500, Holstebro,1350000 ,06-04-2004,Alm. Salg,138,9783,5,1976,
 661,Villa,Kirkevej 29,7830, Vinderup,340000 ,06-04-2004,Alm. Salg,137,2482,4,1908,
 661,Villa,Staby Kirkevej 7,6990, Ulfborg,510000 ,05-04-2004,Alm. Salg,108,4722,4,1962,
 661,Villa,Snerlevej 44,7500, Holstebro,1640000 ,05-04-2004,Alm. Salg,202,8119,7,1962,
@@ -17157,8 +16792,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Østerbrogade 35,7500, Holstebro,1215000 ,21-03-2004,Alm. Salg,121,10041,5,1947,
 661,Villa,Nylandsvej 12,7830, Vinderup,700000 ,21-03-2004,Alm. Salg,109,6422,3,1964,
 661,Villa,Vinkelvej 5,6990, Ulfborg,200000 ,21-03-2004,Alm. Salg,100,2000,3,1943,
-661,Ejerlejlighed,Sevelvej 75,7830, Vinderup,1350000 ,19-03-2004,Alm. Salg,50,27000,2,1970,
-661,Villa,Sevelvej 75,7830, Vinderup,1350000 ,19-03-2004,Alm. Salg,253,5336,7,0,
 661,Villa,Ravelsvej 41,7500, Holstebro,1495000 ,19-03-2004,Alm. Salg,181,8260,7,1980,
 661,Villa,Bannestrupparken 22,7500, Holstebro,845000 ,18-03-2004,Alm. Salg,130,6500,5,1976,
 661,Villa,Hvamvej 38,7500, Holstebro,350000 ,18-03-2004,Alm. Salg,142,2465,6,1945,
@@ -17239,19 +16872,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Tujavej 8,7500, Holstebro,1310000 ,25-02-2004,Alm. Salg,151,8675,5,1978,
 661,Villa,Bispebuen 8,7500, Holstebro,350000 ,25-02-2004,Alm. Salg,257,1362,8,2007,
 661,Rækkehus,Anna Anchers Vej 12,7500, Holstebro,960000 ,24-02-2004,Alm. Salg,90,10667,4,1990,
-661,Ejerlejlighed,"Danmarksgade 28, st. tv",7500, Holstebro,5775000 ,24-02-2004,Alm. Salg,53,108962,2,1900,
-661,Ejerlejlighed,"Danmarksgade 28, st. th",7500, Holstebro,5775000 ,24-02-2004,Alm. Salg,44,131250,2,1900,
-661,Ejerlejlighed,"Danmarksgade 28, 1. tv",7500, Holstebro,5775000 ,24-02-2004,Alm. Salg,45,128333,2,1900,
-661,Ejerlejlighed,"Danmarksgade 28, 1. th",7500, Holstebro,5775000 ,24-02-2004,Alm. Salg,52,111058,2,1900,
-661,Ejerlejlighed,"Enghavevej 18, kl",7500, Holstebro,5775000 ,24-02-2004,Alm. Salg,29,199138,2,1905,
-661,Ejerlejlighed,"Enghavevej 18, st",7500, Holstebro,5775000 ,24-02-2004,Alm. Salg,63,91667,3,1905,
-661,Ejerlejlighed,"Enghavevej 18, 1",7500, Holstebro,5775000 ,24-02-2004,Alm. Salg,90,64167,3,1905,
-661,Ejerlejlighed,"Enghavevej 20, st. th",7500, Holstebro,5775000 ,24-02-2004,Alm. Salg,52,111058,2,1903,
-661,Ejerlejlighed,"Enghavevej 20, 1. th",7500, Holstebro,5775000 ,24-02-2004,Alm. Salg,77,75000,3,1903,
-661,Ejerlejlighed,"Enghavevej 20, st. tv",7500, Holstebro,5775000 ,24-02-2004,Alm. Salg,80,72188,3,1903,
-661,Ejerlejlighed,"Enghavevej 20, 1. tv",7500, Holstebro,5775000 ,24-02-2004,Alm. Salg,50,115500,2,1903,
-661,Ejerlejlighed,"Enghavevej 20, 2. tv",7500, Holstebro,5775000 ,24-02-2004,Alm. Salg,66,87500,4,1903,
-661,Ejerlejlighed,"Enghavevej 20, 2. th",7500, Holstebro,5775000 ,24-02-2004,Alm. Salg,60,96250,3,1903,
 661,Villa,Malurten 16,7500, Holstebro,497500 ,24-02-2004,Alm. Salg,162,3071,7,1964,
 661,Rækkehus,Jens Søndergaards Vej 10,7500, Holstebro,1195000 ,23-02-2004,Alm. Salg,101,11832,4,1999,
 661,Rækkehus,Meldgårdvej 20,7500, Holstebro,326162 ,23-02-2004,Alm. Salg,91,3584,4,1991,
@@ -17265,9 +16885,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Fløjlsgræsset 30,7500, Holstebro,330000 ,18-02-2004,Alm. Salg,150,2200,5,2004,
 661,Villa,Estrupvej 44,7500, Holstebro,527507 ,18-02-2004,Alm. Salg,156,3381,5,1976,
 661,Rækkehus,Ahornsvinget 18,7500, Holstebro,725000 ,17-02-2004,Alm. Salg,77,9416,3,1989,
-661,Rækkehus,Knud Aggers Vej 63,7500, Holstebro,1140000 ,17-02-2004,Alm. Salg,111,10270,4,1999,
 661,Villa,Birkevej 5,7830, Vinderup,725000 ,17-02-2004,Alm. Salg,140,5179,4,1966,
-661,Villa,Wagnersvej 38,7500, Holstebro,1140000 ,17-02-2004,Alm. Salg,183,6230,5,1986,
 661,Rækkehus,Brahmsvej 40,7500, Holstebro,670000 ,16-02-2004,Alm. Salg,73,9178,3,1984,
 661,Villa,Skovvikken 20,7500, Holstebro,2096094 ,15-02-2004,Alm. Salg,215,9749,6,2004,
 661,Villa,Herningvej 46,7500, Holstebro,1000000 ,15-02-2004,Alm. Salg,122,8197,5,1961,
@@ -17315,7 +16933,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Bispebuen 10,7500, Holstebro,309000 ,02-02-2004,Alm. Salg,180,1717,7,2004,
 661,Villa,Webersvej 107,7500, Holstebro,1385000 ,02-02-2004,Alm. Salg,151,9172,7,1986,
 661,Villa,Nørhedevej 1,7500, Holstebro,1050000 ,02-02-2004,Alm. Salg,192,5469,5,1906,
-661,Rækkehus,Skivevej 36A,7500, Holstebro,1900000 ,01-02-2004,Alm. Salg,58,32759,2,1953,
 661,Villa,Ulsøevej 3,7500, Holstebro,1110000 ,01-02-2004,Alm. Salg,176,6307,5,1970,
 661,Villa,Voldgade 14,7500, Holstebro,1765000 ,01-02-2004,Alm. Salg,144,12257,5,1902,
 661,Villa,Estrupvej 42A,7500, Holstebro,333333 ,01-02-2004,Alm. Salg,219,1522,5,2004,
@@ -17537,15 +17154,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Rækkehus,Chopinsvej 66,7500, Holstebro,560000 ,04-11-2003,Alm. Salg,60,9333,3,1982,
 661,Villa,Burvej 7,7570, Vemb,315000 ,04-11-2003,Alm. Salg,120,2625,5,1923,
 661,Villa,Søparken 52,7500, Holstebro,2250000 ,04-11-2003,Alm. Salg,184,12228,6,1996,
-661,Ejerlejlighed,"Nørregade 44, 2. tv",7500, Holstebro,6333000 ,03-11-2003,Alm. Salg,74,85581,2,1909,
-661,Ejerlejlighed,"Nørregade 44, 2. th",7500, Holstebro,6333000 ,03-11-2003,Alm. Salg,80,79163,2,1909,
-661,Ejerlejlighed,"Nørregade 44, 1. th",7500, Holstebro,6333000 ,03-11-2003,Alm. Salg,80,79163,2,1909,
-661,Ejerlejlighed,"Nørregade 44, 3. th",7500, Holstebro,6333000 ,03-11-2003,Alm. Salg,75,84440,2,1909,
-661,Ejerlejlighed,"Nørregade 44, 1. tv",7500, Holstebro,6333000 ,03-11-2003,Alm. Salg,74,85581,2,1909,
-661,Ejerlejlighed,"Nygade 2, st",7500, Holstebro,6333000 ,03-11-2003,Alm. Salg,111,57054,4,1909,
-661,Ejerlejlighed,"Nygade 2, 1",7500, Holstebro,6333000 ,03-11-2003,Alm. Salg,123,51488,3,1909,
-661,Ejerlejlighed,"Nygade 2, 2",7500, Holstebro,6333000 ,03-11-2003,Alm. Salg,99,63970,3,1909,
-661,Ejerlejlighed,"Nørregade 44, 3. tv",7500, Holstebro,6333000 ,03-11-2003,Alm. Salg,69,91783,2,1909,
 661,Ejerlejlighed,"Doktorvænget 37, st. tv",7500, Holstebro,590000 ,03-11-2003,Alm. Salg,80,7375,3,1963,
 661,Villa,Lille Struervej 12,7500, Holstebro,920000 ,03-11-2003,Alm. Salg,80,11500,3,1947,
 661,Rækkehus,Torsgade 1,6990, Ulfborg,205000 ,02-11-2003,Alm. Salg,77,2662,3,1910,
@@ -17560,7 +17168,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Banetoften 68,7500, Holstebro,1876000 ,29-10-2003,Alm. Salg,141,13305,5,1973,
 661,Villa,Sirvej 8,7500, Holstebro,1250000 ,29-10-2003,Alm. Salg,283,4417,5,1970,
 661,Villa,Særkærparken 131,7500, Holstebro,995000 ,29-10-2003,Alm. Salg,128,7773,4,1972,
-661,Villa,Hesselåvej 1,7500, Holstebro,540000 ,28-10-2003,Alm. Salg,267,2022,5,1919,
 661,Rækkehus,Offenbachsvej 39A,7500, Holstebro,1000000 ,28-10-2003,Alm. Salg,112,8929,5,1983,
 661,Villa,Vesterlund 46,7830, Vinderup,860000 ,28-10-2003,Alm. Salg,138,6232,3,1975,
 661,Rækkehus,Mejdalparken 5,7500, Holstebro,1200000 ,27-10-2003,Alm. Salg,105,11429,4,2004,
@@ -17605,12 +17212,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Øster Stendisvej 6,7830, Vinderup,600000 ,13-10-2003,Alm. Salg,285,2105,8,1972,
 661,Villa,Flintøksen 72,7500, Holstebro,288000 ,13-10-2003,Alm. Salg,147,1959,5,2004,
 661,Villa,Steensgårdsvej 12,7500, Holstebro,310000 ,11-10-2003,Alm. Salg,172,1802,5,2004,
-661,Rækkehus,Pile Alle 2F,7500, Holstebro,1000000 ,09-10-2003,Alm. Salg,126,7937,4,1985,
 661,Rækkehus,Meldgårdvej 27,7500, Holstebro,925000 ,09-10-2003,Alm. Salg,90,10278,4,1996,
 661,Ejerlejlighed,Langelinie 21,7500, Holstebro,550000 ,09-10-2003,Alm. Salg,50,11000,2,1943,
 661,Villa,Bygaden 13,7570, Vemb,475000 ,09-10-2003,Alm. Salg,108,4398,4,1937,
 661,Villa,J Skjoldborgs Vej 10,7500, Holstebro,1075000 ,09-10-2003,Alm. Salg,159,6761,6,1961,
-661,Villa,Haydnsvej 3,7500, Holstebro,1000000 ,09-10-2003,Alm. Salg,126,7937,5,1982,
 661,Rækkehus,Laubsvej 93,7500, Holstebro,742000 ,08-10-2003,Alm. Salg,85,8729,4,1978,
 661,Ejerlejlighed,"Stationsvej 34, st",7500, Holstebro,795000 ,08-10-2003,Alm. Salg,131,6069,4,1922,
 661,Villa,Frøjkvej 55,7500, Holstebro,690000 ,08-10-2003,Alm. Salg,93,7419,3,1950,
@@ -17754,9 +17359,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Vesterled 6,7830, Vinderup,300000 ,20-08-2003,Alm. Salg,163,1840,7,1905,
 661,Villa,Tingvej 57,7800, Skive,270000 ,20-08-2003,Alm. Salg,180,1500,7,1903,
 661,Villa,Reberbanen 8,6990, Ulfborg,395000 ,20-08-2003,Alm. Salg,58,6810,4,1940,
-661,Rækkehus,Mysundevej 17B,7500, Holstebro,1000000 ,19-08-2003,Alm. Salg,74,13514,3,1970,
 661,Rækkehus,Offenbachsvej 183,7500, Holstebro,630000 ,19-08-2003,Alm. Salg,63,10000,3,1982,
-661,Villa,Mysundevej 17A,7500, Holstebro,1000000 ,19-08-2003,Alm. Salg,87,11494,3,1958,
 661,Villa,Jeppe Aakjærs Vej 70,7500, Holstebro,1025000 ,19-08-2003,Alm. Salg,178,5758,7,1962,
 661,Villa,Parkvej 144,7500, Holstebro,900000 ,19-08-2003,Alm. Salg,126,7143,4,1970,
 661,Villa,Agovej 11,7830, Vinderup,750000 ,18-08-2003,Alm. Salg,129,5814,6,1950,
@@ -18042,8 +17645,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Ejerlejlighed,"Doktorvænget 35, st. tv",7500, Holstebro,510000 ,06-05-2003,Alm. Salg,87,5862,3,1963,
 661,Villa,Majblomsten 14,7500, Holstebro,1285000 ,06-05-2003,Alm. Salg,120,10708,6,2003,
 661,Rækkehus,Laubsvej 105,7500, Holstebro,760000 ,05-05-2003,Alm. Salg,85,8941,4,1978,
-661,Rækkehus,Chopinsvej 15,7500, Holstebro,850000 ,05-05-2003,Alm. Salg,87,9770,4,1986,
-661,Villa,Prins Buris Vej 32A,7500, Holstebro,850000 ,05-05-2003,Alm. Salg,140,6071,5,1972,
 661,Villa,Idomvej 31,7500, Holstebro,1330000 ,05-05-2003,Alm. Salg,165,8061,5,1965,
 661,Villa,Vesterled 27,7830, Vinderup,695000 ,05-05-2003,Alm. Salg,82,8476,3,1949,
 661,Villa,Carl Nielsens Vej 16,7500, Holstebro,1100000 ,04-05-2003,Alm. Salg,190,5789,8,1976,
@@ -18058,9 +17659,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Tjørnevej 15,7500, Holstebro,1000000 ,29-04-2003,Alm. Salg,187,5348,6,1977,
 661,Villa,Vesterled 38,7830, Vinderup,150000 ,28-04-2003,Fam. Salg,101,1485,3,1963,
 661,Villa,Bjertparken 83,7830, Vinderup,189750 ,28-04-2003,Alm. Salg,132,1438,5,2004,
-661,Rækkehus,Brahmsvej 11,7500, Holstebro,630000 ,27-04-2003,Alm. Salg,73,8630,3,1983,
 661,Ejerlejlighed,"Brogården 9, st. 1",7500, Holstebro,480000 ,27-04-2003,Alm. Salg,50,9600,2,1965,
-661,Villa,Viborgvej 266,7500, Holstebro,630000 ,27-04-2003,Alm. Salg,148,4257,6,1925,
 661,Villa,Snerlevej 20,7500, Holstebro,1045000 ,26-04-2003,Alm. Salg,120,8708,4,1961,
 661,Rækkehus,Hartmannsvej 43,7500, Holstebro,695000 ,24-04-2003,Alm. Salg,100,6950,3,1975,
 661,Ejerlejlighed,"Doktorvænget 45, 1. mf",7500, Holstebro,300000 ,24-04-2003,Alm. Salg,28,10714,1,1965,
@@ -18209,10 +17808,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Slåenvej 78,7500, Holstebro,1360000 ,06-03-2003,Alm. Salg,180,7556,6,1979,
 661,Villa,Kragbækvej 4,7500, Holstebro,900000 ,06-03-2003,Fam. Salg,169,5325,5,1977,
 661,Villa,Stabyvej 20,6990, Ulfborg,316000 ,06-03-2003,Alm. Salg,70,4514,2,1926,
-661,Ejerlejlighed,Munkbrovej 2,7500, Holstebro,1330000 ,05-03-2003,Alm. Salg,160,8313,4,1958,
-661,Ejerlejlighed,Herningvej 102C,7500, Holstebro,1330000 ,05-03-2003,Alm. Salg,80,16625,2,1958,
-661,Ejerlejlighed,Herningvej 102B,7500, Holstebro,1330000 ,05-03-2003,Alm. Salg,110,12091,3,1958,
-661,Ejerlejlighed,Herningvej 102A,7500, Holstebro,1330000 ,05-03-2003,Alm. Salg,110,12091,4,1958,
 661,Villa,Majblomsten 28,7500, Holstebro,1633000 ,05-03-2003,Alm. Salg,195,8374,8,2003,
 661,Villa,Sognegårdsvej 30,6990, Ulfborg,1100000 ,05-03-2003,Alm. Salg,180,6111,7,1923,
 661,Rækkehus,Skovgårdsvej 9A,7500, Holstebro,350000 ,04-03-2003,Alm. Salg,111,3153,4,2006,
@@ -18695,7 +18290,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Færøvej 4,7500, Holstebro,1150000 ,14-08-2002,Alm. Salg,130,8846,5,1943,
 661,Villa,Ulfkjærvej 8,6990, Ulfborg,725000 ,14-08-2002,Alm. Salg,149,4866,4,1976,
 661,Villa,Majsvænget 29,7500, Holstebro,1375000 ,14-08-2002,Alm. Salg,158,8703,4,1970,
-661,Villa,Helgolandsgade 29C,7500, Holstebro,1500000 ,14-08-2002,Alm. Salg,140,10714,5,1902,
 661,Villa,Knud Aggers Vej 18,7500, Holstebro,754337 ,13-08-2002,Andet,144,5238,5,1999,
 661,Villa,Handbjergvej 18,7830, Vinderup,655000 ,13-08-2002,Alm. Salg,84,7798,3,1963,
 661,Rækkehus,Chopinsvej 64,7500, Holstebro,560000 ,11-08-2002,Alm. Salg,60,9333,3,1982,
@@ -18708,7 +18302,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Hasselholtvej 7,7830, Vinderup,965684 ,07-08-2002,Alm. Salg,158,6112,7,1900,
 661,Villa,Vinderupvej 8,7830, Vinderup,760000 ,07-08-2002,Fam. Salg,155,4903,5,1967,
 661,Villa,Svalevænget 2,7500, Holstebro,533000 ,07-08-2002,Fam. Salg,138,3862,4,1981,
-661,Villa,Viborgvej 43A,7500, Holstebro,2200000 ,07-08-2002,Alm. Salg,87,25287,3,1934,
 661,Villa,Vindelevgård 188,7830, Vinderup,1127000 ,06-08-2002,Alm. Salg,119,9471,4,1989,
 661,Villa,Engholmvej 3,7500, Holstebro,735000 ,06-08-2002,Alm. Salg,181,4061,7,1900,
 661,Rækkehus,Anna Anchers Vej 129,7500, Holstebro,825000 ,05-08-2002,Alm. Salg,91,9066,4,1988,
@@ -18802,7 +18395,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Åglimt 6,7800, Skive,500000 ,30-06-2002,Alm. Salg,158,3165,5,1973,
 661,Villa,Ejsingholmvej 14,7830, Vinderup,220000 ,30-06-2002,Alm. Salg,214,1028,8,1936,
 661,Villa,Skivevej 146,7500, Holstebro,1750000 ,30-06-2002,Alm. Salg,201,8216,8,1963,
-661,Villa,Sct Jørgens Gade 2,7500, Holstebro,630000 ,30-06-2002,Fam. Salg,110,5727,3,1932,
 661,Villa,Hornshøjparken 47,7500, Holstebro,1355500 ,30-06-2002,Alm. Salg,127,10673,6,1983,
 661,Rækkehus,Anna Anchers Vej 71,7500, Holstebro,950000 ,29-06-2002,Alm. Salg,109,8716,4,1997,
 661,Villa,Vesterhavsgade 13,6990, Ulfborg,460000 ,29-06-2002,Alm. Salg,97,4742,4,1934,
@@ -18996,15 +18588,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Fjordglimt 15,7830, Vinderup,1030000 ,23-04-2002,Alm. Salg,318,3239,9,1979,
 661,Villa,Herredsgade 25,6990, Ulfborg,385000 ,23-04-2002,Alm. Salg,121,3182,5,1910,
 661,Rækkehus,Meldgårdvej 38,7500, Holstebro,808000 ,22-04-2002,Alm. Salg,90,8978,4,1990,
-661,Ejerlejlighed,"Nørregade 44, 2. tv",7500, Holstebro,5150000 ,22-04-2002,Andet,74,69595,2,1909,
-661,Ejerlejlighed,"Nørregade 44, 2. th",7500, Holstebro,5150000 ,22-04-2002,Andet,80,64375,2,1909,
-661,Ejerlejlighed,"Nørregade 44, 1. th",7500, Holstebro,5150000 ,22-04-2002,Andet,80,64375,2,1909,
-661,Ejerlejlighed,"Nørregade 44, 3. th",7500, Holstebro,5150000 ,22-04-2002,Andet,75,68667,2,1909,
-661,Ejerlejlighed,"Nørregade 44, 1. tv",7500, Holstebro,5150000 ,22-04-2002,Andet,74,69595,2,1909,
-661,Ejerlejlighed,"Nygade 2, st",7500, Holstebro,5150000 ,22-04-2002,Andet,111,46396,4,1909,
-661,Ejerlejlighed,"Nygade 2, 1",7500, Holstebro,5150000 ,22-04-2002,Andet,123,41870,3,1909,
-661,Ejerlejlighed,"Nygade 2, 2",7500, Holstebro,5150000 ,22-04-2002,Andet,99,52020,3,1909,
-661,Ejerlejlighed,"Nørregade 44, 3. tv",7500, Holstebro,5150000 ,22-04-2002,Andet,69,74638,2,1909,
 661,Villa,Wagnersvej 20,7500, Holstebro,1150000 ,22-04-2002,Alm. Salg,124,9274,5,1986,
 661,Ejerlejlighed,"Jeppe Schous Gade 8, 1. mf",7500, Holstebro,1050000 ,21-04-2002,Alm. Salg,100,10500,3,1989,
 661,Villa,Dybbølsgade 3,7500, Holstebro,750000 ,21-04-2002,Alm. Salg,91,8242,3,1961,
@@ -19314,7 +18897,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Knud Aggers Vej 45,7500, Holstebro,307000 ,03-12-2001,Alm. Salg,158,1943,7,2003,
 661,Villa,Sevelvej 81,7830, Vinderup,600000 ,01-12-2001,Alm. Salg,127,4724,4,1874,
 661,Villa,Kaj Munks Vej 23,7500, Holstebro,796000 ,30-11-2001,Alm. Salg,94,8468,4,1959,
-661,Villa,Lemvigvej 8A,7500, Holstebro,650000 ,30-11-2001,Alm. Salg,75,8667,2,1900,
 661,Rækkehus,Uhresøvej 61,7500, Holstebro,785000 ,29-11-2001,Alm. Salg,97,8093,3,1988,
 661,Ejerlejlighed,"Lyksborgvej 38, 1. 117",7500, Holstebro,278000 ,29-11-2001,Alm. Salg,43,6465,2,1973,
 661,Rækkehus,Sønder Alle 11,7500, Holstebro,825000 ,28-11-2001,Alm. Salg,108,7639,3,1910,
@@ -19917,10 +19499,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Skoleparken 79,7500, Holstebro,1360000 ,07-04-2001,Alm. Salg,169,8047,6,1986,
 661,Villa,Vesterbakken 2,7500, Holstebro,1125000 ,06-04-2001,Alm. Salg,156,7212,4,1966,
 661,Rækkehus,Klostervej 3,7500, Holstebro,723000 ,05-04-2001,Alm. Salg,140,5164,5,1902,
-661,Ejerlejlighed,"Bredgade 2, 1",6990, Ulfborg,1335000 ,05-04-2001,Fam. Salg,158,8449,5,1875,
-661,Ejerlejlighed,Herredsgade 3A,6990, Ulfborg,1335000 ,05-04-2001,Fam. Salg,77,17338,2,1875,
-661,Ejerlejlighed,Herredsgade 3B,6990, Ulfborg,1335000 ,05-04-2001,Fam. Salg,94,14202,4,1875,
-661,Ejerlejlighed,Herredsgade 1,6990, Ulfborg,1335000 ,05-04-2001,Fam. Salg,117,11410,4,1875,
 661,Villa,Østerled 8A,6990, Ulfborg,680000 ,05-04-2001,Alm. Salg,128,5313,4,1985,
 661,Villa,Klostervej 95,7500, Holstebro,184000 ,05-04-2001,Alm. Salg,144,1278,5,2002,
 661,Villa,Holmegade 48,6990, Ulfborg,967978 ,05-04-2001,Alm. Salg,193,5015,6,1976,
@@ -19946,11 +19524,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Lærkesporen 24,7500, Holstebro,331000 ,26-03-2001,Alm. Salg,117,2829,4,2001,
 661,Rækkehus,Fabersvej 64,7500, Holstebro,680000 ,25-03-2001,Alm. Salg,86,7907,4,1979,
 661,Rækkehus,Meldgårdvej 36,7500, Holstebro,864040 ,25-03-2001,Alm. Salg,90,9600,4,1991,
-661,Ejerlejlighed,Bredgade 13A. th,6990, Ulfborg,667000 ,25-03-2001,Auktion,61,10934,2,1880,
-661,Ejerlejlighed,Bredgade 13A. tv,6990, Ulfborg,667000 ,25-03-2001,Auktion,61,10934,2,1880,
-661,Ejerlejlighed,"Tømmerslippen 7, 1",6990, Ulfborg,667000 ,25-03-2001,Auktion,129,5171,4,1880,
-661,Ejerlejlighed,"Tømmerslippen 1, 1. tv",6990, Ulfborg,667000 ,25-03-2001,Auktion,98,6806,5,1880,
-661,Ejerlejlighed,"Tømmerslippen 7, st",6990, Ulfborg,667000 ,25-03-2001,Auktion,105,6352,4,1880,
 661,Ejerlejlighed,"Brogården 7, 2. th",7500, Holstebro,565000 ,25-03-2001,Alm. Salg,73,7740,4,1965,
 661,Ejerlejlighed,"Doktorvænget 5, 2. tv",7500, Holstebro,500004 ,25-03-2001,Alm. Salg,87,5747,4,1963,
 661,Villa,Wesselsvej 17,7500, Holstebro,745000 ,25-03-2001,Alm. Salg,129,5775,6,1961,
@@ -19979,11 +19552,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Prins Buris Vej 6,7500, Holstebro,816000 ,15-03-2001,Alm. Salg,158,5165,5,1961,
 661,Villa,Rolighedsvej 14,6990, Ulfborg,480000 ,15-03-2001,Alm. Salg,120,4000,4,1975,
 661,Villa,Øster Trabjergvej 5,7500, Holstebro,1040000 ,15-03-2001,Alm. Salg,193,5389,6,1905,
-661,Rækkehus,Mølleparken 8,7500, Holstebro,1195000 ,14-03-2001,Alm. Salg,143,8357,4,1987,
 661,Ejerlejlighed,"Allegade 2C, 1. tv",7500, Holstebro,432000 ,14-03-2001,Alm. Salg,52,8308,2,1907,
 661,Villa,Høstvænget 14,7500, Holstebro,1837500 ,14-03-2001,Alm. Salg,234,7853,5,1972,
 661,Villa,Majblomsten 22,7500, Holstebro,316000 ,14-03-2001,Alm. Salg,147,2150,6,2001,
-661,Villa,H C Lumbyes Vej 33,7500, Holstebro,1195000 ,14-03-2001,Alm. Salg,185,6459,4,1976,
 661,Villa,Tvislundvej 10,7500, Holstebro,501633 ,14-03-2001,Alm. Salg,120,4180,6,1904,
 661,Villa,Gl Struervej 21,7500, Holstebro,750000 ,14-03-2001,Alm. Salg,125,6000,5,1908,
 661,Villa,Viborgvej 38A,7500, Holstebro,940000 ,14-03-2001,Alm. Salg,204,4608,9,1977,
@@ -20005,7 +19576,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Bygvænget 11,7500, Holstebro,1015000 ,08-03-2001,Alm. Salg,162,6265,4,1969,
 661,Villa,Bramsvej 7,6990, Ulfborg,525000 ,08-03-2001,Alm. Salg,108,4861,3,1958,
 661,Rækkehus,Grundtvigsvej 22A,7500, Holstebro,1065000 ,07-03-2001,Alm. Salg,92,11576,4,1998,
-661,Villa,Skolegade 49,7500, Holstebro,1035000 ,07-03-2001,Alm. Salg,98,10561,4,1962,
 661,Villa,Bjertparken 37,7830, Vinderup,102375 ,07-03-2001,Alm. Salg,137,747,4,2001,
 661,Villa,Engvej 8,7500, Holstebro,1460000 ,07-03-2001,Alm. Salg,160,9125,6,1949,
 661,Rækkehus,Nørreled 12,7500, Holstebro,547000 ,06-03-2001,Alm. Salg,67,8164,3,1983,
@@ -20455,7 +20025,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Vesterlund 25,7830, Vinderup,1054800 ,05-09-2000,Alm. Salg,206,5120,6,1973,
 661,Villa,Toften 36,7830, Vinderup,860000 ,05-09-2000,Alm. Salg,149,5772,5,1969,
 661,Villa,Bygvænget 34,7500, Holstebro,930000 ,04-09-2000,Alm. Salg,122,7623,4,1969,
-661,Villa,Istedgade 35A,7500, Holstebro,1100000 ,04-09-2000,Alm. Salg,130,8462,3,1935,
 661,Rækkehus,Anna Anchers Vej 7,7500, Holstebro,870000 ,03-09-2000,Alm. Salg,90,9667,4,1995,
 661,Rækkehus,Meldgårdvej 22,7500, Holstebro,830000 ,03-09-2000,Alm. Salg,91,9121,4,1991,
 661,Ejerlejlighed,Niels Kjeldsens Vej 20B,7500, Holstebro,210000 ,03-09-2000,Alm. Salg,26,8077,1,1970,
@@ -20732,11 +20301,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Stationsvej 3,7830, Vinderup,590000 ,28-05-2000,Alm. Salg,158,3734,5,1948,
 661,Villa,Linde Alle 8,7500, Holstebro,1083000 ,28-05-2000,Alm. Salg,216,5014,7,1960,
 661,Villa,Provst Lønstrups Vej 64,7500, Holstebro,1513389 ,27-05-2000,Alm. Salg,200,7567,7,1998,
-661,Ejerlejlighed,Niels Buggesvej 2,6990, Ulfborg,183816 ,25-05-2000,Fam. Salg,58,3169,2,1912,
-661,Ejerlejlighed,Harbogade 44B,6990, Ulfborg,183816 ,25-05-2000,Fam. Salg,40,4595,2,1910,
-661,Ejerlejlighed,"Harbogade 44A, st",6990, Ulfborg,183816 ,25-05-2000,Fam. Salg,80,2298,3,1910,
-661,Ejerlejlighed,"Harbogade 44A, 1",6990, Ulfborg,183816 ,25-05-2000,Fam. Salg,34,5406,2,1910,
-661,Ejerlejlighed,"Harbogade 44C, 1",6990, Ulfborg,183816 ,25-05-2000,Fam. Salg,54,3404,2,1912,
 661,Villa,Møllersvej 11,7830, Vinderup,997130 ,25-05-2000,Alm. Salg,132,7554,4,1937,
 661,Villa,Kytterupvej 5,6990, Ulfborg,315000 ,25-05-2000,Alm. Salg,81,3889,4,1962,
 661,Villa,Chr Winthers Vej 61,7500, Holstebro,1063000 ,25-05-2000,Alm. Salg,153,6948,4,1971,
@@ -21020,12 +20584,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Ulsøevej 39,7500, Holstebro,897000 ,28-02-2000,Alm. Salg,132,6795,5,1976,
 661,Villa,Rugvænget 22,6990, Ulfborg,80000 ,28-02-2000,Alm. Salg,166,482,5,2002,
 661,Villa,Viumvej 1,6990, Ulfborg,550000 ,28-02-2000,Alm. Salg,141,3901,6,1909,
-661,Ejerlejlighed,"Horsstræde 1, 1. 3",7500, Holstebro,5500000 ,27-02-2000,Alm. Salg,1,5500000,1,1770,
-661,Ejerlejlighed,"Horsstræde 1, 1. 2",7500, Holstebro,5500000 ,27-02-2000,Alm. Salg,1,5500000,1,1770,
-661,Ejerlejlighed,"Horsstræde 1, 1. 4",7500, Holstebro,5500000 ,27-02-2000,Alm. Salg,1,5500000,1,1770,
-661,Ejerlejlighed,"Nørregade 3, 2. th",7500, Holstebro,5500000 ,27-02-2000,Alm. Salg,134,41045,4,1770,
-661,Ejerlejlighed,"Nørregade 3A, 2",7500, Holstebro,5500000 ,27-02-2000,Alm. Salg,77,71429,2,1770,
-661,Ejerlejlighed,"Nørregade 3, 2. tv",7500, Holstebro,5500000 ,27-02-2000,Alm. Salg,109,50459,3,1770,
 661,Villa,Svalevej 4,6990, Ulfborg,449000 ,27-02-2000,Alm. Salg,119,3773,3,1976,
 661,Villa,Harald Damtofts Vej 109,7500, Holstebro,825000 ,27-02-2000,Alm. Salg,103,8010,4,1989,
 661,Rækkehus,Webersvej 28,7500, Holstebro,560000 ,26-02-2000,Alm. Salg,61,9180,3,1986,
@@ -21801,7 +21359,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Dybbølsgade 27,7500, Holstebro,1100000 ,26-04-1999,Alm. Salg,103,10680,4,1949,
 661,Villa,Harrestrupvej 55,7500, Holstebro,800000 ,25-04-1999,Alm. Salg,159,5031,5,1958,
 661,Villa,Kildevej 20,7500, Holstebro,520000 ,25-04-1999,Alm. Salg,74,7027,2,1943,
-661,Villa,Skautrupvej 36A,7500, Holstebro,1500000 ,25-04-1999,Alm. Salg,156,9615,3,1938,
 661,Villa,Sdr Hedegårdsvej 3,7570, Vemb,385000 ,25-04-1999,Alm. Salg,96,4010,4,1964,
 661,Villa,Vesterbakken 3,7500, Holstebro,1480000 ,25-04-1999,Alm. Salg,223,6637,5,1974,
 661,Villa,Ole Rømers Vej 37,7500, Holstebro,840000 ,25-04-1999,Alm. Salg,150,5600,5,1971,
@@ -22137,12 +21694,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Nørhedevej 17,6990, Ulfborg,350000 ,28-12-1998,Alm. Salg,119,2941,4,1965,
 661,Villa,Elkjærvej 33A,7500, Holstebro,1000000 ,28-12-1998,Alm. Salg,181,5525,4,1977,
 661,Ejerlejlighed,"Bisgårdgade 8, 2. tv",7500, Holstebro,618080 ,27-12-1998,Alm. Salg,77,8027,2,1900,
-661,Ejerlejlighed,"Horsstræde 1, 1. 3",7500, Holstebro,3273000 ,26-12-1998,Alm. Salg,1,3273000,1,1770,
-661,Ejerlejlighed,"Horsstræde 1, 1. 2",7500, Holstebro,3273000 ,26-12-1998,Alm. Salg,1,3273000,1,1770,
-661,Ejerlejlighed,"Horsstræde 1, 1. 4",7500, Holstebro,3273000 ,26-12-1998,Alm. Salg,1,3273000,1,1770,
-661,Ejerlejlighed,"Nørregade 3, 2. th",7500, Holstebro,3273000 ,26-12-1998,Alm. Salg,134,24425,4,1770,
-661,Ejerlejlighed,"Nørregade 3A, 2",7500, Holstebro,3273000 ,26-12-1998,Alm. Salg,77,42506,2,1770,
-661,Ejerlejlighed,"Nørregade 3, 2. tv",7500, Holstebro,3273000 ,26-12-1998,Alm. Salg,109,30028,3,1770,
 661,Villa,Viborgvej 220,7500, Holstebro,790000 ,23-12-1998,Fam. Salg,152,2862,8,1908,
 661,Villa,Bisgårdtoft 18,7500, Holstebro,720000 ,22-12-1998,Alm. Salg,82,8780,4,1936,
 661,Ejerlejlighed,"Kildevej 8G, 1. 11",7500, Holstebro,250000 ,21-12-1998,Alm. Salg,33,7576,1,1982,
@@ -22158,20 +21709,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Malurten 12,7500, Holstebro,620500 ,16-12-1998,Fam. Salg,123,5045,3,1963,
 661,Rækkehus,Jens Søndergaards Vej 10,7500, Holstebro,1004004 ,15-12-1998,Alm. Salg,101,9941,4,1999,
 661,Villa,Hellasvej 5,7500, Holstebro,1435000 ,15-12-1998,Alm. Salg,151,9503,5,1986,
-661,Ejerlejlighed,"Danmarksgade 28, st. tv",7500, Holstebro,3800000 ,14-12-1998,Alm. Salg,53,71698,2,1900,
-661,Ejerlejlighed,"Danmarksgade 28, st. th",7500, Holstebro,3800000 ,14-12-1998,Alm. Salg,44,86364,2,1900,
-661,Ejerlejlighed,"Danmarksgade 28, 1. tv",7500, Holstebro,3800000 ,14-12-1998,Alm. Salg,45,84444,2,1900,
-661,Ejerlejlighed,"Danmarksgade 28, 1. th",7500, Holstebro,3800000 ,14-12-1998,Alm. Salg,52,73077,2,1900,
-661,Ejerlejlighed,"Enghavevej 18, kl",7500, Holstebro,3800000 ,14-12-1998,Alm. Salg,29,131034,2,1905,
-661,Ejerlejlighed,"Enghavevej 18, st",7500, Holstebro,3800000 ,14-12-1998,Alm. Salg,63,60317,3,1905,
-661,Ejerlejlighed,"Enghavevej 18, 1",7500, Holstebro,3800000 ,14-12-1998,Alm. Salg,90,42222,3,1905,
-661,Ejerlejlighed,"Enghavevej 20, st. th",7500, Holstebro,3800000 ,14-12-1998,Alm. Salg,52,73077,2,1903,
-661,Ejerlejlighed,"Enghavevej 20, 1. th",7500, Holstebro,3800000 ,14-12-1998,Alm. Salg,77,49351,3,1903,
-661,Ejerlejlighed,"Enghavevej 20, st. tv",7500, Holstebro,3800000 ,14-12-1998,Alm. Salg,80,47500,3,1903,
-661,Ejerlejlighed,"Enghavevej 20, 1. tv",7500, Holstebro,3800000 ,14-12-1998,Alm. Salg,50,76000,2,1903,
 661,Ejerlejlighed,"Kirkepladsen 6, 1",7500, Holstebro,1273800 ,14-12-1998,Alm. Salg,174,7321,6,1898,
-661,Ejerlejlighed,"Enghavevej 20, 2. tv",7500, Holstebro,3800000 ,14-12-1998,Alm. Salg,66,57576,4,1903,
-661,Ejerlejlighed,"Enghavevej 20, 2. th",7500, Holstebro,3800000 ,14-12-1998,Alm. Salg,60,63333,3,1903,
 661,Villa,Stensigvej 18,7570, Vemb,350000 ,14-12-1998,Fam. Salg,177,1977,9,1934,
 661,Villa,Hulvejen 10,7500, Holstebro,650000 ,14-12-1998,Alm. Salg,193,3368,6,2000,
 661,Villa,Fjordglimt 15,7830, Vinderup,960000 ,14-12-1998,Alm. Salg,318,3019,9,1979,
@@ -22658,38 +22196,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Rækkehus,Skjernvej 6,7500, Holstebro,725000 ,21-06-1998,Alm. Salg,123,5894,5,1912,
 661,Rækkehus,Hornshøjparken 2C,7500, Holstebro,927665 ,21-06-1998,Alm. Salg,98,9466,4,1998,
 661,Rækkehus,Kobberupvej 209,7500, Holstebro,985000 ,21-06-1998,Alm. Salg,126,7817,4,1986,
-661,Ejerlejlighed,"Wesselsvej 1, st. th",7500, Holstebro,9769302 ,21-06-1998,Alm. Salg,77,126874,3,1938,
-661,Ejerlejlighed,"Wesselsvej 1, st. tv",7500, Holstebro,9769302 ,21-06-1998,Alm. Salg,85,114933,3,1938,
-661,Ejerlejlighed,"Wesselsvej 1, 1. tv",7500, Holstebro,9769302 ,21-06-1998,Alm. Salg,88,111015,3,1938,
-661,Ejerlejlighed,"Wesselsvej 1, 1. th",7500, Holstebro,9769302 ,21-06-1998,Alm. Salg,80,122116,3,1938,
-661,Ejerlejlighed,"Wesselsvej 1, 2. tv",7500, Holstebro,9769302 ,21-06-1998,Alm. Salg,88,111015,3,1938,
-661,Ejerlejlighed,"Wesselsvej 1, 2. th",7500, Holstebro,9769302 ,21-06-1998,Alm. Salg,80,122116,3,1938,
-661,Ejerlejlighed,"Wesselsvej 1, 3. tv",7500, Holstebro,9769302 ,21-06-1998,Alm. Salg,75,130257,3,1938,
-661,Ejerlejlighed,"Wesselsvej 1, 3. th",7500, Holstebro,9769302 ,21-06-1998,Alm. Salg,69,141584,3,1938,
-661,Ejerlejlighed,"Wesselsvej 3, st. tv",7500, Holstebro,9769302 ,21-06-1998,Alm. Salg,64,152645,2,1938,
-661,Ejerlejlighed,"Wesselsvej 3, st. th",7500, Holstebro,9769302 ,21-06-1998,Alm. Salg,64,152645,2,1938,
-661,Ejerlejlighed,"Wesselsvej 3, 1. th",7500, Holstebro,9769302 ,21-06-1998,Alm. Salg,66,148020,2,1938,
-661,Ejerlejlighed,"Wesselsvej 3, 2. tv",7500, Holstebro,9769302 ,21-06-1998,Alm. Salg,66,148020,2,1938,
-661,Ejerlejlighed,"Wesselsvej 3, 3. tv",7500, Holstebro,9769302 ,21-06-1998,Alm. Salg,57,171391,2,1938,
-661,Ejerlejlighed,"Wesselsvej 3, 2. th",7500, Holstebro,9769302 ,21-06-1998,Alm. Salg,66,148020,2,1938,
-661,Ejerlejlighed,"Wesselsvej 3, 1. tv",7500, Holstebro,9769302 ,21-06-1998,Alm. Salg,66,148020,2,1938,
-661,Ejerlejlighed,"Wesselsvej 3, 3. th",7500, Holstebro,9769302 ,21-06-1998,Alm. Salg,57,171391,2,1938,
-661,Ejerlejlighed,"Skivevej 49A, st. th",7500, Holstebro,9769302 ,21-06-1998,Alm. Salg,67,145810,3,1938,
-661,Ejerlejlighed,"Skivevej 49A, st. tv",7500, Holstebro,9769302 ,21-06-1998,Alm. Salg,75,130257,3,1938,
-661,Ejerlejlighed,"Skivevej 49A, 2. th",7500, Holstebro,9769302 ,21-06-1998,Alm. Salg,70,139561,3,1938,
-661,Ejerlejlighed,"Skivevej 49A, 2. tv",7500, Holstebro,9769302 ,21-06-1998,Alm. Salg,77,126874,3,1938,
-661,Ejerlejlighed,"Skivevej 49A, 1. tv",7500, Holstebro,9769302 ,21-06-1998,Alm. Salg,77,126874,3,1938,
-661,Ejerlejlighed,"Skivevej 49A, 3. tv",7500, Holstebro,9769302 ,21-06-1998,Alm. Salg,67,145810,3,1938,
-661,Ejerlejlighed,"Skivevej 49B, st. th",7500, Holstebro,9769302 ,21-06-1998,Alm. Salg,67,145810,3,1938,
-661,Ejerlejlighed,"Skivevej 49B, 1. tv",7500, Holstebro,9769302 ,21-06-1998,Alm. Salg,77,126874,3,1938,
-661,Ejerlejlighed,"Skivevej 49A, 3. th",7500, Holstebro,9769302 ,21-06-1998,Alm. Salg,60,162822,3,1938,
-661,Ejerlejlighed,"Skivevej 49B, st. tv",7500, Holstebro,9769302 ,21-06-1998,Alm. Salg,75,130257,3,1938,
-661,Ejerlejlighed,"Skivevej 49B, 1. th",7500, Holstebro,9769302 ,21-06-1998,Alm. Salg,70,139561,3,1938,
-661,Ejerlejlighed,"Skivevej 49B, 2. th",7500, Holstebro,9769302 ,21-06-1998,Alm. Salg,70,139561,3,1938,
-661,Ejerlejlighed,"Skivevej 49A, 1. th",7500, Holstebro,9769302 ,21-06-1998,Alm. Salg,70,139561,3,1938,
-661,Ejerlejlighed,"Skivevej 49B, 2. tv",7500, Holstebro,9769302 ,21-06-1998,Alm. Salg,77,126874,3,1938,
-661,Ejerlejlighed,"Skivevej 49B, 3. tv",7500, Holstebro,9769302 ,21-06-1998,Alm. Salg,67,145810,3,1938,
-661,Ejerlejlighed,"Skivevej 49B, 3. th",7500, Holstebro,9769302 ,21-06-1998,Alm. Salg,60,162822,3,1938,
 661,Villa,Hovedgaden 58,7500, Holstebro,440000 ,21-06-1998,Alm. Salg,88,5000,4,1959,
 661,Villa,Suensonsvej 27,7500, Holstebro,397500 ,21-06-1998,Alm. Salg,115,3457,4,1963,
 661,Villa,Liljekonvallen 22,7500, Holstebro,307000 ,21-06-1998,Alm. Salg,213,1441,7,2000,
@@ -22973,10 +22479,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Banevænget 3,7830, Vinderup,855000 ,24-03-1998,Alm. Salg,127,6732,5,1986,
 661,Villa,Hans Egedes Vej 9,7500, Holstebro,849000 ,24-03-1998,Alm. Salg,104,8163,4,1956,
 661,Ejerlejlighed,"Langelinie 17, 1. 6",7500, Holstebro,420000 ,23-03-1998,Alm. Salg,53,7925,2,1943,
-661,Ejerlejlighed,"Kielgasten 15, kl",7500, Holstebro,1840000 ,23-03-1998,Alm. Salg,21,87619,1,1906,
-661,Ejerlejlighed,"Kielgasten 15, 1",7500, Holstebro,1840000 ,23-03-1998,Alm. Salg,87,21149,3,1906,
-661,Ejerlejlighed,"Østergade 28, st",7500, Holstebro,1840000 ,23-03-1998,Alm. Salg,83,22169,3,1906,
-661,Ejerlejlighed,"Østergade 28, 2",7500, Holstebro,1840000 ,23-03-1998,Alm. Salg,79,23291,2,1906,
 661,Villa,Klintevej 13,7500, Holstebro,1564000 ,23-03-1998,Alm. Salg,178,8787,6,1972,
 661,Villa,Dinesensvej 13,7570, Vemb,900000 ,23-03-1998,Alm. Salg,160,5625,7,1970,
 661,Rækkehus,Anna Anchers Vej 75,7500, Holstebro,964504 ,22-03-1998,Alm. Salg,111,8689,4,1998,
@@ -23065,42 +22567,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Wagnersvej 8,7500, Holstebro,476000 ,03-03-1998,Alm. Salg,126,3778,5,1985,
 661,Villa,Lægårdvej 41,7500, Holstebro,729752 ,03-03-1998,Fam. Salg,151,4833,5,1914,
 661,Villa,Kroghsvej 42,7500, Holstebro,792000 ,03-03-1998,Alm. Salg,105,7543,4,1962,
-661,Ejerlejlighed,"Mejdalvej 1, 3. th",7500, Holstebro,8650000 ,02-03-1998,Alm. Salg,77,112338,3,1949,
-661,Ejerlejlighed,"Mejdalvej 3, 1. th",7500, Holstebro,8650000 ,02-03-1998,Alm. Salg,90,96111,4,1949,
-661,Ejerlejlighed,"Mejdalvej 3, st. th",7500, Holstebro,8650000 ,02-03-1998,Alm. Salg,90,96111,4,1949,
-661,Ejerlejlighed,"Mejdalvej 1, 3. tv",7500, Holstebro,8650000 ,02-03-1998,Alm. Salg,92,94022,4,1949,
-661,Ejerlejlighed,"Mejdalvej 3, st. tv",7500, Holstebro,8650000 ,02-03-1998,Alm. Salg,76,113816,3,1949,
-661,Ejerlejlighed,"Mejdalvej 3, 2. th",7500, Holstebro,8650000 ,02-03-1998,Alm. Salg,90,96111,4,1949,
-661,Ejerlejlighed,"Mejdalvej 3, 1. tv",7500, Holstebro,8650000 ,02-03-1998,Alm. Salg,76,113816,3,1949,
-661,Ejerlejlighed,"Mejdalvej 3, 2. tv",7500, Holstebro,8650000 ,02-03-1998,Alm. Salg,76,113816,3,1949,
-661,Ejerlejlighed,"Mejdalvej 3, 3. tv",7500, Holstebro,8650000 ,02-03-1998,Alm. Salg,76,113816,3,1949,
-661,Ejerlejlighed,"Mejdalvej 3, 3. th",7500, Holstebro,8650000 ,02-03-1998,Alm. Salg,90,96111,4,1949,
-661,Ejerlejlighed,"Østerbrogade 53, 3. th",7500, Holstebro,8650000 ,02-03-1998,Alm. Salg,108,80093,4,1949,
-661,Ejerlejlighed,"Østerbrogade 53, 2. tv",7500, Holstebro,8650000 ,02-03-1998,Alm. Salg,61,141803,2,1949,
-661,Ejerlejlighed,"Østerbrogade 53, 1. tv",7500, Holstebro,8650000 ,02-03-1998,Alm. Salg,61,141803,2,1949,
-661,Ejerlejlighed,"Østerbrogade 51, kl. th",7500, Holstebro,8650000 ,02-03-1998,Alm. Salg,37,233784,1,1949,
-661,Ejerlejlighed,"Østerbrogade 51, kl. tv",7500, Holstebro,8650000 ,02-03-1998,Alm. Salg,49,176531,1,1949,
-661,Ejerlejlighed,"Østerbrogade 51, 1. tv",7500, Holstebro,8650000 ,02-03-1998,Alm. Salg,61,141803,2,1949,
-661,Ejerlejlighed,"Østerbrogade 51, st. th",7500, Holstebro,8650000 ,02-03-1998,Alm. Salg,61,141803,2,1949,
-661,Ejerlejlighed,"Østerbrogade 51, st. tv",7500, Holstebro,8650000 ,02-03-1998,Alm. Salg,61,141803,2,1949,
-661,Ejerlejlighed,"Østerbrogade 51, 1. th",7500, Holstebro,8650000 ,02-03-1998,Alm. Salg,61,141803,2,1949,
-661,Ejerlejlighed,"Østerbrogade 51, 3. th",7500, Holstebro,8650000 ,02-03-1998,Alm. Salg,61,141803,2,1949,
-661,Ejerlejlighed,"Østerbrogade 51, 2. th",7500, Holstebro,8650000 ,02-03-1998,Alm. Salg,61,141803,2,1949,
-661,Ejerlejlighed,"Østerbrogade 53, st. th",7500, Holstebro,8650000 ,02-03-1998,Alm. Salg,76,113816,2,1949,
-661,Ejerlejlighed,"Østerbrogade 51, 3. tv",7500, Holstebro,8650000 ,02-03-1998,Alm. Salg,61,141803,2,1949,
-661,Ejerlejlighed,"Østerbrogade 51, 2. tv",7500, Holstebro,8650000 ,02-03-1998,Alm. Salg,61,141803,2,1949,
-661,Ejerlejlighed,"Østerbrogade 53, st. tv",7500, Holstebro,8650000 ,02-03-1998,Alm. Salg,61,141803,2,1949,
-661,Ejerlejlighed,Østerbrogade 53A,7500, Holstebro,8650000 ,02-03-1998,Alm. Salg,63,137302,2,1949,
-661,Ejerlejlighed,"Østerbrogade 53, 1. th",7500, Holstebro,8650000 ,02-03-1998,Alm. Salg,108,80093,4,1949,
-661,Ejerlejlighed,"Mejdalvej 1, st. tv",7500, Holstebro,8650000 ,02-03-1998,Alm. Salg,61,141803,2,1949,
-661,Ejerlejlighed,"Mejdalvej 1, st. th",7500, Holstebro,8650000 ,02-03-1998,Alm. Salg,77,112338,3,1949,
-661,Ejerlejlighed,"Mejdalvej 1, 1. th",7500, Holstebro,8650000 ,02-03-1998,Alm. Salg,77,112338,3,1949,
-661,Ejerlejlighed,"Mejdalvej 1, 1. tv",7500, Holstebro,8650000 ,02-03-1998,Alm. Salg,92,94022,4,1949,
-661,Ejerlejlighed,"Mejdalvej 1, 2. th",7500, Holstebro,8650000 ,02-03-1998,Alm. Salg,77,112338,3,1949,
-661,Ejerlejlighed,"Mejdalvej 1, 2. tv",7500, Holstebro,8650000 ,02-03-1998,Alm. Salg,92,94022,4,1949,
-661,Ejerlejlighed,"Østerbrogade 53, 3. tv",7500, Holstebro,8650000 ,02-03-1998,Alm. Salg,61,141803,2,1949,
-661,Ejerlejlighed,"Østerbrogade 53, 2. th",7500, Holstebro,8650000 ,02-03-1998,Alm. Salg,108,80093,4,1949,
-661,Villa,Mejdalvej 5,7500, Holstebro,8650000 ,02-03-1998,Alm. Salg,72,120139,3,1945,
 661,Villa,Slåenvej 152,7500, Holstebro,460000 ,02-03-1998,Alm. Salg,140,3286,5,1979,
 661,Villa,Vibevej 28,7500, Holstebro,250000 ,02-03-1998,Alm. Salg,154,1623,5,2003,
 661,Villa,Skivevej 91,7500, Holstebro,834000 ,02-03-1998,Alm. Salg,123,6780,4,1951,
@@ -23194,17 +22660,13 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Harald Damtofts Vej 107,7500, Holstebro,126000 ,04-02-1998,Alm. Salg,149,846,5,1998,
 661,Villa,Virkelyst 6,7500, Holstebro,895000 ,04-02-1998,Alm. Salg,165,5424,4,1959,
 661,Villa,Vester Feldborgvej 8,7500, Holstebro,758000 ,03-02-1998,Alm. Salg,143,5301,4,1878,
-661,Ejerlejlighed,Hvamvej 61,7500, Holstebro,485000 ,02-02-1998,Fam. Salg,72,3440,3,1991,
 661,Villa,Præstegårdsvej 10,7570, Vemb,174000 ,02-02-1998,Alm. Salg,126,1381,4,1908,
-661,Villa,Hvamvej 61,7500, Holstebro,485000 ,02-02-1998,Fam. Salg,84,5774,4,1905,
 661,Villa,Østparken 16,7830, Vinderup,575000 ,02-02-1998,Alm. Salg,197,2919,7,1973,
 661,Rækkehus,Bachsvej 38A,7500, Holstebro,197435 ,01-02-1998,Alm. Salg,60,3291,3,1983,
 661,Villa,Bisgårdvej 39,7500, Holstebro,895000 ,01-02-1998,Alm. Salg,180,4972,6,1975,
 661,Villa,Skivevej 2,7830, Vinderup,301744 ,01-02-1998,Alm. Salg,140,2155,3,1942,
 661,Villa,Møllevej 20,7500, Holstebro,1089206 ,31-01-1998,Alm. Salg,154,7073,5,1937,
-661,Ejerlejlighed,Hvamvej 61,7500, Holstebro,450000 ,29-01-1998,Alm. Salg,72,3191,3,1991,
 661,Villa,Vinderupvej 5,7830, Vinderup,462768 ,29-01-1998,Alm. Salg,110,4207,4,1952,
-661,Villa,Hvamvej 61,7500, Holstebro,450000 ,29-01-1998,Alm. Salg,84,5357,4,1905,
 661,Villa,Rugvænget 3A,6990, Ulfborg,329020 ,29-01-1998,Alm. Salg,100,3290,4,1978,
 661,Villa,Rydevej 4,7830, Vinderup,286769 ,29-01-1998,Alm. Salg,132,2172,6,1948,
 661,Villa,Søndergade 32,7570, Vemb,543000 ,29-01-1998,Alm. Salg,112,4848,3,1945,
@@ -23222,8 +22684,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Provst Lønstrups Vej 48,7500, Holstebro,184000 ,27-01-1998,Alm. Salg,160,1150,5,1998,
 661,Villa,Webersvej 13,7500, Holstebro,1245500 ,27-01-1998,Alm. Salg,162,7688,7,1986,
 661,Rækkehus,Webersvej 32,7500, Holstebro,737000 ,26-01-1998,Alm. Salg,90,8189,4,1986,
-661,Rækkehus,Brahmsvej 25,7500, Holstebro,585000 ,26-01-1998,Alm. Salg,73,8014,3,1984,
-661,Villa,Ingemannsvej 14,7500, Holstebro,585000 ,26-01-1998,Alm. Salg,133,4398,6,1962,
 661,Villa,Idomvej 32,7500, Holstebro,752800 ,26-01-1998,Alm. Salg,133,5660,5,1955,
 661,Rækkehus,Bachsvej 42,7500, Holstebro,894771 ,25-01-1998,Alm. Salg,140,6391,5,1976,
 661,Rækkehus,Bachsvej 172,7500, Holstebro,785400 ,25-01-1998,Alm. Salg,108,7272,4,1977,
@@ -23363,7 +22823,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Bigårdsvej 27,7570, Vemb,570000 ,26-11-1997,Fam. Salg,124,4597,4,1976,
 661,Villa,Nørhedevej 18,6990, Ulfborg,334000 ,26-11-1997,Alm. Salg,86,3884,4,1950,
 661,Villa,Munkbrovej 21,7500, Holstebro,1499000 ,26-11-1997,Andet,214,7005,6,1979,
-661,Villa,Hesselåvej 1,7500, Holstebro,450000 ,25-11-1997,Alm. Salg,267,1685,5,1919,
 661,Villa,Fjordvejen 19,7570, Vemb,425000 ,25-11-1997,Alm. Salg,140,3036,4,1917,
 661,Villa,Mirabellevej 1,7500, Holstebro,725457 ,25-11-1997,Alm. Salg,118,6148,3,1968,
 661,Villa,Nørgårdsvej 11,7830, Vinderup,520000 ,25-11-1997,Alm. Salg,124,4194,5,1919,
@@ -23749,15 +23208,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Rækkehus,Emil Reesens Vej 101,7500, Holstebro,836000 ,09-07-1997,Alm. Salg,126,6635,5,1978,
 661,Villa,Griegsvej 77,7500, Holstebro,1014000 ,09-07-1997,Alm. Salg,129,7860,5,1975,
 661,Villa,Wagnersvej 54,7500, Holstebro,147500 ,09-07-1997,Alm. Salg,150,983,5,1998,
-661,Ejerlejlighed,"Holmegade 1, 1. tv",6990, Ulfborg,1790000 ,08-07-1997,Alm. Salg,94,19043,4,1906,
-661,Ejerlejlighed,"Holmegade 1, 1. th",6990, Ulfborg,1790000 ,08-07-1997,Alm. Salg,95,18842,3,1906,
-661,Ejerlejlighed,"Holmegade 1, 2. tv",6990, Ulfborg,1790000 ,08-07-1997,Alm. Salg,27,66296,2,1906,
-661,Ejerlejlighed,"Holmegade 1, 2. th",6990, Ulfborg,1790000 ,08-07-1997,Alm. Salg,29,61724,2,1906,
-661,Ejerlejlighed,"Harbogade 2, 2",6990, Ulfborg,1790000 ,08-07-1997,Alm. Salg,78,22949,3,1906,
-661,Ejerlejlighed,"Harbogade 2, 1",6990, Ulfborg,1790000 ,08-07-1997,Alm. Salg,78,22949,2,1906,
 661,Villa,Idrætsvej 26,7500, Holstebro,842000 ,08-07-1997,Alm. Salg,106,7943,4,1979,
 661,Villa,Fredericiagade 23,7500, Holstebro,1009000 ,08-07-1997,Alm. Salg,125,8072,5,1940,
-661,Villa,Harbogade 2B,6990, Ulfborg,1790000 ,08-07-1997,Alm. Salg,50,35800,2,1906,
 661,Ejerlejlighed,"Ahlgade 2, st. th",7500, Holstebro,801000 ,07-07-1997,Alm. Salg,93,8613,4,1989,
 661,Villa,Vester Herrupvej 5,7830, Vinderup,661029 ,07-07-1997,Alm. Salg,249,2655,7,2011,
 661,Villa,Hasselholtvej 6,7830, Vinderup,785000 ,07-07-1997,Alm. Salg,218,3601,6,1880,
@@ -23823,7 +23275,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Søndergade 72,7830, Vinderup,360000 ,19-06-1997,Alm. Salg,84,4286,3,1926,
 661,Villa,Søparken 42,7500, Holstebro,431000 ,19-06-1997,Alm. Salg,158,2728,6,1998,
 661,Villa,Emil Reesens Vej 14,7500, Holstebro,1019000 ,19-06-1997,Alm. Salg,132,7720,6,1979,
-661,Villa,Platanvej 3,7500, Holstebro,740000 ,19-06-1997,Fam. Salg,107,6916,4,1966,
 661,Villa,Sdr Svenstrupvej 5,7830, Vinderup,657000 ,19-06-1997,Alm. Salg,198,3318,5,1928,
 661,Rækkehus,Bachsvej 154,7500, Holstebro,716000 ,18-06-1997,Alm. Salg,115,6226,4,1976,
 661,Rækkehus,Haydnsvej 24,7500, Holstebro,769000 ,18-06-1997,Alm. Salg,110,6991,4,1980,
@@ -23901,7 +23352,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Fjordvejen 9,7570, Vemb,283375 ,27-05-1997,Alm. Salg,315,900,6,1998,
 661,Villa,Djeldvej 60,7830, Vinderup,240000 ,27-05-1997,Alm. Salg,173,1387,4,1972,
 661,Villa,Engparken 25,7500, Holstebro,460000 ,27-05-1997,Alm. Salg,107,4299,4,1972,
-661,Villa,Helgolandsgade 29C,7500, Holstebro,1025000 ,27-05-1997,Alm. Salg,140,7321,5,1902,
 661,Rækkehus,Birkelunden 28,7500, Holstebro,621000 ,26-05-1997,Alm. Salg,87,7138,4,1980,
 661,Rækkehus,Parkvej 60,7500, Holstebro,330000 ,26-05-1997,Alm. Salg,57,5789,1,1978,
 661,Villa,Vald Poulsens Vej 32,7500, Holstebro,1512500 ,26-05-1997,Alm. Salg,194,7796,7,1977,
@@ -23938,9 +23388,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Istedgade 39,7500, Holstebro,901000 ,14-05-1997,Alm. Salg,131,6878,4,1937,
 661,Rækkehus,P.S.Krøyers Vej 26,7500, Holstebro,993000 ,13-05-1997,Alm. Salg,122,8139,4,1997,
 661,Rækkehus,Nørreled 20,7500, Holstebro,637000 ,13-05-1997,Alm. Salg,67,9507,3,1983,
-661,Ejerlejlighed,Sevelvej 75,7830, Vinderup,1000000 ,13-05-1997,Alm. Salg,50,20000,2,1970,
 661,Villa,Nørgårdsvej 1B,7570, Vemb,95000 ,13-05-1997,Alm. Salg,123,772,4,1998,
-661,Villa,Sevelvej 75,7830, Vinderup,1000000 ,13-05-1997,Alm. Salg,253,3953,7,0,
 661,Villa,Sønderbyvej 2,6990, Ulfborg,575000 ,13-05-1997,Alm. Salg,156,3686,5,2006,
 661,Villa,Fjordparken 2,7830, Vinderup,795000 ,13-05-1997,Alm. Salg,142,5599,5,1980,
 661,Villa,Sct Jørgens Gade 10,7500, Holstebro,425000 ,13-05-1997,Alm. Salg,142,2993,4,1870,
@@ -24450,9 +23898,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Ny Sognstrupvej 3,7500, Holstebro,657000 ,14-11-1996,Alm. Salg,143,4594,4,1974,
 661,Villa,Klintevej 23,7500, Holstebro,1042000 ,14-11-1996,Alm. Salg,173,6023,6,1970,
 661,Villa,Bjertparken 45,7830, Vinderup,263450 ,14-11-1996,Alm. Salg,206,1067,8,1997,
-661,Rækkehus,Holstebrovej 22A,7830, Vinderup,440000 ,13-11-1996,Alm. Salg,65,6769,2,1935,
 661,Rækkehus,Kobberupvej 75A,7500, Holstebro,520000 ,13-11-1996,Alm. Salg,72,7222,3,1983,
-661,Villa,Holstebrovej 22,7830, Vinderup,440000 ,13-11-1996,Alm. Salg,180,2444,6,1900,
 661,Villa,Nørgårdsvej 2,6990, Ulfborg,250000 ,12-11-1996,Alm. Salg,190,1316,5,1945,
 661,Ejerlejlighed,"Doktorvænget 43, st. th",7500, Holstebro,416000 ,11-11-1996,Alm. Salg,88,4727,4,1963,
 661,Villa,Knud Rasmussens Vej 21,7500, Holstebro,750000 ,11-11-1996,Alm. Salg,99,7576,4,1959,
@@ -24588,14 +24034,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Ejerlejlighed,"Doktorvænget 45, st. th",7500, Holstebro,345000 ,30-09-1996,Alm. Salg,54,6389,2,1965,
 661,Ejerlejlighed,"Langelinie 17, 1. 5",7500, Holstebro,401000 ,30-09-1996,Alm. Salg,53,7566,2,1943,
 661,Villa,Wagnersvej 54,7500, Holstebro,295000 ,30-09-1996,Alm. Salg,150,1967,5,1998,
-661,Ejerlejlighed,"Ved Vesterport 2, 1",7500, Holstebro,1370730 ,29-09-1996,Alm. Salg,42,32636,2,1903,
-661,Ejerlejlighed,"Ved Vesterport 2, st",7500, Holstebro,1370730 ,29-09-1996,Alm. Salg,42,32636,2,1903,
-661,Ejerlejlighed,"Skolegade 40, st. th",7500, Holstebro,1370730 ,29-09-1996,Alm. Salg,53,25863,2,1903,
-661,Ejerlejlighed,"Skolegade 40, 1. th",7500, Holstebro,1370730 ,29-09-1996,Alm. Salg,68,20158,2,1903,
-661,Ejerlejlighed,"Skolegade 40, 1. tv",7500, Holstebro,1370730 ,29-09-1996,Alm. Salg,64,21418,3,1903,
-661,Ejerlejlighed,"Skolegade 40, 2. th",7500, Holstebro,1370730 ,29-09-1996,Alm. Salg,46,29798,2,1903,
-661,Ejerlejlighed,"Skolegade 40, 2. tv",7500, Holstebro,1370730 ,29-09-1996,Alm. Salg,59,23233,2,1903,
-661,Ejerlejlighed,"Skolegade 40, 1. mf",7500, Holstebro,1370730 ,29-09-1996,Alm. Salg,44,31153,2,1903,
 661,Villa,Agerbækvej 7,7500, Holstebro,1250000 ,29-09-1996,Alm. Salg,132,9470,5,1953,
 661,Villa,Ahlgade 7,7500, Holstebro,837000 ,28-09-1996,Alm. Salg,192,4359,6,1915,
 661,Villa,Dalgasvej 16,7500, Holstebro,782000 ,27-09-1996,Alm. Salg,148,5284,5,1952,
@@ -24654,18 +24092,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Vesterhavsgade 9,6990, Ulfborg,250000 ,08-09-1996,Alm. Salg,94,2660,4,1918,
 661,Villa,Rønnebærvej 37,7500, Holstebro,1033000 ,07-09-1996,Alm. Salg,140,7379,6,1972,
 661,Villa,Ægirsvej 4,7500, Holstebro,763000 ,06-09-1996,Alm. Salg,139,5489,6,1966,
-661,Rækkehus,Holstebrovej 22A,7830, Vinderup,610000 ,05-09-1996,Alm. Salg,65,9385,2,1935,
 661,Villa,Mysundevej 52,7500, Holstebro,840000 ,05-09-1996,Alm. Salg,117,7179,4,1960,
 661,Villa,Holbergsvej 41,7500, Holstebro,372127 ,05-09-1996,Andet,130,2863,6,1935,
-661,Villa,Holstebrovej 22,7830, Vinderup,610000 ,05-09-1996,Alm. Salg,180,3389,6,1900,
-661,Ejerlejlighed,"Lille Østergade 10, 2. tv",7500, Holstebro,2150000 ,04-09-1996,Alm. Salg,58,37069,1,1900,
-661,Ejerlejlighed,"Skovgyden 2, st. th",7500, Holstebro,2150000 ,04-09-1996,Alm. Salg,72,29861,3,1946,
-661,Ejerlejlighed,"Skovgyden 2, st. tv",7500, Holstebro,2150000 ,04-09-1996,Alm. Salg,72,29861,3,1946,
-661,Ejerlejlighed,"Skovgyden 2, 1. tv",7500, Holstebro,2150000 ,04-09-1996,Alm. Salg,72,29861,3,1946,
-661,Ejerlejlighed,"Skovgyden 2, 1. th",7500, Holstebro,2150000 ,04-09-1996,Alm. Salg,72,29861,3,1946,
-661,Ejerlejlighed,"Lille Østergade 10, 1. tv",7500, Holstebro,2150000 ,04-09-1996,Alm. Salg,71,30282,2,1900,
-661,Ejerlejlighed,"Lille Østergade 10, 2. th",7500, Holstebro,2150000 ,04-09-1996,Alm. Salg,58,37069,1,1900,
-661,Ejerlejlighed,"Lille Østergade 10, 1. th",7500, Holstebro,2150000 ,04-09-1996,Alm. Salg,57,37719,2,1900,
 661,Villa,P.S.Krøyers Vej 3,7500, Holstebro,264000 ,04-09-1996,Alm. Salg,151,1748,5,1997,
 661,Villa,Haretoften 43,7500, Holstebro,153000 ,04-09-1996,Alm. Salg,121,1264,4,2000,
 661,Rækkehus,Anna Anchers Vej 65,7500, Holstebro,122920 ,03-09-1996,Alm. Salg,133,924,5,1997,
@@ -25208,11 +24636,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Wagnersvej 210,7500, Holstebro,1169000 ,18-03-1996,Alm. Salg,143,8175,6,1988,
 661,Villa,Kirkevej 25,7830, Vinderup,500000 ,18-03-1996,Andet,130,3846,4,1938,
 661,Rækkehus,Holbergsvej 4,7500, Holstebro,546500 ,17-03-1996,Alm. Salg,111,4923,6,1943,
-661,Ejerlejlighed,Bredgade 13A. th,6990, Ulfborg,640000 ,17-03-1996,Alm. Salg,61,10492,2,1880,
-661,Ejerlejlighed,Bredgade 13A. tv,6990, Ulfborg,640000 ,17-03-1996,Alm. Salg,61,10492,2,1880,
-661,Ejerlejlighed,"Tømmerslippen 7, 1",6990, Ulfborg,640000 ,17-03-1996,Alm. Salg,129,4961,4,1880,
-661,Ejerlejlighed,"Tømmerslippen 1, 1. tv",6990, Ulfborg,640000 ,17-03-1996,Alm. Salg,98,6531,5,1880,
-661,Ejerlejlighed,"Tømmerslippen 7, st",6990, Ulfborg,640000 ,17-03-1996,Alm. Salg,105,6095,4,1880,
 661,Rækkehus,Meldgårdvej 4,7500, Holstebro,654984 ,16-03-1996,Alm. Salg,91,7198,4,1989,
 661,Villa,Malurten 6,7500, Holstebro,735000 ,15-03-1996,Alm. Salg,142,5176,5,1962,
 661,Ejerlejlighed,Lindholtvej 2B,7830, Vinderup,3741000 ,14-03-1996,Fam. Salg,115,32530,3,1877,
@@ -25266,9 +24689,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Haretoften 15,7500, Holstebro,120000 ,29-02-1996,Alm. Salg,186,645,6,1996,
 661,Villa,Bukdalvej 22,7500, Holstebro,529000 ,29-02-1996,Alm. Salg,113,4681,5,1927,
 661,Villa,Herredsgade 31,6990, Ulfborg,180000 ,29-02-1996,Alm. Salg,77,2338,2,1913,
-661,Rækkehus,Griegsvej 136,7500, Holstebro,585000 ,28-02-1996,Alm. Salg,111,5270,4,1975,
 661,Villa,Rønnevej 2,6990, Ulfborg,925000 ,28-02-1996,Andet,116,7974,4,1975,
-661,Villa,Skjernvej 28,7500, Holstebro,585000 ,28-02-1996,Alm. Salg,169,3462,5,1910,
 661,Villa,Primulavej 1A,7500, Holstebro,995000 ,28-02-1996,Alm. Salg,157,6338,6,1968,
 661,Villa,Majsvænget 19,6990, Ulfborg,61080 ,28-02-1996,Alm. Salg,148,413,5,1996,
 661,Villa,Broagervej 24,7500, Holstebro,850000 ,27-02-1996,Fam. Salg,148,5743,5,1933,
@@ -25278,38 +24699,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Ejerlejlighed,"Allegade 2C, st. tv",7500, Holstebro,300000 ,26-02-1996,Alm. Salg,52,5769,2,1907,
 661,Villa,Emil Reesens Vej 100,7500, Holstebro,957000 ,26-02-1996,Alm. Salg,129,7419,5,1979,
 661,Villa,Knudsigvej 1,7570, Vemb,170000 ,26-02-1996,Alm. Salg,96,1771,3,1960,
-661,Ejerlejlighed,"Wesselsvej 1, st. th",7500, Holstebro,4748400 ,25-02-1996,Alm. Salg,77,61668,3,1938,
-661,Ejerlejlighed,"Wesselsvej 1, st. tv",7500, Holstebro,4748400 ,25-02-1996,Alm. Salg,85,55864,3,1938,
-661,Ejerlejlighed,"Wesselsvej 1, 1. tv",7500, Holstebro,4748400 ,25-02-1996,Alm. Salg,88,53959,3,1938,
-661,Ejerlejlighed,"Wesselsvej 1, 1. th",7500, Holstebro,4748400 ,25-02-1996,Alm. Salg,80,59355,3,1938,
-661,Ejerlejlighed,"Wesselsvej 1, 2. tv",7500, Holstebro,4748400 ,25-02-1996,Alm. Salg,88,53959,3,1938,
-661,Ejerlejlighed,"Wesselsvej 1, 2. th",7500, Holstebro,4748400 ,25-02-1996,Alm. Salg,80,59355,3,1938,
-661,Ejerlejlighed,"Wesselsvej 1, 3. tv",7500, Holstebro,4748400 ,25-02-1996,Alm. Salg,75,63312,3,1938,
-661,Ejerlejlighed,"Wesselsvej 1, 3. th",7500, Holstebro,4748400 ,25-02-1996,Alm. Salg,69,68817,3,1938,
-661,Ejerlejlighed,"Wesselsvej 3, st. tv",7500, Holstebro,4748400 ,25-02-1996,Alm. Salg,64,74194,2,1938,
-661,Ejerlejlighed,"Wesselsvej 3, st. th",7500, Holstebro,4748400 ,25-02-1996,Alm. Salg,64,74194,2,1938,
-661,Ejerlejlighed,"Wesselsvej 3, 1. th",7500, Holstebro,4748400 ,25-02-1996,Alm. Salg,66,71945,2,1938,
-661,Ejerlejlighed,"Wesselsvej 3, 2. tv",7500, Holstebro,4748400 ,25-02-1996,Alm. Salg,66,71945,2,1938,
-661,Ejerlejlighed,"Wesselsvej 3, 3. tv",7500, Holstebro,4748400 ,25-02-1996,Alm. Salg,57,83305,2,1938,
-661,Ejerlejlighed,"Wesselsvej 3, 2. th",7500, Holstebro,4748400 ,25-02-1996,Alm. Salg,66,71945,2,1938,
-661,Ejerlejlighed,"Wesselsvej 3, 1. tv",7500, Holstebro,4748400 ,25-02-1996,Alm. Salg,66,71945,2,1938,
-661,Ejerlejlighed,"Wesselsvej 3, 3. th",7500, Holstebro,4748400 ,25-02-1996,Alm. Salg,57,83305,2,1938,
-661,Ejerlejlighed,"Skivevej 49A, st. th",7500, Holstebro,4748400 ,25-02-1996,Alm. Salg,67,70872,3,1938,
-661,Ejerlejlighed,"Skivevej 49A, st. tv",7500, Holstebro,4748400 ,25-02-1996,Alm. Salg,75,63312,3,1938,
-661,Ejerlejlighed,"Skivevej 49A, 2. th",7500, Holstebro,4748400 ,25-02-1996,Alm. Salg,70,67834,3,1938,
-661,Ejerlejlighed,"Skivevej 49A, 2. tv",7500, Holstebro,4748400 ,25-02-1996,Alm. Salg,77,61668,3,1938,
-661,Ejerlejlighed,"Skivevej 49A, 1. tv",7500, Holstebro,4748400 ,25-02-1996,Alm. Salg,77,61668,3,1938,
-661,Ejerlejlighed,"Skivevej 49A, 3. tv",7500, Holstebro,4748400 ,25-02-1996,Alm. Salg,67,70872,3,1938,
-661,Ejerlejlighed,"Skivevej 49B, st. th",7500, Holstebro,4748400 ,25-02-1996,Alm. Salg,67,70872,3,1938,
-661,Ejerlejlighed,"Skivevej 49B, 1. tv",7500, Holstebro,4748400 ,25-02-1996,Alm. Salg,77,61668,3,1938,
-661,Ejerlejlighed,"Skivevej 49A, 3. th",7500, Holstebro,4748400 ,25-02-1996,Alm. Salg,60,79140,3,1938,
-661,Ejerlejlighed,"Skivevej 49B, st. tv",7500, Holstebro,4748400 ,25-02-1996,Alm. Salg,75,63312,3,1938,
-661,Ejerlejlighed,"Skivevej 49B, 1. th",7500, Holstebro,4748400 ,25-02-1996,Alm. Salg,70,67834,3,1938,
-661,Ejerlejlighed,"Skivevej 49B, 2. th",7500, Holstebro,4748400 ,25-02-1996,Alm. Salg,70,67834,3,1938,
-661,Ejerlejlighed,"Skivevej 49A, 1. th",7500, Holstebro,4748400 ,25-02-1996,Alm. Salg,70,67834,3,1938,
-661,Ejerlejlighed,"Skivevej 49B, 2. tv",7500, Holstebro,4748400 ,25-02-1996,Alm. Salg,77,61668,3,1938,
-661,Ejerlejlighed,"Skivevej 49B, 3. tv",7500, Holstebro,4748400 ,25-02-1996,Alm. Salg,67,70872,3,1938,
-661,Ejerlejlighed,"Skivevej 49B, 3. th",7500, Holstebro,4748400 ,25-02-1996,Alm. Salg,60,79140,3,1938,
 661,Villa,Broagervej 28,7500, Holstebro,610000 ,25-02-1996,Alm. Salg,93,6559,2,1946,
 661,Villa,Chr. Schmidtsvej 14,7570, Vemb,610000 ,25-02-1996,Alm. Salg,187,3262,6,1952,
 661,Villa,Vesterlund 124,7830, Vinderup,750000 ,25-02-1996,Alm. Salg,110,6818,4,1988,
@@ -25444,22 +24833,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Søparken 11,6990, Ulfborg,27605 ,03-01-1996,Alm. Salg,152,182,4,1998,
 661,Rækkehus,Anna Anchers Vej 23,7500, Holstebro,837000 ,02-01-1996,Alm. Salg,109,7679,4,1996,
 661,Rækkehus,Anna Anchers Vej 3,7500, Holstebro,709120 ,02-01-1996,Alm. Salg,90,7879,4,1996,
-661,Ejerlejlighed,"Åglimt 1, st. th",7500, Holstebro,3200000 ,01-01-1996,Alm. Salg,62,51613,2,1938,
-661,Ejerlejlighed,"Åglimt 1, st. tv",7500, Holstebro,3200000 ,01-01-1996,Alm. Salg,100,32000,3,1938,
-661,Ejerlejlighed,"Åglimt 1, 1. th",7500, Holstebro,3200000 ,01-01-1996,Alm. Salg,62,51613,2,1938,
-661,Ejerlejlighed,"Åglimt 1, 1. tv",7500, Holstebro,3200000 ,01-01-1996,Alm. Salg,100,32000,3,1938,
-661,Ejerlejlighed,"Åglimt 1, 2. th",7500, Holstebro,3200000 ,01-01-1996,Alm. Salg,62,51613,2,1938,
-661,Ejerlejlighed,"Åglimt 1, 2. tv",7500, Holstebro,3200000 ,01-01-1996,Alm. Salg,100,32000,3,1938,
-661,Ejerlejlighed,"Åglimt 1, 3. th",7500, Holstebro,3200000 ,01-01-1996,Alm. Salg,55,58182,2,1938,
-661,Ejerlejlighed,"Åglimt 1, 3. tv",7500, Holstebro,3200000 ,01-01-1996,Alm. Salg,93,34409,3,1938,
-661,Ejerlejlighed,"Vestergade 23, 2. tv",7500, Holstebro,3200000 ,01-01-1996,Alm. Salg,67,47761,2,1938,
-661,Ejerlejlighed,"Vestergade 23, 1. tv",7500, Holstebro,3200000 ,01-01-1996,Alm. Salg,67,47761,2,1938,
-661,Ejerlejlighed,"Vestergade 23, 3. tv",7500, Holstebro,3200000 ,01-01-1996,Alm. Salg,60,53333,2,1938,
-661,Ejerlejlighed,"Vestergade 23, 3. th",7500, Holstebro,3200000 ,01-01-1996,Alm. Salg,72,44444,3,1938,
-661,Ejerlejlighed,"Vestergade 23, st. th",7500, Holstebro,3200000 ,01-01-1996,Alm. Salg,79,40506,3,1938,
-661,Ejerlejlighed,"Vestergade 23, st. tv",7500, Holstebro,3200000 ,01-01-1996,Alm. Salg,67,47761,2,1938,
-661,Ejerlejlighed,"Vestergade 23, 1. th",7500, Holstebro,3200000 ,01-01-1996,Alm. Salg,79,40506,3,1938,
-661,Ejerlejlighed,"Vestergade 23, 2. th",7500, Holstebro,3200000 ,01-01-1996,Alm. Salg,79,40506,3,1938,
 661,Villa,Sysselting 9,7500, Holstebro,874841 ,01-01-1996,Alm. Salg,96,9113,4,1947,
 661,Rækkehus,Offenbachsvej 199,7500, Holstebro,525000 ,29-12-1995,Alm. Salg,84,6250,4,1983,
 661,Villa,Krunderupparken 154,7500, Holstebro,835000 ,29-12-1995,Alm. Salg,123,6789,6,1987,
@@ -25622,9 +24995,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Wagnersvej 125,7500, Holstebro,1322000 ,02-11-1995,Alm. Salg,150,8813,6,1996,
 661,Villa,Tinkerdalsvej 15,7500, Holstebro,162000 ,02-11-1995,Alm. Salg,85,1906,3,1902,
 661,Villa,Herredsgade 15,6990, Ulfborg,540000 ,02-11-1995,Alm. Salg,157,3439,5,1916,
-661,Ejerlejlighed,"Skovgyden 3, 1",7500, Holstebro,950000 ,01-11-1995,Andet,98,9694,3,1896,
 661,Villa,Poppel Alle 109,7500, Holstebro,822000 ,01-11-1995,Alm. Salg,164,5012,6,1963,
-661,Villa,Lange-Müllers Vej 2,7500, Holstebro,950000 ,01-11-1995,Alm. Salg,150,6333,5,1973,
 661,Villa,Klitvej 27,6990, Ulfborg,300000 ,31-10-1995,Alm. Salg,178,1685,7,1916,
 661,Villa,Harald Damtofts Vej 169,7500, Holstebro,184000 ,31-10-1995,Alm. Salg,146,1260,6,1996,
 661,Rækkehus,Haydnsvej 52,7500, Holstebro,685000 ,30-10-1995,Alm. Salg,110,6227,4,1982,
@@ -25965,8 +25336,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Niels Kjeldsens Vej 10,7500, Holstebro,678000 ,05-07-1995,Alm. Salg,133,5098,5,1917,
 661,Villa,Helgolandsgade 31,7500, Holstebro,586000 ,05-07-1995,Alm. Salg,127,4614,4,1927,
 661,Villa,Linde Alle 21,7500, Holstebro,582000 ,05-07-1995,Alm. Salg,96,6063,4,1968,
-661,Rækkehus,Griegsvej 46,7500, Holstebro,535000 ,04-07-1995,Alm. Salg,98,5459,4,1978,
-661,Ejerlejlighed,"Kirkepladsen 8, 2. mf",7500, Holstebro,535000 ,04-07-1995,Alm. Salg,99,5404,4,1898,
 661,Villa,Skoletoften 1,7830, Vinderup,292000 ,04-07-1995,Fam. Salg,111,2631,5,1957,
 661,Rækkehus,Offenbachsvej 183,7500, Holstebro,420000 ,03-07-1995,Alm. Salg,63,6667,3,1982,
 661,Villa,Haydnsvej 59,7500, Holstebro,881200 ,03-07-1995,Alm. Salg,151,5836,6,1979,
@@ -26673,8 +26042,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Rækkehus,Uhresøvej 55,7500, Holstebro,545000 ,30-10-1994,Alm. Salg,96,5677,3,1987,
 661,Rækkehus,Wagnersvej 17,7500, Holstebro,450000 ,30-10-1994,Alm. Salg,61,7377,3,1984,
 661,Rækkehus,Kobberupvej 73C,7500, Holstebro,475000 ,30-10-1994,Alm. Salg,72,6597,3,1982,
-661,Rækkehus,Chopinsvej 22,7500, Holstebro,460000 ,30-10-1994,Alm. Salg,60,7667,3,1983,
-661,Ejerlejlighed,"Brogården 3, 1. tv",7500, Holstebro,460000 ,30-10-1994,Alm. Salg,70,6571,3,1965,
 661,Ejerlejlighed,"Helgolandsgade 42B, st. th",7500, Holstebro,350000 ,30-10-1994,Alm. Salg,54,6481,2,1945,
 661,Villa,Skolevænget 8,7830, Vinderup,200000 ,30-10-1994,Alm. Salg,94,2128,5,1943,
 661,Villa,Kirkevænget 24,6990, Ulfborg,395000 ,30-10-1994,Alm. Salg,105,3762,5,1964,
@@ -26719,9 +26086,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Rækkehus,Lundgade 5,6990, Ulfborg,238000 ,18-10-1994,Alm. Salg,101,2356,4,1921,
 661,Villa,Tjørnevej 77,7500, Holstebro,925000 ,18-10-1994,Alm. Salg,130,7115,5,1979,
 661,Villa,Strandvejen 42,7830, Vinderup,65000 ,18-10-1994,Alm. Salg,285,228,8,1941,
-661,Rækkehus,Bachsvej 22C,7500, Holstebro,410000 ,17-10-1994,Alm. Salg,60,6833,3,1983,
 661,Rækkehus,Griegsvej 92,7500, Holstebro,186651 ,17-10-1994,Alm. Salg,111,1682,4,1973,
-661,Villa,Viborgvej 221,7500, Holstebro,410000 ,17-10-1994,Alm. Salg,160,2563,4,1926,
 661,Villa,Händelsvej 30,7500, Holstebro,915000 ,17-10-1994,Alm. Salg,144,6354,5,1977,
 661,Villa,Buligvej 4,7830, Vinderup,109000 ,17-10-1994,Alm. Salg,110,991,4,1820,
 661,Villa,Vindelevgård 156,7830, Vinderup,577500 ,16-10-1994,Alm. Salg,136,4246,4,1980,
@@ -26923,8 +26288,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Skjernvej 86,7500, Holstebro,605000 ,02-08-1994,Alm. Salg,174,3477,7,1940,
 661,Villa,Hornshøjparken 139,7500, Holstebro,967000 ,02-08-1994,Alm. Salg,125,7736,6,1986,
 661,Rækkehus,Anna Anchers Vej 37,7500, Holstebro,785000 ,01-08-1994,Alm. Salg,106,7406,4,1994,
-661,Ejerlejlighed,"Struervej 13A, 1",7500, Holstebro,600000 ,01-08-1994,Alm. Salg,110,5455,4,1956,
-661,Villa,Kildevej 43,7500, Holstebro,600000 ,01-08-1994,Alm. Salg,122,4918,5,1950,
 661,Villa,Klostervej 75,7500, Holstebro,149000 ,01-08-1994,Alm. Salg,154,968,5,1994,
 661,Villa,Højdevej 13,7500, Holstebro,825000 ,01-08-1994,Alm. Salg,148,5574,5,1964,
 661,Villa,Chr Winthers Vej 55,7500, Holstebro,735000 ,31-07-1994,Alm. Salg,137,5365,5,1971,
@@ -27127,10 +26490,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Skovvej 3,7830, Vinderup,200000 ,25-05-1994,Alm. Salg,124,1613,5,1955,
 661,Villa,Skivevej 27,7500, Holstebro,465000 ,25-05-1994,Alm. Salg,129,3605,4,1900,
 661,Villa,Bjergbyvej 9,7830, Vinderup,465000 ,25-05-1994,Alm. Salg,117,3974,3,1959,
-661,Ejerlejlighed,"Kielgasten 15, kl",7500, Holstebro,629928 ,24-05-1994,Alm. Salg,21,29997,1,1906,
-661,Ejerlejlighed,"Kielgasten 15, 1",7500, Holstebro,629928 ,24-05-1994,Alm. Salg,87,7241,3,1906,
-661,Ejerlejlighed,"Østergade 28, st",7500, Holstebro,629928 ,24-05-1994,Alm. Salg,83,7589,3,1906,
-661,Ejerlejlighed,"Østergade 28, 2",7500, Holstebro,629928 ,24-05-1994,Alm. Salg,79,7974,2,1906,
 661,Villa,Færøvej 3,7500, Holstebro,610000 ,24-05-1994,Alm. Salg,201,3035,6,1935,
 661,Villa,Strandvejen 13,7830, Vinderup,120000 ,24-05-1994,Alm. Salg,228,526,7,1894,
 661,Villa,Skinbjergvej 3,7500, Holstebro,700795 ,24-05-1994,Alm. Salg,215,3260,9,1880,
@@ -27362,7 +26721,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Niels Finsens Vej 13,7500, Holstebro,900000 ,01-03-1994,Alm. Salg,160,5625,6,1970,
 661,Villa,Anna Anchers Vej 168,7500, Holstebro,226000 ,01-03-1994,Alm. Salg,148,1527,5,1994,
 661,Villa,Ternevej 7,6990, Ulfborg,350000 ,01-03-1994,Alm. Salg,101,3465,4,1967,
-661,Villa,Sct Jørgens Gade 2,7500, Holstebro,930000 ,01-03-1994,Fam. Salg,110,8455,3,1932,
 661,Villa,Nr Feldingvej 17,7500, Holstebro,625000 ,28-02-1994,Alm. Salg,202,3094,6,1964,
 661,Villa,Toften 2,7500, Holstebro,325000 ,28-02-1994,Fam. Salg,124,2621,4,1964,
 661,Villa,Ravelsvej 48,7500, Holstebro,745000 ,27-02-1994,Alm. Salg,154,4838,7,1979,
@@ -27488,10 +26846,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Svenstrupvej 3,7830, Vinderup,400000 ,19-01-1994,Alm. Salg,125,3200,4,1900,
 661,Villa,Ternevej 4,6990, Ulfborg,375000 ,19-01-1994,Alm. Salg,131,2863,5,1962,
 661,Rækkehus,Baldersvej 15,7500, Holstebro,530000 ,18-01-1994,Alm. Salg,88,6023,4,1963,
-661,Ejerlejlighed,Ahlgade 1,7500, Holstebro,1108709 ,18-01-1994,Alm. Salg,122,9088,7,1880,
-661,Ejerlejlighed,Østergade 33C,7500, Holstebro,1108709 ,18-01-1994,Alm. Salg,70,15839,1,1880,
-661,Ejerlejlighed,Østergade 33A,7500, Holstebro,1108709 ,18-01-1994,Alm. Salg,95,11671,4,1880,
-661,Ejerlejlighed,Østergade 33B,7500, Holstebro,1108709 ,18-01-1994,Alm. Salg,141,7863,5,1880,
 661,Villa,Åvænget 5,7500, Holstebro,650000 ,18-01-1994,Alm. Salg,63,10317,3,1941,
 661,Rækkehus,Ydunsvej 20,7500, Holstebro,556000 ,17-01-1994,Alm. Salg,99,5616,4,1967,
 661,Villa,Barslundvej 9A,7500, Holstebro,635000 ,17-01-1994,Alm. Salg,162,3920,5,1979,
@@ -27507,7 +26861,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Leharsvej 7,7500, Holstebro,985000 ,12-01-1994,Alm. Salg,178,5534,6,1978,
 661,Villa,Skolegade 10,7830, Vinderup,272546 ,12-01-1994,Auktion,146,1867,4,1997,
 661,Rækkehus,Humlevænget 61,7570, Vemb,290000 ,10-01-1994,Auktion,79,3671,3,1979,
-661,Rækkehus,Sønder Alle 31C,7500, Holstebro,314634 ,10-01-1994,Alm. Salg,51,6169,3,1909,
 661,Villa,Snerlevej 66,7500, Holstebro,790000 ,10-01-1994,Alm. Salg,179,4136,7,1967,
 661,Villa,Engvej 1,7500, Holstebro,975000 ,10-01-1994,Alm. Salg,118,8263,4,1946,
 661,Villa,Istedgade 6,7500, Holstebro,995000 ,10-01-1994,Alm. Salg,165,6030,6,1911,
@@ -27529,7 +26882,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Hvedevænget 48,7500, Holstebro,680000 ,04-01-1994,Alm. Salg,144,4722,4,1969,
 661,Villa,Vibevej 5,6990, Ulfborg,870000 ,03-01-1994,Alm. Salg,174,5000,6,1992,
 661,Villa,Særkærparken 143,7500, Holstebro,870500 ,03-01-1994,Alm. Salg,186,4680,5,1972,
-661,Villa,Kirkevej 2A,6990, Ulfborg,490000 ,02-01-1994,Alm. Salg,99,4949,4,1938,
 661,Villa,Skjernvej 35,7500, Holstebro,370000 ,02-01-1994,Alm. Salg,134,2761,3,1922,
 661,Villa,Heimdalsvej 1,7500, Holstebro,760000 ,02-01-1994,Alm. Salg,187,4064,8,1966,
 661,Villa,Kirkevej 14,7830, Vinderup,225000 ,02-01-1994,Alm. Salg,106,2123,3,1907,
@@ -27554,10 +26906,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Vinderupvej 10,7830, Vinderup,209000 ,20-12-1993,Alm. Salg,82,2549,4,1906,
 661,Rækkehus,Anna Anchers Vej 32,7500, Holstebro,69920 ,19-12-1993,Alm. Salg,90,777,4,1994,
 661,Villa,Særkærparken 79,7500, Holstebro,935000 ,19-12-1993,Alm. Salg,208,4495,8,1972,
-661,Rækkehus,Holstebrovej 22A,7830, Vinderup,25000 ,17-12-1993,Alm. Salg,65,385,2,1935,
-661,Villa,Holstebrovej 22,7830, Vinderup,25000 ,17-12-1993,Alm. Salg,180,139,6,1900,
 661,Villa,Enghaven 15,6990, Ulfborg,300000 ,16-12-1993,Fam. Salg,132,2273,5,1974,
-661,Rækkehus,Hartmannsvej 109,7500, Holstebro,635000 ,15-12-1993,Alm. Salg,121,5248,4,1977,
 661,Villa,Griegsvej 59,7500, Holstebro,824000 ,15-12-1993,Alm. Salg,130,6338,4,1977,
 661,Villa,Hvamvej 54,7500, Holstebro,390000 ,15-12-1993,Alm. Salg,124,3145,4,1955,
 661,Villa,Skolegade 10,7830, Vinderup,295000 ,15-12-1993,Alm. Salg,146,2021,4,1997,
@@ -27574,11 +26923,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Blåmunkevej 22,7500, Holstebro,355000 ,12-12-1993,Alm. Salg,215,1651,4,1994,
 661,Villa,Krunderupparken 64,7500, Holstebro,770000 ,12-12-1993,Alm. Salg,203,3793,8,1980,
 661,Rækkehus,Lavhedevej 31,7500, Holstebro,580000 ,09-12-1993,Alm. Salg,105,5524,4,1978,
-661,Ejerlejlighed,Bredgade 13A. th,6990, Ulfborg,550000 ,09-12-1993,Alm. Salg,61,9016,2,1880,
-661,Ejerlejlighed,Bredgade 13A. tv,6990, Ulfborg,550000 ,09-12-1993,Alm. Salg,61,9016,2,1880,
-661,Ejerlejlighed,"Tømmerslippen 7, 1",6990, Ulfborg,550000 ,09-12-1993,Alm. Salg,129,4264,4,1880,
-661,Ejerlejlighed,"Tømmerslippen 1, 1. tv",6990, Ulfborg,550000 ,09-12-1993,Alm. Salg,98,5612,5,1880,
-661,Ejerlejlighed,"Tømmerslippen 7, st",6990, Ulfborg,550000 ,09-12-1993,Alm. Salg,105,5238,4,1880,
 661,Villa,Sparretoft 12,7500, Holstebro,880000 ,09-12-1993,Alm. Salg,112,7857,5,1945,
 661,Villa,Fuglevænget 1,6990, Ulfborg,120000 ,09-12-1993,Alm. Salg,109,1101,4,1930,
 661,Villa,Hailkjærvej 3,7830, Vinderup,214250 ,09-12-1993,Alm. Salg,358,598,11,1896,
@@ -27678,10 +27022,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Hvedevænget 13,6990, Ulfborg,42075 ,26-10-1993,Alm. Salg,164,257,5,1994,
 661,Villa,Sittrupvej 2,6990, Ulfborg,499000 ,26-10-1993,Auktion,204,2446,5,1910,
 661,Villa,Parkvej 2,7500, Holstebro,790000 ,26-10-1993,Alm. Salg,124,6371,5,1967,
-661,Rækkehus,Mejdalvej 49,7500, Holstebro,545000 ,25-10-1993,Alm. Salg,82,6646,3,1958,
 661,Rækkehus,Lauralyst 3,7500, Holstebro,380000 ,25-10-1993,Alm. Salg,76,5000,3,1983,
 661,Villa,Kimsvej 14,7500, Holstebro,410000 ,25-10-1993,Alm. Salg,172,2384,6,1959,
-661,Villa,Fasanvej 14,7500, Holstebro,545000 ,25-10-1993,Alm. Salg,134,4067,3,1974,
 661,Villa,Engparken 67,7500, Holstebro,560000 ,25-10-1993,Alm. Salg,123,4553,5,1977,
 661,Villa,Ejsingholmvej 29,7830, Vinderup,645000 ,25-10-1993,Alm. Salg,240,2688,10,1936,
 661,Villa,Flengvej 2,7500, Holstebro,270000 ,25-10-1993,Alm. Salg,180,1500,4,1880,
@@ -28025,7 +27367,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Vesterled 1,7500, Holstebro,690000 ,23-06-1993,Alm. Salg,143,4825,5,1973,
 661,Villa,Slåenvej 160,7500, Holstebro,765000 ,23-06-1993,Alm. Salg,154,4968,4,1983,
 661,Villa,P O Pedersens Vej 30,7500, Holstebro,221618 ,23-06-1993,Andet,135,1642,6,1973,
-661,Villa,Lemvigvej 20,7500, Holstebro,670000 ,23-06-1993,Alm. Salg,190,3526,5,1917,
 661,Villa,Vald Poulsens Vej 42,7500, Holstebro,875000 ,23-06-1993,Alm. Salg,189,4630,5,1973,
 661,Villa,Bigårdsvej 6,7570, Vemb,395000 ,22-06-1993,Alm. Salg,106,3726,4,1976,
 661,Villa,Sevelvej 18,7830, Vinderup,299216 ,22-06-1993,Alm. Salg,131,2284,5,1897,
@@ -28108,9 +27449,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Vesterled 23,7500, Holstebro,251164 ,17-05-1993,Alm. Salg,135,1860,6,1956,
 661,Villa,Havevej 27,7830, Vinderup,205000 ,17-05-1993,Fam. Salg,126,1627,3,1928,
 661,Villa,Særkærparken 171,7500, Holstebro,735000 ,17-05-1993,Alm. Salg,160,4594,5,1972,
-661,Ejerlejlighed,Sevelvej 75,7830, Vinderup,1000000 ,16-05-1993,Alm. Salg,50,20000,2,1970,
 661,Villa,Ellehammersvej 87,7500, Holstebro,660000 ,16-05-1993,Alm. Salg,127,5197,5,1973,
-661,Villa,Sevelvej 75,7830, Vinderup,1000000 ,16-05-1993,Alm. Salg,253,3953,7,0,
 661,Villa,Riisagersvej 9,7500, Holstebro,633000 ,16-05-1993,Alm. Salg,204,3103,7,1976,
 661,Villa,Snerlevej 30,7500, Holstebro,741000 ,16-05-1993,Alm. Salg,174,4259,6,1962,
 661,Villa,Ravelsvej 55,7500, Holstebro,615000 ,14-05-1993,Alm. Salg,136,4522,5,1982,
@@ -28740,17 +28079,11 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Hornshøjparken 7,7500, Holstebro,557000 ,20-07-1992,Fam. Salg,119,4681,5,1983,
 661,Ejerlejlighed,"Doktorvænget 5, st. th",7500, Holstebro,335942 ,19-07-1992,Alm. Salg,88,3818,4,1963,
 661,Villa,Enghavevej 3,7830, Vinderup,310000 ,19-07-1992,Alm. Salg,94,3298,3,1954,
-661,Ejerlejlighed,"Dybbølsgade 2, st. th",7500, Holstebro,875000 ,17-07-1992,Alm. Salg,22,39773,1,1920,
-661,Ejerlejlighed,"Dybbølsgade 2, st. tv",7500, Holstebro,875000 ,17-07-1992,Alm. Salg,22,39773,1,1920,
-661,Ejerlejlighed,"Dybbølsgade 2, 1. tv",7500, Holstebro,875000 ,17-07-1992,Alm. Salg,45,19444,1,1920,
-661,Ejerlejlighed,"Dybbølsgade 2, 1. th",7500, Holstebro,875000 ,17-07-1992,Alm. Salg,33,26515,1,1920,
-661,Ejerlejlighed,"Struervej 37, 1",7500, Holstebro,875000 ,17-07-1992,Alm. Salg,58,15086,2,1920,
 661,Villa,Klostervej 9,7830, Vinderup,263400 ,17-07-1992,Alm. Salg,148,1780,5,1930,
 661,Rækkehus,H.Drachmanns Vej 29,7500, Holstebro,638000 ,15-07-1992,Alm. Salg,91,7011,4,1990,
 661,Villa,Sognstrupvej 3,7500, Holstebro,305000 ,15-07-1992,Alm. Salg,139,2194,6,1907,
 661,Villa,Grundtvigsvej 7,7500, Holstebro,600000 ,15-07-1992,Alm. Salg,128,4688,3,1974,
 661,Rækkehus,Anna Anchers Vej 127,7500, Holstebro,479000 ,14-07-1992,Alm. Salg,61,7852,3,1988,
-661,Villa,Nis Petersens Vej 6,7500, Holstebro,285000 ,14-07-1992,Alm. Salg,139,2050,6,1960,
 661,Ejerlejlighed,"Sct Jørgens Gade 8, st",7500, Holstebro,250000 ,12-07-1992,Alm. Salg,98,2551,2,1905,
 661,Villa,Geddalvej 15,7830, Vinderup,298280 ,12-07-1992,Fam. Salg,115,2594,5,1937,
 661,Villa,Bjertparken 43,7830, Vinderup,115726 ,09-07-1992,Alm. Salg,201,576,8,1993,
@@ -28826,9 +28159,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Særkærparken 80,7500, Holstebro,895000 ,10-06-1992,Alm. Salg,230,3891,7,1971,
 661,Villa,Odinsvej 17,7500, Holstebro,750000 ,10-06-1992,Fam. Salg,137,5474,4,1959,
 661,Rækkehus,Poppel Alle 36,7500, Holstebro,660000 ,09-06-1992,Alm. Salg,136,4853,4,1972,
-661,Rækkehus,Torndalvej 3A,7830, Vinderup,37500 ,09-06-1992,Alm. Salg,133,282,2,1890,
 661,Villa,Mosekrogen 11,7830, Vinderup,435000 ,09-06-1992,Alm. Salg,113,3850,3,1970,
-661,Villa,Torndalvej 3,7830, Vinderup,37500 ,09-06-1992,Alm. Salg,140,268,4,1890,
 661,Villa,Skjernvej 144,7500, Holstebro,590000 ,08-06-1992,Alm. Salg,216,2731,8,1900,
 661,Rækkehus,Hartmannsvej 161,7500, Holstebro,590000 ,07-06-1992,Alm. Salg,126,4683,4,1975,
 661,Villa,Griegsvej 53,7500, Holstebro,715000 ,07-06-1992,Alm. Salg,152,4704,5,1975,
@@ -28845,20 +28176,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Ejerlejlighed,"Doktorvænget 6, st. tv",7500, Holstebro,318094 ,02-06-1992,Alm. Salg,87,3656,4,1962,
 661,Villa,Buen 1,6990, Ulfborg,135000 ,02-06-1992,Alm. Salg,100,1350,4,1914,
 661,Rækkehus,Hartmannsvej 31,7500, Holstebro,470000 ,01-06-1992,Alm. Salg,85,5529,2,1975,
-661,Ejerlejlighed,"Sct Jørgens Bakke 6A, st",7500, Holstebro,10909603 ,01-06-1992,Alm. Salg,103,105918,3,1852,
-661,Ejerlejlighed,"Sct Jørgens Bakke 6A, 1",7500, Holstebro,10909603 ,01-06-1992,Alm. Salg,62,175961,2,1852,
-661,Ejerlejlighed,"Sct Jørgens Bakke 6B, st",7500, Holstebro,10909603 ,01-06-1992,Alm. Salg,48,227283,1,1852,
-661,Ejerlejlighed,"Sct Jørgens Bakke 6B, 2",7500, Holstebro,10909603 ,01-06-1992,Alm. Salg,65,167840,2,1852,
-661,Ejerlejlighed,"Sct Jørgens Bakke 6B, 1",7500, Holstebro,10909603 ,01-06-1992,Alm. Salg,65,167840,2,1852,
-661,Ejerlejlighed,"Nørregade 27, 2. 1",7500, Holstebro,10909603 ,01-06-1992,Alm. Salg,67,162830,2,1852,
-661,Ejerlejlighed,"Nørregade 27, 2. 2",7500, Holstebro,10909603 ,01-06-1992,Alm. Salg,55,198356,2,1852,
-661,Ejerlejlighed,"Nørregade 27, 2. 3",7500, Holstebro,10909603 ,01-06-1992,Alm. Salg,73,149447,3,1852,
-661,Ejerlejlighed,"Nørregade 27, 2. 5",7500, Holstebro,10909603 ,01-06-1992,Alm. Salg,82,133044,3,1852,
-661,Ejerlejlighed,"Nørregade 27, 2. 4",7500, Holstebro,10909603 ,01-06-1992,Alm. Salg,72,151522,2,1852,
-661,Ejerlejlighed,"Nørregade 27, 3. 1",7500, Holstebro,10909603 ,01-06-1992,Alm. Salg,65,167840,2,1852,
-661,Ejerlejlighed,"Nørregade 27, 3. 3",7500, Holstebro,10909603 ,01-06-1992,Alm. Salg,46,237165,2,1852,
-661,Ejerlejlighed,"Nørregade 27, 3. 2",7500, Holstebro,10909603 ,01-06-1992,Alm. Salg,71,153656,2,1852,
-661,Ejerlejlighed,"Nørregade 27, 3. 4",7500, Holstebro,10909603 ,01-06-1992,Alm. Salg,48,227283,2,1852,
 661,Villa,Hvedevænget 4,6990, Ulfborg,750000 ,01-06-1992,Alm. Salg,138,5435,4,1986,
 661,Villa,Lærkevej 7,7500, Holstebro,363452 ,01-06-1992,Alm. Salg,110,3304,3,1962,
 661,Rækkehus,Griegsvej 156,7500, Holstebro,470000 ,31-05-1992,Alm. Salg,111,4234,4,1975,
@@ -28923,11 +28240,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Ejerlejlighed,"Langelinie 17, 1. 1",7500, Holstebro,272000 ,09-05-1992,Alm. Salg,54,5037,2,1943,
 661,Villa,Kløvermarken 15,7500, Holstebro,580000 ,08-05-1992,Alm. Salg,140,4143,5,1965,
 661,Ejerlejlighed,"Doktorvænget 45, 2. mf",7500, Holstebro,160000 ,07-05-1992,Alm. Salg,28,5714,1,1965,
-661,Ejerlejlighed,"Søndergade 21, 1",7830, Vinderup,1750000 ,07-05-1992,Alm. Salg,101,17327,3,1932,
-661,Ejerlejlighed,"Søndergade 21, 2",7830, Vinderup,1750000 ,07-05-1992,Alm. Salg,163,10736,4,1932,
-661,Ejerlejlighed,"Sevelvej 1B, 1. th",7830, Vinderup,1750000 ,07-05-1992,Alm. Salg,147,11905,4,1932,
-661,Ejerlejlighed,"Sevelvej 1B, st. th",7830, Vinderup,1750000 ,07-05-1992,Alm. Salg,126,13889,4,1932,
-661,Ejerlejlighed,"Sevelvej 1B, 1. tv",7830, Vinderup,1750000 ,07-05-1992,Alm. Salg,100,17500,3,1932,
 661,Villa,Tornevej 8A,6990, Ulfborg,300000 ,07-05-1992,Alm. Salg,62,4839,2,1983,
 661,Villa,Grønningen 22,6990, Ulfborg,180000 ,06-05-1992,Alm. Salg,67,2687,3,1963,
 661,Villa,Helgolandsgade 31,7500, Holstebro,490000 ,06-05-1992,Alm. Salg,127,3858,4,1927,
@@ -29082,11 +28394,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 661,Villa,Knud Rasmussens Vej 11,7500, Holstebro,300000 ,17-03-1992,Alm. Salg,115,2609,3,1960,
 661,Rækkehus,Laubsvej 69,7500, Holstebro,514265 ,16-03-1992,Alm. Salg,126,4081,4,1979,
 661,Rækkehus,Fabersvej 20,7500, Holstebro,380000 ,16-03-1992,Alm. Salg,86,4419,4,1979,
-661,Ejerlejlighed,"Møllevej 2, st. th",7830, Vinderup,685000 ,16-03-1992,Alm. Salg,42,16310,2,1890,
-661,Ejerlejlighed,"Møllevej 2, 1",7830, Vinderup,685000 ,16-03-1992,Alm. Salg,110,6227,4,1890,
-661,Ejerlejlighed,"Møllevej 2, st. tv",7830, Vinderup,685000 ,16-03-1992,Alm. Salg,60,11417,3,1890,
-661,Ejerlejlighed,"Nørregade 15, st",7830, Vinderup,685000 ,16-03-1992,Alm. Salg,75,9133,2,1890,
-661,Ejerlejlighed,"Nørregade 15, 1",7830, Vinderup,685000 ,16-03-1992,Alm. Salg,92,7446,3,1890,
 661,Villa,Grundtvigsvej 28,7500, Holstebro,620000 ,16-03-1992,Fam. Salg,148,4189,5,1970,
 661,Villa,Toften 12,7830, Vinderup,410000 ,16-03-1992,Alm. Salg,122,3361,4,1968,
 661,Villa,Vindelevgård 26,7830, Vinderup,530000 ,16-03-1992,Alm. Salg,160,3313,6,1977,
