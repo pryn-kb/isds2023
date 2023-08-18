@@ -95,7 +95,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Rækkehus,Nygårdsvej 19,6823, Ansager,3300000 ,07-11-2022,Alm. Salg,239,13808,5,2010,
 573,Villa,Solvænget 92,6870, Ølgod,900000 ,07-11-2022,Alm. Salg,149,6040,5,1980,-5%
 573,Villa,Villavej 24,6800, Varde,1060000 ,07-11-2022,Alm. Salg,103,10291,2,1956,-3%
-573,Villa,Ringkøbingvej 73A,6800, Varde,990798 ,07-11-2022,Alm. Salg,70,14154,2,1947,
 573,Villa,Vardevej 9,6800, Varde,1220000 ,06-11-2022,Alm. Salg,109,11193,3,1951,-6%
 573,Villa,Vinkelvej 24,6830, Nørre Nebel,600000 ,06-11-2022,Alm. Salg,140,4286,4,1977,-14%
 573,Villa,Hjørngårdsvej 2,6800, Varde,375000 ,05-11-2022,Alm. Salg,105,3571,3,1983,-16%
@@ -127,8 +126,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Lupinvænget 8,6840, Oksbøl,1330000 ,26-10-2022,Alm. Salg,175,7600,6,1970,-5%
 573,Rækkehus,Gellerupvej 24,6800, Varde,751500 ,23-10-2022,Andet,151,4977,4,1920,
 573,Villa,Langgade 23,6800, Varde,400000 ,23-10-2022,Alm. Salg,104,3846,5,1949,-16%
-573,Ejerlejlighed,"Kræmmergade 10C, 1. tv",6800, Varde,5450000 ,20-10-2022,Andet,141,38652,4,1850,
-573,Ejerlejlighed,"Fiskergade 4, 1",6800, Varde,5450000 ,20-10-2022,Andet,115,47391,4,1850,
 573,Villa,Møllebakken 21,6800, Varde,1840000 ,20-10-2022,Alm. Salg,128,14375,4,2004,
 573,Villa,Borgergade 23B,6823, Ansager,400000 ,20-10-2022,Alm. Salg,107,3738,5,1935,
 573,Villa,Birketoften 4,6830, Nørre Nebel,625000 ,20-10-2022,Alm. Salg,229,2729,7,1974,-21%
@@ -165,7 +162,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Hovborgvej 80,7200, Grindsted,845000 ,05-10-2022,Alm. Salg,89,9494,3,1950,
 573,Villa,Græsvangen 20,6855, Outrup,930000 ,05-10-2022,Alm. Salg,141,6596,4,1977,
 573,Villa,Solvænget 52,6870, Ølgod,1050000 ,05-10-2022,Alm. Salg,119,8824,4,1978,
-573,Rækkehus,Hjertingvej 8,6800, Varde,900000 ,03-10-2022,Alm. Salg,84,10714,3,1875,
 573,Villa,Ribevej 21,6800, Varde,1395000 ,03-10-2022,Alm. Salg,154,9058,6,1929,
 573,Villa,Tane Hedevej 53,6857, Blåvand,2450000 ,03-10-2022,Alm. Salg,203,12069,6,1827,-8%
 573,Ejerlejlighed,Storegade 55A,6800, Varde,5555000 ,02-10-2022,Alm. Salg,96,57865,2,1915,
@@ -459,10 +455,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Langsigvej 21,6830, Nørre Nebel,1147500 ,09-05-2022,Fam. Salg,221,4968,10,1931,
 573,Villa,Navervej 3,6800, Varde,800000 ,09-05-2022,Andet,123,6504,4,1976,
 573,Villa,Lundtangvej 7,6830, Nørre Nebel,50000 ,09-05-2022,Alm. Salg,60,833,2,1940,
-573,Ejerlejlighed,"Storegade 52, 1. th",6800, Varde,850000 ,08-05-2022,Alm. Salg,130,6538,3,1950,-21%
 573,Villa,Enghavevej 11,6800, Varde,3170000 ,08-05-2022,Alm. Salg,184,17228,5,1957,
 573,Villa,Østergade 21,6753, Agerbæk,810000 ,08-05-2022,Alm. Salg,112,7232,4,1966,-9%
-573,Villa,Sct Gertrudsvej 7,6800, Varde,850000 ,08-05-2022,Alm. Salg,96,8854,4,1944,
 573,Villa,Præstegaardsvej 15,6840, Oksbøl,1530000 ,08-05-2022,Alm. Salg,142,10775,5,1969,-4%
 573,Villa,Langhedevej 8,6800, Varde,450000 ,08-05-2022,Fam. Salg,84,5357,3,1962,
 573,Villa,Langlivej 7,6852, Billum,1038000 ,07-05-2022,Alm. Salg,128,8109,5,1986,-13%
@@ -674,7 +668,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Sønderalle 45,6800, Varde,360042 ,02-02-2022,Andet,68,5295,3,1962,
 573,Villa,Egealle 6,6753, Agerbæk,1512500 ,02-02-2022,Alm. Salg,165,9167,6,1976,-5%
 573,Villa,Grydergade 2,6800, Varde,3700000 ,02-02-2022,Alm. Salg,244,15164,8,1881,-7%
-573,Villa,Bjergegade 4A,6870, Ølgod,2350000 ,02-02-2022,Andet,136,17279,5,1963,
 573,Villa,Hovborgvej 15,7200, Grindsted,1240000 ,01-02-2022,Alm. Salg,172,7209,7,1957,-4%
 573,Villa,Rosenvænget 21,6800, Varde,2595000 ,01-02-2022,Alm. Salg,193,13446,6,1969,
 573,Villa,Troldhøjvænget 28,6800, Varde,3400000 ,01-02-2022,Alm. Salg,222,15315,9,2010,
@@ -996,9 +989,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Nygade 13,6753, Agerbæk,775000 ,09-09-2021,Alm. Salg,100,7750,4,1960,
 573,Villa,Sofievej 21,6800, Varde,1750000 ,09-09-2021,Alm. Salg,178,9831,6,1996,-3%
 573,Villa,Pilevænget 6,6870, Ølgod,466740 ,09-09-2021,Andet,113,4130,4,1999,
-573,Ejerlejlighed,Hjertingvej 2A,6800, Varde,1823000 ,08-09-2021,Alm. Salg,72,25319,4,1933,
-573,Ejerlejlighed,Viadukten 9,6800, Varde,1823000 ,08-09-2021,Alm. Salg,72,25319,3,1933,
-573,Ejerlejlighed,Viadukten 7,6800, Varde,1823000 ,08-09-2021,Alm. Salg,16,113938,1,1933,
 573,Villa,Svinget 3,6823, Ansager,770000 ,08-09-2021,Alm. Salg,121,6364,2,1960,-3%
 573,Villa,Homarken 15,6857, Blåvand,1650000 ,08-09-2021,Alm. Salg,174,9483,5,1996,
 573,Villa,Skrænten 32,6870, Ølgod,685000 ,07-09-2021,Andet,123,5569,4,1964,
@@ -1198,22 +1188,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Vardevej 30A,6800, Varde,1080000 ,16-06-2021,Alm. Salg,140,6102,4,1974,
 573,Villa,Idrætsvænget 11,6855, Outrup,1100000 ,16-06-2021,Alm. Salg,189,5820,6,1977,-10%
 573,Rækkehus,Vandflodvej 2. 35,6857, Blåvand,1575000 ,15-06-2021,Alm. Salg,90,17500,3,2005,-5%
-573,Ejerlejlighed,"Vinkelvej 19, 1. tv",6800, Varde,12500000 ,15-06-2021,Alm. Salg,82,152439,3,1944,
-573,Ejerlejlighed,"Vinkelvej 19, 1. th",6800, Varde,12500000 ,15-06-2021,Alm. Salg,64,195313,3,1944,
-573,Ejerlejlighed,"Vinkelvej 21, st. th",6800, Varde,12500000 ,15-06-2021,Alm. Salg,56,223214,2,1944,
-573,Ejerlejlighed,"Vinkelvej 21, st. tv",6800, Varde,12500000 ,15-06-2021,Alm. Salg,64,195313,3,1944,
-573,Ejerlejlighed,"Vinkelvej 21, 1. th",6800, Varde,12500000 ,15-06-2021,Alm. Salg,56,223214,2,1944,
-573,Ejerlejlighed,"Vinkelvej 21, 1. tv",6800, Varde,12500000 ,15-06-2021,Alm. Salg,64,195313,3,1944,
-573,Ejerlejlighed,"Vinkelvej 19, st. th",6800, Varde,12500000 ,15-06-2021,Alm. Salg,64,195313,3,1944,
-573,Ejerlejlighed,"Vinkelvej 19, st. tv",6800, Varde,12500000 ,15-06-2021,Alm. Salg,82,152439,3,1944,
-573,Ejerlejlighed,"Kildevej 4A, st. th",6800, Varde,12500000 ,15-06-2021,Alm. Salg,65,192308,3,1944,
-573,Ejerlejlighed,"Kildevej 4A, st. tv",6800, Varde,12500000 ,15-06-2021,Alm. Salg,55,227273,2,1944,
-573,Ejerlejlighed,"Kildevej 4B, st. th",6800, Varde,12500000 ,15-06-2021,Alm. Salg,55,227273,2,1944,
-573,Ejerlejlighed,"Kildevej 4B, 1. tv",6800, Varde,12500000 ,15-06-2021,Alm. Salg,65,192308,3,1944,
-573,Ejerlejlighed,"Kildevej 4A, 1. tv",6800, Varde,12500000 ,15-06-2021,Alm. Salg,55,227273,2,1944,
-573,Ejerlejlighed,"Kildevej 4B, st. tv",6800, Varde,12500000 ,15-06-2021,Alm. Salg,65,192308,3,1944,
-573,Ejerlejlighed,"Kildevej 4A, 1. th",6800, Varde,12500000 ,15-06-2021,Alm. Salg,65,192308,3,1944,
-573,Ejerlejlighed,"Kildevej 4B, 1. th",6800, Varde,12500000 ,15-06-2021,Alm. Salg,55,227273,2,1944,
 573,Villa,Brinksvej 15,6800, Varde,510000 ,15-06-2021,Alm. Salg,114,4474,4,1973,-7%
 573,Villa,Grønnegade 22,6800, Varde,1675000 ,14-06-2021,Alm. Salg,110,15227,3,1954,-1%
 573,Villa,Søndergade 44,6862, Tistrup,410000 ,13-06-2021,Alm. Salg,47,8723,2,1935,-8%
@@ -1391,13 +1365,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Møllegårdsvej 4,6862, Tistrup,1295000 ,11-04-2021,Alm. Salg,307,4218,10,1970,-13%
 573,Villa,"Lynevej 49, st",6870, Ølgod,200000 ,11-04-2021,Alm. Salg,245,816,4,1920,
 573,Villa,Søndertoften 40,6800, Varde,600225 ,11-04-2021,Alm. Salg,199,3016,7,2022,26%
-573,Ejerlejlighed,Storegade 4B,6753, Agerbæk,5000000 ,08-04-2021,Alm. Salg,151,33113,9,1994,
-573,Ejerlejlighed,"Nørregade 3, 1",6753, Agerbæk,5000000 ,08-04-2021,Alm. Salg,139,35971,3,1994,
-573,Ejerlejlighed,"Nørregade 5, 1. tv",6753, Agerbæk,5000000 ,08-04-2021,Alm. Salg,79,63291,2,1994,
-573,Ejerlejlighed,"Nørregade 7, 1",6753, Agerbæk,5000000 ,08-04-2021,Alm. Salg,139,35971,3,1994,
-573,Ejerlejlighed,"Nørregade 5, 1. th",6753, Agerbæk,5000000 ,08-04-2021,Alm. Salg,78,64103,2,1994,
-573,Ejerlejlighed,Storegade 4C,6753, Agerbæk,5000000 ,08-04-2021,Alm. Salg,130,38462,9,1994,
-573,Ejerlejlighed,Storegade 4A,6753, Agerbæk,5000000 ,08-04-2021,Alm. Salg,130,38462,9,1994,
 573,Villa,Askevej 8,6862, Tistrup,1615000 ,08-04-2021,Alm. Salg,143,11294,4,1976,
 573,Villa,Sønderskovvej 97,6800, Varde,1225000 ,08-04-2021,Alm. Salg,176,6960,5,1924,-2%
 573,Villa,Vestergade 1A,6823, Ansager,450000 ,08-04-2021,Alm. Salg,150,3000,5,1952,-10%
@@ -1680,7 +1647,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Vesterled 12,6851, Janderup Vestj,740000 ,25-12-2020,Alm. Salg,90,8222,3,1958,-3%
 573,Ejerlejlighed,"Vesterport 2A, 1. tv",6800, Varde,710000 ,23-12-2020,Alm. Salg,61,11639,2,1987,-3%
 573,Villa,Vesterled 5,6830, Nørre Nebel,874000 ,22-12-2020,Andet,190,4600,6,1972,
-573,Villa,Nørregade 24E,6800, Varde,3450000 ,22-12-2020,Alm. Salg,85,40588,4,1950,
 573,Ejerlejlighed,"Storegade 8, 2. tv",6800, Varde,400000 ,21-12-2020,Alm. Salg,59,6780,2,1955,
 573,Villa,Søndervænget 39,6870, Ølgod,1070000 ,21-12-2020,Alm. Salg,148,7230,4,1970,
 573,Villa,Bredgade 1B,6830, Nørre Nebel,250000 ,20-12-2020,Alm. Salg,96,2604,5,1881,
@@ -1900,7 +1866,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Nørregade 4,6840, Oksbøl,1648000 ,05-10-2020,Alm. Salg,157,10497,4,1947,
 573,Villa,Ortenvej 17,6800, Varde,1565000 ,05-10-2020,Alm. Salg,92,17011,3,1954,-2%
 573,Villa,Nøddelunden 68,6800, Varde,1200000 ,04-10-2020,Alm. Salg,112,10714,4,1980,
-573,Villa,Nr Alle 2,6870, Ølgod,4150000 ,04-10-2020,Alm. Salg,89,46629,3,1890,
 573,Villa,Bellevuevej 14,6800, Varde,1050000 ,04-10-2020,Fam. Salg,180,5833,3,1950,
 573,Villa,Møllekrogen 14,6800, Varde,450000 ,04-10-2020,Alm. Salg,236,1907,6,2021,
 573,Villa,Præstebrovej 62,6818, Årre,830000 ,03-10-2020,Alm. Salg,145,5724,5,1972,-8%
@@ -1944,20 +1909,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Søndergade 11,6840, Oksbøl,1250000 ,17-09-2020,Fam. Salg,164,7622,6,1939,
 573,Villa,J C Jensensvej 11,6800, Varde,1375000 ,16-09-2020,Alm. Salg,180,7639,5,1974,-1%
 573,Villa,Bjergegade 8,6870, Ølgod,81038 ,16-09-2020,Andet,88,921,3,1910,
-573,Rækkehus,Storegade 50A,6862, Tistrup,1250000 ,15-09-2020,Alm. Salg,71,17606,3,1896,-2%
-573,Ejerlejlighed,Storegade 50B,6862, Tistrup,1250000 ,15-09-2020,Alm. Salg,116,10776,4,1896,-2%
 573,Villa,Vinkelvej 30,6830, Nørre Nebel,425000 ,15-09-2020,Alm. Salg,149,2852,4,1972,-29%
 573,Villa,Åbrinken 12,6800, Varde,901252 ,15-09-2020,Alm. Salg,272,3313,5,2010,
 573,Rækkehus,Vestergade 10,6840, Oksbøl,1120000 ,14-09-2020,Alm. Salg,130,8615,5,1900,-2%
 573,Ejerlejlighed,Hjertingvej 2C,6800, Varde,1500000 ,14-09-2020,Alm. Salg,124,12097,5,1934,
-573,Ejerlejlighed,"Hjertingvej 2D, st. tv",6800, Varde,326250 ,14-09-2020,Alm. Salg,76,4293,3,1900,
-573,Ejerlejlighed,"Hjertingvej 2D, 1. tv",6800, Varde,326250 ,14-09-2020,Alm. Salg,71,4595,2,1900,
-573,Ejerlejlighed,"Viadukten 5, st. th",6800, Varde,326250 ,14-09-2020,Alm. Salg,49,6658,2,1900,
-573,Ejerlejlighed,"Hjertingvej 2D, 2. tv",6800, Varde,326250 ,14-09-2020,Alm. Salg,61,5348,2,1900,
-573,Ejerlejlighed,"Hjertingvej 2D, st. th",6800, Varde,326250 ,14-09-2020,Alm. Salg,86,3794,2,1900,
-573,Ejerlejlighed,"Hjertingvej 2D, 1. th",6800, Varde,326250 ,14-09-2020,Alm. Salg,56,5826,2,1900,
-573,Ejerlejlighed,"Viadukten 5, st. tv",6800, Varde,326250 ,14-09-2020,Alm. Salg,48,6797,2,1900,
-573,Ejerlejlighed,"Hjertingvej 2D, 2. th",6800, Varde,326250 ,14-09-2020,Alm. Salg,51,6397,2,1900,
 573,Villa,Tarmvej 9,6870, Ølgod,2133000 ,14-09-2020,Alm. Salg,368,5796,7,1972,
 573,Villa,Teglværksvej 3,6870, Ølgod,90000 ,13-09-2020,Alm. Salg,106,849,2,1889,
 573,Villa,Kirkevænget 12,6870, Ølgod,1275000 ,13-09-2020,Alm. Salg,138,9239,4,1987,-2%
@@ -2069,7 +2024,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Toften 6,6862, Tistrup,1300000 ,09-08-2020,Alm. Salg,241,5394,11,1967,-9%
 573,Villa,Storegade 31,6855, Outrup,240000 ,09-08-2020,Alm. Salg,96,2500,2,1923,-13%
 573,Villa,Nybrovej 79,6851, Janderup Vestj,1035000 ,07-08-2020,Alm. Salg,129,8023,4,1971,-5%
-573,Villa,Agervigvej 4A,6800, Varde,350000 ,06-08-2020,Alm. Salg,62,5645,3,1920,-9%
 573,Villa,Brorsonsvej 13,6800, Varde,1850000 ,06-08-2020,Alm. Salg,126,14683,4,1965,
 573,Villa,Vænget 17,6818, Årre,675000 ,06-08-2020,Alm. Salg,107,6308,4,1976,
 573,Villa,Vadgårdsvej 50,6830, Nørre Nebel,2245000 ,06-08-2020,Alm. Salg,185,12135,2,2013,
@@ -2082,7 +2036,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Markskellet 12,6870, Ølgod,1250000 ,02-08-2020,Fam. Salg,186,6720,5,2011,
 573,Villa,Bøgelyvej 3,6800, Varde,895000 ,01-08-2020,Alm. Salg,130,6885,4,1973,
 573,Villa,Fåborgvej 92,6753, Agerbæk,2125000 ,31-07-2020,Alm. Salg,196,10842,6,1989,
-573,Villa,Nikolaikirkestræde 1,6800, Varde,3750000 ,30-07-2020,Alm. Salg,96,39063,3,1900,
 573,Rækkehus,"Torvet 2, 1. 3",6830, Nørre Nebel,610000 ,29-07-2020,Alm. Salg,81,7531,3,1981,-4%
 573,Villa,Drosselvej 4,6800, Varde,925000 ,29-07-2020,Alm. Salg,99,9343,3,1963,-7%
 573,Villa,Røllikevej 5,6800, Varde,1870000 ,29-07-2020,Alm. Salg,120,15583,4,1981,-1%
@@ -2282,7 +2235,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Vestre Landevej 13,6800, Varde,1275000 ,19-05-2020,Alm. Salg,147,8673,5,1925,-9%
 573,Villa,Søparken 4,6862, Tistrup,875000 ,19-05-2020,Alm. Salg,146,5993,5,1980,
 573,Villa,Søndertoften 73,6800, Varde,755875 ,19-05-2020,Alm. Salg,208,3634,5,2022,21%
-573,Villa,Baunhøjvej 21B,6840, Oksbøl,125000 ,19-05-2020,Alm. Salg,187,668,5,2021,-14%
 573,Villa,Skrænten 10,6870, Ølgod,951000 ,18-05-2020,Alm. Salg,104,9144,4,1964,
 573,Villa,Skolegade 16,6818, Årre,1260000 ,18-05-2020,Alm. Salg,125,10080,4,2003,-6%
 573,Villa,Grønningen 19,6870, Ølgod,890000 ,18-05-2020,Alm. Salg,137,6496,5,1973,-5%
@@ -2542,13 +2494,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Rækkehus,Dalgårdsvej 11,6840, Oksbøl,600000 ,27-01-2020,Alm. Salg,78,7692,3,1978,
 573,Villa,Kingosvej 18,6800, Varde,2198000 ,27-01-2020,Alm. Salg,156,14090,5,1962,
 573,Villa,Rønnevænget 13,6870, Ølgod,1362500 ,27-01-2020,Alm. Salg,154,8847,5,1987,-6%
-573,Villa,Ringkøbingvej 73A,6800, Varde,720000 ,27-01-2020,Alm. Salg,70,10286,2,1947,
 573,Villa,Søndertoften 101,6800, Varde,622799 ,27-01-2020,Alm. Salg,182,3422,5,2021,20%
-573,Ejerlejlighed,Slotsgade 2C,6870, Ølgod,2170225 ,26-01-2020,Alm. Salg,87,24945,2,1900,
-573,Ejerlejlighed,Slotsgade 2A,6870, Ølgod,2170225 ,26-01-2020,Alm. Salg,90,24114,3,1900,
-573,Ejerlejlighed,Østerbro 23,6870, Ølgod,2170225 ,26-01-2020,Alm. Salg,72,30142,2,1900,
-573,Ejerlejlighed,"Østerbro 25, 1. th",6870, Ølgod,2170225 ,26-01-2020,Alm. Salg,53,40948,2,1900,
-573,Ejerlejlighed,"Østerbro 25, 1. tv",6870, Ølgod,2170225 ,26-01-2020,Alm. Salg,154,14092,3,1900,
 573,Villa,Kratbakken 4,7200, Grindsted,765000 ,26-01-2020,Alm. Salg,130,5885,5,1975,-3%
 573,Villa,Søndervænget 74,6870, Ølgod,1150000 ,26-01-2020,Alm. Salg,155,7419,5,1974,
 573,Villa,Sletten 135,6800, Varde,2645000 ,25-01-2020,Alm. Salg,191,13848,6,2008,-2%
@@ -2692,22 +2638,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Vangsgade 31A,6870, Ølgod,370375 ,11-11-2019,Alm. Salg,170,2179,6,2020,
 573,Villa,Søndergade 21,6862, Tistrup,980000 ,10-11-2019,Alm. Salg,142,6901,5,1966,
 573,Villa,Vestparken 89,6840, Oksbøl,1350000 ,08-11-2019,Alm. Salg,153,8824,5,1976,-3%
-573,Ejerlejlighed,"Vinkelvej 19, 1. tv",6800, Varde,11900000 ,07-11-2019,Alm. Salg,82,145122,3,1944,
-573,Ejerlejlighed,"Vinkelvej 19, 1. th",6800, Varde,11900000 ,07-11-2019,Alm. Salg,64,185938,3,1944,
-573,Ejerlejlighed,"Vinkelvej 21, st. th",6800, Varde,11900000 ,07-11-2019,Alm. Salg,56,212500,2,1944,
-573,Ejerlejlighed,"Vinkelvej 21, st. tv",6800, Varde,11900000 ,07-11-2019,Alm. Salg,64,185938,3,1944,
-573,Ejerlejlighed,"Vinkelvej 21, 1. th",6800, Varde,11900000 ,07-11-2019,Alm. Salg,56,212500,2,1944,
-573,Ejerlejlighed,"Vinkelvej 21, 1. tv",6800, Varde,11900000 ,07-11-2019,Alm. Salg,64,185938,3,1944,
-573,Ejerlejlighed,"Vinkelvej 19, st. th",6800, Varde,11900000 ,07-11-2019,Alm. Salg,64,185938,3,1944,
-573,Ejerlejlighed,"Vinkelvej 19, st. tv",6800, Varde,11900000 ,07-11-2019,Alm. Salg,82,145122,3,1944,
-573,Ejerlejlighed,"Kildevej 4A, st. th",6800, Varde,11900000 ,07-11-2019,Alm. Salg,65,183077,3,1944,
-573,Ejerlejlighed,"Kildevej 4A, st. tv",6800, Varde,11900000 ,07-11-2019,Alm. Salg,55,216364,2,1944,
-573,Ejerlejlighed,"Kildevej 4B, st. th",6800, Varde,11900000 ,07-11-2019,Alm. Salg,55,216364,2,1944,
-573,Ejerlejlighed,"Kildevej 4B, 1. tv",6800, Varde,11900000 ,07-11-2019,Alm. Salg,65,183077,3,1944,
-573,Ejerlejlighed,"Kildevej 4A, 1. tv",6800, Varde,11900000 ,07-11-2019,Alm. Salg,55,216364,2,1944,
-573,Ejerlejlighed,"Kildevej 4B, st. tv",6800, Varde,11900000 ,07-11-2019,Alm. Salg,65,183077,3,1944,
-573,Ejerlejlighed,"Kildevej 4A, 1. th",6800, Varde,11900000 ,07-11-2019,Alm. Salg,65,183077,3,1944,
-573,Ejerlejlighed,"Kildevej 4B, 1. th",6800, Varde,11900000 ,07-11-2019,Alm. Salg,55,216364,2,1944,
 573,Villa,Vibevej 3,6800, Varde,1075000 ,07-11-2019,Alm. Salg,120,8958,4,1968,-10%
 573,Villa,Præstevangen 26,6823, Ansager,1400000 ,06-11-2019,Alm. Salg,147,9524,4,1975,-5%
 573,Villa,Søndervang 16,6840, Oksbøl,1775000 ,06-11-2019,Alm. Salg,320,5547,11,1968,
@@ -3043,8 +2973,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Lærkevej 1,7200, Grindsted,552500 ,11-06-2019,Fam. Salg,166,3328,6,1919,
 573,Rækkehus,Gl. Skolevej 1H,6857, Blåvand,2648000 ,10-06-2019,Alm. Salg,137,19328,4,2022,
 573,Rækkehus,Gl. Skolevej 1E,6857, Blåvand,2398000 ,10-06-2019,Alm. Salg,137,17504,4,2020,
-573,Ejerlejlighed,Ribevej 3,6800, Varde,1400000 ,10-06-2019,Alm. Salg,70,20000,4,1939,
-573,Villa,Ribevej 5,6800, Varde,1400000 ,10-06-2019,Alm. Salg,121,11570,3,1930,
 573,Villa,Nøddelunden 73,6800, Varde,2098000 ,10-06-2019,Alm. Salg,168,12488,6,1979,
 573,Villa,Vestervang 3,6862, Tistrup,375000 ,10-06-2019,Alm. Salg,120,3125,5,1963,-17%
 573,Villa,Forumvej 23,6800, Varde,1265000 ,10-06-2019,Alm. Salg,150,8433,5,1966,-2%
@@ -3246,12 +3174,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Sønderalle 10,6800, Varde,875000 ,12-03-2019,Alm. Salg,110,7955,3,1958,-7%
 573,Villa,Skolegade 37,6830, Nørre Nebel,500000 ,12-03-2019,Alm. Salg,100,5000,3,1958,-9%
 573,Villa,Bjergegade 60,6870, Ølgod,350000 ,12-03-2019,Fam. Salg,174,2011,5,1938,
-573,Ejerlejlighed,"Storegade 15A, st",6800, Varde,1750000 ,11-03-2019,Alm. Salg,95,18421,3,1908,
-573,Ejerlejlighed,"Brogade 15, 2. th",6800, Varde,1750000 ,11-03-2019,Alm. Salg,78,22436,3,1908,
-573,Ejerlejlighed,"Brogade 15, 1. tv",6800, Varde,1750000 ,11-03-2019,Alm. Salg,100,17500,4,1908,
-573,Ejerlejlighed,"Brogade 15, 1. th",6800, Varde,1750000 ,11-03-2019,Alm. Salg,80,21875,3,1908,
-573,Ejerlejlighed,"Brogade 15, 2. tv",6800, Varde,1750000 ,11-03-2019,Alm. Salg,60,29167,2,1908,
-573,Ejerlejlighed,Brogade 17,6800, Varde,1750000 ,11-03-2019,Alm. Salg,85,20588,2,1908,
 573,Villa,Bjergegade 8,6870, Ølgod,210000 ,11-03-2019,Alm. Salg,88,2386,3,1910,
 573,Rækkehus,Gl. Skolevej 2L,6857, Blåvand,2398000 ,10-03-2019,Alm. Salg,133,18030,4,2019,
 573,Villa,Vestparken 81,6840, Oksbøl,2575000 ,10-03-2019,Alm. Salg,194,13273,6,1977,-4%
@@ -3491,9 +3413,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Græsvangen 16,6855, Outrup,825000 ,31-10-2018,Alm. Salg,142,5810,4,1973,-2%
 573,Villa,Søndertoften 44,6800, Varde,550000 ,31-10-2018,Alm. Salg,165,3333,5,2020,
 573,Villa,Sletten 62,6800, Varde,2350000 ,31-10-2018,Alm. Salg,152,15461,5,0,-2%
-573,Ejerlejlighed,"Gellerupvej 42, 1",6800, Varde,1900000 ,30-10-2018,Alm. Salg,75,25333,3,1937,
 573,Villa,Hjertingvej 89,6800, Varde,880000 ,30-10-2018,Alm. Salg,89,9888,2,1964,-2%
-573,Villa,"Gellerupvej 42, st",6800, Varde,1900000 ,30-10-2018,Alm. Salg,150,12667,5,1937,
 573,Villa,Troldhøjbakken 13,6800, Varde,3850000 ,30-10-2018,Alm. Salg,212,18160,5,2010,
 573,Rækkehus,Bakkevej 36,6800, Varde,775000 ,29-10-2018,Alm. Salg,77,10065,3,1954,-3%
 573,Villa,Ryttervænget 8,6830, Nørre Nebel,540000 ,29-10-2018,Alm. Salg,153,3529,5,1978,-15%
@@ -3729,8 +3649,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Fredensgade 2,6823, Ansager,865000 ,01-07-2018,Alm. Salg,155,5581,4,1955,
 573,Villa,Heagervej 18,6800, Varde,775000 ,01-07-2018,Alm. Salg,160,4844,6,1966,-3%
 573,Villa,Gellerupvej 30,6800, Varde,485000 ,30-06-2018,Alm. Salg,202,2401,5,2022,-19%
-573,Rækkehus,Letbækvej 2B,6862, Tistrup,600000 ,29-06-2018,Alm. Salg,73,8219,1,1907,
-573,Villa,Letbækvej 2A,6862, Tistrup,600000 ,29-06-2018,Alm. Salg,75,8000,1,1907,
 573,Villa,Gl Præstevej 34,6800, Varde,1031000 ,28-06-2018,Alm. Salg,144,7160,5,1905,3%
 573,Villa,Fåborgvej 40,6818, Årre,230000 ,28-06-2018,Fam. Salg,100,2300,4,1895,
 573,Villa,Rosenvænget 17,6800, Varde,1948000 ,27-06-2018,Alm. Salg,142,13718,4,1971,
@@ -3812,8 +3730,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Søndertoften 46,6800, Varde,550000 ,23-05-2018,Alm. Salg,170,3235,4,2021,
 573,Rækkehus,Vesterled 26B,6851, Janderup Vestj,950000 ,22-05-2018,Alm. Salg,102,9314,3,2000,
 573,Rækkehus,Banevangen 10,6851, Janderup Vestj,850000 ,22-05-2018,Alm. Salg,100,8500,4,2005,
-573,Ejerlejlighed,Rønnealle 2,6851, Janderup Vestj,625000 ,22-05-2018,Alm. Salg,50,12500,2,1877,
-573,Ejerlejlighed,Vesterled 21,6851, Janderup Vestj,625000 ,22-05-2018,Alm. Salg,140,4464,4,1877,
 573,Ejerlejlighed,"Banevangen 8A, st",6851, Janderup Vestj,780000 ,22-05-2018,Alm. Salg,104,7500,4,1901,
 573,Villa,Vænget 39,6818, Årre,1625000 ,22-05-2018,Alm. Salg,147,11054,5,2001,
 573,Villa,Højvangsalle 3,6800, Varde,2225000 ,22-05-2018,Alm. Salg,185,12027,7,1963,-3%
@@ -4298,7 +4214,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Storegade 34,6862, Tistrup,200000 ,11-10-2017,Alm. Salg,140,1429,10,1904,-50%
 573,Villa,Roustvej 166,6818, Årre,775000 ,11-10-2017,Alm. Salg,165,4697,5,1972,-13%
 573,Villa,Ådalsvænget 33,6800, Varde,2298000 ,11-10-2017,Alm. Salg,130,17677,3,2015,
-573,Rækkehus,Hjertingvej 8,6800, Varde,980000 ,10-10-2017,Alm. Salg,84,11667,3,1875,-2%
 573,Villa,Skolegade 12,6818, Årre,700000 ,10-10-2017,Alm. Salg,116,6034,6,1910,
 573,Villa,Vardevej 55,6800, Varde,840000 ,10-10-2017,Alm. Salg,130,6462,2,1965,
 573,Villa,Grundtvigsvej 9,6800, Varde,1985000 ,10-10-2017,Alm. Salg,179,11089,7,1968,-1%
@@ -4799,7 +4714,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Johnsgårdvej 13,6870, Ølgod,90000 ,19-01-2017,Alm. Salg,64,1406,3,1880,-9%
 573,Villa,Slugten 2,6800, Varde,1200000 ,19-01-2017,Fam. Salg,190,6316,4,2007,
 573,Villa,Ringkøbingvej 37,6800, Varde,350000 ,19-01-2017,Fam. Salg,92,3804,4,1900,
-573,Villa,Nørregade 24E,6800, Varde,3450000 ,19-01-2017,Alm. Salg,85,40588,4,1950,
 573,Rækkehus,Blåvandvej 14A. 1,6857, Blåvand,1648000 ,18-01-2017,Alm. Salg,94,17532,3,2007,
 573,Ejerlejlighed,"Nørrevold 11B, 1",6800, Varde,685000 ,18-01-2017,Alm. Salg,81,8457,3,1890,-1%
 573,Villa,Syrenvej 9,6855, Outrup,1050000 ,17-01-2017,Alm. Salg,133,7895,5,1970,
@@ -4924,9 +4838,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Enghavevej 12,6870, Ølgod,450000 ,17-11-2016,Alm. Salg,120,3750,5,1948,
 573,Villa,Navervej 23,6800, Varde,2200000 ,17-11-2016,Alm. Salg,140,14013,4,1994,-3%
 573,Rækkehus,Nymandsgade 18,6870, Ølgod,350000 ,15-11-2016,Auktion,128,2734,6,1900,
-573,Ejerlejlighed,Hjertingvej 2A,6800, Varde,170000 ,15-11-2016,Auktion,72,2361,4,1933,
-573,Ejerlejlighed,Viadukten 9,6800, Varde,170000 ,15-11-2016,Auktion,72,2361,3,1933,
-573,Ejerlejlighed,Viadukten 7,6800, Varde,170000 ,15-11-2016,Auktion,16,10625,1,1933,
 573,Villa,Ortenvej 167,6800, Varde,1498000 ,14-11-2016,Alm. Salg,126,11889,8,1949,
 573,Villa,Horns Bjerge 46,6857, Blåvand,2495000 ,14-11-2016,Alm. Salg,120,20792,4,2016,
 573,Ejerlejlighed,"Vestergade 25B, st. th",6800, Varde,900000 ,13-11-2016,Alm. Salg,90,10000,2,1880,
@@ -4950,20 +4861,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Hornelund 31,6800, Varde,550000 ,31-10-2016,Alm. Salg,104,5288,3,1947,-15%
 573,Villa,Nørremarksvej 19,6800, Varde,2345000 ,31-10-2016,Alm. Salg,181,12956,5,1998,-2%
 573,Rækkehus,Storegade 38D,6800, Varde,1150000 ,30-10-2016,Alm. Salg,33,34848,1,1840,
-573,Ejerlejlighed,Vinkelvej 1B,6800, Varde,2900000 ,30-10-2016,Alm. Salg,49,59184,2,1870,
-573,Ejerlejlighed,Vinkelvej 1A,6800, Varde,2900000 ,30-10-2016,Alm. Salg,63,46032,2,1870,
-573,Ejerlejlighed,Søndergade 15A,6800, Varde,2900000 ,30-10-2016,Alm. Salg,73,39726,2,1870,
-573,Ejerlejlighed,"Søndergade 15B, 1",6800, Varde,2900000 ,30-10-2016,Alm. Salg,75,38667,1,1870,
-573,Ejerlejlighed,Vinkelvej 1D,6800, Varde,2900000 ,30-10-2016,Alm. Salg,75,38667,2,1870,
-573,Ejerlejlighed,Vinkelvej 1C,6800, Varde,2900000 ,30-10-2016,Alm. Salg,49,59184,2,1870,
 573,Villa,Storegade 38C,6800, Varde,400000 ,30-10-2016,Alm. Salg,76,5263,3,1700,
 573,Villa,Bytoften 8B,6857, Blåvand,1400000 ,30-10-2016,Fam. Salg,159,8805,6,1973,
 573,Ejerlejlighed,"Nørrevold 11D, 1. tv",6800, Varde,1010000 ,28-10-2016,Alm. Salg,83,12169,2,1946,-8%
-573,Ejerlejlighed,Slotsgade 2C,6870, Ølgod,2100000 ,27-10-2016,Alm. Salg,87,24138,2,1900,
-573,Ejerlejlighed,Slotsgade 2A,6870, Ølgod,2100000 ,27-10-2016,Alm. Salg,90,23333,3,1900,
-573,Ejerlejlighed,Østerbro 23,6870, Ølgod,2100000 ,27-10-2016,Alm. Salg,72,29167,2,1900,
-573,Ejerlejlighed,"Østerbro 25, 1. th",6870, Ølgod,2100000 ,27-10-2016,Alm. Salg,53,39623,2,1900,
-573,Ejerlejlighed,"Østerbro 25, 1. tv",6870, Ølgod,2100000 ,27-10-2016,Alm. Salg,154,13636,3,1900,
 573,Villa,Tingvejen 215,6818, Årre,700000 ,27-10-2016,Alm. Salg,172,4070,6,1870,
 573,Villa,Søndervænget 13,6870, Ølgod,600000 ,27-10-2016,Alm. Salg,132,4545,7,1967,-7%
 573,Villa,Mølledammen 16,6800, Varde,1225000 ,27-10-2016,Alm. Salg,150,8167,5,1972,-9%
@@ -5085,7 +4985,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Byparken 12,6800, Varde,1000000 ,29-08-2016,Fam. Salg,121,8264,4,1969,
 573,Villa,Vardevej 39,6818, Årre,1850000 ,29-08-2016,Fam. Salg,198,9343,5,1934,
 573,Villa,Rosenvænget 50,6800, Varde,500000 ,28-08-2016,Alm. Salg,125,4000,4,1972,
-573,Rækkehus,"Lundvej 3B, st",6800, Varde,1900000 ,25-08-2016,Alm. Salg,91,20879,3,1920,
 573,Villa,Skolegade 5,6818, Årre,840000 ,24-08-2016,Alm. Salg,122,6885,5,1946,-6%
 573,Villa,Redningsvejen 23A,6830, Nørre Nebel,1775000 ,24-08-2016,Alm. Salg,110,16136,4,2013,-11%
 573,Ejerlejlighed,"Grydergade 4E, 2. tv",6800, Varde,425000 ,23-08-2016,Alm. Salg,46,9239,1,1877,-5%
@@ -5147,9 +5046,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Kirkevejen 19,6818, Årre,940000 ,17-07-2016,Alm. Salg,195,4821,6,1976,-6%
 573,Villa,Nøddelunden 40,6800, Varde,1515000 ,16-07-2016,Alm. Salg,165,9182,5,1978,-8%
 573,Rækkehus,Tyttebærvej 36,6870, Ølgod,565000 ,14-07-2016,Alm. Salg,93,6075,4,1978,
-573,Ejerlejlighed,"Rønnealle 2A, 1",6862, Tistrup,450000 ,14-07-2016,Alm. Salg,50,9000,3,1890,
 573,Villa,Vesterhavsvej 130,6830, Nørre Nebel,187000 ,14-07-2016,Fam. Salg,80,2338,3,1962,
-573,Villa,Storegade 16,6862, Tistrup,450000 ,14-07-2016,Alm. Salg,142,3169,9,1890,
 573,Villa,Adsbølvej 10,6870, Ølgod,250000 ,14-07-2016,Alm. Salg,114,2193,4,1935,
 573,Villa,P O Pedersens Vej 7,6800, Varde,850000 ,14-07-2016,Alm. Salg,125,6800,5,1960,-5%
 573,Villa,Østerbro 7,6870, Ølgod,225000 ,14-07-2016,Alm. Salg,196,1148,7,1894,
@@ -5303,12 +5200,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Bygvænget 11,6800, Varde,1322000 ,25-04-2016,Alm. Salg,139,9511,5,1971,2%
 573,Villa,Blomstervangen 73,6800, Varde,1340000 ,24-04-2016,Alm. Salg,116,11552,4,1984,-3%
 573,Villa,Søndergade 10,6870, Ølgod,425000 ,24-04-2016,Fam. Salg,138,3080,5,1900,
-573,Ejerlejlighed,"Søndergade 1B, st",6840, Oksbøl,1900000 ,20-04-2016,Alm. Salg,70,27143,2,1903,
-573,Ejerlejlighed,"Søndergade 1A, 1",6840, Oksbøl,1900000 ,20-04-2016,Alm. Salg,70,27143,2,1903,
-573,Ejerlejlighed,"Østergade 2B, 1. tv",6840, Oksbøl,1900000 ,20-04-2016,Alm. Salg,92,20652,3,1903,
-573,Ejerlejlighed,Østergade 2,6840, Oksbøl,1900000 ,20-04-2016,Alm. Salg,74,25676,2,1903,
-573,Ejerlejlighed,"Østergade 2B, st",6840, Oksbøl,1900000 ,20-04-2016,Alm. Salg,99,19192,3,1903,
-573,Ejerlejlighed,"Østergade 2B, 1. th",6840, Oksbøl,1900000 ,20-04-2016,Alm. Salg,81,23457,3,1903,
 573,Villa,Mejlsvej 57,6800, Varde,1495000 ,20-04-2016,Alm. Salg,246,6077,8,1939,-6%
 573,Villa,Hyllerslev Skolevej 6,6851, Janderup Vestj,897051 ,20-04-2016,Fam. Salg,250,3588,10,1904,
 573,Villa,Odinsvej 30,6840, Oksbøl,655000 ,20-04-2016,Andet,143,4580,5,1998,
@@ -5367,7 +5258,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Gammelgårdvej 2,6870, Ølgod,150000 ,16-03-2016,Alm. Salg,132,1136,5,2016,
 573,Villa,Vibevej 19,6823, Ansager,425000 ,16-03-2016,Alm. Salg,118,3602,5,1981,
 573,Rækkehus,Dalgårdsvej 41A,6840, Oksbøl,930000 ,15-03-2016,Alm. Salg,88,10568,4,1986,-2%
-573,Villa,Agervigvej 4A,6800, Varde,250000 ,15-03-2016,Alm. Salg,62,4032,3,1920,
 573,Villa,Nørremarksvej 260,6800, Varde,2545000 ,15-03-2016,Alm. Salg,192,13255,5,1998,
 573,Villa,Tjørnevej 4B,6870, Ølgod,113900 ,15-03-2016,Alm. Salg,129,883,4,1988,
 573,Villa,Søndergade 58,6870, Ølgod,460000 ,15-03-2016,Fam. Salg,90,5111,3,1961,
@@ -6087,9 +5977,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Hennevej 4,6855, Outrup,360000 ,18-01-2015,Alm. Salg,125,2880,4,1959,-9%
 573,Villa,Strandvejen 27,6840, Oksbøl,500000 ,17-01-2015,Alm. Salg,167,2994,5,1963,-37%
 573,Rækkehus,Vandflodvej 2. 13,6857, Blåvand,1280000 ,16-01-2015,Alm. Salg,90,14222,3,2005,-4%
-573,Ejerlejlighed,Jernbanegade 15,6870, Ølgod,369414 ,15-01-2015,Auktion,52,7104,2,1922,
-573,Ejerlejlighed,"Mejerivej 6, st",6870, Ølgod,369414 ,15-01-2015,Auktion,26,14208,1,1922,
-573,Ejerlejlighed,"Mejerivej 6, 1",6870, Ølgod,369414 ,15-01-2015,Auktion,89,4151,3,1922,
 573,Villa,Hovborgvej 73,7200, Grindsted,120000 ,15-01-2015,Alm. Salg,60,2000,3,1958,-31%
 573,Villa,Gartnerhaven 2,6823, Ansager,350000 ,14-01-2015,Alm. Salg,131,2672,6,1951,
 573,Villa,Skoleparken 37,6800, Varde,940000 ,13-01-2015,Alm. Salg,107,8785,4,1976,-6%
@@ -6137,8 +6024,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Rækkehus,Lundvej 33,6800, Varde,900000 ,12-12-2014,Alm. Salg,84,10714,3,1890,
 573,Villa,Troldhøj Alle 40,6800, Varde,2225000 ,12-12-2014,Alm. Salg,142,15669,5,2014,-3%
 573,Villa,Hyldesti 1,6800, Varde,3645000 ,12-12-2014,Alm. Salg,165,22091,3,2010,
-573,Rækkehus,Storegade 50A,6862, Tistrup,1025000 ,11-12-2014,Alm. Salg,71,14437,3,1896,-2%
-573,Ejerlejlighed,Storegade 50B,6862, Tistrup,1025000 ,11-12-2014,Alm. Salg,116,8836,4,1896,-2%
 573,Villa,Møgelbjergvej 4,6800, Varde,427500 ,11-12-2014,Alm. Salg,156,2740,6,1783,
 573,Villa,Gellerupvej 2,6800, Varde,1275000 ,11-12-2014,Alm. Salg,119,10714,5,1920,-2%
 573,Villa,Møbelvej 1,6800, Varde,2350000 ,10-12-2014,Alm. Salg,223,10000,7,1980,-11%
@@ -6202,11 +6087,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Hvedevænget 3,6800, Varde,1300000 ,06-11-2014,Alm. Salg,182,7143,7,1975,-10%
 573,Villa,Tyttebærvej 7,6870, Ølgod,620000 ,05-11-2014,Alm. Salg,130,4769,3,1976,-22%
 573,Villa,Åkirkevej 19,6851, Janderup Vestj,820000 ,05-11-2014,Alm. Salg,156,5256,6,1956,-5%
-573,Ejerlejlighed,"Vestergade 20, 1. th",6800, Varde,8000000 ,04-11-2014,Alm. Salg,138,57971,6,1880,
-573,Ejerlejlighed,"Vestergade 20, 1. tv",6800, Varde,8000000 ,04-11-2014,Alm. Salg,115,69565,2,1880,
-573,Ejerlejlighed,"Apotekerhaven 2, 2. mf",6800, Varde,8000000 ,04-11-2014,Alm. Salg,106,75472,2,1880,
-573,Ejerlejlighed,"Apotekerhaven 2, 2. tv",6800, Varde,8000000 ,04-11-2014,Alm. Salg,125,64000,3,1880,
-573,Ejerlejlighed,"Apotekerhaven 2, 2. th",6800, Varde,8000000 ,04-11-2014,Alm. Salg,155,51613,3,1880,
 573,Villa,Hovedgaden 7,6823, Ansager,600000 ,04-11-2014,Alm. Salg,145,4138,6,1938,-8%
 573,Ejerlejlighed,"Torvet 6B, 1",6870, Ølgod,1600000 ,02-11-2014,Alm. Salg,156,10256,3,1964,
 573,Villa,Frydendalsvej 6,6800, Varde,1200000 ,30-10-2014,Alm. Salg,204,5882,7,1981,
@@ -6222,7 +6102,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Grøngårdsvej 4,6800, Varde,630000 ,26-10-2014,Alm. Salg,116,5431,4,1970,-3%
 573,Villa,Vardevej 26,6862, Tistrup,750000 ,25-10-2014,Alm. Salg,153,4902,4,1937,-16%
 573,Villa,Rosenvænget 17,6800, Varde,1100000 ,23-10-2014,Alm. Salg,142,7746,4,1971,-4%
-573,Villa,Nikolaikirkestræde 7A,6800, Varde,2150000 ,23-10-2014,Alm. Salg,105,20476,3,1900,
 573,Ejerlejlighed,"Lundvej 4D, 2. tv",6800, Varde,2400000 ,21-10-2014,Alm. Salg,112,21429,3,2007,-20%
 573,Villa,Gårdevej 6,6870, Ølgod,5000 ,21-10-2014,Alm. Salg,80,63,3,1880,
 573,Villa,Vangsgade 35,6870, Ølgod,850000 ,21-10-2014,Alm. Salg,145,5862,5,1979,-11%
@@ -6327,7 +6206,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Borkvej 21,6830, Nørre Nebel,595000 ,12-08-2014,Alm. Salg,103,5777,3,1964,-12%
 573,Villa,Bredgade 58,6800, Varde,550000 ,12-08-2014,Alm. Salg,108,5093,4,1941,
 573,Villa,Askevej 6,6862, Tistrup,612500 ,11-08-2014,Fam. Salg,189,3241,7,1976,
-573,Villa,Nr Alle 2,6870, Ølgod,1850000 ,10-08-2014,Alm. Salg,89,20787,3,1890,
 573,Villa,Søvigvej 11,6855, Outrup,432000 ,08-08-2014,Alm. Salg,70,6171,3,1900,
 573,Villa,Præstegaardsvej 5,6840, Oksbøl,992000 ,07-08-2014,Alm. Salg,116,8552,4,1953,-10%
 573,Villa,Fåborgvej 73,6818, Årre,189000 ,07-08-2014,Alm. Salg,117,1615,4,1930,-46%
@@ -7108,7 +6986,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Ryttervænget 13,6830, Nørre Nebel,1195000 ,27-01-2013,Alm. Salg,158,7563,5,1976,
 573,Villa,Kløvbakken 81,6855, Outrup,1150000 ,27-01-2013,Alm. Salg,147,7823,5,1986,
 573,Villa,Byparken 6,6800, Varde,395000 ,26-01-2013,Alm. Salg,163,2423,5,1968,
-573,Villa,Ringkøbingvej 73A,6800, Varde,400000 ,24-01-2013,Alm. Salg,70,5714,2,1947,-33%
 573,Villa,Sønderbro 5,6823, Ansager,600000 ,23-01-2013,Alm. Salg,190,3158,7,1961,
 573,Villa,Forumvej 4,6800, Varde,510000 ,22-01-2013,Alm. Salg,115,4435,3,1962,-7%
 573,Villa,Drosselvej 29,6800, Varde,1075000 ,21-01-2013,Alm. Salg,103,10437,4,1965,-10%
@@ -7544,7 +7421,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Tykby 3,6857, Blåvand,2250000 ,15-03-2012,Alm. Salg,183,12295,6,1995,-10%
 573,Villa,Engkanten 14,6800, Varde,640000 ,14-03-2012,Alm. Salg,96,6667,3,1967,-8%
 573,Villa,Ortenvej 24B,6800, Varde,1410000 ,13-03-2012,Alm. Salg,122,11557,4,1959,-6%
-573,Villa,Nr Alle 2,6870, Ølgod,6500000 ,13-03-2012,Alm. Salg,89,73034,3,1890,
 573,Villa,Sct Gertrudsvej 6,6800, Varde,655000 ,12-03-2012,Alm. Salg,65,10077,3,1947,-3%
 573,Villa,Hulvigvej 18,6862, Tistrup,1315000 ,11-03-2012,Alm. Salg,182,7225,5,1924,-9%
 573,Villa,Vestparken 5,6840, Oksbøl,1150000 ,10-03-2012,Alm. Salg,129,8915,5,1976,
@@ -7810,7 +7686,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Fyrrevænget 14,6818, Årre,745000 ,11-09-2011,Alm. Salg,140,5321,4,1971,-6%
 573,Villa,Ternevej 23,6851, Janderup Vestj,1635000 ,08-09-2011,Alm. Salg,223,7332,6,1979,-6%
 573,Villa,Habrehøjvej 10,6800, Varde,580000 ,08-09-2011,Alm. Salg,131,4427,4,1978,-3%
-573,Rækkehus,Vesterport 4B,6800, Varde,4000000 ,07-09-2011,Auktion,214,18692,6,1990,
 573,Villa,Sneppevej 29,6851, Janderup Vestj,1580000 ,06-09-2011,Alm. Salg,128,12344,4,2008,-1%
 573,Rækkehus,Bjergegade 22,6870, Ølgod,740000 ,05-09-2011,Alm. Salg,90,8222,3,1900,-1%
 573,Villa,H C Eskildsensvej 6,6823, Ansager,895000 ,05-09-2011,Andet,175,5114,6,1960,-3%
@@ -7948,7 +7823,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Rosenvænget 36,6800, Varde,1495000 ,21-06-2011,Alm. Salg,150,9967,5,1971,-3%
 573,Villa,Lokesvej 9,6840, Oksbøl,1200000 ,21-06-2011,Fam. Salg,176,6818,5,2004,
 573,Rækkehus,Kirkevænget 3A,6870, Ølgod,520000 ,20-06-2011,Auktion,138,3768,5,1987,-39%
-573,Ejerlejlighed,"Bredgade 18B, 1",6830, Nørre Nebel,1100000 ,20-06-2011,Auktion,81,13580,2,1939,
 573,Villa,Åkirkevej 36,6851, Janderup Vestj,850000 ,20-06-2011,Fam. Salg,193,4404,5,2021,
 573,Villa,Troldhøjvænget 51,6800, Varde,545000 ,20-06-2011,Alm. Salg,144,3785,6,2014,
 573,Villa,Troldhøj Alle 114,6800, Varde,695000 ,20-06-2011,Alm. Salg,180,3861,6,2012,
@@ -7988,10 +7862,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Marsvej 33,6800, Varde,360000 ,26-05-2011,Alm. Salg,161,2236,6,2013,
 573,Villa,Klintingvej 229,6854, Henne,236790 ,24-05-2011,Alm. Salg,86,2753,2,1877,
 573,Villa,Rottarpvej 50,6855, Outrup,1900000 ,24-05-2011,Alm. Salg,206,9223,6,1935,-3%
-573,Rækkehus,"Ansagervej 3, 1",6823, Ansager,1255000 ,23-05-2011,Alm. Salg,96,13073,2,1932,
 573,Rækkehus,Kollevej 15B,6830, Nørre Nebel,700000 ,23-05-2011,Alm. Salg,95,7368,4,1977,-7%
 573,Villa,Vestervænget 24,6800, Varde,2048000 ,23-05-2011,Alm. Salg,147,13932,5,1978,
-573,Villa,Ansagervej 1,6823, Ansager,1255000 ,23-05-2011,Alm. Salg,110,10726,4,1984,
 573,Villa,Gartnervænget 6,6855, Outrup,1115000 ,22-05-2011,Alm. Salg,131,8511,4,1975,-3%
 573,Villa,Vestervænget 34,6800, Varde,1275000 ,22-05-2011,Alm. Salg,184,6929,3,1976,-6%
 573,Villa,Byvejen 18,6818, Årre,740000 ,19-05-2011,Alm. Salg,154,4805,5,1937,-5%
@@ -8100,9 +7972,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Blåbærvej 1,6870, Ølgod,635000 ,25-02-2011,Alm. Salg,147,3872,5,1972,-15%
 573,Villa,Kløvbakken 89,6855, Outrup,1150000 ,24-02-2011,Alm. Salg,143,8042,6,1987,-3%
 573,Villa,Nørremarksvej 31,6800, Varde,1975000 ,24-02-2011,Alm. Salg,141,14007,4,1997,-6%
-573,Rækkehus,Sydslunden 33,6800, Varde,1075000 ,23-02-2011,Fam. Salg,110,9773,5,1987,
 573,Villa,Jægumsvej 9,6800, Varde,740000 ,23-02-2011,Alm. Salg,86,8605,3,1957,-5%
-573,Villa,Skoleparken 29,6800, Varde,1075000 ,23-02-2011,Alm. Salg,151,7119,5,1976,-2%
 573,Villa,Dalgårdsvej 6,6840, Oksbøl,700000 ,23-02-2011,Auktion,150,4667,5,1973,
 573,Ejerlejlighed,"Storegade 19A, st",6753, Agerbæk,1282000 ,22-02-2011,Alm. Salg,95,13495,3,2011,
 573,Villa,Langlivej 11,6852, Billum,1435000 ,22-02-2011,Alm. Salg,129,11124,3,2007,-4%
@@ -8144,8 +8014,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Roustvej 148,6818, Årre,734000 ,18-01-2011,Alm. Salg,133,5519,6,1954,-2%
 573,Villa,Gellerupholmsvej 11,6800, Varde,748000 ,17-01-2011,Fam. Salg,100,7480,4,1963,
 573,Villa,Saturnvej 35,6800, Varde,300000 ,17-01-2011,Alm. Salg,154,1948,6,2011,
-573,Ejerlejlighed,"Bredgade 55, 1",6830, Nørre Nebel,1700000 ,16-01-2011,Alm. Salg,156,10897,3,1925,-5%
-573,Ejerlejlighed,"Møllevangsvej 10, 1",6830, Nørre Nebel,1700000 ,16-01-2011,Alm. Salg,43,39535,2,1925,-5%
 573,Villa,Roustvej 188,6818, Årre,600000 ,16-01-2011,Alm. Salg,248,2419,7,1938,
 573,Villa,Kanalvej 12,6823, Ansager,598500 ,16-01-2011,Fam. Salg,160,3741,5,1932,
 573,Villa,Røllikevej 52,6800, Varde,1475000 ,16-01-2011,Alm. Salg,120,12292,4,1982,
@@ -8210,15 +8078,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Ådalsvænget 34,6800, Varde,2200000 ,20-12-2010,Alm. Salg,125,17600,4,2009,
 573,Villa,Siggårdsvej 3,6818, Årre,820000 ,19-12-2010,Alm. Salg,177,4633,6,2012,
 573,Villa,Kølbanken 8,6823, Ansager,1500000 ,17-12-2010,Alm. Salg,214,7009,4,1943,
-573,Rækkehus,Tømmerpladsen 2C,6800, Varde,2050000 ,15-12-2010,Andet,88,23295,3,1900,
-573,Ejerlejlighed,"Tømmerpladsen 2B, 1",6800, Varde,2050000 ,15-12-2010,Andet,78,26282,3,1900,
-573,Ejerlejlighed,"Sønderbro 15, 1. mf",6800, Varde,2050000 ,15-12-2010,Andet,32,64063,1,1900,
-573,Ejerlejlighed,"Sønderbro 15, 1. th",6800, Varde,2050000 ,15-12-2010,Andet,50,41000,2,1900,
-573,Ejerlejlighed,"Sønderbro 15, 1. tv",6800, Varde,2050000 ,15-12-2010,Andet,48,42708,2,1900,
-573,Ejerlejlighed,Tømmerpladsen 2D,6800, Varde,2050000 ,15-12-2010,Andet,88,23295,3,1900,
-573,Ejerlejlighed,"Sønderbro 15, st. tv",6800, Varde,2050000 ,15-12-2010,Andet,128,16016,2,1900,
-573,Ejerlejlighed,"Sønderbro 15, st. th",6800, Varde,2050000 ,15-12-2010,Andet,137,14964,3,1900,
-573,Ejerlejlighed,"Tømmerpladsen 2B, st",6800, Varde,2050000 ,15-12-2010,Andet,112,18304,2,1900,
 573,Villa,Søndergade 20,6862, Tistrup,250000 ,15-12-2010,Auktion,132,1894,4,1954,
 573,Villa,Lindegade 5B,6823, Ansager,1075000 ,15-12-2010,Alm. Salg,228,4715,6,1973,-2%
 573,Villa,Mælkevejen 2,6800, Varde,445000 ,15-12-2010,Alm. Salg,114,3904,4,1926,
@@ -8815,7 +8674,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Mallevej 9,6800, Varde,2350000 ,10-02-2010,Auktion,206,11408,9,1935,
 573,Villa,Troldhøjbakken 4,6800, Varde,595000 ,10-02-2010,Alm. Salg,194,3067,7,2011,
 573,Villa,Møllebakken 35,6800, Varde,191570 ,10-02-2010,Alm. Salg,164,1168,4,2010,
-573,Villa,Dalgårdsvej 3C,6840, Oksbøl,395000 ,10-02-2010,Auktion,102,3873,3,0,
 573,Villa,Slugten 11,6800, Varde,1100000 ,09-02-2010,Andet,227,4846,4,2003,
 573,Villa,Borkvej 14,6830, Nørre Nebel,419451 ,09-02-2010,Alm. Salg,198,1785,8,1964,-70%
 573,Villa,Midtbyvej 1C,6857, Blåvand,4000000 ,09-02-2010,Alm. Salg,144,27778,5,2009,
@@ -9069,7 +8927,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Hennebysvej 10,6854, Henne,890000 ,24-09-2009,Alm. Salg,137,6496,4,1952,-10%
 573,Villa,Juulsvej 8,6855, Outrup,695000 ,23-09-2009,Alm. Salg,113,6150,4,1972,
 573,Villa,Vardevej 30A,6800, Varde,875000 ,23-09-2009,Auktion,140,4944,4,1974,
-573,Villa,Nr Alle 2,6870, Ølgod,6935000 ,23-09-2009,Alm. Salg,89,77921,3,1890,
 573,Villa,Kirkevejen 27,6818, Årre,955000 ,23-09-2009,Alm. Salg,231,4134,5,1978,-8%
 573,Villa,Rømøvej 15,6852, Billum,1600000 ,22-09-2009,Alm. Salg,220,7273,7,1979,-6%
 573,Villa,Troldhøjbakken 8,6800, Varde,595000 ,22-09-2009,Alm. Salg,233,2554,6,2016,
@@ -9084,15 +8941,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Klokkedoj 19,6800, Varde,420000 ,16-09-2009,Auktion,118,3559,3,1978,
 573,Villa,Åkirkevej 6,6851, Janderup Vestj,277297 ,15-09-2009,Alm. Salg,98,2830,3,1964,
 573,Rækkehus,Stormgade 6,6800, Varde,1500000 ,13-09-2009,Alm. Salg,120,12500,3,1921,-3%
-573,Ejerlejlighed,Nikolaikirkestræde 24A,6800, Varde,4250000 ,13-09-2009,Alm. Salg,55,77273,2,1990,
-573,Ejerlejlighed,Nikolaikirkestræde 24B,6800, Varde,4250000 ,13-09-2009,Alm. Salg,55,77273,2,1990,
-573,Ejerlejlighed,"Nørregade 10A, st. th",6800, Varde,4250000 ,13-09-2009,Alm. Salg,65,65385,2,1910,
-573,Ejerlejlighed,"Nørregade 10A, st. tv",6800, Varde,4250000 ,13-09-2009,Alm. Salg,48,88542,2,1910,
-573,Ejerlejlighed,"Nørregade 10A, 1. th",6800, Varde,4250000 ,13-09-2009,Alm. Salg,65,65385,2,1910,
-573,Ejerlejlighed,"Nørregade 10A, 2. th",6800, Varde,4250000 ,13-09-2009,Alm. Salg,45,94444,1,1910,
-573,Ejerlejlighed,"Nørregade 10A, 1. tv",6800, Varde,4250000 ,13-09-2009,Alm. Salg,48,88542,2,1910,
-573,Ejerlejlighed,Nørregade 10B,6800, Varde,4250000 ,13-09-2009,Alm. Salg,78,54487,3,1990,
-573,Ejerlejlighed,"Nørregade 10A, 2. tv",6800, Varde,4250000 ,13-09-2009,Alm. Salg,45,94444,1,1910,
 573,Villa,Vigtoftvej 11,6840, Oksbøl,2240000 ,12-09-2009,Alm. Salg,180,12444,4,1875,-10%
 573,Villa,Søndervænget 105,6870, Ølgod,1485000 ,10-09-2009,Alm. Salg,234,6346,6,1974,-7%
 573,Villa,Kirkebakken 7,6800, Varde,545000 ,08-09-2009,Alm. Salg,114,4781,4,1967,
@@ -9258,7 +9106,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Skolegade 12,6870, Ølgod,1100000 ,11-06-2009,Alm. Salg,141,7801,5,1964,
 573,Rækkehus,Vandflodvej 2. 35,6857, Blåvand,1700000 ,10-06-2009,Alm. Salg,90,18889,3,2005,
 573,Ejerlejlighed,"Grydergade 4E, 1. tv",6800, Varde,1045000 ,10-06-2009,Alm. Salg,69,15145,1,1877,
-573,Villa,Nr Alle 2,6870, Ølgod,4400000 ,10-06-2009,Auktion,89,49438,3,1890,
 573,Villa,Vesterbækvej 11,6800, Varde,970000 ,09-06-2009,Alm. Salg,103,9417,3,1942,-3%
 573,Villa,Rottarpvej 41,6855, Outrup,350000 ,09-06-2009,Fam. Salg,112,3125,4,1914,
 573,Villa,Lochmannsvej 3,6753, Agerbæk,840000 ,07-06-2009,Alm. Salg,142,5915,4,1969,
@@ -9391,7 +9238,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Roustvej 135,6818, Årre,600000 ,19-03-2009,Alm. Salg,187,2985,8,1974,
 573,Ejerlejlighed,Blåvandvej 28G,6857, Blåvand,688000 ,18-03-2009,Alm. Salg,34,20235,3,1983,-1%
 573,Villa,Søndergade 29,6862, Tistrup,1200000 ,18-03-2009,Alm. Salg,129,9302,2,1940,-9%
-573,Villa,Nr Alle 2,6870, Ølgod,4400000 ,18-03-2009,Auktion,89,49438,3,1890,
 573,Villa,Vesterbækvej 71,6800, Varde,2050000 ,18-03-2009,Alm. Salg,192,10677,6,1934,-2%
 573,Villa,Blomstervangen 70,6800, Varde,1600000 ,17-03-2009,Alm. Salg,200,8000,8,1977,-6%
 573,Ejerlejlighed,"Vestergade 25B, st. tv",6800, Varde,775000 ,16-03-2009,Alm. Salg,73,10616,2,1880,-3%
@@ -9715,7 +9561,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Smedebakken 6,7200, Grindsted,685000 ,08-09-2008,Alm. Salg,96,7135,4,1922,-8%
 573,Villa,Troldhøjvænget 14,6800, Varde,645000 ,08-09-2008,Alm. Salg,194,3325,5,2011,
 573,Villa,Vejlevej 2,6862, Tistrup,895000 ,07-09-2008,Alm. Salg,142,6303,7,1936,
-573,Villa,Houstrupvej 134A,6830, Nørre Nebel,1051000 ,07-09-2008,Alm. Salg,204,5152,6,1930,
 573,Villa,Jupitervej 34,6800, Varde,1745000 ,07-09-2008,Alm. Salg,135,12926,6,1986,
 573,Villa,Dyrebyvej 21,6854, Henne,1000000 ,07-09-2008,Alm. Salg,208,4808,7,1873,
 573,Villa,Storegade 2,6753, Agerbæk,875000 ,07-09-2008,Alm. Salg,69,12681,2,1976,
@@ -9778,9 +9623,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Tarpvej 80,6830, Nørre Nebel,885000 ,14-08-2008,Alm. Salg,109,8119,7,1908,-1%
 573,Villa,Pilevej 2,6862, Tistrup,1125000 ,14-08-2008,Alm. Salg,149,7550,5,1974,-2%
 573,Rækkehus,Sydslunden 44,6800, Varde,1115000 ,13-08-2008,Alm. Salg,92,12120,5,1987,
-573,Ejerlejlighed,Hjertingvej 2A,6800, Varde,880000 ,13-08-2008,Alm. Salg,72,12222,4,1933,
-573,Ejerlejlighed,Viadukten 9,6800, Varde,880000 ,13-08-2008,Alm. Salg,72,12222,3,1933,
-573,Ejerlejlighed,Viadukten 7,6800, Varde,880000 ,13-08-2008,Alm. Salg,16,55000,1,1933,
 573,Villa,Troldhøjbakken 1,6800, Varde,495000 ,13-08-2008,Alm. Salg,173,2861,5,2010,
 573,Villa,Ndr Hindsigvej 8,6800, Varde,625000 ,11-08-2008,Alm. Salg,148,4223,5,1899,-4%
 573,Villa,Toftegårdsvej 15,6800, Varde,450000 ,10-08-2008,Alm. Salg,175,2571,6,2009,
@@ -10170,7 +10012,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Ingemannsvej 7,6800, Varde,1491000 ,12-03-2008,Alm. Salg,166,8982,6,1966,-6%
 573,Villa,Tyttebærvej 4,6870, Ølgod,1000000 ,12-03-2008,Alm. Salg,162,6173,5,1976,-13%
 573,Villa,Stilhofsvej 46,6852, Billum,1265000 ,12-03-2008,Alm. Salg,145,8724,5,1972,
-573,Villa,Møllevej 2A,6800, Varde,1227000 ,12-03-2008,Alm. Salg,127,9661,4,2010,
 573,Villa,Bøgevej 7,6862, Tistrup,935000 ,12-03-2008,Alm. Salg,166,5633,6,1964,-3%
 573,Villa,Højlundevej 3,6862, Tistrup,975000 ,12-03-2008,Alm. Salg,117,8333,5,1900,-10%
 573,Villa,Skovkrogen 6,6840, Oksbøl,1035000 ,11-03-2008,Alm. Salg,115,9000,4,1965,
@@ -10221,8 +10062,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Vestergårdsvej 3,6800, Varde,609356 ,26-02-2008,Alm. Salg,132,4616,4,1900,
 573,Villa,Brinksvej 11,6800, Varde,1285000 ,25-02-2008,Alm. Salg,173,7428,5,1976,
 573,Villa,Skolegade 48,6830, Nørre Nebel,540000 ,25-02-2008,Alm. Salg,260,2077,7,1910,-4%
-573,Ejerlejlighed,"Nørrevold 11C, 1. tv",6800, Varde,1198000 ,24-02-2008,Alm. Salg,105,11410,4,1946,
-573,Villa,Agertoften 3,6800, Varde,1198000 ,24-02-2008,Alm. Salg,138,8681,5,1973,0%
 573,Villa,Bredgade 33,6753, Agerbæk,750000 ,24-02-2008,Alm. Salg,108,6944,4,1968,
 573,Villa,Bøgelyvej 2,6800, Varde,915000 ,24-02-2008,Alm. Salg,155,5903,4,1973,
 573,Villa,Klokkedoj 4,6800, Varde,924000 ,24-02-2008,Alm. Salg,194,4763,5,1980,-3%
@@ -10576,9 +10415,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Solskrænten 12,6800, Varde,605000 ,11-10-2007,Andet,127,4764,5,1992,
 573,Villa,Søndervænget 61,6870, Ølgod,1285000 ,11-10-2007,Alm. Salg,138,9312,4,1979,
 573,Ejerlejlighed,"Storegade 28, 1. th",6870, Ølgod,961606 ,10-10-2007,Alm. Salg,104,9246,4,1911,
-573,Ejerlejlighed,"Storegade 28, 2. tv",6870, Ølgod,865446 ,10-10-2007,Alm. Salg,83,10427,3,1911,
-573,Ejerlejlighed,"Storegade 28, 2. tv",6870, Ølgod,865446 ,10-10-2007,Alm. Salg,83,10427,4,1968,
-573,Ejerlejlighed,"Torvegade 4, 2. tv",6870, Ølgod,865446 ,10-10-2007,Alm. Salg,84,10303,2,1968,
 573,Ejerlejlighed,"Torvegade 4, 2. th",6870, Ølgod,849419 ,10-10-2007,Alm. Salg,75,11326,2,1968,
 573,Villa,Stormgade 4,6800, Varde,1300000 ,10-10-2007,Alm. Salg,178,7303,5,1922,-2%
 573,Villa,Debelvej 211,6855, Outrup,1050000 ,10-10-2007,Alm. Salg,155,6774,4,1910,-4%
@@ -10722,7 +10558,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Kløvervænget 33,6870, Ølgod,193652 ,27-08-2007,Alm. Salg,236,821,4,0,
 573,Rækkehus,Hyldehaven 51,6800, Varde,1862000 ,26-08-2007,Alm. Salg,132,14106,5,2008,
 573,Rækkehus,Hyldehaven 63,6800, Varde,1742000 ,26-08-2007,Alm. Salg,120,14517,5,2008,
-573,Ejerlejlighed,"Bredgade 18B, 1",6830, Nørre Nebel,575000 ,26-08-2007,Alm. Salg,81,7099,2,1939,
 573,Villa,Byparken 17,6800, Varde,420000 ,26-08-2007,Fam. Salg,116,3621,4,1971,
 573,Villa,Storegade 10,6855, Outrup,380000 ,26-08-2007,Alm. Salg,122,3115,6,1950,
 573,Villa,Degnevej 17,6830, Nørre Nebel,450000 ,26-08-2007,Alm. Salg,106,4245,4,1967,-14%
@@ -10787,7 +10622,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Bredgade 60,6800, Varde,1870000 ,06-08-2007,Alm. Salg,143,13077,4,1995,
 573,Villa,Sct Gertrudsvej 31,6800, Varde,980000 ,06-08-2007,Alm. Salg,129,7597,4,1971,
 573,Villa,Hjertingvej 68I,6800, Varde,998000 ,05-08-2007,Alm. Salg,132,7561,4,1935,
-573,Ejerlejlighed,"Bredgade 18B, 1",6830, Nørre Nebel,858000 ,04-08-2007,Alm. Salg,81,10593,2,1939,
 573,Villa,Kildevej 19,6800, Varde,1348000 ,04-08-2007,Alm. Salg,105,12838,4,1984,
 573,Rækkehus,Vandflodvej 2. 22,6857, Blåvand,1600000 ,02-08-2007,Alm. Salg,92,17391,3,2005,
 573,Villa,Møllegårdsvej 16,6862, Tistrup,395818 ,02-08-2007,Alm. Salg,110,3598,4,1979,
@@ -10935,10 +10769,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Solvænget 110,6870, Ølgod,875000 ,13-06-2007,Alm. Salg,140,6250,4,1979,-5%
 573,Villa,Gyvellunden 12,6800, Varde,1198000 ,13-06-2007,Alm. Salg,114,10509,4,1979,
 573,Villa,Sletten 19,6800, Varde,2498000 ,13-06-2007,Alm. Salg,174,14356,6,2004,
-573,Villa,Enghavevej 13B,6870, Ølgod,1200000 ,13-06-2007,Alm. Salg,198,6061,7,1957,
 573,Rækkehus,Grydergade 3A,6800, Varde,1075000 ,12-06-2007,Alm. Salg,89,12079,2,1870,
-573,Ejerlejlighed,"Rønnealle 2A, 1",6862, Tistrup,1000000 ,12-06-2007,Alm. Salg,50,20000,3,1890,
-573,Villa,Storegade 16,6862, Tistrup,1000000 ,12-06-2007,Alm. Salg,142,7042,9,1890,
 573,Villa,Sønderskovvej 16,6800, Varde,765000 ,12-06-2007,Alm. Salg,160,4781,5,1938,-8%
 573,Villa,Søndergade 24,6862, Tistrup,1118911 ,11-06-2007,Alm. Salg,122,9171,4,1942,2%
 573,Villa,Rosenvænget 41,6800, Varde,1575000 ,11-06-2007,Alm. Salg,158,9968,5,1972,
@@ -10988,13 +10819,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Bredgade 85A,6830, Nørre Nebel,195000 ,28-05-2007,Fam. Salg,90,2167,3,1894,
 573,Villa,Hyldehaven 6,6800, Varde,1571000 ,28-05-2007,Alm. Salg,128,12273,4,1998,
 573,Villa,Nr Alle 76A,6870, Ølgod,595000 ,28-05-2007,Alm. Salg,76,7829,4,1955,3%
-573,Ejerlejlighed,Storegade 4B,6753, Agerbæk,3700000 ,27-05-2007,Alm. Salg,151,24503,9,1994,
-573,Ejerlejlighed,"Nørregade 3, 1",6753, Agerbæk,3700000 ,27-05-2007,Alm. Salg,139,26619,3,1994,
-573,Ejerlejlighed,"Nørregade 5, 1. tv",6753, Agerbæk,3700000 ,27-05-2007,Alm. Salg,79,46835,2,1994,
-573,Ejerlejlighed,"Nørregade 7, 1",6753, Agerbæk,3700000 ,27-05-2007,Alm. Salg,139,26619,3,1994,
-573,Ejerlejlighed,"Nørregade 5, 1. th",6753, Agerbæk,3700000 ,27-05-2007,Alm. Salg,78,47436,2,1994,
-573,Ejerlejlighed,Storegade 4C,6753, Agerbæk,3700000 ,27-05-2007,Alm. Salg,130,28462,9,1994,
-573,Ejerlejlighed,Storegade 4A,6753, Agerbæk,3700000 ,27-05-2007,Alm. Salg,130,28462,9,1994,
 573,Villa,Dejrupvej 20,6855, Outrup,500000 ,27-05-2007,Alm. Salg,201,2488,4,1870,-56%
 573,Villa,Homarken 10,6857, Blåvand,1920000 ,27-05-2007,Alm. Salg,208,9231,2,2002,-6%
 573,Villa,Skovbrynet 52,6830, Nørre Nebel,500000 ,24-05-2007,Alm. Salg,57,8772,3,1965,
@@ -11063,8 +10887,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Sletten 139,6800, Varde,450139 ,02-05-2007,Alm. Salg,175,2572,5,2008,
 573,Villa,Fiilsøvej 44,6840, Oksbøl,2075000 ,01-05-2007,Alm. Salg,224,9263,4,1869,
 573,Rækkehus,Frisvadvej 36,6800, Varde,880000 ,30-04-2007,Alm. Salg,102,8627,4,1928,
-573,Ejerlejlighed,Roustvej 203,6818, Årre,3750000 ,30-04-2007,Alm. Salg,190,19737,5,1924,
-573,Villa,Roustvej 211,6818, Årre,3750000 ,30-04-2007,Alm. Salg,140,26786,4,1953,
 573,Villa,Villavej 48,6800, Varde,732720 ,30-04-2007,Andet,159,4608,6,1961,
 573,Villa,Bjergvej 21,6830, Nørre Nebel,1425000 ,30-04-2007,Alm. Salg,100,14250,4,1841,
 573,Villa,Skovalle 6,6870, Ølgod,500000 ,30-04-2007,Alm. Salg,84,5952,3,1943,
@@ -11137,7 +10959,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Rottarpvej 4,6855, Outrup,525000 ,12-04-2007,Alm. Salg,128,4102,5,1954,
 573,Villa,Hellevej 36,6818, Årre,890000 ,11-04-2007,Alm. Salg,168,5298,6,1975,
 573,Villa,Allegade 4,6823, Ansager,346261 ,11-04-2007,Andet,111,3119,5,1930,
-573,Villa,Enghavevej 13B,6870, Ølgod,1000000 ,11-04-2007,Alm. Salg,198,5051,7,1957,
 573,Villa,Sletten 137,6800, Varde,464112 ,11-04-2007,Alm. Salg,154,3014,4,2009,
 573,Rækkehus,Enghavevej 7,6870, Ølgod,605000 ,10-04-2007,Alm. Salg,80,7563,5,1952,-2%
 573,Villa,Møllegårdsvej 23,6862, Tistrup,1020000 ,10-04-2007,Alm. Salg,126,8095,3,1979,
@@ -11248,8 +11069,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Lundvej 10,6823, Ansager,480000 ,27-02-2007,Alm. Salg,116,4138,3,1961,
 573,Villa,Bjerget 9,6800, Varde,925000 ,27-02-2007,Alm. Salg,200,4625,6,2007,
 573,Villa,Dejrupvej 4,6855, Outrup,600000 ,27-02-2007,Alm. Salg,114,5263,6,1961,
-573,Rækkehus,Kongsgaardsvej 14,6800, Varde,1300000 ,26-02-2007,Alm. Salg,123,10569,7,1930,
-573,Villa,Bakkevej 5,6800, Varde,1300000 ,26-02-2007,Alm. Salg,119,10924,4,1939,
 573,Villa,Tranevænget 11,6830, Nørre Nebel,780000 ,26-02-2007,Alm. Salg,135,5778,4,1978,
 573,Villa,Solvænget 130,6870, Ølgod,790000 ,25-02-2007,Alm. Salg,131,6031,4,1979,
 573,Villa,Stationsvej 4A,6830, Nørre Nebel,1010000 ,25-02-2007,Alm. Salg,163,6196,7,1952,
@@ -11278,9 +11097,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Ejerlejlighed,"Krarupsvej 6, 1. 6",6840, Oksbøl,489000 ,14-02-2007,Alm. Salg,54,9056,2,1930,
 573,Villa,Hjertingvej 53B,6800, Varde,1135000 ,14-02-2007,Alm. Salg,146,7774,4,1962,
 573,Ejerlejlighed,"Arnbjergalle 1, 2. tv",6800, Varde,4100000 ,13-02-2007,Alm. Salg,140,29286,3,2007,
-573,Ejerlejlighed,"Gellerupvej 42, 1",6800, Varde,945000 ,13-02-2007,Alm. Salg,75,12600,3,1937,
 573,Villa,Bakkegade 6,6800, Varde,815000 ,13-02-2007,Alm. Salg,128,6367,4,1970,
-573,Villa,"Gellerupvej 42, st",6800, Varde,945000 ,13-02-2007,Alm. Salg,150,6300,5,1937,
 573,Ejerlejlighed,"Vestergade 34D, 1",6800, Varde,760000 ,11-02-2007,Alm. Salg,67,11343,2,1907,
 573,Villa,Solvænget 86,6870, Ølgod,1100000 ,11-02-2007,Alm. Salg,110,10000,4,1990,
 573,Villa,Vesterhavsvej 71,6852, Billum,632500 ,11-02-2007,Alm. Salg,120,5271,4,1899,-6%
@@ -11321,7 +11138,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Vadgårdsvej 52,6830, Nørre Nebel,175000 ,29-01-2007,Alm. Salg,228,768,5,2009,
 573,Villa,Stadionvej 44,6855, Outrup,148413 ,29-01-2007,Alm. Salg,124,1197,4,2010,
 573,Villa,Kvongvej 431,6800, Varde,695000 ,28-01-2007,Alm. Salg,184,3777,6,1892,
-573,Villa,Agervigvej 4A,6800, Varde,430000 ,28-01-2007,Alm. Salg,62,6935,3,1920,
 573,Villa,Tiphedevej 33,6823, Ansager,2050000 ,28-01-2007,Alm. Salg,116,17672,5,1958,-7%
 573,Villa,Lundvej 97,6800, Varde,850000 ,28-01-2007,Alm. Salg,177,4802,6,1935,
 573,Villa,Skolevej 4,6862, Tistrup,725000 ,28-01-2007,Alm. Salg,158,4589,4,1930,
@@ -11486,8 +11302,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Kærsangervej 41,6800, Varde,2840000 ,03-12-2006,Alm. Salg,194,14639,6,2002,
 573,Villa,Lokesvej 6,6840, Oksbøl,975000 ,02-12-2006,Alm. Salg,161,6056,5,2004,
 573,Villa,Bangsvej 4,6840, Oksbøl,525000 ,01-12-2006,Fam. Salg,204,2574,6,1926,
-573,Ejerlejlighed,"Bredgade 55, 1",6830, Nørre Nebel,1425000 ,30-11-2006,Alm. Salg,156,9135,3,1925,
-573,Ejerlejlighed,"Møllevangsvej 10, 1",6830, Nørre Nebel,1425000 ,30-11-2006,Alm. Salg,43,33140,2,1925,
 573,Villa,Jægervænget 12,6800, Varde,1595000 ,30-11-2006,Alm. Salg,172,9273,6,1972,
 573,Villa,Vestre Landevej 59,6800, Varde,1025000 ,30-11-2006,Alm. Salg,108,9491,4,1948,
 573,Villa,Rosenvænget 41,6800, Varde,600000 ,30-11-2006,Fam. Salg,158,3797,5,1972,
@@ -11544,7 +11358,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Bjerget 11,6800, Varde,895000 ,08-11-2006,Alm. Salg,346,2587,7,2009,
 573,Villa,Hornsrevvej 4,6852, Billum,219190 ,08-11-2006,Alm. Salg,259,846,5,2010,
 573,Villa,Sletten 123,6800, Varde,575000 ,08-11-2006,Alm. Salg,237,2426,6,2009,
-573,Villa,Bjergegade 4A,6870, Ølgod,675000 ,08-11-2006,Alm. Salg,136,4963,5,1963,
 573,Villa,Blåvandvej 33E,6857, Blåvand,1350000 ,08-11-2006,Alm. Salg,146,9247,5,2013,
 573,Ejerlejlighed,"Enghavevej 1A, 2. tv",6800, Varde,695000 ,07-11-2006,Alm. Salg,63,11032,3,1955,
 573,Villa,Hvedevænget 3,6800, Varde,1665000 ,07-11-2006,Alm. Salg,182,9148,7,1975,
@@ -11600,16 +11413,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Ådalsvænget 32,6800, Varde,1400000 ,23-10-2006,Alm. Salg,125,11200,3,2017,
 573,Villa,Syrenvej 6,6823, Ansager,640000 ,23-10-2006,Alm. Salg,270,2370,9,1919,
 573,Villa,Ådalsvænget 34,6800, Varde,975000 ,23-10-2006,Alm. Salg,125,7800,4,2009,
-573,Ejerlejlighed,"Kræmmergade 3B, 1",6800, Varde,7134464 ,22-10-2006,Andet,136,52459,3,1898,
-573,Ejerlejlighed,"Kræmmergade 3B, 2. th",6800, Varde,7134464 ,22-10-2006,Andet,70,101921,2,1898,
-573,Ejerlejlighed,"Kræmmergade 3B, 2. tv",6800, Varde,7134464 ,22-10-2006,Andet,65,109761,2,1898,
-573,Ejerlejlighed,"Murtfeldts Plads 1, 1",6800, Varde,7134464 ,22-10-2006,Andet,127,56177,4,1898,
-573,Ejerlejlighed,"Murtfeldts Plads 1, 2",6800, Varde,7134464 ,22-10-2006,Andet,96,74317,3,1898,
 573,Ejerlejlighed,"Blåvandvej 12, 1. 1",6857, Blåvand,3178800 ,22-10-2006,Andet,129,24642,2,2006,
 573,Ejerlejlighed,"Doktorvej 4, 1",6823, Ansager,820000 ,22-10-2006,Alm. Salg,110,7455,4,1932,
 573,Villa,Nøddelunden 36,6800, Varde,775000 ,22-10-2006,Alm. Salg,165,4697,5,1979,
 573,Villa,Enghavevej 24,6855, Outrup,750000 ,22-10-2006,Alm. Salg,132,5682,5,1965,
-573,Villa,Nr Alle 2,6870, Ølgod,11200000 ,22-10-2006,Alm. Salg,89,125843,3,1890,
 573,Villa,"Østergade 9, st",6823, Ansager,725000 ,22-10-2006,Fam. Salg,170,4265,4,1908,
 573,Ejerlejlighed,"Storegade 8, 2. mf",6800, Varde,1070000 ,20-10-2006,Alm. Salg,106,10094,4,1955,
 573,Ejerlejlighed,"Vesterport 2A, st. tv",6800, Varde,758946 ,19-10-2006,Alm. Salg,61,12442,2,1987,
@@ -11880,7 +11687,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Nørre Alle 5B,6823, Ansager,1025000 ,06-07-2006,Alm. Salg,176,5824,6,1967,
 573,Villa,Saturnvej 21,6800, Varde,2335000 ,06-07-2006,Alm. Salg,152,15362,5,2012,
 573,Villa,Gartnerhaven 3,6823, Ansager,1200000 ,05-07-2006,Andet,189,6349,9,1948,
-573,Villa,Nr Alle 2,6870, Ølgod,6000000 ,05-07-2006,Alm. Salg,89,67416,3,1890,
 573,Villa,Møllegårdsvej 59,6862, Tistrup,695000 ,05-07-2006,Alm. Salg,114,6096,4,1979,
 573,Villa,Forumvej 10,6800, Varde,825000 ,05-07-2006,Alm. Salg,111,7432,3,1963,
 573,Villa,Sofievej 21,6800, Varde,1625000 ,05-07-2006,Alm. Salg,178,9129,6,1996,
@@ -12047,7 +11853,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Åbrinken 28,6800, Varde,299705 ,14-05-2006,Alm. Salg,148,2025,4,2008,
 573,Villa,Vinkelvej 6,6830, Nørre Nebel,1200000 ,12-05-2006,Alm. Salg,267,4494,13,1972,
 573,Villa,Toften 2,6840, Oksbøl,1325000 ,12-05-2006,Alm. Salg,166,7982,5,1967,
-573,Villa,Dalgårdsvej 3C,6840, Oksbøl,500000 ,11-05-2006,Alm. Salg,102,4902,3,0,
 573,Villa,Neder Hallumvej 121,6800, Varde,1250000 ,10-05-2006,Alm. Salg,186,6720,6,1790,
 573,Villa,Jægumsvej 30,6800, Varde,990000 ,10-05-2006,Alm. Salg,90,11000,3,1960,
 573,Villa,Fåborgvej 39,6818, Årre,362500 ,10-05-2006,Alm. Salg,80,4531,3,1905,
@@ -12356,8 +12161,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Farvervænget 4,6830, Nørre Nebel,685000 ,06-02-2006,Alm. Salg,125,5480,5,1972,
 573,Villa,Solskrænten 12,6800, Varde,1655000 ,06-02-2006,Alm. Salg,127,13031,5,1992,
 573,Villa,Nygade 3,6800, Varde,1190000 ,06-02-2006,Alm. Salg,170,7000,6,1827,
-573,Ejerlejlighed,"Vestergade 23A, st. tv",6800, Varde,700000 ,05-02-2006,Fam. Salg,61,11475,2,1906,
-573,Villa,Øselundvej 1,6800, Varde,700000 ,05-02-2006,Alm. Salg,108,6481,5,1954,
 573,Villa,Vesterled 200,6852, Billum,481683 ,05-02-2006,Alm. Salg,116,4152,5,1904,
 573,Villa,Nøddelunden 2,6800, Varde,1445000 ,05-02-2006,Alm. Salg,172,8401,5,1979,
 573,Villa,Sletten 104,6800, Varde,385000 ,05-02-2006,Alm. Salg,170,2265,5,2007,
@@ -12531,11 +12334,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Langgade 23,6800, Varde,470000 ,27-11-2005,Alm. Salg,104,4519,5,1949,
 573,Villa,Blåbjergvej 65,6830, Nørre Nebel,1227894 ,27-11-2005,Alm. Salg,148,8297,4,1865,
 573,Villa,Kvievej 42,6823, Ansager,500000 ,27-11-2005,Alm. Salg,100,5000,2,1920,
-573,Ejerlejlighed,"Rønnealle 2A, 1",6862, Tistrup,750000 ,24-11-2005,Alm. Salg,50,15000,3,1890,
 573,Villa,Alslev Møllevej 9,6800, Varde,850000 ,24-11-2005,Alm. Salg,107,7944,4,1961,
 573,Villa,Vardevej 37,6862, Tistrup,365000 ,24-11-2005,Alm. Salg,90,4056,2,1959,
 573,Villa,Lindbjergvej 44,6870, Ølgod,625000 ,24-11-2005,Alm. Salg,140,4464,4,1870,
-573,Villa,Storegade 16,6862, Tistrup,750000 ,24-11-2005,Alm. Salg,142,5282,9,1890,
 573,Villa,Pilevej 10,6800, Varde,1360000 ,24-11-2005,Alm. Salg,181,7514,6,1960,
 573,Villa,Kløverbakken 13,6800, Varde,1575000 ,24-11-2005,Alm. Salg,166,9488,6,1983,
 573,Villa,Dejrupvej 91,6855, Outrup,860000 ,24-11-2005,Alm. Salg,140,6143,3,1847,
@@ -12590,7 +12391,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Nybrovej 17,6851, Janderup Vestj,750000 ,13-11-2005,Alm. Salg,95,7895,3,1966,
 573,Villa,Engvej 6,6862, Tistrup,1500000 ,13-11-2005,Alm. Salg,171,8772,5,1995,
 573,Villa,Vadgårdsvej 32,6830, Nørre Nebel,210000 ,13-11-2005,Alm. Salg,162,1296,4,2006,
-573,Rækkehus,Vesterport 4B,6800, Varde,12000000 ,12-11-2005,Alm. Salg,214,56075,6,1990,
 573,Rækkehus,Storegade 63,6800, Varde,1325000 ,12-11-2005,Alm. Salg,153,8660,5,1877,
 573,Villa,Vesterlundvej 18,6830, Nørre Nebel,250000 ,12-11-2005,Alm. Salg,56,4464,2,1947,
 573,Villa,Hasselvej 6,6800, Varde,885000 ,11-11-2005,Alm. Salg,104,8510,4,1965,
@@ -13096,7 +12896,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Vesterhavsvej 26,6852, Billum,1100000 ,24-05-2005,Alm. Salg,138,7971,3,1986,
 573,Villa,Dejrupvej 19A,6855, Outrup,440000 ,24-05-2005,Alm. Salg,124,3548,5,1931,
 573,Villa,Ølgodvej 90,6800, Varde,350000 ,24-05-2005,Alm. Salg,123,2846,3,1904,
-573,Rækkehus,Byagervænget 18,6830, Nørre Nebel,1050000 ,22-05-2005,Alm. Salg,108,9722,4,2006,
 573,Villa,Hellevej 34,6818, Årre,425000 ,22-05-2005,Alm. Salg,169,2515,5,1987,
 573,Villa,Kærvej 6,6753, Agerbæk,1285000 ,22-05-2005,Alm. Salg,161,7981,6,1986,
 573,Villa,Byparken 5,6800, Varde,750000 ,22-05-2005,Fam. Salg,100,7500,5,1969,
@@ -13140,7 +12939,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Rønnevænget 29,6870, Ølgod,100616 ,08-05-2005,Alm. Salg,151,666,5,2005,
 573,Villa,Jernbanegade 27,6753, Agerbæk,650000 ,08-05-2005,Alm. Salg,180,3611,5,1916,
 573,Villa,Lerpøtvej 82,6800, Varde,835000 ,08-05-2005,Alm. Salg,95,8789,3,1953,
-573,Villa,Nikolaikirkestræde 7A,6800, Varde,1000000 ,08-05-2005,Alm. Salg,105,9524,3,1900,
 573,Rækkehus,Sydslunden 50,6800, Varde,905000 ,05-05-2005,Alm. Salg,92,9837,5,1987,
 573,Villa,Saturnvej 6,6800, Varde,244000 ,05-05-2005,Alm. Salg,171,1427,5,2006,
 573,Villa,Gyvellunden 22,6800, Varde,1532000 ,05-05-2005,Alm. Salg,151,10146,5,1986,
@@ -13193,9 +12991,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Rækkehus,Vandflodvej 2. 34,6857, Blåvand,1568000 ,17-04-2005,Alm. Salg,90,17422,3,2005,
 573,Villa,Byagervej 6,6830, Nørre Nebel,1300000 ,17-04-2005,Alm. Salg,343,3790,7,1971,
 573,Villa,Kirkegade 47,6840, Oksbøl,750000 ,17-04-2005,Alm. Salg,136,5515,6,1957,
-573,Ejerlejlighed,Jernbanegade 15,6870, Ølgod,700000 ,15-04-2005,Alm. Salg,52,13462,2,1922,
-573,Ejerlejlighed,"Mejerivej 6, st",6870, Ølgod,700000 ,15-04-2005,Alm. Salg,26,26923,1,1922,
-573,Ejerlejlighed,"Mejerivej 6, 1",6870, Ølgod,700000 ,15-04-2005,Alm. Salg,89,7865,3,1922,
 573,Villa,Saturnvej 41,6800, Varde,285000 ,14-04-2005,Alm. Salg,181,1575,6,2006,
 573,Villa,Stationsvej 9,6840, Oksbøl,845000 ,14-04-2005,Alm. Salg,147,5748,5,1923,
 573,Villa,Porsevej 1A,6840, Oksbøl,1000000 ,14-04-2005,Alm. Salg,125,8000,4,1974,
@@ -13328,22 +13123,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Grådybet 6,6852, Billum,1170000 ,24-02-2005,Alm. Salg,134,8731,5,1997,
 573,Villa,Nørregade 12,6753, Agerbæk,70000 ,24-02-2005,Alm. Salg,131,534,6,2006,
 573,Ejerlejlighed,"Enghavevej 1A, st. th",6800, Varde,840000 ,23-02-2005,Alm. Salg,84,10000,3,1955,
-573,Ejerlejlighed,"Vinkelvej 19, 1. tv",6800, Varde,9550000 ,23-02-2005,Alm. Salg,82,116463,3,1944,
-573,Ejerlejlighed,"Vinkelvej 19, 1. th",6800, Varde,9550000 ,23-02-2005,Alm. Salg,64,149219,3,1944,
-573,Ejerlejlighed,"Vinkelvej 21, st. th",6800, Varde,9550000 ,23-02-2005,Alm. Salg,56,170536,2,1944,
-573,Ejerlejlighed,"Vinkelvej 21, st. tv",6800, Varde,9550000 ,23-02-2005,Alm. Salg,64,149219,3,1944,
-573,Ejerlejlighed,"Vinkelvej 21, 1. th",6800, Varde,9550000 ,23-02-2005,Alm. Salg,56,170536,2,1944,
-573,Ejerlejlighed,"Vinkelvej 21, 1. tv",6800, Varde,9550000 ,23-02-2005,Alm. Salg,64,149219,3,1944,
-573,Ejerlejlighed,"Vinkelvej 19, st. th",6800, Varde,9550000 ,23-02-2005,Alm. Salg,64,149219,3,1944,
-573,Ejerlejlighed,"Vinkelvej 19, st. tv",6800, Varde,9550000 ,23-02-2005,Alm. Salg,82,116463,3,1944,
-573,Ejerlejlighed,"Kildevej 4A, st. th",6800, Varde,9550000 ,23-02-2005,Alm. Salg,65,146923,3,1944,
-573,Ejerlejlighed,"Kildevej 4A, st. tv",6800, Varde,9550000 ,23-02-2005,Alm. Salg,55,173636,2,1944,
-573,Ejerlejlighed,"Kildevej 4B, st. th",6800, Varde,9550000 ,23-02-2005,Alm. Salg,55,173636,2,1944,
-573,Ejerlejlighed,"Kildevej 4B, 1. tv",6800, Varde,9550000 ,23-02-2005,Alm. Salg,65,146923,3,1944,
-573,Ejerlejlighed,"Kildevej 4A, 1. tv",6800, Varde,9550000 ,23-02-2005,Alm. Salg,55,173636,2,1944,
-573,Ejerlejlighed,"Kildevej 4B, st. tv",6800, Varde,9550000 ,23-02-2005,Alm. Salg,65,146923,3,1944,
-573,Ejerlejlighed,"Kildevej 4A, 1. th",6800, Varde,9550000 ,23-02-2005,Alm. Salg,65,146923,3,1944,
-573,Ejerlejlighed,"Kildevej 4B, 1. th",6800, Varde,9550000 ,23-02-2005,Alm. Salg,55,173636,2,1944,
 573,Villa,Strandvejen 58,6854, Henne,800000 ,23-02-2005,Alm. Salg,154,5195,5,1973,
 573,Villa,Østparken 10,6840, Oksbøl,1056000 ,23-02-2005,Alm. Salg,145,7283,4,1981,
 573,Villa,Enghavevej 23,6870, Ølgod,670000 ,23-02-2005,Alm. Salg,125,5360,4,1969,
@@ -13363,8 +13142,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Tranevænget 45,6830, Nørre Nebel,775000 ,17-02-2005,Alm. Salg,123,6301,4,1978,
 573,Villa,Hovborgvej 51,7200, Grindsted,625000 ,16-02-2005,Alm. Salg,139,4496,6,1941,
 573,Villa,Bæktoften 17,6800, Varde,980000 ,16-02-2005,Alm. Salg,131,7481,4,1977,
-573,Ejerlejlighed,"Kræmmergade 10C, 1. tv",6800, Varde,7000000 ,15-02-2005,Alm. Salg,141,49645,4,1850,
-573,Ejerlejlighed,"Fiskergade 4, 1",6800, Varde,7000000 ,15-02-2005,Alm. Salg,115,60870,4,1850,
 573,Ejerlejlighed,Nørregade 32D,6800, Varde,798000 ,15-02-2005,Alm. Salg,77,10364,3,1884,
 573,Villa,Møllebakken 51,6800, Varde,670000 ,15-02-2005,Alm. Salg,119,5630,5,1977,
 573,Villa,Kirkegade 54,6840, Oksbøl,1075000 ,15-02-2005,Fam. Salg,164,6555,6,1969,
@@ -13518,15 +13295,12 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Lærkevej 4,6840, Oksbøl,825000 ,06-12-2004,Alm. Salg,144,5729,3,1969,
 573,Villa,Nørregade 28,6823, Ansager,800000 ,06-12-2004,Alm. Salg,128,6250,5,1964,
 573,Villa,Sletten 63,6800, Varde,323000 ,06-12-2004,Alm. Salg,132,2447,5,2005,
-573,Villa,Poppelvej 13,6800, Varde,585000 ,06-12-2004,Alm. Salg,100,5850,3,1961,
 573,Villa,Hybenvej 13,6753, Agerbæk,1265000 ,05-12-2004,Alm. Salg,162,7809,5,1988,
 573,Villa,Hoddeskovvej 9,6823, Ansager,914304 ,05-12-2004,Alm. Salg,125,7314,5,1890,
 573,Villa,Nygade 12,6753, Agerbæk,660000 ,05-12-2004,Alm. Salg,115,5739,5,1950,
 573,Rækkehus,Sydslunden 31,6800, Varde,925000 ,04-12-2004,Alm. Salg,92,10054,5,1987,
 573,Rækkehus,Kløvbakken 39,6855, Outrup,500000 ,02-12-2004,Alm. Salg,102,4902,4,1979,
 573,Villa,Rævestræde 1,6800, Varde,380000 ,02-12-2004,Alm. Salg,117,3248,4,1924,
-573,Rækkehus,Vestre Landevej 18,6800, Varde,1732500 ,01-12-2004,Andet,215,8058,8,1917,
-573,Ejerlejlighed,"Vestre Landevej 18, 1",6800, Varde,1732500 ,01-12-2004,Andet,50,34650,2,1917,
 573,Villa,Nordentoftsvej 8,6800, Varde,3225000 ,29-11-2004,Alm. Salg,215,15000,6,1997,
 573,Villa,Solpromenaden 5,6800, Varde,1250000 ,29-11-2004,Alm. Salg,131,9542,4,1977,
 573,Villa,Nøddelunden 36,6800, Varde,1440000 ,28-11-2004,Alm. Salg,165,8727,5,1979,
@@ -13690,9 +13464,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Ternevej 20,6851, Janderup Vestj,970000 ,15-09-2004,Alm. Salg,167,5808,4,1979,
 573,Villa,Krosvinget 10,6818, Årre,425000 ,15-09-2004,Alm. Salg,62,6855,3,1954,
 573,Villa,Lerpøtvej 13,6800, Varde,1525000 ,14-09-2004,Alm. Salg,111,13739,3,1950,
-573,Rækkehus,Letbækvej 2B,6862, Tistrup,100000 ,13-09-2004,Alm. Salg,73,1370,1,1907,
 573,Villa,Klintingvej 211,6854, Henne,295000 ,13-09-2004,Alm. Salg,178,1657,6,1947,
-573,Villa,Letbækvej 2A,6862, Tistrup,100000 ,13-09-2004,Alm. Salg,75,1333,1,1907,
 573,Rækkehus,Vandflodvej 2. 26,6857, Blåvand,1598000 ,12-09-2004,Alm. Salg,92,17370,3,2005,
 573,Rækkehus,Vandflodvej 2. 19,6857, Blåvand,1448000 ,12-09-2004,Alm. Salg,92,15739,3,2005,
 573,Villa,Egetoften 13,6830, Nørre Nebel,698000 ,12-09-2004,Alm. Salg,112,6232,4,1977,
@@ -13925,8 +13697,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Sønderskovvej 19,6800, Varde,565000 ,05-05-2004,Alm. Salg,107,5280,4,1973,
 573,Villa,Aavangen 22,6800, Varde,1265000 ,04-05-2004,Alm. Salg,123,10285,5,1958,
 573,Villa,Skråvejen 9,6851, Janderup Vestj,175000 ,04-05-2004,Alm. Salg,183,956,5,2005,
-573,Rækkehus,Vestre Landevej 18,6800, Varde,1732500 ,03-05-2004,Alm. Salg,215,8058,8,1917,
-573,Ejerlejlighed,"Vestre Landevej 18, 1",6800, Varde,1732500 ,03-05-2004,Alm. Salg,50,34650,2,1917,
 573,Villa,Juulsvej 14,6800, Varde,1000000 ,03-05-2004,Alm. Salg,174,5747,5,1950,
 573,Villa,Allévej 5,6855, Outrup,400000 ,03-05-2004,Alm. Salg,124,3226,4,1923,
 573,Villa,Søndervænget 31,6870, Ølgod,765000 ,03-05-2004,Alm. Salg,151,5066,5,1972,
@@ -14416,9 +14186,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Fredensgade 10,6823, Ansager,380000 ,28-09-2003,Alm. Salg,70,5429,3,1951,
 573,Villa,Agerkrogvej 15,6862, Tistrup,750000 ,28-09-2003,Alm. Salg,156,4808,6,1937,
 573,Villa,Kløvbakken 63,6855, Outrup,91150 ,27-09-2003,Alm. Salg,120,760,3,2004,
-573,Ejerlejlighed,"Krusbjergvej 38, 1",6870, Ølgod,800000 ,26-09-2003,Alm. Salg,125,6400,3,1913,
 573,Villa,Vesterhavsvej 40,6830, Nørre Nebel,1041122 ,26-09-2003,Alm. Salg,250,4164,7,1875,
-573,Villa,Krusbjergvej 38,6870, Ølgod,800000 ,26-09-2003,Alm. Salg,415,1928,2,1913,
 573,Ejerlejlighed,"Blåvandvej 12, 1. 1",6857, Blåvand,3178800 ,25-09-2003,Alm. Salg,129,24642,2,2006,
 573,Villa,Søndergade 15,6862, Tistrup,734776 ,25-09-2003,Alm. Salg,166,4426,5,1917,
 573,Villa,Ortenvej 151,6800, Varde,650000 ,25-09-2003,Fam. Salg,127,5118,5,1961,
@@ -14459,13 +14227,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Rækkehus,Stausvej 17,6800, Varde,925000 ,13-09-2003,Alm. Salg,114,8114,3,1920,
 573,Villa,Habrehøjvej 17,6800, Varde,625000 ,13-09-2003,Alm. Salg,114,5482,4,1978,
 573,Ejerlejlighed,"Søndergade 25B, 1",6800, Varde,410000 ,11-09-2003,Alm. Salg,57,7193,3,1875,
-573,Ejerlejlighed,"Søndergade 1B, st",6840, Oksbøl,1730000 ,11-09-2003,Alm. Salg,70,24714,2,1903,
-573,Ejerlejlighed,"Søndergade 1A, 1",6840, Oksbøl,1730000 ,11-09-2003,Alm. Salg,70,24714,2,1903,
-573,Ejerlejlighed,"Østergade 2B, 1. tv",6840, Oksbøl,1730000 ,11-09-2003,Alm. Salg,92,18804,3,1903,
-573,Ejerlejlighed,Østergade 2,6840, Oksbøl,1730000 ,11-09-2003,Alm. Salg,74,23378,2,1903,
-573,Ejerlejlighed,"Østergade 2B, st",6840, Oksbøl,1730000 ,11-09-2003,Alm. Salg,99,17475,3,1903,
 573,Ejerlejlighed,"Arnbjerggade 2A, 1",6800, Varde,375000 ,11-09-2003,Alm. Salg,90,4167,2,1966,
-573,Ejerlejlighed,"Østergade 2B, 1. th",6840, Oksbøl,1730000 ,11-09-2003,Alm. Salg,81,21358,3,1903,
 573,Villa,Nørregade 28,6823, Ansager,900000 ,11-09-2003,Alm. Salg,128,7031,5,1964,
 573,Villa,Møllegade 18,6862, Tistrup,204000 ,11-09-2003,Fam. Salg,125,1632,6,1897,
 573,Villa,Løkkevang 2,6870, Ølgod,750000 ,11-09-2003,Alm. Salg,119,6303,4,1979,
@@ -14627,15 +14389,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Rækkehus,Sydslunden 27,6800, Varde,730000 ,06-07-2003,Alm. Salg,92,7935,5,1987,
 573,Rækkehus,Lundvej 33,6800, Varde,947000 ,06-07-2003,Alm. Salg,84,11274,3,1890,
 573,Villa,Bredgade 26,6800, Varde,50000 ,06-07-2003,Andet,160,313,6,1930,
-573,Rækkehus,Tømmerpladsen 2C,6800, Varde,2564000 ,03-07-2003,Alm. Salg,88,29136,3,1900,
-573,Ejerlejlighed,"Tømmerpladsen 2B, 1",6800, Varde,2564000 ,03-07-2003,Alm. Salg,78,32872,3,1900,
-573,Ejerlejlighed,"Sønderbro 15, 1. mf",6800, Varde,2564000 ,03-07-2003,Alm. Salg,32,80125,1,1900,
-573,Ejerlejlighed,"Sønderbro 15, 1. th",6800, Varde,2564000 ,03-07-2003,Alm. Salg,50,51280,2,1900,
-573,Ejerlejlighed,"Sønderbro 15, 1. tv",6800, Varde,2564000 ,03-07-2003,Alm. Salg,48,53417,2,1900,
-573,Ejerlejlighed,Tømmerpladsen 2D,6800, Varde,2564000 ,03-07-2003,Alm. Salg,88,29136,3,1900,
-573,Ejerlejlighed,"Sønderbro 15, st. tv",6800, Varde,2564000 ,03-07-2003,Alm. Salg,128,20031,2,1900,
-573,Ejerlejlighed,"Sønderbro 15, st. th",6800, Varde,2564000 ,03-07-2003,Alm. Salg,137,18715,3,1900,
-573,Ejerlejlighed,"Tømmerpladsen 2B, st",6800, Varde,2564000 ,03-07-2003,Alm. Salg,112,22893,2,1900,
 573,Villa,Nørregade 26D,6800, Varde,1350000 ,03-07-2003,Alm. Salg,170,7941,5,1991,
 573,Villa,P Th Bruuns Alle 10,6800, Varde,710000 ,02-07-2003,Alm. Salg,86,8256,2,1960,
 573,Villa,Dejrupvej 19B,6855, Outrup,600000 ,02-07-2003,Fam. Salg,132,4545,6,1950,
@@ -14680,7 +14433,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Vibevej 11,6823, Ansager,635000 ,16-06-2003,Alm. Salg,129,4922,4,1981,
 573,Rækkehus,Nørregade 57,6800, Varde,860000 ,15-06-2003,Alm. Salg,86,10000,4,1981,
 573,Villa,Hallumvadvej 25,6851, Janderup Vestj,255975 ,15-06-2003,Alm. Salg,110,2327,3,1880,
-573,Villa,Nørrevold 13A,6800, Varde,1437500 ,15-06-2003,Alm. Salg,154,9334,6,1877,
 573,Villa,Juulsvej 6,6800, Varde,940000 ,13-06-2003,Alm. Salg,123,7642,4,1941,
 573,Villa,Jægumsvej 27,6800, Varde,610000 ,12-06-2003,Alm. Salg,100,6100,4,1958,
 573,Villa,Skolevænget 7,6840, Oksbøl,900000 ,11-06-2003,Alm. Salg,140,6429,5,1973,
@@ -14704,7 +14456,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Sletten 36,6800, Varde,345000 ,30-05-2003,Alm. Salg,192,1797,4,2005,
 573,Villa,Storegade 36,6753, Agerbæk,695000 ,30-05-2003,Alm. Salg,117,5940,5,1948,
 573,Villa,Hovedgaden 20,6823, Ansager,510000 ,29-05-2003,Alm. Salg,126,4048,3,1907,
-573,Rækkehus,Storegade 47D,6800, Varde,2650000 ,27-05-2003,Alm. Salg,166,15964,6,1995,
 573,Villa,Rømøvej 2,6852, Billum,1035000 ,27-05-2003,Alm. Salg,204,5074,6,1977,
 573,Villa,Vesterled 12,6851, Janderup Vestj,485000 ,27-05-2003,Alm. Salg,90,5389,3,1958,
 573,Villa,Ølgodvej 18,6800, Varde,493911 ,27-05-2003,Alm. Salg,90,5488,3,1928,
@@ -14717,7 +14468,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Grønnegade 5,6800, Varde,880000 ,21-05-2003,Alm. Salg,124,7097,4,1968,
 573,Villa,Karinevej 12,6800, Varde,740000 ,20-05-2003,Alm. Salg,105,7048,4,1958,
 573,Villa,Abildvej 5,6800, Varde,1000000 ,20-05-2003,Alm. Salg,120,8333,4,1949,
-573,Villa,Nørregade 24E,6800, Varde,2050000 ,20-05-2003,Alm. Salg,85,24118,4,1950,
 573,Villa,Skolegade 16,6818, Årre,180305 ,19-05-2003,Alm. Salg,125,1442,4,2003,
 573,Villa,Slotsvangen 2B,6800, Varde,544000 ,19-05-2003,Fam. Salg,87,6253,3,1957,
 573,Villa,Kløvervænget 3,6870, Ølgod,1350000 ,18-05-2003,Alm. Salg,163,8282,6,2002,
@@ -14794,7 +14544,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Egknudvej 11,6870, Ølgod,343000 ,01-04-2003,Alm. Salg,87,3943,3,1880,
 573,Villa,Frisvadvej 17,6800, Varde,800000 ,01-04-2003,Andet,107,7477,4,1915,
 573,Villa,Rosenvænget 70,6800, Varde,1075000 ,01-04-2003,Alm. Salg,150,7167,4,1971,
-573,Villa,Møllevej 2A,6800, Varde,775000 ,01-04-2003,Andet,127,6102,4,2010,
 573,Villa,Mejlsvej 56,6800, Varde,495000 ,31-03-2003,Alm. Salg,85,5824,3,1953,
 573,Villa,Kølbanken 2,6823, Ansager,315000 ,31-03-2003,Fam. Salg,89,3539,4,1916,
 573,Villa,Spurvevej 1,6851, Janderup Vestj,925000 ,30-03-2003,Alm. Salg,155,5968,6,1970,
@@ -15031,8 +14780,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Sletten 87,6800, Varde,280000 ,28-11-2002,Alm. Salg,178,1573,6,2005,
 573,Villa,Enghavevej 18,6870, Ølgod,675000 ,28-11-2002,Alm. Salg,132,5114,4,1963,
 573,Villa,Toften 2,6862, Tistrup,639204 ,28-11-2002,Alm. Salg,170,3760,4,1969,
-573,Ejerlejlighed,Ribevej 3,6800, Varde,2000000 ,27-11-2002,Alm. Salg,70,28571,4,1939,
-573,Villa,Ribevej 5,6800, Varde,2000000 ,27-11-2002,Alm. Salg,121,16529,3,1930,
 573,Villa,Søvej 1B,6818, Årre,1240000 ,27-11-2002,Alm. Salg,148,8378,6,1930,
 573,Villa,Slugten 12,6800, Varde,595000 ,27-11-2002,Alm. Salg,202,2946,5,2003,
 573,Villa,Sønderskovvej 115,6800, Varde,1249000 ,27-11-2002,Alm. Salg,220,5677,7,1800,
@@ -15125,8 +14872,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Toften 2E,6818, Årre,915000 ,13-10-2002,Alm. Salg,103,8883,4,1994,
 573,Villa,Fåborgvej 75,6818, Årre,200000 ,13-10-2002,Alm. Salg,101,1980,3,1940,
 573,Rækkehus,Trekanten 5,6855, Outrup,365000 ,12-10-2002,Alm. Salg,75,4867,3,1977,
-573,Ejerlejlighed,"Storegade 62, 1",6855, Outrup,458711 ,12-10-2002,Alm. Salg,58,7909,2,1907,
-573,Villa,"Storegade 62, st",6855, Outrup,458711 ,12-10-2002,Alm. Salg,85,5397,3,1907,
 573,Ejerlejlighed,"Vestergade 23A, st. th",6800, Varde,585000 ,10-10-2002,Alm. Salg,75,7800,2,1906,
 573,Villa,Vestre Landevej 38,6800, Varde,670678 ,10-10-2002,Alm. Salg,116,5782,3,1954,
 573,Rækkehus,Slotsgade 12F,6870, Ølgod,490000 ,09-10-2002,Alm. Salg,78,6282,3,1985,
@@ -15170,16 +14915,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Lindegade 7A,6823, Ansager,1150000 ,24-09-2002,Fam. Salg,196,5867,6,1912,
 573,Villa,Lindegade 29,6823, Ansager,194311 ,24-09-2002,Andet,121,1606,5,1915,
 573,Villa,Ådumvej 5,6870, Ølgod,1064074 ,24-09-2002,Andet,360,2956,8,1939,
-573,Ejerlejlighed,"Storegade 15A, st",6800, Varde,1925000 ,18-09-2002,Alm. Salg,95,20263,3,1908,
-573,Ejerlejlighed,"Brogade 15, 2. th",6800, Varde,1925000 ,18-09-2002,Alm. Salg,78,24679,3,1908,
-573,Ejerlejlighed,"Brogade 15, 1. tv",6800, Varde,1925000 ,18-09-2002,Alm. Salg,100,19250,4,1908,
-573,Ejerlejlighed,"Brogade 15, 1. th",6800, Varde,1925000 ,18-09-2002,Alm. Salg,80,24063,3,1908,
-573,Ejerlejlighed,"Brogade 15, 2. tv",6800, Varde,1925000 ,18-09-2002,Alm. Salg,60,32083,2,1908,
-573,Ejerlejlighed,Brogade 17,6800, Varde,1925000 ,18-09-2002,Alm. Salg,85,22647,2,1908,
 573,Villa,Stationsvænget 1,6840, Oksbøl,793392 ,18-09-2002,Alm. Salg,88,9016,4,1962,
 573,Villa,Hans Jørgensvej 21,6840, Oksbøl,596405 ,18-09-2002,Alm. Salg,146,4085,5,2009,
-573,Ejerlejlighed,Rønnealle 2,6851, Janderup Vestj,525000 ,17-09-2002,Alm. Salg,50,10500,2,1877,
-573,Ejerlejlighed,Vesterled 21,6851, Janderup Vestj,525000 ,17-09-2002,Alm. Salg,140,3750,4,1877,
 573,Villa,Rømøvej 8,6852, Billum,1095000 ,16-09-2002,Alm. Salg,216,5069,8,1976,
 573,Villa,Solvænget 60,6870, Ølgod,870000 ,16-09-2002,Alm. Salg,124,7016,5,1978,
 573,Villa,Odinsvej 27,6840, Oksbøl,536303 ,16-09-2002,Andet,159,3373,5,1998,
@@ -15282,7 +15019,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Engdraget 59,6870, Ølgod,891127 ,01-08-2002,Alm. Salg,183,4870,6,1974,
 573,Villa,Vrenderupvej 9,6818, Årre,395149 ,01-08-2002,Alm. Salg,110,3592,3,1954,
 573,Villa,Hustedvej 41,6830, Nørre Nebel,120000 ,31-07-2002,Alm. Salg,128,938,4,1884,
-573,Rækkehus,Smedegade 37,6800, Varde,1950000 ,30-07-2002,Alm. Salg,66,29545,2,1957,
 573,Ejerlejlighed,"Storegade 55B, 1",6800, Varde,422000 ,30-07-2002,Alm. Salg,114,3702,4,1915,
 573,Ejerlejlighed,Storegade 55A,6800, Varde,528000 ,30-07-2002,Alm. Salg,96,5500,2,1915,
 573,Ejerlejlighed,"Storegade 55B, 2",6800, Varde,370000 ,30-07-2002,Alm. Salg,106,3491,4,1915,
@@ -15302,8 +15038,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Rækkehus,Lillegade 5,6870, Ølgod,350000 ,26-07-2002,Alm. Salg,122,2869,4,1900,
 573,Villa,Storegade 61,6862, Tistrup,325000 ,25-07-2002,Alm. Salg,124,2621,3,1906,
 573,Villa,Kildegårdvej 13,6852, Billum,325000 ,25-07-2002,Alm. Salg,169,1923,5,2003,
-573,Rækkehus,Storegade 50A,6862, Tistrup,270000 ,24-07-2002,Alm. Salg,71,3803,3,1896,
-573,Ejerlejlighed,Storegade 50B,6862, Tistrup,270000 ,24-07-2002,Alm. Salg,116,2328,4,1896,
 573,Villa,Tingvejen 262,6818, Årre,1147400 ,24-07-2002,Fam. Salg,210,5032,5,1952,
 573,Villa,Engtoften 22,7200, Grindsted,725000 ,24-07-2002,Alm. Salg,121,5992,4,1980,
 573,Villa,Bredgade 81,6830, Nørre Nebel,652378 ,24-07-2002,Alm. Salg,113,5773,3,1923,
@@ -15457,8 +15191,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Stationsvej 5,6800, Varde,800000 ,01-05-2002,Alm. Salg,148,5405,4,1928,
 573,Villa,Gl Roustvej 9,6800, Varde,820000 ,30-04-2002,Alm. Salg,208,3942,6,1936,
 573,Villa,Skjerninggårdvej 8,6800, Varde,210000 ,29-04-2002,Alm. Salg,185,1135,6,2003,
-573,Ejerlejlighed,Forumvej 2C,6800, Varde,1100000 ,28-04-2002,Alm. Salg,86,12791,2,1972,
-573,Ejerlejlighed,"Bredgade 29, 1",6800, Varde,1100000 ,28-04-2002,Alm. Salg,86,12791,3,1972,
 573,Villa,Vesterhavsvej 26,6830, Nørre Nebel,442501 ,28-04-2002,Alm. Salg,90,4917,4,1957,
 573,Villa,Nøddelunden 42,6800, Varde,910000 ,28-04-2002,Alm. Salg,127,7165,4,1978,
 573,Villa,Bastrupsvej 4,6800, Varde,975000 ,28-04-2002,Alm. Salg,164,5945,6,1905,
@@ -15510,12 +15242,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Vadgårdsvej 20,6830, Nørre Nebel,125000 ,07-04-2002,Alm. Salg,124,1008,5,2003,
 573,Villa,Fædriften 2,6857, Blåvand,175000 ,07-04-2002,Alm. Salg,151,1159,6,1992,
 573,Villa,Blåvandvej 51C,6857, Blåvand,400000 ,06-04-2002,Alm. Salg,187,2139,5,2004,
-573,Ejerlejlighed,Vinkelvej 1B,6800, Varde,1200000 ,04-04-2002,Alm. Salg,49,24490,2,1870,
-573,Ejerlejlighed,Vinkelvej 1A,6800, Varde,1200000 ,04-04-2002,Alm. Salg,63,19048,2,1870,
-573,Ejerlejlighed,Søndergade 15A,6800, Varde,1200000 ,04-04-2002,Alm. Salg,73,16438,2,1870,
-573,Ejerlejlighed,"Søndergade 15B, 1",6800, Varde,1200000 ,04-04-2002,Alm. Salg,75,16000,1,1870,
-573,Ejerlejlighed,Vinkelvej 1D,6800, Varde,1200000 ,04-04-2002,Alm. Salg,75,16000,2,1870,
-573,Ejerlejlighed,Vinkelvej 1C,6800, Varde,1200000 ,04-04-2002,Alm. Salg,49,24490,2,1870,
 573,Villa,Sønderskovvej 51,6800, Varde,425000 ,04-04-2002,Alm. Salg,155,2742,6,1910,
 573,Ejerlejlighed,"Torvet 16C, 1",6870, Ølgod,450000 ,03-04-2002,Alm. Salg,73,6164,2,1988,
 573,Villa,Heagervej 36,6818, Årre,2675000 ,02-04-2002,Alm. Salg,202,13243,4,1914,
@@ -15559,11 +15285,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Sletten 40,6800, Varde,345400 ,15-03-2002,Alm. Salg,198,1744,8,2003,
 573,Villa,Rosenvænget 29,6800, Varde,725000 ,14-03-2002,Alm. Salg,99,7323,4,1970,
 573,Villa,Idrætsvænget 3,6855, Outrup,762000 ,14-03-2002,Alm. Salg,128,5953,5,1977,
-573,Ejerlejlighed,Slotsgade 2C,6870, Ølgod,520000 ,13-03-2002,Alm. Salg,87,5977,2,1900,
-573,Ejerlejlighed,Slotsgade 2A,6870, Ølgod,520000 ,13-03-2002,Alm. Salg,90,5778,3,1900,
-573,Ejerlejlighed,Østerbro 23,6870, Ølgod,520000 ,13-03-2002,Alm. Salg,72,7222,2,1900,
-573,Ejerlejlighed,"Østerbro 25, 1. th",6870, Ølgod,520000 ,13-03-2002,Alm. Salg,53,9811,2,1900,
-573,Ejerlejlighed,"Østerbro 25, 1. tv",6870, Ølgod,520000 ,13-03-2002,Alm. Salg,154,3377,3,1900,
 573,Villa,Kvongvej 143,6830, Nørre Nebel,350000 ,13-03-2002,Alm. Salg,106,3302,3,1907,
 573,Villa,Vinkelvej 17,6800, Varde,895000 ,13-03-2002,Alm. Salg,120,7458,4,1915,
 573,Villa,Elmevej 8,6854, Henne,367850 ,12-03-2002,Alm. Salg,109,3375,3,1952,
@@ -15599,13 +15320,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Blåbjergvej 75,6830, Nørre Nebel,200000 ,22-02-2002,Alm. Salg,70,2857,2,1945,
 573,Villa,Lykkesvej 19,6855, Outrup,625000 ,21-02-2002,Alm. Salg,129,4845,4,1971,
 573,Villa,Kærgårdsvej 29,6800, Varde,435000 ,21-02-2002,Fam. Salg,106,4104,3,1969,
-573,Ejerlejlighed,Vinkelvej 1B,6800, Varde,828800 ,20-02-2002,Alm. Salg,49,16914,2,1870,
-573,Ejerlejlighed,Vinkelvej 1A,6800, Varde,828800 ,20-02-2002,Alm. Salg,63,13156,2,1870,
 573,Ejerlejlighed,"Søndergade 1A, 2. tv",6800, Varde,480000 ,20-02-2002,Alm. Salg,78,6154,2,1935,
-573,Ejerlejlighed,Søndergade 15A,6800, Varde,828800 ,20-02-2002,Alm. Salg,73,11353,2,1870,
-573,Ejerlejlighed,"Søndergade 15B, 1",6800, Varde,828800 ,20-02-2002,Alm. Salg,75,11051,1,1870,
-573,Ejerlejlighed,Vinkelvej 1D,6800, Varde,828800 ,20-02-2002,Alm. Salg,75,11051,2,1870,
-573,Ejerlejlighed,Vinkelvej 1C,6800, Varde,828800 ,20-02-2002,Alm. Salg,49,16914,2,1870,
 573,Villa,Lærkevej 6,6800, Varde,739411 ,20-02-2002,Alm. Salg,129,5732,3,1964,
 573,Rækkehus,Grydergade 3D,6800, Varde,1400000 ,19-02-2002,Alm. Salg,121,11570,3,2002,
 573,Villa,Præstebrovej 16,6818, Årre,289000 ,19-02-2002,Alm. Salg,158,1829,4,2010,
@@ -15699,9 +15414,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Tane Hedevej 51A,6857, Blåvand,425000 ,30-12-2001,Andet,113,3761,4,2017,
 573,Villa,Hornelund 28,6800, Varde,460000 ,27-12-2001,Alm. Salg,110,4182,3,1965,
 573,Villa,Kaj Munks Vej 20,6800, Varde,1151714 ,27-12-2001,Alm. Salg,213,5407,8,1965,
-573,Rækkehus,Letbækvej 2B,6862, Tistrup,310000 ,26-12-2001,Alm. Salg,73,4247,1,1907,
 573,Villa,Revlingevej 29,6800, Varde,1265000 ,26-12-2001,Alm. Salg,139,9101,6,1986,
-573,Villa,Letbækvej 2A,6862, Tistrup,310000 ,26-12-2001,Alm. Salg,75,4133,1,1907,
 573,Villa,Violvej 9,6800, Varde,1297062 ,23-12-2001,Alm. Salg,225,5765,5,1972,
 573,Villa,Hybenvej 6,6753, Agerbæk,1500000 ,21-12-2001,Alm. Salg,191,7853,5,1998,
 573,Villa,Galsthovej 24,7200, Grindsted,258591 ,20-12-2001,Fam. Salg,125,2069,4,1917,
@@ -15763,7 +15476,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Rækkehus,Storegade 60,6862, Tistrup,350000 ,22-11-2001,Alm. Salg,81,4321,4,1908,
 573,Rækkehus,Storegade 67,6862, Tistrup,325000 ,22-11-2001,Alm. Salg,79,4114,4,1920,
 573,Villa,Vænget 27,6818, Årre,598000 ,22-11-2001,Alm. Salg,91,6571,3,1980,
-573,Villa,Krusbjergvej 32,6870, Ølgod,250000 ,22-11-2001,Alm. Salg,71,3521,3,1918,
 573,Villa,Toften 7,6818, Årre,850000 ,22-11-2001,Alm. Salg,142,5986,5,1978,
 573,Villa,Storegade 43,6862, Tistrup,400000 ,22-11-2001,Alm. Salg,88,4545,3,1904,
 573,Villa,Fanøvej 10,6852, Billum,1030000 ,22-11-2001,Alm. Salg,177,5819,5,1976,
@@ -15816,7 +15528,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Nr. Allé 7,6830, Nørre Nebel,521950 ,30-10-2001,Alm. Salg,108,4833,3,1956,
 573,Rækkehus,Spigerborgade 12,6800, Varde,2400514 ,28-10-2001,Alm. Salg,230,10437,3,1890,
 573,Villa,Kvievej 50,6823, Ansager,675000 ,28-10-2001,Alm. Salg,128,5273,6,1945,
-573,Rækkehus,Hjertingvej 8,6800, Varde,565000 ,26-10-2001,Alm. Salg,84,6726,3,1875,
 573,Villa,Spættevej 3,6851, Janderup Vestj,785000 ,26-10-2001,Alm. Salg,136,5772,3,1966,
 573,Villa,Toften 2,6840, Oksbøl,897000 ,26-10-2001,Alm. Salg,166,5404,5,1967,
 573,Villa,Kvievej 33,6823, Ansager,240000 ,25-10-2001,Alm. Salg,122,1967,4,1975,
@@ -16030,12 +15741,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Søndergade 15,6840, Oksbøl,597000 ,03-07-2001,Alm. Salg,110,5427,3,1947,
 573,Rækkehus,Kildegårdvej 10,6852, Billum,445000 ,02-07-2001,Alm. Salg,149,2987,5,1865,
 573,Rækkehus,Nymandsgade 18,6870, Ølgod,840000 ,02-07-2001,Alm. Salg,128,6563,6,1900,
-573,Ejerlejlighed,Vinkelvej 1B,6800, Varde,803800 ,02-07-2001,Alm. Salg,49,16404,2,1870,
-573,Ejerlejlighed,Vinkelvej 1A,6800, Varde,803800 ,02-07-2001,Alm. Salg,63,12759,2,1870,
-573,Ejerlejlighed,Søndergade 15A,6800, Varde,803800 ,02-07-2001,Alm. Salg,73,11011,2,1870,
-573,Ejerlejlighed,"Søndergade 15B, 1",6800, Varde,803800 ,02-07-2001,Alm. Salg,75,10717,1,1870,
-573,Ejerlejlighed,Vinkelvej 1D,6800, Varde,803800 ,02-07-2001,Alm. Salg,75,10717,2,1870,
-573,Ejerlejlighed,Vinkelvej 1C,6800, Varde,803800 ,02-07-2001,Alm. Salg,49,16404,2,1870,
 573,Villa,Møllegade 10,6862, Tistrup,450000 ,02-07-2001,Alm. Salg,126,3571,5,1927,
 573,Villa,Kornvænget 2,6840, Oksbøl,828000 ,02-07-2001,Alm. Salg,124,6677,5,1972,
 573,Villa,Habrehøjvej 2,6800, Varde,625000 ,02-07-2001,Alm. Salg,123,5081,4,1977,
@@ -16080,7 +15785,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Lindealle 6,6870, Ølgod,294957 ,17-06-2001,Fam. Salg,163,1810,5,1926,
 573,Villa,Lynevej 52,6870, Ølgod,384741 ,17-06-2001,Alm. Salg,114,3375,4,1952,
 573,Villa,Idrætsvænget 15,6855, Outrup,1055000 ,17-06-2001,Alm. Salg,176,5994,5,1977,
-573,Rækkehus,Hjertingvej 8,6800, Varde,446215 ,15-06-2001,Alm. Salg,84,5312,3,1875,
 573,Villa,Hjertingvej 51,6800, Varde,780000 ,14-06-2001,Alm. Salg,96,8125,4,1947,
 573,Villa,Ingemannsvej 11,6800, Varde,385000 ,14-06-2001,Fam. Salg,124,3105,4,1966,
 573,Villa,Letbækvej 23,6862, Tistrup,623578 ,14-06-2001,Alm. Salg,281,2219,11,1909,
@@ -16091,7 +15795,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Armvangvej 54,6800, Varde,755000 ,12-06-2001,Alm. Salg,115,6565,3,1964,
 573,Villa,Irisvej 32,6800, Varde,825000 ,12-06-2001,Alm. Salg,189,4365,5,1971,
 573,Villa,Dejrupvej 23,6855, Outrup,437000 ,12-06-2001,Alm. Salg,116,3767,5,1960,
-573,Rækkehus,Hjertingvej 8,6800, Varde,446215 ,11-06-2001,Alm. Salg,84,5312,3,1875,
 573,Villa,Jupitervej 50,6800, Varde,165000 ,11-06-2001,Alm. Salg,130,1269,4,2001,
 573,Villa,Hornelund 29,6800, Varde,388239 ,11-06-2001,Alm. Salg,88,4412,3,1957,
 573,Villa,Sønderskovvej 115,6800, Varde,1050000 ,11-06-2001,Alm. Salg,220,4773,7,1800,
@@ -16511,8 +16214,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Borkvej 25,6830, Nørre Nebel,535000 ,31-10-2000,Alm. Salg,106,5047,3,1965,
 573,Villa,Rosenvej 9,6800, Varde,925000 ,31-10-2000,Alm. Salg,161,5745,6,1971,
 573,Villa,Troldholmvej 20,6840, Oksbøl,803483 ,31-10-2000,Alm. Salg,173,4644,7,1966,
-573,Ejerlejlighed,"Bredgade 55, 1",6830, Nørre Nebel,850000 ,30-10-2000,Alm. Salg,156,5449,3,1925,
-573,Ejerlejlighed,"Møllevangsvej 10, 1",6830, Nørre Nebel,850000 ,30-10-2000,Alm. Salg,43,19767,2,1925,
 573,Villa,Østergade 15,6830, Nørre Nebel,350000 ,30-10-2000,Alm. Salg,137,2555,5,1931,
 573,Villa,Søndervænget 59,6870, Ølgod,717000 ,30-10-2000,Alm. Salg,129,5558,4,1977,
 573,Villa,Roustvej 143,6818, Årre,531708 ,30-10-2000,Alm. Salg,104,5113,4,1930,
@@ -16672,7 +16373,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Ho Bugt Vej 40,6852, Billum,600000 ,10-08-2000,Alm. Salg,146,4110,4,1938,
 573,Villa,Vestergade 59,6870, Ølgod,850000 ,10-08-2000,Alm. Salg,152,5592,5,1936,
 573,Villa,Vesterhavsvej 14,6852, Billum,478000 ,09-08-2000,Alm. Salg,86,5558,3,1942,
-573,Rækkehus,Smedegade 37,6800, Varde,1600000 ,08-08-2000,Andet,66,24242,2,1957,
 573,Ejerlejlighed,"Bredgade 48A, 1. tv",6830, Nørre Nebel,1200000 ,08-08-2000,Andet,127,9449,4,1908,
 573,Villa,Kirkebjergvej 5,6800, Varde,585000 ,08-08-2000,Alm. Salg,252,2321,8,2010,
 573,Villa,Vestre Landevej 103,6800, Varde,700000 ,08-08-2000,Alm. Salg,109,6422,4,1938,
@@ -16725,10 +16425,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Lynevej 52,6870, Ølgod,328504 ,09-07-2000,Alm. Salg,114,2882,4,1952,
 573,Villa,Vangsgade 41,6870, Ølgod,965000 ,08-07-2000,Alm. Salg,192,5026,6,1979,
 573,Villa,Baunhøjvej 9,6840, Oksbøl,638355 ,07-07-2000,Alm. Salg,127,5026,4,1905,
-573,Ejerlejlighed,Kræmmergade 12B,6800, Varde,2500000 ,06-07-2000,Alm. Salg,205,12195,8,1786,
-573,Ejerlejlighed,"Storegade 33, st. th",6800, Varde,2500000 ,06-07-2000,Alm. Salg,185,13514,5,1786,
-573,Ejerlejlighed,"Storegade 33, st. tv",6800, Varde,2500000 ,06-07-2000,Alm. Salg,160,15625,4,1786,
-573,Ejerlejlighed,"Storegade 33, 1",6800, Varde,2500000 ,06-07-2000,Alm. Salg,160,15625,5,1786,
 573,Villa,Neder Hallumvej 1,6800, Varde,77500 ,06-07-2000,Alm. Salg,170,456,4,2003,
 573,Villa,Frisvadvej 53,6800, Varde,695000 ,06-07-2000,Alm. Salg,100,6950,5,1960,
 573,Villa,Sct Gertrudsvej 5,6800, Varde,560000 ,05-07-2000,Fam. Salg,125,4480,6,1941,
@@ -16745,7 +16441,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Alslev Møllevej 20,6800, Varde,1310000 ,29-06-2000,Andet,157,8344,6,1973,
 573,Villa,Degnevangen 4,6857, Blåvand,1885000 ,29-06-2000,Alm. Salg,182,10357,6,1991,
 573,Villa,Grønnegade 8,6870, Ølgod,420000 ,28-06-2000,Alm. Salg,99,4242,4,1924,
-573,Villa,Nr Alle 2,6870, Ølgod,3100000 ,28-06-2000,Alm. Salg,89,34831,3,1890,
 573,Villa,Homarken 6,6857, Blåvand,500000 ,28-06-2000,Fam. Salg,219,1887,8,1980,
 573,Villa,Nordre Boulevard 11,6800, Varde,935000 ,28-06-2000,Alm. Salg,120,7792,4,1966,
 573,Villa,Christian Richardts Vej 7,6800, Varde,985000 ,27-06-2000,Alm. Salg,117,8419,5,1968,
@@ -16923,11 +16618,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Rækkehus,Nikolaikirkestræde 12A,6800, Varde,860000 ,09-04-2000,Alm. Salg,94,9149,4,1989,
 573,Villa,Tyttebærvej 4,6800, Varde,885000 ,09-04-2000,Alm. Salg,251,3526,5,1976,
 573,Villa,Åkirkevej 3,6851, Janderup Vestj,300000 ,09-04-2000,Alm. Salg,240,1250,9,1930,
-573,Ejerlejlighed,"Vestergade 20, 1. th",6800, Varde,4800000 ,04-04-2000,Alm. Salg,138,34783,6,1880,
-573,Ejerlejlighed,"Vestergade 20, 1. tv",6800, Varde,4800000 ,04-04-2000,Alm. Salg,115,41739,2,1880,
-573,Ejerlejlighed,"Apotekerhaven 2, 2. mf",6800, Varde,4800000 ,04-04-2000,Alm. Salg,106,45283,2,1880,
-573,Ejerlejlighed,"Apotekerhaven 2, 2. tv",6800, Varde,4800000 ,04-04-2000,Alm. Salg,125,38400,3,1880,
-573,Ejerlejlighed,"Apotekerhaven 2, 2. th",6800, Varde,4800000 ,04-04-2000,Alm. Salg,155,30968,3,1880,
 573,Villa,Sletten 51,6800, Varde,300000 ,04-04-2000,Alm. Salg,147,2041,5,2000,
 573,Villa,Vadgårdsvej 22,6830, Nørre Nebel,252500 ,04-04-2000,Alm. Salg,140,1804,5,2001,
 573,Villa,Bjergegade 60,6870, Ølgod,450000 ,04-04-2000,Auktion,174,2586,5,1938,
@@ -16966,7 +16656,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Vesterhavsvej 3,6830, Nørre Nebel,571833 ,19-03-2000,Alm. Salg,130,4399,3,1960,
 573,Villa,Forumvej 15,6800, Varde,869804 ,19-03-2000,Alm. Salg,133,6540,4,1967,
 573,Villa,Grønnegade 5,6870, Ølgod,390000 ,17-03-2000,Alm. Salg,86,4535,2,1934,
-573,Rækkehus,Hjertingvej 8,6800, Varde,637000 ,16-03-2000,Alm. Salg,84,7583,3,1875,
 573,Villa,Vinkelvej 27,6800, Varde,1192347 ,16-03-2000,Alm. Salg,189,6309,6,1976,
 573,Villa,Vestervænget 15,6800, Varde,782000 ,15-03-2000,Alm. Salg,119,6571,4,1973,
 573,Villa,Thorstrupvej 40,6800, Varde,60000 ,15-03-2000,Alm. Salg,255,235,6,1914,
@@ -17171,9 +16860,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Hans Jørgensvej 23,6840, Oksbøl,360000 ,29-11-1999,Alm. Salg,63,5714,2,1950,
 573,Rækkehus,Kirkevænget 7B,6870, Ølgod,287500 ,28-11-1999,Andet,133,2162,4,1987,
 573,Ejerlejlighed,"Storegade 23, 1",6862, Tistrup,1240000 ,28-11-1999,Alm. Salg,132,9394,5,1897,
-573,Ejerlejlighed,Jernbanegade 15,6870, Ølgod,520000 ,28-11-1999,Alm. Salg,52,10000,2,1922,
-573,Ejerlejlighed,"Mejerivej 6, st",6870, Ølgod,520000 ,28-11-1999,Alm. Salg,26,20000,1,1922,
-573,Ejerlejlighed,"Mejerivej 6, 1",6870, Ølgod,520000 ,28-11-1999,Alm. Salg,89,5843,3,1922,
 573,Villa,Degnevangen 7,6857, Blåvand,2000000 ,28-11-1999,Alm. Salg,209,9569,5,1991,
 573,Villa,Palludansvej 14,6800, Varde,1080677 ,28-11-1999,Alm. Salg,213,5074,5,1938,
 573,Villa,Tingvejen 262,6818, Årre,3522721 ,28-11-1999,Alm. Salg,210,15451,5,1952,
@@ -17319,7 +17005,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Kongsgaardsvej 6,6800, Varde,785000 ,15-09-1999,Alm. Salg,122,6434,4,1962,
 573,Villa,Ringkøbingvej 58,6800, Varde,350000 ,15-09-1999,Alm. Salg,65,5385,3,1953,
 573,Villa,Solvænget 14,6870, Ølgod,643536 ,15-09-1999,Alm. Salg,113,5695,4,1977,
-573,Rækkehus,Smedegade 37,6800, Varde,705625 ,14-09-1999,Alm. Salg,66,10691,2,1957,
 573,Villa,Lerpøtvej 34,6800, Varde,998480 ,13-09-1999,Alm. Salg,140,7132,4,1974,
 573,Villa,Ølgodvej 90,6800, Varde,248000 ,13-09-1999,Alm. Salg,123,2016,3,1904,
 573,Villa,Slåenvej 4,6800, Varde,975000 ,13-09-1999,Alm. Salg,142,6866,5,1977,
@@ -17366,8 +17051,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Egevangen 19,6800, Varde,825000 ,23-08-1999,Alm. Salg,142,5810,4,1969,
 573,Villa,Bøgelyvej 18,6800, Varde,645000 ,23-08-1999,Alm. Salg,132,4886,4,1973,
 573,Villa,Neptunvej 23,6800, Varde,824180 ,22-08-1999,Alm. Salg,120,6868,4,1970,
-573,Ejerlejlighed,Forumvej 2C,6800, Varde,970000 ,21-08-1999,Alm. Salg,86,11279,2,1972,
-573,Ejerlejlighed,"Bredgade 29, 1",6800, Varde,970000 ,21-08-1999,Alm. Salg,86,11279,3,1972,
 573,Villa,Hans Tausensvej 9,6800, Varde,1075000 ,19-08-1999,Alm. Salg,134,8022,6,1968,
 573,Villa,Vesterhavsvej 26,6852, Billum,1020692 ,19-08-1999,Alm. Salg,138,7396,3,1986,
 573,Villa,Vrenderupvej 11,6818, Årre,500697 ,19-08-1999,Alm. Salg,104,4814,3,1964,
@@ -17690,7 +17373,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Nørremarksvej 258,6800, Varde,332337 ,22-04-1999,Alm. Salg,176,1888,6,1999,
 573,Villa,Hyldehaven 26,6800, Varde,305500 ,22-04-1999,Alm. Salg,163,1874,5,1999,
 573,Villa,Bjålumvej 19,6830, Nørre Nebel,850000 ,22-04-1999,Alm. Salg,118,7203,3,0,
-573,Villa,Enghavevej 13B,6870, Ølgod,2400000 ,22-04-1999,Alm. Salg,198,12121,7,1957,
 573,Villa,Stilbjergvej 80,6800, Varde,523000 ,22-04-1999,Alm. Salg,152,3441,4,1940,
 573,Villa,Stationsvej 8,6800, Varde,494744 ,21-04-1999,Alm. Salg,77,6425,3,1959,
 573,Villa,Hyldesti 6,6800, Varde,928000 ,21-04-1999,Alm. Salg,130,7138,4,1954,
@@ -17881,10 +17563,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Ejerlejlighed,"Storegade 24, 1. tv",6800, Varde,691325 ,11-02-1999,Alm. Salg,99,6983,3,1933,
 573,Villa,Vesterhavsvej 17,6852, Billum,666000 ,11-02-1999,Alm. Salg,118,5644,5,1900,
 573,Villa,Letbækvej 23,6862, Tistrup,525000 ,11-02-1999,Fam. Salg,281,1868,11,1909,
-573,Ejerlejlighed,"Vestergade 8, 2",6800, Varde,9300000 ,10-02-1999,Alm. Salg,78,119231,3,1900,
-573,Ejerlejlighed,"Vestergade 8, 1. th",6800, Varde,9300000 ,10-02-1999,Alm. Salg,119,78151,3,1900,
-573,Ejerlejlighed,"Vestergade 8, 1. tv",6800, Varde,9300000 ,10-02-1999,Alm. Salg,140,66429,3,1900,
-573,Ejerlejlighed,"Fogtmanns Plads 5, 1. mf",6800, Varde,9300000 ,10-02-1999,Alm. Salg,97,95876,3,1900,
 573,Villa,Hasselvej 3,6862, Tistrup,682262 ,10-02-1999,Alm. Salg,125,5458,5,1977,
 573,Villa,Bøgevej 18,6800, Varde,910000 ,10-02-1999,Alm. Salg,181,5028,8,1933,
 573,Rækkehus,Engvej 7,6753, Agerbæk,738000 ,09-02-1999,Alm. Salg,94,7851,3,1999,
@@ -18001,12 +17679,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Ryttervænget 1,6830, Nørre Nebel,625000 ,20-12-1998,Fam. Salg,128,4883,4,1976,
 573,Rækkehus,Søndergade 45,6870, Ølgod,336500 ,19-12-1998,Alm. Salg,85,3959,3,1942,
 573,Villa,Kirsebærvænget 24,6818, Årre,750000 ,19-12-1998,Alm. Salg,138,5435,4,1969,
-573,Ejerlejlighed,"Søndergade 1B, st",6840, Oksbøl,1479971 ,17-12-1998,Alm. Salg,70,21142,2,1903,
-573,Ejerlejlighed,"Søndergade 1A, 1",6840, Oksbøl,1479971 ,17-12-1998,Alm. Salg,70,21142,2,1903,
-573,Ejerlejlighed,"Østergade 2B, 1. tv",6840, Oksbøl,1479971 ,17-12-1998,Alm. Salg,92,16087,3,1903,
-573,Ejerlejlighed,Østergade 2,6840, Oksbøl,1479971 ,17-12-1998,Alm. Salg,74,20000,2,1903,
-573,Ejerlejlighed,"Østergade 2B, st",6840, Oksbøl,1479971 ,17-12-1998,Alm. Salg,99,14949,3,1903,
-573,Ejerlejlighed,"Østergade 2B, 1. th",6840, Oksbøl,1479971 ,17-12-1998,Alm. Salg,81,18271,3,1903,
 573,Villa,P Th Bruuns Alle 18,6800, Varde,937000 ,17-12-1998,Alm. Salg,138,6790,4,1956,
 573,Villa,Storegade 76,6855, Outrup,440185 ,17-12-1998,Alm. Salg,154,2858,6,1950,
 573,Villa,Villavej 1,6800, Varde,670639 ,17-12-1998,Alm. Salg,116,5781,3,1934,
@@ -18310,7 +17982,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Kærbjergvej 13,6753, Agerbæk,2526000 ,22-07-1998,Alm. Salg,215,11749,7,1928,
 573,Villa,Bakkevej 8,6800, Varde,690000 ,21-07-1998,Alm. Salg,100,6900,3,1945,
 573,Villa,Glistrupsvej 46,6800, Varde,250600 ,21-07-1998,Alm. Salg,120,2088,4,1999,
-573,Villa,Nikolaikirkestræde 1,6800, Varde,1650000 ,20-07-1998,Alm. Salg,96,17188,3,1900,
 573,Villa,Kornvangen 15,6823, Ansager,585000 ,20-07-1998,Alm. Salg,120,4875,4,1976,
 573,Villa,Bøgelyvej 7,6800, Varde,550000 ,19-07-1998,Alm. Salg,117,4701,2,1973,
 573,Villa,Krovænget 28,6854, Henne,67336 ,19-07-1998,Alm. Salg,156,432,5,1999,
@@ -18481,7 +18152,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Gl Møllevej 6,6840, Oksbøl,436872 ,13-05-1998,Fam. Salg,139,3143,6,1994,
 573,Villa,Østparken 100,6840, Oksbøl,1072875 ,13-05-1998,Alm. Salg,140,7663,4,1987,
 573,Villa,Skolevej 9,6862, Tistrup,272500 ,13-05-1998,Alm. Salg,160,1703,6,1930,
-573,Rækkehus,Søndergade 38B,6800, Varde,813016 ,12-05-1998,Fam. Salg,80,10163,2,1944,
 573,Villa,Engvej 13,6840, Oksbøl,759932 ,12-05-1998,Alm. Salg,128,5937,4,1968,
 573,Villa,Storegade 1,6855, Outrup,305000 ,11-05-1998,Alm. Salg,103,2961,4,1914,
 573,Villa,Homarken 12,6857, Blåvand,1086000 ,11-05-1998,Alm. Salg,193,5627,5,1996,
@@ -18699,8 +18369,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Vesterbækvej 41,6800, Varde,2756359 ,17-02-1998,Fam. Salg,205,11984,9,1943,
 573,Villa,Ansagervej 11,6823, Ansager,445000 ,16-02-1998,Alm. Salg,140,3179,3,1936,
 573,Villa,Kaj Munks Vej 5,6800, Varde,972840 ,16-02-1998,Alm. Salg,146,6663,5,1968,
-573,Ejerlejlighed,"Rønnealle 2A, 1",6862, Tistrup,654000 ,15-02-1998,Alm. Salg,50,13080,3,1890,
-573,Villa,Storegade 16,6862, Tistrup,654000 ,15-02-1998,Alm. Salg,142,4606,9,1890,
 573,Villa,Engvej 12,6753, Agerbæk,390000 ,15-02-1998,Alm. Salg,160,2438,6,1954,
 573,Villa,Tykby 5,6857, Blåvand,910000 ,13-02-1998,Alm. Salg,113,8053,4,1995,
 573,Villa,Ribevej 25,6800, Varde,40000 ,12-02-1998,Alm. Salg,107,374,4,1928,
@@ -18723,11 +18391,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Enghavevej 8,6870, Ølgod,465000 ,04-02-1998,Alm. Salg,102,4559,3,1961,
 573,Rækkehus,Bjergegade 16,6870, Ølgod,310000 ,03-02-1998,Alm. Salg,81,3827,4,1909,
 573,Villa,Anemonevej 6,6800, Varde,965949 ,03-02-1998,Alm. Salg,147,6571,5,1972,
-573,Ejerlejlighed,"Kræmmergade 3B, 1",6800, Varde,4400000 ,02-02-1998,Alm. Salg,136,32353,3,1898,
-573,Ejerlejlighed,"Kræmmergade 3B, 2. th",6800, Varde,4400000 ,02-02-1998,Alm. Salg,70,62857,2,1898,
-573,Ejerlejlighed,"Kræmmergade 3B, 2. tv",6800, Varde,4400000 ,02-02-1998,Alm. Salg,65,67692,2,1898,
-573,Ejerlejlighed,"Murtfeldts Plads 1, 1",6800, Varde,4400000 ,02-02-1998,Alm. Salg,127,34646,4,1898,
-573,Ejerlejlighed,"Murtfeldts Plads 1, 2",6800, Varde,4400000 ,02-02-1998,Alm. Salg,96,45833,3,1898,
 573,Villa,Gl Møllevej 10,6840, Oksbøl,724309 ,01-02-1998,Alm. Salg,105,6898,3,1952,
 573,Villa,Nørrevang 8,6862, Tistrup,123505 ,01-02-1998,Alm. Salg,147,840,5,1999,
 573,Villa,Østparken 117,6840, Oksbøl,887000 ,01-02-1998,Alm. Salg,160,5544,5,1980,
@@ -18746,7 +18409,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Nørremarksvej 219,6800, Varde,227000 ,27-01-1998,Alm. Salg,152,1493,5,1998,
 573,Villa,Torvevænget 3,7200, Grindsted,52650 ,27-01-1998,Alm. Salg,101,521,4,1998,
 573,Villa,Lundvej 122,6800, Varde,570000 ,27-01-1998,Alm. Salg,74,7703,2,1947,
-573,Villa,Ringkøbingvej 73A,6800, Varde,374080 ,27-01-1998,Alm. Salg,70,5344,2,1947,
 573,Villa,Dejrupvej 5,6855, Outrup,303798 ,27-01-1998,Alm. Salg,52,5842,4,1950,
 573,Rækkehus,Smedegade 27,6800, Varde,844903 ,26-01-1998,Alm. Salg,157,5382,4,1821,
 573,Rækkehus,Stausvej 6,6800, Varde,697780 ,26-01-1998,Alm. Salg,146,4779,6,1910,
@@ -18824,10 +18486,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Søndergade 17,6823, Ansager,400000 ,15-12-1997,Alm. Salg,114,3509,4,1943,
 573,Villa,Vesterhavsvej 31,6852, Billum,360000 ,15-12-1997,Alm. Salg,100,3600,4,1941,
 573,Rækkehus,Vestergade 19G,6800, Varde,435000 ,14-12-1997,Alm. Salg,56,7768,2,1988,
-573,Ejerlejlighed,Storegade 25C,6800, Varde,2519800 ,14-12-1997,Alm. Salg,214,11775,6,2000,
-573,Ejerlejlighed,"Fiskergade 2B, 1",6800, Varde,2519800 ,14-12-1997,Alm. Salg,60,41997,2,2000,
-573,Ejerlejlighed,Fiskergade 2A,6800, Varde,2519800 ,14-12-1997,Alm. Salg,142,17745,5,2000,
-573,Ejerlejlighed,"Fiskergade 2B, 2",6800, Varde,2519800 ,14-12-1997,Alm. Salg,42,59995,1,2000,
 573,Villa,Nørremarksvej 256,6800, Varde,284000 ,14-12-1997,Alm. Salg,150,1893,5,1999,
 573,Villa,Skovvænget 4,6840, Oksbøl,525366 ,14-12-1997,Alm. Salg,117,4490,4,1967,
 573,Villa,Kirkevænget 56,6870, Ølgod,850000 ,14-12-1997,Alm. Salg,207,4106,2,1987,
@@ -18940,8 +18598,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Sofievej 17,6800, Varde,112211 ,19-10-1997,Alm. Salg,142,790,5,1998,
 573,Villa,Møllegade 12,6862, Tistrup,235000 ,17-10-1997,Alm. Salg,125,1880,7,1912,
 573,Villa,Violvej 9,6800, Varde,1175000 ,17-10-1997,Alm. Salg,225,5222,5,1972,
-573,Ejerlejlighed,Rønnealle 2,6851, Janderup Vestj,540000 ,16-10-1997,Alm. Salg,50,10800,2,1877,
-573,Ejerlejlighed,Vesterled 21,6851, Janderup Vestj,540000 ,16-10-1997,Alm. Salg,140,3857,4,1877,
 573,Villa,Dalgårdsvej 55,6840, Oksbøl,650000 ,16-10-1997,Alm. Salg,115,5652,4,1974,
 573,Villa,Ålundevej 2,6753, Agerbæk,829000 ,16-10-1997,Alm. Salg,134,6187,6,1987,
 573,Villa,Vestervold 9,6800, Varde,1045000 ,15-10-1997,Alm. Salg,175,5971,5,1922,
@@ -18970,7 +18626,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Skrænten 9,6870, Ølgod,525000 ,06-10-1997,Alm. Salg,104,5048,3,1964,
 573,Villa,Kirkegade 47,6800, Varde,330000 ,05-10-1997,Fam. Salg,92,3587,3,1958,
 573,Villa,Ringkøbingvej 26,6800, Varde,920840 ,05-10-1997,Alm. Salg,126,7308,5,1959,
-573,Villa,Nørrevold 13A,6800, Varde,825000 ,03-10-1997,Alm. Salg,154,5357,6,1877,
 573,Villa,Elmevej 7,6854, Henne,631000 ,02-10-1997,Alm. Salg,154,4097,4,1980,
 573,Villa,Slotsgade 11,6800, Varde,1160000 ,02-10-1997,Alm. Salg,225,5156,9,1931,
 573,Villa,Virkelyst 5,6800, Varde,1014741 ,02-10-1997,Alm. Salg,112,9060,4,1995,
@@ -19123,11 +18778,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Nørrevang 2,6862, Tistrup,98850 ,30-07-1997,Alm. Salg,155,638,5,1999,
 573,Villa,Vardevej 16,6818, Årre,830000 ,30-07-1997,Alm. Salg,146,5685,5,1968,
 573,Villa,Hyldevænget 1,6870, Ølgod,126560 ,29-07-1997,Alm. Salg,138,917,4,1999,
-573,Ejerlejlighed,"Vestergade 20, 1. th",6800, Varde,2450000 ,28-07-1997,Alm. Salg,138,17754,6,1880,
-573,Ejerlejlighed,"Vestergade 20, 1. tv",6800, Varde,2450000 ,28-07-1997,Alm. Salg,115,21304,2,1880,
-573,Ejerlejlighed,"Apotekerhaven 2, 2. mf",6800, Varde,2450000 ,28-07-1997,Alm. Salg,106,23113,2,1880,
-573,Ejerlejlighed,"Apotekerhaven 2, 2. tv",6800, Varde,2450000 ,28-07-1997,Alm. Salg,125,19600,3,1880,
-573,Ejerlejlighed,"Apotekerhaven 2, 2. th",6800, Varde,2450000 ,28-07-1997,Alm. Salg,155,15806,3,1880,
 573,Villa,Kløvbakken 20,6855, Outrup,770000 ,28-07-1997,Alm. Salg,191,4031,6,1980,
 573,Villa,Jupitervej 29,6800, Varde,142020 ,28-07-1997,Alm. Salg,153,928,5,1998,
 573,Villa,Jupitervej 33,6800, Varde,162757 ,28-07-1997,Alm. Salg,180,904,6,1998,
@@ -19189,7 +18839,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Rækkehus,Vestre Landevej 95,6800, Varde,480000 ,30-06-1997,Alm. Salg,101,4752,4,1935,
 573,Villa,Jægumsvej 12,6800, Varde,753000 ,30-06-1997,Alm. Salg,122,6172,5,1961,
 573,Villa,Baldersvej 2,6862, Tistrup,710000 ,30-06-1997,Alm. Salg,129,5504,4,1977,
-573,Villa,Dalgårdsvej 3C,6840, Oksbøl,150286 ,30-06-1997,Fam. Salg,102,1473,3,0,
 573,Rækkehus,Bastrupsvej 16,6800, Varde,862000 ,29-06-1997,Fam. Salg,151,5709,6,1908,
 573,Villa,Nøddelunden 22,6800, Varde,1357000 ,29-06-1997,Alm. Salg,166,8175,4,1978,
 573,Villa,Juulsvej 15,6800, Varde,850000 ,29-06-1997,Alm. Salg,116,7328,4,1951,
@@ -19364,7 +19013,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Møbelvej 7,6800, Varde,1222000 ,15-04-1997,Alm. Salg,221,5529,5,1980,
 573,Rækkehus,Nørregade 22,6823, Ansager,215023 ,14-04-1997,Fam. Salg,113,1903,5,1908,
 573,Villa,Bjerremosevej 9,6800, Varde,518000 ,14-04-1997,Alm. Salg,181,2862,6,1950,
-573,Rækkehus,Hjertingvej 8,6800, Varde,497680 ,13-04-1997,Alm. Salg,84,5925,3,1875,
 573,Rækkehus,Blåvandvej 5E,6857, Blåvand,525000 ,13-04-1997,Alm. Salg,96,5469,4,1966,
 573,Villa,Klintingvej 22,6830, Nørre Nebel,330000 ,13-04-1997,Alm. Salg,92,3587,3,1943,
 573,Villa,Roustvej 214,6818, Årre,477901 ,13-04-1997,Alm. Salg,115,4156,3,1947,
@@ -19439,13 +19087,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Kløvervang 33,6818, Årre,61650 ,23-03-1997,Alm. Salg,171,361,5,1997,
 573,Villa,Kølhusvej 2,6862, Tistrup,370000 ,23-03-1997,Alm. Salg,158,2342,5,1948,
 573,Villa,Søndervænget 21,6870, Ølgod,925000 ,23-03-1997,Alm. Salg,151,6126,5,1980,
-573,Ejerlejlighed,Vestre Landevej 32D,6800, Varde,1525000 ,20-03-1997,Alm. Salg,87,17529,1,1900,
-573,Ejerlejlighed,"Isbjerg Møllevej 1A, 1",6800, Varde,1525000 ,20-03-1997,Alm. Salg,72,21181,3,1900,
-573,Ejerlejlighed,"Isbjerg Møllevej 1A, st",6800, Varde,1525000 ,20-03-1997,Alm. Salg,87,17529,2,1900,
-573,Ejerlejlighed,Vestre Landevej 32A,6800, Varde,1525000 ,20-03-1997,Alm. Salg,66,23106,3,1900,
-573,Ejerlejlighed,"Vestre Landevej 32C, st",6800, Varde,1525000 ,20-03-1997,Alm. Salg,90,16944,1,1900,
-573,Ejerlejlighed,Vestre Landevej 32B,6800, Varde,1525000 ,20-03-1997,Alm. Salg,69,22101,3,1900,
-573,Ejerlejlighed,"Vestre Landevej 32C, 1",6800, Varde,1525000 ,20-03-1997,Alm. Salg,87,17529,2,1900,
 573,Villa,Grønmosevej 6,6823, Ansager,458781 ,20-03-1997,Alm. Salg,165,2780,4,1937,
 573,Villa,Tyttebærvej 47,6870, Ølgod,1064608 ,20-03-1997,Alm. Salg,270,3943,5,1976,
 573,Villa,Allegade 5,6753, Agerbæk,630000 ,20-03-1997,Alm. Salg,130,4846,4,1973,
@@ -19586,15 +19227,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Hovedgaden 16,6800, Varde,510000 ,27-01-1997,Alm. Salg,147,3469,6,1954,
 573,Villa,Kollevej 5,6830, Nørre Nebel,308000 ,27-01-1997,Alm. Salg,183,1683,4,1952,
 573,Rækkehus,Hornelund 19,6800, Varde,198000 ,26-01-1997,Alm. Salg,143,1385,4,1898,
-573,Rækkehus,Tømmerpladsen 2C,6800, Varde,2900000 ,26-01-1997,Alm. Salg,88,32955,3,1900,
-573,Ejerlejlighed,"Tømmerpladsen 2B, 1",6800, Varde,2900000 ,26-01-1997,Alm. Salg,78,37179,3,1900,
-573,Ejerlejlighed,"Sønderbro 15, 1. mf",6800, Varde,2900000 ,26-01-1997,Alm. Salg,32,90625,1,1900,
-573,Ejerlejlighed,"Sønderbro 15, 1. th",6800, Varde,2900000 ,26-01-1997,Alm. Salg,50,58000,2,1900,
-573,Ejerlejlighed,"Sønderbro 15, 1. tv",6800, Varde,2900000 ,26-01-1997,Alm. Salg,48,60417,2,1900,
-573,Ejerlejlighed,Tømmerpladsen 2D,6800, Varde,2900000 ,26-01-1997,Alm. Salg,88,32955,3,1900,
-573,Ejerlejlighed,"Sønderbro 15, st. tv",6800, Varde,2900000 ,26-01-1997,Alm. Salg,128,22656,2,1900,
-573,Ejerlejlighed,"Sønderbro 15, st. th",6800, Varde,2900000 ,26-01-1997,Alm. Salg,137,21168,3,1900,
-573,Ejerlejlighed,"Tømmerpladsen 2B, st",6800, Varde,2900000 ,26-01-1997,Alm. Salg,112,25893,2,1900,
 573,Villa,Stubmøllen 2,6800, Varde,602111 ,26-01-1997,Andet,151,3987,5,1973,
 573,Villa,Stationsvej 2,6840, Oksbøl,305500 ,26-01-1997,Andet,138,2214,5,1976,
 573,Villa,Nørremarksvej 11,6800, Varde,187950 ,26-01-1997,Alm. Salg,174,1080,6,1997,
@@ -19678,7 +19310,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Bolhedevej 5,6753, Agerbæk,583000 ,15-12-1996,Alm. Salg,142,4106,4,1910,
 573,Villa,Bejsnapvej 26,6870, Ølgod,745296 ,15-12-1996,Alm. Salg,233,3199,5,1880,
 573,Villa,Skolegade 34,6830, Nørre Nebel,150000 ,15-12-1996,Alm. Salg,104,1442,4,1950,
-573,Rækkehus,"Lundvej 3B, st",6800, Varde,1210000 ,14-12-1996,Alm. Salg,91,13297,3,1920,
 573,Villa,Agnetevej 10,6800, Varde,113890 ,14-12-1996,Alm. Salg,138,825,4,1998,
 573,Villa,Odinsvej 11,6840, Oksbøl,135900 ,14-12-1996,Alm. Salg,159,855,5,2000,
 573,Villa,Hegnet 16,6800, Varde,998000 ,13-12-1996,Alm. Salg,160,6238,5,1973,
@@ -19696,13 +19327,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Søndervænget 58,6870, Ølgod,596000 ,09-12-1996,Alm. Salg,112,5321,4,1974,
 573,Villa,Søndervænget 97,6870, Ølgod,869359 ,09-12-1996,Alm. Salg,225,3864,7,1977,
 573,Villa,Pramstedvej 32,6800, Varde,640000 ,09-12-1996,Alm. Salg,100,6400,4,1964,
-573,Ejerlejlighed,Storegade 4B,6753, Agerbæk,4231553 ,08-12-1996,Alm. Salg,151,28024,9,1994,
-573,Ejerlejlighed,"Nørregade 3, 1",6753, Agerbæk,4231553 ,08-12-1996,Alm. Salg,139,30443,3,1994,
-573,Ejerlejlighed,"Nørregade 5, 1. tv",6753, Agerbæk,4231553 ,08-12-1996,Alm. Salg,79,53564,2,1994,
-573,Ejerlejlighed,"Nørregade 7, 1",6753, Agerbæk,4231553 ,08-12-1996,Alm. Salg,139,30443,3,1994,
-573,Ejerlejlighed,"Nørregade 5, 1. th",6753, Agerbæk,4231553 ,08-12-1996,Alm. Salg,78,54251,2,1994,
-573,Ejerlejlighed,Storegade 4C,6753, Agerbæk,4231553 ,08-12-1996,Alm. Salg,130,32550,9,1994,
-573,Ejerlejlighed,Storegade 4A,6753, Agerbæk,4231553 ,08-12-1996,Alm. Salg,130,32550,9,1994,
 573,Villa,Højvangsalle 3,6800, Varde,462698 ,08-12-1996,Alm. Salg,185,2501,7,1963,
 573,Villa,Allévej 7,6855, Outrup,145000 ,08-12-1996,Alm. Salg,74,1959,4,1928,
 573,Villa,Nørrevang 9,6862, Tistrup,128230 ,08-12-1996,Alm. Salg,290,442,7,2002,
@@ -19740,8 +19364,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Vestergade 45,6870, Ølgod,313102 ,26-11-1996,Alm. Salg,107,2926,4,1900,
 573,Villa,Frisvadvej 65,6800, Varde,1500000 ,25-11-1996,Alm. Salg,289,5190,8,1950,
 573,Villa,Elmegade 12,6818, Årre,355000 ,25-11-1996,Alm. Salg,107,3318,3,1970,
-573,Rækkehus,Vestre Landevej 18,6800, Varde,1100000 ,24-11-1996,Alm. Salg,215,5116,8,1917,
-573,Ejerlejlighed,"Vestre Landevej 18, 1",6800, Varde,1100000 ,24-11-1996,Alm. Salg,50,22000,2,1917,
 573,Villa,Lysningen 2,6800, Varde,1431705 ,23-11-1996,Alm. Salg,356,4022,7,1968,
 573,Rækkehus,Sydslunden 10,6800, Varde,550000 ,22-11-1996,Alm. Salg,78,7051,3,1987,
 573,Villa,Lærkevej 4,6823, Ansager,731000 ,22-11-1996,Alm. Salg,174,4201,6,1973,
@@ -19804,10 +19426,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Fædriften 2,6857, Blåvand,1100000 ,30-10-1996,Alm. Salg,151,7285,6,1992,
 573,Villa,Spættevej 18,6851, Janderup Vestj,762000 ,29-10-1996,Alm. Salg,127,6000,3,1974,
 573,Villa,Kvievej 39,6823, Ansager,962341 ,29-10-1996,Alm. Salg,271,3551,9,1929,
-573,Ejerlejlighed,Grødevej 19B,6823, Ansager,6299186 ,28-10-1996,Alm. Salg,58,108607,3,1904,
 573,Villa,Krosvinget 7,6800, Varde,190000 ,28-10-1996,Fam. Salg,76,2500,2,1935,
 573,Villa,Skråvejen 1,6851, Janderup Vestj,408600 ,28-10-1996,Alm. Salg,142,2877,4,1965,
-573,Villa,Grødevej 19,6823, Ansager,6299186 ,28-10-1996,Alm. Salg,177,35589,5,2020,
 573,Rækkehus,Voldsti 5,6800, Varde,344796 ,27-10-1996,Alm. Salg,60,5747,3,1862,
 573,Villa,Bolhedevej 20,6800, Varde,642000 ,27-10-1996,Alm. Salg,250,2568,9,1935,
 573,Villa,Tranevænget 49,6830, Nørre Nebel,89817 ,27-10-1996,Alm. Salg,150,599,5,1997,
@@ -19850,8 +19470,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Ådumvej 8,6870, Ølgod,135000 ,01-10-1996,Alm. Salg,123,1098,2,1880,
 573,Villa,Hennebjergvej 6,6830, Nørre Nebel,300000 ,01-10-1996,Alm. Salg,110,2727,4,1922,
 573,Villa,Vesterbyvej 5,6854, Henne,1700000 ,30-09-1996,Alm. Salg,652,2607,16,1928,
-573,Ejerlejlighed,Roustvej 203,6818, Årre,6000000 ,29-09-1996,Alm. Salg,190,31579,5,1924,
-573,Villa,Roustvej 211,6818, Årre,6000000 ,29-09-1996,Alm. Salg,140,42857,4,1953,
 573,Villa,Lydumvej 107,6830, Nørre Nebel,354000 ,29-09-1996,Alm. Salg,145,2441,3,1845,
 573,Villa,Bredgade 17,6830, Nørre Nebel,250000 ,29-09-1996,Alm. Salg,165,1515,7,1896,
 573,Villa,Bjergvej 10,6830, Nørre Nebel,300000 ,28-09-1996,Fam. Salg,128,2344,4,1918,
@@ -19916,7 +19534,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Nørrevang 7,6862, Tistrup,133970 ,01-09-1996,Alm. Salg,137,978,4,1997,
 573,Villa,Langgade 9,6800, Varde,300000 ,01-09-1996,Alm. Salg,106,2830,3,1975,
 573,Villa,Glistrupsvej 31,6800, Varde,575000 ,01-09-1996,Alm. Salg,110,5227,4,1959,
-573,Villa,Dalgårdsvej 3C,6840, Oksbøl,325000 ,01-09-1996,Alm. Salg,102,3186,3,0,
 573,Villa,Vr Bjerremosevej 22,6800, Varde,770000 ,30-08-1996,Alm. Salg,240,3208,5,1920,
 573,Villa,Lundgade 7,6800, Varde,315000 ,30-08-1996,Alm. Salg,135,2333,8,1880,
 573,Villa,Lydumvej 65,6830, Nørre Nebel,273400 ,29-08-1996,Alm. Salg,158,1730,4,1942,
@@ -20181,7 +19798,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Lindegade 15,6823, Ansager,363000 ,06-06-1996,Alm. Salg,208,1745,4,1919,
 573,Villa,Mallevej 87,6800, Varde,370000 ,06-06-1996,Alm. Salg,132,2803,3,1936,
 573,Villa,Kirkestien 7,6851, Janderup Vestj,628000 ,06-06-1996,Alm. Salg,200,3140,9,1976,
-573,Villa,Møllevej 2A,6800, Varde,516000 ,06-06-1996,Alm. Salg,127,4063,4,2010,
 573,Ejerlejlighed,"Nygade 13B, 2. tv",6800, Varde,308000 ,05-06-1996,Alm. Salg,40,7700,1,1936,
 573,Villa,Stationsbakken 43,6870, Ølgod,345000 ,05-06-1996,Alm. Salg,175,1971,5,1963,
 573,Villa,Hovborgvej 75,7200, Grindsted,388000 ,05-06-1996,Alm. Salg,137,2832,3,1955,
@@ -20290,7 +19906,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Lykkesvej 4,6800, Varde,532000 ,24-04-1996,Alm. Salg,111,4793,2,1935,
 573,Villa,Tranevænget 9,6830, Nørre Nebel,792000 ,24-04-1996,Alm. Salg,134,5910,4,1978,
 573,Villa,Tarmvej 9,6870, Ølgod,660000 ,23-04-1996,Alm. Salg,368,1793,7,1972,
-573,Rækkehus,Smedegade 37,6800, Varde,1300000 ,22-04-1996,Alm. Salg,66,19697,2,1957,
 573,Villa,Skovduevej 2,6800, Varde,760000 ,22-04-1996,Alm. Salg,98,7755,3,1975,
 573,Villa,Blomstervangen 38,6800, Varde,467951 ,22-04-1996,Alm. Salg,139,3367,4,1978,
 573,Villa,Vesterhavsvej 39,6852, Billum,275000 ,22-04-1996,Alm. Salg,180,1528,8,1950,
@@ -20468,8 +20083,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Knoldeflodvej 95,6800, Varde,325000 ,18-02-1996,Alm. Salg,137,2372,4,1935,
 573,Villa,Nyvang 10,6818, Årre,375000 ,17-02-1996,Fam. Salg,134,2799,4,1967,
 573,Villa,Krusbjergvej 23,6870, Ølgod,250000 ,16-02-1996,Alm. Salg,149,1678,6,1960,
-573,Ejerlejlighed,Vestervold 30B,6800, Varde,700000 ,15-02-1996,Alm. Salg,60,11667,3,1909,
-573,Villa,Vestervold 30A,6800, Varde,700000 ,15-02-1996,Alm. Salg,100,7000,4,1909,
 573,Villa,Jernbanealle 29,7200, Grindsted,343000 ,15-02-1996,Alm. Salg,94,3649,4,1927,
 573,Rækkehus,Fyrrelunden 34,6800, Varde,795000 ,14-02-1996,Alm. Salg,100,7950,4,1977,
 573,Rækkehus,Vestervold 10,6800, Varde,595000 ,13-02-1996,Alm. Salg,89,6685,4,1964,
@@ -20635,10 +20248,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Vandmøllen 9,6800, Varde,1084430 ,05-12-1995,Alm. Salg,198,5477,5,1973,
 573,Villa,Vardevej 9,6800, Varde,209640 ,05-12-1995,Alm. Salg,109,1923,3,1951,
 573,Villa,Knoldeflodvej 89,6800, Varde,297500 ,05-12-1995,Fam. Salg,123,2419,4,1933,
-573,Rækkehus,Lundvej 176A,6800, Varde,1200000 ,04-12-1995,Alm. Salg,160,7500,4,1780,
 573,Ejerlejlighed,"Vestergade 34D, 1",6800, Varde,383300 ,04-12-1995,Alm. Salg,67,5721,2,1907,
 573,Villa,Solbakken 12,6800, Varde,290440 ,04-12-1995,Alm. Salg,128,2269,4,1950,
-573,Villa,Lundvej 174,6800, Varde,1200000 ,04-12-1995,Alm. Salg,69,17391,2,1902,
 573,Villa,Vestervænget 15,6800, Varde,245000 ,03-12-1995,Andet,119,2059,4,1973,
 573,Villa,Jupitervej 25,6800, Varde,143720 ,03-12-1995,Alm. Salg,144,998,5,1996,
 573,Villa,Vardevej 16,6870, Ølgod,471250 ,01-12-1995,Alm. Salg,175,2693,6,1918,
@@ -20843,15 +20454,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Lønnehedevej 10,6830, Nørre Nebel,618250 ,03-09-1995,Alm. Salg,135,4580,5,1883,
 573,Villa,Storegade 80,6855, Outrup,260000 ,03-09-1995,Alm. Salg,87,2989,4,1936,
 573,Villa,Fiskervænget 5,6830, Nørre Nebel,200000 ,03-09-1995,Alm. Salg,108,1852,4,1938,
-573,Ejerlejlighed,Nikolaikirkestræde 24A,6800, Varde,1340000 ,31-08-1995,Andet,55,24364,2,1990,
-573,Ejerlejlighed,Nikolaikirkestræde 24B,6800, Varde,1340000 ,31-08-1995,Andet,55,24364,2,1990,
-573,Ejerlejlighed,"Nørregade 10A, st. th",6800, Varde,1340000 ,31-08-1995,Andet,65,20615,2,1910,
-573,Ejerlejlighed,"Nørregade 10A, st. tv",6800, Varde,1340000 ,31-08-1995,Andet,48,27917,2,1910,
-573,Ejerlejlighed,"Nørregade 10A, 1. th",6800, Varde,1340000 ,31-08-1995,Andet,65,20615,2,1910,
-573,Ejerlejlighed,"Nørregade 10A, 2. th",6800, Varde,1340000 ,31-08-1995,Andet,45,29778,1,1910,
-573,Ejerlejlighed,"Nørregade 10A, 1. tv",6800, Varde,1340000 ,31-08-1995,Andet,48,27917,2,1910,
-573,Ejerlejlighed,Nørregade 10B,6800, Varde,1340000 ,31-08-1995,Andet,78,17179,3,1990,
-573,Ejerlejlighed,"Nørregade 10A, 2. tv",6800, Varde,1340000 ,31-08-1995,Andet,45,29778,1,1910,
 573,Villa,Vardevej 51,6862, Tistrup,412020 ,31-08-1995,Alm. Salg,135,3052,5,1940,
 573,Villa,Møllegårdsvej 5,6862, Tistrup,664000 ,31-08-1995,Alm. Salg,130,5108,3,1971,
 573,Villa,Løkkevang 1,6870, Ølgod,626000 ,31-08-1995,Alm. Salg,116,5397,4,1979,
@@ -20859,8 +20461,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Nr Alle 64,6870, Ølgod,310830 ,29-08-1995,Alm. Salg,104,2989,4,1952,
 573,Ejerlejlighed,"Vesterport 2A, st. tv",6800, Varde,395000 ,28-08-1995,Alm. Salg,61,6475,2,1987,
 573,Villa,Dalgårdsvej 20,6840, Oksbøl,860000 ,28-08-1995,Alm. Salg,200,4300,6,1965,
-573,Ejerlejlighed,Rønnealle 2,6851, Janderup Vestj,260000 ,27-08-1995,Auktion,50,5200,2,1877,
-573,Ejerlejlighed,Vesterled 21,6851, Janderup Vestj,260000 ,27-08-1995,Auktion,140,1857,4,1877,
 573,Villa,Solsortevej 4,6800, Varde,635000 ,27-08-1995,Alm. Salg,146,4349,4,1972,
 573,Villa,Gyvellunden 75,6800, Varde,849920 ,27-08-1995,Alm. Salg,115,7391,4,1986,
 573,Villa,Fåborgvej 100,6753, Agerbæk,240000 ,27-08-1995,Alm. Salg,124,1935,3,1942,
@@ -21286,7 +20886,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Vesterled 64,6851, Janderup Vestj,520000 ,16-03-1995,Alm. Salg,148,3514,6,1929,
 573,Villa,Solsortevej 8,6851, Janderup Vestj,532000 ,15-03-1995,Alm. Salg,128,4156,4,1971,
 573,Ejerlejlighed,"Torvet 16D, 1",6870, Ølgod,210000 ,14-03-1995,Alm. Salg,130,1615,4,1988,
-573,Villa,Nikolaikirkestræde 1,6800, Varde,1492512 ,14-03-1995,Alm. Salg,96,15547,3,1900,
 573,Villa,Skolegade 2,6830, Nørre Nebel,225046 ,14-03-1995,Fam. Salg,163,1381,5,1902,
 573,Villa,Industrivej 32,6870, Ølgod,895000 ,14-03-1995,Alm. Salg,235,2906,7,1980,
 573,Villa,Nymandsgade 23,6870, Ølgod,390000 ,14-03-1995,Alm. Salg,95,4105,3,1951,
@@ -21306,11 +20905,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Uranusvej 1,6800, Varde,119484 ,07-03-1995,Alm. Salg,133,898,5,1995,
 573,Villa,Åkirkevej 7,6851, Janderup Vestj,324737 ,07-03-1995,Alm. Salg,210,1546,7,1930,
 573,Villa,Præstegaardsvej 13,6840, Oksbøl,446000 ,07-03-1995,Alm. Salg,138,3232,4,1969,
-573,Ejerlejlighed,Slotsgade 2C,6870, Ølgod,612000 ,06-03-1995,Alm. Salg,87,7034,2,1900,
-573,Ejerlejlighed,Slotsgade 2A,6870, Ølgod,612000 ,06-03-1995,Alm. Salg,90,6800,3,1900,
-573,Ejerlejlighed,Østerbro 23,6870, Ølgod,612000 ,06-03-1995,Alm. Salg,72,8500,2,1900,
-573,Ejerlejlighed,"Østerbro 25, 1. th",6870, Ølgod,612000 ,06-03-1995,Alm. Salg,53,11547,2,1900,
-573,Ejerlejlighed,"Østerbro 25, 1. tv",6870, Ølgod,612000 ,06-03-1995,Alm. Salg,154,3974,3,1900,
 573,Villa,Sct Gertrudsvej 5,6800, Varde,388520 ,06-03-1995,Alm. Salg,125,3108,6,1941,
 573,Villa,Søndervang 30,6840, Oksbøl,487220 ,05-03-1995,Alm. Salg,100,4872,4,1969,
 573,Villa,Debelvej 25,6855, Outrup,190000 ,05-03-1995,Alm. Salg,92,2065,4,1944,
@@ -21583,22 +21177,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Baldersvej 4,6862, Tistrup,755010 ,09-11-1994,Alm. Salg,195,3872,7,1978,
 573,Rækkehus,Sydslunden 22,6800, Varde,411020 ,08-11-1994,Alm. Salg,78,5269,3,1987,
 573,Rækkehus,Isbjerg Møllevej 84,6800, Varde,465000 ,08-11-1994,Alm. Salg,150,3100,5,2012,
-573,Ejerlejlighed,"Vinkelvej 19, 1. tv",6800, Varde,2400000 ,08-11-1994,Alm. Salg,82,29268,3,1944,
-573,Ejerlejlighed,"Vinkelvej 19, 1. th",6800, Varde,2400000 ,08-11-1994,Alm. Salg,64,37500,3,1944,
-573,Ejerlejlighed,"Vinkelvej 21, st. th",6800, Varde,2400000 ,08-11-1994,Alm. Salg,56,42857,2,1944,
-573,Ejerlejlighed,"Vinkelvej 21, st. tv",6800, Varde,2400000 ,08-11-1994,Alm. Salg,64,37500,3,1944,
-573,Ejerlejlighed,"Vinkelvej 21, 1. th",6800, Varde,2400000 ,08-11-1994,Alm. Salg,56,42857,2,1944,
-573,Ejerlejlighed,"Vinkelvej 21, 1. tv",6800, Varde,2400000 ,08-11-1994,Alm. Salg,64,37500,3,1944,
-573,Ejerlejlighed,"Vinkelvej 19, st. th",6800, Varde,2400000 ,08-11-1994,Alm. Salg,64,37500,3,1944,
-573,Ejerlejlighed,"Vinkelvej 19, st. tv",6800, Varde,2400000 ,08-11-1994,Alm. Salg,82,29268,3,1944,
-573,Ejerlejlighed,"Kildevej 4A, st. th",6800, Varde,2400000 ,08-11-1994,Alm. Salg,65,36923,3,1944,
-573,Ejerlejlighed,"Kildevej 4A, st. tv",6800, Varde,2400000 ,08-11-1994,Alm. Salg,55,43636,2,1944,
-573,Ejerlejlighed,"Kildevej 4B, st. th",6800, Varde,2400000 ,08-11-1994,Alm. Salg,55,43636,2,1944,
-573,Ejerlejlighed,"Kildevej 4B, 1. tv",6800, Varde,2400000 ,08-11-1994,Alm. Salg,65,36923,3,1944,
-573,Ejerlejlighed,"Kildevej 4A, 1. tv",6800, Varde,2400000 ,08-11-1994,Alm. Salg,55,43636,2,1944,
-573,Ejerlejlighed,"Kildevej 4B, st. tv",6800, Varde,2400000 ,08-11-1994,Alm. Salg,65,36923,3,1944,
-573,Ejerlejlighed,"Kildevej 4A, 1. th",6800, Varde,2400000 ,08-11-1994,Alm. Salg,65,36923,3,1944,
-573,Ejerlejlighed,"Kildevej 4B, 1. th",6800, Varde,2400000 ,08-11-1994,Alm. Salg,55,43636,2,1944,
 573,Villa,Siggårdsvej 9,6818, Årre,907500 ,08-11-1994,Alm. Salg,188,4827,5,1977,
 573,Villa,Rømøvej 8,6852, Billum,350000 ,08-11-1994,Andet,216,1620,8,1976,
 573,Villa,Kirkebyvej 11,6852, Billum,260000 ,07-11-1994,Alm. Salg,232,1121,5,1924,
@@ -21652,9 +21230,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Kildevej 7,6800, Varde,350000 ,14-10-1994,Alm. Salg,146,2397,5,1930,
 573,Villa,Sct Gertrudsvej 27,6800, Varde,725000 ,14-10-1994,Alm. Salg,175,4143,5,1971,
 573,Rækkehus,Vestergade 64,6870, Ølgod,200000 ,13-10-1994,Alm. Salg,69,2899,3,1910,
-573,Ejerlejlighed,"Storegade 62, 1",6855, Outrup,126000 ,13-10-1994,Alm. Salg,58,2172,2,1907,
 573,Villa,Spurvevej 1,6851, Janderup Vestj,775000 ,13-10-1994,Alm. Salg,155,5000,6,1970,
-573,Villa,"Storegade 62, st",6855, Outrup,126000 ,13-10-1994,Alm. Salg,85,1482,3,1907,
 573,Rækkehus,Storegade 56,6862, Tistrup,228000 ,12-10-1994,Alm. Salg,82,2780,3,1926,
 573,Ejerlejlighed,"Søndergade 2, 1",6823, Ansager,2350000 ,12-10-1994,Alm. Salg,16,146875,1,1907,
 573,Villa,Agervigvej 23,6800, Varde,714100 ,12-10-1994,Alm. Salg,198,3607,6,1974,
@@ -22321,8 +21897,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Søndergade 17,6855, Outrup,230000 ,02-01-1994,Alm. Salg,67,3433,3,1942,
 573,Villa,Tane Hedevej 3C,6857, Blåvand,289000 ,02-01-1994,Fam. Salg,136,2125,4,2016,
 573,Rækkehus,Tyttebærvej 24,6870, Ølgod,330000 ,29-12-1993,Alm. Salg,103,3204,4,1977,
-573,Ejerlejlighed,Forumvej 2C,6800, Varde,395800 ,29-12-1993,Alm. Salg,86,4602,2,1972,
-573,Ejerlejlighed,"Bredgade 29, 1",6800, Varde,395800 ,29-12-1993,Alm. Salg,86,4602,3,1972,
 573,Villa,Vestparken 62,6840, Oksbøl,565000 ,29-12-1993,Alm. Salg,303,1865,7,1977,
 573,Rækkehus,Ved Banen 4,6800, Varde,585429 ,27-12-1993,Alm. Salg,116,5047,4,1976,
 573,Villa,Vesterhavsvej 295,6830, Nørre Nebel,360000 ,26-12-1993,Alm. Salg,155,2323,7,1949,
@@ -22418,13 +21992,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Byvejen 14,6818, Årre,392000 ,10-11-1993,Alm. Salg,184,2130,5,2020,
 573,Villa,Engvej 7,6862, Tistrup,96280 ,10-11-1993,Alm. Salg,144,669,5,1994,
 573,Villa,Engvej 13,6862, Tistrup,105080 ,10-11-1993,Alm. Salg,162,649,5,1995,
-573,Ejerlejlighed,Vestre Landevej 32D,6800, Varde,558871 ,09-11-1993,Alm. Salg,87,6424,1,1900,
-573,Ejerlejlighed,"Isbjerg Møllevej 1A, 1",6800, Varde,558871 ,09-11-1993,Alm. Salg,72,7762,3,1900,
-573,Ejerlejlighed,"Isbjerg Møllevej 1A, st",6800, Varde,558871 ,09-11-1993,Alm. Salg,87,6424,2,1900,
-573,Ejerlejlighed,Vestre Landevej 32A,6800, Varde,558871 ,09-11-1993,Alm. Salg,66,8468,3,1900,
-573,Ejerlejlighed,"Vestre Landevej 32C, st",6800, Varde,558871 ,09-11-1993,Alm. Salg,90,6210,1,1900,
-573,Ejerlejlighed,Vestre Landevej 32B,6800, Varde,558871 ,09-11-1993,Alm. Salg,69,8100,3,1900,
-573,Ejerlejlighed,"Vestre Landevej 32C, 1",6800, Varde,558871 ,09-11-1993,Alm. Salg,87,6424,2,1900,
 573,Villa,Neptunvej 27,6800, Varde,450000 ,09-11-1993,Alm. Salg,120,3750,3,1970,
 573,Villa,Smedegade 1,7200, Grindsted,453780 ,09-11-1993,Alm. Salg,167,2717,4,1962,
 573,Ejerlejlighed,"Nørrevold 11D, 1. th",6800, Varde,440000 ,08-11-1993,Alm. Salg,99,4444,3,1946,
@@ -22522,16 +22089,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Rækkehus,Voldsti 11,6800, Varde,192870 ,18-10-1993,Alm. Salg,65,2967,3,1900,
 573,Rækkehus,Vesterport 11,6800, Varde,400000 ,17-10-1993,Alm. Salg,111,3604,4,1890,
 573,Rækkehus,Nørregade 14,6800, Varde,325000 ,17-10-1993,Alm. Salg,96,3385,2,1828,
-573,Rækkehus,Tømmerpladsen 2C,6800, Varde,255000 ,17-10-1993,Auktion,88,2898,3,1900,
 573,Ejerlejlighed,"Storegade 17C, 2",6800, Varde,495000 ,17-10-1993,Alm. Salg,116,4267,4,1900,
-573,Ejerlejlighed,"Tømmerpladsen 2B, 1",6800, Varde,255000 ,17-10-1993,Auktion,78,3269,3,1900,
-573,Ejerlejlighed,"Sønderbro 15, 1. mf",6800, Varde,255000 ,17-10-1993,Auktion,32,7969,1,1900,
-573,Ejerlejlighed,"Sønderbro 15, 1. th",6800, Varde,255000 ,17-10-1993,Auktion,50,5100,2,1900,
-573,Ejerlejlighed,"Sønderbro 15, 1. tv",6800, Varde,255000 ,17-10-1993,Auktion,48,5313,2,1900,
-573,Ejerlejlighed,Tømmerpladsen 2D,6800, Varde,255000 ,17-10-1993,Auktion,88,2898,3,1900,
-573,Ejerlejlighed,"Sønderbro 15, st. tv",6800, Varde,255000 ,17-10-1993,Auktion,128,1992,2,1900,
-573,Ejerlejlighed,"Sønderbro 15, st. th",6800, Varde,255000 ,17-10-1993,Auktion,137,1861,3,1900,
-573,Ejerlejlighed,"Tømmerpladsen 2B, st",6800, Varde,255000 ,17-10-1993,Auktion,112,2277,2,1900,
 573,Villa,Markvænget 2,6800, Varde,660390 ,17-10-1993,Alm. Salg,117,5644,3,1973,
 573,Villa,Poghøjvej 3,6840, Oksbøl,171480 ,17-10-1993,Alm. Salg,90,1905,5,1964,
 573,Villa,Fanøvej 11,6852, Billum,290000 ,17-10-1993,Alm. Salg,176,1648,6,1974,
@@ -22574,13 +22132,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Aavangen 22,6800, Varde,457000 ,07-10-1993,Alm. Salg,123,3715,5,1958,
 573,Villa,Åparken 26,6823, Ansager,480000 ,07-10-1993,Alm. Salg,164,2927,7,1978,
 573,Villa,Kollevej 101,6830, Nørre Nebel,784500 ,07-10-1993,Alm. Salg,452,1662,9,1930,
-573,Ejerlejlighed,Storegade 4B,6753, Agerbæk,200000 ,06-10-1993,Alm. Salg,151,1325,9,1994,
-573,Ejerlejlighed,"Nørregade 3, 1",6753, Agerbæk,200000 ,06-10-1993,Alm. Salg,139,1439,3,1994,
-573,Ejerlejlighed,"Nørregade 5, 1. tv",6753, Agerbæk,200000 ,06-10-1993,Alm. Salg,79,2532,2,1994,
-573,Ejerlejlighed,"Nørregade 7, 1",6753, Agerbæk,200000 ,06-10-1993,Alm. Salg,139,1439,3,1994,
-573,Ejerlejlighed,"Nørregade 5, 1. th",6753, Agerbæk,200000 ,06-10-1993,Alm. Salg,78,2564,2,1994,
-573,Ejerlejlighed,Storegade 4C,6753, Agerbæk,200000 ,06-10-1993,Alm. Salg,130,1538,9,1994,
-573,Ejerlejlighed,Storegade 4A,6753, Agerbæk,200000 ,06-10-1993,Alm. Salg,130,1538,9,1994,
 573,Villa,Revlingevej 23,6800, Varde,1120000 ,06-10-1993,Alm. Salg,140,8000,6,1986,
 573,Villa,Mælkevejen 5,6800, Varde,325000 ,05-10-1993,Alm. Salg,205,1585,6,1909,
 573,Villa,Langhedevej 5,6800, Varde,540000 ,05-10-1993,Alm. Salg,100,5400,3,1957,
@@ -22621,7 +22172,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Birkehøjvej 7,7200, Grindsted,53391 ,20-09-1993,Alm. Salg,241,222,5,1908,
 573,Villa,Højvangsalle 6,6800, Varde,625000 ,19-09-1993,Alm. Salg,122,5123,4,1962,
 573,Villa,Vardevej 44,6818, Årre,550000 ,19-09-1993,Alm. Salg,190,2895,4,2021,
-573,Villa,Nørrevold 13A,6800, Varde,580000 ,19-09-1993,Alm. Salg,154,3766,6,1877,
 573,Villa,Tranevænget 91,6830, Nørre Nebel,86996 ,16-09-1993,Alm. Salg,141,617,4,1994,
 573,Villa,Elmealle 6,6753, Agerbæk,602000 ,16-09-1993,Alm. Salg,147,4095,4,1976,
 573,Villa,Krusbjergvej 90,6870, Ølgod,225000 ,16-09-1993,Alm. Salg,110,2045,4,1946,
@@ -22756,8 +22306,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Vesterled 12,6830, Nørre Nebel,675000 ,26-07-1993,Alm. Salg,165,4091,5,1975,
 573,Villa,Lynevej 70,6870, Ølgod,525000 ,26-07-1993,Alm. Salg,199,2638,5,1914,
 573,Villa,Tingvejen 285,7200, Grindsted,249000 ,25-07-1993,Alm. Salg,100,2490,3,2011,
-573,Rækkehus,Vestre Landevej 18,6800, Varde,830000 ,22-07-1993,Alm. Salg,215,3860,8,1917,
-573,Ejerlejlighed,"Vestre Landevej 18, 1",6800, Varde,830000 ,22-07-1993,Alm. Salg,50,16600,2,1917,
 573,Villa,Jægervænget 1,6800, Varde,709000 ,21-07-1993,Alm. Salg,150,4727,4,1972,
 573,Villa,Jægervænget 3,6800, Varde,812940 ,21-07-1993,Alm. Salg,147,5530,4,1972,
 573,Villa,Strandvejen 242,6854, Henne,200000 ,21-07-1993,Alm. Salg,106,1887,4,1952,
@@ -23090,11 +22638,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Hjertingvej 24,6800, Varde,375000 ,20-01-1993,Alm. Salg,77,4870,3,1930,
 573,Villa,Storegade 31,6855, Outrup,375000 ,20-01-1993,Alm. Salg,96,3906,2,1923,
 573,Ejerlejlighed,"Arnbjerggade 2A, 1",6800, Varde,168224 ,19-01-1993,Alm. Salg,90,1869,2,1966,
-573,Ejerlejlighed,Grødevej 19B,6823, Ansager,4400000 ,18-01-1993,Alm. Salg,58,75862,3,1904,
 573,Villa,Ryttervænget 16,6830, Nørre Nebel,500000 ,18-01-1993,Alm. Salg,120,4167,4,1976,
 573,Villa,Waldemarsgade 7,6870, Ølgod,240000 ,18-01-1993,Alm. Salg,104,2308,3,1953,
 573,Villa,Svanehøjvej 3,6870, Ølgod,230000 ,18-01-1993,Alm. Salg,160,1438,6,1918,
-573,Villa,Grødevej 19,6823, Ansager,4400000 ,18-01-1993,Alm. Salg,177,24859,5,2020,
 573,Villa,Kongsgaardsvej 3,6800, Varde,523600 ,18-01-1993,Alm. Salg,166,3154,6,1975,
 573,Villa,Lærkevej 3B,6862, Tistrup,430000 ,17-01-1993,Alm. Salg,104,4135,4,1967,
 573,Rækkehus,Sydslunden 11,6800, Varde,465000 ,15-01-1993,Alm. Salg,92,5054,5,1987,
@@ -23134,9 +22680,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Skødstrupvej 5,6840, Oksbøl,135000 ,16-12-1992,Alm. Salg,179,754,4,1996,
 573,Villa,Søparken 18,6862, Tistrup,625000 ,15-12-1992,Alm. Salg,193,3238,6,1982,
 573,Villa,Vestergade 19,6870, Ølgod,336000 ,15-12-1992,Alm. Salg,120,2800,7,1949,
-573,Ejerlejlighed,"Vestergade 5A, 1",6823, Ansager,65000 ,14-12-1992,Alm. Salg,78,833,2,1915,
-573,Ejerlejlighed,"Stationsvej 2F, st",6823, Ansager,65000 ,14-12-1992,Alm. Salg,53,1226,2,1915,
-573,Ejerlejlighed,"Stationsvej 2F, 1",6823, Ansager,65000 ,14-12-1992,Alm. Salg,73,890,2,1915,
 573,Villa,Vesterhavsvej 289,6830, Nørre Nebel,298000 ,14-12-1992,Alm. Salg,310,961,5,1962,
 573,Villa,Kærgårdsvej 15,6800, Varde,460000 ,14-12-1992,Alm. Salg,160,2875,5,1975,
 573,Villa,Vinkelvej 2,6800, Varde,505000 ,13-12-1992,Alm. Salg,140,3607,4,1956,
@@ -23294,9 +22837,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 573,Villa,Kærbjergvej 6,6753, Agerbæk,110000 ,14-09-1992,Alm. Salg,290,379,7,1997,
 573,Villa,Skråvejen 16,6851, Janderup Vestj,650000 ,14-09-1992,Alm. Salg,165,3939,7,1985,
 573,Rækkehus,Østergade 40B,6823, Ansager,475000 ,13-09-1992,Alm. Salg,133,3571,5,1980,
-573,Ejerlejlighed,"Vestergade 5A, 1",6823, Ansager,550000 ,13-09-1992,Alm. Salg,78,7051,2,1915,
-573,Ejerlejlighed,"Stationsvej 2F, st",6823, Ansager,550000 ,13-09-1992,Alm. Salg,53,10377,2,1915,
-573,Ejerlejlighed,"Stationsvej 2F, 1",6823, Ansager,550000 ,13-09-1992,Alm. Salg,73,7534,2,1915,
 573,Villa,Tarpvej 50,6830, Nørre Nebel,365000 ,13-09-1992,Alm. Salg,202,1807,7,1920,
 573,Villa,Enghavevej 13,6870, Ølgod,400000 ,13-09-1992,Alm. Salg,94,4255,4,1960,
 573,Villa,Solvænget 20,6870, Ølgod,533867 ,11-09-1992,Alm. Salg,194,2752,6,1978,

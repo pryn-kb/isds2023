@@ -61,8 +61,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 482,Ejerlejlighed,"Færgevej 7, st. th",5935, Bagenkop,1625000 ,09-10-2022,Alm. Salg,92,17663,3,2008,-1%
 482,Villa,Fredsbjergvej 2,5935, Bagenkop,385000 ,07-10-2022,Alm. Salg,100,3850,4,1959,-22%
 482,Villa,Strandengen 9,5900, Rudkøbing,745000 ,06-10-2022,Alm. Salg,196,3801,7,2023,
-482,Rækkehus,Bøstrupvej 26,5953, Tranekær,150000 ,05-10-2022,Alm. Salg,62,2419,2,1877,
-482,Villa,Bøstrupvej 26A,5953, Tranekær,150000 ,05-10-2022,Alm. Salg,100,1500,3,1951,
 482,Villa,Ristingevej 173,5932, Humble,1100000 ,04-10-2022,Alm. Salg,128,8594,3,1977,
 482,Villa,Kastanievej 3,5900, Rudkøbing,1820000 ,02-10-2022,Alm. Salg,137,13285,4,2005,
 482,Villa,Brandsbyvej 14,5932, Humble,875000 ,29-09-2022,Alm. Salg,141,6206,4,1939,-12%
@@ -91,7 +89,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 482,Villa,Tryggelev 80,5932, Humble,976000 ,08-09-2022,Alm. Salg,160,6100,5,1777,12%
 482,Villa,Ringgade 2,5943, Strynø,1795000 ,07-09-2022,Alm. Salg,188,9548,6,1870,
 482,Villa,Nordenbro 14,5932, Humble,700000 ,04-09-2022,Alm. Salg,53,13208,2,1850,0%
-482,Villa,Rathvej 8A,5935, Bagenkop,5500000 ,04-09-2022,Alm. Salg,135,40741,6,1905,-8%
 482,Villa,Tre Høje 9,5932, Humble,1800000 ,31-08-2022,Alm. Salg,159,11321,5,1931,-10%
 482,Villa,Højetoftevej 37,5932, Humble,790000 ,30-08-2022,Alm. Salg,135,5852,4,1967,
 482,Villa,Annexstræde 12,5953, Tranekær,450000 ,29-08-2022,Alm. Salg,104,4327,4,1947,-5%
@@ -446,7 +443,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 482,Villa,Houvej 48,5953, Tranekær,437000 ,28-09-2021,Fam. Salg,177,2469,6,1924,
 482,Villa,Stormgade 10,5935, Bagenkop,645000 ,28-09-2021,Alm. Salg,94,6862,3,1904,
 482,Villa,Rifbjergvej 10,5900, Rudkøbing,750000 ,26-09-2021,Alm. Salg,124,6048,5,1920,-6%
-482,Villa,Rue Mark 3,5900, Rudkøbing,2100000 ,23-09-2021,Alm. Salg,183,11475,5,1964,17%
 482,Rækkehus,Ramsherred 16,5900, Rudkøbing,495000 ,21-09-2021,Alm. Salg,77,6429,3,1896,
 482,Villa,Elmevej 8,5953, Tranekær,975000 ,21-09-2021,Alm. Salg,252,3869,9,1979,-2%
 482,Villa,Hallinggade 14,5932, Humble,298000 ,21-09-2021,Alm. Salg,144,2069,8,1907,
@@ -1149,8 +1145,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 482,Villa,Langegade 28,5900, Rudkøbing,350000 ,12-01-2020,Andet,113,3097,4,1960,
 482,Villa,Ellehaven 23,5932, Humble,725000 ,12-01-2020,Alm. Salg,135,5370,5,1970,-12%
 482,Villa,Brandsbyvej 18,5932, Humble,75000 ,09-01-2020,Alm. Salg,154,487,5,1877,
-482,Rækkehus,Langegade 14B,5900, Rudkøbing,525000 ,08-01-2020,Auktion,77,6818,2,1900,
-482,Villa,Langegade 14,5900, Rudkøbing,525000 ,08-01-2020,Auktion,201,2612,6,1755,
 482,Villa,Hennetvedvej 10,5900, Rudkøbing,150000 ,08-01-2020,Alm. Salg,82,1829,3,1952,-49%
 482,Villa,Rolighedsvej 42,5900, Rudkøbing,630000 ,08-01-2020,Alm. Salg,105,6000,5,1952,-9%
 482,Villa,Skrøbelev Hedevej 15,5900, Rudkøbing,1595000 ,08-01-2020,Alm. Salg,295,5407,10,1902,
@@ -1796,7 +1790,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 482,Villa,Tryggelev 55,5932, Humble,750000 ,21-10-2017,Alm. Salg,110,6818,4,1825,-6%
 482,Villa,Østergade 7,5935, Bagenkop,645000 ,20-10-2017,Alm. Salg,171,3772,6,1895,-7%
 482,Villa,Ristingevej 45,5932, Humble,450000 ,17-10-2017,Alm. Salg,60,7500,1,1862,-7%
-482,Villa,Havnegade 30A,5900, Rudkøbing,700000 ,17-10-2017,Alm. Salg,63,11111,2,1900,
 482,Villa,Hovedgaden 9,5932, Humble,275000 ,16-10-2017,Alm. Salg,140,1964,4,1896,-30%
 482,Rækkehus,Spodsbjergvej 62,5900, Rudkøbing,695000 ,15-10-2017,Alm. Salg,85,8176,3,1950,
 482,Villa,Houvej 50,5953, Tranekær,400000 ,13-10-2017,Fam. Salg,166,2410,5,1925,
@@ -1913,9 +1906,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 482,Villa,Stengadevej 18,5953, Tranekær,1850000 ,09-06-2017,Alm. Salg,208,8894,7,1875,-7%
 482,Villa,Ristingevej 15,5932, Humble,175000 ,04-06-2017,Alm. Salg,102,1716,3,1960,
 482,Villa,Østerskovvej 5,5932, Humble,455000 ,31-05-2017,Alm. Salg,96,4740,3,1909,-8%
-482,Ejerlejlighed,Rolighedsvej 27B,5900, Rudkøbing,1700000 ,30-05-2017,Alm. Salg,43,39535,1,1927,
 482,Villa,Korsvej 9,5953, Tranekær,1050000 ,30-05-2017,Alm. Salg,213,4930,9,1900,-12%
-482,Villa,Rolighedsvej 27A,5900, Rudkøbing,1700000 ,30-05-2017,Alm. Salg,131,12977,5,1927,
 482,Villa,Byskrivervej 7,5900, Rudkøbing,1225000 ,30-05-2017,Alm. Salg,129,9496,5,1975,
 482,Villa,Søndre Landevej 41,5900, Rudkøbing,150000 ,25-05-2017,Alm. Salg,91,1648,3,1951,-49%
 482,Villa,Emmerbøllevej 10,5953, Tranekær,250000 ,24-05-2017,Fam. Salg,61,4098,4,1779,
@@ -1925,14 +1916,12 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 482,Villa,Nørrebro 84,5900, Rudkøbing,675000 ,17-05-2017,Andet,148,4561,5,1932,
 482,Villa,Lejbøllevej 54,5953, Tranekær,175000 ,17-05-2017,Alm. Salg,246,711,7,1877,-41%
 482,Villa,Lille Snødevej 27,5953, Tranekær,345000 ,17-05-2017,Alm. Salg,95,3632,4,1917,-30%
-482,Villa,Rathvej 8A,5935, Bagenkop,4200000 ,16-05-2017,Alm. Salg,135,31111,6,1905,-30%
 482,Villa,Svalebøllevej 7,5953, Tranekær,150000 ,14-05-2017,Fam. Salg,110,1364,4,1877,
 482,Villa,Spodsbjergvej 138,5900, Rudkøbing,875000 ,10-05-2017,Andet,163,5368,4,1900,
 482,Villa,Peløkkevej 21,5900, Rudkøbing,975000 ,10-05-2017,Alm. Salg,120,8125,4,1968,-10%
 482,Villa,Broløkken 18,5900, Rudkøbing,237250 ,10-05-2017,Andet,139,1707,5,1968,
 482,Rækkehus,Kirkegaardsvej 10,5900, Rudkøbing,1631000 ,03-05-2017,Alm. Salg,113,14434,4,1887,9%
 482,Villa,Stoensevej 40,5953, Tranekær,81750 ,03-05-2017,Auktion,117,699,5,1877,
-482,Villa,Skovbakken 18,5900, Rudkøbing,395000 ,03-05-2017,Alm. Salg,70,5643,3,1952,-50%
 482,Villa,Løkkebyvej 33,5953, Tranekær,349532 ,30-04-2017,Fam. Salg,117,2987,4,1952,
 482,Villa,Spodsbjergvej 222,5900, Rudkøbing,165000 ,28-04-2017,Alm. Salg,109,1514,3,1867,
 482,Villa,Chr Kiilsgaards Vej 6,5900, Rudkøbing,1085000 ,26-04-2017,Alm. Salg,111,9775,4,1969,-1%
@@ -1947,7 +1936,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 482,Rækkehus,Kirkegaardsvej 22,5900, Rudkøbing,745000 ,13-04-2017,Alm. Salg,79,9430,3,1910,
 482,Villa,Møllevejen 6A,5943, Strynø,1500000 ,13-04-2017,Alm. Salg,196,7653,4,1888,
 482,Villa,Blandebjerg 4,5900, Rudkøbing,195000 ,12-04-2017,Alm. Salg,97,2010,6,1896,-13%
-482,Villa,Snagestræde 1,5953, Tranekær,1260000 ,09-04-2017,Alm. Salg,307,4104,6,1800,
 482,Rækkehus,Rosenvænget 23,5900, Rudkøbing,925000 ,06-04-2017,Alm. Salg,77,12013,3,1981,
 482,Villa,Østergade 20,5953, Tranekær,335000 ,05-04-2017,Alm. Salg,121,2769,4,1960,-21%
 482,Villa,Kværnen 14,5900, Rudkøbing,1175000 ,05-04-2017,Alm. Salg,139,8453,5,1978,-13%
@@ -2113,7 +2101,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 482,Ejerlejlighed,"Havnepladsen 7B, 2. th",5900, Rudkøbing,1825000 ,15-08-2016,Alm. Salg,63,28968,2,1933,-9%
 482,Villa,Blegholmsvej 4,5953, Tranekær,165000 ,14-08-2016,Alm. Salg,102,1618,3,1900,-27%
 482,Villa,Abildgaardsvænget 4,5900, Rudkøbing,550000 ,14-08-2016,Alm. Salg,149,3691,6,1965,-21%
-482,Rækkehus,Ramsherred 25,5900, Rudkøbing,1200000 ,10-08-2016,Alm. Salg,102,11765,3,1877,-4%
 482,Villa,Østerhusevej 1,5953, Tranekær,790000 ,10-08-2016,Alm. Salg,58,13621,3,1850,
 482,Villa,Egestien 1,5953, Tranekær,240000 ,09-08-2016,Alm. Salg,82,2927,3,1925,
 482,Villa,Blandebjerg 10,5900, Rudkøbing,950000 ,09-08-2016,Alm. Salg,233,4077,3,1850,-5%
@@ -2194,8 +2181,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 482,Villa,Helletoftevej 7,5953, Tranekær,695000 ,18-04-2016,Alm. Salg,140,4964,4,1911,-4%
 482,Villa,Nordenbro 18A,5932, Humble,195000 ,17-04-2016,Alm. Salg,96,2031,3,1966,
 482,Villa,Smedegade 4,5953, Tranekær,50000 ,14-04-2016,Andet,82,610,3,1905,
-482,Rækkehus,Bøstrupvej 26,5953, Tranekær,7000 ,12-04-2016,Auktion,62,113,2,1877,
-482,Villa,Bøstrupvej 26A,5953, Tranekær,7000 ,12-04-2016,Auktion,100,70,3,1951,
 482,Villa,Rosenvænget 2,5900, Rudkøbing,705000 ,12-04-2016,Alm. Salg,110,6409,4,1961,9%
 482,Villa,Ringvejen 8,5900, Rudkøbing,558310 ,10-04-2016,Fam. Salg,121,4614,5,1946,
 482,Villa,Lindevej 4,5953, Tranekær,550000 ,06-04-2016,Alm. Salg,157,3503,7,1800,-4%
@@ -2317,7 +2302,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 482,Villa,Egevej 1,5953, Tranekær,518153 ,21-09-2015,Alm. Salg,156,3321,4,1976,
 482,Villa,Hedevejen 10,5932, Humble,176175 ,21-09-2015,Fam. Salg,112,1573,5,1877,
 482,Villa,Pederstrupvej 16,5900, Rudkøbing,370000 ,16-09-2015,Alm. Salg,68,5441,3,1900,-7%
-482,Villa,Nørregade 17A,5900, Rudkøbing,3750000 ,15-09-2015,Alm. Salg,110,34091,4,1870,
 482,Villa,Bøstrupvej 27,5953, Tranekær,395000 ,14-09-2015,Alm. Salg,132,2992,6,1962,
 482,Villa,Fredensvej 22,5953, Tranekær,350000 ,14-09-2015,Alm. Salg,79,4430,5,1922,-22%
 482,Rækkehus,Nørrebro 116,5900, Rudkøbing,275000 ,13-09-2015,Alm. Salg,88,3125,4,1900,-44%
@@ -2487,10 +2471,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 482,Villa,Drejet 42,5900, Rudkøbing,853300 ,29-12-2014,Alm. Salg,161,5300,6,1931,-22%
 482,Villa,Viebæltet 27A,5900, Rudkøbing,895000 ,18-12-2014,Alm. Salg,132,6780,3,1962,-10%
 482,Villa,"Kronens Have 14, st",5953, Tranekær,100000 ,18-12-2014,Andet,243,412,6,2015,
-482,Rækkehus,Havnegade 26,5900, Rudkøbing,53754145 ,16-12-2014,Alm. Salg,159,338076,6,1887,
 482,Villa,Stoense Udflyttervej 9,5953, Tranekær,1375000 ,16-12-2014,Alm. Salg,167,8234,4,1870,-5%
 482,Villa,Fæbækvej 3,5953, Tranekær,6700000 ,16-12-2014,Alm. Salg,164,40854,4,1925,
-482,Villa,"Strandlystvej 11, st",5900, Rudkøbing,53754145 ,16-12-2014,Alm. Salg,93,578002,3,1900,
 482,Villa,Ristingevej 39,5932, Humble,98377 ,15-12-2014,Fam. Salg,100,984,3,1961,
 482,Villa,Vandværksvej 7,5953, Tranekær,210000 ,09-12-2014,Alm. Salg,80,2625,3,1962,-29%
 482,Villa,Broløkken 36,5900, Rudkøbing,1220000 ,09-12-2014,Alm. Salg,110,11091,4,1964,
@@ -2509,9 +2491,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 482,Villa,Dageløkkevej 21,5953, Tranekær,1400000 ,09-11-2014,Alm. Salg,164,8537,3,1943,-22%
 482,Villa,Fiskervænget 4,5900, Rudkøbing,575000 ,09-11-2014,Alm. Salg,113,5088,5,1977,
 482,Villa,Skrøbelev Kirkevej 16,5900, Rudkøbing,500000 ,06-11-2014,Andet,153,3268,5,1962,
-482,Rækkehus,Bygaden 76A,5953, Tranekær,187998 ,04-11-2014,Auktion,126,1492,3,1966,
 482,Villa,Lohalsvej 16,5953, Tranekær,172951 ,04-11-2014,Auktion,89,1943,3,1896,
-482,Villa,Bygaden 76C,5953, Tranekær,187998 ,04-11-2014,Auktion,193,974,7,1877,
 482,Villa,Østervej 13,5935, Bagenkop,435000 ,27-10-2014,Fam. Salg,84,5179,5,1875,
 482,Villa,Lundevej 2,5935, Bagenkop,556000 ,27-10-2014,Alm. Salg,136,4088,5,1877,
 482,Villa,Annexstræde 14,5953, Tranekær,337500 ,26-10-2014,Andet,106,3184,5,1951,-56%
@@ -2562,7 +2542,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 482,Villa,Houvej 29,5953, Tranekær,550000 ,25-08-2014,Alm. Salg,138,3986,5,1859,-42%
 482,Villa,Strandgade 13A,5900, Rudkøbing,714000 ,20-08-2014,Fam. Salg,125,5712,5,1928,
 482,Villa,Kirkevej 12,5943, Strynø,550000 ,20-08-2014,Alm. Salg,90,6111,4,1898,-24%
-482,Rækkehus,"Nørrebro 110A, st",5900, Rudkøbing,120000 ,19-08-2014,Auktion,122,984,5,1889,
 482,Villa,Ourevej 15,5932, Humble,400000 ,15-08-2014,Fam. Salg,125,3200,4,1953,
 482,Villa,Østergade 1,5935, Bagenkop,200000 ,14-08-2014,Alm. Salg,120,1667,3,1948,
 482,Rækkehus,Ramsherred 79,5900, Rudkøbing,1300000 ,13-08-2014,Alm. Salg,145,8966,2,1899,-6%
@@ -2598,7 +2577,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 482,Villa,Østerhusevej 20,5953, Tranekær,79685 ,21-05-2014,Alm. Salg,95,839,3,1877,
 482,Villa,Østerhusevej 24,5953, Tranekær,135000 ,20-05-2014,Auktion,258,523,10,1917,
 482,Villa,Smedegade 14,5953, Tranekær,433500 ,17-05-2014,Fam. Salg,95,4563,5,1924,
-482,Villa,Skovbakken 18,5900, Rudkøbing,785000 ,14-05-2014,Alm. Salg,70,11214,3,1952,-9%
 482,Villa,Fuglsbøllevejen 11,5900, Rudkøbing,300000 ,11-05-2014,Alm. Salg,85,3529,2,1852,
 482,Villa,Slotsgade 42,5953, Tranekær,100000 ,11-05-2014,Alm. Salg,99,1010,4,1777,-31%
 482,Villa,Rolighedsvej 9,5900, Rudkøbing,1300000 ,08-05-2014,Alm. Salg,163,7975,7,1935,-13%
@@ -2891,7 +2869,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 482,Villa,Knolden 10,5900, Rudkøbing,1800000 ,04-11-2012,Fam. Salg,135,13333,4,1980,
 482,Villa,Hovedgaden 46,5932, Humble,67000 ,31-10-2012,Auktion,185,362,6,1885,
 482,Villa,Broløkken 23,5900, Rudkøbing,1015000 ,29-10-2012,Alm. Salg,90,11278,4,1966,-7%
-482,Villa,Havnegade 30A,5900, Rudkøbing,950000 ,24-10-2012,Fam. Salg,63,15079,2,1900,
 482,Villa,Lismosevej 27,5953, Tranekær,550000 ,24-10-2012,Alm. Salg,183,3005,5,1927,-15%
 482,Rækkehus,Nørrebro 108,5900, Rudkøbing,275000 ,23-10-2012,Fam. Salg,80,3438,4,1885,
 482,Villa,Ristingevej 52,5932, Humble,333333 ,23-10-2012,Andet,192,1736,6,1850,
@@ -3625,7 +3602,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 482,Rækkehus,Nørrebro 52,5900, Rudkøbing,625000 ,14-06-2009,Alm. Salg,85,7353,2,1880,-13%
 482,Villa,Humblevej 78C,5900, Rudkøbing,273145 ,14-06-2009,Fam. Salg,94,2906,5,1925,
 482,Villa,Spodsbjergvej 345,5900, Rudkøbing,1200000 ,08-06-2009,Alm. Salg,106,11321,5,1933,-25%
-482,Villa,Grønnegade 8B,5900, Rudkøbing,2104038 ,07-06-2009,Alm. Salg,84,25048,2,1900,
 482,Villa,Jens Winthers Vej 17,5900, Rudkøbing,560000 ,02-06-2009,Alm. Salg,117,4786,6,1908,-25%
 482,Villa,Løkkebyvej 34,5953, Tranekær,285000 ,01-06-2009,Alm. Salg,53,5377,2,1927,
 482,Villa,Elmevænget 9,5900, Rudkøbing,1825000 ,01-06-2009,Alm. Salg,128,14258,4,1988,-8%
@@ -3869,7 +3845,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 482,Villa,Vesterhusevej 9,5953, Tranekær,2100000 ,04-05-2008,Alm. Salg,188,11170,4,1884,
 482,Rækkehus,Rue 19,5900, Rudkøbing,1780000 ,03-05-2008,Alm. Salg,130,13692,4,1885,-5%
 482,Villa,Hennetvedvej 26,5900, Rudkøbing,1400000 ,01-05-2008,Alm. Salg,114,12281,5,1870,
-482,Rækkehus,Brogade 19B,5900, Rudkøbing,2175000 ,29-04-2008,Alm. Salg,102,21324,5,1850,
 482,Villa,Brandsbyvej 25,5932, Humble,575000 ,27-04-2008,Fam. Salg,82,7012,5,1827,
 482,Villa,Annexstræde 35,5953, Tranekær,1165000 ,27-04-2008,Alm. Salg,115,10130,4,1937,
 482,Villa,Snaremosevej 8,5900, Rudkøbing,350000 ,25-04-2008,Alm. Salg,94,3723,3,1900,-18%
@@ -3916,7 +3891,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 482,Villa,Vindebyvej 12,5900, Rudkøbing,900000 ,13-03-2008,Alm. Salg,216,4167,12,1887,-15%
 482,Rækkehus,Sidsel Bagers Gade 5,5900, Rudkøbing,1050000 ,12-03-2008,Alm. Salg,123,5250,6,1877,-4%
 482,Villa,Harresvej 16,5935, Bagenkop,1171000 ,11-03-2008,Fam. Salg,194,6036,7,1877,
-482,Rækkehus,Peløkkevej 1A,5900, Rudkøbing,2500000 ,10-03-2008,Alm. Salg,241,10373,6,1938,
 482,Villa,Humblevej 10,5932, Humble,1050000 ,09-03-2008,Alm. Salg,184,5707,7,1907,-4%
 482,Villa,Hjelmbjergvej 12,5900, Rudkøbing,163333 ,09-03-2008,Fam. Salg,88,1856,4,1900,
 482,Villa,Smedegade 13,5953, Tranekær,760000 ,08-03-2008,Alm. Salg,80,9500,4,1972,-5%
@@ -4029,7 +4003,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 482,Villa,Duevej 9,5932, Humble,1400000 ,14-10-2007,Alm. Salg,136,10294,5,1987,
 482,Villa,Ristingevej 35,5932, Humble,975000 ,11-10-2007,Alm. Salg,175,5571,8,1925,-9%
 482,Villa,Nordre Løkkebyvej 6,5953, Tranekær,1500000 ,11-10-2007,Alm. Salg,150,10000,6,1919,
-482,Rækkehus,"Nørrebro 110A, st",5900, Rudkøbing,575000 ,10-10-2007,Alm. Salg,122,4713,5,1889,
 482,Villa,Sommerlyst 28,5900, Rudkøbing,1395000 ,10-10-2007,Alm. Salg,139,10036,4,1953,
 482,Villa,Haveskovvej 15,5932, Humble,1000000 ,09-10-2007,Alm. Salg,159,6289,4,1877,
 482,Villa,Gillesbjergvej 16,5900, Rudkøbing,676000 ,09-10-2007,Alm. Salg,306,2209,6,1898,-60%
@@ -4247,7 +4220,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 482,Rækkehus,Reberbanen 12,5900, Rudkøbing,955000 ,15-04-2007,Alm. Salg,94,10160,3,1890,
 482,Rækkehus,Vesterby Mark 3,5900, Rudkøbing,415000 ,15-04-2007,Alm. Salg,83,5000,2,1877,
 482,Villa,Tressebøllevej 2,5953, Tranekær,625000 ,14-04-2007,Alm. Salg,140,4464,6,1907,
-482,Villa,Søndrevej 3,5943, Strynø,1915000 ,14-04-2007,Alm. Salg,269,7119,9,1896,
 482,Villa,Nordre Landevej 31,5900, Rudkøbing,995000 ,13-04-2007,Alm. Salg,129,7713,5,1935,
 482,Villa,Banevænget 10,5932, Humble,295500 ,12-04-2007,Alm. Salg,87,3397,3,1968,
 482,Villa,Lejbøllevej 6,5953, Tranekær,540000 ,12-04-2007,Alm. Salg,137,3942,6,1877,
@@ -4285,8 +4257,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 482,Villa,Spodsbjergvej 154,5900, Rudkøbing,665000 ,13-03-2007,Alm. Salg,120,5542,3,1949,
 482,Villa,Snøde Bygade 44,5953, Tranekær,875000 ,12-03-2007,Alm. Salg,175,5000,7,1827,
 482,Rækkehus,Reberbanen 10,5900, Rudkøbing,650000 ,11-03-2007,Alm. Salg,86,7558,4,1875,
-482,Ejerlejlighed,"Strandlystvej 11, 1",5900, Rudkøbing,835000 ,11-03-2007,Alm. Salg,124,6734,5,1900,
-482,Villa,"Strandlystvej 11, st",5900, Rudkøbing,835000 ,11-03-2007,Alm. Salg,93,8978,3,1900,
 482,Villa,Vinkældergade 18,5900, Rudkøbing,426615 ,10-03-2007,Andet,87,4904,4,1888,
 482,Villa,Ahornvej 5,5953, Tranekær,925000 ,07-03-2007,Alm. Salg,125,7400,4,1979,
 482,Villa,Snødevej 50,5953, Tranekær,345000 ,06-03-2007,Alm. Salg,125,2760,4,1917,
@@ -4317,7 +4287,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 482,Villa,Schnohrsvej 28,5900, Rudkøbing,1100000 ,30-01-2007,Alm. Salg,136,8088,4,1969,
 482,Villa,Dageløkkevej 4,5953, Tranekær,1050000 ,30-01-2007,Alm. Salg,190,5526,6,1908,
 482,Villa,Grønnegaardsvej 7,5900, Rudkøbing,775000 ,29-01-2007,Alm. Salg,107,7243,3,1880,
-482,Rækkehus,Egeløkkevej 8,5953, Tranekær,24650000 ,28-01-2007,Fam. Salg,185,123250,5,1890,
 482,Villa,Annexstræde 22,5953, Tranekær,625000 ,28-01-2007,Alm. Salg,102,6127,4,1966,
 482,Villa,Ellehaven 9,5932, Humble,675000 ,26-01-2007,Alm. Salg,100,6750,5,1970,
 482,Villa,Fladmose Stræde 4,5900, Rudkøbing,950000 ,25-01-2007,Alm. Salg,134,7090,3,1928,
@@ -4684,7 +4653,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 482,Villa,Helsnedvej 1A,5932, Humble,980000 ,05-04-2006,Alm. Salg,180,5444,6,1977,
 482,Villa,Snødevej 28,5953, Tranekær,575000 ,05-04-2006,Alm. Salg,164,3506,6,1827,
 482,Villa,Bøstrupvej 17,5953, Tranekær,680000 ,04-04-2006,Alm. Salg,168,4048,7,1968,
-482,Villa,Toldstien 4,5900, Rudkøbing,2670000 ,03-04-2006,Alm. Salg,57,46842,2,1905,
 482,Ejerlejlighed,"Færgevej 17, 1. tv",5935, Bagenkop,2148000 ,02-04-2006,Alm. Salg,128,16781,5,2008,
 482,Ejerlejlighed,"Færgevej 7, 1. th",5935, Bagenkop,2048000 ,02-04-2006,Alm. Salg,120,17067,5,2008,
 482,Villa,Lollesgaardsvej 4,5900, Rudkøbing,1440000 ,01-04-2006,Alm. Salg,141,10213,5,1898,
@@ -4749,7 +4717,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 482,Villa,Smedegade 15C,5953, Tranekær,1476000 ,06-02-2006,Alm. Salg,112,13179,3,2005,
 482,Villa,Nordstrandsvej 14C,5953, Tranekær,1650000 ,06-02-2006,Alm. Salg,135,12222,4,2005,
 482,Villa,Stoense Udflyttervej 26,5953, Tranekær,3650000 ,03-02-2006,Alm. Salg,116,31466,4,1877,
-482,Villa,Rathvej 8A,5935, Bagenkop,6000000 ,02-02-2006,Alm. Salg,135,44444,6,1905,
 482,Villa,Peløkkevej 18A,5900, Rudkøbing,840000 ,01-02-2006,Alm. Salg,99,8485,4,1980,
 482,Villa,Rifbjergvej 22,5900, Rudkøbing,675000 ,01-02-2006,Alm. Salg,320,2109,9,1888,
 482,Villa,Tom Knudsensvej 45,5953, Tranekær,119000 ,31-01-2006,Fam. Salg,82,1451,4,1877,
@@ -4762,9 +4729,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 482,Villa,Humblevej 81,5900, Rudkøbing,820000 ,29-01-2006,Alm. Salg,153,5359,5,1920,
 482,Villa,Stigtehaven 12,5953, Tranekær,448000 ,29-01-2006,Alm. Salg,156,2872,5,2008,
 482,Villa,Snødevej 64,5953, Tranekær,695000 ,27-01-2006,Alm. Salg,84,8274,4,1938,
-482,Ejerlejlighed,Rolighedsvej 27B,5900, Rudkøbing,1200000 ,26-01-2006,Alm. Salg,43,27907,1,1927,
 482,Villa,Æblevænget 10,5900, Rudkøbing,1004118 ,26-01-2006,Alm. Salg,131,7665,4,1967,
-482,Villa,Rolighedsvej 27A,5900, Rudkøbing,1200000 ,26-01-2006,Alm. Salg,131,9160,5,1927,
 482,Villa,Nørrebro 88,5900, Rudkøbing,1275000 ,25-01-2006,Alm. Salg,161,7919,4,1923,
 482,Villa,Klinten 10,5932, Humble,585000 ,25-01-2006,Fam. Salg,122,4795,6,1986,
 482,Villa,Vinkældervej 2,5953, Tranekær,380000 ,24-01-2006,Fam. Salg,174,2184,6,1823,
@@ -4801,8 +4766,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 482,Villa,Lohalsvej 13,5953, Tranekær,300000 ,02-01-2006,Alm. Salg,89,3371,4,1910,
 482,Villa,Stengade Strandvej 2A,5953, Tranekær,6500000 ,30-12-2005,Fam. Salg,129,50388,5,1961,
 482,Villa,Pilehaven 15B,5932, Humble,32500 ,30-12-2005,Alm. Salg,178,183,4,2009,
-482,Rækkehus,Bøstrupvej 26,5953, Tranekær,513000 ,28-12-2005,Alm. Salg,62,8274,2,1877,
-482,Villa,Bøstrupvej 26A,5953, Tranekær,513000 ,28-12-2005,Alm. Salg,100,5130,3,1951,
 482,Rækkehus,Peløkkevej 8,5900, Rudkøbing,580000 ,26-12-2005,Alm. Salg,126,4603,4,1877,
 482,Villa,Østerskovvej 38,5932, Humble,700000 ,24-12-2005,Alm. Salg,92,7609,3,1874,
 482,Villa,Østergade 45,5935, Bagenkop,390000 ,22-12-2005,Alm. Salg,71,5493,3,1943,
@@ -5117,9 +5080,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 482,Villa,Snødevej 122,5953, Tranekær,550000 ,03-05-2005,Alm. Salg,132,4167,5,1895,
 482,Villa,Pellemarken 19,5953, Tranekær,750000 ,03-05-2005,Alm. Salg,140,5357,3,1973,
 482,Villa,Stjernegade 3,5943, Strynø,500000 ,03-05-2005,Alm. Salg,105,4762,4,1890,
-482,Rækkehus,Bygaden 76A,5953, Tranekær,760000 ,02-05-2005,Alm. Salg,126,6032,3,1966,
 482,Villa,Vestervænget 19,5953, Tranekær,1250000 ,02-05-2005,Alm. Salg,114,10965,5,1980,
-482,Villa,Bygaden 76C,5953, Tranekær,760000 ,02-05-2005,Alm. Salg,193,3938,7,1877,
 482,Rækkehus,Reberbanen 22,5900, Rudkøbing,540000 ,01-05-2005,Alm. Salg,83,6506,3,1890,
 482,Villa,Vinkældervej 6,5953, Tranekær,985000 ,01-05-2005,Alm. Salg,170,5794,5,1924,
 482,Villa,Bøstrupvej 18,5953, Tranekær,300000 ,01-05-2005,Alm. Salg,100,3000,5,1892,
@@ -5209,10 +5170,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 482,Villa,Houvej 23,5953, Tranekær,106250 ,21-02-2005,Fam. Salg,90,1181,4,1852,
 482,Villa,Lejbøllevej 66,5953, Tranekær,410000 ,20-02-2005,Andet,140,2929,5,1872,
 482,Villa,Kløvervænget 12,5935, Bagenkop,788000 ,20-02-2005,Fam. Salg,189,4169,8,1966,
-482,Rækkehus,Bygaden 76A,5953, Tranekær,48300 ,16-02-2005,Alm. Salg,126,383,3,1966,
 482,Villa,Hennetvedvej 22,5900, Rudkøbing,395000 ,16-02-2005,Alm. Salg,80,4938,3,1850,
 482,Villa,Rue 2,5900, Rudkøbing,700000 ,16-02-2005,Alm. Salg,84,8333,3,1961,
-482,Villa,Bygaden 76C,5953, Tranekær,48300 ,16-02-2005,Alm. Salg,193,250,7,1877,
 482,Villa,Nordre Landevej 39,5900, Rudkøbing,500000 ,15-02-2005,Alm. Salg,121,4132,4,1900,
 482,Villa,Dageløkkevej 27,5953, Tranekær,415000 ,15-02-2005,Auktion,110,3773,3,1962,
 482,Villa,Landevejen 19,5935, Bagenkop,1430000 ,15-02-2005,Alm. Salg,192,7448,5,2013,
@@ -5257,7 +5216,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 482,Villa,Nordre Strandvej 1,5953, Tranekær,480000 ,16-01-2005,Alm. Salg,124,3871,4,1954,
 482,Villa,Strandbakken 6,5900, Rudkøbing,291217 ,16-01-2005,Andet,77,3782,3,1949,
 482,Villa,Humblevej 41,5900, Rudkøbing,1025000 ,14-01-2005,Alm. Salg,104,9856,5,1947,
-482,Villa,Skovbakken 18,5900, Rudkøbing,382742 ,13-01-2005,Andet,70,5468,3,1952,
 482,Villa,Snødevej 69,5953, Tranekær,88888 ,13-01-2005,Alm. Salg,128,694,2,1950,
 482,Villa,Spodsbjergvej 204,5900, Rudkøbing,1065000 ,06-01-2005,Alm. Salg,226,4712,6,1935,
 482,Villa,Knolden 3,5900, Rudkøbing,540000 ,06-01-2005,Alm. Salg,129,4186,5,1994,
@@ -5503,7 +5461,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 482,Villa,Landevejen 5,5932, Humble,325000 ,03-04-2004,Alm. Salg,123,2642,6,1870,
 482,Villa,Rolighedsvej 31,5900, Rudkøbing,709000 ,01-04-2004,Alm. Salg,146,4856,4,1937,
 482,Villa,Spodsbjergvej 30,5900, Rudkøbing,880000 ,01-04-2004,Alm. Salg,164,5366,5,1907,
-482,Villa,Søndrevej 3,5943, Strynø,750000 ,01-04-2004,Alm. Salg,269,2788,9,1896,
 482,Rækkehus,Reberbanen 20,5900, Rudkøbing,391000 ,31-03-2004,Fam. Salg,67,5836,2,1895,
 482,Villa,Lejbøllevej 32,5953, Tranekær,295000 ,29-03-2004,Alm. Salg,83,3554,3,1929,
 482,Villa,Nordre Landevej 46,5900, Rudkøbing,425000 ,29-03-2004,Alm. Salg,123,3455,3,1903,
@@ -5597,8 +5554,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 482,Villa,Kragholmvej 33,5900, Rudkøbing,485000 ,02-12-2003,Fam. Salg,192,2526,4,2021,
 482,Villa,Bygaden 95,5953, Tranekær,275000 ,02-12-2003,Auktion,185,1486,7,1933,
 482,Villa,Hedevejen 5,5932, Humble,440000 ,01-12-2003,Alm. Salg,148,2973,7,1900,
-482,Ejerlejlighed,"Strandlystvej 11, 1",5900, Rudkøbing,325000 ,30-11-2003,Alm. Salg,124,2621,5,1900,
-482,Villa,"Strandlystvej 11, st",5900, Rudkøbing,325000 ,30-11-2003,Alm. Salg,93,3495,3,1900,
 482,Villa,Ormstrupvej 6,5932, Humble,322500 ,30-11-2003,Alm. Salg,126,2560,5,1870,
 482,Villa,Fæbækvej 10,5953, Tranekær,710000 ,29-11-2003,Alm. Salg,137,5182,4,1886,
 482,Villa,Bellevue 61,5900, Rudkøbing,838195 ,27-11-2003,Alm. Salg,154,5443,5,1935,
@@ -5647,7 +5602,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 482,Villa,Assemose 3,5900, Rudkøbing,614479 ,14-10-2003,Alm. Salg,134,4586,5,1840,
 482,Villa,Sandvejen 2,5943, Strynø,425000 ,12-10-2003,Alm. Salg,117,3632,3,1945,
 482,Villa,Houvej 57,5953, Tranekær,457500 ,12-10-2003,Alm. Salg,112,4085,5,1877,
-482,Villa,Nordstrandsvej 7B,5953, Tranekær,1250000 ,12-10-2003,Alm. Salg,106,11792,3,2004,
 482,Villa,Tryggelev 82,5932, Humble,100000 ,08-10-2003,Alm. Salg,127,787,4,1777,
 482,Villa,Østergade 33,5935, Bagenkop,350000 ,06-10-2003,Alm. Salg,83,4217,3,1912,
 482,Villa,Platanvej 8,5900, Rudkøbing,870000 ,06-10-2003,Alm. Salg,176,4943,6,1912,
@@ -5679,7 +5633,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 482,Villa,Torpevej 10,5900, Rudkøbing,606500 ,08-09-2003,Andet,150,4043,4,1972,
 482,Villa,Æblevænget 1,5900, Rudkøbing,895000 ,08-09-2003,Alm. Salg,134,6679,5,1966,
 482,Villa,Hennetvedvej 13,5900, Rudkøbing,165000 ,08-09-2003,Alm. Salg,100,1650,4,1900,
-482,Villa,Rathvej 8A,5935, Bagenkop,2200000 ,08-09-2003,Alm. Salg,135,16296,6,1905,
 482,Villa,Hjelmbjergvej 4,5900, Rudkøbing,638000 ,08-09-2003,Fam. Salg,184,3467,4,1825,
 482,Rækkehus,Ramsherred 43,5900, Rudkøbing,400000 ,07-09-2003,Alm. Salg,65,6154,3,1818,
 482,Villa,Lejbøllegårdvej 28,5953, Tranekær,510000 ,07-09-2003,Alm. Salg,106,4811,3,1906,
@@ -5776,8 +5729,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 482,Rækkehus,Ramsherred 9,5900, Rudkøbing,480000 ,11-06-2003,Alm. Salg,216,2222,7,1870,
 482,Villa,Bagenkopvej 15,5932, Humble,78200 ,11-06-2003,Alm. Salg,139,563,4,1907,
 482,Villa,Nordre Løkkebyvej 13,5953, Tranekær,610000 ,11-06-2003,Alm. Salg,159,3836,8,1913,
-482,Ejerlejlighed,Ørstedsgade 27,5900, Rudkøbing,405000 ,10-06-2003,Alm. Salg,93,4355,4,1843,
-482,Ejerlejlighed,Nørregade 30,5900, Rudkøbing,405000 ,10-06-2003,Alm. Salg,103,3932,4,1843,
 482,Villa,Lønkildevej 5,5900, Rudkøbing,560000 ,10-06-2003,Alm. Salg,130,4308,4,1970,
 482,Villa,Fuglsbøllevejen 50,5900, Rudkøbing,615000 ,09-06-2003,Alm. Salg,131,4695,4,1971,
 482,Villa,Ahornvej 2,5953, Tranekær,680000 ,08-06-2003,Alm. Salg,185,3676,6,1979,
@@ -5873,7 +5824,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 482,Villa,Østergade 29,5935, Bagenkop,250000 ,02-03-2003,Alm. Salg,141,1773,5,1900,
 482,Villa,Skebjergvej 3A,5953, Tranekær,561000 ,27-02-2003,Fam. Salg,128,4383,4,1979,
 482,Villa,Bregnevej 8,5900, Rudkøbing,750000 ,25-02-2003,Alm. Salg,117,6410,4,1978,
-482,Villa,Rathvej 8A,5935, Bagenkop,2090000 ,25-02-2003,Andet,135,15481,6,1905,
 482,Villa,Krogsbjergvej 19,5900, Rudkøbing,816000 ,19-02-2003,Alm. Salg,142,5746,5,1901,
 482,Villa,Hou Fyrvej 13,5953, Tranekær,1200000 ,18-02-2003,Fam. Salg,170,6000,3,1827,
 482,Villa,Kirsebærvænget 14,5953, Tranekær,671500 ,12-02-2003,Fam. Salg,147,4568,5,1974,
@@ -5962,7 +5912,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 482,Villa,Korsvejen 6,5943, Strynø,825000 ,20-10-2002,Alm. Salg,267,3090,5,1950,
 482,Villa,Stjernegade 20,5943, Strynø,545000 ,15-10-2002,Alm. Salg,98,5561,3,1837,
 482,Villa,Skolevej 4,5953, Tranekær,498248 ,15-10-2002,Alm. Salg,80,6228,3,1963,
-482,Ejerlejlighed,"Søvertorpvej 3, st. th",5900, Rudkøbing,338100 ,10-10-2002,Alm. Salg,90,3757,2,1880,
 482,Villa,Nørrebro 117,5900, Rudkøbing,369763 ,10-10-2002,Alm. Salg,146,2533,4,1910,
 482,Villa,Østergade 24,5953, Tranekær,510183 ,09-10-2002,Alm. Salg,105,4859,5,1950,
 482,Villa,Løkkebyvej 1,5953, Tranekær,505000 ,09-10-2002,Alm. Salg,96,5260,4,1890,
@@ -6118,7 +6067,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 482,Villa,Påøvej 6,5900, Rudkøbing,300000 ,29-04-2002,Fam. Salg,97,3093,2,1800,
 482,Villa,Halvmånen 5,5900, Rudkøbing,195000 ,28-04-2002,Andet,147,1327,6,2003,
 482,Villa,Spodsbjergvej 34,5900, Rudkøbing,350000 ,28-04-2002,Fam. Salg,114,3070,4,1900,
-482,Villa,Skovbakken 18,5900, Rudkøbing,695000 ,27-04-2002,Alm. Salg,70,9929,3,1952,
 482,Villa,Nørrebro 70,5900, Rudkøbing,1225000 ,24-04-2002,Alm. Salg,147,8333,4,1904,
 482,Rækkehus,Østergade 26,5935, Bagenkop,225000 ,21-04-2002,Alm. Salg,76,2961,4,1880,
 482,Villa,Herslevvej 5,5900, Rudkøbing,525000 ,21-04-2002,Alm. Salg,103,5097,9,1940,
@@ -6149,7 +6097,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 482,Rækkehus,Gartnervænget 2,5900, Rudkøbing,360000 ,24-03-2002,Alm. Salg,64,5625,2,1970,
 482,Villa,Nørrebro 76,5900, Rudkøbing,550000 ,24-03-2002,Alm. Salg,97,5670,3,1899,
 482,Villa,Houvej 46,5953, Tranekær,740000 ,24-03-2002,Alm. Salg,122,6066,4,1927,
-482,Ejerlejlighed,"Søvertorpvej 3, st. th",5900, Rudkøbing,4456000 ,23-03-2002,Fam. Salg,90,49511,2,1880,
 482,Villa,Østergade 87,5953, Tranekær,289000 ,21-03-2002,Fam. Salg,110,2627,5,1850,
 482,Villa,Møllemosevej 1,5900, Rudkøbing,380000 ,20-03-2002,Alm. Salg,85,4471,3,1890,
 482,Villa,Houvej 23,5953, Tranekær,238000 ,20-03-2002,Fam. Salg,90,2644,4,1852,
@@ -6200,7 +6147,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 482,Villa,Ravnerydvej 7,5900, Rudkøbing,353000 ,27-01-2002,Alm. Salg,156,2263,8,1877,
 482,Villa,Gartnervænget 8,5953, Tranekær,450000 ,24-01-2002,Fam. Salg,104,4327,3,1973,
 482,Villa,Egevej 7,5953, Tranekær,875000 ,23-01-2002,Alm. Salg,221,3959,6,1977,
-482,Villa,Søndrevej 3,5943, Strynø,695000 ,23-01-2002,Alm. Salg,269,2584,9,1896,
 482,Villa,Strandlystvej 13,5900, Rudkøbing,645000 ,22-01-2002,Alm. Salg,112,5759,4,1918,
 482,Villa,Kædebyvej 55,5932, Humble,425000 ,21-01-2002,Alm. Salg,60,7083,3,1909,
 482,Villa,Lohalsvej 1,5953, Tranekær,359300 ,20-01-2002,Alm. Salg,311,1155,13,1877,
@@ -6239,8 +6185,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 482,Villa,Munkegårdevej 1,5935, Bagenkop,527000 ,04-12-2001,Alm. Salg,140,3764,5,1877,
 482,Villa,Almindingen 10,5953, Tranekær,750000 ,04-12-2001,Fam. Salg,178,4213,5,1820,
 482,Villa,Kirsebærvænget 20,5953, Tranekær,773463 ,30-11-2001,Alm. Salg,122,6340,4,1975,
-482,Rækkehus,Bygaden 76A,5953, Tranekær,667744 ,29-11-2001,Alm. Salg,126,5300,3,1966,
-482,Villa,Bygaden 76C,5953, Tranekær,667744 ,29-11-2001,Alm. Salg,193,3460,7,1877,
 482,Villa,Nordenbro 21,5932, Humble,290000 ,27-11-2001,Alm. Salg,111,2613,3,1925,
 482,Villa,Lejbøllegårdvej 19,5953, Tranekær,350000 ,26-11-2001,Alm. Salg,230,1522,7,1900,
 482,Villa,Kulepilevej 37,5900, Rudkøbing,775000 ,26-11-2001,Alm. Salg,173,4480,8,1806,
@@ -6772,13 +6716,11 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 482,Villa,Ourevej 43,5932, Humble,360000 ,19-03-2000,Alm. Salg,142,2535,5,1880,
 482,Rækkehus,Ramsherred 72,5900, Rudkøbing,614225 ,15-03-2000,Alm. Salg,80,7678,4,1877,
 482,Villa,Humblevej 29,5932, Humble,761000 ,15-03-2000,Alm. Salg,200,3805,6,1943,
-482,Villa,Biskopstorpvej 1,5900, Rudkøbing,9533000 ,15-03-2000,Fam. Salg,104,91663,5,1930,
 482,Villa,Mageløkken 6,5953, Tranekær,730871 ,15-03-2000,Alm. Salg,144,5075,4,1972,
 482,Villa,Brandsbyvej 15,5932, Humble,516939 ,15-03-2000,Alm. Salg,92,5619,3,1827,
 482,Villa,Halvmånen 4,5900, Rudkøbing,185000 ,14-03-2000,Alm. Salg,140,1321,4,2000,
 482,Villa,Mellemgade 4,5943, Strynø,600000 ,12-03-2000,Alm. Salg,117,5128,5,1906,
 482,Villa,Langegade 25,5900, Rudkøbing,230000 ,12-03-2000,Alm. Salg,99,2323,3,1877,
-482,Ejerlejlighed,"Søvertorpvej 3, st. th",5900, Rudkøbing,4454000 ,09-03-2000,Fam. Salg,90,49489,2,1880,
 482,Villa,Peløkkevej 54,5900, Rudkøbing,928547 ,08-03-2000,Alm. Salg,210,4422,6,1900,
 482,Villa,Bøstrup Strandvej 4,5953, Tranekær,232555 ,06-03-2000,Alm. Salg,153,1520,4,1934,
 482,Villa,Humblevej 11,5900, Rudkøbing,638000 ,01-03-2000,Alm. Salg,127,5024,4,1903,
@@ -6815,7 +6757,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 482,Villa,Tryggelev 19,5932, Humble,500000 ,19-01-2000,Alm. Salg,112,4464,4,1935,
 482,Villa,Østerskovvej 44,5932, Humble,545000 ,19-01-2000,Alm. Salg,84,6488,3,1953,
 482,Villa,Søndergade 39,5953, Tranekær,475000 ,19-01-2000,Alm. Salg,89,5337,4,1902,
-482,Villa,Biskopstorpvej 1,5900, Rudkøbing,9403000 ,18-01-2000,Fam. Salg,104,90413,5,1930,
 482,Rækkehus,Østergade 47,5900, Rudkøbing,565000 ,16-01-2000,Alm. Salg,71,7958,4,1900,
 482,Villa,Vesteregnsvej 14,5932, Humble,500000 ,16-01-2000,Fam. Salg,171,2924,4,1877,
 482,Villa,Bøstrupvej 41,5953, Tranekær,44043 ,16-01-2000,Alm. Salg,125,352,5,1943,
@@ -7031,8 +6972,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 482,Villa,Fakkemosevej 22,5935, Bagenkop,386154 ,31-05-1999,Alm. Salg,162,2384,5,1800,
 482,Rækkehus,Strandgade 44C,5900, Rudkøbing,405880 ,30-05-1999,Alm. Salg,98,4142,4,1902,
 482,Villa,Strandgade 5,5935, Bagenkop,284464 ,26-05-1999,Alm. Salg,99,2873,4,1877,
-482,Ejerlejlighed,"Strandlystvej 11, 1",5900, Rudkøbing,280309 ,25-05-1999,Fam. Salg,124,2261,5,1900,
-482,Villa,"Strandlystvej 11, st",5900, Rudkøbing,280309 ,25-05-1999,Fam. Salg,93,3014,3,1900,
 482,Villa,Ristingevej 149,5932, Humble,375000 ,24-05-1999,Alm. Salg,143,2622,5,1866,
 482,Rækkehus,Spodsbjergvej 65,5900, Rudkøbing,475000 ,23-05-1999,Alm. Salg,72,6597,3,1900,
 482,Villa,Korsvejen 6,5943, Strynø,582000 ,23-05-1999,Alm. Salg,267,2180,5,1950,
@@ -7116,7 +7055,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 482,Rækkehus,Nordre Landevej 57A,5900, Rudkøbing,659436 ,18-02-1999,Alm. Salg,190,3471,5,1900,
 482,Rækkehus,Grønnegade 11,5900, Rudkøbing,396438 ,18-02-1999,Alm. Salg,161,2462,3,1900,
 482,Villa,Rolighedsvej 19,5900, Rudkøbing,593215 ,15-02-1999,Alm. Salg,85,6979,3,1915,
-482,Villa,Rathvej 8A,5935, Bagenkop,864000 ,15-02-1999,Alm. Salg,135,6400,6,1905,
 482,Villa,Østerskovvej 48,5932, Humble,724684 ,14-02-1999,Alm. Salg,120,6039,5,1965,
 482,Villa,Statenevej 18,5900, Rudkøbing,316000 ,12-02-1999,Alm. Salg,114,2772,3,1838,
 482,Villa,Sønderskovvej 23,5932, Humble,215000 ,10-02-1999,Alm. Salg,144,1493,6,1850,
@@ -7152,8 +7090,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 482,Villa,Østerskovvej 14,5932, Humble,125800 ,22-12-1998,Auktion,68,1850,4,1895,
 482,Villa,Askvej 12,5953, Tranekær,640000 ,21-12-1998,Alm. Salg,150,4267,5,1979,
 482,Villa,Tressebøllevej 9,5953, Tranekær,447321 ,20-12-1998,Alm. Salg,120,3728,4,1925,
-482,Villa,Snagestræde 1,5953, Tranekær,350000 ,20-12-1998,Andet,307,1140,6,1800,
-482,Rækkehus,"Nørrebro 110A, st",5900, Rudkøbing,624000 ,16-12-1998,Alm. Salg,122,5115,5,1889,
 482,Villa,Toften 20,5932, Humble,187200 ,16-12-1998,Alm. Salg,158,1185,5,2007,
 482,Villa,Gartnervænget 4,5953, Tranekær,757000 ,13-12-1998,Alm. Salg,156,4853,5,1986,
 482,Villa,Mageløkken 6,5953, Tranekær,162004 ,11-12-1998,Fam. Salg,144,1125,4,1972,
@@ -7442,10 +7378,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 482,Villa,Nordre Løkkebyvej 22,5953, Tranekær,819510 ,29-03-1998,Alm. Salg,155,5287,6,1912,
 482,Villa,Hesselbjergvej 2,5953, Tranekær,300000 ,29-03-1998,Alm. Salg,115,2609,6,1946,
 482,Villa,Torpevej 1,5900, Rudkøbing,65000 ,27-03-1998,Alm. Salg,312,208,6,1892,
-482,Ejerlejlighed,"Strandlystvej 11, 1",5900, Rudkøbing,607000 ,25-03-1998,Alm. Salg,124,4895,5,1900,
 482,Villa,Ahornvej 2,5953, Tranekær,685000 ,25-03-1998,Alm. Salg,185,3703,6,1979,
 482,Villa,Fredmosevej 5,5932, Humble,469000 ,25-03-1998,Alm. Salg,160,2931,5,1856,
-482,Villa,"Strandlystvej 11, st",5900, Rudkøbing,607000 ,25-03-1998,Alm. Salg,93,6527,3,1900,
 482,Villa,Møllevejen 15,5943, Strynø,190000 ,23-03-1998,Alm. Salg,86,2209,3,1849,
 482,Villa,Pellemarken 8,5953, Tranekær,651000 ,22-03-1998,Alm. Salg,136,4787,5,1972,
 482,Villa,Østergade 63,5953, Tranekær,270000 ,22-03-1998,Fam. Salg,80,3375,4,1926,
@@ -7455,8 +7389,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 482,Villa,Nordenbro 1,5932, Humble,355000 ,20-03-1998,Alm. Salg,176,2017,5,1890,
 482,Villa,Østerskovvej 33,5932, Humble,388300 ,19-03-1998,Alm. Salg,152,2555,6,1900,
 482,Villa,Klavsebøllevej 17,5953, Tranekær,988000 ,19-03-1998,Alm. Salg,197,5015,9,1864,
-482,Ejerlejlighed,Humblevej 2,5900, Rudkøbing,1288000 ,18-03-1998,Alm. Salg,109,11817,2,1944,
-482,Ejerlejlighed,Spangevej 1A,5900, Rudkøbing,1288000 ,18-03-1998,Alm. Salg,75,17173,2,1944,
 482,Villa,Lejbøllevej 12,5953, Tranekær,666136 ,18-03-1998,Alm. Salg,135,4934,4,1860,
 482,Villa,Harnbjergvej 4,5932, Humble,1351892 ,18-03-1998,Alm. Salg,226,5982,5,1928,
 482,Villa,Bukkeskovvej 3,5953, Tranekær,510000 ,16-03-1998,Alm. Salg,81,6296,4,1870,
@@ -7469,7 +7401,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 482,Villa,Humblevej 10,5932, Humble,597987 ,08-03-1998,Alm. Salg,184,3250,7,1907,
 482,Villa,Ristingevej 70,5932, Humble,381000 ,06-03-1998,Alm. Salg,158,2411,5,1847,
 482,Villa,Spodsbjergvej 185,5900, Rudkøbing,651000 ,03-03-1998,Alm. Salg,160,4069,5,2016,
-482,Rækkehus,"Nørrebro 110A, st",5900, Rudkøbing,435000 ,02-03-1998,Alm. Salg,122,3566,5,1889,
 482,Villa,Stoense Havnvej 4,5953, Tranekær,80000 ,02-03-1998,Fam. Salg,145,552,3,1930,
 482,Villa,Pellemarken 16,5953, Tranekær,750000 ,01-03-1998,Alm. Salg,156,4808,5,1976,
 482,Villa,Mosevej 17,5935, Bagenkop,10000 ,27-02-1998,Alm. Salg,151,66,4,1998,
@@ -7643,7 +7574,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 482,Villa,Vestervænget 20,5953, Tranekær,1150000 ,24-09-1997,Fam. Salg,172,6686,4,1975,
 482,Villa,Snødevej 110,5953, Tranekær,416000 ,24-09-1997,Alm. Salg,126,3302,4,1877,
 482,Villa,Lejbøllevej 19,5953, Tranekær,350000 ,24-09-1997,Alm. Salg,140,2500,5,1907,
-482,Rækkehus,"Ørstedsgade 23, 2",5900, Rudkøbing,850000 ,23-09-1997,Alm. Salg,78,10897,4,1882,
 482,Villa,Østergade 28,5935, Bagenkop,186000 ,23-09-1997,Fam. Salg,210,886,6,1910,
 482,Villa,Dageløkkevej 23,5953, Tranekær,442512 ,22-09-1997,Alm. Salg,108,4097,4,1905,
 482,Rækkehus,Brogade 8,5900, Rudkøbing,645000 ,21-09-1997,Alm. Salg,66,9773,3,1800,
@@ -7972,7 +7902,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 482,Villa,Brandsbyvej 27,5932, Humble,425000 ,17-11-1996,Alm. Salg,154,2760,5,1887,
 482,Rækkehus,Ramsherred 44,5900, Rudkøbing,36656 ,15-11-1996,Alm. Salg,60,611,2,2001,
 482,Villa,Kædebyvej 42,5932, Humble,573222 ,14-11-1996,Alm. Salg,220,2606,5,1902,
-482,Villa,Nørregade 17A,5900, Rudkøbing,2940000 ,13-11-1996,Alm. Salg,110,26727,4,1870,
 482,Villa,Klintevej 34,5935, Bagenkop,625000 ,12-11-1996,Andet,157,3981,6,1984,
 482,Villa,Højetoftevej 6,5932, Humble,610000 ,12-11-1996,Alm. Salg,130,4692,5,1967,
 482,Villa,Kibshavevej 4,5900, Rudkøbing,795000 ,11-11-1996,Alm. Salg,158,5032,6,1857,
@@ -8392,8 +8321,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 482,Villa,Hennetvedvej 3,5900, Rudkøbing,100000 ,31-08-1995,Alm. Salg,93,1075,3,1890,
 482,Villa,Ristingevej 112,5932, Humble,135000 ,30-08-1995,Alm. Salg,88,1534,6,1827,
 482,Villa,Nordenbro 19,5932, Humble,300000 ,30-08-1995,Alm. Salg,124,2419,4,1958,
-482,Ejerlejlighed,"Strandlystvej 11, 1",5900, Rudkøbing,510000 ,29-08-1995,Alm. Salg,124,4113,5,1900,
-482,Villa,"Strandlystvej 11, st",5900, Rudkøbing,510000 ,29-08-1995,Alm. Salg,93,5484,3,1900,
 482,Villa,Snødevej 89,5953, Tranekær,410000 ,28-08-1995,Alm. Salg,155,2645,6,1920,
 482,Villa,Østerskovvej 24,5932, Humble,125000 ,28-08-1995,Alm. Salg,133,940,5,1877,
 482,Villa,Longelsevej 79,5900, Rudkøbing,475000 ,28-08-1995,Alm. Salg,165,2879,6,1800,
@@ -8467,7 +8394,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 482,Villa,Løkkebyvej 16,5953, Tranekær,135000 ,01-07-1995,Fam. Salg,53,2547,2,1857,
 482,Villa,Stoense Udflyttervej 24,5953, Tranekær,486000 ,30-06-1995,Alm. Salg,81,6000,4,1877,
 482,Villa,Klavsebøllevej 13,5953, Tranekær,250000 ,30-06-1995,Alm. Salg,80,3125,3,1799,
-482,Ejerlejlighed,"Søvertorpvej 3, st. th",5900, Rudkøbing,1309000 ,29-06-1995,Fam. Salg,90,14544,2,1880,
 482,Villa,Peløkkevej 54,5900, Rudkøbing,870000 ,29-06-1995,Alm. Salg,210,4143,6,1900,
 482,Villa,Kirkevej 3,5943, Strynø,200000 ,28-06-1995,Alm. Salg,43,4651,2,1800,
 482,Villa,Ristingevej 3,5932, Humble,226000 ,26-06-1995,Alm. Salg,175,1291,7,1862,
@@ -8693,10 +8619,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 482,Villa,Pederstrupvej 8,5900, Rudkøbing,415000 ,26-10-1994,Alm. Salg,103,4029,4,1847,
 482,Villa,Kirkeby 9,5935, Bagenkop,135000 ,26-10-1994,Alm. Salg,214,631,9,1910,
 482,Rækkehus,Slotsgade 66,5953, Tranekær,533000 ,25-10-1994,Alm. Salg,148,3601,7,1800,
-482,Rækkehus,Grønnegade 9,5900, Rudkøbing,200000 ,23-10-1994,Alm. Salg,84,2381,2,1800,
 482,Villa,Stoense Udflyttervej 8,5953, Tranekær,63000 ,23-10-1994,Alm. Salg,149,423,6,1900,
 482,Villa,Pederstrupvej 13,5900, Rudkøbing,805111 ,23-10-1994,Alm. Salg,248,3246,8,1896,
-482,Villa,Longelsevej 20,5900, Rudkøbing,200000 ,23-10-1994,Alm. Salg,114,1754,5,1925,
 482,Villa,Broløkken 15,5900, Rudkøbing,450000 ,23-10-1994,Alm. Salg,121,3719,4,1965,
 482,Villa,Vesterbyvej 1,5900, Rudkøbing,665000 ,23-10-1994,Alm. Salg,199,3342,8,1856,
 482,Villa,Bakkevænget 7,5900, Rudkøbing,725000 ,23-10-1994,Alm. Salg,174,4167,4,1975,
@@ -8713,7 +8637,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 482,Villa,Østerhusevej 34,5953, Tranekær,290000 ,06-10-1994,Alm. Salg,149,1946,5,1954,
 482,Villa,Bøstrup Strandvej 17,5953, Tranekær,385000 ,06-10-1994,Alm. Salg,135,2852,4,1820,
 482,Villa,Annexstræde 16,5953, Tranekær,365000 ,05-10-1994,Alm. Salg,65,5615,4,1952,
-482,Villa,Vestervænget 1B,5953, Tranekær,500000 ,03-10-1994,Alm. Salg,60,8333,2,1904,
 482,Rækkehus,Bøstrupvej 24,5953, Tranekær,100000 ,02-10-1994,Alm. Salg,79,1266,4,1800,
 482,Villa,Broløkken 21,5900, Rudkøbing,538000 ,02-10-1994,Alm. Salg,120,4483,4,1966,
 482,Villa,Spodsbjergvej 241,5900, Rudkøbing,228000 ,26-09-1994,Alm. Salg,125,1824,3,1927,
@@ -8894,7 +8817,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 482,Villa,Humblevej 33,5900, Rudkøbing,381000 ,24-04-1994,Alm. Salg,85,4482,3,1955,
 482,Villa,Humblevej 33,5932, Humble,200000 ,21-04-1994,Alm. Salg,414,483,5,1935,
 482,Villa,Kirkevej 1,5935, Bagenkop,238000 ,20-04-1994,Fam. Salg,156,1526,5,1910,
-482,Villa,Vestervænget 1B,5953, Tranekær,450000 ,20-04-1994,Alm. Salg,60,7500,2,1904,
 482,Rækkehus,Nørrebro 52,5900, Rudkøbing,234000 ,19-04-1994,Alm. Salg,85,2753,2,1880,
 482,Villa,Østerled 3,5900, Rudkøbing,230000 ,19-04-1994,Alm. Salg,102,2255,4,1912,
 482,Villa,Hesselbjergvej 8,5953, Tranekær,175000 ,19-04-1994,Alm. Salg,114,1535,3,1820,
@@ -9031,7 +8953,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 482,Villa,Søndenbro 1,5935, Bagenkop,190000 ,21-12-1993,Alm. Salg,60,3167,3,1930,
 482,Rækkehus,Hannebjergvej 5,5900, Rudkøbing,50000 ,20-12-1993,Alm. Salg,56,893,2,1900,
 482,Villa,Bogøvej 22,5900, Rudkøbing,360000 ,20-12-1993,Fam. Salg,141,2553,5,1924,
-482,Ejerlejlighed,"Søvertorpvej 3, st. th",5900, Rudkøbing,10600000 ,19-12-1993,Alm. Salg,90,117778,2,1880,
 482,Villa,Lohalsvej 18,5953, Tranekær,140000 ,19-12-1993,Alm. Salg,87,1609,4,1900,
 482,Villa,Mageløkken 14,5953, Tranekær,330385 ,16-12-1993,Andet,131,2522,4,1986,
 482,Villa,Østerskovvej 11,5932, Humble,230000 ,16-12-1993,Alm. Salg,139,1655,5,1000,
@@ -9145,7 +9066,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 482,Villa,Løkkebyvej 65,5953, Tranekær,345000 ,19-09-1993,Alm. Salg,116,2974,4,1939,
 482,Villa,Nordre Landevej 11,5900, Rudkøbing,250000 ,19-09-1993,Alm. Salg,120,2083,3,1900,
 482,Villa,Spodsbjergvej 253,5900, Rudkøbing,200000 ,19-09-1993,Alm. Salg,147,1361,6,1921,
-482,Villa,Snagestræde 1,5953, Tranekær,500000 ,19-09-1993,Alm. Salg,307,1629,6,1800,
 482,Villa,Haverne 13,5900, Rudkøbing,499000 ,19-09-1993,Alm. Salg,149,3349,4,1979,
 482,Villa,Fæbækvej 15,5953, Tranekær,250000 ,14-09-1993,Fam. Salg,120,1613,5,1877,
 482,Villa,Spodsbjergvej 83,5900, Rudkøbing,466000 ,12-09-1993,Alm. Salg,149,3128,4,1950,
@@ -9279,11 +9199,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 482,Villa,Søndergade 39,5953, Tranekær,280000 ,06-05-1993,Alm. Salg,89,3146,4,1902,
 482,Villa,Bregnegårdsvej 4,5953, Tranekær,20000 ,03-05-1993,Alm. Salg,96,208,5,2006,
 482,Rækkehus,Tarmen 4A,5943, Strynø,160000 ,02-05-1993,Alm. Salg,93,1720,3,1877,
-482,Rækkehus,Spodsbjergvej 58,5900, Rudkøbing,400000 ,02-05-1993,Fam. Salg,110,3636,3,1900,
 482,Villa,Fuglsbøllevejen 4A,5900, Rudkøbing,40000 ,02-05-1993,Alm. Salg,93,430,2,1870,
 482,Villa,Sønderskovvej 23,5932, Humble,290000 ,02-05-1993,Alm. Salg,144,2014,6,1850,
 482,Villa,Sommerlyst 12,5900, Rudkøbing,275000 ,02-05-1993,Alm. Salg,96,2865,3,1907,
-482,Villa,Sommerlyst 40,5900, Rudkøbing,400000 ,02-05-1993,Fam. Salg,188,2128,3,1880,
 482,Villa,Drejet 59,5900, Rudkøbing,275000 ,30-04-1993,Alm. Salg,85,3235,3,1907,
 482,Villa,Illebøllevej 25,5900, Rudkøbing,138000 ,29-04-1993,Alm. Salg,144,958,4,1887,
 482,Villa,Fredmosevej 14,5932, Humble,340000 ,27-04-1993,Alm. Salg,143,2378,3,1880,
@@ -9530,13 +9448,11 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 482,Villa,Tryggelev 68,5932, Humble,230000 ,09-07-1992,Alm. Salg,170,1353,6,1893,
 482,Villa,Sønderskovvej 3,5932, Humble,240000 ,07-07-1992,Alm. Salg,146,1644,3,1877,
 482,Villa,Bøgevej 4,5953, Tranekær,448000 ,07-07-1992,Alm. Salg,159,2818,5,1976,
-482,Villa,Vestervænget 1B,5953, Tranekær,410000 ,07-07-1992,Andet,60,6833,2,1904,
 482,Rækkehus,Tarmen 4A,5943, Strynø,100000 ,06-07-1992,Alm. Salg,93,1075,3,1877,
 482,Villa,Skovvænget 8,5953, Tranekær,450000 ,06-07-1992,Alm. Salg,103,4369,5,1979,
 482,Villa,Skovvej 9,5900, Rudkøbing,350000 ,06-07-1992,Alm. Salg,153,2288,3,1877,
 482,Villa,Sønderskovvej 7,5932, Humble,140000 ,05-07-1992,Fam. Salg,127,1102,5,1877,
 482,Villa,Østerskovvej 14,5932, Humble,205000 ,04-07-1992,Alm. Salg,68,3015,4,1895,
-482,Villa,Skovbakken 18,5900, Rudkøbing,385000 ,02-07-1992,Alm. Salg,70,5500,3,1952,
 482,Villa,Stoensevej 1,5953, Tranekær,290000 ,01-07-1992,Alm. Salg,119,2437,6,1924,
 482,Villa,Almindingen 8,5953, Tranekær,388000 ,01-07-1992,Alm. Salg,130,2985,4,1917,
 482,Villa,Kinderballevej 4,5932, Humble,100000 ,30-06-1992,Alm. Salg,70,1429,2,1910,

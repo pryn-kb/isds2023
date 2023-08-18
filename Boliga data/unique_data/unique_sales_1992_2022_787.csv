@@ -229,7 +229,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Ashøjvej 17,7760, Hurup Thy,712582 ,21-08-2022,Fam. Salg,144,4948,5,1975,
 787,Villa,Mallevej 58,7700, Thisted,1800000 ,21-08-2022,Alm. Salg,116,15517,5,1935,
 787,Villa,Hovsørvej 11,7700, Thisted,100000 ,21-08-2022,Alm. Salg,290,345,6,1777,
-787,Villa,Åbrovej 67,7752, Snedsted,630000 ,21-08-2022,Alm. Salg,105,6000,5,1976,-7%
 787,Villa,Vorupørvej 145,7700, Thisted,570537 ,20-08-2022,Andet,152,3754,6,2012,
 787,Rækkehus,Nørrevænge 41,7700, Thisted,1200000 ,18-08-2022,Fam. Salg,78,15385,2,1987,
 787,Villa,Agertoften 2,7700, Thisted,1585000 ,18-08-2022,Alm. Salg,139,11403,4,1961,-1%
@@ -402,11 +401,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Næstrupvej 49,7700, Thisted,100000 ,30-05-2022,Alm. Salg,108,926,3,1900,
 787,Villa,Langdyssevej 5,7700, Thisted,1300000 ,30-05-2022,Alm. Salg,130,10000,4,1963,-10%
 787,Villa,Stågbak 6B,7700, Thisted,1595000 ,30-05-2022,Alm. Salg,176,9063,5,2023,
-787,Ejerlejlighed,"Ballerumvej 112, st. tv",7700, Thisted,685000 ,29-05-2022,Alm. Salg,84,8155,2,1952,-9%
 787,Villa,Johnsens Alle 9,7700, Thisted,2258100 ,29-05-2022,Alm. Salg,169,13362,8,1922,-7%
 787,Villa,Skråningen 28,7700, Thisted,745000 ,29-05-2022,Alm. Salg,137,5438,5,1968,
 787,Villa,Hørstedvej 68,7752, Snedsted,310000 ,29-05-2022,Alm. Salg,100,3100,4,1955,
-787,Villa,"Ballerumvej 112, st. th",7700, Thisted,685000 ,29-05-2022,Alm. Salg,164,4177,5,1952,-9%
 787,Villa,Vestergade 50,7770, Vestervig,195000 ,29-05-2022,Alm. Salg,70,2786,4,1917,
 787,Villa,Dalstræde 9,7760, Hurup Thy,7400000 ,28-05-2022,Alm. Salg,320,23125,8,2009,-7%
 787,Villa,Fiskervej 14,7700, Thisted,494070 ,26-05-2022,Andet,228,2167,8,1965,
@@ -757,12 +754,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Ejerlejlighed,"Sydhavnsvej 2F, st. th",7700, Thisted,2350000 ,29-12-2021,Alm. Salg,102,23039,1,0,
 787,Villa,Vestermøllevej 14,7700, Thisted,3600000 ,29-12-2021,Alm. Salg,209,17225,6,1911,
 787,Villa,Stågbak 8D,7700, Thisted,1595000 ,29-12-2021,Alm. Salg,162,9846,1,0,
-787,Ejerlejlighed,Nørregade 1A,7700, Thisted,5350000 ,28-12-2021,Alm. Salg,130,41154,4,1899,
-787,Ejerlejlighed,Nørregade 1B,7700, Thisted,5350000 ,28-12-2021,Alm. Salg,112,47768,4,1899,
-787,Ejerlejlighed,Plantagevej 1A,7700, Thisted,5350000 ,28-12-2021,Alm. Salg,60,89167,2,1899,
-787,Ejerlejlighed,Plantagevej 3,7700, Thisted,5350000 ,28-12-2021,Alm. Salg,50,107000,2,1899,
-787,Ejerlejlighed,Plantagevej 1B,7700, Thisted,5350000 ,28-12-2021,Alm. Salg,80,66875,3,1899,
-787,Ejerlejlighed,Smøgen 4,7700, Thisted,5350000 ,28-12-2021,Alm. Salg,50,107000,2,1899,
 787,Villa,Hamborgvej 28,7730, Hanstholm,3780000 ,28-12-2021,Alm. Salg,235,16085,7,1942,
 787,Villa,Vinkelvej 12,7752, Snedsted,162600 ,27-12-2021,Alm. Salg,80,2033,2,1948,
 787,Villa,Stormgade 3,7755, Bedsted Thy,275000 ,27-12-2021,Alm. Salg,100,2750,3,1963,
@@ -846,9 +837,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Mardalvej 2,7700, Thisted,235000 ,21-11-2021,Fam. Salg,158,1487,7,1917,
 787,Villa,Lavendelvej 4,7752, Snedsted,906186 ,20-11-2021,Alm. Salg,158,5735,5,1979,
 787,Rækkehus,Møllevej 8A,7700, Thisted,330000 ,18-11-2021,Alm. Salg,67,4925,2,1877,-33%
-787,Ejerlejlighed,"Havnestræde 22, st",7700, Thisted,3200000 ,18-11-2021,Alm. Salg,45,71111,2,1886,
-787,Ejerlejlighed,"Havnestræde 24, st",7700, Thisted,3200000 ,18-11-2021,Alm. Salg,52,61538,2,1886,
-787,Ejerlejlighed,"Gryde Torv 18, 1",7700, Thisted,3200000 ,18-11-2021,Alm. Salg,192,16667,3,1886,
 787,Villa,Parcelvej 13,7760, Hurup Thy,515000 ,18-11-2021,Alm. Salg,125,4120,5,1975,-13%
 787,Villa,Faddersbøl Bro 7,7700, Thisted,875000 ,18-11-2021,Alm. Salg,270,3241,8,1905,-7%
 787,Villa,Skindbjerg Høje 15,7770, Vestervig,475000 ,18-11-2021,Alm. Salg,175,2714,6,1990,
@@ -932,7 +920,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Møllevangen 1,7752, Snedsted,370000 ,19-10-2021,Alm. Salg,117,3162,5,1977,-6%
 787,Villa,Fiskervej 17,7700, Thisted,750000 ,19-10-2021,Alm. Salg,219,3425,6,0,
 787,Villa,Østertoften 22,7700, Thisted,2995000 ,18-10-2021,Alm. Salg,188,15931,5,2004,
-787,Villa,Lerpyttervej 8C,7700, Thisted,1800000 ,18-10-2021,Alm. Salg,37,48649,1,1948,
 787,Villa,Svanevej 36,7760, Hurup Thy,3100000 ,18-10-2021,Alm. Salg,198,15657,4,2016,
 787,Villa,Gl. Sjørringvej 3,7700, Thisted,350000 ,17-10-2021,Alm. Salg,117,2991,4,1900,
 787,Villa,Strangesensvej 12,7770, Vestervig,110000 ,17-10-2021,Alm. Salg,123,894,4,1981,
@@ -962,8 +949,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Klosterengen 33,7700, Thisted,1130000 ,07-10-2021,Alm. Salg,183,6175,6,1925,-5%
 787,Villa,Hybenvænget 9,7700, Thisted,2195000 ,07-10-2021,Alm. Salg,193,11373,6,1969,
 787,Villa,Havremarken 92,7730, Hanstholm,785000 ,07-10-2021,Alm. Salg,108,7269,4,1979,
-787,Ejerlejlighed,"Vesterhavsgade 122B, 1",7700, Thisted,2245000 ,06-10-2021,Alm. Salg,176,12756,4,1969,-6%
-787,Villa,Vesterhavsgade 122,7700, Thisted,2245000 ,06-10-2021,Alm. Salg,176,6414,10,1969,-6%
 787,Villa,Peder Hausgaards Vej 32,7700, Thisted,601105 ,05-10-2021,Alm. Salg,180,3339,4,2022,
 787,Villa,Hvidbakken 9,7700, Thisted,1450000 ,04-10-2021,Alm. Salg,98,14796,3,1965,-3%
 787,Villa,Arupvej 21,7742, Vesløs,2875000 ,04-10-2021,Alm. Salg,252,11409,6,2014,-4%
@@ -1264,7 +1249,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Rækkehus,Dragsbækvej 26,7700, Thisted,670000 ,09-06-2021,Alm. Salg,70,9571,2,1900,-4%
 787,Villa,Højtoftevej 35,7700, Thisted,762995 ,09-06-2021,Alm. Salg,155,4923,6,1965,
 787,Villa,Kløvenhøjvej 15,7760, Hurup Thy,1850000 ,09-06-2021,Alm. Salg,221,8371,6,1998,
-787,Villa,Skovgade 20,7700, Thisted,3300000 ,09-06-2021,Alm. Salg,44,75000,1,1900,-6%
 787,Villa,Mælkebøttevej 22,7700, Thisted,1250000 ,09-06-2021,Alm. Salg,170,7353,5,1989,-3%
 787,Villa,Skifervej 5,7700, Thisted,400000 ,09-06-2021,Alm. Salg,122,3279,4,1979,
 787,Villa,Jyllands Alle 1,7700, Thisted,1390000 ,09-06-2021,Alm. Salg,170,8176,7,1916,
@@ -1440,7 +1424,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Gudnæsstrandvej 7,7752, Snedsted,1130000 ,07-04-2021,Alm. Salg,130,8692,4,1900,
 787,Villa,Pilgårdsvej 1,7742, Vesløs,750000 ,07-04-2021,Andet,102,7353,3,1978,
 787,Villa,Horsfeldvej 18,7755, Bedsted Thy,450000 ,06-04-2021,Alm. Salg,101,4455,3,1983,
-787,Villa,Møgelvej 63B,7752, Snedsted,10000 ,06-04-2021,Alm. Salg,58,172,1,1925,
 787,Villa,Åbrinken 52,7700, Thisted,1956094 ,06-04-2021,Fam. Salg,285,6863,8,1973,
 787,Ejerlejlighed,"Rosenkrantzgade 16, st. tv",7700, Thisted,323635 ,05-04-2021,Auktion,81,3995,2,1910,
 787,Villa,Tygstrupvej 10,7770, Vestervig,194264 ,05-04-2021,Auktion,126,1542,4,1927,-34%
@@ -1504,13 +1487,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Rækkehus,Nørrevænge 26,7700, Thisted,1390000 ,14-03-2021,Alm. Salg,126,11032,4,1989,-4%
 787,Villa,Landevejen 69,7760, Hurup Thy,225000 ,14-03-2021,Alm. Salg,100,2250,4,1907,-9%
 787,Villa,Fiskervej 48,7700, Thisted,1920000 ,14-03-2021,Alm. Salg,131,14656,4,1919,-4%
-787,Ejerlejlighed,Korsgade 14,7700, Thisted,1400000 ,11-03-2021,Alm. Salg,46,30435,1,1907,-7%
-787,Ejerlejlighed,"Østergade 22, st",7700, Thisted,1400000 ,11-03-2021,Alm. Salg,86,16279,3,1907,-7%
-787,Ejerlejlighed,"Østergade 24, 1. tv",7700, Thisted,1400000 ,11-03-2021,Alm. Salg,25,56000,1,1907,-7%
-787,Ejerlejlighed,"Østergade 24, st",7700, Thisted,1400000 ,11-03-2021,Alm. Salg,40,35000,2,1907,-7%
-787,Ejerlejlighed,"Østergade 26, 1. mf",7700, Thisted,1400000 ,11-03-2021,Alm. Salg,25,56000,1,1907,-7%
-787,Ejerlejlighed,"Østergade 26, 1. tv",7700, Thisted,1400000 ,11-03-2021,Alm. Salg,30,46667,1,1907,-7%
-787,Ejerlejlighed,"Østergade 26, 1. th",7700, Thisted,1400000 ,11-03-2021,Alm. Salg,35,40000,1,1907,-7%
 787,Ejerlejlighed,"Kastet 84, st. th",7700, Thisted,425000 ,11-03-2021,Alm. Salg,68,6250,3,1937,
 787,Villa,Gl. Sjørringvej 23,7700, Thisted,1730000 ,11-03-2021,Alm. Salg,173,10000,5,1972,
 787,Villa,Tviskjær 31,7700, Thisted,2650000 ,11-03-2021,Alm. Salg,180,14722,5,2018,
@@ -1561,7 +1537,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Ejerlejlighed,"Hundborgvej 2, 2",7700, Thisted,370000 ,28-02-2021,Alm. Salg,64,5781,2,1899,
 787,Villa,Hestekær 11,7700, Thisted,1185000 ,28-02-2021,Alm. Salg,228,5197,5,0,-54%
 787,Villa,Syrenvej 13,7700, Thisted,1450000 ,28-02-2021,Alm. Salg,142,10211,3,1980,
-787,Villa,Vesløs Huse 1,7700, Thisted,500000 ,28-02-2021,Alm. Salg,99,5051,5,1941,
 787,Villa,Lodbjergvej 44,7770, Vestervig,1250000 ,28-02-2021,Alm. Salg,147,8503,4,0,
 787,Villa,Rosenlundsgade 1A,7700, Thisted,2195000 ,28-02-2021,Alm. Salg,106,20708,3,2015,
 787,Villa,Margrethevej 41,7700, Thisted,2910000 ,27-02-2021,Alm. Salg,163,17853,6,1943,-3%
@@ -1621,12 +1596,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Nyhåbsvej 17,7752, Snedsted,710000 ,11-02-2021,Alm. Salg,196,3622,6,1929,-8%
 787,Villa,Digevænget 13,7700, Thisted,1100000 ,10-02-2021,Alm. Salg,122,9016,4,1971,
 787,Villa,Stensgårdsvej 7,7760, Hurup Thy,720000 ,10-02-2021,Alm. Salg,104,6923,5,1958,-9%
-787,Ejerlejlighed,"Simons Bakke 94A, 1",7700, Thisted,1260000 ,09-02-2021,Alm. Salg,112,11250,3,1946,
 787,Villa,Ørhagevej 142,7700, Thisted,1940000 ,09-02-2021,Alm. Salg,114,17018,5,1924,
 787,Villa,Østermøllevej 30,7700, Thisted,501423 ,09-02-2021,Alm. Salg,115,4360,4,1951,
 787,Villa,Thyrasvej 23,7760, Hurup Thy,2485000 ,09-02-2021,Alm. Salg,207,12005,6,1985,-2%
 787,Villa,Myntevej 6,7700, Thisted,429982 ,09-02-2021,Alm. Salg,164,2622,4,0,
-787,Villa,Simons Bakke 94B,7700, Thisted,1260000 ,09-02-2021,Alm. Salg,114,11053,5,1946,
 787,Villa,Gl. Sjørringvej 7,7700, Thisted,435000 ,08-02-2021,Alm. Salg,135,3222,5,1941,
 787,Villa,Højensvej 2,7755, Bedsted Thy,750000 ,08-02-2021,Alm. Salg,164,4573,5,1928,-23%
 787,Villa,Krik Strandvej 18,7770, Vestervig,665000 ,08-02-2021,Alm. Salg,116,5733,4,1966,-4%
@@ -1783,7 +1756,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Tviskjær 45,7700, Thisted,500111 ,26-11-2020,Alm. Salg,171,2925,4,2022,
 787,Villa,Kirkebyvej 24,7700, Thisted,850000 ,25-11-2020,Alm. Salg,88,9659,3,1959,-5%
 787,Villa,Byengsvej 15,7700, Thisted,3025000 ,25-11-2020,Alm. Salg,209,14474,9,1850,-5%
-787,Villa,Åsvej 5B,7700, Thisted,3350000 ,25-11-2020,Alm. Salg,277,12094,9,1880,-1%
 787,Villa,Vorupørvej 214,7700, Thisted,950000 ,25-11-2020,Alm. Salg,194,4897,7,1936,
 787,Ejerlejlighed,"Store Torv 2D, 2. 5",7700, Thisted,4600000 ,24-11-2020,Alm. Salg,181,25414,4,2009,
 787,Villa,Winthersmøllevej 4,7700, Thisted,1795000 ,24-11-2020,Alm. Salg,161,11149,5,2004,-3%
@@ -1828,8 +1800,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Urtehaven 8,7700, Thisted,3495000 ,10-11-2020,Alm. Salg,192,18203,4,2017,
 787,Villa,Højbogårdsvej 12,7755, Bedsted Thy,10000 ,09-11-2020,Alm. Salg,90,111,4,1870,
 787,Villa,Labyrinten 7,7700, Thisted,900000 ,09-11-2020,Alm. Salg,143,6294,4,1934,-10%
-787,Rækkehus,Iversensvej 4D,7700, Thisted,2500000 ,08-11-2020,Alm. Salg,117,21368,3,2021,
-787,Villa,Vorupørvej 16,7700, Thisted,2500000 ,08-11-2020,Alm. Salg,201,12438,4,1897,
 787,Villa,Ahornvej 37,7700, Thisted,1300000 ,08-11-2020,Alm. Salg,166,7831,5,1972,-10%
 787,Villa,Højtoftevej 22B,7700, Thisted,775000 ,08-11-2020,Alm. Salg,110,7045,3,1963,
 787,Villa,Østerild Byvej 117,7700, Thisted,108975 ,08-11-2020,Alm. Salg,140,778,4,1961,
@@ -2131,47 +2101,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Molevej 50,7730, Hanstholm,1345000 ,08-07-2020,Alm. Salg,225,5978,4,1963,
 787,Villa,Legindvej 92,7752, Snedsted,725000 ,07-07-2020,Alm. Salg,130,5577,4,1941,
 787,Rækkehus,Hundborgvej 89,7700, Thisted,237886 ,06-07-2020,Auktion,45,5286,2,1877,
-787,Ejerlejlighed,"Munkevej 7C, 1. th",7700, Thisted,41900000 ,06-07-2020,Andet,108,387963,3,1944,
-787,Ejerlejlighed,"Munkevej 7C, 3. th",7700, Thisted,41900000 ,06-07-2020,Andet,43,974419,1,1944,
-787,Ejerlejlighed,"Munkevej 7C, 3. tv",7700, Thisted,41900000 ,06-07-2020,Andet,136,308088,3,1944,
-787,Ejerlejlighed,"Munkevej 7C, 4. 1",7700, Thisted,41900000 ,06-07-2020,Andet,110,380909,3,1944,
-787,Ejerlejlighed,"Munkevej 7C, 4. 3",7700, Thisted,41900000 ,06-07-2020,Andet,115,364348,3,1944,
-787,Ejerlejlighed,"Munkevej 7C, 4. 2",7700, Thisted,41900000 ,06-07-2020,Andet,110,380909,3,1944,
-787,Ejerlejlighed,"Kastet 92, st",7700, Thisted,41900000 ,06-07-2020,Andet,72,581944,2,1941,
-787,Ejerlejlighed,"Kastet 96, st. 101",7700, Thisted,41900000 ,06-07-2020,Andet,49,855102,1,1943,
-787,Ejerlejlighed,"Kastet 96, st. 103",7700, Thisted,41900000 ,06-07-2020,Andet,44,952273,1,1943,
-787,Ejerlejlighed,"Kastet 96, st. 104",7700, Thisted,41900000 ,06-07-2020,Andet,58,722414,2,1943,
-787,Ejerlejlighed,"Kastet 96, st. 102",7700, Thisted,41900000 ,06-07-2020,Andet,44,952273,1,1943,
-787,Ejerlejlighed,"Kastet 92, 1",7700, Thisted,41900000 ,06-07-2020,Andet,117,358120,4,1941,
-787,Ejerlejlighed,"Kastet 96, st. 105",7700, Thisted,41900000 ,06-07-2020,Andet,63,665079,2,1943,
-787,Ejerlejlighed,"Kastet 96, 1. 108",7700, Thisted,41900000 ,06-07-2020,Andet,44,952273,1,1943,
-787,Ejerlejlighed,"Kastet 96, 1. 107",7700, Thisted,41900000 ,06-07-2020,Andet,44,952273,1,1943,
-787,Ejerlejlighed,"Kastet 96, 1. 106",7700, Thisted,41900000 ,06-07-2020,Andet,66,634849,2,1943,
-787,Ejerlejlighed,"Kastet 96, 1. 109",7700, Thisted,41900000 ,06-07-2020,Andet,58,722414,2,1943,
-787,Ejerlejlighed,"Kastet 96, 1. 110",7700, Thisted,41900000 ,06-07-2020,Andet,63,665079,2,1943,
-787,Ejerlejlighed,"Kastet 96, 2. 112",7700, Thisted,41900000 ,06-07-2020,Andet,44,952273,1,1943,
-787,Ejerlejlighed,"Kastet 96, 2. 111",7700, Thisted,41900000 ,06-07-2020,Andet,66,634849,2,1943,
-787,Ejerlejlighed,"Kastet 96, 2. 116",7700, Thisted,41900000 ,06-07-2020,Andet,53,790566,1,1943,
-787,Ejerlejlighed,"Kastet 96, 2. 113",7700, Thisted,41900000 ,06-07-2020,Andet,44,952273,1,1943,
-787,Ejerlejlighed,"Kastet 96, 2. 115",7700, Thisted,41900000 ,06-07-2020,Andet,58,722414,1,1943,
-787,Ejerlejlighed,"Kastet 96, 2. 114",7700, Thisted,41900000 ,06-07-2020,Andet,58,722414,2,1943,
-787,Ejerlejlighed,"Kastet 96, 2. 118",7700, Thisted,41900000 ,06-07-2020,Andet,67,625373,2,1943,
-787,Ejerlejlighed,"Kastet 96, 2. 117",7700, Thisted,41900000 ,06-07-2020,Andet,56,748214,1,1943,
-787,Ejerlejlighed,"Kastet 98, 1",7700, Thisted,41900000 ,06-07-2020,Andet,132,317424,3,1957,
-787,Ejerlejlighed,"Kastet 98, 2",7700, Thisted,41900000 ,06-07-2020,Andet,132,317424,4,1957,
-787,Ejerlejlighed,"Kastet 102, st. 3",7700, Thisted,41900000 ,06-07-2020,Andet,83,504819,2,1957,
-787,Ejerlejlighed,"Kastet 100, st. 1",7700, Thisted,41900000 ,06-07-2020,Andet,85,492941,2,1957,
-787,Ejerlejlighed,"Kastet 102, st. 2",7700, Thisted,41900000 ,06-07-2020,Andet,83,504819,2,1957,
-787,Ejerlejlighed,"Munkevej 7C, 2",7700, Thisted,41900000 ,06-07-2020,Andet,85,492941,2,1944,
-787,Ejerlejlighed,"Kastet 100, st. 3",7700, Thisted,41900000 ,06-07-2020,Andet,83,504819,2,1957,
-787,Ejerlejlighed,"Kastet 100, st. 2",7700, Thisted,41900000 ,06-07-2020,Andet,83,504819,2,1957,
-787,Ejerlejlighed,"Munkevej 7C, 3. mf",7700, Thisted,41900000 ,06-07-2020,Andet,158,265190,3,1944,
-787,Ejerlejlighed,"Kastet 100, st. 5",7700, Thisted,41900000 ,06-07-2020,Andet,83,504819,2,1957,
-787,Ejerlejlighed,"Kastet 102, st. 5",7700, Thisted,41900000 ,06-07-2020,Andet,85,492941,2,1957,
-787,Ejerlejlighed,"Munkevej 7A, 3",7700, Thisted,41900000 ,06-07-2020,Andet,128,327344,3,1944,
-787,Ejerlejlighed,"Kastet 100, st. 4",7700, Thisted,41900000 ,06-07-2020,Andet,83,504819,2,1957,
-787,Ejerlejlighed,"Kastet 102, st. 4",7700, Thisted,41900000 ,06-07-2020,Andet,83,504819,2,1957,
-787,Ejerlejlighed,"Kastet 102, st. 1",7700, Thisted,41900000 ,06-07-2020,Andet,122,343443,4,1957,
 787,Villa,Legindvej 39,7752, Snedsted,1500000 ,06-07-2020,Alm. Salg,142,10563,6,1914,
 787,Villa,Højstrupvej 75,7742, Vesløs,250000 ,06-07-2020,Auktion,153,1634,4,1947,-44%
 787,Villa,Sennels Hede 30,7700, Thisted,850000 ,06-07-2020,Alm. Salg,313,2716,5,0,
@@ -2308,12 +2237,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Hyldevej 12,7700, Thisted,1670000 ,10-05-2020,Alm. Salg,153,10915,4,1996,-7%
 787,Rækkehus,Gyvelvænget 119A,7730, Hanstholm,450000 ,07-05-2020,Alm. Salg,80,5625,3,1985,
 787,Villa,Aalborgvej 175,7700, Thisted,1185000 ,07-05-2020,Alm. Salg,215,5512,7,1917,
-787,Rækkehus,Iversensvej 4E,7700, Thisted,1100000 ,06-05-2020,Alm. Salg,116,9483,2,2021,-12%
 787,Villa,Kirkebyvej 20,7700, Thisted,110000 ,06-05-2020,Alm. Salg,80,1375,4,1957,
 787,Villa,Lupinvej 23,7700, Thisted,1500000 ,06-05-2020,Alm. Salg,145,10345,4,1969,-2%
 787,Villa,Møgelvej 36,7752, Snedsted,475000 ,06-05-2020,Alm. Salg,97,4897,3,1983,-10%
 787,Villa,Bakkedraget 29,7700, Thisted,1300000 ,06-05-2020,Alm. Salg,117,11111,4,1979,
-787,Villa,Mosevej 65,7700, Thisted,1100000 ,06-05-2020,Alm. Salg,166,6627,5,2021,-12%
 787,Villa,Solhøjvej 30,7700, Thisted,1160000 ,05-05-2020,Alm. Salg,126,9206,4,1962,-3%
 787,Villa,Lykkesvej 5,7700, Thisted,1695000 ,05-05-2020,Alm. Salg,186,9113,6,1953,
 787,Villa,Krænhavs Sti 7,7700, Thisted,2552500 ,05-05-2020,Alm. Salg,116,22004,6,1931,-15%
@@ -2599,17 +2526,13 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Dæmningen 6,7700, Thisted,425000 ,08-12-2019,Alm. Salg,170,2500,3,2021,
 787,Rækkehus,Møllebakken 11,7760, Hurup Thy,325000 ,06-12-2019,Alm. Salg,86,3779,4,1967,-13%
 787,Villa,Kragholmvej 18,7742, Vesløs,600000 ,06-12-2019,Alm. Salg,125,4800,4,1987,
-787,Ejerlejlighed,Sennelsvej 69A,7700, Thisted,310000 ,05-12-2019,Alm. Salg,116,2672,3,1938,-5%
 787,Villa,Snedstedvej 132,7752, Snedsted,678000 ,05-12-2019,Alm. Salg,107,6336,3,1957,-3%
 787,Villa,Helligsøvej 31,7760, Hurup Thy,407492 ,05-12-2019,Alm. Salg,185,2203,7,1897,
-787,Villa,"Sennelsvej 69, 1",7700, Thisted,310000 ,05-12-2019,Alm. Salg,156,1987,6,1938,-5%
 787,Villa,Vestervigvej 108,7755, Bedsted Thy,160000 ,05-12-2019,Alm. Salg,116,1379,4,1940,
 787,Villa,Frimervej 14,7742, Vesløs,2495000 ,05-12-2019,Alm. Salg,162,15401,5,2015,
 787,Villa,Møllevænget 11,7760, Hurup Thy,381767 ,05-12-2019,Alm. Salg,140,2727,4,1972,
 787,Villa,Præstebakken 13,7730, Hanstholm,525000 ,05-12-2019,Alm. Salg,158,3323,4,1976,-9%
-787,Rækkehus,Vesterstræde 12,7700, Thisted,1050000 ,04-12-2019,Alm. Salg,102,10294,4,1877,
 787,Villa,Bybakken 30,7730, Hanstholm,480000 ,04-12-2019,Alm. Salg,189,1391,9,1900,-9%
-787,Villa,Jacobsvej 2,7700, Thisted,1050000 ,04-12-2019,Alm. Salg,155,6774,3,1962,
 787,Villa,Langdyssevej 1A,7700, Thisted,1195000 ,04-12-2019,Alm. Salg,139,8597,5,1980,
 787,Rækkehus,Diget 2A,7700, Thisted,475000 ,03-12-2019,Alm. Salg,81,5864,3,1983,-5%
 787,Villa,Eronsvej 12,7752, Snedsted,1975000 ,03-12-2019,Alm. Salg,156,12660,4,1877,
@@ -2807,9 +2730,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Vendbjerg 36,7700, Thisted,3000000 ,01-09-2019,Alm. Salg,242,12397,6,2005,
 787,Villa,Lyngbyvej 53,7755, Bedsted Thy,1950000 ,01-09-2019,Alm. Salg,185,10541,6,1890,-2%
 787,Villa,Sennels Hede 28,7700, Thisted,2500000 ,31-08-2019,Alm. Salg,124,20161,6,1951,
-787,Ejerlejlighed,"Lunegårdsvej 2A, 1",7752, Snedsted,1225000 ,29-08-2019,Alm. Salg,144,8507,4,1954,
 787,Ejerlejlighed,Hundborgvej 86A,7700, Thisted,2100000 ,29-08-2019,Fam. Salg,115,18261,5,1898,
-787,Ejerlejlighed,"Hovedgaden 40A, 1",7752, Snedsted,1225000 ,29-08-2019,Alm. Salg,129,9496,6,1954,
 787,Villa,Slugten 13,7760, Hurup Thy,1900000 ,29-08-2019,Alm. Salg,253,7510,7,1974,-5%
 787,Villa,Østerild Byvej 30,7700, Thisted,410000 ,29-08-2019,Alm. Salg,163,2515,5,1900,
 787,Villa,Klitmøllervej 26,7700, Thisted,210000 ,29-08-2019,Alm. Salg,87,2414,4,1922,
@@ -2906,8 +2827,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Østerild Byvej 36,7700, Thisted,650000 ,11-07-2019,Alm. Salg,215,3023,7,1934,
 787,Villa,Nørhå Byvej 21,7752, Snedsted,450000 ,10-07-2019,Alm. Salg,131,3435,5,1900,-8%
 787,Rækkehus,Toftegade 22,7760, Hurup Thy,575000 ,09-07-2019,Alm. Salg,84,6845,2,1976,-11%
-787,Rækkehus,Brunsgaardvej 7,7700, Thisted,1100000 ,09-07-2019,Alm. Salg,85,12941,3,1976,
-787,Villa,Valmuevej 17,7700, Thisted,1100000 ,09-07-2019,Alm. Salg,215,5116,8,1975,-8%
 787,Villa,Bøgevænget 10,7700, Thisted,767081 ,09-07-2019,Alm. Salg,147,5218,4,2006,
 787,Villa,Hegnet 4,7700, Thisted,200000 ,08-07-2019,Alm. Salg,236,847,6,2021,
 787,Villa,Aldershvile 15,7760, Hurup Thy,1395000 ,07-07-2019,Alm. Salg,149,9362,6,1974,
@@ -3336,8 +3255,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Ejerlejlighed,"Skolegade 9, 1",7700, Thisted,1550000 ,06-12-2018,Alm. Salg,126,12302,4,1884,-2%
 787,Villa,Kærupvej 21,7741, Frøstrup,850000 ,06-12-2018,Alm. Salg,219,3881,7,1917,
 787,Villa,Agerland 12,7700, Thisted,1495000 ,05-12-2018,Alm. Salg,134,11157,6,1964,
-787,Ejerlejlighed,"Vegendalvej 12B, st. th",7700, Thisted,525000 ,04-12-2018,Alm. Salg,83,6325,3,1947,
-787,Villa,Klitmøllervej 78,7700, Thisted,525000 ,04-12-2018,Alm. Salg,163,3221,4,1938,-12%
 787,Villa,Fuglebakken 17,7760, Hurup Thy,595000 ,03-12-2018,Alm. Salg,115,5174,3,1971,-8%
 787,Villa,Skråningen 2,7700, Thisted,445000 ,03-12-2018,Auktion,156,2853,4,1968,-50%
 787,Villa,Fårtoftvej 80,7700, Thisted,1000000 ,03-12-2018,Alm. Salg,111,9009,3,1960,-13%
@@ -3376,7 +3293,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Bygmarken 98,7730, Hanstholm,1200000 ,18-11-2018,Alm. Salg,170,7059,5,1974,
 787,Villa,Rosenvænget 47,7752, Snedsted,715000 ,18-11-2018,Alm. Salg,134,5336,4,1976,-10%
 787,Villa,Strandvejen 104,7741, Frøstrup,441670 ,18-11-2018,Alm. Salg,105,4206,4,1898,
-787,Villa,Nørrealle 26A,7700, Thisted,2950000 ,17-11-2018,Alm. Salg,124,23790,5,1909,
 787,Villa,Knattrupvej 1,7752, Snedsted,437200 ,15-11-2018,Fam. Salg,135,3239,6,1965,
 787,Villa,Nørre Mølle 5,7700, Thisted,575000 ,13-11-2018,Alm. Salg,105,5476,2,2020,-3%
 787,Villa,Hamborgvej 33,7730, Hanstholm,725000 ,13-11-2018,Alm. Salg,216,3356,2,0,
@@ -3582,13 +3498,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Smedetoften 3,7700, Thisted,765000 ,30-07-2018,Alm. Salg,156,4904,5,1975,-10%
 787,Villa,Tangrimme 1,7700, Thisted,264000 ,30-07-2018,Auktion,109,2422,3,1877,
 787,Rækkehus,Nørrevænge 75,7700, Thisted,775000 ,26-07-2018,Alm. Salg,75,10333,3,1986,-3%
-787,Ejerlejlighed,"Tingstrupvej 1, 1",7700, Thisted,8500000 ,26-07-2018,Alm. Salg,106,80189,3,1959,
-787,Ejerlejlighed,"Vestergade 18B, 1. th",7700, Thisted,8500000 ,26-07-2018,Alm. Salg,75,113333,2,1922,
-787,Ejerlejlighed,"Vestergade 18B, 1. tv",7700, Thisted,8500000 ,26-07-2018,Alm. Salg,112,75893,3,1922,
-787,Ejerlejlighed,"Vestergade 18B, 2. th",7700, Thisted,8500000 ,26-07-2018,Alm. Salg,73,116438,2,1922,
-787,Ejerlejlighed,"Vestergade 18B, 2. tv",7700, Thisted,8500000 ,26-07-2018,Alm. Salg,116,73276,3,1922,
-787,Ejerlejlighed,"Vestergade 18B, 3. tv",7700, Thisted,8500000 ,26-07-2018,Alm. Salg,72,118056,2,1922,
-787,Ejerlejlighed,"Vestergade 18B, 3. th",7700, Thisted,8500000 ,26-07-2018,Alm. Salg,71,119718,2,1922,
 787,Villa,Bådsgårdsvej 29,7730, Hanstholm,845000 ,26-07-2018,Andet,119,7101,4,1934,22%
 787,Villa,Hovedgaden 79,7752, Snedsted,925000 ,26-07-2018,Alm. Salg,168,5506,7,1908,-7%
 787,Villa,Limfjordsvej 3,7700, Thisted,1035000 ,25-07-2018,Alm. Salg,119,8697,4,1965,-4%
@@ -4786,17 +4695,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Havglimt 8,7700, Thisted,1500000 ,16-11-2016,Alm. Salg,177,8475,5,1967,
 787,Villa,Rubyvej 1,7770, Vestervig,395000 ,15-11-2016,Alm. Salg,100,3950,3,1963,
 787,Villa,Havremarken 50,7730, Hanstholm,1050000 ,15-11-2016,Alm. Salg,159,6604,6,1976,-2%
-787,Ejerlejlighed,"Toldbodgade 2B, 3. 3",7700, Thisted,48705374 ,14-11-2016,Alm. Salg,140,347896,3,1973,
-787,Ejerlejlighed,"Toldbodgade 2B, 2. 2",7700, Thisted,48705374 ,14-11-2016,Alm. Salg,74,658181,1,1973,
-787,Ejerlejlighed,"Jernbanegade 7B, 2. th",7700, Thisted,48705374 ,14-11-2016,Alm. Salg,146,333598,2,1987,
-787,Ejerlejlighed,"Toldbodgade 2B, 1. 2",7700, Thisted,48705374 ,14-11-2016,Alm. Salg,82,593968,1,1973,
-787,Ejerlejlighed,"Toldbodgade 2B, 3. 2",7700, Thisted,48705374 ,14-11-2016,Alm. Salg,74,658181,1,1973,
-787,Ejerlejlighed,"Toldbodgade 2B, 3. 1",7700, Thisted,48705374 ,14-11-2016,Alm. Salg,96,507348,1,1973,
-787,Ejerlejlighed,"Jernbanegade 7B, 2. tv",7700, Thisted,48705374 ,14-11-2016,Alm. Salg,97,502117,1,1987,
-787,Ejerlejlighed,"Toldbodgade 2B, 2. 3",7700, Thisted,48705374 ,14-11-2016,Alm. Salg,140,347896,3,1973,
-787,Ejerlejlighed,"Toldbodgade 2B, 1. tv",7700, Thisted,48705374 ,14-11-2016,Alm. Salg,109,446838,2,1973,
-787,Ejerlejlighed,"Toldbodgade 2B, 2. 1",7700, Thisted,48705374 ,14-11-2016,Alm. Salg,96,507348,2,1973,
-787,Ejerlejlighed,"Toldbodgade 2B, 1. 3",7700, Thisted,48705374 ,14-11-2016,Alm. Salg,119,409289,2,1973,
 787,Villa,Vinkelvej 5,7752, Snedsted,550000 ,14-11-2016,Alm. Salg,130,4231,5,1967,-8%
 787,Villa,Morup Møllevej 98,7755, Bedsted Thy,700000 ,14-11-2016,Alm. Salg,219,3057,7,1896,
 787,Villa,Pantervej 10,7700, Thisted,2500000 ,13-11-2016,Alm. Salg,157,14970,5,1986,
@@ -5506,9 +5404,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Svalgårdsvej 7,7700, Thisted,230000 ,23-09-2015,Alm. Salg,120,1917,5,1964,-22%
 787,Villa,Møgelvej 171,7752, Snedsted,493318 ,23-09-2015,Fam. Salg,149,3311,4,1910,
 787,Villa,Jasminvej 20,7700, Thisted,1830000 ,23-09-2015,Alm. Salg,131,13969,5,1998,-2%
-787,Ejerlejlighed,Skovgade 11A,7700, Thisted,2200000 ,21-09-2015,Alm. Salg,79,27848,2,1888,
-787,Ejerlejlighed,Skovgade 11B,7700, Thisted,2200000 ,21-09-2015,Alm. Salg,88,25000,3,1888,
-787,Ejerlejlighed,Kirkestræde 4,7700, Thisted,2200000 ,21-09-2015,Alm. Salg,91,24176,3,1888,
 787,Villa,Hans Bachs Vej 7,7700, Thisted,1292500 ,21-09-2015,Alm. Salg,220,5875,7,2009,
 787,Villa,Ribesvej 22,7700, Thisted,1850000 ,20-09-2015,Alm. Salg,206,8981,6,1979,-2%
 787,Villa,Nørre Mølle 31,7700, Thisted,709000 ,20-09-2015,Alm. Salg,174,4075,3,2017,
@@ -5725,8 +5620,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Floravænget 14,7730, Hanstholm,450000 ,27-05-2015,Alm. Salg,158,2848,7,1965,
 787,Villa,Degnebakken 18,7760, Hurup Thy,1450000 ,27-05-2015,Alm. Salg,149,9732,5,1974,
 787,Villa,Tårnvej 3,7700, Thisted,530000 ,26-05-2015,Alm. Salg,175,3029,7,1900,-18%
-787,Ejerlejlighed,"Lille Torv 1A, 2",7700, Thisted,1025000 ,25-05-2015,Alm. Salg,160,6406,3,1914,
-787,Ejerlejlighed,"Skovgade 1A, 1",7700, Thisted,1025000 ,25-05-2015,Alm. Salg,112,9152,2,1914,
 787,Villa,Gadesvej 9,7700, Thisted,650000 ,25-05-2015,Alm. Salg,134,4851,4,1978,-6%
 787,Villa,Møgelvej 47,7752, Snedsted,780000 ,25-05-2015,Alm. Salg,132,5909,4,1995,-2%
 787,Villa,Vinkelalle 38,7700, Thisted,1360000 ,24-05-2015,Alm. Salg,149,9128,5,1966,-3%
@@ -5814,10 +5707,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Silstrupvej 24,7700, Thisted,3300000 ,29-03-2015,Alm. Salg,280,11786,8,2008,
 787,Villa,Søbakken 7,7700, Thisted,1395000 ,27-03-2015,Alm. Salg,212,6580,5,1972,
 787,Villa,Dalen 1,7700, Thisted,825000 ,27-03-2015,Alm. Salg,125,6600,5,1968,
-787,Ejerlejlighed,Vesløs Stationsvej 22B,7742, Vesløs,400000 ,26-03-2015,Alm. Salg,167,2395,4,1906,
 787,Villa,Krinkelkrogen 1,7741, Frøstrup,765000 ,26-03-2015,Alm. Salg,129,5930,3,1988,-9%
 787,Villa,Bødkervej 67,7730, Hanstholm,650000 ,26-03-2015,Fam. Salg,198,3283,6,1994,
-787,Villa,Vesløs Stationsvej 22C,7742, Vesløs,400000 ,26-03-2015,Alm. Salg,64,6250,2,1956,
 787,Villa,Elmevænget 9,7730, Hanstholm,450000 ,25-03-2015,Alm. Salg,107,4206,4,1964,
 787,Villa,Østerild Byvej 17,7700, Thisted,116442 ,24-03-2015,Auktion,114,1021,3,1947,
 787,Villa,Blommevej 9,7741, Frøstrup,350000 ,23-03-2015,Alm. Salg,117,2991,4,1979,
@@ -5986,8 +5877,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Oddershedevej 1,7700, Thisted,422641 ,02-12-2014,Auktion,180,2348,5,1932,-66%
 787,Villa,Ballerumvej 304,7700, Thisted,132007 ,02-12-2014,Auktion,70,1886,3,1840,
 787,Villa,Vestervigvej 47,7755, Bedsted Thy,1200000 ,01-12-2014,Alm. Salg,136,8824,4,2014,
-787,Ejerlejlighed,"Lunegårdsvej 2A, 1",7752, Snedsted,1476170 ,30-11-2014,Alm. Salg,144,10251,4,1954,
-787,Ejerlejlighed,"Hovedgaden 40A, 1",7752, Snedsted,1476170 ,30-11-2014,Alm. Salg,129,11443,6,1954,
 787,Villa,Vesterhavsgade 22C,7700, Thisted,1079122 ,30-11-2014,Alm. Salg,139,5591,5,1965,
 787,Villa,Hedegårdsvej 43,7755, Bedsted Thy,1824711 ,30-11-2014,Fam. Salg,401,3747,6,1915,
 787,Villa,Krovej 35,7700, Thisted,1925000 ,30-11-2014,Alm. Salg,200,9625,3,2003,-4%
@@ -6081,8 +5970,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Ejerlejlighed,"Kastet 86, 1. th",7700, Thisted,44837 ,30-09-2014,Auktion,66,679,3,1937,
 787,Villa,Mardalvej 1,7700, Thisted,850000 ,30-09-2014,Alm. Salg,150,5667,5,2003,
 787,Villa,Kællingdal 26,7730, Hanstholm,1575000 ,30-09-2014,Alm. Salg,75,21000,3,1923,-7%
-787,Ejerlejlighed,"Bakkevej 2, 1",7700, Thisted,750000 ,29-09-2014,Alm. Salg,86,8721,2,1907,
-787,Ejerlejlighed,"Vorupørvej 46, st. th",7700, Thisted,750000 ,29-09-2014,Alm. Salg,90,8333,3,1907,
 787,Villa,Skråvej 2,7700, Thisted,350000 ,29-09-2014,Alm. Salg,210,1667,5,2016,-48%
 787,Villa,Baunevej 4,7700, Thisted,915000 ,28-09-2014,Alm. Salg,171,5351,4,1935,-8%
 787,Villa,Lærkevænget 2,7700, Thisted,1537500 ,28-09-2014,Alm. Salg,259,5936,7,1982,-4%
@@ -6148,7 +6035,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Vinkelalle 18,7700, Thisted,825000 ,20-08-2014,Alm. Salg,134,6157,5,1959,-8%
 787,Villa,Sennelsvej 95,7700, Thisted,1175000 ,19-08-2014,Alm. Salg,152,7730,4,1969,-2%
 787,Villa,Horsfeldvej 12,7755, Bedsted Thy,865000 ,19-08-2014,Alm. Salg,254,3406,9,1977,
-787,Villa,Nørrealle 26A,7700, Thisted,1500000 ,19-08-2014,Fam. Salg,124,12097,5,1909,
 787,Villa,Anemonevænget 7,7730, Hanstholm,600000 ,17-08-2014,Alm. Salg,135,4444,5,1962,-8%
 787,Villa,Ahornvej 33,7700, Thisted,1550000 ,15-08-2014,Alm. Salg,124,12500,4,1972,
 787,Villa,Søndergårdsvej 7,7700, Thisted,1025000 ,14-08-2014,Alm. Salg,143,7168,7,1966,
@@ -6367,8 +6253,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Sennelsvej 135,7700, Thisted,1800000 ,20-03-2014,Alm. Salg,170,10588,5,2002,-5%
 787,Villa,Kløv Mølle Vej 5,7700, Thisted,275000 ,20-03-2014,Alm. Salg,94,2926,4,1917,-7%
 787,Villa,Legårdsvej 35,7752, Snedsted,835000 ,20-03-2014,Alm. Salg,208,4014,6,1911,
-787,Ejerlejlighed,"Lille Torv 1A, 2",7700, Thisted,4000000 ,18-03-2014,Fam. Salg,160,25000,3,1914,
-787,Ejerlejlighed,"Skovgade 1A, 1",7700, Thisted,4000000 ,18-03-2014,Fam. Salg,112,35714,2,1914,
 787,Villa,Hejrevej 8,7700, Thisted,1062500 ,18-03-2014,Alm. Salg,93,11425,4,1966,-1%
 787,Villa,Fabriksvej 3,7760, Hurup Thy,1400000 ,17-03-2014,Alm. Salg,169,8284,5,1983,-6%
 787,Villa,Østre Alle 27,7760, Hurup Thy,645000 ,17-03-2014,Alm. Salg,109,5917,4,1961,-4%
@@ -6466,13 +6350,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Søndergade 23,7760, Hurup Thy,150000 ,06-01-2014,Alm. Salg,64,2344,3,1900,
 787,Villa,Hans Bachs Vej 18,7700, Thisted,293130 ,06-01-2014,Andet,151,1941,5,2016,
 787,Villa,Kirkebyvej 14,7700, Thisted,1285000 ,05-01-2014,Alm. Salg,137,9380,6,1962,-1%
-787,Ejerlejlighed,"Havnestræde 22, st",7700, Thisted,2500000 ,01-01-2014,Alm. Salg,45,55556,2,1886,
-787,Ejerlejlighed,"Havnestræde 24, st",7700, Thisted,2500000 ,01-01-2014,Alm. Salg,52,48077,2,1886,
-787,Ejerlejlighed,"Gryde Torv 18, 1",7700, Thisted,2500000 ,01-01-2014,Alm. Salg,192,13021,3,1886,
 787,Villa,Gl. Sjørringvej 8,7700, Thisted,375000 ,01-01-2014,Alm. Salg,147,2551,3,1936,-37%
 787,Villa,Søndergade 46,7760, Hurup Thy,295000 ,01-01-2014,Alm. Salg,285,1035,6,2015,-16%
-787,Ejerlejlighed,Havnestræde 3,7700, Thisted,412500 ,31-12-2013,Fam. Salg,78,5288,2,1913,
-787,Ejerlejlighed,"Lillegade 9, 1",7700, Thisted,412500 ,31-12-2013,Fam. Salg,65,6346,3,1913,
 787,Villa,Fresiavænget 28,7730, Hanstholm,420000 ,31-12-2013,Andet,130,3231,5,1966,
 787,Villa,Søndergade 50,7760, Hurup Thy,1360000 ,27-12-2013,Alm. Salg,175,7771,7,1900,-9%
 787,Villa,Norsvej 79,7700, Thisted,2100000 ,25-12-2013,Alm. Salg,186,11290,6,2010,-9%
@@ -6490,7 +6369,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Kirkegårdsvej 1,7700, Thisted,1950000 ,16-12-2013,Andet,206,8705,6,1882,
 787,Villa,Spanggårdsvej 8,7700, Thisted,450000 ,16-12-2013,Alm. Salg,169,2663,6,1916,
 787,Villa,Kolonihavevej 8,7752, Snedsted,375000 ,16-12-2013,Alm. Salg,72,5208,3,1954,
-787,Villa,Kalles Mark 17,7700, Thisted,1400000 ,15-12-2013,Alm. Salg,176,7955,6,2001,
 787,Villa,Stormgade 31,7755, Bedsted Thy,600000 ,12-12-2013,Alm. Salg,116,5172,4,1977,
 787,Villa,Klitmøllervej 20,7700, Thisted,300000 ,11-12-2013,Fam. Salg,114,2632,4,1952,
 787,Villa,Birkevej 62,7700, Thisted,1100000 ,11-12-2013,Alm. Salg,129,8527,4,1970,-10%
@@ -6718,10 +6596,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Vejlevejen 21,7742, Vesløs,280000 ,30-06-2013,Alm. Salg,93,3011,3,1967,-5%
 787,Villa,Klatmøllevej 14,7700, Thisted,2056000 ,30-06-2013,Alm. Salg,158,13013,6,1967,
 787,Villa,Havremarken 44,7730, Hanstholm,948000 ,28-06-2013,Alm. Salg,130,7292,5,1976,-5%
-787,Rækkehus,Søndergade 24C,7760, Hurup Thy,1150000 ,27-06-2013,Alm. Salg,88,13068,3,2010,-8%
 787,Villa,Perikonvej 3,7700, Thisted,1320000 ,27-06-2013,Alm. Salg,151,8742,4,1997,-5%
 787,Villa,Ved Parken 35,7752, Snedsted,29000000 ,27-06-2013,Alm. Salg,262,110687,6,2022,
-787,Villa,Møllebakken 26,7760, Hurup Thy,1150000 ,27-06-2013,Alm. Salg,105,10952,3,1965,
 787,Villa,Malurtvej 14,7700, Thisted,1500000 ,26-06-2013,Fam. Salg,193,7772,8,1983,
 787,Villa,Thylandsgade 44,7755, Bedsted Thy,395000 ,26-06-2013,Alm. Salg,135,2926,7,1918,-11%
 787,Villa,Kronborgvej 103,7700, Thisted,745000 ,26-06-2013,Alm. Salg,112,6652,5,1967,-6%
@@ -6734,19 +6610,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Marievej 4,7752, Snedsted,850000 ,24-06-2013,Alm. Salg,74,11486,4,1950,
 787,Villa,Stadionvej 6,7752, Snedsted,150000 ,24-06-2013,Alm. Salg,100,1500,4,1928,-23%
 787,Villa,Urtehaven 9,7700, Thisted,545000 ,24-06-2013,Alm. Salg,167,3263,6,2014,
-787,Ejerlejlighed,"Jernbanegade 28, 1. th",7700, Thisted,8450000 ,23-06-2013,Alm. Salg,74,114189,3,1912,
-787,Ejerlejlighed,"Jernbanegade 28, st. th",7700, Thisted,8450000 ,23-06-2013,Alm. Salg,81,104321,3,1912,
-787,Ejerlejlighed,"Jernbanegade 28, st. mf",7700, Thisted,8450000 ,23-06-2013,Alm. Salg,75,112667,3,1912,
-787,Ejerlejlighed,"Jernbanegade 28, st. tv",7700, Thisted,8450000 ,23-06-2013,Alm. Salg,45,187778,1,1912,
-787,Ejerlejlighed,"Jernbanegade 28, 2. mf",7700, Thisted,8450000 ,23-06-2013,Alm. Salg,59,143220,2,1912,
-787,Ejerlejlighed,"Jernbanegade 28, 1. tv",7700, Thisted,8450000 ,23-06-2013,Alm. Salg,77,109740,3,1912,
-787,Ejerlejlighed,"Jernbanegade 28, 2. th",7700, Thisted,8450000 ,23-06-2013,Alm. Salg,61,138525,2,1912,
-787,Ejerlejlighed,"Jernbanegade 28, 2. tv",7700, Thisted,8450000 ,23-06-2013,Alm. Salg,65,130000,1,1912,
-787,Ejerlejlighed,"Asylgade 2, st",7700, Thisted,8450000 ,23-06-2013,Alm. Salg,70,120714,3,1912,
-787,Ejerlejlighed,"Asylgade 2, 1",7700, Thisted,8450000 ,23-06-2013,Alm. Salg,80,105625,3,1912,
-787,Ejerlejlighed,"Frederiksgade 9, 1. th",7700, Thisted,8450000 ,23-06-2013,Alm. Salg,80,105625,3,1912,
-787,Ejerlejlighed,"Frederiksgade 9, st",7700, Thisted,8450000 ,23-06-2013,Alm. Salg,67,126119,3,1912,
-787,Ejerlejlighed,"Frederiksgade 9, 1. tv",7700, Thisted,8450000 ,23-06-2013,Alm. Salg,67,126119,2,1912,
 787,Villa,Vindstyrken 1,7700, Thisted,1025000 ,20-06-2013,Alm. Salg,184,5571,7,1969,-14%
 787,Villa,Degnevænget 14,7752, Snedsted,350000 ,19-06-2013,Alm. Salg,128,2734,4,1976,-29%
 787,Villa,Aalborgvej 154,7700, Thisted,190000 ,19-06-2013,Alm. Salg,119,1597,3,1917,
@@ -6970,7 +6833,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Idylvej 11,7700, Thisted,1645000 ,10-02-2013,Alm. Salg,160,10281,5,1960,
 787,Villa,Porfyrvej 9,7700, Thisted,225000 ,09-02-2013,Alm. Salg,120,1875,3,1925,-8%
 787,Villa,Silstrupvej 62,7700, Thisted,915000 ,08-02-2013,Alm. Salg,107,8551,4,1963,-2%
-787,Villa,I. P. Jacobsens Plads 7,7700, Thisted,4500000 ,07-02-2013,Alm. Salg,120,37500,4,1877,
 787,Villa,Degnevænget 9,7752, Snedsted,1325000 ,07-02-2013,Alm. Salg,210,6310,6,1973,
 787,Villa,Dragsbækvej 64A,7700, Thisted,1400000 ,07-02-2013,Alm. Salg,96,14583,3,1950,
 787,Villa,Gartnervænget 10,7752, Snedsted,995000 ,05-02-2013,Alm. Salg,196,5077,8,1967,
@@ -7035,8 +6897,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Toftevej 31,7700, Thisted,1025000 ,12-12-2012,Alm. Salg,140,7321,4,1970,-6%
 787,Villa,Nellikevej 38,7700, Thisted,885000 ,12-12-2012,Alm. Salg,115,7696,4,1976,-9%
 787,Villa,Parkvej 42,7700, Thisted,745000 ,12-12-2012,Alm. Salg,139,5360,4,1979,-6%
-787,Ejerlejlighed,"Lunegårdsvej 2A, 1",7752, Snedsted,2500000 ,10-12-2012,Alm. Salg,144,17361,4,1954,
-787,Ejerlejlighed,"Hovedgaden 40A, 1",7752, Snedsted,2500000 ,10-12-2012,Alm. Salg,129,19380,6,1954,
 787,Villa,Lindealle 4A,7700, Thisted,995000 ,10-12-2012,Alm. Salg,88,11307,3,1987,
 787,Villa,Kjelstrupvej 27,7700, Thisted,410548 ,10-12-2012,Fam. Salg,217,1892,5,1887,
 787,Villa,Klostermøllevej 32,7770, Vestervig,510000 ,09-12-2012,Alm. Salg,93,5484,4,1900,
@@ -7314,8 +7174,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Simons Bakke 24,7700, Thisted,985000 ,20-05-2012,Alm. Salg,92,10707,3,1922,
 787,Villa,Lykkesvej 31,7700, Thisted,1015000 ,20-05-2012,Alm. Salg,129,7868,5,1968,-6%
 787,Rækkehus,Møllevej 86,7700, Thisted,625000 ,16-05-2012,Alm. Salg,95,6579,4,1913,
-787,Ejerlejlighed,Havnestræde 3,7700, Thisted,780000 ,15-05-2012,Alm. Salg,78,10000,2,1913,-11%
-787,Ejerlejlighed,"Lillegade 9, 1",7700, Thisted,780000 ,15-05-2012,Alm. Salg,65,12000,3,1913,-11%
 787,Villa,Østermøllevej 27,7700, Thisted,1065000 ,15-05-2012,Alm. Salg,66,16136,3,1955,
 787,Villa,Gyvelvænget 17,7755, Bedsted Thy,325000 ,15-05-2012,Alm. Salg,118,2754,3,1975,
 787,Villa,Følfodvej 51,7700, Thisted,800000 ,14-05-2012,Alm. Salg,157,5096,4,1956,-11%
@@ -7345,8 +7203,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Sennelsvej 5,7700, Thisted,397307 ,26-04-2012,Andet,176,2257,7,1930,
 787,Villa,Stationsvej 25,7700, Thisted,525000 ,26-04-2012,Alm. Salg,128,4102,3,1952,-4%
 787,Villa,Norsvej 69,7700, Thisted,200000 ,26-04-2012,Alm. Salg,122,1639,4,1941,-64%
-787,Ejerlejlighed,Vesløs Stationsvej 22B,7742, Vesløs,175000 ,25-04-2012,Alm. Salg,167,1048,4,1906,
-787,Villa,Vesløs Stationsvej 22C,7742, Vesløs,175000 ,25-04-2012,Alm. Salg,64,2734,2,1956,
 787,Villa,Tviskjær 13,7700, Thisted,2100000 ,25-04-2012,Alm. Salg,229,9170,7,1997,-12%
 787,Villa,Aalborgvej 191,7742, Vesløs,480000 ,24-04-2012,Alm. Salg,115,4174,3,1935,
 787,Villa,Gl. Feggesundvej 23,7742, Vesløs,1567000 ,24-04-2012,Alm. Salg,196,6784,7,1987,
@@ -7522,9 +7378,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Ejerlejlighed,"Dr. Louise Gade 10A, 2. tv",7700, Thisted,535000 ,19-12-2011,Alm. Salg,80,6688,3,1920,
 787,Villa,Ruesbak 16,7700, Thisted,575000 ,19-12-2011,Alm. Salg,155,3710,5,1933,
 787,Villa,Stationsvej 4,7700, Thisted,700000 ,19-12-2011,Alm. Salg,153,4575,5,1935,
-787,Ejerlejlighed,"Vestergade 30A, 2",7700, Thisted,2098000 ,18-12-2011,Alm. Salg,40,52450,3,1890,
-787,Ejerlejlighed,"Vestergade 30A, 1",7700, Thisted,2098000 ,18-12-2011,Alm. Salg,80,26225,3,1890,
-787,Ejerlejlighed,"Rosenkrantzgade 9, 1",7700, Thisted,2098000 ,18-12-2011,Alm. Salg,40,52450,2,1850,
 787,Villa,Lyngholmvej 2,7755, Bedsted Thy,240000 ,18-12-2011,Alm. Salg,95,2526,3,1931,-9%
 787,Villa,Islandsvej 21,7700, Thisted,1681208 ,18-12-2011,Alm. Salg,208,8083,6,1964,
 787,Rækkehus,Hotelvej 5C,7700, Thisted,2000000 ,15-12-2011,Alm. Salg,106,18868,3,1930,
@@ -7671,16 +7524,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Bybakken 66,7730, Hanstholm,645000 ,06-09-2011,Alm. Salg,178,3624,7,1962,
 787,Villa,Østergade 20,7755, Bedsted Thy,350000 ,05-09-2011,Andet,167,2096,8,1913,-11%
 787,Villa,Klatmøllevej 19,7700, Thisted,798640 ,05-09-2011,Fam. Salg,263,3037,8,1976,
-787,Ejerlejlighed,"Dr. Louise Gade 12B, st. tv",7700, Thisted,6100000 ,04-09-2011,Alm. Salg,80,76250,3,1901,
-787,Ejerlejlighed,"Dr. Louise Gade 12B, st. th",7700, Thisted,6100000 ,04-09-2011,Alm. Salg,80,76250,3,1901,
-787,Ejerlejlighed,"Dr. Louise Gade 12B, 1. th",7700, Thisted,6100000 ,04-09-2011,Alm. Salg,77,79221,3,1901,
-787,Ejerlejlighed,"Dr. Louise Gade 12B, 1. tv",7700, Thisted,6100000 ,04-09-2011,Alm. Salg,96,63542,4,1901,
-787,Ejerlejlighed,"Dr. Louise Gade 12B, 2. th",7700, Thisted,6100000 ,04-09-2011,Alm. Salg,67,91045,2,1901,
-787,Ejerlejlighed,"Dr. Louise Gade 12B, 2. tv",7700, Thisted,6100000 ,04-09-2011,Alm. Salg,41,148780,2,1901,
-787,Ejerlejlighed,"Dr. Louise Gade 12B, 2. mf",7700, Thisted,6100000 ,04-09-2011,Alm. Salg,46,132609,2,1901,
-787,Ejerlejlighed,"Kongensgade 21, 2",7700, Thisted,6100000 ,04-09-2011,Alm. Salg,77,79221,2,1901,
-787,Ejerlejlighed,"Kongensgade 21, 1",7700, Thisted,6100000 ,04-09-2011,Alm. Salg,79,77215,2,1901,
-787,Ejerlejlighed,"Kongensgade 23, st",7700, Thisted,6100000 ,04-09-2011,Alm. Salg,92,66304,2,1901,
 787,Villa,Gartnervænget 12,7752, Snedsted,1900000 ,04-09-2011,Alm. Salg,193,9845,7,1980,
 787,Villa,Sælholmvej 3,7770, Vestervig,550000 ,04-09-2011,Alm. Salg,127,4331,4,1978,
 787,Villa,Michel Wester 10,7700, Thisted,1680000 ,04-09-2011,Alm. Salg,131,12824,4,2011,-6%
@@ -7713,8 +7556,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Sennelsvej 91,7700, Thisted,940000 ,22-08-2011,Alm. Salg,172,5465,4,1968,-21%
 787,Villa,Kolonihavevej 18,7752, Snedsted,785000 ,22-08-2011,Alm. Salg,128,6133,3,1930,
 787,Villa,Spurveskjul 18,7700, Thisted,800000 ,19-08-2011,Alm. Salg,92,8696,4,1967,-9%
-787,Ejerlejlighed,Grønnevej 1,7760, Hurup Thy,565000 ,18-08-2011,Alm. Salg,89,6348,4,1877,
-787,Ejerlejlighed,"Bredgade 97, 2",7760, Hurup Thy,565000 ,18-08-2011,Alm. Salg,60,9417,2,1877,
 787,Villa,Blommevej 22,7741, Frøstrup,503000 ,18-08-2011,Alm. Salg,165,3048,8,1978,
 787,Villa,Nordsøvej 57,7700, Thisted,590000 ,17-08-2011,Alm. Salg,140,4214,5,1935,
 787,Villa,Kærleddet 3,7700, Thisted,2100000 ,17-08-2011,Alm. Salg,163,12883,6,1976,24%
@@ -7897,7 +7738,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Kanalvej 38,7700, Thisted,995000 ,02-05-2011,Alm. Salg,176,5653,5,1926,
 787,Villa,Åbrinken 55,7700, Thisted,630000 ,02-05-2011,Fam. Salg,178,3539,6,1968,
 787,Villa,Lien 54,7700, Thisted,610000 ,28-04-2011,Alm. Salg,146,4178,5,1917,-28%
-787,Ejerlejlighed,"Vorupørvej 54, 1",7700, Thisted,1150000 ,27-04-2011,Fam. Salg,78,14744,6,1917,
 787,Villa,Skovbrynet 12,7755, Bedsted Thy,290156 ,27-04-2011,Andet,96,3022,4,1965,
 787,Villa,Snejstrupvej 9,7700, Thisted,700000 ,26-04-2011,Alm. Salg,150,4667,4,1981,-12%
 787,Villa,Stensagervej 8,7700, Thisted,1400000 ,26-04-2011,Alm. Salg,181,7735,6,1962,-3%
@@ -8125,11 +7965,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Bredgade 180,7760, Hurup Thy,275000 ,08-12-2010,Alm. Salg,127,2165,4,2012,-4%
 787,Villa,Ny Refsvej 77,7760, Hurup Thy,2478000 ,07-12-2010,Alm. Salg,270,9178,10,1861,
 787,Villa,Skovvej 2,7755, Bedsted Thy,395000 ,07-12-2010,Alm. Salg,70,5643,4,1964,
-787,Ejerlejlighed,"Havnestræde 8, st",7700, Thisted,2400000 ,06-12-2010,Andet,177,13559,5,1877,
-787,Ejerlejlighed,"Lillegade 7, 1. 1",7700, Thisted,2400000 ,06-12-2010,Andet,50,48000,1,1877,
-787,Ejerlejlighed,"Lillegade 7, 1. 4",7700, Thisted,2400000 ,06-12-2010,Andet,82,29268,2,1877,
-787,Ejerlejlighed,"Lillegade 7, st",7700, Thisted,2400000 ,06-12-2010,Andet,65,36923,2,1877,
-787,Ejerlejlighed,"Lillegade 7, 1. 2",7700, Thisted,2400000 ,06-12-2010,Andet,63,38095,2,1877,
 787,Villa,Ahornvej 6,7700, Thisted,2225000 ,04-12-2010,Alm. Salg,165,13485,5,1975,-11%
 787,Villa,Elmevænget 12,7730, Hanstholm,500000 ,01-12-2010,Fam. Salg,96,5208,4,1964,
 787,Villa,Timianvej 1,7700, Thisted,400000 ,01-12-2010,Alm. Salg,177,2260,5,2020,
@@ -8336,12 +8171,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Østerild Byvej 25,7700, Thisted,425000 ,08-08-2010,Alm. Salg,112,3795,5,1965,-14%
 787,Villa,Bygmarken 58,7730, Hanstholm,447159 ,08-08-2010,Alm. Salg,134,3337,5,1973,
 787,Villa,Nørre Mølle 23,7700, Thisted,745000 ,05-08-2010,Alm. Salg,202,3688,5,2016,
-787,Ejerlejlighed,Nørregade 1A,7700, Thisted,1125000 ,03-08-2010,Alm. Salg,130,8654,4,1899,
-787,Ejerlejlighed,Nørregade 1B,7700, Thisted,1125000 ,03-08-2010,Alm. Salg,112,10045,4,1899,
-787,Ejerlejlighed,Plantagevej 1A,7700, Thisted,1125000 ,03-08-2010,Alm. Salg,60,18750,2,1899,
-787,Ejerlejlighed,Plantagevej 3,7700, Thisted,1125000 ,03-08-2010,Alm. Salg,50,22500,2,1899,
-787,Ejerlejlighed,Plantagevej 1B,7700, Thisted,1125000 ,03-08-2010,Alm. Salg,80,14063,3,1899,
-787,Ejerlejlighed,Smøgen 4,7700, Thisted,1125000 ,03-08-2010,Alm. Salg,50,22500,2,1899,
 787,Villa,Vinkelvej 10,7752, Snedsted,495000 ,02-08-2010,Alm. Salg,110,4500,4,1941,
 787,Villa,Gl. Feggesundvej 78,7742, Vesløs,1535000 ,31-07-2010,Alm. Salg,172,8924,4,2004,-4%
 787,Villa,Landevejen 51,7760, Hurup Thy,150000 ,29-07-2010,Alm. Salg,100,1500,5,1948,-14%
@@ -8475,15 +8304,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Vesløs Stationsvej 18,7742, Vesløs,780000 ,05-05-2010,Alm. Salg,303,2574,6,1910,-2%
 787,Villa,Margrethevej 39,7700, Thisted,858000 ,05-05-2010,Alm. Salg,158,5430,5,1942,
 787,Villa,Frejasvej 8,7700, Thisted,2325000 ,05-05-2010,Alm. Salg,164,14177,5,2007,-3%
-787,Ejerlejlighed,"Vestergade 21B, 1",7700, Thisted,9140080 ,04-05-2010,Alm. Salg,79,115697,3,1920,
-787,Ejerlejlighed,"Vestergade 21B, 3",7700, Thisted,9140080 ,04-05-2010,Alm. Salg,52,175771,3,1920,
-787,Ejerlejlighed,"Vestergade 21B, 2",7700, Thisted,9140080 ,04-05-2010,Alm. Salg,75,121868,3,1920,
-787,Ejerlejlighed,"Frederiksgade 2A, 1. th",7700, Thisted,9140080 ,04-05-2010,Alm. Salg,105,87048,4,1920,
-787,Ejerlejlighed,"Frederiksgade 2A, 2. tv",7700, Thisted,9140080 ,04-05-2010,Alm. Salg,86,106280,3,1920,
-787,Ejerlejlighed,"Frederiksgade 2A, 3. th",7700, Thisted,9140080 ,04-05-2010,Alm. Salg,57,160352,2,1920,
-787,Ejerlejlighed,"Frederiksgade 2A, 3. tv",7700, Thisted,9140080 ,04-05-2010,Alm. Salg,62,147421,3,1920,
-787,Ejerlejlighed,"Frederiksgade 2A, 1. tv",7700, Thisted,9140080 ,04-05-2010,Alm. Salg,89,102698,3,1920,
-787,Ejerlejlighed,"Frederiksgade 2A, 2. th",7700, Thisted,9140080 ,04-05-2010,Alm. Salg,102,89609,4,1920,
 787,Villa,Ashøjgade 20,7760, Hurup Thy,760000 ,04-05-2010,Alm. Salg,135,5630,4,1900,-4%
 787,Villa,Floravænget 38,7730, Hanstholm,1050000 ,03-05-2010,Alm. Salg,116,9052,4,1966,
 787,Villa,Skellet 3,7700, Thisted,837500 ,02-05-2010,Alm. Salg,92,9103,3,1988,-4%
@@ -8512,19 +8332,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Rosenvænget 20,7752, Snedsted,825000 ,21-04-2010,Alm. Salg,109,7569,3,1973,-2%
 787,Villa,Ærenprisvej 8,7700, Thisted,800000 ,21-04-2010,Alm. Salg,133,6015,4,1969,-16%
 787,Villa,Tygstrupvej 35,7760, Hurup Thy,579500 ,21-04-2010,Alm. Salg,177,3274,6,1928,
-787,Ejerlejlighed,"Kronborgvej 2, kl",7700, Thisted,8000000 ,20-04-2010,Alm. Salg,32,250000,1,1920,
-787,Ejerlejlighed,"Kronborgvej 2, st. th",7700, Thisted,8000000 ,20-04-2010,Alm. Salg,58,137931,2,1920,
-787,Ejerlejlighed,"Kronborgvej 2, st. tv",7700, Thisted,8000000 ,20-04-2010,Alm. Salg,57,140351,2,1920,
-787,Ejerlejlighed,"Kronborgvej 2, 1. tv",7700, Thisted,8000000 ,20-04-2010,Alm. Salg,57,140351,2,1920,
-787,Ejerlejlighed,"Kronborgvej 2, 1. th",7700, Thisted,8000000 ,20-04-2010,Alm. Salg,58,137931,2,1920,
-787,Ejerlejlighed,"Kronborgvej 2, 2. th",7700, Thisted,8000000 ,20-04-2010,Alm. Salg,58,137931,2,1920,
-787,Ejerlejlighed,"Østerbakken 21, st. tv",7700, Thisted,8000000 ,20-04-2010,Alm. Salg,89,89888,3,1920,
-787,Ejerlejlighed,"Østerbakken 21, 1. tv",7700, Thisted,8000000 ,20-04-2010,Alm. Salg,89,89888,3,1920,
-787,Ejerlejlighed,"Østerbakken 21, 2. th",7700, Thisted,8000000 ,20-04-2010,Alm. Salg,56,142857,2,1920,
-787,Ejerlejlighed,"Østerbakken 21, st. th",7700, Thisted,8000000 ,20-04-2010,Alm. Salg,59,135593,2,1920,
-787,Ejerlejlighed,"Østerbakken 21, 1. th",7700, Thisted,8000000 ,20-04-2010,Alm. Salg,59,135593,2,1920,
-787,Ejerlejlighed,"Østerbakken 21, 2. tv",7700, Thisted,8000000 ,20-04-2010,Alm. Salg,86,93023,3,1920,
-787,Ejerlejlighed,"Kronborgvej 2, 2. tv",7700, Thisted,8000000 ,20-04-2010,Alm. Salg,55,145455,1,1920,
 787,Villa,Havremarken 76,7730, Hanstholm,450000 ,20-04-2010,Auktion,103,4369,4,1976,
 787,Villa,Grandalsvej 34,7700, Thisted,1500000 ,19-04-2010,Alm. Salg,245,6122,9,1968,-6%
 787,Villa,Nabevej 4,7752, Snedsted,1650000 ,19-04-2010,Alm. Salg,270,6111,8,1872,-8%
@@ -8606,8 +8413,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Bybakken 68,7730, Hanstholm,230000 ,09-03-2010,Auktion,143,1608,3,1947,
 787,Villa,Krik Strandvej 106,7770, Vestervig,1200000 ,09-03-2010,Auktion,223,5381,4,1987,
 787,Villa,Centralvej 27,7700, Thisted,220000 ,08-03-2010,Alm. Salg,87,2529,3,1899,-12%
-787,Ejerlejlighed,"Kastet 84, st. tv",7700, Thisted,550000 ,07-03-2010,Alm. Salg,65,8462,3,1937,
-787,Villa,Vesterstræde 16,7700, Thisted,550000 ,07-03-2010,Alm. Salg,88,6250,4,1907,-21%
 787,Villa,Vorupørvej 57,7700, Thisted,650000 ,07-03-2010,Alm. Salg,140,4643,5,1939,-6%
 787,Villa,Møllevangen 18,7752, Snedsted,812500 ,06-03-2010,Alm. Salg,149,5453,5,1979,
 787,Villa,Aalborgvej 151,7700, Thisted,1425000 ,05-03-2010,Alm. Salg,175,8143,7,1940,
@@ -8766,18 +8571,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Australiavænget 18,7700, Thisted,1680000 ,26-11-2009,Alm. Salg,184,9130,5,1974,-1%
 787,Villa,Hyldevej 6,7700, Thisted,1920000 ,25-11-2009,Alm. Salg,133,14436,5,1998,-1%
 787,Villa,Hedegårdsvej 56,7755, Bedsted Thy,810000 ,24-11-2009,Alm. Salg,132,6136,5,1960,-4%
-787,Ejerlejlighed,"Skolegade 12, st. tv",7700, Thisted,5858000 ,23-11-2009,Alm. Salg,82,71439,2,1902,
-787,Ejerlejlighed,"Skolegade 12, st. th",7700, Thisted,5858000 ,23-11-2009,Alm. Salg,80,73225,2,1902,
-787,Ejerlejlighed,"Skolegade 12, 1. tv",7700, Thisted,5858000 ,23-11-2009,Alm. Salg,80,73225,2,1902,
-787,Ejerlejlighed,"Dr. Louise Gade 22A, 1. tv",7700, Thisted,5858000 ,23-11-2009,Alm. Salg,110,53255,5,1902,
-787,Ejerlejlighed,"Dr. Louise Gade 22A, 2. th",7700, Thisted,5858000 ,23-11-2009,Alm. Salg,59,99288,3,1902,
-787,Ejerlejlighed,"Dr. Louise Gade 22A, 2. tv",7700, Thisted,5858000 ,23-11-2009,Alm. Salg,42,139476,2,1902,
-787,Ejerlejlighed,"Skolegade 12, 1. th",7700, Thisted,5858000 ,23-11-2009,Alm. Salg,60,97633,2,1902,
-787,Ejerlejlighed,"Skolegade 12, 2. tv",7700, Thisted,5858000 ,23-11-2009,Alm. Salg,55,106509,2,1902,
-787,Ejerlejlighed,"Skolegade 12, 2. th",7700, Thisted,5858000 ,23-11-2009,Alm. Salg,90,65089,3,1902,
-787,Ejerlejlighed,"Dr. Louise Gade 22A, st. tv",7700, Thisted,5858000 ,23-11-2009,Alm. Salg,44,133136,2,1902,
-787,Ejerlejlighed,"Dr. Louise Gade 22A, 1. th",7700, Thisted,5858000 ,23-11-2009,Alm. Salg,64,91531,2,1902,
-787,Ejerlejlighed,"Dr. Louise Gade 22A, st. th",7700, Thisted,5858000 ,23-11-2009,Alm. Salg,91,64374,3,1902,
 787,Villa,Trapsandevej 48,7700, Thisted,600000 ,23-11-2009,Alm. Salg,90,6667,3,1968,-7%
 787,Ejerlejlighed,"I. P. Jacobsens Plads 5, 1",7700, Thisted,2212000 ,22-11-2009,Alm. Salg,30,73733,2,1900,
 787,Villa,Thorstedvej 9,7700, Thisted,1000000 ,21-11-2009,Alm. Salg,130,7692,6,1960,-16%
@@ -8874,7 +8667,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Istrupvej 46,7755, Bedsted Thy,1297500 ,15-09-2009,Alm. Salg,234,5545,5,1852,
 787,Villa,Lykkesvej 8,7700, Thisted,1450000 ,13-09-2009,Alm. Salg,159,9119,5,1953,-6%
 787,Villa,Præstegårdsvænget 9,7755, Bedsted Thy,825000 ,13-09-2009,Alm. Salg,148,5574,4,1908,10%
-787,Villa,Åsvej 5B,7700, Thisted,2900000 ,10-09-2009,Alm. Salg,277,10469,9,1880,
 787,Villa,Rønheden 10,7755, Bedsted Thy,920000 ,09-09-2009,Alm. Salg,136,6765,5,1984,-2%
 787,Villa,Thylandsgade 24,7755, Bedsted Thy,545000 ,09-09-2009,Alm. Salg,114,4781,3,1907,
 787,Villa,Gadegårdsparken 10,7700, Thisted,1850000 ,08-09-2009,Alm. Salg,189,9788,7,1988,-7%
@@ -9043,22 +8835,13 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Stendalsvej 3,7752, Snedsted,850000 ,03-06-2009,Alm. Salg,140,6071,6,2011,
 787,Villa,Gøggårdsvej 2,7760, Hurup Thy,150000 ,02-06-2009,Auktion,200,750,5,1920,
 787,Villa,Klostermøllevej 26,7770, Vestervig,1000 ,02-06-2009,Auktion,120,8,5,1870,
-787,Ejerlejlighed,"Strømgade 1, st. tv",7700, Thisted,1100000 ,01-06-2009,Alm. Salg,77,14286,2,1914,
-787,Ejerlejlighed,"Vestergade 37A, 1",7700, Thisted,1100000 ,01-06-2009,Alm. Salg,75,14667,3,1877,
-787,Ejerlejlighed,"Vestergade 37A, st",7700, Thisted,1100000 ,01-06-2009,Alm. Salg,52,21154,4,1877,
-787,Ejerlejlighed,"Skolegade 9, 1",7700, Thisted,1400000 ,01-06-2009,Alm. Salg,126,11111,4,1884,
 787,Ejerlejlighed,Nørretorv 6F,7700, Thisted,4300000 ,01-06-2009,Alm. Salg,85,50588,3,1987,
-787,Ejerlejlighed,"Strømgade 1, 1. th",7700, Thisted,1100000 ,01-06-2009,Alm. Salg,71,15493,2,1914,
-787,Ejerlejlighed,"Strømgade 1, st. th",7700, Thisted,1100000 ,01-06-2009,Alm. Salg,75,14667,2,1914,
-787,Ejerlejlighed,"Strømgade 1, 1. tv",7700, Thisted,1100000 ,01-06-2009,Alm. Salg,73,15068,2,1914,
 787,Villa,Bredgade 184,7760, Hurup Thy,830000 ,01-06-2009,Fam. Salg,180,4611,4,1930,
 787,Villa,Møllevang 2,7700, Thisted,587500 ,01-06-2009,Alm. Salg,105,5595,3,1964,
-787,Villa,Egshvilevej 15,7700, Thisted,2500000 ,01-06-2009,Fam. Salg,214,11682,5,1937,
 787,Villa,Brendgårdvej 27,7760, Hurup Thy,300000 ,01-06-2009,Alm. Salg,140,2143,4,1900,-10%
 787,Villa,Bellisvej 17,7700, Thisted,2700000 ,01-06-2009,Alm. Salg,410,6585,6,1932,
 787,Villa,Krægpøtvej 151,7730, Hanstholm,615000 ,01-06-2009,Alm. Salg,92,6685,3,1950,-5%
 787,Villa,Frimervej 12,7742, Vesløs,685000 ,01-06-2009,Alm. Salg,376,1822,8,2011,-8%
-787,Villa,Rosenlundsgade 1A,7700, Thisted,1400000 ,01-06-2009,Alm. Salg,106,13208,3,2015,
 787,Villa,Rosvangvej 59,7700, Thisted,880000 ,29-05-2009,Alm. Salg,140,6286,6,1870,-2%
 787,Villa,Kirkevej 30,7760, Hurup Thy,1200000 ,28-05-2009,Alm. Salg,168,7143,7,1938,-9%
 787,Villa,Stationsvej 17,7700, Thisted,700000 ,28-05-2009,Alm. Salg,165,4242,4,1934,-5%
@@ -9293,10 +9076,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Stenbjerg Kirke Vej 91,7752, Snedsted,1125000 ,19-01-2009,Alm. Salg,114,9868,4,1932,-2%
 787,Villa,Stationsvej 15,7700, Thisted,355000 ,19-01-2009,Alm. Salg,104,3413,4,1913,
 787,Villa,Ydbyvej 71,7760, Hurup Thy,130000 ,19-01-2009,Fam. Salg,80,1625,3,1908,
-787,Ejerlejlighed,"Bredgade 170, 1",7760, Hurup Thy,1300000 ,18-01-2009,Alm. Salg,108,12037,4,1920,
-787,Ejerlejlighed,"Bredgade 170, 2",7760, Hurup Thy,1300000 ,18-01-2009,Alm. Salg,117,11111,5,1920,
-787,Ejerlejlighed,"Elmevej 1, 1",7760, Hurup Thy,1300000 ,18-01-2009,Alm. Salg,75,17333,3,1920,
-787,Ejerlejlighed,"Bredgade 170, st",7760, Hurup Thy,1300000 ,18-01-2009,Alm. Salg,183,7104,4,1920,
 787,Villa,Tranevej 1,7760, Hurup Thy,1275000 ,18-01-2009,Alm. Salg,176,7244,6,1971,
 787,Ejerlejlighed,"Store Torv 2B, 2",7700, Thisted,4200000 ,15-01-2009,Alm. Salg,378,11111,5,2009,
 787,Ejerlejlighed,"Store Torv 2D, 2. 5",7700, Thisted,2100000 ,15-01-2009,Alm. Salg,181,11602,4,2009,
@@ -9312,19 +9091,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Gl. Feggesundvej 116,7742, Vesløs,515000 ,13-01-2009,Alm. Salg,94,5479,4,1906,-6%
 787,Villa,Grønlandsvej 17,7700, Thisted,845000 ,12-01-2009,Alm. Salg,122,6926,4,1954,
 787,Villa,Damsgårdvej 8,7752, Snedsted,440000 ,12-01-2009,Alm. Salg,212,2075,5,1913,
-787,Ejerlejlighed,"Jernbanegade 28, 1. th",7700, Thisted,4800000 ,11-01-2009,Andet,74,64865,3,1912,
-787,Ejerlejlighed,"Jernbanegade 28, st. th",7700, Thisted,4800000 ,11-01-2009,Andet,81,59259,3,1912,
-787,Ejerlejlighed,"Jernbanegade 28, st. mf",7700, Thisted,4800000 ,11-01-2009,Andet,75,64000,3,1912,
-787,Ejerlejlighed,"Jernbanegade 28, st. tv",7700, Thisted,4800000 ,11-01-2009,Andet,45,106667,1,1912,
-787,Ejerlejlighed,"Jernbanegade 28, 2. mf",7700, Thisted,4800000 ,11-01-2009,Andet,59,81356,2,1912,
-787,Ejerlejlighed,"Jernbanegade 28, 1. tv",7700, Thisted,4800000 ,11-01-2009,Andet,77,62338,3,1912,
-787,Ejerlejlighed,"Jernbanegade 28, 2. th",7700, Thisted,4800000 ,11-01-2009,Andet,61,78689,2,1912,
-787,Ejerlejlighed,"Jernbanegade 28, 2. tv",7700, Thisted,4800000 ,11-01-2009,Andet,65,73846,1,1912,
-787,Ejerlejlighed,"Asylgade 2, st",7700, Thisted,4800000 ,11-01-2009,Andet,70,68571,3,1912,
-787,Ejerlejlighed,"Asylgade 2, 1",7700, Thisted,4800000 ,11-01-2009,Andet,80,60000,3,1912,
-787,Ejerlejlighed,"Frederiksgade 9, 1. th",7700, Thisted,4800000 ,11-01-2009,Andet,80,60000,3,1912,
-787,Ejerlejlighed,"Frederiksgade 9, st",7700, Thisted,4800000 ,11-01-2009,Andet,67,71642,3,1912,
-787,Ejerlejlighed,"Frederiksgade 9, 1. tv",7700, Thisted,4800000 ,11-01-2009,Andet,67,71642,2,1912,
 787,Villa,Ebbesvej 12,7700, Thisted,425000 ,08-01-2009,Alm. Salg,112,3795,3,1929,-6%
 787,Villa,Ydby Stationsvej 3,7760, Hurup Thy,200000 ,08-01-2009,Fam. Salg,100,2000,5,1900,
 787,Villa,Damsgårdvej 8,7752, Snedsted,2550000 ,08-01-2009,Fam. Salg,212,12028,5,1913,
@@ -9333,7 +9099,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Ahornvej 10,7700, Thisted,2167500 ,06-01-2009,Alm. Salg,200,10838,6,1972,-1%
 787,Villa,Sundsvej 8,7760, Hurup Thy,1100000 ,05-01-2009,Alm. Salg,192,5729,5,1937,-4%
 787,Ejerlejlighed,"Sofievej 9, st",7700, Thisted,980000 ,01-01-2009,Fam. Salg,114,8596,4,1933,
-787,Rækkehus,Vinkelstræde 3,7700, Thisted,557750 ,28-12-2008,Fam. Salg,59,9453,2,1900,
 787,Rækkehus,Møllevang 17,7700, Thisted,510625 ,28-12-2008,Fam. Salg,119,4291,4,1976,
 787,Villa,Rønnebærvænget 7,7700, Thisted,756500 ,28-12-2008,Fam. Salg,186,4067,5,0,
 787,Villa,Vestermøllevej 34,7700, Thisted,595000 ,28-12-2008,Fam. Salg,122,4877,5,1934,
@@ -9365,10 +9130,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Hundborgvej 160,7700, Thisted,970000 ,09-12-2008,Alm. Salg,125,7760,4,1929,-3%
 787,Villa,Bromøllevej 5,7700, Thisted,382500 ,09-12-2008,Fam. Salg,107,3575,2,2011,
 787,Villa,Legindvej 48,7752, Snedsted,890000 ,08-12-2008,Alm. Salg,150,5933,5,1960,-6%
-787,Ejerlejlighed,"Bredgade 170, 1",7760, Hurup Thy,1300000 ,07-12-2008,Alm. Salg,108,12037,4,1920,
-787,Ejerlejlighed,"Bredgade 170, 2",7760, Hurup Thy,1300000 ,07-12-2008,Alm. Salg,117,11111,5,1920,
-787,Ejerlejlighed,"Elmevej 1, 1",7760, Hurup Thy,1300000 ,07-12-2008,Alm. Salg,75,17333,3,1920,
-787,Ejerlejlighed,"Bredgade 170, st",7760, Hurup Thy,1300000 ,07-12-2008,Alm. Salg,183,7104,4,1920,
 787,Villa,Kirkebyvej 28,7700, Thisted,575000 ,07-12-2008,Alm. Salg,91,6319,4,1952,
 787,Villa,Johnsens Alle 21,7700, Thisted,1020000 ,07-12-2008,Fam. Salg,131,7786,5,1923,
 787,Villa,Mirabellevej 12,7741, Frøstrup,465927 ,07-12-2008,Andet,155,3006,5,2002,
@@ -9472,7 +9233,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Møgelvej 76,7752, Snedsted,875000 ,11-10-2008,Alm. Salg,186,4704,6,1979,
 787,Villa,Åsvej 89,7700, Thisted,500000 ,10-10-2008,Alm. Salg,50,10000,2,1950,-9%
 787,Villa,Gudnæsstrandvej 1,7752, Snedsted,1985000 ,09-10-2008,Alm. Salg,178,11152,6,1991,
-787,Villa,Møgelvej 63B,7752, Snedsted,650000 ,09-10-2008,Alm. Salg,58,11207,1,1925,
 787,Villa,Gl. Bedstedvej 15,7755, Bedsted Thy,205000 ,09-10-2008,Alm. Salg,66,3106,3,1913,-13%
 787,Villa,Svanevej 4,7760, Hurup Thy,238600 ,08-10-2008,Alm. Salg,141,1692,5,2009,
 787,Rækkehus,Toftegade 14,7760, Hurup Thy,425000 ,07-10-2008,Alm. Salg,60,7083,2,1976,
@@ -9820,15 +9580,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Sejlhøjvej 18,7700, Thisted,950000 ,20-05-2008,Alm. Salg,192,4948,6,1927,
 787,Villa,Skyumvej 155,7755, Bedsted Thy,150000 ,20-05-2008,Alm. Salg,150,1000,6,1857,
 787,Villa,Kastanievej 3,7752, Snedsted,750000 ,19-05-2008,Alm. Salg,102,7353,3,1954,
-787,Ejerlejlighed,"Asylgade 12, st",7700, Thisted,4350000 ,18-05-2008,Alm. Salg,90,48333,3,1902,
-787,Ejerlejlighed,"Asylgade 12, 1",7700, Thisted,4350000 ,18-05-2008,Alm. Salg,90,48333,4,1902,
-787,Ejerlejlighed,"Asylgade 12, 2",7700, Thisted,4350000 ,18-05-2008,Alm. Salg,82,53049,2,1902,
-787,Ejerlejlighed,"Jernbanegade 14, st. tv",7700, Thisted,4350000 ,18-05-2008,Alm. Salg,45,96667,2,1902,
-787,Ejerlejlighed,"Jernbanegade 14, st. th",7700, Thisted,4350000 ,18-05-2008,Alm. Salg,40,108750,2,1902,
-787,Ejerlejlighed,"Jernbanegade 14, 1. th",7700, Thisted,4350000 ,18-05-2008,Alm. Salg,42,103571,2,1902,
-787,Ejerlejlighed,"Jernbanegade 14, 1. tv",7700, Thisted,4350000 ,18-05-2008,Alm. Salg,43,101163,2,1902,
-787,Ejerlejlighed,"Jernbanegade 14, 2. th",7700, Thisted,4350000 ,18-05-2008,Alm. Salg,34,127941,1,1902,
-787,Ejerlejlighed,"Jernbanegade 14, 2. tv",7700, Thisted,4350000 ,18-05-2008,Alm. Salg,26,167308,1,1902,
 787,Villa,Brusgårdvej 5,7700, Thisted,2950000 ,18-05-2008,Alm. Salg,154,19156,6,1926,119%
 787,Villa,Hyldevej 1,7700, Thisted,2440000 ,17-05-2008,Alm. Salg,179,13631,7,1989,-2%
 787,Villa,Røgildvej 12,7700, Thisted,1275000 ,16-05-2008,Alm. Salg,202,6312,9,1942,
@@ -9954,12 +9705,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Viborggårdvej 8,7760, Hurup Thy,423100 ,26-03-2008,Andet,174,2432,4,1973,
 787,Rækkehus,Kastet 76,7700, Thisted,510000 ,25-03-2008,Alm. Salg,111,4595,6,1925,-7%
 787,Villa,Gyvelvænget 12,7755, Bedsted Thy,745000 ,25-03-2008,Alm. Salg,160,4656,6,1975,
-787,Ejerlejlighed,"Simons Bakke 94A, 1",7700, Thisted,1400000 ,24-03-2008,Alm. Salg,112,12500,3,1946,
 787,Ejerlejlighed,"Degnevangen 15, 1. tv",7700, Thisted,520000 ,24-03-2008,Alm. Salg,61,8525,2,1938,-8%
 787,Villa,Gl. Sjørringvej 31,7700, Thisted,4150000 ,24-03-2008,Alm. Salg,162,25617,3,2017,
 787,Villa,Kastet 29,7700, Thisted,1250000 ,24-03-2008,Alm. Salg,108,11574,4,1906,-3%
 787,Villa,Centralvej 27,7700, Thisted,265000 ,24-03-2008,Alm. Salg,87,3046,3,1899,
-787,Villa,Simons Bakke 94B,7700, Thisted,1400000 ,24-03-2008,Alm. Salg,114,12281,5,1946,
 787,Ejerlejlighed,"Hovedgaden 11, 2",7752, Snedsted,2750000 ,23-03-2008,Alm. Salg,178,15449,4,1960,
 787,Villa,Villesvej 10,7752, Snedsted,630000 ,23-03-2008,Alm. Salg,126,5000,4,1976,
 787,Villa,Vinkelalle 37,7700, Thisted,1300000 ,23-03-2008,Alm. Salg,252,5159,10,1965,-7%
@@ -10011,8 +9760,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Ranselvej 8,7700, Thisted,475000 ,09-03-2008,Alm. Salg,85,5588,3,1938,
 787,Villa,Oddesundvej 306,7760, Hurup Thy,400000 ,09-03-2008,Alm. Salg,130,3077,3,1966,
 787,Villa,Vesterhavsvej 17A,7770, Vestervig,500000 ,08-03-2008,Alm. Salg,220,2273,7,1940,
-787,Ejerlejlighed,Havnestræde 3,7700, Thisted,995000 ,06-03-2008,Alm. Salg,78,12756,2,1913,
-787,Ejerlejlighed,"Lillegade 9, 1",7700, Thisted,995000 ,06-03-2008,Alm. Salg,65,15308,3,1913,
 787,Villa,Akacievej 30,7700, Thisted,2395000 ,06-03-2008,Alm. Salg,183,13087,6,2005,
 787,Villa,Kolonihavevej 30,7752, Snedsted,575000 ,06-03-2008,Alm. Salg,128,4492,5,1968,-3%
 787,Villa,Dalgårdvej 16,7755, Bedsted Thy,610000 ,06-03-2008,Alm. Salg,143,4266,2,1887,
@@ -10248,15 +9995,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Tingstrupvej 78,7700, Thisted,1260000 ,12-12-2007,Alm. Salg,162,7778,6,1964,-3%
 787,Villa,Floravænget 72,7730, Hanstholm,945000 ,12-12-2007,Alm. Salg,150,6300,4,1966,
 787,Villa,Hjardemålvej 14,7730, Hanstholm,775000 ,12-12-2007,Alm. Salg,125,6200,5,1943,
-787,Ejerlejlighed,"Vestergade 30A, 2",7700, Thisted,2420000 ,11-12-2007,Alm. Salg,40,60500,3,1890,
-787,Ejerlejlighed,"Vestergade 30A, 1",7700, Thisted,2420000 ,11-12-2007,Alm. Salg,80,30250,3,1890,
-787,Ejerlejlighed,"Rosenkrantzgade 9, 1",7700, Thisted,2420000 ,11-12-2007,Alm. Salg,40,60500,2,1850,
 787,Villa,Kirsebærvej 11,7741, Frøstrup,1300000 ,11-12-2007,Alm. Salg,244,5328,7,1976,-3%
-787,Ejerlejlighed,"Havnestræde 8, st",7700, Thisted,2400000 ,10-12-2007,Alm. Salg,177,13559,5,1877,
-787,Ejerlejlighed,"Lillegade 7, 1. 1",7700, Thisted,2400000 ,10-12-2007,Alm. Salg,50,48000,1,1877,
-787,Ejerlejlighed,"Lillegade 7, 1. 4",7700, Thisted,2400000 ,10-12-2007,Alm. Salg,82,29268,2,1877,
-787,Ejerlejlighed,"Lillegade 7, st",7700, Thisted,2400000 ,10-12-2007,Alm. Salg,65,36923,2,1877,
-787,Ejerlejlighed,"Lillegade 7, 1. 2",7700, Thisted,2400000 ,10-12-2007,Alm. Salg,63,38095,2,1877,
 787,Rækkehus,Møllevej 16,7700, Thisted,825000 ,09-12-2007,Alm. Salg,90,9167,5,1900,-5%
 787,Rækkehus,Birkeparken 27,7760, Hurup Thy,472504 ,09-12-2007,Fam. Salg,74,6385,4,1983,
 787,Ejerlejlighed,"Vegendalvej 12A, 2. th",7700, Thisted,701000 ,09-12-2007,Alm. Salg,86,8151,3,1947,
@@ -10353,10 +10092,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Landevejen 7,7760, Hurup Thy,720000 ,01-11-2007,Alm. Salg,164,4390,4,1906,-4%
 787,Villa,Trapsandevej 25,7700, Thisted,5800000 ,31-10-2007,Alm. Salg,152,38158,4,1977,
 787,Villa,Grønlandsvej 20,7700, Thisted,965000 ,31-10-2007,Alm. Salg,72,13403,2,1950,
-787,Villa,Møgelvej 63B,7752, Snedsted,350000 ,31-10-2007,Alm. Salg,58,6034,1,1925,
 787,Villa,Bredgade 61,7760, Hurup Thy,560000 ,31-10-2007,Alm. Salg,135,4148,5,1910,-6%
 787,Ejerlejlighed,"Østergade 28, 2. mf",7700, Thisted,2385000 ,30-10-2007,Alm. Salg,120,19875,3,2008,
-787,Villa,Åsvej 5B,7700, Thisted,3250000 ,30-10-2007,Alm. Salg,277,11733,9,1880,
 787,Villa,Odinsvej 4,7752, Snedsted,1325000 ,30-10-2007,Alm. Salg,142,9331,4,1980,11%
 787,Villa,Østerbyvej 11,7700, Thisted,200000 ,30-10-2007,Alm. Salg,208,962,6,2018,
 787,Villa,Gartnervænget 22,7752, Snedsted,850000 ,29-10-2007,Alm. Salg,187,4545,7,1961,
@@ -10429,9 +10166,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Ny Refsvej 23,7760, Hurup Thy,770000 ,02-10-2007,Alm. Salg,107,7196,6,1953,
 787,Villa,Grandalsvej 7,7700, Thisted,975000 ,02-10-2007,Alm. Salg,154,6331,5,1960,
 787,Villa,Sårupvej 50,7730, Hanstholm,1462500 ,02-10-2007,Alm. Salg,249,5873,5,1927,-8%
-787,Rækkehus,Platanvej 85,7700, Thisted,925000 ,01-10-2007,Alm. Salg,109,8486,5,1982,
 787,Villa,Vesterhavsgade 66,7700, Thisted,559961 ,01-10-2007,Alm. Salg,111,5045,4,1981,
-787,Villa,Stationsvej 14,7700, Thisted,925000 ,01-10-2007,Alm. Salg,161,5745,5,1973,
 787,Rækkehus,Fårtoftvej 138,7700, Thisted,740000 ,30-09-2007,Alm. Salg,94,7872,4,1962,
 787,Ejerlejlighed,"Korsgade 1, 2",7700, Thisted,1660000 ,30-09-2007,Andet,242,6860,6,1967,
 787,Villa,Dr. Louise Gade 32,7700, Thisted,639125 ,30-09-2007,Fam. Salg,116,5510,5,1900,
@@ -10675,18 +10410,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Gyvelvænget 293,7730, Hanstholm,595000 ,28-06-2007,Alm. Salg,113,5265,4,1970,
 787,Villa,Silstrupvej 33,7700, Thisted,740000 ,28-06-2007,Alm. Salg,102,7255,4,1956,
 787,Villa,Engbjergvej 1B,7700, Thisted,900000 ,28-06-2007,Alm. Salg,187,4813,6,1913,-10%
-787,Rækkehus,"Rosenkrantzgade 8A, st",7700, Thisted,3015000 ,27-06-2007,Alm. Salg,76,39671,2,1964,
-787,Ejerlejlighed,"Rosenkrantzgade 22, st. th",7700, Thisted,5100000 ,27-06-2007,Alm. Salg,20,255000,1,1900,
-787,Ejerlejlighed,"Rosenkrantzgade 22, st. tv",7700, Thisted,5100000 ,27-06-2007,Alm. Salg,74,68919,3,1900,
-787,Ejerlejlighed,"Rosenkrantzgade 22, 1. th",7700, Thisted,5100000 ,27-06-2007,Alm. Salg,54,94444,2,1900,
-787,Ejerlejlighed,"Rosenkrantzgade 22, 2. tv",7700, Thisted,5100000 ,27-06-2007,Alm. Salg,83,61446,3,1900,
-787,Ejerlejlighed,"Rosenkrantzgade 22, 1. tv",7700, Thisted,5100000 ,27-06-2007,Alm. Salg,80,63750,2,1900,
-787,Ejerlejlighed,"Rosenkrantzgade 22, 2. th",7700, Thisted,5100000 ,27-06-2007,Alm. Salg,55,92727,2,1900,
-787,Ejerlejlighed,"Rosenkrantzgade 24, kl",7700, Thisted,5100000 ,27-06-2007,Alm. Salg,58,87931,3,1900,
-787,Ejerlejlighed,"Møllevej 6A, st. tv",7700, Thisted,5100000 ,27-06-2007,Alm. Salg,48,106250,2,1900,
-787,Ejerlejlighed,"Møllevej 6A, st. th",7700, Thisted,5100000 ,27-06-2007,Alm. Salg,51,100000,2,1900,
-787,Ejerlejlighed,"Møllevej 6A, 1",7700, Thisted,5100000 ,27-06-2007,Alm. Salg,68,75000,3,1900,
-787,Ejerlejlighed,"Møllevej 6B, kl. tv",7700, Thisted,5100000 ,27-06-2007,Alm. Salg,39,130769,2,1900,
 787,Villa,Møllestien 2,7700, Thisted,520000 ,27-06-2007,Alm. Salg,160,3250,6,1959,
 787,Villa,Havremarken 26,7730, Hanstholm,2000000 ,27-06-2007,Alm. Salg,170,11765,5,1985,
 787,Villa,Vestermøllevej 39,7700, Thisted,1195000 ,27-06-2007,Alm. Salg,132,9053,4,1974,
@@ -10809,8 +10532,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Stormgade 19,7755, Bedsted Thy,670000 ,15-05-2007,Alm. Salg,118,5678,4,1987,-4%
 787,Villa,Stensagervej 12,7700, Thisted,3600000 ,15-05-2007,Alm. Salg,167,21557,7,1910,
 787,Villa,Skyumvej 100,7752, Snedsted,1050000 ,15-05-2007,Alm. Salg,173,6069,8,1926,
-787,Rækkehus,Møllevej 12,7700, Thisted,985000 ,14-05-2007,Alm. Salg,76,12961,3,1882,
-787,Villa,Porsevej 17,7700, Thisted,985000 ,14-05-2007,Alm. Salg,149,6611,4,1979,
 787,Villa,Skovstedvej 30,7700, Thisted,1136750 ,14-05-2007,Alm. Salg,191,5952,7,1934,
 787,Villa,Kjelstrupvej 55,7700, Thisted,285000 ,14-05-2007,Alm. Salg,191,1492,7,1914,
 787,Villa,Vinkelsti 39,7700, Thisted,245000 ,14-05-2007,Alm. Salg,206,1189,6,2011,-2%
@@ -11051,12 +10772,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Skolevænget 23,7700, Thisted,1680000 ,11-02-2007,Alm. Salg,174,9655,6,1971,
 787,Villa,Bådsgårdsvej 15,7730, Hanstholm,250000 ,11-02-2007,Alm. Salg,171,1462,6,1922,
 787,Villa,Odinsvej 28,7700, Thisted,1140000 ,10-02-2007,Alm. Salg,130,8769,5,1986,-2%
-787,Rækkehus,Hundborgvej 9,7700, Thisted,550000 ,08-02-2007,Andet,105,5238,4,1877,
 787,Rækkehus,Bygmarken 31,7730, Hanstholm,400000 ,08-02-2007,Alm. Salg,72,5556,3,1986,-10%
 787,Villa,Nørre Alle 33,7760, Hurup Thy,1225000 ,08-02-2007,Alm. Salg,194,6314,5,1978,
 787,Villa,Skippergade 4,7742, Vesløs,510000 ,08-02-2007,Alm. Salg,115,2965,6,1925,
 787,Villa,Bellisvej 13,7700, Thisted,750000 ,08-02-2007,Alm. Salg,146,5137,5,1930,
-787,Villa,Hundborgvej 9A,7700, Thisted,550000 ,08-02-2007,Andet,72,7639,3,1877,
 787,Villa,Kanalvej 33,7700, Thisted,700000 ,08-02-2007,Alm. Salg,195,3590,7,1908,
 787,Rækkehus,Stormgade 54,7755, Bedsted Thy,331340 ,07-02-2007,Alm. Salg,60,5522,3,1976,
 787,Rækkehus,Taborvej 16,7700, Thisted,525000 ,07-02-2007,Fam. Salg,98,5357,3,1979,
@@ -11161,18 +10880,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Enehøjvej 3,7752, Snedsted,58995 ,06-01-2007,Alm. Salg,152,388,5,2008,
 787,Villa,Porsevej 10,7700, Thisted,890000 ,05-01-2007,Fam. Salg,127,7008,4,1989,
 787,Villa,Gartnervænget 5,7752, Snedsted,560000 ,05-01-2007,Alm. Salg,107,5234,4,1973,
-787,Ejerlejlighed,"Kirkevej 12, st. th",7760, Hurup Thy,4000000 ,04-01-2007,Alm. Salg,65,61538,2,1943,
-787,Ejerlejlighed,"Kirkevej 12, st. tv",7760, Hurup Thy,4000000 ,04-01-2007,Alm. Salg,65,61538,2,1943,
-787,Ejerlejlighed,"Kirkevej 12, 1. th",7760, Hurup Thy,4000000 ,04-01-2007,Alm. Salg,65,61538,2,1943,
-787,Ejerlejlighed,"Kirkevej 12, 1. tv",7760, Hurup Thy,4000000 ,04-01-2007,Alm. Salg,65,61538,2,1943,
-787,Ejerlejlighed,"Kirkevej 12, 2. th",7760, Hurup Thy,4000000 ,04-01-2007,Alm. Salg,40,100000,2,1943,
-787,Ejerlejlighed,"Kirkevej 12, 2. tv",7760, Hurup Thy,4000000 ,04-01-2007,Alm. Salg,50,80000,2,1943,
-787,Ejerlejlighed,"Nørre Alle 2A, st",7760, Hurup Thy,4000000 ,04-01-2007,Alm. Salg,80,50000,4,1943,
-787,Ejerlejlighed,"Nørre Alle 2A, 1. tv",7760, Hurup Thy,4000000 ,04-01-2007,Alm. Salg,44,90909,1,1943,
-787,Ejerlejlighed,"Nørre Alle 2A, 2",7760, Hurup Thy,4000000 ,04-01-2007,Alm. Salg,70,57143,2,1943,
-787,Ejerlejlighed,"Nørre Alle 2A, 1. th",7760, Hurup Thy,4000000 ,04-01-2007,Alm. Salg,78,51282,2,1943,
-787,Ejerlejlighed,"Nørre Alle 2B, 1",7760, Hurup Thy,4000000 ,04-01-2007,Alm. Salg,46,86957,2,1943,
-787,Ejerlejlighed,"Kirkevej 12, kl",7760, Hurup Thy,4000000 ,04-01-2007,Alm. Salg,43,93023,2,1943,
 787,Villa,Skinnerup Skråvej 14,7700, Thisted,1212333 ,04-01-2007,Alm. Salg,144,8419,5,1932,
 787,Villa,Spurveskjul 3,7700, Thisted,1280000 ,04-01-2007,Alm. Salg,140,9143,6,1967,-1%
 787,Villa,Provst Sonnes Vej 14,7700, Thisted,975000 ,03-01-2007,Alm. Salg,135,7222,4,1969,
@@ -11236,13 +10943,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Thyrasvej 19,7760, Hurup Thy,1895000 ,11-12-2006,Alm. Salg,162,11698,5,2003,
 787,Villa,Forsythiavej 3,7700, Thisted,556000 ,11-12-2006,Alm. Salg,208,2673,6,2008,
 787,Villa,Forsythiavej 4,7700, Thisted,335000 ,11-12-2006,Alm. Salg,215,1558,6,2009,
-787,Ejerlejlighed,"Havnestræde 20, 1. 1",7700, Thisted,6700000 ,10-12-2006,Alm. Salg,109,61468,2,1900,
-787,Ejerlejlighed,"Havnestræde 20, 1. 2",7700, Thisted,6700000 ,10-12-2006,Alm. Salg,121,55372,2,1900,
-787,Ejerlejlighed,"Storegade 10C, 1. 2",7700, Thisted,6700000 ,10-12-2006,Alm. Salg,30,223333,1,1900,
-787,Ejerlejlighed,"Storegade 10C, 1. 1",7700, Thisted,6700000 ,10-12-2006,Alm. Salg,30,223333,1,1900,
-787,Ejerlejlighed,"Storegade 10C, 2. th",7700, Thisted,6700000 ,10-12-2006,Alm. Salg,76,88158,2,1900,
-787,Ejerlejlighed,"Storegade 10C, 2. mf",7700, Thisted,6700000 ,10-12-2006,Alm. Salg,70,95714,2,1900,
-787,Ejerlejlighed,"Storegade 10C, 2. tv",7700, Thisted,6700000 ,10-12-2006,Alm. Salg,87,77011,3,1900,
 787,Villa,Legindvej 101,7752, Snedsted,300000 ,10-12-2006,Alm. Salg,93,3226,3,1870,
 787,Villa,Limfjordsgade 5,7752, Snedsted,500000 ,10-12-2006,Alm. Salg,110,4545,5,1928,
 787,Villa,Mellemmøllevej 6,7700, Thisted,560000 ,10-12-2006,Alm. Salg,108,5185,4,1943,
@@ -11297,8 +10997,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Forsythiavej 12,7700, Thisted,296800 ,19-11-2006,Alm. Salg,158,1878,6,2007,
 787,Villa,Forsythiavej 19,7700, Thisted,495000 ,19-11-2006,Alm. Salg,226,2190,9,2010,
 787,Villa,Forsythiavej 1,7700, Thisted,322000 ,19-11-2006,Alm. Salg,188,1713,8,2011,
-787,Rækkehus,Simons Bakke 110B,7700, Thisted,1841103 ,18-11-2006,Alm. Salg,93,19797,4,1963,
-787,Villa,Simons Bakke 110A,7700, Thisted,1841103 ,18-11-2006,Alm. Salg,103,17875,4,1964,
 787,Villa,Perikonvej 11,7700, Thisted,889952 ,16-11-2006,Andet,172,5174,5,2000,
 787,Ejerlejlighed,Østergade 11,7700, Thisted,810000 ,15-11-2006,Alm. Salg,84,9643,4,1912,
 787,Villa,Mælkebøttevej 10,7700, Thisted,795000 ,15-11-2006,Alm. Salg,125,6360,3,1977,
@@ -11525,9 +11223,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Tilstedvej 70,7700, Thisted,1350000 ,10-08-2006,Alm. Salg,129,10465,4,1983,
 787,Villa,Enebærvej 17,7770, Vestervig,855000 ,10-08-2006,Alm. Salg,144,5938,4,1966,
 787,Villa,Vorupørvej 117,7700, Thisted,665000 ,10-08-2006,Alm. Salg,82,8110,2,1953,
-787,Ejerlejlighed,"Brogårdsvej 5, 1",7700, Thisted,963900 ,09-08-2006,Fam. Salg,139,6935,4,1948,
 787,Villa,Kløv Mølle Vej 3,7700, Thisted,590000 ,09-08-2006,Alm. Salg,343,1720,9,2009,
-787,Villa,Brogårdsvej 5,7700, Thisted,963900 ,09-08-2006,Fam. Salg,228,4228,6,1948,
 787,Villa,Østermøllevej 29,7700, Thisted,825000 ,08-08-2006,Alm. Salg,100,8250,3,1954,
 787,Villa,Nørre Alle 27,7760, Hurup Thy,280000 ,08-08-2006,Alm. Salg,103,2718,4,1957,
 787,Villa,Kjærkbak 6,7700, Thisted,360000 ,08-08-2006,Fam. Salg,125,2880,5,1974,
@@ -11594,7 +11290,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Nordsøvej 69,7700, Thisted,1050000 ,09-07-2006,Alm. Salg,165,6364,7,1890,
 787,Villa,Bakken 7,7760, Hurup Thy,1050000 ,09-07-2006,Alm. Salg,155,6774,6,1979,
 787,Villa,Toftevej 2,7770, Vestervig,1325000 ,08-07-2006,Alm. Salg,145,9138,4,1887,
-787,Rækkehus,Vinkelstræde 3,7700, Thisted,900000 ,05-07-2006,Alm. Salg,59,15254,2,1900,
 787,Villa,Bredgade 44,7760, Hurup Thy,755000 ,05-07-2006,Alm. Salg,149,5067,6,1877,
 787,Villa,Flarupvej 6,7760, Hurup Thy,1550000 ,05-07-2006,Fam. Salg,172,9012,6,1930,
 787,Villa,Højtofte 10,7760, Hurup Thy,1075000 ,04-07-2006,Alm. Salg,172,6250,5,1966,
@@ -11691,7 +11386,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Vorupørvej 248,7700, Thisted,870000 ,07-06-2006,Alm. Salg,190,4579,7,1909,
 787,Villa,Jernbanevej 19,7752, Snedsted,225000 ,07-06-2006,Alm. Salg,53,4245,3,1957,
 787,Villa,Gyvelvænget 6,7730, Hanstholm,35250 ,07-06-2006,Alm. Salg,179,197,5,1967,
-787,Villa,Pilevej 2,7700, Thisted,775000 ,07-06-2006,Alm. Salg,102,7598,3,1965,
 787,Villa,Klostergade 40,7770, Vestervig,850000 ,07-06-2006,Alm. Salg,217,3917,8,1906,
 787,Villa,Villerslevvej 43,7755, Bedsted Thy,522539 ,06-06-2006,Alm. Salg,87,6006,3,1950,
 787,Villa,Bydamsvej 6,7752, Snedsted,245000 ,06-06-2006,Fam. Salg,60,4083,2,1959,
@@ -11917,8 +11611,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Rækkehus,Atriumvej 28,7752, Snedsted,295000 ,19-03-2006,Alm. Salg,65,4538,3,1977,
 787,Ejerlejlighed,"Rosenkrantzgade 14, 1. 3",7700, Thisted,550000 ,19-03-2006,Alm. Salg,81,6790,2,1910,
 787,Ejerlejlighed,"Dr. Louise Gade 10A, st. th",7700, Thisted,660000 ,19-03-2006,Alm. Salg,86,7674,2,1920,
-787,Ejerlejlighed,"Vesterhavsgade 122B, 1",7700, Thisted,1900000 ,19-03-2006,Alm. Salg,176,10795,4,1969,
-787,Villa,Vesterhavsgade 122,7700, Thisted,1900000 ,19-03-2006,Alm. Salg,176,5429,10,1969,
 787,Villa,Solbakkevej 64,7700, Thisted,690000 ,19-03-2006,Alm. Salg,90,7667,4,1961,
 787,Villa,Østre Alle 8,7760, Hurup Thy,570000 ,18-03-2006,Alm. Salg,83,6867,3,1952,
 787,Villa,Borgergade 46,7752, Snedsted,1000000 ,17-03-2006,Alm. Salg,195,5128,5,1921,
@@ -12013,11 +11705,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Kammersgårdsvej 2,7760, Hurup Thy,575000 ,08-02-2006,Alm. Salg,84,6845,3,1880,
 787,Villa,Rosenvænget 27,7752, Snedsted,740000 ,07-02-2006,Alm. Salg,185,4000,8,1974,
 787,Villa,Ranselvej 9,7700, Thisted,855000 ,07-02-2006,Alm. Salg,84,10179,5,1941,
-787,Ejerlejlighed,"Vestergade 74A, 1. th",7700, Thisted,6100000 ,06-02-2006,Alm. Salg,149,40940,4,1875,
-787,Ejerlejlighed,"Sofievej 19, st",7700, Thisted,6100000 ,06-02-2006,Alm. Salg,116,52586,4,1959,
-787,Ejerlejlighed,"Vestergade 74A, 1. tv",7700, Thisted,6100000 ,06-02-2006,Alm. Salg,97,62887,3,1875,
-787,Ejerlejlighed,"Vestergade 74A, 2",7700, Thisted,6100000 ,06-02-2006,Alm. Salg,169,36095,5,1875,
-787,Ejerlejlighed,Sofievej 21,7700, Thisted,6100000 ,06-02-2006,Alm. Salg,152,40132,5,1959,
 787,Villa,Bredgade 241,7760, Hurup Thy,740000 ,05-02-2006,Alm. Salg,172,4302,4,1949,
 787,Villa,Ballerumvej 110,7700, Thisted,530000 ,05-02-2006,Alm. Salg,112,4732,3,1916,
 787,Rækkehus,Kolonihavevej 14,7752, Snedsted,175000 ,03-02-2006,Alm. Salg,113,1549,4,1925,
@@ -12043,13 +11730,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Vestervej 8,7760, Hurup Thy,415000 ,27-01-2006,Alm. Salg,161,2578,9,1908,
 787,Villa,Kærupvej 6,7741, Frøstrup,845000 ,27-01-2006,Alm. Salg,168,5030,4,1975,
 787,Rækkehus,Strandvejen 11,7700, Thisted,525000 ,26-01-2006,Alm. Salg,70,7500,2,1860,
-787,Ejerlejlighed,"Amtsstræde 2, 1. th",7700, Thisted,7250000 ,26-01-2006,Alm. Salg,95,76316,3,1886,
-787,Ejerlejlighed,"Amtsstræde 2, 1. tv",7700, Thisted,7250000 ,26-01-2006,Alm. Salg,105,69048,3,1886,
-787,Ejerlejlighed,"Skovgade 21, 2. th",7700, Thisted,7250000 ,26-01-2006,Alm. Salg,84,86310,3,1886,
-787,Ejerlejlighed,"Skovgade 21, 1",7700, Thisted,7250000 ,26-01-2006,Alm. Salg,173,41908,5,1886,
-787,Ejerlejlighed,"Skovgade 21, 2. tv",7700, Thisted,7250000 ,26-01-2006,Alm. Salg,70,103571,3,1886,
-787,Ejerlejlighed,"Amtsstræde 2, 2. tv",7700, Thisted,7250000 ,26-01-2006,Alm. Salg,85,85294,3,1886,
-787,Ejerlejlighed,"Amtsstræde 2, 2. th",7700, Thisted,7250000 ,26-01-2006,Alm. Salg,66,109848,3,1886,
 787,Villa,Kirkebakken 4,7730, Hanstholm,635000 ,26-01-2006,Alm. Salg,146,4349,3,1930,
 787,Villa,Grønlundsvej 1,7700, Thisted,550000 ,26-01-2006,Alm. Salg,231,2381,6,2014,
 787,Villa,Gravenhøjvej 22,7760, Hurup Thy,295000 ,26-01-2006,Alm. Salg,216,1366,5,1885,
@@ -12212,8 +11892,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Legårdsvej 27,7752, Snedsted,445000 ,20-11-2005,Alm. Salg,135,3296,4,1932,
 787,Villa,Thylandsvej 25,7700, Thisted,743326 ,20-11-2005,Fam. Salg,145,5126,4,1961,
 787,Villa,Ny Refsvej 33,7760, Hurup Thy,300000 ,20-11-2005,Alm. Salg,170,1765,7,1902,
-787,Rækkehus,Østerild Byvej 22A,7700, Thisted,850000 ,17-11-2005,Alm. Salg,84,10119,3,2001,
-787,Villa,Stevnsvej 1,7700, Thisted,850000 ,17-11-2005,Alm. Salg,140,6071,4,1971,
 787,Villa,Norsvej 21,7700, Thisted,1565000 ,17-11-2005,Alm. Salg,186,8414,5,1912,
 787,Villa,Hindingvej 7,7700, Thisted,312000 ,17-11-2005,Auktion,128,2438,5,1966,
 787,Villa,Klostermøllevej 21,7770, Vestervig,925000 ,17-11-2005,Alm. Salg,161,5745,4,1910,
@@ -12608,7 +12286,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Parkvej 41,7700, Thisted,500000 ,28-06-2005,Alm. Salg,105,4762,3,1955,
 787,Villa,Tårnvej 18,7700, Thisted,595000 ,27-06-2005,Alm. Salg,116,5129,4,1972,
 787,Villa,Præstebakken 2,7760, Hurup Thy,1000000 ,27-06-2005,Alm. Salg,176,5682,6,1976,
-787,Villa,Hundborgvej 14A,7700, Thisted,750000 ,27-06-2005,Alm. Salg,48,15625,1,1870,
 787,Villa,Roshagevej 13,7730, Hanstholm,910000 ,26-06-2005,Alm. Salg,97,9381,3,1935,
 787,Villa,Bavnhøj 23,7700, Thisted,263000 ,26-06-2005,Alm. Salg,179,1469,5,2005,
 787,Villa,Nørrealle 25A,7700, Thisted,780000 ,26-06-2005,Alm. Salg,130,6000,5,1939,
@@ -12621,7 +12298,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Kærshøjvej 4,7752, Snedsted,465000 ,23-06-2005,Alm. Salg,110,4227,5,1908,
 787,Villa,Kløvervej 12,7700, Thisted,1075000 ,23-06-2005,Alm. Salg,152,7072,4,1970,
 787,Villa,Gundevej 21,7700, Thisted,840000 ,23-06-2005,Alm. Salg,156,5385,6,1963,
-787,Villa,Åsvej 5B,7700, Thisted,2950000 ,23-06-2005,Alm. Salg,277,10650,9,1880,
 787,Villa,Landlystvænge 2,7700, Thisted,556250 ,23-06-2005,Alm. Salg,372,1495,9,2008,
 787,Villa,Højbjergvej 4,7742, Vesløs,325000 ,22-06-2005,Fam. Salg,121,2686,6,1950,
 787,Villa,Platanvej 46,7700, Thisted,1445000 ,22-06-2005,Alm. Salg,197,7335,6,1969,
@@ -12646,10 +12322,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Vendbjerg 33,7700, Thisted,1750000 ,15-06-2005,Alm. Salg,218,8028,6,1996,
 787,Villa,I. P. Jacobsens Gade 12,7700, Thisted,805000 ,15-06-2005,Alm. Salg,95,8474,3,1904,
 787,Villa,Thyrasvej 38,7760, Hurup Thy,77194 ,15-06-2005,Alm. Salg,167,462,4,2007,
-787,Ejerlejlighed,"Bredgade 170, 1",7760, Hurup Thy,951000 ,14-06-2005,Andet,108,8806,4,1920,
-787,Ejerlejlighed,"Bredgade 170, 2",7760, Hurup Thy,951000 ,14-06-2005,Andet,117,8128,5,1920,
-787,Ejerlejlighed,"Elmevej 1, 1",7760, Hurup Thy,951000 ,14-06-2005,Andet,75,12680,3,1920,
-787,Ejerlejlighed,"Bredgade 170, st",7760, Hurup Thy,951000 ,14-06-2005,Andet,183,5197,4,1920,
 787,Villa,Vilsund Mølle Vej 9,7700, Thisted,550000 ,14-06-2005,Fam. Salg,112,4911,3,1967,
 787,Villa,Hovsørvej 5,7700, Thisted,995000 ,13-06-2005,Alm. Salg,136,7316,3,1982,
 787,Villa,Rævlingevej 9,7770, Vestervig,375000 ,13-06-2005,Alm. Salg,121,3099,4,1915,
@@ -12662,10 +12334,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Bromøllevej 21,7700, Thisted,925000 ,10-06-2005,Alm. Salg,224,4129,8,1916,
 787,Villa,Birkevej 71,7700, Thisted,1300000 ,10-06-2005,Alm. Salg,165,7879,4,1972,
 787,Villa,Kallerupvej 2,7700, Thisted,1375000 ,10-06-2005,Alm. Salg,216,6366,9,1920,
-787,Ejerlejlighed,"Bredgade 170, 1",7760, Hurup Thy,1550000 ,09-06-2005,Alm. Salg,108,14352,4,1920,
-787,Ejerlejlighed,"Bredgade 170, 2",7760, Hurup Thy,1550000 ,09-06-2005,Alm. Salg,117,13248,5,1920,
-787,Ejerlejlighed,"Elmevej 1, 1",7760, Hurup Thy,1550000 ,09-06-2005,Alm. Salg,75,20667,3,1920,
-787,Ejerlejlighed,"Bredgade 170, st",7760, Hurup Thy,1550000 ,09-06-2005,Alm. Salg,183,8470,4,1920,
 787,Villa,Ballerumvej 197,7700, Thisted,875000 ,09-06-2005,Alm. Salg,230,3804,7,1933,
 787,Villa,Thyrasvej 19,7760, Hurup Thy,1613550 ,09-06-2005,Alm. Salg,162,9960,5,2003,
 787,Villa,Thyrasvej 31,7760, Hurup Thy,77194 ,09-06-2005,Alm. Salg,184,420,6,2006,
@@ -13056,18 +12724,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Hortensiavej 25,7700, Thisted,175000 ,02-01-2005,Alm. Salg,175,1000,6,2005,
 787,Villa,Aalborgvej 191,7742, Vesløs,250000 ,02-01-2005,Alm. Salg,115,2174,3,1935,
 787,Villa,Østerild Byvej 99,7700, Thisted,430000 ,02-01-2005,Alm. Salg,123,3496,3,1940,
-787,Villa,Vorupørvej 42A,7700, Thisted,1150000 ,31-12-2004,Andet,118,9746,2,1904,
 787,Villa,Silstrupvej 37,7700, Thisted,685000 ,28-12-2004,Alm. Salg,116,5905,4,1862,
 787,Villa,Ydbyvej 205,7760, Hurup Thy,286986 ,27-12-2004,Alm. Salg,100,2870,5,1865,
 787,Villa,Dalen 5,7700, Thisted,50000 ,27-12-2004,Andet,119,420,4,1970,
 787,Rækkehus,Birkeparken 17,7760, Hurup Thy,700000 ,26-12-2004,Alm. Salg,95,7368,4,1986,
-787,Ejerlejlighed,"Tingstrupvej 1, 1",7700, Thisted,5400000 ,24-12-2004,Alm. Salg,106,50943,3,1959,
-787,Ejerlejlighed,"Vestergade 18B, 1. th",7700, Thisted,5400000 ,24-12-2004,Alm. Salg,75,72000,2,1922,
-787,Ejerlejlighed,"Vestergade 18B, 1. tv",7700, Thisted,5400000 ,24-12-2004,Alm. Salg,112,48214,3,1922,
-787,Ejerlejlighed,"Vestergade 18B, 2. th",7700, Thisted,5400000 ,24-12-2004,Alm. Salg,73,73973,2,1922,
-787,Ejerlejlighed,"Vestergade 18B, 2. tv",7700, Thisted,5400000 ,24-12-2004,Alm. Salg,116,46552,3,1922,
-787,Ejerlejlighed,"Vestergade 18B, 3. tv",7700, Thisted,5400000 ,24-12-2004,Alm. Salg,72,75000,2,1922,
-787,Ejerlejlighed,"Vestergade 18B, 3. th",7700, Thisted,5400000 ,24-12-2004,Alm. Salg,71,76056,2,1922,
 787,Villa,Simons Bakke 82,7700, Thisted,1296000 ,22-12-2004,Alm. Salg,147,8816,5,1952,
 787,Villa,Rødkælkevej 2,7760, Hurup Thy,1190000 ,22-12-2004,Alm. Salg,195,6103,5,1973,
 787,Villa,Åkandevej 1,7755, Bedsted Thy,475000 ,22-12-2004,Alm. Salg,96,4948,3,1974,
@@ -13686,11 +13346,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Ballerumvej 178,7700, Thisted,56623 ,29-03-2004,Alm. Salg,111,510,4,1956,
 787,Ejerlejlighed,"Vegendalvej 12A, st. tv",7700, Thisted,630000 ,28-03-2004,Alm. Salg,83,7590,3,1947,
 787,Ejerlejlighed,"Møllevej 8, st",7700, Thisted,370000 ,28-03-2004,Alm. Salg,75,4933,2,1900,
-787,Villa,Kastet 25B,7700, Thisted,800000 ,28-03-2004,Alm. Salg,113,7080,3,1907,
 787,Villa,Vejlevejen 10A,7742, Vesløs,685000 ,27-03-2004,Alm. Salg,185,3703,7,1980,
 787,Villa,Mellemvej 8,7700, Thisted,950000 ,26-03-2004,Alm. Salg,196,4847,6,1927,
 787,Villa,Astrupvej 4,7755, Bedsted Thy,940000 ,25-03-2004,Alm. Salg,210,4476,6,1983,
-787,Villa,Engvej 2,7700, Thisted,1950000 ,25-03-2004,Andet,75,26000,2,1910,
 787,Villa,Tråbakken 13,7700, Thisted,340000 ,25-03-2004,Alm. Salg,179,1899,6,2007,
 787,Villa,Højstrupvej 75,7742, Vesløs,365000 ,25-03-2004,Alm. Salg,153,2386,4,1947,
 787,Villa,Møllevangen 1,7752, Snedsted,665000 ,25-03-2004,Alm. Salg,117,5684,5,1977,
@@ -13709,18 +13367,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Oddesundvej 230,7755, Bedsted Thy,225000 ,21-03-2004,Alm. Salg,100,2250,4,1913,
 787,Villa,Søbrinken 16,7700, Thisted,1900000 ,20-03-2004,Alm. Salg,193,9845,8,1965,
 787,Rækkehus,Nørrevænge 23,7700, Thisted,685000 ,19-03-2004,Alm. Salg,76,9013,3,1986,
-787,Rækkehus,"Rosenkrantzgade 8A, st",7700, Thisted,2425900 ,19-03-2004,Alm. Salg,76,31920,2,1964,
-787,Ejerlejlighed,"Rosenkrantzgade 22, st. th",7700, Thisted,3590000 ,19-03-2004,Alm. Salg,20,179500,1,1900,
-787,Ejerlejlighed,"Rosenkrantzgade 22, st. tv",7700, Thisted,3590000 ,19-03-2004,Alm. Salg,74,48514,3,1900,
-787,Ejerlejlighed,"Rosenkrantzgade 22, 1. th",7700, Thisted,3590000 ,19-03-2004,Alm. Salg,54,66481,2,1900,
-787,Ejerlejlighed,"Rosenkrantzgade 22, 2. tv",7700, Thisted,3590000 ,19-03-2004,Alm. Salg,83,43253,3,1900,
-787,Ejerlejlighed,"Rosenkrantzgade 22, 1. tv",7700, Thisted,3590000 ,19-03-2004,Alm. Salg,80,44875,2,1900,
-787,Ejerlejlighed,"Rosenkrantzgade 22, 2. th",7700, Thisted,3590000 ,19-03-2004,Alm. Salg,55,65273,2,1900,
-787,Ejerlejlighed,"Rosenkrantzgade 24, kl",7700, Thisted,3590000 ,19-03-2004,Alm. Salg,58,61897,3,1900,
-787,Ejerlejlighed,"Møllevej 6A, st. tv",7700, Thisted,3590000 ,19-03-2004,Alm. Salg,48,74792,2,1900,
-787,Ejerlejlighed,"Møllevej 6A, st. th",7700, Thisted,3590000 ,19-03-2004,Alm. Salg,51,70392,2,1900,
-787,Ejerlejlighed,"Møllevej 6A, 1",7700, Thisted,3590000 ,19-03-2004,Alm. Salg,68,52794,3,1900,
-787,Ejerlejlighed,"Møllevej 6B, kl. tv",7700, Thisted,3590000 ,19-03-2004,Alm. Salg,39,92051,2,1900,
 787,Villa,Voldgade 6,7700, Thisted,390000 ,17-03-2004,Alm. Salg,87,4483,3,1934,
 787,Villa,Ginnerupvej 6,7760, Hurup Thy,223029 ,17-03-2004,Alm. Salg,90,2478,4,1852,
 787,Villa,Ginnerupvej 13,7760, Hurup Thy,244355 ,17-03-2004,Alm. Salg,178,1373,8,1856,
@@ -13967,13 +13613,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Bredgade 43,7760, Hurup Thy,510000 ,05-11-2003,Alm. Salg,146,3493,4,1956,
 787,Villa,Arupvej 9,7742, Vesløs,3835000 ,05-11-2003,Fam. Salg,242,15847,7,2008,
 787,Villa,Gl. Feggesundvej 122,7742, Vesløs,450000 ,05-11-2003,Alm. Salg,104,4327,4,1910,
-787,Ejerlejlighed,"Havnestræde 20, 1. 1",7700, Thisted,4000000 ,04-11-2003,Alm. Salg,109,36697,2,1900,
-787,Ejerlejlighed,"Havnestræde 20, 1. 2",7700, Thisted,4000000 ,04-11-2003,Alm. Salg,121,33058,2,1900,
-787,Ejerlejlighed,"Storegade 10C, 1. 2",7700, Thisted,4000000 ,04-11-2003,Alm. Salg,30,133333,1,1900,
-787,Ejerlejlighed,"Storegade 10C, 1. 1",7700, Thisted,4000000 ,04-11-2003,Alm. Salg,30,133333,1,1900,
-787,Ejerlejlighed,"Storegade 10C, 2. th",7700, Thisted,4000000 ,04-11-2003,Alm. Salg,76,52632,2,1900,
-787,Ejerlejlighed,"Storegade 10C, 2. mf",7700, Thisted,4000000 ,04-11-2003,Alm. Salg,70,57143,2,1900,
-787,Ejerlejlighed,"Storegade 10C, 2. tv",7700, Thisted,4000000 ,04-11-2003,Alm. Salg,87,45977,3,1900,
 787,Villa,Runevej 2,7700, Thisted,850000 ,04-11-2003,Alm. Salg,134,6343,5,1977,
 787,Villa,Ørhagevej 82,7700, Thisted,114000 ,04-11-2003,Alm. Salg,202,564,5,1987,
 787,Villa,Ydbyvej 75,7760, Hurup Thy,185000 ,04-11-2003,Alm. Salg,111,1667,4,1925,
@@ -14100,7 +13739,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Oddesundvej 248,7755, Bedsted Thy,510000 ,11-09-2003,Alm. Salg,148,1903,7,1960,
 787,Villa,Solbakken 9A,7730, Hanstholm,362500 ,10-09-2003,Alm. Salg,225,1611,4,1971,
 787,Villa,Gisselbækvej 45,7752, Snedsted,1480000 ,10-09-2003,Fam. Salg,95,15579,3,1974,
-787,Villa,Kastet 25B,7700, Thisted,770000 ,10-09-2003,Alm. Salg,113,6814,3,1907,
 787,Villa,Birkevej 8,7760, Hurup Thy,1000000 ,10-09-2003,Alm. Salg,179,5587,7,1971,
 787,Villa,Vestervigvej 12,7755, Bedsted Thy,170000 ,08-09-2003,Alm. Salg,134,1269,4,1910,
 787,Rækkehus,Stormgade 40,7755, Bedsted Thy,260000 ,07-09-2003,Fam. Salg,60,4333,3,1975,
@@ -14137,8 +13775,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Rækkehus,Vestergade 50,7700, Thisted,425000 ,24-08-2003,Alm. Salg,90,4722,4,1907,
 787,Villa,Spangbergsvej 59,7700, Thisted,909184 ,24-08-2003,Alm. Salg,140,6494,5,1959,
 787,Villa,Jyllands Alle 31,7700, Thisted,1525000 ,23-08-2003,Alm. Salg,163,9356,6,1925,
-787,Rækkehus,Hundborgvej 9,7700, Thisted,820000 ,21-08-2003,Alm. Salg,105,7810,4,1877,
-787,Villa,Hundborgvej 9A,7700, Thisted,820000 ,21-08-2003,Alm. Salg,72,11389,3,1877,
 787,Villa,Søbrinken 5,7700, Thisted,1300000 ,21-08-2003,Alm. Salg,171,7602,5,1967,
 787,Villa,Gl. Feggesundvej 104,7742, Vesløs,905000 ,21-08-2003,Alm. Salg,183,4945,7,1968,
 787,Villa,Krovej 46,7700, Thisted,750000 ,20-08-2003,Alm. Salg,109,6881,4,1933,
@@ -14251,10 +13887,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Lupinvej 23,7700, Thisted,850000 ,29-06-2003,Alm. Salg,145,5862,4,1969,
 787,Villa,Fayes Alle 22,7700, Thisted,1760000 ,29-06-2003,Alm. Salg,177,9944,6,1943,
 787,Villa,Ashøjgade 38,7760, Hurup Thy,399081 ,29-06-2003,Alm. Salg,114,3501,4,1956,
-787,Ejerlejlighed,"Simons Bakke 94A, 1",7700, Thisted,1950000 ,28-06-2003,Andet,112,17411,3,1946,
 787,Villa,Ebenezervej 14,7752, Snedsted,399000 ,28-06-2003,Alm. Salg,136,2934,6,1896,
 787,Villa,Fiskervej 42,7700, Thisted,490000 ,28-06-2003,Andet,122,4016,5,1932,
-787,Villa,Simons Bakke 94B,7700, Thisted,1950000 ,28-06-2003,Andet,114,17105,5,1946,
 787,Villa,Østervang 3,7700, Thisted,835000 ,27-06-2003,Alm. Salg,146,5719,4,1969,
 787,Villa,Kalles Mark 17,7700, Thisted,1195000 ,25-06-2003,Alm. Salg,176,6790,6,2001,
 787,Villa,Ydbyvej 129,7760, Hurup Thy,530000 ,24-06-2003,Alm. Salg,163,3252,3,1930,
@@ -14304,7 +13938,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Ribesvej 21,7700, Thisted,1075000 ,03-06-2003,Alm. Salg,199,5402,5,1979,
 787,Villa,Bødkervej 12,7730, Hanstholm,96560 ,03-06-2003,Alm. Salg,112,772,5,2012,
 787,Villa,Lykkesvej 34,7700, Thisted,795000 ,03-06-2003,Alm. Salg,116,6853,4,1969,
-787,Villa,Vorupørvej 42A,7700, Thisted,500000 ,02-06-2003,Alm. Salg,118,4237,2,1904,
 787,Villa,Fiskervej 103,7700, Thisted,110000 ,02-06-2003,Alm. Salg,150,733,4,2022,
 787,Villa,Gravenhøjvej 31,7760, Hurup Thy,750000 ,01-06-2003,Alm. Salg,207,3623,6,1912,
 787,Villa,Tråbakken 13,7700, Thisted,3250000 ,01-06-2003,Alm. Salg,179,18156,6,2007,
@@ -14342,7 +13975,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Voldgade 8,7700, Thisted,790000 ,13-05-2003,Alm. Salg,130,6077,5,1943,
 787,Villa,Bellisvej 6,7700, Thisted,1140000 ,13-05-2003,Alm. Salg,146,7808,6,1929,
 787,Villa,Ballerumvej 172,7700, Thisted,750000 ,13-05-2003,Alm. Salg,111,6757,5,1964,
-787,Villa,Bådsgårdsvej 21C,7730, Hanstholm,35110 ,13-05-2003,Andet,101,348,3,1964,
 787,Villa,Nørregade 24,7760, Hurup Thy,545000 ,12-05-2003,Alm. Salg,124,4395,2,1928,
 787,Villa,Frejasvej 3,7700, Thisted,125120 ,12-05-2003,Alm. Salg,138,907,4,2004,
 787,Villa,Vorupørvej 220,7700, Thisted,573139 ,12-05-2003,Alm. Salg,120,4776,5,1935,
@@ -14431,7 +14063,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Søndre Thorstedvej 6,7700, Thisted,585000 ,13-04-2003,Alm. Salg,102,5735,3,1966,
 787,Villa,Havremarken 76,7730, Hanstholm,510000 ,13-04-2003,Alm. Salg,103,4951,4,1976,
 787,Villa,Thylandsvej 39,7700, Thisted,368665 ,13-04-2003,Andet,95,3881,4,1952,
-787,Villa,Nørrealle 26A,7700, Thisted,1200000 ,13-04-2003,Alm. Salg,124,9677,5,1909,
 787,Villa,Gl. Aalborgvej 45,7741, Frøstrup,1450000 ,11-04-2003,Alm. Salg,194,7474,7,2013,
 787,Villa,Skyumvej 39,7700, Thisted,512500 ,10-04-2003,Fam. Salg,193,2655,6,1896,
 787,Villa,Blommevej 9,7741, Frøstrup,550000 ,07-04-2003,Alm. Salg,117,4701,4,1979,
@@ -14538,9 +14169,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Rubyvej 17,7770, Vestervig,814510 ,20-02-2003,Fam. Salg,164,4967,5,1971,
 787,Villa,Vilsundvej 29,7700, Thisted,495000 ,20-02-2003,Alm. Salg,96,5156,2,1949,
 787,Villa,Elmegade 9,7700, Thisted,575000 ,20-02-2003,Alm. Salg,123,4675,4,1930,
-787,Rækkehus,Søndergade 2,7760, Hurup Thy,400000 ,19-02-2003,Alm. Salg,138,2899,5,1910,
 787,Villa,Bødkervej 75,7730, Hanstholm,1300000 ,19-02-2003,Alm. Salg,229,5118,9,1985,
-787,Villa,Søndergade 19,7760, Hurup Thy,400000 ,19-02-2003,Alm. Salg,72,5556,2,1900,
 787,Villa,Østre Alle 24,7760, Hurup Thy,795007 ,18-02-2003,Alm. Salg,129,6163,4,1962,
 787,Villa,Sct. Thøgersvej 2,7770, Vestervig,628978 ,17-02-2003,Alm. Salg,122,5156,4,1965,
 787,Villa,Brogårdsvej 12,7700, Thisted,467873 ,17-02-2003,Alm. Salg,126,3713,4,1890,
@@ -14917,7 +14546,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Tviskjær 5,7700, Thisted,1555000 ,29-08-2002,Alm. Salg,163,9540,5,2000,
 787,Rækkehus,Kronborgvej 81A,7700, Thisted,690000 ,28-08-2002,Alm. Salg,123,5610,3,1981,
 787,Villa,Hortensiavej 14,7700, Thisted,169380 ,28-08-2002,Alm. Salg,243,697,6,2003,
-787,Villa,Granitvej 3,7700, Thisted,750000 ,28-08-2002,Alm. Salg,149,5034,5,1976,
 787,Villa,Ny Refsvej 32,7760, Hurup Thy,754567 ,28-08-2002,Alm. Salg,163,4629,7,1958,
 787,Villa,Parkvej 8,7700, Thisted,325000 ,28-08-2002,Alm. Salg,101,3218,4,1962,
 787,Villa,Klitmøllervej 46,7700, Thisted,280000 ,28-08-2002,Alm. Salg,248,1129,7,1960,
@@ -15139,7 +14767,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Gyvelvænget 183,7730, Hanstholm,65800 ,06-06-2002,Andet,171,385,5,1973,
 787,Villa,Flarupvej 12,7760, Hurup Thy,315000 ,06-06-2002,Alm. Salg,117,2692,2,1900,
 787,Villa,Gyvelvænget 243,7730, Hanstholm,64000 ,06-06-2002,Andet,124,516,5,1972,
-787,Villa,Engvej 2,7700, Thisted,1835000 ,05-06-2002,Alm. Salg,75,24467,2,1910,
 787,Villa,Gråkjærsti 24,7700, Thisted,110000 ,05-06-2002,Alm. Salg,133,827,3,1907,
 787,Villa,Gyvelvænget 8,7730, Hanstholm,35250 ,05-06-2002,Andet,156,226,6,1967,
 787,Villa,Hyldevej 10,7700, Thisted,1100000 ,05-06-2002,Alm. Salg,146,7534,3,1996,
@@ -15450,9 +15077,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Ashøjvej 31,7770, Vestervig,420070 ,17-02-2002,Alm. Salg,163,2577,5,1921,
 787,Villa,Havremarken 26,7730, Hanstholm,37280 ,17-02-2002,Andet,170,219,5,1985,
 787,Villa,Krik Strandvej 112B,7770, Vestervig,2200000 ,17-02-2002,Alm. Salg,135,16296,3,2021,
-787,Rækkehus,Simons Bakke 110B,7700, Thisted,3400000 ,14-02-2002,Alm. Salg,93,36559,4,1963,
 787,Villa,Tårnvej 47,7752, Snedsted,220000 ,14-02-2002,Alm. Salg,112,1964,3,1912,
-787,Villa,Simons Bakke 110A,7700, Thisted,3400000 ,14-02-2002,Alm. Salg,103,33010,4,1964,
 787,Villa,Legindvej 127,7752, Snedsted,330000 ,14-02-2002,Fam. Salg,135,2444,4,1910,
 787,Villa,Skolegade 7,7755, Bedsted Thy,400000 ,14-02-2002,Alm. Salg,100,4000,3,1970,
 787,Villa,Mellemvej 24,7700, Thisted,275000 ,14-02-2002,Alm. Salg,108,2546,4,1966,
@@ -15664,7 +15289,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Landevejen 55,7760, Hurup Thy,380000 ,18-10-2001,Alm. Salg,236,1610,6,1900,
 787,Villa,Mejerivej 23,7700, Thisted,507733 ,18-10-2001,Alm. Salg,152,3340,6,1900,
 787,Villa,Nørhågårdsvej 10,7752, Snedsted,866698 ,18-10-2001,Alm. Salg,290,2989,5,1940,
-787,Villa,I. P. Jacobsens Plads 7,7700, Thisted,2000000 ,17-10-2001,Alm. Salg,120,16667,4,1877,
 787,Ejerlejlighed,Ved Dammen 36,7752, Snedsted,400000 ,16-10-2001,Alm. Salg,142,2817,4,1906,
 787,Villa,Doveroddevej 12,7760, Hurup Thy,150000 ,16-10-2001,Alm. Salg,118,1271,3,1954,
 787,Villa,Bøgebakken 9,7730, Hanstholm,795089 ,16-10-2001,Alm. Salg,135,5890,5,1973,
@@ -15890,8 +15514,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Nørbyvej 1,7700, Thisted,318472 ,26-06-2001,Alm. Salg,67,4753,3,1936,
 787,Villa,Bakken 3,7700, Thisted,675000 ,26-06-2001,Alm. Salg,148,4561,4,1964,
 787,Villa,Vestergade 90,7741, Frøstrup,307500 ,26-06-2001,Alm. Salg,156,1971,4,1946,
-787,Rækkehus,Hundborgvej 9,7700, Thisted,667000 ,25-06-2001,Alm. Salg,105,6352,4,1877,
-787,Villa,Hundborgvej 9A,7700, Thisted,667000 ,25-06-2001,Alm. Salg,72,9264,3,1877,
 787,Villa,Platanvej 1,7700, Thisted,380000 ,25-06-2001,Alm. Salg,98,3878,3,1965,
 787,Villa,Hundborgvej 69,7700, Thisted,801876 ,25-06-2001,Alm. Salg,93,8622,3,1933,
 787,Villa,Sennels Hede 20,7700, Thisted,289000 ,25-06-2001,Fam. Salg,210,1376,6,2012,
@@ -16035,28 +15657,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Brendgårdvej 7,7760, Hurup Thy,190410 ,30-04-2001,Alm. Salg,63,3022,2,1902,
 787,Villa,Nors Mølle Vej 8,7700, Thisted,1033003 ,30-04-2001,Alm. Salg,220,4695,9,1971,
 787,Villa,Vesterhavsvej 22B,7770, Vestervig,250000 ,30-04-2001,Fam. Salg,100,2500,4,1830,
-787,Ejerlejlighed,"Vestergade 21B, 1",7700, Thisted,4300000 ,29-04-2001,Alm. Salg,79,54430,3,1920,
-787,Ejerlejlighed,"Vestergade 21B, 3",7700, Thisted,4300000 ,29-04-2001,Alm. Salg,52,82692,3,1920,
-787,Ejerlejlighed,"Vestergade 21B, 2",7700, Thisted,4300000 ,29-04-2001,Alm. Salg,75,57333,3,1920,
-787,Ejerlejlighed,"Kronborgvej 2, kl",7700, Thisted,3350000 ,29-04-2001,Alm. Salg,32,104688,1,1920,
-787,Ejerlejlighed,"Kronborgvej 2, st. th",7700, Thisted,3350000 ,29-04-2001,Alm. Salg,58,57759,2,1920,
-787,Ejerlejlighed,"Kronborgvej 2, st. tv",7700, Thisted,3350000 ,29-04-2001,Alm. Salg,57,58772,2,1920,
-787,Ejerlejlighed,"Kronborgvej 2, 1. tv",7700, Thisted,3350000 ,29-04-2001,Alm. Salg,57,58772,2,1920,
-787,Ejerlejlighed,"Kronborgvej 2, 1. th",7700, Thisted,3350000 ,29-04-2001,Alm. Salg,58,57759,2,1920,
-787,Ejerlejlighed,"Frederiksgade 2A, 1. th",7700, Thisted,4300000 ,29-04-2001,Alm. Salg,105,40952,4,1920,
-787,Ejerlejlighed,"Kronborgvej 2, 2. th",7700, Thisted,3350000 ,29-04-2001,Alm. Salg,58,57759,2,1920,
-787,Ejerlejlighed,"Østerbakken 21, st. tv",7700, Thisted,3350000 ,29-04-2001,Alm. Salg,89,37640,3,1920,
-787,Ejerlejlighed,"Østerbakken 21, 1. tv",7700, Thisted,3350000 ,29-04-2001,Alm. Salg,89,37640,3,1920,
-787,Ejerlejlighed,"Østerbakken 21, 2. th",7700, Thisted,3350000 ,29-04-2001,Alm. Salg,56,59821,2,1920,
-787,Ejerlejlighed,"Østerbakken 21, st. th",7700, Thisted,3350000 ,29-04-2001,Alm. Salg,59,56780,2,1920,
-787,Ejerlejlighed,"Østerbakken 21, 1. th",7700, Thisted,3350000 ,29-04-2001,Alm. Salg,59,56780,2,1920,
-787,Ejerlejlighed,"Østerbakken 21, 2. tv",7700, Thisted,3350000 ,29-04-2001,Alm. Salg,86,38953,3,1920,
-787,Ejerlejlighed,"Frederiksgade 2A, 2. tv",7700, Thisted,4300000 ,29-04-2001,Alm. Salg,86,50000,3,1920,
-787,Ejerlejlighed,"Frederiksgade 2A, 3. th",7700, Thisted,4300000 ,29-04-2001,Alm. Salg,57,75439,2,1920,
-787,Ejerlejlighed,"Frederiksgade 2A, 3. tv",7700, Thisted,4300000 ,29-04-2001,Alm. Salg,62,69355,3,1920,
-787,Ejerlejlighed,"Kronborgvej 2, 2. tv",7700, Thisted,3350000 ,29-04-2001,Alm. Salg,55,60909,1,1920,
-787,Ejerlejlighed,"Frederiksgade 2A, 1. tv",7700, Thisted,4300000 ,29-04-2001,Alm. Salg,89,48315,3,1920,
-787,Ejerlejlighed,"Frederiksgade 2A, 2. th",7700, Thisted,4300000 ,29-04-2001,Alm. Salg,102,42157,4,1920,
 787,Villa,Kirkestien 3,7752, Snedsted,445000 ,29-04-2001,Alm. Salg,136,3272,6,1962,
 787,Villa,Odinsvej 26,7752, Snedsted,665000 ,29-04-2001,Alm. Salg,105,6333,4,1985,
 787,Villa,Birkevej 10,7760, Hurup Thy,515000 ,27-04-2001,Alm. Salg,142,3627,4,1973,
@@ -16081,7 +15681,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Kalles Mark 9,7700, Thisted,365500 ,15-04-2001,Fam. Salg,122,2996,6,1996,
 787,Rækkehus,Østerbakken 25,7700, Thisted,734327 ,12-04-2001,Alm. Salg,137,5360,5,1922,
 787,Villa,Kirkestien 4,7752, Snedsted,535000 ,10-04-2001,Alm. Salg,126,4246,4,1978,
-787,Villa,Skovgade 20,7700, Thisted,2500000 ,10-04-2001,Alm. Salg,44,56818,1,1900,
 787,Villa,Syrenvej 23,7700, Thisted,1088000 ,10-04-2001,Alm. Salg,187,5818,6,1978,
 787,Villa,Algade 47,7752, Snedsted,725000 ,10-04-2001,Alm. Salg,163,4448,5,1960,
 787,Villa,Vesterhavsgade 138,7700, Thisted,700000 ,09-04-2001,Alm. Salg,92,5109,5,1910,
@@ -16092,7 +15691,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Mågevej 27,7770, Vestervig,1592374 ,05-04-2001,Alm. Salg,409,3893,7,1802,
 787,Villa,Astrupvej 29,7760, Hurup Thy,881709 ,05-04-2001,Alm. Salg,255,3458,6,1877,
 787,Villa,Solbakkevej 48,7700, Thisted,656118 ,04-04-2001,Alm. Salg,80,8201,3,1948,
-787,Villa,Østerild Byvej 20,7700, Thisted,865000 ,04-04-2001,Alm. Salg,128,6758,5,1965,
 787,Villa,Ny Refsvej 7,7760, Hurup Thy,550000 ,04-04-2001,Alm. Salg,127,4331,3,1934,
 787,Villa,Skolevænget 1A,7700, Thisted,930923 ,04-04-2001,Alm. Salg,113,8238,5,1962,
 787,Rækkehus,Nørrevænge 47,7700, Thisted,715000 ,03-04-2001,Alm. Salg,88,8125,3,1987,
@@ -16579,11 +16177,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Ved Engen 1,7700, Thisted,395000 ,12-07-2000,Alm. Salg,114,3465,4,1900,
 787,Villa,Rønnebærvej 24,7741, Frøstrup,540000 ,12-07-2000,Alm. Salg,102,5294,3,1986,
 787,Villa,Fiskervej 5,7700, Thisted,369805 ,12-07-2000,Alm. Salg,148,2499,4,1960,
-787,Ejerlejlighed,"Vestergade 74A, 1. th",7700, Thisted,3500000 ,11-07-2000,Alm. Salg,149,23490,4,1875,
-787,Ejerlejlighed,"Sofievej 19, st",7700, Thisted,3500000 ,11-07-2000,Alm. Salg,116,30172,4,1959,
-787,Ejerlejlighed,"Vestergade 74A, 1. tv",7700, Thisted,3500000 ,11-07-2000,Alm. Salg,97,36082,3,1875,
-787,Ejerlejlighed,"Vestergade 74A, 2",7700, Thisted,3500000 ,11-07-2000,Alm. Salg,169,20710,5,1875,
-787,Ejerlejlighed,Sofievej 21,7700, Thisted,3500000 ,11-07-2000,Alm. Salg,152,23026,5,1959,
 787,Villa,Gyvelvej 55,7700, Thisted,1120767 ,11-07-2000,Alm. Salg,163,6876,5,1986,
 787,Villa,Mellemmøllevej 6,7700, Thisted,760000 ,11-07-2000,Alm. Salg,108,7037,4,1943,
 787,Villa,Guldsmedegade 3,7760, Hurup Thy,592100 ,10-07-2000,Alm. Salg,114,5194,3,1953,
@@ -16597,8 +16190,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Slotsvej 2,7700, Thisted,117000 ,06-07-2000,Auktion,104,1125,4,1968,
 787,Villa,Kalles Mark 7,7700, Thisted,393056 ,05-07-2000,Alm. Salg,168,2340,4,1999,
 787,Rækkehus,Nørrevænge 11,7700, Thisted,760224 ,04-07-2000,Alm. Salg,100,7602,4,1986,
-787,Ejerlejlighed,"Plantagevej 10, 1",7700, Thisted,665000 ,04-07-2000,Alm. Salg,73,9110,3,1904,
-787,Ejerlejlighed,Åstrædet 3,7700, Thisted,665000 ,04-07-2000,Alm. Salg,32,20781,1,1904,
 787,Villa,Østre Alle 22,7760, Hurup Thy,460000 ,04-07-2000,Alm. Salg,100,4600,3,1955,
 787,Villa,Sømærkevej 63,7752, Snedsted,470000 ,04-07-2000,Alm. Salg,194,2423,6,1941,
 787,Villa,Margrethevej 1A,7700, Thisted,461725 ,03-07-2000,Alm. Salg,99,4664,4,1907,
@@ -16616,8 +16207,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Tøvlingvej 3,7752, Snedsted,427000 ,29-06-2000,Alm. Salg,145,2945,3,1940,
 787,Villa,Thyrasvej 42,7760, Hurup Thy,1365886 ,29-06-2000,Alm. Salg,147,9292,5,1999,
 787,Rækkehus,Hundborgvej 146B,7700, Thisted,471000 ,28-06-2000,Alm. Salg,152,3099,3,1910,
-787,Rækkehus,Simons Bakke 110B,7700, Thisted,3300000 ,28-06-2000,Alm. Salg,93,35484,4,1963,
-787,Villa,Simons Bakke 110A,7700, Thisted,3300000 ,28-06-2000,Alm. Salg,103,32039,4,1964,
 787,Villa,Stevnsvej 8,7700, Thisted,800000 ,28-06-2000,Alm. Salg,198,4040,3,1921,
 787,Villa,Bakkegårdsvej 3,7742, Vesløs,273000 ,28-06-2000,Alm. Salg,158,1728,4,1895,
 787,Villa,Gudnæsstrandvej 13,7752, Snedsted,395000 ,28-06-2000,Alm. Salg,103,3835,4,1907,
@@ -16991,8 +16580,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Skolevænget 16,7700, Thisted,876000 ,05-01-2000,Alm. Salg,103,8505,4,1966,
 787,Villa,Gyvelvænget 265,7730, Hanstholm,674202 ,04-01-2000,Alm. Salg,170,3966,6,1970,
 787,Villa,Præstebakken 13,7730, Hanstholm,900000 ,04-01-2000,Alm. Salg,158,5696,4,1976,
-787,Rækkehus,Simons Bakke 110B,7700, Thisted,2950000 ,03-01-2000,Alm. Salg,93,31720,4,1963,
-787,Villa,Simons Bakke 110A,7700, Thisted,2950000 ,03-01-2000,Alm. Salg,103,28641,4,1964,
 787,Villa,Nyhåbsvej 4,7752, Snedsted,271816 ,03-01-2000,Alm. Salg,134,2028,4,1965,
 787,Villa,Ashøjvej 31,7770, Vestervig,497402 ,02-01-2000,Alm. Salg,163,3052,5,1921,
 787,Villa,Vestergade 66,7770, Vestervig,215000 ,02-01-2000,Alm. Salg,119,1807,4,1948,
@@ -17037,8 +16624,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Rækkehus,Engvej 34,7700, Thisted,45130 ,06-12-1999,Alm. Salg,122,370,4,2000,
 787,Rækkehus,Engvej 36,7700, Thisted,54870 ,06-12-1999,Alm. Salg,123,446,4,2000,
 787,Villa,Godthåbsvej 5,7760, Hurup Thy,221895 ,06-12-1999,Alm. Salg,124,1789,4,1908,
-787,Ejerlejlighed,"Bakkevej 2, 1",7700, Thisted,600000 ,05-12-1999,Alm. Salg,86,6977,2,1907,
-787,Ejerlejlighed,"Vorupørvej 46, st. th",7700, Thisted,600000 ,05-12-1999,Alm. Salg,90,6667,3,1907,
 787,Villa,Vestervej 15,7760, Hurup Thy,425000 ,05-12-1999,Alm. Salg,125,3400,5,1932,
 787,Villa,Aalborgvej 123,7700, Thisted,1160761 ,05-12-1999,Alm. Salg,150,7738,6,1920,
 787,Villa,Birkevej 14,7741, Frøstrup,126000 ,05-12-1999,Alm. Salg,199,633,5,2000,
@@ -17066,9 +16651,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Rækkehus,Nørrevænge 38,7700, Thisted,715000 ,25-11-1999,Alm. Salg,120,5958,5,1986,
 787,Villa,Havremarken 59,7730, Hanstholm,550000 ,25-11-1999,Alm. Salg,120,4583,4,1976,
 787,Villa,Gl. Feggesundvej 44,7742, Vesløs,297999 ,25-11-1999,Alm. Salg,100,2980,3,1877,
-787,Rækkehus,Hundborgvej 9,7700, Thisted,731141 ,24-11-1999,Alm. Salg,105,6963,4,1877,
 787,Ejerlejlighed,"Korsgade 7, 1. th",7700, Thisted,537335 ,24-11-1999,Alm. Salg,83,6474,2,1882,
-787,Villa,Hundborgvej 9A,7700, Thisted,731141 ,24-11-1999,Alm. Salg,72,10155,3,1877,
 787,Villa,Tilstedvej 9,7700, Thisted,691857 ,24-11-1999,Alm. Salg,113,6123,5,1952,
 787,Villa,Stågbak 9,7700, Thisted,583440 ,24-11-1999,Fam. Salg,106,5504,6,2003,
 787,Villa,Kastanievej 3,7700, Thisted,827000 ,23-11-1999,Alm. Salg,140,5907,4,1974,
@@ -17997,23 +17580,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Pilevej 8,7700, Thisted,834900 ,22-10-1998,Alm. Salg,131,6373,3,1973,
 787,Villa,Havremarken 43,7730, Hanstholm,1302000 ,22-10-1998,Alm. Salg,186,7000,6,1982,
 787,Villa,Gyrupvej 2,7752, Snedsted,460935 ,22-10-1998,Fam. Salg,139,3316,4,1863,
-787,Rækkehus,"Jernbanegade 26, 1",7700, Thisted,700000 ,21-10-1998,Alm. Salg,87,8046,2,1898,
-787,Ejerlejlighed,"Jernbanegade 26, 2",7700, Thisted,700000 ,21-10-1998,Alm. Salg,78,8974,2,1898,
 787,Rækkehus,Fårtoftvej 102,7700, Thisted,475000 ,20-10-1998,Alm. Salg,94,5053,4,1962,
 787,Villa,Skipperkrogen 14,7742, Vesløs,600000 ,20-10-1998,Alm. Salg,145,4138,4,1977,
 787,Villa,Kalles Mark 19,7700, Thisted,1018580 ,20-10-1998,Alm. Salg,178,5722,7,1998,
 787,Rækkehus,Æblevej 10,7741, Frøstrup,380000 ,19-10-1998,Alm. Salg,86,4419,2,1979,
-787,Ejerlejlighed,"Rosenkrantzgade 22, st. th",7700, Thisted,2856060 ,19-10-1998,Alm. Salg,20,142803,1,1900,
-787,Ejerlejlighed,"Rosenkrantzgade 22, st. tv",7700, Thisted,2856060 ,19-10-1998,Alm. Salg,74,38595,3,1900,
-787,Ejerlejlighed,"Rosenkrantzgade 22, 1. th",7700, Thisted,2856060 ,19-10-1998,Alm. Salg,54,52890,2,1900,
-787,Ejerlejlighed,"Rosenkrantzgade 22, 2. tv",7700, Thisted,2856060 ,19-10-1998,Alm. Salg,83,34410,3,1900,
-787,Ejerlejlighed,"Rosenkrantzgade 22, 1. tv",7700, Thisted,2856060 ,19-10-1998,Alm. Salg,80,35701,2,1900,
-787,Ejerlejlighed,"Rosenkrantzgade 22, 2. th",7700, Thisted,2856060 ,19-10-1998,Alm. Salg,55,51928,2,1900,
-787,Ejerlejlighed,"Rosenkrantzgade 24, kl",7700, Thisted,2856060 ,19-10-1998,Alm. Salg,58,49242,3,1900,
-787,Ejerlejlighed,"Møllevej 6A, st. tv",7700, Thisted,2856060 ,19-10-1998,Alm. Salg,48,59501,2,1900,
-787,Ejerlejlighed,"Møllevej 6A, st. th",7700, Thisted,2856060 ,19-10-1998,Alm. Salg,51,56001,2,1900,
-787,Ejerlejlighed,"Møllevej 6A, 1",7700, Thisted,2856060 ,19-10-1998,Alm. Salg,68,42001,3,1900,
-787,Ejerlejlighed,"Møllevej 6B, kl. tv",7700, Thisted,2856060 ,19-10-1998,Alm. Salg,39,73232,2,1900,
 787,Villa,Poppelvej 41,7700, Thisted,1015000 ,19-10-1998,Alm. Salg,150,6767,5,1975,
 787,Villa,Hvedemarken 27,7730, Hanstholm,1180000 ,19-10-1998,Alm. Salg,158,7468,7,1989,
 787,Villa,Vestergade 8,7741, Frøstrup,280500 ,19-10-1998,Fam. Salg,153,1833,6,1910,
@@ -18151,7 +17721,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Østerild Byvej 17,7700, Thisted,445000 ,23-08-1998,Alm. Salg,114,3904,3,1947,
 787,Villa,Højmarken 6,7700, Thisted,310000 ,23-08-1998,Fam. Salg,191,1623,4,1942,
 787,Villa,Stensgårdsvej 10,7760, Hurup Thy,595000 ,23-08-1998,Alm. Salg,167,3563,5,1960,
-787,Villa,Åbrovej 67,7752, Snedsted,910000 ,21-08-1998,Alm. Salg,105,8667,5,1976,
 787,Villa,Thylandsvej 61,7700, Thisted,600000 ,20-08-1998,Alm. Salg,110,5455,4,1964,
 787,Villa,Møgelvej 91,7752, Snedsted,310000 ,20-08-1998,Fam. Salg,83,3735,4,1963,
 787,Villa,Højtofte 12,7760, Hurup Thy,750000 ,20-08-1998,Alm. Salg,149,5034,4,1972,
@@ -18857,8 +18426,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Solbakkevej 4,7700, Thisted,820000 ,24-11-1997,Alm. Salg,188,4362,7,1936,
 787,Villa,Præstebakken 5,7730, Hanstholm,755000 ,24-11-1997,Alm. Salg,247,3057,6,1981,
 787,Villa,Skolevænget 32,7700, Thisted,626152 ,24-11-1997,Alm. Salg,100,6262,3,1964,
-787,Rækkehus,Hundborgvej 9,7700, Thisted,722900 ,23-11-1997,Alm. Salg,105,6885,4,1877,
-787,Villa,Hundborgvej 9A,7700, Thisted,722900 ,23-11-1997,Alm. Salg,72,10040,3,1877,
 787,Villa,Odinsvej 1,7700, Thisted,595000 ,21-11-1997,Alm. Salg,162,3673,6,1927,
 787,Villa,Gadegårdsparken 6,7700, Thisted,962397 ,21-11-1997,Alm. Salg,225,4277,5,1976,
 787,Villa,Toften 1,7700, Thisted,230000 ,21-11-1997,Alm. Salg,99,2323,2,1890,
@@ -19156,17 +18723,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Vestervigvej 198,7752, Snedsted,190000 ,31-07-1997,Alm. Salg,65,2923,4,1878,
 787,Villa,Nygade 14,7700, Thisted,135000 ,31-07-1997,Alm. Salg,136,993,3,1857,
 787,Villa,Ranunkelvej 9,7700, Thisted,530000 ,31-07-1997,Alm. Salg,135,3926,4,1974,
-787,Ejerlejlighed,"Rosenkrantzgade 22, st. th",7700, Thisted,2856059 ,30-07-1997,Alm. Salg,20,142803,1,1900,
-787,Ejerlejlighed,"Rosenkrantzgade 22, st. tv",7700, Thisted,2856059 ,30-07-1997,Alm. Salg,74,38595,3,1900,
-787,Ejerlejlighed,"Rosenkrantzgade 22, 1. th",7700, Thisted,2856059 ,30-07-1997,Alm. Salg,54,52890,2,1900,
-787,Ejerlejlighed,"Rosenkrantzgade 22, 2. tv",7700, Thisted,2856059 ,30-07-1997,Alm. Salg,83,34410,3,1900,
-787,Ejerlejlighed,"Rosenkrantzgade 22, 1. tv",7700, Thisted,2856059 ,30-07-1997,Alm. Salg,80,35701,2,1900,
-787,Ejerlejlighed,"Rosenkrantzgade 22, 2. th",7700, Thisted,2856059 ,30-07-1997,Alm. Salg,55,51928,2,1900,
-787,Ejerlejlighed,"Rosenkrantzgade 24, kl",7700, Thisted,2856059 ,30-07-1997,Alm. Salg,58,49242,3,1900,
-787,Ejerlejlighed,"Møllevej 6A, st. tv",7700, Thisted,2856059 ,30-07-1997,Alm. Salg,48,59501,2,1900,
-787,Ejerlejlighed,"Møllevej 6A, st. th",7700, Thisted,2856059 ,30-07-1997,Alm. Salg,51,56001,2,1900,
-787,Ejerlejlighed,"Møllevej 6A, 1",7700, Thisted,2856059 ,30-07-1997,Alm. Salg,68,42001,3,1900,
-787,Ejerlejlighed,"Møllevej 6B, kl. tv",7700, Thisted,2856059 ,30-07-1997,Alm. Salg,39,73232,2,1900,
 787,Villa,Vesterkærvej 2,7700, Thisted,330000 ,30-07-1997,Alm. Salg,126,2619,3,1878,
 787,Villa,Trædholmvej 3,7752, Snedsted,198000 ,30-07-1997,Alm. Salg,88,2250,3,1828,
 787,Villa,Rosenvænget 18,7752, Snedsted,759300 ,29-07-1997,Alm. Salg,187,4060,7,1973,
@@ -19226,11 +18782,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Spangbergsvej 6,7700, Thisted,623573 ,02-07-1997,Alm. Salg,128,4872,5,1950,
 787,Villa,Jasminvej 10,7700, Thisted,151000 ,02-07-1997,Alm. Salg,141,1071,4,1997,
 787,Villa,Jasminvej 28,7700, Thisted,197000 ,02-07-1997,Alm. Salg,175,1126,5,1997,
-787,Ejerlejlighed,"Simons Bakke 94A, 1",7700, Thisted,1500000 ,01-07-1997,Alm. Salg,112,13393,3,1946,
-787,Villa,Skovgade 20,7700, Thisted,1960000 ,01-07-1997,Alm. Salg,44,44545,1,1900,
 787,Villa,Vilsund Mølle Vej 10,7700, Thisted,675000 ,01-07-1997,Alm. Salg,156,4327,5,1970,
 787,Villa,Ashøjgade 43,7760, Hurup Thy,552757 ,01-07-1997,Alm. Salg,176,3141,6,1913,
-787,Villa,Simons Bakke 94B,7700, Thisted,1500000 ,01-07-1997,Alm. Salg,114,13158,5,1946,
 787,Rækkehus,Møllevej 46,7700, Thisted,400000 ,30-06-1997,Alm. Salg,124,3226,7,1910,
 787,Villa,Tilstedvej 35,7700, Thisted,479882 ,30-06-1997,Andet,110,4363,4,1960,
 787,Villa,Aalumvej 16,7770, Vestervig,600000 ,30-06-1997,Alm. Salg,130,4615,4,1800,
@@ -19813,8 +19366,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Thorsvej 26,7752, Snedsted,685000 ,13-11-1996,Alm. Salg,190,3605,7,1933,
 787,Villa,Stampemøllevej 4,7752, Snedsted,635000 ,13-11-1996,Alm. Salg,150,4233,3,1907,
 787,Villa,Havremarken 56,7730, Hanstholm,622000 ,13-11-1996,Alm. Salg,123,5057,4,1977,
-787,Ejerlejlighed,"Plantagevej 10, 1",7700, Thisted,570000 ,12-11-1996,Alm. Salg,73,7808,3,1904,
-787,Ejerlejlighed,Åstrædet 3,7700, Thisted,570000 ,12-11-1996,Alm. Salg,32,17813,1,1904,
 787,Villa,Valmuevej 9,7700, Thisted,350000 ,12-11-1996,Alm. Salg,124,2823,3,1966,
 787,Villa,Åbrinken 45,7700, Thisted,1043800 ,12-11-1996,Alm. Salg,157,6648,4,1972,
 787,Villa,Klatmøllevej 17,7700, Thisted,395000 ,12-11-1996,Alm. Salg,172,2297,5,1868,
@@ -19935,7 +19486,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Silstrupvej 20,7700, Thisted,500000 ,29-09-1996,Alm. Salg,175,2857,6,1875,
 787,Villa,Magnoliavej 1,7700, Thisted,194550 ,29-09-1996,Alm. Salg,193,1008,6,1998,
 787,Villa,Koralvej 1,7700, Thisted,835000 ,29-09-1996,Alm. Salg,132,6326,4,1988,
-787,Villa,Skovgade 20,7700, Thisted,1900000 ,26-09-1996,Alm. Salg,44,43182,1,1900,
 787,Villa,Dybdalsgave 7,7700, Thisted,300000 ,24-09-1996,Alm. Salg,184,1630,7,1933,
 787,Villa,Dalstræde 4,7760, Hurup Thy,100000 ,24-09-1996,Alm. Salg,99,1010,4,1952,
 787,Villa,P. L. Halds Vej 34,7700, Thisted,692960 ,23-09-1996,Alm. Salg,132,5250,5,1960,
@@ -20066,11 +19616,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Ejerlejlighed,"Åsvej 42A, st",7700, Thisted,1600000 ,15-08-1996,Alm. Salg,160,10000,7,1940,
 787,Villa,Thylandsvej 41,7700, Thisted,481000 ,15-08-1996,Alm. Salg,207,2324,8,1930,
 787,Villa,Sennelsvej 15,7700, Thisted,407500 ,15-08-1996,Alm. Salg,96,4245,4,1967,
-787,Ejerlejlighed,"Havnestræde 8, st",7700, Thisted,752000 ,14-08-1996,Alm. Salg,177,4249,5,1877,
-787,Ejerlejlighed,"Lillegade 7, 1. 1",7700, Thisted,752000 ,14-08-1996,Alm. Salg,50,15040,1,1877,
-787,Ejerlejlighed,"Lillegade 7, 1. 4",7700, Thisted,752000 ,14-08-1996,Alm. Salg,82,9171,2,1877,
-787,Ejerlejlighed,"Lillegade 7, st",7700, Thisted,752000 ,14-08-1996,Alm. Salg,65,11569,2,1877,
-787,Ejerlejlighed,"Lillegade 7, 1. 2",7700, Thisted,752000 ,14-08-1996,Alm. Salg,63,11937,2,1877,
 787,Villa,Solbakken 8,7730, Hanstholm,600000 ,14-08-1996,Alm. Salg,201,2985,6,1972,
 787,Villa,Roshagevej 13,7730, Hanstholm,220000 ,14-08-1996,Alm. Salg,97,2268,3,1935,
 787,Villa,Fayes Alle 22,7700, Thisted,6000 ,14-08-1996,Alm. Salg,177,34,6,1943,
@@ -20119,8 +19664,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Vinkelalle 4,7700, Thisted,627000 ,30-07-1996,Alm. Salg,126,4976,4,1964,
 787,Villa,Astrupvej 15,7760, Hurup Thy,5000 ,28-07-1996,Alm. Salg,82,61,3,1927,
 787,Villa,Nordsøvej 10,7770, Vestervig,522500 ,28-07-1996,Alm. Salg,118,4428,4,1975,
-787,Villa,Åsvej 5B,7700, Thisted,2067000 ,27-07-1996,Alm. Salg,277,7462,9,1880,
-787,Villa,Åsvej 5B,7700, Thisted,413000 ,26-07-1996,Alm. Salg,277,1491,9,1880,
 787,Villa,Vestervej 13,7760, Hurup Thy,90000 ,25-07-1996,Fam. Salg,124,726,2,1927,
 787,Villa,Solhøjvej 21,7700, Thisted,143902 ,25-07-1996,Alm. Salg,162,888,7,1960,
 787,Villa,Magnoliavej 24,7700, Thisted,236400 ,25-07-1996,Alm. Salg,218,1084,8,1997,
@@ -20192,8 +19735,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Rækkehus,Kobbelsti 5G,7700, Thisted,245000 ,23-06-1996,Alm. Salg,82,2988,3,1986,
 787,Villa,Stenbjergvej 64,7752, Snedsted,783000 ,23-06-1996,Alm. Salg,170,4606,5,1890,
 787,Villa,Fjordvænget 3,7700, Thisted,915000 ,21-06-1996,Alm. Salg,140,6536,4,1966,
-787,Rækkehus,Simons Bakke 110B,7700, Thisted,2500000 ,20-06-1996,Alm. Salg,93,26882,4,1963,
-787,Villa,Simons Bakke 110A,7700, Thisted,2500000 ,20-06-1996,Alm. Salg,103,24272,4,1964,
 787,Villa,Legårdsvej 29,7752, Snedsted,600000 ,20-06-1996,Fam. Salg,232,2586,9,1928,
 787,Villa,Næstrupvej 44,7700, Thisted,365000 ,19-06-1996,Alm. Salg,172,2122,7,1932,
 787,Villa,Stationsvej 15,7700, Thisted,265000 ,19-06-1996,Alm. Salg,104,2548,4,1913,
@@ -20490,16 +20031,13 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Idasminde Mark 3,7700, Thisted,625000 ,15-03-1996,Alm. Salg,149,4195,5,1929,
 787,Villa,Vesløs Mark 1,7742, Vesløs,1000000 ,15-03-1996,Fam. Salg,70,14286,3,1930,
 787,Villa,Kløv Nedervej 2,7700, Thisted,316550 ,14-03-1996,Alm. Salg,82,3860,4,1926,
-787,Ejerlejlighed,Havnestræde 3,7700, Thisted,295000 ,13-03-1996,Alm. Salg,78,3782,2,1913,
 787,Ejerlejlighed,"Vestergade 49A, 1",7700, Thisted,330000 ,13-03-1996,Alm. Salg,62,5323,3,1902,
-787,Ejerlejlighed,"Lillegade 9, 1",7700, Thisted,295000 ,13-03-1996,Alm. Salg,65,4538,3,1913,
 787,Villa,Gl. Feggesundvej 25,7742, Vesløs,125000 ,13-03-1996,Alm. Salg,119,1050,3,1996,
 787,Villa,Vesterhavsgade 68,7700, Thisted,339000 ,13-03-1996,Alm. Salg,120,2825,3,1880,
 787,Villa,Limfjordsgade 2,7752, Snedsted,520000 ,12-03-1996,Alm. Salg,128,4063,4,1964,
 787,Villa,Kalles Mark 9,7700, Thisted,14647 ,12-03-1996,Alm. Salg,122,120,6,1996,
 787,Villa,Rosenkrantzgade 15,7700, Thisted,350000 ,11-03-1996,Alm. Salg,128,2734,4,1946,
 787,Villa,Vorupørvej 2,7700, Thisted,97053 ,11-03-1996,Fam. Salg,55,1765,2,1936,
-787,Villa,Møgelvej 63B,7752, Snedsted,320000 ,11-03-1996,Alm. Salg,58,5517,1,1925,
 787,Villa,Gyvelvej 2,7700, Thisted,1234143 ,11-03-1996,Alm. Salg,218,5661,9,1980,
 787,Villa,Algade 23,7752, Snedsted,375000 ,10-03-1996,Alm. Salg,176,2131,7,1955,
 787,Villa,Doveroddevej 34,7760, Hurup Thy,280000 ,09-03-1996,Alm. Salg,140,2000,7,1900,
@@ -20543,30 +20081,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Momtoftvej 14,7700, Thisted,805000 ,26-02-1996,Alm. Salg,291,2766,6,1925,
 787,Villa,Åbrovej 25,7755, Bedsted Thy,510000 ,26-02-1996,Alm. Salg,187,2727,4,1928,
 787,Villa,Østre Alle 6,7760, Hurup Thy,275000 ,26-02-1996,Alm. Salg,112,2455,5,1934,
-787,Ejerlejlighed,"Vestergade 21B, 1",7700, Thisted,2888000 ,25-02-1996,Alm. Salg,79,36557,3,1920,
-787,Ejerlejlighed,"Vestergade 21B, 3",7700, Thisted,2888000 ,25-02-1996,Alm. Salg,52,55538,3,1920,
-787,Ejerlejlighed,"Vestergade 21B, 2",7700, Thisted,2888000 ,25-02-1996,Alm. Salg,75,38507,3,1920,
-787,Ejerlejlighed,"Kronborgvej 2, kl",7700, Thisted,1941000 ,25-02-1996,Alm. Salg,32,60656,1,1920,
-787,Ejerlejlighed,"Kronborgvej 2, st. th",7700, Thisted,1941000 ,25-02-1996,Alm. Salg,58,33466,2,1920,
-787,Ejerlejlighed,"Kronborgvej 2, st. tv",7700, Thisted,1941000 ,25-02-1996,Alm. Salg,57,34053,2,1920,
-787,Ejerlejlighed,"Kronborgvej 2, 1. tv",7700, Thisted,1941000 ,25-02-1996,Alm. Salg,57,34053,2,1920,
-787,Ejerlejlighed,"Kronborgvej 2, 1. th",7700, Thisted,1941000 ,25-02-1996,Alm. Salg,58,33466,2,1920,
 787,Ejerlejlighed,"Kastet 16, st",7700, Thisted,465000 ,25-02-1996,Alm. Salg,89,5225,3,1912,
 787,Ejerlejlighed,Vestergade 1C,7770, Vestervig,20000 ,25-02-1996,Auktion,51,392,2,1902,
-787,Ejerlejlighed,"Frederiksgade 2A, 1. th",7700, Thisted,2888000 ,25-02-1996,Alm. Salg,105,27505,4,1920,
-787,Ejerlejlighed,"Kronborgvej 2, 2. th",7700, Thisted,1941000 ,25-02-1996,Alm. Salg,58,33466,2,1920,
-787,Ejerlejlighed,"Østerbakken 21, st. tv",7700, Thisted,1941000 ,25-02-1996,Alm. Salg,89,21809,3,1920,
-787,Ejerlejlighed,"Østerbakken 21, 1. tv",7700, Thisted,1941000 ,25-02-1996,Alm. Salg,89,21809,3,1920,
-787,Ejerlejlighed,"Østerbakken 21, 2. th",7700, Thisted,1941000 ,25-02-1996,Alm. Salg,56,34661,2,1920,
-787,Ejerlejlighed,"Østerbakken 21, st. th",7700, Thisted,1941000 ,25-02-1996,Alm. Salg,59,32898,2,1920,
-787,Ejerlejlighed,"Østerbakken 21, 1. th",7700, Thisted,1941000 ,25-02-1996,Alm. Salg,59,32898,2,1920,
-787,Ejerlejlighed,"Østerbakken 21, 2. tv",7700, Thisted,1941000 ,25-02-1996,Alm. Salg,86,22570,3,1920,
-787,Ejerlejlighed,"Frederiksgade 2A, 2. tv",7700, Thisted,2888000 ,25-02-1996,Alm. Salg,86,33581,3,1920,
-787,Ejerlejlighed,"Frederiksgade 2A, 3. th",7700, Thisted,2888000 ,25-02-1996,Alm. Salg,57,50667,2,1920,
-787,Ejerlejlighed,"Frederiksgade 2A, 3. tv",7700, Thisted,2888000 ,25-02-1996,Alm. Salg,62,46581,3,1920,
-787,Ejerlejlighed,"Kronborgvej 2, 2. tv",7700, Thisted,1941000 ,25-02-1996,Alm. Salg,55,35291,1,1920,
-787,Ejerlejlighed,"Frederiksgade 2A, 1. tv",7700, Thisted,2888000 ,25-02-1996,Alm. Salg,89,32449,3,1920,
-787,Ejerlejlighed,"Frederiksgade 2A, 2. th",7700, Thisted,2888000 ,25-02-1996,Alm. Salg,102,28314,4,1920,
 787,Villa,Grurupvej 4,7760, Hurup Thy,300359 ,25-02-1996,Fam. Salg,272,1104,6,1880,
 787,Villa,Guldstjernevej 4,7700, Thisted,199750 ,25-02-1996,Fam. Salg,185,1080,5,1974,
 787,Villa,Kjelstrupvej 26,7700, Thisted,325000 ,25-02-1996,Alm. Salg,137,2372,3,1800,
@@ -20834,10 +20350,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Legindvej 143,7752, Snedsted,383852 ,25-10-1995,Alm. Salg,205,1872,6,1878,
 787,Villa,Oles Toft 2,7700, Thisted,565000 ,25-10-1995,Alm. Salg,138,4094,5,1972,
 787,Villa,Randrupvej 24,7760, Hurup Thy,395000 ,25-10-1995,Alm. Salg,180,2194,5,1902,
-787,Rækkehus,Nørrealle 23,7700, Thisted,530207 ,23-10-1995,Alm. Salg,141,3760,6,1909,
 787,Villa,Ashøjvej 14,7760, Hurup Thy,501029 ,23-10-1995,Alm. Salg,195,2569,6,1900,
 787,Villa,Trombakken 3,7752, Snedsted,623657 ,23-10-1995,Alm. Salg,248,2515,7,1963,
-787,Villa,Vandværksvej 1,7700, Thisted,530207 ,23-10-1995,Alm. Salg,31,17103,2,1918,
 787,Villa,Vangsgade 1A,7752, Snedsted,330000 ,23-10-1995,Alm. Salg,148,2230,4,2015,
 787,Villa,Gl. Feggesundvej 168,7742, Vesløs,291746 ,23-10-1995,Alm. Salg,215,1357,7,1976,
 787,Villa,Oddesundvej 186,7752, Snedsted,370000 ,22-10-1995,Alm. Salg,189,1958,4,1878,
@@ -21194,9 +20708,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Dragsbækvej 74,7700, Thisted,870000 ,20-06-1995,Alm. Salg,174,5000,5,1931,
 787,Villa,Storkevej 2,7741, Frøstrup,359637 ,20-06-1995,Alm. Salg,145,2480,3,1920,
 787,Villa,Bakken 7,7700, Thisted,300000 ,20-06-1995,Alm. Salg,142,2113,5,1962,
-787,Ejerlejlighed,"Vestergade 30A, 2",7700, Thisted,995000 ,19-06-1995,Alm. Salg,40,24875,3,1890,
-787,Ejerlejlighed,"Vestergade 30A, 1",7700, Thisted,995000 ,19-06-1995,Alm. Salg,80,12438,3,1890,
-787,Ejerlejlighed,"Rosenkrantzgade 9, 1",7700, Thisted,995000 ,19-06-1995,Alm. Salg,40,24875,2,1850,
 787,Villa,Odinsvej 1,7700, Thisted,440000 ,19-06-1995,Alm. Salg,162,2716,6,1927,
 787,Villa,Bredgade 40,7760, Hurup Thy,140000 ,19-06-1995,Alm. Salg,155,903,5,1910,
 787,Villa,Fayes Alle 17,7700, Thisted,591000 ,19-06-1995,Alm. Salg,144,4104,6,1931,
@@ -21282,8 +20793,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Thylandsgade 6,7755, Bedsted Thy,298000 ,22-05-1995,Alm. Salg,245,1216,7,1870,
 787,Villa,Møllebakken 21,7760, Hurup Thy,540000 ,22-05-1995,Alm. Salg,128,4219,4,1981,
 787,Villa,Helshagevej 44,7730, Hanstholm,260000 ,22-05-1995,Alm. Salg,170,1529,4,1921,
-787,Rækkehus,Nørrevænge 35,7700, Thisted,430000 ,21-05-1995,Alm. Salg,90,4778,4,1986,
-787,Villa,Valmuevej 16,7700, Thisted,430000 ,21-05-1995,Alm. Salg,186,2312,7,1974,
 787,Villa,Hedegårdsvej 25,7755, Bedsted Thy,125355 ,21-05-1995,Fam. Salg,105,1194,3,1904,
 787,Villa,Møllevænget 19,7760, Hurup Thy,725000 ,18-05-1995,Alm. Salg,150,4833,5,1971,
 787,Villa,Dragsbækvej 76,7700, Thisted,665000 ,18-05-1995,Alm. Salg,162,4105,4,1924,
@@ -21472,7 +20981,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Rækkehus,Østerbakken 27,7700, Thisted,375000 ,14-03-1995,Alm. Salg,112,3348,4,1912,
 787,Villa,Skyumvej 144,7755, Bedsted Thy,165000 ,14-03-1995,Alm. Salg,160,1031,5,1917,
 787,Villa,Krik Strandvej 112B,7770, Vestervig,2800000 ,14-03-1995,Fam. Salg,135,20741,3,2021,
-787,Rækkehus,Havnestræde 12A,7700, Thisted,850000 ,13-03-1995,Alm. Salg,48,17708,2,1887,
 787,Villa,Solbakkevej 77,7700, Thisted,478000 ,13-03-1995,Alm. Salg,121,3950,5,1964,
 787,Villa,Gråkjærsti 10,7700, Thisted,25000 ,12-03-1995,Fam. Salg,98,255,4,2006,
 787,Villa,Klostergade 64,7770, Vestervig,30000 ,12-03-1995,Alm. Salg,90,333,3,1906,
@@ -21619,13 +21127,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Strandbakken 24,7700, Thisted,334409 ,15-01-1995,Fam. Salg,164,2039,4,1967,
 787,Villa,Fuglebakken 37,7760, Hurup Thy,360000 ,13-01-1995,Alm. Salg,119,3025,4,1972,
 787,Villa,Balsbyvej 6,7755, Bedsted Thy,80000 ,13-01-1995,Alm. Salg,108,741,4,1963,
-787,Ejerlejlighed,Korsgade 14,7700, Thisted,360000 ,12-01-1995,Alm. Salg,46,7826,1,1907,
-787,Ejerlejlighed,"Østergade 22, st",7700, Thisted,360000 ,12-01-1995,Alm. Salg,86,4186,3,1907,
-787,Ejerlejlighed,"Østergade 24, 1. tv",7700, Thisted,360000 ,12-01-1995,Alm. Salg,25,14400,1,1907,
-787,Ejerlejlighed,"Østergade 24, st",7700, Thisted,360000 ,12-01-1995,Alm. Salg,40,9000,2,1907,
-787,Ejerlejlighed,"Østergade 26, 1. mf",7700, Thisted,360000 ,12-01-1995,Alm. Salg,25,14400,1,1907,
-787,Ejerlejlighed,"Østergade 26, 1. tv",7700, Thisted,360000 ,12-01-1995,Alm. Salg,30,12000,1,1907,
-787,Ejerlejlighed,"Østergade 26, 1. th",7700, Thisted,360000 ,12-01-1995,Alm. Salg,35,10286,1,1907,
 787,Ejerlejlighed,"Vegendalvej 12A, 3",7700, Thisted,295000 ,11-01-1995,Alm. Salg,66,4470,2,1947,
 787,Villa,Bavnbak 7,7700, Thisted,121000 ,11-01-1995,Alm. Salg,149,812,6,1999,
 787,Villa,Tømmerbyvej 131,7742, Vesløs,700000 ,11-01-1995,Alm. Salg,138,5072,5,1915,
@@ -21711,8 +21212,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Simons Bakke 80,7700, Thisted,395000 ,27-11-1994,Alm. Salg,222,1779,7,1933,
 787,Villa,Lunegårdsvej 37,7752, Snedsted,265000 ,27-11-1994,Alm. Salg,130,2038,4,1961,
 787,Villa,Midholmvej 21,7752, Snedsted,245000 ,27-11-1994,Alm. Salg,169,1450,5,1996,
-787,Rækkehus,Simons Bakke 110B,7700, Thisted,2630000 ,26-11-1994,Alm. Salg,93,28280,4,1963,
-787,Villa,Simons Bakke 110A,7700, Thisted,2630000 ,26-11-1994,Alm. Salg,103,25534,4,1964,
 787,Ejerlejlighed,"Borgergade 2, st. tv",7752, Snedsted,185000 ,24-11-1994,Alm. Salg,78,2372,3,1940,
 787,Villa,Ballerumvej 164,7700, Thisted,255000 ,24-11-1994,Alm. Salg,145,1759,6,1955,
 787,Villa,Porsevej 6,7700, Thisted,390000 ,23-11-1994,Alm. Salg,136,2868,5,1973,
@@ -22080,8 +21579,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Klokkedal 13,7760, Hurup Thy,15039 ,27-06-1994,Alm. Salg,56,269,2,1895,
 787,Villa,Falsbjergvej 1,7700, Thisted,635000 ,27-06-1994,Alm. Salg,105,6048,2,1897,
 787,Villa,Tangrimme 6,7700, Thisted,92000 ,27-06-1994,Alm. Salg,112,821,4,1927,
-787,Ejerlejlighed,"Plantagevej 10, 1",7700, Thisted,495000 ,26-06-1994,Alm. Salg,73,6781,3,1904,
-787,Ejerlejlighed,Åstrædet 3,7700, Thisted,495000 ,26-06-1994,Alm. Salg,32,15469,1,1904,
 787,Villa,Sandnæshagevej 24,7741, Frøstrup,1190000 ,26-06-1994,Alm. Salg,169,7041,5,1991,
 787,Villa,Bakkedraget 17,7700, Thisted,745000 ,24-06-1994,Alm. Salg,170,4382,6,1979,
 787,Villa,Grandalsvej 39,7700, Thisted,812500 ,24-06-1994,Alm. Salg,180,4514,5,1968,
@@ -22109,9 +21606,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Helligsøvej 32,7760, Hurup Thy,320000 ,15-06-1994,Alm. Salg,129,2481,3,1912,
 787,Villa,Fuglebakken 6,7760, Hurup Thy,424400 ,15-06-1994,Alm. Salg,124,3423,4,1965,
 787,Villa,Irisvej 10,7755, Bedsted Thy,240000 ,15-06-1994,Alm. Salg,173,1387,8,1967,
-787,Ejerlejlighed,Sennelsvej 69A,7700, Thisted,315000 ,14-06-1994,Alm. Salg,116,2716,3,1938,
 787,Villa,Vesterhavsgade 116,7700, Thisted,415000 ,14-06-1994,Alm. Salg,137,3029,4,1920,
-787,Villa,"Sennelsvej 69, 1",7700, Thisted,315000 ,14-06-1994,Alm. Salg,156,2019,6,1938,
 787,Villa,Horsfeldvej 14,7755, Bedsted Thy,420862 ,14-06-1994,Alm. Salg,230,1830,5,1920,
 787,Villa,Søbrinken 11,7700, Thisted,417770 ,14-06-1994,Fam. Salg,200,2089,6,1968,
 787,Villa,Gl. Aalborgvej 19,7741, Frøstrup,425000 ,13-06-1994,Alm. Salg,264,1610,9,1939,
@@ -22920,47 +22415,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Limfjordsvej 19,7700, Thisted,910000 ,13-07-1993,Alm. Salg,223,4081,7,1971,
 787,Villa,Rosenvænget 10,7755, Bedsted Thy,540000 ,12-07-1993,Alm. Salg,169,3195,5,1973,
 787,Villa,Klostermøllevej 5,7770, Vestervig,289060 ,12-07-1993,Alm. Salg,130,2224,4,1905,
-787,Ejerlejlighed,"Munkevej 7C, 1. th",7700, Thisted,4102000 ,11-07-1993,Alm. Salg,108,37981,3,1944,
-787,Ejerlejlighed,"Munkevej 7C, 3. th",7700, Thisted,4102000 ,11-07-1993,Alm. Salg,43,95395,1,1944,
-787,Ejerlejlighed,"Munkevej 7C, 3. tv",7700, Thisted,4102000 ,11-07-1993,Alm. Salg,136,30162,3,1944,
-787,Ejerlejlighed,"Munkevej 7C, 4. 1",7700, Thisted,4102000 ,11-07-1993,Alm. Salg,110,37291,3,1944,
-787,Ejerlejlighed,"Munkevej 7C, 4. 3",7700, Thisted,4102000 ,11-07-1993,Alm. Salg,115,35670,3,1944,
-787,Ejerlejlighed,"Munkevej 7C, 4. 2",7700, Thisted,4102000 ,11-07-1993,Alm. Salg,110,37291,3,1944,
-787,Ejerlejlighed,"Kastet 92, st",7700, Thisted,4102000 ,11-07-1993,Alm. Salg,72,56972,2,1941,
-787,Ejerlejlighed,"Kastet 96, st. 101",7700, Thisted,4102000 ,11-07-1993,Alm. Salg,49,83714,1,1943,
-787,Ejerlejlighed,"Kastet 96, st. 103",7700, Thisted,4102000 ,11-07-1993,Alm. Salg,44,93227,1,1943,
-787,Ejerlejlighed,"Kastet 96, st. 104",7700, Thisted,4102000 ,11-07-1993,Alm. Salg,58,70724,2,1943,
-787,Ejerlejlighed,"Kastet 96, st. 102",7700, Thisted,4102000 ,11-07-1993,Alm. Salg,44,93227,1,1943,
-787,Ejerlejlighed,"Kastet 92, 1",7700, Thisted,4102000 ,11-07-1993,Alm. Salg,117,35060,4,1941,
-787,Ejerlejlighed,"Kastet 96, st. 105",7700, Thisted,4102000 ,11-07-1993,Alm. Salg,63,65111,2,1943,
-787,Ejerlejlighed,"Kastet 96, 1. 108",7700, Thisted,4102000 ,11-07-1993,Alm. Salg,44,93227,1,1943,
-787,Ejerlejlighed,"Kastet 96, 1. 107",7700, Thisted,4102000 ,11-07-1993,Alm. Salg,44,93227,1,1943,
-787,Ejerlejlighed,"Kastet 96, 1. 106",7700, Thisted,4102000 ,11-07-1993,Alm. Salg,66,62152,2,1943,
-787,Ejerlejlighed,"Kastet 96, 1. 109",7700, Thisted,4102000 ,11-07-1993,Alm. Salg,58,70724,2,1943,
-787,Ejerlejlighed,"Kastet 96, 1. 110",7700, Thisted,4102000 ,11-07-1993,Alm. Salg,63,65111,2,1943,
-787,Ejerlejlighed,"Kastet 96, 2. 112",7700, Thisted,4102000 ,11-07-1993,Alm. Salg,44,93227,1,1943,
-787,Ejerlejlighed,"Kastet 96, 2. 111",7700, Thisted,4102000 ,11-07-1993,Alm. Salg,66,62152,2,1943,
-787,Ejerlejlighed,"Kastet 96, 2. 116",7700, Thisted,4102000 ,11-07-1993,Alm. Salg,53,77396,1,1943,
-787,Ejerlejlighed,"Kastet 96, 2. 113",7700, Thisted,4102000 ,11-07-1993,Alm. Salg,44,93227,1,1943,
-787,Ejerlejlighed,"Kastet 96, 2. 115",7700, Thisted,4102000 ,11-07-1993,Alm. Salg,58,70724,1,1943,
-787,Ejerlejlighed,"Kastet 96, 2. 114",7700, Thisted,4102000 ,11-07-1993,Alm. Salg,58,70724,2,1943,
-787,Ejerlejlighed,"Kastet 96, 2. 118",7700, Thisted,4102000 ,11-07-1993,Alm. Salg,67,61224,2,1943,
-787,Ejerlejlighed,"Kastet 96, 2. 117",7700, Thisted,4102000 ,11-07-1993,Alm. Salg,56,73250,1,1943,
-787,Ejerlejlighed,"Kastet 98, 1",7700, Thisted,4102000 ,11-07-1993,Alm. Salg,132,31076,3,1957,
-787,Ejerlejlighed,"Kastet 98, 2",7700, Thisted,4102000 ,11-07-1993,Alm. Salg,132,31076,4,1957,
-787,Ejerlejlighed,"Kastet 102, st. 3",7700, Thisted,4102000 ,11-07-1993,Alm. Salg,83,49422,2,1957,
-787,Ejerlejlighed,"Kastet 100, st. 1",7700, Thisted,4102000 ,11-07-1993,Alm. Salg,85,48259,2,1957,
-787,Ejerlejlighed,"Kastet 102, st. 2",7700, Thisted,4102000 ,11-07-1993,Alm. Salg,83,49422,2,1957,
-787,Ejerlejlighed,"Munkevej 7C, 2",7700, Thisted,4102000 ,11-07-1993,Alm. Salg,85,48259,2,1944,
-787,Ejerlejlighed,"Kastet 100, st. 3",7700, Thisted,4102000 ,11-07-1993,Alm. Salg,83,49422,2,1957,
-787,Ejerlejlighed,"Kastet 100, st. 2",7700, Thisted,4102000 ,11-07-1993,Alm. Salg,83,49422,2,1957,
-787,Ejerlejlighed,"Munkevej 7C, 3. mf",7700, Thisted,4102000 ,11-07-1993,Alm. Salg,158,25962,3,1944,
-787,Ejerlejlighed,"Kastet 100, st. 5",7700, Thisted,4102000 ,11-07-1993,Alm. Salg,83,49422,2,1957,
-787,Ejerlejlighed,"Kastet 102, st. 5",7700, Thisted,4102000 ,11-07-1993,Alm. Salg,85,48259,2,1957,
-787,Ejerlejlighed,"Munkevej 7A, 3",7700, Thisted,4102000 ,11-07-1993,Alm. Salg,128,32047,3,1944,
-787,Ejerlejlighed,"Kastet 100, st. 4",7700, Thisted,4102000 ,11-07-1993,Alm. Salg,83,49422,2,1957,
-787,Ejerlejlighed,"Kastet 102, st. 4",7700, Thisted,4102000 ,11-07-1993,Alm. Salg,83,49422,2,1957,
-787,Ejerlejlighed,"Kastet 102, st. 1",7700, Thisted,4102000 ,11-07-1993,Alm. Salg,122,33623,4,1957,
 787,Villa,Thorstedvej 138,7700, Thisted,653150 ,11-07-1993,Alm. Salg,224,2916,5,1909,
 787,Villa,Vesterhavsgade 108,7700, Thisted,316400 ,11-07-1993,Alm. Salg,160,1978,4,1930,
 787,Villa,Dragsbækvej 31,7700, Thisted,943890 ,08-07-1993,Alm. Salg,270,3496,10,1910,
@@ -23127,28 +22581,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Birkebakken 14,7730, Hanstholm,480000 ,04-05-1993,Fam. Salg,191,2513,6,1969,
 787,Villa,Arupvej 48,7742, Vesløs,190000 ,04-05-1993,Alm. Salg,114,1667,3,1922,
 787,Villa,Skovvej 8,7741, Frøstrup,200000 ,04-05-1993,Andet,110,1818,4,1938,
-787,Ejerlejlighed,"Vestergade 21B, 1",7700, Thisted,1600000 ,03-05-1993,Auktion,79,20253,3,1920,
-787,Ejerlejlighed,"Vestergade 21B, 3",7700, Thisted,1600000 ,03-05-1993,Auktion,52,30769,3,1920,
-787,Ejerlejlighed,"Vestergade 21B, 2",7700, Thisted,1600000 ,03-05-1993,Auktion,75,21333,3,1920,
-787,Ejerlejlighed,"Kronborgvej 2, kl",7700, Thisted,1075000 ,03-05-1993,Auktion,32,33594,1,1920,
-787,Ejerlejlighed,"Kronborgvej 2, st. th",7700, Thisted,1075000 ,03-05-1993,Auktion,58,18534,2,1920,
-787,Ejerlejlighed,"Kronborgvej 2, st. tv",7700, Thisted,1075000 ,03-05-1993,Auktion,57,18860,2,1920,
-787,Ejerlejlighed,"Kronborgvej 2, 1. tv",7700, Thisted,1075000 ,03-05-1993,Auktion,57,18860,2,1920,
-787,Ejerlejlighed,"Kronborgvej 2, 1. th",7700, Thisted,1075000 ,03-05-1993,Auktion,58,18534,2,1920,
-787,Ejerlejlighed,"Frederiksgade 2A, 1. th",7700, Thisted,1600000 ,03-05-1993,Auktion,105,15238,4,1920,
-787,Ejerlejlighed,"Kronborgvej 2, 2. th",7700, Thisted,1075000 ,03-05-1993,Auktion,58,18534,2,1920,
-787,Ejerlejlighed,"Østerbakken 21, st. tv",7700, Thisted,1075000 ,03-05-1993,Auktion,89,12079,3,1920,
-787,Ejerlejlighed,"Østerbakken 21, 1. tv",7700, Thisted,1075000 ,03-05-1993,Auktion,89,12079,3,1920,
-787,Ejerlejlighed,"Østerbakken 21, 2. th",7700, Thisted,1075000 ,03-05-1993,Auktion,56,19196,2,1920,
-787,Ejerlejlighed,"Østerbakken 21, st. th",7700, Thisted,1075000 ,03-05-1993,Auktion,59,18220,2,1920,
-787,Ejerlejlighed,"Østerbakken 21, 1. th",7700, Thisted,1075000 ,03-05-1993,Auktion,59,18220,2,1920,
-787,Ejerlejlighed,"Østerbakken 21, 2. tv",7700, Thisted,1075000 ,03-05-1993,Auktion,86,12500,3,1920,
-787,Ejerlejlighed,"Frederiksgade 2A, 2. tv",7700, Thisted,1600000 ,03-05-1993,Auktion,86,18605,3,1920,
-787,Ejerlejlighed,"Frederiksgade 2A, 3. th",7700, Thisted,1600000 ,03-05-1993,Auktion,57,28070,2,1920,
-787,Ejerlejlighed,"Frederiksgade 2A, 3. tv",7700, Thisted,1600000 ,03-05-1993,Auktion,62,25806,3,1920,
-787,Ejerlejlighed,"Kronborgvej 2, 2. tv",7700, Thisted,1075000 ,03-05-1993,Auktion,55,19545,1,1920,
-787,Ejerlejlighed,"Frederiksgade 2A, 1. tv",7700, Thisted,1600000 ,03-05-1993,Auktion,89,17978,3,1920,
-787,Ejerlejlighed,"Frederiksgade 2A, 2. th",7700, Thisted,1600000 ,03-05-1993,Auktion,102,15686,4,1920,
 787,Villa,Solbakkevej 6,7700, Thisted,580000 ,30-04-1993,Alm. Salg,145,4000,5,1951,
 787,Villa,Lavlundsvej 2,7752, Snedsted,977500 ,29-04-1993,Fam. Salg,176,5554,9,1934,
 787,Villa,Chr. Hansens Vej 4,7730, Hanstholm,14857348 ,29-04-1993,Andet,326,45575,13,1964,
@@ -23219,47 +22651,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Sennels Hede 11,7700, Thisted,250000 ,30-03-1993,Alm. Salg,217,1152,6,1934,
 787,Villa,Aabergsvej 12,7700, Thisted,32135399 ,28-03-1993,Andet,77,417343,3,1957,
 787,Villa,Hørstedvej 24,7752, Snedsted,100000 ,26-03-1993,Alm. Salg,136,735,4,1942,
-787,Ejerlejlighed,"Munkevej 7C, 1. th",7700, Thisted,6466754 ,25-03-1993,Alm. Salg,108,59877,3,1944,
-787,Ejerlejlighed,"Munkevej 7C, 3. th",7700, Thisted,6466754 ,25-03-1993,Alm. Salg,43,150390,1,1944,
-787,Ejerlejlighed,"Munkevej 7C, 3. tv",7700, Thisted,6466754 ,25-03-1993,Alm. Salg,136,47550,3,1944,
-787,Ejerlejlighed,"Munkevej 7C, 4. 1",7700, Thisted,6466754 ,25-03-1993,Alm. Salg,110,58789,3,1944,
-787,Ejerlejlighed,"Munkevej 7C, 4. 3",7700, Thisted,6466754 ,25-03-1993,Alm. Salg,115,56233,3,1944,
-787,Ejerlejlighed,"Munkevej 7C, 4. 2",7700, Thisted,6466754 ,25-03-1993,Alm. Salg,110,58789,3,1944,
-787,Ejerlejlighed,"Kastet 92, st",7700, Thisted,6466754 ,25-03-1993,Alm. Salg,72,89816,2,1941,
-787,Ejerlejlighed,"Kastet 96, st. 101",7700, Thisted,6466754 ,25-03-1993,Alm. Salg,49,131975,1,1943,
-787,Ejerlejlighed,"Kastet 96, st. 103",7700, Thisted,6466754 ,25-03-1993,Alm. Salg,44,146972,1,1943,
-787,Ejerlejlighed,"Kastet 96, st. 104",7700, Thisted,6466754 ,25-03-1993,Alm. Salg,58,111496,2,1943,
-787,Ejerlejlighed,"Kastet 96, st. 102",7700, Thisted,6466754 ,25-03-1993,Alm. Salg,44,146972,1,1943,
-787,Ejerlejlighed,"Kastet 92, 1",7700, Thisted,6466754 ,25-03-1993,Alm. Salg,117,55271,4,1941,
-787,Ejerlejlighed,"Kastet 96, st. 105",7700, Thisted,6466754 ,25-03-1993,Alm. Salg,63,102647,2,1943,
-787,Ejerlejlighed,"Kastet 96, 1. 108",7700, Thisted,6466754 ,25-03-1993,Alm. Salg,44,146972,1,1943,
-787,Ejerlejlighed,"Kastet 96, 1. 107",7700, Thisted,6466754 ,25-03-1993,Alm. Salg,44,146972,1,1943,
-787,Ejerlejlighed,"Kastet 96, 1. 106",7700, Thisted,6466754 ,25-03-1993,Alm. Salg,66,97981,2,1943,
-787,Ejerlejlighed,"Kastet 96, 1. 109",7700, Thisted,6466754 ,25-03-1993,Alm. Salg,58,111496,2,1943,
-787,Ejerlejlighed,"Kastet 96, 1. 110",7700, Thisted,6466754 ,25-03-1993,Alm. Salg,63,102647,2,1943,
-787,Ejerlejlighed,"Kastet 96, 2. 112",7700, Thisted,6466754 ,25-03-1993,Alm. Salg,44,146972,1,1943,
-787,Ejerlejlighed,"Kastet 96, 2. 111",7700, Thisted,6466754 ,25-03-1993,Alm. Salg,66,97981,2,1943,
-787,Ejerlejlighed,"Kastet 96, 2. 116",7700, Thisted,6466754 ,25-03-1993,Alm. Salg,53,122014,1,1943,
-787,Ejerlejlighed,"Kastet 96, 2. 113",7700, Thisted,6466754 ,25-03-1993,Alm. Salg,44,146972,1,1943,
-787,Ejerlejlighed,"Kastet 96, 2. 115",7700, Thisted,6466754 ,25-03-1993,Alm. Salg,58,111496,1,1943,
-787,Ejerlejlighed,"Kastet 96, 2. 114",7700, Thisted,6466754 ,25-03-1993,Alm. Salg,58,111496,2,1943,
-787,Ejerlejlighed,"Kastet 96, 2. 118",7700, Thisted,6466754 ,25-03-1993,Alm. Salg,67,96519,2,1943,
-787,Ejerlejlighed,"Kastet 96, 2. 117",7700, Thisted,6466754 ,25-03-1993,Alm. Salg,56,115478,1,1943,
-787,Ejerlejlighed,"Kastet 98, 1",7700, Thisted,6466754 ,25-03-1993,Alm. Salg,132,48991,3,1957,
-787,Ejerlejlighed,"Kastet 98, 2",7700, Thisted,6466754 ,25-03-1993,Alm. Salg,132,48991,4,1957,
-787,Ejerlejlighed,"Kastet 102, st. 3",7700, Thisted,6466754 ,25-03-1993,Alm. Salg,83,77913,2,1957,
-787,Ejerlejlighed,"Kastet 100, st. 1",7700, Thisted,6466754 ,25-03-1993,Alm. Salg,85,76079,2,1957,
-787,Ejerlejlighed,"Kastet 102, st. 2",7700, Thisted,6466754 ,25-03-1993,Alm. Salg,83,77913,2,1957,
-787,Ejerlejlighed,"Munkevej 7C, 2",7700, Thisted,6466754 ,25-03-1993,Alm. Salg,85,76079,2,1944,
-787,Ejerlejlighed,"Kastet 100, st. 3",7700, Thisted,6466754 ,25-03-1993,Alm. Salg,83,77913,2,1957,
-787,Ejerlejlighed,"Kastet 100, st. 2",7700, Thisted,6466754 ,25-03-1993,Alm. Salg,83,77913,2,1957,
-787,Ejerlejlighed,"Munkevej 7C, 3. mf",7700, Thisted,6466754 ,25-03-1993,Alm. Salg,158,40929,3,1944,
-787,Ejerlejlighed,"Kastet 100, st. 5",7700, Thisted,6466754 ,25-03-1993,Alm. Salg,83,77913,2,1957,
-787,Ejerlejlighed,"Kastet 102, st. 5",7700, Thisted,6466754 ,25-03-1993,Alm. Salg,85,76079,2,1957,
-787,Ejerlejlighed,"Munkevej 7A, 3",7700, Thisted,6466754 ,25-03-1993,Alm. Salg,128,50522,3,1944,
-787,Ejerlejlighed,"Kastet 100, st. 4",7700, Thisted,6466754 ,25-03-1993,Alm. Salg,83,77913,2,1957,
-787,Ejerlejlighed,"Kastet 102, st. 4",7700, Thisted,6466754 ,25-03-1993,Alm. Salg,83,77913,2,1957,
-787,Ejerlejlighed,"Kastet 102, st. 1",7700, Thisted,6466754 ,25-03-1993,Alm. Salg,122,53006,4,1957,
 787,Villa,Ashøjvej 14,7760, Hurup Thy,465000 ,25-03-1993,Alm. Salg,195,2385,6,1900,
 787,Villa,Fjordlystvej 31,7700, Thisted,495000 ,25-03-1993,Fam. Salg,133,3722,5,1961,
 787,Villa,Svinget 2,7700, Thisted,330617 ,25-03-1993,Alm. Salg,84,3936,3,1927,
@@ -23443,13 +22834,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Bygholmvej 69,7742, Vesløs,42000000 ,22-12-1992,Alm. Salg,117,358974,4,1870,
 787,Villa,Amtoftvej 34,7742, Vesløs,187875 ,22-12-1992,Alm. Salg,160,1174,3,1898,
 787,Villa,Vorringvej 7,7700, Thisted,3225000 ,22-12-1992,Fam. Salg,180,17917,5,1880,
-787,Ejerlejlighed,Korsgade 14,7700, Thisted,565779 ,21-12-1992,Alm. Salg,46,12300,1,1907,
-787,Ejerlejlighed,"Østergade 22, st",7700, Thisted,565779 ,21-12-1992,Alm. Salg,86,6579,3,1907,
-787,Ejerlejlighed,"Østergade 24, 1. tv",7700, Thisted,565779 ,21-12-1992,Alm. Salg,25,22631,1,1907,
-787,Ejerlejlighed,"Østergade 24, st",7700, Thisted,565779 ,21-12-1992,Alm. Salg,40,14144,2,1907,
-787,Ejerlejlighed,"Østergade 26, 1. mf",7700, Thisted,565779 ,21-12-1992,Alm. Salg,25,22631,1,1907,
-787,Ejerlejlighed,"Østergade 26, 1. tv",7700, Thisted,565779 ,21-12-1992,Alm. Salg,30,18859,1,1907,
-787,Ejerlejlighed,"Østergade 26, 1. th",7700, Thisted,565779 ,21-12-1992,Alm. Salg,35,16165,1,1907,
 787,Villa,Højstrupvej 20,7741, Frøstrup,310000 ,21-12-1992,Alm. Salg,166,1867,7,1917,
 787,Villa,Rosenvænget 22,7752, Snedsted,441250 ,21-12-1992,Alm. Salg,125,3530,4,1974,
 787,Villa,Grandalsvej 33,7700, Thisted,475000 ,21-12-1992,Alm. Salg,133,3571,5,1968,
@@ -23495,7 +22879,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Højmarken 8,7700, Thisted,350000 ,26-11-1992,Alm. Salg,185,1892,7,1969,
 787,Rækkehus,Gartnervænget 7B,7755, Bedsted Thy,300000 ,25-11-1992,Alm. Salg,85,3529,3,1990,
 787,Villa,Trapsandevej 7,7700, Thisted,183954 ,25-11-1992,Fam. Salg,150,1226,4,1937,
-787,Villa,Hundborgvej 14A,7700, Thisted,287900 ,25-11-1992,Alm. Salg,48,5998,1,1870,
 787,Villa,Sct. Thøgersvej 9,7770, Vestervig,125000 ,25-11-1992,Alm. Salg,110,1136,4,1965,
 787,Ejerlejlighed,"Skolegade 11, st. tv",7700, Thisted,195000 ,24-11-1992,Alm. Salg,75,2600,3,1902,
 787,Villa,Karensvej 29,7700, Thisted,170000 ,24-11-1992,Fam. Salg,115,1478,5,1934,
@@ -23529,8 +22912,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Vesterhavsvej 44,7770, Vestervig,218000 ,11-11-1992,Alm. Salg,128,1703,5,1877,
 787,Villa,Tværvej 6,7700, Thisted,290000 ,09-11-1992,Alm. Salg,172,1686,5,2007,
 787,Villa,Fårtoftvej 71,7700, Thisted,520000 ,09-11-1992,Alm. Salg,110,4727,4,1964,
-787,Rækkehus,Kobbelsti 5K,7700, Thisted,216000 ,08-11-1992,Alm. Salg,85,2541,3,1986,
-787,Villa,Mellemvej 5,7700, Thisted,216000 ,08-11-1992,Auktion,188,1149,6,1927,
 787,Villa,Ydbyvej 116,7760, Hurup Thy,75000 ,07-11-1992,Alm. Salg,124,605,2,1937,
 787,Villa,Vestervigvej 21,7755, Bedsted Thy,334852 ,07-11-1992,Alm. Salg,100,3349,4,1920,
 787,Rækkehus,Kobbelsti 5K,7700, Thisted,216000 ,06-11-1992,Alm. Salg,85,2541,3,1986,
@@ -23546,9 +22927,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Kronborgvej 37,7700, Thisted,285000 ,04-11-1992,Alm. Salg,95,3000,4,1947,
 787,Villa,Søndergade 21,7760, Hurup Thy,185000 ,04-11-1992,Alm. Salg,129,1434,5,1905,
 787,Ejerlejlighed,"Rosenkrantzgade 14, st. 4",7700, Thisted,314500 ,03-11-1992,Alm. Salg,117,2688,3,1910,
-787,Ejerlejlighed,"Sennelsvej 66, 1",7700, Thisted,240000 ,03-11-1992,Alm. Salg,84,2857,2,1950,
 787,Villa,Grønbjerg 8,7700, Thisted,258293 ,03-11-1992,Andet,169,1528,5,1900,
-787,Villa,Sennelsvej 68,7700, Thisted,240000 ,03-11-1992,Alm. Salg,100,2400,3,1951,
 787,Villa,Vestervigvej 21,7755, Bedsted Thy,620000 ,03-11-1992,Alm. Salg,100,6200,4,1920,
 787,Villa,Legindvej 6,7752, Snedsted,40000 ,03-11-1992,Alm. Salg,276,145,8,1915,
 787,Villa,Højstrupvej 98,7742, Vesløs,290000 ,03-11-1992,Alm. Salg,219,1324,6,1921,
@@ -23899,8 +23278,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Stadionvej 8,7700, Thisted,340000 ,22-05-1992,Alm. Salg,182,1868,7,1938,
 787,Ejerlejlighed,"Klostergade 68, 1",7770, Vestervig,200000 ,21-05-1992,Alm. Salg,160,1250,5,1908,
 787,Villa,Vestergade 60,7770, Vestervig,245000 ,21-05-1992,Alm. Salg,193,1269,5,1910,
-787,Rækkehus,Birkevænget 70,7730, Hanstholm,295000 ,20-05-1992,Alm. Salg,100,2950,4,1972,
-787,Villa,Bådsgårdsvej 27,7730, Hanstholm,295000 ,20-05-1992,Alm. Salg,125,2360,3,1936,
 787,Villa,Bygmarken 42,7730, Hanstholm,445000 ,20-05-1992,Alm. Salg,183,2432,6,1974,
 787,Villa,Kirkevej 26,7760, Hurup Thy,300000 ,19-05-1992,Alm. Salg,260,1154,6,1952,
 787,Villa,Islandsvej 2,7700, Thisted,661000 ,19-05-1992,Alm. Salg,174,3799,7,1964,
@@ -23911,18 +23288,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 787,Villa,Simons Bakke 114,7700, Thisted,728000 ,18-05-1992,Alm. Salg,160,4550,5,1958,
 787,Villa,Nordsøvej 31,7700, Thisted,525000 ,17-05-1992,Fam. Salg,228,2303,6,1964,
 787,Villa,Nyhåbsvej 31,7752, Snedsted,180000 ,17-05-1992,Alm. Salg,128,1406,5,1964,
-787,Ejerlejlighed,"Kirkevej 12, st. th",7760, Hurup Thy,830300 ,15-05-1992,Alm. Salg,65,12774,2,1943,
-787,Ejerlejlighed,"Kirkevej 12, st. tv",7760, Hurup Thy,830300 ,15-05-1992,Alm. Salg,65,12774,2,1943,
-787,Ejerlejlighed,"Kirkevej 12, 1. th",7760, Hurup Thy,830300 ,15-05-1992,Alm. Salg,65,12774,2,1943,
-787,Ejerlejlighed,"Kirkevej 12, 1. tv",7760, Hurup Thy,830300 ,15-05-1992,Alm. Salg,65,12774,2,1943,
-787,Ejerlejlighed,"Kirkevej 12, 2. th",7760, Hurup Thy,830300 ,15-05-1992,Alm. Salg,40,20758,2,1943,
-787,Ejerlejlighed,"Kirkevej 12, 2. tv",7760, Hurup Thy,830300 ,15-05-1992,Alm. Salg,50,16606,2,1943,
-787,Ejerlejlighed,"Nørre Alle 2A, st",7760, Hurup Thy,830300 ,15-05-1992,Alm. Salg,80,10379,4,1943,
-787,Ejerlejlighed,"Nørre Alle 2A, 1. tv",7760, Hurup Thy,830300 ,15-05-1992,Alm. Salg,44,18870,1,1943,
-787,Ejerlejlighed,"Nørre Alle 2A, 2",7760, Hurup Thy,830300 ,15-05-1992,Alm. Salg,70,11861,2,1943,
-787,Ejerlejlighed,"Nørre Alle 2A, 1. th",7760, Hurup Thy,830300 ,15-05-1992,Alm. Salg,78,10645,2,1943,
-787,Ejerlejlighed,"Nørre Alle 2B, 1",7760, Hurup Thy,830300 ,15-05-1992,Alm. Salg,46,18050,2,1943,
-787,Ejerlejlighed,"Kirkevej 12, kl",7760, Hurup Thy,830300 ,15-05-1992,Alm. Salg,43,19309,2,1943,
 787,Villa,Troldborgvej 10,7700, Thisted,190000 ,14-05-1992,Alm. Salg,240,792,7,1900,
 787,Villa,Kastet 13E,7700, Thisted,475000 ,13-05-1992,Alm. Salg,146,3253,6,1977,
 787,Villa,Astersvænget 24,7730, Hanstholm,340000 ,13-05-1992,Alm. Salg,124,2742,4,1962,

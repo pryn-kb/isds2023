@@ -489,7 +489,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Rækkehus,Møllevænget 29,8881, Thorsø,1250000 ,30-03-2022,Alm. Salg,140,8929,5,1979,5%
 710,Villa,Teglhøjen 32,8382, Hinnerup,3495000 ,30-03-2022,Alm. Salg,134,26082,6,1999,
 710,Villa,Fasanvej 2,8382, Hinnerup,2000000 ,30-03-2022,Alm. Salg,100,20000,2,1990,
-710,Villa,Østergade 75,8370, Hadsten,10000000 ,29-03-2022,Alm. Salg,124,80645,5,1952,
 710,Villa,Æbleparken 60,8370, Hadsten,1625000 ,29-03-2022,Alm. Salg,108,15046,4,1963,-4%
 710,Villa,Urvej 7,8450, Hammel,950000 ,29-03-2022,Andet,110,8636,3,1955,
 710,Villa,Elhøjvej 14,8471, Sabro,4700000 ,29-03-2022,Alm. Salg,339,13864,10,1900,-6%
@@ -1070,14 +1069,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Rækkehus,Rørsangervej 58,8382, Hinnerup,1900000 ,03-08-2021,Alm. Salg,95,20000,5,1989,
 710,Villa,Borgergade 38,8450, Hammel,470000 ,03-08-2021,Alm. Salg,130,3615,4,1840,
 710,Villa,Harevænget 33,8450, Hammel,2900000 ,02-08-2021,Alm. Salg,128,20567,6,2006,-3%
-710,Ejerlejlighed,"Jernbanegade 2, st. tv",8881, Thorsø,3300000 ,01-08-2021,Alm. Salg,58,56897,2,1909,
-710,Ejerlejlighed,"Jernbanegade 2, 1. th",8881, Thorsø,3300000 ,01-08-2021,Alm. Salg,91,36264,3,1909,
-710,Ejerlejlighed,"Jernbanegade 2, st. th",8881, Thorsø,3300000 ,01-08-2021,Alm. Salg,91,36264,2,1909,
-710,Ejerlejlighed,"Jernbanegade 2, 1. tv",8881, Thorsø,3300000 ,01-08-2021,Alm. Salg,82,40244,3,1909,
-710,Ejerlejlighed,"Borggade 1, st",8881, Thorsø,3300000 ,01-08-2021,Alm. Salg,55,60000,2,1909,
-710,Ejerlejlighed,"Borggade 1, 1",8881, Thorsø,3300000 ,01-08-2021,Alm. Salg,55,60000,2,1909,
-710,Ejerlejlighed,"Borggade 1, 2. th",8881, Thorsø,3300000 ,01-08-2021,Alm. Salg,56,58929,2,1909,
-710,Ejerlejlighed,"Borggade 1, 2. tv",8881, Thorsø,3300000 ,01-08-2021,Alm. Salg,86,38372,3,1909,
 710,Villa,Smedebakken 15,8370, Hadsten,2950000 ,01-08-2021,Alm. Salg,172,17151,4,2006,
 710,Villa,Vinkelvej 6,8860, Ulstrup,210000 ,01-08-2021,Alm. Salg,94,2234,3,1864,-29%
 710,Villa,Ahornvej 6,8870, Langå,595000 ,01-08-2021,Alm. Salg,98,6071,3,1957,
@@ -1763,9 +1754,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Villa,Hørbakken 1,8382, Hinnerup,5225000 ,15-12-2020,Alm. Salg,185,28243,5,2021,-1%
 710,Villa,Hvedebakken 8,8450, Hammel,850000 ,14-12-2020,Alm. Salg,146,5822,5,2021,
 710,Rækkehus,Rørsangervej 76,8382, Hinnerup,2698000 ,13-12-2020,Alm. Salg,95,28400,5,1990,
-710,Ejerlejlighed,"Sallvej 5, st",8450, Hammel,2298000 ,13-12-2020,Alm. Salg,83,27687,2,1890,
-710,Ejerlejlighed,"Sallvej 5, 1",8450, Hammel,2298000 ,13-12-2020,Alm. Salg,65,35354,3,1890,
-710,Ejerlejlighed,Toftevej 2,8450, Hammel,2298000 ,13-12-2020,Alm. Salg,97,23691,3,1890,
 710,Villa,Kirkeskovvej 2A,8450, Hammel,1295000 ,13-12-2020,Alm. Salg,130,9962,4,1947,
 710,Villa,Skyttevej 3,8450, Hammel,3470000 ,13-12-2020,Alm. Salg,178,19494,5,2016,-1%
 710,Villa,Haldumlund 4,8382, Hinnerup,910000 ,12-12-2020,Alm. Salg,165,5515,5,2021,-2%
@@ -2704,8 +2692,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Ejerlejlighed,"Irisvej 6, 1",8370, Hadsten,900000 ,04-01-2020,Alm. Salg,60,15000,3,1983,
 710,Villa,Merkurvej 5,8382, Hinnerup,2400000 ,02-01-2020,Alm. Salg,128,18750,5,1967,-4%
 710,Villa,Præstegårdsvej 6,8382, Hinnerup,1550000 ,02-01-2020,Alm. Salg,193,8031,4,2020,
-710,Ejerlejlighed,"Viborgvej 214, 1",8450, Hammel,475000 ,30-12-2019,Fam. Salg,42,11310,1,1935,
-710,Villa,Viborgvej 214,8450, Hammel,475000 ,30-12-2019,Fam. Salg,72,6597,5,1935,
 710,Villa,Svinget 7,8450, Hammel,250000 ,30-12-2019,Fam. Salg,87,2874,3,1963,
 710,Villa,Sallvej 118,8450, Hammel,1700000 ,29-12-2019,Alm. Salg,135,12593,5,1999,0%
 710,Villa,Haldumgårdsvej 24,8382, Hinnerup,1476550 ,29-12-2019,Alm. Salg,209,7065,5,2020,
@@ -3503,21 +3489,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Villa,Amstrup Bakker 7,8860, Ulstrup,377000 ,09-01-2019,Alm. Salg,151,2497,5,2019,-15%
 710,Villa,Tinghøjvej 10,8370, Hadsten,2495000 ,08-01-2019,Alm. Salg,165,15121,7,1997,
 710,Villa,Lyngtoften 2B,8870, Langå,1232500 ,08-01-2019,Fam. Salg,127,9705,4,1991,
-710,Ejerlejlighed,"Østergade 27, 1. tv",8450, Hammel,9350000 ,07-01-2019,Fam. Salg,100,93500,2,1910,
-710,Ejerlejlighed,"Østergade 27, 1. th",8450, Hammel,9350000 ,07-01-2019,Fam. Salg,120,77917,4,1910,
-710,Ejerlejlighed,"Østergade 27, 2. th",8450, Hammel,9350000 ,07-01-2019,Fam. Salg,94,99468,3,1910,
-710,Ejerlejlighed,"Østergade 27, 2. tv",8450, Hammel,9350000 ,07-01-2019,Fam. Salg,91,102747,3,1910,
-710,Ejerlejlighed,"Nørrevangsvej 2A, st. tv",8450, Hammel,9350000 ,07-01-2019,Fam. Salg,46,203261,2,1910,
-710,Ejerlejlighed,"Nørrevangsvej 2A, st. th",8450, Hammel,9350000 ,07-01-2019,Fam. Salg,46,203261,2,1910,
-710,Ejerlejlighed,"Nørrevangsvej 2C, 1",8450, Hammel,9350000 ,07-01-2019,Fam. Salg,80,116875,3,1910,
-710,Ejerlejlighed,Nørrevangsvej 2B,8450, Hammel,9350000 ,07-01-2019,Fam. Salg,61,153279,2,1910,
-710,Ejerlejlighed,"Nørrevangsvej 2A, 2. tv",8450, Hammel,9350000 ,07-01-2019,Fam. Salg,38,246053,2,1910,
-710,Ejerlejlighed,"Nørrevangsvej 2C, 2",8450, Hammel,9350000 ,07-01-2019,Fam. Salg,55,170000,2,1910,
-710,Ejerlejlighed,"Nørrevangsvej 2A, 2. th",8450, Hammel,9350000 ,07-01-2019,Fam. Salg,44,212500,2,1910,
-710,Ejerlejlighed,"Nørrevangsvej 2A, 1. th",8450, Hammel,9350000 ,07-01-2019,Fam. Salg,46,203261,2,1910,
-710,Ejerlejlighed,"Nørrevangsvej 2A, 1. tv",8450, Hammel,9350000 ,07-01-2019,Fam. Salg,46,203261,2,1910,
-710,Ejerlejlighed,"Nørrevangsvej 2D, 1. tv",8450, Hammel,9350000 ,07-01-2019,Fam. Salg,77,121429,3,1910,
-710,Ejerlejlighed,"Nørrevangsvej 2D, 1. th",8450, Hammel,9350000 ,07-01-2019,Fam. Salg,71,131690,3,1910,
 710,Villa,Vibevej 6,8370, Hadsten,2750000 ,04-01-2019,Alm. Salg,162,16975,4,1933,-2%
 710,Villa,Rødkælkevej 18,8370, Hadsten,2570000 ,03-01-2019,Alm. Salg,176,14602,6,2005,-1%
 710,Villa,Præstegårdsvej 33,8382, Hinnerup,1750000 ,03-01-2019,Alm. Salg,231,7576,6,2020,
@@ -3958,13 +3929,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Villa,Møllevænget 16,8370, Hadsten,1250000 ,11-06-2018,Alm. Salg,174,7184,5,1973,-7%
 710,Villa,Gl Hammelvej 59,8450, Hammel,3000000 ,11-06-2018,Alm. Salg,191,15707,4,2009,-5%
 710,Villa,Hjortebakken 32,8450, Hammel,400000 ,10-06-2018,Alm. Salg,195,2051,6,2019,
-710,Ejerlejlighed,"Tilemannsvej 21, 1",8450, Hammel,1900000 ,07-06-2018,Alm. Salg,80,23750,3,1934,
-710,Ejerlejlighed,"Tilemannsvej 21, kl",8450, Hammel,1900000 ,07-06-2018,Alm. Salg,65,29231,2,1934,
-710,Ejerlejlighed,Nørregade 15A,8450, Hammel,1900000 ,07-06-2018,Alm. Salg,34,55882,1,1900,
-710,Ejerlejlighed,"Nørregade 15, st. th",8450, Hammel,1900000 ,07-06-2018,Alm. Salg,67,28358,2,1900,
-710,Ejerlejlighed,"Nørregade 15, st. tv",8450, Hammel,1900000 ,07-06-2018,Alm. Salg,68,27941,3,1900,
-710,Ejerlejlighed,"Nørregade 15, 1",8450, Hammel,1900000 ,07-06-2018,Alm. Salg,69,27536,2,1900,
-710,Ejerlejlighed,"Tilemannsvej 21, st",8450, Hammel,1900000 ,07-06-2018,Alm. Salg,110,17273,4,1934,
 710,Villa,Neder Hadstenvej 23,8370, Hadsten,1770000 ,07-06-2018,Alm. Salg,204,8676,10,1965,-1%
 710,Villa,Skolestien 6,8382, Hinnerup,1350000 ,07-06-2018,Alm. Salg,120,11250,4,1936,
 710,Villa,St.St.Blichers Vej 15,8370, Hadsten,1395000 ,07-06-2018,Alm. Salg,135,10333,5,1974,
@@ -4374,13 +4338,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Villa,Tjørnager 2,8370, Hadsten,925000 ,17-12-2017,Alm. Salg,166,5572,5,2018,
 710,Villa,P.Ladefogedsvej 2,8370, Hadsten,552500 ,16-12-2017,Fam. Salg,157,3519,6,1985,
 710,Villa,Bellisvej 6,8870, Langå,658500 ,15-12-2017,Fam. Salg,214,3077,6,1957,
-710,Ejerlejlighed,"Vestergade 1, 1",8370, Hadsten,30600000 ,14-12-2017,Alm. Salg,109,280734,4,1969,
-710,Ejerlejlighed,"Vestergade 1, st",8370, Hadsten,30600000 ,14-12-2017,Alm. Salg,73,419178,3,1969,
-710,Ejerlejlighed,"Søndergade 2, 1. th",8370, Hadsten,30600000 ,14-12-2017,Alm. Salg,96,318750,2,1969,
-710,Ejerlejlighed,"Søndergade 2, 1. mf",8370, Hadsten,30600000 ,14-12-2017,Alm. Salg,92,332609,2,1969,
-710,Ejerlejlighed,"Søndergade 2, 2. tv",8370, Hadsten,30600000 ,14-12-2017,Alm. Salg,76,402632,2,1969,
-710,Ejerlejlighed,"Søndergade 2, 2. th",8370, Hadsten,30600000 ,14-12-2017,Alm. Salg,130,235385,3,1969,
-710,Ejerlejlighed,"Søndergade 2, 1. tv",8370, Hadsten,30600000 ,14-12-2017,Alm. Salg,68,450000,2,1969,
 710,Villa,Skovbrynet 15,8450, Hammel,3295000 ,14-12-2017,Alm. Salg,173,19046,6,1998,
 710,Villa,Korslystvej 7,8382, Hinnerup,760000 ,14-12-2017,Alm. Salg,135,5630,5,2018,
 710,Villa,Humlehaven 100,8382, Hinnerup,5300000 ,14-12-2017,Alm. Salg,220,24091,6,2014,-4%
@@ -4571,8 +4528,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Villa,Vinkelvej 20,8860, Ulstrup,410000 ,12-09-2017,Auktion,156,1647,7,1897,
 710,Villa,Siøvej 37,8370, Hadsten,2410000 ,12-09-2017,Alm. Salg,179,13464,8,1979,1%
 710,Villa,Flegebakken 26,8370, Hadsten,1065001 ,12-09-2017,Alm. Salg,188,5665,6,2018,
-710,Rækkehus,Mejlbyvej 22C,8370, Hadsten,213060 ,11-09-2017,Alm. Salg,35,6087,2,1931,
-710,Villa,Mejlbyvej 22B,8370, Hadsten,213060 ,11-09-2017,Alm. Salg,150,1420,4,1970,
 710,Villa,Fælledvej 6,8860, Ulstrup,795000 ,11-09-2017,Alm. Salg,80,9938,2,1960,-5%
 710,Villa,Møllevej 12,8881, Thorsø,860000 ,11-09-2017,Alm. Salg,109,7890,4,1965,-14%
 710,Villa,Flegebakken 4,8370, Hadsten,2765000 ,11-09-2017,Alm. Salg,185,14946,5,2018,
@@ -4600,9 +4555,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Villa,Skjoldhøjvej 11,8471, Sabro,3240000 ,03-09-2017,Alm. Salg,272,11912,7,1878,
 710,Villa,Nørregade 30,8382, Hinnerup,1550000 ,03-09-2017,Alm. Salg,100,15500,3,1946,-3%
 710,Villa,Diget 14,8860, Ulstrup,1120000 ,03-09-2017,Andet,159,7044,4,2013,
-710,Ejerlejlighed,Vestergade 4,8450, Hammel,600000 ,31-08-2017,Alm. Salg,114,5263,3,1890,
-710,Ejerlejlighed,"Nørregade 2, 1",8450, Hammel,600000 ,31-08-2017,Alm. Salg,125,4800,4,1890,
-710,Ejerlejlighed,"Nørregade 2, 2",8450, Hammel,600000 ,31-08-2017,Alm. Salg,77,7792,2,1890,
 710,Villa,Nygårdsvænget 7,8370, Hadsten,3700000 ,31-08-2017,Alm. Salg,187,19786,6,2012,-3%
 710,Villa,Tungelund Bakker 32,8881, Thorsø,987500 ,31-08-2017,Alm. Salg,156,6330,4,2003,
 710,Villa,Tinningvej 15,8382, Hinnerup,1580000 ,30-08-2017,Alm. Salg,140,11286,6,1972,-1%
@@ -4925,10 +4877,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Villa,Tommesensvej 37,8450, Hammel,1450000 ,06-04-2017,Alm. Salg,128,11328,6,1971,-9%
 710,Villa,Vermundsvej 19,8370, Hadsten,2075000 ,06-04-2017,Alm. Salg,153,13562,6,1969,1%
 710,Villa,Grønagervej 7,8382, Hinnerup,2410000 ,06-04-2017,Alm. Salg,166,14518,4,1974,-3%
-710,Rækkehus,Udsigten 9,8382, Hinnerup,2900000 ,05-04-2017,Alm. Salg,126,23016,4,2014,
 710,Villa,Houlbjergvej 27,8870, Langå,1225000 ,05-04-2017,Alm. Salg,141,8688,5,1900,-2%
 710,Villa,Bavnehøjvej 152,8370, Hadsten,1495000 ,05-04-2017,Alm. Salg,100,14950,4,1967,
-710,Villa,Præstevangen 22,8382, Hinnerup,2900000 ,05-04-2017,Alm. Salg,154,18831,6,1998,-3%
 710,Villa,Aneskilde 4,8382, Hinnerup,1440000 ,05-04-2017,Alm. Salg,85,16941,3,1982,-4%
 710,Villa,Tinningvej 22,8382, Hinnerup,3100000 ,05-04-2017,Alm. Salg,237,13080,7,1900,-5%
 710,Villa,Ravskærvej 11,8382, Hinnerup,3550000 ,04-04-2017,Alm. Salg,167,21257,5,2007,
@@ -5502,9 +5452,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Villa,Kildevangen 61,8382, Hinnerup,1400000 ,11-06-2016,Andet,138,10145,5,1980,
 710,Villa,Hvidtjørnevej 5,8870, Langå,200000 ,11-06-2016,Alm. Salg,179,1117,5,2022,-20%
 710,Villa,Harebakken 4,8382, Hinnerup,1311750 ,11-06-2016,Alm. Salg,180,7288,6,2017,
-710,Rækkehus,Møllevænget 57,8881, Thorsø,975000 ,10-06-2016,Alm. Salg,86,11337,3,1990,-2%
 710,Villa,Ærøvej 1,8370, Hadsten,2975000 ,10-06-2016,Alm. Salg,201,14801,7,1999,-1%
-710,Villa,Møllevænget 61,8881, Thorsø,975000 ,10-06-2016,Alm. Salg,104,9375,3,0,
 710,Ejerlejlighed,"Nørrevangsvej 13, st. tv",8450, Hammel,790000 ,09-06-2016,Alm. Salg,65,12154,2,1981,-4%
 710,Villa,Egevej 10,8450, Hammel,1400000 ,08-06-2016,Alm. Salg,134,10448,4,1961,-11%
 710,Villa,Overgårdsvej 31,8881, Thorsø,307400 ,08-06-2016,Alm. Salg,177,1737,5,2021,
@@ -5875,8 +5823,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Villa,Stenagerbakken 5,8382, Hinnerup,1375000 ,24-10-2015,Alm. Salg,204,6740,5,2016,
 710,Villa,Lyngbyvej 75,8472, Sporup,1290000 ,23-10-2015,Alm. Salg,137,9416,5,1830,-14%
 710,Villa,Hagenstrupparken 46,8860, Ulstrup,1145000 ,23-10-2015,Alm. Salg,104,11010,4,1986,
-710,Rækkehus,Mejlbyvej 22C,8370, Hadsten,435112 ,22-10-2015,Alm. Salg,35,12432,2,1931,
-710,Villa,Mejlbyvej 22B,8370, Hadsten,435112 ,22-10-2015,Alm. Salg,150,2901,4,1970,
 710,Villa,Bakkevej 13,8850, Bjerringbro,219500 ,21-10-2015,Auktion,164,1338,6,1920,-62%
 710,Villa,Enslevvej 20,8860, Ulstrup,1432500 ,21-10-2015,Alm. Salg,174,8233,6,1978,-4%
 710,Villa,Grævlingevej 16,8450, Hammel,1900000 ,21-10-2015,Alm. Salg,114,16667,3,2008,-5%
@@ -6542,11 +6488,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Villa,Båstrupvej 3D,8382, Hinnerup,1140000 ,20-09-2014,Alm. Salg,81,14074,3,1984,-2%
 710,Villa,Volstrupvej 4,8370, Hadsten,465000 ,18-09-2014,Andet,203,2291,5,1923,
 710,Rækkehus,Ryttervej 58,8450, Hammel,1340000 ,17-09-2014,Alm. Salg,102,13137,4,2004,-4%
-710,Rækkehus,Graven 3B,8471, Sabro,700000 ,15-09-2014,Alm. Salg,84,8333,2,1980,-30%
 710,Villa,Rønvangen 109,8382, Hinnerup,2140000 ,15-09-2014,Alm. Salg,167,12814,5,1973,-3%
 710,Villa,Drejøvej 7,8370, Hadsten,1325000 ,15-09-2014,Fam. Salg,179,7402,6,2005,
 710,Villa,Møllevej 36,8881, Thorsø,2100000 ,15-09-2014,Alm. Salg,270,7778,10,1827,-16%
-710,Villa,Graven 3,8471, Sabro,700000 ,15-09-2014,Alm. Salg,195,3590,6,1980,-30%
 710,Rækkehus,Vinterslevvej 25B,8370, Hadsten,2195000 ,14-09-2014,Alm. Salg,131,16756,3,2015,
 710,Villa,Mølagervej 8,8382, Hinnerup,1725000 ,13-09-2014,Alm. Salg,150,11500,7,1997,-1%
 710,Villa,Banegårdsplads 9,8382, Hinnerup,1200000 ,11-09-2014,Alm. Salg,114,10526,3,1870,
@@ -6702,9 +6646,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Villa,Lykkegårdsvej 320,8472, Sporup,216617 ,17-06-2014,Auktion,157,1380,3,1907,
 710,Villa,Landsbækvej 86,8450, Hammel,437500 ,17-06-2014,Alm. Salg,191,2291,7,2015,
 710,Villa,Energivej 4,8860, Ulstrup,1000000 ,16-06-2014,Alm. Salg,213,4695,6,1974,-9%
-710,Rækkehus,Lilleåvænget 57,8370, Hadsten,1700000 ,15-06-2014,Alm. Salg,96,17708,4,1997,-3%
 710,Villa,Engvej 11,8382, Hinnerup,2270000 ,15-06-2014,Alm. Salg,208,10913,5,1965,-1%
-710,Villa,Østergade 20,8370, Hadsten,1700000 ,15-06-2014,Alm. Salg,176,9659,7,1959,-5%
 710,Villa,Tinningvej 12,8382, Hinnerup,1540000 ,15-06-2014,Alm. Salg,115,13391,3,1948,-4%
 710,Villa,Holmebakken 14,8382, Hinnerup,550000 ,15-06-2014,Alm. Salg,183,3005,6,2014,-85%
 710,Villa,Vestervangsvej 80,8450, Hammel,1600000 ,14-06-2014,Alm. Salg,110,14545,3,1976,0%
@@ -6733,9 +6675,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Villa,Ådalen 8,8370, Hadsten,1450000 ,27-05-2014,Alm. Salg,126,11508,5,1969,-3%
 710,Villa,Haarvadbro 10,8382, Hinnerup,375000 ,27-05-2014,Auktion,113,3319,4,2016,
 710,Villa,Hjortebakken 32,8450, Hammel,350000 ,27-05-2014,Alm. Salg,195,1795,6,2019,-11%
-710,Rækkehus,Mejlbyvej 22C,8370, Hadsten,36108112 ,26-05-2014,Fam. Salg,35,1031660,2,1931,
 710,Villa,Agertoften 2,8450, Hammel,900000 ,26-05-2014,Andet,130,6923,4,1976,
-710,Villa,Mejlbyvej 22B,8370, Hadsten,36108112 ,26-05-2014,Fam. Salg,150,240721,4,1970,
 710,Villa,Vesteralle 13,8870, Langå,495000 ,26-05-2014,Alm. Salg,108,4583,4,1947,
 710,Villa,Nygårdsvænget 13,8370, Hadsten,676480 ,26-05-2014,Alm. Salg,152,4451,5,2014,
 710,Villa,Valmuevej 1,8382, Hinnerup,1575000 ,25-05-2014,Alm. Salg,170,9265,7,1970,
@@ -7154,9 +7094,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Villa,Birkhøjen 23,8382, Hinnerup,981540 ,17-08-2013,Fam. Salg,177,5545,6,1997,
 710,Rækkehus,Vestergade 13,8860, Ulstrup,880000 ,16-08-2013,Alm. Salg,73,12055,3,1987,-7%
 710,Ejerlejlighed,"Houlbjergvej 25A, 1",8870, Langå,1395000 ,15-08-2013,Alm. Salg,137,10182,4,1962,
-710,Ejerlejlighed,"Viborgvej 214, 1",8450, Hammel,500000 ,14-08-2013,Alm. Salg,42,11905,1,1935,27%
 710,Ejerlejlighed,Østergade 7G,8370, Hadsten,870000 ,14-08-2013,Alm. Salg,79,11013,3,1987,-8%
-710,Villa,Viborgvej 214,8450, Hammel,500000 ,14-08-2013,Alm. Salg,72,6944,5,1935,27%
 710,Villa,Anemonevej 10,8870, Langå,900000 ,14-08-2013,Alm. Salg,182,4945,6,1965,-10%
 710,Villa,Møllevangen 57,8450, Hammel,1185000 ,13-08-2013,Alm. Salg,125,9480,4,1976,-12%
 710,Villa,Trigevej 9,8382, Hinnerup,3775000 ,12-08-2013,Alm. Salg,212,17807,4,1911,-5%
@@ -7188,8 +7126,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Villa,Hasselvej 2,8870, Langå,1000001 ,23-07-2013,Alm. Salg,179,5587,5,1991,
 710,Villa,Vagtelvej 5,8382, Hinnerup,1850000 ,23-07-2013,Alm. Salg,148,12500,5,1975,-7%
 710,Villa,Ridder Munks Vej 63,8881, Thorsø,2265000 ,23-07-2013,Alm. Salg,172,13169,5,2008,0%
-710,Ejerlejlighed,"Viborgvej 214, 1",8450, Hammel,370000 ,22-07-2013,Alm. Salg,42,8810,1,1935,-6%
-710,Villa,Viborgvej 214,8450, Hammel,370000 ,22-07-2013,Alm. Salg,72,5139,5,1935,-6%
 710,Villa,Enslevvej 39,8881, Thorsø,1545000 ,21-07-2013,Alm. Salg,156,9904,5,1973,7%
 710,Rækkehus,Grønhøjvej 6D,8382, Hinnerup,1475000 ,20-07-2013,Alm. Salg,96,15365,4,1987,
 710,Villa,Solkærvej 36,8382, Hinnerup,180000 ,20-07-2013,Alm. Salg,245,735,7,1912,-92%
@@ -7204,9 +7140,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Villa,Nørrevangen 39,8382, Hinnerup,1675000 ,11-07-2013,Alm. Salg,132,12689,4,1969,-1%
 710,Villa,N P Schølersvej 18,8450, Hammel,1100000 ,11-07-2013,Alm. Salg,124,8871,5,1928,-8%
 710,Villa,Viborgvej 215,8450, Hammel,650000 ,11-07-2013,Alm. Salg,91,7143,2,1900,
-710,Ejerlejlighed,"Viborgvej 214, 1",8450, Hammel,350000 ,10-07-2013,Alm. Salg,42,8333,1,1935,-11%
 710,Villa,Blåmunkevej 9,8450, Hammel,1500000 ,10-07-2013,Alm. Salg,142,10563,4,1969,-9%
-710,Villa,Viborgvej 214,8450, Hammel,350000 ,10-07-2013,Alm. Salg,72,4861,5,1935,-11%
 710,Villa,Ruholmsvej 4,8382, Hinnerup,726300 ,10-07-2013,Andet,170,4272,5,1969,
 710,Villa,Bavnehøjvej 143,8370, Hadsten,825000 ,10-07-2013,Alm. Salg,167,4940,5,1918,
 710,Villa,Ravskærvej 11,8382, Hinnerup,3300000 ,10-07-2013,Alm. Salg,167,19760,5,2007,-8%
@@ -7623,9 +7557,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Ejerlejlighed,"Neder Hadstenvej 1, st",8370, Hadsten,1040000 ,10-10-2012,Alm. Salg,104,10000,3,1949,-11%
 710,Villa,Erslevvej 87,8370, Hadsten,2300000 ,10-10-2012,Alm. Salg,193,11917,6,1940,-4%
 710,Villa,Humlehaven 93,8382, Hinnerup,884940 ,10-10-2012,Alm. Salg,184,4809,5,2014,
-710,Ejerlejlighed,"Hovedgaden 10, st",8860, Ulstrup,1690000 ,09-10-2012,Alm. Salg,69,24493,2,1927,
-710,Ejerlejlighed,Vestergade 1B,8860, Ulstrup,1690000 ,09-10-2012,Alm. Salg,62,27258,3,1927,
-710,Ejerlejlighed,Vestergade 1A,8860, Ulstrup,1690000 ,09-10-2012,Alm. Salg,94,17979,3,1927,
 710,Villa,Humlehaven 108,8382, Hinnerup,845380 ,08-10-2012,Alm. Salg,227,3724,7,2014,
 710,Villa,Højager 126,8382, Hinnerup,3245000 ,07-10-2012,Alm. Salg,174,18649,5,2004,
 710,Villa,Egevænget 20,8382, Hinnerup,1825000 ,07-10-2012,Alm. Salg,129,14147,5,1986,-9%
@@ -8544,12 +8475,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Villa,Klapskovvej 1,8382, Hinnerup,837000 ,28-02-2011,Alm. Salg,170,4924,5,1850,
 710,Villa,Rønvangen 220,8382, Hinnerup,2395000 ,23-02-2011,Alm. Salg,157,15255,6,1977,-4%
 710,Villa,Hjortebakken 1,8450, Hammel,525000 ,23-02-2011,Alm. Salg,161,3261,6,2012,
-710,Ejerlejlighed,"Nørregade 1B, st",8450, Hammel,2550000 ,22-02-2011,Andet,66,38636,2,1900,
-710,Ejerlejlighed,"Nørregade 1B, 1. th",8450, Hammel,2550000 ,22-02-2011,Andet,66,38636,2,1900,
-710,Ejerlejlighed,"Nørregade 1B, 1. tv",8450, Hammel,2550000 ,22-02-2011,Andet,77,33117,3,1900,
-710,Ejerlejlighed,"Nørregade 1B, 2. th",8450, Hammel,2550000 ,22-02-2011,Andet,55,46364,2,1900,
-710,Ejerlejlighed,"Nørregade 1B, 2. tv",8450, Hammel,2550000 ,22-02-2011,Andet,57,44737,2,1900,
-710,Ejerlejlighed,Vestergade 8,8450, Hammel,2550000 ,22-02-2011,Andet,76,33553,2,1900,
 710,Villa,Kløvervej 21,8382, Hinnerup,2200000 ,22-02-2011,Alm. Salg,234,9402,8,1953,-12%
 710,Villa,Rudbjergvej 22,8370, Hadsten,1735000 ,22-02-2011,Alm. Salg,107,16215,4,2007,-3%
 710,Rækkehus,Jagtvej 104,8450, Hammel,1550000 ,21-02-2011,Alm. Salg,102,15196,4,1998,-6%
@@ -9258,7 +9183,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Villa,Gl Hammelvej 29,8450, Hammel,742590 ,07-01-2010,Alm. Salg,152,4885,7,1930,
 710,Villa,Hovedgaden 19A,8860, Ulstrup,1700000 ,07-01-2010,Alm. Salg,111,15315,4,1912,
 710,Villa,Præstemarksvej 14,8450, Hammel,1675000 ,05-01-2010,Alm. Salg,143,11713,4,1977,-7%
-710,Villa,Østergade 41A,8370, Hadsten,360000 ,03-01-2010,Andet,88,4091,4,1930,
 710,Villa,Rådyrvej 4,8450, Hammel,1156500 ,02-01-2010,Alm. Salg,244,4740,5,2008,-60%
 710,Rækkehus,Ranunkelvej 2D,8370, Hadsten,473800 ,31-12-2009,Fam. Salg,109,4347,4,2018,
 710,Villa,Højager 96,8382, Hinnerup,3400000 ,29-12-2009,Alm. Salg,178,19101,7,2004,
@@ -9449,9 +9373,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Villa,Elverhøjen 98,8370, Hadsten,646300 ,24-08-2009,Alm. Salg,169,3824,5,2012,
 710,Villa,Nørretoften 6,8450, Hammel,1145000 ,22-08-2009,Alm. Salg,121,9463,4,1932,-4%
 710,Villa,Thorsgade 13,8881, Thorsø,800000 ,21-08-2009,Alm. Salg,115,6957,3,1897,
-710,Rækkehus,Mejlbyvej 22C,8370, Hadsten,19550000 ,20-08-2009,Fam. Salg,35,558571,2,1931,
 710,Villa,Lykkevej 16,8860, Ulstrup,1300000 ,20-08-2009,Alm. Salg,159,8176,5,1877,-7%
-710,Villa,Mejlbyvej 22B,8370, Hadsten,19550000 ,20-08-2009,Fam. Salg,150,130333,4,1970,
 710,Villa,Overgårdsvej 18,8881, Thorsø,950000 ,20-08-2009,Alm. Salg,155,6129,6,1907,
 710,Villa,Mødalvej 37,8471, Sabro,1005000 ,19-08-2009,Alm. Salg,100,10050,4,1967,-3%
 710,Villa,Kløvermarksvej 19,8370, Hadsten,2200000 ,18-08-2009,Alm. Salg,163,13497,6,1974,-4%
@@ -9467,8 +9389,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Villa,Skovsangervej 7,8382, Hinnerup,2400000 ,10-08-2009,Alm. Salg,147,16327,6,1995,-4%
 710,Villa,Vestervangsvej 1,8450, Hammel,1000000 ,10-08-2009,Alm. Salg,80,12500,3,1959,-13%
 710,Villa,Egevænget 64,8382, Hinnerup,2100000 ,07-08-2009,Alm. Salg,127,16535,4,1985,
-710,Rækkehus,Møllevænget 57,8881, Thorsø,865000 ,06-08-2009,Alm. Salg,86,10058,3,1990,-2%
-710,Villa,Møllevænget 61,8881, Thorsø,865000 ,06-08-2009,Alm. Salg,104,8317,3,0,
 710,Villa,Nyhavevej 4,8450, Hammel,789424 ,05-08-2009,Alm. Salg,83,9511,3,1954,
 710,Villa,Ditzelsvej 27,8450, Hammel,1825000 ,05-08-2009,Alm. Salg,188,9707,8,1968,-9%
 710,Villa,Nørregade 14,8860, Ulstrup,694502 ,05-08-2009,Andet,147,4725,5,1974,
@@ -9787,7 +9707,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Villa,Hejrevej 13,8382, Hinnerup,2300000 ,03-02-2009,Alm. Salg,136,16912,5,1986,-7%
 710,Villa,Sallvej 190,8450, Hammel,250000 ,03-02-2009,Alm. Salg,142,1761,2,1875,
 710,Villa,Præstevangen 14,8382, Hinnerup,2300000 ,02-02-2009,Alm. Salg,171,13450,8,1998,-23%
-710,Villa,Kirkevejen 24,8471, Sabro,19457500 ,01-02-2009,Fam. Salg,181,107500,7,1777,
 710,Villa,Østergade 51,8860, Ulstrup,1295000 ,01-02-2009,Alm. Salg,140,9250,4,1956,
 710,Villa,Tåstrupvej 51,8370, Hadsten,800000 ,31-01-2009,Fam. Salg,117,6838,3,1965,
 710,Villa,Kirkebakken 14,8860, Ulstrup,847500 ,31-01-2009,Andet,174,4871,6,2007,
@@ -9862,7 +9781,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Villa,Byvænget 13,8382, Hinnerup,1795000 ,20-11-2008,Alm. Salg,223,8049,7,1966,
 710,Villa,Amstrup Bakker 46,8860, Ulstrup,2350000 ,18-11-2008,Alm. Salg,180,13056,5,2005,-5%
 710,Villa,Krogsvej 22,8382, Hinnerup,22000000 ,17-11-2008,Alm. Salg,104,211538,4,1973,
-710,Villa,Østergade 41A,8370, Hadsten,2900000 ,17-11-2008,Alm. Salg,88,32955,4,1930,
 710,Villa,Bavnehøjvej 139B,8370, Hadsten,2700000 ,16-11-2008,Alm. Salg,231,11688,5,1986,
 710,Villa,Møllevej 32,8881, Thorsø,730000 ,16-11-2008,Auktion,96,7604,3,1959,
 710,Rækkehus,Thorsølundvej 27E,8881, Thorsø,600000 ,13-11-2008,Alm. Salg,74,8108,3,1983,
@@ -10107,7 +10025,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Villa,Fyrrevej 4,8370, Hadsten,2700000 ,15-06-2008,Alm. Salg,216,12500,13,1914,-18%
 710,Villa,Hørvænget 8,8870, Langå,765000 ,14-06-2008,Fam. Salg,120,6375,5,1939,
 710,Villa,Haarvadbro 10A,8382, Hinnerup,350000 ,14-06-2008,Fam. Salg,223,1570,7,2009,
-710,Ejerlejlighed,Voldum-Rud Vej 127B,8370, Hadsten,2585000 ,13-06-2008,Alm. Salg,35,73857,1,1935,
 710,Villa,Præstemarksvej 24,8450, Hammel,1670000 ,12-06-2008,Alm. Salg,138,12101,5,1981,-2%
 710,Villa,Vinkelvej 18,8860, Ulstrup,1310000 ,12-06-2008,Alm. Salg,234,5598,7,1921,
 710,Villa,Hammelvej 187,8870, Langå,688000 ,12-06-2008,Alm. Salg,104,6615,3,1898,-1%
@@ -10147,10 +10064,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Villa,Thorsølundvej 7,8881, Thorsø,500000 ,01-06-2008,Alm. Salg,61,8197,1,1937,
 710,Villa,Skovbrynet 73,8450, Hammel,942000 ,01-06-2008,Alm. Salg,185,5092,6,2010,
 710,Ejerlejlighed,"Østergade 35, st",8370, Hadsten,900000 ,31-05-2008,Alm. Salg,87,10345,3,1906,
-710,Rækkehus,Ringsøhøjvej 2A,8850, Bjerringbro,2285000 ,29-05-2008,Alm. Salg,242,9442,6,1914,
 710,Villa,Møgelbyvej 21,8450, Hammel,2395000 ,29-05-2008,Alm. Salg,173,13844,5,1920,-4%
 710,Villa,Møllebakken 46U,8471, Sabro,100000 ,29-05-2008,Andet,127,787,5,2005,
-710,Villa,Ringsøhøjvej 2B,8850, Bjerringbro,2285000 ,29-05-2008,Alm. Salg,110,20773,4,1860,
 710,Villa,Lyngballevej 14,8471, Sabro,1710000 ,29-05-2008,Alm. Salg,140,12214,6,1800,
 710,Villa,Engvej 3,8860, Ulstrup,695000 ,28-05-2008,Alm. Salg,98,7092,3,1956,
 710,Villa,Neptunvej 10,8382, Hinnerup,1840000 ,28-05-2008,Alm. Salg,121,15207,5,1966,-3%
@@ -10211,7 +10126,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Ejerlejlighed,Kirkevej 1,8870, Langå,1800000 ,04-05-2008,Alm. Salg,147,12245,4,1890,
 710,Villa,Møllevænget 52,8370, Hadsten,1875000 ,04-05-2008,Alm. Salg,170,11029,5,1976,
 710,Villa,Jagtvej 8,8450, Hammel,2998000 ,04-05-2008,Alm. Salg,196,15296,6,1998,
-710,Villa,Jernbanegade 21D,8881, Thorsø,1950000 ,04-05-2008,Alm. Salg,70,27857,3,1910,
 710,Villa,Saturnvej 10,8881, Thorsø,1998000 ,03-05-2008,Alm. Salg,137,14584,5,1997,
 710,Villa,Vestervangen 17,8370, Hadsten,2043000 ,02-05-2008,Alm. Salg,120,17025,4,1970,-2%
 710,Villa,Bøstrupvej 11,8870, Langå,3995000 ,02-05-2008,Alm. Salg,233,17146,6,2008,
@@ -10679,8 +10593,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Rækkehus,Rolighedsvej 14A,8881, Thorsø,1298000 ,25-09-2007,Alm. Salg,134,9687,5,2007,
 710,Ejerlejlighed,"Voldbyvej 2, 1",8450, Hammel,450000 ,25-09-2007,Andet,73,6164,2,1900,
 710,Ejerlejlighed,"Voldbyvej 2, 2",8450, Hammel,400000 ,25-09-2007,Andet,55,7273,2,1900,
-710,Ejerlejlighed,"Østergade 32, 1. th",8450, Hammel,1300000 ,25-09-2007,Alm. Salg,108,12037,3,1900,
-710,Ejerlejlighed,"Voldbyvej 2A, 2",8450, Hammel,1300000 ,25-09-2007,Alm. Salg,72,18056,3,1900,
 710,Villa,Markusvej 15,8471, Sabro,837500 ,25-09-2007,Fam. Salg,216,3877,5,1911,
 710,Villa,Skovbrynet 91,8450, Hammel,926000 ,25-09-2007,Alm. Salg,167,5545,7,2008,-1%
 710,Rækkehus,Elgårdsminde 111,8382, Hinnerup,2586500 ,24-09-2007,Alm. Salg,122,21201,5,2007,
@@ -11233,9 +11145,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Villa,Hammelvej 247,8870, Langå,797500 ,27-02-2007,Alm. Salg,190,4197,4,1927,
 710,Villa,Ravskærvej 30,8382, Hinnerup,3609394 ,27-02-2007,Alm. Salg,180,20052,5,2008,
 710,Villa,Selli Ager 12,8881, Thorsø,1377310 ,27-02-2007,Alm. Salg,213,6466,7,2010,135%
-710,Ejerlejlighed,"Østergade 32, 1. tv",8450, Hammel,1930000 ,26-02-2007,Alm. Salg,106,18208,3,1900,
 710,Ejerlejlighed,Kirketorvet 3,8370, Hadsten,1310885 ,26-02-2007,Andet,132,9931,3,2008,
-710,Ejerlejlighed,"Voldbyvej 2B, 2",8450, Hammel,1930000 ,26-02-2007,Alm. Salg,70,27571,2,1900,
 710,Villa,Hagenstrupvej 16,8860, Ulstrup,1930000 ,26-02-2007,Alm. Salg,258,7481,7,1914,
 710,Villa,Knudstrupvej 27,8870, Langå,750000 ,26-02-2007,Alm. Salg,109,6881,5,1949,
 710,Villa,Eriksminde 40,8450, Hammel,2150000 ,26-02-2007,Alm. Salg,125,17200,4,1997,-2%
@@ -11429,11 +11339,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Villa,Terp Skovvej 16,8860, Ulstrup,497780 ,13-12-2006,Alm. Salg,144,3151,6,1923,
 710,Villa,Ådalsparken 17,8370, Hadsten,1795000 ,13-12-2006,Alm. Salg,116,15474,4,1973,
 710,Villa,Rådyrvej 22,8450, Hammel,792775 ,13-12-2006,Alm. Salg,175,4530,5,2008,
-710,Ejerlejlighed,Postvej 33D,8382, Hinnerup,920000 ,12-12-2006,Alm. Salg,82,11220,3,1909,
-710,Ejerlejlighed,Kirkevej 1B,8382, Hinnerup,920000 ,12-12-2006,Alm. Salg,60,15333,2,1909,
-710,Ejerlejlighed,Postvej 33C,8382, Hinnerup,920000 ,12-12-2006,Alm. Salg,94,9787,4,1909,
-710,Ejerlejlighed,Postvej 33A,8382, Hinnerup,920000 ,12-12-2006,Alm. Salg,78,11795,3,1909,
-710,Ejerlejlighed,Postvej 33B,8382, Hinnerup,920000 ,12-12-2006,Alm. Salg,94,9787,3,1909,
 710,Villa,Rønnebærvej 2,8860, Ulstrup,1215000 ,12-12-2006,Alm. Salg,111,10946,4,1965,
 710,Villa,Tilemannsvej 2,8450, Hammel,300000 ,12-12-2006,Fam. Salg,96,3125,4,2011,
 710,Villa,Rosenparken 58,8881, Thorsø,625080 ,11-12-2006,Alm. Salg,128,4883,5,1974,
@@ -13081,11 +12986,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Villa,Gl Århusvej 13,8450, Hammel,975000 ,27-04-2005,Alm. Salg,126,7738,4,1960,
 710,Villa,Hedehusvej 12,8450, Hammel,865000 ,26-04-2005,Alm. Salg,130,6654,4,1968,
 710,Villa,Stenhøjvej 2,8450, Hammel,1090000 ,26-04-2005,Alm. Salg,171,6374,6,1897,
-710,Rækkehus,Galten Hedevej 13A,8370, Hadsten,2100000 ,25-04-2005,Fam. Salg,75,28000,2,1910,
 710,Rækkehus,Tverfaldet 12A,8450, Hammel,815000 ,25-04-2005,Alm. Salg,73,11164,3,1970,
 710,Villa,Ørnevænget 13,8370, Hadsten,1700000 ,25-04-2005,Alm. Salg,141,12057,5,1988,
 710,Villa,Gl Hammelvej 45,8450, Hammel,1079000 ,25-04-2005,Alm. Salg,88,12261,3,1962,
-710,Villa,Galten Hedevej 13,8370, Hadsten,2100000 ,25-04-2005,Fam. Salg,261,8046,7,1827,
 710,Villa,Harevænget 9,8450, Hammel,424100 ,25-04-2005,Alm. Salg,178,2383,7,2006,
 710,Villa,Harevænget 40,8450, Hammel,420300 ,25-04-2005,Alm. Salg,230,1827,7,2006,
 710,Villa,Gl Hammelvej 44,8450, Hammel,800000 ,25-04-2005,Alm. Salg,80,10000,3,1952,
@@ -13580,10 +13483,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Villa,Egevænget 14,8382, Hinnerup,1530000 ,05-11-2004,Alm. Salg,112,13661,4,1997,
 710,Villa,Houlbjergvej 27,8870, Langå,381774 ,04-11-2004,Andet,141,2708,5,1900,
 710,Villa,Havrevænget 14,8870, Langå,960000 ,04-11-2004,Alm. Salg,149,6443,4,1981,
-710,Rækkehus,Hammelvej 49B,8370, Hadsten,1390000 ,03-11-2004,Auktion,207,6715,5,1998,
 710,Villa,Sandballevej 30,8382, Hinnerup,1300000 ,03-11-2004,Alm. Salg,123,10569,5,1927,
 710,Villa,Elgårdsminde 1,8382, Hinnerup,2374294 ,03-11-2004,Alm. Salg,148,16043,6,2005,
-710,Villa,Hammelvej 49A,8370, Hadsten,1390000 ,03-11-2004,Auktion,250,5560,7,1923,
 710,Villa,Ådalsparken 9,8370, Hadsten,1450000 ,03-11-2004,Alm. Salg,152,9539,5,1972,
 710,Villa,Elgårdsminde 47,8382, Hinnerup,1950000 ,03-11-2004,Alm. Salg,138,14130,6,2005,
 710,Villa,Viborgvej 902,8471, Sabro,755000 ,03-11-2004,Alm. Salg,101,7475,4,1897,
@@ -14166,9 +14067,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Rækkehus,Rønnehaven 1,8370, Hadsten,1450000 ,26-02-2004,Alm. Salg,117,12393,3,2004,
 710,Villa,Jægervej 54,8450, Hammel,1469000 ,26-02-2004,Alm. Salg,154,9539,5,1985,
 710,Villa,Engparken 32,8370, Hadsten,1260000 ,26-02-2004,Alm. Salg,197,6396,7,1973,
-710,Ejerlejlighed,"Østergade 13, 2",8450, Hammel,1200000 ,25-02-2004,Alm. Salg,139,8633,4,1978,
-710,Ejerlejlighed,"Gl Randersvej 25, 1",8450, Hammel,1200000 ,25-02-2004,Alm. Salg,70,17143,2,1914,
-710,Ejerlejlighed,"Gl Randersvej 25, st",8450, Hammel,1200000 ,25-02-2004,Alm. Salg,115,10435,4,1914,
 710,Villa,Engholmen 3,8382, Hinnerup,378500 ,25-02-2004,Alm. Salg,197,1921,5,2004,
 710,Villa,Kildevangen 37,8382, Hinnerup,1825000 ,25-02-2004,Alm. Salg,149,12248,4,1984,
 710,Rækkehus,Bogfinkevej 45,8382, Hinnerup,1078000 ,24-02-2004,Alm. Salg,97,11113,4,1997,
@@ -14377,9 +14275,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Villa,Søndermarken 33,8382, Hinnerup,1124900 ,04-11-2003,Alm. Salg,111,10134,3,1975,
 710,Ejerlejlighed,"Aneskilde 1, 1",8382, Hinnerup,810000 ,03-11-2003,Alm. Salg,69,11739,2,1982,
 710,Villa,Vesselbjergvej 21,8370, Hadsten,1500000 ,03-11-2003,Alm. Salg,175,8571,5,1913,
-710,Ejerlejlighed,"Hovedgaden 10, st",8860, Ulstrup,330000 ,02-11-2003,Alm. Salg,69,4783,2,1927,
-710,Ejerlejlighed,Vestergade 1B,8860, Ulstrup,330000 ,02-11-2003,Alm. Salg,62,5323,3,1927,
-710,Ejerlejlighed,Vestergade 1A,8860, Ulstrup,330000 ,02-11-2003,Alm. Salg,94,3511,3,1927,
 710,Villa,Godthåbsvej 2,8370, Hadsten,1025000 ,02-11-2003,Alm. Salg,174,5891,5,1870,
 710,Villa,Rødtjørnevej 7,8870, Langå,775000 ,02-11-2003,Alm. Salg,219,3539,9,1985,
 710,Villa,Højager 70,8382, Hinnerup,470000 ,02-11-2003,Alm. Salg,200,2350,4,2004,
@@ -14419,9 +14314,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Villa,Højager 78,8382, Hinnerup,490000 ,14-10-2003,Alm. Salg,166,2952,7,2004,
 710,Villa,Rønvangen 167,8382, Hinnerup,1490000 ,14-10-2003,Alm. Salg,148,10068,4,1973,
 710,Villa,Kirkestræde 4,8450, Hammel,640000 ,14-10-2003,Alm. Salg,98,6531,4,1948,
-710,Ejerlejlighed,"Hovedgaden 10, st",8860, Ulstrup,435000 ,13-10-2003,Alm. Salg,69,6304,2,1927,
-710,Ejerlejlighed,Vestergade 1B,8860, Ulstrup,435000 ,13-10-2003,Alm. Salg,62,7016,3,1927,
-710,Ejerlejlighed,Vestergade 1A,8860, Ulstrup,435000 ,13-10-2003,Alm. Salg,94,4628,3,1927,
 710,Villa,Houlbjergvej 17,8870, Langå,650000 ,12-10-2003,Alm. Salg,246,2642,7,1922,
 710,Villa,Ørnevænget 12,8370, Hadsten,1685000 ,11-10-2003,Alm. Salg,156,10801,5,1989,
 710,Villa,Poppelvej 4,8370, Hadsten,200000 ,10-10-2003,Auktion,176,1136,7,1970,
@@ -14521,7 +14413,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Villa,Gartnervænget 24,8382, Hinnerup,410000 ,27-08-2003,Alm. Salg,96,4271,3,2003,
 710,Villa,Ny Tilemannsvej 3,8450, Hammel,1000000 ,27-08-2003,Alm. Salg,150,6667,4,1963,
 710,Villa,Gordonhaven 6,8370, Hadsten,800000 ,26-08-2003,Fam. Salg,219,3653,6,1975,
-710,Villa,Værumvej 14,8370, Hadsten,750000 ,26-08-2003,Alm. Salg,100,7500,4,1965,
 710,Villa,Vestervej 1,8382, Hinnerup,500000 ,26-08-2003,Fam. Salg,59,8475,2,1900,
 710,Villa,Møllebakken 21,8382, Hinnerup,1800000 ,25-08-2003,Alm. Salg,200,9000,7,1981,
 710,Villa,Egevej 3,8450, Hammel,860000 ,25-08-2003,Alm. Salg,110,7818,3,1961,
@@ -14957,7 +14848,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Villa,Nørregade 3,8382, Hinnerup,965000 ,12-02-2003,Alm. Salg,115,8391,4,1925,
 710,Villa,Vestergade 7,8382, Hinnerup,1400000 ,12-02-2003,Fam. Salg,153,9150,5,1959,
 710,Rækkehus,Mindevej 16A,8450, Hammel,1198000 ,11-02-2003,Alm. Salg,90,13311,3,1982,
-710,Villa,Holmebakken 7,8382, Hinnerup,600000 ,11-02-2003,Andet,173,3468,6,1908,
 710,Villa,Vadstedvej 33,8450, Hammel,990000 ,11-02-2003,Alm. Salg,119,8319,4,1940,
 710,Villa,Højdedraget 16,8450, Hammel,1482846 ,11-02-2003,Alm. Salg,172,8621,4,1973,
 710,Rækkehus,Granvej 7B,8450, Hammel,274514 ,10-02-2003,Alm. Salg,55,4991,2,1971,
@@ -15040,14 +14930,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Villa,Gartnervænget 26,8382, Hinnerup,410000 ,01-01-2003,Alm. Salg,118,3475,4,2003,
 710,Rækkehus,Skolevej 10,8382, Hinnerup,330000 ,29-12-2002,Fam. Salg,91,3626,3,2017,
 710,Villa,Lynghøjvej 38,8370, Hadsten,1407000 ,24-12-2002,Alm. Salg,182,7731,5,1926,
-710,Ejerlejlighed,"Jernbanegade 2, st. tv",8881, Thorsø,2835236 ,19-12-2002,Alm. Salg,58,48883,2,1909,
-710,Ejerlejlighed,"Jernbanegade 2, 1. th",8881, Thorsø,2835236 ,19-12-2002,Alm. Salg,91,31156,3,1909,
-710,Ejerlejlighed,"Jernbanegade 2, st. th",8881, Thorsø,2835236 ,19-12-2002,Alm. Salg,91,31156,2,1909,
-710,Ejerlejlighed,"Jernbanegade 2, 1. tv",8881, Thorsø,2835236 ,19-12-2002,Alm. Salg,82,34576,3,1909,
-710,Ejerlejlighed,"Borggade 1, st",8881, Thorsø,2835236 ,19-12-2002,Alm. Salg,55,51550,2,1909,
-710,Ejerlejlighed,"Borggade 1, 1",8881, Thorsø,2835236 ,19-12-2002,Alm. Salg,55,51550,2,1909,
-710,Ejerlejlighed,"Borggade 1, 2. th",8881, Thorsø,2835236 ,19-12-2002,Alm. Salg,56,50629,2,1909,
-710,Ejerlejlighed,"Borggade 1, 2. tv",8881, Thorsø,2835236 ,19-12-2002,Alm. Salg,86,32968,3,1909,
 710,Villa,Rugvænget 14,8870, Langå,595000 ,19-12-2002,Alm. Salg,106,5613,4,1980,
 710,Villa,Bramstrupvej 52,8370, Hadsten,400000 ,18-12-2002,Alm. Salg,97,4124,3,1937,
 710,Villa,Solbakken 44,8450, Hammel,2450000 ,17-12-2002,Alm. Salg,259,9459,7,1977,
@@ -15566,12 +15448,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Villa,Drejøvej 42,8370, Hadsten,381193 ,24-04-2002,Alm. Salg,182,2094,5,2003,
 710,Villa,Bramstrupvej 20,8370, Hadsten,750000 ,24-04-2002,Alm. Salg,253,2964,7,1929,
 710,Villa,Lille Thorupvej 1,8860, Ulstrup,265698 ,23-04-2002,Alm. Salg,185,1436,6,1912,
-710,Ejerlejlighed,"Nørrevangsvej 1, st",8450, Hammel,3000000 ,22-04-2002,Alm. Salg,104,28846,3,1900,
-710,Ejerlejlighed,"Nørrevangsvej 1, 1",8450, Hammel,3000000 ,22-04-2002,Alm. Salg,80,37500,3,1900,
-710,Ejerlejlighed,"Østergade 25, 1. th",8450, Hammel,3000000 ,22-04-2002,Alm. Salg,66,45455,3,1927,
-710,Ejerlejlighed,"Østergade 25, 1. tv",8450, Hammel,3000000 ,22-04-2002,Alm. Salg,86,34884,3,1927,
-710,Ejerlejlighed,"Østergade 25, 2. th",8450, Hammel,3000000 ,22-04-2002,Alm. Salg,64,46875,3,1927,
-710,Ejerlejlighed,"Østergade 25, 2. tv",8450, Hammel,3000000 ,22-04-2002,Alm. Salg,66,45455,3,1927,
 710,Villa,Ålykkevej 17,8370, Hadsten,439950 ,22-04-2002,Alm. Salg,67,6566,3,1947,
 710,Villa,Lynghøjvej 7,8382, Hinnerup,920000 ,22-04-2002,Alm. Salg,142,6479,6,1884,
 710,Villa,Elmelundsvej 29,8370, Hadsten,1067878 ,22-04-2002,Alm. Salg,177,6033,6,1918,
@@ -15782,9 +15658,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Villa,Dr.Larsens Vej 23,8370, Hadsten,1285000 ,02-01-2002,Alm. Salg,117,10983,6,1914,
 710,Villa,Gartnervænget 10,8382, Hinnerup,435000 ,02-01-2002,Alm. Salg,124,3508,4,2002,
 710,Villa,Vestergade 27,8382, Hinnerup,250000 ,02-01-2002,Alm. Salg,146,1712,6,2003,
-710,Rækkehus,Hammelvej 49B,8370, Hadsten,1605245 ,30-12-2001,Auktion,207,7755,5,1998,
 710,Villa,Grønningen 14,8370, Hadsten,1385050 ,30-12-2001,Alm. Salg,148,9358,4,2002,
-710,Villa,Hammelvej 49A,8370, Hadsten,1605245 ,30-12-2001,Auktion,250,6421,7,1923,
 710,Villa,Gartnervænget 6,8382, Hinnerup,435000 ,30-12-2001,Alm. Salg,132,3295,4,2002,
 710,Villa,Viborgvej 215,8450, Hammel,135369 ,28-12-2001,Fam. Salg,91,1488,2,1900,
 710,Villa,Bygaden 3,8450, Hammel,1000000 ,27-12-2001,Alm. Salg,215,4651,6,1970,
@@ -16179,9 +16053,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Villa,Finlandsvej 16,8370, Hadsten,1255000 ,02-06-2001,Alm. Salg,195,6436,6,1979,
 710,Villa,Askevej 8,8870, Langå,585000 ,01-06-2001,Alm. Salg,125,4680,4,1937,
 710,Rækkehus,Sofienlundparken 69,8860, Ulstrup,395000 ,31-05-2001,Alm. Salg,54,7315,2,1985,
-710,Ejerlejlighed,"Hovedgaden 10, st",8860, Ulstrup,435000 ,31-05-2001,Alm. Salg,69,6304,2,1927,
-710,Ejerlejlighed,Vestergade 1B,8860, Ulstrup,435000 ,31-05-2001,Alm. Salg,62,7016,3,1927,
-710,Ejerlejlighed,Vestergade 1A,8860, Ulstrup,435000 ,31-05-2001,Alm. Salg,94,4628,3,1927,
 710,Villa,Ødumvej 23,8370, Hadsten,640400 ,31-05-2001,Alm. Salg,133,4815,4,1939,
 710,Villa,Vestervangen 51,8370, Hadsten,1080000 ,31-05-2001,Alm. Salg,135,8000,4,1974,
 710,Rækkehus,Vesterskovvej 6C,8370, Hadsten,628000 ,30-05-2001,Alm. Salg,60,10467,2,1982,
@@ -16436,7 +16307,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Ejerlejlighed,"Ågade 49, 1. tv",8370, Hadsten,646010 ,07-02-2001,Alm. Salg,67,9642,2,1988,
 710,Villa,Mødalvej 17,8471, Sabro,939000 ,07-02-2001,Alm. Salg,128,7336,5,1970,
 710,Rækkehus,Storkevej 44,8382, Hinnerup,859688 ,06-02-2001,Alm. Salg,77,11165,3,1988,
-710,Rækkehus,Jernbanegade 9,8881, Thorsø,1125000 ,06-02-2001,Alm. Salg,82,13720,2,1930,
 710,Villa,Solsortevej 3,8860, Ulstrup,730000 ,06-02-2001,Alm. Salg,88,8295,4,1950,
 710,Villa,Grøntoften 30,8382, Hinnerup,1050000 ,06-02-2001,Alm. Salg,140,7500,5,1978,
 710,Villa,Nyvangsvej 1,8860, Ulstrup,768000 ,05-02-2001,Alm. Salg,111,6919,4,1950,
@@ -16687,7 +16557,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Villa,N P Schølersvej 37,8450, Hammel,1160000 ,05-10-2000,Alm. Salg,164,7073,10,1972,
 710,Villa,Skolevej 14,8860, Ulstrup,749514 ,04-10-2000,Alm. Salg,106,7071,4,1958,
 710,Villa,Hedehusvej 30,8450, Hammel,750000 ,04-10-2000,Alm. Salg,202,3713,8,1968,
-710,Villa,Rolighedsvej 8,8881, Thorsø,247400 ,04-10-2000,Alm. Salg,99,2499,4,1927,
 710,Villa,Grøntoften 22,8382, Hinnerup,1135125 ,04-10-2000,Alm. Salg,151,7517,6,1979,
 710,Ejerlejlighed,"Søndergade 18, 2",8370, Hadsten,597000 ,03-10-2000,Alm. Salg,100,5970,3,1905,
 710,Villa,Søndermarken 137,8382, Hinnerup,1195000 ,03-10-2000,Alm. Salg,168,7113,4,1979,
@@ -17036,9 +16905,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Villa,Vælddalen 15,8370, Hadsten,347427 ,25-04-2000,Alm. Salg,232,1498,5,2001,
 710,Villa,Rigtrupvej 20,8370, Hadsten,550000 ,25-04-2000,Fam. Salg,96,5729,4,1962,
 710,Villa,Sall Hedevej 116,8450, Hammel,763500 ,25-04-2000,Alm. Salg,98,7791,3,1875,
-710,Ejerlejlighed,"Hovedgaden 10, st",8860, Ulstrup,400000 ,24-04-2000,Alm. Salg,69,5797,2,1927,
-710,Ejerlejlighed,Vestergade 1B,8860, Ulstrup,400000 ,24-04-2000,Alm. Salg,62,6452,3,1927,
-710,Ejerlejlighed,Vestergade 1A,8860, Ulstrup,400000 ,24-04-2000,Alm. Salg,94,4255,3,1927,
 710,Villa,Teglværksvej 14,8370, Hadsten,609700 ,24-04-2000,Alm. Salg,115,5302,3,1966,
 710,Villa,Birkhøjen 21,8382, Hinnerup,1492394 ,24-04-2000,Alm. Salg,160,9327,5,1997,
 710,Villa,Vælddalen 2,8370, Hadsten,351244 ,24-04-2000,Alm. Salg,176,1996,5,2001,
@@ -17190,7 +17056,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Villa,Nørrevangen 3,8382, Hinnerup,1110000 ,17-02-2000,Alm. Salg,140,7929,5,1967,
 710,Rækkehus,Grønhøjvej 6C,8382, Hinnerup,875000 ,15-02-2000,Alm. Salg,96,9115,4,1987,
 710,Villa,Nørrevangen 56,8382, Hinnerup,1155000 ,15-02-2000,Alm. Salg,112,10313,4,1969,
-710,Villa,Nørregade 13A,8450, Hammel,1200000 ,15-02-2000,Alm. Salg,76,15789,3,1887,
 710,Villa,Snuhøjvej 15,8881, Thorsø,1404394 ,14-02-2000,Alm. Salg,52,27008,1,1922,
 710,Rækkehus,Malerkrogen 20B,8450, Hammel,935000 ,13-02-2000,Alm. Salg,99,9444,4,1983,
 710,Villa,Præstevænget 12,8881, Thorsø,535000 ,13-02-2000,Alm. Salg,125,4280,4,1961,
@@ -17442,12 +17307,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Villa,Vestervangsvej 18,8860, Ulstrup,580000 ,21-10-1999,Alm. Salg,112,5179,3,1967,
 710,Villa,Højagervej 1,8472, Sporup,105000 ,21-10-1999,Alm. Salg,170,618,7,2000,
 710,Rækkehus,Storkevej 4,8382, Hinnerup,809326 ,20-10-1999,Alm. Salg,79,10245,3,1988,
-710,Ejerlejlighed,"Nørrevangsvej 1, st",8450, Hammel,2320000 ,20-10-1999,Alm. Salg,104,22308,3,1900,
-710,Ejerlejlighed,"Nørrevangsvej 1, 1",8450, Hammel,2320000 ,20-10-1999,Alm. Salg,80,29000,3,1900,
-710,Ejerlejlighed,"Østergade 25, 1. th",8450, Hammel,2320000 ,20-10-1999,Alm. Salg,66,35152,3,1927,
-710,Ejerlejlighed,"Østergade 25, 1. tv",8450, Hammel,2320000 ,20-10-1999,Alm. Salg,86,26977,3,1927,
-710,Ejerlejlighed,"Østergade 25, 2. th",8450, Hammel,2320000 ,20-10-1999,Alm. Salg,64,36250,3,1927,
-710,Ejerlejlighed,"Østergade 25, 2. tv",8450, Hammel,2320000 ,20-10-1999,Alm. Salg,66,35152,3,1927,
 710,Villa,Haraldslundvej 3B,8382, Hinnerup,141620 ,20-10-1999,Alm. Salg,281,504,7,1980,
 710,Villa,Rolfsvej 1,8382, Hinnerup,850000 ,20-10-1999,Alm. Salg,115,7391,3,1926,
 710,Villa,Fælledvej 4,8860, Ulstrup,456675 ,20-10-1999,Alm. Salg,71,6432,3,1959,
@@ -17460,7 +17319,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Villa,Bavnehøjvej 111,8370, Hadsten,481644 ,18-10-1999,Alm. Salg,196,2457,7,1892,
 710,Villa,Mosevej 2,8860, Ulstrup,483008 ,18-10-1999,Alm. Salg,125,3864,6,1882,
 710,Villa,Nørrevangen 7,8382, Hinnerup,1197090 ,18-10-1999,Alm. Salg,145,8256,5,1976,
-710,Rækkehus,Haxholmvej 80A,8870, Langå,8575809 ,17-10-1999,Fam. Salg,181,27053,5,1909,
 710,Villa,Teglhøjen 26,8382, Hinnerup,353000 ,17-10-1999,Alm. Salg,166,2127,6,2000,
 710,Villa,Tuesbakkevej 9,8860, Ulstrup,2400000 ,17-10-1999,Alm. Salg,142,16901,7,1800,
 710,Villa,Mejlbyvej 8,8370, Hadsten,910000 ,17-10-1999,Alm. Salg,159,5723,3,1945,
@@ -17525,7 +17383,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Villa,Tranevej 57,8382, Hinnerup,1440000 ,22-09-1999,Alm. Salg,223,6457,8,1973,
 710,Villa,Skolevangsvej 21,8450, Hammel,680625 ,22-09-1999,Alm. Salg,124,5489,5,1969,
 710,Rækkehus,Jægervej 4A,8450, Hammel,877000 ,21-09-1999,Alm. Salg,104,8433,3,1985,
-710,Villa,Banealle 1A,8881, Thorsø,816332 ,21-09-1999,Alm. Salg,181,4510,6,1964,
 710,Villa,Granslevbyvej 6,8870, Langå,561270 ,20-09-1999,Alm. Salg,130,4317,5,1934,
 710,Villa,Hvidtjørnevej 9,8870, Langå,1346299 ,20-09-1999,Alm. Salg,143,9415,5,1999,
 710,Villa,Nørrevangen 64,8382, Hinnerup,897576 ,19-09-1999,Alm. Salg,110,8160,4,1970,
@@ -17563,7 +17420,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Villa,Tungelund Bakker 27,8881, Thorsø,256504 ,31-08-1999,Alm. Salg,199,1289,6,2000,
 710,Villa,Tungelund Bakker 40,8881, Thorsø,236482 ,31-08-1999,Alm. Salg,174,1359,5,2000,
 710,Villa,Anbækvej 33,8450, Hammel,930000 ,31-08-1999,Alm. Salg,108,8611,4,1942,
-710,Villa,Vesteralle 51B,8870, Langå,6500000 ,31-08-1999,Alm. Salg,161,37572,5,1950,
 710,Villa,Præstemarksvej 5,8450, Hammel,889456 ,30-08-1999,Alm. Salg,128,6949,4,1977,
 710,Villa,Svalevej 29,8382, Hinnerup,1136527 ,30-08-1999,Alm. Salg,177,6421,6,1977,
 710,Villa,Thostrupvej 9,8860, Ulstrup,650000 ,30-08-1999,Alm. Salg,246,2642,4,1905,
@@ -17595,7 +17451,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Villa,Skolestien 9,8382, Hinnerup,109345 ,18-08-1999,Andet,125,875,4,1977,
 710,Villa,Rugvænget 7,8870, Langå,810000 ,17-08-1999,Alm. Salg,148,5473,5,1975,
 710,Villa,Sverigesvej 21,8370, Hadsten,1555277 ,17-08-1999,Alm. Salg,203,7661,6,1981,
-710,Villa,Rolighedsvej 8,8881, Thorsø,1150000 ,17-08-1999,Alm. Salg,99,11616,4,1927,
 710,Villa,Skolestien 4,8382, Hinnerup,434000 ,17-08-1999,Alm. Salg,179,2425,7,1850,
 710,Ejerlejlighed,Æbleparken 21,8370, Hadsten,635000 ,16-08-1999,Alm. Salg,86,7384,2,1967,
 710,Villa,Ørnevænget 8,8370, Hadsten,600000 ,16-08-1999,Fam. Salg,133,4511,6,1988,
@@ -17928,11 +17783,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Rækkehus,Hagenstrupparken 22B,8860, Ulstrup,394886 ,20-04-1999,Alm. Salg,57,6928,2,1986,
 710,Villa,Futuravej 8,8370, Hadsten,1375000 ,19-04-1999,Alm. Salg,215,6395,6,1976,
 710,Villa,Vælddalen 29,8370, Hadsten,361668 ,19-04-1999,Alm. Salg,173,2091,6,1999,
-710,Ejerlejlighed,Sallvej 192B,8450, Hammel,1000000 ,18-04-1999,Alm. Salg,98,10204,3,1948,
-710,Ejerlejlighed,Sallvej 194,8450, Hammel,1000000 ,18-04-1999,Alm. Salg,77,12987,3,1948,
-710,Ejerlejlighed,Sallvej 192A,8450, Hammel,1000000 ,18-04-1999,Alm. Salg,105,9524,3,1948,
-710,Ejerlejlighed,Borgergade 36A,8450, Hammel,1000000 ,18-04-1999,Alm. Salg,48,20833,2,1948,
-710,Ejerlejlighed,Borgergade 36B,8450, Hammel,1000000 ,18-04-1999,Alm. Salg,102,9804,4,1948,
 710,Villa,Jupitervej 10,8370, Hadsten,1125000 ,18-04-1999,Alm. Salg,124,9073,5,1978,
 710,Villa,Hesselbækvej 13,8881, Thorsø,992149 ,18-04-1999,Alm. Salg,200,4961,4,1920,
 710,Villa,Gelbrovej 3,8870, Langå,491267 ,18-04-1999,Alm. Salg,119,4128,3,1920,
@@ -18397,7 +18247,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Villa,Aptrupvej 1,8450, Hammel,1451738 ,20-09-1998,Alm. Salg,156,9306,6,1876,
 710,Villa,Silkeborgvej 80,8472, Sporup,617000 ,19-09-1998,Alm. Salg,159,3881,7,1939,
 710,Villa,Slotsvej 27,8860, Ulstrup,806755 ,18-09-1998,Alm. Salg,219,3684,5,1800,
-710,Rækkehus,Rødtjørnevej 3B,8860, Ulstrup,380000 ,17-09-1998,Alm. Salg,80,4750,2,1927,
 710,Villa,Solbakken 25,8450, Hammel,1400000 ,17-09-1998,Alm. Salg,176,7955,5,1977,
 710,Villa,Industrivej 1,8881, Thorsø,737960 ,17-09-1998,Alm. Salg,155,4761,6,1970,
 710,Villa,Enslevvej 5,8860, Ulstrup,980000 ,16-09-1998,Alm. Salg,155,6323,5,1901,
@@ -19226,21 +19075,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Villa,Gudenåparken 56,8860, Ulstrup,725000 ,04-11-1997,Alm. Salg,135,5370,4,1978,
 710,Villa,Randersvej 17,8860, Ulstrup,651363 ,04-11-1997,Alm. Salg,164,3972,5,1900,
 710,Villa,Kirkevænget 5,8860, Ulstrup,340000 ,04-11-1997,Fam. Salg,67,5075,2,1958,
-710,Ejerlejlighed,"Østergade 27, 1. tv",8450, Hammel,5583875 ,03-11-1997,Alm. Salg,100,55839,2,1910,
-710,Ejerlejlighed,"Østergade 27, 1. th",8450, Hammel,5583875 ,03-11-1997,Alm. Salg,120,46532,4,1910,
-710,Ejerlejlighed,"Østergade 27, 2. th",8450, Hammel,5583875 ,03-11-1997,Alm. Salg,94,59403,3,1910,
-710,Ejerlejlighed,"Østergade 27, 2. tv",8450, Hammel,5583875 ,03-11-1997,Alm. Salg,91,61361,3,1910,
-710,Ejerlejlighed,"Nørrevangsvej 2A, st. tv",8450, Hammel,5583875 ,03-11-1997,Alm. Salg,46,121389,2,1910,
-710,Ejerlejlighed,"Nørrevangsvej 2A, st. th",8450, Hammel,5583875 ,03-11-1997,Alm. Salg,46,121389,2,1910,
-710,Ejerlejlighed,"Nørrevangsvej 2C, 1",8450, Hammel,5583875 ,03-11-1997,Alm. Salg,80,69798,3,1910,
-710,Ejerlejlighed,Nørrevangsvej 2B,8450, Hammel,5583875 ,03-11-1997,Alm. Salg,61,91539,2,1910,
-710,Ejerlejlighed,"Nørrevangsvej 2A, 2. tv",8450, Hammel,5583875 ,03-11-1997,Alm. Salg,38,146944,2,1910,
-710,Ejerlejlighed,"Nørrevangsvej 2C, 2",8450, Hammel,5583875 ,03-11-1997,Alm. Salg,55,101525,2,1910,
-710,Ejerlejlighed,"Nørrevangsvej 2A, 2. th",8450, Hammel,5583875 ,03-11-1997,Alm. Salg,44,126906,2,1910,
-710,Ejerlejlighed,"Nørrevangsvej 2A, 1. th",8450, Hammel,5583875 ,03-11-1997,Alm. Salg,46,121389,2,1910,
-710,Ejerlejlighed,"Nørrevangsvej 2A, 1. tv",8450, Hammel,5583875 ,03-11-1997,Alm. Salg,46,121389,2,1910,
-710,Ejerlejlighed,"Nørrevangsvej 2D, 1. tv",8450, Hammel,5583875 ,03-11-1997,Alm. Salg,77,72518,3,1910,
-710,Ejerlejlighed,"Nørrevangsvej 2D, 1. th",8450, Hammel,5583875 ,03-11-1997,Alm. Salg,71,78646,3,1910,
 710,Villa,Hammelvej 299,8870, Langå,550000 ,03-11-1997,Alm. Salg,146,3767,5,1900,
 710,Ejerlejlighed,"Bøgehaven 3, st. th",8370, Hadsten,430000 ,01-11-1997,Alm. Salg,75,5733,3,1880,
 710,Rækkehus,Sofienlundparken 71,8860, Ulstrup,510000 ,31-10-1997,Alm. Salg,70,7286,3,1985,
@@ -19711,8 +19545,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Villa,Nyvangsvej 7,8860, Ulstrup,430000 ,21-05-1997,Alm. Salg,155,2774,6,1957,
 710,Villa,Knudstrupvej 22,8870, Langå,773000 ,21-05-1997,Alm. Salg,190,4068,5,1917,
 710,Villa,Astrup Skovvej 6,8370, Hadsten,150000 ,21-05-1997,Andet,162,926,3,2006,
-710,Ejerlejlighed,Voermøllevej 2,8370, Hadsten,807821 ,20-05-1997,Alm. Salg,61,13243,3,1906,
-710,Ejerlejlighed,Lyngåvej 62,8370, Hadsten,807821 ,20-05-1997,Alm. Salg,164,4926,5,1906,
 710,Villa,Viborgvej 77,8450, Hammel,464640 ,20-05-1997,Alm. Salg,92,5050,4,1926,
 710,Villa,Præstevangen 12,8382, Hinnerup,325000 ,20-05-1997,Alm. Salg,147,2211,6,1998,
 710,Rækkehus,Marsvej 18B,8881, Thorsø,349583 ,19-05-1997,Alm. Salg,61,5731,2,1987,
@@ -19920,9 +19752,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Villa,Duevej 4,8382, Hinnerup,798224 ,10-03-1997,Alm. Salg,120,6652,5,1965,
 710,Villa,Jægervej 76,8450, Hammel,1020000 ,10-03-1997,Alm. Salg,129,7907,4,1989,
 710,Rækkehus,Bogfinkevej 41,8382, Hinnerup,865000 ,09-03-1997,Alm. Salg,97,8918,4,1997,
-710,Ejerlejlighed,"Hovedgaden 10, st",8860, Ulstrup,986000 ,09-03-1997,Alm. Salg,69,14290,2,1927,
-710,Ejerlejlighed,Vestergade 1B,8860, Ulstrup,986000 ,09-03-1997,Alm. Salg,62,15903,3,1927,
-710,Ejerlejlighed,Vestergade 1A,8860, Ulstrup,986000 ,09-03-1997,Alm. Salg,94,10489,3,1927,
 710,Villa,Gl Skanderborgvej 97,8472, Sporup,958347 ,09-03-1997,Alm. Salg,226,4240,6,1980,
 710,Villa,Bondestoft 5,8382, Hinnerup,379138 ,09-03-1997,Alm. Salg,124,3058,5,1888,
 710,Villa,Hesselbækvej 1,8881, Thorsø,265000 ,09-03-1997,Alm. Salg,98,2704,3,1902,
@@ -20121,14 +19950,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Villa,Filippavej 8,8382, Hinnerup,1029388 ,08-01-1997,Alm. Salg,137,7514,4,1970,
 710,Villa,Egernvej 8,8382, Hinnerup,525000 ,07-01-1997,Alm. Salg,119,4412,2,1945,
 710,Villa,Hagenstrupparken 51,8860, Ulstrup,47731 ,07-01-1997,Alm. Salg,136,351,5,1998,
-710,Ejerlejlighed,"Jernbanegade 2, st. tv",8881, Thorsø,1115000 ,05-01-1997,Alm. Salg,58,19224,2,1909,
-710,Ejerlejlighed,"Jernbanegade 2, 1. th",8881, Thorsø,1115000 ,05-01-1997,Alm. Salg,91,12253,3,1909,
-710,Ejerlejlighed,"Jernbanegade 2, st. th",8881, Thorsø,1115000 ,05-01-1997,Alm. Salg,91,12253,2,1909,
-710,Ejerlejlighed,"Jernbanegade 2, 1. tv",8881, Thorsø,1115000 ,05-01-1997,Alm. Salg,82,13598,3,1909,
-710,Ejerlejlighed,"Borggade 1, st",8881, Thorsø,1115000 ,05-01-1997,Alm. Salg,55,20273,2,1909,
-710,Ejerlejlighed,"Borggade 1, 1",8881, Thorsø,1115000 ,05-01-1997,Alm. Salg,55,20273,2,1909,
-710,Ejerlejlighed,"Borggade 1, 2. th",8881, Thorsø,1115000 ,05-01-1997,Alm. Salg,56,19911,2,1909,
-710,Ejerlejlighed,"Borggade 1, 2. tv",8881, Thorsø,1115000 ,05-01-1997,Alm. Salg,86,12965,3,1909,
 710,Villa,Hammervej 2,8860, Ulstrup,690000 ,05-01-1997,Alm. Salg,245,2816,7,1974,
 710,Villa,Bakkevej 2,8471, Sabro,1459000 ,05-01-1997,Alm. Salg,239,6105,4,1977,
 710,Villa,Tinningvej 11,8382, Hinnerup,383132 ,03-01-1997,Alm. Salg,194,1975,9,1880,
@@ -20340,7 +20161,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Villa,Røgen Hedevej 40,8472, Sporup,405000 ,09-10-1996,Alm. Salg,146,2774,7,1910,
 710,Villa,Rønvangen 35,8382, Hinnerup,1011000 ,09-10-1996,Alm. Salg,164,6165,5,1978,
 710,Villa,Landsbækvej 86,8450, Hammel,280000 ,09-10-1996,Alm. Salg,191,1466,7,2015,
-710,Rækkehus,Jernbanegade 9,8881, Thorsø,672000 ,08-10-1996,Alm. Salg,82,8195,2,1930,
 710,Villa,Tommesensvej 8,8450, Hammel,798000 ,08-10-1996,Alm. Salg,131,6092,4,1968,
 710,Villa,Ravngårdsvej 23,8370, Hadsten,308176 ,08-10-1996,Fam. Salg,238,1295,8,1909,
 710,Villa,Finlandsvej 20,8370, Hadsten,1077638 ,08-10-1996,Alm. Salg,173,6229,4,1979,
@@ -20662,7 +20482,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Villa,Nygade 11,8881, Thorsø,353401 ,14-06-1996,Alm. Salg,100,3534,4,1955,
 710,Villa,Teglværksvej 18,8860, Ulstrup,245415 ,14-06-1996,Alm. Salg,177,1387,5,1955,
 710,Villa,Møllebakken 9,8471, Sabro,144375 ,13-06-1996,Alm. Salg,159,908,5,1997,
-710,Villa,Bidstrupvej 3C,8870, Langå,1785000 ,13-06-1996,Fam. Salg,134,13321,5,1846,
 710,Villa,Eriksminde 46,8450, Hammel,88400 ,13-06-1996,Alm. Salg,116,762,4,1997,
 710,Villa,Hjaltesvej 21,8370, Hadsten,809000 ,13-06-1996,Alm. Salg,151,5358,4,1972,
 710,Ejerlejlighed,"Ravngårdsvej 30A, 1",8370, Hadsten,7300000 ,12-06-1996,Alm. Salg,100,73000,3,1911,
@@ -20717,7 +20536,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Villa,Tørvevej 9,8382, Hinnerup,750000 ,24-05-1996,Alm. Salg,192,3906,5,1916,
 710,Villa,Skovvej 9,8370, Hadsten,391000 ,22-05-1996,Fam. Salg,118,3314,4,1962,
 710,Villa,Amstrupvej 2,8860, Ulstrup,1400000 ,22-05-1996,Alm. Salg,213,6573,8,1916,
-710,Villa,Borgergade 22,8450, Hammel,500000 ,22-05-1996,Alm. Salg,89,5618,3,1935,
 710,Villa,Hammelvej 3,8370, Hadsten,634000 ,22-05-1996,Alm. Salg,125,5072,4,1963,
 710,Villa,Gl Hammelvej 48,8450, Hammel,398000 ,22-05-1996,Alm. Salg,142,2803,3,1956,
 710,Villa,Postvej 96,8382, Hinnerup,480000 ,22-05-1996,Alm. Salg,208,2308,4,1885,
@@ -20932,8 +20750,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Villa,Jeppesensalle 6,8860, Ulstrup,329000 ,03-03-1996,Alm. Salg,117,2812,3,1931,
 710,Villa,Jernaldervej 44,8382, Hinnerup,209000 ,03-03-1996,Alm. Salg,126,1659,6,1996,
 710,Rækkehus,Nyvej 6,8860, Ulstrup,474999 ,29-02-1996,Alm. Salg,73,6507,3,1989,
-710,Ejerlejlighed,Voermøllevej 2,8370, Hadsten,544000 ,29-02-1996,Alm. Salg,61,8918,3,1906,
-710,Ejerlejlighed,Lyngåvej 62,8370, Hadsten,544000 ,29-02-1996,Alm. Salg,164,3317,5,1906,
 710,Villa,Høgevænget 16,8370, Hadsten,260749 ,29-02-1996,Alm. Salg,160,1630,6,1996,
 710,Villa,Lindkjærvej 1,8370, Hadsten,250000 ,29-02-1996,Fam. Salg,136,1838,6,1911,
 710,Villa,Podøjvej 28A,8860, Ulstrup,560000 ,28-02-1996,Alm. Salg,122,4590,4,1975,
@@ -20947,8 +20763,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Villa,Fusagervej 6,8382, Hinnerup,687000 ,25-02-1996,Alm. Salg,111,6189,4,1969,
 710,Villa,Vestermarksvej 8,8450, Hammel,269000 ,25-02-1996,Alm. Salg,138,1949,6,1929,
 710,Villa,Hjortevej 29,8382, Hinnerup,690000 ,23-02-1996,Alm. Salg,136,5074,5,1971,
-710,Ejerlejlighed,Voermøllevej 2,8370, Hadsten,544000 ,22-02-1996,Alm. Salg,61,8918,3,1906,
-710,Ejerlejlighed,Lyngåvej 62,8370, Hadsten,544000 ,22-02-1996,Alm. Salg,164,3317,5,1906,
 710,Villa,Rækkevej 9,8370, Hadsten,500000 ,22-02-1996,Alm. Salg,144,3472,4,1923,
 710,Villa,Agertoften 3,8450, Hammel,645000 ,22-02-1996,Alm. Salg,178,3624,6,1978,
 710,Villa,Vestergade 5,8860, Ulstrup,579000 ,22-02-1996,Alm. Salg,190,3047,5,1927,
@@ -21220,7 +21034,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Rækkehus,Æbleparken 47,8370, Hadsten,664000 ,15-10-1995,Alm. Salg,132,5030,4,1976,
 710,Villa,Kirkeskovvej 22,8450, Hammel,291396 ,15-10-1995,Alm. Salg,152,1917,5,1800,
 710,Villa,Tuesbakkevej 11,8860, Ulstrup,450000 ,15-10-1995,Alm. Salg,120,3750,4,1844,
-710,Villa,Banealle 1A,8881, Thorsø,620000 ,15-10-1995,Alm. Salg,181,3425,6,1964,
 710,Villa,Vinterslevvej 19,8370, Hadsten,383015 ,15-10-1995,Fam. Salg,116,3302,4,1974,
 710,Villa,Over Hadstenvej 24,8370, Hadsten,898000 ,14-10-1995,Alm. Salg,197,4558,6,1970,
 710,Villa,Granslevbyvej 8,8870, Langå,170000 ,14-10-1995,Alm. Salg,80,2125,4,1877,
@@ -21723,8 +21536,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Villa,Gammel Hovvej 4,8370, Hadsten,680000 ,22-03-1995,Alm. Salg,207,3285,6,1960,
 710,Villa,Bækholmsvej 2,8382, Hinnerup,500000 ,21-03-1995,Alm. Salg,112,4464,4,1875,
 710,Rækkehus,Højgårdsvej 6A,8881, Thorsø,705500 ,20-03-1995,Fam. Salg,175,4031,3,1915,
-710,Rækkehus,Åvænget 24,8382, Hinnerup,440000 ,19-03-1995,Alm. Salg,71,6197,3,1982,
-710,Villa,Holmelundsvej 38,8382, Hinnerup,440000 ,19-03-1995,Alm. Salg,185,2378,7,1890,
 710,Villa,Granslevbyvej 3,8870, Langå,799000 ,19-03-1995,Fam. Salg,110,4566,6,1900,
 710,Villa,Hindhøjen 92,8382, Hinnerup,235000 ,19-03-1995,Alm. Salg,198,1187,8,1996,
 710,Villa,Hovbro 13,8881, Thorsø,257000 ,17-03-1995,Alm. Salg,178,1444,4,1900,
@@ -21964,7 +21775,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Villa,Hindhøjen 84,8382, Hinnerup,225000 ,07-12-1994,Alm. Salg,173,1301,7,1995,
 710,Villa,Hammelvej 242,8870, Langå,255000 ,06-12-1994,Andet,92,2772,2,1937,
 710,Villa,Lærkevej 9,8382, Hinnerup,518500 ,06-12-1994,Fam. Salg,190,2729,8,1963,
-710,Villa,Østergade 41A,8370, Hadsten,569500 ,06-12-1994,Fam. Salg,88,6472,4,1930,
 710,Villa,Norgesvej 22,8370, Hadsten,593660 ,05-12-1994,Fam. Salg,111,5348,4,1984,
 710,Villa,Fusagervej 11,8382, Hinnerup,780000 ,05-12-1994,Alm. Salg,178,4382,5,1969,
 710,Villa,Birkevænget 8,8382, Hinnerup,1296400 ,04-12-1994,Alm. Salg,164,7905,6,1995,
@@ -22108,12 +21918,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Villa,Gråstenvej 3,8382, Hinnerup,560000 ,28-09-1994,Alm. Salg,196,2857,6,1969,
 710,Villa,Vestergade 47A,8370, Hadsten,235000 ,27-09-1994,Andet,110,2136,4,1877,
 710,Villa,Rs Brochsvej 9,8881, Thorsø,262500 ,27-09-1994,Alm. Salg,152,1727,5,1977,
-710,Ejerlejlighed,"Nørrevangsvej 1, st",8450, Hammel,1875000 ,26-09-1994,Alm. Salg,104,18029,3,1900,
-710,Ejerlejlighed,"Nørrevangsvej 1, 1",8450, Hammel,1875000 ,26-09-1994,Alm. Salg,80,23438,3,1900,
-710,Ejerlejlighed,"Østergade 25, 1. th",8450, Hammel,1875000 ,26-09-1994,Alm. Salg,66,28409,3,1927,
-710,Ejerlejlighed,"Østergade 25, 1. tv",8450, Hammel,1875000 ,26-09-1994,Alm. Salg,86,21802,3,1927,
-710,Ejerlejlighed,"Østergade 25, 2. th",8450, Hammel,1875000 ,26-09-1994,Alm. Salg,64,29297,3,1927,
-710,Ejerlejlighed,"Østergade 25, 2. tv",8450, Hammel,1875000 ,26-09-1994,Alm. Salg,66,28409,3,1927,
 710,Villa,Gl Randersvej 81,8450, Hammel,300000 ,25-09-1994,Alm. Salg,140,2143,4,1880,
 710,Villa,Tåstrupvej 24,8370, Hadsten,4141317 ,25-09-1994,Alm. Salg,236,17548,7,1860,
 710,Villa,Æbleparken 38,8370, Hadsten,555000 ,24-09-1994,Alm. Salg,100,5550,4,1964,
@@ -22751,8 +22555,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Villa,Klostergårdsvej 11,8882, Fårvang,1570000 ,17-11-1993,Alm. Salg,245,6408,6,1777,
 710,Villa,H.C.Andersens Vej 88,8370, Hadsten,500000 ,15-11-1993,Alm. Salg,96,5208,4,1980,
 710,Villa,Tybjergvej 7,8382, Hinnerup,812500 ,13-11-1993,Alm. Salg,212,3833,7,1977,
-710,Rækkehus,Hammelvej 49B,8370, Hadsten,928852 ,12-11-1993,Alm. Salg,207,4487,5,1998,
-710,Villa,Hammelvej 49A,8370, Hadsten,928852 ,12-11-1993,Alm. Salg,250,3715,7,1923,
 710,Villa,Stjerneparken 22,8382, Hinnerup,640000 ,11-11-1993,Alm. Salg,155,4129,5,1980,
 710,Villa,Rønvangen 86,8382, Hinnerup,758000 ,10-11-1993,Alm. Salg,173,4382,6,1972,
 710,Villa,Gl Hammelvej 33,8450, Hammel,577000 ,06-11-1993,Alm. Salg,173,3335,5,1929,
@@ -22855,9 +22657,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Villa,Tjørnevej 1,8382, Hinnerup,398500 ,29-09-1993,Alm. Salg,109,3656,4,1945,
 710,Villa,Toustrupvej 34,8472, Sporup,352000 ,29-09-1993,Alm. Salg,175,2011,6,1900,
 710,Villa,Sallvej 24,8881, Thorsø,256000 ,29-09-1993,Alm. Salg,92,2783,4,1953,
-710,Rækkehus,Rørsangervej 54,8382, Hinnerup,625000 ,28-09-1993,Alm. Salg,113,5531,5,1989,
 710,Villa,Ørnevænget 10,8370, Hadsten,198606 ,28-09-1993,Alm. Salg,149,1333,5,1994,
-710,Villa,Fredensgade 24,8382, Hinnerup,625000 ,28-09-1993,Alm. Salg,105,5952,3,1922,
 710,Villa,Vesterled 6,8870, Langå,130419 ,27-09-1993,Alm. Salg,186,701,5,1962,
 710,Villa,Lerbjergvej 3,8370, Hadsten,260000 ,27-09-1993,Alm. Salg,82,3171,3,1892,
 710,Villa,Rønvangen 310,8382, Hinnerup,992323 ,27-09-1993,Alm. Salg,186,5335,6,1986,
@@ -22874,7 +22674,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Villa,Præstemarksvej 38,8450, Hammel,627500 ,21-09-1993,Alm. Salg,112,5603,4,1977,
 710,Villa,Kildevangen 47,8382, Hinnerup,1070000 ,21-09-1993,Alm. Salg,140,7643,4,1981,
 710,Villa,Grønhøjvej 10,8450, Hammel,836000 ,21-09-1993,Fam. Salg,164,5098,7,1964,
-710,Villa,Rolighedsvej 8,8881, Thorsø,2425000 ,20-09-1993,Alm. Salg,99,24495,4,1927,
 710,Villa,Gl Randersvej 54,8450, Hammel,538000 ,20-09-1993,Alm. Salg,132,4076,6,1948,
 710,Rækkehus,Marsvej 18A,8881, Thorsø,214000 ,19-09-1993,Alm. Salg,61,3508,2,1987,
 710,Villa,Violvej 12,8370, Hadsten,475000 ,19-09-1993,Alm. Salg,135,3519,4,1913,
@@ -22917,10 +22716,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Villa,Vibevej 6,8860, Ulstrup,385000 ,30-08-1993,Alm. Salg,180,2139,5,1962,
 710,Villa,Postvej 81,8382, Hinnerup,418000 ,30-08-1993,Alm. Salg,89,4697,3,1942,
 710,Villa,Overgårdsvej 57,8881, Thorsø,235000 ,30-08-1993,Alm. Salg,206,1141,7,1939,
-710,Ejerlejlighed,"Nørreport 1, 1. th",8450, Hammel,5000000 ,29-08-1993,Alm. Salg,88,56818,2,1989,
-710,Ejerlejlighed,"Østergade 1A, 1. mf",8450, Hammel,5000000 ,29-08-1993,Alm. Salg,75,66667,2,1989,
-710,Ejerlejlighed,"Østergade 1A, 1. th",8450, Hammel,5000000 ,29-08-1993,Alm. Salg,105,47619,2,1989,
-710,Ejerlejlighed,"Østergade 1A, 1. tv",8450, Hammel,5000000 ,29-08-1993,Alm. Salg,59,84746,2,1989,
 710,Villa,Mejlbyvej 33,8370, Hadsten,625000 ,29-08-1993,Alm. Salg,171,3655,5,1857,
 710,Villa,Viborgvej 930,8471, Sabro,15000000 ,29-08-1993,Alm. Salg,203,73892,6,1934,
 710,Villa,Nørregade 69,8382, Hinnerup,371902 ,28-08-1993,Alm. Salg,184,2021,6,1959,
@@ -23497,11 +23292,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Villa,Vesterskovvej 32,8370, Hadsten,510000 ,24-08-1992,Alm. Salg,108,4722,4,1969,
 710,Villa,Kirkegade 50,8881, Thorsø,667000 ,23-08-1992,Alm. Salg,229,2913,7,1970,
 710,Villa,Violvej 8,8881, Thorsø,638000 ,23-08-1992,Alm. Salg,137,4657,5,1975,
-710,Rækkehus,Jernbanegade 18B,8881, Thorsø,168000 ,20-08-1992,Alm. Salg,65,2585,2,1908,
 710,Villa,Møllegyden 2,8870, Langå,160000 ,20-08-1992,Alm. Salg,102,1569,3,1900,
 710,Villa,Røddikvej 140,8472, Sporup,642000 ,20-08-1992,Alm. Salg,162,3963,4,1852,
 710,Villa,Sall Hedevej 35,8450, Hammel,605000 ,20-08-1992,Alm. Salg,161,3758,5,2015,
-710,Villa,Jernbanegade 18A,8881, Thorsø,168000 ,20-08-1992,Alm. Salg,51,3294,2,1908,
 710,Villa,Thiesensvej 6,8382, Hinnerup,810000 ,19-08-1992,Alm. Salg,223,3632,6,1967,
 710,Villa,Sverigesvej 5,8370, Hadsten,585000 ,18-08-1992,Alm. Salg,195,3000,8,1985,
 710,Villa,Sjellevej 8,8450, Hammel,430000 ,18-08-1992,Alm. Salg,97,4433,3,1957,
@@ -23583,9 +23376,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Villa,Møllevangen 11,8382, Hinnerup,560000 ,29-06-1992,Fam. Salg,140,4000,5,1965,
 710,Villa,Postvej 80,8382, Hinnerup,445000 ,29-06-1992,Alm. Salg,213,2089,7,1880,
 710,Villa,Delingen 8,8881, Thorsø,935000 ,29-06-1992,Alm. Salg,146,6404,3,1888,
-710,Ejerlejlighed,"Hovedgaden 10, st",8860, Ulstrup,1491000 ,28-06-1992,Auktion,69,21609,2,1927,
-710,Ejerlejlighed,Vestergade 1B,8860, Ulstrup,1491000 ,28-06-1992,Auktion,62,24048,3,1927,
-710,Ejerlejlighed,Vestergade 1A,8860, Ulstrup,1491000 ,28-06-1992,Auktion,94,15862,3,1927,
 710,Villa,Skovvej 5,8860, Ulstrup,200000 ,28-06-1992,Alm. Salg,59,3390,3,1950,
 710,Villa,Rønvangen 74,8382, Hinnerup,780000 ,28-06-1992,Fam. Salg,161,4845,6,1973,
 710,Rækkehus,Marsvej 16B,8881, Thorsø,500000 ,25-06-1992,Alm. Salg,72,6944,3,1990,
@@ -23628,9 +23418,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Villa,Vittenvej 95,8382, Hinnerup,465000 ,10-06-1992,Fam. Salg,155,3000,6,2001,
 710,Villa,Erslevvej 20,8370, Hadsten,320000 ,10-06-1992,Alm. Salg,187,1711,6,1877,
 710,Villa,Gelbrovej 6,8870, Langå,157230 ,10-06-1992,Alm. Salg,85,1850,4,1887,
-710,Rækkehus,Galten Hedevej 13A,8370, Hadsten,1140000 ,09-06-1992,Alm. Salg,75,15200,2,1910,
 710,Villa,Bavnehøjvej 140,8370, Hadsten,315000 ,09-06-1992,Alm. Salg,161,1957,3,1880,
-710,Villa,Galten Hedevej 13,8370, Hadsten,1140000 ,09-06-1992,Alm. Salg,261,4368,7,1827,
 710,Villa,Miravej 8,8382, Hinnerup,440000 ,09-06-1992,Alm. Salg,138,3188,5,1975,
 710,Rækkehus,Hagenstrupparken 52D,8860, Ulstrup,390000 ,08-06-1992,Alm. Salg,69,5652,3,1987,
 710,Villa,Bregnevej 2,8370, Hadsten,470000 ,08-06-1992,Alm. Salg,170,2765,6,1935,
@@ -23683,10 +23471,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Villa,Egevænget 62,8382, Hinnerup,569000 ,19-05-1992,Alm. Salg,117,4863,4,1984,
 710,Villa,Kongensbrovej 3,8881, Thorsø,371020 ,19-05-1992,Alm. Salg,110,3373,3,1900,
 710,Rækkehus,Elgårdsvej 10,8370, Hadsten,203000 ,18-05-1992,Alm. Salg,82,2476,3,1777,
-710,Ejerlejlighed,"Nørreport 1, 1. th",8450, Hammel,1172561 ,18-05-1992,Alm. Salg,88,13325,2,1989,
-710,Ejerlejlighed,"Østergade 1A, 1. mf",8450, Hammel,1172561 ,18-05-1992,Alm. Salg,75,15634,2,1989,
-710,Ejerlejlighed,"Østergade 1A, 1. th",8450, Hammel,1172561 ,18-05-1992,Alm. Salg,105,11167,2,1989,
-710,Ejerlejlighed,"Østergade 1A, 1. tv",8450, Hammel,1172561 ,18-05-1992,Alm. Salg,59,19874,2,1989,
 710,Villa,Ravngårdsvej 2,8370, Hadsten,290000 ,18-05-1992,Alm. Salg,147,1973,7,1963,
 710,Villa,Kildevangen 16,8382, Hinnerup,750000 ,18-05-1992,Alm. Salg,130,5769,4,1977,
 710,Villa,Toustrupvej 25,8472, Sporup,460000 ,18-05-1992,Alm. Salg,143,3217,7,1877,
@@ -23982,7 +23766,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Villa,Hjaltesvej 47,8370, Hadsten,830000 ,21-01-1992,Fam. Salg,168,4940,5,1973,
 710,Villa,Danasvej 12,8450, Hammel,440000 ,20-01-1992,Alm. Salg,114,3860,5,1932,
 710,Villa,Østervangsvej 6,8450, Hammel,415000 ,20-01-1992,Alm. Salg,90,4611,4,1958,
-710,Rækkehus,Graven 3B,8471, Sabro,608000 ,19-01-1992,Alm. Salg,84,7238,2,1980,
 710,Villa,Fyrrebakken 6,8450, Hammel,575000 ,19-01-1992,Alm. Salg,155,3710,5,1968,
 710,Villa,Birkevej 10,8450, Hammel,500000 ,19-01-1992,Alm. Salg,71,7042,4,1951,
 710,Villa,Skovbakkevej 8,8860, Ulstrup,675000 ,19-01-1992,Alm. Salg,216,3125,6,1965,
@@ -23991,7 +23774,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 710,Villa,Hammelvej 186,8870, Langå,350000 ,19-01-1992,Alm. Salg,170,2059,5,1960,
 710,Villa,Kløvervej 44,8382, Hinnerup,590000 ,19-01-1992,Alm. Salg,116,5086,4,1971,
 710,Villa,Vestermarksvej 65,8881, Thorsø,545000 ,19-01-1992,Alm. Salg,150,3633,5,1942,
-710,Villa,Graven 3,8471, Sabro,608000 ,19-01-1992,Alm. Salg,195,3118,6,1980,
 710,Villa,Tinningvej 22,8382, Hinnerup,784493 ,19-01-1992,Alm. Salg,237,3310,7,1900,
 710,Villa,Daugbjergvej 6,8860, Ulstrup,300000 ,19-01-1992,Alm. Salg,93,3226,2,1958,
 710,Villa,Møllevangen 9,8450, Hammel,850000 ,17-01-1992,Alm. Salg,179,4749,5,1973,

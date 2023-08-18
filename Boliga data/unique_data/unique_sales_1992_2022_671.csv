@@ -81,9 +81,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 671,Villa,Kløvervænget 2,7790, Thyholm,425100 ,13-09-2022,Auktion,158,2691,4,1968,-55%
 671,Villa,Park Alle 80,7600, Struer,1200000 ,12-09-2022,Alm. Salg,143,8392,4,1976,-14%
 671,Villa,Torvegade 18,7600, Struer,1200000 ,11-09-2022,Alm. Salg,227,5286,9,1916,-7%
-671,Ejerlejlighed,"Østergade 1, 2",7600, Struer,150000 ,07-09-2022,Alm. Salg,163,920,5,1880,
-671,Ejerlejlighed,"Østergade 1, 1",7600, Struer,150000 ,07-09-2022,Alm. Salg,182,824,4,1880,
-671,Ejerlejlighed,"Rådhusstræde 6, 1",7600, Struer,150000 ,07-09-2022,Alm. Salg,92,1630,4,1958,
 671,Ejerlejlighed,"Nørmarkvej 29, 1. 12",7600, Struer,245000 ,05-09-2022,Alm. Salg,57,4298,2,1967,-8%
 671,Villa,Ternevej 1,7790, Thyholm,300000 ,31-08-2022,Alm. Salg,151,1987,6,1895,
 671,Rækkehus,Kirkegade 19A,7600, Struer,515000 ,30-08-2022,Alm. Salg,135,3815,5,1911,-6%
@@ -610,9 +607,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 671,Villa,Park Alle 40,7600, Struer,1250000 ,23-03-2021,Alm. Salg,163,7669,6,1977,-3%
 671,Villa,Glentevej 14,7600, Struer,3800000 ,23-03-2021,Alm. Salg,237,16034,7,1989,
 671,Villa,Møllegade 3,7790, Thyholm,285000 ,23-03-2021,Auktion,130,2192,4,1969,
-671,Rækkehus,Rosenbjerg 6,7600, Struer,750000 ,22-03-2021,Alm. Salg,97,7732,3,1986,-6%
 671,Rækkehus,Skolevej 24,7560, Hjerm,1125000 ,22-03-2021,Alm. Salg,92,12228,3,2007,
-671,Villa,Klitten 12,7600, Struer,750000 ,22-03-2021,Alm. Salg,75,10000,5,1928,-6%
 671,Villa,Stentofterne 245,7600, Struer,1795000 ,21-03-2021,Alm. Salg,136,13199,5,1999,
 671,Villa,Strandvejen 20,7600, Struer,3550000 ,21-03-2021,Alm. Salg,181,19613,4,2011,-6%
 671,Villa,Møllevangsvej 6,7560, Hjerm,1050000 ,15-03-2021,Alm. Salg,180,5833,7,1884,
@@ -958,9 +953,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 671,Villa,Vossevangen 9,7600, Struer,230000 ,20-04-2020,Alm. Salg,223,987,5,0,-18%
 671,Villa,Haubovænget 1,7560, Hjerm,1325000 ,20-04-2020,Alm. Salg,120,11042,5,2003,
 671,Villa,Østergade 25,7790, Thyholm,1740000 ,20-04-2020,Andet,82,21220,3,1959,
-671,Ejerlejlighed,"Østergade 1, 2",7600, Struer,100000 ,19-04-2020,Alm. Salg,163,613,5,1880,
-671,Ejerlejlighed,"Østergade 1, 1",7600, Struer,100000 ,19-04-2020,Alm. Salg,182,549,4,1880,
-671,Ejerlejlighed,"Rådhusstræde 6, 1",7600, Struer,100000 ,19-04-2020,Alm. Salg,92,1087,4,1958,
 671,Villa,Tårngade 37,7600, Struer,1100000 ,19-04-2020,Alm. Salg,203,5419,5,1964,-8%
 671,Villa,Siriusvej 9,7790, Thyholm,250000 ,19-04-2020,Alm. Salg,125,2000,5,1978,-16%
 671,Villa,Bøhlvej 14,7790, Thyholm,725000 ,16-04-2020,Alm. Salg,161,4503,6,1956,
@@ -1084,10 +1076,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 671,Villa,Skrænten 23,7600, Struer,1175000 ,17-11-2019,Alm. Salg,125,9400,4,1967,-9%
 671,Villa,Park Alle 115,7600, Struer,950000 ,13-11-2019,Alm. Salg,124,7661,5,1969,-5%
 671,Villa,Dalgårdsvej 20,7600, Struer,375000 ,13-11-2019,Andet,102,3676,3,1965,
-671,Ejerlejlighed,"Skolegade 18, st",7600, Struer,2050000 ,12-11-2019,Alm. Salg,104,19712,4,1931,
-671,Ejerlejlighed,"Skolegade 18, 1",7600, Struer,2050000 ,12-11-2019,Alm. Salg,104,19712,3,1931,
-671,Ejerlejlighed,"Skolegade 18, 2",7600, Struer,2050000 ,12-11-2019,Alm. Salg,80,25625,3,1931,
-671,Ejerlejlighed,Bjerggade 17,7600, Struer,2050000 ,12-11-2019,Alm. Salg,66,31061,2,1931,
 671,Villa,Klosterhedevej 47,7600, Struer,75000 ,11-11-2019,Alm. Salg,74,1014,3,1873,-57%
 671,Villa,Østergade 22,7790, Thyholm,500000 ,10-11-2019,Alm. Salg,169,2959,6,1965,-13%
 671,Villa,Bautastenen 9,7600, Struer,1300000 ,08-11-2019,Alm. Salg,176,7386,4,1970,-7%
@@ -1123,7 +1111,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 671,Ejerlejlighed,"Reberbanen 11, 1. 33",7600, Struer,94000 ,08-10-2019,Alm. Salg,31,3032,1,1971,
 671,Villa,Fjordglimt 5,7790, Thyholm,440000 ,08-10-2019,Alm. Salg,90,4889,3,1967,-11%
 671,Villa,Kjelding Høj 37A,7600, Struer,253640 ,08-10-2019,Alm. Salg,145,1749,5,2020,
-671,Rækkehus,"Reberbanen 9, st. 27",7600, Struer,20308044 ,07-10-2019,Andet,64,317313,2,1989,
 671,Villa,Danmarksgade 30B,7600, Struer,2560000 ,07-10-2019,Alm. Salg,220,11636,8,1883,-15%
 671,Ejerlejlighed,"Enggade 2, 1",7600, Struer,723000 ,06-10-2019,Alm. Salg,83,8711,2,1907,-4%
 671,Rækkehus,Nordvestvej 14,7600, Struer,375000 ,03-10-2019,Alm. Salg,98,3827,4,1911,
@@ -1149,18 +1136,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 671,Villa,Kirketoft 97,7600, Struer,1750000 ,09-09-2019,Alm. Salg,139,12590,4,2013,-6%
 671,Villa,"Vesterbrogade 8, st",7600, Struer,475000 ,08-09-2019,Alm. Salg,261,1820,6,1976,-36%
 671,Villa,Sembvej 3,7790, Thyholm,700000 ,05-09-2019,Alm. Salg,170,2071,11,1857,-30%
-671,Ejerlejlighed,"Holstebrovej 36, st. th",7600, Struer,3150000 ,04-09-2019,Alm. Salg,76,41447,2,1890,
-671,Ejerlejlighed,"Holstebrovej 36, 1. th",7600, Struer,3150000 ,04-09-2019,Alm. Salg,76,41447,2,1890,
-671,Ejerlejlighed,"Holstebrovej 36, st. tv",7600, Struer,3150000 ,04-09-2019,Alm. Salg,76,41447,2,1890,
-671,Ejerlejlighed,"Holstebrovej 36, 1. tv",7600, Struer,3150000 ,04-09-2019,Alm. Salg,76,41447,2,1890,
-671,Ejerlejlighed,"Holstebrovej 36, 2. 1",7600, Struer,3150000 ,04-09-2019,Alm. Salg,31,101613,1,1890,
-671,Ejerlejlighed,"Holstebrovej 36, 2. 2",7600, Struer,3150000 ,04-09-2019,Alm. Salg,29,108621,1,1890,
-671,Ejerlejlighed,"Holstebrovej 36, 2. 3",7600, Struer,3150000 ,04-09-2019,Alm. Salg,31,101613,1,1890,
-671,Ejerlejlighed,"Holstebrovej 36, 2. 4",7600, Struer,3150000 ,04-09-2019,Alm. Salg,35,90000,1,1890,
-671,Ejerlejlighed,"Ølbyvej 2A, st. tv",7600, Struer,3150000 ,04-09-2019,Alm. Salg,71,44366,2,1890,
-671,Ejerlejlighed,"Ølbyvej 2A, 1. tv",7600, Struer,3150000 ,04-09-2019,Alm. Salg,61,51639,2,1890,
-671,Ejerlejlighed,"Ølbyvej 2A, 1. th",7600, Struer,3150000 ,04-09-2019,Alm. Salg,74,42568,2,1890,
-671,Ejerlejlighed,"Ølbyvej 2A, st. th",7600, Struer,3150000 ,04-09-2019,Alm. Salg,74,42568,2,1890,
 671,Villa,Sneppevej 33,7600, Struer,3000000 ,02-09-2019,Alm. Salg,177,16949,4,1999,
 671,Villa,Grønningen 2,7600, Struer,850000 ,01-09-2019,Alm. Salg,146,5822,5,1968,
 671,Ejerlejlighed,"Elmevej 2, 1. 12",7600, Struer,199000 ,29-08-2019,Alm. Salg,92,2163,4,1970,
@@ -1228,14 +1203,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 671,Villa,Fjordvejen 47,7600, Struer,840000 ,11-06-2019,Auktion,126,6667,4,1954,
 671,Ejerlejlighed,Østre Hovedgade 22B,7560, Hjerm,300000 ,10-06-2019,Alm. Salg,132,2273,2,1931,
 671,Rækkehus,Søndergade 31F,7600, Struer,650000 ,05-06-2019,Alm. Salg,95,6842,3,1986,-18%
-671,Ejerlejlighed,"Kløvenhøj 27, st. tv",7600, Struer,225000 ,30-05-2019,Alm. Salg,95,2368,4,1910,
-671,Ejerlejlighed,"Kløvenhøj 27, st. th",7600, Struer,225000 ,30-05-2019,Alm. Salg,135,1667,6,1910,
-671,Ejerlejlighed,"Holstebrovej 46, kl. th",7600, Struer,225000 ,30-05-2019,Alm. Salg,15,15000,1,1902,
-671,Ejerlejlighed,"Holstebrovej 46, st. th",7600, Struer,225000 ,30-05-2019,Alm. Salg,65,3462,2,1902,
-671,Ejerlejlighed,"Holstebrovej 46, st. tv",7600, Struer,225000 ,30-05-2019,Alm. Salg,55,4091,2,1902,
-671,Ejerlejlighed,"Holstebrovej 46, 1. th",7600, Struer,225000 ,30-05-2019,Alm. Salg,45,5000,2,1902,
-671,Ejerlejlighed,"Holstebrovej 46, 1. tv",7600, Struer,225000 ,30-05-2019,Alm. Salg,39,5769,2,1902,
-671,Ejerlejlighed,"Holstebrovej 46, kl. tv",7600, Struer,225000 ,30-05-2019,Alm. Salg,40,5625,2,1902,
 671,Villa,Peter Bangs Vej 19,7600, Struer,800000 ,30-05-2019,Alm. Salg,174,4598,4,1953,
 671,Villa,Kilenvej 12,7600, Struer,1005000 ,29-05-2019,Alm. Salg,170,5912,7,1900,-16%
 671,Villa,Saltholm 3,7600, Struer,715000 ,28-05-2019,Alm. Salg,124,5766,3,1970,
@@ -1380,9 +1347,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 671,Villa,Riisvej 10,7600, Struer,700000 ,15-12-2018,Alm. Salg,200,3500,6,1982,
 671,Ejerlejlighed,"Nørmarkvej 29, st. 9",7600, Struer,50000 ,12-12-2018,Alm. Salg,49,1020,2,1967,
 671,Villa,Bjørndalvej 6,7790, Thyholm,90000 ,11-12-2018,Auktion,104,865,4,1947,
-671,Ejerlejlighed,"Østergade 1, 2",7600, Struer,1250000 ,08-12-2018,Alm. Salg,163,7669,5,1880,
-671,Ejerlejlighed,"Østergade 1, 1",7600, Struer,1250000 ,08-12-2018,Alm. Salg,182,6868,4,1880,
-671,Ejerlejlighed,"Rådhusstræde 6, 1",7600, Struer,1250000 ,08-12-2018,Alm. Salg,92,13587,4,1958,
 671,Villa,Tingvej 8,7600, Struer,430000 ,05-12-2018,Andet,154,2792,3,1948,-57%
 671,Villa,Orionsgade 6,7790, Thyholm,11000 ,04-12-2018,Auktion,129,85,5,1900,
 671,Villa,Stentofterne 315,7600, Struer,910000 ,01-12-2018,Alm. Salg,115,7913,4,1984,-9%
@@ -1605,8 +1569,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 671,Villa,Peter Bangs Vej 78,7600, Struer,550000 ,20-02-2018,Alm. Salg,90,6111,3,1966,-15%
 671,Villa,Lundgaardsparken 120,7600, Struer,995000 ,19-02-2018,Alm. Salg,130,7654,4,1975,-17%
 671,Villa,Anemonevej 29,7600, Struer,750000 ,14-02-2018,Alm. Salg,139,5396,6,1960,-6%
-671,Ejerlejlighed,"Bredgade 9, 2",7600, Struer,3300000 ,11-02-2018,Alm. Salg,145,22759,4,1953,
-671,Ejerlejlighed,"Tegltorvet 3, 2",7600, Struer,3300000 ,11-02-2018,Alm. Salg,166,19880,4,1953,
 671,Villa,Polarisvej 9,7790, Thyholm,650000 ,11-02-2018,Alm. Salg,143,4545,6,1957,
 671,Villa,Møllevænget 19,7790, Thyholm,408000 ,11-02-2018,Alm. Salg,240,1700,6,1977,-37%
 671,Villa,Kjelding Høj 6,7600, Struer,305994 ,11-02-2018,Alm. Salg,294,1041,7,2018,
@@ -1815,9 +1777,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 671,Villa,Skivevej 147A,7500, Holstebro,1300000 ,21-05-2017,Alm. Salg,234,5556,9,1925,
 671,Villa,Vibevej 15,7600, Struer,450000 ,20-05-2017,Alm. Salg,100,4500,2,1964,
 671,Villa,Kongevejen 16,7790, Thyholm,515000 ,17-05-2017,Alm. Salg,176,2926,6,1907,-6%
-671,Ejerlejlighed,"Østergade 1, 2",7600, Struer,2495000 ,16-05-2017,Alm. Salg,163,15307,5,1880,
-671,Ejerlejlighed,"Østergade 1, 1",7600, Struer,2495000 ,16-05-2017,Alm. Salg,182,13709,4,1880,
-671,Ejerlejlighed,"Rådhusstræde 6, 1",7600, Struer,2495000 ,16-05-2017,Alm. Salg,92,27120,4,1958,
 671,Villa,Vestre Hovedgade 12,7560, Hjerm,1095000 ,15-05-2017,Alm. Salg,120,9125,5,1898,
 671,Villa,Södertäljevej 15,7600, Struer,1550000 ,14-05-2017,Alm. Salg,170,9118,5,1972,-3%
 671,Villa,Nylandsvej 11,7790, Thyholm,755000 ,09-05-2017,Alm. Salg,177,4266,6,1935,-5%
@@ -1924,9 +1883,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 671,Villa,Møllemarken 1,7600, Struer,545000 ,13-12-2016,Alm. Salg,142,3838,5,1984,-9%
 671,Villa,Strandbjerggårdparken 28,7600, Struer,1127570 ,13-12-2016,Fam. Salg,162,6960,6,2007,
 671,Villa,Allegade 8,7600, Struer,775000 ,11-12-2016,Alm. Salg,94,8245,5,1947,-3%
-671,Ejerlejlighed,"Østergade 1, 2",7600, Struer,111000 ,08-12-2016,Alm. Salg,163,681,5,1880,
-671,Ejerlejlighed,"Østergade 1, 1",7600, Struer,111000 ,08-12-2016,Alm. Salg,182,610,4,1880,
-671,Ejerlejlighed,"Rådhusstræde 6, 1",7600, Struer,111000 ,08-12-2016,Alm. Salg,92,1207,4,1958,
 671,Villa,Tambogade 6,7790, Thyholm,1050000 ,08-12-2016,Alm. Salg,285,3684,6,2019,-34%
 671,Villa,Gl Bremdalvej 4,7600, Struer,532500 ,08-12-2016,Alm. Salg,182,2926,6,1961,
 671,Villa,Møllevangsvej 9,7560, Hjerm,189218 ,07-12-2016,Auktion,176,1075,4,1900,
@@ -2128,26 +2084,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 671,Villa,Kimingen 14,7600, Struer,2300000 ,04-02-2016,Alm. Salg,169,13609,6,1922,5%
 671,Villa,"Dalgårdsvej 31, 1",7600, Struer,2068132 ,04-02-2016,Alm. Salg,329,6286,9,1952,
 671,Villa,Aavej 8,7790, Thyholm,210000 ,03-02-2016,Alm. Salg,90,2333,4,1905,-18%
-671,Ejerlejlighed,"Bryggergade 2, st. th",7600, Struer,10000000 ,02-02-2016,Alm. Salg,77,129870,3,1930,
-671,Ejerlejlighed,"Bryggergade 2, st. tv",7600, Struer,10000000 ,02-02-2016,Alm. Salg,55,181818,2,1930,
-671,Ejerlejlighed,"Bryggergade 2, 1. th",7600, Struer,10000000 ,02-02-2016,Alm. Salg,65,153846,3,1930,
-671,Ejerlejlighed,"Bryggergade 2, 1. tv",7600, Struer,10000000 ,02-02-2016,Alm. Salg,65,153846,3,1930,
-671,Ejerlejlighed,"Bryggergade 2, 2. th",7600, Struer,10000000 ,02-02-2016,Alm. Salg,53,188679,2,1930,
-671,Ejerlejlighed,"Bryggergade 2, 2. tv",7600, Struer,10000000 ,02-02-2016,Alm. Salg,53,188679,2,1930,
-671,Ejerlejlighed,"Søndergade 1, st. tv",7600, Struer,10000000 ,02-02-2016,Alm. Salg,83,120482,2,1930,
-671,Ejerlejlighed,"Søndergade 1, 2. th",7600, Struer,10000000 ,02-02-2016,Alm. Salg,52,192308,2,1930,
-671,Ejerlejlighed,"Søndergade 1, 3. th",7600, Struer,10000000 ,02-02-2016,Alm. Salg,52,192308,2,1930,
-671,Ejerlejlighed,"Digmanns Torv 1, 1. th",7600, Struer,10000000 ,02-02-2016,Alm. Salg,102,98039,3,1930,
-671,Ejerlejlighed,"Digmanns Torv 1, 1. tv",7600, Struer,10000000 ,02-02-2016,Alm. Salg,105,95238,3,1930,
-671,Ejerlejlighed,"Digmanns Torv 1, 2. tv",7600, Struer,10000000 ,02-02-2016,Alm. Salg,108,92593,3,1930,
-671,Ejerlejlighed,"Digmanns Torv 1, 3. th",7600, Struer,10000000 ,02-02-2016,Alm. Salg,117,85470,4,1930,
-671,Ejerlejlighed,"Digmanns Torv 1, 3. tv",7600, Struer,10000000 ,02-02-2016,Alm. Salg,108,92593,3,1930,
-671,Ejerlejlighed,"Digmanns Torv 1, 2. th",7600, Struer,10000000 ,02-02-2016,Alm. Salg,129,77519,4,1930,
-671,Ejerlejlighed,"Søndergade 1, st. th",7600, Struer,10000000 ,02-02-2016,Alm. Salg,52,192308,2,1930,
-671,Ejerlejlighed,"Søndergade 1, 1. th",7600, Struer,10000000 ,02-02-2016,Alm. Salg,52,192308,2,1930,
-671,Ejerlejlighed,"Søndergade 1, 1. tv",7600, Struer,10000000 ,02-02-2016,Alm. Salg,112,89286,4,1930,
-671,Ejerlejlighed,"Søndergade 1, 2. tv",7600, Struer,10000000 ,02-02-2016,Alm. Salg,83,120482,2,1930,
-671,Ejerlejlighed,"Søndergade 1, 3. tv",7600, Struer,10000000 ,02-02-2016,Alm. Salg,83,120482,3,1930,
 671,Villa,Nygade 11,7600, Struer,450000 ,02-02-2016,Alm. Salg,130,3462,6,1913,-18%
 671,Villa,Bredgade 19,7600, Struer,775000 ,31-01-2016,Alm. Salg,117,6624,3,1953,-22%
 671,Villa,Fjordvejen 18,7600, Struer,760000 ,28-01-2016,Alm. Salg,92,8261,2,1960,-4%
@@ -2380,8 +2316,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 671,Villa,Hovvej 3,7600, Struer,570000 ,03-02-2015,Alm. Salg,181,3149,4,1928,-4%
 671,Villa,Hovedvejen 96,7790, Thyholm,25000 ,02-02-2015,Alm. Salg,110,227,5,1908,
 671,Villa,Park Alle 23,7600, Struer,680000 ,30-01-2015,Alm. Salg,108,6296,4,1967,-2%
-671,Ejerlejlighed,Kongevejen 86,7790, Thyholm,850000 ,29-01-2015,Andet,676,1257,31,2005,
-671,Rækkehus,"Kongevejen 86, 1",7790, Thyholm,850000 ,29-01-2015,Andet,121,7025,4,1962,
 671,Villa,Kalkværksvej 1,7790, Thyholm,451182 ,29-01-2015,Andet,170,2654,4,1909,-62%
 671,Villa,Hovedvejen 102,7790, Thyholm,1100000 ,29-01-2015,Alm. Salg,162,6790,5,1877,-8%
 671,Ejerlejlighed,"Smedegade 2, 6. th",7600, Struer,1200000 ,28-01-2015,Alm. Salg,82,14634,2,2006,
@@ -2429,18 +2363,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 671,Villa,Søndergade 43,7600, Struer,1200000 ,19-11-2014,Alm. Salg,150,8000,4,1922,-7%
 671,Villa,Bjerregårdsparken 70,7560, Hjerm,795000 ,19-11-2014,Alm. Salg,133,5977,5,1979,-11%
 671,Villa,Østre Hovedgade 35,7560, Hjerm,440000 ,19-11-2014,Alm. Salg,128,3438,4,1937,
-671,Ejerlejlighed,"Holstebrovej 36, st. th",7600, Struer,1500000 ,18-11-2014,Alm. Salg,76,19737,2,1890,
-671,Ejerlejlighed,"Holstebrovej 36, 1. th",7600, Struer,1500000 ,18-11-2014,Alm. Salg,76,19737,2,1890,
-671,Ejerlejlighed,"Holstebrovej 36, st. tv",7600, Struer,1500000 ,18-11-2014,Alm. Salg,76,19737,2,1890,
-671,Ejerlejlighed,"Holstebrovej 36, 1. tv",7600, Struer,1500000 ,18-11-2014,Alm. Salg,76,19737,2,1890,
-671,Ejerlejlighed,"Holstebrovej 36, 2. 1",7600, Struer,1500000 ,18-11-2014,Alm. Salg,31,48387,1,1890,
-671,Ejerlejlighed,"Holstebrovej 36, 2. 2",7600, Struer,1500000 ,18-11-2014,Alm. Salg,29,51724,1,1890,
-671,Ejerlejlighed,"Holstebrovej 36, 2. 3",7600, Struer,1500000 ,18-11-2014,Alm. Salg,31,48387,1,1890,
-671,Ejerlejlighed,"Holstebrovej 36, 2. 4",7600, Struer,1500000 ,18-11-2014,Alm. Salg,35,42857,1,1890,
-671,Ejerlejlighed,"Ølbyvej 2A, st. tv",7600, Struer,1500000 ,18-11-2014,Alm. Salg,71,21127,2,1890,
-671,Ejerlejlighed,"Ølbyvej 2A, 1. tv",7600, Struer,1500000 ,18-11-2014,Alm. Salg,61,24590,2,1890,
-671,Ejerlejlighed,"Ølbyvej 2A, 1. th",7600, Struer,1500000 ,18-11-2014,Alm. Salg,74,20270,2,1890,
-671,Ejerlejlighed,"Ølbyvej 2A, st. th",7600, Struer,1500000 ,18-11-2014,Alm. Salg,74,20270,2,1890,
 671,Villa,Peter Bangs Vej 98,7600, Struer,1075000 ,18-11-2014,Alm. Salg,116,9267,4,1966,-9%
 671,Villa,Birkildvej 11,7600, Struer,1275000 ,17-11-2014,Alm. Salg,199,6407,9,1943,-2%
 671,Villa,Gimsinghøje 2A,7600, Struer,280000 ,17-11-2014,Alm. Salg,155,1806,5,2016,-25%
@@ -2561,8 +2483,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 671,Rækkehus,Sejlhusene 20,7600, Struer,3000000 ,15-04-2014,Alm. Salg,152,19737,4,2011,-9%
 671,Villa,Hedetoften 3,7600, Struer,1150000 ,15-04-2014,Alm. Salg,111,10360,4,1995,-4%
 671,Villa,Helligkildevej 25,7790, Thyholm,925000 ,13-04-2014,Alm. Salg,181,5110,7,1979,-6%
-671,Ejerlejlighed,Kongevejen 86,7790, Thyholm,850000 ,10-04-2014,Alm. Salg,676,1257,31,2005,
-671,Rækkehus,"Kongevejen 86, 1",7790, Thyholm,850000 ,10-04-2014,Alm. Salg,121,7025,4,1962,
 671,Villa,Forssavej 98,7600, Struer,520000 ,09-04-2014,Andet,135,3852,4,1977,-58%
 671,Villa,Havnevej 10,7790, Thyholm,130344 ,09-04-2014,Auktion,148,881,7,1903,
 671,Villa,Mejerivej 9,7790, Thyholm,400000 ,06-04-2014,Alm. Salg,139,2878,6,1918,
@@ -2654,9 +2574,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 671,Villa,Aspvej 18,7600, Struer,1100000 ,28-10-2013,Alm. Salg,150,7333,4,1971,-4%
 671,Villa,Vibevej 31,7600, Struer,770000 ,24-10-2013,Alm. Salg,83,9277,2,1945,-8%
 671,Ejerlejlighed,"Vestergade 30, st. tv",7600, Struer,300000 ,16-10-2013,Alm. Salg,50,6000,2,1915,-14%
-671,Ejerlejlighed,"Østergade 1, 2",7600, Struer,500000 ,16-10-2013,Auktion,163,3067,5,1880,
-671,Ejerlejlighed,"Østergade 1, 1",7600, Struer,500000 ,16-10-2013,Auktion,182,2747,4,1880,
-671,Ejerlejlighed,"Rådhusstræde 6, 1",7600, Struer,500000 ,16-10-2013,Auktion,92,5435,4,1958,
 671,Villa,Helligkildevej 9,7790, Thyholm,100000 ,16-10-2013,Alm. Salg,125,800,2,1940,
 671,Villa,Anemonevej 28,7600, Struer,825000 ,16-10-2013,Alm. Salg,110,7500,3,1962,-8%
 671,Villa,Forssavej 38,7600, Struer,1600000 ,16-10-2013,Alm. Salg,149,10738,5,1973,-6%
@@ -2730,9 +2647,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 671,Villa,Hovvej 8,7600, Struer,698000 ,06-06-2013,Alm. Salg,74,9432,2,1914,
 671,Villa,Gimsinghøje 16,7600, Struer,775000 ,05-06-2013,Fam. Salg,191,4058,9,1934,
 671,Villa,Havnefronten 12,7790, Thyholm,1500000 ,04-06-2013,Alm. Salg,128,11719,4,2007,-16%
-671,Ejerlejlighed,"Østergade 1, 2",7600, Struer,50100 ,02-06-2013,Alm. Salg,163,307,5,1880,
-671,Ejerlejlighed,"Østergade 1, 1",7600, Struer,50100 ,02-06-2013,Alm. Salg,182,275,4,1880,
-671,Ejerlejlighed,"Rådhusstræde 6, 1",7600, Struer,50100 ,02-06-2013,Alm. Salg,92,545,4,1958,
 671,Villa,Gartnervej 12,7560, Hjerm,635000 ,30-05-2013,Alm. Salg,75,8467,4,1981,-6%
 671,Villa,Ringgade 10,7600, Struer,900000 ,30-05-2013,Alm. Salg,119,7563,4,1961,-10%
 671,Ejerlejlighed,"Elmevej 4, st. 3",7600, Struer,535000 ,28-05-2013,Alm. Salg,77,6948,3,1969,
@@ -2792,9 +2706,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 671,Villa,Øster Hjermvej 4,7560, Hjerm,375772 ,15-02-2013,Alm. Salg,160,2349,4,1965,-62%
 671,Ejerlejlighed,"Strandparken 4, st. tv",7600, Struer,1095000 ,13-02-2013,Alm. Salg,133,8233,4,2007,
 671,Villa,Vinkelvej 28,7600, Struer,1175000 ,11-02-2013,Alm. Salg,118,9958,4,1965,-2%
-671,Ejerlejlighed,"Østergade 1, 2",7600, Struer,757900 ,06-02-2013,Auktion,163,4650,5,1880,
-671,Ejerlejlighed,"Østergade 1, 1",7600, Struer,757900 ,06-02-2013,Auktion,182,4164,4,1880,
-671,Ejerlejlighed,"Rådhusstræde 6, 1",7600, Struer,757900 ,06-02-2013,Auktion,92,8238,4,1958,
 671,Villa,Kirke Alle 8,7600, Struer,147418 ,06-02-2013,Auktion,190,776,6,1959,
 671,Villa,Rosenbjerg 19,7600, Struer,1350000 ,04-02-2013,Alm. Salg,179,7542,5,1976,-8%
 671,Villa,Nylandsvej 22,7790, Thyholm,425000 ,30-01-2013,Alm. Salg,132,3220,4,1964,-14%
@@ -3127,9 +3038,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 671,Villa,Tranevej 9,7600, Struer,1410000 ,24-05-2011,Alm. Salg,144,9792,5,1976,-6%
 671,Villa,Nørregade 17,7600, Struer,910000 ,23-05-2011,Alm. Salg,82,11098,3,1897,-8%
 671,Villa,Bettevej 1A,7600, Struer,391000 ,23-05-2011,Fam. Salg,78,5013,4,1903,
-671,Rækkehus,Ringgade 150,7600, Struer,950000 ,22-05-2011,Alm. Salg,116,8190,4,1950,
 671,Villa,Nørgårdvej 30,7600, Struer,1350000 ,22-05-2011,Alm. Salg,126,10714,4,1959,-8%
-671,Villa,Struerdalvej 6,7600, Struer,950000 ,22-05-2011,Alm. Salg,99,9596,4,1924,
 671,Rækkehus,Sejlhusene 32,7600, Struer,6142529 ,18-05-2011,Alm. Salg,204,30110,4,2011,
 671,Villa,Søndergade 65B,7600, Struer,440000 ,17-05-2011,Alm. Salg,95,4632,3,1967,-26%
 671,Villa,Park Alle 100,7600, Struer,647795 ,10-05-2011,Alm. Salg,179,3619,5,1975,
@@ -3147,17 +3056,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 671,Villa,Klintevej 1,7790, Thyholm,600000 ,13-04-2011,Auktion,177,3390,5,1902,-4%
 671,Rækkehus,Søndervænget 36,7790, Thyholm,510000 ,12-04-2011,Alm. Salg,104,4904,4,1973,-3%
 671,Villa,Bjerregårdsparken 130,7560, Hjerm,535345 ,12-04-2011,Alm. Salg,164,3264,8,1877,-10%
-671,Ejerlejlighed,"Danmarksgade 6, 1",7600, Struer,4500000 ,10-04-2011,Alm. Salg,109,41284,2,1906,
-671,Ejerlejlighed,"Danmarksgade 6, 2",7600, Struer,4500000 ,10-04-2011,Alm. Salg,160,28125,5,1906,
-671,Ejerlejlighed,"Danmarksgade 6, st",7600, Struer,4500000 ,10-04-2011,Alm. Salg,60,75000,2,1906,
-671,Ejerlejlighed,"Jyllandsgade 6, st. mf",7600, Struer,4500000 ,10-04-2011,Alm. Salg,62,72581,2,1906,
-671,Ejerlejlighed,Jyllandsgade 8,7600, Struer,4500000 ,10-04-2011,Alm. Salg,55,81818,2,1906,
-671,Ejerlejlighed,"Jyllandsgade 6, st. th",7600, Struer,4500000 ,10-04-2011,Alm. Salg,74,60811,2,1906,
-671,Ejerlejlighed,"Jyllandsgade 6, 1. th",7600, Struer,4500000 ,10-04-2011,Alm. Salg,88,51136,4,1906,
-671,Ejerlejlighed,"Jyllandsgade 6, st. tv",7600, Struer,4500000 ,10-04-2011,Alm. Salg,64,70313,2,1906,
-671,Ejerlejlighed,"Jyllandsgade 6, 1. tv",7600, Struer,4500000 ,10-04-2011,Alm. Salg,65,69231,2,1906,
-671,Ejerlejlighed,"Jyllandsgade 10, st",7600, Struer,4500000 ,10-04-2011,Alm. Salg,55,81818,2,1906,
-671,Ejerlejlighed,"Jyllandsgade 10, 1",7600, Struer,4500000 ,10-04-2011,Alm. Salg,58,77586,2,1906,
 671,Villa,Ørnevej 1,7600, Struer,3110000 ,10-04-2011,Alm. Salg,186,16720,4,1998,-2%
 671,Villa,Nøddehegnet 16,7600, Struer,1335000 ,05-04-2011,Alm. Salg,102,13088,3,2004,-4%
 671,Villa,Helligkildevej 21,7790, Thyholm,495000 ,04-04-2011,Alm. Salg,103,4806,5,1949,
@@ -3812,13 +3710,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 671,Villa,Kløvenhøj 10,7600, Struer,311184 ,29-09-2008,Andet,105,2964,4,1930,
 671,Villa,Stenvej 42,7600, Struer,573000 ,29-09-2008,Andet,124,4621,4,1973,
 671,Villa,Plantagevej 8,7790, Thyholm,335000 ,28-09-2008,Alm. Salg,105,3190,4,1927,
-671,Rækkehus,Sønderlandsgade 34,7790, Thyholm,500000 ,26-09-2008,Alm. Salg,50,10000,1,1900,
-671,Ejerlejlighed,"Helligkildevej 2, 1",7790, Thyholm,500000 ,26-09-2008,Alm. Salg,61,8197,2,1900,
-671,Ejerlejlighed,"Helligkildevej 2, st",7790, Thyholm,500000 ,26-09-2008,Alm. Salg,77,6494,2,1900,
-671,Ejerlejlighed,"Nørregade 3, 1",7790, Thyholm,500000 ,26-09-2008,Alm. Salg,58,8621,3,1895,
-671,Ejerlejlighed,"Nørregade 3, st",7790, Thyholm,500000 ,26-09-2008,Alm. Salg,86,5814,3,1895,
 671,Villa,Storegade 19,7790, Thyholm,295000 ,26-09-2008,Alm. Salg,70,4214,2,1901,
-671,Villa,Vestergade 17,7790, Thyholm,500000 ,26-09-2008,Alm. Salg,155,3226,7,1902,
 671,Ejerlejlighed,"Vestergade 8B, 2. th",7600, Struer,650000 ,25-09-2008,Alm. Salg,59,11017,2,1924,
 671,Villa,Gl Landevej 10,7790, Thyholm,740000 ,25-09-2008,Alm. Salg,90,8222,4,1900,
 671,Villa,Vibevej 16,7600, Struer,1750000 ,24-09-2008,Alm. Salg,166,10542,4,1978,-8%
@@ -3841,9 +3733,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 671,Villa,Sarpsborgvej 23,7600, Struer,1475000 ,29-08-2008,Alm. Salg,193,7642,5,1975,-1%
 671,Villa,Kronborgdige 12,7600, Struer,695000 ,28-08-2008,Alm. Salg,100,6950,4,1900,-5%
 671,Villa,Østergade 12,7790, Thyholm,450000 ,28-08-2008,Alm. Salg,172,2616,4,1930,
-671,Ejerlejlighed,"Østergade 1, 2",7600, Struer,795000 ,27-08-2008,Andet,163,4877,5,1880,
-671,Ejerlejlighed,"Østergade 1, 1",7600, Struer,795000 ,27-08-2008,Andet,182,4368,4,1880,
-671,Ejerlejlighed,"Rådhusstræde 6, 1",7600, Struer,795000 ,27-08-2008,Andet,92,8641,4,1958,
 671,Villa,Odinsvej 19,7600, Struer,2650000 ,27-08-2008,Alm. Salg,367,7221,6,1968,-11%
 671,Ejerlejlighed,"Elmevej 1, st. 10",7600, Struer,320000 ,26-08-2008,Alm. Salg,42,7619,1,1968,
 671,Rækkehus,Parkvænget 8,7600, Struer,1150000 ,25-08-2008,Alm. Salg,95,12105,4,1986,-2%
@@ -3913,18 +3802,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 671,Villa,Stentofterne 68,7600, Struer,1675000 ,23-06-2008,Alm. Salg,142,11796,5,1978,-3%
 671,Villa,Kjelding Høj 51,7600, Struer,424390 ,22-06-2008,Alm. Salg,150,2829,6,2023,
 671,Villa,Stenvej 4,7600, Struer,940000 ,21-06-2008,Alm. Salg,177,5311,6,1974,-6%
-671,Ejerlejlighed,"Danmarksgade 14, st. tv",7600, Struer,916000 ,19-06-2008,Alm. Salg,25,36640,1,1910,
-671,Ejerlejlighed,"Danmarksgade 14, st. th",7600, Struer,916000 ,19-06-2008,Alm. Salg,60,15267,2,1910,
-671,Ejerlejlighed,"Danmarksgade 14, 1",7600, Struer,916000 ,19-06-2008,Alm. Salg,85,10776,2,1910,
-671,Ejerlejlighed,"Danmarksgade 14, 2",7600, Struer,916000 ,19-06-2008,Alm. Salg,50,18320,2,1910,
-671,Ejerlejlighed,"Torvegade 11, 1",7600, Struer,916000 ,19-06-2008,Alm. Salg,70,13086,2,1916,
-671,Ejerlejlighed,"Torvegade 11, st",7600, Struer,916000 ,19-06-2008,Alm. Salg,104,8808,3,1916,
-671,Ejerlejlighed,"Nørregade 20, st",7600, Struer,691000 ,19-06-2008,Alm. Salg,42,16452,1,1911,
-671,Ejerlejlighed,"Nørregade 20, 1",7600, Struer,691000 ,19-06-2008,Alm. Salg,90,7678,3,1911,
-671,Ejerlejlighed,"Korsgade 7, kl",7600, Struer,691000 ,19-06-2008,Alm. Salg,55,12564,1,1932,
-671,Ejerlejlighed,"Korsgade 7, st",7600, Struer,691000 ,19-06-2008,Alm. Salg,50,13820,2,1932,
-671,Ejerlejlighed,"Korsgade 7, 1",7600, Struer,691000 ,19-06-2008,Alm. Salg,50,13820,2,1932,
-671,Villa,Lemvigvej 11,7600, Struer,811000 ,19-06-2008,Alm. Salg,127,6386,4,1950,
 671,Ejerlejlighed,"Strandparken 4, 1. tv",7600, Struer,2035000 ,18-06-2008,Alm. Salg,133,15301,4,2007,-4%
 671,Villa,Højlundparken 12,7600, Struer,2000000 ,18-06-2008,Alm. Salg,148,13514,5,2008,-8%
 671,Villa,Nygade 8,7790, Thyholm,540000 ,15-06-2008,Alm. Salg,94,5745,4,1963,-9%
@@ -4547,26 +4424,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 671,Villa,Johs Buchholtz Vej 2,7600, Struer,1695000 ,05-12-2006,Alm. Salg,228,7434,5,1955,
 671,Villa,Langgade 9,7600, Struer,915000 ,05-12-2006,Alm. Salg,88,10398,3,1954,
 671,Rækkehus,Skolevej 16,7560, Hjerm,1015000 ,04-12-2006,Alm. Salg,92,11033,3,2007,
-671,Ejerlejlighed,"Bryggergade 2, st. th",7600, Struer,14200000 ,04-12-2006,Andet,77,184416,3,1930,
-671,Ejerlejlighed,"Bryggergade 2, st. tv",7600, Struer,14200000 ,04-12-2006,Andet,55,258182,2,1930,
-671,Ejerlejlighed,"Bryggergade 2, 1. th",7600, Struer,14200000 ,04-12-2006,Andet,65,218462,3,1930,
-671,Ejerlejlighed,"Bryggergade 2, 1. tv",7600, Struer,14200000 ,04-12-2006,Andet,65,218462,3,1930,
-671,Ejerlejlighed,"Bryggergade 2, 2. th",7600, Struer,14200000 ,04-12-2006,Andet,53,267925,2,1930,
-671,Ejerlejlighed,"Bryggergade 2, 2. tv",7600, Struer,14200000 ,04-12-2006,Andet,53,267925,2,1930,
-671,Ejerlejlighed,"Søndergade 1, st. tv",7600, Struer,14200000 ,04-12-2006,Andet,83,171084,2,1930,
-671,Ejerlejlighed,"Søndergade 1, 2. th",7600, Struer,14200000 ,04-12-2006,Andet,52,273077,2,1930,
-671,Ejerlejlighed,"Søndergade 1, 3. th",7600, Struer,14200000 ,04-12-2006,Andet,52,273077,2,1930,
-671,Ejerlejlighed,"Digmanns Torv 1, 1. th",7600, Struer,14200000 ,04-12-2006,Andet,102,139216,3,1930,
-671,Ejerlejlighed,"Digmanns Torv 1, 1. tv",7600, Struer,14200000 ,04-12-2006,Andet,105,135238,3,1930,
-671,Ejerlejlighed,"Digmanns Torv 1, 2. tv",7600, Struer,14200000 ,04-12-2006,Andet,108,131481,3,1930,
-671,Ejerlejlighed,"Digmanns Torv 1, 3. th",7600, Struer,14200000 ,04-12-2006,Andet,117,121368,4,1930,
-671,Ejerlejlighed,"Digmanns Torv 1, 3. tv",7600, Struer,14200000 ,04-12-2006,Andet,108,131481,3,1930,
-671,Ejerlejlighed,"Digmanns Torv 1, 2. th",7600, Struer,14200000 ,04-12-2006,Andet,129,110078,4,1930,
-671,Ejerlejlighed,"Søndergade 1, st. th",7600, Struer,14200000 ,04-12-2006,Andet,52,273077,2,1930,
-671,Ejerlejlighed,"Søndergade 1, 1. th",7600, Struer,14200000 ,04-12-2006,Andet,52,273077,2,1930,
-671,Ejerlejlighed,"Søndergade 1, 1. tv",7600, Struer,14200000 ,04-12-2006,Andet,112,126786,4,1930,
-671,Ejerlejlighed,"Søndergade 1, 2. tv",7600, Struer,14200000 ,04-12-2006,Andet,83,171084,2,1930,
-671,Ejerlejlighed,"Søndergade 1, 3. tv",7600, Struer,14200000 ,04-12-2006,Andet,83,171084,3,1930,
 671,Villa,Makholmvej 14,7600, Struer,895000 ,04-12-2006,Alm. Salg,180,4972,5,1925,
 671,Villa,Møllegade 11,7790, Thyholm,400000 ,03-12-2006,Alm. Salg,140,2857,4,1977,
 671,Rækkehus,Søndergade 84A,7600, Struer,980000 ,02-12-2006,Alm. Salg,95,10316,3,1989,
@@ -5225,26 +5082,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 671,Villa,Sneppevej 24,7600, Struer,2300000 ,12-06-2005,Alm. Salg,168,13690,5,1987,
 671,Villa,Sneppevej 31,7600, Struer,1800000 ,12-06-2005,Alm. Salg,157,11465,4,1977,
 671,Villa,Lindekærvej 1,7600, Struer,1200000 ,09-06-2005,Alm. Salg,171,7018,4,1900,
-671,Ejerlejlighed,"Bryggergade 2, st. th",7600, Struer,13000000 ,08-06-2005,Alm. Salg,77,168831,3,1930,
-671,Ejerlejlighed,"Bryggergade 2, st. tv",7600, Struer,13000000 ,08-06-2005,Alm. Salg,55,236364,2,1930,
-671,Ejerlejlighed,"Bryggergade 2, 1. th",7600, Struer,13000000 ,08-06-2005,Alm. Salg,65,200000,3,1930,
-671,Ejerlejlighed,"Bryggergade 2, 1. tv",7600, Struer,13000000 ,08-06-2005,Alm. Salg,65,200000,3,1930,
-671,Ejerlejlighed,"Bryggergade 2, 2. th",7600, Struer,13000000 ,08-06-2005,Alm. Salg,53,245283,2,1930,
-671,Ejerlejlighed,"Bryggergade 2, 2. tv",7600, Struer,13000000 ,08-06-2005,Alm. Salg,53,245283,2,1930,
-671,Ejerlejlighed,"Søndergade 1, st. tv",7600, Struer,13000000 ,08-06-2005,Alm. Salg,83,156627,2,1930,
-671,Ejerlejlighed,"Søndergade 1, 2. th",7600, Struer,13000000 ,08-06-2005,Alm. Salg,52,250000,2,1930,
-671,Ejerlejlighed,"Søndergade 1, 3. th",7600, Struer,13000000 ,08-06-2005,Alm. Salg,52,250000,2,1930,
-671,Ejerlejlighed,"Digmanns Torv 1, 1. th",7600, Struer,13000000 ,08-06-2005,Alm. Salg,102,127451,3,1930,
-671,Ejerlejlighed,"Digmanns Torv 1, 1. tv",7600, Struer,13000000 ,08-06-2005,Alm. Salg,105,123810,3,1930,
-671,Ejerlejlighed,"Digmanns Torv 1, 2. tv",7600, Struer,13000000 ,08-06-2005,Alm. Salg,108,120370,3,1930,
-671,Ejerlejlighed,"Digmanns Torv 1, 3. th",7600, Struer,13000000 ,08-06-2005,Alm. Salg,117,111111,4,1930,
-671,Ejerlejlighed,"Digmanns Torv 1, 3. tv",7600, Struer,13000000 ,08-06-2005,Alm. Salg,108,120370,3,1930,
-671,Ejerlejlighed,"Digmanns Torv 1, 2. th",7600, Struer,13000000 ,08-06-2005,Alm. Salg,129,100775,4,1930,
-671,Ejerlejlighed,"Søndergade 1, st. th",7600, Struer,13000000 ,08-06-2005,Alm. Salg,52,250000,2,1930,
-671,Ejerlejlighed,"Søndergade 1, 1. th",7600, Struer,13000000 ,08-06-2005,Alm. Salg,52,250000,2,1930,
-671,Ejerlejlighed,"Søndergade 1, 1. tv",7600, Struer,13000000 ,08-06-2005,Alm. Salg,112,116071,4,1930,
-671,Ejerlejlighed,"Søndergade 1, 2. tv",7600, Struer,13000000 ,08-06-2005,Alm. Salg,83,156627,2,1930,
-671,Ejerlejlighed,"Søndergade 1, 3. tv",7600, Struer,13000000 ,08-06-2005,Alm. Salg,83,156627,3,1930,
 671,Rækkehus,Nordvestvej 16,7600, Struer,570000 ,07-06-2005,Alm. Salg,114,5000,4,1911,
 671,Villa,Struergårdvej 18,7600, Struer,600000 ,07-06-2005,Andet,149,4027,4,1964,
 671,Villa,Hindselsvej 7,7790, Thyholm,600000 ,07-06-2005,Alm. Salg,146,4110,6,1880,
@@ -5329,10 +5166,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 671,Villa,Makholmvej 47,7600, Struer,600000 ,19-04-2005,Alm. Salg,245,2449,7,2021,
 671,Rækkehus,Storegade 15C,7790, Thyholm,300000 ,18-04-2005,Andet,76,3947,3,1912,
 671,Ejerlejlighed,"Nørmarkvej 29, 1. 18",7600, Struer,308500 ,18-04-2005,Alm. Salg,49,6296,2,1967,
-671,Ejerlejlighed,"Østergade 1, 2",7600, Struer,1600000 ,18-04-2005,Andet,163,9816,5,1880,
-671,Ejerlejlighed,"Østergade 1, 1",7600, Struer,1600000 ,18-04-2005,Andet,182,8791,4,1880,
 671,Ejerlejlighed,"Strandvejen 23, st. tv",7600, Struer,1050000 ,18-04-2005,Alm. Salg,190,5526,9,1897,
-671,Ejerlejlighed,"Rådhusstræde 6, 1",7600, Struer,1600000 ,18-04-2005,Andet,92,17391,4,1958,
 671,Villa,Nøddehegnet 20,7600, Struer,1530000 ,18-04-2005,Alm. Salg,135,11333,6,2005,
 671,Villa,Anemonevej 22,7600, Struer,680000 ,18-04-2005,Alm. Salg,75,9067,2,1954,
 671,Villa,Ringgade 29,7600, Struer,1085000 ,18-04-2005,Alm. Salg,158,6867,6,1952,
@@ -5391,9 +5225,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 671,Villa,Bjørndalvej 10,7790, Thyholm,445000 ,07-03-2005,Alm. Salg,188,2367,9,1901,
 671,Villa,Drosselvej 6,7790, Thyholm,806000 ,07-03-2005,Alm. Salg,154,5234,5,1979,
 671,Villa,Kongevejen 56,7790, Thyholm,575000 ,07-03-2005,Alm. Salg,111,5180,4,1951,
-671,Ejerlejlighed,"Østergade 1, 2",7600, Struer,1200000 ,06-03-2005,Alm. Salg,163,7362,5,1880,
-671,Ejerlejlighed,"Østergade 1, 1",7600, Struer,1200000 ,06-03-2005,Alm. Salg,182,6593,4,1880,
-671,Ejerlejlighed,"Rådhusstræde 6, 1",7600, Struer,1200000 ,06-03-2005,Alm. Salg,92,13043,4,1958,
 671,Villa,Søndergade 43,7600, Struer,495000 ,04-03-2005,Alm. Salg,150,3300,4,1922,
 671,Villa,Kirkebakken 10,7790, Thyholm,400000 ,02-03-2005,Alm. Salg,111,3604,4,1934,
 671,Villa,Park Alle 77,7600, Struer,1390000 ,02-03-2005,Alm. Salg,139,10000,5,1967,
@@ -5408,8 +5239,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 671,Villa,Kirsebærhaven 1,7600, Struer,1675000 ,21-02-2005,Alm. Salg,171,9795,4,1998,
 671,Villa,Stentofterne 194,7600, Struer,1175000 ,20-02-2005,Alm. Salg,172,6831,6,1979,
 671,Villa,Kilenvej 10,7600, Struer,575000 ,18-02-2005,Alm. Salg,108,5324,5,1880,
-671,Ejerlejlighed,Kongevejen 86,7790, Thyholm,10000 ,16-02-2005,Alm. Salg,676,15,31,2005,
-671,Rækkehus,"Kongevejen 86, 1",7790, Thyholm,10000 ,16-02-2005,Alm. Salg,121,83,4,1962,
 671,Villa,Kirketoft 78,7600, Struer,48800 ,15-02-2005,Fam. Salg,152,321,6,2010,
 671,Villa,Kirketoft 2,7600, Struer,670000 ,14-02-2005,Alm. Salg,129,5194,4,1977,
 671,Villa,Kløvenhøj 18,7600, Struer,455000 ,14-02-2005,Alm. Salg,132,3447,3,1908,
@@ -5954,8 +5783,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 671,Villa,Kongevejen 33,7790, Thyholm,267736 ,21-05-2003,Alm. Salg,199,1154,7,1907,
 671,Villa,Huginsvej 11,7600, Struer,1195000 ,21-05-2003,Alm. Salg,198,6035,7,1970,
 671,Villa,Vossevangen 18,7600, Struer,148770 ,20-05-2003,Alm. Salg,180,827,6,2003,
-671,Ejerlejlighed,"Reberbanen 11, 1. 42",7600, Struer,165000 ,19-05-2003,Alm. Salg,31,5323,1,1971,
-671,Villa,Vossevangen 25,7600, Struer,165000 ,19-05-2003,Alm. Salg,204,809,7,2009,
 671,Villa,Skt Olai Bakke 14,7600, Struer,231674 ,14-05-2003,Alm. Salg,84,2758,3,1952,
 671,Rækkehus,Stentofterne 189,7600, Struer,575000 ,13-05-2003,Alm. Salg,72,7986,2,1981,
 671,Villa,Orkidevej 19,7790, Thyholm,570000 ,12-05-2003,Alm. Salg,146,3904,5,1980,
@@ -6063,10 +5890,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 671,Rækkehus,Enggade 9,7600, Struer,525718 ,13-01-2003,Alm. Salg,143,3676,4,1927,
 671,Villa,Grønningen 46,7600, Struer,457040 ,13-01-2003,Andet,131,3489,5,1966,
 671,Villa,Sarpsborgvej 144,7600, Struer,1440000 ,10-01-2003,Alm. Salg,200,7200,6,1976,
-671,Ejerlejlighed,"Nørregade 22, 1",7600, Struer,640000 ,06-01-2003,Andet,50,12800,2,1887,
 671,Villa,Hjermvej 70,7600, Struer,560000 ,06-01-2003,Andet,130,4308,4,1920,
 671,Villa,Søndergade 100,7600, Struer,920000 ,06-01-2003,Andet,149,6174,5,1900,
-671,Villa,"Nørregade 22, st",7600, Struer,640000 ,06-01-2003,Andet,120,5333,3,1887,
 671,Villa,Stentofterne 29,7600, Struer,1117000 ,03-01-2003,Alm. Salg,162,6895,6,1986,
 671,Villa,Fjordglimt 17,7790, Thyholm,635000 ,02-01-2003,Alm. Salg,144,4410,4,1897,
 671,Villa,Nylandsvej 2,7790, Thyholm,656198 ,02-01-2003,Alm. Salg,200,3281,7,1965,
@@ -6273,26 +6098,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 671,Villa,Park Alle 94,7600, Struer,1098000 ,24-06-2002,Alm. Salg,140,7843,4,1975,
 671,Villa,Bakke Alle 5,7600, Struer,830000 ,24-06-2002,Alm. Salg,190,4368,6,1977,
 671,Villa,Dalgårdsvej 29,7600, Struer,420000 ,23-06-2002,Alm. Salg,181,2320,6,1929,
-671,Ejerlejlighed,"Bryggergade 2, st. th",7600, Struer,11500000 ,19-06-2002,Alm. Salg,77,149351,3,1930,
-671,Ejerlejlighed,"Bryggergade 2, st. tv",7600, Struer,11500000 ,19-06-2002,Alm. Salg,55,209091,2,1930,
-671,Ejerlejlighed,"Bryggergade 2, 1. th",7600, Struer,11500000 ,19-06-2002,Alm. Salg,65,176923,3,1930,
-671,Ejerlejlighed,"Bryggergade 2, 1. tv",7600, Struer,11500000 ,19-06-2002,Alm. Salg,65,176923,3,1930,
-671,Ejerlejlighed,"Bryggergade 2, 2. th",7600, Struer,11500000 ,19-06-2002,Alm. Salg,53,216981,2,1930,
-671,Ejerlejlighed,"Bryggergade 2, 2. tv",7600, Struer,11500000 ,19-06-2002,Alm. Salg,53,216981,2,1930,
-671,Ejerlejlighed,"Søndergade 1, st. tv",7600, Struer,11500000 ,19-06-2002,Alm. Salg,83,138554,2,1930,
-671,Ejerlejlighed,"Søndergade 1, 2. th",7600, Struer,11500000 ,19-06-2002,Alm. Salg,52,221154,2,1930,
-671,Ejerlejlighed,"Søndergade 1, 3. th",7600, Struer,11500000 ,19-06-2002,Alm. Salg,52,221154,2,1930,
-671,Ejerlejlighed,"Digmanns Torv 1, 1. th",7600, Struer,11500000 ,19-06-2002,Alm. Salg,102,112745,3,1930,
-671,Ejerlejlighed,"Digmanns Torv 1, 1. tv",7600, Struer,11500000 ,19-06-2002,Alm. Salg,105,109524,3,1930,
-671,Ejerlejlighed,"Digmanns Torv 1, 2. tv",7600, Struer,11500000 ,19-06-2002,Alm. Salg,108,106481,3,1930,
-671,Ejerlejlighed,"Digmanns Torv 1, 3. th",7600, Struer,11500000 ,19-06-2002,Alm. Salg,117,98291,4,1930,
-671,Ejerlejlighed,"Digmanns Torv 1, 3. tv",7600, Struer,11500000 ,19-06-2002,Alm. Salg,108,106481,3,1930,
-671,Ejerlejlighed,"Digmanns Torv 1, 2. th",7600, Struer,11500000 ,19-06-2002,Alm. Salg,129,89147,4,1930,
-671,Ejerlejlighed,"Søndergade 1, st. th",7600, Struer,11500000 ,19-06-2002,Alm. Salg,52,221154,2,1930,
-671,Ejerlejlighed,"Søndergade 1, 1. th",7600, Struer,11500000 ,19-06-2002,Alm. Salg,52,221154,2,1930,
-671,Ejerlejlighed,"Søndergade 1, 1. tv",7600, Struer,11500000 ,19-06-2002,Alm. Salg,112,102679,4,1930,
-671,Ejerlejlighed,"Søndergade 1, 2. tv",7600, Struer,11500000 ,19-06-2002,Alm. Salg,83,138554,2,1930,
-671,Ejerlejlighed,"Søndergade 1, 3. tv",7600, Struer,11500000 ,19-06-2002,Alm. Salg,83,138554,3,1930,
 671,Villa,Vinkelvej 13,7600, Struer,880000 ,19-06-2002,Alm. Salg,136,6471,4,1960,
 671,Villa,Langhøjvej 11,7600, Struer,120000 ,19-06-2002,Alm. Salg,70,1714,2,1900,
 671,Villa,Højgårdsparken 108,7560, Hjerm,840000 ,18-06-2002,Alm. Salg,124,6774,4,1977,
@@ -6347,11 +6152,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 671,Villa,Søndergade 82,7600, Struer,610000 ,23-04-2002,Alm. Salg,114,5351,4,1827,
 671,Villa,Sarpsborgvej 11,7600, Struer,1012619 ,23-04-2002,Alm. Salg,133,7614,4,1975,
 671,Rækkehus,Lundgaardsparken 21,7600, Struer,585000 ,21-04-2002,Alm. Salg,74,7905,3,1986,
-671,Ejerlejlighed,"Bjerggade 2, st. tv",7600, Struer,1000000 ,17-04-2002,Alm. Salg,43,23256,2,1892,
-671,Ejerlejlighed,"Bjerggade 2, st. th",7600, Struer,1000000 ,17-04-2002,Alm. Salg,58,17241,2,1892,
-671,Ejerlejlighed,"Bjerggade 2, 1",7600, Struer,1000000 ,17-04-2002,Alm. Salg,61,16393,2,1892,
-671,Ejerlejlighed,"Strandvejen 5A, st. th",7600, Struer,1000000 ,17-04-2002,Alm. Salg,52,19231,2,1926,
-671,Ejerlejlighed,"Strandvejen 5A, st. tv",7600, Struer,1000000 ,17-04-2002,Alm. Salg,32,31250,1,1926,
 671,Villa,Ølbyvej 65,7600, Struer,950000 ,17-04-2002,Alm. Salg,200,4750,6,1969,
 671,Villa,Lindevænget 10,7560, Hjerm,898000 ,17-04-2002,Alm. Salg,143,6280,5,1973,
 671,Ejerlejlighed,"Elmevej 1, 1. 17",7600, Struer,170000 ,14-04-2002,Alm. Salg,42,4048,1,1968,
@@ -7009,11 +6809,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 671,Villa,Kirkevej 21,7560, Hjerm,584990 ,25-06-2000,Alm. Salg,180,3250,6,1927,
 671,Villa,Skarbyvej 3,7560, Hjerm,1700000 ,25-06-2000,Alm. Salg,197,8629,7,1912,
 671,Villa,Kastanievej 2,7600, Struer,845000 ,25-06-2000,Alm. Salg,129,6550,5,1973,
-671,Ejerlejlighed,"Bjerggade 2, st. tv",7600, Struer,900000 ,22-06-2000,Alm. Salg,43,20930,2,1892,
-671,Ejerlejlighed,"Bjerggade 2, st. th",7600, Struer,900000 ,22-06-2000,Alm. Salg,58,15517,2,1892,
-671,Ejerlejlighed,"Bjerggade 2, 1",7600, Struer,900000 ,22-06-2000,Alm. Salg,61,14754,2,1892,
-671,Ejerlejlighed,"Strandvejen 5A, st. th",7600, Struer,900000 ,22-06-2000,Alm. Salg,52,17308,2,1926,
-671,Ejerlejlighed,"Strandvejen 5A, st. tv",7600, Struer,900000 ,22-06-2000,Alm. Salg,32,28125,1,1926,
 671,Ejerlejlighed,"Nørmarkvej 29, st. 1",7600, Struer,282000 ,22-06-2000,Alm. Salg,50,5640,2,1967,
 671,Villa,Jestrupvej 19,7790, Thyholm,310000 ,22-06-2000,Alm. Salg,184,1685,5,1900,
 671,Villa,Kirsebærhaven 3,7600, Struer,1310000 ,22-06-2000,Alm. Salg,131,10000,5,1999,
@@ -7340,9 +7135,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 671,Rækkehus,Tårngade 26,7600, Struer,433700 ,24-08-1999,Andet,120,3614,3,1929,
 671,Villa,Kærvænget 9,7600, Struer,540993 ,24-08-1999,Alm. Salg,93,5817,3,1957,
 671,Villa,Hjermvej 82,7600, Struer,550000 ,23-08-1999,Alm. Salg,84,6548,3,1953,
-671,Ejerlejlighed,"Østergade 1, 2",7600, Struer,1750000 ,22-08-1999,Alm. Salg,163,10736,5,1880,
-671,Ejerlejlighed,"Østergade 1, 1",7600, Struer,1750000 ,22-08-1999,Alm. Salg,182,9615,4,1880,
-671,Ejerlejlighed,"Rådhusstræde 6, 1",7600, Struer,1750000 ,22-08-1999,Alm. Salg,92,19022,4,1958,
 671,Villa,Lille Ørskovvej 12,7600, Struer,845000 ,22-08-1999,Alm. Salg,177,4774,7,1969,
 671,Villa,Helligkildevej 27,7790, Thyholm,484638 ,21-08-1999,Alm. Salg,117,4142,4,1947,
 671,Villa,Oddesundvej 26,7600, Struer,725000 ,20-08-1999,Alm. Salg,137,5292,4,1890,
@@ -7587,11 +7379,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 671,Villa,Kirsebærhaven 3,7600, Struer,1223000 ,18-01-1999,Alm. Salg,131,9336,5,1999,
 671,Villa,Kirsebærhaven 8,7600, Struer,1317180 ,18-01-1999,Alm. Salg,133,9904,5,1999,
 671,Villa,Vesterfjordsvej 7,7790, Thyholm,255000 ,17-01-1999,Alm. Salg,96,2656,4,1953,
-671,Ejerlejlighed,"Bjerggade 2, st. tv",7600, Struer,682000 ,14-01-1999,Alm. Salg,43,15860,2,1892,
-671,Ejerlejlighed,"Bjerggade 2, st. th",7600, Struer,682000 ,14-01-1999,Alm. Salg,58,11759,2,1892,
-671,Ejerlejlighed,"Bjerggade 2, 1",7600, Struer,682000 ,14-01-1999,Alm. Salg,61,11180,2,1892,
-671,Ejerlejlighed,"Strandvejen 5A, st. th",7600, Struer,682000 ,14-01-1999,Alm. Salg,52,13115,2,1926,
-671,Ejerlejlighed,"Strandvejen 5A, st. tv",7600, Struer,682000 ,14-01-1999,Alm. Salg,32,21313,1,1926,
 671,Villa,Hummelmosevej 6,7560, Hjerm,1598000 ,14-01-1999,Alm. Salg,203,7872,4,1913,
 671,Ejerlejlighed,"Elmevej 1, st. 8",7600, Struer,175000 ,13-01-1999,Alm. Salg,42,4167,1,1968,
 671,Villa,Kongevejen 82,7790, Thyholm,472000 ,13-01-1999,Alm. Salg,104,4538,4,1950,
@@ -7715,7 +7502,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 671,Villa,Holstebrovej 15,7600, Struer,563500 ,01-10-1998,Alm. Salg,109,5170,4,1900,
 671,Villa,Kirketoft 64,7600, Struer,1110000 ,01-10-1998,Alm. Salg,159,6981,5,1979,
 671,Villa,Vinderupvej 30,7600, Struer,450000 ,01-10-1998,Alm. Salg,148,3041,4,1940,
-671,Villa,Kongevejen 68A,7790, Thyholm,344852 ,29-09-1998,Alm. Salg,195,1768,7,1946,
 671,Villa,Park Alle 23,7600, Struer,647008 ,29-09-1998,Alm. Salg,108,5991,4,1967,
 671,Villa,Kirsebærhaven 13,7600, Struer,300000 ,29-09-1998,Alm. Salg,153,1961,6,1999,
 671,Villa,Kirkevej 7,7560, Hjerm,612665 ,28-09-1998,Fam. Salg,94,6518,4,1953,
@@ -7960,9 +7746,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 671,Villa,Havstokken 26,7600, Struer,585000 ,22-03-1998,Alm. Salg,130,4500,5,1932,
 671,Ejerlejlighed,"Bredgade 2, 2. th",7600, Struer,395000 ,19-03-1998,Alm. Salg,72,5486,3,1895,
 671,Ejerlejlighed,"Elmevej 1, 1. 20",7600, Struer,167000 ,19-03-1998,Alm. Salg,42,3976,1,1968,
-671,Ejerlejlighed,"Nørregade 22, 1",7600, Struer,248791 ,19-03-1998,Alm. Salg,50,4976,2,1887,
 671,Villa,Lærkevej 7,7600, Struer,405643 ,19-03-1998,Alm. Salg,135,3005,5,1985,
-671,Villa,"Nørregade 22, st",7600, Struer,248791 ,19-03-1998,Alm. Salg,120,2073,3,1887,
 671,Rækkehus,Bjerggade 10,7600, Struer,425000 ,18-03-1998,Alm. Salg,132,3220,3,1890,
 671,Villa,Bækvej 13,7600, Struer,667000 ,18-03-1998,Alm. Salg,110,6064,4,1897,
 671,Villa,Ørgaards Alle 4,7600, Struer,650000 ,17-03-1998,Alm. Salg,190,3421,7,1947,
@@ -8304,10 +8088,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 671,Villa,Torvegade 18,7600, Struer,727000 ,19-06-1997,Alm. Salg,227,3203,9,1916,
 671,Villa,Ringgade 26,7600, Struer,418000 ,19-06-1997,Alm. Salg,77,5429,3,1948,
 671,Villa,Timlingvej 7,7600, Struer,150000 ,19-06-1997,Alm. Salg,262,573,7,1999,
-671,Rækkehus,Storegade 15C,7790, Thyholm,250000 ,18-06-1997,Alm. Salg,76,3289,3,1912,
 671,Villa,Rørsangervej 20,7600, Struer,985000 ,18-06-1997,Alm. Salg,123,8008,7,1973,
 671,Villa,Hindselsvej 19,7790, Thyholm,623000 ,18-06-1997,Alm. Salg,180,3461,6,1902,
-671,Villa,Jegindøvej 19,7790, Thyholm,250000 ,18-06-1997,Alm. Salg,139,1799,6,1933,
 671,Villa,Bjerregårdsparken 24,7560, Hjerm,775000 ,17-06-1997,Alm. Salg,129,6008,4,1979,
 671,Villa,Brattingbjerg 33A,7600, Struer,738312 ,17-06-1997,Alm. Salg,96,7691,3,1997,
 671,Rækkehus,Rugmarken 16,7600, Struer,469000 ,16-06-1997,Alm. Salg,89,5270,3,1987,
@@ -8468,9 +8250,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 671,Villa,Brattingbjerg 4,7600, Struer,737000 ,02-03-1997,Alm. Salg,223,3305,8,1974,
 671,Villa,Skarbyvej 12,7560, Hjerm,429684 ,02-03-1997,Alm. Salg,107,4016,3,1961,
 671,Villa,Søndbjerg Strandvej 4,7790, Thyholm,48161 ,28-02-1997,Alm. Salg,118,408,4,1917,
-671,Rækkehus,Søndergade 51,7600, Struer,585000 ,27-02-1997,Alm. Salg,167,3503,3,1928,
 671,Ejerlejlighed,"Danmarksgade 31, st",7600, Struer,515951 ,27-02-1997,Alm. Salg,102,5058,3,1907,
-671,Villa,Johs Buchholtz Vej 11,7600, Struer,585000 ,27-02-1997,Alm. Salg,100,5850,4,1965,
 671,Villa,Anemonevej 30,7600, Struer,847000 ,27-02-1997,Alm. Salg,118,7178,4,1953,
 671,Villa,Jyllandsgade 40,7600, Struer,204479 ,27-02-1997,Fam. Salg,141,1450,4,1931,
 671,Villa,Højlundparken 72,7600, Struer,1148000 ,27-02-1997,Alm. Salg,132,8697,4,1994,
@@ -8538,7 +8318,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 671,Villa,Volstrupby 1,7560, Hjerm,350000 ,29-12-1996,Fam. Salg,223,1570,6,1850,
 671,Villa,Krumborgvej 4,7790, Thyholm,140000 ,27-12-1996,Alm. Salg,80,1750,4,1905,
 671,Rækkehus,Allegade 12,7600, Struer,855000 ,26-12-1996,Alm. Salg,170,5029,6,1945,
-671,Rækkehus,Sønderlandsgade 34,7790, Thyholm,206000 ,24-12-1996,Fam. Salg,50,4120,1,1900,
 671,Villa,Vestergade 17,7790, Thyholm,214000 ,24-12-1996,Fam. Salg,155,1381,7,1902,
 671,Rækkehus,Nørregade 4,7600, Struer,330000 ,18-12-1996,Alm. Salg,74,4459,3,1897,
 671,Villa,Morelbakken 5,7600, Struer,200000 ,17-12-1996,Alm. Salg,143,1399,5,1997,
@@ -8872,9 +8651,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 671,Villa,Fjordglimt 5,7790, Thyholm,235000 ,26-03-1996,Alm. Salg,90,2611,3,1967,
 671,Villa,Riisvej 9,7600, Struer,135000 ,26-03-1996,Alm. Salg,187,722,6,1997,
 671,Villa,Saturnvej 7,7790, Thyholm,225000 ,26-03-1996,Alm. Salg,199,1131,4,1918,
-671,Ejerlejlighed,"Langgade 7, st. th",7600, Struer,972879 ,25-03-1996,Alm. Salg,58,16774,3,1945,
-671,Ejerlejlighed,"Langgade 7, st. tv",7600, Struer,972879 ,25-03-1996,Alm. Salg,58,16774,3,1945,
-671,Ejerlejlighed,Korsgade 9,7600, Struer,972879 ,25-03-1996,Alm. Salg,60,16215,3,1945,
 671,Villa,Bjerggade 42,7600, Struer,380000 ,25-03-1996,Alm. Salg,225,1689,5,1900,
 671,Villa,Odinsvej 20,7600, Struer,1267000 ,24-03-1996,Alm. Salg,330,3839,8,1968,
 671,Villa,Torvegade 46,7600, Struer,630000 ,23-03-1996,Alm. Salg,120,5250,5,1955,
@@ -9014,7 +8790,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 671,Villa,Fjordlystvej 6,7790, Thyholm,180000 ,15-11-1995,Alm. Salg,117,1538,4,1910,
 671,Ejerlejlighed,"Elmevej 3, st. 9",7600, Struer,230000 ,14-11-1995,Alm. Salg,51,4510,2,1972,
 671,Villa,Vinkelvej 4,7790, Thyholm,107500 ,14-11-1995,Alm. Salg,67,1604,3,1916,
-671,Villa,Stenvej 1,7600, Struer,595000 ,14-11-1995,Alm. Salg,139,4281,5,1977,
 671,Villa,Sofienlundvej 3,7560, Hjerm,842000 ,14-11-1995,Alm. Salg,232,3629,8,1920,
 671,Villa,Tornskadevej 12,7600, Struer,826000 ,13-11-1995,Alm. Salg,138,5986,5,1975,
 671,Rækkehus,Orkidevej 4B,7790, Thyholm,232700 ,12-11-1995,Alm. Salg,58,4012,2,1979,
@@ -9469,18 +9244,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 671,Villa,Fredensgade 11,7600, Struer,415000 ,16-10-1994,Alm. Salg,86,4826,3,1935,
 671,Villa,Hunsballevej 5,7600, Struer,430000 ,16-10-1994,Alm. Salg,125,3440,5,1947,
 671,Rækkehus,Bjerggade 27,7600, Struer,415000 ,14-10-1994,Alm. Salg,137,3029,6,1889,
-671,Ejerlejlighed,"Holstebrovej 36, st. th",7600, Struer,1875000 ,13-10-1994,Alm. Salg,76,24671,2,1890,
-671,Ejerlejlighed,"Holstebrovej 36, 1. th",7600, Struer,1875000 ,13-10-1994,Alm. Salg,76,24671,2,1890,
-671,Ejerlejlighed,"Holstebrovej 36, st. tv",7600, Struer,1875000 ,13-10-1994,Alm. Salg,76,24671,2,1890,
-671,Ejerlejlighed,"Holstebrovej 36, 1. tv",7600, Struer,1875000 ,13-10-1994,Alm. Salg,76,24671,2,1890,
-671,Ejerlejlighed,"Holstebrovej 36, 2. 1",7600, Struer,1875000 ,13-10-1994,Alm. Salg,31,60484,1,1890,
-671,Ejerlejlighed,"Holstebrovej 36, 2. 2",7600, Struer,1875000 ,13-10-1994,Alm. Salg,29,64655,1,1890,
-671,Ejerlejlighed,"Holstebrovej 36, 2. 3",7600, Struer,1875000 ,13-10-1994,Alm. Salg,31,60484,1,1890,
-671,Ejerlejlighed,"Holstebrovej 36, 2. 4",7600, Struer,1875000 ,13-10-1994,Alm. Salg,35,53571,1,1890,
-671,Ejerlejlighed,"Ølbyvej 2A, st. tv",7600, Struer,1875000 ,13-10-1994,Alm. Salg,71,26408,2,1890,
-671,Ejerlejlighed,"Ølbyvej 2A, 1. tv",7600, Struer,1875000 ,13-10-1994,Alm. Salg,61,30738,2,1890,
-671,Ejerlejlighed,"Ølbyvej 2A, 1. th",7600, Struer,1875000 ,13-10-1994,Alm. Salg,74,25338,2,1890,
-671,Ejerlejlighed,"Ølbyvej 2A, st. th",7600, Struer,1875000 ,13-10-1994,Alm. Salg,74,25338,2,1890,
 671,Villa,Søndergade 47,7600, Struer,500000 ,13-10-1994,Alm. Salg,156,3205,5,1927,
 671,Villa,Voldgade 16,7600, Struer,512672 ,13-10-1994,Alm. Salg,110,4661,4,1965,
 671,Villa,Rørsangervej 8,7600, Struer,595000 ,11-10-1994,Alm. Salg,158,3766,6,1973,
@@ -9702,7 +9465,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 671,Villa,Hedetoften 4,7600, Struer,189500 ,26-04-1994,Alm. Salg,118,1606,3,1994,
 671,Villa,Lyngs Kirkevej 6,7790, Thyholm,195000 ,25-04-1994,Alm. Salg,210,929,8,1928,
 671,Villa,Pilevej 10,7600, Struer,695000 ,25-04-1994,Alm. Salg,141,4929,4,1970,
-671,Villa,Nørregade 19A,7600, Struer,285000 ,25-04-1994,Alm. Salg,61,4672,2,1940,
 671,Villa,Johs Buchholtz Vej 13,7600, Struer,365000 ,24-04-1994,Alm. Salg,90,4056,3,1960,
 671,Ejerlejlighed,"Elmevej 6, 2. 26",7600, Struer,291184 ,23-04-1994,Alm. Salg,105,2773,4,1971,
 671,Villa,Meldgårdsvej 8,7600, Struer,210000 ,22-04-1994,Alm. Salg,150,1400,4,1932,
@@ -9989,12 +9751,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 671,Villa,Sofienlundvej 1,7560, Hjerm,550000 ,01-09-1993,Alm. Salg,133,4135,4,1877,
 671,Villa,Grønnevej 3,7600, Struer,195000 ,31-08-1993,Alm. Salg,84,2321,4,1912,
 671,Villa,Thagårdvej 8,7600, Struer,300000 ,31-08-1993,Alm. Salg,86,3488,3,1948,
-671,Ejerlejlighed,"Bjerggade 2, st. tv",7600, Struer,200000 ,29-08-1993,Alm. Salg,43,4651,2,1892,
-671,Ejerlejlighed,"Bjerggade 2, st. th",7600, Struer,200000 ,29-08-1993,Alm. Salg,58,3448,2,1892,
-671,Ejerlejlighed,"Bjerggade 2, 1",7600, Struer,200000 ,29-08-1993,Alm. Salg,61,3279,2,1892,
 671,Ejerlejlighed,"Elmevej 4, 2. 29",7600, Struer,295000 ,29-08-1993,Alm. Salg,77,3831,3,1969,
-671,Ejerlejlighed,"Strandvejen 5A, st. th",7600, Struer,200000 ,29-08-1993,Alm. Salg,52,3846,2,1926,
-671,Ejerlejlighed,"Strandvejen 5A, st. tv",7600, Struer,200000 ,29-08-1993,Alm. Salg,32,6250,1,1926,
 671,Villa,Klosterhedevej 28,7600, Struer,350000 ,29-08-1993,Alm. Salg,106,3302,4,1892,
 671,Villa,Øster Hjermvej 32,7560, Hjerm,369000 ,29-08-1993,Alm. Salg,149,2477,5,1885,
 671,Villa,Vestre Hovedgade 17,7560, Hjerm,330000 ,25-08-1993,Alm. Salg,107,3084,4,1923,
@@ -10154,7 +9911,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 671,Villa,Fredensvang 20,7600, Struer,530000 ,30-03-1993,Alm. Salg,120,4417,4,1975,
 671,Villa,Bredgade 40,7600, Struer,775000 ,30-03-1993,Fam. Salg,170,3523,8,1963,
 671,Villa,Høfden 5,7600, Struer,140000 ,29-03-1993,Fam. Salg,122,1148,5,1972,
-671,Villa,Nørgårdvej 26,7600, Struer,300000 ,28-03-1993,Alm. Salg,116,2586,5,1952,
 671,Villa,Oddesundvej 8,7600, Struer,325000 ,25-03-1993,Alm. Salg,188,1729,8,1922,
 671,Villa,Kragelundvej 16,7830, Vinderup,437000 ,25-03-1993,Alm. Salg,142,3077,6,1883,
 671,Villa,Svanevej 16,7600, Struer,1200000 ,24-03-1993,Alm. Salg,199,6030,5,1986,

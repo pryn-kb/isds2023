@@ -460,7 +460,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 840,Villa,Jyllandsgade 55,9610, Nørager,998000 ,04-12-2021,Alm. Salg,113,8832,4,1953,
 840,Villa,Mølhøjvangen 48,9610, Nørager,3100000 ,03-12-2021,Alm. Salg,188,16489,6,2018,
 840,Villa,Aarestrupvej 44,9520, Skørping,380000 ,02-12-2021,Alm. Salg,132,2879,6,1928,
-840,Villa,"Vestergade 21A, st",9610, Nørager,1025000 ,01-12-2021,Alm. Salg,183,5601,10,1909,-6%
 840,Villa,Bentevej 12,9520, Skørping,2165000 ,01-12-2021,Alm. Salg,139,15576,5,1974,-1%
 840,Villa,Mastruphøj 83,9530, Støvring,2495000 ,30-11-2021,Alm. Salg,163,15307,5,1980,
 840,Villa,Rådyret 181,9530, Støvring,1850000 ,30-11-2021,Fam. Salg,170,10882,4,2018,
@@ -1614,7 +1613,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 840,Rækkehus,Kastanievej 13,9575, Terndrup,830000 ,31-10-2019,Alm. Salg,127,6535,4,1980,-2%
 840,Villa,Vibevej 4,9530, Støvring,2280000 ,31-10-2019,Alm. Salg,157,14522,4,1968,-1%
 840,Villa,Hasselvej 8,9530, Støvring,2000000 ,31-10-2019,Alm. Salg,135,14815,4,1974,-5%
-840,Villa,Hjedsbækvej 352E,9541, Suldrup,400000 ,31-10-2019,Alm. Salg,90,4444,3,0,
 840,Rækkehus,Kronhjorten 140,9530, Støvring,2295000 ,30-10-2019,Alm. Salg,120,19125,3,2020,
 840,Villa,Mosevej 10,9541, Suldrup,1210000 ,30-10-2019,Alm. Salg,217,5576,4,2021,11%
 840,Villa,Rådyret 275,9530, Støvring,1200000 ,30-10-2019,Alm. Salg,165,7273,3,2021,
@@ -1658,9 +1656,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 840,Villa,Vesterbygade 7,9520, Skørping,1950000 ,02-10-2019,Alm. Salg,194,10052,6,2010,-5%
 840,Villa,Pilevej 14,9575, Terndrup,1625000 ,02-10-2019,Alm. Salg,209,7775,6,1976,-4%
 840,Villa,Nibevej 15,9530, Støvring,2700000 ,01-10-2019,Alm. Salg,176,15341,7,1949,-10%
-840,Ejerlejlighed,Vestergade 17B,9574, Bælum,795000 ,29-09-2019,Alm. Salg,94,8457,1,1900,
 840,Villa,Jyttevej 14,9520, Skørping,1400000 ,29-09-2019,Alm. Salg,194,7216,5,2020,-3%
-840,Villa,Vestergade 17A. th,9574, Bælum,795000 ,29-09-2019,Alm. Salg,243,3272,7,1900,
 840,Villa,Højvang 6,9530, Støvring,1240000 ,28-09-2019,Alm. Salg,194,6392,6,1972,0%
 840,Villa,Hjedsbækvej 116,9541, Suldrup,1375000 ,27-09-2019,Alm. Salg,96,14323,5,1930,
 840,Villa,Engtoften 13,9530, Støvring,1687500 ,26-09-2019,Alm. Salg,144,11719,6,1966,-6%
@@ -2930,8 +2926,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 840,Villa,Ådalen 47,9575, Terndrup,2500000 ,20-06-2017,Alm. Salg,166,15060,5,2012,
 840,Villa,Bymarken 39,9530, Støvring,1450000 ,19-06-2017,Alm. Salg,140,10357,5,1976,-3%
 840,Villa,Kronhjorten 121,9530, Støvring,945000 ,19-06-2017,Alm. Salg,156,6058,6,2017,-69%
-840,Rækkehus,Hjordalsvej 4,9530, Støvring,2050000 ,18-06-2017,Alm. Salg,110,18636,2,2018,
-840,Ejerlejlighed,"Elmealle 1C, 1. th",9530, Støvring,2050000 ,18-06-2017,Alm. Salg,126,16270,4,2017,
 840,Villa,Siemvej 4,9520, Skørping,515000 ,18-06-2017,Alm. Salg,156,3301,4,1938,
 840,Villa,Stadionvej 8,9520, Skørping,200000 ,18-06-2017,Alm. Salg,104,1923,3,1966,
 840,Villa,Hulvejen 45,9530, Støvring,2975000 ,18-06-2017,Alm. Salg,169,17604,5,1997,-1%
@@ -3139,8 +3133,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 840,Ejerlejlighed,"Elmealle 1C, 1. tv",9530, Støvring,2069800 ,20-02-2017,Alm. Salg,123,16828,3,2017,
 840,Villa,Kronhjorten 39,9530, Støvring,6508630 ,19-02-2017,Alm. Salg,254,25625,8,0,125%
 840,Villa,Kronhjorten 145,9530, Støvring,775063 ,19-02-2017,Alm. Salg,185,4190,6,2018,-26%
-840,Ejerlejlighed,Vestergade 17B,9574, Bælum,270000 ,18-02-2017,Alm. Salg,94,2872,1,1900,
-840,Villa,Vestergade 17A. th,9574, Bælum,270000 ,18-02-2017,Alm. Salg,243,1111,7,1900,
 840,Rækkehus,Linde Alle 26,9530, Støvring,2048000 ,16-02-2017,Alm. Salg,116,17655,4,2017,
 840,Villa,Stensgade 11,9541, Suldrup,1250000 ,15-02-2017,Alm. Salg,146,8562,5,1961,
 840,Villa,Hadsundvej 16,9575, Terndrup,1025000 ,15-02-2017,Alm. Salg,224,4576,7,1907,-9%
@@ -3850,16 +3842,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 840,Villa,Ærtebjergvej 48,9230, Svenstrup J,2700000 ,19-08-2015,Alm. Salg,168,16071,6,1977,0%
 840,Villa,Ladelundsvej 5,9610, Nørager,1995000 ,18-08-2015,Alm. Salg,188,10612,6,1923,
 840,Villa,Gammel Skørpingvej 102,9520, Skørping,2100000 ,18-08-2015,Alm. Salg,141,14894,5,1961,
-840,Ejerlejlighed,"Viborgvej 2A, 1. tv",9530, Støvring,4300000 ,17-08-2015,Alm. Salg,50,86000,2,1900,
-840,Ejerlejlighed,"Viborgvej 2A, 1. th",9530, Støvring,4300000 ,17-08-2015,Alm. Salg,73,58904,2,1900,
-840,Ejerlejlighed,"Viborgvej 2, st. tv",9530, Støvring,4300000 ,17-08-2015,Alm. Salg,88,48864,3,1900,
-840,Ejerlejlighed,"Viborgvej 2A, 1. mf",9530, Støvring,4300000 ,17-08-2015,Alm. Salg,50,86000,2,1900,
-840,Ejerlejlighed,"Viborgvej 2, st. th",9530, Støvring,4300000 ,17-08-2015,Alm. Salg,69,62319,2,1900,
-840,Ejerlejlighed,"Hobrovej 72, 1. th",9530, Støvring,4300000 ,17-08-2015,Alm. Salg,98,43878,2,1900,
-840,Ejerlejlighed,"Hobrovej 72, 1. tv",9530, Støvring,4300000 ,17-08-2015,Alm. Salg,63,68254,2,1900,
-840,Ejerlejlighed,"Hobrovej 72, 2. mf",9530, Støvring,4300000 ,17-08-2015,Alm. Salg,45,95556,2,1900,
-840,Ejerlejlighed,"Hobrovej 72, 2. th",9530, Støvring,4300000 ,17-08-2015,Alm. Salg,49,87755,2,1900,
-840,Ejerlejlighed,"Hobrovej 72, 2. tv",9530, Støvring,4300000 ,17-08-2015,Alm. Salg,49,87755,2,1900,
 840,Villa,Hulvejen 7,9530, Støvring,2120000 ,17-08-2015,Alm. Salg,126,16825,4,1988,-3%
 840,Villa,Ravnborgvej 1,9574, Bælum,50500 ,17-08-2015,Auktion,92,549,3,1777,
 840,Villa,Viborgvej 68,9600, Aars,1100000 ,17-08-2015,Alm. Salg,140,7857,6,1939,
@@ -3994,11 +3976,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 840,Villa,Gammel Skørpingvej 78,9520, Skørping,1200000 ,10-05-2015,Alm. Salg,141,8511,3,1963,
 840,Villa,Bæveren 134,9530, Støvring,522500 ,10-05-2015,Alm. Salg,223,2343,5,2017,-17%
 840,Villa,Ølandsparken 12,9530, Støvring,427835 ,10-05-2015,Alm. Salg,164,2609,5,2016,
-840,Ejerlejlighed,"Torvet 11, st. th",9574, Bælum,500000 ,07-05-2015,Alm. Salg,82,6098,3,1935,-47%
-840,Ejerlejlighed,"Torvet 11, st. tv",9574, Bælum,500000 ,07-05-2015,Alm. Salg,108,4630,3,1935,-47%
-840,Ejerlejlighed,Østergade 1A,9574, Bælum,500000 ,07-05-2015,Alm. Salg,122,4098,4,1935,-47%
-840,Ejerlejlighed,"Østergade 1B, 1",9574, Bælum,500000 ,07-05-2015,Alm. Salg,60,8333,3,1935,-47%
-840,Ejerlejlighed,"Torvet 11, 1",9574, Bælum,500000 ,07-05-2015,Alm. Salg,85,5882,2,1935,-47%
 840,Villa,Skørpingvej 54,9575, Terndrup,645000 ,06-05-2015,Alm. Salg,115,5609,4,1900,
 840,Villa,Bratbjergvej 4,9610, Nørager,884128 ,06-05-2015,Alm. Salg,156,5667,6,1910,-35%
 840,Villa,Bæveren 59,9530, Støvring,712500 ,05-05-2015,Alm. Salg,182,3915,6,2015,-13%
@@ -5140,8 +5117,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 840,Villa,Kildebakken 1,9520, Skørping,765000 ,09-01-2012,Alm. Salg,87,8793,3,1959,-4%
 840,Villa,Vester Korupvej 47,9560, Hadsund,65000 ,09-01-2012,Auktion,191,340,7,1927,-90%
 840,Villa,Pilevej 9,9575, Terndrup,635000 ,09-01-2012,Alm. Salg,153,4150,6,1973,-12%
-840,Rækkehus,Skibstedvej 24A,9293, Kongerslev,400000 ,07-01-2012,Alm. Salg,68,5882,2,1900,-27%
-840,Ejerlejlighed,Skibstedvej 24B,9293, Kongerslev,400000 ,07-01-2012,Alm. Salg,167,2395,5,1900,-27%
 840,Villa,Vesterbygade 22,9520, Skørping,175000 ,06-01-2012,Alm. Salg,87,2011,3,1870,-12%
 840,Villa,Stentoften 19,9520, Skørping,2750000 ,05-01-2012,Alm. Salg,226,12168,6,1968,
 840,Villa,Bentevej 42,9520, Skørping,1852102 ,04-01-2012,Fam. Salg,219,8457,6,1974,
@@ -5455,26 +5430,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 840,Villa,Mosevej 6,9520, Skørping,550000 ,15-02-2011,Alm. Salg,397,1385,8,2016,-29%
 840,Rækkehus,Grangårdsvej 81,9530, Støvring,1265000 ,14-02-2011,Alm. Salg,119,10630,4,1978,-8%
 840,Villa,Rosenvænget 1,9520, Skørping,1060000 ,14-02-2011,Alm. Salg,166,6386,7,1967,-3%
-840,Ejerlejlighed,"Jernbanegade 27, st. tv",9530, Støvring,2001000 ,13-02-2011,Alm. Salg,67,29866,3,1892,
-840,Ejerlejlighed,"Jernbanegade 27, st. th",9530, Støvring,2001000 ,13-02-2011,Alm. Salg,47,42574,2,1892,
-840,Ejerlejlighed,"Jernbanegade 27, 1. th",9530, Støvring,2001000 ,13-02-2011,Alm. Salg,49,40837,2,1892,
-840,Ejerlejlighed,"Jernbanegade 27, 1. tv",9530, Støvring,2001000 ,13-02-2011,Alm. Salg,63,31762,3,1892,
-840,Ejerlejlighed,Doktorvænget 2A,9530, Støvring,2001000 ,13-02-2011,Alm. Salg,125,16008,4,1927,
-840,Ejerlejlighed,Parallelvej 2H,9530, Støvring,2001000 ,13-02-2011,Alm. Salg,88,22739,3,2020,
-840,Ejerlejlighed,"Parallelvej 2A, 1",9530, Støvring,2001000 ,13-02-2011,Alm. Salg,92,21750,3,2020,
-840,Ejerlejlighed,"Parallelvej 2, 1. th",9530, Støvring,2001000 ,13-02-2011,Alm. Salg,76,26329,4,1927,
-840,Ejerlejlighed,"Parallelvej 2E, 1",9530, Støvring,2001000 ,13-02-2011,Alm. Salg,88,22739,3,2020,
-840,Ejerlejlighed,Parallelvej 2P,9530, Støvring,2001000 ,13-02-2011,Alm. Salg,118,16958,4,2020,
-840,Ejerlejlighed,Parallelvej 2N,9530, Støvring,2001000 ,13-02-2011,Alm. Salg,92,21750,3,2020,
-840,Ejerlejlighed,"Parallelvej 2G, 1",9530, Støvring,2001000 ,13-02-2011,Alm. Salg,88,22739,3,2020,
-840,Ejerlejlighed,"Parallelvej 2C, 1",9530, Støvring,2001000 ,13-02-2011,Alm. Salg,88,22739,3,2020,
-840,Ejerlejlighed,Parallelvej 2D,9530, Støvring,2001000 ,13-02-2011,Alm. Salg,88,22739,3,2020,
-840,Ejerlejlighed,"Parallelvej 2M, 1",9530, Støvring,2001000 ,13-02-2011,Alm. Salg,118,16958,4,2020,
-840,Ejerlejlighed,Parallelvej 2F,9530, Støvring,2001000 ,13-02-2011,Alm. Salg,88,22739,3,2020,
-840,Ejerlejlighed,Doktorvænget 2B,9530, Støvring,2001000 ,13-02-2011,Alm. Salg,90,22233,4,1927,
-840,Ejerlejlighed,"Parallelvej 2K, 1",9530, Støvring,2001000 ,13-02-2011,Alm. Salg,92,21750,3,2020,
-840,Ejerlejlighed,Parallelvej 2B,9530, Støvring,2001000 ,13-02-2011,Alm. Salg,92,21750,3,2020,
-840,Ejerlejlighed,"Parallelvej 2, 1. tv",9530, Støvring,2001000 ,13-02-2011,Alm. Salg,102,19618,4,1927,
 840,Villa,Nibevej 185,9530, Støvring,1030000 ,11-02-2011,Alm. Salg,156,6131,7,1930,-2%
 840,Villa,Rådyret 54,9530, Støvring,361300 ,11-02-2011,Fam. Salg,130,2779,5,1966,
 840,Villa,Bæveren 80,9530, Støvring,557966 ,10-02-2011,Alm. Salg,202,2762,7,2012,
@@ -5915,7 +5870,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 840,Villa,Hulvejen 181,9530, Støvring,2460000 ,14-12-2009,Alm. Salg,184,13370,6,2005,-1%
 840,Villa,Bogfinkevej 6,9575, Terndrup,180000 ,14-12-2009,Alm. Salg,236,763,6,2011,-18%
 840,Villa,Veggerbyvej 16,9541, Suldrup,700000 ,13-12-2009,Alm. Salg,68,10294,4,1954,
-840,Villa,Mejlbyvej 4,9610, Nørager,9080000 ,10-12-2009,Andet,134,67761,4,1913,
 840,Villa,Hulvejen 87,9530, Støvring,2755000 ,08-12-2009,Alm. Salg,173,15925,6,1998,
 840,Villa,Bakkevej 14,9530, Støvring,1603521 ,08-12-2009,Alm. Salg,110,14577,5,1960,
 840,Villa,Erstedvej 30,9520, Skørping,613267 ,08-12-2009,Alm. Salg,213,2879,6,1862,
@@ -6799,9 +6753,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 840,Villa,Døstrupvej 201,9610, Nørager,698000 ,27-09-2007,Alm. Salg,178,3921,4,1928,
 840,Villa,Højdedraget 122,9530, Støvring,1625000 ,26-09-2007,Fam. Salg,193,8420,6,2007,
 840,Villa,Dalgården 11,9530, Støvring,3100000 ,25-09-2007,Alm. Salg,201,15423,6,1995,
-840,Ejerlejlighed,Anlægsvej 1,9610, Nørager,1076500 ,24-09-2007,Fam. Salg,74,14547,3,1920,
-840,Ejerlejlighed,"Bredgade 30, 1",9610, Nørager,1076500 ,24-09-2007,Fam. Salg,184,5851,5,1920,
-840,Ejerlejlighed,"Anlægsvej 1A, 1",9610, Nørager,1076500 ,24-09-2007,Fam. Salg,78,13801,3,1920,
 840,Villa,Teglgårdsvej 5,9520, Skørping,2800000 ,23-09-2007,Alm. Salg,212,13208,8,1951,-3%
 840,Villa,Lærkevej 12,9530, Støvring,1775000 ,23-09-2007,Alm. Salg,179,9916,6,1965,-1%
 840,Villa,Engesvangvej 3,9575, Terndrup,1651000 ,23-09-2007,Alm. Salg,301,5485,7,2015,0%
@@ -7044,15 +6995,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 840,Villa,Vandværksvej 9,9520, Skørping,600000 ,01-05-2007,Alm. Salg,133,4511,3,1947,-4%
 840,Villa,Ølandsparken 21,9530, Støvring,175750 ,01-05-2007,Alm. Salg,158,1112,5,2007,
 840,Villa,Møllers Bakker 25,9541, Suldrup,185100 ,01-05-2007,Alm. Salg,154,1202,5,2008,
-840,Ejerlejlighed,"Hjedsbækvej 323, st. mf",9541, Suldrup,1409000 ,30-04-2007,Alm. Salg,83,16976,3,1944,
-840,Ejerlejlighed,"Hjedsbækvej 323, 1. th",9541, Suldrup,1409000 ,30-04-2007,Alm. Salg,50,28180,1,1944,
-840,Ejerlejlighed,"Hjedsbækvej 323, st. th",9541, Suldrup,1409000 ,30-04-2007,Alm. Salg,40,35225,1,1944,
-840,Ejerlejlighed,"Hjedsbækvej 323, 1. tv",9541, Suldrup,1409000 ,30-04-2007,Alm. Salg,58,24293,2,1944,
-840,Ejerlejlighed,"Torstedvej 63, st",9541, Suldrup,1409000 ,30-04-2007,Alm. Salg,80,17613,3,1933,
-840,Ejerlejlighed,Torstedvej 61,9541, Suldrup,1409000 ,30-04-2007,Alm. Salg,55,25618,2,1933,
-840,Ejerlejlighed,"Torstedvej 63, 1",9541, Suldrup,1409000 ,30-04-2007,Alm. Salg,80,17613,3,1933,
-840,Ejerlejlighed,"Torstedvej 65, st. tv",9541, Suldrup,1409000 ,30-04-2007,Alm. Salg,90,15656,3,1933,
-840,Ejerlejlighed,"Torstedvej 65, st. th",9541, Suldrup,1409000 ,30-04-2007,Alm. Salg,48,29354,2,1933,
 840,Villa,Ørnbjergvej 5,9610, Nørager,455000 ,30-04-2007,Alm. Salg,102,4461,3,1970,
 840,Villa,Veggerbyvej 18,9541, Suldrup,383022 ,30-04-2007,Alm. Salg,77,4974,4,1961,
 840,Villa,Skråvejen 1,9520, Skørping,498466 ,30-04-2007,Andet,183,2724,4,1948,
@@ -8049,9 +7991,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 840,Villa,Lindevej 6,9574, Bælum,267342 ,22-09-2005,Alm. Salg,107,2499,4,1932,
 840,Villa,Stensgaardsvej 1,9530, Støvring,1550000 ,22-09-2005,Alm. Salg,130,11923,6,1961,
 840,Villa,Højdedraget 102,9530, Støvring,752000 ,22-09-2005,Alm. Salg,282,2667,6,2008,
-840,Ejerlejlighed,Anlægsvej 1,9610, Nørager,1725000 ,20-09-2005,Alm. Salg,74,23311,3,1920,
-840,Ejerlejlighed,"Bredgade 30, 1",9610, Nørager,1725000 ,20-09-2005,Alm. Salg,184,9375,5,1920,
-840,Ejerlejlighed,"Anlægsvej 1A, 1",9610, Nørager,1725000 ,20-09-2005,Alm. Salg,78,22115,3,1920,
 840,Villa,Jernbanegade 16,9610, Nørager,620000 ,20-09-2005,Alm. Salg,177,3503,5,1987,
 840,Villa,Syrenvej 2,9530, Støvring,900000 ,20-09-2005,Fam. Salg,178,5056,6,1963,
 840,Villa,Nibevej 14,9530, Støvring,1910000 ,20-09-2005,Alm. Salg,337,5668,9,1949,
@@ -9480,11 +9419,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 840,Villa,Aagade 70,9500, Hobro,51000 ,04-03-2003,Auktion,89,573,3,1928,
 840,Rækkehus,Kastanievej 11,9575, Terndrup,590000 ,03-03-2003,Alm. Salg,125,4720,5,1980,
 840,Villa,Hjedsbækvej 292,9541, Suldrup,545000 ,03-03-2003,Alm. Salg,130,4192,7,1945,
-840,Ejerlejlighed,Torvegyden 1A,9520, Skørping,1740000 ,02-03-2003,Alm. Salg,38,45789,2,1910,
-840,Ejerlejlighed,"Jyllandsgade 10B, 1. th",9520, Skørping,1740000 ,02-03-2003,Alm. Salg,65,26769,2,1910,
-840,Ejerlejlighed,"Jyllandsgade 10B, 2. th",9520, Skørping,1740000 ,02-03-2003,Alm. Salg,57,30526,2,1910,
-840,Ejerlejlighed,"Jyllandsgade 10B, 1. tv",9520, Skørping,1740000 ,02-03-2003,Alm. Salg,55,31636,1,1910,
-840,Ejerlejlighed,"Jyllandsgade 10B, 2. tv",9520, Skørping,1740000 ,02-03-2003,Alm. Salg,57,30526,2,1910,
 840,Villa,Viborgvej 58,9600, Aars,1140000 ,02-03-2003,Fam. Salg,145,7862,4,1931,
 840,Villa,Mejsevej 7,9575, Terndrup,595000 ,28-02-2003,Alm. Salg,115,5174,5,1972,
 840,Villa,Mølledamsvej 3,9575, Terndrup,795000 ,27-02-2003,Alm. Salg,185,4297,5,1957,
@@ -9585,7 +9519,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 840,Villa,Præstemarken 3,9541, Suldrup,340000 ,10-12-2002,Alm. Salg,93,3656,3,1954,
 840,Villa,Vestbygade 23,9610, Nørager,957000 ,10-12-2002,Alm. Salg,492,1945,8,1930,
 840,Ejerlejlighed,"Skørping Center 14B, 1",9520, Skørping,1050000 ,09-12-2002,Alm. Salg,173,6069,5,1989,
-840,Villa,Jyllandsgade 37,9610, Nørager,650000 ,09-12-2002,Alm. Salg,53,12264,2,1966,
 840,Villa,Elmealle 8,9530, Støvring,955000 ,08-12-2002,Alm. Salg,145,6586,4,1964,
 840,Villa,Ved Højene 3,9541, Suldrup,750000 ,06-12-2002,Alm. Salg,106,7075,3,1987,
 840,Villa,Skovvej 6,9575, Terndrup,607571 ,06-12-2002,Alm. Salg,139,4371,4,1956,
@@ -10309,16 +10242,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 840,Villa,Storhøjvej 18,9530, Støvring,1350000 ,14-06-2001,Alm. Salg,280,4821,9,1965,
 840,Rækkehus,Sdr. Banevej 4,9520, Skørping,410000 ,13-06-2001,Alm. Salg,93,4409,3,1986,
 840,Ejerlejlighed,"Grangårdsvej 18, 1. th",9530, Støvring,534000 ,13-06-2001,Alm. Salg,64,8344,2,1972,
-840,Ejerlejlighed,"Viborgvej 2A, 1. tv",9530, Støvring,99450 ,12-06-2001,Andet,50,1989,2,1900,
-840,Ejerlejlighed,"Viborgvej 2A, 1. th",9530, Støvring,99450 ,12-06-2001,Andet,73,1362,2,1900,
-840,Ejerlejlighed,"Viborgvej 2, st. tv",9530, Støvring,99450 ,12-06-2001,Andet,88,1130,3,1900,
-840,Ejerlejlighed,"Viborgvej 2A, 1. mf",9530, Støvring,99450 ,12-06-2001,Andet,50,1989,2,1900,
-840,Ejerlejlighed,"Viborgvej 2, st. th",9530, Støvring,99450 ,12-06-2001,Andet,69,1441,2,1900,
-840,Ejerlejlighed,"Hobrovej 72, 1. th",9530, Støvring,99450 ,12-06-2001,Andet,98,1015,2,1900,
-840,Ejerlejlighed,"Hobrovej 72, 1. tv",9530, Støvring,99450 ,12-06-2001,Andet,63,1579,2,1900,
-840,Ejerlejlighed,"Hobrovej 72, 2. mf",9530, Støvring,99450 ,12-06-2001,Andet,45,2210,2,1900,
-840,Ejerlejlighed,"Hobrovej 72, 2. th",9530, Støvring,99450 ,12-06-2001,Andet,49,2030,2,1900,
-840,Ejerlejlighed,"Hobrovej 72, 2. tv",9530, Støvring,99450 ,12-06-2001,Andet,49,2030,2,1900,
 840,Villa,Hurupvej 12,9574, Bælum,625000 ,11-06-2001,Alm. Salg,160,3906,4,1903,
 840,Villa,Toften 19,9530, Støvring,820000 ,11-06-2001,Alm. Salg,102,8039,4,1985,
 840,Villa,Grangårdsvej 102,9530, Støvring,1100000 ,10-06-2001,Alm. Salg,145,7586,5,1973,
@@ -10388,7 +10311,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 840,Villa,Bogfinkevej 7,9575, Terndrup,65000 ,07-05-2001,Alm. Salg,208,313,6,2002,
 840,Ejerlejlighed,"Bredgade 36, 1",9610, Nørager,510000 ,06-05-2001,Alm. Salg,69,7391,3,1913,
 840,Villa,Vestermarksvej 16,9610, Nørager,350000 ,06-05-2001,Alm. Salg,77,4545,3,1943,
-840,Villa,Mejlbyvej 2,9610, Nørager,450000 ,06-05-2001,Alm. Salg,127,3543,4,1929,
 840,Villa,Hulvejen 168,9530, Støvring,219100 ,06-05-2001,Alm. Salg,189,1159,5,2001,
 840,Villa,Bredgade 48,9610, Nørager,430000 ,06-05-2001,Alm. Salg,80,5375,3,1960,
 840,Rækkehus,Mastrupvej 8,9530, Støvring,789000 ,03-05-2001,Alm. Salg,117,6744,3,1973,
@@ -11689,11 +11611,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 840,Villa,Tvoruphøjevej 6,9520, Skørping,180000 ,20-12-1998,Alm. Salg,361,499,4,1925,
 840,Villa,Rykkumvej 12,9541, Suldrup,161100 ,19-12-1998,Fam. Salg,105,1534,3,1966,
 840,Rækkehus,Ved Skoven 14,9520, Skørping,625000 ,18-12-1998,Alm. Salg,97,6443,3,1983,
-840,Ejerlejlighed,Torvegyden 1A,9520, Skørping,1150000 ,17-12-1998,Andet,38,30263,2,1910,
-840,Ejerlejlighed,"Jyllandsgade 10B, 1. th",9520, Skørping,1150000 ,17-12-1998,Andet,65,17692,2,1910,
-840,Ejerlejlighed,"Jyllandsgade 10B, 2. th",9520, Skørping,1150000 ,17-12-1998,Andet,57,20175,2,1910,
-840,Ejerlejlighed,"Jyllandsgade 10B, 1. tv",9520, Skørping,1150000 ,17-12-1998,Andet,55,20909,1,1910,
-840,Ejerlejlighed,"Jyllandsgade 10B, 2. tv",9520, Skørping,1150000 ,17-12-1998,Andet,57,20175,2,1910,
 840,Villa,Mosbæksalle 18,9530, Støvring,665000 ,17-12-1998,Alm. Salg,139,4784,4,1952,
 840,Villa,Højvangsvej 23B,9574, Bælum,76600 ,17-12-1998,Alm. Salg,158,485,4,1999,
 840,Villa,Vester Korupvej 43,9560, Hadsund,929485 ,17-12-1998,Alm. Salg,165,5633,6,1914,
@@ -11851,11 +11768,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 840,Villa,Mølholmvej 17A,9520, Skørping,399916 ,15-09-1998,Alm. Salg,166,2409,4,1953,
 840,Villa,Lindevej 1,9574, Bælum,800000 ,13-09-1998,Alm. Salg,143,5594,8,1925,
 840,Villa,Bredgade 33,9610, Nørager,287500 ,13-09-1998,Alm. Salg,110,2614,4,1925,
-840,Ejerlejlighed,"Torvet 11, st. th",9574, Bælum,1000000 ,10-09-1998,Alm. Salg,82,12195,3,1935,
-840,Ejerlejlighed,"Torvet 11, st. tv",9574, Bælum,1000000 ,10-09-1998,Alm. Salg,108,9259,3,1935,
-840,Ejerlejlighed,Østergade 1A,9574, Bælum,1000000 ,10-09-1998,Alm. Salg,122,8197,4,1935,
-840,Ejerlejlighed,"Østergade 1B, 1",9574, Bælum,1000000 ,10-09-1998,Alm. Salg,60,16667,3,1935,
-840,Ejerlejlighed,"Torvet 11, 1",9574, Bælum,1000000 ,10-09-1998,Alm. Salg,85,11765,2,1935,
 840,Villa,Vandværksvej 7,9520, Skørping,590000 ,10-09-1998,Alm. Salg,97,6082,5,1948,
 840,Rækkehus,Grangårdsvej 73,9530, Støvring,754389 ,09-09-1998,Alm. Salg,119,6339,4,1978,
 840,Ejerlejlighed,Hobrovej 96A,9530, Støvring,195000 ,09-09-1998,Alm. Salg,69,2826,2,1920,
@@ -12184,11 +12096,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 840,Villa,Møllevej 2,9610, Nørager,236500 ,20-02-1998,Alm. Salg,95,2489,3,1947,
 840,Villa,Elbjergvej 6,9610, Nørager,395000 ,20-02-1998,Alm. Salg,135,2926,5,1946,
 840,Villa,Hyldalvej 15,9541, Suldrup,1900000 ,19-02-1998,Alm. Salg,264,7197,6,1885,
-840,Ejerlejlighed,Torvegyden 1A,9520, Skørping,1100000 ,18-02-1998,Alm. Salg,38,28947,2,1910,
-840,Ejerlejlighed,"Jyllandsgade 10B, 1. th",9520, Skørping,1100000 ,18-02-1998,Alm. Salg,65,16923,2,1910,
-840,Ejerlejlighed,"Jyllandsgade 10B, 2. th",9520, Skørping,1100000 ,18-02-1998,Alm. Salg,57,19298,2,1910,
-840,Ejerlejlighed,"Jyllandsgade 10B, 1. tv",9520, Skørping,1100000 ,18-02-1998,Alm. Salg,55,20000,1,1910,
-840,Ejerlejlighed,"Jyllandsgade 10B, 2. tv",9520, Skørping,1100000 ,18-02-1998,Alm. Salg,57,19298,2,1910,
 840,Villa,Skonhøjvej 9,9500, Hobro,2750339 ,18-02-1998,Alm. Salg,120,22919,3,1907,
 840,Villa,Granvej 1,9520, Skørping,550000 ,17-02-1998,Alm. Salg,128,4297,3,1973,
 840,Villa,Kammerherrevej 16,9530, Støvring,616000 ,17-02-1998,Alm. Salg,192,3208,7,1907,
@@ -13086,7 +12993,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 840,Villa,Hulvejen 50,9530, Støvring,342587 ,19-06-1996,Alm. Salg,165,2076,6,1996,
 840,Villa,Fredensgade 12,9530, Støvring,695000 ,18-06-1996,Andet,128,5430,5,1935,
 840,Villa,Mastruphøj 30,9530, Støvring,420131 ,18-06-1996,Fam. Salg,132,3183,4,1979,
-840,Villa,Hjedsbækvej 325B,9541, Suldrup,650000 ,18-06-1996,Andet,98,6633,4,1929,
 840,Villa,Hjedsbækvej 304,9541, Suldrup,572000 ,17-06-1996,Alm. Salg,120,4767,9,1944,
 840,Rækkehus,Rafns Alle 11,9530, Støvring,860000 ,16-06-1996,Alm. Salg,111,7748,4,1990,
 840,Villa,Ingerdalsvej 16,9530, Støvring,29000 ,16-06-1996,Alm. Salg,189,153,5,1936,
@@ -13154,7 +13060,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 840,Villa,Nibevej 54,9530, Støvring,235000 ,05-05-1996,Alm. Salg,214,1098,5,1907,
 840,Villa,Hasselvej 22,9530, Støvring,165000 ,05-05-1996,Alm. Salg,133,1241,4,1997,
 840,Villa,Gammel Skørpingvej 64,9520, Skørping,843824 ,05-05-1996,Alm. Salg,143,5901,7,1963,
-840,Villa,"Vestergade 21A, st",9610, Nørager,730000 ,02-05-1996,Alm. Salg,183,3989,10,1909,
 840,Villa,Søndervang 22,9530, Støvring,1091920 ,01-05-1996,Alm. Salg,165,6618,5,1973,
 840,Villa,Østervænget 13,9530, Støvring,634000 ,30-04-1996,Alm. Salg,126,5032,5,1964,
 840,Villa,Linalyst 53,9610, Nørager,650000 ,28-04-1996,Alm. Salg,156,4167,5,1984,
@@ -13324,7 +13229,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 840,Villa,Fyrrebakken 77,9530, Støvring,850000 ,03-01-1996,Alm. Salg,150,5667,5,1976,
 840,Villa,Tvoruphøjevej 2,9574, Bælum,790000 ,02-01-1996,Alm. Salg,220,3591,6,1920,
 840,Villa,Porsborgvej 17,9530, Støvring,804000 ,01-01-1996,Alm. Salg,160,5025,5,1975,
-840,Ejerlejlighed,Aalborgvej 59,9260, Gistrup,20890000 ,28-12-1995,Alm. Salg,90,232111,3,1904,
 840,Ejerlejlighed,"Hobrovej 73B, 1",9530, Støvring,316523 ,21-12-1995,Alm. Salg,82,3860,3,1927,
 840,Villa,Solfryd 6,9530, Støvring,878000 ,21-12-1995,Alm. Salg,145,6055,6,1983,
 840,Villa,Vestre Alle 61,9530, Støvring,700000 ,21-12-1995,Fam. Salg,188,3723,6,1974,
@@ -13547,10 +13451,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 840,Villa,Fredensgade 10,9530, Støvring,435000 ,01-08-1995,Alm. Salg,126,3452,7,1933,
 840,Villa,Parallelvej 1C,9530, Støvring,514610 ,01-08-1995,Alm. Salg,98,5251,4,1985,
 840,Villa,Hellum Hedevej 8,9520, Skørping,165000 ,01-08-1995,Fam. Salg,62,2661,2,1777,
-840,Ejerlejlighed,Møldrupvej 1A,9520, Skørping,1235000 ,31-07-1995,Alm. Salg,76,16250,2,1957,
-840,Ejerlejlighed,"Jyllandsgade 6, 1",9520, Skørping,1235000 ,31-07-1995,Alm. Salg,148,8345,7,1957,
-840,Ejerlejlighed,"Jyllandsgade 6, 2. 1",9520, Skørping,1235000 ,31-07-1995,Alm. Salg,71,17394,2,1957,
-840,Ejerlejlighed,"Jyllandsgade 6, 2. 2",9520, Skørping,1235000 ,31-07-1995,Alm. Salg,42,29405,2,1957,
 840,Villa,Gravlevvej 6,9520, Skørping,300000 ,31-07-1995,Fam. Salg,175,1176,6,1902,
 840,Villa,Havrevej 5,9574, Bælum,338000 ,30-07-1995,Alm. Salg,94,3596,3,1928,
 840,Villa,Østerbygade 5,9520, Skørping,175000 ,30-07-1995,Alm. Salg,165,1061,8,1929,
@@ -14131,8 +14031,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 840,Villa,Hobrovej 39,9530, Støvring,415000 ,22-06-1994,Alm. Salg,94,4415,4,1930,
 840,Villa,Pilevej 1,9530, Støvring,637469 ,22-06-1994,Alm. Salg,230,2772,5,1964,
 840,Rækkehus,Grangårdsvej 69,9530, Støvring,490000 ,21-06-1994,Alm. Salg,124,3952,4,1978,
-840,Rækkehus,Skibstedvej 24A,9293, Kongerslev,220000 ,21-06-1994,Alm. Salg,68,3235,2,1900,
-840,Ejerlejlighed,Skibstedvej 24B,9293, Kongerslev,220000 ,21-06-1994,Alm. Salg,167,1317,5,1900,
 840,Villa,Maagevej 3,9610, Nørager,555000 ,21-06-1994,Alm. Salg,160,3469,4,1974,
 840,Villa,Byrstedvej 35,9240, Nibe,230000 ,21-06-1994,Alm. Salg,107,2150,3,1957,
 840,Villa,Hanebakken 37,9520, Skørping,246500 ,21-06-1994,Fam. Salg,94,2622,4,1959,
@@ -14910,10 +14808,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 840,Villa,Mastruphøj 32,9530, Støvring,425000 ,01-11-1992,Alm. Salg,195,2179,6,1981,
 840,Villa,Hjedsbækvej 175,9541, Suldrup,410309 ,01-11-1992,Alm. Salg,202,2031,7,1900,
 840,Villa,Gammel Hobrovej 2,9610, Nørager,315000 ,29-10-1992,Fam. Salg,192,1641,7,1974,
-840,Ejerlejlighed,Møldrupvej 1A,9520, Skørping,1000000 ,28-10-1992,Alm. Salg,76,13158,2,1957,
-840,Ejerlejlighed,"Jyllandsgade 6, 1",9520, Skørping,1000000 ,28-10-1992,Alm. Salg,148,6757,7,1957,
-840,Ejerlejlighed,"Jyllandsgade 6, 2. 1",9520, Skørping,1000000 ,28-10-1992,Alm. Salg,71,14085,2,1957,
-840,Ejerlejlighed,"Jyllandsgade 6, 2. 2",9520, Skørping,1000000 ,28-10-1992,Alm. Salg,42,23810,2,1957,
 840,Villa,Øster Korupvej 9,9560, Hadsund,250000 ,28-10-1992,Alm. Salg,130,1923,6,1935,
 840,Villa,Gammel Viborgvej 40,9530, Støvring,675000 ,28-10-1992,Alm. Salg,149,4530,4,1956,
 840,Villa,Brorstrup Kærvej 3,9610, Nørager,150000 ,28-10-1992,Alm. Salg,148,1014,4,2010,

@@ -43,9 +43,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Vejlevej 127,6880, Tarm,1787500 ,06-12-2022,Alm. Salg,203,8805,3,1912,-10%
 760,Villa,Kirkevej 15,6900, Skjern,150000 ,06-12-2022,Alm. Salg,113,1327,5,1913,
 760,Villa,Elmevej 1,6900, Skjern,1720000 ,06-12-2022,Alm. Salg,160,10750,5,1972,
-760,Rækkehus,Enghavevej 26A,6950, Ringkøbing,1160000 ,05-12-2022,Alm. Salg,144,8056,5,1907,-17%
 760,Villa,Skjernvej 55,6920, Videbæk,725000 ,05-12-2022,Alm. Salg,147,4932,4,1948,-3%
-760,Villa,Enghavevej 26B,6950, Ringkøbing,1160000 ,05-12-2022,Alm. Salg,109,10642,4,1907,-17%
 760,Villa,Granvænget 5,6920, Videbæk,1195000 ,05-12-2022,Alm. Salg,109,10963,4,1965,
 760,Villa,Kirkebyvej 28,6900, Skjern,875000 ,04-12-2022,Alm. Salg,157,5573,4,1950,
 760,Villa,Vibevej 50,6920, Videbæk,650000 ,04-12-2022,Alm. Salg,138,4710,4,1973,
@@ -193,8 +191,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Ejerlejlighed,"Lodbergsvej 3, 1",6950, Ringkøbing,8535000 ,05-10-2022,Alm. Salg,100,85350,6,2007,
 760,Villa,Vestervang 11,6950, Ringkøbing,1070000 ,05-10-2022,Alm. Salg,94,11383,3,1970,-2%
 760,Villa,Grønnegade 11,6900, Skjern,1395000 ,05-10-2022,Alm. Salg,117,11923,2,1917,
-760,Rækkehus,Storegade 28A,6880, Tarm,1075000 ,04-10-2022,Alm. Salg,81,13272,3,1900,
-760,Ejerlejlighed,Storegade 28B,6880, Tarm,1075000 ,04-10-2022,Alm. Salg,38,28289,1,1900,
 760,Villa,Vejlevej 99,6880, Tarm,535000 ,04-10-2022,Fam. Salg,113,4735,3,1929,
 760,Villa,Gytjevej 52,6960, Hvide Sande,112000 ,03-10-2022,Fam. Salg,190,589,8,1985,
 760,Villa,Herningvej 39,6920, Videbæk,1450000 ,03-10-2022,Alm. Salg,152,9539,7,1857,
@@ -390,9 +386,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Klostervej 49,6950, Ringkøbing,2225000 ,11-07-2022,Alm. Salg,158,14082,5,2004,-7%
 760,Villa,Svalevej 5,6900, Skjern,1050000 ,11-07-2022,Alm. Salg,110,9545,3,1964,-12%
 760,Rækkehus,Nygade 7,6900, Skjern,350000 ,10-07-2022,Alm. Salg,87,4023,3,1907,
-760,Ejerlejlighed,Nygade 45,6900, Skjern,1300000 ,10-07-2022,Alm. Salg,65,20000,3,1924,
-760,Ejerlejlighed,Nørrealle 16,6900, Skjern,1300000 ,10-07-2022,Alm. Salg,80,16250,3,1924,
-760,Ejerlejlighed,Nørrealle 14,6900, Skjern,1300000 ,10-07-2022,Alm. Salg,58,22414,3,1924,
 760,Villa,Enebærvej 85,6880, Tarm,1050000 ,10-07-2022,Andet,145,7241,5,1966,
 760,Villa,Gadegårdsvej 7A,6950, Ringkøbing,663000 ,10-07-2022,Fam. Salg,120,5525,4,1987,
 760,Villa,Enghavevej 30,6900, Skjern,830000 ,07-07-2022,Alm. Salg,100,8300,4,1961,-7%
@@ -593,10 +586,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Algade 75,6971, Spjald,1895000 ,03-05-2022,Alm. Salg,148,12804,6,1992,
 760,Villa,Glenten 11,6920, Videbæk,1100000 ,03-05-2022,Alm. Salg,149,7383,5,1971,-8%
 760,Villa,Bavnehøj 11,6900, Skjern,684000 ,03-05-2022,Alm. Salg,155,4413,7,1947,-2%
-760,Ejerlejlighed,Storegade 55A,6880, Tarm,1400000 ,02-05-2022,Alm. Salg,98,14286,3,1900,
-760,Ejerlejlighed,Storegade 55B,6880, Tarm,1400000 ,02-05-2022,Alm. Salg,62,22581,3,1900,
-760,Ejerlejlighed,Klosterengen 4,6880, Tarm,1400000 ,02-05-2022,Alm. Salg,68,20588,2,1900,
-760,Ejerlejlighed,Klosterengen 6,6880, Tarm,1400000 ,02-05-2022,Alm. Salg,65,21538,2,1900,
 760,Villa,Pallasvej 31,6960, Hvide Sande,1350000 ,02-05-2022,Alm. Salg,127,10630,4,1981,-3%
 760,Villa,Højbjergvej 64,6950, Ringkøbing,1050000 ,02-05-2022,Alm. Salg,180,5833,6,1980,-12%
 760,Villa,Elmevej 11,6880, Tarm,400000 ,02-05-2022,Fam. Salg,71,5634,3,1950,
@@ -688,8 +677,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Korsvej 13,6880, Tarm,875000 ,03-04-2022,Alm. Salg,85,10294,4,1904,
 760,Villa,Rydbjergvej 4,6950, Ringkøbing,600000 ,02-04-2022,Alm. Salg,146,4110,6,1959,
 760,Villa,Gl. Kongevej 38,6880, Tarm,1125000 ,02-04-2022,Alm. Salg,117,9615,5,1953,-6%
-760,Rækkehus,Storegade 1B,6900, Skjern,1500000 ,31-03-2022,Andet,69,21739,2,1968,
-760,Ejerlejlighed,Borgergade 2,6900, Skjern,1500000 ,31-03-2022,Andet,70,21429,3,1968,
 760,Villa,Guldregnalle 19,6920, Videbæk,1025000 ,31-03-2022,Alm. Salg,125,8200,4,1974,
 760,Villa,Kirkevej 14,6950, Ringkøbing,1350000 ,31-03-2022,Alm. Salg,105,12857,4,1960,-3%
 760,Villa,Hovedgaden 109,6971, Spjald,215559 ,31-03-2022,Auktion,64,3368,4,1940,
@@ -716,7 +703,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Ejerlejlighed,Mellemgade 3A,6950, Ringkøbing,1530000 ,27-03-2022,Alm. Salg,85,18000,3,1985,
 760,Villa,Vestergade 13,6960, Hvide Sande,1050000 ,27-03-2022,Alm. Salg,121,8678,3,1959,
 760,Villa,Tingbakken 4,6900, Skjern,275000 ,27-03-2022,Andet,160,1719,5,1976,
-760,Villa,Engsiggade 12,6900, Skjern,850000 ,27-03-2022,Alm. Salg,108,7870,4,1900,-5%
 760,Villa,Irisvej 125,6880, Tarm,405000 ,24-03-2022,Auktion,146,2774,6,1967,
 760,Villa,Store Kjærgaardsvej 10,6940, Lem St,570000 ,24-03-2022,Alm. Salg,105,5429,4,1964,-5%
 760,Villa,Vandmøllevej 1,6920, Videbæk,1450000 ,23-03-2022,Alm. Salg,136,10662,4,1985,
@@ -991,12 +977,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Enebærvej 5,6950, Ringkøbing,925000 ,08-12-2021,Alm. Salg,115,8043,4,1973,-7%
 760,Villa,Bækager 13,6893, Hemmet,965000 ,08-12-2021,Alm. Salg,210,4595,8,1979,-3%
 760,Villa,Kirkevej 25,6900, Skjern,880000 ,08-12-2021,Alm. Salg,198,4444,6,1977,-12%
-760,Rækkehus,Birkevænget 4C,6900, Skjern,318500 ,07-12-2021,Fam. Salg,95,3353,3,1964,
 760,Villa,Rundingen 16,6971, Spjald,618000 ,07-12-2021,Fam. Salg,171,3614,6,2002,
 760,Villa,Tværvej 6,6940, Lem St,435000 ,07-12-2021,Alm. Salg,55,7909,2,1944,-6%
 760,Villa,Parkalle 1,6920, Videbæk,970000 ,07-12-2021,Alm. Salg,101,9604,5,1961,-7%
 760,Villa,Stauningvej 48A,6900, Skjern,175000 ,07-12-2021,Alm. Salg,54,3241,2,1898,
-760,Villa,Birkevænget 4B,6900, Skjern,318500 ,07-12-2021,Fam. Salg,83,3837,6,1964,
 760,Villa,Grønningen 21,6920, Videbæk,925000 ,06-12-2021,Alm. Salg,146,6336,5,1973,-7%
 760,Villa,Bredgade 34,6880, Tarm,1395000 ,06-12-2021,Alm. Salg,181,7707,6,1955,
 760,Villa,Rylen 4,6920, Videbæk,850000 ,06-12-2021,Alm. Salg,253,3360,9,1971,
@@ -1056,7 +1040,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Skelmosevej 53,6980, Tim,630000 ,14-11-2021,Alm. Salg,149,4228,5,1987,-10%
 760,Villa,Kildsigvej 12,6971, Spjald,200000 ,13-11-2021,Alm. Salg,171,1170,7,1915,
 760,Villa,Amagervej 10,6900, Skjern,480000 ,11-11-2021,Alm. Salg,132,3636,5,1952,-3%
-760,Rækkehus,Algade 4C,6950, Ringkøbing,9250000 ,10-11-2021,Alm. Salg,103,89806,3,1950,
 760,Villa,Vejlevej 127,6880, Tarm,28063630 ,10-11-2021,Alm. Salg,203,138244,3,1912,
 760,Villa,Østervang 4,6900, Skjern,1825000 ,10-11-2021,Alm. Salg,134,13619,5,1961,-6%
 760,Rækkehus,Byskellet 50,6950, Ringkøbing,1150000 ,09-11-2021,Alm. Salg,103,11165,4,1979,
@@ -1148,8 +1131,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Bakkevej 7,6960, Hvide Sande,1150000 ,06-10-2021,Alm. Salg,120,9583,3,1969,-18%
 760,Villa,Fasanvej 7,6980, Tim,400000 ,06-10-2021,Alm. Salg,88,4545,4,1962,-19%
 760,Rækkehus,Bøgelundsvej 3B,6920, Videbæk,425000 ,05-10-2021,Alm. Salg,67,6343,3,1975,
-760,Rækkehus,Bredgade 147,6900, Skjern,1430000 ,05-10-2021,Alm. Salg,91,15714,3,2011,
-760,Villa,Ånumvej 51,6900, Skjern,1430000 ,05-10-2021,Alm. Salg,138,10362,4,1972,-6%
 760,Villa,Fjelstrupvej 12,6920, Videbæk,650000 ,05-10-2021,Fam. Salg,158,4114,7,1965,
 760,Ejerlejlighed,"Lodbergsvej 227I, st. 102i",6950, Ringkøbing,700000 ,04-10-2021,Alm. Salg,48,14583,2,1992,-3%
 760,Villa,Svalevej 2,6900, Skjern,980000 ,04-10-2021,Alm. Salg,110,8909,3,1966,2%
@@ -1346,14 +1327,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Højvangen 8,6950, Ringkøbing,2100000 ,18-07-2021,Alm. Salg,219,9589,7,1998,-4%
 760,Villa,Vandmøllevej 5,6920, Videbæk,455000 ,17-07-2021,Alm. Salg,164,2774,4,2022,
 760,Villa,Gyvelvænget 10,6920, Videbæk,1275000 ,17-07-2021,Alm. Salg,112,11384,5,1995,
-760,Ejerlejlighed,"Østergade 33, st. th",6950, Ringkøbing,9700000 ,15-07-2021,Alm. Salg,68,142647,3,1816,
-760,Ejerlejlighed,"Østergade 33, st. tv",6950, Ringkøbing,9700000 ,15-07-2021,Alm. Salg,67,144776,3,1816,
-760,Ejerlejlighed,"Chr Husteds Vej 12D, 1. th",6950, Ringkøbing,9700000 ,15-07-2021,Alm. Salg,73,132877,3,1816,
-760,Ejerlejlighed,"Chr Husteds Vej 12B, 1",6950, Ringkøbing,9700000 ,15-07-2021,Alm. Salg,125,77600,4,1900,
-760,Ejerlejlighed,"Chr Husteds Vej 12A, st",6950, Ringkøbing,9700000 ,15-07-2021,Alm. Salg,48,202083,2,1900,
-760,Ejerlejlighed,Østergade 35,6950, Ringkøbing,9700000 ,15-07-2021,Alm. Salg,117,82906,4,1816,
-760,Ejerlejlighed,"Chr Husteds Vej 12C, st",6950, Ringkøbing,9700000 ,15-07-2021,Alm. Salg,66,146970,3,1900,
-760,Ejerlejlighed,"Chr Husteds Vej 12D, 1. tv",6950, Ringkøbing,9700000 ,15-07-2021,Alm. Salg,103,94175,4,1816,
 760,Villa,Herborgvej 5,6900, Skjern,650000 ,15-07-2021,Alm. Salg,146,4452,5,1990,-5%
 760,Villa,Irisalle 61,6920, Videbæk,1575000 ,15-07-2021,Alm. Salg,155,10161,5,1979,
 760,Villa,Søvejen 26,6900, Skjern,365848 ,15-07-2021,Auktion,100,3658,5,1943,
@@ -1453,12 +1426,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Grønnegade 14,6880, Tarm,1100000 ,17-06-2021,Alm. Salg,134,8209,5,1961,-8%
 760,Villa,Strandkrogvejen 10,6960, Hvide Sande,1500000 ,17-06-2021,Alm. Salg,200,7500,7,1930,
 760,Villa,Vestervang 6,6950, Ringkøbing,325000 ,16-06-2021,Alm. Salg,135,2407,5,1922,-18%
-760,Ejerlejlighed,"Nygade 31B, st. th",6950, Ringkøbing,5750000 ,15-06-2021,Alm. Salg,66,87121,2,1907,
-760,Ejerlejlighed,"Nygade 31B, 1. th",6950, Ringkøbing,5750000 ,15-06-2021,Alm. Salg,112,51339,3,1907,
-760,Ejerlejlighed,"Nygade 31B, 1. tv",6950, Ringkøbing,5750000 ,15-06-2021,Alm. Salg,79,72785,3,1907,
-760,Ejerlejlighed,Vestergade 20B,6950, Ringkøbing,5750000 ,15-06-2021,Alm. Salg,75,76667,2,1907,
-760,Ejerlejlighed,"Nygade 31B, 2. th",6950, Ringkøbing,5750000 ,15-06-2021,Alm. Salg,65,88462,3,1907,
-760,Ejerlejlighed,"Nygade 31B, 2. tv",6950, Ringkøbing,5750000 ,15-06-2021,Alm. Salg,50,115000,3,1907,
 760,Ejerlejlighed,"Herningvej 38, st. th",6950, Ringkøbing,925000 ,15-06-2021,Alm. Salg,85,10882,3,1942,
 760,Villa,Solvænget 19,6900, Skjern,2140000 ,14-06-2021,Alm. Salg,199,10754,4,1962,
 760,Villa,Kærager 7,6971, Spjald,1645000 ,14-06-2021,Alm. Salg,184,8940,5,1971,
@@ -1701,8 +1668,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Nørregade 5,6950, Ringkøbing,1088000 ,22-03-2021,Alm. Salg,114,9544,5,1875,
 760,Villa,Dalsvinget 10,6920, Videbæk,820000 ,22-03-2021,Alm. Salg,130,6308,5,1961,-8%
 760,Villa,Mågevej 7,6880, Tarm,1145000 ,22-03-2021,Alm. Salg,168,6815,6,1969,
-760,Ejerlejlighed,Vester Grenevej 11B,6880, Tarm,1250000 ,21-03-2021,Andet,136,9191,6,1956,-7%
-760,Villa,Vester Grenevej 11A,6880, Tarm,1250000 ,21-03-2021,Andet,183,6831,7,1956,-7%
 760,Villa,Lilkjærvej 2A,6950, Ringkøbing,785000 ,21-03-2021,Alm. Salg,115,6826,5,1956,
 760,Villa,Møllevej 1,6880, Tarm,550000 ,21-03-2021,Alm. Salg,173,3179,5,1898,-8%
 760,Villa,Højvangen 15,6950, Ringkøbing,2240000 ,21-03-2021,Alm. Salg,168,13333,6,1999,-2%
@@ -1791,7 +1756,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Kirkebakken 1,6900, Skjern,950000 ,25-02-2021,Alm. Salg,203,4680,8,1935,-13%
 760,Villa,Markledet 44,6950, Ringkøbing,1550000 ,24-02-2021,Alm. Salg,210,7381,7,1927,-3%
 760,Villa,Mølhøj 15,6950, Ringkøbing,1475000 ,24-02-2021,Alm. Salg,156,9455,5,1962,-13%
-760,Villa,Åboulevarden 17A,6880, Tarm,2000000 ,24-02-2021,Alm. Salg,270,7407,6,1913,-16%
 760,Villa,Kirkebyvej 10,6900, Skjern,700000 ,24-02-2021,Alm. Salg,110,6364,3,1962,-3%
 760,Villa,Højsageralle 8,6920, Videbæk,525000 ,24-02-2021,Alm. Salg,197,2665,5,0,
 760,Villa,Bethaniagade 6,6920, Videbæk,995000 ,23-02-2021,Alm. Salg,100,9950,5,1940,
@@ -1913,12 +1877,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Anerbjergevej 22,6893, Hemmet,625000 ,20-01-2021,Alm. Salg,145,4310,5,1865,
 760,Villa,Grønningen 4,6920, Videbæk,680000 ,20-01-2021,Alm. Salg,114,5965,4,1967,-2%
 760,Villa,Oldager Allé 44,6900, Skjern,564494 ,20-01-2021,Alm. Salg,209,2701,5,2021,
-760,Ejerlejlighed,Storegade 23B,6880, Tarm,995000 ,19-01-2021,Alm. Salg,81,12284,2,1896,
-760,Ejerlejlighed,"Apoteker Rasmussens Plads 4, 1. tv",6880, Tarm,995000 ,19-01-2021,Alm. Salg,98,10153,2,1896,
-760,Ejerlejlighed,"Apoteker Rasmussens Plads 4, 1. th",6880, Tarm,995000 ,19-01-2021,Alm. Salg,72,13819,2,1896,
-760,Ejerlejlighed,"Apoteker Rasmussens Plads 4, st",6880, Tarm,995000 ,19-01-2021,Alm. Salg,65,15308,2,1896,
-760,Ejerlejlighed,"Storegade 23A, st",6880, Tarm,995000 ,19-01-2021,Alm. Salg,85,11706,2,1896,
-760,Ejerlejlighed,"Storegade 23A, 1",6880, Tarm,995000 ,19-01-2021,Alm. Salg,94,10585,2,1896,
 760,Villa,Lundevej 22,6900, Skjern,1535000 ,19-01-2021,Alm. Salg,146,10514,3,1955,-3%
 760,Villa,Holstebrovej 52,6950, Ringkøbing,1900000 ,19-01-2021,Alm. Salg,179,10615,8,1938,-5%
 760,Rækkehus,Kongevej 35A,6900, Skjern,610000 ,18-01-2021,Alm. Salg,112,5446,5,1930,-5%
@@ -2023,7 +1981,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Solsikkevej 9,6950, Ringkøbing,275449 ,03-12-2020,Auktion,166,1659,4,1977,
 760,Villa,Skraldhedevej 5,6950, Ringkøbing,1970000 ,03-12-2020,Alm. Salg,174,11322,4,1969,
 760,Villa,Kildebakken 30,6940, Lem St,205000 ,03-12-2020,Alm. Salg,205,1000,6,2022,215%
-760,Rækkehus,Voldgade 1,6900, Skjern,1575000 ,02-12-2020,Andet,90,17500,2,1918,
 760,Ejerlejlighed,"Lodbergsvej 239G, st. 104g",6950, Ringkøbing,590000 ,02-12-2020,Alm. Salg,48,12292,2,1992,-9%
 760,Ejerlejlighed,Badevej 19D,6950, Ringkøbing,2495000 ,02-12-2020,Alm. Salg,79,31582,3,2021,
 760,Villa,Baunevej 14,6960, Hvide Sande,995000 ,02-12-2020,Alm. Salg,130,7654,5,1967,
@@ -2700,8 +2657,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Hovedgaden 67,6971, Spjald,160000 ,29-03-2020,Alm. Salg,132,1212,4,1892,
 760,Villa,Grønvang 10,6950, Ringkøbing,420000 ,29-03-2020,Alm. Salg,151,2781,6,2020,
 760,Villa,Møllegårdsvej 12,6900, Skjern,925000 ,27-03-2020,Alm. Salg,164,5640,7,1968,
-760,Rækkehus,"Holstvej 6, st",6950, Ringkøbing,825000 ,26-03-2020,Alm. Salg,62,13306,2,1900,
-760,Ejerlejlighed,"Holstvej 6, 1",6950, Ringkøbing,825000 ,26-03-2020,Alm. Salg,62,13306,2,1900,
 760,Villa,Færgemandsvej 9,6960, Hvide Sande,150000 ,26-03-2020,Fam. Salg,100,1500,4,1948,
 760,Villa,Mølletoften 1,6880, Tarm,185000 ,26-03-2020,Alm. Salg,140,1321,5,1955,-31%
 760,Villa,Nørregade 82,6960, Hvide Sande,900000 ,26-03-2020,Fam. Salg,133,6767,4,1956,
@@ -2832,9 +2787,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Skjernvej 72,6920, Videbæk,100000 ,10-02-2020,Alm. Salg,99,1010,3,1960,
 760,Villa,Holstebrovej 85,6950, Ringkøbing,355000 ,10-02-2020,Alm. Salg,176,2017,5,1950,-10%
 760,Villa,Heboltoft 95,6950, Ringkøbing,1150000 ,10-02-2020,Alm. Salg,137,8394,4,1971,
-760,Rækkehus,Enghavevej 26A,6950, Ringkøbing,1310000 ,09-02-2020,Alm. Salg,144,9097,5,1907,-6%
 760,Villa,Marupvej 34,6900, Skjern,415000 ,09-02-2020,Alm. Salg,130,3192,3,1922,-16%
-760,Villa,Enghavevej 26B,6950, Ringkøbing,1310000 ,09-02-2020,Alm. Salg,109,12018,4,1907,-6%
 760,Villa,Lundevej 2,6900, Skjern,1075000 ,09-02-2020,Alm. Salg,118,9110,5,1958,
 760,Villa,Soldugvej 6,6920, Videbæk,435000 ,09-02-2020,Alm. Salg,160,2719,3,2020,
 760,Villa,Lupinvej 9,6900, Skjern,1425000 ,09-02-2020,Alm. Salg,207,6884,7,2016,
@@ -2846,12 +2799,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Amagervænget 2,6900, Skjern,2045000 ,06-02-2020,Alm. Salg,192,10651,7,1987,
 760,Villa,Kirkevænget 7,6900, Skjern,300000 ,06-02-2020,Alm. Salg,110,2727,3,1967,-14%
 760,Villa,Marupvej 18,6900, Skjern,900000 ,06-02-2020,Fam. Salg,170,5294,4,1930,
-760,Ejerlejlighed,"Nygade 31B, st. th",6950, Ringkøbing,2584000 ,05-02-2020,Fam. Salg,66,39152,2,1907,
-760,Ejerlejlighed,"Nygade 31B, 1. th",6950, Ringkøbing,2584000 ,05-02-2020,Fam. Salg,112,23071,3,1907,
-760,Ejerlejlighed,"Nygade 31B, 1. tv",6950, Ringkøbing,2584000 ,05-02-2020,Fam. Salg,79,32709,3,1907,
-760,Ejerlejlighed,Vestergade 20B,6950, Ringkøbing,2584000 ,05-02-2020,Fam. Salg,75,34453,2,1907,
-760,Ejerlejlighed,"Nygade 31B, 2. th",6950, Ringkøbing,2584000 ,05-02-2020,Fam. Salg,65,39754,3,1907,
-760,Ejerlejlighed,"Nygade 31B, 2. tv",6950, Ringkøbing,2584000 ,05-02-2020,Fam. Salg,50,51680,3,1907,
 760,Villa,Tranevej 9,6980, Tim,250000 ,05-02-2020,Alm. Salg,128,1953,5,1976,
 760,Villa,Sønderbyvej 5,6950, Ringkøbing,1925000 ,05-02-2020,Alm. Salg,170,11324,4,1840,-8%
 760,Villa,Søndergade 39,6960, Hvide Sande,210000 ,05-02-2020,Alm. Salg,45,4667,2,1935,-7%
@@ -3135,7 +3082,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Åboulevarden 30,6880, Tarm,450000 ,13-10-2019,Alm. Salg,138,3261,5,1933,-17%
 760,Villa,Østeralle 15,6920, Videbæk,1955000 ,13-10-2019,Alm. Salg,129,15155,4,2018,
 760,Rækkehus,Voldgade 15,6900, Skjern,860000 ,10-10-2019,Alm. Salg,121,7107,4,1920,-4%
-760,Villa,Mellemgade 2A,6950, Ringkøbing,24990000 ,10-10-2019,Andet,60,416500,1,1823,
 760,Villa,Gytjevej 68,6960, Hvide Sande,2675000 ,10-10-2019,Alm. Salg,199,13442,6,1981,
 760,Villa,Reberbanen 13,6950, Ringkøbing,2900000 ,10-10-2019,Alm. Salg,236,12288,8,1950,
 760,Villa,Stormgade 39,6960, Hvide Sande,1215000 ,10-10-2019,Alm. Salg,85,14294,5,1963,2%
@@ -3294,7 +3240,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Klydevej 10,6980, Tim,430000 ,19-08-2019,Alm. Salg,120,3583,5,1980,-9%
 760,Villa,Mosevænget 10,6950, Ringkøbing,852000 ,19-08-2019,Alm. Salg,131,6504,4,1988,
 760,Villa,Nørhedevej 17,6880, Tarm,650000 ,19-08-2019,Alm. Salg,130,5000,4,1956,
-760,Villa,Bredgade 59,6940, Lem St,1100000 ,19-08-2019,Alm. Salg,185,5946,3,1966,
 760,Villa,Kildevej 22,6971, Spjald,1800000 ,19-08-2019,Alm. Salg,272,6618,8,1976,
 760,Villa,Brogårdsvej 41,6880, Tarm,625000 ,19-08-2019,Alm. Salg,113,5531,4,1980,-3%
 760,Villa,Torvegade 15,6920, Videbæk,240000 ,18-08-2019,Alm. Salg,88,2727,3,1890,-13%
@@ -3381,7 +3326,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Bjerregårdvej 5,6980, Tim,420000 ,06-07-2019,Alm. Salg,113,3717,4,1949,-15%
 760,Villa,Poppelvej 6,6950, Ringkøbing,2495000 ,05-07-2019,Alm. Salg,131,19046,5,1966,
 760,Villa,Marupvej 1,6900, Skjern,1600000 ,05-07-2019,Alm. Salg,137,11679,5,1955,
-760,Villa,V Strandgade 6E,6950, Ringkøbing,6300000 ,04-07-2019,Alm. Salg,74,42568,3,1936,
 760,Villa,Baunsbjergvej 13,6920, Videbæk,1050000 ,04-07-2019,Alm. Salg,145,7241,5,1972,-4%
 760,Villa,Skolevej 3,6950, Ringkøbing,1790000 ,04-07-2019,Alm. Salg,187,9572,5,1910,-6%
 760,Rækkehus,Solvænget 2B,6900, Skjern,1845000 ,03-07-2019,Alm. Salg,96,19219,3,2019,
@@ -3395,9 +3339,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Moselundvej 4B,6900, Skjern,700000 ,01-07-2019,Alm. Salg,150,4667,5,1979,
 760,Villa,Høgevej 9,6920, Videbæk,943534 ,01-07-2019,Alm. Salg,166,5684,5,2010,
 760,Ejerlejlighed,"Nygade 28B, 2. th",6950, Ringkøbing,840000 ,30-06-2019,Alm. Salg,100,8400,3,1910,-9%
-760,Ejerlejlighed,Jernbanegade 22,6900, Skjern,2650000 ,30-06-2019,Alm. Salg,91,21200,3,1900,
-760,Ejerlejlighed,"Jernbanegade 24, 1",6900, Skjern,2650000 ,30-06-2019,Alm. Salg,206,12864,4,1900,
-760,Ejerlejlighed,Finderupsvej 6,6900, Skjern,2650000 ,30-06-2019,Alm. Salg,61,43443,2,1900,
 760,Ejerlejlighed,Søndergade 15A,6920, Videbæk,800000 ,30-06-2019,Andet,82,9756,3,1997,
 760,Ejerlejlighed,Søndergade 15C,6920, Videbæk,900000 ,30-06-2019,Andet,87,10345,4,1997,
 760,Villa,Østergårdevej 11,6880, Tarm,250000 ,30-06-2019,Alm. Salg,156,1603,4,0,
@@ -3438,9 +3379,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Fårborgvej 10,6900, Skjern,40000 ,13-06-2019,Auktion,104,385,3,1938,
 760,Villa,Bredgade 154,6900, Skjern,925000 ,13-06-2019,Alm. Salg,142,6514,6,1910,-19%
 760,Villa,Majsmarken 14,6950, Ringkøbing,2100000 ,13-06-2019,Alm. Salg,147,14286,4,2008,-4%
-760,Ejerlejlighed,Bakkevej 1B,6880, Tarm,120000 ,12-06-2019,Alm. Salg,68,1765,3,1912,
 760,Villa,Svanevej 20,6920, Videbæk,1450000 ,12-06-2019,Alm. Salg,260,5577,7,1971,
-760,Villa,Bakkevej 1A,6880, Tarm,120000 ,12-06-2019,Alm. Salg,113,1062,4,1912,
 760,Villa,Vardevej 2,6900, Skjern,1250000 ,12-06-2019,Alm. Salg,187,6684,8,1923,
 760,Villa,Lambækvej 3,6940, Lem St,525000 ,11-06-2019,Alm. Salg,135,3889,4,1967,-12%
 760,Villa,Anemonevej 28,6920, Videbæk,1075000 ,11-06-2019,Alm. Salg,178,6039,6,1975,-2%
@@ -3629,10 +3568,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Birkevænget 21,6920, Videbæk,1250000 ,27-03-2019,Alm. Salg,132,9470,5,1965,
 760,Villa,Ahlervej 4,6900, Skjern,140000 ,27-03-2019,Andet,126,1111,3,2023,
 760,Rækkehus,Hjejlevej 13C,6920, Videbæk,340000 ,26-03-2019,Alm. Salg,43,7907,2,1971,-14%
-760,Ejerlejlighed,"Metheasvej 5A, 1. tv",6960, Hvide Sande,1350000 ,26-03-2019,Fam. Salg,26,51923,2,1934,
-760,Ejerlejlighed,"Strandgade 4, 1",6960, Hvide Sande,1350000 ,26-03-2019,Fam. Salg,86,15698,3,1934,
-760,Ejerlejlighed,"Metheasvej 5A, 1. th",6960, Hvide Sande,1350000 ,26-03-2019,Fam. Salg,65,20769,2,1934,
-760,Ejerlejlighed,"Strandgade 4, 2",6960, Hvide Sande,1350000 ,26-03-2019,Fam. Salg,131,10305,4,1934,
 760,Villa,Parkallé 23,6880, Tarm,1300000 ,26-03-2019,Alm. Salg,145,8966,4,1980,-2%
 760,Villa,Engdraget 6,6940, Lem St,357000 ,26-03-2019,Alm. Salg,203,1759,8,1964,
 760,Villa,Skolevænget 15,6900, Skjern,150000 ,25-03-2019,Alm. Salg,130,1154,4,1956,-45%
@@ -3811,7 +3746,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Ganeråparken 19,6900, Skjern,2080000 ,21-12-2018,Alm. Salg,136,15294,4,2007,-3%
 760,Villa,Jens Kirks Vej 5,6950, Ringkøbing,840000 ,20-12-2018,Alm. Salg,117,7179,5,1925,
 760,Villa,Glentevej 18,6950, Ringkøbing,500000 ,20-12-2018,Alm. Salg,110,4545,4,1975,
-760,Rækkehus,Nørregade 18C,6920, Videbæk,1069499 ,19-12-2018,Alm. Salg,77,13890,3,1988,
 760,Rækkehus,Nørregade 18B,6920, Videbæk,630000 ,19-12-2018,Alm. Salg,72,8750,3,1988,
 760,Villa,Parkallé 29,6880, Tarm,800000 ,19-12-2018,Alm. Salg,142,5634,4,1983,
 760,Villa,Anemonevej 10,6950, Ringkøbing,850000 ,19-12-2018,Alm. Salg,105,8095,4,1965,-5%
@@ -4383,7 +4317,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Grøndal 4,6900, Skjern,100000 ,16-04-2018,Fam. Salg,262,382,7,2018,
 760,Villa,Nørregade 26,6900, Skjern,4500000 ,16-04-2018,Andet,147,30612,4,1953,
 760,Villa,Videbækvej 5,6900, Skjern,1490000 ,16-04-2018,Alm. Salg,56,26607,2,1954,
-760,Villa,Østergade 32C,6900, Skjern,2500000 ,16-04-2018,Andet,136,18382,4,1915,
 760,Villa,Nylandsvej 5,6900, Skjern,700000 ,15-04-2018,Alm. Salg,158,4430,5,1909,-17%
 760,Villa,Sønderupvej 2,6920, Videbæk,489574 ,15-04-2018,Alm. Salg,114,4295,4,2003,
 760,Villa,Langelandsgade 68,6950, Ringkøbing,1095000 ,12-04-2018,Alm. Salg,91,12033,4,1986,-4%
@@ -4421,15 +4354,11 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Dalsvinget 6,6920, Videbæk,750000 ,25-03-2018,Alm. Salg,87,8621,3,1960,-6%
 760,Villa,Andrupsvej 5,6880, Tarm,2900000 ,25-03-2018,Alm. Salg,181,16022,8,1885,
 760,Villa,Finlandsgade 19,6950, Ringkøbing,1920000 ,25-03-2018,Alm. Salg,183,10492,7,1977,-4%
-760,Rækkehus,Birkevænget 4C,6900, Skjern,435000 ,23-03-2018,Fam. Salg,95,4579,3,1964,
-760,Villa,Birkevænget 4B,6900, Skjern,435000 ,23-03-2018,Fam. Salg,83,5241,6,1964,
-760,Rækkehus,Birkevænget 4C,6900, Skjern,435000 ,22-03-2018,Fam. Salg,95,4579,3,1964,
 760,Villa,Østervænget 6,6971, Spjald,850000 ,22-03-2018,Alm. Salg,122,6967,4,1986,7%
 760,Villa,Vester Grenevej 6,6880, Tarm,800000 ,22-03-2018,Alm. Salg,258,3101,5,1955,-11%
 760,Villa,Spurven 8,6920, Videbæk,1050000 ,22-03-2018,Alm. Salg,147,7143,5,1971,
 760,Villa,Tangsvej 20,6950, Ringkøbing,2100000 ,22-03-2018,Alm. Salg,121,17355,4,1922,-4%
 760,Villa,Abildtrupvej 5A,6920, Videbæk,1650000 ,22-03-2018,Alm. Salg,160,10313,7,1977,0%
-760,Villa,Birkevænget 4B,6900, Skjern,435000 ,22-03-2018,Fam. Salg,83,5241,6,1964,
 760,Rækkehus,Agerhøj 18,6880, Tarm,630000 ,21-03-2018,Alm. Salg,100,6300,3,1980,-5%
 760,Villa,Mølgårdsvej 11,6920, Videbæk,842500 ,21-03-2018,Alm. Salg,163,5169,5,1980,-6%
 760,Villa,Algade 30,6971, Spjald,575000 ,21-03-2018,Alm. Salg,219,2626,6,1924,
@@ -5013,14 +4942,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Bøgevej 16,6950, Ringkøbing,1100000 ,26-06-2017,Alm. Salg,124,8871,5,1966,-4%
 760,Villa,Skovbakken 1,6971, Spjald,1400000 ,26-06-2017,Alm. Salg,193,7254,5,1975,-15%
 760,Villa,Skovagervej 11,6900, Skjern,425000 ,22-06-2017,Alm. Salg,102,4167,3,1971,-11%
-760,Ejerlejlighed,"Bredgade 46A, 1. mf",6900, Skjern,25393701 ,21-06-2017,Andet,91,279052,4,1919,
-760,Ejerlejlighed,"Bredgade 46A, 1. tv",6900, Skjern,25393701 ,21-06-2017,Andet,130,195336,4,1919,
-760,Ejerlejlighed,"Holger Danskes Plads 4, 1",6900, Skjern,25393701 ,21-06-2017,Andet,112,226729,4,1992,
 760,Villa,Engvej 10,6960, Hvide Sande,625000 ,21-06-2017,Alm. Salg,74,8446,3,1947,
 760,Villa,Heboltoft 50,6950, Ringkøbing,3150000 ,21-06-2017,Alm. Salg,188,16755,6,1979,-10%
 760,Villa,Åvangen 11,6900, Skjern,1250000 ,21-06-2017,Fam. Salg,195,6410,4,0,
-760,Ejerlejlighed,"Godthaabsvej 6A, 1",6950, Ringkøbing,3000000 ,20-06-2017,Alm. Salg,60,50000,2,1989,
-760,Villa,Smedegade 13A,6950, Ringkøbing,3000000 ,20-06-2017,Alm. Salg,77,38961,3,1877,
 760,Villa,Langelandsgade 89,6950, Ringkøbing,1295000 ,20-06-2017,Alm. Salg,140,9250,5,1986,
 760,Villa,Åbrinken 56,6900, Skjern,2600000 ,20-06-2017,Alm. Salg,268,9701,7,1942,
 760,Rækkehus,Rosenvej 14,6900, Skjern,830000 ,19-06-2017,Alm. Salg,76,10921,3,1988,
@@ -5644,7 +5568,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Nordmarken 8,6950, Ringkøbing,725000 ,24-08-2016,Alm. Salg,292,2483,9,2003,
 760,Villa,Klostervej 24,6900, Skjern,595000 ,24-08-2016,Alm. Salg,108,5509,4,1925,
 760,Villa,Gyvelvej 1,6950, Ringkøbing,1345000 ,24-08-2016,Alm. Salg,165,8152,5,1967,
-760,Villa,Kirkepladsen 7,6950, Ringkøbing,4462500 ,23-08-2016,Alm. Salg,42,106250,1,1904,
 760,Villa,Lundevej 19,6900, Skjern,970000 ,23-08-2016,Alm. Salg,193,5026,8,1957,-3%
 760,Villa,Nørbyvej 10,6950, Ringkøbing,675000 ,23-08-2016,Alm. Salg,94,7181,3,1954,-3%
 760,Villa,Ved Fjorden 17,6950, Ringkøbing,1800000 ,23-08-2016,Alm. Salg,149,12081,4,1961,-10%
@@ -5841,11 +5764,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Drejøgade 14,6950, Ringkøbing,2500000 ,18-05-2016,Alm. Salg,160,15625,7,2009,-3%
 760,Villa,Herborgvej 12,6900, Skjern,210000 ,16-05-2016,Fam. Salg,128,1641,5,1967,
 760,Villa,Bredgade 57,6920, Videbæk,865000 ,16-05-2016,Alm. Salg,295,2932,8,1939,-3%
-760,Rækkehus,Buen 4B,6880, Tarm,500000 ,12-05-2016,Auktion,68,7353,2,1966,
 760,Villa,Lyngbyvej 2,6893, Hemmet,300000 ,12-05-2016,Andet,88,3409,4,1883,
 760,Villa,Holmene 10,6950, Ringkøbing,1200000 ,12-05-2016,Alm. Salg,92,13043,4,1951,-11%
 760,Villa,Slumstrupvej 1,6900, Skjern,75000 ,12-05-2016,Auktion,124,605,4,1867,
-760,Villa,Buen 4A,6880, Tarm,500000 ,12-05-2016,Auktion,141,3546,6,1966,
 760,Villa,Ahlervej 1,6920, Videbæk,220000 ,11-05-2016,Alm. Salg,59,3729,3,1941,-12%
 760,Villa,Nørbyvej 11,6950, Ringkøbing,475000 ,11-05-2016,Alm. Salg,129,3682,5,1954,-13%
 760,Villa,Skrænten 1,6900, Skjern,375000 ,11-05-2016,Alm. Salg,228,1645,9,1974,-5%
@@ -5861,11 +5782,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Tjørnevej 5,6880, Tarm,333811 ,07-05-2016,Alm. Salg,158,2113,7,1954,
 760,Villa,Industrivej 9,6880, Tarm,85000 ,05-05-2016,Alm. Salg,80,1063,3,1955,
 760,Villa,Svalen 26,6920, Videbæk,940000 ,05-05-2016,Alm. Salg,145,6483,4,1969,-6%
-760,Ejerlejlighed,Vestergade 17,6950, Ringkøbing,1425000 ,03-05-2016,Alm. Salg,63,22619,2,1910,
-760,Ejerlejlighed,Skolevænget 1A,6950, Ringkøbing,1425000 ,03-05-2016,Alm. Salg,93,15323,3,1910,
-760,Ejerlejlighed,Skolevænget 1F,6950, Ringkøbing,1425000 ,03-05-2016,Alm. Salg,95,15000,3,1935,
-760,Ejerlejlighed,Skolevænget 1E,6950, Ringkøbing,1425000 ,03-05-2016,Alm. Salg,95,15000,3,1935,
-760,Ejerlejlighed,Skolevænget 1B,6950, Ringkøbing,1425000 ,03-05-2016,Alm. Salg,90,15833,4,1910,
 760,Villa,Fjordbrinken 8,6950, Ringkøbing,5250000 ,03-05-2016,Alm. Salg,236,22246,6,2022,
 760,Villa,Holmene 7,6950, Ringkøbing,1147000 ,03-05-2016,Fam. Salg,90,12744,3,1950,
 760,Villa,Heboltoft 31,6950, Ringkøbing,1195000 ,03-05-2016,Alm. Salg,208,5745,6,1969,
@@ -6095,7 +6011,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Jasminalle 4,6920, Videbæk,1700000 ,27-12-2015,Alm. Salg,180,9444,7,1997,-4%
 760,Rækkehus,Byskellet 60,6950, Ringkøbing,915000 ,23-12-2015,Fam. Salg,125,7320,4,1979,
 760,Villa,Feldsingvej 3,6900, Skjern,3720000 ,22-12-2015,Alm. Salg,185,20108,7,1943,
-760,Villa,Møllebækvej 28A,6900, Skjern,875000 ,21-12-2015,Alm. Salg,195,4487,8,1906,
 760,Villa,Ganeråparken 19,6900, Skjern,1010000 ,21-12-2015,Fam. Salg,136,7426,4,2007,
 760,Villa,Brobyen 2,6900, Skjern,650000 ,21-12-2015,Alm. Salg,220,2838,5,2018,120%
 760,Villa,Smørblomsten 38,6950, Ringkøbing,480000 ,21-12-2015,Alm. Salg,253,1897,5,2017,
@@ -6150,8 +6065,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Kirkevænget 15,6900, Skjern,200000 ,29-11-2015,Alm. Salg,108,1852,3,1970,-42%
 760,Villa,Skovbrinken 7,6900, Skjern,1750000 ,29-11-2015,Alm. Salg,154,11364,5,1977,
 760,Villa,Spangager 16,6880, Tarm,705928 ,28-11-2015,Alm. Salg,220,3209,7,1977,
-760,Rækkehus,"Hovedgaden 40, st",6980, Tim,418500 ,26-11-2015,Alm. Salg,150,2790,4,1900,
-760,Ejerlejlighed,"Hovedgaden 40, 1",6980, Tim,418500 ,26-11-2015,Alm. Salg,79,5297,2,1900,
 760,Villa,Mølgårdsvej 19,6920, Videbæk,755000 ,26-11-2015,Alm. Salg,148,5101,4,1973,
 760,Villa,Algade 15,6950, Ringkøbing,1700000 ,26-11-2015,Alm. Salg,286,5944,9,1877,-13%
 760,Villa,Mågevej 23,6950, Ringkøbing,1418000 ,25-11-2015,Alm. Salg,136,10426,3,1962,
@@ -6250,7 +6163,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Søndertoften 17,6880, Tarm,1020000 ,07-10-2015,Alm. Salg,164,6220,7,1986,-5%
 760,Villa,Buskvænget 1,6900, Skjern,1270000 ,07-10-2015,Alm. Salg,170,7471,6,2002,
 760,Villa,Østergade 20,6880, Tarm,425000 ,07-10-2015,Alm. Salg,165,2576,6,1976,
-760,Villa,Sønderbyvej 9,6950, Ringkøbing,879000 ,07-10-2015,Fam. Salg,193,4554,5,1892,
 760,Villa,Bjerrevej 50,7400, Herning,1400000 ,07-10-2015,Alm. Salg,146,9589,4,1917,-6%
 760,Villa,Brobyen 7,6900, Skjern,2375000 ,07-10-2015,Alm. Salg,433,5485,6,1997,
 760,Ejerlejlighed,"Lodbergsvej 229H, 1. 201h",6950, Ringkøbing,700000 ,06-10-2015,Alm. Salg,75,9333,2,1992,
@@ -6468,7 +6380,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Bygmarken 4,6971, Spjald,600000 ,25-06-2015,Alm. Salg,118,5085,4,1970,
 760,Villa,Dybdalvej 4,6920, Videbæk,1365000 ,25-06-2015,Andet,164,8323,4,1898,
 760,Villa,Rønnealle 22,6920, Videbæk,1225000 ,24-06-2015,Alm. Salg,176,6960,5,1974,-12%
-760,Villa,Hovervej 7,6950, Ringkøbing,97750 ,23-06-2015,Fam. Salg,96,1018,2,1912,
 760,Villa,Tyttebærvej 13,6920, Videbæk,1745000 ,23-06-2015,Alm. Salg,161,10839,6,1985,
 760,Villa,Egernvej 11,6900, Skjern,775000 ,23-06-2015,Alm. Salg,164,4726,6,1966,
 760,Villa,Nybovej 15,6980, Tim,450000 ,23-06-2015,Alm. Salg,122,3689,4,1981,
@@ -6574,7 +6485,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Rækkehus,Vestparken 6A,6880, Tarm,350000 ,09-05-2015,Alm. Salg,56,6250,3,1990,
 760,Villa,Hvashøj 13,6950, Ringkøbing,2145000 ,09-05-2015,Alm. Salg,154,13929,4,1994,
 760,Ejerlejlighed,"Herningvej 32, 1",6950, Ringkøbing,1550000 ,08-05-2015,Alm. Salg,118,13136,3,2007,
-760,Rækkehus,Ulbækvej 10C,6880, Tarm,90000 ,07-05-2015,Auktion,68,1324,2,1913,
 760,Rækkehus,Grønnegade 5,6880, Tarm,292000 ,07-05-2015,Alm. Salg,118,2475,6,1916,-15%
 760,Villa,Kirkealle 9,6920, Videbæk,426000 ,07-05-2015,Auktion,83,5133,3,1948,-39%
 760,Villa,Søndergade 59,6920, Videbæk,1060500 ,07-05-2015,Alm. Salg,84,12625,4,1956,-1%
@@ -6791,7 +6701,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Gjerager 41,6880, Tarm,595000 ,04-02-2015,Alm. Salg,135,4407,4,1976,-14%
 760,Villa,Nybovej 13,6980, Tim,575000 ,04-02-2015,Alm. Salg,149,3859,5,1978,-7%
 760,Villa,Østergade 30,6960, Hvide Sande,995000 ,03-02-2015,Alm. Salg,117,8504,4,1969,
-760,Rækkehus,"Nørregade 9, 1. th",6950, Ringkøbing,1550000 ,02-02-2015,Alm. Salg,100,14091,3,1880,
 760,Villa,Ringkøbingvej 36,6920, Videbæk,200000 ,02-02-2015,Alm. Salg,173,1156,6,1956,-49%
 760,Villa,Lærkevej 7,6940, Lem St,835000 ,01-02-2015,Alm. Salg,202,4134,5,1964,5%
 760,Villa,Vestervænget 2,6900, Skjern,940000 ,01-02-2015,Alm. Salg,105,8952,4,1978,-4%
@@ -7157,7 +7066,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Kærhusvej 10,6971, Spjald,115000 ,10-07-2014,Alm. Salg,80,1438,3,1939,
 760,Villa,Poppelalle 5,6900, Skjern,1100000 ,09-07-2014,Fam. Salg,140,7857,7,1934,
 760,Villa,Nørrevænget 2,6933, Kibæk,500000 ,09-07-2014,Fam. Salg,165,3030,6,1980,
-760,Villa,Nygade 43B,6950, Ringkøbing,1500000 ,08-07-2014,Alm. Salg,61,24590,3,1872,-32%
 760,Villa,Solhaven 7,6920, Videbæk,1575000 ,07-07-2014,Alm. Salg,180,8750,6,1980,-4%
 760,Villa,Bjerregårds Alle 9,6933, Kibæk,760000 ,07-07-2014,Alm. Salg,136,5588,4,1981,-4%
 760,Villa,Valmuehaven 6,6950, Ringkøbing,2375000 ,06-07-2014,Alm. Salg,208,11418,6,2008,-8%
@@ -7239,7 +7147,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Østerled 6,6950, Ringkøbing,680000 ,26-05-2014,Alm. Salg,90,7556,3,1961,-2%
 760,Villa,Ringgaden 18,6950, Ringkøbing,400000 ,26-05-2014,Alm. Salg,128,3125,5,1951,-33%
 760,Ejerlejlighed,"Bredgade 31, 1. th",6920, Videbæk,480800 ,22-05-2014,Andet,296,1624,6,1954,
-760,Villa,Åglimt 9A,6900, Skjern,2348778 ,22-05-2014,Auktion,146,16088,6,1950,
 760,Villa,Toftevej 12,6900, Skjern,47500 ,22-05-2014,Auktion,122,389,4,1973,
 760,Villa,Sneppen 1,6920, Videbæk,1260000 ,22-05-2014,Alm. Salg,143,8811,5,1972,-3%
 760,Villa,Vandmøllevej 12,6920, Videbæk,505000 ,22-05-2014,Alm. Salg,86,5872,2,1955,
@@ -7429,14 +7336,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Velling Kirkeby 2B,6950, Ringkøbing,1650000 ,04-02-2014,Alm. Salg,143,11538,6,1977,-17%
 760,Villa,Muldbjerg Byvej 15,6971, Spjald,177416 ,02-02-2014,Alm. Salg,120,1478,7,1910,
 760,Villa,Bredgade 56,6880, Tarm,230000 ,02-02-2014,Alm. Salg,106,2170,3,1954,-22%
-760,Ejerlejlighed,"Østergade 33, st. th",6950, Ringkøbing,1150000 ,30-01-2014,Alm. Salg,68,16912,3,1816,-11%
-760,Ejerlejlighed,"Østergade 33, st. tv",6950, Ringkøbing,1150000 ,30-01-2014,Alm. Salg,67,17164,3,1816,-11%
-760,Ejerlejlighed,"Chr Husteds Vej 12D, 1. th",6950, Ringkøbing,1150000 ,30-01-2014,Alm. Salg,73,15753,3,1816,-11%
-760,Ejerlejlighed,"Chr Husteds Vej 12B, 1",6950, Ringkøbing,1150000 ,30-01-2014,Alm. Salg,125,9200,4,1900,-11%
-760,Ejerlejlighed,"Chr Husteds Vej 12A, st",6950, Ringkøbing,1150000 ,30-01-2014,Alm. Salg,48,23958,2,1900,-11%
-760,Ejerlejlighed,Østergade 35,6950, Ringkøbing,1150000 ,30-01-2014,Alm. Salg,117,9829,4,1816,-11%
-760,Ejerlejlighed,"Chr Husteds Vej 12C, st",6950, Ringkøbing,1150000 ,30-01-2014,Alm. Salg,66,17424,3,1900,-11%
-760,Ejerlejlighed,"Chr Husteds Vej 12D, 1. tv",6950, Ringkøbing,1150000 ,30-01-2014,Alm. Salg,103,11165,4,1816,-11%
 760,Villa,Rydbjergvej 11A,6950, Ringkøbing,1425000 ,30-01-2014,Alm. Salg,160,8906,8,1930,-5%
 760,Villa,Tarmvej 20,6880, Tarm,125000 ,30-01-2014,Auktion,127,984,5,1946,
 760,Villa,Minervavej 2E,6960, Hvide Sande,395000 ,29-01-2014,Alm. Salg,175,2257,5,2015,
@@ -7595,10 +7494,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Herningvej 133,6950, Ringkøbing,810000 ,21-10-2013,Alm. Salg,152,5329,6,1911,-9%
 760,Villa,Vellingvej 67,6950, Ringkøbing,2500000 ,21-10-2013,Alm. Salg,189,13228,6,1986,
 760,Rækkehus,Hjejlevej 10,6920, Videbæk,25560953 ,20-10-2013,Andet,109,234504,3,2010,
-760,Ejerlejlighed,Nygade 45,6900, Skjern,25560953 ,20-10-2013,Andet,65,393245,3,1924,
 760,Ejerlejlighed,Bøgelundsvej 65A,6920, Videbæk,600000 ,20-10-2013,Alm. Salg,91,6593,3,1979,-8%
-760,Ejerlejlighed,Nørrealle 16,6900, Skjern,25560953 ,20-10-2013,Andet,80,319512,3,1924,
-760,Ejerlejlighed,Nørrealle 14,6900, Skjern,25560953 ,20-10-2013,Andet,58,440706,3,1924,
 760,Villa,Finderupvej 19A,6920, Videbæk,1650000 ,20-10-2013,Alm. Salg,137,12044,5,1923,
 760,Villa,Finlandsgade 24,6950, Ringkøbing,995000 ,20-10-2013,Alm. Salg,161,6180,5,1976,-9%
 760,Villa,Tarmvej 180,6893, Hemmet,130000 ,20-10-2013,Alm. Salg,113,1150,4,1951,
@@ -8032,7 +7928,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Marupvej 52,6900, Skjern,1200000 ,23-01-2013,Alm. Salg,125,9600,4,1950,-7%
 760,Villa,Parkallé 25,6880, Tarm,975000 ,23-01-2013,Alm. Salg,109,8945,4,1981,-7%
 760,Villa,Stadionvej 5,6880, Tarm,280000 ,23-01-2013,Alm. Salg,91,3077,3,1971,-6%
-760,Villa,Agervej 73,6900, Skjern,1050000 ,22-01-2013,Alm. Salg,141,7447,5,1999,
 760,Villa,Smedegade 17,6950, Ringkøbing,2950000 ,21-01-2013,Alm. Salg,227,12996,6,1926,-9%
 760,Villa,Apollovej 60,6960, Hvide Sande,1370000 ,21-01-2013,Alm. Salg,170,8059,6,1980,-2%
 760,Villa,Møllegade 12,6980, Tim,385000 ,21-01-2013,Alm. Salg,80,4813,2,1957,-1%
@@ -8429,18 +8324,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Nørregaardsvej 12,6920, Videbæk,790000 ,26-04-2012,Alm. Salg,140,5643,5,1981,-7%
 760,Rækkehus,Østergade 3,6950, Ringkøbing,550000 ,25-04-2012,Alm. Salg,77,7143,3,1777,-21%
 760,Rækkehus,Torvegade 7A,6920, Videbæk,400000 ,25-04-2012,Fam. Salg,74,5405,3,1988,
-760,Ejerlejlighed,"Nørreport 2, st",6950, Ringkøbing,3800000 ,25-04-2012,Alm. Salg,88,43182,3,1901,
-760,Ejerlejlighed,"Nørreport 2, 1",6950, Ringkøbing,3800000 ,25-04-2012,Alm. Salg,88,43182,2,1901,
-760,Ejerlejlighed,"Østergade 40, 1",6950, Ringkøbing,3800000 ,25-04-2012,Alm. Salg,90,42222,3,1901,
-760,Ejerlejlighed,"Østergade 40, st",6950, Ringkøbing,3800000 ,25-04-2012,Alm. Salg,90,42222,3,1901,
-760,Ejerlejlighed,"Østergade 40, 2",6950, Ringkøbing,3800000 ,25-04-2012,Alm. Salg,90,42222,3,1901,
-760,Ejerlejlighed,"Østergade 42, st. th",6950, Ringkøbing,3800000 ,25-04-2012,Alm. Salg,89,42697,3,1901,
-760,Ejerlejlighed,"Østergade 42, st. tv",6950, Ringkøbing,3800000 ,25-04-2012,Alm. Salg,124,30645,3,1901,
-760,Ejerlejlighed,"Østergade 42, 1. th",6950, Ringkøbing,3800000 ,25-04-2012,Alm. Salg,89,42697,3,1901,
-760,Ejerlejlighed,"Østergade 42, 1. tv",6950, Ringkøbing,3800000 ,25-04-2012,Alm. Salg,124,30645,4,1901,
-760,Ejerlejlighed,"Nørreport 6, 2. th",6950, Ringkøbing,3800000 ,25-04-2012,Alm. Salg,50,76000,1,1901,
-760,Ejerlejlighed,"Nørreport 6, 2. tv",6950, Ringkøbing,3800000 ,25-04-2012,Alm. Salg,50,76000,1,1901,
-760,Ejerlejlighed,"Nørreport 4, 2",6950, Ringkøbing,3800000 ,25-04-2012,Alm. Salg,70,54286,1,1901,
 760,Villa,Bakkedraget 25,6940, Lem St,1105000 ,25-04-2012,Alm. Salg,192,5755,6,1975,-3%
 760,Villa,Hovervej 111,6971, Spjald,390000 ,25-04-2012,Alm. Salg,108,3611,5,1928,-12%
 760,Villa,Vedersø Klitvej 13,6990, Ulfborg,1200000 ,24-04-2012,Alm. Salg,82,14634,4,2011,
@@ -8664,10 +8547,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Rækkehus,"Bryggen 7, 1",6893, Hemmet,1500000 ,17-12-2011,Alm. Salg,50,30000,3,1980,
 760,Villa,Bandsbølvej 2,6893, Hemmet,400000 ,17-12-2011,Fam. Salg,190,2105,5,1923,
 760,Villa,Minervavej 46,6960, Hvide Sande,498000 ,17-12-2011,Alm. Salg,224,2223,5,2018,
-760,Ejerlejlighed,"Hovervej 16, 1",6950, Ringkøbing,308922 ,15-12-2011,Auktion,80,3862,3,1923,-61%
 760,Villa,Elmevej 17,6980, Tim,1300000 ,15-12-2011,Alm. Salg,142,9155,6,1924,-3%
 760,Villa,Engdraget 6,6940, Lem St,1067500 ,15-12-2011,Alm. Salg,203,5259,8,1964,-18%
-760,Villa,"Hovervej 16, st",6950, Ringkøbing,308922 ,15-12-2011,Auktion,161,1919,3,1923,-61%
 760,Villa,Lønborgvej 27,6880, Tarm,412244 ,15-12-2011,Alm. Salg,238,1732,5,1949,
 760,Villa,Havrevænget 4,6971, Spjald,240000 ,15-12-2011,Auktion,86,2791,4,1968,-56%
 760,Villa,Gilbakke 10,6920, Videbæk,350000 ,15-12-2011,Andet,191,1832,5,2014,
@@ -8936,7 +8817,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Guldregnalle 53,6920, Videbæk,1175000 ,19-07-2011,Alm. Salg,154,7630,5,1973,-2%
 760,Villa,Kaniavej 12,6960, Hvide Sande,998000 ,18-07-2011,Alm. Salg,120,8317,4,1976,
 760,Villa,Lambækvej 18,6940, Lem St,765000 ,18-07-2011,Alm. Salg,228,3355,5,1972,-4%
-760,Villa,Bredgade 59,6940, Lem St,1360622 ,17-07-2011,Alm. Salg,185,7355,3,1966,
 760,Villa,Skelmosevej 38,6980, Tim,375000 ,17-07-2011,Alm. Salg,149,2517,6,1934,-25%
 760,Rækkehus,Vestergade 12,6950, Ringkøbing,1900000 ,15-07-2011,Alm. Salg,97,19588,4,1750,-5%
 760,Villa,Rundingen 11,6971, Spjald,785200 ,14-07-2011,Alm. Salg,108,7270,3,1987,
@@ -9115,12 +8995,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Vester Bardevej 2,6920, Videbæk,700000 ,07-04-2011,Auktion,177,3955,7,1930,
 760,Villa,Åbrinken 37,6900, Skjern,2050000 ,07-04-2011,Alm. Salg,174,11782,6,1976,-2%
 760,Villa,Bindesbølvej 19,6880, Tarm,685000 ,07-04-2011,Fam. Salg,113,6062,5,1950,
-760,Ejerlejlighed,Jollen 2B,6893, Hemmet,1200000 ,06-04-2011,Alm. Salg,94,12766,3,2014,
 760,Villa,Fjordbrinken 14,6950, Ringkøbing,1800000 ,06-04-2011,Fam. Salg,259,6950,8,2015,
 760,Villa,Fengersvej 56,6971, Spjald,750000 ,06-04-2011,Alm. Salg,90,8333,4,1981,
-760,Villa,Jollen 4,6893, Hemmet,1200000 ,06-04-2011,Alm. Salg,99,12121,4,1994,
-760,Rækkehus,Mellemgade 9,6950, Ringkøbing,1625000 ,05-04-2011,Alm. Salg,93,17473,3,1877,
-760,Ejerlejlighed,Mellemgade 11,6950, Ringkøbing,1625000 ,05-04-2011,Alm. Salg,59,27542,2,1877,
 760,Villa,Søndergade 44,6920, Videbæk,620500 ,04-04-2011,Fam. Salg,102,6083,3,1954,
 760,Villa,Vinkelvej 27,6880, Tarm,450000 ,04-04-2011,Alm. Salg,141,3191,6,1961,-5%
 760,Villa,Langgade 10,6933, Kibæk,530000 ,03-04-2011,Alm. Salg,95,5579,4,1966,-11%
@@ -9532,18 +9408,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Pilevænget 16,6920, Videbæk,675000 ,19-09-2010,Alm. Salg,137,4927,5,1971,
 760,Villa,Vibevej 36,6920, Videbæk,430000 ,18-09-2010,Fam. Salg,133,3233,6,1975,
 760,Villa,Ryesmindevej 7,6920, Videbæk,725000 ,17-09-2010,Alm. Salg,160,4531,5,1972,
-760,Ejerlejlighed,Midtbyvej 19C,6893, Hemmet,6060000 ,16-09-2010,Alm. Salg,56,108214,1,1941,
-760,Ejerlejlighed,Midtbyvej 19D,6893, Hemmet,6060000 ,16-09-2010,Alm. Salg,52,116538,2,1941,
-760,Ejerlejlighed,Midtbyvej 19E,6893, Hemmet,6060000 ,16-09-2010,Alm. Salg,93,65161,2,1941,
-760,Ejerlejlighed,Midtbyvej 19B,6893, Hemmet,6060000 ,16-09-2010,Alm. Salg,93,65161,3,1941,
-760,Ejerlejlighed,Midtbyvej 19F,6893, Hemmet,6060000 ,16-09-2010,Alm. Salg,86,70465,2,1941,
-760,Ejerlejlighed,Midtbyvej 19A,6893, Hemmet,6060000 ,16-09-2010,Alm. Salg,54,112222,2,1941,
-760,Ejerlejlighed,Midtbyvej 19G,6893, Hemmet,6060000 ,16-09-2010,Alm. Salg,34,178235,1,1941,
-760,Ejerlejlighed,"Vestervang 9, st",6893, Hemmet,6060000 ,16-09-2010,Alm. Salg,73,83014,3,1913,
-760,Ejerlejlighed,"Vestervang 9, 1",6893, Hemmet,6060000 ,16-09-2010,Alm. Salg,67,90448,2,1913,
 760,Ejerlejlighed,"Herningvej 7B, 2. 1",6950, Ringkøbing,1350000 ,16-09-2010,Alm. Salg,177,7627,4,2008,-10%
-760,Ejerlejlighed,Midtbyvej 31A,6893, Hemmet,6060000 ,16-09-2010,Alm. Salg,86,70465,3,1944,
-760,Ejerlejlighed,Midtbyvej 31C,6893, Hemmet,6060000 ,16-09-2010,Alm. Salg,77,78701,3,1944,
 760,Villa,Amagervej 74,6900, Skjern,1100000 ,16-09-2010,Alm. Salg,126,8730,5,1974,
 760,Villa,Anemonevej 7,6950, Ringkøbing,1375000 ,15-09-2010,Alm. Salg,130,10577,4,1965,-1%
 760,Villa,Klydevej 8,6980, Tim,1065000 ,15-09-2010,Alm. Salg,143,7448,5,1979,-7%
@@ -9719,15 +9584,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Brejninggårdsvej 22,6920, Videbæk,465000 ,01-07-2010,Fam. Salg,110,4227,5,1942,
 760,Villa,Kastanievej 6,6880, Tarm,1240000 ,01-07-2010,Alm. Salg,169,7337,5,1975,
 760,Villa,Alkjærhøj 7,6950, Ringkøbing,600000 ,01-07-2010,Alm. Salg,139,4317,5,2012,
-760,Ejerlejlighed,Apoteker Rasmussens Plads 7,6880, Tarm,4000000 ,30-06-2010,Alm. Salg,104,38462,3,1890,
-760,Ejerlejlighed,"Storegade 15C, 1",6880, Tarm,4000000 ,30-06-2010,Alm. Salg,89,44944,1,1890,
-760,Ejerlejlighed,Storegade 15E,6880, Tarm,4000000 ,30-06-2010,Alm. Salg,79,50633,2,1890,
-760,Ejerlejlighed,"Storegade 17B, 2. tv",6880, Tarm,4000000 ,30-06-2010,Alm. Salg,61,65574,3,1908,
-760,Ejerlejlighed,Apoteker Rasmussens Plads 5,6880, Tarm,4000000 ,30-06-2010,Alm. Salg,81,49383,2,1890,
-760,Ejerlejlighed,"Storegade 15D, 1. th",6880, Tarm,4000000 ,30-06-2010,Alm. Salg,109,36697,3,1890,
-760,Ejerlejlighed,"Storegade 17B, 1",6880, Tarm,4000000 ,30-06-2010,Alm. Salg,151,26490,4,1908,
-760,Ejerlejlighed,"Storegade 15D, 1. tv",6880, Tarm,4000000 ,30-06-2010,Alm. Salg,141,28369,4,1890,
-760,Ejerlejlighed,"Storegade 17B, 2. mf",6880, Tarm,4000000 ,30-06-2010,Alm. Salg,66,60606,2,1908,
 760,Villa,Møllevej 9,6880, Tarm,385000 ,30-06-2010,Alm. Salg,119,3235,6,1955,
 760,Villa,Kildsigvej 3,6971, Spjald,1650000 ,30-06-2010,Alm. Salg,220,7500,7,1940,
 760,Villa,Højmosevej 15,6971, Spjald,935000 ,29-06-2010,Alm. Salg,136,6875,5,1956,-2%
@@ -9759,10 +9615,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Slusbæk 11,6971, Spjald,150000 ,20-06-2010,Alm. Salg,230,652,5,2016,
 760,Villa,Dalbrinken 7,6900, Skjern,1900000 ,19-06-2010,Alm. Salg,207,9179,6,1985,
 760,Villa,Hovedgaden 24A,6971, Spjald,1345000 ,18-06-2010,Alm. Salg,214,6285,5,1986,
-760,Ejerlejlighed,Storegade 55A,6880, Tarm,1310000 ,17-06-2010,Auktion,98,13367,3,1900,
-760,Ejerlejlighed,Storegade 55B,6880, Tarm,1310000 ,17-06-2010,Auktion,62,21129,3,1900,
-760,Ejerlejlighed,Klosterengen 4,6880, Tarm,1310000 ,17-06-2010,Auktion,68,19265,2,1900,
-760,Ejerlejlighed,Klosterengen 6,6880, Tarm,1310000 ,17-06-2010,Auktion,65,20154,2,1900,
 760,Villa,Gytjevej 22,6960, Hvide Sande,1455000 ,17-06-2010,Alm. Salg,152,9572,6,1986,
 760,Villa,Grønnegade 4,6971, Spjald,290000 ,17-06-2010,Auktion,160,1813,4,1975,
 760,Villa,Stadionalle 1,6920, Videbæk,465000 ,17-06-2010,Alm. Salg,72,6458,5,1950,-6%
@@ -10308,8 +10160,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Gråhedevej 12,6880, Tarm,750000 ,24-09-2009,Alm. Salg,140,5357,5,1954,-6%
 760,Villa,Ånumvej 21,6900, Skjern,1655000 ,23-09-2009,Alm. Salg,187,8850,7,1972,-5%
 760,Villa,Landtingvej 1B,6900, Skjern,932710 ,23-09-2009,Alm. Salg,135,6909,5,1975,
-760,Rækkehus,Storegade 1B,6900, Skjern,1100000 ,21-09-2009,Alm. Salg,69,15942,2,1968,
-760,Ejerlejlighed,Borgergade 2,6900, Skjern,1100000 ,21-09-2009,Alm. Salg,70,15714,3,1968,
 760,Villa,Tværvej 9,6920, Videbæk,1550000 ,21-09-2009,Alm. Salg,126,12302,4,1999,-9%
 760,Villa,Parkalle 4,6900, Skjern,1185000 ,21-09-2009,Alm. Salg,113,10487,4,1945,
 760,Villa,Amagervænget 13,6900, Skjern,1535000 ,21-09-2009,Alm. Salg,165,9303,5,1985,-6%
@@ -10481,12 +10331,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Vardevej 48,6900, Skjern,600000 ,30-06-2009,Alm. Salg,74,8108,4,1922,-14%
 760,Villa,Engdraget 9,6880, Tarm,2600000 ,30-06-2009,Fam. Salg,198,13131,6,2006,
 760,Villa,Stensigvej 1,6900, Skjern,450000 ,30-06-2009,Alm. Salg,197,2284,10,1875,-9%
-760,Ejerlejlighed,"Nygade 31B, st. th",6950, Ringkøbing,3100000 ,29-06-2009,Alm. Salg,66,46970,2,1907,
-760,Ejerlejlighed,"Nygade 31B, 1. th",6950, Ringkøbing,3100000 ,29-06-2009,Alm. Salg,112,27679,3,1907,
-760,Ejerlejlighed,"Nygade 31B, 1. tv",6950, Ringkøbing,3100000 ,29-06-2009,Alm. Salg,79,39241,3,1907,
-760,Ejerlejlighed,Vestergade 20B,6950, Ringkøbing,3100000 ,29-06-2009,Alm. Salg,75,41333,2,1907,
-760,Ejerlejlighed,"Nygade 31B, 2. th",6950, Ringkøbing,3100000 ,29-06-2009,Alm. Salg,65,47692,3,1907,
-760,Ejerlejlighed,"Nygade 31B, 2. tv",6950, Ringkøbing,3100000 ,29-06-2009,Alm. Salg,50,62000,3,1907,
 760,Villa,Kløvervænget 26,6950, Ringkøbing,1525000 ,29-06-2009,Alm. Salg,155,9839,5,1972,-4%
 760,Villa,Bjerregårds Alle 23,6933, Kibæk,70000 ,29-06-2009,Alm. Salg,83,843,3,2013,
 760,Rækkehus,Hasselvej 5,6900, Skjern,1150000 ,28-06-2009,Alm. Salg,143,8042,6,1980,-4%
@@ -11304,8 +11148,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Østervænget 7,6900, Skjern,280507 ,19-05-2008,Fam. Salg,145,1935,5,1980,
 760,Villa,Anerbjergevej 36A,6893, Hemmet,375000 ,19-05-2008,Fam. Salg,129,2907,3,1890,
 760,Villa,Gotlandsgade 4,6950, Ringkøbing,2295000 ,19-05-2008,Alm. Salg,145,15828,6,2005,
-760,Rækkehus,"Hovedgaden 40, st",6980, Tim,345000 ,18-05-2008,Auktion,150,2300,4,1900,
-760,Ejerlejlighed,"Hovedgaden 40, 1",6980, Tim,345000 ,18-05-2008,Auktion,79,4367,2,1900,
 760,Villa,I C Christensens Vej 13,6950, Ringkøbing,685000 ,18-05-2008,Alm. Salg,179,3827,7,1900,
 760,Villa,Søndergade 59,6920, Videbæk,745000 ,18-05-2008,Alm. Salg,84,8869,4,1956,-6%
 760,Villa,Poppelvænget 5,6933, Kibæk,885000 ,18-05-2008,Alm. Salg,128,6914,4,1974,-1%
@@ -11350,7 +11192,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Spurvevej 16,6920, Videbæk,845000 ,04-05-2008,Alm. Salg,142,5951,4,1976,
 760,Villa,Kløvervej 6,6880, Tarm,888000 ,04-05-2008,Alm. Salg,162,5481,5,1964,
 760,Villa,Humlemarken 3,6950, Ringkøbing,256850 ,03-05-2008,Alm. Salg,174,1476,5,2009,
-760,Rækkehus,Nygade 19D,6950, Ringkøbing,400000 ,02-05-2008,Fam. Salg,31,12903,1,1998,
 760,Rækkehus,Nygade 30,6900, Skjern,1342000 ,01-05-2008,Alm. Salg,140,9586,6,1942,-4%
 760,Ejerlejlighed,Bogfinkevej 49,6950, Ringkøbing,925000 ,01-05-2008,Alm. Salg,75,12333,3,1983,
 760,Villa,Vejlevej 64,6880, Tarm,925000 ,01-05-2008,Alm. Salg,203,4557,7,1930,-2%
@@ -11775,7 +11616,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Åvænget 4,6980, Tim,853000 ,16-12-2007,Alm. Salg,192,4443,7,2014,
 760,Villa,Lindealle 16,6900, Skjern,412500 ,16-12-2007,Fam. Salg,186,2218,5,1955,
 760,Villa,Mosevænget 11,6950, Ringkøbing,15000 ,16-12-2007,Alm. Salg,112,134,4,1999,
-760,Villa,Bredgade 59,6940, Lem St,650000 ,16-12-2007,Alm. Salg,185,3514,3,1966,-7%
 760,Rækkehus,Byskellet 48,6950, Ringkøbing,600000 ,13-12-2007,Alm. Salg,103,5825,4,1979,
 760,Villa,Grønnegade 6,6900, Skjern,1375000 ,13-12-2007,Alm. Salg,175,7857,6,1937,
 760,Villa,Birkevej 3,6880, Tarm,1475000 ,13-12-2007,Alm. Salg,143,10315,7,1959,
@@ -11837,8 +11677,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Rapsmarken 7,6950, Ringkøbing,251125 ,25-11-2007,Alm. Salg,200,1256,6,2008,
 760,Villa,Samsøgade 15A,6950, Ringkøbing,2650000 ,25-11-2007,Alm. Salg,150,17667,6,2011,
 760,Ejerlejlighed,"Lodbergsvej 239G, 1. 204g",6950, Ringkøbing,940000 ,24-11-2007,Alm. Salg,71,13239,2,1992,
-760,Ejerlejlighed,"Bildtsvej 15A, 1",6950, Ringkøbing,2400000 ,24-11-2007,Alm. Salg,75,32000,3,1902,
-760,Villa,Bildtsvej 15C,6950, Ringkøbing,2400000 ,24-11-2007,Alm. Salg,73,32877,2,1935,
 760,Villa,Skovvej 16,6880, Tarm,895000 ,23-11-2007,Alm. Salg,140,6393,5,1974,
 760,Villa,Gl. Landevej 40,6893, Hemmet,500000 ,23-11-2007,Alm. Salg,93,5376,3,1925,
 760,Villa,Drejøgade 6,6950, Ringkøbing,581100 ,23-11-2007,Alm. Salg,200,2906,3,1973,
@@ -12124,9 +11962,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Høbrovej 18,6950, Ringkøbing,757500 ,04-09-2007,Andet,155,4887,4,1930,
 760,Rækkehus,Nylandsvej 9,6900, Skjern,705000 ,03-09-2007,Alm. Salg,70,10071,3,1908,
 760,Rækkehus,Grønnegade 16A,6950, Ringkøbing,1039000 ,03-09-2007,Alm. Salg,70,14843,3,1850,
-760,Rækkehus,Storegade 28A,6880, Tarm,800000 ,03-09-2007,Alm. Salg,81,9877,3,1900,
 760,Ejerlejlighed,"Storegade 30, 1",6880, Tarm,140000 ,03-09-2007,Alm. Salg,60,2333,3,1930,
-760,Ejerlejlighed,Storegade 28B,6880, Tarm,800000 ,03-09-2007,Alm. Salg,38,21053,1,1900,
 760,Villa,Nørrealle 12,6900, Skjern,350737 ,03-09-2007,Alm. Salg,152,2307,4,1913,
 760,Villa,Karsbækvej 19,6940, Lem St,1395000 ,03-09-2007,Alm. Salg,180,7750,5,1941,
 760,Villa,Enebærvej 6,6920, Videbæk,327600 ,03-09-2007,Alm. Salg,189,1733,9,2010,
@@ -12236,9 +12072,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Pugflodsvej 19,6950, Ringkøbing,2150000 ,29-07-2007,Alm. Salg,159,13522,5,2006,-2%
 760,Villa,Geflevej 193,6960, Hvide Sande,124775 ,29-07-2007,Alm. Salg,159,785,5,2009,
 760,Villa,Marktoften 30,6950, Ringkøbing,908750 ,29-07-2007,Fam. Salg,148,6140,5,1952,
-760,Ejerlejlighed,Nygade 45,6900, Skjern,1250000 ,26-07-2007,Alm. Salg,65,19231,3,1924,
-760,Ejerlejlighed,Nørrealle 16,6900, Skjern,1250000 ,26-07-2007,Alm. Salg,80,15625,3,1924,
-760,Ejerlejlighed,Nørrealle 14,6900, Skjern,1250000 ,26-07-2007,Alm. Salg,58,21552,3,1924,
 760,Villa,Pilevænget 10,6920, Videbæk,1215000 ,26-07-2007,Alm. Salg,158,7690,5,1970,
 760,Villa,Søndervig Landevej 31,6950, Ringkøbing,442000 ,26-07-2007,Fam. Salg,74,5973,4,1942,
 760,Rækkehus,Østervang 61,6900, Skjern,710000 ,25-07-2007,Alm. Salg,80,8875,4,1957,-4%
@@ -12432,7 +12265,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Søndertoften 4,6950, Ringkøbing,1095000 ,12-06-2007,Alm. Salg,162,6759,5,1976,
 760,Villa,Fengersvej 28,6971, Spjald,129625 ,12-06-2007,Alm. Salg,170,763,7,2009,
 760,Villa,Skjernvej 12,6900, Skjern,282054 ,12-06-2007,Alm. Salg,106,2661,3,1916,
-760,Rækkehus,Nygade 22C,6950, Ringkøbing,1111000 ,11-06-2007,Alm. Salg,73,15219,2,1909,
 760,Rækkehus,Bøgelundsvej 1B,6920, Videbæk,212500 ,11-06-2007,Fam. Salg,68,3125,3,1976,
 760,Rækkehus,Bøgelundsvej 9A,6920, Videbæk,250000 ,11-06-2007,Fam. Salg,72,3472,3,1975,
 760,Rækkehus,Nørregade 33,6900, Skjern,650000 ,11-06-2007,Alm. Salg,104,6250,3,1910,-6%
@@ -12451,8 +12283,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Tarmvej 238,6893, Hemmet,325000 ,05-06-2007,Alm. Salg,97,3351,3,1913,
 760,Villa,Bakkevej 3,6880, Tarm,175000 ,05-06-2007,Fam. Salg,86,2035,3,1959,
 760,Villa,Oldager Allé 32,6900, Skjern,410000 ,05-06-2007,Alm. Salg,195,2103,5,2007,
-760,Rækkehus,"Nørregade 63, st",6960, Hvide Sande,799000 ,04-06-2007,Alm. Salg,80,9988,3,1942,
-760,Ejerlejlighed,"Nørregade 63, 1",6960, Hvide Sande,799000 ,04-06-2007,Alm. Salg,54,14796,2,1942,
 760,Villa,Grævlingevej 3,6893, Hemmet,650000 ,04-06-2007,Alm. Salg,79,8228,4,1976,
 760,Villa,Vardevej 84,6900, Skjern,976164 ,03-06-2007,Alm. Salg,192,5084,4,1936,
 760,Villa,Kastbjergvej 2,6900, Skjern,775000 ,03-06-2007,Alm. Salg,98,7908,4,1904,
@@ -12535,7 +12365,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Torstedvej 60,6980, Tim,517500 ,10-05-2007,Alm. Salg,167,3099,5,1961,-13%
 760,Villa,Høgevej 41,6920, Videbæk,414000 ,10-05-2007,Alm. Salg,149,2779,5,2009,
 760,Villa,Hykkelbjergvej 21,6940, Lem St,156984 ,10-05-2007,Alm. Salg,199,789,7,2008,
-760,Villa,Oldagervænget 38,6900, Skjern,1675000 ,09-05-2007,Alm. Salg,156,10737,5,1988,
 760,Villa,Kongensgårdsvej 5,6880, Tarm,500000 ,09-05-2007,Alm. Salg,121,4132,4,1910,
 760,Villa,Østergade 16,6960, Hvide Sande,825000 ,09-05-2007,Alm. Salg,152,5428,6,1967,
 760,Villa,Grønsiskenvej 3,6950, Ringkøbing,1795000 ,09-05-2007,Alm. Salg,146,12295,5,1997,
@@ -12774,12 +12603,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Drejøgade 18,6950, Ringkøbing,311822 ,03-03-2007,Alm. Salg,209,1492,7,2022,
 760,Ejerlejlighed,"Herningvej 39B, 1. 2",6950, Ringkøbing,1100000 ,02-03-2007,Alm. Salg,73,15068,3,2001,
 760,Rækkehus,"Sønderbyvej 5, st. tv",6893, Hemmet,650000 ,01-03-2007,Alm. Salg,120,5417,4,1913,
-760,Rækkehus,Holstebrovej 92A,6900, Skjern,2600000 ,01-03-2007,Alm. Salg,622,4180,14,1983,-6%
 760,Villa,Østervang 5,6950, Ringkøbing,826000 ,01-03-2007,Alm. Salg,102,8098,4,1966,
 760,Villa,Elmevej 33,6880, Tarm,550000 ,01-03-2007,Alm. Salg,134,4104,4,1959,
 760,Villa,Dejbjergvej 10,6900, Skjern,1409000 ,01-03-2007,Alm. Salg,258,5461,8,1897,
 760,Villa,Sortbærvej 3,6920, Videbæk,1525000 ,01-03-2007,Alm. Salg,154,9903,6,1989,
-760,Villa,Holstebrovej 92B,6900, Skjern,2600000 ,01-03-2007,Alm. Salg,145,17931,6,1934,-6%
 760,Villa,Møllevej 8,6920, Videbæk,382500 ,28-02-2007,Fam. Salg,125,3060,5,1925,
 760,Villa,Smørblomsten 14,6950, Ringkøbing,1750000 ,28-02-2007,Alm. Salg,130,13462,5,1997,
 760,Villa,Kløvervej 20,6920, Videbæk,595000 ,28-02-2007,Alm. Salg,108,5509,4,1986,-7%
@@ -12874,14 +12701,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Gyvelvej 84,6880, Tarm,625000 ,05-02-2007,Fam. Salg,135,4630,5,1966,
 760,Villa,Markvænget 8,6933, Kibæk,1220000 ,05-02-2007,Alm. Salg,181,6740,5,1973,-1%
 760,Villa,Ringkøbingvej 7,6920, Videbæk,795000 ,05-02-2007,Alm. Salg,216,3681,7,1855,
-760,Villa,Østergade 32C,6900, Skjern,950000 ,05-02-2007,Alm. Salg,136,6985,4,1915,
 760,Rækkehus,Voldgade 23,6900, Skjern,400000 ,04-02-2007,Alm. Salg,86,4651,4,1921,
 760,Villa,Allikevej 5,6900, Skjern,1210000 ,04-02-2007,Alm. Salg,167,7246,5,1971,-2%
 760,Villa,Langgade 15,6933, Kibæk,770000 ,04-02-2007,Alm. Salg,100,7700,5,1959,
 760,Villa,Elmevej 44,6880, Tarm,495000 ,04-02-2007,Alm. Salg,137,3613,5,1950,-12%
-760,Ejerlejlighed,"Engsiggade 2, st. tv",6900, Skjern,1800000 ,01-02-2007,Alm. Salg,82,21951,2,1981,
-760,Ejerlejlighed,"Engsiggade 2, st. th",6900, Skjern,1800000 ,01-02-2007,Alm. Salg,60,30000,2,1981,
-760,Ejerlejlighed,Finderupsvej 5A,6900, Skjern,1800000 ,01-02-2007,Alm. Salg,245,7347,5,1981,
 760,Villa,Gl Herborgvej 26,6920, Videbæk,1095000 ,01-02-2007,Alm. Salg,171,6404,5,1978,
 760,Villa,Nylandsvej 30,6900, Skjern,775000 ,01-02-2007,Alm. Salg,85,9118,5,1947,
 760,Villa,Søndergade 7A,6950, Ringkøbing,885000 ,01-02-2007,Alm. Salg,95,9316,2,1827,
@@ -12999,17 +12822,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Ganeråparken 5,6900, Skjern,380000 ,03-01-2007,Alm. Salg,161,2360,4,2007,
 760,Villa,Skolevej 8,6950, Ringkøbing,1730000 ,02-01-2007,Fam. Salg,184,9402,6,1957,
 760,Villa,Fasanvej 11,6880, Tarm,520000 ,02-01-2007,Alm. Salg,83,6265,3,1967,
-760,Ejerlejlighed,"Bildtsvej 18, st. th",6950, Ringkøbing,3000000 ,01-01-2007,Alm. Salg,67,44776,3,1900,
-760,Ejerlejlighed,"Bildtsvej 18, st. tv",6950, Ringkøbing,3000000 ,01-01-2007,Alm. Salg,85,35294,4,1900,
-760,Ejerlejlighed,"Bildtsvej 18, 1. th",6950, Ringkøbing,3000000 ,01-01-2007,Alm. Salg,59,50847,3,1900,
-760,Ejerlejlighed,"Bildtsvej 18, 1. tv",6950, Ringkøbing,3000000 ,01-01-2007,Alm. Salg,50,60000,2,1900,
-760,Ejerlejlighed,"Holstvej 2, 1. tv",6950, Ringkøbing,3000000 ,01-01-2007,Alm. Salg,37,81081,2,1900,
-760,Ejerlejlighed,"Holstvej 4, st. th",6950, Ringkøbing,3000000 ,01-01-2007,Alm. Salg,53,56604,2,1900,
-760,Ejerlejlighed,"Holstvej 4, st. tv",6950, Ringkøbing,3000000 ,01-01-2007,Alm. Salg,54,55556,2,1900,
-760,Ejerlejlighed,"Holstvej 4, 1. th",6950, Ringkøbing,3000000 ,01-01-2007,Alm. Salg,45,66667,2,1900,
-760,Ejerlejlighed,"Holstvej 4, 1. tv",6950, Ringkøbing,3000000 ,01-01-2007,Alm. Salg,45,66667,2,1900,
-760,Ejerlejlighed,"Holstvej 2, 1. th",6950, Ringkøbing,3000000 ,01-01-2007,Alm. Salg,48,62500,2,1900,
-760,Ejerlejlighed,"Holstvej 2, st",6950, Ringkøbing,3000000 ,01-01-2007,Alm. Salg,45,66667,2,1900,
 760,Villa,Anker Eskildsens Vej 45,6960, Hvide Sande,600000 ,01-01-2007,Alm. Salg,140,4286,6,1900,
 760,Villa,Lyngvig Havnevej 32,6960, Hvide Sande,1100000 ,31-12-2006,Alm. Salg,172,6395,5,1973,
 760,Villa,Østergade 114,6900, Skjern,1500000 ,31-12-2006,Fam. Salg,122,6148,6,1963,
@@ -13020,10 +12832,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Geflevej 211,6960, Hvide Sande,73270 ,27-12-2006,Alm. Salg,255,287,5,2009,
 760,Villa,Snerlevej 56,6880, Tarm,1270000 ,26-12-2006,Alm. Salg,209,6077,6,1967,
 760,Villa,Højdedraget 47,6940, Lem St,1245000 ,23-12-2006,Alm. Salg,146,8527,6,1988,
-760,Ejerlejlighed,Østergade 8A,6950, Ringkøbing,2550000 ,22-12-2006,Alm. Salg,230,11087,7,1900,
-760,Ejerlejlighed,Østergade 8B,6950, Ringkøbing,2550000 ,22-12-2006,Alm. Salg,73,34932,2,1900,
-760,Ejerlejlighed,"Algadehaven 20, 1. th",6950, Ringkøbing,2550000 ,22-12-2006,Alm. Salg,65,39231,2,1900,
-760,Ejerlejlighed,"Algadehaven 20, 1. tv",6950, Ringkøbing,2550000 ,22-12-2006,Alm. Salg,65,39231,2,1900,
 760,Villa,Isagervej 12,6950, Ringkøbing,1675000 ,22-12-2006,Alm. Salg,168,9970,6,1900,
 760,Rækkehus,Vestergade 9I,6950, Ringkøbing,1065000 ,21-12-2006,Alm. Salg,78,13654,3,1979,
 760,Rækkehus,Bredgade 129,6900, Skjern,1450000 ,21-12-2006,Alm. Salg,112,12946,3,2007,
@@ -13166,7 +12974,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Rækkehus,Møllevej 28,6950, Ringkøbing,1380000 ,08-11-2006,Alm. Salg,102,13529,3,1923,
 760,Villa,Engtoften 2,6900, Skjern,800000 ,08-11-2006,Alm. Salg,109,7339,3,2010,
 760,Villa,Lavendelvej 36,6880, Tarm,153000 ,08-11-2006,Alm. Salg,187,818,8,2010,
-760,Villa,Gartnerhaven 10,6920, Videbæk,2000000 ,07-11-2006,Alm. Salg,82,24390,3,2017,
 760,Villa,Fynsgade 5,6950, Ringkøbing,256056 ,07-11-2006,Alm. Salg,170,1506,6,2011,
 760,Rækkehus,Birk Skovpark 33,6900, Skjern,1710000 ,06-11-2006,Alm. Salg,135,12667,5,2006,
 760,Villa,Irisalle 4,6920, Videbæk,1290000 ,06-11-2006,Alm. Salg,164,7866,7,1977,
@@ -13551,9 +13358,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Enghavevej 9,6920, Videbæk,500000 ,09-07-2006,Alm. Salg,72,6944,3,1943,
 760,Villa,Dalgasgade 5,6920, Videbæk,400000 ,09-07-2006,Alm. Salg,123,3252,4,1903,
 760,Villa,Dalbrinken 30,6900, Skjern,1440000 ,09-07-2006,Alm. Salg,136,10588,5,1980,
-760,Ejerlejlighed,Vester Grenevej 11B,6880, Tarm,1500000 ,08-07-2006,Alm. Salg,136,11029,6,1956,
 760,Ejerlejlighed,"Metheasvej 4A, 1",6960, Hvide Sande,1150000 ,08-07-2006,Andet,60,19167,2,1936,
-760,Villa,Vester Grenevej 11A,6880, Tarm,1500000 ,08-07-2006,Alm. Salg,183,8197,7,1956,
 760,Villa,Møllebakken 4,6990, Ulfborg,640000 ,08-07-2006,Alm. Salg,176,3636,6,1932,
 760,Villa,St Fjelstervangvej 21,6933, Kibæk,775000 ,08-07-2006,Alm. Salg,180,4306,5,2023,
 760,Villa,Numitvej 1,6960, Hvide Sande,2800000 ,08-07-2006,Andet,108,25926,3,1981,
@@ -13696,7 +13501,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Vadhovedvej 2,6971, Spjald,1500000 ,01-06-2006,Alm. Salg,126,11905,4,1955,
 760,Villa,Vesterhavsvej 41A,6990, Ulfborg,400000 ,01-06-2006,Alm. Salg,155,2581,6,1949,
 760,Villa,Jasminvej 52,6880, Tarm,800000 ,01-06-2006,Alm. Salg,124,6452,5,1965,
-760,Villa,Sønderbyvej 9,6950, Ringkøbing,1530000 ,01-06-2006,Alm. Salg,193,7927,5,1892,
 760,Rækkehus,Bøgelundsvej 27B,6920, Videbæk,650000 ,31-05-2006,Alm. Salg,99,6566,4,1979,
 760,Ejerlejlighed,"Nygade 28B, 2. tv",6950, Ringkøbing,1600000 ,31-05-2006,Alm. Salg,160,10000,6,1910,
 760,Villa,Færøgade 9,6950, Ringkøbing,1195000 ,31-05-2006,Alm. Salg,124,9637,4,1977,
@@ -14097,8 +13901,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Jasminalle 38,6920, Videbæk,180000 ,01-02-2006,Alm. Salg,155,1161,6,2007,
 760,Villa,"Sdr Alle 11, st",6940, Lem St,235000 ,01-02-2006,Alm. Salg,154,1526,5,2018,
 760,Villa,Flodgårdsvej 14,6900, Skjern,795000 ,31-01-2006,Alm. Salg,149,5336,6,1963,
-760,Rækkehus,"Holstvej 6, st",6950, Ringkøbing,1030000 ,30-01-2006,Alm. Salg,62,16613,2,1900,
-760,Ejerlejlighed,"Holstvej 6, 1",6950, Ringkøbing,1030000 ,30-01-2006,Alm. Salg,62,16613,2,1900,
 760,Villa,Glentevej 4,6950, Ringkøbing,1595000 ,30-01-2006,Alm. Salg,282,5656,8,1972,
 760,Villa,Østergade 31,6920, Videbæk,200000 ,29-01-2006,Fam. Salg,48,4167,2,1940,
 760,Villa,Ringkøbingvej 54,6920, Videbæk,1350000 ,29-01-2006,Alm. Salg,161,8385,4,1988,
@@ -14430,9 +14232,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Mølhøj 14,6950, Ringkøbing,1025000 ,10-10-2005,Alm. Salg,117,8761,4,1979,
 760,Villa,Klostervej 49,6900, Skjern,995000 ,10-10-2005,Alm. Salg,124,8024,3,1926,
 760,Villa,Færgemandsvej 24,6960, Hvide Sande,675000 ,10-10-2005,Alm. Salg,120,5625,4,1970,
-760,Ejerlejlighed,Østergade 44,6900, Skjern,1045000 ,09-10-2005,Alm. Salg,76,13750,3,1903,
-760,Ejerlejlighed,"Nylandsvej 1A, 1",6900, Skjern,1045000 ,09-10-2005,Alm. Salg,64,16328,2,1903,
-760,Ejerlejlighed,Nylandsvej 1B,6900, Skjern,1045000 ,09-10-2005,Alm. Salg,50,20900,2,1903,
 760,Villa,Holstebrovej 73,6900, Skjern,620809 ,09-10-2005,Alm. Salg,77,8062,3,1951,
 760,Villa,Rapsmarken 9,6950, Ringkøbing,225050 ,08-10-2005,Alm. Salg,167,1348,6,2008,
 760,Villa,Smedegade 17,6950, Ringkøbing,1800000 ,06-10-2005,Alm. Salg,227,7930,6,1926,
@@ -14776,11 +14575,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Vejlen 7,6900, Skjern,1095000 ,23-06-2005,Alm. Salg,136,6887,9,1980,
 760,Villa,Grønnegade 1,6971, Spjald,300000 ,23-06-2005,Alm. Salg,128,2344,4,1951,
 760,Rækkehus,Højallé 6,6880, Tarm,320000 ,22-06-2005,Alm. Salg,64,5000,3,1980,
-760,Ejerlejlighed,Hovervej 2,6950, Ringkøbing,680000 ,22-06-2005,Alm. Salg,46,14783,2,1900,
-760,Ejerlejlighed,"Holstebrovej 100, 1. tv",6950, Ringkøbing,680000 ,22-06-2005,Alm. Salg,47,14468,2,1900,
-760,Ejerlejlighed,"Holstebrovej 100, 1. th",6950, Ringkøbing,680000 ,22-06-2005,Alm. Salg,46,14783,2,1900,
-760,Ejerlejlighed,"Holstebrovej 100, st. tv",6950, Ringkøbing,680000 ,22-06-2005,Alm. Salg,83,8193,3,1900,
-760,Ejerlejlighed,Hovervej 2A,6950, Ringkøbing,680000 ,22-06-2005,Alm. Salg,106,6415,3,1900,
 760,Villa,Solskrænten 38,6920, Videbæk,1540000 ,22-06-2005,Alm. Salg,166,9277,7,1999,
 760,Villa,Enighedsvej 5,6950, Ringkøbing,1206000 ,22-06-2005,Alm. Salg,196,6153,10,1906,
 760,Villa,Holmsland Klitvej 211,6950, Ringkøbing,625000 ,22-06-2005,Alm. Salg,120,5208,4,1930,
@@ -14909,10 +14703,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Udsigten 2,6940, Lem St,635000 ,18-05-2005,Alm. Salg,110,5773,4,1979,
 760,Villa,Spurvevej 12,6920, Videbæk,795000 ,18-05-2005,Alm. Salg,155,5129,4,1975,
 760,Villa,Hovedgaden 99,6971, Spjald,595000 ,18-05-2005,Alm. Salg,130,4577,5,1930,
-760,Ejerlejlighed,Tinghøjvej 4B,6893, Hemmet,745000 ,17-05-2005,Alm. Salg,131,5687,3,1956,
 760,Villa,Oldagerparken 24,6900, Skjern,897500 ,17-05-2005,Alm. Salg,154,5828,5,2002,
 760,Villa,Brogaardsvænget 14,6950, Ringkøbing,1000000 ,17-05-2005,Alm. Salg,130,7692,5,1969,
-760,Villa,Tinghøjvej 4A,6893, Hemmet,745000 ,17-05-2005,Alm. Salg,135,5519,5,1956,
 760,Rækkehus,Apollovej 50,6960, Hvide Sande,615000 ,16-05-2005,Alm. Salg,80,7688,3,1978,
 760,Rækkehus,Agerhøj 25,6880, Tarm,575000 ,16-05-2005,Alm. Salg,100,5750,3,1978,
 760,Villa,Irisalle 71,6920, Videbæk,1235000 ,16-05-2005,Alm. Salg,136,9081,5,1990,
@@ -15134,10 +14926,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Åboulevarden 23,6880, Tarm,1150000 ,17-03-2005,Alm. Salg,141,8156,5,1930,
 760,Villa,Fengersvej 32,6971, Spjald,161200 ,17-03-2005,Alm. Salg,168,960,5,2014,
 760,Villa,Jasminalle 21,6920, Videbæk,129650 ,17-03-2005,Alm. Salg,165,786,6,2006,
-760,Ejerlejlighed,"Bildtsvej 15A, 1",6950, Ringkøbing,2300000 ,16-03-2005,Alm. Salg,75,30667,3,1902,
 760,Villa,V Strandsbjerg 32,6950, Ringkøbing,1700000 ,16-03-2005,Alm. Salg,170,10000,11,1972,
 760,Villa,Sortbærvej 9,6920, Videbæk,1382200 ,16-03-2005,Alm. Salg,157,8804,6,1989,
-760,Villa,Bildtsvej 15C,6950, Ringkøbing,2300000 ,16-03-2005,Alm. Salg,73,31507,2,1935,
 760,Rækkehus,Herningvej 35,6950, Ringkøbing,1495000 ,15-03-2005,Alm. Salg,138,10833,4,1900,
 760,Ejerlejlighed,"Mellemgade 13, st. tv",6950, Ringkøbing,705000 ,15-03-2005,Alm. Salg,80,8813,3,1914,
 760,Villa,Vardevej 81,6900, Skjern,985000 ,15-03-2005,Alm. Salg,100,9850,4,1964,
@@ -15784,7 +15574,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Gyvelvænget 27,6920, Videbæk,1320000 ,28-06-2004,Alm. Salg,140,9429,6,2000,
 760,Villa,Grønagervej 10,6900, Skjern,675000 ,28-06-2004,Alm. Salg,177,3814,5,1972,
 760,Villa,Dalsvinget 4,6920, Videbæk,660000 ,28-06-2004,Alm. Salg,131,5038,4,1966,
-760,Villa,Præstevejen 10,6900, Skjern,765000 ,28-06-2004,Alm. Salg,154,4968,5,1977,
 760,Rækkehus,Voldgade 9,6900, Skjern,809927 ,27-06-2004,Alm. Salg,83,9758,2,1920,
 760,Villa,Søgårdvej 5,6900, Skjern,1100000 ,27-06-2004,Alm. Salg,383,2872,12,1924,
 760,Villa,Grønnegade 3,6971, Spjald,615000 ,27-06-2004,Alm. Salg,158,3892,2,1920,
@@ -15913,14 +15702,12 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Bygvænget 6,6950, Ringkøbing,970000 ,26-05-2004,Alm. Salg,198,4899,6,1970,
 760,Villa,Østergade 51B,6900, Skjern,800000 ,26-05-2004,Alm. Salg,180,4444,5,1969,
 760,Villa,Gotlandsgade 12,6950, Ringkøbing,144500 ,26-05-2004,Alm. Salg,163,887,5,2008,
-760,Ejerlejlighed,Tinghøjvej 4B,6893, Hemmet,1350000 ,25-05-2004,Alm. Salg,131,10305,3,1956,
 760,Villa,Egevej 14,6950, Ringkøbing,3000000 ,25-05-2004,Alm. Salg,307,9772,12,1968,
 760,Villa,Tyttebærvej 4,6920, Videbæk,955000 ,25-05-2004,Alm. Salg,133,7180,4,1981,
 760,Villa,Sortbærvej 3,6920, Videbæk,1350000 ,25-05-2004,Alm. Salg,154,8766,6,1989,
 760,Villa,Dalsvinget 3,6920, Videbæk,917500 ,25-05-2004,Alm. Salg,130,7058,4,1961,
 760,Villa,Rylen 10,6920, Videbæk,825000 ,25-05-2004,Alm. Salg,157,5255,5,1972,
 760,Villa,Skovbrinken 8,6900, Skjern,1155000 ,25-05-2004,Alm. Salg,154,7500,5,1978,
-760,Villa,Tinghøjvej 4A,6893, Hemmet,1350000 ,25-05-2004,Alm. Salg,135,10000,5,1956,
 760,Villa,Drosselvej 11,6900, Skjern,1225000 ,24-05-2004,Alm. Salg,162,7562,7,1975,
 760,Villa,Teglgårdsvej 1,6880, Tarm,495000 ,24-05-2004,Alm. Salg,100,4950,5,1958,
 760,Villa,Kildevej 1,6971, Spjald,425000 ,24-05-2004,Alm. Salg,116,3664,4,1930,
@@ -16208,12 +15995,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Timringvej 11,6920, Videbæk,660000 ,28-01-2004,Alm. Salg,124,5323,5,1959,
 760,Rækkehus,Østergade 26B,6950, Ringkøbing,978000 ,27-01-2004,Alm. Salg,87,11241,4,1880,
 760,Rækkehus,Vestervang 9B,6920, Videbæk,550000 ,27-01-2004,Alm. Salg,76,7237,3,1979,
-760,Ejerlejlighed,Apoteker Rasmussens Plads 7,6880, Tarm,4000000 ,27-01-2004,Alm. Salg,104,38462,3,1890,
-760,Ejerlejlighed,"Storegade 15C, 1",6880, Tarm,4000000 ,27-01-2004,Alm. Salg,89,44944,1,1890,
-760,Ejerlejlighed,Storegade 15E,6880, Tarm,4000000 ,27-01-2004,Alm. Salg,79,50633,2,1890,
-760,Ejerlejlighed,Apoteker Rasmussens Plads 5,6880, Tarm,4000000 ,27-01-2004,Alm. Salg,81,49383,2,1890,
-760,Ejerlejlighed,"Storegade 15D, 1. th",6880, Tarm,4000000 ,27-01-2004,Alm. Salg,109,36697,3,1890,
-760,Ejerlejlighed,"Storegade 15D, 1. tv",6880, Tarm,4000000 ,27-01-2004,Alm. Salg,141,28369,4,1890,
 760,Villa,Amagervej 1,6900, Skjern,410000 ,27-01-2004,Fam. Salg,199,2060,8,1918,
 760,Villa,Karen Brands Vej 31,6960, Hvide Sande,875000 ,27-01-2004,Alm. Salg,179,4888,7,1980,
 760,Villa,Lundevej 27,6900, Skjern,587500 ,27-01-2004,Alm. Salg,154,3815,4,1978,
@@ -16273,7 +16054,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Præstevejen 2,6900, Skjern,500000 ,31-12-2003,Alm. Salg,103,4854,5,1859,
 760,Villa,Kirkebakken 15,6950, Ringkøbing,1425000 ,30-12-2003,Alm. Salg,214,6659,7,1979,
 760,Villa,M Erichsens Vej 16,6950, Ringkøbing,1970000 ,30-12-2003,Alm. Salg,148,13311,4,1939,
-760,Rækkehus,Nygade 19D,6950, Ringkøbing,1560000 ,29-12-2003,Fam. Salg,31,50323,1,1998,
 760,Villa,Vardevej 79,6880, Tarm,1929130 ,29-12-2003,Alm. Salg,145,13304,5,1938,
 760,Villa,Dakotavej 25,6960, Hvide Sande,426000 ,28-12-2003,Auktion,113,3770,3,1948,
 760,Villa,Lærkevej 8,6960, Hvide Sande,550000 ,27-12-2003,Alm. Salg,125,4400,4,1949,
@@ -16312,8 +16092,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Apollovej 58,6960, Hvide Sande,1000000 ,12-12-2003,Alm. Salg,135,7407,5,1978,
 760,Villa,Kærhusvej 2D,6971, Spjald,145600 ,11-12-2003,Alm. Salg,208,700,6,1912,
 760,Villa,Hülkesvej 10,6920, Videbæk,420000 ,11-12-2003,Andet,185,2270,9,1950,
-760,Rækkehus,"Nørregade 63, st",6960, Hvide Sande,763153 ,10-12-2003,Alm. Salg,80,9539,3,1942,
-760,Ejerlejlighed,"Nørregade 63, 1",6960, Hvide Sande,763153 ,10-12-2003,Alm. Salg,54,14132,2,1942,
 760,Villa,Bogfinkevej 32,6950, Ringkøbing,955000 ,10-12-2003,Alm. Salg,128,7461,4,1979,
 760,Villa,Norgesgade 14,6950, Ringkøbing,1310000 ,10-12-2003,Alm. Salg,147,8912,6,1988,
 760,Villa,Strellevvej 8,6880, Tarm,595000 ,10-12-2003,Alm. Salg,96,6198,6,1952,
@@ -16685,7 +16463,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Vardevej 27,6900, Skjern,1600000 ,26-06-2003,Alm. Salg,130,12308,5,1940,
 760,Villa,Marupvej 37,6900, Skjern,640000 ,26-06-2003,Alm. Salg,113,5664,6,1951,
 760,Villa,Holmene 10,6950, Ringkøbing,1070956 ,26-06-2003,Alm. Salg,92,11641,4,1951,
-760,Villa,Nygade 43B,6950, Ringkøbing,2000000 ,26-06-2003,Alm. Salg,61,32787,3,1872,
 760,Villa,Violvej 3,6920, Videbæk,346412 ,26-06-2003,Andet,152,2279,5,1972,
 760,Villa,Vorgodvej 16,6920, Videbæk,625000 ,26-06-2003,Alm. Salg,124,5040,5,1948,
 760,Villa,Mejlvang 6,6950, Ringkøbing,720000 ,26-06-2003,Alm. Salg,123,5854,5,1977,
@@ -16710,8 +16487,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Glibstrupvej 6,6880, Tarm,340000 ,21-06-2003,Fam. Salg,171,1988,5,1896,
 760,Villa,Langelandsgade 61,6950, Ringkøbing,575000 ,21-06-2003,Fam. Salg,148,3885,5,1985,
 760,Rækkehus,Vinkelvej 17,6880, Tarm,595000 ,20-06-2003,Alm. Salg,107,5561,4,1950,
-760,Rækkehus,"Holstvej 6, st",6950, Ringkøbing,730000 ,19-06-2003,Fam. Salg,62,11774,2,1900,
-760,Ejerlejlighed,"Holstvej 6, 1",6950, Ringkøbing,730000 ,19-06-2003,Fam. Salg,62,11774,2,1900,
 760,Villa,Skovtoften 7,6900, Skjern,169600 ,19-06-2003,Alm. Salg,161,1053,6,2004,
 760,Villa,Svinget 16,6900, Skjern,460000 ,19-06-2003,Alm. Salg,96,4792,5,1946,
 760,Villa,Kløverbakken 20,6900, Skjern,300000 ,19-06-2003,Alm. Salg,76,3947,3,1954,
@@ -16739,7 +16514,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Syrenvej 1,6950, Ringkøbing,1240000 ,12-06-2003,Alm. Salg,157,7898,5,1971,
 760,Villa,Assingvej 2,6920, Videbæk,700000 ,12-06-2003,Alm. Salg,240,2917,6,1913,
 760,Villa,Elmevej 2,6920, Videbæk,395000 ,12-06-2003,Alm. Salg,67,5896,3,1960,
-760,Villa,Godthaabsvej 14B,6950, Ringkøbing,1600000 ,12-06-2003,Alm. Salg,95,16842,3,1932,
 760,Rækkehus,Hjejlevej 13A,6920, Videbæk,147000 ,11-06-2003,Andet,43,3419,2,1971,
 760,Villa,Dalgasgade 21,6920, Videbæk,345000 ,11-06-2003,Auktion,128,2695,8,1921,
 760,Villa,Skolevej 31,6950, Ringkøbing,960000 ,11-06-2003,Alm. Salg,229,4192,8,1932,
@@ -16752,10 +16526,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Bildtsvej 22,6950, Ringkøbing,1050000 ,09-06-2003,Alm. Salg,134,7836,5,1923,
 760,Villa,Åstedvej 3,6900, Skjern,285000 ,09-06-2003,Alm. Salg,147,1939,5,1936,
 760,Villa,Højevej 29,6900, Skjern,460000 ,09-06-2003,Alm. Salg,150,3067,5,1910,
-760,Ejerlejlighed,Østergade 8A,6950, Ringkøbing,1750000 ,08-06-2003,Fam. Salg,230,7609,7,1900,
-760,Ejerlejlighed,Østergade 8B,6950, Ringkøbing,1750000 ,08-06-2003,Fam. Salg,73,23973,2,1900,
-760,Ejerlejlighed,"Algadehaven 20, 1. th",6950, Ringkøbing,1750000 ,08-06-2003,Fam. Salg,65,26923,2,1900,
-760,Ejerlejlighed,"Algadehaven 20, 1. tv",6950, Ringkøbing,1750000 ,08-06-2003,Fam. Salg,65,26923,2,1900,
 760,Villa,Numitvej 9,6960, Hvide Sande,1100000 ,08-06-2003,Alm. Salg,177,6215,6,1977,
 760,Villa,Smallegade 1,6920, Videbæk,180000 ,05-06-2003,Alm. Salg,67,2687,3,1945,
 760,Villa,Heboltoft 49,6950, Ringkøbing,1850000 ,05-06-2003,Alm. Salg,220,8409,6,1975,
@@ -16803,8 +16573,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Tangsvej 28,6950, Ringkøbing,1517000 ,19-05-2003,Alm. Salg,134,11321,5,1933,
 760,Villa,Holmegaardsvej 3,6950, Ringkøbing,1050000 ,19-05-2003,Alm. Salg,166,6325,6,1950,
 760,Rækkehus,Bredgade 138C,6900, Skjern,525000 ,18-05-2003,Alm. Salg,68,7721,2,1976,
-760,Ejerlejlighed,"Hovervej 16, 1",6950, Ringkøbing,820000 ,18-05-2003,Alm. Salg,80,10250,3,1923,
-760,Villa,"Hovervej 16, st",6950, Ringkøbing,820000 ,18-05-2003,Alm. Salg,161,5093,3,1923,
 760,Villa,Vester Birk 23,6900, Skjern,225000 ,18-05-2003,Alm. Salg,158,1424,6,2003,
 760,Villa,Gl Stationsvej 8,6950, Ringkøbing,1350000 ,16-05-2003,Alm. Salg,202,4383,7,1910,
 760,Rækkehus,Møllevej 34,6950, Ringkøbing,640000 ,15-05-2003,Alm. Salg,85,7529,2,1960,
@@ -17059,9 +16827,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Markledet 44,6950, Ringkøbing,271000 ,30-01-2003,Fam. Salg,210,1290,7,1927,
 760,Villa,Svanevej 10,6920, Videbæk,710000 ,30-01-2003,Alm. Salg,135,5259,5,1956,
 760,Villa,Spangager 38,6880, Tarm,790000 ,30-01-2003,Alm. Salg,136,5809,6,1977,
-760,Ejerlejlighed,"Bildtsvej 15A, 1",6950, Ringkøbing,1355000 ,29-01-2003,Alm. Salg,75,18067,3,1902,
 760,Villa,Dalsvinget 8,6920, Videbæk,835000 ,29-01-2003,Alm. Salg,137,6095,4,1962,
-760,Villa,Bildtsvej 15C,6950, Ringkøbing,1355000 ,29-01-2003,Alm. Salg,73,18562,2,1935,
 760,Villa,Lønborgvej 25,6880, Tarm,530000 ,28-01-2003,Alm. Salg,105,5048,5,1953,
 760,Villa,Gyvelvænget 4,6920, Videbæk,137450 ,28-01-2003,Alm. Salg,164,838,6,2003,
 760,Villa,Markskellet 12,6950, Ringkøbing,925000 ,27-01-2003,Alm. Salg,172,5378,6,1974,
@@ -17894,8 +17660,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Tangsvej 25,6950, Ringkøbing,1670000 ,12-03-2002,Alm. Salg,154,10844,6,1949,
 760,Villa,Søndergade 33,6920, Videbæk,380000 ,12-03-2002,Alm. Salg,195,1949,3,1937,
 760,Villa,Spurvevej 3,6940, Lem St,729000 ,11-03-2002,Alm. Salg,117,6231,4,1961,
-760,Ejerlejlighed,"Bredgade 34A, 2",6920, Videbæk,925000 ,10-03-2002,Alm. Salg,71,13028,2,1900,
-760,Villa,"Bredgade 34A, 1",6920, Videbæk,925000 ,10-03-2002,Alm. Salg,81,11420,2,1900,
 760,Villa,Kløvervej 15,6880, Tarm,580000 ,10-03-2002,Alm. Salg,114,5088,4,1962,
 760,Villa,Rosenhaven 10,6950, Ringkøbing,171865 ,10-03-2002,Alm. Salg,166,1035,6,2004,
 760,Villa,Bækdalvej 1,6920, Videbæk,441774 ,07-03-2002,Alm. Salg,152,2906,6,1900,
@@ -18036,7 +17800,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Rabækvej 1,6880, Tarm,830000 ,01-01-2002,Alm. Salg,166,5000,7,1923,
 760,Villa,Skodsbølvej 14,6880, Tarm,320000 ,01-01-2002,Fam. Salg,107,2991,2,1934,
 760,Villa,Nørrevænget 12,6933, Kibæk,1022000 ,01-01-2002,Alm. Salg,207,4937,7,1980,
-760,Villa,Østergade 32C,6900, Skjern,858004 ,29-12-2001,Alm. Salg,136,6309,4,1915,
 760,Rækkehus,Åboulevarden 10,6880, Tarm,505000 ,27-12-2001,Alm. Salg,86,5872,4,1920,
 760,Villa,Pallasvej 31,6960, Hvide Sande,890000 ,27-12-2001,Alm. Salg,127,7008,4,1981,
 760,Rækkehus,Hjejlevej 27F,6920, Videbæk,285000 ,20-12-2001,Alm. Salg,43,6628,2,1972,
@@ -18125,8 +17888,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Lillebyvej 9,6920, Videbæk,903000 ,18-11-2001,Alm. Salg,152,5941,5,1938,
 760,Villa,Videbækvej 6,6900, Skjern,415000 ,15-11-2001,Alm. Salg,90,4611,3,1965,
 760,Villa,Vardevej 55,6880, Tarm,575000 ,15-11-2001,Alm. Salg,126,4563,5,1947,
-760,Ejerlejlighed,Nørhedevej 8,6880, Tarm,510000 ,14-11-2001,Alm. Salg,42,12143,2,1952,
-760,Villa,Nørhedevej 10,6880, Tarm,510000 ,14-11-2001,Alm. Salg,157,3248,6,1938,
 760,Villa,Herningvej 108,6950, Ringkøbing,383434 ,13-11-2001,Alm. Salg,236,1625,5,1877,
 760,Villa,Østerdige 27,6950, Ringkøbing,562500 ,12-11-2001,Alm. Salg,125,4500,5,1949,
 760,Villa,Svingelvej 28,6980, Tim,233000 ,11-11-2001,Auktion,118,1975,6,1923,
@@ -18260,10 +18021,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Herningvej 29,6920, Videbæk,377505 ,30-09-2001,Alm. Salg,152,2484,6,1929,
 760,Villa,Fælledvej 1,6893, Hemmet,925000 ,29-09-2001,Alm. Salg,152,6086,5,1946,
 760,Rækkehus,Korsvej 7,6880, Tarm,399000 ,28-09-2001,Alm. Salg,126,3167,3,1904,
-760,Ejerlejlighed,Enighedsvej 1,6950, Ringkøbing,900000 ,27-09-2001,Alm. Salg,70,12857,2,1905,
-760,Ejerlejlighed,Enighedsvej 3,6950, Ringkøbing,900000 ,27-09-2001,Alm. Salg,102,8824,3,1905,
-760,Ejerlejlighed,"Herningvej 13, 1. tv",6950, Ringkøbing,900000 ,27-09-2001,Alm. Salg,53,16981,1,1905,
-760,Ejerlejlighed,"Herningvej 13, 1. th",6950, Ringkøbing,900000 ,27-09-2001,Alm. Salg,48,18750,1,1905,
 760,Villa,Snerlevej 3,6950, Ringkøbing,670000 ,27-09-2001,Alm. Salg,135,4963,4,1968,
 760,Villa,Sønder Klitvej 18,6960, Hvide Sande,450000 ,27-09-2001,Alm. Salg,161,2795,6,1857,
 760,Villa,Borrisvej 41,6900, Skjern,380000 ,27-09-2001,Alm. Salg,101,3762,3,1918,
@@ -18271,8 +18028,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Nørregaardsvej 5,6920, Videbæk,850000 ,26-09-2001,Alm. Salg,151,5629,5,1984,
 760,Villa,Klostervej 22,6900, Skjern,595000 ,25-09-2001,Alm. Salg,82,7256,4,1933,
 760,Villa,Engvej 9,6880, Tarm,767500 ,25-09-2001,Alm. Salg,105,7310,4,1975,
-760,Rækkehus,Storegade 28A,6880, Tarm,1950000 ,24-09-2001,Alm. Salg,81,24074,3,1900,
-760,Ejerlejlighed,Storegade 28B,6880, Tarm,1950000 ,24-09-2001,Alm. Salg,38,51316,1,1900,
 760,Villa,Svingelvej 8,6980, Tim,330000 ,24-09-2001,Alm. Salg,64,5156,2,1906,
 760,Villa,Parkalle 18,6900, Skjern,820000 ,24-09-2001,Alm. Salg,100,8200,4,1954,
 760,Villa,Mejlvang 14,6950, Ringkøbing,70000 ,24-09-2001,Alm. Salg,132,530,5,2004,
@@ -18454,7 +18209,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Bakkevej 21,6960, Hvide Sande,725000 ,12-07-2001,Alm. Salg,158,4589,6,1962,
 760,Villa,Fasanvej 8,6980, Tim,525000 ,12-07-2001,Alm. Salg,89,5899,3,1966,
 760,Rækkehus,Møllevej 28,6950, Ringkøbing,682500 ,11-07-2001,Alm. Salg,102,6691,3,1923,
-760,Rækkehus,Herningvej 16B,6950, Ringkøbing,1000000 ,11-07-2001,Alm. Salg,44,22727,2,1906,
 760,Villa,Bellisvej 10,6920, Videbæk,730000 ,11-07-2001,Alm. Salg,147,4966,6,1973,
 760,Villa,Kirkebyvej 94,6900, Skjern,270000 ,11-07-2001,Alm. Salg,126,2143,4,1974,
 760,Villa,Langelandsgade 45,6950, Ringkøbing,1026634 ,10-07-2001,Alm. Salg,114,9006,5,1987,
@@ -18484,7 +18238,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Enebærvej 1,6950, Ringkøbing,1025000 ,03-07-2001,Alm. Salg,136,7537,5,1977,
 760,Villa,Aadalsvej 9,6920, Videbæk,597451 ,03-07-2001,Alm. Salg,119,5021,4,1912,
 760,Villa,Langelandsgade 17,6950, Ringkøbing,980000 ,03-07-2001,Alm. Salg,110,8909,4,1984,
-760,Villa,Godthaabsvej 14B,6950, Ringkøbing,1390000 ,03-07-2001,Alm. Salg,95,14632,3,1932,
 760,Villa,Knaplundvej 6,6880, Tarm,540000 ,02-07-2001,Alm. Salg,185,2919,7,1900,
 760,Villa,Klokkeblomsten 4,6950, Ringkøbing,226780 ,02-07-2001,Alm. Salg,143,1586,5,2002,
 760,Villa,Spurvevej 3,6920, Videbæk,725000 ,02-07-2001,Alm. Salg,149,4866,5,1976,
@@ -18608,12 +18361,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Tingagervej 1,6900, Skjern,500000 ,31-05-2001,Alm. Salg,129,3876,4,1969,
 760,Villa,Agersbækvej 18,6950, Ringkøbing,820000 ,31-05-2001,Alm. Salg,187,4385,5,1950,
 760,Ejerlejlighed,"Bryggen 1, 2. th",6950, Ringkøbing,1962771 ,30-05-2001,Alm. Salg,143,13726,3,2001,
-760,Ejerlejlighed,"Nørregade 28, st",6920, Videbæk,500000 ,30-05-2001,Alm. Salg,81,6173,3,1924,
-760,Ejerlejlighed,"Nørregade 28, 1",6920, Videbæk,500000 ,30-05-2001,Alm. Salg,38,13158,2,1924,
-760,Ejerlejlighed,"Gl Kongevej 37, 1",6920, Videbæk,500000 ,30-05-2001,Alm. Salg,42,11905,2,1946,
-760,Ejerlejlighed,"Gl Kongevej 37, st",6920, Videbæk,500000 ,30-05-2001,Alm. Salg,65,7692,2,1946,
 760,Villa,Blåkildevej 37,6880, Tarm,657571 ,30-05-2001,Alm. Salg,191,3443,7,1900,
-760,Villa,Nørregade 1,6960, Hvide Sande,1650000 ,30-05-2001,Alm. Salg,167,9880,6,1928,
 760,Villa,Klostervænget 8,6900, Skjern,1350000 ,29-05-2001,Alm. Salg,197,6853,5,1980,
 760,Villa,Velling Kirkeby 43,6950, Ringkøbing,525000 ,29-05-2001,Alm. Salg,101,5198,4,1969,
 760,Villa,Sønderbyvænget 8,6950, Ringkøbing,670000 ,29-05-2001,Alm. Salg,125,5360,5,1947,
@@ -18771,14 +18519,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Egevej 2A,6971, Spjald,675000 ,05-04-2001,Alm. Salg,115,5870,4,1983,
 760,Villa,Bygmarken 8,6971, Spjald,725000 ,05-04-2001,Alm. Salg,144,5035,5,1972,
 760,Rækkehus,Agerhøj 23,6880, Tarm,700000 ,04-04-2001,Alm. Salg,130,5385,4,1978,
-760,Ejerlejlighed,"Algade 9A, 1. tv",6950, Ringkøbing,4600000 ,04-04-2001,Alm. Salg,70,65714,2,1863,
-760,Ejerlejlighed,"Algade 9A, 2. tv",6950, Ringkøbing,4600000 ,04-04-2001,Alm. Salg,100,46000,3,1863,
-760,Ejerlejlighed,"Østergade 1A, st",6950, Ringkøbing,4600000 ,04-04-2001,Alm. Salg,79,58228,2,1863,
-760,Ejerlejlighed,"Østergade 1A, 2",6950, Ringkøbing,4600000 ,04-04-2001,Alm. Salg,62,74194,2,1863,
-760,Ejerlejlighed,"Østergade 1B, 1",6950, Ringkøbing,4600000 ,04-04-2001,Alm. Salg,70,65714,2,1863,
-760,Ejerlejlighed,"Østergade 1A, 1",6950, Ringkøbing,4600000 ,04-04-2001,Alm. Salg,80,57500,2,1863,
-760,Ejerlejlighed,"Algade 9A, 2. th",6950, Ringkøbing,4600000 ,04-04-2001,Alm. Salg,123,37398,4,1863,
-760,Ejerlejlighed,"Algade 9A, 1. th",6950, Ringkøbing,4600000 ,04-04-2001,Alm. Salg,156,29487,4,1863,
 760,Villa,Rolighedsvej 4,6920, Videbæk,275440 ,04-04-2001,Alm. Salg,122,2258,5,1951,
 760,Villa,Dalgasgade 36,6920, Videbæk,385000 ,04-04-2001,Alm. Salg,97,3969,5,1942,
 760,Villa,Solvænget 2,6900, Skjern,830000 ,04-04-2001,Alm. Salg,122,6803,4,1963,
@@ -18837,8 +18577,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Vejlevej 64,6880, Tarm,230000 ,19-03-2001,Alm. Salg,203,1133,7,1930,
 760,Rækkehus,Hasselvej 8,6900, Skjern,575000 ,18-03-2001,Alm. Salg,76,7566,3,1981,
 760,Rækkehus,Søndergade 30A,6920, Videbæk,850000 ,18-03-2001,Alm. Salg,49,17347,2,1960,
-760,Rækkehus,Storegade 28A,6880, Tarm,880000 ,18-03-2001,Alm. Salg,81,10864,3,1900,
-760,Ejerlejlighed,Storegade 28B,6880, Tarm,880000 ,18-03-2001,Alm. Salg,38,23158,1,1900,
 760,Villa,Lønborgvej 3,6880, Tarm,495000 ,18-03-2001,Alm. Salg,87,5690,4,1900,
 760,Villa,Strømmesbølvej 16,6880, Tarm,375257 ,18-03-2001,Fam. Salg,125,3002,4,1937,
 760,Villa,Kongevejen 43,6920, Videbæk,860000 ,18-03-2001,Alm. Salg,180,4778,5,1940,
@@ -19041,9 +18779,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Rækkehus,Gl Kongevej 31,6920, Videbæk,650000 ,03-01-2001,Alm. Salg,162,4012,6,1916,
 760,Villa,Ølstrupvej 6,6950, Ringkøbing,1200000 ,31-12-2000,Alm. Salg,160,7500,7,1932,
 760,Villa,Klokkeblomsten 6,6950, Ringkøbing,192970 ,30-12-2000,Alm. Salg,161,1199,4,2003,
-760,Ejerlejlighed,"Skovvej 52, 1",6880, Tarm,3500000 ,28-12-2000,Alm. Salg,195,17949,5,1996,
 760,Villa,Herningvej 63,6920, Videbæk,55000 ,28-12-2000,Fam. Salg,80,688,4,1938,
-760,Villa,Hulmosevej 1,6880, Tarm,3500000 ,28-12-2000,Alm. Salg,76,46053,3,1959,
 760,Villa,Novej 11,6950, Ringkøbing,983092 ,26-12-2000,Alm. Salg,297,3310,10,1927,
 760,Ejerlejlighed,"Finderupsvej 5F, st. 1",6900, Skjern,298510 ,21-12-2000,Alm. Salg,36,8292,1,1981,
 760,Villa,Højallé 5,6880, Tarm,989875 ,21-12-2000,Fam. Salg,233,4248,8,1977,
@@ -19142,9 +18878,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Præstegårdsvej 54,6900, Skjern,1475000 ,20-11-2000,Alm. Salg,167,8832,7,1997,
 760,Villa,Klostervej 41,6900, Skjern,243315 ,20-11-2000,Fam. Salg,75,3244,3,1950,
 760,Villa,Oldagervænget 15,6900, Skjern,1225000 ,20-11-2000,Alm. Salg,154,7955,6,1988,
-760,Rækkehus,Buen 4B,6880, Tarm,872000 ,19-11-2000,Alm. Salg,68,12824,2,1966,
 760,Villa,Reberbanen 10,6950, Ringkøbing,705000 ,19-11-2000,Alm. Salg,131,5382,4,1905,
-760,Villa,Buen 4A,6880, Tarm,872000 ,19-11-2000,Alm. Salg,141,6184,6,1966,
 760,Villa,Ølstrupvej 9,6950, Ringkøbing,949712 ,17-11-2000,Alm. Salg,117,8117,6,1958,
 760,Villa,Hejrevænget 40,6893, Hemmet,475000 ,17-11-2000,Alm. Salg,60,7917,4,1972,
 760,Villa,Kjærs Alle 4,6900, Skjern,825000 ,17-11-2000,Alm. Salg,127,6496,5,1919,
@@ -19253,12 +18987,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Ragedal 6,6900, Skjern,465000 ,11-10-2000,Alm. Salg,220,2114,5,1929,
 760,Villa,Enggårdsvej 2,6893, Hemmet,900000 ,11-10-2000,Alm. Salg,223,4036,7,1875,
 760,Villa,Midtgårdsvej 6,6920, Videbæk,1895000 ,11-10-2000,Alm. Salg,190,9974,7,1980,
-760,Ejerlejlighed,Hovervej 2,6950, Ringkøbing,620000 ,10-10-2000,Fam. Salg,46,13478,2,1900,
-760,Ejerlejlighed,"Holstebrovej 100, 1. tv",6950, Ringkøbing,620000 ,10-10-2000,Fam. Salg,47,13191,2,1900,
-760,Ejerlejlighed,"Holstebrovej 100, 1. th",6950, Ringkøbing,620000 ,10-10-2000,Fam. Salg,46,13478,2,1900,
-760,Ejerlejlighed,"Holstebrovej 100, st. tv",6950, Ringkøbing,620000 ,10-10-2000,Fam. Salg,83,7470,3,1900,
 760,Ejerlejlighed,"Nørregade 2, 1",6950, Ringkøbing,3000000 ,10-10-2000,Alm. Salg,161,18634,4,1907,
-760,Ejerlejlighed,Hovervej 2A,6950, Ringkøbing,620000 ,10-10-2000,Fam. Salg,106,5849,3,1900,
 760,Villa,Lupinvej 95,6880, Tarm,870378 ,10-10-2000,Alm. Salg,195,4463,6,1966,
 760,Villa,Ternevej 7,6920, Videbæk,307875 ,10-10-2000,Alm. Salg,173,1780,5,2002,
 760,Villa,Jagtvej 4,6950, Ringkøbing,600000 ,10-10-2000,Alm. Salg,155,3871,3,2008,
@@ -19274,10 +19003,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Fjordbrinken 4,6950, Ringkøbing,1925000 ,05-10-2000,Alm. Salg,190,10132,5,2002,
 760,Villa,Kløvermarken 10,6950, Ringkøbing,906298 ,05-10-2000,Alm. Salg,191,4745,8,1965,
 760,Villa,Bredgade 57,6920, Videbæk,648403 ,05-10-2000,Alm. Salg,295,2198,8,1939,
-760,Ejerlejlighed,Hovedgaden 40B,6971, Spjald,525000 ,04-10-2000,Alm. Salg,85,6176,3,1925,
 760,Villa,Elmevej 27,6880, Tarm,358325 ,04-10-2000,Alm. Salg,88,4072,3,1947,
 760,Villa,Tranevej 7,6900, Skjern,1092744 ,04-10-2000,Alm. Salg,206,5305,6,1970,
-760,Villa,Hovedgaden 40,6971, Spjald,525000 ,04-10-2000,Alm. Salg,125,4200,7,1925,
 760,Villa,Kirkebyvej 8,6900, Skjern,469194 ,04-10-2000,Alm. Salg,115,4080,3,1957,
 760,Rækkehus,Grønnegade 16A,6950, Ringkøbing,565000 ,03-10-2000,Alm. Salg,70,8071,3,1850,
 760,Villa,Stationsvej 26,6920, Videbæk,530000 ,03-10-2000,Alm. Salg,116,4569,4,1968,
@@ -19292,7 +19019,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Rækkehus,Vestergade 26A,6971, Spjald,550000 ,01-10-2000,Alm. Salg,98,5612,4,1980,
 760,Villa,Vardevej 27,6900, Skjern,750000 ,01-10-2000,Alm. Salg,130,5769,5,1940,
 760,Villa,Sønderbyvej 18,6893, Hemmet,565000 ,01-10-2000,Fam. Salg,106,5330,4,1970,
-760,Villa,Sønderbyvej 9,6950, Ringkøbing,600000 ,30-09-2000,Alm. Salg,193,3109,5,1892,
 760,Villa,Nygade 14,6900, Skjern,395166 ,29-09-2000,Alm. Salg,107,3693,5,1905,
 760,Rækkehus,Reberbanen 41,6950, Ringkøbing,590000 ,28-09-2000,Alm. Salg,78,7564,3,1988,
 760,Villa,Grønnegade 1,6900, Skjern,600000 ,28-09-2000,Alm. Salg,92,6522,6,1948,
@@ -19535,11 +19261,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Grønlandsgade 13,6950, Ringkøbing,975000 ,24-06-2000,Alm. Salg,114,8553,4,1989,
 760,Villa,Torstedvej 67,6980, Tim,526000 ,24-06-2000,Alm. Salg,237,2219,4,1935,
 760,Villa,Hovedgaden 82,6971, Spjald,554000 ,22-06-2000,Alm. Salg,142,3901,4,1950,
-760,Ejerlejlighed,"Storegade 57, st. tv",6880, Tarm,370000 ,21-06-2000,Alm. Salg,55,6727,2,1915,
-760,Ejerlejlighed,"Storegade 57, st. th",6880, Tarm,370000 ,21-06-2000,Alm. Salg,60,6167,2,1915,
-760,Ejerlejlighed,"Storegade 57, 1. tv",6880, Tarm,370000 ,21-06-2000,Alm. Salg,58,6379,2,1915,
-760,Ejerlejlighed,"Storegade 57, 1. th",6880, Tarm,370000 ,21-06-2000,Alm. Salg,56,6607,2,1915,
-760,Ejerlejlighed,Klosterengen 8,6880, Tarm,370000 ,21-06-2000,Alm. Salg,80,4625,3,1934,
 760,Villa,Rolighedsstræde 3,6933, Kibæk,305000 ,21-06-2000,Alm. Salg,230,1326,8,1980,
 760,Villa,Brejningvej 19,6971, Spjald,135000 ,21-06-2000,Alm. Salg,148,912,5,1930,
 760,Villa,Holstebrovej 64,6900, Skjern,255000 ,21-06-2000,Alm. Salg,85,3000,3,1954,
@@ -19682,10 +19403,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Rækkehus,Højevej 28A,6900, Skjern,320888 ,03-05-2000,Alm. Salg,92,3488,2,1897,
 760,Villa,Kirkestrædet 1,6893, Hemmet,415000 ,03-05-2000,Alm. Salg,133,3120,5,1926,
 760,Villa,Baunsbjergvej 16,6920, Videbæk,480000 ,03-05-2000,Alm. Salg,113,4248,4,1966,
-760,Rækkehus,Grønnegade 1B,6950, Ringkøbing,560000 ,02-05-2000,Fam. Salg,103,5437,3,1988,
 760,Rækkehus,Grønnegade 3A,6950, Ringkøbing,467500 ,02-05-2000,Fam. Salg,93,5027,3,1988,
 760,Villa,Gl. Kongevej 39,6880, Tarm,1450000 ,02-05-2000,Fam. Salg,270,5370,7,1970,
-760,Villa,Ved Fjorden 9,6950, Ringkøbing,560000 ,02-05-2000,Fam. Salg,152,3684,4,1900,
 760,Rækkehus,Bøgelundsvej 21D,6920, Videbæk,460000 ,30-04-2000,Alm. Salg,77,5974,3,1980,
 760,Rækkehus,"Bryggen 7, 1",6893, Hemmet,700000 ,30-04-2000,Alm. Salg,50,14000,3,1980,
 760,Ejerlejlighed,"Finderupsvej 5D, 1. 2",6900, Skjern,399134 ,30-04-2000,Fam. Salg,61,6543,2,1981,
@@ -19706,7 +19425,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Vestergade 10,6900, Skjern,425000 ,21-04-2000,Fam. Salg,153,2778,5,1936,
 760,Rækkehus,Hasselvej 19,6900, Skjern,555000 ,18-04-2000,Alm. Salg,76,7303,3,1979,
 760,Villa,Bindesbølvej 7,6880, Tarm,288659 ,18-04-2000,Alm. Salg,163,1771,6,1925,
-760,Villa,Østergade 16A,6950, Ringkøbing,2250000 ,18-04-2000,Alm. Salg,97,23196,3,1790,
 760,Villa,St Nørgårdsvej 7,6900, Skjern,710000 ,18-04-2000,Alm. Salg,155,4581,5,2015,
 760,Rækkehus,Reberbanen 25,6950, Ringkøbing,665000 ,17-04-2000,Alm. Salg,92,7228,3,1988,
 760,Villa,Skolevej 34,6950, Ringkøbing,1295000 ,16-04-2000,Alm. Salg,182,7115,8,1969,
@@ -19777,10 +19495,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Rækkehus,Violvej 10,6900, Skjern,650000 ,23-03-2000,Alm. Salg,76,8553,3,1989,
 760,Rækkehus,Ringgaden 2,6950, Ringkøbing,175000 ,23-03-2000,Alm. Salg,101,1733,5,1900,
 760,Rækkehus,Østervang 43,6900, Skjern,670000 ,23-03-2000,Alm. Salg,85,7882,3,1957,
-760,Ejerlejlighed,Østergade 45,6900, Skjern,430000 ,23-03-2000,Andet,44,9773,2,1905,
-760,Ejerlejlighed,Reberbanen 1,6900, Skjern,430000 ,23-03-2000,Andet,83,5181,3,1905,
 760,Villa,Grønningen 25,6920, Videbæk,700000 ,23-03-2000,Alm. Salg,146,4795,4,1977,
-760,Villa,Bredgade 97,6900, Skjern,1500000 ,23-03-2000,Andet,104,14423,4,1947,
 760,Villa,Strømmesbølvej 26,6880, Tarm,1067528 ,23-03-2000,Alm. Salg,225,4745,7,1913,
 760,Villa,Grønnegade 3,6971, Spjald,282000 ,23-03-2000,Alm. Salg,158,1785,2,1920,
 760,Villa,Bækkevangen 11,6900, Skjern,890000 ,23-03-2000,Andet,146,6096,5,2020,
@@ -19915,9 +19630,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Hovervej 108,6971, Spjald,496000 ,30-01-2000,Alm. Salg,112,4429,5,1961,
 760,Villa,Oldagervænget 1,6900, Skjern,1304923 ,30-01-2000,Alm. Salg,143,9125,5,1989,
 760,Villa,Nørregade 55,6960, Hvide Sande,425000 ,29-01-2000,Alm. Salg,84,5060,4,1943,
-760,Ejerlejlighed,Bakkevej 1B,6880, Tarm,75000 ,28-01-2000,Alm. Salg,68,1103,3,1912,
 760,Villa,Parkvej 7,6971, Spjald,600000 ,28-01-2000,Alm. Salg,133,4511,4,1965,
-760,Villa,Bakkevej 1A,6880, Tarm,75000 ,28-01-2000,Alm. Salg,113,664,4,1912,
 760,Villa,Bækager 1,6893, Hemmet,375000 ,26-01-2000,Alm. Salg,177,2119,6,1942,
 760,Villa,Egevej 12,6880, Tarm,1056950 ,26-01-2000,Alm. Salg,141,7496,5,1973,
 760,Villa,Pilevænget 12,6920, Videbæk,965000 ,26-01-2000,Alm. Salg,178,5421,5,1970,
@@ -19956,7 +19669,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Lybækvej 6,6950, Ringkøbing,792431 ,13-01-2000,Alm. Salg,207,3828,7,1964,
 760,Villa,Holstebrovej 129,6980, Tim,350000 ,11-01-2000,Alm. Salg,129,2713,4,1948,
 760,Villa,Åboulevarden 76,6880, Tarm,1270000 ,11-01-2000,Alm. Salg,392,3240,6,1900,
-760,Villa,Bredgade 59,6940, Lem St,480000 ,10-01-2000,Alm. Salg,185,2595,3,1966,
 760,Villa,Skolevænget 29,6900, Skjern,270000 ,09-01-2000,Alm. Salg,64,4219,3,1909,
 760,Villa,Bindesbølvej 7,6920, Videbæk,180000 ,09-01-2000,Alm. Salg,244,738,8,2004,
 760,Villa,Skolevej 29,6920, Videbæk,550000 ,09-01-2000,Alm. Salg,131,4198,4,1974,
@@ -20113,8 +19825,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Geflevej 74,6960, Hvide Sande,1150000 ,27-10-1999,Alm. Salg,142,8099,6,1985,
 760,Villa,Parkalle 5,6900, Skjern,1060000 ,27-10-1999,Alm. Salg,145,7310,5,1948,
 760,Villa,Mejlvang 51,6950, Ringkøbing,670169 ,27-10-1999,Alm. Salg,123,5449,3,1978,
-760,Rækkehus,"Hovedgaden 40, st",6980, Tim,160000 ,26-10-1999,Alm. Salg,150,1067,4,1900,
-760,Ejerlejlighed,"Hovedgaden 40, 1",6980, Tim,160000 ,26-10-1999,Alm. Salg,79,2025,2,1900,
 760,Villa,Lundevej 5,6900, Skjern,390000 ,26-10-1999,Alm. Salg,65,6000,2,1952,
 760,Villa,Tværvej 1,6920, Videbæk,150000 ,25-10-1999,Alm. Salg,142,1056,5,2002,
 760,Villa,Kløvervej 16,6880, Tarm,344833 ,25-10-1999,Alm. Salg,110,3135,3,1963,
@@ -20411,8 +20121,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Vejlevej 25,6880, Tarm,620000 ,11-07-1999,Alm. Salg,197,3147,7,1900,
 760,Villa,Fladhøjvej 12,6893, Hemmet,565000 ,11-07-1999,Alm. Salg,135,4185,6,1953,
 760,Villa,Bakkevej 4,6880, Tarm,362620 ,11-07-1999,Alm. Salg,176,2060,6,1830,
-760,Ejerlejlighed,"Hovervej 16, 1",6950, Ringkøbing,427335 ,08-07-1999,Alm. Salg,80,5342,3,1923,
-760,Villa,"Hovervej 16, st",6950, Ringkøbing,427335 ,08-07-1999,Alm. Salg,161,2654,3,1923,
 760,Villa,Solvangvej 8,6900, Skjern,400000 ,08-07-1999,Alm. Salg,196,2041,6,1920,
 760,Villa,Ringkøbingvej 9,6900, Skjern,650000 ,08-07-1999,Alm. Salg,201,3234,7,1927,
 760,Villa,Bøelvej 27,6880, Tarm,400000 ,08-07-1999,Alm. Salg,228,1754,6,1916,
@@ -20605,10 +20313,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Stauningvej 8,6900, Skjern,525161 ,11-05-1999,Alm. Salg,138,3806,4,1898,
 760,Villa,Uglbjergvej 4,6900, Skjern,346671 ,11-05-1999,Alm. Salg,146,2374,2,1946,
 760,Rækkehus,Vestergade 9G,6950, Ringkøbing,760000 ,10-05-1999,Alm. Salg,81,9383,3,1979,
-760,Ejerlejlighed,Bakkevej 1B,6880, Tarm,45000 ,10-05-1999,Alm. Salg,68,662,3,1912,
 760,Villa,I C Christensens Vej 12,6950, Ringkøbing,838624 ,10-05-1999,Alm. Salg,202,4152,6,1974,
 760,Villa,Langelandsgade 65,6950, Ringkøbing,1170000 ,10-05-1999,Alm. Salg,156,7500,6,1984,
-760,Villa,Bakkevej 1A,6880, Tarm,45000 ,10-05-1999,Alm. Salg,113,398,4,1912,
 760,Villa,Blåmejsevej 3,6880, Tarm,685000 ,10-05-1999,Alm. Salg,128,5352,4,1969,
 760,Ejerlejlighed,"Mellemgade 13, 1. th",6950, Ringkøbing,495644 ,09-05-1999,Alm. Salg,80,6196,2,1914,
 760,Villa,Drosselvej 22,6880, Tarm,610000 ,09-05-1999,Alm. Salg,138,4420,4,1972,
@@ -20635,7 +20341,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Skjernvej 11,6900, Skjern,937500 ,03-05-1999,Alm. Salg,271,3459,9,1929,
 760,Villa,Konvalvej 2,6950, Ringkøbing,312500 ,03-05-1999,Alm. Salg,112,2790,4,1979,
 760,Rækkehus,"Bag Torvet 3, 1",6950, Ringkøbing,680000 ,02-05-1999,Alm. Salg,65,10462,3,1985,
-760,Villa,Præstegårdsvej 2,6900, Skjern,1300000 ,02-05-1999,Alm. Salg,236,5508,7,1936,
 760,Villa,Poppelvej 7,6880, Tarm,949000 ,28-04-1999,Alm. Salg,134,7082,4,1973,
 760,Villa,Ternevej 20,6920, Videbæk,194880 ,28-04-1999,Alm. Salg,153,1274,4,2000,
 760,Villa,Ånumvej 95,6900, Skjern,925000 ,28-04-1999,Alm. Salg,230,4022,6,1956,
@@ -20920,7 +20625,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Rækkehus,Ø Strandgade 9,6950, Ringkøbing,550000 ,18-01-1999,Alm. Salg,118,4661,5,1875,
 760,Villa,Tranekjærvej 4,6880, Tarm,870000 ,18-01-1999,Alm. Salg,179,4860,6,1888,
 760,Villa,Anemonevej 13,6900, Skjern,525000 ,18-01-1999,Alm. Salg,109,4817,4,1964,
-760,Rækkehus,Voldgade 1,6900, Skjern,918948 ,17-01-1999,Alm. Salg,90,10211,2,1918,
 760,Rækkehus,Solsortevej 1,6880, Tarm,366000 ,17-01-1999,Alm. Salg,105,3486,5,1968,
 760,Villa,Mølgårdsvej 15,6920, Videbæk,250000 ,17-01-1999,Fam. Salg,133,1880,5,1973,
 760,Villa,Rosenalle 76,6920, Videbæk,700000 ,17-01-1999,Alm. Salg,184,3804,5,1974,
@@ -20992,10 +20696,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Svalevej 1,6880, Tarm,710000 ,14-12-1998,Alm. Salg,130,5462,4,1972,
 760,Rækkehus,Vestervænget 8A,6900, Skjern,579000 ,13-12-1998,Alm. Salg,74,7824,3,1978,
 760,Villa,Vester Grenevej 6,6880, Tarm,430000 ,13-12-1998,Alm. Salg,258,1667,5,1955,
-760,Ejerlejlighed,"Hovervej 16, 1",6950, Ringkøbing,728000 ,10-12-1998,Alm. Salg,80,9100,3,1923,
 760,Villa,Marupvej 52,6900, Skjern,852000 ,10-12-1998,Alm. Salg,125,6816,4,1950,
 760,Villa,Apollovej 51,6960, Hvide Sande,825000 ,10-12-1998,Alm. Salg,150,5500,4,1970,
-760,Villa,"Hovervej 16, st",6950, Ringkøbing,728000 ,10-12-1998,Alm. Salg,161,4522,3,1923,
 760,Villa,Holstebrovej 83,6950, Ringkøbing,537803 ,10-12-1998,Alm. Salg,142,3787,4,1947,
 760,Ejerlejlighed,"Herningvej 38, 1. tv",6950, Ringkøbing,562892 ,09-12-1998,Alm. Salg,85,6622,3,1942,
 760,Villa,Tromsøvej 22,6950, Ringkøbing,1075000 ,09-12-1998,Alm. Salg,195,5513,7,1979,
@@ -21018,7 +20720,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Møllebakken 16,6990, Ulfborg,178500 ,06-12-1998,Fam. Salg,117,1526,4,1976,
 760,Villa,Skrænten 8,6900, Skjern,760000 ,06-12-1998,Alm. Salg,200,3800,6,1972,
 760,Villa,Geflevej 161,6960, Hvide Sande,975000 ,06-12-1998,Alm. Salg,150,6500,5,1987,
-760,Villa,Solsikkevej 4,6950, Ringkøbing,750000 ,06-12-1998,Alm. Salg,145,5172,5,1979,
 760,Villa,Fjord Alle 1,6950, Ringkøbing,725000 ,06-12-1998,Alm. Salg,201,3607,5,1920,
 760,Villa,Hovedgaden 35,6980, Tim,500000 ,06-12-1998,Alm. Salg,210,2381,6,1900,
 760,Villa,Elmevej 5,6900, Skjern,425000 ,06-12-1998,Fam. Salg,117,3632,5,1969,
@@ -21073,7 +20774,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Trehedevej 4,6950, Ringkøbing,1000000 ,15-11-1998,Fam. Salg,122,8197,7,1969,
 760,Villa,Kirkebakken 7,6950, Ringkøbing,1179664 ,15-11-1998,Alm. Salg,208,5671,8,1972,
 760,Villa,Knudevej 3,6880, Tarm,8000 ,15-11-1998,Alm. Salg,228,35,7,1891,
-760,Villa,Herborgvej 1,6900, Skjern,300000 ,15-11-1998,Alm. Salg,65,4615,3,1952,
 760,Villa,Timringvej 9,6920, Videbæk,310000 ,15-11-1998,Alm. Salg,95,3263,6,1962,
 760,Villa,Øster Lemvej 21,6940, Lem St,296000 ,15-11-1998,Alm. Salg,162,1827,5,1924,
 760,Villa,Blomstervænget 11,6950, Ringkøbing,1024000 ,13-11-1998,Alm. Salg,153,6693,6,1976,
@@ -21135,7 +20835,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Guldregnalle 24,6920, Videbæk,720000 ,27-10-1998,Alm. Salg,135,5333,4,1977,
 760,Villa,Møllevej 31,6950, Ringkøbing,510000 ,26-10-1998,Alm. Salg,161,3168,5,1910,
 760,Villa,Nordmarken 6,6940, Lem St,85310 ,25-10-1998,Alm. Salg,192,444,5,2000,
-760,Villa,Engsiggade 12,6900, Skjern,205889 ,25-10-1998,Alm. Salg,108,1906,4,1900,
 760,Villa,Gadegårdvej 5,6900, Skjern,220000 ,25-10-1998,Alm. Salg,105,2095,3,1890,
 760,Villa,Vantingvej 2,6971, Spjald,202600 ,22-10-1998,Alm. Salg,120,1688,5,1912,
 760,Villa,Bindesbølvej 13,6880, Tarm,632100 ,22-10-1998,Alm. Salg,112,5644,4,1998,
@@ -21249,8 +20948,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Klostervej 40,6950, Ringkøbing,442500 ,14-09-1998,Alm. Salg,178,2486,5,1910,
 760,Villa,Smørblomsten 22,6950, Ringkøbing,156088 ,14-09-1998,Alm. Salg,159,982,5,2000,
 760,Villa,Apollovej 63,6960, Hvide Sande,890000 ,14-09-1998,Alm. Salg,153,5817,6,1969,
-760,Rækkehus,"Nørregade 63, st",6960, Hvide Sande,420000 ,13-09-1998,Alm. Salg,80,5250,3,1942,
-760,Ejerlejlighed,"Nørregade 63, 1",6960, Hvide Sande,420000 ,13-09-1998,Alm. Salg,54,7778,2,1942,
 760,Villa,Gytjevej 50,6960, Hvide Sande,1250000 ,13-09-1998,Alm. Salg,165,7576,5,1985,
 760,Villa,Stenaldervej 4,6950, Ringkøbing,1059754 ,13-09-1998,Alm. Salg,119,8905,5,1999,
 760,Villa,Thuesensvej 2,6960, Hvide Sande,440000 ,11-09-1998,Alm. Salg,71,6197,3,1949,
@@ -21268,11 +20965,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Østerdige 21,6950, Ringkøbing,959000 ,08-09-1998,Alm. Salg,146,6568,4,1968,
 760,Villa,Nørregade 38,6920, Videbæk,635000 ,07-09-1998,Alm. Salg,135,4704,5,1930,
 760,Villa,Nørregade 26,6960, Hvide Sande,635000 ,07-09-1998,Alm. Salg,100,6350,5,1951,
-760,Ejerlejlighed,"Storegade 57, st. tv",6880, Tarm,350000 ,06-09-1998,Auktion,55,6364,2,1915,
-760,Ejerlejlighed,"Storegade 57, st. th",6880, Tarm,350000 ,06-09-1998,Auktion,60,5833,2,1915,
-760,Ejerlejlighed,"Storegade 57, 1. tv",6880, Tarm,350000 ,06-09-1998,Auktion,58,6034,2,1915,
-760,Ejerlejlighed,"Storegade 57, 1. th",6880, Tarm,350000 ,06-09-1998,Auktion,56,6250,2,1915,
-760,Ejerlejlighed,Klosterengen 8,6880, Tarm,350000 ,06-09-1998,Auktion,80,4375,3,1934,
 760,Villa,Kirkebyvej 48,6900, Skjern,512000 ,06-09-1998,Alm. Salg,196,2612,6,1900,
 760,Villa,Falkevej 16,6950, Ringkøbing,995000 ,06-09-1998,Alm. Salg,130,7654,5,1991,
 760,Villa,Tarpbjerg 17,6900, Skjern,308000 ,06-09-1998,Alm. Salg,66,4667,3,1942,
@@ -21513,10 +21205,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Lambækvej 63,6940, Lem St,610000 ,15-06-1998,Alm. Salg,177,3446,5,2020,
 760,Villa,Agervej 51,6900, Skjern,47520 ,15-06-1998,Alm. Salg,195,244,5,1999,
 760,Villa,Uglevej 17,6950, Ringkøbing,1184742 ,15-06-1998,Alm. Salg,186,6370,7,1979,
-760,Ejerlejlighed,Storegade 55A,6880, Tarm,275000 ,14-06-1998,Alm. Salg,98,2806,3,1900,
-760,Ejerlejlighed,Storegade 55B,6880, Tarm,275000 ,14-06-1998,Alm. Salg,62,4435,3,1900,
-760,Ejerlejlighed,Klosterengen 4,6880, Tarm,275000 ,14-06-1998,Alm. Salg,68,4044,2,1900,
-760,Ejerlejlighed,Klosterengen 6,6880, Tarm,275000 ,14-06-1998,Alm. Salg,65,4231,2,1900,
 760,Villa,Kaniavej 38,6960, Hvide Sande,1225000 ,14-06-1998,Alm. Salg,193,6347,7,1975,
 760,Villa,Nørhedevej 33,6880, Tarm,90000 ,14-06-1998,Alm. Salg,117,769,5,1906,
 760,Villa,Mejlvang 26,6950, Ringkøbing,1294882 ,14-06-1998,Alm. Salg,170,7617,6,1995,
@@ -21837,7 +21525,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Kirkebyvej 62,6900, Skjern,576000 ,16-03-1998,Alm. Salg,147,3918,4,1956,
 760,Villa,Byskellet 72,6950, Ringkøbing,163000 ,16-03-1998,Alm. Salg,118,1381,4,1999,
 760,Villa,Nørregade 21,6900, Skjern,800000 ,16-03-1998,Alm. Salg,167,4790,10,1929,
-760,Rækkehus,Ulbækvej 10C,6880, Tarm,410000 ,15-03-1998,Alm. Salg,68,6029,2,1913,
 760,Villa,Møllebakken 3,6880, Tarm,280000 ,15-03-1998,Alm. Salg,91,3077,4,1941,
 760,Villa,Østervænget 12,6971, Spjald,400000 ,15-03-1998,Fam. Salg,114,3509,4,1964,
 760,Villa,Nørhedevej 5,6880, Tarm,418700 ,15-03-1998,Alm. Salg,165,2538,6,1905,
@@ -21888,7 +21575,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Rækkehus,Pilevej 45,6880, Tarm,440000 ,02-03-1998,Alm. Salg,102,4314,5,1973,
 760,Villa,Tim Kirkevej 24,6980, Tim,304000 ,02-03-1998,Alm. Salg,122,2492,7,1953,
 760,Villa,Amagervej 64,6900, Skjern,1002000 ,02-03-1998,Alm. Salg,152,6592,4,1972,
-760,Villa,Nygade 43B,6950, Ringkøbing,1800000 ,01-03-1998,Andet,61,29508,3,1872,
 760,Villa,Langelandsgade 72,6950, Ringkøbing,718000 ,01-03-1998,Alm. Salg,91,7890,4,1986,
 760,Villa,Stadilvej 54,6980, Tim,360000 ,01-03-1998,Alm. Salg,108,3333,4,1951,
 760,Villa,Kvembjergevej 17,6900, Skjern,1200000 ,01-03-1998,Alm. Salg,149,7595,5,1967,
@@ -21907,8 +21593,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Engsiggade 9,6900, Skjern,436840 ,23-02-1998,Alm. Salg,93,4697,5,1906,
 760,Villa,Dyssevænget 11,6900, Skjern,1035000 ,23-02-1998,Alm. Salg,203,5099,7,1928,
 760,Villa,Heebro 8,6950, Ringkøbing,2220154 ,23-02-1998,Alm. Salg,160,13876,5,2001,
-760,Ejerlejlighed,Østergade 45,6900, Skjern,152800 ,22-02-1998,Alm. Salg,44,3473,2,1905,
-760,Ejerlejlighed,Reberbanen 1,6900, Skjern,152800 ,22-02-1998,Alm. Salg,83,1841,3,1905,
 760,Villa,Østerbyvej 46,6880, Tarm,400000 ,22-02-1998,Alm. Salg,148,2703,6,1906,
 760,Villa,Bredgade 144,6900, Skjern,628000 ,22-02-1998,Alm. Salg,126,4984,5,1955,
 760,Villa,Amagervej 68,6900, Skjern,904000 ,22-02-1998,Alm. Salg,147,6150,5,1972,
@@ -21997,10 +21681,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Rypevej 11,6880, Tarm,963568 ,28-01-1998,Alm. Salg,162,5948,6,1969,
 760,Villa,Vestervænget 9,6900, Skjern,629949 ,28-01-1998,Alm. Salg,175,3600,5,1979,
 760,Villa,Sønder Klitvej 151,6960, Hvide Sande,1200000 ,28-01-1998,Fam. Salg,158,7595,5,1967,
-760,Rækkehus,Vestervang 9A,6920, Videbæk,485000 ,27-01-1998,Alm. Salg,76,6382,3,1979,
 760,Rækkehus,Nørregaardsvej 16A,6920, Videbæk,413000 ,27-01-1998,Alm. Salg,76,5434,3,1978,
 760,Villa,Oldagervænget 37,6900, Skjern,1188091 ,27-01-1998,Alm. Salg,163,7289,5,1988,
-760,Villa,Bredgade 90,6920, Videbæk,485000 ,27-01-1998,Alm. Salg,159,3050,4,1947,
 760,Villa,Stauningvej 33,6900, Skjern,303525 ,27-01-1998,Alm. Salg,197,1541,7,1925,
 760,Villa,Egvadvej 12,6880, Tarm,165000 ,27-01-1998,Alm. Salg,136,1213,3,1880,
 760,Villa,Strellevvej 10,6880, Tarm,328509 ,27-01-1998,Alm. Salg,108,3042,3,1960,
@@ -22056,7 +21738,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Mejlvang 24,6950, Ringkøbing,113400 ,11-01-1998,Alm. Salg,163,696,5,1998,
 760,Villa,Nørregade 36,6960, Hvide Sande,440000 ,11-01-1998,Fam. Salg,85,4190,4,1964,
 760,Villa,Bakken 7,6900, Skjern,743000 ,11-01-1998,Alm. Salg,198,3259,6,1918,
-760,Villa,Godthaabsvej 14B,6950, Ringkøbing,925000 ,10-01-1998,Alm. Salg,95,9737,3,1932,
 760,Villa,Velling Kirkeby 71,6950, Ringkøbing,735000 ,08-01-1998,Alm. Salg,118,6229,5,1978,
 760,Villa,Dyssevænget 7,6900, Skjern,155000 ,08-01-1998,Alm. Salg,249,622,8,1944,
 760,Villa,Søndergade 69,6920, Videbæk,475000 ,07-01-1998,Alm. Salg,130,3654,5,1941,
@@ -22208,10 +21889,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Parkalle 3,6900, Skjern,3700000 ,03-11-1997,Alm. Salg,210,17619,5,1956,
 760,Villa,Lundevej 22,6900, Skjern,584000 ,03-11-1997,Alm. Salg,146,4000,3,1955,
 760,Rækkehus,Østergade 26B,6950, Ringkøbing,793000 ,02-11-1997,Alm. Salg,87,9115,4,1880,
-760,Ejerlejlighed,Vester Grenevej 11B,6880, Tarm,780000 ,02-11-1997,Alm. Salg,136,5735,6,1956,
 760,Villa,Nørregade 21,6920, Videbæk,273787 ,02-11-1997,Alm. Salg,143,1915,6,1953,
 760,Villa,Strømmesbølvej 5,6880, Tarm,360500 ,02-11-1997,Alm. Salg,190,1897,7,1900,
-760,Villa,Vester Grenevej 11A,6880, Tarm,780000 ,02-11-1997,Alm. Salg,183,4262,7,1956,
 760,Villa,Vinkelvej 14,6950, Ringkøbing,557000 ,02-11-1997,Alm. Salg,145,3841,5,1954,
 760,Villa,Langelandsgade 98,6950, Ringkøbing,834243 ,01-11-1997,Alm. Salg,138,6045,4,1988,
 760,Villa,Markledet 46,6950, Ringkøbing,700000 ,01-11-1997,Fam. Salg,191,3665,6,1979,
@@ -22300,12 +21979,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Højvangen 32,6950, Ringkøbing,158576 ,07-10-1997,Alm. Salg,146,1086,5,2000,
 760,Rækkehus,Østergade 20,6950, Ringkøbing,892000 ,06-10-1997,Alm. Salg,131,6809,4,1879,
 760,Rækkehus,Bøgelundsvej 20,6920, Videbæk,500000 ,06-10-1997,Alm. Salg,118,4237,4,1974,
-760,Ejerlejlighed,Storegade 23B,6880, Tarm,1950000 ,06-10-1997,Alm. Salg,81,24074,2,1896,
-760,Ejerlejlighed,"Apoteker Rasmussens Plads 4, 1. tv",6880, Tarm,1950000 ,06-10-1997,Alm. Salg,98,19898,2,1896,
-760,Ejerlejlighed,"Apoteker Rasmussens Plads 4, 1. th",6880, Tarm,1950000 ,06-10-1997,Alm. Salg,72,27083,2,1896,
-760,Ejerlejlighed,"Apoteker Rasmussens Plads 4, st",6880, Tarm,1950000 ,06-10-1997,Alm. Salg,65,30000,2,1896,
-760,Ejerlejlighed,"Storegade 23A, st",6880, Tarm,1950000 ,06-10-1997,Alm. Salg,85,22941,2,1896,
-760,Ejerlejlighed,"Storegade 23A, 1",6880, Tarm,1950000 ,06-10-1997,Alm. Salg,94,20745,2,1896,
 760,Villa,Hølletvej 2,6920, Videbæk,520000 ,06-10-1997,Alm. Salg,119,4370,4,1959,
 760,Villa,Hvingelvej 1,6950, Ringkøbing,526061 ,06-10-1997,Alm. Salg,127,4142,4,1963,
 760,Villa,Thuesensvej 1,6960, Hvide Sande,352000 ,06-10-1997,Alm. Salg,169,2083,5,1951,
@@ -22536,9 +22209,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Blinkbjergvej 2,6880, Tarm,720000 ,14-08-1997,Alm. Salg,180,4000,4,1900,
 760,Villa,Skolevej 30,6950, Ringkøbing,776264 ,13-08-1997,Alm. Salg,114,6809,4,1972,
 760,Villa,Højvangen 16,6950, Ringkøbing,139689 ,13-08-1997,Alm. Salg,171,817,5,1998,
-760,Ejerlejlighed,Vester Grenevej 11B,6880, Tarm,600000 ,12-08-1997,Alm. Salg,136,4412,6,1956,
 760,Villa,Danmarksgade 42,6900, Skjern,400000 ,12-08-1997,Alm. Salg,103,3883,7,1938,
-760,Villa,Vester Grenevej 11A,6880, Tarm,600000 ,12-08-1997,Alm. Salg,183,3279,7,1956,
 760,Villa,Stauningvej 8,6900, Skjern,309000 ,12-08-1997,Alm. Salg,138,2239,4,1898,
 760,Villa,Vester Bardevej 2,6920, Videbæk,1000000 ,12-08-1997,Alm. Salg,177,5650,7,1930,
 760,Villa,Markvænget 5,6900, Skjern,325000 ,12-08-1997,Alm. Salg,68,4779,3,1958,
@@ -22954,7 +22625,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Skolegade 10,6880, Tarm,300000 ,12-04-1997,Alm. Salg,172,1744,4,1904,
 760,Villa,Tværvej 7,6920, Videbæk,140000 ,10-04-1997,Alm. Salg,145,966,5,1999,
 760,Villa,Svinget 25,6880, Tarm,673000 ,10-04-1997,Alm. Salg,116,5802,5,1961,
-760,Villa,V Strandgade 6E,6950, Ringkøbing,2932322 ,09-04-1997,Fam. Salg,74,19813,3,1936,
 760,Villa,Stenager 8,6880, Tarm,669000 ,09-04-1997,Alm. Salg,180,3717,7,1980,
 760,Villa,Oblingvej 4,6893, Hemmet,385000 ,09-04-1997,Alm. Salg,189,2037,8,1929,
 760,Villa,Kernevej 33,6940, Lem St,731000 ,09-04-1997,Alm. Salg,237,3084,8,1987,
@@ -23052,12 +22722,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Thuesensvej 2,6960, Hvide Sande,306000 ,12-03-1997,Fam. Salg,71,4310,3,1949,
 760,Villa,Dejbjergvej 7,6940, Lem St,775000 ,12-03-1997,Alm. Salg,151,5132,6,1986,
 760,Villa,Mejlvang 26,6950, Ringkøbing,529774 ,11-03-1997,Alm. Salg,170,3116,6,1995,
-760,Rækkehus,Klematisvej 56,6920, Videbæk,450000 ,10-03-1997,Alm. Salg,87,5172,3,1981,
 760,Villa,Klostervej 56,6950, Ringkøbing,300000 ,10-03-1997,Alm. Salg,107,2804,6,1910,
 760,Villa,Lerpøtvej 1,6893, Hemmet,347562 ,10-03-1997,Alm. Salg,121,2872,6,1880,
 760,Villa,Holstebrovej 60B,6950, Ringkøbing,947328 ,10-03-1997,Alm. Salg,185,5121,5,1916,
 760,Villa,Vedersø Klitvej 30,6990, Ulfborg,555091 ,10-03-1997,Alm. Salg,120,4626,4,1975,
-760,Villa,Ryesmindevej 8,6920, Videbæk,450000 ,10-03-1997,Fam. Salg,116,3879,4,1965,
 760,Villa,Store Kjærgaardsvej 7,6940, Lem St,409000 ,10-03-1997,Alm. Salg,86,4756,4,1960,
 760,Villa,Kirkevej 43,6950, Ringkøbing,571400 ,10-03-1997,Alm. Salg,112,5102,3,1962,
 760,Villa,Sdr. Feldingvej 7,6920, Videbæk,192956 ,09-03-1997,Alm. Salg,118,1635,3,1961,
@@ -23170,12 +22838,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Kirkebyvej 85,6900, Skjern,273000 ,30-01-1997,Alm. Salg,208,1313,7,1930,
 760,Villa,Nørredige 32,6893, Hemmet,51920 ,30-01-1997,Alm. Salg,132,393,5,2008,
 760,Rækkehus,Nørregaardsvej 16D,6920, Videbæk,330000 ,29-01-1997,Alm. Salg,75,4400,3,1978,
-760,Ejerlejlighed,Apoteker Rasmussens Plads 7,6880, Tarm,1850000 ,29-01-1997,Alm. Salg,104,17788,3,1890,
-760,Ejerlejlighed,"Storegade 15C, 1",6880, Tarm,1850000 ,29-01-1997,Alm. Salg,89,20787,1,1890,
-760,Ejerlejlighed,Storegade 15E,6880, Tarm,1850000 ,29-01-1997,Alm. Salg,79,23418,2,1890,
-760,Ejerlejlighed,Apoteker Rasmussens Plads 5,6880, Tarm,1850000 ,29-01-1997,Alm. Salg,81,22840,2,1890,
-760,Ejerlejlighed,"Storegade 15D, 1. th",6880, Tarm,1850000 ,29-01-1997,Alm. Salg,109,16972,3,1890,
-760,Ejerlejlighed,"Storegade 15D, 1. tv",6880, Tarm,1850000 ,29-01-1997,Alm. Salg,141,13121,4,1890,
 760,Villa,Kirkegade 4,6920, Videbæk,355000 ,29-01-1997,Alm. Salg,180,1972,6,1917,
 760,Villa,Elmevej 23,6880, Tarm,258826 ,29-01-1997,Alm. Salg,67,3863,2,1951,
 760,Villa,Birkkjærvej 5,6950, Ringkøbing,551500 ,29-01-1997,Alm. Salg,192,2872,6,1925,
@@ -23231,7 +22893,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Guldregnalle 13,6920, Videbæk,570000 ,16-01-1997,Alm. Salg,208,2740,7,1975,
 760,Villa,Klydevej 10,6980, Tim,500000 ,16-01-1997,Alm. Salg,120,4167,5,1980,
 760,Villa,Ørnevej 4,6900, Skjern,615000 ,16-01-1997,Alm. Salg,167,3683,5,1969,
-760,Villa,Engsiggade 12,6900, Skjern,394000 ,16-01-1997,Alm. Salg,108,3648,4,1900,
 760,Villa,Ringkøbingvej 7,6920, Videbæk,550000 ,16-01-1997,Alm. Salg,216,2546,7,1855,
 760,Villa,Stenaldervej 8,6950, Ringkøbing,114570 ,15-01-1997,Alm. Salg,123,931,4,1998,
 760,Villa,Vardevej 23,6880, Tarm,270000 ,15-01-1997,Alm. Salg,130,2077,4,1929,
@@ -23420,8 +23081,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Trafalgarvej 16,6960, Hvide Sande,584096 ,29-10-1996,Alm. Salg,102,5726,4,1967,
 760,Villa,Grønlandsgade 34,6950, Ringkøbing,920000 ,29-10-1996,Alm. Salg,165,5576,6,1977,
 760,Villa,Vestparken 11,6880, Tarm,88600 ,29-10-1996,Alm. Salg,140,633,4,1997,
-760,Ejerlejlighed,"Hovervej 16, 1",6950, Ringkøbing,473359 ,28-10-1996,Andet,80,5917,3,1923,
-760,Villa,"Hovervej 16, st",6950, Ringkøbing,473359 ,28-10-1996,Andet,161,2940,3,1923,
 760,Villa,Åboulevarden 40,6880, Tarm,579256 ,28-10-1996,Alm. Salg,131,4422,3,1927,
 760,Ejerlejlighed,"Finderupsvej 5E, st. 1",6900, Skjern,265000 ,27-10-1996,Alm. Salg,36,7361,1,1981,
 760,Villa,Poppelalle 13,6900, Skjern,755000 ,27-10-1996,Alm. Salg,134,5634,5,1906,
@@ -23525,19 +23184,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Rækkehus,Agerhøj 5,6880, Tarm,199378 ,27-09-1996,Alm. Salg,57,3498,3,1974,
 760,Villa,Ringen 5,6960, Hvide Sande,215000 ,27-09-1996,Alm. Salg,145,1483,5,1998,
 760,Ejerlejlighed,"Finderupsvej 5F, 1. 2",6900, Skjern,385000 ,26-09-1996,Alm. Salg,64,6016,2,1981,
-760,Ejerlejlighed,"Østergade 23, 1",6950, Ringkøbing,1324154 ,26-09-1996,Alm. Salg,80,16552,2,1936,
-760,Ejerlejlighed,"Østergade 23, 2",6950, Ringkøbing,1324154 ,26-09-1996,Alm. Salg,56,23646,2,1936,
-760,Ejerlejlighed,"Østergade 23, st",6950, Ringkøbing,1324154 ,26-09-1996,Alm. Salg,65,20372,2,1936,
-760,Ejerlejlighed,"Nørregade 1A, 1. th",6950, Ringkøbing,1324154 ,26-09-1996,Alm. Salg,46,28786,2,1887,
-760,Ejerlejlighed,"Østergade 25, st. tv",6950, Ringkøbing,1324154 ,26-09-1996,Alm. Salg,61,21707,2,1887,
-760,Ejerlejlighed,"Nørregade 1A, 1. tv",6950, Ringkøbing,1324154 ,26-09-1996,Alm. Salg,53,24984,2,1887,
-760,Ejerlejlighed,Nørregade 1B,6950, Ringkøbing,1324154 ,26-09-1996,Alm. Salg,79,16761,2,2009,
-760,Ejerlejlighed,"Østergade 21, 2",6950, Ringkøbing,1324154 ,26-09-1996,Alm. Salg,90,14713,3,2016,
-760,Ejerlejlighed,"Østergade 21, st",6950, Ringkøbing,1324154 ,26-09-1996,Alm. Salg,148,8947,3,2016,
-760,Ejerlejlighed,"Nørregade 1A, st",6950, Ringkøbing,1324154 ,26-09-1996,Alm. Salg,79,16761,3,1887,
-760,Ejerlejlighed,"Østergade 21, 1",6950, Ringkøbing,1324154 ,26-09-1996,Alm. Salg,158,8381,3,2016,
-760,Ejerlejlighed,Nørregade 1D,6950, Ringkøbing,1324154 ,26-09-1996,Alm. Salg,54,24521,2,2009,
-760,Ejerlejlighed,Nørregade 1C,6950, Ringkøbing,1324154 ,26-09-1996,Alm. Salg,54,24521,2,2009,
 760,Villa,Lindevej 2,6880, Tarm,491615 ,26-09-1996,Alm. Salg,88,5587,4,1954,
 760,Villa,Lindealle 4,6900, Skjern,580000 ,26-09-1996,Alm. Salg,133,4361,2,1959,
 760,Villa,Tromsøvej 23,6950, Ringkøbing,773432 ,26-09-1996,Fam. Salg,184,4203,8,1979,
@@ -23727,11 +23373,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Kirkevej 21,6880, Tarm,569000 ,30-07-1996,Alm. Salg,171,3327,7,1956,
 760,Ejerlejlighed,Finderupvej 12A,6920, Videbæk,260000 ,29-07-1996,Alm. Salg,93,2796,3,1925,
 760,Villa,Sønderskovvej 8,6900, Skjern,1720000 ,29-07-1996,Alm. Salg,120,14333,3,1902,
-760,Ejerlejlighed,"Storegade 57, st. tv",6880, Tarm,2120000 ,28-07-1996,Alm. Salg,55,38545,2,1915,
-760,Ejerlejlighed,"Storegade 57, st. th",6880, Tarm,2120000 ,28-07-1996,Alm. Salg,60,35333,2,1915,
-760,Ejerlejlighed,"Storegade 57, 1. tv",6880, Tarm,2120000 ,28-07-1996,Alm. Salg,58,36552,2,1915,
-760,Ejerlejlighed,"Storegade 57, 1. th",6880, Tarm,2120000 ,28-07-1996,Alm. Salg,56,37857,2,1915,
-760,Ejerlejlighed,Klosterengen 8,6880, Tarm,2120000 ,28-07-1996,Alm. Salg,80,26500,3,1934,
 760,Villa,I P Nielsens Vej 6,6950, Ringkøbing,631000 ,28-07-1996,Alm. Salg,137,4606,6,1907,
 760,Villa,Ørbækvej 15,6880, Tarm,160000 ,28-07-1996,Alm. Salg,151,1060,4,1918,
 760,Villa,Vardevej 87,6880, Tarm,828000 ,28-07-1996,Fam. Salg,354,2339,10,1950,
@@ -24384,7 +24025,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Vadvej 14,6920, Videbæk,400000 ,19-12-1995,Alm. Salg,280,1429,8,1910,
 760,Villa,Vennervej 32,6950, Ringkøbing,290000 ,19-12-1995,Fam. Salg,126,2302,2,1957,
 760,Villa,Ø Strandgade 13A,6950, Ringkøbing,410000 ,18-12-1995,Alm. Salg,90,4556,3,1847,
-760,Villa,Hovervej 7,6950, Ringkøbing,252500 ,18-12-1995,Alm. Salg,96,2630,2,1912,
 760,Villa,Bøgebakken 4,6900, Skjern,490000 ,18-12-1995,Alm. Salg,119,4118,2,1973,
 760,Villa,Poppelvænget 4,6933, Kibæk,288000 ,18-12-1995,Fam. Salg,207,1391,7,1976,
 760,Villa,Oldagervænget 29,6900, Skjern,101371 ,18-12-1995,Alm. Salg,166,611,5,1996,
@@ -24702,7 +24342,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Bekkasinvej 3,6900, Skjern,910000 ,03-09-1995,Alm. Salg,154,5909,6,1978,
 760,Villa,Abildtrupvej 8,6920, Videbæk,299853 ,03-09-1995,Fam. Salg,184,1630,8,1900,
 760,Rækkehus,Nørregade 18A,6920, Videbæk,425000 ,31-08-1995,Alm. Salg,72,5903,3,1988,
-760,Rækkehus,Søndergade 22C,6960, Hvide Sande,460000 ,31-08-1995,Alm. Salg,56,8214,2,1970,
 760,Villa,Dejbjergvej 21,6900, Skjern,322000 ,31-08-1995,Alm. Salg,190,1695,6,1923,
 760,Villa,Vestergade 2,6893, Hemmet,350000 ,31-08-1995,Alm. Salg,122,2869,5,1925,
 760,Villa,Udsigten 6,6940, Lem St,55923 ,31-08-1995,Alm. Salg,151,370,5,1997,
@@ -24731,7 +24370,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Stationsvej 20,6920, Videbæk,610000 ,27-08-1995,Alm. Salg,128,4766,4,1969,
 760,Villa,Esbølvej 4,6893, Hemmet,310000 ,27-08-1995,Alm. Salg,110,2818,4,1966,
 760,Villa,St Nørgårdsvej 14,6900, Skjern,445000 ,25-08-1995,Alm. Salg,90,4944,4,1959,
-760,Villa,Åglimt 9A,6900, Skjern,700000 ,24-08-1995,Alm. Salg,146,4795,6,1950,
 760,Villa,Vardevej 32,6880, Tarm,663000 ,24-08-1995,Alm. Salg,136,4875,5,1925,
 760,Rækkehus,Agerhøj 33,6880, Tarm,394000 ,23-08-1995,Alm. Salg,100,3940,3,1978,
 760,Ejerlejlighed,Bøgelundsvej 65B,6920, Videbæk,320000 ,23-08-1995,Alm. Salg,85,3765,3,1979,
@@ -24929,19 +24567,15 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Ånumvej 159,6900, Skjern,358000 ,24-06-1995,Alm. Salg,84,4262,5,1948,
 760,Villa,Gl Herborgvej 15,6920, Videbæk,875572 ,23-06-1995,Alm. Salg,227,3857,9,1978,
 760,Villa,Svalen 24,6920, Videbæk,825000 ,23-06-1995,Alm. Salg,173,4769,7,1970,
-760,Rækkehus,Holstebrovej 92A,6900, Skjern,226800 ,22-06-1995,Alm. Salg,622,365,14,1983,
 760,Villa,Vejlevej 85,6880, Tarm,181503 ,22-06-1995,Alm. Salg,193,698,9,1928,
 760,Villa,Baneledet 88,6950, Ringkøbing,133650 ,22-06-1995,Alm. Salg,148,903,5,1996,
-760,Villa,Holstebrovej 92B,6900, Skjern,226800 ,22-06-1995,Alm. Salg,145,1564,6,1934,
 760,Villa,Mejlvang 26,6950, Ringkøbing,120000 ,21-06-1995,Alm. Salg,170,706,6,1995,
 760,Villa,Egerisvej 22,6900, Skjern,194000 ,21-06-1995,Alm. Salg,240,808,11,1930,
 760,Villa,Søndergade 23,6920, Videbæk,405000 ,21-06-1995,Alm. Salg,102,3971,4,1947,
 760,Villa,Brogaardsvænget 71,6950, Ringkøbing,825000 ,21-06-1995,Alm. Salg,184,4484,6,1970,
-760,Ejerlejlighed,"Bildtsvej 15A, 1",6950, Ringkøbing,395000 ,20-06-1995,Alm. Salg,75,5267,3,1902,
 760,Villa,Vendersgade 21,6900, Skjern,482220 ,20-06-1995,Alm. Salg,126,3827,3,1932,
 760,Villa,Dalgasgade 61,6920, Videbæk,465000 ,20-06-1995,Alm. Salg,130,3577,4,1971,
 760,Villa,Skovduevej 7,6980, Tim,730000 ,20-06-1995,Alm. Salg,123,5935,4,1988,
-760,Villa,Bildtsvej 15C,6950, Ringkøbing,395000 ,20-06-1995,Alm. Salg,73,5411,2,1935,
 760,Villa,Elvej 2,6920, Videbæk,280000 ,19-06-1995,Alm. Salg,110,2545,4,1929,
 760,Villa,Puglundvej 4,6880, Tarm,172140 ,19-06-1995,Fam. Salg,197,874,7,1912,
 760,Villa,Tingagervej 13,6900, Skjern,200000 ,19-06-1995,Alm. Salg,131,1527,5,1967,
@@ -25183,12 +24817,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Bogfinkevej 8,6950, Ringkøbing,820000 ,05-04-1995,Alm. Salg,126,6508,5,1984,
 760,Villa,Smed Hansens Vej 3,6940, Lem St,232900 ,05-04-1995,Fam. Salg,90,2588,4,1877,
 760,Rækkehus,Mellemgade 25,6950, Ringkøbing,745000 ,04-04-1995,Alm. Salg,154,4838,5,1827,
-760,Rækkehus,Holstebrovej 92A,6900, Skjern,700000 ,04-04-1995,Alm. Salg,622,1125,14,1983,
 760,Villa,Tarmvej 1A,6880, Tarm,60000 ,04-04-1995,Alm. Salg,228,263,7,1976,
 760,Villa,Tyttebærvej 1,6920, Videbæk,871000 ,04-04-1995,Alm. Salg,166,5247,7,1981,
 760,Villa,Fresiavej 7,6900, Skjern,745000 ,04-04-1995,Alm. Salg,147,5068,5,1979,
 760,Villa,Skolevej 17,6950, Ringkøbing,580000 ,04-04-1995,Alm. Salg,135,4296,4,1965,
-760,Villa,Holstebrovej 92B,6900, Skjern,700000 ,04-04-1995,Alm. Salg,145,4828,6,1934,
 760,Villa,Skolegade 16,6971, Spjald,270000 ,03-04-1995,Alm. Salg,91,2967,4,1928,
 760,Villa,Anemonevej 129,6880, Tarm,693000 ,03-04-1995,Alm. Salg,161,4304,6,1967,
 760,Villa,Kosigvænget 82,6893, Hemmet,375000 ,03-04-1995,Alm. Salg,103,3641,4,1975,
@@ -25243,7 +24875,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Timringvej 6,6920, Videbæk,230000 ,20-03-1995,Fam. Salg,80,2875,3,1945,
 760,Villa,Skærmbjerg 26,6971, Spjald,600000 ,20-03-1995,Fam. Salg,206,2913,6,1979,
 760,Rækkehus,Apollovej 78,6960, Hvide Sande,260000 ,19-03-1995,Alm. Salg,65,4000,3,1976,
-760,Rækkehus,Herningvej 16B,6950, Ringkøbing,700000 ,19-03-1995,Alm. Salg,44,15909,2,1906,
 760,Villa,Åparken 23,6880, Tarm,150000 ,19-03-1995,Alm. Salg,131,1145,5,1995,
 760,Villa,Mejlvang 4,6950, Ringkøbing,450000 ,19-03-1995,Alm. Salg,102,4412,3,1977,
 760,Villa,Vellingvej 32B,6950, Ringkøbing,585000 ,19-03-1995,Alm. Salg,143,4091,4,1962,
@@ -25310,9 +24941,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Egernvej 26,6900, Skjern,525000 ,26-02-1995,Alm. Salg,138,3804,3,1975,
 760,Villa,Bregnevej 16,6950, Ringkøbing,395000 ,26-02-1995,Alm. Salg,112,3527,4,1965,
 760,Villa,Aakjærsvej 5,6920, Videbæk,120000 ,25-02-1995,Alm. Salg,70,1714,3,1941,
-760,Rækkehus,Holstebrovej 92A,6900, Skjern,223560 ,24-02-1995,Alm. Salg,622,359,14,1983,
 760,Villa,Skolevej 29,6950, Ringkøbing,800000 ,24-02-1995,Alm. Salg,191,4188,6,1969,
-760,Villa,Holstebrovej 92B,6900, Skjern,223560 ,24-02-1995,Alm. Salg,145,1542,6,1934,
 760,Villa,Tranevej 3,6960, Hvide Sande,314500 ,23-02-1995,Fam. Salg,107,2939,3,1955,
 760,Villa,Stadiløvej 17,6980, Tim,250000 ,23-02-1995,Alm. Salg,131,1908,4,1960,
 760,Rækkehus,Apollovej 74A,6960, Hvide Sande,285000 ,22-02-1995,Alm. Salg,79,3608,3,1976,
@@ -25432,10 +25061,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Østre Alle 10,6900, Skjern,520000 ,22-01-1995,Alm. Salg,137,3796,5,1954,
 760,Villa,Tranevej 3,6960, Hvide Sande,314500 ,21-01-1995,Fam. Salg,107,2939,3,1955,
 760,Villa,Holmene 1B,6950, Ringkøbing,467500 ,20-01-1995,Alm. Salg,77,6071,3,1950,
-760,Ejerlejlighed,"Metheasvej 5A, 1. tv",6960, Hvide Sande,440000 ,19-01-1995,Alm. Salg,26,16923,2,1934,
-760,Ejerlejlighed,"Strandgade 4, 1",6960, Hvide Sande,440000 ,19-01-1995,Alm. Salg,86,5116,3,1934,
-760,Ejerlejlighed,"Metheasvej 5A, 1. th",6960, Hvide Sande,440000 ,19-01-1995,Alm. Salg,65,6769,2,1934,
-760,Ejerlejlighed,"Strandgade 4, 2",6960, Hvide Sande,440000 ,19-01-1995,Alm. Salg,131,3359,4,1934,
 760,Villa,Skolebakken 6,6940, Lem St,240000 ,19-01-1995,Alm. Salg,80,3000,3,1959,
 760,Villa,Fyrrevej 5,6893, Hemmet,505000 ,19-01-1995,Alm. Salg,126,4008,5,1977,
 760,Villa,Grønlandsgade 5,6950, Ringkøbing,527000 ,19-01-1995,Alm. Salg,93,5667,3,1990,
@@ -25468,11 +25093,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Pilevej 10,6950, Ringkøbing,1062000 ,11-01-1995,Alm. Salg,210,5057,6,1968,
 760,Villa,Mellemgade 19,6950, Ringkøbing,775000 ,11-01-1995,Alm. Salg,135,5741,5,1880,
 760,Villa,Tim Kirkevej 54,6980, Tim,150000 ,11-01-1995,Alm. Salg,119,1261,3,1911,
-760,Ejerlejlighed,Nørhedevej 8,6880, Tarm,339980 ,10-01-1995,Alm. Salg,42,8095,2,1952,
 760,Villa,Skolevænget 37,6900, Skjern,450000 ,10-01-1995,Alm. Salg,143,3147,6,1974,
 760,Villa,Højmosevej 19,6971, Spjald,720000 ,10-01-1995,Alm. Salg,160,4500,4,1880,
 760,Villa,Fresiavej 26,6900, Skjern,557000 ,10-01-1995,Alm. Salg,135,4126,6,1973,
-760,Villa,Nørhedevej 10,6880, Tarm,339980 ,10-01-1995,Alm. Salg,157,2165,6,1938,
 760,Villa,Spangager 28,6880, Tarm,707360 ,10-01-1995,Alm. Salg,201,3519,7,1977,
 760,Villa,Vardevej 121,6880, Tarm,995000 ,10-01-1995,Alm. Salg,165,6030,5,1920,
 760,Villa,Kaniavej 35,6960, Hvide Sande,694000 ,09-01-1995,Alm. Salg,161,4311,5,1976,
@@ -25480,9 +25103,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Blichersgade 15,6920, Videbæk,390000 ,09-01-1995,Alm. Salg,89,4382,5,1951,
 760,Rækkehus,Agerhøj 20,6880, Tarm,395000 ,08-01-1995,Alm. Salg,100,3950,3,1980,
 760,Rækkehus,Draibys Sti 6,6950, Ringkøbing,464000 ,08-01-1995,Alm. Salg,71,6535,2,1981,
-760,Ejerlejlighed,"Algade 20, 1",6950, Ringkøbing,2620000 ,08-01-1995,Alm. Salg,125,20960,5,1873,
 760,Villa,Lønborgvej 19,6880, Tarm,155500 ,08-01-1995,Auktion,87,1787,4,1946,
-760,Villa,Ø Strandgade 1,6950, Ringkøbing,2620000 ,08-01-1995,Alm. Salg,199,13166,4,1873,
 760,Villa,Herningvej 109,6950, Ringkøbing,590000 ,08-01-1995,Auktion,100,5900,3,1900,
 760,Villa,Videbækvej 28,6900, Skjern,200000 ,05-01-1995,Alm. Salg,215,930,5,1912,
 760,Villa,Poppelalle 9,6900, Skjern,263000 ,05-01-1995,Alm. Salg,108,2435,4,1930,
@@ -25637,8 +25258,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Langelandsgade 41,6950, Ringkøbing,720000 ,02-11-1994,Alm. Salg,144,5000,5,1989,
 760,Villa,Tjørnevej 2,6880, Tarm,315000 ,02-11-1994,Alm. Salg,78,4038,3,1952,
 760,Rækkehus,Langelandsgade 60,6950, Ringkøbing,785000 ,01-11-1994,Alm. Salg,135,5815,4,1986,
-760,Rækkehus,"Holstvej 6, st",6950, Ringkøbing,510000 ,01-11-1994,Alm. Salg,62,8226,2,1900,
-760,Ejerlejlighed,"Holstvej 6, 1",6950, Ringkøbing,510000 ,01-11-1994,Alm. Salg,62,8226,2,1900,
 760,Villa,Nærildvej 1B,6880, Tarm,782000 ,01-11-1994,Alm. Salg,206,3796,6,1900,
 760,Villa,Islandsgade 9,6950, Ringkøbing,188376 ,01-11-1994,Alm. Salg,155,1215,5,1995,
 760,Villa,Bredgade 85,6920, Videbæk,360000 ,31-10-1994,Alm. Salg,160,2250,6,1940,
@@ -25675,7 +25294,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Gl Kongevej 61A,6920, Videbæk,490000 ,23-10-1994,Fam. Salg,137,3577,4,1976,
 760,Villa,Apollovej 111,6960, Hvide Sande,725000 ,23-10-1994,Alm. Salg,135,5370,5,1974,
 760,Villa,Nr. Lydumvej 9,6893, Hemmet,214000 ,23-10-1994,Alm. Salg,244,877,6,1900,
-760,Villa,Vibevej 5,6920, Videbæk,300000 ,23-10-1994,Fam. Salg,115,2609,4,1968,
 760,Villa,Aadalsvej 15,6920, Videbæk,260000 ,23-10-1994,Fam. Salg,162,1605,4,1940,
 760,Villa,Lavstrupvej 2,6880, Tarm,450000 ,21-10-1994,Alm. Salg,178,2528,5,1866,
 760,Villa,Nygade 25,6900, Skjern,442460 ,21-10-1994,Alm. Salg,134,3302,4,1910,
@@ -25828,9 +25446,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Grønsiskenvej 5,6950, Ringkøbing,147445 ,30-08-1994,Alm. Salg,179,824,5,1996,
 760,Villa,Oksfeldvej 12,6950, Ringkøbing,350000 ,30-08-1994,Alm. Salg,155,2258,3,1943,
 760,Villa,Pallasvej 11,6960, Hvide Sande,615000 ,30-08-1994,Alm. Salg,104,5913,4,1981,
-760,Ejerlejlighed,Bakkevej 1B,6880, Tarm,95000 ,29-08-1994,Alm. Salg,68,1397,3,1912,
 760,Villa,Holstebrovej 77,6950, Ringkøbing,265000 ,29-08-1994,Fam. Salg,237,1118,9,1930,
-760,Villa,Bakkevej 1A,6880, Tarm,95000 ,29-08-1994,Alm. Salg,113,841,4,1912,
 760,Rækkehus,Agerhøj 21,6880, Tarm,220000 ,28-08-1994,Alm. Salg,100,2200,3,1978,
 760,Ejerlejlighed,Bøgelundsvej 65A,6920, Videbæk,365000 ,28-08-1994,Alm. Salg,91,4011,3,1979,
 760,Villa,Fladhøjvej 4,6893, Hemmet,375000 ,28-08-1994,Alm. Salg,294,1276,8,1856,
@@ -26263,7 +25879,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Havrevænget 13,6950, Ringkøbing,550000 ,11-04-1994,Alm. Salg,118,4661,4,1971,
 760,Villa,Gl Kongevej 21,6920, Videbæk,300000 ,11-04-1994,Alm. Salg,130,2308,6,1937,
 760,Villa,Tøstrupvej 42,6880, Tarm,225000 ,11-04-1994,Alm. Salg,146,1541,3,1915,
-760,Villa,Sønderbyvej 9,6950, Ringkøbing,860000 ,11-04-1994,Alm. Salg,193,4456,5,1892,
 760,Villa,Skjernvej 50,6920, Videbæk,1040000 ,10-04-1994,Alm. Salg,207,5024,6,0,
 760,Villa,Algade 65,6971, Spjald,359000 ,10-04-1994,Alm. Salg,245,1465,10,1935,
 760,Villa,Nissengårdevej 8,6893, Hemmet,490000 ,09-04-1994,Alm. Salg,251,1952,8,1929,
@@ -26387,9 +26002,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Galgebjergevej 3,6893, Hemmet,242000 ,07-03-1994,Alm. Salg,136,1779,4,1904,
 760,Villa,Attenagrevej 14,6950, Ringkøbing,213500 ,07-03-1994,Alm. Salg,70,3050,3,1956,
 760,Ejerlejlighed,"Jernbanegade 10, 2. 105",6900, Skjern,650000 ,06-03-1994,Fam. Salg,142,4577,5,1983,
-760,Ejerlejlighed,"Engsiggade 2, st. tv",6900, Skjern,480000 ,06-03-1994,Fam. Salg,82,5854,2,1981,
-760,Ejerlejlighed,"Engsiggade 2, st. th",6900, Skjern,480000 ,06-03-1994,Fam. Salg,60,8000,2,1981,
-760,Ejerlejlighed,Finderupsvej 5A,6900, Skjern,480000 ,06-03-1994,Fam. Salg,245,1959,5,1981,
 760,Villa,Gl Kongevej 5,6920, Videbæk,569342 ,06-03-1994,Alm. Salg,170,3349,7,1944,
 760,Villa,Søndergade 4,6900, Skjern,445000 ,06-03-1994,Alm. Salg,70,6357,4,1888,
 760,Villa,Jollen 3,6893, Hemmet,115000 ,06-03-1994,Alm. Salg,161,714,4,1996,
@@ -26644,13 +26256,11 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Egernvej 20,6900, Skjern,500000 ,14-12-1993,Alm. Salg,125,4000,4,1980,
 760,Villa,Kildevej 16,6971, Spjald,510000 ,14-12-1993,Alm. Salg,165,3091,5,1929,
 760,Villa,Rolighedsvej 1,6920, Videbæk,430000 ,13-12-1993,Alm. Salg,89,4831,4,1940,
-760,Ejerlejlighed,Hovedgaden 40B,6971, Spjald,375000 ,12-12-1993,Andet,85,4412,3,1925,
 760,Villa,Sandbækvej 12,6971, Spjald,1200000 ,12-12-1993,Alm. Salg,158,7595,5,1970,
 760,Villa,Kirkevænget 4,6920, Videbæk,232205 ,12-12-1993,Fam. Salg,260,893,5,1908,
 760,Villa,Stadiløvej 12,6980, Tim,1015000 ,12-12-1993,Alm. Salg,279,3638,10,1934,
 760,Villa,Søndervig Landevej 36,6950, Ringkøbing,250000 ,12-12-1993,Fam. Salg,145,1724,6,1912,
 760,Villa,Jagtvej 3,6920, Videbæk,397409 ,12-12-1993,Alm. Salg,176,2258,6,1980,
-760,Villa,Hovedgaden 40,6971, Spjald,375000 ,12-12-1993,Andet,125,3000,7,1925,
 760,Villa,Jens Iversensvej 6,6920, Videbæk,550000 ,12-12-1993,Fam. Salg,263,2091,6,1964,
 760,Villa,V Finderupvej 4,6900, Skjern,565000 ,12-12-1993,Alm. Salg,234,2415,6,1908,
 760,Villa,Irisvej 125,6880, Tarm,442600 ,12-12-1993,Alm. Salg,146,3032,6,1967,
@@ -26708,7 +26318,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Østervang 18,6900, Skjern,461000 ,22-11-1993,Alm. Salg,158,2918,6,1961,
 760,Villa,Gl Landevej 18,6971, Spjald,385000 ,22-11-1993,Alm. Salg,114,3377,6,1932,
 760,Villa,Kroghusvej 1,6940, Lem St,490000 ,22-11-1993,Alm. Salg,206,2379,7,1975,
-760,Rækkehus,Algade 4C,6950, Ringkøbing,1850000 ,21-11-1993,Alm. Salg,103,17961,3,1950,
 760,Villa,Tromsøvej 1,6950, Ringkøbing,863000 ,21-11-1993,Alm. Salg,168,5137,5,1982,
 760,Villa,Brogårdsvej 31,6880, Tarm,495000 ,21-11-1993,Alm. Salg,120,4125,4,1980,
 760,Ejerlejlighed,"Vestergade 15, 1. th",6950, Ringkøbing,385000 ,18-11-1993,Alm. Salg,96,4010,4,1877,
@@ -26853,7 +26462,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Skolevej 46,6950, Ringkøbing,555000 ,30-09-1993,Alm. Salg,112,4955,4,1969,
 760,Villa,Marktoften 18,6950, Ringkøbing,775000 ,30-09-1993,Alm. Salg,167,4641,5,1972,
 760,Villa,Jens Iversensvej 3,6920, Videbæk,290000 ,30-09-1993,Alm. Salg,171,1696,5,1964,
-760,Villa,Østergade 32C,6900, Skjern,470000 ,30-09-1993,Alm. Salg,136,3456,4,1915,
 760,Villa,Kongensgårdsvej 5,6880, Tarm,340000 ,29-09-1993,Alm. Salg,121,2810,4,1910,
 760,Villa,Mosevænget 12,6950, Ringkøbing,440000 ,29-09-1993,Alm. Salg,151,2914,6,1981,
 760,Villa,Norgesgade 19,6950, Ringkøbing,95500 ,29-09-1993,Alm. Salg,119,803,4,1994,
@@ -27111,8 +26719,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Holstebrovej 23,6950, Ringkøbing,428000 ,01-07-1993,Alm. Salg,208,2058,8,1907,
 760,Villa,Skovbrinken 3,6900, Skjern,655000 ,01-07-1993,Alm. Salg,194,3376,7,1978,
 760,Rækkehus,Mellemgade 18,6950, Ringkøbing,345000 ,30-06-1993,Alm. Salg,40,8625,2,1870,
-760,Rækkehus,"Storegade 62, st",6880, Tarm,250000 ,30-06-1993,Alm. Salg,81,3086,4,1900,
-760,Ejerlejlighed,"Storegade 62, 1",6880, Tarm,250000 ,30-06-1993,Alm. Salg,65,3846,2,1900,
 760,Villa,Lemvej 2,6900, Skjern,690000 ,30-06-1993,Alm. Salg,195,3538,6,1912,
 760,Villa,Reberbanen 13,6950, Ringkøbing,825000 ,30-06-1993,Alm. Salg,236,3496,8,1950,
 760,Villa,Klostervej 18,6900, Skjern,250000 ,30-06-1993,Alm. Salg,88,2841,2,1932,
@@ -27398,11 +27004,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Midtbyvej 14,6893, Hemmet,230000 ,08-03-1993,Alm. Salg,173,1329,6,1880,
 760,Rækkehus,Amagervej 20,6900, Skjern,395000 ,07-03-1993,Alm. Salg,120,3292,4,1974,
 760,Rækkehus,Bøgelundsvej 3B,6920, Videbæk,195897 ,07-03-1993,Alm. Salg,67,2924,3,1975,
-760,Ejerlejlighed,Bøgelundsvej 81B,6920, Videbæk,200000 ,07-03-1993,Alm. Salg,77,2597,2,1977,
-760,Villa,Ringkøbingvej 44,6920, Videbæk,200000 ,07-03-1993,Fam. Salg,80,2500,3,1946,
 760,Villa,Svingelvej 26,6980, Tim,30000 ,07-03-1993,Auktion,207,145,5,1950,
 760,Villa,Kastanjealle 1,6971, Spjald,102000 ,07-03-1993,Alm. Salg,123,829,4,1993,
-760,Villa,Gl Kongevej 40,6920, Videbæk,310000 ,07-03-1993,Fam. Salg,94,3298,5,1952,
 760,Villa,Algade 52,6971, Spjald,160000 ,07-03-1993,Alm. Salg,214,748,8,1948,
 760,Villa,Hülkesvej 1,6920, Videbæk,250000 ,07-03-1993,Fam. Salg,80,3125,3,1929,
 760,Villa,Østeralle 29,6920, Videbæk,230000 ,07-03-1993,Fam. Salg,68,3382,3,1952,
@@ -27527,12 +27130,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Spurven 3,6920, Videbæk,525000 ,03-01-1993,Alm. Salg,180,2917,5,1971,
 760,Villa,Frederiksberg 16,6950, Ringkøbing,150000 ,03-01-1993,Alm. Salg,95,1579,4,1910,
 760,Villa,Højdedraget 81,6940, Lem St,374674 ,31-12-1992,Alm. Salg,137,2735,5,1991,
-760,Rækkehus,Søndergade 22C,6960, Hvide Sande,231444 ,30-12-1992,Fam. Salg,56,4133,2,1970,
 760,Rækkehus,Hasselvej 32,6900, Skjern,355000 ,29-12-1992,Alm. Salg,78,4551,3,1979,
 760,Villa,Møllevej 16,6920, Videbæk,210000 ,27-12-1992,Alm. Salg,110,1909,4,1954,
 760,Villa,Bredgade 94,6920, Videbæk,292664 ,27-12-1992,Alm. Salg,94,3113,4,1951,
-760,Ejerlejlighed,Vester Grenevej 11B,6880, Tarm,1160000 ,26-12-1992,Alm. Salg,136,8529,6,1956,
-760,Villa,Vester Grenevej 11A,6880, Tarm,1160000 ,26-12-1992,Alm. Salg,183,6339,7,1956,
 760,Villa,Smedegade 15,6950, Ringkøbing,395000 ,21-12-1992,Alm. Salg,68,4938,3,1862,
 760,Villa,Karen Brands Vej 16,6960, Hvide Sande,562000 ,21-12-1992,Alm. Salg,143,3930,6,1935,
 760,Villa,Alkjærhøj 2,6950, Ringkøbing,490000 ,21-12-1992,Alm. Salg,88,5568,4,1957,
@@ -27735,11 +27335,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Geflevej 126,6960, Hvide Sande,210000 ,01-10-1992,Alm. Salg,186,1129,6,1994,
 760,Villa,Refstrup 6,6940, Lem St,4075000 ,01-10-1992,Fam. Salg,212,19222,6,1907,
 760,Villa,Fjord Alle 11,6950, Ringkøbing,945500 ,01-10-1992,Alm. Salg,164,5765,7,1943,
-760,Ejerlejlighed,Enighedsvej 2,6950, Ringkøbing,825000 ,29-09-1992,Alm. Salg,78,10577,4,1907,
-760,Ejerlejlighed,"Herningvej 15, 1. th",6950, Ringkøbing,825000 ,29-09-1992,Alm. Salg,68,12132,2,1907,
-760,Ejerlejlighed,"Herningvej 15, st. th",6950, Ringkøbing,825000 ,29-09-1992,Alm. Salg,76,10855,3,1907,
-760,Ejerlejlighed,"Herningvej 15, st. tv",6950, Ringkøbing,825000 ,29-09-1992,Alm. Salg,86,9593,2,1907,
-760,Ejerlejlighed,"Herningvej 15, 1. tv",6950, Ringkøbing,825000 ,29-09-1992,Alm. Salg,59,13983,2,1907,
 760,Villa,Toften 3,6900, Skjern,250000 ,29-09-1992,Alm. Salg,101,2475,4,1960,
 760,Villa,Vellingvej 19,6950, Ringkøbing,440954 ,29-09-1992,Alm. Salg,99,4454,5,1940,
 760,Villa,Kløvervej 7,6880, Tarm,440000 ,29-09-1992,Alm. Salg,129,3411,6,1963,
@@ -27758,7 +27353,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Hasselvej 10,6950, Ringkøbing,1100000 ,24-09-1992,Alm. Salg,172,6395,5,1970,
 760,Villa,Kirkegade 1,6920, Videbæk,500000 ,24-09-1992,Alm. Salg,215,2326,6,1910,
 760,Villa,Ternevej 1,6900, Skjern,251593 ,24-09-1992,Auktion,82,3068,3,1959,
-760,Villa,Nygade 4A,6920, Videbæk,250000 ,24-09-1992,Alm. Salg,79,3165,3,2008,
 760,Ejerlejlighed,Bøgelundsvej 79B,6920, Videbæk,192500 ,23-09-1992,Alm. Salg,77,2500,2,1978,
 760,Villa,Vardevej 37A,6900, Skjern,135000 ,23-09-1992,Alm. Salg,92,1467,4,1935,
 760,Villa,Søndergade 71,6920, Videbæk,168300 ,23-09-1992,Alm. Salg,147,1145,6,1885,
@@ -27932,7 +27526,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Holstebrovej 76,6950, Ringkøbing,953000 ,26-07-1992,Alm. Salg,282,3379,12,1857,
 760,Villa,Prammen 8,6893, Hemmet,95020 ,26-07-1992,Alm. Salg,112,848,5,1993,
 760,Rækkehus,Møllevej 32,6950, Ringkøbing,400000 ,23-07-1992,Alm. Salg,96,4167,4,1959,
-760,Villa,Engsiggade 12,6900, Skjern,385000 ,23-07-1992,Alm. Salg,108,3565,4,1900,
 760,Villa,Elmevej 48,6880, Tarm,181000 ,23-07-1992,Alm. Salg,101,1792,3,1951,
 760,Villa,Kløvervej 17,6880, Tarm,740000 ,23-07-1992,Alm. Salg,106,6981,3,1963,
 760,Villa,Hårkjærvej 4A,6880, Tarm,700000 ,23-07-1992,Alm. Salg,211,3318,6,1979,
@@ -28096,7 +27689,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Lupinvej 105,6880, Tarm,570000 ,24-05-1992,Alm. Salg,151,3775,5,1966,
 760,Villa,Nørhedevej 9,6880, Tarm,625000 ,24-05-1992,Alm. Salg,142,4401,6,1920,
 760,Villa,Skovbrynet 9,6900, Skjern,325000 ,24-05-1992,Alm. Salg,193,1684,4,1951,
-760,Rækkehus,Nygade 19D,6950, Ringkøbing,3500000 ,23-05-1992,Alm. Salg,31,112903,1,1998,
 760,Villa,Nørregade 50,6920, Videbæk,400000 ,23-05-1992,Alm. Salg,142,2817,6,1939,
 760,Villa,Lisenborgvej 9,6900, Skjern,175000 ,21-05-1992,Alm. Salg,118,1483,3,1935,
 760,Villa,Herborgvej 15,6900, Skjern,64278 ,21-05-1992,Alm. Salg,129,498,4,1993,
@@ -28255,7 +27847,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Vestervang 22,6920, Videbæk,668000 ,01-04-1992,Fam. Salg,175,3817,6,1969,
 760,Villa,Moselundvej 8,6900, Skjern,226000 ,31-03-1992,Alm. Salg,87,2598,4,1959,
 760,Villa,Bøgevej 2,6880, Tarm,110000 ,31-03-1992,Alm. Salg,229,480,9,1994,
-760,Rækkehus,Ulbækvej 10C,6880, Tarm,1195000 ,30-03-1992,Alm. Salg,68,17574,2,1913,
 760,Villa,Gl Kirkevej 8A,6920, Videbæk,211195 ,30-03-1992,Alm. Salg,180,1173,8,1890,
 760,Villa,Holmsland Klitvej 40,6960, Hvide Sande,405000 ,30-03-1992,Alm. Salg,150,2700,4,1801,
 760,Villa,Poppelalle 13,6900, Skjern,244000 ,30-03-1992,Alm. Salg,134,1821,5,1906,
@@ -28392,11 +27983,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Elmevej 46,6880, Tarm,372500 ,16-02-1992,Alm. Salg,163,2285,5,1953,
 760,Villa,Hovensvadvej 1,6920, Videbæk,325000 ,16-02-1992,Alm. Salg,188,1729,5,1900,
 760,Rækkehus,Drosselvej 26,6880, Tarm,470000 ,15-02-1992,Alm. Salg,113,4159,4,1977,
-760,Ejerlejlighed,"Storegade 57, st. tv",6880, Tarm,1620000 ,15-02-1992,Alm. Salg,55,29455,2,1915,
-760,Ejerlejlighed,"Storegade 57, st. th",6880, Tarm,1620000 ,15-02-1992,Alm. Salg,60,27000,2,1915,
-760,Ejerlejlighed,"Storegade 57, 1. tv",6880, Tarm,1620000 ,15-02-1992,Alm. Salg,58,27931,2,1915,
-760,Ejerlejlighed,"Storegade 57, 1. th",6880, Tarm,1620000 ,15-02-1992,Alm. Salg,56,28929,2,1915,
-760,Ejerlejlighed,Klosterengen 8,6880, Tarm,1620000 ,15-02-1992,Alm. Salg,80,20250,3,1934,
 760,Villa,Guldregnalle 36,6920, Videbæk,560000 ,15-02-1992,Alm. Salg,164,3415,5,1973,
 760,Villa,Højmosevej 2,6971, Spjald,1600000 ,13-02-1992,Alm. Salg,250,6400,8,1983,
 760,Villa,Højallé 18,6880, Tarm,18250 ,13-02-1992,Alm. Salg,135,135,4,1997,
@@ -28519,6 +28105,5 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 760,Villa,Trafalgarvej 16,6960, Hvide Sande,485000 ,02-01-1992,Alm. Salg,102,4755,4,1967,
 760,Villa,Stormgade 46,6960, Hvide Sande,467190 ,02-01-1992,Alm. Salg,122,3829,5,1969,
 760,Rækkehus,Bredgade 18,6920, Videbæk,1050000 ,01-01-1992,Alm. Salg,157,3621,10,1900,
-760,Villa,Nygade 43B,6950, Ringkøbing,1000000 ,01-01-1992,Alm. Salg,61,16393,3,1872,
 760,Villa,Åglimt 16,6900, Skjern,400000 ,01-01-1992,Alm. Salg,160,2500,5,1900,
 760,Villa,Holstebrovej 18,6971, Spjald,150000 ,01-01-1992,Alm. Salg,134,1119,6,1906,

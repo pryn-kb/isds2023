@@ -1,7 +1,5 @@
 municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,type_of_sale,square_meters,square_meters_price,rooms,year_of_construction,The percentage difference between the latest bid price and the sale price
 306,Villa,Kelstrupvej 11,4560, Vig,795000 ,26-12-2022,Alm. Salg,134,5933,6,1907,-11%
-306,Rækkehus,Fasanalle 2,4500, Nykøbing Sj,150000 ,22-12-2022,Alm. Salg,96,1563,2,1960,
-306,Ejerlejlighed,"Vesterbro 56, 1",4500, Nykøbing Sj,150000 ,22-12-2022,Alm. Salg,50,3000,2,1930,
 306,Rækkehus,På Højen 2A,4534, Hørve,585000 ,21-12-2022,Alm. Salg,57,10263,2,1973,
 306,Villa,Merianvej 8,4573, Højby,1100000 ,21-12-2022,Alm. Salg,96,11458,3,1976,
 306,Ejerlejlighed,"Asnæs Centret 28B, 2. 10",4550, Asnæs,750000 ,20-12-2022,Alm. Salg,57,13158,2,1990,
@@ -715,8 +713,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Ejerlejlighed,"Engmosevej 13, 1. tv",4500, Nykøbing Sj,515000 ,22-08-2021,Alm. Salg,52,9904,2,1948,-4%
 306,Ejerlejlighed,"Mejerivej 8U, 1",4560, Vig,780000 ,21-08-2021,Alm. Salg,119,6555,4,1911,
 306,Villa,Præstestræde 2,4583, Sjællands Odde,595000 ,21-08-2021,Alm. Salg,79,7532,2,1939,
-306,Rækkehus,Fasanalle 2,4500, Nykøbing Sj,915000 ,20-08-2021,Alm. Salg,96,9531,2,1960,
-306,Ejerlejlighed,"Vesterbro 56, 1",4500, Nykøbing Sj,915000 ,20-08-2021,Alm. Salg,50,18300,2,1930,
 306,Rækkehus,Bystedvej 10. 32,4500, Nykøbing Sj,1795000 ,19-08-2021,Alm. Salg,110,16318,4,2006,
 306,Rækkehus,Bystedvej 10. 29,4500, Nykøbing Sj,1700000 ,19-08-2021,Alm. Salg,105,16190,3,2006,
 306,Villa,Rødhøj 46,4550, Asnæs,1525000 ,19-08-2021,Alm. Salg,206,7403,6,1940,-4%
@@ -820,7 +816,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Dybesøvej 58,4581, Rørvig,2100000 ,01-07-2021,Andet,300,7000,10,1963,
 306,Ejerlejlighed,"Havnevej 65, st. th",4500, Nykøbing Sj,2400000 ,30-06-2021,Alm. Salg,90,26667,3,2004,
 306,Villa,Odstrupvej 11,4571, Grevinge,1750000 ,30-06-2021,Alm. Salg,145,12069,3,1800,-8%
-306,Rækkehus,Vesterbro 30C,4500, Nykøbing Sj,2800000 ,29-06-2021,Alm. Salg,54,51852,2,1859,
 306,Villa,Eventyrhaven 5,4500, Nykøbing Sj,1250000 ,29-06-2021,Alm. Salg,115,10870,4,1981,-16%
 306,Villa,Egebjergvej 47,4500, Nykøbing Sj,1650000 ,29-06-2021,Alm. Salg,103,16019,4,1939,
 306,Villa,Kolåsvej 9,4534, Hørve,2675000 ,28-06-2021,Alm. Salg,92,29076,3,1965,-3%
@@ -1165,7 +1160,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Østerlyngvej 113,4500, Nykøbing Sj,1300000 ,20-01-2021,Alm. Salg,106,12264,4,1952,0%
 306,Villa,Tjørnevænget 12,4550, Asnæs,1645000 ,20-01-2021,Alm. Salg,145,11345,5,1971,-3%
 306,Villa,Kildebakken 3,4534, Hørve,1200000 ,20-01-2021,Alm. Salg,116,10345,4,1973,
-306,Rækkehus,Lindealle 14,4500, Nykøbing Sj,1300000 ,19-01-2021,Alm. Salg,96,13542,3,1675,
 306,Villa,Svellebakken 18,4540, Fårevejle,4850000 ,19-01-2021,Alm. Salg,138,35145,3,1963,-7%
 306,Villa,Ordrupvej 10,4540, Fårevejle,455000 ,19-01-2021,Fam. Salg,106,4292,3,1966,
 306,Villa,Oddenvej 306,4583, Sjællands Odde,285000 ,18-01-2021,Alm. Salg,100,2850,5,1912,
@@ -1334,7 +1328,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Højvang 6,4500, Nykøbing Sj,595000 ,27-10-2020,Alm. Salg,121,4917,4,1968,
 306,Villa,Elmebakken 34,4550, Asnæs,712500 ,26-10-2020,Fam. Salg,120,5938,4,1975,
 306,Villa,Læsøvej 13,4500, Nykøbing Sj,1150000 ,25-10-2020,Alm. Salg,133,8647,4,1987,
-306,Villa,Nørregade 7,4534, Hørve,1100000 ,25-10-2020,Alm. Salg,174,6322,5,1910,
 306,Villa,Møllevangen 3,4534, Hørve,3050000 ,25-10-2020,Alm. Salg,400,7625,7,1918,-15%
 306,Rækkehus,Æblehaven 1B,4500, Nykøbing Sj,1498000 ,23-10-2020,Alm. Salg,89,16831,4,2021,
 306,Rækkehus,Havnevej 31E,4500, Nykøbing Sj,2930000 ,23-10-2020,Alm. Salg,139,21079,4,2007,-2%
@@ -1510,9 +1503,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Oddenvej 150,4500, Nykøbing Sj,835000 ,30-07-2020,Alm. Salg,98,8520,5,1971,-2%
 306,Villa,Ådalsvænget 6,4550, Asnæs,2875000 ,30-07-2020,Alm. Salg,151,19040,5,2020,-1%
 306,Villa,Hjulet 6,4560, Vig,2725000 ,30-07-2020,Alm. Salg,198,13763,6,2007,
-306,Ejerlejlighed,"Vallekildevej 3, 1",4534, Hørve,4275000 ,29-07-2020,Alm. Salg,86,49709,3,1907,
-306,Ejerlejlighed,"Vallekildevej 3, 2",4534, Hørve,4275000 ,29-07-2020,Alm. Salg,95,45000,2,1907,
-306,Ejerlejlighed,"Hørve Møllevej 2B, st",4534, Hørve,4275000 ,29-07-2020,Alm. Salg,84,50893,4,1907,
 306,Villa,Ellinge Skovvej 27,4573, Højby,3390000 ,28-07-2020,Alm. Salg,180,15409,5,1827,0%
 306,Villa,Toldbodvej 20,4581, Rørvig,810000 ,28-07-2020,Alm. Salg,109,7431,3,1969,5%
 306,Villa,Søndergade 30,4534, Hørve,300000 ,27-07-2020,Alm. Salg,95,3158,3,1934,
@@ -1839,16 +1829,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Vandværksvej 16,4581, Rørvig,1100000 ,05-12-2019,Alm. Salg,99,11111,3,1955,
 306,Villa,Kirkevej 27,4572, Nørre Asmindrup,2050000 ,04-12-2019,Alm. Salg,195,10513,5,2009,-11%
 306,Villa,Egebjergvej 35,4500, Nykøbing Sj,445645 ,03-12-2019,Auktion,88,5064,3,1937,
-306,Villa,Søndergade 26B,4534, Hørve,1165000 ,03-12-2019,Alm. Salg,57,20439,2,1934,
 306,Villa,Stærgårdsparken 56,4550, Asnæs,1414000 ,03-12-2019,Alm. Salg,144,9819,5,1977,
-306,Ejerlejlighed,Højby Hovedgade 22A,4573, Højby,2775000 ,02-12-2019,Alm. Salg,59,47034,3,1908,
-306,Ejerlejlighed,Højby Hovedgade 22C,4573, Højby,2775000 ,02-12-2019,Alm. Salg,70,39643,3,1908,
-306,Ejerlejlighed,Højby Hovedgade 22B,4573, Højby,2775000 ,02-12-2019,Alm. Salg,53,52358,2,1908,
-306,Ejerlejlighed,Nygårdsvej 2A,4573, Højby,2775000 ,02-12-2019,Alm. Salg,56,49554,3,1908,
-306,Ejerlejlighed,Nygårdsvej 2C,4573, Højby,2775000 ,02-12-2019,Alm. Salg,86,32267,3,2004,
-306,Ejerlejlighed,Nygårdsvej 2D,4573, Højby,2775000 ,02-12-2019,Alm. Salg,130,21346,3,2004,
-306,Ejerlejlighed,Nygårdsvej 2B,4573, Højby,2775000 ,02-12-2019,Alm. Salg,40,69375,2,1908,
-306,Ejerlejlighed,Nygårdsvej 2E,4573, Højby,2775000 ,02-12-2019,Alm. Salg,70,39643,2,2004,
 306,Villa,Glostrupvej 14,4500, Nykøbing Sj,445000 ,02-12-2019,Alm. Salg,112,3973,4,1902,
 306,Villa,Egebjergvej 204,4500, Nykøbing Sj,1725000 ,01-12-2019,Alm. Salg,102,16912,4,1951,-1%
 306,Villa,Skaverupvej 26,4500, Nykøbing Sj,799000 ,27-11-2019,Fam. Salg,102,7833,3,1826,
@@ -2775,16 +2756,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Oddenvej 172,4500, Nykøbing Sj,250000 ,25-01-2018,Alm. Salg,98,2551,2,1917,
 306,Rækkehus,Høve Klitbo 10,4550, Asnæs,1595000 ,24-01-2018,Alm. Salg,124,12863,3,1952,-6%
 306,Ejerlejlighed,Bays Have 36,4550, Asnæs,1110000 ,24-01-2018,Alm. Salg,79,14051,3,2006,-20%
-306,Ejerlejlighed,"Algade 33, 2",4500, Nykøbing Sj,3100000 ,24-01-2018,Alm. Salg,145,21379,5,1900,
-306,Ejerlejlighed,"Algade 33, 2. th",4500, Nykøbing Sj,3100000 ,24-01-2018,Alm. Salg,69,44928,3,1900,
-306,Ejerlejlighed,"Algade 33, 2. tv",4500, Nykøbing Sj,3100000 ,24-01-2018,Alm. Salg,69,44928,3,1900,
-306,Ejerlejlighed,"Svanestræde 2B, 1. 4",4500, Nykøbing Sj,3100000 ,24-01-2018,Alm. Salg,66,46970,3,1900,
-306,Ejerlejlighed,"Svanestræde 2B, 1. 5",4500, Nykøbing Sj,3100000 ,24-01-2018,Alm. Salg,72,43056,2,1900,
-306,Ejerlejlighed,"Svanestræde 2B, 1. 2",4500, Nykøbing Sj,3100000 ,24-01-2018,Alm. Salg,68,45588,3,1900,
-306,Ejerlejlighed,"Svanestræde 2B, st. tv",4500, Nykøbing Sj,3100000 ,24-01-2018,Alm. Salg,72,43056,3,1900,
-306,Ejerlejlighed,"Svanestræde 2B, 1. 3",4500, Nykøbing Sj,3100000 ,24-01-2018,Alm. Salg,76,40789,3,1900,
-306,Ejerlejlighed,"Svanestræde 2B, 1. 1",4500, Nykøbing Sj,3100000 ,24-01-2018,Alm. Salg,89,34831,4,1900,
-306,Ejerlejlighed,"Svanestræde 2B, st",4500, Nykøbing Sj,3100000 ,24-01-2018,Alm. Salg,97,31959,4,1900,
 306,Villa,Askehaven 22,4500, Nykøbing Sj,450000 ,23-01-2018,Alm. Salg,99,4545,3,1951,-9%
 306,Villa,Kirsebærhaven 18,4571, Grevinge,495000 ,23-01-2018,Fam. Salg,65,7615,2,1968,
 306,Villa,Toldbodvej 56A,4581, Rørvig,1995000 ,22-01-2018,Alm. Salg,124,16089,4,1999,
@@ -2799,8 +2770,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Gl Nykøbingvej 61,4572, Nørre Asmindrup,700000 ,15-01-2018,Alm. Salg,118,5932,3,1946,1%
 306,Ejerlejlighed,Bays Have 60,4550, Asnæs,2100000 ,14-01-2018,Alm. Salg,136,15441,4,2006,-8%
 306,Villa,Saxildsalle 14,4500, Nykøbing Sj,685000 ,14-01-2018,Alm. Salg,80,8563,3,1953,-9%
-306,Ejerlejlighed,"Dr Margrethevej 1, 2",4500, Nykøbing Sj,1695000 ,11-01-2018,Alm. Salg,134,12649,4,1913,
-306,Villa,Mosbyvej 31,4500, Nykøbing Sj,1695000 ,11-01-2018,Alm. Salg,170,9971,5,1973,
 306,Villa,Kildestræde 4,4500, Nykøbing Sj,825000 ,10-01-2018,Alm. Salg,110,7500,6,1854,-6%
 306,Rækkehus,Annebergparken 64B,4500, Nykøbing Sj,500000 ,08-01-2018,Fam. Salg,121,4132,5,1915,
 306,Villa,Fjordvænget 7,4581, Rørvig,4500000 ,06-01-2018,Fam. Salg,61,73770,3,1909,
@@ -3111,7 +3080,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Lestrupvej 17,4500, Nykøbing Sj,975000 ,16-05-2017,Alm. Salg,170,5735,5,1777,-2%
 306,Villa,Ryttervænget 6,4500, Nykøbing Sj,660000 ,11-05-2017,Alm. Salg,114,5789,4,1966,-17%
 306,Rækkehus,Samsøvej 56,4500, Nykøbing Sj,695000 ,10-05-2017,Alm. Salg,75,9267,3,1987,
-306,Rækkehus,Ringholm 8,4500, Nykøbing Sj,2099500 ,10-05-2017,Fam. Salg,56,37491,3,1877,
 306,Villa,Æble Alle 79,4500, Nykøbing Sj,1650000 ,10-05-2017,Alm. Salg,136,12132,5,1986,
 306,Rækkehus,Bystedvej 10. 4,4500, Nykøbing Sj,1300000 ,08-05-2017,Alm. Salg,105,12381,3,1980,
 306,Villa,Solvænget 6,4550, Asnæs,650000 ,08-05-2017,Alm. Salg,90,7222,3,1987,-13%
@@ -3196,9 +3164,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Vinkelvej 11,4540, Fårevejle,1150000 ,12-03-2017,Alm. Salg,103,11165,4,1958,-4%
 306,Villa,Bakkekammen 21,4560, Vig,800000 ,09-03-2017,Alm. Salg,120,6667,4,1969,-9%
 306,Villa,Torvevangen 18,4550, Asnæs,1810000 ,09-03-2017,Alm. Salg,187,9679,6,1978,1%
-306,Rækkehus,Drusbjergvej 1,4583, Sjællands Odde,2583000 ,08-03-2017,Fam. Salg,152,16993,5,1955,
 306,Villa,Hovvigvej 105,4500, Nykøbing Sj,3700000 ,08-03-2017,Alm. Salg,75,49333,2,1877,-7%
-306,Villa,Drusbjergvej 1,4583, Sjællands Odde,2583000 ,08-03-2017,Fam. Salg,110,23482,4,1960,
 306,Villa,Holbækvej 57,4560, Vig,770000 ,07-03-2017,Alm. Salg,152,5066,5,1936,
 306,Villa,Lynghusene 10A,4571, Grevinge,150000 ,07-03-2017,Fam. Salg,70,2143,2,1800,
 306,Villa,Kirkevej 4,4572, Nørre Asmindrup,800000 ,06-03-2017,Alm. Salg,160,5000,4,1977,-9%
@@ -3403,7 +3369,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Egebjergvej 418,4571, Grevinge,800000 ,22-09-2016,Alm. Salg,175,4571,6,1880,
 306,Villa,Dragsmøllevej 1,4534, Hørve,360000 ,21-09-2016,Auktion,88,4091,5,1948,
 306,Villa,Teglværksvej 5,4534, Hørve,1450000 ,21-09-2016,Alm. Salg,367,3951,9,1922,-12%
-306,Villa,Havrevænget 15,4550, Asnæs,1000000 ,21-09-2016,Andet,94,10638,3,2018,
 306,Rækkehus,Lindebjerg 10A,4534, Hørve,625000 ,20-09-2016,Alm. Salg,73,8562,2,1986,-3%
 306,Villa,Hovvigvej 4,4500, Nykøbing Sj,1550000 ,19-09-2016,Alm. Salg,198,7828,4,1997,
 306,Villa,Saxildsalle 19,4500, Nykøbing Sj,999000 ,17-09-2016,Alm. Salg,114,8763,5,1951,
@@ -3537,7 +3502,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Hørve Kirkevej 5A,4534, Hørve,1175000 ,07-06-2016,Alm. Salg,126,9325,6,1950,-2%
 306,Villa,Snebærvej 4,4540, Fårevejle,1050000 ,06-06-2016,Alm. Salg,150,7000,4,1979,-12%
 306,Rækkehus,Isørevej 95A,4581, Rørvig,500000 ,05-06-2016,Alm. Salg,82,6098,3,1982,-16%
-306,Villa,Nørregade 7,4534, Hørve,600000 ,05-06-2016,Alm. Salg,174,3448,5,1910,
 306,Villa,Oddenvej 132,4500, Nykøbing Sj,278000 ,05-06-2016,Auktion,102,2725,4,1900,
 306,Villa,Pilevej 18,4540, Fårevejle,1000000 ,02-06-2016,Alm. Salg,215,4651,5,1925,
 306,Villa,Holmagervej 7,4534, Hørve,745000 ,30-05-2016,Alm. Salg,142,5246,6,1961,
@@ -3661,7 +3625,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Rækkehus,Æblevangen 10,4550, Asnæs,600000 ,16-02-2016,Alm. Salg,61,9836,2,1981,-4%
 306,Villa,A Ladingsvej 14,4500, Nykøbing Sj,850000 ,16-02-2016,Alm. Salg,110,7727,5,1966,-5%
 306,Villa,Kokkevang 2E,4500, Nykøbing Sj,299873 ,16-02-2016,Alm. Salg,81,3702,4,1877,
-306,Rækkehus,Hørve Kirkevej 1C,4534, Hørve,1159500 ,15-02-2016,Fam. Salg,242,2913,7,1870,
 306,Rækkehus,Drosselvej 6A,4560, Vig,300000 ,15-02-2016,Alm. Salg,71,4225,3,1950,-24%
 306,Rækkehus,Nyvej 1C,4573, Højby,985000 ,15-02-2016,Alm. Salg,105,9381,3,2008,
 306,Villa,Fårevejle Stationsv. 17,4540, Fårevejle,825000 ,15-02-2016,Alm. Salg,187,4412,6,1924,
@@ -3913,9 +3876,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Ådalsvænget 26,4550, Asnæs,300000 ,14-07-2015,Alm. Salg,176,1705,5,2022,
 306,Villa,Vallekildevej 180,4534, Hørve,295000 ,12-07-2015,Auktion,148,1993,7,1867,-34%
 306,Ejerlejlighed,"Havnevej 57, st. tv",4500, Nykøbing Sj,1750000 ,10-07-2015,Alm. Salg,90,19444,3,2004,-3%
-306,Rækkehus,"Holstensvejen 28, st. th",4534, Hørve,450000 ,09-07-2015,Alm. Salg,181,2486,4,1939,
 306,Villa,Askevænget 24,4550, Asnæs,1000000 ,09-07-2015,Alm. Salg,172,5814,6,1976,
-306,Villa,Holstensvejen 28,4534, Hørve,450000 ,09-07-2015,Alm. Salg,111,4054,5,1939,
 306,Villa,Dr Schadsvej 7,4500, Nykøbing Sj,549417 ,09-07-2015,Fam. Salg,170,3232,5,1937,
 306,Villa,Nørremarksvej 2,4560, Vig,180000 ,08-07-2015,Alm. Salg,120,1500,3,1902,-8%
 306,Villa,Ordrupvej 36,4540, Fårevejle,1830000 ,08-07-2015,Alm. Salg,157,11656,8,1900,-3%
@@ -4035,7 +3996,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Vallekildevej 113A,4534, Hørve,1230000 ,30-03-2015,Alm. Salg,122,10082,4,1985,-2%
 306,Villa,Nyrupsvej 4,4534, Hørve,425000 ,29-03-2015,Alm. Salg,97,4381,4,1966,-14%
 306,Villa,Fårevejle Kanalvej 51,4540, Fårevejle,1219500 ,29-03-2015,Alm. Salg,140,8711,5,1959,
-306,Villa,Snerosevej 8,4540, Fårevejle,234375 ,29-03-2015,Alm. Salg,180,1302,6,2022,
 306,Villa,Æble Alle 11,4500, Nykøbing Sj,1200000 ,28-03-2015,Alm. Salg,200,6000,7,1926,-33%
 306,Villa,Remisevej 13,4500, Nykøbing Sj,450000 ,26-03-2015,Alm. Salg,89,5056,3,1961,-14%
 306,Villa,Lyder Høyersvej 25,4571, Grevinge,770000 ,26-03-2015,Alm. Salg,118,6525,3,1976,-3%
@@ -4150,8 +4110,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Tjørnevænget 6,4550, Asnæs,1000000 ,19-12-2014,Alm. Salg,162,6173,4,1972,-7%
 306,Villa,Nygårdsvej 48,4500, Nykøbing Sj,450000 ,18-12-2014,Alm. Salg,84,5357,4,1950,
 306,Villa,Rugvænget 7,4550, Asnæs,485000 ,18-12-2014,Alm. Salg,107,4533,5,1969,
-306,Villa,"Bag Kirken 1A, 1",4573, Højby,575000 ,18-12-2014,Alm. Salg,50,11500,3,1919,
-306,Villa,Højbyvej 3D,4500, Nykøbing Sj,3900000 ,18-12-2014,Alm. Salg,124,31452,4,1920,
 306,Villa,Østre Havnevej 32,4583, Sjællands Odde,90000 ,15-12-2014,Andet,132,682,4,1938,
 306,Villa,Bakkedraget 3,4534, Hørve,1200000 ,15-12-2014,Alm. Salg,134,8955,6,2007,-14%
 306,Rækkehus,Annebergparken 43B,4500, Nykøbing Sj,455000 ,14-12-2014,Auktion,99,4596,4,1915,
@@ -4165,7 +4123,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Ejerlejlighed,"Havnevej 101, st",4500, Nykøbing Sj,1800000 ,07-12-2014,Alm. Salg,96,18750,3,2009,7.100%
 306,Villa,Starreklintevej 31,4534, Hørve,110000 ,06-12-2014,Alm. Salg,66,1667,3,1887,
 306,Villa,Rådhusvej 18,4550, Asnæs,450000 ,04-12-2014,Alm. Salg,94,4787,4,1887,-17%
-306,Rækkehus,Ringholm 8,4500, Nykøbing Sj,10957284 ,03-12-2014,Fam. Salg,56,195666,3,1877,
 306,Villa,Rørvigvej 113,4500, Nykøbing Sj,595000 ,03-12-2014,Alm. Salg,155,3839,5,1959,
 306,Villa,Lindegårdshegnet 17,4500, Nykøbing Sj,1174500 ,03-12-2014,Andet,189,6214,6,2007,
 306,Villa,Lundshøjvej 12,4571, Grevinge,1650000 ,02-12-2014,Alm. Salg,201,8209,8,1948,
@@ -4372,7 +4329,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Nykøbingvej 200,4571, Grevinge,494500 ,11-05-2014,Fam. Salg,71,6965,4,1938,
 306,Villa,Bakkedraget 31,4534, Hørve,760000 ,10-05-2014,Fam. Salg,164,4634,5,1980,
 306,Villa,Tårnvej 12,4581, Rørvig,900000 ,06-05-2014,Alm. Salg,114,7895,4,1998,-4%
-306,Villa,Snerosevej 8,4540, Fårevejle,257500 ,06-05-2014,Alm. Salg,180,1431,6,2022,160%
 306,Villa,Industrivej 1,4534, Hørve,399000 ,05-05-2014,Alm. Salg,97,4113,4,1902,
 306,Rækkehus,Havnevej 27B,4500, Nykøbing Sj,1300000 ,04-05-2014,Alm. Salg,139,9353,4,2007,
 306,Villa,Skolevænget 23,4571, Grevinge,695000 ,04-05-2014,Alm. Salg,144,4826,4,1975,-13%
@@ -4455,7 +4411,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Egebjergvej 90,4500, Nykøbing Sj,1100000 ,19-02-2014,Auktion,180,6111,7,1893,-52%
 306,Villa,På Højen 17,4534, Hørve,970000 ,18-02-2014,Alm. Salg,145,6690,4,1973,
 306,Villa,Elmkær 46,4534, Hørve,1045000 ,18-02-2014,Alm. Salg,127,8228,4,1970,-5%
-306,Villa,Borrevangsvej 2,4573, Højby,10625000 ,18-02-2014,Fam. Salg,165,64394,6,2014,
 306,Villa,Vestervangen 9,4581, Rørvig,1000000 ,16-02-2014,Alm. Salg,126,7937,3,1972,-6%
 306,Villa,Fjordhaven 1,4560, Vig,1295000 ,13-02-2014,Alm. Salg,127,10197,5,1978,
 306,Villa,Engmosevej 2,4500, Nykøbing Sj,525000 ,12-02-2014,Alm. Salg,65,8077,2,1938,
@@ -4501,7 +4456,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Hellesvej 4,4581, Rørvig,720000 ,18-12-2013,Alm. Salg,74,9730,4,1934,-3%
 306,Villa,Fjordvænget 14,4560, Vig,510000 ,18-12-2013,Alm. Salg,120,4250,5,1967,-27%
 306,Villa,Bygvænget 19,4550, Asnæs,1275000 ,15-12-2013,Alm. Salg,120,10625,8,1973,-9%
-306,Ejerlejlighed,"Ordrupvej 82A, 1",4540, Fårevejle,1350000 ,12-12-2013,Alm. Salg,92,14674,3,1906,
 306,Villa,Lunden 1,4571, Grevinge,275000 ,11-12-2013,Alm. Salg,64,4297,2,1950,-7%
 306,Villa,Plejerupvej 16,4571, Grevinge,1600000 ,09-12-2013,Alm. Salg,159,10063,5,1777,-20%
 306,Villa,Snegleruphuse 13,4571, Grevinge,1287000 ,08-12-2013,Auktion,209,6158,6,1900,
@@ -5057,7 +5011,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Ellinge Skovvej 21,4573, Højby,345000 ,27-02-2012,Alm. Salg,110,3136,4,1870,17%
 306,Villa,Præstebjergvej 10,4540, Fårevejle,770000 ,27-02-2012,Alm. Salg,116,6638,4,1977,-3%
 306,Villa,Bøsserup Huse 2,4500, Nykøbing Sj,1050000 ,26-02-2012,Alm. Salg,133,7895,5,1954,
-306,Villa,Borrevangsvej 2,4573, Højby,61420 ,26-02-2012,Alm. Salg,165,372,6,2014,
 306,Villa,Dragsmøllevej 57,4534, Hørve,1575000 ,24-02-2012,Alm. Salg,150,10500,4,1937,-5%
 306,Rækkehus,Endelavevej 3,4500, Nykøbing Sj,1600000 ,23-02-2012,Alm. Salg,99,16162,3,2006,
 306,Villa,Eventyrhaven 7,4500, Nykøbing Sj,1925000 ,23-02-2012,Alm. Salg,179,10754,6,1976,-4%
@@ -5255,13 +5208,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Endelavevej 17,4500, Nykøbing Sj,825000 ,30-06-2011,Alm. Salg,159,5189,4,2008,
 306,Rækkehus,Søvej 12I,4540, Fårevejle,690000 ,29-06-2011,Alm. Salg,79,8734,3,1981,-16%
 306,Rækkehus,Syrenstien 12,4500, Nykøbing Sj,675000 ,29-06-2011,Alm. Salg,88,7670,3,1992,
-306,Ejerlejlighed,"Dr Margrethevej 2, 1",4500, Nykøbing Sj,1950000 ,29-06-2011,Fam. Salg,94,20745,3,1900,
-306,Ejerlejlighed,"Dr Margrethevej 2, st. tv",4500, Nykøbing Sj,1950000 ,29-06-2011,Fam. Salg,51,38235,2,1900,
-306,Ejerlejlighed,"Dr Margrethevej 2, 2",4500, Nykøbing Sj,1950000 ,29-06-2011,Fam. Salg,62,31452,2,1900,
-306,Ejerlejlighed,"Algade 62, 1",4500, Nykøbing Sj,1950000 ,29-06-2011,Fam. Salg,82,23780,3,1877,
-306,Ejerlejlighed,Algade 62C,4500, Nykøbing Sj,1950000 ,29-06-2011,Fam. Salg,87,22414,3,1877,
-306,Ejerlejlighed,Algade 62D,4500, Nykøbing Sj,1950000 ,29-06-2011,Fam. Salg,50,39000,3,1877,
-306,Ejerlejlighed,"Algade 62, st",4500, Nykøbing Sj,1950000 ,29-06-2011,Fam. Salg,63,30952,2,1877,
 306,Villa,Nykøbingvej 170,4571, Grevinge,10000 ,29-06-2011,Auktion,165,61,5,1895,
 306,Villa,Oddenvej 196,4500, Nykøbing Sj,600000 ,28-06-2011,Auktion,80,7500,4,1967,
 306,Villa,Højby Rosenvej 10,4573, Højby,1100000 ,28-06-2011,Alm. Salg,170,6471,6,1967,-8%
@@ -5743,7 +5689,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Rækkehus,Næsholmvej 4B,4550, Asnæs,1100000 ,16-01-2010,Alm. Salg,269,4089,6,1880,-35%
 306,Villa,Remisevej 4,4534, Hørve,850000 ,15-01-2010,Alm. Salg,104,8173,4,1957,-5%
 306,Villa,Egemosevej 22A,4571, Grevinge,1195000 ,13-01-2010,Auktion,207,5773,7,1912,-32%
-306,Villa,Egemosevej 23A,4571, Grevinge,700000 ,11-01-2010,Alm. Salg,269,2602,9,1925,
 306,Villa,Timianvej 14,4573, Højby,1450000 ,11-01-2010,Fam. Salg,135,10741,5,1974,
 306,Rækkehus,Stårupvej 10,4573, Højby,500000 ,07-01-2010,Auktion,75,6667,3,1982,-9%
 306,Villa,Nygade 8,4550, Asnæs,775000 ,06-01-2010,Alm. Salg,101,7673,3,1938,-11%
@@ -5788,7 +5733,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Østerlyngvej 30,4500, Nykøbing Sj,575000 ,19-11-2009,Alm. Salg,89,6461,4,1949,-27%
 306,Villa,Søndervangsvej 10,4581, Rørvig,400000 ,18-11-2009,Andet,175,2286,6,1974,
 306,Villa,Nørrevangen 7,4550, Asnæs,425000 ,18-11-2009,Alm. Salg,120,3542,3,1976,-43%
-306,Villa,Hovedgaden 24,4571, Grevinge,2075000 ,18-11-2009,Alm. Salg,221,9389,9,1904,-13%
 306,Villa,Oddenvej 2,4500, Nykøbing Sj,741844 ,15-11-2009,Andet,112,6624,4,1927,
 306,Villa,Hørve Kanalvej 23,4534, Hørve,600000 ,12-11-2009,Alm. Salg,256,2344,4,2014,-7%
 306,Villa,Præstebjergvej 9,4540, Fårevejle,895000 ,11-11-2009,Auktion,180,4972,4,1974,
@@ -5878,8 +5822,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Stendyssevej 5,4534, Hørve,588000 ,29-07-2009,Fam. Salg,136,4324,3,1917,
 306,Villa,Poppelvænget 16,4540, Fårevejle,910000 ,29-07-2009,Auktion,117,7778,5,1964,
 306,Villa,Gl Nykøbingvej 57,4572, Nørre Asmindrup,400000 ,28-07-2009,Alm. Salg,75,5333,3,1864,-19%
-306,Rækkehus,"Holstensvejen 28, st. th",4534, Hørve,5 ,24-07-2009,Andet,181,0,4,1939,
-306,Villa,Holstensvejen 28,4534, Hørve,5 ,24-07-2009,Andet,111,0,5,1939,
 306,Villa,Nykøbing-Slagelsevej 22,4560, Vig,1900000 ,23-07-2009,Alm. Salg,100,19000,3,1907,-14%
 306,Villa,Nørrevangsvej 10,4581, Rørvig,1950000 ,23-07-2009,Alm. Salg,160,12188,6,1975,
 306,Villa,Kirkebjerg 3,4572, Nørre Asmindrup,610000 ,22-07-2009,Alm. Salg,105,5810,4,1961,-12%
@@ -6031,11 +5973,9 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Sidingevej 20,4560, Vig,1100000 ,08-01-2009,Alm. Salg,121,9091,3,1907,-14%
 306,Villa,Bøgevangen 2,4550, Asnæs,1275000 ,07-01-2009,Alm. Salg,86,14826,4,1952,-4%
 306,Villa,Dr Schadsvej 2,4500, Nykøbing Sj,1129000 ,07-01-2009,Alm. Salg,136,8301,5,1937,
-306,Villa,Borrevangsvej 2,4573, Højby,60000 ,05-01-2009,Alm. Salg,165,364,6,2014,
 306,Ejerlejlighed,Vesterbro 11C,4500, Nykøbing Sj,395000 ,04-01-2009,Alm. Salg,30,13167,1,1984,-7%
 306,Villa,Egebjergvej 61,4500, Nykøbing Sj,1900000 ,27-12-2008,Alm. Salg,131,14504,6,1941,-5%
 306,Villa,Æble Alle 1,4500, Nykøbing Sj,1535000 ,18-12-2008,Alm. Salg,117,13120,5,1983,-7%
-306,Villa,Kildestræde 9,4500, Nykøbing Sj,787000 ,18-12-2008,Fam. Salg,33,23848,1,1796,
 306,Villa,Nyvej 26,4573, Højby,3050000 ,18-12-2008,Alm. Salg,146,20890,3,1989,
 306,Ejerlejlighed,Kalundborgvej 13C,4540, Fårevejle,710000 ,17-12-2008,Alm. Salg,91,7802,3,1892,
 306,Villa,Skolevænget 3,4571, Grevinge,1320000 ,17-12-2008,Auktion,165,8000,9,1961,
@@ -6399,24 +6339,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Havrevænget 14,4550, Asnæs,1050000 ,04-03-2008,Alm. Salg,132,7955,5,1962,
 306,Villa,Egebjergvej 349,4571, Grevinge,1295000 ,04-03-2008,Alm. Salg,104,12452,3,1850,
 306,Villa,Stenstrupvej 66,4573, Højby,2850000 ,03-03-2008,Alm. Salg,248,11492,5,1912,
-306,Ejerlejlighed,"Asnæs Kirkevej 4, 1. 5",4550, Asnæs,4000000 ,02-03-2008,Alm. Salg,70,57143,2,2021,
-306,Ejerlejlighed,"Storegade 16, st. 1",4550, Asnæs,4000000 ,02-03-2008,Alm. Salg,83,48193,3,2021,
-306,Ejerlejlighed,"Storegade 16, 1. 8",4550, Asnæs,4000000 ,02-03-2008,Alm. Salg,80,50000,3,2021,
-306,Ejerlejlighed,"Asnæs Kirkevej 4, st. 4",4550, Asnæs,4000000 ,02-03-2008,Alm. Salg,80,50000,3,2021,
-306,Ejerlejlighed,"Asnæs Kirkevej 4, 1. 6",4550, Asnæs,4000000 ,02-03-2008,Alm. Salg,68,58824,2,2021,
-306,Ejerlejlighed,"Asnæs Kirkevej 4, st. 3",4550, Asnæs,4000000 ,02-03-2008,Alm. Salg,80,50000,3,2021,
-306,Ejerlejlighed,"Storegade 16, st. 3",4550, Asnæs,4000000 ,02-03-2008,Alm. Salg,80,50000,3,2021,
-306,Ejerlejlighed,"Storegade 16, 1. 6",4550, Asnæs,4000000 ,02-03-2008,Alm. Salg,83,48193,3,2021,
-306,Ejerlejlighed,"Storegade 16, 1. 7",4550, Asnæs,4000000 ,02-03-2008,Alm. Salg,80,50000,3,2021,
-306,Ejerlejlighed,"Storegade 16, 1. 10",4550, Asnæs,4000000 ,02-03-2008,Alm. Salg,83,48193,3,2021,
-306,Ejerlejlighed,"Asnæs Kirkevej 4, 1. 8",4550, Asnæs,4000000 ,02-03-2008,Alm. Salg,70,57143,2,2021,
-306,Ejerlejlighed,"Storegade 16, st. 5",4550, Asnæs,4000000 ,02-03-2008,Alm. Salg,83,48193,3,2021,
-306,Ejerlejlighed,"Asnæs Kirkevej 4, 1. 7",4550, Asnæs,4000000 ,02-03-2008,Alm. Salg,68,58824,2,2021,
-306,Ejerlejlighed,"Storegade 16, st. 4",4550, Asnæs,4000000 ,02-03-2008,Alm. Salg,80,50000,3,2021,
-306,Ejerlejlighed,"Storegade 16, 1. 9",4550, Asnæs,4000000 ,02-03-2008,Alm. Salg,80,50000,3,2021,
-306,Ejerlejlighed,"Asnæs Kirkevej 4, st. 2",4550, Asnæs,4000000 ,02-03-2008,Alm. Salg,80,50000,3,2021,
-306,Ejerlejlighed,"Asnæs Kirkevej 4, st. 1",4550, Asnæs,4000000 ,02-03-2008,Alm. Salg,83,48193,3,2021,
-306,Ejerlejlighed,"Storegade 16, st. 2",4550, Asnæs,4000000 ,02-03-2008,Alm. Salg,80,50000,3,2021,
 306,Villa,Hørve Møllevej 7,4534, Hørve,1150000 ,02-03-2008,Fam. Salg,62,18548,3,1954,
 306,Villa,Sidingevej 51,4560, Vig,1795000 ,02-03-2008,Alm. Salg,160,11219,5,1897,
 306,Villa,Gl Nykøbingvej 151,4572, Nørre Asmindrup,2175000 ,02-03-2008,Alm. Salg,139,15647,5,1918,
@@ -6501,8 +6423,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Overbygade 4,4583, Sjællands Odde,850000 ,04-01-2008,Alm. Salg,82,10366,2,1877,-5%
 306,Villa,Højby Hovedgade 49,4573, Højby,1150000 ,03-01-2008,Fam. Salg,112,10268,4,1885,
 306,Villa,Nyledsbakken 50,4500, Nykøbing Sj,800000 ,03-01-2008,Alm. Salg,253,3162,7,1920,
-306,Ejerlejlighed,Billesvej 2,4500, Nykøbing Sj,1595000 ,02-01-2008,Alm. Salg,117,13632,4,1910,
-306,Ejerlejlighed,"Nørregade 1, 1",4500, Nykøbing Sj,1595000 ,02-01-2008,Alm. Salg,85,18765,3,1910,
 306,Villa,Fårevejle Stationsv. 32,4540, Fårevejle,1595000 ,31-12-2007,Alm. Salg,140,11393,7,1907,
 306,Villa,Hybenvej 5,4540, Fårevejle,887500 ,29-12-2007,Andet,145,6121,4,1973,
 306,Rækkehus,Kildestræde 14H,4500, Nykøbing Sj,835000 ,26-12-2007,Alm. Salg,56,14911,2,1982,-7%
@@ -6633,9 +6553,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Kildevej 3,4534, Hørve,200000 ,28-09-2007,Alm. Salg,114,1754,4,2010,
 306,Villa,Åsvej 6,4540, Fårevejle,3500000 ,27-09-2007,Alm. Salg,150,23333,7,1967,
 306,Rækkehus,Ærøvej 1A,4500, Nykøbing Sj,1350000 ,26-09-2007,Alm. Salg,100,13500,4,1987,
-306,Rækkehus,"Holstensvejen 28, st. th",4534, Hørve,4500000 ,26-09-2007,Alm. Salg,181,24862,4,1939,
 306,Villa,Hybenvej 4,4540, Fårevejle,1300000 ,26-09-2007,Alm. Salg,105,12381,4,1967,-9%
-306,Villa,Holstensvejen 28,4534, Hørve,4500000 ,26-09-2007,Alm. Salg,111,40541,5,1939,
 306,Villa,Sølvagervej 12,4534, Hørve,822500 ,26-09-2007,Alm. Salg,93,8844,4,1927,
 306,Rækkehus,Vænget 5B,4571, Grevinge,850000 ,25-09-2007,Alm. Salg,74,11486,2,1976,
 306,Rækkehus,Fasanalle 1B,4500, Nykøbing Sj,815000 ,25-09-2007,Alm. Salg,51,15980,2,1973,-1%
@@ -6764,8 +6682,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Kirkebakken 6,4534, Hørve,2900000 ,14-07-2007,Alm. Salg,241,12033,7,1850,-6%
 306,Villa,Grevinge Stationsvej 1,4571, Grevinge,1375000 ,14-07-2007,Alm. Salg,204,6740,8,1900,
 306,Rækkehus,Gl Nykøbingvej 11,4560, Vig,795000 ,13-07-2007,Alm. Salg,69,11522,3,1909,
-306,Rækkehus,Sygehusvej 8D,4500, Nykøbing Sj,1625000 ,12-07-2007,Alm. Salg,73,22260,3,2007,
-306,Villa,Sandvej 1,4500, Nykøbing Sj,1625000 ,12-07-2007,Alm. Salg,80,20313,2,1969,
 306,Ejerlejlighed,"Algade 10A, 1. th",4500, Nykøbing Sj,5500000 ,11-07-2007,Alm. Salg,64,85938,2,1890,
 306,Villa,Toftegårdsvænget 6,4500, Nykøbing Sj,1165000 ,11-07-2007,Alm. Salg,127,9173,5,1967,
 306,Villa,Vinkelvej 7,4540, Fårevejle,1900000 ,11-07-2007,Alm. Salg,165,11515,6,1967,
@@ -6786,9 +6702,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Altavej 13C,4500, Nykøbing Sj,400000 ,06-07-2007,Alm. Salg,102,3922,3,1968,
 306,Villa,Æble Alle 65,4500, Nykøbing Sj,1385000 ,06-07-2007,Alm. Salg,112,12366,3,1987,
 306,Rækkehus,Samsøvej 30,4500, Nykøbing Sj,1395000 ,05-07-2007,Alm. Salg,89,15674,4,1986,
-306,Ejerlejlighed,"Vallekildevej 3, 1",4534, Hørve,2700000 ,05-07-2007,Alm. Salg,86,31395,3,1907,
-306,Ejerlejlighed,"Vallekildevej 3, 2",4534, Hørve,2700000 ,05-07-2007,Alm. Salg,95,28421,2,1907,
-306,Ejerlejlighed,"Hørve Møllevej 2B, st",4534, Hørve,2700000 ,05-07-2007,Alm. Salg,84,32143,4,1907,
 306,Villa,Søvej 10,4540, Fårevejle,603500 ,05-07-2007,Fam. Salg,118,5114,5,1939,
 306,Villa,Højvang 8,4500, Nykøbing Sj,1100000 ,05-07-2007,Alm. Salg,120,9167,4,1966,
 306,Villa,Vestervangen 5,4581, Rørvig,1535000 ,04-07-2007,Alm. Salg,124,12379,4,1971,-4%
@@ -6940,7 +6853,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Rækkehus,Nygade 14B,4550, Asnæs,1495000 ,24-04-2007,Alm. Salg,92,16250,3,2008,
 306,Villa,Egebjerg Hovedgade 26,4500, Nykøbing Sj,1000000 ,24-04-2007,Alm. Salg,154,6494,5,1912,
 306,Villa,Vestervangen 31,4550, Asnæs,2100000 ,23-04-2007,Alm. Salg,199,10553,6,1947,
-306,Villa,"Vallekildevej 129B, 1",4534, Hørve,1800000 ,23-04-2007,Alm. Salg,105,17143,5,1905,
 306,Rækkehus,Askehaven 5A,4500, Nykøbing Sj,850000 ,22-04-2007,Alm. Salg,57,14912,2,1979,
 306,Villa,Præstebjergvej 15,4540, Fårevejle,1385000 ,22-04-2007,Alm. Salg,100,13850,4,1975,
 306,Villa,Humlehaven 5,4571, Grevinge,1200000 ,22-04-2007,Alm. Salg,100,12000,3,1880,-7%
@@ -7361,10 +7273,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Brorsonsvej 13,4500, Nykøbing Sj,1195000 ,13-08-2006,Alm. Salg,107,11168,4,1951,
 306,Villa,Hasselvænget 40,4550, Asnæs,2575000 ,10-08-2006,Alm. Salg,180,14306,4,1979,
 306,Villa,Vallekildevej 62,4534, Hørve,1275000 ,10-08-2006,Alm. Salg,122,10451,3,1942,
-306,Rækkehus,Garboparken 9,4550, Asnæs,1550000 ,09-08-2006,Alm. Salg,86,18023,3,2003,
 306,Villa,Kirkebakken 1,4534, Hørve,800000 ,09-08-2006,Alm. Salg,80,10000,2,1949,
 306,Villa,Kirkebjerg 15,4572, Nørre Asmindrup,1265000 ,09-08-2006,Alm. Salg,131,9656,4,1979,
-306,Villa,Høve Klitbo 26,4550, Asnæs,1550000 ,09-08-2006,Alm. Salg,137,11314,4,1978,
 306,Villa,Næsvangsvej 2,4550, Asnæs,786275 ,09-08-2006,Andet,438,1795,10,1800,
 306,Ejerlejlighed,"Annebergparken 10B, st. th",4500, Nykøbing Sj,1395000 ,07-08-2006,Alm. Salg,101,13812,3,2006,
 306,Villa,Ordrupvej 72A,4540, Fårevejle,1375000 ,06-08-2006,Alm. Salg,112,12277,3,1926,
@@ -8290,10 +8200,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Fejøvej 15,4500, Nykøbing Sj,1625000 ,04-07-2005,Alm. Salg,145,11207,6,1996,
 306,Villa,Bygvænget 11,4550, Asnæs,1450000 ,04-07-2005,Alm. Salg,156,9295,4,1967,
 306,Rækkehus,Æblevangen 12,4550, Asnæs,629999 ,03-07-2005,Fam. Salg,68,9265,2,1981,
-306,Ejerlejlighed,"Sneglerupvej 1, 1",4571, Grevinge,1580000 ,03-07-2005,Alm. Salg,120,13167,5,1856,
 306,Villa,Billesvej 22,4500, Nykøbing Sj,1385000 ,03-07-2005,Alm. Salg,151,9172,5,1960,
 306,Villa,Lindevangen 20,4550, Asnæs,1000000 ,03-07-2005,Alm. Salg,113,8850,4,1979,
-306,Villa,Sneglerupvej 1,4571, Grevinge,1580000 ,03-07-2005,Alm. Salg,92,17174,6,1967,
 306,Villa,Egebjerg Hovedgade 16,4500, Nykøbing Sj,410000 ,03-07-2005,Alm. Salg,96,4271,3,1870,
 306,Villa,P Jørgensensvej 2,4500, Nykøbing Sj,1400000 ,03-07-2005,Alm. Salg,188,7447,5,1952,
 306,Villa,Kildevej 5,4534, Hørve,82500 ,02-07-2005,Alm. Salg,125,660,3,2008,
@@ -8583,7 +8491,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Granvejen 12,4540, Fårevejle,950000 ,23-02-2005,Alm. Salg,83,11446,3,1986,
 306,Villa,Nygade 4,4560, Vig,1130000 ,23-02-2005,Alm. Salg,71,15915,4,1888,
 306,Rækkehus,Nyvej 1F,4573, Højby,250000 ,22-02-2005,Alm. Salg,87,2874,2,2008,
-306,Ejerlejlighed,"Ordrupvej 82A, 1",4540, Fårevejle,343320 ,21-02-2005,Fam. Salg,92,3732,3,1906,
 306,Villa,Toftegårdsvej 15A,4550, Asnæs,1207000 ,21-02-2005,Alm. Salg,150,8047,6,1897,
 306,Villa,C Steinckesvej 6,4500, Nykøbing Sj,999663 ,20-02-2005,Alm. Salg,108,9256,4,1962,
 306,Villa,Viseren 7,4560, Vig,260000 ,20-02-2005,Alm. Salg,166,1566,4,2006,
@@ -8598,7 +8505,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Ejerlejlighed,Bays Have 36,4550, Asnæs,1557500 ,15-02-2005,Alm. Salg,79,19715,3,2006,
 306,Villa,Holstensvejen 7,4534, Hørve,1495000 ,15-02-2005,Alm. Salg,157,9522,7,1877,
 306,Villa,Teglværksvangen 18,4540, Fårevejle,1236229 ,15-02-2005,Alm. Salg,90,13736,4,1952,
-306,Villa,Borrevangsvej 2,4573, Højby,6035000 ,15-02-2005,Fam. Salg,165,36576,6,2014,
 306,Villa,Lyder Høyersvej 5,4571, Grevinge,1195000 ,13-02-2005,Alm. Salg,146,8185,4,1971,
 306,Villa,Bakkedraget 57,4534, Hørve,1370000 ,13-02-2005,Alm. Salg,246,5569,7,1979,
 306,Rækkehus,Østergade 1B,4581, Rørvig,900000 ,11-02-2005,Fam. Salg,130,6923,3,1999,
@@ -8633,14 +8539,11 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Sletterhøjvej 9,4500, Nykøbing Sj,2495000 ,26-01-2005,Alm. Salg,176,14176,6,1880,
 306,Rækkehus,Solbakken 4B,4583, Sjællands Odde,995000 ,25-01-2005,Alm. Salg,93,10699,3,2005,
 306,Villa,Kingosvej 31,4500, Nykøbing Sj,810000 ,25-01-2005,Alm. Salg,99,8182,5,1964,
-306,Rækkehus,Drusbjergvej 1,4583, Sjællands Odde,2250000 ,24-01-2005,Fam. Salg,152,14803,5,1955,
 306,Rækkehus,Solbakken 16,4583, Sjællands Odde,650000 ,24-01-2005,Alm. Salg,70,9286,3,1979,
-306,Villa,Drusbjergvej 1,4583, Sjællands Odde,2250000 ,24-01-2005,Fam. Salg,110,20455,4,1960,
 306,Villa,Nykøbingvej 196,4571, Grevinge,875000 ,24-01-2005,Alm. Salg,159,5503,4,1948,
 306,Rækkehus,Kirkebjerg 9B,4572, Nørre Asmindrup,125000 ,23-01-2005,Alm. Salg,122,1025,4,2006,
 306,Villa,Oddenvej 211,4583, Sjællands Odde,975000 ,23-01-2005,Alm. Salg,256,3809,5,1880,
 306,Villa,Bakkedraget 17,4534, Hørve,1085000 ,23-01-2005,Alm. Salg,116,9353,4,1979,
-306,Villa,Præstevænget 2,4500, Nykøbing Sj,1195000 ,23-01-2005,Alm. Salg,134,8918,4,1930,
 306,Villa,Starreklintevej 8,4534, Hørve,2140000 ,21-01-2005,Alm. Salg,181,11823,6,1797,
 306,Villa,Glostrupvej 21,4500, Nykøbing Sj,2610000 ,21-01-2005,Alm. Salg,217,12028,8,1912,
 306,Villa,Billesvej 28,4500, Nykøbing Sj,400025 ,20-01-2005,Andet,130,3077,6,1935,
@@ -8815,7 +8718,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Nygade 5,4560, Vig,740000 ,02-11-2004,Alm. Salg,70,10571,3,1910,
 306,Rækkehus,Høve Bygade 29,4550, Asnæs,775000 ,31-10-2004,Alm. Salg,91,8516,3,1919,
 306,Villa,Østerled 7,4534, Hørve,1000000 ,31-10-2004,Alm. Salg,89,11236,3,1919,
-306,Villa,Hovedgaden 24,4571, Grevinge,2025000 ,31-10-2004,Alm. Salg,221,9163,9,1904,
 306,Villa,Gartnervænget 10,4571, Grevinge,860000 ,30-10-2004,Alm. Salg,100,8600,4,1960,
 306,Villa,Tårnvej 16,4581, Rørvig,1465000 ,30-10-2004,Alm. Salg,191,7670,6,1969,
 306,Villa,Holsts Have 15,4500, Nykøbing Sj,895000 ,28-10-2004,Alm. Salg,64,13984,3,1940,
@@ -8838,7 +8740,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Lumsås Møllevej 8,4500, Nykøbing Sj,830000 ,21-10-2004,Alm. Salg,175,4743,7,1939,
 306,Villa,Ellinge Skovvej 31C,4573, Højby,2450000 ,17-10-2004,Alm. Salg,328,7470,15,1987,
 306,Villa,Oddenvej 220,4500, Nykøbing Sj,725088 ,17-10-2004,Alm. Salg,71,10213,3,1961,
-306,Villa,Hovedgaden 24,4571, Grevinge,1230000 ,17-10-2004,Alm. Salg,221,5566,9,1904,
 306,Villa,Overbygade 5,4583, Sjællands Odde,1125000 ,16-10-2004,Alm. Salg,113,9956,3,1983,
 306,Villa,Oddenvej 224,4583, Sjællands Odde,850000 ,15-10-2004,Alm. Salg,113,7522,5,1922,
 306,Rækkehus,Enøvej 47B,4500, Nykøbing Sj,1245000 ,13-10-2004,Alm. Salg,111,11216,4,1987,
@@ -8860,9 +8761,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Rækkehus,Høve Klitbo 11,4550, Asnæs,1725000 ,29-09-2004,Alm. Salg,124,13911,3,1952,
 306,Rækkehus,"Vesterbro 9, st. tv",4500, Nykøbing Sj,1005000 ,28-09-2004,Alm. Salg,186,5403,4,1877,
 306,Rækkehus,"Vesterbro 9, st. th",4500, Nykøbing Sj,1445000 ,28-09-2004,Alm. Salg,243,5947,5,1877,
-306,Ejerlejlighed,"Vallekildevej 7, 1",4534, Hørve,150000 ,28-09-2004,Fam. Salg,90,1667,3,1901,
-306,Ejerlejlighed,"Vallekildevej 7, st. tv",4534, Hørve,150000 ,28-09-2004,Fam. Salg,65,2308,2,1901,
-306,Ejerlejlighed,Hørve Møllevej 4,4534, Hørve,150000 ,28-09-2004,Fam. Salg,41,3659,1,1901,
 306,Villa,Søren Andreasensvej 5,4540, Fårevejle,917863 ,27-09-2004,Alm. Salg,95,9662,3,1966,
 306,Villa,Møllestrædet 4,4550, Asnæs,985000 ,22-09-2004,Alm. Salg,127,7756,5,1967,
 306,Villa,Hovedgaden 29,4571, Grevinge,550000 ,22-09-2004,Alm. Salg,100,5500,4,1906,
@@ -9276,8 +9174,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Krokusvænget 52,4550, Asnæs,194000 ,25-02-2004,Alm. Salg,140,1386,4,2007,
 306,Villa,Plantagevej 1B,4540, Fårevejle,895000 ,24-02-2004,Alm. Salg,102,8775,4,1933,
 306,Villa,Præstevænget 4,4560, Vig,1160000 ,24-02-2004,Alm. Salg,146,7945,6,1958,
-306,Ejerlejlighed,Billesvej 2,4500, Nykøbing Sj,520000 ,23-02-2004,Alm. Salg,117,4444,4,1910,
-306,Ejerlejlighed,"Nørregade 1, 1",4500, Nykøbing Sj,520000 ,23-02-2004,Alm. Salg,85,6118,3,1910,
 306,Villa,Sandskredsvej 12,4500, Nykøbing Sj,2610000 ,23-02-2004,Alm. Salg,198,7745,9,1848,
 306,Villa,Kirkevej 30,4572, Nørre Asmindrup,1195000 ,23-02-2004,Alm. Salg,172,6948,4,1650,
 306,Villa,Skiven 4,4560, Vig,240000 ,23-02-2004,Alm. Salg,113,2124,4,2007,
@@ -9322,7 +9218,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Læsøvej 16,4500, Nykøbing Sj,1000000 ,02-02-2004,Alm. Salg,120,8333,4,1978,
 306,Ejerlejlighed,"Kokkevang 2C, st. th",4500, Nykøbing Sj,495000 ,01-02-2004,Alm. Salg,85,5824,3,1877,
 306,Villa,Egebjergvej 260,4500, Nykøbing Sj,1695000 ,01-02-2004,Alm. Salg,150,11300,5,1973,
-306,Villa,Rødhøj 72A,4571, Grevinge,1793707 ,01-02-2004,Alm. Salg,176,10192,4,1905,
 306,Rækkehus,Kongeleddet 3E,4581, Rørvig,965000 ,31-01-2004,Alm. Salg,87,11092,3,1998,
 306,Villa,Holbækvej 79,4560, Vig,600000 ,31-01-2004,Fam. Salg,130,4615,3,1892,
 306,Villa,Tværvej 8,4500, Nykøbing Sj,945000 ,31-01-2004,Alm. Salg,99,9545,3,1953,
@@ -9439,7 +9334,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Starreklintevej 13,4534, Hørve,326000 ,21-11-2003,Fam. Salg,168,1940,4,1900,
 306,Villa,Kelstrupvej 15,4560, Vig,675000 ,21-11-2003,Alm. Salg,118,5720,3,1927,
 306,Villa,Rødhøj 22,4550, Asnæs,1050000 ,21-11-2003,Alm. Salg,115,9130,5,1961,
-306,Villa,Ll Egebjergvej 11,4560, Vig,1525000 ,20-11-2003,Alm. Salg,187,8155,6,1916,
 306,Rækkehus,Samsøvej 48,4500, Nykøbing Sj,915000 ,19-11-2003,Alm. Salg,75,12200,3,1987,
 306,Villa,Fårevejle Stationsv. 19,4540, Fårevejle,970000 ,19-11-2003,Alm. Salg,151,6424,4,1920,
 306,Villa,Skolevænget 21,4571, Grevinge,930000 ,19-11-2003,Alm. Salg,118,7881,4,1974,
@@ -9549,9 +9443,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Stenstrupvej 6,4573, Højby,610000 ,23-09-2003,Alm. Salg,121,5041,3,1950,
 306,Villa,Fårevejle Kanalvej 2D,4540, Fårevejle,850000 ,23-09-2003,Alm. Salg,83,10241,3,1987,
 306,Villa,Nykøbingvej 144,4571, Grevinge,850000 ,22-09-2003,Alm. Salg,140,6071,3,1939,
-306,Ejerlejlighed,"Vallekildevej 7, 1",4534, Hørve,680000 ,21-09-2003,Alm. Salg,90,7556,3,1901,
-306,Ejerlejlighed,"Vallekildevej 7, st. tv",4534, Hørve,680000 ,21-09-2003,Alm. Salg,65,10462,2,1901,
-306,Ejerlejlighed,Hørve Møllevej 4,4534, Hørve,680000 ,21-09-2003,Alm. Salg,41,16585,1,1901,
 306,Villa,Fuglebakken 13,4550, Asnæs,1075000 ,21-09-2003,Alm. Salg,138,7790,5,1977,
 306,Rækkehus,Højby Hovedgade 74,4573, Højby,475000 ,20-09-2003,Alm. Salg,62,7661,3,1902,
 306,Rækkehus,Elmebakken 7,4550, Asnæs,691644 ,19-09-2003,Alm. Salg,51,13562,2,1978,
@@ -9606,7 +9497,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Højbyvej 22,4500, Nykøbing Sj,150000 ,26-08-2003,Alm. Salg,237,633,6,2005,
 306,Villa,Kingosvej 21,4500, Nykøbing Sj,850000 ,26-08-2003,Alm. Salg,75,11333,3,1951,
 306,Villa,Mellemvangen 8,4550, Asnæs,875000 ,26-08-2003,Alm. Salg,116,7543,4,1964,
-306,Villa,Vesterbro 36,4500, Nykøbing Sj,1325000 ,26-08-2003,Alm. Salg,272,4871,6,1800,
 306,Rækkehus,Garboparken 15,4550, Asnæs,90000 ,25-08-2003,Alm. Salg,86,1047,3,2004,
 306,Villa,Rugvænget 11,4550, Asnæs,1455771 ,25-08-2003,Alm. Salg,173,8415,6,1967,
 306,Villa,Rosendalen 1B,4500, Nykøbing Sj,212000 ,24-08-2003,Alm. Salg,128,1656,4,2004,
@@ -9969,12 +9859,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Garboparken 54,4550, Asnæs,165000 ,12-02-2003,Alm. Salg,133,1241,5,2003,
 306,Villa,"Vig Hovedgade 29, st. tv",4560, Vig,975000 ,12-02-2003,Alm. Salg,125,7800,4,1907,
 306,Villa,Søndre Skovvej 28,4550, Asnæs,725000 ,11-02-2003,Auktion,154,4708,4,1857,
-306,Villa,Toldbodvej 53,4581, Rørvig,1326042 ,11-02-2003,Alm. Salg,120,11050,4,1900,
 306,Rækkehus,Rørvigvej 133A,4500, Nykøbing Sj,850000 ,10-02-2003,Alm. Salg,85,10000,2,1987,
 306,Rækkehus,Stenbjergparken 13,4573, Højby,1352000 ,09-02-2003,Alm. Salg,115,11757,4,1989,
 306,Villa,Hestehavevej 24,4572, Nørre Asmindrup,1150000 ,09-02-2003,Alm. Salg,148,7770,5,1965,
 306,Villa,Sophievej 12,4581, Rørvig,1250000 ,09-02-2003,Alm. Salg,159,7862,5,2005,
-306,Ejerlejlighed,"Bygaden 16, 1",4500, Nykøbing Sj,550000 ,08-02-2003,Alm. Salg,67,8209,2,1911,
 306,Villa,Glostrupvej 16,4500, Nykøbing Sj,919280 ,08-02-2003,Alm. Salg,133,6912,5,1979,
 306,Rækkehus,Enøvej 13,4500, Nykøbing Sj,685000 ,07-02-2003,Alm. Salg,75,9133,3,1981,
 306,Villa,Vallekildevej 44,4534, Hørve,985000 ,06-02-2003,Alm. Salg,139,7086,5,1949,
@@ -10037,7 +9925,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Gl Nykøbingvej 95,4572, Nørre Asmindrup,582000 ,29-12-2002,Auktion,266,2188,10,1917,
 306,Villa,Vejlen 1,4540, Fårevejle,1105000 ,29-12-2002,Fam. Salg,203,5443,6,1903,
 306,Villa,Svinningevej 8,4572, Nørre Asmindrup,286455 ,28-12-2002,Fam. Salg,104,2754,3,1958,
-306,Rækkehus,Ringholm 8,4500, Nykøbing Sj,4180096 ,27-12-2002,Fam. Salg,56,74645,3,1877,
 306,Villa,Tårnvej 3,4581, Rørvig,350000 ,27-12-2002,Fam. Salg,192,1823,7,1973,
 306,Villa,Byvænget 14,4573, Højby,908000 ,26-12-2002,Alm. Salg,125,7264,4,1970,
 306,Rækkehus,Rørvigvej 71B,4500, Nykøbing Sj,904053 ,22-12-2002,Alm. Salg,83,10892,3,2003,
@@ -10192,10 +10079,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Fjordparken 17,4540, Fårevejle,950000 ,28-09-2002,Alm. Salg,106,8962,4,1973,
 306,Rækkehus,Stålhøjvej 11A,4550, Asnæs,775781 ,27-09-2002,Alm. Salg,72,10775,3,1988,
 306,Villa,Skovlyvej 1,4560, Vig,710000 ,27-09-2002,Alm. Salg,90,7889,4,1947,
-306,Rækkehus,Nørregade 3B,4534, Hørve,1471000 ,26-09-2002,Alm. Salg,143,10287,9,1900,
 306,Villa,Vandværksvej 3,4581, Rørvig,725000 ,26-09-2002,Alm. Salg,204,3554,6,1956,
 306,Villa,Møllebakken 6,4581, Rørvig,663643 ,26-09-2002,Fam. Salg,125,5309,4,1922,
-306,Villa,Nørregade 3C,4534, Hørve,1471000 ,26-09-2002,Alm. Salg,42,35024,1,1982,
 306,Villa,Ordrupvej 46,4540, Fårevejle,1200000 ,26-09-2002,Alm. Salg,285,4211,7,1902,
 306,Villa,Snebærvej 24,4540, Fårevejle,975000 ,25-09-2002,Alm. Salg,106,9198,4,1974,
 306,Villa,Stenstrupvej 29,4573, Højby,125000 ,24-09-2002,Alm. Salg,76,1645,5,1877,
@@ -10507,7 +10392,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Gl Nykøbingvej 87,4572, Nørre Asmindrup,1150000 ,08-04-2002,Alm. Salg,175,6571,3,1875,
 306,Villa,Soltoften 6,4560, Vig,422642 ,07-04-2002,Alm. Salg,133,3178,5,1925,
 306,Villa,Teglværksvangen 1,4540, Fårevejle,761327 ,07-04-2002,Alm. Salg,96,7930,3,1968,
-306,Villa,Trekanten 10D,4571, Grevinge,650000 ,06-04-2002,Fam. Salg,94,6915,4,1957,
 306,Villa,Mellemvangen 4B,4550, Asnæs,396975 ,06-04-2002,Andet,110,3609,3,1965,
 306,Villa,Trekanten 1,4571, Grevinge,325000 ,04-04-2002,Alm. Salg,76,4276,3,1954,
 306,Ejerlejlighed,"Asnæs Centret 28B, 2. 13",4550, Asnæs,736405 ,03-04-2002,Alm. Salg,66,11158,3,1990,
@@ -10603,8 +10487,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Østergade 15,4581, Rørvig,225000 ,06-02-2002,Alm. Salg,116,1940,3,2019,
 306,Villa,Gartnervænget 10,4571, Grevinge,819102 ,05-02-2002,Alm. Salg,100,8191,4,1960,
 306,Villa,Mosesvinget 1,4500, Nykøbing Sj,888150 ,05-02-2002,Alm. Salg,180,4934,6,1965,
-306,Ejerlejlighed,"Sneglerupvej 1, 1",4571, Grevinge,926114 ,04-02-2002,Alm. Salg,120,7718,5,1856,
-306,Villa,Sneglerupvej 1,4571, Grevinge,926114 ,04-02-2002,Alm. Salg,92,10066,6,1967,
 306,Villa,Kelstrupvej 13B,4560, Vig,500000 ,03-02-2002,Fam. Salg,140,3571,5,1920,
 306,Villa,Holtevej 3,4571, Grevinge,795000 ,02-02-2002,Alm. Salg,168,4732,5,1933,
 306,Villa,Granvænget 2,4550, Asnæs,870000 ,01-02-2002,Alm. Salg,120,7250,4,1971,
@@ -10641,14 +10523,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Strandgårdsvej 25,4540, Fårevejle,2075000 ,08-01-2002,Alm. Salg,250,8300,9,1927,
 306,Villa,Skolevænget 33,4571, Grevinge,931637 ,08-01-2002,Alm. Salg,149,6253,5,1963,
 306,Villa,Rørvigvej 98,4500, Nykøbing Sj,830858 ,08-01-2002,Alm. Salg,214,3883,6,1938,
-306,Ejerlejlighed,"Bagerstræde 1, 1. tv",4581, Rørvig,1600000 ,06-01-2002,Alm. Salg,80,20000,3,1942,
-306,Ejerlejlighed,"Bagerstræde 1, 1. th",4581, Rørvig,1600000 ,06-01-2002,Alm. Salg,57,28070,2,1942,
-306,Ejerlejlighed,"Smedestræde 2, st",4581, Rørvig,1600000 ,06-01-2002,Alm. Salg,87,18391,3,1942,
-306,Ejerlejlighed,"Bagerstræde 3B, st",4581, Rørvig,1600000 ,06-01-2002,Alm. Salg,66,24242,3,1942,
-306,Ejerlejlighed,"Bagerstræde 1, st. mf",4581, Rørvig,1600000 ,06-01-2002,Alm. Salg,80,20000,2,1942,
-306,Ejerlejlighed,"Bagerstræde 1, st. th",4581, Rørvig,1600000 ,06-01-2002,Alm. Salg,137,11679,2,1942,
-306,Ejerlejlighed,"Bagerstræde 1, 1. mf",4581, Rørvig,1600000 ,06-01-2002,Alm. Salg,87,18391,3,1942,
-306,Ejerlejlighed,"Bagerstræde 3, 1",4581, Rørvig,1600000 ,06-01-2002,Alm. Salg,78,20513,4,1942,
 306,Villa,Æble Alle 29,4500, Nykøbing Sj,120000 ,06-01-2002,Alm. Salg,169,710,5,2003,
 306,Villa,Dr Egedesvej 5,4500, Nykøbing Sj,765000 ,06-01-2002,Alm. Salg,100,7650,3,1955,
 306,Villa,Brydebakken 8,4500, Nykøbing Sj,995000 ,05-01-2002,Alm. Salg,148,6723,6,1972,
@@ -10771,7 +10645,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Rækkehus,Isørevej 111B,4581, Rørvig,1100000 ,21-10-2001,Alm. Salg,120,9167,3,1986,
 306,Villa,Tjørnevænget 1,4550, Asnæs,995000 ,21-10-2001,Alm. Salg,112,8884,4,1972,
 306,Villa,Digtervænget 2,4500, Nykøbing Sj,200000 ,21-10-2001,Alm. Salg,146,1370,4,2002,
-306,Villa,"Hovedgaden 15, st",4571, Grevinge,625000 ,21-10-2001,Alm. Salg,89,7022,3,1894,
 306,Villa,Lyngvej 10,4573, Højby,260000 ,20-10-2001,Alm. Salg,174,1494,5,1941,
 306,Rækkehus,Brydebakken 14A,4500, Nykøbing Sj,836610 ,19-10-2001,Alm. Salg,93,8996,3,2000,
 306,Villa,Bakkekammen 32,4550, Asnæs,1150000 ,19-10-2001,Alm. Salg,121,9504,4,1973,
@@ -11022,7 +10895,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Vej 10 Nr 1,4560, Vig,1261500 ,20-05-2001,Alm. Salg,128,9855,6,1999,
 306,Villa,Bakkebovej 1,4571, Grevinge,186767 ,20-05-2001,Alm. Salg,142,1315,3,1969,
 306,Villa,Sølvagervej 10,4534, Hørve,825000 ,20-05-2001,Alm. Salg,150,5500,4,1902,
-306,Villa,Ll Egebjergvej 11,4560, Vig,1010000 ,20-05-2001,Alm. Salg,187,5401,6,1916,
 306,Rækkehus,Tromsøvej 17,4500, Nykøbing Sj,557411 ,19-05-2001,Alm. Salg,55,10135,2,1981,
 306,Villa,Nyrupsvej 9,4534, Hørve,785675 ,19-05-2001,Alm. Salg,116,6773,4,1962,
 306,Villa,Askevænget 3,4550, Asnæs,650000 ,19-05-2001,Alm. Salg,171,3801,5,1977,
@@ -11069,7 +10941,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Grevinge Kanalvej 29,4571, Grevinge,1099248 ,01-05-2001,Alm. Salg,154,7138,3,1972,
 306,Villa,Fladehøj 8,4534, Hørve,783332 ,01-05-2001,Alm. Salg,91,8608,3,1977,
 306,Villa,Klintevej 5,4500, Nykøbing Sj,1383143 ,01-05-2001,Alm. Salg,160,8645,6,1900,
-306,Ejerlejlighed,"Ordrupvej 82A, 1",4540, Fårevejle,1744206 ,30-04-2001,Alm. Salg,92,18959,3,1906,
 306,Villa,Musikbyen 26,4573, Højby,762881 ,30-04-2001,Alm. Salg,109,6999,4,1980,
 306,Villa,Vangsbovej 7,4560, Vig,122500 ,30-04-2001,Alm. Salg,194,631,5,2003,
 306,Rækkehus,Hjortsvej 24,4500, Nykøbing Sj,532743 ,29-04-2001,Alm. Salg,71,7503,3,1983,
@@ -11220,9 +11091,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Rækkehus,Birkeparken 4,4540, Fårevejle,550000 ,29-01-2001,Alm. Salg,52,10577,2,1984,
 306,Villa,Sellen 7,4581, Rørvig,850000 ,29-01-2001,Alm. Salg,146,5822,7,1979,
 306,Villa,Vestergade 2,4571, Grevinge,600000 ,29-01-2001,Alm. Salg,116,5172,3,1947,
-306,Ejerlejlighed,"Sneglerupvej 1, 1",4571, Grevinge,790289 ,25-01-2001,Alm. Salg,120,6586,5,1856,
 306,Villa,Høvevej 34,4540, Fårevejle,1750000 ,25-01-2001,Alm. Salg,325,5385,7,1937,
-306,Villa,Sneglerupvej 1,4571, Grevinge,790289 ,25-01-2001,Alm. Salg,92,8590,6,1967,
 306,Villa,Chr. Hansensvej 10,4540, Fårevejle,950000 ,25-01-2001,Alm. Salg,117,8120,4,1990,
 306,Villa,Maglemosevej 3,4540, Fårevejle,1042514 ,23-01-2001,Alm. Salg,173,6026,6,1880,
 306,Rækkehus,Granlyvej 3B,4540, Fårevejle,558737 ,22-01-2001,Alm. Salg,81,6898,3,1980,
@@ -11267,7 +11136,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Kirkebjerg 4,4572, Nørre Asmindrup,919000 ,20-12-2000,Alm. Salg,140,6564,5,1974,
 306,Villa,Nørrevangsvej 26,4581, Rørvig,650000 ,20-12-2000,Alm. Salg,184,3533,6,1930,
 306,Villa,Ny Holbækvej 19,4571, Grevinge,700000 ,20-12-2000,Alm. Salg,111,6306,3,1880,
-306,Villa,"Toldbodvej 55, 1",4581, Rørvig,1600000 ,20-12-2000,Alm. Salg,76,21053,3,1880,
 306,Villa,Vardøvej 3,4573, Højby,927073 ,20-12-2000,Alm. Salg,163,5688,6,1971,
 306,Villa,Isefjordsvej 15,4500, Nykøbing Sj,739787 ,20-12-2000,Fam. Salg,89,8312,4,1960,
 306,Villa,Toftegårdsvej 61,4550, Asnæs,793356 ,20-12-2000,Alm. Salg,152,5219,6,1953,
@@ -11498,7 +11366,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Tunøvej 8,4500, Nykøbing Sj,165000 ,09-08-2000,Alm. Salg,171,965,5,2002,
 306,Villa,Kingosvej 1,4500, Nykøbing Sj,593120 ,09-08-2000,Alm. Salg,120,4943,4,1850,
 306,Rækkehus,Sejerøvej 4B,4500, Nykøbing Sj,579000 ,08-08-2000,Alm. Salg,60,9650,3,1983,
-306,Villa,Borrevangsvej 2,4573, Højby,45540 ,08-08-2000,Alm. Salg,165,276,6,2014,
 306,Villa,Byhaven 5,4571, Grevinge,795000 ,08-08-2000,Alm. Salg,161,4938,6,1973,
 306,Rækkehus,Hasselvej 25,4540, Fårevejle,560000 ,07-08-2000,Alm. Salg,80,7000,3,1976,
 306,Villa,Brøndstræde 4,4581, Rørvig,1070000 ,07-08-2000,Alm. Salg,145,7379,3,1777,
@@ -11744,12 +11611,10 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Præstevænget 13,4560, Vig,677140 ,01-04-2000,Alm. Salg,96,7054,3,1964,
 306,Villa,Præstebjergvej 15,4540, Fårevejle,680000 ,31-03-2000,Alm. Salg,100,6800,4,1975,
 306,Villa,Læsøvej 16,4500, Nykøbing Sj,662298 ,31-03-2000,Fam. Salg,120,5519,4,1978,
-306,Rækkehus,Hørve Kirkevej 1C,4534, Hørve,1694769 ,30-03-2000,Andet,242,4258,7,1870,
 306,Rækkehus,Elmebakken 7,4550, Asnæs,433857 ,30-03-2000,Alm. Salg,51,8507,2,1978,
 306,Villa,Vangsbovej 10,4560, Vig,75000 ,30-03-2000,Alm. Salg,160,469,6,2008,
 306,Ejerlejlighed,"Algade 45, 1",4500, Nykøbing Sj,1169875 ,28-03-2000,Alm. Salg,75,15598,3,1890,
 306,Villa,Remisevej 10,4500, Nykøbing Sj,651145 ,28-03-2000,Alm. Salg,117,5565,5,1953,
-306,Villa,Kingosvej 4C,4500, Nykøbing Sj,665000 ,28-03-2000,Alm. Salg,129,5155,4,1920,
 306,Rækkehus,Brydebakken 26A,4500, Nykøbing Sj,209999 ,27-03-2000,Fam. Salg,96,2187,4,1979,
 306,Villa,Egebjerg Hovedgade 17,4500, Nykøbing Sj,490000 ,27-03-2000,Alm. Salg,96,5104,4,1944,
 306,Villa,Rugvænget 15,4550, Asnæs,713999 ,27-03-2000,Andet,185,3859,4,1973,
@@ -11788,7 +11653,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Kildestræde 50,4500, Nykøbing Sj,75000 ,09-03-2000,Alm. Salg,51,1471,1,2015,
 306,Villa,Hybenvej 8,4540, Fårevejle,759213 ,08-03-2000,Alm. Salg,100,7592,4,1966,
 306,Villa,Snebærvej 24,4540, Fårevejle,730000 ,07-03-2000,Alm. Salg,106,6887,4,1974,
-306,Villa,Oddenvej 90A,4500, Nykøbing Sj,675000 ,07-03-2000,Alm. Salg,175,3857,6,1969,
 306,Villa,Byvænget 1,4571, Grevinge,1010867 ,07-03-2000,Alm. Salg,191,5292,6,1870,
 306,Rækkehus,Rørvigvej 146B,4500, Nykøbing Sj,645000 ,05-03-2000,Alm. Salg,90,7167,3,1948,
 306,Villa,Klintvej 73A,4500, Nykøbing Sj,4720000 ,05-03-2000,Alm. Salg,240,19667,6,1970,
@@ -11838,7 +11702,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Nordgårdsvej 14,4500, Nykøbing Sj,380721 ,07-02-2000,Alm. Salg,202,1885,5,1962,
 306,Villa,Toftegårdsvej 65,4550, Asnæs,625000 ,07-02-2000,Alm. Salg,86,7267,4,1952,
 306,Villa,Færgevej 4,4571, Grevinge,110000 ,07-02-2000,Alm. Salg,174,632,6,1905,
-306,Rækkehus,Klintevej 8,4500, Nykøbing Sj,550000 ,06-02-2000,Alm. Salg,68,8088,2,1895,
 306,Villa,Merianvej 3,4573, Højby,460000 ,06-02-2000,Alm. Salg,158,2911,5,1976,
 306,Villa,Vallekildevej 139,4534, Hørve,325210 ,06-02-2000,Alm. Salg,54,6022,2,1940,
 306,Rækkehus,Birkeparken 32,4540, Fårevejle,256670 ,04-02-2000,Alm. Salg,69,3720,3,1987,
@@ -11930,7 +11793,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Ellingevej 23,4573, Højby,1792900 ,30-11-1999,Alm. Salg,156,11493,7,1850,
 306,Ejerlejlighed,Hesseløvej 24,4500, Nykøbing Sj,315000 ,29-11-1999,Alm. Salg,70,4500,3,1900,
 306,Villa,Adelers Alle 163,4534, Hørve,2670000 ,28-11-1999,Alm. Salg,79,33797,4,1973,
-306,Villa,Oddenvej 90A,4500, Nykøbing Sj,2200000 ,28-11-1999,Alm. Salg,175,12571,6,1969,
 306,Villa,Apotekerstræde 1,4550, Asnæs,830000 ,25-11-1999,Fam. Salg,133,6241,4,1971,
 306,Villa,Rosenparken 4,4500, Nykøbing Sj,747000 ,25-11-1999,Alm. Salg,104,7183,4,1977,
 306,Villa,Nordstrandsvej 118,4500, Nykøbing Sj,370000 ,24-11-1999,Alm. Salg,92,4022,4,1962,
@@ -12077,7 +11939,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Ll Egebjergvej 1B,4560, Vig,659609 ,29-08-1999,Alm. Salg,139,4745,6,1951,
 306,Villa,Møllevej 18,4560, Vig,507441 ,27-08-1999,Alm. Salg,105,4833,3,1900,
 306,Villa,Vallekildevej 19A,4534, Hørve,458000 ,25-08-1999,Alm. Salg,63,7270,2,1956,
-306,Villa,Rødhøj 72A,4571, Grevinge,974014 ,25-08-1999,Alm. Salg,176,5534,4,1905,
 306,Villa,Lynghusene 24,4571, Grevinge,377980 ,25-08-1999,Alm. Salg,120,3150,5,1900,
 306,Villa,Gl Nykøbingvej 130,4573, Højby,717939 ,25-08-1999,Alm. Salg,83,8650,5,1966,
 306,Villa,Bødkervej 7,4560, Vig,325174 ,24-08-1999,Alm. Salg,116,2803,4,1931,
@@ -12185,8 +12046,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Elmkær 85,4534, Hørve,715000 ,24-06-1999,Alm. Salg,128,5586,4,1975,
 306,Villa,Vindekilde Strandvej 46,4540, Fårevejle,1600000 ,24-06-1999,Alm. Salg,160,10000,3,1877,
 306,Villa,Klintvej 135,4500, Nykøbing Sj,1120000 ,23-06-1999,Alm. Salg,215,5209,7,1877,
-306,Rækkehus,Fasanalle 2,4500, Nykøbing Sj,483000 ,22-06-1999,Alm. Salg,96,5031,2,1960,
-306,Ejerlejlighed,"Vesterbro 56, 1",4500, Nykøbing Sj,483000 ,22-06-1999,Alm. Salg,50,9660,2,1930,
 306,Villa,Skolelodden 16,4581, Rørvig,1250060 ,21-06-1999,Alm. Salg,234,5342,7,1969,
 306,Villa,Klintvej 95,4500, Nykøbing Sj,421000 ,21-06-1999,Alm. Salg,95,4432,3,1938,
 306,Villa,Rørvigvej 75,4500, Nykøbing Sj,563590 ,21-06-1999,Alm. Salg,91,6193,4,1955,
@@ -12212,14 +12071,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Sølvagervej 41,4534, Hørve,504000 ,12-06-1999,Fam. Salg,113,4460,4,1959,
 306,Villa,Kingosvej 60,4500, Nykøbing Sj,550000 ,12-06-1999,Alm. Salg,114,4825,4,1965,
 306,Rækkehus,Solbakken 18,4583, Sjællands Odde,450000 ,11-06-1999,Alm. Salg,70,6429,3,1979,
-306,Ejerlejlighed,"Bagerstræde 1, 1. tv",4581, Rørvig,1000000 ,10-06-1999,Alm. Salg,80,12500,3,1942,
-306,Ejerlejlighed,"Bagerstræde 1, 1. th",4581, Rørvig,1000000 ,10-06-1999,Alm. Salg,57,17544,2,1942,
-306,Ejerlejlighed,"Smedestræde 2, st",4581, Rørvig,1000000 ,10-06-1999,Alm. Salg,87,11494,3,1942,
-306,Ejerlejlighed,"Bagerstræde 3B, st",4581, Rørvig,1000000 ,10-06-1999,Alm. Salg,66,15152,3,1942,
-306,Ejerlejlighed,"Bagerstræde 1, st. mf",4581, Rørvig,1000000 ,10-06-1999,Alm. Salg,80,12500,2,1942,
-306,Ejerlejlighed,"Bagerstræde 1, st. th",4581, Rørvig,1000000 ,10-06-1999,Alm. Salg,137,7299,2,1942,
-306,Ejerlejlighed,"Bagerstræde 1, 1. mf",4581, Rørvig,1000000 ,10-06-1999,Alm. Salg,87,11494,3,1942,
-306,Ejerlejlighed,"Bagerstræde 3, 1",4581, Rørvig,1000000 ,10-06-1999,Alm. Salg,78,12821,4,1942,
 306,Rækkehus,Digevej 5B,4581, Rørvig,645772 ,09-06-1999,Alm. Salg,78,8279,3,1998,
 306,Villa,Willemoesvej 12,4583, Sjællands Odde,515000 ,09-06-1999,Alm. Salg,124,4153,4,1960,
 306,Villa,Søvej 32,4540, Fårevejle,127944 ,09-06-1999,Alm. Salg,78,1640,3,1956,
@@ -12518,7 +12369,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Nygårdsvej 1C,4573, Højby,562720 ,06-12-1998,Alm. Salg,101,5571,3,1913,
 306,Villa,Engvang 1,4500, Nykøbing Sj,587415 ,06-12-1998,Alm. Salg,126,4662,5,1959,
 306,Villa,Lindegårdsbakken 2,4500, Nykøbing Sj,155000 ,05-12-1998,Alm. Salg,119,1303,4,1999,
-306,Rækkehus,Jernbanevej 11D,4500, Nykøbing Sj,1090626 ,03-12-1998,Alm. Salg,55,19830,1,1950,
 306,Villa,Nørremarksvej 2,4560, Vig,470251 ,03-12-1998,Alm. Salg,120,3919,3,1902,
 306,Villa,Rådhusvej 27,4550, Asnæs,195500 ,03-12-1998,Fam. Salg,128,1527,3,1877,
 306,Villa,Annebjerg Stræde 11,4500, Nykøbing Sj,425816 ,02-12-1998,Alm. Salg,77,5530,3,1963,
@@ -12551,8 +12401,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Gl Nykøbingvej 101,4572, Nørre Asmindrup,423000 ,15-11-1998,Alm. Salg,141,3000,3,1900,
 306,Villa,Atteruphuse 5,4571, Grevinge,1112540 ,15-11-1998,Alm. Salg,170,6544,5,1750,
 306,Villa,Bagerstræde 5,4581, Rørvig,1050000 ,14-11-1998,Alm. Salg,243,4321,7,1970,
-306,Ejerlejlighed,"Sneglerupvej 1, 1",4571, Grevinge,700000 ,13-11-1998,Alm. Salg,120,5833,5,1856,
-306,Villa,Sneglerupvej 1,4571, Grevinge,700000 ,13-11-1998,Alm. Salg,92,7609,6,1967,
 306,Rækkehus,Birkeparken 30,4540, Fårevejle,536000 ,12-11-1998,Alm. Salg,67,8000,3,1990,
 306,Villa,Østerlyngvej 10,4500, Nykøbing Sj,203157 ,12-11-1998,Alm. Salg,122,1665,4,1937,
 306,Villa,Kirkebjerg 17,4572, Nørre Asmindrup,690000 ,12-11-1998,Alm. Salg,131,5267,4,1979,
@@ -12569,8 +12417,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Rækkehus,Granlyvej 3A,4540, Fårevejle,520092 ,04-11-1998,Alm. Salg,81,6421,3,1980,
 306,Villa,Østervangsvej 4,4534, Hørve,300000 ,04-11-1998,Alm. Salg,100,3000,3,1936,
 306,Rækkehus,Sølvagervej 33,4534, Hørve,326000 ,02-11-1998,Alm. Salg,53,6151,2,1974,
-306,Ejerlejlighed,"Sneglerupvej 1, 1",4571, Grevinge,71000 ,02-11-1998,Fam. Salg,120,592,5,1856,
-306,Villa,Sneglerupvej 1,4571, Grevinge,71000 ,02-11-1998,Fam. Salg,92,772,6,1967,
 306,Villa,Hovedgaden 6A,4571, Grevinge,175000 ,02-11-1998,Alm. Salg,64,2734,2,1962,
 306,Villa,Kelstrupvej 30,4560, Vig,300000 ,02-11-1998,Alm. Salg,84,3571,3,1900,
 306,Villa,Rådhusvej 34,4540, Fårevejle,985000 ,01-11-1998,Alm. Salg,188,5239,4,1990,
@@ -13165,8 +13011,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Maglevænget 21,4571, Grevinge,750000 ,01-12-1997,Alm. Salg,120,6250,4,1979,
 306,Villa,Lærkevej 6,4581, Rørvig,702000 ,30-11-1997,Alm. Salg,124,5661,4,1965,
 306,Villa,Elmkær 34,4534, Hørve,768000 ,30-11-1997,Alm. Salg,123,6244,5,1977,
-306,Ejerlejlighed,"Sneglerupvej 1, 1",4571, Grevinge,650000 ,27-11-1997,Alm. Salg,120,5417,5,1856,
-306,Villa,Sneglerupvej 1,4571, Grevinge,650000 ,27-11-1997,Alm. Salg,92,7065,6,1967,
 306,Villa,Hovedgaden 11A,4571, Grevinge,366000 ,27-11-1997,Alm. Salg,125,2928,5,1910,
 306,Villa,Skovlyvej 9,4581, Rørvig,165000 ,27-11-1997,Alm. Salg,183,902,7,1999,
 306,Villa,Møllebakken 23,4581, Rørvig,400000 ,26-11-1997,Alm. Salg,160,2500,4,1998,
@@ -13243,7 +13087,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Askehaven 55,4500, Nykøbing Sj,1053000 ,25-10-1997,Alm. Salg,273,3857,9,1952,
 306,Villa,Sct Georgs Vej 17,4500, Nykøbing Sj,1131000 ,25-10-1997,Alm. Salg,152,7441,6,1982,
 306,Villa,Holbækvej 79,4560, Vig,223064 ,24-10-1997,Fam. Salg,130,1716,3,1892,
-306,Villa,Rødhøj 72A,4571, Grevinge,1082000 ,24-10-1997,Alm. Salg,176,6148,4,1905,
 306,Villa,Søndergade 21,4534, Hørve,147567 ,23-10-1997,Fam. Salg,139,1062,5,1877,
 306,Villa,Skovløbervej 10,4571, Grevinge,370000 ,21-10-1997,Fam. Salg,156,2372,4,1940,
 306,Villa,Burvænget 13,4500, Nykøbing Sj,462000 ,21-10-1997,Alm. Salg,200,2310,5,1897,
@@ -13259,8 +13102,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Rækkehus,Lindebjerg 2C,4534, Hørve,580000 ,16-10-1997,Alm. Salg,88,6591,3,1999,
 306,Villa,Oldhøj 6,4500, Nykøbing Sj,626663 ,16-10-1997,Alm. Salg,110,5697,3,1967,
 306,Villa,Fjordvænget 6,4581, Rørvig,794020 ,16-10-1997,Alm. Salg,189,4201,7,1924,
-306,Rækkehus,"Holstensvejen 28, st. th",4534, Hørve,1360962 ,15-10-1997,Alm. Salg,181,7519,4,1939,
-306,Villa,Holstensvejen 28,4534, Hørve,1360962 ,15-10-1997,Alm. Salg,111,12261,5,1939,
 306,Villa,Hasselvænget 9,4550, Asnæs,993427 ,15-10-1997,Alm. Salg,155,6409,5,1980,
 306,Villa,Gelstrupvej 16,4500, Nykøbing Sj,294295 ,13-10-1997,Alm. Salg,102,2885,3,1964,
 306,Villa,H P Hansensvej 11,4500, Nykøbing Sj,802132 ,12-10-1997,Alm. Salg,104,7713,4,1960,
@@ -13703,7 +13544,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Højskolevej 1,4534, Hørve,375000 ,06-02-1997,Alm. Salg,114,3289,5,1895,
 306,Villa,Højby Hovedgade 65B,4573, Højby,584995 ,05-02-1997,Alm. Salg,135,4333,4,1900,
 306,Villa,Lyngvej 50,4573, Højby,498000 ,04-02-1997,Alm. Salg,230,2165,6,1922,
-306,Rækkehus,Hørve Kirkevej 1C,4534, Hørve,442791 ,03-02-1997,Andet,242,1113,7,1870,
 306,Villa,Vesterbro 62,4500, Nykøbing Sj,480000 ,03-02-1997,Alm. Salg,136,3529,4,1928,
 306,Villa,Bjergesøvej 28,4534, Hørve,160000 ,03-02-1997,Alm. Salg,113,1416,5,1900,
 306,Villa,Fårevejle Kanalvej 16,4540, Fårevejle,278005 ,02-02-1997,Alm. Salg,117,2376,5,1952,
@@ -13759,7 +13599,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Brændtvej 5,4572, Nørre Asmindrup,320585 ,29-12-1996,Alm. Salg,102,3143,4,1914,
 306,Villa,Egemosevej 20,4571, Grevinge,490018 ,29-12-1996,Alm. Salg,150,3267,6,1925,
 306,Villa,Østre Havnevej 27,4583, Sjællands Odde,412730 ,27-12-1996,Alm. Salg,128,3224,3,1950,
-306,Rækkehus,Ringholm 8,4500, Nykøbing Sj,1550000 ,26-12-1996,Fam. Salg,56,27679,3,1877,
 306,Villa,Lyngtoftevej 20,4560, Vig,581500 ,26-12-1996,Alm. Salg,148,3929,3,1950,
 306,Villa,Elmkær 93,4534, Hørve,732741 ,26-12-1996,Alm. Salg,125,5862,4,1973,
 306,Villa,Fårevejle Møllevej 4,4540, Fårevejle,464493 ,22-12-1996,Alm. Salg,122,3807,4,1961,
@@ -13775,7 +13614,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Rørvigvej 20,4500, Nykøbing Sj,650000 ,18-12-1996,Alm. Salg,115,5652,5,1954,
 306,Villa,Storøhagevej 34B,4540, Fårevejle,1162500 ,18-12-1996,Alm. Salg,120,9688,4,1900,
 306,Villa,Bøgevænget 5,4540, Fårevejle,277354 ,17-12-1996,Alm. Salg,143,1940,4,1973,
-306,Villa,"Toldbodvej 55, 1",4581, Rørvig,1400000 ,17-12-1996,Alm. Salg,76,18421,3,1880,
 306,Villa,Isørevej 93,4581, Rørvig,140000 ,17-12-1996,Alm. Salg,178,787,5,1998,
 306,Villa,Kokkevang 2E,4500, Nykøbing Sj,191150 ,16-12-1996,Alm. Salg,81,2360,4,1877,
 306,Villa,Gl Nykøbingvej 74,4572, Nørre Asmindrup,475000 ,16-12-1996,Alm. Salg,175,2714,6,1930,
@@ -13792,7 +13630,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Klintevej 7,4500, Nykøbing Sj,620550 ,09-12-1996,Alm. Salg,134,4631,5,1915,
 306,Rækkehus,Brydebakken 26A,4500, Nykøbing Sj,398000 ,08-12-1996,Fam. Salg,96,4146,4,1979,
 306,Villa,Lyder Høyersvej 21,4571, Grevinge,543500 ,08-12-1996,Alm. Salg,127,4280,4,1974,
-306,Villa,"Toldbodvej 55, 1",4581, Rørvig,1216834 ,08-12-1996,Alm. Salg,76,16011,3,1880,
 306,Villa,Kollekollevej 8,4572, Nørre Asmindrup,450500 ,06-12-1996,Alm. Salg,194,2322,6,1897,
 306,Villa,Vænget 9,4571, Grevinge,405000 ,05-12-1996,Alm. Salg,102,3971,3,1962,
 306,Villa,Bodøvej 1,4573, Højby,778840 ,05-12-1996,Alm. Salg,146,5335,5,1974,
@@ -14218,9 +14055,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Søren Andreasensvej 10,4540, Fårevejle,592500 ,25-04-1996,Alm. Salg,143,4143,5,1970,
 306,Villa,Åstoftevej 76,4550, Asnæs,474922 ,25-04-1996,Alm. Salg,140,3392,4,1887,
 306,Villa,Ægholmvej 2,4534, Hørve,1300000 ,25-04-1996,Alm. Salg,325,4000,6,2018,
-306,Ejerlejlighed,"Vallekildevej 3, 1",4534, Hørve,945000 ,24-04-1996,Alm. Salg,86,10988,3,1907,
-306,Ejerlejlighed,"Vallekildevej 3, 2",4534, Hørve,945000 ,24-04-1996,Alm. Salg,95,9947,2,1907,
-306,Ejerlejlighed,"Hørve Møllevej 2B, st",4534, Hørve,945000 ,24-04-1996,Alm. Salg,84,11250,4,1907,
 306,Villa,Vikæret 16,4534, Hørve,690000 ,24-04-1996,Alm. Salg,97,7113,4,1993,
 306,Villa,Søndervangsvej 12,4583, Sjællands Odde,220000 ,24-04-1996,Alm. Salg,130,1692,4,1926,
 306,Villa,Egebjergvej 232B,4500, Nykøbing Sj,601437 ,24-04-1996,Alm. Salg,112,5370,4,1984,
@@ -14245,7 +14079,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Dahlerupsvej 1,4583, Sjællands Odde,557000 ,18-04-1996,Alm. Salg,124,4492,4,1969,
 306,Villa,Højby Hovedgade 85,4573, Højby,383500 ,18-04-1996,Alm. Salg,113,3394,5,1955,
 306,Villa,Søndergade 22,4534, Hørve,250000 ,18-04-1996,Alm. Salg,106,2358,3,1948,
-306,Villa,Toldbodvej 53,4581, Rørvig,870152 ,18-04-1996,Alm. Salg,120,7251,4,1900,
 306,Rækkehus,Musikbyen 7,4573, Højby,455000 ,15-04-1996,Alm. Salg,92,4946,3,1981,
 306,Rækkehus,Forskodderne 5A,4500, Nykøbing Sj,620000 ,15-04-1996,Alm. Salg,89,6966,4,1987,
 306,Rækkehus,Granlyvej 3C,4540, Fårevejle,439821 ,14-04-1996,Alm. Salg,81,5430,3,1980,
@@ -14338,7 +14171,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Vallekildevej 188,4534, Hørve,122000 ,20-02-1996,Alm. Salg,35,3486,2,1870,
 306,Villa,Maglevænget 25,4571, Grevinge,301000 ,19-02-1996,Auktion,149,2020,5,1979,
 306,Rækkehus,"Rønnehøjvej 1, st. th",4560, Vig,400000 ,18-02-1996,Alm. Salg,84,4762,4,1968,
-306,Rækkehus,"Algade 4, st. th",4500, Nykøbing Sj,1700000 ,18-02-1996,Alm. Salg,65,26154,2,1902,
 306,Villa,Vallekildevej 28B,4534, Hørve,226800 ,18-02-1996,Alm. Salg,56,4050,3,1947,
 306,Villa,Søndergade 30,4534, Hørve,290000 ,18-02-1996,Fam. Salg,95,3053,3,1934,
 306,Villa,Kirsebærhaven 2,4571, Grevinge,665000 ,17-02-1996,Alm. Salg,180,3694,5,1979,
@@ -14428,8 +14260,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Oddenvej 76,4500, Nykøbing Sj,438992 ,15-12-1995,Fam. Salg,63,6968,4,1939,
 306,Rækkehus,Skamlebækvej 19,4540, Fårevejle,288311 ,14-12-1995,Alm. Salg,98,2942,4,1948,
 306,Rækkehus,Skamlebækvej 33,4540, Fårevejle,375517 ,14-12-1995,Alm. Salg,134,2802,4,1930,
-306,Ejerlejlighed,Rådhusvej 6B,4550, Asnæs,753706 ,14-12-1995,Alm. Salg,99,7613,3,1924,
-306,Villa,Rådhusvej 6A,4550, Asnæs,753706 ,14-12-1995,Alm. Salg,73,10325,2,1924,
 306,Rækkehus,Sølvagervej 13,4534, Hørve,538120 ,13-12-1995,Alm. Salg,115,4679,5,1988,
 306,Villa,Vallekildevej 163,4534, Hørve,338800 ,13-12-1995,Alm. Salg,57,5944,4,1897,
 306,Villa,Egegårdsvej 24,4572, Nørre Asmindrup,545000 ,12-12-1995,Alm. Salg,172,3169,4,1978,
@@ -14722,9 +14552,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Kelstruphøj 21,4560, Vig,275000 ,13-07-1995,Alm. Salg,103,2670,5,1981,
 306,Villa,Annebjerg Stræde 11,4500, Nykøbing Sj,295000 ,13-07-1995,Alm. Salg,77,3831,3,1963,
 306,Villa,Møllevej 28,4560, Vig,640000 ,13-07-1995,Alm. Salg,160,3855,6,1924,
-306,Ejerlejlighed,"Vallekildevej 7, 1",4534, Hørve,296845 ,12-07-1995,Alm. Salg,90,3298,3,1901,
-306,Ejerlejlighed,"Vallekildevej 7, st. tv",4534, Hørve,296845 ,12-07-1995,Alm. Salg,65,4567,2,1901,
-306,Ejerlejlighed,Hørve Møllevej 4,4534, Hørve,296845 ,12-07-1995,Alm. Salg,41,7240,1,1901,
 306,Villa,Skaverupvej 8,4572, Nørre Asmindrup,615000 ,11-07-1995,Alm. Salg,88,6989,4,1777,
 306,Villa,Gl Nykøbingvej 183,4573, Højby,560000 ,10-07-1995,Alm. Salg,168,3333,5,1902,
 306,Villa,Rosmarinvej 2,4573, Højby,595000 ,10-07-1995,Alm. Salg,128,4648,4,1975,
@@ -14827,7 +14654,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Oddenvej 107,4500, Nykøbing Sj,398000 ,24-05-1995,Alm. Salg,181,2199,6,1936,
 306,Villa,Kirkebakken 3,4534, Hørve,233800 ,23-05-1995,Alm. Salg,192,1218,6,1825,
 306,Villa,Skolevænget 35,4571, Grevinge,465060 ,23-05-1995,Alm. Salg,130,3577,3,1965,
-306,Rækkehus,Hørve Kirkevej 1C,4534, Hørve,975000 ,22-05-1995,Alm. Salg,242,2450,7,1870,
 306,Villa,Ordrupvej 36,4540, Fårevejle,390000 ,22-05-1995,Alm. Salg,157,2484,8,1900,
 306,Villa,Højvang 6,4500, Nykøbing Sj,590000 ,22-05-1995,Alm. Salg,121,4876,4,1968,
 306,Villa,Nordre Kanalvej 33,4550, Asnæs,695000 ,20-05-1995,Alm. Salg,160,4344,4,1907,
@@ -14892,7 +14718,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Hasselvej 31,4540, Fårevejle,300000 ,19-04-1995,Fam. Salg,166,1807,7,1973,
 306,Villa,Elmkær 56,4534, Hørve,790000 ,19-04-1995,Alm. Salg,190,4158,5,1972,
 306,Villa,Tengslemarkvej 7,4573, Højby,325000 ,19-04-1995,Alm. Salg,95,3421,4,1930,
-306,Villa,Ll Egebjergvej 11,4560, Vig,610000 ,17-04-1995,Alm. Salg,187,3262,6,1916,
 306,Villa,Stenstrupvej 14A,4573, Højby,420000 ,14-04-1995,Alm. Salg,158,2658,7,1954,
 306,Villa,Rømøvej 3,4500, Nykøbing Sj,125000 ,12-04-1995,Alm. Salg,142,880,5,1995,
 306,Villa,Egebjergvej 190,4500, Nykøbing Sj,375000 ,11-04-1995,Alm. Salg,107,3505,3,1912,
@@ -15506,7 +15331,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Lyngvej 83,4573, Højby,195183 ,10-04-1994,Alm. Salg,81,2410,4,1943,
 306,Villa,Lyngvej 163,4560, Vig,350000 ,07-04-1994,Alm. Salg,79,4430,3,1942,
 306,Villa,Kelstrupvej 26,4560, Vig,421000 ,07-04-1994,Alm. Salg,260,1619,8,1837,
-306,Villa,Kildestræde 9,4500, Nykøbing Sj,250000 ,07-04-1994,Alm. Salg,33,7576,1,1796,
 306,Rækkehus,Samsøvej 14,4500, Nykøbing Sj,475000 ,06-04-1994,Alm. Salg,76,6250,3,1981,
 306,Villa,Prejlerupvej 8,4571, Grevinge,523631 ,06-04-1994,Alm. Salg,151,3468,5,1931,
 306,Villa,Nykøbingvej 166,4571, Grevinge,415000 ,05-04-1994,Alm. Salg,77,5390,4,1890,
@@ -15636,7 +15460,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Ejerlejlighed,Skovgårdsvænget 4,4573, Højby,751899 ,09-01-1994,Auktion,76,9893,2,1800,
 306,Villa,Mellemvangen 9,4550, Asnæs,345000 ,09-01-1994,Alm. Salg,181,1906,5,1962,
 306,Villa,Østergade 5,4571, Grevinge,380000 ,07-01-1994,Alm. Salg,182,2088,5,1923,
-306,Villa,Toldbodvej 53,4581, Rørvig,735000 ,05-01-1994,Alm. Salg,120,6125,4,1900,
 306,Rækkehus,Stålhøjvej 13B,4550, Asnæs,150000 ,04-01-1994,Auktion,70,2143,3,1988,
 306,Villa,Toftegårdsvej 31,4550, Asnæs,310000 ,04-01-1994,Alm. Salg,137,2263,5,1904,
 306,Villa,Ellinge Skovvej 1,4573, Højby,191529 ,02-01-1994,Alm. Salg,116,1651,3,1937,
@@ -15702,9 +15525,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Granvejen 20,4540, Fårevejle,625000 ,30-10-1993,Alm. Salg,106,5896,4,1982,
 306,Villa,Skamlebækvej 24,4540, Fårevejle,1110704 ,30-10-1993,Alm. Salg,300,3702,9,1779,
 306,Villa,Gl Nykøbingvej 106,4572, Nørre Asmindrup,205000 ,30-10-1993,Alm. Salg,88,2330,3,1897,
-306,Rækkehus,"Holstensvejen 28, st. th",4534, Hørve,950000 ,29-10-1993,Alm. Salg,181,5249,4,1939,
 306,Villa,Nykøbing-Slagelsevej 12,4560, Vig,435000 ,29-10-1993,Fam. Salg,175,2486,6,1877,
-306,Villa,Holstensvejen 28,4534, Hørve,950000 ,29-10-1993,Alm. Salg,111,8559,5,1939,
 306,Villa,Oddenvej 292,4583, Sjællands Odde,317600 ,29-10-1993,Alm. Salg,200,1588,5,1912,
 306,Villa,Sidingevej 35,4560, Vig,444500 ,29-10-1993,Alm. Salg,170,2615,7,1925,
 306,Villa,Vinkelvej 16,4540, Fårevejle,449590 ,29-10-1993,Alm. Salg,115,3909,4,1963,
@@ -15855,7 +15676,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Rosenvej 6,4540, Fårevejle,325000 ,29-08-1993,Alm. Salg,131,2481,6,1969,
 306,Villa,Kærsangervej 6,4581, Rørvig,400000 ,29-08-1993,Alm. Salg,115,3478,3,1969,
 306,Villa,Oldhøjvænget 7,4500, Nykøbing Sj,450000 ,29-08-1993,Alm. Salg,116,3879,5,1979,
-306,Villa,"Vallekildevej 129B, 1",4534, Hørve,517828 ,29-08-1993,Alm. Salg,105,4932,5,1905,
 306,Villa,Galbuen 15,4500, Nykøbing Sj,275000 ,27-08-1993,Alm. Salg,90,3056,4,1885,
 306,Villa,Bøssebjerg 6,4500, Nykøbing Sj,1249263 ,27-08-1993,Alm. Salg,149,5731,3,1900,
 306,Villa,Thyherredvej 22,4500, Nykøbing Sj,245000 ,25-08-1993,Alm. Salg,90,2722,4,1857,
@@ -15993,7 +15813,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Højvang 6,4500, Nykøbing Sj,580000 ,11-06-1993,Alm. Salg,121,4793,4,1968,
 306,Villa,Lyngvej 56,4573, Højby,337569 ,10-06-1993,Alm. Salg,135,2501,6,1900,
 306,Rækkehus,Søvej 12H,4540, Fårevejle,325000 ,09-06-1993,Alm. Salg,77,4221,3,1981,
-306,Rækkehus,Lindealle 14,4500, Nykøbing Sj,588428 ,09-06-1993,Alm. Salg,96,6129,3,1675,
 306,Villa,På Højen 1,4534, Hørve,560000 ,09-06-1993,Alm. Salg,130,4308,4,1990,
 306,Villa,Sølvagervej 18,4500, Nykøbing Sj,290000 ,09-06-1993,Alm. Salg,104,2788,3,1912,
 306,Villa,Åsvej 24,4540, Fårevejle,1562500 ,09-06-1993,Alm. Salg,230,6793,5,1972,
@@ -16088,7 +15907,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Askehaven 20,4500, Nykøbing Sj,234156 ,14-04-1993,Fam. Salg,195,1201,6,1958,
 306,Villa,Nygårdsvej 10,4573, Højby,470000 ,14-04-1993,Alm. Salg,196,2398,9,1900,
 306,Villa,Sidinge Fjordvej 5,4560, Vig,680000 ,14-04-1993,Alm. Salg,245,2776,7,1939,
-306,Villa,Toldbodvej 53,4581, Rørvig,695946 ,14-04-1993,Alm. Salg,120,5800,4,1900,
 306,Villa,Sellen 7,4581, Rørvig,595000 ,12-04-1993,Alm. Salg,146,4075,7,1979,
 306,Villa,Yderbygade 12,4583, Sjællands Odde,210000 ,09-04-1993,Alm. Salg,63,3333,3,1924,
 306,Villa,Egebjergvej 124,4500, Nykøbing Sj,400000 ,09-04-1993,Alm. Salg,134,2985,5,1952,
@@ -16463,7 +16281,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Rækkehus,Bakkedraget 34,4534, Hørve,295000 ,09-07-1992,Alm. Salg,88,3352,3,1977,
 306,Villa,Vandværksvej 15,4581, Rørvig,515000 ,09-07-1992,Alm. Salg,117,4402,4,1972,
 306,Villa,Egebjergvej 170,4500, Nykøbing Sj,218100 ,09-07-1992,Alm. Salg,68,3207,3,1959,
-306,Villa,Egemosevej 23A,4571, Grevinge,425000 ,09-07-1992,Alm. Salg,269,1580,9,1925,
 306,Rækkehus,Stærgårdsparken 8,4550, Asnæs,465000 ,08-07-1992,Alm. Salg,92,5054,3,1977,
 306,Villa,Egemosevej 12,4571, Grevinge,398000 ,08-07-1992,Alm. Salg,130,3062,5,1953,
 306,Villa,Engmosevej 11,4500, Nykøbing Sj,600000 ,08-07-1992,Alm. Salg,157,3822,5,1948,
@@ -16568,9 +16385,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 306,Villa,Kingosvej 43,4500, Nykøbing Sj,450000 ,15-05-1992,Alm. Salg,118,3814,4,1964,
 306,Villa,Æble Alle 8,4500, Nykøbing Sj,530000 ,14-05-1992,Alm. Salg,175,3029,6,1981,
 306,Villa,Bytoftevej 11,4560, Vig,650000 ,13-05-1992,Alm. Salg,171,3801,7,1972,
-306,Rækkehus,Nørregade 3B,4534, Hørve,332186 ,12-05-1992,Fam. Salg,143,2323,9,1900,
 306,Villa,Benzonsvej 3,4540, Fårevejle,320000 ,12-05-1992,Fam. Salg,85,3765,3,1964,
-306,Villa,Nørregade 3C,4534, Hørve,332186 ,12-05-1992,Fam. Salg,42,7909,1,1982,
 306,Villa,Højby Hovedgade 98,4573, Højby,340000 ,12-05-1992,Alm. Salg,80,4250,3,1900,
 306,Villa,Oddenvej 366,4583, Sjællands Odde,335000 ,12-05-1992,Alm. Salg,120,2792,4,1877,
 306,Rækkehus,Fjordstien 19,4500, Nykøbing Sj,295000 ,10-05-1992,Alm. Salg,55,5364,2,1983,

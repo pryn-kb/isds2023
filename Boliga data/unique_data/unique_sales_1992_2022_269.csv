@@ -193,8 +193,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 269,Ejerlejlighed,Maglekæret 40E,2680, Solrød Strand,2200000 ,01-05-2022,Alm. Salg,76,28947,3,1986,-4%
 269,Villa,Vestre Strandvej 19,2680, Solrød Strand,1200000 ,01-05-2022,Andet,98,9756,5,1954,
 269,Ejerlejlighed,"Solrød Center 65, 1. mf",2680, Solrød Strand,2695000 ,28-04-2022,Alm. Salg,83,32470,4,1988,
-269,Rækkehus,Trylleskov Allé 52,2680, Solrød Strand,4725000 ,26-04-2022,Alm. Salg,131,36069,4,2017,-1%
-269,Villa,Askevænget 4,2680, Solrød Strand,4725000 ,26-04-2022,Alm. Salg,147,32143,4,1963,
 269,Rækkehus,Maglekæret 31B,2680, Solrød Strand,3200000 ,25-04-2022,Alm. Salg,104,30769,4,1986,-3%
 269,Rækkehus,Jordbærhaven 44,2680, Solrød Strand,3195000 ,24-04-2022,Alm. Salg,126,25357,5,1975,
 269,Villa,Janesvej 4,2680, Solrød Strand,5250000 ,24-04-2022,Alm. Salg,185,28378,6,1996,
@@ -1169,7 +1167,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 269,Villa,Vibevej 4,2680, Solrød Strand,2700000 ,09-07-2020,Alm. Salg,117,23077,5,1961,-2%
 269,Villa,Kystvej 5,2680, Solrød Strand,7400000 ,09-07-2020,Alm. Salg,213,34742,7,1994,-1%
 269,Rækkehus,Kildebo 19,4622, Havdrup,1950000 ,08-07-2020,Alm. Salg,96,20313,3,2000,-2%
-269,Villa,Stigårdsvej 1,2680, Solrød Strand,3850000 ,08-07-2020,Alm. Salg,105,36667,4,1986,-3%
 269,Villa,Lille Lyngvej 5,2680, Solrød Strand,4200000 ,08-07-2020,Alm. Salg,120,35000,4,1999,
 269,Rækkehus,Ranunkelvangen 23,2680, Solrød Strand,2300000 ,06-07-2020,Alm. Salg,108,21296,4,1968,-6%
 269,Villa,Hindbærhaven 17,2680, Solrød Strand,3775000 ,06-07-2020,Alm. Salg,157,24045,6,1969,-3%
@@ -1558,10 +1555,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 269,Rækkehus,Skibsager 173,2680, Solrød Strand,3575000 ,21-08-2019,Alm. Salg,130,27500,3,2020,
 269,Rækkehus,Majsmarken 27,2680, Solrød Strand,2500000 ,21-08-2019,Alm. Salg,112,22321,4,1975,-4%
 269,Ejerlejlighed,"Egeparken 31B, 1. tv",2680, Solrød Strand,1850000 ,21-08-2019,Alm. Salg,70,26429,2,1970,-2%
-269,Ejerlejlighed,Åmarken 2C,4623, Lille Skensved,2129250 ,21-08-2019,Fam. Salg,243,8762,5,1988,
 269,Villa,Aspevej 16,2680, Solrød Strand,3775000 ,21-08-2019,Alm. Salg,185,20405,6,1970,-6%
 269,Villa,Stigårdsvej 9,2680, Solrød Strand,5595000 ,21-08-2019,Alm. Salg,250,22380,9,1970,
-269,Villa,Åmarken 2,4623, Lille Skensved,2129250 ,21-08-2019,Fam. Salg,253,8416,10,1917,
 269,Rækkehus,Bryggerivej 1G,4622, Havdrup,2895000 ,20-08-2019,Alm. Salg,111,26081,3,2019,
 269,Villa,Lodden 2,2680, Solrød Strand,2450000 ,20-08-2019,Alm. Salg,158,15506,5,1962,-6%
 269,Villa,Solsikkemarken 14,2680, Solrød Strand,3400000 ,18-08-2019,Alm. Salg,163,20859,5,1969,
@@ -1729,7 +1724,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 269,Villa,Tjørnehegnet 12,2680, Solrød Strand,3525000 ,14-04-2019,Alm. Salg,137,25730,4,1977,-1%
 269,Villa,Maglekærvej 1,2680, Solrød Strand,3100000 ,13-04-2019,Alm. Salg,119,26050,4,1984,-3%
 269,Villa,Birkevej 8,2680, Solrød Strand,6575000 ,13-04-2019,Alm. Salg,189,34788,5,2014,-3%
-269,Villa,Jersie Strandvej 101,2680, Solrød Strand,3500000 ,11-04-2019,Alm. Salg,140,25000,5,1900,
 269,Villa,Lærkevej 21,2680, Solrød Strand,6500000 ,11-04-2019,Alm. Salg,185,35135,6,2008,
 269,Villa,Maglekærvej 2,2680, Solrød Strand,3460000 ,09-04-2019,Alm. Salg,152,22763,5,1954,-1%
 269,Villa,Kystvej 10,2680, Solrød Strand,7294330 ,09-04-2019,Fam. Salg,259,28163,7,1997,
@@ -2633,7 +2627,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 269,Villa,Majsmarken 8,2680, Solrød Strand,2975000 ,09-07-2017,Alm. Salg,155,19194,3,1970,-1%
 269,Rækkehus,Klosterparken 40,2680, Solrød Strand,2350000 ,08-07-2017,Alm. Salg,146,16096,6,1973,
 269,Rækkehus,Skibsager 111,2680, Solrød Strand,2750000 ,06-07-2017,Alm. Salg,109,25229,3,0,
-269,Villa,Ulvevej 19,4622, Havdrup,1574400 ,06-07-2017,Fam. Salg,94,12697,4,1978,
 269,Villa,Den Lille Gade 15,2680, Solrød Strand,3600000 ,06-07-2017,Alm. Salg,152,23684,5,2017,-5%
 269,Villa,Drosselvej 14,2680, Solrød Strand,4995000 ,05-07-2017,Alm. Salg,162,30833,6,1934,
 269,Rækkehus,Trylleskov Allé 54,2680, Solrød Strand,3195000 ,03-07-2017,Alm. Salg,131,24389,4,2017,
@@ -2745,8 +2738,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 269,Rækkehus,Troldmands Allé 65,2680, Solrød Strand,3648145 ,24-04-2017,Alm. Salg,134,27225,5,2017,3%
 269,Rækkehus,Kildebo 33,4622, Havdrup,1750000 ,23-04-2017,Alm. Salg,92,19022,3,2000,
 269,Rækkehus,Strandgården 87,2680, Solrød Strand,1895000 ,22-04-2017,Alm. Salg,116,16336,4,1982,
-269,Villa,Østre Frihedsvej 13B,2680, Solrød Strand,4250000 ,20-04-2017,Alm. Salg,215,19767,5,0,-1%
-269,Rækkehus,Østre Frihedsvej 13B,2680, Solrød Strand,4250000 ,20-04-2017,Alm. Salg,215,19767,6,0,-1%
 269,Rækkehus,Litorinaparken 80,2680, Solrød Strand,2075000 ,20-04-2017,Alm. Salg,112,18527,4,1974,-1%
 269,Rækkehus,Trylleskov Allé 48,2680, Solrød Strand,3295000 ,19-04-2017,Alm. Salg,135,24407,4,2017,
 269,Ejerlejlighed,"Akacieparken 10B, 2. 24",2680, Solrød Strand,1495000 ,18-04-2017,Alm. Salg,61,24508,2,1975,
@@ -3099,10 +3090,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 269,Villa,Præstevænget 2,2680, Solrød Strand,2225000 ,14-07-2016,Alm. Salg,210,10595,8,1962,-7%
 269,Ejerlejlighed,"Elmelyparken 6A, 1. tv",2680, Solrød Strand,1225000 ,13-07-2016,Alm. Salg,69,17754,2,1972,-5%
 269,Ejerlejlighed,"Elmelyparken 6C, 2. mf",2680, Solrød Strand,520000 ,13-07-2016,Alm. Salg,38,13684,1,1972,
-269,Rækkehus,Litorinaparken 124,2680, Solrød Strand,2250000 ,12-07-2016,Alm. Salg,112,20089,4,1974,-2%
 269,Villa,Aspevej 6,2680, Solrød Strand,3000000 ,12-07-2016,Alm. Salg,184,16304,8,1987,-3%
 269,Villa,Østre Strandvej 11,2680, Solrød Strand,4100000 ,12-07-2016,Alm. Salg,135,30370,6,1997,-3%
-269,Villa,Birkeengen 16,2680, Solrød Strand,2250000 ,12-07-2016,Alm. Salg,133,16917,5,1967,
 269,Rækkehus,Vasegården 41,2680, Solrød Strand,2300000 ,11-07-2016,Alm. Salg,120,19167,4,1979,-2%
 269,Rækkehus,Trylleskov Allé 89,2680, Solrød Strand,2795000 ,09-07-2016,Alm. Salg,115,24304,4,2016,
 269,Rækkehus,Vasegården 19,2680, Solrød Strand,2350000 ,09-07-2016,Alm. Salg,120,19583,4,1979,-2%
@@ -3184,7 +3173,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 269,Villa,Kvædehaven 8,2680, Solrød Strand,2945000 ,05-05-2016,Alm. Salg,135,21815,4,1968,
 269,Villa,Græshave Alle 5,4622, Havdrup,2250000 ,03-05-2016,Alm. Salg,157,14331,5,1983,-2%
 269,Rækkehus,"Hindbærhaven 5, st. 3",2680, Solrød Strand,850000 ,02-05-2016,Auktion,44,19318,1,1967,
-269,Villa,Stjernevænget 10,2680, Solrød Strand,2795000 ,02-05-2016,Alm. Salg,120,19683,5,1972,
 269,Villa,Stjernevænget 4,2680, Solrød Strand,3895000 ,30-04-2016,Alm. Salg,182,21401,5,1969,
 269,Villa,Bygmarken 11,2680, Solrød Strand,2245000 ,28-04-2016,Alm. Salg,115,19522,4,1981,
 269,Rækkehus,Litorinaparken 168,2680, Solrød Strand,897695 ,27-04-2016,Andet,112,8015,3,1974,
@@ -3477,8 +3465,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 269,Villa,Moseagervej 21,2680, Solrød Strand,2600000 ,08-09-2015,Alm. Salg,152,17105,4,1973,-4%
 269,Villa,Niels Juelsvej 16,2680, Solrød Strand,6000000 ,08-09-2015,Alm. Salg,212,28302,6,1989,
 269,Villa,Solrød Strandvej 8,2680, Solrød Strand,2300000 ,08-09-2015,Alm. Salg,132,17424,4,1960,-8%
-269,Rækkehus,Litorinaparken 30,2680, Solrød Strand,1750000 ,07-09-2015,Alm. Salg,118,14831,5,1971,
-269,Villa,Vestre Grænsevej 1,2680, Solrød Strand,1750000 ,07-09-2015,Alm. Salg,90,19444,4,1934,-5%
 269,Villa,Lyngagervej 10,2680, Solrød Strand,2370000 ,06-09-2015,Alm. Salg,175,13543,6,1966,-9%
 269,Villa,Plantagevej 2,2680, Solrød Strand,2200000 ,03-09-2015,Alm. Salg,90,24444,2,1952,-12%
 269,Villa,Møllebakken 23,2680, Solrød Strand,1025000 ,02-09-2015,Alm. Salg,159,6447,7,2016,-7%
@@ -3599,8 +3585,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 269,Villa,Holmehusvej 5,2680, Solrød Strand,3500000 ,02-06-2015,Alm. Salg,179,19553,6,1963,
 269,Villa,Vestre Strandvej 8,2680, Solrød Strand,3500000 ,01-06-2015,Alm. Salg,118,29661,4,1953,-5%
 269,Rækkehus,Litorinaparken 153,2680, Solrød Strand,1950000 ,31-05-2015,Alm. Salg,112,17411,4,1973,-2%
-269,Rækkehus,Hyldeblomsthaven 19,4622, Havdrup,1995000 ,31-05-2015,Alm. Salg,111,17973,4,2016,
-269,Villa,Tyreløkke 8,4622, Havdrup,1995000 ,31-05-2015,Alm. Salg,134,14888,5,1980,
 269,Rækkehus,Hyldeblomsthaven 33,4622, Havdrup,1941472 ,30-05-2015,Alm. Salg,95,20437,3,2016,
 269,Villa,Stigårdsvej 25,2680, Solrød Strand,3900000 ,30-05-2015,Alm. Salg,163,23926,6,1970,-7%
 269,Ejerlejlighed,"Egeparken 33B, 2. tv",2680, Solrød Strand,1375000 ,29-05-2015,Alm. Salg,101,13614,4,1970,-2%
@@ -4677,9 +4661,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 269,Villa,Solrød Strandvej 40A,2680, Solrød Strand,2850000 ,12-04-2012,Alm. Salg,152,18750,5,1986,-5%
 269,Villa,Karlstrupvej 75,2680, Solrød Strand,1258500 ,11-04-2012,Fam. Salg,139,9054,5,1997,
 269,Ejerlejlighed,Fåreager 48,2680, Solrød Strand,1995000 ,10-04-2012,Alm. Salg,103,19369,4,2013,
-269,Rækkehus,Vasegården 14,2680, Solrød Strand,2150000 ,09-04-2012,Alm. Salg,120,17917,4,1979,-5%
 269,Ejerlejlighed,Fåreager 52,2680, Solrød Strand,1995000 ,09-04-2012,Alm. Salg,103,19369,4,2013,
-269,Villa,Østre Grænsevej 10,2680, Solrød Strand,2150000 ,09-04-2012,Alm. Salg,133,16165,4,2005,
 269,Rækkehus,Solsikkemarken 25,2680, Solrød Strand,1850000 ,07-04-2012,Alm. Salg,106,17453,3,1971,-7%
 269,Villa,Åvej 8B,2680, Solrød Strand,1111000 ,06-04-2012,Fam. Salg,181,6138,6,1972,
 269,Villa,Engvej 11B,2680, Solrød Strand,3600000 ,02-04-2012,Alm. Salg,135,24324,6,1998,-6%
@@ -5125,9 +5107,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 269,Villa,Ulvelunden 46,4622, Havdrup,2650000 ,27-06-2010,Alm. Salg,118,22458,4,1999,
 269,Villa,Ellevej 21,2680, Solrød Strand,5050000 ,24-06-2010,Alm. Salg,203,24877,5,2012,-16%
 269,Villa,Skovvej 38,4622, Havdrup,1075000 ,24-06-2010,Andet,166,6476,5,1998,
-269,Rækkehus,"Nordmarksvej 10, st",2680, Solrød Strand,7500000 ,22-06-2010,Alm. Salg,231,32468,5,1911,
 269,Ejerlejlighed,"Kildeager 5, 1",2680, Solrød Strand,2050000 ,22-06-2010,Alm. Salg,104,19712,6,1984,
-269,Villa,Nordmarksvej 10,2680, Solrød Strand,7500000 ,22-06-2010,Alm. Salg,208,36058,5,1911,
 269,Ejerlejlighed,Maglekæret 28A,2680, Solrød Strand,1525000 ,21-06-2010,Alm. Salg,73,20890,3,1986,
 269,Villa,Bækparken 19,4622, Havdrup,1750000 ,21-06-2010,Auktion,136,12868,4,1971,-12%
 269,Villa,Kratvænget 16,4622, Havdrup,2000000 ,20-06-2010,Alm. Salg,151,13245,5,1966,-9%
@@ -5410,9 +5390,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 269,Villa,Kalkværksvej 4A,2690, Karlslunde,3046700 ,02-06-2009,Auktion,171,17817,7,1742,
 269,Rækkehus,Klosterparken 24,2680, Solrød Strand,1037500 ,31-05-2009,Andet,140,7411,5,1973,
 269,Rækkehus,Stenløkke 20,4622, Havdrup,2157188 ,31-05-2009,Fam. Salg,112,19261,4,1979,
-269,Ejerlejlighed,"Egeparken 33C, st. th",2680, Solrød Strand,1200000 ,31-05-2009,Fam. Salg,105,11429,4,1970,
 269,Villa,Engvænget 1,4622, Havdrup,2550000 ,31-05-2009,Fam. Salg,111,22973,4,1963,
-269,Villa,Græsmarken 3,2680, Solrød Strand,1200000 ,31-05-2009,Fam. Salg,228,5263,6,1961,
 269,Villa,Engstien 1,2680, Solrød Strand,1610000 ,31-05-2009,Alm. Salg,172,9360,5,2019,-5%
 269,Rækkehus,Emmermarken 12,2680, Solrød Strand,1770000 ,28-05-2009,Auktion,110,16091,4,1975,-28%
 269,Ejerlejlighed,"Akacieparken 9B, 2. 46",2680, Solrød Strand,1000000 ,26-05-2009,Alm. Salg,49,20408,2,1975,-15%
@@ -5502,10 +5480,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 269,Villa,Parkvænget 12,2680, Solrød Strand,11200000 ,18-01-2009,Alm. Salg,547,20475,6,1996,
 269,Rækkehus,Boghvedemarken 34,2680, Solrød Strand,2275000 ,15-01-2009,Alm. Salg,112,20313,4,1977,
 269,Ejerlejlighed,"Solrød Center 113, 3",2680, Solrød Strand,3750000 ,12-01-2009,Alm. Salg,167,22455,5,2005,
-269,Ejerlejlighed,Åmarken 2C,4623, Lille Skensved,12600000 ,11-01-2009,Alm. Salg,243,51852,5,1988,
 269,Villa,Byløkke 14,4622, Havdrup,1100000 ,11-01-2009,Alm. Salg,134,8209,5,1978,
 269,Villa,Søndre Strandvej 18B,2680, Solrød Strand,4595000 ,11-01-2009,Alm. Salg,186,24704,6,2005,
-269,Villa,Åmarken 2,4623, Lille Skensved,12600000 ,11-01-2009,Alm. Salg,253,49802,10,1917,
 269,Villa,Lindevænget 2,2680, Solrød Strand,2800000 ,10-01-2009,Alm. Salg,151,18543,4,1973,-7%
 269,Rækkehus,Litorinaparken 138,2680, Solrød Strand,1725000 ,06-01-2009,Alm. Salg,112,15402,4,1974,
 269,Villa,Bakkelund 38,4622, Havdrup,3995000 ,01-01-2009,Alm. Salg,244,16373,7,2005,
@@ -5556,8 +5532,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 269,Villa,Engvej 9,2680, Solrød Strand,1355500 ,12-10-2008,Andet,169,8021,7,1962,
 269,Villa,Birkeengen 25,2680, Solrød Strand,2300000 ,11-10-2008,Alm. Salg,133,17293,6,1967,-18%
 269,Rækkehus,Litorinaparken 167,2680, Solrød Strand,1047359 ,09-10-2008,Alm. Salg,112,9351,4,1974,
-269,Rækkehus,"Nordmarksvej 10, st",2680, Solrød Strand,8000000 ,08-10-2008,Fam. Salg,231,34632,5,1911,
-269,Villa,Nordmarksvej 10,2680, Solrød Strand,8000000 ,08-10-2008,Fam. Salg,208,38462,5,1911,
 269,Ejerlejlighed,"Solrød Center 122, 1. tv",2680, Solrød Strand,2645000 ,07-10-2008,Alm. Salg,93,28441,2,2005,
 269,Villa,Ved Volden 12,2680, Solrød Strand,2100000 ,05-10-2008,Alm. Salg,171,12281,5,2011,-16%
 269,Villa,Ahornvænget 9,2680, Solrød Strand,2520000 ,04-10-2008,Alm. Salg,117,21538,4,1971,-10%
@@ -5735,9 +5709,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 269,Villa,Vibevænget 9,2680, Solrød Strand,3800000 ,30-01-2008,Alm. Salg,171,22222,3,1969,
 269,Rækkehus,Kildemarken 69,4622, Havdrup,2245000 ,29-01-2008,Alm. Salg,122,18402,5,1979,-2%
 269,Villa,Vestre Odinsvej 10,2680, Solrød Strand,3370000 ,29-01-2008,Alm. Salg,148,22770,5,1963,-11%
-269,Rækkehus,"Nordmarksvej 10, st",2680, Solrød Strand,8000000 ,28-01-2008,Alm. Salg,231,34632,5,1911,
 269,Rækkehus,Klosterparken 39,2680, Solrød Strand,2595000 ,28-01-2008,Alm. Salg,146,17774,6,1973,-2%
-269,Villa,Nordmarksvej 10,2680, Solrød Strand,8000000 ,28-01-2008,Alm. Salg,208,38462,5,1911,
 269,Villa,Nyvej 1,2680, Solrød Strand,2335000 ,28-01-2008,Alm. Salg,126,18532,4,1968,-14%
 269,Rækkehus,Boghvedemarken 33,2680, Solrød Strand,800000 ,24-01-2008,Alm. Salg,114,7018,5,1977,
 269,Villa,Blommehaven 8,2680, Solrød Strand,2300000 ,21-01-2008,Alm. Salg,176,13068,6,1969,
@@ -6307,8 +6279,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 269,Ejerlejlighed,Maglekæret 34E,2680, Solrød Strand,1875000 ,05-03-2006,Alm. Salg,76,24671,3,1986,
 269,Villa,Havremarken 4A,2680, Solrød Strand,3350000 ,04-03-2006,Alm. Salg,115,29130,5,1995,
 269,Rækkehus,Jordbærhaven 54,2680, Solrød Strand,2100000 ,03-03-2006,Alm. Salg,122,17213,5,1975,
-269,Rækkehus,Litorinaparken 90,2680, Solrød Strand,1995000 ,01-03-2006,Alm. Salg,110,18136,4,1973,
-269,Ejerlejlighed,Maglekæret 10D,2680, Solrød Strand,1995000 ,01-03-2006,Alm. Salg,109,18303,4,1986,
 269,Villa,Sallevvej 7,4622, Havdrup,3075000 ,01-03-2006,Alm. Salg,183,16803,7,1938,
 269,Rækkehus,Præstestræde 9A,4622, Havdrup,1428000 ,28-02-2006,Alm. Salg,74,19297,3,2006,
 269,Villa,Brunellevangen 14,2680, Solrød Strand,3195000 ,28-02-2006,Alm. Salg,174,18362,5,1969,
@@ -6652,9 +6622,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 269,Rækkehus,Maglekæret 33B,2680, Solrød Strand,2295000 ,07-08-2005,Alm. Salg,104,22067,4,1986,
 269,Rækkehus,"Hindbærhaven 5, st. 12",2680, Solrød Strand,1200000 ,07-08-2005,Alm. Salg,44,27273,1,1967,
 269,Ejerlejlighed,"Solrød Center 111, 1. th",2680, Solrød Strand,2151000 ,07-08-2005,Alm. Salg,96,22406,2,2005,
-269,Ejerlejlighed,Maglekæret 28E,2680, Solrød Strand,2100000 ,07-08-2005,Alm. Salg,96,21875,4,1986,
 269,Villa,Tjørnehegnet 28,2680, Solrød Strand,3295000 ,07-08-2005,Alm. Salg,153,21536,4,1974,
-269,Villa,Borrevænget 4,2680, Solrød Strand,2100000 ,07-08-2005,Alm. Salg,103,20388,4,1984,
 269,Villa,Bryggerivej 11,4622, Havdrup,931182 ,06-08-2005,Alm. Salg,113,8241,4,1954,
 269,Rækkehus,Kildemarken 56,4622, Havdrup,1342000 ,03-08-2005,Andet,122,11000,6,1979,
 269,Ejerlejlighed,"Elmelyparken 6A, st. th",2680, Solrød Strand,1350000 ,03-08-2005,Alm. Salg,75,18000,2,1972,
@@ -6664,9 +6632,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 269,Rækkehus,Grønløkke 17,4622, Havdrup,1650000 ,02-08-2005,Alm. Salg,113,14602,4,1979,
 269,Rækkehus,Grønløkke 44,4622, Havdrup,1695000 ,01-08-2005,Alm. Salg,109,15550,4,1979,
 269,Villa,Stjernevænget 15,2680, Solrød Strand,3250000 ,01-08-2005,Alm. Salg,136,23897,5,1970,
-269,Rækkehus,"Nordmarksvej 10, st",2680, Solrød Strand,4800000 ,30-07-2005,Alm. Salg,231,20779,5,1911,
 269,Ejerlejlighed,Maglekæret 8C,2680, Solrød Strand,1525000 ,30-07-2005,Alm. Salg,73,20890,3,1986,
-269,Villa,Nordmarksvej 10,2680, Solrød Strand,4800000 ,30-07-2005,Alm. Salg,208,23077,5,1911,
 269,Ejerlejlighed,"Solrød Center 111, 2. tv",2680, Solrød Strand,2052000 ,29-07-2005,Alm. Salg,92,22304,2,2005,
 269,Villa,Mågevej 16,2680, Solrød Strand,2469000 ,29-07-2005,Alm. Salg,429,5755,7,2020,
 269,Ejerlejlighed,Maglekæret 39E,2680, Solrød Strand,1595000 ,28-07-2005,Alm. Salg,85,18765,4,1986,
@@ -7170,8 +7136,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 269,Villa,Fyrrevej 3,2680, Solrød Strand,1550000 ,14-07-2004,Alm. Salg,168,9226,5,2018,
 269,Villa,Strandhaven 4,2680, Solrød Strand,2895000 ,13-07-2004,Alm. Salg,164,17652,5,2001,
 269,Villa,Peyronsvej 14,2680, Solrød Strand,4300000 ,12-07-2004,Alm. Salg,244,17623,7,1973,
-269,Rækkehus,Hasselvej 2B,4622, Havdrup,1575000 ,11-07-2004,Alm. Salg,92,17120,3,2004,
-269,Villa,Engløkke 2,4622, Havdrup,1575000 ,11-07-2004,Alm. Salg,131,12023,5,1921,
 269,Villa,Hørmarken 5,2680, Solrød Strand,750000 ,09-07-2004,Fam. Salg,188,3989,7,1975,
 269,Rækkehus,Litorinaparken 49,2680, Solrød Strand,1550000 ,06-07-2004,Alm. Salg,112,13839,4,1974,
 269,Rækkehus,Litorinaparken 55,2680, Solrød Strand,1595000 ,05-07-2004,Alm. Salg,112,14241,4,1974,
@@ -7439,7 +7403,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 269,Villa,Strandtoften 5,2680, Solrød Strand,1450000 ,03-02-2004,Alm. Salg,128,11328,3,1967,
 269,Ejerlejlighed,Maglekæret 3C,2680, Solrød Strand,1370000 ,02-02-2004,Alm. Salg,109,12569,3,1986,
 269,Ejerlejlighed,"Egeparken 31D, 3. mf",2680, Solrød Strand,765000 ,02-02-2004,Alm. Salg,38,20132,1,1970,
-269,Villa,Ulvevej 19,4622, Havdrup,636000 ,02-02-2004,Alm. Salg,94,5129,4,1978,
 269,Villa,Fåreløkke 27,4622, Havdrup,1725000 ,01-02-2004,Alm. Salg,134,12873,5,1979,
 269,Rækkehus,Litorinaparken 62,2680, Solrød Strand,1495000 ,31-01-2004,Alm. Salg,112,13348,4,1974,
 269,Villa,Strandengen 6,2680, Solrød Strand,2946884 ,31-01-2004,Alm. Salg,144,20464,5,1999,
@@ -8986,8 +8949,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 269,Villa,Tjørnholmvej 21E,2680, Solrød Strand,595000 ,09-10-2000,Alm. Salg,105,5667,3,2001,
 269,Villa,Møllebakken 8,2680, Solrød Strand,1652820 ,08-10-2000,Alm. Salg,126,13118,4,1963,
 269,Ejerlejlighed,Maglekæret 28E,2680, Solrød Strand,1095559 ,06-10-2000,Alm. Salg,96,11412,4,1986,
-269,Rækkehus,"Nordmarksvej 10, st",2680, Solrød Strand,1500000 ,05-10-2000,Fam. Salg,231,6494,5,1911,
-269,Villa,Nordmarksvej 10,2680, Solrød Strand,1500000 ,05-10-2000,Fam. Salg,208,7212,5,1911,
 269,Villa,Jersie Strandvej 23,2680, Solrød Strand,2200000 ,04-10-2000,Alm. Salg,198,11111,8,1954,
 269,Villa,Janesvej 10,2680, Solrød Strand,1276000 ,04-10-2000,Alm. Salg,113,11292,4,1959,
 269,Rækkehus,Kildemarken 75,4622, Havdrup,1296980 ,03-10-2000,Alm. Salg,122,10631,5,1979,
@@ -9187,9 +9148,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 269,Villa,Elmevej 1A,4622, Havdrup,1223365 ,11-06-2000,Alm. Salg,164,7460,5,1909,
 269,Villa,Vinkelvej 21,4622, Havdrup,1624999 ,11-06-2000,Alm. Salg,162,10031,7,1911,
 269,Villa,Ahornvænget 10,2680, Solrød Strand,1764680 ,11-06-2000,Alm. Salg,145,12170,5,1984,
-269,Rækkehus,Vasegården 34,2680, Solrød Strand,1275000 ,09-06-2000,Alm. Salg,120,10625,4,1979,
 269,Villa,Brunellevangen 11,2680, Solrød Strand,1600000 ,09-06-2000,Alm. Salg,181,8840,6,1967,
-269,Villa,Rismarken 1,2680, Solrød Strand,1275000 ,09-06-2000,Fam. Salg,185,6892,4,1970,
 269,Villa,Gyvelvej 4,2680, Solrød Strand,2500000 ,08-06-2000,Alm. Salg,184,13587,6,2000,
 269,Villa,Brunellevangen 9,2680, Solrød Strand,1905284 ,08-06-2000,Alm. Salg,172,8945,9,1968,
 269,Villa,Huginsvej 19,2680, Solrød Strand,678305 ,08-06-2000,Alm. Salg,229,2962,5,2017,
@@ -9645,8 +9604,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 269,Villa,Havremarken 10,2680, Solrød Strand,1582963 ,09-06-1999,Alm. Salg,191,8288,6,1970,
 269,Villa,Lyngvej 13,2680, Solrød Strand,695000 ,08-06-1999,Alm. Salg,143,4860,5,2001,
 269,Rækkehus,Grønløkke 7,4622, Havdrup,1131529 ,04-06-1999,Alm. Salg,112,10103,4,1979,
-269,Rækkehus,Duevej 1. d,2680, Solrød Strand,1825000 ,01-06-1999,Alm. Salg,60,30417,1,1950,
-269,Ejerlejlighed,"Duevej 1, 1. c",2680, Solrød Strand,1825000 ,01-06-1999,Alm. Salg,98,18622,5,1947,
 269,Villa,Irisvej 8A,2680, Solrød Strand,1724642 ,01-06-1999,Alm. Salg,200,8623,6,2020,
 269,Villa,Agervænget 2,4622, Havdrup,1215854 ,31-05-1999,Alm. Salg,92,13216,3,1965,
 269,Villa,Torøgelvej 7,2680, Solrød Strand,1632000 ,30-05-1999,Alm. Salg,185,8822,5,1966,
@@ -9921,7 +9878,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 269,Villa,Østre Grænsevej 37,2680, Solrød Strand,2661180 ,09-11-1998,Alm. Salg,164,16227,3,1986,
 269,Villa,Fåreløkke 8,4622, Havdrup,1321020 ,08-11-1998,Alm. Salg,134,9858,5,1979,
 269,Rækkehus,Litorinaparken 83,2680, Solrød Strand,1038000 ,07-11-1998,Alm. Salg,110,9436,4,1973,
-269,Villa,Ulvevej 19,4622, Havdrup,1858481 ,05-11-1998,Alm. Salg,94,14988,4,1978,
 269,Villa,Akacievangen 11,4622, Havdrup,1395045 ,04-11-1998,Alm. Salg,187,7460,7,1986,
 269,Ejerlejlighed,"Egeparken 31C, st. tv",2680, Solrød Strand,662000 ,01-11-1998,Alm. Salg,89,7438,3,1970,
 269,Villa,Vestre Uglevej 5,2680, Solrød Strand,1200000 ,31-10-1998,Alm. Salg,197,6091,7,1936,
@@ -10078,8 +10034,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 269,Villa,Vinmarken 8,2680, Solrød Strand,1401880 ,14-06-1998,Alm. Salg,150,9346,4,1972,
 269,Rækkehus,Grønløkke 34,4622, Havdrup,936800 ,13-06-1998,Alm. Salg,109,8594,4,1979,
 269,Villa,Ellevej 6,2680, Solrød Strand,2082500 ,13-06-1998,Andet,180,11569,6,1995,
-269,Villa,Østre Frihedsvej 13B,2680, Solrød Strand,2265000 ,11-06-1998,Alm. Salg,215,10535,5,0,
-269,Rækkehus,Østre Frihedsvej 13B,2680, Solrød Strand,2265000 ,11-06-1998,Alm. Salg,215,10535,6,0,
 269,Villa,Hedevænget 2,4622, Havdrup,862340 ,11-06-1998,Alm. Salg,170,5073,6,1965,
 269,Villa,Birkegaardsalle 18,2680, Solrød Strand,776000 ,10-06-1998,Alm. Salg,109,7119,5,2004,
 269,Villa,Nyvej 1A,2680, Solrød Strand,1435400 ,10-06-1998,Alm. Salg,132,10874,3,1964,
@@ -11023,10 +10977,8 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 269,Villa,Svenstrupvang 6,4622, Havdrup,1360900 ,19-08-1996,Alm. Salg,167,8149,5,1975,
 269,Villa,Åvej 5,2680, Solrød Strand,1740000 ,19-08-1996,Alm. Salg,142,12254,6,1997,
 269,Ejerlejlighed,"Egeparken 31B, 1. tv",2680, Solrød Strand,462000 ,18-08-1996,Alm. Salg,70,6600,2,1970,
-269,Ejerlejlighed,Åmarken 2C,4623, Lille Skensved,3000000 ,18-08-1996,Alm. Salg,243,12346,5,1988,
 269,Villa,Koglevej 1,2680, Solrød Strand,1222000 ,18-08-1996,Alm. Salg,110,11109,3,1985,
 269,Villa,Slåenvænget 12,2680, Solrød Strand,519000 ,18-08-1996,Fam. Salg,110,4718,4,1970,
-269,Villa,Åmarken 2,4623, Lille Skensved,3000000 ,18-08-1996,Alm. Salg,253,11858,10,1917,
 269,Villa,Ved Volden 15,2680, Solrød Strand,425000 ,14-08-1996,Alm. Salg,176,2415,6,1997,
 269,Villa,Skovvej 34,4622, Havdrup,909750 ,14-08-1996,Alm. Salg,121,7519,4,1961,
 269,Villa,Vestre Grænsevej 35A,2680, Solrød Strand,375000 ,13-08-1996,Alm. Salg,151,2483,6,1997,
@@ -11153,9 +11105,7 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 269,Villa,Klitvej 9,2680, Solrød Strand,520000 ,03-06-1996,Fam. Salg,143,3636,4,1973,
 269,Villa,Mellemvang 5,2680, Solrød Strand,1324080 ,02-06-1996,Alm. Salg,180,7356,6,1972,
 269,Villa,Holmevænget 7,2680, Solrød Strand,1245361 ,02-06-1996,Alm. Salg,128,9729,4,1966,
-269,Rækkehus,Ranunkelvangen 6,2680, Solrød Strand,850000 ,31-05-1996,Alm. Salg,108,7870,3,1968,
 269,Rækkehus,Vasegården 38,2680, Solrød Strand,891100 ,31-05-1996,Alm. Salg,117,7616,4,1979,
-269,Villa,Nemovej 20,2680, Solrød Strand,850000 ,31-05-1996,Alm. Salg,163,5215,5,2020,
 269,Rækkehus,Litorinaparken 12,2680, Solrød Strand,585000 ,30-05-1996,Alm. Salg,118,4958,5,1971,
 269,Rækkehus,Boghvedemarken 41,2680, Solrød Strand,868000 ,29-05-1996,Alm. Salg,116,7483,5,1977,
 269,Ejerlejlighed,"Akacieparken 12A, 1. 89",2680, Solrød Strand,711425 ,29-05-1996,Alm. Salg,104,6841,3,1975,
@@ -11879,12 +11829,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 269,Rækkehus,Klosterparken 9,2680, Solrød Strand,315000 ,14-12-1994,Andet,147,2143,6,1973,
 269,Rækkehus,Birkeengen 41,2680, Solrød Strand,757590 ,14-12-1994,Alm. Salg,110,6887,4,1973,
 269,Villa,Fasanvej 26,2680, Solrød Strand,680000 ,14-12-1994,Alm. Salg,123,5528,3,1966,
-269,Ejerlejlighed,Hovedgaden 7B,4622, Havdrup,2070000 ,13-12-1994,Alm. Salg,153,13529,6,1900,
-269,Ejerlejlighed,Hovedgaden 7C,4622, Havdrup,2070000 ,13-12-1994,Alm. Salg,35,59143,1,1900,
-269,Ejerlejlighed,"Stationspladsen 2, 1. th",4622, Havdrup,2070000 ,13-12-1994,Alm. Salg,61,33934,2,1900,
-269,Ejerlejlighed,"Stationspladsen 2, 2. th",4622, Havdrup,2070000 ,13-12-1994,Alm. Salg,41,50488,2,1900,
-269,Ejerlejlighed,"Stationspladsen 2, 2. tv",4622, Havdrup,2070000 ,13-12-1994,Alm. Salg,40,51750,2,1900,
-269,Ejerlejlighed,"Stationspladsen 2, 1. tv",4622, Havdrup,2070000 ,13-12-1994,Alm. Salg,61,33934,2,1900,
 269,Rækkehus,Kilevangen 3,4622, Havdrup,563000 ,11-12-1994,Alm. Salg,76,7408,3,1975,
 269,Ejerlejlighed,Maglekæret 10C,2680, Solrød Strand,535000 ,11-12-1994,Alm. Salg,73,7329,3,1986,
 269,Villa,Søndre Byvej 15B,2680, Solrød Strand,20394 ,11-12-1994,Andet,142,144,5,1990,
@@ -12133,8 +12077,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 269,Villa,Søndre Strandvej 5A,2680, Solrød Strand,895000 ,30-06-1994,Alm. Salg,185,4838,5,2023,
 269,Villa,Vestre Grænsevej 1,2680, Solrød Strand,470000 ,30-06-1994,Alm. Salg,90,5222,4,1934,
 269,Rækkehus,Kildebo 14,4622, Havdrup,600000 ,29-06-1994,Alm. Salg,88,6818,3,1980,
-269,Rækkehus,Duevej 1. d,2680, Solrød Strand,980000 ,29-06-1994,Alm. Salg,60,16333,1,1950,
-269,Ejerlejlighed,"Duevej 1, 1. c",2680, Solrød Strand,980000 ,29-06-1994,Alm. Salg,98,10000,5,1947,
 269,Villa,Naurbjergvej 40A,4622, Havdrup,298000 ,29-06-1994,Alm. Salg,343,869,7,1996,
 269,Villa,Maglekærvej 1,2680, Solrød Strand,830778 ,29-06-1994,Alm. Salg,119,6981,4,1984,
 269,Villa,Fasanvej 38,2680, Solrød Strand,195000 ,28-06-1994,Andet,175,1114,7,1995,
@@ -12244,8 +12186,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 269,Villa,Højdevej 18,2680, Solrød Strand,866116 ,21-04-1994,Alm. Salg,113,7665,4,1982,
 269,Villa,Lykkevej 8,2680, Solrød Strand,1115000 ,20-04-1994,Alm. Salg,155,7194,5,1973,
 269,Villa,Drosselvej 11,2680, Solrød Strand,701000 ,19-04-1994,Alm. Salg,139,5043,6,1932,
-269,Ejerlejlighed,Åmarken 2C,4623, Lille Skensved,2750000 ,18-04-1994,Alm. Salg,243,11317,5,1988,
-269,Villa,Åmarken 2,4623, Lille Skensved,2750000 ,18-04-1994,Alm. Salg,253,10870,10,1917,
 269,Villa,Bygmarken 5,2680, Solrød Strand,190000 ,18-04-1994,Alm. Salg,109,1743,4,1994,
 269,Villa,Birkelyngen 22,2680, Solrød Strand,1260000 ,17-04-1994,Alm. Salg,195,6462,4,1966,
 269,Villa,Østre Frihedsvej 16,2680, Solrød Strand,1052417 ,16-04-1994,Alm. Salg,159,6619,5,1984,
@@ -12269,8 +12209,6 @@ municipality,housing_type,address,zip_code,town,purchase_amount,date_of_sale,typ
 269,Villa,Pilevej 1A,2680, Solrød Strand,1342000 ,04-04-1994,Alm. Salg,158,8494,4,1989,
 269,Villa,Søvej 8,2680, Solrød Strand,450000 ,04-04-1994,Alm. Salg,138,3261,6,1994,
 269,Villa,Kystvej 14,2680, Solrød Strand,950000 ,04-04-1994,Alm. Salg,180,5278,5,1995,
-269,Villa,Østre Frihedsvej 13B,2680, Solrød Strand,335000 ,03-04-1994,Alm. Salg,215,1558,5,0,
-269,Rækkehus,Østre Frihedsvej 13B,2680, Solrød Strand,335000 ,03-04-1994,Alm. Salg,215,1558,6,0,
 269,Villa,Geiavej 1,2680, Solrød Strand,1165000 ,03-04-1994,Alm. Salg,217,4755,9,1904,
 269,Ejerlejlighed,Maglekæret 21B,2680, Solrød Strand,510000 ,01-04-1994,Alm. Salg,61,8361,2,1986,
 269,Villa,Hørmarken 10,2680, Solrød Strand,282500 ,01-04-1994,Alm. Salg,150,1883,6,1994,
