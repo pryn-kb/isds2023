@@ -13,20 +13,18 @@ to the dataset, merged on muni_code and year.
 Args: df
 returns:
     df with added features
-
 '''
 
 def add_features_to_data(df):
     fp = Path("../cbk/")
-    bolig = fp/"fittest.csv"
     indk = fp/"indkp101.csv"
     konth = fp/"kontanth.csv"
     areas = fp/"muni_areas.csv"
     pop = fp/"population_data.csv"
     pop_dens = fp/"pop_dens.csv"
 
-    lars_fp = Path("../lars/")
-    gini = lars_fp/"gini_index.csv"
+    fp = Path("../Feature_data")
+    gini = fp/"gini_index.csv"
         
     indk = pd.read_csv(indk)
     konth = pd.read_csv(konth)
