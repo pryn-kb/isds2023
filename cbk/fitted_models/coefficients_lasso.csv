@@ -1,1 +1,3823 @@
-,muni_code,value,parameter
+,value,parameter,muni_code
+0,0.0,1,860
+1,0.0,erhvervsindkomst,860
+2,0.0,formueindkomst,860
+3,-0.0,anden_personlig_indkomst,860
+4,0.0,kont_recip_tot,860
+5,0.0,gini_index,860
+6,0.0,unemployed,860
+7,-0.0,pop_den,860
+8,-0.004060047983357585,erhvervsindkomst^2,860
+9,-0.04119699735073742,erhvervsindkomst formueindkomst,860
+10,0.0,erhvervsindkomst anden_personlig_indkomst,860
+11,0.0,erhvervsindkomst kont_recip_tot,860
+12,-0.0,erhvervsindkomst gini_index,860
+13,0.0,erhvervsindkomst unemployed,860
+14,0.007552725203691375,erhvervsindkomst pop_den,860
+15,-0.0,formueindkomst^2,860
+16,0.0039327630373985215,formueindkomst anden_personlig_indkomst,860
+17,0.0,formueindkomst kont_recip_tot,860
+18,-0.0,formueindkomst gini_index,860
+19,0.0,formueindkomst unemployed,860
+20,0.01012482458536135,formueindkomst pop_den,860
+21,-0.0193071316696035,anden_personlig_indkomst^2,860
+22,0.17903067645514956,anden_personlig_indkomst kont_recip_tot,860
+23,-0.0,anden_personlig_indkomst gini_index,860
+24,0.0,anden_personlig_indkomst unemployed,860
+25,-0.01604265948205884,anden_personlig_indkomst pop_den,860
+26,-0.05530427420682154,kont_recip_tot^2,860
+27,0.0,kont_recip_tot gini_index,860
+28,0.0,kont_recip_tot unemployed,860
+29,0.0,kont_recip_tot pop_den,860
+30,-0.0,gini_index^2,860
+31,0.0,gini_index unemployed,860
+32,0.007917282630426323,gini_index pop_den,860
+33,-0.0,unemployed^2,860
+34,0.0012465344705794583,unemployed pop_den,860
+35,-0.0009539046434637396,pop_den^2,860
+36,0.0,housing_type_Ejerlejlighed,860
+37,0.4304113948477181,housing_type_Rækkehus,860
+38,-0.8110769827507904,housing_type_Villa,860
+39,0.0,1,851
+40,0.35957864684895136,erhvervsindkomst,851
+41,0.04323254302709224,formueindkomst,851
+42,0.007533081961876076,anden_personlig_indkomst,851
+43,0.0,kont_recip_tot,851
+44,0.4987223556289174,gini_index,851
+45,-0.0,unemployed,851
+46,0.0,pop_den,851
+47,0.0,housing_type_Rækkehus,851
+48,0.08495852996979046,housing_type_Ejerlejlighed,851
+49,-0.6543546519509128,housing_type_Villa,851
+50,0.0,1,849
+51,0.5121940898358046,erhvervsindkomst,849
+52,0.04568038397348753,formueindkomst,849
+53,-0.0015129628462706188,anden_personlig_indkomst,849
+54,0.16510029365611695,kont_recip_tot,849
+55,0.0,gini_index,849
+56,-0.04232317932777866,unemployed,849
+57,0.026164217011242913,pop_den,849
+58,-0.0,housing_type_Ejerlejlighed,849
+59,0.48348739030729543,housing_type_Rækkehus,849
+60,-0.6744432122519969,housing_type_Villa,849
+61,0.0,1,846
+62,0.0,erhvervsindkomst,846
+63,0.0,formueindkomst,846
+64,0.0,anden_personlig_indkomst,846
+65,-0.0,kont_recip_tot,846
+66,-0.0,gini_index,846
+67,0.0,unemployed,846
+68,-0.0,pop_den,846
+69,-0.0,erhvervsindkomst^2,846
+70,-0.0,erhvervsindkomst formueindkomst,846
+71,0.0,erhvervsindkomst anden_personlig_indkomst,846
+72,-0.0,erhvervsindkomst kont_recip_tot,846
+73,-0.0,erhvervsindkomst gini_index,846
+74,0.0099311098620965,erhvervsindkomst unemployed,846
+75,0.0463343200896803,erhvervsindkomst pop_den,846
+76,-0.11043272286583751,formueindkomst^2,846
+77,-0.06665269174836265,formueindkomst anden_personlig_indkomst,846
+78,-0.0,formueindkomst kont_recip_tot,846
+79,0.05468404568591065,formueindkomst gini_index,846
+80,0.0,formueindkomst unemployed,846
+81,0.06653720050279427,formueindkomst pop_den,846
+82,-0.0,anden_personlig_indkomst^2,846
+83,0.0,anden_personlig_indkomst kont_recip_tot,846
+84,0.07367942509553507,anden_personlig_indkomst gini_index,846
+85,-0.0,anden_personlig_indkomst unemployed,846
+86,-0.08080217973996115,anden_personlig_indkomst pop_den,846
+87,0.0,kont_recip_tot^2,846
+88,-0.01118773634337852,kont_recip_tot gini_index,846
+89,0.0,kont_recip_tot unemployed,846
+90,0.0,kont_recip_tot pop_den,846
+91,-0.008594601951371725,gini_index^2,846
+92,0.0,gini_index unemployed,846
+93,-0.0,gini_index pop_den,846
+94,-0.0,unemployed^2,846
+95,-0.01634918283235971,unemployed pop_den,846
+96,-0.007983457048359828,pop_den^2,846
+97,0.0,housing_type_Ejerlejlighed,846
+98,0.24852110498406987,housing_type_Rækkehus,846
+99,-0.9546318089011498,housing_type_Villa,846
+100,0.0,1,840
+101,0.6279584655159386,erhvervsindkomst,840
+102,0.0,formueindkomst,840
+103,0.012101019500595679,anden_personlig_indkomst,840
+104,-0.0,kont_recip_tot,840
+105,0.10877953587785245,gini_index,840
+106,-0.062195076763718195,unemployed,840
+107,0.0,pop_den,840
+108,0.06238168313945637,housing_type_Ejerlejlighed,840
+109,0.0,housing_type_Rækkehus,840
+110,-0.967677481754184,housing_type_Villa,840
+111,0.0,1,825
+112,0.0,erhvervsindkomst,825
+113,-0.0,formueindkomst,825
+114,-0.0,anden_personlig_indkomst,825
+115,-0.08990646139306925,kont_recip_tot,825
+116,0.0,gini_index,825
+117,-0.17439774388274834,unemployed,825
+118,-0.19378763348525335,pop_den,825
+119,-0.30793168634760004,housing_type_Villa,825
+120,0.0,housing_type_Ejerlejlighed,825
+121,0.5144613509312775,housing_type_Rækkehus,825
+122,0.0,1,820
+123,0.3812286336304487,erhvervsindkomst,820
+124,0.0,formueindkomst,820
+125,0.12141920726746237,anden_personlig_indkomst,820
+126,0.0,kont_recip_tot,820
+127,0.0,gini_index,820
+128,-0.15021354342975915,unemployed,820
+129,-0.0,pop_den,820
+130,0.0,housing_type_Ejerlejlighed,820
+131,0.0,housing_type_Rækkehus,820
+132,-0.8092315937287209,housing_type_Villa,820
+133,0.0,1,813
+134,-0.0,erhvervsindkomst,813
+135,-0.0,formueindkomst,813
+136,0.0,anden_personlig_indkomst,813
+137,-0.0,kont_recip_tot,813
+138,-0.0,gini_index,813
+139,-0.0,unemployed,813
+140,0.0,pop_den,813
+141,-0.05643565280847448,erhvervsindkomst^2,813
+142,-0.05842821807846054,erhvervsindkomst formueindkomst,813
+143,-0.0,erhvervsindkomst anden_personlig_indkomst,813
+144,0.0,erhvervsindkomst kont_recip_tot,813
+145,-0.0012537764357047473,erhvervsindkomst gini_index,813
+146,-0.0,erhvervsindkomst unemployed,813
+147,0.03184529393380928,erhvervsindkomst pop_den,813
+148,-0.03981565681232496,formueindkomst^2,813
+149,0.005414655951773073,formueindkomst anden_personlig_indkomst,813
+150,0.0,formueindkomst kont_recip_tot,813
+151,-0.014196397184309558,formueindkomst gini_index,813
+152,-0.0,formueindkomst unemployed,813
+153,0.03480269683532005,formueindkomst pop_den,813
+154,-0.0,anden_personlig_indkomst^2,813
+155,0.0,anden_personlig_indkomst kont_recip_tot,813
+156,-0.0,anden_personlig_indkomst gini_index,813
+157,-0.0,anden_personlig_indkomst unemployed,813
+158,0.0008670012014735343,anden_personlig_indkomst pop_den,813
+159,0.012936000746635283,kont_recip_tot^2,813
+160,0.0,kont_recip_tot gini_index,813
+161,-0.0,kont_recip_tot unemployed,813
+162,-0.01608015780418823,kont_recip_tot pop_den,813
+163,-0.010613954142830144,gini_index^2,813
+164,-0.0,gini_index unemployed,813
+165,0.008043397208798259,gini_index pop_den,813
+166,0.0,unemployed^2,813
+167,-0.005244491903613618,unemployed pop_den,813
+168,-0.015354505215206751,pop_den^2,813
+169,0.0,housing_type_Ejerlejlighed,813
+170,0.49394135234902287,housing_type_Rækkehus,813
+171,-0.7350095115467213,housing_type_Villa,813
+172,0.0,1,810
+173,0.16872771768490719,erhvervsindkomst,810
+174,-0.0,formueindkomst,810
+175,0.00718978445325227,anden_personlig_indkomst,810
+176,0.07872439765140625,kont_recip_tot,810
+177,0.30358386800086495,gini_index,810
+178,-0.11596521122681855,unemployed,810
+179,0.0,pop_den,810
+180,0.0,housing_type_Ejerlejlighed,810
+181,0.38249166312671606,housing_type_Rækkehus,810
+182,-0.35157561074343324,housing_type_Villa,810
+183,0.0,1,791
+184,0.4707522383449726,erhvervsindkomst,791
+185,0.017482057250257057,formueindkomst,791
+186,-0.0,anden_personlig_indkomst,791
+187,0.0,kont_recip_tot,791
+188,-0.0,gini_index,791
+189,-0.3078807730759337,unemployed,791
+190,-0.0,pop_den,791
+191,-0.16092418826499336,erhvervsindkomst^2,791
+192,-0.008237606278456815,erhvervsindkomst formueindkomst,791
+193,0.08857704077198039,erhvervsindkomst anden_personlig_indkomst,791
+194,-0.0006949206277895259,erhvervsindkomst kont_recip_tot,791
+195,0.000437113297458202,erhvervsindkomst gini_index,791
+196,0.04404603663109368,erhvervsindkomst unemployed,791
+197,0.018965016666200794,erhvervsindkomst pop_den,791
+198,-0.06227223842147139,formueindkomst^2,791
+199,0.07802829294723232,formueindkomst anden_personlig_indkomst,791
+200,-0.02713497214806504,formueindkomst kont_recip_tot,791
+201,-0.05917865970786739,formueindkomst gini_index,791
+202,0.32836724524252053,formueindkomst unemployed,791
+203,0.01771004545556715,formueindkomst pop_den,791
+204,-0.11824670539829789,anden_personlig_indkomst^2,791
+205,-0.015118459627525994,anden_personlig_indkomst kont_recip_tot,791
+206,0.05739361259717849,anden_personlig_indkomst gini_index,791
+207,0.0361870538092778,anden_personlig_indkomst unemployed,791
+208,-0.002991983092203579,anden_personlig_indkomst pop_den,791
+209,0.011351453010885866,kont_recip_tot^2,791
+210,-0.018430876043203186,kont_recip_tot gini_index,791
+211,0.023468299259630735,kont_recip_tot unemployed,791
+212,0.0037947839758582323,kont_recip_tot pop_den,791
+213,0.004033333142548874,gini_index^2,791
+214,-0.030568406990530313,gini_index unemployed,791
+215,0.006089289545949799,gini_index pop_den,791
+216,0.1029448641442994,unemployed^2,791
+217,-0.01918233588961309,unemployed pop_den,791
+218,-0.0022906704442259194,pop_den^2,791
+219,0.0,housing_type_Ejerlejlighed,791
+220,0.2390932456060392,housing_type_Rækkehus,791
+221,-1.0072463416536488,housing_type_Villa,791
+222,0.0,1,787
+223,1.5559862910107,erhvervsindkomst,787
+224,-0.13326217990232223,formueindkomst,787
+225,-0.05182119755623908,anden_personlig_indkomst,787
+226,0.3869528993509954,kont_recip_tot,787
+227,0.37081991452329777,gini_index,787
+228,0.2690284475774548,unemployed,787
+229,1.1340841755906792,pop_den,787
+230,0.4217256967312222,housing_type_Ejerlejlighed,787
+231,0.062354598505669455,housing_type_Rækkehus,787
+232,-0.931177299252894,housing_type_Villa,787
+233,0.0,1,779
+234,0.6623463136630168,erhvervsindkomst,779
+235,-0.04738788371521546,formueindkomst,779
+236,0.028310062949884578,anden_personlig_indkomst,779
+237,0.03409798379708083,kont_recip_tot,779
+238,0.1862065677299303,gini_index,779
+239,-0.0,unemployed,779
+240,0.3883642432937039,pop_den,779
+241,0.5966718761731863,housing_type_Ejerlejlighed,779
+242,0.0,housing_type_Rækkehus,779
+243,-0.950706637929706,housing_type_Villa,779
+244,0.0,1,773
+245,-0.0,erhvervsindkomst,773
+246,-0.0,formueindkomst,773
+247,0.031014294128323038,anden_personlig_indkomst,773
+248,-0.06389003972150763,kont_recip_tot,773
+249,0.618624467642974,gini_index,773
+250,0.0,unemployed,773
+251,0.13271342464011815,pop_den,773
+252,0.22867602491968864,housing_type_Rækkehus,773
+253,0.0,housing_type_Villa,773
+254,-0.36251876229696306,housing_type_Ejerlejlighed,773
+255,0.0,1,766
+256,0.0,erhvervsindkomst,766
+257,0.11621661410018651,formueindkomst,766
+258,0.06763646712901333,anden_personlig_indkomst,766
+259,-0.044119522652302866,kont_recip_tot,766
+260,0.22910847846304602,gini_index,766
+261,-0.4074084362603745,unemployed,766
+262,0.0,pop_den,766
+263,0.0949592115063781,housing_type_Ejerlejlighed,766
+264,-0.0,housing_type_Rækkehus,766
+265,-1.0368343567085014,housing_type_Villa,766
+266,0.0,1,760
+267,0.0,erhvervsindkomst,760
+268,0.0,formueindkomst,760
+269,0.0,anden_personlig_indkomst,760
+270,-0.0,kont_recip_tot,760
+271,0.0,gini_index,760
+272,-0.0,unemployed,760
+273,-0.0,pop_den,760
+274,-0.0151004967897297,erhvervsindkomst^2,760
+275,-0.054520030882556775,erhvervsindkomst formueindkomst,760
+276,0.051318119728674234,erhvervsindkomst anden_personlig_indkomst,760
+277,-0.06332300266081921,erhvervsindkomst kont_recip_tot,760
+278,0.03591665322725922,erhvervsindkomst gini_index,760
+279,0.07679353115594596,erhvervsindkomst unemployed,760
+280,0.2699659866273783,erhvervsindkomst pop_den,760
+281,-0.07002966213788717,formueindkomst^2,760
+282,-0.0,formueindkomst anden_personlig_indkomst,760
+283,0.15598379357290182,formueindkomst kont_recip_tot,760
+284,0.04738457708264024,formueindkomst gini_index,760
+285,0.0,formueindkomst unemployed,760
+286,0.03838746329490812,formueindkomst pop_den,760
+287,-0.012464092879407767,anden_personlig_indkomst^2,760
+288,0.0,anden_personlig_indkomst kont_recip_tot,760
+289,0.0071858067230821865,anden_personlig_indkomst gini_index,760
+290,-0.0,anden_personlig_indkomst unemployed,760
+291,-0.07889423241073737,anden_personlig_indkomst pop_den,760
+292,0.05798821531286799,kont_recip_tot^2,760
+293,-0.06920520238444354,kont_recip_tot gini_index,760
+294,-0.0,kont_recip_tot unemployed,760
+295,-0.0,kont_recip_tot pop_den,760
+296,-0.00919777669108771,gini_index^2,760
+297,0.0040967594432762345,gini_index unemployed,760
+298,-0.08920678922448982,gini_index pop_den,760
+299,-0.022148074667497505,unemployed^2,760
+300,-0.10496156481488951,unemployed pop_den,760
+301,-0.11367759245467957,pop_den^2,760
+302,0.8867479397055735,housing_type_Ejerlejlighed,760
+303,0.0,housing_type_Rækkehus,760
+304,-0.7711972615342122,housing_type_Villa,760
+305,0.0,1,756
+306,0.2453401556957019,erhvervsindkomst,756
+307,-0.13642404608324565,formueindkomst,756
+308,0.0711428008158967,anden_personlig_indkomst,756
+309,-0.05983185016608777,kont_recip_tot,756
+310,0.1382043407355979,gini_index,756
+311,-0.493690152339654,unemployed,756
+312,-0.0,pop_den,756
+313,0.2516118236077812,housing_type_Ejerlejlighed,756
+314,0.0,housing_type_Rækkehus,756
+315,-0.891134530263358,housing_type_Villa,756
+316,0.0,1,751
+317,0.7025389867200338,erhvervsindkomst,751
+318,0.09198699803650683,formueindkomst,751
+319,-0.002795384333287895,anden_personlig_indkomst,751
+320,0.0,kont_recip_tot,751
+321,0.3775248639512695,gini_index,751
+322,0.028620549251062045,unemployed,751
+323,-0.2749112121256228,pop_den,751
+324,-0.0,housing_type_Rækkehus,751
+325,0.5465095789293065,housing_type_Ejerlejlighed,751
+326,-0.4273552963817457,housing_type_Villa,751
+327,0.0,1,746
+328,0.0,erhvervsindkomst,746
+329,0.0,formueindkomst,746
+330,0.0,anden_personlig_indkomst,746
+331,-0.0,kont_recip_tot,746
+332,0.0,gini_index,746
+333,-0.0,unemployed,746
+334,-0.0,pop_den,746
+335,-0.0,erhvervsindkomst^2,746
+336,-0.0,erhvervsindkomst formueindkomst,746
+337,0.0,erhvervsindkomst anden_personlig_indkomst,746
+338,0.038490131555686695,erhvervsindkomst kont_recip_tot,746
+339,0.0,erhvervsindkomst gini_index,746
+340,0.0,erhvervsindkomst unemployed,746
+341,0.0,erhvervsindkomst pop_den,746
+342,-0.05602256886669513,formueindkomst^2,746
+343,0.0,formueindkomst anden_personlig_indkomst,746
+344,0.0053511799927805056,formueindkomst kont_recip_tot,746
+345,0.0,formueindkomst gini_index,746
+346,0.0,formueindkomst unemployed,746
+347,0.019488840566416053,formueindkomst pop_den,746
+348,-0.0,anden_personlig_indkomst^2,746
+349,0.0,anden_personlig_indkomst kont_recip_tot,746
+350,0.005141053070724499,anden_personlig_indkomst gini_index,746
+351,-0.0,anden_personlig_indkomst unemployed,746
+352,-0.0,anden_personlig_indkomst pop_den,746
+353,-0.017920319633721232,kont_recip_tot^2,746
+354,0.0,kont_recip_tot gini_index,746
+355,-0.0,kont_recip_tot unemployed,746
+356,-0.007772537848237314,kont_recip_tot pop_den,746
+357,0.009043526205163424,gini_index^2,746
+358,-0.0,gini_index unemployed,746
+359,-0.0,gini_index pop_den,746
+360,-0.0004989304749835153,unemployed^2,746
+361,-0.00620136092319955,unemployed pop_den,746
+362,-0.00128054971192474,pop_den^2,746
+363,0.0,housing_type_Ejerlejlighed,746
+364,0.09295675024016191,housing_type_Rækkehus,746
+365,-0.6112139334107601,housing_type_Villa,746
+366,0.0,1,741
+367,0.7024646353286655,erhvervsindkomst,741
+368,-0.2686118364620574,formueindkomst,741
+369,0.12334169440158865,anden_personlig_indkomst,741
+370,-0.00206999936321192,kont_recip_tot,741
+371,0.10060637947229412,gini_index,741
+372,0.0,unemployed,741
+373,0.27577386490483874,pop_den,741
+374,0.0,housing_type_Rækkehus,741
+375,0.766413055133062,housing_type_Ejerlejlighed,741
+376,-0.14809575540783118,housing_type_Villa,741
+377,0.0,1,740
+378,0.5048582065689671,erhvervsindkomst,740
+379,0.0,formueindkomst,740
+380,0.06523723265360708,anden_personlig_indkomst,740
+381,0.0,kont_recip_tot,740
+382,0.04012910860467679,gini_index,740
+383,-0.1384144721188958,unemployed,740
+384,0.11409638802282555,pop_den,740
+385,0.20877635745366285,housing_type_Ejerlejlighed,740
+386,0.0,housing_type_Rækkehus,740
+387,-0.8729899926399154,housing_type_Villa,740
+388,0.0,1,730
+389,0.0,erhvervsindkomst,730
+390,0.0,formueindkomst,730
+391,0.0,anden_personlig_indkomst,730
+392,-0.0,kont_recip_tot,730
+393,0.0,gini_index,730
+394,-0.0,unemployed,730
+395,-0.0,pop_den,730
+396,-0.0792290050825018,erhvervsindkomst^2,730
+397,-0.0,erhvervsindkomst formueindkomst,730
+398,-0.0,erhvervsindkomst anden_personlig_indkomst,730
+399,-0.0,erhvervsindkomst kont_recip_tot,730
+400,-0.0,erhvervsindkomst gini_index,730
+401,-0.0,erhvervsindkomst unemployed,730
+402,0.050084035684478445,erhvervsindkomst pop_den,730
+403,-0.0,formueindkomst^2,730
+404,0.0,formueindkomst anden_personlig_indkomst,730
+405,-0.0,formueindkomst kont_recip_tot,730
+406,-0.0,formueindkomst gini_index,730
+407,-0.0,formueindkomst unemployed,730
+408,0.0033263962601995985,formueindkomst pop_den,730
+409,-0.0006083288067071352,anden_personlig_indkomst^2,730
+410,0.0,anden_personlig_indkomst kont_recip_tot,730
+411,0.0,anden_personlig_indkomst gini_index,730
+412,-0.0,anden_personlig_indkomst unemployed,730
+413,0.002724530293899059,anden_personlig_indkomst pop_den,730
+414,-0.0,kont_recip_tot^2,730
+415,-0.0,kont_recip_tot gini_index,730
+416,-0.0,kont_recip_tot unemployed,730
+417,-0.0050069857388151855,kont_recip_tot pop_den,730
+418,0.0,gini_index^2,730
+419,-0.0,gini_index unemployed,730
+420,0.008925561716201666,gini_index pop_den,730
+421,0.04056522736592272,unemployed^2,730
+422,-0.014793279619637915,unemployed pop_den,730
+423,-0.011019873865021207,pop_den^2,730
+424,0.9043782599950849,housing_type_Rækkehus,730
+425,-0.0,housing_type_Ejerlejlighed,730
+426,-0.08183702277545758,housing_type_Villa,730
+427,0.0,1,727
+428,-0.0,erhvervsindkomst,727
+429,-0.19098212969136538,formueindkomst,727
+430,0.030330635636235146,anden_personlig_indkomst,727
+431,-0.19871307637914318,kont_recip_tot,727
+432,0.0,gini_index,727
+433,-0.7742153645522909,unemployed,727
+434,0.2825237333340985,pop_den,727
+435,0.12214039605949642,housing_type_Rækkehus,727
+436,-0.0,housing_type_Ejerlejlighed,727
+437,-0.727424348413856,housing_type_Villa,727
+438,0.0,1,710
+439,-0.0,erhvervsindkomst,710
+440,-0.0,formueindkomst,710
+441,0.0,anden_personlig_indkomst,710
+442,-0.0,kont_recip_tot,710
+443,0.0,gini_index,710
+444,-0.0,unemployed,710
+445,-0.0,pop_den,710
+446,-0.023350380428282025,erhvervsindkomst^2,710
+447,-0.0070446399526703195,erhvervsindkomst formueindkomst,710
+448,-0.0,erhvervsindkomst anden_personlig_indkomst,710
+449,0.09138654639923556,erhvervsindkomst kont_recip_tot,710
+450,-0.0,erhvervsindkomst gini_index,710
+451,-0.0,erhvervsindkomst unemployed,710
+452,-0.0,erhvervsindkomst pop_den,710
+453,-0.0,formueindkomst^2,710
+454,-0.013259682467452275,formueindkomst anden_personlig_indkomst,710
+455,0.04975608061547869,formueindkomst kont_recip_tot,710
+456,-0.0,formueindkomst gini_index,710
+457,-0.0,formueindkomst unemployed,710
+458,-0.0,formueindkomst pop_den,710
+459,-0.012217310001069896,anden_personlig_indkomst^2,710
+460,0.021391154729582078,anden_personlig_indkomst kont_recip_tot,710
+461,0.0,anden_personlig_indkomst gini_index,710
+462,0.0,anden_personlig_indkomst unemployed,710
+463,0.0038505173787137946,anden_personlig_indkomst pop_den,710
+464,-0.019816625850181516,kont_recip_tot^2,710
+465,0.021728502387991715,kont_recip_tot gini_index,710
+466,-0.0,kont_recip_tot unemployed,710
+467,-0.027541407643117494,kont_recip_tot pop_den,710
+468,0.0,gini_index^2,710
+469,-0.0,gini_index unemployed,710
+470,0.005018173433469887,gini_index pop_den,710
+471,0.0,unemployed^2,710
+472,-0.0,unemployed pop_den,710
+473,0.0003560846811808506,pop_den^2,710
+474,-0.0,housing_type_Ejerlejlighed,710
+475,0.29329422989323223,housing_type_Rækkehus,710
+476,-0.7248544941434493,housing_type_Villa,710
+477,0.0,1,707
+478,0.026229455183232733,erhvervsindkomst,707
+479,-0.07060037224342496,formueindkomst,707
+480,0.24937004806487664,anden_personlig_indkomst,707
+481,-0.08022932558100895,kont_recip_tot,707
+482,0.2628582072612804,gini_index,707
+483,-0.40388229929768704,unemployed,707
+484,-0.023886628279733573,pop_den,707
+485,-0.0,housing_type_Ejerlejlighed,707
+486,0.9635874364160788,housing_type_Rækkehus,707
+487,-0.16643355619019992,housing_type_Villa,707
+488,0.0,1,706
+489,0.3446912548874356,erhvervsindkomst,706
+490,0.048068055361892466,formueindkomst,706
+491,0.18182204513213407,anden_personlig_indkomst,706
+492,0.11079656253239226,kont_recip_tot,706
+493,0.23506276224031597,gini_index,706
+494,-0.1108031970710596,unemployed,706
+495,0.02496011481963116,pop_den,706
+496,0.0941724072504217,housing_type_Ejerlejlighed,706
+497,-0.0,housing_type_Rækkehus,706
+498,-1.0315207570156633,housing_type_Villa,706
+499,0.0,1,671
+500,0.5107271722138412,erhvervsindkomst,671
+501,0.37049897913640883,formueindkomst,671
+502,-0.0,anden_personlig_indkomst,671
+503,0.3839276970106302,kont_recip_tot,671
+504,-0.0,gini_index,671
+505,-0.026276186107661345,unemployed,671
+506,0.7304838736622536,pop_den,671
+507,1.062893448867358,housing_type_Rækkehus,671
+508,-0.0,housing_type_Ejerlejlighed,671
+509,-0.012911211682376394,housing_type_Villa,671
+510,0.0,1,665
+511,-0.0,erhvervsindkomst,665
+512,-0.33612248911181386,formueindkomst,665
+513,0.2950160067442213,anden_personlig_indkomst,665
+514,0.043562111293124234,kont_recip_tot,665
+515,0.2751770604329461,gini_index,665
+516,-0.4482498214230053,unemployed,665
+517,0.10219347770697211,pop_den,665
+518,0.47359624615162865,housing_type_Ejerlejlighed,665
+519,0.0,housing_type_Rækkehus,665
+520,-0.7727926203605661,housing_type_Villa,665
+521,0.0,1,661
+522,0.0,erhvervsindkomst,661
+523,0.0,formueindkomst,661
+524,0.0,anden_personlig_indkomst,661
+525,0.0,kont_recip_tot,661
+526,0.0,gini_index,661
+527,-0.0,unemployed,661
+528,0.0,pop_den,661
+529,-0.060753041115810986,erhvervsindkomst^2,661
+530,0.0221104425324082,erhvervsindkomst formueindkomst,661
+531,0.06293454372452542,erhvervsindkomst anden_personlig_indkomst,661
+532,-0.0066411337721610595,erhvervsindkomst kont_recip_tot,661
+533,0.0,erhvervsindkomst gini_index,661
+534,0.04100528477124458,erhvervsindkomst unemployed,661
+535,0.025867556957590736,erhvervsindkomst pop_den,661
+536,-0.0,formueindkomst^2,661
+537,-0.09545396809696466,formueindkomst anden_personlig_indkomst,661
+538,0.0,formueindkomst kont_recip_tot,661
+539,-0.01112203785165538,formueindkomst gini_index,661
+540,0.0,formueindkomst unemployed,661
+541,0.004580486237144019,formueindkomst pop_den,661
+542,-0.054114638807351526,anden_personlig_indkomst^2,661
+543,-0.0,anden_personlig_indkomst kont_recip_tot,661
+544,0.05296202050053154,anden_personlig_indkomst gini_index,661
+545,-0.0,anden_personlig_indkomst unemployed,661
+546,-0.005393887154628916,anden_personlig_indkomst pop_den,661
+547,-0.08562984692440888,kont_recip_tot^2,661
+548,-0.03347317008707759,kont_recip_tot gini_index,661
+549,0.0,kont_recip_tot unemployed,661
+550,0.0316451336234481,kont_recip_tot pop_den,661
+551,-0.00917681441830043,gini_index^2,661
+552,0.006748976491032753,gini_index unemployed,661
+553,0.00565191436956342,gini_index pop_den,661
+554,0.08106908232784785,unemployed^2,661
+555,-0.02194684837371292,unemployed pop_den,661
+556,-0.00919955489145091,pop_den^2,661
+557,0.0,housing_type_Ejerlejlighed,661
+558,0.43552613545708035,housing_type_Rækkehus,661
+559,-1.0684024797071927,housing_type_Villa,661
+560,0.0,1,657
+561,0.0,erhvervsindkomst,657
+562,0.0,formueindkomst,657
+563,0.0,anden_personlig_indkomst,657
+564,-0.0,kont_recip_tot,657
+565,0.0,gini_index,657
+566,-0.0,unemployed,657
+567,0.0,pop_den,657
+568,-0.03331661203835581,erhvervsindkomst^2,657
+569,-0.0,erhvervsindkomst formueindkomst,657
+570,0.0,erhvervsindkomst anden_personlig_indkomst,657
+571,-0.0,erhvervsindkomst kont_recip_tot,657
+572,0.0,erhvervsindkomst gini_index,657
+573,0.0,erhvervsindkomst unemployed,657
+574,0.017340395843963727,erhvervsindkomst pop_den,657
+575,-0.0360138840311448,formueindkomst^2,657
+576,0.0,formueindkomst anden_personlig_indkomst,657
+577,-0.10377775963956427,formueindkomst kont_recip_tot,657
+578,-0.0,formueindkomst gini_index,657
+579,0.0,formueindkomst unemployed,657
+580,0.021162445532084424,formueindkomst pop_den,657
+581,-0.0051413957999342464,anden_personlig_indkomst^2,657
+582,-0.0,anden_personlig_indkomst kont_recip_tot,657
+583,0.0,anden_personlig_indkomst gini_index,657
+584,-0.0,anden_personlig_indkomst unemployed,657
+585,0.003493696022956291,anden_personlig_indkomst pop_den,657
+586,0.04912280605671267,kont_recip_tot^2,657
+587,-0.0,kont_recip_tot gini_index,657
+588,-0.0,kont_recip_tot unemployed,657
+589,-0.004294219211442181,kont_recip_tot pop_den,657
+590,0.0,gini_index^2,657
+591,-0.0,gini_index unemployed,657
+592,0.011406815316446323,gini_index pop_den,657
+593,0.0,unemployed^2,657
+594,-0.006455750465130091,unemployed pop_den,657
+595,-0.0024087719043990726,pop_den^2,657
+596,0.16994553442886526,housing_type_Ejerlejlighed,657
+597,-0.0,housing_type_Rækkehus,657
+598,-1.0257867200728816,housing_type_Villa,657
+599,0.0,1,630
+600,0.0,erhvervsindkomst,630
+601,0.0,formueindkomst,630
+602,-0.0,anden_personlig_indkomst,630
+603,0.0,kont_recip_tot,630
+604,0.0,gini_index,630
+605,-0.0,unemployed,630
+606,-0.0,pop_den,630
+607,-0.1729817113016706,erhvervsindkomst^2,630
+608,0.0,erhvervsindkomst formueindkomst,630
+609,0.03858696242583283,erhvervsindkomst anden_personlig_indkomst,630
+610,0.1497354300793082,erhvervsindkomst kont_recip_tot,630
+611,0.00022082585681715535,erhvervsindkomst gini_index,630
+612,0.0,erhvervsindkomst unemployed,630
+613,0.050906489749079596,erhvervsindkomst pop_den,630
+614,0.0,formueindkomst^2,630
+615,0.0,formueindkomst anden_personlig_indkomst,630
+616,-0.01600436311424792,formueindkomst kont_recip_tot,630
+617,-0.029568626639955492,formueindkomst gini_index,630
+618,-0.0,formueindkomst unemployed,630
+619,0.020544140424652982,formueindkomst pop_den,630
+620,-0.03187479130954398,anden_personlig_indkomst^2,630
+621,0.07867986385897648,anden_personlig_indkomst kont_recip_tot,630
+622,-0.028980845118872302,anden_personlig_indkomst gini_index,630
+623,-2.3359409282417397e-07,anden_personlig_indkomst unemployed,630
+624,-0.0,anden_personlig_indkomst pop_den,630
+625,0.003714954296717128,kont_recip_tot^2,630
+626,-0.0,kont_recip_tot gini_index,630
+627,0.1491289869024705,kont_recip_tot unemployed,630
+628,-0.04421112724955215,kont_recip_tot pop_den,630
+629,-0.00010049084862780485,gini_index^2,630
+630,-0.03539787723451303,gini_index unemployed,630
+631,0.007074052127685054,gini_index pop_den,630
+632,0.031905150971792196,unemployed^2,630
+633,-0.021972707349708017,unemployed pop_den,630
+634,-0.004360468039634115,pop_den^2,630
+635,0.019942773730539178,housing_type_Rækkehus,630
+636,-0.0,housing_type_Ejerlejlighed,630
+637,-0.9234778213418986,housing_type_Villa,630
+638,0.0,1,621
+639,0.0,erhvervsindkomst,621
+640,0.0,formueindkomst,621
+641,0.0,anden_personlig_indkomst,621
+642,-0.0,kont_recip_tot,621
+643,-0.0,gini_index,621
+644,-0.0,unemployed,621
+645,-0.0,pop_den,621
+646,-0.00582672918863931,erhvervsindkomst^2,621
+647,-0.026692981479350886,erhvervsindkomst formueindkomst,621
+648,-0.0,erhvervsindkomst anden_personlig_indkomst,621
+649,0.02916713247301972,erhvervsindkomst kont_recip_tot,621
+650,-0.0,erhvervsindkomst gini_index,621
+651,0.0,erhvervsindkomst unemployed,621
+652,0.00826831123620065,erhvervsindkomst pop_den,621
+653,-0.016281676118378524,formueindkomst^2,621
+654,-0.0,formueindkomst anden_personlig_indkomst,621
+655,0.021052583392643598,formueindkomst kont_recip_tot,621
+656,-0.011594041411912379,formueindkomst gini_index,621
+657,0.0,formueindkomst unemployed,621
+658,0.013994970454244275,formueindkomst pop_den,621
+659,-0.01400420246425328,anden_personlig_indkomst^2,621
+660,-0.0,anden_personlig_indkomst kont_recip_tot,621
+661,0.041945770122527974,anden_personlig_indkomst gini_index,621
+662,0.026267369390221364,anden_personlig_indkomst unemployed,621
+663,-0.015560777028499437,anden_personlig_indkomst pop_den,621
+664,0.05255995393285841,kont_recip_tot^2,621
+665,0.0,kont_recip_tot gini_index,621
+666,-0.08194465543269724,kont_recip_tot unemployed,621
+667,-0.0598218510073842,kont_recip_tot pop_den,621
+668,-0.016638566481547892,gini_index^2,621
+669,-0.0,gini_index unemployed,621
+670,0.011560959590549983,gini_index pop_den,621
+671,0.029457058017472115,unemployed^2,621
+672,0.0,unemployed pop_den,621
+673,0.0027812046147923683,pop_den^2,621
+674,0.0,housing_type_Ejerlejlighed,621
+675,0.02120834982730423,housing_type_Rækkehus,621
+676,-0.7869514734704794,housing_type_Villa,621
+677,0.0,1,615
+678,0.0,erhvervsindkomst,615
+679,0.0,formueindkomst,615
+680,0.0,anden_personlig_indkomst,615
+681,-0.0,kont_recip_tot,615
+682,0.0,gini_index,615
+683,-0.0,unemployed,615
+684,0.0,pop_den,615
+685,0.0,erhvervsindkomst^2,615
+686,0.0,erhvervsindkomst formueindkomst,615
+687,0.0,erhvervsindkomst anden_personlig_indkomst,615
+688,0.0,erhvervsindkomst kont_recip_tot,615
+689,0.02244353193431585,erhvervsindkomst gini_index,615
+690,-0.0,erhvervsindkomst unemployed,615
+691,0.0,erhvervsindkomst pop_den,615
+692,0.0,formueindkomst^2,615
+693,0.0,formueindkomst anden_personlig_indkomst,615
+694,0.0,formueindkomst kont_recip_tot,615
+695,0.0,formueindkomst gini_index,615
+696,-0.0,formueindkomst unemployed,615
+697,0.0,formueindkomst pop_den,615
+698,0.0,anden_personlig_indkomst^2,615
+699,0.0,anden_personlig_indkomst kont_recip_tot,615
+700,0.0,anden_personlig_indkomst gini_index,615
+701,-0.0,anden_personlig_indkomst unemployed,615
+702,0.0,anden_personlig_indkomst pop_den,615
+703,-0.0,kont_recip_tot^2,615
+704,-0.0,kont_recip_tot gini_index,615
+705,-0.0,kont_recip_tot unemployed,615
+706,-0.0,kont_recip_tot pop_den,615
+707,0.004023145887034792,gini_index^2,615
+708,-0.0,gini_index unemployed,615
+709,0.0,gini_index pop_den,615
+710,-0.0,unemployed^2,615
+711,-0.0,unemployed pop_den,615
+712,0.0,pop_den^2,615
+713,0.0035913385546326414,erhvervsindkomst^3,615
+714,0.001126100355476913,erhvervsindkomst^2 formueindkomst,615
+715,0.0006945949072142232,erhvervsindkomst^2 anden_personlig_indkomst,615
+716,0.009821037134648497,erhvervsindkomst^2 kont_recip_tot,615
+717,2.563164960327329e-05,erhvervsindkomst^2 gini_index,615
+718,0.0,erhvervsindkomst^2 unemployed,615
+719,-0.0010272416021292771,erhvervsindkomst^2 pop_den,615
+720,-0.0,erhvervsindkomst formueindkomst^2,615
+721,0.0,erhvervsindkomst formueindkomst anden_personlig_indkomst,615
+722,0.0008398738423230047,erhvervsindkomst formueindkomst kont_recip_tot,615
+723,1.8201051304076194e-08,erhvervsindkomst formueindkomst gini_index,615
+724,0.0,erhvervsindkomst formueindkomst unemployed,615
+725,0.0,erhvervsindkomst formueindkomst pop_den,615
+726,0.0,erhvervsindkomst anden_personlig_indkomst^2,615
+727,0.0,erhvervsindkomst anden_personlig_indkomst kont_recip_tot,615
+728,0.0,erhvervsindkomst anden_personlig_indkomst gini_index,615
+729,0.0,erhvervsindkomst anden_personlig_indkomst unemployed,615
+730,0.0,erhvervsindkomst anden_personlig_indkomst pop_den,615
+731,-0.0,erhvervsindkomst kont_recip_tot^2,615
+732,0.0022766339546989047,erhvervsindkomst kont_recip_tot gini_index,615
+733,0.0,erhvervsindkomst kont_recip_tot unemployed,615
+734,0.0,erhvervsindkomst kont_recip_tot pop_den,615
+735,-6.821900636730392e-05,erhvervsindkomst gini_index^2,615
+736,0.0,erhvervsindkomst gini_index unemployed,615
+737,-0.0005409871789742984,erhvervsindkomst gini_index pop_den,615
+738,-0.0,erhvervsindkomst unemployed^2,615
+739,0.0,erhvervsindkomst unemployed pop_den,615
+740,-0.0007556117669018947,erhvervsindkomst pop_den^2,615
+741,-0.0,formueindkomst^3,615
+742,0.0,formueindkomst^2 anden_personlig_indkomst,615
+743,0.0,formueindkomst^2 kont_recip_tot,615
+744,0.0008222014070611617,formueindkomst^2 gini_index,615
+745,0.0,formueindkomst^2 unemployed,615
+746,0.0,formueindkomst^2 pop_den,615
+747,0.0038522257717206795,formueindkomst anden_personlig_indkomst^2,615
+748,0.0010079246852233773,formueindkomst anden_personlig_indkomst kont_recip_tot,615
+749,0.0014128271288853227,formueindkomst anden_personlig_indkomst gini_index,615
+750,0.0,formueindkomst anden_personlig_indkomst unemployed,615
+751,0.0,formueindkomst anden_personlig_indkomst pop_den,615
+752,-0.007207085650862947,formueindkomst kont_recip_tot^2,615
+753,0.00018533567056043952,formueindkomst kont_recip_tot gini_index,615
+754,-0.0,formueindkomst kont_recip_tot unemployed,615
+755,0.0,formueindkomst kont_recip_tot pop_den,615
+756,0.0003305754608337075,formueindkomst gini_index^2,615
+757,0.006465634220000158,formueindkomst gini_index unemployed,615
+758,-0.0,formueindkomst gini_index pop_den,615
+759,-0.0,formueindkomst unemployed^2,615
+760,0.0,formueindkomst unemployed pop_den,615
+761,-0.0006984623573293482,formueindkomst pop_den^2,615
+762,-0.00401475445575003,anden_personlig_indkomst^3,615
+763,0.0,anden_personlig_indkomst^2 kont_recip_tot,615
+764,-0.0008217876816998797,anden_personlig_indkomst^2 gini_index,615
+765,-0.0,anden_personlig_indkomst^2 unemployed,615
+766,-0.0,anden_personlig_indkomst^2 pop_den,615
+767,-0.00037737545803157377,anden_personlig_indkomst kont_recip_tot^2,615
+768,-0.0,anden_personlig_indkomst kont_recip_tot gini_index,615
+769,-0.0,anden_personlig_indkomst kont_recip_tot unemployed,615
+770,0.0009033094193100973,anden_personlig_indkomst kont_recip_tot pop_den,615
+771,-0.0,anden_personlig_indkomst gini_index^2,615
+772,-0.0,anden_personlig_indkomst gini_index unemployed,615
+773,0.00016683163486490442,anden_personlig_indkomst gini_index pop_den,615
+774,-6.921355112462073e-05,anden_personlig_indkomst unemployed^2,615
+775,-0.0,anden_personlig_indkomst unemployed pop_den,615
+776,0.00011787491779072833,anden_personlig_indkomst pop_den^2,615
+777,-0.002104109326885043,kont_recip_tot^3,615
+778,-0.00011056881216154437,kont_recip_tot^2 gini_index,615
+779,0.0001280959524100299,kont_recip_tot^2 unemployed,615
+780,-1.569263865862249e-06,kont_recip_tot^2 pop_den,615
+781,0.0013308408052904372,kont_recip_tot gini_index^2,615
+782,-0.00027334701017602496,kont_recip_tot gini_index unemployed,615
+783,1.12451546282688e-05,kont_recip_tot gini_index pop_den,615
+784,0.00041069074358271777,kont_recip_tot unemployed^2,615
+785,7.889621383419266e-05,kont_recip_tot unemployed pop_den,615
+786,-0.00019277488587827037,kont_recip_tot pop_den^2,615
+787,-0.00019602749623995062,gini_index^3,615
+788,-0.0004015702052853202,gini_index^2 unemployed,615
+789,-0.00017922738984654338,gini_index^2 pop_den,615
+790,-0.0049390302968903245,gini_index unemployed^2,615
+791,0.0,gini_index unemployed pop_den,615
+792,-0.0006038468873618906,gini_index pop_den^2,615
+793,0.033233827987480605,unemployed^3,615
+794,-0.00619367257769089,unemployed^2 pop_den,615
+795,-0.0008932825191886097,unemployed pop_den^2,615
+796,-0.00042819779234633417,pop_den^3,615
+797,0.0,housing_type_Ejerlejlighed,615
+798,0.0,housing_type_Rækkehus,615
+799,-0.615048315952207,housing_type_Villa,615
+800,0.0,1,607
+801,0.0,erhvervsindkomst,607
+802,0.0,formueindkomst,607
+803,0.0,anden_personlig_indkomst,607
+804,-0.0,kont_recip_tot,607
+805,0.0,gini_index,607
+806,-0.0,unemployed,607
+807,0.0,pop_den,607
+808,-0.01697672954017761,erhvervsindkomst^2,607
+809,-0.00501496183362785,erhvervsindkomst formueindkomst,607
+810,0.04703475676023406,erhvervsindkomst anden_personlig_indkomst,607
+811,0.16307243590231701,erhvervsindkomst kont_recip_tot,607
+812,-0.04985466589937473,erhvervsindkomst gini_index,607
+813,0.0350627379016968,erhvervsindkomst unemployed,607
+814,0.013697284546182664,erhvervsindkomst pop_den,607
+815,-0.09736742809239705,formueindkomst^2,607
+816,0.023318739130298884,formueindkomst anden_personlig_indkomst,607
+817,-0.04063722240964236,formueindkomst kont_recip_tot,607
+818,-0.0,formueindkomst gini_index,607
+819,0.044631418568402074,formueindkomst unemployed,607
+820,0.024994065180805103,formueindkomst pop_den,607
+821,-0.0648505412803942,anden_personlig_indkomst^2,607
+822,0.03454387036271808,anden_personlig_indkomst kont_recip_tot,607
+823,0.00036613753488366464,anden_personlig_indkomst gini_index,607
+824,-0.0,anden_personlig_indkomst unemployed,607
+825,0.00484868982092307,anden_personlig_indkomst pop_den,607
+826,-0.0027890178262466635,kont_recip_tot^2,607
+827,0.0037005885576296606,kont_recip_tot gini_index,607
+828,-0.13166668361569056,kont_recip_tot unemployed,607
+829,-0.023029470197957605,kont_recip_tot pop_den,607
+830,-0.025999449134276823,gini_index^2,607
+831,0.06835827309012571,gini_index unemployed,607
+832,0.007856551738971483,gini_index pop_den,607
+833,0.1612541249416402,unemployed^2,607
+834,-0.01966541620017788,unemployed pop_den,607
+835,-0.005882733836303994,pop_den^2,607
+836,0.0,housing_type_Ejerlejlighed,607
+837,0.48153296054083544,housing_type_Rækkehus,607
+838,-0.03374950225865046,housing_type_Villa,607
+839,0.0,1,580
+840,0.6132007530844422,erhvervsindkomst,580
+841,0.12566470829411347,formueindkomst,580
+842,0.03183145666798658,anden_personlig_indkomst,580
+843,0.12210184704454491,kont_recip_tot,580
+844,0.1041645834700917,gini_index,580
+845,0.0,unemployed,580
+846,0.3342014216406871,pop_den,580
+847,0.06740962365392185,housing_type_Ejerlejlighed,580
+848,0.0,housing_type_Rækkehus,580
+849,-1.4000212015410256,housing_type_Villa,580
+850,0.0,1,575
+851,0.09115544363279693,erhvervsindkomst,575
+852,-0.3639904961014941,formueindkomst,575
+853,0.10628309705524358,anden_personlig_indkomst,575
+854,-0.0282726877882221,kont_recip_tot,575
+855,0.3483169579093724,gini_index,575
+856,-0.301827655232803,unemployed,575
+857,0.23452983914198086,pop_den,575
+858,0.07306786214749768,housing_type_Ejerlejlighed,575
+859,0.0,housing_type_Rækkehus,575
+860,-0.8254194844311471,housing_type_Villa,575
+861,0.0,1,573
+862,0.0,erhvervsindkomst,573
+863,0.0,formueindkomst,573
+864,-0.0,anden_personlig_indkomst,573
+865,-0.0,kont_recip_tot,573
+866,0.0,gini_index,573
+867,-0.0,unemployed,573
+868,-0.0,pop_den,573
+869,-0.1651857603634531,erhvervsindkomst^2,573
+870,-0.013871980155163997,erhvervsindkomst formueindkomst,573
+871,0.0,erhvervsindkomst anden_personlig_indkomst,573
+872,-0.0,erhvervsindkomst kont_recip_tot,573
+873,-0.0,erhvervsindkomst gini_index,573
+874,0.0,erhvervsindkomst unemployed,573
+875,0.016685543478532742,erhvervsindkomst pop_den,573
+876,-0.0,formueindkomst^2,573
+877,0.0,formueindkomst anden_personlig_indkomst,573
+878,-0.0,formueindkomst kont_recip_tot,573
+879,0.0,formueindkomst gini_index,573
+880,-0.0,formueindkomst unemployed,573
+881,0.0012375622133337994,formueindkomst pop_den,573
+882,0.0,anden_personlig_indkomst^2,573
+883,0.026211654602258806,anden_personlig_indkomst kont_recip_tot,573
+884,0.0,anden_personlig_indkomst gini_index,573
+885,-0.0,anden_personlig_indkomst unemployed,573
+886,-0.0003943671850671228,anden_personlig_indkomst pop_den,573
+887,-0.0,kont_recip_tot^2,573
+888,-0.0,kont_recip_tot gini_index,573
+889,-0.0,kont_recip_tot unemployed,573
+890,-0.002061868207536438,kont_recip_tot pop_den,573
+891,-0.0427318157656702,gini_index^2,573
+892,0.0,gini_index unemployed,573
+893,0.008237120654573282,gini_index pop_den,573
+894,0.0,unemployed^2,573
+895,-0.0005895901179247733,unemployed pop_den,573
+896,-0.00077979348839613,pop_den^2,573
+897,0.17462853287386768,housing_type_Ejerlejlighed,573
+898,0.0,housing_type_Rækkehus,573
+899,-1.0731817733452946,housing_type_Villa,573
+900,0.0,1,563
+901,0.5559277714418459,erhvervsindkomst,563
+902,0.23027288976978996,formueindkomst,563
+903,0.21821000336225024,anden_personlig_indkomst,563
+904,-0.035410894054864875,kont_recip_tot,563
+905,-0.3504029372615782,gini_index,563
+906,-0.2652030210325558,unemployed,563
+907,0.03354940346649875,pop_den,563
+908,0.0,housing_type_Ejerlejlighed,563
+909,0.1241035270528811,housing_type_Rækkehus,563
+910,-0.5916562110040703,housing_type_Villa,563
+911,0.0,1,561
+912,0.4990573938016321,erhvervsindkomst,561
+913,0.12188986022753652,formueindkomst,561
+914,0.05137718692749467,anden_personlig_indkomst,561
+915,-0.0,kont_recip_tot,561
+916,0.15203369819509435,gini_index,561
+917,-0.06204040944695058,unemployed,561
+918,-0.07685895393238237,pop_den,561
+919,-0.0,housing_type_Rækkehus,561
+920,0.03748966259383701,housing_type_Ejerlejlighed,561
+921,-0.6511538210745856,housing_type_Villa,561
+922,0.0,1,550
+923,0.0,erhvervsindkomst,550
+924,0.0,formueindkomst,550
+925,-0.0,anden_personlig_indkomst,550
+926,0.0,kont_recip_tot,550
+927,0.0,gini_index,550
+928,-0.0,unemployed,550
+929,-0.0,pop_den,550
+930,0.0,erhvervsindkomst^2,550
+931,0.0,erhvervsindkomst formueindkomst,550
+932,-0.0,erhvervsindkomst anden_personlig_indkomst,550
+933,0.0,erhvervsindkomst kont_recip_tot,550
+934,0.02404961873100176,erhvervsindkomst gini_index,550
+935,-0.0,erhvervsindkomst unemployed,550
+936,0.0,erhvervsindkomst pop_den,550
+937,-0.0,formueindkomst^2,550
+938,0.0,formueindkomst anden_personlig_indkomst,550
+939,0.0,formueindkomst kont_recip_tot,550
+940,0.0019925577254753524,formueindkomst gini_index,550
+941,-0.0,formueindkomst unemployed,550
+942,0.0,formueindkomst pop_den,550
+943,0.048738039215161934,anden_personlig_indkomst^2,550
+944,-0.0,anden_personlig_indkomst kont_recip_tot,550
+945,-0.012985431495573026,anden_personlig_indkomst gini_index,550
+946,-0.0,anden_personlig_indkomst unemployed,550
+947,0.0012487782743527763,anden_personlig_indkomst pop_den,550
+948,-0.0,kont_recip_tot^2,550
+949,0.03537436095584019,kont_recip_tot gini_index,550
+950,0.0,kont_recip_tot unemployed,550
+951,-0.0,kont_recip_tot pop_den,550
+952,-0.0014888281827933655,gini_index^2,550
+953,-0.026112385798758738,gini_index unemployed,550
+954,-0.0,gini_index pop_den,550
+955,0.0,unemployed^2,550
+956,-0.0,unemployed pop_den,550
+957,-0.0,pop_den^2,550
+958,0.0,housing_type_Ejerlejlighed,550
+959,0.0,housing_type_Rækkehus,550
+960,-0.9446547229406332,housing_type_Villa,550
+961,0.0,1,540
+962,0.5464416576615266,erhvervsindkomst,540
+963,0.0,formueindkomst,540
+964,0.0,anden_personlig_indkomst,540
+965,0.08887785072094516,kont_recip_tot,540
+966,0.06386565171895064,gini_index,540
+967,-0.019290839477583317,unemployed,540
+968,0.33446826275822805,pop_den,540
+969,0.47271213720694144,housing_type_Ejerlejlighed,540
+970,0.0,housing_type_Rækkehus,540
+971,-0.9897646234440709,housing_type_Villa,540
+972,0.0,1,530
+973,0.3591336696260141,erhvervsindkomst,530
+974,-0.0,formueindkomst,530
+975,0.020669727769536208,anden_personlig_indkomst,530
+976,0.0,kont_recip_tot,530
+977,0.0,gini_index,530
+978,-0.2479883336737131,unemployed,530
+979,-0.16470273897482124,pop_den,530
+980,0.0,housing_type_Ejerlejlighed,530
+981,0.5859909525784973,housing_type_Rækkehus,530
+982,-0.7508958353906126,housing_type_Villa,530
+983,0.0,1,510
+984,0.0,erhvervsindkomst,510
+985,0.0,formueindkomst,510
+986,0.0,anden_personlig_indkomst,510
+987,0.0,kont_recip_tot,510
+988,0.0,gini_index,510
+989,-0.0,unemployed,510
+990,-0.0,pop_den,510
+991,-0.07672027126341231,erhvervsindkomst^2,510
+992,-0.0,erhvervsindkomst formueindkomst,510
+993,-0.0,erhvervsindkomst anden_personlig_indkomst,510
+994,-0.024614866397399536,erhvervsindkomst kont_recip_tot,510
+995,-0.0,erhvervsindkomst gini_index,510
+996,0.02675633159871959,erhvervsindkomst unemployed,510
+997,0.14760374567780596,erhvervsindkomst pop_den,510
+998,0.0,formueindkomst^2,510
+999,0.0,formueindkomst anden_personlig_indkomst,510
+1000,-0.0,formueindkomst kont_recip_tot,510
+1001,0.0015091191650928773,formueindkomst gini_index,510
+1002,0.0,formueindkomst unemployed,510
+1003,0.0036703382279856625,formueindkomst pop_den,510
+1004,0.0005513432045781787,anden_personlig_indkomst^2,510
+1005,-0.0013761721765609685,anden_personlig_indkomst kont_recip_tot,510
+1006,-0.0,anden_personlig_indkomst gini_index,510
+1007,0.0,anden_personlig_indkomst unemployed,510
+1008,0.009998530126233977,anden_personlig_indkomst pop_den,510
+1009,-0.0,kont_recip_tot^2,510
+1010,0.0,kont_recip_tot gini_index,510
+1011,0.0,kont_recip_tot unemployed,510
+1012,0.0,kont_recip_tot pop_den,510
+1013,0.01080144806432924,gini_index^2,510
+1014,0.005036070438703386,gini_index unemployed,510
+1015,0.0,gini_index pop_den,510
+1016,-0.0,unemployed^2,510
+1017,-0.03436132560290108,unemployed pop_den,510
+1018,-0.061273167051052006,pop_den^2,510
+1019,0.2449864880383935,housing_type_Ejerlejlighed,510
+1020,-0.0,housing_type_Rækkehus,510
+1021,-1.0639969925176336,housing_type_Villa,510
+1022,0.0,1,492
+1023,0.0,erhvervsindkomst,492
+1024,0.1278784316795091,formueindkomst,492
+1025,0.06406874986025406,anden_personlig_indkomst,492
+1026,-0.18189001423545512,kont_recip_tot,492
+1027,0.042140373462817016,gini_index,492
+1028,0.0,unemployed,492
+1029,-0.4527128740928654,pop_den,492
+1030,0.5735646560836704,housing_type_Ejerlejlighed,492
+1031,-0.0,housing_type_Rækkehus,492
+1032,-0.49476584164889786,housing_type_Villa,492
+1033,0.0,1,482
+1034,0.2844280415355757,erhvervsindkomst,482
+1035,-0.0,formueindkomst,482
+1036,0.2878341411520676,anden_personlig_indkomst,482
+1037,0.08644671331704291,kont_recip_tot,482
+1038,0.0,gini_index,482
+1039,-0.023706735059906076,unemployed,482
+1040,0.0,pop_den,482
+1041,0.36891360475009294,housing_type_Ejerlejlighed,482
+1042,0.0,housing_type_Rækkehus,482
+1043,-0.5078980979168218,housing_type_Villa,482
+1044,0.0,1,480
+1045,0.0,erhvervsindkomst,480
+1046,0.22222976456998833,formueindkomst,480
+1047,0.07887164051411406,anden_personlig_indkomst,480
+1048,-0.10721125965560717,kont_recip_tot,480
+1049,0.09489720475881862,gini_index,480
+1050,-0.219615283250286,unemployed,480
+1051,0.1735483660536787,pop_den,480
+1052,-0.0,housing_type_Ejerlejlighed,480
+1053,0.11422400803146626,housing_type_Rækkehus,480
+1054,-0.969450192465138,housing_type_Villa,480
+1055,0.0,1,479
+1056,0.5365313023579509,erhvervsindkomst,479
+1057,0.08224871791285664,formueindkomst,479
+1058,0.10394200491395894,anden_personlig_indkomst,479
+1059,-0.03290594587861323,kont_recip_tot,479
+1060,-0.35013634684167005,gini_index,479
+1061,-0.448316034799361,unemployed,479
+1062,0.1530931735783583,pop_den,479
+1063,0.05952689689847169,housing_type_Ejerlejlighed,479
+1064,0.0,housing_type_Rækkehus,479
+1065,-0.8520796532779474,housing_type_Villa,479
+1066,0.0,1,461
+1067,0.7848922566206062,erhvervsindkomst,461
+1068,0.13261010157887004,formueindkomst,461
+1069,-0.036774316722312746,anden_personlig_indkomst,461
+1070,-0.0031420203361266874,kont_recip_tot,461
+1071,0.0,gini_index,461
+1072,-0.02719609246125595,unemployed,461
+1073,0.0,pop_den,461
+1074,0.1638574715812995,housing_type_Ejerlejlighed,461
+1075,0.0,housing_type_Rækkehus,461
+1076,-0.32195619560898564,housing_type_Villa,461
+1077,0.0,1,450
+1078,0.0,erhvervsindkomst,450
+1079,0.0,formueindkomst,450
+1080,0.0,anden_personlig_indkomst,450
+1081,-0.0,kont_recip_tot,450
+1082,0.0,gini_index,450
+1083,-0.0,unemployed,450
+1084,0.0,pop_den,450
+1085,-0.22574714447447028,erhvervsindkomst^2,450
+1086,-0.0,erhvervsindkomst formueindkomst,450
+1087,-0.0,erhvervsindkomst anden_personlig_indkomst,450
+1088,0.0,erhvervsindkomst kont_recip_tot,450
+1089,-0.0,erhvervsindkomst gini_index,450
+1090,0.07668635321902086,erhvervsindkomst unemployed,450
+1091,0.06442685791886701,erhvervsindkomst pop_den,450
+1092,-0.0,formueindkomst^2,450
+1093,-0.0,formueindkomst anden_personlig_indkomst,450
+1094,-0.0,formueindkomst kont_recip_tot,450
+1095,-0.017369896857062448,formueindkomst gini_index,450
+1096,0.0,formueindkomst unemployed,450
+1097,0.006429026505237892,formueindkomst pop_den,450
+1098,-0.033974142832788636,anden_personlig_indkomst^2,450
+1099,-0.0,anden_personlig_indkomst kont_recip_tot,450
+1100,-0.012553909691206967,anden_personlig_indkomst gini_index,450
+1101,0.0,anden_personlig_indkomst unemployed,450
+1102,0.01056737933389373,anden_personlig_indkomst pop_den,450
+1103,0.10254626283021512,kont_recip_tot^2,450
+1104,-0.0,kont_recip_tot gini_index,450
+1105,0.0,kont_recip_tot unemployed,450
+1106,-0.030080571222846714,kont_recip_tot pop_den,450
+1107,-0.0,gini_index^2,450
+1108,0.0025218930847605526,gini_index unemployed,450
+1109,0.009644785227892907,gini_index pop_den,450
+1110,0.0,unemployed^2,450
+1111,-0.008422011966118961,unemployed pop_den,450
+1112,-0.004193155019913752,pop_den^2,450
+1113,0.0,housing_type_Ejerlejlighed,450
+1114,0.028410229462684296,housing_type_Rækkehus,450
+1115,-0.7673976158747273,housing_type_Villa,450
+1116,0.0,1,440
+1117,0.018152192797062924,erhvervsindkomst,440
+1118,0.48395653488070095,formueindkomst,440
+1119,0.09066477667487471,anden_personlig_indkomst,440
+1120,-0.0036821146890685832,kont_recip_tot,440
+1121,-0.530044006349444,gini_index,440
+1122,-0.16244766759503382,unemployed,440
+1123,0.46352323648270005,pop_den,440
+1124,0.5476549364292499,housing_type_Ejerlejlighed,440
+1125,-0.0,housing_type_Rækkehus,440
+1126,-0.8046547088453054,housing_type_Villa,440
+1127,0.0,1,430
+1128,0.0,erhvervsindkomst,430
+1129,-0.0,formueindkomst,430
+1130,-0.0,anden_personlig_indkomst,430
+1131,-0.0,kont_recip_tot,430
+1132,-0.0,gini_index,430
+1133,-0.0,unemployed,430
+1134,0.0,pop_den,430
+1135,-0.14610777092151878,erhvervsindkomst^2,430
+1136,-0.0,erhvervsindkomst formueindkomst,430
+1137,0.0,erhvervsindkomst anden_personlig_indkomst,430
+1138,-0.0,erhvervsindkomst kont_recip_tot,430
+1139,-0.0,erhvervsindkomst gini_index,430
+1140,0.06153333096916372,erhvervsindkomst unemployed,430
+1141,0.016299423313739285,erhvervsindkomst pop_den,430
+1142,0.039281633306769814,formueindkomst^2,430
+1143,0.0,formueindkomst anden_personlig_indkomst,430
+1144,-0.05255464077240187,formueindkomst kont_recip_tot,430
+1145,0.0,formueindkomst gini_index,430
+1146,0.0,formueindkomst unemployed,430
+1147,-0.0015632989834518981,formueindkomst pop_den,430
+1148,0.0070365660832600084,anden_personlig_indkomst^2,430
+1149,-0.0,anden_personlig_indkomst kont_recip_tot,430
+1150,0.0,anden_personlig_indkomst gini_index,430
+1151,-0.0,anden_personlig_indkomst unemployed,430
+1152,-6.639273250763113e-05,anden_personlig_indkomst pop_den,430
+1153,0.10279671324561784,kont_recip_tot^2,430
+1154,-0.0541320194062001,kont_recip_tot gini_index,430
+1155,-0.0,kont_recip_tot unemployed,430
+1156,-0.0034107443224281157,kont_recip_tot pop_den,430
+1157,0.03763385680764159,gini_index^2,430
+1158,-0.0,gini_index unemployed,430
+1159,-0.002587882594999391,gini_index pop_den,430
+1160,-0.0,unemployed^2,430
+1161,-0.0030674167087676773,unemployed pop_den,430
+1162,0.00047441971188800223,pop_den^2,430
+1163,-0.0,housing_type_Ejerlejlighed,430
+1164,0.20321913769887728,housing_type_Rækkehus,430
+1165,-0.8340447247873211,housing_type_Villa,430
+1166,0.0,1,420
+1167,0.0,erhvervsindkomst,420
+1168,0.0,formueindkomst,420
+1169,0.0,anden_personlig_indkomst,420
+1170,-0.0,kont_recip_tot,420
+1171,0.0,gini_index,420
+1172,0.0,unemployed,420
+1173,-0.0,pop_den,420
+1174,-0.0787700315259344,erhvervsindkomst^2,420
+1175,-0.0,erhvervsindkomst formueindkomst,420
+1176,0.12122674779198023,erhvervsindkomst anden_personlig_indkomst,420
+1177,-0.0,erhvervsindkomst kont_recip_tot,420
+1178,0.0,erhvervsindkomst gini_index,420
+1179,0.0,erhvervsindkomst unemployed,420
+1180,0.6741995593628092,erhvervsindkomst pop_den,420
+1181,0.042162376447334025,formueindkomst^2,420
+1182,-0.017850041404388926,formueindkomst anden_personlig_indkomst,420
+1183,-0.0,formueindkomst kont_recip_tot,420
+1184,-0.011224875609069943,formueindkomst gini_index,420
+1185,-0.0,formueindkomst unemployed,420
+1186,0.0,formueindkomst pop_den,420
+1187,-0.018401046714607447,anden_personlig_indkomst^2,420
+1188,-0.0,anden_personlig_indkomst kont_recip_tot,420
+1189,-0.0,anden_personlig_indkomst gini_index,420
+1190,-0.0,anden_personlig_indkomst unemployed,420
+1191,-0.13533012822391485,anden_personlig_indkomst pop_den,420
+1192,0.0,kont_recip_tot^2,420
+1193,-0.00996332968116262,kont_recip_tot gini_index,420
+1194,0.0,kont_recip_tot unemployed,420
+1195,-0.0,kont_recip_tot pop_den,420
+1196,0.0050932487144306855,gini_index^2,420
+1197,-0.0,gini_index unemployed,420
+1198,-0.23529111241674627,gini_index pop_den,420
+1199,0.036595777500706965,unemployed^2,420
+1200,-0.0,unemployed pop_den,420
+1201,-0.0,pop_den^2,420
+1202,0.0,housing_type_Ejerlejlighed,420
+1203,0.0,housing_type_Rækkehus,420
+1204,-0.5838311068796086,housing_type_Villa,420
+1205,0.0,1,410
+1206,0.0,erhvervsindkomst,410
+1207,0.0,formueindkomst,410
+1208,0.0,anden_personlig_indkomst,410
+1209,-0.0,kont_recip_tot,410
+1210,0.0,gini_index,410
+1211,-0.0,unemployed,410
+1212,0.0,pop_den,410
+1213,-0.15262259584609894,erhvervsindkomst^2,410
+1214,-0.032287124932974,erhvervsindkomst formueindkomst,410
+1215,0.023720359601524566,erhvervsindkomst anden_personlig_indkomst,410
+1216,0.09715582801770174,erhvervsindkomst kont_recip_tot,410
+1217,0.0,erhvervsindkomst gini_index,410
+1218,0.18755326814270748,erhvervsindkomst unemployed,410
+1219,0.044958805763337245,erhvervsindkomst pop_den,410
+1220,-0.12001572974609967,formueindkomst^2,410
+1221,0.08126417137106362,formueindkomst anden_personlig_indkomst,410
+1222,-0.034670746946554865,formueindkomst kont_recip_tot,410
+1223,-0.0006584630797024473,formueindkomst gini_index,410
+1224,0.0,formueindkomst unemployed,410
+1225,0.030647944035952408,formueindkomst pop_den,410
+1226,-0.10843826339598894,anden_personlig_indkomst^2,410
+1227,0.0,anden_personlig_indkomst kont_recip_tot,410
+1228,0.02303619876384312,anden_personlig_indkomst gini_index,410
+1229,-0.09863217685781071,anden_personlig_indkomst unemployed,410
+1230,0.02821718523682638,anden_personlig_indkomst pop_den,410
+1231,0.07020773935455339,kont_recip_tot^2,410
+1232,-0.01997605421248271,kont_recip_tot gini_index,410
+1233,0.0,kont_recip_tot unemployed,410
+1234,-0.05205852728094863,kont_recip_tot pop_den,410
+1235,-0.002593288936362561,gini_index^2,410
+1236,0.0,gini_index unemployed,410
+1237,0.005699257145472676,gini_index pop_den,410
+1238,0.048972571942337464,unemployed^2,410
+1239,-0.027539848879120508,unemployed pop_den,410
+1240,-0.0018576754159679999,pop_den^2,410
+1241,0.5829770648584146,housing_type_Ejerlejlighed,410
+1242,-0.0,housing_type_Rækkehus,410
+1243,-0.8782818469002578,housing_type_Villa,410
+1244,0.0,1,400
+1245,0.0,erhvervsindkomst,400
+1246,-0.0,formueindkomst,400
+1247,-0.0,anden_personlig_indkomst,400
+1248,-0.0,kont_recip_tot,400
+1249,-0.0,gini_index,400
+1250,-0.0,unemployed,400
+1251,0.0,pop_den,400
+1252,0.0,erhvervsindkomst^2,400
+1253,0.0,erhvervsindkomst formueindkomst,400
+1254,-0.0,erhvervsindkomst anden_personlig_indkomst,400
+1255,0.0,erhvervsindkomst kont_recip_tot,400
+1256,-0.0,erhvervsindkomst gini_index,400
+1257,-0.0,erhvervsindkomst unemployed,400
+1258,0.07476427809546307,erhvervsindkomst pop_den,400
+1259,0.1032480608830508,formueindkomst^2,400
+1260,-0.0,formueindkomst anden_personlig_indkomst,400
+1261,-0.0,formueindkomst kont_recip_tot,400
+1262,-0.06023917338051357,formueindkomst gini_index,400
+1263,-0.0,formueindkomst unemployed,400
+1264,0.0,formueindkomst pop_den,400
+1265,-0.014911574524358784,anden_personlig_indkomst^2,400
+1266,0.051630466868028746,anden_personlig_indkomst kont_recip_tot,400
+1267,-0.005081325196827426,anden_personlig_indkomst gini_index,400
+1268,-0.0,anden_personlig_indkomst unemployed,400
+1269,-0.004037230230802295,anden_personlig_indkomst pop_den,400
+1270,0.06056438209359967,kont_recip_tot^2,400
+1271,0.0,kont_recip_tot gini_index,400
+1272,-0.12444537342266321,kont_recip_tot unemployed,400
+1273,-0.04127712021576035,kont_recip_tot pop_den,400
+1274,-0.027246402373027823,gini_index^2,400
+1275,-0.0,gini_index unemployed,400
+1276,0.056644189339022606,gini_index pop_den,400
+1277,0.15418061643685904,unemployed^2,400
+1278,-0.0,unemployed pop_den,400
+1279,-0.0,pop_den^2,400
+1280,-0.10362970450418439,housing_type_Villa,400
+1281,0.0,housing_type_Rækkehus,400
+1282,0.8548589512530079,housing_type_Ejerlejlighed,400
+1283,0.0,1,390
+1284,0.0,erhvervsindkomst,390
+1285,0.0,formueindkomst,390
+1286,0.0,anden_personlig_indkomst,390
+1287,-0.0,kont_recip_tot,390
+1288,0.0,gini_index,390
+1289,0.0,unemployed,390
+1290,-0.0,pop_den,390
+1291,0.0,erhvervsindkomst^2,390
+1292,0.0,erhvervsindkomst formueindkomst,390
+1293,-0.0,erhvervsindkomst anden_personlig_indkomst,390
+1294,-0.0,erhvervsindkomst kont_recip_tot,390
+1295,-0.0,erhvervsindkomst gini_index,390
+1296,0.0,erhvervsindkomst unemployed,390
+1297,0.005879151522534015,erhvervsindkomst pop_den,390
+1298,0.017662972085953407,formueindkomst^2,390
+1299,0.0,formueindkomst anden_personlig_indkomst,390
+1300,-0.0,formueindkomst kont_recip_tot,390
+1301,0.0,formueindkomst gini_index,390
+1302,-0.0,formueindkomst unemployed,390
+1303,0.0009239706725951051,formueindkomst pop_den,390
+1304,-0.03409289411085696,anden_personlig_indkomst^2,390
+1305,-0.0,anden_personlig_indkomst kont_recip_tot,390
+1306,0.0,anden_personlig_indkomst gini_index,390
+1307,0.0,anden_personlig_indkomst unemployed,390
+1308,0.003971110694245062,anden_personlig_indkomst pop_den,390
+1309,0.033068940020676146,kont_recip_tot^2,390
+1310,-0.026571463074663747,kont_recip_tot gini_index,390
+1311,0.0,kont_recip_tot unemployed,390
+1312,-0.002813737680702789,kont_recip_tot pop_den,390
+1313,0.0,gini_index^2,390
+1314,0.0,gini_index unemployed,390
+1315,0.0019464624653050323,gini_index pop_den,390
+1316,-0.0,unemployed^2,390
+1317,0.0034219452400147945,unemployed pop_den,390
+1318,0.0034197974047441774,pop_den^2,390
+1319,0.15276274240704138,housing_type_Ejerlejlighed,390
+1320,0.0,housing_type_Rækkehus,390
+1321,-0.7255183969181757,housing_type_Villa,390
+1322,0.0,1,376
+1323,-0.0,erhvervsindkomst,376
+1324,-0.0,formueindkomst,376
+1325,-0.0,anden_personlig_indkomst,376
+1326,0.0,kont_recip_tot,376
+1327,0.0,gini_index,376
+1328,0.0,unemployed,376
+1329,-0.0,pop_den,376
+1330,-0.09707592486879389,erhvervsindkomst^2,376
+1331,-0.016204442811149793,erhvervsindkomst formueindkomst,376
+1332,0.012986260887059144,erhvervsindkomst anden_personlig_indkomst,376
+1333,0.108380644364224,erhvervsindkomst kont_recip_tot,376
+1334,3.524302662689616e-05,erhvervsindkomst gini_index,376
+1335,0.0,erhvervsindkomst unemployed,376
+1336,0.02190713711623148,erhvervsindkomst pop_den,376
+1337,0.0,formueindkomst^2,376
+1338,-0.19199668688146923,formueindkomst anden_personlig_indkomst,376
+1339,0.11293091288154539,formueindkomst kont_recip_tot,376
+1340,0.0,formueindkomst gini_index,376
+1341,-0.07333018896529589,formueindkomst unemployed,376
+1342,0.01124885419396143,formueindkomst pop_den,376
+1343,-0.01016368531649843,anden_personlig_indkomst^2,376
+1344,-0.044069136152026574,anden_personlig_indkomst kont_recip_tot,376
+1345,0.009566704672623688,anden_personlig_indkomst gini_index,376
+1346,-0.10064292154982266,anden_personlig_indkomst unemployed,376
+1347,0.017379188593560583,anden_personlig_indkomst pop_den,376
+1348,0.0,kont_recip_tot^2,376
+1349,-0.03884862104845372,kont_recip_tot gini_index,376
+1350,0.0,kont_recip_tot unemployed,376
+1351,-0.017331471445259105,kont_recip_tot pop_den,376
+1352,-0.030895688145594003,gini_index^2,376
+1353,0.012465805240214905,gini_index unemployed,376
+1354,0.01964203081189532,gini_index pop_den,376
+1355,0.024908038097252207,unemployed^2,376
+1356,0.003231190705322131,unemployed pop_den,376
+1357,-0.001207316256629612,pop_den^2,376
+1358,0.4774548277943763,housing_type_Ejerlejlighed,376
+1359,0.0,housing_type_Rækkehus,376
+1360,-0.5984626181496342,housing_type_Villa,376
+1361,0.0,1,370
+1362,0.0,erhvervsindkomst,370
+1363,0.0,formueindkomst,370
+1364,0.0,anden_personlig_indkomst,370
+1365,-0.0,kont_recip_tot,370
+1366,0.0,gini_index,370
+1367,0.0,unemployed,370
+1368,0.0,pop_den,370
+1369,-0.0996630719582022,erhvervsindkomst^2,370
+1370,-0.003783774223596982,erhvervsindkomst formueindkomst,370
+1371,0.0,erhvervsindkomst anden_personlig_indkomst,370
+1372,0.10426408823865425,erhvervsindkomst kont_recip_tot,370
+1373,0.0,erhvervsindkomst gini_index,370
+1374,0.054900833464464185,erhvervsindkomst unemployed,370
+1375,0.01554964365400395,erhvervsindkomst pop_den,370
+1376,-0.02508687851002961,formueindkomst^2,370
+1377,-0.05639973801029565,formueindkomst anden_personlig_indkomst,370
+1378,0.06712595871622717,formueindkomst kont_recip_tot,370
+1379,-0.00042064536653207594,formueindkomst gini_index,370
+1380,0.0,formueindkomst unemployed,370
+1381,0.00817761857422745,formueindkomst pop_den,370
+1382,-0.030182189908859486,anden_personlig_indkomst^2,370
+1383,-0.05154213971640395,anden_personlig_indkomst kont_recip_tot,370
+1384,0.0016100061112375753,anden_personlig_indkomst gini_index,370
+1385,0.007230605616565791,anden_personlig_indkomst unemployed,370
+1386,0.03430217951984096,anden_personlig_indkomst pop_den,370
+1387,0.04378362874576623,kont_recip_tot^2,370
+1388,-0.031081131807770227,kont_recip_tot gini_index,370
+1389,-0.09557400886026166,kont_recip_tot unemployed,370
+1390,-0.04406502383698726,kont_recip_tot pop_den,370
+1391,0.012673528927674354,gini_index^2,370
+1392,0.004044560999711387,gini_index unemployed,370
+1393,0.0018284067768085128,gini_index pop_den,370
+1394,0.08452930289391244,unemployed^2,370
+1395,0.0005257467752227467,unemployed pop_den,370
+1396,0.004958063071275552,pop_den^2,370
+1397,0.5498674886017857,housing_type_Rækkehus,370
+1398,-0.0,housing_type_Ejerlejlighed,370
+1399,-0.4436763815260761,housing_type_Villa,370
+1400,0.0,1,360
+1401,-0.0,erhvervsindkomst,360
+1402,-0.0,formueindkomst,360
+1403,0.0,anden_personlig_indkomst,360
+1404,-0.0,kont_recip_tot,360
+1405,-0.0,gini_index,360
+1406,0.0,unemployed,360
+1407,0.0,pop_den,360
+1408,-0.006865585293386591,erhvervsindkomst^2,360
+1409,-0.0,erhvervsindkomst formueindkomst,360
+1410,0.0,erhvervsindkomst anden_personlig_indkomst,360
+1411,0.10255468165841435,erhvervsindkomst kont_recip_tot,360
+1412,-0.0,erhvervsindkomst gini_index,360
+1413,0.0,erhvervsindkomst unemployed,360
+1414,0.09878012514584218,erhvervsindkomst pop_den,360
+1415,0.0,formueindkomst^2,360
+1416,0.0,formueindkomst anden_personlig_indkomst,360
+1417,-0.0,formueindkomst kont_recip_tot,360
+1418,-0.0,formueindkomst gini_index,360
+1419,0.0,formueindkomst unemployed,360
+1420,0.0017666539559305005,formueindkomst pop_den,360
+1421,-0.07226104197539683,anden_personlig_indkomst^2,360
+1422,0.010985481444088173,anden_personlig_indkomst kont_recip_tot,360
+1423,0.06815734908836554,anden_personlig_indkomst gini_index,360
+1424,0.0,anden_personlig_indkomst unemployed,360
+1425,0.0,anden_personlig_indkomst pop_den,360
+1426,0.0,kont_recip_tot^2,360
+1427,0.004153852792563216,kont_recip_tot gini_index,360
+1428,-0.0,kont_recip_tot unemployed,360
+1429,-0.053762868657690525,kont_recip_tot pop_den,360
+1430,-0.03243393019204184,gini_index^2,360
+1431,0.0,gini_index unemployed,360
+1432,0.03152109539483144,gini_index pop_den,360
+1433,0.0,unemployed^2,360
+1434,0.0030587414567587326,unemployed pop_den,360
+1435,0.04723742875913219,pop_den^2,360
+1436,1.2412499526945897,housing_type_Ejerlejlighed,360
+1437,-0.0,housing_type_Rækkehus,360
+1438,-0.023736370080097068,housing_type_Villa,360
+1439,0.0,1,350
+1440,0.0,erhvervsindkomst,350
+1441,0.0,formueindkomst,350
+1442,0.0,anden_personlig_indkomst,350
+1443,-0.0,kont_recip_tot,350
+1444,-0.0,gini_index,350
+1445,-0.0,unemployed,350
+1446,-0.0,pop_den,350
+1447,0.027644036524885084,erhvervsindkomst^2,350
+1448,0.0,erhvervsindkomst formueindkomst,350
+1449,0.0,erhvervsindkomst anden_personlig_indkomst,350
+1450,-0.0,erhvervsindkomst kont_recip_tot,350
+1451,0.012593801977283454,erhvervsindkomst gini_index,350
+1452,-0.0,erhvervsindkomst unemployed,350
+1453,-0.0,erhvervsindkomst pop_den,350
+1454,0.03624703875182386,formueindkomst^2,350
+1455,0.05393695420223528,formueindkomst anden_personlig_indkomst,350
+1456,0.0,formueindkomst kont_recip_tot,350
+1457,0.00024660211178191956,formueindkomst gini_index,350
+1458,0.0,formueindkomst unemployed,350
+1459,-0.0,formueindkomst pop_den,350
+1460,0.12545621976710247,anden_personlig_indkomst^2,350
+1461,-0.0,anden_personlig_indkomst kont_recip_tot,350
+1462,0.0,anden_personlig_indkomst gini_index,350
+1463,0.0,anden_personlig_indkomst unemployed,350
+1464,-0.0,anden_personlig_indkomst pop_den,350
+1465,0.0,kont_recip_tot^2,350
+1466,-0.0,kont_recip_tot gini_index,350
+1467,0.0,kont_recip_tot unemployed,350
+1468,-0.0,kont_recip_tot pop_den,350
+1469,-0.03515406371842312,gini_index^2,350
+1470,0.0017237551705346135,gini_index unemployed,350
+1471,-0.03428678246135461,gini_index pop_den,350
+1472,0.0,unemployed^2,350
+1473,0.0,unemployed pop_den,350
+1474,-0.0,pop_den^2,350
+1475,-0.012814231582312437,erhvervsindkomst^3,350
+1476,-0.010398325328137486,erhvervsindkomst^2 formueindkomst,350
+1477,-0.009938777577451301,erhvervsindkomst^2 anden_personlig_indkomst,350
+1478,-0.002939375641141872,erhvervsindkomst^2 kont_recip_tot,350
+1479,0.01110732653024131,erhvervsindkomst^2 gini_index,350
+1480,-0.0,erhvervsindkomst^2 unemployed,350
+1481,0.029763175040278506,erhvervsindkomst^2 pop_den,350
+1482,-0.00620056849626854,erhvervsindkomst formueindkomst^2,350
+1483,-0.007647499082859463,erhvervsindkomst formueindkomst anden_personlig_indkomst,350
+1484,0.027543398105738793,erhvervsindkomst formueindkomst kont_recip_tot,350
+1485,0.005773805408196746,erhvervsindkomst formueindkomst gini_index,350
+1486,0.0003899781671518543,erhvervsindkomst formueindkomst unemployed,350
+1487,-0.0,erhvervsindkomst formueindkomst pop_den,350
+1488,-0.014252690710763008,erhvervsindkomst anden_personlig_indkomst^2,350
+1489,-0.0075863731560170105,erhvervsindkomst anden_personlig_indkomst kont_recip_tot,350
+1490,0.0028421950264201717,erhvervsindkomst anden_personlig_indkomst gini_index,350
+1491,0.003681750741372203,erhvervsindkomst anden_personlig_indkomst unemployed,350
+1492,-0.015257003148327406,erhvervsindkomst anden_personlig_indkomst pop_den,350
+1493,0.030501199334807636,erhvervsindkomst kont_recip_tot^2,350
+1494,-0.014722998424201234,erhvervsindkomst kont_recip_tot gini_index,350
+1495,0.02421887110997361,erhvervsindkomst kont_recip_tot unemployed,350
+1496,-0.0,erhvervsindkomst kont_recip_tot pop_den,350
+1497,0.0028718464364637037,erhvervsindkomst gini_index^2,350
+1498,-0.004336660714418316,erhvervsindkomst gini_index unemployed,350
+1499,0.009947749963948295,erhvervsindkomst gini_index pop_den,350
+1500,0.0042005797399618915,erhvervsindkomst unemployed^2,350
+1501,-0.0,erhvervsindkomst unemployed pop_den,350
+1502,-0.0007748588570198523,erhvervsindkomst pop_den^2,350
+1503,0.005171330369056135,formueindkomst^3,350
+1504,0.011028560952453508,formueindkomst^2 anden_personlig_indkomst,350
+1505,0.0413745949462574,formueindkomst^2 kont_recip_tot,350
+1506,-0.0011628916780350913,formueindkomst^2 gini_index,350
+1507,0.007834755850124598,formueindkomst^2 unemployed,350
+1508,0.055951117456871265,formueindkomst^2 pop_den,350
+1509,2.3264630754287396e-05,formueindkomst anden_personlig_indkomst^2,350
+1510,0.0,formueindkomst anden_personlig_indkomst kont_recip_tot,350
+1511,-0.0017132692505813182,formueindkomst anden_personlig_indkomst gini_index,350
+1512,0.0018198093523515708,formueindkomst anden_personlig_indkomst unemployed,350
+1513,0.004231731088004219,formueindkomst anden_personlig_indkomst pop_den,350
+1514,0.05339505576676549,formueindkomst kont_recip_tot^2,350
+1515,-0.02364789181979337,formueindkomst kont_recip_tot gini_index,350
+1516,0.03843784554462313,formueindkomst kont_recip_tot unemployed,350
+1517,-0.0,formueindkomst kont_recip_tot pop_den,350
+1518,0.00021166300813440608,formueindkomst gini_index^2,350
+1519,-0.011410115658732156,formueindkomst gini_index unemployed,350
+1520,-0.009893251209204515,formueindkomst gini_index pop_den,350
+1521,0.0,formueindkomst unemployed^2,350
+1522,-0.0,formueindkomst unemployed pop_den,350
+1523,-0.02061528064856673,formueindkomst pop_den^2,350
+1524,-0.0026057257121026817,anden_personlig_indkomst^3,350
+1525,-0.022264868096814494,anden_personlig_indkomst^2 kont_recip_tot,350
+1526,0.004512035691547884,anden_personlig_indkomst^2 gini_index,350
+1527,0.010926410579993953,anden_personlig_indkomst^2 unemployed,350
+1528,0.002703972879265528,anden_personlig_indkomst^2 pop_den,350
+1529,0.007534871688335307,anden_personlig_indkomst kont_recip_tot^2,350
+1530,-0.010896999687334813,anden_personlig_indkomst kont_recip_tot gini_index,350
+1531,0.01373016878637954,anden_personlig_indkomst kont_recip_tot unemployed,350
+1532,-0.0,anden_personlig_indkomst kont_recip_tot pop_den,350
+1533,-0.0017257701270896814,anden_personlig_indkomst gini_index^2,350
+1534,0.004310215116953863,anden_personlig_indkomst gini_index unemployed,350
+1535,-0.0036159624707817395,anden_personlig_indkomst gini_index pop_den,350
+1536,-0.00041038475985895925,anden_personlig_indkomst unemployed^2,350
+1537,0.04188143324839374,anden_personlig_indkomst unemployed pop_den,350
+1538,-0.0,anden_personlig_indkomst pop_den^2,350
+1539,0.015122470026749192,kont_recip_tot^3,350
+1540,0.006645649473010786,kont_recip_tot^2 gini_index,350
+1541,-0.019188695364736566,kont_recip_tot^2 unemployed,350
+1542,-0.0,kont_recip_tot^2 pop_den,350
+1543,-0.006643004066599157,kont_recip_tot gini_index^2,350
+1544,0.016667114179644598,kont_recip_tot gini_index unemployed,350
+1545,-0.009765239848750069,kont_recip_tot gini_index pop_den,350
+1546,-0.02421020576833748,kont_recip_tot unemployed^2,350
+1547,0.0,kont_recip_tot unemployed pop_den,350
+1548,-0.0,kont_recip_tot pop_den^2,350
+1549,-0.0003432400580828434,gini_index^3,350
+1550,-0.0007831542369738259,gini_index^2 unemployed,350
+1551,-0.0038476298207667362,gini_index^2 pop_den,350
+1552,0.0031948230796477036,gini_index unemployed^2,350
+1553,0.0,gini_index unemployed pop_den,350
+1554,-0.006125488181484269,gini_index pop_den^2,350
+1555,-0.030961094665999184,unemployed^3,350
+1556,0.0,unemployed^2 pop_den,350
+1557,0.0,unemployed pop_den^2,350
+1558,-0.0,pop_den^3,350
+1559,0.17348430791688815,housing_type_Ejerlejlighed,350
+1560,0.0,housing_type_Rækkehus,350
+1561,-0.8604180297230193,housing_type_Villa,350
+1562,0.0,1,340
+1563,0.1088279206912144,erhvervsindkomst,340
+1564,-0.0,formueindkomst,340
+1565,0.0546892786302222,anden_personlig_indkomst,340
+1566,-0.34545561041319933,kont_recip_tot,340
+1567,0.12022173841767127,gini_index,340
+1568,-0.02422391697397924,unemployed,340
+1569,0.5128494451191634,pop_den,340
+1570,-0.0,housing_type_Ejerlejlighed,340
+1571,0.1560442364973276,housing_type_Rækkehus,340
+1572,-0.7767453270336517,housing_type_Villa,340
+1573,0.0,1,336
+1574,-0.0,erhvervsindkomst,336
+1575,0.1552603673246749,formueindkomst,336
+1576,0.1602189651697636,anden_personlig_indkomst,336
+1577,-0.17443457937047108,kont_recip_tot,336
+1578,-0.25352636777975524,gini_index,336
+1579,-0.6128550116068258,unemployed,336
+1580,0.1940721740142572,pop_den,336
+1581,-0.0,housing_type_Ejerlejlighed,336
+1582,0.6714929902906003,housing_type_Rækkehus,336
+1583,-0.5254611795873668,housing_type_Villa,336
+1584,0.0,1,330
+1585,-0.0,erhvervsindkomst,330
+1586,-0.0,formueindkomst,330
+1587,-0.0,anden_personlig_indkomst,330
+1588,-0.0,kont_recip_tot,330
+1589,-0.0,gini_index,330
+1590,0.0,unemployed,330
+1591,0.09637579471378747,pop_den,330
+1592,-0.24825058973849218,erhvervsindkomst^2,330
+1593,0.03702915095964904,erhvervsindkomst formueindkomst,330
+1594,0.08308697746179403,erhvervsindkomst anden_personlig_indkomst,330
+1595,0.01793849023081427,erhvervsindkomst kont_recip_tot,330
+1596,0.009676457392968464,erhvervsindkomst gini_index,330
+1597,0.2719755170441842,erhvervsindkomst unemployed,330
+1598,0.04009976568056328,erhvervsindkomst pop_den,330
+1599,-0.07370319986599952,formueindkomst^2,330
+1600,0.036332077274228505,formueindkomst anden_personlig_indkomst,330
+1601,-0.18675620555939818,formueindkomst kont_recip_tot,330
+1602,0.0655604930005794,formueindkomst gini_index,330
+1603,0.019071867068266312,formueindkomst unemployed,330
+1604,0.012126655397266746,formueindkomst pop_den,330
+1605,-0.10650828656666358,anden_personlig_indkomst^2,330
+1606,0.009641827548724747,anden_personlig_indkomst kont_recip_tot,330
+1607,0.004130748252467525,anden_personlig_indkomst gini_index,330
+1608,-0.12663509147948585,anden_personlig_indkomst unemployed,330
+1609,0.01474638439524528,anden_personlig_indkomst pop_den,330
+1610,0.1010381089451898,kont_recip_tot^2,330
+1611,-0.07854564820885823,kont_recip_tot gini_index,330
+1612,-0.04548552607888788,kont_recip_tot unemployed,330
+1613,0.009235363361339358,kont_recip_tot pop_den,330
+1614,-0.019315915641723396,gini_index^2,330
+1615,-0.008581821799632124,gini_index unemployed,330
+1616,0.01161117935888152,gini_index pop_den,330
+1617,0.13372690490436515,unemployed^2,330
+1618,-0.024753569565640614,unemployed pop_den,330
+1619,0.0028202540498675497,pop_den^2,330
+1620,0.0,housing_type_Ejerlejlighed,330
+1621,0.8748011179023224,housing_type_Rækkehus,330
+1622,-0.1448980744037482,housing_type_Villa,330
+1623,0.0,1,329
+1624,0.0,erhvervsindkomst,329
+1625,0.0,formueindkomst,329
+1626,0.0,anden_personlig_indkomst,329
+1627,-0.0,kont_recip_tot,329
+1628,0.0,gini_index,329
+1629,-0.0,unemployed,329
+1630,0.0,pop_den,329
+1631,0.0,erhvervsindkomst^2,329
+1632,0.0,erhvervsindkomst formueindkomst,329
+1633,0.0,erhvervsindkomst anden_personlig_indkomst,329
+1634,0.0,erhvervsindkomst kont_recip_tot,329
+1635,0.041740961179574584,erhvervsindkomst gini_index,329
+1636,-0.0,erhvervsindkomst unemployed,329
+1637,0.0004956014674553001,erhvervsindkomst pop_den,329
+1638,0.0,formueindkomst^2,329
+1639,0.0,formueindkomst anden_personlig_indkomst,329
+1640,0.0,formueindkomst kont_recip_tot,329
+1641,0.00015765174840681279,formueindkomst gini_index,329
+1642,-0.0,formueindkomst unemployed,329
+1643,0.009992363768109743,formueindkomst pop_den,329
+1644,0.0,anden_personlig_indkomst^2,329
+1645,0.0,anden_personlig_indkomst kont_recip_tot,329
+1646,0.00977803701527298,anden_personlig_indkomst gini_index,329
+1647,-0.0,anden_personlig_indkomst unemployed,329
+1648,0.0,anden_personlig_indkomst pop_den,329
+1649,0.0,kont_recip_tot^2,329
+1650,0.0,kont_recip_tot gini_index,329
+1651,-0.0,kont_recip_tot unemployed,329
+1652,0.0,kont_recip_tot pop_den,329
+1653,4.1326697140578376e-05,gini_index^2,329
+1654,-0.0,gini_index unemployed,329
+1655,0.0001778892518900731,gini_index pop_den,329
+1656,0.0,unemployed^2,329
+1657,-0.0,unemployed pop_den,329
+1658,0.0,pop_den^2,329
+1659,-0.0010018017028690573,erhvervsindkomst^3,329
+1660,-0.0027094601891443104,erhvervsindkomst^2 formueindkomst,329
+1661,-0.006290806776108789,erhvervsindkomst^2 anden_personlig_indkomst,329
+1662,0.01652583003936933,erhvervsindkomst^2 kont_recip_tot,329
+1663,-0.0013214656981901393,erhvervsindkomst^2 gini_index,329
+1664,0.0,erhvervsindkomst^2 unemployed,329
+1665,-0.0,erhvervsindkomst^2 pop_den,329
+1666,-0.0,erhvervsindkomst formueindkomst^2,329
+1667,-0.0,erhvervsindkomst formueindkomst anden_personlig_indkomst,329
+1668,0.002127754414549503,erhvervsindkomst formueindkomst kont_recip_tot,329
+1669,-0.0024309566284073866,erhvervsindkomst formueindkomst gini_index,329
+1670,0.0,erhvervsindkomst formueindkomst unemployed,329
+1671,-0.0,erhvervsindkomst formueindkomst pop_den,329
+1672,-0.0033399851955027925,erhvervsindkomst anden_personlig_indkomst^2,329
+1673,0.0,erhvervsindkomst anden_personlig_indkomst kont_recip_tot,329
+1674,8.97312557966044e-06,erhvervsindkomst anden_personlig_indkomst gini_index,329
+1675,0.0,erhvervsindkomst anden_personlig_indkomst unemployed,329
+1676,0.0,erhvervsindkomst anden_personlig_indkomst pop_den,329
+1677,-0.0010507477219257628,erhvervsindkomst kont_recip_tot^2,329
+1678,0.002405832605443385,erhvervsindkomst kont_recip_tot gini_index,329
+1679,-0.0,erhvervsindkomst kont_recip_tot unemployed,329
+1680,-0.0,erhvervsindkomst kont_recip_tot pop_den,329
+1681,5.402105541719923e-06,erhvervsindkomst gini_index^2,329
+1682,-0.0,erhvervsindkomst gini_index unemployed,329
+1683,4.568354254662031e-06,erhvervsindkomst gini_index pop_den,329
+1684,-0.0,erhvervsindkomst unemployed^2,329
+1685,-0.0,erhvervsindkomst unemployed pop_den,329
+1686,1.0627295968964624e-07,erhvervsindkomst pop_den^2,329
+1687,0.01034818478604756,formueindkomst^3,329
+1688,0.01356195461806506,formueindkomst^2 anden_personlig_indkomst,329
+1689,0.0006436201477293193,formueindkomst^2 kont_recip_tot,329
+1690,-0.005164918302860467,formueindkomst^2 gini_index,329
+1691,0.0,formueindkomst^2 unemployed,329
+1692,0.0,formueindkomst^2 pop_den,329
+1693,0.005967521852734428,formueindkomst anden_personlig_indkomst^2,329
+1694,0.012253015491392714,formueindkomst anden_personlig_indkomst kont_recip_tot,329
+1695,9.050297504756151e-06,formueindkomst anden_personlig_indkomst gini_index,329
+1696,0.07742867037755229,formueindkomst anden_personlig_indkomst unemployed,329
+1697,-6.38933716681777e-05,formueindkomst anden_personlig_indkomst pop_den,329
+1698,-0.009260719160232385,formueindkomst kont_recip_tot^2,329
+1699,-0.0009191145067379391,formueindkomst kont_recip_tot gini_index,329
+1700,0.0,formueindkomst kont_recip_tot unemployed,329
+1701,-0.0,formueindkomst kont_recip_tot pop_den,329
+1702,-0.0028318240381981635,formueindkomst gini_index^2,329
+1703,-0.0005788489566438814,formueindkomst gini_index unemployed,329
+1704,0.0005041924106403466,formueindkomst gini_index pop_den,329
+1705,-0.0,formueindkomst unemployed^2,329
+1706,-0.0,formueindkomst unemployed pop_den,329
+1707,0.0002784475073879382,formueindkomst pop_den^2,329
+1708,-0.008406267400867768,anden_personlig_indkomst^3,329
+1709,0.011515060716893436,anden_personlig_indkomst^2 kont_recip_tot,329
+1710,-0.0003602202756170976,anden_personlig_indkomst^2 gini_index,329
+1711,-0.0,anden_personlig_indkomst^2 unemployed,329
+1712,-0.0003615938905208172,anden_personlig_indkomst^2 pop_den,329
+1713,-0.02979658589965052,anden_personlig_indkomst kont_recip_tot^2,329
+1714,0.011553386003818717,anden_personlig_indkomst kont_recip_tot gini_index,329
+1715,-0.008543926293581873,anden_personlig_indkomst kont_recip_tot unemployed,329
+1716,-0.001209651051315417,anden_personlig_indkomst kont_recip_tot pop_den,329
+1717,-0.00036025331481736315,anden_personlig_indkomst gini_index^2,329
+1718,-0.0032196703678621756,anden_personlig_indkomst gini_index unemployed,329
+1719,-0.0003042002616886308,anden_personlig_indkomst gini_index pop_den,329
+1720,-0.0,anden_personlig_indkomst unemployed^2,329
+1721,-0.0036000689054276527,anden_personlig_indkomst unemployed pop_den,329
+1722,-0.0005244416953810613,anden_personlig_indkomst pop_den^2,329
+1723,0.007431564849653135,kont_recip_tot^3,329
+1724,-0.0008299591630303207,kont_recip_tot^2 gini_index,329
+1725,0.0070621504217202305,kont_recip_tot^2 unemployed,329
+1726,-0.0023163063088899173,kont_recip_tot^2 pop_den,329
+1727,0.0018793879887360756,kont_recip_tot gini_index^2,329
+1728,0.0,kont_recip_tot gini_index unemployed,329
+1729,-0.0005281768701007302,kont_recip_tot gini_index pop_den,329
+1730,0.0,kont_recip_tot unemployed^2,329
+1731,0.0,kont_recip_tot unemployed pop_den,329
+1732,-0.0012401488412474616,kont_recip_tot pop_den^2,329
+1733,-0.00018265607845648218,gini_index^3,329
+1734,-0.0027128753094603168,gini_index^2 unemployed,329
+1735,-0.00023152848280260486,gini_index^2 pop_den,329
+1736,0.000135415278127819,gini_index unemployed^2,329
+1737,-0.0002753272972819886,gini_index unemployed pop_den,329
+1738,-2.0985067436318787e-07,gini_index pop_den^2,329
+1739,0.012718609266080103,unemployed^3,329
+1740,0.0,unemployed^2 pop_den,329
+1741,-0.0009875186607209237,unemployed pop_den^2,329
+1742,-8.161969636035725e-06,pop_den^3,329
+1743,0.534208624168878,housing_type_Rækkehus,329
+1744,0.0,housing_type_Ejerlejlighed,329
+1745,-0.19991047332302336,housing_type_Villa,329
+1746,0.0,1,326
+1747,-0.0,erhvervsindkomst,326
+1748,0.0,formueindkomst,326
+1749,-0.0,anden_personlig_indkomst,326
+1750,0.0,kont_recip_tot,326
+1751,0.0,gini_index,326
+1752,-0.0,unemployed,326
+1753,-0.0,pop_den,326
+1754,-0.00760206858898006,erhvervsindkomst^2,326
+1755,0.020727876384266465,erhvervsindkomst formueindkomst,326
+1756,-0.0,erhvervsindkomst anden_personlig_indkomst,326
+1757,0.0,erhvervsindkomst kont_recip_tot,326
+1758,-0.0007796389649918931,erhvervsindkomst gini_index,326
+1759,0.0,erhvervsindkomst unemployed,326
+1760,0.002914067403798998,erhvervsindkomst pop_den,326
+1761,0.0005662213776130526,formueindkomst^2,326
+1762,0.0,formueindkomst anden_personlig_indkomst,326
+1763,0.0,formueindkomst kont_recip_tot,326
+1764,-0.0022405393522647084,formueindkomst gini_index,326
+1765,-0.0,formueindkomst unemployed,326
+1766,0.00365164659876534,formueindkomst pop_den,326
+1767,0.017045452828052768,anden_personlig_indkomst^2,326
+1768,-0.014937594242818639,anden_personlig_indkomst kont_recip_tot,326
+1769,0.012683098311317777,anden_personlig_indkomst gini_index,326
+1770,0.0,anden_personlig_indkomst unemployed,326
+1771,-0.0021376598624349113,anden_personlig_indkomst pop_den,326
+1772,-0.0036808259630383066,kont_recip_tot^2,326
+1773,-0.021672685585864045,kont_recip_tot gini_index,326
+1774,0.0,kont_recip_tot unemployed,326
+1775,-0.0010459245127326777,kont_recip_tot pop_den,326
+1776,0.00863800505425575,gini_index^2,326
+1777,-0.022273553563372663,gini_index unemployed,326
+1778,-0.0023279288455176597,gini_index pop_den,326
+1779,-0.0,unemployed^2,326
+1780,-0.0016207838553410968,unemployed pop_den,326
+1781,0.003822267392552155,pop_den^2,326
+1782,-0.0137596439302341,erhvervsindkomst^3,326
+1783,0.006089575624293963,erhvervsindkomst^2 formueindkomst,326
+1784,-0.003168444003603946,erhvervsindkomst^2 anden_personlig_indkomst,326
+1785,0.0058258235541357615,erhvervsindkomst^2 kont_recip_tot,326
+1786,-0.0014887065504648462,erhvervsindkomst^2 gini_index,326
+1787,0.0314515625667974,erhvervsindkomst^2 unemployed,326
+1788,0.0007273184207786423,erhvervsindkomst^2 pop_den,326
+1789,0.0012779692519613328,erhvervsindkomst formueindkomst^2,326
+1790,2.102850215529334e-06,erhvervsindkomst formueindkomst anden_personlig_indkomst,326
+1791,0.006211589331348019,erhvervsindkomst formueindkomst kont_recip_tot,326
+1792,-0.0014413657751460426,erhvervsindkomst formueindkomst gini_index,326
+1793,0.08270620738553543,erhvervsindkomst formueindkomst unemployed,326
+1794,0.0009527039396061523,erhvervsindkomst formueindkomst pop_den,326
+1795,0.0022144972975553573,erhvervsindkomst anden_personlig_indkomst^2,326
+1796,-0.00027434619523621995,erhvervsindkomst anden_personlig_indkomst kont_recip_tot,326
+1797,0.0005775182501111537,erhvervsindkomst anden_personlig_indkomst gini_index,326
+1798,0.002667979760728237,erhvervsindkomst anden_personlig_indkomst unemployed,326
+1799,-0.00026276355803122594,erhvervsindkomst anden_personlig_indkomst pop_den,326
+1800,0.004104174057869896,erhvervsindkomst kont_recip_tot^2,326
+1801,-0.002808785341746554,erhvervsindkomst kont_recip_tot gini_index,326
+1802,0.007111582557145373,erhvervsindkomst kont_recip_tot unemployed,326
+1803,7.110241696115898e-07,erhvervsindkomst kont_recip_tot pop_den,326
+1804,0.0008263544855313196,erhvervsindkomst gini_index^2,326
+1805,-0.004809371656686119,erhvervsindkomst gini_index unemployed,326
+1806,-0.00016685183930141548,erhvervsindkomst gini_index pop_den,326
+1807,0.0026784282044849906,erhvervsindkomst unemployed^2,326
+1808,0.00017085306675932775,erhvervsindkomst unemployed pop_den,326
+1809,6.371054905673489e-05,erhvervsindkomst pop_den^2,326
+1810,-0.018855815070586625,formueindkomst^3,326
+1811,0.005456835895574359,formueindkomst^2 anden_personlig_indkomst,326
+1812,0.00418967625829143,formueindkomst^2 kont_recip_tot,326
+1813,-0.0004118730597142185,formueindkomst^2 gini_index,326
+1814,-0.0,formueindkomst^2 unemployed,326
+1815,0.0004896387272073287,formueindkomst^2 pop_den,326
+1816,-0.0014474212661895324,formueindkomst anden_personlig_indkomst^2,326
+1817,0.0013415972706389875,formueindkomst anden_personlig_indkomst kont_recip_tot,326
+1818,0.00027287986960682694,formueindkomst anden_personlig_indkomst gini_index,326
+1819,0.012868953191715073,formueindkomst anden_personlig_indkomst unemployed,326
+1820,0.0001664364393246183,formueindkomst anden_personlig_indkomst pop_den,326
+1821,0.0008636236907576492,formueindkomst kont_recip_tot^2,326
+1822,-0.0016277179753809204,formueindkomst kont_recip_tot gini_index,326
+1823,-0.06266840864766801,formueindkomst kont_recip_tot unemployed,326
+1824,-0.0001488002187449944,formueindkomst kont_recip_tot pop_den,326
+1825,-0.00021657143020008103,formueindkomst gini_index^2,326
+1826,-0.03832733076545438,formueindkomst gini_index unemployed,326
+1827,-0.0004160864095137289,formueindkomst gini_index pop_den,326
+1828,0.0,formueindkomst unemployed^2,326
+1829,0.0014644389564342345,formueindkomst unemployed pop_den,326
+1830,0.00010281347706304728,formueindkomst pop_den^2,326
+1831,0.004867930015517366,anden_personlig_indkomst^3,326
+1832,-0.008583603114579398,anden_personlig_indkomst^2 kont_recip_tot,326
+1833,0.001529400066575615,anden_personlig_indkomst^2 gini_index,326
+1834,-0.0014679774528917298,anden_personlig_indkomst^2 unemployed,326
+1835,-0.0006432131313446678,anden_personlig_indkomst^2 pop_den,326
+1836,0.006322702826395929,anden_personlig_indkomst kont_recip_tot^2,326
+1837,-0.0027130836087736025,anden_personlig_indkomst kont_recip_tot gini_index,326
+1838,0.02592102396157014,anden_personlig_indkomst kont_recip_tot unemployed,326
+1839,-0.0006485289441579777,anden_personlig_indkomst kont_recip_tot pop_den,326
+1840,0.0029962733927339355,anden_personlig_indkomst gini_index^2,326
+1841,-0.002087202427234891,anden_personlig_indkomst gini_index unemployed,326
+1842,-0.00037036423604945324,anden_personlig_indkomst gini_index pop_den,326
+1843,0.007705950027415092,anden_personlig_indkomst unemployed^2,326
+1844,-0.0006957438266188427,anden_personlig_indkomst unemployed pop_den,326
+1845,-8.648161492768513e-05,anden_personlig_indkomst pop_den^2,326
+1846,0.008528219104027235,kont_recip_tot^3,326
+1847,-0.004146025384837091,kont_recip_tot^2 gini_index,326
+1848,0.08241146304946771,kont_recip_tot^2 unemployed,326
+1849,-2.1621933400787602e-05,kont_recip_tot^2 pop_den,326
+1850,-0.00015782258710314573,kont_recip_tot gini_index^2,326
+1851,-0.01765540079829321,kont_recip_tot gini_index unemployed,326
+1852,-0.0006035655832333029,kont_recip_tot gini_index pop_den,326
+1853,0.02314597214334939,kont_recip_tot unemployed^2,326
+1854,-0.002216301787095489,kont_recip_tot unemployed pop_den,326
+1855,-2.6352625411765485e-05,kont_recip_tot pop_den^2,326
+1856,0.001558225827846299,gini_index^3,326
+1857,-0.002893910720100877,gini_index^2 unemployed,326
+1858,-0.0002790467775021773,gini_index^2 pop_den,326
+1859,-0.0013789026240786366,gini_index unemployed^2,326
+1860,-0.00018377639960397816,gini_index unemployed pop_den,326
+1861,-3.688861239106063e-05,gini_index pop_den^2,326
+1862,-0.004820001917715575,unemployed^3,326
+1863,0.0003328954167109755,unemployed^2 pop_den,326
+1864,1.5942198009829698e-05,unemployed pop_den^2,326
+1865,4.85444220933367e-05,pop_den^3,326
+1866,-0.0,housing_type_Ejerlejlighed,326
+1867,0.22693988298829357,housing_type_Rækkehus,326
+1868,-0.669671217244483,housing_type_Villa,326
+1869,0.0,1,320
+1870,0.5886337690730981,erhvervsindkomst,320
+1871,0.7074357649877555,formueindkomst,320
+1872,-0.12196842046287976,anden_personlig_indkomst,320
+1873,-0.8199322611593356,kont_recip_tot,320
+1874,0.10914532405415017,gini_index,320
+1875,0.0,unemployed,320
+1876,-0.009672697240593225,pop_den,320
+1877,-0.23603687649054655,erhvervsindkomst^2,320
+1878,-0.094433440978234,erhvervsindkomst formueindkomst,320
+1879,0.1803238392696931,erhvervsindkomst anden_personlig_indkomst,320
+1880,0.19686159039241755,erhvervsindkomst kont_recip_tot,320
+1881,-0.02312980670016346,erhvervsindkomst gini_index,320
+1882,0.19376698212434335,erhvervsindkomst unemployed,320
+1883,0.027955829786240914,erhvervsindkomst pop_den,320
+1884,-0.11607376213734788,formueindkomst^2,320
+1885,-0.08161640249060755,formueindkomst anden_personlig_indkomst,320
+1886,-0.21528484792887811,formueindkomst kont_recip_tot,320
+1887,0.10225675910491148,formueindkomst gini_index,320
+1888,-0.07017532027842513,formueindkomst unemployed,320
+1889,0.023774388271007852,formueindkomst pop_den,320
+1890,-0.07462058540708123,anden_personlig_indkomst^2,320
+1891,-0.12407276071324339,anden_personlig_indkomst kont_recip_tot,320
+1892,-0.008891073366052129,anden_personlig_indkomst gini_index,320
+1893,0.067567230220421,anden_personlig_indkomst unemployed,320
+1894,0.026641599488312975,anden_personlig_indkomst pop_den,320
+1895,0.0071966216512547605,kont_recip_tot^2,320
+1896,0.006277756285137091,kont_recip_tot gini_index,320
+1897,-0.11964139991441222,kont_recip_tot unemployed,320
+1898,0.015470457798177035,kont_recip_tot pop_den,320
+1899,-0.002174102577207186,gini_index^2,320
+1900,-0.026063418265595488,gini_index unemployed,320
+1901,0.0001840147270450572,gini_index pop_den,320
+1902,0.2780013922978598,unemployed^2,320
+1903,-0.0541635365949726,unemployed pop_den,320
+1904,-0.0033094452350253653,pop_den^2,320
+1905,-0.0,housing_type_Ejerlejlighed,320
+1906,0.4880850371002368,housing_type_Rækkehus,320
+1907,-0.6866975106480668,housing_type_Villa,320
+1908,0.0,1,316
+1909,0.0,erhvervsindkomst,316
+1910,0.0,formueindkomst,316
+1911,0.0,anden_personlig_indkomst,316
+1912,-0.0,kont_recip_tot,316
+1913,0.0,gini_index,316
+1914,-0.0,unemployed,316
+1915,0.0,pop_den,316
+1916,-0.08807300591509747,erhvervsindkomst^2,316
+1917,-0.010107368813356589,erhvervsindkomst formueindkomst,316
+1918,0.0,erhvervsindkomst anden_personlig_indkomst,316
+1919,0.15898766248127386,erhvervsindkomst kont_recip_tot,316
+1920,0.0,erhvervsindkomst gini_index,316
+1921,0.0,erhvervsindkomst unemployed,316
+1922,0.0080690823529634,erhvervsindkomst pop_den,316
+1923,-0.019545040596079883,formueindkomst^2,316
+1924,0.0,formueindkomst anden_personlig_indkomst,316
+1925,0.03289496807412598,formueindkomst kont_recip_tot,316
+1926,0.0,formueindkomst gini_index,316
+1927,0.0,formueindkomst unemployed,316
+1928,0.013081419728499563,formueindkomst pop_den,316
+1929,-0.038614809089197434,anden_personlig_indkomst^2,316
+1930,-0.059541755014176946,anden_personlig_indkomst kont_recip_tot,316
+1931,0.04009687192313303,anden_personlig_indkomst gini_index,316
+1932,0.00951930846989481,anden_personlig_indkomst unemployed,316
+1933,0.010579462984388636,anden_personlig_indkomst pop_den,316
+1934,-0.04529306323676789,kont_recip_tot^2,316
+1935,-0.01656868823300043,kont_recip_tot gini_index,316
+1936,-0.0,kont_recip_tot unemployed,316
+1937,-0.005443069454256824,kont_recip_tot pop_den,316
+1938,-0.003110200901377598,gini_index^2,316
+1939,-0.0,gini_index unemployed,316
+1940,-5.5643514435034063e-05,gini_index pop_den,316
+1941,0.12049416422292658,unemployed^2,316
+1942,-0.023512207898323235,unemployed pop_den,316
+1943,0.0014359146687682534,pop_den^2,316
+1944,0.40226630768828436,housing_type_Ejerlejlighed,316
+1945,-0.0,housing_type_Rækkehus,316
+1946,-0.9705461915630071,housing_type_Villa,316
+1947,0.0,1,306
+1948,-0.0,erhvervsindkomst,306
+1949,0.17123391645148645,formueindkomst,306
+1950,0.0,anden_personlig_indkomst,306
+1951,-0.27133826180482756,kont_recip_tot,306
+1952,0.03277870171147648,gini_index,306
+1953,0.04008824705949537,unemployed,306
+1954,0.6484003838918598,pop_den,306
+1955,0.06440049739123944,housing_type_Ejerlejlighed,306
+1956,-0.0,housing_type_Rækkehus,306
+1957,-0.9832177270583193,housing_type_Villa,306
+1958,0.0,1,270
+1959,0.0,erhvervsindkomst,270
+1960,0.0,formueindkomst,270
+1961,0.0,anden_personlig_indkomst,270
+1962,-0.0,kont_recip_tot,270
+1963,0.0,gini_index,270
+1964,0.0,unemployed,270
+1965,-0.0,pop_den,270
+1966,0.012868894268321331,erhvervsindkomst^2,270
+1967,0.021101482104289006,erhvervsindkomst formueindkomst,270
+1968,0.0,erhvervsindkomst anden_personlig_indkomst,270
+1969,-0.0,erhvervsindkomst kont_recip_tot,270
+1970,0.0006871416564589673,erhvervsindkomst gini_index,270
+1971,-0.0,erhvervsindkomst unemployed,270
+1972,0.009680622458333671,erhvervsindkomst pop_den,270
+1973,0.0,formueindkomst^2,270
+1974,0.0,formueindkomst anden_personlig_indkomst,270
+1975,0.0,formueindkomst kont_recip_tot,270
+1976,0.008732800448728269,formueindkomst gini_index,270
+1977,-0.0,formueindkomst unemployed,270
+1978,0.012596377154543599,formueindkomst pop_den,270
+1979,-0.0,anden_personlig_indkomst^2,270
+1980,-0.0,anden_personlig_indkomst kont_recip_tot,270
+1981,0.0004465219060659711,anden_personlig_indkomst gini_index,270
+1982,0.0,anden_personlig_indkomst unemployed,270
+1983,0.004629002378934792,anden_personlig_indkomst pop_den,270
+1984,-0.0068282471114427335,kont_recip_tot^2,270
+1985,-0.047428557523187136,kont_recip_tot gini_index,270
+1986,0.0,kont_recip_tot unemployed,270
+1987,0.004434676852318791,kont_recip_tot pop_den,270
+1988,-0.01390686222088005,gini_index^2,270
+1989,0.0,gini_index unemployed,270
+1990,0.0005627487690551802,gini_index pop_den,270
+1991,0.0,unemployed^2,270
+1992,0.0024867634768835894,unemployed pop_den,270
+1993,-0.00021436447264715938,pop_den^2,270
+1994,-0.004596204532572103,erhvervsindkomst^3,270
+1995,0.0,erhvervsindkomst^2 formueindkomst,270
+1996,-9.392439282880501e-05,erhvervsindkomst^2 anden_personlig_indkomst,270
+1997,-0.0016286098808999865,erhvervsindkomst^2 kont_recip_tot,270
+1998,-8.90679723188154e-05,erhvervsindkomst^2 gini_index,270
+1999,-0.017343253344000137,erhvervsindkomst^2 unemployed,270
+2000,0.0005836788997800795,erhvervsindkomst^2 pop_den,270
+2001,-0.004557841348791323,erhvervsindkomst formueindkomst^2,270
+2002,0.0,erhvervsindkomst formueindkomst anden_personlig_indkomst,270
+2003,0.003694808374128408,erhvervsindkomst formueindkomst kont_recip_tot,270
+2004,-0.000463104416848902,erhvervsindkomst formueindkomst gini_index,270
+2005,0.0,erhvervsindkomst formueindkomst unemployed,270
+2006,0.0011595051380244377,erhvervsindkomst formueindkomst pop_den,270
+2007,-0.007583235728444564,erhvervsindkomst anden_personlig_indkomst^2,270
+2008,-0.01443569965114903,erhvervsindkomst anden_personlig_indkomst kont_recip_tot,270
+2009,0.0023983149487099365,erhvervsindkomst anden_personlig_indkomst gini_index,270
+2010,0.0015089179230402473,erhvervsindkomst anden_personlig_indkomst unemployed,270
+2011,0.000627299004693999,erhvervsindkomst anden_personlig_indkomst pop_den,270
+2012,-0.00015891281026763309,erhvervsindkomst kont_recip_tot^2,270
+2013,-0.006693914935516843,erhvervsindkomst kont_recip_tot gini_index,270
+2014,0.01057989644980279,erhvervsindkomst kont_recip_tot unemployed,270
+2015,0.0028939278519087208,erhvervsindkomst kont_recip_tot pop_den,270
+2016,-0.0015207841838045114,erhvervsindkomst gini_index^2,270
+2017,-0.001266362224904169,erhvervsindkomst gini_index unemployed,270
+2018,0.000594169854540973,erhvervsindkomst gini_index pop_den,270
+2019,0.017090855906213773,erhvervsindkomst unemployed^2,270
+2020,-0.0029054791002330136,erhvervsindkomst unemployed pop_den,270
+2021,0.00020455027967192991,erhvervsindkomst pop_den^2,270
+2022,-0.014233237628569456,formueindkomst^3,270
+2023,0.007040612594149257,formueindkomst^2 anden_personlig_indkomst,270
+2024,0.025391448562431237,formueindkomst^2 kont_recip_tot,270
+2025,-0.004626198526688545,formueindkomst^2 gini_index,270
+2026,0.5158829958142074,formueindkomst^2 unemployed,270
+2027,-0.0009273431618207137,formueindkomst^2 pop_den,270
+2028,-0.019070048728990624,formueindkomst anden_personlig_indkomst^2,270
+2029,-0.008561555859664637,formueindkomst anden_personlig_indkomst kont_recip_tot,270
+2030,0.005562854975425326,formueindkomst anden_personlig_indkomst gini_index,270
+2031,-0.16596217931838533,formueindkomst anden_personlig_indkomst unemployed,270
+2032,-0.0008896186705678004,formueindkomst anden_personlig_indkomst pop_den,270
+2033,-0.011987428272083099,formueindkomst kont_recip_tot^2,270
+2034,-0.009495843674630895,formueindkomst kont_recip_tot gini_index,270
+2035,-0.0,formueindkomst kont_recip_tot unemployed,270
+2036,0.0016782774774992855,formueindkomst kont_recip_tot pop_den,270
+2037,-0.001313376390250498,formueindkomst gini_index^2,270
+2038,0.0,formueindkomst gini_index unemployed,270
+2039,0.0005797444620121623,formueindkomst gini_index pop_den,270
+2040,-0.02254620271903631,formueindkomst unemployed^2,270
+2041,-0.019075616674077468,formueindkomst unemployed pop_den,270
+2042,-0.00022297912375238783,formueindkomst pop_den^2,270
+2043,0.004091896625699152,anden_personlig_indkomst^3,270
+2044,-0.0007483647646676851,anden_personlig_indkomst^2 kont_recip_tot,270
+2045,0.005155867332766837,anden_personlig_indkomst^2 gini_index,270
+2046,0.0005232938647041725,anden_personlig_indkomst^2 unemployed,270
+2047,-0.00020514502626501295,anden_personlig_indkomst^2 pop_den,270
+2048,-0.0017100813249877518,anden_personlig_indkomst kont_recip_tot^2,270
+2049,0.0005446246419862115,anden_personlig_indkomst kont_recip_tot gini_index,270
+2050,0.005788628402882928,anden_personlig_indkomst kont_recip_tot unemployed,270
+2051,0.0028161777063144314,anden_personlig_indkomst kont_recip_tot pop_den,270
+2052,0.0005527902288227349,anden_personlig_indkomst gini_index^2,270
+2053,0.005006734870938247,anden_personlig_indkomst gini_index unemployed,270
+2054,0.0001224882225707149,anden_personlig_indkomst gini_index pop_den,270
+2055,-0.01160003844710529,anden_personlig_indkomst unemployed^2,270
+2056,0.0010442865695418542,anden_personlig_indkomst unemployed pop_den,270
+2057,-0.000271990288223278,anden_personlig_indkomst pop_den^2,270
+2058,-0.0037079205873032208,kont_recip_tot^3,270
+2059,-0.0003883062186404111,kont_recip_tot^2 gini_index,270
+2060,-0.009169336524277866,kont_recip_tot^2 unemployed,270
+2061,0.002541333108326909,kont_recip_tot^2 pop_den,270
+2062,-0.006405601261880848,kont_recip_tot gini_index^2,270
+2063,0.007233260816342395,kont_recip_tot gini_index unemployed,270
+2064,0.0014071474243356912,kont_recip_tot gini_index pop_den,270
+2065,-0.02611885433627685,kont_recip_tot unemployed^2,270
+2066,0.004399152898468352,kont_recip_tot unemployed pop_den,270
+2067,0.0005564847413503334,kont_recip_tot pop_den^2,270
+2068,-0.0003058772618504316,gini_index^3,270
+2069,2.4491935973630536e-05,gini_index^2 unemployed,270
+2070,0.0004886252486169054,gini_index^2 pop_den,270
+2071,0.00876044347638904,gini_index unemployed^2,270
+2072,-0.0005808112648604101,gini_index unemployed pop_den,270
+2073,0.00027955014499911877,gini_index pop_den^2,270
+2074,-0.020600368523873782,unemployed^3,270
+2075,0.008123028108505152,unemployed^2 pop_den,270
+2076,-0.0005046361177418785,unemployed pop_den^2,270
+2077,4.5731894774119e-05,pop_den^3,270
+2078,-0.0,housing_type_Ejerlejlighed,270
+2079,0.15000950223209963,housing_type_Rækkehus,270
+2080,-0.3855099717118664,housing_type_Villa,270
+2081,0.0,1,269
+2082,0.5630439756427146,erhvervsindkomst,269
+2083,0.3030475780400257,formueindkomst,269
+2084,0.316770687487842,anden_personlig_indkomst,269
+2085,-0.0,kont_recip_tot,269
+2086,0.2673165561410857,gini_index,269
+2087,-0.0,unemployed,269
+2088,0.0,pop_den,269
+2089,0.09702746582267507,erhvervsindkomst^2,269
+2090,-0.035907873376238894,erhvervsindkomst formueindkomst,269
+2091,-0.12541593480873836,erhvervsindkomst anden_personlig_indkomst,269
+2092,0.06927621737996836,erhvervsindkomst kont_recip_tot,269
+2093,-0.03340065925743467,erhvervsindkomst gini_index,269
+2094,-0.15650978624252945,erhvervsindkomst unemployed,269
+2095,-0.011551817566795828,erhvervsindkomst pop_den,269
+2096,0.00460761057004979,formueindkomst^2,269
+2097,0.0,formueindkomst anden_personlig_indkomst,269
+2098,0.01006350058888067,formueindkomst kont_recip_tot,269
+2099,-0.04715852714143953,formueindkomst gini_index,269
+2100,0.8021268117185477,formueindkomst unemployed,269
+2101,0.025868139661908828,formueindkomst pop_den,269
+2102,-0.08068475253433792,anden_personlig_indkomst^2,269
+2103,-0.06797769604810647,anden_personlig_indkomst kont_recip_tot,269
+2104,0.15863669329124505,anden_personlig_indkomst gini_index,269
+2105,-0.10744892457663366,anden_personlig_indkomst unemployed,269
+2106,-0.007660979034294514,anden_personlig_indkomst pop_den,269
+2107,-0.13105006492486396,kont_recip_tot^2,269
+2108,-0.011209687554962452,kont_recip_tot gini_index,269
+2109,0.1683899895086318,kont_recip_tot unemployed,269
+2110,0.04255531200373514,kont_recip_tot pop_den,269
+2111,-0.05230891606683996,gini_index^2,269
+2112,0.001917977804896093,gini_index unemployed,269
+2113,0.016690185456269872,gini_index pop_den,269
+2114,0.1370592897618622,unemployed^2,269
+2115,-0.059101954986343144,unemployed pop_den,269
+2116,-0.01505149416827597,pop_den^2,269
+2117,0.27459174195338715,housing_type_Ejerlejlighed,269
+2118,0.0,housing_type_Rækkehus,269
+2119,-0.08748873620464556,housing_type_Villa,269
+2120,0.0,1,265
+2121,0.13576205378300585,erhvervsindkomst,265
+2122,0.4591586935262309,formueindkomst,265
+2123,0.29590890361572336,anden_personlig_indkomst,265
+2124,-0.9573017448737189,kont_recip_tot,265
+2125,-0.060388278594636705,gini_index,265
+2126,0.0,unemployed,265
+2127,-0.0,pop_den,265
+2128,-0.040078217145493554,erhvervsindkomst^2,265
+2129,-0.0014588834314263888,erhvervsindkomst formueindkomst,265
+2130,-0.0019726409946517437,erhvervsindkomst anden_personlig_indkomst,265
+2131,0.08225908619414887,erhvervsindkomst kont_recip_tot,265
+2132,-0.007419734460081809,erhvervsindkomst gini_index,265
+2133,-0.01400128291377636,erhvervsindkomst unemployed,265
+2134,-0.00214113061850309,erhvervsindkomst pop_den,265
+2135,0.005882828490852583,formueindkomst^2,265
+2136,-0.07472445440210186,formueindkomst anden_personlig_indkomst,265
+2137,-0.03157008544906165,formueindkomst kont_recip_tot,265
+2138,0.04604462156479143,formueindkomst gini_index,265
+2139,-0.3170762426717549,formueindkomst unemployed,265
+2140,-0.008824033078423957,formueindkomst pop_den,265
+2141,-0.0007827437175915026,anden_personlig_indkomst^2,265
+2142,-0.04518616274913395,anden_personlig_indkomst kont_recip_tot,265
+2143,0.029258809953990977,anden_personlig_indkomst gini_index,265
+2144,0.016892356959757143,anden_personlig_indkomst unemployed,265
+2145,0.004141806701314215,anden_personlig_indkomst pop_den,265
+2146,-0.005845003807143631,kont_recip_tot^2,265
+2147,-0.018185368796240116,kont_recip_tot gini_index,265
+2148,0.040824404513072336,kont_recip_tot unemployed,265
+2149,0.011598575054967957,kont_recip_tot pop_den,265
+2150,0.0016567363006411066,gini_index^2,265
+2151,-0.01218692001923405,gini_index unemployed,265
+2152,-0.0003755471624238339,gini_index pop_den,265
+2153,0.015116960236412211,unemployed^2,265
+2154,0.008800010506851409,unemployed pop_den,265
+2155,0.009488438051580027,pop_den^2,265
+2156,-0.008781772964823029,erhvervsindkomst^3,265
+2157,-0.0012284501275384788,erhvervsindkomst^2 formueindkomst,265
+2158,-0.003014813775447628,erhvervsindkomst^2 anden_personlig_indkomst,265
+2159,0.016608119903706902,erhvervsindkomst^2 kont_recip_tot,265
+2160,-0.0023529735743110154,erhvervsindkomst^2 gini_index,265
+2161,-0.017146451086832836,erhvervsindkomst^2 unemployed,265
+2162,-0.0006936397439725931,erhvervsindkomst^2 pop_den,265
+2163,-0.0019591411072679933,erhvervsindkomst formueindkomst^2,265
+2164,-0.01042531790680585,erhvervsindkomst formueindkomst anden_personlig_indkomst,265
+2165,0.006798204392936443,erhvervsindkomst formueindkomst kont_recip_tot,265
+2166,0.0035501189440832167,erhvervsindkomst formueindkomst gini_index,265
+2167,-0.024762914207519703,erhvervsindkomst formueindkomst unemployed,265
+2168,-0.00022651064601160337,erhvervsindkomst formueindkomst pop_den,265
+2169,-0.002730177832354937,erhvervsindkomst anden_personlig_indkomst^2,265
+2170,-0.0064165291171915904,erhvervsindkomst anden_personlig_indkomst kont_recip_tot,265
+2171,0.003161861569310331,erhvervsindkomst anden_personlig_indkomst gini_index,265
+2172,0.006824983787268912,erhvervsindkomst anden_personlig_indkomst unemployed,265
+2173,0.00015541583755563843,erhvervsindkomst anden_personlig_indkomst pop_den,265
+2174,0.0063249037988042075,erhvervsindkomst kont_recip_tot^2,265
+2175,-0.0025289307452579955,erhvervsindkomst kont_recip_tot gini_index,265
+2176,0.00632264739989252,erhvervsindkomst kont_recip_tot unemployed,265
+2177,0.0007109789040207541,erhvervsindkomst kont_recip_tot pop_den,265
+2178,0.00045452793562571116,erhvervsindkomst gini_index^2,265
+2179,-0.004683174131568977,erhvervsindkomst gini_index unemployed,265
+2180,-0.00034651076311416297,erhvervsindkomst gini_index pop_den,265
+2181,0.00019332289706407857,erhvervsindkomst unemployed^2,265
+2182,0.0034073442313550524,erhvervsindkomst unemployed pop_den,265
+2183,0.0002718700189700587,erhvervsindkomst pop_den^2,265
+2184,-0.007354867596182907,formueindkomst^3,265
+2185,-0.006909690455089,formueindkomst^2 anden_personlig_indkomst,265
+2186,-0.008710664855066136,formueindkomst^2 kont_recip_tot,265
+2187,0.010036866517653963,formueindkomst^2 gini_index,265
+2188,0.3790897624732301,formueindkomst^2 unemployed,265
+2189,-0.008395530353139537,formueindkomst^2 pop_den,265
+2190,-0.010801451547061042,formueindkomst anden_personlig_indkomst^2,265
+2191,-0.01650649769290406,formueindkomst anden_personlig_indkomst kont_recip_tot,265
+2192,0.008094408573283316,formueindkomst anden_personlig_indkomst gini_index,265
+2193,-0.23470211329073684,formueindkomst anden_personlig_indkomst unemployed,265
+2194,0.002299307184569604,formueindkomst anden_personlig_indkomst pop_den,265
+2195,-0.00757616215589491,formueindkomst kont_recip_tot^2,265
+2196,-0.0018532033856210619,formueindkomst kont_recip_tot gini_index,265
+2197,0.025326852276761163,formueindkomst kont_recip_tot unemployed,265
+2198,-0.00031292111719291663,formueindkomst kont_recip_tot pop_den,265
+2199,0.0026298881017330915,formueindkomst gini_index^2,265
+2200,-0.023583176378287198,formueindkomst gini_index unemployed,265
+2201,-0.0004400178874230002,formueindkomst gini_index pop_den,265
+2202,-0.041666846162768924,formueindkomst unemployed^2,265
+2203,0.002642408065096719,formueindkomst unemployed pop_den,265
+2204,-0.0005205602613590065,formueindkomst pop_den^2,265
+2205,0.007917147462719579,anden_personlig_indkomst^3,265
+2206,-0.0018980530967592521,anden_personlig_indkomst^2 kont_recip_tot,265
+2207,0.002073189627179423,anden_personlig_indkomst^2 gini_index,265
+2208,-0.0021119605464828425,anden_personlig_indkomst^2 unemployed,265
+2209,0.00021491288106591854,anden_personlig_indkomst^2 pop_den,265
+2210,-0.009873666409957082,anden_personlig_indkomst kont_recip_tot^2,265
+2211,0.0007045886584430202,anden_personlig_indkomst kont_recip_tot gini_index,265
+2212,0.028072027661362284,anden_personlig_indkomst kont_recip_tot unemployed,265
+2213,0.0004399424933639557,anden_personlig_indkomst kont_recip_tot pop_den,265
+2214,0.0017766991043456919,anden_personlig_indkomst gini_index^2,265
+2215,-0.002013886797154037,anden_personlig_indkomst gini_index unemployed,265
+2216,0.00012757055946518148,anden_personlig_indkomst gini_index pop_den,265
+2217,-0.006672669816411568,anden_personlig_indkomst unemployed^2,265
+2218,0.006953482725034743,anden_personlig_indkomst unemployed pop_den,265
+2219,0.0001887805522718571,anden_personlig_indkomst pop_den^2,265
+2220,2.799801559533136e-05,kont_recip_tot^3,265
+2221,-0.00021230138452463316,kont_recip_tot^2 gini_index,265
+2222,-0.010221678754596387,kont_recip_tot^2 unemployed,265
+2223,0.0014059111101274284,kont_recip_tot^2 pop_den,265
+2224,-0.00208696225937724,kont_recip_tot gini_index^2,265
+2225,0.002089087156517743,kont_recip_tot gini_index unemployed,265
+2226,0.0004532686808911443,kont_recip_tot gini_index pop_den,265
+2227,-0.0036391310755976075,kont_recip_tot unemployed^2,265
+2228,0.004373656155592547,kont_recip_tot unemployed pop_den,265
+2229,0.000614337222056271,kont_recip_tot pop_den^2,265
+2230,0.0002326395174462214,gini_index^3,265
+2231,-0.003561884618108382,gini_index^2 unemployed,265
+2232,-0.0004589802736315701,gini_index^2 pop_den,265
+2233,-0.0008150485865173072,gini_index unemployed^2,265
+2234,0.0006897126506121518,gini_index unemployed pop_den,265
+2235,0.0001314331476198308,gini_index pop_den^2,265
+2236,0.0007657047451085876,unemployed^3,265
+2237,0.0024049822272948574,unemployed^2 pop_den,265
+2238,0.0006302204149873277,unemployed pop_den^2,265
+2239,0.0003804089365485941,pop_den^3,265
+2240,0.21892999560978374,housing_type_Rækkehus,265
+2241,0.0,housing_type_Ejerlejlighed,265
+2242,-0.4072597345598747,housing_type_Villa,265
+2243,0.0,1,260
+2244,0.0,erhvervsindkomst,260
+2245,0.0,formueindkomst,260
+2246,0.0,anden_personlig_indkomst,260
+2247,-0.0,kont_recip_tot,260
+2248,0.0,gini_index,260
+2249,-0.0,unemployed,260
+2250,0.0,pop_den,260
+2251,-0.15853408784370382,erhvervsindkomst^2,260
+2252,-0.02806836629672928,erhvervsindkomst formueindkomst,260
+2253,-0.03966217408301869,erhvervsindkomst anden_personlig_indkomst,260
+2254,0.18919280165042535,erhvervsindkomst kont_recip_tot,260
+2255,0.009457845217918625,erhvervsindkomst gini_index,260
+2256,-0.0,erhvervsindkomst unemployed,260
+2257,0.0210158611644499,erhvervsindkomst pop_den,260
+2258,-0.08082479102933496,formueindkomst^2,260
+2259,-0.030871983833190415,formueindkomst anden_personlig_indkomst,260
+2260,-0.011451418915613267,formueindkomst kont_recip_tot,260
+2261,-0.010308317037193707,formueindkomst gini_index,260
+2262,0.0,formueindkomst unemployed,260
+2263,0.04357499565100892,formueindkomst pop_den,260
+2264,-0.02952179015594064,anden_personlig_indkomst^2,260
+2265,-0.07893526872500531,anden_personlig_indkomst kont_recip_tot,260
+2266,0.024797431386838764,anden_personlig_indkomst gini_index,260
+2267,0.026333887476714387,anden_personlig_indkomst unemployed,260
+2268,0.020061204652980984,anden_personlig_indkomst pop_den,260
+2269,0.07438867247926932,kont_recip_tot^2,260
+2270,-0.05799651666976809,kont_recip_tot gini_index,260
+2271,-0.10758666143067759,kont_recip_tot unemployed,260
+2272,-0.03440529227164199,kont_recip_tot pop_den,260
+2273,-0.0022732734794717346,gini_index^2,260
+2274,0.017799025073460453,gini_index unemployed,260
+2275,0.010603898680486902,gini_index pop_den,260
+2276,0.1867205646562729,unemployed^2,260
+2277,-0.019167176466790056,unemployed pop_den,260
+2278,-0.0003761793903337697,pop_den^2,260
+2279,0.05691581755673159,housing_type_Ejerlejlighed,260
+2280,-0.0,housing_type_Rækkehus,260
+2281,-0.684904024464361,housing_type_Villa,260
+2282,0.0,1,259
+2283,0.0,erhvervsindkomst,259
+2284,0.0,formueindkomst,259
+2285,0.0,anden_personlig_indkomst,259
+2286,0.0,kont_recip_tot,259
+2287,0.0,gini_index,259
+2288,-0.0,unemployed,259
+2289,0.0,pop_den,259
+2290,-0.010829363058197351,erhvervsindkomst^2,259
+2291,-0.015227013005140493,erhvervsindkomst formueindkomst,259
+2292,-0.0,erhvervsindkomst anden_personlig_indkomst,259
+2293,0.05556330084263227,erhvervsindkomst kont_recip_tot,259
+2294,0.0,erhvervsindkomst gini_index,259
+2295,0.0,erhvervsindkomst unemployed,259
+2296,0.01740918990766894,erhvervsindkomst pop_den,259
+2297,-0.033717203090342984,formueindkomst^2,259
+2298,-0.006964892680983675,formueindkomst anden_personlig_indkomst,259
+2299,-0.0004637655242565615,formueindkomst kont_recip_tot,259
+2300,0.012259551444139823,formueindkomst gini_index,259
+2301,0.10024275399190374,formueindkomst unemployed,259
+2302,0.022672390395026353,formueindkomst pop_den,259
+2303,0.0,anden_personlig_indkomst^2,259
+2304,-0.024051956875560034,anden_personlig_indkomst kont_recip_tot,259
+2305,-0.008332261692927554,anden_personlig_indkomst gini_index,259
+2306,0.02525370305083404,anden_personlig_indkomst unemployed,259
+2307,0.014095375441841945,anden_personlig_indkomst pop_den,259
+2308,-0.06065633080750875,kont_recip_tot^2,259
+2309,-0.0,kont_recip_tot gini_index,259
+2310,0.005292442070014276,kont_recip_tot unemployed,259
+2311,0.016037032556007774,kont_recip_tot pop_den,259
+2312,-0.025792732395932477,gini_index^2,259
+2313,-0.038126861712187606,gini_index unemployed,259
+2314,-0.0,gini_index pop_den,259
+2315,0.08998131832641777,unemployed^2,259
+2316,-0.022598593115701268,unemployed pop_den,259
+2317,0.01327542157812934,pop_den^2,259
+2318,0.2869768661238087,housing_type_Ejerlejlighed,259
+2319,-0.0,housing_type_Rækkehus,259
+2320,-0.5579448026653652,housing_type_Villa,259
+2321,0.0,1,253
+2322,-0.0,erhvervsindkomst,253
+2323,-0.0,formueindkomst,253
+2324,0.0,anden_personlig_indkomst,253
+2325,-0.0,kont_recip_tot,253
+2326,0.0,gini_index,253
+2327,0.0,unemployed,253
+2328,-0.0,pop_den,253
+2329,0.03328917698187444,erhvervsindkomst^2,253
+2330,0.0,erhvervsindkomst formueindkomst,253
+2331,0.01929188239970199,erhvervsindkomst anden_personlig_indkomst,253
+2332,-0.0,erhvervsindkomst kont_recip_tot,253
+2333,0.0026047378024540943,erhvervsindkomst gini_index,253
+2334,-0.0,erhvervsindkomst unemployed,253
+2335,0.0004694461765177091,erhvervsindkomst pop_den,253
+2336,0.0,formueindkomst^2,253
+2337,0.0,formueindkomst anden_personlig_indkomst,253
+2338,-0.0,formueindkomst kont_recip_tot,253
+2339,-0.0,formueindkomst gini_index,253
+2340,0.0,formueindkomst unemployed,253
+2341,0.0,formueindkomst pop_den,253
+2342,0.03124812847292879,anden_personlig_indkomst^2,253
+2343,-0.0,anden_personlig_indkomst kont_recip_tot,253
+2344,0.0,anden_personlig_indkomst gini_index,253
+2345,0.0,anden_personlig_indkomst unemployed,253
+2346,8.500935874380254e-05,anden_personlig_indkomst pop_den,253
+2347,-0.0,kont_recip_tot^2,253
+2348,-0.0,kont_recip_tot gini_index,253
+2349,-0.0,kont_recip_tot unemployed,253
+2350,-0.004389189382966605,kont_recip_tot pop_den,253
+2351,-0.0021106109797654512,gini_index^2,253
+2352,0.0,gini_index unemployed,253
+2353,-0.00018717607740079633,gini_index pop_den,253
+2354,0.0,unemployed^2,253
+2355,0.0018579946965318317,unemployed pop_den,253
+2356,-0.0004938933481047207,pop_den^2,253
+2357,0.0012659560202111864,erhvervsindkomst^3,253
+2358,-0.0033181447676367765,erhvervsindkomst^2 formueindkomst,253
+2359,0.0006640769353278532,erhvervsindkomst^2 anden_personlig_indkomst,253
+2360,-0.007246766309484268,erhvervsindkomst^2 kont_recip_tot,253
+2361,0.0005749936351830683,erhvervsindkomst^2 gini_index,253
+2362,-0.005368811581520559,erhvervsindkomst^2 unemployed,253
+2363,-0.00013379909988004291,erhvervsindkomst^2 pop_den,253
+2364,-0.002484101727667693,erhvervsindkomst formueindkomst^2,253
+2365,0.0,erhvervsindkomst formueindkomst anden_personlig_indkomst,253
+2366,-0.0,erhvervsindkomst formueindkomst kont_recip_tot,253
+2367,-0.0018779755082576014,erhvervsindkomst formueindkomst gini_index,253
+2368,0.0027467818115827383,erhvervsindkomst formueindkomst unemployed,253
+2369,0.00042149218915641355,erhvervsindkomst formueindkomst pop_den,253
+2370,0.00010167471887647667,erhvervsindkomst anden_personlig_indkomst^2,253
+2371,-0.00029964938062001324,erhvervsindkomst anden_personlig_indkomst kont_recip_tot,253
+2372,-7.908795582608698e-05,erhvervsindkomst anden_personlig_indkomst gini_index,253
+2373,-0.001847328433028547,erhvervsindkomst anden_personlig_indkomst unemployed,253
+2374,-7.444275118365367e-05,erhvervsindkomst anden_personlig_indkomst pop_den,253
+2375,-0.004142227890113103,erhvervsindkomst kont_recip_tot^2,253
+2376,-0.0,erhvervsindkomst kont_recip_tot gini_index,253
+2377,-0.010166953544520642,erhvervsindkomst kont_recip_tot unemployed,253
+2378,1.3469694130345055e-05,erhvervsindkomst kont_recip_tot pop_den,253
+2379,-0.0007168992400000384,erhvervsindkomst gini_index^2,253
+2380,-0.0005287581825886495,erhvervsindkomst gini_index unemployed,253
+2381,1.437946011932036e-05,erhvervsindkomst gini_index pop_den,253
+2382,0.018086380730263512,erhvervsindkomst unemployed^2,253
+2383,-0.0018136536824774046,erhvervsindkomst unemployed pop_den,253
+2384,-4.55098166668164e-05,erhvervsindkomst pop_den^2,253
+2385,0.0023888765050329155,formueindkomst^3,253
+2386,0.0005569561964184124,formueindkomst^2 anden_personlig_indkomst,253
+2387,-0.0,formueindkomst^2 kont_recip_tot,253
+2388,-0.0031153183313462523,formueindkomst^2 gini_index,253
+2389,0.0,formueindkomst^2 unemployed,253
+2390,0.0006991274864076019,formueindkomst^2 pop_den,253
+2391,0.00011449191193892452,formueindkomst anden_personlig_indkomst^2,253
+2392,0.0,formueindkomst anden_personlig_indkomst kont_recip_tot,253
+2393,-0.0007493361504046792,formueindkomst anden_personlig_indkomst gini_index,253
+2394,0.1347948325824291,formueindkomst anden_personlig_indkomst unemployed,253
+2395,0.0004486333401581887,formueindkomst anden_personlig_indkomst pop_den,253
+2396,-0.0230470673943467,formueindkomst kont_recip_tot^2,253
+2397,-0.0009956053052380587,formueindkomst kont_recip_tot gini_index,253
+2398,-0.015585295937086284,formueindkomst kont_recip_tot unemployed,253
+2399,0.001160270907766434,formueindkomst kont_recip_tot pop_den,253
+2400,-0.001942764683354902,formueindkomst gini_index^2,253
+2401,0.0,formueindkomst gini_index unemployed,253
+2402,0.0002851644070895995,formueindkomst gini_index pop_den,253
+2403,0.0,formueindkomst unemployed^2,253
+2404,0.006922896682496838,formueindkomst unemployed pop_den,253
+2405,0.00013939518933206544,formueindkomst pop_den^2,253
+2406,-0.004431910761453184,anden_personlig_indkomst^3,253
+2407,0.004051136861834477,anden_personlig_indkomst^2 kont_recip_tot,253
+2408,-0.0004167227560465229,anden_personlig_indkomst^2 gini_index,253
+2409,-0.006037471060868233,anden_personlig_indkomst^2 unemployed,253
+2410,-7.088558457876487e-05,anden_personlig_indkomst^2 pop_den,253
+2411,-0.007072463595486793,anden_personlig_indkomst kont_recip_tot^2,253
+2412,0.0006840060306932534,anden_personlig_indkomst kont_recip_tot gini_index,253
+2413,-0.017618265617498158,anden_personlig_indkomst kont_recip_tot unemployed,253
+2414,0.0014032763654645121,anden_personlig_indkomst kont_recip_tot pop_den,253
+2415,-0.0007748855736290849,anden_personlig_indkomst gini_index^2,253
+2416,-0.0038167840887591777,anden_personlig_indkomst gini_index unemployed,253
+2417,-0.00011572241671683293,anden_personlig_indkomst gini_index pop_den,253
+2418,-0.0,anden_personlig_indkomst unemployed^2,253
+2419,-0.0004911437006803123,anden_personlig_indkomst unemployed pop_den,253
+2420,-6.77976284086619e-05,anden_personlig_indkomst pop_den^2,253
+2421,0.019396078160455372,kont_recip_tot^3,253
+2422,-0.0027880682452329857,kont_recip_tot^2 gini_index,253
+2423,-0.0,kont_recip_tot^2 unemployed,253
+2424,0.0001298038160222838,kont_recip_tot^2 pop_den,253
+2425,0.0,kont_recip_tot gini_index^2,253
+2426,-0.006748561489987304,kont_recip_tot gini_index unemployed,253
+2427,0.0006488418090949857,kont_recip_tot gini_index pop_den,253
+2428,0.003420638322431988,kont_recip_tot unemployed^2,253
+2429,-0.0008552706959258015,kont_recip_tot unemployed pop_den,253
+2430,5.4813956482179604e-05,kont_recip_tot pop_den^2,253
+2431,9.330681789045961e-05,gini_index^3,253
+2432,-0.000931382025070654,gini_index^2 unemployed,253
+2433,0.00010234883766177723,gini_index^2 pop_den,253
+2434,0.010713236308761124,gini_index unemployed^2,253
+2435,-0.0006584705163041402,gini_index unemployed pop_den,253
+2436,8.927189056247396e-05,gini_index pop_den^2,253
+2437,0.004378132252598461,unemployed^3,253
+2438,0.002761942699631005,unemployed^2 pop_den,253
+2439,-0.00015307383554319146,unemployed pop_den^2,253
+2440,2.1926135121325268e-05,pop_den^3,253
+2441,0.49271131901517257,housing_type_Ejerlejlighed,253
+2442,0.0,housing_type_Rækkehus,253
+2443,-0.21672020730235775,housing_type_Villa,253
+2444,0.0,1,250
+2445,1.4388515348559687,erhvervsindkomst,250
+2446,-0.24959237771662998,formueindkomst,250
+2447,0.8648390530874766,anden_personlig_indkomst,250
+2448,-0.7081374782872926,kont_recip_tot,250
+2449,0.07678653630288103,gini_index,250
+2450,-0.1511896334790897,unemployed,250
+2451,-0.2987391976028395,pop_den,250
+2452,-0.04061387478887491,erhvervsindkomst^2,250
+2453,0.02397609691284583,erhvervsindkomst formueindkomst,250
+2454,-0.029286959855364135,erhvervsindkomst anden_personlig_indkomst,250
+2455,-0.0315173451233803,erhvervsindkomst kont_recip_tot,250
+2456,-0.010819879183740302,erhvervsindkomst gini_index,250
+2457,-0.04827566379270529,erhvervsindkomst unemployed,250
+2458,0.11362287950703115,erhvervsindkomst pop_den,250
+2459,0.11801430745614838,formueindkomst^2,250
+2460,-0.21788215918874557,formueindkomst anden_personlig_indkomst,250
+2461,0.16737639319426004,formueindkomst kont_recip_tot,250
+2462,-0.006198380867518334,formueindkomst gini_index,250
+2463,-0.17073022354272713,formueindkomst unemployed,250
+2464,0.2595101319060128,formueindkomst pop_den,250
+2465,0.04869675136484224,anden_personlig_indkomst^2,250
+2466,0.0819486342403204,anden_personlig_indkomst kont_recip_tot,250
+2467,-0.007425999127074365,anden_personlig_indkomst gini_index,250
+2468,-0.17718955680367496,anden_personlig_indkomst unemployed,250
+2469,-0.0721298029226004,anden_personlig_indkomst pop_den,250
+2470,0.33686727369576513,kont_recip_tot^2,250
+2471,-0.04976493526314657,kont_recip_tot gini_index,250
+2472,0.13243007864694986,kont_recip_tot unemployed,250
+2473,-0.6258281630621706,kont_recip_tot pop_den,250
+2474,0.00025409303651899876,gini_index^2,250
+2475,-0.025253889996633354,gini_index unemployed,250
+2476,-0.0036340619035805143,gini_index pop_den,250
+2477,0.0882090321593236,unemployed^2,250
+2478,0.8267367072593492,unemployed pop_den,250
+2479,-0.23016075579933107,pop_den^2,250
+2480,0.058096607789866854,housing_type_Ejerlejlighed,250
+2481,-0.0,housing_type_Rækkehus,250
+2482,-0.778708014762601,housing_type_Villa,250
+2483,0.0,1,240
+2484,0.0,erhvervsindkomst,240
+2485,0.0,formueindkomst,240
+2486,0.0,anden_personlig_indkomst,240
+2487,-0.0,kont_recip_tot,240
+2488,-0.0,gini_index,240
+2489,0.0,unemployed,240
+2490,0.0,pop_den,240
+2491,0.0,erhvervsindkomst^2,240
+2492,0.0,erhvervsindkomst formueindkomst,240
+2493,0.0,erhvervsindkomst anden_personlig_indkomst,240
+2494,-0.0,erhvervsindkomst kont_recip_tot,240
+2495,0.0,erhvervsindkomst gini_index,240
+2496,0.0,erhvervsindkomst unemployed,240
+2497,0.01706272386939701,erhvervsindkomst pop_den,240
+2498,-0.1832175382241485,formueindkomst^2,240
+2499,0.0,formueindkomst anden_personlig_indkomst,240
+2500,-0.0,formueindkomst kont_recip_tot,240
+2501,-0.0,formueindkomst gini_index,240
+2502,0.0,formueindkomst unemployed,240
+2503,0.09874538251684195,formueindkomst pop_den,240
+2504,-0.06320095869405493,anden_personlig_indkomst^2,240
+2505,-0.0,anden_personlig_indkomst kont_recip_tot,240
+2506,-0.0,anden_personlig_indkomst gini_index,240
+2507,-0.029611924551038782,anden_personlig_indkomst unemployed,240
+2508,0.04531445712442027,anden_personlig_indkomst pop_den,240
+2509,0.0,kont_recip_tot^2,240
+2510,-0.0,kont_recip_tot gini_index,240
+2511,0.0,kont_recip_tot unemployed,240
+2512,-0.00834680646702919,kont_recip_tot pop_den,240
+2513,-0.025711633862683363,gini_index^2,240
+2514,0.0,gini_index unemployed,240
+2515,0.0,gini_index pop_den,240
+2516,0.016668949542922487,unemployed^2,240
+2517,0.009231654559040476,unemployed pop_den,240
+2518,0.0027770731974378167,pop_den^2,240
+2519,0.065945231390508,housing_type_Ejerlejlighed,240
+2520,-0.0,housing_type_Rækkehus,240
+2521,-0.42260250472847843,housing_type_Villa,240
+2522,0.0,1,230
+2523,0.0,erhvervsindkomst,230
+2524,0.0376370166439346,formueindkomst,230
+2525,-0.09716443502763368,anden_personlig_indkomst,230
+2526,-0.26812258654664173,kont_recip_tot,230
+2527,0.205388728376718,gini_index,230
+2528,-0.08047831232453212,unemployed,230
+2529,0.47815603822577046,pop_den,230
+2530,0.2848531311768058,housing_type_Rækkehus,230
+2531,-0.09527316183269885,housing_type_Ejerlejlighed,230
+2532,0.0,housing_type_Villa,230
+2533,0.0,1,223
+2534,-0.0,erhvervsindkomst,223
+2535,-0.0,formueindkomst,223
+2536,0.0,anden_personlig_indkomst,223
+2537,-0.0,kont_recip_tot,223
+2538,-0.0,gini_index,223
+2539,0.0,unemployed,223
+2540,-0.0,pop_den,223
+2541,0.02962180052492074,erhvervsindkomst^2,223
+2542,0.0,erhvervsindkomst formueindkomst,223
+2543,-0.0,erhvervsindkomst anden_personlig_indkomst,223
+2544,0.0,erhvervsindkomst kont_recip_tot,223
+2545,0.01267551093214554,erhvervsindkomst gini_index,223
+2546,-0.0,erhvervsindkomst unemployed,223
+2547,0.001739973232456394,erhvervsindkomst pop_den,223
+2548,0.0,formueindkomst^2,223
+2549,-0.0,formueindkomst anden_personlig_indkomst,223
+2550,0.0,formueindkomst kont_recip_tot,223
+2551,-0.005255289988126608,formueindkomst gini_index,223
+2552,-0.0,formueindkomst unemployed,223
+2553,0.001993741499310186,formueindkomst pop_den,223
+2554,-0.0,anden_personlig_indkomst^2,223
+2555,-0.0,anden_personlig_indkomst kont_recip_tot,223
+2556,-0.004581810724766863,anden_personlig_indkomst gini_index,223
+2557,0.0,anden_personlig_indkomst unemployed,223
+2558,0.0008169996679480592,anden_personlig_indkomst pop_den,223
+2559,0.0003682857119828135,kont_recip_tot^2,223
+2560,0.010382302053631373,kont_recip_tot gini_index,223
+2561,0.0,kont_recip_tot unemployed,223
+2562,-0.005960008410943894,kont_recip_tot pop_den,223
+2563,-0.03249650418177616,gini_index^2,223
+2564,-0.0,gini_index unemployed,223
+2565,0.010873495572033527,gini_index pop_den,223
+2566,-0.0,unemployed^2,223
+2567,-0.002189006156866318,unemployed pop_den,223
+2568,0.0012826821681548892,pop_den^2,223
+2569,0.0020556023924943163,erhvervsindkomst^3,223
+2570,-0.0,erhvervsindkomst^2 formueindkomst,223
+2571,-0.011632095002935067,erhvervsindkomst^2 anden_personlig_indkomst,223
+2572,0.0006705366521782534,erhvervsindkomst^2 kont_recip_tot,223
+2573,0.0006234657578480445,erhvervsindkomst^2 gini_index,223
+2574,0.0,erhvervsindkomst^2 unemployed,223
+2575,0.0002062551844095896,erhvervsindkomst^2 pop_den,223
+2576,-0.003297663747286019,erhvervsindkomst formueindkomst^2,223
+2577,-0.0,erhvervsindkomst formueindkomst anden_personlig_indkomst,223
+2578,-0.0,erhvervsindkomst formueindkomst kont_recip_tot,223
+2579,-0.0021268082170685094,erhvervsindkomst formueindkomst gini_index,223
+2580,0.14836918895901888,erhvervsindkomst formueindkomst unemployed,223
+2581,0.0002596602276565455,erhvervsindkomst formueindkomst pop_den,223
+2582,0.004918963704080625,erhvervsindkomst anden_personlig_indkomst^2,223
+2583,-0.002536690936813632,erhvervsindkomst anden_personlig_indkomst kont_recip_tot,223
+2584,-0.002879238761333066,erhvervsindkomst anden_personlig_indkomst gini_index,223
+2585,0.0,erhvervsindkomst anden_personlig_indkomst unemployed,223
+2586,0.0011461691216719848,erhvervsindkomst anden_personlig_indkomst pop_den,223
+2587,0.005131966827144639,erhvervsindkomst kont_recip_tot^2,223
+2588,-0.0004978861749052398,erhvervsindkomst kont_recip_tot gini_index,223
+2589,0.013689346042733991,erhvervsindkomst kont_recip_tot unemployed,223
+2590,-0.0006296234531821957,erhvervsindkomst kont_recip_tot pop_den,223
+2591,5.499227534745182e-05,erhvervsindkomst gini_index^2,223
+2592,0.000737087875440075,erhvervsindkomst gini_index unemployed,223
+2593,0.00045970236754736514,erhvervsindkomst gini_index pop_den,223
+2594,-0.004109180484045622,erhvervsindkomst unemployed^2,223
+2595,-0.003792398856067137,erhvervsindkomst unemployed pop_den,223
+2596,-0.00021991268969163486,erhvervsindkomst pop_den^2,223
+2597,-0.012094088965496413,formueindkomst^3,223
+2598,0.012064578544478139,formueindkomst^2 anden_personlig_indkomst,223
+2599,-0.006670923121424512,formueindkomst^2 kont_recip_tot,223
+2600,-0.00289310717891406,formueindkomst^2 gini_index,223
+2601,0.09531191039619781,formueindkomst^2 unemployed,223
+2602,0.0007582630745048337,formueindkomst^2 pop_den,223
+2603,0.023019967425593597,formueindkomst anden_personlig_indkomst^2,223
+2604,-0.009519132841228834,formueindkomst anden_personlig_indkomst kont_recip_tot,223
+2605,-0.014091143947665209,formueindkomst anden_personlig_indkomst gini_index,223
+2606,-0.0,formueindkomst anden_personlig_indkomst unemployed,223
+2607,0.0034299156505541157,formueindkomst anden_personlig_indkomst pop_den,223
+2608,0.01190121306818089,formueindkomst kont_recip_tot^2,223
+2609,-0.007809672386345798,formueindkomst kont_recip_tot gini_index,223
+2610,0.18265112416252496,formueindkomst kont_recip_tot unemployed,223
+2611,0.002222619039274673,formueindkomst kont_recip_tot pop_den,223
+2612,-0.003397392267493269,formueindkomst gini_index^2,223
+2613,-0.07325119837578012,formueindkomst gini_index unemployed,223
+2614,0.0007949891553269157,formueindkomst gini_index pop_den,223
+2615,-0.08169965607885753,formueindkomst unemployed^2,223
+2616,-0.013751652418931237,formueindkomst unemployed pop_den,223
+2617,8.829694259114845e-05,formueindkomst pop_den^2,223
+2618,-0.024010690535566943,anden_personlig_indkomst^3,223
+2619,-0.0,anden_personlig_indkomst^2 kont_recip_tot,223
+2620,0.006252405335158128,anden_personlig_indkomst^2 gini_index,223
+2621,-0.03640960118951682,anden_personlig_indkomst^2 unemployed,223
+2622,0.0016647483841499575,anden_personlig_indkomst^2 pop_den,223
+2623,-0.0008832295974489855,anden_personlig_indkomst kont_recip_tot^2,223
+2624,-0.00516742607336439,anden_personlig_indkomst kont_recip_tot gini_index,223
+2625,0.022195622654867915,anden_personlig_indkomst kont_recip_tot unemployed,223
+2626,-0.0014058536280707145,anden_personlig_indkomst kont_recip_tot pop_den,223
+2627,-0.001571979610642417,anden_personlig_indkomst gini_index^2,223
+2628,0.010702306385486022,anden_personlig_indkomst gini_index unemployed,223
+2629,0.0010499821057489628,anden_personlig_indkomst gini_index pop_den,223
+2630,-0.008089687422081457,anden_personlig_indkomst unemployed^2,223
+2631,-0.0009783211642282938,anden_personlig_indkomst unemployed pop_den,223
+2632,0.00018894589695919424,anden_personlig_indkomst pop_den^2,223
+2633,0.006948687415051105,kont_recip_tot^3,223
+2634,-0.00018388381030665156,kont_recip_tot^2 gini_index,223
+2635,0.01687029396654129,kont_recip_tot^2 unemployed,223
+2636,-0.0015424454933405062,kont_recip_tot^2 pop_den,223
+2637,0.0002944549116102161,kont_recip_tot gini_index^2,223
+2638,0.00437292500729871,kont_recip_tot gini_index unemployed,223
+2639,5.9892785456323716e-05,kont_recip_tot gini_index pop_den,223
+2640,-0.0193392514857156,kont_recip_tot unemployed^2,223
+2641,-0.00046347432569872777,kont_recip_tot unemployed pop_den,223
+2642,-0.00035308904246922395,kont_recip_tot pop_den^2,223
+2643,-0.0020917741343069543,gini_index^3,223
+2644,-0.00041298536234821197,gini_index^2 unemployed,223
+2645,0.0006770467127241812,gini_index^2 pop_den,223
+2646,0.004479042786596035,gini_index unemployed^2,223
+2647,-0.00014023915047904506,gini_index unemployed pop_den,223
+2648,0.0002867126866648195,gini_index pop_den^2,223
+2649,0.02034278295882449,unemployed^3,223
+2650,0.00021754768456750634,unemployed^2 pop_den,223
+2651,-0.0001425354846931605,unemployed pop_den^2,223
+2652,-1.1485778053247533e-05,pop_den^3,223
+2653,-0.06718202897872373,housing_type_Ejerlejlighed,223
+2654,0.0,housing_type_Rækkehus,223
+2655,0.12411556938415086,housing_type_Villa,223
+2656,0.0,1,219
+2657,-0.0,erhvervsindkomst,219
+2658,0.0,formueindkomst,219
+2659,0.0,anden_personlig_indkomst,219
+2660,-0.0,kont_recip_tot,219
+2661,0.0,gini_index,219
+2662,-0.0,unemployed,219
+2663,-0.0,pop_den,219
+2664,-0.0,erhvervsindkomst^2,219
+2665,-0.0,erhvervsindkomst formueindkomst,219
+2666,0.0,erhvervsindkomst anden_personlig_indkomst,219
+2667,-0.0,erhvervsindkomst kont_recip_tot,219
+2668,0.02445961244708339,erhvervsindkomst gini_index,219
+2669,-0.0,erhvervsindkomst unemployed,219
+2670,0.0,erhvervsindkomst pop_den,219
+2671,0.0029695211611681705,formueindkomst^2,219
+2672,0.0,formueindkomst anden_personlig_indkomst,219
+2673,0.0,formueindkomst kont_recip_tot,219
+2674,0.021562056362881055,formueindkomst gini_index,219
+2675,0.0,formueindkomst unemployed,219
+2676,0.012247717617947646,formueindkomst pop_den,219
+2677,0.02904252330376029,anden_personlig_indkomst^2,219
+2678,0.0,anden_personlig_indkomst kont_recip_tot,219
+2679,0.0033017446987710615,anden_personlig_indkomst gini_index,219
+2680,0.0,anden_personlig_indkomst unemployed,219
+2681,0.0,anden_personlig_indkomst pop_den,219
+2682,-0.0,kont_recip_tot^2,219
+2683,-0.0,kont_recip_tot gini_index,219
+2684,-0.0,kont_recip_tot unemployed,219
+2685,-0.00891241139016044,kont_recip_tot pop_den,219
+2686,0.0012696789372699758,gini_index^2,219
+2687,-0.0,gini_index unemployed,219
+2688,-0.011564051878320037,gini_index pop_den,219
+2689,0.0,unemployed^2,219
+2690,-0.0008160325107804837,unemployed pop_den,219
+2691,-0.00553078369918045,pop_den^2,219
+2692,-0.011751946376575966,erhvervsindkomst^3,219
+2693,-0.002987920324548446,erhvervsindkomst^2 formueindkomst,219
+2694,0.0005087996079240317,erhvervsindkomst^2 anden_personlig_indkomst,219
+2695,0.013476918121149895,erhvervsindkomst^2 kont_recip_tot,219
+2696,-0.000691473696878032,erhvervsindkomst^2 gini_index,219
+2697,0.0,erhvervsindkomst^2 unemployed,219
+2698,-0.0004258469450915244,erhvervsindkomst^2 pop_den,219
+2699,-0.007279638412229473,erhvervsindkomst formueindkomst^2,219
+2700,-0.0,erhvervsindkomst formueindkomst anden_personlig_indkomst,219
+2701,0.0006383361364470395,erhvervsindkomst formueindkomst kont_recip_tot,219
+2702,0.0012225359337617572,erhvervsindkomst formueindkomst gini_index,219
+2703,0.0,erhvervsindkomst formueindkomst unemployed,219
+2704,0.0007230796578666399,erhvervsindkomst formueindkomst pop_den,219
+2705,0.003672188538560983,erhvervsindkomst anden_personlig_indkomst^2,219
+2706,0.004956577608001243,erhvervsindkomst anden_personlig_indkomst kont_recip_tot,219
+2707,-0.0002735482241871333,erhvervsindkomst anden_personlig_indkomst gini_index,219
+2708,7.774973662367748e-05,erhvervsindkomst anden_personlig_indkomst unemployed,219
+2709,-0.0014439056664090986,erhvervsindkomst anden_personlig_indkomst pop_den,219
+2710,0.0022276651268140395,erhvervsindkomst kont_recip_tot^2,219
+2711,0.001776665022426367,erhvervsindkomst kont_recip_tot gini_index,219
+2712,-0.0002163845672404279,erhvervsindkomst kont_recip_tot unemployed,219
+2713,-0.0007698705951299875,erhvervsindkomst kont_recip_tot pop_den,219
+2714,0.0012008918093972044,erhvervsindkomst gini_index^2,219
+2715,-0.00017091059720636913,erhvervsindkomst gini_index unemployed,219
+2716,-0.0002666791073631969,erhvervsindkomst gini_index pop_den,219
+2717,0.0013862555132244836,erhvervsindkomst unemployed^2,219
+2718,0.004045235127455477,erhvervsindkomst unemployed pop_den,219
+2719,0.0005444844767598184,erhvervsindkomst pop_den^2,219
+2720,-0.014977188811994547,formueindkomst^3,219
+2721,0.006275322923657984,formueindkomst^2 anden_personlig_indkomst,219
+2722,0.0001174060684422944,formueindkomst^2 kont_recip_tot,219
+2723,0.0,formueindkomst^2 gini_index,219
+2724,0.1351989343883441,formueindkomst^2 unemployed,219
+2725,-0.000558033375687886,formueindkomst^2 pop_den,219
+2726,-0.0,formueindkomst anden_personlig_indkomst^2,219
+2727,-0.017924323278648846,formueindkomst anden_personlig_indkomst kont_recip_tot,219
+2728,0.0022547256481975316,formueindkomst anden_personlig_indkomst gini_index,219
+2729,0.0,formueindkomst anden_personlig_indkomst unemployed,219
+2730,0.0005054075919245975,formueindkomst anden_personlig_indkomst pop_den,219
+2731,-0.008823362614421371,formueindkomst kont_recip_tot^2,219
+2732,0.0026773282746104317,formueindkomst kont_recip_tot gini_index,219
+2733,-0.05048069855974454,formueindkomst kont_recip_tot unemployed,219
+2734,5.9068402481686194e-05,formueindkomst kont_recip_tot pop_den,219
+2735,0.0005585234897248069,formueindkomst gini_index^2,219
+2736,-0.01621681103591684,formueindkomst gini_index unemployed,219
+2737,0.00010476935611286276,formueindkomst gini_index pop_den,219
+2738,-0.0,formueindkomst unemployed^2,219
+2739,0.006022241368229558,formueindkomst unemployed pop_den,219
+2740,0.0005250772375000746,formueindkomst pop_den^2,219
+2741,0.003351596847113669,anden_personlig_indkomst^3,219
+2742,0.019508356804510445,anden_personlig_indkomst^2 kont_recip_tot,219
+2743,-0.0067568332197598035,anden_personlig_indkomst^2 gini_index,219
+2744,0.0,anden_personlig_indkomst^2 unemployed,219
+2745,-0.0012530493104267936,anden_personlig_indkomst^2 pop_den,219
+2746,0.0006179982863586814,anden_personlig_indkomst kont_recip_tot^2,219
+2747,0.004348095365448848,anden_personlig_indkomst kont_recip_tot gini_index,219
+2748,0.0,anden_personlig_indkomst kont_recip_tot unemployed,219
+2749,-0.0052606933687050226,anden_personlig_indkomst kont_recip_tot pop_den,219
+2750,0.0008505363189982029,anden_personlig_indkomst gini_index^2,219
+2751,-0.007714833796135346,anden_personlig_indkomst gini_index unemployed,219
+2752,-0.0009915523320299013,anden_personlig_indkomst gini_index pop_den,219
+2753,-0.002070592214425925,anden_personlig_indkomst unemployed^2,219
+2754,0.002560563130967805,anden_personlig_indkomst unemployed pop_den,219
+2755,-4.9903034829069675e-05,anden_personlig_indkomst pop_den^2,219
+2756,0.0015364630038062748,kont_recip_tot^3,219
+2757,-0.001519197706959742,kont_recip_tot^2 gini_index,219
+2758,0.003078908285124538,kont_recip_tot^2 unemployed,219
+2759,-0.0007039737437476877,kont_recip_tot^2 pop_den,219
+2760,0.0009383609870433717,kont_recip_tot gini_index^2,219
+2761,-0.002388477791495983,kont_recip_tot gini_index unemployed,219
+2762,-0.0009654486052129417,kont_recip_tot gini_index pop_den,219
+2763,0.005633875993350798,kont_recip_tot unemployed^2,219
+2764,0.0003756201378225459,kont_recip_tot unemployed pop_den,219
+2765,-0.00019555665739900833,kont_recip_tot pop_den^2,219
+2766,0.0010393081394373415,gini_index^3,219
+2767,-0.003405135490850996,gini_index^2 unemployed,219
+2768,-0.0010103000819191076,gini_index^2 pop_den,219
+2769,0.0,gini_index unemployed^2,219
+2770,-0.0003153132069238986,gini_index unemployed pop_den,219
+2771,-8.146612315842474e-05,gini_index pop_den^2,219
+2772,0.0,unemployed^3,219
+2773,0.0032676877713474395,unemployed^2 pop_den,219
+2774,0.0001913364163917294,unemployed pop_den^2,219
+2775,0.0004381088032815073,pop_den^3,219
+2776,0.008689819397186735,housing_type_Rækkehus,219
+2777,-0.0,housing_type_Ejerlejlighed,219
+2778,-0.4501356496115929,housing_type_Villa,219
+2779,0.0,1,217
+2780,-0.0,erhvervsindkomst,217
+2781,0.0,formueindkomst,217
+2782,0.0,anden_personlig_indkomst,217
+2783,-0.0,kont_recip_tot,217
+2784,0.0,gini_index,217
+2785,-0.0,unemployed,217
+2786,0.0,pop_den,217
+2787,-0.0,erhvervsindkomst^2,217
+2788,0.0,erhvervsindkomst formueindkomst,217
+2789,0.0,erhvervsindkomst anden_personlig_indkomst,217
+2790,-0.0,erhvervsindkomst kont_recip_tot,217
+2791,-0.02375706442349084,erhvervsindkomst gini_index,217
+2792,-0.0,erhvervsindkomst unemployed,217
+2793,-0.016464767521042215,erhvervsindkomst pop_den,217
+2794,-0.09278333529268273,formueindkomst^2,217
+2795,-0.0,formueindkomst anden_personlig_indkomst,217
+2796,-0.0,formueindkomst kont_recip_tot,217
+2797,0.0,formueindkomst gini_index,217
+2798,-0.009465022353708202,formueindkomst unemployed,217
+2799,0.007743609283042629,formueindkomst pop_den,217
+2800,-0.04739538135007191,anden_personlig_indkomst^2,217
+2801,-0.09509368891841682,anden_personlig_indkomst kont_recip_tot,217
+2802,0.03090798003374708,anden_personlig_indkomst gini_index,217
+2803,-0.04194151113027146,anden_personlig_indkomst unemployed,217
+2804,0.01934087594747534,anden_personlig_indkomst pop_den,217
+2805,0.28497592493857704,kont_recip_tot^2,217
+2806,-0.0,kont_recip_tot gini_index,217
+2807,0.0,kont_recip_tot unemployed,217
+2808,-0.0732977356087479,kont_recip_tot pop_den,217
+2809,0.0,gini_index^2,217
+2810,-0.0,gini_index unemployed,217
+2811,0.016903255327183207,gini_index pop_den,217
+2812,0.0,unemployed^2,217
+2813,-0.005564479845790743,unemployed pop_den,217
+2814,0.018149993119760812,pop_den^2,217
+2815,0.11819532720566203,housing_type_Rækkehus,217
+2816,-0.0,housing_type_Ejerlejlighed,217
+2817,-0.0,housing_type_Villa,217
+2818,0.0,1,210
+2819,0.0,erhvervsindkomst,210
+2820,0.0,formueindkomst,210
+2821,-0.0,anden_personlig_indkomst,210
+2822,-0.0,kont_recip_tot,210
+2823,-0.0,gini_index,210
+2824,0.0,unemployed,210
+2825,-0.0,pop_den,210
+2826,-0.1115606722350392,erhvervsindkomst^2,210
+2827,0.0,erhvervsindkomst formueindkomst,210
+2828,-0.0,erhvervsindkomst anden_personlig_indkomst,210
+2829,0.10004025158456206,erhvervsindkomst kont_recip_tot,210
+2830,0.036438288339494654,erhvervsindkomst gini_index,210
+2831,0.0,erhvervsindkomst unemployed,210
+2832,0.02362741724016317,erhvervsindkomst pop_den,210
+2833,-0.06589287808686911,formueindkomst^2,210
+2834,0.0,formueindkomst anden_personlig_indkomst,210
+2835,0.0,formueindkomst kont_recip_tot,210
+2836,0.0,formueindkomst gini_index,210
+2837,-0.07000456507740233,formueindkomst unemployed,210
+2838,0.01556822341305381,formueindkomst pop_den,210
+2839,0.012617166017613354,anden_personlig_indkomst^2,210
+2840,-0.0,anden_personlig_indkomst kont_recip_tot,210
+2841,-0.0,anden_personlig_indkomst gini_index,210
+2842,0.0,anden_personlig_indkomst unemployed,210
+2843,-0.0016043768211765458,anden_personlig_indkomst pop_den,210
+2844,-0.0,kont_recip_tot^2,210
+2845,-0.0,kont_recip_tot gini_index,210
+2846,-0.0,kont_recip_tot unemployed,210
+2847,-0.020301176332541925,kont_recip_tot pop_den,210
+2848,0.0,gini_index^2,210
+2849,-0.0,gini_index unemployed,210
+2850,-0.006476067525062737,gini_index pop_den,210
+2851,0.0,unemployed^2,210
+2852,0.00920645252717289,unemployed pop_den,210
+2853,-0.005218150316120049,pop_den^2,210
+2854,0.06730037250519881,housing_type_Rækkehus,210
+2855,-0.733002151734759,housing_type_Ejerlejlighed,210
+2856,0.0,housing_type_Villa,210
+2857,0.0,1,201
+2858,1.2156745926707284,erhvervsindkomst,201
+2859,0.536782170413008,formueindkomst,201
+2860,1.077442237092037,anden_personlig_indkomst,201
+2861,-1.0478564292331884,kont_recip_tot,201
+2862,-0.09802186574805023,gini_index,201
+2863,0.577353969523262,unemployed,201
+2864,-0.0074816395443446275,pop_den,201
+2865,-0.13976356339391985,erhvervsindkomst^2,201
+2866,-0.04906324759914642,erhvervsindkomst formueindkomst,201
+2867,-0.3780006704676378,erhvervsindkomst anden_personlig_indkomst,201
+2868,0.26021157744381124,erhvervsindkomst kont_recip_tot,201
+2869,0.038960198772529445,erhvervsindkomst gini_index,201
+2870,0.007217661343230643,erhvervsindkomst unemployed,201
+2871,0.007442676662075458,erhvervsindkomst pop_den,201
+2872,-0.1655475086435531,formueindkomst^2,201
+2873,-0.11621588191940317,formueindkomst anden_personlig_indkomst,201
+2874,-0.17317548220929518,formueindkomst kont_recip_tot,201
+2875,0.10611394185807503,formueindkomst gini_index,201
+2876,0.12143280058352875,formueindkomst unemployed,201
+2877,-0.009306417591004859,formueindkomst pop_den,201
+2878,0.06917692322514593,anden_personlig_indkomst^2,201
+2879,-0.021284364749738334,anden_personlig_indkomst kont_recip_tot,201
+2880,0.043378335508399035,anden_personlig_indkomst gini_index,201
+2881,-0.4317787903948132,anden_personlig_indkomst unemployed,201
+2882,0.04154534729383346,anden_personlig_indkomst pop_den,201
+2883,0.3080188044262122,kont_recip_tot^2,201
+2884,-0.20113384235608167,kont_recip_tot gini_index,201
+2885,-0.013712018056654857,kont_recip_tot unemployed,201
+2886,0.00971042629817563,kont_recip_tot pop_den,201
+2887,0.00890815987767639,gini_index^2,201
+2888,0.025525745880468634,gini_index unemployed,201
+2889,0.014360884255803598,gini_index pop_den,201
+2890,-0.09993544657146042,unemployed^2,201
+2891,0.011257109964007316,unemployed pop_den,201
+2892,-0.005929008746790355,pop_den^2,201
+2893,-0.0,housing_type_Ejerlejlighed,201
+2894,0.16349592251544703,housing_type_Rækkehus,201
+2895,-0.1970895510428159,housing_type_Villa,201
+2896,0.0,1,190
+2897,0.0,erhvervsindkomst,190
+2898,0.0,formueindkomst,190
+2899,0.0,anden_personlig_indkomst,190
+2900,-0.0,kont_recip_tot,190
+2901,-0.0,gini_index,190
+2902,-0.0,unemployed,190
+2903,0.0,pop_den,190
+2904,-0.151415706289271,erhvervsindkomst^2,190
+2905,0.0,erhvervsindkomst formueindkomst,190
+2906,-0.06393572010359516,erhvervsindkomst anden_personlig_indkomst,190
+2907,0.12188883114563374,erhvervsindkomst kont_recip_tot,190
+2908,0.06977307282367828,erhvervsindkomst gini_index,190
+2909,0.27043665902218855,erhvervsindkomst unemployed,190
+2910,0.04553652296378086,erhvervsindkomst pop_den,190
+2911,0.027735071778268765,formueindkomst^2,190
+2912,0.12219139732259908,formueindkomst anden_personlig_indkomst,190
+2913,0.0,formueindkomst kont_recip_tot,190
+2914,-0.0019121481810061615,formueindkomst gini_index,190
+2915,0.017309162969490983,formueindkomst unemployed,190
+2916,0.0010870535062641512,formueindkomst pop_den,190
+2917,-0.13091084611909384,anden_personlig_indkomst^2,190
+2918,-0.019997115496390654,anden_personlig_indkomst kont_recip_tot,190
+2919,0.027211749436023693,anden_personlig_indkomst gini_index,190
+2920,0.004340206090689441,anden_personlig_indkomst unemployed,190
+2921,0.043863482688674044,anden_personlig_indkomst pop_den,190
+2922,-0.1249149109922694,kont_recip_tot^2,190
+2923,0.021630772576426285,kont_recip_tot gini_index,190
+2924,0.21877384486193432,kont_recip_tot unemployed,190
+2925,-0.0027359310802413206,kont_recip_tot pop_den,190
+2926,-0.0012836246855899,gini_index^2,190
+2927,-0.09938416392528711,gini_index unemployed,190
+2928,-0.022525510150194945,gini_index pop_den,190
+2929,0.0,unemployed^2,190
+2930,-0.044809462645672836,unemployed pop_den,190
+2931,-0.00589465496003628,pop_den^2,190
+2932,-0.20347113008653442,housing_type_Ejerlejlighed,190
+2933,0.17922404310500004,housing_type_Rækkehus,190
+2934,0.0,housing_type_Villa,190
+2935,0.0,1,187
+2936,0.7632352451832364,erhvervsindkomst,187
+2937,-0.0,formueindkomst,187
+2938,0.31332859277529435,anden_personlig_indkomst,187
+2939,-0.552780458954993,kont_recip_tot,187
+2940,0.5392327763824516,gini_index,187
+2941,-0.0,unemployed,187
+2942,0.0,pop_den,187
+2943,-0.0049923874101428034,erhvervsindkomst^2,187
+2944,0.0012774166370233672,erhvervsindkomst formueindkomst,187
+2945,0.057781421358901186,erhvervsindkomst anden_personlig_indkomst,187
+2946,-0.03813620171152356,erhvervsindkomst kont_recip_tot,187
+2947,0.01807269894094611,erhvervsindkomst gini_index,187
+2948,0.017100582386514976,erhvervsindkomst unemployed,187
+2949,-0.009575319495701217,erhvervsindkomst pop_den,187
+2950,0.01589906972862333,formueindkomst^2,187
+2951,-0.05540482578979021,formueindkomst anden_personlig_indkomst,187
+2952,-0.03956790664831,formueindkomst kont_recip_tot,187
+2953,0.03524397339633909,formueindkomst gini_index,187
+2954,-0.0,formueindkomst unemployed,187
+2955,-0.023704557938047644,formueindkomst pop_den,187
+2956,-0.01695002641102733,anden_personlig_indkomst^2,187
+2957,-0.024506943649891887,anden_personlig_indkomst kont_recip_tot,187
+2958,-0.05765398473212389,anden_personlig_indkomst gini_index,187
+2959,0.02863275568913248,anden_personlig_indkomst unemployed,187
+2960,-0.006730045007775788,anden_personlig_indkomst pop_den,187
+2961,0.036853536292670436,kont_recip_tot^2,187
+2962,-0.015831226063552275,kont_recip_tot gini_index,187
+2963,-0.04800251561630792,kont_recip_tot unemployed,187
+2964,0.021894880774118528,kont_recip_tot pop_den,187
+2965,0.015434678465880718,gini_index^2,187
+2966,0.022891805601125477,gini_index unemployed,187
+2967,-0.0019518340322477214,gini_index pop_den,187
+2968,-0.0003614885333759047,unemployed^2,187
+2969,0.02139582569363982,unemployed pop_den,187
+2970,-0.001366401376378306,pop_den^2,187
+2971,-0.0004242576775428279,erhvervsindkomst^3,187
+2972,0.0006765329597752498,erhvervsindkomst^2 formueindkomst,187
+2973,0.010126751598096338,erhvervsindkomst^2 anden_personlig_indkomst,187
+2974,-0.005719912545759067,erhvervsindkomst^2 kont_recip_tot,187
+2975,0.00019644590226315835,erhvervsindkomst^2 gini_index,187
+2976,-0.008914420836292762,erhvervsindkomst^2 unemployed,187
+2977,-0.0023097460564114485,erhvervsindkomst^2 pop_den,187
+2978,0.002556461931526979,erhvervsindkomst formueindkomst^2,187
+2979,-0.001937689700153275,erhvervsindkomst formueindkomst anden_personlig_indkomst,187
+2980,-0.0008985500938616211,erhvervsindkomst formueindkomst kont_recip_tot,187
+2981,0.001977598140671455,erhvervsindkomst formueindkomst gini_index,187
+2982,0.0051054395995886286,erhvervsindkomst formueindkomst unemployed,187
+2983,-0.002534583078761929,erhvervsindkomst formueindkomst pop_den,187
+2984,0.00102112924099891,erhvervsindkomst anden_personlig_indkomst^2,187
+2985,-0.0014914843781499226,erhvervsindkomst anden_personlig_indkomst kont_recip_tot,187
+2986,-0.004757384558676726,erhvervsindkomst anden_personlig_indkomst gini_index,187
+2987,-0.005242079370957362,erhvervsindkomst anden_personlig_indkomst unemployed,187
+2988,-0.002092777054508629,erhvervsindkomst anden_personlig_indkomst pop_den,187
+2989,0.006502056479627724,erhvervsindkomst kont_recip_tot^2,187
+2990,-0.0007804336891466912,erhvervsindkomst kont_recip_tot gini_index,187
+2991,-0.018851587233258103,erhvervsindkomst kont_recip_tot unemployed,187
+2992,0.0021132382157485136,erhvervsindkomst kont_recip_tot pop_den,187
+2993,0.0004639087943380771,erhvervsindkomst gini_index^2,187
+2994,0.003681131680940332,erhvervsindkomst gini_index unemployed,187
+2995,-0.0002472167368663119,erhvervsindkomst gini_index pop_den,187
+2996,0.007584985097947432,erhvervsindkomst unemployed^2,187
+2997,-0.00022625736169895665,erhvervsindkomst unemployed pop_den,187
+2998,0.00011375146480514407,erhvervsindkomst pop_den^2,187
+2999,-0.00811909377552293,formueindkomst^3,187
+3000,0.0170553520023809,formueindkomst^2 anden_personlig_indkomst,187
+3001,-0.016063049753090756,formueindkomst^2 kont_recip_tot,187
+3002,0.004527590905582449,formueindkomst^2 gini_index,187
+3003,0.1499856897064664,formueindkomst^2 unemployed,187
+3004,-0.013431970835315348,formueindkomst^2 pop_den,187
+3005,0.005976479907531093,formueindkomst anden_personlig_indkomst^2,187
+3006,-0.0034505451267717417,formueindkomst anden_personlig_indkomst kont_recip_tot,187
+3007,0.0001078742728043702,formueindkomst anden_personlig_indkomst gini_index,187
+3008,-0.05751512730135735,formueindkomst anden_personlig_indkomst unemployed,187
+3009,-0.007644066699045314,formueindkomst anden_personlig_indkomst pop_den,187
+3010,-0.0017990000141615279,formueindkomst kont_recip_tot^2,187
+3011,0.0016538944377066324,formueindkomst kont_recip_tot gini_index,187
+3012,-0.14930940630978642,formueindkomst kont_recip_tot unemployed,187
+3013,0.010373724914448794,formueindkomst kont_recip_tot pop_den,187
+3014,0.0010504979973266352,formueindkomst gini_index^2,187
+3015,0.021118756422792616,formueindkomst gini_index unemployed,187
+3016,-0.0018708122660742487,formueindkomst gini_index pop_den,187
+3017,0.10447467212351097,formueindkomst unemployed^2,187
+3018,-0.022239499480005438,formueindkomst unemployed pop_den,187
+3019,0.002154354497497687,formueindkomst pop_den^2,187
+3020,0.004067973228857976,anden_personlig_indkomst^3,187
+3021,0.01622366400340661,anden_personlig_indkomst^2 kont_recip_tot,187
+3022,-0.007282290991240105,anden_personlig_indkomst^2 gini_index,187
+3023,0.010240364007236958,anden_personlig_indkomst^2 unemployed,187
+3024,0.00016480079231041858,anden_personlig_indkomst^2 pop_den,187
+3025,0.06312014583625787,anden_personlig_indkomst kont_recip_tot^2,187
+3026,-0.028196363016383556,anden_personlig_indkomst kont_recip_tot gini_index,187
+3027,-0.01830695798181212,anden_personlig_indkomst kont_recip_tot unemployed,187
+3028,0.019448930561249002,anden_personlig_indkomst kont_recip_tot pop_den,187
+3029,-0.0013090027127077139,anden_personlig_indkomst gini_index^2,187
+3030,-0.008452565979388618,anden_personlig_indkomst gini_index unemployed,187
+3031,-0.0008746669772789399,anden_personlig_indkomst gini_index pop_den,187
+3032,0.0034587560503331416,anden_personlig_indkomst unemployed^2,187
+3033,0.0043210709142521295,anden_personlig_indkomst unemployed pop_den,187
+3034,0.0003739750493854745,anden_personlig_indkomst pop_den^2,187
+3035,-0.00014585518144344885,kont_recip_tot^3,187
+3036,-0.002784898374688909,kont_recip_tot^2 gini_index,187
+3037,0.016809975803906023,kont_recip_tot^2 unemployed,187
+3038,0.0023351784521689757,kont_recip_tot^2 pop_den,187
+3039,-0.0013951651825700826,kont_recip_tot gini_index^2,187
+3040,-0.03189323848450116,kont_recip_tot gini_index unemployed,187
+3041,0.0026587194807141576,kont_recip_tot gini_index pop_den,187
+3042,0.003549991356092102,kont_recip_tot unemployed^2,187
+3043,0.009880358154363207,kont_recip_tot unemployed pop_den,187
+3044,0.002060178798732545,kont_recip_tot pop_den^2,187
+3045,0.0007277566087867999,gini_index^3,187
+3046,-0.0007547528124541936,gini_index^2 unemployed,187
+3047,-0.0004838104712584662,gini_index^2 pop_den,187
+3048,0.0038921125951253822,gini_index unemployed^2,187
+3049,0.0007803832782972927,gini_index unemployed pop_den,187
+3050,0.0001769456208363054,gini_index pop_den^2,187
+3051,-0.028971070957831167,unemployed^3,187
+3052,0.017352529478629915,unemployed^2 pop_den,187
+3053,0.00430466132768104,unemployed pop_den^2,187
+3054,0.0003460268864963043,pop_den^3,187
+3055,0.17608069298888604,housing_type_Rækkehus,187
+3056,0.0,housing_type_Villa,187
+3057,-0.388976699442178,housing_type_Ejerlejlighed,187
+3058,0.0,1,185
+3059,0.0,erhvervsindkomst,185
+3060,0.0,formueindkomst,185
+3061,0.0,anden_personlig_indkomst,185
+3062,-0.0,kont_recip_tot,185
+3063,0.0,gini_index,185
+3064,0.0,unemployed,185
+3065,-0.0,pop_den,185
+3066,-0.05459410582681077,erhvervsindkomst^2,185
+3067,-0.024149494179600627,erhvervsindkomst formueindkomst,185
+3068,-0.0,erhvervsindkomst anden_personlig_indkomst,185
+3069,0.11873404007752208,erhvervsindkomst kont_recip_tot,185
+3070,0.0,erhvervsindkomst gini_index,185
+3071,0.0,erhvervsindkomst unemployed,185
+3072,0.012541873809477787,erhvervsindkomst pop_den,185
+3073,-0.0,formueindkomst^2,185
+3074,0.027375496476023945,formueindkomst anden_personlig_indkomst,185
+3075,-0.17126556213359675,formueindkomst kont_recip_tot,185
+3076,0.027239573292450515,formueindkomst gini_index,185
+3077,0.0,formueindkomst unemployed,185
+3078,0.028559341380347967,formueindkomst pop_den,185
+3079,-0.02349978199335392,anden_personlig_indkomst^2,185
+3080,-0.024915325994455197,anden_personlig_indkomst kont_recip_tot,185
+3081,0.0,anden_personlig_indkomst gini_index,185
+3082,0.09888873238136171,anden_personlig_indkomst unemployed,185
+3083,0.0031855913656033204,anden_personlig_indkomst pop_den,185
+3084,0.0,kont_recip_tot^2,185
+3085,-0.008338206726882503,kont_recip_tot gini_index,185
+3086,-0.2359575341688264,kont_recip_tot unemployed,185
+3087,0.005766866795660003,kont_recip_tot pop_den,185
+3088,-0.0,gini_index^2,185
+3089,0.011584363169506692,gini_index unemployed,185
+3090,0.006521043052067136,gini_index pop_den,185
+3091,0.08981176718079639,unemployed^2,185
+3092,0.0008289041274287793,unemployed pop_den,185
+3093,-0.0023949057650007035,pop_den^2,185
+3094,-0.0,housing_type_Ejerlejlighed,185
+3095,0.15043390855845698,housing_type_Rækkehus,185
+3096,-0.28512688315891954,housing_type_Villa,185
+3097,0.0,1,183
+3098,1.057053449127951,erhvervsindkomst,183
+3099,1.1777334624267983,formueindkomst,183
+3100,1.9068610854476384,anden_personlig_indkomst,183
+3101,-0.7608212638008456,kont_recip_tot,183
+3102,-0.33327412846565824,gini_index,183
+3103,1.031080188013495,unemployed,183
+3104,0.1459583521219502,pop_den,183
+3105,-0.19212102543736528,erhvervsindkomst^2,183
+3106,-0.037146566701559774,erhvervsindkomst formueindkomst,183
+3107,-0.12357137984027591,erhvervsindkomst anden_personlig_indkomst,183
+3108,0.2100492654839838,erhvervsindkomst kont_recip_tot,183
+3109,0.09333002113296195,erhvervsindkomst gini_index,183
+3110,0.11942700617031059,erhvervsindkomst unemployed,183
+3111,0.010447343625065867,erhvervsindkomst pop_den,183
+3112,-0.005297338570311064,formueindkomst^2,183
+3113,0.10756510090429011,formueindkomst anden_personlig_indkomst,183
+3114,-0.08974975882763085,formueindkomst kont_recip_tot,183
+3115,-0.03559579813554907,formueindkomst gini_index,183
+3116,-0.3182264933760999,formueindkomst unemployed,183
+3117,0.008250917205642106,formueindkomst pop_den,183
+3118,-0.003905966831176416,anden_personlig_indkomst^2,183
+3119,-0.02745542919173062,anden_personlig_indkomst kont_recip_tot,183
+3120,-0.02705765814918527,anden_personlig_indkomst gini_index,183
+3121,-0.26943012869317706,anden_personlig_indkomst unemployed,183
+3122,-0.01094919302038321,anden_personlig_indkomst pop_den,183
+3123,0.13422706712160465,kont_recip_tot^2,183
+3124,-0.1043188113777501,kont_recip_tot gini_index,183
+3125,-0.4351820080039161,kont_recip_tot unemployed,183
+3126,0.015350264737439667,kont_recip_tot pop_den,183
+3127,-0.0009620797320746953,gini_index^2,183
+3128,0.07794799172059444,gini_index unemployed,183
+3129,0.015120215595929059,gini_index pop_den,183
+3130,0.15448865177207524,unemployed^2,183
+3131,-0.007317022833772045,unemployed pop_den,183
+3132,-0.006385841011953982,pop_den^2,183
+3133,-0.028327858534389353,housing_type_Villa,183
+3134,0.05109258433305182,housing_type_Rækkehus,183
+3135,0.0,housing_type_Ejerlejlighed,183
+3136,0.0,1,175
+3137,0.43324119520585547,erhvervsindkomst,175
+3138,0.4896532483701647,formueindkomst,175
+3139,0.24776567162553587,anden_personlig_indkomst,175
+3140,-0.0,kont_recip_tot,175
+3141,0.07969667621000912,gini_index,175
+3142,-0.0,unemployed,175
+3143,0.0,pop_den,175
+3144,-0.04884841408196782,erhvervsindkomst^2,175
+3145,-0.045339773592505274,erhvervsindkomst formueindkomst,175
+3146,-0.0677074525222284,erhvervsindkomst anden_personlig_indkomst,175
+3147,0.053375058198104106,erhvervsindkomst kont_recip_tot,175
+3148,0.05911588934165308,erhvervsindkomst gini_index,175
+3149,0.13115198330362637,erhvervsindkomst unemployed,175
+3150,0.015004158524865186,erhvervsindkomst pop_den,175
+3151,-0.3358695678004083,formueindkomst^2,175
+3152,0.14496103464302634,formueindkomst anden_personlig_indkomst,175
+3153,-0.05337363100194212,formueindkomst kont_recip_tot,175
+3154,0.04403708051005204,formueindkomst gini_index,175
+3155,0.15853748425213743,formueindkomst unemployed,175
+3156,0.03758470369111123,formueindkomst pop_den,175
+3157,-0.038456236814040104,anden_personlig_indkomst^2,175
+3158,0.08440129433268317,anden_personlig_indkomst kont_recip_tot,175
+3159,-0.11179349134649134,anden_personlig_indkomst gini_index,175
+3160,-0.0801519862180552,anden_personlig_indkomst unemployed,175
+3161,0.04132055618672978,anden_personlig_indkomst pop_den,175
+3162,0.027501407446288057,kont_recip_tot^2,175
+3163,-0.06419291201526371,kont_recip_tot gini_index,175
+3164,0.05345956297968357,kont_recip_tot unemployed,175
+3165,-0.017175370164982082,kont_recip_tot pop_den,175
+3166,0.029274146984019592,gini_index^2,175
+3167,-0.011824892678129174,gini_index unemployed,175
+3168,-0.0,gini_index pop_den,175
+3169,-0.0,unemployed^2,175
+3170,-0.005168151357206866,unemployed pop_den,175
+3171,-0.012487486840594796,pop_den^2,175
+3172,0.2630187210357573,housing_type_Rækkehus,175
+3173,-0.12509998708536146,housing_type_Ejerlejlighed,175
+3174,0.0,housing_type_Villa,175
+3175,0.0,1,173
+3176,1.3958317766393478,erhvervsindkomst,173
+3177,0.005337033404531708,formueindkomst,173
+3178,0.0,anden_personlig_indkomst,173
+3179,0.5319214223640718,kont_recip_tot,173
+3180,0.006764263022108968,gini_index,173
+3181,-0.5403570200969624,unemployed,173
+3182,-0.20858392925442482,pop_den,173
+3183,-0.26958502777449356,erhvervsindkomst^2,173
+3184,0.12382105316899164,erhvervsindkomst formueindkomst,173
+3185,-0.09320611365499026,erhvervsindkomst anden_personlig_indkomst,173
+3186,-0.020876980673737434,erhvervsindkomst kont_recip_tot,173
+3187,0.051307418916926764,erhvervsindkomst gini_index,173
+3188,0.35145932235556054,erhvervsindkomst unemployed,173
+3189,0.038158540163351184,erhvervsindkomst pop_den,173
+3190,-0.2392166863967911,formueindkomst^2,173
+3191,0.13586111912222365,formueindkomst anden_personlig_indkomst,173
+3192,-0.10454220984765306,formueindkomst kont_recip_tot,173
+3193,0.10935736958741994,formueindkomst gini_index,173
+3194,0.2576159949895376,formueindkomst unemployed,173
+3195,0.007599175903384142,formueindkomst pop_den,173
+3196,0.029043210395695216,anden_personlig_indkomst^2,173
+3197,-0.04764315331672306,anden_personlig_indkomst kont_recip_tot,173
+3198,-0.018347996879622925,anden_personlig_indkomst gini_index,173
+3199,0.15101397872295544,anden_personlig_indkomst unemployed,173
+3200,0.005184791827795265,anden_personlig_indkomst pop_den,173
+3201,-0.07972525546326906,kont_recip_tot^2,173
+3202,-0.03648927114944025,kont_recip_tot gini_index,173
+3203,0.11974905403310417,kont_recip_tot unemployed,173
+3204,0.0378579788071746,kont_recip_tot pop_den,173
+3205,0.020333883888022587,gini_index^2,173
+3206,-0.07745661893108358,gini_index unemployed,173
+3207,-0.006258676179071131,gini_index pop_den,173
+3208,0.09257408591184554,unemployed^2,173
+3209,-0.05118740288985456,unemployed pop_den,173
+3210,-0.011809139631946425,pop_den^2,173
+3211,0.2069779023270777,housing_type_Rækkehus,173
+3212,-0.23349245102822244,housing_type_Ejerlejlighed,173
+3213,0.0,housing_type_Villa,173
+3214,0.0,1,169
+3215,0.416370594748244,erhvervsindkomst,169
+3216,0.3317494063291466,formueindkomst,169
+3217,0.003747567678167605,anden_personlig_indkomst,169
+3218,-0.19493503915171154,kont_recip_tot,169
+3219,0.1197012607241338,gini_index,169
+3220,0.0,unemployed,169
+3221,0.0,pop_den,169
+3222,0.3409462527363906,housing_type_Rækkehus,169
+3223,-0.0,housing_type_Villa,169
+3224,-0.0,housing_type_Ejerlejlighed,169
+3225,0.0,1,167
+3226,0.0,erhvervsindkomst,167
+3227,0.0,formueindkomst,167
+3228,0.0,anden_personlig_indkomst,167
+3229,-0.0,kont_recip_tot,167
+3230,-0.0,gini_index,167
+3231,-0.0,unemployed,167
+3232,-0.0,pop_den,167
+3233,-0.0,erhvervsindkomst^2,167
+3234,-0.0,erhvervsindkomst formueindkomst,167
+3235,0.026266667665298355,erhvervsindkomst anden_personlig_indkomst,167
+3236,-0.0,erhvervsindkomst kont_recip_tot,167
+3237,0.0009158241415741029,erhvervsindkomst gini_index,167
+3238,-0.0,erhvervsindkomst unemployed,167
+3239,0.010988628448663914,erhvervsindkomst pop_den,167
+3240,0.0,formueindkomst^2,167
+3241,0.0,formueindkomst anden_personlig_indkomst,167
+3242,-0.0,formueindkomst kont_recip_tot,167
+3243,0.0112963806111066,formueindkomst gini_index,167
+3244,0.0,formueindkomst unemployed,167
+3245,0.015212618728268814,formueindkomst pop_den,167
+3246,0.0,anden_personlig_indkomst^2,167
+3247,0.0,anden_personlig_indkomst kont_recip_tot,167
+3248,0.008118331624208703,anden_personlig_indkomst gini_index,167
+3249,0.0,anden_personlig_indkomst unemployed,167
+3250,0.0012359626237157131,anden_personlig_indkomst pop_den,167
+3251,-0.0,kont_recip_tot^2,167
+3252,-0.004171679233782424,kont_recip_tot gini_index,167
+3253,-0.0,kont_recip_tot unemployed,167
+3254,-0.005364988925392462,kont_recip_tot pop_den,167
+3255,-0.008119714507679975,gini_index^2,167
+3256,0.0,gini_index unemployed,167
+3257,-3.922602136522499e-05,gini_index pop_den,167
+3258,0.0,unemployed^2,167
+3259,0.0008470848096723549,unemployed pop_den,167
+3260,-0.0003198952892363465,pop_den^2,167
+3261,-0.023295272057958522,erhvervsindkomst^3,167
+3262,-0.0019908367002821133,erhvervsindkomst^2 formueindkomst,167
+3263,0.020875858809260274,erhvervsindkomst^2 anden_personlig_indkomst,167
+3264,0.00839858674940277,erhvervsindkomst^2 kont_recip_tot,167
+3265,-0.002492952429195098,erhvervsindkomst^2 gini_index,167
+3266,-0.0,erhvervsindkomst^2 unemployed,167
+3267,0.0004863760286039804,erhvervsindkomst^2 pop_den,167
+3268,-0.01127946411456526,erhvervsindkomst formueindkomst^2,167
+3269,-0.0,erhvervsindkomst formueindkomst anden_personlig_indkomst,167
+3270,0.00811741665728115,erhvervsindkomst formueindkomst kont_recip_tot,167
+3271,0.00041302912708036254,erhvervsindkomst formueindkomst gini_index,167
+3272,0.0,erhvervsindkomst formueindkomst unemployed,167
+3273,0.0009555729286798592,erhvervsindkomst formueindkomst pop_den,167
+3274,0.0,erhvervsindkomst anden_personlig_indkomst^2,167
+3275,0.017247482535048406,erhvervsindkomst anden_personlig_indkomst kont_recip_tot,167
+3276,0.00013072023048952012,erhvervsindkomst anden_personlig_indkomst gini_index,167
+3277,0.0,erhvervsindkomst anden_personlig_indkomst unemployed,167
+3278,-0.00023967680408975246,erhvervsindkomst anden_personlig_indkomst pop_den,167
+3279,0.0027214907835835314,erhvervsindkomst kont_recip_tot^2,167
+3280,0.0,erhvervsindkomst kont_recip_tot gini_index,167
+3281,-0.0,erhvervsindkomst kont_recip_tot unemployed,167
+3282,0.0003139053993601116,erhvervsindkomst kont_recip_tot pop_den,167
+3283,-0.00025358037611171165,erhvervsindkomst gini_index^2,167
+3284,-0.0016317506778602152,erhvervsindkomst gini_index unemployed,167
+3285,0.00025513792356837906,erhvervsindkomst gini_index pop_den,167
+3286,0.017925646378590065,erhvervsindkomst unemployed^2,167
+3287,-0.0024998519480264017,erhvervsindkomst unemployed pop_den,167
+3288,0.00015911267174793323,erhvervsindkomst pop_den^2,167
+3289,-0.012532253788370107,formueindkomst^3,167
+3290,-0.0020696730736361898,formueindkomst^2 anden_personlig_indkomst,167
+3291,0.0022013493808915622,formueindkomst^2 kont_recip_tot,167
+3292,0.0021710531501501116,formueindkomst^2 gini_index,167
+3293,0.060384423542774214,formueindkomst^2 unemployed,167
+3294,0.001083878529084745,formueindkomst^2 pop_den,167
+3295,-0.04289268175210615,formueindkomst anden_personlig_indkomst^2,167
+3296,-0.026094934885186136,formueindkomst anden_personlig_indkomst kont_recip_tot,167
+3297,0.006113636161911757,formueindkomst anden_personlig_indkomst gini_index,167
+3298,-0.0,formueindkomst anden_personlig_indkomst unemployed,167
+3299,0.001443699868416634,formueindkomst anden_personlig_indkomst pop_den,167
+3300,-0.02552169022624098,formueindkomst kont_recip_tot^2,167
+3301,0.0022910994088369855,formueindkomst kont_recip_tot gini_index,167
+3302,-0.014293775593894305,formueindkomst kont_recip_tot unemployed,167
+3303,0.0005817543864179235,formueindkomst kont_recip_tot pop_den,167
+3304,0.00038144910643803207,formueindkomst gini_index^2,167
+3305,0.0,formueindkomst gini_index unemployed,167
+3306,0.00048409396170932665,formueindkomst gini_index pop_den,167
+3307,0.0,formueindkomst unemployed^2,167
+3308,3.809641201602144e-05,formueindkomst unemployed pop_den,167
+3309,0.00022643579364062252,formueindkomst pop_den^2,167
+3310,0.00853485449471013,anden_personlig_indkomst^3,167
+3311,-0.000804305169706255,anden_personlig_indkomst^2 kont_recip_tot,167
+3312,-0.0022781141837796117,anden_personlig_indkomst^2 gini_index,167
+3313,0.024810307983301614,anden_personlig_indkomst^2 unemployed,167
+3314,-0.0016398426522487232,anden_personlig_indkomst^2 pop_den,167
+3315,0.0036154426115631816,anden_personlig_indkomst kont_recip_tot^2,167
+3316,0.00014637530808387918,anden_personlig_indkomst kont_recip_tot gini_index,167
+3317,0.0,anden_personlig_indkomst kont_recip_tot unemployed,167
+3318,-0.0015849945793886407,anden_personlig_indkomst kont_recip_tot pop_den,167
+3319,0.0006986404590212305,anden_personlig_indkomst gini_index^2,167
+3320,5.215034810741707e-05,anden_personlig_indkomst gini_index unemployed,167
+3321,-0.00012200417665851821,anden_personlig_indkomst gini_index pop_den,167
+3322,0.0,anden_personlig_indkomst unemployed^2,167
+3323,2.2761086035864383e-06,anden_personlig_indkomst unemployed pop_den,167
+3324,-0.00015012337482967007,anden_personlig_indkomst pop_den^2,167
+3325,0.010631094549200103,kont_recip_tot^3,167
+3326,-0.0037754646500194576,kont_recip_tot^2 gini_index,167
+3327,0.003375908368604012,kont_recip_tot^2 unemployed,167
+3328,-0.000252309684921295,kont_recip_tot^2 pop_den,167
+3329,-0.0007378324230000629,kont_recip_tot gini_index^2,167
+3330,-0.0023136250899163458,kont_recip_tot gini_index unemployed,167
+3331,-7.182543774801148e-05,kont_recip_tot gini_index pop_den,167
+3332,-0.0012487882219283067,kont_recip_tot unemployed^2,167
+3333,-0.0003080142578089985,kont_recip_tot unemployed pop_den,167
+3334,-0.00011505252202216975,kont_recip_tot pop_den^2,167
+3335,0.00041689007524887994,gini_index^3,167
+3336,-0.0007546610158215377,gini_index^2 unemployed,167
+3337,0.00013049131018368215,gini_index^2 pop_den,167
+3338,0.0036799647876494678,gini_index unemployed^2,167
+3339,-0.00046782487065117267,gini_index unemployed pop_den,167
+3340,8.467222767079486e-05,gini_index pop_den^2,167
+3341,-0.028459550369559466,unemployed^3,167
+3342,0.004878568218317403,unemployed^2 pop_den,167
+3343,-0.00016841074896054218,unemployed pop_den^2,167
+3344,2.3638888929938596e-05,pop_den^3,167
+3345,0.12815808178290136,housing_type_Rækkehus,167
+3346,-0.1406678148522396,housing_type_Ejerlejlighed,167
+3347,-0.0,housing_type_Villa,167
+3348,0.0,1,165
+3349,0.2353638117961909,erhvervsindkomst,165
+3350,0.24460352445396044,formueindkomst,165
+3351,0.01983976292847228,anden_personlig_indkomst,165
+3352,-0.2362697089159009,kont_recip_tot,165
+3353,0.06750907074523632,gini_index,165
+3354,-0.0,unemployed,165
+3355,-0.3478209152943301,pop_den,165
+3356,-0.12506072380560748,housing_type_Ejerlejlighed,165
+3357,0.0,housing_type_Villa,165
+3358,0.0,housing_type_Rækkehus,165
+3359,0.0,1,163
+3360,0.0,erhvervsindkomst,163
+3361,0.0,formueindkomst,163
+3362,0.0,anden_personlig_indkomst,163
+3363,-0.0,kont_recip_tot,163
+3364,-0.0,gini_index,163
+3365,0.0,unemployed,163
+3366,0.0,pop_den,163
+3367,0.07477107588137759,erhvervsindkomst^2,163
+3368,0.0,erhvervsindkomst formueindkomst,163
+3369,0.0,erhvervsindkomst anden_personlig_indkomst,163
+3370,-0.042300094178180175,erhvervsindkomst kont_recip_tot,163
+3371,0.021175499137700643,erhvervsindkomst gini_index,163
+3372,0.0,erhvervsindkomst unemployed,163
+3373,0.002592580191150314,erhvervsindkomst pop_den,163
+3374,-0.2639015023080079,formueindkomst^2,163
+3375,0.1905828659682407,formueindkomst anden_personlig_indkomst,163
+3376,0.04440872734788637,formueindkomst kont_recip_tot,163
+3377,0.0,formueindkomst gini_index,163
+3378,0.5599354699296577,formueindkomst unemployed,163
+3379,0.007552480226039583,formueindkomst pop_den,163
+3380,-0.05434006845677114,anden_personlig_indkomst^2,163
+3381,0.10957397328261217,anden_personlig_indkomst kont_recip_tot,163
+3382,8.415778610017292e-08,anden_personlig_indkomst gini_index,163
+3383,-0.08555929674759434,anden_personlig_indkomst unemployed,163
+3384,-0.003495558769065144,anden_personlig_indkomst pop_den,163
+3385,-0.09019736780596982,kont_recip_tot^2,163
+3386,-0.0,kont_recip_tot gini_index,163
+3387,0.0,kont_recip_tot unemployed,163
+3388,0.010351602815846992,kont_recip_tot pop_den,163
+3389,-0.010160195045521741,gini_index^2,163
+3390,-0.0,gini_index unemployed,163
+3391,-0.0014825025279114684,gini_index pop_den,163
+3392,-0.03840988363446823,unemployed^2,163
+3393,0.0054690738408672635,unemployed pop_den,163
+3394,0.0016260902150436276,pop_den^2,163
+3395,0.0,housing_type_Ejerlejlighed,163
+3396,0.2995243340783821,housing_type_Rækkehus,163
+3397,-0.03514906146077576,housing_type_Villa,163
+3398,0.0,1,161
+3399,0.0,erhvervsindkomst,161
+3400,0.0,formueindkomst,161
+3401,0.0,anden_personlig_indkomst,161
+3402,-0.0,kont_recip_tot,161
+3403,0.0,gini_index,161
+3404,0.0,unemployed,161
+3405,-0.0,pop_den,161
+3406,0.023773651900056023,erhvervsindkomst^2,161
+3407,1.700182654260207e-05,erhvervsindkomst formueindkomst,161
+3408,-0.2108211054175206,erhvervsindkomst anden_personlig_indkomst,161
+3409,0.23245765476544042,erhvervsindkomst kont_recip_tot,161
+3410,0.08114984012017092,erhvervsindkomst gini_index,161
+3411,0.18891094856805365,erhvervsindkomst unemployed,161
+3412,0.025118704158064553,erhvervsindkomst pop_den,161
+3413,-0.031442748621581675,formueindkomst^2,161
+3414,0.17750614851992247,formueindkomst anden_personlig_indkomst,161
+3415,0.13095287748031023,formueindkomst kont_recip_tot,161
+3416,-0.11618352640919366,formueindkomst gini_index,161
+3417,-0.0,formueindkomst unemployed,161
+3418,0.009871989508174752,formueindkomst pop_den,161
+3419,0.0,anden_personlig_indkomst^2,161
+3420,0.010945061685328192,anden_personlig_indkomst kont_recip_tot,161
+3421,-0.018168358439272354,anden_personlig_indkomst gini_index,161
+3422,0.05745881820192139,anden_personlig_indkomst unemployed,161
+3423,0.020262050231278965,anden_personlig_indkomst pop_den,161
+3424,0.016786644368282137,kont_recip_tot^2,161
+3425,-0.11756434181472226,kont_recip_tot gini_index,161
+3426,-0.2079912471668847,kont_recip_tot unemployed,161
+3427,-0.03388114337250148,kont_recip_tot pop_den,161
+3428,0.030728801828059576,gini_index^2,161
+3429,0.01808645718882695,gini_index unemployed,161
+3430,-0.0,gini_index pop_den,161
+3431,0.017546613282104162,unemployed^2,161
+3432,0.022422672670965205,unemployed pop_den,161
+3433,-0.01783506533264317,pop_den^2,161
+3434,0.2726380702401868,housing_type_Rækkehus,161
+3435,-0.05175248007671968,housing_type_Ejerlejlighed,161
+3436,-0.0,housing_type_Villa,161
+3437,0.0,1,159
+3438,0.0,erhvervsindkomst,159
+3439,0.12657638452272357,formueindkomst,159
+3440,-0.0,anden_personlig_indkomst,159
+3441,-0.35071545911181573,kont_recip_tot,159
+3442,0.7962503256287944,gini_index,159
+3443,0.018721273746652285,unemployed,159
+3444,-0.18955644508772715,pop_den,159
+3445,0.43379989245085687,housing_type_Rækkehus,159
+3446,-0.21427906375698366,housing_type_Ejerlejlighed,159
+3447,-0.0,housing_type_Villa,159
+3448,0.0,1,157
+3449,0.33437485246538234,erhvervsindkomst,157
+3450,0.3566661493347083,formueindkomst,157
+3451,0.0,anden_personlig_indkomst,157
+3452,0.0,kont_recip_tot,157
+3453,0.0,gini_index,157
+3454,-0.0,unemployed,157
+3455,0.0,pop_den,157
+3456,0.03254647033451705,erhvervsindkomst^2,157
+3457,-0.004909764286308539,erhvervsindkomst formueindkomst,157
+3458,0.0,erhvervsindkomst anden_personlig_indkomst,157
+3459,0.051539098617059007,erhvervsindkomst kont_recip_tot,157
+3460,0.013882397897636794,erhvervsindkomst gini_index,157
+3461,0.05179337125821514,erhvervsindkomst unemployed,157
+3462,0.00610614131874317,erhvervsindkomst pop_den,157
+3463,-0.1901770702077104,formueindkomst^2,157
+3464,0.4928093143336244,formueindkomst anden_personlig_indkomst,157
+3465,0.0,formueindkomst kont_recip_tot,157
+3466,0.017591997239824297,formueindkomst gini_index,157
+3467,-0.24148195777461257,formueindkomst unemployed,157
+3468,-0.015529227906164119,formueindkomst pop_den,157
+3469,-0.09595954489094563,anden_personlig_indkomst^2,157
+3470,0.002643835541333081,anden_personlig_indkomst kont_recip_tot,157
+3471,-0.07867423128576381,anden_personlig_indkomst gini_index,157
+3472,0.22176236598623647,anden_personlig_indkomst unemployed,157
+3473,-0.019855814387648146,anden_personlig_indkomst pop_den,157
+3474,-0.0014313542660254674,kont_recip_tot^2,157
+3475,-0.05034561644308069,kont_recip_tot gini_index,157
+3476,0.00430022865955826,kont_recip_tot unemployed,157
+3477,0.0037479303109230915,kont_recip_tot pop_den,157
+3478,0.08879336510510885,gini_index^2,157
+3479,0.03617824140448097,gini_index unemployed,157
+3480,-0.020202192300970253,gini_index pop_den,157
+3481,-0.026511231716404692,unemployed^2,157
+3482,-0.0014439533086155728,unemployed pop_den,157
+3483,-0.005969730515501017,pop_den^2,157
+3484,0.2492219952851776,housing_type_Rækkehus,157
+3485,-0.34579347870123106,housing_type_Ejerlejlighed,157
+3486,0.0,housing_type_Villa,157
+3487,0.0,1,155
+3488,0.0,erhvervsindkomst,155
+3489,0.0,formueindkomst,155
+3490,-0.0,anden_personlig_indkomst,155
+3491,-0.0,kont_recip_tot,155
+3492,0.0,gini_index,155
+3493,-0.0,unemployed,155
+3494,0.0,pop_den,155
+3495,-0.0,erhvervsindkomst^2,155
+3496,-0.0,erhvervsindkomst formueindkomst,155
+3497,-0.0,erhvervsindkomst anden_personlig_indkomst,155
+3498,0.0,erhvervsindkomst kont_recip_tot,155
+3499,0.02495822836547685,erhvervsindkomst gini_index,155
+3500,-0.0,erhvervsindkomst unemployed,155
+3501,0.01249366360439354,erhvervsindkomst pop_den,155
+3502,-0.0,formueindkomst^2,155
+3503,0.0,formueindkomst anden_personlig_indkomst,155
+3504,0.0,formueindkomst kont_recip_tot,155
+3505,-0.0021877018982530286,formueindkomst gini_index,155
+3506,0.0,formueindkomst unemployed,155
+3507,0.01500993782124374,formueindkomst pop_den,155
+3508,-0.0,anden_personlig_indkomst^2,155
+3509,-0.0,anden_personlig_indkomst kont_recip_tot,155
+3510,-0.0,anden_personlig_indkomst gini_index,155
+3511,-0.0,anden_personlig_indkomst unemployed,155
+3512,-1.6950185138735562e-05,anden_personlig_indkomst pop_den,155
+3513,0.0,kont_recip_tot^2,155
+3514,0.0,kont_recip_tot gini_index,155
+3515,-0.0,kont_recip_tot unemployed,155
+3516,-0.006205065656583871,kont_recip_tot pop_den,155
+3517,0.00027057240197085033,gini_index^2,155
+3518,-0.0,gini_index unemployed,155
+3519,0.0007534523038304324,gini_index pop_den,155
+3520,0.0,unemployed^2,155
+3521,-0.0,unemployed pop_den,155
+3522,0.00032813727804146034,pop_den^2,155
+3523,-0.023693592740270854,erhvervsindkomst^3,155
+3524,0.005771994029899881,erhvervsindkomst^2 formueindkomst,155
+3525,-0.020840378298205408,erhvervsindkomst^2 anden_personlig_indkomst,155
+3526,0.0013535730957129769,erhvervsindkomst^2 kont_recip_tot,155
+3527,0.0035415365186497925,erhvervsindkomst^2 gini_index,155
+3528,0.058248687166066924,erhvervsindkomst^2 unemployed,155
+3529,0.0020932815248164358,erhvervsindkomst^2 pop_den,155
+3530,-0.012774354330240831,erhvervsindkomst formueindkomst^2,155
+3531,-0.0017397346864534429,erhvervsindkomst formueindkomst anden_personlig_indkomst,155
+3532,-0.000803375242955437,erhvervsindkomst formueindkomst kont_recip_tot,155
+3533,0.004273292134873494,erhvervsindkomst formueindkomst gini_index,155
+3534,0.008847735569351953,erhvervsindkomst formueindkomst unemployed,155
+3535,0.0022572811512642688,erhvervsindkomst formueindkomst pop_den,155
+3536,0.006939029653491617,erhvervsindkomst anden_personlig_indkomst^2,155
+3537,0.0,erhvervsindkomst anden_personlig_indkomst kont_recip_tot,155
+3538,-0.0014539542973664632,erhvervsindkomst anden_personlig_indkomst gini_index,155
+3539,-0.00022892583586625888,erhvervsindkomst anden_personlig_indkomst unemployed,155
+3540,0.0015930823250409358,erhvervsindkomst anden_personlig_indkomst pop_den,155
+3541,0.0017412879123089933,erhvervsindkomst kont_recip_tot^2,155
+3542,-0.0005754441008912803,erhvervsindkomst kont_recip_tot gini_index,155
+3543,-0.005703609827949322,erhvervsindkomst kont_recip_tot unemployed,155
+3544,-0.0008915279034878838,erhvervsindkomst kont_recip_tot pop_den,155
+3545,0.0005165685644249619,erhvervsindkomst gini_index^2,155
+3546,0.0,erhvervsindkomst gini_index unemployed,155
+3547,0.0006091477460323883,erhvervsindkomst gini_index pop_den,155
+3548,0.0,erhvervsindkomst unemployed^2,155
+3549,0.001316551647607687,erhvervsindkomst unemployed pop_den,155
+3550,0.0003713981451079454,erhvervsindkomst pop_den^2,155
+3551,-0.06674429116584693,formueindkomst^3,155
+3552,-0.07236392910722653,formueindkomst^2 anden_personlig_indkomst,155
+3553,0.023928844801118992,formueindkomst^2 kont_recip_tot,155
+3554,0.008716528982083716,formueindkomst^2 gini_index,155
+3555,0.0,formueindkomst^2 unemployed,155
+3556,0.004267820169344534,formueindkomst^2 pop_den,155
+3557,0.018839888872882297,formueindkomst anden_personlig_indkomst^2,155
+3558,-0.061413526362792244,formueindkomst anden_personlig_indkomst kont_recip_tot,155
+3559,0.007588447037178627,formueindkomst anden_personlig_indkomst gini_index,155
+3560,-0.0,formueindkomst anden_personlig_indkomst unemployed,155
+3561,0.01144562424713446,formueindkomst anden_personlig_indkomst pop_den,155
+3562,-0.0011074037050183962,formueindkomst kont_recip_tot^2,155
+3563,-0.004099581571590852,formueindkomst kont_recip_tot gini_index,155
+3564,-0.19517259599170966,formueindkomst kont_recip_tot unemployed,155
+3565,-0.00013435126238739442,formueindkomst kont_recip_tot pop_den,155
+3566,-0.0013117631457692314,formueindkomst gini_index^2,155
+3567,0.05229239057225814,formueindkomst gini_index unemployed,155
+3568,0.0015165714149281972,formueindkomst gini_index pop_den,155
+3569,0.0,formueindkomst unemployed^2,155
+3570,0.03073549719345088,formueindkomst unemployed pop_den,155
+3571,0.0010440336950359361,formueindkomst pop_den^2,155
+3572,0.014616698645303577,anden_personlig_indkomst^3,155
+3573,-0.02239191882282645,anden_personlig_indkomst^2 kont_recip_tot,155
+3574,-0.0017705290967872627,anden_personlig_indkomst^2 gini_index,155
+3575,-0.004806713346393541,anden_personlig_indkomst^2 unemployed,155
+3576,-0.0003391670994925017,anden_personlig_indkomst^2 pop_den,155
+3577,0.07333894983087214,anden_personlig_indkomst kont_recip_tot^2,155
+3578,-0.018080618236493564,anden_personlig_indkomst kont_recip_tot gini_index,155
+3579,-0.013636703864098489,anden_personlig_indkomst kont_recip_tot unemployed,155
+3580,-0.00027271238290608595,anden_personlig_indkomst kont_recip_tot pop_den,155
+3581,0.0002390361199669947,anden_personlig_indkomst gini_index^2,155
+3582,-0.01654228714851748,anden_personlig_indkomst gini_index unemployed,155
+3583,0.0010610256069141864,anden_personlig_indkomst gini_index pop_den,155
+3584,0.0,anden_personlig_indkomst unemployed^2,155
+3585,-0.0030216778814026782,anden_personlig_indkomst unemployed pop_den,155
+3586,0.00039415235944207755,anden_personlig_indkomst pop_den^2,155
+3587,0.005382415169454263,kont_recip_tot^3,155
+3588,-0.0009482553004131823,kont_recip_tot^2 gini_index,155
+3589,0.006896542946815959,kont_recip_tot^2 unemployed,155
+3590,-0.0017814415233785735,kont_recip_tot^2 pop_den,155
+3591,-0.0014751530722558472,kont_recip_tot gini_index^2,155
+3592,0.0008111071182875516,kont_recip_tot gini_index unemployed,155
+3593,-0.00039491003796121035,kont_recip_tot gini_index pop_den,155
+3594,0.008222889527771695,kont_recip_tot unemployed^2,155
+3595,-0.0021847472463887153,kont_recip_tot unemployed pop_den,155
+3596,-0.0004604484130239798,kont_recip_tot pop_den^2,155
+3597,-0.00019213903893052756,gini_index^3,155
+3598,-0.0022282093086507166,gini_index^2 unemployed,155
+3599,0.00018729987545523823,gini_index^2 pop_den,155
+3600,0.003589044249870487,gini_index unemployed^2,155
+3601,-0.0010671561860617648,gini_index unemployed pop_den,155
+3602,0.0001572158225023757,gini_index pop_den^2,155
+3603,0.018366147251847258,unemployed^3,155
+3604,0.0005355903163717852,unemployed^2 pop_den,155
+3605,-0.0009705145883996015,unemployed pop_den^2,155
+3606,-7.529562801829696e-06,pop_den^3,155
+3607,0.06034356484561581,housing_type_Ejerlejlighed,155
+3608,0.0,housing_type_Rækkehus,155
+3609,-0.41914821354975446,housing_type_Villa,155
+3610,0.0,1,153
+3611,0.3732264068429744,erhvervsindkomst,153
+3612,0.31160253544921424,formueindkomst,153
+3613,-0.0,anden_personlig_indkomst,153
+3614,-0.20625455180460273,kont_recip_tot,153
+3615,0.19934416956680287,gini_index,153
+3616,0.0,unemployed,153
+3617,0.06378657909978722,pop_den,153
+3618,-0.08384559868769646,housing_type_Ejerlejlighed,153
+3619,0.2141064060497111,housing_type_Rækkehus,153
+3620,0.0,housing_type_Villa,153
+3621,0.0,1,151
+3622,-0.0,erhvervsindkomst,151
+3623,0.0,formueindkomst,151
+3624,0.0,anden_personlig_indkomst,151
+3625,-0.0,kont_recip_tot,151
+3626,0.0,gini_index,151
+3627,-0.0,unemployed,151
+3628,0.0,pop_den,151
+3629,-0.0,erhvervsindkomst^2,151
+3630,-0.0,erhvervsindkomst formueindkomst,151
+3631,-0.0,erhvervsindkomst anden_personlig_indkomst,151
+3632,0.0,erhvervsindkomst kont_recip_tot,151
+3633,-0.0,erhvervsindkomst gini_index,151
+3634,0.0,erhvervsindkomst unemployed,151
+3635,-0.0,erhvervsindkomst pop_den,151
+3636,-0.0,formueindkomst^2,151
+3637,-0.0,formueindkomst anden_personlig_indkomst,151
+3638,0.0,formueindkomst kont_recip_tot,151
+3639,0.0,formueindkomst gini_index,151
+3640,-0.0,formueindkomst unemployed,151
+3641,0.005288516724559779,formueindkomst pop_den,151
+3642,-0.0,anden_personlig_indkomst^2,151
+3643,0.0,anden_personlig_indkomst kont_recip_tot,151
+3644,0.0,anden_personlig_indkomst gini_index,151
+3645,-0.0,anden_personlig_indkomst unemployed,151
+3646,0.0,anden_personlig_indkomst pop_den,151
+3647,0.0,kont_recip_tot^2,151
+3648,0.0,kont_recip_tot gini_index,151
+3649,-0.0,kont_recip_tot unemployed,151
+3650,-0.002992261764162407,kont_recip_tot pop_den,151
+3651,0.0,gini_index^2,151
+3652,-0.0,gini_index unemployed,151
+3653,0.00032346061818846686,gini_index pop_den,151
+3654,-0.0,unemployed^2,151
+3655,-0.0,unemployed pop_den,151
+3656,0.005230084292557921,pop_den^2,151
+3657,-0.00963223001342291,erhvervsindkomst^3,151
+3658,-0.0,erhvervsindkomst^2 formueindkomst,151
+3659,-0.0003491361321278976,erhvervsindkomst^2 anden_personlig_indkomst,151
+3660,0.017154056125844183,erhvervsindkomst^2 kont_recip_tot,151
+3661,-0.003441686976834573,erhvervsindkomst^2 gini_index,151
+3662,0.0,erhvervsindkomst^2 unemployed,151
+3663,-0.0,erhvervsindkomst^2 pop_den,151
+3664,-0.0,erhvervsindkomst formueindkomst^2,151
+3665,-0.0,erhvervsindkomst formueindkomst anden_personlig_indkomst,151
+3666,0.0,erhvervsindkomst formueindkomst kont_recip_tot,151
+3667,0.0,erhvervsindkomst formueindkomst gini_index,151
+3668,-0.0,erhvervsindkomst formueindkomst unemployed,151
+3669,0.0004722547560512228,erhvervsindkomst formueindkomst pop_den,151
+3670,-0.001220249616770366,erhvervsindkomst anden_personlig_indkomst^2,151
+3671,0.010176124398119822,erhvervsindkomst anden_personlig_indkomst kont_recip_tot,151
+3672,0.0,erhvervsindkomst anden_personlig_indkomst gini_index,151
+3673,0.0,erhvervsindkomst anden_personlig_indkomst unemployed,151
+3674,-0.0003165786673337211,erhvervsindkomst anden_personlig_indkomst pop_den,151
+3675,0.007519201576335381,erhvervsindkomst kont_recip_tot^2,151
+3676,9.419242422548347e-07,erhvervsindkomst kont_recip_tot gini_index,151
+3677,-0.0,erhvervsindkomst kont_recip_tot unemployed,151
+3678,-0.001859896108385658,erhvervsindkomst kont_recip_tot pop_den,151
+3679,-0.0,erhvervsindkomst gini_index^2,151
+3680,-0.0,erhvervsindkomst gini_index unemployed,151
+3681,0.00026226763612656603,erhvervsindkomst gini_index pop_den,151
+3682,-0.0,erhvervsindkomst unemployed^2,151
+3683,-0.00015187796996096094,erhvervsindkomst unemployed pop_den,151
+3684,0.0001000720236557067,erhvervsindkomst pop_den^2,151
+3685,-0.009035927739885203,formueindkomst^3,151
+3686,-0.0010107553625506374,formueindkomst^2 anden_personlig_indkomst,151
+3687,-0.0,formueindkomst^2 kont_recip_tot,151
+3688,-0.0031228981726813534,formueindkomst^2 gini_index,151
+3689,-0.0,formueindkomst^2 unemployed,151
+3690,-0.00020978656688130923,formueindkomst^2 pop_den,151
+3691,-0.0002632984008853026,formueindkomst anden_personlig_indkomst^2,151
+3692,0.0,formueindkomst anden_personlig_indkomst kont_recip_tot,151
+3693,0.0023468664164903114,formueindkomst anden_personlig_indkomst gini_index,151
+3694,-0.0,formueindkomst anden_personlig_indkomst unemployed,151
+3695,0.0006822004501325962,formueindkomst anden_personlig_indkomst pop_den,151
+3696,0.0,formueindkomst kont_recip_tot^2,151
+3697,0.0,formueindkomst kont_recip_tot gini_index,151
+3698,-0.0,formueindkomst kont_recip_tot unemployed,151
+3699,5.620605752291117e-06,formueindkomst kont_recip_tot pop_den,151
+3700,0.00030290650650402457,formueindkomst gini_index^2,151
+3701,-0.0,formueindkomst gini_index unemployed,151
+3702,0.0004953948337177273,formueindkomst gini_index pop_den,151
+3703,-0.0,formueindkomst unemployed^2,151
+3704,-0.00824372543333055,formueindkomst unemployed pop_den,151
+3705,0.00011825173985736162,formueindkomst pop_den^2,151
+3706,-0.0012979696137017434,anden_personlig_indkomst^3,151
+3707,0.0003856798194330404,anden_personlig_indkomst^2 kont_recip_tot,151
+3708,-5.1100342041856585e-05,anden_personlig_indkomst^2 gini_index,151
+3709,0.0,anden_personlig_indkomst^2 unemployed,151
+3710,-0.0005629395920749388,anden_personlig_indkomst^2 pop_den,151
+3711,0.015291092852883586,anden_personlig_indkomst kont_recip_tot^2,151
+3712,0.0,anden_personlig_indkomst kont_recip_tot gini_index,151
+3713,-0.0031148911525934676,anden_personlig_indkomst kont_recip_tot unemployed,151
+3714,-0.003208463094594875,anden_personlig_indkomst kont_recip_tot pop_den,151
+3715,0.0027167779257298596,anden_personlig_indkomst gini_index^2,151
+3716,-0.0,anden_personlig_indkomst gini_index unemployed,151
+3717,0.0003066383959088092,anden_personlig_indkomst gini_index pop_den,151
+3718,-0.0017869646280333205,anden_personlig_indkomst unemployed^2,151
+3719,0.0008029020453980708,anden_personlig_indkomst unemployed pop_den,151
+3720,-2.1873065472069822e-05,anden_personlig_indkomst pop_den^2,151
+3721,0.008842749619278221,kont_recip_tot^3,151
+3722,-0.0028648775063212844,kont_recip_tot^2 gini_index,151
+3723,-0.0,kont_recip_tot^2 unemployed,151
+3724,-0.0017301496004918588,kont_recip_tot^2 pop_den,151
+3725,-0.000673255772416963,kont_recip_tot gini_index^2,151
+3726,0.0,kont_recip_tot gini_index unemployed,151
+3727,-0.0012704877100531032,kont_recip_tot gini_index pop_den,151
+3728,-0.0,kont_recip_tot unemployed^2,151
+3729,-0.0007407794667480588,kont_recip_tot unemployed pop_den,151
+3730,-0.0005177030605728683,kont_recip_tot pop_den^2,151
+3731,-0.00025770796360377845,gini_index^3,151
+3732,0.0020340002962956336,gini_index^2 unemployed,151
+3733,0.00020911035985111783,gini_index^2 pop_den,151
+3734,-0.0,gini_index unemployed^2,151
+3735,0.0009656906341938417,gini_index unemployed pop_den,151
+3736,0.0001763765412109371,gini_index pop_den^2,151
+3737,-0.0,unemployed^3,151
+3738,-0.00013411462777959194,unemployed^2 pop_den,151
+3739,0.00021264231077316583,unemployed pop_den^2,151
+3740,7.400960464861783e-05,pop_den^3,151
+3741,-0.0,housing_type_Ejerlejlighed,151
+3742,0.15913977375622504,housing_type_Rækkehus,151
+3743,-0.08209415465150603,housing_type_Villa,151
+3744,0.0,1,147
+3745,0.0,erhvervsindkomst,147
+3746,-0.0,formueindkomst,147
+3747,0.0,anden_personlig_indkomst,147
+3748,-0.0,kont_recip_tot,147
+3749,0.0,gini_index,147
+3750,-0.0,unemployed,147
+3751,-0.0,pop_den,147
+3752,0.029328871582124383,erhvervsindkomst^2,147
+3753,-0.0,erhvervsindkomst formueindkomst,147
+3754,-0.0,erhvervsindkomst anden_personlig_indkomst,147
+3755,0.005417415640269917,erhvervsindkomst kont_recip_tot,147
+3756,0.029738807330867822,erhvervsindkomst gini_index,147
+3757,-0.0,erhvervsindkomst unemployed,147
+3758,0.008910580912581465,erhvervsindkomst pop_den,147
+3759,-0.05132424634391978,formueindkomst^2,147
+3760,-0.01583760338126036,formueindkomst anden_personlig_indkomst,147
+3761,0.11736491114036232,formueindkomst kont_recip_tot,147
+3762,0.0,formueindkomst gini_index,147
+3763,-0.004499997969408937,formueindkomst unemployed,147
+3764,-0.0,formueindkomst pop_den,147
+3765,0.03758281048260216,anden_personlig_indkomst^2,147
+3766,-0.010276060420961387,anden_personlig_indkomst kont_recip_tot,147
+3767,0.0,anden_personlig_indkomst gini_index,147
+3768,0.0,anden_personlig_indkomst unemployed,147
+3769,-0.0069634660028399286,anden_personlig_indkomst pop_den,147
+3770,-0.03264572098690233,kont_recip_tot^2,147
+3771,0.0,kont_recip_tot gini_index,147
+3772,-0.0,kont_recip_tot unemployed,147
+3773,-0.0,kont_recip_tot pop_den,147
+3774,0.013284570055891922,gini_index^2,147
+3775,-0.0,gini_index unemployed,147
+3776,0.0,gini_index pop_den,147
+3777,0.06935657535074784,unemployed^2,147
+3778,-0.0,unemployed pop_den,147
+3779,-0.003376497215764735,pop_den^2,147
+3780,0.34006498404384483,housing_type_Rækkehus,147
+3781,-0.0,housing_type_Villa,147
+3782,-0.21902536632186448,housing_type_Ejerlejlighed,147
+3783,0.0,1,101
+3784,0.0,erhvervsindkomst,101
+3785,0.0,formueindkomst,101
+3786,0.0,anden_personlig_indkomst,101
+3787,-0.0,kont_recip_tot,101
+3788,0.0,gini_index,101
+3789,-0.0,unemployed,101
+3790,-0.0,pop_den,101
+3791,0.04908801579497722,erhvervsindkomst^2,101
+3792,0.0,erhvervsindkomst formueindkomst,101
+3793,0.0,erhvervsindkomst anden_personlig_indkomst,101
+3794,0.0,erhvervsindkomst kont_recip_tot,101
+3795,0.04629474368427252,erhvervsindkomst gini_index,101
+3796,0.0,erhvervsindkomst unemployed,101
+3797,0.0076116026021505225,erhvervsindkomst pop_den,101
+3798,-0.059621959910060265,formueindkomst^2,101
+3799,0.0,formueindkomst anden_personlig_indkomst,101
+3800,0.11544578751509443,formueindkomst kont_recip_tot,101
+3801,0.0,formueindkomst gini_index,101
+3802,0.0,formueindkomst unemployed,101
+3803,-0.0,formueindkomst pop_den,101
+3804,0.0017672472670173486,anden_personlig_indkomst^2,101
+3805,-0.0,anden_personlig_indkomst kont_recip_tot,101
+3806,0.0,anden_personlig_indkomst gini_index,101
+3807,0.07985780877910449,anden_personlig_indkomst unemployed,101
+3808,-0.008501613364035394,anden_personlig_indkomst pop_den,101
+3809,0.01102410005369329,kont_recip_tot^2,101
+3810,-0.030294239996969993,kont_recip_tot gini_index,101
+3811,0.034575838155807524,kont_recip_tot unemployed,101
+3812,-0.02366199153581054,kont_recip_tot pop_den,101
+3813,0.03051719236368018,gini_index^2,101
+3814,0.0,gini_index unemployed,101
+3815,0.0,gini_index pop_den,101
+3816,-0.03310318066964816,unemployed^2,101
+3817,-0.02102821273679047,unemployed pop_den,101
+3818,-0.022716277752571373,pop_den^2,101
+3819,0.14599993622543092,housing_type_Rækkehus,101
+3820,-0.1062254874786461,housing_type_Villa,101
+3821,0.0,housing_type_Ejerlejlighed,101
