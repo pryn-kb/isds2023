@@ -1,5 +1,3 @@
 # isds2023
 
-Husk at hvis vi skal skrive på samlede dokumenter her - så skal vi forke repoet til vores egen konto, lave ændringerne der, og smide et pull request op til dette repo.
-
-Her er Daniels test-ændring.
+The repo associated with summer school isds2023, where Lars, Daniel and Christian from KUB Datalab participated
